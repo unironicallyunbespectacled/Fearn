@@ -11145,53 +11145,62 @@
     "subject": "cantonese",
     "unit": 27,
     "lessonNumber": 1,
-    "title": "傳統藝術：粵劇、廣彩與嶺南畫派 (Cantonese Opera & Lingnan Arts) (第1課)",
+    "title": "傳統藝術：粵劇行當、鑼鼓經與生旦淨丑舞台術語 (Cantonese Opera Conventions)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元27第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵劇（廣東大戲）核心舞台行當（文武生、花旦、丑生）、四功五法（唱做念打）及日常粵語中源自粵劇之高頻成語熟語（大陣仗、壓軸、開台）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵劇（Cantonese Opera，俗稱『廣東大戲』）係聯合國教科文組織人類非物質文化遺產，凝聚了嶺南戲劇、音樂與方言藝術之最高成就：\n\n一、粵劇核心表演技藝與行當劃分：\n１．「四功五法」（Sei Gung Ng Faat）：\n- 四功：唱（coeng3，唱腔聲樂）、做（zou6，身段表演）、念（nim6，白欖念白）、打（daa2，武打把子功）。\n- 五法：手、眼、身、法、步（手勢、眼神、身段、章法、步法）。\n\n２．主要角色行當（Roles）：\n- 「文武生」（man4 mou5 sang1）：能文能武之男主角。\n- 「正印花旦」（zing3 jan3 faa1 daan3*2）：劇團首席女主角。\n- 「丑生 / 幫緊」（cau2 sang1）：滑稽幽默之丑角配角。\n- 「武生 / 花面（淨）」（mou5 sang1 / faa1 min6*2）：威武勇猛之大花臉淨角。\n\n二、日常粵語中源自粵劇之熟語：\n- 「大陣仗」（daai6 zan6 zoeng6）：排場極大、聲勢浩大。\n- 「壓軸」（ngaat3 zuk6）：倒數第二個重要劇目（現泛指最後壓陣之精彩高潮）。\n- 「開台」（hoi1 toi4）：大戲正式開演（現亦引申指打麻雀開局）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 27 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 27 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 27 in communication."
+          "target": "今晚新光戲院上演經典粵劇《帝女花》，由正印花旦同文武生擔綱主演，全場座無虛席！",
+          "reading": "gam1 maan5 san1 gwong1 hei3 jyun6*2 soeng5 jin2 ging1 din2 jyut6 kek6 \"dai3 neoi5 faa1\", jau4 zing3 jan3 faa1 daan3*2 tung4 man4 mou5 sang1 daam1 gong1 zyu2 jin2, cyun4 coeng4 zo6 mou4 heoi1 zik6! [kɐm˥ maːn˩˧ sɐn˥ kʷɔːŋ˥ hei˧ jyːn˧˥ sœːŋ˩˧ jiːn˧˥ kɪŋ˥ tiːn˧˥ jyːt̚˨ kʰɪk̚˨ \"tɐi˧ nɵy˩˧ faː˥\", jɐu˨˩ tsɪŋ˧ jɐn˧ faː˥ taːn˧˥ tʰʊŋ˨˩ mɐn˨˩ mouou˩˧ sɐŋ˥ taːm˥ kɔːŋ˥ tsyː˧˥ jiːn˧˥, tsʰyːn˨˩ tsʰœːŋ˨˩ tsɔː˨ mouou˨˩ hɵy˥ tsɪk̚˨!] (GUM-MAHN SUN-GWONG HEY-YUEN SEUNG-YEEN GING-DEEN YUET-KEK \"DY-NEOY-FAH\", YAU JING-YUN FAH-DAHN TOONG MUN-MOU-SUNG DAHM-GONG JUE-YEEN, CHUEN-CHEUNG JOR-MOU-HOEY-JIK!)",
+          "translation": "Tonight Sunbeam Theatre stages the classic Cantonese opera 'Princess Changping', starring the leading prima donna and the civil-military lead, with a completely packed house!"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元27-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "粵劇演員講求「台上一分鐘，台下十年功」，唱做念打每一樣都要經過嚴格刻苦之基本功訓練。",
+          "reading": "jyut6 kek6 jin2 jyun4 gong2 kau4 \"toi4 soeng6 jat1 fan1 zung1, toi4 haa6 sap6 nin4 gung1\", coeng3 zou6 nim6 daa2 mui5 jat1 joeng6 dou1 jiu3 ging1 gwo3 jim4 gaak3 hak1 fu2 zi1 gei1 bun2 gung1 fan3 lin6. [jyːt̚˨ kʰɪk̚˨ jiːn˧˥ jyːn˨˩ kɔːŋ˧˥ kʰɐu˨˩ \"tʰɔːi˨˩ sœːŋ˨ jɐt̚˥ fɐn˥ tsʊŋ˥, tʰɔːi˨˩ haː˨ sɐp̚˨ niːn˨˩ kʊŋ˥\", tsʰœːŋ˧ tsou˨ niːm˨ taː˧˥ muːi˩˧ jɐt̚˥ jœːŋ˨ tou˥ jiu˧ kɪŋ˥ kʷɔː˧ jiːm˨˩ kaːk̚˧ hɐk̚˥ fuː˧˥ tsiː˥ kei˥ puːn˧˥ kʊŋ˥ fɐn˧ liːn˨] (YUET-KEK YEEN-YUEN GONG-KAU \"TOY-SEUNG YUT-FUN-JOONG, TOY-HAH SUP-NEEN-GONG\", CHEUNG-JOU-NEEM-DAH MOOY-YUT-YEUNG DOH YEW GING-GWOR YEEM-GAAK HUK-FOO JEE GAY-BOON-GONG FUN-LEEN)",
+          "translation": "Cantonese opera actors uphold 'one minute on stage requires ten years of effort off stage'; singing, acting, recitative, and acrobatics each require rigorous and painstaking training in basic skills."
+        },
+        {
+          "target": "呢次慈善晚會搞得好大陣仗，最後仲請嚟殿堂級歌星壓軸出場獻唱。",
+          "reading": "ni1 ci3 ci4 sin6 maan5 wui6*2 gaau2 dak1 hou2 daai6 zan6 zoeng6, zeoi3 hau6 zung6 cing2 lai4 din6 tong4 kap1 go1 sing1 ngaat3 zuk6 ceot1 coeng4 hin3 coeng3. [niː˥ tsʰiː˧ tsʰiː˨˩ siːn˨ maːn˩˧ wuːi˨˩ kaːu˧˥ tɐk̚˥ hou˧˥ taːi˨ tsɐn˨ tsœːŋ˨, tsɵy˧ hɐu˨ tsʊŋ˨ tsʰɪŋ˧˥ lɐi˨˩ tiːn˨ tʰɔːŋ˨˩ kʰɐp̚˥ kɔː˥ sɪŋ˥ ŋaːt̚˧ tsʊk̚˨ tsʰɵt̚˥ tsʰœːŋ˨˩ hiːn˧ tsʰœːŋ˧] (NEE-CHEE CHEE-SEEN MAHN-WUI GAU-DUK HOH DY-JUN-JEUNG, JEOY-HAU JOONG CHING-LY DEEN-TONG-KUP GOH-SING NGAHT-JUK CHUT-CHEUNG HEEN-CHEUNG)",
+          "translation": "This charity gala was organized on a grand scale, and in the end, a legendary singer was invited for the grand finale performance."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【粵劇大戲歌】文武生唱花旦嬌，唱做念打把子挑；排場盛大「大陣仗」，壓軸名篇掌聲囂！"
+      ],
+      "culturalNotes": [
+        "香港新光戲院（Sunbeam Theatre）被譽為『粵劇殿堂』。名伶如任劍輝、白雪仙創立的仙鳳鳴劇團，將唐滌生編寫之《帝女花》、《紫釵記》、《再世紅梅記》推向了世界戲劇文學之巔峰。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"明白\":",
+          "prompt": "【粵劇行當】在廣東大戲中，負責飾演劇團第一首席女主角之核心行當稱謂係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：知道錯置）",
-            "混雜生硬詞彙之不規範語句（例項：識得未適配）",
-            "聲調助詞搭配欠妥之表達（例項：記得誤用）"
+            "正印花旦 (Principal Leading Actress / Prima Donna)",
+            "文武生",
+            "丑生",
+            "大花面"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「正印花旦」為粵劇劇團中地位最高之首席女主角行當。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"明白\":",
+          "prompt": "【戲曲熟語】形容演出排場宏大、準備工作極為隆重浩大之粵語熟語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：識得未適配）",
-            "聲調助詞搭配欠妥之表達（例項：記得誤用）",
-            "語序顛倒嘅非標準句式（例項：知道錯置）"
+            "大陣仗 (Huge elaborate spectacle / Massive scale)",
+            "細場仔",
+            "草草收場",
+            "靜英英"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「大陣仗」源自古代戲曲大排場武打陣勢，現泛指聲勢浩大之場面。"
         }
       ]
     },
@@ -11199,15 +11208,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"明白\": Which sentence is completely correct?",
+          "prompt": "【戲劇名篇】被譽為粵劇黃金時代巔峰代表作、由劇作家唐滌生編撰之傳世名劇係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：記得誤用）",
-            "語序顛倒嘅非標準句式（例項：知道錯置）",
-            "混雜生硬詞彙之不規範語句（例項：識得未適配）"
+            "《帝女花》與《紫釵記》 (Princess Changping & The Purple Hairpin)",
+            "《哈姆雷特》",
+            "《天鵝湖》",
+            "《等待戈多》"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "《帝女花》與《紫釵記》為粵劇編劇泰斗唐滌生最負盛名之傳世經典。"
         }
       ],
       "passThreshold": 0.8
@@ -11218,53 +11227,62 @@
     "subject": "cantonese",
     "unit": 27,
     "lessonNumber": 2,
-    "title": "傳統藝術：粵劇、廣彩與嶺南畫派 (Cantonese Opera & Lingnan Arts) (第2課)",
+    "title": "嶺南畫派「折衷中西，融匯古今」與撞水撞粉技法 (Lingnan School of Painting)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元27第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握嶺南畫派代表人物「二高一陳」、藝術綱領（折衷中西，融匯古今）及標誌性水墨設色技法（撞水法、撞粉法、沒骨法）之專業藝術評述。",
     "presentation": {
-      "explanation": "",
+      "explanation": "嶺南畫派（Lingnan School of Painting）係中國近代三大畫派之一，創立於二十世紀初之廣東：\n\n一、代表人物與藝術主張：\n１．「嶺南三傑（二高一陳）」：\n- 高劍父（Gao Jianfu）、高奇峰（Gao Qifeng）、陳樹人（Chen Shuren）。\n２．核心藝術綱領：\n- 「折衷中西，融匯古今」：既繼承傳統中國水墨畫之筆墨氣韻與留白意境，又大膽吸收西方繪畫之透視、光影明暗與寫生寫實技法，革新傳統文人畫之因循守舊。\n\n二、嶺南畫派獨創之標誌性繪畫技法：\n１．「撞水法」（zong6 seoi2 faat3）：\n- 在色墨未乾之際，以清水滴入畫面，利用水與色墨之自然排斥擴散，形成水汽氤氳、光影斑駁之特殊質感。\n２．「撞粉法」（zong6 fan2 faat3）：\n- 在植物花卉或鳥獸設色未乾時，以白粉（白蛤粉）點入花瓣或羽翼中心，使色彩飽滿立體、嬌艷欲滴。\n３．「沒骨法」（mut6 gwat1 faat3）：\n- 不用墨線勾勒輪廓，直接以色彩渲染出物象形體。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 27 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 27 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 27 in communication."
+          "target": "嶺南畫派大師高劍父提倡「折衷中西，融匯古今」，將現代飛機、汽車與革命題材大膽融入傳統水墨畫之中。",
+          "reading": "ling5 naam4 waa2*6 paai3 daai6 si1 gou1 gim3 fu6 tai4 coeng3 \"zit3 cung1 zung1 sai1, jung4 wui6 gu2 gam1\", zoeng1 jin6 doi6 fei1 gei1, hei1 ce1 jyu5 gaak3 ming6 tai4 coi4 daai6 daam2 jung4 jap6 cyun4 tung4 seoi2 mak6 waa2*6 zi1 zung1. [lɪŋ˩˧ naːm˨˩ waː˧˥ pʰaːi˧ taːi˨ siː˥ kou˥ kiːm˧ fuː˨ tʰɐi˨˩ tsʰœːŋ˧ \"tsit̚˧ tsʰʊŋ˥ tsʊŋ˥ sɐi˥, jʊŋ˨˩ wuːi˨ kuː˧˥ kɐm˥\", tsœːŋ˥ jiːn˨ tɔːi˨ fei˥ kei˥, hei˧ tsʰɛː˥ jyː˩˧ kaːk̚˧ mɪŋ˨˩ tʰɐi˨˩ tsʰɔːi˨˩ taːi˨ taːm˧˥ jʊŋ˨˩ jɐp̚˨ tsʰyːn˨˩ tʰʊŋ˨˩ sɵy˧˥ mɐk̚˨ waː˧˥ tsiː˥ tsʊŋ˥] (LING-NAHM WAH-PY DY-SEE GOU GEEM-FOO TY-CHEUNG \"JEET-CHOONG JOONG-SY, YOONG-WUI GOO-GUM\", JEUNG YEEN-DOY FAY-GAY, HEY-CHEH YUE GAAK-MING TY-CHOY DY-DAHM YOONG-YUP CHUEN-TOONG SOEY-MUK-WAH JEE JOONG)",
+          "translation": "Gao Jianfu, master of the Lingnan School of Painting, advocated 'compromising Chinese and Western, blending ancient and modern', boldly incorporating modern airplanes, automobiles, and revolutionary themes into traditional ink wash painting."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元27-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "居廉發明嘅「撞水撞粉」技法，令嶺南花鳥畫呈現出嬌艷濕潤、光影生動之自然美感。",
+          "reading": "geoi1 lim4 faat3 ming4 ge3 \"zong6 seoi2 zong6 fan2\" gei6 faat3, ling6 ling5 naam4 faa1 niu5 waa2*6 cing4 jin6 ceot1 giu1 jim6 sap1 jeon6, gwong1 jing2 sang1 dung6 zi1 zi6 jin4 mei5 gam2. [kɵy˥ liːm˨˩ faːt̚˧ mɪŋ˨˩ kɛː˧ \"tsɔːŋ˨ sɵy˧˥ tsɔːŋ˨ fɐn˧˥\" kei˨ faːt̚˧, lɪŋ˨ lɪŋ˩˧ naːm˨˩ faː˥ niːu˩˧ waː˧˥ tsʰɪŋ˨˩ jiːn˨ tsʰɵt̚˥ kiːu˥ jiːm˨ sɐp̚˥ jɵn˨, kʷɔːŋ˥ jɪŋ˧˥ sɐŋ˥ tʊŋ˨ tsiː˥ tsiː˨ jiːn˨˩ mei˩˧ kɐm˧˥] (GOEY-LEEM FAHT-MING GEH \"JONG-SOEY JONG-FUN\" GAY-FAHT, LING LING-NAHM FAH-NIU-WAH CHING-YEEN-CHUT GEW-YEEM SUP-YUN, GWONG-YING SUNG-DOONG JEE JEE-YEEN MAY-GUM)",
+          "translation": "The 'colliding water and colliding powder' techniques invented by Ju Lian enabled Lingnan bird-and-flower paintings to display a natural aesthetic of tender moistness and vivid light-and-shadow effects."
+        },
+        {
+          "target": "陳樹人筆下嘅木棉花雄渾挺拔、紅艷如火，充分展現出嶺南風物熱烈奔放之生命力。",
+          "reading": "can4 syu6 jan4 bat1 haa6 ge3 muk6 min4 faa1 hung4 wan4 ting5 bat6, hung4 jim6 jyu4 fo2, cung1 fan1 zin2 jin6 ceot1 ling5 naam4 fung1 mat6 jit6 lit6 ban1 fong3 zi1 sang1 ming6 lik6. [tsʰɐn˨˩ syː˨ jɐn˨˩ pɐt̚˥ haː˨ kɛː˧ mʊk̚˨ miːn˨˩ faː˥ hʊŋ˨˩ wɐn˨˩ tʰɪŋ˩˧ pɐt̚˨, hʊŋ˨˩ jiːm˨ jyː˨˩ fɔː˧˥, tsʰʊŋ˥ fɐn˥ tsiːn˧˥ jiːn˨ tsʰɵt̚˥ lɪŋ˩˧ naːm˨˩ fʊŋ˥ mɐt̚˨ jiːt̚˨ liːt̚˨ pɐn˥ fɔːŋ˧ tsiː˥ sɐŋ˥ mɪŋ˨ lɪk̚˨] (CHUN SYU-YUN BUT-HAH GEH MOK-MEEN-FAH HOONG-WUN TING-BUT, HOONG-YEEM YUE FOH, CHOONG-FUN JEEN-YEEN-CHUT LING-NAHM FONG-MUT YEET-LEET BUN-FONG JEE SUNG-MING-LIK)",
+          "translation": "The kapok blossoms painted by Chen Shuren are vigorous and erect, red as fire, fully demonstrating the ardent and unrestrained vitality of Lingnan natural scenery."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【嶺南畫派歌】二高一陳創畫壇，折衷中西古今連；撞水撞粉居派妙，嶺南風物墨香傳！"
+      ],
+      "culturalNotes": [
+        "居巢、居廉（『二居』）創立之隔山畫派，在十香園中培育了高劍父、陳樹人等名家。十香園位於廣州海珠區，被譽為『嶺南畫派的搖籃』。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"知道\":",
+          "prompt": "【畫派宗旨在於】二十世紀初嶺南畫派（高劍父、高奇峰、陳樹人）的核心藝術綱領係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：識得錯置）",
-            "混雜生硬詞彙之不規範語句（例項：記得未適配）",
-            "聲調助詞搭配欠妥之表達（例項：唔記得誤用）"
+            "折衷中西，融匯古今 (Compromise Chinese & Western, blend ancient & modern)",
+            "全盤模仿古代文人畫",
+            "徹底放棄中國傳統筆墨",
+            "單純追求西洋抽象藝術"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「折衷中西，融匯古今」為嶺南畫派最核心之藝術革新旗幟。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"知道\":",
+          "prompt": "【水墨技法】在花鳥設色未乾時注入清水或白蛤粉以形成生動光影與濕潤質感之嶺南畫派技法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：記得未適配）",
-            "聲調助詞搭配欠妥之表達（例項：唔記得誤用）",
-            "語序顛倒嘅非標準句式（例項：識得錯置）"
+            "撞水法與撞粉法 (Colliding water & powder techniques)",
+            "油畫厚塗法",
+            "版畫刻線法",
+            "水彩拓印法"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「撞水撞粉」為嶺南畫派先驅居廉所獨創之標誌性繪畫技法。"
         }
       ]
     },
@@ -11272,15 +11290,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"知道\": Which sentence is completely correct?",
+          "prompt": "【畫派三傑】在中國近代美術史上被尊稱為「嶺南三傑（二高一陳）」的三位畫壇宗師係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：唔記得誤用）",
-            "語序顛倒嘅非標準句式（例項：識得錯置）",
-            "混雜生硬詞彙之不規範語句（例項：記得未適配）"
+            "高劍父、高奇峰、陳樹人 (Gao Jianfu, Gao Qifeng, Chen Shuren)",
+            "齊白石、張大千、徐悲鴻",
+            "任伯年、吳昌碩、虛谷",
+            "黃賓虹、傅抱石、李可染"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「嶺南三傑（二高一陳）」指創立嶺南畫派之高劍父、高奇峰與陳樹人。"
         }
       ],
       "passThreshold": 0.8
@@ -11291,53 +11309,62 @@
     "subject": "cantonese",
     "unit": 27,
     "lessonNumber": 3,
-    "title": "傳統藝術：粵劇、廣彩與嶺南畫派 (Cantonese Opera & Lingnan Arts) (第3課)",
+    "title": "廣彩瓷器（織金彩瓷）與廣繡、牙雕之「三雕一彩一繡」嶺南工藝 (Guangzhou Crafts)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元27第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握嶺南非遺傳統工藝精粹「三雕一彩一繡（牙雕、玉雕、木雕、廣彩、廣繡）」之工藝特徵、歷史淵源及其在高端文化鑑賞中之詞彙體系。",
     "presentation": {
-      "explanation": "",
+      "explanation": "廣州自清代一口通商以來，憑藉繁榮之十三行對外貿易，孕育出享譽全球之「三雕一彩一繡」傳統工藝絕技：\n\n一、「三雕一彩一繡」五大非遺工藝矩陣：\n１．「廣彩（廣州織金彩瓷）」（gwong2 coi2）：\n- 創於清康熙年間，在白瓷胎上以金彩及五彩織填紋樣，素有「堆金織玉、璀璨奪目」之美譽，專供外銷歐美宮廷貴族。\n\n２．「廣繡（廣東刺繡）」（gwong2 sau3）：\n- 中國四大名繡之一。特點：色彩富麗鮮艷、構圖飽滿緊密、針法多樣（如釘金繡、墊高繡），代表作《百鳥朝鳳》。\n\n３．「三雕」（牙雕、玉雕、木雕）：\n- 廣州牙雕：以「多層透雕象牙球」（鬼斧神工，可多達數十層轉動）聞名。\n- 廣東木雕（金漆木雕）：多層通雕，貼金箔裝飾於嶺南宗祠廟宇梁枋。\n- 廣州玉雕：巧色玉雕與玉球透雕。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 27 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 27 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 27 in communication."
+          "target": "廣彩瓷器以「織金彩瓷」聞名於世，色彩金碧輝煌、構圖繁茂，係清代十三行外銷藝術之巔峰代表。",
+          "reading": "gwong2 coi2 ci4 hei3 ji5 \"zik1 gam1 coi2 ci4\" man4 ming4 jyu1 sai3, sik1 coi2 gam1 bik1 fai1 wong4, gau3 tou4 faan4 mau6, hai6 cing1 doi6 sap6 saam1 hong4 ngoi6 siu1 ngai6 seot6 zi1 din1 fung1 doi6 biu2. [kʷɔːŋ˧˥ tsʰɔːi˧˥ tsʰiː˨˩ hei˧ jiː˩˧ \"tsɪk̚˥ kɐm˥ tsʰɔːi˧˥ tsʰiː˨˩\" mɐn˨˩ mɪŋ˨˩ jyː˥ sɐi˧, sɪk̚˥ tsʰɔːi˧˥ kɐm˥ pɪk̚˥ fɐi˥ wɔːŋ˨˩, kɐu˧ tʰou˨˩ faːn˨˩ mɐu˨, hɐi˨ tsʰɪŋ˥ tɔːi˨ sɐp̚˨ saːm˥ hɔːŋ˨˩ ŋɔːi˨ siːu˥ ŋɐi˨ sɵt̚˨ tsiː˥ tiːn˥ fʊŋ˥ tɔːi˨ piːu˧˥] (GWONG-CHOY CHEE-HEY YEE \"JIK-GUM-CHOY-CHEE\" MUN-MING YUE SY, SIK-CHOY GUM-BIK-FY-WONG, GAU-TOU FAHN-MAU, HY CHING-DOY SUP-SAHM-HOHNG NGOY-SIU NGY-SUT JEE DEEN-FOONG DY-BEW)",
+          "translation": "Guangcai porcelain is renowned worldwide for its 'gold-woven polychrome porcelain', with magnificent golden colors and exuberant compositions, serving as the pinnacle representative of the Qing Dynasty Thirteen Hongs export art."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元27-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "廣繡藝人運用釘金繡同絲線漸變技巧，將嶺南荔枝同孔雀羽毛繡得生動逼真、巧奪天工。",
+          "reading": "gwong2 sau3 ngai6 jan4 wan6 jung6 deng1 gam1 sau3 tung4 si1 sin3 zim6 bin3 gei2 haau2, zoeng1 ling5 naam4 lai6 zi1 tung4 hung2 zoek3 jyu5 mou4 sau3 dak1 sang1 dung6 bik1 zan1, haau2 dyut6 tin1 gung1. [kʷɔːŋ˧˥ sɐu˧ ŋɐi˨ jɐn˨˩ wɐn˨ jʊŋ˨ tɪŋ˥ kɐm˥ sɐu˧ tʰʊŋ˨˩ siː˥ siːn˧ tsiːm˨ piːn˧ kei˧˥ haːu˧˥, tsœːŋ˥ lɪŋ˩˧ naːm˨˩ lɐi˨ tsiː˥ tʰʊŋ˨˩ hʊŋ˧˥ tsœːk̚˧ jyː˩˧ mouou˨˩ sɐu˧ tɐk̚˥ sɐŋ˥ tʊŋ˨ pɪk̚˥ tsɐn˥, haːu˧˥ tyːt̚˨ tʰiːn˥ kʊŋ˥] (GWONG-SAU NGY-YUN WUN-YOONG DENG-GUM-SAU TOONG SEE-SEEN JEEM-BEEN GAY-HAU, JEUNG LING-NAHM LY-JEE TOONG HOONG-JERK YUE-MOU SAU-DUK SUNG-DOONG BIK-JUN, HAU-DUET-TEEN-GONG)",
+          "translation": "Guangxiu embroidery artisans deploy gold-couching and thread gradient techniques to embroider Lingnan lychees and peacock feathers with vivid realism and superb craftsmanship."
+        },
+        {
+          "target": "「三雕一彩一繡」凝聚咗嶺南匠人世代傳承之精湛手藝，展現出嶺南工藝文化之極致魅力。",
+          "reading": "\"saam1 diu1 jat1 coi2 jat1 sau3\" jing4 zeoi6 zo2 ling5 naam4 zoeng6 jan4 sai3 doi6 cyun4 sing4 zi1 zing1 zaam3 sau2 ngai6, zin2 jin6 ceot1 ling5 naam4 gung1 ngai6 man4 faa3 zi1 gik6 zi3 mei6 lik6. [\"saːm˥ tiːu˥ jɐt̚˥ tsʰɔːi˧˥ jɐt̚˥ sɐu˧\" jɪŋ˨˩ tsɵy˨ tsɔː˧˥ lɪŋ˩˧ naːm˨˩ tsœːŋ˨ jɐn˨˩ sɐi˧ tɔːi˨ tsʰyːn˨˩ sɪŋ˨˩ tsiː˥ tsɪŋ˥ tsaːm˧ sɐu˧˥ ŋɐi˨, tsiːn˧˥ jiːn˨ tsʰɵt̚˥ lɪŋ˩˧ naːm˨˩ kʊŋ˥ ŋɐi˨ mɐn˨˩ faː˧ tsiː˥ kɪk̚˨ tsiː˧ mei˨ lɪk̚˨] (\"SAHM-DEW YUT-CHOY YUT-SAU\" YING-JEOY-JOR LING-NAHM JEUNG-YUN SY-DOY CHUEN-SING JEE JING-JAHM SAU-NGY, JEEN-YEEN-CHUT LING-NAHM GONG-NGY MUN-FAH JEE GIK-JEE MAY-LIK)",
+          "translation": "'Three Carvings, One Color, and One Embroidery' crystallizes the exquisite craftsmanship handed down by Lingnan artisans through generations, demonstrating the ultimate charm of Lingnan craft culture."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【三雕一彩歌】牙玉木雕鬼斧工，廣彩織金萬國通；廣繡百鳥朝鳳舞，嶺南非遺耀長空！"
+      ],
+      "culturalNotes": [
+        "廣彩因大量銷往歐洲，常被西方皇室定製印有家族徽章之『紋章瓷』。其融合了中國傳統釉上五彩與西洋銅版畫琺瑯技法，是近代中西文化商貿交流之重要見證。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"識得\":",
+          "prompt": "【工藝總稱】代表廣州傳統手工藝最高成就、享譽海內外之「三雕一彩一繡」中之「一彩」指：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：記得錯置）",
-            "混雜生硬詞彙之不規範語句（例項：唔記得未適配）",
-            "聲調助詞搭配欠妥之表達（例項：同意誤用）"
+            "廣彩（廣州織金彩瓷） (Guangzhou Polychrome Enamel Porcelain)",
+            "彩色玻璃",
+            "油畫色彩",
+            "皮影彩繪"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「一彩」指創立於廣州、以金碧輝煌著稱之「廣彩（廣州織金彩瓷）」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"識得\":",
+          "prompt": "【名繡特點】中國四大名繡之一的「廣繡」（廣東刺繡）最顯著之風格特色係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：唔記得未適配）",
-            "聲調助詞搭配欠妥之表達（例項：同意誤用）",
-            "語序顛倒嘅非標準句式（例項：記得錯置）"
+            "色彩富麗鮮艷、構圖緊密飽滿、善用釘金繡法 (Rich brilliant colors, dense composition & gold couching)",
+            "純黑白素色單調",
+            "完全不使用任何絲線",
+            "無任何刺繡圖案"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "廣繡以色彩鮮濃熱烈、針法多變、構圖豐滿繁茂為標誌性藝術特徵。"
         }
       ]
     },
@@ -11345,15 +11372,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"識得\": Which sentence is completely correct?",
+          "prompt": "【象牙透雕】廣州傳統牙雕工藝中，最能體現「鬼斧神工」高超技藝之代表性經典工藝品係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：同意誤用）",
-            "語序顛倒嘅非標準句式（例項：記得錯置）",
-            "混雜生硬詞彙之不規範語句（例項：唔記得未適配）"
+            "多層透雕象牙套球 (Multilayer Concentric Hollowed Ivory Ball)",
+            "普通實心象牙筷子",
+            "未經雕琢的象牙原料",
+            "平面象牙印章"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "多層透雕象牙球內外各層均可靈活轉動，層層透雕精美花紋，為廣州牙雕技冠全球之絕活。"
         }
       ],
       "passThreshold": 0.8
@@ -11364,53 +11391,62 @@
     "subject": "cantonese",
     "unit": 27,
     "lessonNumber": 4,
-    "title": "傳統藝術：粵劇、廣彩與嶺南畫派 (Cantonese Opera & Lingnan Arts) (第4課)",
+    "title": "廣府醒獅、嶺南武術（洪拳、詠春）與非遺體育文化 (Southern Lion Dance & Martial Arts)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元27第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握廣府醒獅（採青、高樁醒獅）與嶺南傳統武術門派（洪拳、詠春拳、蔡李佛）之核心術語、武德精神及在粵港影視文化中之全球傳播。",
     "presentation": {
-      "explanation": "",
+      "explanation": "廣府醒獅與嶺南武術係嶺南文化『尚武崇德、生生不息』之精神象徵：\n\n一、廣府醒獅（Southern Lion Dance）：\n１．由來與神韻：\n- 融武術、舞蹈、鑼鼓音樂於一體，象徵祥瑞威武。醒獅動作講求『喜、怒、哀、樂、動、靜、驚、疑』八態。\n２．核心儀軌術語：\n- 「採青」（coi2 cing1）：醒獅騰躍克服障礙採下生菜（象徵『生財』），為醒獅表演之高潮。\n- 「高樁醒獅」（gou1 zong1 sing2 si1）：在數米高之梅花樁上飛躍跳躍，驚險萬分。\n- 「點睛開光」（dim2 zing1 hoi1 gwong1）。\n\n二、嶺南三大核心武術門派：\n１．「洪拳」（hung4 kyun4）：\n- 代表人物黃飛鴻（Wong Fei-hung）。拳勢剛猛沉穩，步穩勢烈，代表套路《虎鶴雙形拳》、《工字伏虎拳》。\n２．「詠春拳」（wing6 ceon1 kyun4）：\n- 代表人物葉問（Ip Man）、李小龍（Bruce Lee）。注重短橋窄馬、中線理論、借力打力，核心器械「木人樁」（muk6 jan4 zong1）與「黐手」（ci1 sau2）對練。\n３．「蔡李佛拳」（coi3 lei5 fat1 kyun4）：\n- 氣勢磅礴，長拳短打兼備，大開大合。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 27 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 27 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 27 in communication."
+          "target": "農曆新年期間，街頭鑼鼓喧天，醒獅隊喺梅花樁上靈活跳躍，精彩嘅「採青」表演引嚟全場陣陣喝彩！",
+          "reading": "nung4 lik6 san1 nin4 kei4 gaan1, gaai1 tau4 lo4 gu2 hyun1 tin1, sing2 si1 deoi6*2 hai2 mui4 faa1 zong1 soeng6 ling4 wut6 tiu3 joek6, zing1 coi2 ge3 \"coi2 cing1\" biu2 jin2 jan5 lai4 cyun4 coeng4 zan6 zan6 hot3 coi2! [nʊŋ˨˩ lɪk̚˨ sɐn˥ niːn˨˩ kʰei˨˩ kaːn˥, kaːi˥ tʰɐu˨˩ lɔː˨˩ kuː˧˥ hyːn˥ tʰiːn˥, sɪŋ˧˥ siː˥ tɵy˧˥ hɐi˩˧ muːi˨˩ faː˥ tsɔːŋ˥ sœːŋ˨ lɪŋ˨˩ wuːt̚˨ tʰiːu˧ jœːk̚˨, tsɪŋ˥ tsʰɔːi˧˥ kɛː˧ \"tsʰɔːi˧˥ tsʰɪŋ˥\" piːu˧˥ jiːn˧˥ jɐn˩˧ lɐi˨˩ tsʰyːn˨˩ tsʰœːŋ˨˩ tsɐn˨ tsɐn˨ hɔːt̚˧ tsʰɔːi˧˥!] (NOONG-LIK SUN-NEEN KEY-GAHN, GY-TAU LOH-GOO HUEN-TEEN, SING-SEE-DEOY HY MOOY-FAH-JONG SEUNG LING-WOOT TEW-YERK, JING-CHOY GEH \"CHOY-CHING\" BEW-YEEN YUN-LY CHUEN-CHEUNG JUN-JUN HOT-CHOY!)",
+          "translation": "During the Lunar New Year, gongs and drums resound through the streets as the lion dance troupe leaps nimbly on the plum blossom stilts, with the splendid 'plucking the greens' performance drawing rounds of cheers from the audience!"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元27-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "詠春拳講求守中用中同埋借力打力，透過黐手同木人樁訓練，培養出極為靈敏之貼身防守反應。",
+          "reading": "wing6 ceon1 kyun4 gong2 kau4 sau2 zung1 jung6 zung1 tung4 maai4 ze3 lik6 daa2 lik6, tau3 gwo3 ci1 sau2 tung4 muk6 jan4 zong1 fan3 lin6, pui4 joeng5 ceot1 gik6 wai4 ling4 man5 zi1 tip3 san1 fong4 sau2 faan2 jing3. [wɪŋ˨ tsʰɵn˥ kʰyːn˨˩ kɔːŋ˧˥ kʰɐu˨˩ sɐu˧˥ tsʊŋ˥ jʊŋ˨ tsʊŋ˥ tʰʊŋ˨˩ maːi˨˩ tsɛː˧ lɪk̚˨ taː˧˥ lɪk̚˨, tʰɐu˧ kʷɔː˧ tsʰiː˥ sɐu˧˥ tʰʊŋ˨˩ mʊk̚˨ jɐn˨˩ tsɔːŋ˥ fɐn˧ liːn˨, pʰuːi˨˩ jœːŋ˩˧ tsʰɵt̚˥ kɪk̚˨ wɐi˨˩ lɪŋ˨˩ mɐn˩˧ tsiː˥ tʰiːp̚˧ sɐn˥ fɔːŋ˨˩ sɐu˧˥ faːn˧˥ jɪŋ˧] (WING-CHUN-KUEN GONG-KAU SAU-JOONG YOONG-JOONG TOONG-MY JEH-LIK DAH-LIK, TAU-GWOR CHEE-SAU TOONG MOK-YUN-JONG FUN-LEEN, PUI-YEUNG-CHUT GIK-WAI LING-MUN JEE TEEP-SUN FONG-SAU FAHN-YING)",
+          "translation": "Wing Chun focuses on guarding and utilizing the centerline and borrowing the opponent's force to strike back; through Chi Sao and wooden dummy training, it cultivates highly sensitive close-body defensive reflexes."
+        },
+        {
+          "target": "黃飛鴻宗師以洪拳同醒獅名揚省港澳，其行俠仗義、弘揚武德之精神成為嶺南文化之驕傲。",
+          "reading": "wong4 fei1 hung4 zung1 si1 ji5 hung4 kyun4 tung4 sing2 si1 ming4 joeng4 saang2 gong2 ou3, kei4 hang4 haap6 zoeng3 ji6, wang4 joeng4 mou5 dak1 zi1 zing1 san1 sing4 wai4 ling5 naam4 man4 faa3 zi1 giu1 ngou6. [wɔːŋ˨˩ fei˥ hʊŋ˨˩ tsʊŋ˥ siː˥ jiː˩˧ hʊŋ˨˩ kʰyːn˨˩ tʰʊŋ˨˩ sɪŋ˧˥ siː˥ mɪŋ˨˩ jœːŋ˨˩ saːŋ˧˥ kɔːŋ˧˥ ou˧, kʰei˨˩ hɐŋ˨˩ haːp̚˨ tsœːŋ˧ jiː˨, wɐŋ˨˩ jœːŋ˨˩ mouou˩˧ tɐk̚˥ tsiː˥ tsɪŋ˥ sɐn˥ sɪŋ˨˩ wɐi˨˩ lɪŋ˩˧ naːm˨˩ mɐn˨˩ faː˧ tsiː˥ kiːu˥ ŋou˨] (WONG FAY-HOONG JOONG-SEE YEE HOONG-KUEN TOONG SING-SEE MING-YEUNG SAHNG-GONG-OU, KEY HAHNG-HAHP JEUNG-YEE, WUNG-YEUNG MOU-DUK JEE JING-SUN SING-WAI LING-NAHM MUN-FAH JEE GEW-NGOU)",
+          "translation": "Grandmaster Wong Fei-hung gained renown across Canton, Hong Kong, and Macau through Hong Boxing and Lion Dance; his spirit of chivalry and promoting martial virtue has become the pride of Lingnan culture."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【醒獅武術訣】高樁醒獅採青生，鑼鼓喧天武德崇；詠春黐手木人樁，洪拳虎鶴耀粵風！"
+      ],
+      "culturalNotes": [
+        "廣東醒獅與嶺南功夫密不可分，傳統上醒獅隊員皆為武館弟子。香港功夫電影（如李小龍、成龍、李連杰主演之黃飛鴻系列電影）將嶺南武術與醒獅藝術推廣至全球，成為世界認識中華文化的重要文化符號。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"記得\":",
+          "prompt": "【醒獅儀軌】廣府醒獅表演中，獅子歷經艱險騰躍採摘生菜以寓意「生財」之核心高潮動作係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：唔記得錯置）",
-            "混雜生硬詞彙之不規範語句（例項：同意未適配）",
-            "聲調助詞搭配欠妥之表達（例項：反對誤用）"
+            "採青 (Plucking the greens / Coi cing)",
+            "出洞",
+            "睡獅",
+            "洗鬚"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「採青」為醒獅表演中寓意生財大吉、技藝難度最高之核心環節。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"記得\":",
+          "prompt": "【武術器械】詠春拳門派進行貼身攻防、走位與卸力發力訓練所使用之專屬木製器械係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：同意未適配）",
-            "聲調助詞搭配欠妥之表達（例項：反對誤用）",
-            "語序顛倒嘅非標準句式（例項：唔記得錯置）"
+            "木人樁 (Wooden dummy / Muk jan zong)",
+            "石鎖",
+            "沙包",
+            "大刀"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「木人樁」為詠春拳精煉寸勁、黐手與近身走位之標誌性專屬訓練器具。"
         }
       ]
     },
@@ -11418,15 +11454,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"記得\": Which sentence is completely correct?",
+          "prompt": "【武學名家】在嶺南武術史上集洪拳之大成、兼擅醒獅且被眾多香港影視作品廣泛歌頌之一代宗師係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：反對誤用）",
-            "語序顛倒嘅非標準句式（例項：唔記得錯置）",
-            "混雜生硬詞彙之不規範語句（例項：同意未適配）"
+            "黃飛鴻 (Wong Fei-hung)",
+            "陳真",
+            "霍元甲",
+            "張三丰"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "黃飛鴻為嶺南洪拳宗師與醒獅名家，其武德傳奇深深融入了省港澳文化歷史之中。"
         }
       ],
       "passThreshold": 0.8
@@ -11437,53 +11473,62 @@
     "subject": "cantonese",
     "unit": 27,
     "lessonNumber": 5,
-    "title": "傳統藝術：粵劇、廣彩與嶺南畫派 (Cantonese Opera & Lingnan Arts) (第5課)",
+    "title": "文化遺產保護、現代文創活化與藝術評論高階論述：「活化保育」、「傳承創新」 (Heritage Revitalization & Art Criticism)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元27第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握文化遺產保育、當代文化創意產業（文創）轉型、非遺活化及專業藝術評論之高階詞彙矩陣與宏觀思辨體系。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在全球化與現代化浪潮中，如何活化保育嶺南文化遺產成為當代學術界與公共政策探討之核心論題：\n\n一、文化遺產保育與活化核心術語體系：\n１．「非物質文化遺產（非遺）」（fei1 mat6 zat1 man4 faa3 wai4 caan2）：\n- 強調活態傳承（Living Heritage），保護口頭傳統、表演藝術與傳統手工藝。\n２．「活化保育」（wut6 faa3 bou2 juk6 / Revitalization）：\n- 反對將文化遺產死板封存，主張賦予其現代商業、社區與文創功能（如香港『大館』、中環街市活化項目）。\n３．「文創轉型與跨界融合」（man4 cong3 zyun2 jing4）：\n- 將傳統粵劇、廣彩、醒獅元素融入現代潮流潮牌、數字藝術（Digital Art）與沉浸式文旅體驗。\n\n二、高階藝術批評專業語彙：\n- 「形神兼備，氣韻生動」（jing4 san4 gim1 bei6, hei3 wan6 sang1 dung6）：讚歎藝術品既有精湛外在形體，又有深刻內在精神。\n- 「匠心獨運，融會貫通」（zoeng6 sam1 duk6 wan6, jung4 wui6 gung1 tung1）：構思精妙獨創。\n- 「承前啟後，推陳出新」（sing4 cin4 kai2 hau6, teoi1 can4 ceot1 san1）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 27 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 27 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 27 in communication."
+          "target": "香港大館（舊中區警署）成功將百年歷史古蹟活化保育為當代藝術文化地標，實現咗歷史遺產與現代城市生活之完美共融。",
+          "reading": "hoeng1 gong2 daai6 gun2 (gau6 zung1 keoi1 ging2 cyu5) sing4 gung1 zoeng1 baak3 nin4 lik6 si1 gu2 zik1 wut6 faa3 bou2 juk6 wai4 dong1 doi6 ngai6 seot6 man4 faa3 dei6 biu1, sat6 jin6 zo2 lik6 si1 wai4 caan2 jyu5 jin6 doi6 sing4 si5 sang1 wut6 zi1 jyun4 mei5 gung6 jung4. [hœːŋ˥ kʷɔːŋ˧˥ taːi˨ kuːn˧˥ (kɐu˨ tsʊŋ˥ kʰɵy˥ kɪŋ˧˥ tsʰyː˩˧) sɪŋ˨˩ kʊŋ˥ tsœːŋ˥ paːk̚˧ niːn˨˩ lɪk̚˨ siː˥ kuː˧˥ tsɪk̚˥ wuːt̚˨ faː˧ pou˧˥ jʊk̚˨ wɐi˨˩ tɔːŋ˥ tɔːi˨ ŋɐi˨ sɵt̚˨ mɐn˨˩ faː˧ tei˨ piːu˥, sɐt̚˨ jiːn˨ tsɔː˧˥ lɪk̚˨ siː˥ wɐi˨˩ tsʰaːn˨˩ jyː˩˧ jiːn˨ tɔːi˨ sɪŋ˨˩ siː˨ sɐŋ˥ wuːt̚˨ tsiː˥ jyːn˨˩ mei˩˧ kʊŋ˨ jʊŋ˨˩] (HEUNG-GONG DY-GOON (GAU JOONG-KOEY GING-CHUE) SING-GONG JEUNG BAAK-NEEN LIK-SEE GOO-JIK WOOT-FAH BOU-YUK WAI DONG-DOY NGY-SUT MUN-FAH DAY-BEW, SUT-YEEN-JOR LIK-SEE WAI-CHAAN YUE YEEN-DOY SING-SEE SUNG-WOOT JEE YUEN-MAY GONG-YOONG)",
+          "translation": "Tai Kwun in Hong Kong (former Central Police Station) successfully revitalized a century-old historical heritage site into a contemporary arts and cultural landmark, achieving a perfect harmony between historical heritage and modern urban life."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元27-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "呢件廣彩創新作品匠心獨運，既保留傳統織金構圖，又大膽融入當代幾何線條，展現出推陳出新之藝術魅力。",
+          "reading": "ni1 gin6 gwong2 coi2 cong3 san1 zok3 ban2 zoeng6 sam1 duk6 wan6, gei3 bou2 lau4 cyun4 tung4 zik1 gam1 gau3 tou4, jau6 daai6 daam2 jung4 jap6 dong1 doi6 gei2 ho4 sin3 tiu4, zin2 jin6 ceot1 teoi1 can4 ceot1 san1 zi1 ngai6 seot6 mei6 lik6. [niː˥ kiːn˨ kʷɔːŋ˧˥ tsʰɔːi˧˥ tsʰɔːŋ˧ sɐn˥ tsɔːk̚˧ pʰɐn˧˥ tsœːŋ˨ sɐm˥ tʊk̚˨ wɐn˨, kei˧ pou˧˥ lɐu˨˩ tsʰyːn˨˩ tʰʊŋ˨˩ tsɪk̚˥ kɐm˥ kɐu˧ tʰou˨˩, jɐu˨ taːi˨ taːm˧˥ jʊŋ˨˩ jɐp̚˨ tɔːŋ˥ tɔːi˨ kei˧˥ hɔː˨˩ siːn˧ tʰiːu˨˩, tsiːn˧˥ jiːn˨ tsʰɵt̚˥ tʰɵy˥ tsʰɐn˨˩ tsʰɵt̚˥ sɐn˥ tsiː˥ ŋɐi˨ sɵt̚˨ mei˨ lɪk̚˨] (NEE-GEEN GWONG-CHOY CHONG-SUN JOK-BUN JEUNG-SUM-DUK-WUN, GAY BOU-LAU CHUEN-TOONG JIK-GUM GAU-TOU, YAU DY-DAHM YOONG-YUP DONG-DOY GAY-HOH SEEN-TEW, JEEN-YEEN-CHUT TOEY-CHUN-CHUT-SUN JEE NGY-SUT MAY-LIK)",
+          "translation": "This innovative Guangcai piece demonstrates extraordinary ingenuity; it not only preserves traditional gold-woven compositions, but also boldly integrates contemporary geometric lines, showcasing the artistic charm of weeding through the old to bring forth the new."
+        },
+        {
+          "target": "非遺保護之核心在於「見人、見物、見生活」，唯有透過現代文創激發年輕一代之參與熱情，傳統文化先至能夠生生不息。",
+          "reading": "fei1 mat6 zat1 man4 faa3 wai4 caan2 bou2 wu6 zi1 hat6 sam1 zoi6 jyu1 \"gin3 jan4, gin3 mat6, gin3 sang1 wut6\", wai4 jau5 tau3 gwo3 jin6 doi6 man4 cong3 gik1 faat3 nin4 hing1 jat1 doi6 zi1 caam1 jyu5 jit6 cing4, cyun4 tung4 man4 faa3 sin1 zi3 nang4 gau3 sang1 sang1 bat1 sik1. [fei˥ mɐt̚˨ tsɐt̚ mɐn˨˩ faː˧ wɐi˨˩ tsʰaːn˨˩ pou˧˥ wuː˨ tsiː˥ hɐt̚˨ sɐm˥ tsɔːi˨ jyː˥ \"kiːn˧ jɐn˨˩, kiːn˧ mɐt̚˨, kiːn˧ sɐŋ˥ wuːt̚˨\", wɐi˨˩ jɐu˩˧ tʰɐu˧ kʷɔː˧ jiːn˨ tɔːi˨ mɐn˨˩ tsʰɔːŋ˧ kɪk̚˥ faːt̚˧ niːn˨˩ hɪŋ˥ jɐt̚˥ tɔːi˨ tsiː˥ tsʰaːm˥ jyː˨ jiːt̚˨ tsʰɪŋ˨˩, tsʰyːn˨˩ tʰʊŋ˨˩ mɐn˨˩ faː˧ siːn˥ tsiː˧ nɐŋ˨˩ kɐu˧ sɐŋ˥ sɐŋ˥ pɐt̚˥ sɪk̚˥] (FAY-MUT-JUT MUN-FAH WAI-CHAAN BOU-WOO JEE HUT-SUM JOY-YUE \"GEEN-YUN, GEEN-MUT, GEEN-SUNG-WOOT\", WAI-YAU TAU-GWOR YEEN-DOY MUN-CHONG GIK-FAHT NEEN-HING YUT-DOY JEE CHAHM-YUE YEET-CHING, CHUEN-TOONG MUN-FAH SEEN-JEE NUNG-GAU SUNG-SUNG-BUT-SIK)",
+          "translation": "The core of intangible heritage protection lies in 'seeing the people, seeing the artifacts, and seeing everyday life'; only by stimulating the younger generation's participation passion through modern cultural creativity can traditional culture thrive perpetually."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【非遺活化訣】古蹟保育在「活化」，文創轉型煥生機；形神兼備傳薪火，推陳出新世界知！"
+      ],
+      "culturalNotes": [
+        "香港的『活化歷史建築伙伴計劃』與大灣區非遺文創園區（如佛山嶺南天地）被聯合國教科文組織譽為亞太地區文化遺產保護與城市可持續發展的成功典範。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"唔記得\":",
+          "prompt": "【遺產活化】將歷史古建築或傳統工藝賦予現代生活功能與文創新活力之保護理念稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：同意錯置）",
-            "混雜生硬詞彙之不規範語句（例項：反對未適配）",
-            "聲調助詞搭配欠妥之表達（例項：考慮誤用）"
+            "活化保育 (Heritage Revitalization / Adaptive Reuse)",
+            "全盤拆除重建",
+            "徹底封閉禁止參觀",
+            "任由風化廢棄"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「活化保育」強調在妥善保護歷史真實性的前提下，注入當代文化與社區活力。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"唔記得\":",
+          "prompt": "【藝術評論】形容藝術作品構思極為精妙、具備高度原創性與精湛技藝之高階評論成語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：反對未適配）",
-            "聲調助詞搭配欠妥之表達（例項：考慮誤用）",
-            "語序顛倒嘅非標準句式（例項：同意錯置）"
+            "匠心獨運 (Ingenious and original conception)",
+            "千篇一律",
+            "粗製濫造",
+            "生搬硬套"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「匠心獨運」為文藝評論中讚美創作者構思獨特奇妙之高階成語。"
         }
       ]
     },
@@ -11491,15 +11536,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"唔記得\": Which sentence is completely correct?",
+          "prompt": "【非遺真諦】現代非物質文化遺產保護所秉持之「見人、見物、見生活」核心理念意指：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：考慮誤用）",
-            "語序顛倒嘅非標準句式（例項：同意錯置）",
-            "混雜生硬詞彙之不規範語句（例項：反對未適配）"
+            "非遺保護必須依托傳承人（人）、技藝載體（物）並深植於當代大眾日常生活（生活）之中 (Heritage protection must rely on master artisans, physical vessels & daily living)",
+            "將所有傳統工藝品只鎖入博物館庫房",
+            "禁止任何商業文創改編",
+            "強迫所有人完全按古代生活方式生活"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「見人、見物、見生活」強調非物質文化遺產作為活態文化之動態傳承本質。"
         }
       ],
       "passThreshold": 0.8
