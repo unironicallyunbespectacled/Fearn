@@ -2823,85 +2823,89 @@
     "subject": "arabic",
     "unit": 5,
     "lessonNumber": 1,
-    "title": "الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics) (الدرس 1)",
+    "title": "معجم الأطعمة والمشروبات والوجبات اليومية (Food, Drinks & Daily Meals Vocabulary)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أفعال الحياة اليومية، اللام الشمسية واللام القمرية، والجملة الفعلية (فعل - فاعل - مفعول به). (الجزء 1).",
+    "objective": "إتقان معجم الوجبات اليومية (فطور، غداء، عشاء)، والمأكولات الأساسية (خبز، أرز، لحم، دجاج، سمك، خضراوات، فواكه)، والمشروبات، والتعبير عن الجوع والعطش بجمل فصيحة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "الطعام والشراب من أهم متطلبات الحياة اليومية، وتزخر اللغة العربية بألفاظ دقيقة لوصف الأطعمة والمشروبات والوجبات:\n\nأولاً: الوجبات اليومية الثلاث (The Three Daily Meals):\n1.【وَجْبَةُ الفُطُورِ (Breakfast / Morning meal)】: الوجبة الصباحية الأولى.\n2.【وَجْبَةُ الغَدَاءِ (Lunch / Midday meal)】: الوجبة الرئيسية في منتصف النهار.\n3.【وَجْبَةُ العَشَاءِ (Dinner / Evening meal)】: الوجبة المسائية.\n4.【وَجْبَةٌ خَفِيفَةٌ (Snack)】: طعام خفيف بين الوجبات.\n\nثانياً: معجم الأطعمة الأساسية (Core Food Vocabulary):\n- خُبْزٌ (Bread) | أَرُزٌّ (Rice) | لَحْمٌ (Meat) | دَجَاجٌ (Chicken) | سَمَكٌ (Fish).\n- جُبْنٌ (Cheese) | بَيْضٌ (Eggs) | زَيْتُونٌ (Olives) | زَيْتُ زَيْتُونٍ (Olive oil) | سَلَطَةٌ خَضْرَاءُ (Salad).\n- فَوَاكِهُ (Fruits - تُفَّاح، بُرْتُقَال، مَوْز، عِنَب) | خُضْرَاوَاتٌ (Vegetables - طَمَاطِم، خِيَار، جَزَر).\n\nثالثاً: المشروبات (Beverages):\n- مَاءٌ زُلَالٌ (Pure water) | شَايٌ بِالنَّعْنَاعِ (Mint tea) | قَهْوَةٌ عَرَبِيَّةٌ (Arabic coffee) | حَلِيبٌ طَازَجٌ (Fresh milk) | عَصِيرٌ (Juice).\n\nرابعاً: التعبير عن الجوع والعطش:\n- «أَنَا جَائِعٌ» (I am hungry - fem. «أَنَا جَائِعَةٌ»).\n- «أَنَا عَطْشَانُ» (I am thirsty - fem. «أَنَا عَطْشَى»).\n- «شَهِيَّةٌ طَيِّبَةٌ» (Bon appétit / Good appetite).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)» بأسلوب أكاديمي دقيق (5.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)' to students in an accurate academic style."
+          "target": "نَتَنَاوَلُ فِي وَجْبَةِ الفُطُورِ الخُبْزَ الطَّازَجَ مَعَ الجُبْنِ وَالزَّيْتُونِ وَالشَّايِ السَّاخِنِ.(Natanāwalu fī wajbati al-fuṭūri al-khubza aṭ-ṭāzaja maʿa al-jubni wa-az-zaytūni wa-ash-shāyi as-sākhin.)",
+          "reading": "[na.ta.naː.wa.lu fiː waʒ.ba.ti‿l.fu.tˤuː.ri‿l.xub.za‿tˤ.tˤaː.za.ʒa ma.ʕa‿l.ʒub.ni waz.zaj.tuː.ni waʃ.ʃaː.ji‿s.saː.xin] (Na-ta-nā-wa-lu fī waj-ba-ti al-fu-ṭū-ri al-khub-za aṭ-ṭā-za-ja ma-ʿa al-jub-ni wa-az-zay-tū-ni wa-ash-shā-yi as-sā-khin.)",
+          "translation": "We eat fresh bread with cheese, olives, and hot tea at breakfast."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (5.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يُقَدِّمُ المَطْعَمُ لَحْمًا مَشْوِيًّا وَدَجَاجًا مَعَ الأَرُزِّ وَالسَّلَطَةِ الخَضْرَاءِ فِي وَجْبَةِ الغَدَاءِ.(Yuqaddimu al-maṭʿamu laḥman mashwiyyan wa-dajājan maʿa al-aruzzi wa-as-salaṭati al-khaḍrāʾi fī wajbati al-ghadāʾ.)",
+          "reading": "[ju.qad.di.mu‿l.matˤ.ʕa.mu laħ.man maʃ.wij.jan wa.da.ʒaː.ʒan ma.ʕa‿l.ʔa.ruz.zi was.sa.la.tˤa.ti‿l.xadˤ.raː.ʔi fiː waʒ.ba.ti‿l.ɣa.daːʔ] (Yu-qad-di-mu al-maṭ-ʿa-mu laḥ-man mash-wiy-yan wa-da-jā-jan ma-ʿa al-a-ruz-zi wa-as-sa-la-ṭa-ti al-khaḍ-rā-ʾi fī waj-ba-ti al-gha-dāʾ.)",
+          "translation": "The restaurant serves grilled meat and chicken with rice and green salad at lunch."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (5.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "عِنْدَمَا أَشْعُرُ بِالعَطَشِ، أَشْرَبُ مَاءً بَارِدًا أَوْ عَصِيرَ فَاكِهَةٍ طَبِيعِيًّا.(ʿIndamā ashʿuru bi-l-ʿaṭash, ashrabu māʾan bāridan aw ʿaṣīra fākihatin ṭabīʿiyyan.)",
+          "reading": "[ʕin.da.maː ʔaʃ.ʕu.ru bil.ʕa.tˤaʃ, ʔaʃ.ra.bu maː.ʔan baː.ri.dan ʔaw ʕa.sˤiː.ra faː.ki.ha.tin tˤa.biː.ʕij.jan] (ʿIn-da-mā ash-ʿu-ru bi-l-ʿa-ṭash, ash-ra-bu mā-ʾan bā-ri-dan aw ʿa-ṣī-ra fā-ki-ha-tin ṭa-bī-ʿiy-yan.)",
+          "translation": "When I feel thirsty, I drink cold water or natural fruit juice."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (5.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "الطَّعَامُ الصِّحِّيُّ المُتَوَازِنُ يَمْنَحُ الجِسْمَ الطَّاقَةَ وَالنَّشَاطَ لِلْعَمَلِ وَالدِّرَاسَةِ.(Aṭ-ṭaʿāmu aṣ-ṣiḥḥiyyu al-mutawāzinu yamnaḥu al-jisma aṭ-ṭāqata wa-an-nashāṭa li-l-ʿamali wa-ad-dirāsah.)",
+          "reading": "[atˤ.tˤa.ʕaː.mu‿sˤ.sˤiħ.ħij.ju‿l.mu.ta.waː.zi.nu jam.na.ħu‿l.ʒis.ma‿tˤ.tˤaː.qa.ta wan.na.ʃaː.tˤa lil.ʕa.ma.li wad.di.raː.sah] (Aṭ-ṭa-ʿā-mu aṣ-ṣiḥ-ḥiy-yu al-mu-ta-wā-zi-nu yam-na-ḥu al-jis-ma aṭ-ṭā-qa-ta wa-an-na-shā-ṭa li-l-ʿa-ma-li wa-ad-di-rā-sah.)",
+          "translation": "Healthy, balanced food gives the body energy and vitality for work and study."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فُطُورٌ وَغَدَاءٌ ثُمَّ عَشَاءْ، مَعَ الخُبْزِ وَالمَاءِ وَالشَّايِ نَقَاءْ، صِحَّةٌ وَعَافِيَةٌ لِلْأَحِبَّاءْ!"
+      ],
+      "culturalNotes": [
+        "يُعد الخبز عنصرًا مقدسًا في المائدة العربية ويسمى في بعض اللهجات «العيش» (أي الحياة)، وله مكانة رفيعة في آداب الطعام."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)» (الدرس 1)؟",
+          "prompt": "ما هو الاسم العربي الفصيح للوجبة التي تُؤكل في منتصف النهار؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)» بأسلوب أكاديمي دقيق (5.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (5.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (5.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (5.1.w3)"
+            "وَجْبَةُ الغَدَاءِ (Lunch)",
+            "وَجْبَةُ الفُطُورِ (الصباح)",
+            "وَجْبَةُ العَشَاءِ (المساء)",
+            "السَّحُورُ"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«الغَدَاء» هو طعام منتصف النهار، بينما «الفُطُور» في الصباح و«العَشَاء» في المساء."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي العبارة العربية الفصيحة التي تقال تمنيًا لشهية طيبة وطعام هنيء؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "شَهِيَّةٌ طَيِّبَةٌ / هَنِيئًا مَرِيئًا (Bon appétit)",
+            "مع السلامة فقط",
+            "صباح الخير فقط",
+            "كم الساعة الآن؟"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«شَهِيَّةٌ طَيِّبَةٌ» و«هَنِيئًا مَرِيئًا» عبارتان فصيحتان للاحتفاء بالطعام والمائدة."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u5-l1):",
+          "prompt": "اختر الجملة التي تصف مائدة فطور عربية تقليدية بمفردات فصيحة وضبط إعرابي سليم:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (5.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (5.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (5.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (5.1.x3)"
+            "عَلَى المَائِدَةِ خُبْزٌ سَاخِنٌ، وَجُبْنٌ أَبْيَضُ، وَزَيْتُونٌ أَخْضَرُ، وَشَايٌ لَذِيذٌ. (On the table there are hot bread, white cheese, green olives, and delicious tea.)",
+            "على المائدة سمك مشوي في الصباح الباكر مع مثلجات",
+            "ليس هناك طعام ولا شراب في المطبخ نحن جائعون",
+            "طعام شراب فطور غداء عشاء سكون فتحة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "العبارة توظف مفردات الفطور التقليدي (الخبز، الجبن، الزيتون، الشاي) مع نعوتها المطابقة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)»؟",
+          "prompt": "ما هو اللفظ المؤنث لوصف المرأة التي تشعر بالعطش في اللغة العربية الفصحى؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (5.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (5.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (5.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (5.1.y3)"
+            "عَطْشَى (ʿAṭshā)",
+            "عطشانة",
+            "عطشانات",
+            "عطوش"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "مؤنث عَطْشَان على وزن فَعْلَى هو «عَطْشَى» في الفصحى المعيارية."
         }
       ]
     },
@@ -2909,24 +2913,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 5-1)؟",
+          "prompt": "اختر الفقرة التي تقدم وصفًا غذائيًا متكاملاً للوجبات الثلاث والمشروبات بأسلوب فصيح:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (5.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (5.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (5.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (5.1.z3)"
+            "يَتَنَاوَلُ الإِنْسَانُ ثَلَاثَ وَجَبَاتٍ رَئِيسِيَّةٍ: فُطُورًا خَفِيفًا فِي الصَّبَاحِ، وَغَدَاءً مُتَكَامِلًا مِنَ اللَّحْمِ وَالأَرُزِّ وَالخُضْرَاوَاتِ، وَعَشَاءً لَطِيفًا مَعَ الفَوَاكِهِ وَالمَاءِ الزُّلَالِ. (A person eats three main meals: a light breakfast in the morning, a complete lunch of meat, rice, and vegetables, and a gentle dinner with fruits and pure water.)",
+            "يتناول الانسان طعام بدون وجبات ولا ماء في الليل.",
+            "فطور غداء عشاء بدون اكل ولا شرب في المطعم.",
+            "المأكولات والمشروبات هي حروف قمرية فقط بدون اسم."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة تمتاز بالشمول المعجمي والترابط الدلالي والضبط الإعرابي السليم."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u5-l1) باللغة العربية (مثال: «الروتين»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الوجبة الصباحية الأولى (مثال: «الفطور»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الروتين",
-            "الروتين"
+            "الفطور",
+            "الفُطُورُ",
+            "فطور",
+            "الإفطار",
+            "الافطار"
           ],
-          "explanation": "المصطلح الصحيح هو «الروتين»."
+          "explanation": "الوجبة الصباحية هي «الفطور» أو «الإفطار»."
         }
       ],
       "passThreshold": 0.8
@@ -2937,85 +2944,89 @@
     "subject": "arabic",
     "unit": 5,
     "lessonNumber": 2,
-    "title": "الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics) (الدرس 2)",
+    "title": "الحروف الشمسية والحروف القمرية والصوتيات (Sun & Moon Letters & Phonetics)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أفعال الحياة اليومية، اللام الشمسية واللام القمرية، والجملة الفعلية (فعل - فاعل - مفعول به). (الجزء 2).",
+    "objective": "إتقان التمييز الصوتي والكتابي بين الحروف الشمسية (الإدغام والتشديد) والحروف القمرية (الإظهار والسكون) عند دخول أل التعريف على الأسماء.",
     "presentation": {
-      "explanation": "",
+      "explanation": "عند دخول «أل» التعريف على الأسماء في اللغة العربية، ينقسم 28 حرفًا إلى قسمين متساويين (14 حرفًا لكل قسم) بحسب طريقة النطق الصوتي:\n\nأولاً: الحروف القمرية (The Moon Letters - 14 حرفًا):\n- جُمعت في الجملة الشهيرة: «ابْغِ حَجَّكَ وَخَفْ عَقِيمَهُ»:\n  - (أ، ب، غ، ح، ج، ك، و، خ، ف، ع، ق، ي، م، هـ).\n- حكمها: **الإِظْهَارُ القَمَرِيُّ** (تُنطق اللام ساكنة واضحة [l] وتوضع عليها سكون):\n  - «القَمَرُ» [al-qamar] | «الكِتَابُ» [al-kitāb] | «البَابُ» [al-bāb] | «المَاءُ» [al-māʾ] | «الخُبْزُ» [al-khubz] | «الجُبْنُ» [al-jubn] | «العَصِيرُ» [al-ʿaṣīr].\n\nثانياً: الحروف الشمسية (The Sun Letters - 14 حرفًا):\n- هي بقية حروف الهجاء (كلها حروف طرف اللسان والأسنان):\n  - (ت، ث، د، ذ، ر، ز، س، ش، ص، ض، ط، ظ، ل، ن).\n- حكمها: **الإِدْغَامُ الشَّمْسِيُّ** (تسقط اللام صوتيًا وتُدغم في الحرف التالي فيصبح مشددًا [ّ]):\n  - «الشَّمْسُ» [ash-shams] | «الشَّايُ» [ash-shāy] | «السَّمَكُ» [as-samak] | «الزَّيْتُونُ» [az-zaytūn] | «الدَّجَاجُ» [ad-dajāj] | «الرَّجُلُ» [ar-rajul] | «الطَّعَامُ» [aṭ-ṭaʿām].\n\nثالثاً: همزة الوصل في «الـ»:\n- تسقط همزة الوصل في درج الكلام وتتصل الكلمة بما قبلها: «فِي المَطْبَخِ» [fil-maṭbakh] / «مِنَ الشَّايِ» [minash-shāy].",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)» بأسلوب أكاديمي دقيق (5.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)' to students in an accurate academic style."
+          "target": "تُنْطَقُ اللَّامُ سَاكِنَةً فِي الكَلِمَاتِ القَمَرِيَّةِ مِثْلَ «القَهْوَةِ» وَ«الكِتَابِ» وَ«المَطْبَخِ».(Tunṭaqu al-lāmu sākinatan fī al-kalimāti al-qamariyyati mithla «al-qahwah» wa-«al-kitāb» wa-«al-maṭbakh».)",
+          "reading": "[tun.tˤa.qu‿l.laː.mu saː.ki.na.tan fiː‿l.ka.li.maː.ti‿l.qa.ma.rij.ja.ti miθ.la «al.qah.wah» wa.«al.ki.taːb» wa.«al.matˤ.bax»] (Tun-ṭa-qu al-lā-mu sā-ki-na-tan fī al-ka-li-mā-ti al-qa-ma-riy-ya-ti mith-la «al-qah-wah» wa-«al-ki-tāb» wa-«al-maṭ-bakh».)",
+          "translation": "The lam is pronounced with a sukun in moon words such as 'al-qahwah', 'al-kitab', and 'al-matbakh'."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (5.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تُدْغَمُ اللَّامُ تَمَامًا فِي الحُرُوفِ الشَّمْسِيَّةِ فَيُشَدَّدُ الحَرْفُ مِثْلَ «الشَّايِ» وَ«السَّمَكِ» وَ«الزَّيْتِ».(Tudghamu al-lāmu tamāman fī al-ḥurūfi ash-shamsiyyati fa-yushaddadu al-ḥarfu mithla «ash-shāy» wa-«as-samak» wa-«az-zayt».)",
+          "reading": "[tud.ɣa.mu‿l.laː.mu ta.maː.man fiː‿l.ħu.ruː.fi‿ʃ.ʃam.sij.ja.ti fa.ju.ʃad.da.du‿l.ħar.fu miθ.la «aʃ.ʃaːj» wa.«as.sa.mak» wa.«az.zajt»] (Tud-gha-mu al-lā-mu ta-mā-man fī al-ḥu-rū-fi ash-sham-siy-ya-ti fa-yu-shad-da-du al-ḥar-fu mith-la «ash-shāy» wa-«as-sa-mak» wa-«az-zayt».)",
+          "translation": "The lam is fully assimilated into sun letters, so the letter takes a shaddah such as 'ash-shay', 'as-samak', and 'az-zayt'."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (5.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "جُمْلَةُ «ابْغِ حَجَّكَ وَخَفْ عَقِيمَهُ» تَجْمَعُ الحُرُوفَ القَمَرِيَّةَ الأَرْبَعَةَ عَشَرَ بِاخْتِصَارٍ.(Jumlatu «ibghi ḥajjaka wa-khaf ʿaqīmahu» tajmaʿu al-ḥurūfa al-qamariyyata al-arbaʿata ʿashara bi-khtiṣār.)",
+          "reading": "[ʒum.la.tu «ʔib.ɣi ħad͡ʒ.d͡ʒa.ka wa.xaf ʕa.qiː.ma.hu» taʒ.ma.ʕu‿l.ħu.ruː.fa‿l.qa.ma.rij.ja.ta‿l.ʔar.ba.ʕa.ta ʕa.ʃa.ra bix.ti.sˤaːr] (Jum-la-tu «ib-ghi ḥaj-ja-ka wa-khaf ʿa-qī-ma-hu» taj-ma-ʿu al-ḥu-rū-fa al-qa-ma-riy-ya-ta al-ar-ba-ʿa-ta ʿa-sha-ra bi-kh-ti-ṣār.)",
+          "translation": "The phrase 'ibghi hajjaka wa-khaf aqimahu' compiles the fourteen moon letters concisely."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (5.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "النُّطْقُ السَّلِيمُ لِلَّامِ الشَّمْسِيَّةِ وَالقَمَرِيَّةِ هُوَ أَسَاسُ الفَصَاحَةِ فِي تِلَاوَةِ الكَلَامِ العَرَبِيِّ.(An-nuṭqu as-salīmu li-l-lāmi ash-shamsiyyati wa-al-qamariyyati huwa asāsu al-faṣāḥati fī tilāwati al-kalāmi al-ʿarabiyy.)",
+          "reading": "[an.nutˤ.qu‿s.sa.liː.mu lil.laː.mi‿ʃ.ʃam.sij.ja.ti wal.qa.ma.rij.ja.ti hu.wa ʔa.saː.su‿l.fa.sˤaː.ħa.ti fiː ti.laː.wa.ti‿l.ka.laː.mi‿l.ʕa.ra.bijj] (An-nuṭ-qu as-sa-lī-mu li-l-lā-mi ash-sham-siy-ya-ti wa-al-qa-ma-riy-ya-ti hu-wa a-sā-su al-fa-ṣā-ḥa-ti fī ti-lā-wa-ti al-ka-lā-mi al-ʿa-ra-biyy.)",
+          "translation": "Correct pronunciation of sun and moon lam is the foundation of eloquence in reciting Arabic speech."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ابْغِ حَجَّكَ وَخَفْ عَقِيمَهُ لِلْقَمَرْ، وَمَا سِوَاهَا فَشَمْسِيٌّ بِالتَّشْدِيدِ اشْتَهَرْ!"
+      ],
+      "culturalNotes": [
+        "قواعد اللام الشمسية والقمرية تنبع من التناغم الصوتي لمخارج الحروف، وتمنع الثقل في النطق لتيسير الكلام وسلاسته."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)» (الدرس 2)؟",
+          "prompt": "أي من الكلمات التالية تشتمل على لام شمسية تُدغم في الحرف الذي بعدها ويُشدد؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)» بأسلوب أكاديمي دقيق (5.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (5.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (5.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (5.2.w3)"
+            "الشَّايُ (Ash-Shāy)",
+            "القَهْوَةُ (قمرية)",
+            "الكِتَابُ (قمرية)",
+            "المَطْعَمُ (قمرية)"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "حرف الشين (ش) من الحروف الشمسية، فتُدغم اللام فيه ويُنطق «الشَّايُ» [ash-shāy]."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي الجملة التراثية الشهيرة التي تحفظ جميع الحروف القمرية الأربعة عشر؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "ابْغِ حَجَّكَ وَخَفْ عَقِيمَهُ (Ibghi ḥajjaka wa-khaf ʿaqīmah)",
+            "طلب العلم فريضة",
+            "العقل السليم في الجسم السليم",
+            "صوت صفير البلبل"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "عبارة «ابْغِ حَجَّكَ وَخَفْ عَقِيمَهُ» تجمع الحروف القمرية الأربعة عشر بدقة متناهية."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u5-l2):",
+          "prompt": "اختر المجموعة التي تحتوي فقط وحصرًا على كلمات ذات لام قمرية مُظهرة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (5.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (5.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (5.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (5.2.x3)"
+            "البَيْتُ، الخُبْزُ، الجُبْنُ، المَاءُ (Al-bayt, al-khubz, al-jubn, al-māʾ)",
+            "الشمس، السمك، الزيت، التمر (كلها شمسية)",
+            "الرجل، الرمان، الطائر، الليل (كلها شمسية)",
+            "السيارة، الصحن، الضيف، الثوم (كلها شمسية)"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "حروف (ب، خ، ج، م) كلها من الحروف القمرية المجموعة في «ابغ حجك وخف عقيمه»."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)»؟",
+          "prompt": "كيف يُنطق التركيب «فِي الشَّارِعِ» عند وصل الكلام صوتيًا؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (5.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (5.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (5.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (5.2.y3)"
+            "[fīsh-shāriʿ] (تسقط الياء واللام صوتيًا وتُشدد الشين)",
+            "[fī al-shāriʿ] بإظهار اللام خطأ",
+            "[fī al-lām shāriʿ]",
+            "[fā shāriʿ]"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "عند الوصل تسقط همزة الوصل ولام التعريف الشمسية وتُشدد الشين: [فِيشَّارِع]."
         }
       ]
     },
@@ -3023,24 +3034,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 5-2)؟",
+          "prompt": "اختر الجملة التي تطبق قواعد النطق الصوتي للامين الشمسية والقمرية في سياق مائدة الطعام بدقة تامة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (5.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (5.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (5.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (5.2.z3)"
+            "وَضَعَ النَّادِلُ السَّمَكَ المَشْوِيَّ وَالخُبْزَ السَّاخِنَ عَلَى الطَّاوِلَةِ أَمَامَ الضُّيُوفِ. (The waiter placed the grilled fish and hot bread on the table before the guests.)",
+            "وضع النادل السمك المشوي والخبز الساخن بدون تشديد ولا سكون.",
+            "السمك والخبز والطاولة شمسية قمرية بدون فاعل.",
+            "لا يوجد نادل ولا ضيوف في المطعم اليوم."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الجملة تدمج الكلمات الشمسية المشددة (النَّادل، السَّمك، السَّاخن، الطَّاولة، الضُّيوف) والقمرية المظهرة (المَشويّ، الخُبز) في نسق صوتي غاية في الإتقان."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u5-l2) باللغة العربية (مثال: «الروتين»):",
+          "prompt": "اكتب باللغة العربية الفصحى نوع اللام في كلمة «الشَّمْس» (اكتب: «لام شمسية»):",
           "acceptedAnswers": [
-            "الروتين",
-            "الروتين"
+            "لام شمسية",
+            "لام شمسيةٌ",
+            "اللام الشمسية",
+            "شمسية"
           ],
-          "explanation": "المصطلح الصحيح هو «الروتين»."
+          "explanation": "اللام في «الشمس» هي لام شمسية مدغمة."
         }
       ],
       "passThreshold": 0.8
@@ -3051,85 +3064,89 @@
     "subject": "arabic",
     "unit": 5,
     "lessonNumber": 3,
-    "title": "الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics) (الدرس 3)",
+    "title": "الجملة الفعلية: الفعل والفاعل والمفعول به والتعدي (Verbal Sentences & Transitivity)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أفعال الحياة اليومية، اللام الشمسية واللام القمرية، والجملة الفعلية (فعل - فاعل - مفعول به). (الجزء 3).",
+    "objective": "إتقان أركان الجملة الفعلية القياسية (فعل + فاعل مرفوع + مفعول به منصوب)، والتمييز بين الفعل اللازم والفعل المتعدي، وقاعدة لزوم الفعل الإفراد في أول الجملة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "الجملة الفعلية هي الجملة التي تبدأ بفعل، وهي العمود الفقري للسرد في اللغة العربية:\n\nأولاً: أركان الجملة الفعلية (Structure of Verbal Sentence - VSO):\n1.【الفِعْلُ (Verb)】: الركن الأول الدال على الحدث والزمن (ماضٍ أو مضارع):\n- «يَشْرَبُ»، «يَأْكُلُ»، «يَطْبُخُ».\n2.【الفَاعِلُ (Subject)】: الاسم الذي قام بالفعل، وحكمه الإعرابي **الرَّفْعُ دَائِمًا** بالضمة الظاهرة:\n- «يَشْرَبُ **الطَّالِبُ**» (فاعل مرفوع بالضمة).\n3.【المَفْعُولُ بِهِ (Direct Object)】: الاسم الذي وقع عليه فعل الفاعل، وحكمه الإعرابي **النَّصْبُ دَائِمًا** بالفتحة:\n- «يَشْرَبُ الطَّالِبُ **المَاءَ**» (مفعول به منصوب بالفتحة).\n\nثانياً: الفعل اللازم والمتعدي (Intransitive vs. Transitive Verbs):\n1.【الفعل اللازم (Intransitive)】: يكتفي بفاعله ولا يحتاج إلى مفعول به:\n- «جَلَسَ الضَّيْفُ فِي المَطْعَمِ» (جلس: فعل لازم).\n- «نَامَ الطِّفْلُ مُبَكِّرًا».\n2.【الفعل المتعدي (Transitive)】: يتعدى إلى مفعول به منصوب لإتمام المعنى:\n- «طَبَخَتِ الأُمُّ الطَّعَامَ» (طبخت: فعل متعدٍّ، الطعامَ: مفعول به).\n\nثالثاً: قاعدة إفراد الفعل المتقدم:\n- إذا تقدم الفعل على الفاعل، يلزم الفعل الإفراد دائمًا حتى لو كان الفاعل مثنى أو جمعًا:\n  - «حَضَرَ الطَّالِبُ» (مفرد) | «حَضَرَ الطَّالِبَانِ» (مثنى) | «حَضَرَ الطُّلَّابُ» (جمع).\n  - ويطابق الفعل الفاعل في التذكير والتأنيث فقط: «حَضَرَتِ الطَّالِبَاتُ».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)» بأسلوب أكاديمي دقيق (5.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)' to students in an accurate academic style."
+          "target": "يَطْبُخُ الطَّاهِي المَاهِرُ وَجْبَةَ الغَدَاءِ فِي مَطْبَخِ المَطْعَمِ الكَبِيرِ.(Yaṭbukhu aṭ-ṭāhī al-māhiru wajbata al-ghadāʾi fī maṭbakhi al-maṭʿami al-kabīr.)",
+          "reading": "[jatˤ.bu.xu‿tˤ.tˤaː.hiː‿l.maː.hi.ru waʒ.ba.ta‿l.ɣa.daː.ʔi fiː matˤ.ba.xi‿l.matˤ.ʕa.mi‿l.ka.biːr] (Yaṭ-bu-khu aṭ-ṭā-hī al-mā-hi-ru waj-ba-ta al-gha-dā-ʾi fī maṭ-ba-khi al-maṭ-ʿa-mi al-ka-bīr.)",
+          "translation": "The skilled chef cooks the lunch meal in the kitchen of the large restaurant."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (5.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "شَرِبَ الضُّيُوفُ القَهْوَةَ العَرَبِيَّةَ، وَأَكَلُوا التَّمْرَ اللَّذِيذَ.(Shariba aḍ-ḍuyūfu al-qahwata al-ʿarabiyyah, wa-akalū at-tamra al-ladhīdh.)",
+          "reading": "[ʃa.ri.ba‿dˤ.dˤu.juː.fu‿l.qah.wa.ta‿l.ʕa.ra.bij.jah, wa.ʔa.ka.luː‿t.tam.ra‿l.la.ðiːð] (Sha-ri-ba aḍ-ḍu-yū-fu al-qah-wa-ta al-ʿa-ra-biy-yah, wa-a-ka-lū at-tam-ra al-la-dhīdh.)",
+          "translation": "The guests drank Arabic coffee and ate delicious dates."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (5.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "الفَاعِلُ يَكُونُ مَرْفُوعًا دَائِمًا، وَالمَفْعُولُ بِهِ يَكُونُ مَنْصُوبًا فِي الجُمْلَةِ الفِعْلِيَّةِ.(Al-fāʿilu yakūnu marfūʿan dāʾiman, wa-al-mafʿūlu bihi yakūnu manṣūban fī al-jumlati al-fiʿliyyah.)",
+          "reading": "[al.faː.ʕi.lu ja.kuː.nu mar.fuː.ʕan daː.ʔi.man, wal.maf.ʕuː.lu bi.hi ja.kuː.nu man.sˤuː.ban fiː‿l.ʒum.la.ti‿l.fiʕ.lij.jah] (Al-fā-ʿi-lu ya-kū-nu mar-fū-ʿan dā-ʾi-man, wa-al-maf-ʿū-lu bi-hi ya-kū-nu man-ṣū-ban fī al-jum-la-ti al-fiʿ-liy-yah.)",
+          "translation": "The subject is always in the nominative, and the direct object is in the accusative in the verbal sentence."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (5.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تُعِدُّ وَالِدَتِي حَسَاءَ الخُضْرَاوَاتِ الشَّهِيَّ لِلْعَائِلَةِ كُلَّ مَسَاءٍ.(Tuʿiddu wālidatī ḥasāʾa al-khuḍrāwāti ash-shahiyya li-l-ʿāʾilati kulla masāʾ.)",
+          "reading": "[tu.ʕid.du waː.li.da.tiː ħa.saː.ʔa‿l.xudˤ.raː.waː.ti‿ʃ.ʃa.hij.ja lil.ʕaː.ʔi.la.ti kul.la ma.saːʔ] (Tu-ʿid-du wā-li-da-tī ḥa-sā-ʾa al-khuḍ-rā-wā-ti ash-sha-hiy-ya li-l-ʿā-ʾi-la-ti kul-la ma-sāʾ.)",
+          "translation": "My mother prepares delicious vegetable soup for the family every evening."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فِعْلٌ ثُمَّ فَاعِلٌ مَرْفُوعُ الشَّأْنِ، وَمَفْعُولٌ مَنْصُوبٌ بِالفَتْحَةِ زَانْ!"
+      ],
+      "culturalNotes": [
+        "تقديم الضيافة وإعداد الطعام للضيوف يرتبط في الثقافة العربية بأشعار حاتم الطائي وقيم الكرم العربي الموروثة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)» (الدرس 3)؟",
+          "prompt": "ما هو الإعراب الصحيح لكلمة «العَصِيرَ» في الجملة الفعلية «شَرِبَ الطِّفْلُ العَصِيرَ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)» بأسلوب أكاديمي دقيق (5.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (5.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (5.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (5.3.w3)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ (Direct object in accusative)",
+            "فاعل مرفوع بالضمة",
+            "مبتدأ مؤخر",
+            "مضاف إليه مجرور"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«العصيرَ» هو الاسم المنصوب الذي وقع عليه فعل الشرب، فيعرب مفعولاً به منصوبًا بالفتحة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "كيف يُصاغ الفعل المتقدم في بداية الجملة مع فاعل جمع مذكر مثل «المُعَلِّمُونَ»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "حَضَرَ المُعَلِّمُونَ (بصيغة الإفراد) (Singular verb)",
+            "حضروا المعلمون (خطأ بتكرار الواو)",
+            "حضرن المعلمون",
+            "يحضرون المعلمون في البداية خطأ"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الفعل المتقدم يلزم الإفراد دائمًا: «حَضَرَ المُعَلِّمُونَ» طبقًا لقاعدة لزوم إفراد الفعل مع الفاعل الظاهر."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u5-l3):",
+          "prompt": "اختر الجملة الفعلية المتعدية المعربة إعرابًا تامًا وصحيحًا وفق قواعد النحو العربي:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (5.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (5.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (5.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (5.3.x3)"
+            "طَبَخَ الطَّاهِي السَّمَكَ الطَّازَجَ فِي المَطْعَمِ. (The chef cooked the fresh fish in the restaurant.)",
+            "طبخ الطاهي السمكُ بالرفع خطأ",
+            "طبخوا الطاهي السمك بجمع الفعل",
+            "السمك طبخ الطاهي في المطعم بدون ترتيب"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«طبخَ» فعل ماضٍ، «الطاهي» فاعل مرفوع بالضمة المقدرة، «السمكَ» مفعول به منصوب بالفتحة، «الطازجَ» نعت منصوب."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)»؟",
+          "prompt": "ما هو تعريف الفعل اللازم في قواعد اللغة العربية؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (5.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (5.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (5.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (5.3.y3)"
+            "الفِعْلُ الَّذِي يَكْتَفِي بِفَاعِلِهِ وَلَا يَنْصِبُ مَفْعُولًا بِهِ (Intransitive verb)",
+            "الفعل الذي ينصب مفعولين",
+            "الفعل المبني للمجهول",
+            "الفعل الناقص مثل كان"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الفعل اللازم يكتفي بالفاعل لإتمام المعنى مثل: جلس، نام، قام."
         }
       ]
     },
@@ -3137,24 +3154,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 5-3)؟",
+          "prompt": "اختر النص السردي الذي يوظف الجمل الفعلية المتعدية واللازمة وضبط الفاعل والمفعول به بدقة فائقة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (5.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (5.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (5.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (5.3.z3)"
+            "دَخَلَ الضُّيُوفُ الصَّالَةَ، وَجَلَسُوا حَوْلَ المَائِدَةِ، ثُمَّ قَدَّمَ النَّادِلُ الأَطْبَاقَ الشَّهِيَّةَ، فَأَكَلَ الحَاضِرُونَ الطَّعَامَ بِفَرَحٍ وَسُرُورٍ. (The guests entered the hall, sat around the table, then the waiter presented the delicious dishes, and those present ate the food with joy and delight.)",
+            "دخلوا الضيوف وجلسوا وقدموا النادل اطباق شهية بدون ضبط.",
+            "الضيوف دخل الصالة النادل قدم طعام اكل الحاضرون.",
+            "جمل فعلية فاعل مفعول به سكون فتحة ضمة مطعم."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يطبق قواعد إفراد الفعل المتقدم «دخل الضيوفُ، قدم النادلُ، أكل الحاضرونُ» وضبط المفعول به «الأطباقَ، الطعامَ» بأعلى درجات الفصاحة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u5-l3) باللغة العربية (مثال: «الروتين»):",
+          "prompt": "اكتب باللغة العربية الفصحى المصطلح الدال على الاسم المرفوع الذي يقوم بالفعل في الجملة الفعلية (مثال: «الفاعل»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الروتين",
-            "الروتين"
+            "الفاعل",
+            "الفَاعِلُ",
+            "فاعل"
           ],
-          "explanation": "المصطلح الصحيح هو «الروتين»."
+          "explanation": "الاسم المرفوع القائم بالفعل هو «الفاعل»."
         }
       ],
       "passThreshold": 0.8
@@ -3165,85 +3183,89 @@
     "subject": "arabic",
     "unit": 5,
     "lessonNumber": 4,
-    "title": "الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics) (الدرس 4)",
+    "title": "لغة المطعم والطلب المهذب وقائمة الطعام (Restaurant Vocabulary & Polite Ordering)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أفعال الحياة اليومية، اللام الشمسية واللام القمرية، والجملة الفعلية (فعل - فاعل - مفعول به). (الجزء 4).",
+    "objective": "إتقان معجم المطعم وقوائم الطعام والأدوات (صحن، شوكة، ملعقة، سكين)، واستخدام أساليب الطلب المهذب (من فضلك، لو سمحت) وطلب الحساب بلباقة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "التواصل في المطعم يتطلب معرفة مصطلحات الخدمة وقوائم الطعام والعبارات المهذبة للطلب:\n\nأولاً: أقسام قائمة الطعام (Sections of the Menu):\n1.【المُقَبِّلَاتُ (Appetizers / Starters)】: الحُمُّص، المُتَبَّل، التَّبُّولَة، الفَتُّوش، السَّمْبُوسَك.\n2.【الأَطْبَاقُ الرَّئِيسِيَّةُ (Main Courses)】: الكَبْسَة، المَنْسَف، المَشَاوِي المُشَكَّلَة، السَّمَك المَقْلِي، الدَّجَاج المَحْشِي.\n3.【الحَلْوَيَاتُ (Desserts)】: البَقْلَاوَة، الكُنَافَة، أُمّ عَلِي، المَهَلَّبِيَّة.\n4.【المَشْرُوبَاتُ (Beverages)】: العَصَائِر الطَّبِيعِيَّة، الشَّاي، القَهْوَة.\n\nثانياً: أدوات المائدة (Tableware):\n- طَاوِلَةٌ (Table) | صَحْنٌ / طَبَقٌ (Plate/Dish) | مِلْعَقَةٌ (Spoon) | شَوْكَةٌ (Fork) | سِكِّينٌ (Knife) | كُوبٌ (Glass/Cup) | مِنْدِيلٌ (Napkin).\n\nثالثاً: عبارات اللباقة والطلب المهذب (Polite Expressions):\n- «مِنْ فَضْلِكَ / لَوْ سَمَحْتَ / لَوْ تَكَرَّمْتَ» (Please / Excuse me).\n- «أُرِيدُ أَنْ أَطْلُبَ...» (I would like to order...).\n- «هَلْ تُوصِي بِطَبَقٍ مُعَيَّنٍ؟» (Do you recommend a specific dish?).\n- «أَحْضِرْ لَنَا الحِسَابَ (الفَاتُورَةَ) مِنْ فَضْلِكَ» (Bring us the check, please).\n- «شُكْرًا لَكَ، كَانَ الطَّعَامُ لَذِيذًا وَالخِدْمَةُ مُمْتَازَةً» (Thank you, the food was delicious and service excellent).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)» بأسلوب أكاديمي دقيق (5.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)' to students in an accurate academic style."
+          "target": "لَوْ سَمَحْتَ يَا نَادِلُ، أُرِيدُ قَائِمَةَ الطَّعَامِ مِنْ فَضْلِكَ لِاخْتِيَارِ الغَدَاءِ.(Law samaḥta yā nādil, urīdu qāʾimata aṭ-ṭaʿāmi min faḍlika li-khtiyāri al-ghadāʾ.)",
+          "reading": "[law sa.maħ.ta jaː naː.dil, ʔu.riː.du qaː.ʔi.ma.ta‿tˤ.tˤa.ʕaː.mi min fadˤ.li.ka lix.ti.jaː.ri‿l.ɣa.daːʔ] (Law sa-maḥ-ta yā nā-dil, u-rī-du qā-ʾi-ma-ta aṭ-ṭa-ʿā-mi min faḍ-li-ka li-kh-ti-yā-ri al-gha-dāʾ.)",
+          "translation": "Excuse me, waiter, I would like the menu please to choose lunch."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (5.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "هَلْ يُمْكِنُنِي الحُصُولُ عَلَى طَبَقِ سَمَكٍ مَشْوِيٍّ مَعَ سَلَطَةٍ وَكُوبِ مَاءٍ؟(Hal yumkinunī al-ḥuṣūlu ʿalā ṭabaqi samakin mashwiyyin maʿa salaṭatin wa-kūbi māʾ?)",
+          "reading": "[hal jum.ki.nu.niː‿l.ħu.sˤuː.lu ʕa.laː tˤa.ba.qi sa.ma.kin maʃ.wij.jin ma.ʕa sa.la.tˤa.tin wa.kuː.bi maːʔ] (Hal yum-ki-nu-nī al-ḥu-ṣū-lu ʿa-lā ṭa-ba-qi sa-ma-kin mash-wiy-yin ma-ʿa sa-la-ṭa-tin wa-kū-bi māʾ?)",
+          "translation": "Could I please have a grilled fish dish with salad and a glass of water?"
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (5.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "نَبْدَأُ الوَجْبَةَ بِالمُقَبِّلَاتِ الشَّهِيَّةِ مِثْلَ الحُمُّصِ وَالمُتَبَّلِ وَالفَلَافِلِ السَّاخِنَةِ.(Nabdaʾu al-wajbata bi-l-muqabbilāti ash-shahiyyati mithla al-ḥummuṣi wa-al-mutabbali wa-al-falāfili as-sākhinah.)",
+          "reading": "[nab.da.ʔu‿l.waʒ.ba.ta bil.mu.qab.bi.laː.ti‿ʃ.ʃa.hij.ja.ti miθ.la‿l.ħum.mu.sˤi wal.mu.tab.ba.li wal.fa.laː.fi.li‿s.saː.xi.nah] (Nab-da-ʾu al-waj-ba-ta bi-l-mu-qab-bi-lā-ti ash-sha-hiy-ya-ti mith-la al-ḥum-mu-ṣi wa-al-mu-tab-ba-li wa-al-fa-lā-fi-li as-sā-khi-nah.)",
+          "translation": "We start the meal with delicious appetizers such as hummus, mutabbal, and hot falafel."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (5.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "أَحْضِرْ لَنَا الحِسَابَ لَوْ تَكَرَّمْتَ؛ كَانَتِ الخِدْمَةُ مُمْتَازَةً وَالطَّعَامُ فِي غَايَةِ اللَّذَّةِ.(Aḥḍir lanā al-ḥisāba law takarramta; kānati al-khidmatu mumtāzatan wa-aṭ-ṭaʿāmu fī ghāyati al-ladhdhah.)",
+          "reading": "[ʔaħ.dˤir la.naː‿l.ħi.saː.ba law ta.kar.ramt; kaː.na.ti‿l.xid.ma.tu mum.taː.za.tan watˤ.tˤa.ʕaː.mu fiː ɣaː.ja.ti‿l.lað.ðah] (Aḥ-ḍir la-nā al-ḥi-sā-ba law ta-kar-ramt; kā-na-ti al-khid-ma-tu mum-tā-za-tan wa-aṭ-ṭa-ʿā-mu fī ghā-ya-ti al-ladh-dhah.)",
+          "translation": "Bring us the bill if you please; the service was excellent and the food was extremely delicious."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "لَوْ سَمَحْتَ وَمِنْ فَضْلِكَ أَدَبُ الكَلَامْ، فِي المَطْعَمِ تَطْلُبُ أَشْهَى الطَّعَامْ!"
+      ],
+      "culturalNotes": [
+        "المطاعم العربية التقليدية تتميز بأجواء الضيافة الترحيبية الحارة، حيث يُستقبل الزبون بعبارات الترحيب «أهلاً وسهلاً، نورتونا»."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)» (الدرس 4)؟",
+          "prompt": "ما هي العبارة المهذبة المثالية لمناداة النادل وطلب قائمة الطعام في مطعم فصيح؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)» بأسلوب أكاديمي دقيق (5.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (5.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (5.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (5.4.w3)"
+            "لَوْ سَمَحْتَ يَا نَادِلُ، أُرِيدُ قَائِمَةَ الطَّعَامِ مِنْ فَضْلِكَ (Excuse me waiter, the menu please)",
+            "أحضر الأكل بسرعة بدون كلام",
+            "أين الطعام أنا جائع جدا الآن",
+            "لا أريد أن أدفع الحساب"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "العبارة تجمع بين النداء المؤدب «لَوْ سَمَحْتَ» و«مِنْ فَضْلِكَ» بأسلوب راقٍ."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو القسم المخصص للأطباق الخفيفة التي تُقدم في مستهل المائدة العربية؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "المُقَبِّلَاتُ (Appetizers)",
+            "الحلويات",
+            "المشروبات الساخنة",
+            "الفاتورة والحساب"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«المُقَبِّلَات» هي الأطباق التمهيدية الخفيفة مثل الحمص والمتبل والتبولة."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u5-l4):",
+          "prompt": "اختر العبارة الفصيحة لطلب فاتورة الحساب بعد الانتهاء من تناول الطعام:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (5.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (5.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (5.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (5.4.x3)"
+            "أَحْضِرْ لَنَا الفَاتُورَةَ لَوْ تَكَرَّمْتَ، شُكْرًا لَكَ عَلَى حُسْنِ الخِدْمَةِ. (Bring us the bill please, thank you for the good service.)",
+            "أنا خارج من المطعم بدون دفع",
+            "كم سعر كل ملعقة وشوكة في الطاولة؟",
+            "الفاتورة غالية ولا يوجد طعام لذيذ"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "العبارة تطلب الفاتورة بلباقة مع شكر النادل على الخدمة المتميزة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)»؟",
+          "prompt": "ما هي الأدوات الثلاث الأساسية لتناول الطعام على المائدة العربية الحديثة؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (5.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (5.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (5.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (5.4.y3)"
+            "المِلْعَقَةُ وَالشَّوْكَةُ وَالسِّكِّينُ (Spoon, Fork, Knife)",
+            "القلم والمسطرة والورقة",
+            "الساعة والمفتاح والمحفظة",
+            "الكتاب والجريدة والمجلة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "أدوات المائدة هي الملعقة والشّوكة والسّكّين."
         }
       ]
     },
@@ -3251,24 +3273,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 5-4)؟",
+          "prompt": "اختر الحوار الذي يمثل التفاعل المهذب الكامل بين الزبون والنادل في مطعم عربي:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (5.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (5.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (5.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (5.4.z3)"
+            "— مَرْحَبًا بِكُمْ، مَاذَا تُحِبُّونَ أَنْ تَطْلُبُوا؟ — لَوْ سَمَحْتَ، نُرِيدُ طَبَقَ كَبْسَةٍ بِالدَّجَاجِ مَعَ سَلَطَةٍ وَعَصِيرِ بُرْتُقَالٍ. — حَاضِرٌ، سَيَكُونُ الطَّعَامُ جَاهِزًا خِلَالَ عَشْرِ دَقَائِقَ. (Welcome, what would you like to order? — Please, we would like a chicken kabsa dish with salad and orange juice. — Certainly, the food will be ready in ten minutes.)",
+            "— هات طعام. — لا يوجد اكل اليوم اذهبوا.",
+            "— كم الفاتورة؟ — مئة كلمة في القاموس.",
+            "— نادل ملعقة شوكة سكين ماء شاي سكون."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الحوار يمثل النموذج الفصيح المتكامل للطلب والترحيب وتحديد الأطباق والمشروبات والوقت."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u5-l4) باللغة العربية (مثال: «الروتين»):",
+          "prompt": "اكتب باللغة العربية الفصحى المصطلح الدال على قائمة الوجبات في المطعم (مثال: «قائمة الطعام»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الروتين",
-            "الروتين"
+            "قائمة الطعام",
+            "قَائِمَةُ الطَّعَامِ",
+            "قائمه الطعام"
           ],
-          "explanation": "المصطلح الصحيح هو «الروتين»."
+          "explanation": "المصطلح الفصيح هو «قائمة الطعام»."
         }
       ],
       "passThreshold": 0.8
@@ -3279,85 +3302,89 @@
     "subject": "arabic",
     "unit": 5,
     "lessonNumber": 5,
-    "title": "الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics) (الدرس 5)",
+    "title": "حوار المأدبة وتناول العشاء في المطعم العربي (Comprehensive Arab Restaurant Banquet Dialogue)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أفعال الحياة اليومية، اللام الشمسية واللام القمرية، والجملة الفعلية (فعل - فاعل - مفعول به). (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة الخامسة: معجم الأطعمة والمشروبات، النطق السليم للام الشمسية والقمرية، إعراب الجملة الفعلية، وعبارات الطلب المهذب في مأدبة عشاء متكاملة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة الخامسة من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس ندمج جميع المهارات اللغوية والمعجمية والصوتية والنحوية في حوار مأدبة عشاء راقية تجمع صديقين في مطعم شرقي تقليدي:\n\nعناصر النص الحواري الشامل:\n1.【الترحيب وحجز الطاولة】: «أَهْلًا وَسَهْلًا بِكُمْ، هٰذِهِ طَاوِلَتُكُمْ أَمَامَ النَّافِذَةِ».\n2.【اختيار الأطباق والمقبلات】: الحمص، الفتوش، الكبسة باللحم، السمك المشوي، وتطبيق اللامين الشمسية والقمرية في كل كلمة.\n3.【تطبيق الجمل الفعلية الإعرابية】: «يُقَدِّمُ النَّادِلُ الأَطْبَاقَ»، «نَشْرَبُ العَصِيرَ»، «نَطْلُبُ الحَلْوَى».\n4.【التحلية والمشروبات الساخنة】: البقلاوة، الكنافة النابلسية، الشاي بالنعناع، والقهوة العربية بالهيل.\n5.【دفع الفاتورة وعبارات المجاملة】: «كَمِ الحِسَابُ مِنْ فَضْلِكَ؟»، «هَنِيئًا مَرِيئًا»، «طَعَامٌ شَهِيٌّ وَخِدْمَةٌ لَا تُنْسَى».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)» بأسلوب أكاديمي دقيق (5.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)' to students in an accurate academic style."
+          "target": "أَهْلًا وَسَهْلًا بِكُمْ فِي مَطْعَمِنَا التَّقْلِيدِيِّ، تَفَضَّلُوا هٰذِهِ قَائِمَةُ الطَّعَامِ.(Ahlan wa-sahlan bikum fī maṭʿaminā at-taqlīdiyy, tafaḍḍalū hādhihi qāʾimatu aṭ-ṭaʿām.)",
+          "reading": "[ʔah.lan wa.sah.lan bi.kum fiː matˤ.ʕa.mi.naː‿t.taq.liː.dijj, ta.fadˤ.dˤa.luː haː.ði.hi qaː.ʔi.ma.tu‿tˤ.tˤa.ʕaːm] (Ah-lan wa-sah-lan bi-kum fī maṭ-ʿa-mi-nā at-taq-lī-diyy, ta-faḍ-ḍa-lū hā-dhi-hi qā-ʾi-ma-tu aṭ-ṭa-ʿām.)",
+          "translation": "Welcome to our traditional restaurant, please go ahead, here is the menu."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (5.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "نُرِيدُ طَبَقَيْنِ مِنَ الكَبْسَةِ وَالدَّجَاجِ المَشْوِيِّ، مَعَ صَحْنِ حُمُّصٍ وَسَلَطَةٍ خَضْرَاءَ.(Nurīdu ṭabaqayni mina al-kabsati wa-ad-dajāji al-mashwiyy, maʿa ṣaḥni ḥummuṣin wa-salaṭatin khaḍrāʾ.)",
+          "reading": "[nu.riː.du tˤa.ba.qaj.ni mi.na‿l.kab.sa.ti wad.da.ʒaː.ʒi‿l.maʃ.wijj, ma.ʕa sˤaħ.ni ħum.mu.sˤin wa.sa.la.tˤa.tin xadˤ.raːʔ] (Nu-rī-du ṭa-ba-qay-ni mi-na al-kab-sa-ti wa-ad-da-jā-ji al-mash-wiyy, ma-ʿa ṣaḥ-ni ḥum-mu-ṣin wa-sa-la-ṭa-tin khaḍ-rāʾ.)",
+          "translation": "We would like two dishes of kabsa and grilled chicken, with a plate of hummus and green salad."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (5.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "وَمَاذَا تُحِبُّونَ مِنَ المَشْرُوبَاتِ وَالحَلْوَيَاتِ؟ — نُفَضِّلُ عَصِيرَ اللَّيْمُونِ بِالنَّعْنَاعِ، وَطَبَقًا مِنَ البَقْلَاوَةِ الشَّرْقِيَّةِ.(Wa-mādhā tuḥibbūna mina al-mashrūbāti wa-al-ḥalwayāt? — Nufaḍḍilu ʿaṣīra al-laymūni bi-an-naʿnāʿ, wa-ṭabaqan mina al-baqlāwati ash-sharqiyyah.)",
+          "reading": "[wa.maː.ðaː tu.ħib.buː.na mi.na‿l.maʃ.ruː.baː.ti wal.ħal.wa.jaːt? — nu.fadˤ.dˤi.lu ʕa.sˤiː.ra‿l.laj.muː.ni bin.naʕ.naːʕ, wa.tˤa.ba.qan mi.na‿l.baq.laː.wa.ti‿ʃ.ʃar.qij.jah] (Wa-mā-dhā tu-ḥib-bū-na mi-na al-mash-rū-bā-ti wa-al-ḥal-wa-yāt? — Nu-faḍ-ḍi-lu ʿa-ṣī-ra al-lay-mū-ni bi-an-naʿ-nāʿ, wa-ṭa-ba-qan mi-na al-baq-lā-wa-ti ash-shar-qiy-yah.)",
+          "translation": "And what would you like for beverages and desserts? — We prefer lemon-mint juice, and a plate of oriental baklava."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (5.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "كَانَ العَشَاءُ رَائِعًا جِدًّا! كَمِ الحِسَابُ الإِجْمَالِيُّ لَوْ سَمَحْتَ؟ — الحِسَابُ مِئَةٌ وَعِشْرُونَ دِرْهَمًا، هَنِيئًا مَرِيئًا!(Kāna al-ʿashāʾu rāʾiʿan jiddā! Kami al-ḥisābu al-ijmāliyyu law samaḥt? — Al-ḥisābu miʾatun wa-ʿishrūna dirhaman, hanīʾan marīʾā!)",
+          "reading": "[kaː.na‿l.ʕa.ʃaː.ʔu raː.ʔi.ʕan ʒid.daː! ka.mi‿l.ħi.saː.bu‿l.ʔiʒ.maː.lij.ju law sa.maħt? — al.ħi.saː.bu mi.ʔa.tun wa.ʕiʃ.ruː.na dir.ha.man, ha.niː.ʔan ma.riː.ʔan!] (Kā-na al-ʿa-shā-ʾu rā-ʾi-ʿan jid-dā! Ka-mi al-ḥi-sā-bu al-ij-mā-liy-yu law sa-maḥt? — Al-ḥi-sā-bu mi-ʾa-tun wa-ʿish-rū-na dir-ha-man, ha-nī-ʾan ma-rī-ʾan!)",
+          "translation": "Dinner was very wonderful! How much is the total bill, please? — The bill is one hundred twenty dirhams, enjoy your meal in good health!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مَأْدُبَةٌ تَجْمَعُنَا بِأَطْيَبِ الأَطْبَاقْ: حُرُوفٌ شَمْسِيَّةٌ وَجُمَلٌ فِعْلِيَّةٌ بِأَرْقَى الأَخْلَاقْ، هَنِيئًا مَرِيئًا لِكُلِّ الأَصْدِقَاءْ!"
+      ],
+      "culturalNotes": [
+        "الكرم والاحتفاء بالضيف على مائدة الطعام من أقدس الواجبات الاجتماعية في الثقافة العربية، حيث يُعامل الضيف بأرفع آيات التقدير والتبجيل."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)» (الدرس 5)؟",
+          "prompt": "في حوار المأدبة في المطعم، ما هي العبارة التي تقال في ختام الوجبة لدفع الفاتورة وشكر النادل؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)» بأسلوب أكاديمي دقيق (5.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (5.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (5.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (5.5.w3)"
+            "أَحْضِرْ لَنَا الحِسَابَ لَوْ سَمَحْتَ، كَانَ الطَّعَامُ لَذِيذًا جِدًّا. (Bring us the check please, the food was very delicious.)",
+            "أنا لا أريد أن أدفع شيئا",
+            "أين الباب للخروج بسرعة؟",
+            "الطعام سيئ جدا ولن نعود"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "العبارة تجمع بين طلب الحساب والثناء على جودة الطعام بأسلوب لبق وفصيح."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو التمييز الصوتي الصحيح عند نطق كلمة «البَقْلَاوَة» وكلمة «الشَّاي»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "«البَقْلَاوَةُ» قَمَرِيَّةٌ مُظْهَرَةٌ، وَ«الشَّايُ» شَمْسِيٌّ مُدْغَمٌ (Al-baqlawah is moon, ash-shay is sun)",
+            "كلاهما شمسية مدغمة",
+            "كلاهما قمرية مظهرة",
+            "لا توجد لام في الكلمتين"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الباء من حروف «ابغ حجك» فهي قمرية مظهرة، والشين شمسية مدغمة مشددة."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u5-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تصف طلب العشاء والتحلية والمشروبات بأسلوب عربي فصيح:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (5.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (5.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (5.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (5.5.x3)"
+            "— مَاذَا تَطْلُبُونَ لِلْعَشَاءِ؟ — نُرِيدُ سَمَكًا مَشْوِيًّا مَعَ الأَرُزِّ، وَكُنَافَةً نَابُلْسِيَّةً لِلْحَلْوَى، وَشَايًا بِالنَّعْنَاعِ. (What do you order for dinner? — We want grilled fish with rice, Nabulsi kunafah for dessert, and mint tea.)",
+            "— ماذا تأكلون؟ — لا نريد عشاء ولا حلوى نحن نمشي.",
+            "— اين المطعم؟ — الساعة اثنان وخمسون دقيقة في الشارع.",
+            "— هات اكل سريع بدون ماء وشاي."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة توظف معجم الأطباق والتحلية والمشروبات بضبط إعرابي سليم وتناسق دلالي تام."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الروتين اليومي والحروف الشمسية والقمرية (Daily Routine & Phonetics)»؟",
+          "prompt": "ما هي الدعاء والعبارة الكريمة التي يقولها المضيف لضيوفه بعد تناول الطعام؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (5.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (5.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (5.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (5.5.y3)"
+            "هَنِيئًا مَرِيئًا / صِحَّةً وَعَافِيَةً (May it be wholesome and healthy)",
+            "مع السلامة فقط بدون كلام",
+            "أين ذهبتم؟",
+            "لماذا أكلتم كل الطعام؟"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«هَنِيئًا مَرِيئًا» و«صِحَّةً وَعَافِيَةً» عبارات الدعاء بالبركة والصحة بعد الطعام."
         }
       ]
     },
@@ -3365,24 +3392,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 5-5)؟",
+          "prompt": "اختر النص الشامل الذي يدمج مخرجات الوحدة الخامسة كاملة (الأطعمة، المشروبات، الحروف الشمسية والقمرية، الجمل الفعلية، الطلب في المطعم):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (5.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (5.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (5.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (5.5.z3)"
+            "اجْتَمَعَ الأَصْدِقَاءُ فِي مَطْعَمِ المَدِينَةِ الشَّرْقِيِّ: قَدَّمَ النَّادِلُ قَائِمَةَ الطَّعَامِ بِلَبَاقَةٍ، فَطَلَبُوا حُمُّصًا وَسَلَطَةً خَضْرَاءَ كَمُقَبِّلَاتٍ، وَأَكَلُوا الكَبْسَةَ بِاللَّحْمِ وَالدَّجَاجَ المَشْوِيَّ، ثُمَّ شَرِبُوا الشَّايَ بِالنَّعْنَاعِ وَتَنَاوَلُوا البَقْلَاوَةَ اللَّذِيذَةَ، وَدَفَعُوا الحِسَابَ شَاكِرِينَ حُسْنَ الضِّيَافَةِ. (The friends gathered at the oriental city restaurant: the waiter presented the menu politely, so they ordered hummus and green salad as appetizers, ate meat kabsa and grilled chicken, then drank mint tea and had delicious baklava, paying the bill while thanking for the good hospitality.)",
+            "اجتمع الاصدقاء في المطعم بدون طلب طعام ولا قائمة ولا نادل.",
+            "اكلوا شربوا جمل فعلية سكون فتحة ضمة حروف شمسية قمرية.",
+            "لا يوجد مطعم ولا اصدقاء في هذا المساء."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الفصاحة والبلاغة في دمج كافة مفردات الأطعمة والمشروبات وأقسام القائمة وقواعد اللام الشمسية والقمرية والجمل الفعلية وإعراب الفاعل والمفعول به."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u5-l5) باللغة العربية (مثال: «الروتين»):",
+          "prompt": "اكتب باللغة العربية الفصحى العبارة المكونة من كلمتين والتي تقال تمنيًا للصحة والهناء بعد تناول الطعام (مثال: «هنيئا مريئا»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الروتين",
-            "الروتين"
+            "هنيئا مريئا",
+            "هَنِيئًا مَرِيئًا",
+            "صحة وعافية",
+            "صِحَّةً وَعَافِيَةً"
           ],
-          "explanation": "المصطلح الصحيح هو «الروتين»."
+          "explanation": "العبارة الفصيحة هي «هنيئا مريئا» أو «صحة وعافية»."
         }
       ],
       "passThreshold": 0.8
