@@ -11744,85 +11744,62 @@
     "subject": "amharic",
     "unit": 26,
     "lessonNumber": 1,
-    "title": "የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy) (ክፍል 1)",
+    "title": "የሐተታ ዘርአ ያዕቆብ እና ምክንያታዊ ምርምር (Hateta Zera Yacob & Rational Inquiry)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የሐተታ ዘርአ ያዕቆብ ምክንያታዊ ፍልስፍና፣ እውነትን በምክንያት የመመርመር ጥበብ። (ክፍል 1)።",
+    "objective": "የዘርአ ያዕቆብን ምክንያታዊ ፍልስፍና («ሐተታ»)፣ የልብ ብርሃንንና እውነትን የመመርመር ጥበብ ማወቅ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የሐተታ ዘርአ ያዕቆብ እና ምክንያታዊ ፍልስፍና መዋቅር:\n\n፩. የፍልስፍናው መሰረት:\n- ሐተታ፣ ዘርአ ያዕቆብ፣ ማስተዋል እና አእምሯዊ ምክንያት።\n- የልብ ብርሃን፣ እውነትን መመርመር እና ምክንያታዊ ጥርጣሬ።\n\n፪. ዋና የፍልስፍና መርህ:\n- ዘርአ ያዕቆብ እያንዳንዱ ሰው ፈጣሪ በሰጠው የልብ ብርሃን እና ምክንያት ተጠቅሞ እውነትን ከሀሰት መለየት እንዳለበት አስተምረዋል። ሰው በምክንያት ሲመራ እውነተኛውን የህይወት መንገድ ይረዳል፤ ጭፍን እምነትንና አጉል ልማድን ያስወግዳል።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (26.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)' to the students."
+          "target": "ፈላስፋው ዘርአ ያዕቆብ በጻፉት «ሐተታ» ውስጥ የሰውን ልጅ የማሰብ ችሎታ እና ምክንያታዊነት በታላቅ ክብር አሞገሱ።",
+          "reading": "Fälasfaw Zär'a Ya'əqob bäts’afut «Hatäta» wəsət’ yäsäwən ləğ yämasäb čəlotanna məkənyatawinnätən bätalaq kəbər amoggäsu. [fɛlasˈfaw zɛrʔa jaʔɨˈkʼob bɛtsʼaˈfut hatɛˈta wɨstʼ jɛsɛˈwɨn lɨdʒ jɛmaˈsɛb tʃɨloˈtanːa mɨkɨnjataˈwinːɛtɨn bɛtaˈlakʼ kɨbər ʔamoɡːɛˈsu] (feh-lahs-FAHW zehr-ah yah-uh-K'OHB beh-ts'ah-FOOT «hah-teh-TAH» woos-T' yeh-SEH-wun luhj yeh-mah-SEB chuh-loh-TAHN-nah muh-kun-yah-tah-WEEN-net-un beh-tah-LAHK' kuh-BUR ah-mohg-geh-SOO)",
+          "translation": "In the 'Hateta' written by him, the philosopher Zera Yacob praised human cognitive faculty and rationality with great honor."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (26.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እውነትን ለማግኘት የልብ ብርሃን የሆነውን አእምሯዊ ምክንያት መጠቀም የዘርአ ያዕቆብ ቀዳሚ መመሪያ ነው።",
+          "reading": "Əwnätən lämagnyät yäləbb bərəhan yähonäwən a'əmərowi məkənyat mät’äqqäm yäZär'a Ya'əqob qäddami mämäriya näw. [ʔɨwˈnɛtɨn ləmaɡˈɲɛt jɛlɨbː bɨrˈhan jɛhoˈnɛwɨn ʔaʔɨmroˈwi mɨkɨnˈjat mɛtʼɛkʼːəm jɛzɛrʔa jaʔɨˈkʼob kʼɛdːaˈmi mɛmɛriˈja nɛw] (ew-NEH-tun luh-mahg-NYET yeh-lub-b bur-HAHN yeh-hoh-NEW-un ah-um-roh-WEE muh-kun-YAHT met'-ek'-K'EM yeh-zehr-ah yah-uh-K'OHB k'ed-dah-MEE meh-meh-ree-YAH new)",
+          "translation": "Employing mental reason, which is the light of the heart, to attain truth is Zera Yacob's primary directive."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (26.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (26.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የኢትዮጵያ ፍልስፍና ከአውሮፓውያን የብርሃን ዘመን ቀድሞ ምክንያታዊነትን ያወጀ ድንቅ የታሪክ ቅርስ ነው።",
+          "reading": "Yä'Ityop’əya fəlsəfənna kä'Awropawəyan yäbərəhan zämän qäddəmo məkənyatawinnätən yawäğğä dənq yätarik qərs näw. [jɛʔitjoˈpʼɨja fɨlsɨˈfɨnːa kɛʔawropaˈwɨjan jɛbɨrˈhan zɛˈmɛn kʼɛdːɨˈmo mɨkɨnjataˈwinːɛtɨn jaˈwɛdʒːɛ dɨnkʼ jɛtaˈrik kʼɨrs nɛw] (yeh-eet-yoh-P'EE-yah ful-suh-fun-NAH keh-ow-roh-pah-wuh-YAHN yeh-bur-HAHN zeh-MEN k'ed-duh-MOH muh-kun-yah-tah-WEEN-net-un yah-wej-JEH dunk' yeh-tah-REEK k'urs new)",
+          "translation": "Ethiopian philosophy is a magnificent historical heritage that proclaimed rationality prior to the European Enlightenment."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Zera Yacob Terms: ሐተታ (Inquiry) + ዘርአ ያዕቆብ (Philosopher) + ምክንያት (Reason) + የልብ ብርሃን (Light of Heart)!"
+      ],
+      "culturalNotes": [
+        "ዘርአ ያዕቆብ በ፲፯ኛው መቶ ክፍለ ዘመን (17th century) በተከዜ ወንዝ ዋሻ ውስጥ ተቀምጠው የጻፉት «ሐተታ» በዓለም አቀፍ የፍልስፍና ታሪክ ውስጥ ታላቅ አድናቆትን ያተረፈ ድንቅ ስራ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በ፲፯ኛው መቶ ክፍለ ዘመን «ሐተታ» የተሰኘውን የምክንያታዊ ፍልስፍና መጽሐፍ የጻፉት ኢትዮጵያዊ ፈላስፋ ማን ናቸው?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (26.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (26.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (26.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (26.1.w3)"
+            "ዘርአ ያዕቆብ (Zera Yacob - 17th-century rationalist philosopher)",
+            "ከበደ ሚካኤል",
+            "ሐዲስ ዓለማየሁ",
+            "በዓሉ ግርማ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ሐተታ» የተሰኘውን ታላቅ ምክንያታዊ የፍልስፍና ድርሰት ያበረከቱት ፈላስፋው ዘርአ ያዕቆብ ናቸው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u26-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Reason, rationale' የሚለውን የፍልስፍና ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (26.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (26.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (26.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (26.1.x3)"
+            "ምክንያት (Reason, rationality - Core foundation of philosophy)",
+            "ስሜት",
+            "እንቅልፍ",
+            "ምግብ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (26.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (26.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (26.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (26.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ምክንያት» የማሰብ፣ የማመዛዘን እና እውነትን የመመርመር አእምሯዊ አቅም ነው።"
         }
       ]
     },
@@ -11830,24 +11807,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 26-1):",
+          "prompt": "የሐተታ ዘርአ ያዕቆብን ፍልስፍናዊ ቃላት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (26.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (26.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (26.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (26.1.z3)"
+            "ሐተታ፣ ዘርአ ያዕቆብ፣ ምክንያት፣ እውነት፣ ማስተዋል እና የልብ ብርሃን።",
+            "ስኳር፣ ጨው፣ በርበሬ እና ዘይት።",
+            "ጠረጴዛ፣ በር፣ መስኮት እና ወንበር።",
+            "በኢትዮጵያ ፍልስፍና የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የዘርአ ያዕቆብን ምክንያታዊ የፍልስፍና ቃላት በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u26-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ሐተታ / Treatise, philosophical inquiry' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ሐተታ",
+            "ሀተታ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ሐተታ» (Hatäta) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -11858,85 +11835,62 @@
     "subject": "amharic",
     "unit": 26,
     "lessonNumber": 2,
-    "title": "የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy) (ክፍል 2)",
+    "title": "የወልደ ህይወት ፍልስፍና እና የስነ-ምግባር ትምህርት (Philosophy of Walda Heywat & Practical Ethics)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የሐተታ ዘርአ ያዕቆብ ምክንያታዊ ፍልስፍና፣ እውነትን በምክንያት የመመርመር ጥበብ። (ክፍል 2)።",
+    "objective": "የዘርአ ያዕቆብ ደቀ-መዝሙር የሆነውን የወልደ ህይወትን ማህበራዊና ስነ-ምግባራዊ ፍልስፍና መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የወልደ ህይወት ፍልስፍና እና ተግባራዊ ስነ-ምግባር መዋቅር:\n\n፩. የስራ እና የማህበራዊ ኑሮ ፍልስፍና:\n- ወልደ ህይወት፣ ስነ-ምግባር፣ የስራ ክብር፣ ፍትህ እና እኩልነት።\n- እውነት፣ ቅንነት እና የሰዎች የእርስ በርስ መረዳዳት።\n\n፪. ተግባራዊ የስነ-ምግባር መመሪያ:\n- ወልደ ህይወት ፍልስፍና በጽንሰ-ሀሳብ ብቻ ሳይወሰን በሰው ልጆች የእለት ተእለት ኑሮ፣ በቤተሰብ አንድነት፣ በስራ ትጋትና በደግነት መገለጽ እንዳለበት አጽንኦት ሰጥተዋል። የስራ ክብር የህብረተሰብ እድገት መሰረት ነው።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (26.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)' to the students."
+          "target": "ወልደ ህይወት በድርሰታቸው ውስጥ የስራን ክብር እና የሰዎችን የእርስ በርስ መረዳዳት በስፋት አስተምረዋል።",
+          "reading": "Wäldä Həywät bädərsätaččäw wəsət’ yäsəran kəbər ənna yäsäwoččən yä'ərəss bärəss märädadat bäsəfaw astämaru. [wɛldɛ hɨjˈwɛt bɛdɨrsɛtaˈtʃːɛw wɨstʼ jɛsɨˈran kɨˈbɨr ʔɨnːa jɛsɛwoˈtʃːɨn jɛʔɨrs bɛrɨs mɛrɛdaˈdat bɛsɨˈfaw ʔastɛmaˈru] (wel-deh huy-WET beh-dur-seh-TAHCH-chew woos-T' yeh-suh-RAHN kuh-BUR un-nah yeh-seh-wohch-CHUN yeh-urs beh-rus meh-reh-dah-DAHT beh-suh-FAHW ahs-teh-mah-ROO)",
+          "translation": "Walda Heywat widely taught the dignity of labor and mutual assistance among people in his work."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (26.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "መልካም ስነ-ምግባር እና ቅንነት የማህበረሰብ የሰላም እና የእድገት መሰረት መሆናቸውን አብራሩ።",
+          "reading": "Mälkam sənä-məgbar ənna qənnənät yämahəbräsäb yäsälam ənna yä'ədəggät mäsärät mähonaččäwən abəraru. [mɛlˈkam sɨnɛmɨɡˈbar ʔɨnːa kʼɨnːɨˈnɛt jɛmahɨbrɛˈsɛb jɛsɛˈlam ʔɨnːa jɛʔɨdɨɡːɛt mɛsɛˈrɛt mɛhonaˈtʃːɛwɨn ʔabɨraˈru] (mel-KAHM suh-neh-mug-BAHR un-nah k'un-nuh-NET yeh-mah-hub-reh-SEB yeh-seh-LAHM un-nah yeh-ud-ug-GAYT meh-seh-RET meh-hoh-nahch-CHEW-un ah-buh-rah-ROO)",
+          "translation": "They explained that good ethics and integrity are the foundation of society's peace and development."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (26.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (26.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የሰው ልጅ በጥረቱ እና በላቡ የሚኖርበትን ፍትሃዊ ስርዓት መገንባት እንዳለበት ፍልስፍናቸው ያሳስባል።",
+          "reading": "Yäsäw ləğ bät’ərätu ənna bälabu yäminorəbätən fətəhawi sər'at mägänbat əndalläbät fəlsəfənnaččäw yasasəbal. [jɛsɛw lɨdʒ bɛtʼɨrɛˈtu ʔɨnːa bɛlaˈbu jɛminoˈrɨbɛtɨn fɨtɨhaˈwi sɨrʔat mɛɡɛnˈbat ʔɨndalːɛˈbɛt fɨlsɨfɨnːaˈtʃːɛw jasaˈsɨbal] (yeh-SEH-w luhj beh-t'uh-reh-TOO un-nah beh-lah-BOO yeh-mee-noh-ruh-BEH-tun fuh-tuh-hah-WEE sur-AHT meh-gen-BAHT un-dahl-leh-BET ful-suh-fun-NAHCH-chew yah-sah-suh-BAHL)",
+          "translation": "Their philosophy urges that humans must build a just system where they live by their effort and sweat."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Walda Heywat Ethics: ወልደ ህይወት (Ethics Disciple) + ስነ-ምግባር (Morals) + የስራ ክብር (Dignity of Work)!"
+      ],
+      "culturalNotes": [
+        "የወልደ ህይወት ሐተታ ከዘርአ ያዕቆብ በመቀጠል የተጻፈ እና በተለይ በቤተሰብ፣ በትዳርና በማህበራዊ ስነ-ምግባር ላይ ያተኮረ ፍልስፍና ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "የዘርአ ያዕቆብ ደቀ-መዝሙር የነበሩትና በስነ-ምግባር ዙሪያ የጻፉት ፈላስፋ ማን ናቸው?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (26.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (26.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (26.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (26.2.w3)"
+            "ወልደ ህይወት (Walda Heywat - Philosopher of practical ethics and social duty)",
+            "ከበደ ሚካኤል",
+            "አፈወርቅ ገብረኢየሱስ",
+            "ሎሬት ጸጋዬ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ወልደ ህይወት የዘርአ ያዕቆብ ደቀ-መዝሙር ሲሆኑ በማህበራዊ ስነ-ምግባር ዙሪያ ጥልቅ ሐተታ ጽፈዋል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u26-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Ethics, morality' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (26.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (26.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (26.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (26.2.x3)"
+            "ስነ-ምግባር (Ethics, moral principles)",
+            "ስነ-ጥበብ",
+            "ስነ-ህይወት",
+            "ስነ-ምድር"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (26.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (26.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (26.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (26.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ስነ-ምግባር» የሰዎችን መልካም ባህሪ፣ ግዴታ እና ሞራላዊ መርሆዎች የሚያጠና የፍልስፍና ዘርፍ ነው።"
         }
       ]
     },
@@ -11944,24 +11898,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 26-2):",
+          "prompt": "የወልደ ህይወትን የስነ-ምግባር ፍልስፍና ቃላት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (26.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (26.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (26.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (26.2.z3)"
+            "ወልደ ህይወት፣ ስነ-ምግባር፣ የስራ ክብር፣ ፍትህ፣ ቅንነት እና እኩልነት።",
+            "ሻይ፣ ቡና፣ ወተት እና ጭማቂ።",
+            "ሰዓት፣ ቀን፣ ወር እና አመት።",
+            "በአማርኛ ስነ-ምግባር የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የወልደ ህይወትን የስነ-ምግባር ፍልስፍናዊ ቃላት በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u26-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ስነ-ምግባር / Ethics, morality' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ስነ-ምግባር",
+            "ሥነ-ምግባር",
+            "ስነ ምግባር",
+            "ሥነ ምግባር"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ስነ-ምግባር» ወይም «ሥነ-ምግባር» (Sənä-məgbar) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -11972,85 +11928,62 @@
     "subject": "amharic",
     "unit": 26,
     "lessonNumber": 3,
-    "title": "የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy) (ክፍል 3)",
+    "title": "የዕውቀት ፍልስፍና እና የስነ-አመክንዮ መሰረቶች (Epistemology & Foundations of Logic)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የሐተታ ዘርአ ያዕቆብ ምክንያታዊ ፍልስፍና፣ እውነትን በምክንያት የመመርመር ጥበብ። (ክፍል 3)።",
+    "objective": "ስነ-አመክንዮን (Logic)፣ ማገናዘብን፣ እውነትን መመዘንንና ፍልስፍናዊ ሙግትን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የዕውቀት ፍልስፍና እና የስነ-አመክንዮ ህጎች መዋቅር:\n\n፩. የስነ-አመክንዮ መሰረታዊ ቃላት:\n- ስነ-አመክንዮ፣ አመክንዮአዊ ሙግት፣ መነሻ ሀሳብ እና መደምደሚያ።\n- ትክክለኛነት፣ ማመዛዘን እና ጥልቅ ማገናዘብ።\n\n፪. የምክንያት ሚዛን እና ሙግት:\n- ማንኛውም ፍልስፍናዊ ክርክር በማስረጃ እና በጠንካራ አመክንዮ ላይ ካልተመሰረተ ተቀባይነት የለውም። ሰው በማመዛዘን ችሎታው ተጠቅሞ ትክክለኛውን መደምደሚያ ማፍራት ይችላል።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (26.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)' to the students."
+          "target": "በስነ-አመክንዮ ህግ መሰረት ትክክለኛ መደምደሚያ ላይ ለመድረስ ጠንካራ መነሻ ሀሳብ ያስፈልጋል።",
+          "reading": "Bäsənä-amäkənyo həgg mäsärät təkkəklänya mädämdämiya lay lämädräs t’änkarrä mänässa hasab yasfälləgal. [bɛsɨnɛʔamɛkɨnˈjo hɨɡː mɛsɛˈrɛt tɨkːɨklɛˈɲa mɛdɛmdɛmiˈja laj ləmɛdˈrɛs tʼɨnkaˈrːɛ mɛnɛsːa haˈsab jasfɛlːɨˈɡal] (beh-suh-neh-ah-mek-un-YOH hug-G meh-seh-RET tuk-kuhk-len-YAH meh-dem-deh-mee-YAH lye luh-med-RES t'un-kahr-REH meh-nes-SAH hah-SAHB yahs-fel-luh-GAHL)",
+          "translation": "According to the rules of logic, a strong premise is required to arrive at a valid conclusion."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (26.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ተማሪዎቹ ፍልስፍናዊ ሙግቶችን በማመዛዘን እና አመክንዮአዊ በሆነ መንገድ ለመተንተን ሰለጠኑ።",
+          "reading": "Tämariwočču fəlsəfənawi mugətoččən bamamäzazän ənna amäkənyo'awi bähonä mängäd lämätäntän sälät’t’änu. [tɛmariwoˈtʃːu fɨlsɨfɨnaˈwi muɡɛtoˈtʃːɨn bamamɛzaˈzɛn ʔɨnːa ʔamɛkɨnjoʔaˈwi bɛhoˈnɛ mɛnˈɡɛd ləmɛtɛnˈtɛn sɛlɛtʼːɛˈnu] (teh-mah-ree-wohch-CHOO ful-suh-fuh-nah-WEE moo-geh-tohch-CHUN bah-mah-meh-zah-ZEN un-nah ah-mek-un-yoh-ah-WEE beh-hoh-NEH men-GED luh-meh-ten-TEN seh-let'-t'eh-NOO)",
+          "translation": "The students were trained to deliberate on philosophical arguments and analyze them in a logical manner."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (26.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (26.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የማሰብ ብስለት የሚለካው ስሜታዊነትን በማስወገድ በእውነት እና በአመክንዮ መመራት ሲቻል ነው።",
+          "reading": "Yämasäb bəsəlät yämiläkaw səmetawinnätən bamaswägäd bä'əwnät ənna bə'amäkənyo mämärat siččal näw. [jɛmaˈsɛb bɨsɨˈlɛt jɛmilɛˈkaw sɨmetawinːɛˈtɨn bamaswɛˈɡɛd bɛʔɨwˈnɛt ʔɨnːa bɛʔamɛkɨnˈjo mɛmɛˈrat sitʃːal nɛw] (yeh-mah-SEB buh-suh-LET yeh-mee-leh-KAHW suh-may-tah-WEEN-net-un bah-mahs-weh-GED beh-ew-NET un-nah beh-ah-mek-un-YOH meh-meh-RAHT seech-CHAHL new)",
+          "translation": "Maturity of thinking is measured when one can be guided by truth and logic while avoiding emotionalism."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Logic Foundations: ስነ-አመክንዮ (Logic) + መነሻ (Premise) + መደምደሚያ (Conclusion) + ሙግት (Argument)!"
+      ],
+      "culturalNotes": [
+        "የአመክንዮ እና የክርክር ስነ-ስርዓት በኢትዮጵያ ባህላዊ የትምህርት ተቋማት ውስጥ ረቂቅ ጥያቄዎችንና መልሶችን በመለዋወጥ ለዘመናት ሲዳብር ቆይቷል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Logic» የሚለውን የፍልስፍና ዘርፍ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (26.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (26.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (26.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (26.3.w3)"
+            "ስነ-አመክንዮ (Logic - Study of reasoning and valid argument)",
+            "ስነ-ህዋ",
+            "ስነ-ልሳን",
+            "ስነ-ዜማ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ስነ-አመክንዮ» ትክክለኛውን የማመዛዘን እና የሙግት ስርዓት የሚያጠና የፍልስፍና ዘርፍ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u26-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "በአመክንዮአዊ ሙግት መጨረሻ ላይ የሚደረስበት ውጤት ምን ይባላል?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (26.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (26.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (26.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (26.3.x3)"
+            "መደምደሚያ (Conclusion - Final deduction / result of reasoning)",
+            "መነሻ ብቻ",
+            "ስም",
+            "ቀን"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (26.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (26.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (26.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (26.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«መደምደሚያ» ከመነሻ ሀሳቦች ተነስቶ በአመክንዮ የሚደረስበት የመጨረሻ ውሳኔ ወይም ሀሳብ ነው።"
         }
       ]
     },
@@ -12058,24 +11991,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 26-3):",
+          "prompt": "የስነ-አመክንዮ እና የዕውቀት ፍልስፍና ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (26.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (26.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (26.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (26.3.z3)"
+            "ስነ-አመክንዮ፣ መነሻ ሀሳብ፣ መደምደሚያ፣ ሙግት፣ ማመዛዘን እና እውነት።",
+            "ጫማ፣ ሱሪ፣ ሸሚዝ እና ጃኬት።",
+            "ዝናብ፣ በረዶ፣ ንፋስ እና ፀሐይ።",
+            "በአማርኛ ስነ-አመክንዮ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የስነ-አመክንዮ መሰረታዊ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u26-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ስነ-አመክንዮ / Logic' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ስነ-አመክንዮ",
+            "ሥነ-አመክንዮ",
+            "ስነ አመክንዮ",
+            "ሥነ አመክንዮ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ስነ-አመክንዮ» ወይም «ሥነ-አመክንዮ» (Sənä-amäkənyo) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -12086,85 +12021,62 @@
     "subject": "amharic",
     "unit": 26,
     "lessonNumber": 4,
-    "title": "የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy) (ክፍል 4)",
+    "title": "የሰው ልጅ ህሊና እና የተፈጥሮ ህግጋት (Human Conscience & Natural Law)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የሐተታ ዘርአ ያዕቆብ ምክንያታዊ ፍልስፍና፣ እውነትን በምክንያት የመመርመር ጥበብ። (ክፍል 4)።",
+    "objective": "የህሊናን ፍርድ፣ የተፈጥሮ ህግን፣ የነፃ ፈቃድ ጽንሰ-ሀሳብንና የሞራል ፍልስፍናን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የህሊና ፍልስፍና እና የተፈጥሮ ህግጋት መዋቅር:\n\n፩. የህሊና እና የተፈጥሮ ህግ መርሆዎች:\n- ህሊና፣ የተፈጥሮ ህግ፣ ነፃ ፈቃድ እና የሞራል ግዴታ።\n- እኩልነት፣ ሰብአዊ ክብር እና የተፈጥሮ ሚዛናዊነት።\n\n፪. የፍልስፍናው ጥልቅ እይታ:\n- ዘርአ ያዕቆብና ወልደ ህይወት የተፈጥሮ ህግ ለሰው ልጆች ሁሉ እኩል የተሰጠ እና ህሊና ደግሞ መልካሙን ከክፉው የሚለይበት ውስጣዊ ዳኛ መሆኑን አስተምረዋል። ነፃ ፈቃድ የሰው ልጅ መልካም ምርጫን እንዲመርጥ ያስችለዋል።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (26.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)' to the students."
+          "target": "ህሊና በእያንዳንዱ ሰው ልብ ውስጥ የተቀመጠ እና መልካሙን ከክፉው የሚለይ እውነተኛ ዳኛ ነው።",
+          "reading": "Həllina bə'əyyandanndu säw ləbb wəsət’ yätäqämmät’ä ənna mälkamun käkəfuw yämilayy əwnätänya danya näw. [hɨlːiˈna bɛʔɨjːandanˈdu sɛw lɨbː wɨstʼ jɛtɛkʼɛmːɛˈtʼɛ ʔɨnːa mɛlkaˈmun kɛkɨˈfuw jɛmilaˈjː ʔɨwnɛtɛˈɲa daˈɲa nɛw] (hul-lee-NAH beh-uhy-yahn-dahn-DOO sew lub-B woos-T' yeh-teh-k'em-meh-T'EH un-nah mel-kah-MOON keh-kuh-FOO-w yeh-mee-lye-Y ew-neh-ten-YAH dah-NYAH new)",
+          "translation": "Conscience is a true judge placed within every human's heart that distinguishes good from evil."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (26.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የተፈጥሮ ህግ የሰው ልጆችን እኩልነት እና የተፈጠሩበትን ክብር የሚያረጋግጥ ዘላለማዊ መርህ ነው።",
+          "reading": "Yätäfät’ro həgg yäsäw ləğoččən əkkulənnät ənna yätäfät’t’ärubätən kəbər yämiyarrägagət’ zälalämawi märəh näw. [jɛtɛfɛtʼˈro hɨɡː jɛsɛw lɨdʒoˈtʃːɨn ʔɨkːulɨnːɛt ʔɨnːa jɛtɛfɛtʼːɛruˈbɛtɨn kɨˈbɨr jɛmijarːɛɡaˈɡɨtʼ zɛlalɛmaˈwi mɛrɨh nɛw] (yeh-teh-fet'-ROH hug-G yeh-SEH-w luh-johch-CHUN uk-koo-luhn-NET un-nah yeh-teh-fet'-t'eh-roo-BEH-tun kuh-BUR yeh-mee-yahr-reh-gah-GUT' zeh-lah-leh-mah-WEE meh-ruh-H new)",
+          "translation": "Natural law is an eternal principle that affirms human equality and the dignity of creation."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (26.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (26.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ሰው በነፃ ፈቃዱ ተጠቅሞ መልካም መንገድን እንዲመርጥ የፍልስፍና ትምህርት ያነቃቃዋል።",
+          "reading": "Säw bänäts’a fäqadu tät’äqmow mälkam mängädən əndimärət’ yäfəlsəfənna təməhərt yanäqaqqawwal. [sɛw bɛnɛˈtsʼa fɛkʼaˈdu tɛtʼɛkʼˈmow mɛlˈkam mɛnɡɛˈdɨn ʔndiˈmɛrɨtʼ jɛfɨlsɨˈfɨnːa tɨmɨhɨrt janɛkʼakʼaˈwːal] (SEH-w beh-neh-TS'AH feh-k'ah-DOO tet'-ek'-MOH mel-KAHM men-geh-DUN un-dee-meh-RUT' yeh-ful-suh-fun-NAH tuh-muh-hur-T yah-neh-k'ah-k'ah-WAHL)",
+          "translation": "Philosophical education inspires human beings to use their free will to choose a good path."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Conscience & Nature: ህሊና (Conscience) + የተፈጥሮ ህግ (Natural Law) + ነፃ ፈቃድ (Free Will) + እኩልነት (Equality)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ፍልስፍናዊ አስተሳሰብ ህሊና የሰው ልጅ ሞራላዊ ኮምፓስ ሲሆን የተፈጥሮ ህግ ደግሞ የሰው ሰራሽ ጭቆናን የሚቃወም ፍትሃዊ መመሪያ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በሰው ልጅ ልብ ውስጥ ሆኖ መልካሙን ከክፉው የሚለየው ውስጣዊ ዳኛ ምን ይባላል?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (26.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (26.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (26.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (26.4.w3)"
+            "ህሊና (Conscience - Inner judge of moral right and wrong)",
+            "ፍርሃት",
+            "ንዴት",
+            "ሀብት"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ህሊና» መልካሙንና ክፉውን የሚመዝን እና ሞራላዊ ውሳኔን የሚመራ ውስጣዊ ዳኛ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u26-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Free will' የሚለውን ፍልስፍናዊ ጽንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (26.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (26.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (26.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (26.4.x3)"
+            "ነፃ ፈቃድ (Free will - Moral agency and autonomy)",
+            "ግዴታ ብቻ",
+            "ውሸት",
+            "አደጋ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (26.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (26.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (26.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (26.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ነፃ ፈቃድ» የሰው ልጅ የራሱን ምርጫ በነጻነት የመወሰን ፍልስፍናዊ እና ህሊናዊ አቅም ነው።"
         }
       ]
     },
@@ -12172,24 +12084,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 26-4):",
+          "prompt": "የህሊና እና የተፈጥሮ ህግ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (26.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (26.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (26.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (26.4.z3)"
+            "ህሊና፣ የተፈጥሮ ህግ፣ ነፃ ፈቃድ፣ እኩልነት፣ ሰብአዊ ክብር እና ፍትህ።",
+            "ወረቀት፣ እርሳስ፣ ላጲስ እና ደብተር።",
+            "ሰሌዳ፣ ጠመኔ እና ወንበር።",
+            "በአማርኛ የህሊና ጽንሰ-ሀሳብ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የህሊና እና የተፈጥሮ ህግጋት መሰረታዊ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u26-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ህሊና / Conscience' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ህሊና",
+            "ሕሊና"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ህሊና» ወይም «ሕሊና» (Həllina) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -12200,85 +12112,62 @@
     "subject": "amharic",
     "unit": 26,
     "lessonNumber": 5,
-    "title": "የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy) (ክፍል 5)",
+    "title": "የክፍል 26 አጠቃላይ ማጠቃለያ (Unit 26 Grand Synthesis & Ethiopian Rational Philosophy)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የሐተታ ዘርአ ያዕቆብ ምክንያታዊ ፍልስፍና፣ እውነትን በምክንያት የመመርመር ጥበብ። (ክፍል 5)።",
+    "objective": "የዘርአ ያዕቆብን፣ የወልደ ህይወትን፣ የስነ-አመክንዮንና የተፈጥሮ ህግጋትን ፍልስፍና ያቀናጀ የተሟላ ፍልስፍናዊ ትንተና ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፳፮ አጠቃላይ የኢትዮጵያ ፍልስፍና እና የምክንያታዊነት ማጠቃለያ:\n\n፩. ሐተታ ዘርአ ያዕቆብ:\n- ሐተታ፣ ምክንያት፣ የልብ ብርሃን፣ እውነትን መመርመር እና ማስተዋል የታነጹበት የምክንያታዊነት ጥበብ።\n\n፪. የወልደ ህይወት ስነ-ምግባር:\n- ስነ-ምግባር፣ የስራ ክብር፣ ፍትህ፣ ወንድማማችነት፣ እኩልነት እና ማህበራዊ ቅንነት።\n\n፫. ስነ-አመክንዮ:\n- መነሻ ሀሳብ፣ መደምደሚያ፣ አመክንዮአዊ ሙግት፣ ማመዛዘን እና የእውነት ማረጋገጫ።\n\n፬. ህሊና እና የተፈጥሮ ህግ:\n- ህሊና፣ የተፈጥሮ ህግ፣ ነፃ ፈቃድ እና ሰብአዊ ክብር የተዋሃዱበት ዘላለማዊ የፍልስፍና ስርዓት።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (26.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)' to the students."
+          "target": "የኢትዮጵያ ፍልስፍና በዘርአ ያዕቆብ ምክንያታዊነት፣ በወልደ ህይወት ስነ-ምግባር እና በህሊና ፍርድ የጎለበተ ነው።",
+          "reading": "Yä'Ityop’əya fəlsəfənna bäZär'a Ya'əqob məkənyatawinnät, bäWäldä Həywät sənä-məgbar ənna bähəllina fərd yägoläbbätä näw. [jɛʔitjoˈpʼɨja fɨlsɨˈfɨnːa bɛzɛrʔa jaʔɨˈkʼob mɨkɨnjataˈwinːɛt bɛwɛldɛ hɨjˈwɛt sɨnɛmɨɡˈbar ʔɨnːa bɛhɨlːiˈna fɨrd jɛɡolɛbːɛˈtɛ nɛw] (yeh-eet-yoh-P'EE-yah ful-suh-fun-NAH beh-zehr-ah yah-uh-K'OHB muh-kun-yah-tah-WEEN-net, beh-wel-deh huy-WET suh-neh-mug-BAHR un-nah beh-hul-lee-NAH fur-D yeh-goh-leb-beh-TEH new)",
+          "translation": "Ethiopian philosophy is enriched by Zera Yacob's rationality, Walda Heywat's ethics, and the verdict of conscience."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (26.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ፈላስፎቹ የተፈጥሮ ህግን እና ስነ-አመክንዮን መሰረት በማድረግ እውነትን በምክንያት የመመርመርን መንገድ አሳዩ።",
+          "reading": "Fälasəfočču yätäfät’ro həggən ənna sənä-amäkənyon mäsärät bamadəräg əwnätən bäməkənyat yämämärmärən mängäd asayyu. [fɛlasɨfoˈtʃːu jɛtɛfɛtʼˈro hɨɡːɨn ʔɨnːa sɨnɛʔamɛkɨnˈjon mɛsɛˈrɛt bamaˈdrɛɡ ʔɨwˈnɛtɨn bɛmɨkɨnˈjat jɛmɛmɛrˈmɛrɨn mɛnˈɡɛd ʔasaˈjːu] (feh-lah-suh-fohch-CHOO yeh-teh-fet'-ROH hug-GUN un-nah suh-neh-ah-mek-un-YOHN meh-seh-RET bah-mah-dreg ew-NEH-tun beh-muh-kun-YAHT yeh-meh-mer-MEH-run men-GED ah-SYE-yoo)",
+          "translation": "Grounded in natural law and logic, the philosophers showed the way of investigating truth through reason."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (26.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (26.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የሰው ልጅ በነፃ ፈቃዱ እና በስራው ክብር አማካኝነት መልካም ማህበረሰብ የመገንባት ታላቅ ሀላፊነት አለበት።",
+          "reading": "Yäsäw ləğ bänäts’a fäqadu ənna bäsəraw kəbər amakanyənnät mälkam mahəbräsäb yämägänbat talaq halafinnät alläbät. [jɛsɛw lɨdʒ bɛnɛˈtsʼa fɛkʼaˈdu ʔɨnːa bɛsɨˈraw kɨˈbɨr ʔamaˈkaɲɨnːɛt mɛlˈkam mahɨbrɛˈsɛb jəmɛɡɛnˈbat taˈlakʼ halaˈfinːɛt ʔalːɛˈbɛt] (yeh-SEH-w luhj beh-neh-TS'AH feh-k'ah-DOO un-nah beh-suh-RAH-woo kuh-BUR ah-mah-kahn-yuhn-NET mel-KAHM mah-hub-reh-SEB yeh-meh-gen-BAHT tah-LAHK' hah-lah-FEEN-net ahl-leh-BET)",
+          "translation": "Through free will and dignity of work, human beings bear a great responsibility to build a virtuous society."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Grand Synthesis 26: Reason (ዘርአ ያዕቆብ) + Ethics (ወልደ ህይወት) + Logic (አመክንዮ) + Conscience (ህሊና)!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ ፍልስፍና ዓለም አቀፋዊ እውቅና ያገኘ እና የአፍሪካን ምክንያታዊ የአስተሳሰብ ጥልቀት ለዓለም ያስመሰከረ ታላቅ የጥበብ ማማ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ ፍልስፍና ውህደትን የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (26.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (26.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (26.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (26.5.w3)"
+            "የኢትዮጵያ ፍልስፍና በዘርአ ያዕቆብ ምክንያታዊነት፣ በወልደ ህይወት ስነ-ምግባር እና በህሊና ፍርድ የጎለበተ ነው። (Complete philosophical synthesis combining rationality, ethics, and conscience)",
+            "ምንም ፍልስፍና የለም",
+            "ሁሉም ተራ ቃላት ናቸው",
+            "ምክንያት የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ይህ አማራጭ የዘርአ ያዕቆብን፣ የወልደ ህይወትንና የህሊናን ፍልስፍና በአንድነት ያጠቃለለ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u26-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ምክንያታዊነትን እና ስነ-ምግባርን ያጣመረ ትክክለኛ ፍልስፍናዊ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (26.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (26.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (26.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (26.5.x3)"
+            "ፈላስፋው እውነትን በምክንያት በመመርመር መልካም ስነ-ምግባርን እና ፍትህን አብራራ። (The philosopher investigated truth through reason and explained ethics and justice - Accurate unified sentence)",
+            "ምንም ማብራሪያ አልተሰጠም",
+            "ስነ-ምግባር የለም",
+            "ፍትህ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ ፍልስፍና እና የዘርአ ያዕቆብ አስተሳሰብ (Ethiopian Philosophy)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (26.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (26.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (26.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (26.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ ምክንያታዊ ምርምርን እና የስነ-ምግባር ፍልስፍናን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -12286,24 +12175,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 26-5):",
+          "prompt": "የክፍል 26 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (26.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (26.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (26.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (26.5.z3)"
+            "የሐተታ ዘርአ ያዕቆብ ምክንያታዊነት፣ የወልደ ህይወት ስነ-ምግባር፣ የስነ-አመክንዮ መሰረቶች፣ እንዲሁም የህሊና እና የተፈጥሮ ህግጋት ተካተዋል።",
+            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው።",
+            "በኢትዮጵያ ምክንያታዊ ፍልስፍና አልነበረም።",
+            "ሁሉም ሰዎች ተመሳሳይ ህሊና የላቸውም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 26ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u26-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ፍልስፍና / Philosophy' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ፍልስፍና"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ፍልስፍና» (Fəlsəfənna) ነው።"
         }
       ],
       "passThreshold": 0.8
