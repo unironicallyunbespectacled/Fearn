@@ -12375,53 +12375,62 @@
     "subject": "ukrainian",
     "unit": 30,
     "lessonNumber": 1,
-    "title": "Філософська думка та інтелектуальна історія (Philosophy) (Part 1)",
+    "title": "Києво-Могилянська академія та ранньомодерний гуманізм",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 30.1) with authentic linguistic precision.",
+    "objective": "Опанувати філософсько-богословську термінологію ранньомодерної доби (Києво-Могилянська академія, бароковий гуманізм, неолатиністика, схоластика, полемічна література).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Києво-Могилянська академія (заснована митрополитом Петром Могилою у 1632 році) стала головним інтелектуальним осередком Східної Європи, поєднавши візантійську спадщину із західноєвропейським гуманізмом:\n\n1. Академічний тривіум і квадривіум та філософський курс:\n   - *«Студії семи вільних мистецтв (граматика, риторика, діалектика, арифметика, геометрія, астрономія, музика)»*;\n   - *«Неолатиністика»* — викладання філософії та богослов'я латинською мовою за зразком європейських університетів (Сорбонна, Болонья, Краків);\n   - *«Арістотелізм та ренесансний гуманізм»* у трактатах Інокентія Ґізеля, Йоасафа Кроковського, Феофана Прокоповича.\n\n2. Полемічна філософсько-релігійна література:\n   - *«Полеміка між православними та уніатами / католиками»* після Берестейської унії 1596 року;\n   - *«Іван Вишенський»* — аскетичний містицизм, викриття соціальної несправедливості та церковного розколу;\n   - *«Мелетій Смотрицький»* («Тренос / Плач», слов'янська граматика);\n   - *«Стефан Яворський»* — курси діалектики та метафізики.\n\n3. Філософський поняттєвий апарат:\n   - *«Онтологія (вчення про буття) та гносеологія (теорія пізнання)»*;\n   - *«Силогізм, антитеза, диспут, морально-етичний імператив»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Києво-Могилянська академія стала інтелектуальним мостом між західноєвропейською схоластикою та самобутньою українською духовною культурою.",
+          "reading": "[kɪjɛwɔ mɔɦɪˈlʲɑnsʲkɐ ɐkɐˈdɛmʲijɑ ˈstɑlɐ intɛlɛktuˈɑlʲnɪm ˈmɔstɔm mʲiʒ zɑxʲidnɔjɛwrɔˈpɛjsʲkɔju sxɔˈlɑstɪkɔju tɑ sɐmɔˈbutnʲɔju ukrɐˈjinsʲkɔju duˈxɔwnɔju kulʲˈturɔju] (ky-yeh-woh moh-hy-LYAHN-s'kah ah-kah-DEH-mee-yah STAH-lah een-teh-lehk-too-AHL'-nym MOHS-tohm meezh zah-kheed-noh-yehv-roh-PEHY-s'koh-yoo skhoh-LAHS-ty-koh-yoo tah sah-moh-BOOT-nyoh-yoo oo-krah-YEEN-s'koh-yoo doo-KHOHV-noh-yoo kool'-TOO-roh-yoo)",
+          "translation": "The Kyiv-Mohyla Academy became an intellectual bridge between Western European scholasticism and authentic Ukrainian spiritual culture."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 30-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Полемічні трактати Івана Вишенського сповнені пафосу аскетичного християнського гуманізму та гострої соціальної критики.",
+          "reading": "[pɔlɛˈmʲitʃnʲi trɐkˈtɑtɪ iˈwɑnɐ wɪˈʃɛnsʲkɔɦɔ ˈspɔwnɛnʲi ˈpɑfɔsu ɐskɛˈtɪtʃnɔɦɔ xrɪstɪˈjɑnsʲkɔɦɔ ɦumɐˈnʲizmu tɑ ˈɦɔstrɔji sɔt͡sʲiˈɑlʲnɔji ˈkrɪtɪkɪ] (poh-leh-MEECH-nee trahk-TAH-ty ee-VAH-nah vy-SHEHN-s'koh-hoh SPOHV-neh-nee PAH-foh-soo ahs-keh-TYCH-noh-hoh khrys-ty-YAHN-s'koh-hoh hoo-mah-NEEZ-moo tah HOHS-troh-yee soh-tsee-AHL'-noh-yee KRY-ty-ky)",
+          "translation": "Ivan Vyshensky's polemical treatises are filled with the pathos of ascetic Christian humanism and sharp social critique."
+        },
+        {
+          "target": "Філософські курси викладачів Могилянки гармонійно синтезували арістотелівську логіку з ідеями раннього Просвітництва.",
+          "reading": "[fʲilɔˈsɔfsʲkʲi ˈkursɪ wɪklɐdɐˈtʃʲiw mɔɦɪˈlʲɑnkɪ ɦɐrmɔˈnʲijnɔ sɪntɛzuˈwɑlɪ ɐrʲistɔˈtɛlʲiwsʲku ˈlɔɦʲiku z iˈdɛjɐmɪ ˈrɑnnʲɔɦɔ prɔsʲwʲitˈnɪt͡stxɐ] (fee-loh-SOHF-s'kee KOOR-sy vy-klah-dah-CHEHW moh-hy-LYAHN-ky hahr-moh-NEEY-noh syn-teh-zoo-VAH-ly ah-rees-toh-TEH-leew-s'koo LOH-hee-koo z ee-DEH-yah-my RAHN-nyoh-hoh prohs-veet-NYT-stvah)",
+          "translation": "The philosophical courses of Mohyla professors harmoniously synthesized Aristotelian logic with early Enlightenment ideas."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Петро Могила — 1632 рік, Академія; мова науки — неолатиністика; жанр доби — полемічні трактати (Іван Вишенський, Смотрицький)!"
+      ],
+      "culturalNotes": [
+        "Києво-Могилянська академія була першим вищим навчальним закладом східнослов'янського світу, що мав рівні права з провідними університетами Європи."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Іспит\":",
+          "prompt": "Хто був засновником і реформатором колегії, яка згодом отримала статус Києво-Могилянської академії?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.1.",
-            "Неправильне відмінкове узгодження зі словом «Оцінка»",
-            "Порушення законів евфонії та словотворення для «Диплом»",
-            "Стилістично некоректна синтаксична конструкція з «Зошит»"
+            "Митрополит Петро Могила (Petro Mohyla - founder of Kyiv-Mohyla Academy in 1632)",
+            "Іван Мазепа",
+            "Феофан Прокопович",
+            "Костянтин Острозький"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Засновником колегії (1632 р.), що стала академією, був митрополит Петро Могила."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Іспит\":",
+          "prompt": "Яка мова була основною мовою викладання філософії та богослов'я в Києво-Могилянській академії за європейським зразком?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.1.",
-            "Порушення законів евфонії та словотворення для «Диплом»",
-            "Стилістично некоректна синтаксична конструкція з «Зошит»",
-            "Неправильне відмінкове узгодження зі словом «Оцінка»"
+            "Латинська мова (неолатиністика) (Latin - academic language of early modern Europe)",
+            "Давньогрецька мова",
+            "Староцерковнослов'янська мова",
+            "Німецька мова"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Філософські та богословські диспути й лекції велися латиною (традиція неолатиністики)."
         }
       ]
     },
@@ -12429,17 +12438,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Іспит\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому інтелектуальну спадщину Києво-Могилянської академії описано бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.1.",
-            "Стилістично некоректна синтаксична конструкція з «Зошит»",
-            "Неправильне відмінкове узгодження зі словом «Оцінка»",
-            "Порушення законів евфонії та словотворення для «Диплом»"
+            "Академічна культура Могилянки поєднала європейську неолатиністику та схоластичний арістотелізм із самобутньою православною богословською традицією.",
+            "Могилянка вчила студентів тільки церковним молитвам без філософії і наук.",
+            "Латина була заборонена в академії через вплив східних патріархів.",
+            "Професори академії не писали трактатів і забороняли диспути між учнями."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Поєднала європейську неолатиністику та схоластичний арістотелізм із самобутньою православною...» — зразок вищого наукового стилю."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u30-l2": {
@@ -12447,53 +12457,62 @@
     "subject": "ukrainian",
     "unit": 30,
     "lessonNumber": 2,
-    "title": "Філософська думка та інтелектуальна історія (Philosophy) (Part 2)",
+    "title": "Кордоцентризм та екзистенційна «філософія серця»",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 30.2) with authentic linguistic precision.",
+    "objective": "Опанувати концепції українського кордоцентризму («філософія серця», внутрішня людина, самопізнання), вчення Сковороди та Юркевича, категоріальний апарат онтології духу.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Кордоцентризм (від лат. *cordis* — серце) є фундаментальною рисою української філософської традиції, що розглядає серце як центр людської свідомості, почуттів та волі:\n\n1. Григорій Сковорода — біблійний кордоцентризм та екзистенція:\n   - *«Серце як безодня і внутрішня людина»* (справжнє «я» людини криється не в зовнішній подобі, а в серці);\n   - *«Самопізнання («Пізнай себе» / «Nosce te ipsum»)* — осягнення Божественної іскри в серці;\n   - *«Вчення про дві натури (видиму і невидиму) та три світи (макрокосм, мікрокосм, світ символів/Біблія)»*;\n   - *«Сродна праця»* як життя за покликанням серця.\n\n2. Памфіл Юркевич — академічний кордоцентризм:\n   - Трактат *«Серце і його значення в духовному житті людини»* (1860);\n   - Критика однобічного європейського раціоналізму Іммануїла Канта та матеріалізму;\n   - Серце як орган моралі, віри, безпосереднього споглядання істини та джерело мислення (мислення формується серцем раніше, ніж розум його артикулює).\n\n3. Філософсько-антропологічні категорії:\n   - *«Цілісність людського духу, екзистенційний вимір буття, етичний персоналізм»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Український кордоцентризм стверджує примат серця над абстрактним раціо як джерела моральної свідомості та автентичного самопізнання.",
+          "reading": "[ukrɐˈjinsʲkɪj kɔrdɔt͡sɛntˈrɪzm stwɛrˈdʒujɛ prɪˈmɑt ˈsɛrt͡sʲɑ nɑd ɐbstˈrɑktnɪm ˈrɑt͡sʲiɔ jɑk dʒɛˈrɛlɐ mɔˈrɑlʲnɔji swʲidɔˈmɔsʲtʲi tɑ ɐwtɛnˈtɪtʃnɔɦɔ sɐmɔpʲizˈnɑnʲːɑ] (oo-krah-YEEN-s'kyy kohr-doh-tsehn-TRYZM stwehr-DZHOO-yeh pry-MAHT SEHR-tsyah nahd ahbs-TRAHKT-nym RAH-tsee-oh yahk dzheh-REH-lah moh-RAHL'-noh-yee swee-doh-MOHS-tee tah ahv-tehn-TYCH-noh-hoh sah-moh-peez-NAHN-nyah)",
+          "translation": "Ukrainian cordocentrism asserts the primacy of the heart over abstract ratio as the source of moral consciousness and authentic self-knowledge."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 30-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "У філософській системі Памфіла Юркевича серце постає першоосновою людської індивідуальності та вмістилищем релігійного досвіду.",
+          "reading": "[u fʲilɔˈsɔfsʲkʲij sɪsˈtɛmʲi pɐmˈfʲilɐ jurˈkɛwɪtʃɑ ˈsɛrt͡sɛ pɔsˈtɑjɛ pɛrʃɔɔsˈnɔwɔju lʲudʲˈsʲkɔji indɪwʲiduˈɑlʲnɔsʲtʲi tɑ wmʲisˈtɪlɪʃtʃɛm rɛlʲiˈɦʲijnɔɦɔ ˈdɔswʲidu] (oo fee-loh-SOHF-s'keey sys-TEH-mee pahm-FEE-lah yoor-KEH-wy-chah SEHR-tseh pohs-TAH-yeh pehr-shoh-ohs-NOH-woh-yoo lyood-s'KOH-yee een-dy-vee-doo-AHL'-nohs-tee tah vmees-TY-lysh-chehm reh-lee-HEEY-noh-hoh DOHS-vee-doo)",
+          "translation": "In Pamfil Yurkevych's philosophical system, the heart appears as the primary foundation of human individuality and the vessel of religious experience."
+        },
+        {
+          "target": "Сковородинська концепція «внутрішньої людини» відкриває шлях до духовної свободи через гармонію серця зі Всесвітом.",
+          "reading": "[skɔwɔrɔˈdɪnsʲkɐ kɔnt͡sɛpˈt͡sʲijɑ wnuˈtrʲiʃnʲɔji lʲuˈdɪnɪ wʲidkˈrɪwɑjɛ ʃlʲɑx dɔ duˈxɔwnɔji swɔˈbɔdɪ tʃɛrɛz ɦɐrˈmɔnʲiju ˈsɛrt͡sʲɑ zʲi wsɛsʲˈwʲitɔm] (skoh-woh-roh-DYN-s'kah kohn-tseh-PTSEE-yah vnoo-TREESH-nyoh-yee lyoo-DY-ny veed-KRY-wah-yeh SHLYAKH doh doo-KHOHV-noh-yee swoh-BOH-dy cheh-rehz hahr-MOH-nee-yoo SEHR-tsyah zee vseh-SWEH-tohm)",
+          "translation": "Skovoroda's concept of the 'inner person' opens the path to spiritual freedom through harmony of the heart with the Universe."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Кордоцентризм = «філософія серця» (лат. cor/cordis); Сковорода — «внутрішня людина»; Юркевич — «Серце і його значення»!"
+      ],
+      "culturalNotes": [
+        "Філософія серця Юркевича мала колосальний вплив на світову феноменологію та персоналізм кінця XIX — початку XX століття."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Оцінка\":",
+          "prompt": "Як називається напрям в українській філософській думці, що визнає серце головним центром пізнання, духовності та моралі?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.2.",
-            "Неправильне відмінкове узгодження зі словом «Диплом»",
-            "Порушення законів евфонії та словотворення для «Зошит»",
-            "Стилістично некоректна синтаксична конструкція з «Ручка»"
+            "Кордоцентризм / філософія серця (Cordocentrism - philosophy of the heart)",
+            "Раціоналізм",
+            "Позитивізм",
+            "Детермінізм"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Напрям, зосереджений на серці як духовному центрі людини, називається «кордоцентризмом»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Оцінка\":",
+          "prompt": "Хто є автором знаменитого філософського трактату «Серце і його значення в духовному житті людини» (1860)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.2.",
-            "Порушення законів евфонії та словотворення для «Зошит»",
-            "Стилістично некоректна синтаксична конструкція з «Ручка»",
-            "Неправильне відмінкове узгодження зі словом «Диплом»"
+            "Памфіл Юркевич (Pamfil Yurkevych - leading Ukrainian cordocentrist philosopher)",
+            "Михайло Драгоманов",
+            "Дмитро Донцов",
+            "Іван Франко"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Трактат «Серце і його значення в духовному житті людини» написав професор філософії Памфіл Юркевич."
         }
       ]
     },
@@ -12501,17 +12520,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Оцінка\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому ідеї кордоцентризму викладено найбільш глибоко та філософськи точно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.2.",
-            "Стилістично некоректна синтаксична конструкція з «Ручка»",
-            "Неправильне відмінкове узгодження зі словом «Диплом»",
-            "Порушення законів евфонії та словотворення для «Зошит»"
+            "Кордоцентрична традиція від Сковороди до Юркевича тлумачить серце не як біологічний орган, а як онтологічне осердя людської душі та моральної волі.",
+            "Кордоцентризм вчить, що розум не потрібен людині взагалі для мислення.",
+            "Філософія серця забороняє вивчати точні науки та філософію Канта.",
+            "Юркевич написав трактат про лікування серцевих хвороб за допомогою трав."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Тлумачить серце не як біологічний орган, а як онтологічне осердя людської душі та моральної волі» — найвища точність філософського аналізу."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u30-l3": {
@@ -12519,53 +12539,62 @@
     "subject": "ukrainian",
     "unit": 30,
     "lessonNumber": 3,
-    "title": "Філософська думка та інтелектуальна історія (Philosophy) (Part 3)",
+    "title": "Кирило-Мефодіївське товариство та ідея свободи",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 30.3) with authentic linguistic precision.",
+    "objective": "Опанувати суспільно-політичну термінологію Кирило-Мефодіївського братства («Книга буття українського народу», християнський республіканізм, панславізм, скасування кріпацтва).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Кирило-Мефодіївське товариство (братство), створене у Києві в 1845–1846 роках, заклало засади модерної української політичної думки та національного визвольного руху:\n\n1. Провідні діячі та ідейні лідери:\n   - *«Микола Костомаров»* — історик, автор програмного маніфесту «Книга буття українського народу» (Закон Божий);\n   - *«Тарас Шевченко»* — радикально-демократичне крило, безкомпромісний антиімперський протест;\n   - *«Пантелеймон Куліш, Василь Білозерський, Микола Гулак, Опанас Маркович»*.\n\n2. Програмні засади та політичні ідеали:\n   - *«Християнський республіканізм та демократизм»* — рівність усіх громадян перед Богом і законом;\n   - *«Скасування кріпацтва та ліквідація станової нерівності»*;\n   - *«Слов'янська демократична федерація»* — союз вільних рівноправних республік зі столицею в Києві (без домінування жодної нації);\n   - *«Месіанська роль України»* як «каменя, відкинутого будівничими», що повстане для звільнення народів.\n\n3. Політологічний лексикон доби:\n   - *«Емансипація поневолених народів, право на самовизначення, народовладдя, соборність»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "«Книга буття українського народу» Миколи Костомарова проголосила невіддільність християнської віри від республіканської свободи та скасування кріпацтва.",
+          "reading": "[ˈknɪɦɐ buˈtʲːɑ ukrɐˈjinsʲkɔɦɔ nɐˈrɔdu mɪˈkɔlɪ kɔstɔˈmɑrɔwɐ prɔɦɔlɔˈsɪlɐ nɛwʲidʲˈdʲilʲnʲisʲtʲ xrɪstɪˈjɑnsʲkɔji ˈwʲirɪ wʲid rɛspublʲiˈkɑnsʲkɔji swɔˈbɔdɪ tɑ skɐsuˈwɑnʲːɑ krʲiˈpɑt͡stxɐ] (KNY-hah boot-TYAH oo-krah-YEEN-s'koh-hoh nah-ROH-doo my-KOH-ly kohs-toh-MAH-roh-wah proh-hoh-loh-SY-lah neh-veed-DEEL'-neest' khrys-ty-YAHN-s'koh-yee VEE-ry veed reh-spoob-lee-KAHN-s'koh-yee swoh-BOH-dy tah skah-soo-VAHN-nyah kree-PAHT-stvah)",
+          "translation": "Mykola Kostomarov's 'Book of Genesis of the Ukrainian People' proclaimed the inseparability of Christian faith from republican liberty and the abolition of serfdom."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 30-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Кирило-мефодіївці вперше сформулювали концепцію рівноправної федерації вільних слов'янських республік без імперського гніту.",
+          "reading": "[kɪrɪlɔ mɛfɔˈdʲijiwt͡sʲi wˈpɛrʃɛ sfɔrmuˈlʲuwɐlɪ kɔnt͡sɛpˈt͡sʲiju rʲiwnɔpˈrɑwnɔji fɛdɛˈrɑt͡sʲiji ˈwʲilʲnɪx slɔwʲˈjɑnsʲkɪx rɛsˈpublʲik bɛz imˈpɛrsʲkɔɦɔ ˈhnʲitu] (ky-ry-loh meh-foh-DEE-yeev-tsee VPEHR-sheh sfohr-moo-LYOO-wah-ly kohn-tseh-PTSEE-yoo reew-nohp-RAHV-noh-yee feh-deh-RAH-tsee-yee VEEL'-nykh slohv-YAHN-s'kykh rehs-POOB-leek bez eem-PEHR-s'koh-hoh HNYEET-too)",
+          "translation": "The Cyril and Methodius members for the first time formulated the concept of an equal federation of free Slavic republics without imperial oppression."
+        },
+        {
+          "target": "Поетичне слово Тараса Шевченка надало ідеям братства революційної безкомпромісності та всенародного розголосу.",
+          "reading": "[pɔɛˈtɪtʃnɛ ˈslɔwɔ tɐˈrɑsɐ ʃɛwˈtʃɛnkɐ nɐˈdɑlɔ iˈdɛjɐm ˈbrɑtstxɐ rɛwɔlʲut͡sʲijˈnɔji bɛzkɔmprɔˈmʲisnɔsʲtʲi tɑ wsɛnɐˈrɔdnɔɦɔ rɔzˈɦɔlɔsu] (poh-eh-TYCH-neh SLOH-woh tah-RAH-sah shehv-CHEHN-kah nah-DAH-loh ee-DEH-yahm BRAHT-stvah reh-woh-lyoo-tseey-NOH-yee bez-kohm-proh-MEES-nohs-tee tah vseh-nah-ROHD-noh-hoh roz-HOH-loh-soo)",
+          "translation": "Taras Shevchenko's poetic word gave the brotherhood's ideas revolutionary uncompromisingness and nationwide resonance."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "1845–1846 роки, Київ; документ — «Книга буття українського народу»; Костомаров + Шевченко + Куліш; мета — скасування кріпацтва і республіка!"
+      ],
+      "culturalNotes": [
+        "Попри жорстокий розгром товариства царатом у 1847 році та заслання його членів, братство започаткувало організований політичний етап українського руху."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Диплом\":",
+          "prompt": "Як називався головний програмний маніфест Кирило-Мефодіївського товариства, написаний Миколою Костомаровим?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.3.",
-            "Неправильне відмінкове узгодження зі словом «Зошит»",
-            "Порушення законів евфонії та словотворення для «Ручка»",
-            "Стилістично некоректна синтаксична конструкція з «Банк»"
+            "«Книга буття українського народу» (Закон Божий) (Book of Genesis of the Ukrainian People - core manifesto)",
+            "«Руська правда»",
+            "«Історія Русів»",
+            "«Самостійна Україна»"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Програмним документом товариства була «Книга буття українського народу» (Закон Божий)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Диплом\":",
+          "prompt": "Яку фундаментальну соціальну реформу вимагали кирило-мефодіївці як основу побудови справедливого суспільства?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.3.",
-            "Порушення законів евфонії та словотворення для «Ручка»",
-            "Стилістично некоректна синтаксична конструкція з «Банк»",
-            "Неправильне відмінкове узгодження зі словом «Зошит»"
+            "Повне скасування кріпацтва та станової нерівності (Abolition of serfdom and social estates)",
+            "Посилення цензури",
+            "Збільшення податків на селянство",
+            "Заборону університетської освіти"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Головною соціальною вимогою кирило-мефодіївців було скасування кріпацтва та ліквідація станів."
         }
       ]
     },
@@ -12573,17 +12602,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Диплом\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому ідеологію Кирило-Мефодіївського товариства охарактеризовано вичерпно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.3.",
-            "Стилістично некоректна синтаксична конструкція з «Банк»",
-            "Неправильне відмінкове узгодження зі словом «Зошит»",
-            "Порушення законів евфонії та словотворення для «Ручка»"
+            "Кирило-мефодіївці синтезували ідеї християнського республіканізму, скасування кріпацтва та рівноправної федерації народів із правом України на національне самовизначення.",
+            "Братчики вимагали збереження кріпосного права для підтримки стабільності в імперії.",
+            "Товариство пропагувало абсолютну монархію та розпуск усіх виборних органів.",
+            "Кирило-Мефодіївське братство діяло як таємна поліцейська служба царя."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Синтезували ідеї християнського республіканізму, скасування кріпацтва та рівноправної федерації народів...» — бездоганний історико-політологічний аналіз."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u30-l4": {
@@ -12591,53 +12621,62 @@
     "subject": "ukrainian",
     "unit": 30,
     "lessonNumber": 4,
-    "title": "Філософська думка та інтелектуальна історія (Philosophy) (Part 4)",
+    "title": "Політична філософія модерної доби: Драгоманов, Липинський, Донцов",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 30.4) with authentic linguistic precision.",
+    "objective": "Опанувати термінологію та концепції провідних політико-філософських парадигм України кінця XIX — XX століть (громадівський соціалізм Драгоманова, монархічний консерватизм Липинського, інтегральний націоналізм Донцова).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Модерна українська політична філософія виробила три ключові моделі державотворення та національного буття:\n\n1. Михайло Драгоманов — ліберально-громадівський федералізм:\n   - *«Громадівський соціалізм та анархо-федералізм»* — побудова суспільства знизу вгору від самоврядних громад до федерації;\n   - *«Європеїзм та раціоналізм»* — гасло «Космополітизм у науці й ідеях, націоналізм у ґрунті й формах»;\n   - *«Критика державного централізму та шовінізму»*.\n\n2. В'ячеслав Липинський — консервативний монархізм та територіальний патріотизм:\n   - Праця *«Листи до братів-хліборобів»*;\n   - *«Класократія»* — співпраця суспільних станів (хлібороби, робітники, інтелігенція) на чолі з легітимним Гетьманом;\n   - *«Територіальний патріотизм (політична нація)»* замість етнічного ексклюзивізму (українцем є кожен громадянин української землі незалежно від етнічного походження);\n   - *«Організована еліта та державна традиція»*.\n\n3. Дмитро Донцов — інтегральний націоналізм та волюнтаризм:\n   - Праця *«Націоналізм»* (1926);\n   - *«Філософія волюнтаризму (воля до життя та воля до влади)»* під впливом Ніцше;\n   - *«Чинний фанатизм, орден провідної еліти (ініціативна меншість)»*;\n   - *«Безкомпромісна боротьба проти провансальства, угодовства та російського імперіалізму»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "В'ячеслав Липинський обґрунтував концепцію українського гетьманату та територіального патріотизму, де держава об'єднує всіх громадян незалежно від їхнього етнічного походження.",
+          "reading": "[wjɑtʃɛsˈlɑw lɪˈpɪnsʲkɪj ɔbgruntʊˈwɑw kɔnt͡sɛpˈt͡sʲiju ukrɐˈjinsʲkɔɦɔ ɦɛtʲmɐˈnɑtu tɑ tɛrɪtɔrʲiˈɑlʲnɔɦɔ pɐtrʲiɔˈtɪzmu, dɛ dɛrˈʒɑwɐ ɔbˈjɛdnujɛ wsʲix ɦrɔmɐˈdʲɑn nɛzɐˈlɛʒnɔ wʲid ˈjixnʲɔɦɔ ɛtˈnʲitʃnɔɦɔ pɔxɔdˈʒɛnʲːɑ] (vyah-chehs-LAHV ly-PYN-s'kyy ohb-hroon-too-VAHV kohn-tseh-PTSEE-yoo oo-krah-YEEN-s'koh-hoh heht'-mah-NAH-too tah teh-ry-toh-ree-AHL'-noh-hoh pah-tree-oh-TYZ-moo, deh dehr-ZHAH-wah ohb-yehd-NOO-yeh vseekh hroh-mah-DYAHN neh-zah-LEHZH-noh veed YEEKH-nyoh-hoh eht-NEECH-noh-hoh poh-khohd-ZHEN-nyah)",
+          "translation": "Vyacheslav Lypynsky substantiated the concept of the Ukrainian Hetmanate and territorial patriotism, where the state unites all citizens regardless of their ethnic origin."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 30-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Михайло Драгоманов відстоював принципи європейського раціоналізму, автономії місцевих громад та безкомпромісної поваги до прав людини.",
+          "reading": "[mɪˈxɑjlɔ drɐɦɔˈmɑnɔw wʲidstɔˈjuwɑw ˈprɪnt͡sɪpɪ jɛwrɔˈpɛjsʲkɔɦɔ rɐt͡sʲiɔnɐˈlʲizmu, ɐwtɔˈnɔmʲiji mʲisʲt͡sɛˈwɪx ɦrɔˈmɑd tɑ bɛzkɔmprɔˈmʲisnɔji pɔˈwɑɦɪ dɔ prɑw lʲuˈdɪnɪ] (my-KHAHY-loh drah-hoh-MAH-nohv veed-stoh-YOO-wahv PRYN-tsy-py yehv-roh-PEHY-s'koh-hoh rah-tsee-oh-nah-LEEZ-moo, ahv-toh-NOH-mee-yee mees-tseh-WYKH hroh-MAHD tah bez-kohm-proh-MEES-noh-yee poh-VAH-hy doh PRAHV lyoo-DY-ny)",
+          "translation": "Mykhailo Drahomanov defended the principles of European rationalism, autonomy of local communities, and uncompromising respect for human rights."
+        },
+        {
+          "target": "Дмитро Донцов протиставив угодовському народництву вольовий імператив національної експансії та безкомпромісного протистояння Москві.",
+          "reading": "[dmɪtˈrɔ dɔnˈt͡sɔw prɔtɪsˈtɑwɪw uɦɔˈdɔwsʲkɔmu nɐrɔdˈnɪt͡stxu wɔlʲɔˈwɪj impɛrɐˈtɪw nɐt͡sʲiɔˈnɑlʲnɔji ɛkspɐnʲˈsʲiji tɑ bɛzkɔmprɔˈmʲisnɔɦɔ prɔtɪstɔˈjɑnʲːɑ mɔskˈwʲi] (dmy-TROH dohn-TSOHV proh-tys-TAH-wyv oo-hoh-DOHV-s'koh-moo nah-rohd-NYT-stvoo voh-lyoh-WYY eem-peh-rah-TYV nah-tsee-oh-NAHL'-noh-yee eks-pahn-SEE-yee tah bez-kohm-proh-MEES-noh-hoh proh-tys-toh-YAHN-nyah mohsk-WEE)",
+          "translation": "Dmytro Dontsov counterposed the conciliatory populism with the volitional imperative of national expansion and uncompromising resistance to Moscow."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Драгоманов = громади + європеїзм; Липинський = Гетьманат + територіальний патріотизм; Донцов = волюнтаризм + чинний фанатизм!"
+      ],
+      "culturalNotes": [
+        "Дискусія між федералізмом Драгоманова, консерватизмом Липинського та націоналізмом Донцова сформувала всю інтелектуальну парадигму української державності XX століття."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Зошит\":",
+          "prompt": "Хто розробив концепцію консервативного гетьманату та територіального патріотизму в праці «Листи до братів-хліборобів»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.4.",
-            "Неправильне відмінкове узгодження зі словом «Ручка»",
-            "Порушення законів евфонії та словотворення для «Банк»",
-            "Стилістично некоректна синтаксична конструкція з «Вклад»"
+            "В'ячеслав Липинський (Vyacheslav Lypynsky - founder of Ukrainian conservative political thought)",
+            "Михайло Драгоманов",
+            "Дмитро Донцов",
+            "Михайло Грушевський"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Концепцію консервативної класократії та гетьманату розробив В'ячеслав Липинський."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Зошит\":",
+          "prompt": "Яка філософська категорія покладена Дмитром Донцовим в основу його теорії інтегрального націоналізму під впливом Шопенгауера та Ніцше?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.4.",
-            "Порушення законів евфонії та словотворення для «Банк»",
-            "Стилістично некоректна синтаксична конструкція з «Вклад»",
-            "Неправильне відмінкове узгодження зі словом «Ручка»"
+            "Волюнтаризм / воля до влади (Voluntarism / will to power)",
+            "Діалектичний матеріалізм",
+            "Раціональний гуманізм",
+            "Абсолютний пацифізм"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "В основі філософії Донцова лежить волюнтаризм — першість волі над інтелектом."
         }
       ]
     },
@@ -12645,17 +12684,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Зошит\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому порівняння трьох політико-філософських парадигм виконано бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.4.",
-            "Стилістично некоректна синтаксична конструкція з «Вклад»",
-            "Неправильне відмінкове узгодження зі словом «Ручка»",
-            "Порушення законів евфонії та словотворення для «Банк»"
+            "Якщо Драгоманов обстоював ліберальний федералізм громад, а Липинський — монархічний гетьманат і територіальний патріотизм, то Донцов утверджував волюнтаристський інтегральний націоналізм.",
+            "Донцов і Драгоманов мали повністю однакові погляди на космополітизм і федералізм.",
+            "Липинський заперечував існування держави і вимагав розпуску всіх армій.",
+            "Всі українські філософи ХХ століття були прихильниками радянського централізму."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Якщо Драгоманов обстоював ліберальний федералізм громад, а Липинський — монархічний гетьманат... то Донцов...» — еталонний політологічний аналіз."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u30-l5": {
@@ -12663,53 +12703,62 @@
     "subject": "ukrainian",
     "unit": 30,
     "lessonNumber": 5,
-    "title": "Філософська думка та інтелектуальна історія (Philosophy) (Part 5)",
+    "title": "Шістдесятництво, дисидентський стоїцизм та деколоніальна філософія",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 30.5) with authentic linguistic precision.",
+    "objective": "Опанувати етико-філософську термінологію руху шістдесятників і дисидентів (Стус, Сверстюк, Руденко, Лук'яненко, моральний стоїцизм) та концепції сучасного деколоніального повороту (Забужко, Єрмоленко, Кебуладзе).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Українська філософія другої половини XX — початку XXI століття пройшла шлях від екзистенційного морального спротиву тоталітаризму до глибокого деколоніального осмислення імперського спадку:\n\n1. Етика шістдесятництва та дисидентський стоїцизм:\n   - *«Шістдесятники (Василь Стус, Євген Сверстюк, Іван Світличний, Ліна Костенко, Алла Горська)»*;\n   - *«Моральний стоїцизм та імператив «жити не по брехні»»* — вірність совісті попри табори, карцери та репресії;\n   - *«Євген Сверстюк «Собор у риштованні»»* — філософія духовної спадкоємності, захист національної культури від знеособлення;\n   - *«Українська Гельсінська група (1976)»* (Микола Руденко, Левко Лук'яненко, Петро Григоренко) — перехід від культурного опору до відкритого правозахисного руху.\n\n2. Сучасна інтелектуальна думка та деколоніальний поворот:\n   - *«Оксана Забужко»* («Notre Dame d'Ukraine: Українка в конфлікті міфологій», «Польові дослідження з українського сексу») — деколонізація мислення, викриття імперського ресентименту, повернення українського модернізму до європейського канону;\n   - *«Володимир Єрмоленко»* («Плинні ідеології», «Далекі близькі») — публічна філософія, етика солідарності, філософія вразливості та сили;\n   - *«Вахтанґ Кебуладзе»* — феноменологія досвіду, аналіз тоталітарних травм.\n\n3. Ключовий поняттєвий апарат:\n   - *«Деколоніальний поворот (Decolonial Turn), онтологічна гідність, імперський наратив, ресентимент, культура пам'яті»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Василь Стус утілив найвищий зразок морального стоїцизму, перетворивши поетичне слово на акт безкомпромісного екзистенційного опору тоталітарній системі.",
+          "reading": "[wɐˈsɪlʲ ˈstus uˈtʲilɪw nɑjˈwɪʃtʃɪj ˈzrɑzɔk mɔˈrɑlʲnɔɦɔ stɔjiˈt͡sɪzmu, pɛrɛtwɔˈrɪwʃɪ pɔɛˈtɪtʃnɛ ˈslɔwɔ nɑ ˈɑkt bɛzkɔmprɔˈmʲisnɔɦɔ ɛkzɪstɛnt͡sʲijˈnɔɦɔ ˈɔpɔru tɔtɐlʲiˈtɑrnʲij sɪsˈtɛmʲi] (vah-SYL' STOOS oo-TEE-lyv nay-VYSH-chyy ZRAH-zohk moh-RAHL'-noh-hoh stoh-yee-TSYZ-moo, peh-reht-woh-RYV-shy poh-eh-TYCH-neh SLOH-woh nah AHKT bez-kohm-proh-MEES-noh-hoh ehk-zees-tehn-tseey-NOH-hoh OH-poh-roo toh-tah-lee-TAHR-neey sys-TEH-mee)",
+          "translation": "Vasyl Stus embodied the highest standard of moral stoicism, transforming the poetic word into an act of uncompromising existential resistance to the totalitarian system."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 30-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Есеїстика Оксани Забужко здійснила фундаментальний деколоніальний поворот в осмисленні української інтелектуальної історії та її зв'язку з європейською традицією.",
+          "reading": "[ɛsɛˈjistɪkɐ ɔkˈsɑnɪ zɐˈbuʒkɔ zdʲijsʲˈnɪlɐ fundɐmɛnˈtɑlʲnɪj dɛkɔlɔnʲiˈɑlʲnɪj pɔˈwɔrɔt w ɔsˈmɪslɛnnʲi ukrɐˈjinsʲkɔji intɛlɛktuˈɑlʲnɔji isˈtɔrʲiji tɑ ˈjiji zˈwjɑzku z jɛwrɔˈpɛjsʲkɔju trɐˈdɪt͡sʲijɛju] (eh-seh-YEES-ty-kah ohk-SAH-ny zah-BOOZH-koh zdeey-SNY-lah foon-dah-mehn-TAHL'-nyy deh-koh-loh-nee-AHL'-nyy poh-WOH-roht v ohs-MYS-lehn-nee oo-krah-YEEN-s'koh-yee een-teh-lehk-too-AHL'-noh-yee ees-TOH-ree-yee tah YEE-yee zv-YAHZ-koo z yehv-roh-PEHY-s'koh-yoo trah-DY-tsee-yeh-yoo)",
+          "translation": "Oksana Zabuzhko's essayistic work accomplished a fundamental decolonial turn in comprehending Ukrainian intellectual history and its connection to the European tradition."
+        },
+        {
+          "target": "Українська Гельсінська група трансформувала моральний спротив інтелігенції у відкриту правозахисну боротьбу за невіддільні права людини.",
+          "reading": "[ukrɐˈjinsʲkɐ ɦɛlʲˈsʲinsʲkɐ ˈhrupɐ trɐnsfɔrmuˈwɑlɐ mɔˈrɑlʲnɪj ˈsprɔtɪw intɛlʲiˈɦɛnt͡sʲiji u wʲidkˈrɪtu prɐwɔzɐxɪsˈnu bɔrɔtʲˈbu zɑ nɛwʲidʲˈdʲilʲnʲi ˈprɑwɐ lʲuˈdɪnɪ] (oo-krah-YEEN-s'kah hehl'-SEEN-s'kah HROO-pah trahns-fohr-moo-VAH-lah moh-RAHL'-nyy SPROH-tyw een-teh-lee-HEHN-tseey oo veed-KRY-too prah-woh-zah-khys-NOO boh-roht'-BOO zah neh-veed-DEEL'-nee PRAH-wah lyoo-DY-ny)",
+          "translation": "The Ukrainian Helsinki Group transformed the moral resistance of the intelligentsia into an open human rights struggle for inalienable human rights."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Шістдесятники = моральний стоїцизм (Стус, Сверстюк); УГГ (1976) = правозахист (Руденко, Лук'яненко); сучасність = деколоніальний поворот (Забужко, Єрмоленко)!"
+      ],
+      "culturalNotes": [
+        "Феномен дисидентства в Україні довів, що етичний імператив свободи та людської гідності виявився міцнішим за репресивну міць радянської тоталітарної імперії."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Ручка\":",
+          "prompt": "Як називається правозахисна організація, заснована в Україні у 1976 році Миколою Руденком та однодумцями?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.5.",
-            "Неправильне відмінкове узгодження зі словом «Банк»",
-            "Порушення законів евфонії та словотворення для «Вклад»",
-            "Стилістично некоректна синтаксична конструкція з «Кредит»"
+            "Українська Гельсінська група (Ukrainian Helsinki Group - human rights movement)",
+            "Кирило-Мефодіївське братство",
+            "Руська Трійця",
+            "Наукове товариство імені Шевченка"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Провідною правозахисною організацією була «Українська Гельсінська група» (УГГ), створена 1976 року."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Ручка\":",
+          "prompt": "Яка фундаментальна інтелектуальна концепція лежить в основі сучасного переосмислення української культури від імперських нашарувань?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.5.",
-            "Порушення законів евфонії та словотворення для «Вклад»",
-            "Стилістично некоректна синтаксична конструкція з «Кредит»",
-            "Неправильне відмінкове узгодження зі словом «Банк»"
+            "Деколоніальний поворот / деколонізація мислення (Decolonial turn / mental decolonization)",
+            "Імперська ностальгія",
+            "Провінціалізація культури",
+            "Соціалістичний реалізм"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Процес звільнення свідомості та культури від імперських міфів має назву «деколоніальний поворот» (деколонізація мислення)."
         }
       ]
     },
@@ -12717,17 +12766,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Ручка\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому взаємозв'язок дисидентської етики та сучасної думки розкрито з бездоганною точністю:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 30.5.",
-            "Стилістично некоректна синтаксична конструкція з «Кредит»",
-            "Неправильне відмінкове узгодження зі словом «Банк»",
-            "Порушення законів евфонії та словотворення для «Вклад»"
+            "Моральний стоїцизм Василя Стуса та шістдесятників заклав етичний фундамент для сучасного деколоніального повороту й утвердження людської гідності в українській філософії.",
+            "Шістдесятники підтримували тоталітарний лад і ніколи не протестували проти цензури.",
+            "Деколонізація вимагає відмови від прав людини заради повернення до минулого.",
+            "Українська Гельсінська група була створена для поширення радянської пропаганди."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Моральний стоїцизм Василя Стуса... заклав етичний фундамент для сучасного деколоніального повороту...» — неперевершений рівень філософського осмислення C1."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u31-l1": {
