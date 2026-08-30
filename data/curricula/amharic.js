@@ -2286,85 +2286,62 @@
     "subject": "amharic",
     "unit": 5,
     "lessonNumber": 1,
-    "title": "የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time) (ክፍል 1)",
+    "title": "የኢትዮጵያ የሰዓት አቆጣጠር ስርዓት (The Ethiopian 12-Hour Time System)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኢትዮጵያ የቀን ሰዓት አቆጣጠር፣ የሳምንቱ ቀናት፣ እና የዕለት ተዕለት ተግባራት መግለጫ። (ክፍል 1)።",
+    "objective": "የኢትዮጵያን የ12 ሰዓት የቀንና የሌሊት አቆጣጠር (ከጠዋቱ 12:00 ሰዓት እስከ ማታ 12:00 ሰዓት) እና ሰዓት መጠየቅን ማወቅ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የኢትዮጵያ የሰዓት አቆጣጠር ስርዓት:\n\nበኢትዮጵያ የቀን ሰዓት አቆጣጠር ከፀሐይ መውጣት (ከጠዋቱ 12:00 ሰዓት - በፈረንጅ 6:00 AM) ይጀምራል:\n\n፩. የቀን ሰዓታት:\n- በፈረንጅ 7:00 AM -> ከጠዋቱ ፩ (1) ሰዓት\n- በፈረንጅ 8:00 AM -> ከጠዋቱ ፪ (2) ሰዓት\n- በፈረንጅ 12:00 PM (ቀትር) -> ከቀኑ ፮ (6) ሰዓት\n- በፈረንጅ 1:00 PM -> ከቀኑ ፯ (7) ሰዓት\n- በፈረንጅ 6:00 PM (ጀምበር መጥለቂያ) -> ከምሽቱ ፲፪ (12) ሰዓት።\n\n፪. የሌሊት ሰዓታት:\n- በፈረንጅ 7:00 PM -> ከምሽቱ ፩ (1) ሰዓት\n- በፈረንጅ 12:00 AM (እኩለ ሌሊት) -> ከሌሊቱ ፮ (6) ሰዓት።\n\n፫. ደቂቃዎች እና ክፍልፋዮች:\n- «ተኩል» (Half past): ሦስት ሰዓት ተኩል (3:30 / 9:30 AM Western)\n- «ከሩብ» (Quarter past): አራት ሰዓት ከሩብ (4:15)\n- «ሩብ ጉዳይ» (Quarter to): አምስት ሰዓት ለሩብ ጉዳይ (4:45)።",
       "examples": [
         {
-          "target": "መምህሩ የ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (5.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)' to the students."
+          "target": "ይቅርታ፣ አሁን በኢትዮጵያ አቆጣጠር ስንት ሰዓት ነው?",
+          "reading": "Yəqərta, ahun bä'ityop’p’ya aqot’at’är sənt sä'at näw? [jɨkʼɨrˈta aˈhun bɛʔitjoˈpʼːja akʼotʼaˈtʼɛr sɨnt sɨˈʔat nɛw] (yuh-k'ur-TAH, ah-HOON buh-eet-yoh-P'YAH ah-k'oh-t'ah-TUR sunt suh-AHT now?)",
+          "translation": "Excuse me, what time is it now according to the Ethiopian clock?"
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (5.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "አሁን ሰዓቱ በትክክል ከጠዋቱ ሦስት ሰዓት ተኩል ሆኗል።",
+          "reading": "Ahun sä'atu bätəkəkkəl kät’äwatu sost sä'at täkul honwal. [aˈhun sɨʔaˈtu bɛtɨkɨkːɨl kɛtʼɨwaˈtu sost sɨˈʔat tɛˈkul honˈwal] (ah-HOON suh-ah-TOO buh-tuh-KUK-kul keh-t'uh-wah-TOO SOST suh-AHT teh-KOOL hohn-WAHL)",
+          "translation": "Now the time is exactly 9:30 AM (3:30 Ethiopian daytime)."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (5.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (5.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እኛ በየቀኑ ከቀኑ በስድስት ሰዓት የምሳ ዕረፍት እንወስዳለን።",
+          "reading": "Əngya bäyyäqänu käqänu bäsəddəst sä'at yäməsa əräft ənnəwäsədallän. [ɨɲa bɛjːɛkʼɛˈnu kɛkʼɛˈnu bɛsɨdːɨst sɨˈʔat jɛmɨˈsa ɨrɛfˈt ɨnːɨwɛsɨˈdalːɛn] (un-NYAH beh-yeh-k'eh-NOO keh-k'eh-NOO buh-sud-DUST suh-AHT yeh-muh-SAH uh-REF-t un-nuh-weh-suh-DAHL-len)",
+          "translation": "We take a lunch break every day at 12:00 noon (6:00 Ethiopian daytime)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ethiopian Time Rule: Add/Subtract 6 hours! 6:00 AM Western = 12:00 Dawn Ethiopian; 12:00 PM Western = 6:00 Noon Ethiopian!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ሰዓት ከፀሐይ መውጣት (ጠዋት 12:00) ጀምሮ ስለሚቆጠር ከምድር ወገብ አቀማመጥ ጋር ፍጹም የተጣጣመ ተፈጥሯዊ ስርዓት ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በኢትዮጵያ የሰዓት አቆጣጠር «ከቀኑ ፮ (ስድስት) ሰዓት» ማለት በፈረንጅ ሰዓት ስንት ነው?",
           "options": [
-            "መምህሩ የ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (5.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (5.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (5.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (5.1.w3)"
+            "12:00 PM (ቀትር / Noon - Correct 6-hour offset)",
+            "6:00 AM",
+            "3:00 PM",
+            "9:00 AM"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "የኢትዮጵያ ከቀኑ 6 ሰዓት የፈረንጅ ቀትር (12:00 PM) ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u5-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'It is 4:30 (four and a half)' የሚለውን በአማርኛ በትክክል የሚገልጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (5.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (5.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (5.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (5.1.x3)"
+            "አራት ሰዓት ተኩል (4:30 - Correct half-past expression)",
+            "አራት ሰዓት ከሩብ",
+            "አራት ሰዓት ለሩብ ጉዳይ",
+            "አራት ሰዓት ሙሉ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (5.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (5.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (5.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (5.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ተኩል» የግማሽ ሰዓት (30 ደቂቃ) መግለጫ ሲሆን «አራት ሰዓት ተኩል» ማለት 4:30 ነው።"
         }
       ]
     },
@@ -2372,24 +2349,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 5-1):",
+          "prompt": "የኢትዮጵያን የሰዓት አቆጣጠር መርህ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (5.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (5.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (5.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (5.1.z3)"
+            "ቀኑ ከጠዋቱ 12 ሰዓት (ፀሐይ መውጫ) ይጀምራል፤ ከፈረንጅ ሰዓት ጋር የስድስት ሰዓት ልዩነት አለው።",
+            "የኢትዮጵያ ሰዓት ከእኩለ ሌሊት 12 ሰዓት ብቻ ይጀምራል።",
+            "በአማርኛ የደቂቃ አቆጣጠር የለም።",
+            "ሰዓት በኢትዮጵያ አይጠየቅም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የኢትዮጵያ ሰዓት አቆጣጠር መርህ ያብራራል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u5-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የዕለት»):",
+          "prompt": "'ሰዓት / Time, hour, clock' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የዕለት",
-            "የዕለት"
+            "ሰዓት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የዕለት» ነው።"
+          "explanation": "ትክክለኛው ቃል «ሰዓት» (Sä'at) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -2400,85 +2376,62 @@
     "subject": "amharic",
     "unit": 5,
     "lessonNumber": 2,
-    "title": "የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time) (ክፍል 2)",
+    "title": "የሳምንቱ ቀናት እና የቀን ክፍለ-ጊዜያት (Days of the Week & Parts of the Day)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኢትዮጵያ የቀን ሰዓት አቆጣጠር፣ የሳምንቱ ቀናት፣ እና የዕለት ተዕለት ተግባራት መግለጫ። (ክፍል 2)።",
+    "objective": "ሰባቱን የሳምንቱ ቀናት (ሰኞ፣ ማክሰኞ፣ ረቡዕ፣ ሐሙስ፣ ዓርብ፣ ቅዳሜ፣ እሑድ) እና የቀን ክፍለ-ጊዜያትን (ጠዋት፣ ቀትር፣ ከሰዓት፣ ምሽት፣ ሌሊት) መለየት።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የሳምንቱ ቀናት እና የቀን ክፍለ-ጊዜያት:\n\n፩. የሳምንቱ ፯ቱ ቀናት:\n- «ሰኞ» (Monday)\n- «ማክሰኞ» (Tuesday)\n- «ረቡዕ» ወይም «ሮብ» (Wednesday)\n- «ሐሙስ» (Thursday)\n- «ዓርብ» (Friday)\n- «ቅዳሜ» (Saturday)\n- «እሑድ» (Sunday)።\n\n፪. የቀን ክፍለ-ጊዜያት:\n- «ጠዋት» (Morning: ከ12:00 እስከ 4:00 ሰዓት)\n- «ረፋድ» (Late morning: ከ4:00 እስከ 6:00 ሰዓት)\n- «ቀትር» (Midday / Noon: በ6:00 ሰዓት አካባቢ)\n- «ከሰዓት በኋላ» (Afternoon: ከ7:00 እስከ 11:00 ሰዓት)\n- «ምሽት» ወይም «ማታ» (Evening: ከ12:00 እስከ 4:00 ሌሊት)\n- «ሌሊት» (Late night / Midnight)።",
       "examples": [
         {
-          "target": "መምህሩ የ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (5.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)' to the students."
+          "target": "እኛ ከሰኞ እስከ ዓርብ ድረስ በርትተን እንሠራለን።",
+          "reading": "Əngya käsänyo əskä 'arb dräs bərtətän ənnəśärallän. [ɨɲa kɛsɛnˈjo ɨskɛ ʕarb dɨrɛs bɨrtɨˈtɛn ɨnːɨsɨˈralːɛn] (un-NYAH keh-sen-YOH us-keh AHRB duh-RES bur-tuh-TEN un-nuh-suh-RAHL-len)",
+          "translation": "We work diligently from Monday to Friday."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (5.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ቅዳሜ እና እሑድ የዕረፍት እና የቤተሰብ ቀናት ናቸው።",
+          "reading": "Qədamenna əhud yä'əräft ənna yäbetäsäb qänat naččäw. [kʼɨdaˈmenːa ɨˈhud jɛʔɨrɛfˈt ɨnːa jɛbetɛˈsɛb kʼɛˈnat natʃːɛw] (k'uh-dah-MAYN-nah uh-HOOD yeh-uh-REF-t un-nah yeh-bay-tuh-SEB k'eh-NAHT nahch-CHOH)",
+          "translation": "Saturday and Sunday are days of rest and family."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (5.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (5.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ማክሰኞ ረፋድ ላይ አስፈላጊ የሆነ የሥራ ስብሰባ አለን።",
+          "reading": "Maksänyo räfad lay asfällagi yähonä yäsəra səbsäba allän. [makˈsɛnjo rɛˈfad laj asfɛlːaˈɡi jɛhoˈnɛ jɛsɨˈra sɨbˈsɛba alːɛn] (mahk-sen-YOH reh-FAHD lie ahs-fel-lah-GEE yeh-HOH-neh yeh-suh-RAH sub-seh-BAH ahl-LEN)",
+          "translation": "We have an important work meeting on Tuesday late morning."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Week Song: ሰኞ፣ ማክሰኞ፣ ረቡዕ፣ ሐሙስ፣ ዓርብ = የሥራ ቀናት፤ ቅዳሜ እና እሑድ = የዕረፍት ቀናት!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ባህል ረቡዕ እና ዓርብ የጾም ቀናት ሲሆኑ ቅዳሜና እሑድ ደግሞ የሰንበት በዓላት ናቸው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የሳምንቱ የመጀመሪያው የሥራ ቀን የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (5.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (5.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (5.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (5.2.w3)"
+            "ሰኞ (Monday - First weekday)",
+            "ቅዳሜ",
+            "እሑድ",
+            "ሐሙስ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ሰኞ» (Monday) የሳምንቱ የመጀመሪያው የሥራ ቀን ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u5-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'On Saturday and Sunday' የሚለውን ሐረግ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (5.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (5.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (5.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (5.2.x3)"
+            "ቅዳሜ እና እሑድ (Saturday and Sunday - Correct weekend pair)",
+            "ሰኞ እና ማክሰኞ",
+            "ረቡዕ እና ሐሙስ",
+            "ዓርብ እና ሰኞ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (5.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (5.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (5.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (5.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ቅዳሜ (Saturday) እና እሑድ (Sunday) የሳምንቱ መጨረሻ ቀናት ናቸው።"
         }
       ]
     },
@@ -2486,24 +2439,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 5-2):",
+          "prompt": "ሰባቱን የሳምንቱ ቀናት በቅደም ተከተል በትክክል የዘረዘረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (5.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (5.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (5.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (5.2.z3)"
+            "ሰኞ፣ ማክሰኞ፣ ረቡዕ፣ ሐሙስ፣ ዓርብ፣ ቅዳሜ፣ እሑድ።",
+            "ቅዳሜ፣ እሑድ፣ ሰኞ፣ ዓርብ።",
+            "ማክሰኞ፣ ሰኞ፣ ሐሙስ፣ ረቡዕ።",
+            "በአማርኛ የሳምንቱ ቀናት አምስት ብቻ ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ሰባቱን ቀናት በትክክለኛ ቅደም ተከተላቸው ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u5-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የዕለት»):",
+          "prompt": "'ሰኞ / Monday' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የዕለት",
-            "የዕለት"
+            "ሰኞ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የዕለት» ነው።"
+          "explanation": "ትክክለኛው ቃል «ሰኞ» (Sänyo) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -2514,85 +2466,62 @@
     "subject": "amharic",
     "unit": 5,
     "lessonNumber": 3,
-    "title": "የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time) (ክፍል 3)",
+    "title": "የቀጠሮ እና የጊዜ መርሃ-ግብር አገላለጾች (Appointments & Scheduling)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኢትዮጵያ የቀን ሰዓት አቆጣጠር፣ የሳምንቱ ቀናት፣ እና የዕለት ተዕለት ተግባራት መግለጫ። (ክፍል 3)።",
+    "objective": "ቀጠሮ መያዝን፣ መቼ እንደሆነ መጠየቅን (መቼ? በስንት ሰዓት?) እና የጊዜ መርሃ-ግብር ማዘጋጀትን መለማመድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የቀጠሮ እና የጊዜ መርሃ-ግብር አገላለጾች:\n\n፩. የቀጠሮ ጥያቄዎች:\n- «መቼ?» (When?): መቼ እንገናኛለን?\n- «በስንት ሰዓት?» (At what time?): ስብሰባው በስንት ሰዓት ይጀምራል?\n- «የት?» (Where?): የት እንገናኝ?\n\n፪. የቀጠሮ መልሶችና ስምምነቶች:\n- «ቀጠሮ አለኝ» (I have an appointment)\n- «ይመቸኛል» (It is convenient for me)\n- «አይመቸኝም» (It is not convenient for me)\n- «በሰዓቱ መድረስ» (Arriving on time)\n- «ማርፈድ» (To be late): ይቅርታ አረፈድኩ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (5.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)' to the students."
+          "target": "ሐሙስ ከሰዓት በኋላ በስምንት ሰዓት ቀጠሮ አለን።",
+          "reading": "Hamus käsä'at bähwala bäsəmmənt sä'at qät’äro allän. [haˈmus kɛsɨˈʔat bɛhʷaˈla bɛsɨmːɨnt sɨˈʔat kʼɛtʼɛˈro alːɛn] (hah-MOOS keh-suh-AHT beh-HWAH-lah buh-sum-MUNT suh-AHT k'eh-t'eh-ROH ahl-LEN)",
+          "translation": "We have an appointment on Thursday afternoon at 2:00 PM (8:00 Ethiopian daytime)."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (5.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ነገ ጠዋት በሦስት ሰዓት መገናኘት ይመችሃል?",
+          "reading": "Nägä t’äwat bäsost sä'at mäggänanyät yəmec’əhall? [nɛˈɡɛ tʼɨˈwat bɛsost sɨˈʔat mɛɡːɛnaˈɲɛt jɨmeˈtʃʼɨhal] (neh-GEH t'uh-WAHT buh-SOST suh-AHT meg-geh-NAHN-yet yuh-may-ch'uh-HAHL?)",
+          "translation": "Is it convenient for you to meet tomorrow morning at 9:00 AM (3:00 Ethiopian daytime)?"
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (5.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (5.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "አዎ፣ ያ ሰዓት በጣም ይመቸኛል፤ በሰዓቱ እመጣለሁ።",
+          "reading": "Awo, ya sä'at bät’am yəmec’əngyal; bäsä'atu əmät’allähu. [aˈwo ja sɨˈʔat bɛtʼam jɨmeˈtʃʼɨɲal bɛsɨʔaˈtu ɨmɛtʼaˈlːɨhu] (ah-WOH, yah suh-AHT beh-T'AHM yuh-may-ch'un-NYAHL; buh-suh-ah-TOO uh-meh-T'AHL-luh-hoo)",
+          "translation": "Yes, that time suits me very well; I will come on time."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Appointment trio: መቼ (when?) + ስንት ሰዓት (what time?) + ይመቸኛል (it works for me)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ የቀጠሮ ባህል ጨዋነትን ለማሳየት አስቀድሞ መደወልና በሰዓቱ መገኘት 'ክብር መስጠት' ተብሎ ይደነቃል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ቀጠሮ ለማመቻቸት 'ይመቸኛል' የሚለው ቃል ምን ማለት ነው?",
           "options": [
-            "መምህሩ የ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (5.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (5.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (5.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (5.3.w3)"
+            "ይመቸኛል / It is convenient for me (Correct acceptance of an appointment)",
+            "አልፈልግም",
+            "አልመጣም",
+            "አረፈድኩ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ይመቸኛል» የቀረበው ሰዓትና ቦታ አመቺ መሆኑን ያረጋግጣል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u5-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'When shall we meet?' የሚለውን ጥያቄ በአማርኛ በትክክል የሚገልጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (5.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (5.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (5.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (5.3.x3)"
+            "መቼ እንገናኝ? (When shall we meet? - Correct scheduling question)",
+            "የት ሄድክ?",
+            "ስንት ነው?",
+            "ምን በላህ?"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (5.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (5.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (5.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (5.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«መቼ እንገናኝ?» የቀጠሮ ጊዜ ለመጠየቅ የሚያገለግል ትክክለኛ አገላለጽ ነው።"
         }
       ]
     },
@@ -2600,24 +2529,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 5-3):",
+          "prompt": "የቀጠሮ አያያዝን እና ስምምነትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (5.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (5.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (5.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (5.3.z3)"
+            "መቼ እንገናኝ? ነገ ጠዋት በሦስት ሰዓት ይመቸኛል፤ በሰዓቱ እመጣለሁ።",
+            "መቼ እንገናኝ? ትላንት እመጣለሁ።",
+            "ቀጠሮ የለኝም ስለዚህ በሰዓቱ አረፈድኩ።",
+            "በአማርኛ ቀጠሮ አይያዝም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ትክክለኛና ምክንያታዊ የቀጠሮ ውይይት ነው።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u5-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የዕለት»):",
+          "prompt": "'ቀጠሮ / Appointment' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የዕለት",
-            "የዕለት"
+            "ቀጠሮ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የዕለት» ነው።"
+          "explanation": "ትክክለኛው ቃል «ቀጠሮ» (Qät’äro) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -2628,85 +2556,62 @@
     "subject": "amharic",
     "unit": 5,
     "lessonNumber": 4,
-    "title": "የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time) (ክፍል 4)",
+    "title": "የወቅቶች እና የአየር ንብረት መሰረታዊ ቃላት (Seasons & Weather Basics)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኢትዮጵያ የቀን ሰዓት አቆጣጠር፣ የሳምንቱ ቀናት፣ እና የዕለት ተዕለት ተግባራት መግለጫ። (ክፍል 4)።",
+    "objective": "አራቱን የኢትዮጵያ ወቅቶች (ክረምት፣ በጋ፣ መኸር፣ ጸደይ) እና የአየር ሁኔታ ቃላትን (ፀሐይ፣ ዝናብ፣ ብርድ፣ ሙቀት) መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የኢትዮጵያ አራቱ ወቅቶች እና የአየር ንብረት:\n\n፩. አራቱ ወቅቶች:\n- «ክረምት» (Rainy Season: ሰኔ፣ ሐምሌ፣ ነሐሴ)\n- «መኸር» (Harvest Season: መስከረም፣ ጥቅምት፣ ኅዳር)\n- «በጋ» (Dry / Sunny Season: ታኅሣሥ፣ ጥር፣ የካቲት)\n- «ጸደይ» ወይም «በልግ» (Spring / Light Rains: መጋቢት፣ ሚያዝያ፣ ግንቦት)።\n\n፪. የአየር ሁኔታ መግለጫዎች:\n- «ፀሐይ»: ዛሬ ፀሐይ ወጥቷል\n- «ዝናብ»: ዝናብ እየዘነበ ነው\n- «ብርድ»: ብርድ አለ\n- «ሙቀት»: ሙቀት ነው\n- «ንፋስ»: ንፋስ ይነፍሳል።",
       "examples": [
         {
-          "target": "መምህሩ የ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (5.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)' to the students."
+          "target": "በክረምት ወቅት ብዙ ዝናብ ይዘንባል፤ አየሩም ይቀዘቅዛል።",
+          "reading": "Bäkərremt wäqt bəzu zənab yəzänball; ayyärum yəqäzäqqəzall. [bɨkɨrɛmˈt wɛkʼt bɨˈzu zɨˈnab jɨzɛnˈbal ajːɛˈrum jɨkʼɛzɛkʼːɨˈzal] (buh-kuh-REMT wehk'-T buh-ZOO zuh-NAHB yuh-zen-BAHL; eye-yeh-ROOM yuh-k'eh-zehk'-k'uh-ZAHL)",
+          "translation": "During the rainy season, a lot of rain falls, and the weather becomes cold."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (5.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በመኸር ወቅት አደይ አበባ ያብባል፤ ምድሪቱም በአረንጓዴ ትሸፈናለች።",
+          "reading": "Bämäxär wäqt adäy abäba yabbəball; mədritum bä'arängwade təššäffänalläčč. [bɛmɛˈxɛr wɛkʼt aˈdɛj abɛˈba jabːɨˈbal mɨdˈritum bɛʔarɛnˈɡʷade tɨʃːɛfːɛˈnalːɛtʃː] (buh-meh-HER wehk'-T ah-DAY ah-beh-BAH yahb-buh-BAHL; mud-ree-TOOM beh-ah-ren-GWAH-day tuhsh-shef-feh-NAHL-lech)",
+          "translation": "In the autumn harvest season, the Adey Abeba yellow flowers bloom and the earth is covered in green."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (5.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (5.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ዛሬ በጋ ስለሆነ ደስ የሚል ፀሐይ እና ሞቅ ያለ አየር አለ።",
+          "reading": "Zare bäga səlähonä däs yämmil s’ähay ənna moq yalä ayyär allä. [zaˈre bɛˈɡa sɨlɛhoˈnɛ dɛs jɛmːil sˤɛˈhaj ɨnːa mokʼ jaˈlɛ ajːɛr alːɛ] (zah-RAY beh-GAH suh-leh-HOH-neh des yem-MEEL ts'eh-HIGH un-nah mohk' yah-LEH eye-YER ahl-LEH)",
+          "translation": "Since today is in the dry season, there is pleasant sunshine and warm weather."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Four Seasons: ክረምት (rainy) -> መኸር (flowers & harvest) -> በጋ (sunny dry) -> ጸደይ (spring)!"
+      ],
+      "culturalNotes": [
+        "መስከረም ፩ (የኢትዮጵያ አዲስ ዓመት / ቅዱስ ዮሐንስ) የመኸር መጀመሪያ ሲሆን ቢጫው የአደይ አበባ የሰላምና የተስፋ ምልክት ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በኢትዮጵያ ከሰኔ እስከ ነሐሴ ያለው ዋናው የዝናብ ወቅት ምን ይባላል?",
           "options": [
-            "መምህሩ የ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (5.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (5.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (5.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (5.4.w3)"
+            "ክረምት (Rainy season - Correct Ethiopian rainy season)",
+            "በጋ",
+            "መኸር",
+            "ጸደይ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ከሰኔ እስከ ነሐሴ ያለው የዝናብ ወቅት «ክረምት» ይባላል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u5-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Today is sunny' የሚለውን ሐሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (5.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (5.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (5.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (5.4.x3)"
+            "ዛሬ ፀሐይ አለ። (Today is sunny - Correct weather expression)",
+            "ዛሬ በረዶ ዘነበ።",
+            "ዛሬ ሌሊት ነው።",
+            "ዛሬ ጨለማ ብቻ ነው።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (5.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (5.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (5.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (5.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ዛሬ ፀሐይ አለ» ወይም «ፀሐያማ ቀን ነው» ትክክለኛ የአየር ሁኔታ መግለጫ ነው።"
         }
       ]
     },
@@ -2714,24 +2619,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 5-4):",
+          "prompt": "አራቱን የኢትዮጵያ ወቅቶች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (5.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (5.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (5.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (5.4.z3)"
+            "ክረምት (ዝናባማ)፣ መኸር (የአበባና እህል)፣ በጋ (ፀሐያማ)፣ ጸደይ (የወጣት ወቅት)።",
+            "ክረምት ብቻ ነው ያለው።",
+            "በጋና ክረምት አንድ ዓይነት ናቸው።",
+            "በኢትዮጵያ ወቅቶች አይለወጡም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ አራቱን ወቅቶች ከነባህሪያቸው በትክክል ይገልጻል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u5-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የዕለት»):",
+          "prompt": "'ክረምት / Rainy season, winter' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የዕለት",
-            "የዕለት"
+            "ክረምት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የዕለት» ነው።"
+          "explanation": "ትክክለኛው ቃል «ክረምት» (Kərremt) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -2742,85 +2646,62 @@
     "subject": "amharic",
     "unit": 5,
     "lessonNumber": 5,
-    "title": "የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time) (ክፍል 5)",
+    "title": "የክፍል 5 አጠቃላይ ማጠቃለያ (Unit 5 Grand Synthesis & Daily Routine Discourse)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኢትዮጵያ የቀን ሰዓት አቆጣጠር፣ የሳምንቱ ቀናት፣ እና የዕለት ተዕለት ተግባራት መግለጫ። (ክፍል 5)።",
+    "objective": "የሰዓት አቆጣጠርን፣ የሳምንቱን ቀናት፣ የቀጠሮ አነጋገርን እና የወቅቶችን መግለጫ በአንድነት አቀናጅቶ መተግበር።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፭ አጠቃላይ ሰዋሰዋዊ ውህደትና ማጠቃለያ:\n\n፩. የሰዓት አቆጣጠር:\n- ከጠዋቱ 12:00 ሰዓት (ፀሐይ መውጫ / 6:00 AM Western)\n- ከቀኑ 6:00 ሰዓት (ቀትር / 12:00 PM Western)\n- ሰዓት ተኩል (Half past)፣ ከሩብ (Quarter past)።\n\n፪. የሳምንቱ ቀናት:\n- ሰኞ፣ ማክሰኞ፣ ረቡዕ፣ ሐሙስ፣ ዓርብ (የሥራ ቀናት)፤ ቅዳሜ እና እሑድ (የዕረፍት ቀናት)።\n\n፫. ቀጠሮ እና መርሃ-ግብር:\n- መቼ እንገናኝ? በስንት ሰዓት? ይመቸኛል፤ በሰዓቱ እመጣለሁ።\n\n፬. ወቅቶች እና አየር:\n- ክረምት (ዝናብ)፣ መኸር (አበባ)፣ በጋ (ፀሐይ)፣ ጸደይ (ለስላሳ አየር)።",
       "examples": [
         {
-          "target": "መምህሩ የ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (5.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)' to the students."
+          "target": "እኛ ዓርብ ከሰዓት በኋላ በአራት ሰዓት ተኩል በካፌ ውስጥ ለመገናኘት ቀጠሮ አለን።",
+          "reading": "Əngya 'arb käsä'at bähwala bā'aratt sä'at täkul bäkafe wəst’ lämäggänanyät qät’äro allän. [ɨɲa ʕarb kɛsɨˈʔat bɛhʷaˈla baʔaˈratː sɨˈʔat tɛˈkul bɛkaˈfe wɨstʼ lɨmɛɡːɛnaˈɲɛt kʼɛtʼɛˈro alːɛn] (un-NYAH ahrb keh-suh-AHT beh-HWAH-lah bah-ah-RAHT suh-AHT teh-KOOL buh-kah-FAY woos-T' luh-meg-geh-NAHN-yet k'eh-t'eh-ROH ahl-LEN)",
+          "translation": "We have an appointment to meet inside the café on Friday afternoon at 4:30 (10:30 AM Western)."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (5.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በበጋ ወቅት ፀሐይ ስለሚደምቅ ቅዳሜ ጠዋት ወደ ስፖርት ሜዳ እንሄዳለን።",
+          "reading": "Bäbäga wäqt s’ähay səlämmidäməq qədame t’äwat wädä sport meda ənnəhedallän. [bɛbɛˈɡa wɛkʼt sˤɛˈhaj sɨlɛmːiˈdɛmɨkʼ kʼɨdaˈme tʼɨˈwat wɛdɛ sɨˈport meˈda ɨnːɨheˈdalːɛn] (buh-beh-GAH wehk'-T ts'eh-HIGH suh-lem-mee-DEM-k' k'uh-dah-MAY t'uh-WAHT weh-DEH sport may-DAH un-nuh-hay-DAHL-len)",
+          "translation": "Since the sun shines brightly during the dry season, we go to the sports field on Saturday morning."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (5.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (5.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በክረምት ዝናብ ስለሚበዛ በሰዓታችን ወደ ቤት መመለስ አለብን።",
+          "reading": "Bäkərremt zənab səlämmibäza bäsä'ataččən wädä bet mämäls alläbbən. [bɨkɨrɛmˈt zɨˈnab sɨlɛmːiˈbɛza bɛsɨʔataˈtʃːɨn wɛdɛ bet mɛmɛlˈs alːɛbːɨn] (buh-kuh-REMT zuh-NAHB suh-lem-mee-BEH-zah buh-suh-ah-tahch-CHUN weh-DEH bayt meh-MELS ahl-leb-BUN)",
+          "translation": "Because rain is heavy in the rainy season, we must return home on time."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Synthesis formula: Day (ዓርብ) + Time (በአራት ሰዓት) + Season/Weather (በጋ/ፀሐይ) + Action (እንገናኛለን)!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ የቀንና የወቅቶች አቆጣጠር ከተፈጥሮ ዑደት ጋር የተሳሰረ ጥንታዊና ህያው የባህል ቅርስ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«ዓርብ ከሰዓት በኋላ በአራት ሰዓት እንገናኝ» በሚለው አረፍተ ነገር ውስጥ የቀኑ ክፍለ-ጊዜ እና ሰዓቱ የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (5.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (5.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (5.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (5.5.w3)"
+            "ከሰዓት በኋላ (Afternoon) እና አራት ሰዓት (4:00) (Correct time and day part identification)",
+            "ጠዋት እና ስድስት ሰዓት",
+            "ሌሊት እና ሁለት ሰዓት",
+            "ቀትር ብቻ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ቀኑ «ዓርብ»፣ ክፍለ-ጊዜው «ከሰዓት በኋላ»፣ ሰዓቱ ደግሞ «አራት ሰዓት» ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u5-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ከሚከተሉት ውስጥ ቀን፣ ሰዓት እና ትክክለኛ የቀጠሮ አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (5.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (5.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (5.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (5.5.x3)"
+            "እኛ ማክሰኞ ጠዋት በሁለት ሰዓት ቀጠሮ አለን። (We have an appointment on Tuesday morning at 2:00 - Complete time syntax)",
+            "እኛ ትላንት ነገ እንሄዳለን።",
+            "ሰዓቱ ዝናብ ይበላል።",
+            "ቀጠሮ የለም ሰኞ ሌሊት።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የዕለት ተዕለት ተግባራት እና ሰዓት አቆጣጠር (Daily Routines & Time)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (5.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (5.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (5.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (5.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ ቀን (ማክሰኞ)፣ ክፍለ-ጊዜ (ጠዋት)፣ ሰዓት (ሁለት ሰዓት) እና ቀጠሮን በትክክል አቀናጅቷል።"
         }
       ]
     },
@@ -2828,24 +2709,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 5-5):",
+          "prompt": "የክፍል 5ን ዋና ዋና ዕውቀቶች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (5.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (5.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (5.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (5.5.z3)"
+            "የኢትዮጵያ 12 ሰዓት አቆጣጠር፣ 7ቱ የሳምንቱ ቀናት፣ የቀጠሮ አነጋገር እና 4ቱ ወቅቶች በአግባቡ ተብራርተዋል።",
+            "በአማርኛ ሰዓትና ቀናት አይታወቁም።",
+            "ቀጠሮ ለመያዝ የእንግሊዝኛ ቃላት ብቻ ያስፈልጋሉ።",
+            "ክረምት እና በጋ አንድ ዓይነት ዝናብ አላቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ሙሉውን የክፍል 5 ይዘት ያጠቃልላል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u5-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የዕለት»):",
+          "prompt": "'ቀናት / Days' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የዕለት",
-            "የዕለት"
+            "ቀናት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የዕለት» ነው።"
+          "explanation": "ትክክለኛው ቃል «ቀናት» (Qänat) ነው።"
         }
       ],
       "passThreshold": 0.8
