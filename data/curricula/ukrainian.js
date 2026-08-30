@@ -3355,53 +3355,62 @@
     "subject": "ukrainian",
     "unit": 8,
     "lessonNumber": 1,
-    "title": "Місцевий відмінок та прийменники в/на/по (Locative Case) (Part 1)",
+    "title": "Місцевий відмінок: статична локалізація та вибір прийменників «в / у» та «на» (Locative with V/U and NA)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 8.1) with authentic linguistic precision.",
+    "objective": "Опанувати вживання місцевого відмінка (на кому? на чому? де?) для статичної просторової локалізації з диференціацією прийменників «в/у» та «на».",
     "presentation": {
-      "explanation": "",
+      "explanation": "Місцевий відмінок (Locative Case / на кому? на чому? у кому? у чому?) є єдиним суто прийменниковим відмінком в українській мові й ніколи не вживається без прийменника:\n\n1. Прийменник «в / у» (всередині простору або території):\n- Країни, міста, регіони: «в Україні», «у Києві», «у Харкові», «у Львові».\n- Закриті приміщення та будівлі: «в аудиторії», «у великій кімнаті», «у театрі», «у бібліотеці», «в університеті».\n- Організації та сфери: «у школі», «в інституті», «у міністерстві».\n\n2. Прийменник «на» (на поверхні, на відкритому просторі або на подіях):\n- Поверхні предметів: «на столі», «на полиці», «на стіні», «на дошці».\n- Відкриті міські та природні простори: «на вулиці», «на широкому майдані», «на вокзалі», «на стадіоні», «на острові Хортиця».\n- Події, заходи, лекції: «на цікавій лекції», «на концерті», «на науковій конференції», «на іспиті».\n\n3. Питання «Де?»:\n- «Де ти зараз перебуваєш?» — «Я перебуваю в сучасній лабораторії на п'ятому поверсі університету.»",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Студенти зараз уважно слухають лекцію з історії в головній аудиторії університету.",
+          "reading": "[stuˈdɛntɪ ˈzɑrɐs uˈwɑʒnɔ ˈsluxɑjutʲ ˈlɛktsʲiju z isˈtɔrʲijɪ w ɦɔlɔwˈnʲij ɐudɪˈtɔrʲijɪ unʲiwɛrsɪˈtɛtu] (stoo-DEN-ty ZAH-rahs oo-VAHZH-noh SLOO-khah-yoot' LEK-tseeyoo z ees-TOH-ree-yee v hoh-lov-NEEY ow-dy-TOH-ree-yee oo-nee-ver-sy-TEH-too)",
+          "translation": "The students are now attentively listening to a history lecture in the university's main auditorium."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 8-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "На центральному майдані нашого рідного міста завжди вирує активне життя.",
+          "reading": "[nɑ t͡sɛntˈrɑlʲnɔmu mɐjˈdɑnʲi ˈnɑʃɔɦɔ ˈrʲidnɔɦɔ ˈmʲistɑ zɐwˈʒdɪ wɪˈrujɛ ɐkˈtɪwnɛ ʒɪtʲˈtʲɑ] (nah tsen-TRAHL'-noh-moo my-DAH-nee NAH-shoh-hoh REED-noh-hoh MEES-tah zahv-ZHDY vy-ROO-yeh ahk-TYV-neh zhyt-TYAH)",
+          "translation": "Active life is always buzzing on the central square of our native city."
+        },
+        {
+          "target": "У Києві на високих мальовничих пагорбах височіють золоті куполи святих храмів.",
+          "reading": "[u ˈkɪjɛwʲi nɑ wɪˈsɔkɪx mɐlʲɔwˈnɪtʃɪx ˈpɑɦɔrbɐx wɪsɔˈtʃijutʲ zɔlɔˈtʲi ˈkupɔlɪ sʲwʲɑˈtɪx ˈxrɑmʲiw] (oo KY-yeh-vee nah vy-SOH-kykh mah-lyov-NY-chykh PAH-hor-bahkh vy-soh-CHEE-yoot' zoh-loh-TEE KOO-poh-ly svyah-TYKH KHRAH-meev)",
+          "translation": "In Kyiv, on the high picturesque hills, the golden domes of holy temples rise high."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Де?» спитай — і прийменник шукай: У приміщенні «в/у» обирай, на поверхні та події «на» став без вагань!"
+      ],
+      "culturalNotes": [
+        "Норма «в Україні» є фундаментальним маркером українського державного суверенітету, підкреслюючи статус країни як незалежної держави з чіткими кордонами."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Рахунок\":",
+          "prompt": "Оберіть речення, в якому правильно вжито прийменник «на» з місцевим відмінком на позначення події:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.1.",
-            "Неправильне відмінкове узгодження зі словом «Гривня»",
-            "Порушення законів евфонії та словотворення для «Картка»",
-            "Стилістично некоректна синтаксична конструкція з «Покупка»"
+            "Ми зустріли старих друзів на цікавому концерті класичної музики. (Event location with NA: на концерті)",
+            "Ми зустріли старих друзів в цікавому концерті класичної музики.",
+            "Ми зустріли старих друзів до цікавого концерту класичної музики.",
+            "Ми зустріли старих друзів з цікавим концертом класичної музики."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Для позначення присутності на заходах та подіях (концерт, лекція, вистава) вживається прийменник «на» з місцевим відмінком: «на концерті»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Рахунок\":",
+          "prompt": "Поставте слово «стіл» у форму місцевого відмінка з прийменником «на»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.1.",
-            "Порушення законів евфонії та словотворення для «Картка»",
-            "Стилістично некоректна синтаксична конструкція з «Покупка»",
-            "Неправильне відмінкове узгодження зі словом «Гривня»"
+            "На столі (On the table - Locative ending in -i)",
+            "На столу",
+            "На столом",
+            "На стола"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Іменник чоловічого роду «стіл» у місцевому відмінку на позначення поверхні має закінчення «-і»: «на столі»."
         }
       ]
     },
@@ -3409,17 +3418,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Рахунок\": Which sentence is completely correct?",
+          "prompt": "Оберіть рядок, у якому ВСІ іменники правильно вжиті у формі місцевого відмінка з відповідними прийменниками:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.1.",
-            "Стилістично некоректна синтаксична конструкція з «Покупка»",
-            "Неправильне відмінкове узгодження зі словом «Гривня»",
-            "Порушення законів евфонії та словотворення для «Картка»"
+            "В аудиторії, на лекції, у Києві, на вокзалі, у театрі",
+            "На аудиторії, в лекції, на Києві, в вокзалі, на театрі",
+            "В аудиторію, на лекцію, у Київ, на вокзал, у театр",
+            "В аудиторією, на лекцією, у Києвом, на вокзалом, у театром"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Усі форми («в аудиторії», «на лекції», «у Києві», «на вокзалі», «у театрі») ідеально відповідають просторовим нормам місцевого відмінка."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u8-l2": {
@@ -3427,53 +3437,62 @@
     "subject": "ukrainian",
     "unit": 8,
     "lessonNumber": 2,
-    "title": "Місцевий відмінок та прийменники в/на/по (Locative Case) (Part 2)",
+    "title": "Історичні чергування приголосних у місцевому відмінку: г->з, к->ц, х->с (Consonant Mutations in Locative)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 8.2) with authentic linguistic precision.",
+    "objective": "Опанувати обов'язкові чергування приголосних другого перехідного пом'якшення (г -> з, к -> ц, х -> с) перед голосним закінченням -і у місцевому відмінку.",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові перед закінченням місцевого відмінка «-і» приголосні основи обов'язково зазнають другого історичного чергування:\n\n1. Чергування [г] -> [з']:\n- «Книга -> у книзі»\n- «Дорога -> на дорозі»\n- «Нога -> на нозі»\n- «Берег -> на березі»\n- «Ольга -> на Ользі»\n\n2. Чергування [к] -> [ц']:\n- «Рука -> у руці»\n- «Річка -> на річці»\n- «Аптека -> в аптеці»\n- «Бібліотека -> у бібліотеці»\n- «Сторінка -> на сторінці»\n\n3. Чергування [х] -> [с']:\n- «Поверх -> на п'ятому поверсі»\n- «Рух -> у безперервному русі»\n- «Муха -> на мусі»\n- «Вухо -> у вусі»\n- «Стріха -> на стрісі»\n\n4. Важливість правила:\n- Порушення цього чергування (наприклад, вимова типу *в аптекі чи *на дорогі) є грубою орфоепічною та граматичною помилкою.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "На кожній сторінці нової книги автор розмістив цінні наукові коментарі.",
+          "reading": "[nɑ ˈkɔʒnʲij stɔˈrʲint͡sʲi nɔˈwɔjɪ ˈknɪɦɪ ˈɑwtɔr rɔzmʲisˈtɪw ˈt͡sʲinːʲi nɐuˈkɔwʲi kɔmɛnˈtɑrʲi] (nah KOZH-neey stoh-REEN-tsee noh-VOH-yee KNY-hy AHV-tohr roz-mees-TYV TSEEN-nee nah-oo-KOH-vee koh-men-TAH-ree)",
+          "translation": "On each page of the new book the author placed valuable scientific commentaries."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 8-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Студенти щодня працюють у затишній бібліотеці на третьому поверсі.",
+          "reading": "[stuˈdɛntɪ ʃtʃɔdʲˈnʲɑ prɐt͡sʲuˈjutʲ u ˈzɑtɪʃnʲij bʲiblʲiɔˈtɛt͡sʲi nɑ ˈtrɛtʲɔmu ˈpɔwɛrsʲi] (stoo-DEN-ty shchohd-NYAH praht-SYOO-yoot' oo ZAH-tysh-neey beeb-lee-oh-TEH-tsee nah TRET'-oh-moo POH-ver-see)",
+          "translation": "Students work every day in the cozy library on the third floor."
+        },
+        {
+          "target": "На широкій асфальтованій дорозі завжди безпечно їхати з досвідченим водієм.",
+          "reading": "[nɑ ʃɪˈrɔkʲij ɐsfɐlʲtɔˈwɑnʲij dɔˈrɔzʲi zɐwˈʒdɪ bɛzˈpɛtʃnɔ ˈjixɐtɪ z dɔsʲˈwʲidtʃɛnɪm wɔˈdʲijɛm] (nah shy-ROH-keey ahs-fahl'-toh-VAH-neey doh-ROH-zee zahv-ZHDY bez-PECH-noh YEE-khah-ty z dos-VEED-cheh-nym voh-DEE-yem)",
+          "translation": "On a wide asphalt road it is always safe to drive with an experienced driver."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Г — на З, К — на Ц, Х — на С: перед «-і» в місцевім відмінку твориться граматичний прогрес!"
+      ],
+      "culturalNotes": [
+        "Чергування г/з, к/ц, х/с є прямим спадком праслов'янської мови, дбайливо збереженим у системі українського відмінювання як жива норма."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Гривня\":",
+          "prompt": "Поставте іменник «аптека» у правильну форму місцевого відмінка з прийменником «в»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.2.",
-            "Неправильне відмінкове узгодження зі словом «Картка»",
-            "Порушення законів евфонії та словотворення для «Покупка»",
-            "Стилістично некоректна синтаксична конструкція з «Ринок»"
+            "В аптеці (k -> c mutation before -i)",
+            "В аптекі",
+            "В аптеку",
+            "В аптеціє"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Перед закінченням «-і» кінцевий приголосний основи [к] чергується з [ц']: «в аптеці»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Гривня\":",
+          "prompt": "Яку форму матиме вираз «на п'ятий поверх» при статичній локалізації (Де?):",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.2.",
-            "Порушення законів евфонії та словотворення для «Покупка»",
-            "Стилістично некоректна синтаксична конструкція з «Ринок»",
-            "Неправильне відмінкове узгодження зі словом «Картка»"
+            "На п'ятому поверсі (x -> s mutation: поверх -> поверсі)",
+            "На п'ятому поверху",
+            "На п'ятому поверхові",
+            "На п'ятому поверхі"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Приголосний [х] перед «-і» чергується з [с']: «на п'ятому поверсі»."
         }
       ]
     },
@@ -3481,17 +3500,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Гривня\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому ВСІ чергування приголосних у місцевому відмінку виконано правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.2.",
-            "Стилістично некоректна синтаксична конструкція з «Ринок»",
-            "Неправильне відмінкове узгодження зі словом «Картка»",
-            "Порушення законів евфонії та словотворення для «Покупка»"
+            "У книзі на сторінці надруковано фотографію замку на річці.",
+            "У книгі на сторінкі надруковано фотографію замку на річкі.",
+            "У книзі на сторінкі надруковано фотографію замку на річці.",
+            "У книгі на сторінці надруковано фотографію замку на річкі."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Книзі» (г->з), «сторінці» (к->ц), «річці» (к->ц) — усі чергування реалізовано бездоганно."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u8-l3": {
@@ -3499,53 +3519,62 @@
     "subject": "ukrainian",
     "unit": 8,
     "lessonNumber": 3,
-    "title": "Місцевий відмінок та прийменники в/на/по (Locative Case) (Part 3)",
+    "title": "Морфологічні закінчення місцевого відмінка: -і, -у/-ю та паралельні форми на -ові/-еві (Locative Endings -i, -u, -ovi)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 8.3) with authentic linguistic precision.",
+    "objective": "Опанувати систему варіантних закінчень місцевого відмінка іменників чоловічого та середнього роду (-і, -у/-ю, -ові/-еві) з акцентом на назви істот.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Іменники чоловічого та середнього роду у місцевому відмінку однини мають три типи закінчень залежно від основи та лексичного значення:\n\n1. Закінчення «-і» (основне закінчення для неістот із твердою основою):\n- «Стіл -> на столі», «місто -> у місті», «село -> у селі», «вікно -> на вікні», «кабінет -> у кабінеті».\n\n2. Закінчення «-у / -ю»:\n- Іменники з основами на задньоязикові [г, к, х] та шиплячі (якщо не чергуються на -і): «у парку», «у ліску», «на шляху», «у степу», «у гаю», «у краю».\n- Іменники з суфіксами «-к-», «-ак-», «-ик-», «-ок-»: «у будинку», «на столику», «у садочку».\n- Іменники середнього роду на «-я» (подовження): «у житті», «у завданні», «у навчанні» (закінчення -і).\n\n3. Закінчення «-ові / -еві / -єві» (пріоритетне для назв істот):\n- Для назв істот чоловічого роду закінчення «-ові/-еві» є стилістично рекомендованим:\n  • «На моєму рідному братові (браті)»\n  • «На шановному професорові»\n  • «На головному лікареві»\n  • «На молодому кобзареві».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "У новому затишному будинку на першому поверсі відкрили сучасну аптеку.",
+          "reading": "[u nɔˈwɔmu ˈzɑtɪʃnɔmu buˈdɪnku nɑ ˈpɛrʃɔmu ˈpɔwɛrsʲi wʲidˈkrɪlɪ sutʃɐsˈnu ɐpˈtɛku] (oo noh-VOH-moo ZAH-tysh-noh-moo boo-DYN-koo nah PER-shoh-moo POH-ver-see veed-KRY-ly soo-chahs-NOO ahp-TEH-koo)",
+          "translation": "In the new cozy building on the first floor a modern pharmacy was opened."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 8-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "На нашому викладачеві завжди бездоганно випрасуваний діловий костюм.",
+          "reading": "[nɑ ˈnɑʃɔmu wɪklɐdɐˈtʃɛwʲi zɐwˈʒdɪ bɛzdɔˈɦɑnnɔ wɪˈprɑsuwɐnɪj dʲilɔˈwɪj kɔsʲˈtʲum] (nah NAH-shoh-moo vy-klah-dah-CHEH-vee zahv-ZHDY bez-doh-HAHN-noh vy-PRAH-soo-vah-nyi dee-loh-VYI kohs-TYOOM)",
+          "translation": "On our lecturer there is always an impeccably ironed business suit."
+        },
+        {
+          "target": "Ми гуляємо в зеленому парку та насолоджуємося тишею в духмяному лісі.",
+          "reading": "[mɪ ɦuˈlʲɑjɛmɔ w zɛˈlɛnɔmu ˈpɑrku tɑ nɐsɔˈlɔdʒujɛmɔsʲɑ ˈtɪʃɛju w duxˈmjɑnɔmu ˈlʲisʲi] (my hoo-LYAH-yeh-moh v zeh-LEH-noh-moo PAHR-koo tah nah-soh-LOH-zhoo-yeh-moh-syah TY-sheh-yoo v dookh-MYAH-noh-moo LEE-see)",
+          "translation": "We walk in the green park and enjoy the tranquility in the fragrant forest."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Неістота на твердий — «-і» тримай; Задньоязиковий чи суфікс -к- — «-у» приймай; А людині «-ові / -еві» щиро віддавай!"
+      ],
+      "culturalNotes": [
+        "Закінчення «-ові/-еві» у місцевому та давальному відмінках є найдавнішою питомою рисою української мови, яка збереглася від праслов'янських основ на *u."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Картка\":",
+          "prompt": "Оберіть найбільш нормативну форму місцевого відмінка для назви особи «професор»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.3.",
-            "Неправильне відмінкове узгодження зі словом «Покупка»",
-            "Порушення законів евфонії та словотворення для «Ринок»",
-            "Стилістично некоректна синтаксична конструкція з «Будинок»"
+            "На професорові (Preferred animate Locative ending -ovi)",
+            "На професору",
+            "На професором",
+            "На професоріє"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Для назв істот чоловічого роду найбільш характерним і нормативним є закінчення «-ові»: «на професорові»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Картка\":",
+          "prompt": "Яке закінчення матиме іменник «будинок» у місцевому відмінку однини («у ...»)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.3.",
-            "Порушення законів евфонії та словотворення для «Ринок»",
-            "Стилістично некоректна синтаксична конструкція з «Будинок»",
-            "Неправильне відмінкове узгодження зі словом «Покупка»"
+            "Закінчення -у: у будинку (Noun with suffix -ok takes -u)",
+            "Закінчення -і: у будинкі",
+            "Закінчення -ові: у будинкові",
+            "Закінчення -ом: у будинком"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Іменники на «-ок» / «-ик» у місцевому відмінку приймають закінчення «-у»: «у будинку»."
         }
       ]
     },
@@ -3553,17 +3582,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Картка\": Which sentence is completely correct?",
+          "prompt": "Оберіть рядок, у якому всі іменники чоловічого роду мають правильні закінчення місцевого відмінка:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.3.",
-            "Стилістично некоректна синтаксична конструкція з «Будинок»",
-            "Неправильне відмінкове узгодження зі словом «Покупка»",
-            "Порушення законів евфонії та словотворення для «Ринок»"
+            "У будинку, у парку, на столі, на батькові, у кабінеті",
+            "У будинкі, у паркі, на столу, на батьку, у кабінету",
+            "У будинком, у парком, на столом, на батьком, у кабінетом",
+            "У будинка, у парка, на стола, на батька, у кабінета"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«У будинку» (-у), «у парку» (-у), «на столі» (-і), «на батькові» (-ові), «у кабінеті» (-і) — нормативні закінчення."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u8-l4": {
@@ -3571,53 +3601,62 @@
     "subject": "ukrainian",
     "unit": 8,
     "lessonNumber": 4,
-    "title": "Місцевий відмінок та прийменники в/на/по (Locative Case) (Part 4)",
+    "title": "Місцевий відмінок із прийменником «по»: рух простором, засоби комунікації та розклад (Locative with PO)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 8.4) with authentic linguistic precision.",
+    "objective": "Опанувати автентичне українське вживання прийменника «по» з місцевим відмінком на позначення руху поверхнею, каналів зв'язку та часового порядку.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Прийменник «по» з місцевим відмінком має чітко окреслену сферу нормативного вживання в українській мові:\n\n1. Рух поверхнею або простором (рух у межах певної території):\n- «Гуляти по парку / по старовинному місту / по широких вулицях»\n- «Пливти по Дніпру / по спокійній річці»\n- «Ходити по траві / по свіжому снігу»\n\n2. Канали зв'язку та передачі інформації:\n- «Розмовляти по мобільному телефону»\n- «Дивитися виставу по телебаченню»\n- «Слухати новини по радіо»\n\n3. Розподіл обов'язків та часова послідовність:\n- «Черговий по університету / по поверху»\n- «По прибутті до Києва ми одразу зателефонували рідним»\n\n4. Уникнення калькування:\n- В українській мові НЕ кажуть *іспит по мові чи *підручник по фізиці (правильно: «іспит з мови», «підручник з фізики»). Прийменник «по» не вживається для позначення галузі знань.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Ми із задоволенням гуляємо вечірнім містом по затишних старовинних вулицях.",
+          "reading": "[mɪ iz zɐdɔˈwɔlɛnʲːɐm ɦuˈlʲɑjɛmɔ wɛˈtʃirnʲim ˈmʲistɔm pɔ ˈzɑtɪʃnɪx stɐrɔˈwɪnːɪx ˈwulɪt͡sʲɐx] (my eez zah-doh-VOH-len-nyahm hoo-LYAH-yeh-moh veh-CHEER-neem MEES-tohm poh ZAH-tysh-nykh stah-roh-VYN-nykh VOO-ly-tsyahkh)",
+          "translation": "We walk through the evening city along the cozy ancient streets with pleasure."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 8-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Він щодня довго спілкується з колегами по роботі по відеозв'язку.",
+          "reading": "[wʲin ʃtʃɔdʲˈnʲɑ ˈdɔwɦɔ sʲpʲilˈkujɛtʲsʲɑ z kɔˈlɛɦɐmɪ pɔ rɔˈbɔtʲi pɔ wʲidɛɔzˈwjɑzku] (VEEN shchohd-NYAH DOHV-hoh speel-KOO-yet'-syah z koh-LEH-hah-my poh roh-BOH-tee poh vee-deh-oh-zV'YAZ-koo)",
+          "translation": "Every day he talks with colleagues at work via video connection for a long time."
+        },
+        {
+          "target": "Теплий літній дощ тихо барабанить по зеленому листю дерев у саду.",
+          "reading": "[ˈtɛplɪj ˈlʲitnʲij dɔʃtʃ ˈtɪxɔ bɐrɐˈbɑnɪtʲ pɔ zɛˈlɛnɔmu ˈlɪsʲtʲu dɛˈrɛw u sɐˈdu] (TEP-lyi LEET-neey dohshch TY-khoh bah-rah-BAH-nyt' poh zeh-LEH-noh-moo LYS-t'yoo deh-REV oo sah-DOO)",
+          "translation": "Warm summer rain quietly taps on the green leaves of the trees in the garden."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "По місту, по річці, по телефону — рухайся й зв'язуйся вільно за українським законом!"
+      ],
+      "culturalNotes": [
+        "Культура мовлення вимагає розрізняти питоме просторове «по місту / по радіо» та уникати калькованого канцеляризму «по питанню» (правильно: «щодо питання»).",
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Покупка\":",
+          "prompt": "Оберіть речення, в якому прийменник «по» вжито абсолютно нормативно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.4.",
-            "Неправильне відмінкове узгодження зі словом «Ринок»",
-            "Порушення законів евфонії та словотворення для «Будинок»",
-            "Стилістично некоректна синтаксична конструкція з «Квартира»"
+            "Дідусь щовечора слухає цікаву музичну передачу по радіо. (Communication medium with PO)",
+            "Студенти успішно склали іспит по українській мові.",
+            "Ми обговорили всі деталі по цьому важливому питанню.",
+            "Він є відомим фахівцем по комп'ютерних технологіях."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Сполука «по радіо» є літературною нормою для позначення каналу зв'язку. У решті випадків слід вживати «з мови», «щодо питання», «у сфері технологій»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Покупка\":",
+          "prompt": "Поставте вираз «широке поле» у місцевий відмінок після прийменника руху «йти по ...»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.4.",
-            "Порушення законів евфонії та словотворення для «Будинок»",
-            "Стилістично некоректна синтаксична конструкція з «Квартира»",
-            "Неправильне відмінкове узгодження зі словом «Ринок»"
+            "По широкому полю (Moving across the field - Locative)",
+            "По широкому полі",
+            "По широкому полем",
+            "По широкого поля"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Іменник середнього роду «поле» з прийменником «по» має форму місцевого відмінка «по полю»."
         }
       ]
     },
@@ -3625,17 +3664,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Покупка\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, де допущено помилку у вживанні прийменника «по»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.4.",
-            "Стилістично некоректна синтаксична конструкція з «Квартира»",
-            "Неправильне відмінкове узгодження зі словом «Ринок»",
-            "Порушення законів евфонії та словотворення для «Будинок»"
+            "У нас завтра відбудеться консультація по вищій математиці.",
+            "Ми довго гуляли по затишному парку біля університету.",
+            "Він зателефонував мені по мобільному телефону вчора ввечері.",
+            "Краплі дощу стікають по прозорому склу вікна."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Вираз «консультація по вищій математиці» є калькою. Нормативна українська конструкція — «консультація з вищої математики»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u8-l5": {
@@ -3643,53 +3683,62 @@
     "subject": "ukrainian",
     "unit": 8,
     "lessonNumber": 5,
-    "title": "Місцевий відмінок та прийменники в/на/по (Locative Case) (Part 5)",
+    "title": "Місцевий відмінок із прийменниками «при» та часовими «о / об» (Locative with PRY and O/OB)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 8.5) with authentic linguistic precision.",
+    "objective": "Опанувати функції прийменника «при» (близькість, наявність умов) та часового прийменника «о/об» (о котрій годині? о сьомій, об одинадцятій) у місцевому відмінку.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Прийменники «при» та «о / об» виконують специфічні синтаксичні ролі з місцевим відмінком:\n\n1. Прийменник «при» (близькість, належність, супутні обставини):\n- Безпосередня просторова близькість або організаційна приналежність:\n  • «При університеті успішно діє науково-дослідний інститут»\n  • «Затишний готель розташований при дорозі»\n  • «Служити при дворі»\n- Супутні умови, стан чи обставини:\n  • «Читати старовинний рукопис при світлі настільної лампи»\n  • «Зберігати спокій і бути при повній тямі»\n  • «Присутній при всіх важливих переговорах»\n\n2. Прийменники «о / об» (позначення точного часу — о котрій годині?):\n- Відповідають на питання «О котрій годині?» (At what time?):\n  • «О сьомій годині ранку ми вирушаємо в подорож»\n  • «Лекція розпочинається рівно о десятій годині»\n- Евфонічний розподіл «о» / «об»:\n  • «О»: перед приголосними («о другій», «о п'ятій», «о шостій»).\n  • «Об»: перед голосними, зокрема перед числівником «одинадцять» («об одинадцятій годині вечора»).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Рівно о восьмій годині ранку при нашому університеті відкривається читальний зал бібліотеки.",
+          "reading": "[ˈrʲiwnɔ ɔ wɔsʲˈmʲij ɦɔˈdɪnʲi ˈrɑŋku prɪ ˈnɑʃɔmu unʲiwɛrsɪˈtɛtʲi wʲidkrɪˈwɑjɛtʲsʲɑ tʃɪˈtɑlʲnɪj zɑl bʲiblʲiɔˈtɛkɪ] (REEV-noh oh vos-MEEY hoh-DY-nee RAHN-koo pry NAH-shoh-moo oo-nee-ver-sy-TEH-tee veed-kry-VAH-yet'-syah chy-TAHL'-nyi ZAHL beeb-lee-oh-TEH-ky)",
+          "translation": "Exactly at eight in the morning the library's reading room opens at our university."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 8-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Об одинадцятій годині ночі над сплячим містом запанувала цілковита тиша.",
+          "reading": "[ɔb ɔdɪˈnɑdt͡sʲɑtʲij ɦɔˈdɪnʲi ˈnɔtʃʲi nɑd ˈsʲplʲɑtʃɪm ˈmʲistɔm zɐpɐnuˈwɑlɑ t͡sʲilkɔˈwɪtɑ ˈtɪʃɐ] (ohb oh-dyn-NAHD-tsyah-teey hoh-DY-nee NOH-chee nahd SPLYAHT-chym MEES-tohm zah-pah-noo-VAH-lah tseel-koh-VY-tah TY-shah)",
+          "translation": "At eleven at night complete silence fell over the sleeping city."
+        },
+        {
+          "target": "Вчений працював над відкриттям при тьмяному світлі свічки до самого світанку.",
+          "reading": "[ˈwtʃɛnɪj prɐt͡sʲuˈwɑw nɑd wʲidkrɪtʲˈtʲɑm prɪ tʲˈmjɑnɔmu ˈsʲwʲitlʲi ˈsʲwʲitʃkɪ dɔ sɐˈmɔɦɔ sʲwʲiˈtɑŋku] (VCHEH-nyi praht-syoo-VAHV nahd veed-kryt-TYAHM pry T'MYAH-noh-moo SVEET-lee SVEETCH-ky doh sah-MOH-hoh svee-TAHN-koo)",
+          "translation": "The scholar worked on the discovery by the dim light of a candle until dawn itself."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "О восьмій — перед приголосним, об одинадцятій — перед голосним; При університеті та при світлі — час і місце знайдемо ми!"
+      ],
+      "culturalNotes": [
+        "Конструкція «о котрій годині?» (на відміну від кальки «в скільки годин?») є еталонним взірцем бездоганної української мовленнєвої культури."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Ринок\":",
+          "prompt": "Оберіть граматично правильний часовий вираз для позначення 11:00:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.5.",
-            "Неправильне відмінкове узгодження зі словом «Будинок»",
-            "Порушення законів евфонії та словотворення для «Квартира»",
-            "Стилістично некоректна синтаксична конструкція з «Кімната»"
+            "Об одинадцятій годині (Euphonic ob before vowel o-)",
+            "О одинадцятій годині",
+            "В одинадцять годин",
+            "У одинадцятій годині"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Перед голосним [о] числівника «одинадцять» за законами евфонії вживається форма «об»: «об одинадцятій годині»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Ринок\":",
+          "prompt": "Як правильно запитати українською мовою про точний час події?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.5.",
-            "Порушення законів евфонії та словотворення для «Квартира»",
-            "Стилістично некоректна синтаксична конструкція з «Кімната»",
-            "Неправильне відмінкове узгодження зі словом «Будинок»"
+            "О котрій годині розпочнеться зустріч? (At what time?)",
+            "В скільки годин розпочнеться зустріч?",
+            "У скількох годинах розпочнеться зустріч?",
+            "О скільки годин розпочнеться зустріч?"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Літературною нормативною формулою в українській мові є питання «О котрій годині?»."
         }
       ]
     },
@@ -3697,17 +3746,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Ринок\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому дотримано правил вживання прийменників «при» та «о / об»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 8.5.",
-            "Стилістично некоректна синтаксична конструкція з «Кімната»",
-            "Неправильне відмінкове узгодження зі словом «Будинок»",
-            "Порушення законів евфонії та словотворення для «Квартира»"
+            "Потяг прибуває рівно о сьомій ранку, а автобус — об одинадцятій годині.",
+            "Потяг прибуває рівно в сім годин ранку, а автобус — у одинадцять годин.",
+            "Потяг прибуває рівно об сьомій ранку, а автобус — о одинадцятій годині.",
+            "Потяг прибуває рівно до сьомої ранку, а автобус — к одинадцятій годині."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«О сьомій» (перед приголосним [с]) та «об одинадцятій» (перед голосним [о]) — бездоганні норми місцевого відмінка часу."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u9-l1": {
