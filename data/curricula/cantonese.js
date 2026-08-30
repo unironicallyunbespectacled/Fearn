@@ -7045,53 +7045,62 @@
     "subject": "cantonese",
     "unit": 17,
     "lessonNumber": 1,
-    "title": "畀字句同被動態 (The BEI Passive Voice) (第1課)",
+    "title": "粵語被動句標記「畀」之語義本質與核心結構：「受事 + 畀 + 施事 + 動詞補語」 (The Core 'bei2' Passive Voice)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元17第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語被動句核心標記「畀」之句式結構「受事主語 + 畀 + 施事者 + 動詞謂語 + 結果補語」與施事者不可省略之語法約束規則。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語中之被動態以介詞「畀」（bei2）為核心標記，其語法機制與現代標準漢語之「被」字句存在重要之結構性差異：\n\n一、「畀」字被動句核心語法公式：\n１．標準句式結構：【受事主語 ＋ 「畀」 ＋ 施事主體 ＋ 動詞謂語 ＋ 結果補語/體貌助詞】。\n- 例如：「我部手機畀細佬整爛咗」（我的手機被弟弟弄壞了）。\n- 例如：「嗰份合約畀老細簽咗字」（那份合同被老闆簽署了）。\n\n二、施事主體「不可懸空」之強制性語法規則：\n１．在普通話中，「被」字後方之施事者可以省略（如「他被打了」）；但在地道粵語口語中，「畀」字後方絕不可直接接動詞（不可說「佢畀打咗」）。\n２．若施事者未知、不明確或不願指明，必須強制補入泛指代詞「人」（jan4），構成「畀人 ＋ 動詞」結構：\n- 例如：「佢尋晚畀人偷咗個銀包」（他昨晚被人偷了錢包）。\n- 例如：「呢張梳化畀人坐爛咗」（這張沙發被人坐壞了）。\n\n三、動詞後接補語之必要性：\n１．動詞謂語後方必須帶有結果補語（如「爛、走、完、親」）或體貌標記（如「咗」），以完整交代被動行為之最終結果與影響。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 17 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 17 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 17 in communication."
+          "target": "我尋日擺喺公司雪櫃嘅午餐飯盒，唔知畀邊個同事食咗。",
+          "reading": "ngo5 cam4 jat6 baai2 hai2 gung1 si1 syut3 gwai6 ge3 ng5 caan1 faan6 hap6, m4 zi1 bei2 bin1 go3 tung4 si6 sik6 zo2. [ŋɔː˩˧ tsʰɐm˨˩ jɐt˨ paːi˧˥ hɐi˩˧ kʊŋ˥ siː˥ syːt̚˧ kʷɐi˨ kɛː˧ ŋ̩˩˧ tsʰaːn˥ faːn˨ hɐp̚˨, m̩˨˩ tsiː˥ pei˨ piːn˥ kɔː˧ tʰʊŋ˨˩ siː˨ sɪk̚˨ tsɔː˧˥] (NGOH CHUM-YUT BAAI HY GONG-SEE SUET-GWY GEH NG-CHAAN FAHN-HUP, M-JEE BAY BEEN-GOH TOONG-SEE SIK-JOR)",
+          "translation": "The lunch box I placed in the office refrigerator yesterday was eaten by I don't know which colleague."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元17-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "呢篇極具爭議性嘅報導一刊登出嚟，即刻畀好多網民批評。",
+          "reading": "ni1 pin1 gik6 geoi6 zang1 ji5 sing3 ge3 bou3 dou6 jat1 hon1 dang1 ceot1 lai4, zik1 hak1 bei2 hou2 do1 mong5 man4 pai1 ping4. [niː˥ pʰiːn˥ kɪk̚˨ kɵy˨ tsɐŋ˥ jiː˩˧ sɪŋ˧ kɛː˧ pou˧ tou˨ jɐt̚˥ hɔːn˥ tɐŋ˥ tsʰɵt̚˥ lɐi˨˩, tsɪk̚˥ hɐk̚˥ pei˨ hou˧˥ tɔː˥ mɔːŋ˩˧ mɐn˨˩ pʰɐi˥ pʰɪŋ˨˩] (NEE-PEEN GIK-GOEY JUNG-YEE-SING GEH BOU-DOH YUT-HON-DUNG CHUT-LY, JIK-HUK BAY HOH-DOH MONG-MUN PY-PING)",
+          "translation": "As soon as this highly controversial report was published, it was immediately criticized by many netizens."
+        },
+        {
+          "target": "張大寫字枱畀兩個小朋友畫到污糟晒，媽媽睇到好無奈。",
+          "reading": "zoeng1 daai6 se2 zi6 toi4*2 bei2 loeng5 go3 siu2 pang4 jau5 waa2 dak1 wu1 zou1 saai3, maa4 maa1 tai2 dou2 hou2 mou4 noi6. [tsœːŋ˥ taːi˨ sɛː˧˥ tsiː˨ tʰɔːi˧˥ pei˨ lœːŋ˩˧ kɔː˧ siu˧˥ pʰɐŋ˨˩ jɐu˩˧ waː˧˥ tɐk̚˥ wuː˥ tsou˥ saːi˧, maː˨˩ maː˥ tʰɐi˧˥ tou˧˥ hou˧˥ mou4 nɔːi˨] (JEUNG DY SEH-JEE-TOY BAY LEUNG-GOH SIU-PANG-YAU WAH DUK WOO-JOU-SY, MAH-MAH TY-DOU HOH MO-NOY)",
+          "translation": "The large desk was drawn on and completely dirtied by the two children; Mother looked at it with great helplessness."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【畀字被動訣】廣東被動用「畀」字，施事主體不可避；無名施事補個「人」，動詞補語緊跟記！"
+      ],
+      "culturalNotes": [
+        "普通話可以說「錢包被偷了」，但粵語必須說「銀包畀人偷咗」。這一「施事不可缺省」之特徵，展現了粵語語法結構在認知層面上追求「施事主體清晰具體」之深層語言哲學。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"醫生\":",
+          "prompt": "【語法正誤】在粵語中表達「手機被摔壞了（未知是誰摔的）」，符合粵語語法規範之句子係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：睇醫生錯置）",
-            "混雜生硬詞彙之不規範語句（例項：食藥未適配）",
-            "聲調助詞搭配欠妥之表達（例項：發燒誤用）"
+            "部手機畀人整爛咗。 (bou6 sau2 gei1 bei2 jan4 zing2 laan6 zo2.)",
+            "部手機畀整爛咗。",
+            "部手機整爛咗畀人。",
+            "部手機被整爛咗。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "粵語「畀」字後方不可懸空，施事者未知時必須補入泛指代詞「人」（畀人整爛咗）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"醫生\":",
+          "prompt": "【被動結構】在粵語被動句「本書畀陳老師借咗」中，動作之實際發出者（施事者）係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：食藥未適配）",
-            "聲調助詞搭配欠妥之表達（例項：發燒誤用）",
-            "語序顛倒嘅非標準句式（例項：睇醫生錯置）"
+            "陳老師 (The Teacher / Agent)",
+            "本書 (The Book)",
+            "我 (Me)",
+            "圖書館 (The Library)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "在「受事＋畀＋施事＋動詞」結構中，「畀」後方之「陳老師」為動作施事者。"
         }
       ]
     },
@@ -7099,15 +7108,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"醫生\": Which sentence is completely correct?",
+          "prompt": "【特徵對比】相較於現代標準漢語「被」字句，粵語「畀」字句最顯著之句法約束係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：發燒誤用）",
-            "語序顛倒嘅非標準句式（例項：睇醫生錯置）",
-            "混雜生硬詞彙之不規範語句（例項：食藥未適配）"
+            "「畀」字後方之施事主體不可省略，泛指時須填補「人」 (Agent cannot be omitted)",
+            "「畀」字句不能使用任何結果補語",
+            "「畀」字句只能用於祈使語氣",
+            "「畀」字句不能含有時間副詞"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "粵語「畀」字後方施事不可懸空，無定施事時必須補入「人」（如「畀人偷咗」）。"
         }
       ],
       "passThreshold": 0.8
@@ -7118,53 +7127,62 @@
     "subject": "cantonese",
     "unit": 17,
     "lessonNumber": 2,
-    "title": "畀字句同被動態 (The BEI Passive Voice) (第2課)",
+    "title": "「畀人 + V」無定施事被動句與職場/市井高頻遭遇：「畀人呃」、「畀人炒」、「畀人鬧」 (Adverse 'bei2 jan4' Passives)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元17第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語市井與職場高頻無定施事被害被動短語（畀人呃、畀人炒、畀人鬧、畀人屈、畀人蝦）之實戰語用語意與語法搭配。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語中之「畀人 ＋ 動詞」結構廣泛用於表達說話者或受事主體遭受意外、挫折、冤屈或不幸之「被害義」語境：\n\n一、職場生活挫折與負面遭遇高頻詞庫：\n１．「畀人炒 / 畀老細炒魷魚」（bei2 jan4 caau2）：被公司解僱、辭退、開除。\n２．「畀人鬧 / 畀老細肺」（bei2 jan4 naau6）：被他人或上司嚴厲責罵、訓斥。\n３．「畀人呃 / 畀人騙」（bei2 jan4 aak1）：被人欺騙、受騙上當（如遭遇電騙）。\n４．「畀人屈」（bei2 jan4 wat1）：被人冤枉、栽贓陷害或無辜背黑鍋。\n５．「畀人蝦」（bei2 jan4 haa1）：被人欺負、霸凌或以強凌弱。\n６．「畀人搶」（bei2 jan4 coeng2）：財物遭人搶劫或強行掠奪。\n\n二、語用情感與口氣特徵：\n１．「畀人」被動句帶有強烈之委屈、倒霉、同情或無奈色彩。\n２．在傾訴、投訴、求助或報案等語境中係最自然流露之口語表達。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 17 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 17 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 17 in communication."
+          "target": "隔壁陳伯琴日收到詐騙電話，唔小心畀人呃咗十幾萬積蓄。",
+          "reading": "gaak3 bik1 can4 baak3 kam4 jat6 sau1 dou2 zaa3 pin3 din6 waa6*2, m4 siu2 sam1 bei2 jan4 aak1 zo2 sap6 gei2 maan6 zik1 cuk1. [kaːk̚˧ pɪk̚˥ tsʰɐn˨˩ paːk̚˧ kʰɐm˨˩ jɐt˨ sɐu˥ tou˧˥ tsaː˧ pʰiːn˧ tiːn˨ waː˧˥, m̩˨˩ siu˧˥ sɐm˥ pei˨ jɐn˨˩ aːk̚˥ tsɔː˧˥ sɐp̚˨ kei˧˥ maːn˨ tsɪk̚˥ tsʰʊk̚˥] (GAHK-BIK CHUN-BAHK KUM-YUT SAU-DOU JAH-PEEN DEEN-WAH, M-SIU-SUM BAY-YUN AHK-JOR SUP-GAY-MAHN JIK-CHOOK)",
+          "translation": "Neighbor Uncle Chan received a scam call yesterday and accidentally was scowled/swindled out of over one hundred thousand dollars of savings by someone."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元17-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "阿明因為返工經常遲到早退，上個禮拜終於畀老細炒咗魷魚。",
+          "reading": "aa3 ming4 jan1 wai6 faan1 gung1 ging1 soeng4 ci4 dou3 zou2 teoi3, soeng6 go3 lai5 baai3 zung1 jyu1 bei2 lou5 sai3 caau2 zo2 jau4 jyu4*2. [aː˧ mɪŋ˨˩ jɐn˥ wɐi˨ faːn˥ kʊŋ˥ kɪŋ˥ sœːŋ˨˩ tsʰiː˨˩ tou˧ tsou˧˥ tʰɵy˧, sœːŋ˨ kɔː˧ lɐi˩˧ paːi˧ tsʊŋ˥ jyː˥ pei˨ lou˧˥ sɐi˧ tsʰaːu˧˥ tsɔː˧˥ jɐu˨˩ jyː˧˥] (AH-MING YUN-WAI FAHN-GONG GING-SEUNG CHEE-DOU JOU-TOEY, SEUNG-GOH LY-BY JOONG-YUE BAY LOU-SY CHAU-JOR YAU-YUE)",
+          "translation": "Because Ah Ming frequently came to work late and left early, last week he was finally fired by the boss."
+        },
+        {
+          "target": "明明唔係我做錯事，今次真係無辜畀人屈，真係好唔甘心！",
+          "reading": "ming4 ming4 m4 hai6 ngo5 zou6 co3 si6, gam1 ci3 zan1 hai6 mou4 gu1 bei2 jan4 wat1, zan1 hai6 hou2 m4 gam1 sam1! [mɪŋ˨˩ mɪŋ˨˩ m̩˨˩ hɐi˨ ŋɔː˩˧ tsou˨ tsʰɔː˧ siː˨, kɐm˥ tsʰiː˧ tsɐn˥ hɐi˨ mou4 kuː˥ pei˨ jɐn˨˩ wɐt̚˥, tsɐn˥ hɐi˨ hou˧˥ m̩˨˩ kɐm˥ sɐm˥!] (MING-MING M-HY NGOH JOU-CHOH-SEE, GUM-CHEE JUN-HY MO-GOO BAY-YUN WUT, JUN-HY HOH M-GUM-SUM!)",
+          "translation": "It clearly wasn't me who made the mistake; this time I was innocently falsely accused by others, I really feel deeply aggrieved!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【市井遭遇歌】受騙上當「畀人呃」，解僱失業「畀人炒」；無辜蒙冤「畀人屈」，以強凌弱「畀人蝦」！"
+      ],
+      "culturalNotes": [
+        "「炒魷魚」（被解僱）源於昔日廣東勞工被辭退時卷鋪蓋走人，鋪蓋捲起之形狀極似炒熟蜷曲之魷魚。「畀人屈」中之「屈」（冤枉）更係嶺南廣府文化中維護自身清白之強烈情感詞。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"睇醫生\":",
+          "prompt": "【語意匹配】在廣東話中描述自己遭受了詐騙分子之欺騙，最地道之口語被動說法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：食藥錯置）",
-            "混雜生硬詞彙之不規範語句（例項：發燒未適配）",
-            "聲調助詞搭配欠妥之表達（例項：頭痛誤用）"
+            "我畀人呃咗。 (ngo5 bei2 jan4 aak1 zo2.)",
+            "我畀人炒咗。",
+            "我畀人屈咗。",
+            "我畀人蝦咗。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「呃」（aak1）為欺騙，「畀人呃咗」表示被人欺騙上當。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"睇醫生\":",
+          "prompt": "【職場俚語】在香港職場中，若某員工不幸遭到公司開除解僱，其口語被動表達為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：發燒未適配）",
-            "聲調助詞搭配欠妥之表達（例項：頭痛誤用）",
-            "語序顛倒嘅非標準句式（例項：食藥錯置）"
+            "畀老細炒魷魚 (Fired by the boss)",
+            "畀老細請食飯",
+            "畀老細加人工",
+            "畀老細升職"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「畀……炒魷魚」係粵語中被解僱開除之經典被動表達。"
         }
       ]
     },
@@ -7172,15 +7190,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"睇醫生\": Which sentence is completely correct?",
+          "prompt": "【詞義辨析】句子「佢個人好老實，喺學校成日畀人蝦」中，「畀人蝦」之含義係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：頭痛誤用）",
-            "語序顛倒嘅非標準句式（例項：食藥錯置）",
-            "混雜生硬詞彙之不規範語句（例項：發燒未適配）"
+            "被人欺負、霸凌 (Bullied by others)",
+            "被人請吃海鮮大蝦",
+            "被人誇獎表揚",
+            "被人邀請去旅遊"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「蝦」（haa1）在粵語中作動詞時表示欺負、霸凌，「畀人蝦」即被人欺負。"
         }
       ],
       "passThreshold": 0.8
@@ -7191,53 +7209,62 @@
     "subject": "cantonese",
     "unit": 17,
     "lessonNumber": 3,
-    "title": "畀字句同被動態 (The BEI Passive Voice) (第3課)",
+    "title": "被動標記「畀」與使役標記「畀」之歧義消除與多功能語義辨析 (Disambiguating Dative, Causative, & Passives)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元17第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語多功能高頻字「畀」在給予動詞（與事/雙賓）、使役動詞（讓/准許）與被動標記（被）三種語義角色間之精確辨析與歧義消除技巧。",
     "presentation": {
-      "explanation": "",
+      "explanation": "「畀」（bei2）係粵語中使用頻率極高、語法化程度極深之「超級多功能動詞/介詞」，其在不同語境下承載三種截然不同之語法功能：\n\n一、「畀」字三大核心語法角色光譜：\n１．給予動詞（與事 / 雙賓語 / 介詞交付）：表示物質或權益之轉移，相當於「給」。\n- 語法標誌：後接【接收人 ＋ 物件】或【動詞 ＋ 畀 ＋ 接收人】。\n- 例句：「爸爸畀咗五百蚊我做零用錢」（爸爸給了我五百元當零用錢）。\n- 例句：「請將份報告遞畀經理」（請把報告遞給經理）。\n\n２．使役動詞（使令 / 准許 / 容許）：表示允許、促成某人做某事，相當於「讓、准許」。\n- 語法標誌：結構為【主語 ＋ 畀 ＋ 使役對象 ＋ 主動動作】（後接主動施行的動作）。\n- 例句：「媽咪唔畀我夜晚出去玩」（媽媽不讓我晚上出去玩）。\n- 例句：「畀我諗多兩日先決定啦」（讓我多想兩天再決定吧）。\n\n３．被動標記（被害 / 遭受）：表示主語承受某種外力動作與結果，相當於「被」。\n- 語法標誌：結構為【受事主語 ＋ 畀 ＋ 施事者 ＋ 及物動詞 ＋ 結果補語】。\n- 例句：「阿強畀老細鬧咗一餐」（阿強被老闆訓斥了一頓）。\n\n二、歧義消除黃金法則：\n１．觀察動詞後方補語：若動詞後帶有「爛、走、親、咗」等終結性結果補語，且句首主語為承受者，則為被動句。\n２．觀察主語意圖：若句首主語發出許可或阻攔意願（如帶有「唔畀、准唔畀」），則為使役句。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 17 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 17 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 17 in communication."
+          "target": "陳先生每個月出糧都會畀家用太太，從來唔會拖欠。（給予動詞）",
+          "reading": "can4 saan1 saang1 mui5 go3 jyut6 ceot1 loeng4 dou1 wui5 bei2 gaa1 jung6 taai3*2, cung4 loi4 m4 wui5 to1 him3. [tsʰɐn˨˩ saːn˥ saːŋ˥ muːi˩˧ kɔː˧ jyːt̚˨ tsʰɵt̚˥ lœːŋ˨˩ tou˥ wui˩˧ pei˨ kaː˥ jʊŋ˨ tʰaːi˧˥, tsʰʊŋ˨˩ lɔːi˨˩ m̩˨˩ wui˩˧ tʰɔː˥ him˧] (CHUN SAHN-SAHNG MOOI-GOH-YUET CHUT-LEUNG DOH WUI BAY GAH-YOONG TY, CHOONG-LOY M-WUI TOH-HEEM)",
+          "translation": "Every month when Mr. Chan receives his salary, he gives housekeeping money to his wife, never delaying."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元17-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "醫生建議病人要多啲休息，唔好畀自己太大精神壓力。（使役動詞）",
+          "reading": "ji1 sang1 gin3 ji5 beng6 jan4 jiu3 do1 di1 jau1 sik1, m4 hou2 bei2 zi6 gei2 taai3 daai6 zing1 san4 aat3 lik6. [jiː˥ sɐŋ˥ kiːn˧ jiː˩˧ pɪŋ˨ jɐn˨˩ jiu˧ tɔː˥ tiː˥ jɐu˥ sɪk̚˥, m̩˨˩ hou˧˥ pei˨ tsiː˨ kei˧˥ tʰaːi˧ taːi˨ tsɪŋ˥ sɐn˨˩ aːt̚˧ lɪk̚˨] (YEE-SUNG GEEN-YEE BING-YUN YEW DOH-DEE YAU-SIK, M-HOH BAY JEE-GAY TY-DY JING-SUN AHT-LIK)",
+          "translation": "The doctor advises the patient to rest more and not let oneself bear too much mental stress."
+        },
+        {
+          "target": "細路仔喺公園玩嗰陣唔小心畀蜜蜂針親，痛到大喊。（被動標記）",
+          "reading": "sai3 lou6 zai2 hai2 gung1 jyun4*2 waan2 go2 zan6 m4 siu2 sam1 bei2 mat6 fung1 zam1 can1, tung3 dou3 daai6 haam3. [sɐi˧ lou˨ tsɐi˧˥ hɐi˩˧ kʊŋ˥ jyːn˧˥ waːn˧˥ kɔː˧˥ tsɐn˨ m̩˨˩ siu˧˥ sɐm˥ pei˨ mɐt̚˨ fʊŋ˥ tsɐm˥ tsʰɐn˥, tʰʊŋ˧ tou˧ taːi˨ haːm˧] (SY-LOU-JY HY GONG-YUEN WAAN GOH-JUN M-SIU-SUM BAY MUT-FOONG JUM-CHUN, TOONG-DOU DY-HAHM)",
+          "translation": "When the child was playing in the park, he was accidentally stung by a bee and cried loudly from the pain."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【畀字三用歌】「畀錢畀物」係畀予，「畀我去玩」係使令；「畀人整爛」係被動，前後補語分得清！"
+      ],
+      "culturalNotes": [
+        "語言學家指出，「畀」字之多功能性係漢語南方方言「給予動詞語法化為使役動詞與被動標記」之典型代表。掌握「畀」字之三維用法，係衡量粵語達到中高階水準之關鍵分水嶺。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"食藥\":",
+          "prompt": "【功能辨析】句子「媽咪唔畀我睇電視」中，「畀」字所承擔之語法功能係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：發燒錯置）",
-            "混雜生硬詞彙之不規範語句（例項：頭痛未適配）",
-            "聲調助詞搭配欠妥之表達（例項：感冒誤用）"
+            "使役動詞（表示准許、允許） (Causative / Allow)",
+            "被動標記（表示被動承受）",
+            "給予動詞（表示交付物品）",
+            "形容詞最高級標記"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「唔畀我睇」表示不允許我看，此處「畀」為使役動詞。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"食藥\":",
+          "prompt": "【功能辨析】句子「我個銀包尋晚畀小偷扒咗」中，「畀」字所承擔之語法功能係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：頭痛未適配）",
-            "聲調助詞搭配欠妥之表達（例項：感冒誤用）",
-            "語序顛倒嘅非標準句式（例項：發燒錯置）"
+            "被動標記（表示遭受被盜） (Passive Marker)",
+            "使役動詞（表示准許小偷）",
+            "給予動詞（表示送給小偷）",
+            "疑問代名詞"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「銀包畀小偷扒咗」表示錢包被小偷偷走，此處「畀」為被動標記。"
         }
       ]
     },
@@ -7245,15 +7272,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"食藥\": Which sentence is completely correct?",
+          "prompt": "【綜合判斷】下列四個含有「畀」字之粵語句子中，屬於典型「雙賓語給予動詞」用法嘅係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：感冒誤用）",
-            "語序顛倒嘅非標準句式（例項：發燒錯置）",
-            "混雜生硬詞彙之不規範語句（例項：頭痛未適配）"
+            "叔叔畀咗一百蚊利是阿明。 (Uncle gave a 100-dollar red packet to Ah Ming.)",
+            "部電腦畀細佬整爛咗。",
+            "經理唔畀員工請假。",
+            "佢尋日畀雨淋濕咗。"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "選項A中「畀＋一百蚊（物）＋阿明（人）」為標準給予雙賓語用法。"
         }
       ],
       "passThreshold": 0.8
@@ -7264,53 +7291,62 @@
     "subject": "cantonese",
     "unit": 17,
     "lessonNumber": 4,
-    "title": "畀字句同被動態 (The BEI Passive Voice) (第4課)",
+    "title": "自然界與意外事件被動句：「畀雨淋濕」、「畀太陽曬傷」、「畀車撞倒」 (Environmental & Accidental Passives)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元17第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語在自然天氣現象（雨淋、日曬、風吹）與人身意外傷害（滾水淥、紙割、車撞、骨鯁）中「畀 + 自然施事 + V親/濕」之獨特被動表達。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在粵語中，無生命之自然氣候力量（雨、太陽、風）或物理事故對人體造成損害時，廣泛使用「畀」字被動句，並高度黏著身體損傷補語「親」（can1）：\n\n一、自然氣候與環境被動矩陣：\n１．「畀雨淋到濕晒」（bei2 jyu5 lam4 dou3 sap1 saai3）：被大雨淋得全身濕透。\n２．「畀太陽曬傷 / 曬黑」（bei2 taai3 joeng4 saai3 soeng1）：被烈日曬傷或曬黑。\n３．「畀大風吹走咗」（bei2 daai6 fung1 ceoi1 zau2 zo2）：被狂風吹走。\n\n二、日常生活人身意外傷害被動短語（帶損傷補語「親」）：\n１．「親」（can1）在粵語動詞後作結果補語，專門表示人身遭受意外觸碰、燙傷、割傷或輕微受損：\n- 「畀滾水淥親」（bei2 gwan2 seoi2 luk6 can1）：被開水燙傷。\n- 「畀張紙割親」（bei2 zoeng1 zi2 got3 can1）：被紙張邊緣割傷手指。\n- 「畀魚骨鯁親」（bei2 jyu4 gwat1 gang2 can1）：被魚刺骨頭卡住喉嚨。\n- 「畀蜜蜂針親」（bei2 mat6 fung1 zam1 can1）：被蜜蜂螫傷。\n- 「畀車撞親 / 撞倒」（bei2 ce1 zong6 can1）：被車輛碰撞受傷。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 17 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 17 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 17 in communication."
+          "target": "出門嗰陣突然落起狂風暴雨，我冇帶遮，成身畀雨淋到濕晒。",
+          "reading": "ceot1 mun4 go2 zan6 tat1 jin4 lok6 hei2 kwong4 fung1 bou6 jyu5, ngo5 mou5 daai3 ze1, seng4 san1 bei2 jyu5 lam4 dou3 sap1 saai3. [tsʰɵt̚˥ muːn˨˩ kɔː˧˥ tsɐn˨ tʰɐt̚˥ jiːn˨˩ lɔːk̚˨ hei˧˥ kʰwɔːŋ˨˩ fʊŋ˥ pou˨ jyː˩˧, ŋɔː˩˧ mou˩˧ taːi˧ tsɛː˥, sɛːŋ˨˩ sɐn˥ pei˨ jyː˩˧ lɐm˨˩ tou˧ sɐp̚˥ saːi˧] (CHUT-MOON GOH-JUN TUT-YEEN LOK-HEY KWONG-FOONG BOU-YUE, NGOH MO-DY JEH, SENG-SUN BAY YUE LUM DOU SUP-SY)",
+          "translation": "When I went out it suddenly started pouring rain and wind; I didn't bring an umbrella and my whole body was completely soaked by the rain."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元17-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "煮滾水嗰陣一定要格外留神，千祈唔好畀滾水淥親手。",
+          "reading": "zyu2 gwan2 seoi2 go2 zan6 jat1 ding6 jiu3 gaak3 ngoi6 lau4 san4, cin1 kei4 m4 hou2 bei2 gwan2 seoi2 luk6 can1 sau2. [tsyː˧˥ kʷɐn˧˥ sɵy˧˥ kɔː˧˥ tsɐn˨ jɐt̚˥ tɪŋ˨ jiu˧ kaːk̚˧ ŋɔːi˨ lɐu˨˩ sɐn˨˩, tsʰiːn˥ kʰei˨˩ m̩˨˩ hou˧˥ pei˨ kʷɐn˧˥ sɵy˧˥ lʊk̚˨ tsʰɐn˥ sɐu˧˥] (JYUE GWUN-SOEY GOH-JUN YUT-DING YEW GARK-NGOY LAU-SUN, CHEEN-KEY M-HOH BAY GWUN-SOEY LOOK-CHUN SAU)",
+          "translation": "When boiling water one must definitely be exceptionally attentive; by all means do not let your hands be scalded by boiling water."
+        },
+        {
+          "target": "食海鮮魚類嗰陣要慢慢𡁲，小心唔好畀魚骨鯁親喉嚨。",
+          "reading": "sik6 hoi2 sin1 jyu4 leoi6 go2 zan6 jiu3 maan6 maan6*2 zeoi3, siu2 sam1 m4 hou2 bei2 jyu4 gwat1 gang2 can1 hau4 lung4. [sɪk̚˨ hɔːi˧˥ siːn˥ jyː˨˩ lɵy˨ kɔː˧˥ tsɐn˨ jiu˧ maːn˨ maːn˧˥ tsɵy˧, siu˧˥ sɐm˥ m̩˨˩ hou˧˥ pei˨ jyː˨˩ kʷɐt̚˥ kɐŋ˧˥ tsʰɐn˥ hɐu˨˩ lʊŋ˨˩] (SIK HOY-SEEN YUE-LOEY GOH-JUN YEW MAHN-MAHN JOEY, SIU-SUM M-HOH BAY YUE-GWUT GUNG-CHUN HAU-LOONG)",
+          "translation": "When eating seafood fish dishes one must chew slowly; be careful not to let your throat be choked by fish bones."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【意外傷害訣】風吹雨淋自然力，身體受損加個「親」；滾水淥親魚骨鯁，小心謹慎保平安！"
+      ],
+      "culturalNotes": [
+        "粵語中之「親」（can1）作為結果補語極具特色，專門用於「跌親」（摔倒）、「撞親」（撞傷）、「凍親」（著涼）、「淥親」（燙傷）等意外身體創傷，體現出對身體感受極為細膩之語言捕捉。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"發燒\":",
+          "prompt": "【受傷補語】在粵語中描述不小心被滾燙之開水燙傷了手，正確之動詞補語組合係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：頭痛錯置）",
-            "混雜生硬詞彙之不規範語句（例項：感冒未適配）",
-            "聲調助詞搭配欠妥之表達（例項：咳嗽誤用）"
+            "畀滾水淥親手 (bei2 gwan2 seoi2 luk6 can1 sau2)",
+            "畀滾水食親手",
+            "畀滾水行親手",
+            "畀滾水睇親手"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「淥」（luk6）表示燙，「淥親」表示被熱水燙傷。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"發燒\":",
+          "prompt": "【氣候被動】下雨天出門未帶雨具導致衣服全部濕透，地道粵語表達係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：感冒未適配）",
-            "聲調助詞搭配欠妥之表達（例項：咳嗽誤用）",
-            "語序顛倒嘅非標準句式（例項：頭痛錯置）"
+            "畀雨淋到濕晒 (bei2 jyu5 lam4 dou3 sap1 saai3)",
+            "畀雨曬到乾晒",
+            "畀雨吹到飛晒",
+            "畀雨煮到熟晒"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「畀雨淋到濕晒」表示被雨水淋得全身濕透。"
         }
       ]
     },
@@ -7318,15 +7354,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"發燒\": Which sentence is completely correct?",
+          "prompt": "【字義理解】句子「食魚小心畀魚骨鯁親」中，「鯁」（gang2）之具體意思係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：咳嗽誤用）",
-            "語序顛倒嘅非標準句式（例項：頭痛錯置）",
-            "混雜生硬詞彙之不規範語句（例項：感冒未適配）"
+            "卡在喉嚨中咽不下去 (Choked / Stuck in throat)",
+            "把魚骨咬碎",
+            "把魚骨吐出來",
+            "把魚骨煮成湯"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「鯁」（gang2）在粵語中指骨頭或異物卡在食道咽喉。"
         }
       ],
       "passThreshold": 0.8
@@ -7337,53 +7373,62 @@
     "subject": "cantonese",
     "unit": 17,
     "lessonNumber": 5,
-    "title": "畀字句同被動態 (The BEI Passive Voice) (第5課)",
+    "title": "粵語被動句之情感色彩、被害義與中性/正向被動語態實戰 (Valence in Cantonese Passives)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元17第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握傳統粵語「被害被動（Adverse Passive）」與現代公務/新聞「中性/正向被動（Formal Passive）」之情感色彩差異與得體語用切換。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在嶺南語言學中，粵語被動句之感情色彩經歷了從傳統市井口語到現代公務語體之重要演進：\n\n一、傳統粵語被動句之強烈「被害義（Adverse Valence）」：\n１．在純粹之傳統廣州話口語中，被動句絕大多數帶有「遭受不幸、蒙受損害、違背心願」之消極色彩。\n- 例如：「畀人偷咗」、「畀車撞親」、「畀老細鬧」。\n２．在日常表達令人高興之正向事件時，傳統口語極少使用被動句，而傾向使用主動句或受事主題句：\n- 傳統傾向說：「大學收咗我」（大學錄取了我），而極少說「我畀大學收咗」。\n\n二、現代書面與新聞傳媒中之「中性與褒義被動句」：\n１．受現代公文、法律條文及國際語言接觸之影響，現代粵語在正式場合亦接納了中性與正向之「畀」字被動句：\n- 嘉獎與表彰：「陳醫生畀全體同仁推選為本年度最佳傑出員工」（中性/褒義）。\n- 錄取與聘任：「佢成功畀一間跨國大企業錄取為高級顧問」。\n- 公共決策：「呢項新法案已經畀立法會正式通過」。\n\n三、語用語境切換決策：\n１．市井日常閒聊：表達喜事宜用主動句（「老細讚我呀！」）；表達不幸用被動句（「畀老細鬧」）。\n２．正式公務會議與新聞播報：可規範使用中性「畀」字被動句陳述客觀事實。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 17 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 17 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 17 in communication."
+          "target": "經過全體員工投票，張經理畀大家選為年度最優秀管理人員。（正向公務被動）",
+          "reading": "ging1 gwo3 cyun4 tai2 gung1 jan4 tau4 piu3, zoeng1 ging1 lei5 bei2 daai6 gaa1 syun2 wai4 nin4 dou6 zeoi3 jau1 sau3 gun2 lei5 jan4 jyun4. [kɪŋ˥ kʷɔː˧ tsʰyːn˨˩ tʰɐi˧˥ kʊŋ˥ jɐn˨˩ tʰɐu˨˩ pʰiːu˧, tsœːŋ˥ kɪŋ˥ lei˩˧ pei˨ taːi˨ kaː˥ syːn˧˥ wɐi˨˩ niːn˨˩ tou˨ tsɵy˧ jɐu˥ sɐu˧ kuːn˧˥ lei˩˧ jɐn˨˩ jyːn˨˩] (GING-GWOR CHUEN-TY GONG-YUN TAU-PEW, JEUNG GING-LY BAY DY-GAH SUEN WAI NEEN-DOU JEOY YAU-SAU GOON-LY YUN-YUEN)",
+          "translation": "After voting by all employees, Manager Cheung was elected by everyone as the most outstanding managerial personnel of the year."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元17-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "阿強今日好開心，因為佢遞交嘅創業企劃書畀投資者選中咗。（正向被動）",
+          "reading": "aa3 koeng4 gam1 jat6 hou2 hoi1 sam1, jan1 wai6 keoi5 dai6 gaau1 ge3 cong3 jip6 kei5 waak6 syu1 bei2 tau4 zi1 ze2 syun2 zung3 zo2. [aː˧ kʰœːŋ˨˩ kɐm˥ jɐt˨ hou˧˥ hɔːi˥ sɐm˥, jɐn˥ wɐi˨ kʰɵy˩˧ tɐi˨ kaːu˥ kɛː˧ tsʰɔːŋ˧ jiːp̚˨ kʰei˩˧ waːk̚˨ syː˥ pei˨ tʰɐu˨˩ tsiː˥ tsɛː˧˥ syːn˧˥ tsʊŋ˧ tsɔː˧˥] (AH-KEUNG GUM-YUT HOH HOI-SUM, YUN-WAI KUY DY-GAU GEH CHONG-YIP KEY-WAHK-SYU BAY TAU-JEE-JEH SUEN-JOONG-JOR)",
+          "translation": "Ah Keung is very happy today because the startup proposal he submitted was selected by investors."
+        },
+        {
+          "target": "日常傾偈如果遇到喜事，我哋通常直接講「老細升咗我職」會顯得更加自然。（口語主動句）",
+          "reading": "jat6 seung4 king1 gai2 jyu4 gwo2 jyu6 dou2 hei2 si6, ngo5 dei6 tung1 soeng4 zik6 zip3 gong2 'lou5 sai3 sing1 zo2 ngo5 zik1' wui5 hin2 dak1 gang3 gaa1 zi6 jin4. [jɐt˨ sœːŋ˨˩ kʰɪŋ˥ kɐi˧˥ jyː˨˩ kʷɔː˧˥ jyː˨ tou˧˥ hei˧˥ siː˨, ŋɔː˩˧ tei˨ tʰʊŋ˥ sœːŋ˨˩ tsɪk̚˨ tsiːp̚˧ kɔːŋ˧˥ 'lou˧˥ sɐi˧ sɪŋ˥ tsɔː˧˥ ŋɔː˩˧ tsɪk̚˥' wui˩˧ hin˩˧ tɐk̚˥ kɐŋ˧ kaː˥ tsiː˨ jiːn˨˩] (YUT-SEUNG KING-GY YUE-GWOR YUE-DOU HEY-SEE, NGOH-DAY TOONG-SEUNG JIK-JIP GONG 'LOU-SY SING-JOR NGOH JIK' WUI HEEN-DUK GUNG-GAH JEE-YEEN)",
+          "translation": "In daily chats, if encountering happy events, we usually say directly 'The boss promoted me', which sounds much more natural."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【被動情感訣】市井被動多不幸，遇難蒙冤「畀」字陳；公文褒獎亦可用，日常報喜主動真！"
+      ],
+      "culturalNotes": [
+        "粵語傳統文化忌諱負面不祥，因此口語中「畀」字句往往帶有防禦與訴苦心理。現代公務語言雖然吸收了中性被動句，但在街坊日常閒聊中，報喜時說「我中咗獎」比說「我畀幸運選中」地道百倍。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"頭痛\":",
+          "prompt": "【語用得體】在日常生活中向朋友分享「我升職了」之喜訊，最地道自然之口語表達係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：感冒錯置）",
-            "混雜生硬詞彙之不規範語句（例項：咳嗽未適配）",
-            "聲調助詞搭配欠妥之表達（例項：喉嚨痛誤用）"
+            "老細升咗我職！ (The boss promoted me! / Active SVO)",
+            "我畀老細升職咗。",
+            "我畀人升咗職。",
+            "職畀老細升咗我。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "粵語口語表達正向喜事時，首選主動句「老細升咗我職」，避免生硬被動態。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"頭痛\":",
+          "prompt": "【公文語體】在正式公司公告中表彰某位傑出員工，規範之現代公務被動句係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：咳嗽未適配）",
-            "聲調助詞搭配欠妥之表達（例項：喉嚨痛誤用）",
-            "語序顛倒嘅非標準句式（例項：感冒錯置）"
+            "李經理畀全體同仁推選為本年度模範員工。 (Manager Li was elected by all colleagues...)",
+            "李經理畀全體同仁整爛咗。",
+            "全體同仁畀李經理推選咗。",
+            "李經理推選咗畀全體同仁。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "正式公文中可使用「受事＋畀＋施事＋推選為……」表達客觀推選表彰。"
         }
       ]
     },
@@ -7391,15 +7436,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"頭痛\": Which sentence is completely correct?",
+          "prompt": "【語言學常識】傳統純口語粵語中，「畀」字被動句最核心之語義特徵係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：喉嚨痛誤用）",
-            "語序顛倒嘅非標準句式（例項：感冒錯置）",
-            "混雜生硬詞彙之不規範語句（例項：咳嗽未適配）"
+            "強烈之「被害義」與遭受不幸色彩 (Adverse / Victim Valence)",
+            "專門用於表達強烈祝賀",
+            "只能用於天氣預報",
+            "只能用於醫學診斷"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "傳統粵語口語被動句主要用於表達遭受損害、挫折、委屈等被害語義。"
         }
       ],
       "passThreshold": 0.8
