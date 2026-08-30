@@ -2535,53 +2535,62 @@
     "subject": "ukrainian",
     "unit": 6,
     "lessonNumber": 1,
-    "title": "Родовий відмінок: приналежність та заперечення (Genitive Case) (Part 1)",
+    "title": "Родовий відмінок: вираження присвійності та синтаксис конструкцій приналежності (Genitive Possession)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 6.1) with authentic linguistic precision.",
+    "objective": "Опанувати вираження посесивності та приналежності за допомогою родового відмінка (кого? чого?), питання чий/чия/чиє/чиї та синтаксичні моделі означення.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Родовий відмінок (Genitive Case / кого? чого?) є одним із найуживаніших непрямих відмінків і слугує основним засобом вираження присвійності:\n\n1. Вираження приналежності (Possession / чий? чия? чиє? чиї?):\n- В українській мові приналежність виражається конструкцією «Іменник (об'єкт) + Іменник у родовому відмінку (власник)»:\n  • «Книга (чия?) викладача»\n  • «Будинок (чий?) мого рідного брата»\n  • «Столиця (чого?) незалежної України»\n  • «Історія (чого?) українського народу»\n  • «Голос (кого?) відомої співачки»\n\n2. Питальні речення для з'ясування власника:\n- «Чий це підручник?» — «Це підручник нашого професора.»\n- «Чия це аудиторія?» — «Це аудиторія першого курсу.»\n- «Чиє це пальто?» — «Це пальто мого друга.»\n\n3. Співвідношення з присвійними прикметниками:\n- Конструкція з родовим відмінком («кабінет директора») є універсальною та стилістично нейтральною порівняно з присвійними прикметниками («директорів кабінет»).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Київ — серце української культури та історичний центр нашої держави.",
+          "reading": "[ˈkɪjiw — ˈsɛrt͡sɛ ukrɐˈjinʲsʲkɔjɪ kulʲˈturɪ tɑ istɔˈrɪtʃnɪj t͡sɛntr ˈnɑʃɔjɪ dɛrˈʒɑwɪ] (KY-yeev — SER-tseh oo-krah-YEEN-s'koh-yee kool'-TOO-ry tah ees-toh-RYCH-nyi TSENTR NAH-shoh-yee der-ZHAH-vy)",
+          "translation": "Kyiv is the heart of Ukrainian culture and the historical center of our state."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 6-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Ми уважно вивчаємо наукові праці видатного українського вченого.",
+          "reading": "[mɪ uˈwɑʒnɔ wɪwˈtʃɑjɛmɔ nɐuˈkɔwʲi ˈprɑt͡sʲi wɪdɐtˈnɔɦɔ ukrɐˈjinʲsʲkɔɦɔ ˈwtʃɛnɔɦɔ] (my oo-VAHZH-noh vyv-CHAH-yeh-moh nah-oo-KOH-vee PRAH-tsee vy-daht-NOH-hoh oo-krah-YEEN-s'koh-hoh VCHEH-noh-hoh)",
+          "translation": "We attentively study the scientific works of the prominent Ukrainian scholar."
+        },
+        {
+          "target": "Це затишний кабінет нашого нового декана факультету філології.",
+          "reading": "[t͡sɛ ˈzɑtɪʃnɪj kɐbʲiˈnɛt ˈnɑʃɔɦɔ nɔˈwɔɦɔ dɛˈkɑnɑ fɐkulʲˈtɛtu fʲilɔˈlɔɦijɪ] (tseh ZAH-tysh-nyi kah-bee-NET NAH-shoh-hoh noh-VOH-hoh deh-KAH-nah fah-kool'-TEH-too fee-loh-LOH-hee-yee)",
+          "translation": "This is the cozy office of our new dean of the faculty of philology."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Кого?» і «Чого?» — чия річ, покажи; Родовий відмінок володаря надійно збережи!"
+      ],
+      "culturalNotes": [
+        "Формули шанобливого ставлення до предків та родової пам'яті («пам'ять роду», «земля батьків») традиційно оформлюються в українській мові саме конструкціями родового відмінка."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Вокзал\":",
+          "prompt": "Оберіть речення, в якому правильно виражено значення приналежності за допомогою родового відмінка:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.1.",
-            "Неправильне відмінкове узгодження зі словом «Аеропорт»",
-            "Порушення законів евфонії та словотворення для «Вулиця»",
-            "Стилістично некоректна синтаксична конструкція з «Місто»"
+            "Це новий автомобіль мого старшого брата. (Genitive of possession: чий?)",
+            "Це новий автомобіль моєму старшому брату.",
+            "Це новий автомобіль моїм старшим братом.",
+            "Це новий автомобіль на моєму старшому братові."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Конструкція «автомобіль мого старшого брата» відповідає на питання «Чий?» і граматично бездоганно вжита у родовому відмінку."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Вокзал\":",
+          "prompt": "Як правильно запитати українською мовою, кому належить ця книга?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.1.",
-            "Порушення законів евфонії та словотворення для «Вулиця»",
-            "Стилістично некоректна синтаксична конструкція з «Місто»",
-            "Неправильне відмінкове узгодження зі словом «Аеропорт»"
+            "Чия це книга? (Whose book is this?)",
+            "Хто це книга?",
+            "Кому це книга?",
+            "Ким це книга?"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Питальний займенник «Чия?» узгоджується з іменником жіночого роду «книга» у називному відмінку для з'ясування посесивності."
         }
       ]
     },
@@ -2589,17 +2598,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Вокзал\": Which sentence is completely correct?",
+          "prompt": "Оберіть варіант, де всі залежні іменники виражають приналежність у родовому відмінку:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.1.",
-            "Стилістично некоректна синтаксична конструкція з «Місто»",
-            "Неправильне відмінкове узгодження зі словом «Аеропорт»",
-            "Порушення законів евфонії та словотворення для «Вулиця»"
+            "Лекція професора, кабінет директора, відповідь студента",
+            "Лекція професором, кабінет директором, відповідь студентом",
+            "Лекція професорові, кабінет директору, відповідь студенту",
+            "Лекція професорі, кабінет директорі, відповідь студенті"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Слова «професора», «директора», «студента» стоять у формі родового відмінка однини і позначають власників дій або об'єктів."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u6-l2": {
@@ -2607,53 +2617,62 @@
     "subject": "ukrainian",
     "unit": 6,
     "lessonNumber": 2,
-    "title": "Родовий відмінок: приналежність та заперечення (Genitive Case) (Part 2)",
+    "title": "Родовий відмінок при запереченні: частка «не» та безособові конструкції з «немає / нема» (Genitive of Negation)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 6.2) with authentic linguistic precision.",
+    "objective": "Опанувати обов'язкове вживання родового відмінка при заперечних дієсловах (замість знахідного) та в безособових реченнях зі словом «немає/нема».",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові діє залізне граматичне правило заперечного керування:\n\n1. Заперечення прямого додатка (частка «не» + дієслово):\n- Якщо перехідне дієслово вживається із заперечною часткою «не», прямий додаток майже завжди переходить зі знахідного у родовий відмінок:\n  • Ствердження (Знахідний): «Я читаю статтю / маю час / бачу результат».\n  • Заперечення (Родовий): «Я не читаю статті / не маю часу / не бачу результату».\n\n2. Безособові конструкції зі словом «немає / нема» (There is no...):\n- На позначення відсутності особи, предмета чи явища вживається слово «немає» (скорочено «нема»), а іменник обов'язково ставиться в родовий відмінок:\n  • «У мене немає вільного часу».\n  • «Сьогодні немає занять в університеті».\n  • «У селі немає швидкісного метро».\n  • «Тут немає жодного сумніву».\n\n3. Минулий та майбутній час заперечного буття:\n- Минулий час: «Не було (чого?) часу / занять».\n- Майбутній час: «Не буде (чого?) дощу / проблем».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Сьогодні в мене зовсім немає вільного часу для тривалого відпочинку.",
+          "reading": "[sʲɔˈɦɔdnʲi w ˈmɛnɛ ˈzɔwsʲim nɛˈmɑjɛ ˈwʲilʲnɔɦɔ ˈt͡ʃɑsu dlʲɑ trɪˈwɑlɔɦɔ wʲidpɔˈtʃɪnku] (syoh-HOHD-nee v MEH-neh ZOV-seem neh-MAH-yeh VEEL'-noh-hoh CHAH-soo dlyah try-VAH-loh-hoh veed-poh-CHYN-koo)",
+          "translation": "Today I have absolutely no free time for a long rest."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 6-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Студент не зрозумів цього складного правила та не виконав домашнього завдання.",
+          "reading": "[stuˈdɛnt nɛ zrɔzuˈmʲiw ˈt͡sʲɔɦɔ sklɐdˈnɔɦɔ ˈprɑwɪlɑ tɑ nɛ ˈwɪkɔnɐw dɔˈmɑʃnʲɔɦɔ zɐwˈdɑnʲːɑ] (stoo-DENT neh zroh-zoo-MEEV TS'OH-hoh sklahd-NOH-hoh PRAH-vy-lah tah neh VY-koh-nahv doh-MAHSH-n'oh-hoh zahv-DAHN-nyah)",
+          "translation": "The student did not understand this complex rule and did not complete the homework."
+        },
+        {
+          "target": "У нас немає жодних сумнівів щодо світлого майбутнього нашої країни.",
+          "reading": "[u nɑs nɛˈmɑjɛ ˈʒɔdnɪx sumˈnʲiwʲiw ʃtʃɔˈdɔ ˈsʲwʲitlɔɦɔ mɐjˈbutnʲɔɦɔ ˈnɑʃɔjɪ krɐˈjinɪ] (oo NAHS neh-MAH-yeh ZHOHD-nykh soom-NEE-veev shchoh-DOH SVEET-loh-hoh my-BOOT-n'oh-hoh NAH-shoh-yee krah-YEE-ny)",
+          "translation": "We have no doubts regarding the bright future of our country."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Не» стоїть перед дієсловом, «немає» лунає щомиті — у родовому відмінку всі речі розкриті!"
+      ],
+      "culturalNotes": [
+        "Збереження родового відмінка при запереченні є важливою ознакою автентичного українського синтаксису, що протистоїть впливу мов з аналітичним запереченням."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Аеропорт\":",
+          "prompt": "Оберіть речення з правильним граматичним оформленням заперечної конструкції:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.2.",
-            "Неправильне відмінкове узгодження зі словом «Вулиця»",
-            "Порушення законів евфонії та словотворення для «Місто»",
-            "Стилістично некоректна синтаксична конструкція з «Село»"
+            "У нас сьогодні немає жодного важливого уроку. (Genitive after немає)",
+            "У нас сьогодні немає жодний важливий урок.",
+            "У нас сьогодні немає жодному важливому уроку.",
+            "У нас сьогодні немає жодним важливим уроком."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Після безособового слова «немає» іменники та прикметники обов'язково ставляться у формі родового відмінка: «немає жодного уроку»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Аеропорт\":",
+          "prompt": "Як правильно трансформувати ствердне речення «Я знаю відповідь» у заперечне?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.2.",
-            "Порушення законів евфонії та словотворення для «Місто»",
-            "Стилістично некоректна синтаксична конструкція з «Село»",
-            "Неправильне відмінкове узгодження зі словом «Вулиця»"
+            "Я не знаю відповіді (Genitive with negative verb)",
+            "Я не знаю відповідь",
+            "Я не знаю відповіддю",
+            "Я не знаю відповідістю"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "При запереченні прямий додаток вимагає родового відмінка: «не знаю відповіді»."
         }
       ]
     },
@@ -2661,17 +2680,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Аеропорт\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, де допущено синтаксичну помилку при запереченні:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.2.",
-            "Стилістично некоректна синтаксична конструкція з «Село»",
-            "Неправильне відмінкове узгодження зі словом «Вулиця»",
-            "Порушення законів евфонії та словотворення для «Місто»"
+            "Я не бачу цей цікавий фільм сьогодні ввечері.",
+            "Я не бачу цього цікавого фільму сьогодні ввечері.",
+            "У бібліотеці немає потрібного підручника.",
+            "Ми не чуємо твого голосу крізь шум."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Речення «Я не бачу цей цікавий фільм» містить помилку (вжито знахідний замість родового). Правильно: «Я не бачу цього цікавого фільму»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u6-l3": {
@@ -2679,53 +2699,62 @@
     "subject": "ukrainian",
     "unit": 6,
     "lessonNumber": 3,
-    "title": "Родовий відмінок: приналежність та заперечення (Genitive Case) (Part 3)",
+    "title": "Закінчення родового відмінка іменників чоловічого роду: диференціація -а/-я та -у/-ю (Genitive -a/-ya vs -u/-yu)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 6.3) with authentic linguistic precision.",
+    "objective": "Опанувати правила розмежування закінчень -а/-я (істоти, конкретні предмети, міста, міри) та -у/-ю (речовини, збірні, абстрактні поняття, країни) у чоловічому роді родового відмінка.",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові іменники чоловічого роду II відміни у родовому відмінку мають два типи закінчень: «-а / -я» або «-у / -ю»:\n\n1. Закінчення «-а / -я» мають:\n- Назви істот: «брата», «студента», «кота», «вчителя».\n- Чітко окреслені конкретні предмети: «стола», «ножа», «олівця», «автомобіля», «паперу -> папірця».\n- Назви міст та населених пунктів: «Києва», «Львова», «Харкова», «Парижа», «Лондона».\n- Точні часові відрізки, дні, місяці: «дня», «тижня», «січня», «травня», «вересня».\n- Грошові одиниці та міри: «долара», «євра», «метра», «кілограма».\n\n2. Закінчення «-у / -ю» мають:\n- Речовини, матеріали, продукти: «цукру», «чаю», «меду», «піску», «кисню».\n- Збірні поняття: «народу», «лісу», «гайку», «колективу», «парку».\n- Абстрактні поняття, явища природи, почуття, процеси: «миру», «болю», «руху», «успіху», «розвитку», «морозу», «вітру».\n- Назви країн, континентів, регіонів: «Китаю», «Єгипту», «Кавказу», «Донбасу» (але: назви з суфіксами -ськ: «Сибіру»).\n- Установи, організації, будівлі взагалі: «університету», «інституту», «заводу», «вокзалу».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Ми вирушаємо з Києва до Львова наприкінці травня для наукового розвитку.",
+          "reading": "[mɪ wɪruˈʃɑjɛmɔ z ˈkɪjɛwɑ dɔ ˈlʲwɔwɑ nɐprɪˈkʲint͡sʲi ˈtrɑwnʲɑ dlʲɑ nɐuˈkɔwɔɦɔ rɔzˈwɪtku] (my vy-roo-SHAH-yeh-moh z KY-yeh-vah doh LVOH-vah nah-pry-KEEN-tsee TRAHV-n'ah dlyah nah-oo-KOH-voh-hoh roz-VYT-koo)",
+          "translation": "We set out from Kyiv to Lviv at the end of May for scientific development."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 6-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Він випив чашку запашного гарячого чаю з ложкою свіжого меду.",
+          "reading": "[wʲin ˈwɪpɪw ˈtʃɑʃku zɐpɐʃˈnɔɦɔ ɦɐˈrʲɑtʃɔɦɔ ˈtʃɑju z ˈlɔʒkɔju ˈsʲwʲiʒɔɦɔ ˈmɛdu] (VEEN VY-pyv CHAHSH-koo zah-pahsh-NOH-hoh hah-RYAH-choh-hoh CHAH-yoo z LOHZH-koh-yoo SVEE-zhoh-hoh MEH-doo)",
+          "translation": "He drank a cup of aromatic hot tea with a spoonful of fresh honey."
+        },
+        {
+          "target": "Біля нового вокзалу немає жодного вільного автомобіля.",
+          "reading": "[ˈbʲilʲɑ nɔˈwɔɦɔ wɔkˈzɑlu nɛˈmɑjɛ ˈʒɔdnɔɦɔ ˈwʲilʲnɔɦɔ ɐwtɔmɔˈbʲilʲɑ] (BEE-lyah noh-VOH-hoh vohk-ZAH-loo neh-MAH-yeh ZHOHD-noh-hoh VEEL'-noh-hoh ahv-toh-moh-BEE-lyah)",
+          "translation": "Near the new station there is not a single available automobile."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Місто, місяць і предмет — «-а» напише нам поет; А речовина, почуття і рух — «-у» потішить серце й слух!"
+      ],
+      "culturalNotes": [
+        "Розмежування закінчень -а/-у в родовому відмінку чоловічого роду є тонким барометром мовного чуття та високої культури українського мовлення."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Вулиця\":",
+          "prompt": "Оберіть правильну пару закінчень родового відмінка для міста Київ та речовини цукор:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.3.",
-            "Неправильне відмінкове узгодження зі словом «Місто»",
-            "Порушення законів евфонії та словотворення для «Село»",
-            "Стилістично некоректна синтаксична конструкція з «Магазин»"
+            "Києва (місто: -а) та цукру (речовина: -у)",
+            "Києву та цукра",
+            "Києва та цукра",
+            "Києву та цукру"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Назви міст мають закінчення «-а» («Києва»), а речовини — «-у» («цукру»)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Вулиця\":",
+          "prompt": "Яке закінчення матиме абстрактне слово «розвиток» у родовому відмінку однини?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.3.",
-            "Порушення законів евфонії та словотворення для «Село»",
-            "Стилістично некоректна синтаксична конструкція з «Магазин»",
-            "Неправильне відмінкове узгодження зі словом «Місто»"
+            "Закінчення -у: розвитку (Abstract concept takes -u)",
+            "Закінчення -а: розвитка",
+            "Закінчення -ом: розвитком",
+            "Закінчення -е: розвитке"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Абстрактні поняття та процеси у родовому відмінку чоловічого роду мають закінчення «-у»: «розвитку»."
         }
       ]
     },
@@ -2733,17 +2762,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Вулиця\": Which sentence is completely correct?",
+          "prompt": "Оберіть рядок, у якому ВСІ іменники чоловічого роду в родовому відмінку мають закінчення «-а / -я»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.3.",
-            "Стилістично некоректна синтаксична конструкція з «Магазин»",
-            "Неправильне відмінкове узгодження зі словом «Місто»",
-            "Порушення законів евфонії та словотворення для «Село»"
+            "Студента, стола, Харкова, січня, долара",
+            "Чайку, миру, болю, народу, лісу",
+            "Цукру, вітру, заводу, університету, руху",
+            "Китаю, вокзалу, кисню, піску, меду"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Істота («студента»), конкретний предмет («стола»), місто («Харкова»), місяць («січня»), валюта («долара») мають закінчення «-а»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u6-l4": {
@@ -2751,53 +2781,62 @@
     "subject": "ukrainian",
     "unit": 6,
     "lessonNumber": 4,
-    "title": "Родовий відмінок: приналежність та заперечення (Genitive Case) (Part 4)",
+    "title": "Родовий відмінок іменників жіночого та середнього роду: парадигми відмінювання (Genitive Feminine & Neuter)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 6.4) with authentic linguistic precision.",
+    "objective": "Опанувати творення родового відмінка жіночого роду (тверда основа на -и, м'яка на -і/-ї, III відміна на -і/-и) та середнього роду (на -а/-я).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Іменники жіночого та середнього роду у родовому відмінку однини мають такі чіткі регулярні парадигми:\n\n1. Жіночий рід (I відміна):\n- Тверда група (на «-а») -> закінчення «-и»:\n  • «Вода -> склянка води»\n  • «Мама -> порада мами»\n  • «Україна -> прапор України»\n  • «Книга -> сторінка книги»\n- М'яка та мішана групи (на «-я», «-а» після шиплячих) -> закінчення «-і» / «-ї»:\n  • «Пісня -> мелодія пісні»\n  • «Земля -> краса землі»\n  • «Мрія -> досягнення мрії»\n  • «Круча -> берег кручі»\n\n2. Жіночий рід (III відміна — на приголосний):\n- Закінчення «-і» (або паралельне нормативне закінчення «-и» за чинним правописом):\n  • «Ніч -> тиша ночі (ночи)»\n  • «Радість -> сльози радості (радости)»\n  • «Любов -> світло любові (любови)»\n\n3. Середній рід (II та IV відміни):\n- Закінчення «-а» (після твердих приголосних на -о):\n  • «Місто -> жителі міста», «село -> околиця села», «вікно -> скло вікна».\n- Закінчення «-я» (після м'яких та подовжених):\n  • «Море -> глибина моря», «життя -> сенс життя», «завдання -> умови завдання».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Студенти із захопленням слухають чарівну мелодію української народної пісні.",
+          "reading": "[stuˈdɛntɪ iz zɐxɔpˈlɛnʲːɐm ˈsluxɑjutʲ tʃɐrʲiwˈnu mɛˈlɔdʲiju ukrɐˈjinʲsʲkɔjɪ nɐˈrɔdnɔjɪ ˈpʲisʲnʲi] (stoo-DEN-ty eez zah-khohp-LEN-nyahm SLOO-khah-yoot' chah-reev-NOO meh-LOH-dee-yoo oo-krah-YEEN-s'koh-yee nah-ROHD-noh-yee PEES-nee)",
+          "translation": "Students listen with delight to the enchanting melody of a Ukrainian folk song."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 6-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Жителі великого міста прагнуть до спокійного та гармонійного життя.",
+          "reading": "[ˈʒɪtɛlʲi wɛˈlɪkɔɦɔ ˈmʲistɑ ˈprɑɦnutʲ dɔ spɔˈkʲijnɔɦɔ tɑ ɦɐrmɔˈnʲijnɔɦɔ ʒɪtʲˈtʲɑ] (ZHY-teh-lee veh-LY-koh-hoh MEES-tah PRAH-hnoot' doh spoh-KEEY-noh-hoh tah har-moh-NEEY-noh-hoh zhyt-TYAH)",
+          "translation": "Residents of the large city strive for a peaceful and harmonious life."
+        },
+        {
+          "target": "Немає нічого дорожчого за щире світло материнської любові.",
+          "reading": "[nɛˈmɑjɛ nʲiˈtʃɔɦɔ dɔˈrɔʒtʃɔɦɔ zɑ ˈʃtʃirɛ ˈsʲwʲitlɔ mɐtɛˈrɪnsʲkɔjɪ lʲuˈbɔwʲi] (neh-MAH-yeh nee-CHOH-hoh doh-ROHZH-choh-hoh zah SHCHEE-reh SVEET-loh mah-teh-RYN-s'koh-yee lyoo-BOH-vee)",
+          "translation": "There is nothing more precious than the sincere light of a mother's love."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Вода — води, а пісня — пісні; Село — села, завдання — завдання: родовий відмінок лунає в пісні щодня!"
+      ],
+      "culturalNotes": [
+        "Варіантні форми родового відмінка іменників III відміни на «-и» («радости», «любови», «незалежности») повертають українській мові її питомий історичний колорит згідно з правописом 2019 року."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Місто\":",
+          "prompt": "Оберіть правильну форму родового відмінка для жіночого слова «Україна»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.4.",
-            "Неправильне відмінкове узгодження зі словом «Село»",
-            "Порушення законів евфонії та словотворення для «Магазин»",
-            "Стилістично некоректна синтаксична конструкція з «Гроші»"
+            "України (Feminine hard stem Genitive ending in -y)",
+            "Україні",
+            "Україну",
+            "Україною"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Іменник твердої групи «Україна» у родовому відмінку має закінчення «-и»: «України»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Місто\":",
+          "prompt": "Яке закінчення матиме іменник середнього роду «море» у родовому відмінку однини?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.4.",
-            "Порушення законів евфонії та словотворення для «Магазин»",
-            "Стилістично некоректна синтаксична конструкція з «Гроші»",
-            "Неправильне відмінкове узгодження зі словом «Село»"
+            "Закінчення -я: моря (Neuter soft stem Genitive in -ya)",
+            "Закінчення -а: мора",
+            "Закінчення -у: мору",
+            "Закінчення -і: морі"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Іменники середнього роду з м'якою основою на «-е» у родовому відмінку мають закінчення «-я»: «моря»."
         }
       ]
     },
@@ -2805,17 +2844,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Місто\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, де всі іменники жіночого та середнього роду правильно узгоджені у родовому відмінку:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.4.",
-            "Стилістично некоректна синтаксична конструкція з «Гроші»",
-            "Неправильне відмінкове узгодження зі словом «Село»",
-            "Порушення законів евфонії та словотворення для «Магазин»"
+            "Біля мальовничого села немає великого озера та глибокої річки.",
+            "Біля мальовничого селі немає великого озеру та глибокої річку.",
+            "Біля мальовничого селом немає великого озером та глибокої річкою.",
+            "Біля мальовничого село немає великого озеро та глибокої річка."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Села» (сер. рід, -а), «озера» (сер. рід, -а), «річки» (жін. рід, -и) — всі форми родового відмінка бездоганні."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u6-l5": {
@@ -2823,53 +2863,62 @@
     "subject": "ukrainian",
     "unit": 6,
     "lessonNumber": 5,
-    "title": "Родовий відмінок: приналежність та заперечення (Genitive Case) (Part 5)",
+    "title": "Родовий відмінок із фундаментальними прийменниками: «без», «до», «від», «для», «біля», «після», «з/із» (Genitive Prepositions)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 6.5) with authentic linguistic precision.",
+    "objective": "Опанувати прийменникове керування родового відмінка з прийменниками простору, часу, мети та супроводу (без, до, від, для, біля, після, з/із/зі).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Родовий відмінок має найбільшу кількість специфічних прийменників в українській граматиці:\n\n1. Прийменники виключення та призначення:\n- «Без» (Without): «Кава без цукру», «жити без страху та тривоги».\n- «Для» (For): «Подарунок для сестри», «підручник для нового курсу».\n\n2. Прийменники напрямку, початкового та кінцевого пунктів руху:\n- «До» (To / Towards / Until): «Їхати до Києва», «працювати до вечора».\n- «Від» (From): «Лист від брата», «далеко від рідного дому».\n- «З / Із / Зі» (From / Out of): «Вийти з аудиторії», «приїхати з України», «зі школи».\n\n3. Прийменники розташування та часу:\n- «Біля / коло / поруч з» (Near): «Зустрінемося біля метро», «біля старого театру».\n- «Після» (After): «Після цікавого уроку», «після смачного обіду».\n- «Проти» (Against / Opposite): «Будинок стоїть проти парку», «голосувати проти рішення».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Після важкого робочого дня ми із задоволенням п'ємо чай без цукру біля затишного вікна.",
+          "reading": "[ˈpʲisʲlʲɑ wɑʒˈkɔɦɔ rɔˈbɔtʃɔɦɔ dnʲɑ mɪ iz zɐdɔˈwɔlɛnʲːɐm pjɛmɔ tʃɑj bɛz ˈt͡sukru ˈbʲilʲɑ ˈzɑtɪʃnɔɦɔ wʲikˈnɑ] (PEES-lyah vahzh-KOH-hoh roh-BOH-choh-hoh dnyah my eez zah-doh-VOH-len-nyahm p'yeh-moh chy bez TSOO-kroo BEE-lyah ZAH-tysh-noh-hoh veek-NAH)",
+          "translation": "After a hard workday we gladly drink tea without sugar near the cozy window."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 6-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Потяг вирушає від центрального вокзалу Харкова до Києва о сьомій ранку.",
+          "reading": "[ˈpɔtʲɑɦ wɪruˈʃɑjɛ wʲid t͡sɛntˈrɑlʲnɔɦɔ wɔkˈzɑlu ˈxɑrkɔwɑ dɔ ˈkɪjɛwɑ ɔ ˈsʲɔmʲij ˈrɑŋku] (POH-tyahk vy-roo-SHAH-yeh veed tsen-TRAHL'-noh-hoh vohk-ZAH-loo KHAHR-koh-vah doh KY-yeh-vah oh SYOH-meey RAHN-koo)",
+          "translation": "The train departs from the central station of Kharkiv to Kyiv at seven in the morning."
+        },
+        {
+          "target": "Це чудовий корисний посібник для старанного вивчення української мови.",
+          "reading": "[t͡sɛ tʃuˈdɔwɪj kɔˈrɪsnɪj pɔˈsʲibnɪk dlʲɑ stɐˈrɑnːɔɦɔ ˈwɪwtʃɛnʲːɑ ukrɐˈjinʲsʲkɔjɪ ˈmɔwɪ] (tseh choo-DOH-vyi koh-RYS-nyi poh-SEEB-nyk dlyah stah-RAHN-noh-hoh VYV-chen-nyah oo-krah-YEEN-s'koh-yee MOH-vy)",
+          "translation": "This is a wonderful useful manual for the diligent study of the Ukrainian language."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Без, до, від, для, біля й після — у родовому відмінку лунає пісня!"
+      ],
+      "culturalNotes": [
+        "Прийменник «до» в українській мові використовується для позначення руху до осіб і населених пунктів («іду до лікаря», «їду до Києва»), де в інших мовах можуть вживатися інші відмінки."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Село\":",
+          "prompt": "Оберіть речення, де всі іменники після прийменників вжиті у правильній формі родового відмінка:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.5.",
-            "Неправильне відмінкове узгодження зі словом «Магазин»",
-            "Порушення законів евфонії та словотворення для «Гроші»",
-            "Стилістично некоректна синтаксична конструкція з «Ціна»"
+            "Ми дісталися від вокзалу до університету без жодних перешкод. (Prepositions of Genitive: від, до, без)",
+            "Ми дісталися від вокзалом до університетом без жодних перешкод.",
+            "Ми дісталися від вокзалі до університеті без жодних перешкод.",
+            "Ми дісталися від вокзалу до університету без жодними перешкодами."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Прийменники «від», «до», «без» вимагають виключно родового відмінка: «від вокзалу», «до університету», «без перешкод»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Село\":",
+          "prompt": "Який відмінок вимагає прийменник «для» у виразі «подарунок для ... (сестра)»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.5.",
-            "Порушення законів евфонії та словотворення для «Гроші»",
-            "Стилістично некоректна синтаксична конструкція з «Ціна»",
-            "Неправильне відмінкове узгодження зі словом «Магазин»"
+            "Родовий відмінок: для сестри (Preposition dlya requires Genitive)",
+            "Давальний відмінок: для сестрі",
+            "Знахідний відмінок: для сестру",
+            "Орудний відмінок: для сестрою"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Прийменник «для» в українській мові керує виключно родовим відмінком: «для сестри»."
         }
       ]
     },
@@ -2877,17 +2926,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Село\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому допущено помилку у прийменниковому керуванні родового відмінка:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 6.5.",
-            "Стилістично некоректна синтаксична конструкція з «Ціна»",
-            "Неправильне відмінкове узгодження зі словом «Магазин»",
-            "Порушення законів евфонії та словотворення для «Гроші»"
+            "Після уроці ми пішли до бібліотеці за книгою.",
+            "Після уроку ми пішли до бібліотеки за книгою.",
+            "Біля театру ми зустріли давнього друга.",
+            "Він п'є каву без цукру та молока."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "У реченні «Після уроці ми пішли до бібліотеці» помилково вжито місцевий/давальний відмінок. Прийменники «після» та «до» вимагають родового відмінка: «після уроку до бібліотеки»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u7-l1": {
