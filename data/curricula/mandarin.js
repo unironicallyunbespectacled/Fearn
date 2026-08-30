@@ -8683,85 +8683,89 @@
     "subject": "mandarin",
     "unit": 15,
     "lessonNumber": 1,
-    "title": "中国地理、旅游与名胜古迹 (Geography & Cultural Heritage) (第1讲)",
-    "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：中国主要省区地貌、世界文化遗产（故宫/长城/兵马俑）及旅游出行用语。 (第1部分)。",
+    "title": "中国宏观地理版图与自然地貌（高原/盆地/平原/长江/黄河/东西南北） (Chinese Geography & Landscapes)",
+    "level": "A2",
+    "objective": "系统掌握中国宏观地理疆域特征、三级阶梯地势地貌类型（高原/盆地/平原）及母亲河长江黄河专属词汇，熟练阐述自然地理格局。",
     "presentation": {
-      "explanation": "",
+      "explanation": "中国幅员辽阔，自然地理版图横跨多种气候带与地形单元，蕴含着丰富的地理地貌专业词汇体系：\n\n一、中国宏观地势格局与三大阶梯系统：\n1. 地势总特征：「西高东低，呈三级阶梯状逐级下降」。\n2. 第一阶梯（青藏高原）：平均海拔四千米以上，被称为「世界屋脊」与「地球第三极」。\n3. 第二阶梯（四大高原与四大盆地）：\n- 高原：内蒙古高原、黄土高原、云贵高原。\n- 盆地：塔里木盆地、准噶尔盆地、柴达木盆地、四川盆地（天府之国）。\n4. 第三阶梯（三大平原与丘陵沿海）：\n- 平原：东北平原（黑土地）、华北平原、长江中下游平原（鱼米之乡）。\n\n二、中华江河水系与名山大川系统：\n1.「母亲河」水系：\n- 长江：中国第一长河，全长六千三百余公里，发源于青藏高原唐古拉山脉，向东注入东海。\n- 黄河：中华民族的摇篮，全长五千四百余公里，流经九个省区，流经黄土高原后注入渤海。\n2. 著名山脉与高峰：喜马拉雅山脉（珠穆朗玛峰）、昆仑山脉、泰山（五岳之首）、黄山。\n\n三、地域差异与气候分布经典句式：\n1.「地处......带，气候......」：例如「中国北方冬季寒冷干燥，南方气候温暖湿润」。\n2.「自西向东流经......最终汇入......」：例如「长江自西向东流经十一个省市，最终汇入东海」。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的核心语法法则与应用范例 (15.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)' in simple terms to students at the academic seminar."
+          "target": "中国地域辽阔，地势西高东低，自西向东呈现出高峻高原、起伏盆地与广袤平原的三级阶梯。(Zhōngguó dìyù liáokuò, dìshì xī gāo dōng dī, zì xī xiàng dōng chéngxiàn chū gāojùn gāoyuán, qǐfú péndì yǔ guǎngmào píngyuán de sān jí jiētī.)",
+          "reading": "[ʈ͡ʂʊŋ˥.kwɔ˧˥ ti˥˩.y˥˩ ljaʊ̯˧˥.kʰwɔ˥˩, ti˥˩.ʂɨ˥˩ ɕi˥ kaʊ̯˥ tʊŋ˥ ti˥, t͡sɨ˥˩ ɕi˥ ɕjaŋ˥˩ tʊŋ˥ ʈ͡ʂʰəŋ˧˥.ɕjɛn˥˩ t͡ʂʰu˥ kaʊ̯˥.t͡ɕyn˥˩ kaʊ̯˥.jɥɛn˧˥, t͡ɕʰi˨˩˦.fu˧˥ pʰən˧˥.ti˥˩ y˨˩˦ kwaŋ˨˩.maʊ̯˥˩ pʰiŋ˧˥.jɥɛn˧˥ tɤ san˥ t͡ɕi˧˥ t͡ɕjɛ˥.tʰi˥] (Zhōng-guó dì-yù liáo-kuò, dì-shì xī gāo dōng dī, zì xī xiàng dōng chéng-xiàn chū gāo-jùn gāo-yuán, qǐ-fú pén-dì yǔ guǎng-mào píng-yuán de sān jí jiē-tī.)",
+          "translation": "China's territory is vast, with the terrain high in the west and low in the east, presenting three steps of towering plateaus, undulating basins, and vast plains from west to east."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (15.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "浩荡长江发源于青藏高原唐古拉山脉，自西向东奔流六千三百余公里，最终汇入浩瀚东海。(Hàodàng Cháng Jiāng fāyuán yú Qīngzàng Gāoyuán Tánggǔlā Shānmài, zì xī xiàng dōng bēnliú liùqiān sānbǎi yú gōnglǐ, zuìzhōng huìrù hàohàn Dōng Hǎi.)",
+          "reading": "[xaʊ̯˥˩.tɑŋ˥˩ ʈ͡ʂʰɑŋ˧˥ t͡ɕjaŋ˥ fa˥.jɥɛn˧˥ y˧˥ t͡ɕʰiŋ˥.t͡sɑŋ˥˩ kaʊ̯˥.jɥɛn˧˥ tʰɑŋ˧˥.ku˨˩.la˥ ʂan˥.maɪ̯˥˩, t͡sɨ˥˩ ɕi˥ ɕjaŋ˥˩ tʊŋ˥ pən˥.ljoʊ̯˧˥ ljoʊ̯˥˩.t͡ɕʰjɛn˥ san˥.paɪ̯˨˩˦ y˧˥ kʊŋ˥.li˨˩˦, t͡sweɪ̯˥˩.ʈ͡ʂʊŋ˥ xweɪ̯˥˩.ʐu˥˩ xaʊ̯˥˩.xan˥˩ tʊŋ˥ xaɪ̯˨˩˦] (Hào-dàng Cháng Jiāng fā-yuán yú Qīng-zàng Gāo-yuán Táng-gǔ-lā Shān-mài, zì xī xiàng dōng bēn-liú liù-qiān sān-bǎi yú gōng-lǐ, zuì-zhōng huì-rù hào-hàn Dōng Hǎi.)",
+          "translation": "The mighty Yangtze River originates from the Tanggula Mountains on the Qinghai-Tibet Plateau, flowing eastward for over 6,300 kilometers and finally emptying into the vast East China Sea."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (15.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "黄河流经九个省区，作为中华民族的母亲河，孕育了源远流长、博大精深的华夏古代文明。(Huáng Hé liújīng jiǔ ge shěngqū, zuòwéi Zhōnghuá mínzú de mǔqīn hé, yùnyù le yuányuǎn-liúcháng, bódà-jīngshēn de Huáxià gǔdài wénmíng.)",
+          "reading": "[xwaŋ˧˥ xɤ˧˥ ljoʊ̯˧˥.t͡ɕiŋ˥ t͡ɕjoʊ̯˨˩˦ kɤ ʂəŋ˨˩.t͡ɕʰy˥, t͡swoʊ̯˥˩.weɪ̯˧˥ ʈ͡ʂʊŋ˥.xwa˧˥ min˧˥.t͡su˧˥ tɤ mu˨˩˦.t͡ɕʰin˥ xɤ˧˥, jyn˥˩.y˥˩ lɤ jɥɛn˧˥.jɥɛn˨˩.ljoʊ̯˧˥.ʈ͡ʂʰɑŋ˧˥, pwo˧˥.ta˥˩.t͡ɕiŋ˥.ʂən˥ tɤ xwa˧˥.ɕja˥˩ ku˨˩.taɪ̯˥˩ wən˧˥.miŋ˧˥] (Huáng Hé liú-jīng jiǔ ge shěng-qū, zuò-wéi Zhōng-huá mín-zú de mǔ-qīn hé, yùn-yù le yuán-yuǎn-liú-cháng, bó-dà-jīng-shēn de Huá-xià gǔ-dài wén-míng.)",
+          "translation": "The Yellow River flows through nine provinces and autonomous regions; as the mother river of the Chinese nation, it nurtured the ancient Huaxia civilization with a long history and profound breadth."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (15.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "中国北方冬季银装素裹、万里雪飘，而地处热带亚热带的南方沿海地区却依然青山绿水、温暖如春。(Zhōngguó běifāng dōngjì yínzhuāng-sùguǒ, wànlǐ xuě piāo, ér dìchù rèdài yàrèdài de nánfāng yánhǎi dìqū què yīrán qīngshān-lǜshuǐ, wēnnuǎn rú chūn.)",
+          "reading": "[ʈ͡ʂʊŋ˥.kwɔ˧˥ peɪ̯˨˩.fɑŋ˥ tʊŋ˥.t͡ɕi˥˩ in˧˥.ʈ͡ʂwaŋ˥.su˥˩.kwo˨˩˦, wan˥˩.li˨˩˦ ɕɥɛ˨˩˦ pʰjaʊ̯˥, aɚ˧˥ ti˥˩.t͡ʂʰu˥˩ ʐɤ˥˩.taɪ̯˥˩ ja˥˩.ʐɤ˥˩.taɪ̯˥˩ tɤ nan˧˥.fɑŋ˥ jan˧˥.xaɪ̯˨˩˦ ti˥˩.t͡ɕʰy˥ t͡ɕʰɥɛ˥˩ i˥.ʐan˧˥ t͡ɕʰiŋ˥.ʂan˥.ly˥˩.ʂweɪ̯˨˩˦, wən˥.nwan˨˩˦ ʐu˧˥ ʈ͡ʂʰwən˥] (Zhōng-guó běi-fāng dōng-jì yín-zhuāng-sù-guǒ, wàn-lǐ xuě piāo, ér dì-chù rè-dài yà-rè-dài de nán-fāng yán-hǎi dì-qū què yī-rán qīng-shān-lǜ-shuǐ, wēn-nuǎn rú chūn.)",
+          "translation": "In winter, northern China is silver-clad in white snow for thousands of miles, while the southern coastal areas located in the tropics and subtropics still enjoy green hills, clear waters, and spring-like warmth."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "西高东低三阶梯，长江黄河奔东去；高原盆地平原阔，锦绣河山展秀丽！"
+      ],
+      "culturalNotes": [
+        "中国古人自古有「江山社稷」之说。长江流域的灵动温婉与黄河流域的雄浑厚重交相辉映，共同构筑了中华文明多元一体的地理人文空间。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」（第1讲）的标准汉语规范？",
+          "prompt": "被誉为「世界屋脊」和「地球第三极」的中国第一大地形阶梯高原是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的核心语法法则与应用范例 (15.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (15.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (15.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (15.1.w3)"
+            "青藏高原 (Qinghai-Tibet Plateau - The Roof of the World)",
+            "黄土高原",
+            "内蒙古高原",
+            "云贵高原"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "青藏高原平均海拔超4000米，是世界海拔最高的高原，被称为世界屋脊。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "被誉为中华民族母亲河、流经黄土高原汇入渤海的中国第二长河是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "黄河 (Yellow River - Mother river of China)",
+            "长江",
+            "珠江",
+            "黑龙江"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "黄河是孕育古代华夏文明的核心摇篮，全长约5464公里。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的正式语境下，最准确得体的表达是哪一项？（第15.1题）",
+          "prompt": "关于中国宏观地形与地势走向的概括，下列完全科学准确的是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (15.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (15.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (15.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (15.1.x3)"
+            "地势西高东低，呈三级阶梯状分布 (West-high, east-low 3-tier staircase distribution)",
+            "地势东高西低，四周高中间低",
+            "全中国全是一望无际的大平原",
+            "地势南高北低没有任何山脉"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「西高东低，三级阶梯」是中国宏观地貌的基本特征。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u15-l1）所要求的高阶语言表达？",
+          "prompt": "中国最长、流域面积最广、被誉为黄金水道的水系是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (15.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (15.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (15.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (15.1.y3)"
+            "长江 (Yangtze River - 6,300+ km)",
+            "海河",
+            "淮河",
+            "辽河"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "长江是中国第一长河，世界第三长河。"
         }
       ]
     },
@@ -8769,25 +8773,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的掌握程度，请选出表述完全正确的标准范句（测试 15-1）：",
+          "prompt": "请选出下列中国地理与水系地貌描述中语言最规范、地理知识最精确的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (15.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (15.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (15.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (15.1.z3)"
+            "中国幅员辽阔，西起世界屋脊青藏高原，东至广袤富饶的沿海平原，长江与黄河横贯东西，奔流不息，滋养了千百年来生生不息的中华民族。(地势阶梯、大江大河与人文内涵叙述极为完备典范)",
+            "中国很小，地势东高西低，黄河流入印度洋。(地理常识严重错误)",
+            "长江自东向西流到西藏去。(水流方向完全颠倒)",
+            "中国只有高原没有平原与大河。(完全荒谬违背事实)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句在宏观地理地貌、江河水系走向及中华文明孕育叙述上均达到了最高规范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u15-l1）的核心关键词（例如「中国地理」）：",
+          "prompt": "请输入被尊称为中华民族发源地核心纽带的「」河（拼音为 Huáng Hé）：",
           "acceptedAnswers": [
-            "中国地理",
-            "中国地理、旅",
-            "中国地理、旅游与名胜古迹"
+            "黄河"
           ],
-          "explanation": "正确的核心关键词为「中国地理」。"
+          "explanation": "词语「黄河」是中华民族最具代表性的母亲河专有名词。"
         }
       ],
       "passThreshold": 0.8
@@ -8798,85 +8800,89 @@
     "subject": "mandarin",
     "unit": 15,
     "lessonNumber": 2,
-    "title": "中国地理、旅游与名胜古迹 (Geography & Cultural Heritage) (第2讲)",
-    "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：中国主要省区地貌、世界文化遗产（故宫/长城/兵马俑）及旅游出行用语。 (第2部分)。",
+    "title": "世界文化遗产与华夏历史古迹（万里长城/故宫紫禁城/秦始皇兵马俑/莫高窟） (UNESCO World Cultural Heritages)",
+    "level": "A2",
+    "objective": "系统掌握中国世界级文化遗产（长城/紫禁城/兵马俑/莫高窟）的历史背景、建筑艺术特征与文化审美价值阐释。",
     "presentation": {
-      "explanation": "",
+      "explanation": "世界文化遗产是全人类文明对话的瑰宝，凝结着华夏民族数千年卓越的工程智慧、哲学理念与艺术造诣：\n\n一、核心世界文化遗产体系与标志性特征：\n1. 万里长城（北京八达岭、居庸关、嘉峪关、山海关）：\n- 象征意义：中华民族坚韧不拔、自强不息精神的象征，「不到长城非好汉」。\n- 建筑特征：蜿蜒于崇山峻岭之间，集烽火台、敌楼、关隘与城墙于一体的庞大军事防御工程奇迹。\n2. 北京故宫博物院（紫禁城）：\n- 历史地位：明清两代二十四位皇帝的皇家宫殿，世界上现存规模最大、保存最完整的木质结构古建筑群。\n- 建筑美学：红墙黄瓦、太和殿、前朝后寝、严谨中轴对称布局，彰显中正平和与皇权礼制。\n3. 陕西西安秦始皇陵兵马俑：\n- 誉称：「世界第八大奇迹」，秦代军事与雕塑艺术巅峰。\n- 艺术特征：一号坑、二号坑军阵森严，数千尊陶俑陶马栩栩如生、千人千面、军容威武。\n4. 甘肃敦煌莫高窟（千佛洞）：\n- 丝路瑰宝：古代丝绸之路多元文明交汇融合的璀璨明珠。\n- 艺术价值：藏经洞、精美飞天壁画与历代彩塑艺术，记录了千年中外文化互鉴史册。\n\n二、文化遗产审美论述核心句式：\n1.「被联合国教科文组织列为世界文化遗产」\n2.「以其......的建筑布局和深厚的历史底蕴闻名于世」",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的核心语法法则与应用范例 (15.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)' in simple terms to students at the academic seminar."
+          "target": "万里长城宛如一条巨龙盘旋在崇山峻岭之间，被誉为人类古代建筑史上的伟大奇迹。(Wànlǐ Chángchéng wǎnrú yì tiáo jùlóng pánxuán zài chóngshān-jùnlǐng zhījiān, bèi yùwéi rénlèi gǔdài jiànzhùshǐ shang de wěidà qíjì.)",
+          "reading": "[wan˥˩.li˨˩˦ ʈ͡ʂʰɑŋ˧˥.ʈ͡ʂʰəŋ˧˥ wan˨˩.ʐu˧˥ i˥ tʰjaʊ̯˧˥ t͡ɕy˥˩.lʊŋ˧˥ pʰan˧˥.ɕɥɛn˧˥ t͡saɪ̯˥˩ ʈ͡ʂʰʊŋ˧˥.ʂan˥.t͡ɕyn˥˩.liŋ˨˩˦ ʈ͡ʂɨ˥.t͡ɕjɛn˥, peɪ̯˥˩ jy˥˩.weɪ̯˧˥ ʐən˧˥.leɪ̯˥˩ ku˨˩.taɪ̯˥˩ t͡ɕjɛn˥˩.ʈ͡ʂu˥˩.ʂɨ˨˩˦ ʂɑŋ tɤ weɪ̯˨˩.ta˥˩ t͡ɕʰi˧˥.t͡ɕi˥˩] (Wàn-lǐ Cháng-chéng wǎn-rú yì tiáo jù-lóng pán-xuán zài chóng-shān-jùn-lǐng zhī-jiān, bèi yù-wéi rén-lèi gǔ-dài jiàn-zhù-shǐ shang de wěi-dà qí-jì.)",
+          "translation": "The Great Wall, like a giant dragon hovering among lofty mountains and precipitous ridges, is hailed as a great wonder in the history of ancient human architecture."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (15.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "故宫紫禁城作为明清两代的皇家宫殿，以其红墙黄瓦与严密对称的建筑布局彰显着东方古典美学。(Gùgōng Zǐjìnchéng zuòwéi Míng-Qīng liǎng dài de huángjiā gōngdiàn, yǐ qí hóngqiáng huángwǎ yǔ yánmì duìchèn de jiànzhù bùjú zhāngxiǎn zhe dōngfāng gǔdiǎn měixué.)",
+          "reading": "[ku˥˩.kʊŋ˥ t͡sɨ˨˩.t͡ɕin˥˩.ʈ͡ʂʰəŋ˧˥ t͡swoʊ̯˥˩.weɪ̯˧˥ miŋ˧˥.t͡ɕʰiŋ˥ ljaŋ˨˩˦ taɪ̯˥˩ tɤ xwaŋ˧˥.t͡ɕja˥ kʊŋ˥.tjɛn˥˩, i˨˩˦ t͡ɕʰi˧˥ xʊŋ˧˥.t͡ɕʰjɑŋ˧˥ xwaŋ˧˥.wa˨˩˦ y˨˩˦ jan˧˥.mi˥˩ tweɪ̯˥˩.ʈ͡ʂʰən˥˩ tɤ t͡ɕjɛn˥˩.ʈ͡ʂu˥˩ pu˥˩.t͡ɕy˧˥ ʈ͡ʂɑŋ˥.ɕjan˨˩˦ ʈ͡ʂɤ tʊŋ˥.fɑŋ˥ ku˨˩.tjɛn˨˩˦ meɪ̯˨˩.ɕɥɛ˧˥] (Gù-gōng Zǐ-jìn-chéng zuò-wéi Míng-Qīng liǎng dài de huáng-jiā gōng-diàn, yǐ qí hóng-qiáng huáng-wǎ yǔ yán-mì duì-chèn de jiàn-zhù bù-jú zhāng-xiǎn zhe dōng-fāng gǔ-diǎn měi-xué.)",
+          "translation": "As the royal palace of the Ming and Qing dynasties, the Forbidden City of the Palace Museum demonstrates Eastern classical aesthetics with its red walls, yellow tiles, and strictly symmetrical architectural layout."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (15.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "走进西安秦始皇兵马俑一号坑，数千尊千人千面、栩栩如生的陶俑军阵令人震撼不已。(Zǒu jìn Xī'ān Qín Shǐhuáng Bīngmǎyǒng yī hào kēng, shù qiān zūn qiānrén-qiānmìan, xǔxǔ-rùshēng de táoyǒng jūnlzhèn lìng rén zhènhàn bùyǐ.)",
+          "reading": "[t͡soʊ̯˨˩˦ t͡ɕin˥˩ ɕi˥.an˥ t͡ɕʰin˧˥.ʂɨ˨˩.xwaŋ˧˥ piŋ˥.ma˨˩.jʊŋ˨˩˦ i˥ xaʊ̯˥˩ kʰəŋ˥, ʂu˥˩ t͡ɕʰjɛn˥ t͡swən˥ t͡ɕʰjɛn˥.ʐən˧˥.t͡ɕʰjɛn˥.mjɛn˥˩, ɕy˨˩˦.ɕy˨˩˦.ʐu˧˥.ʂəŋ˥ tɤ tʰaʊ̯˧˥.jʊŋ˨˩˦ t͡ɕyn˥.ʈ͡ʂən˥˩ liŋ˥˩ ʐən˧˥ ʈ͡ʂən˥˩.xan˥˩ pu˥.i˨˩˦] (Zǒu jìn Xī-'ān Qín Shǐ-huáng Bīng-mǎ-yǒng yī hào kēng, shù qiān zūn qiān-rén-qiān-miàn, xǔ-xǔ-rù-shēng de táo-yǒng jūn-zhèn lìng rén zhèn-hàn bù-yǐ.)",
+          "translation": "Entering Pit No. 1 of the Terracotta Warriors of Emperor Qinshihuang in Xi'an, the pottery warrior formations with thousands of distinct, life-like faces make people deeply awestruck."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (15.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "敦煌莫高窟保存着数以万计精美绝伦的古代壁画与雕塑，生动记录了古丝绸之路上的多元文化互鉴。(Dūnhuáng Mògāokū bǎocún zhe shù yǐ wàn jì jīngměi-juélún de gǔdài bìhuà yǔ diāosù, shēngdòng jìlù le gǔ Sīchóuzhīlù shang de duōyuán wénhuà hùjiàn.)",
+          "reading": "[twən˥.xwaŋ˧˥ mwɔ˥˩.kaʊ̯˥.kʰu˥ paʊ̯˨˩.t͡sʰwən˧˥ ʈ͡ʂɤ ʂu˥˩ i˨˩˦ wan˥˩ t͡ɕi˥˩ t͡ɕiŋ˥.meɪ̯˨˩.t͡ɕɥɛ˧˥.lwən˧˥ tɤ ku˨˩.taɪ̯˥˩ pi˥˩.xwa˥˩ y˨˩˦ tjaʊ̯˥.su˥˩, ʂəŋ˥.tʊŋ˥˩ t͡ɕi˥˩.lu˥˩ lɤ ku˨˩˦ sɨ˥.t͡ʂʰoʊ̯˧˥.ʈ͡ʂɨ˥.lu˥˩ ʂɑŋ tɤ twɔ˥.jɥɛn˧˥ wən˧˥.xwa˥˩ xu˥˩.t͡ɕjɛn˥˩] (Dūn-huáng Mò-gāo-kū bǎo-cún zhe shù yǐ wàn jì jīng-měi-jué-lún de gǔ-dài bì-huà yǔ diāo-sù, shēng-dòng jì-lù le gǔ Sī-chóu-zhī-lù shang de duō-yuán wén-huà hù-jiàn.)",
+          "translation": "The Dunhuang Mogao Caves preserve tens of thousands of exquisite ancient murals and sculptures, vividly recording the mutual learning among diverse cultures along the ancient Silk Road."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "长城盘旋巨龙腾，故宫紫禁殿宇宏；秦俑千尊列军阵，敦煌飞天画卷生！"
+      ],
+      "culturalNotes": [
+        "世界遗产不仅是历史的丰碑，更是现代中国人文化自信的源泉。故宫的「中轴线」申遗成功，更向世界展示了东方古都规划的永恒魅力。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」（第2讲）的标准汉语规范？",
+          "prompt": "作为明清两代皇帝的皇家宫殿，现存世界上规模最大、保存最完好的木质古代宫殿建筑群是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的核心语法法则与应用范例 (15.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (15.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (15.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (15.2.w3)"
+            "北京故宫博物院 / 紫禁城 (The Forbidden City / Palace Museum)",
+            "颐和园",
+            "圆明园",
+            "承德避暑山庄"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "北京故宫（紫禁城）是世界现存最大、最完备的古代宫殿建筑群。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "位于甘肃敦煌、以精美绝伦的飞天壁画与彩塑艺术闻名于世的古丝绸之路文化遗产是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "敦煌莫高窟 (Dunhuang Mogao Grottoes / Caves)",
+            "龙门石窟",
+            "云冈石窟",
+            "麦积山石窟"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "敦煌莫高窟是古丝绸之路上举世闻名的佛教与丝路艺术宝库。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的正式语境下，最准确得体的表达是哪一项？（第15.2题）",
+          "prompt": "中国著名谚语「不到长城非好汉」表达的核心精神是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (15.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (15.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (15.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (15.2.x3)"
+            "面对困难要有不畏艰难、勇攀高峰的顽强毅力 (Unyielding perseverance in climbing peaks)",
+            "不买长城门票就不算英雄",
+            "长城只有男子汉才可以去爬",
+            "没有去过北京就不能交朋友"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「不到长城非好汉」借攀登长城喻指克服险阻、不懈奋斗的坚强品格。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u15-l2）所要求的高阶语言表达？",
+          "prompt": "被国际社会誉为「世界第八大奇迹」的中国陕西西安秦代历史古迹是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (15.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (15.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (15.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (15.2.y3)"
+            "秦始皇陵兵马俑 (Terracotta Warriors and Horses)",
+            "大雁塔",
+            "华清宫",
+            "明城墙"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "秦始皇陵兵马俑以其庞大军阵与高超写实雕塑技艺享誉全球。"
         }
       ]
     },
@@ -8884,25 +8890,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的掌握程度，请选出表述完全正确的标准范句（测试 15-2）：",
+          "prompt": "请选出下列文化遗产阐述中文采最斐然、历史内涵与艺术特征概括最精准的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (15.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (15.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (15.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (15.2.z3)"
+            "故宫紫禁城以其宏伟严整的中轴对称布局与金碧辉煌的殿宇建筑，生动诠释了东方古代礼制文明与高超的营造技艺，是全人类共有的无价文化瑰宝。(布局、营造技艺与人类文化价值表述高度严密典范)",
+            "故宫就是很多老房子，红红黄黄的。(语言极度贫乏粗陋)",
+            "兵马俑都是泥巴做的，没什么特别的。(缺乏审美常识)",
+            "长城是现代人修的小墙用来跑步。(事实严重扭曲错乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句对紫禁城的中轴布局、建筑规制及人类文明价值作出了典范的汉语学术阐释。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u15-l2）的核心关键词（例如「中国地理」）：",
+          "prompt": "请输入中国明清两代皇家宫殿的核心三字经典古称（例如北京故宫「」城，拼音为 Zǐjìnchéng）：",
           "acceptedAnswers": [
-            "中国地理",
-            "中国地理、旅",
-            "中国地理、旅游与名胜古迹"
+            "紫禁城",
+            "故宫",
+            "故宫博物院"
           ],
-          "explanation": "正确的核心关键词为「中国地理」。"
+          "explanation": "词语「紫禁城」是北京故宫最著名的历史专称。"
         }
       ],
       "passThreshold": 0.8
@@ -8913,85 +8919,89 @@
     "subject": "mandarin",
     "unit": 15,
     "lessonNumber": 3,
-    "title": "中国地理、旅游与名胜古迹 (Geography & Cultural Heritage) (第3讲)",
-    "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：中国主要省区地貌、世界文化遗产（故宫/长城/兵马俑）及旅游出行用语。 (第3部分)。",
+    "title": "自然名胜与山水园林（桂林山水/苏州古典园林/杭州西湖/黄山奇松怪石） (Natural Wonders & Classical Gardens)",
+    "level": "A2",
+    "objective": "掌握中国古典园林营造美学（移步换景/假山叠石）与经典山水名胜（桂林喀斯特/西湖十景/黄山四绝）的美学表达。",
     "presentation": {
-      "explanation": "",
+      "explanation": "中国自然名胜与古典园林将自然山水之美与文人诗意情怀融为一体，构成了独树一帜的东方生态美学体系：\n\n一、四大经典山水园林名胜美学特征：\n1. 广西桂林山水（喀斯特峰林地貌）：\n- 名言赞誉：「桂林山水甲天下，阳朔山水甲桂林」。\n- 美学意境：漓江水清如镜、两岸奇峰耸立、江水蜿蜒萦回，构成天然百里山水画廊。\n2. 江苏苏州古典园林（拙政园、留园、沧浪亭）：\n- 营造哲学：「虽由人作，宛自天开」、「咫尺之内再造乾坤」。\n- 空间手法：巧妙运用叠石理水、亭台楼阁、漏窗借景与「移步换景」，展现江南文人高雅意趣。\n3. 浙江杭州西湖：\n- 诗意意象：「水光潋滟晴方好，山色空濛雨亦奇」、「欲把西湖比西子，淡妆浓抹总相宜」。\n- 景观名胜：苏堤春晓、断桥残雪、平湖秋月、三潭印月、雷峰夕照。\n4. 安徽黄山（天下第一奇山）：\n- 名言赞誉：「五岳归来不看山，黄山归来不看岳」。\n- 四大绝景：奇松（迎客松）、怪石、云海、温泉。\n\n二、山水园林美学评价核心句式：\n1.「漫步其间，宛如置身于一幅天然的水墨画卷之中」\n2.「巧妙利用......手法，达到了......的意境」",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的核心语法法则与应用范例 (15.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)' in simple terms to students at the academic seminar."
+          "target": "乘一叶扁舟荡漾在漓江清澈的江面上，两岸奇峰倒映水中，令人真正领悟到「桂林山水甲天下」的诗意绝景。(Chéng yí yè piānzhōu dàngyàng zài Lí Jiāng qīngchè de jiāngmiàn shang, liǎng'àn qífēng dàoyìng shuǐ zhōng, lìng rén zhēnzhèng lǐngwù dào 'Guìlín shānshuǐ jiǎ tiānxià' de shīyì juéjǐng.)",
+          "reading": "[ʈ͡ʂʰəŋ˧˥ i˥ jɛ˥˩ pʰjɛn˥.ʈ͡ʂoʊ̯˥ tɑŋ˥˩.jɑŋ˥˩ t͡saɪ̯˥˩ li˧˥ t͡ɕjaŋ˥ t͡ɕʰiŋ˥.ʈ͡ʂʰɤ˥ tɤ t͡ɕjaŋ˥.mjɛn˥˩ ʂɑŋ, ljaŋ˨˩˦.an˥˩ t͡ɕʰi˧˥.fɤŋ˥ taʊ̯˥˩.iŋ˥˩ ʂweɪ̯˨˩˦ ʈ͡ʂʊŋ˥, liŋ˥˩ ʐən˧˥ ʈ͡ʂən˥.ʈ͡ʂəŋ˥˩ liŋ˨˩˦.u˥˩ taʊ̯˥˩ kweɪ̯˥˩.lin˧˥ ʂan˥.ʂweɪ̯˨˩˦ t͡ɕja˨˩˦ tʰjɛn˥.ɕja˥˩ tɤ ʂɨ˥.i˥˩ t͡ɕɥɛ˧˥.t͡ɕiŋ˨˩˦] (Chéng yí yè piān-zhōu dàng-yàng zài Lí Jiāng qīng-chè de jiāng-miàn shang, liǎng-àn qí-fēng dào-yìng shuǐ zhōng, lìng rén zhēn-zhèng lǐng-wù dào 'Guì-lín shān-shuǐ jiǎ tiān-xià' de shī-yì jué-jǐng.)",
+          "translation": "Riding a skiff undulating on the crystal-clear surface of the Li River, with peculiar peaks on both banks reflected in the water, one truly appreciates the poetic wonderland of 'Guilin's scenery is the finest under heaven'."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (15.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "苏州拙政园巧妙利用假山、池塘与亭台楼阁构建空间，达到了「移步换景、虽由人作宛自天开」的至高美学境界。(Sūzhōu Zhuōzhèng Yuán qiǎomiào lìyòng jiǎshān, chítáng yǔ tíngtái-lóugé gòujiàn kōngjiān, dádào le 'yí bù huàn jǐng, suī yóu rén zuò wǎnrú zì tiān kāi' de zhìgāo měixué jìngjiè.)",
+          "reading": "[su˥.ʈ͡ʂoʊ̯˥ ʈ͡ʂwɔ˥.ʈ͡ʂəŋ˥˩ jɥɛn˧˥ t͡ɕʰjaʊ̯˨˩˦.mjaʊ̯˥˩ li˥˩.jʊŋ˥˩ t͡ɕja˨˩˦.ʂan˥, t͡sʰɨ˧˥.tʰɑŋ˧˥ y˨˩˦ tʰiŋ˧˥.tʰaɪ̯˧˥.loʊ̯˧˥.kɤ˧˥ koʊ̯˥˩.t͡ɕjɛn˥˩ kʰʊŋ˥.t͡ɕjɛn˥, ta˧˥.taʊ̯˥˩ lɤ i˧˥ pu˥˩ xwan˥˩ t͡ɕiŋ˨˩˦, sweɪ̯˧˥ joʊ̯˧˥ ʐən˧˥ t͡swoʊ̯˥˩ wan˨˩.ʐu˧˥ t͡sɨ˥˩ tʰjɛn˥ kʰaɪ̯˥ tɤ ʈ͡ʂɨ˥˩.kaʊ̯˥ meɪ̯˨˩.ɕɥɛ˧˥ t͡ɕiŋ˥˩.t͡ɕjɛ˥˩] (Sū-zhōu Zhuō-zhèng Yuán qiǎo-miào lì-yòng jiǎ-shān, chí-táng yǔ tíng-tái-lóu-gé gòu-jiàn kōng-jiān, dá-dào le 'yí bù huàn jǐng, suī yóu rén zuò wǎn-rú zì tiān kāi' de zhì-gāo měi-xué jìng-jiè.)",
+          "translation": "The Humble Administrator's Garden in Suzhou ingeniously utilizes rockeries, ponds, and pavilions to construct space, attaining the supreme aesthetic realm of 'changing scenery with every step; though made by human hands, seeming naturally created'."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (15.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "盛夏漫步在杭州西湖的苏堤之上，接天莲叶无穷碧，远眺雷峰夕照，微风拂面、心旷神怡。(Shèngxià mànbù zài Hángzhōu Xīhú de Sūdī zhīshàng, jiētiān liányè wúqióng bì, yuǎntiào Léifēng xīzhào, wēifēng fúmiàn, xīnkkuàng-shényí.)",
+          "reading": "[ʂəŋ˥˩.ɕja˥˩ man˥˩.pu˥˩ t͡saɪ̯˥˩ xɑŋ˧˥.ʈ͡ʂoʊ̯˥ ɕi˥.xu˧˥ tɤ su˥.ti˥ ʈ͡ʂɨ˥.ʂɑŋ˥˩, t͡ɕjɛ˥.tʰjɛn˥ ljɛn˧˥.jɛ˥˩ u˧˥.t͡ɕʰjʊŋ˧˥ pi˥˩, jɥɛn˨˩˦.tʰjaʊ̯˥˩ leɪ̯˧˥.fɤŋ˥ ɕi˥.ʈ͡ʂaʊ̯˥˩, weɪ̯˥.fɤŋ˥ fu˧˥.mjɛn˥˩, ɕin˥.kʰwɑŋ˥˩.ʂən˧˥.i˧˥] (Shèng-xià màn-bù zài Háng-zhōu Xī-hú de Sū-dī zhī-shàng, jiē-tiān lián-yè wú-qióng bì, yuǎn-tiào Léi-fēng xī-zhào, wēi-fēng fú-miàn, xīn-kuàng-shén-yí.)",
+          "translation": "Strolling on the Su Causeway of West Lake in Hangzhou in midsummer, the lotus leaves touch the sky in endless green; gazing afar at Leifeng Pagoda in the sunset glow with the gentle breeze caressing the face, one feels completely relaxed and joyful."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (15.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "登上黄山光明顶极目远眺，翻滚的云海环绕着千姿百态的奇松怪石，气势雄浑磅礴。(Dēng shàng Huángshān Guāngmíngdǐng jímù yuǎntiào, fāngǔn de yúnhǎi huánrào zhe qiānzī-bǎitài de qísōng guàishí, qìshì xiónghún pángbó.)",
+          "reading": "[tɤŋ˥ ʂɑŋ˥˩ xwaŋ˧˥.ʂan˥ kwaŋ˥.miŋ˧˥.tiŋ˨˩˦ t͡ɕi˧˥.mu˥˩ jɥɛn˨˩˦.tʰjaʊ̯˥˩, fan˥.kwən˨˩˦ tɤ jyn˧˥.xaɪ̯˨˩˦ xwan˧˥.ʐaʊ̯˥˩ ʈ͡ʂɤ t͡ɕʰjɛn˥.t͡sɨ˥.paɪ̯˨˩.tʰaɪ̯˥˩ tɤ t͡ɕʰi˧˥.sʊŋ˥ kwaɪ̯˥˩.ʂɨ˧˥, t͡ɕʰi˥˩.ʂɨ˥˩ ɕjʊŋ˧˥.xwen˧˥ pʰɑŋ˧˥.pwo˧˥] (Dēng shàng Huáng-shān Guāng-míng-dǐng jí-mù yuǎn-tiào, fān-gǔn de yún-hǎi huán-rào zhe qiān-zī-bǎi-tài de qí-sōng guài-shí, qì-shì xióng-hún páng-bó.)",
+          "translation": "Ascending to the Bright Summit of Mount Huangshan to look as far as the eye can see, the rolling sea of clouds surrounds strange pines and grotesque rocks of myriad postures, with a magnificent and majestic momentum."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "桂林山水甲天下，苏州园林移步景；西湖荷碧雷峰照，黄山云海奇松迎！"
+      ],
+      "culturalNotes": [
+        "中国文人讲究「以景寓情」。在山水田园中寄托高洁志向，在私家园林中构建精神家园，构成了中华文化中极具审美张力的生活美学传统。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」（第3讲）的标准汉语规范？",
+          "prompt": "在苏州古典园林营造技艺中，形容游人每走一步都能看到不同风景与空间层次的四字成语是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的核心语法法则与应用范例 (15.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (15.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (15.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (15.3.w3)"
+            "移步换景 (Changing scenery with every step)",
+            "走马观花",
+            "原地不动",
+            "千篇一律"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「移步换景」是苏州古典园林空间借景与隔景手法的核心特征。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "中国著名谚语「五岳归来不看山，______归来不看岳」，横线处应填入的名山是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "黄山 (Mount Huangshan - The premier wonder mountain)",
+            "泰山",
+            "华山",
+            "嵩山"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "徐霞客赞誉黄山景观之绝，称「黄山归来不看岳」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的正式语境下，最准确得体的表达是哪一项？（第15.3题）",
+          "prompt": "形容中国山水自然风光如同一幅美丽生动的水墨画，最贴切典雅的比喻是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (15.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (15.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (15.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (15.3.x3)"
+            "宛如置身于一幅天然的水墨画卷之中 (Like being in a natural ink wash scroll)",
+            "像一个装满水泥的工厂",
+            "到处都是乱七八糟的石头",
+            "跟没有画完的草稿纸差不多"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「水墨画卷」是形容中国喀斯特与江南山水空灵之美的经典比拟。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u15-l3）所要求的高阶语言表达？",
+          "prompt": "下列哪一项诗句是苏轼赞美杭州西湖阴晴皆美的千古绝唱？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (15.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (15.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (15.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (15.3.y3)"
+            "欲把西湖比西子，淡妆浓抹总相宜 (Su Shi's masterpiece on West Lake)",
+            "床前明月光，疑是地上霜",
+            "白日依山尽，黄河入海流",
+            "春眠不觉晓，处处闻啼鸟"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "苏轼将西湖比作古代美人西施，晴雨皆美，脍炙人口。"
         }
       ]
     },
@@ -8999,25 +9009,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的掌握程度，请选出表述完全正确的标准范句（测试 15-3）：",
+          "prompt": "请选出下列江南山水园林美学评价中辞意最雅致、意境最高远的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (15.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (15.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (15.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (15.3.z3)"
+            "苏州古典园林在有限的空间内叠石理水、栽植花木，运用移步换景的巧妙设计，达到了「咫尺之内再造乾坤」的崇高美学境界。(叠石理水、移步换景、虽由人作宛自天开，美学意蕴极深)",
+            "苏州园林就是小池塘边上放几块烂石头。(缺乏文化艺术感知力)",
+            "西湖水太多了，看来看去全是荷花没意思。(品味低下粗俗)",
+            "黄山上面石头太怪了不好走。(语气抱怨全无审美)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇对中国园林空间美学与造园哲学作出了极为地道典雅的汉语学术美学概括。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u15-l3）的核心关键词（例如「中国地理」）：",
+          "prompt": "请输入表达「桂林山水「」天下」（居天下第一之意）的核心单字动词（拼音为 jiǎ）：",
           "acceptedAnswers": [
-            "中国地理",
-            "中国地理、旅",
-            "中国地理、旅游与名胜古迹"
+            "甲"
           ],
-          "explanation": "正确的核心关键词为「中国地理」。"
+          "explanation": "字词「甲」在文言与现代成语中表达位居第一（甲天下）。"
         }
       ],
       "passThreshold": 0.8
@@ -9028,85 +9036,89 @@
     "subject": "mandarin",
     "unit": 15,
     "lessonNumber": 4,
-    "title": "中国地理、旅游与名胜古迹 (Geography & Cultural Heritage) (第4讲)",
-    "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：中国主要省区地貌、世界文化遗产（故宫/长城/兵马俑）及旅游出行用语。 (第4部分)。",
+    "title": "文旅出行准备与涉外旅游实用交际（订机票酒店/景区预约/导游讲解/特色伴手礼） (Travel Preparation & Tourism Practical Communication)",
+    "level": "A2",
+    "objective": "熟练掌握现代中国文旅出行全流程交际（移动端分时预约/机酒预订/智能语音导览/地方特产伴手礼选购），具备流畅的涉外旅行独立交际能力。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在数字化与智能化高度普及的现代中国文旅环境中，掌握标准规范的文旅实用交际用语是畅游华夏大地的必备实用技能：\n\n一、智慧文旅出行全流程实用词汇系统：\n1. 交通与住宿预订（线上APP平台操作）：\n- 票务预订：预订往返机票、预订高铁商务座/一等座/二等座、改签、退票。\n- 酒店客房：预订豪华大床房、双人标准间、办理入住登记（出示有效证件）、办理退房与发票开具、免费行李寄存。\n2. 景区入园与智能导览：\n- 实名制分时段预约：提前在景区官方微信小程序实名预约门票、选定入园时段（如上午场/下午场）。\n- 入园通行：刷身份证/护照原件过闸机、出示电子二维码扫码入园。\n- 导览服务：租借多语种智能语音导览器、聘请专业金牌导游讲解员。\n3. 特色地方伴手礼选购：\n- 地方非遗手工艺品与名优特产：丝绸披肩、苏绣刺绣、景德镇手绘陶瓷。\n- 传统名茶：西湖龙井（绿茶）、洞庭碧螺春、安溪铁观音、云南普洱茶。\n\n二、文旅实用交际核心句式：\n1.「请问参观该博物馆需要提前几天进行实名预约？」\n2.「我想退订明天早晨的房间，并办理行李寄存手续。」",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的核心语法法则与应用范例 (15.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)' in simple terms to students at the academic seminar."
+          "target": "出发前请务必在景区官方平台提前实名预约门票，并携带护照或身份证原件按预约时段扫码入园。(Chūfā qián qǐng wùbì zài jǐngqū guānfāng píngtái tíqián shímíng yùyuē ménpiào, bìng xiédài hùzhào huò shēnfènzhèng yuánjiàn àn yùyuē shíduàn sǎomǎ rùyuán.)",
+          "reading": "[t͡ʂʰu˥.fa˥ t͡ɕʰjɛn˧˥ t͡ɕʰiŋ˨˩˦ u˥˩.pi˥˩ t͡saɪ̯˥˩ t͡ɕiŋ˨˩.t͡ɕʰy˥ kwan˥.fɑŋ˥ pʰiŋ˧˥.tʰaɪ̯˧˥ tʰi˧˥.t͡ɕʰjɛn˧˥ ʂɨ˧˥.miŋ˧˥ y˥˩.jɥɛ˥ mən˧˥.pʰjaʊ̯˥˩, piŋ˥˩ ɕjɛ˧˥.taɪ̯˥˩ xu˥˩.ʈ͡ʂaʊ̯˥˩ xwo˥˩ ʂən˥.fən˥˩.ʈ͡ʂəŋ˥˩ jɥɛn˧˥.t͡ɕjɛn˥˩ an˥˩ y˥˩.jɥɛ˥ ʂɨ˧˥.twan˥˩ saʊ̯˨˩.ma˨˩˦ ʐu˥˩.jɥɛn˧˥] (Chū-fā qián qǐng wù-bì zài jǐng-qū guān-fāng píng-tái tí-qián shí-míng yù-yuē mén-piào, bìng xié-dài hù-zhào huò shēn-fèn-zhèng yuán-jiàn àn yù-yuē shí-duàn sǎo-mǎ rù-yuán.)",
+          "translation": "Before setting off, please be sure to reserve tickets with real-name authentication in advance on the scenic area's official platform, and bring your original passport or ID card to scan the code for entry during the reserved time slot."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (15.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "我们在市中心预订了一间交通便利的双人标准间，酒店前台提供二十四小时行李寄存与多语种咨询服务。(Wǒmen zài shìzhōngxīn yùdìng le yì jiān jiāotōng biànlì de shuāngrén biāozhǔnjiān, jiǔdiàn qiántái tígōng èrshísì xiǎoshí xínglǐ jìcún yǔ duōyǔzhǒng zīxún fúwù.)",
+          "reading": "[wɔ˨˩.mən t͡saɪ̯˥˩ ʂɨ˥˩.ʈ͡ʂʊŋ˥.ɕin˥ y˥˩.tiŋ˥˩ lɤ i˥ t͡ɕjɛn˥ t͡ɕjaʊ̯˥.tʰʊŋ˥ pjɛn˥˩.li˥˩ tɤ ʂwaŋ˥.ʐən˧˥ pjaʊ̯˥.ʈ͡ʂwən˨˩.t͡ɕjɛn˥, t͡ɕjoʊ̯˨˩.tjɛn˨˩˦ t͡ɕʰjɛn˧˥.tʰaɪ̯˧˥ tʰi˧˥.kʊŋ˥ aɚ˥˩.ʂɨ˥˩.sɨ˥˩ ɕjaʊ̯˨˩.ʂɨ˧˥ ɕiŋ˧˥.li˨˩ t͡ɕi˥˩.t͡sʰwən˧˥ y˨˩˦ twɔ˥.y˨˩.ʈ͡ʂʊŋ˨˩˦ t͡sɨ˥.ɕyn˧˥ fu˧˥.u˥˩] (Wǒ-men zài shì-zhōng-xīn yù-dìng le yì jiān jiāo-tōng biàn-lì de shuāng-rén biāo-zhǔn-jiān, jiǔ-diàn qián-tái tí-gōng èr-shí-sì xiǎo-shí xíng-lǐ jì-cún yǔ duō-yǔ-zhǒng zī-xún fú-wù.)",
+          "translation": "We booked a conveniently located twin standard room in the city center; the hotel front desk provides 24-hour luggage storage and multilingual consulting services."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (15.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "游览博物馆时，租借一台多语种智能语音导览器能够帮助留学生更深入地理解文物背后的历史渊源。(Yóulǎn bówùguǎn shí, zūjiè yì tái duōyǔzhǒng zhìnéng yǔyīn dǎolǎnqì nénggòu bāngzhù liúxuéshēng gèng shēnrù de lǐjiě wénwù bèihòu de lìshǐ yuānyuán.)",
+          "reading": "[joʊ̯˧˥.lan˨˩˦ pwo˧˥.u˥˩.kwan˨˩˦ ʂɨ˧˥, t͡su˥.t͡ɕjɛ˥˩ i˥ tʰaɪ̯˧˥ twɔ˥.y˨˩.ʈ͡ʂʊŋ˨˩˦ ʈ͡ʂɨ˥˩.nɤŋ˧˥ y˨˩.in˥ taʊ̯˨˩.lan˨˩.t͡ɕʰi˥˩ nɤŋ˧˥.koʊ̯˥˩ pɑŋ˥.ʈ͡ʂu˥˩ ljoʊ̯˧˥.ɕɥɛ˧˥.ʂəŋ kɤŋ˥˩ ʂən˥.ʐu˥ tɤ li˨˩.t͡ɕjɛ˨˩˦ wən˧˥.u˥˩ peɪ̯˥˩.xoʊ̯˥˩ tɤ li˥˩.ʂɨ˨˩˦ jɥɛn˥.jɥɛn˧˥] (Yóu-lǎn bó-wù-guǎn shí, zū-jiè yì tái duō-yǔ-zhǒng zhì-néng yǔ-yīn dǎo-lǎn-qì néng-gòu bāng-zhù liú-xué-shēng gèng shēn-rù de lǐ-jiě wén-wù bèi-hòu de lì-shǐ yuān-yuán.)",
+          "translation": "When touring the museum, renting a multilingual smart audio guide can help international students understand the historical origins behind cultural relics more deeply."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (15.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "结束杭州之旅前，他在河坊街选购了特级西湖龙井茶和苏绣丝巾作为送给父母朋友的精美伴手礼。(Jiéshù Hángzhōu zhī lǚ qián, tā zài Héfángjiē xuǎngòu le tèjí Xīhú Lóngjǐng chá hé Sūxiù sījīn zuòwéi sòng gěi fùmǔ péngyou de jīngměi bànshǒulǐ.)",
+          "reading": "[t͡ɕjɛ˧˥.ʂu˥˩ xɑŋ˧˥.ʈ͡ʂoʊ̯˥ ʈ͡ʂɨ˥ ly˨˩˦ t͡ɕʰjɛn˧˥, tʰa˥ t͡saɪ̯˥˩ xɤ˧˥.fɑŋ˧˥.t͡ɕjɛ˥ ɕɥan˨˩˦.koʊ̯˥˩ lɤ tʰɤ˥˩.t͡ɕi˧˥ ɕi˥.xu˧˥ lʊŋ˧˥.t͡ɕiŋ˨˩˦ t͡ʂʰa˧˥ xɤ˧˥ su˥.ɕjoʊ̯˥˩ sɨ˥.t͡ɕin˥ t͡swoʊ̯˥˩.weɪ̯˧˥ sʊŋ˥˩ keɪ̯˨˩˦ fu˥˩.mu˨˩˦ pʰɤŋ˧˥.joʊ̯ tɤ t͡ɕiŋ˥.meɪ̯˨˩ pan˥˩.ʂoʊ̯˨˩.li˨˩˦] (Jié-shù Háng-zhōu zhī lǚ qián, tā zài Hé-fáng-jiē xuǎn-gòu le tè-jí Xī-hú Lóng-jǐng chá hé Sū-xiù sī-jīn zuò-wéi sòng gěi fù-mǔ péng-you de jīng-měi bàn-shǒu-lǐ.)",
+          "translation": "Before concluding his Hangzhou trip, he selected and bought premium West Lake Longjing tea and Suzhou embroidery silk scarves on Hefang Street as exquisite souvenirs for his parents and friends."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "提前实名约门票，机酒车程早办妥；扫码入园语音导，龙井丝绸伴手乐！"
+      ],
+      "culturalNotes": [
+        "中国文旅注重「礼尚往来」与「人文关怀」。旅行归来为亲友捎带当地标志性伴手礼（如名茶、丝绸、糕点），既是旅行美好体验的分享，也是维系亲情友情的温馨传统。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」（第4讲）的标准汉语规范？",
+          "prompt": "在现代中国参观国家级博物馆或热门名胜景区时，第一步必须完成的操作是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的核心语法法则与应用范例 (15.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (15.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (15.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (15.4.w3)"
+            "通过官方线上平台进行实名制分时段预约 (Real-name time-slot online reservation)",
+            "直接去现场插队硬闯",
+            "在门口等待不买票",
+            "带违禁物品强行进入"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "中国各大名胜文博场馆全面实行线上实名制分时预约制度。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在酒店住宿时，如需将行李暂时存放在前台，最规范礼貌的交际用语是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "您好，请问前台可以为住客提供免费行李寄存服务吗？ (Polite request for luggage storage)",
+            "喂，给我看着包，丢了赔钱！",
+            "把你们房间钥匙全部拿来。",
+            "我不给房费。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「提供行李寄存服务」是标准得体的酒店涉外商务交际话术。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的正式语境下，最准确得体的表达是哪一项？（第15.4题）",
+          "prompt": "旅行结束时，为家人和朋友购买的具有当地浓厚文化特色的纪念礼品称为：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (15.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (15.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (15.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (15.4.x3)"
+            "伴手礼 / 地方特产 (Souvenirs / Local specialties)",
+            "废旧物资",
+            "办公用品",
+            "日常垃圾"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「伴手礼」或「地方特产」是指出门旅行带回赠送亲友的礼物。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u15-l4）所要求的高阶语言表达？",
+          "prompt": "在博物馆参观时，如需自行了解每件文物的详细历史背景，最便捷的租赁设备是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (15.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (15.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (15.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (15.4.y3)"
+            "智能语音导览器 (Smart multilingual audio guide)",
+            "扩音大喇叭",
+            "家用电视机",
+            "收音机天线"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「智能语音导览器」能够根据游客位置自动播放多语种专业文物讲解。"
         }
       ]
     },
@@ -9114,25 +9126,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的掌握程度，请选出表述完全正确的标准范句（测试 15-4）：",
+          "prompt": "请选出下列涉外旅游行程安排中表述最完备、用词最得体典范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (15.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (15.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (15.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (15.4.z3)"
+            "我们提前通过官方小程序预约了故宫上午场的门票，并在前台办理了行李寄存。入园后租借了一台多语种智能导览器，游览结束后还选购了精美的文创伴手礼。(预约、寄存、导览、伴手礼全流程表述流畅规范)",
+            "我们没有买票去故宫硬闯，把包扔在地上，随便拿了东西走。(违法且极不合礼仪规范)",
+            "故宫开门我们进去，不知道干什么。(语言贫瘪无序)",
+            "导览器我们不要买票在酒店退房行李。(句式完全错乱颠倒)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇涵盖了现代旅游预约、酒店服务、智慧导览及文创消费全流程，用词精准典范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u15-l4）的核心关键词（例如「中国地理」）：",
+          "prompt": "请输入指出门旅行带给亲友的纪念礼物核心三字词语（例如特色「」，拼音为 bànshǒulǐ）：",
           "acceptedAnswers": [
-            "中国地理",
-            "中国地理、旅",
-            "中国地理、旅游与名胜古迹"
+            "伴手礼"
           ],
-          "explanation": "正确的核心关键词为「中国地理」。"
+          "explanation": "词语「伴手礼」是现代汉语中指称出门带回赠予亲朋好友的纪念特色礼物的经典名词。"
         }
       ],
       "passThreshold": 0.8
@@ -9143,85 +9153,89 @@
     "subject": "mandarin",
     "unit": 15,
     "lessonNumber": 5,
-    "title": "中国地理、旅游与名胜古迹 (Geography & Cultural Heritage) (第5讲)",
-    "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：中国主要省区地貌、世界文化遗产（故宫/长城/兵马俑）及旅游出行用语。 (第5部分)。",
+    "title": "行万里路读万卷书：华夏名胜游历与文化感悟综合叙事篇章 (Comprehensive Cultural Travel & Geographic Exploration Narrative)",
+    "level": "A2",
+    "objective": "融会贯通中国宏观地理、世界文化遗产（长城/故宫/秦俑）、江南山水名胜及文旅交际感悟，独立撰写文采斐然、境界高远的文化游历纪实语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "将地理格局认知、世界文化遗产朝圣、江南水乡诗意体验与文旅交际实践融为一体，是展示高阶汉语篇章撰写与跨文化审美领悟力的巅峰之作：\n\n一、华夏文化遗产与名胜游历综合篇章宏观脉络：\n1. 古训引航与游学初衷：以「读万卷书，行万里路」开篇，确立知行合一、实地探访华夏文明的游历志向。\n2. 北方古都与历史丰碑巡礼：登临八达岭万里长城领略巨龙雄姿，漫步故宫紫禁城感悟中轴礼制，探访西安秦始皇兵马俑震撼于军阵威严。\n3. 南方水乡与山水园林意境：泛舟桂林漓江感悟水墨画廊，漫步杭州西湖苏堤陶醉于烟雨荷碧，置身苏州拙政园领略移步换景的营造智慧。\n4. 文明互鉴与精神升华：在辽阔的神州大地上真切触摸活态历史，增进对中华文明包容厚重底蕴的深切认同与热爱。\n\n二、全景式文化游历纪实范文赏析：\n- 古人云「读万卷书，行万里路」，这次为期半月的华夏文化遗产深度游历，彻底拓展了我的学术视野与心灵境界。北上古都北京，我登上了蜿蜒盘旋于崇山峻岭之间的八达岭长城，亲身体会到「不到长城非好汉」的雄浑豪迈；漫步于故宫紫禁城红墙黄瓦的太和殿前，中轴对称的严谨布局生动彰显着东方礼制的平和庄重。西行千年古都西安，秦始皇兵马俑一号坑内数千尊千人千面的陶俑军阵威严整肃，令人叹为观止。南下烟雨江南，乘舟荡漾在桂林漓江的碧波之上，两岸奇峰倒映如画；漫步在杭州西湖苏堤与苏州拙政园中，移步换景的园林精巧与山色空濛的湖光水韵宛如一幅徐徐展开的天人合一水墨长卷。这场跨越千山万水的文化之旅，不仅让我亲手触摸到了中华文明生生不息的历史脉搏，更让我在心底深深扎下了热爱华夏山河与博大文化的深厚情结！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的核心语法法则与应用范例 (15.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)' in simple terms to students at the academic seminar."
+          "target": "古人云「读万卷书，行万里路」，这次为期两周的中国文化遗产深度游历彻底开阔了我的学术视野。(Gǔrén yún 'Dú wàn juǎn shū, xíng wàn lǐ lù', zhè cì wéiqī liǎng zhōu de Zhōngguó wénhuà yíchǎn shēndù yóulì chèdǐ kāikuò le wǒ de xuéshù shìyě.)",
+          "reading": "[ku˨˩.ʐən˧˥ jyn˧˥ tu˧˥ wan˥˩ t͡ɕɥɛn˨˩˦ ʂu˥, ɕiŋ˧˥ wan˥˩ li˨˩˦ lu˥˩, ʈ͡ʂɤ˥˩ t͡sʰɨ˥˩ weɪ̯˧˥.t͡ɕʰi˥ ljaŋ˨˩˦ ʈ͡ʂoʊ̯˥ tɤ ʈ͡ʂʊŋ˥.kwɔ˧˥ wən˧˥.xwa˥˩ i˧˥.t͡ɕʰan˨˩˦ ʂən˥.tu˥˩ joʊ̯˧˥.li˥˩ t͡ʂʰɤ˥˩.ti˨˩˦ kʰaɪ̯˥.kʰwɔ˥˩ lɤ wɔ˨˩ tɤ ɕɥɛ˧˥.ʂu˥˩ ʂɨ˥˩.jɛ˨˩˦] (Gǔ-rén yún 'Dú wàn juǎn shū, xíng wàn lǐ lù', zhè cì wéi-qī liǎng zhōu de Zhōng-guó wén-huà yí-chǎn shēn-dù yóu-lì chè-dǐ kāi-kuò le wǒ de xué-shù shì-yě.)",
+          "translation": "The ancients said, 'Read ten thousand books and travel ten thousand miles'; this two-week in-depth tour of Chinese cultural heritage completely broadened my academic horizons."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (15.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "从北京巍峨雄伟的万里长城与故宫紫禁城，到西安震撼人心的秦始皇兵马俑，古老华夏的厚重历史令我深深折服。(Cóng Běijīng wéi'é-xióngwěi de Wànlǐ Chángchéng yǔ Gùgōng Zǐjìnchéng, dào Xī'ān zhènhàn-rénxīn de Qín Shǐhuáng Bīngmǎyǒng, gǔlǎo Huáxià de hòuzhòng lìshǐ lìng wǒ shēnshēn zhéfú.)",
+          "reading": "[t͡sʰʊŋ˧˥ peɪ̯˨˩.t͡ɕiŋ˥ weɪ̯˧˥.ɤ˧˥.ɕjʊŋ˧˥.weɪ̯˨˩˦ tɤ wan˥˩.li˨˩˦ ʈ͡ʂʰɑŋ˧˥.ʈ͡ʂʰəŋ˧˥ y˨˩˦ ku˥˩.kʊŋ˥ t͡sɨ˨˩.t͡ɕin˥˩.ʈ͡ʂʰəŋ˧˥, taʊ̯˥˩ ɕi˥.an˥ ʈ͡ʂən˥˩.xan˥˩.ʐən˧˥.ɕin˥ tɤ t͡ɕʰin˧˥.ʂɨ˨˩.xwaŋ˧˥ piŋ˥.ma˨˩.jʊŋ˨˩˦, ku˨˩.laʊ̯˨˩˦ xwa˧˥.ɕja˥˩ tɤ xoʊ̯˥˩.ʈ͡ʂʊŋ˥˩ li˥˩.ʂɨ˨˩˦ liŋ˥˩ wɔ˨˩ ʂən˥.ʂən˥ ʈ͡ʂɤ˧˥.fu˧˥] (Cóng Běi-jīng wéi-é-xióng-wěi de Wàn-lǐ Cháng-chéng yǔ Gù-gōng Zǐ-jìn-chéng, dào Xī-'ān zhèn-hàn-rén-xīn de Qín Shǐ-huáng Bīng-mǎ-yǒng, gǔ-lǎo Huá-xià de hòu-zhòng lì-shǐ lìng wǒ shēn-shēn zhé-fú.)",
+          "translation": "From the towering and magnificent Great Wall and Forbidden City in Beijing to the soul-stirring Terracotta Warriors in Xi'an, the profound history of ancient China deeply captivated me."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (15.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "南下漫步于苏州拙政园与杭州西湖畔，移步换景的古典园林与烟雨江南的水墨画卷展现出中华美学的至高境界。(Nánxià mànbù yú Sūzhōu Zhuōzhèng Yuán yǔ Hángzhōu Xīhú pàn, yí bù huàn jǐng de gǔdiǎn yuánlín yǔ yānyǔ Jiāngnán de shuǐmò huàjuàn zhǎnxiàn chū Zhōnghuá měixué de zhìgāo jìngjiè.)",
+          "reading": "[nan˧˥.ɕja˥˩ man˥˩.pu˥˩ y˧˥ su˥.ʈ͡ʂoʊ̯˥ ʈ͡ʂwɔ˥.ʈ͡ʂəŋ˥˩ jɥɛn˧˥ y˨˩˦ xɑŋ˧˥.ʈ͡ʂoʊ̯˥ ɕi˥.xu˧˥ pʰan˥˩, i˧˥ pu˥˩ xwan˥˩ t͡ɕiŋ˨˩˦ tɤ ku˨˩.tjɛn˨˩˦ jɥɛn˧˥.lin˧˥ y˨˩˦ jɛn˥.y˨˩˦ t͡ɕjaŋ˥.nan˧˥ tɤ ʂweɪ̯˨˩.mwɔ˥˩ xwa˥˩.t͡ɕɥɛn˥˩ ʈ͡ʂan˨˩˦.ɕjɛn˥˩ t͡ʂʰu˥ ʈ͡ʂʊŋ˥.xwa˧˥ meɪ̯˨˩.ɕɥɛ˧˥ tɤ ʈ͡ʂɨ˥˩.kaʊ̯˥ t͡ɕiŋ˥˩.t͡ɕjɛ˥˩] (Nán-xià màn-bù yú Sū-zhōu Zhuō-zhèng Yuán yǔ Háng-zhōu Xī-hú pàn, yí bù huàn jǐng de gǔ-diǎn yuán-lín yǔ yān-yǔ Jiāng-nán de shuǐ-mò huà-juàn zhǎn-xiàn chū Zhōng-huá měi-xué de zhì-gāo jìng-jiè.)",
+          "translation": "Heading south to stroll in Suzhou's Humble Administrator's Garden and by Hangzhou's West Lake, classical gardens with changing scenery at every step and misty Jiangnan's ink wash scrolls demonstrate the supreme realm of Chinese aesthetics."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (15.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "华夏大地的壮丽山河与灿烂文化不仅让我真切触摸到了活态的历史，更让我在行走中深深爱上了这片充满生机与底蕴的神州大地。(Huáxià dàdì de zhuànglì shānhé yǔ cànlàn wénhuà bùjǐn ràng wǒ zhēnqiè chùmō dào le huótài de lìshǐ, gèng ràng wǒ zài xíngzǒu zhōng shēnshēn ài shàng le zhè piàn chōngmǎn shēngjī yǔ dǐyùn de Shénzhōu dàdì.)",
+          "reading": "[xwa˧˥.ɕja˥˩ ta˥˩.ti˥˩ tɤ ʈ͡ʂwaŋ˥˩.li˥˩ ʂan˥.xɤ˧˥ y˨˩˦ t͡sʰan˥˩.lan˥˩ wən˧˥.xwa˥˩ pu˥.t͡ɕin˨˩˦ ʐɑŋ˥˩ wɔ˨˩ ʈ͡ʂən˥.t͡ɕʰjɛ˥˩ ʈ͡ʂʰu˥.mwɔ˥ taʊ̯˥˩ lɤ xwo˥˩.tʰaɪ̯˥˩ tɤ li˥˩.ʂɨ˨˩˦, kɤŋ˥˩ ʐɑŋ˥˩ wɔ˨˩ t͡saɪ̯˥˩ ɕiŋ˧˥.t͡soʊ̯˨˩˦ ʈ͡ʂʊŋ˥ ʂən˥.ʂən˥ aɪ̯˥˩ ʂɑŋ˥˩ lɤ ʈ͡ʂɤ˥˩ pʰjɛn˥˩ ʈ͡ʂʰʊŋ˥.man˨˩˦ ʂəŋ˥.t͡ɕi˥ y˨˩˦ ti˨˩.jyn˥˩ tɤ ʂən˧˥.ʈ͡ʂoʊ̯˥ ta˥˩.ti˥˩] (Huá-xià dà-dì de zhuàng-lì shān-hé yǔ càn-làn wén-huà bù-jǐn ràng wǒ zhēn-qiè chù-mō dào le huó-tài de lì-shǐ, gèng ràng wǒ zài xíng-zǒu zhōng shēn-shēn ài shàng le zhè piàn chōng-mǎn shēng-jī yǔ dǐ-yùn de Shén-zhōu dà-dì.)",
+          "translation": "The magnificent mountains and rivers and splendid culture of the land of Huaxia not only allowed me to genuinely touch living history, but also made me deeply fall in love with this land of Shenzhou full of vitality and heritage during my journey."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "万卷读书万里行，长城紫禁秦俑迎；西湖烟雨苏园秀，壮丽神州底蕴深！"
+      ],
+      "culturalNotes": [
+        "「知者乐水，仁者乐山」。游历华夏名胜不仅是一次地理空间的位移，更是一场与古代先贤跨越千年的心灵对话与精神洗礼。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」（第5讲）的标准汉语规范？",
+          "prompt": "在文化游历综合叙事篇章中，串联「北上古都长城故宫 -> 西进秦俑古迹 -> 南下江南山水园林 -> 思想升华」的逻辑主线是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的核心语法法则与应用范例 (15.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (15.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (15.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (15.5.w3)"
+            "读万卷书行万里路 -> 探访北方长城故宫 -> 领略西安秦俑 -> 沉醉江南西湖园林 -> 感悟中华文明博大精深 (Strict spatial-temporal and cultural thematic progression)",
+            "先去买伴手礼 -> 再回家睡觉 -> 再去长城",
+            "只看现代大商场 -> 不去任何古迹",
+            "直接写结论没有任何游历细节"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "叙事篇章严格遵循从北到西再到南的地理空间移动与文化深度递进脉络。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "古籍名言「读万卷书，行万里路」所蕴含的核心中国哲学智慧是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "理论知识学习与实地考察实践紧密结合（知行合一） (Unifying theory with practical exploration)",
+            "只读书不出门",
+            "只旅游不读书",
+            "书本知识全部是错误的"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「读万卷书，行万里路」倡导理论研读与实践游历并重，是知行合一的典范。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的正式语境下，最准确得体的表达是哪一项？（第15.5题）",
+          "prompt": "请选出下列文化遗产游历纪实中辞藻最典雅、文化感悟最深刻的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (15.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (15.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (15.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (15.5.x3)"
+            "从巍峨长城到江南水乡，这趟文化之旅让我真切触摸到了华夏文明生生不息的脉搏，更深刻领悟了天人合一的东方美学。(文采飞扬、立意高远、意境深邃)",
+            "我去长城照相，去西湖划船，很好玩。(用语极为口语平淡)",
+            "华夏山河到处是人，我走累了想回家。(态度消极缺乏审美情操)",
+            "长城西湖在故宫里面很好吃。(语义混乱错乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项将具体景点游历升华至文明认同与哲学美学高度，语言极为典雅纯正。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u15-l5）所要求的高阶语言表达？",
+          "prompt": "在中华传统文化中，指称幅员辽阔、历史悠久的中华大地的诗意代称是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (15.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (15.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (15.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (15.5.y3)"
+            "神州大地 / 华夏大地 (Divine Land / Land of Huaxia)",
+            "天涯海角",
+            "荒芜之地",
+            "异国他乡"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「神州大地」或「华夏大地」是中华国土最宏伟典雅的经典诗意代称。"
         }
       ]
     },
@@ -9229,25 +9243,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的掌握程度，请选出表述完全正确的标准范句（测试 15-5）：",
+          "prompt": "请选出下列华夏名胜游历与文化感悟综合叙事语篇中艺术境界最高、逻辑架构最严谨的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (15.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (15.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (15.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (15.5.z3)"
+            "行走在华夏大地的壮丽山河之间，无论是雄伟庄严的万里长城与故宫紫禁城，还是空濛温婉的杭州西湖与苏州园林，都让我深深领略了中华文明博大精深、天人合一的永恒魅力。这场行万里路的文化求索，铸就了我人生中最璀璨的思想财富！(全篇结构严密、文采斐然、南北交融、境界崇高)",
+            "中国很好玩，我去了长城和西湖，拍了很多自拍照。(语气轻浮立意浅薄)",
+            "名胜古迹都差不多，看了长城就不想看西湖了。(缺乏文化鉴赏力)",
+            "神州大地在长城西湖里走走。(语法残缺语言破碎)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在地理广度、历史深度、美学高度及思想升华上均达到了现代汉语的最高境界。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u15-l5）的核心关键词（例如「中国地理」）：",
+          "prompt": "请输入中华民族传统诗意代称的核心两字名称（例如「」大地，拼音为 Shénzhōu）：",
           "acceptedAnswers": [
-            "中国地理",
-            "中国地理、旅",
-            "中国地理、旅游与名胜古迹"
+            "神州",
+            "神州大地",
+            "华夏"
           ],
-          "explanation": "正确的核心关键词为「中国地理」。"
+          "explanation": "词语「神州」是中华大地的经典诗意尊称。"
         }
       ],
       "passThreshold": 0.8
