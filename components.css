@@ -3768,11 +3768,15 @@ button.fearn-lang-btn-primary:hover:not(:disabled) {
   }
 }
 
-/* Scoped Urdu RTL Layout & Direction */
+/* Scoped Urdu & Arabic RTL Layout & Direction */
 .fearn-urdu-module,
 .fearn-urdu-flow,
 .fearn-urdu-list,
-.fearn-urdu-unit-picker {
+.fearn-urdu-unit-picker,
+.fearn-arabic-module,
+.fearn-arabic-flow,
+.fearn-arabic-list,
+.fearn-arabic-unit-picker {
   direction: rtl;
   text-align: right;
 }
@@ -3782,11 +3786,18 @@ button.fearn-lang-btn-primary:hover:not(:disabled) {
 .fearn-urdu-flow .fearn-lang-btn-primary,
 .fearn-urdu-flow .fearn-lang-btn-secondary,
 .fearn-urdu-list button,
-.fearn-urdu-flow .fearn-lang-checkpoint-progress {
+.fearn-urdu-flow .fearn-lang-checkpoint-progress,
+.fearn-arabic-flow button,
+.fearn-arabic-flow .fearn-speak-btn,
+.fearn-arabic-flow .fearn-lang-btn-primary,
+.fearn-arabic-flow .fearn-lang-btn-secondary,
+.fearn-arabic-list button,
+.fearn-arabic-flow .fearn-lang-checkpoint-progress {
   direction: ltr;
 }
 
-.fearn-urdu-flow .fearn-lang-example-row {
+.fearn-urdu-flow .fearn-lang-example-row,
+.fearn-arabic-flow .fearn-lang-example-row {
   direction: rtl;
   text-align: right;
 }

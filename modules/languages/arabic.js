@@ -118,7 +118,8 @@
     var curriculum = getCurriculum();
     var lesson = curriculum.lessons[lessonId];
     var flowRoot = document.createElement('div');
-    flowRoot.className = 'fearn-lang-lesson-flow';
+    flowRoot.className = 'fearn-lang-lesson-flow fearn-arabic-flow';
+    flowRoot.setAttribute('dir', 'rtl');
 
     if (!lesson) {
       flowRoot.innerHTML =
@@ -647,7 +648,8 @@
     container.appendChild(goal);
 
     var list = document.createElement('div');
-    list.className = 'fearn-lang-lesson-list';
+    list.className = 'fearn-lang-lesson-list fearn-arabic-list';
+    list.setAttribute('dir', 'rtl');
     
     var unitLessonIds = getLessonIdsForUnit(unit, curriculum);
     if (!unitLessonIds.length) {
@@ -683,6 +685,7 @@
     icon: '🇸🇦',
     render: function (container) {
       container.innerHTML = '';
+      container.classList.add('fearn-arabic-module');
       var curriculum = getCurriculum();
       var ledger = getLedger();
 
