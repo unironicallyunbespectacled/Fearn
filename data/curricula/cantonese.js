@@ -9505,53 +9505,62 @@
     "subject": "cantonese",
     "unit": 23,
     "lessonNumber": 1,
-    "title": "新聞傳媒與香港社會論題 (Media & Social Issues) (第1課)",
+    "title": "新聞傳媒與香港社會論題：新聞播報語體與信源引述 (Formal Broadcast Cantonese & Sourcing)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元23第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語廣播新聞語體（據悉、消息指、當局表示、發言人指出、重申、呼籲）之詞彙規範、客觀引述句式與莊重語調。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語新聞播報語體（廣播粵語）係一種融合了古典雅詞、書面規範與地道粵語語音之莊重語體（Formal Register）：\n\n一、新聞信源引述與客觀陳述核心標記：\n１．信源引述標記（Sourcing Markers）：\n- 「據悉」（geoi3 sik1）：據知情人士獲悉。\n- 「消息指」（siu1 sik1 zi2）：據內部或權威消息來源透露。\n- 「據了解」（geoi3 liu5 gaai2）：根據記者實地調查或了解。\n\n２．官方立場與機構聲明標記（Official Statements）：\n- 「當局表示」（dong1 guk6 biu2 si6）：政府主管部門正式對外表態。\n- 「發言人指出 / 強調」（faat3 jin4 jan4 zi2 ceot1 / koeng4 diu1）：發言人闡明重點。\n- 「重申」（cung4 san1）：再次鄭重申明既定方針。\n- 「呼籲市民」（fu1 ju6 si5 man4）：鄭重請求公眾配合配合。\n\n二、廣播語體與日常口語之對比：\n- 日常口語「政府話」→ 新聞播報「當局表示 / 發言人指出」。\n- 日常口語「聽人講」→ 新聞播報「據悉 / 消息透露」。\n- 日常口語「叫大家注意」→ 新聞播報「呼籲公眾提高警惕」。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 23 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 23 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 23 in communication."
+          "target": "據悉，政府最快會喺下個禮拜正式公佈新一輪扶貧助弱同就業支援政策措施。",
+          "reading": "geoi3 sik1, zing3 fu2 zeoi3 faai3 wui5 hai2 haa6 go3 lai5 baai3 zing3 sik1 gung1 bou3 san1 jat1 leon4 fu4 pan4 zo6 joek6 tung4 zau6 jip6 zi1 wun4 zing3 caak3 cok3 si1. [kɵy˧ sɪk̚˥, tsɪŋ˧ fuː˧˥ tsɵy˧ faːi˧ wui˩˧ hɐi˩˧ haː˨ kɔː˧ lɐi˩˧ paːi˧ tsɪŋ˧ sɪk̚˥ kʊŋ˥ pou˧ sɐn˥ jɐt̚˥ lɵn˨˩ fuː˨˩ pʰɐn˨˩ tsɔː˨ jœːk̚˨ tʰʊŋ˨˩ tsɐu˨ jiːp̚˨ tsiː˥ wuːn˨˩ tsɪŋ˧ tsʰaːk̚˧ tsʰɔːk̚˧ siː˥] (GOEY-SIK, JING-FOO JEOY-FY WUI HY HAH-GOH-LY-BY JING-SIK GONG-BOU SUN-YUT-LEON FOO-PUN JOR-YERK TOONG JAU-YIP JEE-WOON JING-CHAHK CHOK-SEE)",
+          "translation": "It is understood that the government will officially announce a new round of poverty alleviation and employment support policy measures as early as next week."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元23-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "運輸署發言人指出，受惡劣天氣影響，多條主要幹道需要實施臨時交通管制措施。",
+          "reading": "wan6 syu1 cyu5 faat3 jin4 jan4 zi2 ceot1, sau6 ok3 lit6 tin1 hei3 jing2 hoeng2, do1 tiu4 zyu2 jiu3 gon3 dou6 seoi1 jiu3 sat6 si1 lin4 si4 gaau1 tung1 gun2 zai3 cok3 si1. [wɐn˨ syː˥ tsʰyː˩˧ faːt̚˧ jiːn˨˩ jɐn˨˩ tsiː˧˥ tsʰɵt̚˥, sɐu˨ ɔːk̚˧ liːt̚˨ tʰiːn˥ hei˧ jɪŋ˧˥ hœːŋ˧˥, tɔː˥ tʰiːu˨˩ tsyː˧˥ jiu˧ kɔːn˧ tou˨ sɵy˥ jiu˧ sɐt̚˨ siː˥ liːn˨˩ siː˨˩ kaːu˥ tʰʊŋ˥ kuːn˧˥ tsɐi˧ tsʰɔːk̚˧ siː˥] (WUN-SYU-CHUE FAHT-YEEN-YUN JEE-CHUT, SAU OK-LEET TEEN-HEY YING-HEUNG, DOH-TEW JUE-YEW GOHN-DOU SOEY-YEW SUT-SEE LEEN-SEE GAU-TOONG GOON-JAI CHOK-SEE)",
+          "translation": "The Transport Department spokesperson pointed out that affected by severe weather, several major trunk roads need to implement temporary traffic control measures."
+        },
+        {
+          "target": "警方重申絕不容忍任何違法行為，並再次呼籲市民切勿以身試法。",
+          "reading": "ging2 fong1 cung4 san1 zyut6 bat1 jung4 jan2 jam6 ho4 wai4 faat3 hang4 wai4, bing6 zoi3 ci3 fu1 ju6 si5 man4 cit3 mat6 ji5 san1 si3 faat3. [kɪŋ˧˥ fɔːŋ˥ tsʰʊŋ˨˩ sɐn˥ tsyːt̚˨ pɐt̚˥ jʊŋ˨˩ jɐn˩˧ jɐm˨ hɔː˨˩ wɐi˨˩ faːt̚˧ hɐŋ˨˩ wɐi˨˩, pɪŋ˨ tsɔːi˧ tsʰiː˧ fuː˥ jyː˨ siː˨˩ mɐn˨˩ tsʰiːt̚˧ mɐt̚˨ jiː˩˧ sɐn˥ siː˧ faːt̚˧] (GING-FONG CHOONG-SUN JUET-BUT-YOONG-YUN YUM-HOH WAI-FAHT HAHNG-WAI, BING JOY-CHEE FOO-YUE SEE-MUN CHEET-MUT YEE-SUN-SEE-FAHT)",
+          "translation": "The police reaffirmed that they will never tolerate any illegal acts and once again appealed to citizens never to defy the law."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【播報引述歌】客觀傳媒講「據悉」，權威透露「消息指」；官方表態「當局話」，鄭重叮囑「呼籲起」！"
+      ],
+      "culturalNotes": [
+        "香港電台（RTHK）與無綫電視（TVB）的新聞播音員被視為標準粵語正音與新聞語體之典範。其特點係聲調沉穩、用字精準典雅，並嚴格遵循粵語九聲正音標準。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"紅色\":",
+          "prompt": "【新聞引述】新聞主播引述可靠內部情報時，最權威客觀之開篇信源詞係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：藍色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：黃色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：綠色誤用）"
+            "消息指 (Sources indicate)",
+            "有人講",
+            "聽講話",
+            "街坊話"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「消息指 / 據悉」為新聞傳媒最權威標準之客觀信源引述詞。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"紅色\":",
+          "prompt": "【官方表態】在正式新聞稿中表述主管部門對某項政策的鄭重說明，地道表達係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：黃色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：綠色誤用）",
-            "語序顛倒嘅非標準句式（例項：藍色錯置）"
+            "當局發言人指出並重申方針 (Spokesperson pointed out & reaffirmed)",
+            "老細隨便講兩句",
+            "阿茂整餅式通知",
+            "街坊私下傾計"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「發言人指出 / 重申」為官方新聞語體之標準莊重表達。"
         }
       ]
     },
@@ -9559,15 +9568,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"紅色\": Which sentence is completely correct?",
+          "prompt": "【語體轉換】日常口語「警察叫大家千祈唔好犯法」轉換為莊重新聞語體應為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：綠色誤用）",
-            "語序顛倒嘅非標準句式（例項：藍色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：黃色未適配）"
+            "警方呼籲市民切勿以身試法 (Police appeal to citizens not to defy law)",
+            "差人叫大家唔好做壞事",
+            "警察話大家小心啲啦",
+            "警署發明咗新規矩"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「警方呼籲市民切勿以身試法」體現了新聞語體之規範性、典雅性與客觀性。"
         }
       ],
       "passThreshold": 0.8
@@ -9578,53 +9587,62 @@
     "subject": "cantonese",
     "unit": 23,
     "lessonNumber": 2,
-    "title": "新聞傳媒與香港社會論題 (Media & Social Issues) (第2課)",
+    "title": "房屋、物業與城市規劃深度論題：「納米樓 / 劏房」、「供樓負擔」、「市區重建」 (Housing & Urban Redevelopment)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元23第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港房屋居住制度、房地產市場、按揭貸款與市區重建規劃核心術語（劏房、納米樓、居屋、供樓、首期、強拍）之社會論述。",
     "presentation": {
-      "explanation": "",
+      "explanation": "房屋政策與樓市走勢係香港社會民生關注度最高之核心論題，涉及獨特之本土居住形態與金融術語：\n\n一、香港特色居住形態與房屋階梯：\n１．公營房屋體系：\n- 「公屋」（gung1 uk1）：公共租住房屋，由房委會興建提供予低收入家庭。\n- 「居屋」（geoi1 uk1）：居者有其屋計劃，以折扣價售予中低收入家庭之資助出售房屋。\n２．私營極端居住形態：\n- 「劏房」（tong1 fong4*2）：將一個普通住宅單位分間成兩個或以上獨立微型房間出租。\n- 「納米樓」（naap6 mai5 lau4*2）：實用面積極小（通常少於200平方呎）之袖珍私樓單位。\n\n二、置業按揭與市區更新術語：\n１．購房金融體系：\n- 「首期」（sau2 kei4）：購房時需即時支付之首期訂金/首付。\n- 「供樓」（gung1 lau4*2）：按月償還房屋按揭貸款本金與利息。\n- 「按揭成數」（on3 kit3 sing4 sou3）：銀行貸款額佔物業總估值之百分比。\n２．市區更新與舊樓收購：\n- 「市區重建局（市建局）」（si5 gin3 guk6）：主導舊區更新與樓宇復修之法定機構。\n- 「強拍」（koeng4 paak3）：強制拍賣，發展商收集舊樓達法定業權門檻後向土地審裁處申請拍賣整個地段。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 23 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 23 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 23 in communication."
+          "target": "為咗改善基層市民嘅居住環境，政府近年積極加快興建簡約公屋以取締劣質劏房。",
+          "reading": "wai6 zo2 goi2 sin6 gei1 cang4 si5 man4 ge3 geoi1 zyu6 waan4 ging2, zing3 fu2 gan6 nin4 zik1 gik6 gaa1 faai3 hing1 gin3 gaan2 joek3 gung1 uk1 ji5 ceoi2 dai3 lyut3 zat1 tong1 fong4*2. [wɐi˨ tsɔː˧˥ kɔːi˧˥ siːn˨ kei˥ tsʰɐŋ˨˩ siː˨˩ mɐn˨˩ kɛː˧ kɵy˥ tsyː˨ waːn˨˩ kɪŋ˧˥, tsɪŋ˧ fuː˧˥ kɐn˨ niːn˨˩ tsɪk̚˥ kɪk̚˨ kaː˥ faːi˧ hɪŋ˥ kiːn˧ kaːn˧˥ jœːk̚˧ kʊŋ˥ uk̚˥ jiː˩˧ tsʰɵy˧˥ tɐi˧ lyːt̚˧ tsɐt̚˥ tʰɔːŋ˥ fɔːŋ˧˥] (WAI-JOR GOY-SEEN GAY-CHUNG SEE-MUN GEH GOEY-JUE WAHN-GING, JING-FOO GUN-NEEN JIK-GIK GAH-FY HING-GEEN GAAN-YERK GONG-UK YEE CHOEY-DY LUET-JUT TONG-FONG)",
+          "translation": "In order to improve the living environment of grassroots citizens, the government has actively accelerated the construction of light public housing in recent years to eradicate substandard subdivided flats."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元23-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "依家高息環境下供樓負擔加重，好多後生仔就算儲夠首期，都未必敢貿然入市買樓。",
+          "reading": "ji1 gaa1 gou1 sik1 waan4 ging2 haa6 gung1 lau4*2 fu6 daam1 gaa1 zung6, hou2 do1 hau6 saang1 zai2 zau6 syun3 cou5 gau3 sau2 kei4, dou1 mei6 bit1 gam2 mau6 jin4 jap6 si5 maai5 lau4*2. [jiː˥ kaː˥ kou˥ sɪk̚˥ waːn˨˩ kɪŋ˧˥ haː˨ kʊŋ˥ lɐu˧˥ fu˨ taːm˥ kaː˥ tsʊŋ˨, hou˧˥ tɔː˥ hɐu˨ saːŋ˥ tsɐi˧˥ tsɐu˨ syːn˧ tsʰou˩˧ kɐu˧ sɐu˧˥ kʰei˨˩, tou˥ mei˨ piːt̚˥ kɐm˧˥ mɐu˨ jiːn˨˩ jɐp̚˨ siː˩˧ maːi˩˧ lɐu˧˥] (YEE-GAH GOU-SIK WAHN-GING HAH GONG-LAU FOO-DAHM GAH-JOONG, HOH-DOH HAU-SAHNG-JY JAU-SUEN CHOU-GAU SAU-KEY, DOH MAY-BIT GUM MAU-YEEN YUP-SEE MY-LAU)",
+          "translation": "Under the current high interest rate environment, mortgage repayment burdens have increased; many young people, even if they have saved enough for the down payment, may not dare to rashly enter the market to buy property."
+        },
+        {
+          "target": "深水埗同土瓜灣等舊區正進行大規模市區重建，以提升樓宇安全同社區配套設施。",
+          "reading": "sam1 seoi2 bou6*2 tung4 tou2 gwaa1 waan1 dang2 gau6 keoi1 zing3 zeon3 hang4 daai6 kwai1 mou4 si5 keoi1 cung4 gin3, ji5 tai4 sing1 lau4 jyu5 on1 cyun4 tung4 se5 keoi1 pui3 tou3 cit3 si1. [sɐm˥ sɵy˧˥ pou˧˥ tʰʊŋ˨˩ tʰou˧˥ kʷaː˥ waːn˥ tɐŋ˧˥ kɐu˨ kʰɵy˥ tsɪŋ˧ tsɵn˧ hɐŋ˨˩ taːi˨ kʰwɐi˥ mouou˨˩ siː˨˩ kʰɵy˥ tsʰʊŋ˨˩ kiːn˧, jiː˩˧ tʰɐi˨˩ sɪŋ˥ lɐu˨˩ jyː˩˧ ɔːn˥ tsʰyːn˨˩ tʰʊŋ˨˩ sɛː˩˧ kʰɵy˥ pʰuːi˧ tou˧ tsʰiːt̚˧ siː˥] (SUM-SOEY-POU TOONG TOU-GWAH-WAHN DUNG GAU-KUY JING JUEN-HAHNG DY-KWAI-MOU SEE-KUY CHOONG-GEEN, YEE TY-SING LAU-YUE ON-CHUEN TOONG SEH-KUY POOY-TOU CHEET-SEE)",
+          "translation": "Old districts like Sham Shui Po and To Kwa Wan are undergoing large-scale urban redevelopment to enhance building safety and community infrastructure."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【房屋術語訣】基層租住住「公屋」，折扣資助買「居屋」；分間微型叫「劏房」，每月還款叫「供樓」！"
+      ],
+      "culturalNotes": [
+        "「買樓置業」在香港文化中被視為人生最重要的里程碑之一。「上車」（首次置業）、「供樓」（供還按揭）與「換樓」（升級住宅）構成了香港中產階級之典型生活軌跡。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"藍色\":",
+          "prompt": "【房屋類型】指稱將住宅單位分間為多個極微小空間獨立出租之住房形態，專用術語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：黃色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：綠色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：白色誤用）"
+            "劏房 (tong1 fong4*2 / Subdivided flats)",
+            "居屋",
+            "村屋",
+            "豪宅"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「劏房」指將單位分間出租之極端微型居住形態。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"藍色\":",
+          "prompt": "【置業術語】廣東話中指稱「按月償還房屋貸款本金與利息」，地道動詞短語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：綠色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：白色誤用）",
-            "語序顛倒嘅非標準句式（例項：黃色錯置）"
+            "供樓 (gung1 lau4*2 / Paying mortgage)",
+            "炒樓",
+            "租樓",
+            "睇樓"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「供樓」指每月按期向銀行繳付按揭貸款。"
         }
       ]
     },
@@ -9632,15 +9650,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"藍色\": Which sentence is completely correct?",
+          "prompt": "【金融術語】在香港購買私人物業時，買家首先必須自行支付之初始訂金額度稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：白色誤用）",
-            "語序顛倒嘅非標準句式（例項：黃色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：綠色未適配）"
+            "首期 (sau2 kei4 / Down payment)",
+            "利息",
+            "差餉",
+            "管理費"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「首期」指置業時買家自備並先行繳付之首期款項（Down Payment）。"
         }
       ],
       "passThreshold": 0.8
@@ -9651,53 +9669,62 @@
     "subject": "cantonese",
     "unit": 23,
     "lessonNumber": 3,
-    "title": "新聞傳媒與香港社會論題 (Media & Social Issues) (第3課)",
+    "title": "經濟金融、股市波動與民生通脹：「恒指升跌」、「加息週期」、「通脹壓力」 (Financial Markets & Economy)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元23第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握國際金融中心語境下之股市指數波動、利率政策調整、通脹壓力與家庭預算開支（恒指、跌穿、升破、加息、減息、抗通脹）之專業表達。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港作為全球重要金融樞紐，日常傳媒與市民侃談深度交織著股市、利率與經濟民生詞彙：\n\n一、股市與金融市場核心動態術語：\n１．指數與點數行情：\n- 「恒生指數（恒指）」（hang4 sang1 zi2 sou3）：反映香港股票市場表現之旗艦指數。\n- 「跌穿」（tit3 cyun1）：股指跌破某一重要心理關口（如『跌穿萬八點』）。\n- 「升破 / 衝破」（sing1 po3 / cung1 po3）：股指強勢突破向上關口。\n- 「成交額」（sing4 gaau1 ngaak6）：市場全日總交易金額（如『大市成交過千億』）。\n２．貨幣與利率週期：\n- 「加息 / 減息」（gaa1 sik1 / gaam2 sik1）：央行或金管局調高或調低基準利率。\n- 「最優惠利率（P息）」（zeoi3 jau1 wai6 lei6 leot6）：商業銀行提供予優質客戶之貸款基準利率。\n\n二、民生經濟與物價通脹術語：\n- 「通脹壓力」（tung1 zoeng3 aat3 lik6）：通貨膨脹引致物價攀升之壓力。\n- 「緊縮開支 / 慳荷包」（gan2 suk1 hoi1 zi1 / haan1 ho4 baau1）：縮減非必要花銷。\n- 「開支預算」（hoi1 zi1 jyu6 syun3）：家庭或企業預定支出規劃。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 23 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 23 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 23 in communication."
+          "target": "受外圍股市造好帶動，恒指今日高開三百點，全日大市總成交額突破千五億港元。",
+          "reading": "sau6 ngoi6 wai4 gu2 si5 zou6 hou2 daai3 dung6, hang4 zi2 gam1 jat6 gou1 hoi1 saam1 baak3 dim2, cyun4 jat6 daai6 si5 zung2 sing4 gaau1 ngaak6 tut1 po3 cin1 ng5 jik1 gong2 jyun4. [sɐu˨ ŋɔːi˨ wɐi˨˩ kuː˧˥ siː˩˧ tsou˨ hou˧˥ taːi˧ tʊŋ˨, hɐŋ˨˩ tsiː˧˥ kɐm˥ jɐt˨ kou˥ hɔːi˥ saːm˥ paːk̚˧ tiːm˧˥, tsʰyːn˨˩ jɐt˨ taːi˨ siː˩˧ tsʊŋ˧˥ sɪŋ˨˩ kaːu˥ ŋaːk̚˨ tʰɐt̚˥ pʰɔː˧ tsʰiːn˥ ŋ̩˩˧ jɪk̚˩ kɔːŋ˧˥ jyːn˨˩] (SAU NGOY-WAI GOO-SEE JOU-HOH DY-DOONG, HUNG-JEE GUM-YUT GOU-HOI SAHM-BAHK-DEEM, CHUEN-YUT DY-SEE JOONG SING-GAU-NGAHK TUT-POH CHEEN-NG-YIK GONG-YUEN)",
+          "translation": "Driven by positive performance in overseas markets, the Hang Seng Index opened 300 points higher today, and total market turnover exceeded 150 billion HKD for the full day."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元23-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "喺持續加息週期下，各行各業經營成本上升，市民日常開支亦都面對唔少通脹壓力。",
+          "reading": "hai2 ci4 zuk6 gaa1 sik1 zau1 kei4 haa6, gok3 hong4 gok3 jip6 ging1 jing4 sing4 bun2 soeng5 sing1, si5 man4 jat6 seung4 hoi1 zi1 jik6 dou1 min6 deoi3 m4 siu2 tung1 zoeng3 aat3 lik6. [hɐi˩˧ tsʰiː˨˩ tsʊk̚˨ kaː˥ sɪk̚˥ tsɐu˥ kʰei˨˩ haː˨, kɔːk̚˧ hɔːŋ˨˩ kɔːk̚˧ jiːp̚˨ kɪŋ˥ jɪŋ˨˩ sɪŋ˨˩ puːn˧˥ sœːŋ˨ sɪŋ˥, siː˨˩ mɐn˨˩ jɐt˨ sœːŋ˨˩ hɔːi˥ tsiː˥ jɪk̚˨ tou˥ miːn˨ tɵy˧ m̩˨˩ siu˧˥ tʰʊŋ˥ tsœːŋ˧ aːt̚˧ lɪk̚˨] (HY CHEE-JUK GAH-SIK JAU-KEY HAH, GOK-HOHNG GOK-YIP GING-YING SING-BOON SEUNG-SING, SEE-MUN YUT-SEUNG HOI-JEE YIK DOH MEEN-DEOY M-SIU TOONG-JEUNG AHT-LIK)",
+          "translation": "Under the continuous rate-hiking cycle, operating costs for all industries have risen, and citizens' daily expenditure also faces considerable inflationary pressure."
+        },
+        {
+          "target": "面對百物騰貴，精打細算嘅家庭主婦紛紛諗計慳荷包，以減輕家庭財政負擔。",
+          "reading": "min6 deoi3 baak3 mat6 tang4 gwai3, zing1 daa2 sai3 syun3 ge3 gaa1 ting4 zyu2 fu5 fan1 fan1 lam2 gai3*2 haan1 ho4 baau1, ji5 gaam2 hing1 gaa1 ting4 coi4 zing3 fu6 daam1. [miːn˨ tɵy˧ paːk̚˧ mɐt̚˨ tʰɐŋ˨˩ kʷɐi˧, tsɪŋ˥ taː˧˥ sɐi˧ syːn˧ kɛː˧ kaː˥ tʰɪŋ˨˩ tsyː˧˥ fuː˩˧ fɐn˥ fɐn˥ lɐm˩˧ kɐi˧˥ haːn˥ hɔː˨˩ paːu˥, jiː˩˧ kaːm˧˥ hɪŋ˥ kaː˥ tʰɪŋ˨˩ tsʰɔːi˨˩ tsɪŋ˧ fu˨ taːm˥] (MEEN-DEOY BAHK-MUT TUNG-GWY, JING-DAH-SY-SUEN GEH GAH-TING JUE-FOO FUN-FUN LUM-GY HAAN-HOH-BAAU, YEE GAHM-HING GAH-TING CHOY-JING FOO-DAHM)",
+          "translation": "Facing soaring commodity prices, shrewd housewives are figuring out ways to save money to alleviate household financial burdens."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【財經金融歌】股市旗艦「恒生指」，跌破關口叫「跌穿」；銀行加息供樓緊，精打細算「慳荷包」！"
+      ],
+      "culturalNotes": [
+        "香港茶餐廳與街市早晨常可見市民熱烈討論『恒指今日升幾多點』、『幾時減息』。金融市場行情已深入融入香港市井大眾之生活常態。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"黃色\":",
+          "prompt": "【股指術語】形容恒生指數跌破重要心理支持點位，專業廣東話術語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：綠色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：白色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：黑色誤用）"
+            "跌穿 (tit3 cyun1 / Fell below / Breached)",
+            "跌入",
+            "跌埋",
+            "跌醒"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「跌穿」（如跌穿萬八點）為財經新聞描寫指數跌破關口之專屬動補結構。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"黃色\":",
+          "prompt": "【節省開支】市井口語中生動形容「節約花銷、省錢守住錢包」，地道動賓短語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：白色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：黑色誤用）",
-            "語序顛倒嘅非標準句式（例項：綠色錯置）"
+            "慳荷包 (haan1 ho4 baau1 / Save money / Tighten purse strings)",
+            "炒荷包",
+            "供荷包",
+            "買荷包"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「慳荷包」（慳錢）比喻節省開銷、精打細算。"
         }
       ]
     },
@@ -9705,15 +9732,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"黃色\": Which sentence is completely correct?",
+          "prompt": "【宏觀經濟】術語「加息週期」（gaa1 sik1 zau1 kei4）對普通置業家庭最直接之影響為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：黑色誤用）",
-            "語序顛倒嘅非標準句式（例項：綠色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：白色未適配）"
+            "銀行物業按揭月供款項隨利率上升而增加 (Monthly mortgage repayment burdens increase)",
+            "超市物價立刻全部免費",
+            "水電費賬單徹底免除",
+            "公共交通工具全面停止收費"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "加息週期下銀行利率上升，直接導致浮動利率按揭家庭之「供樓」負擔顯著加重。"
         }
       ],
       "passThreshold": 0.8
@@ -9724,53 +9751,62 @@
     "subject": "cantonese",
     "unit": 23,
     "lessonNumber": 4,
-    "title": "新聞傳媒與香港社會論題 (Media & Social Issues) (第4課)",
+    "title": "環保政策、廢物徵費與可持續綠色生活：「垃圾徵費」、「走塑政策」、「源頭減廢」 (Environmental Policy & Green Living)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元23第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港環保公共政策論述（垃圾收費、走塑政策、源頭減廢、廚餘回收、碳中和、綠色低碳轉型）之核心專業詞彙與公眾討論句型。",
     "presentation": {
-      "explanation": "",
+      "explanation": "隨著可持續發展理念深入人心，香港近年推行多項重大環保政策，引發社會廣泛討論：\n\n一、香港環保政策核心關鍵字：\n１．垃圾徵費體系：\n- 「都市固體廢物收費（垃圾徵費）」（dou1 si5 gu3 tai2 fai3 mat6 sau1 fai3）：按『污染者自付』原則推行之廢物收費計劃。\n- 「指定垃圾袋」（zi2 ding6 laap6 saap3 doi6*2）：市民棄置垃圾必須購買之專用環保袋。\n- 「廚餘回收」（cyu4 jyu4 wui4 sau1）：推動有機廚餘分類收集，減少堆填區負荷。\n\n２．管制即棄塑膠政策：\n- 「走塑」（zau2 sok3）：告別/減少使用一次性即棄塑膠餐具及用品。\n- 「即棄膠餐具」（zik1 hei3 gaau1 caan1 geoi6）：塑膠吸管、刀叉、發泡膠飯盒等。\n- 「環保替代品」（waan4 bou2 tai3 doi6 ban2）：紙質、竹木等可降解材料製品。\n\n二、可持續發展理念標語：\n- 「源頭減廢」（jyun4 tau4 gaam2 fai3）：在產品生產與消費源頭減少垃圾產生。\n- 「綠色在區區」（luk6 sik1 zoi6 keoi1 keoi1）：全港社區回收網絡點（綠在區區）。\n- 「碳中和」（taan3 zung1 wo4）：實現溫室氣體淨零排放。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 23 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 23 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 23 in communication."
+          "target": "全港食肆全面落實第一階段走塑政策，堂食禁止提供即棄膠餐具同膠飲管。",
+          "reading": "cyun4 gong2 sik6 si3 cyun4 min6 lok6 sat6 dai6 jat1 gaai1 dyun6 zau2 sok3 zing3 caak3, tong4 sik6 gam1 zi2 tai4 gung1 zik1 hei3 gaau1 caan1 geoi6 tung4 gaau1 jam2 gun2. [tsʰyːn˨˩ kɔːŋ˧˥ sɪk̚˨ siː˧ tsʰyːn˨˩ miːn˨ lɔːk̚˨ sɐt̚˨ tɐi˨ jɐt̚˥ kaːi˥ tyːn˨ tsɐu˧˥ sɔːk̚˧ tsɪŋ˧ tsʰaːk̚˧, tʰɔːŋ˨˩ sɪk̚˨ kɐm˥ tsiː˧˥ tʰɐi˨˩ kʊŋ˥ tsɪk̚˥ hei˧ kaːu˥ tsʰaːn˥ kɵy˧ tʰʊŋ˨˩ kaːu˥ jɐm˧˥ kuːn˨] (CHUEN-GONG SIK-SEE CHUEN-MEEN LOK-SUT DY-YUT-GAI-DUEN JAU-SOK JING-CHAHK, TONG-SIK GUM-JEE TY-GONG JIK-HEY-GAU-CHAAN-GOEY TOONG GAU-YUM-GOON)",
+          "translation": "Restaurants across Hong Kong have fully implemented the first phase of the plastic-free policy, banning the provision of disposable plastic cutlery and plastic straws for dine-in."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元23-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "要真正達到源頭減廢，除咗推行垃圾徵費之外，仲要全方位加強社區廚餘回收配套。",
+          "reading": "jiu3 zan1 zing3 daat6 dou3 jyun4 tau4 gaam2 fai3, ceoi4 zo2 teoi1 hang4 laap6 saap3 zing1 fai3 zi1 ngoi6, zung6 jiu3 cyun4 fong1 wai6 gaa1 koeng4 se5 keoi1 cyu4 jyu4 wui4 sau1 pui3 tou3. [jiu˧ tsɐn˥ tsɪŋ˧ taːt̚˨ tou˧ jyːn˨˩ tʰɐu˨˩ kaːm˧˥ fɐi˧, tsʰɵy˨˩ tsɔː˧˥ tʰɵy˥ hɐŋ˨˩ laːp̚˨ saːp̚˧ tsɪŋ˥ fɐi˧ tsiː˥ ŋɔːi˨, tsʊŋ˨ jiu˧ tsʰyːn˨˩ fɔːŋ˥ wɐi˨ kaː˥ kʰœːŋ˨˩ sɛː˩˧ kʰɵy˥ tsʰyː˨˩ jyː˨˩ wuːi˨˩ sɐu˥ pʰuːi˧ tou˧] (YEW JUN-JING DAHT-DOU YUEN-TAU-GAHM-FY, CHOEY-JOR TOEY-HAHNG LAHP-SAHP-JING-FY JEE-NGOY, JOONG YEW CHUEN-FONG-WAI GAH-KEUNG SEH-KUY CHUE-YUE-WUI-SAU POOY-TOU)",
+          "translation": "To genuinely achieve waste reduction at source, in addition to implementing municipal waste charging, it is also necessary to comprehensively strengthen community food waste recycling infrastructure."
+        },
+        {
+          "target": "市民每逢週末都可以帶舊電器同廢紙去『綠在區區』回收站儲積分換取生活用品。",
+          "reading": "si5 man4 mui5 fung4 zau1 mut6 dou1 ho2 ji5 daai3 gau6 din6 hei3 tung4 fai3 zi2 heoi3 \"luk6 zoi6 keoi1 keoi1\" wui4 sau1 zaam6 cou5 zik1 fan1 wun6 ceoi2 sang1 wut6 jung6 ban2. [siː˨˩ mɐn˨˩ muːi˩˧ fʊŋ˨˩ tsɐu˥ muːt̚˨ tou˥ hɔː˧˥ jiː˩˧ taːi˧ kɐu˨ tiːn˨ hei˧ tʰʊŋ˨˩ fɐi˧ tsiː˧˥ hɵy˧ \"lʊk̚˨ tsɔːi˨ kʰɵy˥ kʰɵy˥\" wuːi˨˩ sɐu˥ tsaːm˨ tsʰou˩˧ tsɪk̚˥ fɐn˥ wuːn˨ tsʰɵy˧˥ sɐŋ˥ wuːt̚˨ jʊŋ˨ pʰɐn˧˥] (SEE-MUN MOOY-FOONG JAU-MOOT DOH HOH-YEE DY GAU-DEEN-HEY TOONG FY-JEE HOEY \"LUK-JOY-KUY-KUY\" WUI-SAU-JAHM CHOU-JIK-FUN WOON-CHOEY SUNG-WOOT-YOONG-BUN)",
+          "translation": "Every weekend, citizens can take old electrical appliances and waste paper to 'Green@Community' recycling stations to accumulate reward points for household necessities."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【綠色環保訣】外賣自備叫「走塑」，垃圾收費「袋指定」；廚餘分類去回收，「源頭減廢」綠滿城！"
+      ],
+      "culturalNotes": [
+        "「走塑」（告別一次性塑膠）已成為香港人日常生活之高頻流行詞。外賣叫餐時講一句「唔該，走餐具、走飲管」，展現了現代都市人對生態環境之自覺責任感。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"綠色\":",
+          "prompt": "【環保生活】在香港餐廳點餐外賣時，表達「不要一次性即棄塑膠餐具和吸管」，地道術語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：白色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：黑色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：橙色誤用）"
+            "走塑 / 走餐具 (Plastic-free / No disposable cutlery)",
+            "走甜",
+            "走冰",
+            "走油"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「走塑」（如同走甜、走冰）指不索取即棄塑膠餐具之環保倡議。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"綠色\":",
+          "prompt": "【政策理念】環保宣傳中強調「在消費與生產最前端就減少廢棄物產生」，核心標語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：黑色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：橙色誤用）",
-            "語序顛倒嘅非標準句式（例項：白色錯置）"
+            "源頭減廢 (Waste reduction at source)",
+            "炒魷魚",
+            "食死貓",
+            "邊有蛤乸跳"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「源頭減廢」為可持續固體廢物管理之核心政策理念。"
         }
       ]
     },
@@ -9778,15 +9814,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"綠色\": Which sentence is completely correct?",
+          "prompt": "【社區網絡】遍佈全港十八區、鼓勵市民將廢紙塑膠玻璃回收換取生活日用品之社區環保網絡名稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：橙色誤用）",
-            "語序顛倒嘅非標準句式（例項：白色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：黑色未適配）"
+            "綠在區區 (Green@Community)",
+            "紅在街市",
+            "藍在碼頭",
+            "黃在地鐵"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「綠在區區」為香港環保署推動之全港性社區回收環保站網絡。"
         }
       ],
       "passThreshold": 0.8
@@ -9797,53 +9833,62 @@
     "subject": "cantonese",
     "unit": 23,
     "lessonNumber": 5,
-    "title": "新聞傳媒與香港社會論題 (Media & Social Issues) (第5課)",
+    "title": "公共政策辯論與社論評論高階表達：「有助於……但難以……」、「長遠而言」 (Policy Debates & Editorials)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元23第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握高級社論評論與政策辯論之論述邏輯銜接標記（有助於、難以一蹴即至、長遠而言、從宏觀角度審視、平衡各方利益）之高階語言架構。",
     "presentation": {
-      "explanation": "",
+      "explanation": "撰寫社論、參與公共政策論壇或專業辯論時，需熟練運用邏輯嚴密、視角平衡之高階論證銜接詞：\n\n一、政策論證與辯證評估四大邏輯句式：\n１．效益肯定與局限指出（轉折對比句）：\n- 「……固然有助於【正面效益】，然而單靠此舉實難以徹底根治【深層病灶】。」\n- 範例：「興建簡約公屋固然有助於短期紓緩基層住房困難，然而長遠而言仍需加快開拓土地供應。」\n\n２．宏觀與縱深視角引入標記：\n- 「長遠而言 / 從長遠角度看」（coeng4 jyun5 ji4 jin4）：著眼未來可持續發展。\n- 「從宏觀角度審視」（cung4 wang4 gun1 gok3 dou6 sam2 si6）：跳出局部看全局。\n\n３．多元利益平衡與公眾訴求對接：\n- 「平衡各方利益衝突」（ping4 hang4 gok3 fong1 lei6 jik1 cung1 tat6）。\n- 「顧及基層市民與弱勢社群之承受能力」（gu3 kap6 gei1 cang4 si5 man4 jyu4 joek6 sai3 se5 kwan4 zi1 sing4 sau6 nang4 lik6）。\n\n４．循序漸進與審慎推進：\n- 「難以一蹴即至，必須循序漸進」（naan4 ji5 jat1 cuk1 zik1 zi3, bit1 seoi1 ceon4 zeoi6 zim3 zeon3）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 23 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 23 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 23 in communication."
+          "target": "推行綠色經濟轉型固然有助於可持續發展，但政策落實過程必須充分顧及中小企業嘅承受能力。",
+          "reading": "teoi1 hang4 luk6 sik1 ging1 zai3 zyun2 jing4 gu3 jin4 jau5 zo6 jyu1 ho2 ci4 zuk6 faat3 zin2, daan6 zing3 caak3 lok6 sat6 gwo3 cing4 bit1 seoi1 cung1 fan1 gu3 kap6 zung1 siu2 kei5 jip6 ge3 sing4 sau6 nang4 lik6. [tʰɵy˥ hɐŋ˨˩ lʊk̚˨ sɪk̚˨ kɪŋ˥ tsɐi˧ tsyn˧˥ jɪŋ˨˩ kuː˧ jiːn˨˩ jɐu˩˧ tsɔː˨ jyː˥ hɔː˧˥ tsʰiː˨˩ tsʊk̚˨ faːt̚˧ tsiːn˧˥, taːn˨ tsɪŋ˧ tsʰaːk̚˧ lɔːk̚˨ sɐt̚˨ kʷɔː˧ tsʰɪŋ˨˩ piːt̚˥ sɵy˥ tsʰʊŋ˥ fɐn˨˩ kuː˧ kʰɐp̚˨ tsʊŋ˥ siu˧˥ kʰei˩˧ jiːp̚˨ kɛː˧ sɪŋ˨˩ sɐu˨ nɐŋ˨˩ lɪk̚˨] (TOEY-HAHNG LUK-SIK GING-JAI JUEN-YING GOO-YEEN YAU-JOR-YUE HOH-CHEE-JUK FAHT-JEEN, DAHN JING-CHAHK LOK-SUT GWOR-CHING BIT-SOEY CHOONG-FUN GOO-KUP JOONG-SIU-KEY-YIP GEH SING-SAU-NUNG-LIK)",
+          "translation": "Promoting a green economic transition certainly helps sustainable development, but the policy implementation process must fully take into account the bearing capacity of small and medium enterprises."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元23-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "從宏觀角度審視，香港必須積極融入國家發展大局，長遠而言先至可以鞏固國際金融中心地位。",
+          "reading": "cung4 wang4 gun1 gok3 dou6 sam2 si6, hoeng1 gong2 bit1 seoi1 zik1 gik6 jung4 jap6 gwok3 gaa1 faat3 zin2 daai6 guk6, coeng4 jyun5 ji4 jin4 sin1 zi3 ho2 ji5 gung2 gu3 gwok3 zai3 gam1 jung4 zung1 sam1 dei6 wai6. [tsʰʊŋ˨˩ wɐŋ˨˩ kuːn˥ kɔːk̚˧ tou˨ sɐm˧˥ siː˨, hœːŋ˥ kɔːŋ˧˥ piːt̚˥ sɵy˥ tsɪk̚˥ kɪk̚˨ jʊŋ˨˩ jɐp̚˨ kʷɔːk̚˧ kaː˥ faːt̚˧ tsiːn˧˥ taːi˨ kʊk̚˨, tsʰœːŋ˨˩ jyːn˩˧ jiː˨˩ jiːn˨˩ siːn˥ tsiː˧ hɔː˧˥ jiː˩˧ kuːŋ˧˥ kuː˧ kʷɔːk̚˧ tsɐi˧ kɐm˥ jʊŋ˨˩ tsʊŋ˥ sɐm˥ tei˨ wɐi˨] (CHOONG WUNG-GOON GOK-DOU SUM-SEE, HEUNG-GONG BIT-SOEY JIK-GIK YOONG-YUP GWOK-GAH FAHT-JEEN DY-GOK, CHEUNG-YUEN-YEE-YEEN SEEN-JEE HOH-YEE GOONG-GOO GWOK-JAI GUM-YOONG JOONG-SUM DAY-WAI)",
+          "translation": "Examining from a macro perspective, Hong Kong must actively integrate into the national development blueprint; only then, in the long run, can it consolidate its position as an international financial centre."
+        },
+        {
+          "target": "任何重大公共政策都牽一髮而動全身，當局必須在推動改革同保持社會穩定之間取得最佳平衡。",
+          "reading": "jam6 ho4 zung6 daai6 gung1 gung6 zing3 caak3 dou1 hin1 jat1 faat3 ji4 dung6 cyun4 san1, dong1 guk6 bit1 seoi1 zoi6 teoi1 dung6 goi2 gaak3 tung4 bou2 ci4 se5 wui6*2 wan2 ding6 zi1 gaan1 cak1 dak1 zeoi3 gaai1 ping4 hang4. [jɐm˨ hɔː˨˩ tsʊŋ˨ taːi˨ kʊŋ˥ kʊŋ˨ tsɪŋ˧ tsʰaːk̚˧ tou˥ hiːn˥ jɐt̚˥ faːt̚˧ jiː˨˩ tʊŋ˨ tsʰyːn˨˩ sɐn˥, tɔːŋ˥ kʊk̚˨ piːt̚˥ sɵy˥ tsɔːi˨ tʰɵy˥ tʊŋ˨ kɔːi˧˥ kaːk̚˧ tʰʊŋ˨˩ pou˧˥ tsʰiː˨˩ sɛː˩˧ wuːi˨ wɐn˧˥ tɪŋ˨ tsiː˥ tsʰaːk̚˥ tɐk̚˥ tsɵy˧ kaːi˥ pʰɪŋ˨˩ hɐŋ˨˩] (YUM-HOH JOONG-DY GONG-GONG JING-CHAHK DOH HEEN-YUT-FAHT-YEE-DOONG-CHUEN-SUN, DONG-GOK BIT-SOEY JOY TOEY-DOONG GOY-GAAK TOONG BOU-CHEE SEH-WUI WUN-DING JEE-GAHN CHUK-DUK JEOY-GY PING-HUNG)",
+          "translation": "Any major public policy affects the whole situation with a slight move; the authorities must strike the best balance between promoting reform and maintaining social stability."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【政策社論歌】正面效益「有助於」，深入剖析「宏觀審」；長遠縱深「長遠言」，兼顧各方「平衡尋」！"
+      ],
+      "culturalNotes": [
+        "香港主流大報（如《明報》、《信報》、《香港經濟日報》）之社論與評論版面，展現了高度成熟之雙語政策論辯語言。掌握此類句式，係在香港高等教育與公共決策智庫中開展專業交流之必備技能。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"白色\":",
+          "prompt": "【社論銜接】在政策評論中客觀表述「這項措施對緩解短期問題有幫助，但無法從根本上徹底解決」，應使用之論證句式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：黑色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：橙色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：紫色誤用）"
+            "固然有助於……然而難以徹底解決…… (Certainly helps... however difficult to completely solve)",
+            "完全冇用兼阿茂整餅",
+            "一目了然唔使諗",
+            "神仙過鐵橋包解決"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「固然有助於……然而難以徹底解決……」為政策社論中辨析局部效益與深層局限之經典平衡句式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"白色\":",
+          "prompt": "【宏觀視角】引導讀者跳出當前微觀局部爭拗、從未來整體戰略視角評估政策，應引出之書面銜接詞係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：橙色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：紫色誤用）",
-            "語序顛倒嘅非標準句式（例項：黑色錯置）"
+            "從宏觀角度審視，長遠而言…… (Examined macroscopically, in the long run...)",
+            "即刻執輸行頭慘過敗家",
+            "大家算罷啦",
+            "食死貓算數"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「從宏觀角度審視 / 長遠而言」為高階社論評論之專業視角轉換標記。"
         }
       ]
     },
@@ -9851,15 +9896,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"白色\": Which sentence is completely correct?",
+          "prompt": "【政策論辯架構】優秀公共政策社論的核心論述特徵在於：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：紫色誤用）",
-            "語序顛倒嘅非標準句式（例項：黑色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：橙色未適配）"
+            "邏輯嚴密、視角宏觀，既肯定政策正面效益，又辯證指出執行局限並提出建設性平衡方案 (Rigorous logic, macro perspective & constructive balance)",
+            "盲目情緒化宣洩或人身攻擊",
+            "只堆砌市井歇後語而無實質數據支持",
+            "全盤否定所有公共治理措施"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "專業社論依託嚴謹的邏輯論證、宏觀辯證視角以及兼顧多方利益之平衡建設性。"
         }
       ],
       "passThreshold": 0.8
