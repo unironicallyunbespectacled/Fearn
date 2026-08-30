@@ -2826,85 +2826,89 @@
     "subject": "mandarin",
     "unit": 5,
     "lessonNumber": 1,
-    "title": "日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive) (第1讲)",
+    "title": "高频日常生活行为动词系统与典型一日作息 (Daily Routine Verbs & Typical Day Schedule)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：日常动作动词、介词「在」表示处所与进行体、动词重叠式（看一看/说说）。 (第1部分)。",
+    "objective": "系统掌握现代汉语高频日常生活动作动词与离合词动宾搭配（起床/洗脸/吃早饭/上课/下班/睡觉），能够结合时间状语流畅叙述个人一日作息安排。",
     "presentation": {
-      "explanation": "",
+      "explanation": "熟练掌握日常生活核心行为动词以及汉语独特的「动宾离合结构」，是进行日常时间管理、生活叙事与交际对话的基石。\n\n一、一日典型生活作息核心动词分类体系：\n1. 清晨起居与洗漱动作：\n- 起床 (qǐchuáng，动宾离合词：离开床铺起身)\n- 刷牙 (shuāyá，动宾搭配：用牙刷清洁牙齿)\n- 洗脸 (xǐliǎn，动宾搭配：清洁面部)\n- 洗澡 (xǐzǎo，动宾离合词：沐浴冲凉)\n- 穿衣服 (chuān yīfu，动宾搭配：穿戴衣物)\n\n2. 一日三餐饮食动作：\n- 吃早饭 (chī zǎofàn，吃早餐)\n- 吃午饭 (chī wǔfàn，吃午餐)\n- 吃晚饭 (chī wǎnfàn，吃晚餐)\n- 喝茶 / 喝水 / 喝咖啡 (hē chá / hē shuǐ / hē kāfēi)\n\n3. 学习、工作与事务动作：\n- 去学校 / 去公司 (qù xuéxiào / qù gōngsī)\n- 上课 (shàngkè，开始或进行课程) <-> 下课 (xiàkè，课程结束)\n- 上班 (shàngbān，开始工作) <-> 下班 (xiàbān，结束一天工作)\n- 做作业 (zuò zuòyè，完成课后练习)\n- 开会 (kāihuì，参加会议)\n\n4. 晚间休闲与就寝动作：\n- 散步 (sànbù，悠闲步行)\n- 运动 / 锻炼身体 (yùndòng / duànliàn shēntǐ)\n- 看书 / 看报纸 (kànshū / kàn bàozhǐ)\n- 看电视 / 看电影 (kàn diànshì / kàn diànyǐng)\n- 上网 (shàngwǎng，浏览互联网)\n- 睡觉 (shuìjiào，动宾离合词：进入睡眠)\n\n二、作息时间表达的句法语序模型：\n- 主语 + [时间状语] + 谓语动词 + 宾语\n- 范例：我 [每天早上七点半] 起床，[八点] 去教室上课。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的核心语法法则与应用范例 (5.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)' in simple terms to students at the academic seminar."
+          "target": "我每天早晨七点准时起床，洗脸、刷牙后去食堂吃早饭。(Wǒ měitiān zǎochén qī diǎn zhǔnshí qǐchuáng, xǐliǎn, shuāyá hòu qù shítáng chī zǎofàn.)",
+          "reading": "[wɔ˨˩ meɪ̯˨˩.tʰjɛn˥ t͡saʊ˨˩.ʈ͡ʂʰən˧˥ t͡ɕʰi˥ tjɛn˨˩˦ ʈ͡ʂwən˨˩.ʂɨ˧˥ t͡ɕʰi˨˩.ʈ͡ʂʰwɑŋ˧˥, ɕi˨˩.ljɛn˨˩˦, ʂwa˥.ja˧˥ xoʊ̯˥˩ t͡ɕʰy˥˩ ʂɨ˧˥.tʰɑŋ˧˥ t͡ʂʰɨ˥ t͡saʊ˨˩.fan˥˩] (Wǒ měi-tiān zǎo-chén qī diǎn zhǔn-shí qǐ-chuáng, xǐ-liǎn, shuā-yá hòu qù shí-táng chī zǎo-fàn.)",
+          "translation": "I get up punctually at 7:00 every morning, wash my face and brush my teeth, and then go to the dining hall for breakfast."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (5.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "我们上午八点半开始上课，中午十二点下课。(Wǒmen shàngwǔ bā diǎn bàn kāishǐ shàngkè, zhōngwǔ shí'èr diǎn xiàkè.)",
+          "reading": "[wɔ˨˩.mən ʂɑŋ˥˩.u˨˩˦ pa˥ tjɛn˨˩˦ pan˥˩ kʰaɪ̯˥.ʂɨ˨˩˦ ʂɑŋ˥˩.kʰɤ˥˩, ʈ͡ʂʊŋ˥.u˨˩˦ ʂɨ˧˥.aɻ˥˩ tjɛn˨˩˦ ɕja˥˩.kʰɤ˥˩] (Wǒ-men shàng-wǔ bā diǎn bàn kāi-shǐ shàng-kè, zhōng-wǔ shí-'èr diǎn xià-kè.)",
+          "translation": "We start class at 8:30 in the morning and finish class at 12:00 noon."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (5.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "李老师每天下午五点半下班，晚上常常在操场上散步。(Lǐ lǎoshī měitiān xiàwǔ wǔ diǎn bàn xiàbān, wǎnshang chángcháng zài cāochǎng shang sànbù.)",
+          "reading": "[li˨˩˦ laʊ˨˩.ʂɨ˥ meɪ̯˨˩.tʰjɛn˥ ɕja˥˩.u˨˩˦ u˨˩˦ tjɛn˨˩˦ pan˥˩ ɕja˥˩.pan˥, wan˨˩.ʂaŋ ʈ͡ʂʰɑŋ˧˥.ʈ͡ʂʰɑŋ˧˥ t͡saɪ̯˥˩ t͡sʰaʊ̯˥.ʈ͡ʂʰɑŋ˨˩˦ ʂɑŋ san˥˩.pu˥˩] (Lǐ lǎo-shī měi-tiān xià-wǔ wǔ diǎn bàn xià-bān, wǎn-shang cháng-cháng zài cāo-chǎng shang sàn-bù.)",
+          "translation": "Teacher Li gets off work at 5:30 every afternoon and often takes a walk on the sports ground in the evening."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (5.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我通常在晚上十一点左右上床睡觉。(Wǒ tōngcháng zài wǎnshang shíyī diǎn zuǒyòu shàngchuáng shuìjiào.)",
+          "reading": "[wɔ˨˩ tʰʊŋ˥.ʈ͡ʂʰɑŋ˧˥ t͡saɪ̯˥˩ wan˨˩.ʂaŋ ʂɨ˧˥.i˥ tjɛn˨˩˦ t͡swɔ˨˩.joʊ̯˥˩ ʂɑŋ˥˩.ʈ͡ʂʰwɑŋ˧˥ ʂweɪ̯˥˩.t͡ɕjaʊ̯˥˩] (Wǒ tōng-cháng zài wǎn-shang shí-yī diǎn zuǒ-yòu shàng-chuáng shuì-jiào.)",
+          "translation": "I usually go to bed to sleep at around 11:00 PM."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "清晨起床刷牙脸，上课上班步步前；午后下课晚散步，夜深安稳入睡眠！"
+      ],
+      "culturalNotes": [
+        "现代中国大学与企业普遍保有午休习惯（中午12:00至14:00之间），师生或职员在吃完午饭后常有短暂的小憩，以保证下午与晚间拥有充沛的精力与工作效率。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」（第1讲）的标准汉语规范？",
+          "prompt": "在下列日常作息动词中，表示「结束课程走出教室」的是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的核心语法法则与应用范例 (5.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (5.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (5.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (5.1.w3)"
+            "下课 (xiàkè) (Finish class)",
+            "上课 (shàngkè)",
+            "下班 (xiàbān)",
+            "上班 (shàngbān)"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「下课」表示课程结束（Class is over）；「下班」则专指工作下班。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "要表达「我每天早上七点半起床」，正确的语序结构是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "我每天早上七点半起床。(Wǒ měitiān zǎoshang qī diǎn bàn qǐchuáng.) (Subject + Time + Verb)",
+            "我起床每天早上七点半。(时间状语置后病句)",
+            "起床我每天早上七点半。(动词句首错位)",
+            "每天我起床早上七点半。(时间拆裂错误)"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "时间状语「每天早上七点半」严格置于主语「我」之后、动词「起床」之前。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的正式语境下，最准确得体的表达是哪一项？（第5.1题）",
+          "prompt": "下列哪一组动词词组完全属于清晨起居与洗漱行为？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (5.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (5.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (5.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (5.1.x3)"
+            "起床、刷牙、洗脸、吃早饭 (Get up, brush teeth, wash face, eat breakfast)",
+            "下班、睡觉、做作业、开会",
+            "散步、看电视、下课、买菜",
+            "上网、打球、开会、看电影"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "起床、刷牙、洗脸、吃早饭构成了清晨标准的晨间作息链条。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u5-l1）所要求的高阶语言表达？",
+          "prompt": "请选出下列句子中表达「就寝入睡」最地道规范的动词搭配：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (5.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (5.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (5.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (5.1.y3)"
+            "睡觉 (shuìjiào) (To sleep)",
+            "睡床",
+            "眠觉",
+            "歇宿"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "现代标准汉语中最通用、最自然的表达就寝睡眠的动词是「睡觉 (shuìjiào)」或「去睡觉」。"
         }
       ]
     },
@@ -2912,25 +2916,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的掌握程度，请选出表述完全正确的标准范句（测试 5-1）：",
+          "prompt": "请选出下列作息叙述中逻辑合理且语序完全规范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (5.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (5.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (5.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (5.1.z3)"
+            "王华每天上午八点去学校上课，中午在食堂吃午饭，晚上十一点睡觉。(Wang Hua goes to school for class at 8:00 AM every day, eats lunch in the canteen at noon, and sleeps at 11:00 PM.)",
+            "王华每天去学校上课上午八点，在食堂吃午饭中午。(时间状语全部置后错误)",
+            "王华上课上午八点，睡觉在十一点晚上。(语序错乱)",
+            "王华在十一点睡觉晚上，吃午饭在中午食堂。(介词与时间倒置)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "时间状语均置于动词之前，作息时间线清晰顺畅，句式完全规范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u5-l1）的核心关键词（例如「日常生活」）：",
+          "prompt": "请输入表示早晨离开床铺「起身起床」的动宾词组首字汉字（拼音为 qǐ）：",
           "acceptedAnswers": [
-            "日常生活",
-            "日常生活、动",
-            "日常生活、动词重叠与在字句"
+            "起"
           ],
-          "explanation": "正确的核心关键词为「日常生活」。"
+          "explanation": "汉字「起」在「起床」中表示起身离开床榻。"
         }
       ],
       "passThreshold": 0.8
@@ -2941,85 +2943,89 @@
     "subject": "mandarin",
     "unit": 5,
     "lessonNumber": 2,
-    "title": "日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive) (第2讲)",
+    "title": "动词重叠形式（AA、A一A、A了A、ABAB）及其语气功能 (Verb Reduplication)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：日常动作动词、介词「在」表示处所与进行体、动词重叠式（看一看/说说）。 (第2部分)。",
+    "objective": "系统掌握单音节动词（AA/A一A/A了A）与双音节动词（ABAB）的重叠规则，理解动词重叠表达「短暂短时」、「尝试做」以及「缓和亲切语气」的语法功能。",
     "presentation": {
-      "explanation": "",
+      "explanation": "动词重叠是现代标准汉语极具类型学特色的形态句法手段，通过将动词词根重叠，改变动作的「时量体貌」与「语用情态」。\n\n一、动词重叠的核心形态结构模式：\n1. 单音节动词重叠式：\n- 基本重叠式 AA：看看 (kànkan)、听听 (tīngting)、想想 (xiǎngxiang)、问问 (wènwen)、说说 (shuōshuo)、试试 (shìshi)。特别注意：第二个音节一律弱化读轻声！\n- 扩展重叠式 A一A（用于未发生或祈使动作）：看一看 (kàn yí kàn)、听一听 (tīng yí tīng)、想一想 (xiǎng yì xiǎng)、尝一尝 (cháng yì cháng)、走一走 (zǒu yì zǒu)。\n- 完成重叠式 A了A / A了一A（用于已发生完毕的短暂动作）：看了看 (kàn le kàn)、试了试 (shì le shì)、听了听 (tīng le tīng)。\n\n2. 双音节动词重叠式：\n- 规则重叠式 ABAB：学习学习 (xuéxí xuéxí)、休息休息 (xiūxi xiūxi)、介绍介绍 (jièshào jièshào)、讨论讨论 (tǎolùn tǎolùn)、准备准备 (zhǔnbèi zhǔnbèi)、运动运动 (yùndòng yùndòng)。\n- **核心语法禁忌**：动词重叠式绝对**不能**重叠为 *AABB* 形式！（AABB 形式如「高高兴兴、清清楚楚、漂漂亮亮」专属于形容词重叠，绝不可用于动词！）。\n\n二、动词重叠的三大核心语义与语用功能：\n1. 表示动作经历的时间极其短暂、动量微小（短暂体/短时量）：\n- 我在外面散散步。（散步时间不长）\n2. 表示尝试做某事（尝试态，try to do something）：\n- 请你尝尝这道中国菜。（品尝一下味道）\n- 这件衣服很合身，你可以穿穿看。\n3. 极大地缓和祈使语气，使说话口吻显得温和、亲切、礼貌与随和：\n- 您帮我想想办法，好吗？（比「你想办法」更加委婉客气）\n- 大家休息休息吧！（亲切建议）",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的核心语法法则与应用范例 (5.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)' in simple terms to students at the academic seminar."
+          "target": "这件新外套样式非常好看，你穿上试试吧！(Zhè jiàn xīn wàitào yàngshì fēicháng hǎokàn, nǐ chuānshang shìshi ba!)",
+          "reading": "[ʈ͡ʂɤ˥˩ t͡ɕjɛn˥˩ ɕin˥ waɪ̯˥˩.tʰaʊ̯˥˩ jɑŋ˥˩.ʂɨ˥˩ feɪ̯˥.ʈ͡ʂʰɑŋ˧˥ xaʊ˨˩.kʰan˥˩, ni˨˩˦ ʈ͡ʂʰwan˥.ʂɑŋ ʂɨ˥˩.ʂɨ pa] (Zhè jiàn xīn wài-tào yàng-shì fēi-cháng hǎo-kàn, nǐ chuān-shang shì-shi ba!)",
+          "translation": "The style of this new jacket is very good-looking; please put it on and give it a try!"
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (5.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "我们学习了一个下午，去操场上散散步、放松放松吧。(Wǒmen xuéxí le yí gè xiàwǔ, qù cāochǎng shang sànsanbù, fàngsōng fàngsōng ba.)",
+          "reading": "[wɔ˨˩.mən ɕɥɛ˧˥.ɕi˧˥ lɤ i˧˥ kɤ ɕja˥˩.u˨˩˦, t͡ɕʰy˥˩ t͡sʰaʊ̯˥.ʈ͡ʂʰɑŋ˨˩˦ ʂɑŋ san˥˩.san.pu˥˩, fɑŋ˥˩.sʊŋ˥ fɑŋ˥˩.sʊŋ˥ pa] (Wǒ-men xué-xí le yí gè xià-wǔ, qù cāo-chǎng shang sàn-san-bù, fàng-sōng fàng-sōng ba.)",
+          "translation": "We have studied for an entire afternoon; let's go take a walk on the sports ground and relax a bit."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (5.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "请您听一听这段录音，然后回答后面的问题。(Qǐng nín tīng yí tīng zhè duàn lùyīn, ránhòu huídá hòumiàn de wèntí.)",
+          "reading": "[t͡ɕʰiŋ˨˩ nin˧˥ tʰiŋ˥ i˧˥ tʰiŋ˥ ʈ͡ʂɤ˥˩ twan˥˩ lu˥˩.in˥, ʐan˧˥.xoʊ̯˥˩ xweɪ̯˧˥.ta˧˥ xoʊ̯˥˩.mjɛn˥ tɤ wən˥˩.tʰi˧˥] (Qǐng nín tīng yí tīng zhè duàn lù-yīn, rán-hòu huí-dá hòu-miàn de wèn-tí.)",
+          "translation": "Please listen to this audio recording and then answer the questions that follow."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (5.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "老师，请您给我们介绍介绍中国的传统书法。(Lǎoshī, qǐng nín gěi wǒmen jièshào jièshào Zhōngguó de chuántǒng shūfǎ.)",
+          "reading": "[laʊ˨˩.ʂɨ˥, t͡ɕʰiŋ˨˩ nin˧˥ keɪ̯˨˩ wɔ˨˩.mən t͡ɕjɛ˥˩.ʂaʊ̯˥˩ t͡ɕjɛ˥˩.ʂaʊ̯˥˩ ʈ͡ʂʊŋ˥.kwɔ˧˥ tɤ t͡ʂʰwan˧˥.tʰʊŋ˨˩˦ ʂu˥.fa˨˩˦] (Lǎo-shī, qǐng nín gěi wǒ-men jiè-shào jiè-shào Zhōng-guó de chuán-tǒng shū-fǎ.)",
+          "translation": "Teacher, please introduce traditional Chinese calligraphy to us a bit."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "单音动词重叠轻（看看听听想一想），双音重叠 ABAB（学习学习休息休息）；尝试短时语气软，绝无 AABB 动词串！"
+      ],
+      "culturalNotes": [
+        "在汉文化的人际交往中，直接使用单音节动词发号施令（如「你吃」、「你看」）容易显得生硬甚至粗鲁；而使用动词重叠（「你尝尝」、「你看一看」）则能极大地增添亲和力与礼貌分寸感。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」（第2讲）的标准汉语规范？",
+          "prompt": "双音节动词「休息 (xiūxi)」在现代标准汉语中的正确动词重叠形式是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的核心语法法则与应用范例 (5.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (5.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (5.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (5.2.w3)"
+            "休息休息 (xiūxi xiūxi) —— 双音节动词重叠采用 ABAB 式 (ABAB for disyllabic verbs)",
+            "休休息息 (这是错误的 AABB 式)",
+            "休息一休息",
+            "休一休息"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "现代汉语双音节动词的重叠形式严格为 ABAB 式（休息休息、学习学习），不可使用 AABB 式。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在句子「请你______这道菜的味道」中，表达尝试品尝且语气委婉的动词重叠式是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "尝尝 (chángchang) 或 尝一尝 (cháng yì cháng) (Try tasting - polite/tentative)",
+            "尝尝尝",
+            "尝了尝了",
+            "品尝品尝尝"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "单音节动词重叠为 AA 式（尝尝）或 A一A 式（尝一尝），表示尝试与客气请求。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的正式语境下，最准确得体的表达是哪一项？（第5.2题）",
+          "prompt": "下列哪一个词语属于形容词重叠而非动词重叠？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (5.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (5.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (5.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (5.2.x3)"
+            "高高兴兴 (Gāogāoxìngxìng - AABB 形容词重叠) (AABB is for adjectives)",
+            "介绍介绍 (动词 ABAB 重叠)",
+            "学习学习 (动词 ABAB 重叠)",
+            "讨论讨论 (动词 ABAB 重叠)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「高高兴兴」属于形容词的 AABB 重叠式；动词重叠形式一律为 ABAB。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u5-l2）所要求的高阶语言表达？",
+          "prompt": "在单音节动词 AA 重叠式（如「看看」、「想想」）中，第二个音节的正确发音调值为：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (5.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (5.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (5.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (5.2.y3)"
+            "轻声 (Neutral tone for the 2nd reduplicated syllable)",
+            "第一声阴平",
+            "第四声去声",
+            "保持原调不变"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "单音节动词重叠后，第二个音节在普通话口语中必须弱化读作轻声。"
         }
       ]
     },
@@ -3027,25 +3033,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的掌握程度，请选出表述完全正确的标准范句（测试 5-2）：",
+          "prompt": "请选出下列句子中动词重叠运用完全规范得体的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (5.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (5.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (5.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (5.2.z3)"
+            "这个问题很有意思，大家一起讨论讨论吧！(This question is very interesting; let's discuss it together!)",
+            "这个问题很有意思，大家一起讨讨论论吧！(动词不可用 AABB 重叠)",
+            "这个问题很有意思，大家一起讨论一讨论吧！",
+            "这个问题很有意思，大家一起讨一讨论吧！"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "双音节动词「讨论」重叠为 ABAB 式「讨论讨论」，完全符合汉语语法标准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u5-l2）的核心关键词（例如「日常生活」）：",
+          "prompt": "请输入动词「看」在扩展重叠式「看一看」中嵌入的核心单字数词汉字（拼音为 yī）：",
           "acceptedAnswers": [
-            "日常生活",
-            "日常生活、动",
-            "日常生活、动词重叠与在字句"
+            "一"
           ],
-          "explanation": "正确的核心关键词为「日常生活」。"
+          "explanation": "单音节动词 A一A 扩展重叠式中嵌入基数词「一」（如看一看、听一听）。"
         }
       ],
       "passThreshold": 0.8
@@ -3056,85 +3060,89 @@
     "subject": "mandarin",
     "unit": 5,
     "lessonNumber": 3,
-    "title": "日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive) (第3讲)",
+    "title": "核心动态助词「在/正在/正......呢」表示动作进行体 (Progressive Aspect: 在/正在...呢)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：日常动作动词、介词「在」表示处所与进行体、动词重叠式（看一看/说说）。 (第3部分)。",
+    "objective": "系统掌握现代汉语动作进行体标记（在/正在/正......呢）的句型结构，掌握使用「没在/没有在」进行严格否定的语法规则，杜绝「不在」误用。",
     "presentation": {
-      "explanation": "",
+      "explanation": "现代标准汉语通过动态副词（在、正、正在）与句末语气助词「呢」的相互配合，标记某一动作在特定时间点处于持续展开的「进行体（Progressive Aspect）」状态。\n\n一、动作进行体的四大标准句法模式：\n1.「主语 + 在 + 动词短语」—— 最中性、最普遍的进行体表达：\n- 老师在讲语法。\n- 他在听音乐。\n\n2.「主语 + 正在 + 动词短语」—— 突出强调动作恰好在此时此刻正在进行：\n- 同学们正在写汉字作业。\n- 外面正在下大雪。\n\n3.「主语 + 正 + 动词短语 + 呢」—— 带有生动的口语现场感：\n- 我们正开会呢。\n- 我正吃午饭呢。\n\n4.「主语 + 正在 + 动词短语 + 呢」—— 标记最为完整完备的进行体格式：\n- 爸爸正在厨房做晚饭呢。\n- 留学生们正在操场踢足球呢。\n\n二、进行体的否定铁律（极重要避坑考点）：\n1. 进行体的否定形式**必须使用「没 (méi)」或「没有在 (méiyǒu zài)」**：\n- 他没在睡觉，他在看书。(He is not sleeping; he is reading.)\n- 我刚才没有在玩手机。(I was not playing on my phone just now.)\n2. **绝对禁忌**：绝不能用「*不在*」来否定动作进行体！\n- 「不在」表示空间处所上的「不在某地」（如：他不在办公室）或指人去世（不在人世），绝无否定动作进行的功能！\n\n三、询问进行体动作的核心交际句型：\n- 问：你在做什么呢？ / 你正在干什么？(Nǐ zài zuò shénme ne? / Nǐ zhèngzài gàn shénme?)\n- 答：我正在准备明天的中文考试呢。(Wǒ zhèngzài zhǔnbèi míngtiān de Zhōngwén kǎoshì ne.)",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的核心语法法则与应用范例 (5.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)' in simple terms to students at the academic seminar."
+          "target": "——请问，王老师在办公室吗？——他没在办公室，他正在教室给学生上课呢。(—Qǐngwèn, Wáng lǎoshī zài bàngōngshì ma? —Tā méi zài bàngōngshì, tā zhèngzài jiàoshì gěi xuésheng shàngkè ne.)",
+          "reading": "[—t͡ɕʰiŋ˨˩.wən˥˩, wɑŋ˧˥ laʊ˨˩.ʂɨ˥ t͡saɪ̯˥˩ pan˥.kʊŋ˥.ʂɨ˥˩ ma? —tʰa˥ meɪ̯˧˥ t͡saɪ̯˥˩ pan˥.kʊŋ˥.ʂɨ˥˩, tʰa˥ ʈ͡ʂɤŋ˥˩.t͡saɪ̯˥˩ t͡ɕjaʊ̯˥˩.ʂɨ˥˩ keɪ̯˨˩ ɕɥɛ˧˥.ʂəŋ ʂɑŋ˥˩.kʰɤ˥˩ nɤ] (—Qǐng-wèn, Wáng lǎo-shī zài bàn-gōng-shì ma? —Tā méi zài bàn-gōng-shì, tā zhèng-zài jiào-shì gěi xué-sheng shàng-kè ne.)",
+          "translation": "—Excuse me, is Teacher Wang in the office? —He is not in the office; he is teaching class to students in the classroom right now."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (5.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "外面正下着雨呢，你出门记得带一把雨伞。(Wàimiàn zhèng xiàzhe yǔ ne, nǐ chūmén jìde dài yì bǎ yǔsǎn.)",
+          "reading": "[waɪ̯˥˩.mjɛn˥˩ ʈ͡ʂɤŋ˥˩ ɕja˥˩.ʈ͡ʂɤ y˨˩˦ nɤ, ni˨˩˦ t͡ʂʰu˥.mən˧˥ t͡ɕi˥˩.tɤ taɪ̯˥˩ i˧˥ pa˨˩˦ y˨˩.san˨˩˦] (Wài-miàn zhèng xià-zhe yǔ ne, nǐ chū-mén jì-de dài yì bǎ yǔ-sǎn.)",
+          "translation": "It is raining outside; remember to take an umbrella when you go out."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (5.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "我们正在图书馆认真查阅古代汉语文献。(Wǒmen zhèngzài túshūguǎn rènzhēn cháyuè gǔdài Hànyǔ wénxiàn.)",
+          "reading": "[wɔ˨˩.mən ʈ͡ʂɤŋ˥˩.t͡saɪ̯˥˩ tʰu˧˥.ʂu˥.kwan˨˩˦ ʐən˥˩.ʈ͡ʂən˥ ʈ͡ʂʰa˧˥.ɥɛ˥˩ ku˨˩.taɪ̯˥˩ xan˥˩.y˨˩˦ wən˧˥.ɕjɛn˥˩] (Wǒ-men zhèng-zài tú-shū-guǎn rèn-zhēn chá-yuè gǔ-dài Hàn-yǔ wén-xiàn.)",
+          "translation": "We are earnestly consulting ancient Chinese literature in the library."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (5.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "他没在看电视，他正专心致志地做练习题呢。(Tā méi zài kàn diànshì, tā zhèng zhuānxīnzhìzhì de zuò liànxítí ne.)",
+          "reading": "[tʰa˥ meɪ̯˧˥ t͡saɪ̯˥˩ kʰan˥˩ tjɛn˥˩.ʂɨ˥˩, tʰa˥ ʈ͡ʂɤŋ˥˩ ʈ͡ʂwan˥.ɕin˥.ʈ͡ʂɨ˥˩.ʈ͡ʂɨ˥˩ tɤ t͡swɔ˥˩ ljɛn˥˩.ɕi˧˥.tʰi˧˥ nɤ] (Tā méi zài kàn diàn-shì, tā zhèng zhuān-xīn-zhì-zhì de zuò liàn-xí-tí ne.)",
+          "translation": "He is not watching TV; he is attentively doing practice exercises."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "正在正正在进行，句末加「呢」声动听；否定一律用「没在」，「不在」表人非进行！"
+      ],
+      "culturalNotes": [
+        "汉语作为一种无形态屈折（Non-inflectional）的孤立语，表达动作进行体不依赖动词词尾加 -ing 等屈折变化，而是巧妙借助虚词「在」、「正」、「正在」以及句末语气词「呢」来实现，展现了汉语语法意合为主的灵动之美。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」（第3讲）的标准汉语规范？",
+          "prompt": "要表达「他现在没有在睡觉（进行体否定）」，正确的中文句子是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的核心语法法则与应用范例 (5.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (5.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (5.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (5.3.w3)"
+            "他没在睡觉 / 他没有在睡觉 (Tā méi zài shuìjiào - negate progressive with méi/méiyǒu)",
+            "他不在睡觉 (用「不在」否定进行体属于严重病句)",
+            "他不正在睡觉",
+            "他没睡觉在"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "否定动作进行体必须使用「没在」或「没有在」，绝不能使用「不在」。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在句子「大家______认真听老师讲课呢」中，最适合填入的进行体副词是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "正在 (zhèngzài) (Progressive marker correlating with ne)",
+            "常常",
+            "已经",
+            "就要"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "副词「正在」与句末语气助词「呢」前后呼应，完美构成标准的动作进行体句式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的正式语境下，最准确得体的表达是哪一项？（第5.3题）",
+          "prompt": "要向朋友询问「你现在正在做什么？」，最地道自然的中文表达是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (5.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (5.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (5.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (5.3.x3)"
+            "你在做什么呢？(Nǐ zài zuò shénme ne?) (What are you doing?)",
+            "你做什么是现在？",
+            "现在你是做什么？",
+            "你在哪里做什么呢是？"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「你在做什么呢？」是询问当前正在发生动作的最经典地道句式。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u5-l3）所要求的高阶语言表达？",
+          "prompt": "下列哪一个句子由于错误使用「不在」否定动作进行体而构成了病句？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (5.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (5.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (5.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (5.3.y3)"
+            "他不在写作业，在玩电脑游戏。(病句：应使用「没在写作业」) (Incorrect use of bù zài for progressive)",
+            "他没在写作业，在玩电脑游戏。",
+            "他不在办公室，在图书馆。",
+            "张老师不在学校。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "否定动作进行体必须用「没在写作业」，不能用「不在写作业」。「不在办公室」则是正确的处所否定。"
         }
       ]
     },
@@ -3142,25 +3150,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的掌握程度，请选出表述完全正确的标准范句（测试 5-3）：",
+          "prompt": "请选出下列问答对话中关于动作进行体表达完全准确规范的一组：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (5.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (5.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (5.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (5.3.z3)"
+            "甲：李华在做什么呢？ 乙：他正在宿舍听中国现代音乐呢。",
+            "甲：李华做什么在呢？ 乙：他做正在宿舍听中国现代音乐。",
+            "甲：李华不在做什么？ 乙：他不正在宿舍听音乐。",
+            "甲：李华在做什么呢？ 乙：他在听音乐宿舍正在呢。"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "提问「在做什么呢」与回答「正在......呢」结构完全严密，处所与动词语序精准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u5-l3）的核心关键词（例如「日常生活」）：",
+          "prompt": "请输入进行体结构「正在......呢」中常置于句末表达进行语气的助词单字汉字（拼音为 ne）：",
           "acceptedAnswers": [
-            "日常生活",
-            "日常生活、动",
-            "日常生活、动词重叠与在字句"
+            "呢"
           ],
-          "explanation": "正确的核心关键词为「日常生活」。"
+          "explanation": "语气助词「呢」常置于句末辅助加强动作进行体的现场感与语气。"
         }
       ],
       "passThreshold": 0.8
@@ -3171,85 +3177,89 @@
     "subject": "mandarin",
     "unit": 5,
     "lessonNumber": 4,
-    "title": "日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive) (第4讲)",
+    "title": "空间存在与处所介词「在」字句及其句法位置 (Locative Preposition '在' & Spatial S-在-P-V-O Order)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：日常动作动词、介词「在」表示处所与进行体、动词重叠式（看一看/说说）。 (第4部分)。",
+    "objective": "准确辨析「在」作为动词（表存在）与作为处所介词（引出地点状语）的双重语法功能，牢记「主语 + 在处所 + 动词 + 宾语」的核心句法语序铁律。",
     "presentation": {
-      "explanation": "",
+      "explanation": "汉字「在 (zài)」在现代汉语中兼具两大核心语法功能：一是在主谓句中充当表示存在的「动词（Verb）」；二是充当引出动作发生地点的「处所介词（Preposition）」充当状语。\n\n一、「在」充当全动词（表示人或物存在于某空间）：\n- 句式结构：主语 + 在 + 处所名词\n- 范例：\n- 张老师在办公室。(Teacher Zhang is in the office.)\n- 同学们在图书馆。(Students are in the library.)\n- 词典在桌子上。(The dictionary is on the table.)\n- 否定形式：主语 + 不在 + 处所（如：他今天不在学校）。\n\n二、「在」充当处所介词（引出动作发生地点的介词短语作状语）：\n- **核心句法黄金语序铁律**：\n- 主语 + [介词「在」 + 处所名词] + 谓语动词 + 宾语\n- 范例：\n- 我们 [在食堂] 吃午饭。(We eat lunch in the dining hall.)\n- 他们 [在操场] 踢足球。(They play football on the sports field.)\n- 我 [在图书馆] 借了两本中国历史书。(I borrowed two Chinese history books in the library.)\n\n三、认知哲学动因与初学者高频病句避坑：\n1. 汉民族认知遵循「空间背景在先，动作行为在后」的思维逻辑——人必须先处于某一物理空间场景之中，动作行为才能在该空间内展开。因此，介词短语「在+处所」**绝对必须置于谓语动词之前**！\n2. 严重错误对比：\n- 严重病句（受英语 S-V-O-Locative 负迁移影响）：*我们在吃午饭在食堂* / *我看书在图书馆*\n- 规范汉语（标准 S-在-P-V-O）：我们在食堂吃午饭。 / 我在图书馆看书。\n\n四、询问动作发生地点的标准疑问句式：\n- 问：你在哪儿吃午饭？(Nǐ zài nǎr chī wǔfàn?)\n- 答：我在第二学生食堂吃午饭。(Wǒ zài dì-èr xuésheng shítáng chī wǔfàn.)",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的核心语法法则与应用范例 (5.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)' in simple terms to students at the academic seminar."
+          "target": "我们每天下午都在学校图书馆三楼认真看书。(Wǒmen měitiān xiàwǔ dōu zài xuéxiào túshūguǎn sān lóu rènzhēn kànshū.)",
+          "reading": "[wɔ˨˩.mən meɪ̯˨˩.tʰjɛn˥ ɕja˥˩.u˨˩˦ toʊ̯˥ t͡saɪ̯˥˩ ɕɥɛ˧˥.ɕjaʊ̯˥˩ tʰu˧˥.ʂu˥.kwan˨˩˦ san˥ loʊ̯˧˥ ʐən˥˩.ʈ͡ʂən˥ kʰan˥˩.ʂu˥] (Wǒ-men měi-tiān xià-wǔ dōu zài xué-xiào tú-shū-guǎn sān lóu rèn-zhēn kàn-shū.)",
+          "translation": "We earnestly read books on the third floor of the school library every afternoon."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (5.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "很多外国留学生喜欢在操场上练习中国功夫。(Hěnduō wàiguó liúxuéshēng xǐhuan zài cāochǎng shang liànxí Zhōngguó gōngfu.)",
+          "reading": "[xən˨˩.two˥ waɪ̯˥˩.kwɔ˧˥ ljoʊ̯˧˥.ɕɥɛ˧˥.ʂəŋ ɕi˨˩.xwan t͡saɪ̯˥˩ t͡sʰaʊ̯˥.ʈ͡ʂʰɑŋ˨˩˦ ʂɑŋ ljɛn˥˩.ɕi˧˥ ʈ͡ʂʊŋ˥.kwɔ˧˥ kʊŋ˥.fu] (Hěn-duō wài-guó liú-xué-shēng xǐ-huan zài cāo-chǎng shang liàn-xí Zhōng-guó gōng-fu.)",
+          "translation": "Many international students like practicing Chinese Kung Fu on the sports field."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (5.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "张教授正在第一会议室主持重要的学术研讨会。(Zhāng jiàoshòu zhèngzài dì-yī huìyìshì zhǔchí zhòngyào de xuéshù yántǎohuì.)",
+          "reading": "[ʈ͡ʂɑŋ˥ t͡ɕjaʊ̯˥˩.ʂoʊ̯˥˩ ʈ͡ʂɤŋ˥˩.t͡saɪ̯˥˩ ti˥˩.i˥ xweɪ̯˥˩.i˥˩.ʂɨ˥˩ ʈ͡ʂu˨˩.ʈ͡ʂʰɨ˧˥ ʈ͡ʂʊŋ˥˩.jaʊ̯˥˩ tɤ ɕɥɛ˧˥.ʂu˥˩ jɛn˧˥.tʰaʊ̯˨˩.xweɪ̯˥˩] (Zhāng jiào-shòu zhèng-zài dì-yī huì-yì-shì zhǔ-chí zhòng-yào de xué-shù yán-tǎo-huì.)",
+          "translation": "Professor Zhang is presiding over an important academic seminar in Meeting Room No. 1."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (5.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "——你在哪儿买的这件衣服？——我是在市中心的大商场买的。(—Nǐ zài nǎr mǎi de zhè jiàn yīfu? —Wǒ shì zài shìzhōngxīn de dà shāngchǎng mǎi de.)",
+          "reading": "[—ni˨˩˦ t͡saɪ̯˥˩ na˨˩.aɻ mmaɪ̯˨˩˦ tɤ ʈ͡ʂɤ˥˩ t͡ɕjɛn˥˩ i˥.fu? —wɔ˨˩ ʂɨ˥˩ t͡saɪ̯˥˩ ʂɨ˥˩.ʈ͡ʂʊŋ˥.ɕin˥ tɤ ta˥˩ ʂɑŋ˥.ʈ͡ʂʰɑŋ˨˩˦ maɪ̯˨˩˦ tɤ] (—Nǐ zài nǎr mǎi de zhè jiàn yī-fu? —Wǒ shì zài shì-zhōng-xīn de dà shāng-chǎng mǎi de.)",
+          "translation": "—Where did you buy this piece of clothing? —I bought it at the large shopping mall in the city center."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "空间在前动在后，在字引出地点头；食堂吃饭操场跑，绝不殿后句末留！"
+      ],
+      "culturalNotes": [
+        "汉语语序深刻折射了中国古代「先置其身，后观其行」的时空哲学。无论时间状语还是处所状语，都作为宏观的先决背景条件置于动词行为之前，构成了汉语句子稳固的「背景 -> 动作」认知轴线。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」（第4讲）的标准汉语规范？",
+          "prompt": "表达「我在食堂吃午饭」，处所状语「在食堂」在句子中的正确位置是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的核心语法法则与应用范例 (5.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (5.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (5.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (5.4.w3)"
+            "置于主语「我」之后、动词「吃」之前：我在食堂吃午饭。(Before the verb: Wǒ zài shítáng chī wǔfàn)",
+            "置于句子最末尾：我吃午饭在食堂。",
+            "置于动词和宾语之间：我吃在食堂午饭。",
+            "置于宾语之后：我吃午饭食堂在。"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "处所介词短语「在食堂」作为状语，必须置于谓语动词「吃」之前。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "要询问对方「你在哪里学习汉语？」，正确的疑问语序是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "你在哪儿学习汉语？(Nǐ zài nǎr xuéxí Hànyǔ?) (Subject + zài nǎr + Verb + Object)",
+            "你学习汉语在哪儿？",
+            "你在哪儿是学习汉语？",
+            "学习汉语你在哪儿？"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "疑问代词处所短语「在哪儿」同样必须位于动词「学习」之前。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的正式语境下，最准确得体的表达是哪一项？（第5.4题）",
+          "prompt": "下列哪一个句子由于把处所介词短语置于句末而构成了典型语序病句？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (5.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (5.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (5.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (5.4.x3)"
+            "我们在借了两本书在图书馆。(病句：处所介词短语放在了句末) (Prepositional phrase placed at the end)",
+            "我们在图书馆借了两本书。",
+            "张老师在教室上课。",
+            "学生们在操场打篮球。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「在图书馆」作为处所状语被放在了句末，属于受外语影响的严重语序错误。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u5-l4）所要求的高阶语言表达？",
+          "prompt": "在句子「王教授在办公室」中，单字「在」充当的句子成分是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (5.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (5.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (5.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (5.4.y3)"
+            "全句的核心谓语动词（表示存在/位于） (Main predicate verb of location)",
+            "修饰动词的介词",
+            "名词",
+            "形容词"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "在此句中「在」后直接跟处所名词，没有其他动词，充当全句核心谓语动词。"
         }
       ]
     },
@@ -3257,25 +3267,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的掌握程度，请选出表述完全正确的标准范句（测试 5-4）：",
+          "prompt": "请选出下列句子中时间、处所与动词语序全部正确无误的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (5.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (5.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (5.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (5.4.z3)"
+            "我们明天下午在学校体育馆打羽毛球。(We will play badminton in the school gym tomorrow afternoon.)",
+            "我们打羽毛球在学校体育馆明天下午。(时间与处所全部置后错误)",
+            "我们在学校体育馆明天下午打羽毛球。(时间应置于处所之前)",
+            "我们打羽毛球明天下午在学校体育馆。(语序完全错乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "汉语中标准完整语序为：「主语 + [时间状语] + [处所状语] + 谓语动词 + 宾语」，即「我们 + 明天下午 + 在学校体育馆 + 打 + 羽毛球」。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u5-l4）的核心关键词（例如「日常生活」）：",
+          "prompt": "请输入表示主体空间存在或充当处所介词的核心单字汉字（拼音为 zài）：",
           "acceptedAnswers": [
-            "日常生活",
-            "日常生活、动",
-            "日常生活、动词重叠与在字句"
+            "在"
           ],
-          "explanation": "正确的核心关键词为「日常生活」。"
+          "explanation": "汉字「在」是现代汉语中表示存在与处所介词最核心的词汇。"
         }
       ],
       "passThreshold": 0.8
@@ -3286,85 +3294,89 @@
     "subject": "mandarin",
     "unit": 5,
     "lessonNumber": 5,
-    "title": "日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive) (第5讲)",
+    "title": "日常作息会话综合交际与语篇连贯表达 (Daily Routine Narrative & Discourse Cohesion)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：日常动作动词、介词「在」表示处所与进行体、动词重叠式（看一看/说说）。 (第5部分)。",
+    "objective": "熟练运用时间承接连词（先......然后......、接着、......以后、最后），将日常行为动词、进行体与在字句熔铸为连贯流畅的一日作息语篇与交际会话。",
     "presentation": {
-      "explanation": "",
+      "explanation": "将零散的词汇与单句组织为逻辑严密、衔接自然的长篇段落与日常会话，需要掌握汉语语篇连贯（Discourse Cohesion）的核心衔接标记。\n\n一、叙述时间先后逻辑的核心承接词汇体系：\n1.「先......然后...... (xiān... ránhòu...)」—— 表示前后两项动作行为的基准先后次序：\n- 我每天早晨 [先] 刷牙洗脸，[然后] 去食堂吃早饭。\n2.「接着...... (jiēzhe...)」—— 紧接上一动作之后开展下一环节：\n- 吃完早饭，[接着] 我们去教室上第一节课。\n3.「......以后 / ......之后 (yǐhòu / zhīhòu)」—— 附在动词或短语后充当时间从句标记：\n- 中午十二点下课 [以后]，我和同学一起在食堂吃午饭。\n- 做完作业 [之后]，我们去操场运动运动。\n4.「最后...... (zuìhòu...)」—— 引出一连串日常事件的收尾终结环节：\n- [最后]，我通常在晚上十一点左右上床睡觉。\n\n二、一日作息语篇组织综合范式（经典学术范文）：\n- 我的一天生活非常充实而规律。我每天早晨六点半准时起床，先去公园慢跑半小时，呼吸新鲜空气，然后回宿舍冲个热水澡，吃一碗热面条。八点一刻我去教学楼上课，老师正在教室等我们呢。中午十二点下课以后，我和朋友在学校食堂吃午饭，聊聊天、休息休息。下午两点我们在图书馆自习，认真做作业。晚上六点半吃晚饭，接着在操场散散步。晚上八点到十点，我在房间上网查资料、复习生词。最后，在晚上十一点半左右上床安心睡觉。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的核心语法法则与应用范例 (5.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)' in simple terms to students at the academic seminar."
+          "target": "我每天早晨先打半个小时太极拳，然后去吃早饭，接着去上课。(Wǒ měitiān zǎochén xiān dǎ bàn gè xiǎoshí tàijíquán, ránhòu qù chī zǎofàn, jiēzhe qù shàngkè.)",
+          "reading": "[wɔ˨˩ meɪ̯˨˩.tʰjɛn˥ t͡saʊ˨˩.ʈ͡ʂʰən˧˥ ɕjɛn˥ ta˨˩˦ pan˥˩ kɤ ɕjaʊ̯˨˩.ʂɨ˨˩˦ tʰaɪ̯˥˩.t͡ɕi˧˥.t͡ɕʰɥɛn˧˥, ʐan˧˥.xoʊ̯˥˩ t͡ɕʰy˥˩ t͡ʂʰɨ˥ t͡saʊ˨˩.fan˥˩, t͡ɕjɛ˥.ʈ͡ʂɤ t͡ɕʰy˥˩ ʂɑŋ˥˩.kʰɤ˥˩] (Wǒ měi-tiān zǎo-chén xiān dǎ bàn gè xiǎo-shí tài-jí-quán, rán-hòu qù chī zǎo-fàn, jiē-zhe qù shàng-kè.)",
+          "translation": "I first practice Tai Chi for half an hour every morning, then go to eat breakfast, and next go to attend class."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (5.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "下午下课以后，我们常常在图书馆自习室里讨论讨论老师留的思考题。(Xiàwǔ xiàkè yǐhòu, wǒmen chángcháng zài túshūguǎn zìxíshì li tǎolùn tǎolùn lǎoshī liú de sīkǎotí.)",
+          "reading": "[ɕja˥˩.u˨˩˦ ɕja˥˩.kʰɤ˥˩ i˨˩.xoʊ̯˥˩, wɔ˨˩.mən ʈ͡ʂʰɑŋ˧˥.ʈ͡ʂʰɑŋ˧˥ t͡saɪ̯˥˩ tʰu˧˥.ʂu˥.kwan˨˩˦ t͡sɨ˥˩.ɕi˧˥.ʂɨ˥˩ li tʰaʊ̯˨˩.lwən tʰaʊ̯˨˩.lwən laʊ˨˩.ʂɨ˥ ljoʊ̯˧˥ tɤ sɨ˥.kʰaʊ̯˨˩.tʰi˧˥] (Xià-wǔ xià-kè yǐ-hòu, wǒ-men cháng-cháng zài tú-shū-guǎn zì-xí-shì li tǎo-lùn tǎo-lùn lǎo-shī liú de sī-kǎo-tí.)",
+          "translation": "After class in the afternoon, we often discuss the reflection questions assigned by the teacher in the library study room."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (5.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "晚上吃完晚饭，我在操场散散步，最后在十一点半上床睡觉。(Wǎnshang chīwán wǎnfàn, wǒ zài cāochǎng sànsanbù, zuìhòu zài shíyī diǎn bàn shàngchuáng shuìjiào.)",
+          "reading": "[wan˨˩.ʂaŋ t͡ʂʰɨ˥.wan˧˥ wan˨˩.fan˥˩, wɔ˨˩ t͡saɪ̯˥˩ t͡sʰaʊ̯˥.ʈ͡ʂʰɑŋ˨˩˦ san˥˩.san.pu˥˩, t͡sweɪ̯˥˩.xoʊ̯˥˩ t͡saɪ̯˥˩ ʂɨ˧˥.i˥ tjɛn˨˩˦ pan˥˩ ʂɑŋ˥˩.ʈ͡ʂʰwɑŋ˧˥ ʂweɪ̯˥˩.t͡ɕjaʊ̯˥˩] (Wǎn-shang chī-wán wǎn-fàn, wǒ zài cāo-chǎng sàn-san-bù, zuì-hòu zài shí-yī diǎn bàn shàng-chuáng shuì-jiào.)",
+          "translation": "After finishing dinner in the evening, I take a walk on the sports ground and finally go to bed to sleep at 11:30."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (5.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "——你周末通常怎么安排？——我先复习功课，然后和朋友一起去公园转转。(—Nǐ zhōumò tōngcháng zěnme ānpái? —Wǒ xiān fùxí gōngkè, ránhòu hé péngyou yìqǐ qù gōngyuán zhuànzhuan.)",
+          "reading": "[—ni˨˩˦ ʈ͡ʂoʊ̯˥.mwɔ˥˩ tʰʊŋ˥.ʈ͡ʂʰɑŋ˧˥ t͡sən˨˩.mɤ an˥.pʰaɪ̯˧˥? —wɔ˨˩ ɕjɛn˥ fu˥˩.ɕi˧˥ kʊŋ˥.kʰɤ˥˩, ʐan˧˥.xoʊ̯˥˩ xɤ˧˥ pʰɤŋ˧˥.joʊ̯ i˥˩.t͡ɕʰi˨˩˦ t͡ɕʰy˥˩ kʊŋ˥.ɥɛn˧˥ ʈ͡ʂwan˥˩.ʈ͡ʂwan] (—Nǐ zhōu-mò tōng-cháng zěn-me ān-pái? —Wǒ xiān fù-xí gōng-kè, rán-hòu hé péng-you yì-qǐ qù gōng-yuán zhuàn-zhuan.)",
+          "translation": "—How do you usually arrange your weekend? —I first review schoolwork, and then go for a stroll in the park with friends."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "先做然后接着行，以后之后表分明；动词重叠语调软，最后作结篇章成！"
+      ],
+      "culturalNotes": [
+        "中国人崇尚「一日之计在于晨，一年之计在于春」的勤勉作息哲学。有条不紊的日常生活叙事不仅体现了语言的连贯性，也展现了中华文化中注重生活节律与自律修身的精神传统。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」（第5讲）的标准汉语规范？",
+          "prompt": "在叙述作息先后动作时，表示「第一步先做 A，第二步接着做 B」的经典关联词对是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的核心语法法则与应用范例 (5.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (5.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (5.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (5.5.w3)"
+            "先......然后...... (xiān... ránhòu... First... then...)",
+            "虽然......但是......",
+            "因为......所以......",
+            "不但......而且......"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「先......然后......」是汉语中表达动作时间先后顺序最经典通用的关联词对。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "表达「下课之后/课程结束以后」，正确的短语结构是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "下课以后 / 下课之后 (xiàkè yǐhòu / xiàkè zhīhòu) (Action + yǐhòu)",
+            "以后下课",
+            "下课在以后",
+            "在以后下课"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "方位时间词「以后 / 之后」附在动词或小句之后构成时间状语从句（如「下课以后」）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的正式语境下，最准确得体的表达是哪一项？（第5.5题）",
+          "prompt": "请选出下列作息叙述中语篇连贯且关联词搭配完全正确的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (5.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (5.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (5.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (5.5.x3)"
+            "我每天早晨先跑步，然后吃早饭，最后去上课。(I first run every morning, then eat breakfast, and finally go to class.)",
+            "我每天早晨但是跑步，所以吃早饭，虽然去上课。",
+            "我每天早晨因为跑步，而且吃早饭，虽然去上课。",
+            "我每天早晨如果跑步，那么吃早饭，可是去上课。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「先......然后......最后......」层层递进，时间逻辑严丝合缝。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u5-l5）所要求的高阶语言表达？",
+          "prompt": "在叙述一系列日常活动完成时，引出最终压轴行为的承接副词是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (5.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (5.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (5.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (5.5.y3)"
+            "最后 (zuìhòu) (Finally / in the end)",
+            "最先",
+            "首先",
+            "本来"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「最后」用于表示一连串事件或作息活动的最终收尾步骤。"
         }
       ]
     },
@@ -3372,25 +3384,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的掌握程度，请选出表述完全正确的标准范句（测试 5-5）：",
+          "prompt": "请选出下列篇章段落中语法、语序、动词重叠及语篇衔接完全规范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (5.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (5.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (5.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (5.5.z3)"
+            "我每天早上七点起床，先刷牙洗脸，然后去食堂吃早饭。上午我们在教室认真上课，中午下课以后在食堂吃午饭、休息休息。下午在图书馆看书，晚上十一点睡觉。(My daily routine is well-organized with proper sequence and vocabulary.)",
+            "我每天早上七点起床，虽然刷牙洗脸，但是吃早饭在食堂。上午我们上课在教室，中午吃午饭以后下课在食堂。(连词误用且处所置后病句)",
+            "我每天早上起床七点，洗脸刷牙先，然后早饭吃在食堂。在教室上课认真上午，休息休息在中午食堂。(语序全面混乱)",
+            "我每天七点在起床早上，吃早饭在然后，下课在中午以后食堂。(语法严重缺陷)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在时间词、处所介词「在」、动词重叠「休息休息」及时间连词「先...然后...以后」上均达到标准现代汉语范文规范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u5-l5）的核心关键词（例如「日常生活」）：",
+          "prompt": "请输入关联词对「先......然后......」中表示紧接其后次序的连词首字汉字（拼音为 rán）：",
           "acceptedAnswers": [
-            "日常生活",
-            "日常生活、动",
-            "日常生活、动词重叠与在字句"
+            "然"
           ],
-          "explanation": "正确的核心关键词为「日常生活」。"
+          "explanation": "汉字「然」在「然后」中充当承接连词首字。"
         }
       ],
       "passThreshold": 0.8
