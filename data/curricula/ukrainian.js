@@ -11145,53 +11145,62 @@
     "subject": "ukrainian",
     "unit": 27,
     "lessonNumber": 1,
-    "title": "Українська класична література та поетика (Literature) (Part 1)",
+    "title": "Давня література, козацьке бароко та кордоцентризм Сковороди",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 27.1) with authentic linguistic precision.",
+    "objective": "Опанувати термінологію давньої української літератури, стилістику козацького бароко, філософські концепції Григорія Сковороди («сродна праця», кордоцентризм) та алегоричні жанри.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Давня українська література (XI–XVIII ст.) поєднує монументальний літописний епос княжої доби, полемічну літературу та пишну культуру козацького бароко:\n\n1. Давньоруський та козацький літописний канон:\n   - *«Повість минулих літ»* Нестора Літописця — літописний монументалізм;\n   - *«Слово о полку Ігоревім»* — ритмізований героїчний епос, багатий на фольклорні символи (плач Ярославни, затемнення сонця);\n   - Козацькі літописи (Самовидця, Грабянки, Самійла Величка) — козацьке бароко, героїзація визвольних змагань доби Гетьманщини.\n\n2. Філософсько-поетична спадщина Григорія Сковороди:\n   - *«Кордоцентризм («філософія серця»)»* — пізнання істини через внутрішній духовний світ людини;\n   - *«Концепція «сродної праці»»* — діяльність за покликанням душі як запорука особистого щастя та гармонії в суспільстві;\n   - Збірка поезій *«Сад божественних пісень»* (відомий гімн свободі *«De Libertate»*);\n   - *«Байки Харківські»* (жанр алегоричної байки з повчальною частиною — *«силою»*);\n   - Знаменитий автоепітафій: *«Світ ловив мене, та не спіймав»*.\n\n3. Барокові поетичні форми:\n   - *«Курйозні вірші (акровірші, раки літеральні, хронограми)»*, *«Емблематика та алегорія»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Концепція «сродної праці» Григорія Сковороди стверджує, що щастя людини полягає в житті за покликанням власної душі та природними здібностями.",
+          "reading": "[kɔnt͡sɛpˈt͡sʲijɑ ˈsrɔdnɔji ˈprɑt͡sʲi ɦrɪˈɦɔrʲijɑ skɔwɔrɔˈdɪ stwɛrˈdʒujɛ, ʃtʃɔ ˈʃtʃɑsʲtʲɑ lʲuˈdɪnɪ pɔlʲɑˈɦɑjɛ w ʒɪtʲˈtʲi zɑ pɔkˈlɪkɐnʲːɐm ˈwlɑsnɔji duˈʃi tɑ prɪˈrɔdnɪmɪ zdʲibˈnɔsʲtʲɐmɪ] (kohn-tseh-PTSEE-yah SROHD-noh-yee PRAH-tsee hry-HOH-ree-yah skoh-woh-roh-DY stwehr-DZHOO-yeh, shchoh SHCHAHS-tyah lyoo-DY-ny poh-lyah-HAH-yeh v zhyht-TEE zah pohk-LY-kahn-nyahm VLAHS-noh-yee doo-SHEE tah pry-ROHD-ny-my zdeeb-NOHS-tyah-my)",
+          "translation": "Hryhorii Skovoroda's concept of 'congenial labor' asserts that human happiness lies in living according to one's soul's calling and natural abilities."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 27-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Козацькі літописи XVII–XVIII століть поєднують документальну точність хроніки з високим художнім пафосом барокової естетики.",
+          "reading": "[kɔˈzɑt͡sʲkʲi lʲitɔˈpɪsɪ sʲimnɐd͡zʲɑˈtɔɦɔ wʲisʲimnɐd͡zʲɑˈtɔɦɔ stɔˈlʲitʲ pɔjɛdˈnujutʲ dɔkumɛnˈtɑlʲnu ˈtɔtʃnʲisʲtʲ ˈxrɔnʲikɪ z wɪˈsɔkɪm xuˈdɔʒnʲim ˈpɑfɔsɔm bɐrɔˈkɔwɔji ɛsˈtɛtɪkɪ] (koh-ZAHTS'-kee lee-toh-PY-sy seem-nah-DZYAHT-oh-hoh vee-seem-nah-DZYAHT-oh-hoh stoh-LEET' poh-yehd-NOO-yoot' doh-koo-mehn-TAHL'-noo TOHCH-neest' KHROH-nyee-ky z vy-SOH-kym khoo-DOHZH-neem PAH-foh-sohm bah-roh-KOH-woh-yee ehs-TEH-ty-ky)",
+          "translation": "Cossack chronicles of the 17th–18th centuries combine the documentary precision of a chronicle with the high artistic pathos of Baroque aesthetics."
+        },
+        {
+          "target": "У знаменитій поезії «De Libertate» Сковорода підносить свободу як найбільше багатство людини, порівнюючи її з подвигом Богдана Хмельницького.",
+          "reading": "[u znɐmɛˈnʲitʲij pɔˈɛzʲiji dɛ lʲibɛrˈtɑtɛ skɔwɔrɔˈdɑ pʲidˈnɔsɪtʲ swɔˈbɔdu jɑk nɐjˈbʲilʲʃɛ bɐˈɦɑtstxɔ lʲuˈdɪnɪ, pɔrʲiwˈnʲujutʃɪ ˈjiji z ˈpɔdwɪɦɔm bɔɦˈdɑnɐ xmɛlʲˈnɪt͡sʲkɔɦɔ] (oo znah-meh-NEE-teey poh-eh-ZEE-yee deh lee-behr-TAH-teh skoh-woh-roh-DAH peed-NOH-seet' swoh-BOH-doo yahk nahy-BEEL'-sheh bah-HAHT-stvah lyoo-DY-ny, poh-reev-NYOO-yoo-chy yee-YEE z POHD-vy-hohm boh-HDAH-nah khmehl'-NYTS'-koh-hoh)",
+          "translation": "In the celebrated poem 'De Libertate', Skovoroda extols freedom as humanity's greatest wealth, comparing it to the feat of Bohdan Khmelnytsky."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Сковорода: «кордоцентризм» (філософія серця), «сродна праця» (покликання), мораль байки — «сила», епітафія — «Світ ловив мене, та не спіймав»!"
+      ],
+      "culturalNotes": [
+        "Григорій Сковорода — mandrivny filosof (мандрівний філософ), чий портрет прикрашає купюру номіналом 500 гривень, став символом українського вільнодумства."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Розуміти\":",
+          "prompt": "Як Григорій Сковорода називав філософську концепцію праці за покликанням і природним нахилом?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.1.",
-            "Неправильне відмінкове узгодження зі словом «Знати»",
-            "Порушення законів евфонії та словотворення для «Думати»",
-            "Стилістично некоректна синтаксична конструкція з «Пам'ятати»"
+            "Сродна праця (Congenial / affinity labor - core philosophical concept of Skovoroda)",
+            "Трудова повинність",
+            "Суспільна діяльність",
+            "Духовна професія"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Філософське вчення Сковороди про працю за покликанням називається «сродна праця»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Розуміти\":",
+          "prompt": "Як називається повчальний висновок у байках Григорія Сковороди («Байки Харківські»)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.1.",
-            "Порушення законів евфонії та словотворення для «Думати»",
-            "Стилістично некоректна синтаксична конструкція з «Пам'ятати»",
-            "Неправильне відмінкове узгодження зі словом «Знати»"
+            "Сила (Moral / moral deduction in Skovoroda's fables)",
+            "Мораль",
+            "Епілог",
+            "Повчання"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "У байках Сковороди повчальна частина традиційно має авторську назву «сила»."
         }
       ]
     },
@@ -11199,17 +11208,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Розуміти\": Which sentence is completely correct?",
+          "prompt": "Оберіть твердження, яке літературознавчо бездоганно характеризує творчість Григорія Сковороди:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.1.",
-            "Стилістично некоректна синтаксична конструкція з «Пам'ятати»",
-            "Неправильне відмінкове узгодження зі словом «Знати»",
-            "Порушення законів евфонії та словотворення для «Думати»"
+            "Григорій Сковорода поєднав барокову емблематику з філософією кордоцентризму, проголосивши самопізнання та «сродну працю» головними умовами щастя.",
+            "Сковорода писав романтичні поеми про козаків і закликав до збройного повстання проти панів.",
+            "Григорій Сковорода є автором першого урбаністичного роману в українській класичній літературі.",
+            "Сковорода започаткував реалістичний побутовий театр і створив новий правопис."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Барокова емблематика, кордоцентризм, самопізнання та «сродна праця»» — точний науковий аналіз філософської поезії Сковороди."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u27-l2": {
@@ -11217,53 +11227,62 @@
     "subject": "ukrainian",
     "unit": 27,
     "lessonNumber": 2,
-    "title": "Українська класична література та поетика (Literature) (Part 2)",
+    "title": "Зачинателі модерної літератури: «Енеїда» Котляревського та романтизм Шевченка",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 27.2) with authentic linguistic precision.",
+    "objective": "Опанувати літературознавчий аналіз «Енеїди» Котляревського (бурлеск, травестія) та націєтворчої поетики Тараса Шевченка («Кобзар», романтизм, жанр послання).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Кінець XVIII – середина XIX століття ознаменували народження нової української літератури на живій народній основі:\n\n1. «Енеїда» Івана Котляревського (1798 р.) — епохальний поворот:\n   - Перший твір нової української літератури, написаний живою розмовною народною мовою;\n   - Жанр: *«бурлескно-травестійна поема»* (античний сюжет Вергілія перелицьовано на український козацький побут);\n   - *Травестія* (перевдягання героїв у козацькі строї) та *бурлеск* (зниження пафосу, народний сміх, колоритна соковита фразеологія);\n   - Драматургія: п'єса *«Наталка Полтавка»* — «праматір українського національного театру».\n\n2. Тарас Шевченко — духовний будівничий нації:\n   - Вихід *«Кобзаря»* (1840 р.) як точка неповернення в утвердженні української національної ідентичності;\n   - Романтичні балади (*«Причинна»*, *«Тополя»*), історичні поеми (*«Гайдамаки»*), філософські поеми періоду «Трьох літ» (*«Сон»*, *«Кавказ»*, *«І мертвим, і живим...»*);\n   - Поетичний синтаксис Шевченка: *риторичні звертання (апострофа), пристрасна інвектива, біблійний пророчий пафос, коломийковий віршовий розмір*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "«Енеїда» Івана Котляревського започаткувала нову українську літературну мову, увічнивши козацьку ментальність через бурлескно-травестійну форму.",
+          "reading": "[ɛnɛˈjidɐ iˈwɑnɐ kɔtlʲɑˈrɛwsʲkɔɦɔ zɐpɔtʃɐtkɔˈwɑlɐ ˈnɔwu ukrɐˈjinsʲku lʲitɛrɐˈturnu ˈmɔwu, uwʲitʃˈnɪwʃɪ kɔˈzɑt͡sʲku mɛntɐlʲˈnʲisʲtʲ ˈtʃɛrɛz burˈlɛsknɔ trɐwɛsˈtʲijnu ˈfɔrmu] (eh-neh-YEE-dah ee-VAH-nah koht-lyah-REHV-s'koh-hoh zah-poh-chaht-koh-VAH-lah NOH-woo oo-krah-YEEN-s'koo lee-teh-rah-TOOR-noo MOH-woo, oo-veech-NYV-shy koh-ZAHTS'-koo mehn-tahl'-NEEST' CHEH-rez boor-LEHSK-noh trah-wehs-TEEY-noo FOHR-moo)",
+          "translation": "Ivan Kotlyarevsky's 'Eneida' initiated the modern Ukrainian literary language, immortalizing the Cossack mentality through a burlesque-travesty form."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 27-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Послання Шевченка «І мертвим, і живим, і ненарожденним...» закликає до національного порозуміння та відновлення історичної гідності.",
+          "reading": "[pɔsˈlɑnʲːɑ ʃɛwˈtʃɛnkɐ i ˈmɛrtwɪm, i ʒɪˈwɪm, i nɛnɐrɔʒˈdɛnnɪm zɐklɪˈkɑjɛ dɔ nɐt͡sʲiɔˈnɑlʲnɔɦɔ pɔrɔzuˈmʲinʲːɑ tɑ wʲidnɔwˈlɛnʲːɑ istɔˈrɪtʃnɔji ˈɦʲidnɔsʲtʲi] (pohs-LAHN-nyah shehv-CHEHN-kah ee MEHR-twym, ee zhy-VYM, ee neh-nah-rohzh-DEHN-nym zah-kly-KAH-yeh doh nah-tsee-oh-NAHL'-noh-hoh poh-roh-zoo-MEEN-nyah tah veed-nohv-LEN-nyah ees-toh-RYCH-noh-yee HEED-nohs-tee)",
+          "translation": "Shevchenko's epistle 'To the dead, the living, and the unborn...' calls for national reconciliation and the restoration of historical dignity."
+        },
+        {
+          "target": "Шевченківська інвектива в поемі «Кавказ» («Борітеся — поборете, вам Бог помагає!») стала вічним гаслом визвольної боротьби українського народу.",
+          "reading": "[ʃɛwtʃɛnˈkʲiwsʲkɐ inwɛkˈtɪwɐ w pɔˈɛmʲi kɐwˈkɑz bɔˈrʲitɛsʲɑ pɔbɔˈrɛtɛ, wɑm bɔx pɔmɐˈɦɑjɛ ˈstɑlɐ ˈwʲitʃnɪm ˈɦɑslɔm wɪzwɔlʲˈnɔji bɔrɔtʲˈbɪ ukrɐˈjinsʲkɔɦɔ nɐˈrɔdu] (shehv-chen-KEEV-s'kah een-wehk-TY-wah v poh-EH-mee kahv-KAHZ boh-REE-tehs'-yah poh-boh-REH-teh, vahm bohkh poh-mah-HAH-yeh STAH-lah VEECH-nym HAH-slohm vyz-vohl'-NOH-yee boh-roht'-BY oo-krah-YEEN-s'koh-hoh nah-ROH-doo)",
+          "translation": "Shevchenko's invective in the poem 'Caucasus' ('Fight on — and you will prevail, God helps you!') became an eternal slogan of the Ukrainian people's liberation struggle."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "1798 рік — «Енеїда» Котляревського (бурлеск і травестія); 1840 рік — «Кобзар» Тараса Шевченка; гасло — «Борітеся — поборете!»"
+      ],
+      "culturalNotes": [
+        "Тарас Шевченко перетворив українську мову з етнографічного наріччя на потужний інструмент високої європейської поезії, філософії та державотворення."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Знати\":",
+          "prompt": "Як літературознавчо визначається жанр поеми «Енеїда» Івана Котляревського?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.2.",
-            "Неправильне відмінкове узгодження зі словом «Думати»",
-            "Порушення законів евфонії та словотворення для «Пам'ятати»",
-            "Стилістично некоректна синтаксична конструкція з «Говорити»"
+            "Бурлескно-травестійна поема (Burlesque-travesty epic poem - canonical genre)",
+            "Героїчна романтична поема",
+            "Історична балада",
+            "Побутова сатирична повість"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Жанр «Енеїди» Котляревського — бурлескно-травестійна поема."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Знати\":",
+          "prompt": "Який твір Тараса Шевченка за жанром є посланням-пересторогою до тогочасної української еліти?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.2.",
-            "Порушення законів евфонії та словотворення для «Пам'ятати»",
-            "Стилістично некоректна синтаксична конструкція з «Говорити»",
-            "Неправильне відмінкове узгодження зі словом «Думати»"
+            "«І мертвим, і живим, і ненарожденним...» (Epistle-admonition to the elite)",
+            "«Гайдамаки»",
+            "«Катерина»",
+            "«Причинна»"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Жанром послання є класичний твір «І мертвим, і живим, і ненарожденним землякам моїм в Украйні і не в Украйні моє дружнєє посланіє»."
         }
       ]
     },
@@ -11271,17 +11290,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Знати\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому націєтворчу роль класиків української літератури визначено з повною науковою точністю:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.2.",
-            "Стилістично некоректна синтаксична конструкція з «Говорити»",
-            "Неправильне відмінкове узгодження зі словом «Думати»",
-            "Порушення законів евфонії та словотворення для «Пам'ятати»"
+            "«Енеїда» Котляревського утвердила народну мовну основу літератури, а поезія Шевченка кристалізувала національну ідею та прагнення свободи.",
+            "Котляревський скопіював римську поему, а Шевченко перекладав кавказькі пісні російською мовою.",
+            "«Кобзар» був першою збіркою прози, що описувала сільське господарство Полтавщини.",
+            "Шевченко і Котляревський заснували футуризм і відмовилися від класичної рими."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Енеїда... мовну основу... поезія Шевченка кристалізувала національну ідею» — академічно точне формулювання."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u27-l3": {
@@ -11289,53 +11309,62 @@
     "subject": "ukrainian",
     "unit": 27,
     "lessonNumber": 3,
-    "title": "Українська класична література та поетика (Literature) (Part 3)",
+    "title": "Реалізм, психологічна проза та соціально-побутова повість",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 27.3) with authentic linguistic precision.",
+    "objective": "Опанувати аналіз реалістичної прози XIX століття (Нечуй-Левицький, Панас Мирний, Франко), психологізм характерів, колорит побутового діалогу та соціальний конфлікт.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Український реалізм другої половини XIX століття збагатив літературу глибоким психологічним аналізом суспільних процесів:\n\n1. Іван Нечуй-Левицький — майстер пластичного опису та гумору:\n   - Соціально-побутова повість *«Кайдашева сім'я»* (1879 р.) — енциклопедія українського сільського побуту періоду пореформеної доби;\n   - Специфіка: *комізм ситуацій та характерів, діалектизми Наддніпрянщини, психологічний конфлікт індивідуалізму та родинної роз'єднаності*;\n   - Іван Франко назвав автора «всеобіймаючим оком Правобережної України».\n\n2. Панас Мирний — творець соціально-психологічного роману:\n   - *«Хіба ревуть воли, як ясла повні?»* (співавтор Іван Білик, 1880 р.) — перший соціально-психологічний роман в українській літературі;\n   - Трагедія Чіпки Варениченка: *переродження правдошукача на розбійника («пропаща сила»), соціальний детермінізм учинків*.\n\n3. Іван Франко — титан праці та інтелекту:\n   - Повість *«Захар Беркут»* (історичний патріотизм та народовладдя);\n   - Філософська поема *«Мойсей»* (трагедія вождя та народу, пророче покликання нації);\n   - Психологічна новела *«Сойчине крило»* (модерний психологізм жіночої долі).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "У повісті «Кайдашева сім'я» Нечуй-Левицький через іронію та сатиру викриває руйнування людської душі під тиском дріб'язкового егоїзму.",
+          "reading": "[u ˈpɔwʲisʲtʲi kɐjdɐˈʃɛwɐ sʲimˈjɑ nɛˈtʃuj lɛˈwɪt͡sʲkɪj ˈtʃɛrɛz irɔˈnʲiju tɑ sɐˈtɪru wɪkˈrɪwɑjɛ rujnuˈwɑnʲːɑ lʲudʲˈsʲkɔji duˈʃi pʲid ˈtɪskɔm drʲibˈjɑzkɔwɔɦɔ ɛɦɔˈjizmu] (oo POH-wees-tee kahy-dah-SHEH-wah seem-YAH neh-CHOOY leh-WYTS'-kyy CHEH-rez ee-roh-NEE-yoo tah sah-TY-roo vy-kry-VAH-yeh rooy-noo-VAHN-nyah lyood-s'KOH-yee doo-SHEE peed TYS-kohm dreeb-YAHZ-koh-woh-hoh eh-hoh-EEZ-moo)",
+          "translation": "In the novella 'The Kaidash Family', Nechuy-Levytsky exposes through irony and satire the destruction of the human soul under the pressure of petty egoism."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 27-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Роман Панаса Мирного «Хіба ревуть воли, як ясла повні?» досліджує складну еволюцію бунтарської особистості в умовах кріпацтва та безправ'я.",
+          "reading": "[rɔˈmɑn pɐˈnɑsɐ ˈmɪrnɔɦɔ ˈxʲibɐ rɛˈwutʲ wɔˈlɪ jɑk ˈjɑslɐ ˈpɔwnʲi dɔsʲˈlʲidʒujɛ ˈsklɑdnu ɛwɔˈlʲut͡sʲiju buntɐrʲsʲˈkɔji ɔsɔˈbɪstɔsʲtʲi w uˈmɔwɐx krʲiˈpɑt͡stxɐ tɑ bɛzpˈrɑwjjɑ] (roh-MAHN pah-NAH-sah MYR-noh-hoh KHEE-bah reh-VOOT' voh-LY yahk YAH-slah POHV-nee dohs-LEE-dzhoo-yeh SKLAHD-noo eh-woh-LYOO-tsee-yoo boon-tahr-s'KOH-yee oh-soh-BYS-tohs-tee v oo-MOH-wahkh kree-PAHT-stvah tah bez-PRAHV-yah)",
+          "translation": "Panas Myrny's novel 'Do Oxen Bellow When Cribs Are Full?' examines the complex evolution of a rebellious personality under serfdom and lawlessness."
+        },
+        {
+          "target": "У філософській поемі «Мойсей» Іван Франко утверджує непохитну віру в історичне воскресіння та вільний розвиток українського народу.",
+          "reading": "[u fʲilɔˈsɔfsʲkʲij pɔˈɛmʲi mɔjˈsɛj iˈwɑn frɐnˈkɔ utwɛrˈdʒujɛ nɛpɔˈxɪtnu ˈwʲiru w istɔˈrɪtʃnɛ wɔskrɛˈsʲinʲːɑ tɑ ˈwʲilʲnɪj rɔzˈwɪtɔk ukrɐˈjinsʲkɔɦɔ nɐˈrɔdu] (oo fee-loh-SOHF-s'keey poh-EH-mee moy-SEHY ee-VAHN frahn-KOH oot-wehr-DZHOO-yeh neh-poh-KHYT-noo VEE-roo v ees-toh-RYCH-neh vohs-kreh-SEEN-nyah tah VEEL'-nyy roz-VY-tohk oo-krah-YEEN-s'koh-hoh nah-ROH-doo)",
+          "translation": "In the philosophical poem 'Moses', Ivan Franko establishes an unwavering faith in the historical resurrection and free development of the Ukrainian nation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Нечуй-Левицький — «Кайдашева сім'я» (соціально-побутова повість); Панас Мирний — «Хіба ревуть воли...» (соціально-психологічний роман); Франко — «Мойсей»!"
+      ],
+      "culturalNotes": [
+        "«Кайдашева сім'я» залишається найпопулярнішим текстом для театральних постановок та сучасних кіноадаптацій (серіал «Спіймати Кайдаша»)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Думати\":",
+          "prompt": "Хто є автором першого в українській літературі соціально-психологічного роману «Хіба ревуть воли, як ясла повні?»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.3.",
-            "Неправильне відмінкове узгодження зі словом «Пам'ятати»",
-            "Порушення законів евфонії та словотворення для «Говорити»",
-            "Стилістично некоректна синтаксична конструкція з «Читати»"
+            "Панас Мирний та Іван Білик (Authors of the classic socio-psychological novel)",
+            "Іван Нечуй-Левицький",
+            "Іван Франко",
+            "Михайло Коцюбинський"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Авторами роману «Хіба ревуть воли, як ясла повні?» є Панас Мирний (Панас Рудченко) та його брат Іван Білик."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Думати\":",
+          "prompt": "У якому творі Івана Франка алегорично осмислено проблему провідника нації та шляху народу до свободи?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.3.",
-            "Порушення законів евфонії та словотворення для «Говорити»",
-            "Стилістично некоректна синтаксична конструкція з «Читати»",
-            "Неправильне відмінкове узгодження зі словом «Пам'ятати»"
+            "Поема «Мойсей» (Philosophical poem on spiritual leadership and nationhood)",
+            "«Захар Беркут»",
+            "«Борислав сміється»",
+            "«Украдене щастя»"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Вершиною філософської поезії Франка є поема «Мойсей»."
         }
       ]
     },
@@ -11343,17 +11372,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Думати\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому особливості українського реалізму проаналізовано бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.3.",
-            "Стилістично некоректна синтаксична конструкція з «Читати»",
-            "Неправильне відмінкове узгодження зі словом «Пам'ятати»",
-            "Порушення законів евфонії та словотворення для «Говорити»"
+            "Український реалізм поєднав етнографічну яскравість побутописання з глибоким аналізом соціальної детермінації людської долі.",
+            "Реалісти повністю відкинули народну мову і писали тільки латиною для шляхти.",
+            "Усі реалістичні повісті описували фантастичні космічні подорожі в минуле.",
+            "Реалізм в Україні тривав лише три роки і не залишив жодного видатного роману."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Український реалізм поєднав етнографічну яскравість... з глибоким аналізом соціальної детермінації» — точна літературознавча оцінка."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u27-l4": {
@@ -11361,53 +11391,62 @@
     "subject": "ukrainian",
     "unit": 27,
     "lessonNumber": 4,
-    "title": "Українська класична література та поетика (Literature) (Part 4)",
+    "title": "Модернізм, Розстріляне відродження та урбаністичний роман",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 27.4) with authentic linguistic precision.",
+    "objective": "Опанувати естетику українського модернізму (Коцюбинський, Леся Українка, Стефаник) та трагічний спадок доби Розстріляного відродження (Хвильовий, Підмогильний, неокласики).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Перші десятиліття XX століття ознаменувалися вибухом українського модернізму та трагічним розквітом генерації Розстріляного відродження (1920-ті рр.):\n\n1. Напрями раннього модернізму:\n   - *Імпресіонізм*: Михайло Коцюбинський (*«Intermezzo»*, *«Тіні забутих предків»*) — фіксація миттєвих вражень, світлотінь, психологізм настрою;\n   - *Неоромантизм*: Леся Українка (*«Лісова пісня»*, *«Кассандра»*, *«Бояриня»*) — культ сильної вольової особистості, конфлікт високої мрії та буденності;\n   - *Експресіонізм*: Василь Стефаник (*«Камінний хрест»*) — граничний трагізм, лаконізм, біль еміграції покутського селянства.\n\n2. Розстріляне відродження (1920–1930-ті роки) — культурний ренесанс і терор:\n   - Микола Хвильовий (*«Я (Романтика)»*) — психологічна новела про роздвоєність чекіста між революційним фанатизмом і синівською любов'ю; гасло *«Геть від Москви! Даєш психологічну Європу!»*;\n   - Валер'ян Підмогильний (*«Місто»*) — перший модерний український урбаністичний роман (підкорення Києва Степаном Радченком, екзистенціалізм);\n   - Київські неокласики (Микола Зеров, Максим Рильський, Павло Филипович) — культ античної гармонії, сонетна віртуозність, естетизм;\n   - Театр «Березіль» Леся Курбаса та драматургія Миколи Куліша (*«Мина Мазайло»*).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Новела Миколи Хвильового «Я (Романтика)» розкриває страшну трагедію дегуманізації людини, засліпленої фанатичною більшовицькою ідеологією.",
+          "reading": "[nɔˈwɛlɐ mɪˈkɔlɪ xwɪlʲɔˈwɔɦɔ jɑ rɔˈmɑntɪkɐ rɔzkrɪˈwɑjɛ ˈstrɑʃnu trɐˈɦɛdʲiju dɛɦumɐnʲizɑˈt͡sʲiji lʲuˈdɪnɪ, zɐsʲˈlʲipɫɛnɔji fɐnɐˈtɪtʃnɔju bʲilʲʃɔwɪt͡sʲˈkɔju idɛɔˈlɔɦʲijɛju] (noh-WEH-lah my-KOH-ly khwy-lyoh-VOH-hoh YAH roh-MAHN-ty-kah roz-kry-VAH-yeh STRAHSH-noo trah-HEH-dee-yoo deh-hoo-mah-nee-ZAH-tsee-yee lyoo-DY-ny, zahs-LEEP-leh-noh-yee fah-nah-TYCH-noh-yoo beel'-shoh-wyts'-KOH-yoo ee-deh-oh-LOH-hee-yeh-yoo)",
+          "translation": "Mykola Khvylovy's novella 'I (Romance)' reveals the terrible tragedy of the dehumanization of a person blinded by fanatical Bolshevik ideology."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 27-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Роман «Місто» Валер'яна Підмогильного став визначним зразком урбаністичної прози, що порушує екзистенційні питання пошуку свого «я».",
+          "reading": "[rɔˈmɑn ˈmʲistɔ wɐlɛrʲiˈjɑnɐ pʲidmɔˈɦɪlʲnɔɦɔ ˈstɑw wɪznɐt͡ʃˈnɪm ˈzrɑzkɔm urbɐnʲisˈtɪtʃnɔji ˈprɔzɪ, ʃtʃɔ pɔˈruʃujɛ ɛkzɪstɛnt͡sʲijˈnʲi pɪˈtɑnʲːɑ pɔˈʃuku swɔˈjɔɦɔ jɑ] (roh-MAHN MEES-toh vah-leh-ree-YAH-nah peed-moh-HYL'-noh-hoh STAHV vyz-nahch-NYM ZRAHZ-kohm oor-bah-nees-TYCH-noh-yee PROH-zy, shchoh poh-ROO-shoo-yeh ehk-zys-tehn-tseey-NEE py-TAHN-nyah poh-SHOO-koo swoh-YOH-hoh YAH)",
+          "translation": "Valeryan Pidmohylny's novel 'The City' became a prominent example of urban prose addressing existential questions of the search for one's self."
+        },
+        {
+          "target": "Драма-феєрія Лесі Українки «Лісова пісня» символізує вічний потяг людини до краси, первозданної природи та духовної свободи.",
+          "reading": "[ˈdrɑmɐ fɛjɛˈrʲijɑ ˈlɛsʲi ukrɐˈjinkɪ lʲiˈsɔwɐ ˈpʲisʲnʲɑ sɪmwɔˈlʲizujɛ ˈwʲitʃnɪj ˈpɔtʲɑɦ lʲuˈdɪnɪ dɔ krɐˈsɪ, pɛrwɔzˈdɑnnɔji prɪˈrɔdɪ tɑ duˈxɔwnɔji swɔˈbɔdɪ] (DRAH-mah feh-yeh-REE-yah LEH-see oo-krah-YEEN-ky lee-SOH-wah PEES-nyah sym-woh-LEE-zoo-yeh VEECH-nyy POH-tyahk lyoo-DY-ny doh krah-SY, pehr-wohz-DAHN-noh-yee pry-ROH-dy tah doo-KHOHV-noh-yee swoh-BOH-dy)",
+          "translation": "Lesya Ukrainka's drama-extravaganza 'The Forest Song' symbolizes humanity's eternal yearning for beauty, pristine nature, and spiritual freedom."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Модернізм: Коцюбинський (імпресіонізм), Леся Українка (неоромантизм), Стефаник (експресіонізм); 1920-ті — Розстріляне відродження: Хвильовий, Підмогильний («Місто»), Зеров!"
+      ],
+      "culturalNotes": [
+        "Майже всі діячі «Розстріляного відродження» були репресовані радянським тоталітарним режимом у Сандармоху та таборах ГУЛАГу у 1937–1938 роках."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Пам'ятати\":",
+          "prompt": "Як називається перший в українській модерній літературі урбаністичний роман Валер'яна Підмогильного?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.4.",
-            "Неправильне відмінкове узгодження зі словом «Говорити»",
-            "Порушення законів евфонії та словотворення для «Читати»",
-            "Стилістично некоректна синтаксична конструкція з «Писати»"
+            "«Місто» (The City - iconic urban existentialist novel by Valeryan Pidmohylny)",
+            "«Київські вечори»",
+            "«Хмари»",
+            "«Майстер корабля»"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Першим модерним урбаністичним романом є «Місто» Валер'яна Підмогильного (1928 р.)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Пам'ятати\":",
+          "prompt": "Хто очолював літературне угруповання ВАПЛІТЕ та висунув гасло «Геть від Москви! Даєш психологічну Європу!»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.4.",
-            "Порушення законів евфонії та словотворення для «Читати»",
-            "Стилістично некоректна синтаксична конструкція з «Писати»",
-            "Неправильне відмінкове узгодження зі словом «Говорити»"
+            "Микола Хвильовий (Leader of VAPLITE and literary discussion of 1925-1928)",
+            "Микола Зеров",
+            "Михайло Семенко",
+            "Валер'ян Підмогильний"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Лідером ВАПЛІТЕ та ініціатором літературної дискусії 1925–1928 рр. був Микола Хвильовий."
         }
       ]
     },
@@ -11415,17 +11454,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Пам'ятати\": Which sentence is completely correct?",
+          "prompt": "Оберіть характеристику, яка вичерпно розкриває значення покоління «Розстріляного відродження»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.4.",
-            "Стилістично некоректна синтаксична конструкція з «Писати»",
-            "Неправильне відмінкове узгодження зі словом «Говорити»",
-            "Порушення законів евфонії та словотворення для «Читати»"
+            "Покоління Розстріляного відродження створило надпотужний авангардний європейський модернізм в Україні, який був жорстоко знищений сталінським терором.",
+            "Це група авторів, які писали виключно дитячі казки для радянських шкіл.",
+            "Письменники 1920-х років повністю відмовилися від української мови на користь есперанто.",
+            "Розстріляне відродження обмежувалося лише перекладами середньовічних текстів."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Створило надпотужний авангардний європейський модернізм... жорстоко знищений сталінським терором» — історично і літературознавчо бездоганно."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u27-l5": {
@@ -11433,53 +11473,62 @@
     "subject": "ukrainian",
     "unit": 27,
     "lessonNumber": 5,
-    "title": "Українська класична література та поетика (Literature) (Part 5)",
+    "title": "Поетика, метрика, віршування та літературознавчий аналіз тексту",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 27.5) with authentic linguistic precision.",
+    "objective": "Опанувати систему силабо-тонічного віршування (ямб, хорей, дактиль, амфібрахій, анапест), строфічні форми (сонет, верлібр), художні тропи та інструментарій критичного аналізу.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Поетика та теорія літератури досліджують закони художньої організації тексту, метрику вірша та систему образних засобів (тропів):\n\n1. Силабо-тонічна система віршування:\n   - *Двоскладові стопи*:\n     * «Ямб» (наголос на другому складі: U —);\n     * «Хорей» (наголос на першому складі: — U);\n   - *Трискладові стопи*:\n     * «Дактиль» (наголос на першому складі: — U U);\n     * «Амфібрахій» (наголос на другому складі: U — U);\n     * «Анапест» (наголос на третьому складі: U U —);\n   - Допоміжні стопи: *«Пірихій»* (пропуск наголосу: U U) та *«Спондей»* (надхмарний наголос: — —);\n   - Паузи: *«Цезура»* (ритмічна пауза всередині віршового рядка) та *«Клаузула»* (закінчення рядка).\n\n2. Строфічні форми:\n   - *«Сонет»* — 14 рядків (два катрени і два терцети: abba abba cdc dcd);\n   - *«Верлібр»* — вільний вірш без рими та чіткого метру, що тримається на інтонаційній єдності;\n   - *«Білий вірш»* — неримований вірш із збереженням метричної стопи;\n   - *«Октава, терцина, рондо, рубаї»*.\n\n3. Система поетичних тропів та фігур:\n   - *Тропи*: *метафора, метонімія, синекдоха, оксиморон, гіпербола, літота, персоніфікація*;\n   - *Синтаксичні та звукові фігури*: *алітерація, асонанс, анафора (єдинопочаток), епіфора, градація, антитеза, інверсія, риторичний оклик/питання*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Класичний сонет вимагає канонічної форми з чотирнадцяти рядків та вишуканого розвитку поетичної думки від тези до синтезу.",
+          "reading": "[klɐˈsɪtʃnɪj sɔˈnɛt wɪˈmɑɦɑjɛ kɐnɔˈnʲitʃnɔji ˈfɔrmɪ z tʃɔtɪrˈnɑd͡zʲɑtɪ rʲɑdˈkʲiw tɑ wɪˈʃukɐnɔɦɔ rɔzˈwɪtku pɔɛˈtɪtʃnɔji ˈdumkɪ wʲid ˈtɛzɪ dɔ ˈsɪntɛzu] (klah-SYCH-nyy soh-NEHT vy-mah-HAH-yeh kah-noh-NEECH-noh-yee FOHR-my z choh-tyr-NAH-dzyaht-ty ryahd-KEEW tah vy-SHOO-kah-noh-hoh roz-VYT-koo poh-eh-TYCH-noh-yee DOOM-ky veed TEH-zy doh SYN-teh-zoo)",
+          "translation": "The classical sonnet requires a canonical form of fourteen lines and an exquisite development of poetic thought from thesis to synthesis."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 27-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Алітерація на глухі шиплячі та свистячі приголосні посилює тривожний драматизм поетичного опису бурі.",
+          "reading": "[ɐlʲitɛrɑˈt͡sʲijɑ nɑ ɦluˈxʲi ʃɪpˈlʲɑtʃʲi tɑ swɪsʲˈtʲɑtʃʲi prɪɦɔˈlɔsnʲi pɔˈsɪlʲujɛ trɪˈwɔʒnɪj drɐmɐˈtɪzm pɔɛˈtɪtʃnɔɦɔ ˈɔpɪsu ˈburʲi] (ah-lee-teh-rah-TSEE-yah nah hloo-KHEE shy-PLYAH-chee tah swys-TYAH-chee pry-hoh-LOHS-nee poh-SYL'-yoo-yeh try-VOHZH-nyy drah-mah-TYZM poh-eh-TYCH-noh-hoh OH-py-soo BOO-ree)",
+          "translation": "Alliteration on voiceless sibilants and hissing consonants intensifies the anxious drama of the poetic storm description."
+        },
+        {
+          "target": "Сучасна українська поезія майстерно послуговується верлібром, створюючи поліфонічні смислові структури через вільну асоціативну ритміку.",
+          "reading": "[sut͡ʃɑsˈnɐ ukrɐˈjinsʲkɐ pɔˈɛzʲijɑ mɐjsʲˈtɛrnɔ pɔsˈluɦɔwujɛtʲsʲɑ wɛrˈlʲibrɔm, stwɔˈrʲujutʃɪ pɔlʲifɔˈnʲitʃnʲi smɪsɫɔˈwʲi struktˈurɪ ˈtʃɛrɛz ˈwʲilʲnu ɐsɔt͡sʲiɐˈtɪwnu rɪtˈmʲiku] (soo-chahs-NAH oo-krah-YEEN-s'kah poh-EH-zee-yah mahys-TEHR-noh pohs-LOO-hoh-woo-yeht'-syah wehr-LEE-brohm, stwoh-RYOO-yoo-chy poh-lee-foh-NEECH-nee smys-loh-VEE strook-TOO-ry CHEH-rez VEEL'-noo ah-soh-tsee-ah-TYV-noo ryt-MEE-koo)",
+          "translation": "Contemporary Ukrainian poetry masterfully employs vers libre (free verse), creating polyphonic semantic structures through free associative rhythm."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Стопи: Ямб (2-й склад), Хорей (1-й склад); Дактиль (1-й), Амфібрахій (2-й), Анапест (3-й); Сонет — рівно 14 рядків!"
+      ],
+      "culturalNotes": [
+        "Українська поетична школа дала світові шедеври вільного вірша (Василь Голобородько, Ігор Калинець) та неперевершених майстрів силабо-тоніки (Ліна Костенко, Василь Стус)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Говорити\":",
+          "prompt": "Яка віршова стопа є трискладовою з наголосом на другому складі (U — U)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.5.",
-            "Неправильне відмінкове узгодження зі словом «Читати»",
-            "Порушення законів евфонії та словотворення для «Писати»",
-            "Стилістично некоректна синтаксична конструкція з «Слухати»"
+            "Амфібрахій (Amphibrach - three-syllable meter with stress on the middle syllable)",
+            "Дактиль",
+            "Анапест",
+            "Ямб"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Трискладова стопа з наголосом на середньому (другому) складі — це «амфібрахій»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Говорити\":",
+          "prompt": "Як називається повторення однакових або співзвучних приголосних звуків у віршовому рядку для підсилення виразності?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.5.",
-            "Порушення законів евфонії та словотворення для «Писати»",
-            "Стилістично некоректна синтаксична конструкція з «Слухати»",
-            "Неправильне відмінкове узгодження зі словом «Читати»"
+            "Алітерація (Alliteration - repetition of consonant sounds)",
+            "Асонанс",
+            "Анафора",
+            "Оксиморон"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Повторення приголосних називається «алітерацією» (повторення голосних — «асонансом»)."
         }
       ]
     },
@@ -11487,17 +11536,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Говорити\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому літературознавчий та поетикальний аналіз виконано бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 27.5.",
-            "Стилістично некоректна синтаксична конструкція з «Слухати»",
-            "Неправильне відмінкове узгодження зі словом «Читати»",
-            "Порушення законів евфонії та словотворення для «Писати»"
+            "Використання перехресного римування, ямбічного розміру та експресивної метафори підкреслює філософську напругу поетичного роздуму.",
+            "Цей вірш написаний прозою з випадковими голосними буквами без тропів.",
+            "Поет використав сонет на тридцять рядків з римами по колу.",
+            "Хорей завжди має наголос на останньому четвертому складі рядка."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Використання перехресного римування, ямбічного розміру та експресивної метафори...» — бездоганний науковий літературознавчий стиль."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u28-l1": {
