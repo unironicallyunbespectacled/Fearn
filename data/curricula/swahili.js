@@ -9505,53 +9505,62 @@
     "subject": "swahili",
     "unit": 23,
     "lessonNumber": 1,
-    "title": "Methali za Kiswahili na Fasihi Simulizi (Proverbs & Literature) (Part 1)",
+    "title": "Muundo wa Methali za Kiswahili: Usambamba, Vinyume, na Vishazi Vilivyofupishwa (Syntax of Swahili Proverbs)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.1) with authentic precision.",
+    "objective": "Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba, vinyume, na vishazi vilivyofupishwa (Proverbial Syntax & Semantics).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Miundo ya Kisarufi ya Methali za Kiswahili:\n\nMethali za Kiswahili si semi za kubahatisha; zina miundo thabiti ya kisarufi na kifasihi inayotumia sheria maalum za lugha:\n\n1. **Muundo wa Usambamba (Syntactic Parallelism)**:\n   - Vishazi viwili vinavyolingana kiumbo, kimuundo na mdundo wa maneno:\n     - *Mpanda ngazi hushuka.* (He who climbs a ladder descends.)\n     - *Asiyekujua hakuthamini.* (He who doesn't know you doesn't value you.)\n     - *Mtaka cha mvunguni sharti ainame.* (He who desires what is under the bed must bend down.)\n\n2. **Muundo wa Vinyume na Ulinganifu (Antithesis & Contrast)**:\n   - Kuweka maneno mawili yenye maana zinazokinzana ili kusisitiza ukweli wa jambo:\n     - *Mvumilivu hula mbivu.* (The patient one eats ripe fruit - *mvumilivu vs mbivu*)\n     - *Haraka haraka haina baraka.* (Haste has no blessing.)\n     - *Umoja ni nguvu, utengano ni udhaifu.* (Unity is strength, division is weakness.)\n\n3. **Muundo wa Vishazi Vilivyofupishwa (Ellipsis)**:\n   - Kuacha kwa makusudi vitenzi vikuu au viunganishi ili sentensi iwe fupi na nzito:\n     - *Mchimba shimo [ataingia] mwenyewe.* (He who digs a pit enters it himself.)\n     - *Kidole kimoja [hakivunji] chawa.* (A single finger cannot crush a louse.)\n     - *Fuata nyuki [utakula] asali.* (Follow bees, you will eat honey.)\n\n4. **Matumizi ya O-Rejeshi na Masharti katika Methali**:\n   - *Asiyesikia la mkuu huvunjika guu.* (He who heeds not elders' advice breaks a leg.)\n   - *Ukiona vyaelea vimeundwa.* (If you see them floating, know they were constructed.)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 23."
+          "target": "Methali ya 'Mvumilivu hula mbivu' inasisitiza kwamba mtu mwenye subira hufanikiwa kupata matunda bora ya kazi yake.",
+          "reading": "Me-tha-li ya Mvu-mi-li-vu hu-la mbi-vu i-na-si-si-ti-za kwa-mba mtu mwe-nye su-bi-ra hu-fa-ni-ki-wa ku-pa-ta ma-tu-nda bo-ra ya ka-zi ya-ke. [mɛˈθɑli jɑ mvumiˈlivu ˈhulɑ ˈmbivu inɑsisiˈtizɑ ˈkwɑmbɑ ˈmtu ˈmwɛɲɛ suˈbirɑ hufɑniˈkiwɑ kuˈpɑtɑ mɑˈtundɑ ˈbɔrɑ jɑ ˈkɑzi ˈjɑkɛ] (may-THAH-lee yah m-voo-mee-LEE-voo HOO-lah M-BEE-voo ee-nah-see-see-TEE-zah KWAHM-bah M-TOO MWAY-nyay soo-BEE-rah hoo-fah-nee-KEE-wah koo-PAH-tah mah-TOON-dah BOH-rah yah KAH-zee YAH-kay)",
+          "translation": "The proverb 'The patient person eats ripe fruit' [mvumilivu hula mbivu] emphasizes that an individual with patience succeeds in gaining the best fruits of their effort."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 23-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wazee walitukumbusha methali ya 'Kidole kimoja hakivunji chawa' ili kutufundisha umuhimu wa kushirikiana katika maendeleo.",
+          "reading": "Wa-ze-e wa-li-tu-ku-mbu-sha me-tha-li ya Ki-do-le ki-mo-ja ha-ki-vu-nji cha-wa i-li ku-tu-fu-ndi-sha u-mu-hi-mu wa ku-shi-ri-kia-na ka-ti-ka ma-e-nde-le-o. [wɑˈzɛː wɑlitukuˈmbuʃɑ mɛˈθɑli jɑ kiˈdɔlɛ kiˈmɔʤɑ hɑkiˈvunʤi ˈtʃɑwɑ ˈili kutufuˈndiʃɑ umuˈhimu wɑ kuʃiriˈkiɑnɑ ˈkɑtikɑ mɑɛndɛˈlɛɔ] (wah-ZAY-ay wah-lee-too-koom-BOO-shah may-THAH-lee yah kee-DOH-lay kee-MOH-jah hah-kee-VOON-jee CHAH-wah EE-lee koo-too-foon-DEE-shah oo-moo-HEE-moo wah koo-shee-ree-kee-AH-nah KAH-tee-kah mah-ayn-day-LAY-oh)",
+          "translation": "Elders reminded us of the proverb 'A single finger does not crush a louse' [kidole kimoja hakivunji chawa] to teach us the vital importance of cooperating in development."
+        },
+        {
+          "target": "Katika safari ya mafanikio, kumbuka daima kwamba 'Mtaka cha mvunguni sharti ainame' kwani hakuna mafanikio bila kujituma kwa dhati.",
+          "reading": "Ka-ti-ka sa-fa-ri ya ma-fa-ni-ki-o, ku-mbu-ka da-i-ma kwa-mba Mta-ka cha mvu-ngu-ni sha-rti a-i-na-me kwa-ni ha-ku-na ma-fa-ni-ki-o bi-la ku-ji-tu-ma kwa dha-ti. [ˈkɑtikɑ sɑˈfɑri jɑ mɑfɑniˈkiɔ kuˈmbukɑ dɑˈimɑ ˈkwɑmbɑ ˈmtɑkɑ tʃɑ mvuˈŋɡuni ˈʃɑrti ɑiˈnɑmɛ ˈkwɑni hɑˈkunɑ mɑfɑniˈkiɔ ˈbilɑ kuʤiˈtumɑ kwɑ ˈðɑti] (KAH-tee-kah sah-FAH-ree yah mah-fah-nee-KEE-oh, koom-BOO-kah dah-EE-mah KWAHM-bah M-TAH-kah chah m-voon-GOO-nee SHAHR-tee ah-ee-NAH-may KWAH-nee hah-KOO-nah mah-fah-nee-KEE-oh BEE-lah koo-jee-TOO-mah kwah THAH-tee)",
+          "translation": "On the journey to success, always remember that 'Whoever desires what is under the bed must bend down' [mtaka cha mvunguni sharti ainame] since there is no accomplishment without dedicated effort."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Miundo ya Methali: Usambamba (Mpanda ngazi hushuka); Vinyume (Mvumilivu hula mbivu); Ufupisho (Kidole kimoja hakivunji chawa)!"
+      ],
+      "culturalNotes": [
+        "Katika utamaduni wa Waswahili, methali hutumika kama chombo kikuu cha kutoa hekima, maadili, na busara bila kumvunjia mtu heshima hadharani."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Nyekundu\":",
+          "prompt": "Methali ya Kiswahili «Asiyesikia la mkuu huvunjika guu» inatumia miundo ipi ya kisarufi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Buluu»",
-            "Mpangilio usio sahihi wa viambishi katika «Manjano»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kijani»"
+            "Muundo wa O-Rejeshi hasi (Asiyesikia) ukifuatiwa na kitenzi cha kauli ya mazoea (huvunjika)",
+            "Muundo wa wakati ujao na wakati uliopita",
+            "Muundo wa amri ya moja kwa moja",
+            "Muundo wa swali na jibu"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Asiyesikia» inajumuisha O-Rejeshi hasi ya nafsi ya tatu na «huvunjika» inatumia kiambishi cha kauli ya mazoea «hu-»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Nyekundu\":",
+          "prompt": "Ni methali ipi inayoonyesha umuhimu wa ushirikiano na umoja katika jamii ya Waswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Manjano»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kijani»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Buluu»"
+            "Kidole kimoja hakivunji chawa / Umoja ni nguvu utengano ni udhaifu (A single finger crushes no louse / Unity is strength - Correct proverbs on solidarity)",
+            "Mpanda ngazi hushuka",
+            "Mvumilivu hula mbivu",
+            "Asiyekujua hakuthamini"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Kidole kimoja hakivunji chawa» na «Umoja ni nguvu» zote zinafundisha mshikamano na nguvu ya ushirikiano."
         }
       ]
     },
@@ -9559,17 +9568,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Nyekundu\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha ya methali sahihi za Kiswahili zinazowakilisha hekima ya jadi:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kijani»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Buluu»",
-            "Mpangilio usio sahihi wa viambishi katika «Manjano»"
+            "Mvumilivu hula mbivu, Kidole kimoja hakivunji chawa, Mtaka cha mvunguni sharti ainame, Asiyekujua hakuthamini, Ukiona vyaelea vimeundwa.",
+            "Mvumilivu hula mbichi, Kidole kimoja kinavunja nyumba, Mtaka cha juu asisimame.",
+            "Methali zote za Kiswahili zilikopwa kutoka lugha za Kizungu bila kubadilishwa.",
+            "Haraka haraka ina baraka tele, Mchimba shimo huingia mwingine."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Methali sanifu: Mvumilivu hula mbivu, Kidole kimoja hakivunji chawa, Mtaka cha mvunguni sharti ainame, Asiyekujua hakuthamini, Ukiona vyaelea vimeundwa."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u23-l2": {
@@ -9577,53 +9587,62 @@
     "subject": "swahili",
     "unit": 23,
     "lessonNumber": 2,
-    "title": "Methali za Kiswahili na Fasihi Simulizi (Proverbs & Literature) (Part 2)",
+    "title": "Nahau na Misemo ya Kiswahili: Miundo ya Vitenzi na Majina ya Kimajazi (Swahili Idioms & Metaphors)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.2) with authentic precision.",
+    "objective": "Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili (Swahili Idioms & Metaphors) inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Nahau na Misemo ya Kimajazi katika Kiswahili:\n\n**Nahau (Idiom)** ni fungu la maneno lenye maana maalum ya ndani tofauti kabisa na maana ya kawaida ya maneno hayo yanapochukuliwa neno kwa neno:\n\n1. **Nahau Zinazotumia Kitenzi «Piga»**:\n   - *Piga moyo konde* -> Kujipa ujasiri au uvumilivu mkubwa (take courage / brace oneself)\n   - *Piga mbizi* -> Kuzama ndani ya maji (dive)\n   - *Piga teke* -> Kukataa au kutupilia mbali pendekezo\n   - *Piga mwayo* -> Kufungua mdomo kwa usingizi au uchovu (yawn).\n\n2. **Nahau Zinazotumia Kitenzi «Kula»**:\n   - *Kula njama* -> Kupanga mipango ya siri au hila dhidi ya mtu (conspire / plot)\n   - *Kula yamini* -> Kuapa kiapo rasmi (take an oath)\n   - *Kula mwata* -> Kupata shida au mateso makali.\n\n3. **Nahau Nyingine Maarufu za Kisarufi**:\n   - *Kaza kamba* -> Kuongeza bidii na juhudi katika kazi (tighten efforts)\n   - *Shika hatamu* -> Kuchukua uongozi au mamlaka ya kuongoza (take control / leadership)\n   - *Fungua ukurasa mpya* -> Kuanza maisha au mahusiano mapya baada ya matatizo (start anew)\n   - *Laza damu* -> Kufanya uzembe au kutokuwa na umakini kazini (slacken / be careless).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 23."
+          "target": "Licha ya changamoto kubwa alizokumbana nazo, mwanafunzi alipiga moyo konde na kufanikiwa kuhitimu masomo yake ya udaktari.",
+          "reading": "Li-cha ya cha-nga-mo-to kbu-bwa a-li-zo-ku-mba-na na-zo, mwa-na-fu-nzi a-li-pi-ga mo-yo ko-nde na ku-fa-ni-ki-wa ku-hi-ti-mu ma-so-mo ya-ke ya u-da-kta-ri. [ˈlitʃɑ jɑ tʃɑŋɡɑˈmɔtɔ ˈkubwɑ ɑlizɔkumbɑˈnɑ ˈnɑzɔ mwɑnɑˈfunzi ɑlipiˈɡɑ ˈmɔjɔ ˈkɔndɛ nɑ kufɑniˈkiwɑ kuhiˈtimu mɑˈsɔmɔ ˈjɑkɛ jɑ udɑkˈtɑri] (LEE-chah yah chahn-gah-MOH-toh KOO-bwah ah-lee-zoh-koom-BAH-nah NAH-zoh, mwah-nah-FOON-zee ah-lee-PEE-gah MOH-yoh KOHN-day nah koo-fah-nee-KEE-wah koo-hee-TEE-moo mah-SOH-moh YAH-kay yah oo-dahk-TAH-ree)",
+          "translation": "Despite immense challenges he encountered, the student braced his heart / took courage [alipiga moyo konde] and succeeded in graduating from his medical studies."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 23-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wafanyakazi wote walikaza kamba kukamilisha ujenzi wa daraja kabla ya kuanza kwa msimu wa mvua za masika.",
+          "reading": "Wa-fa-nya-ka-zi wo-te wa-li-ka-za ka-mba ku-ka-mi-li-sha u-je-nzi wa da-ra-ja ka-bla ya ku-a-nza kwa msi-mu wa mvu-a za ma-si-ka. [wɑfɑɲɑˈkɑzi ˈwɔtɛ wɑliˈkɑzɑ ˈkɑmbɑ kukɑmiˈliʃɑ uˈʤɛnzi wɑ dɑˈrɑʤɑ ˈkɑblɑ jɑ kuˈɑnzɑ kwɑ ˈmsimu wɑ ˈmvuɑ zɑ mɑˈsikɑ] (wah-fah-nyah-KAH-zee WOH-tay wah-lee-KAH-zah KAHM-bah koo-kah-mee-LEE-shah oo-JAYN-zee wah dah-RAH-jah KAH-blah yah koo-AHN-zah kwah m-SEE-moo wah MVOO-ah zah mah-SEE-kah)",
+          "translation": "All workers redoubled their efforts / tightened the rope [walikaza kamba] to complete bridge construction before the onset of the heavy long rains season."
+        },
+        {
+          "target": "Baada ya kupatanishwa na wazee wa mtaa, pande zote mbili zilikubaliana kufungua ukurasa mpya wa amani na ujirani mwema.",
+          "reading": "Ba-a-da ya ku-pa-ta-ni-shwa na wa-ze-e wa mta-a, pa-nde zo-te mbi-li zi-li-ku-ba-lia-na ku-fu-ngu-a u-ku-ra-sa mpy-a wa a-ma-ni na uji-ra-ni mwe-ma. [bɑˈɑdɑ jɑ kupɑtɑˈniʃwɑ nɑ wɑˈzɛː wɑ ˈmtɑː ˈpɑndɛ ˈzɔtɛ ˈmbili zilikubɑˈliɑnɑ kufuˈŋɡuɑ ukuˈrɑsɑ ˈmpjɑ wɑ ɑˈmɑni nɑ uʤiˈrɑni ˈmwɛmɑ] (bah-AH-dah yah koo-pah-tah-NEE-shwah nah wah-ZAY-ay wah m-TAH-ah, PAHN-day ZOH-tay M-BEE-lee zee-lee-koo-bah-lee-AH-nah koo-foon-GOO-ah oo-koo-RAH-sah M-PYAH wah ah-MAH-nee nah oo-jee-RAH-nee MWAY-mah)",
+          "translation": "After being reconciled by neighborhood elders, both sides agreed to open a new chapter [kufungua ukurasa mpya] of peace and good neighborliness."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Nahau za Kiswahili: Piga moyo konde (take courage); Kaza kamba (work harder); Kula njama (plot/conspire); Shika hatamu (take leadership)!"
+      ],
+      "culturalNotes": [
+        "Matumizi ya nahau huifanya lugha ya Kiswahili kuwa ya staha na adabu, ikiepuka matamshi makali au ya aibu katika mazungumzo rasmi ya jamii."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Buluu\":",
+          "prompt": "Nahau ya Kiswahili «Kupiga moyo konde» ina maana gani katika muktadha wa kawaida?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Manjano»",
-            "Mpangilio usio sahihi wa viambishi katika «Kijani»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nyeupe»"
+            "Kujipa ujasiri, uvumilivu na moyo mkuu wakati wa magumu (Take courage / brace oneself - Correct idiom meaning)",
+            "Kumpiga mtu ngumi kifuani",
+            "Kukata tamaa na kuacha kazi",
+            "Kufanya mazoezi ya riadha"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Kupiga moyo konde» ni nahau inayomaanisha kujipa ujasiri na kukabiliana na changamoto bila kukata tamaa."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Buluu\":",
+          "prompt": "Nahau ipi inamaanisha 'kupanga mipango ya siri au hila' dhidi ya jambo fulani?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Kijani»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nyeupe»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Manjano»"
+            "Kula njama (Conspire / plot secretly - Correct idiomatic expression)",
+            "Kaza kamba",
+            "Piga mbizi",
+            "Shika hatamu"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Kula njama» inamaanisha kupanga hila au hila za siri kwa ushirikiano."
         }
       ]
     },
@@ -9631,17 +9650,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Buluu\": Which sentence is completely correct?",
+          "prompt": "Chagua jozi iliyo sahihi ya nahau za Kiswahili na maana zake halisi:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nyeupe»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Manjano»",
-            "Mpangilio usio sahihi wa viambishi katika «Kijani»"
+            "Piga moyo konde (jipatie ujasiri), Kaza kamba (ongeza bidii), Shika hatamu (chukua uongozi), Kula njama (panga hila za siri).",
+            "Piga moyo konde (kula chakula kingi), Kaza kamba (funga viatu), Shika hatamu (shika kamba ya farasi).",
+            "Nahau zote za Kiswahili zina maana moja kwa moja bila sitiari yoyote.",
+            "Laza damu (fanya upasuaji wa damu), Piga mbizi (piga ngoma)."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Maana sahihi za nahau: Piga moyo konde (jipatie ujasiri), Kaza kamba (ongeza bidii), Shika hatamu (chukua uongozi), Kula njama (panga hila za siri)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u23-l3": {
@@ -9649,53 +9669,62 @@
     "subject": "swahili",
     "unit": 23,
     "lessonNumber": 3,
-    "title": "Methali za Kiswahili na Fasihi Simulizi (Proverbs & Literature) (Part 3)",
+    "title": "Vitendawili na Mafumbo ya Kiswahili: Miundo ya Maswali, Majibu na Lugha ya Picha (Riddles & Enigmas)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.3) with authentic precision.",
+    "objective": "Kuelewa kanuni za kiutendaji za vitendawili (Swahili Riddles & Enigmas), mtiririko wa mtambaji na hadhira, na lugha ya picha za kimazingira.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vitendawili na Mafumbo katika Fasihi Simulizi ya Kiswahili:\n\n**Kitendawili** ni fumbo fupi la kimapokeo linalotumia lugha ya picha na sitiari za kimazingira kuchochea udadisi na mantiki ya kiakili:\n\n1. **Mchakato Rasmi wa Utendaji wa Vitendawili**:\n   - **Hatua ya 1 (Mwito)**: Mtambaji huanza kwa kusema kwa sauti: *«Kitendawili!»*\n   - **Hatua ya 2 (Mwitikio)**: Hadhira hujibu kwa pamoja: *«Tega!»* (Weka mtego tuko tayari kutegua).\n   - **Hatua ya 3 (Fumbo)**: Mtambaji anatoa picha ya fumbo.\n   - **Hatua ya 4 (Uteguzi au Kutoa Mji)**: Hadhira ikishindwa kutegua, mtambaji hudai mji (*«Nipe mji!»*), hadhira humpa mji wa kihistoria (*«Tunakupa Mombasa / Bagamoyo / Unguja!»*), kisha mtambaji anatoa jibu rasmi.\n\n2. **Mifano Mashuhuri ya Vitendawili vya Kiswahili**:\n   - *Nyumba yangu haina mlango wala dirisha.* -> **Yai** (An egg)\n   - *Kuku wangu hutagia miibani.* -> **Nanasi** (A pineapple)\n   - *Popoo mbili zavuka mto.* -> **Macho** (Two eyes)\n   - *Huku ng'o na kule ng'o.* -> **Giza** (Darkness)\n   - *Mwanangu analia kichakani.* -> **Shoka / Panga linalokata mti** (Axe/machete in the woods)\n   - *Ajenga ingawa hana mikono.* -> **Ndege anayejenga kiota** (Bird building nest).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 23."
+          "target": "Mtambaji alipotamka 'Kitendawili!', watoto wote walijibu kwa hamasa kubwa 'Tega!' kabla ya kusikiliza fumbo la yai.",
+          "reading": "Mta-mba-ji a-li-po-ta-mka Ki-te-nda-wi-li, wa-to-to wo-te wa-li-ji-bu kwa ha-ma-sa kbu-bwa Te-ga ka-bla ya ku-si-ki-li-za fu-mbo la ya-i. [mtɑˈmbɑʤi ɑlipɔˈtɑmkɑ kitɛndɑˈwili wɑˈtɔtɔ ˈwɔtɛ wɑliˈʤibu kwɑ hɑˈmɑsɑ ˈkubwɑ ˈtɛɡɑ ˈkɑblɑ jɑ kusikiˈlizɑ ˈfumbɔ lɑ ˈjɑi] (m-tahm-BAH-jee ah-lee-poh-TAHM-kah kee-tayn-dah-WEE-lee, wah-TOH-toh WOH-tay wah-lee-JEE-boo kwah hah-MAH-sah KOO-bwah TAY-gah KAH-blah yah koo-see-kee-LEE-zah FOOM-boh lah YAH-ee)",
+          "translation": "When the storyteller declared 'Kitendawili!', all children responded with great enthusiasm 'Tega!' before listening to the egg enigma [Nyumba yangu haina mlango]."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 23-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kitendawili cha 'Popoo mbili zavuka mto' kinaashiria macho mawili ya binadamu yanayotazama ng'ambo ya mto bila mwili kuvuka.",
+          "reading": "Ki-te-nda-wi-li cha Po-po-o mbi-li za-vu-ka mto ki-na-a-shi-ria ma-cho ma-wi-li ya bi-na-da-mu ya-na-yo-ta-za-ma nga-mbo ya mto bi-la mwi-li ku-vu-ka. [kitɛndɑˈwili tʃɑ pɔˈpɔː ˈmbili zɑˈvukɑ ˈmtɔ kinɑɑʃiˈriɑ ˈmɑtʃɔ mɑˈwili jɑ binɑˈdɑmu jɑnɑjɔtɑˈzɑmɑ ˈŋɑmbɔ jɑ ˈmtɔ ˈbilɑ ˈmwili kuˈvukɑ] (kee-tayn-dah-WEE-lee chah poh-POH-oh M-BEE-lee zah-VOO-kah M-TOH keen-ah-ah-shee-REE-ah MAH-choh mah-WEE-lee yah bee-nah-DAH-moo yah-nah-yoh-tah-ZAH-mah NGAHM-boh yah M-TOH BEE-lah MWEE-lee koo-VOO-kah)",
+          "translation": "The riddle 'Two areca nuts cross the river' symbolizes the two human eyes [macho] looking across the river without the body crossing."
+        },
+        {
+          "target": "Kupitia vitendawili na mafumbo, jamii za Waswahili zilifundisha watoto stadi za uchunguzi wa mazingira, mimea, na wanyama.",
+          "reading": "Ku-pi-tia vi-te-nda-wi-li na ma-fu-mbo, ja-mi-i za Wa-swa-hi-li zi-li-fu-ndi-sha wa-to-to sta-di za uchu-ngu-zi wa ma-zi-ngi-ra, mi-me-a, na wnya-ma. [kupiˈtiɑ vitɛndɑˈwili nɑ mɑˈfumbɔ ʤɑˈmiː zɑ wɑswɑˈhili zilifuˈndiʃɑ wɑˈtɔtɔ ˈstɑdi zɑ utʃuˈŋɡuzi wɑ mɑziˈŋɡirɑ miˈmɛɑ nɑ ˈwɲɑmɑ] (koo-pee-TEE-ah vee-tayn-dah-WEE-lee nah mah-FOOM-boh, jah-MEE-ee zah wah-swah-HEE-lee zee-lee-foon-DEE-shah wah-TOH-toh STAH-dee zah oo-choon-GOO-zee wah mah-zeen-GEE-rah, mee-MAY-ah, nah WNYAH-mah)",
+          "translation": "Through riddles and enigmas, Swahili communities taught children observation skills regarding the natural environment, plants, and animals."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Mchakato wa Kitendawili: Mtambaji husema 'Kitendawili!', Hadhira huitikia 'Tega!'. Mifano: Nyumba haina mlango = Yai; Popoo zavuka mto = Macho!"
+      ],
+      "culturalNotes": [
+        "Utamaduni wa vitendawili ulikuwa ukifanyika jioni baada ya kazi za mchana, kando ya moto wa kuni au kwenye baraza la nyumba."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Manjano\":",
+          "prompt": "Wakati mtambaji anapotamka «Kitendawili!», mwitikio sahihi wa kitamaduni wa hadhira katika lugha ya Kiswahili ni upi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kijani»",
-            "Mpangilio usio sahihi wa viambishi katika «Nyeupe»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nyeusi»"
+            "Tega! (Set the trap / We are ready - Authentic cultural response)",
+            "Jibu!",
+            "Sema!",
+            "Fungua!"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Mwitikio wa pekee na sahihi wa kitamaduni kwa neno «Kitendawili!» ni «Tega!»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Manjano\":",
+          "prompt": "Jibu sahihi la kitendawili maarufu cha Kiswahili «Nyumba yangu haina mlango wala dirisha» ni nini?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Nyeupe»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nyeusi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kijani»"
+            "Yai (An egg - Correct answer to the riddle)",
+            "Nanasi",
+            "Macho",
+            "Giza"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Yai linajengwa na ganda lililofungwa pande zote bila uwazi wa mlango wala dirisha."
         }
       ]
     },
@@ -9703,17 +9732,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Manjano\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha sahihi ya vitendawili na majibu yake halisi katika Fasihi Simulizi ya Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nyeusi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kijani»",
-            "Mpangilio usio sahihi wa viambishi katika «Nyeupe»"
+            "Nyumba yangu haina mlango wala dirisha (Yai), Kuku wangu hutagia miibani (Nanasi), Popoo mbili zavuka mto (Macho), Huku ng'o na kule ng'o (Giza).",
+            "Nyumba yangu haina mlango (Gari), Kuku wangu hutagia miibani (Ndizi), Popoo mbili zavuka mto (Miguu).",
+            "Vitendawili vya Kiswahili havina majibu maalum na kila mtu anajitungia jibu lake papo hapo.",
+            "Kitendawili hutolewa asubuhi kabla ya jua kuchomoza pekee."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Majibu sahihi: Nyumba haina mlango (Yai), Kuku hutagia miibani (Nanasi), Popoo zavuka mto (Macho), Huku ng'o na kule ng'o (Giza)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u23-l4": {
@@ -9721,53 +9751,62 @@
     "subject": "swahili",
     "unit": 23,
     "lessonNumber": 4,
-    "title": "Methali za Kiswahili na Fasihi Simulizi (Proverbs & Literature) (Part 4)",
+    "title": "Mashairi ya Kiswahili: Miundo ya Ushairi wa Jadi (Vina, Mizani, Vituo, na Bahari za Ushairi)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.4) with authentic precision.",
+    "objective": "Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti, mshororo, vina (vya kati na mwisho), mizani, na vituo vya mashairi.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Miundo na Kanuni za Ushairi wa Jadi wa Kiswahili (Arudhi za Ushairi):\n\nUshairi wa kimapokeo katika Kiswahili hufuata kanuni thabiti za **Arudhi** (Poetic Prosody & Metrics):\n\n1. **Istilahi Muhimu za Ushairi**:\n   - **Ubeti (Stanza)**: Kifungu cha mishororo kinachojenga wazo kamili katika shairi.\n   - **Mshororo (Line/Verse)**: Mstari mmoja wa shairi, ambao kwa kawaida umegawanyika katika vipande viwili: *Ukwapi* (kipande cha kwanza) na *Utao* (kipande cha pili).\n   - **Mizani (Meter / Syllable Count)**: Idadi ya silabi zinazotamkwa katika kila mshororo (mfumo maarufu ni wa mizani 16: 8 kwa ukwapi na 8 kwa utao).\n   - **Vina (Rhyme)**: Sauti/herufi za mwisho zinazofanana; kuna *kina cha kati* (mwisho wa ukwapi) na *kina cha mwisho* (mwisho wa utao).\n   - **Kituo (Refrain / Chorus Line)**: Mshororo wa mwisho unaorudiwa katika kila ubeti kusisitiza ujumbe mkuu wa shairi.\n\n2. **Bahari za Ushairi kulingana na Idadi ya Mishororo**:\n   - **Tathnitha**: Shairi lenye mishororo miwili kwa kila ubeti.\n   - **Tathlitha**: Shairi lenye mishororo mitatu kwa kila ubeti.\n   - **Tarbia**: Shairi lenye mishororo minne kwa kila ubeti (umbo lililozoeleka zaidi).\n   - **Takhmisa**: Shairi lenye mishororo mitano kwa kila ubeti.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 23."
+          "target": "Ubeti wa shairi la kimapokeo unajumuisha mishororo minne yenye mizani kumi na sita na vina vilivyopangwa kwa ustadi mkubwa.",
+          "reading": "U-be-ti wa sha-i-ri la ki-ma-po-ke-o u-na-ju-mu-i-sha mi-sho-ro-ro mi-nne ye-nye mi-za-ni ku-mi na si-ta na vi-na vi-li-vyo-pa-ngwa kwa u-sta-di mku-bwa. [ubɛˈti wɑ ʃɑˈiri lɑ kimɑpɔˈkɛɔ unɑʤumuiˈʃɑ miʃɔˈrɔrɔ ˈmiɲɛ ˈjɛɲɛ miˈzɑni ˈkumi nɑ ˈsitɑ nɑ ˈvinɑ vilivjɔˈpɑŋɡwɑ kwɑ usˈtɑdi ˈmkubwɑ] (oo-BAY-tee wah shah-EE-ree lah kee-mah-poh-KAY-oh oo-nah-joo-moo-EE-shah mee-shoh-ROH-roh MEEN-nyay YAY-nyay mee-ZAH-nee KOO-mee nah SEE-tah nah VEE-nah vee-lee-vyoh-PAHN-gwah kwah oos-TAH-dee M-KOO-bwah)",
+          "translation": "A traditional stanza [ubeti] comprises four poetic lines [mishororo] with sixteen syllables [mizani] and meticulously arranged rhymes [vina]."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 23-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mshairi mahiri alipanga vina vya kati na vya mwisho ili kutiririsha ujumbe mzito kuhusu utu, heshima, na umoja wa jamii.",
+          "reading": "Msha-i-ri ma-hi-ri a-li-pa-nga vi-na vya ka-ti na vya mwi-sho i-li ku-ti-ri-ri-sha uju-mbe mzi-to ku-hu-su u-tu, he-shi-ma, na u-mo-ja wa ja-mi-i. [mʃɑˈiri mɑˈhiri ɑliˈpɑŋɡɑ ˈvinɑ vjɑ ˈkɑti nɑ vjɑ ˈmwiʃɔ ˈili kutiririˈʃɑ uˈʤumbɛ ˈmzitɔ kuˈhusu ˈutu hɛˈʃimɑ nɑ uˈmɔʤɑ wɑ ʤɑˈmiː] (m-shah-EE-ree mah-HEE-ree ah-lee-PAHN-gah VEE-nah vyah KAH-tee nah vyah MWEE-shoh EE-lee koo-tee-ree-REE-shah oo-JOOM-bay M-ZEE-toh koo-HOO-soo OO-too, hay-SHEE-mah, nah oo-MOH-jah wah jah-MEE-ee)",
+          "translation": "The skilled poet organized middle and end rhymes [vina vya kati na vya mwisho] to fluidly deliver a profound message on humanity, respect, and communal solidarity."
+        },
+        {
+          "target": "Kituo cha shairi kilijirudia mwishoni mwa kila ubeti kikiwakumbusha wasikilizaji kwamba 'Umoja ni nguvu na utengano ni udhaifu'.",
+          "reading": "Ki-tu-o cha sha-i-ri ki-li-ji-ru-dia mwi-sho-ni mwa ki-la u-be-ti ki-ki-wa-ku-mbu-sha wa-si-ki-li-za-ji kwa-mba U-mo-ja ni ngu-vu na ute-nga-no ni udha-i-fu. [kiˈtuɔ tʃɑ ʃɑˈiri kiliʤiruˈdiɑ mwiʃɔˈni mwɑ ˈkilɑ ubɛˈti kikiwɑkumbuˈʃɑ wɑsikilizɑˈʤi ˈkwɑmbɑ uˈmɔʤɑ ni ˈŋɡuvu nɑ utɛŋɡɑˈnɔ ni uðɑˈifu] (kee-TOO-oh chah shah-EE-ree kee-lee-jee-roo-DEE-ah mwee-shoh-NEE mwah KEE-lah oo-BAY-tee kee-kee-wah-koom-BOO-shah wah-see-kee-lee-ZAH-jee KWAHM-bah Oo-MOH-jah nee N-GOO-voo nah oo-tayn-gah-NOH nee oo-thah-EE-foo)",
+          "translation": "The poem's refrain [kituo] repeated at the close of every stanza, reminding listeners that 'Unity is strength and division is weakness'."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Arudhi za Ushairi: Ubeti (stanza), Mshororo (line), Mizani (syllables), Vina (rhymes: kati na mwisho), Kituo (refrain line)!"
+      ],
+      "culturalNotes": [
+        "Ushairi wa Kiswahili una historia ndefu kuanzia karne ya 10 (mashairi ya Muyaka bin Haji, Shaaban Robert, Fumo Liyongo) ukitumika kuelimisha, kuburudisha, na kuhamasisha harakati za ukombozi."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kijani\":",
+          "prompt": "Katika ushairi wa kimapokeo wa Kiswahili, mstari mmoja ndani ya ubeti unaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nyeupe»",
-            "Mpangilio usio sahihi wa viambishi katika «Nyeusi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kijivu»"
+            "Mshororo (A poetic verse line - Correct poetic terminology)",
+            "Mizani (Idadi ya silabi)",
+            "Kina (Mlio wa herufi zinazofanana)",
+            "Kituo (Mstari wa mwisho unaojirudia)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Mstari mmoja wa ubeti unaitwa «mshororo». Mshororo hugawanyika katika ukwapi na utao."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kijani\":",
+          "prompt": "Shairi la kimapokeo lenye mishororo minne katika kila ubeti linaitwa kwa jina gani la kibahari?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Nyeusi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kijivu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nyeupe»"
+            "Tarbia (Four-line stanza poetry - Correct poetic classification)",
+            "Tathnitha (Mishororo miwili)",
+            "Tathlitha (Mishororo mitatu)",
+            "Takhmisa (Mishororo mitano)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Shairi lenye mishororo minne kwa kila ubeti huitwa «Tarbia»."
         }
       ]
     },
@@ -9775,17 +9814,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kijani\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha sahihi ya istilahi za Arudhi katika Ushairi wa Jadi wa Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kijivu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nyeupe»",
-            "Mpangilio usio sahihi wa viambishi katika «Nyeusi»"
+            "Ubeti (kifungu cha shairi), Mshororo (mstari), Mizani (silabi), Vina (sauti za kufanana), Kituo (mshororo wa mwisho unaojirudia).",
+            "Ubeti (sentensi ya kawaida), Mshororo (kitenzi), Mizani (alama ya uakifishaji).",
+            "Ushairi wa Kiswahili hauna kanuni zozote za vina wala mizani.",
+            "Mashairi yote ya Kiswahili yanapaswa kuandikwa bila kutumia maneno ya Kibantu."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Istilahi rasmi za kiarudhi: Ubeti, Mshororo, Mizani, Vina (vya kati na vya mwisho), na Kituo."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u23-l5": {
@@ -9793,53 +9833,62 @@
     "subject": "swahili",
     "unit": 23,
     "lessonNumber": 5,
-    "title": "Methali za Kiswahili na Fasihi Simulizi (Proverbs & Literature) (Part 5)",
+    "title": "Muhtasari wa Fasihi Simulizi na Methali za Kiswahili (Oral Literature & Proverbs Grand Synthesis)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 23: methali za Kiswahili (usambamba na vinyume), nahau na misemo, vitendawili na mafumbo, pamoja na arudhi za ushairi katika mfumo mmoja jumuishi wa fasihi simulizi na ufasaha wa balagha.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Fasihi Simulizi na Ufasaha wa Kiswahili (Literature & Rhetoric Matrix):\n\n1. **Nyanja Kuu za Fasihi Simulizi katika Kiswahili**:\n   - **Methali (Proverbs)**: Semi fupi zenye hekima na picha ya maisha (*Mvumilivu hula mbivu, Mtaka cha mvunguni sharti ainame*).\n   - **Nahau (Idioms)**: Mafungu ya maneno yenye maana maalum ya ndani ya heshima na staha (*Piga moyo konde, Kaza kamba, Fungua ukurasa mpya*).\n   - **Vitendawili (Riddles)**: Mafumbo ya kiutendaji yanayotumia mtindo wa *Kitendawili! - Tega!* na picha za kimazingira (*Yai, Nanasi, Macho, Giza*).\n   - **Ushairi (Poetry & Prosody)**: Sanaa ya maneno yenye kufuata ubeti, mishororo, mizani (silabi 16), vina (vya kati na mwisho), na vituo.\n\n2. **Umuhimu wa Balagha katika Kiwango cha B2/C1**:\n   - Kutumia fani hizi za fasihi simulizi kwa usahihi huonyesha umahiri wa hali ya juu wa kiisimu na humwezesha mzungumzaji kuwasilisha mawazo mazito kwa wepesi, uzuri, na staha ya kiutamaduni.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 23."
+          "target": "Mzungumzaji anayetumia methali, nahau, na mifano ya ushairi kwa wakati mwafaka huonyesha ukomavu wa hali ya juu wa kiisimu katika jamii ya Waswahili.",
+          "reading": "Mzu-ngu-mza-ji a-na-ye-tu-mia me-tha-li, na-ha-u, na mi-fa-no ya usha-i-ri kwa wa-ka-ti mwa-fa-ka huo-nye-sha uko-ma-vu wa ha-li ya ju-u wa ki-i-si-mu ka-ti-ka ja-mi-i ya Wa-swa-hi-li. [mzuŋɡumˈzɑʤi ɑnɑjɛtuˈmiɑ mɛˈθɑli nɑˈhɑu nɑ miˈfɑnɔ jɑ uʃɑˈiri kwɑ wɑˈkɑti mwɑˈfɑkɑ huɔˈɲɛʃɑ ukɔˈmɑvu wɑ ˈhɑli jɑ ˈʤuː wɑ kiisiˈmu ˈkɑtikɑ ʤɑˈmiː jɑ wɑswɑˈhili] (m-zoon-goom-ZAH-jee ah-nah-yay-too-MEE-ah may-THAH-lee, nah-HAH-oo, nah mee-FAH-noh yah oo-shah-EE-ree kwah wah-KAH-tee mwah-FAH-kah hoo-ohn-YAY-shah oo-koh-MAH-voo wah HAH-lee yah JOO-oo wah kee-ee-SEE-moo KAH-tee-kah jah-MEE-ee yah wah-swah-HEE-lee)",
+          "translation": "A speaker who deploys proverbs, idioms, and poetic imagery at appropriate moments demonstrates supreme linguistic maturity in Swahili society."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 23-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kutoka vitendawili vya utotoni hadi mashairi mazito ya kifalsafa, fasihi simulizi ya Kiswahili inabeba hekima za vizazi vingi zilizohifadhiwa katika lugha safi.",
+          "reading": "Ku-to-ka vi-te-nda-wi-li vya uto-to-ni ha-di ma-sha-i-ri mzi-to ya ki-fa-lsa-fa, fa-si-hi si-mu-li-zi ya Ki-swa-hi-li i-na-be-ba he-ki-ma za vi-za-zi vi-ngi zi-li-zo-hi-fa-dhi-wa ka-ti-ka lu-gha sa-fi. [kuˈtɔkɑ vitɛndɑˈwili vjɑ utɔˈtɔni ˈhɑdi mɑʃɑˈiri ˈmzitɔ jɑ kifɑlsɑˈfɑ fɑˈsihi simuˈlizi jɑ kiswɑˈhili inɑˈbɛbɑ hɛˈkimɑ zɑ vizɑˈzi ˈviŋɡi zilizɔhifɑˈðiwɑ ˈkɑtikɑ ˈluɣɑ ˈsɑfi] (koo-TOH-kah vee-tayn-dah-WEE-lee vyah oo-toh-TOH-nee HAH-dee mah-shah-EE-ree M-ZEE-toh yah kee-fahl-SAH-fah, fah-SEE-hee see-moo-LEE-zee yah kee-swah-HEE-lee ee-nah-BAY-bah hay-KEE-mah zah vee-ZAH-zee VEEN-gee zee-lee-zoh-hee-fah-THEE-wah KAH-tee-kah LOO-gah SAH-fee)",
+          "translation": "From childhood riddles to profound philosophical verses, Swahili oral literature carries generations of wisdom preserved in pure language."
+        },
+        {
+          "target": "Ufahamu wa methali kama 'Mchumia juani hulia kivulini' unathibitisha kwamba lugha ya Kiswahili inatajirika kwa mchanganyiko wa sarufi makini na balagha ya kuvutia.",
+          "reading": "Ufa-ha-mu wa me-tha-li ka-ma Mchu-mia jua-ni hu-lia ki-vu-li-ni u-na-thi-bi-ti-sha kwa-mba lu-gha ya Ki-swa-hi-li i-na-ta-ji-ri-ka kwa mcha-nga-nyi-ko wa sa-ru-fi ma-ki-ni na ba-la-gha ya ku-vu-tia. [ufɑˈhɑmu wɑ mɛˈθɑli ˈkɑmɑ mtʃuˈmiɑ ʤuɑˈni huˈliɑ kivuliˈni unɑθibiˈtiʃɑ ˈkwɑmbɑ ˈluɣɑ jɑ kiswɑˈhili inɑtɑʤiˈrikɑ kwɑ mtʃɑŋɡɑˈɲikɔ wɑ sɑˈrufi mɑˈkini nɑ bɑˈlɑɣɑ jɑ kuvuˈtiɑ] (oo-fah-HAH-moo wah may-THAH-lee KAH-mah M-choo-MEE-ah joo-ah-NEE hoo-LEE-ah kee-voo-lee-NEE oo-nah-thee-bee-TEE-shah KWAHM-bah LOO-gah yah kee-swah-HEE-lee ee-nah-tah-jee-REE-kah kwah m-chahn-gah-NYEE-koh wah sah-ROO-fee mah-KEE-nee nah bah-LAH-gah yah koo-voo-TEE-ah)",
+          "translation": "Comprehension of proverbs such as 'He who toils in the sun eats in the shade' [mchumia juani hulia kivulini] proves that Swahili is enriched by a fusion of rigorous grammar and captivating rhetoric."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Fasihi Simulizi Grand Synthesis: Methali (Mvumilivu hula mbivu); Nahau (Piga moyo konde); Vitendawili (Tega! - Yai); Ushairi (Ubeti, Mizani, Vina)!"
+      ],
+      "culturalNotes": [
+        "Fasihi simulizi ndiyo mzizi wa utambulisho wa kitaifa na kiutamaduni katika nchi zote zinazozungumza Kiswahili."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Nyeupe\":",
+          "prompt": "Ni fani ipi ya fasihi simulizi inayotumia muundo wa mwito «Kitendawili!» na mwitikio «Tega!»?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nyeusi»",
-            "Mpangilio usio sahihi wa viambishi katika «Kijivu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Hudhurungi»"
+            "Vitendawili (Swahili Riddles - Correct oral literature genre)",
+            "Methali",
+            "Nahau",
+            "Mashairi ya kimapokeo"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Vitendawili hutumia muundo rasmi wa mwito «Kitendawili!» na mwitikio wa hadhira «Tega!»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Nyeupe\":",
+          "prompt": "Sentensi ipi inachanganya methali na nahau kwa ufasaha wa kimuktadha?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Kijivu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Hudhurungi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nyeusi»"
+            "Wakulima walipiga moyo konde na kukaza kamba kwa kuwa wanajua fika kwamba 'Mvumilivu hula mbivu'. (Farmers braced themselves and tightened efforts knowing that 'The patient one eats ripe fruit' - Correct synthesis)",
+            "Wakulima walipiga ngoma na kula chakula bila kufanya kazi yoyote.",
+            "Fasihi simulizi haina uhusiano na maisha ya kila siku.",
+            "Methali zote za Kiswahili hazina maana katika karne ya sasa."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«walipiga moyo konde» (nahau), «kukaza kamba» (nahau), na «Mvumilivu hula mbivu» (methali) zimetumika kwa upatanisho sahihi wa maana na sintaksia."
         }
       ]
     },
@@ -9847,17 +9896,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Nyeupe\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 23 ya Methali, Nahau, Vitendawili na Ushairi wa Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Hudhurungi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nyeusi»",
-            "Mpangilio usio sahihi wa viambishi katika «Kijivu»"
+            "Kupitia hekima za methali kama 'Umoja ni nguvu', mafumbo ya vitendawili, na mizani ya ushairi, jamii inafungua ukurasa mpya wa mshikamano huku kila mmoja akipiga moyo konde kufikia mafanikio. (Comprehensive synthesis of proverbs, riddles, prosody, and idioms.)",
+            "Fasihi ya Kiswahili ilifutwa kabisa na haitumiki tena.",
+            "Watu hawajawahi kutumia mashairi wala vitendawili katika lugha ya Kiswahili.",
+            "Methali na nahau ni maneno ya kigeni yasiyo na maana katika Kiswahili sanifu."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kupitia hekima za methali kama 'Umoja ni nguvu', mafumbo ya vitendawili, na mizani ya ushairi, jamii inafungua ukurasa mpya wa mshikamano huku kila mmoja akipiga moyo konde kufikia mafanikio.» inajumuisha nyanja zote za fasihi simulizi kwa ukamilifu wa kisarufi na kifasihi."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u24-l1": {
