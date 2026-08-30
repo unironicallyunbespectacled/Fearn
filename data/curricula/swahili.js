@@ -13195,53 +13195,62 @@
     "subject": "swahili",
     "unit": 32,
     "lessonNumber": 1,
-    "title": "Utafiti wa Kiakademia na Nadharia za Isimu (Academic Linguistics) (Part 1)",
+    "title": "Tamthilia ya Kiswahili na Muundo wa Kiutendaji: Jukwaa, Wahusika na Migogoro (Dramatic Structure)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.1) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho: msuko (plot), mgogoro na kilele/peo (conflict & climax), mandhari ya jukwaa (stage setting), maelekezo ya jukwaa (stage directions), na monolojia dhidi ya majadiliano (soliloquy vs dialogue).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muundo wa Tamthilia, Jukwaa na Sanaa ya Maonyesho (Swahili Dramatic Arts & Stagecraft):\n\nTamthilia ni utanzu wa fasihi andishi uliokusudiwa kutendwa jukwaani mbele ya hadhira. Katika kiwango cha C2, mwanafunzi anapaswa kumudu uchambuzi wa kina wa kiutendaji:\n\n1. **Muundo wa Msuko wa Tamthilia (Dramatic Plot Structure)**:\n   - **Mwanzo / Utangulizi (Exposition)**: Utambulisho wa mandhari na wahusika.\n   - **Kupanda kwa Mgogoro (Rising Action)**: Matukio yanayozua mvutano kati ya pande mbili.\n   - **Kilele / Peo (Climax)**: Sehemu yenye msisimko wa juu kabisa ambapo mgogoro unavunjika.\n   - **Mshuko na Suluhu (Falling Action & Resolution / Denouement)**: Utatuzi wa mikasa na hatima ya wahusika.\n\n2. **Vipengele vya Kiutendaji na Jukwaa (Theatrical Elements)**:\n   - **Mandhari ya Jukwaa (Stage Set & Scenography)**: Mapambo, taa, na sauti.\n   - **Mwelekezo wa Jukwaa (Stage Directions)**: Maagizo ya mwandishi kwa muongozaji na waigizaji (huandikwa kwa herufi za italiki au mabano).\n   - **Majadiliano (Dialogue)** na **Upweke / Monolojia (Soliloquy / Monologue)**: Mazungumzo ya mhusika peke yake jukwaani akieleza siri za moyoni.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 32."
+          "target": "Katika tamthilia ya kisasa ya Kiswahili, mgogoro wa kifamilia unafikia kilele chake jukwaani pale mhusika mkuu anapofichua ukweli kuhusu ubadhirifu wa rasilimali.",
+          "reading": "Ka-ti-ka ta-mthi-lia ya ki-sa-sa ya Ki-swa-hi-li, mgo-go-ro wa ki-fa-mi-lia una-fi-kia ki-le-le cha-ke ju-kwaa-ni pa-le mhu-si-ka mku-u ana-po-fi-chua u-kwe-li ku-hu-su uba-dhi-ri-fu wa ra-si-li-ma-li. [ˈkɑtikɑ tɑmˈθiliɑ jɑ kiˈsɑsɑ jɑ kiswɑˈhili mɡɔˈɡɔrɔ wɑ kifɑˈmiliɑ unɑfiˈkiɑ kiˈlɛlɛ ˈtʃɑkɛ ʤukwɑːˈni ˈpɑlɛ mhuˈsikɑ ˈmkuː ɑnɑpɔfiˈtʃuɑ uˈkwɛli kuˈhusu ubɑðiˈrifu wɑ rɑsiliˈmɑli] (KAH-tee-kah tahm-THEE-lee-ah yah kee-SAH-sah yah kee-swah-HEE-lee, m-goh-GOH-roh wah kee-fah-MEE-lee-ah oo-nah-fee-KEE-ah kee-LAY-lay CHAH-kay joo-KWAH-nee PAH-lay m-hoo-SEE-kah M-KOO-oo ah-nah-poh-fee-CHOO-ah oo-KWAY-lee koo-HOO-soo oo-bah-thee-REE-foo wah rah-see-lee-MAH-lee)",
+          "translation": "In modern Swahili drama, the domestic conflict attains its dramatic climax on stage when the protagonist unmasks the truth concerning the embezzlement of resources."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 32-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mwelekezo wa jukwaa unamtaka mwigizaji kutoa monolojia ya kina inayoakisi mapambano ya kisaikolojia na mashaka ya kimaadili ya mhusika.",
+          "reading": "Mwe-le-ke-zo wa ju-kwaa una-mta-ka mwi-gi-za-ji ku-to-a mo-no-lo-jia ya ki-na ina-yo-a-ki-si ma-pa-mba-no ya ki-sa-i-ko-lo-jia na ma-sha-ka ya ki-ma-a-di-li ya mhu-si-ka. [mwɛlɛˈkɛzɔ wɑ ʤuˈkwɑː unɑˈmtɑkɑ mwiɡiˈzɑʤi kuˈtɔɑ mɔnɔlɔˈʤiɑ jɑ ˈkinɑ inɑjɔɑˈkisi mɑpɑˈmbɑnɔ jɑ kisɑikɔlɔˈʤiɑ nɑ mɑˈʃɑkɑ jɑ kimɑɑˈdili jɑ mhuˈsikɑ] (mway-lay-KAY-zoh wah joo-KWAH-ah oo-nahm-TAH-kah mwee-gee-ZAH-jee koo-TOH-ah moh-noh-LOH-jee-ah yah KEE-nah ee-nah-yoh-ah-KEE-see mah-pahm-BAH-noh yah kee-sah-ee-koh-LOH-jee-ah nah mah-SHAH-kah yah kee-mah-ah-DEE-lee yah m-hoo-SEE-kah)",
+          "translation": "The stage directions instruct the actor to deliver a profound soliloquy reflecting the character's internal psychological turmoil and moral tribulations."
+        },
+        {
+          "target": "Muundo wa msuko wa tamthilia hii unaonyesha ufundi mkubwa wa mwandishi katika kupanga mikasa, kuanzia chanzo cha fitina hadi suluhu ya mwisho.",
+          "reading": "Mu-u-ndo wa msu-ko wa ta-mthi-lia hi-i una-o-nye-sha ufu-ndi mku-u wa mwa-ndi-shi ka-ti-ka ku-pa-nga mi-ka-sa, ku-a-nzia cha-nzo cha fi-ti-na ha-di su-lu-hu ya mwi-sho. [muˈundɔ wɑ ˈmsukɔ wɑ tɑmˈθiliɑ ˈhiː unɑɔˈɲɛʃɑ uˈfundi ˈmkuː wɑ mwɑˈndiʃi ˈkɑtikɑ kuˈpɑŋɡɑ miˈkɑsɑ kuˈɑnziɑ ˈtʃɑnzɔ tʃɑ fiˈtinɑ ˈhɑdi suˈluhu jɑ ˈmwiʃɔ] (moo-OON-doh wah m-SOO-koh wah tahm-THEE-lee-ah HEE-ee oo-nah-ohn-YAY-shah oo-FOON-dee M-KOO-oo wah mwahn-DEE-shee KAH-tee-kah koo-PAHN-gah mee-KAH-sah, koo-AHN-zee-ah CHAHN-zoh chah fee-TEE-nah HAH-dee soo-LOO-hoo yah MWEE-shoh)",
+          "translation": "The dramatic plot architecture of this play displays the playwright's consummate craftsmanship in orchestrating vicissitudes from the genesis of intrigue to the final resolution."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Tamthilia na Jukwaa: Msuko (plot), Kilele/Peo (climax), Mwelekezo wa jukwaa (stage directions), Monolojia (soliloquy), Suluhu (resolution)!"
+      ],
+      "culturalNotes": [
+        "Tamthilia ya Kiswahili ilianza kukua kwa kasi katika miaka ya 1960 na 1970 katika Chuo Kikuu cha Dar es Salaam kupitia ukumbi wa 'Arts Quad' na 'Theatre Arts Department'."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Uwekezaji\":",
+          "prompt": "Sehemu ya tamthilia yenye msisimko wa juu kabisa ambapo mgogoro mkuu wa wahusika unafikia kilele inaitwaje kwa Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nyaraka»",
-            "Mpangilio usio sahihi wa viambishi katika «Sahihi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kanuni»"
+            "Kilele / Peo ya tamthilia (Dramatic Climax - Correct literary term)",
+            "Chumba cha kubadilishia nguo",
+            "Mkataba wa upangaji nyumba",
+            "Nyaraka ya forodha ya bandari"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Kilele» au «peo» (climax) ndiyo sehemu ya msuko ambapo mvutano wa wahusika unafikia upeo wake wa juu."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Uwekezaji\":",
+          "prompt": "Maelezo ya mwandishi wa tamthilia yanayoelekeza waigizaji jinsi ya kutembea, kuonyesha hisia, na kutumia mandhari ya jukwaa huitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Sahihi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kanuni»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nyaraka»"
+            "Maelekezo ya jukwaa (Stage directions - Correct theatrical concept)",
+            "Kanuni za ushuru wa forodha",
+            "Mkataba wa bima ya afya",
+            "Sheria ya kodi ya mapato"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Maelekezo ya jukwaa» (stage directions) huongoza utendaji wa waigizaji na mpangilio wa mandhari."
         }
       ]
     },
@@ -13249,17 +13258,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Uwekezaji\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya vipengele vya kimuundo vya tamthilia ya Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kanuni»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nyaraka»",
-            "Mpangilio usio sahihi wa viambishi katika «Sahihi»"
+            "Msuko (utangulizi, mgogoro, kilele/peo, suluhu), Wahusika (wakuu, wasaidizi), Mandhari ya jukwaa, Maelekezo ya jukwaa, Majadiliano, na Monolojia.",
+            "Tamthilia ya Kiswahili haina wahusika wala maneno ya jukwaani.",
+            "Kilele cha tamthilia ni mahali pa kuuzia mboga sokoni.",
+            "Maelekezo ya jukwaa yanatumika kuendeshea mitambo ya viwandani pekee."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Vipengele vya tamthilia: Msuko, Mgogoro, Kilele/Peo, Suluhu, Wahusika, Mandhari, Maelekezo ya jukwaa, Majadiliano, na Monolojia."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u32-l2": {
@@ -13267,53 +13277,62 @@
     "subject": "swahili",
     "unit": 32,
     "lessonNumber": 2,
-    "title": "Utafiti wa Kiakademia na Nadharia za Isimu (Academic Linguistics) (Part 2)",
+    "title": "Ebrahim Hussein na Tamthilia za Kifalsafa: Kinjeketile na Mashetani (Existentialist Drama)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.2) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein: Kinjeketile (mgogoro wa imani na Vita vya Maji Maji), Mashetani (ukoloni mamboleo na migogoro ya kisaikolojia), na matumizi ya lugha ya kishairi jukwaani.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Ebrahim Hussein na Mapinduzi ya Tamthilia ya Kifalsafa (Existentialist & Historical Drama):\n\nProfesa Ebrahim Hussein anatambuliwa kama mwandishi nguli na mwanafalsafa mkuu wa tamthilia ya Kiswahili:\n\n1. **Kinjeketile (1969)**:\n   - Tamthilia ya kihistoria inayochunguza **Vita vya Maji Maji (1905–1907)**.\n   - **Maudhui Makuu**: Mgogoro kati ya 'neno' (itikadi/imani ya maji iliyotolewa na mganga Kinjeketile Ngwale) na 'kitendo' (vita halisi dhidi ya Wajerumani). Inaonyesha ujasiri wa kuungana kwa makabila na athari za maangamizi.\n\n2. **Mashetani (1971)**:\n   - Tamthilia ya kifalsafa na kisaikolojia inayochunguza uhusiano kati ya Juma (mzao wa tabaka la watumwa/wazawa) na Kitaru (mzao wa tabaka tawala la watawala wa zamani) kufuatia Mapinduzi ya Zanzibar ya 1964.\n   - Inatumia sitiari ya **'mashetani'** kueleza namna ukoloni mamboleo na tofauti za kitabaka zinavyoendelea kutawala fikra za jamii.\n\n3. **Mitindo ya Kiutunzi ya Hussein**:\n   - Lugha teule ya kishairi, picha na taswira zilizofichika, na uchochezi wa kifikra kwa mtazamaji (badala ya majibu sahili).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 32."
+          "target": "Tamthilia ya 'Kinjeketile' ya Ebrahim Hussein inachambua jinsi imani ya kiitikadi ilivyotumiwa kuunganisha jamii mbalimbali kupambana na ukoloni wa Kijerumani.",
+          "reading": "Ta-mthi-lia ya 'Ki-nje-ke-ti-le' ya E-bra-hi-m Hu-ssei-n ina-cha-mbua ji-nsi ima-ni ya kii-ti-ka-di ili-vyo-tu-mi-wa kuu-nga-ni-sha ja-mi-i mba-li-mba-li ku-pa-mba-na na uko-lo-ni wa Ki-je-ru-ma-ni. [tɑmˈθiliɑ jɑ kiɲʤɛkɛˈtilɛ jɑ ɛbrɑˈhim huˈsɛin inɑtʃɑˈmbuɑ ˈjinsi iˈmɑni jɑ kiitikɑˈdi ilivjɔtuˈmiwɑ kuːŋɡɑˈniʃɑ ʤɑˈmiː mbɑlimbɑˈli kupɑˈmbɑnɑ nɑ ukɔˈlɔni wɑ kiʤɛruˈmɑni] (tahm-THEE-lee-ah yah keen-jay-kay-TEE-lay yah ay-brah-HEEM hoo-SAYN ee-nah-chahm-BOO-ah YEEN-see ee-MAH-nee yah kee-ee-tee-KAH-dee ee-lee-vyoh-too-MEE-wah koo-oon-gah-NEE-shah jah-MEE-ee M-bah-lee-m-BAH-lee koo-pahm-BAH-nah nah oo-koh-LOH-nee wah kee-jay-roo-MAH-nee)",
+          "translation": "Ebrahim Hussein's monumental play 'Kinjeketile' dissects how ideological belief was leveraged to forge inter-ethnic unity in resisting German imperial rule."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 32-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kupitia tamthilia ya 'Mashetani', Hussein anatumia lugha ya kifalsafa na sitiari nzito kuonyesha migogoro ya kisaikolojia inayowatesa wasomi wa Afrika baada ya uhuru.",
+          "reading": "Ku-pi-tia ta-mthi-lia ya 'Ma-she-ta-ni', Hu-ssei-n ana-tu-mia lu-gha ya ki-fa-lsa-fa na si-tia-ri nzi-to kuo-nye-sha mi-go-go-ro ya ki-sa-i-ko-lo-jia ina-yo-wa-te-sa wa-so-mi wa Afri-ka ba-a-da ya uhu-ru. [kupiˈtiɑ tɑmˈθiliɑ jɑ mɑʃɛˈtɑni huˈsɛin ɑnɑtuˈmiɑ ˈluɣɑ jɑ kifɑˈlsɑfɑ nɑ sitiˈɑri ˈnzitɔ kuɔˈɲɛʃɑ miɡɔˈɡɔrɔ jɑ kisɑikɔlɔˈʤiɑ inɑjɔwɑˈtɛsɑ wɑˈsɔmi wɑ ˈɑfrikɑ ˈbɑɑdɑ jɑ uˈhuru] (koo-pee-TEE-ah tahm-THEE-lee-ah yah mah-shay-TAH-nee, hoo-SAYN ah-nah-TOO-mee-ah LOO-gah yah kee-fahl-SAH-fah nah see-tee-AH-ree N-ZEE-toh koo-ohn-YAY-shah mee-goh-GOH-roh yah kee-sah-ee-koh-LOH-jee-ah ee-nah-yoh-wah-TAY-sah wah-SOH-mee wah AHF-ree-kah BAH-ah-dah yah oo-HOO-roo)",
+          "translation": "Through his play 'Mashetani', Hussein utilizes existential idiom and layered metaphors to delineate psychological fractures afflicting post-independence African intellectuals."
+        },
+        {
+          "target": "Hussein alileta mapinduzi makubwa katika jukwaa la Kiswahili kwa kuachana na maigizo sahili ya kimaadili na kuanzisha drama ya kisaikolojia na kifalsafa.",
+          "reading": "Hu-ssei-n ali-le-ta ma-pi-ndu-zi ma-ku-u ka-ti-ka ju-kwaa la Ki-swa-hi-li kwa kua-cha-na na ma-i-gi-zo sa-hi-li ya ki-ma-a-di-li na kua-nzi-sha dra-ma ya ki-sa-i-ko-lo-jia na ki-fa-lsa-fa. [huˈsɛin ɑliˈlɛtɑ mɑpiˈnduzi ˈmkuː ˈkɑtikɑ ʤuˈkwɑː lɑ kiswɑˈhili kwɑ kuɑˈtʃɑnɑ nɑ mɑiˈɡizɔ sɑˈhili jɑ kimɑɑˈdili nɑ kuɑˈnziʃɑ ˈdrɑmɑ jɑ kisɑikɔlɔˈʤiɑ nɑ kifɑˈlsɑfɑ] (hoo-SAYN ah-lee-LAY-tah mah-peen-DOO-zee M-KOO-oo KAH-tee-kah joo-KWAH-ah lah kee-swah-HEE-lee kwah koo-ah-CHAH-nah nah mah-ee-GEE-zoh sah-HEE-lee yah kee-mah-ah-DEE-lee nah koo-ahn-ZEE-shah DRAH-mah yah kee-sah-ee-koh-LOH-jee-ah nah kee-fahl-SAH-fah)",
+          "translation": "Hussein spearheaded a paradigm revolution across the Swahili proscenium by transcending simplistic moral pageantry to pioneer complex psychological and philosophical dramaturgy."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ebrahim Hussein: Kinjeketile (Maji Maji, neno & kitendo), Mashetani (ukoloni mamboleo, Juma & Kitaru), Lugha ya kifalsafa!"
+      ],
+      "culturalNotes": [
+        "Tamthilia ya 'Kinjeketile' inasomwa na kutahiniwa katika nchi zote za Afrika Mashariki kama kielelezo kikuu cha fasihi ya ukombozi wa Kiafrika."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Nyaraka\":",
+          "prompt": "Tamthilia ya kihistoria ya Profesa Ebrahim Hussein inayochambua Vita vya Maji Maji na mgogoro kati ya 'neno' na 'kitendo' inaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Sahihi»",
-            "Mpangilio usio sahihi wa viambishi katika «Kanuni»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Sheria»"
+            "Kinjeketile (Masterpiece historical drama by Ebrahim Hussein)",
+            "Kielezo cha Fasihi",
+            "Mkataba wa Biashara",
+            "Sheria ya Maji"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Kinjeketile» ndiyo tamthilia maarufu ya kihistoria ya Ebrahim Hussein inayochambua Vita vya Maji Maji."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Nyaraka\":",
+          "prompt": "Katika tamthilia ya 'Mashetani', wahusika wakuu Juma na Kitaru wanawakilisha nini katika jamii ya baada ya uhuru?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Kanuni»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Sheria»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Sahihi»"
+            "Migogoro ya kitabaka, kisaikolojia na athari za ukoloni mamboleo (Class tensions and neocolonial psychological scars)",
+            "Wafanyabiashara wawili wa duka la nafaka",
+            "Madaktari wa mifugo vijijini",
+            "Wachezaji wa mpira wa miguu"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Juma na Kitaru wanawakilisha «migogoro ya kitabaka, kisaikolojia na athari za ukoloni mamboleo» katika jamii."
         }
       ]
     },
@@ -13321,17 +13340,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Nyaraka\": Which sentence is completely correct?",
+          "prompt": "Chagua maelezo yaliyo sahihi kuhusu mchango wa Ebrahim Hussein katika fasihi ya Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Sheria»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Sahihi»",
-            "Mpangilio usio sahihi wa viambishi katika «Kanuni»"
+            "Ebrahim Hussein alileta mapinduzi ya tamthilia ya kifalsafa na kisaikolojia kupitia kazi bora kama 'Kinjeketile' (Vita vya Maji Maji) na 'Mashetani' (uhakiki wa kitabaka na ukoloni mamboleo).",
+            "Hussein alikataa kabisa kutumia lugha ya Kiswahili katika kazi zake.",
+            "Kinjeketile ni jina la meli inayofanya kazi ziwani Victoria pekee.",
+            "Mashetani inahusu mchezo wa sarakasi bila maneno yoyote."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Hussein alianzisha tamthilia za kifalsafa na kisaikolojia kama 'Kinjeketile' na 'Mashetani'."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u32-l3": {
@@ -13339,53 +13359,62 @@
     "subject": "swahili",
     "unit": 32,
     "lessonNumber": 3,
-    "title": "Utafiti wa Kiakademia na Nadharia za Isimu (Academic Linguistics) (Part 3)",
+    "title": "Penina Mlama na Sanaa ya Maigizo kwa Maendeleo: Paukwa na Lina Ubani (Theatre for Development)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.3) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama (Mhando): Sanaa ya Maigizo kwa Maendeleo (Theatre for Development - TfD), utendaji wa kiasili (Paukwa Pakawa na ngoma), na uhakiki wa kiuchumi na kijamii katika Lina Ubani.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Penina Mlama na Sanaa ya Maigizo kwa Maendeleo (Theatre for Development - TfD):\n\nProfesa Penina Mlama (Mhando) ni mwanamke nguli na msomi mkuu wa sanaa za maonyesho Afrika Mashariki:\n\n1. **Sanaa ya Maigizo kwa Maendeleo (Theatre for Development - TfD / Popular Theatre)**:\n   - Mfumo wa kutumia maigizo jukwaani kama chombo cha ukombozi wa kijamii na kiuchumi kwa wananchi wa kawaida.\n   - Hadhira haitazami tu bali inashiriki moja kwa moja katika kuibua kero za jamii (afya, maji, usawa wa kijinsia, ufisadi) na kutafuta suluhu jukwaani.\n\n2. **Kazi Kuu za Penina Mlama**:\n   - **Lina Ubani (1984)**: Tamthilia inayochambua athari za uhaba wa kiuchumi wa miaka ya 1980 na namna viongozi mafisadi wanavyojilimbikizia mali huku wananchi wakiwa maskini.\n   - **Paukwa Pakawa (1980)** na **Hatia (1972)**: Tamthilia zinazokemea unyanyasaji wa wasichana na uozo wa maadili mijini.\n\n3. **Utumiaji wa Sanaa za Asili za Kiafrika**:\n   - Kuingiza muundo wa **utambaji hadithi** (*Paukwa?... Pakawa!*), nyimbo za kimapokeo, ngoma za kienyeji, na vichekesho vya kijamii katika jukwaa la kisasa.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 32."
+          "target": "Profesa Penina Mlama aliasisi mfumo wa Sanaa ya Maigizo kwa Maendeleo (TfD) ambapo jamii inashiriki moja kwa moja jukwaani kujadili na kutatua changamoto zao za maisha.",
+          "reading": "Pro-fe-sa Pe-ni-na Mla-ma ali-a-si-si mfu-mo wa Sa-naa ya Ma-i-gi-zo kwa Ma-e-nde-le-o (TfD) a-mba-po ja-mi-i ina-shi-ri-ki mo-ja kwa mo-ja ju-kwaa-ni ku-ja-di-li na ku-ta-tua cha-nga-mo-to za-o za ma-i-sha. [prɔˈfɛsɑ pɛˈninɑ ˈmlɑmɑ ɑliɑˈsisi ˈmfumɔ wɑ sɑˈnɑː jɑ mɑiˈɡizɔ kwɑ mɑɛndɛˈlɛɔ (tiɛfˈdi) ɑˈmbɑpɔ ʤɑˈmiː inɑʃiˈriki ˈmɔʤɑ kwɑ ˈmɔʤɑ ʤukwɑːˈni kuʤɑˈdili nɑ kutɑˈtuɑ tʃɑŋɡɑˈmɔtɔ ˈzɑɔ zɑ mɑˈiʃɑ] (proh-FAY-sah pay-NEE-nah MLAH-mah ah-lee-ah-SEE-see M-FOO-moh wah sah-NAH-ah yah mah-ee-GEE-zoh kwah mah-ayn-day-LAY-oh [tee-ef-DEE] ahm-BAH-poh jah-MEE-ee ee-nah-shee-REE-kee MOH-jah kwah MOH-jah joo-KWAH-nee koo-jah-DEE-lee nah koo-tah-TOO-ah chahn-gah-MOH-toh ZAH-oh zah mah-EE-shah)",
+          "translation": "Professor Penina Mlama institutionalized the Theatre for Development [TfD] paradigm wherein grassroots populations directly participate on stage to debate and resolve communal hardships."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 32-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Katika tamthilia ya 'Lina Ubani', mwandishi anakosoa vikali ubadhirifu wa rasilimali za umma na ubinafsi wa viongozi wakati wa kipindi kigumu cha uchumi.",
+          "reading": "Ka-ti-ka ta-mthi-lia ya 'Li-na Uba-ni', mwa-ndi-shi ana-ko-so-a vi-ka-li uba-dhi-ri-fu wa ra-si-li-ma-li za u-mma na ubi-na-fsi wa vio-ngo-zi wa-ka-ti wa ki-pi-ndi ki-gu-mu cha uchu-mi. [ˈkɑtikɑ tɑmˈθiliɑ jɑ ˈlinɑ uˈbɑni mwɑˈndiʃi ɑnɑkɔˈsɔɑ viˈkɑli ubɑðiˈrifu wɑ rɑsiliˈmɑli zɑ ˈummɑ nɑ ubinɑˈfsi wɑ viɔˈŋɡɔzi wɑˈkɑti wɑ kiˈpindi kiˈɡumu tʃɑ uˈtʃumi] (KAH-tee-kah tahm-THEE-lee-ah yah LEE-nah oo-BAH-nee, mwahn-DEE-shee ah-nah-koh-SOH-ah vee-KAH-lee oo-bah-thee-REE-foo wah rah-see-lee-MAH-lee zah OOM-mah nah oo-bee-NAH-fsee wah vee-ohn-GOH-zee wah-KAH-tee wah kee-PEEN-dee kee-GOO-moo chah oo-CHOO-mee)",
+          "translation": "In her play 'Lina Ubani', the dramatist severely castigates bureaucratic embezzlement and leadership egotism during periods of acute economic hardship."
+        },
+        {
+          "target": "Mlama anatumia mtindo wa masimulizi ya kiasili ya 'Paukwa Pakawa' na ngoma za jadi kuunganisha utamaduni wa Kiafrika na jukwaa la kisasa la ukumbi wa maigizo.",
+          "reading": "Mla-ma ana-tu-mia mti-ndo wa ma-si-mu-li-zi ya kia-si-li ya 'Pa-u-kwa Pa-ka-wa' na ngo-ma za ja-di kuu-nga-ni-sha uta-ma-du-ni wa Kia-fri-ka na ju-kwaa la ki-sa-sa la uku-mbi wa ma-i-gi-zo. [ˈmlɑmɑ ɑnɑtuˈmiɑ ˈmtindɔ wɑ mɑsimuˈlizi jɑ kiɑˈsili jɑ pɑˈukwɑ pɑˈkɑwɑ nɑ ˈŋɡɔmɑ zɑ ˈʤɑdi kuːŋɡɑˈniʃɑ utɑmɑˈduni wɑ kiɑˈfrikɑ nɑ ʤuˈkwɑː lɑ kiˈsɑsɑ lɑ uˈkumbi wɑ mɑiˈɡizɔ] (MLAH-mah ah-nah-TOO-mee-ah M-TEEN-doh wah mah-see-moo-LEE-zee yah kee-ah-SEE-lee yah PAH-oo-kwah pah-KAH-wah nah N-GOH-mah zah JAH-dee koo-oon-gah-NEE-shah oo-tah-mah-DOO-nee wah kee-ah-FREE-kah nah joo-KWAH-ah lah kee-SAH-sah lah oo-KOOM-bee wah mah-ee-GEE-zoh)",
+          "translation": "Mlama incorporates traditional 'Paukwa Pakawa' storytelling modes and indigenous drum dances to bridge ancestral African heritage with contemporary proscenium theatre."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Penina Mlama: Theatre for Development (TfD), Lina Ubani (uhaba wa uchumi & ufisadi), Paukwa Pakawa (sanaa za asili & ngoma)!"
+      ],
+      "culturalNotes": [
+        "Mbinu ya Sanaa ya Maigizo kwa Maendeleo (TfD) iliyoasisiwa na Penina Mlama imetumiwa na mashirika ya kimataifa kama UNICEF na UNESCO kuelimisha jamii za vijijini kote barani Afrika."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Sahihi\":",
+          "prompt": "Mbinu ya kutumia sanaa ya maigizo kama chombo cha ushirikishwaji wa jamii katika kutatua matatizo ya maendeleo (TfD) iliasisiwa na msomi gani nguli?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kanuni»",
-            "Mpangilio usio sahihi wa viambishi katika «Sheria»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mahakama»"
+            "Profesa Penina Mlama / Mhando (Pioneer of Theatre for Development in East Africa)",
+            "Nahodha wa jahazi",
+            "Mchimba dhahabu",
+            "Fundi wa magari"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Profesa Penina Mlama» ndiye msomi na mwandishi nguli aliyeasisi Sanaa ya Maigizo kwa Maendeleo (TfD)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Sahihi\":",
+          "prompt": "Tamthilia ya 'Lina Ubani' ya Penina Mlama inakosoa nini katika jamii ya miaka ya 1980?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Sheria»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mahakama»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kanuni»"
+            "Ubadhirifu wa rasilimali za umma, ufisadi wa viongozi, na athari za uhaba wa kiuchumi (Embezzlement, leadership corruption, and economic hardship)",
+            "Ujenzi wa vyoo vya shule",
+            "Kilimo cha miti ya matunda",
+            "Uchimbaji wa visima vya maji"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Lina Ubani» inakemea ubadhirifu wa mali za umma, ubinafsi wa viongozi, na uhaba wa kiuchumi."
         }
       ]
     },
@@ -13393,17 +13422,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Sahihi\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya mchango na kazi za Profesa Penina Mlama:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mahakama»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kanuni»",
-            "Mpangilio usio sahihi wa viambishi katika «Sheria»"
+            "Mwanzilishi wa Sanaa ya Maigizo kwa Maendeleo (TfD), mwandishi wa 'Lina Ubani', 'Paukwa Pakawa', na mtetezi wa sanaa za asili za Kiafrika jukwaani.",
+            "Penina Mlama alipiga marufuku ngoma na hadithi zote za Kiafrika.",
+            "Lina Ubani ni aina ya dawa ya kikohozi inayouzwa madukani pekee.",
+            "Theatre for Development inakataza wananchi kushiriki katika maigizo."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Mchango wa Penina Mlama: TfD, 'Lina Ubani', 'Paukwa Pakawa', na utumiaji wa sanaa za asili jukwaani."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u32-l4": {
@@ -13411,53 +13441,62 @@
     "subject": "swahili",
     "unit": 32,
     "lessonNumber": 4,
-    "title": "Utafiti wa Kiakademia na Nadharia za Isimu (Academic Linguistics) (Part 4)",
+    "title": "Riwaya za Kifalsafa na Uhakiki wa Kijamii: Said Ahmed Mohamed na Kezilahabi (Social Realism & Novels)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.4) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii: kazi za Profesa Said Ahmed Mohamed (Utengano, Asali Chungu, Dunia Mti Mkavu - utabaka na ufeministi) na Profesa Euphrase Kezilahabi (Rosa Mistika, Nagona, Mzingile - uhalisia wa kiajabu na uwepo wa mwanadamu).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Riwaya za Kifalsafa, Uhakiki wa Jamii na Uhalisia wa Kiajabu (Philosophical Novels & Social Realism):\n\nFasihi andishi ya Kiswahili ina utajiri mkubwa wa riwaya za kiwango cha juu cha kifalsafa na kijamii:\n\n1. **Said Ahmed Mohamed (Zanzibar, 1947–)**:\n   - **Utengano (1980)**: Riwaya maarufu inayochambua mfumo dume, dhuluma ya kijinsia, na ukombozi wa mwanamke kupitia mhusika Maimuna anayejenga maisha mapya baada ya kutoroka mateso ya baba yake Maksuudi.\n   - **Asali Chungu (1977)** na **Dunia Mti Mkavu (1980)**: Zinachambua migogoro ya kitabaka, unyonyaji wa wakulima na wafanyakazi, na athari za ufisadi wa kisiasa visiwani Zanzibar.\n\n2. **Euphrase Kezilahabi (Ukerewe, 1944–2020)**:\n   - **Rosa Mistika (1971)**: Riwaya ya kwanza ya Kezilahabi iliyozua mjadala mkubwa kuhusu uasi wa vijana, uhuru wa wanawake, na mfumo mkali wa malezi.\n   - **Nagona (1990)** na **Mzingile (1991)**: Riwaya pacha za **uhalisia wa kiajabu (surrealism / magical realism)** na falsafa ya kuwepo kwa mwanadamu (*existentialism*), zikitafuta maana ya ukweli, uhai na kifo katika ulimwengu uliovurugika.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 32."
+          "target": "Riwaya ya 'Utengano' ya Said Ahmed Mohamed inachambua kwa kina unyanyasaji wa kijinsia na uozo wa mfumo dume, huku ikimwonyesha mwanamke akijikomboa kiuchumi na kifikra.",
+          "reading": "Ri-wa-ya ya 'Ute-nga-no' ya Sa-i-d Ah-me-d Mo-ha-me-d ina-cha-mbua kwa ki-na unya-nya-sa-ji wa ki-ji-nsia na uo-zo wa mfu-mo du-me, hu-ku iki-mwony-e-sha mwa-na-mke aki-ji-ko-mbo-a kiu-chu-mi na ki-fi-kra. [riˈwɑjɑ jɑ utɛˈŋɡɑnɔ jɑ sɑˈid ˈɑhmɛd mɔˈhɑmɛd inɑtʃɑˈmbuɑ kwɑ ˈkinɑ uɲɑɲɑˈsɑʤi wɑ kiˈʤinsiɑ nɑ uˈɔzɔ wɑ ˈmfumɔ ˈdumɛ ˈhuku ikimwɔˈɲɛʃɑ mwɑnɑˈmkɛ ɑkiʤikɔˈmbɔɑ kiutʃuˈmi nɑ kiˈfikrɑ] (ree-WAH-yah yah oo-tayn-GAH-noh yah sah-EED AHH-med moh-HAH-med ee-nah-chahm-BOO-ah kwah KEE-nah oo-nyah-nyah-SAH-jee wah kee-JEEN-see-ah nah oo-OH-zoh wah M-FOO-moh DOO-may, HOO-koo ee-kee-mwohn-YAY-shah mwah-nah-M-kay ah-kee-jee-kohm-BOH-ah kee-oo-CHOO-mee nah kee-FEEK-rah)",
+          "translation": "Said Ahmed Mohamed's novel 'Utengano' profoundly dissects gender subjugation and patriarchal decay, illuminating woman's self-emancipation both economically and intellectually."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 32-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Katika riwaya zake za kifalsafa za 'Nagona' na 'Mzingile', Euphrase Kezilahabi anavuka mipaka ya uhalisia wa kawaida na kuingia katika uhalisia wa kiajabu kuchunguza maana ya uwepo wa binadamu.",
+          "reading": "Ka-ti-ka ri-wa-ya za-ke za ki-fa-lsa-fa za 'Na-go-na' na 'Mzi-ngi-le', Eu-phra-se Ke-zi-la-ha-bi ana-vu-ka mi-pa-ka ya uha-li-sia wa ka-wa-i-da na kui-ngi-a ka-ti-ka uha-li-sia wa kia-ja-bu ku-chu-ngu-za ma-a-na ya uwe-po wa bi-na-da-mu. [ˈkɑtikɑ riˈwɑjɑ ˈzɑkɛ zɑ kifɑˈlsɑfɑ zɑ nɑˈɡɔnɑ nɑ mziˈŋɡilɛ ɛuˈfrɑsɛ kɛzilɑˈhɑbi ɑnɑˈvukɑ mipɑˈkɑ jɑ uhɑliˈsiɑ wɑ kɑwɑˈidɑ nɑ kuiˈŋɡiɑ ˈkɑtikɑ uhɑliˈsiɑ wɑ kiɑˈʤɑbu kutʃuˈŋɡuzɑ mɑˈɑnɑ jɑ uˈwɛpɔ wɑ binɑˈdɑmu] (KAH-tee-kah ree-WAH-yah ZAH-kay zah kee-fahl-SAH-fah zah nah-GOH-nah nah m-zeen-GEE-lay, ay-oo-FRAH-say kay-zee-lah-HAH-bee ah-nah-VOO-kah mee-PAH-kah yah oo-hah-lee-SEE-ah wah kah-wah-EE-dah nah koo-ee-NGEE-ah KAH-tee-kah oo-hah-lee-SEE-ah wah kee-ah-JAH-boo koo-choon-GOO-zah mah-AH-nah yah oo-WAY-poh wah bee-nah-DAH-moo)",
+          "translation": "In his philosophical novellas 'Nagona' and 'Mzingile', Euphrase Kezilahabi transcends conventional realism into magical surrealism to probe the existential purpose of human life."
+        },
+        {
+          "target": "Uchambuzi wa riwaya za Kiswahili unadhihirisha ukomavu wa hali ya juu wa fasihi andishi inayokabiliana na masuala mazito ya haki za kijamii, utawala, na utu wa mwanadamu.",
+          "reading": "Ucha-mbu-zi wa ri-wa-ya za Ki-swa-hi-li una-dhi-hi-ri-sha uko-ma-vu wa ha-li ya ju-u wa fa-si-hi a-ndi-shi ina-yo-ka-bi-lia-na na ma-su-a-la mzi-to ya ha-ki za ki-ja-mi-i, uta-wa-la, na u-tu wa mwa-na-da-mu. [utʃɑˈmbuzi wɑ riˈwɑjɑ zɑ kiswɑˈhili unɑðihiˈriʃɑ ukɔˈmɑvu wɑ ˈhɑli jɑ ˈʤuː wɑ fɑˈsihi ɑˈndiʃi inɑjɔkɑbiliˈɑnɑ nɑ mɑsuˈɑlɑ ˈnzitɔ jɑ ˈhɑki zɑ kiʤɑˈmiː utɑˈwɑlɑ nɑ ˈutu wɑ mwɑnɑˈdɑmu] (oo-chahm-BOO-zee wah ree-WAH-yah zah kee-swah-HEE-lee oo-nah-thee-hee-REE-shah oo-koh-MAH-voo wah HAH-lee yah JOO-oo wah fah-SEE-hee ahn-DEE-shee ee-nah-yoh-kah-bee-lee-AH-nah nah mah-soo-AH-lah N-ZEE-toh yah HAH-kee zah kee-jah-MEE-ee, oo-tah-WAH-lah, nah OO-too wah mwah-nah-DAH-moo)",
+          "translation": "Literary critique of Swahili novels demonstrates the profound intellectual maturity of written fiction directly confronting urgent themes of social equity, governance, and human dignity."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Riwaya za Kifalsafa: Said Ahmed Mohamed (Utengano, Asali Chungu - ufeministi & utabaka) & Kezilahabi (Rosa Mistika, Nagona, Mzingile - uhalisia wa kiajabu)!"
+      ],
+      "culturalNotes": [
+        "Riwaya ya 'Rosa Mistika' ilipochapishwa mwaka 1971 ilipigwa marufuku kwa muda mfupi mashuleni kutokana na kuibua masuala ya maadili ya kijinsia kwa uwazi mkubwa kabla ya kukubalika kama kazi bora ya kihistoria."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kanuni\":",
+          "prompt": "Mwandishi nguli wa Kizanzibari aliyeandika riwaya maarufu za 'Utengano', 'Asali Chungu' na 'Dunia Mti Mkavu' anaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Sheria»",
-            "Mpangilio usio sahihi wa viambishi katika «Mahakama»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Jaji»"
+            "Profesa Said Ahmed Mohamed (Foremost Swahili novelist of social realism)",
+            "Nahodha wa jahazi",
+            "Mwindaji wa tembo",
+            "Mlinzi wa forodha"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Profesa Said Ahmed Mohamed» ndiye mwandishi nguli wa riwaya za uhakiki wa kijamii na ufeministi kama vile Utengano na Asali Chungu."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kanuni\":",
+          "prompt": "Riwaya pacha za Profesa Euphrase Kezilahabi zilizotumia mtindo wa uhalisia wa kiajabu (magical realism) kuchunguza falsafa ya maisha huitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Mahakama»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Jaji»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Sheria»"
+            "Nagona na Mzingile (Philosophical surrealist masterpieces by Kezilahabi)",
+            "Kamusi na Daftari",
+            "Simu na Redio",
+            "Treni na Reli"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Nagona na Mzingile» ndizo riwaya maarufu za kifalsafa na uhalisia wa kiajabu za Kezilahabi."
         }
       ]
     },
@@ -13465,17 +13504,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kanuni\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya waandishi wakuu wa riwaya za Kiswahili na kazi zao za kifalsafa:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Jaji»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Sheria»",
-            "Mpangilio usio sahihi wa viambishi katika «Mahakama»"
+            "Said Ahmed Mohamed ('Utengano', 'Asali Chungu', 'Dunia Mti Mkavu') na Euphrase Kezilahabi ('Rosa Mistika', 'Nagona', 'Mzingile').",
+            "Kezilahabi aliandika vitabu vya kemia na fizikia pekee.",
+            "Said Ahmed Mohamed alikataa kuandika riwaya zozote kuhusu haki za wanawake.",
+            "Rosa Mistika ni jina la meli ya kitalii ya Marekani."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Waandishi wakuu wa riwaya za Kiswahili: Said Ahmed Mohamed (Utengano, Asali Chungu) na Euphrase Kezilahabi (Rosa Mistika, Nagona, Mzingile)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u32-l5": {
@@ -13483,53 +13523,62 @@
     "subject": "swahili",
     "unit": 32,
     "lessonNumber": 5,
-    "title": "Utafiti wa Kiakademia na Nadharia za Isimu (Academic Linguistics) (Part 5)",
+    "title": "Muhtasari wa Tamthilia ya Kiswahili, Fasihi Andishi na Riwaya (Swahili Drama, Theatre & Literary Novels Grand Synthesis)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 32: muundo wa tamthilia na sanaa ya maonyesho jukwaani, tamthilia za kifalsafa za Ebrahim Hussein (Kinjeketile na Mashetani), Sanaa ya Maigizo kwa Maendeleo ya Penina Mlama (Lina Ubani na Paukwa Pakawa), na riwaya za kifalsafa za Said Ahmed Mohamed na Kezilahabi kwa kiwango cha C2.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Tamthilia, Fasihi Andishi na Riwaya za Kiswahili (Swahili Theatre, Drama & Novel Master Matrix):\n\n1. **Ujumuishaji wa Taaluma Kuu za Fasihi ya Kiutendaji na Andishi ya Kiwango cha C2**:\n   - **Sanaa ya Jukwaa na Msuko**: Mwanzo, mgogoro, kilele/peo, suluhu, maelekezo ya jukwaa, mandhari, na monolojia.\n   - **Tamthilia ya Kifalsafa & Historia**: Ebrahim Hussein (*Kinjeketile* - Vita vya Maji Maji na nguvu ya neno; *Mashetani* - ukoloni mamboleo na saikolojia ya kitabaka).\n   - **Sanaa ya Maigizo kwa Maendeleo (TfD)**: Penina Mlama (*Lina Ubani* - ufisadi na uhaba wa uchumi; *Paukwa Pakawa* - utambaji asilia na ushirikishwaji wa jamii).\n   - **Riwaya za Kijamii na Kifalsafa**: Said Ahmed Mohamed (*Utengano*, *Asali Chungu* - ufeministi na haki za kijamii) na Euphrase Kezilahabi (*Rosa Mistika*, *Nagona*, *Mzingile* - uhalisia wa kiajabu na falsafa ya uwepo).\n\n2. **Umahiri wa Kichambuzi na Kihakiki**:\n   - Mhitimu wa kitengo hiki anao uwezo wa kuchambua kazi yoyote ya kisasa ya fasihi andishi na maonyesho ya Kiswahili kwa kutumia nadharia za kisasa za uhakiki wa kifasihi.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 32."
+          "target": "Kuanzia utendaji wa jukwaani na migogoro ya kisaikolojia katika tamthilia za Ebrahim Hussein, Sanaa ya Maigizo kwa Maendeleo ya Penina Mlama, hadi uchambuzi mzito wa kifalsafa katika riwaya za Said Ahmed Mohamed na Kezilahabi, fasihi andishi ya Kiswahili inasimama kama mnara thabiti wa ubunifu wa kiakili barani Afrika.",
+          "reading": "Ku-a-nzia ute-nda-ji wa ju-kwaa-ni na mi-go-go-ro ya ki-sa-i-ko-lo-jia ka-ti-ka ta-mthi-lia za E-bra-hi-m Hu-ssei-n, Sa-naa ya Ma-i-gi-zo kwa Ma-e-nde-le-o ya Pe-ni-na Mla-ma, ha-di ucha-mbu-zi mzi-to wa ki-fa-lsa-fa ka-ti-ka ri-wa-ya za Sa-i-d Ah-me-d Mo-ha-me-d na Ke-zi-la-ha-bi, fa-si-hi a-ndi-shi ya Ki-swa-hi-li ina-si-ma-ma ka-ma mna-ra tha-bi-ti wa ubu-ni-fu wa kia-ki-li ba-ra-ni Afri-ka. [kuˈɑnziɑ utɛˈndɑʤi wɑ ʤukwɑːˈni nɑ miɡɔˈɡɔrɔ jɑ kisɑikɔlɔˈʤiɑ ˈkɑtikɑ tɑmˈθiliɑ zɑ ɛbrɑˈhim huˈsɛin sɑˈnɑː jɑ mɑiˈɡizɔ kwɑ mɑɛndɛˈlɛɔ jɑ pɛˈninɑ ˈmlɑmɑ ˈhɑdi utʃɑˈmbuzi ˈnzitɔ wɑ kifɑˈlsɑfɑ ˈkɑtikɑ riˈwɑjɑ zɑ sɑˈid ˈɑhmɛd mɔˈhɑmɛd nɑ kɛzilɑˈhɑbi fɑˈsihi ɑˈndiʃi jɑ kiswɑˈhili inɑsiˈmɑmɑ ˈkɑmɑ ˈmnɑrɑ θɑˈbiti wɑ ubuˈnifu wɑ kiɑˈkili bɑˈrɑni ˈɑfrikɑ] (koo-AHN-zee-ah oo-tayn-DAH-jee wah joo-KWAH-nee nah mee-goh-GOH-roh yah kee-sah-ee-koh-LOH-jee-ah KAH-tee-kah tahm-THEE-lee-ah zah ay-brah-HEEM hoo-SAYN, sah-NAH-ah yah mah-ee-GEE-zoh kwah mah-ayn-day-LAY-oh yah pay-NEE-nah MLAH-mah, HAH-dee oo-chahm-BOO-zee N-ZEE-toh wah kee-fahl-SAH-fah KAH-tee-kah ree-WAH-yah zah sah-EED AHH-med moh-HAH-med nah kay-zee-lah-HAH-bee, fah-SEE-hee ahn-DEE-shee yah kee-swah-HEE-lee ee-nah-see-MAH-mah KAH-mah M-NAH-rah thah-BEE-tee wah oo-boo-NEE-foo wah kee-ah-KEE-lee bah-RAH-nee AHF-ree-kah)",
+          "translation": "From stage performance and psychological conflict in Ebrahim Hussein's dramas, Penina Mlama's Theatre for Development, to profound philosophical analysis in novels by Said Ahmed Mohamed and Kezilahabi, written Swahili literature stands as an enduring monument of intellectual ingenuity across Africa."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 32-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Umahiri wa kuchambua mikondo ya kifasihi, mitindo ya lugha ya kishairi, na nadharia za kijamii katika tamthilia na riwaya za Kiswahili unamwezesha mwanafunzi kuwa mhakiki aliyebobea wa kiwango cha kimataifa.",
+          "reading": "Uma-hi-ri wa ku-cha-mbua mi-ko-ndo ya ki-fa-si-hi, mi-ti-ndo ya lu-gha ya ki-sha-i-ri, na na-dha-ria za ki-ja-mi-i ka-ti-ka ta-mthi-lia na ri-wa-ya za Ki-swa-hi-li una-mwe-ze-sha mwa-na-funzi ku-wa mha-ki-ki ali-ye-bo-be-a wa ki-wa-ngo cha ki-ma-ta-i-fa. [umɑˈhiri wɑ kutʃɑˈmbuɑ miˈkɔndɔ jɑ kifɑˈsihi miˈtindɔ jɑ ˈluɣɑ jɑ kiʃɑˈiri nɑ nɑðɑˈriɑ zɑ kiʤɑˈmiː ˈkɑtikɑ tɑmˈθiliɑ nɑ riˈwɑjɑ zɑ kiswɑˈhili unɑmwɛzɛˈʃɑ mwɑnɑˈfundzi ˈkuwɑ mhɑˈkiki ɑlijɛbɔˈbɛɑ wɑ kiˈwɑŋɡɔ tʃɑ kimɑtɑˈifɑ] (oo-mah-HEE-ree wah koo-chahm-BOO-ah mee-KOHN-doh yah kee-fah-SEE-hee, mee-TEEN-doh yah LOO-gah yah kee-shah-EE-ree, nah nah-thah-REE-ah zah kee-jah-MEE-ee KAH-tee-kah tahm-THEE-lee-ah nah ree-WAH-yah zah kee-swah-HEE-lee oo-nah-mway-ZAY-shah mwah-nah-FOON-zee KOO-wah m-hah-KEE-kee ah-lee-yay-boh-BAY-ah wah kee-WAHN-goh chah kee-mah-tah-EE-fah)",
+          "translation": "Mastery in dissecting literary currents, poetic theatrical registers, and sociological theories within Swahili plays and novels equips a scholar to become a consummate critic of international standing."
+        },
+        {
+          "target": "Tamthilia na riwaya za Kiswahili zinaendelea kuwa kioo chenye ukweli usiopinda, kikitafakari historia, kikiadhibu uonevu wa kiutawala, na kuangaza njia ya ukombozi kamili wa mwanadamu.",
+          "reading": "Ta-mthi-lia na ri-wa-ya za Ki-swa-hi-li zi-na-e-nde-le-a ku-wa ki-o-o che-nye u-kwe-li usi-o-pi-nda, ki-ki-ta-fa-ka-ri hi-sto-ria, ki-ki-a-dhi-bu uo-ne-vu wa kiu-ta-wa-la, na kua-nga-za nji-a ya uko-mbo-zi ka-mi-li wa mwa-na-da-mu. [tɑmˈθiliɑ nɑ riˈwɑjɑ zɑ kiswɑˈhili zinɑɛndɛˈlɛɑ ˈkuwɑ kiˈɔː ˈtʃɛɲɛ uˈkwɛli usiɔˈpindɑ kikitɑfɑˈkɑri histɔˈriɑ kikiɑˈðibu uɔˈnɛvu wɑ kiutɑˈwɑlɑ nɑ kuɑŋɡɑˈzɑ ˈnʤiɑ jɑ ukɔˈmbɔzi kɑˈmili wɑ mwɑnɑˈdɑmu] (tahm-THEE-lee-ah nah ree-WAH-yah zah kee-swah-HEE-lee zee-nah-ayn-day-LAY-ah KOO-wah kee-OH-oh CHAY-nyay oo-KWAY-lee oo-see-oh-PEEN-dah, kee-kee-tah-fah-KAH-ree hee-stoh-REE-ah, kee-kee-ah-THEE-boo oo-oh-NAY-voo wah kee-oo-tah-WAH-lah, nah koo-ahn-gah-ZAH NJEE-ah yah oo-kohm-BOH-zee kah-MEE-lee wah mwah-nah-DAH-moo)",
+          "translation": "Swahili drama and novels continually operate as an unswerving mirror reflecting history, rebuking administrative oppression, and illuminating the pathway to total human emancipation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Tamthilia & Riwaya Grand Synthesis: Jukwaa & Msuko; Ebrahim Hussein (Kinjeketile/Mashetani); Penina Mlama (TfD & Lina Ubani); Said Ahmed Mohamed & Kezilahabi!"
+      ],
+      "culturalNotes": [
+        "Fasihi andishi ya Kiswahili inafundishwa katika vyuo vikuu mashuhuri kote ulimwenguni kama vile Harvard, SOAS London, Leipzig, na Sorbonne kama sehemu ya masomo ya fasihi ya kimataifa."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Sheria\":",
+          "prompt": "Mchanganyiko upi unawakilisha nguzo kuu za tamthilia na riwaya za kisasa za lugha ya Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mahakama»",
-            "Mpangilio usio sahihi wa viambishi katika «Jaji»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Wakili»"
+            "Muundo wa jukwaa na msuko, tamthilia za kifalsafa za Ebrahim Hussein, Sanaa ya Maigizo kwa Maendeleo ya Penina Mlama, na riwaya za kijamii za Said Ahmed Mohamed na Kezilahabi (Comprehensive Swahili drama, theatre & novel pillars)",
+            "Kukataza kusoma riwaya wala kuangalia maigizo jukwaani",
+            "Kufuta waandishi wote wa kike katika fasihi ya Kiswahili",
+            "Kufunga kumbi zote za maigizo na vyuo vikuu"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Fasihi andishi inajumuisha muundo wa jukwaa, kazi za Ebrahim Hussein, Penina Mlama, na riwaya za Said Ahmed Mohamed na Kezilahabi."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Sheria\":",
+          "prompt": "Sentensi ipi inachanganya msamiati wa tamthilia ya jukwaani na riwaya ya kifalsafa kwa ufasaha wa kiwango cha C2?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Jaji»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Wakili»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mahakama»"
+            "Kuanzia maelekezo ya jukwaa na migogoro ya kisaikolojia katika tamthilia za Hussein hadi uhalisia wa kiajabu katika riwaya za Kezilahabi, fasihi ya Kiswahili inaonyesha upeo mkubwa wa kifalsafa. (From stagecraft and psychological conflict in Hussein's plays to magical realism in Kezilahabi's novels, Swahili literature displays immense philosophical depth - Correct C2 drama & novel synthesis)",
+            "Tamthilia na riwaya za Kiswahili hazina uhusiano na jamii wala fikra za kibinadamu.",
+            "Waandishi wa Kiswahili wamekatazwa kutumia wahusika wala lugha ya kishairi.",
+            "Msuko ni jina la chakula cha mchana kwenye mgahawa wa jiji."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Sentensi inajumuisha istilahi mahsusi za C2: «maelekezo ya jukwaa», «migogoro ya kisaikolojia», «tamthilia za Hussein», «uhalisia wa kiajabu», na «riwaya za Kezilahabi»."
         }
       ]
     },
@@ -13537,17 +13586,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Sheria\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 32 ya Tamthilia ya Kiswahili, Fasihi Andishi na Riwaya:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Wakili»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mahakama»",
-            "Mpangilio usio sahihi wa viambishi katika «Jaji»"
+            "Kuanzia utendaji makini wa jukwaani, muundo wa msuko na maelekezo ya kimazingira, drama nzito ya kifalsafa na kihistoria ya Profesa Ebrahim Hussein katika 'Kinjeketile' na 'Mashetani', Sanaa ya Maigizo kwa Maendeleo (TfD) ya Profesa Penina Mlama katika 'Lina Ubani', hadi uhakiki mpana wa kijamii na uhalisia wa kiajabu katika riwaya za Said Ahmed Mohamed na Euphrase Kezilahabi, fasihi andishi ya Kiswahili inathibitisha upeo wa juu kabisa wa usanifu wa kifasihi, kiakili na kijamii barani Afrika na duniani kote. (Apex C2 synthesis of dramatic structure, philosophical theatre, Theatre for Development, and master social/existential novels.)",
+            "Fasihi yote andishi ya Kiswahili ilifutwa katika karne ya kumi na tisa.",
+            "Hakuna mwandishi yeyote aliyewahi kuandika riwaya au tamthilia kwa lugha ya Kiswahili.",
+            "Lugha ya Kiswahili haina maneno yanayoweza kueleza migogoro ya kisaikolojia jukwaani."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kuanzia utendaji makini wa jukwaani, muundo wa msuko na maelekezo ya kimazingira, drama nzito ya kifalsafa na kihistoria ya Profesa Ebrahim Hussein katika 'Kinjeketile' na 'Mashetani', Sanaa ya Maigizo kwa Maendeleo (TfD) ya Profesa Penina Mlama katika 'Lina Ubani', hadi uhakiki mpana wa kijamii na uhalisia wa kiajabu katika riwaya za Said Ahmed Mohamed na Euphrase Kezilahabi, fasihi andishi ya Kiswahili inathibitisha upeo wa juu kabisa wa usanifu wa kifasihi, kiakili na kijamii barani Afrika na duniani kote.» inajumuisha maarifa yote ya Unit 32 kwa ufasaha wa hali ya juu wa C2."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u33-l1": {
