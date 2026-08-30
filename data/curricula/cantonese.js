@@ -12375,53 +12375,62 @@
     "subject": "cantonese",
     "unit": 30,
     "lessonNumber": 1,
-    "title": "當代影視藝術與美學批評 (Contemporary HK Cinema & Aesthetics) (第1課)",
+    "title": "香港新浪潮電影運動：許鞍華、徐克、譚家明之紀實美學與視聽革新 (HK New Wave Cinema)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元30第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港新浪潮電影運動（1979年起）代表導演（許鞍華、徐克、譚家明）之創作特色、實景拍攝紀實風格、作者論電影美學及對邊緣社會之深刻人文關懷。",
     "presentation": {
-      "explanation": "",
+      "explanation": "二十世紀七十年代末興起之「香港電影新浪潮」，為香港電影史最重要之美學革命：\n\n一、新浪潮運動歷史背景與藝術特徵：\n１．電視編導大銀幕轉型：\n- 許鞍華（Ann Hui）、徐克（Tsui Hark）、譚家明（Patrick Tam）、章國明等自海外影視學院畢業後，先任職於TVB與香港電台（RTHK），隨後將現代視聽語言帶入大銀幕。\n２．實景拍攝與紀實寫實主義（Realism）：\n- 擺脫傳統邵氏片場搭景之封閉感，深入香港大街小巷、公屋社區與邊緣角落進行菲林實景拍攝。\n３．作者論與社會批判意識（Auteur Theory）：\n- 代表作：許鞍華《投奔怒海》（越戰難民命運）、《天水圍的日與夜》（草根社區溫情）；徐克《蝶變》（新派武俠懸疑）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 30 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 30 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 30 in communication."
+          "target": "香港電影新浪潮導演打破片場搭景傳統，以真實街頭實景拍攝展現出強烈之社會紀實風格。",
+          "reading": "hoeng1 gong2 din6 jing2 san1 long6 ciu4 dou6 jin2 daa2 po3 pin3*2 coeng4 daap3 ging2 cyun4 tung4, ji5 zan1 sat6 gaai1 tau4 sat6 ging2 paak3 sip3 zin2 jin6 ceot1 koeng4 lit6 zi1 se5 wui6*2 gei2 sat6 fung1 gaak3. [hœːŋ˥ kʷɔːŋ˧˥ tiːn˨ jɪŋ˧˥ sɐn˥ lɔːŋ˨ ciːu˨˩ tou˨ jiːn˧˥ taː˧˥ pʰɔː˧ pʰiːn˧˥ tsʰœːŋ˨˩ taːp̚˧ kɪŋ˧˥ tsʰyːn˨˩ tʰʊŋ˨˩, jiː˩˧ tsɐn˥ sɐt̚˨ kaːi˥ tʰɐu˨˩ sɐt̚˨ kɪŋ˧˥ pʰaːk̚˧ siːp̚˧ tsiːn˧˥ jiːn˨ tsʰɵt̚˥ kʰœːŋ˨˩ liːt̚˨ tsiː˥ sɛː˩˧ wuːi˨˩ kei˧˥ sɐt̚˨ fʊŋ˥ kaːk̚˧] (HEUNG-GONG DEEN-YING SUN-LONG-CHIU DOU-YEEN DAH-POH PEEN-CHEUNG DAAP-GING CHUEN-TOONG, YEE JUN-SUT GY-TAU SUT-GING PAAK-SEEP JEEN-YEEN-CHUT KEUNG-LEET JEE SHEH-WUI GAY-SUT FOONG-GAAK)",
+          "translation": "Directors of the Hong Kong New Wave cinema broke the tradition of studio sets, demonstrating a strong social documentary realism through authentic street on-location shooting."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元30-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "許鞍華導演在《天水圍的日與夜》入面以克制細膩之鏡頭語言，捕捉普通市民家庭平凡而真摯之人文溫情。",
+          "reading": "heoi2 on1 waa4 dou6 jin2 zoi6 \"tin1 seoi2 wai4 zi1 jat6 jyu5 je6\" jap6 min6 ji5 hak1 zai3 sai3 nei6 zi1 geng3 tau4*2 jyu5 jin4, bat1 zuk6 pou2 tung1 si5 man4 gaa1 ting4 ping4 faan4 ji4 zan1 zi3 zi1 jan4 man4 wan1 cing4. [hɵy˧˥ ɔːn˥ waː˨˩ tou˨ jiːn˧˥ tsɔːi˨ \"tʰiːn˥ sɵy˧˥ wɐi˨˩ tsiː˥ jɐt˨ jyː˩˧ jɛː˨\" jɐp̚˨ miːn˨ jiː˩˧ hɐk̚˥ tsai˧ sɐi˧ nei˨ tsiː˥ kɪŋ˧ tʰɐu˨˩ jyuː˩˧ jiːn˨˩, pɐt̚˥ tsʊk̚˥ pʰou˧˥ tʰʊŋ˥ siː˩˧ mɐn˨˩ kaː˥ tʰɪŋ˨˩ pʰɪŋ˨˩ faːn˨˩ jiː˨˩ tsɐn˥ tsiː˧ tsiː˥ jɐn˨˩ mɐn˨˩ wɐn˥ tsʰɪŋ˨˩] (HOEY ON-WAH DOU-YEEN JOY \"TEEN-SOEY-WAI JEE YUT YUE YEH\" YUP-MEEN YEE HUK-JAI SY-NEY JEE GENG-TAU YUE-YEEN, BUT-JUK POU-TOONG SEE-MUN GAH-TING PING-FAHN YEE JUN-JEE JEE YUN-MUN WUN-CHING)",
+          "translation": "Director Ann Hui, in 'The Way We Are', captured the ordinary yet sincere humanist warmth of common citizens' families with restrained and delicate cinematic language."
+        },
+        {
+          "target": "新浪潮運動確立咗導演作為電影「作者」之核心地位，推動香港電影步入國際藝術影展之最高殿堂。",
+          "reading": "san1 long6 ciu4 wan6 dung6 kok3 laap6 zo2 dou6 jin2 zok3 wai4 din6 jing2 \"zok3 ze2\" zi1 hat6 sam1 dei6 wai6, teoi1 dung6 hoeng1 gong2 din6 jing2 bou6 jap6 gwok3 zai3 ngai6 seot6 jing2 zin2 zi1 zeoi3 gou1 din6 tong4. [sɐn˥ lɔːŋ˨ ciːu˨˩ wɐn˨ tʊŋ˨ kʰɔːk̚˧ laːp̚˨ tsɔː˧˥ tou˨ jiːn˧˥ tsɔːk̚˧ wɐi˨˩ tiːn˨ jɪŋ˧˥ \"tsɔːk̚˧ tsɛː˧˥\" tsiː˥ hɐt̚˨ sɐm˥ tei˨ wɐi˨, tʰɵy˥ tʊŋ˨ hœːŋ˥ kʷɔːŋ˧˥ tiːn˨ jɪŋ˧˥ pou˨ jɐp̚˨ kʷɔːk̚˧ tsai˧ ŋɐi˨ sɵt̚˨ jɪŋ˧˥ tsiːn˧˥ tsiː˥ tsɵy˧ kou˥ tiːn˨ tʰɔːŋ˨˩] (SUN-LONG-CHIU WUN-DOONG KOK-LAHP-JOR DOU-YEEN JOK-WAI DEEN-YING \"JOK-JEH\" JEE HUT-SUM DAY-WAI, TOEY-DOONG HEUNG-GONG DEEN-YING BOU-YUP GWOK-JAI NGY-SUT YING-JEEN JEE JEOY-GOU DEEN-TONG)",
+          "translation": "The New Wave movement established the central status of the director as the film's 'auteur', propelling Hong Kong cinema into the highest halls of international art film festivals."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【新浪潮電影】電視轉戰大銀幕，實景拍攝紀實真；鞍華克導樹作者，香江光影天下聞！"
+      ],
+      "culturalNotes": [
+        "許鞍華導演曾六次榮獲香港電影金像獎最佳導演獎，並於2020年榮獲威尼斯國際電影節終身成就金獅獎，成為全球首位獲此殊榮的華人女性導演。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"成績\":",
+          "prompt": "【電影運動】二十世紀七十年代末在香港興起、由許鞍華徐克等年輕導演推動之視聽美學革命稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：畢業錯置）",
-            "混雜生硬詞彙之不規範語句（例項：圖書館未適配）",
-            "聲調助詞搭配欠妥之表達（例項：課室誤用）"
+            "香港電影新浪潮 (Hong Kong New Wave Cinema / San1 long6 ciu4)",
+            "黑白默片運動",
+            "皮影戲巡演",
+            "純商業廣告片潮"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「香港電影新浪潮」為香港電影邁向現代主義與作者電影美學之關鍵里程碑。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"成績\":",
+          "prompt": "【影壇巨匠】執導《投奔怒海》、《女人四十》、《桃姐》，榮獲威尼斯影展終身成就金獅獎之香港女導演係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：圖書館未適配）",
-            "聲調助詞搭配欠妥之表達（例項：課室誤用）",
-            "語序顛倒嘅非標準句式（例項：畢業錯置）"
+            "許鞍華 (Ann Hui)",
+            "宮崎駿",
+            "黑澤明",
+            "奉俊昊"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "許鞍華為香港新浪潮領軍人物及享譽全球之電影大師。"
         }
       ]
     },
@@ -12429,15 +12438,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"成績\": Which sentence is completely correct?",
+          "prompt": "【美學風格】香港新浪潮電影在製作手法上最顯著區別於傳統片場電影之核心特點係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：課室誤用）",
-            "語序顛倒嘅非標準句式（例項：畢業錯置）",
-            "混雜生硬詞彙之不規範語句（例項：圖書館未適配）"
+            "走出攝影棚、大量採用真實街頭社區進行菲林實景拍攝 (On-location street shooting in authentic communities)",
+            "全片只在單一綠幕前用電腦合成",
+            "完全不使用任何真實演員",
+            "禁止在香港本地取景"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "深入香港本土社區進行實景拍攝為新浪潮紀實寫實美學之標誌性特徵。"
         }
       ],
       "passThreshold": 0.8
@@ -12448,53 +12457,62 @@
     "subject": "cantonese",
     "unit": 30,
     "lessonNumber": 2,
-    "title": "當代影視藝術與美學批評 (Contemporary HK Cinema & Aesthetics) (第2課)",
+    "title": "電影視聽語言：鏡頭調度、蒙太奇剪接與光影色彩美學 (Cinematography & Mise-en-scène)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元30第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握專業電影視聽語言系統（長鏡頭、空鏡頭、特寫、推拉搖移）、蒙太奇剪接手法（交叉剪接、聲畫對位）及光影色彩隱喻之高階電影評析術語。",
     "presentation": {
-      "explanation": "",
+      "explanation": "深入解構電影作品之藝術魅力，依託對鏡頭調度（Mise-en-scène）與蒙太奇（Montage）之專業視聽語法分析：\n\n一、攝影運鏡與空間調度核心術語：\n１．「鏡頭景別與運鏡」（Shot Types & Movement）：\n- 特寫（dak6 se2 / Close-up）、大特寫、中景、全景、遠景。\n- 運鏡手法：推、拉、搖、移、跟、升降（teoi1, laai1, jiu4, ji4, gan1, sing1 gong3）。\n２．「長鏡頭與場面調度」（coeng4 geng3 tau4 / Long Take & Mise-en-scène）：\n- 連續不間斷拍攝，保留真實時間流逝與演員情緒之自然流淌。\n\n二、剪接技巧與視聽修辭：\n１．「蒙太奇與交叉剪接」（mung4 taai3 kei4 jyu5 gaau1 caa1 zin2 zip3）：\n- 平行剪接兩條或多條空間線索，營造強烈之懸念節奏與戲劇張力。\n２．「聲畫對位與聲畫同步」（seng1 waa2*6 deoi3 wai6*2）：\n- 聲音與畫面內容形成互補、對比或反諷關係，豐富多義性詮釋空間。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 30 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 30 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 30 in communication."
+          "target": "導演運用一組行雲流水之長鏡頭調度，流暢展現出主角在狹窄唐樓巷弄中穿梭之迷惘孤寂心境。",
+          "reading": "dou6 jin2 wan6 jung6 jat1 zou2 hang4 wan4 lau4 seoi2 zi1 coeng4 geng3 tau4*2 diu6 dou6, lau4 coeng3 zin2 jin6 ceot1 zyu2 gok3 zoi6 haap6 zaak3 tong4 lau4 hong6 lung6 zung1 cyun1 so1 zi1 mai4 mong5 gu1 zik6 sam1 ging2. [tou˨ jiːn˧˥ wɐn˨ jʊŋ˨ jɐt̚˥ tsou˧˥ hɐŋ˨˩ wɐn˨˩ lɐu˨˩ sɵy˧˥ tsiː˥ tsʰœːŋ˨˩ kɪŋ˧ tʰɐu˨˩ tiːu˨ tou˨, lɐu˨˩ tsʰœːŋ˧ tsiːn˧˥ jiːn˨ tsʰɵt̚˥ tsyː˧˥ kɔːk̚˧ tsɔːi˨ haːp̚˨ tsaːk̚˧ tʰɔːŋ˨˩ lɐu˨˩ hɔːŋ˨ lʊŋ˨ tsʊŋ˥ tsʰyːn˥ sɔː˥ tsiː˥ mɐi˨˩ mɔːŋ˩˧ kuː˥ tsɪk̚˨ sɐm˥ kɪŋ˧˥] (DOU-YEEN WUN-YOONG YUT-JOU HAHNG-WUN LAU-SOEY JEE CHEUNG-GENG-TAU DEW-DOU, LAU-CHEUNG JEEN-YEEN-CHUT JUE-GOK JOY HAHP-JAAK TONG-LOU HOHNG-LOONG JOONG CHUEN-SOH JEE MY-MONG GOO-JIK SUM-GING)",
+          "translation": "The director deployed a set of flowing long-take mise-en-scène, smoothly presenting the protagonist's perplexed and lonely state of mind as they navigated the narrow tenement building alleyways."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元30-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "電影在決戰高潮處巧妙運用交叉蒙太奇剪接，將警匪兩方之激烈博弈節奏推向極致。",
+          "reading": "din6 jing2 zoi6 kyut3 zin3 gou1 ciu4 cyu3 hiu2 miu6 wan6 jung6 gaau1 caa1 mung4 taai3 kei4 zin2 zip3, zoeng1 ging2 fei2 loeng5 fong1 zi1 gik1 lit6 bok3 jik6 zit3 zau3 teoi1 hoeng3 gik6 zi3. [tiːn˨ jɪŋ˧˥ tsɔːi˨ kʰyːt̚˧ tsiːn˧ kou˥ tsʰiːu˨˩ tsʰyː˧ hiːu˧˥ miːu˨ wɐn˨ jʊŋ˨ kaːu˥ tsʰaː˥ mʊŋ˨˩ tʰaːi˧ kʰei˨˩ tsiːn˧˥ tsiːp̚˧, tsœːŋ˥ kɪŋ˧˥ fei˧˥ lœːŋ˩˧ fɔːŋ˥ tsiː˥ kɪk̚˥ liːt̚˨ pɔːk̚˧ jɪk̚˨ tsit̚˧ tsɐu˧ tʰɵy˥ hœːŋ˧ kɪk̚˨ tsiː˧] (DEEN-YING JOY KUET-JEEN GOU-CHIU CHUE HIU-MEW WUN-YOONG GAU-CHAH MOONG-TY-KEY JEEN-JEEP, JEUNG GING-FAY LEUNG-FONG JEE GIK-LEET BOK-YIK JEET-JAU TOEY-HEUNG GIK-JEE)",
+          "translation": "At the climax of the decisive battle, the film skillfully deployed cross-cutting montage, pushing the intense game rhythm between police and robbers to its utmost limit."
+        },
+        {
+          "target": "聲畫對位手法之運用，令歡快之流行配樂與沉重之命運悲劇畫面形成強烈反諷，極具震撼力。",
+          "reading": "seng1 waa2*6 deoi3 wai6*2 sau2 faat3 zi1 wan6 jung6, ling6 fun1 faai3 zi1 lau4 hang4 pui3 ngok6 jyu5 cam4 zung6 zi1 ming6 wan6 bei1 kek6 waa2*6 min6*2 jing4 sing4 koeng4 lit6 faan2 fung3, gik6 geoi6 zan3 ham6 lik6. [sɛːŋ˥ waː˧˥ tɵy˧ wɐi˨ tsiː˥ sɐu˧˥ faːt̚˧ tsiː˥ wɐn˨ jʊŋ˨, lɪŋ˨ fuːn˥ faːi˧ tsiː˥ lɐu˨˩ hɐŋ˨˩ pʰuːi˧ ŋɔːk̚˨ jyː˩˧ tsʰɐm˨˩ tsʊŋ˨ tsiː˥ mɪŋ˨ wɐn˨ pei˥ kʰɪk̚˨ waː˧˥ miːn˨ jɪŋ˨˩ sɪŋ˨˩ kʰœːŋ˨˩ liːt̚˨ faːn˧˥ fʊŋ˧, kɪk̚˨ kɵy˨ tsɐn˧ hɐm˨ lɪk̚˨] (SENG-WAH DEOY-WAI SAU-FAHT JEE WUN-YOONG, LING FOON-FAI JEE LAU-HAHNG PUI-NGOK YUE CHUM-JOONG JEE MING-WUN BAY-KEK WAH-MEEN YING-SING KEUNG-LEET FAHN-FOONG, GIK-GOEY JUN-HUM-LIK)",
+          "translation": "The deployment of audiovisual counterpoint technique allowed upbeat pop background music to form a sharp irony with the heavy tragic imagery of destiny, generating immense dramatic power."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【視聽語言訣】推拉搖移長鏡頭，交叉蒙太奇節奏；聲畫對位寓意深，光影調度神韻流！"
+      ],
+      "culturalNotes": [
+        "香港攝影大師杜可風（Christopher Doyle）與王家衛合作，以大膽的高飽和度色彩、手持搖晃鏡頭與慢快門抽幀，創造了風靡全球的『王氏光影視覺符號』，深刻影響了當代世界電影美學。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"畢業\":",
+          "prompt": "【剪接手法】在電影中將兩條或多條在不同空間同時發生的劇情線索交替剪接在一起之蒙太奇手法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：圖書館錯置）",
-            "混雜生硬詞彙之不規範語句（例項：課室未適配）",
-            "聲調助詞搭配欠妥之表達（例項：字典誤用）"
+            "交叉剪接 / 平行蒙太奇 (Cross-cutting / Gaau1 caa1 zin2 zip3)",
+            "單純黑屏暫停",
+            "快進十倍播放",
+            "隨意刪除素材"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「交叉剪接（Cross-cutting）」為電影營造緊迫懸念與時空交織感最經典之剪接語法。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"畢業\":",
+          "prompt": "【視聽修辭】電影中背景聲音（如歡快音樂）與畫面內容（如悲慘處境）形成鮮明反差與諷刺效果之手法稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：課室未適配）",
-            "聲調助詞搭配欠妥之表達（例項：字典誤用）",
-            "語序顛倒嘅非標準句式（例項：圖書館錯置）"
+            "聲畫對位 (Audiovisual Counterpoint / Seng1 waa2 deoi3 wai6)",
+            "無聲靜音",
+            "噪聲干擾",
+            "設備短路"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「聲畫對位」透過視聽反差營造深刻之象徵寓意與哲學思辨空間。"
         }
       ]
     },
@@ -12502,15 +12520,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"畢業\": Which sentence is completely correct?",
+          "prompt": "【攝影技術】在電影拍攝中，攝影機不中斷且持續跟隨角色運動或場景流轉之單一鏡頭稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：字典誤用）",
-            "語序顛倒嘅非標準句式（例項：圖書館錯置）",
-            "混雜生硬詞彙之不規範語句（例項：課室未適配）"
+            "長鏡頭 (Long Take / Coeng4 geng3 tau4)",
+            "定格照片",
+            "幻燈片切換",
+            "一秒快速閃爍"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「長鏡頭（Long Take）」能夠完整保留時空連續性與現場氛圍之真實張力。"
         }
       ],
       "passThreshold": 0.8
@@ -12521,53 +12539,62 @@
     "subject": "cantonese",
     "unit": 30,
     "lessonNumber": 3,
-    "title": "當代影視藝術與美學批評 (Contemporary HK Cinema & Aesthetics) (第3課)",
+    "title": "香港紀錄片與社會現實關懷：「時代見證」、「真實呈現」、「人文溫度」 (HK Documentaries)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元30第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港獨立紀錄片與紀實非虛構影像之美學流派（直接電影、參與式觀察）、社會現實關懷及「時代見證」之文化反思話語。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港紀錄片以其強烈之社會責任感與對普通人命運之深情凝視，構成了香港歷史最珍貴之影像檔案：\n\n一、紀錄片核心創作流派與方法論：\n１．「直接電影與牆上蒼蠅」（Direct Cinema / Fly on the Wall）：\n- 攝影機不介入、不誘導，力求真實記錄事件之自然進展（如張經緯《音樂人生》）。\n２．「參與式紀錄片與口述歷史」（caam1 jyu5 sik1 gin3 zing3）：\n- 導演與受訪者深度對話，挖掘草根記憶、歷史沉積與身分認同。\n\n二、紀錄片評論高階術語矩陣：\n- 「時代見證與歷史存檔」（si4 doi6 gin3 zing3）：以客觀冷靜之鏡頭記錄城市歷史之巨大變遷。\n- 「非虛構敘事力量」（fei1 heoi1 gau3 zeoi6 si6）：真實生活本身所蘊含之戲劇性與感染力超越一切編造。\n- 「人文溫度與同理心」（jan4 man4 wan1 dou6）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 30 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 30 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 30 in communication."
+          "target": "紀錄片導演以十年時間默默跟蹤拍攝，用影像為香港普通市民之成長歷程留下咗珍貴之時代見證。",
+          "reading": "gei2 luk6 pin3*2 dou6 jin2 ji5 sap6 nin4 si4 gaan3 mak6 mak6 gan1 zung1 paak3 sip3, jung6 jing2 zoeng6 wai4 hoeng1 gong2 pou2 tung1 si5 man4 zi1 sing4 zoeng2 lik6 cing4 lau4 haa6 zo2 zan1 gwai3 zi1 si4 doi6 gin3 zing3. [kei˧˥ lʊk̚˨ pʰiːn˧˥ tou˨ jiːn˧˥ jiː˩˧ sɐp̚˨ niːn˨˩ siː˨˩ kaːn˧ mɐk̚˨ mɐk̚˨ kɐn˥ tsʊŋ˥ pʰaːk̚˧ siːp̚˧, jʊŋ˨ jɪŋ˧˥ tsœːŋ˨ wɐi˨˩ hœːŋ˥ kʷɔːŋ˧˥ pʰou˧˥ tʰʊŋ˥ siː˩˧ mɐn˨˩ tsiː˥ sɪŋ˨˩ tsœːŋ˧˥ lɪk̚˨ tsʰɪŋ˨˩ lɐu˨˩ haː˨ tsɔː˧˥ tsɐn˥ kʷɐi˧ tsiː˥ siː˨˩ tɔːi˨ kiːn˧ tsɪŋ˧] (GAY-LUK-PEEN DOU-YEEN YEE SUP-NEEN SEE-GAHN MUK-MUK GUN-JOONG PAAK-SEEP, YOONG YING-JEUNG WAI HEUNG-GONG POU-TOONG SEE-MUN JEE SING-JEUNG LIK-CHING LAU-HAH-JOR JUN-GWAI JEE SEE-DOY GEEN-JING)",
+          "translation": "The documentary director tracked and filmed silently over ten years, leaving a precious witness of the era for the growth journeys of ordinary Hong Kong citizens through imagery."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元30-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "非虛構紀錄片之力量在於真實，佢摒棄咗一切虛假煽情，以克制之視角展現出生活本身之厚重與力量。",
+          "reading": "fei1 heoi1 gau3 gei2 luk6 pin3*2 zi1 lik6 loeng6 zoi6 jyu1 zan1 sat6, keoi5 bing2 kai3 zo2 jat1 cai3 heoi1 gaa2 sin3 cing4, ji5 hak1 zai3 zi1 si6 gok3 zin2 jin6 ceot1 sang1 wut6 bun2 san1 zi1 hau5 zung6 jyu5 lik6 loeng6. [fei˥ hɵy˥ kɐu˧ kei˧˥ lʊk̚˨ pʰiːn˧˥ tsiː˥ lɪk̚˨ lœːŋ˨ tsɔːi˨ jyː˥ tsɐn˥ sɐt̚˨, kʰɵy˩˧ pɪŋ˧˥ kʰɐi˧ tsɔː˧˥ jɐt̚˥ tsʰɐi˨˩ hɵy˥ kaː˧˥ siːn˧ tsʰɪŋ˨˩, jiː˩˧ hɐk̚˥ tsai˧ tsiː˥ siː˨ kɔːk̚˧ tsiːn˧˥ jiːn˨ tsʰɵt̚˥ sɐŋ˥ wuːt̚˨ puːn˧˥ sɐn˥ tsiː˥ hɐu˧˥ tsʊŋ˨ jyː˩˧ lɪk̚˨ lœːŋ˨] (FAY-HOEY-GAU GAY-LUK-PEEN JEE LIK-LEUNG JOY-YUE JUN-SUT, KOEY BING-KAI-JOR YUT-CHY HOEY-GAH SEEN-CHING, YEE HUK-JAI JEE SEE-GOK JEEN-YEEN-CHUT SUNG-WOOT BOON-SUN JEE HAU-JOONG YUE LIK-LEUNG)",
+          "translation": "The power of non-fiction documentaries lies in authenticity; abandoning all false melodrama, it demonstrates the depth and power of life itself through a restrained perspective."
+        },
+        {
+          "target": "張經緯導演之《音樂人生》透過對少年音樂天才之深度跟拍，引發大眾對教育體制與人生價值之深刻反思。",
+          "reading": "zoeng1 ging1 wai5 dou6 jin2 zi1 \"jam1 ngok6 jan4 sang1\" tau3 gwo3 deoi3 siu3 nin4 jam1 ngok6 tin1 coi4 zi1 sam1 dou6 gan1 paak3, jan5 faat3 daai6 zung3 deoi3 gaau3 juk6 tai2 zai3 jyu5 jan4 sang1 gaa3 zik6 zi1 sam1 hak1 faan2 si1. [tsœːŋ˥ kɪŋ˥ wɐi˩˧ tou˨ jiːn˧˥ tsiː˥ \"jɐm˥ ŋɔːk̚˨ jɐn˨˩ sɐŋ˥\" tʰɐu˧ kʷɔː˧ tɵy˧ siːu˧ niːn˨˩ jɐm˥ ŋɔːk̚˨ tʰiːn˥ tsʰɔːi˨˩ tsiː˥ sɐm˥ tou˨ kɐn˥ pʰaːk̚˧, jɐn˩˧ faːt̚˧ taːi˨ tsʊŋ˧ tɵy˧ kaːu˧ jʊk̚˨ tʰɐi˧˥ tsai˧ jyː˩˧ jɐn˨˩ sɐŋ˥ kaː˧ tsɪk̚˨ tsiː˥ sɐm˥ hɐk̚˥ faːn˧˥ siː˥] (JEUNG GING-WAI DOU-YEEN JEE \"YUM-NGOK YUN-SUNG\" TAU-GWOR DEOY SIU-NEEN YUM-NGOK TEEN-CHOY JEE SUM-DOU GUN-PAAK, YUN-FAHT DY-JOONG DEOY GAU-YUK TY-JAI YUE YUN-SUNG GAH-JIK JEE SUM-HUK FAHN-SEE)",
+          "translation": "Director Cheung King-wai's 'KJ: Music and Life', through deep ongoing filming of a young musical prodigy, provoked profound reflections among the public regarding the educational system and the values of life."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【非虛構紀錄】十年追蹤見證真，拒絕煽情寫平民；音樂人生時代記，人文溫度最動人！"
+      ],
+      "culturalNotes": [
+        "香港國際電影節（HKIFF）設有專門的華語紀錄片競賽單元，多年來發掘並資助了大量記錄基層勞工、老舊街區變遷及少數族裔生活經驗的優秀紀錄片作品。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"圖書館\":",
+          "prompt": "【紀錄片流派】強調攝影機盡可能不干預被拍攝對象、客觀真實記錄事件自然生長之紀錄片流派係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：課室錯置）",
-            "混雜生硬詞彙之不規範語句（例項：字典未適配）",
-            "聲調助詞搭配欠妥之表達（例項：銀行誤用）"
+            "直接電影 (Direct Cinema / Zik6 zip3 din6 jing2)",
+            "荷里活特效科幻片",
+            "舞台情景喜劇",
+            "劇本虛構電影"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「直接電影（Direct Cinema）」主張客觀觀察，被譽為紀錄片真實性之核心範式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"圖書館\":",
+          "prompt": "【影壇名作】榮獲金馬獎最佳紀錄片、由張經緯導演深入跟拍音樂少年黃家正成長困惑之香港名片係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：字典未適配）",
-            "聲調助詞搭配欠妥之表達（例項：銀行誤用）",
-            "語序顛倒嘅非標準句式（例項：課室錯置）"
+            "《音樂人生》 (KJ: Music and Life / Jam1 ngok6 jan4 sang1)",
+            "《阿凡達》",
+            "《變形金剛》",
+            "《復仇者聯盟》"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "《音樂人生》為香港紀錄片史上口碑與藝術成就極高之經典代表作。"
         }
       ]
     },
@@ -12575,15 +12602,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"圖書館\": Which sentence is completely correct?",
+          "prompt": "【非虛構價值】優秀紀錄片之所以具備跨越時空之震撼力量，其最根本之核心價值在於：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：銀行誤用）",
-            "語序顛倒嘅非標準句式（例項：課室錯置）",
-            "混雜生硬詞彙之不規範語句（例項：字典未適配）"
+            "真實記錄社會現實、作為時代見證並傳遞深厚之人文關懷 (Authentic witness of era & profound humanist empathy)",
+            "純粹追求商業票房最大化",
+            "完全脫離現實虛構劇情",
+            "使用炫目電腦特效掩蓋內容空洞"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "真實呈現歷史變遷與人文關懷係紀錄片最核心之精神內核。"
         }
       ],
       "passThreshold": 0.8
@@ -12594,53 +12621,62 @@
     "subject": "cantonese",
     "unit": 30,
     "lessonNumber": 4,
-    "title": "當代影視藝術與美學批評 (Contemporary HK Cinema & Aesthetics) (第4課)",
+    "title": "串流平台時代之影視轉型與跨國合拍片策略：「網絡串流」、「合拍片」、「IP孵化」 (Streaming Era & Coproductions)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元30第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握全球網絡串流平台（Streaming Platforms）興起背景下香港影視產業轉型、跨國跨區域合拍片策略、IP文創孵化及市場分眾發行話語體系。",
     "presentation": {
-      "explanation": "",
+      "explanation": "面對Netflix、Disney+等流媒體巨頭崛起及全球影視消費習慣變革，香港影視業展現出強大之適應力與創新轉型：\n\n一、流媒體與影視產業轉型詞彙：\n１．「網絡串流平台與線上點播」（cyun3 lau4 ping4 toi4 / Over-The-Top OTT）：\n- 打破傳統院線排片壟斷，提供全球同步分發與個性化算法推薦。\n２．「內地與香港合拍片機制」（hap6 paak3 pin3*2 / CEPA Coproductions）：\n- 整合香港頂尖主創製作實力與內地廣闊市場規模，打造大製作商業巨片。\n３．「原創IP深度孵化」（fu1 faa3）：\n- 圍繞優質文學、動漫或影視IP進行電影、劇集、周邊商品之全產業鏈開發。\n\n二、市場策略與發行評析：\n- 「院網協同發行」（jyun6*2 mong5 hip3 tung4）：院線上映與串流上線之窗口期優化。\n- 「精準分眾市場」（fan1 zung3 si5 coeng4 / Niche Targeting）：針對特定青年社群或海外華人受眾定製小成本精品劇集。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 30 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 30 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 30 in communication."
+          "target": "香港青年導演透過網絡串流平台將本土精品劇集推向全球一百多個國家，實現跨地域文化傳播。",
+          "reading": "hoeng1 gong2 nin4 hing1 dou6 jin2 tau3 gwo3 mong5 lok3 cyun3 lau4 ping4 toi4 zoeng1 bun2 tou2 zing1 ban2 kek6 zaap6 teoi1 hoeng3 cyun4 kau4 jat1 baak3 do1 go3 gwok3 gaa1, sat6 jin6 kwaa1 dei6 wik6 man4 faa3 cyun4 bo3. [hœːŋ˥ kʷɔːŋ˧˥ niːn˨˩ hɪŋ˥ tou˨ jiːn˧˥ tʰɐu˧ kʷɔː˧ mɔːŋ˩˧ lɔːk̚˧ tsʰyːn˧ lɐu˨˩ pʰɪŋ˨˩ tʰɔːi˨˩ tsœːŋ˥ puːn˧˥ tʰou˩˧ tsɪŋ˥ pʰɐn˧˥ kʰɪk̚˨ tsaːp̚˨ tʰɵy˥ hœːŋ˧ tsʰyːn˨˩ kʰɐu˨˩ jɐt̚˥ paːk̚˧ tɔː˥ kɔː˧ kʷɔːk̚˧ kaː˥, sɐt̚˨ jiːn˨ kʷʰaː˥ tei˨ wɪk̚˨ mɐn˨˩ faː˧ tsʰyːn˨˩ pɔː˧] (HEUNG-GONG NEEN-HING DOU-YEEN TAU-GWOR MONG-LOK CHUEN-LAU PING-TOY JEUNG BOON-TOU JING-BUN KEK-JAHP TOEY-HEUNG CHUEN-KAU YUT-BAAK DOH GOH GWOK-GAH, SUT-YEEN KWAH-DAY-WIK MUN-FAH CHUEN-BOH)",
+          "translation": "Hong Kong young directors pushed local boutique drama series to more than a hundred countries globally through online streaming platforms, achieving cross-regional cultural dissemination."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元30-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "合拍片模式有效整合咗兩地資金、技術同人才優勢，同時亦考驗主創團隊如何平衡本土特色與宏觀市場需求。",
+          "reading": "hap6 paak3 pin3*2 mou4 sik1 jau6 haau6 zing2 hap6 zo2 loeng5 dei6 zi1 gam1, gei6 seot6 tung4 jan4 coi4 jau1 sai3, tung4 si4 jik6 haau2 jim6 zyu2 cong3 tyun4 deoi6*2 jyu4 ho4 ping4 hang4 bun2 tou2 dak6 sik1 jyu5 wang4 gun1 si5 coeng4 seoi1 kau4. [hɐp̚˨ pʰaːk̚˧ pʰiːn˧˥ mouou˨˩ sɪk̚˥ jɐu˨ haːu˨ tsɪŋ˧˥ hɐp̚˨ tsɔː˧˥ lœːŋ˩˧ tei˨ tsiː˥ kɐm˥, kei˨ sɵt̚˨ tʰʊŋ˨˩ jɐn˨˩ tsʰɔːi˨˩ jɐu˥ sɐi˧, tʰʊŋ˨˩ siː˨˩ jik̚˨ haːu˧˥ jiːm˨ tsyː˧˥ tsʰɔːŋ˧ tʰyːn˨˩ tɵy˧˥ jyː˨˩ hɔː˨˩ pʰɪŋ˨˩ hɐŋ˨˩ puːn˧˥ tʰou˩˧ tɐk̚˨ sɪk̚˥ jyː˩˧ wɐŋ˨˩ kuːn˥ siː˩˧ tsʰœːŋ˨˩ sɵy˥ kʰɐu˨˩] (HUP-PAAK-PEEN MOU-SIK YAU-HAU JING-HUP-JOR LEUNG-DAY JEE-GUM, GAY-SUT TOONG YUN-CHOY YAU-SY, TOONG-SEE YIK HAU-YEEM JUE-CHONG TUEN-DEOY YUE-HOH PING-HAHNG BOON-TOU DUK-SIK YUE WUNG-GOON SEE-CHEUNG SOEY-KAU)",
+          "translation": "The coproduction model effectively integrated capital, technical, and talent advantages from both regions, while testing how creative teams balance local characteristics with macroscopic market demands."
+        },
+        {
+          "target": "深耕原創IP孵化同跨界衍生開發，係影視產業在數字經濟浪潮中提升核心競爭力之必由之路。",
+          "reading": "sam1 gang1 jyun4 cong3 IP fu1 faa3 tung4 kwaa1 gaai3 jin2 sang1 hoi1 faat3, hai6 jing2 si6 caan2 jip6 zoi6 sou3 geoi3 ging1 zai3 long6 ciu4 zung1 tai4 sing1 hat6 sam1 ging3 zaang1 lik6 zi1 bit1 jau4 zi1 lou6. [sɐm˥ kɐŋ˥ jyːn˨˩ tsʰɔːŋ˧ IP fuː˥ faː˧ tʰʊŋ˨˩ kʷʰaː˥ kaːi˧ jiːn˧˥ sɐŋ˥ hɔːi˥ faːt̚˧, hɐi˨ jɪŋ˧˥ siː˨ tsʰaːn˧˥ jiːp̚˨ tsɔːi˨ sou˧ kɵy˧ kɪŋ˥ tsai˧ lɔːŋ˨ ciːu˨˩ tsʊŋ˥ tʰɐi˨˩ sɪŋ˥ hɐt̚˨ sɐm˥ kɪŋ˧ tsaːŋ˥ lɪk̚˨ tsiː˥ piːt̚˥ jɐu˨˩ tsiː˥ lou˨] (SUM-GUNG YUEN-CHONG IP FOO-FAH TOONG KWAH-GY YEEN-SUNG HOI-FAHT, HY YING-SEE CHAAN-YEEP JOY SOU-GOEY GING-JAI LONG-CHIU JOONG TY-SING HUT-SUM GING-JAANG-LIK JEE BEET-YAU JEE LOU)",
+          "translation": "Deeply cultivating original IP incubation and cross-industry derivative development is the essential path for the film and television industry to elevate core competitiveness amidst the digital economy wave."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【影視轉型訣】網絡串流破藩籬，合拍融合兩地奇；原創IP深孵化，分眾市場創先機！"
+      ],
+      "culturalNotes": [
+        "香港特區政府設立了『電影發展基金』（FDF），資助中小型製作及青年導演首部劇情電影計劃（FFFI），培育出了如《手捲煙》、《白日之下》、《年少日記》等一系列斬獲國際大獎的本土新銳力作。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"課室\":",
+          "prompt": "【影視分發】打破傳統實體電影院排片限制、透過互聯網向全球用戶提供即時影音點播之平台形式稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：字典錯置）",
-            "混雜生硬詞彙之不規範語句（例項：銀行未適配）",
-            "聲調助詞搭配欠妥之表達（例項：提款誤用）"
+            "網絡串流平台 (Streaming Platforms / Cyun3 lau4 ping4 toi4)",
+            "錄影帶租賃小店",
+            "露天黑白放映隊",
+            "實體光盤售賣攤"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「網絡串流平台（Streaming Platforms）」為數字時代全球影視分發之主導形態。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"課室\":",
+          "prompt": "【產業模式】香港電影製作團隊與內地資本及市場深度合作、在CEPA框架下共同投資拍攝之電影類型稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：銀行未適配）",
-            "聲調助詞搭配欠妥之表達（例項：提款誤用）",
-            "語序顛倒嘅非標準句式（例項：字典錯置）"
+            "合拍片 (Coproductions / Hap6 paak3 pin3)",
+            "純個人家庭錄像",
+            "未經授權盜版片",
+            "單純進口引進片"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「合拍片」為二十一世紀華語電影產業規模化與跨地域合作之核心模式。"
         }
       ]
     },
@@ -12648,15 +12684,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"課室\": Which sentence is completely correct?",
+          "prompt": "【文創戰略】以核心文學或動漫角色世界觀為基礎、進行全產業鏈多維度影視與衍生產品開發之過程稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：提款誤用）",
-            "語序顛倒嘅非標準句式（例項：字典錯置）",
-            "混雜生硬詞彙之不規範語句（例項：銀行未適配）"
+            "IP孵化與衍生開發 (IP Incubation & Derivative Development)",
+            "隨意抄襲翻拍",
+            "一次性短期投機",
+            "徹底封存版權"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「IP孵化」為文創產業實現長期品牌價值積累與商業變現之重要戰略。"
         }
       ],
       "passThreshold": 0.8
@@ -12667,53 +12703,62 @@
     "subject": "cantonese",
     "unit": 30,
     "lessonNumber": 5,
-    "title": "當代影視藝術與美學批評 (Contemporary HK Cinema & Aesthetics) (第5課)",
+    "title": "高階影評寫作、美學思辨與電影哲學：「互文性」、「視聽符號學」、「解構主義」 (Film Philosophy & Criticism)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元30第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握高階電影評論寫作、視聽符號學（Film Semiotics）、互文性理論（Intertextuality）及解構主義哲學在當代影視美學批判中之專業思辨建構。",
     "presentation": {
-      "explanation": "",
+      "explanation": "撰寫高水平電影評論與學術美學專論，需要熟練運用當代文化哲學與視聽符號學之批判工具：\n\n一、當代電影哲學核心批評框架：\n１．「互文性與典故互涉」（wu6 man4 sing3 / Intertextuality）：\n- 電影文本與經典文學、歷史事件、其他名作之間之深層對話與意象借用。\n２．「視聽符號學分析」（si6 ting1 fu4 hou4 hok6 / Film Semiotics）：\n- 解析鏡頭構圖、色彩隱喻、道具設置中之能指（Signifier）與所指（Signified）。\n３．「解構主義與元電影」（gaai2 kau3 zyu2 ji6 / Deconstruction & Meta-cinema）：\n- 戲仿傳統類型片套路，打破「第四面牆」，引導觀眾反思影像自身的虛構性本質。\n\n二、高階文藝批評評述話語：\n- 「立意深遠，思想厚度」（laap6 ji3 sam1 jyun5）：非停留於表面娛樂，直擊人性幽微與時代命題。\n- 「解構而不流於低俗，創新而不失其本色」（gaai2 kau3 ji4 bat1 lau4 jyu1 dai1 zuk6）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 30 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 30 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 30 in communication."
+          "target": "呢篇高階影評運用視聽符號學理論，深刻剖析咗電影鏡頭中光影明暗與角色身分迷失之間之深層符號對應關係。",
+          "reading": "ni1 pin1 gou1 kap1 jing2 ping4 wan6 jung6 si6 ting1 fu4 hou4 hok6 lei5 leon6, sam1 hak1 fau2 sik1 zo2 din6 jing2 geng3 tau4*2 zung1 gwong1 jing2 ming4 am3 jyu5 gok3 sik1 san1 fan6*2 mai4 sat1 zi1 gaan1 zi1 sam1 caang4 fu4 hou4 deoi3 jing3 gwaan1 hai6. [niː˥ pʰiːn˥ kou˥ kʰɐp̚˥ jɪŋ˧˥ pʰɪŋ˨˩ wɐn˨ jʊŋ˨ siː˨ tʰɪŋ˥ fuː˨˩ hou˨˩ hɔːk̚˨ lei˩˧ lœːn˨, sɐm˥ hɐk̚˥ fɐu˧˥ sɪk̚˥ tsɔː˧˥ tiːn˨ jɪŋ˧˥ kɪŋ˧ tʰɐu˨˩ tsʊŋ˥ kʷɔːŋ˥ jɪŋ˧˥ mɪŋ˨˩ ɐm˧ jyː˩˧ kɔːk̚˧ sɪk̚˥ sɐn˥ fɐn˨ mɐi˨˩ sɐt̚˥ tsiː˥ kaːn˥ tsiː˥ sɐm˥ tsʰaːŋ˨˩ fuː˨˩ hou˨˩ tɵy˧ jɪŋ˧ kʷaːn˥ hɐi˨] (NEE-PEEN GOU-KUP YING-PING WUN-YOONG SEE-TING FOO-HOU-HOK LEY-LEON, SUM-HUK FAU-SIK-JOR DEEN-YING GENG-TAU JOONG GWONG-YING MING-UM YUE GOK-SIK SUN-FUN MY-SUT JEE-GAHN JEE SUM-CHAANG FOO-HOU DEOY-YING GWAHN-HY)",
+          "translation": "This advanced film critique utilized film semiotics theory to profoundly analyze the deep symbolic correspondence between light-and-shadow contrast in the cinematic frames and the characters' identity loss."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元30-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "影片充滿咗豐富之互文性致敬，將古典文學詩詞與現代警匪動作場面熔於一爐，展現出極高之文化思想厚度。",
+          "reading": "jing2 pin3*2 cung1 mun5 zo2 fung1 fu3 zi1 wu6 man4 sing3 zi3 ging3, zoeng1 gu2 din2 man4 hok6 si1 ci4 jyu5 jin6 doi6 ging2 fei2 dung6 zok3 coeng4 min6*2 jung4 jyu1 jat1 lou4, zin2 jin6 ceot1 gik6 gou1 zi1 man4 faa3 si1 soeng2 hau5 dou6. [jɪŋ˧˥ pʰiːn˧˥ tsʰʊŋ˥ muːn˩˧ tsɔː˧˥ fʊŋ˥ fuː˧ tsiː˥ wuː˨ mɐn˨˩ sɪŋ˧ tsiː˧ kɪŋ˧, tsœːŋ˥ kuː˧˥ tiːn˧˥ mɐn˨˩ hɔːk̚˨ siː˥ tsʰiː˨˩ jyː˩˧ jiːn˨ tɔːi˨ kɪŋ˧˥ fei˧˥ tʊŋ˨ tsɔːk̚˧ tsʰœːŋ˨˩ miːn˨ jʊŋ˨˩ jyː˥ jɐt̚˥ lou˨˩, tsiːn˧˥ jiːn˨ tsʰɵt̚˥ kɪk̚˨ kou˥ tsiː˥ mɐn˨˩ faː˧ siː˥ sœːŋ˧˥ hɐu˧˥ tou˨] (YING-PEEN CHOONG-MOON-JOR FOONG-FOO JEE WOO-MUN-SING JEE-GING, JEUNG GOO-DEEN MUN-HOK SEE-CHEE YUE YEEN-DOY GING-FAY DOONG-JOK CHEUNG-MEEN YOONG YUE YUT-LOU, JEEN-YEEN-CHUT GIK-GOU JEE MUN-FAH SEE-SEUNG HAU-DOU)",
+          "translation": "The film is replete with rich intertextual homages, blending classical literary poetry and modern crime action scenes in one furnace, demonstrating immense cultural and philosophical depth."
+        },
+        {
+          "target": "導演透過解構傳統英雄主義神話，引導觀眾直面人性在道德灰色地帶之抉擇困境，立意深遠。",
+          "reading": "dou6 jin2 tau3 gwo3 gaai2 kau3 cyun4 tung4 jing1 hung4 zyu2 ji6 san4 waa6, jan5 dou6 gun3 zung3 zik6 min6 jan4 sing3 zoi6 dou6 dak1 fui1 sik1 dei6 daai3 zi1 kyut3 zaak6 kwan3 ging2, laap6 ji3 sam1 jyun5. [tou˨ jiːn˧˥ tʰɐu˧ kʷɔː˧ kaːi˧˥ kʰɐu˧ tsʰyːn˨˩ tʰʊŋ˨˩ jɪŋ˥ hʊŋ˨˩ tsyː˧˥ jiː˨ sɐn˨˩ waː˨, jɐn˩˧ tou˨ kuːn˧ tsʊŋ˧ tsik̚˨ miːn˨ jɐn˨˩ sɪŋ˧ tsɔːi˨ tou˨ tɐk̚˥ fuːi˥ sɪk̚˥ tei˨ taːi˧ tsiː˥ kʰyːt̚˧ tsaːk̚˨ kʰwɐn˧ kɪŋ˧˥, laːp̚˨ jiː˧ sɐm˥ jyːn˩˧] (DOU-YEEN TAU-GWOR GAI-KAU CHUEN-TOONG YING-HOONG JUE-YEE SUN-WAH, YUN-DOU GOON-JOONG JIK-MEEN YUN-SING JOY DOU-DUK FOOY-SIK DAY-DY JEE KUET-JAAK KWAN-GING, LAHP-YEE SUM-YUEN)",
+          "translation": "By deconstructing the traditional myth of heroism, the director led the audience to confront the dilemma of human choices in moral gray areas, with profound and far-reaching thematic resonance."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【電影哲學訣】視聽符號顯幽微，互文引申意境飛；解構英雄觀本質，立意深遠天下知！"
+      ],
+      "culturalNotes": [
+        "香港電影評論學會（HKFCS）每年主辦的影評人評獎，堅持純粹的專業美學標準與獨立批判精神，成為華語影壇公認最具專業權威與學術信譽的專業獎項之一。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"字典\":",
+          "prompt": "【批評理論】在電影評論中，用以分析影片如何與其他經典文學名著或影視文本產生跨時空對話與引申之理論概念係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：銀行錯置）",
-            "混雜生硬詞彙之不規範語句（例項：提款未適配）",
-            "聲調助詞搭配欠妥之表達（例項：匯款誤用）"
+            "互文性 (Intertextuality / Wu6 man4 sing3)",
+            "完全抄襲",
+            "毫無關聯",
+            "偶然巧合"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「互文性（Intertextuality）」為當代文藝理論中揭示文本間對話與文化引申之核心範式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"字典\":",
+          "prompt": "【符號分析】將電影中的鏡頭、光線、色彩與道具作為具備特定隱喻含義之符號體系進行嚴密剖析之學術方法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：提款未適配）",
-            "聲調助詞搭配欠妥之表達（例項：匯款誤用）",
-            "語序顛倒嘅非標準句式（例項：銀行錯置）"
+            "視聽符號學 (Film Semiotics / Si6 ting1 fu4 hou4 hok6)",
+            "隨意主觀猜謎",
+            "單純八卦緋聞",
+            "票房商業統計"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「視聽符號學（Film Semiotics）」為電影美學分析中精確解讀影像深層隱喻之科學工具。"
         }
       ]
     },
@@ -12721,15 +12766,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"字典\": Which sentence is completely correct?",
+          "prompt": "【影評高度】一篇具備高度學術價值與思想深度之高階電影評論，其核心評價維度應聚焦於：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：匯款誤用）",
-            "語序顛倒嘅非標準句式（例項：銀行錯置）",
-            "混雜生硬詞彙之不規範語句（例項：提款未適配）"
+            "視聽語言創新性、思想哲學厚度及對人性與時代命題之深刻剖析 (Audiovisual innovation, philosophical depth & profound inquiry into humanity & era)",
+            "單純宣洩個人追星情緒",
+            "只複述電影官方劇情簡介",
+            "完全按照商業利益評分"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "高階影評依托嚴謹之視聽語法與思想厚度，實現對作品之哲學級審美昇華。"
         }
       ],
       "passThreshold": 0.8
