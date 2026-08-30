@@ -8271,50 +8271,66 @@
     }
   },
   "sw-u20-l1": {
+    "id": "sw-u20-l1",
+    "subject": "swahili",
+    "unit": 20,
+    "lessonNumber": 1,
+    "title": "Kauli ya Kutendana (-ana) (Reciprocal Verb Extensions)",
+    "level": "B2",
+    "objective": "Kuelewa na kutumia Kauli ya Kutendana (Reciprocal Voice: -ana) kueleza matendo yanayofanywa na watendaji wawili au zaidi kwa pamoja au kwa kubadilishana (mutual/reciprocal actions).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kauli ya Kutendana katika Kiswahili (The Reciprocal Extension: -ana):\n\nKauli ya kutendana huonyesha kuwa watendaji wawili au zaidi wanatendeana tendo lile lile kwa pamoja au kwa kubadilishana (*mutual or reciprocal action: each other / one another*):\n\n1. **Muundo wa Kiambishi -ana**:\n   - Kiambishi cha kutendana ni **-ana** ambacho huongezwa moja kwa moja kwenye shina la kitenzi baada ya kuondoa irabu ya mwisho *-a*:\n     - *penda* (love) -> **pendana** (love one another)\n     - *saidia* (help) -> **saidiana** (help each other)\n     - *ona* (see) -> **onana** (see / meet each other)\n     - *piga* (hit) -> **pigana** (fight each other)\n     - *jua* (know) -> **juana** (know each other)\n     - *shauri* (advise) -> **shauriana** (consult each other)\n     - *elewa* (understand) -> **elewana** (understand each other / get along)\n     - *kubali* (agree) -> **kubaliana** (agree with each other).\n\n2. **Upatanisho wa Kisintaksia (Syntactic Agreement)**:\n   - Wakati mtendaji ni **wingi** (wa-, tu-, m-), kitenzi hutumika moja kwa moja:\n     - *Wanafunzi wanasaidiana masomoni.* (Students help each other in studies.)\n   - Wakati mtendaji ni **mmoja**, kiambishi cha kiunganishi **na** hutumika kumuunganisha mtendaji wa pili:\n     - *Ali anapendana na Fatma.* (Ali and Fatma love each other.)\n     - *Nilikutana na rafiki yangu sokoni.* (I met with my friend at the market.)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 20."
+          "target": "Majirani wema wanapendana na kusaidiana kwa dhati wakati wa shida na raha.",
+          "reading": "Ma-ji-ra-ni we-ma wa-na-pe-nda-na na ku-sa-i-dia-na kwa dha-ti wa-ka-ti wa shi-da na ra-ha. [mɑʤiˈrɑni ˈwɛmɑ wɑnɑpɛˈndɑnɑ nɑ kusɑiˈdiɑnɑ kwɑ ˈðɑti wɑˈkɑti wɑ ˈʃidɑ nɑ ˈrɑhɑ] (mah-jee-RAH-nee WAY-mah wah-nah-payn-DAH-nah nah koo-sah-ee-dee-AH-nah kwah THAH-tee wah-KAH-tee wah SHEE-dah nah RAH-hah)",
+          "translation": "Good neighbors love one another [wanapendana: penda -> pendana] and help each other [kusaidiana: saidia -> saidiana] sincerely in hardship and joy."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 20-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Viongozi wa pande zote mbili walikutana na wakakubaliana kuhusu mpango wa amani.",
+          "reading": "Vi-o-ngo-zi wa pa-nde zo-te mbi-li wa-li-ku-ta-na na wa-ka-ku-ba-lia-na ku-hu-su mpa-ngo wa a-ma-ni. [viɔˈŋɡɔzi wɑ ˈpɑndɛ ˈzɔtɛ ˈmbili wɑlikuˈtɑnɑ nɑ wɑkɑkubɑˈliɑnɑ kuˈhusu ˈmpɑŋɡɔ wɑ ɑˈmɑni] (vee-ohn-GOH-zee wah PAHN-day ZOH-tay M-BEE-lee wah-lee-koo-TAH-nah nah wah-kah-koo-bah-lee-AH-nah koo-HOO-soo M-PAHN-goh wah ah-MAH-nee)",
+          "translation": "Leaders of both sides met [walikutana: kuta -> kutana] and agreed with each other [wakakubaliana: kubali -> kubaliana] regarding the peace plan."
+        },
+        {
+          "target": "Vijana hao wanaheshimiana sana na wanashauriana mara kwa mara kuhusu biashara zao.",
+          "reading": "Vi-ja-na ha-o wa-na-he-shi-mia-na sa-na na wa-na-sha-u-ria-na ma-ra kwa ma-ra ku-hu-su bi-a-sha-ra za-o. [viˈʤɑnɑ ˈhɑɔ wɑnɑhɛʃiˈmiɑnɑ ˈsɑnɑ nɑ wɑnɑʃɑuˈriɑnɑ ˈmɑrɑ kwɑ ˈmɑrɑ kuˈhusu biɑˈʃɑrɑ ˈzɑɔ] (vee-JAH-nah HAH-oh wah-nah-hay-shee-mee-AH-nah SAH-nah nah wah-nah-shah-oo-ree-AH-nah MAH-rah kwah MAH-rah koo-HOO-soo bee-ah-SHAH-rah ZAH-oh)",
+          "translation": "Those youths respect each other [wanaheshimiana: heshimu -> heshimiana] deeply and consult each other [wanashauriana: shauri -> shauriana] regularly about their businesses."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kauli ya Kutendana = -ana: penda -> pendana; saidia -> saidiana; kuta -> kutana; kubali -> kubaliana; heshimu -> heshimiana!"
+      ],
+      "culturalNotes": [
+        "Utamaduni wa 'Ujirani Mwema' katika jamii za Afrika Mashariki unasisitiza 'kusaidiana' na 'kusalimiana' kila asubuhi kama wajibu wa kijamii."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Babu\":",
+          "prompt": "Kauli ya kutendana (Reciprocal Voice) ya kitenzi \"saidia\" (help) inayomaanisha kusaidiana pande zote mbili ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Bibi»",
-            "Mpangilio usio sahihi wa viambishi katika «Mtoto»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Binti»"
+            "saidiana (Help each other / one another - Correct reciprocal suffix '-ana')",
+            "saidika (Hii ni kauli ya kutendeka)",
+            "saidisha (Hii ni kauli ya kutendesha)",
+            "saidiwa (Hii ni kauli ya kutendwa)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «saidia» hupokea kiambishi «-ana» kupata «saidiana» (help one another)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Babu\":",
+          "prompt": "Sentensi ipi inatumia kauli ya kutendana kwa mtendaji wa umoja aliyeunganishwa na neno \"na\" kwa usahihi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Mtoto»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Binti»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Bibi»"
+            "Juma anashauriana na kaka yake kuhusu masuala ya shamba. (Juma is consulting with his brother - Correct singular reciprocal with 'na')",
+            "Juma anashauriwa kaka yake kuhusu masuala ya shamba",
+            "Juma na kaka yake anashauri",
+            "Juma anashauria kaka yake"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Juma anashauriana na kaka yake» inatumia kauli ya kutendana ya umoja sahihi ikifuatiwa na kiunganishi «na»."
         }
       ]
     },
@@ -8322,17 +8338,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Babu\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi kabisa ya vitenzi vilivyonyambulishwa katika kauli ya kutendana (-ana):",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Binti»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Bibi»",
-            "Mpangilio usio sahihi wa viambishi katika «Mtoto»"
+            "penda -> pendana, saidia -> saidiana, ona -> onana, elewa -> elewana, heshimu -> heshimiana, kubali -> kubaliana.",
+            "penda -> pendeka, saidia -> saidika, ona -> oneka.",
+            "penda -> pendesha, saidia -> saidisha, ona -> onesha.",
+            "Kauli ya kutendana inatumika tu kwa wanyama na si binadamu."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Kiambishi -ana huunda vitenzi vya kutendana kama pendana, saidiana, onana, elewana, heshimiana, na kubaliana."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u20-l2": {
@@ -8340,53 +8357,62 @@
     "subject": "swahili",
     "unit": 20,
     "lessonNumber": 2,
-    "title": "Kauli ya Kutendana (-ana) (Reciprocal Verbs) (Part 2)",
+    "title": "Kauli ya Kutendeka (-ika / -eka) (Stative / Neuter-Passive Verbs)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.2) with authentic precision.",
+    "objective": "Kuelewa na kutumia Kauli ya Kutendeka (Stative Voice: -ika / -eka) kueleza hali ya kitu kutendeka bila mtendaji au uwezekano wa kutendeka (-able/-ible / get done).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kauli ya Kutendeka katika Kiswahili (The Stative Extension: -ika / -eka):\n\nKauli ya kutendeka huonyesha kuwa **tendo limetendeka na limefikia hali fulani bila kumtaja mtendaji (agentless result)**, au huonyesha **uwezekano wa jambo kufanyika (*-able / -ible / feasible*)**:\n\n1. **Tofauti kati ya Kutendwa na Kutendeka**:\n   - **Kutendwa (Passive)**: Inahusisha mtendaji aliyefanya tendo (*Kikombe kilivunjwa na mtoto.* = The cup was broken by the child).\n   - **Kutendeka (Stative)**: Inaangazia hali iliyojitokeza yenyewe bila mtendaji (*Kikombe kilivunjika.* = The cup broke / is broken).\n\n2. **Kanuni ya Upatanisho wa Irabu (-ika vs. -eka)**:\n   - Ikiwa irabu ya shina ni **a, i, u**, shina hupokea **-ika**:\n     - *vunja* (break) -> **vunjika** (be broken / breakable)\n     - *pika* (cook) -> **pikika** (be cooked / cookable)\n     - *andika* (write) -> **andikika** (be writable / legible)\n     - *fanya* (do) -> **fanyika** (take place / be done / feasible)\n     - *fahamu* (understand) -> **fahamika** (be understood / famous)\n     - *haribu* (ruin) -> **haribika** (be ruined / damaged).\n\n   - Ikiwa irabu ya shina ni **e, o**, shina hupokea **-eka**:\n     - *soma* (read) -> **someka** (be readable / legible)\n     - *elewa* (understand) -> **eleweka** (be comprehensible / clear)\n     - *tenda* (act) -> **tendeka** (be feasible / take place)\n     - *kosa* (err / miss) -> **koseka** (be missable / errable)\n     - *chora* (draw) -> **choreka** (be drawable).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 20."
+          "target": "Kikombe cha udongo kilidondoka sakafuni na kikavunjika vipande vipande.",
+          "reading": "Ki-ko-mbe cha u-do-ngo ki-li-do-ndo-ka sa-ka-fu-ni na ki-ka-vu-nji-ka vi-pa-nde vi-pa-nde. [kiˈkɔmbɛ tʃɑ uˈdɔŋɡɔ kilidɔˈndɔkɑ sɑkɑˈfuni nɑ kikɑvuˈnʤikɑ viˈpɑndɛ viˈpɑndɛ] (kee-KOHM-bay chah oo-DOHN-goh kee-lee-dohn-DOH-kah sah-kah-FOO-nee nah kee-kah-voon-JEE-kah vee-PAHN-day vee-PAHN-day)",
+          "translation": "The clay cup fell to the floor and got broken [kikavunjika: vunja -> vunjika] into pieces."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 20-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mwandiko wa daktari hausomeki kwa urahisi lakini maelezo yake yanaeleweka vizuri.",
+          "reading": "Mwa-ndi-ko wa da-kta-ri ha-u-so-me-ki kwa u-ra-hi-si la-ki-ni ma-e-le-zo ya-ke ya-na-e-le-we-ka vi-zu-ri. [mwɑˈndikɔ wɑ dɑkˈtɑri hɑusɔˈmɛki kwɑ urɑˈhisi lɑˈkini mɑɛlɛˈzɔ ˈjɑkɛ jɑnɑɛlɛˈwɛkɑ viˈzuri] (mwahn-DEE-koh wah dahk-TAH-ree hah-oo-soh-MAY-kee kwah oo-rah-HEE-see lah-KEE-nee mah-ay-lay-ZOH YAH-kay yah-nah-ay-lay-WAY-kah vee-ZOO-ree)",
+          "translation": "The doctor's handwriting is not readable [hausomeki: soma -> someka] easily, but his explanations are well understood [yanaeleweka: elewa -> eleweka]."
+        },
+        {
+          "target": "Mkutano mkuu utafanyika kesho ukumbini kwa sababu mambo yote yametendeka kama ilivyopangwa.",
+          "reading": "Mku-ta-no mku-u u-ta-fa-nyi-ka ke-sho u-ku-mbi-ni kwa sa-ba-bu ma-mbo yo-te ya-me-te-nde-ka ka-ma i-li-vyo-pa-ngwa. [mkuˈtɑnɔ mkuˈu utɑfɑˈɲikɑ ˈkɛʃɔ ukumbiˈni kwɑ sɑˈbɑbu ˈmɑmbɔ ˈjɔtɛ jɑmɛtɛˈndɛkɑ ˈkɑmɑ ilivjɔˈpɑŋɡwɑ] (m-koo-TAH-noh m-koo-oo oo-tah-fah-NYEE-kah KAY-shoh oo-koom-bee-NEE kwah sah-BAH-boo MAHM-boh YOH-tay yah-may-tayn-DAY-kah KAH-mah ee-lee-vyoh-PAHN-gwah)",
+          "translation": "The general meeting will take place [utafanyika: fanya -> fanyika] tomorrow in the hall because all matters have been accomplished [yametendeka: tenda -> tendeka] as planned."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kutendeka (-ika/-eka): vunja -> vunjika (break); fanya -> fanyika (happen); soma -> someka (readable); elewa -> eleweka (understandable)!"
+      ],
+      "culturalNotes": [
+        "Katika mazungumzo ya heshima, kutumia kauli ya kutendeka kama 'Gari limeharibika' huondoa lawama ya kibinafsi kuliko kusema 'Nimeharibu gari'."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Bibi\":",
+          "prompt": "Kauli ya kutendeka ya kitenzi \"vunja\" (break) inayoeleza kuwa kitu kimevunjika bila kutaja mtendaji ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mtoto»",
-            "Mpangilio usio sahihi wa viambishi katika «Binti»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Rafiki»"
+            "vunjika (Get broken / be breakable - Correct stative suffix '-ika')",
+            "vunjwa (Hii ni kauli ya kutendwa yenye mtendaji)",
+            "vunjia (Hii ni kauli ya kutendea)",
+            "vunjisha (Hii ni kauli ya kutendesha)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «vunja» kina irabu «u», hivyo huchukua «-ika» kupata «vunjika» (be broken / breakable)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Bibi\":",
+          "prompt": "Kitenzi \"soma\" (read) kinapobadilishwa kuwa kauli ya kutendeka yenye maana ya 'kusomeka / kuwa wazi kusoma', neno sahihi huwa lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Binti»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Rafiki»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mtoto»"
+            "someka (Be readable / legible - Correct stative with '-eka')",
+            "somika (Kosa la upatanisho wa irabu ya 'o')",
+            "somwa (Kauli ya kutendwa)",
+            "somesha (Kauli ya kutendesha)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kitenzi «soma» kina irabu «o», hivyo kulingana na upatanisho wa irabu huchukua «-eka» kupata «someka» (be readable / legible)."
         }
       ]
     },
@@ -8394,17 +8420,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Bibi\": Which sentence is completely correct?",
+          "prompt": "Chagua jozi zote zilizo sahihi za vitenzi na vinyambuliko vyao vya kutendeka (-ika / -eka):",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Rafiki»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mtoto»",
-            "Mpangilio usio sahihi wa viambishi katika «Binti»"
+            "vunja -> vunjika, fanya -> fanyika, andika -> andikika, soma -> someka, elewa -> eleweka, tenda -> tendeka, haribu -> haribika.",
+            "vunja -> vunjeka, fanya -> fanyeka, andika -> andikeka.",
+            "soma -> somika, elewa -> elewika, tenda -> tendika.",
+            "Kauli ya kutendeka ni sawa kabisa na kauli ya kutendwa bila tofauti yoyote ya maana."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Vitenzi vya «a, i, u» huchukua «-ika» (vunjika, fanyika, andikika, haribika) na «e, o» huchukua «-eka» (someka, eleweka, tendeka)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u20-l3": {
@@ -8412,53 +8439,62 @@
     "subject": "swahili",
     "unit": 20,
     "lessonNumber": 3,
-    "title": "Kauli ya Kutendana (-ana) (Reciprocal Verbs) (Part 3)",
+    "title": "Upanuzi wa Kauli ya Kutendekana (-ikana / -ekana: Generalized Stative & Potentiality)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.3) with authentic precision.",
+    "objective": "Kutambua na kutumia umbo lililopanuliwa la kutendekana (-ikana / -ekana) kueleza upatikanaji, kuonekana, kujulikana, na uwezekano wa jumla (general accessibility and potentiality).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Upanuzi wa Kauli ya Kutendekana katika Kiswahili (-ikana / -ekana):\n\nVitenzi kadhaa vya Kiswahili huchukua muundo mseto wa **-ikana / -ekana** (mchanganyiko wa kiambishi cha kutendeka *-ika/-eka* na kutendana *-ana*) kueleza **hali au uwezekano mpana na wa kudumu (broad potentiality, accessibility, or general state)**:\n\n1. **Vitenzi Vikuu vya Kutendekana**:\n   - *pata* (get) -> *patika* -> **patikana** (be available / accessible / obtainable / caught)\n   - *ona* (see) -> *oneka* -> **onekana** (be visible / appear / seem / be apparent)\n   - *jua* (know) -> *julika* -> **julikana** (be well known / renowned / famous)\n   - *weza* (be able) -> **wezekana** (be possible / feasible)\n   - *kula* (eat) -> *lika* -> **likana** (be edible)\n   - *kunywa* (drink) -> **nyweka** / **nywekana** (be drinkable / potable)\n   - *shinda* (win/overcome) -> **shindikana** (be impossible / unconquerable).\n\n2. **Upatanisho wa Ngeli na Sentensi za Hali (Stative Concord)**:\n   - Vitenzi hivi mara nyingi huchukua upatanisho wa ngeli ya I-ZI (*dawa zinapatikana*), YA (*mambo yanawezekana*), au kiambishi cha hali ya jumla *i-* (*inawezekana*, *inaonekana*):\n     - *Inaonekana mvua itanyesha leo.* (It seems rain will fall today.)\n     - *Jambo hili haliwezekani kamwe.* (This matter is completely impossible.)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 20."
+          "target": "Dawa za kisasa zinapatikana kwa urahisi katika maduka yote ya dawa mjini.",
+          "reading": "Da-wa za ki-sa-sa zi-na-pa-ti-ka-na kwa u-ra-hi-si ka-ti-ka ma-du-ka yo-te ya da-wa mji-ni. [ˈdɑwɑ zɑ kiˈsɑsɑ zinɑpɑtiˈkɑnɑ kwɑ urɑˈhisi ˈkɑtikɑ mɑˈdukɑ ˈjɔtɛ jɑ ˈdɑwɑ mʤiˈni] (DAH-wah zah kee-SAH-sah zee-nah-pah-tee-KAH-nah kwah oo-rah-HEE-see KAH-tee-kah mah-DOO-kah YOH-tay yah DAH-wah m-jee-NEE)",
+          "translation": "Modern medicines are available [zinapatikana: pata -> patikana] easily in all pharmacies in town."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 20-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mwanasayansi huyo anajulikana kote barani Afrika kwa uvumbuzi wake mkubwa wa nishati.",
+          "reading": "Mwa-na-sa-ya-nsi hu-yo a-na-ju-li-ka-na ko-te ba-ra-ni A-fri-ka kwa u-vu-mbu-zi wa-ke mku-bwa wa ni-sha-ti. [mwɑnɑsɑˈjɑnsi ˈhujɔ ɑnɑʤuliˈkɑnɑ ˈkɔtɛ bɑˈrɑni ˈɑfrikɑ kwɑ uvumbuˈzi ˈwɑkɛ ˈmkubwɑ wɑ niˈʃɑti] (mwah-nah-sah-YAHN-see HOO-yoh ah-nah-joo-lee-KAH-nah KOH-tay bah-RAH-nee AHF-ree-kah kwah oo-voom-BOO-zee WAH-kay M-KOO-bwah wah nee-SHAH-tee)",
+          "translation": "That scientist is well known [anajulikana: jua -> julikana] across the African continent for his great energy innovation."
+        },
+        {
+          "target": "Je, inawezekana kukamilisha ujenzi wa daraja hili kabla ya msimu wa mvua kuanza?",
+          "reading": "Je, i-na-we-ze-ka-na ku-ka-mi-li-sha u-je-nzi wa da-ra-ja hi-li ka-bla ya msi-mu wa mvu-a ku-a-nza? [ʤɛ inɑwɛzɛˈkɑnɑ kukɑmiˈliʃɑ uˈʤɛnzi wɑ dɑˈrɑʤɑ ˈhili ˈkɑblɑ jɑ msiˈmu wɑ ˈmvuɑ kuˈɑnzɑ] (JAY, ee-nah-way-zay-KAH-nah koo-kah-mee-LEE-shah oo-JAYN-zee wah dah-RAH-jah HEE-lee KAH-blah yah m-SEE-moo wah MVOO-ah koo-AHN-zah)",
+          "translation": "Is it possible [inawezekana: weza -> wezekana] to complete the construction of this bridge before the rainy season starts?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kutendekana Matrix: pata -> patikana (available); ona -> onekana (visible/seem); jua -> julikana (famous); weza -> wezekana (possible); shinda -> shindikana (impossible)!"
+      ],
+      "culturalNotes": [
+        "Kauli 'Inawezekana, timiza wajibu wako' ni kaulimbiu maarufu ya uhamasishaji wa kijamii inayotumika katika kampeni za maendeleo Afrika Mashariki."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mtoto\":",
+          "prompt": "Umbo la kutendekana la kitenzi \"pata\" linalomaanisha 'kuwa rahisi kupatikana au kuwepo' ni lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Binti»",
-            "Mpangilio usio sahihi wa viambishi katika «Rafiki»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Leo»"
+            "patikana (Be available / obtainable - Correct extended stative formation)",
+            "patana (Hii ni kauli ya kutendana: agree/make peace)",
+            "patika (Umbo fupi la kutendeka)",
+            "patiwa (Hii ni kauli ya kutendewa)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «pata» huunda «patikana» kueleza upatikanaji wa kitu: *huduma zinapatikana* (services are available)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mtoto\":",
+          "prompt": "Kitenzi \"jua\" (know) kinapobadilishwa kuwa kauli ya kutendekana kueleza 'mtu kuwa maarufu / anayejulikana na watu wengi', neno sahihi huwa lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Rafiki»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Leo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Binti»"
+            "julikana (Be well known / famous / renowned - Correct stative extension)",
+            "juana (Kuwa watu wanafahamiana)",
+            "julisha (Kufahamisha taarifa - kutendesha)",
+            "juliwa (Kauli ya kutendwa)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kitenzi «jua» hubadilika kuwa «julikana» katika kauli ya kutendekana: *kiongozi anajulikana sana*."
         }
       ]
     },
@@ -8466,17 +8502,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mtoto\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi kabisa ya vitenzi vya kutendekana (-ikana / -ekana):",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Leo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Binti»",
-            "Mpangilio usio sahihi wa viambishi katika «Rafiki»"
+            "pata -> patikana, ona -> onekana, jua -> julikana, weza -> wezekana, shinda -> shindikana.",
+            "pata -> patikisha, ona -> onekisha, jua -> julikisha.",
+            "pata -> patikana, ona -> onana, jua -> juana (mchanganyiko usio na mpangilio).",
+            "Viambishi vya -ikana na -ekana havipo katika lugha sanifu ya Kiswahili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Vitenzi sahihi vya kutendekana ni patikana, onekana, julikana, wezekana, na shindikana."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u20-l4": {
@@ -8484,53 +8521,62 @@
     "subject": "swahili",
     "unit": 20,
     "lessonNumber": 4,
-    "title": "Kauli ya Kutendana (-ana) (Reciprocal Verbs) (Part 4)",
+    "title": "Vitenzi vya Kigeni katika Kauli ya Kutendana na Kutendeka (-iana, -ika / -eka)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.4) with authentic precision.",
+    "objective": "Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana (-iana) na kauli ya kutendeka (-ika / -eka).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vitenzi vya Kigeni katika Kauli ya Kutendana na Kutendeka:\n\nVitenzi vyenye asili ya kigeni (hasa Kiarabu) vinavyoishia na irabu *-i, -u, au -e* hunyambulishwa kwa kufuata miongozo ifuatayo:\n\n1. **Kauli ya Kutendana kwa Vitenzi vya Kigeni (-iana / -ana)**:\n   - *heshimu* (respect) -> **heshimiana** (respect each other)\n   - *shukuru* (thank) -> **shukuriana** (thank one another)\n   - *samehe* (forgive) -> **sameheana** (forgive each other)\n   - *jadili* (discuss) -> **jadiliana** (deliberate / debate together)\n   - *wasili* (arrive) -> **wasiliana** (communicate with each other)\n   - *ahidi* (promise) -> **ahidiana** (promise one another).\n\n2. **Kauli ya Kutendeka kwa Vitenzi vya Kigeni (-ika / -eka)**:\n   - *badili* (change / alter) -> **badilika** (change / be altered / transform)\n   - *jaribu* (test / try) -> **jaribika** (be testable / feasible to try)\n   - *kabili* (face / confront) -> **kabilika** (be manageable / addressable)\n   - *thibiti* (be firm) -> **thibitika** (be confirmed / verified)\n   - *starehe* (relax) -> **stareheka** (be relaxed / comfortable)\n   - *safiri* (travel) -> **safirika** (be navigable / travel-friendly).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 20."
+          "target": "Wajumbe wamejadiliana kwa kina na wamesameheana tofauti zao zote za kisiasa.",
+          "reading": "Wa-ju-mbe wa-me-ja-di-lia-na kwa ki-na na wa-me-sa-me-he-a-na to-fa-u-ti za-o zo-te za ki-si-a-sa. [wɑˈʤumbɛ wɑmɛʤɑdiˈliɑnɑ kwɑ ˈkinɑ nɑ wɑmɛsɑmɛhɛˈɑnɑ tɔfɑˈuti ˈzɑɔ ˈzɔtɛ zɑ kisiˈɑsɑ] (wah-JOOM-bay wah-may-jah-dee-lee-AH-nah kwah KEE-nah nah wah-may-sah-may-hay-AH-nah toh-fah-OO-tee ZAH-oh ZOH-tay zah kee-see-AH-sah)",
+          "translation": "The delegates debated with each other [wamejadiliana: jadili -> jadiliana] deeply and forgave each other [wamesameheana: samehe -> sameheana] all their political differences."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 20-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Hali ya hewa inabadilika kwa kasi lakini changamoto hizi zinakabilika kwa mipango thabiti.",
+          "reading": "Ha-li ya he-wa i-na-ba-di-li-ka kwa ka-si la-ki-ni cha-nga-mo-to hi-zi zi-na-ka-bi-li-ka kwa mpa-ngo tha-bi-ti. [ˈhɑli jɑ ˈhɛwɑ inɑbɑdiˈlikɑ kwɑ ˈkɑsi lɑˈkini tʃɑŋɡɑˈmɔtɔ ˈhizi zinɑkɑbiˈlikɑ kwɑ ˈmpɑŋɡɔ θɑˈbiti] (HAH-lee yah HAY-wah ee-nah-bah-dee-LEE-kah kwah KAH-see lah-KEE-nee chahn-gah-MOH-toh HEE-zee zee-nah-kah-bee-LEE-kah kwah M-PAHN-goh thah-BEE-tee)",
+          "translation": "The weather is changing [inabadilika: badili -> badilika] rapidly, but these challenges are manageable [zinakabilika: kabili -> kabilika] through firm plans."
+        },
+        {
+          "target": "Tunawasiliana mara kwa mara kupitia barua pepe na njia za kidijitali za kisasa.",
+          "reading": "Tu-na-wa-si-lia-na ma-ra kwa ma-ra ku-pi-tia ba-ru-a pe-pe na njia za ki-di-ji-ta-li za ki-sa-sa. [tunɑwɑsiˈliɑnɑ ˈmɑrɑ kwɑ ˈmɑrɑ kupiˈtiɑ bɑˈruɑ ˈpɛpɛ nɑ ˈnʤiɑ zɑ kidiʤiˈtɑli zɑ kiˈsɑsɑ] (too-nah-wah-see-lee-AH-nah MAH-rah kwah MAH-rah koo-pee-TEE-ah bah-ROO-ah PAY-pay nah N-JEE-ah zah kee-dee-jee-TAH-lee zah kee-SAH-sah)",
+          "translation": "We communicate with each other [tunawasiliana: wasili -> wasiliana] regularly via email and modern digital means."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vitenzi vya Kigeni: jadili -> jadiliana (kutendana); samehe -> sameheana (kutendana); badili -> badilika (kutendeka); kabili -> kabilika (kutendeka)!"
+      ],
+      "culturalNotes": [
+        "Neno 'Kusameheana' ni sehemu muhimu ya taratibu za kimila za usuluhishi (Baraza la Wazee) katika jamii za mwambao wa Bahari ya Hindi."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Binti\":",
+          "prompt": "Kauli ya kutendana ya kitenzi cha Kiarabu \"jadili\" (discuss / debate) inayomaanisha kubadilishana mawazo kwa pamoja ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Rafiki»",
-            "Mpangilio usio sahihi wa viambishi katika «Leo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Jana»"
+            "jadiliana (Discuss / debate with each other - Correct reciprocal derivation)",
+            "jadilika (Kauli ya kutendeka)",
+            "jadilisha (Kauli ya kutendesha)",
+            "jadiliwa (Kauli ya kutendwa)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «jadili» hubadilika kuwa «jadiliana» katika kauli ya kutendana (discuss/debate together)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Binti\":",
+          "prompt": "Kitenzi cha Kiarabu \"badili\" (change / alter) kinapobadilishwa kuwa kauli ya kutendeka yenye maana ya 'kubadilika kwenyewe bila mtendaji', neno sahihi huwa lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Leo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Jana»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Rafiki»"
+            "badilika (Change / transform / be altered - Correct stative loanword form)",
+            "badilisha (Kauli ya kutendesha)",
+            "badiliana (Kauli ya kutendana: exchange with each other)",
+            "badiliwa (Kauli ya kutendwa)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kitenzi «badili» huchukua «-ika» kupata «badilika» (change / be altered)."
         }
       ]
     },
@@ -8538,17 +8584,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Binti\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi kabisa ya vitenzi vya kigeni katika kauli ya kutendana na kutendeka:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Jana»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Rafiki»",
-            "Mpangilio usio sahihi wa viambishi katika «Leo»"
+            "Kutendana: heshimiana, shukuriana, sameheana, jadiliana, wasiliana. Kutendeka: badilika, jaribika, kabilika, thibitika.",
+            "Kutendana: heshimika, shukurika, sameheka. Kutendeka: badiliana, jaribiana.",
+            "Vitenzi vya Kiarabu havina kauli ya kutendana wala kutendeka katika sarufi ya Kiswahili.",
+            "Kutendana: heshimisha, shukurisha. Kutendeka: badilishwa, jaribiwa."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Vitenzi vya kigeni hunyambulishwa kwa ufasaha kuwa heshimiana/sameheana (kutendana) na badilika/kabilika (kutendeka)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u20-l5": {
@@ -8556,53 +8603,62 @@
     "subject": "swahili",
     "unit": 20,
     "lessonNumber": 5,
-    "title": "Kauli ya Kutendana (-ana) (Reciprocal Verbs) (Part 5)",
+    "title": "Muhtasari wa Kauli ya Kutendana na Kutendeka na Mseto wa Vinyambuliko (Reciprocal & Stative Grand Synthesis)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 20: kauli ya kutendana (-ana), kauli ya kutendeka (-ika / -eka), upanuzi wa kutendekana (-ikana / -ekana), vinyambuliko vya kigeni, na kuunda miundo mseto ya vinyambuliko vyote vikuu vya vitenzi vya Kiswahili (Kutendeana, Kutendeshena, Kutendekana).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Kauli ya Kutendana na Kutendeka (Grand Synthesis):\n\n1. **Muundo Kamili wa Vinyambuliko Vikuu vya Kiswahili (Master Verb Extension Matrix)**:\n   - **Kutenda (Base Active)**: *penda, soma, vunja, andika, badili*\n   - **Kutendwa (Passive: -wa / -liwa / -lewa)**: *pendwa, somwa, vunjwa, andikwa, badiliwa*\n   - **Kutendea (Applicative: -ia / -ea / -lia / -lea)**: *pendea, somea, vunjia, andikia, badilia*\n   - **Kutendesha (Causative: -isha / -esha / -za / -sha)**: *pendeza, somesha, vunjisha, andikisha, badilisha*\n   - **Kutendana (Reciprocal: -ana)**: *pendana, saidiana, onana, jadiliana, wasiliana*\n   - **Kutendeka (Stative: -ika / -eka)**: *pendeka, someka, vunjika, andikika, badilika*\n   - **Kutendekana (Broad Stative: -ikana / -ekana)**: *patikana, onekana, julikana, wezekana, shindikana*.\n\n2. **Vinyambuliko Mseto Vilivyopangwa (Stacked Multi-Extension Forms)**:\n   - **Kutendea + Kutendana = Kutendeana** (*Reciprocal Applicative: do for one another*):\n     - *andika -> andikia -> **andikiana*** (*Wanafunzi wanaandikiana barua.*)\n     - *piga -> pigia -> **pigiana*** (*Wanapigiana simu.*)\n     - *saidia -> saidia -> **saidiana***.\n   - **Kutendesha + Kutendana = Kutendeshana** (*Reciprocal Causative: cause one another*):\n     - *soma -> somesha -> **someshana*** (*Wanafunzi wanasomeshana.*)\n     - *ona -> onyesha -> **onyeshana*** (*Wanaonyeshana mifano.*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 20."
+          "target": "Wanafunzi wanaelewana vizuri, wanasaidiana masomoni, na matokeo mazuri yanaonekana wazi katika mitihani yao.",
+          "reading": "Wa-na-fu-nzi wa-na-e-le-wa-na vi-zu-ri, wa-na-sa-i-dia-na ma-so-mo-ni, na ma-to-ke-o ma-zu-ri ya-na-o-ne-ka-na wa-zi ka-ti-ka mti-ha-ni ya-o. [wɑnɑˈfunzi wɑnɑɛlɛˈwɑnɑ viˈzuri wɑnɑsɑiˈdiɑnɑ mɑsɔˈmɔni nɑ mɑtɔkɛˈɔ mɑˈzuri jɑnɑɔnɛˈkɑnɑ ˈwɑzi ˈkɑtikɑ mtiˈhɑni ˈjɑɔ] (wah-nah-FOON-zee wah-nah-ay-lay-WAH-nah vee-ZOO-ree, wah-nah-sah-ee-dee-AH-nah mah-soh-MOH-nee, nah mah-toh-KAY-oh mah-ZOO-ree yah-nah-oh-nay-KAH-nah WAH-zee KAH-tee-kah m-tee-HAH-nee YAH-oh)",
+          "translation": "Students get along well [wanaelewana: elewa -> elewana], help each other [wanasaidiana: saidia -> saidiana] in studies, and good results are clearly visible [yanaonekana: ona -> onekana] in their exams."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 20-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mipango ya maendeleo inafanyika kwa ufanisi mkubwa pale wananchi wanapowasiliana na kukubaliana kuhusu vipaumbele vya jamii.",
+          "reading": "Mpa-ngo ya ma-e-nde-le-o i-na-fa-nyi-ka kwa u-fa-ni-si mku-bwa pa-le wa-na-nchi wa-na-po-wa-si-lia-na na ku-ku-ba-lia-na ku-hu-su vi-pa-u-mbe-le vya ja-mi-i. [ˈmpɑŋɡɔ jɑ mɑɛndɛˈlɛɔ inɑfɑˈɲikɑ kwɑ ufɑˈnisi ˈmkubwɑ ˈpɑlɛ wɑnɑˈntʃi wɑnɑpɔwɑsiˈliɑnɑ nɑ kukubɑˈliɑnɑ kuˈhusu vipɑuˈmbɛlɛ vjɑ ʤɑˈmiː] (M-PAHN-goh yah mah-ayn-day-LAY-oh ee-nah-fah-NYEE-kah kwah oo-fah-NEE-see M-KOO-bwah PAH-lay wah-nahn-CHEE wah-nah-poh-wah-see-lee-AH-nah nah koo-koo-bah-lee-AH-nah koo-HOO-soo vee-pah-oom-BAY-lay vyah jah-MEE-ee)",
+          "translation": "Development plans are accomplished [inafanyika: fanya -> fanyika] with great efficiency when citizens communicate with each other [wanapowasiliana: wasili -> wasiliana] and agree [kukubaliana] on community priorities."
+        },
+        {
+          "target": "Umahiri wa kauli ya kutendana na kauli ya kutendeka unakamilisha mzunguko wa vinyambuliko vikuu vya vitenzi katika sarufi ya Kiswahili, ukimwezesha msemaji kueleza vitendo shirikishi, hali za kimaumbile na uwezekano wa matukio kwa usahihi usio na shaka.",
+          "reading": "U-ma-hi-ri wa ka-u-li ya ku-te-nda-na na ka-u-li ya ku-te-nde-ka u-na-ka-mi-li-sha mzu-ngu-ko wa vi-nya-mbu-li-ko vi-ku-u vya vi-te-nzi ka-ti-ka sa-ru-fi ya Ki-swa-hi-li, u-ki-mwe-ze-sha mse-ma-ji ku-e-le-za vi-te-ndo shi-ri-ki-shi, ha-li za ki-ma-u-mbi-le na u-we-ze-ka-no wa ma-tu-ki-o kwa u-sa-hi-hi u-si-o na sha-ka. [umɑˈhiri wɑ kɑˈuli jɑ kutɛˈndɑnɑ nɑ kɑˈuli jɑ kutɛˈndɛkɑ unɑkɑmiˈliʃɑ mzuˈŋɡukɔ wɑ viɲɑmbuˈlikɔ viˈkuː vjɑ viˈtɛnzi ˈkɑtikɑ sɑˈrufi jɑ kiswɑˈhili ukimwɛzɛˈʃɑ msɛˈmɑʤi kuɛˈlɛzɑ viˈtɛndɔ ʃiriˈkiʃi ˈhɑli zɑ kimɑuˈmbilɛ nɑ uwɛzɛˈkɑnɔ wɑ mɑtuˈkiɔ kwɑ usɑˈhihi ˈusiɔ nɑ ˈʃɑkɑ] (oo-mah-HEE-ree wah kah-OO-lee yah koo-tayn-DAH-nah nah kah-OO-lee yah koo-tayn-DAY-kah oo-nah-kah-mee-LEE-shah m-zoon-GOO-koh wah vee-nyahm-boo-LEE-koh vee-KOO-oo vyah vee-TAYN-zee KAH-tee-kah sah-ROO-fee yah kee-swah-HEE-lee, oo-keem-way-ZAY-shah m-say-MAH-jee koo-ay-LAY-zah vee-TAYN-doh shee-ree-KEE-shee, HAH-lee zah kee-mah-oom-BEE-lay nah oo-way-zay-KAH-noh wah mah-too-KEE-oh kwah oo-sah-HEE-hee OO-see-oh nah SHAH-kah)",
+          "translation": "Mastery of reciprocal and stative forms [reciprocal & stative grand synthesis: kauli ya kutendana na kutendeka] completes the primary verb extension system in Swahili grammar, enabling unambiguous expression of mutual actions, resulting states, and potentiality."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vinyambuliko Grand Synthesis: andikia -> andikiana (pigiana simu); somesha -> someshana (fundishana); fanya -> fanyika (onekana, patikana, wezekana)!"
+      ],
+      "culturalNotes": [
+        "Falsafa ya Ubuntu / Utu katika jamii za Kibantu inajengwa juu ya maneno ya kutendana: 'Mtu ni mtu kwa sababu ya watu wengine' (I am because we are)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Rafiki\":",
+          "prompt": "Katika sentensi «Marafiki wanapigiana simu kila jioni», mnyambuliko wa kitenzi unajumuisha kauli zipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Leo»",
-            "Mpangilio usio sahihi wa viambishi katika «Jana»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kesho»"
+            "Kauli ya Kutendea na Kauli ya Kutendana (Applicative Reciprocal: piga -> pigia -> pigiana)",
+            "Kauli ya Kutendesha na Kauli ya Kutendwa",
+            "Kauli ya Kutendeka pekee",
+            "Kauli ya Kutenda ya kawaida"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «wanapigiana» kimetokana na: piga -> pigia (kutendea: call to/for) -> pigiana (kutendana: call one another)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Rafiki\":",
+          "prompt": "Sentensi ipi inachanganya kauli ya kutendana (reciprocal), kutendeka (stative), na kutendekana (broad potentiality) kwa ufasaha?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Jana»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kesho»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Leo»"
+            "Wafanyakazi wanashauriana kwa heshima, kazi zote zinafanyika kwa wakati, na mafanikio yanaonekana wazi. (Employees consult each other [wanashauriana], all tasks get done [zinafanyika], and success is clearly visible [yanaonekana].)",
+            "Wafanyakazi walifanya kazi bila kusemeshana au kufanya chochote.",
+            "Kazi zote zilifanywa na mkurugenzi pekee yake.",
+            "Kauli ya kutendana haiwezi kutumika pamoja na kauli ya kutendeka katika muktadha mmoja."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«wanashauriana» (kutendana), «zinafanyika» (kutendeka), na «yanaonekana» (kutendekana) zinakusanya kauli zote tatu kwa usahihi wa kisarufi."
         }
       ]
     },
@@ -8610,17 +8666,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Rafiki\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 20 ya Kauli ya Kutendana na Kutendeka katika lugha ya Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kesho»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Leo»",
-            "Mpangilio usio sahihi wa viambishi katika «Jana»"
+            "Wanajamii wanasaidiana katika miradi ya pamoja, changamoto zinakabilika kwa umoja wao, na inathibitika kwamba maendeleo ya kweli yanawezekana pale watu wanapopendana. (Reciprocal active [wanasaidiana, wanapopendana], loanword stative [zinakabilika, inathibitika], and broad stative [yanawezekana].)",
+            "Wanajamii hawasaidiani na hakuna jambo linalowezekana.",
+            "Watu wote walikaa kimya bila kufanya jambo lolote la maendeleo.",
+            "Vinyambuliko vya vitenzi havina umuhimu wowote katika mawasiliano ya kila siku."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Wanajamii wanasaidiana katika miradi ya pamoja, changamoto zinakabilika kwa umoja wao, na inathibitika kwamba maendeleo ya kweli yanawezekana pale watu wanapopendana.» inajumuisha nyanja zote za kauli ya kutendana na kutendeka kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u21-l1": {
