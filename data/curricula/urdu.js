@@ -6225,53 +6225,62 @@
     "subject": "urdu",
     "unit": 15,
     "lessonNumber": 1,
-    "title": "موصولہ اور جواب موصولہ جملے: جو...وہ (Correlatives) (Part 1)",
+    "title": "موصولہ اسمائے ضمیر: 'جو...وہ' / 'جس...اس' (Relative Pronouns: جو...وہ and جس...اس)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 15.1) with authentic precision.",
+    "objective": "موصولہ اور جوابِ موصولہ ضمیروں (جو...وہ، جس نے...اس نے، جنہیں...انہیں) کے نحوی اوزان اور جملہ بندی پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں موصولہ و جوابِ موصولہ اسمائے ضمیر (Relative & Correlative Pronouns):\n\n1. **موصولہ اور جوابِ موصولہ جوڑا (Relative-Correlative Pairing)**:\n   - اردو میں انگریزی کے برعکس پہلے موصولہ شق (Relative Clause) اور پھر جوابِ موصولہ شق (Correlative Clause) آتی ہے:\n     - **فاعلی حالت**: «**جو** محنت کرتا ہے، **وہ** کامیاب ہوتا ہے»؛\n     - **مغیرہ حالت (واحد)**: «**جس نے** سچ کہا، **اس کی** عزت ہوئی»؛\n     - **مغیرہ حالت (جمع)**: «**جنہوں نے** قربانی دی، **انہیں** قوم یاد رکھے گی»۔\n\n2. **تذکیر، تانیث اور مطابقت**:\n   - جوابِ موصولہ ضمیر (وہ / اس / ان) کی مطابقت ہمیشہ موصولہ اسم کے مطابق رہتی ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "جو شخص سچے دل سے علم کی تلاش میں نکلتا ہے، وہ اپنی زندگی میں کبھی نا امید نہیں ہوتا۔",
+          "reading": "Jo shakhs sachchay dil se ilm ki talaash mein nikalta hai, woh apni zindagi mein kabhi na-ummeed nahin hota. [dʒoː ʃəxs sətʃːeː d̪ɪl seː ɪlm kiː t̪əlaːʃ mẽː nɪkəlt̪aː hɛː ʋoːh əpniː zɪnd̪əɡiː mẽː kəbʱiː naː-ʊmːeːd̪ nəhĩː hoːt̪aː] (JOH SHUHKHS suhch-CHAY DEEL say EELM kee tuh-LAHSH mayn nee-KUHL-tah HY, VOH uhp-NEE zeen-duh-GEE mayn KUH-bhee nah-oom-MAYD nuh-HEEN hoh-TAH)",
+          "translation": "The person who sets out in search of knowledge with a true heart [relative: jo shakhs], he never despairs in his life [correlative: woh]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 15-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "جس عظیم قوم نے اپنے اسلاف کی قربانیوں کی قدر کی، تاریخ نے اس کا نام سنہری حروف میں رقم کیا۔",
+          "reading": "Jis azeem qawm ne apne aslaaf ki qurbaaniyon ki qadr ki, taareekh ne us ka naam sunehri huroof mein raqam kiya. [dʒɪs əziːm qɔːm neː əpneː əslaːf kiː qʊrbaːnɪjõː kiː qəd̪r kiː t̪aːriːx neː ʊs kaː naːm sʊnɛɦriː hʊruːf mẽː rəqəm kɪjaː] (JEES uh-ZEEM QOWM nay uhp-NAY uhs-LAHF kee qoor-bah-nee-YOHN kee QUHDR KEE, tah-REEKH nay OOS kah NAHM soo-NYH-ree hoo-ROOF mayn ruh-QUHM kee-YAH)",
+          "translation": "Whichever great nation valued the sacrifices of its ancestors [oblique relative: jis azeem qawm ne], history recorded its name in golden letters [correlative: us ka naam]."
+        },
+        {
+          "target": "جن نوجوانوں نے ملک و ملت کی خاطر اپنا آرام و سکون تیاگ دیا، آج قوم انہیں سلام پیش کرتی ہے۔",
+          "reading": "Jin naujawaanon ne mulk-o-millat ki khaatir apna aaraam-o-sukoon tyaag diya, aaj qawm unhein salaam pesh karti hai. [dʒɪn nɔːdʒəʋaːnõː neː mʊlk-oː-mɪlːət̪ kiː xaːt̪ɪr əpnaː aːraːm-oː-sʊkuːn t̪jaːɡ d̪ɪjaː aːdʒ qɔːm ʊnhẽː səlaːm peːʃ kərt̪iː hɛː] (JEEN now-juh-vah-NOHN nay MOOL-koh-MEEL-luht kee KHAH-teer uhp-NAH ah-RAHM-oh-soo-KOON tyahg DEE-yah, AHJ QOWM oon-HEYN suh-LAHM PAYSH kuhr-TEE HY)",
+          "translation": "The youth who sacrificed their comfort and peace for the nation [plural relative: jin naujawaanon ne], today the nation salutes them [correlative: unhein]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "موصولہ جوڑا قانون: جو کرے گا وہ بھرے گا، جس نے بویا اس نے کاٹا، جنہیں بلایا انہیں بٹھایا!"
+      ],
+      "culturalNotes": [
+        "اردو کی کلاسیکی اخلاقی داستانوں (جیسے گلستانِ سعدی کے اردو تراجم) میں انسانوں کے اوصاف اور نتائج کے بیان کے لیے 'جو...وہ' کا ڈھانچہ بنیادی ستون ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"موسم\":",
+          "prompt": "موصولہ ضمیر «جو» کے بعد جوابِ موصولہ کا درست لفظ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («سورج» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بارش» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ہوا» کی خرابی)"
+            "وہ (Woh - Standard correlative pronoun answering jo)",
+            "تم (غیر مطابقت)",
+            "میں (متکلم)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«جو» کے جواب میں ہمیشہ جوابِ موصولہ «وہ» آتا ہے (جیسے: جو محنت کرے گا وہ پھل پائے گا)۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"موسم\":",
+          "prompt": "مغیرہ حالت «جس نے...» کے جواب کا فصیح صیغہ کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بارش» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ہوا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سورج» کا غیر درست استعمال)"
+            "اس نے صلہ پایا (Us ne sila paaya - Correct correlative answering jis ne)",
+            "تم نے صلہ پایا (بے ربط)",
+            "ہم نے صلہ پایا تھا (ماضی کی بے جوڑ ساخت)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«جس نے...» کے جواب میں «اس نے...» آتا ہے۔"
         }
       ]
     },
@@ -6279,17 +6288,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"موسم\": Which sentence is completely correct?",
+          "prompt": "موصولہ اور جوابِ موصولہ ضمیروں (جو...وہ / جس...اس) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ہوا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سورج» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بارش» سے متعلق)"
+            "جس باہمت انسان نے ہر مشکل میں صبر اور استقامت کا دامن تھامے رکھا، قدرت نے اس کے لیے کامیابی کے تمام بند دروازے کھول دیے۔ (Whichever courageous human held fast to patience [jis baa-himmat insaan ne], nature opened all closed doors of success for him [us ke liye].)",
+            "جس انسان نے کھانا کھایا تھا اور وہ گاڑی بھاگی۔",
+            "جو اور وہ صرف بچوں کے سبق میں بولے جاتے ہیں۔",
+            "موصولہ جملے میں جوابِ موصولہ کا حذف کرنا لازم ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«جس باہمت انسان نے ہر مشکل میں صبر اور استقامت کا دامن تھامے رکھا، قدرت نے اس کے لیے کامیابی کے تمام بند دروازے کھول دیے۔» موصولہ اور جوابِ موصولہ ضمیروں کا شاہکار جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u15-l2": {
@@ -6297,53 +6307,62 @@
     "subject": "urdu",
     "unit": 15,
     "lessonNumber": 2,
-    "title": "موصولہ اور جواب موصولہ جملے: جو...وہ (Correlatives) (Part 2)",
+    "title": "مکانی موصولہ: 'جہاں...وہاں' اور 'جدھر...ادھر' (Spatial Correlatives)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 15.2) with authentic precision.",
+    "objective": "مکان و سمت کے موصولہ جوڑوں (جہاں...وہاں، جدھر...ادھر، جہاں کہیں بھی) کی نحوی ساخت اور جغرافیائی و ادبی استعمال پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں مکانی موصولہ و جوابِ موصولہ جملے (Spatial Correlatives):\n\n1. **مکان و سمت کے بنیادی جوڑے**:\n   - **جہاں...وہاں** (Where...there)؛\n   - **جدھر...ادھر** (Whither...thither / In whichever direction...in that direction)؛\n   - **جہاں کہیں بھی...وہاں** (Wherever...there)۔\n\n2. **وسعت اور ہمہ گیریت کی تکرار**:\n   - جب کسی مقام کے ہر گوشے کو بیان کرنا ہو:\n     - «**جہاں جہاں** بھی وہ قافلہ رکا، **وہاں وہاں** علم کی شمع روشن ہو گئی»؛\n     - «**جدھر دیکھو ادھر ہی** بہار کے رنگ بکھرے ہوئے ہیں»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "جہاں عدل و انصاف کی حکمرانی ہوتی ہے، وہاں امن، خوشحالی اور بھائی چارے کا دور دورہ ہوتا ہے۔",
+          "reading": "Jahaan adl-o-insaaf ki hukmaraani hoti hai, wahaan amn, khush-haali aur bhaai-chaaray ka daur-daura hota hai. [dʒəhaː̃ əd̪l-oː-ɪnsaːf kiː hʊkməraːniː hoːt̪iː hɛː ʋəhaː̃ əmn xʊʃ-haːliː ɔːr bʱaːʔiː-tʃaːreː kaː d̪ɔːr-d̪ɔːraː hoːt̪aː hɛː] (juh-HAHN UHD-loh-een-SAHF kee hook-muh-rah-NEE hoh-TEE HY, vuh-HAHN UHM-n, khoosh-hah-LEE owr bhah-ee-chah-RAY kah DOWR-dow-rah hoh-TAH HY)",
+          "translation": "Where there is the rule of justice and equity [spatial relative: jahaan], there peace, prosperity, and brotherhood prevail [correlative: wahaan]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 15-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "جدھر دیکھو ادھر ہی ہماری تاریخی ثقافت کے خوبصورت اور دلکش نقوش نظر آتے ہیں۔",
+          "reading": "Jidhar dekho udhar hi hamaari taareekhi saqaafat ke khoobsoorat aur dilkash nuqoosh nazar aatay hain. [dʒɪd̪ʱər d̪eːkʰoː ʊd̪ʱər hiː həm-aːriː t̪aːriːxiː s̱əqaːfət̪ keː xuːbsuːrət̪ ɔːr d̪ɪlkəʃ nʊquːʃ nəzər aːt̪eː hɛ̃ː] (jee-DHUHR DAY-khoh oo-DHUHR HEE huh-mah-REE tah-REE-khee suh-QAH-fuht kay khoob-SOO-ruht owr deel-KUHSH noo-QOOSH nuh-ZUHR ah-TAY HYN)",
+          "translation": "Whichever way you look [directional relative: jidhar], in that very direction appear the beautiful imprints of our historic culture [correlative: udhar]."
+        },
+        {
+          "target": "جہاں کہیں بھی مظلوموں پر ظلم و ستم کے پہاڑ توڑے گئے، وہاں کے باضمیر عوام نے لازوال مزاحمت کی۔",
+          "reading": "Jahaan kaheen bhi mazloomon par zulm-o-sitam ke pahaar toray gaye, wahaan ke baa-zameer awaam ne laa-zawaal muzaahmat ki. [dʒəhaː̃ kəhĩː bʱiː məzluːmõː pər zʊlm-oː-sɪt̪əm keː pəhaːɽ t̪oːɽeː ɡəjeː ʋəhaː̃ keː baː-zəmiːr əʋaːm neː laː-zəʋaːl mʊzaːhəmət̪ kiː] (juh-HAHN kuh-HEEN BHEE muhz-loo-MOHN puhr ZOOL-moh-see-TUHM kay puh-HAHR TOH-ray guh-YAY, vuh-HAHN kay bah-zuh-MEER uh-VAHM nay lah-zuh-VAHL moo-zah-huh-MUHT KEE)",
+          "translation": "Wherever mountains of oppression were broken upon the oppressed [jahaan kaheen bhi], the conscientious public of that place mounted immortal resistance [wahaan]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مکانی جوڑے: جہاں روشنی ہوگی وہاں اندھیرا نہیں ہوگا، جدھر نظر جائے ادھر حسن دکھائی دے!"
+      ],
+      "culturalNotes": [
+        "اردو غزل میں محبوب کے سراپا اور جلووں کے تذکرے میں 'جدھر دیکھوں ادھر تو ہے' کا صیغہ روحانی اور مجازی شاعری دونوں میں بلند مقام رکھتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"سورج\":",
+          "prompt": "مکانی موصولہ «جہاں...» کے ساتھ درست جوابِ موصولہ کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («بارش» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ہوا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بادل» کی خرابی)"
+            "وہاں (Wahaan - Correct spatial correlative paired with jahaan)",
+            "تب (زمانی)",
+            "ویسا (کیفیتی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "مکانی موصولہ 'جہاں' کا جوڑا ہمیشہ «وہاں» ہوتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"سورج\":",
+          "prompt": "سمت کا اشارہ کرنے والے لفظ «جدھر...» کا فصیح جوڑا کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ہوا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بادل» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بارش» کا غیر درست استعمال)"
+            "ادھر (Udhar - Correct directional correlative for jidhar)",
+            "ادھر سے ادھر تک (غیر موزوں)",
+            "وہاں پر رویا (بے معنی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "سمت کے لیے «جدھر... ادھر» مستعمل ہے۔"
         }
       ]
     },
@@ -6351,17 +6370,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"سورج\": Which sentence is completely correct?",
+          "prompt": "مکانی موصولہ جملوں (Spatial Correlatives: جہاں...وہاں) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بادل» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بارش» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ہوا» سے متعلق)"
+            "جہاں سچائی اور دیانت داری کی قدر کی جاتی ہے، وہاں معاشرہ فکری اور اخلاقی پستی کے عذاب سے ہمیشہ محفوظ رہتا ہے۔ (Where truth and honesty are valued [jahaan], there society remains forever safe from moral decay [wahaan].)",
+            "جہاں سچائی تھی وہاں کھانا کھایا تھا اور رویا۔",
+            "جہاں اور وہاں صرف جنگل کے راستوں پر بولا جاتا ہے۔",
+            "وہاں کو ہمیشہ جملے کے بالکل پہلے لفظ کے طور پر لکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«جہاں سچائی اور دیانت داری کی قدر کی جاتی ہے، وہاں معاشرہ فکری اور اخلاقی پستی کے عذاب سے ہمیشہ محفوظ رہتا ہے۔» مکانی موصولہ کا مکمل اور فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u15-l3": {
@@ -6369,53 +6389,62 @@
     "subject": "urdu",
     "unit": 15,
     "lessonNumber": 3,
-    "title": "موصولہ اور جواب موصولہ جملے: جو...وہ (Correlatives) (Part 3)",
+    "title": "زمانی موصولہ: 'جب...تب' اور 'جب تک...تب تک' (Temporal Correlatives)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 15.3) with authentic precision.",
+    "objective": "وقت اور مدت کے موصولہ جوڑوں (جب...تب/تو، جب تک...تب تک، جونہی...تیونہی) کے نحوی اطلاق اور فصاحت پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں زمانی موصولہ و جوابِ موصولہ جملے (Temporal Correlatives):\n\n1. **وقت کے موصولہ جوڑے (Temporal Pairs)**:\n   - **جب...تب / تو** (When...then)؛\n   - **جب تک...تب تک / تک** (As long as / Until...till then)؛\n   - **جونہی...تیونہی / ویسے ہی** (As soon as...immediately)۔\n\n2. **مدت اور تسلسل کا اظہار**:\n   - جب کسی عمل کی حد بندی کرنی ہو:\n     - «**جب تک** جان میں جان ہے، **تب تک** حق کی آواز بلند رہے گی»؛\n     - «**جونہی** گھنٹی بجی، **تیونہی** تمام طلبہ کلاسوں کی طرف دوڑ پڑے»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "جب انسان اپنی خامیوں کا ادراک کر لیتا ہے، تب اس کی اصلاح اور فکری بیداری کا حقیقی سفر شروع ہوتا ہے۔",
+          "reading": "Jab insaan apni khaamiyon ka idraak kar leta hai, tab us ki islaah aur fikri bedaari ka haqeeqi safar shuroo hota hai. [dʒəb ɪnsaːn əpniː xaːmɪjõː kaː ɪd̪raːk kər leːt̪aː hɛː t̪əb ʊs kiː ɪslaːh ɔːr fɪkriː beːd̪aːriː kaː hʌqiːqiː səfər ʃʊruːʔ hoːt̪aː hɛː] (JUHB een-SAHN uhp-NEE khah-mee-YOHN kah eed-RAHK kuhr LAY-tah HY, TUHB OOS kee ees-LAHH owr feek-REE bay-dah-REE kah huh-qee-QEE suh-FUHR shoo-ROO hoh-TAH HY)",
+          "translation": "When a human realizes his own flaws [temporal relative: jab], then the true journey of his reform and intellectual awakening begins [correlative: tab]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 15-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "جب تک ہمارے دلوں میں وطن کی محبت اور اتحاد کا جذبہ زندہ ہے، تب تک کوئی دشمن ہماری آزادی چھین نہیں سکتا۔",
+          "reading": "Jab tak hamaare dilon mein watan ki mohabbat aur ittehaad ka jazba zinda hai, tab tak koi dushman hamaari aazaadi chheen nahin sakta. [dʒəb t̪ək həm-aːreː d̪ɪlõː mẽː ʋət̪ən kiː mʊhʌbːət̪ ɔːr ɪt̪ːɪhaːd̪ kaː dʒəzbaː zɪnd̪aː hɛː t̪əb t̪ək koːiː d̪ʊʃmən həm-aːriː aːzaːd̪iː tʃʰiːn nəhĩː səktaː] (JUHB TUHK huh-mah-RAY DEE-lohn mayn vuh-TUHN kee moo-huhb-BUHT owr eet-tuh-HAHD kah JUHZ-bah zeen-DAH HY, TUHB TUHK koh-EE doosh-MUHN huh-mah-REE ah-zah-DEE chheen nuh-HEEN suhk-TAH)",
+          "translation": "As long as the spirit of love for homeland and unity lives in our hearts [duration: jab tak], till then no enemy can snatch our freedom [correlative: tab tak]."
+        },
+        {
+          "target": "جونہی سورج کی پہلی کرن نمودار ہوئی، تیونہی پوری وادی نغمۂ سحر اور پرندوں کی چہچہاہٹ سے گونج اٹھی۔",
+          "reading": "Joonhi sooraj ki pehli kiran namoodaar hui, tyonhi poori waadi naghma-e-sehar aur parindon ki chahchahaahat se goonj uthi. [dʒuː̃hiː suːrədʒ kiː pɛɦliː kɪrən nəmuːd̪aːr hʊiː t̪jõːhiː puːriː ʋaːd̪iː nəɣmaː-eː-səhər ɔːr pərɪnd̪õː kiː tʃəhtʃəhaːhəʈ seː ɡuːndʒ ʊʈʰiː] (JOON-hee SOO-ruhj kee PYH-lee KEE-ruhn nuh-moo-DAHR hoo-EE, TYOHN-hee POO-ree VAH-dee nuhgh-mah-ay-SUH-huhr owr puh-reen-DOHN kee chuhh-chuh-hah-HUHT say GOONJ ooth-THEE)",
+          "translation": "As soon as the first ray of the sun appeared [instantaneous relative: joonhi], immediately the entire valley echoed with morning melody and birds' chirping [correlative: tyonhi]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "زمانی جوڑے: جب سچ بولا تب عزت ملی، جب تک جان ہے تب تک ارمان ہے، جونہی دیکھا تیونہی پہچان لیا!"
+      ],
+      "culturalNotes": [
+        "اردو کی تاریخی دستاویزات میں قوموں کے عروج و زوال کی شرائط واضح کرنے کے لیے 'جب تک...تب تک' کا اسلوب ناگزیر مانا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"بارش\":",
+          "prompt": "مدت ظاہر کرنے والے موصولہ «جب تک...» کا درست جوڑا کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («ہوا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بادل» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («گرمی» کی خرابی)"
+            "تب تک (Tab tak - Correct duration correlative answering jab tak)",
+            "وہاں تک (مکانی)",
+            "جیسے تک (غلط ترکیب)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«جب تک...» کا صحیح نحوی جوڑا «تب تک» ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"بارش\":",
+          "prompt": "فوری واقعے کے لیے «جونہی...» کا فصیح جوابِ موصولہ کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بادل» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («گرمی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ہوا» کا غیر درست استعمال)"
+            "تیونہی (Tyonhi - Exact correlative pairing with instantaneous joonhi)",
+            "تب ہی (عام انداز)",
+            "جہاں ہی (بے جوڑ)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«جونہی... تیونہی» ادبی اور فصیح اردو کا کلاسیکی جوڑا ہے۔"
         }
       ]
     },
@@ -6423,17 +6452,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"بارش\": Which sentence is completely correct?",
+          "prompt": "زمانی موصولہ جملوں (Temporal Correlatives) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («گرمی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ہوا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بادل» سے متعلق)"
+            "جب مظلوموں کے حقوق پامال کیے جاتے ہیں، تب تاریخ کا دھارا ظالموں کے تخت و تاج الٹنے کے لیے حرکت میں آتا ہے۔ (When the rights of the oppressed are trampled [jab], then the current of history moves to overturn the thrones of tyrants [tab].)",
+            "جب حقوق پامال ہوا تھا تب چائے پیا تھا۔",
+            "جب اور تب صرف گھڑی کی سوئیوں کے لیے بولے جاتے ہیں۔",
+            "تیونہی کو ہمیشہ جملے کے بالکل درمیان میں دو بار لکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«جب مظلوموں کے حقوق پامال کیے جاتے ہیں، تب تاریخ کا دھارا ظالموں کے تخت و تاج الٹنے کے لیے حرکت میں آتا ہے۔» زمانی موصولہ کا فصیح اور اثر انگیز جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u15-l4": {
@@ -6441,53 +6471,62 @@
     "subject": "urdu",
     "unit": 15,
     "lessonNumber": 4,
-    "title": "موصولہ اور جواب موصولہ جملے: جو...وہ (Correlatives) (Part 4)",
+    "title": "کیفیتی اور مقداری موصولہ: 'جیسا...ویسا' اور 'جتنا...اتنا' (Manner & Quantity)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 15.4) with authentic precision.",
+    "objective": "کیفیت کے موصولہ جوڑے (جیسا...ویسا) اور مقدار و تناسب کے جوڑے (جتنا...اتنا) کی تذکیر و تانیث اور نحوی مطابقت پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں کیفیتی اور مقداری موصولہ و جوابِ موصولہ ساختیں:\n\n1. **کیفیتی موصولہ جوڑے (Manner Correlatives: 'Jaisa...Waisa')**:\n   - عمل یا صفت کی نوعیت اور کیفیت کا اظہار:\n     - «**جیسی** کرنی، **ویسی** بھرنی»؛\n     - «**جیسا** استاد کا اخلاق ہوگا، **ویسا ہی** شاگرد کا کردار بنے گا»۔\n\n2. **مقداری اور تناسبی موصولہ جوڑے (Quantitative Correlatives: 'Jitna...Itna')**:\n   - کمیت، مقدار یا متناسب نتائج کا اظہار:\n     - «**جتنی** سخت محنت کرو گے، **اتنی ہی** شاندار کامیابی پاؤ گے»؛\n     - «**جتنے** لوگ شریک تھے، **اتنے ہی** چراغ روشن کیے گئے»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "جیسا پاکیزہ اور مخلص انسان کا کردار ہوتا ہے، ویسی ہی دلکشی اور وقار اس کی گفتگو میں جھلکتا ہے۔",
+          "reading": "Jaisa paakeeza aur mukhlis insaan ka kirdaar hota hai, waisi hi dilkashi aur waqaar us ki guftagu mein jhalakta hai. [dʒɛːsaː paːkiːzaː ɔːr mʊxlɪs ɪnsaːn kaː kɪrdaːr hoːt̪aː hɛː ʋɛːsiː hiː d̪ɪlkəʃiː ɔːr ʋəqaːr ʊs kiː ɡʊft̪əɡuː mẽː dʒʱələkt̪aː hɛː] (JY-sah pah-KEE-zah owr mookh-LEES een-SAHN kah keer-DAHR hoh-TAH HY, VY-see HEE deel-KUH-shee owr vuh-QAHR OOS kee goof-tuh-GOO mayn juh-LUHK-tah HY)",
+          "translation": "Just as pure and sincere a person's character is [manner relative: jaisa], so much charm and dignity shines in his speech [correlative: waisi]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 15-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "جتنی سخت اور دشوار گزار جدوجہد ہوگی، اتنی ہی شاندار اور تاریخ ساز کامیابی نصیب ہوگی۔",
+          "reading": "Jitni sakht aur dushwaar-guzaar jad-o-jehad hogi, itni hi shaandaar aur taareekh-saaz kaamyaabi naseeb hogi. [dʒɪt̪niː səxt̪ ɔːr d̪ʊʃʋaːr-ɡʊzaːr dʒəd̪-oː-dʒɛɦd̪ hoːɡiː ɪt̪niː hiː ʃaːndaːr ɔːr t̪aːriːx-saːz kaːmjaːbiː nəsiːb hoːɡiː] (JEET-nee SUHKHT owr doosh-VAHR-goo-zahr jud-oh-JYHD hoh-GEE, EET-nee HEE shahn-DAHR owr tah-REEKH-sahz kahm-yah-BEE nuh-SEEB hoh-GEE)",
+          "translation": "The harder and more arduous the struggle is [proportional quantity: jitni], the more splendid and historic the success attained will be [correlative: itni]."
+        },
+        {
+          "target": "جیسے جیسے سائنسی علوم نے ترقی کی، ویسے ویسے انسانی زندگی کی پرانی مشکلات حل ہوتی چلی گئیں۔",
+          "reading": "Jaisay jaisay sainsi uloom ne taraqqi ki, waisay waisay insaani zindagi ki puraani mushkilaat hal hoti chali gayeen. [dʒɛːseː dʒɛːseː saːɪnsiː ʊluːm neː t̪ərəqːiː kiː ʋɛːseː ʋɛːseː ɪnsaːniː zɪnd̪əɡiː kiː pʊraːniː mʊʃkɪlaːt̪ həl hoːt̪iː tʃəliː ɡəjẽː] (JY-say JY-say sah-EEN-see oo-LOOM nay tuh-ruhq-QEE KEE, VY-say VY-say een-sah-NEE zeen-duh-GEE kee poo-RAH-nee moosh-kee-LAHT HUHL hoh-TEE chuh-LEE guh-YEEN)",
+          "translation": "Gradually as scientific disciplines progressed [gradual progression: jaisay jaisay], in that same manner the old problems of human life kept getting resolved [waisay waisay]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "کیفیت و مقدار: جیسا بوجھ ویسا اجر (کیفیت)، جتنی محنت اتنا پھل (مقدار)!"
+      ],
+      "culturalNotes": [
+        "اردو ضرب الامثال (جیسے 'جیسا منہ ویسی چپیڑ' یا 'جتنی چادر اتنے پاؤں پھیلانا') میں معاشرتی دانائی کا یہی موصولہ سانچہ استعمال ہوا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"ہوا\":",
+          "prompt": "مؤنث اسم «محنت» کے ساتھ درست مقداری موصولہ جوڑا کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («بادل» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («گرمی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سردی» کی خرابی)"
+            "جتنی محنت اتنی کامیابی (Jitni mehnat itni kaamyaabi - Correct feminine quantitative agreement)",
+            "جتنا محنت اتنا کامیابی (تذکیر کی خامی)",
+            "جتنے محنت اتنے کامیابی (جمع کی غلطی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "لفظ 'محنت' اور 'کامیابی' مؤنث ہیں، اس لیے «جتنی... اتنی» درست ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"ہوا\":",
+          "prompt": "کیفیت کے موازنے کا فصیح محاوراتی جملہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («گرمی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سردی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بادل» کا غیر درست استعمال)"
+            "جیسا کرو گے ویسا بھرو گے (As you do, so shall you reap - Classic manner correlative pairing)",
+            "جیسا کرو گے تب روؤ گے (بے جوڑ ساخت)",
+            "جیسا کرو گے وہاں جاؤ گے (مکانی بے ربطی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«جیسا کرو گے ویسا بھرو گے» کیفیتی موصولہ کا معروف ترین جملہ ہے۔"
         }
       ]
     },
@@ -6495,17 +6534,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"ہوا\": Which sentence is completely correct?",
+          "prompt": "کیفیتی اور مقداری موصولہ جملوں (Manner & Quantitative Correlatives) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سردی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بادل» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («گرمی» سے متعلق)"
+            "جتنا بڑا اور بلند انسان کا نصب العین ہوتا ہے، ویسی ہی غیر معمولی قربانی اور صبر اس کی منزل کا تقاضا بنتی ہے۔ (The greater a person's life goal is [jitna bara], of such exceptional sacrifice and patience [waisi hi qurbaani] does his destination demand.)",
+            "جتنا بڑا نصب العین تھا اتنی روٹی کھایا تھا۔",
+            "جیسا اور ویسا صرف بازار میں تولنے کے لیے بولے جاتے ہیں۔",
+            "اتنا کو ہمیشہ جملے کے پہلے لفظ کے طور پر لکھنا لازم ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«جتنا بڑا اور بلند انسان کا نصب العین ہوتا ہے، ویسی ہی غیر معمولی قربانی اور صبر اس کی منزل کا تقاضا بنتی ہے۔» مقدار اور کیفیت کے موصولہ امتزاج کا فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u15-l5": {
@@ -6513,53 +6553,62 @@
     "subject": "urdu",
     "unit": 15,
     "lessonNumber": 5,
-    "title": "موصولہ اور جواب موصولہ جملے: جو...وہ (Correlatives) (Part 5)",
+    "title": "موصولہ اور جوابِ موصولہ جملوں کا جامع سمیکن (Correlative Grand Synthesis)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 15.5) with authentic precision.",
+    "objective": "جو...وہ، جہاں...وہاں، جب...تب، جیسا...ویسا اور جتنا...اتنا کو ایک ہمہ گیر اور مربوط ادبی شاہکار نثری بیانیے میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "موصولہ اور جوابِ موصولہ جملوں کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **نثری بلاغت اور فلسفیانہ گہرائی**:\n   - جب فاعل (جو...وہ)، مکان (جہاں...وہاں)، زمان (جب...تب)، کیفیت (جیسا...ویسا) اور مقدار (جتنا...اتنا) کا ایک ہی مربوط نثری پیرا گراف میں تانا بانا بنا جائے تو کلام کو معراج حاصل ہوتی ہے:\n     - **فاعل موصولہ**: «**جو** قوم اپنے نصب العین پر کاربند رہتی ہے»؛\n     - **مکان موصولہ**: «**جہاں** عدل کی بنیاد رکھی جائے»؛\n     - **زمان موصولہ**: «**جب** کڑا وقت آتا ہے»؛\n     - **مقدار و کیفیت**: «**جتنی** قربانی دیتی ہے، **ویسی ہی** لازوال فتح پاتی ہے»۔\n\n2. **ادبی و تحریری حسن**:\n   - یہ متوازن اور شگفتہ اسلوب اردو کے کلاسیکی فلسفے اور سیاسی بیانیے کا روشن مینار ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "جو قومیں اپنے تاریخی اصولوں پر قائم رہتی ہیں، جہاں عدل و انصاف کی حکمرانی ہوتی ہے اور جب بھی ان پر کڑا وقت آئے وہ سیسہ پلائی دیوار بن جاتی ہیں، جتنا وہ قربانی دیتی ہیں ویسی ہی لازوال فتح ان کا مقدر بنتی ہے۔",
+          "reading": "Jo qawmein apne taareekhi usoolon par qaa'im rehti hain, jahaan adl-o-insaaf ki hukmaraani hoti hai aur jab bhi un par kara waqt aaye woh seesa pilaayi deewaar ban jaati hain, jitna woh qurbaani deti hain waisi hi laa-zawaal fateh un ka muqaddar banti hai. [dʒoː qɔːmẽː əpneː t̪aːriːxiː ʊsuːlõː pər qaːʔɪm rəht̪iː hɛ̃ː dʒəhaː̃ əd̪l-oː-ɪnsaːf kiː hʊkməraːniː hoːt̪iː hɛː ɔːr dʒəb bʱiː ʊn pər kəɽaː ʋəqt̪ aːjeː ʋoːh siːsaː pɪlaːjiː d̪iːʋaːr bən dʒaːt̪iː hɛ̃ː dʒɪt̪naː ʋoːh qʊrbaːniː d̪eːt̪iː hɛ̃ː ʋɛːsiː hiː laː-zəʋaːl fət̪əh ʊn kaː mʊqəd̪ːər bənt̪iː hɛː] (JOH QOW-mayn uhp-NAY tah-REE-khee oo-SOO-lohn puhr QAH-eem ruh-TEE HYN, juh-HAHN UHD-loh-een-SAHF kee hook-muh-rah-NEE hoh-TEE HY owr JUHB BHEE OON puhr KUH-dah VUHKT ah-YAY VOH SEE-sah pee-LAH-yee dee-VAHR BUHN jah-TEE HYN, JEET-nah VOH qoor-bah-NEE day-TEE HYN VY-see HEE lah-zuh-VAHL FUH-tuh OON kah moo-quhd-DUHR buhn-TEE HY)",
+          "translation": "The nations who stand firm upon their historic principles [jo], where the rule of justice prevails [jahaan], and whenever tough times come [jab] they become a lead-poured wall, the more sacrifice they render [jitna], of such immortal victory does their destiny partake [waisi hi]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 15-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "جس دیانت دار محقق نے جتنا وقت اور محنت علمی تحقیق پر صرف کی، اس نے ویسا ہی بے مثال اور گراں قدر شاہکار تخلیق کیا۔",
+          "reading": "Jis diyaanat-daar muhaqqiq ne jitna waqt aur mehnat ilmi tehqeeq par sarf ki, us ne waisa hi bay-misaal aur giraan-qadr shaahkaar takhleeq kiya. [dʒɪs d̪ɪjaːnət̪-d̪aːr mʊhəqːɪq neː dʒɪt̪naː ʋəqt̪ ɔːr mɛɦnət̪ ɪlmiː t̪əɦqiːq pər sərf kiː ʊs neː ʋɛːsaː hiː beː-mɪsaːl ɔːr ɡɪraː̃-qəd̪r ʃaːhkaːr t̪əxliːq kɪjaː] (JEES dee-yah-nuht-DAHR moo-huhq-QEEQ nay JEET-nah VUHKT owr MYH-nuht EEL-mee tuhh-QEEQ puhr SUHRF KEE, OOS nay VY-sah HEE bay-mee-SAHL owr gee-rahn-QUHDR shah-HAH-kahr tuhkh-LEEQ kee-YAH)",
+          "translation": "Whichever honest researcher [jis] spent as much time and hard work on scholarly research [jitna waqt], he created [us ne] just as peerless and priceless a masterpiece [waisa hi]."
+        },
+        {
+          "target": "جہاں کہیں بھی آزادی کے متوالوں نے قربانی کا نذرانہ پیش کیا، جب تک تاریخ زندہ ہے تب تک دنیا ان کے کارناموں کو قدر کی نگاہ سے دیکھے گی۔",
+          "reading": "Jahaan kaheen bhi aazaadi ke matwaalon ne qurbaani ka nazraana pesh kiya, jab tak taareekh zinda hai tab tak duniya un ke kaarnaamon ko qadr ki nigaah se dekhay gi. [dʒəhaː̃ kəhĩː bʱiː aːzaːd̪iː keː mət̪ʋaːlõː neː qʊrbaːniː kaː nəzraːnəh peːʃ kɪjaː dʒəb t̪ək t̪aːriːx zɪnd̪aː hɛː t̪əb t̪ək d̪ʊnɪjaː ʊn keː kaːrnaːmõː koː qəd̪r kiː nɪɡaːh seː d̪eːkʰeː ɡiː] (juh-HAHN kuh-HEEN BHEE ah-zah-DEE kay muht-vah-LOHN nay qoor-bah-NEE kah nuhz-RAH-nuh PAYSH kee-YAH, JUHB TUHK tah-REEKH zeen-DAH HY TUHB TUHK doon-YAH OON kay kahr-nah-MOHN koh QUHDR kee nee-GAHH say DAY-khay GEE)",
+          "translation": "Wherever freedom enthusiasts offered the tribute of sacrifice [jahaan], as long as history is alive [jab tak], till then the world will look upon their deeds with deep reverence [tab tak]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع موصولات سمیکن: جو (فاعل)، جہاں (مکان)، جب (زمان)، جتنا (مقدار)، ویسا (کیفیت) = بلاغت کی معراج!"
+      ],
+      "culturalNotes": [
+        "اردو کے کلاسیکی خطباء (جیسے علامہ شبلی نعمانی اور ابو الکلام آزاد) کی فکری تحریروں میں موصولاتی جملوں کا یہ جامع سمیکن فصاحت کا سب سے معتبر پیمانہ مانا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"بادل\":",
+          "prompt": "موصولہ جملوں کے جامع امتزاج کا فصیح ترین جملہ منتخب کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («گرمی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سردی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بہار» کی خرابی)"
+            "جو شخص جہاں بھی رہے، جب تک سچ پر قائم رہے گا ویسا ہی صلہ پائے گا (Masterful synthesis of jo, jahaan, jab tak, waisa)",
+            "جو شخص جہاں تھا وہاں رویا تھا تب سویا (بے ربط الفاظ)",
+            "وہ جہاں سے جتنا آیا تھا (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«جو شخص جہاں بھی رہے، جب تک سچ پر قائم رہے گا ویسا ہی صلہ پائے گا» تمام موصولاتی پہلوؤں کا متوازن امتزاج ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"بادل\":",
+          "prompt": "موصولہ اور جوابِ موصولہ جملوں کا جامع سمیکن اردو زبان کو کیا وقار بخشتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سردی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بہار» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («گرمی» کا غیر درست استعمال)"
+            "فکری شرائط، زمانی و مکانی تناظر اور نتائج کو ایک ہی متوازن اور پرشکوہ سانچے میں بیان کرنا (Articulating philosophical conditions, spatio-temporal contexts and outcomes in grand balanced prose)",
+            "صرف جملوں کی لمبائی بڑھانا",
+            "صرف لغت کو دہرانا",
+            "بے معنی قیاس آرائیاں کرنا"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ فکری شرائط، زمانی و مکانی تناظر اور نتائج کو پرشکوہ سانچے میں سمو دیتا ہے۔"
         }
       ]
     },
@@ -6567,17 +6616,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"بادل\": Which sentence is completely correct?",
+          "prompt": "موصولہ اور جوابِ موصولہ جملوں کے جامع سمیکن (Correlative Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بہار» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («گرمی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سردی» سے متعلق)"
+            "جو قومیں جہاں بھی آباد رہیں، جب تک انہوں نے علم و ہنر کا دامن تھامے رکھا، جتنا انہوں نے قربانی دی، ویسی ہی تاریخ ساز قیادت اور فتح ان کا مقدر بنی۔ (The nations who [jo], wherever settled [jahaan], as long as they held fast to knowledge [jab tak], as much sacrifice as they gave [jitna], of such historic leadership and victory did their destiny partake [waisi hi].)",
+            "جو قومیں چائے پیا تھا وہاں گاڑی روتی تھی۔",
+            "جامع سمیکن صرف عدالت کے فیصلے میں بولا جاتا ہے۔",
+            "موصولہ جملے صرف پرانی کتابوں میں ہوتے ہیں۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«جو قومیں جہاں بھی آباد رہیں، جب تک انہوں نے علم و ہنر کا دامن تھامے رکھا، جتنا انہوں نے قربانی دی، ویسی ہی تاریخ ساز قیادت اور فتح ان کا مقدر بنی۔» موصولہ جملوں کے تمام رخنوں کا شاہکار سمیکن ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u16-l1": {
