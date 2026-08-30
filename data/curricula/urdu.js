@@ -13605,53 +13605,62 @@
     "subject": "urdu",
     "unit": 33,
     "lessonNumber": 1,
-    "title": "اعلیٰ ادبی محاورات اور ضرب الامثال (Advanced Idioms) (Part 1)",
+    "title": "اردو لسانیات کی تاریخ، آریائی جڑیں اور پراکرتیں (Urdu Linguistics: Indo-Aryan Roots & Prakrits)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 33.1) with authentic precision.",
+    "objective": "اردو کے لسانی شجرۂ نسب، ہند آریائی ماخذ، شورسینی پراکرت و اپ بھرنش، کھڑی بولی، صوتیات (معکوسی و ہکاری آوازیں)، اور صرفی و نحوی ساخت پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان کا لسانی شجرۂ نسب اور تاریخی ارتقا (Urdu Historical Linguistics):\n\n1. **ہند آریائی ارتقا کے ادوار**:\n   - «**قدیم ہند آریائی**»: سنسکرت اور ویدک روایات؛\n   - «**وسطی ہند آریائی**»: پراکرتیں، بالخصوص **شورسینی پراکرت اور اپ بھرنش**؛\n   - «**جدید ہند آریائی**»: دہلی و نواح کی **کھڑی بولی** جو اردو کی اساسی گرامر بنی۔\n\n2. **صوتیاتی اور نحوی خصوصیات**:\n   - «**صوتیات (Phonology)**: معکوسی آوازیں (Retroflex: ٹ، ڈ، ڑ) اور ہکاری آوازیں (Aspirated: بھ، پھ، تھ، ٹھ)»؛\n   - «عربی، فارسی اور ترکی کے ذخیرۂ الفاظ کا دیسی ہندوی گرامر کے ساتھ ملاپ»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "تقابلی لسانیات کی تحقیق سے ثابت ہوتا ہے کہ اردو کی ساخت اور بنیادی صرف و نحو شورسینی اپ بھرنش اور کھڑی بولی سے ماخوذ ہے۔",
+          "reading": "Taqabuli lisaaniyaat ki tehqeeq se saabit hota hai keh Urdu ki saakht aur bunyaadi sarf o nahw Shourseni Apabhramsha aur Khari Boli se maakhooz hai. [t̪əqaːbʊliː lɪsaːnɪjaːt̪ kiː t̪ɛhqiːq seː saːbɪt̪ hoːt̪aː hɛː kɛh ʊrd̪uː kiː saːxt ɔːr bʊnjaːd̪iː sərf oː nəhʋ ʃɔːrseːniː əpəbʱrəmʃaː ɔːr kʰəɽiː boːliː seː maːxuːz hɛː] (tuh-qah-boo-LEE lee-sah-nee-YAHT kee tyh-QEEQ say sah-BEET hoh-TAH HY kyh OOR-doo kee SAAKHT owr boon-yah-DEE suhrf oh nuh-HOO Showr-say-NEE uh-puhb-hruhm-SHAH owr khuh-REE boh-LEE say mah-KHOOZ HY)",
+          "translation": "Research in comparative linguistics [linguistics: lisaaniyaat] proves that Urdu's structure and fundamental grammar are derived from Shauraseni Apabhramsha and Khari Boli."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 33-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اردو نے فارسی اور عربی کے وسیع علمی ذخائر کو اپنے اندر سمو کر بھی اپنے ہند آریائی صوتیاتی اور نحوی مزاج کو برقرار رکھا۔",
+          "reading": "Urdu ne Faarsi aur Arabi ke wasee' ilmi zakhaa'ir ko apnay andar samoh kar bhi apnay Hind-Aaryaa'i sowtiyaati aur nahwi mizaaj ko barqaraar rakkha. [ʊrd̪uː neː faːrsiː ɔːr ərəbiː keː ʋəsiːʔ ɪlmiː zəxaːʔɪr koː əpneː ənd̪ər səmoːh kər bʱiː əpneː hɪnd̪-aːrjaːʔiː sɔːt̪ɪjaːt̪iː ɔːr nʌhwiː mɪzaːdʒ koː bərqəraːr rəkːʰaː] (OOR-doo nay fahr-SEE owr uh-ruh-BEE kay wuh-SEE eel-MEE zuh-khah-EE-eer koh uhp-NAY uhn-DUHR suh-MOH kuhr BHEE uhp-NAY heend-ahr-yah-EE sow-tee-yah-TEE owr nuh-huh-WEE mee-ZAHJ koh buhr-quh-RAHR ruhk-KHAH)",
+          "translation": "Even after assimilating vast intellectual treasures of Persian and Arabic, Urdu rigorously preserved its Indo-Aryan phonological and syntactic temperament."
+        },
+        {
+          "target": "ہکاری اور معکوسی آوازوں کا تنوع اردو زبان کو دنیا کی دیگر بڑی زبانوں کے مقابلے میں ایک منفرد اور نغمگی سے بھرپور صوتیاتی شناخت بخشتا ہے۔",
+          "reading": "Hakaari aur ma'koosi aawaazon ka tanawwo Urdu zabaan ko dunya ki deegar barri zabaanon ke muqaablay mein aik munfarid aur naghmagi se bharpoor sowtiyaati shanaakht bakhshta hai. [həkaːriː ɔːr məʔkuːsiː aːʋaːzõː kaː t̪ənəʋːʊʔ ʊrd̪uː zəbaːn koː d̪ʊnjaː kiː d̪eːɡər bəɽiː zəbaːnõː keː mʊqaːbəleː mẽː eːk mʊnfərɪd̪ ɔːr nəɣməɡiː seː bʱərpuːr sɔːt̪ɪjaːt̪iː ʃənaːxt bəxʃt̪aː hɛː] (huh-kah-REE owr muh-koo-SEE ah-wah-ZOHN kah tuh-nuhv-WOO OOR-doo zuh-BAHN koh doon-YAH kee day-GUHR buhr-REE zuh-bah-NOHN kay moo-qahb-LAY mayn AYK moon-fuh-REED owr nuhgh-muh-GEE say bhuhr-POOR sow-tee-yah-TEE shuh-NAHKHT buhkhsh-TAH HY)",
+          "translation": "The richness of aspirated and retroflex phonemes bestows upon the Urdu language a distinct and melodious phonetic identity compared to other major global languages."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "لسانیاتی شجرہ: ہند آریائی -> شورسینی اپ بھرنش -> کھڑی بولی + معکوسی و ہکاری صوتیات!"
+      ],
+      "culturalNotes": [
+        "ماہرینِ لسانیات جیسے حافظ محمود شیرانی، ڈاکٹر محی الدین قادری زور اور مسعود حسین خان نے اردو کے آغاز و ارتقا پر گراں قدر کتب تصنیف کیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"عدالت\":",
+          "prompt": "اردو زبان کی بنیادی نحوی اور صرفی ساخت کس ہند آریائی بولی سے براہِ راست تعلق رکھتی ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («جج» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («وکیل» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («حقوق» کی خرابی)"
+            "کھڑی بولی / شورسینی اپ بھرنش (Khari Boli / Shauraseni Apabhramsha - Direct ancestral dialect of Urdu)",
+            "صرف لاطینی زبان",
+            "صرف جاپانی زبان",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "اردو کی بنیادی ساخت «کھڑی بولی» (Khari Boli) سے ماخوذ ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"عدالت\":",
+          "prompt": "اردو زبان کی صوتیات میں 'ٹ، ڈ، ڑ' جیسی آوازوں کو صوتیاتی اعتبار سے کیا کہا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («وکیل» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («حقوق» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («جج» کا غیر درست استعمال)"
+            "معکوسی آوازیں / حروفِ معکوسی (Retroflex phonemes - Produced by curling the tip of the tongue back)",
+            "صرف سرگوشی",
+            "صرف سیٹی کی آواز",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "ان آوازوں کو صوتیات میں «معکوسی آوازیں» (Retroflex) کہا جاتا ہے۔"
         }
       ]
     },
@@ -13659,17 +13668,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"عدالت\": Which sentence is completely correct?",
+          "prompt": "اردو لسانیات اور آریائی جڑوں (Urdu Linguistics & Indo-Aryan Roots) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («حقوق» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («جج» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («وکیل» سے متعلق)"
+            "اردو کی لسانی ساخت شورسینی اپ بھرنش اور کھڑی بولی پر استوار ہے جبکہ اس کی معکوسی اور ہکاری صوتیات اسے ایک منفرد اور باوقار پہچان عطا کرتی ہیں۔ (Urdu's linguistic structure rests on Shauraseni Apabhramsha and Khari Boli with rich retroflex phonology.)",
+            "اردو زبان نے صرف سائیکل کے پہیے سے جنم لیا تھا رویا تھا۔",
+            "کھڑی بولی کا مطلب صرف کھڑے ہو کر باتیں کرنا ہوتا ہے۔",
+            "اردو کی کوئی تاریخی یا لسانی جڑیں نہیں ہیں۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اردو کی لسانی ساخت شورسینی اپ بھرنش اور کھڑی بولی پر استوار ہے جبکہ اس کی معکوسی اور ہکاری صوتیات اسے ایک منفرد اور باوقار پہچان عطا کرتی ہیں۔» لسانیات کا مستند ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u33-l2": {
@@ -13677,53 +13687,62 @@
     "subject": "urdu",
     "unit": 33,
     "lessonNumber": 2,
-    "title": "اعلیٰ ادبی محاورات اور ضرب الامثال (Advanced Idioms) (Part 2)",
+    "title": "لغت نویسی، اصطلاح سازی اور قومی لغت بورڈ (Lexicography & Terminology Coinage)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 33.2) with authentic precision.",
+    "objective": "اردو لغت نویسی کی تاریخ، اردو لغت بورڈ کے 22 جلدوں کے تاریخ وار لغتِ کبیر، اشتقاق (Etymology)، اور وضعِ اصطلاحات کے سائنسی اصولوں پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو لغت نویسی اور اصطلاح سازی کے سائنسی قواعد (Urdu Lexicography & Terminology):\n\n1. **اردو لغت بورڈ اور لغتِ کبیر کا شاہکار**:\n   - «**22 جلدوں پر مشتمل جامع تاریخ وار لغت**»؛\n   - «ہر لفظ کی تاریخی سند، اوّلین مطبوعہ استعمال، تلفظ، اعراب اور اشتقاق (Etymology)»۔\n\n2. **وضعِ اصطلاحات (Terminology Coinage) کے قواعد**:\n   - «**اشتقاق (Derivation)**: عربی و فارسی مادوں اور اوزان سے نئی اصطلاحات تراشنا»；\n   - «**نحت (Compounding / Blending)** اور مستعار الفاظ کا نحوی انضمام»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اردو لغت بورڈ نے بائیس جلدوں میں ہر لفظ کی تاریخی سند، تلفظ، اشتقاق اور بدلتے معانی کو یکجا کر کے لغت نویسی کا شاہکار پیش کیا۔",
+          "reading": "Urdu Lughat Board ne baa'ees jildon mein har lafz ki taareekhi sanad, talaffuz, ishtiqaaq aur badaltay ma'aani ko yakja kar ke lughat-naveesi ka shaahkaar peish kiya. [ʊrd̪uː lʊɣət̪ boːrɖ neː baːʔiːs dʒɪld̪õː mẽː hər ləfz kiː t̪aːriːxiː sənəd̪ t̪ələfːʊz ɪʃt̪ɪqaːq ɔːr bəd̪əlt̪eː məʔaːniː koː jəkdʒaː kər keː lʊɣət̪-nəʋiːsiː kaː ʃaːhkaːr peːʃ kɪjaː] (OOR-doo loo-GHUHT board nay bah-EES jeel-DOHN mayn HUHR luhfz kee tah-ree-KHEE suh-NUHD, tuh-luhf-FOOZ, eesh-tee-QAHQ owr buh-duhl-TAY muh-ah-NEE koh yuhk-JAH kuhr kay loo-ghuht-nuh-way-SEE kah shah-h-KAHR paysh kee-YAH)",
+          "translation": "The Urdu Lexicon Board produced a masterpiece of lexicography [lexicography: lughat-naveesi] across twenty-two volumes, compiling historical citations, pronunciation, etymology [etymology: ishtiqaaq], and semantic shifts for every word."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 33-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اصطلاح سازی کے وقت وضعی قواعد کا دھیان رکھا جاتا ہے تاکہ سائنسی تراکیب اردو کے فطری لسانی مزاج اور شائستگی سے ہم آہنگ رہیں۔",
+          "reading": "Istilaah-saazi ke waqt waz'ee qawaa'id ka dhyaan rakkha jaata hai taakeh saainsi taraakeeb Urdu ke fitri lisaani mizaaj aur shaayastagi se hum-aahang rahein. [ɪst̪ɪlaːh-saːziː keː ʋəqt̪ ʋəzʔiː qəʋaːʔɪd̪ kaː d̪ʱjaːn rəkːʰaː dʒaːt̪aː hɛː t̪aːkɛh saːʔɪnsiː t̪əraːkiːb ʊrd̪uː keː fɪt̪riː lɪsaːniː mɪzaːdʒ ɔːr ʃaːjəst̪əɡiː seː həm-aːɦəŋɡ rəhẽː] (ees-tee-lah-h-sah-ZEE kay WUHQT wuhz-EE quh-wah-EED kah dhyahn ruhk-KHAH jah-TAH HY tah-KYH sah-een-SEE tuh-rah-KEEB OOR-doo kay feet-REE lee-sah-NEE mee-ZAHJ owr shah-yuhs-tuh-GEE say huhm-ah-huhn-G ruh-HEEN)",
+          "translation": "During terminology coinage (Istilah-sazi), prescriptive grammatical rules are observed so that scientific compounds harmonize with Urdu's natural linguistic ethos."
+        },
+        {
+          "target": "اشتقاق کے ذریعے نئے سائنسی و تکنیکی مفاہیم کے لیے عربی و فارسی مادوں سے فصیح اور بامعنی متبادل اصطلاحات وضع کی جاتی ہیں۔",
+          "reading": "Ishtiqaaq ke zariye naye saainsi o takneeki mafaheem ke liye Arabi o Faarsi maadon se faseeh aur baa-ma'ni mutabaadil istilaahaat waz'a ki jaati hain. [ɪʃt̪ɪqaːq keː zərɪjeː nəjeː saːʔɪnsiː oː t̪əkniːkiː məfaːhiːm keː lɪjeː ərəbiː oː faːrsiː maːd̪ːõː seː fəsiːh ɔːr baː-məʔniː mʊt̪əbaːd̪ɪl ɪst̪ɪlaːhaːt̪ ʋəzʔ kiː dʒaːt̪iː hɛ̃ː] (eesh-tee-QAHQ kay zuh-ree-YAY nuh-YAY sah-een-SEE oh tuhk-nee-KEE muh-fah-HEEM kay lee-AY uh-ruh-BEE oh fahr-SEE mahd-DOHN say fuh-SEEH owr bah-muh-NEE moo-tuh-bah-DEEL ees-tee-lah-HAHT wuh-ZAH kee jah-TEE HYN)",
+          "translation": "Through etymological derivation (Ishtiqaq), eloquent and meaningful equivalent terms are coined from Arabic and Persian roots for new scientific concepts."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "لغت و اصطلاح: 22 جلدوں پر لغتِ کبیر + اشتقاق (ماخذ) + وضعِ اصطلاحات + سائنسی فرہنگیں!"
+      ],
+      "culturalNotes": [
+        "اردو لغت بورڈ کراچی کا عظیم کارنامہ دنیا کی چند بڑی تاریخی لغات جیسے آکسفورڈ انگلش ڈکشنری کے ہم پلہ مانا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"جج\":",
+          "prompt": "الفاظ کی اصل، تاریخ اور مادہ معلوم کرنے کے علم کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («وکیل» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («حقوق» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («انصاف» کی خرابی)"
+            "اشتقاق / علمِ اشتقاق (Ishtiqaq / Etymology - Study of word origins and morphological derivation)",
+            "صرف کہانی سننا",
+            "صرف املا کی مشق",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "الفاظ کے مادے اور ماخذ کے علم کو «اشتقاق» (Etymology) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"جج\":",
+          "prompt": "جدید سائنسی اور تکنیکی مفاہیم کے لیے نئے اردو الفاظ تراشنے کے عمل کو کیا کہا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («حقوق» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («انصاف» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («وکیل» کا غیر درست استعمال)"
+            "وضعِ اصطلاحات / اصطلاح سازی (Terminology Coinage - Systematic creation of standardized technical terms)",
+            "صرف گیت گانا",
+            "صرف اخبار پڑھنا",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "نئی علمی اصطلاحات بنانے کو «اصطلاح سازی» کہتے ہیں۔"
         }
       ]
     },
@@ -13731,17 +13750,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"جج\": Which sentence is completely correct?",
+          "prompt": "لغت نویسی اور اصطلاح سازی (Lexicography & Terminology Coinage) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («انصاف» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («وکیل» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («حقوق» سے متعلق)"
+            "اردو لغت بورڈ کی بائیس جلدوں پر مشتمل تاریخ وار لغتِ کبیر اور اشتقاقی اصولوں پر مبنی اصطلاح سازی نے اردو کو جدید سائنسی علوم کے لیے خود کفیل بنا دیا۔ (The 22-volume historical lexicon and etymological terminology coinage made Urdu self-sufficient for modern sciences.)",
+            "لغت نویسی نے ڈکشنری کو چولہے پر جلا کر گاڑی چلائی تھی رویا تھا۔",
+            "اشتقاق کا مطلب صرف ڈکشنری کا سرورق دیکھنا ہے۔",
+            "اصطلاح سازی کا اردو کے الفاظ سے کوئی تعلق نہیں ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اردو لغت بورڈ کی بائیس جلدوں پر مشتمل تاریخ وار لغتِ کبیر اور اشتقاقی اصولوں پر مبنی اصطلاح سازی نے اردو کو جدید سائنسی علوم کے لیے خود کفیل بنا دیا۔» لغت نویسی کا مستند ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u33-l3": {
@@ -13749,53 +13769,62 @@
     "subject": "urdu",
     "unit": 33,
     "lessonNumber": 3,
-    "title": "اعلیٰ ادبی محاورات اور ضرب الامثال (Advanced Idioms) (Part 3)",
+    "title": "فنِ ترجمہ نگاری: نظریات اور عملی تراجم (Translation Studies: Theory & Methodology)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 33.3) with authentic precision.",
+    "objective": "فنِ ترجمہ نگاری، دار الترجمہ عثمانیہ کے تاریخی کارنامے، لفظی بمقابلہ آزاد ترجمہ، معنوی امانت، اور اسلوباتی مطابقت پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں فنِ ترجمہ اور بین الاقوامی علوم کی منتقلی (Translation Studies & Theory):\n\n1. **دار الترجمہ جامعہ عثمانیہ کی عظیم روایت**:\n   - «سائنس، طب، فلسفہ، قانون اور ریاضی کی کتب کے اردو تراجم کا تاریخی انقلاب»؛\n   - «جامعاتی سطح پر اعلیٰ ترین تعلیم کے لیے اردو کا عملی نفاذ»۔\n\n2. **ترجمے کے بنیادی نظریات و اسالیب**:\n   - «**لفظی ترجمہ (Literal Translation)** بمقابلہ **آزاد و معنوی ترجمہ (Free Translation)**»؛\n   - «معنوی امانت داری اور اصل مصنف کے اسلوب و تاثر کا تحفظ»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "دار الترجمہ عثمانیہ نے دنیا کے کلاسیکی علوم اور جدید سائنسی کتب کے بے نظیر تراجم کر کے ثابت کیا کہ اردو اعلیٰ ترین جامعاتی تعلیم کا مکمل ذریعہ بن سکتی ہے۔",
+          "reading": "Dar-ut-Tarjuma Usmania ne dunya ke kalaasiki uloom aur jadeed saainsi kutub ke bay-nazeer taraajum kar ke saabit kiya keh Urdu a'la-tareen jaami'aati ta'leem ka mukammal zariya ban sakti hai. [d̪aːr-ʊt̪-t̪ərdʒʊmaː ʊsmaːnɪjaː neː d̪ʊnjaː keː klaːsiːkiː ʊluːm ɔːr dʒəd̪iːd̪ saːʔɪnsiː kʊt̪ʊb keː beː-nəziːr t̪əraːdʒʊm kər keː saːbɪt̪ kɪjaː kɛh ʊrd̪uː aːʔlaː-t̪əriːn dʒaːmɪʔaːt̪iː t̪əʔliːm kaː mʊkəmːəl zərɪjaː bən səkt̪iː hɛː] (DAHR-oot-tuhr-joo-MAH oos-mah-nee-YAH nay doon-YAH kay klah-see-KEE oo-LOOM owr juh-DEED sah-een-SEE koo-TOOB kay bay-nuh-ZEER tuh-rah-JOOM kuhr kay sah-BEET kee-YAH kyh OOR-doo AHH-lah-tuh-REEN jah-mee-ah-TEE tuh-LEEM kah moo-kuhm-MUHL zuh-ree-YAH buhn suhk-TEE HY)",
+          "translation": "The Translation Bureau of Osmania University (Dar-ut-Tarjuma) [translation institution: Dar-ut-Tarjuma] proved through unparalleled translations of classical sciences and modern scientific texts that Urdu can fully serve as a complete medium for higher university education."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 33-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ایک کامیاب مترجم نہ صرف الفاظ کا لغوی ترجمہ کرتا ہے بلکہ اصل متن کی روح، تہذیبی لطافت اور مصنف کے ادبی اسلوب کو بھی منتقل کرتا ہے۔",
+          "reading": "Aik kaamyaab mutarjim na sirf alfaaz ka lughwi tarjuma karta hai balkeh asal matn ki rooh, tehzeebi lataafat aur musannif ke adabi usloob ko bhi muntaqil karta hai. [eːk kaːmjaːb mʊt̪ərdʒɪm nə sɪrf əlfaːz kaː lʊɣʋiː t̪ərdʒʊmaː kərt̪aː hɛː bəlkɛh əsl mət̪n kiː ruːh t̪ɛhziːbiː lətcomb-aːfət̪ ɔːr mʊsənːɪf keː əd̪əbiː ʊsluːb koː bʱiː mʊnt̪əqɪl kərt̪aː hɛː] (AYK kahm-YAHB moo-tuhr-JEEM nuh SEERF uhl-FAHZ kah loogh-WEE tuhr-joo-MAH kuhr-TAH HY buhl-KYH uh-SUHL muhtn kee ROOH, tyh-zee-BEE luh-tah-FUHT owr moo-suhn-NEEF kay uh-duh-BEE oos-LOOB koh BHEE moon-tuh-QEEL kuhr-TAH HY)",
+          "translation": "A successful translator not only renders a literal translation of words but also transfers the essence of the source text, its cultural delicacy, and the author's literary style."
+        },
+        {
+          "target": "سائنسی اور قانونی تراجم میں لفظی مطابقت اور اصطلاحی یکسانیت جبکہ ادبی تراجم میں روانی اور اثر انگیزی کو بنیادی ترجیح حاصل ہوتی ہے۔",
+          "reading": "Saainsi aur qanooni taraajum mein lafzi mutaabiqat aur istilaahi yaksaaniyat jabkeh adabi taraajum mein rawaani aur asar-angeizi ko bunyaadi tarjeeh haasil hoti hai. [saːʔɪnsiː ɔːr qaːnuːniː t̪əraːdʒʊm mẽː ləfziː mʊt̪aːbɪqət̪ ɔːr ɪst̪ɪlaːhiː jəksaːnɪjət̪ dʒəbkɛh əd̪əbiː t̪əraːdʒʊm mẽː rəʋaːniː ɔːr əsər-əŋɡeːziː koː bʊnjaːd̪iː t̪ərdʒiːh haːsɪl hoːt̪iː hɛː] (sah-een-SEE owr qah-noo-NEE tuh-rah-JOOM mayn luhf-ZEE moo-tah-bee-QUHT owr ees-tee-lah-HEE yuhk-sah-nee-YUHT juhb-KYH uh-duh-BEE tuh-rah-JOOM mayn ruh-wah-NEE owr uh-suhr-uhn-GAY-zee koh boon-yah-DEE tuhr-JEEH hah-SEEL hoh-TEE HY)",
+          "translation": "In scientific and legal translations, literal fidelity and terminological consistency are prioritized, whereas fluency and evocative impact are paramount in literary translation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فنِ ترجمہ: دار الترجمہ عثمانیہ + لفظی بمقابلہ آزاد ترجمہ + معنوی امانت + اسلوباتی مطابقت!"
+      ],
+      "culturalNotes": [
+        "جامعہ عثمانیہ حیدرآباد دکن تاریخ کی پہلی ایسی یونیورسٹی تھی جہاں میڈیکل اور انجینئرنگ سمیت تمام اعلیٰ علوم کی تعلیم اردو زبان میں دی جاتی تھی۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"وکیل\":",
+          "prompt": "اردو تاریخ میں اعلیٰ سائنسی اور فلسفیانہ کتابوں کے منظم ترین ترجمے کا مرکز کون سا ادارہ تھا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («حقوق» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («انصاف» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («گواہ» کی خرابی)"
+            "دار الترجمہ جامعہ عثمانیہ حیدرآباد (Dar-ut-Tarjuma Osmania - Historic translation bureau of Osmania University)",
+            "صرف ریلوے بک اسٹال",
+            "صرف فوٹو کاپی کی دکان",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "تاریخی مرکز «دار الترجمہ جامعہ عثمانیہ» تھا۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"وکیل\":",
+          "prompt": "ترجمہ نگاری میں لفظ بہ لفظ ترجمے کی بجائے مفہوم اور ادبی خوبصورتی کو ترجیح دینے کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («انصاف» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («گواہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («حقوق» کا غیر درست استعمال)"
+            "آزاد و معنوی ترجمہ (Free / Semantic Translation - Conveying conceptual meaning and literary elegance)",
+            "صرف غلط بیانی",
+            "صرف کاغذ ضائع کرنا",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مفہومی ترجمے کو «آزاد یا معنوی ترجمہ» (Free Translation) کہتے ہیں۔"
         }
       ]
     },
@@ -13803,17 +13832,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"وکیل\": Which sentence is completely correct?",
+          "prompt": "فنِ ترجمہ نگاری اور دار الترجمہ عثمانیہ (Translation Studies & Osmania Bureau) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («گواہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («حقوق» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («انصاف» سے متعلق)"
+            "دار الترجمہ عثمانیہ کے تاریخی کارنامے اور ترجمے کے معنوی و اسلوباتی اصولوں نے دنیا کے کلاسیکی و سائنسی علوم کو اردو کا شاندار اثاثہ بنا دیا۔ (Dar-ut-Tarjuma Osmania's historic achievements made global scientific and classical works a grand asset of Urdu.)",
+            "ترجمہ نگاری نے کتاب کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا روئی تھی۔",
+            "دار الترجمہ صرف پرانے اخبار فروخت کرنے کی دکان تھی۔",
+            "ترجمہ کرتے وقت اصل مصنف کی بات بدلنا لازمی ہوتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«دار الترجمہ عثمانیہ کے تاریخی کارنامے اور ترجمے کے معنوی و اسلوباتی اصولوں نے دنیا کے کلاسیکی و سائنسی علوم کو اردو کا شاندار اثاثہ بنا دیا۔» فنِ ترجمہ کا کامل ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u33-l4": {
@@ -13821,53 +13851,62 @@
     "subject": "urdu",
     "unit": 33,
     "lessonNumber": 4,
-    "title": "اعلیٰ ادبی محاورات اور ضرب الامثال (Advanced Idioms) (Part 4)",
+    "title": "جدید لسانیات، معنیات اور صوتیاتی تبدیلیاں (Semantics, Sociolinguistics & Digital Urdu)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 33.4) with authentic precision.",
+    "objective": "معنیات (Semantics)، سماجی لسانیات (Sociolinguistics)، صوتیاتی تغیر، اردو یونی کوڈ، نفیس نستعلیق، اور کمپیوٹیشنل لسانیات پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان کا جدید سائنسی اور ڈیجیٹل لسانی مطالعہ (Modern Semantics & Computational Urdu):\n\n1. **معنیات اور سماجی لسانیات**:\n   - «**معنیات (Semantics)**: الفاظ کے معانی کی وسعت اور معنوی تغیر (Semantic shift)»；\n   - «**سماجی لسانیات (Sociolinguistics)**: روزمرہ، محاوراتی بول چال اور علاقائی لہجے»۔\n\n2. **ڈیجیٹل اور کمپیوٹیشنل لسانیات (Computational Linguistics)**:\n   - «**اردو یونی کوڈ (Unicode)** اور کمپیوٹر پر خودکار نستعلیق رینڈرنگ»；\n   - «نیچرل لینگویج پروسیسنگ (NLP) اور مشینی ترجمے میں اردو کا کردار»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "معنیات کا مطالعہ ظاہر کرتا ہے کہ وقت گزرنے کے ساتھ کس طرح اردو الفاظ کے معنوی دائرے میں وسعت، تخصیص یا معنوی تغیر رونما ہوا ہے۔",
+          "reading": "Ma'niyaat ka mutaala'a zaahir karta hai keh waqt guzarnay ke saath kis tarah Urdu alfaaz ke ma'nawi daa'iray mein wus'at, takhsees ya ma'nawi taghayyur raunuma huwa hai. [məʔnɪjaːt̪ kaː mʊt̪aːlɪʔaː zaːhɪr kərt̪aː hɛː kɛh ʋəqt̪ ɡʊzərneː keː saːt̪ʰ kɪs t̪ərəh ʊrd̪uː əlfaːz keː məʔnəʋiː d̪aːʔɪreː mẽː ʋʊsʔət̪ t̪əxsiːs jaː məʔnəʋiː t̪əɣəjːʊr rɔːnʊmaː hʊʋaː hɛː] (muh-nee-YAHT kah moo-tah-lah-AH ZAH-heer kuhr-TAH HY kyh WUHQT gooz-ruhn-NAY kay SAHTH kees tuh-RUH OOR-doo uhl-FAHZ kay muh-nuh-WEE dah-ee-RAY mayn WOOS-uht, tuhkh-SEES yah muh-nuh-WEE tuh-ghuhy-YOOR row-noo-MAH hoo-WAH HY)",
+          "translation": "The study of semantics (Ma'niyat) [linguistics: ma'niyaat] demonstrates how Urdu words have undergone semantic broadening, narrowing, or semantic shifts over the course of time."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 33-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ڈیجیٹل دور میں یونی کوڈ اور نفیس نستعلیق کی ایجاد نے اردو کو انٹرنیٹ، کمپیوٹر اور جدید موبائل ٹیکنالوجی کی عالمی شاہراہ پر گامزن کر دیا ہے۔",
+          "reading": "Digital daur mein Unicode aur Nafees Nastaliq ki eejaad ne Urdu ko internet, computer aur jadeed mobile technology ki aalami shahrah par gaamzan kar diya hai. [ɖɪdʒɪʈəl d̪ɔːr mẽː juːniːkoːɖ ɔːr nəfiːs nəscomb-t̪əʔliːq kiː iːdʒaːd̪ neː ʊrd̪uː koː ɪnʈərnɛʈ kəmpjuːʈər ɔːr dʒəd̪iːd̪ moːbaːʔɪl ʈɛknɔːlədʒiː kiː aːləmiː ʃaːhrah pər ɡaːmzən kər d̪ɪjaː hɛː] (digital DOWR mayn unicode owr nuh-FEES nuhs-tah-LEEQ kee ee-JAHD nay OOR-doo koh internet, computer owr juh-DEED mobile technology kee ah-luh-MEE shah-h-RAH puhr gahm-ZUHN kuhr DEE-yah HY)",
+          "translation": "In the digital era, the invention of Unicode and Nafees Nastaliq typeface propelled Urdu onto the global highway of the internet, computing, and modern mobile technology."
+        },
+        {
+          "target": "مشینی ترجمے اور کمپیوٹیشنل لسانیات کے ذریعے اردو زبان اب جدید ترین مصنوعی ذہانت اور قدرتی زبان کے پروسیسنگ (NLP) ماڈلز کے ساتھ مکمل ہم آہنگ ہو چکی ہے۔",
+          "reading": "Masnoo'i tarjamay aur computational linguistics ke zariye Urdu zabaan ab jadeed-tareen masnoo'i zahaanat aur Natural Language Processing (NLP) models ke saath mukammal hum-aahang ho chuki hai. [məʃiːniː t̪ərdʒəmeː ɔːr kəmpjuːʈeːʃnəl lɪsaːnɪjaːt̪ keː zərɪjeː ʊrd̪uː zəbaːn əb dʒəd̪iːd̪-t̪əriːn məsnuːʔiː zəhaːnət̪ ɔːr ɛn ɛl piː mɔːɖəlz keː saːt̪ʰ mʊkəmːəl həm-aːɦəŋɡ hoː tʃʊkiː hɛː] (muh-shee-NEE tuhr-juh-MAY owr computational linguistics kay zuh-ree-YAY OOR-doo zuh-BAHN uhb juh-DEED-tuh-reen muhs-noo-EE zuh-hah-NUHT owr NLP models kay SAHTH moo-kuhm-MUHL huhm-ah-huhn-G hoh choo-KEE HY)",
+          "translation": "Through machine translation and computational linguistics, the Urdu language is now fully integrated with state-of-the-art artificial intelligence and Natural Language Processing (NLP) models."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ڈیجیٹل لسانیات: معنیاتی وسعت + سماجی لہجے + اردو یونی کوڈ + نفیس نستعلیق و NLP!"
+      ],
+      "culturalNotes": [
+        "سینٹر فار لینگویج انجینئرنگ (CLE) پاکستان نے اردو کے پہلے معیاری او سی آر اور نستعلیق فونٹس کی تیاری میں تاریخی کردار ادا کیا۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"حقوق\":",
+          "prompt": "کمپیوٹر اور انٹرنیٹ پر اردو خطِ نستعلیق کے معیاری اور باوقار ڈیجیٹل کوڈنگ نظام کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («انصاف» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («گواہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («فیصلہ» کی خرابی)"
+            "اردو یونی کوڈ اور اوپن ٹائپ نستعلیق فونٹس (Urdu Unicode and OpenType Nastaliq rendering engines)",
+            "صرف ڈاٹ میٹرکس پرنٹر",
+            "صرف مائیکرو فلم",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "ڈیجیٹل کوڈنگ کے عالمی نظام کو «یونی کوڈ» (Unicode) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"حقوق\":",
+          "prompt": "زبان کے الفاظ کے معانی، مفاہیم اور ان کے تاریخی تغیر و تبدل کے سائنسی مطالعے کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («گواہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («فیصلہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («انصاف» کا غیر درست استعمال)"
+            "معنیات / علمِ معنیات (Semantics - Scientific study of linguistic meaning and semantic shift)",
+            "صرف املا چیکر",
+            "صرف کی بورڈ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "معانی کے سائنسی مطالعے کو «معنیات» (Semantics) کہا جاتا ہے۔"
         }
       ]
     },
@@ -13875,17 +13914,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"حقوق\": Which sentence is completely correct?",
+          "prompt": "جدید لسانیات، معنیات اور ڈیجیٹل اردو (Semantics & Digital Urdu) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («فیصلہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («انصاف» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («گواہ» سے متعلق)"
+            "لسانی معنیات کی گہرائی، سماجی لہجوں کے تنوع، اور یونی کوڈ و نفیس نستعلیق فونٹس نے اردو کو اکیسویں صدی کے ڈیجیٹل دور اور مصنوعی ذہانت کی صفِ اوّل میں شامل کر دیا ہے۔ (Semantics, sociolinguistic diversity, Unicode, and Nastaliq have placed Urdu at the forefront of AI.)",
+            "معنیات نے کی بورڈ کو پانی میں دھو کر گاڑی پر بٹھایا تھا روئی تھی۔",
+            "یونی کوڈ صرف کمپیوٹر کا ماؤس خراب ہونے کو کہتے ہیں۔",
+            "اردو کا کمپیوٹر اور انٹرنیٹ سے کوئی واسطہ نہیں ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«لسانی معنیات کی گہرائی، سماجی لہجوں کے تنوع، اور یونی کوڈ و نفیس نستعلیق فونٹس نے اردو کو اکیسویں صدی کے ڈیجیٹل دور اور مصنوعی ذہانت کی صفِ اوّل میں شامل کر دیا ہے۔» جدید لسانیات کا شاہکار ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u33-l5": {
@@ -13893,53 +13933,62 @@
     "subject": "urdu",
     "unit": 33,
     "lessonNumber": 5,
-    "title": "اعلیٰ ادبی محاورات اور ضرب الامثال (Advanced Idioms) (Part 5)",
+    "title": "جدید اردو زبان و لسانیات اور تراجم کا جامع سمیکن (Urdu Linguistics & Translation Grand Synthesis)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 33.5) with authentic precision.",
+    "objective": "اردو کی ہند آریائی تاریخ، لغتِ کبیر کی اشتقاقیات، دار الترجمہ عثمانیہ کے فنِ ترجمہ، اور ڈیجیٹل کمپیوٹیشنل لسانیات کو ایک عظیم الشان، پرشکوہ اور فصیح علمی شاہکار میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو لسانیات، لغت نویسی اور فنِ ترجمہ کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **لسانیاتی و علمی شعبوں کا کامل احاطہ**:\n   - **تاریخی لسانیات**: «شورسینی اپ بھرنش اور کھڑی بولی سے لے کر معکوسی و ہکاری صوتیات تک»；\n   - **لغت نگاری و اشتقاق**: «اردو لغت بورڈ کے 22 جلدوں کے لغتِ کبیر کے اشتقاقی و وضاحتی اصول»；\n   - **فنِ ترجمہ**: «دار الترجمہ جامعہ عثمانیہ کے عظیم سائنسی و ادبی تراجم کی لازوال روایت»；\n   - **ڈیجیٹل و کمپیوٹیشنل لسانیات**: «معنیات، سماجی لسانیات، اردو یونی کوڈ اور جدید NLP ماڈلز»۔\n\n2. **اردو کی علمی وسعت اور عالمی مستقبل**:\n   - یہ زبان اردو کے تاریخی، لغوی، ترجمہ جاتی اور سائنسی کمالات کا اوجِ ثریا ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اردو کا لسانی ارتقا شورسینی اپ بھرنش اور کھڑی بولی کی مٹی سے جنم لے کر، دار الترجمہ عثمانیہ کے عظیم تراجم اور ڈیجیٹل نستعلیق کی اکیسویں صدی تک ایک شاندار داستان ہے۔",
+          "reading": "Urdu ka lisaani irteqa Shourseni Apabhramsha aur Khari Boli ki matti se janam lay kar, Dar-ut-Tarjuma Usmania ke azeem taraajum aur digital Nastaliq ki ikkisween sadi tak aik shaandaar daastaan hai. [ʊrd̪uː kaː lɪsaːniː ɪrt̪ɪqaː ʃɔːrseːniː əpəbʱrəmʃaː ɔːr kʰəɽiː boːliː kiː mɪʈːiː seː dʒənəm ltiː kər d̪aːr-ʊt̪-t̪ərdʒʊmaː ʊsmaːnɪjaː keː əziːm t̪əraːdʒʊm ɔːr ɖɪdʒɪʈəl nəscomb-t̪əʔliːq kiː ɪkːiːsʋĩː səd̪iː t̪ək eːk ʃaːndaːr d̪aːst̪aːn hɛː] (OOR-doo kah lee-sah-NEE eer-tuh-QAH Showr-say-NEE uh-puhb-hruhm-SHAH owr khuh-REE boh-LEE kee meet-TEE say juh-NUHM lay kuhr, DAHR-oot-tuhr-joo-MAH oos-mah-nee-YAH kay uh-ZEEM tuh-rah-JOOM owr digital nuhs-tah-LEEQ kee eek-kees-VEEN suh-DEE tuhk AYK shah-h-n-DAHR dahs-TAHN HY)",
+          "translation": "Urdu's linguistic evolution [linguistic synthesis: lisaani irteqa], originating from the soil of Shauraseni Apabhramsha and Khari Boli to the monumental translations of Dar-ut-Tarjuma Usmania and 21st-century digital Nastaliq, is a glorious saga."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 33-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اردو لغت بورڈ کے اشتقاقی اصولوں، اصطلاح سازی کی مہارت اور لسانی معنیات کے ادراک سے مترجمین اور محققین کو زبان کے عمیق ترین اسرار حاصل ہوتے ہیں۔",
+          "reading": "Urdu Lughat Board ke ishtiqaaqi usoolon, istilaah-saazi ki mahaarat aur lisaani ma'niyaat ke idraak se mutarjimeen aur muhaqqiqeen ko zabaan ke ameeq-tareen asraar haasil hotay hain. [ʊrd̪uː lʊɣət̪ boːrɖ keː ɪʃt̪ɪqaːqiː ʊsuːlõː ɪst̪ɪlaːh-saːziː kiː məhaːrət̪ ɔːr lɪsaːniː məʔnɪjaːt̪ keː ɪd̪raːk seː mʊt̪ərdʒɪmiːn ɔːr mʊhəqːɪqiːn koː zəbaːn keː əmiːq-t̪əriːn əsraːr haːsɪl hoːt̪eː hɛ̃ː] (OOR-doo loo-GHUHT board kay eesh-tee-qah-QEE oo-SOO-lohn, ees-tee-lah-h-sah-ZEE kee muh-hah-RUHT owr lee-sah-NEE muh-nee-YAHT kay eed-RAHK say moo-tuhr-jee-MEEN owr moo-huhq-qee-QEEN koh zuh-BAHN kay uh-meeq-tuh-REEN uhs-RAHR hah-SEEL hoh-TAY HYN)",
+          "translation": "Through the etymological principles of the Urdu Lexicon Board, expertise in terminology coinage, and understanding of linguistic semantics, translators and researchers unlock the deepest mysteries of the language."
+        },
+        {
+          "target": "لسانیات، لغت نویسی اور فنِ ترجمہ کا یہ جامع سمیکن طلبا کو اردو کی تاریخی ساخت، علمی اصطلاحات کی تخلیق اور عالمی علوم کے ترجمے پر بے نظیر عبور عطا کرتا ہے۔",
+          "reading": "Lisaaniyaat, lughat-naveesi aur fan-e-tarjuma ka yeh jaam'e samaykan tulba ko Urdu ki taareekhi saakht, ilmi istilaahaat ki takhleeq aur aalami uloom ke tarjamay par bay-nazeer uboor ata karta hai. [lɪsaːnɪjaːt̪ lʊɣət̪-nəʋiːsiː ɔːr fən-eː-t̪ərdʒʊmaː kaː jɛh dʒaːmɪʔ səmɛːkən t̪ʊlbaː koː ʊrd̪uː kiː t̪aːriːxiː saːxt ɪlmiː ɪst̪ɪlaːhaːt̪ kiː t̪əxliːq ɔːr aːləmiː ʊluːm keː t̪ərdʒəmeː pər beː-nəziːr ʊbuːr ət̪aː kərt̪aː hɛː] (lee-sah-nee-YAHT, loo-ghuht-nuh-way-SEE owr FUHN-ay-tuhr-joo-MAH kah YEH JAH-meh suh-may-KUHN tool-BAH koh OOR-doo kee tah-ree-KHEE saakht, eel-MEE ees-tee-lah-HAHT kee tuhkh-LEEQ owr ah-luh-MEE oo-LOOM kay tuhr-juh-MAY puhr bay-nuh-ZEER oo-BOOR uh-TAH kuhr-TAH HY)",
+          "translation": "This grand synthesis of linguistics, lexicography, and translation studies bestows upon students unparalleled mastery over Urdu's historical structure, technical term creation, and the translation of global knowledge."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع لسانی سمیکن: تاریخی ارتقا (کھڑی بولی) + لغتِ کبیر (اشتقاق) + دار الترجمہ عثمانیہ + ڈیجیٹل نستعلیق و NLP!"
+      ],
+      "culturalNotes": [
+        "اردو زبان نے اپنے ہمہ گیر لسانیاتی ڈھانچے اور ترجمہ جاتی وسعت سے خود کو جدید دور کے تمام سائنسی، ادبی اور معلوماتی چیلنجز کے لیے تیار ثابت کیا۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"انصاف\":",
+          "prompt": "اردو لسانیات، لغت نویسی اور فنِ ترجمہ نگاری کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («گواہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («فیصلہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («آئین» کی خرابی)"
+            "ہند آریائی ماخذ، لغتِ کبیر کی اشتقاقیات، دار الترجمہ عثمانیہ اور ڈیجیٹل کمپیوٹیشنل لسانیات کا مربوط مطالعہ (Masterful synthesis of Indo-Aryan roots, lexicographical etymology, Osmania translation, and computational linguistics)",
+            "ہم نے لسانیات کی کتاب پر چائے پی تھی اور رویا تھا (بے ربط الفاظ)",
+            "وہ صرف ڈکشنری کے صفحات الٹتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«ہند آریائی ماخذ، لغتِ کبیر کی اشتقاقیات، دار الترجمہ عثمانیہ اور ڈیجیٹل کمپیوٹیشنل لسانیات کا مربوط مطالعہ» لسانیات کا کامل سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"انصاف\":",
+          "prompt": "اردو لسانیات، لغت نگاری اور ترجمہ نگاری کا جامع سمیکن طلباء میں کس قابلیت کو پروان چڑھاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («فیصلہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («آئین» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («گواہ» کا غیر درست استعمال)"
+            "سائنسی اصطلاح سازی، لغوی تحقیق، مستند ترجمہ نگاری اور ڈیجیٹل اردو پر مہارت (Scientific terminology coinage, lexical research, authentic translation, and digital Urdu mastery)",
+            "صرف پرانے تلفظ بھول جانا (منفی رویہ)",
+            "صرف کاغذی کارروائی کرنا (بے فائدہ مشق)",
+            "زبان کے اصولوں کو مسخ کرنا (تباہ کن)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ سائنسی اصطلاح سازی، لغوی تحقیق، مستند ترجمہ نگاری اور ڈیجیٹل اردو پر مہارت پیدا کرتا ہے۔"
         }
       ]
     },
@@ -13947,17 +13996,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"انصاف\": Which sentence is completely correct?",
+          "prompt": "اردو لسانیات، لغت نویسی اور فنِ ترجمہ کے جامع سمیکن (Urdu Linguistics & Translation Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («آئین» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («گواہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («فیصلہ» سے متعلق)"
+            "شورسینی اپ بھرنش سے لے کر لغتِ کبیر کی اشتقاقیات، دار الترجمہ عثمانیہ کے سائنسی تراجم اور جدید ڈیجیٹل کمپیوٹیشنل لسانیات تک اردو کا ارتقا اس کے لازوال علمی وقار کا ثبوت ہے۔ (From Shauraseni to Lughat-e-Kabeer, Dar-ut-Tarjuma, and computational linguistics, Urdu's evolution proves its timeless prestige.)",
+            "لسانیات نے دار الترجمہ کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
+            "جامع سمیکن صرف پرانے کی بورڈ کی تار کو کہتے ہیں۔",
+            "اردو زبان کا سائنسی تحقیق اور کمپیوٹر ٹیکنالوجی سے کوئی تعلق نہیں ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«شورسینی اپ بھرنش سے لے کر لغتِ کبیر کی اشتقاقیات، دار الترجمہ عثمانیہ کے سائنسی تراجم اور جدید ڈیجیٹل کمپیوٹیشنل لسانیات تک اردو کا ارتقا اس کے لازوال علمی وقار کا ثبوت ہے۔» لسانی سمیکن کا کامل ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u34-l1": {
