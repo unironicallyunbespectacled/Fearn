@@ -4,13 +4,14 @@
   var LEDGER = {
     subject: 'cantonese',
     fullRoadmapLength: 170,
-    authoredInFull: [],
+    authoredInFull: [
+      "hk-u1-l1",
+      "hk-u1-l2",
+      "hk-u1-l3",
+      "hk-u1-l4",
+      "hk-u1-l5"
+    ],
     stubOnly: [
-  "hk-u1-l1",
-  "hk-u1-l2",
-  "hk-u1-l3",
-  "hk-u1-l4",
-  "hk-u1-l5",
   "hk-u2-l1",
   "hk-u2-l2",
   "hk-u2-l3",
@@ -177,8 +178,8 @@
   "hk-u34-l4",
   "hk-u34-l5"
 ],
-    lastCompletedLessonId: null,
-    nextToAuthor: "hk-u1-l1"
+    lastCompletedLessonId: "hk-u1-l5",
+    nextToAuthor: "hk-u2-l1"
   };
   global.FEARN_LEDGERS = global.FEARN_LEDGERS || {};
   global.FEARN_LEDGERS['cantonese'] = LEDGER;

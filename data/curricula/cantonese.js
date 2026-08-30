@@ -485,53 +485,62 @@
     "subject": "cantonese",
     "unit": 1,
     "lessonNumber": 1,
-    "title": "粵拼發音同基本問候 (Jyutping & Greetings) (第1課)",
+    "title": "粵拼聲母辨析與早晨打招呼 (Jyutping Initials & Morning Greetings)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵拼聲母辨析與初見打招呼 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵拼不送氣與送氣塞音辨析（b/p, d/t, g/k），並熟練運用「早晨」同「你好」進行日常見面問候。",
     "presentation": {
-      "explanation": "",
+      "explanation": "廣東話語音系統採用香港語言學學會制定之粵拼標準方案。粵語輔音系統中並無濁塞音，其核心對立在於不送氣清塞音與送氣清塞音之分明對比：\n\n一、聲母對立規律辨析：\n１．雙唇塞音：聲母 b 為不送氣清音（如「爸」），對比聲母 p 為送氣清音（如「怕」，發音時帶有強烈爆破氣流）。\n２．舌尖塞音：聲母 d 為不送氣清音（如「打」），對比聲母 t 為送氣清音（如「他」）。\n３．舌根塞音：聲母 g 為不送氣清音（如「家」），對比聲母 k 為送氣清音（如「卡」）。\n\n二、日常見面問候語境與社交禮儀：\n１．「早晨」：香港最地道、最普遍之晨早見面問候語，通常於上午十一時前廣泛使用。在大廈大堂、辦公室遇到同事、鄰里或物業管理員，一聲清脆之「早晨」或「早晨呀」配以點頭微笑，乃極為親切得體之社交規範。\n２．「你好」：屬於較為莊重或初次相識之禮貌問候。在熟人同輩之間，香港人更習慣直接點頭打招呼以示友好親睦。",
       "examples": [
         {
-          "target": "早晨，陳先生！",
-          "reading": "zou2 san4, can4 sin1 saang1 [tsou˧˥ sɐn˨˩, tsʰɐn˨˩ siːn˥ saːŋ˥] (TSOH-SUN, CHUN SEEN-SAHNG)",
-          "translation": "Good morning, Mr. Chan!"
+          "target": "早晨，李先生！今日天氣真係好。",
+          "reading": "zou2 san4, lei5 sin1 saang1! gam1 jat6 tin1 hei3 zan1 hai6 hou2. [tsou˧˥ sɐn˨˩, lei˩˧ siːn˥ saːŋ˥! kɐm˥ jɐt̚˨ tʰiːn˥ hei˧ tsɐn˥ hɐi˨ hou˧˥] (TSOH-SUN, LEE SEEN-SAHNG! GUM-YUT TEEN-HAY JUN-HY HOH)",
+          "translation": "Good morning, Mr. Lee! The weather is really nice today."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元1-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "陳小姐，你好！好高興喺度見到你。",
+          "reading": "can4 siu2 ze2, nei5 hou2! hou2 gou1 hing3 hai2 dou6 gin3 dou2 nei5. [tsʰɐn˨˩ siːu˧˥ tsɛː˧˥, nei˩˧ hou˧˥! hou˧˥ kou˥ hɪŋ˧ hɐi˩˧ tou˨ kiːn˧ tou˧˥ nei˩˧] (CHUN SEW-JEH, NAY HOH! HOH GOH-HING HY-DOH GEEN-DOH NAY)",
+          "translation": "Hello, Miss Chan! So glad to see you here."
+        },
+        {
+          "target": "早晨呀大家，我哋開始開會啦。",
+          "reading": "zou2 san4 aa3 daai6 gaa1, ngo5 dei6 hoi1 ci2 hoi1 wui6 laa1. [tsou˧˥ sɐn˨˩ aː˧ taːi˨ kaː˥, ŋɔː˩˧ tei˨ hɔːi˥ tsʰiː˧˥ hɔːi˥ wuːi˨ laː˥] (TSOH-SUN AH DY-GAH, NGOH-DAY HOY-CHEE HOY-WOOEY LAH)",
+          "translation": "Good morning everyone, let's start the meeting."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【聲調記憶法】「早晨」（zou2 san4）嘅音高好似晨曦初升：第2聲「早」（zou2）由中音向上升起，第4聲「晨」（san4）順勢回落至低沉胸音，抑揚頓挫。"
+      ],
+      "culturalNotes": [
+        "喺香港日常社交中，句末助詞「呀」（aa3）扮演著極為重要嘅語氣調節角色。「早晨」加上「呀」變成「早晨呀」，能令問候語氣更加親切柔和，消除生硬感。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"早晨\":",
+          "prompt": "【情境選擇】早上八時半喺大廈電梯遇到鄰居，最適當且自然嘅問候語係：",
           "options": [
-            "早晨，陳先生！",
-            "語序顛倒嘅非標準句式（例項：你好錯置）",
-            "混雜生硬詞彙之不規範語句（例項：唔該未適配）",
-            "聲調助詞搭配欠妥之表達（例項：多謝誤用）"
+            "早晨呀 (zou2 san4 aa3)",
+            "再見 (zoi3 gin3)",
+            "多謝 (do1 ze6)",
+            "唔緊要 (m4 gan2 jiu3)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "早晨 (zou2 san4) 係粵語最標準正宗嘅晨早問候語。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"早晨\":",
+          "prompt": "【語音辨析】邊一組粵拼聲母準確呈現咗「不送氣清塞音」同「送氣清塞音」嘅對立？",
           "options": [
-            "早晨，陳先生！",
-            "混雜生硬詞彙之不規範語句（例項：唔該未適配）",
-            "聲調助詞搭配欠妥之表達（例項：多謝誤用）",
-            "語序顛倒嘅非標準句式（例項：你好錯置）"
+            "b [p] 對比 p [pʰ]",
+            "d [t] 對比 z [ts]",
+            "m [m] 對比 n [n]",
+            "g [k] 對比 h [h]"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "b 代表不送氣清雙唇塞音 [p]，p 代表送氣清雙唇塞音 [pʰ]。"
         }
       ]
     },
@@ -539,15 +548,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"早晨\": Which sentence is completely correct?",
+          "prompt": "【禮貌規範】喺商務會議初次接見客戶時，最適當嘅日間問候語係：",
           "options": [
-            "早晨，陳先生！",
-            "聲調助詞搭配欠妥之表達（例項：多謝誤用）",
-            "語序顛倒嘅非標準句式（例項：你好錯置）",
-            "混雜生硬詞彙之不規範語句（例項：唔該未適配）"
+            "你好 (nei5 hou2)",
+            "早晨 (zou2 san4)",
+            "唔該 (m4 goi1)",
+            "拜拜 (baai1 baai3)"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「你好」（nei5 hou2）係初次見面最得體正式嘅敬語問候。"
         }
       ],
       "passThreshold": 0.8
@@ -558,53 +567,62 @@
     "subject": "cantonese",
     "unit": 1,
     "lessonNumber": 2,
-    "title": "粵拼發音同基本問候 (Jyutping & Greetings) (第2課)",
+    "title": "唔該與多謝：粵語致謝體系的語用分工 (Gratitude: m4 goi1 vs do1 ze6)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 初次結識與姓名詢問介紹 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "清晰區分「唔該」（勞動服務/請求）同「多謝」（餽贈禮品/讚美）嘅語用範疇，準確運用「唔該晒」。",
     "presentation": {
-      "explanation": "",
+      "explanation": "廣東話中之致謝系統存在涇渭分明之雙軌分工，「唔該」與「多謝」在語用功能上嚴禁混淆，乃衡量粵語純正度之重要標誌：\n\n一、「唔該」之語用範圍：\n１．用於感謝他人付出勞動、時間或提供服務。例如侍應遞茶、司機停車、他人協助開門或搬運重物時，必須道謝「唔該」。\n２．用於禮貌請求或示意借過。例如：「唔該借借」（請借過）、「唔該埋單」（麻煩結帳）。\n３．加上動態助詞「晒」（表全體、徹底）構成「唔該晒」，表達「非常感謝您的鼎力相助」。\n\n二、「多謝」之語用範圍：\n１．專門用於接受物質禮品、金錢餽贈、新春利是（紅包）或受人宴請款待。例如收取生日禮物或受人請客時，必須道謝「多謝」。\n２．用於回應他人的言語讚美或肯定。\n\n辨析準則：他人為你付出勞力或提供便利，道「唔該」；他人將物質財物或言語讚譽贈予於你，道「多謝」。",
       "examples": [
         {
-          "target": "你好，我叫陳大文，好高興識到你。",
-          "reading": "nei5 hou2, ngo5 giu3 can4 daai6 man4 [nei˩˧ hou˧˥, ŋɔː˩˧ kiːu˧ tsʰɐn˨˩ taːi˨ mɐn˨˩] (NAY HOH, NGOH GEW CHUN DY-MUN)",
-          "translation": "Hello, my name is David Chan, glad to meet you."
+          "target": "唔該借借，我想過一過。",
+          "reading": "m4 goi1 ze3 ze3, ngo5 soeng2 gwo3 jat1 gwo3. [m̩˨˩ kɔːi˥ tsɛː˧ tsɛː˧, ŋɔː˩˧ sœːŋ˧˥ kʷɔː˧ jɐt̚˥ kʷɔː˧] (M-GOY JEH-JEH, NGOH SEUNG GWOR YUT GWOR)",
+          "translation": "Excuse me, please let me through."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元1-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "多謝你份生日禮物，真係好精緻！",
+          "reading": "do1 ze6 nei5 fan6 saang1 jat6 lai5 mat6, zan1 hai6 hou2 zing1 zi3! [tɔː˥ tsɛː˨ nei˩˧ fɐn˨ saːŋ˥ jɐt̚˨ lɐi˩˧ mɐt̚˨, tsɐn˥ hɐi˨ hou˧˥ tsɪŋ˥ tsiː˧] (DOH-JEH NAY FUN SAHNG-YUT LY-MUT, JUN-HY HOH JING-JEE)",
+          "translation": "Thank you for your birthday gift, it is really exquisite!"
+        },
+        {
+          "target": "唔該晒你幫我手搬呢箱文件。",
+          "reading": "m4 goi1 saai3 nei5 bong1 ngo5 sau2 bun1 ni1 soeng1 man4 gin2. [m̩˨˩ kɔːi˥ saːi˧ nei˩˧ pɔːŋ˥ ŋɔː˩˧ sɐu˧˥ puːn˥ niː˥ sœːŋ˥ mɐn˨˩ kiːn˧˥] (M-GOY-SYE NAY BONG NGOH-SAU BOON NEE-SEUNG MUN-GEEN)",
+          "translation": "Thank you very much for helping me carry this box of documents."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【詞源記憶法】「唔該」字面意為「不應該讓您如此勞累」，專敬勞動服務；「多謝」字面為「多加感謝餽贈」，專受禮物賞賜。"
+      ],
+      "culturalNotes": [
+        "農曆新年期間收利是（紅包）時，必須雙手接過並連聲講「多謝」，隨後送上賀年吉言（如「祝你身體健康、心想事成」）。此時若誤講「唔該」，會被視為不諳傳統禮數。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"你好\":",
+          "prompt": "【情境辨析】同事專程買咗杯熱咖啡請你飲作為鼓勵，你應對佢講：",
           "options": [
-            "你好，我叫陳大文，好高興識到你。",
-            "語序顛倒嘅非標準句式（例項：唔該錯置）",
-            "混雜生硬詞彙之不規範語句（例項：多謝未適配）",
-            "聲調助詞搭配欠妥之表達（例項：再見誤用）"
+            "多謝你 (do1 ze6 nei5)",
+            "唔該借借 (m4 goi1 ze3 ze3)",
+            "早晨 (zou2 san4)",
+            "對唔住 (deoi3 m4 zyu6)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "受人宴請或餽贈飲品，必須使用「多謝」表達謝意。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"你好\":",
+          "prompt": "【日常生活】搭乘地鐵準備落車，前方乘客阻擋出口，最適當嘅禮貌用語係：",
           "options": [
-            "你好，我叫陳大文，好高興識到你。",
-            "混雜生硬詞彙之不規範語句（例項：多謝未適配）",
-            "聲調助詞搭配欠妥之表達（例項：再見誤用）",
-            "語序顛倒嘅非標準句式（例項：唔該錯置）"
+            "唔該借借 (m4 goi1 ze3 ze3)",
+            "多謝借借 (do1 ze6 ze3 ze3)",
+            "拜拜 (baai1 baai3)",
+            "好高興 (hou2 gou1 hing3)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "請求他人讓路或提供便利時，使用「唔該借借」（m4 goi1 ze3 ze3）。"
         }
       ]
     },
@@ -612,15 +630,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"你好\": Which sentence is completely correct?",
+          "prompt": "【語用判斷】以下邊種情境必須使用「唔該」而絕對不可使用「多謝」？",
           "options": [
-            "你好，我叫陳大文，好高興識到你。",
-            "聲調助詞搭配欠妥之表達（例項：再見誤用）",
-            "語序顛倒嘅非標準句式（例項：唔該錯置）",
-            "混雜生硬詞彙之不規範語句（例項：多謝未適配）"
+            "喺茶餐廳示意侍應添熱水或結帳",
+            "婚宴上收取親友致贈嘅賀禮紅包",
+            "生日聚會接過朋友送嘅香水禮盒",
+            "被同事讚賞工作效率高超"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "指示或請求餐飲侍應服務，必須使用「唔該」。"
         }
       ],
       "passThreshold": 0.8
@@ -631,53 +649,62 @@
     "subject": "cantonese",
     "unit": 1,
     "lessonNumber": 3,
-    "title": "粵拼發音同基本問候 (Jyutping & Greetings) (第3課)",
+    "title": "粵語九聲六調與音高輪廓 (The Six Tones & Pitch Contours)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 勞煩助人與唔該多謝分別 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握現代廣東話六個舒聲調嘅音高輪廓（55, 35, 33, 21, 23, 22），熟練朗讀經典「詩史試時市事」音調序列。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語聲調系統完整保留中古漢語平上去入分陰陽之宏大格局。現代標準廣東話舒聲字共有六個獨立音位聲調，其五度標音音高輪廓如下：\n\n一、六調音高分佈與代表字：\n１．第1聲（陰平）：五五高平調，音高居於頂點，如「詩」、「天」。\n２．第2聲（陰上）：三五高升調，由中音升至最高音，如「史」、「好」。\n３．第3聲（陰去）：三三中平調，平穩適中，如「試」、「去」。\n４．第4聲（陽平）：二一低降調，音高落至最低胸音，如「時」、「人」。\n５．第5聲（陽上）：二三低升調，由低音緩升至中音，如「市」、「我」。\n６．第6聲（陽去）：二二低平調，低音平直微高於第4聲，如「事」、「食」。\n\n二、經典聲調口訣與辨義重要性：\n香港學界常用「三碗細牛腩麵」作為順序記憶第1至第6聲之代表語句。粵語聲調具極強辨義功能，聲調改變將徹底改變詞義，例如「買」（第5聲低升）與「賣」（第6聲低平）。",
       "examples": [
         {
-          "target": "唔該晒你幫我手搬呢張枱。",
-          "reading": "m4 goi1 saai3 nei5 bong1 ngo5 sau2 bun1 ni1 zoeng1 toi2 [m̩˨˩ kɔːi˥ saːi˧ nei˩˧ pɔːŋ˥ ŋɔː˩˧ sɐu˧˥ puːn˥ niː˥ tsœːŋ˥ tʰɔːi˧˥] (M-GOY-SAHY NAY BONG NGOH-SAU BOON NEE-JEUNG TOY)",
-          "translation": "Thank you so much for helping me move this table."
+          "target": "詩、史、試、時、市、事",
+          "reading": "si1, si2, si3, si4, si5, si6 [siː˥, siː˧˥, siː˧, siː˨˩, siː˨˧, siː˨] (SEE1, SEE2, SEE3, SEE4, SEE5, SEE6)",
+          "translation": "Poetry, history, test, time, market, matter (The standard 6-tone test series)"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元1-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "三碗細牛腩麵",
+          "reading": "saam1 wun2 sai3 ngau4 naam5 min6 [saːm˥, wuːn˧˥, sɐi˧, ŋɐu˨˩, naːm˨˧, miːn˨] (SAHM WOON SYE NGAU NAHM MEEN)",
+          "translation": "Three bowls of small beef brisket noodles (Tone sequence 1-2-3-4-5-6)"
+        },
+        {
+          "target": "佢今日去街市買新鮮海鮮。",
+          "reading": "keoi5 gam1 jat6 heoi3 gaai1 si5 maai5 san1 sin1 hoi2 sin1. [kʰɵy˩˧ kɐm˥ jɐt̚˨ hɵy˧ kaːi˥ siː˨˧ maːi˩˧ sɐn˥ siːn˥ hɔːi˧˥ siːn˥] (KUY GUM-YUT HOY GY-SEE MY SUN-SEEN HOY-SEEN)",
+          "translation": "He/she is going to the wet market to buy fresh seafood today."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【美食口訣法】「三碗細牛腩麵」（saam1 wun2 sai3 ngau4 naam5 min6）六個字嘅聲調正好完全對應 1、2、3、4、5、6 聲，念熟菜名即掌握聲調序列！"
+      ],
+      "culturalNotes": [
+        "粵語嘅聲調差異至關重要：買（maai5）同賣（maai6）、糖（tong4，糖果）同湯（tong1，熱湯）、杯（bui1）同背（bui3），若發音聲調不準會引起嚴重語義混淆。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"唔該\":",
+          "prompt": "【音高辨析】粵語第2聲（陰上，如「史」si2、「好」hou2）嘅五度音高輪廓係：",
           "options": [
-            "唔該晒你幫我手搬呢張枱。",
-            "語序顛倒嘅非標準句式（例項：多謝錯置）",
-            "混雜生硬詞彙之不規範語句（例項：再見未適配）",
-            "聲調助詞搭配欠妥之表達（例項：唔好意思誤用）"
+            "高升調 35",
+            "高平調 55",
+            "低降調 21",
+            "低平調 22"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "第2聲（陰上）由中音（3度）升至最高音（5度）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"唔該\":",
+          "prompt": "【詞義辨析】「買」（maai5）同「賣」（maai6）喺聲調與含義上嘅核心差別係：",
           "options": [
-            "唔該晒你幫我手搬呢張枱。",
-            "混雜生硬詞彙之不規範語句（例項：再見未適配）",
-            "聲調助詞搭配欠妥之表達（例項：唔好意思誤用）",
-            "語序顛倒嘅非標準句式（例項：多謝錯置）"
+            "「買」係第5聲（低升，購進），「賣」係第6聲（低平，售出）",
+            "「買」係第6聲（售出），「賣」係第5聲（購進）",
+            "兩者皆為第1聲且意思完全相同",
+            "「買」係名詞，「賣」係形容詞"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「買」為第5聲（maai5，23低升），「賣」為第6聲（maai6，22低平）。"
         }
       ]
     },
@@ -685,15 +712,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"唔該\": Which sentence is completely correct?",
+          "prompt": "【口訣驗證】以下邊句地道粵語名句嘅字音聲調嚴格按照第1聲至第6聲依序排列？",
           "options": [
-            "唔該晒你幫我手搬呢張枱。",
-            "聲調助詞搭配欠妥之表達（例項：唔好意思誤用）",
-            "語序顛倒嘅非標準句式（例項：多謝錯置）",
-            "混雜生硬詞彙之不規範語句（例項：再見未適配）"
+            "三碗細牛腩麵 (saam1 wun2 sai3 ngau4 naam5 min6)",
+            "早晨李先生呀 (zou2 san4 lei5 sin1 saang1 aa3)",
+            "唔該借借我過 (m4 goi1 ze3 ze3 ngo5 gwo3)",
+            "你好陳大文生 (nei5 hou2 can4 daai6 man4 saang1)"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "三(1) 碗(2) 細(3) 牛(4) 腩(5) 麵(6) 完美對應 1 至 6 聲。"
         }
       ],
       "passThreshold": 0.8
@@ -704,53 +731,62 @@
     "subject": "cantonese",
     "unit": 1,
     "lessonNumber": 4,
-    "title": "粵拼發音同基本問候 (Jyutping & Greetings) (第4課)",
+    "title": "道別用語、拜拜與「得閒飲茶」 (Farewells & 'Dak Haan Jam Caa')",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 禮貌道歉與唔好意思借過 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "靈活運用「再見」、「拜拜」、「聽日見」同「我走先」，並掌握「得閒飲茶」嘅社交語用深意。",
     "presentation": {
-      "explanation": "",
+      "explanation": "廣東話之道別表達兼具典雅規範與高度口語化特徵，不同場合有相應之言辭習慣：\n\n一、常用道別句式：\n１．「再見」：標準正式道別語，多見於廣播通告、學校課堂、正式會議散會或新聞播報。\n２．「拜拜」：源自英語借詞，已完全融入粵語日常生活，老少咸宜，適用於朋友、同事與日常道別。第二個音節常讀成變調高升音。\n３．「聽日見」：「聽日」即明天，意為「明天見」；「一陣見」意為「稍後見 / 一會兒見」。\n４．「我走先喇」：粵語副詞「先」習慣置於動詞之後表「先行一步」，乃告辭離席時極具禮貌之慣用語句。\n\n二、「得閒飲茶」之社交語用深意：\n「得閒飲茶」字面意為「有空時一起去飲茶品嚐點心」。在香港社交文化中，此語往往作為溫暖客氣之告別客套語，表達維繫情誼之美好願望，除非緊接約定具體時間地點，否則不宜死板視為即刻兌現之日程承諾。",
       "examples": [
         {
-          "target": "唔好意思，請問地鐵站喺邊度？",
-          "reading": "m4 hou2 ji3 si3, cing2 man6 dei6 tit3 zaam6 hai2 bin1 dou6 [m̩˨˩ hou˧˥ jiː˧ siː˧, tsʰɪŋ˧˥ mɐn˨ tei˨ tʰiːt˧ tsaːm˨ hɐi˩˧ piːn˥ tou˨] (M-HOH YEE-SEE, CHING-MUN DAY-TEET JAHM HY BEEN-DOH)",
-          "translation": "Excuse me, could you tell me where the MTR station is?"
+          "target": "我走先喇，聽日公司開會見！",
+          "reading": "ngo5 zau2 sin1 laa3, ting1 jat6 gung1 si1 hoi1 wui6 gin3! [ŋɔː˩˧ tsɐu˧˥ siːn˥ laː˧, tʰɪŋ˥ jɐt̚˨ kʊŋ˥ siː˥ hɔːi˥ wuːi˨ kiːn˧] (NGOH JAU SEEN LAH, TING-YUT GOONG-SEE HOY-WOOEY GEEN!)",
+          "translation": "I'm leaving first, see you at the company meeting tomorrow!"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元1-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "拜拜！得閒出嚟飲茶食飯啦。",
+          "reading": "baai1 baai3! dak1 haan4 ceot1 lai4 jam2 caa4 sik6 faan6 laa1. [baːi˥ baːi˧! tɐk̚˥ haːn˨˩ tsʰɵt̚˥ lɐi˨˩ jɐm˧˥ tsʰaː˨˩ sɪk̚˨ faːn˨ laː˥] (BYE-BYE! DUK-HAHN CHUT-LY YUM-CHAH SIK-FAHN LAH!)",
+          "translation": "Bye-bye! Let's get tea and a meal sometime when you're free."
+        },
+        {
+          "target": "陳經理，慢行呀，再見！",
+          "reading": "can4 ging1 lei5, maan6 haang4 aa3, zoi3 gin3! [tsʰɐn˨˩ kɪŋ˥ lei˩˧, maːn˨ haːŋ˨˩ aː˧, tsɔːi˧ kiːn˧] (CHUN GING-LEE, MAHN-HAHNG AH, JOY-GEEN!)",
+          "translation": "Manager Chan, take care on your way, goodbye!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【語序記憶法】粵語講「我走先」（ngo5 zau2 sin1），副詞「先」放喺動詞後面，代表「我先走一步」，語氣謙遜有禮。"
+      ],
+      "culturalNotes": [
+        "告別主人家或店主時，對方常客氣講「慢行」（maan6 haang4，請慢走/路上小心），此時客人最得體嘅回應係「唔使送」（m4 sai2 sung3，請留步/不用送），體恤主人辛勞。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"多謝\":",
+          "prompt": "【日常下班】下班離開辦公室向同組同事告別，最自然地道嘅說法係：",
           "options": [
-            "唔好意思，請問地鐵站喺邊度？",
-            "語序顛倒嘅非標準句式（例項：再見錯置）",
-            "混雜生硬詞彙之不規範語句（例項：唔好意思未適配）",
-            "聲調助詞搭配欠妥之表達（例項：對唔住誤用）"
+            "我走先喇，聽日見！ (ngo5 zau2 sin1 laa3, ting1 jat6 gin3!)",
+            "早晨陳小姐！ (zou2 san4 can4 siu2 ze2!)",
+            "唔該埋單！ (m4 goi1 maai4 daan1!)",
+            "對唔住呀！ (deoi3 m4 zyu6 aa3!)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「我走先喇，聽日見！」係放工離場最地道親切嘅粵語告別語。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"多謝\":",
+          "prompt": "【文化理解】友人離別時講「得閒飲茶啦」，最符合香港社交語用嘅真實意涵係：",
           "options": [
-            "唔好意思，請問地鐵站喺邊度？",
-            "混雜生硬詞彙之不規範語句（例項：唔好意思未適配）",
-            "聲調助詞搭配欠妥之表達（例項：對唔住誤用）",
-            "語序顛倒嘅非標準句式（例項：再見錯置）"
+            "表達友好掛念嘅告別客套，意為「保持聯絡、改天相聚」",
+            "要求你即刻預訂聽朝早茶位",
+            "表示對你目前工作忙碌嘅嚴厲批評",
+            "要求你即刻替對方支付茶水費用"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「得閒飲茶」係香港極具代表性嘅人情味客套道別語。"
         }
       ]
     },
@@ -758,15 +794,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"多謝\": Which sentence is completely correct?",
+          "prompt": "【口語習慣】喺香港年輕同輩或朋友之間，最普遍使用嘅非正式告別語係：",
           "options": [
-            "唔好意思，請問地鐵站喺邊度？",
-            "聲調助詞搭配欠妥之表達（例項：對唔住誤用）",
-            "語序顛倒嘅非標準句式（例項：再見錯置）",
-            "混雜生硬詞彙之不規範語句（例項：唔好意思未適配）"
+            "拜拜 (baai1 baai3)",
+            "貴姓 (gwai3 sing3)",
+            "請問 (cing2 man6)",
+            "多謝 (do1 ze6)"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「拜拜」（baai1 baai3）喺香港日常社交中普及率最高。"
         }
       ],
       "passThreshold": 0.8
@@ -777,53 +813,62 @@
     "subject": "cantonese",
     "unit": 1,
     "lessonNumber": 5,
-    "title": "粵拼發音同基本問候 (Jyutping & Greetings) (第5課)",
+    "title": "姓氏稱謂與禮貌問名 (Surnames, Titles & Polite Inquiries)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 道別叮囑與日常客套拜拜 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "運用「請問點稱呼」與「貴姓」禮貌詢問姓名，熟練使用「我姓...」及粵語「先生/小姐/太太」後置稱謂。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在廣東話社交與商務往來中，禮貌詢問對方尊姓大名並準確使用稱謂乃人際交往之基石：\n\n一、禮貌問名句式：\n１．「請問點稱呼？」：最地道、最普遍之敬語問名句式。「請問」表禮貌請求，「點」表如何，「稱呼」表稱謂。\n２．「請問你貴姓？」：較為正式隆重之商務問法，「貴姓」意為「您尊貴的姓氏」。\n３．回應姓名方式：自報姓氏可道「我姓張」；報上慣用稱呼可道「叫我阿Ken得喇」。\n\n二、粵語稱謂語序特徵：\n廣東話之尊稱一律後置於姓氏之後：\n１．「先生」：黃先生。\n２．「小姐」：李小姐。\n３．「太太」：陳太太。\n日常熟人之間，常在單字名或英文名前加前綴「阿」（如「阿強」、「阿May」），以增添親切隨和之氣氛。",
       "examples": [
         {
-          "target": "拜拜，聽日下晝公司會議見。",
-          "reading": "baai1 baai3, ting1 jat6 haa6 zau3 gung1 si1 wui6 ji5 gin3 [paːi˥ paːi˧, tʰɪŋ˥ jɐt˨ haː˨ tsɐu˧ kʊŋ˥ siː˥ wuːi˨ jiː˩˧ kiːn˧] (BYE-BYE, TING-YUT HAH-JAU GOONG-SEE WOOEY-YEE GEEN)",
-          "translation": "Bye-bye, see you at the company meeting tomorrow afternoon."
+          "target": "請問點稱呼呀？我姓張，叫我阿John得喇。",
+          "reading": "cing2 man6 dim2 cing1 fu1 aa3? ngo5 sing3 zoeng1, giu3 ngo5 aa3 John dak1 laa3. [tsʰɪŋ˧˥ mɐn˨ tiːm˧˥ tsʰɪŋ˥ fuː˥ aː˧? ŋɔː˩˧ sɪŋ˧ tsœːŋ˥, kiːu˧ ŋɔː˩˧ aː˧ John tɐk̚˥ laː˧] (CHING-MUN DEEM CHING-FOO AH? NGOH SING JEUNG, GEW NGOH AH JOHN DUK LAH)",
+          "translation": "May I ask how I should address you? My surname is Cheung, you can just call me John."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元1-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "張先生，呢位係我哋市場部嘅王小姐。",
+          "reading": "zoeng1 sin1 saang1, ni1 wai2 hai6 ngo5 dei6 si5 coeng4 bou6 ge3 wong4 siu2 ze2. [tsœːŋ˥ siːn˥ saːŋ˥, niː˥ wɐi˧˥ hɐi˨ ŋɔː˩˧ tei˨ siː˨˧ tsʰœːŋ˨˩ pou˨ kɛː˧ wɔːŋ˨˩ siːu˧˥ tsɛː˧˥] (JEUNG SEEN-SAHNG, NEE-WY HY NGOH-DAY SEE-CHEUNG BO GEH WONG SEW-JEH)",
+          "translation": "Mr. Cheung, this is Miss Wong from our marketing department."
+        },
+        {
+          "target": "幸會幸會，好高興喺度識到咁多位朋友。",
+          "reading": "hang6 wui6 hang6 wui6, hou2 gou1 hing3 hai2 dou6 sik1 dou2 gam3 do1 wai2 pang4 jau5. [hɐŋ˨ wuːi˨ hɐŋ˨ wuːi˨, hou˧˥ kou˥ hɪŋ˧ hɐi˩˧ tou˨ sɪk̚˥ tou˧˥ kɐm˧ tɔː˥ wɐi˧˥ pʰɐŋ˨˩ jɐu˩˧] (HUNG-WOOEY HUNG-WOOEY, HOH GOH-HING HY-DOH SIK-DOH GUM-DOH WY PUNG-YAU)",
+          "translation": "Charmed to meet you, so pleased to meet so many friends here."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【稱謂語序法】記住粵語稱謂「姓氏在前、稱謂在後」：黃先生（Wong Sin-saang）、李小姐（Lee Siu-ze），恪守東方尊長禮序。"
+      ],
+      "culturalNotes": [
+        "喺香港職場同社交圈子，前綴「阿」（aa3，如阿Ming、阿強）非常普及，既避免直呼全名嘅生硬疏離，又保持親切溫和嘅同袍關係。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"再見\":",
+          "prompt": "【商務拜訪】初次與客戶見面，最得體禮貌詢問對方姓名嘅句式係：",
           "options": [
-            "拜拜，聽日下晝公司會議見。",
-            "語序顛倒嘅非標準句式（例項：唔好意思錯置）",
-            "混雜生硬詞彙之不規範語句（例項：對唔住未適配）",
-            "聲調助詞搭配欠妥之表達（例項：食飯誤用）"
+            "請問點稱呼？ (cing2 man6 dim2 cing1 fu1?)",
+            "你走先喇！ (nei5 zau2 sin1 laa3!)",
+            "唔該借借！ (m4 goi1 ze3 ze3!)",
+            "多謝禮物！ (do1 ze6 lai5 mat6!)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「請問點稱呼？」係粵語詢問姓名最得體標準嘅敬語。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"再見\":",
+          "prompt": "【稱謂規範】向大家正式介紹「黃先生」時，正確嘅粵語詞序係：",
           "options": [
-            "拜拜，聽日下晝公司會議見。",
-            "混雜生硬詞彙之不規範語句（例項：對唔住未適配）",
-            "聲調助詞搭配欠妥之表達（例項：食飯誤用）",
-            "語序顛倒嘅非標準句式（例項：唔好意思錯置）"
+            "黃先生 (wong4 sin1 saang1)",
+            "先生黃 (sin1 saang1 wong4)",
+            "黃多謝 (wong4 do1 ze6)",
+            "黃早晨 (wong4 zou2 san4)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "粵語稱謂嚴格遵循「姓氏在前、稱謂在後」：黃先生 (wong4 sin1 saang1)。"
         }
       ]
     },
@@ -831,15 +876,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"再見\": Which sentence is completely correct?",
+          "prompt": "【問答匹配】當對方禮貌詢問「請問點稱呼？」時，最適切自然嘅答覆係：",
           "options": [
-            "拜拜，聽日下晝公司會議見。",
-            "聲調助詞搭配欠妥之表達（例項：食飯誤用）",
-            "語序顛倒嘅非標準句式（例項：唔好意思錯置）",
-            "混雜生硬詞彙之不規範語句（例項：對唔住未適配）"
+            "我姓李，叫我阿Ben得喇。 (ngo5 sing3 lei5, giu3 ngo5 aa3 Ben dak1 laa3.)",
+            "唔該晒你幫手搬枱。 (m4 goi1 saai3 nei5 bong1 sau2 bun1 toi2.)",
+            "聽日公司再見啦。 (ting1 jat6 gung1 si1 zoi3 gin3 laa1.)",
+            "得閒出嚟飲茶啦。 (dak1 haan4 ceot1 lai4 jam2 caa4 laa1.)"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "報出姓氏（我姓...）及慣用稱呼（叫我...得喇）係最標準完整嘅回應。"
         }
       ],
       "passThreshold": 0.8
