@@ -4995,53 +4995,62 @@
     "subject": "ukrainian",
     "unit": 12,
     "lessonNumber": 1,
-    "title": "Вид дієслова: доконаний та недоконаний (Verbal Aspect Pairs) (Part 1)",
+    "title": "Префіксальний спосіб творення видових пар (Aspectual Prefixation)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 12.1) with authentic linguistic precision.",
+    "objective": "Опанувати творення видових пар за допомогою суто видових префіксів (писати -> написати, робити -> зробити) без зміни лексичного значення.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Вид (aspect) — фундаментальна граматична категорія українського дієслова, яка вказує на перебіг дії в часі: її обмеженість/необмеженість внутрішньою межею або результатом. Більшість дієслів утворюють співвідносні видові пари (aspect pairs: недоконаний — доконаний).\n\nПрефіксація — один із найпоширеніших способів творення дієслів доконаного виду від безпрефіксних дієслів недоконаного виду:\n\n1. Чистовидові префікси (не змінюють значення слова, а лише додають значення результативності/завершеності):\n   - Префікс «на-»: писати -> написати, малювати -> намалювати, рити -> нарити.\n   - Префікс «з- / с- / зі-»: робити -> зробити, формувати -> сформувати, фотографувати -> сфотографувати, псувати -> зіпсувати.\n   - Префікс «про-»: читати -> прочитати, слухати -> прослухати, аналізувати -> проаналізувати.\n   - Префікс «по-»: будувати -> побудувати, вечеряти -> повечеряти, дякувати -> подякувати.\n   - Префікс «ви-»: пити -> випити, прати -> випрати, лікувати -> вилікувати.\n   - Префікс «за-»: гинути -> загинути, соромитися -> засоромитися.\n\n2. Відмінність від словотвірних префіксів:\nЯкщо префікс змінює лексичне значення дієслова (наприклад: писати -> переписати, підписати, описати), виникає нове слово, яке саме потребує суфіксальної форми для творення своєї видової пари (переписати -> переписувати).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Художник довго малював пейзаж і нарешті намалював справжній шедевр.",
+          "reading": "[xuˈdɔʒnɪk ˈdɔwɦɔ mɐlʲuˈwɑw pɛjˈzɑʒ i nɐˈrɛʃtʲi nɐmɐlʲuˈwɑw sprɐwˈʒnʲij ʃɛˈdɛwr] (khoo-DOHZH-nyk DOHV-hoh mah-lyoo-VAHV pehy-ZAHZH ee nah-RESH-tee nah-mah-lyoo-VAHV sprahv-ZHNEEY sheh-DEHVR)",
+          "translation": "The artist was painting the landscape for a long time and finally finished painting a real masterpiece."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 12-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Він уважно прочитав кожен розділ нового підручника з історії України.",
+          "reading": "[wʲin uˈwɑʒnɔ prɔtʃɪˈtɑw ˈkɔʒɛn rɔzʲˈdʲil ˈnɔwɔɦɔ pʲidˈrutʃnɪkɐ z isˈtɔrʲiji ukrɐˈjinɪ] (veen oo-VAHZH-noh proh-chy-TAHV KOH-zhen roz-DEEL NOH-voh-hoh peed-ROOTCH-ny-kah z ees-TOH-ry-yee oo-krah-YEE-ny)",
+          "translation": "He carefully read through every chapter of the new textbook on Ukrainian history."
+        },
+        {
+          "target": "Ми щиро подякували лікареві за своєчасну та якісну медичну допомогу.",
+          "reading": "[mɪ ˈʃtʃɪrɔ pɔˈdʲɑkuwɐlɪ ˈlʲikɐrɛwʲi zɑ swɔjɛˈtʃɑsnu tɑ ˈjɑkʲisnu mɛˈdɪtʃnu dɔpɔˈmɔɦu] (my SHCHY-roh poh-DYAH-koo-wah-ly LEE-kah-reh-vee zah svoh-yeh-CHAH-snoo tah YAH-kees-noo meh-DYCH-noo doh-poh-MOH-hoo)",
+          "translation": "We sincerely thanked the doctor for the timely and high-quality medical assistance."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Написати», «зробити», «прочитати» — префікс додався, результат з'явився!"
+      ],
+      "culturalNotes": [
+        "В українській філологічній традиції чистовидові пари вважаються лексичною одиницею з двома граматичними формами, що фіксується в академічних словниках."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Відпустка\":",
+          "prompt": "Оберіть дієслово доконаного виду, утворене чистовидовою префіксацією від дієслова «будувати»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.1.",
-            "Неправильне відмінкове узгодження зі словом «Зустріч»",
-            "Порушення законів евфонії та словотворення для «Проєкт»",
-            "Стилістично некоректна синтаксична конструкція з «Угода»"
+            "Побудувати (Purely aspectual prefix po- creates perfective pair)",
+            "Перебудувати",
+            "Розбудувати",
+            "Вибудувати"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Префікс «по-» у слові «побудувати» виступає чистовидовим, не змінюючи лексичного ядра дієслова «будувати»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Відпустка\":",
+          "prompt": "Яке дієслово утворює видову пару за допомогою префікса «с-» за правилами української орфографії перед [к], [п], [т], [ф], [х]?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.1.",
-            "Порушення законів евфонії та словотворення для «Проєкт»",
-            "Стилістично некоректна синтаксична конструкція з «Угода»",
-            "Неправильне відмінкове узгодження зі словом «Зустріч»"
+            "Сформувати (Prefix s- before labial f in формувати -> сформувати)",
+            "Зформувати",
+            "Зіформувати",
+            "Розформувати"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Перед глухими приголосними кафе «Птах» [к, п, т, ф, х] пишеться префікс «с-»: «сформувати»."
         }
       ]
     },
@@ -5049,17 +5058,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Відпустка\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому пару дієслів «робити — зробити» вжито у правильних видових формах:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.1.",
-            "Стилістично некоректна синтаксична конструкція з «Угода»",
-            "Неправильне відмінкове узгодження зі словом «Зустріч»",
-            "Порушення законів евфонії та словотворення для «Проєкт»"
+            "Я робив це креслення кілька годин і нарешті зробив його без жодної помилки.",
+            "Я зробив це креслення кілька годин і нарешті робив його.",
+            "Я робив це креслення кілька годин і нарешті робив його без помилки.",
+            "Я зробив це креслення кілька годин і зробив його довго."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Тривалість «кілька годин» вимагає недоконаного виду «робив», а результат «нарешті» вимагає доконаного виду «зробив»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u12-l2": {
@@ -5067,53 +5077,62 @@
     "subject": "ukrainian",
     "unit": 12,
     "lessonNumber": 2,
-    "title": "Вид дієслова: доконаний та недоконаний (Verbal Aspect Pairs) (Part 2)",
+    "title": "Суфіксальний спосіб творення видових пар (Aspectual Suffixation)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 12.2) with authentic linguistic precision.",
+    "objective": "Опанувати творення видових пар суфіксальним способом: вторинну імперфективацію (-ува-/-юва-, -ва-, -а-/-я-) та миттєво-одноразові дієслова з суфіксом -ну-.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Суфіксація — один із найпродуктивніших способів творення видових пар в українській мові. Вона діє у двох протилежних напрямках:\n\n1. Вторинна імперфективація (творення недоконаного виду від префіксального доконаного):\n   - Суфікси «-ува- / -юва-»: підписати (док.) -> підписувати (недок.), записати -> записувати, розказати -> розказувати.\n   - Суфікс «-ва-»: відкрити -> відкривати, забути -> забувати, налити -> наливати, зігріти -> зігрівати.\n   - Суфікси «-а- / -я-»: перевірити -> перевіряти, розв'язати -> розв'язувати, пустити -> пускати.\n   - Суфікси «-овува- / -ьовува-»: зупинити -> зупиняти / зупинювати.\n\n2. Творення доконаного виду суфіксом «-ну-» (семельфактив — одноразова, миттєва дія):\n   - Кликати (тривало) -> кликнути (один раз миттєво)\n   - Стукати -> стукнути\n   - Кричати -> крикнути\n   - Стрибати -> стрибнути\n   - Блискати -> блиснути (зі спрощенням [скн] -> [сн]).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Директор ретельно перевіряє кожен документ перед тим, як підписати його.",
+          "reading": "[dɪˈrɛktɔr ˈrɛtɛlʲnɔ pɛrɛwʲiˈrʲɑjɛ ˈkɔʒɛn dɔkuˈmɛnt ˈpɛrɛd tɪm jɑk pʲidpɪˈsɑtɪ jɔˈɦɔ] (dy-REK-tohr REH-tel'-noh peh-reh-vee-RYAH-yeh KOH-zhen doh-koo-MENT PEH-red tym yahk peed-py-SAH-ty yoh-HOH)",
+          "translation": "The director thoroughly checks every document before signing it."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 12-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Несподівано в темному небі яскраво блиснула нічна блискавка.",
+          "reading": "[nɛspɔˈdʲiwɐnɔ w ˈtɛmnɔmu ˈnɛbʲi jɑsˈkrɑwɔ ˈblɪsnulɐ nʲitʃˈnɑ ˈblɪskɐwkɐ] (neh-spoh-DEE-vah-noh v TEM-noh-moo NEH-bee yahs-KRAH-woh BLYS-noo-lah neetch-NAH BLYS-kahv-kah)",
+          "translation": "Suddenly in the dark sky a night lightning bolt flashed brightly."
+        },
+        {
+          "target": "Ми щотижня відкриваємо нові можливості для молодих науковців.",
+          "reading": "[mɪ ʃtʃɔˈtɪʒnʲɑ wʲidkrɪˈwɑjɛmɔ nɔˈwʲi mɔʒˈlɪwɔsʲtʲi dlʲɑ mɔlɔˈdɪx nɐuˈkɔwt͡sʲiw] (my shchoh-TYZH-nyah veed-kry-VAH-yeh-moh noh-VEE mohzh-LY-vohs-tee dlyah moh-loh-DYKH nah-oo-KOV-tseev)",
+          "translation": "Every week we open up new opportunities for young scientists."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Суфікс «-ва- / -ува-» подовжує дію в процес, а суфікс «-ну-» робить її миттєвою, мов постріл!"
+      ],
+      "culturalNotes": [
+        "Дієслова на -нути надзвичайно характерні для українського динамічного фольклору та казок: «глянув», «шарахнув», «гукнув», створюючи живу образність."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Зустріч\":",
+          "prompt": "Утворіть дієслово недоконаного виду способом вторинної імперфективації від «переписати»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.2.",
-            "Неправильне відмінкове узгодження зі словом «Проєкт»",
-            "Порушення законів евфонії та словотворення для «Угода»",
-            "Стилістично некоректна синтаксична конструкція з «Кар'єра»"
+            "Переписувати (Secondary imperfective formed with suffix -ува-)",
+            "Переписавати",
+            "Переписування",
+            "Переписатиму"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "За допомогою суфікса -ува- від доконаного «переписати» утворюється недоконана форма процесу «переписувати»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Зустріч\":",
+          "prompt": "Яке дієслово позначає одноразову миттєву дію (семельфактив), утворену суфіксом «-ну-»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.2.",
-            "Порушення законів евфонії та словотворення для «Угода»",
-            "Стилістично некоректна синтаксична конструкція з «Кар'єра»",
-            "Неправильне відмінкове узгодження зі словом «Проєкт»"
+            "Смикнути (Instantaneous single act formed with suffix -ну- from смикати)",
+            "Смикати",
+            "Пересмикувати",
+            "Висмикувати"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Дієслово «смикнути» виражає одноразовий швидкий рух завдяки суфіксу -ну-."
         }
       ]
     },
@@ -5121,17 +5140,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Зустріч\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому суфіксальну видову пару вжито бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.2.",
-            "Стилістично некоректна синтаксична конструкція з «Кар'єра»",
-            "Неправильне відмінкове узгодження зі словом «Проєкт»",
-            "Порушення законів евфонії та словотворення для «Угода»"
+            "Студенти щодня записують лекції і вчора записали найважливіші тези.",
+            "Студенти щодня записали лекції і вчора записують найважливіші тези.",
+            "Студенти щодня записуватимуть лекції і вчора записувати лекцію.",
+            "Студенти вчора записати лекцію і щодня записали тези."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Прислівник «щодня» вимагає регулярної недоконаної форми «записують», а «вчора» з конкретним результатом — доконаної «записали»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u12-l3": {
@@ -5139,53 +5159,62 @@
     "subject": "ukrainian",
     "unit": 12,
     "lessonNumber": 3,
-    "title": "Вид дієслова: доконаний та недоконаний (Verbal Aspect Pairs) (Part 3)",
+    "title": "Чергування звуків у корені видових пар (Stem Alternations in Aspect Pairs)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 12.3) with authentic linguistic precision.",
+    "objective": "Опанувати історичні чергування голосних ([о]/[а], [е]/[і], [е]/[и]) та приголосних в основах дієслівних видових пар (допомогти — допомагати, зібрати — збирати).",
     "presentation": {
-      "explanation": "",
+      "explanation": "При творенні видових пар в українській мові суфіксація дуже часто супроводжується закономірними історичними чергуваннями голосних і приголосних фонем у корені дієслова:\n\n1. Чергування голосних [о] / [а] (найпродуктивніше правило):\nКорневий звук [о] в дієсловах доконаного виду закономірно переходить в [а] у дієсловах недоконаного виду перед суфіксами «-а-» або «-ва-»:\n   - Допомогти (док.) -> допомагати (недок.)\n   - Перемогти -> перемагати\n   - Схопити -> хапати / схоплювати\n   - Виростити -> вирощувати / виростати\n   - Простити -> прощати\n   - Ломати -> ламати\n\n2. Чергування голосних [е] / [і] та [е] / [и]:\n   - Заплести -> заплітати, вимести -> вимітати, злетіти -> злітати.\n   - Померти -> помирати, витерти -> витирати, зібрати -> збирати, підстелити -> підстилати.\n\n3. Чергування приголосних звуків:\n   - [д] / [дж] / [ж]: посадити -> саджати, народити -> народжувати.\n   - [ст] / [щ]: простити -> прощати, пустити -> пускати.\n   - [к], [г], [х] перед суфіксами: торкнутися -> торкатися, лягти -> лягати.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Волонтери невтомно допомагають літнім людям і вже допомогли сотням родин.",
+          "reading": "[wɔlɔnˈtɛrɪ nɛwˈtɔmnɔ dɔpɔmɐˈɦɑjutʲ ˈlʲitnʲim ˈlʲudʲɐm i wʒɛ dɔpɔmɔɦˈlɪ ˈsɔtnʲɐm rɔˈdɪn] (woh-lohn-TEH-ry new-TOHM-noh doh-poh-mah-HAH-yoot' LEET-neem LYOO-dyahm ee vzheh doh-poh-moh-HLY SOHT-nyahm roh-DYN)",
+          "translation": "Volunteers tirelessly help elderly people and have already helped hundreds of families."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 12-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Команда наполегливо перемагає в кожному матчі сезону.",
+          "reading": "[kɔˈmɑndɐ nɐpɔˈlɛɦlɪwɔ pɛrɛmɐˈɦɑjɛ w ˈkɔʒnɔmu ˈmɑttʃʲi sɛˈzɔnu] (koh-MAHN-dah nah-poh-LEH-hly-woh peh-reh-mah-HAH-yeh v KOHZH-noh-moo MAHT-chee seh-ZOH-noo)",
+          "translation": "The team persistently wins in every match of the season."
+        },
+        {
+          "target": "Ми щоосені збираємо врожай яблук, який посадили наші дідусі.",
+          "reading": "[mɪ ʃtʃɔˈɔsɛnʲi zbɪˈrɑjɛmɔ wrɔˈʒɑj ˈjɑbluk jɑˈkɪj pɔsɐˈdɪlɪ ˈnɑʃi dʲiduˈsʲi] (my shchoh-OH-seh-nee zby-RAH-yeh-moh vroh-ZHAHY YAHB-look yah-KYY poh-sah-DY-ly NAH-shee dee-doo-SEE)",
+          "translation": "Every autumn we gather the apple harvest which our grandfathers planted."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Доконаний [о] покликав [а] — і процес триває без кінця: «допомогти — допомагати», «перемогти — перемагати»!"
+      ],
+      "culturalNotes": [
+        "Чергування [о]/[а] в коренях дієслів — давня загальнослов'янська риса, яка в українській мові збереглася в найчистішому та найбільш системному вигляді."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Проєкт\":",
+          "prompt": "Оберіть форму недоконаного виду з правильним кореневим чергуванням [о]/[а] від дієслова «допомогти»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.3.",
-            "Неправильне відмінкове узгодження зі словом «Угода»",
-            "Порушення законів евфонії та словотворення для «Кар'єра»",
-            "Стилістично некоректна синтаксична конструкція з «Книга»"
+            "Допомагати (Stem vowel o shifts to a before suffix -а-)",
+            "Допомогати",
+            "Допоможувати",
+            "Допомогтимути"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Перед суфіксом -а- кореневий звук [о] обов'язково чергується з [а]: «допомагати» (написання «допомогати» є орфографічною помилкою)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Проєкт\":",
+          "prompt": "Яке дієслово демонструє чергування [е]/[и] в корені у видовій парі «зібрати — ...»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.3.",
-            "Порушення законів евфонії та словотворення для «Кар'єра»",
-            "Стилістично некоректна синтаксична конструкція з «Книга»",
-            "Неправильне відмінкове узгодження зі словом «Угода»"
+            "Збирати (Root vowel e/zero shifts to y in imperfective zbyraty)",
+            "Зберати",
+            "Зборяти",
+            "Зібрання"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "У дієслові «збирати» перед суфіксом -а- виступає кореневий голосний [и]: «зібрати — збирати»."
         }
       ]
     },
@@ -5193,17 +5222,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Проєкт\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому не допущено орфографічних помилок у дієсловах із чергуванням голосних:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.3.",
-            "Стилістично некоректна синтаксична конструкція з «Книга»",
-            "Неправильне відмінкове узгодження зі словом «Угода»",
-            "Порушення законів евфонії та словотворення для «Кар'єра»"
+            "Українські захисники мужньо перемагають ворога на всіх напрямках.",
+            "Українські захисники мужньо перемогують ворога на всіх напрямках.",
+            "Українські захисники мужньо перемоговають ворога.",
+            "Українські захисники мужньо перемогнуть ворога щодня."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Форма теперішнього часу недоконаного виду від «перемогти» пишеться з буквою «а»: «перемагають»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u12-l4": {
@@ -5211,53 +5241,62 @@
     "subject": "ukrainian",
     "unit": 12,
     "lessonNumber": 4,
-    "title": "Вид дієслова: доконаний та недоконаний (Verbal Aspect Pairs) (Part 4)",
+    "title": "Суплетивні видові пари та зміна наголосу (Suppletion & Stress Shift Pairs)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 12.4) with authentic linguistic precision.",
+    "objective": "Опанувати суплетивні видові пари (брати — взяти, ловити — піймати, говорити — сказати) та розрізнення виду за допомогою зміни місця наголосу.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Не всі видові пари в українській мові творяться стандартними афіксами. Існують дві особливі граматичні групи:\n\n1. Суплетивні видові пари (утворюються від різних коренів/основ):\n   - Брати (недок., процес) — взяти (док., результат)\n   - Говорити (недок.) — сказати (док.)\n   - Ловити (недок.) — піймати / впіймати (док.)\n   - Класти (недок.) — покласти (док., префіксально-кореневий зсув) / положити\n   - Шукати (недок.) — знайти (док., семантична суплетивність)\n\n2. Акцентуаційні видові пари (розрізняються виключно місцем наголосу):\nЗміна місця наголосу змінює видову належність дієслова без зміни жодної літери:\n   - Розсипа́ти (недок., що робити?) — розси́пати (док., що зробити?)\n   - Вимі́рювати (недок.) — ви́міряти (док.)\n   - Склика́ти (недок., тривало збирати людей) — скли́кати (док., одноразово зібрати збори)\n   - Розріза́ти (недок.) — розрі́зати (док.)\n   - Насипа́ти (недок.) — наси́пати (док.)\n   - Відклика́ти (недок.) — відкли́кати (док.).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Я щодня беру книги в бібліотеці і сьогодні взяв найновіший науковий збірник.",
+          "reading": "[jɑ ʃtʃɔdʲˈnʲɑ bɛˈru ˈknɪɦɪ w bʲiblʲiɔˈtɛt͡sʲi i sʲɔˈɦɔdnʲi wzʲɑw nɐjnɔˈwʲiʃɪj nɐuˈkɔwɪj ˈzbʲirnɪk] (yah shchohd-NYAH beh-ROO KNY-hy v beeb-lee-oh-TEH-tsee ee syoh-HOHD-nee vzyahv nahy-noh-VEE-shyy nah-oo-KOH-wyy ZBEER-nyk)",
+          "translation": "I take books from the library every day and today I took the newest scientific collection."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 12-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Необхідно терміново скли́кати позачергове засідання вченої ради університету.",
+          "reading": "[nɛɔbˈxʲidnɔ tɛrˈmʲinɔwɔ ˈsklɪkɐtɪ pɔzɐtʃɛrɦɔˈwɛ zɐˈsʲidɐnʲːɑ ˈwtʃɛnɔji ˈrɑdɪ unʲiwɛrsɪˈtɛtu] (neh-ohb-KHEED-noh tehr-MEE-noh-woh SKLY-kah-ty poh-zah-chehr-hoh-WEH zah-SEE-dahn-nyah VCHEH-noh-yee RAH-dy oo-nee-vehr-sy-TEH-too)",
+          "translation": "It is necessary to urgently convene an extraordinary meeting of the university academic council."
+        },
+        {
+          "target": "Він довго говорив про плани на майбутнє і врешті сказав найголовніше.",
+          "reading": "[wʲin ˈdɔwɦɔ ɦɔwɔˈrɪw prɔ ˈplɑnɪ nɑ mɐjˈbutnʲɛ i ˈwrɛʃtʲi skɐˈzɑw nɐjɦɔlɔwˈnʲiʃɛ] (veen DOHV-hoh hoh-woh-RYV proh PLAH-ny nah mahy-BOOT-nyeh ee VRESH-tee skah-ZAHV nahy-hoh-lov-NEE-sheh)",
+          "translation": "He was speaking for a long time about plans for the future and finally said the most important thing."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Брати — взяти», «говорити — сказати» — різні корені, але одна нерозлучна видова родина!"
+      ],
+      "culturalNotes": [
+        "Правильний наголос у парах на кшталт «склика́ти / скли́кати» є критерієм високої культури мовлення на телебаченні, радіо та в університетському викладанні."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Угода\":",
+          "prompt": "Оберіть суплетивну доконану пару до дієслова недоконаного виду «брати»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.4.",
-            "Неправильне відмінкове узгодження зі словом «Кар'єра»",
-            "Порушення законів евфонії та словотворення для «Книга»",
-            "Стилістично некоректна синтаксична конструкція з «Музика»"
+            "Взяти (Suppletive perfective aspect counterpart to imperfective брати)",
+            "Бранути",
+            "Побирати",
+            "Братиму"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Дієслово «брати» утворює доконаний вид суплетивно: «взяти»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Угода\":",
+          "prompt": "Яке дієслово є доконаним видом завдяки наголосу на префіксальному складі кореня?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.4.",
-            "Порушення законів евфонії та словотворення для «Книга»",
-            "Стилістично некоректна синтаксична конструкція з «Музика»",
-            "Неправильне відмінкове узгодження зі словом «Кар'єра»"
+            "Скли́кати (Perfective aspect distinguished by stress on first syllable)",
+            "Склика́ти",
+            "Скликавати",
+            "Скликуючи"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Скли́кати» (наголос на першому складі) відповідає на питання «що зробити?» і є дієсловом доконаного виду."
         }
       ]
     },
@@ -5265,17 +5304,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Угода\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому суплетивні видові форми вжито граматично й лексично правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.4.",
-            "Стилістично некоректна синтаксична конструкція з «Музика»",
-            "Неправильне відмінкове узгодження зі словом «Кар'єра»",
-            "Порушення законів евфонії та словотворення для «Книга»"
+            "Викладач довго говорив про історію мови і нарешті сказав дату іспиту.",
+            "Викладач довго сказав про історію мови і нарешті говорив дату іспиту.",
+            "Викладач щойно говорив дату іспиту на один раз.",
+            "Викладач цілий день сказав студентам про граматику."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Тривале висловлювання позначається недоконаним «говорив», а короткий підсумок — суплетивним доконаним «сказав»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u12-l5": {
@@ -5283,53 +5323,62 @@
     "subject": "ukrainian",
     "unit": 12,
     "lessonNumber": 5,
-    "title": "Вид дієслова: доконаний та недоконаний (Verbal Aspect Pairs) (Part 5)",
+    "title": "Одновидові та двовидові дієслова (Imperfectiva & Perfectiva Tantum)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 12.5) with authentic linguistic precision.",
+    "objective": "Опанувати розрізнення одновидових дієслів (imperfectiva tantum: сподіватися; perfectiva tantum: схаменутися) та запозичених двовидових дієслів (організувати, гарантувати).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Не всі дієслова в українській мові мають парну видову форму. Існують групи дієслів із дефектними парадигмами або особливим статусом:\n\n1. Одновидові дієслова недоконаного виду (Imperfectiva tantum):\nДієслова, які позначають стан, властивість, тривале неперервне відношення і не мають форми доконаного виду:\n   - Сподіватися, потребувати, прагнути, належати, розмовляти, марити, ворогувати, спостерігати.\n\n2. Одновидові дієслова доконаного виду (Perfectiva tantum):\nДієслова, які позначають раптову, вичерпану або надмірну дію і не мають форми недоконаного виду:\n   - Схаменутися, розговоритися, насидітися, прогриміти, отямитися, розбагатіти, натерпітися.\n\n3. Двовидові дієслова (Biaspectual verbs):\nДієслова (переважно іншомовного походження з суфіксами «-ува- / -ізува-»), одна й та сама форма яких залежно від контексту може означати як доконаний, так і недоконаний вид:\n   - Організувати: «Ми зараз організуємо конференцію» (недок., процес) vs «Ми вже організували все необхідне» (док., результат).\n   - Гарантувати, телефонувати, ліквідувати, депортувати, атакувати, анулювати, реформувати.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Кожна людина щиро прагне щастя і потребує підтримки близьких людей.",
+          "reading": "[ˈkɔʒnɐ lʲuˈdɪnɐ ˈʃtʃɪrɔ ˈprɑɦnɛ ˈʃtʃɑsʲtʲɑ i pɔtrɛˈbujɛ pʲidˈtrɪmkɪ ˈblɪzʲkɪx ˈlʲudɛj] (KOHZH-nah lyoo-DY-nah SHCHY-roh PRAH-hneh SHCHAHS-tyah ee poh-treh-BOO-yeh peed-TRYM-ky BLYZ'-kykh lyoo-DEHY)",
+          "translation": "Every person sincerely strives for happiness and needs the support of close people."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 12-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Наш університет щорічно організовує / організує престижний науковий форум.",
+          "reading": "[nɑʃ unʲiwɛrsɪˈtɛt ʃtʃɔˈrʲitʃnɔ ɔrɦɐnʲiˈzɔwujɛ / ɔrɦɐnʲiˈzujɛ prɛsˈtɪʒnɪj nɐuˈkɔwɪj ˈfɔrum] (nahsh oo-nee-vehr-sy-TET shchoh-REECH-noh ohr-hah-nee-ZOH-voo-yeh / ohr-hah-nee-ZOO-yeh pres-TYZH-nyy nah-oo-KOH-wyy FOH-room)",
+          "translation": "Our university annually organizes a prestigious scientific forum."
+        },
+        {
+          "target": "Після важкої розмови він нарешті схаменувся і визнав свою неправоту.",
+          "reading": "[ˈpʲisʲlʲɑ wɐʒˈkɔji rɔzˈmɔwɪ wʲin nɐˈrɛʃtʲi sxɐmɛˈnuwsʲɑ i ˈwɪznɑw swɔˈju nɛprɐwɔˈtu] (PEES-lyah vahzh-KOH-yee roz-MOH-vy veen nah-RESH-tee skhah-meh-NOOV-syah ee VYZ-nahv svoh-YOO neh-prah-woh-TOO)",
+          "translation": "After a hard conversation he finally came to his senses and admitted his error."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Потребувати» завжди триває (недок.), «схаменутися» стається вмить (док.), а «організувати» грає за обидва боки!"
+      ],
+      "culturalNotes": [
+        "В українській публіцистичній та правничій термінології двовидові дієслова («гарантувати», «ратифікувати») набувають чіткого виду завдяки часовим маркерам та обставинам."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Кар'єра\":",
+          "prompt": "Оберіть одновидове дієслово недоконаного виду (imperfectivum tantum), що не має доконаної пари:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.5.",
-            "Неправильне відмінкове узгодження зі словом «Книга»",
-            "Порушення законів евфонії та словотворення для «Музика»",
-            "Стилістично некоректна синтаксична конструкція з «Фільм»"
+            "Потребувати (Imperfectivum tantum denoting continuous state/need)",
+            "Написати",
+            "Зробити",
+            "Випити"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Дієслово «потребувати» виражає стан потреби і не має граматичної пари доконаного виду."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Кар'єра\":",
+          "prompt": "Як визначається видовий статус двовидового дієслова «анулювати» у реченні «Банк учора повністю анулював угоду»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.5.",
-            "Порушення законів евфонії та словотворення для «Музика»",
-            "Стилістично некоректна синтаксична конструкція з «Фільм»",
-            "Неправильне відмінкове узгодження зі словом «Книга»"
+            "Доконаний вид (Context marker учора повністю indicates completed perfective action with result)",
+            "Недоконаний вид",
+            "Минулий незавершений вид",
+            "Безособовий вид"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Контекстуальні маркери «учора повністю» вказують на досягнутий кінцевий результат, тому дієслово функціонує як доконаний вид."
         }
       ]
     },
@@ -5337,17 +5386,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Кар'єра\": Which sentence is completely correct?",
+          "prompt": "Оберіть рядок, у якому всі дієслова належать до групи одновидових доконаного виду (perfectiva tantum):",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 12.5.",
-            "Стилістично некоректна синтаксична конструкція з «Фільм»",
-            "Неправильне відмінкове узгодження зі словом «Книга»",
-            "Порушення законів евфонії та словотворення для «Музика»"
+            "Схаменутися, розговоритися, насидітися.",
+            "Писати, читати, говорити.",
+            "Потребувати, сподіватися, належати.",
+            "Організувати, ліквідувати, гарантувати."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Дієслова «схаменутися, розговоритися, насидітися» мають значення вичерпаності/надмірності дії і не утворюють недоконаних форм."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u13-l1": {
