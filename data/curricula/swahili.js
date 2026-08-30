@@ -11965,53 +11965,62 @@
     "subject": "swahili",
     "unit": 29,
     "lessonNumber": 1,
-    "title": "Sheria, Katiba na Haki za Mahakama (Law & Jurisprudence) (Part 1)",
+    "title": "Katiba, Utawala wa Sheria na Mihimili ya Dola (Constitutional Law & Rule of Law)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.1) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa kikatiba, sheria mama, utawala wa sheria, mihimili mitatu ya dola (serikali, bunge, mahakama), mgawanyo wa madaraka, na uhuru wa taasisi za kisheria.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Katiba, Utawala wa Sheria na Muundo wa Dola (Constitutional Law & Governance):\n\nKatika kiwango cha C1, mwanafunzi anapaswa kumudu istilahi rasmi za mfumo wa kisheria na kikatiba:\n\n1. **Katiba na Misingi ya Sheria (Constitutional Tenets)**:\n   - **Katiba ya Nchi (Constitution / Supreme Law)**: Sheria mama na msingi mkuu wa mamlaka yote ya kiserikali na haki za wananchi.\n   - **Sheria Mama (Supreme / Fundamental Law)**: Sheria inayotawala sheria zote nyingine nchini; sheria yoyote inayopingana nayo huwa batili.\n   - **Utawala wa Sheria (The Rule of Law)**: Kanuni kwamba watu wote na taasisi zote wanawajibika mbele ya sheria zinazotekelezwa kwa haki bila ubaguzi.\n   - **Usawa mbele ya Sheria (Equality Before the Law)**.\n\n2. **Mihimili Mitatu ya Dola na Mgawanyo wa Madaraka (Separation of Powers)**:\n   - **Mhimili wa Utendaji (Executive)**: Rais, Baraza la Mawaziri na watumishi wa umma wanaotekeleza sera na sheria.\n   - **Mhimili wa Kutunga Sheria / Bunge (Legislature / Parliament)**: Wawakilishi wa wananchi wanaotunga miswada ya sheria na kuisimamia serikali.\n   - **Mhimili wa Mahakama (Judiciary)**: Mfumo huru unaotafsiri sheria na kutoa haki.\n   - **Kudhibiti na Kukosoana (Checks and Balances)**: Mfumo unaozuia mhimili mmoja kutawala mwingine.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 29."
+          "target": "Katiba ndiyo sheria mama ya nchi inayoweka mgawanyo wa madaraka kati ya serikali, bunge na mahakama.",
+          "reading": "Ka-ti-ba ndi-yo she-ria ma-ma ya nchi ina-yo-we-ka mga-wa-nyo wa ma-da-ra-ka ka-ti ya se-ri-ka-li, bu-nge na ma-ha-ka-ma. [kɑˈtibɑ ˈndijɔ ʃɛˈriɑ ˈmɑmɑ jɑ ɲtʃi inɑjɔˈwɛkɑ mɡɑˈwɑɲɔ wɑ mɑdɑˈrɑkɑ ˈkɑti jɑ sɛrikɑˈli ˈbuŋɡɛ nɑ mɑhɑˈkɑmɑ] (kah-TEE-bah NDEE-yoh shay-REE-ah MAH-mah yah n-CHEE ee-nah-yoh-WAY-kah m-gah-WAH-nyoh wah mah-dah-RAH-kah KAH-tee yah say-ree-kah-LEE, BOON-gay nah mah-hah-KAH-mah)",
+          "translation": "The constitution is the supreme mother law of the land establishing the constitutional separation of powers between executive, legislature, and judiciary."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 29-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Utawala wa sheria unasisitiza kuwa hakuna mtu yeyote aliye juu ya sheria, na kila raia ana haki ya kutendewa haki na usawa.",
+          "reading": "Uta-wa-la wa she-ria una-si-si-ti-za ku-wa ha-ku-na mtw ye-yo-te ali-ye ju-u ya she-ria, na ki-la ra-ia ana ha-ki ya ku-te-nde-wa ha-ki na usa-wa. [utɑˈwɑlɑ wɑ ʃɛˈriɑ unɑsisiˈtizɑ ˈkuwɑ hɑˈkunɑ ˈmtu jɛˈjɔtɛ ɑliˈjɛ ˈʤuː jɑ ʃɛˈriɑ nɑ ˈkilɑ rɑˈiɑ ˈɑnɑ ˈhɑki jɑ kutɛˈndɛwɑ ˈhɑki nɑ usɑˈwɑ] (oo-tah-WAH-lah wah shay-REE-ah oo-nah-see-see-TEE-zah KOO-wah hah-KOO-nah M-too yay-YOH-tay ah-lee-YAY JOO-oo yah shay-REE-ah, nah KEE-lah rah-EE-ah AH-nah HAH-kee yah koo-tayn-DAY-wah HAH-kee nah oo-SAH-wah)",
+          "translation": "The rule of law dictates that no individual stands above statutory statutes, and every citizen possesses the right to equal justice before the law."
+        },
+        {
+          "target": "Bunge lina wajibu wa kikatiba wa kutunga sheria na kuisimamia serikali ili kuhakikisha uwajibikaji na matumizi sahihi ya rasilimali za umma.",
+          "reading": "Bu-nge li-na wa-ji-bu wa ki-ka-ti-ba wa ku-tu-nga she-ria na kui-si-ma-mia se-ri-ka-li i-li ku-ha-ki-ki-sha uwa-ji-bi-ka-ji na ma-tu-mi-zi sa-hi-hi ya ra-si-li-ma-li za u-mma. [ˈbuŋɡɛ ˈlinɑ wɑˈʤibu wɑ kikɑˈtibɑ wɑ kuˈtuŋɡɑ ʃɛˈriɑ nɑ kuisimɑˈmiɑ sɛrikɑˈli ˈili kuhɑkiˈkiʃɑ uwɑʤibiˈkɑʤi nɑ mɑtuˈmizi sɑˈhihi jɑ rɑsiliˈmɑli zɑ ˈummɑ] (BOON-gay LEE-nah wah-JEE-boo wah kee-kah-TEE-bah wah koo-TOON-gah shay-REE-ah nah koo-ee-see-mah-MEE-ah say-ree-kah-LEE EE-lee koo-hah-kee-KEE-shah oo-wah-jee-bee-KAH-jee nah mah-too-MEE-zee sah-HEE-hee yah rah-see-lee-MAH-lee zah OOM-mah)",
+          "translation": "Parliament bears a constitutional obligation to enact legislation and exercise oversight over the government to safeguard public accountability and resources."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Katiba na Mihimili: Sheria mama (constitution), Utawala wa sheria (rule of law), Mihimili mitatu (Executive, Parliament, Judiciary), Mgawanyo wa madaraka!"
+      ],
+      "culturalNotes": [
+        "Katiba ya Jamhuri ya Muungano wa Tanzania na Katiba ya Kenya zote zimeandikwa na kutafsiriwa rasmi katika lugha sanifu ya Kiswahili, ikithibitisha uwezo wake wa kisheria."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Shule\":",
+          "prompt": "Sheria kuu na ya msingi zaidi katika nchi inayoweka miundo ya dola na haki za raia inaitwaje kwa Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Chuo kikuu»",
-            "Mpangilio usio sahihi wa viambishi katika «Mwalimu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mwanafunzi»"
+            "Katiba ya nchi / Sheria mama (Constitution / Supreme law - Correct constitutional term)",
+            "Risiti ya manunuzi",
+            "Leseni ya uvuvi",
+            "Mkataba wa upangaji"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Katiba» ndiyo sheria mama na msingi mkuu wa mamlaka ya dola na haki za raia."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Shule\":",
+          "prompt": "Mhimili upi wa dola unaohusika kisheria na kutunga sheria mpya na kuisimamia serikali bungeni?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Mwalimu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mwanafunzi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Chuo kikuu»"
+            "Mhimili wa kutunga sheria / Bunge (Legislature / Parliament - Correct branch of government)",
+            "Jeshi la zimamoto",
+            "Mamlaka ya hifadhi za taifa",
+            "Chama cha madereva wa teksi"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Bunge» (Legislature) ndio mhimili unaotunga sheria na kuisimamia serikali."
         }
       ]
     },
@@ -12019,17 +12028,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Shule\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya mihimili mitatu ya dola na misingi ya kikatiba katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mwanafunzi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Chuo kikuu»",
-            "Mpangilio usio sahihi wa viambishi katika «Mwalimu»"
+            "Serikali (Utendaji), Bunge (Kutunga sheria), na Mahakama; Utawala wa sheria, Mgawanyo wa madaraka, Usawa mbele ya sheria.",
+            "Katiba inaruhusu viongozi kuwa juu ya sheria bila kuwajibika.",
+            "Mihimili ya dola ni pamoja na vyama vya michezo na vilabu vya muziki.",
+            "Bunge halina mamlaka yoyote ya kujadili wala kupitisha sheria."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Mihimili ya dola: Serikali, Bunge, Mahakama; Misingi: Utawala wa sheria, Mgawanyo wa madaraka, Usawa."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u29-l2": {
@@ -12037,53 +12047,62 @@
     "subject": "swahili",
     "unit": 29,
     "lessonNumber": 2,
-    "title": "Sheria, Katiba na Haki za Mahakama (Law & Jurisprudence) (Part 2)",
+    "title": "Mfumo wa Mahakama, Madai dhidi ya Jinai na Mwenendo wa Kesi (Judiciary & Litigation)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.2) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa ngazi za mahakama (Mahakama Kuu, Mahakama ya Rufaa), tofauti kati ya kesi za madai na jinai, mwendesha mashitaka (DPP), wakili wa utetezi, ushahidi, na mwenendo wa kesi.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Mfumo wa Mahakama na Mwenendo wa Mashauri (Judicial Hierarchy & Litigation):\n\n1. **Ngazi za Mahakama (Hierarchy of Courts)**:\n   - **Mahakama ya Mwanzo (Primary Court)**.\n   - **Mahakama ya Wilaya / Hakimu Mkazi (District / Resident Magistrate Court)**.\n   - **Mahakama Kuu (High Court)**: Inasikiliza kesi kubwa na mashauri ya kikatiba.\n   - **Mahakama ya Rufaa (Court of Appeal / Supreme Court)**: Mahakama ya juu kabisa ya maamuzi ya mwisho.\n   - **Jaji Mkuu (Chief Justice)**, **Majaji (Judges)**, na **Mahakimu (Magistrates)**.\n\n2. **Kesi za Madai dhidi ya Jinai (Civil vs Criminal Litigation)**:\n   - **Mashauri ya Madai (Civil Cases)**: Migogoro kati ya raia au mashirika (k.m., ardhi, madeni, mikataba); wahusika ni **Mdai (Plaintiff)** na **Mdaiwa (Defendant)**.\n   - **Mashauri ya Jinai (Criminal Cases)**: Makosa dhidi ya jamii au sheria za nchi (k.m., wizi, unyang'anyi, mauaji); huendeshwa na **Mwendesha Mashitaka wa Serikali (Public Prosecutor / DPP)** dhidi ya **Mshitakiwa (The Accused / Defendant)**.\n\n3. **Mwenendo wa Kesi Mahakamani (Courtroom Procedure)**:\n   - **Wakili wa Utetezi (Defense Attorney)**, **Shahidi na Ushahidi (Witness & Evidence)**, **Kusikiliza Kesi (Hearing)**, **Hukumu (Judgment / Verdict)**, na **Adhabu (Sentencing)**.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 29."
+          "target": "Katika kesi za jinai, mwendesha mashitaka wa serikali anapaswa kuthibitisha mashitaka pasipo kuacha shaka yoyote ya kiakili mbele ya jaji.",
+          "reading": "Ka-ti-ka ke-si za ji-na-i, mwe-nde-sha ma-shi-ta-ka wa se-ri-ka-li ana-pa-shwa ku-thi-bi-ti-sha ma-shi-ta-ka pa-si-po ku-a-cha sha-ka yo-yo-te ya kia-ki-li mbe-le ya ja-ji. [ˈkɑtikɑ ˈkɛsi zɑ ʤiˈnɑi mwɛndɛˈʃɑ mɑʃiˈtɑkɑ wɑ sɛrikɑˈli ɑnɑˈpɑʃwɑ kuθibiˈtiʃɑ mɑʃiˈtɑkɑ pɑˈsipɔ kuˈɑtʃɑ ˈʃɑkɑ jɔˈjɔtɛ jɑ kiɑˈkili ˈmbɛlɛ jɑ ˈʤɑʤi] (KAH-tee-kah KAY-see zah jee-NAH-ee, mway-NDAY-shah mah-shee-TAH-kah wah say-ree-kah-LEE ah-nah-PAH-shwah koo-thee-bee-TEE-shah mah-shee-TAH-kah pah-SEE-poh koo-AH-chah SHAH-kah yoh-YOH-tay yah kee-ah-KEE-lee M-BAY-lay yah JAH-jee)",
+          "translation": "In criminal proceedings, the state prosecutor must establish guilt beyond reasonable doubt before the presiding judge."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 29-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wakili wa utetezi aliwasilisha nyaraka na ushahidi thabiti mahakamani kuthibitisha kuwa mteja wake hakuhusika na kosa hilo.",
+          "reading": "Wa-ki-li wa ute-te-zi ali-wa-si-li-sha nya-ra-ka na usha-hi-di tha-bi-ti ma-ha-ka-ma-ni ku-thi-bi-ti-sha ku-wa mte-ja wa-ke ha-ku-hu-si-ka na ko-sa hi-lo. [wɑˈkili wɑ utɛˈtɛzi ɑliwɑsiˈliʃɑ ɲɑˈrɑkɑ nɑ uʃɑˈhidi θɑˈbiti mɑhɑkɑˈmɑni kuθibiˈtiʃɑ ˈkuwɑ ˈmtɛʤɑ ˈwɑkɛ hɑkuhuˈsikɑ nɑ ˈkɔsɑ ˈhilɔ] (wah-KEE-lee wah oo-tay-TAY-zee ah-lee-wah-see-LEE-shah nyah-RAH-kah nah oo-shah-HEE-dee thah-BEE-tee mah-hah-kah-MAH-nee koo-thee-bee-TEE-shah KOO-wah m-TAY-jah WAH-kay hah-koo-hoo-SEE-kah nah KOH-sah HEE-loh)",
+          "translation": "The defense advocate tendered documentary exhibits and unassailable evidence in court verifying that his client had no culpability."
+        },
+        {
+          "target": "Mahakama ya Rufaa ndiyo chombo cha juu kabisa cha kutoa maamuzi ya mwisho ya kisheria baada ya kukamilika kwa usikilizwaji wa mashauri.",
+          "reading": "Ma-ha-ka-ma ya Ru-fa-a ndi-yo cho-mbo cha ju-u ka-bi-sa cha ku-to-a ma-a-mu-zi ya mwi-sho ya ki-she-ria ba-a-da ya ku-ka-mi-li-ka kwa usi-ki-li-zwa-ji wa ma-sha-u-ri. [mɑhɑˈkɑmɑ jɑ ruˈfɑː ˈndijɔ ˈtʃɔmbɔ tʃɑ ˈʤuː kɑˈbisɑ tʃɑ kuˈtɔɑ mɑɑˈmuzi jɑ ˈmwiʃɔ jɑ kiʃɛˈriɑ ˈbɑɑdɑ jɑ kukɑmiˈlikɑ kwɑ usikilizwɑˈʤi wɑ mɑʃɑˈuri] (mah-hah-KAH-mah yah roo-FAH-ah NDEE-yoh CHOHM-boh chah JOO-oo kah-BEE-sah chah koo-TOH-ah mah-ah-MOO-zee yah MWEE-shoh yah kee-shay-REE-ah BAH-ah-dah yah koo-kah-mee-LEE-kah kwah oo-see-kee-leez-wah-JEE wah mah-shah-OO-ree)",
+          "translation": "The Court of Appeal is the apex judicial tribunal delivering definitive legal rulings following the exhaustive hearing of appeals."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Mahakama na Kesi: Madai (civil: mdai vs mdaiwa), Jinai (criminal: serikali vs mshitakiwa), Mahakama Kuu (High Court), Rufaa (Appeals), Shahidi (witness)!"
+      ],
+      "culturalNotes": [
+        "Katika nchi za Afrika Mashariki, mabaraza ya kata na mahakama za mwanzo hutumia Kiswahili kikamilifu katika kumbukumbu rasmi za kesi na kutoa haki."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Chuo kikuu\":",
+          "prompt": "Mashauri ya kisheria yanayohusu makosa dhidi ya jamii kama vile wizi na vurugu yanayoendeshwa na mwendesha mashitaka wa serikali huitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mwalimu»",
-            "Mpangilio usio sahihi wa viambishi katika «Mwanafunzi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Somo»"
+            "Kesi za Jinai (Criminal cases - Correct legal classification)",
+            "Kesi za Madai ya ardhi",
+            "Mkataba wa bima ya afya",
+            "Ushauri wa biashara"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Kesi za jinai» (criminal cases) ndiyo mashauri ya makosa ya jinai yanayoendeshwa na Jamhuri/Serikali."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Chuo kikuu\":",
+          "prompt": "Mtu anayetoa ushahidi na kueleza alichokiona au kukisikia mahakamani mbele ya hakimu au jaji anaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Mwanafunzi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Somo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mwalimu»"
+            "Shahidi (Witness - Correct judicial courtroom term)",
+            "Mhariri wa habari",
+            "Mjasiriamali wa hisa",
+            "Mganga mkuu"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Shahidi» (witness) ndiye mtu anayetoa ushahidi chini ya kiapo mahakamani."
         }
       ]
     },
@@ -12091,17 +12110,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Chuo kikuu\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya ngazi za mahakama na wahusika wa kesi katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Somo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mwalimu»",
-            "Mpangilio usio sahihi wa viambishi katika «Mwanafunzi»"
+            "Mahakama ya Mwanzo, Mahakama ya Hakimu Mkazi, Mahakama Kuu, Mahakama ya Rufaa; Jaji, Hakimu, Mwendesha mashitaka, Wakili wa utetezi, Shahidi.",
+            "Kesi za jinai huamuliwa na waganga wa kienyeji pekee.",
+            "Mahakama ya Rufaa iko chini ya Mahakama ya Mwanzo.",
+            "Wakili wa utetezi anawajibika kumfunga mteja wake gerezani bila kesi."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Ngazi za mahakama: Mwanzo, Hakimu Mkazi, Mahakama Kuu, Rufaa; Wahusika: Jaji, Hakimu, Mwendesha mashitaka, Wakili, Shahidi."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u29-l3": {
@@ -12109,53 +12129,62 @@
     "subject": "swahili",
     "unit": 29,
     "lessonNumber": 3,
-    "title": "Sheria, Katiba na Haki za Mahakama (Law & Jurisprudence) (Part 3)",
+    "title": "Haki za Binadamu, Uhuru wa Kiraia na Mikataba ya Kimataifa (Human Rights & Treaties)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.3) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa haki za binadamu, uhuru wa kiraia (uhuru wa maoni, kuabudu, kukusanyika), haki ya kusikilizwa, Tume ya Haki za Binadamu, na Mahakama ya Afrika ya Haki za Binadamu na Watu (Arusha).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Haki za Binadamu, Uhuru wa Kiraia na Mahakama za Kikanda (Human Rights & International Jurisprudence):\n\n1. **Haki za Msingi za Binadamu (Fundamental Human Rights)**:\n   - **Haki ya Kuishi (Right to Life)**.\n   - **Uhuru wa Kujieleza na Kutoa Maoni (Freedom of Expression & Opinion)**.\n   - **Uhuru wa Kukusanyika na Kushirikiana (Freedom of Assembly & Association)**.\n   - **Haki ya Kusikilizwa kwa Haki (Right to a Fair Trial / Due Process)**.\n   - **Ulinzi dhidi ya Ukatili na Mateso (Protection Against Torture & Inhuman Treatment)**.\n   - **Haki ya Kuomba Dhamana (Right to Apply for Bail)**.\n\n2. **Taasisi na Mikataba ya Kikanda na Kimataifa (Treaties & Regional Courts)**:\n   - **Tamko la Kimataifa la Haki za Binadamu (UDHR)**.\n   - **Mkataba wa Afrika wa Haki za Binadamu na Watu (Banjul Charter)**.\n   - **Tume ya Haki za Binadamu na Utawala Bora (CHRAGG)**.\n   - **Mahakama ya Afrika ya Haki za Binadamu na Watu (African Court on Human and Peoples' Rights - Arusha)**.\n   - **Mahakama ya Haki ya Afrika Mashariki (East African Court of Justice - EACJ)**.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 29."
+          "target": "Tamko la Kimataifa la Haki za Binadamu linatambua utu na usawa wa kila binadamu tangu kuzaliwa bila ubaguzi wa aina yoyote.",
+          "reading": "Ta-mko la Ki-ma-ta-i-fa la Ha-ki za Bi-na-da-mu li-na-ta-mbu-a u-tu na usa-wa wa ki-la bi-na-da-mu ta-ngu ku-za-li-wa bi-la uba-gu-zi wa a-i-na yo-yo-te. [tɑˈmkɔ lɑ kimɑtɑˈifɑ lɑ ˈhɑki zɑ binɑˈdɑmu linɑtɑˈmbuɑ ˈutu nɑ usɑˈwɑ wɑ ˈkilɑ binɑˈdɑmu ˈtɑŋɡu kuzɑˈliwɑ ˈbilɑ ubɑˈɡuzi wɑ ɑˈinɑ jɔˈjɔtɛ] (tahm-KOH lah kee-mah-tah-EE-fah lah HAH-kee zah bee-nah-DAH-moo lee-nah-tahm-BOO-ah OO-too nah oo-SAH-wah wah KEE-lah bee-nah-DAH-moo TAHN-goo koo-zah-LEE-wah BEE-lah oo-bah-GOO-zee wah ah-EE-nah yoh-YOH-tay)",
+          "translation": "The Universal Declaration of Human Rights enshrines the inherent dignity and equality of every human being from birth without any discrimination."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 29-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kila raia anayekamatwa na vyombo vya dola anayo haki ya kikatiba ya kupewa dhamana na kufikishwa mahakamani ndani ya muda uliowekwa na sheria.",
+          "reading": "Ki-la ra-ia ana-ye-ka-ma-twa na vyo-mbo vya do-la ana-yo ha-ki ya ki-ka-ti-ba ya ku-pe-wa dha-ma-na na ku-fi-ki-shwa ma-ha-ka-ma-ni nda-ni ya mu-da ulio-we-kwa na she-ria. [ˈkilɑ rɑˈiɑ ɑnɑjɛkɑˈmɑtwɑ nɑ ˈvjɔmbɔ vjɑ ˈdɔlɑ ɑnɑˈjɔ ˈhɑki jɑ kikɑˈtibɑ jɑ kuˈpɛwɑ ðɑˈmɑnɑ nɑ kufikiˈʃwɑ mɑhɑkɑˈmɑni ˈndɑni jɑ ˈmudɑ uliɔˈwɛkwɑ nɑ ʃɛˈriɑ] (KEE-lah rah-EE-ah ah-nah-yay-kah-MAH-twah nah VYOHM-boh vyah DOH-lah ah-nah-YOH HAH-kee yah kee-kah-TEE-bah yah koo-PAY-wah thah-MAH-nah nah koo-fee-KEESH-wah mah-hah-kah-MAH-nee NDAH-nee yah MOO-dah oo-lee-oh-WAY-kwah nah shay-REE-ah)",
+          "translation": "Every citizen detained by law enforcement agencies enjoys a constitutional entitlement to bail and arraignment in court within statutory deadlines."
+        },
+        {
+          "target": "Mahakama ya Afrika ya Haki za Binadamu na Watu iliyopo jijini Arusha inasikiliza mashauri yanayohusu ukiukwaji wa haki za kiraia barani.",
+          "reading": "Ma-ha-ka-ma ya Afri-ka ya Ha-ki za Bi-na-da-mu na Wa-tu ili-yo-po ji-ji-ni Aru-sha ina-si-ki-li-za ma-sha-u-ri ya-na-yo-hu-su uki-u-kwa-ji wa ha-ki za ki-ra-ia ba-ra-ni. [mɑhɑˈkɑmɑ jɑ ˈɑfrikɑ jɑ ˈhɑki zɑ binɑˈdɑmu nɑ ˈwɑtu iliˈjɔpɔ ʤiˈʤini ɑˈruʃɑ inɑsikiliˈzɑ mɑʃɑˈuri jɑnɑjɔˈhusu ukiukwɑˈʤi wɑ ˈhɑki zɑ kirɑˈiɑ bɑˈrɑni] (mah-hah-KAH-mah yah AHF-ree-kah yah HAH-kee zah bee-nah-DAH-moo nah WAH-too ee-lee-YOH-poh jee-JEE-nee ah-ROO-shah ee-nah-see-kee-LEE-zah mah-shah-OO-ree yah-nah-yoh-HOO-soo oo-kee-ook-wah-JEE wah HAH-kee zah kee-rah-EE-ah bah-RAH-nee)",
+          "translation": "The African Court on Human and Peoples' Rights situated in the city of Arusha adjudicates petitions regarding violations of civil liberties across the continent."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Haki za Binadamu: Haki ya kuishi, Uhuru wa kujieleza, Dhamana (bail), Tume ya Haki za Binadamu, Mahakama ya Afrika (Arusha)!"
+      ],
+      "culturalNotes": [
+        "Mji wa Arusha nchini Tanzania unajulikana kama 'Mji mkuu wa Mahakama za Afrika' kwa kuwa makao makuu ya Mahakama ya Afrika ya Haki za Binadamu na Mahakama ya Jumuiya ya Afrika Mashariki."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mwalimu\":",
+          "prompt": "Haki ya kikatiba ya mtu anayetuhumiwa kwa kosa kufunguliwa dhamana wakati kesi yake ikiendelea mahakamani inaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mwanafunzi»",
-            "Mpangilio usio sahihi wa viambishi katika «Somo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mtihani»"
+            "Haki ya dhamana (Right to bail - Correct human rights entitlement)",
+            "Haki ya kutoza kodi",
+            "Ushuru wa forodha",
+            "Hati ya umiliki wa duka"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Haki ya dhamana» (right to bail) inamhakikishia mtuhumiwa uhuru wa muda wakati akisubiri kesi yake."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mwalimu\":",
+          "prompt": "Jiji gani la Afrika Mashariki lililopo nchini Tanzania ambalo ni makao makuu ya Mahakama ya Afrika ya Haki za Binadamu na Watu?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Somo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mtihani»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mwanafunzi»"
+            "Arusha (Headquarters of African Court on Human and Peoples' Rights)",
+            "Mombasa",
+            "Dodoma",
+            "Zanzibar"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Jiji la «Arusha» ndilo makao makuu ya Mahakama ya Afrika ya Haki za Binadamu na Watu."
         }
       ]
     },
@@ -12163,17 +12192,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mwalimu\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya haki za msingi za binadamu na vyombo vya sheria vya kimataifa katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mtihani»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mwanafunzi»",
-            "Mpangilio usio sahihi wa viambishi katika «Somo»"
+            "Haki ya kuishi, Uhuru wa maoni, Uhuru wa kukusanyika, Haki ya kusikilizwa, Haki ya dhamana; Tamko la Kimataifa (UDHR), Mahakama ya Afrika (Arusha).",
+            "Haki za binadamu zinakataza watu wote kutoa maoni au kukusanyika kwa amani.",
+            "Hakuna chombo chochote cha kikanda kinacholinda haki za binadamu barani Afrika.",
+            "Watuhumiwa wote wanapaswa kuhukumiwa bila kusikilizwa mahakamani."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Haki za msingi: Kuishi, Uhuru wa maoni, Kukusanyika, Kusikilizwa, Dhamana; Vyombo: UDHR, Mahakama ya Afrika Arusha."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u29-l4": {
@@ -12181,53 +12211,62 @@
     "subject": "swahili",
     "unit": 29,
     "lessonNumber": 4,
-    "title": "Sheria, Katiba na Haki za Mahakama (Law & Jurisprudence) (Part 4)",
+    "title": "Mikataba ya Kibiashara, Hakimiliki na Usuluhishi (Contracts & Arbitration)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.4) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara, uvunjifu wa mkataba na fidia, hakimiliki na hataza (intellectual property), na usuluhishi na upatanishi wa migogoro nje ya mahakama (ADR).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Sheria za Mikataba, Hakimiliki na Usuluhishi wa Migogoro (Commercial Law & Alternative Dispute Resolution):\n\n1. **Sheria za Mikataba (Contract Law)**:\n   - **Mkataba Halali wa Kisheria (Binding Legal Contract / Agreement)**: Makubaliano yenye nguvu ya kisheria yanayowafunga wahusika kutimiza masharti.\n   - **Vifungu vya Mkataba (Contractual Clauses / Terms & Conditions)**.\n   - **Uvunjifu wa Mkataba (Breach of Contract)**: Kushindwa kutimiza wajibu uliokubaliwa mkatabani.\n   - **Fidia ya Madhara / Gharama (Damages / Legal Remedies / Compensation)**: Malipo yanayodaiwa kisheria kufidia hasara iliyotokana na uvunjifu wa mkataba.\n\n2. **Hakimiliki na Hataza (Intellectual Property)**:\n   - **Hakimiliki (Copyright)**: Haki ya kipekee ya kisheria ya msanii au mwandishi juu ya kazi yake ya ubunifu.\n   - **Hataza (Patent)**: Haki ya kisheria ya mvumbuzi juu ya teknolojia au bidhaa mpya.\n   - **Alama ya Biashara (Trademark)**.\n\n3. **Usuluhishi na Upatanishi Nje ya Mahakama (ADR)**:\n   - **Usuluhishi (Arbitration)** na **Upatanishi (Mediation)**: Mbinu mbadala za kutatua migogoro ya kibiashara na kifamilia nje ya mahakama kupitia **Msuluhishi Huru (Independent Arbitrator)**.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 29."
+          "target": "Kabla ya kutia saini mkataba wa kibiashara, wanasheria wa pande zote mbili wanapaswa kupitia vifungu vyote ili kuzuia migogoro ya baadaye.",
+          "reading": "Ka-bla ya ku-tia sa-i-ni mka-ta-ba wa ki-bia-sha-ra, wa-na-she-ria wa pa-nde zo-te mbi-li wa-na-pa-shwa ku-pi-tia vi-fu-ngu vyo-te i-li ku-zui-a mi-go-go-ro ya ba-a-da-ye. [ˈkɑblɑ jɑ kuˈtiɑ sɑˈini mkɑˈtɑbɑ wɑ gibiɑˈʃɑrɑ wɑnɑʃɛˈriɑ wɑ ˈpɑndɛ ˈzɔtɛ ˈmbili wɑnɑˈpɑʃwɑ kupiˈtiɑ viˈfuŋɡu ˈvjɔtɛ ˈili kuˈzuiɑ miɡɔˈɡɔrɔ jɑ bɑɑˈdɑjɛ] (KAH-blah yah koo-TEE-ah sah-EE-nee m-kah-TAH-bah wah kee-bee-ah-SHAH-rah, wah-nah-shay-REE-ah wah PAHN-day ZOH-tay M-BEE-lee wah-nah-PAH-shwah koo-pee-TEE-ah vee-FOON-goo VYOH-tay EE-lee koo-ZOO-ee-ah mee-goh-GOH-roh yah bah-ah-DAH-yay)",
+          "translation": "Prior to executing a commercial contract, legal counsel representing both parties must meticulously examine all clauses to avert future litigation."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 29-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Sheria ya hakimiliki inalinda ubunifu wa wasanii, waandishi na watafiti dhidi ya wizi wa kazi zao za kiakili bila idhini.",
+          "reading": "She-ria ya ha-ki-mi-li-ki ina-li-nda ubu-ni-fu wa wa-sa-nii, wa-a-ndi-shi na wa-ta-fi-ti dhi-di ya wi-zi wa ka-zi za-o za kia-ki-li bi-la i-dhi-ni. [ʃɛˈriɑ jɑ hɑkiˈmiliki inɑˈlindɑ ubuˈnifu wɑ wɑsɑˈniː wɑɑˈndiʃi nɑ wɑtɑˈfiti ˈðidi jɑ ˈwizi wɑ ˈkɑzi ˈzɑɔ zɑ kiɑˈkili ˈbilɑ iˈðini] (shay-REE-ah yah hah-kee-mee-LEE-kee ee-nah-LEEN-dah oo-boo-NEE-foo wah wah-sah-NEE-ee, wah-ahn-DEE-shee nah wah-tah-FEE-tee THEE-dee yah WEE-zee wah KAH-zee ZAH-oh zah kee-ah-KEE-lee BEE-lah ee-THEE-nee)",
+          "translation": "Intellectual property law protects the creativity of artists, authors, and researchers against the unauthorized piracy of their intellectual output."
+        },
+        {
+          "target": "Upatanishi na usuluhishi nje ya mahakama unasaidia kutatua migogoro ya kibiashara kwa haraka, kwa gharama nafuu, na kudumisha uhusiano mwema.",
+          "reading": "Upa-ta-ni-shi na usu-lu-hi-shi nje ya ma-ha-ka-ma una-sa-i-dia ku-ta-tua mi-go-go-ro ya ki-bia-sha-ra kwa ha-ra-ka, kwa gha-ra-ma na-fu-u, na ku-du-mi-sha uhu-sia-no mwe-ma. [upɑtɑˈniʃi nɑ usuluˈhiʃi ˈɲʤɛ jɑ mɑhɑˈkɑmɑ unɑsɑˈidiɑ kutɑˈtuɑ miɡɔˈɡɔrɔ jɑ gibiɑˈʃɑrɑ kwɑ hɑˈrɑkɑ kwɑ ɣɑˈrɑmɑ nɑˈfuː nɑ kuduˈmiʃɑ uhusiˈɑnɔ ˈmwɛmɑ] (oo-pah-tah-NEE-shee nah oo-soo-loo-HEE-shee N-JAY yah mah-hah-KAH-mah oo-nah-sah-EE-dee-ah koo-tah-TOO-ah mee-goh-GOH-roh yah kee-bee-ah-SHAH-rah kwah hah-RAH-kah, kwah gah-RAH-mah nah-FOO-oo, nah koo-doo-MEE-shah oo-hoo-see-AH-noh MWAY-mah)",
+          "translation": "Alternative dispute resolution and mediation assist in resolving commercial conflicts expeditiously at minimal cost while preserving commercial goodwill."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Mikataba na Usuluhishi: Mkataba halali (contract), Uvunjifu & Fidia (breach & damages), Hakimiliki (copyright), Hataza (patent), Usuluhishi (arbitration)!"
+      ],
+      "culturalNotes": [
+        "Taasisi ya Usuluhishi ya Tanzania (TIArb) na Kituo cha Usuluhishi cha Kimataifa cha Nairobi (NCIA) vinatambulika kimataifa kwa kusuluhisha migogoro ya kibiashara katika ukanda wa Afrika Mashariki."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mwanafunzi\":",
+          "prompt": "Haki ya kisheria inayompa mwandishi au msanii umiliki wa kipekee juu ya kazi yake ya kiakili na kuzuia wengine kuinakili bila kibali inaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Somo»",
-            "Mpangilio usio sahihi wa viambishi katika «Mtihani»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Matokeo»"
+            "Hakimiliki (Copyright / Intellectual property right - Correct legal concept)",
+            "Kodi ya ongezeko la thamani",
+            "Mkataba wa ajira ya muda",
+            "Hati ya kusafiria"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Hakimiliki» (copyright) ndiyo haki ya kisheria inayolinda kazi za kibunifu na kiakili."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mwanafunzi\":",
+          "prompt": "Njia ya kisheria ya kumaliza mgogoro wa kibiashara nje ya mahakama kwa kutumia mtaalamu huru anayeamua shauri inaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Mtihani»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Matokeo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Somo»"
+            "Usuluhishi / Upatanishi (Arbitration / Mediation / ADR - Correct dispute resolution term)",
+            "Mgomo wa wafanyakazi",
+            "Uchunguzi wa kimaabara",
+            "Doria ya askari wa wanyamapori"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Usuluhishi» na «upatanishi» (ADR) ndiyo mbinu rasmi za kutatua migogoro nje ya mfumo wa mahakama."
         }
       ]
     },
@@ -12235,17 +12274,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mwanafunzi\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya maneno ya sheria za mikataba, hakimiliki na usuluhishi katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Matokeo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Somo»",
-            "Mpangilio usio sahihi wa viambishi katika «Mtihani»"
+            "Mkataba halali, Vifungu vya mkataba, Uvunjifu wa mkataba, Fidia ya madhara, Hakimiliki, Hataza, Usuluhishi nje ya mahakama, Msuluhishi huru.",
+            "Hakimiliki inaruhusu mtu yeyote kuiba kazi za wasanii bila adhabu.",
+            "Mikataba ya kibiashara haipaswi kuwa na maandishi wala masharti yoyote.",
+            "Usuluhishi nje ya mahakama unalenga kuwachapa viboko wafanyabiashara."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Msamiati sahihi wa mikataba na ADR: Mkataba, Vifungu, Uvunjifu, Fidia, Hakimiliki, Hataza, Usuluhishi, Msuluhishi."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u29-l5": {
@@ -12253,53 +12293,62 @@
     "subject": "swahili",
     "unit": 29,
     "lessonNumber": 5,
-    "title": "Sheria, Katiba na Haki za Mahakama (Law & Jurisprudence) (Part 5)",
+    "title": "Muhtasari wa Sheria, Katiba na Haki za Mahakama (Law & Jurisprudence Grand Synthesis)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 29: misingi ya kikatiba na utawala wa sheria, ngazi za mahakama (jinai na madai), haki za binadamu na mahakama za kikanda (Arusha), pamoja na sheria za mikataba, hakimiliki na usuluhishi (ADR) kwa kiwango cha C1.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Sheria, Katiba na Mahakama (Law, Jurisprudence & Justice Master Matrix):\n\n1. **Ujumuishaji wa Nguzo Kuu za Kisheria za Kiwango cha C1**:\n   - **Katiba & Mihimili ya Dola**: Katiba kama sheria mama, utawala wa sheria, na mgawanyo wa madaraka (serikali, bunge, mahakama).\n   - **Mahakama & Mwenendo wa Kesi**: Ngazi za mahakama (Mwanzo, Hakimu Mkazi, Mahakama Kuu, Mahakama ya Rufaa), tofauti kati ya kesi za madai na jinai, ushahidi, na mahakimu/majaji.\n   - **Haki za Binadamu**: Haki ya kuishi, uhuru wa maoni na kukusanyika, haki ya dhamana, UDHR, na Mahakama ya Afrika ya Haki za Binadamu (Arusha).\n   - **Mikataba & Usuluhishi**: Mkataba halali, fidia ya madhara, hakimiliki na hataza, na upatanishi/usuluhishi nje ya mahakama (ADR).\n\n2. **Umahiri wa Kimawasiliano ya Kisheria**:\n   - Kumudu istilahi hizi kunamwezesha mtaalamu wa sheria, wakili, au mwanaharakati kuandika hati za kisheria, kuwakilisha wateja mahakamani, na kutetea haki za binadamu kwa ufasaha wa hali ya juu wa Kiswahili.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 29."
+          "target": "Kuanzia misingi ya katiba na mgawanyo wa madaraka ya dola, mwenendo wa mashauri mahakamani, ulinzi wa haki za binadamu, hadi sheria za mikataba na usuluhishi, mfumo wa kisheria ndio nguzo kuu ya amani na maendeleo.",
+          "reading": "Ku-a-nzia mi-si-ngi ya ka-ti-ba na mga-wa-nyo wa ma-da-ra-ka ya do-la, mwe-ne-ndo wa ma-sha-u-ri ma-ha-ka-ma-ni, uli-nzi wa ha-ki za bi-na-da-mu, ha-di she-ria za mi-kta-ba na usu-lu-hi-shi, mfu-mo wa ki-she-ria ndi-o ngu-zo ku-u ya a-ma-ni na ma-e-nde-le-o. [kuˈɑnziɑ miˈsiŋɡi jɑ kɑˈtibɑ nɑ mɡɑˈwɑɲɔ wɑ mɑdɑˈrɑkɑ jɑ ˈdɔlɑ mwɛˈnɛndɔ wɑ mɑʃɑˈuri mɑhɑkɑˈmɑni uˈlindzi wɑ ˈhɑki zɑ binɑˈdɑmu ˈhɑdi ʃɛˈriɑ zɑ miˈktɑbɑ nɑ usuluˈhiʃi ˈmfumɔ wɑ kiʃɛˈriɑ ˈndiɔ ˈŋɡuzɔ ˈkuː jɑ ɑˈmɑni nɑ mɑɛndɛˈlɛɔ] (koo-AHN-zee-ah mee-SEEN-gee yah kah-TEE-bah nah m-gah-WAH-nyoh wah mah-dah-RAH-kah yah DOH-lah, mway-NAYN-doh wah mah-shah-OO-ree mah-hah-kah-MAH-nee, oo-LEEN-zee wah HAH-kee zah bee-nah-DAH-moo, HAH-dee shay-REE-ah zah mee-KTAH-bah nah oo-soo-loo-HEE-shee, m-FOO-moh wah kee-shay-REE-ah NDEE-oh N-GOO-zoh KOO-oo yah ah-MAH-nee nah mah-ayn-day-LAY-oh)",
+          "translation": "From constitutional tenets and the institutional separation of state powers, courtroom trial procedures, fundamental human rights protection, to contract law and commercial arbitration, the legal system stands as the sovereign cornerstone of peace and progress."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 29-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Umahiri wa lugha ya kisheria na istilahi za kimahakama kwa Kiswahili unawawezesha mawakili na mahakimu kuendesha mashauri kwa ufasaha unaompa kila mwananchi fursa ya kuelewa haki zake.",
+          "reading": "Uma-hi-ri wa lu-gha ya ki-she-ria na i-sti-la-hi za ki-ma-ha-ka-ma kwa Ki-swa-hi-li una-wa-we-ze-sha ma-wa-ki-li na ma-ha-ki-mu kue-nde-sha ma-sha-u-ri kwa ufa-sa-ha una-o-mpa ki-la mwa-na-nchi fur-sa ya kue-le-wa ha-ki za-ke. [umɑˈhiri wɑ ˈluɣɑ jɑ kiʃɛˈriɑ nɑ istiˈlɑhi zɑ kimɑhɑˈkɑmɑ kwɑ kiswɑˈhili unɑwɑwɛzɛˈʃɑ mɑwɑˈkili nɑ mɑhɑˈkimu kuɛndɛˈʃɑ mɑʃɑˈuri kwɑ ufɑˈsɑhɑ unɑɔˈmpɑ ˈkilɑ mwɑnɑˈɲtʃi ˈfursɑ jɑ kuɛˈlɛwɑ ˈhɑki ˈzɑkɛ] (oo-mah-HEE-ree wah LOO-gah yah kee-shay-REE-ah nah ees-tee-LAH-hee zah kee-mah-hah-KAH-mah kwah kee-swah-HEE-lee oo-nah-wah-way-ZAY-shah mah-wah-KEE-lee nah mah-hah-KEE-moo koo-ayn-DAY-shah mah-shah-OO-ree kwah oo-fah-SAH-hah oo-nah-oh-m-PAH KEE-lah mwah-nahn-CHEE FOOR-sah yah koo-ay-LAY-wah HAH-kee ZAH-kay)",
+          "translation": "Mastery of statutory jurisprudence and judicial phraseology in standard Swahili enables advocates and magistrates to administer litigation eloquently, ensuring every citizen fully comprehends their legal rights."
+        },
+        {
+          "target": "Mahakama huru na zenye weledi ndio tegemeo kuu la wananchi katika kuhakikisha kuwa sheria inatenda haki bila woga wala upendeleo.",
+          "reading": "Ma-ha-ka-ma hu-ru na ze-nye we-le-di ndi-o te-ge-me-o ku-u la wa-na-nchi ka-ti-ka ku-ha-ki-ki-sha ku-wa she-ria ina-te-nda ha-ki bi-la wo-ga wa-la upe-nde-le-o. [mɑhɑˈkɑmɑ ˈhuru nɑ ˈzɛɲɛ wɛˈlɛdi ˈndiɔ tɛɡɛˈmɛɔ ˈkuː lɑ wɑnɑˈɲtʃi ˈkɑtikɑ kuhɑkiˈkiʃɑ ˈkuwɑ ʃɛˈriɑ inɑˈtɛndɑ ˈhɑki ˈbilɑ ˈwɔɡɑ ˈwɑlɑ upɛndɛˈlɛɔ] (mah-hah-KAH-mah HOO-roo nah ZAY-nyay way-LAY-dee NDEE-oh tay-gay-MAY-oh KOO-oo lah wah-nahn-CHEE KAH-tee-kah koo-hah-kee-KEE-shah KOO-wah shay-REE-ah ee-nah-TAYN-dah HAH-kee BEE-lah WOH-gah WAH-lah oo-payn-day-LAY-oh)",
+          "translation": "An independent and proficient judiciary embodies the ultimate refuge of the citizenry in verifying that statutory jurisprudence renders justice without fear or favour."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Sheria na Mahakama Grand Synthesis: Katiba & Mihimili ya Dola; Jinai & Madai Mahakamani; Haki za Binadamu & Arusha; Mikataba, Hakimiliki & ADR!"
+      ],
+      "culturalNotes": [
+        "Lugha ya Kiswahili inatambulika rasmi kama moja ya lugha za kazi za Mahakama ya Afrika ya Haki za Binadamu na Watu (AfCHPR) na Umoja wa Afrika (AU)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Somo\":",
+          "prompt": "Mchanganyiko upi unawakilisha nguzo kuu za mfumo thabiti wa kisheria na haki katika taifa la kidemokrasia?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mtihani»",
-            "Mpangilio usio sahihi wa viambishi katika «Matokeo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Maktaba»"
+            "Katiba na utawala wa sheria, ngazi huru za mahakama (madai na jinai), ulinzi wa haki za binadamu na dhamana, pamoja na sheria za mikataba na usuluhishi (Comprehensive legal and judicial pillars)",
+            "Kufuta katiba yote na kuwanyang'anya wananchi haki zao",
+            "Kufunga mahakama zote na kukataa mawakili wa utetezi",
+            "Kuvunja mikataba ya kibiashara bila kulipa fidia yoyote"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Mfumo thabiti wa kisheria unajengwa kwa katiba, utawala wa sheria, mahakama huru, haki za binadamu, na mikataba/usuluhishi."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Somo\":",
+          "prompt": "Sentensi ipi inajumuisha msamiati wa kikatiba, mahakama na haki za binadamu kwa usahihi wa kiwango cha C1?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Matokeo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Maktaba»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mtihani»"
+            "Kwa mujibu wa katiba na sheria za nchi, mahakama inalinda haki za binadamu kwa kuhakikisha kuwa kila mtuhumiwa anapata kusikilizwa kwa haki. (In accordance with the constitution and national laws, the judiciary protects human rights by ensuring every accused person receives a fair hearing - Correct C1 legal synthesis)",
+            "Katiba inamzuia mshitakiwa kupata wakili au shahidi mahakamani.",
+            "Kesi zote za madai na jinai huamuliwa bila sheria wala ushahidi.",
+            "Mahakama Kuu haina mamlaka ya kusikiliza mashauri yoyote ya kisheria."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Sentensi inajumuisha maneno mahsusi ya C1: «kwa mujibu wa katiba», «mahakama inalinda haki za binadamu», «mtuhumiwa», na «kusikilizwa kwa haki»."
         }
       ]
     },
@@ -12307,17 +12356,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Somo\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 29 ya Sheria, Katiba na Haki za Mahakama:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Maktaba»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mtihani»",
-            "Mpangilio usio sahihi wa viambishi katika «Matokeo»"
+            "Kuanzia utawala wa sheria na mgawanyo wa madaraka chini ya katiba, usikilizwaji wa haki wa kesi za madai na jinai mahakamani, ulinzi wa haki za binadamu na hadhi ya Mahakama ya Afrika jijini Arusha, hadi mikataba ya kibiashara na usuluhishi nje ya mahakama, mfumo wa sheria unalinda utu, uhuru na ustawi wa jamii nzima. (Apex C1 synthesis of constitutional governance, criminal/civil litigation, human rights, and alternative dispute resolution.)",
+            "Sheria zote za Afrika Mashariki zilitungwa katika karne ya kwanza kabla ya Kristo.",
+            "Hakuna mawakili wala majaji wanaozungumza lugha ya Kiswahili mahakamani.",
+            "Lugha ya Kiswahili haiwezi kutumika kutafsiri katiba wala mikataba ya kimataifa."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kuanzia utawala wa sheria na mgawanyo wa madaraka chini ya katiba, usikilizwaji wa haki wa kesi za madai na jinai mahakamani, ulinzi wa haki za binadamu na hadhi ya Mahakama ya Afrika jijini Arusha, hadi mikataba ya kibiashara na usuluhishi nje ya mahakama, mfumo wa sheria unalinda utu, uhuru na ustawi wa jamii nzima.» inajumuisha maarifa yote ya Unit 29 kwa ufasaha wa hali ya juu wa C1."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u30-l1": {

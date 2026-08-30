@@ -144,14 +144,14 @@
     "sw-u28-l2",
     "sw-u28-l3",
     "sw-u28-l4",
-    "sw-u28-l5"
-  ],
-  "stubOnly": [
+    "sw-u28-l5",
     "sw-u29-l1",
     "sw-u29-l2",
     "sw-u29-l3",
     "sw-u29-l4",
-    "sw-u29-l5",
+    "sw-u29-l5"
+  ],
+  "stubOnly": [
     "sw-u30-l1",
     "sw-u30-l2",
     "sw-u30-l3",
@@ -178,8 +178,8 @@
     "sw-u34-l4",
     "sw-u34-l5"
   ],
-  "lastCompletedLessonId": "sw-u28-l5",
-  "nextToAuthor": "sw-u29-l1"
+  "lastCompletedLessonId": "sw-u29-l5",
+  "nextToAuthor": "sw-u30-l1"
 };
   global.FEARN_LEDGERS = global.FEARN_LEDGERS || {};
   global.FEARN_LEDGERS['swahili'] = LEDGER;
