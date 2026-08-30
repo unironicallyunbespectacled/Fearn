@@ -5405,53 +5405,62 @@
     "subject": "swahili",
     "unit": 13,
     "lessonNumber": 1,
-    "title": "Ngeli ya 9/10 (N-N) na Majina ya Kigeni (Noun Classes 9/10) (Part 1)",
+    "title": "Ngeli ya 9/10 (N-N): Nomino za Asili, Wanyama, na Maneno ya Kigeni (Class 9/10 Invariable Forms & Loanwords)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.1) with authentic precision.",
+    "objective": "Kutambua na kutumia nomino za Ngeli ya 9/10 (N-N) zenye umbo moja katika umoja na wingi, zikijumuisha vifaa vya kila siku, majina ya wanyama, na maneno ya kigeni (Loanwords).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Ngeli ya 9/10 (N-N): Muundo wa Nomino na Msamiati:\n\n1. **Umbo Moja katika Umoja na Wingi (Invariable Noun Form)**:\n   - Nomino za Ngeli ya N-N hazibadiliki kimaumbo mwanzoni kati ya umoja na wingi:\n     - *nyumba* (house / houses), *nguo* (cloth / clothes), *taa* (lamp / lamps), *njia* (road / roads), *barua* (letter / letters), *chupa* (bottle / bottles), *meza* (table / tables), *safari* (journey / journeys), *shule* (school / schools), *saa* (clock / hour / clocks).\n\n2. **Maneno ya Kigeni (Loanwords in N-N)**:\n   - Karibu maneno yote yaliyokopwa kutoka Kiarabu, Kiingereza, Kireno, na Kihindi huingia katika ngeli ya N-N:\n     - *simu* (phone), *kalamu* (pen), *sabuni* (soap), *benki* (bank), *motokaa* (motorcar), *tiketi* (ticket), *hoteli* (hotel / restaurant), *redio* (radio), *televisheni* (television), *serikali* (government), *ripoti* (report), *kompyuta* (computer).\n\n3. **Majina ya Wanyama katika N-N (Animals)**:\n   - Nomino za wanyama kimaumbo zipo katika ngeli ya N-N (*simba, ndovu/tembo, twiga, ng'ombe, mbuzi, kuku, mbwa, paka, samaki, ndege*), lakini **zinapopatana na vitenzi na vivumishi hufuata ngeli ya viumbe hai (Ngeli ya 1/2 A-WA)**!",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 13."
+          "target": "Nyumba hii mpya imejengwa vizuri na nyumba hizi zote zimepangishwa.",
+          "reading": "Nyu-mba hi-i mpy-a i-me-je-ngwa vi-zu-ri na nyu-mba hi-zi zo-te zi-me-pa-ngi-shwa. [ˈɲumbɑ ˈhiː ˈmpjɑ imɛˈʤɛŋɡwɑ viˈzuri nɑ ˈɲumbɑ ˈhizi ˈzɔtɛ zimɛpɑˈŋɡiʃwɑ] (NYOOM-bah HEE-ee M-PYAH ee-may-JAYN-gwah vee-ZOO-ree nah NYOOM-bah HEE-zee ZOH-tay zee-may-pahn-GEE-shwah)",
+          "translation": "This new house [class 9: nyumba hii] is built well and all these houses [class 10: nyumba hizi] are rented out."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 13-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kalamu yangu imepotea lakini kalamu zako zote zipo juu ya meza.",
+          "reading": "Ka-la-mu ya-ngu i-me-po-te-a la-ki-ni ka-la-mu za-ko zo-te zi-po ju-u ya me-za. [kɑˈlɑmu ˈjɑŋɡu imɛpɔˈtɛɑ lɑˈkini kɑˈlɑmu ˈzɑkɔ ˈzɔtɛ ˈzipɔ ˈʤuː jɑ ˈmɛzɑ] (kah-LAH-moo YAHN-goo ee-may-poh-TAY-ah lah-KEE-nee kah-LAH-moo ZAH-koh ZOH-tay ZEE-poh JOO-oo yah MAY-zah)",
+          "translation": "My pen [class 9: kalamu yangu] is lost but all your pens [class 10: kalamu zako] are on the table."
+        },
+        {
+          "target": "Simba mkali amelala chini ya mti wakati nguo zetu zote zikikauka kamba.",
+          "reading": "Si-mba mka-li a-me-la-la chi-ni ya mti wa-ka-ti nguo ze-tu zo-te zi-ki-ka-u-ka ka-mba. [ˈsimbɑ mˈkɑli ɑmɛˈlɑlɑ ˈtʃini jɑ ˈmti wɑˈkɑti ˈŋɡuɔ ˈzɛtu ˈzɔtɛ zikikɑˈukɑ ˈkɑmbɑ] (SEEM-bah m-KAH-lee ah-may-LAH-lah CHEE-nee yah M-TEE wah-KAH-tee N-GOO-oh ZAY-too ZOH-tay zee-kee-kah-OO-kah KAHM-bah)",
+          "translation": "A fierce lion [animate A-WA: simba mkali amelala] is sleeping under a tree while all our clothes [inanimate N-N: nguo zetu zote zikikauka] dry on the line."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ngeli ya N-N: Nomino haibadiliki (nyumba/nyumba); Upatanisho: Umoja = I- / hii; Wingi = ZI- / hizi!"
+      ],
+      "culturalNotes": [
+        "Nomino ya 'Safari' inatoka katika neno la Kiarabu 'safar' na iliingia katika Kiingereza duniani kote kupitia lugha ya Kiswahili."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kitabu\":",
+          "prompt": "Ni upi mabadiliko ya umbo la nomino \"Barua\" (letter) inapobadilika kutoka umoja kwenda wingi katika Ngeli ya N-N?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Muziki»",
-            "Mpangilio usio sahihi wa viambishi katika «Filamu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Michezo»"
+            "barua (Invariable - Class 9/10 nouns maintain the exact same shape in singular and plural)",
+            "mabarua (Kosa la kuingiza kiambishi cha JI-MA)",
+            "vibarua (Hili lina maana ya vibarua/casual laborers badala ya barua za kawaida)",
+            "mibarua (Kosa la kutumia kiambishi cha M-MI)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino za Ngeli ya N-N kama «barua» hazibadiliki umbo lake kati ya umoja na wingi."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kitabu\":",
+          "prompt": "Nomino ipi kati ya zifuatazo ni neno la kigeni (Loanword) lililoingia katika Ngeli ya N-N?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Filamu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Michezo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Muziki»"
+            "simu (Telephone / phone - Loanword in N-N noun class)",
+            "mtu (Nomino ya asili ya Kibantu katika Ngeli ya 1/2 A-WA)",
+            "kitabu (Nomino iliyokopwa iliyopewa muundo wa Ngeli ya KI-VI)",
+            "mti (Nomino ya asili katika Ngeli ya M-MI)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Simu» (kutoka Kiarabu au lugha za kigeni) ni nomino ya Ngeli ya 9/10 (N-N)."
         }
       ]
     },
@@ -5459,17 +5468,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kitabu\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha ya nomino zote zilizo katika Ngeli ya 9/10 (N-N):",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Michezo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Muziki»",
-            "Mpangilio usio sahihi wa viambishi katika «Filamu»"
+            "Nyumba, nguo, taa, njia, barua, chupa, meza, simu, kalamu, sabuni, safari, shule.",
+            "Kiti, kitabu, chumba, chakula, chombo, chuo.",
+            "Mtu, mtoto, mwalimu, mwanafunzi, mpishi, mgeni.",
+            "Mti, mto, mlima, mkono, mguu, mwili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Nyumba, nguo, taa, njia, barua, chupa, meza, simu, kalamu, sabuni, safari, na shule zote ni nomino halisi za Ngeli ya N-N."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u13-l2": {
@@ -5477,53 +5487,62 @@
     "subject": "swahili",
     "unit": 13,
     "lessonNumber": 2,
-    "title": "Ngeli ya 9/10 (N-N) na Majina ya Kigeni (Noun Classes 9/10) (Part 2)",
+    "title": "Upatanisho wa Ngeli ya 9/10 (N-N) katika Vitenzi na Viashiria (Verbal Concord & Demonstratives in N-N)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.2) with authentic precision.",
+    "objective": "Kutambua na kutumia viambishi vya upatanisho wa kitenzi (i- kwa umoja, zi- kwa wingi) na viashiria vyote vitatu (hii/hizi, hiyo/hizo, ile/zile) katika Ngeli ya N-N.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Upatanisho wa Ngeli ya 9/10 katika Vitenzi na Viashiria:\n\n1. **Upatanisho wa Kitenzi (Verbal Concord)**:\n   - **Umoja (Class 9)**: Kiambishi cha mtendaji ni **i-**, kiambishi cha mtendwa ni **-i-**:\n     - *Nyumba **i**mejengwa* (The house has been built)\n     - *Simu **i**nalia* (The phone is ringing)\n     - *Mimi nina**i**soma barua hii* (I am reading this letter)\n   - **Wingi (Class 10)**: Kiambishi cha mtendaji ni **zi-**, kiambishi cha mtendwa ni **-zi-**:\n     - *Nyumba **zi**mejengwa* (The houses have been built)\n     - *Simu **zi**nalia* (The phones are ringing)\n     - *Mimi nina**zi**soma barua hizi* (I am reading these letters)\n\n2. **Viashiria / Vionyeshi katika Ngeli ya N-N (Demonstratives)**:\n   - **Karibu (Near: This / These)**:\n     - Umoja: **hii** (*nyumba hii*, *kalamu hii*)\n     - Wingi: **hizi** (*nyumba hizi*, *kalamu hizi*)\n   - **Mbali Kidogo / Rejelewa (Reference: That / Those)**:\n     - Umoja: **hiyo** (*nyumba hiyo*, *kalamu hiyo*)\n     - Wingi: **hizo** (*nyumba hizo*, *kalamu hizo*)\n   - **Mbali Zaidi (Far: That / Those over there)**:\n     - Umoja: **ile** (*nyumba ile*, *kalamu ile*)\n     - Wingi: **zile** (*nyumba zile*, *kalamu zile*)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 13."
+          "target": "Simu hii iliita mara tatu lakini hakuna mtu aliyeipokea.",
+          "reading": "Si-mu hi-i i-li-i-ta ma-ra ta-tu la-ki-ni ha-ku-na m-tu a-li-ye-i-po-ke-a. [ˈsimu ˈhiː iliˈitɑ ˈmɑrɑ ˈtɑtu lɑˈkini hɑˈkunɑ ˈmtu ɑlijɛipɔˈkɛɑ] (SEE-moo HEE-ee ee-lee-EE-tah MAH-rah TAH-too lah-KEE-nee hah-KOO-nah M-TOO ah-lee-yay-ee-poh-KAY-ah)",
+          "translation": "This phone [simu hii] rang [iliita] three times, but nobody received it [OP -i-: aliyeipokea]."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 13-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Njia ile inaelekea mjini na njia hizi zote zimetengenezwa kwa lami.",
+          "reading": "Nji-a i-le i-na-e-le-ke-a mji-ni na nji-a hi-zi zo-te zi-me-te-nge-ne-zwa kwa la-mi. [ˈɲʤiɑ ˈilɛ inɑɛlɛˈkɛɑ mʤiˈni nɑ ˈɲʤiɑ ˈhizi ˈzɔtɛ zimɛtɛŋɡɛˈnɛzwɑ kwɑ ˈlɑmi] (NYJEE-ah EE-lay ee-nah-ay-lay-KAY-ah m-jee-NEE nah NYJEE-ah HEE-zee ZOH-tay zee-may-tayn-gay-NAY-zwah kwah LAH-mee)",
+          "translation": "That road yonder [njia ile] leads [inaelekea] to town and all these roads [njia hizi] are paved [zimetengenezwa] with tarmac."
+        },
+        {
+          "target": "Barua hizo ziliwasili jana na zilisomwa na wakurugenzi wote wa kampuni.",
+          "reading": "Ba-ru-a hi-zo zi-li-wa-si-li ja-na na zi-li-so-mwa na wa-ku-ru-ge-nzi wo-te wa ka-mpu-ni. [bɑˈruɑ ˈhizɔ ziliwɑˈsili ˈʤɑnɑ nɑ zilisɔmˈbwɑ nɑ wɑkuruˈɡɛnzi ˈwɔtɛ wɑ kɑmˈpuni] (bah-ROO-ah HEE-zoh zee-lee-wah-SEE-lee JAH-nah nah zee-lee-SOHM-wah nah wah-koo-roo-GAYN-zee WOH-tay wah kahm-POO-nee)",
+          "translation": "Those letters [barua hizo] arrived [ziliwasili] yesterday and were read [zilisomwa] by all company directors."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vitenzi na Viashiria vya N-N: Umoja = I- / hii / hiyo / ile; Wingi = ZI- / hizi / hizo / zile!"
+      ],
+      "culturalNotes": [
+        "Msemo wa Kiswahili unasema: 'Njia ya mwongo ni fupi' (The path of a liar is short), ukidhihirisha upatanisho wa ngeli ya N-N katika mafunzo ya maisha."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Muziki\":",
+          "prompt": "Sentensi ipi inatumia kiashiria sahihi cha \"mbali kidogo\" (hizo) na kitenzi cha wingi katika Ngeli ya N-N?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Filamu»",
-            "Mpangilio usio sahihi wa viambishi katika «Michezo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mpira wa miguu»"
+            "Barua hizo ziliandikwa na mwalimu mkuu. (Those letters were written by the headmaster - Correct Class 10 demonstrative 'hizo' and verbal prefix 'zi-')",
+            "Barua hayo yaliandikwa (Kosa la kutumia upatanisho wa JI-MA)",
+            "Barua hiyo iliandikwa (Huu ni umoja badala ya wingi)",
+            "Barua hivyo viliandikwa (Kosa la kutumia upatanisho wa KI-VI)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino ya wingi ya N-N «Barua» huchukua kiashiria «hizo» na kiambishi cha kitenzi «zi-»: «Barua hizo ziliandikwa»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Muziki\":",
+          "prompt": "Unapozungumzia njia moja iliyo mbali zaidi (yonder), kirai sahihi cha kionyeshi ni kipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Michezo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mpira wa miguu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Filamu»"
+            "njia ile (That road over there - Correct Class 9 far demonstrative 'ile')",
+            "njia lile (Kosa la kutumia kiashiria cha JI-MA)",
+            "njia ule (Kosa la kutumia kiashiria cha M-MI)",
+            "njia kile (Kosa la kutumia kiashiria cha KI-VI)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Katika umoja wa Ngeli ya N-N, kiashiria cha mbali zaidi ni «ile»: «njia ile»."
         }
       ]
     },
@@ -5531,17 +5550,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Muziki\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha sahihi ya viashiria vitatu katika Ngeli ya N-N kwa umoja na wingi:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mpira wa miguu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Filamu»",
-            "Mpangilio usio sahihi wa viambishi katika «Michezo»"
+            "Umoja: hii (this), hiyo (that), ile (that yonder); Wingi: hizi (these), hizo (those), zile (those yonder).",
+            "Umoja: hiki, hicho, kile; Wingi: hivi, hivyo, vile.",
+            "Umoja: hili, hilo, lile; Wingi: haya, hayo, yale.",
+            "Umoja: huu, huo, ule; Wingi: hii, hiyo, ile."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Viashiria vya Ngeli ya N-N ni «hii, hiyo, ile» (umoja) na «hizi, hizo, zile» (wingi)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u13-l3": {
@@ -5549,53 +5569,62 @@
     "subject": "swahili",
     "unit": 13,
     "lessonNumber": 3,
-    "title": "Ngeli ya 9/10 (N-N) na Majina ya Kigeni (Noun Classes 9/10) (Part 3)",
+    "title": "Upatanisho wa Vivumishi vya Sifa na Sheria za Sauti (Nasal Sound Rules in N-N)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.3) with authentic precision.",
+    "objective": "Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya N-N, ikiwa ni pamoja na kanuni za mabadiliko ya sauti ya pua (n- + b -> mb, n- + d -> nd, n- + r -> nd, n- + irabu -> ny-) na vivumishi vya asili ya Kiarabu visivyobadilika.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vivumishi vya Sifa katika Ngeli ya 9/10 (N-N Adjective Rules):\n\n1. **Sheria za Mabadiliko ya Sauti za Pua (Nasal Rules)**:\n   - Kiambishi cha sifa katika N-N ni **n- / m-** kinachoambatana na shina la kivumishi cha Kibantu:\n     - *n + -baya -> **mbaya*** (*nyumba mbaya* = bad house / houses)\n     - *n + -dogo -> **ndogo*** (*nyumba ndogo* = small house / houses)\n     - *n + -zuri -> **nzuri*** (*nyumba nzuri* = fine house / houses)\n     - *n + -zito -> **nzito*** (*barua nzito* = heavy letter)\n     - *n + -pya -> **mpya*** (*nguo mpya* = new cloth / clothes)\n     - *n + -refu -> **ndefu*** (*njia ndefu* = long road / roads) [*r -> d baada ya n*]\n     - *n + -pana -> **pana*** (*njia pana* = wide road)\n     - *n + -kubwa -> **kubwa*** (*nyumba kubwa* = big house)\n   - **Kabla ya Irabu: huchukua ny-**:\n     - *n + -eusi -> **nyeusi*** (*nguo nyeusi* = black clothes)\n     - *n + -eupe -> **nyeupe*** (*nguo nyeupe* = white clothes)\n     - *n + -epesi -> **nyepesi*** (*nguo nyepesi* = light clothes)\n     - *n + -ingine -> **nyingine*** (*nyumba nyingine* = another house / other houses)\n\n2. **Vivumishi vya Asili ya Kigeni (Invariable Adjectives)**:\n   - Vivumishi vilivyokopwa kutoka Kiarabu havibadiliki kamwe: *safi, bora, ghali, rahisi, hodari, imara, tayari, lazima*:\n     - *nyumba safi*, *barabara imara*, *tiketi ghali*, *kazi rahisi*.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 13."
+          "target": "Nguo nyeusi nzuri zilinunuliwa dukani kwa bei nafuu sana.",
+          "reading": "Nguo nye-u-si nzu-ri zi-li-nu-nu-li-wa du-ka-ni kwa be-i na-fu-u sa-na. [ˈŋɡuɔ ˈɲɛusi ˈnzuri zilinunuliˈwɑ dukɑˈni kwɑ ˈbɛi ˈnɑfuː ˈsɑnɑ] (N-GOO-oh NYAY-oo-see N-ZOO-ree zee-lee-noo-noo-LEE-wah doo-kah-NEE kwah BAY-ee nah-FOO-oo SAH-nah)",
+          "translation": "Fine black clothes [nguo nyeusi nzuri] were bought at the shop at a very affordable price."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 13-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Njia ndefu na nyembamba inapita msituni kuelekea kijijini.",
+          "reading": "Nji-a nde-fu na nye-mba-mba i-na-pi-ta msi-tu-ni ku-e-le-ke-a ki-ji-ji-ni. [ˈɲʤiɑ ˈndɛfu nɑ ɲɛmˈbɑmbɑ inɑˈpitɑ msiˈtuni kuɛlɛˈkɛɑ kiʤiˈʤini] (NYJEE-ah N-DAY-foo nah nyay-m-BAHM-bah ee-nah-PEE-tah m-see-too-NEE koo-ay-lay-KAY-ah kee-jee-jee-NEE)",
+          "translation": "A long and narrow road [njia ndefu na nyembamba] passes through the forest towards the village."
+        },
+        {
+          "target": "Nyumba imara mpya ina milango mikubwa na kuta nyeupe safi.",
+          "reading": "Nyu-mba i-ma-ra mpy-a i-na mi-la-ngo mi-kbu-wa na ku-ta nye-u-pe sa-fi. [ˈɲumbɑ iˈmɑrɑ ˈmpjɑ ˈinɑ miˈlɑŋɡɔ miˈkubwɑ nɑ ˈkutɑ ˈɲɛupɛ ˈsɑfi] (NYOOM-bah ee-MAH-rah M-PYAH EE-nah mee-LAHN-goh mee-KOO-bwah nah KOO-tah NYAY-oo-pay SAH-fee)",
+          "translation": "A strong new house [nyumba imara mpya] has big doors and clean white walls [kuta nyeupe safi]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vivumishi vya N-N: n- + b->mb (mbaya), n- + r->nd (ndefu), n- + irabu->ny- (nyeusi, nyeupe); Kiarabu: safi, imara, ghali havibadiliki!"
+      ],
+      "culturalNotes": [
+        "Neno 'Imara' (strong/firm) lina heshima kubwa katika utamaduni wa ujenzi wa Waswahili, kama unavyoonekana katika kuta za mawe za miji ya kihistoria kama Kilwa Kisiwani na Lamu."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Filamu\":",
+          "prompt": "Shina la kivumishi \"-refu\" (long) linapopatana na nomino \"Njia\" (N-N), umbo sahihi huwa lipi kufuatia sheria za sauti za Kibantu?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Michezo»",
-            "Mpangilio usio sahihi wa viambishi katika «Mpira wa miguu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Safari»"
+            "njia ndefu (Long road - Correct nasal shift 'n + refu' -> 'ndefu')",
+            "njia nrefu (Kosa la kutobadili 'r' kuwa 'd' baada ya kiambishi cha pua)",
+            "njia refu (Kosa la kuacha kiambishi cha pua)",
+            "njia mirefu (Huu ni upatanisho wa Ngeli ya 4 M-MI)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Katika ngeli ya N-N, «n-» + «-refu» hubadilika na kutoa «ndefu» (*r hubadilika kuwa d*)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Filamu\":",
+          "prompt": "Unapovumisha nomino \"Nguo\" (clothes) kwa kutumia kivumishi kinachoanza na irabu \"-eupe\" (white), umbo sahihi ni lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Mpira wa miguu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Safari»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Michezo»"
+            "nguo nyeupe (White clothes - Correct nasal prefix 'ny-' before vowel in N-N class)",
+            "nguo meupe (Huu ni upatanisho wa JI-MA)",
+            "nguo vyeupe (Huu ni upatanisho wa KI-VI)",
+            "nguo neupe (Kosa la kutotumia 'ny-')"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kabla ya irabu, kiambishi cha N-N huwa «ny-»: «nguo nyeupe»."
         }
       ]
     },
@@ -5603,17 +5632,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Filamu\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi wa vivumishi vya sifa vya Kibantu na vya Kiarabu katika Ngeli ya N-N:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Safari»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Michezo»",
-            "Mpangilio usio sahihi wa viambishi katika «Mpira wa miguu»"
+            "Nyumba mpya imara ina njia ndefu na nguo nyeusi nzuri zimeanikwa kamba. (New strong house [mpya imara], long road [ndefu], and fine black clothes [nyeusi nzuri].)",
+            "Nyumba ripya limara ina njia nrefu na nguo meusi mazuri zimeanikwa.",
+            "Nyumba kipya kizuri ina njia mirefu na nguo vyeusi vizuri zimeanikwa.",
+            "Vivumishi vya N-N havina tofauti yoyote na vivumishi vya ngeli ya A-WA."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Nyumba mpya imara ina njia ndefu na nguo nyeusi nzuri zimeanikwa kamba.» inatekeleza sheria zote za pua (mpya, ndefu, nyeusi, nzuri) na sifa ya Kiarabu (imara)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u13-l4": {
@@ -5621,53 +5651,62 @@
     "subject": "swahili",
     "unit": 13,
     "lessonNumber": 4,
-    "title": "Ngeli ya 9/10 (N-N) na Majina ya Kigeni (Noun Classes 9/10) (Part 4)",
+    "title": "Vivumishi vya Idadi, Vimilikishi, na Kanuni ya Uhai katika N-N (Numbers, Possessives & Animate Agreement)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.4) with authentic precision.",
+    "objective": "Kutumia vivumishi vya idadi (moja, mbili, tatu, nne, tano, nane), vimilikishi (yangu/zangu), na kuelewa kanuni kuu ya viumbe hai (Animate Concord Rule) ambapo wanyama katika ngeli ya N-N hufuata upatanisho wa A-WA.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vivumishi vya Idadi, Vimilikishi, na Kanuni ya Uhai katika N-N:\n\n1. **Vivumishi vya Idadi kwa Vitu Visivyo na Uhai (Inanimate Numbers)**:\n   - *nyumba **moja*** (1 house)\n   - *nyumba **mbili*** (2 houses) [*n + bili -> mbili*]\n   - *nyumba **tatu*** (3 houses)\n   - *nyumba **nne*** (4 houses) [*n + ne -> nne*]\n   - *nyumba **tano*** (5 houses)\n   - *nyumba **nane*** (8 houses)\n   - Idadi zisizobadilika: *nyumba sita, saba, tisa, kumi*.\n\n2. **Vimilikishi vya N-N (Possessives)**:\n   - Umoja: **yangu, yako, yake, yetu, yenu, yao** (*nyumba yangu* = my house)\n   - Wingi: **zangu, zako, zake, zetu, zenu, zao** (*nyumba zangu* = my houses)\n\n3. **Kanuni Kuu ya Viumbe Hai (The Animate Concord Rule)**:\n   - Wanyama, ndege, wadudu, na samaki wamo katika ngeli ya N-N kimaumbo, lakini **kisarufi wanapopatana na vitenzi, viashiria, na vivumishi hufuata ngeli ya viumbe hai (1/2 A-WA)**:\n     - *Simba **mmoja** mkubwa **a**melala* (One big lion is asleep) [SIYO *simba moja ndogo imelala*!]\n     - *Simba **wawili** wakubwa **wa**melala* (Two big lions are asleep) [SIYO *simba mbili zamelala*!]\n     - *Ndege **huyu** mzuri **a**naimba* (This beautiful bird is singing)\n     - *Mbuzi **wetu** watatu **wa**mekimbia* (Our three goats have run away).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 13."
+          "target": "Nyumba zetu mbili mpya zilikamilika mwezi uliopita.",
+          "reading": "Nyu-mba ze-tu mbi-li mpy-a zi-li-ka-mi-li-ka mwe-zi u-li-o-pi-ta. [ˈɲumbɑ ˈzɛtu ˈmbili ˈmpjɑ zilikɑmiˈlikɑ ˈmwɛzi uliɔˈpitɑ] (NYOOM-bah ZAY-too M-BEE-lee M-PYAH zee-lee-kah-mee-LEE-kah MWAY-zee oo-lee-oh-PEE-tah)",
+          "translation": "Our two new houses [nyumba zetu mbili mpya] were completed last month."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 13-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mbuzi watatu wakubwa wanazurura shambani wakati ng'ombe wetu watano wanakula majani.",
+          "reading": "Mbu-zi wa-ta-tu wa-kbu-wa wa-na-zu-ru-ra sha-mba-ni wa-ka-ti ng'o-mbe we-tu wa-ta-no wa-na-ku-la ma-ja-ni. [ˈmbuzi wɑˈtɑtu wɑˈkubwɑ wɑnɑzuruˈrɑ ʃɑmbɑˈni wɑˈkɑti ˈŋɔmbɛ ˈwɛtu wɑˈtɑnɔ wɑnɑˈkulɑ mɑˈʤɑni] (M-BOO-zee wah-TAH-too wah-KOO-bwah wah-nah-zoo-roo-RAH shahm-bah-NEE wah-KAH-tee N-GOH-m-bay WAY-too wah-TAH-noh wah-nah-KOO-lah mah-JAH-nee)",
+          "translation": "Three big goats [animate: mbuzi watatu wakubwa wanazurura] roam the farm while our five cows [ng'ombe wetu watano wanakula] eat grass."
+        },
+        {
+          "target": "Baiskeli yangu ina magurudumu mawili imara na taa moja nzuri.",
+          "reading": "Ba-i-ske-li ya-ngu i-na ma-gu-ru-du-mu ma-wi-li i-ma-ra na ta-a mo-ja nzu-ri. [bɑisˈkɛli ˈjɑŋɡu ˈinɑ mɑɡuruˈdumu mɑˈwili iˈmɑrɑ nɑ ˈtɑː ˈmɔʤɑ ˈnzuri] (bah-ee-SKAY-lee YAHN-goo EE-nah mah-goo-roo-DOO-moo mah-WEE-lee ee-MAH-rah nah TAH-ah MOH-jah N-ZOO-ree)",
+          "translation": "My bicycle [baiskeli yangu] has two strong wheels and one fine lamp [taa moja nzuri]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vitu visivyo na uhai: nyumba mbili, nyumba zangu; Viumbe hai (wanyama): simba wawili, simba wetu wanatembea!"
+      ],
+      "culturalNotes": [
+        "Katika mbuga za wanyama za Serengeti na Ngorongoro, waongozaji wa utalii hutumia upatanisho wa uhai kueleza wanyama: 'Tazama ndovu yule mkubwa anavyotembea kwa utulivu!'"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Michezo\":",
+          "prompt": "Sentensi ipi inatumia idadi ya mbili (2) kwa usahihi kwa nomino isiyo na uhai katika Ngeli ya N-N?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mpira wa miguu»",
-            "Mpangilio usio sahihi wa viambishi katika «Safari»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Sanaa»"
+            "Kalamu mbili zilianguka chini ya meza. (Two pens fell under the table - Correct Class 10 numeral 'mbili')",
+            "Kalamu mawili zilianguka (Kosa la kutumia JI-MA)",
+            "Kalamu viwili zilianguka (Kosa la kutumia KI-VI)",
+            "Kalamu wawili walianguka (Kosa la kutumia A-WA kwa kitu kisicho na uhai)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino isiyo na uhai ya N-N «Kalamu» huchukua kivumishi cha idadi «mbili» na kitenzi «zilianguka»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Michezo\":",
+          "prompt": "Unapozungumzia wanyama watatu (ng'ombe 3), sentensi ipi inafuata kanuni sahihi ya upatanisho wa viumbe hai (Animate Concord)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Safari»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Sanaa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mpira wa miguu»"
+            "Ng'ombe watatu wanakunywa maji mtoni. (Three cows are drinking water at the river - Correct animate concord with A-WA prefix 'wa-')",
+            "Ng'ombe tatu zinakunywa maji mtoni (Kosa la kutumia upatanisho usio na uhai kwa wanyama)",
+            "Ng'ombe matatu yanakunywa maji (Kosa la kutumia JI-MA)",
+            "Ng'ombe vitatu vinakunywa maji (Kosa la kutumia KI-VI)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Wanyama wote katika Kiswahili hufuata upatanisho wa viumbe hai (Ngeli ya 1/2 A-WA): «Ng'ombe watatu wanakunywa»."
         }
       ]
     },
@@ -5675,17 +5714,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Michezo\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayochanganya upatanisho wa vitu visivyo na uhai na viumbe hai katika Ngeli ya N-N kwa ukamilifu:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Sanaa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mpira wa miguu»",
-            "Mpangilio usio sahihi wa viambishi katika «Safari»"
+            "Nyumba zetu mbili ziko kando ya bustani ambapo mbuzi watatu wakubwa wanakula majani. (Our two houses [nyumba zetu mbili ziko] are beside the garden where three big goats [mbuzi watatu wakubwa wanakula] are eating grass.)",
+            "Nyumba zetu mbili ziko kando ya bustani ambapo mbuzi tatu kubwa zinakula majani.",
+            "Nyumba yetu mawili yako kando ya bustani wakati mbuzi tatu zinakula.",
+            "Wanyama na vitu visivyo na uhai hutumia viambishi vinavyofanana kabisa."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Nyumba zetu mbili ziko kando ya bustani ambapo mbuzi watatu wakubwa wanakula majani.» inatofautisha vizuri upatanisho wa vitu (nyumba zetu mbili ziko) na wanyama (mbuzi watatu wakubwa wanakula)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u13-l5": {
@@ -5693,53 +5733,62 @@
     "subject": "swahili",
     "unit": 13,
     "lessonNumber": 5,
-    "title": "Ngeli ya 9/10 (N-N) na Majina ya Kigeni (Noun Classes 9/10) (Part 5)",
+    "title": "Muhtasari wa Ngeli ya 9/10 (N-N) na Upatanisho (Grand Synthesis of N-N Class)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 13: msamiati wa N-N, maneno ya kigeni, upatanisho wa vitenzi (i-/zi-), virejeshi vya watendwa (-i-/-zi-), viashiria (hii/hizi, hiyo/hizo, ile/zile), vimilikishi (yangu/zangu), vivumishi vya sifa na sheria za pua, idadi, na kanuni ya uhai kwa wanyama.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Ngeli ya 9/10 (Grand Synthesis of N-N Class):\n\n1. **Muundo Kamili wa Ngeli ya 9/10 (Master N-N Matrix)**:\n   - **Nomino**: *nyumba, kalamu, simu, nguo, barabara, meza, safari, shule, baiskeli, taa*.\n   - **Kiambishi Kitenzi (SP)**: *i-* (umoja: *nyumba imejengwa*) / *zi-* (wingi: *nyumba zimejengwa*).\n   - **Kirejeshi Mtendwa (OP)**: *-i-* (umoja: *ninaipenda*) / *-zi-* (wingi: *ninazipenda*).\n   - **Viashiria**: *hii / hizi* (karibu), *hiyo / hizo* (hapo), *ile / zile* (mbali).\n   - **Vimilikishi**: *yangu/yetu* (umoja) / *zangu/zetu* (wingi).\n   - **Vivumishi vya Sifa**: Sheria za pua (*nzuri, ndogo, mbaya, ndefu, mpya, nyeusi, nyeupe*) na maneno ya kigeni (*safi, imara, ghali*).\n   - **Vivumishi vya Idadi**: *moja* (1) / *mbili* (2), *tatu* (3), *nne* (4), *tano* (5), *nane* (8).\n   - **Kanuni ya Uhai (Animate Concord)**: Wanyama wote hufuata A-WA (*simba mmoja mkubwa amelala* / *simba wawili wakubwa wamelala*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 13."
+          "target": "Nyumba zetu mpya zimejengwa kando ya barabara kuu, na barua hizi zote zimetumwa posta.",
+          "reading": "Nyu-mba ze-tu mpy-a zi-me-je-ngwa ka-ndo ya ba-ra-ba-ra ku-u, na ba-ru-a hi-zi zo-te zi-me-tu-mwa po-sta. [ˈɲumbɑ ˈzɛtu ˈmpjɑ zimɛˈʤɛŋɡwɑ ˈkɑndɔ jɑ bɑrɑˈbɑrɑ ˈkuː nɑ bɑˈruɑ ˈhizi ˈzɔtɛ zimɛˈtumwɑ ˈpɔstɑ] (NYOOM-bah ZAY-too M-PYAH zee-may-JAYN-gwah KAHN-doh yah bah-rah-BAH-rah KOO-oo, nah bah-ROO-ah HEE-zee ZOH-tay zee-may-TOOM-wah POH-stah)",
+          "translation": "Our new houses [nyumba zetu mpya] are built beside the highway, and all these letters [barua hizi zote] have been mailed."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 13-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Simba wawili na twiga watatu wanaonekana mbugani, wakati gari zetu mbili zikisafiri kwa amani.",
+          "reading": "Si-mba wa-wi-li na twi-ga wa-ta-tu wa-na-o-ne-ka-na mbu-ga-ni, wa-ka-ti ga-ri ze-tu mbi-li zi-ki-sa-fi-ri kwa a-ma-ni. [ˈsimbɑ wɑˈwili nɑ ˈtwiɡɑ wɑˈtɑtu wɑnɑɔnɛˈkɑnɑ mbuˈɡɑni wɑˈkɑti ˈɡɑri ˈzɛtu ˈmbili zikisɑˈfiri kwɑ ɑˈmɑni] (SEEM-bah wah-WEE-lee nah TWEE-gah wah-TAH-too wah-nah-oh-nay-KAH-nah m-boo-GAH-nee, wah-KAH-tee GAH-ree ZAY-too M-BEE-lee zee-kee-sah-FEE-ree kwah ah-MAH-nee)",
+          "translation": "Two lions and three giraffes [animate A-WA] are visible in the park, while our two cars [inanimate N-N] travel peacefully."
+        },
+        {
+          "target": "Umahiri wa Ngeli ya N-N ni nguzo kuu ya lugha ya Kiswahili inayowawezesha wazungumzaji kueleza maelfu ya maneno ya kigeni na vitu vya kila siku kwa muundo thabiti na sanifu.",
+          "reading": "U-ma-hi-ri wa Nge-li ya N-N ni ngu-zo ku-u ya lu-gha ya Ki-swa-hi-li i-na-yo-wa-we-ze-sha wa-zu-ngu-mza-ji ku-e-le-za ma-e-lfu ya ma-ne-no ya ki-ge-ni na vi-tu vya ki-la si-ku kwa mui-ndo tha-bi-ti na sa-ni-fu. [umɑˈhiri wɑ ˈŋɡɛli jɑ ɛnˈɛn ni ˈŋɡuzɔ ˈkuː jɑ ˈluɣɑ jɑ kiswɑˈhili inɑjɔwɑwɛˈzɛʃɑ wɑzuŋɡumˈzɑʤi kuɛˈlɛzɑ mɑˈɛlfu jɑ mɑˈnɛnɔ jɑ kiˈɡɛni nɑ ˈvitu vjɑ ˈkilɑ ˈsiku kwɑ ˈmuindɔ θɑˈbiti nɑ sɑˈnifu] (oo-mah-HEE-ree wah N-GAY-lee yah EN-EN nee N-GOO-zoh KOO-oo yah LOO-ghah yah kee-swah-HEE-lee ee-nah-yoh-wah-way-ZAY-shah wah-zoon-goom-ZAH-jee koo-ay-LAY-zah mah-AYL-foo yah mah-NAY-noh yah kee-GAY-nee nah VEE-too vyah KEE-lah SEE-koo kwah moo-EEN-doh thah-BEE-tee nah sah-NEE-foo)",
+          "translation": "Mastery of the N-N noun class [N-N grand synthesis: Ngeli ya N-N] is a pillar of Swahili, empowering speakers to articulate thousands of loanwords and everyday items with stable and standard syntax."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Muhtasari wa N-N: Umoja (i-, hii/hiyo/ile, yangu, nzuri, moja); Wingi (zi-, hizi/hizo/zile, zangu, nzuri, mbili); Wanyama = A-WA!"
+      ],
+      "culturalNotes": [
+        "Ujumuishaji mkubwa wa maneno ya kimataifa katika Ngeli ya N-N unathibitisha hadhi ya Kiswahili kama lugha inayokua na kubadilika kukidhi mahitaji ya kidijitali na kibiashara."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mpira wa miguu\":",
+          "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa ngeli ya 9/10 (N-N) ikijumuisha nomino, sifa, idadi, na kitenzi kwa vitu visivyo na uhai?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Safari»",
-            "Mpangilio usio sahihi wa viambishi katika «Sanaa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mashairi»"
+            "Nguo nzuri tatu ziliuzwa dukani kwa bei nafuu. (Three fine garments were sold at the shop at an affordable price - Harmonious N-N class synthesis)",
+            "Nguo mazuri matatu yaliuzwa (Kosa la kutumia upatanisho wa JI-MA)",
+            "Nguo vizuri vitatu viliuzwa (Kosa la kutumia upatanisho wa KI-VI)",
+            "Nguo mizuri mitatu iliuzwa (Kosa la kutumia upatanisho wa M-MI)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Nguo nzuri tatu ziliuzwa dukani kwa bei nafuu.» inatekeleza upatanisho sahihi wa nomino (nguo), sifa (nzuri), idadi (tatu), na kitenzi (ziliuzwa)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mpira wa miguu\":",
+          "prompt": "Katika muhtasari wa Unit 13, ni upatanisho gani sahihi wa kiashiria, kivumishi cha sifa, na kitenzi kwa nomino \"Simu\" (umoja)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Sanaa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mashairi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Safari»"
+            "Simu hii mpya iliwasilishwa ofisini mapema. (This new phone was delivered to the office early - Correct Class 9 demonstrative 'hii', adjective 'mpya', and verbal prefix 'i-')",
+            "Simu hili jipya liliwasilishwa (Kosa la kutumia JI-MA)",
+            "Simu hiki kipya kiliwasilishwa (Kosa la kutumia KI-VI)",
+            "Simu huu mpya uliwasilishwa (Kosa la kutumia M-MI)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino «Simu» (umoja katika N-N) huchukua kiashiria «hii», sifa «mpya», na kitenzi «iliwasilishwa»."
         }
       ]
     },
@@ -5747,17 +5796,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mpira wa miguu\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 13 ya Ngeli ya 9/10 (N-N) na Vivumishi katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mashairi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Safari»",
-            "Mpangilio usio sahihi wa viambishi katika «Sanaa»"
+            "Nyumba zetu mbili mpya zimejengwa vizuri kando ya barabara kuu, wakati simba wawili wakubwa wamelala chini ya mti. (Our two new houses [z-], beside the highway [N-N], while two big lions [animate A-WA] sleep under a tree.)",
+            "Nyumba yetu mawili mapya yamejengwa vizuri wakati simba mbili zamelala.",
+            "Nyumba zetu vipya vilijengwa vizuri wakati simba wawili inalala.",
+            "Ngeli ya N-N haitumiki kwa maneno ya kigeni."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Nyumba zetu mbili mpya zimejengwa vizuri kando ya barabara kuu, wakati simba wawili wakubwa wamelala chini ya mti.» inajumuisha upatanisho wa N-N katika nyanja zote pamoja na kanuni ya uhai kwa wanyama kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u14-l1": {
