@@ -485,85 +485,62 @@
     "subject": "amharic",
     "unit": 1,
     "lessonNumber": 1,
-    "title": "ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings) (ክፍል 1)",
+    "title": "የፊደል መዋቅር እና የመጀመሪያ ሰላምታዎች (The Fidel Abugida System & Essential Greetings)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የግዕዝ ፊደላት፣ የድምፅ አወጣጥ፣ መደበኛ እና መደበኛ ያልሆኑ የሰላምታ አገላለጾች፣ እና ራስን ማስተዋወቅ። (ክፍል 1)።",
+    "objective": "የግዕዝ/አማርኛ ፊደልን 7 የድምፅ ቅደም ተከተሎች (orders) መረዳት እና መሰረታዊ የሰላምታ አገላለጾችን (ሰላም፣ እንደምን ነህ/ነሽ/ኖት) በጾታና በአክብሮት ለይቶ መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "እንኳን ወደ አማርኛ ቋንቋ ትምህርት በደህና መጡ! አማርኛ በኢትዮጵያ ውስጥ በስፋት የሚነገር ጥንታዊና ታሪካዊ ቋንቋ ሲሆን፣ አጻጻፉም በግዕዝ ፊደላት ስርዓት የተመሰረተ ነው:\n\n፩. የፊደል አወቃቀር እና ሰባቱ ድምጾች:\nየአማርኛ ፊደል ለእያንዳንዱ ተነባቢ ድምፅ ሰባት የአናባቢ ቅደም ተከተሎች አሉት:\n- ግዕዝ (፩ኛ ድምፅ): ሀ፣ ለ፣ መ፣ ሠ፣ ረ፣ ሰ፣ ሸ፣ ቀ፣ በ፣ ተ፣ ቸ፣ ኀ፣ ነ፣ ኘ፣ አ፣ ከ፣ ኸ፣ ወ፣ ዐ፣ ዘ፣ ዠ፣ የ፣ ደ፣ ጀ፣ ገ፣ ጠ፣ ጨ፣ ጰ፣ ጸ፣ ፀ፣ ፈ፣ ፐ።\n- ካዕብ (፪ኛ ድምፅ): ሁ፣ ሉ፣ ሙ፣ ሡ፣ ሩ፣ ሱ፣ ሹ፣ ቁ፣ ቡ፣ ቱ፣ ቹ፣ ኁ፣ ኑ፣ ኙ፣ ኡ፣ ኩ፣ ኹ፣ ዉ፣ ዑ፣ ዙ፣ ዡ፣ ዩ፣ ዱ፣ ጁ፣ ጉ፣ ጡ፣ ጩ፣ ጱ፣ ጹ፣ ፁ፣ ፉ፣ ፑ።\n- ሣልስ (፫ኛ ድምፅ): ሂ፣ ሊ፣ ሚ፣ ሢ፣ ሪ፣ ሲ፣ ሺ፣ ቂ፣ ቢ፣ ቲ፣ ቺ፣ ኂ፣ ኒ፣ ኚ፣ ኢ፣ ኪ፣ ኺ፣ ዊ፣ ዒ፣ ዚ፣ ዢ፣ ዪ፣ ዲ፣ ጂ፣ ጊ፣ ጢ፣ ጪ፣ ጲ፣ ጺ፣ ፂ፣ ፊ፣ ፒ።\n- ራብዕ (፬ኛ ድምፅ): ሃ፣ ላ፣ ማ፣ ሣ፣ ራ፣ ሳ፣ ሻ፣ ቃ፣ ባ፣ ታ፣ ቻ፣ ኃ፣ ና፣ ኛ፣ ኣ፣ ካ፣ ኻ፣ ዋ፣ ዓ፣ ዛ፣ ዣ፣ ያ፣ ዳ፣ ጃ፣ ጋ፣ ጣ፣ ጫ፣ ጳ፣ ጻ፣ ፃ፣ ፋ፣ ፓ።\n- ኃምስ (፭ኛ ድምፅ): ሄ፣ ሌ፣ ሜ፣ ሤ፣ ሬ፣ ሴ፣ ሼ፣ ቄ፣ ቤ፣ ቴ፣ ቼ፣ ኄ፣ ኔ፣ ኜ፣ ኤ፣ ኬ፣ ኼ፣ ዌ፣ ዔ፣ ዜ፣ ዤ፣ ዬ፣ ዴ፣ ጄ፣ ጌ፣ ጤ፣ ጬ፣ ጴ፣ ጼ፣ ፄ፣ ፌ፣ ፔ።\n- ሳድስ (፮ኛ ድምፅ): ህ፣ ል፣ ም፣ ሥ፣ ር፣ ስ፣ ሽ፣ ቅ፣ ብ፣ ት፣ ች፣ ኅ፣ ን፣ ኝ፣ እ፣ ክ፣ ኽ፣ ው፣ ዕ፣ ዝ፣ ዥ፣ ይ፣ ድ፣ ጅ፣ ግ፣ ጥ፣ ጭ፣ ጵ፣ ጽ፣ ፅ፣ ፍ፣ ፕ።\n- ሳብዕ (፯ኛ ድምፅ): ሆ፣ ሎ፣ ሞ፣ ሦ፣ ሮ፣ ሶ፣ ሾ፣ ቆ፣ ቦ፣ ቶ፣ ቾ፣ ኆ፣ ኖ፣ ኞ፣ ኦ፣ ኮ፣ ኾ፣ ዎ፣ ዖ፣ ዞ፣ ዦ፣ ዮ፣ ዶ፣ ጆ፣ ጎ፣ ጦ፣ ጮ፣ ጶ፣ ጾ፣ ፆ፣ ፎ፣ ፖ።\n\n፪. መሰረታዊ የሰላምታ አገላለጾች:\n- «ሰላም»: አጠቃላይ የሰላምታ ቃል ሲሆን ለማንኛውም ሰውና በማንኛውም ሰዓት ያገለግላል።\n- «እንደምን ነህ?»: ለአንድ ወንድ የሚቀርብ የደህንነት ጥያቄ ነው።\n- «እንደምን ነሽ?»: ለአንዲት ሴት የሚቀርብ የደህንነት ጥያቄ ነው።\n- «እንደምን ኖት?»: ለአዋቂ ወይም ለታላቅ ሰው በአክብሮት የሚቀርብ የጨዋነት ጥያቄ ነው።\n- «እንደምን ናችሁ?»: ለብዙ ሰዎች በአንድነት የሚቀርብ ጥያቄ ነው።\n\n፫. የሰላምታ ምላሾች:\n- «ደህና ነኝ፣ እግዚአብሔር ይመስገን»: በኢትዮጵያ ባህል እጅግ የተለመደና የተወደደ ትሁት ምላሽ ነው።\n- «በጣም ደህና ነኝ፣ አመሰግናለሁ»: አጭርና ግልጽ የሆነ አዎንታዊ ምላሽ ነው።",
       "examples": [
         {
-          "target": "መምህሩ የ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (1.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)' to the students."
+          "target": "ሰላም፣ እንደምን ነህ? ደህና ነኝ፣ እግዚአብሔር ይመስገን።",
+          "reading": "Sälam, əndämən näh? Dähna näny, əgzi'abhér yəmmäsgän. [səˈlam ɨndɨˈmɨn nɛh dɛhˈna nɨɲ ɨɡzi.aˈbher jɨmˈmɛsɡɨn] (suh-LAHM, un-duh-MUN neh? deh-NAH nuh-NY, ug-zee-ah-BHER yum-MES-gun)",
+          "translation": "Hello, how are you [to a male]? I am well, thank God."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (1.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ሰላም፣ እንደምን ነሽ? እኔ በጣም ደህና ነኝ፣ አመሰግናለሁ።",
+          "reading": "Sälam, əndämən näsh? Əne bətam dähna näny, amäsäggənalähu. [səˈlam ɨndɨˈmɨn nɛʃ ɨˈne bɨˈtʼam dɛhˈna nɨɲ amɨsɨɡːɨˈnalɨhu] (suh-LAHM, un-duh-MUN nesh? uh-NAY buh-TAHM deh-NAH nuh-NY, ah-muh-sug-guh-NAH-luh-hoo)",
+          "translation": "Hello, how are you [to a female]? I am very well, thank you."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (1.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (1.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ሰላም ጤና ይስጥልኝ እንደምን ኖት? ደህና ነኝ እግዚአብሔር ይመስገን።",
+          "reading": "Sälam téna yəst’əlləny əndämən not? Dähna näny əgzi'abhér yəmmäsgän. [səˈlam tʼeˈna jɨsˈtʼɨlːɨɲ ɨndɨˈmɨn not dɛhˈna nɨɲ ɨɡzi.aˈbher jɨmˈmɛsɡɨn] (suh-LAHM t'ay-NAH yus-T'UL-luh-ny un-duh-MUN noht? deh-NAH nuh-NY ug-zee-ah-BHER yum-MES-gun)",
+          "translation": "Hello, greetings [formal], how are you [polite]? I am fine, praise God."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Fidel Orders: 1st=ä (ሀ), 2nd=u (ሁ), 3rd=i (ሂ), 4th=a (ሃ), 5th=e (ሄ), 6th=ə (ህ), 7th=o (ሆ)! Remember: -ህ (näh) for male, -ሽ (näsh) for female, -ዎት (not) for respect!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህል ሰላምታ ትልቅ ቦታ አለው። ሰላምታ ሲሰጡ ፈገግታ ማሳየትና አክብሮት መግለጽ የተለመደ ሲሆን፣ 'እግዚአብሔር ይመስገን' ማለት የትህትና መገለጫ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ወንድ ጓደኛህን 'እንደምን ነህ?' ብለህ ስትጠይቀው፣ ትክክለኛው ጨዋነት የተሞላበት ምላሽ የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (1.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (1.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (1.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (1.1.w3)"
+            "ደህና ነኝ፣ እግዚአብሔር ይመስገን። (I am well, thank God - Correct standard response)",
+            "አይ እኔ ቤት የለኝም።",
+            "ዛሬ ዝናብ አይዘንብም።",
+            "መጽሐፉ ጠረጴዛ ላይ ነው።"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ደህና ነኝ፣ እግዚአብሔር ይመስገን» በሰላምታ ወቅት የሚሰጥ ትክክለኛ እና ባህላዊ ምላሽ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u1-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "አንዲትን ሴት በአማርኛ 'እንደምን ነሽ?' ብለህ ሰላምታ ስታቀርብላት፣ ሴቷ በምን አገላለጽ ትመልሳለች?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (1.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (1.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (1.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (1.1.x3)"
+            "በጣም ደህና ነኝ፣ አመሰግናለሁ። (I am very well, thank you - Correct feminine/neutral response)",
+            "ሰዓቱ አምስት ሆኗል።",
+            "ወደ ገበያ እሄዳለሁ።",
+            "ሻይ አልጠጣም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (1.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (1.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (1.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (1.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«በጣም ደህና ነኝ፣ አመሰግናለሁ» ሰላምታ ለቀረበላት ሴት ተገቢና ትክክለኛ ምላሽ ነው።"
         }
       ]
     },
@@ -571,24 +548,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 1-1):",
+          "prompt": "የአማርኛን የሰላምታ አገላለጾች በጾታና በአክብሮት በትክክል የለየው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (1.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (1.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (1.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (1.1.z3)"
+            "ለወንድ 'እንደምን ነህ?'፣ ለሴት 'እንደምን ነሽ?'፣ ለአክብሮት 'እንደምን ኖት?' ይባላል።",
+            "ለወንድ 'እንደምን ነሽ?' ተብሎ ይጠየቃል።",
+            "ለታላቅ ሰው 'እንደምን ነሽ?' ማለት ተገቢ ነው።",
+            "በአማርኛ ቋንቋ የጾታ ልዩነት በሰላምታ ውስጥ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "በአማርኛ ለወንድ «ነህ»፣ ለሴት «ነሽ»፣ ለአክብሮት «ኖት» ጥቅም ላይ ይውላል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u1-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ፊደል»):",
+          "prompt": "በአማርኛ ቋንቋ አጠቃላይ 'ሰላም / Hello' የሚለውን ቃል በግዕዝ ፊደላት ጻፉ:",
           "acceptedAnswers": [
-            "ፊደል",
-            "ፊደል"
+            "ሰላም"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ፊደል» ነው።"
+          "explanation": "ትክክለኛው የሰላምታ ቃል «ሰላም» (Sälam) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -599,85 +575,62 @@
     "subject": "amharic",
     "unit": 1,
     "lessonNumber": 2,
-    "title": "ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings) (ክፍል 2)",
+    "title": "ራስን ማስተዋወቅ እና ስም መናገር (Self-Introductions & Asking Names)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የግዕዝ ፊደላት፣ የድምፅ አወጣጥ፣ መደበኛ እና መደበኛ ያልሆኑ የሰላምታ አገላለጾች፣ እና ራስን ማስተዋወቅ። (ክፍል 2)።",
+    "objective": "ስም መጠየቅ (ስምህ/ስምሽ/ስምዎ ማን ነው?)፣ ራስን በስም ማስተዋወቅ (ስሜ ... ነው / እኔ ... እባላለሁ)፣ እና 'ስለተዋወቅን ደስ ብሎኛል' የሚለውን አገላለጽ መተግበር።",
     "presentation": {
-      "explanation": "",
+      "explanation": "በአማርኛ ቋንቋ ራስን ማስተዋወቅ እና የሰዎችን ስም በትህትና መጠየቅ መሰረታዊ ተግባቦት ነው:\n\n፩. ስም መጠየቅ:\n- «ስምህ ማን ነው?»: ለአንድ ወንድ ስሙን ስንጠይቅ የምንጠቀምበት ጥያቄ ነው።\n- «ስምሽ ማን ነው?»: ለአንዲት ሴት ስሟን ስንጠይቅ የምንጠቀምበት ጥያቄ ነው።\n- «ስምዎ ማን ነው?»: ለታላቅ ሰው ወይም በስራ ቦታ በአክብሮት ስም ለመጠየቅ ያገለግላል።\n\n፪. ራስን በስም ማስተዋወቅ:\n- «ስሜ [ስም] ነው»: ለምሳሌ «ስሜ ዳዊት ነው» ወይም «ስሜ አስቴር ነው»።\n- «እኔ [ስም] እባላለሁ»: ራስን በይበልጥ በይፋዊ መንገድ ለመግለጽ ያገለግላል።\n\n፫. የግል ተውላጠ ስሞች እና የጨዋነት መግለጫ:\n- እኔ፣ አንተ (ለወንድ)፣ አንቺ (ለሴት)፣ እርስዎ (ለአክብሮት)።\n- «ስለተዋወቅን ደስ ብሎኛል»: አዲስ ሰውን ስናገኝ የምንለው የጨዋነት ቃል ነው።\n- «እኔም ደስ ብሎኛል»: ለቀረበው ምስጋና የሚሰጥ አጸፋዊ ምላሽ ነው።",
       "examples": [
         {
-          "target": "መምህሩ የ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (1.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)' to the students."
+          "target": "ስምህ ማን ነው? ስሜ ዮሐንስ ነው፣ ስለተዋወቅን ደስ ብሎኛል።",
+          "reading": "Səməh man näw? Səme Yohannəs näw, səlätäwawäqn däs bəlognyal. [sɨˈmɨh man nɛw sɨˈme joˈhanːɨs nɛw sɨlɨtɨwaˈwɨkʼn dɛs bɨˈloɲːal] (suh-MUH-h mahn neh? suh-MAY yoh-HAHN-nus neh, suh-luh-tuh-wah-WUK'-n des buh-LOH-nyahl)",
+          "translation": "What is your name [to a male]? My name is Yohannes, pleased to meet you."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (1.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ስምሽ ማን ነው? ስሜ ሄለን ይባላል፣ እኔም ስለተዋወቅን ደስ ብሎኛል።",
+          "reading": "Səməsh man näw? Səme Helän yəbbalal, ənem səlätäwawäqn däs bəlognyal. [sɨˈmɨʃ man nɛw sɨˈme heˈlɛn jɨbːaˈlal ɨˈnem sɨlɨtɨwaˈwɨkʼn dɛs bɨˈloɲːal] (suh-MOOSH mahn neh? suh-MAY hay-LEN yub-bah-LAHL, uh-NAYM suh-luh-tuh-wah-WUK'-n des buh-LOH-nyahl)",
+          "translation": "What is your name [to a female]? My name is Helen, I am pleased to meet you too."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (1.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (1.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እኔ ተማሪ ነኝ፣ አንተ ማን ነህ? እኔም አዲስ ተማሪ ነኝ።",
+          "reading": "Əne tämari näny, antä man näh? Ənem addis tämari näny. [ɨˈne tɛmaˈri nɨɲ anˈtɛ man nɛh ɨˈnem adˈdis tɛmaˈri nɨɲ] (uh-NAY teh-mah-REE nuh-NY, ahn-TEH mahn neh? uh-NAYM ahd-DEES teh-mah-REE nuh-NY)",
+          "translation": "I am a student, who are you [to a male]? I am also a new student."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Name prefixes: ስሜ (səme = my name), ስምህ (səməh = your name [m]), ስምሽ (səməsh = your name [f]), ስምዎ (səməwo = your name [polite])!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ የስም አሰጣጥ ስርዓት የቤተሰብ መጠሪያ (surname) የለም፤ የአንድ ሰው ስም የራሱ ስም እና የአባቱ ስም ተቀጥሎ ይጠራል (ለምሳሌ: አበበ ቢቂላ)።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "አንድን ወንድ 'ስምህ ማን ነው?' ብለህ ስትጠይቀው፣ ትክክለኛው ምላሽ የየትኛው ነው?",
           "options": [
-            "መምህሩ የ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (1.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (1.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (1.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (1.2.w3)"
+            "ስሜ ዳዊት ነው፣ ስለተዋወቅን ደስ ብሎኛል። (My name is Dawit, pleased to meet you - Correct self-introduction)",
+            "ዛሬ ሰኞ ቀን ነው።",
+            "ውኃ መጠጣት እፈልጋለሁ።",
+            "ቤቱ በጣም ሩቅ ነው።"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ስሜ ዳዊት ነው፣ ስለተዋወቅን ደስ ብሎኛል» ስም ለተጠየቀ ሰው ተገቢ ምላሽ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u1-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "አንዲትን ሴት በአክብሮትና በትክክለኛ ሰዋሰው ስሟን ለመጠየቅ የትኛውን አረፍተ ነገር ትጠቀማለህ?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (1.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (1.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (1.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (1.2.x3)"
+            "ስምሽ ማን ነው? (What is your name? [to female] - Correct feminine form)",
+            "ስምህ የት ሄደ?",
+            "ስሜ ትላንት መጣ።",
+            "ስምህ መኪና አለው።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (1.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (1.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (1.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (1.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ለሴት ስም ሲጠየቅ «ስምሽ ማን ነው?» የሚለው አገላለጽ ትክክለኛ ነው።"
         }
       ]
     },
@@ -685,24 +638,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 1-2):",
+          "prompt": "ከሚከተሉት ውስጥ ራስን በትክክል ለማስተዋወቅ የሚያገለግለው አረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (1.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (1.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (1.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (1.2.z3)"
+            "እኔ ሳራ እባላለሁ፣ ስለተዋወቅን ደስ ብሎኛል። (I am called Sara, pleased to meet you - Correct full introduction)",
+            "እኔ ትምህርት ቤት አልሄድም።",
+            "ስምህ ዳቦ ይበላል።",
+            "እሱ ዛሬ ደክሞታል።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "«እኔ ሳራ እባላለሁ፣ ስለተዋወቅን ደስ ብሎኛል» ራስን በስም ለማስተዋወቅ የሚያገለግል ሙሉ አረፍተ ነገር ነው።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u1-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ፊደል»):",
+          "prompt": "'ስሜ / My name' የሚለውን የአማርኛ ቃል በግዕዝ ፊደላት ጻፉ:",
           "acceptedAnswers": [
-            "ፊደል",
-            "ፊደል"
+            "ስሜ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ፊደል» ነው።"
+          "explanation": "ትክክለኛው ቃል «ስሜ» (Səme) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -713,85 +665,62 @@
     "subject": "amharic",
     "unit": 1,
     "lessonNumber": 3,
-    "title": "ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings) (ክፍል 3)",
+    "title": "የቀን ክፍለ ጊዜ ሰላምታዎች (Time-of-Day Greetings)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የግዕዝ ፊደላት፣ የድምፅ አወጣጥ፣ መደበኛ እና መደበኛ ያልሆኑ የሰላምታ አገላለጾች፣ እና ራስን ማስተዋወቅ። (ክፍል 3)።",
+    "objective": "የጠዋት (እንደምን አደርክ/ሽ/ሩ)፣ የቀን (እንደምን ዋልክ/ሽ/ሉ)፣ እና የምሽት (እንደምን አመሸህ/ሽ/ሹ) ሰላምታዎችን እና ምላሾቻቸውን በጾታና በአክብሮት ለይቶ መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የአማርኛ ቋንቋ እንደ ቀኑ ክፍለ ጊዜ የተለዩ የሰላምታ ግሶችን ይጠቀማል:\n\n፩. የጠዋት ሰላምታ (ማደር):\n- «እንደምን አደርክ?»: ጠዋት ላይ ለወንድ የሚቀርብ ሰላምታ ነው።\n- «እንደምን አደርሽ?»: ጠዋት ላይ ለሴት የሚቀርብ ሰላምታ ነው።\n- «እንደምን አደሩ?»: ጠዋት ላይ ለታላቅ ሰው በአክብሮት ወይም ለብዙ ሰዎች ይባላል።\n- ምላሽ: «ደህና አደርኩ፣ እግዚአብሔር ይመስገን»።\n\n፪. የቀን ሰላምታ (መዋል):\n- «እንደምን ዋልክ?»: ከሰዓት በኋላ ለወንድ የሚባል ሰላምታ ነው።\n- «እንደምን ዋልሽ?»: ከሰዓት በኋላ ለሴት የሚባል ሰላምታ ነው።\n- «እንደምን ዋሉ?»: ከሰዓት በኋላ ለአክብሮት ወይም ለብዙ ሰዎች ይባላል።\n- ምላሽ: «ደህና ዋልኩ፣ እግዚአብሔር ይመስገን»።\n\n፫. የምሽት ሰላምታ (ማመሽ):\n- «እንደምን አመሸህ?»: ምሽት ላይ ለወንድ የሚባል ሰላምታ ነው።\n- «እንደምን አመሸሽ?»: ምሽት ላይ ለሴት የሚባል ሰላምታ ነው።\n- «እንደምን አመሹ?»: ምሽት ላይ ለአክብሮት ወይም ለብዙ ሰዎች ይባላል።\n- ምላሽ: «ደህና አመሸሁ፣ እግዚአብሔር ይመስገን»።",
       "examples": [
         {
-          "target": "መምህሩ የ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (1.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)' to the students."
+          "target": "እንደምን አደርክ ወንድሜ? ደህና አደርኩ እግዚአብሔር ይመስገን።",
+          "reading": "Əndämən adärk wändəme? Dähna adärku əgzi'abhér yəmmäsgän. [ɨndɨˈmɨn adɨrk wɨndɨˈme dɛhˈna adɨrˈku ɨɡzi.aˈbher jɨmˈmɛsɡɨn] (un-duh-MUN ah-DURK wun-duh-MAY? deh-NAH ah-DUR-koo ug-zee-ah-BHER yum-MES-gun)",
+          "translation": "Good morning my brother! Good morning, praise God."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (1.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እንደምን ዋልሽ እህቴ? ደህና ዋልኩ፣ ቀኑ እንዴት ነበር?",
+          "reading": "Əndämən walsh əhəte? Dähna walku, qänu əndet näbbär? [ɨndɨˈmɨn walʃ ɨhɨˈte dɛhˈna walˈku kʼɨˈnu ɨnˈdet nɛbːɨr] (un-duh-MUN WAHL-sh uh-huh-TAY? deh-NAH WAHL-koo, k'uh-NOO un-DAYT neb-BUR?)",
+          "translation": "Good afternoon my sister! Good afternoon, how was the day?"
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (1.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (1.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እንደምን አመሹ አባባ? ደህና አመሸሁ ልጄ፣ እንኳን ደህና መጣህ።",
+          "reading": "Əndämən amäshu abbaba? Dähna amäshähu ləje, ənkwan dähna mätt'ah. [ɨndɨˈmɨn amɨʃːu abːaˈba dɛhˈna amɨʃːɨˈhu lɨˈdʒe ɨnkwan dɛhˈna mɛtʼːah] (un-duh-MUN ah-MESH-shoo ahb-bah-BAH? deh-NAH ah-mesh-shuh-HOO luh-JAY, un-KWAHN deh-NAH MET'-t'ah)",
+          "translation": "Good evening father [polite]! Good evening my child, welcome."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Time verbs: አደርክ (adärk = morning/night spent), ዋልክ (walk = daytime spent), አመሸህ (amäshäh = evening spent)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ የቀን ክፍለ ጊዜ ሰላምታዎች የሰውን ደህንነት ከመጠየቅ ባለፈ ጥልቅ አክብሮትና ቤተሰባዊ ቅርርብን ያሳያሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በጠዋት ሰዓት ለአንዲት ሴት ጓደኛህ የምታቀርበው ትክክለኛ የሰላምታ አገላለጽ የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (1.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (1.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (1.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (1.3.w3)"
+            "እንደምን አደርሽ? (Good morning [to female] - Correct morning greeting)",
+            "እንደምን አመሸህ?",
+            "እንደምን ዋልክ?",
+            "ደህና እደሩ።"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ለሴት በጠዋት ሰዓት «እንደምን አደርሽ?» ተብሎ ሰላምታ ይሰጣል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u1-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ከሰዓት በኋላ (ቀን) ለአንድ ወንድ 'እንደምን ዋልክ?' ተብሎ ሲጠየቅ፣ ምላሹ ምን ይሆናል?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (1.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (1.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (1.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (1.3.x3)"
+            "ደህና ዋልኩ፣ እግዚአብሔር ይመስገን። (I spent the day well, thank God - Correct daytime response)",
+            "ደህና አደርኩ ትላንት።",
+            "ነገ ጠዋት እመጣለሁ።",
+            "ምሳ አልበላሁም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (1.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (1.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (1.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (1.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ለቀን ሰላምታ «ደህና ዋልኩ፣ እግዚአብሔር ይመስገን» ትክክለኛ ምላሽ ነው።"
         }
       ]
     },
@@ -799,24 +728,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 1-3):",
+          "prompt": "በምሽት ሰዓት ለታላቅ ሰው በአክብሮት ሰላምታ ለመስጠት የትኛው አረፍተ ነገር ያገለግላል?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (1.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (1.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (1.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (1.3.z3)"
+            "እንደምን አመሹ? (Good evening [polite/respectful] - Correct evening greeting)",
+            "እንደምን ዋልክ?",
+            "እንደምን አደርሽ?",
+            "እንደምን ነህ ልጄ?"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "ለታላቅ ሰው በምሽት «እንደምን አመሹ?» ተብሎ በአክብሮት ይጠየቃል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u1-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ፊደል»):",
+          "prompt": "የጠዋት ሰላምታ ምላሽ የሆነውን 'ደህና አደርኩ' የሚለውን ሐረግ በግዕዝ ፊደላት ጻፉ:",
           "acceptedAnswers": [
-            "ፊደል",
-            "ፊደል"
+            "ደህና አደርኩ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ፊደል» ነው።"
+          "explanation": "ትክክለኛው ሐረግ «ደህና አደርኩ» (Dähna adärku) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -827,85 +755,62 @@
     "subject": "amharic",
     "unit": 1,
     "lessonNumber": 4,
-    "title": "ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings) (ክፍል 4)",
+    "title": "የአክብሮት ቃላት፣ ይቅርታ እና ምስጋና (Politeness Formulas, Thank You & Apologies)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የግዕዝ ፊደላት፣ የድምፅ አወጣጥ፣ መደበኛ እና መደበኛ ያልሆኑ የሰላምታ አገላለጾች፣ እና ራስን ማስተዋወቅ። (ክፍል 4)።",
+    "objective": "ምስጋናን (አመሰግናለሁ፣ ምንም አይደለም)፣ ይቅርታን (ይቅርታ፣ ይቅርታ አድርግልኝ/አድርጊልኝ/ያድርጉልኝ)፣ እና ልመናን (እባክህ/እባክሽ/እባክዎ) በትክክለኛ ማህበራዊ ጨዋነት መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "በአማርኛ ማህበራዊ ኑሮ ውስጥ ምስጋና፣ ይቅርታ እና የአክብሮት ልመና ትልቅ ስፍራ አላቸው:\n\n፩. የምስጋና አገላለጾች:\n- «አመሰግናለሁ»: አጠቃላይ የምስጋና ቃል ነው።\n- «በጣም አመሰግናለሁ»: ከፍ ያለ ምስጋና ለማቅረብ ያገለግላል።\n- «እግዚአብሔር ይስጥልኝ»: ጥልቅ ባህላዊና መንፈሳዊ ምስጋና ነው።\n- «ምንም አይደለም»: ለምስጋና የሚሰጥ ትሁት ምላሽ ነው።\n\n፪. የትህትና እና የልመና ቃላት:\n- «እባክህ»: ለአንድ ወንድ ልመና ስናቀርብ ጥቅም ላይ ይውላል።\n- «እባክሽ»: ለአንዲት ሴት ልመና ስናቀርብ ጥቅም ላይ ይውላል።\n- «እባክዎ» ወይም «እባክዎት»: ለታላቅ ሰው በአክብሮት ልመና ለማቅረብ ያገለግላል።\n- «እባካችሁ»: ለብዙ ሰዎች በአንድነት ልመና ስናቀርብ ይጠቅማል።\n\n፫. ይቅርታ መጠየቅ:\n- «ይቅርታ»: ስህተት ሲፈጠር ወይም መንገድ ለማስለቀቅ ያገለግላል።\n- «ይቅርታ አድርግልኝ» (ለወንድ), «ይቅርታ አድርጊልኝ» (ለሴት), «ይቅርታ ያድርጉልኝ» (ለአክብሮት)።\n- «አዎ» (እውነታን ለማረጋገጥ), «አይደለም» (አሉታን ለመግለጽ), «እሺ» (ስምምነትን ለማሳየት)።",
       "examples": [
         {
-          "target": "መምህሩ የ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (1.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)' to the students."
+          "target": "እባክህ ውኃ ስጠኝ። ይኸውልህ፣ በጣም አመሰግናለሁ፣ ምንም አይደለም።",
+          "reading": "Əbakəh wəha sət'äny. Yəhäwwələh, bətam amäsäggənalähu, mənəm aydälläm. [ɨˈbakɨh wɨˈha sɨˈtʼɨɲ jɨˈhɛwːɨlɨh bɨˈtʼam amɨsɨɡːɨˈnalɨhu mɨˈnɨm ajˈdɛlːɨm] (uh-BAH-kuh wuh-HAH sut'-uh-NY. yuh-HEW-wul-uh, buh-TAHM ah-muh-sug-guh-NAH-luh-hoo, muh-NUM eye-DEL-lum)",
+          "translation": "Please [to male] give me water. Here you go, thank you very much, you're welcome."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (1.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ይቅርታ፣ መንገድ አሳየኝ እባክህ? እሺ በደስታ፣ ተከተለኝ።",
+          "reading": "Yəqərta, mängäd asayäny əbakəh? Əshi bädästa, täkättäläny. [jɨkʼɨrˈta mɨŋˈɡɨd asaˈjɨɲ ɨˈbakɨh ɨˈʃi bɨdɛsˈta tɨkɨtːɨˈlɨɲ] (yuh-K'UR-tah, mung-GUD ah-sah-yuh-NY uh-BAH-kuh? uh-SHEE buh-des-TAH, tuh-kut-tuh-LUH-ny)",
+          "translation": "Excuse me, could you please show me the way? Sure with pleasure, follow me."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (1.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (1.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ይቅርታ ያድርጉልኝ፣ ስህተት ሰርቻለሁ። ምንም ችግር የለም፣ ሁሉም ነገር ደህና ነው።",
+          "reading": "Yəqərta yadrəgulləny, səhtät särəččallähu. Mənəm čəggər yälläm, hullum nägär dähna näw. [jɨkʼɨrˈta jadɨrɡulːɨɲ sɨhˈtɛt sɨrɨtʃːaˈlɨhu mɨˈnɨm tʃɨɡːɨr jɛlːɨm hulːum nɛˈɡɨr dɛhˈna nɛw] (yuh-K'UR-tah yah-dur-gool-LUH-ny, suh-TET suh-ruhch-CHAH-luh-hoo. muh-NUM chug-GUR yel-LUM, hool-LOOM neh-GUR deh-NAH neh)",
+          "translation": "Please forgive me [polite], I made a mistake. No problem at all, everything is fine."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Polite markers: እባክህ (please [m]), እባክሽ (please [f]), እባክዎ (please [polite]), አመሰግናለሁ (thank you), ይቅርታ (excuse me)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህል አንድ ነገር ሲሰጡ ወይም ሲቀበሉ በሁለት እጅ መቀበል ትልቅ የአክብሮት መግለጫ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "አንድ ሰው ባደረገልህ ውለታ 'በጣም አመሰግናለሁ' ሲልህ፣ በአማርኛ ባህል ምን ብለህ ትመልሳለህ?",
           "options": [
-            "መምህሩ የ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (1.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (1.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (1.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (1.4.w3)"
+            "ምንም አይደለም። (You are welcome / It's nothing - Correct polite response)",
+            "አይ አልፈልግም።",
+            "ዛሬ ረቡዕ ነው።",
+            "ሰዓቱ አልቋል።"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ለምስጋና ምላሽ «ምንም አይደለም» (You are welcome) ይባላል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u1-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "አንዲትን ሴት በትህትና አንድ ነገር እንድታደርግልህ 'Please' ለማለት የትኛውን ቃል ትጠቀማለህ?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (1.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (1.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (1.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (1.4.x3)"
+            "እባክሽ (Please [to female] - Correct feminine form)",
+            "እባክህ",
+            "ይቅርታ አድርግልኝ",
+            "አይደለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (1.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (1.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (1.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (1.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ለሴት ልመና ሲቀርብ «እባክሽ» ጥቅም ላይ ይውላል።"
         }
       ]
     },
@@ -913,24 +818,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 1-4):",
+          "prompt": "የተሳሳተ ድርጊት ሲፈጸም ለታላቅ ሰው በአክብሮት ይቅርታ ለመጠየቅ የሚያገለግለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (1.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (1.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (1.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (1.4.z3)"
+            "ይቅርታ ያድርጉልኝ (Please forgive me [polite/respectful] - Correct formal apology)",
+            "እባክሽ ሂጂ",
+            "አመሰግናለሁ ዛሬ",
+            "ምንም አይደለም"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "ለታላቅ ሰው «ይቅርታ ያድርጉልኝ» ተብሎ በአክብሮት ይቅርታ ይጠየቃል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u1-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ፊደል»):",
+          "prompt": "'አመሰግናለሁ / Thank you' የሚለውን የአማርኛ ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ፊደል",
-            "ፊደል"
+            "አመሰግናለሁ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ፊደል» ነው።"
+          "explanation": "ትክክለኛው ቃል «አመሰግናለሁ» (Amäsäggənalähu) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -941,85 +845,62 @@
     "subject": "amharic",
     "unit": 1,
     "lessonNumber": 5,
-    "title": "ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings) (ክፍል 5)",
+    "title": "ስንብት እና የመሰረታዊ ሰላምታ ማጠቃለያ (Farewells & Unit 1 Grand Synthesis)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የግዕዝ ፊደላት፣ የድምፅ አወጣጥ፣ መደበኛ እና መደበኛ ያልሆኑ የሰላምታ አገላለጾች፣ እና ራስን ማስተዋወቅ። (ክፍል 5)።",
+    "objective": "የስንብት ቃላትን (ደህና ሁን/ሁኚ/ሁኑ፣ ቻው፣ መልካም ቀን/ምሽት፣ ደህና እደር/እደሪ/እደሩ) ማወቅ እና የክፍል 1ን አጠቃላይ ሰላምታዎችና ራስን ማስተዋወቅ ማጠቃለል።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የስንብት ቃላት እና የክፍል ፩ አጠቃላይ ሰዋሰዋዊ ውህደት:\n\n፩. የስንብት አገላለጾች:\n- «ደህና ሁን»: ለአንድ ወንድ የምንለው የስንብት ቃል ነው።\n- «ደህና ሁኚ»: ለአንዲት ሴት የምንለው የስንብት ቃል ነው።\n- «ደህና ሁኑ»: ለአዋቂ በአክብሮት ወይም ለብዙ ሰዎች የምንለው የስንብት ቃል ነው።\n- «ቻው»: በመደበኛ ያልሆነ የዕለት ተዕለት ጓደኝነት ውስጥ የሚያገለግል ቃል ነው።\n- «መልካም ቀን» (ቀኑ የተባረከ እንዲሆን ምኞት) / «መልካም ምሽት» (ምሽቱ ሰላማዊ እንዲሆን ምኞት)።\n- «ደህና እደር» (ለወንድ), «ደህና እደሪ» (ለሴት), «ደህና እደሩ» (ለአክብሮት)።\n- «ነገ እንገናኝ»: በቀጣዩ ቀን ለመገናኘት የሚደረግ ቀጠሮ ነው።\n\n፪. የክፍል ፩ አጠቃላይ ማጠቃለያ:\n- የግዕዝ ፊደል ሰባቱ ክፍሎች: ግዕዝ፣ ካዕብ፣ ሣልስ፣ ራብዕ፣ ኃምስ፣ ሳድስ፣ ሳብዕ።\n- የሰላምታ ጾታ እና አክብሮት ልዩነት: ለወንድ (-ህ/ነህ/አደርክ/ዋልክ/አመሸህ/ደህና ሁን)፣ ለሴት (-ሽ/ነሽ/አደርሽ/ዋልሽ/አመሸሽ/ደህና ሁኚ)፣ ለአክብሮት (-ዎት/ኖት/አደሩ/ዋሉ/አመሹ/ደህና ሁኑ)።\n- የዕለት ተዕለት ጨዋነት: አመሰግናለሁ፣ እባክህ/እባክሽ/እባክዎ፣ ይቅርታ፣ እግዚአብሔር ይመስገን።",
       "examples": [
         {
-          "target": "መምህሩ የ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (1.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)' to the students."
+          "target": "ደህና ሁን ወዳጄ፣ ነገ በትምህርት ቤት እንገናኝ፣ መልካም ቀን ይሁንልህ!",
+          "reading": "Dähna hun wäddaje, nägä bätəməhərt bet ənnəggänany, mälkam qän yəhunəlləh! [dɛhˈna hun wɨdːaˈdʒe nɛˈɡɛ bɨtɨmˈhɨrt bet ɨnːɨɡːɛˈnaɲ mɛlˈkam kʼɨn jɨhunɨlːɨh] (deh-NAH hoon wud-dah-JAY, neh-GEH buh-tum-HURT bayt un-nug-guh-NAH-ny, mel-KAHM k'un yuh-hoon-ool-LUH!)",
+          "translation": "Goodbye my friend [to male], see you tomorrow at school, have a wonderful day!"
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (1.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ደህና ሁኚ እህቴ፣ ስለ እርዳታሽ በጣም አመሰግናለሁ፣ ቻው!",
+          "reading": "Dähna hugnyi əhəte, səlärdataš bətam amäsäggənalähu, čaw! [dɛhˈna huɲi ɨhɨˈte sɨlɨrɨdaˈtaʃ bɨˈtʼam amɨsɨɡːɨˈnalɨhu tʃaw] (deh-NAH hoong-YEE uh-huh-TAY, suh-loor-dah-TAHSH buh-TAHM ah-muh-sug-guh-NAH-luh-hoo, CHAH-oo!)",
+          "translation": "Goodbye my sister, thank you so much for your help, bye!"
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (1.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (1.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ደህና እደሩ አስተማሪዬ፣ ነገ በጠዋት በክፍል ውስጥ እንገናኛለን።",
+          "reading": "Dähna ədäru astämariye, nägä bät'äwat bäkəfəl wəst' ənnəggänagnyallän. [dɛhˈna ɨdɨˈru astɨmaˈrije nɛˈɡɛ bɨtʼɨˈwat bɨkɨˈfɨl wɨstʼ ɨnːɨɡːɛnaɲalːɛn] (deh-NAH uh-dur-ROO ahs-tuh-mah-REE-yay, neh-GEH buh-t'uh-WAHT buh-kuh-FOOL woos-T' un-nug-gay-nah-nyahl-LEN)",
+          "translation": "Good night teacher [polite], we will meet tomorrow morning in class."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Farewells: ደህና ሁን (bye [m]), ደህና ሁኚ (bye [f]), ደህና ሁኑ (bye [polite/pl]), ደህና እደር (good night [m]), ደህና እደሪ (good night [f]), ደህና እደሩ (good night [polite])!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ የስንብት ወቅት 'እግዚአብሔር ያገናኘን' (May God bring us together again) ወይም 'መልካም ይሁንልህ/ሽ' ብሎ መመረቅ ጥልቅ ማህበራዊ ልማድ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ለአንድ ወንድ ጓደኛህ ሲሰናበትህ 'Goodbye / Stay well' ለማለት የትኛውን ትጠቀማለህ?",
           "options": [
-            "መምህሩ የ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (1.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (1.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (1.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (1.5.w3)"
+            "ደህና ሁን፣ መልካም ቀን ይሁንልህ! (Goodbye, have a good day! [to male] - Correct masculine farewell)",
+            "ደህና አደርሽ ትላንት።",
+            "እንደምን አመሸህ አሁን?",
+            "ስምሽ ማን ነው?"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ለወንድ የስንብት አገላለጽ «ደህና ሁን» ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u1-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ለአንዲት ሴት ማታ ወደ መኝታ ከመሄዷ በፊት 'Good night' ለማለት ትክክለኛው አገላለጽ የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (1.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (1.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (1.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (1.5.x3)"
+            "ደህና እደሪ እህቴ! (Good night my sister! [to female] - Correct feminine night farewell)",
+            "ደህና ዋልክ ወንድሜ።",
+            "እንደምን አደሩ አባባ።",
+            "ምሳ በላሁ ዛሬ።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (1.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (1.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (1.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (1.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ለሴት በምሽት ማጠቃለያ «ደህና እደሪ» ይባላል።"
         }
       ]
     },
@@ -1027,24 +908,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 1-5):",
+          "prompt": "የክፍል 1ን አጠቃላይ የሰላምታ እና የስንብት ስርዓት በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (1.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (1.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (1.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (1.5.z3)"
+            "በአማርኛ ሰላምታ እና ስንብት የጾታ (ነህ/ነሽ፣ ደህና ሁን/ሁኚ) እና የአክብሮት (ኖት፣ ደህና ሁኑ/እደሩ) ህጎችን ጠብቆ ይገለጻል።",
+            "በአማርኛ ስንብትና ሰላምታ ምንም ዓይነት የጾታ ልዩነት የላቸውም።",
+            "ደህና ሁን የሚባለው ለሴት ብቻ ነው።",
+            "መልካም ቀን ማለት በምሽት ብቻ የሚያገለግል ቃል ነው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የአማርኛ ሰላምታ እና ስንብት የጾታና የአክብሮት ስርዓትን ሙሉ በሙሉ የጠበቀ ነው።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u1-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ፊደል»):",
+          "prompt": "'ደህና ሁን / Goodbye [to male]' የሚለውን የስንብት ሐረግ በግዕዝ ፊደላት ጻፉ:",
           "acceptedAnswers": [
-            "ፊደል",
-            "ፊደል"
+            "ደህና ሁን"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ፊደል» ነው።"
+          "explanation": "ትክክለኛው የስንብት ሐረግ «ደህና ሁን» (Dähna hun) ነው።"
         }
       ],
       "passThreshold": 0.8
