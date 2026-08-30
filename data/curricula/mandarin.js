@@ -16311,85 +16311,89 @@
     "subject": "mandarin",
     "unit": 28,
     "lessonNumber": 1,
-    "title": "现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans) (第1讲)",
+    "title": "鲁迅文学与现代性批判：国民性批判、铁屋呐喊与绝望的抗争 (Lu Xun's Literature & Modernity Critique: National Character, Iron House & Despair's Struggle)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：五四新文化运动、现实主义与现代派文学、乡土中国与市民社会的现代性反思。 (第1部分)。",
+    "objective": "系统掌握鲁迅文学核心思想体系（中国现代白话文学开山、狂人日记吃人批判、铁屋子呐喊隐喻、阿Q正传精神胜利法与国民性批判、野草绝望抗争与民族魂精神）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "鲁迅是中国现代文学的奠基人，其作品以手术刀般冷峻犀利的笔触解剖旧中国社会与国民劣根性，铸就了现代中国知识分子的精神脊梁：\n\n一、五四白话小说开山与启蒙反思：\n1.【《狂人日记》（1918年）】：中国现代文学史上第一篇白话小说。通过「狂人」独特视角，在满纸「仁义道德」的历史字缝里看出了「吃人」二字，彻底颠覆数千年宗法礼教神话。\n2.【《呐喊》自序与「铁屋子」隐喻】：绝无窗户、万难破毁的铁屋子里熟睡之人即将闷死，大嚷唤醒几个人，虽增加临终苦楚，但「既然有人醒来，便不能说决没有毁坏这铁屋的希望」。\n\n二、国民性深刻批判与典型人物长廊：\n1.【《阿Q正传》与「精神胜利法」】：\n- 塑造了在现实中屡遭欺凌侮辱、却在幻想中自我麻醉满足的阿Q形象；入木三分地揭露了旧中国国民的奴性、自欺欺人与看客心理。\n2.【《孔乙己》与《祝福》】：\n- 孔乙己科举落第受人嘲弄、祥林嫂在礼教冷漠中悲惨死去，无情鞭挞了吃人的封建礼教与麻木看客。\n\n三、散文诗《野草》与哲理抗争境界：\n1.【绝望与希望的辩证法】：\n-「绝望之为虚妄，正与希望相同！」在绝对虚无与绝望中依然坚守韧性抗争。\n2.【民族魂名言】：\n-「横眉冷对千夫指，俯首甘为孺子牛」；「真的猛士，敢于直面惨淡的人生，敢于正视淋漓的鲜血。」",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的核心语法法则与应用范例 (28.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)' in simple terms to students at the academic seminar."
+          "target": "鲁迅以《狂人日记》开创中国现代白话小说先河，以石破天惊之笔撕开封建礼教温情脉脉的面纱，直指宗法制度「吃人」的本质。(Lǔ Xùn yǐ 《Kuángrén Rìjì》 kāichuàng Zhōngguó xiàndài báihuà xiǎoshuō xiānhé, yǐ shípò-tiānjīng zhī bǐ sīkāi fēngjiàn lǐjiào wēnqíng-mòimòi de miànshā, zhízhǐ zōngfǎ zhìdù 'chīrén' de běnzhì.)",
+          "reading": "[lu˨˩.ɕyn˥˩ i˨˩˦ 《kʰwɑŋ˧˥.ʐən˧˥ ʐɨ˥˩.t͡ɕi˥˩》 kʰaɪ̯˥.t͡ʂʰwaŋ˥˩ ʈ͡ʂʊŋ˥.kwo˧˥ ɕjɛn˥˩.taɪ̯˥˩ paɪ̯˧˥.xwa˥˩ ɕjaʊ̯˨˩.ʂwɔ˥ ɕjɛn˥.xɤ˧˥, i˨˩˦ ʂɨ˧˥.pʰwɔ˥˩-tʰjɛn˥.t͡ɕiŋ˥ ʈ͡ʂɨ˥ pi˨˩˦ sɨ˥.kʰaɪ̯˥ fəŋ˥.t͡ɕjɛn˥˩ li˨˩.t͡ɕjaʊ̯˥˩ wən˥.t͡ɕʰiŋ˧˥-mwo˥˩.mwo˥˩ tɤ mjɛn˥˩.ʂa˥, ʈ͡ʂɨ˧˥.ʈ͡ʂɨ˨˩˦ t͡sʊŋ˥.fa˨˩˦ ʈ͡ʂɨ˥˩.tu˥˩ 'ʈ͡ʂʰɨ˥.ʐən˧˥' tɤ pən˨˩.ʈ͡ʂɨ˥˩] (Lǔ Xùn yǐ 《Kuáng-rén Rì-jì》 kāi-chuàng Zhōng-guó xiàn-dài bái-huà xiǎo-shuō xiān-hé, yǐ shí-pò-tiān-jīng zhī bǐ sī-kāi fēng-jiàn lǐ-jiào wēn-qíng-mò-mò de miàn-shā, zhí-zhǐ zōng-fǎ zhì-dù 'chī-rén' de běn-zhì.)",
+          "translation": "Lu Xun pioneered modern Chinese vernacular fiction with 'A Madman's Diary,' tearing away the sentimental veil of feudal morality with earth-shattering power to directly expose the 'man-eating' essence of the patriarchal system."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (28.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "鲁迅在《阿Q正传》中精准刻画了阿Q的「精神胜利法」，对旧中国国民劣根性展开了入木三分、痛切灵魂的现代性批判。(Lǔ Xùn zài 《Ā Q Zhèngzhuàn》 zhōng jīngzhǔn kèhuà le Ā Q de 'jīngshén shènglì fǎ', duì jiù Zhōngguó guómín liègēnxìng zhǎnkāi le rùmù-sānfēn, tòngqiè línghún de xiàndàixìng pīpàn.)",
+          "reading": "[lu˨˩.ɕyn˥˩ t͡saɪ̯˥˩ 《a˥ Q ʈ͡ʂəŋ˥˩.ʈ͡ʂwan˥˩》 ʈ͡ʂʊŋ˥ t͡ɕiŋ˥.ʈ͡ʂwn˨˩˦ kʰɤ˥˩.xwa˥˩ lɤ a˥ Q tɤ 't͡ɕiŋ˥.ʂən˧˥ ʂəŋ˥˩.li˥˩ fa˨˩˦', tweɪ̯˥˩ t͡ɕjoʊ̯˥˩ ʈ͡ʂʊŋ˥.kwo˧˥ kwo˧˥.min˧˥ ljɛ˥˩.kən˥.ɕiŋ˥˩ ʈ͡ʂan˨˩.kʰaɪ̯˥ lɤ ʐu˥˩.mu˥˩-san˥.fən˥, tʰʊŋ˥˩.t͡ɕʰjɛ˥˩ liŋ˧˥.xwn˧˥ tɤ ɕjɛn˥˩.taɪ̯˥˩.ɕiŋ˥˩ pʰi˥.pʰan˥˩] (Lǔ Xùn zài 《Ā Q Zhèng-zhuàn》 zhōng jīng-zhǔn kè-huà le Ā Q de 'jīng-shén shèng-lì fǎ', duì jiù Zhōng-guó guó-mín liè-gēn-xìng zhǎn-kāi le rù-mù-sān-fēn, tòng-qiè líng-hún de xiàn-dài-xìng pī-pàn.)",
+          "translation": "In 'The True Story of Ah Q,' Lu Xun accurately delineated Ah Q's 'spiritual victory method,' launching a penetrating and soul-searing critique of modernity against the deep-seated flaws in old Chinese national character."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (28.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "面对封建黑暗的窒息压迫，鲁迅在《野草》中发出了「绝望之为虚妄，正与希望相同」的坚毅呐喊，展现了韧性抗争的伟大人格。(Miànduì fēngjiàn hēi'àn de zhìxī yāpò, Lǔ Xùn zài 《Yěcǎo》 zhōng fāchū le 'juéwàng zhī wéi xūwàng, zhèng yǔ xīwàng xiāngtóng' de jiānyì nàhǎn, zhǎnxiàn le rènxìng kàngzhēng de wěidà réngé.)",
+          "reading": "[mjɛn˥˩.tweɪ̯˥˩ fəŋ˥.t͡ɕjɛn˥˩ xeɪ̯˥.an˥˩ tɤ ʈ͡ʂɨ˥˩.ɕi˥ ja˥.pʰwɔ˥˩, lu˨˩.ɕyn˥˩ t͡saɪ̯˥˩ 《jɛ˨˩.t͡sʰaʊ̯˨˩˦》 ʈ͡ʂʊŋ˥ fa˥.t͡ʂʰu˥ lɤ 't͡ɕɥɛ˧˥.wɑŋ˥˩ ʈ͡ʂɨ˥ weɪ̯˧˥ ɕy˥.wɑŋ˥˩, ʈ͡ʂəŋ˥˩ y˨˩˦ ɕi˥.wɑŋ˥˩ ɕjaŋ˥.tʰʊŋ˧˥' tɤ t͡ɕjɛn˥.i˥˩ na˥˩.xan˨˩˦, ʈ͡ʂan˨˩.ɕjɛn˥˩ lɤ ʐən˥˩.ɕiŋ˥˩ kʰɑŋ˥˩.ʈ͡ʂəŋ˥ tɤ weɪ̯˨˩.ta˥˩ ʐən˧˥.kɤ˧˥] (Miàn-duì fēng-jiàn hēi-'àn de zhì-xī yā-pò, Lǔ Xùn zài 《Yě-cǎo》 zhōng fā-chū le 'jué-wàng zhī wéi xū-wàng, zhèng yǔ xī-wàng xiāng-tóng' de jiān-yì nà-hǎn, zhǎn-xiàn le rèn-xìng kàng-zhēng de wěi-dà rén-gé.)",
+          "translation": "Facing the suffocating oppression of feudal darkness, Lu Xun emitted the steadfast cry in 'Wild Grass' that 'Despair is as vain as hope,' manifesting the great personality of tenacious resistance."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (28.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "鲁迅不仅是现代文学的奠基人，更是二十世纪中国知识分子的精神脊梁，其深沉的批判锋芒至今依然振聋发聩。(Lǔ Xùn bùjǐn shì xiàndài wénxué de diànjīrén, gèng shì èrshí shìjì Zhōngguó zhīshifènzǐ de jīngshén jǐliáng, qí shēnchén de pīpàn fēngmáng zhìjīn yīrán zhènlóng-fǎkuì.)",
+          "reading": "[lu˨˩.ɕyn˥˩ pu˥.t͡ɕin˨˩˦ ʂɨ˥˩ ɕjɛn˥˩.taɪ̯˥˩ wən˧˥.ɕɥɛ˧˥ tɤ tjɛn˥˩.t͡ɕi˥.ʐən˧˥, kɤŋ˥˩ ʂɨ˥˩ aɚ˥˩.ʂɨ˧˥ ʂɨ˥˩.t͡ɕi˥˩ ʈ͡ʂʊŋ˥.kwo˧˥ ʈ͡ʂɨ˥.ʂɨ˥.fən˥˩.t͡sɨ˨˩˦ tɤ t͡ɕiŋ˥.ʂən˧˥ t͡ɕi˨˩.ljaŋ˧˥, t͡ɕʰi˧˥ ʂən˥.t͡ʂʰən˧˥ tɤ pʰi˥.pʰan˥˩ fəŋ˥.mɑŋ˧˥ ʈ͡ʂɨ˥˩.t͡ɕin˥ i˥.ʐan˧˥ ʈ͡ʂən˥˩.lʊŋ˧˥-fa˨˩.kʰweɪ̯˥˩] (Lǔ Xùn bù-jǐn shì xiàn-dài wén-xué de diàn-jī-rén, gèng shì èr-shí shì-jì Zhōng-guó zhī-shi-fèn-zǐ de jīng-shén jǐ-liáng, qí shēn-chén de pī-pàn fēng-máng zhì-jīn yī-rán zhèn-lóng-fǎ-kuì.)",
+          "translation": "Lu Xun was not only the founding father of modern literature but also the spiritual backbone of 20th-century Chinese intellectuals; his profound critical edge remains deafeningly thought-provoking to this day."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "狂人日记吃人惊，铁屋呐喊唤群氓；精神胜利阿Q相，横眉俯首孺子牛！"
+      ],
+      "culturalNotes": [
+        "鲁迅原名周树人，弃医从文以拯救国民精神，其名作《狂人日记》《阿Q正传》《呐喊》《彷徨》和杂文深深塑造了现代中国的批判理性与思想启蒙。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」（第1讲）的标准汉语规范？",
+          "prompt": "鲁迅于1918年在《新青年》发表的、标志着中国现代白话小说诞生的划时代开山之作是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的核心语法法则与应用范例 (28.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (28.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (28.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (28.1.w3)"
+            "《狂人日记》 (A Madman's Diary: 首次发出吃人礼教控诉)",
+            "《红楼梦》",
+            "《西游记》",
+            "《三国演义》"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "《狂人日记》是中国现代文学史上第一篇现代白话小说，具有里程碑式的启蒙意义。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "鲁迅在《阿Q正传》中精准概括的旧中国国民在遭受屈辱打击时用幻想自我安慰的心理病态被称为：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "精神胜利法 (Spiritual victory method)",
+            "辩证唯物主义",
+            "实事求是",
+            "知行合一"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「精神胜利法」是鲁迅塑造的阿Q身上最典型的国民劣根性象征。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的正式语境下，最准确得体的表达是哪一项？（第28.1题）",
+          "prompt": "鲁迅在《呐喊》自序中用哪个著名的意象来隐喻黑暗沉睡、万难破毁却仍需大声疾呼唤醒民众的旧中国社会？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (28.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (28.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (28.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (28.1.x3)"
+            "铁屋子 (The Iron House: 沉睡无窗但必须呐喊唤醒希望)",
+            "象牙塔",
+            "桃花源",
+            "黄金屋"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「铁屋子」是鲁迅文学中最震撼人心的现代性启蒙隐喻之一。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u28-l1）所要求的高阶语言表达？",
+          "prompt": "鲁迅在《自嘲》诗中展现其对敌人决不妥协、对人民大众无限忠诚奉献的千古名句是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (28.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (28.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (28.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (28.1.y3)"
+            "横眉冷对千夫指，俯首甘为孺子牛 (Fierce-browed, I coolly face a thousand pointing fingers; head-bowed, like a willing ox I serve the children)",
+            "两耳不闻窗外事",
+            "明哲保身莫多言",
+            "随波逐流度余生"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「横眉冷对千夫指，俯首甘为孺子牛」是鲁迅高尚人格精神与斗争品格的最崇高写照。"
         }
       ]
     },
@@ -16397,25 +16401,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的掌握程度，请选出表述完全正确的标准范句（测试 28-1）：",
+          "prompt": "请选出下列鲁迅文学思想体系评析中立论最深刻、论述最精准的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (28.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (28.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (28.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (28.1.z3)"
+            "鲁迅以《狂人日记》揭开中国现代白话小说序幕，借狂人幻象直指宗法礼教「吃人」的血腥本质；借「铁屋子」呐喊启迪麻木大众，以阿Q的「精神胜利法」解剖国民劣根性；更在《野草》中发出「绝望之为虚妄，正与希望相同」的坚毅哲思，铸就了现代中国知识分子的精神脊梁！(开山白话小说、吃人批判、铁屋呐喊、精神胜利法、野草绝望抗争，鲁迅思想精髓完备无缺)",
+            "鲁迅就是一个爱骂人的作家，阿Q是个搞笑人物，大家看狂人日记就是看热闹。(语言极度轻佻无知)",
+            "铁屋子被精神胜利法在吃人狂人日记。(术语断裂错乱)",
+            "精神胜利法是鲁迅大力提倡的所有中国人都应当学习的优秀传统美德。(完全颠倒国民性批判之意)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段全面概括了鲁迅由《狂人日记》至《阿Q正传》与《野草》的现代性思想演进，立意深刻，论析精微。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u28-l1）的核心关键词（例如「现代文学」）：",
+          "prompt": "请输入鲁迅在《阿Q正传》中用来形容阿Q在受挫时通过自我麻痹获得心理平衡的核心核心五字术语（拼音为 jīngshén shènglì fǎ）：",
           "acceptedAnswers": [
-            "现代文学",
-            "现代文学巨匠",
-            "现代文学巨匠：鲁迅、老舍、张爱玲"
+            "精神胜利法"
           ],
-          "explanation": "正确的核心关键词为「现代文学」。"
+          "explanation": "术语「精神胜利法」是鲁迅文学对国民劣根性进行深度解剖的核心概念。"
         }
       ],
       "passThreshold": 0.8
@@ -16426,85 +16428,89 @@
     "subject": "mandarin",
     "unit": 28,
     "lessonNumber": 2,
-    "title": "现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans) (第2讲)",
+    "title": "老舍与京味文学：市民社会风情、底层悲剧与现代平民史诗 (Lao She & Beijing-Flavored Literature: Civic Life, Underclass Tragedy & Epic of Common Folk)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：五四新文化运动、现实主义与现代派文学、乡土中国与市民社会的现代性反思。 (第2部分)。",
+    "objective": "系统掌握老舍京味文学美学（地道北京口语艺术、老北京市民风情、《骆驼祥子》个人奋斗悲剧、《茶馆》三幕剧结构与时代沧桑史诗）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "老舍（舒庆春）被誉为「人民艺术家」，以纯正醇厚的京味语言和深沉的平民悲悯情怀，开创了中国现代现实主义文学中的「京味文学」流派：\n\n一、老舍文学的语言美学与文化品格：\n1.【地道纯粹的京味口语艺术】：将北京市民生活口语提炼为典雅、幽默、生动的纯正现代文学语言。\n2.【含泪的幽默（悲喜交融）】：在诙谐幽默的语言表面下，流淌着对底层劳动大众与破落满汉市民命运的深切同情与悲悯。\n\n二、小说代表作——《骆驼祥子》（平民奋斗的幻灭史诗）：\n1.【祥子的「三起三落」】：年轻健壮、要强善良的洋车夫祥子，毕生梦想是买一辆属于自己的洋车。然而历经大兵抢车、孙侦探敲诈、虎妞难产亡故卖车等接连打击。\n2.【灵魂的堕落与毁灭】：从一个老实勤劳的体面青年，最终蜕变为自私自利、抽烟酗酒、出卖朋友的社会行尸走肉，深刻控诉了黑暗社会「不给体面人活路」的罪恶。\n\n三、话剧巅峰之作——《茶馆》（东方舞台的史诗奇迹）：\n1.【「三幕剧」时空压缩结构】：以老北京裕泰茶馆为舞台，巧妙连接清末戊戌变法失败、民初军阀混战、抗战胜利后国民党统治三个历史断代。\n2.【茶馆老板王利发与人物群像】：王利发一生奉行「改良」、处处作揖作对，最终茶馆被霸占上吊自杀。「莫谈国事」的纸条越贴越大，控诉了旧时代的彻底破产！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的核心语法法则与应用范例 (28.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)' in simple terms to students at the academic seminar."
+          "target": "老舍以纯正醇厚的京味口语和幽默深沉的文风，为现代汉语文学开创了独树一帜的「京味文学」流派。(Lǎo Shě yǐ chúnzhèng chúnhòu de Jīngwèi kǒuyǔ hé yōumò shēnchén de wénfēng, wèi xiàndài Hànyǔ wénxué kāichuàng le dúshù-yīzhì de 'Jīngwèi wénxué' liúpài.)",
+          "reading": "[laʊ̯˨˩ ʂɤ˨˩˦ i˨˩˦ t͡ʂʰwn˧˥.ʈ͡ʂəŋ˥˩ ʈ͡ʂʰwn˧˥.xoʊ̯˥˩ tɤ t͡ɕiŋ˥.weɪ̯˥˩ kʰoʊ̯˨˩.y˨˩˦ xɤ˧˥ joʊ̯˥.mwo˥˩ ʂən˥.t͡ʂʰən˧˥ tɤ wən˧˥.fəŋ˥, weɪ̯˥˩ ɕjɛn˥˩.taɪ̯˥˩ xan˥˩.y˨˩˦ wən˧˥.ɕɥɛ˧˥ kʰaɪ̯˥.t͡ʂʰwaŋ˥˩ lɤ tu˧˥.ʂu˥˩-i˥.ʈ͡ʂɨ˥˩ tɤ 't͡ɕiŋ˥.weɪ̯˥˩ wən˧˥.ɕɥɛ˧˥' ljoʊ̯˧˥.pʰaɪ̯˥˩] (Lǎo Shě yǐ chún-zhèng chún-hòu de Jīng-wèi kǒu-yǔ hé yōu-mò shēn-chén de wén-fēng, wèi xiàn-dài Hàn-yǔ wén-xué kāi-chuàng le dú-shù-yī-zhì de 'Jīng-wèi wén-xué' liú-pài.)",
+          "translation": "Lao She opened a uniquely distinctive school of 'Beijing-flavored literature' for modern Chinese literature with authentic, mellow Beijing spoken language and a humorous yet profound style."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (28.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "《骆驼祥子》通过洋车夫祥子三起三落的个人奋斗悲剧，深刻揭露了黑暗旧社会对底层劳动者肉体与灵魂的残酷摧残。(《Luòtuo Xiángzi》 tōngguò yángchēfū Xiángzi sānqǐ-sānluò de gèrén fèndòu bēijù, shēnkè jiēlù le hēi'àn jiù shèhuì duì dǐcéng láodòngzhě ròutǐ yǔ línghún de cánkù cuīcán.)",
+          "reading": "[《lwɔ˥˩.tʰwɔ ɕjaŋ˧˥.t͡sɨ》 tʰʊŋ˥.kwɔ˥˩ jaŋ˧˥.ʈ͡ʂʰɤ˥.fu˥ ɕjaŋ˧˥.t͡sɨ san˥.t͡ɕʰi˨˩-san˥.lwɔ˥˩ tɤ kɤ˥˩.ʐən˧˥ fən˥˩.toʊ̯˥˩ peɪ̯˥.t͡ɕy˥, ʂən˥.kʰɤ˥˩ t͡ɕjɛ˥.lu˥˩ lɤ xeɪ̯˥.an˥˩ t͡ɕjoʊ̯˥˩ ʂɤ˥˩.xweɪ̯˥˩ tweɪ̯˥˩ ti˨˩.t͡sʰəŋ˧˥ laʊ̯˧˥.tʊŋ˥˩.ʈ͡ʂɤ˨˩˦ ʐoʊ̯˥˩.tʰi˨˩˦ y˨˩˦ liŋ˧˥.xwn˧˥ tɤ t͡sʰan˧˥.kʰu˥˩ t͡sʰweɪ̯˥.t͡sʰan˧˥] (《Luò-tuo Xiáng-zi》 tōng-guò yáng-chē-fū Xiáng-zi sān-qǐ-sān-luò de gè-rén fèn-dòu bēi-jù, shēn-kè jiē-lù le hēi-'àn jiù shè-huì duì dǐ-céng láo-dòng-zhě ròu-tǐ yǔ líng-hún de cán-kù cuī-cán.)",
+          "translation": "'Camel Xiangzi,' through the personal struggle tragedy of the rickshaw puller Xiangzi rising and falling three times, profoundly exposes the cruel devastation of the bodies and souls of grassroots laborers by the dark old society."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (28.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "经典话剧《茶馆》巧妙借助老北京裕泰茶馆的方寸舞台，以生动人物群像浓缩了半个世纪旧中国的风云变幻。(Jīngdiǎn huàjù 《Cháguǎn》 qiǎomiào jièzhù lǎo Běijīng Yùtài Cháguǎn de fāngcùn wǔtái, yǐ shēngdòng rénwù qúnxiàng nóngsuō le bàn gè shìjì jiù Zhōngguó de fēngyún biànhuàn.)",
+          "reading": "[t͡ɕiŋ˥.tjan˨˩˦ xwa˥˩.t͡ɕy˥˩ 《ʈ͡ʂʰa˧˥.kwan˨˩˦》 t͡ɕʰjaʊ̯˨˩.mjaʊ̯˥˩ t͡ɕjɛ˥˩.ʈ͡ʂu˥˩ laʊ̯˨˩ peɪ̯˨˩.t͡ɕiŋ˥ y˥˩.tʰaɪ̯˥˩ ʈ͡ʂʰa˧˥.kwan˨˩˦ tɤ fɑŋ˥.t͡sʰwn˥˩ wu˨˩.tʰaɪ̯˧˥, i˨˩˦ ʂəŋ˥.tʊŋ˥˩ ʐən˧˥.u˥˩ t͡ɕʰyn˧˥.ɕjaŋ˥˩ nʊŋ˧˥.swɔ˥ lɤ pan˥˩ kɤ ʂɨ˥˩.t͡ɕi˥˩ t͡ɕjoʊ̯˥˩ ʈ͡ʂʊŋ˥.kwo˧˥ tɤ fəŋ˥.jyn˧˥ pjɛn˥˩.xwan˥˩] (Jīng-diǎn huà-jù 《Chá-guǎn》 qiǎo-miào jiè-zhù lǎo Běi-jīng Yù-tài Chá-guǎn de fāng-cùn wǔ-tái, yǐ shēng-dòng rén-wù qún-xiàng nóng-suō le bàn gè shì-jì jiù Zhōng-guó de fēng-yún biàn-huàn.)",
+          "translation": "The classic play 'Teahouse' ingeniously utilized the square-inch stage of old Beijing's Yutai Teahouse, concentrating half a century of turbulent changes in old China through a vivid group portrait of characters."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (28.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "老舍被誉为「人民艺术家」，其作品饱含对平民阶层的深切同情与对老北京传统文化流变的复杂眷恋。(Lǎo Shě bèi yùwéi 'Rénmín Yìshùjiā', qí zuòpǐn bǎohán duì píngmín jiēcéng de shēnqiè tóngqíng yǔ duì lǎo Běijīng chuántǒng wénhuà liúbiàn de fùzá juànliàn.)",
+          "reading": "[laʊ̯˨˩ ʂɤ˨˩˦ peɪ̯˥˩ y˥˩.weɪ̯˧˥ 'ʐən˧˥.min˧˥ i˥˩.ʂu˥˩.t͡ɕja˥', t͡ɕʰi˧˥ t͡swɔ˥˩.pʰin˨˩˦ paʊ̯˨˩.xan˧˥ tweɪ̯˥˩ pʰiŋ˧˥.min˧˥ t͡ɕjɛ˥.t͡sʰəŋ˧˥ tɤ ʂən˥.t͡ɕʰjɛ˥˩ tʰʊŋ˧˥.t͡ɕʰiŋ˧˥ y˨˩˦ tweɪ̯˥˩ laʊ̯˨˩ peɪ̯˨˩.t͡ɕiŋ˥ t͡ʂʰwan˧˥.tʰʊŋ˧˥ wən˧˥.xwa˥˩ ljoʊ̯˧˥.pjɛn˥˩ tɤ fu˥˩.t͡sa˧˥ t͡ɕɥɛn˥˩.ljɛn˥˩] (Lǎo Shě bèi yù-wéi 'Rén-mín Yì-shù-jiā', qí zuò-pǐn bǎo-hán duì píng-mín jiē-céng de shēn-qiè tóng-qíng yǔ duì lǎo Běi-jīng chuán-tǒng wén-huà liú-biàn de fù-zá juàn-liàn.)",
+          "translation": "Lao She was honored as the 'People's Artist'; his works are suffused with profound empathy for the common populace and complex nostalgia for the transformation of old Beijing's traditional culture."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "京味语言幽默醇，骆驼祥子起落沦；茶馆三幕沧桑史，人民艺术铸平民！"
+      ],
+      "culturalNotes": [
+        "老舍是满族人，生于北京地安门外，深谙老北京的风土人情与市民心理，其创作将市民文学提升到了世界文学的高峰。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」（第2讲）的标准汉语规范？",
+          "prompt": "老舍的长篇小说代表作《骆驼祥子》中，主人公祥子在旧社会经历了怎样的人生轨迹？",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的核心语法法则与应用范例 (28.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (28.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (28.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (28.2.w3)"
+            "从要强勤劳的洋车夫，经历「三起三落」后彻底幻灭沦落为自甘堕落的游民 (From an ambitious rickshaw puller to a ruined vagrant after three rises and falls)",
+            "买下车队成为富甲一方的大老板",
+            "中彩票发财买了大房子",
+            "考上状元当上高官"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "祥子的「三起三落」与最终沉沦是《骆驼祥子》对旧社会残酷吞噬劳动者梦想的核心批判。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "老舍享誉世界的话剧名作《茶馆》在结构上巧妙运用的戏剧形式是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "三幕剧（分别反映清末、民初军阀混战、抗战胜利后三个时代）(Three-act structure reflecting three historical epochs)",
+            "五幕歌剧",
+            "单口相声",
+            "一幕独角戏"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "《茶馆》采用经典的三幕剧结构，借老北京裕泰茶馆一家兴衰浓缩半个世纪现代中国沧桑史。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的正式语境下，最准确得体的表达是哪一项？（第28.2题）",
+          "prompt": "老舍因其对现代文学的杰出贡献与对普通大众的深厚关怀，被北京市人民政府授予的崇高荣誉称号是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (28.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (28.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (28.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (28.2.x3)"
+            "人民艺术家 (People's Artist)",
+            "京城首富",
+            "文学皇帝",
+            "曲艺行家"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "1951年，老舍被北京市人民政府授予「人民艺术家」光荣称号。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u28-l2）所要求的高阶语言表达？",
+          "prompt": "老舍文学作品在语言风格上最鲜明独特的标志性特征是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (28.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (28.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (28.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (28.2.y3)"
+            "纯正地道的京味语言与含泪的幽默 (Authentic Beijing flavor spoken dialect & tearful humor)",
+            "大量堆砌古代晦涩文言虚词",
+            "全篇使用英文单词混杂",
+            "完全没有对话的纯风景描写"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "京味语言与悲喜交融的幽默是老舍文学独步中国现代文坛的鲜明旗帜。"
         }
       ]
     },
@@ -16512,25 +16518,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的掌握程度，请选出表述完全正确的标准范句（测试 28-2）：",
+          "prompt": "请选出下列关于老舍文学艺术成就评析最全面、最深刻的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (28.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (28.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (28.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (28.2.z3)"
+            "老舍以精纯纯正的京味口语和悲喜交融的幽默风貌，铸就了现代文学史上独树一帜的市民平民史诗；《骆驼祥子》以祥子的三起三落与彻底沉沦，控诉了吞噬个人奋斗梦想的黑暗旧社会；话剧巨著《茶馆》更以三幕跨越半个世纪的惊人结构，在方寸裕泰茶馆中演尽时代兴亡，堪称「人民艺术家」的不朽丰碑！(京味语言、骆驼祥子三起三落批判、茶馆三幕沧桑史诗与人民艺术家称号，全面深刻)",
+            "老舍就是写北京拉洋车的故事，茶馆就是叫大家去喝茶聊天。(语言平白浅陋毫无分析)",
+            "骆驼祥子被京味文学在茶馆三幕剧人民艺术家。(生硬杂糅堆砌术语)",
+            "《茶馆》表达了旧社会茶馆老板最终都发财致富的幸福故事。(完全背离原著王利发自杀悲剧结局)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段将老舍京味语言艺术、《骆驼祥子》平民悲剧与《茶馆》三幕剧史诗结构进行了极其透彻的系统概括。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u28-l2）的核心关键词（例如「现代文学」）：",
+          "prompt": "请输入老舍所著、以老北京裕泰茶馆为背景的三幕话剧经典杰作标题（例如《》；拼音为 Cháguǎn）：",
           "acceptedAnswers": [
-            "现代文学",
-            "现代文学巨匠",
-            "现代文学巨匠：鲁迅、老舍、张爱玲"
+            "茶馆",
+            "《茶馆》"
           ],
-          "explanation": "正确的核心关键词为「现代文学」。"
+          "explanation": "《茶馆》是老舍话剧创作的巅峰之作，被誉为中国现代话剧的东方奇迹。"
         }
       ],
       "passThreshold": 0.8
@@ -16541,85 +16546,89 @@
     "subject": "mandarin",
     "unit": 28,
     "lessonNumber": 3,
-    "title": "现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans) (第3讲)",
+    "title": "张爱玲与海派现代主义：苍凉美学、都市传奇与乱世儿女心理图谱 (Eileen Chang & Haipai Modernism: Desolation Aesthetics & Urban Legends)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：五四新文化运动、现实主义与现代派文学、乡土中国与市民社会的现代性反思。 (第3部分)。",
+    "objective": "系统掌握张爱玲海派现代主义文学体系（华丽与苍凉美学、都市传奇叙事、《倾城之恋》乱世情感博弈、《金锁记》曹七巧病态异化心理、精微通感修辞）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "张爱玲是中国现代文学史上极具个性的天才女作家，以传奇叙事、苍凉底色与极度敏锐的心理洞察独树一帜：\n\n一、张爱玲的「苍凉美学」与都市现代性：\n1.【华美与荒凉的双重变奏】：\n-「生命是一袭华美的袍，爬满了蚤子。」在上海、香港等繁华大都市的浮华灯影下，冷眼洞察文明行将倾覆的虚无与苍凉。\n2.【参差的对照】：不求强烈激烈的英雄壮举，而写乱世中普通饮食男女在世俗利益与情感深渊里的挣扎与妥协。\n\n二、海派小说经典代表作与人性深渊透视：\n1.【《倾城之恋》（乱世情感博弈）】：\n- 白流苏（失婚女子）与范柳原（风流浪子）在香港浅水湾的精明算计与情感试探；直至香港沦陷的一刹那，战争打破一切利益伪装，「一座城池的倾覆，成全了她的一段爱情」。\n2.【《金锁记》（东方心理分析巅峰）】：\n- 曹七巧被封建家族金钱锁链毁灭，最终戴着黄金重枷反过来残害亲生儿女（长安、长白）的幸福，将人性的病态异化写到极致。\n3.【《红玫瑰与白玫瑰》】：\n- 经典的「蚊子血与明月光、饭黏子与朱砂痣」隐喻，揭示男性在欲望与体面之间的永恒矛盾。\n\n三、修辞艺术与感官通感范式：\n- 融合中国传统《红楼梦》式章回小说白描笔法与西方现代主义心理分析、色彩斑斓的视觉通感与心理写意。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的核心语法法则与应用范例 (28.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)' in simple terms to students at the academic seminar."
+          "target": "张爱玲以华丽典雅的意象和极其敏锐的感官体验，在现代文学史上构筑了凄美冷峻的「苍凉美学」殿堂。(Zhāng Àilíng yǐ huálì diǎnyǎ de yìxiàng hé jíqí mǐnruì de gǎnguān tǐyàn, zài xiàndài wénxué shǐ shang gòuzhù le qīměi lěngjùn de 'cāngliáng měixué' diàntáng.)",
+          "reading": "[ʈ͡ʂɑŋ˥ aɪ̯˥˩.liŋ˧˥ i˨˩˦ xwa˧˥.li˥˩ tjan˨˩.ja˨˩˦ tɤ i˥˩.ɕjaŋ˥˩ xɤ˧˥ t͡ɕi˧˥.t͡ɕʰi˧˥ min˨˩.ʐweɪ̯˥˩ tɤ kan˨˩.kwan˥ tʰi˨˩.jan˥˩, t͡saɪ̯˥˩ ɕjɛn˥˩.taɪ̯˥˩ wən˧˥.ɕɥɛ˧˥ ʂɨ˨˩˦ ʂɑŋ koʊ̯˥˩.ʈ͡ʂu˥˩ lɤ t͡ɕʰi˥.meɪ̯˨˩˦ lɤŋ˨˩.t͡ɕyn˥˩ tɤ 't͡sʰɑŋ˥.ljaŋ˧˥ meɪ̯˨˩.ɕɥɛ˧˥' tjɛn˥˩.tʰɑŋ˧˥] (Zhāng Ài-líng yǐ huá-lì diǎn-yǎ de yì-xiàng hé jí-qí mǐn-ruì de gǎn-guān tǐ-yàn, zài xiàn-dài wén-xué shǐ shang gòu-zhù le qī-měi lěng-jùn de 'cāng-liáng měi-xué' diàn-táng.)",
+          "translation": "With gorgeous and elegant imagery and extremely acute sensory experience, Eileen Chang constructed a temple of poignant, austere 'desolation aesthetics' in modern literary history."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (28.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "《倾城之恋》以香港沦陷的历史动荡为背景，细腻展现了白流苏与范柳原在乱世博弈中走向相互依存的复杂心理图谱。(《Qīngchéng zhī Liàn》 yǐ Xiānggǎng lúnxiàn de lìshǐ dòngdàng wéi bèijǐng, xìnì zhǎnxiàn le Bái Liúsū yǔ Fàn Liǔyuán zài luànshì bóyì zhōng zǒuxiàng xiānghù-yīcún de fùzá xīnlǐ túpǔ.)",
+          "reading": "[《t͡ɕʰiŋ˥.ʈ͡ʂʰəŋ˧˥ ʈ͡ʂɨ˥ ljɛn˥˩》 i˨˩˦ ɕjaŋ˥.kɑŋ˨˩˦ lwn˧˥.ɕjɛn˥˩ tɤ li˥˩.ʂɨ˨˩˦ tʊŋ˥˩.tɑŋ˥˩ weɪ̯˧˥ peɪ̯˥˩.t͡ɕiŋ˨˩˦, ɕin˥˩.ni˥˩ ʈ͡ʂan˨˩.ɕjɛn˥˩ lɤ paɪ̯˧˥ ljoʊ̯˧˥.su˥ y˨˩˦ fan˥˩ ljoʊ̯˨˩.yɥɛn˧˥ t͡saɪ̯˥˩ lwan˥˩.ʂɨ˥˩ pwo˧˥.i˥˩ ʈ͡ʂʊŋ˥ t͡soʊ̯˨˩˦.ɕjaŋ˥ ɕjaŋ˥.xu˥˩-i˥.t͡sʰwn˧˥ tɤ fu˥˩.t͡sa˧˥ ɕin˥.li˨˩˦ tʰu˧˥.pʰu˨˩˦] (《Qīng-chéng zhī Liàn》 yǐ Xiāng-gǎng lún-xiàn de lì-shǐ dòng-dàng wéi bèi-jǐng, xì-nì zhǎn-xiàn le Bái Liú-sū yǔ Fàn Liǔ-yuán zài luàn-shì bó-yì zhōng zǒu-xiàng xiāng-hù-yī-cún de fù-zá xīn-lǐ tú-pǔ.)",
+          "translation": "'Love in a Fallen City,' set against the historical turbulence of Hong Kong's fall, delicately reveals the intricate psychological landscape of Bai Liusu and Fan Liuyuan moving toward mutual interdependence amid wartime games."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (28.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "在中篇巨作《金锁记》中，张爱玲以惊世骇俗的笔力刻画了曹七巧戴着黄金沉重枷锁、一步步走向灵魂扭曲与毁灭的悲剧一生。(Zài zhōngpiān jùzuò 《Jīnsuǒ Jì》 zhōng, Zhāng Àilíng yǐ jīngshì-hàisú de bǐlì kèhuà le Cáo Qīqiǎo dài zhe huángjīn chénzhòng jiāsuǒ, yībù-yībù zǒuxiàng línghún niǔqū yǔ huǐmiè de bēijù yīshēng.)",
+          "reading": "[t͡saɪ̯˥˩ ʈ͡ʂʊŋ˥.pʰjɛn˥ t͡ɕy˥˩.t͡swɔ˥˩ 《t͡ɕin˥.swɔ˨˩˦ t͡ɕi˥˩》 ʈ͡ʂʊŋ˥, ʈ͡ʂɑŋ˥ aɪ̯˥˩.liŋ˧˥ i˨˩˦ t͡ɕiŋ˥.ʂɨ˥˩-xaɪ̯˥˩.su˧˥ tɤ pi˨˩.li˥˩ kʰɤ˥˩.xwa˥˩ lɤ t͡sʰaʊ̯˧˥ t͡ɕʰi˥.t͡ɕʰjaʊ̯˨˩˦ taɪ̯˥˩ ʈ͡ʂɤ xwaŋ˧˥.t͡ɕin˥ ʈ͡ʂʰən˧˥.ʈ͡ʂʊŋ˥˩ t͡ɕja˥.swɔ˨˩˦, i˥.pu˥˩-i˥.pu˥˩ t͡soʊ̯˨˩˦.ɕjaŋ˥ liŋ˧˥.xwn˧˥ njoʊ̯˨˩.t͡ɕʰy˥ y˨˩˦ xweɪ̯˨˩.mjɛ˥˩ tɤ peɪ̯˥.t͡ɕy˥ i˥.ʂəŋ˥] (Zài zhōng-piān jù-zuò 《Jīn-suǒ Jì》 zhōng, Zhāng Ài-líng yǐ jīng-shì-hài-sú de bǐ-lì kè-huà le Cáo Qī-qiǎo dài zhe huáng-jīn chén-zhòng jiā-suǒ, yī-bù-yī-bù zǒu-xiàng líng-hún niǔ-qū yǔ huǐ-miè de bēi-jù yī-shēng.)",
+          "translation": "In the novella masterpiece 'The Golden Cangue,' Eileen Chang delineated with shocking power the tragic life of Cao Qiqiao wearing a heavy golden cangue and stepping progressively into soul distortion and destruction."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (28.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "「生命是一袭华美的袍，爬满了蚤子」这句千古名言，深刻道尽了张爱玲对人世繁华背后虚无与残酷的终极洞见。( 'Shēngmìng shì yī xí huáměi de páo, pámǎn le zǎozǐ' zhè jù qiāngǔ míngyán, shēnkè dàojìn le Zhāng Àilíng duì rénshì fánhuá bèihòu xūwú yǔ cánkù de zhōngjí dòngjiàn.)",
+          "reading": "[ 'ʂəŋ˥.miŋ˥˩ ʂɨ˥˩ i˥ ɕi˧˥ xwa˧˥.meɪ̯˨˩˦ tɤ pʰaʊ̯˧˥, pʰa˧˥.man˨˩˦ lɤ t͡saʊ̯˨˩.t͡sɨ' ʈ͡ʂɤ˥˩ t͡ɕy˥˩ t͡ɕʰjɛn˥.ku˨˩˦ miŋ˧˥.jan˧˥, ʂən˥.kʰɤ˥˩ taʊ̯˥˩.t͡ɕin˥˩ lɤ ʈ͡ʂɑŋ˥ aɪ̯˥˩.liŋ˧˥ tweɪ̯˥˩ ʐən˧˥.ʂɨ˥˩ fan˧˥.xwa˧˥ peɪ̯˥˩.xoʊ̯˥˩ ɕy˥.wu˧˥ y˨˩˦ t͡sʰan˧˥.kʰu˥˩ tɤ ʈ͡ʂʊŋ˥.t͡ɕi˧˥ tʊŋ˥˩.t͡ɕjɛn˥˩] ( 'Shēng-mìng shì yī xí huá-měi de páo, pá-mǎn le zǎo-zi' zhè jù qiān-gǔ míng-yán, shēn-kè dào-jìn le Zhāng Ài-líng duì rén-shì fán-huá bèi-hòu xū-wú yǔ cán-kù de zhōng-jí dòng-jiàn.)",
+          "translation": "'Life is a gorgeous gown crawled over by fleas'—this immortal dictum profoundly articulates Eileen Chang's ultimate insight into the vanity and cruelty behind worldly prosperity."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "华袍蚤子苍凉观，倾城之恋乱世缘；金锁沉沦七巧恨，海派传奇照流年！"
+      ],
+      "culturalNotes": [
+        "张爱玲出身名门（李鸿章曾外孙女），深得中国古典《红楼梦》语言之神韵，又受西方现代心理学影响，开创了现代中文写作最富色彩感与苍凉感的修辞传奇。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」（第3讲）的标准汉语规范？",
+          "prompt": "张爱玲在散文《天才梦》中用「生命是一袭华美的袍，爬满了蚤子」这一经典名句所表达的核心美学思想是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的核心语法法则与应用范例 (28.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (28.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (28.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (28.3.w3)"
+            "华美背后的荒凉与残酷（苍凉美学）(Desolation aesthetics: Void and cruelty behind worldly glamour)",
+            "衣服没有洗干净要多洗澡",
+            "跳蚤是一种有益的昆虫",
+            "买衣服一定要买最贵的旗袍"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「华袍与跳蚤」是张爱玲关于繁华表象与生命本真苍凉残酷矛盾的最高哲学隐喻。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "张爱玲代表作《倾城之恋》中，最终成全了白流苏与范柳原这对原本精明博弈男女真正走到一起的历史事件是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "香港沦陷（战争打破一切伪装与利益算计）(The Fall of Hong Kong during WWII)",
+            "范柳原买彩票中大奖",
+            "白流苏考上大学出国留学",
+            "两家父母包办婚姻"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "香港的陷落使乱世男女抛弃了世俗利害计较，成全了白流苏与范柳原相濡以沫的传奇爱情。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的正式语境下，最准确得体的表达是哪一项？（第28.3题）",
+          "prompt": "文学评论家夏志清盛赞为「中国从古以来最伟大的中篇小说」、描写曹七巧戴着黄金枷锁人性扭曲悲剧的作品是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (28.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (28.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (28.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (28.3.x3)"
+            "《金锁记》 (The Golden Cangue)",
+            "《半生缘》",
+            "《色，戒》",
+            "《沉香屑·第一炉香》"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "《金锁记》是张爱玲中篇小说的巅峰之作，对曹七巧病态心理的刻画达到了世界级文学水平。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u28-l3）所要求的高阶语言表达？",
+          "prompt": "张爱玲在小说《红玫瑰与白玫瑰》中用来揭示男性欲望与情感心理矛盾的经典意象对偶是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (28.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (28.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (28.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (28.3.y3)"
+            "蚊子血与明月光、饭黏子与朱砂痣 (Mosquito blood vs. Moonlight, Rice grain vs. Cinnabar mole)",
+            "苹果与香蕉、西瓜与草莓",
+            "金子与银子、铜板与铁块",
+            "太阳与月亮、星星与云朵"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「蚊子血/明月光与饭黏子/朱砂痣」是现代文学史上最脍炙人口的男女情感心理隐喻。"
         }
       ]
     },
@@ -16627,25 +16636,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的掌握程度，请选出表述完全正确的标准范句（测试 28-3）：",
+          "prompt": "请选出下列张爱玲文学美学体系评析中立意最高妙、洞察最透彻的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (28.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (28.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (28.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (28.3.z3)"
+            "张爱玲融古典《红楼》笔法与现代心理分析于一炉，以「华袍蚤子」奠定苍凉美学之基；《倾城之恋》借香港陷落打破男女世俗利害博弈，成全乱世传奇；《金锁记》以惊心动魄之笔剖析曹七巧黄金枷锁下扭曲异化的人性深渊；精微通感与冷峻洞察相得益彰，堪称海派现代文学的绝代传奇！(古典笔法与现代心理分析融通、苍凉美学立意、倾城之恋与金锁记深度阐析，论断极具穿透力)",
+            "张爱玲就是喜欢写香港和上海男女谈恋爱的小说，文字花里胡哨喜欢写衣服。(语言极度轻浮肤浅)",
+            "金锁记被倾城之恋在华袍蚤子苍凉美学。(术语断裂杂糅)",
+            "曹七巧是一个充满母爱、把所有家产都无私分给儿女的模范慈母。(完全颠倒原著曹七巧心理毁灭真相)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段系统总结了张爱玲苍凉美学、海派现代主义传奇叙事与心理深渊透视，评析精深独到。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u28-l3）的核心关键词（例如「现代文学」）：",
+          "prompt": "请输入张爱玲创作的、讲述白流苏与范柳原在香港战火中相遇结合的经典爱情传奇小说标题（例如《》；拼音为 Qīngchéng zhī Liàn）：",
           "acceptedAnswers": [
-            "现代文学",
-            "现代文学巨匠",
-            "现代文学巨匠：鲁迅、老舍、张爱玲"
+            "倾城之恋",
+            "《倾城之恋》"
           ],
-          "explanation": "正确的核心关键词为「现代文学」。"
+          "explanation": "《倾城之恋》是张爱玲最著名的爱情小说之一，堪称中国现代都市传奇的经典。"
         }
       ],
       "passThreshold": 0.8
@@ -16656,85 +16664,89 @@
     "subject": "mandarin",
     "unit": 28,
     "lessonNumber": 4,
-    "title": "现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans) (第4讲)",
+    "title": "沈从文边城诗意、曹禺雷雨话剧与二十世纪文学流派交响 (Shen Congwen's Border Town, Cao Yu's Thunderstorm & 20th Century Literary Landscape)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：五四新文化运动、现实主义与现代派文学、乡土中国与市民社会的现代性反思。 (第4部分)。",
+    "objective": "系统掌握沈从文湘西抒情乡土文学（《边城》纯美自然人性牧歌）、曹禺现代话剧古典冲突（《雷雨》三一律与命运悲剧）以及京派海派文学思潮对决。",
     "presentation": {
-      "explanation": "",
+      "explanation": "二十世纪中国文学在乡土诗意与都市戏剧的两极探索中，展现了极为广阔的精神光谱：\n\n一、沈从文与湘西抒情乡土文学：\n1.【《边城》与人性美学神庙】：\n- 远离现代都市文明污染的湘西茶峒古镇；老船夫、翠翠、傩送、天保之间至纯至美、至情至性的生命形式（「优美，健康，自然，而又不悖于人性的人生形式」）。\n- 翠翠在碧溪岨等待傩送归来的开放式结局：「这个人也许永远不回来了，也许『明天』回来！」留白深远。\n2.【京派文学的精神品格】：追求宁静和谐、超然恬淡的古典美感，反对过度商业化功利。\n\n二、曹禺与现代话剧的高峰跨越：\n1.【《雷雨》（中国现代话剧成熟里程碑）】：\n- 严格遵循西方古典戏剧「三一律」（一天之内、两个场景、集中爆发周鲁两家三十年的阶级矛盾与血缘乱伦纠葛）。\n- 繁漪的绝望抗争、周萍的软弱妥协、鲁侍萍的凄苦悲怆，在电闪雷鸣、狂风暴雨的夏夜走向毁灭性高潮，展现了残酷如天命般不可逃避的命运悲剧。\n2.【《日出》与《原野》】：从城市上流社会的金钱罪恶（陈白露的堕落）到旷野复仇的生命呼唤，将现代话剧推向世界高度。\n\n三、二十世纪文学流派交响（京派 vs. 海派）：\n- 京派以乡土自然、宁静内省为本（沈从文、朱自清、废名）；海派以都市感官、商业现代性为特征（张爱玲、施蛰存、穆时英）。二者交相辉映，构成多元现代文学图景。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的核心语法法则与应用范例 (28.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)' in simple terms to students at the academic seminar."
+          "target": "沈从文在《边城》中构建了一个远离世俗尘嚣的湘西茶峒世界，以诗意笔触塑造了翠翠纯洁无瑕的灵魂与至纯至美的人性牧歌。(Shěn Cóngwén zài 《Biānchéng》 zhōng gòujiàn le yī gè yuǎnlí shìsú chénxiāo de Xiāngxī Chádòng shìjiè, yǐ shīyì bǐchù sùzào le Cuìcuì chúnjié wúxiá de línghún yǔ zhìchún-zhìměi de rénxìng mùgē.)",
+          "reading": "[ʂən˨˩ t͡sʰʊŋ˧˥.wən˧˥ t͡saɪ̯˥˩ 《pjɛn˥.ʈ͡ʂʰəŋ˧˥》 ʈ͡ʂʊŋ˥ koʊ̯˥˩.t͡ɕjɛn˥˩ lɤ i˥ kɤ yɥɛn˨˩.li˧˥ ʂɨ˥˩.su˧˥ t͡ʂʰən˧˥.ɕjaʊ̯˥ tɤ ɕjaŋ˥.ɕi˥ ʈ͡ʂʰa˧˥.tʊŋ˥˩ ʂɨ˥˩.t͡ɕjɛ˥˩, i˨˩˦ ʂɨ˥.i˥˩ pi˨˩.ʈ͡ʂʰu˥˩ su˥˩.t͡saʊ̯˥˩ lɤ t͡sʰweɪ̯˥˩.t͡sʰweɪ̯ chún-jié wú-xiá de líng-hún yǔ zhì-chún-zhì-měi de rén-xìng mù-gē.)",
+          "translation": "In 'Border Town,' Shen Congwen constructed a Xiangxi Chadong world far removed from secular noise, portraying Cuicui's pure, flawless soul and a pastoral song of pristine human nature with poetic brushstrokes."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (28.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "曹禺的代表作《雷雨》以高度凝聚的戏剧冲突和严格的三一律构架，标志着中国现代话剧艺术走向全面成熟。(Cáo Yú de dàibiǎozuò 《Léiyǔ》 yǐ gāodù níngjù de xìjù chōngtū hé yángé de sānyīlǜ gòujià, biāozhì zhe Zhōngguó xiàndài huàjù yìshù zǒuxiàng quánmiàn chéngshú.)",
+          "reading": "[t͡sʰaʊ̯˧˥ y˧˥ tɤ taɪ̯˥˩.pjaʊ̯˨˩.t͡swɔ˥˩ 《leɪ̯˧˥.y˨˩˦》 i˨˩˦ kaʊ̯˥.tu˥˩ niŋ˧˥.t͡ɕy˥˩ tɤ ɕi˥˩.t͡ɕy˥˩ ʈ͡ʂʰʊŋ˥.tʰu˥ xɤ˧˥ jan˧˥.kɤ˧˥ tɤ san˥.i˥.ly˥˩ koʊ̯˥˩.t͡ɕja˥˩, pjaʊ̯˥.ʈ͡ʂɨ˥˩ ʈ͡ʂɤ ʈ͡ʂʊŋ˥.kwo˧˥ ɕjɛn˥˩.taɪ̯˥˩ xwa˥˩.t͡ɕy˥˩ i˥˩.ʂu˥˩ t͡soʊ̯˨˩˦.ɕjaŋ˥ t͡ɕʰyɛn˧˥.mjɛn˧˥ ʈ͡ʂʰəŋ˧˥.ʂu˧˥] (Cáo Yú de dài-biǎo-zuò 《Léi-yǔ》 yǐ gāo-dù níng-jù de xì-jù chōng-tū hé yán-gé de sān-yī-lǜ gòu-jià, biāo-zhì zhe Zhōng-guó xiàn-dài huà-jù yì-shù zǒu-xiàng quán-miàn chéng-shú.)",
+          "translation": "Cao Yu's masterpiece 'Thunderstorm,' with its highly condensed dramatic conflict and strict three-unities framework, signaled that Chinese modern theatrical art had attained comprehensive maturity."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (28.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "京派文学崇尚自然和谐与宁静致远的审美趣味，而海派文学则敏锐捕捉现代都市生活的感官体验与心理异化，二者交相辉映。(Jīngpài wénxué chóngshàng zìrán héxié yǔ níngjìng-zhìyuǎn de shěnměi qùwèi, ér Hǎipài wénxué zé mǐnruì bǔzhuō xiàndài dūshì shēnghuó de gǎnguān tǐyàn yǔ xīnlǐ yìhuà, èrzhě jiāoxiāng-huìyìng.)",
+          "reading": "[t͡ɕiŋ˥.pʰaɪ̯˥˩ wən˧˥.ɕɥɛ˧˥ ʈ͡ʂʰʊŋ˧˥.ʂɑŋ˥˩ t͡sɨ˥˩.ʐan˧˥ xɤ˧˥.ɕjɛ˧˥ y˨˩˦ niŋ˧˥.t͡ɕiŋ˥˩-ʈ͡ʂɨ˥˩.yɥɛn˨˩˦ tɤ ʂən˨˩.meɪ̯˨˩ t͡ɕʰy˥˩.weɪ̯˥˩, aɚ˧˥ xaɪ̯˨˩.pʰaɪ̯˥˩ wən˧˥.ɕɥɛ˧˥ t͡sɤ˧˥ min˨˩.ʐweɪ̯˥˩ pu˨˩.ʈ͡ʂwɔ˥ ɕjɛn˥˩.taɪ̯˥˩ tu˥.ʂɨ˥˩ ʂəŋ˥.xwo˧˥ tɤ kan˨˩.kwan˥ tʰi˨˩.jan˥˩ y˨˩˦ ɕin˥.li˨˩˦ i˥˩.xwa˥˩, aɚ˥˩.ʈ͡ʂɤ˨˩˦ t͡ɕjaʊ̯˥.ɕjaŋ˥-xweɪ̯˥˩.iŋ˥˩] (Jīng-pài wén-xué chóng-shàng zì-rán hé-xié yǔ níng-jìng-zhì-yuǎn de shěn-měi qù-wèi, ér Hǎi-pài wén-xué zé mǐn-ruì bǔ-zhuō xiàn-dài dū-shì shēng-huó de gǎn-guān tǐ-yàn yǔ xīn-lǐ yì-huà, èr-zhě jiāo-xiāng-huì-yìng.)",
+          "translation": "The Beijing School revered natural harmony and serene, far-reaching aesthetic taste, while the Shanghai School keenly captured the sensory experiences and psychological alienation of modern urban life, the two illuminating each other."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (28.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "二十世纪中国作家在探索民族独立与现代性转型的风云变幻中，以多重视角铸就了思想深邃、百花齐放的文学丰碑。(Èrshí shìjì Zhōngguó zuòjiā zài tànsuǒ mínzú dúlì yǔ xiàndàixìng zhuǎnxíng de fēngyún biànhuàn zhōng, yǐ duōzhòng shìjiǎo zhùjiù le sīxiǎng shēnsuì, bǎihuā-qífàng de wénxué fēngbēi.)",
+          "reading": "[aɚ˥˩.ʂɨ˧˥ ʂɨ˥˩.t͡ɕi˥˩ ʈ͡ʂʊŋ˥.kwo˧˥ t͡swɔ˥˩.t͡ɕja˥ t͡saɪ̯˥˩ tʰan˥˩.swɔ˨˩˦ min˧˥.t͡su˧˥ tu˧˥.li˥˩ y˨˩˦ ɕjɛn˥˩.taɪ̯˥˩.ɕiŋ˥˩ ʈ͡ʂwan˨˩.ɕiŋ˧˥ tɤ fəŋ˥.jyn˧˥ pjɛn˥˩.xwan˥˩ ʈ͡ʂʊŋ˥, i˨˩˦ twɔ˥.ʈ͡ʂʊŋ˥˩ ʂɨ˥˩.t͡ɕjaʊ̯˨˩˦ ʈ͡ʂu˥˩.t͡ɕjoʊ̯˥˩ lɤ sɨ˥.ɕjaŋ˨˩˦ ʂən˥.sweɪ̯˥˩, paɪ̯˨˩.xwa˥-t͡ɕʰi˧˥.fɑŋ˥˩ tɤ wən˧˥.ɕɥɛ˧˥ fəŋ˥.peɪ̯˥] (Èr-shí shì-jì Zhōng-guó zuò-jiā zài tàn-suǒ mín-zú dú-lì yǔ xiàn-dài-xìng zhuǎn-xíng de fēng-yún biàn-huàn zhōng, yǐ duō-zhòng shì-jiǎo zhù-jiù le sī-xiǎng shēn-suì, bǎi-huā-qí-fàng de wén-xué fēng-bēi.)",
+          "translation": "Amid turbulent transformations seeking national independence and modernization, 20th-century Chinese writers forged profound, flourishing literary monuments from multifaceted perspectives."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "边城诗意湘西情，雷雨冲突命如评；京派天然海派异，百花齐放现代经！"
+      ],
+      "culturalNotes": [
+        "沈从文以湘西苗汉边地生活为源泉，曾两度获得诺贝尔文学奖提名；曹禺的《雷雨》则奠定了中国现代话剧的经典话语高度。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」（第4讲）的标准汉语规范？",
+          "prompt": "沈从文著名中篇小说《边城》中，纯洁善良的主人公翠翠生活在哪个充满田园诗意的湘西边陲小镇？",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的核心语法法则与应用范例 (28.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (28.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (28.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (28.4.w3)"
+            "茶峒 (Chadong)",
+            "北京城",
+            "上海滩",
+            "香港岛"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "《边城》的故事发生在湘西、川东交界的茶峒古镇，是沈从文笔下至纯至美的世外桃源。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "剧作家曹禺在经典话剧《雷雨》中，遵循的严格将戏剧时间限制在一天之内爆发冲突的西方古典法则被称为：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "三一律 (Classical Three Unities: 时间、地点、动作的一致性)",
+            "意识流",
+            "魔幻现实主义",
+            "荒诞派"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "曹禺在《雷雨》中高度娴熟地运用了古典「三一律」，在一天之内引爆了三十年的沉重恩怨。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的正式语境下，最准确得体的表达是哪一项？（第28.4题）",
+          "prompt": "沈从文在《边城》题记中阐明其写作目的是为了构建何种至高的人生理想形式？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (28.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (28.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (28.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (28.4.x3)"
+            "优美、健康、自然，而又不悖于人性的人生形式 (Graceful, healthy, natural & conforming to human nature)",
+            "追求金钱名利、飞黄腾达",
+            "出人头地做大官",
+            "追求绝对虚无消极避世"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "沈从文在《边城》中倾注毕生心血，旨在为现代人重铸健康、自然、充满人性光辉的生命范式。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u28-l4）所要求的高阶语言表达？",
+          "prompt": "在现代中国文坛上，以沈从文为代表、崇尚自然恬淡与纯文学审美的文学派别通常被称为：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (28.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (28.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (28.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (28.4.y3)"
+            "京派文学 (Beijing School: 崇尚自然乡土与纯文学)",
+            "海派文学",
+            "鸳鸯蝴蝶派",
+            "通俗武侠派"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "京派文学以沈从文、朱自清、废名等为代表，强调文学的独立审美价值与乡土纯真情怀。"
         }
       ]
     },
@@ -16742,25 +16754,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的掌握程度，请选出表述完全正确的标准范句（测试 28-4）：",
+          "prompt": "请选出下列关于沈从文、曹禺与现代文学流派格局评析最深刻、最精准的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (28.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (28.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (28.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (28.4.z3)"
+            "沈从文《边城》以茶峒古镇为圣境，塑造了翠翠至纯至善的灵魂，谱写了「健康自然不悖于人性」的人性美神曲；曹禺《雷雨》以严密的三一律构架与雷雨之夜的毁灭性冲突，展现了命运捉弄的现代心理悲剧；京派之宁静致远与海派之感官异化交织共鸣，共同构建了二十世纪中国文学辉煌多元的艺术图景！(边城人性神曲、雷雨三一律命运悲剧、京派海派多元格局，评述精辟博大)",
+            "边城就是划船的故事，雷雨就是下大雨的故事，现代文学没有什么值得研究的。(语言极其轻薄浅薄)",
+            "雷雨被茶峒在三一律京派海派边城。(概念生硬杂糅混乱)",
+            "《雷雨》表达了周公馆一家人和睦相处、没有任何矛盾的快乐生活。(完全背离雷雨残酷毁灭的悲剧本质)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段将沈从文边城诗意、曹禺雷雨古典戏剧结构与京派海派流派思潮进行了系统严密的整合评析。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u28-l4）的核心关键词（例如「现代文学」）：",
+          "prompt": "请输入沈从文创作的、以湘西茶峒古镇翠翠爱情为核心的抒情小说名作标题（例如《》；拼音为 Biānchéng）：",
           "acceptedAnswers": [
-            "现代文学",
-            "现代文学巨匠",
-            "现代文学巨匠：鲁迅、老舍、张爱玲"
+            "边城",
+            "《边城》"
           ],
-          "explanation": "正确的核心关键词为「现代文学」。"
+          "explanation": "《边城》是沈从文的代表作，是中国现代抒情乡土文学的巅峰杰作。"
         }
       ],
       "passThreshold": 0.8
@@ -16771,85 +16782,89 @@
     "subject": "mandarin",
     "unit": 28,
     "lessonNumber": 5,
-    "title": "现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans) (第5讲)",
+    "title": "百年求索、文脉觉醒与二十世纪中国精神图谱综合叙事篇章 (Comprehensive 20th Century Chinese Literature & Modern Mind Narrative)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：五四新文化运动、现实主义与现代派文学、乡土中国与市民社会的现代性反思。 (第5部分)。",
+    "objective": "融会贯通鲁迅国民性批判与现代启蒙、老舍京味市民史诗与平民悲悯、张爱玲海派现代主义与苍凉美学、沈从文边城人性牧歌及曹禺雷雨话剧命运冲突，独立撰写思想深沉、纵贯百年现代性求索的综合论述语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "本课是二十世纪中国现代文学与精神图谱的集大成巅峰篇章，全景展现了中华民族在现代化剧变中的心灵觉醒与审美探索：\n\n一、二十世纪中国文学巨匠思想光谱精粹：\n1. 思想先驱（鲁迅）：以《狂人日记》发吃人之控诉，借「铁屋子」与「阿Q精神胜利法」解剖国民劣根性，在《野草》绝望中坚持韧性抗争，立民族精神脊梁。\n2. 平民悲悯（老舍）：以纯正地道的京味口语和含泪幽默，借《骆驼祥子》三起三落写尽底层劳动者的幻灭，借《茶馆》三幕跨越半个世纪浓缩旧中国沧桑史。\n3. 都市苍凉（张爱玲）：以「华美华袍爬满蚤子」洞穿浮华繁华背后的人性虚无，《倾城之恋》写乱世博弈，《金锁记》剖析曹七巧黄金重枷下的人性病态异化。\n4. 田园牧歌（沈从文）：在《边城》茶峒世外桃源构建「健康自然不悖于人性」的纯美人性神庙，以湘西诗情抗衡现代都市物化。\n5. 戏剧悲剧（曹禺）：以《雷雨》严密的三一律冲突与电闪雷鸣，将阶级血缘恩怨提升至古希腊式命运悲剧的崇高境界。\n\n二、全景式二十世纪中国现代文学与精神图谱综合范文赏析：\n- 百年求索，文脉觉醒；风云激荡，气象万千。二十世纪中国现代文学是一部波澜壮阔的民族灵魂觉醒史与现代性求索史。回望百年文坛，鲁迅先生以金刚怒目之笔开白话先河，《狂人日记》怒揭封建宗法吃人本质，铁屋呐喊唤醒沉睡民众，阿Q正传深剖国民劣根性，《野草》坚守绝望中之韧性抗争，挺立起现代中国人的精神脊梁；老舍先生运化纯正京味口语，《骆驼祥子》叹底层平民奋斗之沉沦，《茶馆》三幕演尽半个世纪时代兴亡，铸就人民艺术家之博大悲悯；张爱玲冷眼洞察海派繁华，「华美袍服爬满蚤子」，于《倾城之恋》叹乱世情缘，于《金锁记》剖人性异化深渊；沈从文以《边城》茶峒诗意筑造健康自然之人性神庙，曹禺借《雷雨》严密冲突谱写惊心动魄之命运交响。从乡土到都市，从小说到戏剧，中国现代文学大师们以精妙绝伦之汉语辞章与深邃透彻之人文关怀，绘就了中华民族在涅槃重生中走向现代文明的伟大心灵图谱！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的核心语法法则与应用范例 (28.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)' in simple terms to students at the academic seminar."
+          "target": "二十世纪中国文学是一部波澜壮阔的民族灵魂觉醒史与现代性求索史，诸位文学巨擘从不同维度绘就了华夏儿女的精神图谱。(Èrshí shìjì Zhōngguó wénxué shì yī bù bōlán-zhuàngkuò de mínzú línghún juéxǐng shǐ yǔ xiàndàixìng qiúsuǒ shǐ, zhūwèi wénxué jùbò cóng bùtóng wéidù huìjiù le Huáxià érnǚ de jīngshén túpǔ.)",
+          "reading": "[aɚ˥˩.ʂɨ˧˥ ʂɨ˥˩.t͡ɕi˥˩ ʈ͡ʂʊŋ˥.kwo˧˥ wən˧˥.ɕɥɛ˧˥ ʂɨ˥˩ i˥ pu˥˩ pwo˥.lan˧˥-ʈ͡ʂwaŋ˥˩.kʰwɔ˥˩ tɤ min˧˥.t͡su˧˥ liŋ˧˥.xwn˧˥ t͡ɕɥɛ˧˥.ɕiŋ˨˩˦ ʂɨ˨˩˦ y˨˩˦ ɕjɛn˥˩.taɪ̯˥˩.ɕiŋ˥˩ t͡ɕʰjoʊ̯˧˥.swɔ˨˩˦ ʂɨ˨˩˦, ʈ͡ʂu˥.weɪ̯˥˩ wən˧˥.ɕɥɛ˧˥ t͡ɕy˥˩.pwɔ˥˩ t͡sʰʊŋ˧˥ pu˥.tʰʊŋ˧˥ weɪ̯˧˥.tu˥˩ xweɪ̯˥˩.t͡ɕjoʊ̯˥˩ lɤ xwa˧˥.ɕja˥˩ aɚ˧˥.ny˨˩˦ tɤ t͡ɕiŋ˥.ʂən˧˥ tʰu˧˥.pʰu˨˩˦] (Èr-shí shì-jì Zhōng-guó wén-xué shì yī bù bō-lán-zhuàng-kuò de mín-zú líng-hún jué-xǐng shǐ yǔ xiàn-dài-xìng qiú-suǒ shǐ, zhū-wèi wén-xué jù-bò cóng bù-tóng wéi-dù huì-jiù le Huá-xià ér-nǚ de jīng-shén tú-pǔ.)",
+          "translation": "Twentieth-century Chinese literature is a magnificent history of national spiritual awakening and modern quest; literary titans painted the spiritual map of the Chinese people from diverse dimensions."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (28.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "鲁迅以金刚怒目之笔痛击国民劣根性，老舍以悲悯幽默之怀为底层平民立传，张爱玲以冷峻苍凉之眼洞悉繁华背后的虚无。(Lǔ Xùn yǐ jīngāng nùmù zhī bǐ tòngjī guómín liègēnxìng, Lǎo Shě yǐ bēimǐn yōumò zhī huái wèi dǐcéng píngmín lìzhuàn, Zhāng Àilíng yǐ lěngjùn cāngliáng zhī yǎn dòngxī fánhuá bèihòu de xūwú.)",
+          "reading": "[lu˨˩.ɕyn˥˩ i˨˩˦ t͡ɕin˥.kɑŋ˥ nu˥˩.mu˥˩ ʈ͡ʂɨ˥ pi˨˩˦ tʰʊŋ˥˩.t͡ɕi˥ kwo˧˥.min˧˥ ljɛ˥˩.kən˥.ɕiŋ˥˩, laʊ̯˨˩ ʂɤ˨˩˦ i˨˩˦ peɪ̯˥.min˧˥ joʊ̯˥.mwo˥˩ ʈ͡ʂɨ˥ xwaɪ̯˧˥ weɪ̯˥˩ ti˨˩.t͡sʰəŋ˧˥ pʰiŋ˧˥.min˧˥ li˥˩.ʈ͡ʂwan˥˩, ʈ͡ʂɑŋ˥ aɪ̯˥˩.liŋ˧˥ i˨˩˦ lɤŋ˨˩.t͡ɕyn˥˩ t͡sʰɑŋ˥.ljaŋ˧˥ ʈ͡ʂɨ˥ jan˨˩˦ tʊŋ˥˩.ɕi˥ fan˧˥.xwa˧˥ peɪ̯˥˩.xoʊ̯˥˩ tɤ ɕy˥.wu˧˥] (Lǔ Xùn yǐ jīn-gāng nù-mù zhī bǐ tòng-jī guó-mín liè-gēn-xìng, Lǎo Shě yǐ bēi-mǐn yōu-mò zhī huái wèi dǐ-céng píng-mín lì-zhuàn, Zhāng Ài-líng yǐ lěng-jùn cāng-liáng zhī yǎn dòng-xī fán-huá bèi-hòu de xū-wú.)",
+          "translation": "Lu Xun struck fiercely at the deep-seated flaws in national character with an uncompromising pen, Lao She recorded the lives of common folk with compassionate humor, and Eileen Chang perceived the void behind worldly prosperity with cool, desolate eyes."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (28.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "融会沈从文《边城》之纯美诗意与曹禺《雷雨》之命运交响，中国现代文学在乡土与都市、抒情与戏剧的激荡中确立了世界级高度。(Rónghuì Shěn Cóngwén 《Biānchéng》 zhī chúnměi shīyì yǔ Cáo Yú 《Léiyǔ》 zhī mìngyùn jiāoxiǎng, Zhōngguó xiàndài wénxué zài xiāngtǔ yǔ dūshì, shūqíng yǔ xìjù de jīdàng zhōng quèlì le shìjièjí gāodù.)",
+          "reading": "[ʐʊŋ˧˥.xweɪ̯˥˩ ʂən˨˩ t͡sʰʊŋ˧˥.wən˧˥ 《pjɛn˥.ʈ͡ʂʰəŋ˧˥》 ʈ͡ʂɨ˥ t͡ʂʰwn˧˥.meɪ̯˨˩˦ ʂɨ˥.i˥˩ y˨˩˦ t͡sʰaʊ̯˧˥ y˧˥ 《leɪ̯˧˥.y˨˩˦》 ʈ͡ʂɨ˥ miŋ˥˩.yn˥˩ t͡ɕjaʊ̯˥.ɕjaŋ˨˩˦, ʈ͡ʂʊŋ˥.kwo˧˥ ɕjɛn˥˩.taɪ̯˥˩ wən˧˥.ɕɥɛ˧˥ t͡saɪ̯˥˩ ɕjaŋ˥.tʰu˨˩˦ y˨˩˦ tu˥.ʂɨ˥˩, ʂu˥.t͡ɕʰiŋ˧˥ y˨˩˦ ɕi˥˩.t͡ɕy˥˩ tɤ t͡ɕi˥.tɑŋ˥˩ ʈ͡ʂʊŋ˥ t͡ɕʰɥɛ˥.li˥˩ lɤ ʂɨ˥˩.t͡ɕjɛ˥˩.t͡ɕi˧˥ kaʊ̯˥.tu˥˩] (Róng-huì Shěn Cóng-wén 《Biān-chéng》 zhī chún-měi shī-yì yǔ Cáo Yú 《Léi-yǔ》 zhī mìng-yùn jiāo-xiǎng, Zhōng-guó xiàn-dài wén-xué zài xiāng-tǔ yǔ dū-shì, shū-qíng yǔ xì-jù de jī-dàng zhōng què-lì le shì-jiè-jí gāo-dù.)",
+          "translation": "Synthesizing the pure poetic beauty of Shen Congwen's 'Border Town' with the fate symphony of Cao Yu's 'Thunderstorm,' modern Chinese literature established a world-class stature amid the surge between countryside and metropolis, lyricism and drama."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (28.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "研读百年现代文学经典，让我们在品味精妙汉语辞章的同时，深刻感悟中华民族在苦难中凤凰涅槃、走向现代文明的伟大心路！(Yándú bǎinián xiàndài wénxué jīngdiǎn, ràng wǒmen zài pǐnwèi jīngmiào Hànyǔ cizhāng de tóngshí, shēnkè gǎnwù Zhōnghuá mínzú zài kǔnàn zhōng fènghuáng-nièpán, zǒuxiàng xiàndài wénmíng de wěidà xīnlù!)",
+          "reading": "[jan˧˥.tu˧˥ paɪ̯˨˩.njɛn˧˥ ɕjɛn˥˩.taɪ̯˥˩ wən˧˥.ɕɥɛ˧˥ t͡ɕiŋ˥.tjan˨˩˦, ʐɑŋ˥˩ wɔ˨˩.mən t͡saɪ̯˥˩ pʰin˨˩.weɪ̯˥˩ t͡ɕiŋ˥.mjaʊ̯˥˩ xan˥˩.y˨˩˦ t͡sʰɨ˧˥.ʈ͡ʂɑŋ˥ tɤ tʰʊŋ˧˥.ʂɨ˧˥, ʂən˥.kʰɤ˥˩ kan˨˩.u˥˩ ʈ͡ʂʊŋ˥.xwa˧˥ min˧˥.t͡su˧˥ t͡saɪ̯˥˩ kʰu˨˩.nan˥˩ ʈ͡ʂʊŋ˥ fəŋ˥˩.xwaŋ˧˥-njɛ˥˩.pʰan˧˥, t͡soʊ̯˨˩˦.ɕjaŋ˥ ɕjɛn˥˩.taɪ̯˥˩ wən˧˥.miŋ˧˥ tɤ weɪ̯˨˩.ta˥˩ ɕin˥.lu˥˩] (Yán-dú bǎi-nián xiàn-dài wén-xué jīng-diǎn, ràng wǒ-men zài pǐn-wèi jīng-miào Hàn-yǔ cí-zhāng de tóng-shí, shēn-kè gǎn-wù Zhōng-huá mín-zú zài kǔ-nàn zhōng fèng-huáng-niè-pán, zǒu-xiàng xiàn-dài wén-míng de wěi-dà xīn-lù!)",
+          "translation": "Studying the centenary classics of modern literature enables us, while savoring the exquisite rhetoric of the Chinese language, to profoundly appreciate the great psychological journey of the Chinese nation rising like a phoenix from suffering toward modern civilization!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "鲁迅呐喊铸脊梁，老舍茶馆叹沧桑；张爱苍凉边城美，百年巨著耀华光！"
+      ],
+      "culturalNotes": [
+        "二十世纪中国文学不仅是现代汉语白话文的语言典范，更是世界文学宝库中关于启蒙、救亡、人性与现代性反思最丰富深沉的思想矿藏。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」（第5讲）的标准汉语规范？",
+          "prompt": "在二十世纪中国现代文学全景图谱中，分别对应「国民性启蒙批判 -> 京味平民市民悲悯 -> 海派都市苍凉心理 -> 湘西抒情田园牧歌 -> 现代话剧命运悲剧」的五位文学巨擘依次是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的核心语法法则与应用范例 (28.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (28.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (28.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (28.5.w3)"
+            "鲁迅、老舍、张爱玲、沈从文、曹禺 (Lu Xun, Lao She, Eileen Chang, Shen Congwen, Cao Yu)",
+            "李白、杜甫、白居易、苏轼、辛弃疾",
+            "孔子、孟子、老子、庄子、韩非子",
+            "关汉卿、王实甫、汤显祖、孔尚任、洪昇"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "鲁迅、老舍、张爱玲、沈从文、曹禺这五位文学大师共同构筑了中国现代文学多维立体的精神峰巅。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "用来形容中华民族与中国文学在近现代百年磨难抗争中历经痛苦洗礼、最终焕发崭新文明生机的著名成语是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "凤凰涅槃 (Phoenix Nirvana / Rebirth through suffering)",
+            "坐井观天",
+            "墨守成规",
+            "固步自封"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「凤凰涅槃」生动象征了中华民族与文学在二十世纪苦难中重获新生、走向现代文明的伟大历程。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的正式语境下，最准确得体的表达是哪一项？（第28.5题）",
+          "prompt": "请选出下列关于二十世纪中国文学精神脉络综述中格局最宏大、辞采最雅正的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (28.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (28.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (28.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (28.5.x3)"
+            "百年求索铸就民族文脉：鲁迅以铁屋呐喊与阿Q批判唤醒国民灵魂，老舍以京味茶馆与祥子沉沦倾注平民悲悯，张爱玲以华袍蚤子洞悉苍凉传奇，沈从文边城诗意与曹禺雷雨交响辉映。现代文学以卓越的汉语辞章与深邃的人文反思，绘就了走向现代文明的心灵史诗！(全景串联五大巨匠代表作与精神内核，辞藻典雅，思想格局深邃博大)",
+            "二十世纪中国有很多作家写了很多书，大家喜欢看小说和话剧。(语言极其苍白简陋)",
+            "狂人日记被骆驼祥子倾城之恋在边城雷雨凤凰涅槃。(词语无序生硬拼凑)",
+            "现代文学全部都是毫无价值的消极描写没有任何思想。(恶意否定现代文学启蒙价值)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项将五大文学巨匠的思想精髓、审美向度与百年民族精神演进融为一体，堪称现代文学综述的极品范文。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u28-l5）所要求的高阶语言表达？",
+          "prompt": "在中国现代文学评论中，用来形容一部作品思想深邃、对社会和人心具有极其强烈震动与警醒作用的成语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (28.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (28.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (28.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (28.5.y3)"
+            "振聋发聩 (Deafening and enlightening / Awakening the deaf and the blind)",
+            "不痛不痒",
+            "无关紧要",
+            "人云亦云"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「振聋发聩」常用来赞誉鲁迅等现代启蒙思想家具有强烈批判力量与觉醒意义的经典巨著。"
         }
       ]
     },
@@ -16857,25 +16872,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的掌握程度，请选出表述完全正确的标准范句（测试 28-5）：",
+          "prompt": "请选出下列二十世纪中国现代文学与精神图谱综合语篇中立论最高远、概括最精深、论证最完备的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (28.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (28.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (28.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (28.5.z3)"
+            "百年求索，文脉觉醒。二十世纪中国现代文学汇聚群星闪耀之光华：鲁迅以《狂人日记》与《阿Q正传》痛击吃人礼教与国民劣根性，挺立民族精神脊梁；老舍以纯正京味口语赋形《骆驼祥子》与《茶馆》，铸就深厚平民史诗；张爱玲冷眼洞穿繁华以苍凉美学开创海派传奇；沈从文以《边城》筑就健康自然之人性神庙；曹禺以《雷雨》演绎现代命运悲剧之化境。现代文学大师们以崇高的人文担当与精妙汉语辞章，共同绘制了中华民族走向现代文明的伟大心灵图谱！(五大师思想美学体系融会贯通，思想格局恢弘磅礴，论证严密无懈可击)",
+            "现代文学就是几个作家写的故事，现在大家都看手机不看书了。(语言极度庸俗低幼)",
+            "百年求索被阿Q精神胜利法在茶馆倾城之恋边城雷雨。(词语生硬堆砌毫无逻辑)",
+            "老舍张爱玲沈从文全都是写古代文言文的作家。(事实性常识严重错误)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇系统融会贯通鲁迅、老舍、张爱玲、沈从文与曹禺的核心创作与精神品格，气势雄浑，文质兼美，是二十世纪中国文学论述的最高范本。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u28-l5）的核心关键词（例如「现代文学」）：",
+          "prompt": "请输入中国现代文学评论中用来形容一部作品或一种思想具有极其强烈警醒力量、能使麻木昏聩之人彻底觉醒的核心四字成语（例如「」；拼音为 zhènlóng-fǎkuì）：",
           "acceptedAnswers": [
-            "现代文学",
-            "现代文学巨匠",
-            "现代文学巨匠：鲁迅、老舍、张爱玲"
+            "振聋发聩"
           ],
-          "explanation": "正确的核心关键词为「现代文学」。"
+          "explanation": "成语「振聋发聩」形容言论或文章思想深刻尖锐，能够使麻木昏沉的人受到极大震动而觉醒。"
         }
       ],
       "passThreshold": 0.8
