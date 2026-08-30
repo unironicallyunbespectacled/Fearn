@@ -2535,53 +2535,62 @@
     "subject": "hindi",
     "unit": 6,
     "lessonNumber": 1,
-    "title": "सामान्य भूतकाल और ने-नियम (Simple Past & Ergative ने) (Part 1)",
+    "title": "अकर्मक क्रियाओं का सामान्य भूतकाल (आया, गया, सोया, हँसा)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.1) with authentic linguistic precision.",
+    "objective": "अकर्मक क्रियाओं (Intransitive Verbs) के सामान्य भूतकाल रूप, लिंग-वचन प्रत्ययों (-आ, -ए, -ई, -ईं) तथा इनमें 'ने' परसर्ग न लगने के मौलिक नियम को समझना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में भूतकाल की रचना इस बात पर निर्भर करती है कि क्रिया 'अकर्मक' (Intransitive) है या 'सकर्मक' (Transitive):\n\n1. अकर्मक क्रियाओं की विशेषता:\n   - जिन क्रियाओं का कोई प्रत्यक्ष कर्म (Object) नहीं होता (जैसे: आना, जाना, सोना, हँसना, बैठना, चलना, दौड़ना, गिरना), उनमें कर्ता के साथ कभी भी **'ने' परसर्ग नहीं लगता**।\n   - क्रिया का लिंग और वचन सीधे **कर्ता** के अनुसार बदलता है।\n\n2. भूतकालिक कृदंत प्रत्यय (Past Participle Suffixes):\n   - पुल्लिंग एकवचन: धातु + *'-आ'* (आया, गया, सोया, हँसा, बैठा)\n   - पुल्लिंग बहुवचन / आदर: धातु + *'-ए'* (आए, गए, सोए, हँसे, बैठे)\n   - स्त्रीलिंग एकवचन: धातु + *'-ई'* (आई, गई, सोई, हँसी, बैठी)\n   - स्त्रीलिंग बहुवचन: धातु + *'-ईं'* [अनुनासिक] (आईं, गईं, सोईं, हँसीं, बैठीं)।\n\n3. अनियमित अकर्मक धातु 'जाना':\n   - 'जाना' का भूतकाल रूप 'जाया' न होकर अनियमित रूप से **गया / गए / गई / गईं** बनता है।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 6.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 6."
+          "target": "रोहन कल सुबह अपनी लंबी यात्रा पूरी करके घर लौटा।",
+          "reading": "rohan kal subah apni lambi yaatra poori karke ghar lauta. [roːɦən kəl sʊbəh əpniː ləmbiː jaːt̪raː puːriː kərkeː ɡʱər lɔːʈaː] (ROH-huhn kuhl SOO-buh uhp-NEE LUHM-bee YAH-trah POO-ree kuhr-KAY ghuhr LOW-tah)",
+          "translation": "Rohan returned home yesterday morning after completing his long journey."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 6-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "सभी सम्मानित अतिथि समय पर सभागार में आए और बहुत प्रसन्न हुए।",
+          "reading": "sabhi sammaanit atithi samay par sabhaagaar mein aaye aur bahut prasann hue. [səbʱiː səmːaːnɪt̪ ət̪ɪt̪ʰɪ səməj pər səbʱaːɡaːr mẽː aːeː ɔːr bəɦʊt̪ prəsənːə hʊeː] (SUH-bhee suhm-MAH-neet uh-TEE-thee suh-MUHY puhr suh-bhah-GAHR mayn AH-yay owr buh-hoot pruh-SUHN-nuh HOO-ay)",
+          "translation": "All respected guests came to the auditorium on time and were very pleased."
+        },
+        {
+          "target": "कल रात को नगर में बहुत तेज़ बारिश हुई और ठंडी हवा चली।",
+          "reading": "kal raat ko nagar mein bahut tez baarish hui aur thandi hava chali. [kəl raːt̪ koː nəɡər mẽː bəɦʊt̪ t̪eːz baːrɪʃ hʊiː ɔːr t̪ʰəɳɖiː həʋaː tʃəliː] (kuhl baht koh NUH-guhr mayn buh-hoot tayz BAH-reesh HOO-ee owr THUHN-dee huh-VAH chuh-LEE)",
+          "translation": "It rained very heavily in the city last night and cold wind blew."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "अकर्मक क्रिया (आना, जाना, सोना) = NO 'ने'! कर्ता पुरुष = आया/गए; कर्ता स्त्री = आई/गईं; जाना → गया!"
+      ],
+      "culturalNotes": [
+        "अतिथियों के आगमन पर 'आप कब आए?' (When did you arrive?) पूछना भारतीय घरों में आत्मीय स्वागत का पहला शिष्टाचार वाक्य है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"टिकट\":",
+          "prompt": "स्त्रीलिंग कर्ता 'सीता' के साथ अकर्मक क्रिया 'जाना' का शुद्ध सामान्य भूतकाल रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 6.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («स्टेशन» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («हवाई अड्डा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सड़क» का अनुचित स्थान)"
+            "सीता घर गई (Seeta ghar gayi - Sita went home)",
+            "सीता ने घर गया",
+            "सीता घर जाया",
+            "सीता ने घर गई"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "अकर्मक क्रिया में 'ने' नहीं लगता और 'जाना' स्त्रीलिंग में «गई» बनता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"टिकट\":",
+          "prompt": "पुल्लिंग बहुवचन कर्ता 'लड़के' के साथ 'आना' क्रिया का सही भूतकाल रूप क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 6.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («हवाई अड्डा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सड़क» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («स्टेशन» का अशुद्ध रूप)"
+            "लड़के समय पर आए (Boys came on time)",
+            "लड़कों ने आया",
+            "लड़के आई",
+            "लड़के आया"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "पुल्लिंग बहुवचन में अकर्मक क्रिया का रूप «आए» (धातु + -ए) होता है।"
         }
       ]
     },
@@ -2589,17 +2598,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"टिकट\": Which sentence is completely correct?",
+          "prompt": "अकर्मक भूतकाल की दृष्टि से व्याकरणसम्मत शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 6.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सड़क» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («स्टेशन» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («हवाई अड्डा» से संबंधित)"
+            "कल सभी छात्राएं समय पर विद्यालय पहुँचीं और प्रार्थना में बैठीं। (All girl students reached school on time yesterday and sat in prayer.)",
+            "कल सभी छात्राओं ने विद्यालय पहुँचा।",
+            "छात्राएं पहुँचे और बैठा।",
+            "छात्राओं ने बैठीं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«पहुँचीं» और «बैठीं» दोनों स्त्रीलिंग बहुवचन अकर्मक क्रियाएं हैं और इनमें 'ने' का प्रयोग नहीं हुआ है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u6-l2": {
@@ -2607,53 +2617,62 @@
     "subject": "hindi",
     "unit": 6,
     "lessonNumber": 2,
-    "title": "सामान्य भूतकाल और ने-नियम (Simple Past & Ergative ने) (Part 2)",
+    "title": "सकर्मक क्रियाएं और कर्ता कारक परसर्ग 'ने' का प्रयोग",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.2) with authentic linguistic precision.",
+    "objective": "सकर्मक क्रियाओं (Transitive Verbs) के भूतकाल में कर्ता के साथ परसर्ग 'ने' (Ergative Case) के अनिवार्य प्रयोग तथा सर्वनामों के रूपांतरण (मैंने, उसने, उन्होंने) में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी व्याकरण की सबसे प्रमुख और अद्वितीय विशेषता 'ने' परसर्ग (Ergative Construction) का नियम है:\n\n1. 'ने' परसर्ग का नियम (The Ergative Rule):\n   - जब भूतकाल में क्रिया **सकर्मक** (Transitive — कर्म लेने वाली, जैसे: पढ़ना, लिखना, खाना, देखना, सुनना, खरीदना, कहना) हो, तो कर्ता के साथ अनिवार्य रूप से **'ने'** जुड़ता है।\n   - 'ने' लगने पर कर्ता अपने **तिर्यक् रूप** (Oblique Case) में आ जाता है।\n\n2. संज्ञाओं के साथ 'ने':\n   - राम ने, सीता ने, अध्यापक ने, लड़के ने (एकवचन);\n   - लड़कों ने, महिलाओं ने, छात्रों ने (बहुवचन)।\n\n3. सर्वनामों के साथ 'ने' के संयुक्त रूप:\n   - मैं + ने = **मैंने** (I)\n   - तू + ने = **तूने** (You)\n   - तुम + ने = **तुमने** (You)\n   - आप + ने = **आपने** (You [आदर])\n   - हम + ने = **हमने** (We)\n   - यह + ने = **इसने** (This/He/She)\n   - वह + ने = **उसने** (That/He/She)\n   - ये + ने = **इन्होंने** (These/They)\n   - वे + ने = **उन्होंने** (Those/They)\n   - कौन + ने = **किसने** (एकवचन) / **किन्होंने** (बहुवचन)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 6.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 6."
+          "target": "मैंने कल पुस्तकालय में बैठकर एक बहुत ज्ञानवर्धक पुस्तक पढ़ी।",
+          "reading": "maine kal pustakaalay mein baithkar ek bahut gyanvardhak pustak padhi. [mɛ̃ːneː kəl pʊst̪əkaːləj mẽː bɛːʈʰkər eːk bəɦʊt̪ ɡjaːnʋərd̪ʱək pʊst̪ək pəɽʱiː] (MY-nay kuhl poos-tuh-KAH-luy mayn BYTH-kuhr ayk buh-hoot gyahn-vuhr-DHUHK poos-tuhk PUHDH-ee)",
+          "translation": "I read a very informative book yesterday sitting in the library."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 6-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "उसने बाज़ार जाकर अपने छोटे भाई के लिए नए कपड़े खरीदे।",
+          "reading": "usne bazaar jaakar apne chhote bhaai ke liye naye kapde khareede. [ʊsneː bəzaːr dʒaːkər əpneː tʃʰoːʈeː bʱaːiː keː lɪjeː nəjeː kəpɽeː kʰəriːd̪eː] (OOS-nay buh-ZAHR JAH-kuhr uhp-NAY CHHOH-tay bhah-EE kay lee-ay nuh-YAY kuhp-DAY khuh-REE-day)",
+          "translation": "He went to the market and bought new clothes for his younger brother."
+        },
+        {
+          "target": "उन्होंने अपने सभी पुराने मित्रों को स्नेहपूर्वक भोजन पर आमंत्रित किया।",
+          "reading": "unhonne apne sabhi puraane mitron ko snehpoorvak bhojan par aamantrit kiya. [ʊnɦõːneː əpneː səbʱiː pʊraːneː mɪt̪rõː koː sneːɦpuːrʋək bʱoːdʒən pər aːmən̪t̪rɪt̪ kɪjaː] (oon-HOHN-nay uhp-NAY SUH-bhee poo-RAH-nay MEET-rohn koh snayh-POOR-vuhk BHOJ-uhn puhr ah-muhn-TREET kee-YAH)",
+          "translation": "They affectionately invited all their old friends to dinner."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "सकर्मक भूतकाल = कर्ता + 'ने'! मैं + ने = मैंने; वह + ने = उसने; वे + ने = उन्होंने; कौन + ने = किसने!"
+      ],
+      "culturalNotes": [
+        "हिंदी में किसी बड़े या सम्मानीय व्यक्ति का उल्लेख करते समय 'उन्होंने कहा' (They said) कहना आदर का अनिवार्य नियम है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"स्टेशन\":",
+          "prompt": "सर्वनाम 'वह' के साथ भूतकाल में सकर्मक क्रिया के लिए कौन-सा कर्ता रूप बनेगा?",
           "options": [
-            "हम इस पाठ में इकाई 6.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («हवाई अड्डा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सड़क» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («शहर» का अनुचित स्थान)"
+            "उसने (Usne - He/She in ergative past)",
+            "वह ने",
+            "उसको",
+            "उससे"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "वह + ने का मानक संयुक्त रूप «उसने» बनता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"स्टेशन\":",
+          "prompt": "सर्वनाम 'वे' (आदरसूचक/बहुवचन) के साथ 'ने' का शुद्ध रूप क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 6.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सड़क» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («शहर» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («हवाई अड्डा» का अशुद्ध रूप)"
+            "उन्होंने (Unhonne - They in ergative past)",
+            "वे ने",
+            "उनने",
+            "इनने"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "वे + ने का प्रामाणिक मानक रूप «उन्होंने» है।"
         }
       ]
     },
@@ -2661,17 +2680,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"स्टेशन\": Which sentence is completely correct?",
+          "prompt": "कर्ता कारक 'ने' के सही रूप वाला मानक वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 6.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («शहर» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («हवाई अड्डा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सड़क» से संबंधित)"
+            "मैंने अपना काम समाप्त किया और उन्होंने मेरी प्रशंसा की। (I finished my work and they praised me.)",
+            "मैं ने काम समाप्त किया और वे ने प्रशंसा किया।",
+            "मुझने काम किया और उनने देखा।",
+            "मैंने काम सो गया।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«मैंने» और «उन्होंने» दोनों मानक 'ने'-युक्त सर्वनाम रूप हैं।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u6-l3": {
@@ -2679,53 +2699,62 @@
     "subject": "hindi",
     "unit": 6,
     "lessonNumber": 3,
-    "title": "सामान्य भूतकाल और ने-नियम (Simple Past & Ergative ने) (Part 3)",
+    "title": "कर्म-अन्वय नियम (Object-Verb Agreement in Past Tense)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.3) with authentic linguistic precision.",
+    "objective": "सकर्मक भूतकाल में क्रिया का कर्ता से स्वतंत्र होकर कर्म (Object) के लिंग और वचन के अनुसार बदलने के कर्म-अन्वय (Karma-Anwaya) नियम में महारत प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "जब कर्ता के साथ 'ने' लग जाता है, तो क्रिया का कर्ता से संबंध टूट जाता है और क्रिया **कर्म के लिंग और वचन** के अनुसार बदलती है:\n\n1. कर्म-अन्वय के चार निश्चित नियम:\n   - **पुल्लिंग एकवचन कर्म**: क्रिया अंत में *'-आ'* लेगी (चाहे कर्ता स्त्री हो या पुरुष):\n     - राम ने **सेब खाया**। (सेब = पु.एक.)\n     - सीता ने **सेब खाया**। (क्रिया 'खाया' सेब के अनुसार है!)\n   - **पुल्लिंग बहुवचन कर्म**: क्रिया अंत में *'-ए'* लेगी:\n     - राम ने दो **सेब खाए**।\n     - सीता ने दो **सेब खाए**।\n   - **स्त्रीलिंग एकवचन कर्म**: क्रिया अंत में *'-ई'* लेगी:\n     - राम ने **रोटी खाई**। (रोटी = स्त्री.एक.)\n     - लड़कों ने **किताब पढ़ी**।\n   - **स्त्रीलिंग बहुवचन कर्म**: क्रिया अंत में *'-ईं'* [अनुनासिक] लेगी:\n     - राम ने दो **रोटियाँ खाईं**।\n     - लड़कों ने कई **किताबें पढ़ीं**।\n\n2. महत्वपूर्ण निष्कर्ष:\n   - 'ने' वाले वाक्य में क्रिया कभी कर्ता को नहीं देखती, केवल कर्म के लिंग-वचन का अनुसरण करती है।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 6.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 6."
+          "target": "अमित ने एक नया मकान खरीदा और रीता ने दो नई गाड़ियाँ खरीदीं।",
+          "reading": "amit ne ek naya makaan khareeda aur reeta ne do nayi gaadiyaan khareedeen. [əmɪt̪ neː eːk nəjaː məkaːn kʰəriːd̪aː ɔːr riːt̪aː neː d̪oː nəiː ɡaːɽɪjaː̃ kʰəriːd̪ĩː] (UH-meet nay ayk nuh-YAH muh-KAHN khuh-REE-dah owr REE-tah nay doh nuh-EE GAH-dee-yahn khuh-REE-deen)",
+          "translation": "Amit bought a new house and Reeta bought two new cars."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 6-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "सभी छात्रों ने मिलकर गणित के कठिन प्रश्न हल किए।",
+          "reading": "sabhi chhaatron ne milkar ganit ke kathin prashn hal kiye. [səbʱiː tʃʰaːt̪rõː neː mɪlkər ɡəɳɪt̪ keː kəʈʰɪn prəʃnə həl kɪjeː] (SUH-bhee CHHAH-trohn nay MEEL-kuhr GUH-neet kay KUH-theen pruhsh-nuh huhl kee-YAY)",
+          "translation": "All the students together solved the difficult questions of mathematics."
+        },
+        {
+          "target": "मेरी माताजी ने सुबह स्वादिष्ट रोटियाँ और सब्ज़ियाँ बनाईं।",
+          "reading": "meri maataaji ne subah svaadisht rotiyaan aur sabziyaan banayeen. [meːriː maːt̪aːdʒiː neː sʊbəh sʋaːd̪ɪʂʈ roːʈɪjaː̃ ɔːr səbzɪjaː̃ bənaːĩː] (MAY-ree mah-tah-JEE nay SOO-buh SVAH-deesht roh-TEE-yahn owr suhb-ZEE-yahn buh-nah-EEN)",
+          "translation": "My mother made delicious rotis and vegetables in the morning."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "कर्ता पर 'ने' लगा = क्रिया ने कर्म को देखा! सेब (पु.) = खाया/खाए; किताब (स्त्री.) = पढ़ी/पढ़ीं!"
+      ],
+      "culturalNotes": [
+        "हिंदी की इस कर्म-अन्वय व्यवस्था को समझना विदेशी शिक्षार्थियों के लिए सबसे क्रांतिकारी कदम माना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"हवाई अड्डा\":",
+          "prompt": "वाक्य «राहुल ने दो किताबें ___» में कर्म 'किताबें' (स्त्रीलिंग बहुवचन) के अनुसार कौन-सी क्रिया आएगी?",
           "options": [
-            "हम इस पाठ में इकाई 6.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सड़क» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («शहर» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दुकान» का अनुचित स्थान)"
+            "पढ़ीं (Padheen - Read [fem. plural agreement])",
+            "पढ़ा",
+            "पढ़े",
+            "पढ़ी"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "स्त्रीलिंग बहुवचन कर्म 'किताबें' के अनुसार क्रिया अनुनासिक रूप «पढ़ीं» होगी।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"हवाई अड्डा\":",
+          "prompt": "वाक्य «सीता ने एक बड़ा मकान ___» में कर्म 'मकान' (पुल्लिंग एकवचन) के अनुसार सही क्रिया चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 6.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («शहर» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दुकान» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सड़क» का अशुद्ध रूप)"
+            "देखा (Dekha - Saw [masc. singular agreement])",
+            "देखी",
+            "देखे",
+            "देखीं"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "कर्म 'मकान' पुल्लिंग एकवचन है, अतः कर्ता स्त्रीलिंग होने पर भी क्रिया «देखा» होगी।"
         }
       ]
     },
@@ -2733,17 +2762,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"हवाई अड्डा\": Which sentence is completely correct?",
+          "prompt": "कर्म-अन्वय के नियमों के अनुसार सर्वथा शुद्ध वाक्य का चयन कीजिए:",
           "options": [
-            "हम इस पाठ में इकाई 6.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दुकान» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सड़क» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («शहर» से संबंधित)"
+            "लड़कों ने चाय पी और लड़कियों ने फल खाए। (Boys drank tea and girls ate fruits.)",
+            "लड़कों ने चाय पिया और लड़कियों ने फल खाई।",
+            "लड़कों ने चाय पिए।",
+            "लड़कियों ने फल खाया।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«चाय पी» (चाय स्त्रीलिंग है) और «फल खाए» (फल बहुवचन पुल्लिंग है) में कर्म-अन्वय पूर्णतः सटीक है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u6-l4": {
@@ -2751,53 +2781,62 @@
     "subject": "hindi",
     "unit": 6,
     "lessonNumber": 4,
-    "title": "सामान्य भूतकाल और ने-नियम (Simple Past & Ergative ने) (Part 4)",
+    "title": "तटस्थ अन्वय / भावे प्रयोग: जब कर्म के साथ 'को' लगा हो",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.4) with authentic linguistic precision.",
+    "objective": "जब कर्ता के साथ 'ने' और कर्म के साथ 'को' दोनों परसर्ग उपस्थित हों, तो क्रिया के तटस्थ रूप (तटस्थ अन्वय / भावे प्रयोग — पुल्लिंग एकवचन -आ) के नियम को समझना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी व्याकरण का एक अत्यंत महत्वपूर्ण और अचूक नियम 'तटस्थ अन्वय' (Neutral Agreement / भावे प्रयोग) कहलाता है:\n\n1. नियम की स्थिति:\n   - जब कर्ता के साथ **'ने'** लगा हो और निश्चित सजीव कर्म के साथ **'को'** लगा हो;\n   - ऐसी स्थिति में क्रिया न तो कर्ता के अनुसार बदल सकती है (क्योंकि कर्ता पर 'ने' है) और न ही कर्म के अनुसार बदल सकती है (क्योंकि कर्म पर 'को' है)।\n\n2. तटस्थ रूप (Default Masculine Singular):\n   - जब कर्ता और कर्म दोनों परसर्गों से बंधे हों, तो क्रिया हमेशा **पुल्लिंग एकवचन (-आ)** के स्थायी तटस्थ रूप में रहती है:\n     - राम ने सीता को **देखा**। (न कि 'देखी', क्योंकि सीता के साथ 'को' है)\n     - सीता ने राम को **देखा**।\n     - अध्यापक ने लड़कियों को **बुलाया**। (न कि 'बुलाईं')\n     - पुलिस ने चोरों को **पकड़ा**।\n     - मैंने अपनी बहनों को **समझाया**।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 6.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 6."
+          "target": "डॉक्टर साहब ने सभी बीमार बच्चों को बहुत ध्यान से देखा।",
+          "reading": "doctor sahab ne sabhi beemaar bachhon ko bahut dhyan se dekha. [ɖɔːkʈər saːɦəb neː səbʱiː biːmaːr bətʃːʰõː koː bəɦʊt̪ d̪ʱjaːn seː d̪eːkʰaː] (DAHK-tuhr SAH-huhb nay SUH-bhee bee-MAHR BUHTCH-chohn koh buh-hoot DHYAHN say DAY-khah)",
+          "translation": "The doctor examined all the sick children very attentively."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 6-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "अध्यापिका जी ने उस मेधावी नई छात्रा को मंच पर बुलाया।",
+          "reading": "adhyaapika jee ne us medhaavi nayi chhaatra ko manch par bulaya. [əd̪ʱjaːpɪkaː dʒiː neː ʊs meːd̪ʱaːʋiː nəiː tʃʰaːt̪raː koː mənntʃ pər bʊlaːjaː] (uh-DHYAH-pee-kah jee nay oos may-DHAH-vee nuh-EE CHHAH-trah koh MUHNCH puhr boo-LAH-yah)",
+          "translation": "The respected female teacher called that brilliant new female student onto the stage."
+        },
+        {
+          "target": "माता-पिता ने अपने दोनों बेटों और बेटियों को अच्छी शिक्षा दी।",
+          "reading": "maata-pita ne apne dono beton aur betiyon ko achhi shiksha di. [maːt̪aː pɪt̪aː neː əpneː d̪oːnõː beːʈõː ɔːr beːʈɪjõː koː ətʃːʰiː ʃɪkʃaː d̪iː] (mah-tah-PEE-tah nay uhp-NAY doh-NOHN BAY-tohn owr bay-TEE-yohn koh UHTCH-chee SHEEK-shah dee)",
+          "translation": "The parents gave good education to both their sons and daughters."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "कर्ता पर 'ने' + कर्म पर 'को' = क्रिया हमेशा 'आ' (पुल्लिंग एकवचन)! राम ने सीता को देखा; सीता ने राम को देखा!"
+      ],
+      "culturalNotes": [
+        "बोलचाल में कई लोग 'सीता को देखी' जैसी अशुद्धियाँ करते हैं, किंतु मानक साहित्यिक हिंदी में 'सीता को देखा' ही एकमात्र शुद्ध रूप है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"सड़क\":",
+          "prompt": "वाक्य «अध्यापक ने छात्राओं को ___» में शुद्ध क्रिया रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 6.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («शहर» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दुकान» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («रुपया» का अनुचित स्थान)"
+            "बुलाया (Bulaya - Neutral masculine singular default)",
+            "बुलाईं",
+            "बुलाई",
+            "बुलाए"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "कर्म 'छात्राओं' के साथ 'को' लगा है, अतः तटस्थ अन्वय के नियमानुसार क्रिया पुल्लिंग एकवचन «बुलाया» होगी।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"सड़क\":",
+          "prompt": "वाक्य «पुलिस ने उस महिला को ___» में सही क्रिया रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 6.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दुकान» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («रुपया» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («शहर» का अशुद्ध रूप)"
+            "बचाया (Bachaya - Saved [neutral default])",
+            "बचाई",
+            "बचाए",
+            "बचाईं"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'महिला को' में 'को' परसर्ग के कारण क्रिया तटस्थ रूप «बचाया» में रहेगी।"
         }
       ]
     },
@@ -2805,17 +2844,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"सड़क\": Which sentence is completely correct?",
+          "prompt": "तटस्थ अन्वय (भावे प्रयोग) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 6.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («रुपया» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («शहर» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दुकान» से संबंधित)"
+            "माताजी ने अपनी बेटियों को प्यार से समझाया। (Mother affectionately explained to her daughters.)",
+            "माताजी ने अपनी बेटियों को समझाईं।",
+            "माताजी ने बेटियों को समझाई।",
+            "माताजी बेटियों समझाई।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«बेटियों को समझाया» में 'को' के कारण क्रिया का तटस्थ रूप 'समझाया' व्याकरणसम्मत है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u6-l5": {
@@ -2823,53 +2863,62 @@
     "subject": "hindi",
     "unit": 6,
     "lessonNumber": 5,
-    "title": "सामान्य भूतकाल और ने-नियम (Simple Past & Ergative ने) (Part 5)",
+    "title": "'ने' के अपवाद और अनियमित भूतकालिक कृदंत (किया, दिया, लिया, लाया)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.5) with authentic linguistic precision.",
+    "objective": "अनियमित भूतकालिक कृदंतों (करना → किया, देना → दिया, लेना → लिया, पीना → पिया) तथा सकर्मक होने के बावजूद 'ने' न लेने वाली अपवाद धातुओं (लाना, भूलना, बोलना) को सीखना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी भूतकाल में कुछ प्रमुख अनियमित कृदंत और 'ने' के महत्वपूर्ण अपवाद हैं:\n\n1. प्रमुख अनियमित भूतकालिक कृदंत (Irregular Past Participles):\n   - *करना* (To do) → किया, किए, की, कीं\n   - *देना* (To give) → दिया, दिए, दी, दीं\n   - *लेना* (To take) → लिया, लिए, ली, लीं\n   - *पीना* (To drink) → पिया, पिए, पी, पीं\n   - *होना* (To be/happen) → हुआ, हुए, हुई, हुईं\n   - *जाना* (To go) → गया, गए, गई, गईं।\n\n2. 'ने' के प्रमुख अपवाद (Verbs that do NOT take 'ने'):\n   - *«लाना»* (To bring): यद्यपि यह सकर्मक है, किंतु इसके साथ कभी 'ने' नहीं लगता:\n     - *शुद्ध*: मैं किताब लाया। (न कि 'मैंने लाया')\n     - *शुद्ध*: वह फल लाई।\n   - *«भूलना»* (To forget): सामान्यतः 'ने' नहीं लेता:\n     - वह रास्ता भूल गया।\n   - *«बोलना»* (To speak): सामान्यतः 'ने' नहीं लेता:\n     - वह सच बोला।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 6.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 6."
+          "target": "रोहन बाज़ार से ताज़ा दूध, फल और नई पुस्तकें लाया।",
+          "reading": "rohan bazaar se taaza doodh, phal aur nayi pustakein laaya. [roːɦən bəzaːr seː t̪aːzaː d̪uːd̪ʱ pʰəl ɔːr nəiː pʊst̪əkẽː laːjaː] (ROH-huhn buh-ZAHR say TAH-zah doodh, phuhl owr nuh-EE POOS-tuh-kayn LAH-yah)",
+          "translation": "Rohan brought fresh milk, fruits and new books from the market."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 6-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "अमित हड़बड़ी में अपना ज़रूरी पहचान-पत्र घर पर ही भूल गया।",
+          "reading": "amit hadbadi mein apna zaroori pahchaan-patr ghar par hi bhool gaya. [əmɪt̪ ɦəɽbəɽiː mẽː əpnaː zəruːriː pɛɦtʃaːn pət̪r ɡʱər pər ɦiː bʱuːl ɡəjaː] (UH-meet huhd-buh-DEE mayn uhp-NAH zuh-ROO-ree puh-h-chahn PUHT-ruh ghuhr puhr hee BHOOL guh-YAH)",
+          "translation": "Amit forgot his important identity card at home in a hurry."
+        },
+        {
+          "target": "हमने आज सुबह ही अपना सारा गृहकार्य समय पर पूरा कर लिया।",
+          "reading": "humne aaj subah hi apna saara grihkaary samay par poora kar liya. [həmneː aːdʒ sʊbəh ɦiː əpnaː saːraː ɡrɪɦkaːrjə səməj pər puːraː kər lɪjaː] (HUM-nay ahj SOO-buh hee uhp-NAH SAH-rah greeh-KAHR-yuh suh-MUHY puhr POO-rah kuhr LEE-yah)",
+          "translation": "We completed all our homework on time this morning itself."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "'लाना' सकर्मक है पर 'ने' नहीं लेता: मैं लाया (not मैंने लाया)! करना → किया, देना → दिया, लेना → लिया!"
+      ],
+      "culturalNotes": [
+        "हिंदी में 'लाना' (ले + आना) का मूल स्वभाव 'आना' जैसा होने के कारण यह व्याकरणिक रूप से 'ने' रहित रहता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"शहर\":",
+          "prompt": "सकर्मक क्रिया 'लाना' (To bring) के भूतकाल का शुद्ध प्रयोग कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 6.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दुकान» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («रुपया» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पैसा» का अनुचित स्थान)"
+            "रोहन फल लाया (Rohan brought fruits [No 'ने'])",
+            "रोहन ने फल लाया",
+            "रोहन ने फल लाई",
+            "रोहन ने लाया फल"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "'लाना' क्रिया अपवाद स्वरूप 'ने' नहीं लेती, अतः «रोहन फल लाया» शुद्ध है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"शहर\":",
+          "prompt": "क्रिया 'देना' का स्त्रीलिंग एकवचन भूतकालिक रूप क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 6.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («रुपया» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पैसा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दुकान» का अशुद्ध रूप)"
+            "दी (Dee - Gave [fem. singular])",
+            "दिया",
+            "दिए",
+            "दीं"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'देना' का स्त्रीलिंग एकवचन भूतकालिक रूप «दी» होता है (जैसे: पुस्तक दी)।"
         }
       ]
     },
@@ -2877,17 +2926,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"शहर\": Which sentence is completely correct?",
+          "prompt": "अनियमित कृदंत और 'ने' के अपवादों की दृष्टि से पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 6.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पैसा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दुकान» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («रुपया» से संबंधित)"
+            "सीता बाज़ार से मिठाई लाई और हमने चाय पी। (Sita brought sweets from the market and we drank tea.)",
+            "सीता ने मिठाई लाई और हमने चाय पिया।",
+            "सीता ने मिठाई लाया।",
+            "हम चाय पी।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«सीता मिठाई लाई» ('लाना' में 'ने' नहीं) और «हमने चाय पी» ('पीना' में कर्म-अन्वय) पूर्णतः शुद्ध हैं।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u7-l1": {
