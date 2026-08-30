@@ -4995,53 +4995,62 @@
     "subject": "swahili",
     "unit": 12,
     "lessonNumber": 1,
-    "title": "Ngeli ya 7/8 (KI-VI) na Vionyeshi (Noun Classes 7/8 KI-VI) (Part 1)",
+    "title": "Ngeli ya 7/8 (KI-VI): Nomino za Vitu, Lugha, na Miundo ya Umoja na Wingi (Class 7/8 Vocabulary: ki-/ch- -> vi-/vy-)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.1) with authentic precision.",
+    "objective": "Kutambua na kutumia nomino za Ngeli ya 7/8 (KI-VI) katika umoja (ki- / ch-) na wingi (vi- / vy-) zinazojumuisha vifaa, lugha za mataifa, na vyakula.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Ngeli ya 7/8 (KI-VI): Muundo wa Nomino na Msamiati:\n\n1. **Muundo wa Umoja (Class 7: Kiambishi ki- / ch-)**:\n   - Kabla ya konsonanti, nomino huanza na **ki-**:\n     - *kitabu* (book), *kiti* (chair), *kikombe* (cup), *kisu* (knife), *kioo* (mirror / glass), *kisima* (well), *kisiwa* (island), *kitanda* (bed), *kichwa* (head), *kifua* (chest).\n   - Kabla ya irabu, kiambishi hubadilika kuwa **ch-** (*ki- + irabu -> ch-*):\n     - *chumba* (room) [ki-umba],\n     - *chuo* (college / university) [ki-uo],\n     - *chakula* (food) [ki-akula],\n     - *chombo* (vessel / tool / container) [ki-ombo],\n     - *choo* (toilet / latrine) [ki-oo].\n   - **Majina ya Lugha** huingia katika ngeli hii kwa kiambishi **Ki-**:\n     - *Kiswahili, Kiingereza, Kifaransa, Kiarabu, Kireno, Kijerumani, Kichina*.\n\n2. **Muundo wa Wingi (Class 8: Kiambishi vi- / vy-)**:\n   - Kabla ya konsonanti, nomino huanza na **vi-**:\n     - *vitabu, viti, vikombe, visu, vioo, visima, visiwa, vitanda, vichwa, vifua*.\n   - Kabla ya irabu, kiambishi hubadilika kuwa **vy-** (*vi- + irabu -> vy-*):\n     - *vyumba, vyuo, vyakula, vyombo, vyoo*.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 12."
+          "target": "Kitabu hiki cha Kiswahili kina mafunzo bora na vitabu hivi vyote viko maktabani.",
+          "reading": "Ki-ta-bu hi-ki cha Ki-swa-hi-li ki-na ma-fu-nzo bo-ra na vi-ta-bu hi-vi vyo-te vi-ko ma-kta-ba-ni. [kiˈtɑbu ˈhiki tʃɑ kiswɑˈhili ˈkinɑ mɑˈfunzɔ ˈbɔrɑ nɑ viˈtɑbu ˈhivi ˈvjɔtɛ ˈvikɔ mɑktɑˈbɑni] (kee-TAH-boo HEE-kee chah kee-swah-HEE-lee KEE-nah mah-FOON-zoh BOH-rah nah vee-TAH-boo HEE-vee VYOH-tay VEE-koh mahk-tah-BAH-nee)",
+          "translation": "This Swahili book [kitabu hiki cha Kiswahili] has excellent lessons and all these books [vitabu hivi] are in the library."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 12-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Chumba chetu kimesafishwa vizuri na vyumba vyote vya wageni vimeandaliwa.",
+          "reading": "Chu-mba che-tu ki-me-sa-fi-shwa vi-zu-ri na vyu-mba vyo-te vya wa-ge-ni vi-me-a-nda-li-wa. [ˈtʃumbɑ ˈtʃɛtu kimɛsɑˈfiʃwɑ viˈzuri nɑ ˈvjumbɑ ˈvjɔtɛ vjɑ wɑˈɡɛni vimɛɑndɑˈliwɑ] (CHOO-m-bah CHAY-too kee-may-sah-FEE-shwah vee-ZOO-ree nah VYOO-m-bah VYOH-tay vyah wah-GAY-nee vee-may-ahn-dah-LEE-wah)",
+          "translation": "Our room [chumba chetu] has been cleaned well and all guest rooms [vyumba vyote] are prepared."
+        },
+        {
+          "target": "Chakula kitamu cha jioni kimeliwa chote na vyakula vya asili vinapendwa sana.",
+          "reading": "Cha-ku-la ki-ta-mu cha ji-o-ni ki-me-li-wa cho-te na vya-ku-la vya a-si-li vi-na-pe-ndwa sa-na. [tʃɑˈkulɑ kiˈtɑmu tʃɑ ʤiˈɔni kimɛˈliwɑ ˈtʃɔtɛ nɑ vjɑˈkulɑ vjɑ ɑˈsili vinɑˈpɛndwɑ ˈsɑnɑ] (chah-KOO-lah kee-TAH-moo chah jee-OH-nee kee-may-LEE-wah CHOH-tay nah vyah-KOO-lah vyah ah-SEE-lee vee-nah-PAYN-dwah SAH-nah)",
+          "translation": "The delicious dinner [chakula kitamu] was all eaten and traditional foods [vyakula vya asili] are loved very much."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ngeli ya KI-VI: Umoja = KI- / CH- (kitabu, chumba, chakula); Wingi = VI- / VY- (vitabu, vyumba, vyakula)!"
+      ],
+      "culturalNotes": [
+        "Lugha ya Kiswahili inachukua kiambishi cha ngeli ya KI-VI ('Ki-') kumaanisha 'namna/utamaduni au lugha ya Waswahili'."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Likizo\":",
+          "prompt": "Wingi sahihi wa nomino \"Chuo\" (college / university) katika Ngeli ya KI-VI ni upi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mkutano»",
-            "Mpangilio usio sahihi wa viambishi katika «Mradi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mkataba»"
+            "vyuo (Colleges / universities - Correct Class 8 plural prefix 'vy-' before vowel)",
+            "machuo (Kosa la kutumia kiambishi cha JI-MA)",
+            "vichuo (Kosa la kutounganisha 'vi-' na irabu 'u')",
+            "mavyuo (Mchanganyiko usio sahihi wa viambishi viwili)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino «Chuo» (ambayo asili yake ni *ki-uo*) hubadilika kuwa «vyuo» (*vi-uo*) katika wingi."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Likizo\":",
+          "prompt": "Nomino ipi kati ya zifuatazo ni nomino ya Ngeli ya 7 (KI-VI umoja) inayoanza na 'ch-' kabla ya irabu?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Mradi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mkataba»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mkutano»"
+            "chumba (Room - Class 7 noun from ki-umba)",
+            "chui (Leopard - N-N noun / Class 9 animal)",
+            "chai (Tea - N-N noun / Class 9 mass noun)",
+            "chapa (Brand/print - N-N noun)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Chumba» (wingi: «vyumba») ni nomino halisi ya Ngeli ya KI-VI."
         }
       ]
     },
@@ -5049,17 +5058,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Likizo\": Which sentence is completely correct?",
+          "prompt": "Chagua jozi zote zilizo sahihi za umoja na wingi katika Ngeli ya 7/8 (KI-VI):",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mkataba»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mkutano»",
-            "Mpangilio usio sahihi wa viambishi katika «Mradi»"
+            "Kitabu -> vitabu, Chumba -> vyumba, Chakula -> vyakula, Kiti -> viti, Chombo -> vyombo.",
+            "Gari -> magari, Jina -> majina, Neno -> maneno.",
+            "Mti -> miti, Mto -> mito, Mkono -> mikono.",
+            "Mtoto -> watoto, Mtu -> watu, Mwalimu -> walimu."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Kitabu/vitabu, chumba/vyumba, chakula/vyakula, kiti/viti, na chombo/vyombo ni mifano halisi ya Ngeli ya KI-VI."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u12-l2": {
@@ -5067,53 +5077,62 @@
     "subject": "swahili",
     "unit": 12,
     "lessonNumber": 2,
-    "title": "Ngeli ya 7/8 (KI-VI) na Vionyeshi (Noun Classes 7/8 KI-VI) (Part 2)",
+    "title": "Upatanisho wa Ngeli ya 7/8 (KI-VI) katika Vitenzi na Viashiria (Verbal Concord & Demonstratives in KI-VI)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.2) with authentic precision.",
+    "objective": "Kutambua na kutumia viambishi vya upatanisho wa kitenzi (ki- kwa umoja, vi- kwa wingi) na viashiria vyote vitatu (hiki/hivi, hicho/hivyo, kile/vile) katika Ngeli ya KI-VI.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Upatanisho wa Ngeli ya 7/8 katika Vitenzi na Viashiria:\n\n1. **Upatanisho wa Kitenzi (Verbal Concord)**:\n   - **Umoja (Class 7)**: Kiambishi cha mtendaji ni **ki-**, kiambishi cha mtendwa ni **-ki-**:\n     - *Kiti **ki**mevunjika* (The chair has broken)\n     - *Chumba **ki**mesafishwa* (The room has been cleaned)\n     - *Mimi nina**ki**soma kitabu hiki* (I am reading this book)\n   - **Wingi (Class 8)**: Kiambishi cha mtendaji ni **vi-**, kiambishi cha mtendwa ni **-vi-**:\n     - *Viti **vi**mevunjika* (The chairs have broken)\n     - *Vyumba **vi**mesafishwa* (The rooms have been cleaned)\n     - *Mimi nina**vi**soma vitabu hivi* (I am reading these books)\n\n2. **Viashiria / Vionyeshi katika Ngeli ya KI-VI (Demonstratives)**:\n   - **Karibu (Near: This / These)**:\n     - Umoja: **hiki** (*kitabu hiki* = this book, *chumba hiki* = this room)\n     - Wingi: **hivi** (*vitabu hivi* = these books, *vyumba hivi* = these rooms)\n   - **Mbali Kidogo / Rejelewa (Reference: That / Those)**:\n     - Umoja: **hicho** (*kitabu hicho* = that book mentioned)\n     - Wingi: **hivyo** (*vitabu hivyo* = those books mentioned)\n   - **Mbali Zaidi (Far: That / Those over there)**:\n     - Umoja: **kile** (*kitabu kile* = that book yonder)\n     - Wingi: **vile** (*vitabu vile* = those books yonder)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 12."
+          "target": "Kiti hiki kilivunjika jana lakini fundi amekitengeneza vizuri.",
+          "reading": "Ki-ti hi-ki ki-li-vu-nji-ka ja-na la-ki-ni fu-ndi a-me-ki-te-nge-ne-za vi-zu-ri. [ˈkiti ˈhiki kilivunˈʤikɑ ˈʤɑnɑ lɑˈkini ˈfundi ɑmɛkitɛŋɡɛˈnɛzɑ viˈzuri] (KEE-tee HEE-kee kee-lee-voon-JEE-kah JAH-nah lah-KEE-nee FOON-dee ah-may-kee-tayn-gay-NAY-zah vee-ZOO-ree)",
+          "translation": "This chair [kiti hiki] broke [kilivunjika] yesterday, but the artisan repaired it [OP -ki-: amekitengeneza] well."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 12-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Chombo kile kilitua bandarini na vyombo hivi vyote vinasafirisha abiria salama.",
+          "reading": "Cho-mbo ki-le ki-li-tua ba-nda-ri-ni na vyo-mbo hi-vi vyo-te vi-na-sa-fi-ri-sha a-bi-ria sa-la-ma. [ˈtʃɔmbɔ ˈkilɛ kiliˈtuɑ bɑndɑˈrini nɑ ˈvjɔmbɔ ˈhivi ˈvjɔtɛ vinɑsɑfiriˈʃɑ ɑbiˈriɑ sɑˈlɑmɑ] (CHOH-m-boh KEE-lay kee-lee-TOO-ah bahn-dah-REE-nee nah VYOH-m-boh HEE-vee VYOH-tay vee-nah-sah-fee-REE-shah ah-bee-REE-ah sah-LAH-mah)",
+          "translation": "That vessel yonder [chombo kile] docked [kilitua] at the port and all these vessels [vyombo hivi] transport passengers safely."
+        },
+        {
+          "target": "Kikombe hicho kilianguka sakafuni lakini hakikuvunjika kamwe.",
+          "reading": "Ki-ko-mbe hi-cho ki-li-a-ngu-ka sa-ka-fu-ni la-ki-ni ha-ki-ku-vu-nji-ka ka-mwe. [kiˈkɔmbɛ ˈhitʃɔ kiliɑˈŋɡukɑ sɑkɑˈfuni lɑˈkini hɑkikuvunˈʤikɑ ˈkɑmwɛ] (kee-KOHM-bay HEE-choh kee-lee-ahn-GOO-kah sah-kah-FOO-nee lah-KEE-nee hah-kee-koo-voon-JEE-kah KAH-mway)",
+          "translation": "That cup [kikombe hicho] fell [kilianguka] onto the floor, but it did not break [negated past: hakikuvunjika] at all."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vitenzi na Viashiria vya KI-VI: Umoja = Ki- / hiki / hicho / kile; Wingi = Vi- / hivi / hivyo / vile!"
+      ],
+      "culturalNotes": [
+        "Vyombo vya asili vya baharini kama dau, ngalawa, na mashua vinawakilisha urithi mkubwa wa ubaharia wa Waswahili katika Bahari ya Hindi."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mkutano\":",
+          "prompt": "Sentensi ipi inatumia kiashiria sahihi cha \"mbali kidogo\" (hicho) na kitenzi cha umoja katika Ngeli ya KI-VI?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mradi»",
-            "Mpangilio usio sahihi wa viambishi katika «Mkataba»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Biashara»"
+            "Kitabu hicho kilisomwa na wanafunzi wote darasani. (That book was read by all students in class - Correct Class 7 demonstrative 'hicho' and verbal prefix 'ki-')",
+            "Kitabu hilo lilisomwa (Kosa la kutumia upatanisho wa JI-MA)",
+            "Kitabu huo ulisomwa (Kosa la kutumia upatanisho wa M-MI)",
+            "Kitabu hiyo ilisomwa (Kosa la kutumia upatanisho wa N-N)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino ya umoja ya KI-VI «Kitabu» huchukua kiashiria «hicho» na kiambishi cha kitenzi «ki-»: «Kitabu hicho kilisomwa»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mkutano\":",
+          "prompt": "Unapozungumzia vyumba vingi vilivyo mbali zaidi (yonder), kirai sahihi cha kionyeshi ni kipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Mkataba»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Biashara»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mradi»"
+            "vyumba vile (Those rooms over there - Correct Class 8 far demonstrative 'vile')",
+            "vyumba yale (Kosa la kutumia kiashiria cha JI-MA)",
+            "vyumba ile (Kosa la kutumia kiashiria cha M-MI / N-N)",
+            "vyumba kile (Kosa la kutumia umoja)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Katika wingi wa Ngeli ya KI-VI, kiashiria cha mbali zaidi ni «vile»: «vyumba vile»."
         }
       ]
     },
@@ -5121,17 +5140,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mkutano\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha sahihi ya viashiria vitatu katika Ngeli ya KI-VI kwa umoja na wingi:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Biashara»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mradi»",
-            "Mpangilio usio sahihi wa viambishi katika «Mkataba»"
+            "Umoja: hiki (this), hicho (that), kile (that yonder); Wingi: hivi (these), hivyo (those), vile (those yonder).",
+            "Umoja: hili, hilo, lile; Wingi: haya, hayo, yale.",
+            "Umoja: huu, huo, ule; Wingi: hii, hiyo, ile.",
+            "Umoja: huyu, huyo, yule; Wingi: hawa, hao, wale."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Viashiria vya Ngeli ya KI-VI ni «hiki, hicho, kile» (umoja) na «hivi, hivyo, vile» (wingi)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u12-l3": {
@@ -5139,53 +5159,62 @@
     "subject": "swahili",
     "unit": 12,
     "lessonNumber": 3,
-    "title": "Ngeli ya 7/8 (KI-VI) na Vionyeshi (Noun Classes 7/8 KI-VI) (Part 3)",
+    "title": "Upatanisho wa Vivumishi vya Sifa katika Ngeli ya 7/8 (Adjective Concord in KI-VI)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.3) with authentic precision.",
+    "objective": "Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KI-VI (ki-/ch- katika umoja na vi-/vy- katika wingi kulingana na muundo wa konsonanti na irabu).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vivumishi vya Sifa katika Ngeli ya 7/8 (Adjective Concord in KI-VI):\n\n1. **Vivumishi vya Sifa katika Umoja (Class 7: Kiambishi ki- / ch-)**:\n   - Kabla ya Konsonanti: **ki-**:\n     - *kitabu **kizuri*** (a fine book), *kiti **kikubwa*** (a big chair), *chumba **kirefu*** (a long room), *kisu **kikali*** (a sharp knife), *chakula **kitamu*** (delicious food), *chombo **kizito*** (a heavy vessel).\n   - Kabla ya Irabu: **ch-** (*ki- + irabu -> ch-*):\n     - *kitabu **cheusi*** (*ki-eusi*), *chumba **cheupe*** (*ki-eupe*), *chombo **chepesi*** (*ki-epesi*), *kitanda **chembamba*** (*ki-embamba*), *kitabu **chingine*** (*ki-ingine*).\n\n2. **Vivumishi vya Sifa katika Wingi (Class 8: Kiambishi vi- / vy-)**:\n   - Kabla ya Konsonanti: **vi-**:\n     - *vitabu **vizuri***, *viti **vikubwa***, *vyumba **virefu***, *visu **vikali***, *vyakula **vitamu***.\n   - Kabla ya Irabu: **vy-** (*vi- + irabu -> vy-*):\n     - *vitabu **vyeusi*** (*vi-eusi*), *vyumba **vyeupe*** (*vi-eupe*), *vyombo **vyepesi*** (*vi-epesi*), *vitanda **vyembamba*** (*vi-embamba*), *vitabu **vingine*** (*vi-ingine*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 12."
+          "target": "Chumba cheupe na kikubwa kina madirisha mazuri na hewa safi.",
+          "reading": "Chu-mba che-u-pe na ki-kbu-wa ki-na ma-di-ri-sha ma-zu-ri na he-wa sa-fi. [ˈtʃumbɑ ˈtʃɛupɛ nɑ kiˈkubwɑ ˈkinɑ mɑdiˈriʃɑ mɑˈzuri nɑ ˈhɛwɑ ˈsɑfi] (CHOO-m-bah CHAY-oo-pay nah kee-KOO-bwah KEE-nah mah-dee-REE-shah mah-ZOO-ree nah HAY-wah SAH-fee)",
+          "translation": "A white [cheupe] and large [kikubwa] room has fine windows and fresh air."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 12-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kisu kikali kipya kinatumika jikoni kukata mboga na matunda.",
+          "reading": "Ki-su ki-ka-li kpy-a ki-na-tu-mi-ka ji-ko-ni ku-ka-ta mbo-ga na ma-tu-nda. [ˈkisu kiˈkɑli ˈmpjɑ kinɑtuˈmikɑ ʤiˈkɔni kuˈkɑtɑ ˈmbɔɡɑ nɑ mɑˈtundɑ] (KEE-soo kee-KAH-lee M-PYAH kee-nah-too-MEE-kah jee-KOH-nee koo-KAH-tah M-BOH-gah nah mah-TOON-dah)",
+          "translation": "A sharp [kikali] and new [kipya] knife is used in the kitchen to cut vegetables and fruits."
+        },
+        {
+          "target": "Vyombo vyepesi vya udongo vimepangwa kabatini na vinatunzwa kwa uangalifu.",
+          "reading": "Vyo-mbo vye-pe-si vya u-do-ngo vi-me-pa-ngwa ka-ba-ti-ni na vi-na-tu-nzwa kwa u-a-nga-li-fu. [ˈvjɔmbɔ ˈvjɛpɛsi vjɑ uˈdɔŋɡɔ vimɛpɑmˈbwɑ kɑbɑˈtini nɑ vinɑˈtunzwɑ kwɑ uɑŋɡɑˈlifu] (VYOH-m-boh VYAY-pay-see vyah oo-DOHN-goh vee-may-PAHM-bwah kah-bah-TEE-nee nah vee-nah-TOON-zwah kwah oo-ahn-gah-LEE-foo)",
+          "translation": "Light earthenware vessels [vyombo vyepesi] are arranged in the cupboard and maintained carefully."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vivumishi vya KI-VI: Umoja = ki- / ch- (kizuri, cheusi); Wingi = vi- / vy- (vizuri, vyeusi)!"
+      ],
+      "culturalNotes": [
+        "Vyombo vya udongo vya kupikia kama chungu cha mfinyanzi (clay cooking pot) vinasifika kwa kupika chakula kitamu chenye ladha ya asili."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mradi\":",
+          "prompt": "Sentensi ipi ina kivumishi chenye upatanisho sahihi kinachoanza na irabu katika umoja wa Ngeli ya KI-VI?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mkataba»",
-            "Mpangilio usio sahihi wa viambishi katika «Biashara»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kitabu»"
+            "Kiti cheusi kiliwekwa sebuleni. (The black chair was placed in the living room - Correct Class 7 adjective 'ch-eusi')",
+            "Kiti kizuri kyeusi kiliwekwa (Kosa la kutumia umbo lisilo sanifu)",
+            "Kiti jeusi kiliwekwa sebuleni (Huu ni upatanisho wa JI-MA)",
+            "Kiti mweusi kiliwekwa sebuleni (Huu ni upatanisho wa M-MI)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kivumishi kinachoanza na irabu «-eusi» kinapopatana na nomino ya umoja wa KI-VI (kiti) huchukua «ch-» kupata «cheusi»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mradi\":",
+          "prompt": "Unapovumisha nomino ya wingi \"Vyakula\" kwa kutumia kivumishi \"-tamu\" (delicious), kirai sahihi ni kipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Biashara»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kitabu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mkataba»"
+            "vyakula vitamu (Delicious foods - Correct Class 8 adjective 'vi-tamu')",
+            "vyakula matamu (Kosa la kutumia kiambishi cha JI-MA)",
+            "vyakula mitamu (Kosa la kutumia kiambishi cha M-MI)",
+            "vyakula kitamu (Kosa la kutumia umoja)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino «Vyakula» (wingi katika Ngeli ya KI-VI) huchukua kivumishi chenye kiambishi «vi-»: «vyakula vitamu»."
         }
       ]
     },
@@ -5193,17 +5222,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mradi\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi wa vivumishi vya sifa katika Ngeli ya KI-VI:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kitabu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mkataba»",
-            "Mpangilio usio sahihi wa viambishi katika «Biashara»"
+            "Chumba kikubwa cheupe kimesafishwa na vyombo vyote vizuri vyepesi vimehifadhiwa kabatini. (Big white room [kikubwa cheupe], fine light vessels [vizuri vyepesi].)",
+            "Chumba mkubwa mweupe kimesafishwa na vyombo vizuri mepesi vimehifadhiwa.",
+            "Chumba likubwa jeupe limehifadhiwa na vyombo vyote zuri zepesi.",
+            "Vivumishi vya KI-VI havitofautishi kati ya konsonanti na irabu."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Chumba kikubwa cheupe kimesafishwa na vyombo vyote vizuri vyepesi vimehifadhiwa kabatini.» inafuata kanuni sahihi zote za vivumishi vya KI-VI."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u12-l4": {
@@ -5211,53 +5241,62 @@
     "subject": "swahili",
     "unit": 12,
     "lessonNumber": 4,
-    "title": "Ngeli ya 7/8 (KI-VI) na Vionyeshi (Noun Classes 7/8 KI-VI) (Part 4)",
+    "title": "Vivumishi vya Idadi, Vimilikishi, na Udogo wa Nomino katika KI-VI (Numbers, Possessives & Diminutives in KI-VI)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.4) with authentic precision.",
+    "objective": "Kutumia vivumishi vya idadi (kimoja, viwili, vitatu, vinne, vitano, vinane), vimilikishi (changu/vyangu), na kuelewa dhana ya udogo wa nomino (Diminutives) inayoundwa kwa kuhamisha nomino katika ngeli ya KI-VI.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vivumishi vya Idadi, Vimilikishi, na Udogo katika Ngeli ya KI-VI:\n\n1. **Vivumishi vya Idadi (Numerals in KI-VI)**:\n   - Idadi ya 1 (Umoja): **kimoja** (*kitabu kimoja* = one book, *chumba kimoja* = one room)\n   - Idadi zinazochukua **vi-** (2, 3, 4, 5, 8):\n     - 2: *vitabu **viwili*** (two books)\n     - 3: *vitabu **vitatu*** (three books)\n     - 4: *vitabu **vinne*** (four books)\n     - 5: *vitabu **vitano*** (five books)\n     - 8: *vitabu **vinane*** (eight books)\n   - Idadi zisizobadilika (6, 7, 9, 10, nk.): *vitabu sita, saba, tisa, kumi*.\n\n2. **Dhana ya Udogo wa Nomino (Diminutive Construction)**:\n   - Nomino ya ngeli yoyote inapohamishiwa katika Ngeli ya 7/8 (KI-VI), hupata maana ya **udogo (Diminutive)**:\n     - *mtoto* (child) -> **kitoto** (tiny infant / toddler) / **vitoto**\n     - *nyumba* (house) -> **kijumba** (cottage / small hut) / **vijumba**\n     - *mto* (river) -> **kijito** (brook / stream) / **vijito**\n     - *mji* (town) -> **kijiji** (village) / **vijiji**\n     - *mlima* (mountain) -> **kilima** (hill) / **vilima**\n     - *ndege* (bird) -> **kidege** (tiny bird) / **videge**\n     - *mtu* (person) -> **kimtu** (little/insignificant person) / **vimtu**",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 12."
+          "target": "Kijiji chetu kina vijito vitatu vya maji safi na vilima vidogo vinne.",
+          "reading": "Ki-ji-ji che-tu ki-na vi-ji-to vi-ta-tu vya ma-ji sa-fi na vi-li-ma vi-do-go vi-nne. [kiˈʤiʤi ˈtʃɛtu ˈkinɑ viˈʤitɔ viˈtɑtu vjɑ ˈmɑʤi ˈsɑfi nɑ viˈlimɑ viˈdɔɡɔ ˈvinːɛ] (kee-JEE-jee CHAY-too KEE-nah vee-JEE-toh vee-TAH-too vyah MAH-jee SAH-fee nah vee-LEE-mah vee-DOH-goh VEEN-nay)",
+          "translation": "Our village [diminutive: kijiji chetu] has three streams [vijito vitatu] of clean water and four small hills [vilima vidogo vinne]."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 12-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kitoto kile kidogo kinacheza chumbani na mama yake anakitunza kwa upendo.",
+          "reading": "Ki-to-to ki-le ki-do-go ki-na-che-za chu-mba-ni na ma-ma ya-ke a-na-ki-tu-nza kwa u-pe-ndo. [kiˈtɔtɔ ˈkilɛ kiˈdɔɡɔ kinɑˈtʃɛzɑ tʃumbɑˈni nɑ ˈmɑmɑ ˈjɑkɛ ɑnɑkiˈtunzɑ kwɑ uˈpɛndɔ] (kee-TOH-toh KEE-lay kee-DOH-goh kee-nah-CHAY-zah choom-bah-NEE nah MAH-mah YAH-kay ah-nah-kee-TOON-zah kwah oo-PAYN-doh)",
+          "translation": "That tiny infant [diminutive: kitoto kile] is playing in the room and its mother cares for it [OP -ki-] with love."
+        },
+        {
+          "target": "Kijumba hiki kizuri kilijengwa kando ya ziwa kwa ajili ya mapumziko.",
+          "reading": "Ki-ju-mba hi-ki ki-zu-ri ki-li-je-ngwa ka-ndo ya zi-wa kwa a-ji-li ya ma-pu-mzi-ko. [kiˈʤumbɑ ˈhiki kiˈzuri kiliˈʤɛŋɡwɑ ˈkɑndɔ jɑ ˈziwɑ kwɑ ɑˈʤili jɑ mɑpumˈzikɔ] (kee-JOOM-bah HEE-kee kee-ZOO-ree kee-lee-JAYN-gwah KAHN-doh yah ZEE-wah kwah ah-JEE-lee yah mah-poom-ZEE-koh)",
+          "translation": "This fine small cottage [diminutive: kijumba hiki] was built beside the lake for relaxation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Idadi na Udogo katika KI-VI: Kitabu kimoja, vitabu viwili/vitatu; Mji -> Kijiji, Mto -> Kijito, Mlima -> Kilima, Mtoto -> Kitoto!"
+      ],
+      "culturalNotes": [
+        "Dhana ya 'Kijiji' (kutoka 'Mji') inasisitiza umoja wa kijamii, ambapo methali ya Kiafrika inasema: 'Inahitaji kijiji kizima kulea kitoto kimoja' (It takes a whole village to raise a child)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mkataba\":",
+          "prompt": "Sentensi ipi inatumia nambari mbili (2) kwa upatanisho sahihi wa Ngeli ya KI-VI?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Biashara»",
-            "Mpangilio usio sahihi wa viambishi katika «Kitabu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Muziki»"
+            "Vitabu viwili vizuri vilinunuliwa maktabani. (Two fine books were bought at the library - Correct Class 8 numeral 'viwili')",
+            "Vitabu mawili vizuri vilinunuliwa (Kosa la kutumia kiambishi cha JI-MA)",
+            "Vitabu miwili vizuri vilinunuliwa (Kosa la kutumia kiambishi cha M-MI)",
+            "Vitabu wawili vizuri vilinunuliwa (Kosa la kutumia kiambishi cha A-WA)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino ya wingi ya KI-VI «Vitabu» huchukua kivumishi cha idadi «viwili»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mkataba\":",
+          "prompt": "Nomino ya kawaida \"Mto\" inapohamishwa katika Ngeli ya KI-VI kuonyesha udogo (diminutive), huwa neno gani?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Kitabu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Muziki»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Biashara»"
+            "kijito (Brook / stream - Diminutive form in Class 7)",
+            "kito (Hili linamaanisha jiwe la thamani / gem)",
+            "uchito (Umbo lisilopo)",
+            "jito (Huu ni ukubwa katika JI-MA)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino «Mto» inapopata udogo katika Ngeli ya KI-VI hubadilika kuwa «kijito» (wingi: «vijito»)."
         }
       ]
     },
@@ -5265,17 +5304,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mkataba\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayochanganya idadi na dhana ya udogo katika Ngeli ya KI-VI kwa ukamilifu:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Muziki»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Biashara»",
-            "Mpangilio usio sahihi wa viambishi katika «Kitabu»"
+            "Kijiji chetu kina vijito vitatu na vijumba vidogo vinne vilivyojengwa kando ya kilima. (Our village [kijiji] has three streams [vijito vitatu] and four small cottages [vijumba vidogo vinne] built beside the hill [kilima].)",
+            "Kijiji yetu ina vijito matatu na vijumba manne vilivyojengwa kando ya kilima.",
+            "Kijiji wetu una vijito mitatu na vijumba vinne vya kilima.",
+            "Udogo wa nomino hautumiki katika lugha ya Kiswahili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kijiji chetu kina vijito vitatu na vijumba vidogo vinne vilivyojengwa kando ya kilima.» inatumia miundo sahihi ya udogo (kijiji, vijito, vijumba, kilima) na idadi (vitatu, vinne)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u12-l5": {
@@ -5283,53 +5323,62 @@
     "subject": "swahili",
     "unit": 12,
     "lessonNumber": 5,
-    "title": "Ngeli ya 7/8 (KI-VI) na Vionyeshi (Noun Classes 7/8 KI-VI) (Part 5)",
+    "title": "Muhtasari wa Ngeli ya 7/8 (KI-VI) na Vionyeshi (Grand Synthesis of KI-VI Class)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 12: msamiati wa KI-VI, majina ya lugha, upatanisho wa vitenzi (ki-/vi-), virejeshi vya watendwa (-ki-/-vi-), viashiria (hiki/hivi, hicho/hivyo, kile/vile), vimilikishi (changu/vyangu), vivumishi vya sifa, idadi, na udogo wa nomino.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Ngeli ya 7/8 (Grand Synthesis of KI-VI Class):\n\n1. **Muundo Kamili wa Ngeli ya 7/8 (Master KI-VI Matrix)**:\n   - **Nomino**: *kitabu / vitabu*, *chumba / vyumba*, *chakula / vyakula*, *kiti / viti*, *chombo / vyombo*, *Kiswahili*.\n   - **Kiambishi Kitenzi (SP)**: *ki-* (umoja: *kitabu kimesomwa*) / *vi-* (wingi: *vitabu vimesomwa*).\n   - **Kirejeshi Mtendwa (OP)**: *-ki-* (umoja: *ninakisoma*) / *-vi-* (wingi: *ninavisoma*).\n   - **Viashiria**: *hiki / hivi* (karibu), *hicho / hivyo* (hapo), *kile / vile* (mbali).\n   - **Vimilikishi**: *changu/chetu* (umoja) / *vyangu/vyetu* (wingi).\n   - **Vivumishi vya Sifa**: *ki-/ch-* (umoja: *kizuri, cheusi, kikubwa*) / *vi-/vy-* (wingi: *vizuri, vyeusi, vikubwa*).\n   - **Vivumishi vya Idadi**: *kimoja* (1) / *viwili* (2), *vitatu* (3), *vinne* (4), *vitano* (5), *vinane* (8).\n   - **Udogo wa Nomino (Diminutive)**: *mji -> kijiji*, *mto -> kijito*, *mlima -> kilima*, *mtoto -> kitoto*, *nyumba -> kijumba*.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 12."
+          "target": "Kitabu hiki kizuri kina mafunzo bora, na vyumba vyote vitano vya chuo vimefunguliwa.",
+          "reading": "Ki-ta-bu hi-ki ki-zu-ri ki-na ma-fu-nzo bo-ra, na vyu-mba vyo-te vi-ta-no vya chu-o vi-me-fu-ngu-li-wa. [kiˈtɑbu ˈhiki kiˈzuri ˈkinɑ mɑˈfunzɔ ˈbɔrɑ nɑ ˈvjumbɑ ˈvjɔtɛ viˈtɑnɔ vjɑ ˈtʃuɔ vimɛfuŋɡuˈliwɑ] (kee-TAH-boo HEE-kee kee-ZOO-ree KEE-nah mah-FOON-zoh BOH-rah, nah VYOO-m-bah VYOH-tay vee-TAH-noh vyah CHOO-oh vee-may-foon-goo-LEE-wah)",
+          "translation": "This fine book [kitabu hiki kizuri] has great lessons, and all five college rooms [vyumba vyote vitano] have opened."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 12-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kijito kile kidogo kinapita kando ya kijiji chetu na maji yake ni safi na baridi.",
+          "reading": "Ki-ji-to ki-le ki-do-go ki-na-pi-ta ka-ndo ya ki-ji-ji che-tu na ma-ji ya-ke ni sa-fi na ba-ri-di. [kiˈʤitɔ ˈkilɛ kiˈdɔɡɔ kinɑˈpitɑ ˈkɑndɔ jɑ kiˈʤiʤi ˈtʃɛtu nɑ ˈmɑʤi ˈjɑkɛ ni ˈsɑfi nɑ bɑˈridi] (kee-JEE-toh KEE-lay kee-DOH-goh kee-nah-PEE-tah KAHN-doh yah kee-JEE-jee CHAY-too nah MAH-jee YAH-kay nee SAH-fee nah bah-REE-dee)",
+          "translation": "That small stream [kijito kile] flows beside our village [kijiji chetu] and its water is clean and cool."
+        },
+        {
+          "target": "Umahiri wa kutumia ngeli ya KI-VI unadhihirisha ufasaha wa hali ya juu katika kuakisi udogo, lugha, na vitu mbalimbali katika jamii ya Waswahili.",
+          "reading": "U-ma-hi-ri wa ku-tu-mia nge-li ya KI-VI u-na-dhi-hi-ri-sha u-fa-sa-ha wa ha-li ya ju-u ka-ti-ka ku-a-ki-si u-do-go, lu-gha, na vi-tu mba-li-mba-li ka-ti-ka ja-mi-i ya Wa-swa-hi-li. [umɑˈhiri wɑ kutuˈmiɑ ˈŋɡɛli jɑ ˈkivi unɑðihiˈriʃɑ ufɑˈsɑhɑ wɑ ˈhɑli jɑ ˈʤuː kɑˈtikɑ kuɑˈkisi uˈdɔɡɔ ˈluɣɑ nɑ ˈvitu mbɑlimbɑˈli kɑˈtikɑ ʤɑˈmiː jɑ wɑswɑˈhili] (oo-mah-HEE-ree wah koo-too-MEE-ah N-GAY-lee yah KEE-VEE oo-nah-thee-hee-REE-shah oo-fah-SAH-hah wah HAH-lee yah JOO-oo kah-TEE-kah koo-ah-KEE-see oo-DOH-goh, LOO-ghah, nah VEE-too M-bah-lee-m-BAH-lee kah-TEE-kah jah-MEE-ee yah wah-swah-HEE-lee)",
+          "translation": "Mastery of using the KI-VI noun class [KI-VI grand synthesis: ngeli ya KI-VI] demonstrates high-level eloquence in reflecting diminutives, languages, and various artifacts in Swahili society."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Muhtasari wa KI-VI: Umoja (ki-/ch-, hiki/hicho/kile, changu, kizuri, kimoja); Wingi (vi-/vy-, hivi/hivyo/vile, vyangu, vizuri, viwili)!"
+      ],
+      "culturalNotes": [
+        "Umahiri wa kutofautisha ukubwa (JI-MA: jiji, jumba), hali ya kawaida (M-MI/N-N: mji, nyumba), na udogo (KI-VI: kijiji, kijumba) ni kilele cha uzuri wa kimofolojia wa lugha za Kibantu."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Biashara\":",
+          "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa ngeli ya 7/8 (KI-VI) ikijumuisha nomino, sifa, idadi, na kitenzi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kitabu»",
-            "Mpangilio usio sahihi wa viambishi katika «Muziki»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Filamu»"
+            "Vitabu vizuri vinne vya Kiswahili vilinunuliwa kwa ajili ya wanafunzi wote. (Four fine Swahili books were bought for all students - Harmonious KI-VI class synthesis)",
+            "Vitabu mazuri manne ya Kiswahili yalinunuliwa (Kosa la kutumia upatanisho wa JI-MA)",
+            "Vitabu mizuri minne ya Kiswahili ilinunuliwa (Kosa la kutumia upatanisho wa M-MI)",
+            "Kitabu vizuri vinne vilinunuliwa jana (Mvurugiko wa umoja na wingi)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Vitabu vizuri vinne vya Kiswahili vilinunuliwa kwa ajili ya wanafunzi wote.» inatekeleza upatanisho sahihi wa nomino (vitabu), sifa (vizuri), idadi (vinne), na kitenzi (vilinunuliwa)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Biashara\":",
+          "prompt": "Katika muhtasari wa Unit 12, ni upatanisho gani sahihi wa kiashiria, kivumishi cha sifa, na kitenzi kwa nomino \"Chumba\" (umoja)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Muziki»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Filamu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kitabu»"
+            "Chumba hiki kikubwa kilisafishwa asubuhi na mapema. (This large room was cleaned early in the morning - Correct Class 7 demonstrative 'hiki', adjective 'kikubwa', and verbal prefix 'ki-')",
+            "Chumba hii kubwa ilisafishwa (Kosa la kutumia upatanisho wa N-N)",
+            "Chumba hili kubwa lilisafishwa (Kosa la kutumia upatanisho wa JI-MA)",
+            "Chumba huu mkubwa ulisafishwa (Kosa la kutumia upatanisho wa M-MI)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino «Chumba» (umoja katika KI-VI) huchukua kiashiria «hiki», sifa «kikubwa», na kitenzi «kilisafishwa»."
         }
       ]
     },
@@ -5337,17 +5386,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Biashara\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 12 ya Ngeli ya 7/8 (KI-VI) na Vionyeshi katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Filamu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kitabu»",
-            "Mpangilio usio sahihi wa viambishi katika «Muziki»"
+            "Kitabu hiki kizuri kina mafunzo bora, kijiji chetu kina vilima vidogo vitatu, na vyumba vyote vitano vya chuo vimefunguliwa. (This fine book [ki-], our village [ch-], three small hills [vi-], and all five college rooms [vy-].)",
+            "Kitabu hii nzuri ina mafunzo bora na kijiji yetu ina vilima mitatu.",
+            "Vyumba vyote matano vya chuo yamefunguliwa wakati kitabu kile inasomwa.",
+            "Ngeli ya KI-VI haihusiani na dhana ya udogo wa nomino."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kitabu hiki kizuri kina mafunzo bora, kijiji chetu kina vilima vidogo vitatu, na vyumba vyote vitano vya chuo vimefunguliwa.» inajumuisha upatanisho wa KI-VI katika nyanja zote kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u13-l1": {
