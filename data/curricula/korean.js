@@ -14289,56 +14289,65 @@
     "subject": "korean",
     "unit": 31,
     "lessonNumber": 1,
-    "title": "현대 사회 담론과 도시 발전 정책 (Sociopolitical Debates) (Part 1)",
+    "title": "저출생·초고령사회 인구 절벽과 지방 소멸 위기 (Demographic Cliff & Depopulation)",
     "level": "C2",
-    "objective": "Comprehensive mastery of 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates).",
+    "objective": "합계출산율, 초고령사회 진입, 생산가능인구 급감, 지방 소멸 위험 지수 등 대한민국 인구 구조 변화 핵심 전문 시사 담화를 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 현대 사회 담론과 도시 발전 정책 (Sociopolitical Debates) » (제1절)의 핵심 언어 요소와 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "21세기 대한민국이 직면한 가장 엄중한 국가적 위기인 인구 구조 변화(Demographic Transformation)와 지방 소멸(Regional Depopulation) 관련 최고급 시사 어휘입니다.\n\n1. 인구 지표 및 통계 용어:\n- **합계출산율(Total Fertility Rate, TFR)**: 가임기 여성 1명이 평생 낳을 것으로 예상되는 평균 출생아 수 (한국은 0.7명대 안팎으로 세계 최저 수준)\n- **초고령사회(Super-aged Society)**: 전체 인구 중 65세 이상 고령 인구 비율이 20%를 초과하는 사회 (고령화사회 7% -> 고령사회 14% -> 초고령사회 20%)\n- **인구 절벽(Demographic Cliff)**: 생산가능인구(15~64세)가 급격히 줄어들어 소비와 생산이 급감하는 경제적 위기 국면\n- **유소년 부양비 vs 노년 부양비**: 생산가능인구 100명당 부양해야 할 0~14세 유소년 및 65세 이상 노인 인구의 비율\n\n2. 지역 격차와 지방 소멸:\n- **지방 소멸 위험 지수(Regional Extinction Risk Index)**: 한 지역의 20~39세 가임 여성 인구수를 65세 이상 고령 인구수로 나눈 값 (0.5 미만 시 소멸 위험 단계 진입)\n- **수도권 과밀화(Metropolitan Overcrowding)**: 일자리와 교육 인프라가 서울 및 수도권에 집중되어 지방 청년들이 대거 유출되는 현상",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (31.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "합계출산율이 역대 최저치인 0.7명대로 추락함에 따라 생산가능인구 급감과 잠재성장률 둔화가 현실화되고 있습니다.",
+          "reading": "Hapgye-chulsanryul-i yeokdae choejeochi-in yeong-jeom-chil-myeong-dae-ro churakham-e ttara saengsan-ganeung-in-gu geupgam-gwa jamjae-seongjangryul dunhwa-ga hyeonsilhwa-doego itseumnida.",
+          "translation": "As the total fertility rate crashed to an all-time low in the 0.7 range ('합계출산율이 역대 최저치인 0.7명대로 추락함에 따라'), a sharp decline in working-age population and deceleration of potential growth rate are materializing."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (31.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "대한민국은 65세 이상 고령 인구 비중이 20%를 넘어서며 유례없이 빠른 속도로 초고령사회에 공식 진입하였습니다.",
+          "reading": "Daehanminguk-eun yuksibo-se isang goryeong in-gu bijung-i isip-peosenteu-reul neomeoseomyeo yurye-eopsi ppareun sokdo-ro chogoryeong-sahoe-e gongsik jinibhayeotseumnida.",
+          "translation": "The Republic of Korea officially entered a super-aged society ('초고령사회에 공식 진입하였습니다') at an unprecedented speed as the proportion of senior citizens aged 65 and older surpassed 20%."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (31.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "청년 인구의 수도권 쏠림 현상으로 인해 지방 중소 도시의 절반 이상이 지방 소멸 위험 단계에 직면해 있습니다.",
+          "reading": "Cheongnyeon in-gu-ui sudogwon ssolrim hyeonsang-euro inhae jibang jungso dosi-ui jeolban isang-i jibang somyeol wiheom dangye-e jikmyeonhae itseumnida.",
+          "translation": "Due to the youth population overcrowding phenomenon toward the capital area, more than half of regional small-to-medium cities are facing the regional extinction risk stage ('지방 소멸 위험 단계에')."
+        },
+        {
+          "target": "인구 절벽의 충격을 완화하기 위해서는 파격적인 주거 지원과 일·가정 양립 문화 정착이 시급합니다.",
+          "reading": "In-gu jeolbyeok-ui chung-gyeok-eul wanhwahagi wihaeseo pagyeokjeogin jugeo jiwon-gwa il-gajeong yangrip munhwa jeongchak-i sigeubhamnida.",
+          "translation": "To mitigate the shock of the demographic cliff, unprecedented housing support and the establishment of a work-life balance culture are urgent."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "합계출산율 0.7, 65세 이상 20% 초고령사회, 청년 유출로 지방 소멸 위험!"
+      ],
+      "culturalNotes": [
+        "한국 정부는 저출생 극복을 위해 부모급여 도입, 신혼부부 특례 대출, 육아휴직 기간 확대 등 국가적 역량을 총동원하여 '국가비상사태' 수준의 대책을 추진하고 있습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "한 사회의 전체 인구 중 65세 이상 고령 인구의 비율이 20% 이상인 사회를 일컫는 인구학적 공식 용어는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (31.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (31.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (31.1.3)."
+            "초고령사회 (Super-aged Society)",
+            "고령사회 (Aged Society)",
+            "고령화사회 (Aging Society)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "65세 이상 고령 인구 비율이 20%를 초과하는 사회를 '초고령사회(Super-aged Society)'라고 합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 현대 사회 담론과 도시 발전 정책 (Sociopolitical Debates) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "가임기(15~49세) 여성 한 명이 평생 낳을 것으로 예상되는 평균 출생아 수를 뜻하는 통계 지표는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (31.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (31.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (31.1.3)."
+            "합계출산율 (Total Fertility Rate / TFR)",
+            "조출생률 (Crude Birth Rate)",
+            "유아사망률 (Infant Mortality Rate)"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "여성 1인당 평생 예상 출생아 수를 나타내는 핵심 인구 지표는 '합계출산율(TFR)'입니다."
         }
       ]
     },
@@ -14346,14 +14355,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 31-1)?",
+          "prompt": "지방 도시에서 20~39세 가임 여성 인구가 65세 이상 노인 인구의 절반 미만으로 떨어져 인구 감소로 사라질 위기에 처한 상태를 나타내는 지수는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (31.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (31.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (31.1.3)."
+            "지방 소멸 위험 지수 (Regional Extinction Risk Index)",
+            "행복 지수 (Happiness Index)",
+            "물가 상승 지수 (Consumer Price Index)"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "지방의 존립 위험도를 측정하는 인구 지표는 '지방 소멸 위험 지수'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'저출생과 초고령화로 지방 소멸 위기에 직면했어요'(We faced regional extinction crisis due to low birthrate and super-aging)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "저출생과 초고령화로 지방 소멸 위기에 직면했어요.",
+            "저출생과 초고령화로 지방 소멸 위기에 직면했어요"
+          ],
+          "explanation": "저출생과 + 초고령화로 + 지방 소멸 + 위기에 + 직면했어요 = 저출생과 초고령화로 지방 소멸 위기에 직면했어요."
         }
       ]
     }
@@ -14363,56 +14381,65 @@
     "subject": "korean",
     "unit": 31,
     "lessonNumber": 2,
-    "title": "현대 사회 담론과 도시 발전 정책 (Sociopolitical Debates) (Part 2)",
+    "title": "4대 사회보험과 대한민국 사회안전망 체계 (Four Social Insurances & Safety Net)",
     "level": "C2",
-    "objective": "Comprehensive mastery of 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates).",
+    "objective": "국민건강보험, 국민연금, 고용보험, 산업재해보상보험 및 국민기초생활보장제도의 구조와 복지 쟁점을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 현대 사회 담론과 도시 발전 정책 (Sociopolitical Debates) » (제2절)의 핵심 언어 요소와 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "대한민국 국민의 생애 주기별 사회적 위험을 분담하고 기본적 생계를 보장하는 4대 사회보험과 사회안전망(Social Safety Net) 체계입니다.\n\n1. 4대 사회보험(Four Major Social Insurances):\n- **국민건강보험(National Health Insurance)**: 질병과 부상에 대한 예방·진단·치료 및 재활 급여를 제공하는 보편적 의료보장 제도\n- **국민연금(National Pension)**: 노령, 장애, 사망 시 연금을 지급하여 생활 안정을 도모 (보험료율 인상, 소득대체율 조정 및 기금 고갈 방지 개혁이 최대 현안)\n- **고용보험(Employment Insurance)**: 실직 시 구직급여(실업급여)를 지급하고 재취업 직업훈련 및 육아휴직급여를 지원\n- **산업재해보상보험(산재보험 / Workers' Compensation)**: 업무상 재해, 질병 또는 사망 시 치료비와 보상금을 지급 (중대재해처벌법 연계)\n\n2. 공공부조 및 사회보장:\n- **국민기초생활보장제도(National Basic Living Security)**: 기준 중위소득에 따라 생계급여, 의료급여, 주거급여, 교육급여를 맞춤형으로 지급하여 극빈층 보호",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (31.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "정부는 저출생·고령화에 따른 국민연금 기금 조기 고갈 우려를 불식시키기 위해 연금 개혁안을 국회에 제출했습니다.",
+          "reading": "Jeongbu-neun jeochulsaeng-goryeonghwa-e ttareun gungmin-yeon-geum gigeum jogi gogal uryeo-reul bulsiksigigi wihae yeon-geum gaehyeokan-eul gukhoe-e jechulhaetseumnida.",
+          "translation": "The government submitted a pension reform bill ('연금 개혁안을 국회에 제출했습니다') to the National Assembly to dispel concerns over early exhaustion of the National Pension Fund due to low birthrate and aging."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (31.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "근로자가 업무 중 불의의 사고로 부상을 입었을 경우 산업재해보상보험 처리를 통해 치료비와 휴업급여를 전액 지원받을 수 있습니다.",
+          "reading": "Geunroja-ga eommu jung buri-ui sago-ro busang-eul ibeosseul gyeong-u saneopjaehaebosangboheom cheori-reul tonghae chiryobi-wa hyueopgeub-yeo-reul jeonaek jiwonbadeul su itseumnida.",
+          "translation": "If a worker suffers injury from an unforeseen accident during duty, they can receive full support for medical expenses and temporary disability benefits through Industrial Accident Compensation Insurance ('산업재해보상보험 처리를 통해')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (31.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "복지 사각지대에 놓인 취약계층을 발굴하여 국민기초생활보장 생계급여를 긴급 지원함으로써 사회안전망을 촘촘히 보강하였습니다.",
+          "reading": "Bokji sagakjidae-e noin chwiyak-gyecheung-eul balgulhayeo gungmin-gichosaenghwalbojang saeng-gye-geub-yeo-reul gin-geup jiwonham-euroseo sahoe-anjeonmang-eul chomchomhi boganghayeotseumnida.",
+          "translation": "By discovering vulnerable brackets situated in welfare blind spots and urgently providing National Basic Living livelihood benefits, we tightly reinforced the social safety net ('사회안전망을 촘촘히 보강하였습니다')."
+        },
+        {
+          "target": "고용보험의 육아휴직급여 상한액이 대폭 인상되어 맞벌이 부부의 양육 부담이 한결 완화되었습니다.",
+          "reading": "Goyongboheom-ui yuga-hyujikgeub-yeo sanghan-aeg-i daepok insangdoe-eo matbeori bubu-ui yang-yuk budam-i han-gyeol wanhwadoe-eotseumnida.",
+          "translation": "The upper limit of parental leave benefits under employment insurance was significantly raised, considerably relieving the parenting burden of dual-income couples."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "4대 보험: 건강보험, 국민연금, 고용보험, 산재보험! 기초생활보장으로 사회안전망 완성!"
+      ],
+      "culturalNotes": [
+        "한국의 '국민연금 개혁'은 보험료율(현행 9%) 인상 폭과 소득대체율(은퇴 전 평균 소득 대비 연금 수령액 비율)을 둘러싸고 미래 청년 세대와 기성세대 간의 사회적 합의가 핵심 쟁점입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "대한민국의 4대 사회보험에 포함되지 않는 것은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (31.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (31.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (31.2.3)."
+            "자동차 종합보험 (Automobile Comprehensive Insurance)",
+            "국민건강보험 (National Health Insurance)",
+            "고용보험 (Employment Insurance)"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "4대 사회보험은 국민건강보험, 국민연금, 고용보험, 산재보험이며 자동차보험은 사보험입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 현대 사회 담론과 도시 발전 정책 (Sociopolitical Debates) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "근로자가 실직했을 때 재취업 활동 기간 동안 생활 안정을 돕기 위해 지급되는 고용보험 급여는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (31.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (31.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (31.2.3)."
+            "구직급여 (실업급여 / Job-seeking Benefits)",
+            "퇴직금 (Severance Pay)",
+            "보너스 (Performance Bonus)"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "실직자의 재취업을 지원하는 고용보험 핵심 급여는 '구직급여(실업급여)'입니다."
         }
       ]
     },
@@ -14420,14 +14447,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 31-2)?",
+          "prompt": "생활이 어려운 저소득 취약계층에게 국가가 최저 생활을 보장하고 자립을 지원하는 제도는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (31.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (31.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (31.2.3)."
+            "국민기초생활보장제도 (National Basic Living Security)",
+            "상속세 공제제도 (Inheritance Tax Deduction)",
+            "주식양도소득세 제도 (Capital Gains Tax)"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "explanation": "극빈층의 인간다운 생활을 보장하는 공공부조 제도는 '국민기초생활보장제도'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'국민연금 개혁과 사회안전망 강화를 논의했어요'(We discussed pension reform and strengthening the social safety net)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "국민연금 개혁과 사회안전망 강화를 논의했어요.",
+            "국민연금 개혁과 사회안전망 강화를 논의했어요"
+          ],
+          "explanation": "국민연금 개혁과 + 사회안전망 + 강화를 + 논의했어요 = 국민연금 개혁과 사회안전망 강화를 논의했어요."
         }
       ]
     }
@@ -14437,56 +14473,65 @@
     "subject": "korean",
     "unit": 31,
     "lessonNumber": 3,
-    "title": "현대 사회 담론과 도시 발전 정책 (Sociopolitical Debates) (Part 3)",
+    "title": "노동 시장 구조 개혁과 세대 갈등 (Labor Market Reform & Generational Issues)",
     "level": "C2",
-    "objective": "Comprehensive mastery of 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates).",
+    "objective": "정년 연장 vs 청년 일자리, 비정규직의 정규직화, 포괄임금제 폐지, 주 52시간 유연근무제 등 노동·세대 갈등 쟁점을 논증한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 현대 사회 담론과 도시 발전 정책 (Sociopolitical Debates) » (제3절)의 핵심 언어 요소와 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "초고령화 시대 한국 사회의 핵심 노동 정책 과제와 세대 간 이해관계 갈등 쟁점입니다.\n\n1. 노동 시장의 주요 개혁 쟁점:\n- **법정 정년 연장(Retirement Age Extension, 60세 -> 65세)**: 고령자 계속 고용을 통한 소득 공백 메우기 vs 대기업·공공기관의 청년 신규 채용 위축 우려\n- **이중 구조 개선(Dual Labor Market Structure)**: 대기업·정규직 vs 중소기업·비정규직 간의 임금 및 복지 격차 해소, '동일노동 동일임금' 원칙과 직무급제(Job-based Pay System) 도입 논쟁\n- **근로시간 개편**: 주 52시간 근로제의 엄격 적용 vs 업종별 유연근무제(탄력근로제 / 선택근로제) 확대 요구\n- **포괄임금제(Blanket Wage System) 개선**: 실제 초과 근무 시간과 무관하게 고정 수당을 지급하여 '공짜 야근'을 유발한다는 비판에 대한 규제",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (31.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "정년 65세 연장은 고령층의 노후 빈곤을 완화하는 순기능이 있으나, 자칫 청년층의 진입 장벽을 높일 수 있어 세대 간 상생 방안이 필요합니다.",
+          "reading": "Jeongnyeon yuksibo-se yeonjang-eun goryeongcheung-ui nohu bingon-eul wanhwahaneun sungineung-i isseuna, jachit cheongnyeoncheung-ui jin-ip jangbyeok-eul nopil su isseo sedae gan sangsaeng bang-an-i piryohamnida.",
+          "translation": "While extending retirement age to 65 has a net function of alleviating senior poverty, it might raise barriers to entry for youth, necessitating generational coexistence measures ('세대 간 상생 방안이 필요합니다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (31.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "노동 시장의 이중 구조를 타파하고 청년과 비정규직의 권익을 보호하기 위해 연공서열 중심 호봉제를 직무·성과급제로 개편해야 합니다.",
+          "reading": "Nodong sijang-ui ijung gujo-reul tapahago cheongnyeon-gwa bijeonggyujik-ui gwon-ig-eul bohohagi wihae yeongongseoyeol jungsim hobongje-reul jikmu·seong-gwageupje-ro gaepyeonhaeya hamnida.",
+          "translation": "To break the dual structure of the labor market and protect rights of youth and non-regular workers, seniority-based pay systems must be reformed into job/performance-based pay systems ('직무·성과급제로 개편해야')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (31.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "공짜 야근을 근절하고 정당한 노동의 대가를 보장하기 위해 포괄임금제 오남용에 대한 강력한 근로감독이 시행되고 있습니다.",
+          "reading": "Gongjja yageun-eul geunjeolhago jeongdanghan nodong-ui daega-reul bojanghagi wihae pogwal-imgeumje onamyong-e daehan gangryeokhan geunrogamdok-i sihaengdoego itseumnida.",
+          "translation": "To eradicate unpaid overtime and guarantee fair compensation for labor, strict labor inspections against abuse of the blanket wage system are being implemented."
+        },
+        {
+          "target": "급변하는 산업 환경에 발맞추어 주 52시간제의 기본 틀을 유지하되 업종별 유연성을 제고하는 균형 잡힌 정책이 요구됩니다.",
+          "reading": "Geupbyeonhaneun saneop hwangyeong-e balmatchwo ju osip-i-siganje-ui gibon teul-eul yujihadae eopjongbyeol yuyeonseong-eul jego-haneun gyunhyeong jab-in jeongchaek-i yogudoemnida.",
+          "translation": "In step with the rapidly changing industrial environment, a balanced policy enhancing flexibility by industry while maintaining the basic framework of the 52-hour workweek is demanded."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "정년 연장과 청년 고용 상생, 호봉제에서 직무급제로, 공짜 야근 없는 포괄임금제 개편!"
+      ],
+      "culturalNotes": [
+        "한국의 대기업들은 과거 근속연수에 따라 임금이 자동 상승하는 '호봉제'에서 개인의 직무 난이도와 성과에 따라 차등 보상하는 '직무성과급제'로 급속히 전환하고 있습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "실제 초과 근무 시간과 상관없이 연장·야간 근로 수당을 급여에 미리 포함하여 지급하는 방식으로 '공짜 야근' 논란을 빚은 임금 제도는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (31.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (31.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (31.3.3)."
+            "포괄임금제 (Blanket Wage System)",
+            "시급제 (Hourly Wage System)",
+            "성과배분제 (Profit Sharing System)"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "초과수당을 정액으로 묶어 고정 지급하는 제도를 '포괄임금제'라고 합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 현대 사회 담론과 도시 발전 정책 (Sociopolitical Debates) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "근속연수에 따라 임금이 자동으로 올라가는 연공서열 중심의 급여 체계를 뜻하는 한국어 용어는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (31.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (31.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (31.3.3)."
+            "호봉제 (Seniority-based Wage System)",
+            "직무급제 (Job-based Wage System)",
+            "스톡옵션 (Stock Options)"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "근속 연수와 호봉에 따라 급여가 오르는 제도는 '호봉제'입니다."
         }
       ]
     },
@@ -14494,14 +14539,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 31-3)?",
+          "prompt": "고령화에 따라 근로자의 법정 퇴직 나이를 60세에서 65세 등으로 늦추는 노동 정책을 뜻하는 용어는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (31.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (31.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (31.3.3)."
+            "정년 연장 (Retirement Age Extension)",
+            "조기 은퇴 (Early Retirement)",
+            "명예퇴직 (Honorary Retirement)"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "법정 퇴직 나이를 상향하는 제도는 '정년 연장'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'정년 연장과 청년 일자리의 상생 방안을 모색했어요'(We sought coexistence measures between retirement extension and youth jobs)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "정년 연장과 청년 일자리의 상생 방안을 모색했어요.",
+            "정년 연장과 청년 일자리의 상생 방안을 모색했어요"
+          ],
+          "explanation": "정년 연장과 + 청년 일자리의 + 상생 방안을 + 모색했어요 = 정년 연장과 청년 일자리의 상생 방안을 모색했어요."
         }
       ]
     }
@@ -14511,56 +14565,65 @@
     "subject": "korean",
     "unit": 31,
     "lessonNumber": 4,
-    "title": "현대 사회 담론과 도시 발전 정책 (Sociopolitical Debates) (Part 4)",
+    "title": "정책 토론 및 시사 평론 고급 담화 표지와 수사 (Policy Discourse Markers & Rhetoric)",
     "level": "C2",
-    "objective": "Comprehensive mastery of 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates).",
+    "objective": "-에 직면한 현시점에서, -(으)로 귀결될 공산이 크다, -의 당위성을 역설하다, 사회적 합의 도출 등 C2 시사 담화 표지를 자유자재로 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 현대 사회 담론과 도시 발전 정책 (Sociopolitical Debates) » (제4절)의 핵심 언어 요소와 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "TV 시사 토론 프로그램, 신문 사설(Editorial), 국회 공청회에서 정책 대안을 제시하고 상대를 설득하는 최상급 C2 담화 표지입니다.\n\n1. 문제 제기 및 상황 진단 표현:\n- **~에 직면한(봉착한) 현시점에서**: 위기 상황의 시급성을 부각할 때 (At this present juncture facing...)\n- **골든타임(Golden Time)을 놓쳐서는 안 된다 / 실기(失期)해서는 안 된다**: 정책 추진의 결정적 시한을 강조할 때\n\n2. 인과 추론 및 경고 논증 표지:\n- **~로 귀결될 공산이 크다 / 귀결될 위험이 농후하다**: 부정적인 결과로 이어질 확률이 매우 높음을 경고할 때 (There is a high probability of culminating in...)\n- **~라는 비판을 면하기 어렵다 (Cannot avoid criticism)**: 상대 주장의 논리적 허점을 객관적으로 비판할 때\n\n3. 정책 결단 및 제언 수사:\n- **~의 당위성을 역설하다 / 주창하다 (Emphasize the imperativeness of)**: 정책 도입의 정당성과 필연성을 강력히 주장할 때\n- **사회적 대타협 / 공론화 과정이 선행되어야 한다**: 이해당사자 간의 민주적 합의 절차를 촉구할 때",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (31.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "인구 구조의 격변에 직면한 현시점에서, 구조 개혁의 골든타임을 실기한다면 국가 경쟁력의 영구적 추락으로 귀결될 공산이 큽니다.",
+          "reading": "In-gu gujo-ui gyeokbyeon-e jikmyeonhan hyeonsijeom-eseo, gujo gaehyeok-ui goldeuntaim-eul silgihandamyeon gukga gyeongjaengryeok-ui yeong-gujeok churak-euro gwigyeoldoel gongsan-i keumnida.",
+          "translation": "At this present juncture facing drastic changes in demographic structure ('직면한 현시점에서'), if we miss the golden time for structural reform, there is a high probability of culminating in ('귀결될 공산이 큽니다') permanent decline of national competitiveness."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (31.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "전문가들은 연금 재정의 지속 가능성을 담보하기 위해 사회적 대타협을 통한 모수 개혁의 당위성을 강력히 역설하고 있습니다.",
+          "reading": "Jeonmungadeul-eun yeon-geum jaejeong-ui jisok ganeungseong-eul dambohagi wihae sahoejeok daetahyeop-eul tonghan mosu gaehyeok-ui dangwiseong-eul gangryeokhi yeokseolhago itseumnida.",
+          "translation": "Experts are strongly emphasizing the imperativeness of ('당위성을 강력히 역설하고 있습니다') parametric reform through grand social compromise to guarantee the sustainability of pension finances."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (31.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "단기적인 땜질식 처방만으로는 근본적인 청년 일자리 문제를 해결할 수 없다는 비판을 면하기 어렵습니다.",
+          "reading": "Dan-gijeogin ttaemjilsik cheobang-man-euro-neun geunbonjeogin cheongnyeon iljari munje-reul haegyeolhal su eopdaneun bipan-eul myeonhagi eoryeopseumnida.",
+          "translation": "It is difficult to avoid criticism ('비판을 면하기 어렵습니다') that fundamental youth job problems cannot be solved with short-term makeshift remedies alone."
+        },
+        {
+          "target": "이해관계가 첨예하게 대립하는 사안일수록 숙의 민주주의에 기반한 공론화 과정이 반드시 선행되어야 합니다.",
+          "reading": "Ihae-gwan-gye-ga cheom-yehage daeriphaneun sa-an-ilsurok sug-ui minjuju-ui-e gibanhan gongronhwa jeolcha-ga bandeusi seonhaengdoe-eoya hamnida.",
+          "translation": "The more an issue involves sharply conflicting interests, the more a public deliberation process based on deliberative democracy must precede."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "직면한 현시점, 골든타임 사수, ~로 귀결될 공산, 당위성 역설, 사회적 대타협 선행!"
+      ],
+      "culturalNotes": [
+        "한국의 공론화 위원회(Deliberation Committee)는 대형 국책 사업이나 첨예한 사회적 쟁점(원전, 대입 제도, 연금 개혁 등)에서 일반 시민 패널의 숙의 토론을 통해 사회적 합의를 도출하는 대표적 숙의 민주주의 모델입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "시사 논증에서 어떤 사태가 부정적인 최종 결과로 끝날 확률이 매우 높음을 경고할 때 쓰는 고급 관용 문형은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (31.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (31.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (31.4.3)."
+            "~로 귀결될 공산이 크다 (High probability of culminating in)",
+            "~로 끝나면 내가 밥을 사겠다",
+            "~로 될지 안 될지 아무도 모른다"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'~로 귀결될 공산이 크다'는 결과의 인과적 귀결 가능성을 격조 높게 예측하는 표현입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 현대 사회 담론과 도시 발전 정책 (Sociopolitical Debates) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "정책의 마땅한 이치나 반드시 실행해야 하는 필요성을 강력하게 주장하며 강조할 때 쓰는 표현은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (31.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (31.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (31.4.3)."
+            "당위성을 역설하다 (Emphasize the imperativeness of)",
+            "그냥 해보자고 건의하다",
+            "남의 말을 흉내 내다"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "마땅히 해야 할 도리나 필요성을 힘주어 말할 때 '당위성을 역설하다'를 사용합니다."
         }
       ]
     },
@@ -14568,14 +14631,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 31-4)?",
+          "prompt": "국가적 위기 상황에서 결단의 시기를 놓치지 말아야 함을 강조하는 시사 표현은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (31.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (31.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (31.4.3)."
+            "개혁의 골든타임을 실기해서는 안 된다.",
+            "시간이 많으니 천천히 나중에 생각하자.",
+            "어차피 안 될 일이니 포기하는 게 낫다."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'골든타임을 실기해서는 안 된다'는 정책 추진의 결정적 시기를 강조하는 표현입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'사회적 대타협의 당위성을 강력히 역설했어요'(They strongly emphasized the imperativeness of grand social compromise)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "사회적 대타협의 당위성을 강력히 역설했어요.",
+            "사회적 대타협의 당위성을 강력히 역설했어요"
+          ],
+          "explanation": "사회적 대타협의 + 당위성을 + 강력히 + 역설했어요 = 사회적 대타협의 당위성을 강력히 역설했어요."
         }
       ]
     }
@@ -14585,56 +14657,65 @@
     "subject": "korean",
     "unit": 31,
     "lessonNumber": 5,
-    "title": "현대 사회 담론과 도시 발전 정책 (Sociopolitical Debates) (Part 5)",
+    "title": "대통령 직속 저출산고령사회위원회 및 사회적 대타협 실전 종합 담화",
     "level": "C2",
-    "objective": "Comprehensive mastery of 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates).",
+    "objective": "저출생 극복, 연금 개혁, 노동 시장 개편 및 세대 간 사회적 대타협을 총망라한 최고급 C2 정책 토론 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 현대 사회 담론과 도시 발전 정책 (Sociopolitical Debates) » (제5절)의 핵심 언어 요소와 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "대통령 직속 위원회 및 노사정 사회적 대화 기구(경제사회노동위원회)에서 진행되는 대한민국 최고 수준의 정책 공론화 실전 담화 모델입니다.\n\n1. 사회적 대타협 국민 대토론회 실전 모델:\n- 사회자: 지금부터 인구 절벽 위기 극복과 세대 상생을 위한 노사정 대타협 대토론회를 시작하겠습니다. 정부 측 기조 발제를 청해 듣겠습니다.\n- 정부 대표(장관): **초고령사회 진입과 인구 절벽에 직면한 현시점에서** 연금 개혁과 노동 시장 유연화는 국가 생존의 필수 과제입니다. 개혁의 **골든타임을 실기한다면** 미래 세대의 감당할 수 없는 부담으로 **귀결될 공산이 큽니다**. 이에 정부는 세대 간 형평성을 고려한 사회적 연대 모델을 제안합니다.\n- 노동계 대표: 정년 연장과 청년 일자리 보장이 상호 충돌하지 않도록 직무급제 전환에 대한 단계적 도입과 비정규직 차별 철폐가 **선행되어야 함을 역설하는 바입니다**.\n- 경영계 대표: 기업의 지속 가능한 지불 능력을 고려하여 유연근무제 확대와 과도한 규제 혁파가 병행될 때 진정한 **사회적 대타협**이 완성될 수 있습니다.\n- 사회자: 각계의 고뇌와 혜안이 담긴 제언에 감사드리며, 상호 양보와 연대의 정신으로 합의안을 도출해 나가겠습니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (31.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "노사정 대표들이 한자리에 모여 세대 간 상생과 국가 미래를 위한 역사적인 사회적 대타협 선언문을 채택하였습니다.",
+          "reading": "Nosajeong daepyodeul-i hanjari-e moyeo sedae gan sangsaeng-gwa gukga mirae-reul wihan yeoksajeogin sahoejeok daetahyeop seoneonmun-eul chaetaekhayeotseumnida.",
+          "translation": "Labor, management, and government representatives gathered in one place and adopted a historic grand social compromise declaration for intergenerational coexistence and national future."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (31.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "갈등을 넘어 연대와 포용으로 나아가는 성숙한 숙의 민주주의가 한국 사회의 새로운 희망을 제시하고 있습니다.",
+          "reading": "Galdeung-eul neomeo yeondae-wa poyong-euro na-aganeun seongsukhan sug-ui minjuju-ui-ga hanguk sahoe-ui saeroun huimang-eul jesihago itseumnida.",
+          "translation": "Mature deliberative democracy moving beyond conflict toward solidarity and inclusion is presenting new hope for Korean society."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (31.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "사회적 약자를 보듬는 든든한 사회안전망 구축이야말로 진정한 선진 복지 국가로 도약하는 지름길입니다.",
+          "reading": "Sahoejeok yakja-reul bodeumneun deundeunhan sahoe-anjeonmang guchuk-iyamallo jinjeonghan seonjin bokji gukga-ro do-yakhaneun jireumgil-imnida.",
+          "translation": "Building a solid social safety net embracing the socially vulnerable is indeed the shortcut to leaping into a truly advanced welfare state."
+        },
+        {
+          "target": "미래 세대에게 희망찬 공동체를 물려주기 위해 오늘 우리 사회는 책임 있는 대결단을 내려야 합니다.",
+          "reading": "Mirae sedae-ege huimangchan gongdongche-reul mulryeojugi wihae oneul uri sahoe-neun chaegim inneun daegyeoldan-eul naeryeoya hamnida.",
+          "translation": "To hand down a hopeful community to future generations, our society today must make a responsible grand decision."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "노사정 대화: 갈등 극복, 미래 세대 연대, 상생의 사회적 대타협!"
+      ],
+      "culturalNotes": [
+        "한국의 '노사정위원회(현 경제사회노동위원회)'는 노동계(노조), 경영계(사용자), 정부가 모여 노동 조건과 복지 정책을 협의하는 대통령 직속 사회적 대화 기구입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "노동자, 사용자(기업), 정부의 대표가 모여 노동 정책과 사회 복지 개혁안을 합의하는 3자 협의 기구 모델은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (31.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (31.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (31.5.3)."
+            "노사정 사회적 대타협 (Labor-Management-Government Social Compromise)",
+            "일방적 행정명령 (Unilateral Executive Order)",
+            "무제한 필리버스터 (Unlimited Filibuster)"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "노동계, 경영계, 정부가 3자 합의를 도출하는 기제를 '노사정 사회적 대타협'이라고 합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 현대 사회 담론과 도시 발전 정책 (Sociopolitical Debates) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "국가적 대토론회 기조 발제에서 사회적 위기 극복을 촉구할 때 가장 모범적인 C2 담화 종결 표현은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (31.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (31.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (31.5.3)."
+            "미래 세대를 위해 개혁의 골든타임을 놓치지 말고 사회적 대타협을 이루어야 합니다.",
+            "서로 싸우다가 망하든 말든 상관하지 않겠습니다.",
+            "복잡한 문제는 다음 대통령이 알아서 할 일입니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "미래 세대를 위한 책임 있는 개혁과 사회적 대타협을 촉구하는 표현이 가장 품격 있습니다."
         }
       ]
     },
@@ -14642,14 +14723,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 31-5)?",
+          "prompt": "다음 중 한국의 인구·복지·노동 정책 최고급 시사 담화로서 가장 완벽한 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (31.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (31.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (31.5.3)."
+            "인구 절벽에 직면한 현시점에서 사회적 대타협을 통해 연금 개혁과 상생의 노동 시장을 구축해야 합니다.",
+            "인구가 줄어들면 학교를 다 없애고 아무것도 안 하면 됩니다.",
+            "외국인들을 전부 쫓아내면 모든 문제가 해결됩니다."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "explanation": "'인구 절벽에 직면한 현시점', '사회적 대타협', '연금 개혁과 상생의 노동 시장'은 완벽한 C2 시사 담화입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'골든타임을 놓치지 않고 사회적 대타협을 달성했어요'(We achieved grand social compromise without missing the golden time)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "골든타임을 놓치지 않고 사회적 대타협을 달성했어요.",
+            "골든타임을 놓치지 않고 사회적 대타협을 달성했어요"
+          ],
+          "explanation": "골든타임을 + 놓치지 않고 + 사회적 대타협을 + 달성했어요 = 골든타임을 놓치지 않고 사회적 대타협을 달성했어요."
         }
       ]
     }
