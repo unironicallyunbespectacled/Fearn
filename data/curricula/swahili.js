@@ -3355,53 +3355,62 @@
     "subject": "swahili",
     "unit": 8,
     "lessonNumber": 1,
-    "title": "Virejeshi vya Watendwa (Object Infixes in Verbs) (Part 1)",
+    "title": "Virejeshi vya Watendwa kwa Nafsi za Watu (Object Infixes for Human Persons: -ni-, -ku-, -m-, -tu-, -wa-)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.1) with authentic precision.",
+    "objective": "Kutambua na kutumia virejeshi vya watendwa (Object Infixes / OP) kwa nafsi zote za kibinadamu: -ni- (me), -ku- (you sg), -m-/-mw- (him/her), -tu- (us), na -wa- (them/you pl) vilivyopachikwa ndani ya kitenzi kati ya kiambishi cha wakati na shina.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Virejeshi vya Watendwa kwa Nafsi za Watu (Object Infixes for Persons):\n\n1. **Dhana ya Kirejeshi cha Mtendwa (Object Infix / OP)**:\n   - Katika Kiswahili, kiwakilishi cha mtendwa (direct/indirect object pronoun) huingizwa **moja kwa moja ndani ya kitenzi** kama kiambishi cha kati.\n   - **Muundo wa Kitenzi chenye Kirejeshi cha Mtendwa**:\n     `Kiambishi Nafsi (SP) + Kiambishi Wakati (TM) + Kiambishi Mtendwa (OP) + Shina la Kitenzi`\n\n2. **Orodha ya Virejeshi vya Watu (Human Object Infixes)**:\n   - *Mimi* (me): **-ni-** (*a-na-**ni**-ona* -> **ananiona** = he sees me, *a-li-**ni**-saidia* -> **alinisaidia** = he helped me)\n   - *Wewe* (you sg): **-ku-** (*ni-na-**ku**-penda* -> **ninakupenda** = I love you, *tu-ta-**ku**-saidia* -> **tutakusaidia** = we will help you)\n   - *Yeye* (him/her): **-m-** kabla ya konsonanti, **-mw-** kabla ya irabu (*ni-na-**m**-fahamu* -> **ninamfahamu** = I know him, *ni-me-**mw**-ona* -> **nimemwona** = I have seen him/her)\n   - *Sisi* (us): **-tu-** (*wa-na-**tu**-ita* -> **wanatuita** = they are calling us, *a-li-**tu**-fundisha* -> **alitufundisha** = he taught us)\n   - *Wao* (them): **-wa-** (*ni-na-**wa**-penda* -> **ninawapenda** = I love them, *tu-ta-**wa**-tembelea* -> **tutawatembelea** = we will visit them)\n\n3. **Umuhimu wa Kisarufi**:\n   - Kirejeshi cha mtendwa ni **lazima kitumike** wakati mtendwa ni binadamu aliyetajwa wazi katika sentensi: *Ninamwona Juma* (I see Juma).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 8."
+          "target": "Mwalimu wetu ananifundisha lugha ya Kiswahili na anatusaidia kufanya mazoezi.",
+          "reading": "Mwa-li-mu we-tu a-na-ni-fu-ndi-sha lu-gha ya Ki-swa-hi-li na a-na-tu-sa-i-dia ku-fa-nya ma-zo-e-zi. [mwɑˈlimu ˈwɛtu ɑnɑnifunˈdiʃɑ ˈluɣɑ jɑ kiswɑˈhili nɑ ɑnɑtusɑˈidiɑ kuˈfɑɲɑ mɑzɔˈɛzi] (mwah-LEE-moo WAY-too ah-nah-nee-foon-DEE-shah LOO-ghah yah kee-swah-HEE-lee nah ah-nah-too-sah-EE-dee-ah koo-FAH-nyah mah-zoh-AY-zee)",
+          "translation": "Our teacher is teaching me [OP -ni-: ananifundisha] the Swahili language and helping us [OP -tu-: anatusaidia] do exercises."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 8-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mimi ninamfahamu daktari yule vizuri na jana nilimwona hospitalini.",
+          "reading": "Mi-mi ni-na-mfa-ha-mu da-kta-ri yu-le vi-zu-ri na ja-na ni-li-mwo-na ho-spi-ta-li-ni. [ˈmimi ninɑmfɑˈhɑmu dɑkˈtɑri ˈjulɛ viˈzuri nɑ ˈʤɑnɑ nilimˈwɔnɑ hɔspitɑˈlini] (MEE-mee nee-nahm-fah-HAH-moo dahk-TAH-ree YOO-lay vee-ZOO-ree nah JAH-nah nee-leem-WOH-nah hoh-spee-tah-LEE-nee)",
+          "translation": "I know that doctor [OP -m-: ninamfahamu] well and yesterday I saw him [OP -mw- before vowel: nilimwona] at the hospital."
+        },
+        {
+          "target": "Wazazi wangu wanawapenda watoto wote na watawatembelea shuleni mwishoni mwa juma.",
+          "reading": "Wa-za-zi wa-ngu wa-na-wa-pe-nda wa-to-to wo-te na wa-ta-wa-te-mbe-le-a shu-le-ni mwi-sho-ni mwa ju-ma. [wɑˈzɑzi ˈwɑŋɡu wɑnɑwɑˈpɛndɑ wɑˈtɔtɔ ˈwɔtɛ nɑ wɑtɑwɑtɛmbɛˈlɛɑ ʃuˈlɛni mwiˈʃɔni mwɑ ˈʤumɑ] (wah-ZAH-zee WAHN-goo wah-nah-wah-PAYN-dah wah-TOH-toh WOH-tay nah wah-tah-wah-tahm-bay-LAY-ah shoo-LAY-nee mwee-SHOH-nee mwah JOO-mah)",
+          "translation": "My parents love all the children [OP -wa-: wanawapenda] and will visit them [OP -wa-: watawatembelea] at school this weekend."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Virejeshi vya Watu: Mimi=-NI-, Wewe=-KU-, Yeye=-M-/-MW-, Sisi=-TU-, Wao=-WA- (ananiona, ninakusaidia, ninampenda, wanatuita, ninawatembelea)!"
+      ],
+      "culturalNotes": [
+        "Matumizi ya virejeshi vya watendwa kwa watu ni alama ya lugha sanifu na heshima, yakionyesha utambuzi wa utu katika mawasiliano ya kila siku ya Waswahili."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Bili\":",
+          "prompt": "Sentensi ipi ina kirejeshi sahihi cha mtendwa kinachomaanisha \"Yeye alitusaidia sisi jana\"?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Soko»",
-            "Mpangilio usio sahihi wa viambishi katika «Ununuzi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kadi»"
+            "Yeye alitusaidia jana jioni. (He helped us yesterday evening - Correct 1st person plural object infix '-tu-')",
+            "Yeye alinisaidia sisi jana (Kosa la kutumia '-ni-' ya umoja kwa 'sisi')",
+            "Yeye alikusaidia sisi jana (Kosa la kutumia '-ku-' ya wewe)",
+            "Yeye aliwasaidia sisi jana (Kosa la kutumia '-wa-' ya wao)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kirejeshi cha mtendwa cha nafsi ya kwanza wingi (Sisi) ni «-tu-», hivyo kitenzi huwa «alitusaidia»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Bili\":",
+          "prompt": "Unapotaka kusema \"Mimi ninamwona mwalimu yule\", kirejeshi kipi cha mtendwa kimetumika kabla ya shina '-ona'?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Ununuzi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kadi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Soko»"
+            "-mw- (Kirejeshi cha nafsi ya tatu umoja kabla ya irabu: ninamwona)",
+            "-wa- (Kirejeshi cha wingi)",
+            "-ki- (Kirejeshi cha vitu)",
+            "-ku- (Kirejeshi cha nafsi ya pili)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kabla ya shina linaloanza na irabu kama «-ona», kirejeshi cha nafsi ya tatu umoja «-m-» hubadilika kuwa «-mw-»: «ninamwona»."
         }
       ]
     },
@@ -3409,17 +3418,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Bili\": Which sentence is completely correct?",
+          "prompt": "Chagua nafasi sahihi ya kirejeshi cha mtendwa (object infix) katika muundo wa kitenzi cha Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kadi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Soko»",
-            "Mpangilio usio sahihi wa viambishi katika «Ununuzi»"
+            "Kirejeshi cha mtendwa huingizwa moja kwa moja kati ya kiambishi cha wakati na shina la kitenzi (mfano: a-na-m-penda). (Object infix is inserted directly between the tense marker and the verb root.)",
+            "Kirejeshi cha mtendwa huwekwa mwanzoni kabisa mwa kitenzi.",
+            "Kirejeshi cha mtendwa huwekwa mwishoni kabisa baada ya irabu ya mwisho.",
+            "Kirejeshi cha mtendwa hutenganishwa kama neno tofauti linalojitegemea."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kirejeshi cha mtendwa huingizwa moja kwa moja kati ya kiambishi cha wakati na shina la kitenzi (mfano: a-na-m-penda).» ndiyo kanuni sahihi ya kimofolojia."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u8-l2": {
@@ -3427,53 +3437,62 @@
     "subject": "swahili",
     "unit": 8,
     "lessonNumber": 2,
-    "title": "Virejeshi vya Watendwa (Object Infixes in Verbs) (Part 2)",
+    "title": "Virejeshi vya Watendwa kwa Ngeli za Nomino (Object Infixes for Noun Classes: KI-VI, M-MI, JI-MA, N-N)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.2) with authentic precision.",
+    "objective": "Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu: KI-VI (-ki-/-vi-), M-MI (-u-/-i-), JI-MA (-li-/-ya-), na N-N (-i-/-zi-) kurejelea nomino zilizotajwa.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Virejeshi vya Watendwa kwa Ngeli za Vitu (Object Infixes for Noun Classes):\n\n1. **Ulinganifu wa Virejeshi vya Ngeli (Noun Class Object Infixes)**:\n   - **Ngeli ya KI-VI (Classes 7/8)**:\n     - Umoja: **-ki-** (*Kitabu hiki ninakisoma* = I am reading this book)\n     - Wingi: **-vi-** (*Vitabu hivi ninavisoma* = I am reading these books)\n   - **Ngeli ya M-MI (Classes 3/4)**:\n     - Umoja: **-u-** (*Mti huu ninaukata* = I am cutting this tree)\n     - Wingi: **-i-** (*Miti hii ninaikata* = I am cutting these trees)\n   - **Ngeli ya JI-MA (Classes 5/6)**:\n     - Umoja: **-li-** (*Gari hili ninalipenda* = I like this car)\n     - Wingi: **-ya-** (*Magari haya ninayapenda* = I like these cars)\n   - **Ngeli ya N-N (Classes 9/10)**:\n     - Umoja: **-i-** (*Barua hii ninaipokea* = I receive this letter)\n     - Wingi: **-zi-** (*Barua hizi ninazipokea* = I receive these letters)\n\n2. **Kazi ya Kirejeshi cha Ngeli**:\n   - Kirejeshi hutumika kusisitiza nomino mahususi ('the specific one') au kubadilisha nomino kuwa kiwakilishi: *Umekiona kitabu? - Ndiyo, nimekiona!* (Have you seen the book? - Yes, I've seen it!).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 8."
+          "target": "Kitabu hiki ni kizuri sana; mimi ninakisoma sasa na kaka yangu amekisoma tayari.",
+          "reading": "Ki-ta-bu hi-ki ni ki-zu-ri sa-na; mi-mi ni-na-ki-so-ma sa-sa na ka-ka ya-ngu a-me-ki-so-ma ta-ya-ri. [kiˈtɑbu ˈhiki ni kiˈzuri ˈsɑnɑ ˈmimi ninɑkiˈsɔmɑ ˈsɑsɑ nɑ ˈkɑkɑ ˈjɑŋɡu ɑmɛkiˈsɔmɑ tɑˈjɑri] (kee-TAH-boo HEE-kee nee kee-ZOO-ree SAH-nah; MEE-mee nee-nah-kee-SOH-mah SAH-sah nah KAH-kah YAHN-goo ah-may-kee-SOH-mah tah-YAH-ree)",
+          "translation": "This book is very good; I am reading it [class 7 OP -ki-: ninakisoma] now and my brother has already read it [OP -ki-: amekisoma]."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 8-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Gari letu jipya liliharibika lakini fundi amelitengeneza vizuri.",
+          "reading": "Ga-ri le-tu ji-pya li-li-ha-ri-bi-ka la-ki-ni fu-ndi a-me-li-te-nge-ne-za vi-zu-ri. [ˈɡɑri ˈlɛtu ˈʤipjɑ lilihɑriˈbikɑ lɑˈkini ˈfundi ɑmɛlitɛŋɡɛˈnɛzɑ viˈzuri] (GAH-ree LAY-too JEE-pyah lee-lee-hah-ree-BEE-kah lah-KEE-nee FOON-dee ah-may-lee-tayn-gay-NAY-zah vee-ZOO-ree)",
+          "translation": "Our new car broke down, but the mechanic has repaired it [class 5 OP -li-: amelitengeneza] well."
+        },
+        {
+          "target": "Nyumba zote za kijijini zilipambwa na wanakijiji wanazitunza kwa usafi.",
+          "reading": "Nyu-mba zo-te za ki-ji-ji-ni zi-li-pa-mbwa na wa-na-ki-ji-ji wa-na-zi-tu-nza kwa u-sa-fi. [ˈɲumbɑ ˈzɔtɛ zɑ kiʤiˈʤini zilipɑmˈbwɑ nɑ wɑnɑkiˈʤiʤi wɑnɑziˈtunzɑ kwɑ usɑˈfi] (NYOOM-bah ZOH-tay zah kee-jee-jee-NEE zee-lee-PAHM-bwah nah wah-nah-kee-jee-JEE wah-nah-zee-TOON-zah kwah oo-SAH-fee)",
+          "translation": "All village houses were decorated and villagers maintain them [class 10 OP -zi-: wanazitunza] with cleanliness."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Virejeshi vya Vitu: KI-VI=-ki-/-vi-, JI-MA=-li-/-ya-, M-MI=-u-/-i-, N-N=-i-/-zi- (ninakisoma, ninalipenda, wanazitunza)!"
+      ],
+      "culturalNotes": [
+        "Upatanisho wa virejeshi vya ngeli humwezesha msemaji kufanya mazungumzo marefu bila kurudia-rudia majina ya vitu kila mara, jambo linalofanya usemi uwe fasaha na mtamu kusikiliza."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Soko\":",
+          "prompt": "Sentensi ipi inatumia kirejeshi sahihi cha mtendwa kurejelea nomino ya wingi \"Magari\" (Ngeli ya JI-MA)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ununuzi»",
-            "Mpangilio usio sahihi wa viambishi katika «Kadi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Pesa taslimu»"
+            "Fundi anayatengeneza magari yote gereji. (The mechanic is repairing them [cars] at the garage - Correct Class 6 object infix '-ya-')",
+            "Fundi analitengeneza magari yote gereji (Kosa la kutumia umoja '-li-')",
+            "Fundi anazitengeneza magari yote gereji (Kosa la kutumia kiambishi cha N-N)",
+            "Fundi anawatengeneza magari yote gereji (Kosa la kutumia kiambishi cha watu)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino «Magari» (wingi katika Ngeli ya JI-MA) huchukua kirejeshi cha mtendwa «-ya-»: «anayatengeneza»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Soko\":",
+          "prompt": "Unapotaka kusema \"Niliziona nyumba zote nzuri\", kirejeshi kipi cha mtendwa kimetumika katika kitenzi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Kadi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Pesa taslimu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ununuzi»"
+            "-zi- (Kirejeshi cha mtendwa cha Ngeli ya 10 N-N wingi: niliziona)",
+            "-ki- (Kirejeshi cha Ngeli ya 7)",
+            "-ya- (Kirejeshi cha Ngeli ya 6)",
+            "-li- (Kirejeshi cha Ngeli ya 5)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kirejeshi cha mtendwa cha wingi wa Ngeli ya N-N (Nyumba) ni «-zi-», hivyo kitenzi kinakuwa «niliziona»."
         }
       ]
     },
@@ -3481,17 +3500,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Soko\": Which sentence is completely correct?",
+          "prompt": "Chagua uoanishaji sahihi wa nomino na kirejeshi chake cha mtendwa katika sentensi:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Pesa taslimu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ununuzi»",
-            "Mpangilio usio sahihi wa viambishi katika «Kadi»"
+            "Chakula -> ninakila (-ki-), Magari -> ninayanunua (-ya-), Barua -> ninazisoma (-zi-), Mti -> ninaukata (-u-).",
+            "Chakula -> ninamla, Magari -> ninawala, Barua -> ninamwona.",
+            "Chakula -> ninalikula, Magari -> ninazisoma, Barua -> ninakiona.",
+            "Ngeli zote za vitu hutumia kirejeshi kimoja tu cha '-m-'."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Upatanisho sahihi wa ngeli kwa virejeshi vya watendwa ni: Chakula (-ki-), Magari (-ya-), Barua wingi (-zi-), na Mti (-u-)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u8-l3": {
@@ -3499,53 +3519,62 @@
     "subject": "swahili",
     "unit": 8,
     "lessonNumber": 3,
-    "title": "Virejeshi vya Watendwa (Object Infixes in Verbs) (Part 3)",
+    "title": "Kirejeshi cha Mtenda Mwenyewe: Kiambishi -ji- (Reflexive Infix -ji-)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.3) with authentic precision.",
+    "objective": "Kuelewa na kutumia kirejeshi cha mtenda mwenyewe (Reflexive Infix) '-ji-' ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kirejeshi cha Mtenda Mwenyewe (The Reflexive Infix -ji-):\n\n1. **Dhana ya Kirejeshi -ji- (Reflexive Marker)**:\n   - Kiambishi **-ji-** hutumika kama kirejeshi cha mtendwa pale ambapo **mtendaji na mtendwa ni mtu yule yule** (self / reflexive action).\n   - Tofauti na virejeshi vingine vinavyobadilika kulingana na nafsi au ngeli, kiambishi **-ji- ni thabiti na hakibadiliki kamwe** kwa nafsi yoyote (Mimi, Wewe, Yeye, Sisi, Ninyi, Wao) au ngeli yoyote!\n\n2. **Mifano ya Vitenzi vya Kirejeshi (Reflexive Verbs)**:\n   - *jifunza* (teach oneself -> learn / study): *ninajifunza Kiswahili*\n   - *jilinda* (protect oneself / defend oneself): *tunajilinda*\n   - *jionea* (see for oneself / witness directly): *watajionea*\n   - *jipikia* (cook for oneself): *anajipikia*\n   - *jiheshimu* (respect oneself): *jiheshimu ili uheshimiwe*\n   - *jiumiza* (hurt/injure oneself): *alijiumiza mguu*\n   - *jitahidi* (make an effort / strive): *tunajitahidi*",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 8."
+          "target": "Wanafunzi wanajifunza sarufi ya Kiswahili kwa bidii ili wajiendeleze kimasomo.",
+          "reading": "Wa-na-fu-nzi wa-na-ji-fu-nza sa-ru-fi ya Ki-swa-hi-li kwa bi-di-i i-li wa-ji-e-nde-le-ze ki-ma-so-mo. [wɑnɑˈfunzi wɑnɑʤiˈfunzɑ sɑˈrufi jɑ kiswɑˈhili kwɑ biˈdiː ˈili wɑʤiɛndɛˈlɛzɛ kimɑˈsɔmɔ] (wah-nah-FOON-zee wah-nah-jee-FOON-zah sah-ROO-fee yah kee-swah-HEE-lee kwah bee-DEE EE-lee wah-jee-ayn-day-LAY-zay kee-mah-SOH-moh)",
+          "translation": "Students are learning [reflexive -ji-: wanajifunza] Swahili grammar diligently so that they may advance themselves [reflexive -ji-: wajiendeleze] academically."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 8-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mimi ninajilinda dhidi ya magonjwa kwa kula chakula bora na kufanya mazoezi.",
+          "reading": "Mi-mi ni-na-ji-li-nda dhi-di ya ma-go-njwa kwa ku-la cha-ku-la bo-ra na ku-fa-nya ma-zo-e-zi. [ˈmimi ninɑʤiˈlindɑ ˈðidi jɑ mɑˈɡɔɲwɑ kwɑ ˈkulɑ tʃɑˈkulɑ ˈbɔrɑ nɑ kuˈfɑɲɑ mɑzɔˈɛzi] (MEE-mee nee-nah-jee-LEEN-dah THEE-dee yah mah-GOHN-jwah kwah KOO-lah chah-KOO-lah BOH-rah nah koo-FAH-nyah mah-zoh-AY-zee)",
+          "translation": "I protect myself [reflexive -ji-: ninajilinda] against diseases by eating wholesome food and exercising."
+        },
+        {
+          "target": "Msichana huyu anajipikia chakula kitamu cha jioni nyumbani kwake kila siku.",
+          "reading": "Msi-cha-na hu-yu a-na-ji-pi-ki-a cha-ku-la ki-ta-mu cha ji-o-ni nyu-mba-ni kwa-ke ki-la si-ku. [msiˈtʃɑnɑ ˈhuju ɑnɑʤipiˈkiɑ tʃɑˈkulɑ kiˈtɑmu tʃɑ ʤiˈɔni ɲumbɑˈni ˈkwɑkɛ ˈkilɑ ˈsiku] (m-see-CHAH-nah HOO-yoo ah-nah-jee-pee-KEE-ah chah-KOO-lah kee-TAH-moo chah jee-OH-nee nyoom-bah-NEE KWAH-kay KEE-lah SEE-koo)",
+          "translation": "This girl cooks delicious dinner for herself [reflexive applicative -ji-...-ia: anajipikia] at her home every day."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kirejeshi -JI-: 'Mimi mwenyewe' = -JI-! Ninajifunza, ninajilinda, anajipikia, wanajiheshimu!"
+      ],
+      "culturalNotes": [
+        "Methali maarufu ya Kiswahili inasema: 'Mcheza kwao hutunzwa, na ajitumeaye haanguki' — ikisisitiza umuhimu wa kujiheshimu na kujitegemea maishani."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Ununuzi\":",
+          "prompt": "Sentensi ipi inaonyesha mtenda akijitendea tendo mwenyewe kwa kutumia kirejeshi '-ji-'?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kadi»",
-            "Mpangilio usio sahihi wa viambishi katika «Pesa taslimu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nyumba»"
+            "Mwanafunzi anajiandaa kwa ajili ya mtihani wake wa kesho. (The student is preparing himself for his exam tomorrow - Correct reflexive infix '-ji-')",
+            "Mwanafunzi anamuandaa kwa ajili ya mtihani (Kirejeshi cha kumwandaa mtu mwingine)",
+            "Mwanafunzi anatuandaa kwa mtihani (Kirejeshi cha kutuandaa sisi)",
+            "Mwanafunzi anawaandaa wengine (Kirejeshi cha kuwaandaa wao)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kirejeshi «-ji-» katika «anajiandaa» kinaonyesha kwamba mwanafunzi anajiandaa yeye mwenyewe."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Ununuzi\":",
+          "prompt": "Kwanini kirejeshi '-ji-' ni cha pekee ikilinganishwa na virejeshi vingine vya watendwa?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Pesa taslimu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nyumba»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kadi»"
+            "Kwa sababu kinatumika kwa nafsi zote sita na ngeli zote bila kubadilika umbo lake kamwe. (Because it is used invariantly across all six persons and all noun classes without changing shape.)",
+            "Kwa sababu kinatumika tu kwa wanyama wa porini pekee",
+            "Kwa sababu kinabadilika kuwa '-jo-' katika wakati uliopita",
+            "Kwa sababu kinatumika tu asubuhi na mapema"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kirejeshi «-ji-» hakibadiliki kamwe kulingana na nafsi au ngeli; kinabaki «-ji-» daima."
         }
       ]
     },
@@ -3553,17 +3582,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Ununuzi\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi zenye vitenzi vinavyotumia kirejeshi cha mtenda mwenyewe (-ji-) kwa usahihi kabisa:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nyumba»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kadi»",
-            "Mpangilio usio sahihi wa viambishi katika «Pesa taslimu»"
+            "Sisi tunajifunza Kiswahili, mzee anajilinda kwa fimbo, na watoto wanajiheshimu shuleni. (We are learning [reflexive], the elder protects himself [reflexive], and children respect themselves [reflexive].)",
+            "Sisi tunamfunza Kiswahili wakati wazee wanatutunza.",
+            "Watoto wanawapenda walimu na wanawasikiliza.",
+            "Kirejeshi '-ji-' kinakataza vitenzi kuwa na viambishi vya wakati."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Sisi tunajifunza Kiswahili, mzee anajilinda kwa fimbo, na watoto wanajiheshimu shuleni.» inatumia kirejeshi «-ji-» kuonyesha matendo ya kujirejelea yenyewe."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u8-l4": {
@@ -3571,53 +3601,62 @@
     "subject": "swahili",
     "unit": 8,
     "lessonNumber": 4,
-    "title": "Virejeshi vya Watendwa (Object Infixes in Verbs) (Part 4)",
+    "title": "Mwingiliano wa Virejeshi vya Watendwa na Vitenzi vya Silabi Moja na Ukanushaji (Object Infixes with Monosyllabics & Negation)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.4) with authentic precision.",
+    "objective": "Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa (hupoteza kiambishi 'ku-') na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Virejeshi vya Watendwa katika Vitenzi vya Silabi Moja na Ukanushaji:\n\n1. **Vitenzi vya Silabi Moja na Kirejeshi cha Mtendwa (OP with Monosyllabics)**:\n   - Kitenzi cha silabi moja kinapopata kirejeshi cha mtendwa (OP), **hupoteza kiambishi cha 'ku-' katika hali zote** (kwa sababu kirejeshi cha mtendwa hutoa silabi ya ziada inayowezesha mkazo kutua kwenye silabi ya pili kutoka mwisho):\n     - *kula* -> *a-na-**ki**-la* -> **anakila** (he is eating it [food]) [siyo *anakikula*]\n     - *kunywa* -> *a-li-**ya**-nywa* -> **aliyanywa** (he drank it [water]) [siyo *aliyukunywa*]\n     - *kuwa* -> *a-na-**m**-wia* -> **anamwia** (he is being towards him)\n\n2. **Virejeshi vya Watendwa katika Ukanushaji (OP in Negated Verbs)**:\n   - Kirejeshi cha mtendwa kinabaki ndani ya kitenzi hata kinapokanushwa:\n     - Wakati Uliopo: *si-**mw**-on-i* -> **simwoni** (I do not see him)\n     - Wakati Uliopita: *si-ku-**ki**-on-a* -> **sikukiona** (I did not see it)\n     - Wakati Ujao: *si-ta-**ku**-sahau* -> **sitakusahau** (I will not forget you)\n     - Wakati Timilifu: *ha-ja-**m**-wambi-a* -> **hajamwambia** (he has not told him yet)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 8."
+          "target": "Chakula kile kimeiva na watoto wanakila chote kwa furaha.",
+          "reading": "Cha-ku-la ki-le ki-me-i-va na wa-to-to wa-na-ki-la cho-te kwa fu-ra-ha. [tʃɑˈkulɑ ˈkilɛ kimɛˈivɑ nɑ wɑˈtɔtɔ wɑnɑˈkilɑ ˈtʃɔtɛ kwɑ fuˈrɑhɑ] (chah-KOO-lah KEE-lay kee-may-EE-vah nah wah-TOH-toh wah-nah-KEE-lah CHOH-tay kwah foo-RAH-hah)",
+          "translation": "That food is cooked and children are eating it [OP -ki- drops 'ku-': wanakila] all with joy."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 8-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mimi sitakusahau rafiki yangu na daima nitakukumbuka maishani.",
+          "reading": "Mi-mi si-ta-ku-sa-hau ra-fi-ki ya-ngu na da-i-ma ni-ta-ku-ku-mbu-ka ma-i-sha-ni. [ˈmimi sitɑkuˈsɑhɑu rɑˈfiki ˈjɑŋɡu nɑ dɑˈimɑ nitɑkukumˈbukɑ mɑiˈʃɑni] (MEE-mee see-tah-koo-SAH-hah-oo rah-FEE-kee YAHN-goo nah dah-EE-mah nee-tah-koo-koom-BOO-kah mah-ee-SHAH-nee)",
+          "translation": "I will not forget you [negated future OP -ku-: sitakusahau] my friend and will always remember you [OP -ku-: nitakukumbuka] in life."
+        },
+        {
+          "target": "Mwalimu hajamwona mwanafunzi yule darasani asubuhi ya leo.",
+          "reading": "Mwa-li-mu ha-ja-mwo-na mwa-na-fu-nzi yu-le da-ra-sa-ni a-su-bu-hi ya le-o. [mwɑˈlimu hɑʤɑmˈwɔnɑ mwɑnɑˈfunzi ˈjulɛ dɑrɑˈsɑni ɑsuˈbuhi jɑ ˈlɛɔ] (mwah-LEE-moo hah-jah-m-WOH-nah mwah-nah-FOON-zee YOO-lay dah-rah-SAH-nee ah-soo-BOO-hee yah LAY-oh)",
+          "translation": "The teacher has not yet seen [negated perfective OP -mw-: hajamwona] that student in class this morning."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vitenzi vya Silabi Moja na OP: Kirejeshi kinaondoa 'ku-': ananila, anakila, aliyanywa; katika ukanusho: simwoni, sitakusahau!"
+      ],
+      "culturalNotes": [
+        "Kauli ya 'Sitakusahau' (I will not forget you) hutumiwa sana katika nyimbo za mapenzi na tenzi za kuagana za Waswahili kama ishara ya kumbukumbu ya dhati."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kadi\":",
+          "prompt": "Unapoweka kirejeshi cha mtendwa '-ki-' (chakula) katika kitenzi cha silabi moja 'kula' katika wakati uliopo, umbo sahihi ni lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Pesa taslimu»",
-            "Mpangilio usio sahihi wa viambishi katika «Nyumba»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Chumba»"
+            "anakila (He/She is eating it - Correct dropping of 'ku-' when object infix '-ki-' is present)",
+            "anakikula (Kosa la kubakiza 'ku-' lisilohitajika)",
+            "anakula kitabu (Kutotambua maana ya kirejeshi)",
+            "analikula (Kosa la upatanisho wa ngeli ya JI-MA badala ya KI-VI)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kirejeshi cha mtendwa kinapoingia kwenye kitenzi cha silabi moja, kiambishi «ku-» hufutwa: «anakila»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kadi\":",
+          "prompt": "Sentensi ipi inachanganya ukanushaji wa wakati ujao na kirejeshi cha mtendwa kwa usahihi kabisa?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Nyumba»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Chumba»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Pesa taslimu»"
+            "Mimi sitakusahau kamwe maishani mwangu. (I will never forget you in my life - Flawless negated future with object infix '-ku-')",
+            "Mimi sitokusahau kamwe (Mabadiliko yasiyo sanifu ya kiambishi cha wakati)",
+            "Mimi sikukusahau kesho kutwa (Kutatanisha uliopita na siku zijazo)",
+            "Mimi sinakusahau sasa (Muundo usio sahihi wa ukanushaji)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Ukanushaji wa wakati ujao wenye kirejeshi cha mtendwa «-ku-» (wewe) ni «sitakusahau»."
         }
       ]
     },
@@ -3625,17 +3664,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kadi\": Which sentence is completely correct?",
+          "prompt": "Ni kanuni gani inayotokea pale kitenzi cha silabi moja kinapopata kirejeshi cha mtendwa (object infix)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Chumba»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Pesa taslimu»",
-            "Mpangilio usio sahihi wa viambishi katika «Nyumba»"
+            "Hupoteza kiambishi 'ku-' katika nyakati zote kwa sababu kirejeshi cha mtendwa hutoa silabi ya ziada kwa ajili ya mkazo wa sauti (mfano: anakila, aliyanywa). (It drops 'ku-' across all tenses because the object infix provides the extra penultimate syllable for stress.)",
+            "Huhifadhi 'ku-' na kuongeza 'ku-' ya pili.",
+            "Kitenzi hubadilika kuwa nomino.",
+            "Hakuna mabadiliko yoyote yanayotokea."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Hupoteza kiambishi 'ku-' katika nyakati zote kwa sababu kirejeshi cha mtendwa hutoa silabi ya ziada kwa ajili ya mkazo wa sauti (mfano: anakila, aliyanywa).» ndiyo kanuni kuu ya kifonolojia."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u8-l5": {
@@ -3643,53 +3683,62 @@
     "subject": "swahili",
     "unit": 8,
     "lessonNumber": 5,
-    "title": "Virejeshi vya Watendwa (Object Infixes in Verbs) (Part 5)",
+    "title": "Muhtasari wa Virejeshi vya Watendwa (Grand Synthesis of Object Infixes)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 8: virejeshi vya watendwa kwa watu (-ni-, -ku-, -m-, -tu-, -wa-), ngeli za vitu (-ki-/-vi-, -u-/-i-, -li-/-ya-, -i-/-zi-), kirejeshi cha nafsi -ji-, na kanuni zake katika ukanushaji na vitenzi vya silabi moja.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Virejeshi vya Watendwa (Grand Synthesis of Object Infixes):\n\n1. **Muundo Mkuu wa Kitenzi chenye Kirejeshi**:\n   `Kiambishi Nafsi (SP) + Kiambishi Wakati (TM) + Kiambishi Mtendwa (OP) + Shina`\n\n2. **Jedwali la Virejeshi vya Watendwa (Comprehensive OP Matrix)**:\n   - **Watu**: *-ni-* (mimi), *-ku-* (wewe), *-m-/-mw-* (yeye), *-tu-* (sisi), *-wa-* (wao/ninyi).\n   - **Ngeli za Vitu**: KI-VI (*-ki-/-vi-*), M-MI (*-u-/-i-*), JI-MA (*-li-/-ya-*), N-N (*-i-/-zi-*).\n   - **Kirejeshi cha Kujirejelea**: *-ji-* (myself/yourself/himself/ourselves/themselves - hakibadiliki kamwe!).\n\n3. **Kanuni za Kipekee**:\n   - Vitenzi vya silabi moja hupoteza *ku-*: *anakila, aliyanywa*.\n   - Katika ukanushaji, kirejeshi kinabaki ndani ya kitenzi: *simwoni, sikukiona, sitakusahau, hajamwambia*.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 8."
+          "target": "Kitabu nilichokinunua jana, nimekileta darasani ili mwalimu akisome na anieleze maoni yake.",
+          "reading": "Ki-ta-bu ni-li-cho-ki-nu-nua ja-na, ni-me-ki-le-ta da-ra-sa-ni i-li mwa-li-mu a-ki-so-me na a-ni-e-le-ze ma-o-ni ya-ke. [kiˈtɑbu nilitʃɔkinuˈnuɑ ˈʤɑnɑ nimɛkiˈlɛtɑ dɑrɑˈsɑni ˈili mwɑˈlimu ɑkiˈsɔmɛ nɑ ɑniɛˈlɛzɛ mɑˈɔni ˈjɑkɛ] (kee-TAH-boo nee-lee-choh-kee-NOO-noo-ah JAH-nah, nee-may-kee-LAY-tah dah-rah-SAH-nee EE-lee mwah-LEE-moo ah-kee-SOH-may nah ah-nee-ay-LAY-zay mah-OH-nee YAH-kay)",
+          "translation": "The book I bought [OP -ki-: nilichokinunua] yesterday, I have brought it [OP -ki-: nimekileta] to class so the teacher may read it [OP -ki-: akisome] and explain his opinions to me [OP -ni-: anieleze]."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 8-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Sisi tunajiheshimu, tunawapenda majirani zetu, na tunalilinda taifa letu kwa uaminifu.",
+          "reading": "Si-si tu-na-ji-he-shi-mu, tu-na-wa-pe-nda ma-ji-ra-ni ze-tu, na tu-na-li-li-nda ta-i-fa le-tu kwa u-a-mi-ni-fu. [ˈsisi tunɑʤihɛˈʃimu tunɑwɑˈpɛndɑ mɑʤiˈrɑni ˈzɛtu nɑ tunɑliˈlindɑ tɑˈifɑ ˈlɛtu kwɑ uɑmiˈnifu] (SEE-see too-nah-jee-hay-SHEE-moo, too-nah-wah-PAYN-dah mah-jee-RAH-nee ZAY-too, nah too-nah-lee-LEEN-dah tah-EE-fah LAY-too kwah oo-ah-mee-NEE-foo)",
+          "translation": "We respect ourselves [reflexive: tunajiheshimu], love our neighbors [OP -wa-: tunawapenda], and protect our nation [OP -li-: tunalilinda] with loyalty."
+        },
+        {
+          "target": "Virejeshi vya watendwa huunganisha nomino na vitenzi kwa ufupi na uzuri usio na kifani katika muundo wa Kiswahili sanifu.",
+          "reading": "Vi-re-je-shi vya wa-te-ndwa hu-u-nga-ni-sha no-mi-no na vi-te-nzi kwa u-fu-pi na u-zu-ri u-si-o na ki-fa-ni ka-ti-ka mu-u-ndo wa Ki-swa-hi-li sa-ni-fu. [virɛˈʤɛʃi vjɑ wɑˈtɛndwɑ huuŋɡɑˈniʃɑ nɔˈminɔ nɑ viˈtɛnzi kwɑ uˈfupi nɑ uˈzuri usiˈɔ nɑ kiˈfɑni kɑˈtikɑ muˈundɔ wɑ kiswɑˈhili sɑˈnifu] (vee-ray-JAY-shee vyah wah-TAYN-dwah hoo-oon-gah-NEE-shah noh-MEE-noh nah vee-TAYN-zee kwah oo-FOO-pee nah oo-ZOO-ree oo-see-OH nah kee-FAH-nee kah-TEE-kah moo-OON-doh wah kee-swah-HEE-lee sah-NEE-foo)",
+          "translation": "Object infixes [object infixes synthesis: virejeshi vya watendwa] seamlessly connect nouns and verbs with unparalleled conciseness and beauty in standard Swahili syntax."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Muhtasari wa Virejeshi: Watu (-ni-, -ku-, -m-, -tu-, -wa-), Ngeli (-ki-/-vi-, -li-/-ya-, -u-/-i-, -i-/-zi-), Mtenda Mwenyewe (-ji-)!"
+      ],
+      "culturalNotes": [
+        "Umahiri wa kutumia virejeshi vya watendwa unampa mzungumzaji wa Kiswahili uwezo wa kutunga mashairi, hadithi, na hotuba zenye mvuto mkubwa na uchumi wa maneno."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Pesa taslimu\":",
+          "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa virejeshi vya watendwa kwa watu, vitu, na kirejeshi cha nafsi -ji-?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nyumba»",
-            "Mpangilio usio sahihi wa viambishi katika «Chumba»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Jiko»"
+            "Mimi ninamheshimu mwalimu, ninakisoma kitabu chake, na ninajifunza kwa bidii. (I respect the teacher [OP -m-], read his book [OP -ki-], and learn [reflexive -ji-] diligently - Harmonious object infix synthesis)",
+            "Mimi ninawajua kitabu na ninakisoma mwalimu (Upotoshaji wa virejeshi kati ya watu na vitu)",
+            "Mimi ninakikula chakula na sitomsahau yeye (Makosa ya kubakiza 'ku' na kiambishi kisicho sanifu)",
+            "Kitabu chote alituona jana usiku (Muundo usio na maana)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Mimi ninamheshimu mwalimu, ninakisoma kitabu chake, na ninajifunza kwa bidii.» inatumia kirejeshi cha mtu (-m-), cha kitu (-ki-), na cha nafsi (-ji-) kwa usahihi."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Pesa taslimu\":",
+          "prompt": "Katika muhtasari wa Unit 8, ni jukumu gani kuu la virejeshi vya watendwa katika lugha ya Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Chumba»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Jiko»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nyumba»"
+            "Hurejelea mtendwa moja kwa moja ndani ya kitenzi ili kuepuka kurudia majina mara kwa mara na kuleta mtiririko fasaha wa sentensi. (They reference the object directly inside the verb to avoid repetitive naming and create fluent sentential flow)",
+            "Hufuta vitenzi na kubakiza nomino pekee",
+            "Hutumika tu katika nyakati za kale za karne ya kumi na sita",
+            "Huzuia matumizi ya viambishi nafsi vya watendaji"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Virejeshi vya watendwa huwakilisha au kusisitiza watendwa ndani ya kitenzi kwa mtiririko fasaha wa kisarufi."
         }
       ]
     },
@@ -3697,17 +3746,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Pesa taslimu\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 8 ya Virejeshi vya Watendwa katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Jiko»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nyumba»",
-            "Mpangilio usio sahihi wa viambishi katika «Chumba»"
+            "Kitabu nilichokiazima maktaba nimekileta darasani, mwalimu amekisoma, amenieleza umuhimu wake, na wanafunzi wote wanajifunza maudhui yake. (The book I borrowed from library I have brought it [ki-], teacher has read it [ki-], explained its value to me [ni-], and all students are learning [ji-] its content.)",
+            "Kitabu nilichomwazima nimekikula darasani na mwalimu anawatenda jana.",
+            "Wanafunzi wote wanayajua mwalimu na linakisoma kitabu chake kesho.",
+            "Virejeshi vya watendwa vinakataza matumizi ya kirejeshi cha nafsi '-ji-'."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kitabu nilichokiazima maktaba nimekileta darasani, mwalimu amekisoma, amenieleza umuhimu wake, na wanafunzi wote wanajifunza maudhui yake.» inajumuisha virejeshi vya ngeli (-ki-), mtu (-ni-), na nafsi (-ji-) kwa ufasaha mkubwa."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u9-l1": {
