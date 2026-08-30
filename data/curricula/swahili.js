@@ -1715,53 +1715,62 @@
     "subject": "swahili",
     "unit": 4,
     "lessonNumber": 1,
-    "title": "Wakati Uliopita: Kiambishi -li- (Simple Past Tense) (Part 1)",
+    "title": "Muundo wa Kitenzi katika Wakati Uliopita (-li-) (Verb Morphology of the Past Tense -li-)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.1) with authentic precision.",
+    "objective": "Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili: Kiambishi Nafsi (SP) + Kiambishi cha Wakati Uliopita (-li-) + Shina la Kitenzi kwa nafsi zote sita.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muundo wa Kitenzi katika Wakati Uliopita (Past Tense -li- Morphology):\n\n1. **Kiambishi cha Wakati Uliopita (-li-)**:\n   - Katika Kiswahili, matendo yaliyokamilika au yaliyotendeka hapo awali (Simple Past Tense) huwakilishwa na kiambishi **-li-**.\n\n2. **Mnyambuliko wa Nafsi Zote Sita (Conjugation Paradigm)**:\n   - *Mimi* (I): **ni-** + **li-** + **soma** -> **nilisoma** (I read / I studied)\n   - *Wewe* (You sg): **u-** + **li-** + **soma** -> **ulisoma** (You read)\n   - *Yeye* (He/She): **a-** + **li-** + **soma** -> **alisoma** (He/She read)\n   - *Sisi* (We): **tu-** + **li-** + **soma** -> **tulisoma** (We read)\n   - *Ninyi* (You pl): **m-** + **li-** + **soma** -> **mlisoma** (You all read)\n   - *Wao* (They): **wa-** + **li-** + **soma** -> **walisoma** (They read)\n\n3. **Vitenzi vya Kawaida (Regular Verbs)**:\n   - *andika* (write) -> *aliandika* (he wrote)\n   - *fika* (arrive) -> *walifika* (they arrived)\n   - *anza* (begin) -> *tulianza* (we began)\n   - *safiri* (travel) -> *nilisafiri* (I traveled)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 4."
+          "target": "Jana asubuhi nilisoma kitabu cha historia na rafiki yangu aliandika barua ndefu.",
+          "reading": "Ja-na a-su-bu-hi ni-li-so-ma ki-ta-bu cha hi-sto-ri-a na ra-fi-ki ya-ngu a-li-a-ndi-ka ba-ru-a nde-fu. [ˈʤɑnɑ ɑsuˈbuhi niliˈsɔmɑ kiˈtɑbu tʃɑ histɔˈriɑ nɑ rɑˈfiki ˈjɑŋɡu ɑliɑnˈdikɑ bɑˈruɑ ˈndɛfu] (JAH-nah ah-soo-BOO-hee nee-lee-SOH-mah kee-TAH-boo chah hees-toh-REE-ah nah rah-FEE-kee YAHN-goo ah-lee-ahn-DEE-kah bah-ROO-ah N-DAY-foo)",
+          "translation": "Yesterday morning I read [past tense 1st person: nilisoma] a history book and my friend wrote [past tense 3rd person: aliandika] a long letter."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 4-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Walimu wote walifika shuleni mapema na walianza masomo kwa wakati.",
+          "reading": "Wa-li-mu wo-te wa-li-fi-ka shu-le-ni ma-pe-ma na wa-li-a-nza ma-so-mo kwa wa-ka-ti. [wɑˈlimu ˈwɔtɛ wɑliˈfikɑ ʃuˈlɛni mɑˈpɛmɑ nɑ wɑliˈɑnzɑ mɑˈsɔmɔ kwɑ wɑˈkɑti] (wah-LEE-moo WOH-tay wah-lee-FEE-kah shoo-LAY-nee mah-PAY-mah nah wah-lee-AHN-zah mah-SOH-moh kwah wah-KAH-tee)",
+          "translation": "All teachers arrived [past tense 3rd person plural: walifika] at school early and began [past tense: walianza] lessons on time."
+        },
+        {
+          "target": "Sisi tulitembelea mji mkuu wa Dar es Salaam na tulifurahi sana kuona bahari.",
+          "reading": "Si-si tu-li-te-mbe-le-a m-ji mku-u wa Dar es Sa-laam na tu-li-fu-ra-hi sa-na ku-o-na ba-ha-ri. [ˈsisi tulitɛmbɛˈlɛɑ ˈmʤi mˈkuː wɑ dɑr ɛs sɑˈlɑːm nɑ tulifuˈrɑhi ˈsɑnɑ kuˈɔnɑ bɑˈhɑri] (SEE-see too-lee-tahm-bay-LAY-ah M-jee M-KOO wah dahr ays sah-LAHM nah too-lee-foo-RAH-hee SAH-nah koo-OH-nah bah-HAH-ree)",
+          "translation": "We visited [past tense 1st person plural: tulitembelea] the principal city of Dar es Salaam and rejoiced [past tense: tulifurahi] very much to see the sea."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Wakati Uliopita: Kiambishi cha Jana ni -LI- (ni-LI-soma, u-LI-soma, a-LI-soma, tu-LI-soma, m-LI-soma, wa-LI-soma)!"
+      ],
+      "culturalNotes": [
+        "Jiji la Dar es Salaam (lenye maana ya 'Bandari ya Amani' kwa Kiarabu) ni kitovu kikuu cha biashara na utamaduni wa pwani ya Afrika Mashariki."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Maharagwe\":",
+          "prompt": "Sentensi sahihi inayoelezea nafsi ya kwanza umoja (Mimi) katika wakati uliopita wa kitenzi 'safiri' ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mboga»",
-            "Mpangilio usio sahihi wa viambishi katika «Matunda»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nyama»"
+            "Mimi nilisafiri kwenda Arusha jana. (I traveled to Arusha yesterday - Correct 1st person singular past 'ni-li-safiri')",
+            "Mimi ninasafiri kwenda Arusha jana (Mchanganyiko wa wakati uliopo na neno 'jana')",
+            "Mimi walisafiri kwenda Arusha jana (Kosa la kiambishi cha wingi)",
+            "Mimi alilisafiri kwenda Arusha jana (Kiambishi cha ziada kisicho sahihi)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kiambishi nafsi cha «Mimi» ni «ni-» na kiambishi cha wakati uliopita ni «-li-», hivyo kitenzi huwa «nilisafiri»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Maharagwe\":",
+          "prompt": "Unapoelezea jinsi wanafunzi (Wao) walivyofanya kazi nzuri darasani jana, unatumia kauli ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Matunda»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nyama»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mboga»"
+            "Wanafunzi walifanya kazi kwa bidii na walifaulu. (Students worked hard and passed - Correct 3rd person plural past tense)",
+            "Wanafunzi anafanya kazi kwa bidii jana (Kosa la wakati na idadi)",
+            "Wanafunzi tulifanya kazi kwa bidii jana (Kosa la nafsi)",
+            "Wanafunzi mlifanya kazi kwa bidii jana (Kosa la nafsi ya pili)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kwa nafsi ya tatu wingi (Wanafunzi/Wao), viambishi sahihi vya wakati uliopita ni «walifanya» na «walifaulu»."
         }
       ]
     },
@@ -1769,17 +1778,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Maharagwe\": Which sentence is completely correct?",
+          "prompt": "Chagua kanuni sahihi inayofafanua muundo wa wakati uliopita katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nyama»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mboga»",
-            "Mpangilio usio sahihi wa viambishi katika «Matunda»"
+            "Kitenzi cha wakati uliopita kinatumia kiambishi cha wakati '-li-' kati ya kiambishi nafsi na shina la kitenzi (mfano: ni-li-soma). (Past tense verb uses tense marker -li- between subject prefix and verb root.)",
+            "Wakati uliopita unatumia kiambishi '-ta-' pekee.",
+            "Kiswahili hakina kiambishi cha wakati uliopita bali kinatumia neno 'zamani' pekee.",
+            "Wakati uliopita huondoa herufi zote za mwanzo za kitenzi."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kitenzi cha wakati uliopita kinatumia kiambishi cha wakati '-li-' kati ya kiambishi nafsi na shina la kitenzi (mfano: ni-li-soma).» ndiyo kanuni sahihi ya sarufi."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u4-l2": {
@@ -1787,53 +1797,62 @@
     "subject": "swahili",
     "unit": 4,
     "lessonNumber": 2,
-    "title": "Wakati Uliopita: Kiambishi -li- (Simple Past Tense) (Part 2)",
+    "title": "Vitenzi vya Silabi Moja katika Wakati Uliopita (Monosyllabic Verbs in Past Tense: Kula, Kunywa, Kuja, Kwenda)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.2) with authentic precision.",
+    "objective": "Kutambua na kutumia vitenzi vya silabi moja (kula, kunywa, kuja, kwenda) katika wakati uliopita (-li-), ambavyo huhifadhi kiambishi 'ku-' kwa ajili ya mkazo wa sauti.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vitenzi vya Silabi Moja katika Wakati Uliopita (Monosyllabic Verbs with -li-):\n\n1. **Kuhifadhi Kiambishi 'ku-' (Infinitive Prefix Retention)**:\n   - Kama ilivyo katika wakati uliopo (*-na-*), vitenzi vya silabi moja **huvumilia na kubakiza kiambishi 'ku-'** katika wakati uliopita (**-li-**):\n     - *-la* (eat) -> *ni-li-**ku**-la* -> **nilikula** (I ate)\n     - *-nywa* (drink) -> *a-li-**ku**-nywa* -> **alikunywa** (he drank)\n     - *-ja* (come) -> *wa-li-**ku**-ja* -> **walikuja** (they came)\n     - *-enda* (go) -> *tu-li-**kwe**-nda* -> **tulikwenda** (we went)\n     - *-fa* (die) -> *a-li-**ku**-fa* -> **alikufa** (he died)\n     - *-wa* (be) -> *wa-li-**ku**-wa* -> **walikuwa** (they were)\n\n2. **Mifano Katika Sentensi Kamili**:\n   - *Mimi nilikula wali jana.* (I ate rice yesterday.)\n   - *Wageni walikuja mapema.* (Guests came early.)\n   - *Sisi tulikwenda shambani.* (We went to the farm.)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 4."
+          "target": "Mgeni wetu alikula wali wa biriani na alikunywa juisi baridi ya embe.",
+          "reading": "Mge-ni we-tu a-li-ku-la wa-li wa bi-ri-a-ni na a-li-ku-nywa ju-i-si ba-ri-di ya e-mbe. [mˈɡɛni ˈwɛtu ɑliˈkulɑ ˈwɑli wɑ biriˈɑni nɑ ɑliˈkuɲwɑ ʤuˈisi bɑˈridi jɑ ˈɛmbɛ] (M-GAY-nee WAY-too ah-lee-KOO-lah WAH-lee wah bee-ree-AH-nee nah ah-lee-KOO-nywah joo-EE-see bah-REE-dee yah AYM-bay)",
+          "translation": "Our guest ate [past monosyllabic -la: alikula] biryani rice and drank [past monosyllabic -nywa: alikunywa] cold mango juice."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 4-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Watalii wengi walikuja nchini mwetu na walikwenda kutazama mlima Kilimanjaro.",
+          "reading": "Wa-ta-li-i we-ngi wa-li-ku-ja nchi-ni mwe-tu na wa-li-kwe-nda ku-ta-za-ma mli-ma Ki-li-ma-nja-ro. [wɑtɑˈliː ˈwɛŋɡi wɑliˈkuʤɑ ˈntʃini ˈmwɛtu nɑ wɑliˈkwɛndɑ kutɑˈzɑmɑ ˈmlimɑ kilimɑˈnʤɑrɔ] (wah-tah-LEE-ee WAYN-gee wah-lee-KOO-jah N-CHEE-nee MWAY-too nah wah-lee-KWAYN-dah koo-tah-ZAH-mah M-LEE-mah kee-lee-mahn-JAH-roh)",
+          "translation": "Many tourists came [past monosyllabic -ja: walikuja] to our country and went [past monosyllabic -enda: walikwenda] to see Mount Kilimanjaro."
+        },
+        {
+          "target": "Jana mchana watoto walikula matunda matamu na walikunywa maziwa safi.",
+          "reading": "Ja-na mcha-na wa-to-to wa-li-ku-la ma-tu-nda ma-ta-mu na wa-li-ku-nywa ma-zi-wa sa-fi. [ˈʤɑnɑ mˈtʃɑnɑ wɑˈtɔtɔ wɑliˈkulɑ mɑˈtundɑ mɑˈtɑmu nɑ wɑliˈkuɲwɑ mɑˈziwɑ ˈsɑfi] (JAH-nah M-CHAH-nah wah-TOH-toh wah-lee-KOO-lah mah-TOON-dah mah-TAH-moo nah wah-lee-KOO-nywah mah-ZEE-wah SAH-fee)",
+          "translation": "Yesterday afternoon the children ate [past monosyllabic: walikula] sweet fruits and drank [past monosyllabic: walikunywa] fresh milk."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vitenzi vya Silabi Moja na -LI-: 'Ku-' haitoki: nilikula, alikunywa, walikuja, tulikwenda!"
+      ],
+      "culturalNotes": [
+        "Mlima Kilimanjaro (ulio nchini Tanzania) ndio mlima mrefu zaidi barani Afrika na kivutio kikubwa cha utalii duniani kote."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mboga\":",
+          "prompt": "Chagua kitenzi sahihi cha wakati uliopita kinachomaanisha \"Sisi tulikula chakula jana\":",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Matunda»",
-            "Mpangilio usio sahihi wa viambishi katika «Nyama»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Samaki»"
+            "tulikula (We ate - Correct retention of 'ku-' in past tense for monosyllabic stem -la)",
+            "tulila (Kosa la kuangusha kiambishi 'ku-')",
+            "tulilia (Kitenzi kingine: kulia / to weep/cry)",
+            "tulilala (Kitenzi kingine: kulala / to sleep)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «-la» kikiwa katika wakati uliopita huhifadhi «ku-», hivyo husemwa «tulikula»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mboga\":",
+          "prompt": "Sentensi ipi inatumia vitenzi vya silabi moja katika wakati uliopita kwa usahihi kabisa?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Nyama»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Samaki»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Matunda»"
+            "Wageni walikuja asubuhi na walikunywa kahawa moto. (Guests came in the morning and drank hot coffee - Accurate past monosyllabic usage)",
+            "Wageni walija asubuhi na walinywa kahawa moto (Kosa la kuondoa kiambishi 'ku-')",
+            "Wageni walikula kahawa moto (Matumizi yasiyo sahihi ya kula badala ya kunywa)",
+            "Wageni watakuja kesho asubuhi (Wakati ujao badala ya wakati uliopita)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Muundo sanifu wa vitenzi vya silabi moja katika wakati uliopita ni «walikuja» na «walikunywa»."
         }
       ]
     },
@@ -1841,17 +1860,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mboga\": Which sentence is completely correct?",
+          "prompt": "Chagua kanuni sahihi kuhusu vitenzi vya silabi moja katika wakati uliopita (-li-):",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Samaki»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Matunda»",
-            "Mpangilio usio sahihi wa viambishi katika «Nyama»"
+            "Vitenzi vyenye shina la silabi moja kama 'kula', 'kunywa', na 'kuja' huhifadhi kiambishi 'ku-' katika wakati uliopita (nilikula, alikunywa, walikuja). (Monosyllabic verbs retain 'ku-' in simple past tense.)",
+            "Vitenzi vyote vya Kiswahili hufuta herufi zake za mwisho katika wakati uliopita.",
+            "Kiambishi 'ku-' hutumika tu katika wakati ujao na hakipatikani kamwe katika wakati uliopita.",
+            "Vitenzi vya silabi moja havina wakati uliopita katika lugha ya Kiswahili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Vitenzi vyenye shina la silabi moja kama 'kula', 'kunywa', na 'kuja' huhifadhi kiambishi 'ku-' katika wakati uliopita (nilikula, alikunywa, walikuja).» ndiyo kanuni kuu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u4-l3": {
@@ -1859,53 +1879,62 @@
     "subject": "swahili",
     "unit": 4,
     "lessonNumber": 3,
-    "title": "Wakati Uliopita: Kiambishi -li- (Simple Past Tense) (Part 3)",
+    "title": "Viashiria vya Nyakati Zilizopita na Masimulizi (Past Time Adverbials & Storytelling)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.3) with authentic precision.",
+    "objective": "Kutumia vielezi vya wakati uliopita (jana, juzi, zamani, mwaka jana, wiki iliyopita) na kujenga masimulizi ya hadithi na matukio ya kihistoria kwa mtiririko wa kimantiki.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vielezi vya Wakati Uliopita na Masimulizi (Past Time Adverbials & Narrative Flow):\n\n1. **Msamiati wa Vielezi vya Wakati Uliopita (Past Time Markers)**:\n   - **jana** (yesterday): *Jana nilisoma kitabu.*\n   - **juzi** (day before yesterday): *Juzi tulikwenda mjini.*\n   - **juzi juzi** (recently / few days ago): *Walifika juzi juzi.*\n   - **zamani / kale** (long ago / in the past): *Hapo zamani za kale...*\n   - **wiki iliyopita** (last week): *Wiki iliyopita tulianza mtihani.*\n   - **mwezi uliopita** (last month): *Mwezi uliopita alinunua gari.*\n   - **mwaka jana** (last year): *Mwaka jana tulitembelea Zanzibar.*\n\n2. **Kujenga Masimulizi ya Matukio (Narrative Sequencing)**:\n   - *Kwanza* (First) -> *Halafu / Kisha* (Then / Afterward) -> *Mwishowe* (Finally):\n     - *Kwanza tulifika kituoni, halafu tulipanda basi, na mwishowe tulifika salama nyumbani.*",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 4."
+          "target": "Juzi jioni tulikwenda ufukweni mwa bahari na jana tulitembelea soko kuu la samaki.",
+          "reading": "Ju-zi ji-o-ni tu-li-kwe-nda u-fu-kwe-ni mwa ba-ha-ri na ja-na tu-li-te-mbe-le-a so-ko ku-u la sa-ma-ki. [ˈʤuzi ʤiˈɔni tulikwɛˈndɑ ufuˈkwɛni mwɑ bɑˈhɑri nɑ ˈʤɑnɑ tulitɛmbɛˈlɛɑ ˈsɔkɔ ˈkuː lɑ sɑˈmɑki] (JOO-zee jee-OH-nee too-lee-KWAYN-dah oo-foo-KWAY-nee mwah bah-HAH-ree nah JAH-nah too-lee-tahm-bay-LAY-ah soh-KOH KOO lah sah-MAH-kee)",
+          "translation": "The day before yesterday evening we went [past adverbial: juzi jioni] to the sea beach and yesterday we visited [past adverbial: jana] the main fish market."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 4-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mwaka jana wakulima walivuna mahindi mengi sana na waliuza mazao yao kwa bei nzuri.",
+          "reading": "Mwa-ka ja-na wa-ku-li-ma wa-li-vu-na ma-hi-ndi me-ngi sa-na na wa-li-u-za ma-za-o ya-o kwa be-i nzu-ri. [ˈmwɑkɑ ˈʤɑnɑ wɑkuˈlimɑ wɑliˈvunɑ mɑˈhindi ˈmɛŋɡi ˈsɑnɑ nɑ wɑliˈuzɑ mɑˈzɑɔ ˈjɑɔ kwɑ ˈbɛi ˈnzuri] (MWAH-kah JAH-nah wah-koo-LEE-mah wah-lee-VOO-nah mah-HEEN-dee MAYN-gee SAH-nah nah wah-lee-OO-zah mah-ZAH-oh YAH-oh kwah BAY-ee N-ZOO-ree)",
+          "translation": "Last year [past adverbial: mwaka jana] farmers harvested a lot of corn and sold their crops at a good price."
+        },
+        {
+          "target": "Hapo zamani wazee wetu walisimulia hadithi nzuri za kusisimua chini ya mwezi mwangavu.",
+          "reading": "Ha-po za-ma-ni wa-ze-e we-tu wa-li-si-mu-li-a ha-di-thi nzu-ri za ku-si-si-mu-a chi-ni ya mwe-zi mwa-nga-vu. [ˈhɑpɔ zɑˈmɑni wɑˈzɛː ˈwɛtu wɑlisimuˈliɑ hɑˈdiθi ˈnzuri zɑ kusisiˈmuɑ ˈtʃini jɑ ˈmwɛzi mwɑˈŋɡɑvu] (HAH-poh zah-MAH-nee wah-ZAY WAY-too wah-lee-see-moo-LEE-ah hah-DEE-thee N-ZOO-ree zah koo-see-see-MOO-ah CHEE-nee yah MWAY-zee mwahn-GAH-voo)",
+          "translation": "Long ago [folklore past marker: hapo zamani] our elders narrated wonderful exciting stories under the bright moon."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vipindi vya Kale: Jana (1 day ago), Juzi (2 days ago), Wiki iliyopita (last week), Zamani (long ago)!"
+      ],
+      "culturalNotes": [
+        "Hadithi simulizi za usiku chini ya mwezi ('Hadithi za Kunguru na Sungura Mjanja') zilikuwa njia kuu ya wazee kurithisha maadili, lugha na historia kwa vizazi vipya."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Matunda\":",
+          "prompt": "Kielezi kipi cha wakati kinamaanisha siku iliyotangulia jana (Two days ago)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nyama»",
-            "Mpangilio usio sahihi wa viambishi katika «Samaki»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Gari»"
+            "Juzi (Day before yesterday - Accurate past time adverbial)",
+            "Kesho (Siku inayofuata leo)",
+            "Sasa hivi (Wakati uliopo)",
+            "Keshokutwa (Siku mbili zijazo)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Neno «Juzi» linamaanisha siku iliyotangulia jana (the day before yesterday)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Matunda\":",
+          "prompt": "Sentensi ipi ina mtiririko sahihi wa masimulizi ya wakati uliopita?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Samaki»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Gari»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nyama»"
+            "Kwanza tulifika kijijini, halafu tulisalimia wazee, na mwishowe tulikula chakula cha jioni. (First we arrived at the village, then greeted elders, and finally ate dinner - Perfect narrative sequencing)",
+            "Kwanza tulifika kijijini, kesho tutasalimia wazee, na jana tulikula chakula (Mvurugiko mkubwa wa nyakati)",
+            "Halafu tulifika kijijini kwanza kabla ya kuanza safari (Mlolongo usio na mantiki)",
+            "Zamani tulikula chakula kesho asubuhi (Kutatanisha wakati uliopita na ujao)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Kwanza tulifika kijijini, halafu tulisalimia wazee, na mwishowe tulikula chakula cha jioni.» inafuata mtiririko mzuri wa hadithi katika wakati uliopita."
         }
       ]
     },
@@ -1913,17 +1942,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Matunda\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha sahihi ya vielezi vinavyotumika pekee kuelezea wakati uliopita katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Gari»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nyama»",
-            "Mpangilio usio sahihi wa viambishi katika «Samaki»"
+            "Jana, juzi, mwaka jana, wiki iliyopita, hapo zamani. (Yesterday, day before yesterday, last year, last week, long ago.)",
+            "Kesho, keshokutwa, mwaka ujao, sasa hivi.",
+            "Daima, mara kwa mara, kamwe, kila siku.",
+            "Badae, usiku wa kesho, mapema kesho kutwa."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Jana, juzi, mwaka jana, wiki iliyopita, hapo zamani.» ndivyo vielezi halisi vya wakati uliopita."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u4-l4": {
@@ -1931,53 +1961,62 @@
     "subject": "swahili",
     "unit": 4,
     "lessonNumber": 4,
-    "title": "Wakati Uliopita: Kiambishi -li- (Simple Past Tense) (Part 4)",
+    "title": "Upatanisho wa Ngeli Mbalimbali katika Wakati Uliopita (Noun Class Concord with Past Tense -li-)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.4) with authentic precision.",
+    "objective": "Kutambua upatanisho wa kisarufi wa ngeli nyingine (KI-VI, M-MI, JI-MA, N-N) katika wakati uliopita (-li-) na jinsi viambishi ngeli vinavyoungana na kitenzi.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Upatanisho wa Ngeli Tofauti katika Wakati Uliopita (Concord across Noun Classes with -li-):\n\n1. **Ngeli ya KI-VI (Classes 7/8)**:\n   - Umoja (**ki-**): *Kiti **ki**livunjika.* (The chair broke.)\n   - Wingi (**vi-**): *Viti **vi**livunjika.* (The chairs broke.)\n   - *Chakula **ki**liiva.* (Food got cooked.) / *Vyakula **vi**liiva.*\n\n2. **Ngeli ya M-MI (Classes 3/4)**:\n   - Umoja (**u-**): *Mti **u**lianguka.* (The tree fell.)\n   - Wingi (**i-**): *Miti **i**lianguka.* (Trees fell.)\n   - *Mto **u**lifurika.* (The river flooded.) / *Mito **i**lifurika.*\n\n3. **Ngeli ya JI-MA (Classes 5/6)**:\n   - Umoja (**li-**): *Gari **li**lifika.* (The car arrived.)\n   - Wingi (**ya-**): *Magari **ya**lifika.* (Cars arrived.)\n   - *Neno **li**lisemwa.* / *Maneno **ya**lisemwa.*\n\n4. **Ngeli ya N-N (Classes 9/10)**:\n   - Umoja (**i-**): *Mvua **i**linyesha.* (Rain fell.)\n   - Wingi (**zi-**): *Nyumba **zi**lijengwa.* (Houses were built.)\n   - *Ndege **i**litua.* / *Ndege **zi**litua.*",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 4."
+          "target": "Mvua kubwa ilinyesha usiku kucha na mito yote ilifurika maji mengi.",
+          "reading": "Mvu-a ku-bwa i-li-nye-sha u-si-ku ku-cha na mi-to yo-te i-li-fu-ri-ka ma-ji me-ngi. [ˈmvuɑ ˈkubwɑ ilinˈjɛʃɑ uˈsiku ˈkutʃɑ nɑ ˈmitɔ ˈjɔtɛ ilifuˈrikɑ ˈmɑʤi ˈmɛŋɡi] (MVOO-ah KOO-bwah ee-lee-NYAY-shah oo-SEE-koo KOO-chah nah MEE-toh YOH-tay ee-lee-foo-REE-kah MAH-jee MAYN-gee)",
+          "translation": "Heavy rain fell [class 9 N-N singular: ilinyesha] all night and all rivers flooded [class 4 M-MI plural: ilifurika] with plenty of water."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 4-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Gari la abiria lilifika stendi salama na magari mengine yalisimama kando ya barabara.",
+          "reading": "Ga-ri la a-bi-ri-a li-li-fi-ka ste-ndi sa-la-ma na ma-ga-ri me-ngi-ne ya-li-si-ma-ma ka-ndo ya ba-ra-ba-ra. [ˈɡɑri lɑ ɑbiˈriɑ liliˈfikɑ ˈstɛndi sɑˈlɑmɑ nɑ mɑˈɡɑri mɛˈŋɡinɛ jɑlisiˈmɑmɑ ˈkɑndɔ jɑ bɑrɑˈbɑrɑ] (GAH-ree lah ah-bee-REE-ah lee-lee-FEE-kah STAYN-dee sah-LAH-mah nah mah-GAH-ree mayn-GEE-nay yah-lee-see-MAH-mah KAHN-doh yah bah-rah-BAH-rah)",
+          "translation": "The passenger vehicle arrived [class 5 JI-MA singular: lilifika] at the stand safely and other cars stopped [class 6 JI-MA plural: yalisimama] beside the road."
+        },
+        {
+          "target": "Miti mikubwa ilianguka msituni baada ya upepo mkali kuvuma jana usiku.",
+          "reading": "Mi-ti mi-kbu-wa i-li-a-ngu-ka msi-tu-ni ba-a-da ya u-pe-po mka-li ku-vu-ma ja-na u-si-ku. [ˈmiti miˈkubwɑ iliɑŋˈɡukɑ msiˈtuni bɑˈɑdɑ jɑ uˈpɛpɔ mˈkɑli kuˈvumɑ ˈʤɑnɑ uˈsiku] (MEE-tee mee-KOO-bwah ee-lee-ahn-GOO-kah m-see-TOO-nee bah-AH-dah yah oo-PAY-poh M-KAH-lee koo-VOO-mah JAH-nah oo-SEE-koo)",
+          "translation": "Big trees fell [class 4 M-MI plural: ilianguka] in the forest after a fierce wind blew yesterday night."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Upatanisho na -LI-: KI->kilifika, VI->vilifika, M/MI->ulifika/ilifika, JI/MA->lilifika/yalifika, N/N->ilifika/zilifika!"
+      ],
+      "culturalNotes": [
+        "Mvua za masika katika ukanda wa Afrika Mashariki huleta rutuba na baraka za kilimo kwa jamii zote za wakulima."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Nyama\":",
+          "prompt": "Sentensi ipi ina upatanisho sahihi wa wakati uliopita kwa nomino ya Ngeli ya 5 (Gari)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Samaki»",
-            "Mpangilio usio sahihi wa viambishi katika «Gari»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Basi»"
+            "Gari jipya lilinunuliwa mjini jana. (The new car was bought in town yesterday - Correct Class 5 past prefix 'li-li-')",
+            "Gari jipya kilinunuliwa mjini jana (Kosa la kutumia kiambishi cha KI-VI)",
+            "Gari jipya yalinunuliwa mjini jana (Kosa la kutumia wingi kwa gari moja)",
+            "Gari jipya zilinunuliwa mjini jana (Kosa la kiambishi cha N-N wingi)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino «Gari» (umoja katika Ngeli ya JI-MA) huchukua kiambishi cha kitenzi «li-», hivyo katika wakati uliopita huwa «lilinunuliwa»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Nyama\":",
+          "prompt": "Unapozungumzia miti mingi iliyoanguka (Ngeli ya 4 M-MI wingi), kitenzi sahihi cha wakati uliopita ni kipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Gari»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Basi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Samaki»"
+            "Miti mikubwa ilianguka barabarani. (Big trees fell on the road - Correct Class 4 prefix 'i-li-')",
+            "Miti mikubwa ulianguka barabarani (Kosa la kutumia umoja 'u-')",
+            "Miti mikubwa yalianguka barabarani (Kosa la kuchanganya na JI-MA)",
+            "Miti mikubwa walianguka barabarani (Kosa la kuchukulia miti kama watu)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino ya wingi «Miti» (Ngeli ya M-MI) huchukua kiambishi cha kitenzi «i-», hivyo huwa «ilianguka»."
         }
       ]
     },
@@ -1985,17 +2024,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Nyama\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoonyesha upatanisho sanifu na kamilifu wa wakati uliopita katika ngeli mbalimbali:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Basi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Samaki»",
-            "Mpangilio usio sahihi wa viambishi katika «Gari»"
+            "Chakula kitamu kiliiva jikoni, gari zuri lilifika langoni, na nyumba mpya zilijengwa haraka. (Delicious food cooked [ki-], good car arrived [li-], and new houses were built [zi-].)",
+            "Chakula kitamu lilifika jikoni na magari yote kilinunuliwa.",
+            "Miti yote zilianguka wakati gari jipya walifika nyumbani.",
+            "Nyumba zote ilijengwa na vitabu vyote lilifunguliwa jana."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Chakula kitamu kiliiva jikoni, gari zuri lilifika langoni, na nyumba mpya zilijengwa haraka.» inafuata upatanisho sahihi wa KI-VI (ki-), JI-MA (li-), na N-N (zi-)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u4-l5": {
@@ -2003,53 +2043,62 @@
     "subject": "swahili",
     "unit": 4,
     "lessonNumber": 5,
-    "title": "Wakati Uliopita: Kiambishi -li- (Simple Past Tense) (Part 5)",
+    "title": "Muhtasari wa Wakati Uliopita (-li-) (Simple Past Tense Grand Synthesis)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 4: mnyambuliko wa nafsi zote katika wakati uliopita (-li-), vitenzi vya silabi moja (kula, kunywa, kuja, kwenda), vielezi vya nyakati za kale (jana, juzi, zamani), na upatanisho wa ngeli zote katika sentensi changamano.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Wakati Uliopita (-li-) (Simple Past Tense Grand Synthesis):\n\n1. **Kanuni Kuu ya Wakati Uliopita**:\n   - Kiambishi **-li-** kinaashiria vitendo vyote vilivyotendeka na kukamilika hapo awali.\n   - Muundo: `Kiambishi Nafsi + -li- + Shina la Kitenzi` (*nilisoma, ulisoma, alisoma, tulisoma, mlisoma, walisoma*).\n\n2. **Vitenzi vya Silabi Moja**:\n   - Huhifadhi kiambishi 'ku-': *nilikula, alikunywa, walikuja, tulikwenda*.\n\n3. **Vielezi vya Wakati na Hadithi**:\n   - *Jana, juzi, mwaka jana, hapo zamani, wiki iliyopita*.\n\n4. **Upatanisho wa Ngeli Zote**:\n   - A-WA (*alisoma / walisoma*), KI-VI (*kilianguka / vilianguka*), M-MI (*ulianguka / ilianguka*), JI-MA (*lilifika / yalifika*), N-N (*ilinyesha / zilijengwa*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 4."
+          "target": "Jana sisi tulijifunza Kiswahili, tulikula chakula kizuri, na wageni wetu walisafiri kurejea kwao.",
+          "reading": "Ja-na si-si tu-li-ji-fu-nza Ki-swa-hi-li, tu-li-ku-la cha-ku-la ki-zu-ri, na wa-ge-ni we-tu wa-li-sa-fi-ri ku-re-je-a kwa-o. [ˈʤɑnɑ ˈsisi tuliʤiˈfunzɑ kiswɑˈhili tulikuˈlɑ tʃɑˈkulɑ kiˈzuri nɑ wɑˈɡɛni ˈwɛtu wɑlisɑˈfiri kurɛˈʤɛɑ ˈkwɑɔ] (JAH-nah SEE-see too-lee-jee-FOON-zah kee-swah-HEE-lee, too-lee-KOO-lah chah-KOO-lah kee-ZOO-ree, nah wah-GAY-nee WAY-too wah-lee-sah-FEE-ree koo-ray-JAY-ah KWAH-oh)",
+          "translation": "Yesterday we learned Swahili [past 1st pl: tulijifunza], ate good food [past monosyllabic: tulikula], and our guests traveled [past 3rd pl: walisafiri] back home."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 4-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wanafunzi wote walifaulu mtihani wao mkubwa kwa sababu walisoma kwa bidii mwaka mzima.",
+          "reading": "Wa-na-fu-nzi wo-te wa-li-fa-u-lu mti-ha-ni wa-o mku-bwa kwa sa-ba-bu wa-li-so-ma kwa bi-di-i mwa-ka mzi-ma. [wɑnɑˈfunzi ˈwɔtɛ wɑlifɑˈulu mtiˈhɑni ˈwɑɔ mˈkubwɑ kwɑ sɑˈbɑbu wɑliˈsɔmɑ kwɑ biˈdiː ˈmwɑkɑ ˈmzimɑ] (wah-nah-FOON-zee WOH-tay wah-lee-fah-OO-loo m-tee-HAH-nee WAH-oh M-KOO-bwah kwah sah-BAH-boo wah-lee-SOH-mah kwah bee-DEE MWAH-kah M-ZEE-mah)",
+          "translation": "All students passed [past plural: walifaulu] their major exam because they studied [past plural: walisoma] diligently the entire year."
+        },
+        {
+          "target": "Wakati uliopita wenye kiambishi '-li-' huwezesha kueleza matukio yote yaliyokamilika zamani au hivi karibuni kwa mtiririko fasaha.",
+          "reading": "Wa-ka-ti u-li-o-pi-ta we-nye ki-a-mbi-shi '-li-' hu-we-ze-sha ku-e-le-za ma-tu-ki-o yo-te ya-li-yo-ka-mi-li-ka za-ma-ni au hi-vi ka-ri-bu-ni kwa mti-ri-ri-ko fa-sa-ha. [wɑˈkɑti uliɔˈpitɑ ˈwɛnjɛ kiɑmˈbiʃi -li- huwɛˈzɛʃɑ kuɛˈlɛzɑ mɑtuˈkiɔ ˈjɔtɛ jɑlijɔkɑmiˈlikɑ zɑˈmɑni ˈɑu ˈhivi kɑriˈbuni kwɑ mtiriˈrikɔ fɑˈsɑhɑ] (wah-KAH-tee oo-lee-oh-PEE-tah WAYN-yay kee-ahm-BEE-shee '-li-' hoo-way-ZAY-shah koo-ay-LAY-zah mah-too-KEE-oh YOH-tay yah-lee-yoh-kah-mee-LEE-kah zah-MAH-nee AH-oo HEE-vee kah-ree-BOO-nee kwah m-tee-ree-REE-koh fah-SAH-hah)",
+          "translation": "The simple past tense with prefix '-li-' [past tense synthesis: wakati uliopita] facilitates articulating all completed historical or recent events with fluent cohesion."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Muhtasari wa -LI-: Jana nilisoma, tulikula ugali, treni ilifika, na watu wote walifurahi!"
+      ],
+      "culturalNotes": [
+        "Kuelewa wakati uliopita kunamfungulia mwanafunzi hazina kubwa ya fasihi simulizi, historia ya Waswahili, na utamaduni wa kale wa pwani ya Afrika Mashariki."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Samaki\":",
+          "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa wakati uliopita (-li-) kwa vitenzi vya kawaida na vya silabi moja?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Gari»",
-            "Mpangilio usio sahihi wa viambishi katika «Basi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Treni»"
+            "Wanafunzi walisoma kwa bidii na jana walikula chakula cha mchana pamoja. (Students studied diligently and yesterday ate lunch together - Harmonious past tense synthesis)",
+            "Wanafunzi wanasoma kwa bidii na kesho walikula chakula (Mchanganyiko wa wakati uliopo, ujao na uliopita)",
+            "Wanafunzi walila chakula jana jioni (Kosa la kuangusha kiambishi 'ku-')",
+            "Wanafunzi watasoma vitabu jana asubuhi (Kosa la kutumia wakati ujao kwa neno 'jana')"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Wanafunzi walisoma kwa bidii na jana walikula chakula cha mchana pamoja.» inatumia kiambishi «-li-» na kuhifadhi «ku-» kwa usahihi."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Samaki\":",
+          "prompt": "Katika muhtasari wa Unit 4, ni jambo gani la msingi kuhusu kiambishi '-li-' katika vitenzi vya Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Basi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Treni»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Gari»"
+            "Kiambishi '-li-' kinaeleza tendo lililofanyika na kukamilika hapo awali, kikiungana na viambishi vyote vya ngeli. (Prefix -li- expresses completed past actions, agreeing with all noun class prefixes)",
+            "Kiambishi '-li-' kinatumika tu kwa vitendo vitakavyofanyika kesho kutwa",
+            "Kiambishi '-li-' hakiwezi kutumiwa na majina ya watu",
+            "Hakuna tofauti ya kisarufi kati ya '-li-' na '-na-'"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kiambishi «-li-» kinaonyesha vitendo vilivyotendeka na kukamilika wakati uliopita."
         }
       ]
     },
@@ -2057,17 +2106,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Samaki\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 4 ya Wakati Uliopita katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Treni»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Gari»",
-            "Mpangilio usio sahihi wa viambishi katika «Basi»"
+            "Jana jioni wageni wote walifika nyumbani kwetu, tulikunywa chai ya tangawizi pamoja, na wazee walitusimulia hadithi za kale za kusisimua. (Yesterday evening all guests arrived at our home, we drank ginger tea together, and elders narrated exciting ancient stories to us.)",
+            "Jana jioni wageni wote atafika nyumbani na kesho tulikunywa chai.",
+            "Wageni wote linakunywa chai wakati wazee watasoma hadithi jana.",
+            "Wakati uliopita unakataza matumizi ya neno 'jana' na 'juzi'."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Jana jioni wageni wote walifika nyumbani kwetu, tulikunywa chai ya tangawizi pamoja, na wazee walitusimulia hadithi za kale za kusisimua.» inajumuisha mada zote za Unit 4 kwa ufasaha mkubwa."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u5-l1": {
