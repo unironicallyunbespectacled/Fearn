@@ -15209,56 +15209,65 @@
     "subject": "korean",
     "unit": 33,
     "lessonNumber": 1,
-    "title": "동아시아 다자 외교와 조약 협상 (Multilateral Diplomacy) (Part 1)",
+    "title": "첨단 반도체 제조 공정과 소부장 생태계 (Semiconductor Tech & Ecosystem)",
     "level": "C2",
-    "objective": "Comprehensive mastery of 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties).",
+    "objective": "메모리·시스템 반도체, EUV 초미세 노광, HBM 고대역폭 메모리, 소부장 생태계 및 반도체 메가 클러스터 전문 기술 어휘를 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 동아시아 다자 외교와 조약 협상 (Multilateral Diplomacy) » (제1절)의 핵심 언어 요소와 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "대한민국 경제와 수출의 핵심 엔진인 첨단 반도체(Advanced Semiconductor) 산업 전문 기술 및 생태계 담화입니다.\n\n1. 반도체 분류 및 제조 공정:\n- **메모리 반도체(Memory Semiconductor)**: D램(DRAM), 낸드플래시(NAND Flash) 등 정보 저장용 반도체 (한국의 절대적 세계 1위 분야)\n- **시스템 반도체(System LSI)**: 팹리스(Fabless / 설계 전문)와 파운드리(Foundry / 위탁 생산 전문)\n- **EUV(극자외선, Extreme Ultraviolet) 초미세 노광 공정**: 2~3나노미터(nm) 이하 미세 회로를 웨이퍼에 새기는 최첨단 핵심 공정\n- **HBM(고대역폭 메모리, High Bandwidth Memory)**: 여러 개의 D램을 수직으로 적층(TSV 공정)하여 인공지능(AI) 연산 속도를 획기적으로 높인 차세대 AI 반도체 필수 부품\n\n2. 산업 생태계와 클러스터:\n- **소부장(소재·부품·장비 / Materials, Parts, Equipment)**: 반도체 제조에 필요한 감광액, 불화수소, 정밀 증착 장비 등 공급망 자립화의 핵심 축\n- **반도체 메가 클러스터(Semiconductor Mega Cluster)**: 생산 팹과 R&D 센터, 협력사를 집적한 초대형 국가 첨단 산업 기지",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (33.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "한국 반도체 기업들은 인공지능 가속기에 필수적인 5세대 고대역폭 메모리(HBM3E) 양산에 성공하여 글로벌 초격차 우위를 굳건히 지켜냈습니다.",
+          "reading": "Hanguk bandoche gieopdeul-eun in-gongjineung gasokgi-e pilsujeogin o-sedae godaeyeokpok memori (HBM3E) yangsan-e seonggonghayeo geullobeol chogyeokcha uwi-reul gutgeonhi jikyeonaetseumnida.",
+          "translation": "Korean semiconductor enterprises succeeded in mass-producing 5th-generation High Bandwidth Memory (HBM3E) essential for AI accelerators, firmly maintaining a global super-gap advantage ('초격차 우위를 굳건히 지켜냈습니다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (33.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "2나노미터 초미세 공정 경쟁에서 승기를 잡기 위해 최첨단 극자외선(EUV) 노광 장비 도입과 패키징 기술 혁신에 천문학적인 투자를 단행하고 있습니다.",
+          "reading": "I-nanomiteo chomise gongjeong gyeongjaeng-eseo seunggi-reul jabgi wihae choecheomdan geukja-oe-seon (EUV) nogwang jangbi do-ip-gwa paekijig gisul hyeoksin-e cheonmunhakjeogin tuja-reul danhaenghago itseumnida.",
+          "translation": "To seize victory in the 2nm ultrafine process competition, they are making astronomical investments in adopting state-of-the-art EUV lithography equipment and packaging technology innovation ('천문학적인 투자를 단행하고 있습니다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (33.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "글로벌 공급망 불확실성에 선제적으로 대응하기 위해 반도체 소재·부품·장비(소부장) 기업들의 국산화 기술 개발을 전폭 지원하고 있습니다.",
+          "reading": "Geullobeol gong-geubmang bulhwaksilseong-e seonjejeog-euro dae-eunghagi wihae bandoche sojae·bupum·jangbi (sobujang) gieopdeul-ui guksanhwa gisul gaebal-eul jeonpok jiwonhago itseumnida.",
+          "translation": "To preemptively respond to global supply chain uncertainty, they are comprehensively supporting domestic localization technology development of semiconductor materials, parts, and equipment (Sobujang) enterprises ('국산화 기술 개발을 전폭 지원하고')."
+        },
+        {
+          "target": "용인과 평택을 잇는 세계 최대 규모의 반도체 메가 클러스터 조성을 통해 미래 전략 자산의 초격차 생산 기지를 구축합니다.",
+          "reading": "Yong-in-gwa Pyeongtaek-eul inneun segye choedae gyumo-ui bandoche mega keulleoseuteo joseong-eul tonghae mirae jeonryak jasan-ui chogyeokcha saengsan giji-reul guchukhamnida.",
+          "translation": "By creating the world's largest semiconductor mega cluster connecting Yongin and Pyeongtaek, we build a super-gap production base for future strategic assets."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "D램·낸드 메모리, 팹리스·파운드리 시스템, EUV 노광, HBM 적층, 소부장 생태계!"
+      ],
+      "culturalNotes": [
+        "한국에서 반도체는 '산업의 쌀'이자 '국가 안보 전략 자산'으로 불리며, K-칩스법(조세특례제한법) 등 국가적 세제 혜택과 인프라 지원이 집중되는 핵심 산업입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "인공지능(AI) 칩셋의 초고속 연산을 위해 D램을 여러 층으로 수직 적층하여 데이터 처리 대역폭을 극대화한 차세대 메모리 반도체는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (33.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (33.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (33.1.3)."
+            "HBM (고대역폭 메모리 / High Bandwidth Memory)",
+            "플로피 디스크 (Floppy Disk)",
+            "카세트 테이프 (Cassette Tape)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "AI 연산 가속기에 필수적인 고성능 적층 D램은 'HBM(고대역폭 메모리)'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 동아시아 다자 외교와 조약 협상 (Multilateral Diplomacy) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "반도체 완제품 제조에 투입되는 '소재, 부품, 장비' 분야를 줄여 부르는 한국 산업계 전문 약칭은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (33.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (33.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (33.1.3)."
+            "소부장 (Materials, Parts, Equipment)",
+            "노사정 (Labor, Management, Government)",
+            "식음료 (Food and Beverage)"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "반도체·디스플레이의 소재, 부품, 장비 생태계를 '소부장'이라고 부릅니다."
         }
       ]
     },
@@ -15266,14 +15275,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 33-1)?",
+          "prompt": "반도체 칩을 직접 제조하는 생산 설비(Fab) 없이 설계만을 전문으로 하는 기업을 뜻하는 용어는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (33.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (33.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (33.1.3)."
+            "팹리스 (Fabless)",
+            "파운드리 (Foundry)",
+            "패키징 (Packaging)"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "공장 없이 칩 설계만을 전문으로 하는 기업을 '팹리스(Fabless)'라고 합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'HBM 고대역폭 메모리로 초격차 기술 우위를 확보했어요'(We secured super-gap technology advantage with HBM memory)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "HBM 고대역폭 메모리로 초격차 기술 우위를 확보했어요.",
+            "HBM 고대역폭 메모리로 초격차 기술 우위를 확보했어요"
+          ],
+          "explanation": "HBM 고대역폭 메모리로 + 초격차 기술 우위를 + 확보했어요 = HBM 고대역폭 메모리로 초격차 기술 우위를 확보했어요."
         }
       ]
     }
@@ -15283,56 +15301,65 @@
     "subject": "korean",
     "unit": 33,
     "lessonNumber": 2,
-    "title": "동아시아 다자 외교와 조약 협상 (Multilateral Diplomacy) (Part 2)",
+    "title": "차세대 이차전지, 친환경 모빌리티 및 에너지 전환 (Secondary Batteries & Green Energy)",
     "level": "C2",
-    "objective": "Comprehensive mastery of 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties).",
+    "objective": "삼원계(NCM) vs LFP 배터리, 전고체 배터리, 수소환원제철, CCUS, RE100 및 탄소국경조정제도(CBAM)를 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 동아시아 다자 외교와 조약 협상 (Multilateral Diplomacy) » (제2절)의 핵심 언어 요소와 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "글로벌 탄소중립(Carbon Neutrality) 및 친환경 에너지 대전환을 견인하는 차세대 이차전지와 청정 기술 담화입니다.\n\n1. 이차전지(Secondary Battery) 기술 경쟁:\n- **삼원계 배터리(NCM/NCMA)**: 니켈, 코발트, 망간(알루미늄)을 사용하여 에너지 밀도가 높고 주행 거리가 긴 고성능 프리미엄 배터리 (한국 3사 주력)\n- **LFP(리튬인산철) 배터리**: 에너지 밀도는 낮으나 가격이 저렴하고 화재 안정성이 높은 보급형 배터리\n- **전고체 배터리(Solid-state Battery)**: 액체 전해질을 불연성 고체 전해질로 대체하여 화재 위험을 원천 차단하고 에너지 밀도를 획기적으로 높인 '꿈의 배터리'\n\n2. 청정에너지와 무역 규범:\n- **수소환원제철(Hydrogen Reduction Steelmaking)**: 석탄 대신 수소를 환원제로 사용하여 이산화탄소 배출을 획기적으로 줄이는 차세대 친환경 제철 기술\n- **CCUS(탄소 포집·활용·저장, Carbon Capture, Utilization and Storage)**\n- **RE100 & CBAM(탄소국경조정제도)**: 100% 재생에너지 사용 서약 및 탄소 배출량에 따른 무역 관세 부과 제도",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (33.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "배터리 3사는 화재 위험을 원천 차단하고 주행 거리를 획기적으로 늘릴 수 있는 꿈의 전고체 배터리 양산 로드맵을 발표했습니다.",
+          "reading": "Baeteori sam-sa-neun hwajae wiheom-eul woncheon chadanhago juhaeng geori-reul hoekgijeog-euro neullil su inneun kkum-ui jeongoche baeteori yangsan rodeumaep-eul balpyohaetseumnida.",
+          "translation": "The three battery makers announced a mass-production roadmap for the dream solid-state battery ('전고체 배터리 양산 로드맵을 발표했습니다') capable of fundamentally blocking fire risks and drastically increasing driving range."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (33.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "철강업계는 탄소 배출 규제에 선제적으로 대응하기 위해 화석연료 대신 수소를 활용하는 수소환원제철 실증 플랜트를 가동하였습니다.",
+          "reading": "Cheolgang-eopgye-neun tanso baechul gyuje-e seonjejeog-euro dae-eunghagi wihae hwaseong-yeollyo daesin suso-reul hwalyonghaneun susohwan-wonjecheol siljeung peullaenteu-reul gadonghayeotseumnida.",
+          "translation": "To preemptively respond to carbon emission regulations, the steel industry operated a hydrogen reduction steelmaking demonstration plant ('수소환원제철 실증 플랜트를 가동하였습니다') utilizing hydrogen instead of fossil fuels."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (33.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "유럽연합의 탄소국경조정제도(CBAM) 본격 시행에 발맞추어 수출 기업들의 RE100 달성과 탄소 포집 기술(CCUS) 도입이 시급한 당면 과제로 부상했습니다.",
+          "reading": "Yureob-yeonhap-ui tansogukgyeongjojeongjedo (CBAM) bongyeok sihaeng-e balmatchwo suchul gieopdeul-ui RE100 dalseong-gwa tanso pojip gisul (CCUS) do-ip-i sigeubhan dangmyeon gwaje-ro busanghaetseumnida.",
+          "translation": "In step with full implementation of the European Union's Carbon Border Adjustment Mechanism (CBAM), exporting companies' RE100 achievement and adoption of carbon capture technology (CCUS) emerged as urgent immediate tasks."
+        },
+        {
+          "target": "고성능 하이니켈 삼원계 배터리와 가격 경쟁력을 갖춘 LFP 배터리를 아우르는 투트랙 포트폴리오 전략을 구사하고 있습니다.",
+          "reading": "Goseongneung hai-nikel sam-won-gye baeteori-wa gagyeok gyeongjaengryeog-eul gatchun LFP baeteori-reul aureuneun tu-teuraek poteupolrio jeonryak-eul gusahago itseumnida.",
+          "translation": "They are using a two-track portfolio strategy encompassing high-performance high-nickel ternary batteries and cost-competitive LFP batteries."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "삼원계와 LFP, 꿈의 전고체 배터리, 수소환원제철, RE100과 CBAM 탄소 무역!"
+      ],
+      "culturalNotes": [
+        "한국의 K-배터리는 LG에너지솔루션, 삼성SDI, SK온을 중심으로 글로벌 전기차 완성차 업체들과의 대규모 합작 법인(JV)을 통해 북미 및 유럽 시장 점유율을 주도하고 있습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "액체 전해질 대신 불연성 고체 전해질을 사용하여 화재 안전성을 극대화하고 에너지 밀도를 높인 차세대 이차전지는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (33.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (33.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (33.2.3)."
+            "전고체 배터리 (Solid-state Battery)",
+            "납축전지 (Lead-acid Battery)",
+            "알칼리 건전지 (Alkaline Battery)"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "고체 전해질을 사용하는 차세대 꿈의 배터리는 '전고체 배터리'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 동아시아 다자 외교와 조약 협상 (Multilateral Diplomacy) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "철광석 제련 시 석탄 대신 수소를 사용하여 이산화탄소 배출 없이 쇳물을 생산하는 친환경 제철 공법은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (33.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (33.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (33.2.3)."
+            "수소환원제철 (Hydrogen Reduction Steelmaking)",
+            "고로 제철 (Blast Furnace Steelmaking)",
+            "수동 단조 (Manual Forging)"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "석탄 대신 수소를 투입하여 탄소 배출을 없애는 제철 공법은 '수소환원제철'입니다."
         }
       ]
     },
@@ -15340,14 +15367,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 33-2)?",
+          "prompt": "기업이 사용하는 전력의 100%를 풍력, 태양광 등 재생에너지로만 충당하겠다는 글로벌 자발적 친환경 캠페인은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (33.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (33.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (33.2.3)."
+            "RE100 (Renewable Electricity 100%)",
+            "G20 (Group of 20)",
+            "OECD (Organization for Economic Co-operation and Development)"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "재생에너지 100% 사용 서약 글로벌 이니셔티브는 'RE100'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'전고체 배터리와 수소환원제철 기술을 개발했어요'(We developed solid-state battery and hydrogen reduction steelmaking tech)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "전고체 배터리와 수소환원제철 기술을 개발했어요.",
+            "전고체 배터리와 수소환원제철 기술을 개발했어요"
+          ],
+          "explanation": "전고체 배터리와 + 수소환원제철 + 기술을 + 개발했어요 = 전고체 배터리와 수소환원제철 기술을 개발했어요."
         }
       ]
     }
@@ -15357,56 +15393,65 @@
     "subject": "korean",
     "unit": 33,
     "lessonNumber": 3,
-    "title": "동아시아 다자 외교와 조약 협상 (Multilateral Diplomacy) (Part 3)",
+    "title": "생성형 인공지능, 초거대 파운데이션 모델 및 양자 기술 (Generative AI & Quantum Computing)",
     "level": "C2",
-    "objective": "Comprehensive mastery of 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties).",
+    "objective": "LLM 거대언어모델, 온디바이스 AI, 파운데이션 모델, 양자 컴퓨팅(큐비트/얽힘), AI 윤리 및 저작권 쟁점을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 동아시아 다자 외교와 조약 협상 (Multilateral Diplomacy) » (제3절)의 핵심 언어 요소와 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "인공지능 혁명과 미래 컴퓨터 아키텍처의 패러다임을 바꾸는 생성형 AI(Generative AI) 및 양자 정보 기술(Quantum Tech) 담화입니다.\n\n1. 인공지능 프론티어 기술:\n- **거대언어모델(LLM, Large Language Model)**: 수천억 개 매개변수(Parameters)를 학습하여 인간 수준의 언어 이해와 생성을 수행하는 모델\n- **소버린 AI(Sovereign AI)**: 자국의 언어, 역사, 문화적 가치관을 온전히 반영하고 데이터 주권을 지키는 국가 자체 파운데이션 모델\n- **온디바이스 AI(On-device AI)**: 클라우드 서버 연결 없이 스마트폰이나 PC 기기 자체 NPU에서 실시간 AI 연산을 처리하는 저지연·보안 기술\n\n2. 양자 컴퓨팅과 인공지능 윤리:\n- **양자 컴퓨팅(Quantum Computing)**: 0과 1의 중첩(Superposition)과 얽힘(Entanglement)을 이용하는 큐비트(Qubit) 기반의 초고속 양자 연산 기술\n- **인공지능 윤리 가이드라인(AI Ethics Guidelines)**: 환각 현상(Hallucination), 편향성 방지, 저작권 침해 방지 및 딥페이크(Deepfake) 규제",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (33.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "한국어 특화 데이터셋을 기반으로 구축된 자체 소버린 AI 모델은 문화적 맥락을 완벽히 이해하는 독보적인 언어 생성 능력을 자랑합니다.",
+          "reading": "Hanguk-eo teukhwa deiteoset-eul giban-euro guchukdoen jache sobeorin AI modeul-eun munhwajeok maekrak-eul wanbyeokhi ihae-haneun dokbojeogin eon-eo saengseong neungryeog-eul jaranghamnida.",
+          "translation": "The proprietary Sovereign AI model built on Korean-specialized datasets boasts unmatched language generation capabilities perfectly understanding cultural contexts ('소버린 AI 모델은')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (33.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "네트워크 연결 없이 기기 내부에서 초고속으로 실시간 통역과 요약을 처리하는 온디바이스 AI 칩셋이 스마트폰에 본격 탑재되었습니다.",
+          "reading": "Neteuwokeu yeon-gyeol eopsi gigi naebu-eseo chogosog-euro sil-sigan tong-yeok-gwa yoyag-eul cheorihaneun on-dibaisu AI chipses-i seumateupon-e bongyeok tapjaedoe-eotseumnida.",
+          "translation": "On-device AI chipsets processing real-time interpretation and summarization at high speed inside the device without network connection were fully installed in smartphones ('온디바이스 AI 칩셋이')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (33.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "양자 얽힘과 중첩 현상을 활용한 양자 컴퓨팅은 기존 슈퍼컴퓨터가 수만 년 걸릴 복잡한 암호 해독과 신약 분자 설계를 단 몇 초 만에 해결할 잠재력을 지닙니다.",
+          "reading": "Yangja eolkim-gwa jungcheop hyeonsang-eul hwalyonghan yangja keompyuting-eun gijon syupeokeompyuteo-ga suman nyeon geollil bokjabhan amho haedok-gwa sin-yak bunja seolgye-reul dan myeot cho man-e haegyeolhal jamjaeryeog-eul jinimnida.",
+          "translation": "Quantum computing utilizing quantum entanglement and superposition possesses the potential to resolve complex cryptography decoding and new drug molecule designs in mere seconds, which would take existing supercomputers tens of thousands of years."
+        },
+        {
+          "target": "생성형 인공지능이 야기할 수 있는 가짜 뉴스 확산과 저작권 침해를 방지하기 위해 법제화된 인공지능 윤리 기준을 엄격히 적용해야 합니다.",
+          "reading": "Saengseonghyeong in-gongjineung-i yagihal su inneun gajja nyuseu hwaksan-gwa jeojakkwon chimhae-reul bangjihagi wihae beobjehyeodoen in-gongjineung yunri gijun-eul eomgyeokhi jeog-yonghaeya hamnida.",
+          "translation": "To prevent the spread of fake news and copyright infringement that generative AI could cause, codified AI ethical standards must be strictly applied."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "소버린 AI 데이터 주권, 온디바이스 AI 저지연, 큐비트 양자 컴퓨팅, AI 윤리 가이드라인!"
+      ],
+      "culturalNotes": [
+        "한국은 전 세계에서 자체 거대언어모델(LLM) 파운데이션 기술을 보유한 극소수 국가 중 하나로서, 네이버 하이퍼클로바X, LG 엑사원 등 '소버린 AI' 생태계를 선도하고 있습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "외부 클라우드 서버와의 통신 없이 스마트폰이나 노트북 기기 자체의 프로세서에서 AI 연산을 직접 수행하는 기술은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (33.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (33.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (33.3.3)."
+            "온디바이스 AI (On-device AI)",
+            "클라우드 웹메일 (Cloud Webmail)",
+            "원격 제어 (Remote Control)"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "기기 자체에서 독립적으로 작동하는 AI 기술은 '온디바이스 AI'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 동아시아 다자 외교와 조약 협상 (Multilateral Diplomacy) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "빅테크 기업에 데이터와 인공지능 주권을 종속당하지 않고 자국의 문화와 언어 주권을 지키는 국가 자체 AI 모델을 뜻하는 개념은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (33.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (33.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (33.3.3)."
+            "소버린 AI (Sovereign AI / 주권 AI)",
+            "오픈소스 프리웨어 (Open-source Freeware)",
+            "불법 복제 소프트웨어 (Pirated Software)"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "국가의 데이터 주권과 문화적 정체성을 수호하는 독립적 AI 모델을 '소버린 AI'라고 합니다."
         }
       ]
     },
@@ -15414,14 +15459,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 33-3)?",
+          "prompt": "양자역학의 중첩과 얽힘 원리를 이용하여 기존 이진 비트(0과 1) 대신 큐비트 단위로 정보를 병렬 연산하는 초고속 컴퓨팅은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (33.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (33.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (33.3.3)."
+            "양자 컴퓨팅 (Quantum Computing)",
+            "아날로그 라디오 (Analog Radio)",
+            "주판 계산 (Abacus Calculation)"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "explanation": "양자역학적 원리로 기하급수적 연산 속도를 내는 시스템은 '양자 컴퓨팅'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'소버린 AI 모델과 온디바이스 기술을 구축했어요'(We built Sovereign AI model and on-device technology)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "소버린 AI 모델과 온디바이스 기술을 구축했어요.",
+            "소버린 AI 모델과 온디바이스 기술을 구축했어요"
+          ],
+          "explanation": "소버린 AI + 모델과 + 온디바이스 + 기술을 + 구축했어요 = 소버린 AI 모델과 온디바이스 기술을 구축했어요."
         }
       ]
     }
@@ -15431,56 +15485,65 @@
     "subject": "korean",
     "unit": 33,
     "lessonNumber": 4,
-    "title": "동아시아 다자 외교와 조약 협상 (Multilateral Diplomacy) (Part 4)",
+    "title": "기술 패권 경쟁과 공급망 안보 고급 경제·외교 담화 (Tech Sovereignty & Supply Chains)",
     "level": "C2",
-    "objective": "Comprehensive mastery of 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties).",
+    "objective": "기술 주권 확보, 글로벌 공급망(GVC) 재편, 초격차 우위 선점, 원천 기술 사수 등 최고급 기술 안보 수사를 자유자재로 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 동아시아 다자 외교와 조약 협상 (Multilateral Diplomacy) » (제4절)의 핵심 언어 요소와 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "미·중 기술 패권 경쟁(Tech Hegemony)과 지정학적 공급망 블록화 속에서 국가 생존을 결의하는 최고급 C2 경제·외교 담화 표지입니다.\n\n1. 기술 안보 및 패권 대응 담화 표지:\n- **기술 주권(Tech Sovereignty)을 확보하다 / 기술 안보를 수호하다**: 첨단 기술이 국가의 안보와 직결됨을 천명할 때\n- **초격차(Super Gap) 기술 우위를 선점하다 / 유지하다**: 후발 주자가 따라올 수 없을 만큼 압도적인 기술 격차를 유지할 때\n- **원천 기술 확보가 국가의 사활(死活)을 가른다 (Matters of life and death)**: 미래 기술 자립의 절박성을 역설할 때\n\n2. 공급망 전략 수사:\n- **글로벌 공급망(GVC) 재편에 기민하게 대처하다**: 프렌드쇼어링, 온쇼어링 등 공급망 분절화에 전략적으로 대응할 때\n- **특정국에 대한 공급망 과의존도를 탈피하여 다변화를 꾀하다**: 핵심 광물 및 원자재 공급선 다변화 전략을 서술할 때",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (33.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "글로벌 기술 패권 경쟁이 격화되는 가운데, 반도체와 배터리 등 핵심 전략 자산의 초격차 우위 선점은 국가 경제 안보의 사활을 가르는 중차대한 과제입니다.",
+          "reading": "Geullobeol gisul paegwon gyeongjaeng-i gyeokhwa-doeneun gaunde, bandoche-wa baeteori deung haeksim jeonryak jasan-ui chogyeokcha uwi seonjeom-eun gukga gyeongje anbo-ui sahwal-eul gareuneun jungchadaehan gwaje-imnida.",
+          "translation": "Amidst intensifying global tech hegemony competition, preempting super-gap advantages in core strategic assets like semiconductors and batteries is a momentous task determining the life and death of national economic security ('사활을 가르는 중차대한 과제입니다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (33.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "핵심 원자재의 특정국 과의존 리스크를 불식시키기 위해 글로벌 공급망 다변화와 전략적 비축을 기민하게 추진하고 있습니다.",
+          "reading": "Haeksim wonjajae-ui teukjeongguk gwa-uijon riseukeu-reul bulsiksigigi wihae geullobeol gong-geubmang dabyeonhwa-wa jeonryakjeok bichuk-eul gaminhage chujinhago itseumnida.",
+          "translation": "To dispel the risk of overdependence on specific countries for core raw materials, we are nimbly pushing forward global supply chain diversification and strategic stockpiling ('공급망 다변화와 전략적 비축을 기민하게 추진하고')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (33.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "차세대 양자 기술과 인공지능 원천 기술을 독자적으로 확보하지 못한다면 기술 종속국으로 전락할 위험이 농후합니다.",
+          "reading": "Chasedae yangja gisul-gwa in-gongjineung woncheon gisul-eul dokjadeog-euro hwakbohai mothandamyeon gisul jongsongguk-euro jeonrakhal wiheom-i nonghuhamnida.",
+          "translation": "If we fail to independently secure next-generation quantum technology and AI core source technologies, there is a strong risk of degrading into a technology-dependent state."
+        },
+        {
+          "target": "과감한 R&D 세제 지원과 파격적인 규제 혁파를 통해 초격차 혁신 생태계를 완성해야 합니다.",
+          "reading": "Gwagamhan R&D seje jiwon-gwa pagyeokjeogin gyuje hyeokpa-reul tonghae chogyeokcha hyeoksin saengtaegye-reul wanseonghaeya hamnida.",
+          "translation": "Through bold R&D tax support and unprecedented regulatory reform, we must complete a super-gap innovation ecosystem."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "기술 주권 확보, 초격차 우위 선점, 공급망 다변화, R&D 원천 기술 사수!"
+      ],
+      "culturalNotes": [
+        "한국 정부는 반도체, 디스플레이, 이차전지, 바이오, 인공지능, 양자 등 12대 분야를 '국가전략기술'로 지정하여 국가적 차원의 특별법과 예산을 전폭 투입하고 있습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "경쟁국이나 후발 기업이 감히 따라올 수 없을 정도로 압도적인 기술적 격차를 벌리는 전략을 뜻하는 경제 용어는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (33.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (33.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (33.4.3)."
+            "초격차 전략 (Super-gap Strategy)",
+            "모방 전략 (Copycat Strategy)",
+            "가격 덤핑 (Price Dumping)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "압도적인 기술력 우위로 경쟁자를 따돌리는 전략을 '초격차(Super-gap)'라고 부릅니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 동아시아 다자 외교와 조약 협상 (Multilateral Diplomacy) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "국제 정세의 변화로 인해 핵심 부품이나 광물의 수출입이 차단되는 위험을 막기 위해 공급선을 여러 나라로 나누는 전략은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (33.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (33.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (33.4.3)."
+            "공급망 다변화 (Supply Chain Diversification)",
+            "독점 계약 (Exclusive Monopolization)",
+            "전량 수입 중단 (Complete Import Ban)"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "특정국 의존 위험을 분산하는 전략을 '공급망 다변화'라고 합니다."
         }
       ]
     },
@@ -15488,14 +15551,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 33-4)?",
+          "prompt": "첨단 기술 확보가 국가의 존립과 번영에 직결되어 있음을 강조하는 가장 강력한 사자성어적 관용구는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (33.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (33.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (33.4.3)."
+            "국가의 사활(死活)을 가른다 (Matters of life and death)",
+            "가화만사성이다",
+            "동문서답을 일삼는다"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "죽느냐 사느냐의 중대한 갈림길을 뜻하는 표현은 '사활을 가른다'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'초격차 기술 우위와 공급망 다변화를 달성했어요'(We achieved super-gap technology advantage and supply chain diversification)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "초격차 기술 우위와 공급망 다변화를 달성했어요.",
+            "초격차 기술 우위와 공급망 다변화를 달성했어요"
+          ],
+          "explanation": "초격차 기술 우위와 + 공급망 + 다변화를 + 달성했어요 = 초격차 기술 우위와 공급망 다변화를 달성했어요."
         }
       ]
     }
@@ -15505,56 +15577,65 @@
     "subject": "korean",
     "unit": 33,
     "lessonNumber": 5,
-    "title": "동아시아 다자 외교와 조약 협상 (Multilateral Diplomacy) (Part 5)",
+    "title": "국가첨단전략산업위원회 및 글로벌 테크 서밋 실전 종합 담화",
     "level": "C2",
-    "objective": "Comprehensive mastery of 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties).",
+    "objective": "반도체, 배터리, 인공지능, 기술 안보 및 미래 신산업 육성을 총망라한 최고급 C2 과학 기술 전략 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 동아시아 다자 외교와 조약 협상 (Multilateral Diplomacy) » (제5절)의 핵심 언어 요소와 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "대통령 주재 국가첨단전략산업위원회 및 글로벌 테크 서밋(Global Tech Summit) 기조연설에서 펼쳐지는 대한민국 최고 수준의 과학기술 전략 담화 모델입니다.\n\n1. 국가첨단전략산업위원회 기조연설 실전 모델:\n- 대통령(의장): 오늘 대한민국은 미래 100년의 번영을 좌우할 첨단 과학기술 대도약의 출발점에 섰습니다. 반도체, 이차전지, 인공지능, 양자 기술은 단순한 산업을 넘어 대한민국의 **기술 주권**이자 국가 안보의 핵심 보루입니다.\n- 산업통상자원부 장관: 정부는 **반도체 메가 클러스터** 조성을 가속화하고, **HBM 및 전고체 배터리** 등 미래 핵심 기술의 **초격차 우위를 선점**할 수 있도록 파격적인 R&D 투자와 **소부장 생태계 자립화**를 완수하겠습니다. 아울러 **글로벌 공급망 다변화**를 통해 어떠한 지정학적 위기에도 흔들리지 않는 공급망 안보를 구축하겠습니다.\n- 테크 기업 CEO: 기업은 과감한 혁신과 인재 양성으로 **소버린 AI**와 온디바이스 기술의 세계 표준을 선도하며, 국가 경제 발전에 헌신할 것을 약속드립니다.\n- 의장: 민관이 원팀이 되어 미래 기술 패권 경쟁의 파고를 슬기롭게 넘고, 대한민국을 글로벌 과학기술 3대 강국(G3)으로 도약시킵시다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (33.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "대한민국은 반도체와 인공지능의 융합을 통해 글로벌 과학기술 G3 강국으로 도약하는 거대한 대항해를 시작하였습니다.",
+          "reading": "Daehanminguk-eun bandoche-wa in-gongjineung-ui yunghap-eul tonghae geullobeol gwahakgisul G3 gangguk-euro do-yakhaneun geodaehan daehanghae-reul sijakhayeotseumnida.",
+          "translation": "The Republic of Korea has embarked on a colossal grand voyage leaping into a global science and technology G3 powerhouse through the convergence of semiconductors and artificial intelligence."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (33.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "초격차 원천 기술 확보와 튼튼한 공급망 안보야말로 거센 기술 패권 경쟁의 파고를 돌파하는 최강의 방패이자 창입니다.",
+          "reading": "Chogyeokcha woncheon gisul hwakbo-wa teunteunhan gong-geubmang anbo-yamallo geosen gisul paegwon gyeongjaeng-ui pago-reul dolpahaneun choegang-ui bangpae-ija chang-imnida.",
+          "translation": "Securing super-gap source technologies and robust supply chain security is indeed the strongest shield and spear breaking through the fierce waves of technology hegemony competition."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (33.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "과학기술 인재를 존중하고 도전적 혁신을 장려하는 국가적 풍토가 미래 성장의 영원한 마르지 않는 샘물입니다.",
+          "reading": "Gwahakgisul injae-reul jonjunghago dojeonjeok hyeoksin-eul jangryeohaneun gukgajeok pungto-ga mirae seongjang-ui yeong-wonhan mareuji anneun saemmul-imnida.",
+          "translation": "A national climate respecting science and technology talent and encouraging challenging innovation is the eternal inexhaustible spring of future growth."
+        },
+        {
+          "target": "민간의 창의적 역량과 정부의 전폭적 지원이 결합할 때 대한민국 기술의 기적은 계속될 것입니다.",
+          "reading": "Min-gan-ui chang-uijeok yeongryang-gwa jeongbu-ui jeonpokjeok jiwon-i gyeolhabhal ttae Daehanminguk gisul-ui gijeok-eun gyesokdoel geos-imnida.",
+          "translation": "When private creative capabilities and comprehensive government support combine, the miracle of Korean technology will continue."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "과학기술 서밋: 기술 주권, 초격차 선점, 공급망 안보, G3 강국 도약!"
+      ],
+      "culturalNotes": [
+        "한국은 GDP 대비 R&D 투자 비중이 세계 최상위권(약 5% 안팎)을 기록하는 대표적인 과학기술 중심 혁신 국가입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "국가 테크 서밋에서 반도체, 배터리, AI 등의 중요성을 강조할 때 가장 품격 있는 정책 표현은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (33.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (33.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (33.5.3)."
+            "초격차 원천 기술을 확보하여 국가의 기술 주권과 공급망 안보를 굳건히 수호해야 합니다.",
+            "기술 개발은 돈이 많이 드니 외국에서 모두 사다 쓰는 것이 좋습니다.",
+            "컴퓨터 연구는 쓸모없으니 공장 문을 닫겠습니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'초격차 원천 기술 확보', '기술 주권과 공급망 안보 수호'는 최고급 과학기술 정책 담화입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 동아시아 다자 외교와 조약 협상 (Multilateral Diplomacy) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "글로벌 기술 경쟁에서 민관 협력의 중요성을 강조할 때 가장 적합한 담화 어구는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (33.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (33.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (33.5.3)."
+            "민관이 원팀이 되어 미래 기술 패권 경쟁의 파고를 돌파해 나갑시다.",
+            "정부는 기업을 방해하고 기업은 세금을 안 내면 됩니다.",
+            "연구원들에게 월급을 주지 말고 알아서 일하라고 합시다."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'민관이 원팀이 되어 기술 패권 경쟁의 파고를 돌파하자'는 모범적인 비전 제시 표현입니다."
         }
       ]
     },
@@ -15562,14 +15643,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 33-5)?",
+          "prompt": "다음 중 한국의 첨단 미래 과학기술 전략 최고급 C2 담화로서 가장 완벽한 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (33.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (33.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (33.5.3)."
+            "반도체와 이차전지, 인공지능의 초격차 우위를 선점하여 기술 주권을 확립하고 글로벌 G3 강국으로 도약합시다.",
+            "스마트폰은 고장 나면 버리고 새로 사면 끝납니다.",
+            "기술 개발 대신 외국의 기계를 구경만 하는 것이 안전합니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'초격차 우위 선점', '기술 주권 확립', '글로벌 G3 강국 도약'은 완벽한 최고급 C2 과학기술 담화입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'기술 주권을 확립하고 글로벌 G3 강국으로 도약해요'(Let us establish tech sovereignty and leap into a global G3 powerhouse)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "기술 주권을 확립하고 글로벌 G3 강국으로 도약해요.",
+            "기술 주권을 확립하고 글로벌 G3 강국으로 도약해요"
+          ],
+          "explanation": "기술 주권을 + 확립하고 + 글로벌 G3 + 강국으로 + 도약해요 = 기술 주권을 확립하고 글로벌 G3 강국으로 도약해요."
         }
       ]
     }
