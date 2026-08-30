@@ -1863,56 +1863,65 @@
     "subject": "korean",
     "unit": 4,
     "lessonNumber": 1,
-    "title": "해요체 종결어미와 모음조화 (Polite Informal Style -아요/어요) (Part 1)",
+    "title": "해요체 종결어미와 양성모음 활용 (-아요: ㅏ, ㅗ 계열)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 해요체 어미 활용 (Polite Informal -아요/어요).",
+    "objective": "동사·형용사 어간 끝 음절 모음이 양성모음(ㅏ, ㅗ)일 때 종결어미 '-아요'를 결합하는 규칙과 연음 현상을 정확히 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 해요체 종결어미와 모음조화 (Polite Informal Style -아요/어요) » (제1절)의 핵심 언어 요소와 해요체 어미 활용 (Polite Informal -아요/어요)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어의 '해요체'는 일상 회화에서 가장 친근하면서도 공손한 비격식 예사높임 종결어미입니다. 어간 모음의 성질에 따라 '-아요'와 '-어요'를 선택합니다.\n\n1. 양성모음(Bright/Yang Vowels: ㅏ, ㅗ)의 어미 결합:\n용언의 기본형에서 '다'를 뗀 어간의 마지막 모음이 'ㅏ'나 'ㅗ'인 경우 종결어미 '-아요'를 결합합니다.\n\n2. 받침 있는 양성모음 어간의 규칙 활용:\n어간 끝에 받침이 있으면 자음이 뒷 음절 '아'로 연음(Liaison)됩니다.\n- 앉다 (to sit): 앉 + 아요 → 앉아요 [안자요]\n- 닫다 (to close): 닫 + 아요 → 닫아요 [다다요]\n- 살다 (to live): 살 + 아요 → 살아요 [사라요]\n- 작다 (to be small): 작 + 아요 → 작아요 [자가요]\n- 많다 (to be many): 많 + 아요 → 많아요 [마나요]\n- 좋다 (to be good): 좋 + 아요 → 좋아요 [조아요]\n\n3. 문맥과 뉘앙스:\n격식체 '-ㅂ니다/습니다'가 군대, 뉴스, 공식 발표의 엄격한 느낌이라면, '-아요/어요'는 친구의 부모님, 직장 동료, 처음 만난 성인 간의 부드럽고 따뜻한 표준 대화체입니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (4.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "저는 의자에 앉아요.",
+          "reading": "Jeo-neun uija-e anjayo.",
+          "translation": "I sit on the chair."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (4.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "바람이 불어서 창문을 닫아요.",
+          "reading": "Baram-i bureoseo changmun-eul dadayo.",
+          "translation": "Because the wind blows, I close the window."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (4.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "우리는 지금 서울에 살아요.",
+          "reading": "Uri-neun jigeum Seoul-e sarayo.",
+          "translation": "We live in Seoul right now."
+        },
+        {
+          "target": "오늘 날씨가 참 좋아요.",
+          "reading": "Oneul nalssi-ga cham joayo.",
+          "translation": "The weather is really good today."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "밝고 환한 모음 'ㅏ, ㅗ' 뒤에는 밝은 '아요'! 앉다 → 앉아요, 살다 → 살아요."
+      ],
+      "culturalNotes": [
+        "현대 한국 사회에서는 격식체(-ㅂ니다)보다 해요체(-아요/어요)가 일상 대화의 80% 이상을 차지합니다. 자연스러운 한국어 구사의 가장 중요한 열쇠입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 해요체 어미 활용 (Polite Informal -아요/어요) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "동사 '앉다(to sit)'의 어간 '앉(모음 ㅏ 있음)' 뒤에 결합할 올바른 해요체 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (4.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (4.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (4.1.3)."
+            "앉아요",
+            "앉어요",
+            "앉해요"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'앉다'의 어간 모음은 'ㅏ'로 양성모음이므로 '-아요'가 결합하여 '앉아요[안자요]'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 해요체 종결어미와 모음조화 (Polite Informal Style -아요/어요) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "형용사 '좋다(to be good - 어간 모음 ㅗ)'의 올바른 해요체 활용형은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (4.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (4.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (4.1.3)."
+            "좋아요",
+            "좋어요",
+            "좋여요"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "어간 모음이 'ㅗ'이므로 '-아요'가 결합하여 '좋아요[조아요]'가 됩니다."
         }
       ]
     },
@@ -1920,14 +1929,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 해요체 어미 활용 (Polite Informal -아요/어요) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 4-1)?",
+          "prompt": "다음 중 양성모음 어간에 '-아요'가 올바르게 결합한 문장은 어느 것입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (4.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (4.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (4.1.3)."
+            "창문을 닫아요.",
+            "창문을 닫어요.",
+            "창문을 닫해요."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'닫다'의 어간 모음이 'ㅏ'이므로 '-아요'와 결합하여 '닫아요'가 올바릅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'서울에 살아요'(I live in Seoul)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "서울에 살아요.",
+            "서울에 살아요"
+          ],
+          "explanation": "서울에(장소) + 살아요(살다 + 아요) = 서울에 살아요."
         }
       ]
     }
@@ -1937,56 +1955,65 @@
     "subject": "korean",
     "unit": 4,
     "lessonNumber": 2,
-    "title": "해요체 종결어미와 모음조화 (Polite Informal Style -아요/어요) (Part 2)",
+    "title": "해요체 종결어미와 음성모음 활용 (-어요: ㅓ, ㅜ, ㅡ, ㅣ 계열)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 해요체 어미 활용 (Polite Informal -아요/어요).",
+    "objective": "동사·형용사 어간 끝 모음이 양성모음(ㅏ, ㅗ)이 아닐 때 종결어미 '-어요'를 결합하는 규칙을 숙달한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 해요체 종결어미와 모음조화 (Polite Informal Style -아요/어요) » (제2절)의 핵심 언어 요소와 해요체 어미 활용 (Polite Informal -아요/어요)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "어간의 끝 음절 모음이 'ㅏ'나 'ㅗ'가 아닌 모든 음성모음(Dark/Yin Vowels: ㅓ, ㅜ, ㅡ, ㅣ, ㅐ, ㅔ, ㅟ 등)으로 끝날 때는 종결어미 '-어요'를 결합합니다.\n\n1. 음성모음 어간의 규칙 활용:\n- 먹다 (to eat): 먹 (모음 ㅓ) + 어요 → 먹어요 [머거요]\n- 읽다 (to read): 읽 (모음 ㅣ) + 어요 → 읽어요 [일거요]\n- 입다 (to wear): 입 (모음 ㅣ) + 어요 → 입어요 [이버요]\n- 넓다 (to be spacious): 넓 (모음 ㅓ) + 어요 → 넓어요 [널버요]\n- 젊다 (to be young): 젊 (모음 ㅓ) + 어요 → 젊어요 [절머요]\n- 맛있다 (to be delicious): 맛있 + 어요 → 맛있어요 [마시써요]\n- 없다 (to not exist): 없 + 어요 → 없어요 [업써요]\n\n2. 발음 규칙 주의:\n받침 겹자음(Double Final Consonant) 뒤에 모음 어미 '-어요'가 오면 겹자음의 오른쪽 자음이 연음됩니다.\n- '읽어요' → [일거요] (ㄱ이 연음)\n- '넓어요' → [널버요] (ㅂ이 연음)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (4.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "아침에 식당에서 밥을 먹어요.",
+          "reading": "Achim-e sikdang-eseo bap-eul meogeoyo.",
+          "translation": "I eat a meal at the restaurant in the morning."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (4.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "도서관에서 한국어 책을 읽어요.",
+          "reading": "Doseogwan-eseo hangugeo chaek-eul ilgeoyo.",
+          "translation": "I read a Korean book in the library."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (4.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "이 불고기는 정말 맛있어요.",
+          "reading": "I bulgogi-neun jeongmal masisseoyo.",
+          "translation": "This bulgogi is truly delicious."
+        },
+        {
+          "target": "우리 집 거실이 아주 넓어요.",
+          "reading": "Uri jip geosil-i aju neolbeoyo.",
+          "translation": "Our living room is very spacious."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ㅏ, ㅗ가 아니면 무조건 '-어요'! 먹어요, 읽어요, 맛있어요."
+      ],
+      "culturalNotes": [
+        "식당에서 음식을 맛있게 먹고 계산할 때 사장님께 '정말 맛있어요! 잘 먹었습니다'라고 인사하면 매우 기뻐하십니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 해요체 어미 활용 (Polite Informal -아요/어요) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "동사 '먹다(to eat - 어간 모음 ㅓ)' 뒤에 결합할 올바른 해요체 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (4.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (4.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (4.2.3)."
+            "먹어요",
+            "먹아요",
+            "먹해요"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'먹다'의 어간 모음은 'ㅓ'로 음성모음이므로 '-어요'가 결합하여 '먹어요[머거요]'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 해요체 종결어미와 모음조화 (Polite Informal Style -아요/어요) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "동사 '읽다(to read)'의 해요체 활용형과 올바른 발음 표기는 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (4.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (4.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (4.2.3)."
+            "읽어요 [일거요]",
+            "읽아요 [일가요]",
+            "읽해요 [일캐요]"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'읽다'는 음성모음(ㅣ) 어간이므로 '-어요'와 결합하여 '읽어요'가 되며 연음되어 [일거요]로 발음됩니다."
         }
       ]
     },
@@ -1994,14 +2021,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 해요체 어미 활용 (Polite Informal -아요/어요) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 4-2)?",
+          "prompt": "다음 중 음성모음 어간에 '-어요'가 올바르게 결합한 문장은 어느 것입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (4.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (4.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (4.2.3)."
+            "한국 음식이 아주 맛있어요.",
+            "한국 음식이 아주 맛있아요.",
+            "한국 음식이 아주 맛있해요."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "explanation": "'맛있다'의 어간 모음은 'ㅣ'이므로 '-어요'와 결합하여 '맛있어요'가 올바릅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'책을 읽어요'(I read a book)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "책을 읽어요.",
+            "책을 읽어요"
+          ],
+          "explanation": "책을(목적어) + 읽어요(읽다 + 어요) = 책을 읽어요."
         }
       ]
     }
@@ -2011,56 +2047,65 @@
     "subject": "korean",
     "unit": 4,
     "lessonNumber": 3,
-    "title": "해요체 종결어미와 모음조화 (Polite Informal Style -아요/어요) (Part 3)",
+    "title": "하다 동사의 특별 활용 (하다 → 해요)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 해요체 어미 활용 (Polite Informal -아요/어요).",
+    "objective": "'하다'로 끝나는 모든 동사 및 형용사가 해요체에서 예외 없이 '해요'로 활용됨을 완벽히 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 해요체 종결어미와 모음조화 (Polite Informal Style -아요/어요) » (제3절)의 핵심 언어 요소와 해요체 어미 활용 (Polite Informal -아요/어요)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어에서 '하다(to do)'는 가장 생산성이 높은 핵심 용언입니다. 수많은 명사 뒤에 '하다'가 붙어 동사나 형용사가 됩니다.\n\n1. '하다'의 해요체 활용 공식:\n- 역사적으로 '하 + 여요'의 결합 과정을 거쳐 현대 한국어에서는 항상 '해요' [hae-yo]로 축약되어 실현됩니다.\n- 하다 → 해요\n\n2. 대표적인 '하다' 결합 동사:\n- 공부하다 (to study) → 공부해요\n- 운동하다 (to work out) → 운동해요\n- 일하다 (to work) → 일해요\n- 전화하다 (to make a phone call) → 전화해요\n- 이야기하다 (to chat/talk) → 이야기해요 (구어 축약: 얘기해요)\n- 청소하다 (to clean) → 청소해요\n- 쇼핑하다 (to shop) → 쇼핑해요\n\n3. 대표적인 '하다' 결합 형용사:\n- 친절하다 (to be kind) → 친절해요\n- 깨끗하다 (to be clean) → 깨끗해요\n- 따뜻하다 (to be warm) → 따뜻해요\n- 복잡하다 (to be crowded/complex) → 복잡해요",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (4.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "저는 매일 저녁에 한국어를 공부해요.",
+          "reading": "Jeo-neun maeil jeonyeok-e hangugeo-reul gongbuhaeyo.",
+          "translation": "I study Korean every evening."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (4.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "공원에서 친구와 운동해요.",
+          "reading": "Gongwon-eseo chingu-wa undonghaeyo.",
+          "translation": "I exercise with a friend at the park."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (4.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "선생님이 매우 친절해요.",
+          "reading": "Seonsaengnim-i maeu chinjeolhaeyo.",
+          "translation": "The teacher is very kind."
+        },
+        {
+          "target": "방이 아주 깨끗해요.",
+          "reading": "Bang-i aju kkaekkeut-haeyo.",
+          "translation": "The room is very clean."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "'하다'가 보이면 무조건 '해요'로 체인지! 공부하다 → 공부해요, 운동하다 → 운동해요."
+      ],
+      "culturalNotes": [
+        "한국어의 명사+하다 구조는 외래어 수용에도 매우 적극적입니다. 예를 들어 '드라이브하다(drive)', '샤워하다(shower)', '조깅하다(jog)'처럼 외래어에 '하다'를 붙여 자유롭게 동사로 활용합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 해요체 어미 활용 (Polite Informal -아요/어요) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "동사 '공부하다(to study)'의 올바른 해요체 종결 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (4.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (4.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (4.3.3)."
+            "공부해요",
+            "공부하아요",
+            "공부하여요"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "'하다' 동사는 현대 한국어 해요체에서 '해요'로 활용되므로 '공부해요'가 올바릅니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 해요체 종결어미와 모음조화 (Polite Informal Style -아요/어요) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "형용사 '친절하다(to be kind)'의 올바른 해요체 서술문은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (4.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (4.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (4.3.3)."
+            "선생님이 친절해요.",
+            "선생님이 친절하요.",
+            "선생님이 친절하어요."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'친절하다'의 '하다'가 '해요'로 바뀌어 '선생님이 친절해요'가 됩니다."
         }
       ]
     },
@@ -2068,14 +2113,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 해요체 어미 활용 (Polite Informal -아요/어요) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 4-3)?",
+          "prompt": "'A: 지금 뭐 해요? B: 공원에서 _____ (I am exercising).' 빈칸에 들어갈 알맞은 표현은 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (4.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (4.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (4.3.3)."
+            "운동해요",
+            "운동하요",
+            "운동먹어요"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'운동하다'의 해요체 활용형은 '운동해요'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'한국어를 공부해요'(I study Korean)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "한국어를 공부해요.",
+            "한국어를 공부해요"
+          ],
+          "explanation": "한국어를(목적어) + 공부해요(공부하다의 해요체) = 한국어를 공부해요."
         }
       ]
     }
@@ -2085,56 +2139,65 @@
     "subject": "korean",
     "unit": 4,
     "lessonNumber": 4,
-    "title": "해요체 종결어미와 모음조화 (Polite Informal Style -아요/어요) (Part 4)",
+    "title": "모음 축약과 탈락 규칙 (가요, 봐요, 마셔요, 배워요, 써요)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 해요체 어미 활용 (Polite Informal -아요/어요).",
+    "objective": "어간에 받침이 없는 모음 종결 용언이 '-아요/어요'와 만날 때 일어나는 동음 탈락과 모음 축약(Diphthongization)을 정확히 산출한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 해요체 종결어미와 모음조화 (Polite Informal Style -아요/어요) » (제4절)의 핵심 언어 요소와 해요체 어미 활용 (Polite Informal -아요/어요)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "어간 끝에 받침이 없는 모음 종결 용언은 어미 '-아요/어요'와 결합할 때 두 모음이 합쳐지거나 탈락하여 매끄러운 축약형을 이룹니다.\n\n1. 동음 탈락 (ㅏ + 아요 → ㅏ요, ㅓ + 어요 → ㅓ요):\n- 가다: 가 + 아요 → 가요 (가아요 X)\n- 사다: 사 + 아요 → 사요\n- 만나다: 만나 + 아요 → 만나요\n- 서다: 서 + 어요 → 서요\n- 켜다: 켜 + 어요 → 켜요\n\n2. 모음 축약 (Gliding / Diphthongization):\n- ㅗ + 아요 → ㅘ요: 보다 → 보 + 아요 → 봐요, 오다 → 오 + 아요 → 와요\n- ㅜ + 어요 → ㅝ요: 배우다 → 배우 + 어요 → 배워요, 주다 → 주 + 어요 → 줘요\n- ㅣ + 어요 → ㅕ요: 마시다 → 마시 + 어요 → 마셔요, 기다리다 → 기다려요, 가르치다 → 가르쳐요\n\n3. 'ㅡ' 탈락 규칙 (ㅡ Drop):\n어간 끝 모음 'ㅡ'는 모음 어미를 만나면 무조건 탈락하고, 그 앞 음절 모음에 맞춰 '-아요/어요'를 결정합니다.\n- 쓰다: ㅆ + 어요 → 써요\n- 크다: ㅋ + 어요 → 커요\n- 예쁘다: 예ㅃ + 어요 → 예뻐요 (앞 모음 '예'가 음성이므로 '어요')",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (4.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "저는 지금 학교에 가요.",
+          "reading": "Jeo-neun jigeum hakgyo-e gayo.",
+          "translation": "I am going to school now (가다 → 가요)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (4.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "극장에서 재미있는 영화를 봐요.",
+          "reading": "Geukjang-eseo jaemi-inneun yeonghwa-reul bwayo.",
+          "translation": "I watch an interesting movie at the cinema (보다 → 봐요)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (4.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "카페에서 시원한 주스를 마셔요.",
+          "reading": "Kape-eseo siwonhan juseu-reul masyeoyo.",
+          "translation": "I drink cool juice at the cafe (마시다 → 마셔요)."
+        },
+        {
+          "target": "학원에서 한국어를 배워요.",
+          "reading": "Hagwon-eseo hangugeo-reul baewoyo.",
+          "translation": "I learn Korean at the academy (배우다 → 배워요)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "모음 압축 공식: '오+아=와(와요)', '우+어=워(배워요)', '이+어=여(마셔요)', '으는 탈락(써요)'!"
+      ],
+      "culturalNotes": [
+        "한국어의 이러한 모음 축약은 발음의 경제성과 리듬감을 극대화하기 위해 자연스럽게 정착된 음운 현상입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 해요체 어미 활용 (Polite Informal -아요/어요) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "동사 '마시다(to drink)'에 '-어요'가 결합할 때 모음 축약(ㅣ+어→ㅕ)이 일어난 올바른 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (4.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (4.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (4.4.3)."
+            "마셔요",
+            "마시어요",
+            "마샤요"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'마시 + 어요'는 'ㅣ'와 'ㅓ'가 합쳐져 '마셔요'로 축약됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 해요체 종결어미와 모음조화 (Polite Informal Style -아요/어요) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "동사 '보다(to see/watch)'에 '-아요'가 결합하여 'ㅗ+아→ㅘ'로 축약된 올바른 해요체 형태는 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (4.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (4.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (4.4.3)."
+            "봐요",
+            "보아요",
+            "보요"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "'보 + 아요'는 '봐요[bwayo]'로 축약되어 자연스럽게 쓰입니다."
         }
       ]
     },
@@ -2142,14 +2205,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 해요체 어미 활용 (Polite Informal -아요/어요) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 4-4)?",
+          "prompt": "'배우다(to learn)'의 올바른 해요체 축약형(ㅜ+어→ㅝ)이 쓰인 문장은 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (4.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (4.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (4.4.3)."
+            "한국어를 배워요.",
+            "한국어를 배우어요.",
+            "한국어를 배와요."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'배우 + 어요'는 '배워요'로 축약됩니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'영화를 봐요'(I watch a movie)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "영화를 봐요.",
+            "영화를 봐요"
+          ],
+          "explanation": "영화를(목적어) + 봐요(보다 + 아요의 축약형) = 영화를 봐요."
         }
       ]
     }
@@ -2159,56 +2231,65 @@
     "subject": "korean",
     "unit": 4,
     "lessonNumber": 5,
-    "title": "해요체 종결어미와 모음조화 (Polite Informal Style -아요/어요) (Part 5)",
+    "title": "해요체의 문형별 억양 변화와 대화 실전 (Intonation Patterns in -아요/어요)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 해요체 어미 활용 (Polite Informal -아요/어요).",
+    "objective": "해요체 어미 '-아요/어요'가 형태 변화 없이 오직 말끝 억양(Intonation)의 조절만으로 평서, 의문, 청유, 명령 4가지 문형을 모두 표현함을 완벽히 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 해요체 종결어미와 모음조화 (Polite Informal Style -아요/어요) » (제5절)의 핵심 언어 요소와 해요체 어미 활용 (Polite Informal -아요/어요)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "해요체의 가장 놀랍고 실용적인 특징은 어미의 철자나 형태를 바꾸지 않고 오직 말끝의 억양(Intonation Contour)만을 조절하여 4가지 주요 문장 유형을 모두 표현할 수 있다는 점입니다.\n\n1. 4대 문형 억양 공식:\n- 평서문 (Statement - Falling ↘): 끝을 차분하게 내립니다.\n  - 지금 학교에 가요 ↘. (I am going to school.)\n- 의문문 (Question - Rising ↗): 끝을 명확하게 올립니다.\n  - 지금 학교에 가요 ↗? (Are you going to school?)\n- 청유문 (Suggestion - Smooth / Flat ➡): 다정하고 부드럽게 유지합니다.\n  - 같이 학교에 가요 ➡. (Let's go to school together.)\n- 명령/요청문 (Request/Command - Firm ↘ or Gentle ↗):\n  - 이리로 빨리 와요! (Please come here quickly!)\n\n2. 실전 대화 문답 완성:\n- A: 주말에 뭐 해요 ↗? (What are you doing on the weekend?)\n- B: 친구를 만나요 ↘. 같이 영화 봐요 ➡! (I'm meeting a friend. Let's watch a movie together!)\n- A: 좋아요 ↘! 몇 시에 만나요 ↗? (Sounds good! What time shall we meet?)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (4.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "A: 지금 어디에 가요? B: 도서관에 가요.",
+          "reading": "A: Jigeum eodi-e gayo? B: Doseogwan-e gayo.",
+          "translation": "A: Where are you going now? B: I am going to the library."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (4.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "우리 오늘 같이 커피 마셔요!",
+          "reading": "Uri oneul gachi keopi masyeoyo!",
+          "translation": "Let's drink coffee together today! (Propositive Intonation)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (4.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "여기 편하게 앉아요.",
+          "reading": "Yeogi pyeonhage anjayo.",
+          "translation": "Please sit down comfortably here (Polite Imperative Intonation)."
+        },
+        {
+          "target": "내일 시간 있어요? 같이 밥 먹어요.",
+          "reading": "Naeil sigan isseoyo? Gachi bap meogeoyo.",
+          "translation": "Do you have time tomorrow? Let's have a meal together."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "올리면 질문(↗), 내리면 서술(↘), 다정하면 제안(➡)! 해요체 하나로 4가지 문형 완전 정복!"
+      ],
+      "culturalNotes": [
+        "한국인들은 상대방에게 부드럽게 제안하거나 권유할 때 '우리 같이 ~해요'라는 표현을 매우 사랑합니다. 한국 특유의 공동체 의식과 친근함을 담고 있습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 해요체 어미 활용 (Polite Informal -아요/어요) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "'같이 영화 봐요(Let's watch a movie together)'처럼 상대방에게 함께 행동할 것을 권유하는 청유문에서 요구되는 말끝 억양은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (4.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (4.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (4.5.3)."
+            "부드럽고 평탄하게 이끄는 억양",
+            "가파르게 끝을 치켜올리는 억양",
+            "화가 난 듯 뚝 떨어뜨리는 억양"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "청유문은 상대방에게 부드럽게 권유하는 평탄하고 친근한 억양(➡)으로 발화합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 해요체 종결어미와 모음조화 (Polite Informal Style -아요/어요) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "'지금 어디에 가요?'라는 질문에 대해 '도서관에 갑니다'를 해요체 평서문으로 답할 때의 올바른 억양은 무엇입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (4.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (4.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (4.5.3)."
+            "말끝을 차분하게 내리는 평서 억양(↘)",
+            "말끝을 의문문처럼 올리는 억양(↗)",
+            "말끝을 급격히 끊어버리는 억양"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "자신의 행동을 진술하는 평서문은 말끝을 자연스럽게 내립니다(↘)."
         }
       ]
     },
@@ -2216,14 +2297,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 해요체 어미 활용 (Polite Informal -아요/어요) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 4-5)?",
+          "prompt": "다음 중 해요체 '같이 밥 먹어요!'의 문맥상 화용 기능은 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (4.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (4.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (4.5.3)."
+            "함께 식사하자고 권유하는 청유문",
+            "혼자 밥을 먹는다는 단순 진술문",
+            "밥을 왜 먹는지 따져 묻는 반박문"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "explanation": "'같이(together)'와 결합한 '해요'는 상대방에게 행동을 제안하는 청유문(Suggestion)입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'같이 커피 마셔요'(Let's drink coffee together)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "같이 커피 마셔요.",
+            "같이 커피 마셔요"
+          ],
+          "explanation": "같이(부사) + 커피(목적어) + 마셔요(청유) = 같이 커피 마셔요."
         }
       ]
     }
