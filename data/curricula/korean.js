@@ -6923,56 +6923,65 @@
     "subject": "korean",
     "unit": 15,
     "lessonNumber": 1,
-    "title": "대조와 배경 제시(-지만, -(으)ㄴ/는데) (Contrast & Background) (Part 1)",
+    "title": "단순 명제 대조 연결어미 (-지만)",
     "level": "B1",
-    "objective": "Comprehensive mastery of 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데).",
+    "objective": "앞 절의 사실과 뒤 절의 사실이 서로 상반되거나 대조적임을 직관적으로 연결하는 '-지만'의 형태 결합과 통사적 기능을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 대조와 배경 제시(-지만, -(으)ㄴ/는데) (Contrast & Background) » (제1절)의 핵심 언어 요소와 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "'-지만'은 영어의 'but / although'에 해당하는 대표적인 대조 연결어미로, 앞 절의 명제와 뒤 절의 명제가 서로 직접적으로 상반되거나 대립할 때 사용됩니다.\n\n1. 형태 결합 규칙 (무변화 단순 결합):\n- 동사 / 형용사 어간에 받침 유무와 상관없이 바로 '-지만' 결합:\n  - 크다 → 크지만, 작다 → 작지만, 먹다 → 먹지만, 가다 → 가지만\n- 과거 시제 결합: 어간 + -았/었지만:\n  - 피곤하다 → 피곤했지만, 열심히 공부하다 → 열심히 공부했지만\n- 명사 뒤 결합: 명사 + (이)지만:\n  - 학생이지만, 의사지만, 외국인이지만\n\n2. 통사적 특징:\n- 앞뒤 절의 문법적 제약이 거의 없어 평서문, 의문문, 명령문, 청유문 모두에 자유롭게 연결됩니다.\n- 감정이나 맥락의 완곡성보다는 두 사실의 '직접적인 논리적 대조'를 명확하게 드러냅니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (15.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "한국어 문법은 조금 복잡하고 어렵지만 공부할수록 정말 재미있습니다.",
+          "reading": "Hangug-eo munbeop-eun jogeum bokjaphago eoryeopjiman gongbuhalsurok jeongmal jaemi-itseumnida.",
+          "translation": "Korean grammar is a bit complex and difficult, but it is really interesting as I study more ('형용사 어간 + -지만')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (15.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "어제는 날씨가 맑았지만 오늘은 아침부터 하루 종일 비가 내립니다.",
+          "reading": "Eoje-neun nalssi-ga malgatjiman oneul-eun achimbuteo haru jong-il bi-ga naerimnida.",
+          "translation": "Yesterday the weather was clear, but today it is raining all day from the morning (Past tense '-았/었지만')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (15.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "가격은 다소 비싸지만 품질이 매우 우수하여 인기가 높습니다.",
+          "reading": "Gagyeog-eun daso bissajiman pumjil-i maeu usu-hayeo ingi-ga nopseumnida.",
+          "translation": "The price is somewhat expensive, but the quality is very superior so it is highly popular."
+        },
+        {
+          "target": "저는 외국인이지만 한국 전통 음식인 김치찌개를 아주 좋아합니다.",
+          "reading": "Jeo-neun oegug-in-ijiman Hanguk jeontong eumsig-in gimchijjigae-reul aju joahamnida.",
+          "translation": "I am a foreigner, but I like kimchi stew, a traditional Korean food, very much (Noun + '-(이)지만')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "받침 고민 없이 무조건 어간 뒤에 '-지만' 찰떡 결합! 깔끔하고 직관적인 1:1 대조!"
+      ],
+      "culturalNotes": [
+        "'-지만'은 솔직하고 직접적인 사실 대조에 적합하며, 상대방에게 부탁이나 거절을 할 때는 뒤에서 배울 '-(으)ㄴ/는데'가 훨씬 더 부드럽고 예의 바른 느낌을 줍니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "'비싸다(expensive)'와 '맛있다(delicious)'를 '-지만'으로 올바르게 연결한 문장은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (15.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (15.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (15.1.3)."
+            "이 식당은 가격은 비싸지만 음식이 정말 맛있습니다.",
+            "이 식당은 가격은 비싸는데 음식이 정말 맛있습니다.",
+            "이 식당은 가격은 비싼지만 음식이 정말 맛있습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "형용사 어간 '비싸-' 뒤에 바로 '-지만'이 붙어 '비싸지만'이 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 대조와 배경 제시(-지만, -(으)ㄴ/는데) (Contrast & Background) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "'피곤했다(was tired)'의 과거 대조를 '-지만'으로 바르게 표현한 것은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (15.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (15.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (15.1.3)."
+            "몸은 피곤했지만 끝까지 최선을 다했습니다.",
+            "몸은 피곤하서 끝까지 최선을 다했습니다.",
+            "몸은 피곤했으면 끝까지 최선을 다했습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "과거 시제 선어말어미 '-았/었-'과 결합한 '피곤했지만'이 정확합니다."
         }
       ]
     },
@@ -6980,14 +6989,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 15-1)?",
+          "prompt": "'바쁘다(busy)'를 대조하여 '내일 친구를 만날 것이다'와 결합할 때 알맞은 형태는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (15.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (15.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (15.1.3)."
+            "바쁘지만",
+            "바쁜지만",
+            "바쁘서"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "어간 '바쁘-' 뒤에 바로 '-지만'이 결합하여 '바쁘지만'이 됩니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'어렵지만 재미있어요'(It is difficult, but interesting)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "어렵지만 재미있어요.",
+            "어렵지만 재미있어요"
+          ],
+          "explanation": "어렵지만(어렵다 + 지만) + 재미있어요 = 어렵지만 재미있어요."
         }
       ]
     }
@@ -6997,56 +7015,65 @@
     "subject": "korean",
     "unit": 15,
     "lessonNumber": 2,
-    "title": "대조와 배경 제시(-지만, -(으)ㄴ/는데) (Contrast & Background) (Part 2)",
+    "title": "배경 상황 제시 및 도입 연결어미 (-(으)ㄴ/는데)",
     "level": "B1",
-    "objective": "Comprehensive mastery of 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데).",
+    "objective": "품사별(동사 -는데, 형용사 -(으)ㄴ데, 명사 인데, 과거 -았/었는데) 형태 결합 규칙을 숙지하고 뒤 절의 본론을 꺼내기 위한 배경 제시 문법을 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 대조와 배경 제시(-지만, -(으)ㄴ/는데) (Contrast & Background) » (제2절)의 핵심 언어 요소와 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "'-(으)ㄴ/는데'는 뒤 절에서 본격적으로 질문, 제안, 부탁, 설명, 명령을 시작하기에 앞서 청자에게 '상황적 배경(Background Context / Premise)'을 부드럽게 깔아주는 한국어 특유의 핵심 연결어미입니다.\n\n1. 품사별 정밀 형태 결합 공식 (Crucial Morphology):\n- 동사 현재형 (받침 유무 불문): 어간 + -는데\n  - 가다 → 가는데, 먹다 → 먹는데, 살다 → 사는데 (ㄹ 탈락), 만들다 → 만드는데\n- 형용사 현재형 (받침 유무 구별): 어간 + -(으)ㄴ데\n  - 모음 종결: 예쁘다 → 예쁜데, 크다 → 큰데, 바쁘다 → 바쁜데\n  - 자음 종결: 작다 → 작은데, 많다 → 많은데, 좋다 → 좋은데\n  - ㅂ 불규칙: 덥다 → 더운데, 춥다 → 추운데\n- 있다 / 없다 계열: 무조건 -는데!\n  - 있다 → 있는데, 없다 → 없는데, 맛있다 → 맛있는데, 재미있다 → 재미있는데\n- 명사 서술격: 명사 + (이)ㄴ데 (학생인데, 의사인데, 주말인데)\n- 과거 시제: 품사 불문 어간 + -았/었는데 (갔는데, 먹었는데, 예뻤는데)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (15.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "지금 마트에 장을 보러 가는데, 필요한 것 있으면 말씀하세요.",
+          "reading": "Jigeum mateu-e jang-eul boreo ganeunde, piryohan geot isseumyeon malsseumhaseyo.",
+          "translation": "I am going to the supermarket to buy groceries right now, so please let me know if you need anything (Verb + '-는데' background)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (15.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "날씨가 아주 화창하고 좋은데, 우리 같이 공원에 산책 갈까요?",
+          "reading": "Nalssi-ga aju hwachanghago joeunde, uri gachi gongwon-e sanchaek galkkayo?",
+          "translation": "The weather is very sunny and fine, shall we go for a walk in the park together? (Adjective + '-은데' background)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (15.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "어제 그 영화를 직접 봤는데, 스토리가 정말 감동적이었어요.",
+          "reading": "Eoje geu yeonghwa-reul jikjeop bwatneunde, seutori-ga jeongmal gamdongjeogieosseoyo.",
+          "translation": "I watched that movie in person yesterday, and the storyline was truly touching (Past tense '-았/었는데')."
+        },
+        {
+          "target": "제가 지금 급한 회의 중인데, 10분 후에 다시 전화 드려도 될까요?",
+          "reading": "Je-ga jigeum geuphan hoewi jung-inde, sipbun hu-e dasi jeonhwa deuryeodo doelkkayo?",
+          "translation": "I am currently in an urgent meeting, so may I call you back in 10 minutes? (Noun + '인데')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "동사는 '-는데', 형용사는 '-(으)ㄴ데', '있다/없다'는 무조건 '-는데', 명사는 '인데'!"
+      ],
+      "culturalNotes": [
+        "한국어 담화에서 용건을 불쑥 말하지 않고 '-(으)ㄴ/는데'로 전후 상황을 먼저 완곡하게 설명하는 것은 상대방의 부담을 덜어주는 필수적인 언어 예절입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "형용사 '예쁘다(pretty)'에 배경 제시 어미가 결합한 올바른 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (15.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (15.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (15.2.3)."
+            "예쁜데",
+            "예쁘는데",
+            "예쁜는데"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "형용사 모음 종결 어간 뒤에는 '-(으)ㄴ데'가 붙어 '예쁜데'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 대조와 배경 제시(-지만, -(으)ㄴ/는데) (Contrast & Background) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "동사 '먹다(eat)'와 '있다(exist)'의 배경 제시 형태가 모두 올바르게 짝지어진 것은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (15.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (15.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (15.2.3)."
+            "먹는데 - 있는데",
+            "먹은데 - 있은데",
+            "먹는데 - 있은데"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "동사는 '-는데(먹는데)', '있다/없다'도 항상 '-는데(있는데)'가 결합합니다."
         }
       ]
     },
@@ -7054,14 +7081,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 15-2)?",
+          "prompt": "'제가 지금 도서관에 _____ 책을 빌려다 드릴까요? (I am in the library now, shall I borrow a book for you?)' 빈칸에 알맞은 형태는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (15.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (15.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (15.2.3)."
+            "있는데",
+            "있은데",
+            "있는지"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'있다'의 어간 뒤에는 '-는데'가 결합하여 '있는데'가 됩니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'지금 바쁜데 나중에 이야기해요'(I am busy now, so let's talk later)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "지금 바쁜데 나중에 이야기해요.",
+            "지금 바쁜데 나중에 이야기해요"
+          ],
+          "explanation": "지금 + 바쁜데(바쁘다 + ㄴ데) + 나중에 + 이야기해요 = 지금 바쁜데 나중에 이야기해요."
         }
       ]
     }
@@ -7071,56 +7107,65 @@
     "subject": "korean",
     "unit": 15,
     "lessonNumber": 3,
-    "title": "대조와 배경 제시(-지만, -(으)ㄴ/는데) (Contrast & Background) (Part 3)",
+    "title": "화용론적 대조·반전의 '-(으)ㄴ/는데' vs '-지만' 뉘앙스 대비",
     "level": "B1",
-    "objective": "Comprehensive mastery of 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데).",
+    "objective": "'-지만'(단순 직접 대조)과 '-(으)ㄴ/는데'(완곡한 대조, 기대와 다른 반전, 거절의 서두)의 화용론적 차이를 깊이 있게 구별한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 대조와 배경 제시(-지만, -(으)ㄴ/는데) (Contrast & Background) » (제3절)의 핵심 언어 요소와 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어에서 '-(으)ㄴ/는데'는 단순한 배경 제시뿐 아니라, 화자의 기대와 다른 사태가 발생했음을 나타내는 '완곡한 대조/반전(Subtle Contrast / Soft Counter-expectation)'의 용법으로도 광범위하게 쓰입니다.\n\n1. '-지만' vs '-(으)ㄴ/는데' 대조 분석:\n- '-지만' (Direct Propositional Contrast):\n  - 두 명제를 흑백 논리처럼 객관적이고 대등하게 맞비교함.\n  - \"이 옷은 비싸지만 품질이 좋습니다.\" (단순 사실 대립)\n- '-(으)ㄴ/는데' (Pragmatic Contextual Contrast & Refusal):\n  - 화자의 심리적 완곡성, 아쉬움, 반전, 상대방의 양해를 구하는 뉘앙스 내포.\n  - \"가고 싶은데 시간이 없어요.\" (가고 싶다는 마음을 전제로 완곡하게 거절)\n  - \"열심히 공부했는데 시험 점수가 안 나왔어요.\" (기대와 어긋난 반전에 대한 아쉬움)\n\n2. 완곡한 거절(Polite Refusal) 공식:\n- 제안: \"오늘 저녁에 같이 삼겹살 먹으러 갈래요?\"\n- 거절: \"정말 가고 싶은데 오늘 선약이 있어서 어려울 것 같아요.\" (거절의 충격을 대폭 완화)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (15.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "약속 장소에 일찍 도착했는데 아무도 안 와 있었어요.",
+          "reading": "Yaksok jangso-e iljjik dochakhaetneunde amudo an wa isseosseoyo.",
+          "translation": "I arrived early at the meeting spot, but surprisingly no one had come (Counter-expectation with '-았/었는데')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (15.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "도와드리고 싶은데 제가 지금 외출 준비를 해야 해서 죄송해요.",
+          "reading": "Dowadeurigo sipeunde je-ga jigeum oechul junbi-reul haeya haeseo joesonghaeyo.",
+          "translation": "I would like to help you, but I have to get ready to go out now, so I am sorry (Soft polite refusal)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (15.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "백화점에 코트를 사러 갔는데 마음에 드는 디자인이 전혀 없었습니다.",
+          "reading": "Baekhwajeom-e koteu-reul sareo gatneunde maeum-e deuneun dijain-i jeonhyeo eopseotseumnida.",
+          "translation": "I went to the department store to buy a coat, but there was no design that I liked at all."
+        },
+        {
+          "target": "한국에서 1년 동안 살았는데 아직도 한국말이 서툴러요.",
+          "reading": "Hanguk-eseo ilnyeon dong-an saratneunde ajikdo hangukmal-i seotulleoyo.",
+          "translation": "I lived in Korea for a year, but my Korean is still clumsy (Subtle background contrast)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "딱딱한 대조는 '-지만', 마음을 담은 완곡한 거절과 아쉬운 반전은 '-(으)ㄴ/는데'!"
+      ],
+      "culturalNotes": [
+        "한국에서는 상대방의 제안을 단칼에 '싫어요'나 '-지만 안 돼요'로 거절하지 않고, '가고 싶은데...'처럼 '-(으)ㄴ/는데'로 여운을 주며 완곡하게 거절하는 것이 상대의 체면을 살려주는 정중한 화법입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "친구의 식사 제안을 완곡하고 공손하게 거절하는 가장 적절한 표현은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (15.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (15.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (15.3.3)."
+            "같이 가고 싶은데 오늘 다른 약속이 있어요.",
+            "같이 가고 싶지만 오늘 다른 약속이 있습니다.",
+            "같이 가고 싶으니까 안 갈 거예요."
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "화자의 마음을 완곡하게 밝히며 거절할 때는 '가고 싶은데'가 가장 자연스럽고 부드럽습니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 대조와 배경 제시(-지만, -(으)ㄴ/는데) (Contrast & Background) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "기대와 다른 반전 상황을 아쉬움을 담아 표현한 가장 자연스러운 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (15.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (15.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (15.3.3)."
+            "열심히 찾아봤는데 지갑이 어디에도 없어요.",
+            "열심히 찾아봤지만 지갑이 어디에도 없습니다.",
+            "열심히 찾아보니까 지갑이 어디에도 없습니다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "일상 구어에서 기대와 어긋난 반전적 아쉬움을 완곡히 전할 때는 '-았/었는데'가 으뜸입니다."
         }
       ]
     },
@@ -7128,14 +7173,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 15-3)?",
+          "prompt": "'영화를 보러 _____ 표가 매진되었어요 (I went to see a movie, but tickets were sold out).' 빈칸에 알맞은 형태는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (15.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (15.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (15.3.3)."
+            "갔는데",
+            "가서",
+            "가니까요"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "explanation": "과거 행동 뒤에 기대와 다른 상황(표 매진)을 맞닥뜨린 반전 배경이므로 '갔는데'가 정확합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'도와주고 싶은데 시간이 없어요'(I want to help, but have no time)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "도와주고 싶은데 시간이 없어요.",
+            "도와주고 싶은데 시간이 없어요"
+          ],
+          "explanation": "도와주고 싶은데(싶다 + 은데) + 시간이 + 없어요 = 도와주고 싶은데 시간이 없어요."
         }
       ]
     }
@@ -7145,56 +7199,65 @@
     "subject": "korean",
     "unit": 15,
     "lessonNumber": 4,
-    "title": "대조와 배경 제시(-지만, -(으)ㄴ/는데) (Contrast & Background) (Part 4)",
+    "title": "문장 종결 표현으로서의 '-(으)ㄴ/는데요'",
     "level": "B1",
-    "objective": "Comprehensive mastery of 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데).",
+    "objective": "연결어미가 문장 종결 표현으로 전성된 '-(으)ㄴ/는데요'의 여운, 완곡한 반박/거절, 상대 반응 유도 화용 기능을 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 대조와 배경 제시(-지만, -(으)ㄴ/는데) (Contrast & Background) » (제4절)의 핵심 언어 요소와 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어 구어에서는 연결어미 '-(으)ㄴ/는데' 뒤에 보조사 '요'를 붙여 문장을 그대로 끝맺는 '-(으)ㄴ/는데요' 종결 표현이 매우 빈번하게 사용됩니다.\n\n1. '-(으)ㄴ/는데요'의 3대 화용론적 기능:\n- 기능 1: 완곡한 거절 및 반박 (Soft Disagreement / Polite Refusal)\n  - A: \"김 대리님, 오늘 같이 야근할 수 있죠?\"\n  - B: \"저 오늘은 집안에 급한 일이 좀 있는데요...\" (뒤 말을 생략하여 상대가 알아차리게 유도)\n- 기능 2: 상대방의 반응 및 추가 설명 유도 (Eliciting Response)\n  - A: \"실례지만 민수 씨 계신가요?\"\n  - B: \"제가 민수인데요. (무슨 일이신가요?)\"\n- 기능 3: 의외의 사실에 대한 감탄 및 조심스러운 감정 표출\n  - \"이 옷 생각보다 정말 예쁜데요!\"\n  - \"한국 음식이 제 입맛에 아주 잘 맞는데요.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (15.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "A: 실례지만 김 교수님 계십니까? B: 네, 제가 김 교수인데요.",
+          "reading": "A: Sillyejiman Kim Gyosunim gyesimnikka? B: Ne, je-ga Kim Gyosun-inde-yo.",
+          "translation": "A: Excuse me, is Professor Kim there? B: Yes, I am Professor Kim (Eliciting the visitor's business)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (15.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "A: 이 신발 사이즈가 맞으세요? B: 조금 작은 것 같은데요.",
+          "reading": "A: I sinbal saijeu-ga majeuseyo? B: Jogeum jageun geot gateunde-yo.",
+          "translation": "A: Does this shoe size fit you? B: I think it is a little bit small (Polite subtle feedback)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (15.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "오늘 처음 먹어 봤는데 국물이 정말 시원하고 맛있는데요!",
+          "reading": "Oneul cheo-eum meogeo bwatneunde gungmul-i jeongmal siwonhago masitneunde-yo!",
+          "translation": "I tried it for the first time today, and the broth is really refreshing and delicious! (Mild admiration)."
+        },
+        {
+          "target": "그 서류는 제가 어제 이미 부장님께 제출했는데요.",
+          "reading": "Geu seoryu-neun je-ga eoje imi bujangnim-kke jechulhaetneunde-yo.",
+          "translation": "Regarding that document, I already submitted it to the department head yesterday (Gentle correction)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "말끝을 흐리듯 '-(으)ㄴ/는데요'로 끝내면 배려와 예절이 두 배! 정중한 한국어의 마법!"
+      ],
+      "culturalNotes": [
+        "한국어에서 단정적으로 잘라 말하지 않고 '-(으)ㄴ/는데요'로 말끝에 여운을 남기는 것은 상대방이 스스로 상황을 판단하고 다음 말을 자연스럽게 이어갈 수 있도록 배려하는 고유한 화법입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "'제가 민수입니다(I am Minsu)'를 전화를 걸어온 상대에게 부드럽게 밝히는 종결 표현은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (15.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (15.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (15.4.3)."
+            "제가 민수인데요.",
+            "제가 민수지만요.",
+            "제가 민수니까요."
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "자신임을 밝히며 상대방의 용건을 묻는 정중한 응답은 '제가 민수인데요'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 대조와 배경 제시(-지만, -(으)ㄴ/는데) (Contrast & Background) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "음식 맛에 대한 부드러운 감탄을 나타내는 가장 자연스러운 종결형은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (15.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (15.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (15.4.3)."
+            "생각했던 것보다 훨씬 더 맛있는데요!",
+            "생각했던 것보다 훨씬 더 맛있지만요!",
+            "생각했던 것보다 훨씬 더 맛있어서요!"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "예상 밖의 맛에 대한 기분 좋은 감탄과 피드백에는 '맛있는데요'가 가장 자연스럽습니다."
         }
       ]
     },
@@ -7202,14 +7265,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 15-4)?",
+          "prompt": "'A: 커피 한잔 더 드실래요? B: 저는 방금 _____ (I drank just now).' 빈칸에 알맞은 완곡 거절형은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (15.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (15.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (15.4.3)."
+            "마셨는데요",
+            "마셨지만요",
+            "마시니까요"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "이미 마셨음을 완곡히 알리며 사양하는 종결형은 '마셨는데요'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'제가 김민수인데요'(I am Kim Minsu)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "제가 김민수인데요.",
+            "제가 김민수인데요"
+          ],
+          "explanation": "제가 + 김민수인데요(명사 + 인데요) = 제가 김민수인데요."
         }
       ]
     }
@@ -7219,56 +7291,65 @@
     "subject": "korean",
     "unit": 15,
     "lessonNumber": 5,
-    "title": "대조와 배경 제시(-지만, -(으)ㄴ/는데) (Contrast & Background) (Part 5)",
+    "title": "식당 주문, 상품 교환 및 일상 요청 실전 담화 구성",
     "level": "B1",
-    "objective": "Comprehensive mastery of 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데).",
+    "objective": "배경 제시('-(으)ㄴ/는데'), 대조('-지만'), 종결 어미('-(으)ㄴ/는데요')를 통합하여 고객 서비스 및 일상 요청 실전 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 대조와 배경 제시(-지만, -(으)ㄴ/는데) (Contrast & Background) » (제5절)의 핵심 언어 요소와 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "식당, 매장, 서비스 센터에서의 주문, 문의, 교환/환불 요청 상황에서는 배경 설명과 완곡한 부탁 화법이 핵심적 역할을 수행합니다.\n\n1. 매장 상품 교환 실전 담화 모델:\n- 손님: 저기요, 실례지만 어제 여기서 셔츠를 샀는데요.\n- 직원: 네, 손님! 무슨 문제 있으신가요?\n- 손님: 디자인은 정말 마음에 들지만, 집에 가서 입어 보니까 사이즈가 조금 작은 것 같은데요. 혹시 한 치수 큰 걸로 교환할 수 있을까요?\n- 직원: 영수증 가지고 계신가요?\n- 손님: 네, 결제한 영수증 여기 있는데요.\n- 직원: 잠시만 기다려 주세요. 재고가 있는지 확인해 드리겠습니다.\n- 직원: 손님, 원하시는 라지 사이즈 재고가 딱 하나 남아 있는데요, 바로 교환해 드릴게요!\n- 손님: 친절하게 도와주셔서 정말 감사합니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (15.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "A: 저기요, 메뉴판 좀 보고 싶은데요. B: 네, 여기 메뉴판 가져다 드리겠습니다.",
+          "reading": "A: Jeogi-yo, menyupan jom bogo sipeunde-yo. B: Ne, yeogi menyupan gajyeoda deurigetseumnida.",
+          "translation": "A: Excuse me, I would like to look at the menu (Soft request with '-고 싶은데요'). B: Yes, I will bring the menu over here."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (15.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "이 바지가 길이는 맞지만 허리가 조금 꽉 끼는데 수선이 가능할까요?",
+          "reading": "I baji-ga giri-neun matjiman heori-ga jogeum kkwak kkkineunde suseon-i ganeunghalkkayo?",
+          "translation": "These pants fit in length, but the waist is a bit tight; is alteration possible? ('-지만' + '-는데')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (15.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "주문한 음식이 아직 안 나왔는데 확인 좀 부탁드립니다.",
+          "reading": "Jumunhan eumsik-i ajik an nawanneunde hwag-in jom butakdeurimnida.",
+          "translation": "The ordered food hasn't come out yet, so please check it for me ('-았/었는데' + 부탁)."
+        },
+        {
+          "target": "제가 알레르기가 있어서 그런데, 땅콩은 빼고 조리해 주실 수 있나요?",
+          "reading": "Je-ga allereugi-ga isseoseo geureoneunde, ttangkong-eun ppaego jorihae jusil su innayo?",
+          "translation": "I have an allergy, so is it possible to cook without peanuts? ('-아서 그런데')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "부탁할 땐 '사고 싶은데요', 사유엔 '있어서 그런데', 대조엔 '-지만'으로 품격 있는 실전 담화!"
+      ],
+      "culturalNotes": [
+        "한국의 식당이나 가게에서 직원에게 요청할 때 '저기요, 물 주세요'보다 '저기요, 시원한 물 좀 부탁드리고 싶은데요'라고 말하면 훨씬 더 정중하고 품격 있는 손님으로 대우받습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "식당에서 직원에게 물을 정중하게 요청하는 가장 자연스러운 표현은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (15.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (15.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (15.5.3)."
+            "저기요, 시원한 물 좀 주시면 좋겠는데요.",
+            "저기요, 시원한 물 좀 줘야 하지만요.",
+            "저기요, 시원한 물 좀 주니까요."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "부탁과 희망을 완곡하게 전달하는 '좋겠는데요'가 가장 정중합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 대조와 배경 제시(-지만, -(으)ㄴ/는데) (Contrast & Background) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "옷 매장에서 교환을 요청하는 대화 중 문법과 맥락이 가장 완벽한 것은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (15.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (15.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (15.5.3)."
+            "어제 산 바지인데, 사이즈가 안 맞아서 교환하고 싶어요.",
+            "어제 산 바지이지만, 사이즈가 맞으니까 교환하세요.",
+            "어제 산 바지여서, 사이즈가 맞아서 교환할래요."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "배경 제시('바지인데')와 원인('안 맞아서')이 완벽한 논리 구조를 이룹니다."
         }
       ]
     },
@@ -7276,14 +7357,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 15-5)?",
+          "prompt": "다음 매장 담화 중 빈칸에 들어갈 가장 자연스러운 요청 종결형은?\n\"직원: 무엇을 도와드릴까요?\n손님: 어제 구입한 가방 환불을 좀 _____.\"",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (15.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (15.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (15.5.3)."
+            "받고 싶은데요",
+            "받고 싶지만요",
+            "받고 싶으니까요"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "용건과 희망 사항을 정중하게 제시하는 '받고 싶은데요'가 가장 표준적입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'사이즈를 교환하고 싶은데요'(I would like to exchange the size)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "사이즈를 교환하고 싶은데요.",
+            "사이즈를 교환하고 싶은데요"
+          ],
+          "explanation": "사이즈를 + 교환하고 싶은데요 = 사이즈를 교환하고 싶은데요."
         }
       ]
     }
