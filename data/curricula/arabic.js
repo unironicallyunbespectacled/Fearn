@@ -17305,85 +17305,89 @@
     "subject": "arabic",
     "unit": 29,
     "lessonNumber": 1,
-    "title": "الرواية العربية الحديثة والمسرح (Modern Novel & Theatre) (الدرس 1)",
+    "title": "ملحمة الواقعية والرمزية عند نجيب محفوظ (Naguib Mahfouz: Realism, Cairo Trilogy & Nobel Legacy)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أعمال نجيب محفوظ، غسان كنفاني، الطيب صالح، وتطور المسرح العربي الحديث. (الجزء 1).",
+    "objective": "إتقان خصائص السرد الواقعي والرمزي عند نجيب محفوظ، وتحليل «الثلاثية» والتحولات الفلسفية في «اللص والكلاب» و«أولاد حارتنا»، وبنية الرواية البوليفونية متعددة الأصوات.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يُعد نجيب محفوظ (1911-2006) مؤسس الرواية العربية الحديثة وأول أديب عربي يحوز جائزة نوبل في الأدب (1988):\n\nأولاً: المراحل الروائية الكبرى عند نجيب محفوظ:\n1.【المَرْحَلَةُ التَّارِيخِيَّةُ】: روايات مصر القديمة («عَبَثُ الأَقْدَارِ»، «رَادُوبِيسُ»، و«كِفَاحُ طِيبَةَ»).\n2.【المَرْحَلَةُ الوَاقِعِيَّةُ الاجْتِمَاعِيَّةُ (The Realist Phase)】:\n   - ذروتها «**الثُّلَاثِيَّةُ**» («بَيْنَ القَصْرَيْنِ»، «قَصْرُ الشَّوْقِ»، و«السُّكَّرِيَّةُ»):\n   - توثيق ملحمي لتطور المجتمع المصري وصراع الأجيال؛ من سلطة السيد أحمد عبد الجواد الأبوية الصارمة إلى تمزق كمال عبد الجواد الفكري وأحفاد الثورة.\n   - «**خَانُ الخَلِيلِي**»، «**زُقَاقُ المِدَقِّ**»، و«**بِدَايَةٌ وَنِهَايَةٌ**».\n3.【المَرْحَلَةُ الرَّمْزِيَّةُ وَالفَلْسَفِيَّةُ (Symbolic & Philosophical Phase)】:\n   - «**أَوْلَادُ حَارَتِنَا**»: ملحمة رمزية تبحث في صراع الإنسان الأزلي بين العدل والظلم والبحث عن الخلاص والمعرفة.\n   - «**اللِّصُّ وَالكِلَابُ**»: توظيف تيار الوعي والمونولوج الداخلي وتجسيد أزمة الاغتراب والخيانة.\n   - «**مَلْحَمَةُ الحَرَافِيشِ**» و«**ثَرْثَرَةٌ فَوْقَ النِّيلِ**».\n\nثانياً: التقنيات السردية المحفوظية:\n- **تَيَّارُ الوَعْيِ (Stream of Consciousness)** و**المَوْنُولُوجُ الدَّاخِلِيُّ (Interior Monologue)**.\n- **الرِّوَايَةُ البُولِيفُونِيَّةُ (Polyphonic Novel)**: تعدد الأصوات السردية وتكافؤ وجهات النظر (كما في «مِيرَامَارَ»).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)» بأسلوب أكاديمي دقيق (29.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)' to students in an accurate academic style."
+          "target": "جَسَّدَتْ «الثُّلَاثِيَّةُ» لِنَجِيبِ مَحْفُوظٍ ذِرْوَةَ الوَاقِعِيَّةِ السَّرْدِيَّةِ فِي تَشْرِيحِ التَّحَوُّلَاتِ الفِكْرِيَّةِ وَالاجْتِمَاعِيَّةِ عَبْرَ الأَجْيَالِ.(Jassadat «ath-Thulāthiyyatu» li-Najībi Maḥfūẓin dhirwata al-wāqiʿiyyati as-sardiyyati fī tashrīḥi at-taḥawwulāti al-fikriyyati wa-al-ijtimāʿiyyati ʿabra al-ajyāl.)",
+          "reading": "[ʒas.sa.dat «ʔaθ.θu.laː.θij.ja.tu» li.na.ʒiː.bi maħ.fuː.zˤin ðir.wa.ta‿l.waː.qi.ʕij.ja.ti‿s.sar.dij.ja.ti fiː taʃ.riː.ħi‿t.ta.ħaw.wu.laː.ti‿l.fik.rij.ja.ti wal.ʔiʒ.ti.maː.ʕij.ja.ti ʕab.ra‿l.ʔaʒ.jaːl] (Jas-sa-dat «ath-Thu-lā-thiy-ya-tu» li-Na-jī-bi Maḥ-fū-ẓin dhir-wa-ta al-wā-qi-ʿiy-ya-ti as-sar-diy-ya-ti fī tash-rī-ḥi at-ta-ḥaw-wu-lā-ti al-fik-riy-ya-ti wa-al-ij-ti-mā-ʿiy-ya-ti ʿab-ra al-aj-yāl.)",
+          "translation": "Naguib Mahfouz's 'Trilogy' embodied the summit of narrative realism in dissecting intellectual and social transformations across generations."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (29.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "نَالَ نَجِيب مَحْفُوظ جَائِزَةَ نُوبِل لِلْآدَابِ تَقْدِيرًا لِتَحْوِيلِهِ الحَارَةَ المِصْرِيَّةَ إِلَى فَضَاءٍ إِنْسَانِيٍّ عَالَمِيٍّ خَالِدٍ.(Nāla Najību Maḥfūẓin jāʾizata Nūbil li-l-ādābi taqdīran li-taḥwīlihi al-ḥārata al-miṣriyyata ilā faḍāʾin insāniyyin ʿālamiyyin khālid.)",
+          "reading": "[naː.la na.ʒiː.bu maħ.fuː.zˤin ʒaː.ʔi.za.ta nuː.bil lil.ʔaː.daː.bi taq.diː.ran li.taħ.wiː.li.hi‿l.ħaː.ra.ta‿l.misˤ.rij.ja.ta ʔi.laː fa.dˤaː.ʔin ʔin.saː.nij.jin ʕaː.la.mij.jin xaː.lid] (Nā-la Na-jī-bu Maḥ-fū-ẓin jā-ʾi-za-ta Nū-bil lil-ā-dā-bi taq-dī-ran li-taḥ-wī-li-hi al-ḥā-ra-ta al-miṣ-riy-ya-ta i-lā fa-ḍā-ʾin in-sā-niy-yin ʿā-la-miy-yin khā-lid.)",
+          "translation": "Naguib Mahfouz won the Nobel Prize in Literature in recognition of transforming the Egyptian alley into a timeless global human sphere."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (29.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تُوَظِّفُ رِوَايَةُ «اللِّصِّ وَالكِلَابِ» تَيَّارَ الوَعْيِ لِلتَّعْبِيرِ عَنْ أَزْمَةِ سَعِيد مَهْرَان الوُجُودِيَّةِ فِي عَالَمٍ مَلِيءٍ بِالخِيَانَةِ.(Tuwaẓẓifu riwāyatu «al-Liṣṣi wa-al-Kilāb» tayyāra al-waʿyi li-t-taʿbīri ʿan azmati Saʿīda Mahrāna al-wujūdiyyati fī ʿālamin malīʾin bi-al-khiyānah.)",
+          "reading": "[tu.wazˤ.zˤi.fu ri.waː.ja.tu «ʔal.lisˤ.sˤi wal.ki.laːb» taj.jaː.ra‿l.waʕ.ji lit.taʕ.biː.ri ʕan ʔaz.ma.ti sa.ʕiː.da mah.raː.na‿l.wu.ʒuː.dij.ja.ti fiː ʕaː.la.min ma.liː.ʔin bil.xi.jaː.nah] (Tu-waẓ-ẓi-fu ri-wā-ya-tu «al-Liṣ-ṣi wa-al-Ki-lāb» tay-yā-ra al-waʿ-yi lit-taʿ-bī-ri ʿan az-ma-ti Sa-ʿī-da Mah-rā-na al-wu-jū-diy-ya-ti fī ʿā-la-min ma-lī-ʾin bi-al-khi-yā-nah.)",
+          "translation": "The novel 'The Thief and the Dogs' employs stream of consciousness to express Said Mahran's existential crisis in a world fraught with betrayal."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (29.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تَتَعَدَّدُ الرُّؤَى السَّرْدِيَّةُ فِي رِوَايَةِ «مِيرَامَارَ» عَبْرَ تَقْنِيَةِ الأَصْوَاتِ المُتَعَدِّدَةِ الَّتِي تَرْوِي الوَاقِعَةَ مِنْ زَوَايَا مُتَبَايِنَةٍ.(Tataʿaddadu ar-ruʾā as-sardiyyatu fī riwāyati «Mīrāmār» ʿabra taqniyati al-aṣwāti al-mutaʿaddidati al-latī tarwī al-wāqiʿata min zawāyā mutabāyinah.)",
+          "reading": "[ta.ta.ʕad.da.du‿r.ru.ʔaː‿s.sar.dij.ja.tu fiː ri.waː.ja.ti «miː.raː.maːr» ʕab.ra taq.ni.ja.ti‿l.ʔasˤ.waː.ti‿l.mu.ta.ʕad.di.da.ti‿l.la.tiː tar.wiː‿l.waː.qi.ʕa.ta min za.waː.jaː mu.ta.baː.ji.nah] (Ta-ta-ʿad-da-du ar-ru-ʾā as-sar-diy-ya-tu fī ri-wā-ya-ti «Mī-rā-mār» ʿab-ra taq-ni-ya-ti al-aṣ-wā-ti al-mu-ta-ʿad-di-da-ti al-la-tī tar-wī al-wā-qi-ʿa-ta min za-wā-yā mu-ta-bā-yi-nah.)",
+          "translation": "Narrative viewpoints multiply in the novel 'Miramar' through polyphonic technique narrating the event from divergent angles."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "نَجِيبُ الرِّوَايَةِ نُوبِلُ البَيَانْ، مَلْحَمَةُ الحَارَةِ فِي كُلِّ زَمَانْ!"
+      ],
+      "culturalNotes": [
+        "حاز نجيب محفوظ جائزة نوبل عام 1988، وألقت خطابه في الأكاديمية السويدية باللغة العربية كلمته الشهيرة التي وصف فيها نفسه بأنه «ابن حضارتين: الحضارة الفرعونية والحضارة الإسلامية»."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)» (الدرس 1)؟",
+          "prompt": "ما هي التحفة السردية الكبرى لنجيب محفوظ التي تتألف من ثلاثة أجزاء وتؤرخ لتاريخ مصر الاجتماعي؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)» بأسلوب أكاديمي دقيق (29.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (29.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (29.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (29.1.w3)"
+            "«الثُّلَاثِيَّةُ» (بَيْنَ القَصْرَيْنِ، قَصْرُ الشَّوْقِ، وَالسُّكَّرِيَّةُ)",
+            "ألف ليلة وليلة",
+            "كليلة ودمنة",
+            "سيرة بني هلال"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«الثلاثية» هي ذروة الرواية الواقعية لمحفوظ وتضم بين القصرين وقصر الشوق والسكرية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي التقنية السردية الحديثة التي برع محفوظ في توظيفها في رواية «اللص والكلاب» لكشف الصراع الداخلي للبطل؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "تَيَّارُ الوَعْيِ وَالمَوْنُولُوجُ الدَّاخِلِيُّ (Stream of consciousness & interior monologue)",
+            "السرد التاريخي الخطي المباشر فقط",
+            "الحوار الزجلي العامي البسيط",
+            "التقرير الصحفي الوثائقي"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "وظف محفوظ تيار الوعي والمونولوج الداخلي لنقل تمزق سعيد مهران الوجودي والنفسي."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u29-l1):",
+          "prompt": "اختر الدلالة الرمزية الكونية لـ «الحَارَةِ» في أدب نجيب محفوظ الروائي:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (29.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (29.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (29.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (29.1.x3)"
+            "«الحَارَةُ عِنْدَ مَحْفُوظٍ لَيْسَتْ حَيًّا جُغْرَافِيًّا بَلْ رَمْزٌ مُصَغَّرٌ لِلْعَالَمِ الإِنْسَانِيِّ وَصِرَاعِ الحَقِّ وَالعَدْلِ». ('The alley is not a geographical district but a microcosm of the human world and the struggle for truth and justice.')",
+            "شارع ضيق يمنع مرور السيارات",
+            "مكان مهجور لا يسكنه أحد",
+            "حارة نجيب محفوظ نوبل سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الحارة عند محفوظ هي مسرح الوجود الإنساني برمته وميدان الأسئلة الفلسفية والأخلاقية الكبرى."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)»؟",
+          "prompt": "ما إعراب كلمة «جَائِزَةَ» في جملة: «نَالَ نَجِيب مَحْفُوظ جَائِزَةَ نُوبِل»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (29.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (29.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (29.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (29.1.y3)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Direct object in accusative)",
+            "فاعل مرفوع بالضمة",
+            "نعت منصوب بالفتحة",
+            "مضاف إليه مجرور"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«نَجِيبُ» فاعل مرفوع، و«جَائِزَةَ» مفعول به منصوب وعلامة نصبه الفتحة."
         }
       ]
     },
@@ -17391,24 +17395,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 29-1)؟",
+          "prompt": "اختر النص النقدي الذي يحلل المشروع الروائي لنجيب محفوظ وتطوره الأسلوبي بأعلى مستويات البلاغة والعمق الأكاديمي:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (29.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (29.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (29.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (29.1.z3)"
+            "شَيَّدَ نَجِيب مَحْفُوظ صَرْحَ الرِّوَايَةِ العَرَبِيَّةِ الحَدِيثَةِ بِاقْتِدَارٍ اسْتِثْنَائِيٍّ؛ حَيْثُ ارْتَقَى بِالوَاقِعِيَّةِ فِي «الثُّلَاثِيَّةِ» لِتَغْدُوَ مِرْآةً لِلْمُجْتَمَعِ وَالتَّحَوُّلَاتِ الحَضَارِيَّةِ، ثُمَّ أَبْحَرَ فِي الِاسْتِبْطَانِ النَّفْسِيِّ وَتَيَّارِ الوَعْيِ فِي «اللِّصِّ وَالكِلَابِ»، لِيُحَوِّلَ الحَارَةَ المِصْرِيَّةَ فِي «أَوْلَادِ حَارَتِنَا» إِلَى مَلْحَمَةٍ رَمْزِيَّةٍ خَالِدَةٍ تُحَاكِي صِرَاعَ الإِنْسَانِ الأَزَلِيَّ نَحْوَ العَدْلِ وَالمَعْرِفَةِ. (Naguib Mahfouz constructed modern Arabic novel edifice with exceptional mastery; where he elevated realism in 'The Trilogy' to be mirror of society and civilizational shifts, then sailed into psychological introspection and stream of consciousness in 'The Thief and the Dogs', transforming Egyptian alley in 'Children of Gebelawi' into immortal symbolic epic simulating man's eternal struggle for justice and knowledge.)",
+            "نجيب محفوظ كاتب مصري فاز بجائزة نوبل وكتب روايات كثيرة.",
+            "روايات نجيب محفوظ ثلاثية بين القصرين قصر الشوق السكرية اولاد حارتنا سكون فتحة ضمة.",
+            "اقتصرت روايات محفوظ على التاريخ الفرعوني القديم فقط."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يستوعب الانتقال الإبداعي لمحفوظ من الواقعية الملحمية (الثلاثية) إلى التحليل السيكولوجي وتيار الوعي (اللص والكلاب) والرمزية الفلسفية (أولاد حارتنا)."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u29-l1) باللغة العربية (مثال: «الرواية»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الأديب الروائي العربي الحائز على جائزة نوبل للآداب عام 1988 (اكتب: «نجيب محفوظ»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الرواية",
-            "الرواية"
+            "نجيب محفوظ",
+            "نجيب محفوظ",
+            "الأديب نجيب محفوظ",
+            "نَجِيب مَحْفُوظ",
+            "نَجِيبُ مَحْفُوظٍ"
           ],
-          "explanation": "المصطلح الصحيح هو «الرواية»."
+          "explanation": "الأديب هو «نجيب محفوظ» (Naguib Mahfouz)."
         }
       ],
       "passThreshold": 0.8
@@ -17419,85 +17426,89 @@
     "subject": "arabic",
     "unit": 29,
     "lessonNumber": 2,
-    "title": "الرواية العربية الحديثة والمسرح (Modern Novel & Theatre) (الدرس 2)",
+    "title": "أدب المقاومة والرمز في روايات غسان كنفاني (Ghassan Kanafani & Literature of Resistance)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أعمال نجيب محفوظ، غسان كنفاني، الطيب صالح، وتطور المسرح العربي الحديث. (الجزء 2).",
+    "objective": "إتقان مفهوم «أدب المقاومة» في سرديات غسان كنفاني، وتحليل الرمزية الوجودية في «رجال في الشمس»، «عائد إلى حيفا»، و«أم سعد»، وتقنيات كسر الزمن واسترجاع الذاكرة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يُعد غسان كنفاني (1936-1972) رائد «أَدَبِ المُقَاوَمَةِ» ومؤسس السرد النضالي الرمزي المكثف في الأدب العربي الحديث:\n\nأولاً: روائع غسان كنفاني الروائية والرمزية:\n1.【رِجَالٌ فِي الشَّمْسِ (Men in the Sun)】:\n   - رحلة ثلاثة فلسطينيين (أبو قيس، أسعد، مروان) يحاولون العبور في خزان شاحنة يقودها «أبو الخيزران» بحثاً عن الخلاص الفردي، ليموتوا خنقاً في صمت.\n   - الصرخة الخالدة التي اختتمت الرواية: «**لِمَاذَا لَمْ يَدُقُّوا جُدْرَانَ الخَزَّانِ؟**» كإدانة مدوية للصمت والاستسلام.\n2.【عَائِدٌ إِلَى حَيْفَا (Returning to Haifa)】:\n   - رحلة سعيد وصفية إلى بيتهما في حيفا بعد النكسة، واكتشاف أن ابنهما الرضيع «خلدون» قد ربته عائلة أخرى باسم «دوف».\n   - إعادة تعريف مفهوم الوطن: «**أَتَعْرِفِينَ مَا هُوَ الوَطَنُ يَا صَفِيَّةُ؟ الوَطَنُ هُوَ أَلَّا يَحْدُثَ هٰذَا كُلُّهُ... الإِنْسَانُ فِي نِهَايَةِ الأَمْرِ قَضِيَّةٌ**».\n3.【أُمُّ سَعْدٍ (Umm Saad)】:\n   - تجسيد الأم الفلسطينية الصابرة المناضلة، وعبارتها المأثورة: «**خَيْمَةٌ عَنْ خَيْمَةٍ تَفْرِقُ**».\n4.【مَا تَبَقَّى لَكُمْ (All That's Left to You)】:\n   - رواية تجريبية رائدة تلغي الزمن الخطي وتوظف الصحراء والساعة كشخصيات فاعلة في الصراع.\n\nثانياً: جماليات الخطاب الروائي عند كنفاني:\n- **التَّكْثِيفُ الرَّمْزِيُّ (Symbolic Density)**: كل تفصيل مادي يحمل دلالة وجودية وسياسية.\n- **الاسْتِرْجَاعُ الفَنِّيُّ (Analepsis / Flashback)** وكسر التسلسل الزمني للتعبير عن صدمة اللجوء.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)» بأسلوب أكاديمي دقيق (29.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)' to students in an accurate academic style."
+          "target": "خَتَمَ غَسَّان كَنَفَانِي رِوَايَةَ «رِجَالٌ فِي الشَّمْسِ» بِصَرْخَةٍ وُجُودِيَّةٍ مُدَوِّيَةٍ: «لِمَاذَا لَمْ يَدُقُّوا جُدْرَانَ الخَزَّانِ؟».(Khatama Ghassānu Kanafānī riwāyata «Rijālun fī ash-Shams» bi-ṣarkhatin wujūdiyyatin mudawwiyah: «Li-mādhā lam yaduqqū judrāna al-khazzān?».)",
+          "reading": "[xa.ta.ma ɣas.saː.nu ka.na.faː.niː ri.waː.ja.ta «ri.ʒaː.lun fiː‿ʃ.ʃams» bi.sˤar.xa.tin wu.ʒuː.dij.ja.tin mu.daw.wi.jah: «li.maː.ðaː lam ja.duq.quː ʒud.raː.na‿l.xaz.zaːn?»] (Kha-ta-ma Ghas-sā-nu Ka-na-fā-nī ri-wā-ya-ta «Ri-jā-lun fī ash-Shams» bi-ṣar-kha-tin wu-jū-diy-ya-tin mu-daw-wi-yah: «Li-mā-dhā lam ya-duq-qū jud-rā-na al-khaz-zān?».)",
+          "translation": "Ghassan Kanafani concluded the novel 'Men in the Sun' with a resounding existential cry: 'Why didn't they knock on the walls of the tank?'"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (29.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَعَادَ كَنَفَانِي فِي «عَائِدٌ إِلَى حَيْفَا» صِيَاغَةَ مَفْهُومِ الوَطَنِ مُعْلِنًا أَنَّ «الإِنْسَانَ فِي نِهَايَةِ الأَمْرِ قَضِيَّةٌ».(Aʿāda Kanafānī fī «ʿĀʾidun ilā Ḥayfā» ṣiyāghata mafhūmi al-waṭani muʿlinan anna «al-insāna fī nihāyati al-amri qaḍiyyah».)",
+          "reading": "[ʔa.ʕaː.da ka.na.faː.niː fiː «ʕaː.ʔi.dun ʔi.laː ħaj.faː» sˤi.jaː.ɣa.ta maf.huː.mi‿l.wa.tˤa.ni muʕ.li.nan ʔan.na «ʔal.ʔin.saː.na fiː ni.haː.ja.ti‿l.ʔam.ri qa.dˤij.jah»] (A-ʿā-da Ka-na-fā-nī fī «ʿĀ-ʾi-dun i-lā Ḥay-fā» ṣi-yā-gha-ta maf-hū-mi al-wa-ṭa-ni muʿ-li-nan an-na «al-in-sā-na fī ni-hā-ya-ti al-am-ri qa-ḍiy-yah».)",
+          "translation": "Kanafani in 'Returning to Haifa' reformulated the concept of homeland declaring that 'man is ultimately a cause.'"
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (29.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "رَسَّخَ غَسَّان كَنَفَانِي مُصْطَلَحَ «أَدَبِ المُقَاوَمَةِ» لِيَكُونَ فِعْلًا نِضَالِيًّا وَإِبْدَاعِيًّا يُوَاجِهُ مَحْوَ الهُوِيَّةِ.(Rassakha Ghassānu Kanafānī muṣṭalaḥa «adabi al-muqāwamah» li-yakūna fiʿlan niḍāliyyan wa-ibdāʿiyyan yuwājihu maḥwa al-huwiyyah.)",
+          "reading": "[ras.sa.xa ɣas.saː.nu ka.na.faː.niː musˤ.tˤa.la.ħa «ʔa.da.bi‿l.mu.qaː.wa.mah» li.ja.kuː.na fiʕ.lan ni.dˤaː.lij.jan wa.ʔib.daː.ʕij.jan ju.waː.ʒi.hu maħ.wa‿l.hu.wij.jah] (Ras-sa-kha Ghas-sā-nu Ka-na-fā-nī muṣ-ṭa-la-ḥa «a-da-bi al-mu-qā-wa-mah» li-ya-kū-na fiʿ-lan ni-ḍā-liy-yan wa-ib-dā-ʿiy-yan yu-wā-ji-hu maḥ-wa al-hu-wiy-yah.)",
+          "translation": "Ghassan Kanafani established the term 'Literature of Resistance' to be a militant and creative act confronting identity erasure."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (29.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تَمْتَازُ رِوَايَاتُ كَنَفَانِي بِالتَّكْثِيفِ الرَّمْزِيِّ حَيْثُ تَتَحَوَّلُ السَّاعَةُ وَالصَّحْرَاءُ فِي «مَا تَبَقَّى لَكُمْ» إِلَى شَخْصِيَّاتٍ فَاعِلَةٍ.(Tamtāzu riwāyātu Kanafānī bi-at-takthīfi ar-ramziyyi ḥaythu tataḥawwalu as-sāʿatu wa-aṣ-ṣaḥrāʾu fī «Mā Tabaqqā Lakum» ilā shakhṣiyyātin fāʿilah.)",
+          "reading": "[tam.taː.zu ri.waː.jaː.tu ka.na.faː.niː bit.tak.θiː.fi‿r.ram.zij.ji ħaj.θu ta.ta.ħaw.wa.lu‿s.saː.ʕa.tu wasˤ.sˤaħ.raː.ʔu fiː «maː ta.baq.qaː la.kum» ʔi.laː ʃax.sˤij.jaː.tin faː.ʕi.lah] (Tam-tā-zu ri-wā-yā-tu Ka-na-fā-nī bi-at-tak-thī-fi ar-ram-ziy-yi ḥay-thu ta-ta-ḥaw-wa-lu as-sā-ʿa-tu wa-aṣ-ṣaḥ-rā-ʾu fī «Mā Ta-baq-qā La-kum» i-lā shakh-ṣiy-yā-tin fā-ʿi-lah.)",
+          "translation": "Kanafani's novels are distinguished by symbolic density where the watch and desert in 'All That's Left to You' transform into active characters."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "دُقُّوا الجُدْرَانَ لَا تَهَابُوا الظَّلَامْ، كَنَفَانِي رَمْزُ العِزِّ وَالإِقْدَامْ!"
+      ],
+      "culturalNotes": [
+        "استشهد غسان كنفاني في بيروت عام 1972 إثر تفجير سيارته، وظلت نصوصه الروائية مرجعاً نقدياً عالمياً يُدرَّس في كبريات الجامعات في حقل دراسات ما بعد الاستعمار وأدب المقاومة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)» (الدرس 2)؟",
+          "prompt": "ما هي الرواية الرمزية الشهيرة لغسان كنفاني التي تمثل إدانة مدوية للصمت والبحث عن الخلاص الفردي وتختتم بـ «لماذا لم يدقوا جدران الخزان؟»",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)» بأسلوب أكاديمي دقيق (29.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (29.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (29.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (29.2.w3)"
+            "«رِجَالٌ فِي الشَّمْسِ» (Men in the Sun)",
+            "أولاد حارتنا",
+            "موسم الهجرة إلى الشمال",
+            "اللص والكلاب"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "رواية «رجال في الشمس» (1963) هي أشهر أعمال كنفاني الرمزية حول مأساة اللجوء والصمت."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "كيف عرّف غسان كنفاني مفهوم «الوطن» في روايته الخالدة «عائد إلى حيفا»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "«الوَطَنُ هُوَ أَلَّا يَحْدُثَ هٰذَا كُلُّهُ... الإِنْسَانُ فِي نِهَايَةِ الأَمْرِ قَضِيَّةٌ» ('Homeland is that all this shouldn't happen... man is ultimately a cause')",
+            "الوطن هو مجرد ذكريات قديمة منسية",
+            "الوطن هو قطعة أرض تباع وتشترى بالمال",
+            "الوطن هو الاستسلام للأمر الواقع"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "نقل كنفاني مفهوم الوطن من الحيز الجغرافي الساكن إلى الموقف الأخلاقي والنضالي الفاعل (الإنسان قضية)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u29-l2):",
+          "prompt": "اختر المصطلح النقدي الذي أطلقه كنفاني ورسخه في دراساته الأدبية حول أدب فلسطين المحتلة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (29.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (29.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (29.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (29.2.x3)"
+            "«أَدَبُ المُقَاوَمَةِ» (Literature of Resistance)",
+            "الواقعية السحرية",
+            "المسرح العبثي",
+            "أدب كنفاني رجال شمس سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "غسان كنفاني هو أول من نحت ورسخ مصطلح «أدب المقاومة» في النقد العربي المعاصر."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)»؟",
+          "prompt": "ما إعراب كلمة «مُدَوِّيَةٍ» في جملة: «خَتَمَ الرِّوَايَةَ بِصَرْخَةٍ وُجُودِيَّةٍ مُدَوِّيَةٍ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (29.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (29.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (29.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (29.2.y3)"
+            "نَعْتٌ ثَانٍ مَجْرُورٌ بِالكَسْرَةِ الظَّاهِرَةِ (Second adjective in genitive)",
+            "مفعول به منصوب",
+            "مضاف إليه مجرور",
+            "حال منصوبة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«بِصَرْخَةٍ» اسم مجرور، «وُجُودِيَّةٍ» نعت أول، و«مُدَوِّيَةٍ» نعت ثانٍ مجرور بالكسرة."
         }
       ]
     },
@@ -17505,24 +17516,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 29-2)؟",
+          "prompt": "اختر النص النقدي الذي يحلل بلاغة أدب المقاومة والرمز عند غسان كنفاني بأعلى مستويات الجزالة التعبيرية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (29.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (29.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (29.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (29.2.z3)"
+            "مَثَّلَ غَسَّان كَنَفَانِي صَوْتَ الضَّمِيرِ فِي الرِّوَايَةِ العَرَبِيَّةِ الحَدِيثَةِ؛ حَيْثُ ابْتَكَرَ مَفْهُومَ «أَدَبِ المُقَاوَمَةِ» وَصَاغَ فِي «رِجَالٌ فِي الشَّمْسِ» صَرْخَةً تَحُثُّ عَلَى الثَّوْرَةِ وَدَقِّ جُدْرَانِ الصَّمْتِ، بَيْنَمَا أَعَادَ فِي «عَائِدٌ إِلَى حَيْفَا» تَأْسِيسَ مَفْهُومِ الوَطَنِ بِاعْتِبَارِهِ مَوْقِفًا أَخْلَاقِيًّا وَإِنْسَانِيًّا يَسْمُو عَلَى حُدُودِ الجُغْرَافْيَا، لِيَغْدُوَ الحَرْفُ عِنْدَهُ سِلَاحًا لِلْحَقِيقَةِ وَتَخْلِيدِ الهُوِيَّةِ. (Ghassan Kanafani represented conscience voice in modern Arabic novel; where he coined 'Literature of Resistance' concept and crafted in 'Men in the Sun' a cry urging revolution and knocking silence walls, while in 'Returning to Haifa' he re-established homeland concept as moral human stance transcending geography borders, making his letter a weapon for truth and immortalizing identity.)",
+            "غسان كنفاني كاتب فلسطيني الف روايات عن القضية الفلسطينية.",
+            "ادب المقاومة غسان كنفاني رجال في الشمس عائد الى حيفا ام سعد سكون فتحة ضمة.",
+            "توقفت كتابة الروايات المقاومة بعد وفاة كنفاني."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يستوعب الأبعاد الكاملة لتجربة كنفاني: ابتكار مصطلح أدب المقاومة، رمزية كسر الصمت في رجال في الشمس، والأبعاد الأخلاقية للوطن في عائد إلى حيفا."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u29-l2) باللغة العربية (مثال: «الرواية»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم المصطلح النقدي الذي رسخه غسان كنفاني في الأدب العربي (اكتب: «أدب المقاومة»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الرواية",
-            "الرواية"
+            "أدب المقاومة",
+            "ادب المقاومة",
+            "أدب المقاومه",
+            "ادب المقاومه",
+            "أَدَبُ المُقَاوَمَةِ",
+            "أَدَب المُقَاوَمَة"
           ],
-          "explanation": "المصطلح الصحيح هو «الرواية»."
+          "explanation": "المصطلح هو «أدب المقاومة» (Literature of Resistance)."
         }
       ],
       "passThreshold": 0.8
@@ -17533,85 +17548,89 @@
     "subject": "arabic",
     "unit": 29,
     "lessonNumber": 3,
-    "title": "الرواية العربية الحديثة والمسرح (Modern Novel & Theatre) (الدرس 3)",
+    "title": "صدام الشرق والغرب في «موسم الهجرة إلى الشمال» للطيب صالح (Tayeb Salih & Postcolonial Encounter)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أعمال نجيب محفوظ، غسان كنفاني، الطيب صالح، وتطور المسرح العربي الحديث. (الجزء 3).",
+    "objective": "إتقان تحليل رواية «موسم الهجرة إلى الشمال» للطيب صالح، وإشكالية الصدام الحضاري بين الشرق والغرب، والواقعية السحرية في «عرس الزين»، وتفكيك الخطاب الاستعماري.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تُعد رواية «مَوْسِمُ الهِجْرَةِ إِلَى الشَّمَالِ» (1966) للأديب السوداني **الطيب صالح** (1929-2009) واحدة من أعظم مئة رواية في تاريخ الأدب الإنساني:\n\nأولاً: إشكاليات «موسم الهجرة إلى الشمال»:\n1.【شَخْصِيَّةُ مُصْطَفَى سَعِيد (Mustafa Sa'eed)】:\n   - عبقري اقتصادي سوداني يهاجر إلى لندن في مطلع القرن العشرين، ويشن حرباً انتقامية رمزية ضد المستعمر في عقر داره («سَأُحَرِّرُ إِفْرِيقْيَا بِعَقْلِي... أَنَا الغَازِي الَّذِي جَاءَ مِنَ الجَنُوبِ»).\n2.【ثُنَائِيَّةُ الشَّرْقِ / الجَنُوبِ وَالغَرْبِ / الشَّمَالِ】:\n   - صدام بين دفء وحرارة وروحانية الجنوب (القرية النيلية بالسودان)، وصقيع وبرودة وعقلانية الشمال الاستعماري (إنجلترا).\n3.【مَشْهَدُ النَّهْرِ وَالصِّرَاعُ الوُجُودِيُّ】:\n   - وقوف الراوي في منتصف النيل بين الشمال والجنوب وخياره المصيري: «**لَا بُدَّ أَنْ أَتَحَرَّكَ... أَنَا حَيٌّ وَأُرِيدُ أَنْ أَعِيشَ**».\n\nثانياً: عوالم الطيب صالح الأخرى:\n- «**عُرْسُ الزَّيْنِ**»: ملحمة صوفية شعبية تحتفي بـ «مجاذيب» القرية وتكامل التراث بالحب الإنساني الفطري.\n- «**دَوْمَةُ وَدْ حَامِد**»: الصراع بين تجريف الحداثة الميكانيكية وأصالة الهوية التراثية والروحية.\n\nثالثاً: البنية الأسلوبية والتناصية:\n- التناص مع مسرحية «عطيل» لشكسبير والشعر العربي الكلاسيكي، وتوظيف السرد الاسترجاعي والراوي المزدوج.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)» بأسلوب أكاديمي دقيق (29.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)' to students in an accurate academic style."
+          "target": "تُعَدُّ «مَوْسِمُ الهِجْرَةِ إِلَى الشَّمَالِ» لِلطَّيِّبِ صَالِحٍ دُرَّةَ رِوَايَاتِ مَا بَعْدَ الاسْتِعْمَارِ فِي تَشْرِيحِ الصِّدَامِ بَيْنَ الشَّرْقِ وَالغَرْبِ.(Tuʿaddu «Mawsimu al-Hijrati ilā ash-Shamāl» li-ṭ-Ṭayyibi Ṣāliḥin durrata riwāyāti mā baʿda al-istiʿmāri fī tashrīḥi aṣ-ṣidāmi bayna ash-sharqi wa-al-gharb.)",
+          "reading": "[tu.ʕad.du «maw.si.mu‿l.hiʒ.ra.ti ʔi.laː‿ʃ.ʃa.maːl» litˤ.tˤaj.ji.bi sˤaː.li.ħin dur.ra.ta ri.waː.jaː.ti maː baʕ.da‿l.ʔis.tiʕ.maː.ri fiː taʃ.riː.ħi‿sˤ.sˤi.daː.mi baj.na‿ʃ.ʃar.qi wal.ɣarb] (Tu-ʿad-du «Maw-si-mu al-Hij-ra-ti i-lā ash-Sha-māl» liṭ-Ṭay-yi-bi Ṣā-li-ḥin dur-ra-ta ri-wā-yā-ti mā baʿ-da al-is-tiʿ-mā-ri fī tash-rī-ḥi aṣ-ṣi-dā-mi bay-na ash-shar-qi wa-al-gharb.)",
+          "translation": "'Season of Migration to the North' by Tayeb Salih is considered the pearl of postcolonial novels in dissecting the clash between East and West."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (29.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "جَسَّدَتْ شَخْصِيَّةُ مُصْطَفَى سَعِيد تَمَزُّقَ المُمَثِّلِ الشَّرْقِيِّ فِي مُوَاجَهَةِ المَرْكَزِيَّةِ الأُورُوبِيَّةِ بِسِلَاحِ المَعْرِفَةِ وَالانْتِقَامِ.(Jassadat shakhṣiyyatu Muṣṭafā Saʿīd tamazzuqa al-mumaththili ash-sharqiyyi fī muwājahati al-markaziyyati al-ūrubbiyyati bi-silāḥi al-maʿrifati wa-al-intiqām.)",
+          "reading": "[ʒas.sa.dat ʃax.sˤij.ja.tu musˤ.tˤa.faː sa.ʕiːd ta.maz.zu.qa‿l.mu.maθ.θi.li‿ʃ.ʃar.qij.ji fiː mu.waː.ʒa.ha.ti‿l.mar.ka.zij.ja.ti‿l.ʔuː.rub.bij.ja.ti bi.si.laː.ħi‿l.maʕ.ri.fa.ti wal.ʔin.ti.qaːm] (Jas-sa-dat shakh-ṣiy-ya-tu Muṣ-ṭa-fā Sa-ʿīd ta-maz-zu-qa al-mu-math-thi-li ash-shar-qiy-yi fī mu-wā-ja-ha-ti al-mar-ka-ziy-ya-ti al-ū-rub-biy-ya-ti bi-si-lā-ḥi al-maʿ-ri-fa-ti wa-al-in-ti-qām.)",
+          "translation": "The character of Mustafa Sa'eed embodied the torn Eastern subject confronting Eurocentrism with weapons of knowledge and vengeance."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (29.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يَمْزُجُ الطَّيِّبُ صَالِحٌ فِي «عُرْسِ الزَّيْنِ» بَيْنَ الوَاقِعِيَّةِ الرِّيفِيَّةِ وَالتَّصَوُّفِ الشَّعْبِيِّ فِي قَرْيَةِ النِّيلِ السُّودَانِيَّةِ.(Yamzuju aṭ-Ṭayyibu Ṣāliḥun fī «ʿUrsi az-Zayn» bayna al-wāqiʿiyyati ar-rīfiyyati wa-at-taṣawwufi ash-shaʿbiyyi fī qaryati an-Nīli as-sūdāniyyah.)",
+          "reading": "[jam.zu.ʒu‿tˤ.tˤaj.ji.bu sˤaː.li.ħun fiː «ʕur.si‿z.zajn» baj.na‿l.waː.qi.ʕij.ja.ti‿r.riː.fij.ja.ti wat.ta.sˤaw.wu.fi‿ʃ.ʃaʕ.bij.ji fiː qar.ja.ti‿n.niː.li‿s.suː.daː.nij.jah] (Yam-zu-ju aṭ-Ṭay-yi-bu Ṣā-li-ḥun fī «ʿUr-si az-Zayn» bay-na al-wā-qi-ʿiy-ya-ti ar-rī-fiy-ya-ti wa-at-ta-ṣaw-wu-fi ash-shaʿ-biy-yi fī qar-ya-ti an-Nī-li as-sū-dā-niy-yah.)",
+          "translation": "Tayeb Salih merges in 'The Wedding of Zein' between rural realism and folk Sufism in a Sudanese Nile village."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (29.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "اخْتَارَ الرَّاوِي فِي لَحْظَةِ الغَرَقِ بِالنَّهْرِ أَنْ يَقُولَ «أَنَا حَيٌّ وَأُرِيدُ أَنْ أَعِيشَ»، مُعْلِنًا انْتِصَارَ إِرَادَةِ البَقَاءِ.(Ikhtāra ar-rāwī fī laḥẓati al-gharaqi bi-an-nahri an yaqūla «anā ḥayyun wa-urīdu an aʿīsh», muʿlinan intiṣāra irādati al-baqāʾ.)",
+          "reading": "[ʔix.taː.ra‿r.raː.wiː fiː laħ.zˤa.ti‿l.ɣa.ra.qi bin.nah.ri ʔan ja.quː.la «ʔa.naː ħaj.jun wa.ʔu.riː.du ʔan ʔa.ʕiːʃ», muʕ.li.nan ʔin.ti.sˤaː.ra ʔi.raː.da.ti‿l.ba.qaːʔ] (Ikh-tā-ra ar-rā-wī fī laḥ-ẓa-ti al-gha-ra-qi bi-an-nah-ri an ya-qū-la «a-nā ḥay-yun wa-u-rī-du an a-ʿīsh», muʿ-li-nan in-ti-ṣā-ra i-rā-da-ti al-ba-qā-ʾ.)",
+          "translation": "The narrator at the moment of drowning in the river chose to say 'I am alive and I want to live', declaring the victory of the will to survive."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "شَمَالٌ وَجَنُوبٌ وَنِيلٌ يَفِيضْ، طَيِّبُ السَّرْدِ بِالفِكْرِ العَرِيضْ!"
+      ],
+      "culturalNotes": [
+        "اختيرت رواية «موسم الهجرة إلى الشمال» من قِبل الأكاديمية العربية للآداب واليونيسكو كأهم رواية عربية في القرن العشرين وتُرجمت إلى أكثر من 30 لغة عالمية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)» (الدرس 3)؟",
+          "prompt": "ما هي الرواية العبقرية للأديب السوداني الطيب صالح التي تُعد درة السرد الروائي في الصدام الحضاري بين الشرق والغرب؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)» بأسلوب أكاديمي دقيق (29.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (29.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (29.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (29.3.w3)"
+            "«مَوْسِمُ الهِجْرَةِ إِلَى الشَّمَالِ» (Season of Migration to the North)",
+            "بين القصرين",
+            "رجال في الشمس",
+            "أهل الكهف"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "رواية «موسم الهجرة إلى الشمال» (1966) هي العمل الأيقوني في تفكيك علاقة الشرق بالغرب ما بعد الاستعمار."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الاسم المحوري لبطل رواية «موسم الهجرة إلى الشمال» الذي مثل رحلة الغزو المعرفي والانتقامي المعاكس في إنجلترا؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "مُصْطَفَى سَعِيد (Mustafa Sa'eed)",
+            "كمال عبد الجواد",
+            "سعيد مهران",
+            "أبو الخيزران"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "مصطفى سعيد هو بطل الرواية المعقد الذي جسد الصدام العنيف بين الشرق والجنوب والشمال الأوروبي."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u29-l3):",
+          "prompt": "اختر العبارة التي تعبر عن المعنى الرمزي لموقف الراوي في منتصف النيل بنهاية «موسم الهجرة إلى الشمال»:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (29.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (29.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (29.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (29.3.x3)"
+            "«انْتِصَارُ إِرَادَةِ الحَيَاةِ وَتَجَاوُزُ عُقْدَةِ التَّمَزُّقِ بَيْنَ الشَّمَالِ وَالجَنُوبِ بِقَوْلِهِ: أَنَا حَيٌّ وَأُرِيدُ أَنْ أَعِيشَ». ('Victory of will to live & overcoming rupture between North and South.')",
+            "الاستسلام للغرق والموت بدون مقاومة",
+            "الهروب الدائم إلى لندن",
+            "موسم هجرة طيب صالح نيل سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "مشهد النيل يمثل ولادة جديدة لوعي الذات والانتصار للحياة ضد ثنائية الفناء والاستلاب."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)»؟",
+          "prompt": "ما إعراب كلمة «دُرَّةَ» في جملة: «تُعَدُّ الرِّوَايَةُ دُرَّةَ الأَدَبِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (29.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (29.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (29.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (29.3.y3)"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Second object of passive tu'addu in accusative)",
+            "نائب فاعل مرفوع بالضمة",
+            "نعت منصوب بالفتحة",
+            "حال منصوبة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الرِّوَايَةُ» نائب فاعل لـ «تُعَدُّ»، و«دُرَّةَ» مفعول به ثانٍ منصوب بالفتحة."
         }
       ]
     },
@@ -17619,24 +17638,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 29-3)؟",
+          "prompt": "اختر النص النقدي الذي يحلل الأبعاد الفلسفية وما بعد الاستعمارية في أدب الطيب صالح بأعلى درجات البلاغة والموضوعية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (29.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (29.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (29.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (29.3.z3)"
+            "تُشَكِّلُ «مَوْسِمُ الهِجْرَةِ إِلَى الشَّمَالِ» لِلطَّيِّبِ صَالِحٍ مَلْحَمَةً سَرْدِيَّةً خَالِدَةً فَكَّكَتْ مَرْكَزِيَّةَ الخِطَابِ الاسْتِعْمَارِيِّ؛ حَيْثُ حَوَّلَ مُصْطَفَى سَعِيد الصِّدَامَ بَيْنَ دِفْءِ الجَنُوبِ وَصَقِيعِ الشَّمَالِ إِلَى مِرْآةٍ تَعْكِسُ مَأْسَاةَ الهُوِيَّةِ المُمَزَّقَةِ، لِيَنْتَهِيَ الصِّرَاعُ عِنْدَ لَحْظَةِ النِّيلِ الحَاسِمَةِ بِانْتِصَارِ صَوْتِ الوُجُودِ: «أَنَا حَيٌّ وَأُرِيدُ أَنْ أَعِيشَ»، فَامْتَزَجَ سِحْرُ الشَّرْقِ بِأَسْئِلَةِ الإِنْسَانِ الكَوْنِيَّةِ. ('Season of Migration to the North' by Tayeb Salih constitutes immortal narrative epic deconstructing colonial discourse; where Mustafa Sa'eed turned clash between South's warmth and North's frost into mirror reflecting torn identity tragedy, ending conflict at crucial Nile moment with victory of existence: 'I am alive and want to live', merging East's magic with universal human inquiries.)",
+            "الطيب صالح كاتب سوداني مشهور كتب رواية موسم الهجرة وعرس الزين.",
+            "موسم الهجرة الى الشمال الطيب صالح مصطفى سعيد عرس الزين سكون فتحة ضمة.",
+            "تدور الرواية حول الطيور المهاجرة في فصل الشتاء."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين: تفكيك الخطاب الاستعماري، تحليل الصدام بين الشمال والجنوب، والدلالة الوجودية لصرخة الحياة في النهر."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u29-l3) باللغة العربية (مثال: «الرواية»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الرواية الخالدة للطيب صالح حول صدام الشرق والغرب (اكتب: «موسم الهجرة إلى الشمال»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الرواية",
-            "الرواية"
+            "موسم الهجرة إلى الشمال",
+            "موسم الهجرة الى الشمال",
+            "مَوْسِمُ الهِجْرَةِ إِلَى الشَّمَالِ",
+            "مَوْسِم الهِجْرَة إِلَى الشَّمَال"
           ],
-          "explanation": "المصطلح الصحيح هو «الرواية»."
+          "explanation": "الرواية هي «موسم الهجرة إلى الشمال» (Season of Migration to the North)."
         }
       ],
       "passThreshold": 0.8
@@ -17647,85 +17668,89 @@
     "subject": "arabic",
     "unit": 29,
     "lessonNumber": 4,
-    "title": "الرواية العربية الحديثة والمسرح (Modern Novel & Theatre) (الدرس 4)",
+    "title": "رواد المسرح العربي الحديث: من مارون النقاش إلى توفيق الحكيم وسعد الله ونوس (Pioneers of Modern Arabic Theatre)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أعمال نجيب محفوظ، غسان كنفاني، الطيب صالح، وتطور المسرح العربي الحديث. (الجزء 4).",
+    "objective": "إتقان تاريخ وتطور المسرح العربي الحديث، وتحليل «المسرح الذهني» عند توفيق الحكيم («أهل الكهف»، «شهرزاد»)، ومسرح التسييس عند سعد الله ونوس («حفلة سمر من أجل 5 حزيران»، «مغامرة رأس المملوك جابر»).",
     "presentation": {
-      "explanation": "",
+      "explanation": "تطور المسرح العربي الحديث من اقتباس مسرحيات موليير إلى بناء نصوص فكرية ونضالية كبرى:\n\nأولاً: رواد التأسيس (Founding Fathers):\n- **مَارُون النَّقَّاش** (بيروت 1847): رائد تقديم أول عرض مسرحي عربي («البَخِيلُ»).\n- **أَبُو خَلِيل القَبَّانِي** (دمشق والقاهرة): مزج المسرح بالغناء والموشحات التراثية والشعبية.\n\nثانياً: تَوْفِيق الحَكِيم (Tawfiq al-Hakim - Master of Cerebral Theatre):\n- رائد **المَسْرَحِ الذِّهْنِيِّ** (Plays to be read and contemplated):\n  * «**أَهْلُ الكَهْفِ**» (1933): الصراع التراجيدي بين الإنسان والزمن.\n  * «**شَهْرَزَادُ**»: صراع القلب والعقل والبحث عن المعرفة المطلقة.\n  * «**يَوْمِيَّاتُ نَائِبٍ فِي الأَرْيَافِ**» و«**عُصْفُورٌ مِنَ الشَّرْقِ**».\n\nثالثاً: سَعْد الله وَنُّوس (Saadallah Wannous - Theatre of Politicization):\n- رائد **مَسْرَحِ التَّسْيِيسِ وَالتَّثْوِيرِ** ومساءلة الهزيمة والاستبداد:\n  * «**حَفْلَةُ سَمَرٍ مِنْ أَجْلِ 5 حُزَيْرَانَ**» (1968): هدم الجدار الرابع ومحاكمة تزييف الوعي بعد النكسة.\n  * «**مُغَامَرَةُ رَأْسِ المَمْلُوكِ جَابِرٍ**» و«**طُقُوسُ الإِشَارَاتِ وَالتَّحَوُّلَاتِ**».\n  * بيانه الخالد في يوم المسرح العالمي 1996: «**إِنَّنَا مَحْكُومُونَ بِالأَمَلِ، وَمَا يَحْدُثُ الْيَوْمَ لَا يُمْكِنُ أَنْ يَكُونَ نِهَايَةَ التَّارِيخِ**».\n\nرابعاً: عناصر البناء الدرامي:\n- **الصِّرَاعُ الدِّرَامِيُّ (Dramatic Conflict)**، **الحِوَارُ المَسْرَحِيُّ الفَصِيحُ**، و**تَغْرِيبُ بْرِيخْت** (Brechtian Alienation).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)» بأسلوب أكاديمي دقيق (29.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)' to students in an accurate academic style."
+          "target": "أَرْسَى تَوْفِيق الحَكِيم دَعَائِمَ «المَسْرَحِ الذِّهْنِيِّ» فِي «أَهْلِ الكَهْفِ» لِمُعَالَجَةِ صِرَاعِ الإِنْسَانِ مَعَ الزَّمَنِ.(Arsā Tawfīqu al-Ḥakīm daʿāʾima «al-masraḥi adh-dhihniyy» fī «Ahli al-Kahf» li-muʿālajati ṣirāʿi al-insāni maʿa az-zaman.)",
+          "reading": "[ʔar.saː taw.fiː.qu‿l.ħa.kiːm da.ʕaː.ʔi.ma «ʔal.mas.ra.ħi‿ð.ðih.nijj» fiː «ʔah.li‿l.kahf» li.mu.ʕaː.la.ʒa.ti sˤi.raː.ʕi‿l.ʔin.saː.ni ma.ʕa‿z.za.man] (Ar-sā Taw-fī-qu al-Ḥa-kīm da-ʿā-ʾi-ma «al-mas-ra-ḥi adh-dhih-niyy» fī «Ah-li al-Kahf» li-mu-ʿā-la-ja-ti ṣi-rā-ʿi al-in-sā-ni ma-ʿa az-za-man.)",
+          "translation": "Tawfiq al-Hakim laid the pillars of 'Cerebral Theatre' in 'The Cave Dwellers' to address man's struggle against time."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (29.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَطْلَقَ سَعْد الله وَنُّوس صَيْحَتَهُ المَسْرَحِيَّةَ الخَالِدَةَ: «إِنَّنَا مَحْكُومُونَ بِالأَمَلِ وَمَا يَحْدُثُ لَيْسَ نِهَايَةَ التَّارِيخِ».(Aṭlaqa Saʿd Allāh Wannūs ṣayḥatahu al-masraḥiyyata al-khālidah: «Innanā maḥkūmūna bi-al-amali wa-mā yaḥduthu laysa nihāyata at-tārīkh».)",
+          "reading": "[ʔatˤ.la.qa saʕd al.laːh wan.nuːs sˤaj.ħa.ta.hu‿l.mas.ra.ħij.ja.ta‿l.xaː.li.dah: «ʔin.na.naː maħ.kuː.muː.na bil.ʔa.ma.li wa.maː jaħ.du.θu laj.sa ni.haː.ja.ta‿t.taː.riːx»] (Aṭ-la-qa Saʿd Al-lāh Wan-nūs ṣay-ḥa-ta-hu al-mas-ra-ḥiy-ya-ta al-khā-li-dah: «In-na-nā maḥ-kū-mū-na bi-al-a-ma-li wa-mā yaḥ-du-thu lay-sa ni-hā-ya-ta at-tā-rīkh».)",
+          "translation": "Saadallah Wannous uttered his immortal theatrical proclamation: 'We are condemned to hope, and what is happening is not the end of history.'"
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (29.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "حَطَّمَ وَنُّوس الجِدَارَ الرَّابِعَ فِي «حَفْلَةِ سَمَرٍ مِنْ أَجْلِ 5 حُزَيْرَانَ» لِيُشْرِكَ الجُمْهُورَ فِي مُحَاكَمَةِ الوَاقِعِ.(Ḥaṭṭama Wannūs al-jidāra ar-rābiʿa fī «Ḥaflati Samarin min ajli 5 Ḥuzayrān» li-yushrika al-jumhūra fī muḥākamati al-wāqiʿ.)",
+          "reading": "[ħatˤ.tˤa.ma wan.nuːs ʔal.ʒi.daː.ra‿r.raː.bi.ʕa fiː «ħaf.la.ti sa.ma.rin min ʔaʒ.li 5 ħu.zaj.raːn» li.juʃ.ri.ka‿l.ʒum.huː.ra fiː mu.ħaː.ka.ma.ti‿l.waː.qiʕ] (Ḥaṭ-ṭa-ma Wan-nūs al-ji-dā-ra ar-rā-bi-ʿa fī «Ḥaf-la-ti Sa-ma-rin min aj-li 5 Ḥu-zay-rān» li-yush-ri-ka al-jum-hū-ra fī mu-ḥā-ka-ma-ti al-wā-qiʿ.)",
+          "translation": "Wannous broke the fourth wall in 'Soiree for the 5th of June' to involve the audience in putting reality on trial."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (29.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يَمْتَازُ الحِوَارُ المَسْرَحِيُّ عِنْدَ الحَكِيمِ بِالفَصَاحَةِ النَّاصِعَةِ وَالعُمْقِ الفَلْسَفِيِّ الَّذِي يُخَاطِبُ العَقْلَ.(Yamtāzu al-ḥiwāru al-masraḥiyyu ʿinda al-Ḥakīmi bi-al-faṣāḥati an-nāṣiʿati wa-al-ʿumqi al-falsafiyyi al-ladhī yukhāṭibu al-ʿaql.)",
+          "reading": "[jam.taː.zu‿l.ħi.waː.ru‿l.mas.ra.ħij.ju ʕin.da‿l.ħa.kiː.mi bil.fa.sˤaː.ħa.ti‿n.naː.sˤi.ʕa.ti wal.ʕum.qi‿l.fal.sa.fij.ji‿l.la.ðiː ju.xaː.tˤi.bu‿l.ʕaql] (Yam-tā-zu al-ḥi-wā-ru al-mas-ra-ḥiy-yu ʿin-da al-Ḥa-kī-mi bi-al-fa-ṣā-ḥa-ti an-nā-ṣi-ʿa-ti wa-al-ʿum-qi al-fal-sa-fiy-yi al-la-dhī yu-khā-ṭi-bu al-ʿaql.)",
+          "translation": "Dramatic dialogue with Al-Hakim is distinguished by lucid eloquence and philosophical depth speaking to the intellect."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مَسْرَحُ ذِهْنٍ مَعَ حَفْلَةِ سَمَرْ، نَحْنُ المَحْكُومُونَ بِالأَمَلِ الأَغَرْ!"
+      ],
+      "culturalNotes": [
+        "يُعد المسرح في الثقافة العربية المعاصرة منبراً تنويرياً رائداً لعب دوراً محورياً في إيقاظ الوعي القومي ومقاومة الاستعمار والاستبداد."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)» (الدرس 4)؟",
+          "prompt": "ما هو التيار المسرحي الرائد الذي ابتكره الكاتب المصري توفيق الحكيم في مسرحيات مثل «أهل الكهف» و«شهرزاد»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)» بأسلوب أكاديمي دقيق (29.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (29.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (29.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (29.4.w3)"
+            "المَسْرَحُ الذِّهْنِيُّ (Cerebral / Intellectual Theatre)",
+            "مسرح العرائس للأطفال",
+            "المسرح الإيمائي الصامت",
+            "الكوميديا التهريجية"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "المسرح الذهني عند توفيق الحكيم هو مسرح الأفكار الفلسفية والتأمل العقلي في قضايا الوجود والزمن."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "من هو المسرحي السوري الرائد صاحب عبارة «إننا محكومون بالأمل» ومسرحية «حفلة سمر من أجل 5 حزيران»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "سَعْد الله وَنُّوس (Saadallah Wannous)",
+            "أحمد شوقي",
+            "مارون النقاش",
+            "محمود درويش"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "سعد الله ونوس هو رائد مسرح التسييس والتثوير وصاحب العبارة الخالدة «إننا محكومون بالأمل»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u29-l4):",
+          "prompt": "ماذا يعني تكنيك «هَدْمِ الجِدَارِ الرَّابِعِ» في مسرح التسييس عند سعد الله ونوس؟",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (29.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (29.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (29.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (29.4.x3)"
+            "إِلْغَاءُ الفَاصِلِ التَّقْلِيدِيِّ بَيْنَ المُمَثِّلِينَ وَالجُمْهُورِ لِإِشْرَاكِ المُشَاهِدِينَ فِي الحِوَارِ وَالصِّرَاعِ (Breaking the barrier between actors and audience to engage them)",
+            "هدم جدران المسرح بمعاول البناء",
+            "إطفاء أنوار القاعة بالكامل",
+            "مسرح ونوس حكيم صراع سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "هدم الجدار الرابع يجعل المتفرج شريكاً فاعلاً في نقد الواقع ومساءلة الخطاب السياسي."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)»؟",
+          "prompt": "ما إعراب كلمة «مَحْكُومُونَ» في قول ونوس: «إِنَّنَا مَحْكُومُونَ بِالأَمَلِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (29.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (29.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (29.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (29.4.y3)"
+            "خَبَرُ إِنَّ مَرْفُوعٌ بِالوَاوِ لِأَنَّهُ جَمْعُ مُذَكَّرٍ سَالِمٌ (Predicate of inna in nominative with waw)",
+            "اسم إن منصوب بالياء",
+            "فاعل مرفوع بالواو",
+            "نعت مرفوع"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الضمير «نَا» اسم إن، و«مَحْكُومُونَ» خبر إن مرفوع بالواو لأنه جمع مذكر سالم."
         }
       ]
     },
@@ -17733,24 +17758,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 29-4)؟",
+          "prompt": "اختر النص النقدي الذي يحلل تطور المسرح العربي الحديث وتكامله بين فكر توفيق الحكيم وثورية سعد الله ونوس بأعلى معايير الفصاحة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (29.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (29.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (29.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (29.4.z3)"
+            "شَهِدَ المَسْرَحُ العَرَبِيُّ الحَدِيثُ طَفْرَةً فِكْرِيَّةً كُبْرَى نَقَلَتْهُ مِنْ مَرَاحِلِ الاِقْتِبَاسِ إِلَى ذِرْوَةِ النُّضْجِ الإِبْدَاعِيِّ؛ حَيْثُ أَرْسَى تَوْفِيق الحَكِيم دَعَائِمَ «المَسْرَحِ الذِّهْنِيِّ» مُعَالِجًا صِرَاعَ الإِنْسَانِ مَعَ الزَّمَنِ وَالمَعْرِفَةِ، بَيْنَمَا أَطْلَقَ سَعْد الله وَنُّوس «مَسْرَحَ التَّسْيِيسِ» هَادِمًا الجِدَارَ الرَّابِعَ لِمُسَاءَلَةِ الوَاقِعِ، مُرَسِّخًا حَقِيقَةَ أَنَّ المَسْرَحَ مِحْرَابٌ لِلْوَعْيِ وَأَنَّنَا دَوْمًا «مَحْكُومُونَ بِالأَمَلِ». (Modern Arabic theatre witnessed great intellectual leap moving it from adaptation to summit of creative maturity; where Tawfiq al-Hakim established 'Cerebral Theatre' addressing man's struggle with time and knowledge, while Saadallah Wannous launched 'Theatre of Politicization' breaking fourth wall to interrogate reality, entrenching truth that theatre is sanctuary for consciousness and that we are always 'condemned to hope'.)",
+            "المسرح العربي فن تمثيلي يعرض على خشبة المسرح امام الجمهور.",
+            "مسرح عربي توفيق الحكيم سعد الله ونوس مارون النقاش اهل الكهف سكون فتحة ضمة.",
+            "اختفى المسرح العربي بعد ظهور السينما والتلفزيون."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين: التحليل الفلسفي للمسرح الذهني (الحكيم)، التحليل السياسي والدرامي لمسرح التسييس وكسر الجدار الرابع (ونوس)، والتأصيل التاريخي للمسرح كمنبر وعي."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u29-l4) باللغة العربية (مثال: «الرواية»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الفن الأدبي والدرامي الذي يُكتب ليُعرض على الخشبة أو يُقرأ ذهنياً (اكتب: «المسرح العربي» أو «المسرح»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الرواية",
-            "الرواية"
+            "المسرح العربي",
+            "المسرح",
+            "مسرح عربي",
+            "مسرح",
+            "المَسْرَحُ العَرَبِيُّ",
+            "المَسْرَح"
           ],
-          "explanation": "المصطلح الصحيح هو «الرواية»."
+          "explanation": "الفن هو «المسرح العربي» (Arabic Theatre)."
         }
       ],
       "passThreshold": 0.8
@@ -17761,85 +17790,89 @@
     "subject": "arabic",
     "unit": 29,
     "lessonNumber": 5,
-    "title": "الرواية العربية الحديثة والمسرح (Modern Novel & Theatre) (الدرس 5)",
+    "title": "حوار الندوة النقدية والتحليل السردي الشامل للرواية والمسرح العربي (Critical Symposium & Comprehensive Narrative Colloquium)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أعمال نجيب محفوظ، غسان كنفاني، الطيب صالح، وتطور المسرح العربي الحديث. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة التاسعة والعشرين: واقعية ورمزية نجيب محفوظ، غسان كنفاني وأدب المقاومة، الطيب صالح وصدام الشرق والغرب، والمسرح بين توفيق الحكيم وسعد الله ونوس في حوار نقدي موسوعي.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة التاسعة والعشرين (مستوى C1 المتقدم) من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس، ندمج كافة المعارف السردية والروائية والمسرحية في ندوة نقدية عليا يديرها الناقد الروائي (د. إبراهيم) وأستاذة الدراما والمسرح المقارن (د. ليلى):\n\nمحاور الحوار السردي الشامل:\n1.【نجيب محفوظ وملحمة السرد】: «الثُّلَاثِيَّةُ»، «اللِّصُّ وَالكِلَابُ»، «أَوْلَادُ حَارَتِنَا»، «تَيَّارُ الوَعْيِ».\n2.【غسان كنفاني وأدب المقاومة】: «رِجَالٌ فِي الشَّمْسِ»، «عَائِدٌ إِلَى حَيْفَا»، «الإِنْسَانُ قَضِيَّةٌ».\n3.【الطيب صالح وصدام الحضارات】: «مَوْسِمُ الهِجْرَةِ إِلَى الشَّمَالِ»، «مُصْطَفَى سَعِيد»، «أَنَا حَيٌّ وَأُرِيدُ أَنْ أَعِيشَ».\n4.【المسرح العربي الذهني والسياسي】: «أَهْلُ الكَهْفِ لِلْحَكِيمِ»، «وَنُّوس وَحَفْلَةُ سَمَرٍ»، «إِنَّنَا مَحْكُومُونَ بِالأَمَلِ».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)» بأسلوب أكاديمي دقيق (29.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)' to students in an accurate academic style."
+          "target": "مَرْحَبًا دُكْتُورَة لَيْلَى، كَيْفَ نَقْرَأُ هٰذَا التَّحَوُّلَ السَّرْدِيَّ العَظِيمَ مِنْ وَاقِعِيَّةِ مَحْفُوظٍ إِلَى رَمْزِيَّةِ كَنَفَانِي وَمَلْحَمِيَّةِ الطَّيِّبِ صَالِحٍ؟(Marḥaban duktūrah Laylā, kayfa naqraʾu hādhihi at-taḥawwula as-sardiyya al-ʿaẓīma min wāqiʿiyyati Maḥfūẓin ilā ramziyyati Kanafānī wa-malḥamiyyati aṭ-Ṭayyibi Ṣāliḥ?)",
+          "reading": "[mar.ħa.ban duk.tuː.rah laj.laː, kaj.fa naq.ra.ʔu haː.ði.hi‿t.ta.ħaw.wu.la‿s.sar.dij.ja‿l.ʕa.zˤiː.ma min waː.qi.ʕij.ja.ti maħ.fuː.zˤin ʔi.laː ram.zij.ja.ti ka.na.faː.niː wa.mal.ħa.mij.ja.ti‿tˤ.tˤaj.ji.bi sˤaː.liħ?] (Mar-ḥa-ban duk-tū-rah Lay-lā, kay-fa naq-ra-ʾu hā-dhi-hi at-ta-ḥaw-wu-la as-sar-diy-ya al-ʿa-ẓī-ma min wā-qi-ʿiy-ya-ti Maḥ-fū-ẓin i-lā ram-ziy-ya-ti Ka-na-fā-nī wa-mal-ḥa-miy-ya-ti aṭ-Ṭay-yi-bi Ṣā-liḥ?)",
+          "translation": "Welcome Dr. Leila, how do we read this great narrative shift from Mahfouz's realism to Kanafani's symbolism and Tayeb Salih's epic scope?"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (29.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَهْلًا دُكْتُور إِبْرَاهِيم؛ إِنَّ الرِّوَايَةَ العَرَبِيَّةَ انْتَقَلَتْ مِنْ تَشْرِيحِ المَكَانِ مَعَ مَحْفُوظٍ إِلَى حَمْلِ القَضِيَّةِ مَعَ كَنَفَانِي وَمُسَاءَلَةِ صِدَامِ الشَّرْقِ وَالغَرْبِ مَعَ صَالِحٍ.(Ahlan duktūr Ibrāhīm; inna ar-riwāyata al-ʿarabiyyata intaqalat min tashrīḥi al-makāni maʿa Maḥfūẓin ilā ḥamli al-qaḍiyyati maʿa Kanafānī wa-musāʾalati ṣidāmi ash-sharqi wa-al-gharbi maʿa Ṣāliḥ.)",
+          "reading": "[ʔah.lan duk.tuːr ʔib.raː.hiːm; ʔin.na‿r.ri.waː.ja.ta‿l.ʕa.ra.bij.ja.ta‿n.ta.qa.lat min taʃ.riː.ħi‿l.ma.kaː.ni ma.ʕa maħ.fuː.zˤin ʔi.laː ħam.li‿l.qa.dˤij.ja.ti ma.ʕa ka.na.faː.niː wa.mu.saː.ʔa.la.ti sˤi.daː.mi‿ʃ.ʃar.qi wal.ɣar.bi ma.ʕa sˤaː.liħ] (Ah-lan duk-tūr Ib-rā-hīm; in-na ar-ri-wā-ya-ta al-ʿa-ra-biy-ya-ta in-ta-qa-lat min tash-rī-ḥi al-ma-kā-ni ma-ʿa Maḥ-fū-ẓin i-lā ḥam-li al-qa-ḍiy-ya-ti ma-ʿa Ka-na-fā-nī wa-mu-sā-ʾa-la-ti ṣi-dā-mi ash-shar-qi wa-al-ghar-bi ma-ʿa Ṣā-liḥ.)",
+          "translation": "Hello Dr. Ibrahim; the Arabic novel moved from dissecting space with Mahfouz to carrying the cause with Kanafani and interrogating East-West clash with Salih."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (29.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "وَتَوَازَى هٰذَا السَّرْدُ مَعَ مَسْرَحِ الحَكِيمِ الذِّهْنِيِّ وَمَسْرَحِ وَنُّوس النِّضَالِيِّ الَّذِي خَلَّدَ أَنَّنَا «مَحْكُومُونَ بِالأَمَلِ».(Wa-tawāzā hādhā as-sardu maʿa masraḥi al-Ḥakīmi adh-dhihniyyi wa-masraḥi Wannūsa an-niḍāliyyi al-ladhī khallada annanā «maḥkūmūna bi-al-amal».)",
+          "reading": "[wa.ta.waː.zaː haː.ðaː‿s.sar.du ma.ʕa mas.ra.ħi‿l.ħa.kiː.mi‿ð.ðih.nij.ji wa.mas.ra.ħi wan.nuː.sa‿n.ni.dˤaː.lij.ji‿l.la.ðiː xal.la.da ʔan.na.naː «maħ.kuː.muː.na bil.ʔa.mal»] (Wa-ta-wā-zā hā-dhā as-sar-du ma-ʿa mas-ra-ḥi al-Ḥa-kī-mi adh-dhih-niy-yi wa-mas-ra-ḥi Wan-nū-sa an-ni-ḍā-liy-yi al-la-dhī khal-la-da an-na-nā «maḥ-kū-mū-na bi-al-a-mal».)",
+          "translation": "And this narrative paralleled Al-Hakim's cerebral theatre and Wannous's militant theatre that immortalized that we are 'condemned to hope.'"
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (29.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "لِيَظَلَّ الأَدَبُ العَرَبِيُّ الحَدِيثُ رِوَايَةً وَمَسْرَحًا مِرْآةً لِلْوَعْيِ وَصَوْتًا لِلْحُرِّيَّةِ وَالكَرَامَةِ الإِنْسَانِيَّةِ.(Li-yaẓalla al-adabu al-ʿarabiyyu al-ḥadīthu riwāyatan wa-masraḥan mirʾātan li-l-waʿyi wa-ṣawtan li-l-ḥurriyyati wa-al-karāmati al-insāniyyah.)",
+          "reading": "[li.ja.zˤal.la‿l.ʔa.da.bu‿l.ʕa.ra.bij.ju‿l.ħa.diː.θu ri.waː.ja.tan wa.mas.ra.ħan mir.ʔaː.tan lil.waʕ.ji wa.sˤaw.tan lil.ħur.rij.ja.ti wal.ka.raː.ma.ti‿l.ʔin.saː.nij.jah] (Li-ya-ẓal-la al-a-da-bu al-ʿa-ra-biy-yu al-ḥa-dī-thu ri-wā-ya-tan wa-mas-ra-ḥan mir-ʾā-tan lil-waʿ-yi wa-ṣaw-tan lil-ḥur-riy-ya-ti wa-al-ka-rā-ma-ti al-in-sā-niy-yah.)",
+          "translation": "So modern Arabic literature as novel and theatre remains a mirror for consciousness and a voice for freedom and human dignity."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "رِوَايَةٌ وَمَسْرَحٌ مِرْآةُ الزَّمَانْ، صَوْتُ العُرُوبَةِ نِبْرَاسُ البَيَانْ!"
+      ],
+      "culturalNotes": [
+        "تُعد الندوات النقدية ومهرجانات المسرح والرواية العربية (كمهرجان القاهرة الدولي للمسرح التجريبي وجائزة البوكر العربية) منصات حيوية تحتفي بتجدد السرد العربي وتفاعله مع التيارات الأدبية العالمية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)» (الدرس 5)؟",
+          "prompt": "في التحليل السردي التكاملي، كيف تدرجت الرواية العربية الحديثة من نجيب محفوظ إلى غسان كنفاني والطيب صالح؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)» بأسلوب أكاديمي دقيق (29.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (29.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (29.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (29.5.w3)"
+            "انْتَقَلَتْ مِنْ تَشْرِيحِ الوَاقِعِ الاجْتِمَاعِيِّ إِلَى حَمْلِ القَضِيَّةِ النِّضَالِيَّةِ وَمُسَاءَلَةِ صِدَامِ الشَّرْقِ وَالغَرْبِ (Moved from social realism to political cause & postcolonial interrogation)",
+            "تراجعت الرواية وتوقفت عن التطور تماما",
+            "أصبحت مجرد قصص أطفال ترفيهية",
+            "تحولت إلى نصوص شعرية فقط"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "السرد العربي تطور من الواقعية الاجتماعية (محفوظ) إلى أدب المقاومة (كنفاني) وأسئلة ما بعد الاستعمار (الطيب صالح)."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الرابط الفكري المشترك بين المسرح الذهني عند توفيق الحكيم ومسرح التسييس عند سعد الله ونوس؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "جَعْلُ خَشَبَةِ المَسْرَحِ مِنْبَرًا لِإِعْمَالِ العَقْلِ، إِيقَاظِ الوَعْيِ، وَمُسَاءَلَةِ أَزَمَاتِ الإِنْسَانِ وَالمُجْتَمَعِ (Making stage a platform for intellect, awakening consciousness & interrogating crises)",
+            "تقديم عروض سيرك وألعاب بهلوانية فقط",
+            "إلغاء النص المسرحي المكتوب",
+            "التشجيع على اليأس والاستسلام"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "كلاهما وظف المسرح لمعالجة القضايا الكبرى؛ الحكيم فلسفياً وذهنياً، وونوس سياسياً ونضالياً."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u29-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تلخص رسالة الأدب الروائي والمسرحي العربي الحديث بفصاحة نقدية تامة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (29.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (29.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (29.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (29.5.x3)"
+            "— كَيْفَ تَرَيْنَ جَوْهَرَ السَّرْدِ العَرَبِيِّ؟ — أَرَاهُ سَفَرًا فِي أَعْمَاقِ الذَّاتِ الإِنْسَانِيَّةِ يَسْعَى إِلَى الحُرِّيَّةِ وَيَرْفَعُ رَايَةَ الأَمَلِ فِي وَجْهِ الظَّلَامِ. (— How do you view the essence of Arabic narrative? — As a journey into human self depths seeking freedom and raising hope banner against darkness.)",
+            "— هل قرأت رواية جديدة هذا الأسبوع؟ — نعم قرأت كتابا صغيرا.",
+            "— أين تباع تذاكر المسرح الوطني؟ — في شباك التذاكر عند المدخل.",
+            "— حوار ندوة نقد رواية مسرح سكون."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة تجسد الغاية السامية للأدب العربي في السعي نحو الحرية وترسيخ قيم الأمل والكرامة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الرواية العربية الحديثة والمسرح (Modern Novel & Theatre)»؟",
+          "prompt": "ما إعراب كلمة «سَفَرًا» في قولنا: «أَرَاهُ سَفَرًا فِي أَعْمَاقِ الذَّاتِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (29.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (29.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (29.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (29.5.y3)"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Second object of ra'ā in accusative)",
+            "حال منصوبة بالفتحة",
+            "نعت منصوب",
+            "تمييز منصوب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الفعل «رَأَى» القلبي ينصب مفعولين؛ الهاء مفعول أول، و«سَفَرًا» مفعول به ثانٍ منصوب."
         }
       ]
     },
@@ -17847,24 +17880,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 29-5)؟",
+          "prompt": "اختر النص الحواري النقدي الشامل الذي يدمج مخرجات الوحدة التاسعة والعشرين بأكملها (محفوظ، كنفاني، الطيب صالح، توفيق الحكيم، وسعد الله ونوس):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (29.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (29.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (29.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (29.5.z3)"
+            "د. إِبْرَاهِيم: «دُكْتُورَة لَيْلَى، كَيْفَ نُلَخِّصُ عَبْقَرِيَّةَ السَّرْدِ وَالمَسْرَحِ العَرَبِيِّ فِي تَشْكِيلِ الوَعْيِ الحَدِيثِ؟» — د. لَيْلَى: «إِنَّهَا مَلْحَمَةُ الهُوِيَّةِ وَالحُرِّيَّةِ؛ حَيْثُ شَيَّدَ مَحْفُوظ صَرْحَ الوَاقِعِيَّةِ فِي الثُّلَاثِيَّةِ، وَفَجَّرَ كَنَفَانِي صَرْخَةَ المُقَاوَمَةِ فِي رِجَالٍ فِي الشَّمْسِ، وَشَرَّحَ الطَّيِّبُ صَالِحٌ صِدَامَ الحَضَارَاتِ فِي مَوْسِمِ الهِجْرَةِ، بَيْنَمَا مَزَجَ الحَكِيمُ وَوَنُّوس بَيْنَ المَسْرَحِ الذِّهْنِيِّ وَالتَّسْيِيسِ النِّضَالِيِّ، لِيَظَلَّ أَدَبُنَا شَاهِدًا خَالِدًا عَلَى أَنَّنَا دَوْمًا «مَحْكُومُونَ بِالأَمَلِ»». (Dr. Ibrahim: 'Dr. Leila, how do we summarize narrative and theatrical Arabic genius in shaping modern consciousness?' — Dr. Leila: 'It is the epic of identity and freedom; where Mahfouz constructed realism edifice in The Trilogy, Kanafani exploded resistance cry in Men in the Sun, Tayeb Salih dissected clash of civilizations in Season of Migration, while Al-Hakim and Wannous merged cerebral theatre with militant politicization, keeping our literature an eternal witness that we are always 'condemned to hope'.')",
+            "د. إبراهيم: هل كانت الندوة النقدية مفيدة اليوم؟ — د. ليلى: نعم كانت ندوة جيدة وممتعة.",
+            "حوار نقدي شامل محفوظ كنفاني طيب صالح حكيم ونوس رواية مسرح سكون فتحة ضمة.",
+            "توقفت الروايات والمسرحيات العربية عن الصدور نهائيا."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة التحليل النقدي الموسوعي في دمج: واقعية محفوظ، أدب مقاومة كنفاني، استشراف الطيب صالح، ومسرح الحكيم وونوس مع الشعار الخالد «محكومون بالأمل»."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u29-l5) باللغة العربية (مثال: «الرواية»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الفن السردي النثري الطويل الذي يعالج قضايا المجتمع والشخصيات عبر الحبكة والزمان والمكان (اكتب: «الرواية العربية» أو «الرواية»؛ بدون تشكيل):",
           "acceptedAnswers": [
+            "الرواية العربية",
             "الرواية",
-            "الرواية"
+            "رواية عربية",
+            "رواية",
+            "الرِّوَايَةُ العَرَبِيَّةُ",
+            "الرِّوَايَة"
           ],
-          "explanation": "المصطلح الصحيح هو «الرواية»."
+          "explanation": "الفن السردي هو «الرواية العربية» (The Arabic Novel)."
         }
       ],
       "passThreshold": 0.8
