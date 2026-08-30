@@ -16084,85 +16084,89 @@
     "subject": "arabic",
     "unit": 27,
     "lessonNumber": 1,
-    "title": "الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music) (الدرس 1)",
+    "title": "علم المقامات الشرقية وأبعاد النغم العربي (Arabic Maqam Modalities & Microtonal Scales)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: علم المقامات الشرقية (الراست، البياتي، النهاوند، الحجاز)، الموشحات الأندلسية، والتراث الصوتي. (الجزء 1).",
+    "objective": "إتقان فصيلة المقامات الشرقية الثمانية الأساسية (صُنِعَ بِسَحَرٍ)، وأبعاد ربع التون (الميكروتون)، وجنس الأصل وجنس الفرع، واستقرار الركوز والقفلات النغمية.",
     "presentation": {
-      "explanation": "",
+      "explanation": "المقام في الموسيقى العربية ليس مجرد سُلَّمٍ صوتي بل هو روحٌ نغمية متكاملة تعبر عن أحاسيس وجدانية عميقة:\n\nأولاً: المقامات الأساسية الثمانية (مجموعة في عبارة «صُنِعَ بِسَحَرٍ»):\n1.【ص: الصَّبَا (Maqam Saba)】: نغم الشجن العميق والحزن الشفيف والرقة الاستثنائية.\n2.【ن: النَّهَاوَنْد (Maqam Nahawand)】: نغم الرومانسية والعذوبة والشوق الهادئ (يقابل السلم الصغير الغربي Minor).\n3.【ع: العَجَم (Maqam Ajam)】: نغم الفرح، العزة، والقوة والجلال (يقابل السلم الكبير الغربي Major).\n4.【ب: البَيَاتِي (Maqam Bayati)】: سلطان المقامات وسيد الطرب، يحمل الوقار والعمق الشعبي الدافئ.\n5.【س: السِّيكَاه (Maqam Sikah)】: نغم الروحانية والصفاء الصوفي والتأمل، يرتكز على درجة السيكاه (نصف بيمول).\n6.【ح: الحِجَاز (Maqam Hijaz)】: نغم الخشوع والغموض المشرقي والجمال الروحي الأخّاذ.\n7.【ر: الرَّاسْت (Maqam Rast)】: أبو المقامات الشرقية ورمز الاستقامة والرصانة والأصالة الفخمة.\n8.【ك: الكُرْد (Maqam Kurd)】: نغم البساطة والجمال الحديث وسهولة الانتقال (يبدأ ببعد نصف طن).\n\nثانياً: البنية الصوتية للنغم الشرقي:\n- **رُبْعُ التُّونِ (Quarter Tone / Microtone)**: الخصوصية النغمية الساحرة للمقامات الشرقية (كالراست والبياتي والسيكاه).\n- **جِنْسُ الأَصْلِ وَجِنْسُ الفَرْعِ (Tetrachords / Ajnas)**: يتكون المقام من عقدين صوتيين (عادة 4 درجات لكل جنس) يحددان شخصيته وطابعه التحويلي.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)» بأسلوب أكاديمي دقيق (27.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)' to students in an accurate academic style."
+          "target": "تَجْمَعُ عِبَارَةُ «صُنِعَ بِسَحَرٍ» فصَائِلَ المَقَامَاتِ الشَّرْقِيَّةِ الثَّمَانِيَةِ الرَّئِيسَةِ بِإِيجَازٍ عَبْقَرِيٍّ.(Tajmaʿu ʿibāratu «ṣuniʿa bi-saḥar» faṣāʾila al-maqāmāti ash-sharqiyyati ath-thamāniyata ar-raʾīsata bi-ījāzin ʿabqariyy.)",
+          "reading": "[taʒ.ma.ʕu ʕi.baː.ra.tu «sˤu.ni.ʕa bi.sa.ħar» fa.sˤaː.ʔi.la‿l.ma.qaː.maː.ti‿ʃ.ʃar.qij.ja.ti‿θ.θa.maː.ni.ja.ta‿r.ra.ʔiː.sa.ta bi.ʔiː.ʒaː.zin ʕab.qa.rijj] (Taj-ma-ʿu ʿi-bā-ra-tu «ṣu-ni-ʿa bi-sa-ḥar» fa-ṣā-ʾi-la al-ma-qā-mā-ti ash-shar-qiy-ya-ti ath-tha-mā-ni-ya-ta ar-ra-ʾī-sa-ta bi-ī-jā-zin ʿab-qa-riyy.)",
+          "translation": "The mnemonic phrase 'ṣuniʿa bi-saḥar' gathers the eight principal oriental maqam families in brilliant conciseness."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (27.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يُعَدُّ مَقَامُ الرَّاسْتِ أَبَا المَقَامَاتِ الشَّرْقِيَّةِ لِأَنَّهُ يُمَثِّلُ مِعْيَارَ الاسْتِقَامَةِ وَالوَقَارِ النَّغَمِيِّ.(Yuʿaddu maqāmu ar-rāsti abā al-maqāmāti ash-sharqiyyati li-annahu yumaththilu miʿyāra al-istiqāmati wa-al-waqāri an-naghamiyy.)",
+          "reading": "[ju.ʕad.du ma.qaː.mu‿r.raːs.ti ʔa.baː‿l.ma.qaː.maː.ti‿ʃ.ʃar.qij.ja.ti li.ʔan.na.hu ju.maθ.θi.lu miʕ.jaː.ra‿l.ʔis.ti.qaː.ma.ti wal.wa.qaː.ri‿n.na.ɣa.mijj] (Yu-ʿad-du ma-qā-mu ar-rās-ti a-bā al-ma-qā-mā-ti ash-shar-qiy-ya-ti li-an-na-hu yu-math-thi-lu miʿ-yā-ra al-is-ti-qā-ma-ti wa-al-wa-qā-ri an-na-gha-miyy.)",
+          "translation": "Maqam Rast is considered the father of oriental maqams because it represents the benchmark of melodic uprightness and dignity."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (27.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يَمْتَازُ النَّغَمُ العَرَبِيُّ بِاحْتِوَائِهِ عَلَى رُبْعِ التُّونِ الَّذِي يُكْسِبُ اللَّحْنَ حَرَارَةً وَعُمقًا وِجْدَانِيًّا فَرِيدًا.(Yamtāzu an-naghamu al-ʿarabiyyu bi-iḥtiwāʾihi ʿalā rubʿi at-tūni al-ladhī yuksibu al-laḥna ḥarāratan wa-ʿumqan wijdāniyyan farīdā.)",
+          "reading": "[jam.taː.zu‿n.na.ɣa.mu‿l.ʕa.ra.bij.ju biħ.ti.waː.ʔi.hi ʕa.laː rub.ʕi‿t.tuː.ni‿l.la.ðiː juk.si.bu‿l.laħ.na ħa.raː.ra.tan wa.ʕum.qan wiʒ.daː.nij.jan fa.riː.daː] (Yam-tā-zu an-na-gha-mu al-ʿa-ra-biy-yu bi-iḥ-ti-wā-ʾi-hi ʿa-lā rub-ʿi at-tū-ni al-la-dhī yuk-si-bu al-laḥ-na ḥa-rā-ra-tan wa-ʿum-qan wij-dā-niy-yan fa-rī-dā.)",
+          "translation": "Arabic melody is distinguished by its inclusion of the quarter tone, which imparts to the tune unique warmth and emotional depth."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (27.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يَتَشَكَّلُ مَقَامُ البَيَاتِي مِنْ جِنْسِ بَيَاتِي عَلَى القَرَارِ وَجِنْسِ نَهَاوَنْد أَوْ رَاسْت عَلَى الجَوَابِ.(Yatashakkalu maqāmu al-bayātī min jinsi bayātī ʿalā al-qarāri wa-jinsi nahāwand aw rāst ʿalā al-jawāb.)",
+          "reading": "[ja.ta.ʃak.ka.lu ma.qaː.mu‿l.ba.jaː.tiː min ʒin.si ba.jaː.tiː ʕa.laː‿l.qa.raː.ri wa.ʒin.si na.haː.wand ʔaw raːst ʕa.laː‿l.ʒa.waːb] (Ya-ta-shak-ka-lu ma-qā-mu al-ba-yā-tī min jin-si ba-yā-tī ʿa-lā al-qa-rā-ri wa-jin-si na-hā-wand aw rāst ʿa-lā al-ja-wāb.)",
+          "translation": "Maqam Bayati is formed from a Bayati tetrachord on the tonic and a Nahawand or Rast tetrachord on the upper octave."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«صُنِعَ بِسَحَرٍ» أَلْحَانُ الزَّمَانْ، سَبْرُ النَّغَمِ وَمَعْرِجُ الوِجْدَانْ!"
+      ],
+      "culturalNotes": [
+        "كلمة «رَاسْت» كلمة فارسية تعني «المستقيم والصحيح»، ولذلك يُعتبر مقام الراست المقام المرجعي الذي تُقاس عليه سائر المقامات والدرجات الموسيقية في الشرق."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)» (الدرس 1)؟",
+          "prompt": "ما هي العبارة التذكيرية الشهيرة التي تجمع الحروف الأولى للمقامات الشرقية الثمانية الكبرى؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)» بأسلوب أكاديمي دقيق (27.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (27.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (27.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (27.1.w3)"
+            "«صُنِعَ بِسَحَرٍ» (صبا، نهاوند، عجم، بياتي، سيكاه، حجاز، راست، كرد)",
+            "أبجد هوز حطي كلمن",
+            "قطب جد في التجويد",
+            "أحرف الاستعلاء والهمس"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "عبارة «صُنِعَ بِسَحَرٍ» هي المنظومة الجامعة للمقامات: الصبا، النهاوند، العجم، البياتي، السيكاه، الحجاز، الراست، والكرد."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما الذي يميز المقامات الشرقية الكلاسيكية (مثل الراست والبياتي) عن السلالم الغربية المقسمة نصفياً؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "احْتِوَاؤُهَا عَلَى أَبْعَادِ رُبْعِ التُّونِ (المِيكْرُوتُونْ) الدَّقِيقَةِ (Inclusion of microtonal quarter-tone intervals)",
+            "استخدام آلات كهربائية فقط",
+            "الاعتماد على الكلمات العامية فقط",
+            "انعدام الإيقاع والوزن"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "ربع التون هو العلامة الفارقة للموسيقى الشرقية التي تعطيها مرونة تطريبية وتأثيراً نفسياً مميزاً."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u27-l1):",
+          "prompt": "اختر المقام الذي يشتهر بالتعبير عن الحزن الشفيف والشجن الروحي المؤثر في الموسيقى العربية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (27.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (27.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (27.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (27.1.x3)"
+            "مَقَامُ الصَّبَا (Maqam Saba)",
+            "مقام العجم المارش",
+            "مقام النهاوند المرح",
+            "السلم الخماسي الصيني"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "مقام الصبا هو أكثر المقامات تجسيداً للشجن والحزن والتأثر الوجداني العميق."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)»؟",
+          "prompt": "ما إعراب كلمة «أَبَا» في جملة: «يُعَدُّ مَقَامُ الرَّاسْتِ أَبَا المَقَامَاتِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (27.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (27.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (27.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (27.1.y3)"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالأَلِفِ لِأَنَّهُ مِنَ الأَسْمَاءِ الخَمْسَةِ (Second object in accusative with alif)",
+            "نائب فاعل مرفوع بالواو",
+            "مضاف إليه مجرور بالكسرة",
+            "نعت منصوب بالفتحة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الفعل المبني للمجهول «يُعَدُّ» أخذ نائب فاعل («مَقَامُ»)، ونصب مفعوله الثاني «أَبَا» بالألف لأنه من الأسماء الخمسة."
         }
       ]
     },
@@ -16170,24 +16174,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 27-1)؟",
+          "prompt": "اختر النص الموسيكولوجي الدقيق الذي يحلل النظام المقامي الشرقي بأعلى درجات الفصاحة والتحليل الفني:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (27.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (27.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (27.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (27.1.z3)"
+            "يُمَثِّلُ النِّظَامُ المَقَامِيُّ الشَّرْقِيُّ ذِرْوَةَ الإِبْدَاعِ الصَّوْتِيِّ العَرَبِيِّ؛ حَيْثُ تَتَآلَفُ فصَائِلُهُ الثَّمَانِيَةُ فِي عِبَارَةِ «صُنِعَ بِسَحَرٍ» مُوَظِّفَةً دِقَّةَ رُبْعِ التُّونِ لِلتَّعْبِيرِ عَنْ سَائِرِ المَشَاعِرِ الإِنْسَانِيَّةِ؛ مِنِ اسْتِقَامَةِ الرَّاسْتِ وَشَجَنِ الصَّبَا، إِلَى وَقَارِ البَيَاتِي وَرُوحَانِيَّةِ الحِجَازِ وَالسِّيكَاهِ، لِيَغْدُوَ المَقَامُ لُغَةً شُعُورِيَّةً خَالِدَةً. (The oriental maqam system represents the summit of Arabic sonic creativity; where its eight families harmonize in 'ṣuniʿa bi-saḥar' utilizing quarter-tone precision to express all human emotions; from Rast's dignity and Saba's sorrow, to Bayati's reverence and Hijaz/Sikah spirituality, so maqam became a timeless emotional language.)",
+            "الموسيقى الشرقية تعزف على آلات مختلفة والسلام.",
+            "مقامات شرقية راست بياتي صبا نهاوند حجاز سيكاه عجم كرد سكون فتحة ضمة.",
+            "المقامات الشرقية مطابقة تماما للمقامات الغربية بلا اي فرق."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بدقة بين: المنظومة الجامعة («صُنِعَ بِسَحَرٍ»)، الخصيصة الفيزيائية الصوتية (ربع التون)، والدلالات الوجدانية لكافة المقامات."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u27-l1) باللغة العربية (مثال: «الموسيقى»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم المقام المعتبر أباً للمقامات الشرقية وأصل درجاتها النغمية (اكتب: «الراست»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الموسيقى",
-            "الموسيقى"
+            "الراست",
+            "مقام الراست",
+            "راست",
+            "الرَّاسْتُ",
+            "الرَّاسْت"
           ],
-          "explanation": "المصطلح الصحيح هو «الموسيقى»."
+          "explanation": "المقام هو «الراست» (Maqam Rast)."
         }
       ],
       "passThreshold": 0.8
@@ -16198,85 +16205,89 @@
     "subject": "arabic",
     "unit": 27,
     "lessonNumber": 2,
-    "title": "الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music) (الدرس 2)",
+    "title": "الموشحات الأندلسية والقدود الحلبية (Andalusian Muwashshahat & Aleppo Qudud)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: علم المقامات الشرقية (الراست، البياتي، النهاوند، الحجاز)، الموشحات الأندلسية، والتراث الصوتي. (الجزء 2).",
+    "objective": "إتقان بنية الموشح الأندلسي (المطلع، الدور، القفل، البيت، والخرجة)، والإيقاعات التراثية (السماعي الثقيل، الدور الهندي)، وتاريخ القدود الحلبية الشامية.",
     "presentation": {
-      "explanation": "",
+      "explanation": "ابتكر الأندلسيون فن الموشحات لكسر رتابة القصيدة الكلاسيكية العمودية وتطويع الشعر للإيقاع والغناء العذب:\n\nأولاً: بنية الموشح الأندلسي (Anatomy of the Muwashshah):\n1.【المَطْلَعُ (The Prelude / Madhkhal)】: القفل الأول الذي يفتتح به الموشح وتتحد فيه القافية والوزن.\n2.【الدَّوْرُ (The Stanza / Dawr)】: مجموعة أبيات تلي المطلع بقوافٍ متحدة تختلف عن قوافي المطلع.\n3.【القُفْلُ (The Refrain / Qufl)】: الشطر أو الأشطر التي تعود إلى وزن المطلع وقافيته.\n4.【البَيْتُ (The Strophe)】: مجموع الدور مع القفل الذي يليه.\n5.【الخَرْجَةُ (The Envoy / Kharja)】: القفل الأخير في الموشح، وتكون خفيفة ورشيقة.\n\nثانياً: روائع التوشيح الأندلسي:\n- لسان الدين بن الخطيب في موشحته الخالدة:\n  * «**جَادَكَ الغَيْثُ إِذَا الغَيْثُ هَمَى / يَا زَمَانَ الوَصْلِ بِالأَنْدَلُسِ**».\n  * «**لَمْ يَكُنْ وَصْلُكَ إِلَّا حُلُمًا / فِي الكَرَى أَوْ خِلْسَةَ المُخْتَلِسِ**».\n- ابن زهر الحفيد: «**أَيُّهَا السَّاقِي إِلَيْكَ المُشْتَكَى / قَدْ دَعَوْنَاكَ وَإِنْ لَمْ تَسْمَعِ**».\n\nثانياً: القُدُودُ الحَلَبِيَّةُ (Aleppo Qudud):\n- فن غنائي أصيل نشأ في حلب الشهباء يقوم على توليد نصوص جديدة على قَدِّ (أي مقاس وميزان) ألحان وموشحات تراثية قديمة (مثل «قَدُّكَ المَيَّاسُ»، «يَا شَادِيَ الأَلْحَانِ»، و«فَوْقَ النَّخْلِ»).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)» بأسلوب أكاديمي دقيق (27.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)' to students in an accurate academic style."
+          "target": "جَادَكَ الغَيْثُ إِذَا الغَيْثُ هَمَى يَا زَمَانَ الوَصْلِ بِالأَنْدَلُسِ.(Jādaka al-ghaythu idhā al-ghaythu hamā yā zamāna al-waṣli bi-al-Andalus.)",
+          "reading": "[ʒaː.da.ka‿l.ɣaj.θu ʔi.ðaː‿l.ɣaj.θu ha.maː jaː za.maː.na‿l.wasˤ.li bil.ʔan.da.lus] (Jā-da-ka al-ghay-thu i-dhā al-ghay-thu ha-mā yā za-mā-na al-waṣ-li bi-al-An-da-lus.)",
+          "translation": "May the copiously pouring rain shower upon you, O time of union in al-Andalus."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (27.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "لَمْ يَكُنْ وَصْلُكَ إِلَّا حُلُمًا فِي الكَرَى أَوْ خِلْسَةَ المُخْتَلِسِ.(Lam yakun waṣluka illā ḥuluman fī al-karā aw khilsata al-mukhtalis.)",
+          "reading": "[lam ja.kun wasˤ.lu.ka ʔil.laː ħu.lu.man fiː‿l.ka.raː ʔaw xil.sa.ta‿l.mux.ta.lis] (Lam ya-kun waṣ-lu-ka il-lā ḥu-lu-man fī al-ka-rā aw khil-sa-ta al-mukh-ta-lis.)",
+          "translation": "Your union was nothing but a dream in slumber, or the furtive snatch of a stealthy taker."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (27.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "ابْتَكَرَ مُقَدَّمُ بْنُ مُعَافَى القَبْرِيُّ فَنَّ التَّوْشِيحِ فِي قُرْطُبَةَ لِيُوَائِمَ الأَلْحَانَ وَالإِيقَاعَاتِ المُتَنَوِّعَةَ.(Ibtakara Muqaddamu ibnu Muʿāfā al-Qabriyyu fanna at-tawshīḥi fī Qurṭubata li-yuwāʾima al-alḥāna wa-al-īqāʿāti al-mutanawwiʿah.)",
+          "reading": "[ʔib.ta.ka.ra mu.qad.da.mu‿b.nu mu.ʕaː.faː‿l.qab.rij.ju fan.na‿t.taw.ʃiː.ħi fiː qur.tˤu.ba.ta li.ju.waː.ʔi.ma‿l.ʔal.ħaː.na wal.ʔiː.qaː.ʕaː.ti‿l.mu.ta.naw.wi.ʕah] (Ib-ta-ka-ra Mu-qad-da-mu ib-nu Mu-ʿā-fā al-Qab-riy-yu fan-na at-taw-shī-ḥi fī Qur-ṭu-ba-ta li-yu-wā-ʾi-ma al-al-ḥā-na wa-al-ī-qā-ʿā-ti al-mu-ta-naw-wi-ʿah.)",
+          "translation": "Muqaddam ibn Mu'afa of Cabra invented the art of Muwashshah in Cordoba to suit diverse melodies and rhythms."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (27.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تَقُومُ القُدُودُ الحَلَبِيَّةُ عَلَى صِيَاغَةِ كَلِمَاتٍ مُبْتَكَرَةٍ عَلَى قَدِّ الأَلْحَانِ وَالمَوَازِينِ المَوْرُوثَةِ.(Taqūmu al-qudūdu al-ḥalabiyyatu ʿalā ṣiyāghati kalimātin mubtakaratin ʿalā qaddi al-alḥāni wa-al-mawāzīni al-mawrūthah.)",
+          "reading": "[ta.quː.mu‿l.qu.duː.du‿l.ħa.la.bij.ja.tu ʕa.laː sˤi.jaː.ɣa.ti ka.li.maː.tin mub.ta.ka.ra.tin ʕa.laː qad.di‿l.ʔal.ħaː.ni wal.ma.waː.ziː.ni‿l.maw.ruː.θah] (Ta-qū-mu al-qu-dū-du al-ḥa-la-biy-ya-tu ʿa-lā ṣi-yā-gha-ti ka-li-mā-tin mub-ta-ka-ra-tin ʿa-lā qad-di al-al-ḥā-ni wa-al-ma-wā-zī-ni al-maw-rū-thah.)",
+          "translation": "Aleppo Qudud are based on composing innovative lyrics fitted to the exact measure of inherited melodies and rhythms."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مَوْشَحٌ يَشْدُو بِأَنْدَلُسِ الضِّيَاءْ، وَقُدُودُ شَامٍ تُشْعِلُ الأَرْجَاءْ!"
+      ],
+      "culturalNotes": [
+        "انتقلت الموشحات الأندلسية عبر البحر المتوسط لتؤثر في شعر وترنيمات التروبادور (Troubadours) في جنوب فرنسا وشبه الجزيرة الإيبيرية في العصور الوسطى."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)» (الدرس 2)؟",
+          "prompt": "ما هو الاسم الفني للقفل الأخير الذي يُختتم به الموشح الأندلسي؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)» بأسلوب أكاديمي دقيق (27.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (27.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (27.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (27.2.w3)"
+            "الخَرْجَةُ (The Kharja / Envoy)",
+            "المطلع",
+            "الدور",
+            "البيت"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الخَرْجَة هي القفل الأخير والختامي للموشح، وتتميز بالرشاقة والعاطفة العفوية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "من هو الشاعر والوزير الأندلسي صاحب موشحة: «جَادَكَ الغَيْثُ إِذَا الغَيْثُ هَمَى / يَا زَمَانَ الوَصْلِ بِالأَنْدَلُسِ»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "لِسَانُ الدِّينِ بْنُ الخَطِيبِ (Lisan ad-Din ibn al-Khatib)",
+            "ابن زيدون",
+            "المتنبي",
+            "ابن حزم الأندلسي"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "موشحة «جادك الغيث» هي أشهر موشحات لسان الدين بن الخطيب الغرناطي."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u27-l2):",
+          "prompt": "ما هو الأصل اللغوي والمفهومي لتسمية «القُدُودِ الحَلَبِيَّةِ» بهذا الاسم؟",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (27.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (27.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (27.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (27.2.x3)"
+            "أَنَّ الكَلِمَاتِ الجَدِيدَةَ تُصَاغُ عَلَى «قَدِّ» وَمِقْدَارِ النَّغَمِ وَاللَّحْنِ التُّرَاثِيِّ القَدِيمِ (Lyrics crafted to the exact 'measure' / qadd of ancient melody)",
+            "أنها تغنى في وقت الغداء فقط",
+            "نسبة إلى مدينة قديمة اسمها قدود",
+            "أنها تصنع من جلد الغزال"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "القدود سميت كذلك لأن الناظم يبني كلاماً جديداً على «قَدّ» (أي مقاس وميزان) لحن معروف سلفاً."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)»؟",
+          "prompt": "ما إعراب كلمة «حُلُمًا» في قول ابن الخطيب: «لَمْ يَكُنْ وَصْلُكَ إِلَّا حُلُمًا»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (27.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (27.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (27.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (27.2.y3)"
+            "خَبَرُ يَكُنْ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Predicate of yakun in accusative)",
+            "مستثنى منصوب",
+            "اسم يكن مرفوع",
+            "حال منصوبة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الاستثناء مفرغ؛ «وَصْلُكَ» اسم يكن مرفوع، و«حُلُمًا» خبر يكن منصوب بالفتحة."
         }
       ]
     },
@@ -16284,24 +16295,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 27-2)؟",
+          "prompt": "اختر النص الأدبي الموسيقي الذي يحلل عبقرية الموشح الأندلسي وتكامله مع القدود الحلبية بأعلى بلاغة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (27.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (27.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (27.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (27.2.z3)"
+            "شَكَّلَتِ المَوْشَحَاتُ الأَنْدَلُسِيَّةُ ثَوْرَةً إِيقَاعِيَّةً حَرَّرَتِ الشِّعْرَ العَرَبِيَّ مِنْ رَتَابَةِ البَحْرِ الوَاحِدِ لِتَبْنِيَ نَسِيجًا فَنِّيًّا بَيْنَ المَطْلَعِ وَالأَدْوَارِ وَالخَرْجَةِ، وَامْتَدَّ هٰذَا السِّحْرُ إِلَى حَلَبَ حَيْثُ نَشَأَتِ القُدُودُ الشَّامِيَّةُ لِتَصُوغَ فَرَائِدَ الكَلِمِ عَلَى قَدِّ الأَلْحَانِ الخَالِدَةِ، فَامْتَزَجَ بَيَانُ الأَنْدَلُسِ بِطَرَبِ الشَّامِ. (Andalusian Muwashshahat formed a rhythmic revolution freeing Arabic poetry from single meter monotony to build an artistic tapestry between prelude, stanzas, and envoy, and this magic extended to Aleppo where Levantine Qudud arose crafting verbal gems to the measure of immortal tunes, merging Andalusian eloquence with Levantine tarab.)",
+            "الموشحات والقدود اغاني تراثية عربية في المهرجانات.",
+            "موشحات اندلسية لسان الدين بن الخطيب قدود حلبية مطالع ادوار خرجة سكون فتحة ضمة.",
+            "انتهت الموشحات بعد سقوط الاندلس ولم يبق منها شيء."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين: التحليل الهيكلي التجديدي للموشح، الربط التاريخي بين غرناطة وحلب، والتذوق الجمالي المشترك."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u27-l2) باللغة العربية (مثال: «الموسيقى»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الفن الشعري الغنائي الذي ابتكره أهل الأندلس (اكتب: «الموشحات» أو «الموشح»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الموسيقى",
-            "الموسيقى"
+            "الموشحات",
+            "الموشح",
+            "موشحات",
+            "موشح",
+            "المُوَشَّحَاتُ",
+            "المُوَشَّح"
           ],
-          "explanation": "المصطلح الصحيح هو «الموسيقى»."
+          "explanation": "الفن هو «الموشحات» (Al-Muwashshahat)."
         }
       ],
       "passThreshold": 0.8
@@ -16312,85 +16327,89 @@
     "subject": "arabic",
     "unit": 27,
     "lessonNumber": 3,
-    "title": "الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music) (الدرس 3)",
+    "title": "الآلات الموسيقية التراثية وفلسفة الطرب (Traditional Instruments & Aesthetics of Tarab)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: علم المقامات الشرقية (الراست، البياتي، النهاوند، الحجاز)، الموشحات الأندلسية، والتراث الصوتي. (الجزء 3).",
+    "objective": "إتقان خصائص آلات التخت الشرقي (العود، القانون، الناي، والرق)، وتاريخ أعلام الموسيقى (الفارابي، زرياب، وإسحاق الموصلي)، وفلسفة السلطنة والتقاسيم الارتجالية.",
     "presentation": {
-      "explanation": "",
+      "explanation": "التخت الشرقي الكلاسيكي هو الخلية الحية التي تتنفس منها المقامات، وتصنع حالة «السَّلْطَنَةِ» و«الطَّرَبِ» الأصيل:\n\nأولاً: أركان التخت الشرقي الكلاسيكي:\n1.【العُودُ (The Oud - Sultan of Instruments)】:\n   - أمير الآلات الوترية، أضاف له **زِرْيَابُ** في الأندلس الوتر الخامس، وجعل مضربه من ريشة النسر.\n2.【القَانُونُ (The Qanun - Treasury of Scales)】:\n   - خزانة المقامات الشرقية، يضم قرابة 78 وتراً مع «العُرَبِ» (Levers) للتحويل الدقيق لربع التون.\n3.【النَّايُ (The Nay - Voice of Longing)】:\n   - قصبة مجوفة ذات ستة ثقوب أمامية وثقب خلفي، تصدح بأعذب أنغام الحنين والوجد الروحي.\n4.【الرِّقُّ وَالدَّرْبُكَّةُ (Percussion)】:\n   - ضابط الإيقاع والميزان في التخت الشرقي وتلوين الضروب.\n\nثانياً: فلاسفة الموسيقى وروادها في التراث:\n- **أبو نصر الفارابي**: كتابه «المُوسِيقَى الكَبِيرُ» هو أعظم مرجع علمي وفيزيائي للمقامات والسلالم والآلات في العالم القديم.\n- **إسحاق الموصلي وزرياب**: رواد مجالس الطرب العباسي والأندلسي وتأسيس أول معهد موسيقي في قرطبة.\n\nثالثاً: مصطلحات الطرب وفلسفته:\n- **السَّلْطَنَةُ (Ecstasy / Modal Absorption)**: بلوغ المطرب والعازف أقصى درجات الاندماج الروحي مع المقام.\n- **التَّقَاسِيمُ (Improvisation / Taqsim)**: العزف المنفرد الارتجالي الذي يكشف مهارة العازف في الانتقال السلس بين الأجناس.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)» بأسلوب أكاديمي دقيق (27.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)' to students in an accurate academic style."
+          "target": "يُعَدُّ العُودُ سُلْطَانَ الآلَاتِ الشَّرْقِيَّةِ، وَقَدْ زَادَهُ زِرْيَابُ وِتْرًا خَامِسًا لِيُتِمَّ بِهِ كَمَالَ النَّغَمِ.(Yuʿaddu al-ʿūdu sulṭāna al-ālāti ash-sharqiyyati, wa-qad zādahu Ziryābu witran khāmisan li-yutimma bihi kamāla an-nagham.)",
+          "reading": "[ju.ʕad.du‿l.ʕuː.du sul.tˤaː.na‿l.ʔaː.laː.ti‿ʃ.ʃar.qij.jah, wa.qad zaː.da.hu zir.jaː.bu wit.ran xaː.mi.san li.ju.tim.ma bi.hi ka.maː.la‿n.na.ɣam] (Yu-ʿad-du al-ʿū-du sul-ṭā-na al-ā-lā-ti ash-shar-qiy-yah, wa-qad zā-da-hu Zir-yā-bu wit-ran khā-mi-san li-yu-tim-ma bi-hi ka-mā-la an-na-gham.)",
+          "translation": "The oud is considered the sultan of oriental instruments, and Ziryab added to it a fifth string to complete the perfection of melody."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (27.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يَمْنَحُ القَانُونُ التَّخْتَ الشَّرْقِيَّ قَاعِدَةً هَارْمُونِيَّةً ثَرِيَّةً بِفَضْلِ تَعَدُّدِ أَوْتَارِهِ وَعُرَبِهِ الدَّقِيقَةِ.(Yamnaḥu al-qānūnu at-takhta ash-sharqiyya qāʿidatan hārmūniyyatan thariyyatan bi-faḍli taʿaddudi awtārihi wa-ʿurabihi ad-daqīqah.)",
+          "reading": "[jam.na.ħu‿l.qaː.nuː.nu‿t.tax.ta‿ʃ.ʃar.qij.ja qaː.ʕi.da.tan haːr.muː.nij.ja.tan θa.rij.ja.tan bi.fadˤ.li ta.ʕad.du.di ʔaw.taː.ri.hi wa.ʕu.ra.bi.hi‿d.da.qiː.qah] (Yam-na-ḥu al-qā-nū-nu at-takh-ta ash-shar-qiy-ya qā-ʿi-da-tan hār-mū-niy-ya-tan tha-riy-ya-tan bi-faḍ-li ta-ʿad-du-di aw-tā-ri-hi wa-ʿu-ra-bi-hi ad-da-qī-qah.)",
+          "translation": "The qanun grants the oriental ensemble a rich harmonic foundation thanks to its multiplicity of strings and precise microtonal levers."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (27.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "صَاغَ الفَارَابِيُّ فِي كِتَابِ «المُوسِيقَى الكَبِيرِ» النَّظَرِيَّةَ العِلْمِيَّةَ لِلْأَبْعَادِ الصَّوْتِيَّةِ وَاخْتِرَاعِ الآلَاتِ.(Ṣāgha al-Fārābiyyu fī kitābi «al-Mūsīqā al-Kabīr» an-naẓariyyata al-ʿilmiyyata li-l-abʿādi aṣ-ṣawtiyyati wa-ikhtirāʿi al-ālāt.)",
+          "reading": "[sˤaː.ɣa‿l.faː.raː.bij.ju fiː ki.taː.bi «ʔal.muː.siː.qaː‿l.ka.biːr» ʔan.na.zˤa.rij.ja.ta‿l.ʕil.mij.ja.ta lil.ʔab.ʕaː.di‿sˤ.sˤaw.tij.ja.ti wax.ti.raː.ʕi‿l.ʔaː.laːt] (Ṣā-gha al-Fā-rā-biy-yu fī ki-tā-bi «al-Mū-sī-qā al-Ka-bīr» an-na-ẓa-riy-ya-ta al-ʿil-miy-ya-ta lil-ab-ʿā-di aṣ-ṣaw-tiy-ya-ti wakh-ti-rā-ʿi al-ā-lāt.)",
+          "translation": "Al-Farabi formulated in the 'Grand Book of Music' the scientific theory of acoustic intervals and instrument invention."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (27.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تَتَجَلَّى بَرَاعَةُ العَازِفِ فِي التَّقَاسِيمِ الِارْتِجَالِيَّةِ حِينَ يَبْلُغُ حَالَةَ السَّلْطَنَةِ وَيَنْتَقِلُ بِسَلَاسَةٍ بَيْنَ المَقَامَاتِ.(Tatajallā barāʿatu al-ʿāzifi fī at-taqāsīmi al-irtijāliyyati ḥīna yablughu ḥālata as-salṭanati wa-yantaqilu bi-salāsatin bayna al-maqāmāt.)",
+          "reading": "[ta.ta.ʒal.laː ba.raː.ʕa.tu‿l.ʕaː.zi.fi fit.ta.qaː.siː.mi‿l.ʔir.ti.ʒaː.lij.ja.ti ħiː.na jab.lu.ɣu ħaː.la.ta‿s.sal.tˤa.na.ti wa.jan.ta.qi.lu bi.sa.laː.sa.tin baj.na‿l.ma.qaː.maːt] (Ta-ta-jal-lā ba-rā-ʿa-tu al-ʿā-zi-fi fī at-ta-qā-sī-mi al-ir-ti-jā-liy-ya-ti ḥī-na yab-lu-ghu ḥā-la-ta as-sal-ṭa-na-ti wa-yan-ta-qi-lu bi-sa-lā-sa-tin bay-na al-ma-qā-māt.)",
+          "translation": "The musician's mastery manifests in improvised taqsims when reaching modal ecstasy and transitioning smoothly between maqams."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "عُودٌ وَقَانُونٌ وَنَايٌ فِي الطَّرَبْ، سَلْطَنَةُ النَّغَمِ وَمَفْخَرَةُ العَرَبْ!"
+      ],
+      "culturalNotes": [
+        "«السلطنة» حالة وجدانية فنية فريدة في التراث العربي لا يُقصد بها الطرب السطحي، بل تجلي الحقيقة الموسيقية واندماج العازف والجمهور في نشوة سمعية خالصة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)» (الدرس 3)؟",
+          "prompt": "ما هو الإنجاز الشهير للموسيقار زرياب في تطوير آلة العود في قرطبة بالأندلس؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)» بأسلوب أكاديمي دقيق (27.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (27.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (27.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (27.3.w3)"
+            "إِضَافَةُ الوَتْرِ الخَامِسِ وَاسْتِخْدَامُ رِيشَةِ النَّسْرِ لِتَحْسِينِ الرَّنِينِ (Adding fifth string & eagle quill plectrum)",
+            "تحويل العود إلى بيانو غربي",
+            "إلغاء جميع أوتار العود",
+            "صناعة العود من الحديد والصلب"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "زرياب أضاف الوتر الخامس للعود ليمنحه كمالاً صوتياً، واستبدل مضارب الخشب بريش النسر."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الكتاب الموسوعي الرائد الذي ألفه أبو نصر الفارابي في علم الموسيقى والآلات؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "كِتَابُ «المُوسِيقَى الكَبِيرِ» (The Grand Book of Music)",
+            "كتاب الأغاني للأصفهاني",
+            "مقدمة ابن خلدون",
+            "طوق الحمامة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "كتاب «الموسيقى الكبير» للفارابي هو أضخم مؤلف نظري وعلمي في تاريخ الموسيقى الشرقية."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u27-l3):",
+          "prompt": "ماذا تعني كلمة «التَّقَاسِيمُ» في الأداء الموسيقي الشرقي؟",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (27.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (27.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (27.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (27.3.x3)"
+            "العَزْفُ المُنْفَرِدُ الِارْتِجَالِيُّ الَّذِي يُبْرِزُ إِحْسَاسَ العَازِفِ وَتَنَقُّلَهُ بَيْنَ المَقَامَاتِ (Solo modal improvisation showcasing transitions)",
+            "تقسيم الأرباح بين أعضاء الفرقة",
+            "قراءة النوتة دون أي إحساس",
+            "تقطيع الأخشاب لصناعة الآلات"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "التقاسيم هي فن الارتجال النغمي الحر الذي يعبر فيه العازف عن تمكنه وسلطنته الروحية."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)»؟",
+          "prompt": "ما إعراب كلمة «سُلْطَانَ» في جملة: «يُعَدُّ العُودُ سُلْطَانَ الآلَاتِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (27.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (27.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (27.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (27.3.y3)"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Second object of passive yu'addu in accusative)",
+            "نائب فاعل مرفوع بالضمة",
+            "نعت منصوب",
+            "مضاف إليه مجرور"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«العُودُ» نائب فاعل لـ «يُعَدُّ»، و«سُلْطَانَ» مفعول به ثانٍ منصوب بالفتحة."
         }
       ]
     },
@@ -16398,24 +16417,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 27-3)؟",
+          "prompt": "اختر النص التوثيقي الشامل الذي يدمج خصائص التخت الشرقي وفلسفة الطرب والسلطنة بأعلى معايير الدقة المعجمية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (27.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (27.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (27.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (27.3.z3)"
+            "يُمَثِّلُ التَّخْتُ الشَّرْقِيُّ الكَلَاسِيكِيُّ مِحْرَابًا لِلطَّرَبِ الأَصِيلِ؛ حَيْثُ يَقُودُ العُودُ نَبْضَ النَّغَمِ، وَيَبْسُطُ القَانُونُ عُرَبَهُ الدَّقِيقَةَ، بَيْنَمَا يَنْسَابُ النَّايُ بِالشَّجَنِ الرُّوحِيِّ، فَيَرْتَقِي العَازِفُونَ فِي التَّقَاسِيمِ الِارْتِجَالِيَّةِ إِلَى مَرْتَبَةِ السَّلْطَنَةِ التَّامَّةِ الَّتِي قَعَّدَ لَهَا الفَارَابِيُّ وَزِرْيَابُ كَمَفْخَرَةٍ حَضَارِيَّةٍ. (The classical oriental ensemble represents a sanctuary for authentic tarab; where oud leads melody's pulse, qanun spreads its microtonal levers, while nay flows with spiritual yearning, so musicians ascend in improvised taqsims to complete modal ecstasy codifying what Al-Farabi and Ziryab established as civilizational pride.)",
+            "التخت الشرقي فرقة موسيقية تغني في الحفلات.",
+            "تخت شرقي عود قانون ناي رق تقاسيم سلطنة فارابي زرياب سكون فتحة ضمة.",
+            "اندثرت آلات التخت الشرقي وحلت محلها الآلات الإلكترونية فقط."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يحيط بكافة أركان التخت (العود، القانون، الناي)، التجربة الشعورية (السلطنة والتقاسيم الارتجالية)، والتأصيل العلمي عند الفارابي وزرياب."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u27-l3) باللغة العربية (مثال: «الموسيقى»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الحالة الوجدانية التي يبلغ فيها العازف والمستمع ذروة الاندماج مع النغم والمقام (اكتب: «السلطنة» أو «الطرب»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الموسيقى",
-            "الموسيقى"
+            "السلطنة",
+            "الطرب",
+            "السَّلْطَنَةُ",
+            "السَّلْطَنَة",
+            "الطَّرَبُ",
+            "الطَّرَب"
           ],
-          "explanation": "المصطلح الصحيح هو «الموسيقى»."
+          "explanation": "المصطلح هو «السلطنة» (Tarab / Modal Ecstasy)."
         }
       ],
       "passThreshold": 0.8
@@ -16426,85 +16449,89 @@
     "subject": "arabic",
     "unit": 27,
     "lessonNumber": 4,
-    "title": "الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music) (الدرس 4)",
+    "title": "القصيدة المغناة وفن التعبير الصوتي الحديث (The Sung Classical Ode & Modern Vocal Art)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: علم المقامات الشرقية (الراست، البياتي، النهاوند، الحجاز)، الموشحات الأندلسية، والتراث الصوتي. (الجزء 4).",
+    "objective": "إتقان بلاغة القصيدة العربية الفصحى المغناة، وتحليل أعمال عمالقة التلحين (رياض السنباطي، محمد عبد الوهاب، ومحمد القصبجي)، وأداء أم كلثوم وفيروز للقصائد الخالدة (الأطلال، نهج البردة).",
     "presentation": {
-      "explanation": "",
+      "explanation": "شهد القرن العشرون نهضة غير مسبوقة للقصيدة الفصحى عبر تحويلها إلى ملاحم غنائية سيمفونية آسرة:\n\nأولاً: عبقرية التلحين التعبيري للقصيدة الفصحى:\n1.【رِيَاضُ السُّنْبَاطِي (The Master of Classical Odes)】:\n   - عملاق التلحين الكلاسيكي، صاغ روائع الشعر العربي في قوالب لحنية معجزة:\n   - «**الأَطْلَالُ**» لإبراهيم ناجي: ملحمة عاطفية تنقلت بين السيكاه والراست والحجاز والصبا.\n   - «**نَهْجُ البُرْدَةِ**» و«**سَلُوا قَلْبِي**» لأمير الشعراء أحمد شوقي.\n2.【مُحَمَّد عَبْدُ الوَهَّاب (The Pioneer of Renewal)】:\n   - مزج التراث العربي بالهارموني الأوركسترالي وتوظيف التعبير الدرامي (مثل «مَجْنُونُ لَيْلَى»، «الكَرْنَمْلُ»، و«دُعَاءُ الشَّرْقِ»).\n3.【الأَخَوَانِ رَحْبَانِي وَفَيْرُوز】:\n   - تجديد القصيدة الأندلسية والحديثة بروحانية مكثفة وتوزيع سيمفوني رشيق.\n\nثانياً: البلاغة الأدبية والصوتية في الأداء:\n- **النَّبْرُ وَالإِلْقَاءُ الغِنَائِيُّ (Vocal Enunciation)**: إخراج الحروف من مخارجها الفصيحة مع الحفاظ على الحركات الإعرابية التامة.\n- **العُرَبُ وَالحِلَى النَّغَمِيَّةُ (Vocal Ornaments)**: الانتقال الذكي بين المقامات بما يخدم المعنى الشعري والبلاغي للبيت.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)» بأسلوب أكاديمي دقيق (27.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)' to students in an accurate academic style."
+          "target": "حَوَّلَ رِيَاضُ السُّنْبَاطِي قَصِيدَةَ «الأَطْلَالِ» إِلَى مَلْحَمَةٍ نَغَمِيَّةٍ تَجْسُدُ ذِرْوَةَ التَّعْبِيرِ فِي المَقَامَاتِ الشَّرْقِيَّةِ.(Ḥawwala Riyāḍu as-Sunbāṭī qaṣīdata «al-Aṭlāl» ilā malḥamatin naghamiyyatin tajsudu dhirwata at-taʿbīri fī al-maqāmāti ash-sharqiyyah.)",
+          "reading": "[ħaw.wa.la ri.jaː.dˤu‿s.sun.baː.tˤiː qa.sˤiː.da.ta «ʔal.ʔatˤ.laːl» ʔi.laː mal.ħa.ma.tin na.ɣa.mij.ja.tin taʒ.su.du ðir.wa.ta‿t.taʕ.biː.ri fil.ma.qaː.maː.ti‿ʃ.ʃar.qij.jah] (Ḥaw-wa-la Ri-yā-ḍu as-Sun-bā-ṭī qa-ṣī-da-ta «al-Aṭ-lāl» i-lā mal-ḥa-ma-tin na-gha-miy-ya-tin taj-su-du dhir-wa-ta at-taʿ-bī-ri fī al-ma-qā-mā-ti ash-shar-qiy-yah.)",
+          "translation": "Riad Al-Sunbati transformed the ode 'Al-Atlal' into a melodic epic embodying the summit of expression in oriental maqams."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (27.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يَقْتَضِي غِنَاءُ القَصِيدَةِ الفُصْحَى ضَبْطًا إِعْرَابِيًّا دَقِيقًا وَنُطْقًا فَصِيحًا يُبْرِزُ جَمَالَ المَعْنَى الشِّعْرِيِّ.(Yaqtaḍī ghināʾu al-qaṣīdati al-fuṣḥā ḍabṭan iʿrābiyyan daqīqan wa-nuṭqan faṣīḥan yubrizu jamāla al-maʿnā ash-shiʿriyy.)",
+          "reading": "[jaq.ta.dˤiː ɣi.naː.ʔu‿l.qa.sˤiː.da.ti‿l.fusˤ.ħaː dˤab.tˤan ʔiʕ.raː.bij.jan da.qiː.qan wa.nutˤ.qan fa.sˤiː.ħan jub.ri.zu ʒa.maː.la‿l.maʕ.naː‿ʃ.ʃiʕ.rijj] (Yaq-ta-ḍī ghi-nā-ʾu al-qa-ṣī-da-ti al-fuṣ-ḥā ḍab-ṭan iʿ-rā-biy-yan da-qī-qan wa-nuṭ-qan fa-ṣī-ḥan yub-ri-zu ja-mā-la al-maʿ-nā ash-shiʿ-riyy.)",
+          "translation": "Singing classical poetry demands precise parsing inflection and eloquent pronunciation that accentuates the beauty of poetic meaning."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (27.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "جَمَعَ مُحَمَّد عَبْدُ الوَهَّابِ بَيْنَ أَصَالَةِ الجُمْلَةِ اللَّحْنِيَّةِ العَرَبِيَّةِ وَرَوْعَةِ التَّوْزِيعِ الأُورْكِسْتِرَالِيِّ الحَدِيثِ.(Jamaʿa Muḥammad ʿAbdu al-Wahhābi bayna aṣālati al-jumlati al-laḥniyyati al-ʿarabiyyati wa-rawʿati at-tawzīʿi al-ūrkistrāliyyi al-ḥadīth.)",
+          "reading": "[ʒa.ma.ʕa mu.ħam.mad ʕab.du‿l.wah.haː.bi baj.na ʔa.sˤaː.la.ti‿l.ʒum.la.ti‿l.laħ.nij.ja.ti‿l.ʕa.ra.bij.ja.ti wa.raw.ʕa.ti‿t.taw.ziː.ʕi‿l.ʔuːr.kis.traː.lij.ji‿l.ħa.diːθ] (Ja-ma-ʿa Mu-ḥam-mad ʿAb-du al-Wah-hā-bi bay-na a-ṣā-la-ti al-jum-la-ti al-laḥ-niy-ya-ti al-ʿa-ra-biy-ya-ti wa-raw-ʿa-ti at-taw-zī-ʿi al-ūr-kis-trā-liy-yi al-ḥa-dīth.)",
+          "translation": "Mohamed Abdel Wahab combined the authenticity of Arabic melodic phrasing with the splendor of modern orchestral arrangement."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (27.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "صَاغَ الأَخَوَانِ رَحْبَانِي لِفَيْرُوز قَصَائِدَ أَنْدَلُسِيَّةً خَالِدَةً كَانَتْ نَمُوذَجًا لِلتَّعْبِيرِ الصَّوْتِيِّ الشَّفِيفِ.(Ṣāgha al-Akhawāni Raḥbānī li-Fayrūz qaṣāʾida andalusiyyatan khālidatan kānat namūdhajan li-t-taʿbīri aṣ-ṣawtiyyi ash-shafīf.)",
+          "reading": "[sˤaː.ɣa‿l.ʔa.xa.waː.ni raħ.baː.niː li.faj.ruːz qa.sˤaː.ʔi.da ʔan.da.lu.sij.ja.tan xaː.li.da.tan kaː.nat na.muː.ða.ʒan lit.taʕ.biː.ri‿sˤ.sˤaw.tij.ji‿ʃ.ʃa.fiːf] (Ṣā-gha al-A-kha-wā-ni Raḥ-bā-nī li-Fay-rūz qa-ṣā-ʾi-da an-da-lu-siy-ya-tan khā-li-da-tan kā-nat na-mū-dha-jan lit-taʿ-bī-ri aṣ-ṣaw-tiy-yi ash-sha-fīf.)",
+          "translation": "The Rahbani brothers composed timeless Andalusian poems for Fairuz that served as a model for translucent vocal expression."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "شِعْرٌ فَصِيحٌ مَعَ لَحْنٍ بَدِيعْ، يُحْيِي التُّرَاثَ بِصَوْتٍ رَفِيعْ!"
+      ],
+      "culturalNotes": [
+        "كانت حفلات أم كلثوم الشهرية حدثاً ثقافياً عربياً جامعاً يلتف حوله الملايين من المحيط إلى الخليج للاستماع إلى عيون الشعر العربي الفصيح."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)» (الدرس 4)؟",
+          "prompt": "ما هو اللقب الفني الشهير للموسيقار رياض السنباطي في تلحين الشعر الكلاسيكي الفصيح؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)» بأسلوب أكاديمي دقيق (27.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (27.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (27.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (27.4.w3)"
+            "عِمْلَاقُ القَصِيدَةِ العَرَبِيَّةِ الفُصْحَى (The Titan of Classical Arabic Odes)",
+            "رائد الجاز الغربي",
+            "ملحن الأغاني الشعبية البسيطة",
+            "مؤلف الروايات المسرحية"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "رياض السنباطي يُعد أعظم ملحن للقصيدة الكلاسيكية الفصحى في القرن العشرين."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي القصيدة الشهيرة للشاعر إبراهيم ناجي التي لحنها السنباطي وغنتها أم كلثوم وتعد قمة التعبير المقامي؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "قَصِيدَةُ «الأَطْلَالِ» (The Ode of Al-Atlal)",
+            "معلقة امرئ القيس",
+            "قصيدة الطلاسم",
+            "أنشودة المطر"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "قصيدة «الأطلال» هي درة القصائد المغناة وتجسيد بارع للتنقل بين المقامات الشرقية الصعبة."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u27-l4):",
+          "prompt": "اختر العنصر اللغوي والصوتي الأهم الذي يجب الحفاظ عليه عند أداء القصيدة الفصحى المغناة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (27.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (27.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (27.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (27.4.x3)"
+            "النُّطْقُ الفَصِيحُ وَمَخَارِجُ الحُرُوفِ السَّلِيمَةُ وَالضَّبْطُ الإِعْرَابِيُّ التَّامُّ (Eloquent articulation, correct phonetics & full parsing inflection)",
+            "تحويل الكلمات الفصحى إلى عامية مكسورة",
+            "حذف حركات الإعراب كلها",
+            "تغيير القوافي عشوائيا"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "غناء القصيدة الفصحى يشترط نطقاً سليماً وضبطاً إعرابياً معجزاً لضمان نقل المعنى البلاغي."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)»؟",
+          "prompt": "ما إعراب كلمة «مَلْحَمَةٍ» في جملة: «حَوَّلَ القَصِيدَةَ إِلَى مَلْحَمَةٍ نَغَمِيَّةٍ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (27.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (27.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (27.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (27.4.y3)"
+            "اسْمٌ مَجْرُورٌ بِإِلَى وَعَلَامَةُ جَرِّهِ الكَسْرَةُ الظَّاهِرَةُ (Noun governed by ila in genitive)",
+            "مفعول به منصوب بالفتحة",
+            "نعت مجرور بالكسرة",
+            "حال منصوبة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«مَلْحَمَةٍ» اسم مجرور بحرف الجر «إِلَى» وعلامة جره الكسرة، و«نَغَمِيَّةٍ» نعت مجرور."
         }
       ]
     },
@@ -16512,24 +16539,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 27-4)؟",
+          "prompt": "اختر النص النقدي الذي يحلل نهضة القصيدة الفصحى المغناة وأثرها الثقافي في العصر الحديث بأعلى درجات البلاغة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (27.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (27.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (27.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (27.4.z3)"
+            "جَسَّدَتِ القَصِيدَةُ الفُصْحَى المُغَنَّاةُ فِي القَرْنِ العِشْرِينَ العَصْرَ الذَّهَبِيَّ لِتَلَاقِي أَعْلَامِ الشِّعْرِ وَعَمَالِقَةِ التَّلْحِينِ؛ حَيْثُ حَوَّلَ السُّنْبَاطِي وَعَبْدُ الوَهَّابِ وَالرَّحَابِنَةُ دُرَرَ الشَّوْقِيَّاتِ وَالأَطْلَالَ إِلَى صُرُوحٍ نَغَمِيَّةٍ بَاذِخَةٍ حَمَتِ اللِّسَانَ الفَصِيحَ وَرَسَّخَتْ سُلْطَانَ الطَّرَبِ العَرَبِيِّ فِي الوِجْدَانِ الجَمْعِيِّ. (The sung classical ode in the 20th century embodied golden age of confluence between poetry masters and composing titans; where Al-Sunbati, Abdel Wahab, and the Rahbanis transformed gems of Shawqiyyat and Al-Atlal into lavish melodic monuments protecting eloquent tongue and entrenching Arabic tarab sovereignty in collective consciousness.)",
+            "القصائد المغناة اغاني قديمة انتهت في القرن الماضي.",
+            "قصيدة مغناة سنباطي عبد الوهاب ام كلثوم فيروز اطلال سكون فتحة ضمة.",
+            "فشل الملحنون في تلحين الشعر العربي الفصيح."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين: التحليل الموسيقي للرواد، الأثر اللغوي في صون الفصحى، والبعد الحضاري للقصيدة المغناة في الوجدان الجمعي."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u27-l4) باللغة العربية (مثال: «الموسيقى»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم القصيدة الملحمية الخالدة لإبراهيم ناجي وأم كلثوم ورياض السنباطي (اكتب: «الأطلال»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الموسيقى",
-            "الموسيقى"
+            "الأطلال",
+            "الاطلال",
+            "قصيدة الأطلال",
+            "قصيدة الاطلال",
+            "الأَطْلَالُ",
+            "الأَطْلَال"
           ],
-          "explanation": "المصطلح الصحيح هو «الموسيقى»."
+          "explanation": "القصيدة هي «الأطلال» (Al-Atlal)."
         }
       ],
       "passThreshold": 0.8
@@ -16540,85 +16571,89 @@
     "subject": "arabic",
     "unit": 27,
     "lessonNumber": 5,
-    "title": "الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music) (الدرس 5)",
+    "title": "حوار المعهد الموسيقي والتحليل الهارموني للمقامات الشرقية (Musicological Institute Colloquium & Harmonic Dialogue)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: علم المقامات الشرقية (الراست، البياتي، النهاوند، الحجاز)، الموشحات الأندلسية، والتراث الصوتي. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة السابعة والعشرين: المقامات الثمانية، الموشحات الأندلسية، آلات التخت الشرقي وفلسفة الطرب، وتلحين القصيدة الفصحى في حوار تطبيقي شيق بالمعهد العالي للموسيقى.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة السابعة والعشرين (مستوى C1 المتقدم) من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس، ندمج كافة المعارف الموسيقية والمقامية والتراثية في حوار موسيقولوجي راقٍ يدور في المعهد العالي للموسيقى الشرقية بين أستاذ علم النغم (د. طارق) والباحثة الموسيقية وعازفة القانون (أ. ريم):\n\nمحاور الحوار النغمي الشامل:\n1.【فصائل المقامات الشرقية】: «صُنِعَ بِسَحَرٍ»، «الرَّاسْت»، «البَيَاتِي»، «الصَّبَا»، «رُبْعُ التُّونِ».\n2.【الموشحات الأندلسية والقدود】: «جَادَكَ الغَيْثُ»، «المَطْلَعُ وَالخَرْجَةُ»، «قُدُودُ حَلَبَ».\n3.【آلات التخت وفلسفة الطرب】: «العُودُ»، «القَانُونُ وَالعُرَبُ»، «النَّايُ»، «السَّلْطَنَةُ».\n4.【روائع القصيدة المغناة】: «السُّنْبَاطِي وَالأَطْلَالُ»، «عَبْدُ الوَهَّابِ»، «فَصَاحَةُ الإِلْقَاءِ الغِنَائِيِّ».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)» بأسلوب أكاديمي دقيق (27.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)' to students in an accurate academic style."
+          "target": "مَرْحَبًا أُسْتَاذَة رِيم، كَيْفَ يُوَظِّفُ عازِفُ القَانُونِ العُرَبَ فِي التَّنَقُّلِ بَيْنَ مَقَامَاتِ «صُنِعَ بِسَحَرٍ»؟(Marḥaban ustādhah Rīm, kayfa yuwaẓẓifu ʿāzifu al-qānūni al-ʿuraba fī at-tanaqquli bayna maqāmāti «ṣuniʿa bi-saḥar»?)",
+          "reading": "[mar.ħa.ban ʔus.taː.ðah riːm, kaj.fa ju.wazˤ.zˤi.fu ʕaː.zi.fu‿l.qaː.nuː.ni‿l.ʕu.ra.ba fit.ta.naq.qu.li baj.na ma.qaː.maː.ti «sˤu.ni.ʕa bi.sa.ħar»?] (Mar-ḥa-ban us-tā-dhah Rīm, kay-fa yu-waẓ-ẓi-fu ʿā-zi-fu al-qā-nū-ni al-ʿu-ra-ba fī at-ta-naq-qu-li bay-na ma-qā-mā-ti «ṣu-ni-ʿa bi-sa-ḥar»?)",
+          "translation": "Welcome Ms. Reem, how does the qanun player utilize levers to modulate between the maqams of 'ṣuniʿa bi-saḥar'?"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (27.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَهْلًا دُكْتُور طَارِق؛ تُتِيحُ العُرَبُ تَحْوِيلَ رُبْعِ التُّونِ بِدِقَّةٍ مُتَنَاهِيَةٍ لِلِانْتِقَالِ مِنْ رَصَانَةِ الرَّاسْتِ إِلَى شَجَنِ الصَّبَا.(Ahlan duktūr Ṭāriq; tutīḥu al-ʿurabu taḥwīla rubʿi at-tūni bi-diqqatin mutanāhiyatin li-l-intiqāli min raṣānati ar-rāsti ilā shajani aṣ-ṣabā.)",
+          "reading": "[ʔah.lan duk.tuːr tˤaː.riq; tu.tiː.ħu‿l.ʕu.ra.bu taħ.wiː.la rub.ʕi‿t.tuː.ni bi.diq.qa.tin mu.ta.naː.hi.ja.tin lil.ʔin.ti.qaː.li min ra.sˤaː.na.ti‿r.raːs.ti ʔi.laː ʃa.ʒa.ni‿sˤ.sˤa.baː] (Ah-lan duk-tūr Ṭā-riq; tu-tī-ḥu al-ʿu-ra-bu taḥ-wī-la rub-ʿi at-tū-ni bi-diq-qa-tin mu-ta-nā-hi-ya-tin lil-in-ti-qā-li min ra-ṣā-na-ti ar-rās-ti i-lā sha-ja-ni aṣ-ṣa-bā.)",
+          "translation": "Hello Dr. Tariq; the levers permit microtonal modulation with exquisite precision to transition from Rast's sobriety to Saba's pathos."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (27.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "وَتَتَكَامَلُ هٰذِهِ التَّقَاسِيمُ مَعَ سِحْرِ المَوْشَحَاتِ الأَنْدَلُسِيَّةِ وَقُدُودِ حَلَبَ فِي صُنْعِ حَالَةِ السَّلْطَنَةِ الشَّامِلَةِ.(Wa-tatakāmalu hādhihi at-taqāsīmu maʿa siḥri al-muwashshaḥāti al-andalusiyyati wa-qudūdi Ḥalaba fī ṣunʿi ḥālati as-salṭanati ash-shāmilah.)",
+          "reading": "[wa.ta.ta.kaː.ma.lu haː.ði.hi‿t.ta.qaː.siː.mu ma.ʕa siħ.ri‿l.mu.waʃ.ʃa.ħaː.ti‿l.ʔan.da.lu.sij.ja.ti wa.qu.duː.di ħa.la.ba fiː sˤun.ʕi ħaː.la.ti‿s.sal.tˤa.na.ti‿ʃ.ʃaː.mi.lah] (Wa-ta-ta-kā-ma-lu hā-dhi-hi at-ta-qā-sī-mu ma-ʿa siḥ-ri al-mu-wash-sha-ḥā-ti al-an-da-lu-siy-ya-ti wa-qu-dū-di Ḥa-la-ba fī ṣun-ʿi ḥā-la-ti as-sal-ṭa-na-ti ash-shā-mi-lah.)",
+          "translation": "And these improvisations integrate with the enchantment of Andalusian Muwashshahat and Aleppo Qudud in creating complete modal ecstasy."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (27.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "حَتَّى بَلَغَتِ القَصِيدَةُ الفُصْحَى ذِرْوَةَ التَّعْبِيرِ السِّيمْفُونِيِّ مَعَ السُّنْبَاطِي فِي الأَطْلَالِ وَعَبْدِ الوَهَّابِ.(Ḥattā balaghati al-qaṣīdatu al-fuṣḥā dhirwata at-taʿbīri as-sīmfūniyyi maʿa as-Sunbāṭī fī al-Aṭlāli wa-ʿAbdi al-Wahhāb.)",
+          "reading": "[ħat.taː ba.la.ɣa.ti‿l.qa.sˤiː.da.tu‿l.fusˤ.ħaː ðir.wa.ta‿t.taʕ.biː.ri‿s.siːm.fuː.nij.ji ma.ʕa‿s.sun.baː.tˤiː fil.ʔatˤ.laː.li wa.ʕab.di‿l.wah.haːb] (Ḥat-tā ba-la-gha-ti al-qa-ṣī-da-tu al-fuṣ-ḥā dhir-wa-ta at-taʿ-bī-ri as-sīm-fū-niy-yi ma-ʿa as-Sun-bā-ṭī fī al-Aṭ-lā-li wa-ʿAb-di al-Wah-hāb.)",
+          "translation": "Until the classical ode reached the pinnacle of symphonic expression with Al-Sunbati in Al-Atlal and Abdel Wahab."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فِي مَعْهَدِ النَّغَمِ يَحْلُو الحِوَارْ، فَنٌّ عَرِيقٌ يُضِيءُ الدِّيَارْ!"
+      ],
+      "culturalNotes": [
+        "المعاهد الموسيقية العربية العريقة (مثل معهد الموسيقى العربية بالقاهرة والمعهد العالي بدمشق وبيروت) تواصل تدريس المقامات وتوثيق المخطوطات النغمية كجزء أصيل من الهوية الثقافية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)» (الدرس 5)؟",
+          "prompt": "في التحليل الهارموني والمقامي، ما هي الوظيفة الأساسية لـ «العُرَبِ» على آلة القانون؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)» بأسلوب أكاديمي دقيق (27.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (27.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (27.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (27.5.w3)"
+            "تَحْوِيلُ أَبْعَادِ الأَوْتَارِ بِدِقَّةِ رُبْعِ التُّونِ لِلتَّنَقُّلِ السَّلِسِ بَيْنَ المَقَامَاتِ (Modulating string intervals by quarter tones for smooth transitions)",
+            "تثبيت الآلة على الأرض",
+            "إصدار إيقاعات طبول عشوائية",
+            "قطع الأوتار عند انتهاء العزف"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "العُرَب هي الرافعات الميكانيكية الدقيقة التي ترفع أو تخفض النغمة بمقدار ربع تون أو نصف تون."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "كيف يخدم اللحن الموسيقي بلاغة القصيدة الشعرية الفصحى المغناة؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "بِمُطَابَقَةِ الحَالَةِ النَّغَمِيَّةِ لِلْمَعْنَى البَلَاغِيِّ وَإِبْرَازِ مَخَارِجِ الحُرُوفِ وَالإِعْرَابِ (Matching melodic mood to rhetorical meaning, phonetics & parsing)",
+            "بالتشويش على صوت المغني",
+            "بتغيير كلمات الشاعر بالكامل",
+            "بإلغاء المعنى لصالح السرعة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "اللحن التعبيري يجسد مشاعر القصيدة ويرفع من فصاحتها وتأثيرها في وجدان المستمع."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u27-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تصف روعة الاندماج بين الشعر والموسيقى الشرقية بفصاحة تامة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (27.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (27.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (27.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (27.5.x3)"
+            "— كَيْفَ رَأَيْتِ تَلَاقِي المَقَامِ بِالشِّعْرِ؟ — رَأَيْتُهُ كَرِحْلَةٍ وِجْدَانِيَّةٍ تَأْخُذُ القَلْبَ مِنْ جَلَالِ الفَصَاحَةِ إِلَى سَمَاوَاتِ الطَّرَبِ البَدِيعِ. (— How did you view the confluence of maqam with poetry? — As an emotional journey taking the heart from eloquence majesty to sublime tarab heavens.)",
+            "— هل تحبين سماع الموسيقى؟ — نعم استمع اليها احيانا.",
+            "— اين يقع المعهد الموسيقي؟ — في شارع الجامعة الرئيسي.",
+            "— حوار موسيقي مقامات تخت شعر سكون."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة تجسد جمالية التلاقي بين جلال الفصاحة الشعرية وسماوات الطرب المقامي الرفيع."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الموسيقى والمقامات الشرقية والشعر الغنائي (Maqam & Music)»؟",
+          "prompt": "ما إعراب كلمة «رِحْلَةٍ» في قولنا: «رَأَيْتُهُ كَرِحْلَةٍ وِجْدَانِيَّةٍ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (27.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (27.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (27.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (27.5.y3)"
+            "اسْمٌ مَجْرُورٌ بِالكَافِ وَعَلَامَةُ جَرِّهِ الكَسْرَةُ الظَّاهِرَةُ (Noun governed by kaf in genitive)",
+            "مفعول به منصوب",
+            "خبر كأن مرفوع",
+            "حال منصوبة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الكاف حرف جر وتشبيه، و«رِحْلَةٍ» اسم مجرور بالكاف وعلامة جره الكسرة."
         }
       ]
     },
@@ -16626,24 +16661,29 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 27-5)؟",
+          "prompt": "اختر النص الحواري الموسيقولوجي الشامل الذي يدمج مخرجات الوحدة السابعة والعشرين بأكملها (المقامات، الموشحات والقدود، آلات التخت والسلطنة، وتلحين القصيدة الفصحى):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (27.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (27.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (27.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (27.5.z3)"
+            "د. طَارِق: «أُسْتَاذَة رِيم، كَيْفَ تُفَسِّرِينَ هٰذَا التَّنَاغُمَ الفَرِيدَ بَيْنَ فصَائِلِ «صُنِعَ بِسَحَرٍ» وَرِقَّةِ المَوْشَحَاتِ الأَنْدَلُسِيَّةِ وَقُدُودِ حَلَبَ مَعَ سَلْطَنَةِ التَّخْتِ الشَّرْقِيِّ وَرَوَائِعِ السُّنْبَاطِي فِي الأَطْلَالِ؟» — أ. رِيم: «إِنَّهَا هُوِيَّتُنَا الصَّوْتِيَّةُ الخَالِدَةُ؛ حَيْثُ جَعَلَتِ المقَامَاتُ مِنَ النَّغَمِ لُغَةً لِلرُّوحِ، وَرَفَعَتِ المَوْشَحَاتُ وَالقَصَائِدُ المُغَنَّاةُ صَرْحَ الفَصَاحَةِ، حَتَّى غَدَا الطَّرَبُ العَرَبِيُّ عِمَادًا لِلْجَمَالِ الإِنْسَانِيِّ». (Dr. Tariq: 'Ms. Reem, how do you explain this unique harmony between 'ṣuniʿa bi-saḥar' families and Andalusian Muwashshahat & Aleppo Qudud with oriental ensemble ecstasy and Al-Sunbati's masterpieces in Al-Atlal?' — Ms. Reem: 'It is our timeless sonic identity; where maqams made melody a language for the soul, and muwashshahat and sung odes erected the edifice of eloquence, until Arabic tarab became a pillar of human beauty.')",
+            "د. طارق: هل تدربت على القانون اليوم؟ — أ. ريم: نعم تدربت لمدة ساعة في المعهد.",
+            "حوار موسيقي شامل مقامات موشحات قدود تخت شرقي سلطنة سنباطي سكون فتحة ضمة.",
+            "توقفت المعاهد الموسيقية عن تدريس المقامات الشرقية تماما."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل ذروة التحليل الموسيقولوجي البلاغي في دمج: منظومة المقامات («صُنِعَ بِسَحَرٍ»)، الموشحات والقدود، التخت والسلطنة، والقصيدة الفصحى المغناة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u27-l5) باللغة العربية (مثال: «الموسيقى»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم العلم والنسق النغمي الشرقي الذي يدرس السلالم والمقامات العربية (اكتب: «المقامات الشرقية» أو «المقامات»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الموسيقى",
-            "الموسيقى"
+            "المقامات الشرقية",
+            "المقامات الشرقيه",
+            "المقامات",
+            "مقامات شرقية",
+            "مقامات",
+            "المَقَامَاتُ الشَّرْقِيَّةُ",
+            "المَقَامَات الشَّرْقِيَّة"
           ],
-          "explanation": "المصطلح الصحيح هو «الموسيقى»."
+          "explanation": "المصطلح هو «المقامات الشرقية» (Oriental Maqamat)."
         }
       ],
       "passThreshold": 0.8
