@@ -532,30 +532,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Greet others appropriately at different times of day and choose betwee » :",
+                    "prompt": "À 19h30, vous entrez dans un restaurant à Paris. Quelle salutation formelle est la plus appropriée ?",
                     "options": [
+                        "Bonsoir, monsieur.",
                         "Bonjour, monsieur.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (1a).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (1b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (1c)."
+                        "Salut, mec !",
+                        "Bonne nuit, monsieur."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "En soirée (après le coucher du soleil ou dès la fin d'après-midi), 'Bonsoir' est la salutation standard polie. 'Bonjour' s'utilise le matin et l'après-midi."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u1-l1 :",
+                    "prompt": "Vous quittez vos collègues de bureau à la fin de la journée de travail. Que leur dites-vous pour leur souhaiter une bonne fin de journée ?",
                     "options": [
-                        "Bonsoir, madame.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (1x).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (1y).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (1z)."
+                        "Au revoir et bonne soirée !",
+                        "Bonjour et bon courage !",
+                        "Salut, comment allez-vous ?",
+                        "Enchanté de faire votre connaissance."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "'Au revoir et bonne soirée !' est la formule consacrée pour prendre congé de manière polie en fin de journée."
                 }
             ]
         },
@@ -563,23 +563,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u1-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle formule informelle utilise-t-on exclusivement avec des amis proches ou de la famille pour dire bonjour ?",
                     "options": [
-                        "Bonjour, monsieur.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (1m).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (1n).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (1p)."
+                        "Salut !",
+                        "Bonjour, madame.",
+                        "Bonsoir, monsieur.",
+                        "Au revoir, monsieur."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Salut' est un terme informel réservé aux pairs, amis et membres de la famille."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u1-l1 (terme attendu : « Bonjour ») :",
+                    "prompt": "Saisissez la salutation formelle standard utilisée le matin et l'après-midi (terme attendu : « Bonjour ») :",
                     "acceptedAnswers": [
                         "Bonjour",
-                        "bonjour",
-                        "Bonjour"
+                        "bonjour"
                     ],
                     "explanation": "Le mot exact est « Bonjour »."
                 }
@@ -652,30 +651,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Ask how someone is doing using formal (Comment allez-vous ?) and infor » :",
+                    "prompt": "Vous vous adressez à votre directeur d'entreprise pour lui demander comment il va. Quelle question devez-vous poser ?",
                     "options": [
                         "Comment allez-vous ?",
-                        "La préposition employée ici n'est pas commandée par le verbe (2a).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (2b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (2c)."
+                        "Ça roule, mec ?",
+                        "Comment tu t'appelles ?",
+                        "Tu vas bien ou quoi ?"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le vouvoiement avec inversion ('Comment allez-vous ?') est la formule respectueuse et formelle requise dans un contexte professionnel."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u1-l2 :",
+                    "prompt": "Un ami vous demande « Comment ça va ? ». Vous allez bien et vous lui retournez la question de façon informelle. Que répondez-vous ?",
                     "options": [
-                        "Je vais bien, merci. Et vous ?",
-                        "La préposition employée ici n'est pas commandée par le verbe (2x).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (2y).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (2z)."
+                        "Ça va bien, merci ! Et toi ?",
+                        "Je m'appelle Thomas. Et vous ?",
+                        "Au revoir, à demain.",
+                        "De rien, s'il vous plaît."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "'Ça va bien, merci ! Et toi ?' répond à la salutation et renvoie poliment la question au registre familier ('toi')."
                 }
             ]
         },
@@ -683,23 +682,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u1-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel verbe utilise-t-on en français pour demander des nouvelles ou exprimer son état général ?",
                     "options": [
-                        "Comment allez-vous ?",
-                        "La préposition employée ici n'est pas commandée par le verbe (2m).",
-                        "Cette forme présente une anomalie phonétique en français standard (2n).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (2p)."
+                        "Le verbe ALLER (Comment allez-vous ? / Ça va)",
+                        "Le verbe ÊTRE (Comment êtes-vous ?)",
+                        "Le verbe AVOIR (Comment avez-vous ?)",
+                        "Le verbe FAIRE (Comment faites-vous ?)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Le français utilise le verbe ALLER pour l'état général et la santé ('Comment allez-vous ?', 'Ça va')."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u1-l2 (terme attendu : « Comment ») :",
+                    "prompt": "Saisissez le premier mot de l'interrogation formelle « Comment allez-vous ? » (terme attendu : « Comment ») :",
                     "acceptedAnswers": [
                         "Comment",
-                        "comment",
-                        "Comment"
+                        "comment"
                     ],
                     "explanation": "Le mot exact est « Comment »."
                 }
@@ -769,30 +767,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Introduce yourself with reflexive verb s'appeler and ask other people' » :",
+                    "prompt": "Comment dit-on correctement « My name is Lucas » en utilisant le verbe pronominal s'appeler ?",
                     "options": [
                         "Je m'appelle Lucas.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (3a).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (3b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (3c)."
+                        "Je suis appelé Lucas.",
+                        "Mon nom s'appelle Lucas.",
+                        "J'appelle Lucas."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "'Je m'appelle' est la conjugaison correcte au présent du verbe pronominal s'appeler à la 1re personne du singulier."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u1-l3 :",
+                    "prompt": "Quelle question pose-t-on pour demander le prénom d'un client ou d'un supérieur hiérarchique au registre soutenu ?",
                     "options": [
-                        "Comment vous vous appelez ?",
-                        "Cette proposition modifie subtilement le sens originel du verbe (3x).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (3y).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (3z)."
+                        "Comment vous appelez-vous ?",
+                        "Tu t'appelles comment ?",
+                        "C'est qui toi ?",
+                        "Quel est ton petit nom ?"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "'Comment vous appelez-vous ?' (avec inversion et vouvoiement) est la formule soutenue standard pour demander l'identité d'un tiers."
                 }
             ]
         },
@@ -800,23 +798,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u1-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Lors d'une première rencontre, que dit une femme pour exprimer poliment « Enchantée de faire votre connaissance » à l'écrit ?",
                     "options": [
-                        "Je m'appelle Lucas.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (3m).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (3n).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (3p)."
+                        "Enchantée",
+                        "Enchanté",
+                        "Enchantez",
+                        "Enchantent"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "L'adjectif verbal 'enchanté' s'accorde au féminin singulier avec la locutrice en ajoutant un 'e' final muet : 'Enchantée'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u1-l3 (terme attendu : « Je ») :",
+                    "prompt": "Saisissez le pronom sujet de 1re personne du singulier pour introduire son prénom « ... m'appelle » (terme attendu : « Je ») :",
                     "acceptedAnswers": [
                         "Je",
-                        "je",
-                        "Je"
+                        "je"
                     ],
                     "explanation": "Le mot exact est « Je »."
                 }
@@ -893,30 +890,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Use French courtesy expressions including please, thank you, you're we » :",
+                    "prompt": "Vous commandez un café au comptoir d'une brasserie parisienne. Quelle phrase est la plus polie et naturelle ?",
                     "options": [
                         "Un café, s'il vous plaît.",
-                        "Cette forme présente une anomalie phonétique en français standard (4a).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (4b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (4c)."
+                        "Donne-moi un café tout de suite.",
+                        "Je veux un café.",
+                        "Passe le café, s'il te plaît."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'ajout de 's'il vous plaît' est indispensable pour formuler une commande polie auprès d'un serveur ou commerçant."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u1-l4 :",
+                    "prompt": "Votre professeur vous remercie chaleureusement pour votre travail en disant « Merci beaucoup ». Que lui répondez-vous avec déférence ?",
                     "options": [
-                        "Passe-moi le livre, s'il te plaît.",
-                        "Cette forme présente une anomalie phonétique en français standard (4x).",
-                        "La préposition employée ici n'est pas commandée par le verbe (4y).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (4z)."
+                        "Je vous en prie, monsieur.",
+                        "De rien, pas de souci.",
+                        "C'est bon, laisse tomber.",
+                        "À plus tard !"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "'Je vous en prie' est la formule de réponse aux remerciements la plus élégante et respectueuse envers un supérieur."
                 }
             ]
         },
@@ -924,23 +921,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u1-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Que dites-vous pour vous frayer un passage poliment dans une rame de métro bondée sans bousculer les passagers ?",
                     "options": [
-                        "Un café, s'il vous plaît.",
-                        "Cette forme présente une anomalie phonétique en français standard (4m).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (4n).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (4p)."
+                        "Pardon, excusez-moi.",
+                        "Allez, bougez de là !",
+                        "Au revoir tout le monde.",
+                        "Enchanté de vous voir."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Pardon, excusez-moi' permet de demander poliment le passage ou d'attirer l'attention avec respect."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u1-l4 (terme attendu : « Un ») :",
+                    "prompt": "Saisissez l'article indéfini masculin singulier dans la commande « ... café, s'il vous plaît » (terme attendu : « Un ») :",
                     "acceptedAnswers": [
                         "Un",
-                        "un",
-                        "Un"
+                        "un"
                     ],
                     "explanation": "Le mot exact est « Un »."
                 }
@@ -1017,30 +1013,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Apply basic French phonological rules: identify silent final consonant » :",
+                    "prompt": "D'après la règle mnémotechnique CaReFuL, quelle consonne finale est normalement PRONONCÉE dans un mot isolé ?",
                     "options": [
-                        "salut",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (5a).",
-                        "Cette construction passive alourdit inutilement l'énoncé (5b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (5c)."
+                        "La consonne F (comme dans 'neuf' ou 'chef')",
+                        "La consonne T (comme dans 'salut' ou 'petit')",
+                        "La consonne S (comme dans 'vous' ou 'les')",
+                        "La consonne D (comme dans 'grand' ou 'tard')"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Les consonnes C, R, F, L (CaReFuL) se prononcent généralement en fin de mot, tandis que d, t, s, p, x, z restent muettes."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u1-l5 :",
+                    "prompt": "Comment se prononce la liaison obligatoire dans l'expression « les enfants » ?",
                     "options": [
-                        "vous",
-                        "Cette construction passive alourdit inutilement l'énoncé (5x).",
-                        "Cette construction passive alourdit inutilement l'énoncé (5y).",
-                        "Cette construction passive alourdit inutilement l'énoncé (5z)."
+                        "Le 's' final muet de 'les' se prononce comme un son /z/ lié à 'enfants' (/le.zɑ̃.fɑ̃/).",
+                        "Le 's' se prononce comme un /s/ dur séparé par une pause nette.",
+                        "Le 's' reste totalement muet et on marque un arrêt phonétique.",
+                        "Le 's' se transforme en son /t/."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "En position de liaison devant une voyelle, la consonne 's' ou 'x' se sonorise en /z/ pour fluidifier le débit vocalique."
                 }
             ]
         },
@@ -1048,21 +1044,20 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u1-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Dans laquelle de ces expressions entend-on une liaison en /t/ avec la consonne finale 'd' ?",
                     "options": [
-                        "salut",
-                        "Cette construction passive alourdit inutilement l'énoncé (5m).",
-                        "Cette construction passive alourdit inutilement l'énoncé (5n).",
-                        "Cette construction passive alourdit inutilement l'énoncé (5p)."
+                        "Un grand homme (/œ̃.gʁɑ̃.tɔm/)",
+                        "Un grand livre",
+                        "Les grands arbres",
+                        "Le grand chien"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "La consonne finale 'd' de 'grand' se prononce /t/ lorsqu'elle est liée au mot suivant commençant par une voyelle ou un 'h' muet ('un grand homme')."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u1-l5 (terme attendu : « salut ») :",
+                    "prompt": "Saisissez le mot familier « salut » dont la consonne finale 't' est muette (terme attendu : « salut ») :",
                     "acceptedAnswers": [
-                        "salut",
                         "salut",
                         "Salut"
                     ],
@@ -1131,30 +1126,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Conjugate regular first-group verbs ending in -er in the present tense » :",
+                    "prompt": "Quelle est la terminaison du présent pour le pronom 'nous' avec le verbe régulier parler ?",
                     "options": [
-                        "Je parle français avec mes amis.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (6a).",
-                        "Cette forme présente une anomalie phonétique en français standard (6b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (6c)."
+                        "-ons (nous parlons)",
+                        "-ez (vous parlez)",
+                        "-ent (ils parlent)",
+                        "-e (je parle)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La terminaison régulière du présent à la 1re personne du pluriel (nous) pour tous les verbes en -er est '-ons'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u3-l1 :",
+                    "prompt": "Parmi ces formes du verbe 'habiter', laquelle est correctement accordée avec le sujet 'tu' ?",
                     "options": [
-                        "Tu habites à Paris ?",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (6x).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (6y).",
-                        "Cette forme présente une anomalie phonétique en français standard (6z)."
+                        "Tu habites à Paris.",
+                        "Tu habite à Paris.",
+                        "Tu habitons à Paris.",
+                        "Tu habitez à Paris."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "Avec le pronom sujet 'tu', la terminaison régulière des verbes en -er prend un 's' final : 'tu habites'."
                 }
             ]
         },
@@ -1162,23 +1157,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u3-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Combien de formes de la conjugaison au présent des verbes en -er ont une terminaison muette à l'oral (je, tu, il/elle, ils/elles) ?",
                     "options": [
-                        "Je parle français avec mes amis.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (6m).",
-                        "La préposition employée ici n'est pas commandée par le verbe (6n).",
-                        "Cette forme présente une anomalie phonétique en français standard (6p)."
+                        "4 formes (les formes du 'singulier + 3e pluriel' se prononcent de façon identique)",
+                        "2 formes",
+                        "6 formes",
+                        "1 seule forme"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Les terminaisons -e, -es, -e, et -ent sont toutes muettes à l'oral, produisant le même son de radical (/paʁl/)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u3-l1 (terme attendu : « Je ») :",
+                    "prompt": "Saisissez le pronom sujet de première personne dans « ... parle français avec mes amis » (terme attendu : « Je ») :",
                     "acceptedAnswers": [
                         "Je",
-                        "je",
-                        "Je"
+                        "je"
                     ],
                     "explanation": "Le mot exact est « Je »."
                 }
@@ -1240,30 +1234,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Distinguish and use all French subject pronouns, including the informa » :",
+                    "prompt": "Dans le français parlé courant, quel pronom sujet singulier remplace très fréquemment 'nous' pour signifier 'we / let's' ?",
                     "options": [
-                        "On va au cinéma ce soir ?",
-                        "La préposition employée ici n'est pas commandée par le verbe (7a).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (7b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (7c)."
+                        "Le pronom 'on' (ex: On va au cinéma ?)",
+                        "Le pronom 'il'",
+                        "Le pronom 'vous'",
+                        "Le pronom 'ils'"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "'On' est un pronom de 3e personne du singulier qui remplace 'nous' dans plus de 90 % des conversations familières et courantes."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u3-l2 :",
+                    "prompt": "Comment s'accorde le verbe lorsque le sujet est le pronom indéfini 'on' (ex: on aimer la musique) ?",
                     "options": [
-                        "En France, on aime la gastronomie.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (7x).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (7y).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (7z)."
+                        "Le verbe se conjugue toujours à la 3e personne du singulier (il/elle) : on aime.",
+                        "Le verbe se conjugue au pluriel : on aimons.",
+                        "Le verbe prend la terminaison -ez : on aimez.",
+                        "Le verbe reste à l'infinitif."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "Grammaticalement, 'on' régit toujours un verbe à la 3e personne du singulier (identique à 'il' ou 'elle')."
                 }
             ]
         },
@@ -1271,23 +1265,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u3-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Lorsqu'un groupe est composé d'hommes et de femmes (mixte), quel pronom pluriel s'utilise traditionnellement en français ?",
                     "options": [
-                        "On va au cinéma ce soir ?",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (7m).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (7n).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (7p)."
+                        "Ils (ils travaillent ensemble)",
+                        "Elles",
+                        "On",
+                        "Vous"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "En grammaire française classique, le pronom masculin pluriel 'ils' s'applique aux groupes mixtes."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u3-l2 (terme attendu : « On ») :",
+                    "prompt": "Saisissez le pronom indéfini dans « ... va au cinéma ce soir ? » (terme attendu : « On ») :",
                     "acceptedAnswers": [
                         "On",
-                        "on",
-                        "On"
+                        "on"
                     ],
                     "explanation": "Le mot exact est « On »."
                 }
@@ -1351,30 +1344,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Apply phonetic spelling adjustments in -cer and -ger verbs to preserve » :",
+                    "prompt": "Pourquoi écrit-on « nous mangeons » avec un 'e' intercalaire au lieu de « nous mangons » ?",
                     "options": [
-                        "Nous commençons la réunion à neuf heures.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (8a).",
-                        "La préposition employée ici n'est pas commandée par le verbe (8b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (8c)."
+                        "Pour préserver le son doux /ʒ/ de la lettre 'g' devant la voyelle 'o'.",
+                        "Parce que c'est une faute d'impression historique.",
+                        "Pour allonger la prononciation du verbe.",
+                        "Parce que le 'e' se prononce très fort."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La lettre 'g' devant 'o' sonnerait durement /g/ ; l'ajout du 'e' muet rétablit le son doux /ʒ/ de 'manger'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u3-l3 :",
+                    "prompt": "Quelle est la graphie correcte de la forme 'nous' du verbe 'commencer' au présent ?",
                     "options": [
-                        "Nous mangeons au restaurant italien.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (8x).",
-                        "Cette forme présente une anomalie phonétique en français standard (8y).",
-                        "La préposition employée ici n'est pas commandée par le verbe (8z)."
+                        "Nous commençons (avec cédille sous le c)",
+                        "Nous commencons",
+                        "Nous commenceons",
+                        "Nous commenciez"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "La cédille 'ç' adoucit la consonne 'c' en son /s/ devant la voyelle 'o' de la terminaison -ons."
                 }
             ]
         },
@@ -1382,23 +1375,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u3-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Dans lequel de ces verbes observe-t-on un ajustement orthographique spécifique à la forme 'nous' au présent ?",
                     "options": [
-                        "Nous commençons la réunion à neuf heures.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (8m).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (8n).",
-                        "La préposition employée ici n'est pas commandée par le verbe (8p)."
+                        "Nous voyageons (du verbe voyager)",
+                        "Nous parlons",
+                        "Nous écoutons",
+                        "Nous travaillons"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Les verbes en -ger (comme voyager, nager, partager) conservent un 'e' de liaison à la première personne du pluriel."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u3-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Saisissez le pronom sujet dans « ... commençons la réunion à neuf heures » (terme attendu : « Nous ») :",
                     "acceptedAnswers": [
                         "Nous",
-                        "nous",
-                        "Nous"
+                        "nous"
                     ],
                     "explanation": "Le mot exact est « Nous »."
                 }
@@ -1460,30 +1452,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Identify and use French definite articles (le, la, l', les) with mascu » :",
+                    "prompt": "Quel article défini convient devant le nom féminin singulier « table » ?",
                     "options": [
-                        "Le livre est sur la table.",
-                        "Cette forme présente une anomalie phonétique en français standard (9a).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (9b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (9c)."
+                        "La table",
+                        "Le table",
+                        "L' table",
+                        "Les table"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le nom 'table' est féminin singulier et commence par une consonne, il prend donc l'article défini 'la'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u2-l1 :",
+                    "prompt": "Pourquoi écrit-on « l'amie » et « l'homme » au lieu de « la amie » ou « le homme » ?",
                     "options": [
-                        "La maison est grande.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (9x).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (9y).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (9z)."
+                        "Pour éviter le choc vocalique (hiatus) grâce à l'élision devant une voyelle ou un h muet.",
+                        "Parce que ces noms sont toujours neutres en français.",
+                        "Parce que l'article 'le' est interdit au singulier.",
+                        "Il s'agit d'une faute d'orthographe courante."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "L'élision (l') s'applique obligatoirement devant tout nom singulier débutant par une voyelle ou un 'h' muet."
                 }
             ]
         },
@@ -1491,23 +1483,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u2-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel article défini pluriel s'utilise pour désigner un groupe d'étudiants ou d'étudiantes ?",
                     "options": [
-                        "Le livre est sur la table.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (9m).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (9n).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (9p)."
+                        "Les (les étudiants / les étudiantes)",
+                        "Le",
+                        "La",
+                        "Des"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Les' est l'unique article défini pluriel en français pour le masculin et le féminin."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u2-l1 (terme attendu : « Le ») :",
+                    "prompt": "Saisissez l'article défini masculin singulier devant consonne (terme attendu : « Le ») :",
                     "acceptedAnswers": [
                         "Le",
-                        "le",
-                        "Le"
+                        "le"
                     ],
                     "explanation": "Le mot exact est « Le »."
                 }
@@ -1569,30 +1560,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Use indefinite articles (un, une, des) to refer to non-specific singul » :",
+                    "prompt": "Dans la phrase « J'achète _____ croissants à la boulangerie », quel article indéfini pluriel obligatoire doit-on insérer ?",
                     "options": [
-                        "J'ai un livre et une trousse.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (10a).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (10b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (10c)."
+                        "des (J'achète des croissants)",
+                        "un",
+                        "les",
+                        "du"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Contrairement à l'anglais, le français ne peut pas omettre l'article indéfini pluriel devant un nom dénombrable non spécifique : 'des croissants'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u2-l2 :",
+                    "prompt": "Quelle phrase illustre l'emploi correct des articles indéfinis au masculin et au féminin singuliers ?",
                     "options": [
-                        "Il achète des croissants.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (10x).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (10y).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (10z)."
+                        "J'ai un livre et une trousse.",
+                        "J'ai le livre et la trousse de mon ami.",
+                        "J'ai des livre et des trousses.",
+                        "J'ai une livre de pain et un trousse."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "'Un livre' (masculin) et 'une trousse' (féminin) appliquent rigoureusement le genre grammatical des articles indéfinis singuliers."
                 }
             ]
         },
@@ -1600,25 +1591,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u2-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel article indéfini utilise-t-on devant le nom féminin singulier « pomme » ?",
                     "options": [
-                        "J'ai un livre et une trousse.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (10m).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (10n).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (10p)."
+                        "Une pomme",
+                        "Un pomme",
+                        "Des pomme",
+                        "Le pomme"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Pomme' étant un nom féminin singulier, l'article indéfini approprié est 'une'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u2-l2 (terme attendu : « Jai ») :",
+                    "prompt": "Saisissez le premier mot contracté avec le pronom sujet dans « J'ai un livre » (terme attendu : « J'ai ») :",
                     "acceptedAnswers": [
-                        "Jai",
-                        "jai",
+                        "J'ai",
+                        "j'ai",
                         "Jai"
                     ],
-                    "explanation": "Le mot exact est « Jai »."
+                    "explanation": "Le mot exact est « J'ai »."
                 }
             ],
             "passThreshold": 0.8
@@ -1680,30 +1671,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Recognize reliable noun ending patterns to predict whether a French no » :",
+                    "prompt": "D'après les suffixes morphologiques fiables du français, quel nom est de genre féminin ?",
                     "options": [
-                        "La décision est difficile.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (11a).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (11b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (11c)."
+                        "La décision (suffixe -sion / -tion)",
+                        "Le gouvernement (suffixe -ment)",
+                        "Le voyage (suffixe -age)",
+                        "Le monument (suffixe -ment)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Les noms terminés par -tion, -sion, -té, -ette sont très majoritairement féminins ('la décision', 'la liberté')."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u2-l3 :",
+                    "prompt": "Quel suffixe nominal indique presque systématiquement un nom masculin en français ?",
                     "options": [
-                        "Le gouvernement annonce une réforme.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (11x).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (11y).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (11z)."
+                        "Le suffixe -ment (le sentiment, le document, le gouvernement)",
+                        "Le suffixe -tion (la nation)",
+                        "Le suffixe -té (la société)",
+                        "Le suffixe -ette (la bicyclette)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "Le suffixe -ment forme de manière productive des substantifs masculins en français."
                 }
             ]
         },
@@ -1711,23 +1702,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u2-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Pourquoi le nom « liberté » est-il féminin en français ?",
                     "options": [
-                        "La décision est difficile.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (11m).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (11n).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (11p)."
+                        "Parce que le suffixe abstrait -té caractérise des noms féminins (la liberté, la fraternité, l'égalité).",
+                        "Parce que tous les concepts philosophiques sont masculins.",
+                        "Parce qu'il commence par la lettre L.",
+                        "Parce qu'il s'agit d'un mot d'origine germanique."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Le suffixe -té forme des noms abstraits féminins exprimant une qualité ou un état."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u2-l3 (terme attendu : « La ») :",
+                    "prompt": "Saisissez l'article défini féminin singulier dans « ... décision est difficile » (terme attendu : « La ») :",
                     "acceptedAnswers": [
                         "La",
-                        "la",
-                        "La"
+                        "la"
                     ],
                     "explanation": "Le mot exact est « La »."
                 }
@@ -1792,30 +1782,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Form regular and irregular plural nouns in French (-s, -x, -aux, and i » :",
+                    "prompt": "Quel est le pluriel régulier en -aux du nom masculin « un journal » ?",
                     "options": [
-                        "Les journaux sont sur la table.",
-                        "La préposition employée ici n'est pas commandée par le verbe (12a).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (12b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (12c)."
+                        "Des journaux",
+                        "Des journals",
+                        "Des journauxes",
+                        "Des journalses"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La plupart des noms masculins terminés en -al forment leur pluriel en -aux : un journal -> des journaux, un animal -> des animaux."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u2-l4 :",
+                    "prompt": "Comment forme-t-on le pluriel des noms terminés par -eau comme « un bureau » ou « un château » ?",
                     "options": [
-                        "Nous visitons plusieurs pays européens.",
-                        "La préposition employée ici n'est pas commandée par le verbe (12x).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (12y).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (12z)."
+                        "En ajoutant un -x final muet (des bureaux, des châteaux).",
+                        "En ajoutant un -s final (des bureaus).",
+                        "Le mot reste invariable sans changement.",
+                        "En remplaçant -eau par -aux."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "Les noms en -eau, -au et -eu prennent la marque du pluriel en -x (muet à l'oral)."
                 }
             ]
         },
@@ -1823,23 +1813,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u2-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel mot singulier terminé par -s reste invariable au pluriel ?",
                     "options": [
-                        "Les journaux sont sur la table.",
-                        "La préposition employée ici n'est pas commandée par le verbe (12m).",
-                        "Cette forme présente une anomalie phonétique en français standard (12n).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (12p)."
+                        "Un pays -> des pays",
+                        "Un livre -> des livres",
+                        "Un chat -> des chats",
+                        "Un hôtel -> des hôtels"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Les noms déjà terminés par -s, -x ou -z au singulier (un pays, un prix, un nez) ne changent pas d'orthographe au pluriel."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u2-l4 (terme attendu : « Les ») :",
+                    "prompt": "Saisissez l'article défini pluriel dans « ... journaux sont sur la table » (terme attendu : « Les ») :",
                     "acceptedAnswers": [
                         "Les",
-                        "les",
-                        "Les"
+                        "les"
                     ],
                     "explanation": "Le mot exact est « Les »."
                 }
@@ -1905,30 +1894,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Form and use contracted articles with prepositions à (au, aux) and de  » :",
+                    "prompt": "Quelle contraction obligatoire se produit lorsque la préposition « à » rencontre l'article défini masculin « le » (ex: aller ... restaurant) ?",
                     "options": [
-                        "Je vais au restaurant ce soir.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (13a).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (13b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (13c)."
+                        "AU (Je vais au restaurant)",
+                        "À LE (Je vais à le restaurant)",
+                        "DU (Je vais du restaurant)",
+                        "AUX (Je vais aux restaurant)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La fusion de à + le donne obligatoirement l'article contracté 'au' en français."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u2-l5 :",
+                    "prompt": "Comment traduit-on correctement « the neighbor's car » (la voiture de + le voisin) ?",
                     "options": [
-                        "Elle parle au directeur.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (13x).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (13y).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (13z)."
+                        "La voiture du voisin (de + le = du)",
+                        "La voiture de le voisin",
+                        "La voiture au voisin",
+                        "La voiture des voisin"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "La préposition 'de' combinée à l'article 'le' se contracte obligatoirement en 'du' devant une consonne."
                 }
             ]
         },
@@ -1936,23 +1925,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u2-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase applique correctement la contraction de la préposition « à » avec l'article pluriel « les » ?",
                     "options": [
-                        "Je vais au restaurant ce soir.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (13m).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (13n).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (13p)."
+                        "Nous voyageons aux États-Unis (à + les = aux).",
+                        "Nous voyageons à les États-Unis.",
+                        "Nous voyageons des États-Unis.",
+                        "Nous voyageons au États-Unis."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "À + les se contracte obligatoirement en 'aux' devant les noms pluriels (comme 'aux États-Unis')."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u2-l5 (terme attendu : « Je ») :",
+                    "prompt": "Saisissez le pronom sujet dans « ... vais au restaurant ce soir » (terme attendu : « Je ») :",
                     "acceptedAnswers": [
                         "Je",
-                        "je",
-                        "Je"
+                        "je"
                     ],
                     "explanation": "Le mot exact est « Je »."
                 }
@@ -2017,30 +2005,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Conjugate stem-changing -er verbs (acheter, préférer, appeler) reflect » :",
+                    "prompt": "Quelle modification vocalique subit le verbe 'acheter' au singulier du présent (j'ach...te) ?",
                     "options": [
-                        "J'achète du pain à la boulangerie.",
-                        "Cette forme présente une anomalie phonétique en français standard (14a).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (14b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (14c)."
+                        "Le 'e' muet prend un accent grave : j'achète (/a.ʃɛt/).",
+                        "Le 'e' prend un accent aigu : j'achéte.",
+                        "La consonne 't' est doublée : j'achette.",
+                        "Le mot ne change pas : j'achete."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Devant une syllabe finale muette, le 'e' caduc d'acheter s'ouvre en 'è' (/ɛ/) : j'achète, tu achètes, ils achètent."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u3-l4 :",
+                    "prompt": "Pourquoi les formes 'nous achetons' et 'vous achetez' ne prennent-elles PAS d'accent grave sur le radical ?",
                     "options": [
-                        "Nous achetons des fruits au marché.",
-                        "Cette forme présente une anomalie phonétique en français standard (14x).",
-                        "La préposition employée ici n'est pas commandée par le verbe (14y).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (14z)."
+                        "Parce que les terminaisons -ons et -ez sont prononcées et accentuées, le radical n'est pas devant une syllabe muette.",
+                        "Parce que 'nous' et 'vous' sont des pronoms irréguliers.",
+                        "Parce que le verbe devient du deuxième groupe au pluriel.",
+                        "C'est une exception arbitraire sans raison phonétique."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "La modification en 'è' n'a lieu que devant une syllabe contenant un 'e' muet (dans le 'boot')."
                 }
             ]
         },
@@ -2048,25 +2036,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u3-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle est la forme correctement conjuguée du verbe 'préférer' avec le pronom 'je' ?",
                     "options": [
-                        "J'achète du pain à la boulangerie.",
-                        "Cette forme présente une anomalie phonétique en français standard (14m).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (14n).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (14p)."
+                        "Je préfère le thé.",
+                        "Je préfére le thé.",
+                        "Je préfere le thé.",
+                        "Je préférons le thé."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "L'accent aigu de l'avant-dernière syllabe se transforme en accent grave devant une terminaison muette : 'je préfère'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u3-l4 (terme attendu : « Jachète ») :",
+                    "prompt": "Saisissez la forme conjuguée avec 'je' du verbe acheter dans « J'... du pain » (terme attendu : « achète ») :",
                     "acceptedAnswers": [
-                        "Jachète",
-                        "jachète",
-                        "Jachète"
+                        "achète",
+                        "achete",
+                        "Achète"
                     ],
-                    "explanation": "Le mot exact est « Jachète »."
+                    "explanation": "Le mot exact est « achète »."
                 }
             ],
             "passThreshold": 0.8
@@ -2130,30 +2118,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Combine regular -er verbs, time expressions, and everyday vocabulary t » :",
+                    "prompt": "Quelle séquence de connecteurs temporels structure logiquement une routine (d'abord -> ensuite -> enfin) ?",
                     "options": [
-                        "D'abord, j'écoute les nouvelles à la radio.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (15a).",
-                        "Cette construction passive alourdit inutilement l'énoncé (15b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (15c)."
+                        "D'abord je prépare le petit-déjeuner, ensuite je travaille, enfin je rentre à la maison.",
+                        "Enfin je commence, d'abord je finis, ensuite je dors.",
+                        "Toujours je mange, jamais je travaille, souvent je dors.",
+                        "Hier je pars, demain je reste, aujourd'hui je cours."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La progression chronologique naturelle en français s'articule autour de 'D'abord' (première étape), 'Ensuite / Puis' (continuité), et 'Enfin' (conclusion)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u3-l5 :",
+                    "prompt": "Comment dit-on en français « In the morning, I listen to the radio » sans préposition superflue après le verbe ?",
                     "options": [
-                        "Ensuite, nous travaillons sur le projet.",
-                        "Cette construction passive alourdit inutilement l'énoncé (15x).",
-                        "Cette construction passive alourdit inutilement l'énoncé (15y).",
-                        "Cette construction passive alourdit inutilement l'énoncé (15z)."
+                        "Le matin, j'écoute la radio.",
+                        "Le matin, j'écoute à la radio.",
+                        "Le matin, j'écoute pour la radio.",
+                        "Le matin, j'écoute de la radio."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "Le verbe 'écouter' est directement transitif en français et ne prend pas de préposition : 'écouter la radio'."
                 }
             ]
         },
@@ -2161,25 +2149,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u3-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle expression temporelle traduit « every day » pour exprimer une action habituelle ?",
                     "options": [
-                        "D'abord, j'écoute les nouvelles à la radio.",
-                        "Cette construction passive alourdit inutilement l'énoncé (15m).",
-                        "Cette construction passive alourdit inutilement l'énoncé (15n).",
-                        "Cette construction passive alourdit inutilement l'énoncé (15p)."
+                        "Tous les jours",
+                        "Toutes les nuits",
+                        "Quelquefois",
+                        "Jamais"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Tous les jours' est l'expression standard pour exprimer la récurrence quotidienne d'une habitude."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u3-l5 (terme attendu : « Dabord ») :",
+                    "prompt": "Saisissez le connecteur de début de séquence dans « ... j'écoute les nouvelles à la radio » (terme attendu : « D'abord ») :",
                     "acceptedAnswers": [
-                        "Dabord",
-                        "dabord",
+                        "D'abord",
+                        "d'abord",
                         "Dabord"
                     ],
-                    "explanation": "Le mot exact est « Dabord »."
+                    "explanation": "Le mot exact est « D'abord »."
                 }
             ],
             "passThreshold": 0.8
@@ -2244,30 +2232,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Conjugate the irregular verb ÊTRE in the present tense and use it for  » :",
+                    "prompt": "Quelle est la forme correcte du verbe être pour exprimer sa profession : « Je _____ médecin » ?",
                     "options": [
-                        "Je suis étudiant à l'université.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (16a).",
-                        "Cette forme présente une anomalie phonétique en français standard (16b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (16c)."
+                        "suis (Je suis médecin)",
+                        "es",
+                        "est",
+                        "sommes"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La 1re personne du singulier du verbe être au présent est 'je suis'. En français, les professions ne prennent pas d'article après être."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u4-l1 :",
+                    "prompt": "Comment dit-on au pluriel formel « You are late » en faisant la liaison obligatoire ?",
                     "options": [
-                        "Tu es prêt pour le départ ?",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (16x).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (16y).",
-                        "Cette forme présente une anomalie phonétique en français standard (16z)."
+                        "Vous êtes en retard (/vu.zɛt/).",
+                        "Vous sont en retard.",
+                        "Vous avez en retard.",
+                        "Vous faites en retard."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "La 2e personne du pluriel ou de politesse est 'vous êtes', avec une liaison sonore /z/ obligatoire."
                 }
             ]
         },
@@ -2275,25 +2263,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u4-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase illustre la prononciation correcte /s/ de « ils sont » (être) par opposition à /z/ « ils ont » (avoir) ?",
                     "options": [
-                        "Je suis étudiant à l'université.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (16m).",
-                        "La préposition employée ici n'est pas commandée par le verbe (16n).",
-                        "Cette forme présente une anomalie phonétique en français standard (16p)."
+                        "Ils sont français et italiens.",
+                        "Ils ont français et italiens.",
+                        "Ils fait français et italiens.",
+                        "Ils va français et italiens."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Ils sont' (du verbe être) commence par la consonne /s/ (/eel sohn/), tandis que 'ils ont' (avoir) comporte une liaison /z/."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u4-l1 (terme attendu : « Je ») :",
+                    "prompt": "Saisissez le verbe être conjugué avec 'je' dans « Je ... étudiant à l'université » (terme attendu : « suis ») :",
                     "acceptedAnswers": [
-                        "Je",
-                        "je",
-                        "Je"
+                        "suis",
+                        "Suis"
                     ],
-                    "explanation": "Le mot exact est « Je »."
+                    "explanation": "Le mot exact est « suis »."
                 }
             ],
             "passThreshold": 0.8
@@ -2353,30 +2340,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Conjugate AVOIR in the present tense and deploy it for age, possession » :",
+                    "prompt": "Comment exprime-t-on correctement son âge en français (ex: 20 ans) ?",
                     "options": [
-                        "J'ai vingt ans et j'ai deux frères.",
-                        "La préposition employée ici n'est pas commandée par le verbe (17a).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (17b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (17c)."
+                        "J'ai vingt ans. (verbe avoir)",
+                        "Je suis vingt ans. (verbe être)",
+                        "Je fais vingt ans.",
+                        "Je vais vingt ans."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "En français, on utilise obligatoirement le verbe avoir pour exprimer l'âge : 'J'ai vingt ans'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u4-l2 :",
+                    "prompt": "Quelle expression avec 'avoir' traduit la sensation physique « I am hungry » ?",
                     "options": [
-                        "Tu as faim ? On va au restaurant.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (17x).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (17y).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (17z)."
+                        "J'ai faim.",
+                        "Je suis faim.",
+                        "Je fais faim.",
+                        "J'ai faim de toi."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "Les sensations physiques (faim, soif, chaud, froid, sommeil) se construisent en français avec le verbe avoir."
                 }
             ]
         },
@@ -2384,25 +2371,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u4-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle est la forme du verbe avoir avec le pronom 'nous' au présent ?",
                     "options": [
-                        "J'ai vingt ans et j'ai deux frères.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (17m).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (17n).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (17p)."
+                        "Nous avons (nous avons soif)",
+                        "Nous sommes",
+                        "Nous allons",
+                        "Nous faisons"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Nous avons' est la première personne du pluriel du verbe avoir au présent."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u4-l2 (terme attendu : « Jai ») :",
+                    "prompt": "Saisissez la forme contractée de 'je + avoir' dans « ... vingt ans » (terme attendu : « J'ai ») :",
                     "acceptedAnswers": [
-                        "Jai",
-                        "jai",
+                        "J'ai",
+                        "j'ai",
                         "Jai"
                     ],
-                    "explanation": "Le mot exact est « Jai »."
+                    "explanation": "Le mot exact est « J'ai »."
                 }
             ],
             "passThreshold": 0.8
@@ -2463,30 +2450,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Conjugate FAIRE in the present tense and use it for activities, hobbie » :",
+                    "prompt": "Quelle est la forme très irrégulière de la 2e personne du pluriel (vous) pour le verbe 'faire' ?",
                     "options": [
-                        "Qu'est-ce que vous faites ce week-end ?",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (18a).",
-                        "La préposition employée ici n'est pas commandée par le verbe (18b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (18c)."
+                        "Vous faites (Qu'est-ce que vous faites ?)",
+                        "Vous faisez",
+                        "Vous fons",
+                        "Vous faitez"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "'Faire' est l'un des trois seuls verbes français (avec être et dire) ayant une terminaison en -tes à la 2e personne du pluriel : 'vous faites'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u4-l3 :",
+                    "prompt": "Quelle formule impersonnelle avec le verbe 'faire' décrit un temps ensoleillé et agréable ?",
                     "options": [
-                        "Aujourd'hui, il fait très beau et chaud.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (18x).",
-                        "Cette forme présente une anomalie phonétique en français standard (18y).",
-                        "La préposition employée ici n'est pas commandée par le verbe (18z)."
+                        "Il fait très beau et chaud.",
+                        "Il est très beau et chaud.",
+                        "Il a très beau et chaud.",
+                        "Il va très beau et chaud."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "La météo générale se construit impersonnellement avec 'Il fait...' (il fait beau, il fait froid, il fait du vent)."
                 }
             ]
         },
@@ -2494,25 +2481,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u4-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel article partitif utilise-t-on dans l'expression « faire _____ sport » ?",
                     "options": [
-                        "Qu'est-ce que vous faites ce week-end ?",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (18m).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (18n).",
-                        "La préposition employée ici n'est pas commandée par le verbe (18p)."
+                        "du (Je fais du sport)",
+                        "de",
+                        "le",
+                        "au"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Les activités sportives masculines avec le verbe faire prennent l'article partitif contracté 'du' (de + le)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u4-l3 (terme attendu : « Questce ») :",
+                    "prompt": "Saisissez la forme conjuguée avec 'je' du verbe faire dans « Je ... du sport » (terme attendu : « fais ») :",
                     "acceptedAnswers": [
-                        "Questce",
-                        "questce",
-                        "Questce"
+                        "fais",
+                        "Fais"
                     ],
-                    "explanation": "Le mot exact est « Questce »."
+                    "explanation": "Le mot exact est « fais »."
                 }
             ],
             "passThreshold": 0.8
@@ -2574,30 +2560,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Conjugate ALLER in the present tense and deploy spatial prepositions ( » :",
+                    "prompt": "Quelle préposition de lieu emploie-t-on obligatoirement pour une destination chez une personne ou un professionnel (ex: dentiste) ?",
                     "options": [
-                        "Je vais en France cet été.",
-                        "Cette forme présente une anomalie phonétique en français standard (19a).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (19b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (19c)."
+                        "CHEZ (Nous allons chez le dentiste)",
+                        "À (Nous allons au dentiste)",
+                        "DANS (Nous allons dans le dentiste)",
+                        "EN (Nous allons en dentiste)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "On utilise 'chez' devant les noms ou pronoms désignant des personnes (chez le médecin, chez Pierre, chez moi)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u4-l4 :",
+                    "prompt": "Quelle préposition de lieu s'applique devant un pays féminin comme « la France » ou « l'Italie » ?",
                     "options": [
-                        "Tu vas au cinéma avec nous ?",
-                        "Cette variante relève d'un registre familier inadapté au contexte (19x).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (19y).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (19z)."
+                        "EN (Je vais en France)",
+                        "AU (Je vais au France)",
+                        "À (Je vais à France)",
+                        "CHEZ (Je vais chez France)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "Les pays de genre féminin ou commençant par une voyelle prennent la préposition 'en' (en France, en Espagne, en Italie)."
                 }
             ]
         },
@@ -2605,25 +2591,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u4-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle est la forme conjuguée du verbe aller à la 3e personne du pluriel (ils/elles) au présent ?",
                     "options": [
-                        "Je vais en France cet été.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (19m).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (19n).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (19p)."
+                        "Ils vont (Ils vont aux Pays-Bas)",
+                        "Ils vontent",
+                        "Ils allont",
+                        "Ils vonts"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Ils vont' est la forme irrégulière de 3e personne du pluriel du verbe aller au présent."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u4-l4 (terme attendu : « Je ») :",
+                    "prompt": "Saisissez la forme conjuguée avec 'je' du verbe aller dans « Je ... en France » (terme attendu : « vais ») :",
                     "acceptedAnswers": [
-                        "Je",
-                        "je",
-                        "Je"
+                        "vais",
+                        "Vais"
                     ],
-                    "explanation": "Le mot exact est « Je »."
+                    "explanation": "Le mot exact est « vais »."
                 }
             ],
             "passThreshold": 0.8
@@ -2687,30 +2672,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Synthesize and contrast the four core irregular verbs (être, avoir, fa » :",
+                    "prompt": "Quel verbe complète correctement la phrase suivante : « Elle _____ faim, alors elle _____ au restaurant » ?",
                     "options": [
-                        "Je suis fatigué parce que je fais beaucoup de travail.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (20a).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (20b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (20c)."
+                        "a / va (Elle a faim, alors elle va au restaurant)",
+                        "est / fait",
+                        "fait / est",
+                        "va / a"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La sensation de faim requiert le verbe avoir ('elle a faim') et le déplacement requiert le verbe aller ('elle va au restaurant')."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u4-l5 :",
+                    "prompt": "Quelle terminaison commune partagent 'être', 'avoir', 'faire' et 'aller' à la 3e personne du pluriel (ils/elles) au présent ?",
                     "options": [
-                        "Elle a faim, alors elle va au restaurant.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (20x).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (20y).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (20z)."
+                        "La terminaison en -ONT (ils sont, ils ont, ils font, ils vont)",
+                        "La terminaison en -ENT",
+                        "La terminaison en -EZ",
+                        "La terminaison en -ONS"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "Ces 4 verbes piliers partagent l'irrégularité unique d'avoir une finale en -ont au présent (sont, ont, font, vont)."
                 }
             ]
         },
@@ -2718,23 +2703,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u4-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Dans quelle phrase les verbes 'être' et 'faire' sont-ils tous deux employés avec pertinence syntaxique ?",
                     "options": [
                         "Je suis fatigué parce que je fais beaucoup de travail.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (20m).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (20n).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (20p)."
+                        "J'ai fatigué parce que je vais beaucoup de travail.",
+                        "Je fais fatigué parce que je suis beaucoup de travail.",
+                        "Je vais fatigué parce que j'ai beaucoup de travail."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Je suis fatigué' (état avec être) et 'je fais du travail' (action avec faire) appliquent rigoureusement les valeurs respectives de ces verbes."
                 },
                 {
                     "type": "typed-recall",
                     "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u4-l5 (terme attendu : « Je ») :",
                     "acceptedAnswers": [
                         "Je",
-                        "je",
-                        "Je"
+                        "je"
                     ],
                     "explanation": "Le mot exact est « Je »."
                 }
@@ -2796,30 +2780,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Construct standard negative sentences using the two-part 'ne...pas' fr » :",
+                    "prompt": "Quelle est la transformation négative correcte de « Il aime le fromage » avec élision devant voyelle ?",
                     "options": [
-                        "Je ne parle pas espagnol.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (21a).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (21b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (21c)."
+                        "Il n'aime pas le fromage.",
+                        "Il ne aime pas le fromage.",
+                        "Il pas aime le fromage.",
+                        "Il aime pas de fromage."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La particule 'ne' s'élide obligatoirement en 'n'' devant un verbe débutant par une voyelle ou un h muet."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u5-l1 :",
+                    "prompt": "Où se placent les éléments de la négation 'ne...pas' par rapport au verbe conjugué ?",
                     "options": [
-                        "Il n'aime pas le fromage.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (21x).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (21y).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (21z)."
+                        "Ils encadrent le verbe conjugué : ne + verbe + pas.",
+                        "Ils se placent tous les deux après le verbe.",
+                        "Ils se placent au tout début de la phrase.",
+                        "Ils remplacent le sujet."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "La négation française fonctionne comme une structure en tenaille encadrant le verbe conjugué."
                 }
             ]
         },
@@ -2827,25 +2811,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u5-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase négative est parfaitement conforme aux règles du français standard ?",
                     "options": [
                         "Je ne parle pas espagnol.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (21m).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (21n).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (21p)."
+                        "Je pas parle espagnol.",
+                        "Je ne parle espagnol pas.",
+                        "Je non parle pas espagnol."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Je ne parle pas espagnol' applique la syntaxe canonique de la négation à deux éléments."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u5-l1 (terme attendu : « Je ») :",
+                    "prompt": "Saisissez la première partie de la négation encadrant le verbe dans « Je ... parle pas espagnol » (terme attendu : « ne ») :",
                     "acceptedAnswers": [
-                        "Je",
-                        "je",
-                        "Je"
+                        "ne",
+                        "Ne"
                     ],
-                    "explanation": "Le mot exact est « Je »."
+                    "explanation": "Le mot exact est « ne »."
                 }
             ],
             "passThreshold": 0.8
@@ -2905,30 +2888,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Apply the rule transforming indefinite (un, une, des) and partitive (d » :",
+                    "prompt": "Comment transforme-t-on « J'ai une voiture » à la forme négative pour exprimer l'absence totale de quantité ?",
                     "options": [
-                        "Je n'ai pas de voiture.",
-                        "La préposition employée ici n'est pas commandée par le verbe (22a).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (22b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (22c)."
+                        "Je n'ai pas de voiture. (une -> de)",
+                        "Je n'ai pas une voiture.",
+                        "Je n'ai pas la voiture.",
+                        "Je n'ai pas des voitures."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "À la forme négative, les articles indéfinis (un, une, des) et partitifs (du, de la, des) se transforment obligatoirement en 'de' (ou 'd'')."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u5-l2 :",
+                    "prompt": "Avec quel verbe les articles indéfinis ne se transforment-ils PAS en 'de' à la forme négative ?",
                     "options": [
-                        "Elle ne boit pas de café le soir.",
-                        "La préposition employée ici n'est pas commandée par le verbe (22x).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (22y).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (22z)."
+                        "Le verbe ÊTRE (ex: Ce n'est pas un problème)",
+                        "Le verbe AVOIR",
+                        "Le verbe BOIRE",
+                        "Le verbe ACHETER"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "Le verbe être est la seule exception : exprimant une équivalence et non une quantité, il conserve l'article indéfini ('ce n'est pas un problème')."
                 }
             ]
         },
@@ -2936,25 +2919,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u5-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase illustre la transformation d'un article partitif (du café) en 'de' à la forme négative ?",
                     "options": [
-                        "Je n'ai pas de voiture.",
-                        "La préposition employée ici n'est pas commandée par le verbe (22m).",
-                        "Cette forme présente une anomalie phonétique en français standard (22n).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (22p)."
+                        "Elle ne boit pas de café le soir.",
+                        "Elle ne boit pas du café le soir.",
+                        "Elle ne boit pas le café le soir.",
+                        "Elle ne boit pas un café le soir."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Le partitif 'du café' devient obligatoirement 'de café' après la négation 'ne...pas'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u5-l2 (terme attendu : « Je ») :",
+                    "prompt": "Saisissez la préposition remplaçant l'article indéfini dans « Je n'ai pas ... voiture » (terme attendu : « de ») :",
                     "acceptedAnswers": [
-                        "Je",
-                        "je",
-                        "Je"
+                        "de",
+                        "De"
                     ],
-                    "explanation": "Le mot exact est « Je »."
+                    "explanation": "Le mot exact est « de »."
                 }
             ],
             "passThreshold": 0.8
@@ -3016,30 +2998,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Deploy complex negative adverbs 'ne...jamais' (never) and 'ne...plus'  » :",
+                    "prompt": "Quelle phrase exprime l'arrêt d'une habitude passée (« no longer / not anymore ») ?",
                     "options": [
-                        "Je ne bois jamais d'alcool.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (23a).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (23b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (23c)."
+                        "Nous n'habitons plus à Paris.",
+                        "Nous n'habitons pas à Paris.",
+                        "Nous n'habitons jamais à Paris.",
+                        "Nous n'habitons rien à Paris."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "'Ne...plus' exprime la cessation d'une situation antérieure (équivalent de 'no longer')."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u5-l3 :",
+                    "prompt": "Peut-on combiner le mot 'pas' avec 'jamais' ou 'plus' (ex: *ne pas jamais) ?",
                     "options": [
-                        "Nous n'habitons plus à Paris.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (23x).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (23y).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (23z)."
+                        "Non, 'jamais' et 'plus' remplacent complètement 'pas'.",
+                        "Oui, c'est obligatoire dans les phrases formelles.",
+                        "Oui, mais seulement au passé composé.",
+                        "Oui, avec le verbe être uniquement."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "Les adverbes négatifs complexes (jamais, plus, rien) se substituent entièrement à 'pas' et s'excluent mutuellement."
                 }
             ]
         },
@@ -3047,25 +3029,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u5-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Comment se prononce le 's' final de 'plus' dans la locution négative « Il ne fume plus » ?",
                     "options": [
-                        "Je ne bois jamais d'alcool.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (23m).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (23n).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (23p)."
+                        "Il est muet (/ply/).",
+                        "Il est sonore (/plys/).",
+                        "Il se prononce /z/.",
+                        "Il se prononce comme un 't'."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Dans la négation 'ne...plus', le 's' final est toujours muet (/ply/)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u5-l3 (terme attendu : « Je ») :",
+                    "prompt": "Saisissez l'adverbe négatif exprimant 'never' dans « Je ne bois ... d'alcool » (terme attendu : « jamais ») :",
                     "acceptedAnswers": [
-                        "Je",
-                        "je",
-                        "Je"
+                        "jamais",
+                        "Jamais"
                     ],
-                    "explanation": "Le mot exact est « Je »."
+                    "explanation": "Le mot exact est « jamais »."
                 }
             ],
             "passThreshold": 0.8
@@ -3118,7 +3099,8 @@
             ],
             "mnemonics": [
                 "RIEN = THING (Think: 'Nothing' starts with N, Rien negates things).",
-                "PERSONNE = PERSON (Negates human beings: 'Nobody'). When Personne is the subject, it leads the sentence: 'Personne ne sait'!"
+                "PERSONNE = PERSON (Negates human beings: 'Nobody'). When Personne is the subject, it leads the sentence: 'Personne ne sait'!",
+                "Word Order Alert: 'Personne' is polite and sits at the very END of the sentence, while 'Rien' hugs the verb."
             ],
             "culturalNotes": [
                 "In French philosophy and literature, 'Le Néant' (nothingness) and expressions with 'rien' (like Édith Piaf's iconic 'Non, je ne regrette rien') are central cultural touchstones."
@@ -3127,30 +3109,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Deploy negative pronouns 'ne...rien' (nothing) and 'ne...personne' (no » :",
+                    "prompt": "Quelle est la position du pronom négatif 'personne' en fonction de complément d'objet direct ?",
                     "options": [
-                        "Je ne comprends rien à cet exercice.",
-                        "Cette forme présente une anomalie phonétique en français standard (24a).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (24b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (24c)."
+                        "En fin de proposition après le verbe (ex: Je ne vois personne).",
+                        "Entre 'ne' et le verbe.",
+                        "Devant le pronom sujet.",
+                        "Toujours au tout début de la phrase."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Contrairement à 'pas' et 'rien' qui suivent immédiatement le verbe conjugué, 'personne' occupe la position finale du syntagme verbal."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u5-l4 :",
+                    "prompt": "Comment formule-t-on « Nothing is impossible » avec 'rien' en position de sujet ?",
                     "options": [
-                        "Il n'y a personne dans la salle.",
-                        "Cette forme présente une anomalie phonétique en français standard (24x).",
-                        "La préposition employée ici n'est pas commandée par le verbe (24y).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (24z)."
+                        "Rien n'est impossible.",
+                        "Ne rien est impossible.",
+                        "Pas rien est impossible.",
+                        "Rien n'a pas impossible."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "En position sujet, 'Rien' se place en tête de phrase, suivi de la particule 'ne' (ou 'n'') devant le verbe."
                 }
             ]
         },
@@ -3158,25 +3140,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u5-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase négative nie correctement les objets matériels ou abstraits (nothing) ?",
                     "options": [
                         "Je ne comprends rien à cet exercice.",
-                        "Cette forme présente une anomalie phonétique en français standard (24m).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (24n).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (24p)."
+                        "Je ne comprends personne à cet exercice.",
+                        "Je ne comprends pas rien à cet exercice.",
+                        "Je ne comprends plus pas à cet exercice."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Ne...rien' est le pronom négatif approprié pour nier des choses ou des actions."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u5-l4 (terme attendu : « Je ») :",
+                    "prompt": "Saisissez le pronom négatif pour 'nothing' dans « Je ne comprends ... à cet exercice » (terme attendu : « rien ») :",
                     "acceptedAnswers": [
-                        "Je",
-                        "je",
-                        "Je"
+                        "rien",
+                        "Rien"
                     ],
-                    "explanation": "Le mot exact est « Je »."
+                    "explanation": "Le mot exact est « rien »."
                 }
             ],
             "passThreshold": 0.8
@@ -3240,30 +3221,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Use the restrictive structure 'ne...que' (only) and distinguish it fro » :",
+                    "prompt": "Que signifie la tournure restrictive « Je n'ai que cinq minutes » ?",
                     "options": [
-                        "Je n'ai que cinq minutes.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (25a).",
-                        "Cette construction passive alourdit inutilement l'énoncé (25b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (25c)."
+                        "J'ai seulement cinq minutes (restriction, pas une négation totale).",
+                        "Je n'ai pas cinq minutes du tout.",
+                        "Je n'aurai jamais cinq minutes.",
+                        "J'ai plus de cinq minutes."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "'Ne...que' exprime une restriction équivalente à 'seulement' (only) et non une absence totale."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u5-l5 :",
+                    "prompt": "Pourquoi les articles ne se transforment-ils pas en 'de' avec la restriction 'ne...que' (ex: Elle ne boit que de l'eau) ?",
                     "options": [
-                        "Elle ne boit que de l'eau.",
-                        "Cette construction passive alourdit inutilement l'énoncé (25x).",
-                        "Cette construction passive alourdit inutilement l'énoncé (25y).",
-                        "Cette construction passive alourdit inutilement l'énoncé (25z)."
+                        "Parce que le sens profond de la phrase est positif et affirme l'existence d'une quantité restreinte.",
+                        "Parce que 'que' est une préposition invariable.",
+                        "Parce que c'est une faute de grammaire acceptée.",
+                        "Parce que l'eau est un liquide."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A1."
+                    "explanation": "'Ne...que' n'étant pas une véritable négation de rejet, la règle de réduction des articles à 'de' ne s'applique pas."
                 }
             ]
         },
@@ -3271,25 +3252,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u5-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase restrictive illustre l'emploi de « ne...que » pour limiter une action dans le temps ?",
                     "options": [
-                        "Je n'ai que cinq minutes.",
-                        "Cette construction passive alourdit inutilement l'énoncé (25m).",
-                        "Cette construction passive alourdit inutilement l'énoncé (25n).",
-                        "Cette construction passive alourdit inutilement l'énoncé (25p)."
+                        "Le musée n'ouvre qu'à dix heures.",
+                        "Le musée n'ouvre pas à dix heures.",
+                        "Le musée n'ouvre jamais à dix heures.",
+                        "Le musée n'ouvre rien à dix heures."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'N'ouvre qu'à dix heures' exprime la restriction temporelle 'ouvre seulement à dix heures'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u5-l5 (terme attendu : « Je ») :",
+                    "prompt": "Saisissez la particule restrictive marquant 'only' dans « Je n'ai ... cinq minutes » (terme attendu : « que ») :",
                     "acceptedAnswers": [
-                        "Je",
-                        "je",
-                        "Je"
+                        "que",
+                        "Que"
                     ],
-                    "explanation": "Le mot exact est « Je »."
+                    "explanation": "Le mot exact est « que »."
                 }
             ],
             "passThreshold": 0.8
@@ -3349,30 +3329,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Apply regular gender (-e) and number (-s) agreement rules to French de » :",
+                    "prompt": "Comment s'accorde l'adjectif régulier 'vert' avec le nom féminin singulier « la robe » ?",
                     "options": [
-                        "La robe verte est élégante.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (26a).",
-                        "Cette forme présente une anomalie phonétique en français standard (26b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (26c)."
+                        "La robe verte (ajout de -e au féminin)",
+                        "La robe vert",
+                        "La robe vertes",
+                        "La robe vertue"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'adjectif qualificatif s'accorde en genre avec le nom féminin en recevant la marque régulière '-e' (ce qui fait entendre la consonne finale /vɛʁt/)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u6-l1 :",
+                    "prompt": "Pourquoi l'adjectif 'français' ne change-t-il pas d'orthographe entre le masculin singulier et le masculin pluriel (un étudiant français / des étudiants français) ?",
                     "options": [
-                        "Les étudiants français sont sérieux.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (26x).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (26y).",
-                        "Cette forme présente une anomalie phonétique en français standard (26z)."
+                        "Parce que les adjectifs terminés par -s ou -x au singulier sont invariables au pluriel.",
+                        "Parce que c'est un nom propre invariable.",
+                        "Parce qu'il s'agit d'une exception verbale.",
+                        "Parce que le 's' est une consonne muette."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "En français, les adjectifs déjà terminés par un -s ou un -x au singulier ne prennent pas de 's' supplémentaire au pluriel."
                 }
             ]
         },
@@ -3380,25 +3360,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u6-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel accord adjectival au féminin pluriel est correctement orthographié pour qualifier des chaussures de couleur noire ?",
                     "options": [
-                        "La robe verte est élégante.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (26m).",
-                        "La préposition employée ici n'est pas commandée par le verbe (26n).",
-                        "Cette forme présente une anomalie phonétique en français standard (26p)."
+                        "Des chaussures noires (-es)",
+                        "Des chaussures noirs",
+                        "Des chaussures noir",
+                        "Des chaussures noire"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Le nom 'chaussures' étant féminin pluriel, l'adjectif prend la marque du féminin (-e) et du pluriel (-s) : 'noires'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u6-l1 (terme attendu : « La ») :",
+                    "prompt": "Saisissez l'adjectif régulier accordé au féminin singulier dans « La robe ... est élégante » (terme attendu : « verte ») :",
                     "acceptedAnswers": [
-                        "La",
-                        "la",
-                        "La"
+                        "verte",
+                        "Verte"
                     ],
-                    "explanation": "Le mot exact est « La »."
+                    "explanation": "Le mot exact est « verte »."
                 }
             ],
             "passThreshold": 0.8
@@ -3458,30 +3437,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Master irregular adjective morphology in French (beau, nouveau, vieux, » :",
+                    "prompt": "Quelle forme masculine singulière particulière prend l'adjectif 'beau' devant un nom commençant par une voyelle comme « appartement » ?",
                     "options": [
-                        "C'est un bel appartement dans un vieil immeuble.",
-                        "La préposition employée ici n'est pas commandée par le verbe (27a).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (27b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (27c)."
+                        "Un bel appartement (forme de liaison en -l)",
+                        "Un beau appartement",
+                        "Un belle appartement",
+                        "Un beaux appartement"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Devant un nom masculin débutant par une voyelle ou un h muet, beau, nouveau et vieux deviennent respectivement bel, nouvel et vieil."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u6-l2 :",
+                    "prompt": "Quel est le féminin régulier de l'adjectif de couleur 'blanc' ?",
                     "options": [
-                        "Elle a acheté une nouvelle voiture blanche.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (27x).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (27y).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (27z)."
+                        "Blanche (une voiture blanche)",
+                        "Blanque",
+                        "Blance",
+                        "Blanchie"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "Le féminin de l'adjectif 'blanc' s'écrit 'blanche' avec insertion du graphème 'ch'."
                 }
             ]
         },
@@ -3489,25 +3468,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u6-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Comment s'accorde l'adjectif 'nouveau' au masculin pluriel dans « de _____ projets » ?",
                     "options": [
-                        "C'est un bel appartement dans un vieil immeuble.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (27m).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (27n).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (27p)."
+                        "De nouveaux projets (-x au pluriel)",
+                        "De nouveaus projets",
+                        "De nouvels projets",
+                        "De nouvelles projets"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Les adjectifs en -eau prennent un -x final muet au pluriel masculin : 'nouveaux'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u6-l2 (terme attendu : « Cest ») :",
+                    "prompt": "Saisissez la forme spéciale de 'beau' devant voyelle dans « un ... appartement » (terme attendu : « bel ») :",
                     "acceptedAnswers": [
-                        "Cest",
-                        "cest",
-                        "Cest"
+                        "bel",
+                        "Bel"
                     ],
-                    "explanation": "Le mot exact est « Cest »."
+                    "explanation": "Le mot exact est « bel »."
                 }
             ],
             "passThreshold": 0.8
@@ -3568,30 +3546,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Position French descriptive adjectives correctly in standard post-nomi » :",
+                    "prompt": "Où se placent systématiquement en français les adjectifs de couleur et de nationalité par rapport au nom ?",
                     "options": [
-                        "J'ai acheté une chemise bleue et un pantalon noir.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (28a).",
-                        "La préposition employée ici n'est pas commandée par le verbe (28b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (28c)."
+                        "Après le nom (ex: une chemise bleue, la cuisine marocaine).",
+                        "Avant le nom (comme en anglais).",
+                        "Au début de la phrase.",
+                        "Toujours après le verbe conjugué."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La règle générale en français place les adjectifs distinctifs objectifs (couleurs, formes, nationalités, origines) après le substantif."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u6-l3 :",
+                    "prompt": "Quelle phrase illustre le positionnement post-nominal correct d'un adjectif de forme géométrique ?",
                     "options": [
-                        "Nous aimons la cuisine marocaine.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (28x).",
-                        "Cette forme présente une anomalie phonétique en français standard (28y).",
-                        "La préposition employée ici n'est pas commandée par le verbe (28z)."
+                        "C'est une table rectangulaire en bois.",
+                        "C'est une rectangulaire table en bois.",
+                        "C'est un bois table rectangulaire.",
+                        "C'est rectangulaire une table en bois."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "Les adjectifs décrivant une forme physique (ronde, carrée, rectangulaire) se placent obligatoirement après le nom."
                 }
             ]
         },
@@ -3599,25 +3577,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u6-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle est la structure syntaxique correcte pour désigner un pantalon de couleur noire ?",
                     "options": [
-                        "J'ai acheté une chemise bleue et un pantalon noir.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (28m).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (28n).",
-                        "La préposition employée ici n'est pas commandée par le verbe (28p)."
+                        "Un pantalon noir (post-nominal)",
+                        "Un noir pantalon",
+                        "Un noire pantalon",
+                        "Un pantalons noir"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "L'adjectif de couleur 'noir' suit obligatoirement le nom masculin 'pantalon'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u6-l3 (terme attendu : « Jai ») :",
+                    "prompt": "Saisissez l'adjectif de couleur féminin singulier placé après le nom dans « une chemise ... » (terme attendu : « bleue ») :",
                     "acceptedAnswers": [
-                        "Jai",
-                        "jai",
-                        "Jai"
+                        "bleue",
+                        "Bleue"
                     ],
-                    "explanation": "Le mot exact est « Jai »."
+                    "explanation": "Le mot exact est « bleue »."
                 }
             ],
             "passThreshold": 0.8
@@ -3679,30 +3656,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Apply the BANGS rule to identify and position the core group of high-f » :",
+                    "prompt": "D'après l'acronyme mnémotechnique BANGS (Beauty, Age, Number, Goodness, Size), quel adjectif se place AVANT le nom ?",
                     "options": [
-                        "C'est une très belle maison avec un grand jardin.",
-                        "Cette forme présente une anomalie phonétique en français standard (29a).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (29b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (29c)."
+                        "Un grand jardin (Size -> avant le nom)",
+                        "Un jardin vert (Couleur)",
+                        "Un jardin français (Nationalité)",
+                        "Un jardin circulaire (Forme)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Les adjectifs courts et fréquents relevant de la taille (grand, petit), de la beauté (beau, joli), de l'âge (jeune, vieux), du rang et de la bonté précèdent le nom."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u6-l4 :",
+                    "prompt": "Quand une phrase combine un adjectif BANGS et un adjectif de couleur pour qualifier une robe, quel ordre applique-t-on ?",
                     "options": [
-                        "J'ai rencontré un jeune homme sympathique.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (29x).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (29y).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (29z)."
+                        "Une jolie (BANGS avant) robe rouge (couleur après).",
+                        "Une rouge jolie robe.",
+                        "Une robe jolie rouge.",
+                        "Une robe rouge jolie."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "L'adjectif d'appréciation/beauté 'jolie' se place devant le nom, tandis que l'adjectif objectif de couleur 'rouge' se place après le nom."
                 }
             ]
         },
@@ -3710,25 +3687,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u6-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel adjectif BANGS exprimant la jeunesse précède correctement le substantif dans « un _____ homme » ?",
                     "options": [
-                        "C'est une très belle maison avec un grand jardin.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (29m).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (29n).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (29p)."
+                        "Un jeune homme (Age -> avant)",
+                        "Un homme jeune uniquement",
+                        "Un jeunesse homme",
+                        "Un gentiment homme"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "L'adjectif d'âge 'jeune' se place naturellement avant le substantif qu'il qualifie."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u6-l4 (terme attendu : « Cest ») :",
+                    "prompt": "Saisissez l'adjectif BANGS féminin de beauté dans « une ... maison » (terme attendu : « belle ») :",
                     "acceptedAnswers": [
-                        "Cest",
-                        "cest",
-                        "Cest"
+                        "belle",
+                        "Belle"
                     ],
-                    "explanation": "Le mot exact est « Cest »."
+                    "explanation": "Le mot exact est « belle »."
                 }
             ],
             "passThreshold": 0.8
@@ -3791,30 +3767,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Distinguish adjectives whose meaning fundamentally shifts depending on » :",
+                    "prompt": "Quelle différence de sens existe-t-il entre « un grand homme » (antéposé) et « un homme grand » (postposé) ?",
                     "options": [
-                        "Napoléon était un grand homme, mais ce n'était pas un homme grand.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (30a).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (30b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (30c)."
+                        "« Un grand homme » = un homme illustre/remarquable ; « un homme grand » = un homme de haute taille physique.",
+                        "Les deux expressions sont rigoureusement synonymes.",
+                        "« Un grand homme » désigne un vieillard.",
+                        "« Un homme grand » désigne un dirigeant politique."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Antéposé, 'grand' prend une valeur figurative et méliorative (illustre) ; postposé, il conserve sa valeur physique littérale de mesure corporelle."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u6-l5 :",
+                    "prompt": "Que signifie l'adjectif dans « ma propre chambre » par opposition à « une chambre propre » ?",
                     "options": [
-                        "Ce pauvre garçon n'a pas de chance, mais il n'est pas un garçon pauvre.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (30x).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (30y).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (30z)."
+                        "« Ma propre chambre » = ma chambre personnelle (possession) ; « une chambre propre » = une chambre nettoyée/hygiénique.",
+                        "« Ma propre chambre » = une chambre sale.",
+                        "« Une chambre propre » = une chambre vide.",
+                        "Les deux tournures expriment le coût du loyer."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "'Propre' antéposé insiste sur l'exclusivité de la possession (own), alors que postposé il qualifie la propreté matérielle (clean)."
                 }
             ]
         },
@@ -3822,23 +3798,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u6-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase illustre le sens d'affection de l'adjectif 'cher' antéposé au substantif ?",
                     "options": [
-                        "Napoléon était un grand homme, mais ce n'était pas un homme grand.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (30m).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (30n).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (30p)."
+                        "C'est un cher ami de la famille (ami précieux et aimé).",
+                        "Cette montre est un cher objet.",
+                        "J'achète une voiture chère ami.",
+                        "Le restaurant coûte un cher menu."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Devant le nom de personne, 'cher' exprime l'attachement affectif ('dear friend'), alors qu'après le nom il indique un prix élevé ('expensive')."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u6-l5 (terme attendu : « Napoléon ») :",
+                    "prompt": "Saisissez le premier nom propre historique dans « ... était un grand homme » (terme attendu : « Napoléon ») :",
                     "acceptedAnswers": [
                         "Napoléon",
                         "napoléon",
-                        "Napoléon"
+                        "Napoleon"
                     ],
                     "explanation": "Le mot exact est « Napoléon »."
                 }
@@ -3900,30 +3876,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Form the passé composé with auxiliary AVOIR and regular past participl » :",
+                    "prompt": "Quelle est la formation régulière du participe passé des verbes du 1er groupe en -er (ex: manger, parler) ?",
                     "options": [
-                        "Hier, j'ai mangé dans un bon restaurant.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (31a).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (31b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (31c)."
+                        "Le remplacement de -er par -é (mangé, parlé)",
+                        "L'ajout d'un -t final",
+                        "Le remplacement de -er par -u",
+                        "Le verbe reste invariable à l'infinitif"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Les verbes réguliers du premier groupe forment leur participe passé en remplaçant la terminaison infinitive -er par un -é aigu."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u7-l1 :",
+                    "prompt": "Comment conjugue-t-on le verbe régulier du 2e groupe 'finir' au passé composé avec le sujet 'tu' ?",
                     "options": [
-                        "Tu as fini ton projet à temps ?",
-                        "L'antériorité temporelle est mal établie par rapport au repère (31x).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (31y).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (31z)."
+                        "Tu as fini ton projet.",
+                        "Tu es fini ton projet.",
+                        "Tu as finu ton projet.",
+                        "Tu as finis ton projet."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "Le verbe finir prend l'auxiliaire avoir et a pour participe passé régulier en -i : 'tu as fini'."
                 }
             ]
         },
@@ -3931,23 +3907,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u7-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel est le participe passé régulier en -u du verbe du 3e groupe 'attendre' ?",
                     "options": [
-                        "Hier, j'ai mangé dans un bon restaurant.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (31m).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (31n).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (31p)."
+                        "Attendu (Nous avons attendu le train)",
+                        "Attendi",
+                        "Attendant",
+                        "Attendé"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Les verbes réguliers en -dre (attendre, vendre, répondre) forment leur participe passé en -u."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u7-l1 (terme attendu : « Hier ») :",
+                    "prompt": "Saisissez l'adverbe temporel en tête de phrase dans « ... j'ai mangé dans un bon restaurant » (terme attendu : « Hier ») :",
                     "acceptedAnswers": [
                         "Hier",
-                        "hier",
-                        "Hier"
+                        "hier"
                     ],
                     "explanation": "Le mot exact est « Hier »."
                 }
@@ -4014,30 +3989,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Master high-frequency irregular past participles used with auxiliary A » :",
+                    "prompt": "Quel est le participe passé irrégulier du verbe 'faire' dans « Qu'est-ce que tu as _____ ce week-end ? » ?",
                     "options": [
-                        "Qu'est-ce que tu as fait ce week-end ?",
-                        "La préposition employée ici n'est pas commandée par le verbe (32a).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (32b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (32c)."
+                        "fait (Qu'est-ce que tu as fait ?)",
+                        "fais",
+                        "faisez",
+                        "fai"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le verbe faire a pour participe passé irrégulier 'fait' avec un 't' final muet."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u7-l2 :",
+                    "prompt": "Comment se prononce le participe passé irrégulier du verbe 'avoir' dans « J'ai eu de la chance » ?",
                     "options": [
-                        "J'ai pris le train de huit heures.",
-                        "La préposition employée ici n'est pas commandée par le verbe (32x).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (32y).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (32z)."
+                        "Il s'écrit 'eu' mais se prononce comme la voyelle unique /y/ (u).",
+                        "Il se prononce /ø/ comme dans 'deux'.",
+                        "Il se prononce /ɛw/.",
+                        "Il se prononce /e/ comme 'été'."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "Le participe passé de l'auxiliaire avoir s'orthographie 'eu' et se prononce /y/ en français standard."
                 }
             ]
         },
@@ -4045,25 +4020,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u7-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase illustre le participe passé irrégulier en -is du verbe 'prendre' ?",
                     "options": [
-                        "Qu'est-ce que tu as fait ce week-end ?",
-                        "La préposition employée ici n'est pas commandée par le verbe (32m).",
-                        "Cette forme présente une anomalie phonétique en français standard (32n).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (32p)."
+                        "J'ai pris le train de huit heures.",
+                        "J'ai prendu le train de huit heures.",
+                        "J'ai prenné le train de huit heures.",
+                        "J'ai prendi le train de huit heures."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Prendre' et ses dérivés (apprendre, comprendre) ont leur participe passé en -is : 'pris', 'appris', 'compris'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u7-l2 (terme attendu : « Questce ») :",
+                    "prompt": "Saisissez le participe passé irrégulier du verbe faire dans « Tu as ... tes devoirs » (terme attendu : « fait ») :",
                     "acceptedAnswers": [
-                        "Questce",
-                        "questce",
-                        "Questce"
+                        "fait",
+                        "Fait"
                     ],
-                    "explanation": "Le mot exact est « Questce »."
+                    "explanation": "Le mot exact est « fait »."
                 }
             ],
             "passThreshold": 0.8
@@ -4124,30 +4098,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Identify the 17 verbs of movement and change of state that take auxili » :",
+                    "prompt": "Pourquoi le participe passé s'accorde-t-il dans la phrase « Elle est allée à Paris » ?",
                     "options": [
-                        "Elle est allée à Paris.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (33a).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (33b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (33c)."
+                        "Parce qu'avec l'auxiliaire ÊTRE, le participe passé s'accorde obligatoirement en genre et nombre avec le sujet.",
+                        "Parce que Paris est une ville féminine.",
+                        "Parce qu'il s'agit d'un verbe du premier groupe.",
+                        "C'est une option stylistique facultative."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La règle fondamentale de l'auxiliaire être au passé composé impose l'accord en genre et nombre du participe passé avec le sujet."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u7-l3 :",
+                    "prompt": "Quel verbe de déplacement de la règle DR & MRS VANDERTRAMP prend l'auxiliaire être au passé composé ?",
                     "options": [
-                        "Ils sont arrivés à l'heure.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (33x).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (33y).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (33z)."
+                        "Arriver (Ils sont arrivés à l'heure)",
+                        "Manger",
+                        "Acheter",
+                        "Travailler"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "Le verbe arriver fait partie des verbes intransitifs de mouvement se conjuguant avec l'auxiliaire être (DR MRS VANDERTRAMP)."
                 }
             ]
         },
@@ -4155,23 +4129,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u7-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel est le participe passé du verbe 'naître' accordé au féminin singulier dans « Marie est _____ en 1995 » ?",
                     "options": [
-                        "Elle est allée à Paris.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (33m).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (33n).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (33p)."
+                        "née (Marie est née)",
+                        "né",
+                        "naissante",
+                        "nais"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Le participe passé de naître est 'né', qui prend un -e au féminin avec l'auxiliaire être : 'née'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u7-l3 (terme attendu : « Elle ») :",
+                    "prompt": "Saisissez le pronom sujet féminin singulier dans « ... est allée à Paris » (terme attendu : « Elle ») :",
                     "acceptedAnswers": [
                         "Elle",
-                        "elle",
-                        "Elle"
+                        "elle"
                     ],
                     "explanation": "Le mot exact est « Elle »."
                 }
@@ -4233,30 +4206,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Apply subject agreement rules with auxiliary être and reflexive verbs  » :",
+                    "prompt": "Quel auxiliaire conjugue TOUS les verbes pronominaux (réfléchis) au passé composé (ex: se réveiller, se lever) ?",
                     "options": [
-                        "Elle s'est réveillée à sept heures.",
-                        "Cette forme présente une anomalie phonétique en français standard (34a).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (34b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (34c)."
+                        "L'auxiliaire ÊTRE (Elle s'est réveillée à sept heures)",
+                        "L'auxiliaire AVOIR",
+                        "L'auxiliaire FAIRE",
+                        "L'auxiliaire ALLER"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Tous les verbes pronominaux (se réveiller, se lever, se coucher) se conjuguent obligatoirement avec l'auxiliaire être au passé composé."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u7-l4 :",
+                    "prompt": "Pourquoi n'accorde-t-on PAS le participe passé dans « Elle s'est lavé les mains » ?",
                     "options": [
-                        "Nous nous sommes promenés dans le parc.",
-                        "Cette forme présente une anomalie phonétique en français standard (34x).",
-                        "La préposition employée ici n'est pas commandée par le verbe (34y).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (34z)."
+                        "Parce que le complément d'objet direct 'les mains' est placé APRÈS le verbe, le pronom réfléchi étant indirect.",
+                        "Parce que le mot 'mains' est masculin.",
+                        "Parce que le verbe laver est toujours invariable.",
+                        "C'est une exception réservée aux parties du corps."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "Quand un complément d'objet direct est placé après un verbe pronominal ('les mains'), le pronom 'se' a une fonction d'objet indirect : le participe reste donc invariable."
                 }
             ]
         },
@@ -4264,25 +4237,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u7-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase illustre l'accord correct au masculin pluriel d'un verbe réfléchi sans objet direct postérieur ?",
                     "options": [
-                        "Elle s'est réveillée à sept heures.",
-                        "Cette forme présente une anomalie phonétique en français standard (34m).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (34n).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (34p)."
+                        "Nous nous sommes promenés dans le parc.",
+                        "Nous nous sommes promené dans le parc.",
+                        "Nous nous avons promené dans le parc.",
+                        "Nous nous sommes promenées pour des garçons."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Le pronom réfléchi 'nous' (masculin pluriel) étant COD, le participe passé 'promenés' prend la marque du pluriel -s."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u7-l4 (terme attendu : « Elle ») :",
+                    "prompt": "Saisissez la forme conjuguée de être dans « Elle s'... réveillée à sept heures » (terme attendu : « est ») :",
                     "acceptedAnswers": [
-                        "Elle",
-                        "elle",
-                        "Elle"
+                        "est",
+                        "Est"
                     ],
-                    "explanation": "Le mot exact est « Elle »."
+                    "explanation": "Le mot exact est « est »."
                 }
             ],
             "passThreshold": 0.8
@@ -4345,30 +4317,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Place negative frames (ne...pas, ne...jamais, ne...rien) accurately ar » :",
+                    "prompt": "Où se placent les éléments de la négation 'ne...pas' dans un temps composé comme le passé composé ?",
                     "options": [
-                        "Je n'ai pas compris la question.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (35a).",
-                        "Cette construction passive alourdit inutilement l'énoncé (35b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (35c)."
+                        "Ils encadrent l'auxiliaire conjugué (ex: Je n'ai pas compris).",
+                        "Ils encadrent le participe passé.",
+                        "Ils se placent tous les deux après le participe passé.",
+                        "Ils se placent devant le sujet."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Dans les temps composés, la négation standard (ne...pas, ne...jamais, ne...rien) enserre directement l'auxiliaire avoir ou être."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u7-l5 :",
+                    "prompt": "Quelle est la SEULE négation qui se place après le participe passé au lieu d'encadrer l'auxiliaire ?",
                     "options": [
-                        "Nous n'avons rien acheté au marché.",
-                        "Cette construction passive alourdit inutilement l'énoncé (35x).",
-                        "Cette construction passive alourdit inutilement l'énoncé (35y).",
-                        "Cette construction passive alourdit inutilement l'énoncé (35z)."
+                        "PERSONNE (ex: Je n'ai vu personne).",
+                        "RIEN",
+                        "JAMAIS",
+                        "PAS"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "Le pronom négatif 'personne' fonctionne syntaxiquement comme un complément d'objet et se place en fin de proposition après le participe passé."
                 }
             ]
         },
@@ -4376,25 +4348,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u7-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase applique rigoureusement la négation avec le pronom 'rien' au passé composé ?",
                     "options": [
-                        "Je n'ai pas compris la question.",
-                        "Cette construction passive alourdit inutilement l'énoncé (35m).",
-                        "Cette construction passive alourdit inutilement l'énoncé (35n).",
-                        "Cette construction passive alourdit inutilement l'énoncé (35p)."
+                        "Nous n'avons rien acheté au marché.",
+                        "Nous n'avons acheté rien au marché.",
+                        "Nous avons rien n'acheté au marché.",
+                        "Nous ne rien avons pas acheté au marché."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Rien' s'insère directement entre l'auxiliaire et le participe passé : 'n'avons rien acheté'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u7-l5 (terme attendu : « Je ») :",
+                    "prompt": "Saisissez la deuxième partie de la négation dans « Je n'ai ... compris la question » (terme attendu : « pas ») :",
                     "acceptedAnswers": [
-                        "Je",
-                        "je",
-                        "Je"
+                        "pas",
+                        "Pas"
                     ],
-                    "explanation": "Le mot exact est « Je »."
+                    "explanation": "Le mot exact est « pas »."
                 }
             ],
             "passThreshold": 0.8
@@ -4454,30 +4425,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Form the imperfect tense (l'imparfait) by taking the present tense 'no » :",
+                    "prompt": "Comment trouve-t-on le radical régulier de l'imparfait pour presque tous les verbes français ?",
                     "options": [
-                        "Quand j'étais jeune, je parlais souvent avec mes grands-parents.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (36a).",
-                        "Cette forme présente une anomalie phonétique en français standard (36b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (36c)."
+                        "On prend la forme 'nous' du présent et on retranche la terminaison '-ons'.",
+                        "On prend l'infinitif sans modification.",
+                        "On prend le participe passé.",
+                        "On prend la forme 'ils' du futur simple."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Pour former l'imparfait, on isole le radical en retirant la terminaison '-ons' de la 1re personne du pluriel (nous) du présent de l'indicatif."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u8-l1 :",
+                    "prompt": "Quelle est la terminaison de l'imparfait avec le sujet 'nous' pour le verbe 'finir' (nous finissons au présent) ?",
                     "options": [
-                        "Nous finissions nos devoirs avant le dîner.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (36x).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (36y).",
-                        "Cette forme présente une anomalie phonétique en français standard (36z)."
+                        "-ions (Nous finissions nos devoirs)",
+                        "-iez",
+                        "-ons",
+                        "-ais"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "Avec le sujet 'nous', la terminaison universelle de l'imparfait est '-ions' (finiss- + -ions = finissions)."
                 }
             ]
         },
@@ -4485,25 +4456,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u8-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase conjugue correctement le verbe 'parler' à la 1re personne du singulier de l'imparfait ?",
                     "options": [
                         "Quand j'étais jeune, je parlais souvent avec mes grands-parents.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (36m).",
-                        "La préposition employée ici n'est pas commandée par le verbe (36n).",
-                        "Cette forme présente une anomalie phonétique en français standard (36p)."
+                        "Quand j'étais jeune, je parlait souvent.",
+                        "Quand j'étais jeune, je parlions souvent.",
+                        "Quand j'étais jeune, je parlerez souvent."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "La 1re personne du singulier prend la terminaison '-ais' : 'je parlais'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u8-l1 (terme attendu : « Quand ») :",
+                    "prompt": "Saisissez la terminaison de l'imparfait pour le pronom 'je' (terme attendu : « ais ») :",
                     "acceptedAnswers": [
-                        "Quand",
-                        "quand",
-                        "Quand"
+                        "ais",
+                        "Ais"
                     ],
-                    "explanation": "Le mot exact est « Quand »."
+                    "explanation": "Le mot exact est « ais »."
                 }
             ],
             "passThreshold": 0.8
@@ -4563,30 +4533,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Conjugate the sole irregular stem verb in l'imparfait: ÊTRE (j'étais,  » :",
+                    "prompt": "Quel est le SEUL verbe de toute la langue française possédant un radical irrégulier à l'imparfait ?",
                     "options": [
-                        "Quand j'étais petit, j'aimais les animaux.",
-                        "La préposition employée ici n'est pas commandée par le verbe (37a).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (37b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (37c)."
+                        "Le verbe ÊTRE (radical : ét- -> j'étais)",
+                        "Le verbe AVOIR",
+                        "Le verbe FAIRE",
+                        "Le verbe ALLER"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Être est l'unique verbe irrégulier à l'imparfait car sa forme 'nous sommes' ne possède pas la terminaison '-ons' : il prend le radical ét-."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u8-l2 :",
+                    "prompt": "Comment conjugue-t-on le verbe être à l'imparfait avec le sujet 'nous' ?",
                     "options": [
-                        "Elle était très heureuse d'apprendre la nouvelle.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (37x).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (37y).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (37z)."
+                        "Nous étions en vacances au bord de la mer.",
+                        "Nous étiez en vacances.",
+                        "Nous sommions en vacances.",
+                        "Nous serions en vacances."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "Le radical 'ét-' combiné à la terminaison '-ions' forme 'nous étions'."
                 }
             ]
         },
@@ -4594,25 +4564,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u8-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase illustre la conjugaison correcte de 'être' à la 3e personne du singulier de l'imparfait ?",
                     "options": [
-                        "Quand j'étais petit, j'aimais les animaux.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (37m).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (37n).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (37p)."
+                        "Elle était très heureuse d'apprendre la nouvelle.",
+                        "Elle étais très heureuse d'apprendre la nouvelle.",
+                        "Elle étiez très heureuse d'apprendre la nouvelle.",
+                        "Elle étant très heureuse d'apprendre la nouvelle."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Avec elle/il/on, la terminaison est '-ait' : 'elle était'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u8-l2 (terme attendu : « Quand ») :",
+                    "prompt": "Saisissez le radical unique de l'imparfait du verbe être (terme attendu : « ét ») :",
                     "acceptedAnswers": [
-                        "Quand",
-                        "quand",
-                        "Quand"
+                        "ét",
+                        "et",
+                        "Ét"
                     ],
-                    "explanation": "Le mot exact est « Quand »."
+                    "explanation": "Le mot exact est « ét »."
                 }
             ],
             "passThreshold": 0.8
@@ -6802,30 +6772,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Use l'imparfait to describe recurring habits, repeated routines, and c » :",
+                    "prompt": "Quelle tournure temporelle signale typiquement une habitude passée exigeant l'imparfait ?",
                     "options": [
-                        "Tous les étés, nous allions à la mer.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (58a).",
-                        "La préposition employée ici n'est pas commandée par le verbe (58b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (58c)."
+                        "Tous les étés / Le dimanche (actions récurrentes sans borne)",
+                        "Soudain",
+                        "Hier à midi pile",
+                        "Tout à coup"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Les expressions de récurrence (tous les jours, le dimanche, d'habitude, autrefois) décrivent des habitudes répétées et appellent l'imparfait."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u8-l3 :",
+                    "prompt": "Quelle phrase exprime une habitude sportive d'enfance répétée régulièrement ?",
                     "options": [
                         "Quand j'étais petit, je jouais au football tous les jours.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (58x).",
-                        "Cette forme présente une anomalie phonétique en français standard (58y).",
-                        "La préposition employée ici n'est pas commandée par le verbe (58z)."
+                        "Quand j'étais petit, j'ai joué au football une seule fois.",
+                        "Demain, je jouerai au football avec mes amis.",
+                        "Je joue au football en ce moment."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "'Je jouais au football tous les jours' utilise l'imparfait d'habitude pour une pratique itérative passée."
                 }
             ]
         },
@@ -6833,23 +6803,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u8-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase traduit l'habitude dominicale passée chez les grands-parents ?",
                     "options": [
-                        "Tous les étés, nous allions à la mer.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (58m).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (58n).",
-                        "La préposition employée ici n'est pas commandée par le verbe (58p)."
+                        "Le dimanche, nous dînions chez nos grands-parents.",
+                        "Le dimanche, nous avons dîné une fois chez nos grands-parents.",
+                        "Le dimanche, nous dînerons chez nos grands-parents.",
+                        "Le dimanche, nous dîner chez nos grands-parents."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Le dimanche, nous dînions...' exprime la répétition rituelle chaque semaine à l'imparfait."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u8-l3 (terme attendu : « Tous ») :",
+                    "prompt": "Saisissez l'adjectif indéfini pluriel temporel dans « ... les étés, nous allions à la mer » (terme attendu : « Tous ») :",
                     "acceptedAnswers": [
                         "Tous",
-                        "tous",
-                        "Tous"
+                        "tous"
                     ],
                     "explanation": "Le mot exact est « Tous »."
                 }
@@ -6913,30 +6882,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Deploy l'imparfait to set the scene: describe weather, physical scener » :",
+                    "prompt": "Pourquoi emploie-t-on l'imparfait pour décrire la météo et l'atmosphère dans « Il pleuvait et la nuit était sombre » ?",
                     "options": [
-                        "Il pleuvait et la nuit était sombre.",
-                        "Cette forme présente une anomalie phonétique en français standard (59a).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (59b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (59c)."
+                        "Parce que l'imparfait sert à planter le décor et peindre les conditions continues d'arrière-plan.",
+                        "Parce que la pluie est un phénomène futur.",
+                        "Parce qu'il s'agit d'une interruption ponctuelle.",
+                        "Parce que c'est une subordonnée conditionnelle."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'imparfait a une valeur descriptive permettant de dépeindre le cadre spatio-temporel, l'ambiance et la météo."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u8-l4 :",
+                    "prompt": "Quelle phrase décrit une sensation physique interne ressentie continuellement dans le passé ?",
                     "options": [
-                        "Le château avait de grandes fenêtres anciennes.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (59x).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (59y).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (59z)."
+                        "Nous avions très faim après la longue marche.",
+                        "Nous avons eu faim subitement pendant deux secondes.",
+                        "Nous aurons faim plus tard.",
+                        "Nous avons faim maintenant."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "Les états physiologiques et psychologiques (avoir faim, avoir soif, avoir peur) se décrivent à l'imparfait dans un récit."
                 }
             ]
         },
@@ -6944,25 +6913,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u8-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel temps verbal convient pour décrire l'architecture ancienne d'un château dans un récit ?",
                     "options": [
-                        "Il pleuvait et la nuit était sombre.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (59m).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (59n).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (59p)."
+                        "L'imparfait : Le château avait de grandes fenêtres anciennes.",
+                        "Le futur simple : Le château aura de grandes fenêtres.",
+                        "Le subjonctif : Que le château ait de grandes fenêtres.",
+                        "L'impératif : Aie de grandes fenêtres."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "La description physique d'un bâtiment dans le passé s'exprime à l'imparfait."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u8-l4 (terme attendu : « Il ») :",
+                    "prompt": "Saisissez la forme à l'imparfait du verbe pleuvoir dans « Il ... et la nuit était sombre » (terme attendu : « pleuvait ») :",
                     "acceptedAnswers": [
-                        "Il",
-                        "il",
-                        "Il"
+                        "pleuvait",
+                        "Pleuvait"
                     ],
-                    "explanation": "Le mot exact est « Il »."
+                    "explanation": "Le mot exact est « pleuvait »."
                 }
             ],
             "passThreshold": 0.8
@@ -7025,30 +6993,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Combine l'imparfait (ongoing background action) with passé composé (in » :",
+                    "prompt": "Dans la phrase « Je dormais quand le téléphone a sonné », quelle est la fonction respective de chaque temps ?",
                     "options": [
-                        "Je dormais quand le téléphone a sonné.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (60a).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (60b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (60c)."
+                        "'Dormais' (imparfait) = action continue d'arrière-plan ; 'a sonné' (passé composé) = événement ponctuel qui interrompt.",
+                        "'Dormais' = action future ; 'a sonné' = habitude.",
+                        "Les deux verbes expriment des actions instantanées.",
+                        "'Dormais' est au passé simple."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'imparfait décrit l'action déjà en cours dans le décor sonore/visuel, et le passé composé marque l'irruption soudaine qui coupe cette continuité."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u8-l5 :",
+                    "prompt": "Quelle conjonction introduit typiquement la proposition à l'imparfait dans une scène d'interruption ?",
                     "options": [
-                        "Pendant que nous mangions, Pierre est arrivé.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (60x).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (60y).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (60z)."
+                        "Pendant que (Pendant que nous mangions, Pierre est arrivé)",
+                        "Soudain",
+                        "Tout à coup",
+                        "Hier soir"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "'Pendant que' (while) introduit la proposition exprimant la durée continue à l'imparfait."
                 }
             ]
         },
@@ -7056,25 +7024,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u8-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase illustre parfaitement l'interruption d'une marche par une observation visuelle soudaine ?",
                     "options": [
-                        "Je dormais quand le téléphone a sonné.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (60m).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (60n).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (60p)."
+                        "Elle traversait la rue quand elle a vu son ami.",
+                        "Elle a traversé la rue quand elle voyait son ami.",
+                        "Elle traversait la rue quand elle voyait son ami.",
+                        "Elle traverser la rue quand elle a vu son ami."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Traversait' (imparfait, en cours) + 'a vu' (passé composé, événement ponctuel)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u8-l5 (terme attendu : « Je ») :",
+                    "prompt": "Saisissez la forme à l'imparfait du verbe dormir (sujet 'je') dans « Je ... quand le téléphone a sonné » (terme attendu : « dormais ») :",
                     "acceptedAnswers": [
-                        "Je",
-                        "je",
-                        "Je"
+                        "dormais",
+                        "Dormais"
                     ],
-                    "explanation": "Le mot exact est « Je »."
+                    "explanation": "Le mot exact est « dormais »."
                 }
             ],
             "passThreshold": 0.8
@@ -7134,30 +7101,30 @@
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Form the conditionnel présent by attaching imperfect endings (-ais, -a » :",
+                    "prompt": "Comment se forme le conditionnel présent en français ?",
                     "options": [
-                        "J'aimerais visiter le musée du Louvre.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (61a).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (61b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (61c)."
+                        "Radical du futur simple + terminaisons de l'imparfait (-ais, -ais, -ait, -ions, -iez, -aient).",
+                        "Radical du présent + terminaisons du futur.",
+                        "Infinitif complet + terminaisons du subjonctif.",
+                        "Participe passé + auxiliaire avoir."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le conditionnel présent se construit en greffant les terminaisons de l'imparfait sur le radical du futur simple (ex: parler- + -ais = je parlerais ; ser- + -ais = je serais)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u13-l1 :",
+                    "prompt": "Quel est le conditionnel présent du verbe de modalité 'pouvoir' avec le sujet 'nous' ?",
                     "options": [
-                        "Nous pourrions partir ensemble ce week-end.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (61x).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (61y).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (61z)."
+                        "Nous pourrions (radical futur pourr- + terminaison imparfait -ions)",
+                        "Nous pouvons",
+                        "Nous pouvions",
+                        "Nous pourrons"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "'Pouvoir' a pour radical du futur/conditionnel 'pourr-', auquel on ajoute '-ions' : 'nous pourrions'."
                 }
             ]
         },
@@ -7165,25 +7132,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u13-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase exprime un souhait poli au conditionnel présent avec le verbe 'aimer' ?",
                     "options": [
                         "J'aimerais visiter le musée du Louvre.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (61m).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (61n).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (61p)."
+                        "J'ai aimé visiter le musée du Louvre.",
+                        "J'aimais visiter le musée du Louvre autrefois.",
+                        "J'aimerai visiter le musée demain."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'J'aimerais' utilise le conditionnel présent de politesse pour exprimer un souhait ou une intention mesurée."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u13-l1 (terme attendu : « Jaimerais ») :",
+                    "prompt": "Saisissez la forme au conditionnel présent de aimer (sujet 'je') dans « J'... visiter le Louvre » (terme attendu : « aimerais ») :",
                     "acceptedAnswers": [
-                        "Jaimerais",
-                        "jaimerais",
-                        "Jaimerais"
+                        "aimerais",
+                        "Aimerais"
                     ],
-                    "explanation": "Le mot exact est « Jaimerais »."
+                    "explanation": "Le mot exact est « aimerais »."
                 }
             ],
             "passThreshold": 0.8
