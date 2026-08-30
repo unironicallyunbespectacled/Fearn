@@ -13195,53 +13195,62 @@
     "subject": "ukrainian",
     "unit": 32,
     "lessonNumber": 1,
-    "title": "Міжнародна дипломатія та багатосторонні договори (Diplomacy) (Part 1)",
+    "title": "Дипломатичний протокол, ранг дипломатів та двосторонні переговори",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 32.1) with authentic linguistic precision.",
+    "objective": "Опанувати термінологію та церемоніал дипломатичного протоколу (вірчі грамоти, агреман, персона нон ґрата, вербальні ноти, дипломатичні ранги).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Дипломатичний протокол регламентує порядок офіційних зносин між суверенними державами відповідно до Віденської конвенції про дипломатичні зносини 1961 року:\n\n1. Дипломатичні представництва та посадові ранги:\n   - *«Надзвичайний і Повноважний Посол»* — вищий дипломатичний клас і ранг Глави дипломатичного представництва;\n   - *«Тимчасовий повірений у справах (Chargé d'affaires ad interim)»*;\n   - *«Радник-посланник, перший/другий/третій секретар, аташе (військовий, культурний, пресаташе)»*;\n   - *«Дипломатичний корпус (Corps Diplomatique — CD) та дуаєн дипломатичного корпусу»*.\n\n2. Акредитація та завершення місії:\n   - *«Запит на агреман»* — попередня згода уряду держави перебування на призначення конкретної особи послом;\n   - *«Вірчі грамоти (Lettres de créance)»* — офіційний документ, який Посол вручає Главі держави перебування на урочистій церемонії;\n   - *«Відкличні грамоти»* — документ про відкликання попереднього посла;\n   - *«Оголошення персоною нон ґрата (Persona non grata)»* — оголошення дипломата небажаною особою з вимогою виїзду з країни.\n\n3. Дипломатичне листування та документація:\n   - *«Вербальна нота»* — офіційний документ без підпису від третьої особи (із сургучевою печаткою посольства);\n   - *«Особиста нота»* — від першої особи на фірмовому бланку посла;\n   - *«Меморандум про взаєморозуміння (Memorandum of Understanding — MoU) та спільне комюніке»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Новопризначений Надзвичайний і Повноважний Посол вручив вірчі грамоти Президентові України під час офіційної церемонії в Маріїнському палаці.",
+          "reading": "[nɔwɔprɪzˈnɑtʃɛnɪj nɐdzwɪˈtʃɑjnɪj i pɔwnɔˈwɑʒnɪj ˈpɔsɔl wruˈtʃɪw ˈwʲirtʃʲi ˈɦrɑmɔtɪ prɛzɪˈdɛntɔwʲi ukrɐˈjinɪ pʲid tʃɑs ɔfʲit͡sʲijˈnɔji t͡sɛrɛˈmɔnʲiji w mɐrʲiˈjinsʲkɔmu pɐˈlɑt͡sʲi] (noh-woh-pryz-NAH-cheh-nyy nahd-zwy-CHAHY-nyy ee pohv-noh-VAHZH-nyy POH-sohl vroo-CHYV VEER-chee HRAH-moh-ty preh-zy-DEHN-toh-wee oo-krah-YEE-ny peed chahs oh-fee-tseey-NOH-yee tseh-reh-MOH-nee-yee v mah-ree-YEEN-s'koh-moo pah-LAH-tsee)",
+          "translation": "The newly appointed Ambassador Extraordinary and Plenipotentiary presented letters of credence to the President of Ukraine during an official ceremony at the Mariyinsky Palace."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 32-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Міністерство закордонних справ надіслало вербальну ноту протесту з вимогою негайного припинення провокаційних дій.",
+          "reading": "[mʲinʲisˈtɛrstxɔ zɐkɔrˈdɔnnɪx sprɑw nɐdʲisˈlɑlɔ wɛrˈbɑlʲnu ˈnɔtu prɔˈtɛstu z ˈwɪmɔɦɔju nɛˈɦɑjnɔɦɔ prɪpɪˈnɛnʲːɑ prɔwɔkɐt͡sʲijˈnɪx dʲij] (mee-nees-TEHR-stvah zah-kohr-DOHN-nykh SPRAHV nah-dees-LAH-loh wehr-BAHL'-noo NOH-too proh-TEHS-too z VY-moh-hoh-yoo neh-HAHY-noh-hoh pry-py-NEN-nyah proh-woh-kah-tseey-NYKH deey)",
+          "translation": "The Ministry of Foreign Affairs sent a verbal note of protest demanding the immediate cessation of provocative actions."
+        },
+        {
+          "target": "У відповідь на шпигунську діяльність держава перебування оголосила трьох співробітників посольства персонами нон ґрата.",
+          "reading": "[u wʲidpɔˈwʲidʲ nɑ ʃpɪˈɦunsʲku dʲiˈjɑlʲnʲisʲtʲ dɛrˈʒɑwɐ pɛrɛbuˈwɑnʲːɑ ɔɦɔlɔˈsɪlɐ trʲɔx spʲiwrɔˈbʲitnɪkʲiw pɔˈsɔlʲstxɐ pɛrˈsɔnɐmɪ nɔn ˈɦrɑtɐ] (oo veed-poh-VEED' nah shpy-HOON-s'koo dee-YAHL'-neest' dehr-ZHAH-wah peh-reh-boo-VAHN-nyah oh-hoh-loh-SY-lah tryohkh speew-roh-BEET-ny-keew poh-SOHL'-stvah pehr-SOH-nah-my nohn HRAH-tah)",
+          "translation": "In response to espionage activities, the receiving state declared three embassy staff members personae non gratae."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Дозвіл на посла — «агреман»; документ про повноваження — «вірчі грамоти»; нота без підпису — «вербальна нота»; видворення — «persona non grata»!"
+      ],
+      "culturalNotes": [
+        "Дипломатична служба України веде свій родовід від Генерального секретарства міжнародних справ УНР, заснованого у грудні 1917 року."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Бізнес\":",
+          "prompt": "Як у дипломатичному протоколі називається попередня згода уряду держави перебування на призначення глави дипломатичного представництва іншої держави?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.1.",
-            "Неправильне відмінкове узгодження зі словом «Договір»",
-            "Порушення законів евфонії та словотворення для «Підпис»",
-            "Стилістично некоректна синтаксична конструкція з «Документ»"
+            "Агреман (Agrément - prior approval for an ambassador)",
+            "Акредитація",
+            "Екзекватура",
+            "Ратифікація"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Попередня офіційна згода на призначення посла називається «агреманом» (agrément)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Бізнес\":",
+          "prompt": "Як називається офіційний дипломатичний документ від третьої особи, що надсилається між міністерствами закордонних справ та посольствами?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.1.",
-            "Порушення законів евфонії та словотворення для «Підпис»",
-            "Стилістично некоректна синтаксична конструкція з «Документ»",
-            "Неправильне відмінкове узгодження зі словом «Договір»"
+            "Вербальна нота (Note verbale - unsigned formal third-person diplomatic note)",
+            "Особистий лист",
+            "Дипломатична телеграма",
+            "Циркулярний лист"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Офіційне листування від третьої особи оформлюється у вигляді «вербальної ноти» (Note verbale)."
         }
       ]
     },
@@ -13249,17 +13258,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Бізнес\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому дипломатичні протокольні формулювання вжито бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.1.",
-            "Стилістично некоректна синтаксична конструкція з «Документ»",
-            "Неправильне відмінкове узгодження зі словом «Договір»",
-            "Порушення законів евфонії та словотворення для «Підпис»"
+            "Після отримання агреману Надзвичайний і Повноважний Посол прибув до столиці та вручив копії вірчих грамот керівництву протокольної служби МЗС.",
+            "Посол приїхав у гості без агреману і зразу почав працювати без документів.",
+            "Президент вигнав посла без оголошення персоною нон ґрата по телевізору.",
+            "Вербальна нота була підписана всіма міністрами в особистому щоденнику."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Після отримання агреману Надзвичайний і Повноважний Посол... вручив копії вірчих грамот...» — досконала мова дипломатичного протоколу."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u32-l2": {
@@ -13267,53 +13277,62 @@
     "subject": "ukrainian",
     "unit": 32,
     "lessonNumber": 2,
-    "title": "Міжнародна дипломатія та багатосторонні договори (Diplomacy) (Part 2)",
+    "title": "Право міжнародних договорів, ратифікація та Віденська конвенція",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 32.2) with authentic linguistic precision.",
+    "objective": "Опанувати договірне право (Віденська конвенція 1969 р., парафування, ратифікація, застереження, денонсація, депозитарій).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Право міжнародних договорів є ядром міжнародного публічного права та регламентується Віденською конвенцією про право міжнародних договорів 1969 року та Законом України «Про міжнародні договори України»:\n\n1. Стадії укладення міжнародного договору:\n   - *«Надання повноважень на ведення переговорів та підписання»*;\n   - *«Парафування тексту договору»* — скріплення кожної сторінки ініціалами уповноважених осіб на знак узгодження фінального тексту;\n   - *«Підписання ad referendum»* — підписання, яке підлягає подальшому схваленню компетентним органом;\n   - *«Остаточне підписання тексту договору»*.\n\n2. Набрання чинності та форми вираження згоди:\n   - *«Ратифікація»* — ухвалення спеціального закону Верховною Радою України про надання обов'язковості договору;\n   - *«Ратифікаційна грамота»* — офіційний документ, який підписує Президент та скріплює міністр закордонних справ;\n   - *«Обмін ратифікаційними грамотами або здача на зберігання депозитарію»*;\n   - *«Застереження до міжнародного договору (Reservation)»*;\n   - *«Денонсація (розірвання) міжнародного договору»*.\n\n3. Фундаментальний принцип міжнародного права:\n   - *«Pacta sunt servanda» (Договори повинні виконуватися добросовісно)*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Верховна Рада України ратифікувала Римський статут Міжнародного кримінального суду із застереженням щодо захисту національних військовослужбовців.",
+          "reading": "[wɛrˈxɔwnɐ ˈrɑdɐ ukrɐˈjinɪ rɐtɪfʲikuˈwɑlɐ ˈrɪmsʲkɪj stɐˈtut mʲiʒnɐˈrɔdnɔɦɔ krɪmʲiˈnɑlʲnɔɦɔ ˈsudu iz zɐstɛˈrɛʒɛnnʲɐm ʃtʃɔˈdɔ zɑˈxɪstu nɐt͡sʲiɔˈnɑlʲnɪx wʲijʲsʲkɔwɔsluʒˈbɔwt͡sʲiw] (wehr-KHOHV-nah RAH-dah oo-krah-YEE-ny rah-ty-fee-koo-VAH-lah RYM-s'kyy stah-TOOT meezh-nah-ROHD-noh-hoh kry-mee-NAHL'-noh-hoh SOO-doo eez zahs-teh-REH-zhen-nyahm shchoh-DOH zah-KHYS-too nah-tsee-oh-NAHL'-nykh veey-s'koh-woh-sloozh-BOHV-tseew)",
+          "translation": "The Verkhovna Rada of Ukraine ratified the Rome Statute of the International Criminal Court with a reservation regarding the protection of national military personnel."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 32-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Договір набирає чинності з моменту передачі тридцятої ратифікаційної грамоти на зберігання депозитарію Генеральному секретарю ООН.",
+          "reading": "[ˈdɔɦɔwʲir nɐbʲiˈrɑjɛ ˈt͡ʃɪnnɔsʲtʲi z mɔˈmɛntu pɛrɛˈdɑtʃʲi trɪdʲˈt͡sʲɑtɔji rɐtɪfʲikɐt͡sʲijˈnɔji ˈɦrɑmɔtɪ nɑ zbɛrɛˈʒɛnʲːɑ dɛpɔzɪˈtɑrʲiju ɦɛnɛˈrɑlʲnɔmu sɛkrɛtɐˈrʲu ɔ ɔ ɛn] (DOH-hoh-weer nah-bee-RAH-yeh CHEEN-nohs-tee z moh-MEHN-too peh-reh-DAH-chee try-TSYAH-toh-yee rah-ty-fee-kah-tseey-NOH-yee HRAH-moh-ty nah zbeh-reh-ZHEN-nyah deh-poh-zy-TAH-ree-yoo heh-neh-RAHL'-noh-moo seh-kreh-tah-RYOO oh oh ehn)",
+          "translation": "The treaty enters into force from the moment the thirtieth instrument of ratification is deposited with the depositary, the Secretary-General of the UN."
+        },
+        {
+          "target": "Принцип «Pacta sunt servanda» покладає на сторони обов'язок неухильного та сумлінного виконання міжнародних зобов'язань.",
+          "reading": "[ˈprɪnt͡sɪp ˈpɑktɐ sunt sɛrˈwɑndɐ pɔklɐˈdɑjɛ nɑ stɔrɔˈnɪ ɔbɔwˈjɑzɔk nɛuˈxʲilʲnɔɦɔ tɑ sumˈlʲinnɔɦɔ wɪkɔˈnɑnʲːɑ mʲiʒnɐˈrɔdnɪx zɔbɔwˈjɑzɐnʲ] (PRYN-tsyp PAHK-tah soont sehr-VAHN-dah poh-klah-DAH-yeh nah stoh-roh-NY oh-bov-YAH-zohk neh-oo-KHEEL'-noh-hoh tah soom-LEEN-noh-hoh vy-koh-NAHN-nyah meezh-nah-ROHD-nykh zoh-bov-YAH-zahn')",
+          "translation": "The principle 'Pacta sunt servanda' imposes on the parties the duty of strict and conscientious fulfillment of international obligations."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Парафування — ініціали на кожній сторінці; Ратифікація — закон парламенту; Зберігач договору — «депозитарій»; Закон виконання — «Pacta sunt servanda»!"
+      ],
+      "culturalNotes": [
+        "Згідно зі статтею 9 Конституції України чинні міжнародні договори, згода на обов'язковість яких надана Верховною Радою, є частиною національного законодавства."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Договір\":",
+          "prompt": "Як називається юридична дія, за допомогою якої парламент надає остаточну згоду держави на обов'язковість міжнародного договору?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.2.",
-            "Неправильне відмінкове узгодження зі словом «Підпис»",
-            "Порушення законів евфонії та словотворення для «Документ»",
-            "Стилістично некоректна синтаксична конструкція з «Закон»"
+            "Ратифікація (Ratification - legislative enactment of international treaties)",
+            "Парафування",
+            "Акредитація",
+            "Імплементація"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Надання згоди парламентом на обов'язковість міжнародного договору називається «ратифікацією»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Договір\":",
+          "prompt": "Як у праві міжнародних договорів називається держава чи міжнародна організація, якій передаються на зберігання оригінал договору та ратифікаційні грамоти?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.2.",
-            "Порушення законів евфонії та словотворення для «Документ»",
-            "Стилістично некоректна синтаксична конструкція з «Закон»",
-            "Неправильне відмінкове узгодження зі словом «Підпис»"
+            "Депозитарій (Depositary - custodian of international treaties)",
+            "Бенефіціар",
+            "Гарант",
+            "Посередник"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Зберігач оригіналу міжнародного договору називається «депозитарієм» (depositary)."
         }
       ]
     },
@@ -13321,17 +13340,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Договір\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому норми міжнародного договірного права сформульовано з абсолютною точністю:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.2.",
-            "Стилістично некоректна синтаксична конструкція з «Закон»",
-            "Неправильне відмінкове узгодження зі словом «Підпис»",
-            "Порушення законів евфонії та словотворення для «Документ»"
+            "Після парафування тексту міністрами закон про ратифікацію був ухвалений парламентом, а ратифікаційну грамоту передано на зберігання депозитарію.",
+            "Договір став обов'язковим після усної розмови дипломатів без ратифікації.",
+            "Депозитарій заборонив парламенту читати текст договору перед підписом.",
+            "Принцип Pacta sunt servanda дозволяє порушувати договори коли завгодно."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Після парафування тексту міністрами закон про ратифікацію був ухвалений парламентом...» — бездоганна міжнародно-договірна термінологія."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u32-l3": {
@@ -13339,53 +13359,62 @@
     "subject": "ukrainian",
     "unit": 32,
     "lessonNumber": 3,
-    "title": "Міжнародна дипломатія та багатосторонні договори (Diplomacy) (Part 3)",
+    "title": "Багатостороння дипломатія, ООН, Рада Європи та реформа архітектури безпеки",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 32.3) with authentic linguistic precision.",
+    "objective": "Опанувати багатосторонній дипломатичний дискурс (ГА ООН, Рада Безпеки, право вето, ПАРЄ, ОБСЄ, реформа Статуту ООН).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Багатостороння дипломатія (Multilateral Diplomacy) здійснюється в межах універсальних та регіональних міжнародних міжурядових організацій:\n\n1. Організація Об'єднаних Націй (ООН):\n   - *«Генеральна Асамблея ООН (ГА ООН)»* — головний дорадчий орган усіх держав-членів (ухвалює декларації та резолюції);\n   - *«Рада Безпеки ООН (РБ ООН)»* — орган, відповідальний за підтримання міжнародного миру і безпеки (5 постійних членів: США, Велика Британія, Франція, Китай та РФ, плюс 10 непостійних членів);\n   - *«Право вето (Veto Power)»* та зловживання ним державою-агресором;\n   - *«Глава VII Статуту ООН»* — дії щодо загрози миру, порушень миру та актів агресії (санкції, застосування збройних сил);\n   - *«Миротворчі операції ООН («блакитні шоломи»)»*.\n\n2. Європейські інституції безпеки та співробітництва:\n   - *«Рада Європи та Парламентська асамблея Ради Європи (ПАРЄ)»* (виключення РФ у 2022 р.);\n   - *«Організація з безпеки і співробітництва в Європі (ОБСЄ)»* (Гельсінський заключний акт 1975 р. — принцип непорушності кордонів).\n\n3. Дипломатичний лексикон багатосторонніх форумів:\n   - *«Співавтори резолюції (Co-sponsors), голосування за процедурою консенсусу, компромісний проєкт»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Генеральна Асамблея ООН переважною більшістю голосів ухвалила резолюцію із вимогою негайного та беззастережного виведення військ держави-агресора з усієї міжнародно визнаної території України.",
+          "reading": "[ɦɛnɛˈrɑlʲnɐ ɐsɐmˈblɛjɑ ɔ ɔ ɛn pɛrɛˈwɑʒnɔju bʲilʲˈʃʲisʲtʲu ɦɔlɔˈsʲiw uxwɐˈlɪlɐ rɛzɔˈlʲut͡sʲiju iz ˈwɪmɔɦɔju nɛˈɦɑjnɔɦɔ tɑ bɛzzɐsʲtɛˈrɛʒnɔɦɔ wɪwɛˈdɛnʲːɑ wʲijʲsk dɛrˈʒɑwɪ ɐˈɦrɛsɔrɐ z uˈsʲijɛji mʲiʒnɐˈrɔdnɔ wɪzˈnɑnɔji tɛrɪˈtɔrʲiji ukrɐˈjinɪ] (heh-neh-RAHL'-nah ah-sahm-BLEH-yah oh oh ehn peh-reh-VAHZH-noh-yoo beel'-SHEES-tyoo hoh-loh-SEEW ookh-vah-LY-lah reh-zoh-LYOO-tsee-yoo eez VY-moh-hoh-yoo neh-HAHY-noh-hoh tah bez-zahs-teh-REHZH-noh-hoh vy-weh-DEN-nyah veeysk dehr-ZHAH-wy ah-HREH-soh-rah z oo-SEEY-yeh-yee meezh-nah-ROHD-noh vyz-NAH-noh-yee teh-ry-TOH-ree-yee oo-krah-YEE-ny)",
+          "translation": "The UN General Assembly adopted a resolution by an overwhelming majority demanding the immediate and unconditional withdrawal of the aggressor state's troops from all internationally recognized territory of Ukraine."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 32-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Зловживання державою-агресором правом вето паралізує спроможність Ради Безпеки ООН реагувати на грубі порушення Статуту.",
+          "reading": "[zlɔwʒɪˈwɑnʲːɑ dɛrˈʒɑwɔju ɐˈɦrɛsɔrɔm ˈprɑwɔm ˈwɛtɔ pɐrɐlʲiˈzujɛ sprɔˈmɔʒnʲisʲtʲ ˈrɑdɪ bɛzˈpɛkɪ ɔ ɔ ɛn rɛɐɦuˈwɑtɪ nɑ ˈhrubʲi pɔruˈʃɛnʲːɑ stɐˈtutu] (zloh-wzhy-VAHN-nyah dehr-ZHAH-woh-yoo ah-HREH-soh-rohm PRAH-wohm VEH-toh pah-rah-lee-ZOO-yeh sproh-MOHZH-neest' RAH-dy bez-PEH-ky oh oh ehn reh-ah-hoo-VAH-ty nah HROO-bee poh-roo-SHEN-nyah stah-TOO-too)",
+          "translation": "The abuse of veto power by the aggressor state paralyzes the ability of the UN Security Council to respond to gross violations of the Charter."
+        },
+        {
+          "target": "Парламентська асамблея Ради Європи (ПАРЄ) визнала чинний російський режим терористичним і закликала до створення спецтрибуналу.",
+          "reading": "[pɐrlɐˈmɛntsʲkɐ ɐsɐmˈblɛjɑ ˈrɑdɪ jɛwˈrɔpɪ pɐ r jɛ wɪzˈnɑlɐ ˈt͡ʃɪnnɪj rɔˈsʲijsʲkɪj rɛˈʒɪm tɛrɔrɪsˈtɪtʃnɪm i zɐklɪˈkɑlɐ dɔ stwɔˈrɛnʲːɑ spɛt͡strɪbuˈnɑlu] (pahr-lah-MEHNTS'-kah ah-sahm-BLEH-yah RAH-dy yehv-ROH-py pah reh yeh vyz-NAH-lah CHEEN-nyy roh-SEEY-s'kyy reh-ZHYM teh-roh-rys-TYCH-nym ee zah-kly-KAH-lah doh stwoh-REN-nyah spehts-try-boo-NAH-loo)",
+          "translation": "The Parliamentary Assembly of the Council of Europe (PACE) recognized the current Russian regime as terrorist and called for the creation of a special tribunal."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ГА ООН — резолюції всіх держав; РБ ООН — 5 постійних із правом вето; Глава VII — примусові санкції та миротворці!"
+      ],
+      "culturalNotes": [
+        "Україна є державою-співзасновницею Організації Об'єднаних Націй (1945 р.), чия делегація очолювала розробку Преамбули та Цілей Статуту ООН на конференції в Сан-Франциско."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Підпис\":",
+          "prompt": "Яка глава Статуту ООН уповноважує Раду Безпеки ООН запроваджувати обов'язкові санкції та застосовувати військову силу проти агресора?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.3.",
-            "Неправильне відмінкове узгодження зі словом «Документ»",
-            "Порушення законів евфонії та словотворення для «Закон»",
-            "Стилістично некоректна синтаксична конструкція з «Суд»"
+            "Глава VII Статуту ООН (Chapter VII of UN Charter - action with respect to threats to peace)",
+            "Глава I",
+            "Глава V",
+            "Глава XII"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Застосування примусових заходів, санкцій та військової сили регулюється Главою VII Статуту ООН."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Підпис\":",
+          "prompt": "Як у міжнародній дипломатії називаються держави, що офіційно підтримують та вносять проєкт резолюції на розгляд Генеральної Асамблеї ООН?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.3.",
-            "Порушення законів евфонії та словотворення для «Закон»",
-            "Стилістично некоректна синтаксична конструкція з «Суд»",
-            "Неправильне відмінкове узгодження зі словом «Документ»"
+            "Держави-співавтори резолюції (Co-sponsors of the resolution)",
+            "Депозитарії",
+            "Спостерігачі",
+            "Рецензенти"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Держави, що вносять і підтримують проєкт документа, називаються «співавторами резолюції» (co-sponsors)."
         }
       ]
     },
@@ -13393,17 +13422,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Підпис\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому роботу міжнародних організацій охарактеризовано найбільш авторитетно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.3.",
-            "Стилістично некоректна синтаксична конструкція з «Суд»",
-            "Неправильне відмінкове узгодження зі словом «Документ»",
-            "Порушення законів евфонії та словотворення для «Закон»"
+            "Ухвалення резолюції Генеральної Асамблеї ООН та рішення ПАРЄ консолідували міжнародну коаліцію на підтримку суверенітету та територіальної цілісності України.",
+            "ООН закрила всі засідання і заборонила державам голосувати за резолюції.",
+            "ПАРЄ є військовим підрозділом ООН що керує танковими дивізіями.",
+            "Право вето в Раді Безпеки надається всім державам світу по черзі."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Ухвалення резолюції Генеральної Асамблеї ООН та рішення ПАРЄ консолідували міжнародну коаліцію...» — найвищий рівень дипломатичної фаховості C2."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u32-l4": {
@@ -13411,53 +13441,62 @@
     "subject": "ukrainian",
     "unit": 32,
     "lessonNumber": 4,
-    "title": "Міжнародна дипломатія та багатосторонні договори (Diplomacy) (Part 4)",
+    "title": "Міжнародне правосуддя, суверенний імунітет та конфіскація активів",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 32.4) with authentic linguistic precision.",
+    "objective": "Опанувати термінологію судових процесів проти держави-агресора (Міжнародний Суд ООН, Спеціальний трибунал, суверенний імунітет, суверенні активи, репарації).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Міжнародне правосуддя та доктрина відповідальності держав забезпечують притягнення агресора до фінансової та кримінальної відповідальності:\n\n1. Міжнародні судові інстанції:\n   - *«Міжнародний Суд ООН (International Court of Justice — ICJ, Гаага)»* — головний судовий орган ООН (розглядає спори між державами);\n   - *«Спеціальний трибунал щодо злочину агресії проти України (Special Tribunal for the Crime of Aggression)»*;\n   - *«Міжнародний кримінальний суд (ICC, Гаага)»* — судить фізичних осіб за воєнні злочини, геноцид та злочини проти людяності;\n   - *«Міжнародний трибунал з морського права (ITLOS)»*.\n\n2. Судові процедури та забезпечувальні заходи:\n   - *«Тимчасові забезпечувальні заходи (Provisional / Interim measures)»*;\n   - *«Юрисдикція ratione materiae (предметна) та ratione personae (персональна)»*;\n   - *«Міжнародний реєстр збитків (Register of Damage for Ukraine)»* під егідою Ради Європи в Гаазі.\n\n3. Доктрина суверенного імунітету та конфіскація активів:\n   - *«Суверенний імунітет держави (State Sovereign Immunity)»* та обмеження імунітету у випадках грубих порушень jus cogens (імперативних норм міжнародного права);\n   - *«Заморожування та конфіскація суверенних активів центробанку держави-агресора»*;\n   - *«Спрямування надприбутків від знерухомлених активів на виплату репарацій та повоєнну відбудову»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Міжнародний Суд ООН ухвалив наказ про застосування тимчасових заходів, зобов'язавши агресора негайно зупинити воєнні дії.",
+          "reading": "[mʲiʒnɐˈrɔdnɪj ˈsud ɔ ɔ ɛn uxwɐˈlɪw ˈnɑkɐz prɔ zɐstɔsuˈwɑnʲːɑ tɪmtʃɐsɔˈwɪx ˈzɑxɔdʲiw, zɔbɔwˈjɑzɐwʃɪ ɐˈɦrɛsɔrɐ nɛˈɦɑjnɔ zusɪˈnɪtɪ wɔˈjɛnnʲi ˈdʲiji] (meezh-nah-ROHD-nyy SOOD oh oh ehn ookh-vah-LYV NAH-kahz proh zahs-toh-soo-VAHN-nyah tym-chah-soh-WYKH ZAH-khoh-deew, zoh-bov-YAH-zahv-shy ah-HREH-soh-rah neh-HAHY-noh zoo-sy-NY-ty woh-YEHN-nee DEE-yee)",
+          "translation": "The International Court of Justice issued an order on provisional measures, ordering the aggressor to immediately suspend military operations."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 32-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Створення Спеціального трибуналу усуне прогалину в міжнародному правосудді щодо покарання вищого політичного керівництва за злочин агресії.",
+          "reading": "[stwɔˈrɛnʲːɑ spɛt͡sʲiˈɑlʲnɔɦɔ trɪbuˈnɑlu usuˈnɛ prɔɦɐˈlɪnu w mʲiʒnɐˈrɔdnɔmu prɐwɔˈsudʲːi ʃtʃɔˈdɔ pɔkɐˈrɑnʲːɑ ˈwɪʃtʃɔɦɔ pɔlʲiˈtɪtʃnɔɦɔ kɛrʲiwˈnɪt͡stxɐ zɑ ˈzlɔtʃɪn ɐˈɦrɛsʲiji] (stwoh-REN-nyah speh-tsee-AHL'-noh-hoh try-boo-NAH-loo oo-soo-NEH proh-hah-LY-noo v meezh-nah-ROHD-noh-moo prah-woh-SOOD-dee shchoh-DOH poh-kah-RAHN-nyah VYSH-choh-hoh poh-lee-TYCH-noh-hoh keh-reev-NYT-stvah zah ZLOH-chyn ah-HREH-see-yee)",
+          "translation": "The establishment of the Special Tribunal will eliminate a gap in international justice regarding the punishment of top political leadership for the crime of aggression."
+        },
+        {
+          "target": "Міжнародний реєстр збитків у Гаазі фіксує всі майнові та немайнові претензії громадян і бізнесу для майбутньої компенсації за рахунок активів агресора.",
+          "reading": "[mʲiʒnɐˈrɔdnɪj rɛˈjɛstr ˈzbɪtkʲiw u ˈɦɑːzʲi fʲikˈsujɛ wsʲi mɐjnɔˈwʲi tɑ nɛmɐjnɔˈwʲi prɛtɛnʲˈzʲiji ɦrɔmɐˈdʲɑn i ˈbʲiznɛsu dlʲɑ mɐjˈbutnʲɔji kɔmpɛnsɑˈt͡sʲiji zɑ rɐxuˈnɔk ɐkˈtɪwʲiw ɐˈɦrɛsɔrɐ] (meezh-nah-ROHD-nyy reh-YEHSTR ZBYT-keew oo HAH-ah-zee feek-SOO-yeh vsee mahy-noh-WEE tah neh-mahy-noh-WEE preh-tehn-ZEE-yee hroh-mah-DYAHN ee BEEZ-neh-soo dlyah mahy-BOOT-nyoh-yee kohm-pehn-sah-TSEE-yee zah rah-khoo-NOHK ahk-TY-weew ah-HREH-soh-rah)",
+          "translation": "The International Register of Damage in The Hague records all property and non-property claims of citizens and businesses for future compensation from the aggressor's assets."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Міжнародний Суд ООН — судить держави; МКС — судить воєнних злочинців; Спецтрибунал — за злочин агресії; Реєстр збитків — у Гаазі!"
+      ],
+      "culturalNotes": [
+        "Міжнародний реєстр збитків (RD4U), відкритий у Гаазі у 2024 році, приймає заяви українців через національний портал «Дія»."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Документ\":",
+          "prompt": "Як називається судовий орган, створення якого ініціювала Україна для притягнення вищого керівництва держави-агресора за злочин агресії?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.4.",
-            "Неправильне відмінкове узгодження зі словом «Закон»",
-            "Порушення законів евфонії та словотворення для «Суд»",
-            "Стилістично некоректна синтаксична конструкція з «Суддя»"
+            "Спеціальний трибунал щодо злочину агресії (Special Tribunal for the Crime of Aggression)",
+            "Нюрнберзький архів",
+            "Постійна палата третейського суду",
+            "Апеляційний суд Європи"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Для подолання персонального імунітету керівництва агресора створюється «Спеціальний трибунал щодо злочину агресії»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Документ\":",
+          "prompt": "Яка міжнародна інституція в Гаазі здійснює офіційний прийом та облік заяв про компенсацію збитків, завданих війною?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.4.",
-            "Порушення законів евфонії та словотворення для «Суд»",
-            "Стилістично некоректна синтаксична конструкція з «Суддя»",
-            "Неправильне відмінкове узгодження зі словом «Закон»"
+            "Міжнародний реєстр збитків (Register of Damage for Ukraine - RD4U)",
+            "Міжнародний валютний фонд",
+            "Світовий банк",
+            "Європейський інвестиційний банк"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Фіксацію всіх претензій на відшкодування здійснює «Міжнародний реєстр збитків» (RD4U)."
         }
       ]
     },
@@ -13465,17 +13504,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Документ\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому механізми міжнародного правосуддя та репарацій викладено бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.4.",
-            "Стилістично некоректна синтаксична конструкція з «Суддя»",
-            "Неправильне відмінкове узгодження зі словом «Закон»",
-            "Порушення законів евфонії та словотворення для «Суд»"
+            "Фіксація вимог у Міжнародному реєстрі збитків, рішення Міжнародного Суду ООН та передача суверенних активів агресора гарантують невідворотність виплати повномасштабних репарацій.",
+            "Репарації будуть виплачені добровільно агресором готівкою без судових рішень.",
+            "Суверенний імунітет повністю забороняє будь-яким судам розглядати воєнні злочини.",
+            "Реєстр збитків створювався для того щоб скасувати всі позови постраждалих громадян."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Фіксація вимог у Міжнародному реєстрі збитків, рішення Міжнародного Суду ООН та передача суверенних активів...» — бездоганний юридичний рівень C2."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u32-l5": {
@@ -13483,53 +13523,62 @@
     "subject": "ukrainian",
     "unit": 32,
     "lessonNumber": 5,
-    "title": "Міжнародна дипломатія та багатосторонні договори (Diplomacy) (Part 5)",
+    "title": "Глобальна архітектура безпеки, санкційні режими та Українська формула миру",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 32.5) with authentic linguistic precision.",
+    "objective": "Опанувати стратегічну безпекову термінологію (двосторонні безпекові угоди, санкційні пакети ЄС/G7, експортний контроль, Українська формула миру, коаліції спроможностей).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Нова глобальна архітектура безпеки формується навколо українського досвіду відсічі агресії, санкційного тиску та довгострокових безпекових зобов'язань:\n\n1. Двосторонні безпекові угоди (Security Agreements):\n   - *«Спільна декларація G7 про підтримку України (Вільнюс, 2023)»*;\n   - *«Двосторонні безпекові угоди про співробітництво у сфері безпеки та довгострокову підтримку»* (підписані з десятками країн світу);\n   - *«Коаліції спроможностей (авіаційна, артилерійська, бронетанкова, морська, ППО, IT, коаліція дронів)»*;\n   - *«Військова та фінансова допомога як юридично закріплені зобов'язання партнерів»*.\n\n2. Санкційні режими та експортний контроль:\n   - *«Пакети санкцій Європейського Союзу, США, Великої Британії та країн G7»*;\n   - *«Вторинні санкції (Secondary Sanctions)»* проти третіх країн і банків за сприяння уникненню санкцій;\n   - *«Цінова стеля на нафту (Oil Price Cap) та енергетичне ембарго»*;\n   - *«Експортний контроль компонентів подвійного призначення (Dual-use goods / мікроелектроніка)»*.\n\n3. Українська формула миру (Ukrainian Peace Formula):\n   - 10 пунктів (радіаційна та ядерна безпека, продовольча безпека, енергетична безпека, звільнення всіх полонених і депортованих, відновлення територіальної цілісності за Статутом ООН, виведення військ, справедливість і трибунал, протидія екоциду, недопущення ескалації та гарантії безпеки, фіксація закінчення війни);\n   - *«Глобальний саміт миру»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Двосторонні безпекові угоди закріплюють довгострокові зобов'язання союзників щодо надання сучасної військової техніки та розбудови оборонно-промислового комплексу України.",
+          "reading": "[dwɔstɔˈrɔnnʲi bɛzˈpɛkɔwʲi uˈɦɔdɪ zɐkrʲipˈlʲɑjutʲ dɔwɦɔsˈtrɔkɔwʲi zɔbɔwˈjɑzɐnʲːɑ sɔˈjuznɪkʲiw ʃtʃɔˈdɔ nɐˈdɑnʲːɑ sut͡ʃɑsˈnɔji wʲijʲsʲˈkɔwɔji ˈtɛxnʲikɪ tɑ rɔzˈbudɔwɪ ɔbɔˈrɔnnɔ prɔmɪsˈlɔwɔɦɔ kɔmpˈlɛksu ukrɐˈjinɪ] (dwoh-stoh-ROHN-nee bez-PEH-koh-vee oo-HOH-dy zah-kreep-LYAH-yoot' dohv-hohs-TROH-koh-wee zoh-bov-YAH-zahn-nyah soh-YOOZ-ny-keew shchoh-DOH nah-DAHN-nyah soo-CHAHS-noh-yee veey-s'KOH-woh-yee TEHKH-nee-ky tah roz-BOO-doh-wy oh-boh-ROHN-noh proh-mys-LOH-woh-hoh kohmp-LEHK-soo oo-krah-YEE-ny)",
+          "translation": "Bilateral security agreements enshrine long-term commitments of allies regarding the provision of modern military equipment and the development of Ukraine's defense-industrial complex."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 32-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Запровадження вторинних санкцій проти фінансових установ третіх країн суттєво обмежує доступ агресора до критичних компонентів подвійного призначення.",
+          "reading": "[zɐprɔwɐˈdʒɛnʲːɑ wtɔˈrɪnnɪx ˈsɑnkt͡sʲij prɔˈtɪ fʲinɐnˈsɔwɪx ustɐˈnɔw ˈtrɛtʲix krɐˈjin sutʲˈt͡ʃɛwɔ ɔbˈmɛʒujɛ ˈdɔstup ɐˈɦrɛsɔrɐ dɔ krɪˈtɪtʃnɪx kɔmpɔˈnɛntʲiw pɔdʲˈwʲijnɔɦɔ prɪznɐˈtʃɛnʲːɑ] (zah-proh-vahd-ZHEN-nyah vtoh-RYN-nykh SAHNK-tseey proh-TY fee-nahn-SOH-wykh oos-tah-NOHV TREH-teekh krah-YEEN soot-TEH-woh ohb-MEH-zhoo-yeh DOHS-toop ah-HREH-soh-rah doh kry-TYCH-nykh kohm-poh-NEHN-teew pohd-WEEY-noh-hoh pryz-nah-CHEN-nyah)",
+          "translation": "The implementation of secondary sanctions against financial institutions of third countries substantially restricts the aggressor's access to critical dual-use components."
+        },
+        {
+          "target": "Українська формула миру є універсальною матрицею відновлення справедливості та поваги до норм міжнародного права в усьому світі.",
+          "reading": "[ukrɐˈjinsʲkɐ ˈfɔrmulɐ ˈmɪru jɛ unʲiwɛrˈsɑlʲnɔju ˈmɑtrɪt͡sɛju wʲidnɔwˈlɛnʲːɑ sprɐwɛdˈlɪwɔsʲtʲi tɑ pɔˈwɑɦɪ dɔ ˈnɔrm mʲiʒnɐˈrɔdnɔɦɔ ˈprɑwɐ w uˈsʲɔmu ˈswʲitʲi] (oo-krah-YEEN-s'kah FOHR-moo-lah MEE-roo yeh oo-nee-vehr-SAHL'-noh-yoo MAH-try-tseh-yoo veed-nohv-LEN-nyah sprah-wehd-LY-wohs-tee tah poh-VAH-hy doh NOHRM meezh-nah-ROHD-noh-hoh PRAH-wah v oo-SYOH-moo SWEE-tyee)",
+          "translation": "The Ukrainian Peace Formula is a universal matrix for restoring justice and respect for the norms of international law throughout the world."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Безпека — «двосторонні безпекові угоди»; Санкції — «вторинні санкції та експортний контроль»; Справедливий мир — «Українська формула миру (10 пунктів)»!"
+      ],
+      "culturalNotes": [
+        "Перший установчий Глобальний саміт миру відбувся у Швейцарії у червні 2024 року за участі представників понад ста держав і міжнародних організацій."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Закон\":",
+          "prompt": "Як називаються міжнародні санкції, що накладаються на компанії та банки третіх країн за сприяння державі-агресору в обході обмежень?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.5.",
-            "Неправильне відмінкове узгодження зі словом «Суд»",
-            "Порушення законів евфонії та словотворення для «Суддя»",
-            "Стилістично некоректна синтаксична конструкція з «Адвокат»"
+            "Вторинні санкції (Secondary sanctions - targeting third-party facilitators)",
+            "Первинні санкції",
+            "Мораторій",
+            "Дипломатичний демарш"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Санкції проти третіх сторін за обхід санкційного режиму називаються «вторинними санкціями» (secondary sanctions)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Закон\":",
+          "prompt": "Скільки базових пунктів містить Українська формула миру, представлена Президентом України?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.5.",
-            "Порушення законів евфонії та словотворення для «Суддя»",
-            "Стилістично некоректна синтаксична конструкція з «Адвокат»",
-            "Неправильне відмінкове узгодження зі словом «Суд»"
+            "10 пунктів (10 points of the Ukrainian Peace Formula)",
+            "5 пунктів",
+            "14 пунктів",
+            "20 пунктів"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Українська формула миру налічує 10 комплексних пунктів відновлення справедливості та міжнародного порядку."
         }
       ]
     },
@@ -13537,17 +13586,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Закон\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому стратегічні механізми безпеки описано з абсолютною дипломатичною точністю:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 32.5.",
-            "Стилістично некоректна синтаксична конструкція з «Адвокат»",
-            "Неправильне відмінкове узгодження зі словом «Суд»",
-            "Порушення законів евфонії та словотворення для «Суддя»"
+            "Укладання двосторонніх безпекових угод, посилення вторинних санкцій та реалізація Української формули миру закладають основу нової незламної архітектури міжнародної безпеки.",
+            "Формула миру вимагає капітуляції постраждалої сторони без міжнародних гарантій.",
+            "Вторинні санкції забороняють державам укладати будь-які договори про мир.",
+            "Безпекові угоди підписуються тільки анонімно в інтернеті без зобов'язань."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Укладання двосторонніх безпекових угод, посилення вторинних санкцій та реалізація Української формули миру...» — вершина міжнародно-політичного дискурсу C2."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u33-l1": {
