@@ -9227,56 +9227,65 @@
     "subject": "korean",
     "unit": 20,
     "lessonNumber": 1,
-    "title": "사동 표현(-이/히/리/기/우/추-, -게 하다) (Causative Voice) (Part 1)",
+    "title": "단형 사동 접미사 ('-이/히/리/기/우/추-')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 사동사 접미사와 -게 하다 (Causative Structures).",
+    "objective": "동사나 형용사 어간에 결합하여 '남으로 하여금 어떤 동작이나 상태를 유발하게 함'을 나타내는 6대 사동 접미사의 결합 형태와 문장 구성을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 사동 표현(-이/히/리/기/우/추-, -게 하다) (Causative Voice) » (제1절)의 핵심 언어 요소와 사동사 접미사와 -게 하다 (Causative Structures)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "주어가 직접 동작을 하지 않고 남에게 그 동작을 하도록 시키거나 유발하는 것을 사동(Causative Voice)이라고 합니다. 타동사나 자동사, 형용사 어간에 파생 접미사 '-이/히/리/기/우/추-'를 붙여 단형 사동사를 생성합니다.\n\n1. 6대 사동 접미사 분류 및 규칙:\n- **-이-** (어간 끝모음 or 받침 ㄱ/ㅈ):\n  - 먹다 → **먹이다** (\"아기에게 이유식을 먹이다\")\n  - 보다 → **보이다** (\"친구에게 사진을 보여 주다\")\n  - 죽다 → **죽이다** (\"해충을 죽이다\")\n  - 줄다 → **줄이다** (\"지출을 줄이다\")\n- **-히-** (받침 ㄱ/ㄷ/ㅂ/ㅈ):\n  - 입다 → **입히다** [이피다] (\"아이에게 따뜻한 옷을 입히다\")\n  - 앉다 → **앉히다** [안치다] (\"손님을 소파에 앉히다\")\n  - 읽다 → **읽히다** [일키다] (\"어린이에게 동화책을 읽히다\")\n  - 눕다 → **눕히다** [누피다] (\"환자를 침대에 눕히다\")\n- **-리-** (받침 ㄹ or ㄷ 불규칙):\n  - 알다 → **알리다** (\"비상 연락망으로 소식을 알리다\")\n  - 살다 → **살리다** (\"희망의 불씨를 살리다\")\n  - 울다 → **울리다** (\"관객을 감동으로 울리다\")\n  - 듣다 → **들리다** (\"좋은 노래를 들려주다\")\n- **-기-** (받침 ㄴ/ㅁ/ㅅ/ㅈ/ㅊ):\n  - 웃다 → **웃기다** (\"개그맨이 관객을 크게 웃기다\")\n  - 맡다 → **맡기다** (\"짐을 보관소에 맡기다\")\n  - 신다 → **신기다** (\"아이에게 새 신발을 신기다\")\n  - 벗다 → **벗기다** (\"젖은 옷을 벗기다\")\n- **-우-** (모음 종결 어간):\n  - 자다 → **재우다** (자+이+우다), 깨다 → **깨우다**, 타다 → **태우다**, 서다 → **세우다** (서+이+우다)\n- **-추-**:\n  - 늦다 → **늦추다** (\"출발 일정을 늦추다\"), 맞다 → **맞추다** (\"시계를 맞추다\")",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (20.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "어머니께서는 매일 아침 일찍 일어나셔서 정성껏 만든 따뜻한 아침밥을 아이들에게 먹이십니다.",
+          "reading": "Eomeoni-kkeseo-neun maeil achim iljjik ireonasyeoseo jeongseongkkeot mandeun ttatteuthan achimbap-eul aideul-ege meogisimnida.",
+          "translation": "Mother gets up early every morning and feeds warm breakfast made with whole heart to the children ('먹다' → '먹이다' causative)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (20.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "선생님께서는 학생들에게 다양한 인문학 고전 명작을 꾸준히 읽히며 사고력을 길러 주셨습니다.",
+          "reading": "Seonsaengnim-kkeseo-neun haksaengdeul-ege dayanghan inmunhak gojeon myeongjak-eul kkujunhi ilkhimyeo sagoryeok-eul gilleo jusyeotseumnida.",
+          "translation": "The teacher made the students read various classic humanities masterpieces continuously and cultivated their thinking skills ('읽다' → '읽히다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (20.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "아침 7시 정각이 되자마자 시끄럽게 울리는 자명종 알람 소리가 온 가족을 번쩍 깨웠습니다.",
+          "reading": "Achim 7-si jeong-gag-i doejamaja sikkeureopge ullineun jamyeongjong allam sori-ga on gajok-eul beonjjeok kkaewotseumnida.",
+          "translation": "As soon as 7 AM sharp arrived, the loudly ringing alarm clock sound woke up the entire family awake ('울리다' + '깨우다')."
+        },
+        {
+          "target": "중요한 공지 사항과 변동된 회의 장소를 사내 메신저를 통해 전 직원에게 신속히 알렸습니다.",
+          "reading": "Jung-yohan gongji sahang-gwa byeondongdoen hoeui jangso-reul sanae mesinjeo-reul tonghae jeon jigwon-ege sinsokhi allyeotseumnida.",
+          "translation": "We promptly informed all employees of important announcements and the changed meeting venue via the corporate messenger ('알다' → '알리다')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "먹이고(이), 입히고(히), 알리고(리), 웃기고(기), 깨우고(우), 늦추는(추) 6대 사동사!"
+      ],
+      "culturalNotes": [
+        "한국어에서 사동사는 자녀 양육(밥을 먹이다, 옷을 입히다, 신을 신기다, 아이를 재우다)에서 부모의 직접적인 돌봄 행위를 나타낼 때 가장 빈번하고 자연스럽게 사용됩니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 사동사 접미사와 -게 하다 (Causative Structures) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "'자다(sleep)'의 올바른 사동사 형태(put to sleep)는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (20.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (20.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (20.1.3)."
+            "재우다",
+            "자이다",
+            "자기다"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'자다'의 사동사는 '-이우-'가 결합하여 축약된 '재우다'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 사동 표현(-이/히/리/기/우/추-, -게 하다) (Causative Voice) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "'출발 시간을 뒤로 미루다'의 의미로 '늦다'의 사동사를 알맞게 활용한 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (20.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (20.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (20.1.3)."
+            "회의 시작 일정을 한 시간 늦췄습니다.",
+            "회의 시작 일정을 한 시간 늦였습니다.",
+            "회의 시작 일정을 한 시간 늦렸습니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'늦다'에 사동 접미사 '-추-'가 결합하여 '늦추다(늦췄습니다)'가 됩니다."
         }
       ]
     },
@@ -9284,14 +9293,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 사동사 접미사와 -게 하다 (Causative Structures) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 20-1)?",
+          "prompt": "다음 중 사동 접미사의 결합이 올바르게 짝지어진 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (20.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (20.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (20.1.3)."
+            "웃다 → 웃기다",
+            "웃다 → 웃히다",
+            "웃다 → 웃리다"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "explanation": "'웃다'의 사동사는 '-기-'가 붙어 '웃기다'가 됩니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'아이에게 따뜻한 옷을 입혔어요'(I dressed the child in warm clothes)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "아이에게 따뜻한 옷을 입혔어요.",
+            "아이에게 따뜻한 옷을 입혔어요"
+          ],
+          "explanation": "아이에게 + 따뜻한 옷을 + 입혔어요(입히다 + 었 + 어요) = 아이에게 따뜻한 옷을 입혔어요."
         }
       ]
     }
@@ -9301,56 +9319,65 @@
     "subject": "korean",
     "unit": 20,
     "lessonNumber": 2,
-    "title": "사동 표현(-이/히/리/기/우/추-, -게 하다) (Causative Voice) (Part 2)",
+    "title": "장형 통사적 사동 어미 ('-게 하다')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 사동사 접미사와 -게 하다 (Causative Structures).",
+    "objective": "모든 용언에 자유롭게 결합하여 '대상에게 명령, 설득, 유도하여 행동이나 상태를 일으키게 함'을 나타내는 통사적 사동 구문 '-게 하다'를 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 사동 표현(-이/히/리/기/우/추-, -게 하다) (Causative Voice) » (제2절)의 핵심 언어 요소와 사동사 접미사와 -게 하다 (Causative Structures)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "'-게 하다'는 보조 용언 구성을 통해 장형 통사적 사동(Syntactic Causative)을 만듭니다. 단형 사동 접미사가 붙지 않는 대부분의 동사/형용사는 물론, 일반 동사에도 보편적으로 결합합니다.\n\n1. 결합 규칙:\n- 동사/형용사 어간 + **-게 하다**\n  - 기다리다 → **기다리게 하다** (\"오래 기다리게 해서 미안해요.\")\n  - 공부하다 → **공부하게 하다** (\"학생들을 도서관에서 자습하게 하다\")\n  - 화나다 → **화나게 하다** (\"상대방을 화나게 만들지 마세요.\")\n  - 편하다 → **편하게 하다** (\"손님이 편하게 쉴 수 있도록 배려하다\")\n\n2. 주어와 피사동자 격 표지 규칙:\n- 자동사문 사동: [사동주 -이/가/께서] + [피사동자 -을/를 or -에게] + [자동사-게 하다]\n  - 예: \"선생님께서 학생들을 자리에 앉게 하셨다.\"\n- 타동사문 사동: [사동주 -이/가] + [피사동자 -에게/한테] + [목적어 -을/를] + [타동사-게 하다]\n  - 예: \"선생님께서 학생들에게 영어 원서를 읽게 하셨다.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (20.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "약속 시간에 늦어서 추운 밖에서 오래 기다리게 해 드려 정말 죄송합니다.",
+          "reading": "Yaksok sigan-e neujeoseo chuun bak-eseo orae gidarige hae deuryeo jeongmal joesonghamnida.",
+          "translation": "I am truly sorry for being late for the appointment and making you wait long in the cold outside ('기다리게 하다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (20.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "연구 소장님께서는 팀원들이 창의적인 아이디어를 자유롭게 제안하게 하셨습니다.",
+          "reading": "Yeon-gu sojangnim-kkeseo-neun tim-wondeul-i chang-uijeogin aidieo-reul jayuroepge je-anhage hasyeotseumnida.",
+          "translation": "The research director allowed and encouraged team members to freely propose creative ideas ('제안하게 하셨습니다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (20.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "부모님께서는 주말마다 자녀들이 스마트폰 대신 책을 가까이하게 하십니다.",
+          "reading": "Bumonim-kkeseo-neun jumalmada janyeodeul-i seumateupon daesin chaek-eul gakkai-hage hasimnida.",
+          "translation": "Every weekend, parents make their children stay close to books instead of smartphones ('가까이하게 하다')."
+        },
+        {
+          "target": "철저한 위생 관리와 철저한 방역 지침 준수로 고객들이 안심하고 매장을 이용하게 했습니다.",
+          "reading": "Cheoljeohan wisaeng gwanri-wa cheoljeohan bang-yeok jichim junsu-ro gogaekdeul-i ansimhago maejang-eul iyonghage haetseumnida.",
+          "translation": "Through thorough hygiene management and strict quarantine guideline compliance, we enabled customers to use the store with peace of mind."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "기다리게 하고, 공부하게 하고, 편하게 하는 건 '-게 하다'! 모든 동사에 붙는 만능 사동!"
+      ],
+      "culturalNotes": [
+        "사과할 때 \"오래 기다리게 해서 죄송합니다\"(Sorry for keeping you waiting)는 직장 비즈니스와 일상 모임에서 가장 품격 있게 사용하는 필수 정중 사동 표현입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 사동사 접미사와 -게 하다 (Causative Structures) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "상대방을 밖에서 기다리게 한 것에 대해 정중히 사과하는 가장 알맞은 표현은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (20.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (20.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (20.2.3)."
+            "오래 기다리게 해서 죄송합니다.",
+            "오래 기다려지게 해서 죄송합니다.",
+            "오래 기다리게 돼서 죄송합니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "내가 상대방을 기다리도록 유발한 사동 상황이므로 '기다리게 해서 죄송합니다'가 올바릅니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 사동 표현(-이/히/리/기/우/추-, -게 하다) (Causative Voice) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "'팀장님이 직원들에게 보고서를 다시 쓰도록 지시했다'를 '-게 하다' 구문으로 바르게 나타낸 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (20.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (20.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (20.2.3)."
+            "팀장님께서 직원들에게 보고서를 다시 쓰게 하셨습니다.",
+            "팀장님께서 직원들에게 보고서를 다시 써지게 하셨습니다.",
+            "팀장님께서 직원들에게 보고서를 다시 쓰이게 되었습니다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "사동주 '팀장님께서', 피사동자 '직원들에게', 사동 어미 '쓰게 하셨습니다'의 구조가 완벽합니다."
         }
       ]
     },
@@ -9358,14 +9385,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 사동사 접미사와 -게 하다 (Causative Structures) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 20-2)?",
+          "prompt": "다음 중 '-게 하다'의 문법적 설명으로 틀린 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (20.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (20.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (20.2.3)."
+            "오직 1음절 자동사에만 제한적으로 결합할 수 있다.",
+            "동사와 형용사 어간에 결합하여 장형 사동을 구성한다.",
+            "피사동자에게 동작을 하도록 지시, 허용, 유도하는 의미를 지닌다."
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'-게 하다'는 모든 동사와 형용사에 제약 없이 폭넓게 결합할 수 있는 통사적 사동 어미입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'오래 기다리게 해서 미안해요'(I'm sorry for making you wait long)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "오래 기다리게 해서 미안해요.",
+            "오래 기다리게 해서 미안해요"
+          ],
+          "explanation": "오래 + 기다리게 해서(기다리다 + 게 하다 + 아서) + 미안해요 = 오래 기다리게 해서 미안해요."
         }
       ]
     }
@@ -9375,56 +9411,65 @@
     "subject": "korean",
     "unit": 20,
     "lessonNumber": 3,
-    "title": "사동 표현(-이/히/리/기/우/추-, -게 하다) (Causative Voice) (Part 3)",
+    "title": "한자어 사동 접미사 ('-시키다')와 오용 방지",
     "level": "B2",
-    "objective": "Comprehensive mastery of 사동사 접미사와 -게 하다 (Causative Structures).",
+    "objective": "한자어 동작 명사에 결합하여 사동 의미를 더하는 '-시키다'의 올바른 쓰임새를 익히고, 능동문에 불필요하게 남용되는 '-시키다' 오용을 교정한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 사동 표현(-이/히/리/기/우/추-, -게 하다) (Causative Voice) » (제3절)의 핵심 언어 요소와 사동사 접미사와 -게 하다 (Causative Structures)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "'-시키다'는 일부 한자어 명사 뒤에 붙어 '남으로 하여금 그 행동을 하게 유발하다'라는 사동사를 만드는 파생 접미사입니다.\n\n1. 정당한 사동 접미사 '-시키다' (Legitimate Causative Usage):\n- 주어가 제3자에게 행동이나 변화를 유발할 때 결합:\n  - 이해(理解) → **이해시키다** (\"어려운 개념을 학생들에게 이해시키다\")\n  - 훈련(訓練) → **훈련시키다** (\"신입 사원을 강도 높게 훈련시키다\")\n  - 발전(發展) → **발전시키다** (\"기술력을 세계 최고 수준으로 발전시키다\")\n  - 진정(鎭靜) → **진정시키다** (\"흥분한 관중을 진정시키다\")\n  - 만족(滿足) → **만족시키다** (\"고객을 100% 만족시키다\")\n\n2. 중요: 불필요한 '-시키다' 남용 오류 교정 (Overuse Warning):\n- 주어가 스스로 행하는 일반 능동 동작에 습관적으로 '-시키다'를 붙이는 것은 번역투 오용(Ungrammatical Overuse)!\n- ❌ 제가 소개시켜 드릴게요 → ⭕ **제가 소개해 드릴게요**\n- ❌ 교육청에 등록시켰어요 → ⭕ **교육청에 등록했어요**\n- ❌ 물건을 주문시켰습니다 → ⭕ **물건을 주문했습니다**\n- ❌ 자동차를 주차시켰다 → ⭕ **자동차를 주차했다**",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (20.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "발표자는 복잡한 경제 통계 데이터를 시각화 자료를 활용하여 청중에게 알기 쉽게 이해시켰습니다.",
+          "reading": "Balpyoja-neun bokjaphan gyeongje tonggye deiteo-reul sigakhwa jaryo-reul hwalyonghayeo cheongjung-ege algi swipge ihaesikyeotseumnida.",
+          "translation": "The presenter made the complex economic statistical data easily understood by the audience using visualization materials ('이해시키다' causative)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (20.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "기업은 혁신적인 기술 개발과 품질 혁신을 통해 국가 경쟁력을 크게 발전시켰습니다.",
+          "reading": "Gieop-eun hyeoksinjeogin gisul gaebal-gwa pumjil hyeoksin-eul tonghae gukga gyeongjaengryeok-eul keuge baljeonsikyeotseumnida.",
+          "translation": "Through innovative technology development and quality innovation, the enterprise significantly developed national competitiveness ('발전시키다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (20.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "새로 오신 외국인 교수님께 유능한 한국인 조교를 정중히 소개해 드렸습니다.",
+          "reading": "Saero osin oeguk-in gyosunim-kke yuneung-han hanguk-in jogyo-reul jeongjung-hi sogaehae deuryeotseumnida.",
+          "translation": "I politely introduced a competent Korean assistant to the newly arrived foreign professor (Correct '소개해 드리다', NOT *'소개시켜 드리다')."
+        },
+        {
+          "target": "갑작스러운 사고 소식에 패닉에 빠진 승객들을 차분한 목소리로 신속하게 진정시켰습니다.",
+          "reading": "Gapjakeuseureoun sageo sosik-e paenik-e ppajin seunggaekdeul-eul chabunhan moksori-ro sinsokhage jinjeongsikyeotseumnida.",
+          "translation": "With a calm voice, we promptly calmed down the passengers who fell into panic at the sudden accident news ('진정시키다')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "남을 이해시키고 발전시키는 건 '-시키다'! 내가 직접 소개할 땐 '소개하다'!"
+      ],
+      "culturalNotes": [
+        "한국어 표준 화법에서는 '소개시켜 줄게', '입원시켰어' 같은 불필요한 사동 접미사('-시키다') 남용을 순화 대상 1호로 지정하여 바른말('소개해 줄게', '입원했어/입원하게 했어') 쓰기를 권장합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 사동사 접미사와 -게 하다 (Causative Structures) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "친구에게 새로운 동료를 인사시킬 때 가장 바른 표준어 표현은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (20.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (20.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (20.3.3)."
+            "제 친구를 소개해 드릴게요.",
+            "제 친구를 소개시켜 드릴게요.",
+            "제 친구를 소개시키어 드릴게요."
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "주어가 직접 대상을 소개하는 능동 동작이므로 '소개해 드릴게요'가 바른 표준어입니다 (*'소개시켜'는 남용 오류)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 사동 표현(-이/히/리/기/우/추-, -게 하다) (Causative Voice) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "사동 접미사 '-시키다'가 문맥상 가장 정확하고 바르게 사용된 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (20.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (20.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (20.3.3)."
+            "교수님께서 명쾌한 논리로 학생들을 깊이 이해시키셨습니다.",
+            "제가 점심 메뉴로 맛있는 비빔밥을 주문시켰습니다.",
+            "퇴근길에 아파트 지하 주차장에 차를 안전하게 주차시켰습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'이해시키다'는 남으로 하여금 이해하게 만드는 타당한 사동사입니다 (주문하다/주차하다는 능동이 바른말)."
         }
       ]
     },
@@ -9432,14 +9477,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 사동사 접미사와 -게 하다 (Causative Structures) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 20-3)?",
+          "prompt": "다음 중 '-시키다'의 불필요한 오용이 없는 완벽한 문장은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (20.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (20.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (20.3.3)."
+            "새 학기를 맞아 전공 과목 수강 신청을 마쳤습니다.",
+            "새 학기를 맞아 전공 과목 수강 신청을 접수시켰습니다.",
+            "새 학기를 맞아 전공 과목 수강 신청을 완료시켰습니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "자신이 직접 행한 동작이므로 '수강 신청을 마쳤습니다/신청했습니다'가 가장 바른 표현입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'흥분한 사람들을 진정시켰어요'(I calmed down the excited people)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "흥분한 사람들을 진정시켰어요.",
+            "흥분한 사람들을 진정시켰어요"
+          ],
+          "explanation": "흥분한 사람들을 + 진정시켰어요(진정시키다 + 었 + 어요) = 흥분한 사람들을 진정시켰어요."
         }
       ]
     }
@@ -9449,56 +9503,65 @@
     "subject": "korean",
     "unit": 20,
     "lessonNumber": 4,
-    "title": "사동 표현(-이/히/리/기/우/추-, -게 하다) (Causative Voice) (Part 4)",
+    "title": "직접 사동 vs 간접 사동 및 피동/사동 동형어 구별",
     "level": "B2",
-    "objective": "Comprehensive mastery of 사동사 접미사와 -게 하다 (Causative Structures).",
+    "objective": "단형 접미사 사동(직접 참여)과 장형 '-게 하다'(간접 지시)의 미묘한 의미 차이를 분별하고, 형태가 동일한 피동/사동 동음이의어(보이다, 들리다, 안기다)를 완벽히 식별한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 사동 표현(-이/히/리/기/우/추-, -게 하다) (Causative Voice) » (제4절)의 핵심 언어 요소와 사동사 접미사와 -게 하다 (Causative Structures)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "사동문은 표현 방식에 따라 주어의 직접적 개입 여부가 달라지며, 피동사와 사동사의 형태가 같은 동음이의어(Homonyms)를 문맥과 격조사를 통해 판별해야 합니다.\n\n1. 직접 사동(Direct) vs 간접 사동(Indirect):\n- **단형 접미사 사동 (직접 사동)**: 주어가 신체적으로 직접 참여하여 동작을 유발함\n  - \"어머니가 아기에게 옷을 입혔다.\" (직접 손으로 아기 옷을 입혀 줌)\n- **장형 '-게 하다' 사동 (간접 사동)**: 주어가 말이나 지시로 동작을 유도함\n  - \"어머니가 아이에게 옷을 입게 했다.\" (아이 스스로 옷을 입도록 타이르거나 시킴)\n\n2. 피동 vs 사동 동형어 구별 공식 (Disambiguating Homonyms):\n- **보이다**:\n  - 피동 (주어+이/가): \"저 멀리 바다가 **보인다**.\" (Sea is visible)\n  - 사동 (목적어+을/를): \"친구에게 내 여권을 **보였다**.\" (Show passport to friend)\n- **들리다**:\n  - 피동: \"밖에서 음악 소리가 **들린다**.\" (Sound is heard)\n  - 사동: \"아이에게 무거운 짐을 **들렸다**.\" (Make child hold baggage / 들다+리+다)\n- **안기다**:\n  - 피동: \"아기가 엄마 품에 **안겼다**.\" (Baby was embraced in mother's arms)\n  - 사동: \"어머니가 아기에게 인형을 **안겼다**.\" (Mother placed doll in baby's hands)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (20.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "어머니께서 손수 아기에게 따뜻한 외투를 입히셨습니다. (직접 사동)",
+          "reading": "Eomeoni-kkeseo sonsu agi-ege ttatteuthan oetu-reul iphisyeotseumnida.",
+          "translation": "Mother personally dressed the baby in a warm coat (Direct causative: physically dressing the baby by hand)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (20.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "선생님께서는 학생 스스로 교복을 단정하게 입게 하셨습니다. (간접 사동)",
+          "reading": "Seonsaengnim-kkeseo-neun haksaeng seuseuro gyobok-eul danjeonghage ipge hasyeotseumnida.",
+          "translation": "The teacher had the students dress tidily in their uniforms themselves (Indirect causative: instructing/allowing)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (20.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "공항 출입국 심사대에서 심사관에게 여권과 항공권을 보여 주었습니다. (사동)",
+          "reading": "Gonghang churipguk simsadai-eseo simsagwan-ege yeogwon-gwa hang-gonggwon-eul boyeo jueotseumnida.",
+          "translation": "I showed my passport and flight ticket to the inspector at the airport immigration counter (Causative: object '여권과 항공권을')."
+        },
+        {
+          "target": "맑은 가을 하늘 아래로 북한산 백운대 봉우리가 시원스레 보입니다. (피동)",
+          "reading": "Malgeun gaeul haneul arae-ro Bukhansan Baegundae bong-uri-ga siwonseure boimnida.",
+          "translation": "Under the clear autumn sky, Bukhansan Baegundae peak is refreshingly visible (Passive: subject '봉우리가')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "직접 손으로 입히면 '입히다', 스스로 입게 시키면 '입게 하다'! 목적어가 있으면 사동 '보여주다'!"
+      ],
+      "culturalNotes": [
+        "자녀 교육에서 자립심을 강조할 때는 '숙제를 시키다/먹이다' 같은 직접 사동보다는 '스스로 공부하게 하다/정리하게 하다'처럼 간접 사동('-게 하다') 표현을 권장합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 사동사 접미사와 -게 하다 (Causative Structures) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "다음 중 '보이다'가 사동사(to show)로 쓰인 문장은 어느 것입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (20.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (20.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (20.4.3)."
+            "친구에게 어제 찍은 가족사진을 보여 주었습니다.",
+            "맑은 날에는 창밖으로 남산타워가 똑똑히 보입니다.",
+            "먼 바다 위로 수평선이 아련하게 보입니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "목적어('가족사진을')를 취하고 남에게 보게 만드는 사동 의미이므로 '보여 주었습니다'가 사동사입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 사동 표현(-이/히/리/기/우/추-, -게 하다) (Causative Voice) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "'아버지가 아이에게 신발을 스스로 신도록 유도했다'를 나타내는 간접 사동 표현은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (20.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (20.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (20.4.3)."
+            "아버지가 아이에게 신발을 스스로 신게 하셨다.",
+            "아버지가 아이에게 신발을 직접 신기셨다.",
+            "아버지가 아이에게 신발이 신겨졌다."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "스스로 신도록 지시/유도하는 간접 사동은 '-게 하다(신게 하셨다)'입니다."
         }
       ]
     },
@@ -9506,14 +9569,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 사동사 접미사와 -게 하다 (Causative Structures) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 20-4)?",
+          "prompt": "다음 중 직접 신체적으로 아기에게 음식을 떠먹이는 직접 사동 문장은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (20.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (20.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (20.4.3)."
+            "어머니가 아기에게 이유식을 먹이셨다.",
+            "어머니가 아기에게 이유식을 먹게 하셨다.",
+            "어머니가 아기에게 이유식을 먹도록 지시하셨다."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "explanation": "단형 사동 접미사 '먹이다'가 직접 음식을 입에 넣어 주는 직접 사동을 나타냅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'친구에게 사진을 보여 주었어요'(I showed the photo to my friend)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "친구에게 사진을 보여 주었어요.",
+            "친구에게 사진을 보여 주었어요"
+          ],
+          "explanation": "친구에게 + 사진을 + 보여 주었어요(보이다 + 어 주다 + 었어요) = 친구에게 사진을 보여 주었어요."
         }
       ]
     }
@@ -9523,56 +9595,65 @@
     "subject": "korean",
     "unit": 20,
     "lessonNumber": 5,
-    "title": "사동 표현(-이/히/리/기/우/추-, -게 하다) (Causative Voice) (Part 5)",
+    "title": "자녀 양육, 업무 지시 및 교육 훈련 실전 사동 담화",
     "level": "B2",
-    "objective": "Comprehensive mastery of 사동사 접미사와 -게 하다 (Causative Structures).",
+    "objective": "단형 사동, 장형 사동('-게 하다'), 한자어 사동('-시키다')을 총망라하여 직장 업무 분장, 자녀 돌봄, 교육 훈련 실전 담화를 능숙하게 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 사동 표현(-이/히/리/기/우/추-, -게 하다) (Causative Voice) » (제5절)의 핵심 언어 요소와 사동사 접미사와 -게 하다 (Causative Structures)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "사동 표현은 직장에서 상사가 부하 직원에게 업무를 지시하고 교육할 때, 가정에서 부모가 아이를 돌보고 좋은 습관을 기르게 할 때 핵심 어법으로 사용됩니다.\n\n1. 직장 신입 사원 직무 교육 및 업무 분장 실전 담화 모델:\n- 팀장: 지훈 씨, 이번 신규 프로젝트 기획안 검토는 민우 씨에게 먼저 맡겨 보세요.\n- 선임: 네, 팀장님. 제가 민우 씨에게 시장 조사 데이터를 먼저 분석하게 하겠습니다.\n- 팀장: 좋아요. 그리고 다음 주 프레젠테이션 발표 연습도 실전처럼 강도 높게 훈련시키세요.\n- 선임: 알겠습니다. 발표 자료의 핵심 메시지를 청중에게 명확히 이해시키도록 철저히 지도하겠습니다.\n- 팀장: 기대가 크네요. 필요한 참고 자료가 있으면 민우 씨가 언제든 열람할 수 있게 조치해 주세요.\n- 선임: 네, 사내 공유 폴더 접근 권한을 오늘 바로 승인받게 하겠습니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (20.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "퇴근 후 집에 돌아와서 아이를 따뜻한 물로 씻기고, 맛있는 저녁을 먹인 후 포근한 침대에 눕혀 재웠습니다.",
+          "reading": "Toegeun hu jip-e dorawaseo ai-reul ttatteuthan mul-ro ssitgigo, masitneun jeonyeok-eul meogin hu pogeunhan chimdae-e nuphyeo jaewotseumnida.",
+          "translation": "After returning home from work, I washed the child with warm water, fed them delicious dinner, and put them to bed to sleep ('씻기다' + '먹이다' + '눕히다' + '재우다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (20.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "신임 감독관은 모든 훈련생들에게 안전 수칙을 완벽히 숙지하게 하고 강도 높은 훈련을 실시했습니다.",
+          "reading": "Sin-im gamdokgwan-eun modeun hullyeonsaengdeul-ege anjeon suchik-eul wanbyeokhi sukjihage hago gangdo nopeun hullyeon-eul silssihaetseumnida.",
+          "translation": "The new supervisor had all trainees master the safety rules perfectly and conducted high-intensity training ('숙지하게 하다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (20.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "새로운 마케팅 전략은 까다로운 현대 소비자들의 다양한 기호와 눈높이를 충분히 만족시켰습니다.",
+          "reading": "Saeroun maketing jeonlyak-eun kkadareoun hyeondae sobijadeul-ui dayanghan giho-wa nunnop-i-reul chungbunhi manjoksikyeotseumnida.",
+          "translation": "The new marketing strategy sufficiently satisfied the diverse tastes and high standards of discerning modern consumers ('만족시키다')."
+        },
+        {
+          "target": "중요한 비즈니스 미팅 전에는 휴대전화 벨소리를 무음으로 바꾸어 회의 진행을 방해하지 않게 해야 합니다.",
+          "reading": "Jung-yohan bijeuniseu miting jeon-eneun hyudaejeonhwa belsori-reul mueum-euro bakkwo hoeui jinhaeng-eul banghaehaji anhge haeya hamnida.",
+          "translation": "Before an important business meeting, one must change the mobile phone ringtone to silent mode so as not to disrupt the meeting proceeding ('방해하지 않게 하다')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "씻기고 먹이고 재우는 부모의 손길, 훈련시키고 숙지하게 하는 상사의 지시! 사동 담화 완성!"
+      ],
+      "culturalNotes": [
+        "한국의 직장 문화에서는 업무를 지시할 때 일방적인 강제 명령보다는 \"~씨가 한번 맡아보게 해 주세요\", \"검토하게 하겠습니다\"처럼 완곡하고 세련된 사동 표현을 사용하여 상호 존중을 나타냅니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 사동사 접미사와 -게 하다 (Causative Structures) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "신입 사원에게 보고서 초안 작성을 맡기겠다고 상사에게 보고하는 가장 세련된 표현은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (20.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (20.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (20.5.3)."
+            "제가 신입 사원에게 초안을 먼저 작성하게 하겠습니다.",
+            "제가 신입 사원에게 초안을 먼저 작성되게 하겠습니다.",
+            "제가 신입 사원에게 초안을 먼저 작성시켜지게 하겠습니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "신입 사원으로 하여금 작성하도록 유도/지시하는 것이므로 '작성하게 하겠습니다'가 가장 자연스럽고 품격 있습니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 사동 표현(-이/히/리/기/우/추-, -게 하다) (Causative Voice) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "자녀 돌봄 사동사(씻기다, 먹이다, 재우다)가 모두 바르게 활용된 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (20.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (20.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (20.5.3)."
+            "아이를 깨끗이 씻기고 밥을 먹인 후 포근하게 재웠습니다.",
+            "아이를 깨끗이 씻어지고 밥을 먹게 된 후 포근하게 자였습니다.",
+            "아이를 깨끗이 씻게 되고 밥을 먹히게 한 후 포근하게 재워졌습니다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "'씻기다', '먹이다', '재우다'의 단형 직접 사동사들이 완벽하게 어우러진 문장입니다."
         }
       ]
     },
@@ -9580,14 +9661,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 사동사 접미사와 -게 하다 (Causative Structures) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 20-5)?",
+          "prompt": "다음 대화의 빈칸에 들어갈 가장 알맞은 사동 표현은?\n\"A: 민수 씨에게 그 일을 맡기셨나요?\nB: 네, 민수 씨가 내일까지 기획안을 _____ 했습니다.\"",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (20.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (20.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (20.5.3)."
+            "마무리하게",
+            "마무리되게",
+            "마무리시키어지게"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "민수 씨가 직접 마무리하도록 지시한 것이므로 '마무리하게(하다)'가 정확합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'아이를 침대에 눕혀 재웠어요'(I laid the child on the bed and put them to sleep)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "아이를 침대에 눕혀 재웠어요.",
+            "아이를 침대에 눕혀 재웠어요"
+          ],
+          "explanation": "아이를 + 침대에 + 눕혀(눕히다 + 어) + 재웠어요(재우다 + 었 + 어요) = 아이를 침대에 눕혀 재웠어요."
         }
       ]
     }
