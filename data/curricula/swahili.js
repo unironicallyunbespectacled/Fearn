@@ -5815,53 +5815,62 @@
     "subject": "swahili",
     "unit": 14,
     "lessonNumber": 1,
-    "title": "Ngeli ya 11/14 (U) na Majina ya Dhahania (Noun Classes 11/14 U) (Part 1)",
+    "title": "Ngeli ya 11/14 (U): Nomino Zinazohesabika (U-ZI) na Nomino za Dhahania (U bila Wingi)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.1) with authentic precision.",
+    "objective": "Kutofautisha na kutumia makundi mawili ya Ngeli ya U: nomino zinazohesabika zenye wingi katika Ngeli ya 10 (u- -> n-/ny-/kuta/funguo) na nomino za dhahania, hali, vitu vya unga/majimaji, na majina ya nchi yasiyo na wingi.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Ngeli ya 11/14 (U): Miundo ya Nomino na Makundi:\n\n1. **Kundi la 1: Nomino Zinazohesabika (Class 11 -> Class 10: U-ZI)**:\n   - Nomino za vitu virefu, vyembamba, au vinavyoshikika vinavyochukua wingi wa Ngeli ya 10 (N-N):\n     - *ufunguo* (key) -> **funguo** (keys)\n     - *ukuta* (wall) -> **kuta** (walls)\n     - *upanga* (sword) -> **panga** (swords)\n     - *ubao* (board / plank) -> **mbao** (boards) [*u-b- -> mb-*]\n     - *ubavu* (rib / side) -> **mbavu** (ribs)\n     - *wembe* (razor blade) [*u-embe*] -> **nyembe** (razors) [*ny-* kabla ya irabu]\n     - *wakati* (time / era) [*u-akati*] -> **nyakati** (times / eras)\n     - *waya* (wire) -> **nyaya** (wires)\n     - *ua* (courtyard / fence) -> **nyua** (fences)\n     - *ulimi* (tongue) -> **ndimi** (tongues) [*u-l- -> nd-*]\n     - *uzi* (thread) -> **nyuzi** (threads)\n     - *unywele* (a strand of hair) -> **nywele** (hair)\n\n2. **Kundi la 2: Nomino za Dhahania na Zisizohesabika (Class 14: U bila wingi)**:\n   - **Dhahania & Hisia**: *uhuru* (freedom / independence), *upendo* (love), *uzuri* (beauty), *wema* (goodness / kindness), *ubaya* (badness), *umri* (age), *utamaduni* (culture), *utajiri* (wealth), *ujana* (youth), *uzee* (old age), *usingizi* (sleep), *urafiki* (friendship).\n   - **Chakula cha Unga & Asili**: *ugali* (stiff maize porridge), *uji* (porridge), *unga* (flour), *umeme* (electricity).\n   - **Majina ya Nchi**: *Uganda, Ufaransa, Uingereza, Ujerumani, Urusi, Ureno, Uswisi*.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 14."
+          "target": "Ufunguo huu mdogo unafungua mlango wa chumba chetu.",
+          "reading": "U-fu-nguo hu-u mdo-go u-na-fu-ngua mla-ngo wa chu-mba che-tu. [ufuˈŋɡuɔ ˈhuː mˈdɔɡɔ unɑfuˈŋɡuɑ ˈmlɑŋɡɔ wɑ ˈtʃumbɑ ˈtʃɛtu] (oo-foon-GOO-oh HOO-oo m-DOH-goh oo-nah-foon-GOO-ah m-LAHN-goh wah CHOO-m-bah CHAY-too)",
+          "translation": "This small key [class 11: ufunguo huu mdogo] opens the door of our room."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 14-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Funguo hizi zote zimepotea lakini kuta zetu zote ni imara.",
+          "reading": "Fu-nguo hi-zi zo-te zi-me-po-te-a la-ki-ni ku-ta ze-tu zo-te ni i-ma-ra. [ˈfuŋɡuɔ ˈhizi ˈzɔtɛ zimɛpɔˈtɛɑ lɑˈkini ˈkutɑ ˈzɛtu ˈzɔtɛ ni iˈmɑrɑ] (FOON-goo-oh HEE-zee ZOH-tay zee-may-poh-TAY-ah lah-KEE-nee KOO-tah ZAY-too ZOH-tay nee ee-MAH-rah)",
+          "translation": "All these keys [class 10: funguo hizi] are lost, but all our walls [class 10: kuta zetu zote] are strong."
+        },
+        {
+          "target": "Upendo na wema huleta amani na utulivu katika jamii.",
+          "reading": "U-pe-ndo na we-ma hu-le-ta a-ma-ni na u-tu-li-vu ka-ti-ka ja-mi-i. [uˈpɛndɔ nɑ ˈwɛmɑ hulɛˈtɑ ɑˈmɑni nɑ utuˈlivu kɑˈtikɑ ʤɑˈmiː] (oo-PAYN-doh nah WAY-mah hoo-lay-TAH ah-MAH-nee nah oo-too-LEE-voo kah-TEE-kah jah-MEE-ee)",
+          "translation": "Love and kindness [abstract class 14: upendo na wema] bring peace and tranquility to society."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ngeli ya U: Vitu vinavyohesabika (ufunguo/funguo, ukuta/kuta); Dhahania/nchi hazina wingi (upendo, uhuru, ugali, Ufaransa)!"
+      ],
+      "culturalNotes": [
+        "Neno 'Uhuru' (kutoka ngeli ya U) ni ishara kuu ya ukombozi wa mataifa ya Afrika Mashariki, kama unavyoonekana katika Mlima Kilimanjaro (Kilele cha Uhuru)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Safari\":",
+          "prompt": "Wingi sahihi wa nomino \"Ukuta\" (wall) katika Ngeli ya U-ZI ni upi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Sanaa»",
-            "Mpangilio usio sahihi wa viambishi katika «Mashairi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ngoma»"
+            "kuta (Walls - Correct Class 10 plural of 'ukuta')",
+            "miukuta (Kosa la kutumia kiambishi cha M-MI)",
+            "makuta (Kosa la kutumia JI-MA)",
+            "vikuta (Huu ni udogo katika KI-VI badala ya wingi wa kawaida)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino «Ukuta» hupoteza «u-» na kuwa «kuta» katika wingi wa Ngeli ya 10."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Safari\":",
+          "prompt": "Nomino ipi kati ya zifuatazo ni nomino ya dhahania (Abstract Noun) katika Ngeli ya 14 (U) isiyo na umbo la wingi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Mashairi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ngoma»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Sanaa»"
+            "upendo (Love - Class 14 abstract noun without plural)",
+            "ufunguo (Nomino inayohesabika yenye wingi: funguo)",
+            "wembe (Nomino inayohesabika yenye wingi: nyembe)",
+            "ubao (Nomino inayohesabika yenye wingi: mbao)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Upendo» ni nomino ya kidhahania ya Ngeli ya 14 isiyohesabika na isiyo na wingi."
         }
       ]
     },
@@ -5869,17 +5878,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Safari\": Which sentence is completely correct?",
+          "prompt": "Chagua jozi zilizo sahihi kabisa za umoja na wingi katika Ngeli ya U-ZI:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ngoma»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Sanaa»",
-            "Mpangilio usio sahihi wa viambishi katika «Mashairi»"
+            "Ufunguo -> funguo, Ukuta -> kuta, Ubao -> mbao, Wembe -> nyembe, Ulimi -> ndimi, Uzi -> nyuzi.",
+            "Kitabu -> vitabu, Kiti -> viti, Chumba -> vyumba.",
+            "Gari -> magari, Tunda -> matunda, Jina -> majina.",
+            "Mti -> miti, Mto -> mito, Mkono -> mikono."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Ufunguo/funguo, ukuta/kuta, ubao/mbao, wembe/nyembe, ulimi/ndimi, na uzi/nyuzi ni mifano sahihi ya mabadiliko ya U-ZI."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u14-l2": {
@@ -5887,53 +5897,62 @@
     "subject": "swahili",
     "unit": 14,
     "lessonNumber": 2,
-    "title": "Ngeli ya 11/14 (U) na Majina ya Dhahania (Noun Classes 11/14 U) (Part 2)",
+    "title": "Upatanisho wa Vitenzi na Viashiria katika Ngeli ya 11/14 (Verbal Concord & Demonstratives in U Class)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.2) with authentic precision.",
+    "objective": "Kutambua na kutumia viambishi vya kitenzi (u- kwa umoja, zi- kwa wingi wa vitu vinavyohesabika) na viashiria vyote vitatu (huu/hizi, huo/hizo, ule/zile) katika Ngeli ya U.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Upatanisho wa Ngeli ya U katika Vitenzi na Viashiria:\n\n1. **Upatanisho wa Kitenzi (Verbal Concord)**:\n   - **Umoja (Class 11/14: u- / w-)**: Kiambishi cha mtendaji ni **u-**, kiambishi cha mtendwa ni **-u-**:\n     - *Ukuta **u**meanguka* (The wall has fallen)\n     - *Upendo **u**naleta furaha* (Love brings joy)\n     - *Umeme **u**mekatika* (Electricity is disconnected)\n     - *Fundi ame**u**jenga ukuta* (The mason built the wall)\n   - **Wingi (Class 10: zi-) kwa nomino zinazohesabika**:\n     - *Kuta **zi**meanguka* (The walls have fallen)\n     - *Funguo **zi**mepatikana* (The keys have been found)\n     - *Fundi ame**zi**jenga kuta* (The mason built the walls)\n\n2. **Viashiria / Vionyeshi katika Ngeli ya U (Demonstratives)**:\n   - **Karibu (Near: This / These)**:\n     - Umoja: **huu** (*ufunguo huu*, *ukuta huu*, *upendo huu*)\n     - Wingi: **hizi** (*funguo hizi*, *kuta hizi*)\n   - **Mbali Kidogo / Rejelewa (Reference: That / Those)**:\n     - Umoja: **huo** (*ufunguo huo*, *ukuta huo*, *upendo huo*)\n     - Wingi: **hizo** (*funguo hizo*, *kuta hizo*)\n   - **Mbali Zaidi (Far: That / Those over there)**:\n     - Umoja: **ule** (*ufunguo ule*, *ukuta ule*)\n     - Wingi: **zile** (*funguo zile*, *kuta zile*)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 14."
+          "target": "Ukuta huu ulijengwa mwaka uliopita lakini kuta zile zilibomolewa na mvua kali.",
+          "reading": "U-ku-ta hu-u u-li-je-ngwa mwa-ka u-li-o-pi-ta la-ki-ni ku-ta zi-le zi-li-bo-mo-le-wa na mvu-a ka-li. [uˈkutɑ ˈhuː uliˈʤɛŋɡwɑ ˈmwɑkɑ uliɔˈpitɑ lɑˈkini ˈkutɑ ˈzilɛ zilibɔmɔˈlɛwɑ nɑ ˈmvuɑ ˈkɑli] (oo-KOO-tah HOO-oo oo-lee-JAYN-gwah MWAH-kah oo-lee-oh-PEE-tah lah-KEE-nee KOO-tah ZEE-lay zee-lee-boh-moh-LAY-wah nah MVOO-ah KAH-lee)",
+          "translation": "This wall [ukuta huu] was built [ulijengwa] last year, but those walls yonder [kuta zile] were demolished [zilibomolewa] by heavy rain."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 14-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Umeme ulikatika ghafla mjini lakini sasa unawaka vizuri kila mahali.",
+          "reading": "U-me-me u-li-ka-ti-ka gha-fla mji-ni la-ki-ni sa-sa u-na-wa-ka vi-zu-ri ki-la ma-ha-li. [uˈmɛmɛ ulikɑˈtikɑ ˈɣɑflɑ mʤiˈni lɑˈkini ˈsɑsɑ unɑˈwɑkɑ viˈzuri ˈkilɑ mɑˈhɑli] (oo-MAY-may oo-lee-kah-TEE-kah GHAH-flah m-jee-NEE lah-KEE-nee SAH-sah oo-nah-WAH-kah vee-ZOO-ree KEE-lah mah-HAH-lee)",
+          "translation": "Electricity [umeme] was cut off [ulikatika] suddenly in town, but now it is on [unawaka] well everywhere."
+        },
+        {
+          "target": "Ufunguo huo ulipotea jana lakini kaka yangu ameupata asubuhi hii.",
+          "reading": "U-fu-nguo hu-o u-li-po-te-a ja-na la-ki-ni ka-ka ya-ngu a-me-u-pa-ta a-su-bu-hi hi-i. [ufuˈŋɡuɔ ˈhuɔ ulipɔˈtɛɑ ˈʤɑnɑ lɑˈkini ˈkɑkɑ ˈjɑŋɡu ɑmɛuˈpɑtɑ ɑsuˈbuhi ˈhiː] (oo-foon-GOO-oh HOO-oh oo-lee-poh-TAY-ah JAH-nah lah-KEE-nee KAH-kah YAHN-goo ah-may-oo-PAH-tah ah-soo-BOO-hee HEE-ee)",
+          "translation": "That key [ufunguo huo] was lost yesterday, but my brother found it [OP -u-: ameupata] this morning."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vitenzi na Viashiria vya U: Umoja = U- / huu / huo / ule; Wingi = ZI- / hizi / hizo / zile!"
+      ],
+      "culturalNotes": [
+        "Nyumba za kitamaduni za Waswahili hujengwa kwa kuta za matumbawe (coral rag walls) zilizounganishwa kwa chokaa, zinazojulikana kwa uimara wao."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Sanaa\":",
+          "prompt": "Sentensi ipi inatumia kiashiria sahihi cha \"mbali kidogo\" (huo) na kitenzi cha umoja katika Ngeli ya U?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mashairi»",
-            "Mpangilio usio sahihi wa viambishi katika «Ngoma»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Utamaduni»"
+            "Ubao huo ulianguka wakati wa dhoruba kali. (That board fell during the fierce storm - Correct Class 11 demonstrative 'huo' and verbal prefix 'u-')",
+            "Ubao hilo lilianguka (Kosa la kutumia JI-MA)",
+            "Ubao hicho kilianguka (Kosa la kutumia KI-VI)",
+            "Ubao hiyo ilianguka (Kosa la kutumia N-N)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino ya umoja ya Ngeli ya U «Ubao» huchukua kiashiria «huo» na kiambishi cha kitenzi «u-»: «Ubao huo ulianguka»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Sanaa\":",
+          "prompt": "Unapozungumzia kuta nyingi za mbali zaidi (yonder), kirai sahihi cha kionyeshi ni kipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Ngoma»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Utamaduni»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mashairi»"
+            "kuta zile (Those walls over there - Correct Class 10 far demonstrative 'zile')",
+            "kuta yale (Kosa la kutumia JI-MA)",
+            "kuta vile (Kosa la kutumia KI-VI)",
+            "kuta ule (Kosa la kutumia umoja)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Katika wingi wa Ngeli ya U-ZI, kiashiria cha mbali zaidi ni «zile»: «kuta zile»."
         }
       ]
     },
@@ -5941,17 +5960,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Sanaa\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha sahihi ya viashiria vitatu katika Ngeli ya U kwa umoja na wingi:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Utamaduni»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mashairi»",
-            "Mpangilio usio sahihi wa viambishi katika «Ngoma»"
+            "Umoja: huu (this), huo (that), ule (that yonder); Wingi: hizi (these), hizo (those), zile (those yonder).",
+            "Umoja: hiki, hicho, kile; Wingi: hivi, hivyo, vile.",
+            "Umoja: hili, hilo, lile; Wingi: haya, hayo, yale.",
+            "Umoja: hii, hiyo, ile; Wingi: hizi, hizo, zile."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Viashiria vya Ngeli ya U ni «huu, huo, ule» (umoja) na «hizi, hizo, zile» (wingi wa U-ZI)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u14-l3": {
@@ -5959,53 +5979,62 @@
     "subject": "swahili",
     "unit": 14,
     "lessonNumber": 3,
-    "title": "Ngeli ya 11/14 (U) na Majina ya Dhahania (Noun Classes 11/14 U) (Part 3)",
+    "title": "Upatanisho wa Vivumishi vya Sifa katika Ngeli ya 11/14 (Adjective Concord in U Class)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.3) with authentic precision.",
+    "objective": "Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U (m-/mw- katika umoja, na n-/ny- katika wingi kufuata sheria za pua).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vivumishi vya Sifa katika Ngeli ya 11/14 (U-Class Adjectives):\n\n1. **Vivumishi vya Sifa katika Umoja (Class 11/14: Kiambishi m- / mw-)**:\n   - Kabla ya Konsonanti: **m-**:\n     - *ukuta **mrefu*** (a tall wall), *ufunguo **mdogo*** (a small key), *upanga **mkali*** (a sharp sword), *upendo **mkubwa*** (great love), *ugali **mzuri*** (fine ugali), *ubao **mpana*** (a wide board).\n   - Kabla ya Irabu: **mw-**:\n     - *ukuta **mweusi*** (*m-eusi*), *ubao **mweupe*** (*m-eupe*), *upendo **mwingine*** (*m-ingine*), *ugonjwa **mwingi*** (*m-ingi*).\n\n2. **Vivumishi vya Sifa katika Wingi (Class 10: Kiambishi n- / ny-)**:\n   - Wingi wa nomino zinazohesabika huchukua viambishi vya Ngeli ya 10 (N-N):\n     - *kuta **ndefu*** (*n + refu -> ndefu*), *funguo **ndogo***, *panga **kali***, *kuta **nyeusi***, *mbao **nyeupe***, *nyuzi **nyembamba***.\n\n3. **Vivumishi Visivyobadilika (Loanword Adjectives)**:\n   - *ukuta imara / kuta imara*, *ubao safi / mbao safi*, *upendo bora*, *umeme ghali*.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 14."
+          "target": "Ukuta mrefu mweusi ulijengwa kuzunguka jengo la serikali.",
+          "reading": "U-ku-ta mre-fu mwe-u-si u-li-je-ngwa ku-zu-ngu-ka je-ngo la se-ri-ka-li. [uˈkutɑ mˈrɛfu ˈmwɛusi uliˈʤɛŋɡwɑ kuzuˈŋɡukɑ ˈʤɛŋɡɔ lɑ sɛrikɑˈli] (oo-KOO-tah m-RAY-foo MWAY-oo-see oo-lee-JAYN-gwah koo-zoon-GOO-kah JAYN-goh lah say-ree-kah-LEE)",
+          "translation": "A tall [mrefu] black [mweusi] wall was built around the government building."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 14-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kuta ndefu nyeupe zimesafishwa vizuri na kupakwa rangi mpya.",
+          "reading": "Ku-ta nde-fu nye-u-pe zi-me-sa-fi-shwa vi-zu-ri na ku-pa-kwa ra-ngi mpy-a. [ˈkutɑ ˈndɛfu ˈɲɛupɛ zimɛsɑˈfiʃwɑ viˈzuri nɑ kuˈpɑkwɑ ˈrɑŋɡi ˈmpjɑ] (KOO-tah N-DAY-foo NYAY-oo-pay zee-may-sah-FEE-shwah vee-ZOO-ree nah koo-PAH-kwah RAHN-gee M-PYAH)",
+          "translation": "Tall [ndefu] white [nyeupe] walls have been cleaned well and painted with new paint."
+        },
+        {
+          "target": "Ugali moto mzuri na unga safi viliandaliwa kwa chakula cha mchana.",
+          "reading": "U-ga-li mo-to mzu-ri na u-nga sa-fi vi-li-a-nda-li-wa kwa cha-ku-la cha mcha-na. [uˈɡɑli ˈmɔtɔ mˈzuri nɑ ˈuŋɡɑ ˈsɑfi viliɑndɑˈliwɑ kwɑ tʃɑˈkulɑ tʃɑ mˈtʃɑnɑ] (oo-GAH-lee MOH-toh m-ZOO-ree nah OON-gah SAH-fee vee-lee-ahn-dah-LEE-wah kwah chah-KOO-lah chah m-CHAH-nah)",
+          "translation": "Hot fine ugali [ugali mzuri] and clean flour [unga safi] were prepared for lunch."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vivumishi vya U: Umoja = m- / mw- (ukuta mrefu, ubao mweupe); Wingi = n- / ny- (kuta ndefu, mbao nyeupe)!"
+      ],
+      "culturalNotes": [
+        "Ugali wa sembe (unga mweupe) au dona (unga wa nafaka nzima) ni chakula kikuu cha kila siku katika nchi zote za Afrika Mashariki."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mashairi\":",
+          "prompt": "Sentensi ipi ina kivumishi chenye upatanisho sahihi kinachoanza na irabu katika umoja wa Ngeli ya U?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ngoma»",
-            "Mpangilio usio sahihi wa viambishi katika «Utamaduni»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Hali ya hewa»"
+            "Ubao mweupe uliwekwa mbele ya darasa. (The white board was placed at the front of the classroom - Correct Class 11 adjective 'mw-eupe')",
+            "Ubao cheupe uliwekwa (Kosa la kutumia upatanisho wa KI-VI)",
+            "Ubao jeupe uliwekwa (Kosa la kutumia upatanisho wa JI-MA)",
+            "Ubao nyeupe uliwekwa (Kosa la kutumia upatanisho wa wingi wa N-N)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kivumishi kinachoanza na irabu «-eupe» kinapopatana na nomino ya umoja wa U (ubao) huchukua «mw-» kupata «mweupe»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mashairi\":",
+          "prompt": "Unapovumisha nomino ya wingi \"Kuta\" (walls) kwa kutumia kivumishi \"-refu\" (tall/long), kirai sahihi ni kipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Utamaduni»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Hali ya hewa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ngoma»"
+            "kuta ndefu (Tall walls - Correct Class 10 nasal shift 'n + refu' -> 'ndefu')",
+            "kuta mirefu (Kosa la kutumia upatanisho wa M-MI)",
+            "kuta marefu (Kosa la kutumia upatanisho wa JI-MA)",
+            "kuta mrefu (Kosa la kutumia umoja)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino ya wingi «Kuta» (Ngeli ya 10) huchukua kivumishi chenye muundo wa pua: «kuta ndefu»."
         }
       ]
     },
@@ -6013,17 +6042,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mashairi\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi wa vivumishi vya sifa katika Ngeli ya U kwa umoja na wingi:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Hali ya hewa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ngoma»",
-            "Mpangilio usio sahihi wa viambishi katika «Utamaduni»"
+            "Ukuta mrefu mweupe ulijengwa jana na kuta ndefu nyeusi zilibomolewa na fundi. (Tall white wall [mrefu mweupe], tall black walls [ndefu nyeusi].)",
+            "Ukuta ndefu nyeupe ulijengwa jana na kuta mirefu myeusi zilibomolewa.",
+            "Ukuta kirefu cheupe kilijengwa na kuta marefu meusi yalibomolewa.",
+            "Vivumishi vya Ngeli ya U havibadiliki kamwe katika umoja na wingi."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Ukuta mrefu mweupe ulijengwa jana na kuta ndefu nyeusi zilibomolewa na fundi.» inafuata sheria zote za vivumishi vya Ngeli ya U."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u14-l4": {
@@ -6031,53 +6061,62 @@
     "subject": "swahili",
     "unit": 14,
     "lessonNumber": 4,
-    "title": "Ngeli ya 11/14 (U) na Majina ya Dhahania (Noun Classes 11/14 U) (Part 4)",
+    "title": "Vivumishi vya Idadi, Vimilikishi, na Uundaji wa Dhahania (Numbers, Possessives & Abstract Derivation)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.4) with authentic precision.",
+    "objective": "Kutumia vivumishi vya idadi (mmoja, mbili, tatu, nne, tano, nane), vimilikishi (wangu/zangu), na kuelewa uundaji wa majina ya dhahania (Abstract Noun Formation kwa kiambishi u-).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vivumishi vya Idadi, Vimilikishi, na Uundaji wa Majina ya Dhahania:\n\n1. **Vivumishi vya Idadi katika Ngeli ya U**:\n   - Umoja: *ufunguo **mmoja*** (1 key - *mmoja* kwa sababu ya upatanisho wa m-)\n   - Wingi (Class 10 N-N): *funguo **mbili*** (2), *funguo **tatu*** (3), *kuta **nne*** (4), *kuta **tano*** (5), *panga **nane*** (8).\n   - Idadi zisizobadilika: *funguo sita, saba, tisa, kumi*.\n\n2. **Vimilikishi vya Ngeli ya U**:\n   - Umoja: **wangu, wako, wake, wetu, wenu, wao** (*ukuta wangu* = my wall, *upendo wetu* = our love, *uhuru wetu* = our freedom)\n   - Wingi: **zangu, zako, zake, zetu, zenu, zao** (*kuta zangu* = my walls, *funguo zetu* = our keys)\n\n3. **Uundaji wa Majina ya Dhahania (Abstract Derivation: Kiambishi U-)**:\n   - Kiambishi **u-** (au **w-**) kikitangulizwa mbele ya kivumishi au nomino huunda jina la dhahania/sifa:\n     - *-zuri* (good/beautiful) -> **uzuri** (beauty)\n     - *-baya* (bad) -> **ubaya** (badness / malice)\n     - *-kubwa* (big) -> **ukubwa** (seniority / greatness)\n     - *-dogo* (small) -> **udogo** (infancy / smallness)\n     - *-refu* (long/tall) -> **urefu** (height / length)\n     - *mtoto* (child) -> **utoto** (childhood)\n     - *kijana* (youth) -> **ujana** (youthhood)\n     - *mzee* (elder) -> **uzee** (old age)\n     - *rafiki* (friend) -> **urafiki** (friendship)\n     - *mwalimu* (teacher) -> **ualimu** (teaching profession)\n     - *daktari* (doctor) -> **udaktari** (medical profession)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 14."
+          "target": "Uhuru wetu na upendo wetu ndizo nguzo kuu za umoja wa kitaifa.",
+          "reading": "U-hu-ru we-tu na u-pe-ndo we-tu ndi-zo ngu-zo ku-u za u-mo-ja wa ki-ta-i-fa. [uˈhuru ˈwɛtu nɑ uˈpɛndɔ ˈwɛtu ˈndizɔ ˈŋɡuzɔ ˈkuː zɑ uˈmɔʤɑ wɑ kitɑˈifɑ] (oo-HOO-roo WAY-too nah oo-PAYN-doh WAY-too N-DEE-zoh N-GOO-zoh KOO-oo zah oo-MOH-jah wah kee-tah-EE-fah)",
+          "translation": "Our freedom [uhuru wetu] and our love [upendo wetu] are the main pillars of national unity [umoja]."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 14-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Funguo zetu mbili mpya ziliwekwa kabatini pamoja na nyaraka zote.",
+          "reading": "Fu-nguo ze-tu mbi-li mpy-a zi-li-we-kwa ka-ba-ti-ni pa-mo-ja na nya-ra-ka zo-te. [ˈfuŋɡuɔ ˈzɛtu ˈmbili ˈmpjɑ ziliˈwɛkwɑ kɑbɑˈtini pɑˈmɔʤɑ nɑ ɲɑˈrɑkɑ ˈzɔtɛ] (FOON-goo-oh ZAY-too M-BEE-lee M-PYAH zee-lee-WAY-kwah kah-bah-TEE-nee pah-MOH-jah nah nyah-RAH-kah ZOH-tay)",
+          "translation": "Our two new keys [funguo zetu mbili mpya] were placed in the cupboard along with all documents."
+        },
+        {
+          "target": "Urafiki wao wa dhati ulianza wakati wa utoto wao kijijini.",
+          "reading": "U-ra-fi-ki wa-o wa dha-ti u-li-a-nza wa-ka-ti wa u-to-to wa-o ki-ji-ji-ni. [urɑˈfiki ˈwɑɔ wɑ ˈðɑti uliˈɑnzɑ wɑˈkɑti wɑ uˈtɔtɔ ˈwɑɔ kiʤiˈʤini] (oo-rah-FEE-kee WAH-oh wah THAH-tee oo-lee-AHN-zah wah-KAH-tee wah oo-TOH-toh WAH-oh kee-jee-jee-NEE)",
+          "translation": "Their sincere friendship [abstract: urafiki wao] began during their childhood [abstract: utoto wao] in the village."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "U- Derivation: -zuri -> uzuri, rafiki -> urafiki, mtoto -> utoto; Idadi: ufunguo mmoja, funguo mbili/tatu; Vimilikishi: ukuta wangu / kuta zangu!"
+      ],
+      "culturalNotes": [
+        "Falsafa ya 'Ujamaa' (kutoka jina 'jamaa' -> udada na ukaka wa jamii) iliyoasisiwa na Mwalimu Julius Nyerere inatokana na uundaji wa nomino za dhahania za Ngeli ya U."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Ngoma\":",
+          "prompt": "Sentensi ipi inatumia nambari moja (1) kwa upatanisho sahihi wa umoja katika Ngeli ya U?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Utamaduni»",
-            "Mpangilio usio sahihi wa viambishi katika «Hali ya hewa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Jua»"
+            "Ufunguo mmoja ulipatikana chini ya kiti. (One key was found under the chair - Correct Class 11 numeral 'mmoja')",
+            "Ufunguo moja ulipatikana (Kosa la kuacha kiambishi cha upatanisho 'm-')",
+            "Ufunguo kimoja ulipatikana (Kosa la kutumia upatanisho wa KI-VI)",
+            "Ufunguo limo uliopatikana (Kosa la kutumia upatanisho wa JI-MA)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Katika umoja wa Ngeli ya U, kivumishi cha idadi «-moja» huchukua «m-»: «ufunguo mmoja»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Ngoma\":",
+          "prompt": "Kivumishi \"-refu\" (tall/long) kinapobadilishwa kuwa jina la dhahania (abstract noun) linalomaanisha \"height / length\", neno sahihi huwa lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Hali ya hewa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Jua»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Utamaduni»"
+            "urefu (Height / length - Correct abstract derivation with prefix 'u-')",
+            "kirefu (Hii ni sifa ya ngeli ya KI-VI au lugha ndefu)",
+            "marefu (Huu ni wingi wa JI-MA)",
+            "mrefu (Hii ni sifa ya A-WA au M-MI)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kivumishi «-refu» huchukua kiambishi cha dhahania «u-» kupata «urefu» (height / length)."
         }
       ]
     },
@@ -6085,17 +6124,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Ngoma\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayochanganya idadi, vimilikishi, na majina ya dhahania katika Ngeli ya U kwa ukamilifu:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Jua»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Utamaduni»",
-            "Mpangilio usio sahihi wa viambishi katika «Hali ya hewa»"
+            "Urafiki wetu ulianza wakati wa utoto wetu, na funguo zetu mbili mpya zimefungua milango ya mafanikio. (Our friendship [urafiki wetu], our childhood [utoto wetu], and our two new keys [funguo zetu mbili mpya].)",
+            "Urafiki yetu ilianza wakati wa utoto yetu na funguo yetu mawili mapya.",
+            "Urafiki kitoto ulianza wakati wa funguo mbili.",
+            "Ngeli ya U haitumiki kuunda majina ya dhahania katika Kiswahili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Urafiki wetu ulianza wakati wa utoto wetu, na funguo zetu mbili mpya zimefungua milango ya mafanikio.» inajumuisha miundo ya dhahania (urafiki, utoto), vimilikishi (wetu, zetu), na idadi (mbili)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u14-l5": {
@@ -6103,53 +6143,62 @@
     "subject": "swahili",
     "unit": 14,
     "lessonNumber": 5,
-    "title": "Ngeli ya 11/14 (U) na Majina ya Dhahania (Noun Classes 11/14 U) (Part 5)",
+    "title": "Muhtasari wa Ngeli ya 11/14 (U) na Majina ya Dhahania (Grand Synthesis of U Class)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 14: nomino zinazohesabika za U-ZI, nomino za dhahania na nchi zisizo na wingi, upatanisho wa vitenzi (u-/zi-), virejeshi vya watendwa (-u-/-zi-), viashiria (huu/hizi, huo/hizo, ule/zile), vimilikishi (wangu/zangu), vivumishi vya sifa (m-/n-), idadi, na mifumo ya uundaji wa maneno ya dhahania.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Ngeli ya 11/14 (Grand Synthesis of U Class):\n\n1. **Muundo Kamili wa Ngeli ya 11/14 (Master U Matrix)**:\n   - **Nomino Zinazohesabika (11->10)**: *ufunguo / funguo*, *ukuta / kuta*, *ubao / mbao*, *wembe / nyembe*, *ulimi / ndimi*, *uzi / nyuzi*.\n   - **Nomino za Dhahania na Nchi (14)**: *uhuru, upendo, uzuri, urafiki, ugali, unga, umeme, Uganda, Ufaransa*.\n   - **Kiambishi Kitenzi (SP)**: *u-* (umoja: *ukuta umeanguka, upendo unaleta amani*) / *zi-* (wingi: *kuta zimeanguka*).\n   - **Kirejeshi Mtendwa (OP)**: *-u-* (umoja: *ninaupenda*) / *-zi-* (wingi: *ninazipenda*).\n   - **Viashiria**: *huu / hizi* (karibu), *huo / hizo* (hapo), *ule / zile* (mbali).\n   - **Vimilikishi**: *wangu/wetu* (umoja) / *zangu/zetu* (wingi).\n   - **Vivumishi vya Sifa**: *m-/mw-* (umoja: *ukuta mrefu, ubao mweupe*) / *n-/ny-* (wingi: *kuta ndefu, mbao nyeupe*).\n   - **Vivumishi vya Idadi**: *mmoja* (1) / *mbili* (2), *tatu* (3), *nne* (4), *tano* (5), *nane* (8).\n   - **Uundaji wa Dhahania (U-)**: *-zuri -> uzuri*, *rafiki -> urafiki*, *mtoto -> utoto*, *mwalimu -> ualimu*.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 14."
+          "target": "Ufunguo wetu mmoja umefungua milango yote, na kuta zetu zote nne ni imara.",
+          "reading": "U-fu-nguo we-tu mmo-ja u-me-fu-ngua mi-la-ngo yo-te, na ku-ta ze-tu zo-te nne ni i-ma-ra. [ufuˈŋɡuɔ ˈwɛtu ˈmːɔʤɑ umɛfuˈŋɡuɑ miˈlɑŋɡɔ ˈjɔtɛ nɑ ˈkutɑ ˈzɛtu ˈzɔtɛ ˈnːɛ ni iˈmɑrɑ] (oo-foon-GOO-oh WAY-too M-MOH-jah oo-may-foon-GOO-ah mee-LAHN-goh YOH-tay, nah KOO-tah ZAY-too ZOH-tay N-NAY nee ee-MAH-rah)",
+          "translation": "Our one key [ufunguo wetu mmoja] opened all doors, and all our four walls [kuta zetu zote nne] are firm."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 14-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Uhuru wetu, umoja wetu, na upendo wetu vinaleta maendeleo makubwa nchini.",
+          "reading": "U-hu-ru we-tu, u-mo-ja we-tu, na u-pe-ndo we-tu vi-na-le-ta ma-e-nde-le-o ma-kbu-wa nchi-ni. [uˈhuru ˈwɛtu uˈmɔʤɑ ˈwɛtu nɑ uˈpɛndɔ ˈwɛtu vinɑlɛˈtɑ mɑɛndɛˈlɛɔ mɑˈkubwɑ ˈntʃini] (oo-HOO-roo WAY-too, oo-MOH-jah WAY-too, nah oo-PAYN-doh WAY-too vee-nah-lay-TAH mah-ayn-day-LAY-oh mah-KOO-bwah n-chee-NEE)",
+          "translation": "Our freedom [uhuru wetu], our unity [umoja wetu], and our love [upendo wetu] bring great progress to the nation."
+        },
+        {
+          "target": "Kujifunza Ngeli ya U kunakamilisha uelewa wa falsafa ya lugha ya Kiswahili katika kueleza dhana za kiroho, kimaadili, na ufundi wa kimofolojia.",
+          "reading": "Ku-ji-fu-nza Nge-li ya U ku-na-ka-mi-li-sha u-e-le-wa wa fa-lsa-fa ya lu-gha ya Ki-swa-hi-li ka-ti-ka ku-e-le-za dha-na za ki-ro-ho, ki-ma-a-di-li, na u-fu-ndi wa ki-mo-fo-lo-jia. [kuʤiˈfunzɑ ˈŋɡɛli jɑ ˈu kunɑkɑmiˈliʃɑ uɛˈlɛwɑ wɑ fɑlˈsɑfɑ jɑ ˈluɣɑ jɑ kiswɑˈhili kɑˈtikɑ kuɛˈlɛzɑ ˈðɑnɑ zɑ kiˈrɔhɔ kimɑɑˈdili nɑ uˈfundi wɑ kimɔfɔlɔˈʤiɑ] (koo-jee-FOON-zah N-GAY-lee yah OO koo-nah-kah-mee-LEE-shah oo-ay-LAY-wah wah fahl-SAH-fah yah LOO-ghah yah kee-swah-HEE-lee kah-TEE-kah koo-ay-LAY-zah THAH-nah zah kee-ROH-hoh, kee-mah-ah-DEE-lee, nah oo-FOON-dee wah kee-moh-foh-loh-JEE-ah)",
+          "translation": "Mastering the U noun class [U class grand synthesis: Ngeli ya U] completes the comprehension of Swahili linguistic philosophy in expressing spiritual, moral, and morphological nuances."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Muhtasari wa Ngeli ya U: Umoja (u-, huu/huo/ule, wangu, mrefu, mmoja); Wingi (zi-, hizi/hizo/zile, zangu, ndefu, mbili); Dhahania = U- bila wingi!"
+      ],
+      "culturalNotes": [
+        "Nyimbo nyingi za taarabu na mashairi ya kijadi ya pwani husifu 'Uzuri', 'Upendo', na 'Ukarimu' wa jamii ya Waswahili kupitia ngeli ya U."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Utamaduni\":",
+          "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa ngeli ya U-ZI ikijumuisha nomino, sifa, idadi, na kitenzi katika wingi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Hali ya hewa»",
-            "Mpangilio usio sahihi wa viambishi katika «Jua»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mvua»"
+            "Funguo ndogo tatu zilinunuliwa kwa ajili ya madirisha yote. (Three small keys were bought for all windows - Harmonious U-ZI class synthesis)",
+            "Funguo madogo matatu yalinunuliwa (Kosa la kutumia upatanisho wa JI-MA)",
+            "Funguo vidogo vitatu vilinunuliwa (Kosa la kutumia upatanisho wa KI-VI)",
+            "Funguo midogo mitatu ilinunuliwa (Kosa la kutumia upatanisho wa M-MI)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Funguo ndogo tatu zilinunuliwa kwa ajili ya madirisha yote.» inatekeleza upatanisho sahihi wa wingi wa U-ZI: nomino (funguo), sifa ya pua (ndogo), idadi (tatu), na kitenzi (zilinunuliwa)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Utamaduni\":",
+          "prompt": "Katika muhtasari wa Unit 14, ni upatanisho gani sahihi wa kiashiria, kivumishi cha sifa, na kitenzi kwa nomino \"Ukuta\" (umoja)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Jua»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mvua»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Hali ya hewa»"
+            "Ukuta huu mrefu ulijengwa na mafundi stadi. (This tall wall was built by skilled masons - Correct Class 11 demonstrative 'huu', adjective 'mrefu', and verbal prefix 'u-')",
+            "Ukuta hii ndefu ilijengwa (Kosa la kutumia upatanisho wa N-N)",
+            "Ukuta hili refu lilijengwa (Kosa la kutumia JI-MA)",
+            "Ukuta hiki kirefu kilijengwa (Kosa la kutumia KI-VI)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino «Ukuta» (umoja katika Ngeli ya U) huchukua kiashiria «huu», sifa «mrefu», na kitenzi «ulijengwa»."
         }
       ]
     },
@@ -6157,17 +6206,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Utamaduni\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 14 ya Ngeli ya 11/14 (U) na Majina ya Dhahania katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mvua»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Hali ya hewa»",
-            "Mpangilio usio sahihi wa viambishi katika «Jua»"
+            "Ukuta wetu mrefu ulijengwa jana, uhuru wetu na upendo wetu vinaleta amani, na funguo zetu zote tatu ziko mezani. (Our tall wall [u-], our freedom and love [class 14], and all our three keys [z-].)",
+            "Ukuta yetu ndefu ilijengwa jana na uhuru yetu inaleta amani.",
+            "Funguo zetu zote matatu yako mezani wakati ukuta hili linajengwa.",
+            "Ngeli ya U haitofautishi kati ya vitu vinavyohesabika na dhahania."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Ukuta wetu mrefu ulijengwa jana, uhuru wetu na upendo wetu vinaleta amani, na funguo zetu zote tatu ziko mezani.» inajumuisha upatanisho wa U-ZI na dhahania katika nyanja zote kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u15-l1": {
