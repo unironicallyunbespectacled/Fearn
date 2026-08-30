@@ -11555,53 +11555,62 @@
     "subject": "ukrainian",
     "unit": 28,
     "lessonNumber": 1,
-    "title": "Екологія, захист довкілля та енергетика (Ecology) (Part 1)",
+    "title": "Екосистеми, біорізноманіття та природно-заповідний фонд",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 28.1) with authentic linguistic precision.",
+    "objective": "Опанувати екологічну термінологію (біорізноманіття, біосферні заповідники, Червона книга України, ендемічні види) та норми захисту природного середовища від антропогенного навантаження.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Екологія досліджує взаємодію живих організмів із навколишнім середовищем та функціонування біосфери:\n\n1. Природно-заповідний фонд України (ПЗФ):\n   - *«Біосферні заповідники»* (Асканія-Нова, Карпатський, Чорноморський, Дунайський);\n   - *«Національні природні парки (НПП)»* (Синевир, Шацькі озера, Голосіївський);\n   - *«Заказники, пам'ятки природи, регіональні ландшафтні парки»*;\n   - *«Червона книга України»* (види рослин і тварин під загрозою зникнення) та *«Зелена книга України»* (рідкісні рослинні угруповання).\n\n2. Екологічні поняття та біологічний баланс:\n   - *«Збереження біорізноманіття (Biodiversity conservation)»*;\n   - *«Ендемічні та реліктові види»*;\n   - *«Антропогенний вплив / антропогенне навантаження»* (вплив людської діяльності);\n   - *«Фрагментація природних біотопів та міграційні екологічні коридори»*.\n\n3. Нормативна природоохоронна лексика:\n   - Вживайте *«охорона навколишнього природного середовища / охорона довкілля»* (НЕ *охорона окружаючої среди*);\n   - Вживайте *«забруднення довкілля»*;\n   - Вживайте *«сталий розвиток (Sustainable development)»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Розширення територій природно-заповідного фонду є критично важливим для збереження унікального біорізноманіття та відновлення популяцій рідкісних видів.",
+          "reading": "[rɔzˈʃɪrɛnʲːɑ tɛrɪˈtɔrʲij prɪˈrɔdnɔ zɐpɔˈwʲidnɔɦɔ ˈfɔndu jɛ krɪˈtɪtʃnɔ wɐʒˈlɪwɪm dlʲɑ zbɛrɛˈʒɛnʲːɑ unʲiˈkɑlʲnɔɦɔ bʲiɔrʲizmɐnɔˈmʲitʲːɑ tɑ wʲidnɔwˈlɛnʲːɑ pɔpuˈlʲɑt͡sʲij ˈrʲidkʲisnɪx ˈwɪdʲiw] (roz-SHY-ren-nyah teh-ry-TOH-reey pry-ROHD-noh zah-poh-VEED-noh-hoh FOHN-doo yeh kry-TYCH-noh vahzh-LY-wym dlyah zbeh-reh-ZHEN-nyah oo-nee-KAHL'-noh-hoh bee-oh-reez-noh-MAHYT-tyah tah veed-nohv-LEN-nyah poh-poo-LYAH-tseey REED-kees-nykh VY-deew)",
+          "translation": "Expanding the territories of the nature reserve fund is critically important for preserving unique biodiversity and restoring populations of rare species."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 28-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Біосферний заповідник «Асканія-Нова» оберігає останній у Європі незайманий ділянковий масив типчаково-ковилового степу.",
+          "reading": "[bʲiɔsˈfɛrnɪj zɐpɔˈwʲidnɪk ɐsˈkɑnʲijɑ ˈnɔwɐ ɔbɛrʲiˈɦɑjɛ ɔsˈtɑnnʲij u jɛwˈrɔpʲi nɛˈzɑjmɐnɪj dʲiˈlʲɑnkɔwɪj mɐˈsɪw tɪptʃɐˈkɔwɔ kɔˈwɪlɔwɔɦɔ ˈstɛpu] (bee-ohs-FEHR-nyy zah-poh-VEED-nyk ahs-KAH-nee-yah NOH-wah oh-beh-ree-HAH-yeh ohs-TAHN-neey oo yehv-ROH-pee neh-ZAHY-mah-nyy dee-LYAHN-koh-vyy mah-SYV typ-chah-KOH-woh koh-WY-loh-woh-hoh STEH-poo)",
+          "translation": "The 'Askania-Nova' Biosphere Reserve protects Europe's last virgin plot massif of fescue-feather grass steppe."
+        },
+        {
+          "target": "Державна стратегія охорони довкілля спрямована на мінімізацію шкідливого антропогенного впливу на водні та лісові ресурси України.",
+          "reading": "[dɛrˈʒɑwnɐ strɐˈtɛɦʲijɑ ɔxɔˈrɔnɪ dɔwˈkʲilʲːɑ sprʲɑmɔˈwɑnɐ nɑ mʲinʲimʲizɑˈt͡sʲiju ʃkʲidˈlɪwɔɦɔ ɐntrɔpɔˈɦɛnnɔɦɔ ˈwplɪwu nɑ ˈwɔdnʲi tɑ lʲiˈsɔwʲi rɛˈsursɪ ukrɐˈjinɪ] (dehr-ZHAHV-nah strah-TEH-hee-yah oh-khoh-ROH-ny dov-KEEL-lyah spryah-moh-VAH-nah nah mee-nee-mee-ZAH-tsee-yoo shkeed-LY-woh-hoh ahn-troh-poh-HEHN-noh-hoh VPLY-woo nah VOHD-nee tah lee-SOH-vee reh-SOOR-sy oo-krah-YEE-ny)",
+          "translation": "The state environmental protection strategy is aimed at minimizing harmful anthropogenic impact on water and forest resources of Ukraine."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Не «окружаюча среда», а «довкілля / навколишнє середовище»! Природа — «біорізноманіття», вплив людини — «антропогенний»!"
+      ],
+      "culturalNotes": [
+        "Заповідник «Асканія-Нова», заснований Фрідріхом Фальц-Фейном у 1898 році, є найстарішим степовим резерватом планети під егідою ЮНЕСКО."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Читати\":",
+          "prompt": "Як нормативно в українській мові позначати навколишнє середовище?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.1.",
-            "Неправильне відмінкове узгодження зі словом «Писати»",
-            "Порушення законів евфонії та словотворення для «Слухати»",
-            "Стилістично некоректна синтаксична конструкція з «Бачити»"
+            "Довкілля / навколишнє природне середовище (Environment - correct Ukrainian term)",
+            "Окружаюча среда",
+            "Оточуюче середовище",
+            "Природний округ"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативними термінами в українській мові є «довкілля» або «навколишнє природне середовище»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Читати\":",
+          "prompt": "Як називається офіційний державний документ, що містить перелік рідкісних і таких, що перебувають під загрозою зникнення, видів рослинного і тваринного світу?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.1.",
-            "Порушення законів евфонії та словотворення для «Слухати»",
-            "Стилістично некоректна синтаксична конструкція з «Бачити»",
-            "Неправильне відмінкове узгодження зі словом «Писати»"
+            "Червона книга України (Red Book of Ukraine - endangered species list)",
+            "Зелений кадастр",
+            "Біологічний реєстр",
+            "Екологічний паспорт"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Офіційний перелік видів під загрозою зникнення — це «Червона книга України»."
         }
       ]
     },
@@ -11609,17 +11618,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Читати\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому принципи захисту природи сформульовано літературно та термінологічно правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.1.",
-            "Стилістично некоректна синтаксична конструкція з «Бачити»",
-            "Неправильне відмінкове узгодження зі словом «Писати»",
-            "Порушення законів евфонії та словотворення для «Слухати»"
+            "Створення нових національних природних парків сприяє збереженню біорізноманіття та зниженню антропогенного навантаження на довкілля.",
+            "Охорона оточуючого середовища вимагає нових парків для флори і фауни.",
+            "Захист окружаючої среди знижує вред від людей по всій країні.",
+            "Створення заповідників спасає червонокнижних звірів від антропогену."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Збереження біорізноманіття... антропогенного навантаження на довкілля» — бездоганний науковий екологічний синтаксис."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u28-l2": {
@@ -11627,53 +11637,62 @@
     "subject": "ukrainian",
     "unit": 28,
     "lessonNumber": 2,
-    "title": "Екологія, захист довкілля та енергетика (Ecology) (Part 2)",
+    "title": "Зміна клімату, вуглецевий слід та політика декарбонізації",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 28.2) with authentic linguistic precision.",
+    "objective": "Опанувати термінологію кліматичної політики (глобальне потепління, парникові гази, вуглецевий слід, CBAM), кліматичної адаптації та декарбонізації економіки.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Кліматична криза вимагає глобальної трансформації енергетичних та виробничих моделей для досягнення кліматичної нейтральності:\n\n1. Основні поняття фізики клімату:\n   - *«Глобальне потепління та зміна клімату»*;\n   - *«Парникові гази (вуглекислий газ CO₂, метан CH₄, закис азоту N₂O)»*;\n   - *«Парниковий ефект (Greenhouse effect)»*;\n   - *«Вуглецевий слід (Carbon footprint)»* — сукупність викидів парникових газів, спричинених діяльністю людини, підприємства чи продукту;\n   - *«Кліматична нейтральність (Net-Zero emissions)»*.\n\n2. Міжнародні механізми та регулювання:\n   - *«Паризька кліматична угода»* (обмеження зростання глобальної середньої температури до 1,5 °C);\n   - *«Система торгівлі квотами на викиди (ETS)»*;\n   - *«Механізм транскордонного вуглецевого коригування (CBAM)»*;\n   - *«Декарбонізація важкої промисловості та енергетики»*.\n\n3. Наслідки та кліматична адаптація:\n   - *«Екстремальні погодні явища (аномальна спека, паводки, буревії)»*;\n   - *«Опустелювання родючих ґрунтів та дефіцит питної води»*;\n   - *«Адаптаційні стратегії міської інфраструктури»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Досягнення кліматичної нейтральності вимагає системної декарбонізації металургійної галузі та скорочення промислового вуглецевого сліду.",
+          "reading": "[dɔsʲɑɦˈnɛnʲːɑ klʲimɐˈtɪtʃnɔji nɛwtrɐlʲˈnɔsʲtʲi wɪˈmɑɦɑjɛ sɪsˈtɛmnɔji dɛkɐrbɔnʲizɑˈt͡sʲiji mɛtɐlurˈɦʲijtʃnɔji ˈɦɑluzʲi tɑ skrɔˈtʃɛnʲːɑ prɔmɪsˈlɔwɔɦɔ wuɦlɛˈt͡sɛwɔɦɔ ˈsʲlʲidu] (doh-syahh-NEN-nyah klee-mah-TYCH-noh-yee nehv-trahl'-NOHS-tee vy-mah-HAH-yeh sys-TEHM-noh-yee deh-kahr-boh-nee-ZAH-tsee-yee meh-tah-loor-HEEY-choh-yee HAH-loo-zee tah skroh-CHEN-nyah proh-mys-LOH-woh-hoh vooh-leh-TSEH-woh-hoh SLEE-doo)",
+          "translation": "Achieving climate neutrality requires systemic decarbonization of the metallurgical industry and reduction of the industrial carbon footprint."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 28-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Впровадження європейського вуглецевого мита (CBAM) спонукає українських експортерів інвестувати в екологічно чисті технології виробництва.",
+          "reading": "[wprɔwɐdˈʒɛnʲːɑ jɛwrɔˈpɛjsʲkɔɦɔ wuɦlɛˈt͡sɛwɔɦɔ ˈmɪtɐ t͡sɛ bɛ ɐ ɛm spɔnuˈkɑjɛ ukrɐˈjinsʲkɪx ɛkspɔrˈtɛrʲiw inwɛstɪˈwɑtɪ w ɛkɔlɔˈɦʲitʃnɔ ˈt͡ʃɪsʲtʲi tɛxnɔˈlɔɦʲiji wɪrɔbˈnɪt͡stxɐ] (vproh-vahd-ZHEN-nyah yehv-roh-PEHY-s'koh-hoh vooh-leh-TSEH-woh-hoh MY-tah tseh beh ah ehm spoh-noo-KAH-yeh oo-krah-YEEN-s'kykh eks-pohr-TEH-reew een-vehs-ty-VAH-ty v eh-koh-loh-HEECH-noh CHEES-tee tekh-noh-LOH-hee-yee vy-rohb-NYT-stvah)",
+          "translation": "The implementation of the European Carbon Border Adjustment Mechanism (CBAM) encourages Ukrainian exporters to invest in environmentally clean production technologies."
+        },
+        {
+          "target": "Аномальна посуха на півдні України спричиняє деградацію ґрунтів і вимагає термінового впровадження систем крапельного зрошення.",
+          "reading": "[ɐnɔˈmɑlʲnɐ pɔˈsuxɐ nɑ ˈpʲiwnʲi ukrɐˈjinɪ sprɪtʃɪˈnʲɑjɛ dɛɦrɐˈdɑt͡sʲiju ˈgruntʲiw i wɪˈmɑɦɑjɛ tɛrˈmʲinɔwɔɦɔ wprɔwɐdˈʒɛnʲːɑ sɪsˈtɛm ˈkrɑpɛlʲnɔɦɔ zrɔˈʃɛnʲːɑ] (ah-noh-MAHL'-nah poh-SOO-khah nah PEEV-nee oo-krah-YEE-ny spry-chy-NYAH-yeh deh-hrah-DAH-tsee-yoo HROON-teew ee vy-mah-HAH-yeh tehr-MEE-noh-woh-hoh vproh-vahd-ZHEN-nyah sys-TEHM KRAH-pehl'-noh-hoh zroh-SHEN-nyah)",
+          "translation": "Abnormal drought in southern Ukraine causes soil degradation and requires urgent implementation of drip irrigation systems."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "CO₂ та метан — «парникові гази»; викиди на одиницю продукції — «вуглецевий слід»; мета — «кліматична нейтральність»!"
+      ],
+      "culturalNotes": [
+        "Україна однією з перших у Європі ратифікувала Паризьку кліматичну угоду та взяла зобов'язання скоротити викиди парникових газів на 65% до 2030 року."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Писати\":",
+          "prompt": "Як називається показник загального обсягу викидів парникових газів від діяльності особи чи підприємства?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.2.",
-            "Неправильне відмінкове узгодження зі словом «Слухати»",
-            "Порушення законів евфонії та словотворення для «Бачити»",
-            "Стилістично некоректна синтаксична конструкція з «Хотіти»"
+            "Вуглецевий слід (Carbon footprint - standard ecological metric)",
+            "Вугільний залишок",
+            "Димовий коефіцієнт",
+            "Газовий відбиток"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативний термін в екології та кліматології — «вуглецевий слід» (carbon footprint)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Писати\":",
+          "prompt": "Яку мету переслідує глобальна політика «Net-Zero» (кліматична нейтральність)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.2.",
-            "Порушення законів евфонії та словотворення для «Бачити»",
-            "Стилістично некоректна синтаксична конструкція з «Хотіти»",
-            "Неправильне відмінкове узгодження зі словом «Слухати»"
+            "Досягнення нульового балансу викидів парникових газів (Net-Zero emissions balance)",
+            "Повна заборона промислового виробництва",
+            "Відмова від споживання електроенергії",
+            "Закриття всіх заводів у світі"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Кліматична нейтральність означає скорочення викидів до мінімуму та поглинання залишків екосистемами або технологіями уловлювання."
         }
       ]
     },
@@ -11681,17 +11700,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Писати\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому кліматичні заходи описано бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.2.",
-            "Стилістично некоректна синтаксична конструкція з «Хотіти»",
-            "Неправильне відмінкове узгодження зі словом «Слухати»",
-            "Порушення законів евфонії та словотворення для «Бачити»"
+            "Зменшення вуглецевого сліду продукції та перехід на низьковуглецеві технології є необхідною умовою інтеграції до Європейського зеленого курсу.",
+            "Зменшення вугільного сліду помагає від клімату по європейським законам.",
+            "Парникові ефекти треба зняти через зменшення вихлопів по підприємствам.",
+            "Декарбонізація означає заборону використання води у важкій промисловості."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Зменшення вуглецевого сліду... низьковуглецеві технології... Європейського зеленого курсу» — досконала наукова та юридична мова."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u28-l3": {
@@ -11699,53 +11719,62 @@
     "subject": "ukrainian",
     "unit": 28,
     "lessonNumber": 3,
-    "title": "Екологія, захист довкілля та енергетика (Ecology) (Part 3)",
+    "title": "Відновлювана енергетика, розумні мережі та зелений перехід",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 28.3) with authentic linguistic precision.",
+    "objective": "Опанувати термінологію зеленої енергетики (СЕС, ВЕС, біоенергетика, зелений водень, Smart Grid), механізми розподіленої генерації та енергонезалежності.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Зелений енергетичний перехід (Green Transition) передбачає заміщення викопного палива відновлюваними джерелами та побудову децентралізованої стійкої енергосистеми:\n\n1. Джерела та об'єкти відновлюваної енергетики (ВДЕ):\n   - *«Сонячні електростанції (СЕС)»* — фотоелектричні модулі та інвертори;\n   - *«Вітрові електростанції (ВЕС)»* — вітротурбіни наземного та морського базування;\n   - *«Гідроакумулюючі електростанції (ГАЕС) та мала гідроенергетика»*;\n   - *«Біоенергетика (біогаз, біометан, пелети)»*;\n   - *«Зелений водень (Green hydrogen)»* — виробництво водню шляхом електролізу води з використанням ВДЕ.\n\n2. Мережева інфраструктура та децентралізація:\n   - *«Розподілена генерація (Distributed generation)»* — розміщення малих джерел енергії поруч зі споживачем;\n   - *«Розумні мережі (Smart Grids)»* — цифровізовані енергомережі з автоматичним балансуванням;\n   - *«Системи накопичення енергії (BESS / Energy storage systems)»* — промислові акумулятори;\n   - *«Об'єднана енергетична система (ОЕС) України та синхронізація з ENTSO-E»*.\n\n3. Енергоефективність та регуляторні стимули:\n   - *«Термомодернізація будівель, енергоаудит, клас енергоефективності»*;\n   - *«Зелений тариф (Feed-in tariff) та аукціони на розподіл квот підтримки»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Розвиток розподіленої генерації на основі сонячних та вітрових станцій підвищує енергетичну стійкість країни до ворожих обстрілів.",
+          "reading": "[rɔzˈwɪtɔk rɔzpɔˈdʲilɛnɔji ɦɛnɛˈrɑt͡sʲiji nɑ ɔsˈnɔwʲi sɔˈnʲɑtʃnɪx tɑ wʲitrɔˈwɪx ˈstɑnt͡sʲij pʲidˈwɪʃtʃujɛ ɛnɛrɦɛˈtɪtʃnu sʲtʲijˈkʲisʲtʲ krɐˈjinɪ dɔ ˈwɔrɔʒɪx ɔbˈstrʲilʲiw] (roz-VY-tohk roz-poh-DEE-leh-noh-yee heh-neh-RAH-tsee-yee nah ohs-NOH-vee soh-NYAHCH-nykh tah vee-troh-WYKH STAHN-tseey peed-VYSH-choo-yeh eh-nehr-heh-TYCH-noo steey-KEEST' krah-YEE-ny doh VOH-roh-zhykh ohb-STREE-leew)",
+          "translation": "The development of distributed generation based on solar and wind plants enhances the country's energy resilience against enemy strikes."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 28-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Синхронізація енергосистеми України з європейською мережею ENTSO-E відкрила можливості для масштабного експорту чистої електроенергії.",
+          "reading": "[sɪnxrɔnʲizɑˈt͡sʲijɑ ɛnɛrɦɔsɪsˈtɛmɪ ukrɐˈjinɪ z jɛwrɔˈpɛjsʲkɔju mɛˈrɛʒɛju ɛn tɛ ɛs ɔ jɛ wʲidkˈrɪlɐ mɔʒˈlɪwɔsʲtʲi dlʲɑ mɐsʃˈtɑbnɔɦɔ ˈɛkspɔrtu ˈt͡ʃɪstɔji ɛlɛktrɔɛˈnɛrɦʲiji] (syn-khroh-nee-ZAH-tsee-yah eh-nehr-hoh-sys-TEH-my oo-krah-YEE-ny z yehv-roh-PEHY-s'koh-yoo meh-REH-zheh-yoo ehn teh ehs oh yeh veed-KRY-lah mohzh-LY-wohs-tee dlyah mahs-SHTAHB-noh-hoh EHK-spohr-too CHEES-toh-yee eh-lehk-troh-eh-NEHR-hee-yee)",
+          "translation": "The synchronization of Ukraine's power system with the European ENTSO-E grid opened opportunities for large-scale export of clean electricity."
+        },
+        {
+          "target": "Встановлення промислових накопичувачів енергії дозволяє згладжувати пікові навантаження та гарантує надійність постачання споживачам.",
+          "reading": "[wstɐnɔwˈlɛnʲːɑ prɔmɪsˈlɔwɪx nɐkɔpɪˈtʃuwɐtʃʲiw ɛˈnɛrɦʲiji dɔzˈwɔlʲɑjɛ zɦlɑdʒuˈwɑtɪ pʲiˈkɔwʲi nɐwɐntɐˈʒɛnʲːɑ tɑ ɦɐrɐnˈtujɛ nɐˈdʲijnʲisʲtʲ pɔstɐˈtʃɑnʲːɑ spɔʒɪwɐˈtʃɑm] (vstah-nohv-LEN-nyah proh-mys-LOH-wykh nah-koh-py-CHOO-wah-cheew eh-NEHR-hee-yee dohz-VOH-lyah-yeh zhlah-dzhoo-VAH-ty pee-KOH-vee nah-wahn-tah-ZHEN-nyah tah hah-rahn-TOO-yeh nah-DEEY-neest' pohs-tah-CHAN-nyah spoh-zhy-wah-CHAHM)",
+          "translation": "Installation of industrial energy storage systems enables smoothing out peak loads and guarantees supply reliability to consumers."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "СЕС — сонце, ВЕС — вітер; модель — «розподілена генерація»; цифрові мережі — «Smart Grids»; накопичувачі енергії — акумулятори!"
+      ],
+      "culturalNotes": [
+        "Українські енергетики здійснили історичну синхронізацію з енергомережею ЄС (ENTSO-E) у березні 2022 року в перші тижні повномасштабної війни."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Слухати\":",
+          "prompt": "Як розшифровується абревіатура СЕС у відновлюваній енергетиці?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.3.",
-            "Неправильне відмінкове узгодження зі словом «Бачити»",
-            "Порушення законів евфонії та словотворення для «Хотіти»",
-            "Стилістично некоректна синтаксична конструкція з «Школа»"
+            "Сонячна електростанція (Solar power plant - renewable energy term)",
+            "Світлова електрична система",
+            "Спеціальна енергостанція",
+            "Сучасна енергетична споруда"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативна розшифровка абревіатури СЕС — «сонячна електростанція»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Слухати\":",
+          "prompt": "Як називається концепція розташування невеликих генеруючих установок безпосередньо біля кінцевих споживачів?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.3.",
-            "Порушення законів евфонії та словотворення для «Хотіти»",
-            "Стилістично некоректна синтаксична конструкція з «Школа»",
-            "Неправильне відмінкове узгодження зі словом «Бачити»"
+            "Розподілена генерація (Distributed generation)",
+            "Централізована генерація",
+            "Магістральна мережа",
+            "Резервний контур"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Концепція наближення джерел енергії до споживачів називається «розподіленою генерацією» (distributed generation)."
         }
       ]
     },
@@ -11753,17 +11782,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Слухати\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому розвиток відновлюваної енергетики описано абсолютно грамотно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.3.",
-            "Стилістично некоректна синтаксична конструкція з «Школа»",
-            "Неправильне відмінкове узгодження зі словом «Бачити»",
-            "Порушення законів евфонії та словотворення для «Хотіти»"
+            "Інтеграція відновлюваних джерел енергії та впровадження промислових систем накопичення підвищують гнучкість об'єднаної енергосистеми.",
+            "Будівництво сонячних панелей підняло кіловати в общій електромережі.",
+            "Зелені вітряки дають ток без палива прямо в розетки споживачів.",
+            "Альтернативна електрика повністю замінила всі турбіни за один місяць."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Інтеграція відновлюваних джерел енергії... систем накопичення... об'єднаної енергосистеми» — еталонна фахова термінологія."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u28-l4": {
@@ -11771,53 +11801,62 @@
     "subject": "ukrainian",
     "unit": 28,
     "lessonNumber": 4,
-    "title": "Екологія, захист довкілля та енергетика (Ecology) (Part 4)",
+    "title": "Циркулярна економіка, поводження з відходами та ресайклінг",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 28.4) with authentic linguistic precision.",
+    "objective": "Опанувати термінологію циклічної економіки (поводження з відходами, вторинна сировина, сортування, ресайклінг) та принципи розширеної відповідальності виробника (РВВ).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Циркулярна (циклічна) економіка базується на принципах відновлення ресурсів, мінімізації відходів та повторного використання матеріалів:\n\n1. Ієрархія управління відходами (Waste Hierarchy):\n   - *«Запобігання утворенню відходів (Prevention)»*;\n   - *«Підготовка до повторного використання (Reuse)»*;\n   - *«Вторинна переробка (Recycling / ресайклінг)»*;\n   - *«Відновлення (енергетична утилізація)»*;\n   - *«Видалення (захоронення на полігонах)»* — найменш бажаний варіант.\n\n2. Організація поводження з відходами:\n   - *«Тверді побутові відходи (ТПВ)»*;\n   - *«Роздільний збір сміття (папір, скло, пластик, метал, органіка)»*;\n   - *«Сортувальні лінії та сміттєпереробні заводи»*;\n   - *«Компостування органічних відходів»*;\n   - *«Небезпечні відходи (ртутні лампи, акумулятори, медичні відходи)»*.\n\n3. Економічні механізми циркулярності:\n   - *«Розширена відповідальність виробника (РВВ)»* — обов'язок виробника забезпечити утилізацію упаковки після використання;\n   - *«Вторинна сировина (Upcycling / вторинний пластик)»*;\n   - *«Біорозкладні полімери та екодизайн продукції»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Запровадження розширеної відповідальності виробника зобов'язує бізнес фінансувати збір та вторинну переробку пакувальних матеріалів.",
+          "reading": "[zɐprɔwɐˈdʒɛnʲːɑ rɔzˈʃɪrɛnɔji wʲidpɔwʲiˈdɑlʲnɔsʲtʲi wɪrɔbˈnɪkɐ zɔbɔwˈjɑzujɛ ˈbʲiznɛs fʲinɐnsuˈwɑtɪ ˈzbʲir tɑ wtɔˈrɪnnu pɛrɛˈrɔbku pɐkuˈwɑlʲnɪx mɐtɛrʲiˈɑlʲiw] (zah-proh-vahd-ZHEN-nyah roz-SHY-reh-noh-yee veed-poh-vee-DAHL'-nohs-tee vy-rohb-NY-kah zoh-bov-YAH-zoo-yeh BEEZ-nehs fee-nahn-soo-VAH-ty ZBEER tah vtoh-RYN-noo peh-reh-ROHB-koo pah-koo-VAHL'-nykh mah-teh-ree-AH-leew)",
+          "translation": "The introduction of extended producer responsibility obliges business to finance the collection and recycling of packaging materials."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 28-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Перехід до циркулярної економіки передбачає максимальне повернення вторинної сировини у виробничий цикл без захоронення на полігонах.",
+          "reading": "[pɛrɛˈxʲid dɔ t͡sɪrkulʲɑrˈnɔji ɛkɔˈnɔmʲikɪ pɛrɛdbɐˈtʃɑjɛ mɐksɪˈmɑlʲnɛ pɔwɛrˈnɛnʲːɑ wtɔˈrɪnnɔji sɪrɔˈwɪnɪ u wɪrɔbˈnɪtʃɪj ˈt͡sɪkl bɛz zɐxɔrɔˈnɛnʲːɑ nɑ pɔlʲiˈɦɔnɐx] (peh-reh-KHEED doh tsyr-koo-LYAHR-noh-yee eh-koh-NOH-mee-ky peh-rehd-bah-CHAH-yeh mahk-sy-MAHL'-neh poh-wehr-NEN-nyah vtoh-RYN-noh-yee sy-roh-WY-ny oo vy-rohb-NY-chy TSYKL bez zah-khoh-roh-NEN-nyah nah poh-lee-HOH-nahkh)",
+          "translation": "The transition to a circular economy involves maximum return of secondary raw materials into the production cycle without landfill disposal."
+        },
+        {
+          "target": "Будівництво сучасного сміттєпереробного заводу з глибоким сортуванням відходів дозволить вирішити проблему переповнених сміттєзвалищ.",
+          "reading": "[buˈdʲiwnɪt͡stxɔ sut͡ʃɑsˈnɔɦɔ sʲmʲitʲːɛpɛrɛˈrɔbnɔɦɔ zɐˈwɔdu z ɦlɪˈbɔkɪm sɔrtuˈwɑnʲːɐm wʲidˈxɔdʲiw dɔzˈwɔlʲitʲ wɪˈrʲiʃɪtɪ prɔbˈlɛmu pɛrɛˈpɔwnɛnɪx sʲmʲitʲːɛzˈwɑlɪʃtʃ] (boo-DEEV-nyt-stvah soo-chahs-NOH-hoh smee-tyeh-peh-reh-ROHB-noh-hoh zah-VOH-doo z hly-BOH-kym sohr-too-VAHN-nyahm veed-KHOH-deew dohz-VOH-leet' vy-REE-shy-ty prohb-LEH-moo peh-reh-POHV-neh-nykh smee-tyez-VAH-lyshch)",
+          "translation": "Construction of a modern waste recycling plant with deep waste sorting will solve the problem of overcrowded landfills."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Не «мусор», а «відходи»; не «свалка», а «полігон ТПВ»; процес — «роздільний збір, сортування, ресайклінг, вторинна сировина»!"
+      ],
+      "culturalNotes": [
+        "Новий Закон України «Про управління відходами» гармонізував національне законодавство з Рамковою директивою ЄС про відходи."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Бачити\":",
+          "prompt": "Як в офіційній українській термінології називається процес використання відсортованих матеріалів для виготовлення нової продукції?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.4.",
-            "Неправильне відмінкове узгодження зі словом «Хотіти»",
-            "Порушення законів евфонії та словотворення для «Школа»",
-            "Стилістично некоректна синтаксична конструкція з «Університет»"
+            "Вторинна переробка / ресайклінг (Recycling / reprocessing of secondary resources)",
+            "Утилізаційне спалювання",
+            "Мусорне очищення",
+            "Захоронення відходів"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативний термін для повторної переробки матеріалів — «вторинна переробка» або «ресайклінг»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Бачити\":",
+          "prompt": "Як називається економічний принцип, за яким виробник продукції несе фінансову відповідальність за її утилізацію після споживання?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.4.",
-            "Порушення законів евфонії та словотворення для «Школа»",
-            "Стилістично некоректна синтаксична конструкція з «Університет»",
-            "Неправильне відмінкове узгодження зі словом «Хотіти»"
+            "Розширена відповідальність виробника (Extended Producer Responsibility - EPR)",
+            "Податок на сміття",
+            "Штраф за упаковку",
+            "Екологічна акцизна ставка"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Цей фундаментальний принцип циклічної економіки називається «розширеною відповідальністю виробника» (РВВ)."
         }
       ]
     },
@@ -11825,17 +11864,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Бачити\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому процеси управління відходами сформульовано з бездоганною точністю:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.4.",
-            "Стилістично некоректна синтаксична конструкція з «Університет»",
-            "Неправильне відмінкове узгодження зі словом «Хотіти»",
-            "Порушення законів евфонії та словотворення для «Школа»"
+            "Впровадження роздільного збору твердих побутових відходів суттєво збільшує частку вторинної сировини, що спрямовується на переробку.",
+            "Розділення мусору допомагає звозити менше відходів на міські свалки.",
+            "Сортировка битового сміття підняла ресайклінг по всій області.",
+            "Викидання непотребу в різні баки зменшує кількість свалок."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Роздільного збору твердих побутових відходів... частку вторинної сировини» — бездоганний стандарт державного екологічного управління."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u28-l5": {
@@ -11843,53 +11883,62 @@
     "subject": "ukrainian",
     "unit": 28,
     "lessonNumber": 5,
-    "title": "Екологія, захист довкілля та енергетика (Ecology) (Part 5)",
+    "title": "Екологічні наслідки війни, екоцид та повоєнна «зелена відбудова»",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 28.5) with authentic linguistic precision.",
+    "objective": "Опанувати термінологію фіксації екологічних воєнних злочинів (екоцид, деградація ґрунтів, хімічне забруднення), гуманітарного розмінування та повоєнної відбудови за принципом Build Back Greener.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Повномасштабна війна завдала катастрофічних збитків екосистемам України, що кваліфікується як екоцид та вимагає масштабного повоєнного відновлення:\n\n1. Екологічні воєнні злочини та катастрофи:\n   - *«Екоцид»* — масове знищення рослинного або тваринного світу, отруєння атмосфери чи водних ресурсів, що призвело до екологічної катастрофи (ст. 441 КК України);\n   - *«Підрив греблі Каховської ГЕС»* — найбільша техногенна та екологічна катастрофа в Європі за останні десятиліття (затоплення біотопів, опріснення Чорного моря, втрата систем зрошення);\n   - *«Забруднення ґрунтів та підземних вод важкими металами, залишками вибухівки та нафтопродуктами»*;\n   - *«Лісові пожежі в зоні бойових дій та деградація заповідних територій»*.\n\n2. Гуманітарне розмінування та рекультивація:\n   - *«Нерозірвані боєприпаси та мінне забруднення сільськогосподарських угідь»*;\n   - *«Гуманітарне розмінування з використанням дронів та штучного інтелекту»*;\n   - *«Фітосанація та рекультивація родючого шару ґрунту»*.\n\n3. Стратегія «Зеленої відбудови» (Build Back Greener):\n   - *«Фіксація екологічних збитків за міжнародними методиками для репараційного позову»*;\n   - *«Відновлення інфраструктури за принципами кругової економіки та енергоефективності»*;\n   - *«Створення нових природоохоронних територій на місці зруйнованих об'єктів»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Підрив греблі Каховської ГЕС визнано актом екоциду, що призвів до незворотного руйнування унікальних заплавних екосистем пониззя Дніпра.",
+          "reading": "[pʲidˈrɪw ˈhrɛblʲi kɐˈxɔwsʲkɔji ɦɛ ɛs wɪzˈnɑnɔ ˈɑktɔm ɛkɔˈt͡sɪdu, ʃtʃɔ prɪzˈwʲil dɔ nɛzwɔˈrɔtnɔɦɔ rujnuˈwɑnʲːɑ unʲiˈkɑlʲnɪx zɐpˈlɑwnɪx ɛkɔsɪsˈtɛm pɔˈnɪzʲːɑ ˈdnʲiprɐ] (peed-RYV HREH-blyah kah-KHOHV-s'koh-yee heh eh ehs vyz-NAH-noh AHK-tohm eh-koh-TSY-doo, shchoh pryz-VEEL doh neh-zwoh-ROHT-noh-hoh rooy-noo-VAHN-nyah oo-nee-KAHL'-nykh zah-PLAHV-nykh eh-koh-sys-TEHM poh-NYZ-zyah DNEE-prah)",
+          "translation": "The blowing up of the Kakhovka HPP dam was recognized as an act of ecocide leading to the irreversible destruction of unique floodplain ecosystems of the Lower Dnipro."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 28-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Гуманітарне розмінування українських чорноземів є першочерговим завданням для гарантування світової продовольчої безпеки.",
+          "reading": "[ɦumɐnʲiˈtɑrnɛ rɔzmʲiˈnuwɑnʲːɑ ukrɐˈjinsʲkɪx tʃɔrnɔˈzɛmʲiw jɛ pɛrʃɔt͡ʃɛrɦɔˈwɪm zɐwˈdɑnʲːɐm dlʲɑ ɦɐrɐntuˈwɑnʲːɑ swʲitɔˈwɔji prɔdɔˈwɔlʲtʃɔji bɛzˈpɛkɪ] (hoo-mah-nee-TAHR-neh roz-mee-NOO-vahn-nyah oo-krah-YEEN-s'kykh chohr-noh-ZEH-meew yeh pehr-shoh-chehr-HOH-wym zahv-DAHN-nyahm dlyah hah-rahn-too-VAHN-nyah swee-toh-VOH-yee proh-doh-VOHL'-choh-yee bez-PEH-ky)",
+          "translation": "Humanitarian demining of Ukrainian black soils is a primary task for guaranteeing global food security."
+        },
+        {
+          "target": "Повоєнна відбудова України спирається на концепцію «Build Back Greener», поєднуючи енергонезалежність, кліматичну нейтральність та інновації.",
+          "reading": "[pɔwɔˈjɛnnɐ wʲidbuˈdɔwɐ ukrɐˈjinɪ spɪˈrɑjɛtʲsʲɑ nɑ kɔnt͡sɛpˈt͡sʲiju bʲild bɛk ˈɦrʲinɛr, pɔjɛdˈnujutʃɪ ɛnɛrɦɔnɛzɐˈlɛʒnʲisʲtʲ, klʲimɐˈtɪtʃnu nɛwtrɐlʲˈnʲisʲtʲ tɑ innɔˈwɑt͡sʲiji] (poh-woh-YEHN-nah veed-boo-DOH-wah oo-krah-YEE-ny spy-RAH-yeht'-syah nah kohn-tseh-PTSEE-yoo beeld behk HREE-nehr, poh-yehd-NOO-yoo-chy eh-nehr-hoh-neh-zah-LEHZH-neest', klee-mah-TYCH-noo nehv-trahl'-NEEST' tah een-noh-VAH-tsee-yee)",
+          "translation": "Post-war reconstruction of Ukraine relies on the 'Build Back Greener' concept, combining energy independence, climate neutrality, and innovation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Злочин проти природи — «екоцид» (ст. 441 КК України); очищення землі — «гуманітарне розмінування та рекультивація»; принцип — «Build Back Greener»!"
+      ],
+      "culturalNotes": [
+        "Україна активно лобіює закріплення терміна «екоцид» у Римському статуті Міжнародного кримінального суду для притягнення агресора до відповідальності за знищення довкілля."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Хотіти\":",
+          "prompt": "Як у кримінальному праві називається масове знищення рослинного або тваринного світу та отруєння водних ресурсів під час війни?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.5.",
-            "Неправильне відмінкове узгодження зі словом «Школа»",
-            "Порушення законів евфонії та словотворення для «Університет»",
-            "Стилістично некоректна синтаксична конструкція з «Вчитель»"
+            "Екоцид (Ecocide - crime against the environment)",
+            "Геоцид",
+            "Біоцид",
+            "Техноцид"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативний юридичний термін для масового навмисного знищення довкілля — «екоцид»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Хотіти\":",
+          "prompt": "Який міжнародний принцип визначає повоєнне відновлення інфраструктури на основі екологічних та зелених технологій?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.5.",
-            "Порушення законів евфонії та словотворення для «Університет»",
-            "Стилістично некоректна синтаксична конструкція з «Вчитель»",
-            "Неправильне відмінкове узгодження зі словом «Школа»"
+            "Build Back Greener / Відбудувати краще та зеленіше (Post-war green recovery principle)",
+            "Status Quo",
+            "Fast Rebuild",
+            "Cost Minimum"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Міжнародний принцип сталого повоєнного відновлення відомий як «Build Back Greener» (Відбудувати краще та зеленіше)."
         }
       ]
     },
@@ -11897,17 +11946,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Хотіти\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому екологічні наслідки війни та повоєнні завдання сформульовано з бездоганною точністю:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 28.5.",
-            "Стилістично некоректна синтаксична конструкція з «Вчитель»",
-            "Неправильне відмінкове узгодження зі словом «Школа»",
-            "Порушення законів евфонії та словотворення для «Університет»"
+            "Фіксація збитків від екоциду, проведення гуманітарного розмінування та рекультивація ґрунтів є ключовими пріоритетами повоєнної зеленої відбудови.",
+            "Війна зробила вред природі і треба почистити землю від мін по швидкій програмі.",
+            "Підрив дамби наніс ущерб екології та потребує ремонту без міжнародних правил.",
+            "Екоцидні наслідки лікують посадкою дерев на нерозмінованих територіях."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Фіксація збитків від екоциду... гуманітарного розмінування та рекультивація ґрунтів... повоєнної зеленої відбудови» — професійний державний та міжнародний дискурс."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u29-l1": {
