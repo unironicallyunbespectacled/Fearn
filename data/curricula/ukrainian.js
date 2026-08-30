@@ -10325,53 +10325,62 @@
     "subject": "ukrainian",
     "unit": 25,
     "lessonNumber": 1,
-    "title": "Цивільне та кримінальне право, договори (Legal) (Part 1)",
+    "title": "Конституційне право, верховенство права та основоположні свободи",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 25.1) with authentic linguistic precision.",
+    "objective": "Опанувати фундаментальну термінологію конституційного права (верховенство права, презумпція невинуватості, чинне законодавство) та правничий синтаксис нормативно-правових актів.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Конституційне право визначає засади державного ладу, правовий статус особи та функціонування публічної влади в Україні:\n\n1. Фундаментальні конституційні категорії:\n   - *«Верховенство права (Rule of Law)»* — держава підпорядковується праву, а Конституція України має найвищу юридичну силу;\n   - *«Правова держава, розподіл влади (законодавча, виконавча, судова)»*;\n   - *«Презумпція невинуватості»* — особа вважається невинуватою у вчиненні правопорушення, доки її вину не буде доведено в законному порядку і встановлено обвинувальним вироком суду;\n   - *«Недоторканність особи, житла, таємниця листування та телефонних розмов»*.\n\n2. Усунення системних термінологічних помилок:\n   - Вживайте *«чинне законодавство / чинний закон»* (НЕ *діюче законодавство* — в українській мові активні дієприкметники на -чий є ненормативними!);\n   - Вживайте *«позбавлення волі»* (НЕ *лішеніє волі*);\n   - Вживайте *«захист прав»* (НЕ *защищення*);\n   - Вживайте *«на підставі закону»* (НЕ *на основанії закону*).\n\n3. Синтаксис обов'язку та заборони в конституційних нормах:\n   - *«Кожен має право на...»*, *«Громадяни зобов'язані...»*, *«Ніхто не може бути підданий...»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Конституція України гарантує кожному громадянину право на судовий захист його прав, свобод та законних інтересів.",
+          "reading": "[kɔnstɪˈtut͡sʲijɑ ukrɐˈjinɪ ɦɐrɐnˈtujɛ ˈkɔʒnɔmu ɦrɔmɐˈdʲɑnɪnu ˈprɑwɔ nɑ suˈdɔwɪj zɐˈxɪst jɔˈɦɔ prɑw, swɔˈbɔd tɑ zɐˈkɔnnɪx intɛˈrɛsʲiw] (kohn-sty-TOO-tsee-yah oo-krah-YEE-ny hah-rahn-TOO-yeh KOHZH-noh-moo hroh-mah-DYAH-ny-noo PRAH-woh nah soo-DOH-vyy zah-KHYST yoh-HOH prahv, swoh-BOHD tah zah-KOHN-nykh een-teh-REH-seew)",
+          "translation": "The Constitution of Ukraine guarantees to every citizen the right to judicial protection of their rights, freedoms, and lawful interests."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 25-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Відповідно до чинного законодавства, людина, її життя і здоров'я, честь і гідність визнаються в Україні найвищою соціальною цінністю.",
+          "reading": "[wʲidpɔˈwʲidnɔ dɔ ˈtʃɪnnɔɦɔ zɐkɔnɔˈdɑwstxɐ, lʲuˈdɪnɐ, ˈjiji ʒɪtʲˈtʲɑ i zdɔˈrɔwjjɑ, tʃɛsʲtʲ i ˈɦʲidnʲisʲtʲ wɪzˈnɑjutʲsʲɑ w ukrɐˈjinʲi nɐjˈwɪʃtʃɔju sɔt͡sʲiˈɑlʲnɔju ˈt͡sʲinnʲisʲtʲu] (veed-poh-VEED-noh doh CHYN-noh-hoh zah-koh-noh-DAHV-stvah, lyoo-DY-nah, yee-YEE zhyht-TYAH ee zdoh-ROHV-yah, chest' ee HEED-neest' vyz-NAH-yoot'-syah v oo-krah-YEE-nee nahy-VYSH-choh-yoo soh-tsee-AHL'-noh-yoo TSEEN-nees-tyoo)",
+          "translation": "According to the legislation in force, human life and health, honor and dignity are recognized in Ukraine as the highest social value."
+        },
+        {
+          "target": "Принцип презумпції невинуватості виключає можливість притягнення особи до відповідальності без беззаперечних доказів її вини.",
+          "reading": "[ˈprɪnt͡sɪp prɛzumpˈt͡sʲiji nɛwɪnuˈwɑtɔsʲtʲi wɪklʲuˈtʃɑjɛ mɔʒˈlɪwʲisʲtʲ prɪtʲɑɦˈnɛnʲːɑ ɔˈsɔbɪ dɔ wʲidpɔwʲiˈdɑlʲnɔsʲtʲi bɛz bɛzzɐpɛˈrɛtʃnɪx dɔˈkɑzʲiw ˈjiji wɪˈnɪ] (PRYN-tsyp preh-zoomp-TSEE-yee neh-vy-noo-VAH-tohs-tee vy-klyoo-CHAH-yeh mohzh-LY-veest' pry-tyah-HNEN-nyah oh-SOH-by doh veed-poh-vee-DAHL'-nohs-tee bez behz-zah-peh-REHCH-nykh doh-KAH-zeew yee-YEE vy-NY)",
+          "translation": "The principle of the presumption of innocence precludes the possibility of holding a person liable without indisputable evidence of their guilt."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Законодавство — «чинне» (не діюче!); право — «верховенство права»; людина — «найвища цінність»!"
+      ],
+      "culturalNotes": [
+        "Конституція Пилипа Орлика (1710 р.) вважається однією з перших писаних конституцій Європи, що заклала традицію українського правового парламентаризму."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Великий\":",
+          "prompt": "Як нормативно в українській юридичній мові позначати закон або законодавство, яке діє зараз?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.1.",
-            "Неправильне відмінкове узгодження зі словом «Малий»",
-            "Порушення законів евфонії та словотворення для «Високий»",
-            "Стилістично некоректна синтаксична конструкція з «Низький»"
+            "Чинне законодавство / чинний закон (Legislation / statute in force - correct non-calqued term)",
+            "Діюче законодавство",
+            "Працюючий закон",
+            "Теперішнє законодавство"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативним правничим терміном в українській мові є «чинне законодавство» (активний дієприкметник «діючий» є калькою)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Великий\":",
+          "prompt": "Як називається правовий принцип, згідно з яким ніхто не може бути засуджений без вироку суду?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.1.",
-            "Порушення законів евфонії та словотворення для «Високий»",
-            "Стилістично некоректна синтаксична конструкція з «Низький»",
-            "Неправильне відмінкове узгодження зі словом «Малий»"
+            "Презумпція невинуватості (Presumption of innocence)",
+            "Презумпція правомірності",
+            "Принцип амністії",
+            "Судовий імунітет"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Фундаментальний правовий принцип — «презумпція невинуватості»."
         }
       ]
     },
@@ -10379,17 +10388,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Великий\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому конституційну норму сформульовано з бездоганною юридичною термінологією:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.1.",
-            "Стилістично некоректна синтаксична конструкція з «Низький»",
-            "Неправильне відмінкове узгодження зі словом «Малий»",
-            "Порушення законів евфонії та словотворення для «Високий»"
+            "Відповідно до чинного законодавства України, усі сумніви щодо доведеності вини особи тлумачаться на її користь.",
+            "Згідно діючого законодавства, всі сумніви по вині людини трактуються в її пользу.",
+            "По діючому закону сумніви щодо вини ідуть на користь обвинуваченого.",
+            "У відповідності з діючими нормами сумніви рішаються в пользу особи."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Відповідно до чинного законодавства... сумніви тлумачаться на користь» — еталон правничої мови."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u25-l2": {
@@ -10397,53 +10407,62 @@
     "subject": "ukrainian",
     "unit": 25,
     "lessonNumber": 2,
-    "title": "Цивільне та кримінальне право, договори (Legal) (Part 2)",
+    "title": "Судова система, інстанції та процесуальний порядок розгляду справ",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 25.2) with authentic linguistic precision.",
+    "objective": "Опанувати термінологію судочинства (судові інстанції, учасники процесу, позовне провадження), мовні формули судових рішень та процесуальне керування дієслів.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Судочинство в Україні здійснюється Конституційним Судом України та судами загальної юрисдикції відповідно до процесуальних кодексів:\n\n1. Ієрархія судових інстанцій:\n   - *«Місцевий суд (суд першої інстанції)»* — розглядає справу по суті;\n   - *«Апеляційний суд (суд апеляційної інстанції)»* — переглядає судові рішення, що не набрали законної сили;\n   - *«Верховний Суд (суд касаційної інстанції)»* — найвищий судовий орган у системі судоустрою;\n   - *«Конституційний Суд України»* — здійснює конституційний контроль законів.\n\n2. Учасники судового процесу:\n   - У цивільному / господарському процесі: *«Позивач»* (подає позов) та *«Відповідач»* (до якого пред'явлено вимоги), *«Треті особи»*;\n   - Представники: *«Адвокат, законний представник, прокурор»*.\n\n3. Нормативні дієслівні процесуальні кліше:\n   - *«Подавати позов до суду»* (НЕ *подавати в суд*);\n   - *«Відкривати провадження у справі»*;\n   - *«Задовольнити позовні вимоги у повному обсязі / частково»*;\n   - *«Відмовити в задоволенні позову»*;\n   - *«Оскаржити рішення суду в апеляційному / касаційному порядку»*;\n   - *«Рішення суду набирає законної сили»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Позивач подав позовну заяву до місцевого суду з вимогою стягнення матеріальної шкоди та відшкодування моральних збитків.",
+          "reading": "[pɔzɪˈwɑt͡ʃ pɔˈdɑw pɔˈzɔwnu ˈzɑjɑwu dɔ mʲisʲˈt͡sɛwɔɦɔ ˈsudu z ˈwɪmɔɦɔju sʲtʲɑɦˈnɛnʲːɑ mɐtɛrʲiˈɑlʲnɔji ˈʃkɔdɪ tɑ wʲidʃkɔduˈwɑnʲːɑ mɔˈrɑlʲnɪx ˈzbɪtkʲiw] (poh-zy-VAHCH poh-DAHV poh-ZOHV-noo ZAH-yah-woo doh mees-tseh-VOH-hoh SOO-doo z VY-moh-hoh-yoo styah-HNEN-nyah mah-teh-ree-AHL'-noh-yee SHKOH-dy tah veed-shkoh-doo-VAHN-nyah moh-RAHL'-nykh ZBYT-keew)",
+          "translation": "The plaintiff filed a statement of claim with the local court demanding the recovery of material damage and compensation for non-pecuniary losses."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 25-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Верховний Суд залишив касаційну скаргу без задоволення, а постанову апеляційного суду — без змін.",
+          "reading": "[wɛrˈxɔwnɪj sud zɐlɪˈʃɪw kɐsɐt͡sʲijˈnu ˈskɑrɦu bɛz zɐdɔwɔˈlɛnʲːɑ, ɐ pɔstɐˈnɔwu ɐpɛlʲɑt͡sʲijˈnɔɦɔ ˈsudu bɛz zmʲin] (wehr-KHOHV-nyy SOOD zah-ly-SHYV kah-sah-tseey-NOO SKAHR-hoo bez zah-doh-woh-LEN-nyah, ah pohs-tah-NOH-woo ah-peh-lyah-tseey-NOH-hoh SOO-doo bez ZMEEN)",
+          "translation": "The Supreme Court dismissed the cassation appeal and left the ruling of the appellate court unchanged."
+        },
+        {
+          "target": "Суддя ухвалив закрити судове засідання для забезпечення захисту конфіденційної інформації та персональних даних свідків.",
+          "reading": "[sudʲˈdʲɑ uxwɐˈlɪw zɐkˈrɪtɪ suˈdɔwɛ zɐsʲiˈdɑnʲːɑ dlʲɑ zɐbɛzˈpɛtʃɛnʲːɑ zɐˈxɪstu kɔnfʲidɛnt͡sʲijˈnɔji infɔrmɐˈt͡sʲiji tɑ pɛrsɔˈnɑlʲnɪx ˈdɑnɪx ˈswʲidkʲiw] (sood-DYAH ookh-vah-LYV zah-KRY-ty soo-DOH-weh zah-see-DAHN-nyah dlyah zah-bez-PEH-chen-nyah zah-KHYST-oo kohn-fee-dehn-tseey-NOH-yee een-fohr-mah-TSEE-yee tah pehr-soh-NAHL'-nykh DAH-nykh SVEED-keew)",
+          "translation": "The judge ruled to hold the court session in camera to ensure the protection of confidential information and personal data of witnesses."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Позов подають «до суду» (не в суд!); скаргу залишають «без задоволення»; рішення суду «набирає законної сили»!"
+      ],
+      "culturalNotes": [
+        "В Україні судова реформа запровадила відкритий Єдиний державний реєстр судових рішень, де всі вердикти публікуються державною мовою."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Малий\":",
+          "prompt": "Як правильно сказати про звернення з позовом до органу правосуддя?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.2.",
-            "Неправильне відмінкове узгодження зі словом «Високий»",
-            "Порушення законів евфонії та словотворення для «Низький»",
-            "Стилістично некоректна синтаксична конструкція з «Швидкий»"
+            "Подати позов до суду (Normative prepositional usage до суду + Genitive)",
+            "Подати позов в суд",
+            "Звернутися позовом на суд",
+            "Занести заяву у суд"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативне юридичне формулювання — «подати позов до суду»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Малий\":",
+          "prompt": "Яка сторона в цивільному процесі ініціює судовий розгляд та пред'являє вимоги?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.2.",
-            "Порушення законів евфонії та словотворення для «Низький»",
-            "Стилістично некоректна синтаксична конструкція з «Швидкий»",
-            "Неправильне відмінкове узгодження зі словом «Високий»"
+            "Позивач (Plaintiff - initiating party in civil proceedings)",
+            "Відповідач",
+            "Прокурор",
+            "Третя особа"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Сторона, яка звертається до суду за захистом порушених прав, називається «позивачем»."
         }
       ]
     },
@@ -10451,17 +10470,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Малий\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому процесуальний вердикт оформлено без жодної юридичної чи мовної помилки:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.2.",
-            "Стилістично некоректна синтаксична конструкція з «Швидкий»",
-            "Неправильне відмінкове узгодження зі словом «Високий»",
-            "Порушення законів евфонії та словотворення для «Низький»"
+            "Суд вирішив задовольнити позовні вимоги позивача в повному обсязі та стягнути судовий збір з відповідача.",
+            "Суд рішив задовольнити вимоги в повному об'ємі і стягнути кошти з відповідача.",
+            "Суд постановив прийняти позов позивача повністю з виплатою по суду.",
+            "Суддя рішив спор в пользу позивача за рахунок відповідача."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Задовольнити позовні вимоги... в повному обсязі... стягнути судовий збір» — досконала процесуальна мова."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u25-l3": {
@@ -10469,53 +10489,62 @@
     "subject": "ukrainian",
     "unit": 25,
     "lessonNumber": 3,
-    "title": "Цивільне та кримінальне право, договори (Legal) (Part 3)",
+    "title": "Цивільне, сімейне та майнове право: правочини та зобов'язання",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 25.3) with authentic linguistic precision.",
+    "objective": "Опанувати цивільно-правову термінологію (правочини, правоздатність, право власності, спадкування, аліментні зобов'язання) та норми укладання цивільних договорів.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Цивільне право регулює майнові та особисті немайнові відносини суб'єктів на засадах юридичної рівності та свободи договору:\n\n1. Суб'єкти та правосуб'єктність:\n   - *«Цивільна правоздатність»* (здатність мати права — виникає в момент народження);\n   - *«Цивільна дієздатність»* (здатність своїми діями набувати прав — повна настає з 18 років);\n   - *«Фізична особа»* (індивід) та *«Юридична особа»* (підприємство, організація);\n   - *«Правочин (договір, односторонній правочин)»* (НЕ *сдєлка* / *чинна угода*);\n   - *«Нікчемний правочин»* (недійсний у силу закону) / *«Оспорюваний правочин»*.\n\n2. Право власності та речові права:\n   - Тріада права власності: *«володіння, користування, розпорядження майном»*;\n   - *«Рухоме та нерухоме майно»*, *«Спільна сумісна / спільна часткова власність»*.\n\n3. Спадкове та сімейне право:\n   - *«Спадкодавець»* (той, хто залишає спадщину) та *«Спадкоємець»* (той, хто приймає);\n   - *«Спадкування за законом»* (за чергами) та *«Спадкування за заповітом»* (НЕ *по заповіту*);\n   - *«Шлюбний договір»*, *«Аліментні зобов'язання щодо утримання неповнолітніх дітей»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Правочин, здійснений під впливом обману, насильства або тяжкої обставини, може бути визнаний судом недійсним.",
+          "reading": "[prɐˈwɔt͡ʃɪn, zdʲijsˈnɛnɪj pʲid wplɪˈwɔm ɔbˈmɑnu, nɐˈsɪlʲstxɐ ɐˈbɔ ˈtʲɑʒkɔji ɔbˈstɑwɪnɪ, ˈmɔʒɛ ˈbutɪ wɪzˈnɑnɪj ˈsudɔm nɛˈdʲijsnɪm] (prah-VOH-chyn, zdeey-SNEH-nyy peed vply-VOHM ohb-MAH-noo, nah-SYL'-stvah ah-BOH TYAHZH-koh-yee ohb-STAH-wy-ny, MOH-zheh BOO-ty vyz-NAH-nyy SOO-dohm neh-DEEY-snym)",
+          "translation": "A legal transaction entered into under the influence of fraud, violence, or severe circumstances may be declared invalid by the court."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 25-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Спадкоємець має право прийняти спадщину або відмовитися від її прийняття впродовж шести місяців з дня відкриття спадщини.",
+          "reading": "[spɐdˈkɔjɛmɛt͡sʲ ˈmɑjɛ ˈprɑwɔ prɪjˈnʲɑtɪ ˈspɑdt͡ʃɪnu ɐˈbɔ wʲidmɔˈwɪtɪsʲɑ wʲid ˈjiji prɪjˈnʲɑtʲːɑ wprɔˈdɔwʒ ʃɛsˈtɪ ˈmʲisʲɑt͡sʲiw z dnʲɑ wʲidkˈrɪtʲːɑ ˈspɑdt͡ʃɪnɪ] (spahd-KOH-yeh-mehts' MAH-yeh PRAH-woh pryy-NYAH-ty SPAHD-chy-noo ah-BOH veed-moh-VY-tys'-yah veed yee-YEE pryy-NYAHT-tyah vproh-DOVZH shehs-TY MEE-syah-tseew z DNYAH veed-KRYT-tyah SPAHD-chy-ny)",
+          "translation": "The heir has the right to accept the inheritance or waive its acceptance within six months from the day of the opening of the succession."
+        },
+        {
+          "target": "Шлюбний договір регулює виключно майнові відносини між подружжям і не може обмежувати особисті немайнові права людини.",
+          "reading": "[ˈʃlʲubnɪj dɔˈɦɔwʲir rɛɦuˈlʲujɛ wɪkˈlʲutʃnɔ mɐjˈnɔwʲi wʲidnɔˈsɪnɪ mʲiʒ pɔdˈrudʒːɐm i nɛ ˈmɔʒɛ ɔbmɛˈʒuwɑtɪ ɔsɔˈbɪsʲtʲi nɛmɐjˈnɔwʲi prɐˈwɑ lʲuˈdɪnɪ] (SHLYOOB-nyy doh-HOH-veer reh-hoo-LYOO-yeh vy-KLYOOCH-noh mahy-NOH-vee veed-noh-SY-ny meezh pohd-ROO-dzhyahm ee neh MOH-zheh ohb-meh-ZHOO-vah-ty oh-soh-BYS-tee neh-mahy-NOH-vee prah-VAH lyoo-DY-ny)",
+          "translation": "A marriage contract exclusively regulates property relations between spouses and cannot restrict personal non-property human rights."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Не «сдєлка», а «правочин»! Не «наслідство», а «спадщина»! Спадкування — «за законом» або «за заповітом»!"
+      ],
+      "culturalNotes": [
+        "Цивільний кодекс України базується на романо-германській правовій традиції з глибокою адаптацією до стандартів приватного права ЄС."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Високий\":",
+          "prompt": "Як називається дія особи, спрямована на набуття, зміну або припинення цивільних прав та обов'язків?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.3.",
-            "Неправильне відмінкове узгодження зі словом «Низький»",
-            "Порушення законів евфонії та словотворення для «Швидкий»",
-            "Стилістично некоректна синтаксична конструкція з «Повільний»"
+            "Правочин (Legal transaction - core civil law term in Ukrainian)",
+            "Сдєлка",
+            "Угодочин",
+            "Діловий акт"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативним фундаментальним поняттям українського цивільного права є «правочин»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Високий\":",
+          "prompt": "Оберіть нормативне прийменникове сполучення для спадкування:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.3.",
-            "Порушення законів евфонії та словотворення для «Швидкий»",
-            "Стилістично некоректна синтаксична конструкція з «Повільний»",
-            "Неправильне відмінкове узгодження зі словом «Низький»"
+            "Спадкування за заповітом (Succession by will - normative prepositional phrase)",
+            "Спадкування по заповіту",
+            "Спадкування згідно заповіту",
+            "Спадкування від заповіту"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Нормативна юридична конструкція — «спадкування за законом / за заповітом»."
         }
       ]
     },
@@ -10523,17 +10552,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Високий\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому цивільно-правові поняття вжито абсолютно грамотно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.3.",
-            "Стилістично некоректна синтаксична конструкція з «Повільний»",
-            "Неправильне відмінкове узгодження зі словом «Низький»",
-            "Порушення законів евфонії та словотворення для «Швидкий»"
+            "Договір купівлі-продажу нерухомості є двостороннім правочином, що підлягає обов'язковому нотаріальному посвідченню.",
+            "Договір купівлі квартири являється сдєлкою, яку треба завірити у нотаріуса.",
+            "Ця угода по нерухомості підлягає нотаріальному посвідченню по закону.",
+            "Сдєлка купівлі-продажу має бути зареєстрована у нотаріуса."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Терміни «двосторонній правочин», «нотаріальне посвідчення» є нормативними стандартами Цивільного кодексу України."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u25-l4": {
@@ -10541,53 +10571,62 @@
     "subject": "ukrainian",
     "unit": 25,
     "lessonNumber": 4,
-    "title": "Цивільне та кримінальне право, договори (Legal) (Part 4)",
+    "title": "Кримінальне право, кваліфікація правопорушень та запобіжні заходи",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 25.4) with authentic linguistic precision.",
+    "objective": "Опанувати термінологію кримінального права (склад злочину, суб'єкт, умисел, види покарань), процесуальні статуси та заходи забезпечення кримінального провадження.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Кримінальне право України визначає, які суспільно небезпечні діяння є кримінальними правопорушеннями та які покарання застосовуються до винних:\n\n1. Елементи складу кримінального правопорушення (злочину):\n   - *«Об'єкт правопорушення»* (суспільні відносини, які охороняються законом);\n   - *«Об'єктивна сторона»* (діяння, суспільно небезпечні наслідки, причинно-наслідковий зв'язок);\n   - *«Суб'єкт правопорушення»* (осудна фізична особа, яка досягла віку кримінальної відповідальності);\n   - *«Суб'єктивна сторона»* (вина у формі прямого / непрямого умислу або необережності — самовпевненості чи недбалості).\n\n2. Процесуальний статус особи в кримінальному провадженні:\n   - *«Підозрюваний»* (щодо якого складено повідомлення про підозру);\n   - *«Обвинувачений»* (обвинувальний акт передано до суду);\n   - *«Підсудний»* (під час судового розгляду);\n   - *«Засуджений»* (щодо якого набрав чинності обвинувальний вирок суду);\n   - *«Виправданий»* (щодо якого ухвалено виправдувальний вирок).\n\n3. Запобіжні заходи (Measures of Restraint):\n   - *«Особисте зобов'язання, особиста порука, застава, домашній арешт, тримання під вартою (найсуворіший запобіжний захід)»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Слідчий суддя задовольнив клопотання прокурора та обрав підозрюваному запобіжний захід у вигляді тримання під вартою строком на шістдесят діб.",
+          "reading": "[sʲlʲidnɪj sudʲˈdʲɑ zɐdɔˈwɔlʲnɪw klɔpɔˈtɑnʲːɑ prɔkuˈrɔrɐ tɑ ɔbˈrɑw pʲidɔzˈrʲuwɐnɔmu zɐpɔˈbʲiʒnɪj ˈzɑxʲid u wɪɦˈlʲɑdʲi trɪˈmɑnʲːɑ pʲid ˈwɑrtɔju ˈstrɔkɔm nɑ ˈʃʲisdɛsʲɑt dʲib] (SLEED-nyy sood-DYAH zah-doh-VOHL'-nyv kloh-poh-TAHN-nyah proh-koo-ROH-rah tah ohb-RAHV pee-dohz-RYOO-wah-noh-moo zah-poh-BEEZH-nyy ZAH-kheed oo vyh-LYAH-dee try-MAHN-nyah peed VAHR-toh-yoo STROH-kohm nah SHEES-deh-syat DEEB)",
+          "translation": "The investigating judge granted the prosecutor's motion and chose a measure of restraint for the suspect in the form of custody for a period of sixty days."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 25-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Кваліфікація діяння залежить від наявності прямого умислу, корисливого мотиву та розміру заподіяних матеріальних збитків.",
+          "reading": "[kwɐlʲifʲiˈkɑt͡sʲijɑ dʲiˈjɑnʲːɑ zɐˈlɛʒɪtʲ wʲid nɐˈjɑwnɔsʲtʲi prʲɑˈmɔɦɔ ˈumɪslu, kɔrɪsˈlɪwɔɦɔ mɔˈtɪwu tɑ rɔzˈmʲiru zɐpɔˈdʲijɑnɪx mɐtɛrʲiˈɑlʲnɪx ˈzbɪtkʲiw] (kvah-lee-fee-KAH-tsee-yah dee-YAHN-nyah zah-LEH-zheet' veed nah-YAHV-nohs-tee pryah-MOH-hoh OO-my-sloo, koh-rys-LY-woh-hoh moh-TY-woo tah roz-MEE-roo zah-poh-dee-YAH-nykh mah-teh-ree-AHL'-nykh ZBYT-keew)",
+          "translation": "The qualification of the act depends on the presence of direct intent, mercenary motive, and the amount of material damage caused."
+        },
+        {
+          "target": "Сторона захисту наполягала на зміні запобіжного заходу на цілодобовий домашній арешт з носінням електронного засобу контролю.",
+          "reading": "[stɔrɔˈnɑ zɐˈxɪstu nɐpɔlʲɑˈɦɑlɐ nɑ ˈzmʲinʲi zɐpɔˈbʲiʒnɔɦɔ ˈzɑxɔdu nɑ t͡sʲilɔdɔˈbɔwɪj dɔˈmɑʃnʲij ɐˈrɛʃt z nɔˈsʲinʲːɐm ɛlɛktˈrɔnnɔɦɔ ˈzɑsɔbu kɔntˈrɔlʲu] (stoh-roh-NAH zah-KHYS-too nah-poh-lyah-HAH-lah nah ZMEE-nee zah-poh-BEEZH-noh-hoh ZAH-khoh-doo nah tsee-loh-doh-BOH-vyy doh-MAHSH-neey ah-REHSHT z noh-SEEN-nyahm eh-lehk-TROHN-noh-hoh ZAH-soh-boo kohn-TROH-lyoo)",
+          "translation": "The defense insisted on changing the measure of restraint to round-the-clock house arrest with wearing an electronic monitoring device."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Не «мєра пресєчєнія», а «запобіжний захід»! Не «содержаніє під стражей», а «тримання під вартою»! Статуси: підозрюваний -> обвинувачений -> підсудний -> засуджений!"
+      ],
+      "culturalNotes": [
+        "Кримінальний процесуальний кодекс України закріпив інститут слідчого судді та суду присяжних як ключові гарантії захисту прав людини."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Низький\":",
+          "prompt": "Як правильно українською юридичною мовою називається запобіжний захід позбавлення волі до вироку суду?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.4.",
-            "Неправильне відмінкове узгодження зі словом «Швидкий»",
-            "Порушення законів евфонії та словотворення для «Повільний»",
-            "Стилістично некоректна синтаксична конструкція з «Новий»"
+            "Тримання під вартою (Custody / pre-trial detention - normative legal term)",
+            "Утримання під стражею",
+            "Знаходження в СІЗО",
+            "Арешт під охороною"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативний процесуальний термін у КПК України — «тримання під вартою»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Низький\":",
+          "prompt": "Як називається особа в кримінальному процесі після того, як обвинувальний акт скеровано до суду?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.4.",
-            "Порушення законів евфонії та словотворення для «Повільний»",
-            "Стилістично некоректна синтаксична конструкція з «Новий»",
-            "Неправильне відмінкове узгодження зі словом «Швидкий»"
+            "Обвинувачений / підсудний (Accused / defendant during court proceedings)",
+            "Підозрюваний",
+            "Засуджений",
+            "Свідок"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Після направлення обвинувального акта до суду особа набуває статусу «обвинуваченого» (під час судового розгляду — «підсудного»)."
         }
       ]
     },
@@ -10595,17 +10634,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Низький\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому процесуальний захід описано бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.4.",
-            "Стилістично некоректна синтаксична конструкція з «Новий»",
-            "Неправильне відмінкове узгодження зі словом «Швидкий»",
-            "Порушення законів евфонії та словотворення для «Повільний»"
+            "Слідчий суддя обрав підозрюваному запобіжний захід у вигляді тримання під вартою із визначенням розміру застави.",
+            "Суддя вибрав підозрюваному мєру пресєчєнія у вигляді арешту під стражу.",
+            "Суд встановив запобіжний захід сидіти під вартою з виплатою залога.",
+            "Слідчий призначив мєру пресєчєнія утримання під охороною."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Запобіжний захід у вигляді тримання під вартою із визначенням розміру застави» — точна процесуальна термінологія."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u25-l5": {
@@ -10613,53 +10653,62 @@
     "subject": "ukrainian",
     "unit": 25,
     "lessonNumber": 5,
-    "title": "Цивільне та кримінальне право, договори (Legal) (Part 5)",
+    "title": "Міжнародне кримінальне право, Римський статут та воєнні злочини",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 25.5) with authentic linguistic precision.",
+    "objective": "Опанувати термінологію міжнародного гуманітарного та міжнародного кримінального права (Римський статут МКС, воєнні злочини, геноцид, репарації) та формули міжнародного правосуддя.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Міжнародне кримінальне право регулює відповідальність фізичних осіб за найтяжчі злочини проти миру та безпеки людства:\n\n1. Основні міжнародні судові інституції:\n   - *«Міжнародний кримінальний суд (МКС, Гаага)»* — діє на основі Римського статуту;\n   - *«Міжнародний суд ООН (ICJ)»* — вирішує спори між державами;\n   - *«Європейський суд з прав людини (ЄСПЛ, Страсбург)»*;\n   - *«Спеціальний трибунал щодо злочину агресії»*.\n\n2. Чотири ключові категорії міжнародних злочинів (Римський статут):\n   - *«Злочин агресії (Crime of Aggression)»* — планування, підготовка та ведення агресивної війни;\n   - *«Геноцид (Genocide)»* — діяння з наміром знищити повністю або частково національну, етнічну, расову чи релігійну групу;\n   - *«Злочини проти людяності (Crimes against Humanity)»* — широкомасштабні або систематичні напади на цивільне населення (вбивства, депортації, катування);\n   - *«Воєнні злочини (War Crimes)»* — серйозні порушення Женевських конвенцій та законів і звичаїв війни (атаки на цивільні об'єкти, мародерство, примусова депортація дітей).\n\n3. Правові формули невідворотності покарання:\n   - *«Видача міжнародного ордера на арешт»*;\n   - *«Принцип універсальної юрисдикції»*;\n   - *«Невідворотність покарання за воєнні злочини (без строку давності)»*;\n   - *«Стягнення репарацій та компенсацій за завдані державою-агресором збитки»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Міжнародний кримінальний суд видав ордери на арешт вищих посадових осіб держави-агресора за вчинення воєнних злочинів проти людяності.",
+          "reading": "[mʲiʒnɐˈrɔdnɪj krɪmʲiˈnɑlʲnɪj sud wɪˈdɑw ˈɔrdɛrɪ nɑ ɐˈrɛʃt ˈwɪʃtʃɪx pɔsɐˈdɔwɪx ɔˈsʲib dɛrˈʒɑwɪ ɐɦˈrɛsɔrɐ zɑ wtʃɪˈnɛnʲːɑ wɔˈjɛnnɪx ˈzlɔtʃɪnʲiw ˈprɔtɪ lʲuˈdʲɑnɔsʲtʲi] (meezh-nah-ROHD-nyy kry-mee-NAHL'-nyy SOOD vy-DAHV OHR-deh-ry nah ah-REHSHT VYSH-chykh poh-sah-DOH-wykh oh-SEEB dehr-ZHAH-wy ahh-REH-soh-rah zah vchy-NEN-nyah woh-YEHN-nykh ZLOH-chy-neew PROH-ty lyoo-DYAH-nohs-tee)",
+          "translation": "The International Criminal Court issued arrest warrants for top officials of the aggressor state for committing war crimes against humanity."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 25-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Воєнні злочини та злочин геноциду не мають строків давності згідно з нормами міжнародного звичаєвого права.",
+          "reading": "[wɔˈjɛnnʲi ˈzlɔtʃɪnɪ tɑ ˈzlɔtʃɪn ɦɛnɔˈt͡sɪdu nɛ ˈmɑjutʲ ˈstrɔkʲiw dɑwˈnɔsʲtʲi ˈzɦʲidnɔ z ˈnɔrmɐmɪ mʲiʒnɐˈrɔdnɔɦɔ zwɪt͡ʃɐˈjɛwɔɦɔ ˈprɑwɐ] (woh-YEHN-nee ZLOH-chy-ny tah ZLOH-chyn heh-noh-TSY-doo neh MAH-yoot' STROH-keew dahv-NOHS-tee ZHEED-noh z NOHR-mah-my meezh-nah-ROHD-noh-hoh zwy-chah-YEH-woh-hoh PRAH-wah)",
+          "translation": "War crimes and the crime of genocide have no statute of limitations under the norms of customary international law."
+        },
+        {
+          "target": "Створення міжнародного реєстру збитків є першим кроком до забезпечення повної виплати репарацій усім постраждалим.",
+          "reading": "[stwɔˈrɛnʲːɑ mʲiʒnɐˈrɔdnɔɦɔ rɛˈjɛstru ˈzbɪtkʲiw jɛ ˈpɛrʃɪm ˈkrɔkɔm dɔ zɐbɛzˈpɛtʃɛnʲːɑ ˈpɔwnɔji ˈwɪplɐtɪ rɛpɐˈrɑt͡sʲij uˈsʲim pɔstˈrɑʒdɑlɪm] (stwoh-REN-nyah meezh-nah-ROHD-noh-hoh reh-YEHS-troo ZBYT-keew yeh PEHR-shym KROH-kohm doh zah-bez-PEH-chen-nyah POHV-noh-yee VY-plah-ty reh-pah-RAH-tseey oo-SEEM pohst-RAHZH-dah-lym)",
+          "translation": "The establishment of an international register of damage is the first step towards ensuring full payment of reparations to all victims."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Злочини за Римським статутом: «агресія, геноцид, злочини проти людяності, воєнні злочини»; немає строків давності; репарації — відшкодування збитків агресором!"
+      ],
+      "culturalNotes": [
+        "Ратифікація Україною Римського статуту МКС у 2024 році стала історичною віхою утвердження верховенства міжнародного правопорядку та невідворотності правосуддя."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Швидкий\":",
+          "prompt": "Як правильно називається категорія злочинів, пов'язаних із грубим порушенням законів та звичаїв війни?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.5.",
-            "Неправильне відмінкове узгодження зі словом «Повільний»",
-            "Порушення законів евфонії та словотворення для «Новий»",
-            "Стилістично некоректна синтаксична конструкція з «Старий»"
+            "Воєнні злочини (War crimes - correct adjective воєнний referring to war acts)",
+            "Військові злочини",
+            "Армійські злочини",
+            "Бойові злочини"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "В українській мові розрізняють: «воєнні злочини» (порушення законів війни під час збройного конфлікту) та «військові злочини» (правопорушення військовослужбовців проти порядку несення служби)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Швидкий\":",
+          "prompt": "Яку назву має міжнародний договір, що є установчим документом Міжнародного кримінального суду?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.5.",
-            "Порушення законів евфонії та словотворення для «Новий»",
-            "Стилістично некоректна синтаксична конструкція з «Старий»",
-            "Неправильне відмінкове узгодження зі словом «Повільний»"
+            "Римський статут (Rome Statute of the International Criminal Court)",
+            "Женевська конвенція",
+            "Гаазька хартія",
+            "Страсбурзький регламент"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Установчим документом МКС є «Римський статут» (Rome Statute)."
         }
       ]
     },
@@ -10667,17 +10716,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Швидкий\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому норми міжнародного правосуддя сформульовано з бездоганною термінологічною точністю:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 25.5.",
-            "Стилістично некоректна синтаксична конструкція з «Старий»",
-            "Неправильне відмінкове узгодження зі словом «Повільний»",
-            "Порушення законів евфонії та словотворення для «Новий»"
+            "Міжнародне право гарантує невідворотність покарання за воєнні злочини та стягнення компенсацій за завдані державою-агресором збитки.",
+            "Міжнародне право гарантує покарання за військові злочини і репарації від агресора без суда.",
+            "Закони війни карають за воєнні гріхи та вимагають виплат по агресії.",
+            "Римський статут передбачає суд над агресором по всім військовим злочинам."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Невідворотність покарання за воєнні злочини та стягнення компенсацій за завдані державою-агресором збитки» — ідеальна міжнародно-правова норма."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u26-l1": {
