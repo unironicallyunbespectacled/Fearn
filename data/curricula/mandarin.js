@@ -11035,85 +11035,89 @@
     "subject": "mandarin",
     "unit": 19,
     "lessonNumber": 1,
-    "title": "可能补语（得/不）与程度表达 (Potential Complements) (第1讲)",
+    "title": "可能补语肯定式（V+得+C）与否定式（V+不+C）基本句式与语义评估 (Potential Complements Affirmative & Negative)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：可能补语的肯定与否定式（看得懂/听不清楚）、状态补语及程度补语的用法。 (第1部分)。",
+    "objective": "系统掌握现代汉语可能补语肯定式（V+得+C）与否定式（V+不+C）的句法语义机理，精准区分客观潜能评估与能愿动词情理限制的语用差异。",
     "presentation": {
-      "explanation": "",
+      "explanation": "可能补语用于陈述主观能力或客观外部条件是否允许某种动作的结果或趋向得以实现：\n\n一、可能补语基本句法结构：\n1. 肯定式：【动词 + 得 + 结果补语/趋向补语】（表示条件具备、具备实现潜能）。\n- 范例说明：看得懂（能够理解）、听得清（能够听见辨明）、买得到（能够购得）、找得到（能够寻获）、修得好（能够修复）、做得完（能够按时完成）。\n2. 否定式：【动词 + 不 + 结果补语/趋向补语】（表示条件受限、无法实现目标）。\n- 范例说明：看不懂（无法理解）、听不清（无法听清）、买不到（无处购得）、找不到（无法寻获）、修不好（无法修复）、做不完（无法按时完成）。\n\n二、语用频率与否定习惯：\n- 在日常交际与学术交际中，可能补语【否定式（V+不+C）的使用频率远高于肯定式】。\n- 汉语更习惯用否定式客观委婉地表达客观条件的局限（如：声音太小，我听不清；字迹太淡，我看不见）。\n\n三、可能补语与能愿动词（能/不能 + V + C）的精微辨析：\n1.「V + 不 + C（可能补语否定式）」：侧重于【内在客观能力、生理感知或物理时间容量上的客观受阻】（例如：今天任务太重，我做不完）。\n2.「不能 + V + C（能愿动词否定式）」：侧重于【外在规则、道德纪律或情理上的不允许】（例如：考场有严格纪律，考试结束前你不能交卷走人）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「可能补语（得/不）与程度表达 (Potential Complements)」的核心语法法则与应用范例 (19.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '可能补语（得/不）与程度表达 (Potential Complements)' in simple terms to students at the academic seminar."
+          "target": "报告厅最后一排距离主席台太远了，坐在后排的听众很难听得清楚台上发言者的声音。(Bàogàotīng zuìhòu yì pái jùlí zhǔxítái tài yuǎn le, zuò zài hòupái de tīngzhòng hěn nán tīng de qīngchu táishang fāyánzhě de shēngyīn.)",
+          "reading": "[paʊ̯˥˩.kaʊ̯˥˩.tʰiŋ˥ t͡sweɪ̯˥˩.xoʊ̯˥˩ i˥ pʰaɪ̯˧˥ t͡ɕy˥˩.li˧˥ ʈ͡ʂu˨˩.ɕi˧˥.tʰaɪ̯˧˥ tʰaɪ̯˥˩ jɥɛn˨˩˦ lɤ, t͡swoʊ̯˥˩ t͡saɪ̯˥˩ xoʊ̯˥˩.pʰaɪ̯˧˥ tɤ tʰiŋ˥.ʈ͡ʂʊŋ˥˩ xən˨˩˦ nan˧˥ tʰiŋ˥ tɤ t͡ɕʰiŋ˥.ʈ͡ʂʰu tʰaɪ̯˧˥.ʂɑŋ fa˥.jan˧˥.ʈ͡ʂɤ˨˩˦ tɤ ʂəŋ˥.in˥] (Bào-gào-tīng zuì-hòu yì pái jù-lí zhǔ-xí-tái tài yuǎn le, zuò zài hòu-pái de tīng-zhòng hěn nán tīng de qīng-chu tái-shang fā-yán-zhě de shēng-yīn.)",
+          "translation": "The last row of the lecture hall is too far from the podium; it is very difficult for audience members sitting in the rear rows to hear the speaker's voice clearly."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (19.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "只要掌握了科学系统的阅读方法，初学者也能看得懂这篇经典的中国文言短文。(Zhǐyào zhǎngwò le kēxué xìtǒng de yuèdú fāngfǎ, chūxuézhě yě néng kàn de dǒng zhè piān jīngdiǎn de Zhōngguó wényán duǎnwén.)",
+          "reading": "[ʈ͡ʂɨ˨˩˦.jaʊ̯˥˩ ʈ͡ʂɑŋ˨˩.wɔ˥˩ lɤ kʰɤ˥.ɕɥɛ˧˥ ɕi˥˩.tʰʊŋ˨˩˦ tɤ jɥɛ˥˩.tu˧˥ fɑŋ˥.fa˨˩˦, t͡ʂʰu˥.ɕɥɛ˧˥.ʈ͡ʂɤ˨˩˦ jɛ˨˩˦ nɤŋ˧˥ kʰan˥˩ tɤ tʊŋ˨˩˦ ʈ͡ʂɤ˥˩ pʰjɛn˥ t͡ɕiŋ˥.tjɛn˨˩˦ tɤ ʈ͡ʂʊŋ˥.kwɔ˧˥ wən˧˥.jan˧˥ twan˨˩.wən˧˥] (Zhǐ-yào zhǎng-wò le kē-xué xì-tǒng de yuè-dú fāng-fǎ, chū-xué-zhě yě néng kàn de dǒng zhè piān jīng-diǎn de Zhōng-guó wén-yán duǎn-wén.)",
+          "translation": "As long as one masters a scientific and systematic reading method, beginners can also understand this classic Chinese classical prose short piece."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (19.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "这座大型图书馆内藏书数百万册，如果缺乏检索系统，读者根本找不到所需的专业文献。(Zhè zuò dàxíng túshūguǎn nèi cángshū shùbǎi wàn cè, rúguǒ quēfá jiǎnsuǒ xìtǒng, dúzhě gēnběn zhǎobudào suǒxū de zhuānyè wénxiàn.)",
+          "reading": "[ʈ͡ʂɤ˥˩ t͡swoʊ̯˥˩ ta˥˩.ɕiŋ˧˥ tʰu˧˥.ʂu˥.kwan˨˩˦ neɪ̯˥˩ t͡sʰɑŋ˧˥.ʂu˥ ʂu˥˩.paɪ̯˨˩˦ wan˥˩ t͡sʰɤ˥˩, ʐu˧˥.kwo˨˩˦ t͡ɕʰyɛ˥.fa˧˥ t͡ɕjɛn˨˩.swɔ˨˩˦ ɕi˥˩.tʰʊŋ˨˩˦, tu˧˥.ʈ͡ʂɤ˨˩˦ kən˥.pən˨˩˦ ʈ͡ʂaʊ̯˨˩.pu.taʊ̯˥˩ swɔ˨˩.ɕy˥ tɤ ʈ͡ʂwan˥.jɛ˥˩ wən˧˥.ɕjɛn˥˩] (Zhè zuò dà-xíng tú-shū-guǎn nèi cáng-shū shù-bǎi wàn cè, rú-guǒ quē-fá jiǎn-suǒ xì-tǒng, dú-zhě gēn-běn zhǎo-bu-dào suǒ-xū de zhuān-yè wén-xiàn.)",
+          "translation": "This large-scale library houses millions of volumes of books; if lacking a retrieval system, readers simply cannot find the specialized literature they need."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (19.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "明天上午就要召开全员学术评审会议了，今天晚上无论如何也得把初稿修改完毕。(Míngtiān shàngwǔ jiù yào zhàokāi quányuán xuéshù píngshěn huìyì le, jīntiān wǎnshang wúlùn-rúhé yě děi bǎ chūgǎo xiūgǎi wánbì.)",
+          "reading": "[miŋ˧˥.tʰjɛn˥ ʂɑŋ˥˩.u˨˩˦ t͡ɕjoʊ̯˥˩ jaʊ̯˥˩ ʈ͡ʂaʊ̯˥˩.kʰaɪ̯ t͡ɕʰyɛn˧˥.jɥɛn˧˥ ɕɥɛ˧˥.ʂu˥˩ pʰiŋ˧˥.ʂən˨˩˦ xweɪ̯˥˩.i˥˩ lɤ, t͡ɕin˥.tʰjɛn˥ wan˨˩.ʂɑŋ u˧˥.lwən˥˩.ʐu˧˥.xɤ˧˥ jɛ˨˩˦ teɪ̯˨˩˦ pa˨˩˦ t͡ʂʰu˥.kaʊ̯˨˩˦ ɕjoʊ̯˥.kaɪ̯˨˩˦ wan˧˥.pi˥˩] (Míng-tiān shàng-wǔ jiù yào zhào-kāi quán-yuán xué-shù píng-shěn huì-yì le, jīn-tiān wǎn-shang wú-lùn-rú-hé yě děi bǎ chū-gǎo xiū-gǎi wán-bì.)",
+          "translation": "The all-member academic review conference will be convened tomorrow morning; tonight no matter what we must complete revising the first draft."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "得表可行潜能存，不表受阻难达标；听清看懂做得完，可能补语评估高！"
+      ],
+      "culturalNotes": [
+        "可能补语是否定句使用率极高的典型汉语特色结构。通过「看不懂/听不清/做不到」等客观评判，汉语表达展现了对客观规律与事物实际局限的理性敬畏。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「可能补语（得/不）与程度表达 (Potential Complements)」（第1讲）的标准汉语规范？",
+          "prompt": "在表达「因为字迹过于模糊，导致视力无法识别文字内容」时，最地道的可能补语是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「可能补语（得/不）与程度表达 (Potential Complements)」的核心语法法则与应用范例 (19.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (19.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (19.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (19.1.w3)"
+            "看不清 / 看不见 (Potential complement: cannot see clearly)",
+            "看没清",
+            "不看清",
+            "看清不"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「动词 + 不 + 结果补语」构成可能补语否定式：看不清。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "下列哪一项表达了「具备充足的时间和能力把工作全部完成」的可能补语肯定式？",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "做得完 (Can finish completely)",
+            "做完好",
+            "做成完",
+            "做到完"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「做得完」是表达有能力、有时间完成动作的可能补语肯定式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「可能补语（得/不）与程度表达 (Potential Complements)」的正式语境下，最准确得体的表达是哪一项？（第19.1题）",
+          "prompt": "句子「这个学术问题太深奥了，我根本听不懂」中，「听不懂」强调的是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (19.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (19.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (19.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (19.1.x3)"
+            "认知与理解层面客观上无法领会其含义 (Cognitive incapacity to comprehend)",
+            "耳朵被塞住了没有听到任何声音",
+            "因为纪律原因不被允许听",
+            "故意不想听"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「听不懂」侧重于主观理解能力在客观上受阻无法领会深层含义。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u19-l1）所要求的高阶语言表达？",
+          "prompt": "在表达「商品数量极少，在市场上根本无法买到」时，最准确的表达是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (19.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (19.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (19.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (19.1.y3)"
+            "买不到 (Cannot buy / unavailable)",
+            "买没到",
+            "不买到",
+            "买到不"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「买不到」是表达客观条件不具备、无法购得的经典可能补语否定式。"
         }
       ]
     },
@@ -11121,25 +11125,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「可能补语（得/不）与程度表达 (Potential Complements)」的掌握程度，请选出表述完全正确的标准范句（测试 19-1）：",
+          "prompt": "请选出下列句子中可能补语运用最准确、语境逻辑最严密的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (19.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (19.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (19.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (19.1.z3)"
+            "这套古代碑帖拓本由于年代久远有些字迹磨损，普通读者很难辨认得出来，但权威专家完全看得懂其中的微言大义。(辨认得出来、看得懂，两处可能补语运用极其地道精准)",
+            "读者把字迹看不懂，专家看懂得了。(把字句与可能补语严重冲突错乱)",
+            "字迹被专家看得不出来。(语病严重)",
+            "普通读者不辨认出拓本。(语法残缺不通)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句在可能补语「辨认得出来」与「看得懂」的配合上精准体现了专业能力与客观条件的评估。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u19-l1）的核心关键词（例如「可能补语」）：",
+          "prompt": "请输入插入动词与补语之间、用于构成可能补语肯定式的核心单字结构助词（拼音为 de）：",
           "acceptedAnswers": [
-            "可能补语",
-            "可能补语（得",
-            "可能补语（得/不）与程度表达"
+            "得"
           ],
-          "explanation": "正确的核心关键词为「可能补语」。"
+          "explanation": "字词「得」是构成现代汉语可能补语肯定式的核心结构标记。"
         }
       ],
       "passThreshold": 0.8
@@ -11150,85 +11152,89 @@
     "subject": "mandarin",
     "unit": 19,
     "lessonNumber": 2,
-    "title": "可能补语（得/不）与程度表达 (Potential Complements) (第2讲)",
+    "title": "高频固定可能补语核心体系（了/下/动/着/起） (High-Frequency Fixed Potential Complements: liao, xia, dong, zhao, qi)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：可能补语的肯定与否定式（看得懂/听不清楚）、状态补语及程度补语的用法。 (第2部分)。",
+    "objective": "系统掌握现代汉语五大高频固定可能补语体系（得了/不了、得下/不下、得动/不动、得着/不着、得起/不起）的引申机制与伦理道德文化内涵。",
     "presentation": {
-      "explanation": "",
+      "explanation": "现代汉语中有一批与特定单字结合形成的固定可能补语，具有高度概括的引申义系统：\n\n一、五大高频核心固定可能补语系统：\n1.「V + 得了 (liǎo) / V + 不了 (liǎo)」【客观条件/能力允许义】：\n- 语义机理：动作是否可能发生或完全实现。\n- 范例说明：去得了/去不了（能否成行）、受得了/受不了（能否忍受）、吃得了苦（能否承受劳苦）、忘不了（永远铭记）。\n2.「V + 得下 (xià) / V + 不下 (xià)」【空间容量/心理容纳义】：\n- 语义机理：物理空间或心理气度能否容纳客体。\n- 范例说明：坐得下五百人/坐不下、住得下/住不下、吃得下/吃不下（食欲或胃容量）、容得下批评（胸怀宽广）。\n3.「V + 得动 (dòng) / V + 不动 (dòng)」【力量驱动/体力维系义】：\n- 语义机理：体力或物理力量能否使客体移位或维持动作进行。\n- 范例说明：搬得动/搬不动（沉重物体）、走得动/走不动（体力尚存）、咬得动（牙齿坚固）。\n4.「V + 得着 (zháo) / V + 不着 (zháo)」【目的达成/接触获取义】：\n- 语义机理：能否触及目标或达到预期目的。\n- 范例说明：睡得着/睡不着（能否入睡）、够得着/够不着（物理触及）、买得着/买不着、用不着担心（无需）。\n5.「V + 得起 (qǐ) / V + 不起 (qǐ)」【经济财力/社会心理/道德担当义】：\n- 语义机理：财力、社会地位或良心道德能否承受得起。\n- 范例说明：买得起/买不起（经济承受力）、住得起（昂贵费用）、对得起国家（良心责任担当）、看不起人（轻视蔑视）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「可能补语（得/不）与程度表达 (Potential Complements)」的核心语法法则与应用范例 (19.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '可能补语（得/不）与程度表达 (Potential Complements)' in simple terms to students at the academic seminar."
+          "target": "这个阶梯多媒体大礼堂空间宽敞，足以坐得下五百多位来自世界各地的学术代表。(Zhè ge jiētī duōméitǐ dàlǐtáng kōngjiān kuānchǎng, zúyǐ zuò de xià wǔbǎi duō wèi láizì shìjiè gèdì de xuéshù dàibiào.)",
+          "reading": "[ʈ͡ʂɤ˥ kɤ t͡ɕjɛ˥.tʰi˥ twɔ˥.meɪ̯˨˩.tʰi˨˩˦ ta˥˩.li˨˩.tʰɑŋ˧˥ kʰʊŋ˥.t͡ɕjɛn˥ kʰwan˥.ʈ͡ʂʰɑŋ˨˩˦, t͡su˧˥.i˨˩˦ t͡swoʊ̯˥˩ tɤ ɕja˥˩ u˨˩˦.paɪ̯˨˩˦ twɔ˥ weɪ̯˥˩ laɪ̯˧˥.t͡sɨ˥˩ ʂɨ˥˩.t͡ɕjɛ˥˩ kɤ˥˩.ti˥˩ tɤ ɕɥɛ˧˥.ʂu˥˩ taɪ̯˥˩.pjaʊ̯˨˩˦] (Zhè ge jiē-tī duō-méi-tǐ dà-lǐ-táng kōng-jiān kuān-chǎng, zú-yǐ zuò de xià wǔ-bǎi duō wèi lái-zì shì-jiè gè-dì de xué-shù dài-biǎo.)",
+          "translation": "This stepped multimedia auditorium has a spacious interior, sufficient to seat more than five hundred academic delegates from all over the world."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (19.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "老科学家虽然年近八旬，但精神矍铄、身体硬朗，依然走得动路，坚持亲自到田野进行实地考察。(Lǎo kēxuéjiā suīrán nián jìn bāxún, dàn jīngshén juéshuò, shēntǐ yìnglǎng, yīrán zǒu de dòng lù, jiānchí qīnzì dào tiányě jìnxíng shídì kǎochá.)",
+          "reading": "[laʊ̯˨˩˦ kʰɤ˥.ɕɥɛ˧˥.t͡ɕja˥ sweɪ̯˧˥.ʐan˧˥ njɛn˧˥ t͡ɕin˥˩ pa˥.ɕyn˧˥, tan˥˩ t͡ɕiŋ˥.ʂən˧˥ t͡ɕyɛ˧˥.ʂwɔ˥˩, ʂən˥.tʰi˨˩˦ iŋ˥˩.lɑŋ˨˩˦, i˥.ʐan˧˥ t͡soʊ̯˨˩˦ tɤ tʊŋ˥˩ lu˥˩, t͡ɕjɛn˥.ʈ͡ʂʰɨ˧˥ t͡ɕʰin˥.t͡sɨ˥˩ taʊ̯˥˩ tʰjɛn˧˥.jɛ˨˩˦ t͡ɕiŋ˥.ɕiŋ˧˥ ʂɨ˧˥.ti˥˩ kʰaʊ̯˨˩.ʈ͡ʂʰa˧˥] (Lǎo kē-xué-jiā suī-rán nián jìn bā-xún, dàn jīng-shén jué-shuò, shēn-tǐ yìng-lǎng, yī-rán zǒu de dòng lù, jiān-chí qīn-zì dào tián-yě jìn-xíng shí-dì kǎo-chá.)",
+          "translation": "Although the veteran scientist is nearly eighty years old, he is hale and hearty, still able to walk, and insists on going to the field in person to conduct on-site investigations."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (19.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "经过连日的攻关试验，他终于卸下了心中的重担，今天晚上总算能踏踏实实地睡得着觉了。(Jīngguò liánrì de gōngjiān shìyàn, tā zhōngyú xiè xià le xīnzhōng de zhòngdàn, jīntiān wǎnshang zǒngsuàn néng tātashíshí de shuì de zháo jiào le.)",
+          "reading": "[t͡ɕiŋ˥.kwo˥˩ ljɛn˧˥.ʐɨ˥˩ tɤ kʊŋ˥.t͡ɕjɛn˥ ʂɨ˧˥.jɛn˥˩, tʰa˥ ʈ͡ʂʊŋ˥.y˧˥ ɕjɛ˥˩ ɕja˥˩ lɤ ɕin˥.ʈ͡ʂʊŋ˥ tɤ ʈ͡ʂʊŋ˥˩.tan˥˩, t͡ɕin˥.tʰjɛn˥ wan˨˩.ʂɑŋ t͡sʊŋ˨˩.swan˥˩ nɤŋ˧˥ tʰa˥.tʰa.ʂɨ˧˥.ʂɨ˧˥ tɤ ʂweɪ̯˥˩ tɤ ʈ͡ʂaʊ̯˧˥ t͡ɕjaʊ̯˥˩ lɤ] (Jīng-guò lián-rì de gōng-jiān shì-yàn, tā zhōng-yú xiè xià le xīn-zhōng de zhòng-dàn, jīn-tiān wǎn-shang zǒng-suàn néng tā-ta-shí-shí de shuì de zháo jiào le.)",
+          "translation": "After days of tackling experiments, he finally unloaded the heavy burden in his heart and could finally sleep soundly and peacefully tonight."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (19.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我们必须加倍努力潜心钻研，用丰硕的原创科研成果对得起国家和人民的殷切期望。(Wǒmen bìxū jiābèi nǔlì qiánxīn zuānyán, yòng fēngshuò de yuánchuàng kēyán chéngguǒ duì de qǐ guójiā hé rénmín de yīnqiè qīwàng.)",
+          "reading": "[wɔ˨˩.mən pi˥˩.ɕy˥ t͡ɕja˥.peɪ̯˥˩ nu˨˩.li˥˩ t͡ɕʰjɛn˧˥.ɕin˥ t͡swan˥.jan˧˥, jʊŋ˥˩ fəŋ˥.ʂwɔ˥˩ tɤ jɥɛn˧˥.t͡ʂʰwaŋ˥˩ kʰɤ˥.jan˧˥ ʈ͡ʂʰəŋ˧˥.kwo˨˩˦ tweɪ̯˥˩ tɤ t͡ɕʰi˨˩˦ kwo˧˥.t͡ɕja˥ xɤ˧˥ ʐən˧˥.min˧˥ tɤ in˥.t͡ɕʰjɛ˥˩ t͡ɕʰi˥.wɑŋ˥˩] (Wǒ-men bì-xū jiā-bèi nǔ-lì qián-xīn zuān-yán, yòng fēng-shuò de yuán-chuàng kē-yán chéng-guǒ duì de qǐ guó-jiā hé rén-mín de yīn-qiè qī-wàng.)",
+          "translation": "We must redouble our efforts to study devotedly, and live up to the ardent expectations of the country and the people with fruitful original scientific research achievements."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "了表许可容实现，下论容量空间见；动显力气着显获，起量财力道德念！"
+      ],
+      "culturalNotes": [
+        "「对得起/对不起」将物理上的「承重支撑」升华至中华文化深层的「良知信诺与家国担当」，是汉语词汇哲学隐喻的璀璨结晶。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「可能补语（得/不）与程度表达 (Potential Complements)」（第2讲）的标准汉语规范？",
+          "prompt": "在表达「大型会议室具有充足的空间容量，能够容纳三百人开会」时，最地道的固定可能补语是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「可能补语（得/不）与程度表达 (Potential Complements)」的核心语法法则与应用范例 (19.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (19.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (19.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (19.2.w3)"
+            "坐得下 / 容得下 (Capacity potential complement: 坐得下)",
+            "坐得了",
+            "坐得动",
+            "坐得着"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「动词 + 得下」专门用于表达物理空间或心理容量能够容纳客观事物。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在表达「科研工作者用优异成果回报祖国，不辜负人民期望」时，最核心的伦理道德补语是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "对得起 (Live up to / worthy of moral expectations: 对得起)",
+            "对得了",
+            "对得动",
+            "对得着"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「对得起」是表达良心责任与道德担当达成一致的核心表达。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「可能补语（得/不）与程度表达 (Potential Complements)」的正式语境下，最准确得体的表达是哪一项？（第19.2题）",
+          "prompt": "表达箱子太重、凭个人的力气无法抬起或搬移时，最精准的固定可能补语是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (19.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (19.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (19.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (19.2.x3)"
+            "搬不动 / 抬不动 (Physical strength incapacity to move: 动)",
+            "搬不下",
+            "搬不起",
+            "搬不着"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「动词 + 不动」专门表示力量不足以使物体移位或无法维持体力动作。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u19-l2）所要求的高阶语言表达？",
+          "prompt": "在句子「他今天突发高烧，实在去不了现场」中，「去不了」的意思是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (19.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (19.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (19.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (19.2.y3)"
+            "受身体健康等客观严重条件限制无法前往 (Incapable of going due to objective conditions)",
+            "心理上不想去",
+            "大家不许他去",
+            "路被封死了"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「动词 + 不了 (liǎo)」表示主客观条件不允许动作的实现。"
         }
       ]
     },
@@ -11236,25 +11242,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「可能补语（得/不）与程度表达 (Potential Complements)」的掌握程度，请选出表述完全正确的标准范句（测试 19-2）：",
+          "prompt": "请选出下列句子中固定可能补语搭配最精准、语体风格最典雅崇高的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (19.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (19.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (19.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (19.2.z3)"
+            "青年科研人员不畏艰辛吃得了苦、顶得住压力，誓用重大原创科技突破对得起国家的厚望与历史的托付！(吃得了苦、顶得住压力、对得起厚望，三处固定可能补语运用极其精湛严整)",
+            "青年人员吃得动苦，对得下厚望。(固定可能补语完全误用搭配乱套)",
+            "把厚望对得起在青年科研人员。(语病严重混用把字句)",
+            "厚望被吃得着苦。(结构彻底崩溃)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句在「吃得了苦（耐力）」、「顶得住压力（承重）」与「对得起厚望（道德担当）」的搭配上展现了极高的思想与语言修养。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u19-l2）的核心关键词（例如「可能补语」）：",
+          "prompt": "请输入表达能够不负众望、在良心道德上无愧于期望的核心三字固定可能补语（拼音为 duì de qǐ）：",
           "acceptedAnswers": [
-            "可能补语",
-            "可能补语（得",
-            "可能补语（得/不）与程度表达"
+            "对得起"
           ],
-          "explanation": "正确的核心关键词为「可能补语」。"
+          "explanation": "词组「对得起」是现代汉语中表达不负重托、问心无愧的核心固定可能补语。"
         }
       ],
       "passThreshold": 0.8
@@ -11265,85 +11269,89 @@
     "subject": "mandarin",
     "unit": 19,
     "lessonNumber": 3,
-    "title": "可能补语（得/不）与程度表达 (Potential Complements) (第3讲)",
+    "title": "可能补语疑问句构型与「可能补语 vs 把/被字句」排斥铁律 (Potential Question Forms & Co-occurrence Constraints)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：可能补语的肯定与否定式（看得懂/听不清楚）、状态补语及程度补语的用法。 (第3部分)。",
+    "objective": "彻底掌握可能补语三大疑问句范式（正反并列式、肯定+吗式），严格遵循「可能补语绝对禁止直接进入把字句与被字句」的核心句法排斥铁律及合规转换范式。",
     "presentation": {
-      "explanation": "",
+      "explanation": "可能补语在疑问句构造及与其他特殊句式的共现制约上具有严格的句法法则：\n\n一、可能补语的常见疑问句三大范式：\n1.【肯定否定正反并列式】（最地道自然的提问范式）：\n- 句法框架：主语 + [V+得+C] + [V+不+C] + 宾语？\n- 范例说明：你看得懂看不懂这篇学术文献？、你今天晚上写得完写不完实验报告？\n2.【肯定式 + 语气助词「吗」】（标准疑问式）：\n- 句法框架：主语 + [V+得+C] + 宾语 + 吗？\n- 范例说明：你看得懂这篇文献吗？、这把椅子坐得下两个人吗？\n3.【肯定式 +「不能 / 不行」反诘式】：\n- 范例说明：你今天到底去得了吗？去得了去不了？\n\n二、核心句法铁律：【可能补语绝对禁止直接进入「把」字句与「被」字句】！\n- 语言学机理：把字句表示「现实处置」、被字句表示「已然受事」，而可能补语表示「未然潜能」，语义内在逻辑天然冲突排斥！\n1. 严禁病句：*我把这本古代专著看不懂。 改正：**这本古代专著我看不懂**。\n2. 严禁病句：*这项繁重的任务被他做不完。 改正：**这项繁重的任务他做不完**。\n3. 严禁病句：*请把这个沉重的仪器搬得动。 改正：请看看你**搬得动搬不动**这个仪器 / 你**能不能把**仪器搬走。\n\n三、合规转换范式：\n- 若语境必须表达处置或被动，【必须将潜能意义转移给能愿动词（能/不能/可以）】，补语改用普通结果补语：\n- 规范范例：他**不能把**实验报告修改完毕、这项任务**不可能被**轻易攻克。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「可能补语（得/不）与程度表达 (Potential Complements)」的核心语法法则与应用范例 (19.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '可能补语（得/不）与程度表达 (Potential Complements)' in simple terms to students at the academic seminar."
+          "target": "请问你能不能把这份最新的实验数据核对清楚？（正确：能愿动词+把字句+结果补语；严禁说 *把数据核对得清楚）。(Qǐngwèn nǐ néng bu néng bǎ zhè fèn zuìxīn de shíyàn shùjù héduì qīngchu?)",
+          "reading": "[t͡ɕʰiŋ˨˩˦.wən˥˩ ni˨˩˦ nɤŋ˧˥ pu nɤŋ˧˥ pa˨˩˦ ʈ͡ʂɤ˥˩ fən˥˩ t͡sweɪ̯˥˩.ɕin˥ tɤ ʂɨ˧˥.jɛn˥˩ ʂu˥˩.t͡ɕy˥˩ xɤ˧˥.tweɪ̯˥˩ t͡ɕʰiŋ˥.ʈ͡ʂʰu] (Qǐng-wèn nǐ néng bu néng bǎ zhè fèn zuì-xīn de shí-yàn shù-jù hé-duì qīng-chu?)",
+          "translation": "Excuse me, can you verify this latest experimental data clearly? (Standard: Modal + BA sentence + Result complement; never say *BA data verify clearly-potential)."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (19.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "面对如此浩瀚的古代典籍，任何一位学者都不可能凭一己之力把所有文献全部研读完毕。(Miànduì rúcǐ hàohàn de gǔdài diǎnjí, rènhé yí wèi xuézhě dōu bù kěnéng píng yījǐ-zhīlì bǎ suǒyǒu wénxiàn quánbù yándú wánbì.)",
+          "reading": "[mjɛn˥˩.tweɪ̯˥˩ ʐu˧˥.t͡sʰɨ˨˩˦ xaʊ̯˥˩.xan˥˩ tɤ ku˨˩.taɪ̯˥˩ tjɛn˨˩.t͡ɕi˧˥, ʐən˥˩.xɤ˧˥ i˥ weɪ̯˥˩ ɕɥɛ˧˥.ʈ͡ʂɤ˨˩˦ toʊ̯˥ pu˥ kʰɤ˨˩.nɤŋ˧˥ pʰiŋ˧˥ i˥.t͡ɕi˨˩.ʈ͡ʂɨ˥.li˥˩ pa˨˩˦ swɔ˨˩.joʊ̯˨˩˦ wən˧˥.ɕjɛn˥˩ t͡ɕʰyɛn˧˥.pu˥˩ jan˧˥.tu˧˥ wan˧˥.pi˥˩] (Miàn-duì rú-cǐ hào-hàn de gǔ-dài diǎn-jí, rèn-hé yí wèi xué-zhě dōu bù kě-néng píng yī-jǐ-zhī-lì bǎ suǒ-yǒu wén-xiàn quán-bù yán-dú wán-bì.)",
+          "translation": "Facing such vast ancient classics, it is impossible for any scholar alone to finish thoroughly studying all the literature by oneself."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (19.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "这部关于量子物理的高深专著，你今天晚上看得完看不完？(Zhè bù guānyú liàngzǐ wùlǐ de gāoshēn zhuānzhù, nǐ jīntiān wǎnshang kàn de wán kàn bu wán?)",
+          "reading": "[ʈ͡ʂɤ˥˩ pu˥˩ kwan˥.y˧˥ ljaŋ˥˩.t͡sɨ˨˩˦ u˥˩.li˨˩˦ tɤ kaʊ̯˥.ʂən˥ ʈ͡ʂwan˥.ʈ͡ʂu˥˩, ni˨˩˦ t͡ɕin˥.tʰjɛn˥ wan˨˩.ʂɑŋ kʰan˥˩ tɤ wan˧˥ kʰan˥˩ pu wan˧˥] (Zhè bù guān-yú liàng-zǐ wù-lǐ de gāo-shēn zhuān-zhù, nǐ jīn-tiān wǎn-shang kàn de wán kàn bu wán?)",
+          "translation": "This advanced monograph on quantum physics, can you finish reading it tonight or not?"
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (19.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "汉语语法严格禁止将可能补语直接塞入把字句中，必须使用能愿动词进行合规转换。(Hànyǔ yǔfǎ yángé jìnzhǐ jiāng kěnéng bǔyǔ zhíjiē sāirù bǎzìjù zhōng, bìxū shǐyòng néngyuàn dòngcí jìnxíng héguī zhuǎnhuàn.)",
+          "reading": "[xan˥˩.y˨˩ y˨˩˦.fa˨˩˦ jan˧˥.kɤ˧˥ t͡ɕin˥˩.ʈ͡ʂɨ˨˩˦ t͡ɕjaŋ˥ kʰɤ˨˩.nɤŋ˧˥ pu˨˩.y˨˩˦ ʈ͡ʂɨ˥.t͡ɕjɛ˥ saɪ̯˥.ʐu˥˩ pa˨˩.t͡sɨ˥.t͡ɕy˥˩ ʈ͡ʂʊŋ˥, pi˥˩.ɕy˥ ʂɨ˨˩˦.jʊŋ˥˩ nɤŋ˧˥.jɥɛn˧˥ tʊŋ˥˩.t͡sʰɨ˧˥ t͡ɕiŋ˥.ɕiŋ˧˥ xɤ˧˥.kweɪ̯˥ ʈ͡ʂwan˨˩.xwan˥˩] (Hàn-yǔ yǔ-fǎ yán-gé jìn-zhǐ jiāng kě-néng bǔ-yǔ zhí-jiē sāi-rù bǎ-zì-jù zhōng, bì-xū shǐ-yòng néng-yuàn dòng-cí jìn-xíng hé-guī zhuǎn-huàn.)",
+          "translation": "Chinese grammar strictly prohibits directly stuffing potential complements into BA sentences; compliant conversion must be conducted using modal auxiliary verbs."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "把字被字斥可能，得不补语莫相混；若要处置加被动，能愿助动前置尊！"
+      ],
+      "culturalNotes": [
+        "语法上的排斥性体现了汉语思维中「已然发生」与「未然潜能」的严密分野。清晰把握这一句法边界，能够彻底杜绝中高级阶段最顽固的混合型语法病句。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「可能补语（得/不）与程度表达 (Potential Complements)」（第3讲）的标准汉语规范？",
+          "prompt": "关于可能补语与「把」字句、「被」字句的组合规则，下列说明完全正确的是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「可能补语（得/不）与程度表达 (Potential Complements)」的核心语法法则与应用范例 (19.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (19.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (19.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (19.3.w3)"
+            "可能补语（得/不）绝对不能直接用于「把」字句和「被」字句中 (Mutually exclusive: Potential complements forbidden in 把/被)",
+            "可能补语必须强制与把字句连用",
+            "可能补语必须放在被字句的施事者前面",
+            "任何动词都可以随意混用"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "可能补语与把/被字句在语义与语法上互斥，绝对不可直接混用。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "要询问对方「是否能够看懂这份设计图纸」，最规范纯正的正反疑问句是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "你看得懂看不懂这份设计图纸？ (Standard affirmative-negative potential question: 看得懂看不懂)",
+            "你把这份图纸看懂看不懂？",
+            "图纸被你看得懂吗？",
+            "你看懂不看懂这份图纸？"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「V+得+C + V+不+C」是可能补语最标准规范的正反疑问句式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「可能补语（得/不）与程度表达 (Potential Complements)」的正式语境下，最准确得体的表达是哪一项？（第19.3题）",
+          "prompt": "下列哪一个句子犯了「把字句与可能补语错误混用」的严重语法病句？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (19.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (19.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (19.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (19.3.x3)"
+            "*他把这些古代文字看不懂。(Incorrect: Mixing 把 with potential complement 看不懂)",
+            "这些古代文字他看不懂。",
+            "他不能把这些古代文字翻译出来。",
+            "这些古代文字太深奥了。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "可能补语「看不懂」绝不能直接用于「把」字句中，应改为「这些古代文字他看不懂」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u19-l3）所要求的高阶语言表达？",
+          "prompt": "若语境中必须使用「把」字句表达处置潜能，正确的语法解决途径是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (19.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (19.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (19.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (19.3.y3)"
+            "在「把」字前加上能愿动词（如「能不能把......做好」） (Add modal verb before 把)",
+            "在句末强行加一个得",
+            "把动词删除",
+            "把宾语删除"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "将潜能意义由能愿动词承担（能不能/不可能 + 把 + 宾语 + 动词 + 结果补语），是标准合规句式。"
         }
       ]
     },
@@ -11351,25 +11359,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「可能补语（得/不）与程度表达 (Potential Complements)」的掌握程度，请选出表述完全正确的标准范句（测试 19-3）：",
+          "prompt": "请选出下列句子中句法结构完全合规、毫无句式杂糅病态的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (19.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (19.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (19.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (19.3.z3)"
+            "面对如此浩繁的工程数据，单凭人工计算根本不可能把所有参数核对完毕，必须依靠智能算法进行快速校验。(能愿动词「不可能」+ 把字句 + 结果补语「核对完毕」，句法极其规范完美)",
+            "工程师把所有参数核对得完。(把字句直接塞入可能补语，严重病句)",
+            "参数被工程师核对不完。(被字句直接塞入可能补语，严重病句)",
+            "核对得完参数把工程师。(语序完全错乱崩溃)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "首选选项准确使用能愿动词「不可能」引领把字句，动词后搭配结果补语「核对完毕」，严格遵守了排斥铁律。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u19-l3）的核心关键词（例如「可能补语」）：",
+          "prompt": "请输入用于正反疑问句中表示否定可能的核心单字否定副词（例如看得懂「」懂，拼音为 bù）：",
           "acceptedAnswers": [
-            "可能补语",
-            "可能补语（得",
-            "可能补语（得/不）与程度表达"
+            "不"
           ],
-          "explanation": "正确的核心关键词为「可能补语」。"
+          "explanation": "字词「不」是构成可能补语否定式及正反疑问句的核心单字否定词。"
         }
       ],
       "passThreshold": 0.8
@@ -11380,85 +11386,89 @@
     "subject": "mandarin",
     "unit": 19,
     "lessonNumber": 4,
-    "title": "可能补语（得/不）与程度表达 (Potential Complements) (第4讲)",
+    "title": "状态补语（得+描摹评价）与程度补语（极了/得很/死了/透了）精微体系 (State & Degree Complements: de, jile, dehen, sile)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：可能补语的肯定与否定式（看得懂/听不清楚）、状态补语及程度补语的用法。 (第4部分)。",
+    "objective": "系统掌握状态补语（得+描摹评价）的生成规则、动词重复铁律及否定位置，熟练运用程度补语（极了/得很/死了/透了）进行高阶情感与状态强化描摹。",
     "presentation": {
-      "explanation": "",
+      "explanation": "状态补语与程度补语是现代汉语中用于对动作状态进行精细刻画评价、对性状程度进行极性强化的核心句法机制：\n\n一、状态补语（情态描摹补语）核心句法体系：\n1. 句法结构：【动词 / 形容词 + 得 + 描述评价短语】。\n- 范例说明：跑得飞快、讲得深入浅出、做得非常规范、长得极其秀丽。\n2.【动词带宾语时的复述铁律】：\n- 规则：如果动词带有宾语，必须**重复动词**，或者将宾语**提前到动词之前**！\n- 规范句型：他说汉语**说得非常地道** / 汉语他**说得非常地道**（绝不可说 *他说汉语得非常地道）。\n3.【状态补语的否定位置】：\n- 否定词「不」必须**置于补语部分前面**，绝不可放在主要动词前面！\n- 规范句型：他讲得**不好** / 他普通话说得**不标准**（如果说「他不讲」则变为否定动作本身）。\n\n二、程度补语（极性强化描摹补语）：\n- 句法结构：形容词 / 心理动词 + 程度后缀（中间不加「得」）。\n1.「......极了 (jíle)」【庄重与通俗兼具的最高级】：精彩极了、满意极了、兴奋极了。\n2.「......得很 (dehěn)」【深度强化】：好得很、快得很、多得很、热得很。\n3.「......死了 (sǐle)」【口语极致夸张】：累死了、忙死了、急死了、高兴死了。\n4.「......透了 (tòule)」【彻底透彻】：湿透了、糟透了、伤心透了、看透了。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「可能补语（得/不）与程度表达 (Potential Complements)」的核心语法法则与应用范例 (19.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '可能补语（得/不）与程度表达 (Potential Complements)' in simple terms to students at the academic seminar."
+          "target": "外国留学生在汉语桥演讲比赛中表现优异，他的普通话说得字正腔圆、极其流利。(Wàiguó liúxuéshēng zài Hànyǔ Qiáo yǎnjiǎng bǐsài zhōng biǎoxiàn yōuyì, tā de Pǔtōnghuà shuō de zìzhèng-qiāngyuán, jíqí liúlì.)",
+          "reading": "[waɪ̯˥˩.kwɔ˧˥ ljoʊ̯˧˥.ɕɥɛ˧˥.ʂəŋ t͡saɪ̯˥˩ xan˥˩.y˨˩.t͡ɕʰjaʊ̯˧˥ jan˨˩.t͡ɕjaŋ˨˩˦ pi˨˩.saɪ̯˥˩ ʈ͡ʂʊŋ˥ pjaʊ̯˨˩.ɕjɛn˥˩ joʊ̯˥.i˥˩, tʰa˥ tɤ pʰu˨˩.tʰʊŋ˥.xwa˥˩ ʂwɔ˥ tɤ t͡sɨ˥˩.ʈ͡ʂəŋ˥˩.t͡ɕʰjɑŋ˥.jɥɛn˧˥, t͡ɕi˧˥.t͡ɕʰi˧˥ ljoʊ̯˧˥.li˥˩] (Wài-guó liú-xué-shēng zài Hàn-yǔ Qiáo yǎn-jiǎng bǐ-sài zhōng biǎo-xiàn yōu-yì, tā de Pǔ-tōng-huà shuō de zì-zhèng-qiāng-yuán, jí-qí liú-lì.)",
+          "translation": "The international student performed excellently in the Chinese Bridge speech contest; his Mandarin was spoken with correct pronunciation, melodious accent, and extreme fluency."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (19.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "听到国家重大前沿科技攻关取得历史性突破的捷报，全体科研人员激动极了。(Tīngdào guójiā zhòngdà qiányán kējì gōngjiān qǔdé lìshǐxìng tūpò de jiébào, quántǐ kēyán rényuán jīdòng jíle.)",
+          "reading": "[tʰiŋ˥.taʊ̯˥˩ kwo˧˥.t͡ɕja˥ ʈ͡ʂʊŋ˥˩.ta˥˩ t͡ɕʰjɛn˧˥.jan˧˥ kʰɤ˥.t͡ɕi˥˩ kʊŋ˥.t͡ɕjɛn˥ t͡ɕʰy˨˩.tɤ˧˥ li˥˩.ʂɨ˨˩.ɕiŋ˥˩ tʰu˥.pʰwɔ˥˩ tɤ t͡ɕjɛ˧˥.paʊ̯˥˩, t͡ɕʰyɛn˧˥.tʰi˨˩˦ kʰɤ˥.jan˧˥ ʐən˧˥.jɥɛn˧˥ t͡ɕi˥.tʊŋ˥˩ t͡ɕi˧˥.lɤ] (Tīng-dào guó-jiā zhòng-dà qián-yán kē-jì gōng-jiān qǔ-dé lì-shǐ-xìng tū-pò de jié-bào, quán-tǐ kē-yán rén-yuán jī-dòng jí-le.)",
+          "translation": "Hearing the good news that the national major cutting-edge scientific and technological tackling achieved a historical breakthrough, all researchers were extremely excited."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (19.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "连续进行了长达十二个小时的高强度实验测试，实验员们虽然累得很，但内心却充满了自豪。(Liánxù jìnxíng le cháng dá shí'èr ge xiǎoshí de gāoxiángdù shíyàn cèshì, shíyànyuánmen suīrán lèi dehěn, dàn nèixīn què chōngmǎn le zìháo.)",
+          "reading": "[ljɛn˧˥.ɕy˥˩ t͡ɕiŋ˥.ɕiŋ˧˥ lɤ ʈ͡ʂʰɑŋ˧˥ ta˧˥ ʂɨ˧˥.aɚ˥˩ kɤ ɕjaʊ̯˨˩.ʂɨ˧˥ tɤ kaʊ̯˥.t͡ɕʰjaŋ˧˥.tu˥˩ ʂɨ˧˥.jɛn˥˩ t͡sʰɤ˥˩.ʂɨ˥˩, ʂɨ˧˥.jɛn˥˩.jɥɛn˧˥.mən sweɪ̯˧˥.ʐan˧˥ leɪ̯˥˩ tɤ.xən˨˩˦, tan˥˩ neɪ̯˥˩.ɕin˥ t͡ɕʰyɛn˥˩ ʈ͡ʂʰʊŋ˥.man˨˩˦ lɤ t͡sɨ˥˩.xaʊ̯˧˥] (Lián-xù jìn-xíng le cháng dá shí-'èr ge xiǎo-shí de gāo-xiáng-dù shí-yàn cè-shì, shí-yàn-yuán-men suī-rán lèi de-hěn, dàn nèi-xīn què chōng-mǎn le zì-háo.)",
+          "translation": "Having conducted high-intensity experimental testing continuously for as long as twelve hours, although the experimenters were very tired, their hearts were full of pride."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (19.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "暴风雨来临时窗户没有关严，窗台上的实验记录本全被雨水淋湿透了。(Bàofēngyǔ láilín shí chuānghu méiyǒu guān yán, chuāngtái shang de shíyàn jìlùběn quán bèi yǔshuǐ lín shītòule.)",
+          "reading": "[paʊ̯˥˩.fəŋ˥.y˨˩˦ laɪ̯˧˥.lin˧˥ ʂɨ˧˥ t͡ʂʰwaŋ˥.xu meɪ̯˧˥.joʊ̯˨˩˦ kwan˥ jan˧˥, t͡ʂʰwaŋ˥.tʰaɪ̯˧˥ ʂɑŋ tɤ ʂɨ˧˥.jɛn˥˩ t͡ɕi˥˩.lu˥˩.pən˨˩˦ t͡ɕʰyɛn˧˥ peɪ̯˥˩ y˨˩˦.ʂweɪ̯˨˩˦ lin˧˥ ʂɨ˥.tʰoʊ̯˥˩.lɤ] (Bào-fēng-yǔ lái-lín shí chuāng-hu méi-yǒu guān yán, chuāng-tái shang de shí-yàn jì-lù-běn quán bèi yǔ-shuǐ lín shī-tòu-le.)",
+          "translation": "When the rainstorm arrived, the window was not closed tightly, and the experimental logbooks on the windowsill were completely drenched through by rainwater."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "状态补语重描摹，动词复述得字后；极了得很透与死，程度精炼意趣多！"
+      ],
+      "culturalNotes": [
+        "状态补语以其独特的「动词复述」规则构建了汉语精巧的节奏韵律；程度补语「极了/死了/透了」则生动展现了汉语口语与书面语在情感抒发上的丰富张力。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「可能补语（得/不）与程度表达 (Potential Complements)」（第4讲）的标准汉语规范？",
+          "prompt": "在状态补语句中，当动词带有宾语时，完全符合汉语语法规范的句法处理方式是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「可能补语（得/不）与程度表达 (Potential Complements)」的核心语法法则与应用范例 (19.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (19.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (19.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (19.4.w3)"
+            "必须重复动词（如：写汉字写得很好）或将宾语前置 (Repeat verb or front object)",
+            "直接把「得」放在宾语后面（*写汉字得很）",
+            "把宾语删除",
+            "把动词放在句末"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "动词带宾语时必须重复动词：他说英语说得流利 / 英语他说得流利。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "对状态补语句「他字写得好」进行否定时，否定词「不」的正确位置是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "置于补语形容词前面：他字写得不好 (Negation placed before complement)",
+            "置于动词前面：他不字写得好",
+            "置于得前面：他字不写得好",
+            "置于句末：他字写得好不"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "状态补语的否定是对评价本身的否定，否定词必须放在「得」之后的补语部分前。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「可能补语（得/不）与程度表达 (Potential Complements)」的正式语境下，最准确得体的表达是哪一项？（第19.4题）",
+          "prompt": "表达某项演出或讲座达到令人叹为观止的极高水准，最典雅地道的程度补语是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (19.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (19.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (19.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (19.4.x3)"
+            "精彩极了 / 绝妙极了 (Extremely brilliant / magnificent: 极了)",
+            "精彩死了了",
+            "精彩透得很",
+            "精彩得极"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「形容词 + 极了」是表达达到顶峰程度的经典程度补语。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u19-l4）所要求的高阶语言表达？",
+          "prompt": "下列哪一项状态补语句犯了「动词带宾语未复述动词」的严重语法错误？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (19.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (19.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (19.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (19.4.y3)"
+            "*他弹钢琴得非常动听。(Incorrect: Missing verb repetition *弹钢琴得)",
+            "他弹钢琴弹得非常动听。",
+            "钢琴他弹得非常动听。",
+            "他钢琴弹得好。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「弹钢琴得」是典型语法病句，必须重复动词改为「弹钢琴弹得非常动听」。"
         }
       ]
     },
@@ -11466,25 +11476,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「可能补语（得/不）与程度表达 (Potential Complements)」的掌握程度，请选出表述完全正确的标准范句（测试 19-4）：",
+          "prompt": "请选出下列句子中状态与程度补语运用最地道、语法完全合规的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (19.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (19.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (19.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (19.4.z3)"
+            "青年学者在国际讲坛上把科研成果讲解得深入浅出，现场同行专家对报告的严谨论证满意极了。(讲解得深入浅出：状态补语完美；满意极了：程度补语极其纯熟)",
+            "学者讲成果得深入浅出，满意死了了。(状态补语严重残缺且程度词杂糅)",
+            "成果被讲解深入浅出得很好。(句式彻底混乱)",
+            "深入浅出得讲解成果。(语序颠倒病句)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句在状态补语「讲解得深入浅出」与程度补语「满意极了」的搭配上展现了高超的学术汉语修养。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u19-l4）的核心关键词（例如「可能补语」）：",
+          "prompt": "请输入用于形容词后表达达到极致顶峰程度的核心两字程度后缀（例如精彩「」，拼音为 jíle）：",
           "acceptedAnswers": [
-            "可能补语",
-            "可能补语（得",
-            "可能补语（得/不）与程度表达"
+            "极了"
           ],
-          "explanation": "正确的核心关键词为「可能补语」。"
+          "explanation": "词语「极了」是现代汉语中表达最高程度的经典程度补语。"
         }
       ],
       "passThreshold": 0.8
@@ -11495,85 +11503,89 @@
     "subject": "mandarin",
     "unit": 19,
     "lessonNumber": 5,
-    "title": "可能补语（得/不）与程度表达 (Potential Complements) (第5讲)",
+    "title": "潜能评估、精益求精与卓越表现综合情态叙事篇章 (Comprehensive Potential, Mastery & Modality Narrative)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：可能补语的肯定与否定式（看得懂/听不清楚）、状态补语及程度补语的用法。 (第5部分)。",
+    "objective": "融会贯通可能补语肯定/否定式、五大固定可能补语、状态补语动词复述规则及程度补语，独立撰写逻辑严密、文采斐然的学术攻坚与卓越成就综合叙事语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "将可能补语（潜能评估与条件裁定）、状态补语（生动情貌描摹）与程度补语（极性情感升华）熔铸于宏大篇章中，是汉语表达迈向高阶精深维度的集中体现：\n\n一、潜能攻坚、精益求精与卓越表现叙事脉络：\n1. 面对重大挑战时的潜能评估（可能补语）：面对纷繁复杂的前沿科技瓶颈，起初许多人担心在短时间内根本研究不出来、攻克不下。\n2. 潜心钻研与极限担当（固定可能补语）：青年攻坚团队吃得了苦、耐得住寂寞、顶得住压力，誓用硬核成果对得起历史重托！\n3. 过程精湛与情貌描摹（状态补语）：大家把每一个关键技术指标都测算得清清楚楚、把每一行代码都编写得极其严密规范。\n4. 突破功成与极致赞誉（程度补语）：当原创成果在国际大会上完美展示时，现场权威评委钦佩极了，全体中华儿女自豪得很！\n\n二、全景式学术攻坚与卓越成就综合纪实范文赏析：\n- 在国家重大科技攻关项目的冲刺阶段，面对这项国际公认的技术瓶颈，曾经有人怀疑我们年轻的研发团队到底能不能扛得住压力、短时间内到底做做不完。然而，我们的青年科学家们硬是凭着一股不服输的韧劲，吃得了艰苦、耐得住寂寞。大家通宵达旦地查阅海量外文文献，把原本晦涩难懂的理论机制完全弄懂弄通了。在实验室内，大家把每一个实验参数都校对得精准无比，把系统底层架构搭建得极其稳固扎实。实践证明，世上无难事，只要肯登攀！我们不仅按期把这项重大科研任务办得漂漂亮亮，更在国际顶级学术峰会上把中国方案阐述得字字珠玑、透彻极了！现场的国际权威同行听得赞叹不已，对中国青年学者的卓越科研潜能钦佩极了！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「可能补语（得/不）与程度表达 (Potential Complements)」的核心语法法则与应用范例 (19.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '可能补语（得/不）与程度表达 (Potential Complements)' in simple terms to students at the academic seminar."
+          "target": "在国际青年科学高峰论坛上，中国年轻学者用极其纯熟的学术外语把复杂的研究成果阐述得清清楚楚、明明白白。(Zài guójì qīngnián kēxué gāofēng lùntán shang, Zhōngguó niánqīng xuézhě yòng jíqí chúnshú de xuéshù wàiyǔ bǎ fùzá de yánjiū chéngguǒ chǎnshù de qīngqing-chǔchǔ, míngming-báibái.)",
+          "reading": "[t͡saɪ̯˥˩ kwo˧˥.t͡ɕi˥˩ t͡ɕʰiŋ˥.njɛn˧˥ kʰɤ˥.ɕɥɛ˧˥ kaʊ̯˥.fəŋ˥ lu˥˩.tʰan˧˥ ʂɑŋ, ʈ͡ʂʊŋ˥.kwɔ˧˥ njɛn˧˥.t͡ɕʰiŋ˥ ɕɥɛ˧˥.ʈ͡ʂɤ˨˩˦ jʊŋ˥˩ t͡ɕi˧˥.t͡ɕʰi˧˥ t͡ʂʰwən˧˥.ʂu˧˥ tɤ ɕɥɛ˧˥.ʂu˥˩ waɪ̯˥˩.y˨˩˦ pa˨˩˦ fu˥˩.t͡sa˧˥ tɤ jan˧˥.t͡ɕjoʊ̯ ʈ͡ʂʰəŋ˧˥.kwo˨˩˦ ʈ͡ʂʰan˨˩.ʂu˥˩ tɤ t͡ɕʰiŋ˥.t͡ɕʰiŋ.t͡ʂʰu˨˩.t͡ʂʰu, miŋ˧˥.miŋ.paɪ̯˧˥.paɪ̯] (Zài guó-jì qīng-nián kē-xué gāo-fēng lùn-tán shang, Zhōng-guó nián-qīng xué-zhě yòng jí-qí chún-shú de xué-shù wài-yǔ bǎ fù-zá de yán-jiū chéng-guǒ chǎn-shù de qīng-qing-chǔ-chǔ, míng-ming-bái-bái.)",
+          "translation": "At the International Youth Science Summit Forum, young Chinese scholars used extremely adept academic foreign language to expound complex research findings with crystalline clarity and complete lucidity."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (19.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "现场来自世界各国的权威评审专家听得入了迷，对报告的创新深度和严密逻辑赞赏极了。(Xiànchǎng láizì shìjiè gèguó de quánwēi píngshěn zhuānjiā tīng de rù le mí, duì bàogào de chuàngxīn shēndù hé yánmì luójí zànshǎng jíle.)",
+          "reading": "[ɕjɛn˥˩.ʈ͡ʂʰɑŋ˨˩˦ laɪ̯˧˥.t͡sɨ˥˩ ʂɨ˥˩.t͡ɕjɛ˥˩ kɤ˥˩.kwɔ˧˥ tɤ t͡ɕʰyɛn˧˥.weɪ̯˥ pʰiŋ˧˥.ʂən˨˩˦ ʈ͡ʂwan˥.t͡ɕja˥ tʰiŋ˥ tɤ ʐu˥˩ lɤ mi˧˥, tweɪ̯˥˩ paʊ̯˥˩.kaʊ̯˥˩ tɤ t͡ʂʰwaŋ˥˩.ɕin˥ ʂən˥.tu˥˩ xɤ˧˥ jan˧˥.mi˥˩ lwɔ˧˥.t͡ɕi˧˥ t͡san˥˩.ʂɑŋ˨˩˦ t͡ɕi˧˥.lɤ] (Xiàn-chǎng lái-zì shì-jiè gè-guó de quán-wēi píng-shěn zhuān-jiā tīng de rù le mí, duì bào-gào de chuàng-xīn shēn-dù hé yán-mì luó-jí zàn-shǎng jí-le.)",
+          "translation": "On-site authoritative evaluation experts from countries around the world listened fascinatedly, appreciating the innovative depth and rigorous logic of the report extremely."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (19.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "面对任何突如其来的技术挑战，青年攻关团队都扛得住压力、经得起考验，用实际行动对得起党和人民的厚望。(Miànduì rènhé tūrúqílái de jìshù tiǎozhàn, qīngnián gōngjiān tuánduì dōu káng de zhù yālì, jīng de qǐ kǎoyàn, yòng shíjì xíngdòng duì de qǐ dǎng hé rénmín de hòuwàng.)",
+          "reading": "[mjɛn˥˩.tweɪ̯˥˩ ʐən˥˩.xɤ˧˥ tʰu˥.ʐu˧˥.t͡ɕʰi˧˥.laɪ̯˧˥ tɤ t͡ɕi˥˩.ʂu˥˩ tʰjaʊ̯˨˩.ʈ͡ʂan˥˩, t͡ɕʰiŋ˥.njɛn˧˥ kʊŋ˥.t͡ɕjɛn˥ tʰwan˧˥.tweɪ̯˥˩ toʊ̯˥ kʰɑŋ˧˥ tɤ ʈ͡ʂu˥˩ ja˥.li˥˩, t͡ɕiŋ˥ tɤ t͡ɕʰi˨˩˦ kʰaʊ̯˨˩.jɛn˥˩, jʊŋ˥˩ ʂɨ˧˥.t͡ɕi˥˩ ɕiŋ˧˥.tʊŋ˥˩ tweɪ̯˥˩ tɤ t͡ɕʰi˨˩˦ taŋ˨˩˦ xɤ˧˥ ʐən˧˥.min˧˥ tɤ xoʊ̯˥˩.wɑŋ˥˩] (Miàn-duì rèn-hé tū-rú-qí-lái de jì-shù tiǎo-zhàn, qīng-nián gōng-jiān tuán-duì dōu káng de zhù yā-lì, jīng de qǐ kǎo-yàn, yòng shí-jì xíng-dòng duì de qǐ dǎng hé rén-mín de hòu-wàng.)",
+          "translation": "Facing any sudden technological challenge, the young tackling team could withstand the pressure and stand the test, living up to the high hopes of the Party and the people through practical actions."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (19.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "只要我们始终秉持精益求精的工匠精神，就没有克服不了的难关，也没有攀登不上的科学高峰！(Zhǐyào wǒmen shǐzhōng bǐngchí jīngyì-qiújīng de gōngjiàng jīngshén, jiù méiyǒu kèfú bu liǎo de nánguān, yě méiyǒu pāndēng bu shàng de kēxué gāofēng!)",
+          "reading": "[ʈ͡ʂɨ˨˩˦.jaʊ̯˥˩ wɔ˨˩.mən ʂɨ˨˩˦.ʈ͡ʂʊŋ˥ piŋ˨˩.ʈ͡ʂʰɨ˧˥ t͡ɕiŋ˥.i˥˩.t͡ɕʰjoʊ̯˧˥.t͡ɕiŋ˥ tɤ kʊŋ˥.t͡ɕjaŋ˥˩ t͡ɕiŋ˥.ʂən˧˥, t͡ɕjoʊ̯˥˩ meɪ̯˧˥.joʊ̯˨˩˦ kʰɤ˥˩.fu˧˥ pu ljaʊ̯˨˩˦ tɤ nan˧˥.kwan˥, jɛ˨˩˦ meɪ̯˧˥.joʊ̯˨˩˦ pʰan˥.tɤŋ˥ pu ʂɑŋ˥˩ tɤ kʰɤ˥.ɕɥɛ˧˥ kaʊ̯˥.fəŋ˥] (Zhǐ-yào wǒ-men shǐ-zhōng bǐng-chí jīng-yì-qiú-jīng de gōng-jiàng jīng-shén, jiù méi-yǒu kè-fú bu liǎo de nán-guān, yě méi-yǒu pān-dēng bu shàng de kē-xué gāo-fēng!)",
+          "translation": "As long as we consistently uphold the craftsman spirit of constantly striving for perfection, there are no difficulties that cannot be overcome, nor are there scientific heights that cannot be scaled!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "阐述清楚赞赏极，经得考验扛得压；精益求精破难关，卓越攀登铸芳华！"
+      ],
+      "culturalNotes": [
+        "情态补语与可能补语的综合运用，完美承载了中华民族「天行健，君子以自强不息」的进取品格与追求极致的工匠精神，文风高远沉雄。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「可能补语（得/不）与程度表达 (Potential Complements)」（第5讲）的标准汉语规范？",
+          "prompt": "在卓越科技叙事篇章中，串联「扛得住压力 -> 弄懂弄通 -> 阐述得清楚 -> 赞赏极了」的情态系统功能是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「可能补语（得/不）与程度表达 (Potential Complements)」的核心语法法则与应用范例 (19.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (19.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (19.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (19.5.w3)"
+            "潜能支撑（固定可能补语） -> 认知突破（结果补语） -> 过程描摹（状态补语） -> 评价升华（程度补语） (Cohesive progression of modality complements)",
+            "全部表示身体在跑来跑去",
+            "全部是没有意义的语气词",
+            "只用单字没有任何语法逻辑"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "叙事篇章严格遵循从潜能担当、认知突破到状态描摹与极性赞赏的情态补语体系。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "语篇中「精益求精」成语的核心含义是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "已经很好了，还要追求更加完美、好上加好 (Constantly striving for perfection / excellence)",
+            "做事情马马虎虎",
+            "敷衍了事随便做做",
+            "遇到困难立即放弃"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「精益求精」是形容对学术、技艺追求卓越顶峰、好上加好的经典成语。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「可能补语（得/不）与程度表达 (Potential Complements)」的正式语境下，最准确得体的表达是哪一项？（第19.5题）",
+          "prompt": "请选出下列学术攻坚叙事中情态补语体系融合最完满、文采最斐然的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (19.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (19.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (19.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (19.5.x3)"
+            "科研团队顶得住重重压力，把复杂机理研究得透彻极了，在国际讲坛上阐述得清清楚楚，现场专家钦佩极了。(顶得住、透彻极了、阐述得清清楚楚、钦佩极了，情态补语融会贯通)",
+            "团队把压力顶得住，搞透彻，说清楚，专家很满意。(语序混乱语言浅陋)",
+            "复杂机理被研究得透彻极了在团队。(句式杂糅病态)",
+            "专家钦佩极了被阐述清楚。(结构彻底破碎)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项在可能补语、状态补语与程度补语的配合上达到了极高的文学与学术标准。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u19-l5）所要求的高阶语言表达？",
+          "prompt": "在宏观叙事中表达意志极其坚韧、能够承受任何艰险困苦的固定可能短语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (19.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (19.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (19.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (19.5.y3)"
+            "吃得了苦 / 经得起考验 (Can bear hardships / withstand tests)",
+            "吃得下苦",
+            "吃得动苦",
+            "吃得着苦"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「吃得了苦」是表达坚韧不拔承受劳苦的经典可能补语搭配。"
         }
       ]
     },
@@ -11581,25 +11593,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「可能补语（得/不）与程度表达 (Potential Complements)」的掌握程度，请选出表述完全正确的标准范句（测试 19-5）：",
+          "prompt": "请选出下列学术攀登与卓越奋斗综合叙事语篇中情态补语最严整、文采最斐然、立意最高远的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (19.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (19.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (19.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (19.5.z3)"
+            "在科技攀登的崇高征程中，青年科学家团队始终扛得住重压、耐得住寂寞。大家把实验方案论证得严丝合缝，把前沿技术钻研得透彻极了，最终在世界舞台上把中国智慧展现得淋漓尽致，对得起伟大时代的历史重托！(全篇融合可能补语、状态补语与程度补语，气势磅礴，文理交融)",
+            "大家克服困难做了很多实验，把技术做出来了，大家都非常高兴。(语言浅白平淡)",
+            "方案被论证严丝合缝在实验室，大家很自豪极了。(语病严重程度词重复叠加)",
+            "把时代重托对得起在青年科学家。(句式严重错乱颠倒)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在可能补语、状态补语、程度补语的系统综合运用与崇高时代立意上均达到了现代汉语的最高境界。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u19-l5）的核心关键词（例如「可能补语」）：",
+          "prompt": "请输入表达对技艺和学术精美还要追求更精美、好上加好的核心四字成语（例如「」的工匠精神，拼音为 jīngyì-qiújīng）：",
           "acceptedAnswers": [
-            "可能补语",
-            "可能补语（得",
-            "可能补语（得/不）与程度表达"
+            "精益求精"
           ],
-          "explanation": "正确的核心关键词为「可能补语」。"
+          "explanation": "成语「精益求精」是中华文化中指称精雕细琢、追求卓越的核心经典成语。"
         }
       ],
       "passThreshold": 0.8
