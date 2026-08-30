@@ -1715,53 +1715,62 @@
     "subject": "urdu",
     "unit": 4,
     "lessonNumber": 1,
-    "title": "فعل حال مطلق: تا/تی/تے ہیں (Present Habitual Tense) (Part 1)",
+    "title": "فعل حال مطلق کی ساخت اور گردان (Present Habitual Morphology)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 4.1) with authentic precision.",
+    "objective": "فعل حال مطلق کے اوزان (تا ہے، تی ہے، تے ہیں، تیں ہیں)، مادہ فعل کے ساتھ الحاق اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں فعل حال مطلق (Present Habitual Tense) کی ساخت اور گردان:\n\n1. **فعل حال مطلق کا مفہوم**:\n   - یہ فعل روزمرہ عادات، معمولات اور آفاقی حقائق کو بیان کرنے کے لیے مستعمل ہے۔\n\n2. **فعل کی عمومی ساخت**:\n   - **مادہ فعل (Verb Stem)** + **تا / تی / تے / تیں** + **ہونا کا صیغہ (ہوں / ہے / ہو / ہیں)**:\n     - مذکر واحد: «میں لکھتا ہوں»، «وہ پڑھتا ہے»؛\n     - مذکر جمع / تعظیمی: «ہم لکھتے ہیں»، «آپ پڑھتے ہیں»، «وہ پڑھتے ہیں»؛\n     - مؤنث واحد: «میں لکھتی ہوں»، «وہ پڑھتی ہے»؛\n     - مؤنث جمع: «ہم لکھتی ہیں»، «وہ پڑھتی ہیں»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "سورج ہمیشہ مشرق سے طلوع ہوتا ہے اور شام کو مغرب میں غروب ہوتا ہے۔",
+          "reading": "Sooraj hamesha mashriq se tuloo hota hai aur shaam ko maghrib mein ghuroob hota hai. [suːrədʒ həm-eːʃaː məʃrɪq seː t̪ʊluːʔ hoːt̪aː hɛː ɔːr ʃaːm koː məɣrɪb mẽː ɣʊruːb hoːt̪aː hɛː] (SOO-ruhj huh-MAY-shah muhsh-REEK say too-LOO hoh-TAH hy owr SHAHM koh muhgh-REEB mayn ghoo-ROOB hoh-TAH hy)",
+          "translation": "The sun always rises in the east and sets in the west in the evening."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 4-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "میں روزانہ علی الصبح بیدار ہوتا ہوں اور باقاعدگی سے تلاوت اور ورزش کرتا ہوں۔",
+          "reading": "Main rozaana ala-as-subah bedaar hota hoon aur baaqaaidgi se tilaawat aur warzish karta hoon. [mɛ̃ː roːzaːnəh ʔələsːʊbəh beːd̪aːr hoːt̪aː ɦuː̃ ɔːr baː-qaːʔɪd̪ɡiː seː t̪ɪlaːʋət̪ ɔːr ʋərzɪʃ kərt̪aː ɦuː̃] (myhn roh-ZAH-nuh uh-luhs-SOO-buh bay-DAHR hoh-TAH HOON owr bah-qah-eed-GEE say tee-LAH-vuht owr vuhr-ZEESH kuhr-TAH HOON)",
+          "translation": "I wake up early in the morning every day and regularly perform recitation and exercise."
+        },
+        {
+          "target": "وہ باصلاحیت ادیب روزانہ اخبار کے لیے پرمغز اور فصیح کالم لکھتے ہیں۔",
+          "reading": "Woh baa-salaahiyat adeeb rozaana akhbaar ke liye pur-maghz aur faseeh column likhte hain. [ʋoːh baː-səlaːhɪjət̪ əd̪iːb roːzaːnəh əxbaːr keː lɪjeː pʊr-məɣz ɔːr fəsiːh kɔːləm lɪkʰt̪eː hɛ̃ː] (VOH bah-suh-lah-HEE-yuht uh-DEEB roh-ZAH-nuh uhkh-BAHR kay lee-AY poor-MUHGHZ owr fuh-SEEH column leekh-TAY hyhn)",
+          "translation": "That talented writer writes insightful and eloquent columns daily for the newspaper."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "حال مطلق کا کلیہ: مادہ فعل + تا/تی/تے + ہے/ہیں (لکھتا ہے، پڑھتی ہے، جاتے ہیں)!"
+      ],
+      "culturalNotes": [
+        "اردو میں حال مطلق آفاقی سچائی اور ضرب الامثال میں بکثرت استعمال ہوتا ہے، جیسے: 'محنت کا پھل ہمیشہ میٹھا ہوتا ہے'۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"سالن\":",
+          "prompt": "مذکر واحد فاعل «احمد» کے ساتھ فعل «پڑھنا» کا حال مطلق کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («سبزی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پھل» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («مٹھائی» کی خرابی)"
+            "پڑھتا ہے (Parhta hai - Masculine singular habitual present tense)",
+            "پڑھتی ہے (تانیث صیغہ)",
+            "پڑھتے ہیں (جمع صیغہ)",
+            "پڑھتا تھا (ماضی صیغہ)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "مذکر واحد کے ساتھ فعل حال مطلق «پڑھتا ہے» بنتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"سالن\":",
+          "prompt": "مؤنث واحد فاعل «عائشہ» کے ساتھ فعل «لکھنا» کا درست صیغہ کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پھل» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («مٹھائی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سبزی» کا غیر درست استعمال)"
+            "لکھتی ہے (Likhti hai - Feminine singular habitual present tense)",
+            "لکھتا ہے (مذکر صیغہ)",
+            "لکھتے ہیں (جمع صیغہ)",
+            "لکھتیں ہیں (غیر فصیح)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مؤنث واحد کے ساتھ «لکھتی ہے» درست ہے۔"
         }
       ]
     },
@@ -1769,17 +1778,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"سالن\": Which sentence is completely correct?",
+          "prompt": "فعل حال مطلق کی درست گردان (Present Habitual Morphology) کا مکمل جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («مٹھائی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سبزی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پھل» سے متعلق)"
+            "باغبان روزانہ صبح پودوں کو پانی دیتا ہے اور مالی خوبصورت پھول چنتا ہے۔ (The gardener waters the plants every morning [paani deta hai] and plucks beautiful flowers.)",
+            "باغبان پودوں کو پانی دیتیں ہیں اور مالی پھول کھاتی ہے۔",
+            "حال مطلق کا مطلب صرف سال میں ایک بار ہنسنا ہوتا ہے۔",
+            "سورج مغرب سے نکلتا ہے اور رات کو دوپہر ہوتی ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«باغبان روزانہ صبح پودوں کو پانی دیتا ہے اور مالی خوبصورت پھول چنتا ہے۔» حال مطلق کی درست اور فصیح گردان ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u4-l2": {
@@ -1787,53 +1797,62 @@
     "subject": "urdu",
     "unit": 4,
     "lessonNumber": 2,
-    "title": "فعل حال مطلق: تا/تی/تے ہیں (Present Habitual Tense) (Part 2)",
+    "title": "روزمرہ معمولات اور فاعل کے مطابق تانیث و تذکیر (Daily Routines & Gender Agreement)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 4.2) with authentic precision.",
+    "objective": "معمولاتِ زندگی (جاگنا، کھانا، جانا، پڑھنا) میں مذکر و مؤنث فاعل کے مطابق فعل کی کامل مطابقت قائم کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "روزمرہ معمولات اور فاعل کے مطابق تذکیر و تانیث کی مطابقت:\n\n1. **مذکر فاعل کے معمولات**:\n   - «لڑکا صبح سویرے جاگتا ہے، ناشتہ کرتا ہے اور پھر سکول جاتا ہے۔»\n\n2. **مؤنث فاعل کے معمولات**:\n   - «لڑکی صبح جلدی اٹھتی ہے، کتب بینی کرتی ہے اور اپنی والدہ کا ہاتھ بٹاتی ہے۔»\n\n3. **تعظیمی و جمع فاعل کے معمولات**:\n   - «محترم والد صاحب دفتر جاتے ہیں اور والدہ محترمہ مزیدار کھانا تیار کرتی ہیں۔»*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "طالب علم صبح وقت پر بیدار ہوتا ہے اور تیاری کے بعد بس پر سوار ہو کر سکول جاتا ہے۔",
+          "reading": "Taalib-e-ilm subah waqt par bedaar hota hai aur tayyaari ke baad bus par sawaar ho kar school jaata hai. [t̪aːlɪb-eː-ɪlm sʊbəh ʋəqt̪ pər beːd̪aːr hoːt̪aː hɛː ɔːr t̪əjːaːriː keː baːd̪ bəs pər səʋaːr hoː kər skuːl dʒaːt̪aː hɛː] (tah-LEEB-ay-EELM SOO-buh VUHKT puhr bay-DAHR hoh-TAH hy owr ty-yah-REE kay BAHD buhs puhr suh-VAHR hoh kuhr school JAH-tah hy)",
+          "translation": "The male student wakes up on time in the morning, and after getting ready, boards the bus and goes to school."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 4-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "شائستہ بچی شام کے وقت اپنی بہن کے ساتھ لائبریری جاتی ہے اور وہاں کتب بینی کرتی ہے۔",
+          "reading": "Shaayista bachchi shaam ke waqt apni bahan ke saath library jaati hai aur wahaan kutub-beeni karti hai. [ʃaːjɪst̪əh bətʃːiː ʃaːm keː ʋəqt̪ əpniː bəhən keː saːt̪ʰ laːɪbreːriː dʒaːt̪iː hɛː ɔːr ʋəhaː̃ kʊt̪ʊb-biːniː kərt̪iː hɛː] (shah-yees-TAH buhch-CHEE SHAHM kay VUHKT uhp-NEE buh-HUHN kay sahth library JAH-tee hy owr vuh-HAHN koo-toob-bee-NEE kuhr-TEE hy)",
+          "translation": "The well-mannered young girl goes to the library in the evening with her sister and reads books there."
+        },
+        {
+          "target": "میرے محترم دادا جان صبح کی سیر کے بعد لان میں بیٹھ کر تازہ اخبار پڑھتے ہیں۔",
+          "reading": "Mere mohtaram daada jaan subah ki sair ke baad lawn mein baith kar taaza akhbaar parhte hain. [meːreː moːɦt̪ərəm d̪aːd̪aː dʒaːn sʊbəh kiː sɛːr keː baːd̪ lɔːn mẽː bɛːʈʰ kər t̪aːzəh əxbaːr pəɽʱt̪eː hɛ̃ː] (MAY-ray moh-tuh-RUHM dah-DAH JAHN SOO-buh kee SYR kay BAHD lawn mayn BYTH kuhr tah-ZUH uhkh-BAHR puhrh-TAY hyhn)",
+          "translation": "My respected grandfather sits in the lawn after his morning walk and reads the fresh newspaper."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "معمولات کا سنہری ربط: مذکر (جاتا ہے)، مؤنث (جاتی ہے)، جمع/تعظیم (جاتے ہیں)!"
+      ],
+      "culturalNotes": [
+        "برصغیر کے خاندانی کلچر میں بزرگوں کے صبح کے معمولات (چائے پینا، اخبار پڑھنا، پودوں کی دیکھ بھال) کو احترام اور محبت سے دیکھا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"سبزی\":",
+          "prompt": "جملے «میری بہن روزانہ شام کو کتاب ...» میں درست فعل کیا آئے گا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («پھل» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («مٹھائی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بریانی» کی خرابی)"
+            "پڑھتی ہے (Parhti hai - Correct feminine singular verb matching sister)",
+            "پڑھتا ہے (مذکر صیغہ)",
+            "پڑھتے ہیں (مذکر جمع)",
+            "پڑھا تھا (ماضی)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "فاعل 'بہن' مؤنث واحد ہے، اس لیے فعل «پڑھتی ہے» آئے گا۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"سبزی\":",
+          "prompt": "تعظیمی فاعل «والد صاحب» کے ساتھ معمول کے فعل کی درست شکل کیا ہوگی؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («مٹھائی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بریانی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («پھل» کا غیر درست استعمال)"
+            "تشریف لاتے ہیں (Tashreef laate hain - Respectful plural agreement for singular father)",
+            "تشریف لاتا ہے (غیر مؤدب)",
+            "تشریف لاتی ہے (تانیث کی غلطی)",
+            "تشریف لائی تھی (ماضی)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "والد صاحب کے لیے تعظیمی جمع «تشریف لاتے ہیں» بولا جاتا ہے۔"
         }
       ]
     },
@@ -1841,17 +1860,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"سبزی\": Which sentence is completely correct?",
+          "prompt": "معمولات اور جنس کی مطابقت (Daily Routines & Agreement) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بریانی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («پھل» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («مٹھائی» سے متعلق)"
+            "محنتی استاد وقت پر کلاس میں آتے ہیں اور تمام طلبہ دل لگا کر اپنا سبق پڑھتے ہیں۔ (The hardworking teacher arrives on time in class, and all students study their lesson attentively.)",
+            "استاد کلاس میں آتی ہے اور سب لڑکے بھاگتا ہے۔",
+            "روزمرہ معمول کا مطلب صرف جھوٹ بول کر سونا ہے۔",
+            "گاڑی پانی پیتی ہے اور انسان پٹرول کھاتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«محنتی استاد وقت پر کلاس میں آتے ہیں اور تمام طلبہ دل لگا کر اپنا سبق پڑھتے ہیں۔» مطابقت کا مکمل اور درست جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u4-l3": {
@@ -1859,53 +1879,62 @@
     "subject": "urdu",
     "unit": 4,
     "lessonNumber": 3,
-    "title": "فعل حال مطلق: تا/تی/تے ہیں (Present Habitual Tense) (Part 3)",
+    "title": "فعل حال مطلق میں نفی کی ساخت (Negative Sentences in Present Habitual)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 4.3) with authentic precision.",
+    "objective": "حال مطلق میں حرفِ نفی «نہیں» کا درست مقام اور امدادی فعل «ہے/ہیں» کے اخراج و بقا کے قواعد میں مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "فعل حال مطلق میں نفی (Negative Sentences) بنانے کے قواعد:\n\n1. **حرفِ نفی «نہیں» کی جگہ**:\n   - نفی بنانے کے لیے مادہ فعل اور تا/تی/تے سے ٹھیک پہلے «**نہیں**» لگایا جاتا ہے (جیسے: «وہ جھوٹ نہیں بولتا»، «میں چائے نہیں پیتی»)۔\n\n2. **امدادی فعل 'ہے / ہیں' کا اخراج (Optional Elision of 'hai/hain')**:\n   - منفی جملوں میں اکثر آخری 'ہے / ہیں' حذف کر دیا جاتا ہے اور یہ انتہائی فصیح مانا جاتا ہے:\n     - «وہ گوشت نہیں کھاتا» (بمقابلہ: 'وہ گوشت نہیں کھاتا ہے')؛\n     - «ہم دیر سے نہیں آتے» (بمقابلہ: 'ہم دیر سے نہیں آتے ہیں')۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ایک سچا اور دیانتدار انسان کبھی کسی دوسرے کا دل نہیں دکھاتا اور نہ جھوٹ بولتا ہے۔",
+          "reading": "Ek sachcha aur diyaanatdaar insaan kabhi kisi doosre ka dil nahin dukhaata aur na jhooth bolta hai. [eːk sətʃːaː ɔːr d̪ɪjaːnət̪d̪aːr ɪnsaːn kəbʱiː kɪsiː d̪uːsreː kaː d̪ɪl nəɦĩː d̪ʊkʰaːt̪aː ɔːr nə dʒʰuːʈʰ boːlt̪aː hɛː] (AYK suhch-CHAH owr dee-yah-nuht-DAHR een-SAHN kuh-BHEE kee-SEE doos-RAY kah DEEL nuh-HEEN dooh-khah-TAH owr nuh JHOOTH bohl-TAH hy)",
+          "translation": "A true and honest human being never hurts another's heart nor tells a lie."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 4-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ہم رات کو دیر تک جاگنے کے بجائے وقت پر سوتے ہیں تاکہ صحت خراب نہ ہو۔",
+          "reading": "Hum raat ko der tak jaagne ke bajaaye waqt par sotay hain taake sehat kharaab na ho. [həm raːt̪ koː d̪eːr t̪ək dʒaːɡneː keː bədʒaːjeː ʋəqt̪ pər soːt̪eː hɛ̃ː t̪aːkɪ sɪhət̪ xəraːb nə hoː] (HOOM RAHT koh DAYR tuhk jahg-NAY kay buh-JAH-yay VUHKT puhr soh-TAY hyhn tah-KAY seh-HUHT khuh-RAHB nuh hoh)",
+          "translation": "We sleep on time instead of staying awake late at night so that our health is not harmed."
+        },
+        {
+          "target": "شریف لوگ بلاوجہ کسی کی غیبت نہیں کرتے اور نہ بے مقصد بحث میں پڑتے ہیں۔",
+          "reading": "Shareef log bila-wajah kisi ki gheebat nahin karte aur na be-maqsad behas mein padte hain. [ʃəriːf loːɡ bɪlaː-ʋədʒəh kɪsiː kiː ɣiːbət̪ nəɦĩː kərt̪eː ɔːr nə beː-məqsəd̪ bɛɦəs mẽː pəɽt̪eː hɛ̃ː] (shuh-REEF LOHG bee-lah-vuh-JUH kee-SEE kee ghee-BUHT nuh-HEEN kuhr-TAY owr nuh bay-muhq-SUHD buh-HUHS mayn puhd-TAY hyhn)",
+          "translation": "Noble people do not backbite anyone without reason, nor do they engage in pointless arguments."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "نفی کا اصول: نہیں + تا/تی/تے (وہ جھوٹ نہیں بولتا، ہم دیر سے نہیں آتے)!"
+      ],
+      "culturalNotes": [
+        "اردو مکالمے میں 'نہیں کھاتا' کہنا 'نہیں کھاتا ہے' کی نسبت زیادہ پرلطف اور سبک مانا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"پھل\":",
+          "prompt": "جملے «وہ سگریٹ ... پیتا» میں منفی مفہوم ادا کرنے کے لیے کیا لگایا جائے گا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («مٹھائی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بریانی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («گاڑی» کی خرابی)"
+            "نہیں (Nahin - Standard negation particle placed before verb)",
+            "مت (حکم میں استعمال)",
+            "نہ کہ (موازنہ)",
+            "کبھی (مثبت)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "حال مطلق میں نفی کے لیے فعل سے پہلے «نہیں» لگایا جاتا ہے: «وہ سگریٹ نہیں پیتا»۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"پھل\":",
+          "prompt": "اردو جملے «ہم جھوٹ نہیں ...» کا فصیح اختتام کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بریانی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («گاڑی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («مٹھائی» کا غیر درست استعمال)"
+            "بولتے (Bolte - Habitual masculine plural negative verb)",
+            "بولتا (واحد مذکر)",
+            "بولتی (واحد مؤنث)",
+            "بولیں گے (مستقبل)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "فاعل 'ہم' کے ساتھ منفی فعل «بولتے» (یا 'بولتے ہیں') آئے گا۔"
         }
       ]
     },
@@ -1913,17 +1942,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"پھل\": Which sentence is completely correct?",
+          "prompt": "حال مطلق کے منفی جملے (Negative Present Habitual) کا فصیح معیار پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («گاڑی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («مٹھائی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بریانی» سے متعلق)"
+            "دیانتدار تاجر کبھی ناپ تول میں کمی نہیں کرتا اور نہ خریداروں کو دھوکہ دیتا ہے۔ (An honest merchant never falls short in weights and measures [kami nahin karta], nor deceives customers.)",
+            "دیانتدار تاجر مت تولتا ہے اور مت بیچتا ہے۔",
+            "منفی جملے صرف برے خواب دیکھنے پر بولے جاتے ہیں۔",
+            "نہیں کو ہمیشہ جملے کے آخری لفظ کے بعد لگانا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«دیانتدار تاجر کبھی ناپ تول میں کمی نہیں کرتا اور نہ خریداروں کو دھوکہ دیتا ہے۔» منفی حال مطلق کا مکمل اور درست جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u4-l4": {
@@ -1931,53 +1961,62 @@
     "subject": "urdu",
     "unit": 4,
     "lessonNumber": 4,
-    "title": "فعل حال مطلق: تا/تی/تے ہیں (Present Habitual Tense) (Part 4)",
+    "title": "فعل حال مطلق میں سوالیہ جملے (Interrogative Sentences: کیا، کب، کیوں، کہاں)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 4.4) with authentic precision.",
+    "objective": "حال مطلق میں ہاں/نہ والے سوالات (کیا) اور معلوماتی سوالات (کب، کہاں، کیوں، کیسے) کی درست نحوی ترتیب میں مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں سوالیہ جملے (Interrogative Sentences) بنانے کے اصول:\n\n1. **ہاں / نہ والے سوالات (Yes/No Questions with 'کیا')**:\n   - جملے کے بالکل آغاز میں «کیا» لگا دیا جاتا ہے (جیسے: «کیا آپ روزانہ ورزش کرتے ہیں؟»)۔\n\n2. **معلوماتی سوالات (Wh- Questions with کب، کہاں، کیوں، کیسے)**:\n   - سوالیہ کلمہ عام طور پر فعل سے ٹھیک پہلے آتا ہے:\n     - **کہاں** — مقام: «آپ کہاں رہتے ہیں؟»؛\n     - **کب** — وقت: «گاڑی کب روانہ ہوتی ہے؟»؛\n     - **کیوں** — سبب: «آپ اردو کیوں سیکھتے ہیں؟»؛\n     - **کیسے / کس طرح** — کیفیت: «وہ یہ کام کیسے کرتا ہے؟»*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "کیا آپ ہر اتوار کی شام اپنے اہل خانہ کے ہمراہ قریبی تفریحی پارک کی سیر کو جاتے ہیں؟",
+          "reading": "Kya aap har itwaar ki shaam apne ahl-e-khaana ke humraah qareebi tafreehi park ki sair ko jaate hain? [kjaː aːp hər ɪt̪ʋaːr kiː ʃaːm əpneː əɦl-eː-xaːnəh keː hʊmraːh qəriːbiː t̪əfriːhiː paːrk kiː sɛːr koː dʒaːt̪eː hɛ̃ː] (KYAH AHP HUHR eet-VAHR kee SHAHM uhp-NAY uhhl-ay-khah-NUH kay hoom-RAHH quh-ree-BEE tuhf-ree-HEE park kee SYR koh jah-TAY hyhn)",
+          "translation": "Do you go for a walk to the nearby recreation park along with your family every Sunday evening?"
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 4-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "آپ اتنی فصیح اور شیریں اردو کس ادارے اور کن اساتذہ کی رہنمائی میں سیکھتے ہیں؟",
+          "reading": "Aap itni faseeh aur sheereen Urdu kis idaare aur kin asaatiza ki rahnumaai mein seekhte hain? [aːp ɪt̪niː fəsiːh ɔːr ʃiːrĩː ʊrd̪uː kɪs ɪd̪aːreː ɔːr kɪn əsaːt̪ɪzaː kiː rəɦnʊmaːiː mẽː siːkʰt̪eː hɛ̃ː] (AHP eet-NEE fuh-SEEH owr shee-REEN OOR-doo KEES ee-dah-RAY owr KEEN uh-sah-tee-ZAH kee ruhh-noo-mah-EE mayn seekh-TAY hyhn)",
+          "translation": "At which institution and under the guidance of which teachers do you learn such eloquent and sweet Urdu?"
+        },
+        {
+          "target": "آپ کے دوست شام کے وقت کرکٹ کھیلنے کے لیے کس میدان میں جمع ہوتے ہیں؟",
+          "reading": "Aap ke dost shaam ke waqt cricket khelne ke liye kis maidaan mein jama hotay hain? [aːp keː d̪oːst̪ ʃaːm keː ʋəqt̪ krɪkɪʈ kʰeːlneː keː lɪjeː kɪs mɛːd̪aːn mẽː dʒəməʔ hoːt̪eː hɛ̃ː] (AHP kay DOHST SHAHM kay VUHKT cricket khayl-NAY kay lee-AY KEES my-DAHN mayn JAH-muh hoh-TAY hyhn)",
+          "translation": "In which ground do your friends gather to play cricket in the evening?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "سوالیہ کلمات: کیا (شروع میں ہاں/نہ)، کب (وقت)، کہاں (جگہ)، کیوں (وجہ)، کیسے (طریقہ)!"
+      ],
+      "culturalNotes": [
+        "اردو میں شائستہ سوال پوچھنے کے لیے جملے کے آخر میں تعظیمی صیغہ 'فرماتے ہیں' یا 'کرتے ہیں' لگانا آدابِ گفتگو کا حصہ ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"مٹھائی\":",
+          "prompt": "کسی سے وقت معلوم کرنے کے لیے کون سا سوالیہ کلمہ استعمال کیا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («بریانی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («گاڑی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بس» کی خرابی)"
+            "کب (Kab - Interrogative word for 'when' inquiring about time)",
+            "کہاں (مقام)",
+            "کیوں (سبب)",
+            "کون (شخص)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "وقت دریافت کرنے کے لیے «کب» بولا جاتا ہے (جیسے: «آپ کب آتے ہیں؟»)۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"مٹھائی\":",
+          "prompt": "ہاں یا نہ میں جواب طلب کرنے کے لیے جملے کے آغاز میں کیا لگایا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («گاڑی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بس» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بریانی» کا غیر درست استعمال)"
+            "کیا (Kya - Question particle placed at sentence beginning for yes/no query)",
+            "کیوں (وجہ)",
+            "کیسے (طریقہ)",
+            "کس کا (ملکیت)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "ہاں/نہ والے سوالات جملے کے شروع میں «کیا» سے بنتے ہیں۔"
         }
       ]
     },
@@ -1985,17 +2024,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"مٹھائی\": Which sentence is completely correct?",
+          "prompt": "حال مطلق کے سوالیہ جملوں (Interrogative Sentences) کا مکمل مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بس» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بریانی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («گاڑی» سے متعلق)"
+            "کیا آپ روزانہ صبح لائبریری جاتے ہیں اور وہاں علمی موضوعات پر کتب کا مطالعہ کرتے ہیں؟ (Do you go to the library every morning and study books on academic subjects there?)",
+            "کیوں کہاں کب آپ پانی پیتا ہے؟",
+            "سوالیہ جملے کا مطلب صرف غصے میں چیخنا ہوتا ہے۔",
+            "کیا کو صرف جملے کے اندر چھپا کر رکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«کیا آپ روزانہ صبح لائبریری جاتے ہیں اور وہاں علمی موضوعات پر کتب کا مطالعہ کرتے ہیں؟» سوالیہ حال مطلق کا مکمل جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u4-l5": {
@@ -2003,53 +2043,62 @@
     "subject": "urdu",
     "unit": 4,
     "lessonNumber": 5,
-    "title": "فعل حال مطلق: تا/تی/تے ہیں (Present Habitual Tense) (Part 5)",
+    "title": "فعل حال مطلق کا جامع اطلاق و سمیکن (Present Habitual Grand Synthesis)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 4.5) with authentic precision.",
+    "objective": "مثبت، منفی اور سوالیہ اشکال، تذکیر و تانیث، تعظیمی صیغوں اور کثیر الجملاتی پیراگراف میں حال مطلق کا مکمل انطباق کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "فعل حال مطلق کے تمام قواعد کا فصیح امتزاج اور سمیکن (Grand Synthesis):\n\n1. **مثبت اور منفی کا ربط**:\n   - «ایک بااصول شہری قانون کا احترام **کرتا ہے** اور کبھی ٹریفک کے اصول **نہیں توڑتا**۔»\n\n2. **سوالیہ اور بیانیہ کا تبادلہ**:\n   - «کیا آپ جانتے ہیں کہ محنتی انسان زندگی میں کبھی ناکام **نہیں ہوتا**؟»\n\n3. **تذکیر و تانیث اور تعظیمی مطابقت کا کمال**:\n   - «ہمارے اساتذہ وقت پر **تشریف لاتے ہیں**، طلبہ محنت **کرتے ہیں** اور طالبات انعامات **حاصل کرتی ہیں**۔»*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ہماری جامعہ کے اساتذہ وقت کی پابندی کرتے ہیں، طلبہ کو شفقت سے پڑھاتے ہیں اور علمی رہنمائی فراہم کرتے ہیں۔",
+          "reading": "Hamaari jaamia ke asaatiza waqt ki paabandi karte hain, talaba ko shafaqat se parhaate hain aur ilmi rahnumaai faraaham karte hain. [həm-aːriː dʒaːmɪʔaː keː əsaːt̪ɪzaː ʋəqt̪ kiː paːbənd̪iː kərt̪eː hɛ̃ː t̪ələbaː koː ʃəfqət̪ seː pəɽʱaːt̪eː hɛ̃ː ɔːr ɪlmiː rəɦnʊmaːiː fəraːhəm kərt̪eː hɛ̃ː] (huh-mah-REE JAH-mee-ah kay uh-sah-tee-ZAH VUHKT kee pah-buhn-DEE kuhr-TAY hyhn, tuh-luh-BAH koh shuh-fuh-QUHT say puhr-hah-TAY hyhn owr EEL-mee ruhh-noo-mah-EE fuh-rah-HUHM kuhr-TAY hyhn)",
+          "translation": "The professors of our university observe punctuality, teach students with affection, and provide academic guidance."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 4-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "محنتی کسان علی الصبح کھیتوں میں جاتا ہے، بیج بوتا ہے اور سخت محنت سے لہلہاتی فصلیں اگاتا ہے۔",
+          "reading": "Mehnati kisaan ala-as-subah kheton mein jaata hai, beej bota hai aur sakht mehnat se lahlahaati faslein ugaata hai. [mɛɦnət̪iː kɪsaːn ʔələsːʊbəh kʰeːt̪õː mẽː dʒaːt̪aː hɛː biːdʒ boːt̪aː hɛː ɔːr səxt̪ mɛɦnət̪ seː ləhləhaːt̪iː fəslẽː ʊɡaːt̪aː hɛː] (muhh-nuh-TEE kee-SAHN uh-luhs-SOO-buh khay-TOHN mayn JAH-tah hy, BEEJ boh-TAH hy owr SUHKHT muhh-NUHT say luhh-luh-hah-TEE fuhs-LAYN oo-gah-TAH hy)",
+          "translation": "The hardworking farmer goes to the fields at daybreak, sows seeds, and grows swaying crops through strenuous effort."
+        },
+        {
+          "target": "کیا آپ جانتے ہیں کہ سچے انسان کی ہر محفل میں قدر کی جاتی ہے اور وہ ہمیشہ عزت پاتا ہے؟",
+          "reading": "Kya aap jaante hain ke sachche insaan ki har mehfil mein qadr ki jaati hai aur woh hamesha izzat paata hai? [kjaː aːp dʒaːnt̪eː hɛ̃ː kɪ sətʃːeː ɪnsaːn kiː hər mɛɦfɪl mẽː qəd̪r kiː dʒaːt̪iː hɛː ɔːr ʋoːh həm-eːʃaː ɪzːət̪ paːt̪aː hɛː] (KYAH AHP jahn-TAY hyhn kay suhch-CHAY een-SAHN kee HUHR muhh-FEEL mayn QUH-duhr kee jah-TEE hy owr VOH huh-MAY-shah EEZ-zuht pah-TAH hy)",
+          "translation": "Do you know that a truthful person is valued in every gathering and always earns honor?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع سمیکن: عادات (کرتا ہے)، اخراج منفی (نہیں بولتا)، تعظیم (فرماتے ہیں)، سوالیہ (کیا/کب)!"
+      ],
+      "culturalNotes": [
+        "اردو کی ادبی نثر اور اخلاقی حکایات میں فعل حال مطلق کا کثرت سے استعمال پڑھنے والے کے دل میں مستقل اخلاقی قدریں اجاگر کرتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"بریانی\":",
+          "prompt": "مختلف فاعلوں کے ساتھ حال مطلق کا کون سا مجموعہ مکمل درست ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («گاڑی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بس» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ریل گاڑی» کی خرابی)"
+            "لڑکا کھیلتا ہے، لڑکی پڑھتی ہے، بزرگ فرماتے ہیں (Boy plays, girl studies, elder speaks - Perfect gender & honorific concord)",
+            "لڑکا کھیلتی ہے، لڑکی پڑھتا ہے (الٹی جنس)",
+            "بزرگ فرماتا ہے (بے ادبی)",
+            "سب بھاگیں گے (مستقبل)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "مذکر (کھیلتا ہے)، مؤنث (پڑھتی ہے) اور تعظیم (فرماتے ہیں) کی بالکل درست مطابقت ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"بریانی\":",
+          "prompt": "شائستہ روزمرہ زندگی کے بیانیہ میں فعل حال مطلق کا بنیادی کردار کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بس» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ریل گاڑی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («گاڑی» کا غیر درست استعمال)"
+            "دائمی عادات اور باقاعدہ معمولات کا فصیح اظہار (Expressing habitual routines, facts, and permanent traits)",
+            "صرف ماضی کی کہانیاں سنانا",
+            "صرف آنے والے کل کے خواب دیکھنا",
+            "بغیر معنی کے الفاظ جوڑنا"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "فعل حال مطلق دائمی معمولات، عادات اور سچائیوں کے بیان کے لیے مستعمل ہے۔"
         }
       ]
     },
@@ -2057,17 +2106,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"بریانی\": Which sentence is completely correct?",
+          "prompt": "فعل حال مطلق کے جامع سمیکن (Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ریل گاڑی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («گاڑی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بس» سے متعلق)"
+            "جو شخص علم کی قدر کرتا ہے، روزانہ محنت سے پڑھتا ہے اور اساتذہ کا احترام کرتا ہے، وہ زندگی کے ہر میدان میں کامیابی حاصل کرتا ہے۔ (He who values knowledge [qadr karta hai], studies daily with diligence [parhta hai], and respects teachers [ehtiram karta hai], achieves success [kaamyaabi haasil karta hai] in every field of life.)",
+            "جو شخص علم کا قدر کرتی ہیں وہ ہمیشہ روتا ہے۔",
+            "حال مطلق کو صرف فارسی میں لکھنا چاہیے اردو میں منع ہے۔",
+            "تمام اساتذہ کلاس میں نہیں پڑھاتی تھیں۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«جو شخص علم کی قدر کرتا ہے، روزانہ محنت سے پڑھتا ہے اور اساتذہ کا احترام کرتا ہے، وہ زندگی کے ہر میدان میں کامیابی حاصل کرتا ہے۔» حال مطلق کا جامع اور شاہکار جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u5-l1": {
