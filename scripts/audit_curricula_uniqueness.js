@@ -265,6 +265,96 @@ files.forEach(f => {
     hasFailure = true;
   }
 
+  // 9. Adversarial Template & Disguise Detection Gate (Section 3a / Section 4.3)
+  const KNOWN_FAKE_EXPLANATION_OPENERS = [
+    'Comprehensive presentation of', 'Thorough linguistic breakdown of', 'Mastery analysis of',
+    'Key cognitive anchor for', 'Memory anchor for', 'Cultural nuance and communicative etiquette in',
+    'इस पाठ में हम', 'इस पठ म हम', 'У цьому уроці розглядаються', 'اس سبق میں ہم', 'اس سبق میں اردو قواعد',
+    'Katika somo hili kuhusu', 'Katika sarufi ya Kiswahili', '本課（', '本課(', '系統深入地探討'
+  ];
+  const KNOWN_FAKE_MNEMONIC_OPENERS = [
+    '【記憶定着の要点】文脈における助詞の接続と動詞の活用語尾に注意して構文を把握しましょう。',
+    'Key cognitive anchor for',
+    'Ключевая мнемоническая опора для темы',
+    'المرتكز الذهني لموضوع'
+  ];
+  const KNOWN_FAKE_CULTURAL_OPENERS = [
+    '【日本社会の言語文化】日本語では場面人間関係社会的文脈に応じた丁寧さや配慮の使い分けが極めて重要視されます。',
+    'Cultural nuance and communicative etiquette in'
+  ];
+
+  let flaggedExpCount = 0;
+  let flaggedMnemCount = 0;
+  let flaggedCultCount = 0;
+  let leakedIdCount = 0;
+  const mnemFrequencies = {};
+  const cultFrequencies = {};
+
+  lkeys.forEach(lid => {
+    const les = curr.lessons[lid];
+    const expText = (les.presentation && les.presentation.explanation) || '';
+    const mnemText = (les.presentation && les.presentation.mnemonics && les.presentation.mnemonics[0]) || '';
+    const cultText = (les.presentation && les.presentation.culturalNotes && les.presentation.culturalNotes[0]) || '';
+
+    if (mnemText) mnemFrequencies[mnemText] = (mnemFrequencies[mnemText] || 0) + 1;
+    if (cultText) cultFrequencies[cultText] = (cultFrequencies[cultText] || 0) + 1;
+
+    for (const pat of KNOWN_FAKE_EXPLANATION_OPENERS) {
+      if (expText.includes(pat)) { flaggedExpCount++; break; }
+    }
+    for (const pat of KNOWN_FAKE_MNEMONIC_OPENERS) {
+      if (mnemText.includes(pat)) { flaggedMnemCount++; break; }
+    }
+    for (const pat of KNOWN_FAKE_CULTURAL_OPENERS) {
+      if (cultText.includes(pat)) { flaggedCultCount++; break; }
+    }
+
+    if (les.checkpointTest && les.checkpointTest.items) {
+      les.checkpointTest.items.forEach(item => {
+        if (/_[0-9]+_[0-9]+/.test(JSON.stringify(item))) leakedIdCount++;
+      });
+    }
+  });
+
+  // Check 30% duplicate threshold
+  let maxMnemDup = 0;
+  let maxCultDup = 0;
+  Object.values(mnemFrequencies).forEach(cnt => { if (cnt > maxMnemDup) maxMnemDup = cnt; });
+  Object.values(cultFrequencies).forEach(cnt => { if (cnt > maxCultDup) maxCultDup = cnt; });
+
+  const dupLimit = Math.max(3, Math.floor(total * 0.3));
+
+  if (flaggedExpCount > 0) {
+    console.error(`>>> [HARD FAIL] ${subjKey}: Found ${flaggedExpCount} lessons matching known fake explanation template openers!`);
+    isFailed = true;
+    hasFailure = true;
+  }
+  if (flaggedMnemCount > 0) {
+    console.error(`>>> [HARD FAIL] ${subjKey}: Found ${flaggedMnemCount} lessons matching known fake mnemonic templates!`);
+    isFailed = true;
+    hasFailure = true;
+  }
+  if (flaggedCultCount > 0) {
+    console.error(`>>> [HARD FAIL] ${subjKey}: Found ${flaggedCultCount} lessons matching known fake cultural note templates!`);
+    isFailed = true;
+    hasFailure = true;
+  }
+  if (maxMnemDup >= dupLimit) {
+    console.error(`>>> [HARD FAIL] ${subjKey}: Mnemonic duplicate frequency ${maxMnemDup}/${total} exceeds 30% threshold (${dupLimit})!`);
+    isFailed = true;
+    hasFailure = true;
+  }
+  if (maxCultDup >= dupLimit) {
+    console.error(`>>> [HARD FAIL] ${subjKey}: Cultural note duplicate frequency ${maxCultDup}/${total} exceeds 30% threshold (${dupLimit})!`);
+    isFailed = true;
+    hasFailure = true;
+  }
+  if (leakedIdCount > 0) {
+    console.error(`>>> [HARD FAIL] ${subjKey}: Found ${leakedIdCount} leaked internal IDs (_X_Y) in checkpointTest!`);
+    isFailed = true;
+    hasFailure = true;
+  }
+
   const status = isFailed ? 'FAILED [X]' : 'PASSED [✓]';
   const nameCol = subjKey.padEnd(23);
   const gpCol = countGP > 0 ? `${gpDistractors.size}/${countGP}` : 'N/A';
