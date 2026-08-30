@@ -9489,85 +9489,62 @@
     "subject": "amharic",
     "unit": 21,
     "lessonNumber": 1,
-    "title": "ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions) (ክፍል 1)",
+    "title": "የጊዜ ተውሳከ ግሶች (Adverbs of Time)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የጊዜ፣ የቦታ እና የሁኔታ ተውሳከ ግሶች፣ የተወሳሰቡ አረፍተ ነገሮች ትስስር። (ክፍል 1)።",
+    "objective": "የጊዜ ተውሳከ ግሶችን (ዛሬ፣ ትናንት፣ ነገ፣ አሁን፣ ወዲያውኑ፣ ሁልጊዜ፣ አልፎ አልፎ፣ አስቀድሞ) መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የጊዜ ተውሳከ ግሶች ሰዋሰዋዊ ህግና አጠቃቀም (Adverbs of Time):\n\n፩. ዋና ዋና የጊዜ ተውሳከ ግሶች:\n- አሁን (Now) / ወዲያውኑ (Immediately / right away)\n- ዛሬ (Today) / ትናንት (Yesterday) / ነገ (Tomorrow)\n- ሁልጊዜ (Always) / አዘውትሮ (Frequently / regularly)\n- አልፎ አልፎ (Sometimes / occasionally) / እምብዛም (Rarely / seldom)\n- አስቀድሞ (Beforehand) / ቀደም ሲል (Previously) / ወደፊት (In the future)።\n\n፪. ሰዋሰዋዊ ተግባር:\n- ድርጊቱ የተፈጸመበትን፣ የሚፈጸምበትን ወይም የሚከናወንበትን ጊዜ ለመግለጽ ከግሱ በፊት ወይም በዓረፍተ ነገሩ መጀመሪያ ይቀመጣሉ።",
       "examples": [
         {
-          "target": "መምህሩ የ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (21.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)' to the students."
+          "target": "ተማሪዎቹ አሁን በክፍል ውስጥ እየተማሩ ሲሆን ወዲያውኑ ወደ ቤተ-መጽሐፍት ያመራሉ (21.1.1)።",
+          "reading": "Tämariwočču ahun bäkəfəl wəst’ əyyätämaru sihon wädiyawənu wädä betä-mäts’haft yamärralu. [tɛmariwoˈtʃːu ʔaˈhun bɛkɨfl wɨstʼ ʔɨjːɛtɛmaˈru siˈhon wɛdijaˈwɨnu wɛˈdɛ betɛmɛtsʼˈhaft jamɛrːaˈlu] (teh-mah-ree-wohch-CHOO ah-HOON beh-kuf-L woos-T' uy-yeh-teh-mah-ROO see-HOHN weh-dee-yah-wuh-NOO weh-DEH bay-teh-mets'-HAHFT yah-mer-rah-LOO)",
+          "translation": "The students are learning in class now and will immediately head to the library."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (21.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እሱ ሁልጊዜ ጠዋት የአካል ብቃት እንቅስቃሴ ያደርጋል፤ አልፎ አልፎም መጽሐፍ ያነባል።",
+          "reading": "Əssu hulgize t’äwat yä'akal bəqat ənqəsəqqase yadärgal; alfo alfom mäts’haf yanäbbal. [ʔɨsːu hulɡiˈze tʼɛˈwat jɛʔaˈkal bɨˈkʼat ʔɨnkʼɨsɨkʼːaˈse jadɛrˈɡal ʔalˈfo ʔalˈfom mɛtsʼˈhaf janɛbːaˈl] (us-SOO hool-GEE-zay t'eh-WAHT yeh-ah-KAHL buh-K'AHT un-k'uh-suk'-K'AH-say yah-der-GAHL; ahl-FOH ahl-FOHM mets'-HAHF yah-neb-BAHL)",
+          "translation": "He always does physical fitness exercises in the morning, and occasionally reads a book."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (21.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (21.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ጉዳዩን አስቀድመን መርምረን ስለነበር ወደፊት ምንም ዓይነት አላስፈላጊ መዘግየት አይኖርም።",
+          "reading": "Guddayun asqäddəmän märəmərän səllänäbbär wädäfit mənəm aynät alasfällagi mäzägyät aynorəm. [ɡuddaˈjun ʔaskʼɛdːɨˈmɛn mɛrɨmɨˈrɛn sɨlːɛnɛbːɛr wɛdɛˈfit mɨˈnɨm ʔajˈnɛt ʔalasfɛlːaˈɡi mɛzɛɡˈjɛt ʔajnoˈrɨm] (good-dah-YOON ahs-k'ed-duh-MEN meh-ruh-muh-REN sul-leh-neb-BER weh-deh-FEET muh-NUM eye-NET ah-lahs-fel-lah-GEE meh-zeg-YET eye-noh-RUM)",
+          "translation": "Because we investigated the matter beforehand, there will be no unnecessary delay in the future."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Time Spectrum: አሁን (Now) + ወዲያውኑ (Immediately) + ሁልጊዜ (Always) + አስቀድሞ (Beforehand)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ማህበራዊ ህይወት 'ቀጠሮ በሰዓቱ ማክበር' ትልቅ ክብር ያለው ሲሆን፣ 'አስቀድሞ መገኘት' ታማኝነትን ያሳያል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«He always wakes up early» የሚለውን በአማርኛ የጊዜ ተውሳከ ግስ በትክክል የተጠቀመው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (21.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (21.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (21.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (21.1.w3)"
+            "እሱ ሁልጊዜ ማለዳ ይነሳል። (He always wakes up early - Adverb of time ሁልጊዜ)",
+            "እሱ ትናንት ተነሳ",
+            "እሱ ነገ ይነሳል",
+            "ምንም ጊዜ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ሁልጊዜ» የድርጊቱን ቋሚነትና ተደጋጋሚነት የሚያሳይ የጊዜ ተውሳከ ግስ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u21-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'I will call you immediately' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (21.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (21.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (21.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (21.1.x3)"
+            "ወዲያውኑ እደውልልሃለሁ። (I will call you immediately - Precise adverb of time ወዲያውኑ)",
+            "ትናንት ደወልኩልህ",
+            "በኋላ አልደውልም",
+            "ስልክ የለኝም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (21.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (21.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (21.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (21.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ወዲያውኑ» ፈጣንና ቅጽበታዊ የጊዜ አፈጻጸምን ያመለክታል።"
         }
       ]
     },
@@ -9575,24 +9552,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 21-1):",
+          "prompt": "የጊዜ ተውሳከ ግሶችን (Adverbs of time) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (21.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (21.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (21.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (21.1.z3)"
+            "አሁን፣ ወዲያውኑ፣ ሁልጊዜ፣ አልፎ አልፎ እና አስቀድሞ።",
+            "ትልቅ፣ ትንሽ እና መካከለኛ።",
+            "ወንበር፣ ጠረጴዛ እና አልጋ።",
+            "በአማርኛ የጊዜ ተውሳከ ግስ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የጊዜ ተውሳከ ግሶችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u21-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ተውሳከ»):",
+          "prompt": "'ወዲያውኑ / Immediately' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ተውሳከ",
-            "ተውሳከ"
+            "ወዲያውኑ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ተውሳከ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ወዲያውኑ» (Wädiyawənu) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -9603,85 +9579,62 @@
     "subject": "amharic",
     "unit": 21,
     "lessonNumber": 2,
-    "title": "ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions) (ክፍል 2)",
+    "title": "የቦታ እና የሁኔታ ተውሳከ ግሶች (Adverbs of Place & Manner)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የጊዜ፣ የቦታ እና የሁኔታ ተውሳከ ግሶች፣ የተወሳሰቡ አረፍተ ነገሮች ትስስር። (ክፍል 2)።",
+    "objective": "የቦታ (እዚህ፣ እዚያ፣ ቅርብ፣ ሩቅ) እና የሁኔታ (በፍጥነት፣ በዝግታ፣ በጥንቃቄ፣ በድፍረት) ተውሳከ ግሶችን መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የቦታ እና የሁኔታ ተውሳከ ግሶች ሰዋሰዋዊ ደንብ (Adverbs of Place & Manner):\n\n፩. የቦታ ተውሳከ ግሶች (Adverbs of Place):\n- እዚህ (Here) / እዚያ (There)\n- ቅርብ (Near / close) / ሩቅ (Far)\n- ውስጥ (Inside) / ውጭ (Outside) / ዙሪያ (Around)።\n\n፪. የሁኔታ ተውሳከ ግሶች (Adverbs of Manner):\n- በ«በ-» ቅድመ-ቅጥያ ከስሞች ጋር በመጣመር ይመሰረታሉ:\n- በፍጥነት (Quickly / fast) / በዝግታ / በቀስታ (Slowly)\n- በጥንቃቄ (Carefully) / በድፍረት (Boldly / courageously)\n- በደስታ (Happily / joyfully) / በደንብ (Properly / thoroughly)።",
       "examples": [
         {
-          "target": "መምህሩ የ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (21.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)' to the students."
+          "target": "አሽከርካሪው መኪናውን በተጨናነቀው መንገድ ላይ በጥንቃቄና በዝግታ አሽከረከረ።",
+          "reading": "Aškärkariw mäkinawən bätäč’änannäqäw mängäd lay bät’ənqaqqenna bäzəggəta aškäräkkärä. [ʔaʃkɛrkaˈriw mɛkiˈnawɨn bɛtɛtʃʼɛnanːɛˈkʼɛw mɛnˈɡɛd laj bɛtʼɨnkʼakʼːeˈnːa bɛzɨɡːɨˈta ʔaʃkɛrɛkːɛˈrɛ] (ahsh-ker-kah-REEW meh-kee-nah-WUN beh-teh-ch'en-nahn-neh-K'EW men-GED lye beh-t'un-k'ahk'-K'AYN-nah beh-zug-guh-TAH ahsh-keh-rek-keh-REH)",
+          "translation": "The driver drove the car carefully and slowly on the congested road."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (21.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ወጣቱ መሪ ህዝቡን በድፍረት አስተባብሮ እዚያ ለሚገኘው ታላቅ አዳራሽ አደረሰ።",
+          "reading": "Wät’t’atu märi həzbun bädəfrät astäbabbəro əzziya lämmigänyäw talaq adaraš adärräsä. [wɛtʼːaˈtu mɛˈri hɨzˈbun bɛdɨfˈrɛt ʔastɛbabːɨˈro ʔɨzːiˈja ləmːiɡɛˈɲɛw taˈlakʼ ʔadaˈraʃ ʔadɛrːɛˈsɛ] (wut'-t'ah-TOO meh-REE huz-BOON beh-duf-RET ahs-teh-bahb-buh-ROH uz-zee-YAH lem-mee-gen-YEW tah-LAHK' ah-dah-RAHSH ah-der-reh-SEH)",
+          "translation": "The young leader organized the people courageously and led them to the grand hall located there."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (21.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (21.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ልጆቹ በጓሮው ውስጥ በደስታ እየሮጡና በፍጥነት እየተጫወቱ ያመሻሉ።",
+          "reading": "Ləğočču bägwarow wəst’ bädästa əyyärot’unna bäfət’nät əyyätäč’awwät’u yamäšallu. [lɨdʒoˈtʃːu bɛɡʷaˈrow wɨstʼ bɛdɛsˈta ʔɨjːɛroˈtʼunːa bɛfɨtʼˈnɛt ʔɨjːɛtɛtʃʼawːɛˈtʼu jamɛʃaˈlːu] (luh-johch-CHOO beh-gwah-ROH-woo woos-T' beh-des-TAH uy-yeh-roh-T'OON-nah beh-fut'-NET uy-yeh-teh-ch'ahw-weh-T'OO yah-meh-shahl-LOO)",
+          "translation": "The children spend the evening running joyfully and playing quickly in the backyard."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Manner Rule: በ- + Quality = Adverb (በጥንቃቄ = carefully / በፍጥነት = fast / በደስታ = happily)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህል 'በጥንቃቄ መስራት' እና 'በአክብሮት መነጋገር' የጨዋነትና የብልህነት ከፍተኛ መለኪያ ተደርገው ይወሰዳሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Drive carefully» የሚለውን በአማርኛ ትክክለኛ የሁኔታ ተውሳከ ግስ የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (21.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (21.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (21.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (21.2.w3)"
+            "በጥንቃቄ አሽከርክር። (Drive carefully - Adverb of manner በጥንቃቄ)",
+            "በፍጥነት ሩጥ",
+            "አታሽከርክር",
+            "መኪና የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«በጥንቃቄ» የድርጊቱን አፈጻጸም ጥራትና ሁኔታ የሚያሳይ ተውሳከ ግስ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u21-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'He spoke courageously' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (21.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (21.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (21.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (21.2.x3)"
+            "በድፍረት ተናገረ። (He spoke courageously - Accurate adverb of manner)",
+            "በፍርሀት ዝም አለ",
+            "አልተናገረም",
+            "ድምጽ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (21.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (21.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (21.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (21.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«በድፍረት» ድፍረትንና ቁርጠኝነትን የሚያሳይ የሁኔታ ተውሳከ ግስ ነው።"
         }
       ]
     },
@@ -9689,24 +9642,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 21-2):",
+          "prompt": "የቦታ እና የሁኔታ ተውሳከ ግሶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (21.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (21.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (21.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (21.2.z3)"
+            "እዚህ፣ እዚያ፣ በጥንቃቄ፣ በፍጥነት፣ በዝግታ እና በድፍረት።",
+            "ውሃ፣ ጭማቂ፣ ወተት እና ሻይ።",
+            "ሰማይ፣ ምድር፣ ፀሐይ እና ጨረቃ።",
+            "በአማርኛ የሁኔታ ተውሳከ ግስ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቦታና የሁኔታ ተውሳከ ግሶችን በአግባቡ ያጠቃልላል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u21-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ተውሳከ»):",
+          "prompt": "'በጥንቃቄ / Carefully' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ተውሳከ",
-            "ተውሳከ"
+            "በጥንቃቄ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ተውሳከ» ነው።"
+          "explanation": "ትክክለኛው ቃል «በጥንቃቄ» (Bät’ənqaqqe) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -9717,85 +9669,62 @@
     "subject": "amharic",
     "unit": 21,
     "lessonNumber": 3,
-    "title": "ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions) (ክፍል 3)",
+    "title": "የመንስኤ እና የውጤት አያያዥ ቃላት (Causal & Consecutive Conjunctions)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የጊዜ፣ የቦታ እና የሁኔታ ተውሳከ ግሶች፣ የተወሳሰቡ አረፍተ ነገሮች ትስስር። (ክፍል 3)።",
+    "objective": "የምክንያትና ውጤት አያያዦችን (ስለሆነም፣ ስለዚህ፣ በመሆኑም፣ በዚህ ምክንያት፣ ሳቢያ) መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የመንስኤ እና የውጤት አያያዥ ቃላት ሰዋሰዋዊ ህግ (Causal & Consecutive Conjunctions):\n\n፩. የመንስኤ አያያዦች (Causal Connectors):\n- ስለ... (Because / since): «ስለደከመኝ ተኛሁ» (Because I was tired, I slept)።\n- በ... ሳቢያ / ምክንያት (Due to / owing to): «በዝናቡ ሳቢያ መንገዱ ተዘጋ» (Due to the rain the road closed)።\n\n፪. የውጤት አያያዦች (Consecutive / Resultative Connectors):\n- ስለዚህ / ስለሆነም (Therefore / so / thus)\n- በመሆኑም (Consequently / as a result)\n- በዚህም ምክንያት (For this reason / consequently)።",
       "examples": [
         {
-          "target": "መምህሩ የ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (21.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)' to the students."
+          "target": "ተማሪው በትጋት አጠና፤ ስለዚህ በፈተናው ከፍተኛ ውጤት በማስመዝገብ አንደኛ ወጣ።",
+          "reading": "Tämariw bətəgat at’änna; səläzzih bäfätänaw käftänya wət’et bamasmäzgäb andänya wät’t’a. [tɛmaˈriw bɛtɨˈɡat ʔatʼɛnːa sɨlɛzːih bɛfɛtɛˈnaw kɛfˈtɛɲa wɨtʼet bamasmɛzˈɡɛb ʔandɛɲa wɛtʼːa] (teh-mah-REEW beh-tuh-GAHT ah-t'en-NAH; suh-lez-ZEEH beh-feh-teh-NAHW kef-TEN-yah wut'-AYT bahs-mez-GEB ahn-DEN-yah wut'-T'AH)",
+          "translation": "The student studied with diligence; therefore, he registered high marks in the exam and came first."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (21.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የአየር ንብረቱ እጅግ ተስማሚ ነበር፤ በመሆኑም የዘንድሮው የሰብል ምርት በእጥፍ ጨመረ።",
+          "reading": "Yä'ayär nəbrätu əğğəg täsmami näbbär; bämähonum yäzändərow yäsäbəl mərt’ bä'ət’f t’ämmärä. [jɛʔaˈjɛr nɨbˈrɛtu ʔɨdʒːɨɡ tɛsmaˈmi nɛbːɛr bɛmɛhoˈnum jɛzɛndɨˈrow jɛsɛbəl mɨrtʼ bɛʔɨtʼf tʃʼɛmːɛˈrɛ] (yeh-ah-YER nub-REH-too uhj-JUG tes-mah-MEE neb-BER; beh-meh-HOH-noom yeh-zen-duh-ROH-woo yeh-seh-BUL mur-T' beh-ut'-F ch'em-meh-REH)",
+          "translation": "The climate was extremely favorable; consequently, this year's crop yield doubled."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (21.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (21.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በከባድ ዝናብ ሳቢያ የከተማው ትራንስፖርት ተስተጓጎለ፤ በዚህ ምክንያት ስብሰባው ተራዘመ።",
+          "reading": "Bäkäbbad zənab sabiya yäkätämaw təransəport tästägwaggolä; bäzzih məkənyat səbsäbaw tärazzämä. [bɛkɛbːad zɨˈnab saˈbija jɛkɛtɛˈmaw tɨransɨˈport tɛstɛɡʷaɡːoˈlɛ bɛzːih mɨkɨnˈjat sɨbsɛˈbaw tɛrazːɛˈmɛ] (beh-keb-BAHD zuh-NAHB sah-bee-YAH yeh-keh-teh-MAHW tur-ahn-spohrt tes-teg-wahg-GOH-leh; bez-ZEEH muh-kun-YAHT sub-seh-BAHW teh-rahz-zeh-MEH)",
+          "translation": "Due to heavy rain, city transport was disrupted; as a result of this, the meeting was postponed."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Cause & Effect: ስለ... / በ... ሳቢያ (Cause) -> ስለዚህ / በመሆኑም (Effect)!"
+      ],
+      "culturalNotes": [
+        "በአማርኛ ስነ-አመክንዮ 'ምክንያትና ውጤትን' በግልጽ አያይዞ ማቅረብ በክርክርና በስብሰባ ውይይቶች ዘንድ ትልቅ አሳማኝነትን ይፈጥራል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«He worked hard; therefore he succeeded» የሚለውን በአማርኛ ትክክለኛ የውጤት አያያዥ የተጠቀመው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (21.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (21.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (21.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (21.3.w3)"
+            "በትጋት ሰራ፤ ስለዚህ ተሳካለት። (He worked diligently; therefore he succeeded - Resultative connector ስለዚህ)",
+            "በትጋት ሰራ ግን አልተሳካለትም",
+            "አልሰራም",
+            "ምንም ስራ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ስለዚህ» መንስኤውንና ውጤቱን የሚያገናኝ ትክክለኛ አያያዥ ቃል ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u21-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Due to the rain, the event was postponed' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (21.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (21.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (21.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (21.3.x3)"
+            "በዝናቡ ሳቢያ ዝግጅቱ ተራዘመ። (Due to the rain, the event was postponed - Accurate causal preposition ሳቢያ)",
+            "ዝናብ የለም",
+            "ዝግጅቱ ተካሄደ",
+            "ምንም ዝግጅት የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (21.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (21.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (21.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (21.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«በ... ሳቢያ» መንስኤን የሚያመለክት ትክክለኛ ሰዋሰዋዊ አያያዥ ነው።"
         }
       ]
     },
@@ -9803,24 +9732,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 21-3):",
+          "prompt": "የመንስኤ እና የውጤት አያያዥ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (21.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (21.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (21.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (21.3.z3)"
+            "ስለዚህ፣ ስለሆነም፣ በመሆኑም፣ በዚህ ምክንያት እና በ... ሳቢያ።",
+            "አረንጓዴ፣ ቢጫ እና ቀይ።",
+            "ጠዋት፣ ከሰዓት እና ማታ።",
+            "በአማርኛ የምክንያት አያያዥ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የመንስኤና የውጤት አያያዦችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u21-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ተውሳከ»):",
+          "prompt": "'ስለዚህ / Therefore, so' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ተውሳከ",
-            "ተውሳከ"
+            "ስለዚህ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ተውሳከ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ስለዚህ» (Səläzzih) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -9831,85 +9759,62 @@
     "subject": "amharic",
     "unit": 21,
     "lessonNumber": 4,
-    "title": "ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions) (ክፍል 4)",
+    "title": "የተቃርኖ እና የአማራጭ አያያዦች (Adversative & Alternative Conjunctions)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የጊዜ፣ የቦታ እና የሁኔታ ተውሳከ ግሶች፣ የተወሳሰቡ አረፍተ ነገሮች ትስስር። (ክፍል 4)።",
+    "objective": "የተቃርኖ (ነገር ግን፣ ሆኖም ግን፣ ይሁን እንጂ፣ ይልቁንም) እና የአማራጭ (ወይም፣ አልያም) አያያዦችን መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የተቃርኖ እና የአማራጭ አያያዥ ቃላት (Adversative & Alternative Connectors):\n\n፩. የተቃርኖ አያያዦች (Adversative Conjunctions):\n- ነገር ግን / ሆኖም ግን (However / but / yet)\n- ይሁን እንጂ / ይሁንና (Nevertheless / nonetheless)\n- ይልቁንም (Rather / instead / even more so)።\n\n፪. የአማራጭ አያያዦች (Alternative Conjunctions):\n- ወይም (Or)\n- አልያም / ካልሆነ (Alternatively / otherwise / or else)።",
       "examples": [
         {
-          "target": "መምህሩ የ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (21.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)' to the students."
+          "target": "መንገዱ እጅግ አድካሚ ነበር፤ ሆኖም ግን ተጓዦቹ ሳይሰለቹ ጉዟቸውን በደስታ አጠናቀቁ።",
+          "reading": "Mängädu əğğəg adkami näbbär; honom gən tägwažočču saysäläču guzwaččäwən bädästa at’ännaqäqu. [mɛnˈɡɛdu ʔɨdʒːɨɡ ʔadˈkami nɛbːɛr hoˈnom ɡɨn tɛɡʷaˈʒotʃːu sajˈsɛlɛtʃu ɡuzwaˈtʃːɛwɨn bɛdɛsˈta ʔatʼɛnːaˈkʼɛkʼu] (men-GEH-doo uhj-JUG ahd-KAH-mee neb-BER; hoh-NOHM gun teh-gwah-ZHOHCH-choo sigh-seh-LEH-choo gooz-wahch-CHEW-un beh-des-TAH ah-t'en-nah-k'eh-K'OO)",
+          "translation": "The journey was very exhausting; however, the travelers completed their journey happily without getting bored."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (21.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በስብሰባው ላይ በግልጽ እንወያይ፤ ወይም ደግሞ ሀሳባችንን በጽሑፍ አጠቃለን እናቅርብ።",
+          "reading": "Bäsəbsäbaw lay bäğəlts’ ənnəwäyay; wäyəm dägmo hassabaččənən bäts’əhuf at’äqqalän ənnanqərb. [bɛsɨbsɛˈbaw laj bɛɡɨltsʼ ʔɨnːɨwɛˈjaj wɛˈjɨm dɛɡˈmo hasːabaˈtʃːɨnɨn bɛtsʼɨˈhuf ʔatʼɛkʼːaˈlɛn ʔɨnːanˈkʼɨrb] (beh-sub-seh-BAHW lye beh-gults' un-nuh-weh-YEYE; weh-YUM deg-MOH hahs-sah-bahch-CHUN-un beh-ts'uh-HOOF ah-t'ek'-kah-LEN un-nahn-K'URB)",
+          "translation": "Let us discuss openly in the meeting, or let us summarize and present our thoughts in writing."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (21.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (21.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ተስፋ መቁረጥ አያስፈልግም፤ ይልቁንም ጠንክረን በመስራት ድልን መቀዳጀት አለብን።",
+          "reading": "Täsfa mäqrät ayasfälləgəm; yəlqunəm t’änkərän bämäsrat dəllən mäqqädağät alläbbən. [tɛsˈfa mɛkʼˈrɛt ʔajasfɛlːɨˈɡɨm jɨlˈkʼunɨm tʼɛnkɨˈrɛn bɛmɛsˈrat dɨlːɨn mɛkʼːɛdaˈdʒɛt ʔalːɛbːɨn] (tes-FAH mek'-RET ah-yahs-fel-luh-GUM; yul-K'OO-num t'en-kuh-REN beh-mes-RAHT dul-LUN mek'-k'eh-dah-JET ahl-leb-BUN)",
+          "translation": "Giving up hope is not necessary; rather, we must achieve victory by working hard."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Contrast vs. Choice: ሆኖም ግን (However) / ይልቁንም (Rather) vs. ወይም / አልያም (Or / otherwise)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ስነ-ጽሑፍ 'ይሁን እንጂ' እና 'ይልቁንም' የክርክር ሀሳቦችን በጥበብ ለማሳረግና አዳዲስ መፍትሔዎችን ለማመላከት ይሠራባቸዋል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«It was hard, however we persevered» የሚለውን በአማርኛ ትክክለኛ የተቃርኖ አያያዥ የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (21.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (21.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (21.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (21.4.w3)"
+            "ከባድ ነበር፤ ሆኖም ግን ጸናን። (It was hard; however we persevered - Adversative connector ሆኖም ግን)",
+            "ከባድ ነበር ስለዚህ ተውነው",
+            "ቀላል ነበር",
+            "ምንም አልነበረም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ሆኖም ግን» የተቃርኖ ሀሳቦችን የሚያገናኝ ትክክለኛ አያያዥ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u21-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Tea or coffee' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (21.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (21.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (21.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (21.4.x3)"
+            "ሻይ ወይም ቡና (Tea or coffee - Standard alternative connector ወይም)",
+            "ሻይ እና ቡና",
+            "ሻይ ግን ቡና",
+            "ሻይ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (21.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (21.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (21.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (21.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ወይም» ሁለት አማራጮችን የሚያገናኝ የአማራጭ አያያዥ ቃል ነው።"
         }
       ]
     },
@@ -9917,24 +9822,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 21-4):",
+          "prompt": "የተቃርኖ እና የአማራጭ አያያዦችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (21.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (21.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (21.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (21.4.z3)"
+            "ነገር ግን፣ ሆኖም ግን፣ ይሁን እንጂ፣ ይልቁንም፣ ወይም እና አልያም ።",
+            "ትልቅ፣ ትንሽ እና ረጅም ።",
+            "ቀይ፣ አረንጓዴ እና ቢጫ።",
+            "በአማርኛ የተቃርኖ አያያዥ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የተቃርኖና የአማራጭ አያያዦችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u21-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ተውሳከ»):",
+          "prompt": "'ወይም / Or' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ተውሳከ",
-            "ተውሳከ"
+            "ወይም"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ተውሳከ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ወይም» (Wäyəm) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -9945,85 +9849,62 @@
     "subject": "amharic",
     "unit": 21,
     "lessonNumber": 5,
-    "title": "ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions) (ክፍል 5)",
+    "title": "የክፍል 21 አጠቃላይ ማጠቃለያ (Unit 21 Grand Synthesis & Complex Cohesive Discourse)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የጊዜ፣ የቦታ እና የሁኔታ ተውሳከ ግሶች፣ የተወሳሰቡ አረፍተ ነገሮች ትስስር። (ክፍል 5)።",
+    "objective": "የጊዜ፣ የቦታ፣ የሁኔታ ተውሳከ ግሶችን፣ የመንስኤ-ውጤትና የተቃርኖ አያያዦችን ያቀናጀ የተሟላ የንግግር ውይይት ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፳፩ አጠቃላይ ሰዋሰዋዊ ውህደት እና የተውሳከ ግሶችና አያያዦች ማጠቃለያ:\n\n፩. የጊዜ ተውሳከ ግሶች:\n- አሁን፣ ወዲያውኑ፣ ሁልጊዜ፣ አልፎ አልፎ፣ አስቀድሞ፣ ወደፊት።\n\n፪. የቦታና የሁኔታ ተውሳከ ግሶች:\n- እዚህ፣ እዚያ፣ ቅርብ፣ ሩቅ፣ በጥንቃቄ፣ በፍጥነት፣ በዝግታ፣ በድፍረት።\n\n፫. የመንስኤና የውጤት አያያዦች:\n- ስለዚህ፣ ስለሆነም፣ በመሆኑም፣ በዚህ ምክንያት፣ በ... ሳቢያ።\n\n፬. የተቃርኖና የአማራጭ አያያዦች:\n- ነገር ግን፣ ሆኖም ግን፣ ይሁን እንጂ፣ ይልቁንም፣ ወይም፣ አልያም ።",
       "examples": [
         {
-          "target": "መምህሩ የ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (21.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)' to the students."
+          "target": "ተግዳሮቶች ቢበዙም እንኳ አሁን በድፍረት ወደፊት መራመድ አለብን፤ ስለዚህ ድል የእኛ ይሆናል።",
+          "reading": "Tägdaročč bibäzum ənkwa ahun bädəfrät wädäfit märamäd alläbbən; səläzzih dəll yä'ənya yəhonal. [tɛɡdaˈrotʃː biˈbɛzum ʔɨnˈkʷa ʔaˈhun bɛdɨfˈrɛt wɛdɛˈfit mɛraˈmɛd ʔalːɛbːɨn sɨlɛzːih dɨlː jɛʔɨˈɲa jɨhoˈnal] (teg-dah-ROHCH bee-beh-ZOOM un-KWAH ah-HOON beh-duf-RET weh-deh-FEET meh-rah-MED ahl-leb-BUN; suh-lez-ZEEH dul-L yeh-un-YAH yuh-hoh-NAHL)",
+          "translation": "Even if challenges multiply, we must boldly march forward now; therefore, victory will be ours."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (21.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ጉዳዩን በጥንቃቄ መርምረናል፤ ይሁን እንጂ ተጨማሪ መረጃዎችን ማሰባሰብ ወይም ማረጋገጥ ያስፈልጋል።",
+          "reading": "Guddayun bät’ənqaqqe märəməränall; yəhun ənği t’ämmari märäğawoččən masäbabsäb wäyəm maräggagät’ yasfälləgal. [ɡuddaˈjun bɛtʼɨnkʼakʼːe mɛrɨmɨrɛˈnal jɨˈhun ʔɨnˈdʒi tʼɛmːaˈri mɛrɛdʒawoˈtʃːɨn masɛbabˈsɛb wɛˈjɨm marɛɡːaˈɡɛtʼ ʔajasfɛlːɨˈɡal] (good-dah-YOON beh-t'un-k'ahk'-K'AY meh-ruh-muh-reh-NAHL; yuh-HOON un-JEE t'em-mah-REE meh-reh-jah-wohch-CHOON mah-seh-bahb-SEB weh-YUM mah-reg-gah-GET' yahs-fel-luh-GAHL)",
+          "translation": "We have investigated the matter carefully; nevertheless, collecting additional information or verifying is necessary."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (21.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (21.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በዝናቡ ሳቢያ መንገዱ ተዘግቷል፤ በመሆኑም እዚህ ማረፍ ወይም በሌላ አማራጭ መጓዝ ይሻላል።",
+          "reading": "Bäzənabu sabiya mängädu täzägtwal; bämähonum əzzih maräf wäyəm bälella amarats’ mägwaz yəššalal. [bɛzɨnaˈbu saˈbija mɛnˈɡɛdu tɛzɛɡˈtʷal bɛmɛhoˈnum ʔɨzːih maˈrɛf wɛˈjɨm bɛleˈla ʔamaˈratsʼ mɛˈɡʷaz jɨʃːaˈlal] (beh-zuh-NAH-boo sah-bee-YAH men-GEH-doo teh-zeg-TWAHL; beh-meh-HOH-noom uz-ZEEH mah-REF weh-YUM beh-lay-LAH ah-mah-RAHTS' meh-GWAHZ yuhsh-shah-LAHL)",
+          "translation": "Due to the rain the road is closed; consequently, resting here or traveling by another alternative is preferable."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Full Discourse Fabric: Time + Manner + Cause-Effect + Adversative-Alternative = Cohesive Amharic!"
+      ],
+      "culturalNotes": [
+        "የአማርኛ ስነ-ቃልና ስነ-ጽሁፍ የሀሳብ ፍሰትን በተውሳከ ግሶችና አያያዦች በማስተሳሰር የአንባቢን ቀልብ የመሳብ ልዩ የውበት ጥበብ አለው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተለያዩ ተውሳከ ግሶችንና አያያዦችን ያጣመረው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (21.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (21.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (21.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (21.5.w3)"
+            "አሁን በጥንቃቄ እንስራ፤ ስለዚህ በስኬት እንጠናቀቃለን ወይም እናርፋለን። (Complete discourse synthesis: time, manner, resultative, alternative)",
+            "ምንም ቃል የለም",
+            "ሁሉም ስሞች ናቸው",
+            "አያያዥ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ይህ አማራጭ የጊዜ (አሁን)፣ የሁኔታ (በጥንቃቄ)፣ የውጤት (ስለዚህ) እና የአማራጭ (ወይም) አያያዦችን በአንድነት ያጣመረ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u21-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "የመንስኤ-ውጤት እና የተቃርኖ አያያዦችን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (21.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (21.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (21.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (21.5.x3)"
+            "መንገዱ ከባድ ነበር፤ ሆኖም ግን በድፍረት ተጓዝን፤ ስለዚህ በሰላም ደረስን። (The road was hard; however we traveled courageously; therefore we arrived safely - Balanced multi-connector sentence)",
+            "ምንም መንገድ የለም",
+            "አልደረስንም",
+            "ተጓዥ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ተውሳከ ግሶች እና የአያያዥ ቃላት (Adverbs & Conjunctions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (21.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (21.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (21.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (21.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ የተቃርኖውን 'ሆኖም ግን'፣ የሁኔታውን 'በድፍረት' እና የውጤቱን 'ስለዚህ' በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -10031,24 +9912,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 21-5):",
+          "prompt": "የክፍል 21 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (21.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (21.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (21.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (21.5.z3)"
+            "የጊዜ ተውሳከ ግሶች፣ የቦታና የሁኔታ ተውሳከ ግሶች፣ የመንስኤና የውጤት አያያዦች (ስለዚህ/በመሆኑም)፣ እንዲሁም የተቃርኖና አማራጭ አያያዦች ተካተዋል።",
+            "ይህ ክፍል ስለ ንግድ ብቻ ነው።",
+            "በአማርኛ ተውሳከ ግስ የለም።",
+            "ሁሉም አያያዦች አንድ ዓይነት ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 21ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u21-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ተውሳከ»):",
+          "prompt": "'አያያዥ / Conjunction, connector' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ተውሳከ",
-            "ተውሳከ"
+            "አያያዥ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ተውሳከ» ነው።"
+          "explanation": "ትክክለኛው ቃል «አያያዥ» (Ayayaž) ነው።"
         }
       ],
       "passThreshold": 0.8
