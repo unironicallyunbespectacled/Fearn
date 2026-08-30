@@ -5405,53 +5405,62 @@
     "subject": "cantonese",
     "unit": 13,
     "lessonNumber": 1,
-    "title": "工種、職場同辦公室對話 (Professions & Workplace) (第1課)",
+    "title": "香港核心工種與專業職銜：「做邊行」、「工程師」、「會計師」、「地產經紀」 (Professions & Job Titles)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元13第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語詢問職業行業之專屬社交句式（做邊行、喺邊度高就）與香港金融、法律、地產及專業服務核心職銜名稱。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在香港作為國際金融與專業服務樞紐之商務社會中，職場職業詢問與職銜稱謂展現出高度專業且講究禮貌之粵語體系：\n\n一、詢問從事行業之標準社交句式：\n１．「請問你做邊行呀？」：詢問對方從事何種行業領域之標準口語，其中「行」指行業行當、商業領域。\n２．「喺邊度高就呀？」：極具教養與尊崇之商務敬語辭令，意為「在何處高就任職、在哪家機構效力」。\n３．「做緊咩職位？」：詢問目前具體擔任何種職務頭銜。\n\n二、香港核心專業工種與職銜稱謂矩陣：\n１．專業持牌專才類（多以專屬後綴「師」字稱呼）：\n- 「會計師」：負責核數審計與財務會計規劃之法定專才。\n- 「律師」：處理合約訴訟與法律諮詢之事務律師或大律師。\n- 「工程師」：土木工程、機械工程或軟件開發專才。\n- 「建築師」：空間規劃與建築景觀設計專才。\n- 「精算師」：評估金融保險風險與數學模型之精算專才。\n２．商業代理與顧問專才（多以後綴「經紀」或「顧問」稱呼）：\n- 「地產經紀」：物業樓盤買賣租賃中介代理顧問。\n- 「保險經紀 / 財富管理顧問」：保險理財規劃與家庭資產配置專員。\n- 「公關」：企業品牌形象推廣與公共關係協調專員。\n- 「社工」：政府註冊之專業社會工作輔導專員。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 13 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 13 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 13 in communication."
+          "target": "請問陳先生做邊行呀？我喺中環一間國際會計師樓做高級審計師。",
+          "reading": "cing2 man6 can4 saan1 sang1 zou6 bin1 hong4 aa3? ngo5 hai2 zung1 waan4 jat1 gaan1 gwok3 zai3 wui6 gai3 si1 lau4 zou6 gou1 kap1 sam2 gai3 si1. [tsʰɪŋ˧˥ mɐn˨ tsʰɐn˨˩ saːn˥ sɐŋ˥ tsou˨ piːn˥ hɔːŋ˨˩ aː˧? ŋɔː˩˧ hɐi˩˧ tsʊŋ˥ waːn˨˩ jɐt̚˥ kaːn˥ kʷɔːk̚˧ tsɐi˧ wuːi˨ kɐi˧ siː˥ lɐu˨˩ tsou˨ kou˥ kʰɐp̚˥ sɐm˧˥ kɐi˧ siː˥] (CHING-MUN CHUN-SAHN-SANG JOH BEEN-HONG AH? NGOH HY JOONG-WAHN YUT-GAHN GWOK-JAI WUI-GAY-SEE-LAU JOH GOU-KUP SUM-GAY-SEE)",
+          "translation": "May I ask which industry Mr. Chan works in? I work as a senior auditor at an international accounting firm in Central."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元13-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "佢大學畢業之後考咗個地產牌，依家喺尖沙咀做地產經紀幫客買賣商舖。",
+          "reading": "keoi5 daai6 hok6 bat1 jip6 zi1 hau6 haau2 zo2 go3 dei6 caan2 paai4, ji1 gaa1 hai2 zim1 saa1 zeoi2 zou6 dei6 caan2 ging1 gei2 bong1 haak3 maai5 maai6 soeng1 pou3. [kʰɵy˩˧ taːi˨ hɔːk̚˨ pɐt̚˥ jiːp̚˨ tsiː˥ hɐu˨ haːu˧˥ tsɔː˧˥ kɔː˧ tei˨ tsʰaːn˧˥ pʰaːi˨˩, jiː˥ kaː˥ hɐi˩˧ tsiːm˥ saː˥ tsɵy˧˥ tsou˨ tei˨ tsʰaːn˧˥ kɪŋ˥ kei˧˥ pɔːŋ˥ haːk̚˧ maːi˩˧ maːi˨ sœːŋ˥ pʰou˧] (KUY DY-HOK BUT-YEAP JEE-HAU HAU-JOR GOH DAY-CHAAN-PY, YEE-GAH HY JEEM-SAH-JEOY JOH DAY-CHAAN GING-GAY BONG HAHK MY-MY SEUNG-POU)",
+          "translation": "After graduating from university he passed the real estate licensing exam; now he works as a real estate agent in Tsim Sha Tsui helping clients buy and sell commercial shops."
+        },
+        {
+          "target": "我表姐係註冊社工，平時主要喺社區中心輔導青少年同長者。",
+          "reading": "ngo5 biu2 ze2 hai6 zyu3 caak3 se5 gung1, ping4 si4 zyu2 jiu3 hai2 se5 keoi1 zung1 sam1 fu6 dou6 cing1 siu3 nin4 tung4 coeng4 ze2. [ŋɔː˩˧ piːu˧˥ tsɛː˧˥ hɐi˨ tsyː˧ tsʰaːk̚˧ sɛː˩˧ kʊŋ˥, pʰɪŋ˨˩ siː˨˩ tsyː˧˥ jiu˧ hɐi˩˧ sɛː˩˧ kʰɵy˥ tsʊŋ˥ sɐm˥ fuː˨ tou˨ tsʰɪŋ˥ siu˧ niːn˨˩ tʰʊŋ˨˩ tsʰœːŋ˨˩ tsɛː˧˥] (NGOH BEW-JEH HY JYU-CHAHK SEH-GONG, PING-SEE JYU-YEW HY SEH-KOEY JOONG-SUM FOO-DOU CHING-SIU-NEEN TOONG CHEUNG-JEH)",
+          "translation": "My cousin is a registered social worker; usually she mainly counsels youth and the elderly at community centers."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【職業詢問歌】初次見面問「邊行」，會計律師全「大行」；地產保險做「經紀」，各行各業展所長！"
+      ],
+      "culturalNotes": [
+        "香港傳統尊稱專業人士為「師爺」或冠以「師」字（如律師、會計師、測量師、工程師），代表通過嚴格之法定專業考核，社會認可度極高。而詢問對方職業時講「喺邊度高就」顯得極為文雅尊崇。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"睇戲\":",
+          "prompt": "【社交詢問】在商務社交場合欲禮貌詢問對方「從事哪個行業」，最地道之粵語提問係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：游水錯置）",
-            "混雜生硬詞彙之不規範語句（例項：行山未適配）",
-            "聲調助詞搭配欠妥之表達（例項：跑步誤用）"
+            "請問你做邊行呀？ (cing2 man6 nei5 zou6 bin1 hong4 aa3?)",
+            "請問你搭邊架車呀？",
+            "請問你行邊條路呀？",
+            "請問你買邊件衫呀？"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「做邊行」（zou6 bin1 hong4）係粵語中詢問從事何種行業之標準表達。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"睇戲\":",
+          "prompt": "【職銜稱謂】專門負責協助客戶進行住宅或寫字樓買賣租賃之中介專才，粵語稱之為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：行山未適配）",
-            "聲調助詞搭配欠妥之表達（例項：跑步誤用）",
-            "語序顛倒嘅非標準句式（例項：游水錯置）"
+            "地產經紀 (dei6 caan2 ging1 gei2 / Real Estate Agent)",
+            "司機 (si1 gei1)",
+            "廚師 (cyu4 si1)",
+            "波友 (bo1 jau5)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "房產物業代理在香港通稱為「地產經紀」（dei6 caan2 ging1 gei2）。"
         }
       ]
     },
@@ -5459,15 +5468,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"睇戲\": Which sentence is completely correct?",
+          "prompt": "【商務敬語】在粵語中，禮貌敬語「喺邊度高就呀？」之確切含義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：跑步誤用）",
-            "語序顛倒嘅非標準句式（例項：游水錯置）",
-            "混雜生硬詞彙之不規範語句（例項：行山未適配）"
+            "請問您在哪裡任職工作？ (Where do you work? - Polite)",
+            "請問您住在哪座高山？",
+            "請問您爬了多高的山？",
+            "請問您身材有多高？"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「高就」（gou1 zau6）係商務場合禮貌詢問任職機構之敬語辭令。"
         }
       ],
       "passThreshold": 0.8
@@ -5478,53 +5487,62 @@
     "subject": "cantonese",
     "unit": 13,
     "lessonNumber": 2,
-    "title": "工種、職場同辦公室對話 (Professions & Workplace) (第2課)",
+    "title": "職場日常動作與公務流程：「開會」、「見客」、「見工面試」、「出差」 (Office Routines & Business Trips)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元13第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語辦公室核心業務動作（開會、見客、見工面試、出差公幹）與解決疑難問題地道俚語（拆掂佢）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在快節奏之香港職場環境中，公務處理、客戶接洽與商務出差擁有一整套乾脆俐落之粵語動作動詞體系：\n\n一、核心辦公室公務動作解析：\n１．「見工 / 面試」：求職應聘面試。粵語日常極少講「找工作面試」，而一律講「去見工」。「見工」直譯為「與僱主見面確認工作職位與雙向選擇」。\n２．「見客 / 傾生意」：會見商務客戶、商談業務合作條款與訂單契約。\n３．「開會 / 開早會 / 散會」：召開定期例會、晨會或會議圓滿結束解散。\n４．「出差 / 公幹」：離開常駐機構前往外地執行商務公務任務（常講「飛外地出差」或「返大灣區公幹交流」）。\n\n二、職場危機處理與辦事效率俚語：\n１．「拆掂佢 / 搞掂佢」：「拆」本義為拆解排查炸彈難題，「拆掂」專指憑藉智慧協調將棘手難題圓滿化解平息妥當。\n２．「見招拆招」：根據現場突發情況靈活機變應對處置。\n３．「跟進 / 跟單」：持續跟進項目進度或訂單落實情況。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 13 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 13 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 13 in communication."
+          "target": "我下個禮拜一朝早要去中環總行見工面試，依家要好好準備自我介紹同履歷表。",
+          "reading": "ngo5 haa6 go3 lai5 baai3 jat1 ziu1 zou2 jiu3 heoi3 zung1 waan4 zung2 hong4 gin3 gung1 min6 si3, ji1 gaa1 jiu3 hou2 hou2 zeon2 bei6 zi6 ngo5 gaai3 siu6 tung4 maai4 lei5 lik6 biu2. [ŋɔː˩˧ haː˨ kɔː˧ lɐi˩˧ paːi˧ jɐt̚˥ tsiːu˥ tsou˧˥ jiu˧ hɵy˧ tsʊŋ˥ waːn˨˩ tsʊŋ˧˥ hɔːŋ˨˩ kiːn˧ kʊŋ˥ miːn˨ siː˧, jiː˥ kaː˥ jiu˧ hou˧˥ hou˧˥ tsɵn˧˥ pei˨ tsiː˨ ŋɔː˩˧ kaːi˧ siu˨ tʰʊŋ˨˩ maːi˨˩ lei˩˧ lɪk̚˨ piːu˧˥] (NGOH HAH-GOH LY-BY-YUT JIU-JOU YEW HOEY JOONG-WAHN JOONG-HONG GEEN-GONG MEEN-SEE, YEE-GAH YEW HOH-HOH JEUN-BAY JEE-NGOH GAI-SIU TOONG-MY LY-LIK-BEW)",
+          "translation": "Next Monday morning I have to go to the Central main branch for a job interview; now I need to thoroughly prepare my self-introduction and resume."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元13-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "經理今日成日都要出外見客傾合約，你有急事就打佢手提電話搵佢啦。",
+          "reading": "ging1 lei5 gam1 jat6 seng4 jat6 dou1 jiu3 ceot1 ngoi6 gin3 haak3 king1 hap6 joek3, nei5 jau5 gap1 si6 zau6 daa2 keoi5 sau2 tai4 din6 waa2 wan2 keoi5 laa1. [kɪŋ˥ lei˩˧ kɐm˥ jɐt˨ sɛːŋ˨˩ jɐt˨ tou˥ jiu˧ tsʰɵt̚˥ ŋɔːi˨ kiːn˧ haːk̚˧ kʰɪŋ˥ hɐp̚˨ jœːk̚˧, nei˩˧ jɐu˩˧ kɐp̚˥ siː˨ tsɐu˨ taː˧˥ kʰɵy˩˧ sɐu˧˥ tʰɐi˨˩ tiːn˨ waː˧˥ wɐn˧˥ kʰɵy˩˧ laː˥] (GING-LY GUM-YUT SENG-YUT DOH YEW CHUT-NGOY GEEN-HAHK KING HUP-YEUK, NEI YAU GUP-SEE JAU DY KUY SAU-TY DEEN-WAH WUN KUY LAH)",
+          "translation": "The manager has to be out meeting clients to negotiate contracts all day today; if you have urgent matters, call his mobile phone to find him."
+        },
+        {
+          "target": "呢個項目雖然好棘手，但係只要團隊合作，我哋一定可以幫老細拆掂佢！",
+          "reading": "ni1 go3 hong6 muk6 seoi1 jin4 hou2 gik1 sau2, daan6 hai6 zi2 jiu3 tyun4 deoi6 hap6 zok3, ngo5 dei6 jat1 ding6 ho2 ji5 bong1 lou5 sai3 caak3 dim6 keoi5! [niː˥ kɔː˧ hɔːŋ˨ mʊk̚˨ sɵy˥ jiːn˨˩ hou˧˥ kɪk̚˥ sɐu˧˥, taːn˨ hɐi˨ tsiː˧˥ jiu˧ tʰyːn˨˩ tɵy˨ hɐp̚˨ tsɔːk̚˧, ŋɔː˩˧ tei˨ jɐt̚˥ tɪŋ˨ hɔː˧˥ jiː˩˧ pɔːŋ˥ lou˧˥ sɐi˧ tsʰaːk̚˧ tiːm˨ kʰɵy˩˧!] (NEE-GOH HONG-MOOK SOEY-YEEN HOH-GIK-SAU, DAHN-HY JEE-YEW TUEN-DEOY HUP-JOK, NGOH-DAY YUT-DING HOH-YEE BONG LOU-SY CHAHK-DEEM-KUY!)",
+          "translation": "Although this project is very thorny, as long as the team cooperates, we will definitely be able to resolve it smoothly for the boss!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【公務實戰訣】求職面試叫「見工」，約談客戶「見客」忙；遇到難題「拆掂佢」，出差公幹跑四方！"
+      ],
+      "culturalNotes": [
+        "在香港商業文化中，「見工」（求職面試）與「見客」（洽談業務）極為注重準時守信（Punctuality）與專業著裝（Business Attire）。「拆掂佢」（搞定化解難題）更係衡量一位員工職場執行力與應變情商之核心口頭禪。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"游水\":",
+          "prompt": "【求職表達】在粵語中描述「前往企業應聘職位參加求職面試」，最地道之說法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：行山錯置）",
-            "混雜生硬詞彙之不規範語句（例項：跑步未適配）",
-            "聲調助詞搭配欠妥之表達（例項：打波誤用）"
+            "去見工 (heoi3 gin3 gung1)",
+            "去買工",
+            "去行工",
+            "去搭工"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "參加求職面試在粵語中稱為「見工」（gin3 gung1）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"游水\":",
+          "prompt": "【職場俚語】當遇到棘手複雜之業務突發危機，主管要求下屬「想辦法協調妥善解決」，口語常講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：跑步未適配）",
-            "聲調助詞搭配欠妥之表達（例項：打波誤用）",
-            "語序顛倒嘅非標準句式（例項：行山錯置）"
+            "諗辦法幫手拆掂佢！ (lam2 baan6 faat3 bong1 sau2 caak3 dim6 keoi5!)",
+            "諗辦法幫手炒魷魚！",
+            "諗辦法幫手遞信！",
+            "諗辦法幫手派散水餅！"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「拆掂佢」（caak3 dim6 keoi5）指把困難難題圓滿化解處理妥當。"
         }
       ]
     },
@@ -5532,15 +5550,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"游水\": Which sentence is completely correct?",
+          "prompt": "【公務術語】粵語動詞短語「傾生意」（king1 saang1 ji3）之確切含義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：打波誤用）",
-            "語序顛倒嘅非標準句式（例項：行山錯置）",
-            "混雜生硬詞彙之不規範語句（例項：跑步未適配）"
+            "與客戶洽談商務合作與合約訂單 (Negotiating business deals)",
+            "向主管申請休假",
+            "在辦公室吃下午茶",
+            "操作影印機複印文件"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「傾生意」（king1 saang1 ji3）指洽談商業合作、商談買賣訂單。"
         }
       ],
       "passThreshold": 0.8
@@ -5551,53 +5569,62 @@
     "subject": "cantonese",
     "unit": 13,
     "lessonNumber": 3,
-    "title": "工種、職場同辦公室對話 (Professions & Workplace) (第3課)",
+    "title": "辦公室日常設備與文儀用品：「影印機」、「碎紙機」、「夾萬」、「釘書機」 (Office Equipment & Supplies)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元13第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港辦公室日常文儀用品與辦公設備專屬詞彙（影印機、碎紙機、夾萬、釘書機、萬字夾、改錯帶）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港辦公室文儀用品與設備名稱保留了大量極具歷史淵源與視覺特徵之本土特色粵語名詞：\n\n一、核心辦公室自動化設備名詞：\n１．「影印機」：複印機設備。複印文件動作稱為「影印文件」或口語「印嘢」。「打印機」則指電腦打印設備。\n２．「碎紙機」：將機密敏感文件切碎銷毀之碎紙設備。\n３．「夾萬」：保險箱、保險櫃。字面意為「能夾藏萬貫家財之堅固鐵櫃」，極富嶺南商貿歷史底蘊。\n\n二、高頻文儀文具用品名詞辨析：\n１．「釘書機 / 釘書釘」：訂書機與訂書針。粵語動詞用「釘」（例如「幫手將份報告釘好佢」）。\n２．「萬字夾」：迴形針、曲別針（因其金屬形狀彎曲酷似傳統漢字『萬』字之佛宗吉祥符號而得名）。\n３．「改錯帶 / 改錯水」：塗改帶與修正液。\n４．「原子筆」：圓珠筆、原子筆。\n５．「螢光筆」：高亮熒光標記筆。\n６．「公文袋 / 膠擦」：牛皮紙檔案袋與橡皮擦。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 13 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 13 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 13 in communication."
+          "target": "部影印機突然卡紙仲閃緊紅燈添，唔該你幫手打開機蓋攞返張紙出嚟。",
+          "reading": "bou6 jing2 jan3 gei1 tat1 jin4 kaat1 zi2 zung6 sim2 gan2 hung4 dang1 tim1, m4 goi1 nei5 bong1 sau2 daa2 hoi1 gei1 goi3 lo2 faan1 zoeng1 zi2 ceot1 lai4. [pou˨ jɪŋ˧˥ jɐn˧ kei˥ tʰɐt̚˥ jiːn˨˩ kʰaːt̚˥ tsiː˧˥ tsʊŋ˨ siːm˧˥ kɐn˩˧ hʊŋ˨˩ tɐŋ˥ tʰiːm˥, m̩˨˩ kɔːi˥ nei˩˧ pɔːŋ˥ sɐu˧˥ taː˧˥ hɔːi˥ kei˥ kɔːi˧ lɔː˧˥ faːn˥ tsœːŋ˥ tsiː˧˥ tsʰɵt̚˥ lɐi˨˩] (BOU YING-YUN-GAY TUT-YEEN KAHT-JEE JOONG SEEM-GUN HOONG-DUNG TEEM, M-GOI NEI BONG-SAU DY-HOI GAY-GOI LOH-FAHN JEUNG-JEE CHUT-LY)",
+          "translation": "The photocopier suddenly got paper jammed and is flashing a red light; please help open the machine cover to take the paper out."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元13-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "呢啲包含客戶個人資料嘅舊文件好敏感，一定要放入碎紙機徹底銷毀。",
+          "reading": "ni1 di1 baau1 ham4 haak3 wu6 go3 jan4 zi1 liu6*2 ge3 gau6 man4 gin62 hou2 man5 gam2, jat1 ding6 jiu3 fong3 jap6 seoi3 zi2 gei1 cit3 dai2 siu1 wai2. [niː˥ tiː˥ paːu˥ hɐm˨˩ haːk̚˧ wuː˨ kɔː˧ jɐn˨˩ tsiː˥ liːu˧˥ kɛː˧ kɐu˨ mɐn˨˩ kiːn˧˥ hou˧˥ mɐn˩˧ kɐm˧˥, jɐt̚˥ tɪŋ˨ jiu˧ fɔːŋ˧ jɐp̚˨ sɵy˧ tsiː˧˥ kei˥ tsʰiːt̚˧ tɐi˧˥ siːu˥ wɐi˧˥] (NEE-DEE BAU-HUM HAHK-WOO GOH-YUN JEE-LEW GEH GAU-MUN-GEEN HOH-MUN-GUM, YUT-DING YEW FONG-YUP SOEY-JEE-GAY CHEET-DY SEW-WY)",
+          "translation": "These old documents containing clients' personal data are very sensitive; they must be put into the paper shredder to be completely destroyed."
+        },
+        {
+          "target": "秘書用釘書機將十幾張報價單整整齊齊咁釘埋一齊，放喺公文袋入面。",
+          "reading": "bei3 syu1 jung6 deng1 syu1 gei1 zoeng1 sap6 gei2 zoeng1 bou3 gaa3 daan1 zing2 zing2 cai4 cai4 gam2 deng1 maai4 jat1 cai4, fong3 hai2 gung1 man4 doi2 jap6 min6. [pei˧ syː˥ jʊŋ˨ tɛːŋ˥ syː˥ kei˥ tsœːŋ˥ sɐp̚˨ kei˧˥ tsœːŋ˥ pou˧ kaː˧ taːn˥ tsɪŋ˧˥ tsɪŋ˧˥ tsʰɐi˨˩ tsʰɐi˨˩ kɐm˧˥ tɛːŋ˥ maːi˨˩ jɐt̚˥ tsʰɐi˨˩, fɔːŋ˧ hɐi˩˧ kʊŋ˥ mɐn˨˩ tɔːi˧˥ jɐp̚˨ miːn˨] (BAY-SYU YOONG DENG-SYU-GAY JEUNG SUP-GAY JEUNG BOU-GAH-DAHN JING-JING-CHY-CHY GUM DENG-MY YUT-CHY, FONG HY GONG-MUN-DOY YUP-MEEN)",
+          "translation": "The secretary used a stapler to neatly staple over a dozen quotation sheets together and put them inside the document envelope."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【辦公文儀訣】複印文件「影印機」，銷毀機密「碎紙機」；金銀鎖入「大夾萬」，裝訂文件「釘書機」！"
+      ],
+      "culturalNotes": [
+        "「夾萬」（保險箱）一詞極具嶺南特色，香港各大金行、洋行自十九世紀開埠以來均將重型鑄鐵保險箱稱為「大夾萬」。而「萬字夾」（迴形針）則生動展現出粵人依據漢字象形特徵進行造詞之智慧。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"行山\":",
+          "prompt": "【文儀名詞】在粵語中描述辦公室用來裝訂文件的「訂書機」與「迴形針」，正確之名稱分別係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：跑步錯置）",
-            "混雜生硬詞彙之不規範語句（例項：打波未適配）",
-            "聲調助詞搭配欠妥之表達（例項：聽歌誤用）"
+            "釘書機、萬字夾 (deng1 syu1 gei1, maan6 zi6 gaap3)",
+            "夾書機、回形扣",
+            "訂紙機、鐵絲環",
+            "合頁機、字形扣"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "訂書機在粵語中稱為「釘書機」，迴形針稱為「萬字夾」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"行山\":",
+          "prompt": "【設備識別】公司財務部用來存放現金印章與極重要機密文件之安全保險箱，粵語稱之為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：打波未適配）",
-            "聲調助詞搭配欠妥之表達（例項：聽歌誤用）",
-            "語序顛倒嘅非標準句式（例項：跑步錯置）"
+            "夾萬 (gaap3 maan6 / Safe)",
+            "影印機 (jing2 jan3 gei1)",
+            "碎紙機 (seoi3 zi2 gei1)",
+            "公文袋 (gung1 man4 doi2)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "保險箱在粵語中稱為「夾萬」（gaap3 maan6）。"
         }
       ]
     },
@@ -5605,15 +5632,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"行山\": Which sentence is completely correct?",
+          "prompt": "【辦公操作】當辦公室影印機出現「卡紙」（kaat1 zi2）故障時，其確切含義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：聽歌誤用）",
-            "語序顛倒嘅非標準句式（例項：跑步錯置）",
-            "混雜生硬詞彙之不規範語句（例項：打波未適配）"
+            "打印紙張夾在機器滾輪內部無法順暢運轉輸出 (Paper jam)",
+            "影印機的墨水用完了",
+            "影印機電源線被拔掉",
+            "影印機被鎖進了夾萬"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「卡紙」（kaat1 zi2）指紙張卡在印表機或影印機內部。"
         }
       ],
       "passThreshold": 0.8
@@ -5624,53 +5651,62 @@
     "subject": "cantonese",
     "unit": 13,
     "lessonNumber": 4,
-    "title": "工種、職場同辦公室對話 (Professions & Workplace) (第4課)",
+    "title": "薪酬福利、假期與勞工法例：「人工」、「雙糧」、「花紅」、「強積金 MPF」 (Compensation & Benefits)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元13第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港薪酬福利核心制度詞彙（人工/出糧、雙糧、花紅/年終獎、強積金MPF、大假/年假、勞工假與銀行假）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港勞工僱傭條例與薪酬福利體系擁有鮮明之法制規範與地道粵語表達方式：\n\n一、薪酬與年終獎勵名詞深度解析：\n１．「人工 / 糧」：薪金工資待遇。發放月薪稱為「出糧」，調增薪資稱為「加人工」，減薪稱為「減人工」。\n２．「雙糧」：第十三個月年終雙薪保障。\n３．「花紅」：依據公司全年盈利狀況發放之浮動年終分紅獎金。\n４．「強積金 / MPF」：強制性公積金制度。法定由僱員與僱主各出資百分之五撥入專屬退休信託基金賬戶。\n\n二、香港法定假期分類與休假術語：\n１．「大假 / 年假」：僱員合同享有之帶薪年假福利。\n２．「勞工假」與「銀行假」之關鍵差異：\n- 「勞工假」：香港勞工法例規定之法定假日（每年現為十四天並逐步遞增至十七天）。\n- 「銀行假 / 公眾假期」：香港公眾假期條例規定之全體十七天法定假日（銀行、政府機構與大型外企普遍享有）。\n３．「有薪病假」：憑註冊醫生簽發之醫生紙申請之帶薪病假福利。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 13 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 13 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 13 in communication."
+          "target": "公司每年年尾除咗保證出雙糧之外，業績好嗰陣仲會派兩至三個月花紅添。",
+          "reading": "gung1 si1 mui5 nin4 nin4 mei5 ceoi4 zo2 bou2 zing3 ceot1 soeng1 loeng4 zi1 ngoi6, jip6 zik1 hou2 go2 zan6 zung6 wui5 paai3 loeng5 zi3 saam1 go3 jyut6 faa1 hung4 tim1. [kʊŋ˥ siː˥ muːi˩˧ niːn˨˩ niːn˨˩ mei˩˧ tsʰɵy˨˩ tsɔː˧˥ pou˧˥ tsɪŋ˧ tsʰɵt̚˥ sœːŋ˥ lœːŋ˨˩ tsiː˥ ŋɔːi˨, jiːp̚˨ tsɪk̚˥ hou˧˥ kɔː˧˥ tsɐn˨ tsʊŋ˨ wuːi˩˧ pʰaːi˧ lœːŋ˩˧ tsiː˧ saːm˥ kɔː˧ jyːt̚˨ faː˥ hʊŋ˨˩ tʰiːm˥] (GONG-SEE MOOI-NEEN NEEN-MAY CHOEY-JOR BOU-JING CHUT SEUNG-LEUNG JEE-NGOY, YEAP-JIK HOH GOH-JUN JOONG WUI PY LEUNG JEE SAHM GOH YUET FAH-HOONG TEEM)",
+          "translation": "Every year-end, besides guaranteeing a 13th-month double pay, the company also distributes two to three months of bonus when business performance is good."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元13-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "每個月出糧嗰陣，公司會喺我份人工入面扣除百分之五供強積金。",
+          "reading": "mui5 go3 jyut6 ceot1 loeng4 go2 zan6, gung1 si1 wui5 hai2 ngo5 fan6 jan4 gung1 jap6 min6 kau3 ceoi4 baak3 fan6 zi1 ng5 gung1 koeng4 zik1 gam1. [muːi˩˧ kɔː˧ jyːt̚˨ tsʰɵt̚˥ lœːŋ˨˩ kɔː˧˥ tsɐn˨, kʊŋ˥ siː˥ wuːi˩˧ hɐi˩˧ ŋɔː˩˧ fɐn˨ jɐn˨˩ kʊŋ˥ jɐp̚˨ miːn˨ kʰɐu˧ tsʰɵy˨˩ paːt̚˧ fɐn˨ tsiː˥ ŋ̩˩˧ kʊŋ˥ kʰœːŋ˨˩ tsɪk̚˥ kɐm˥] (MOOI-GOH-YUET CHUT-LEUNG GOH-JUN, GONG-SEE WUI HY NGOH FUN YUN-GONG YUP-MEEN KAU-CHOEY BAHK-FUN-JEE-NG GOONG KEUNG-JIK-GUM)",
+          "translation": "Every month when salary is disbursed, the company will deduct five percent from my pay to contribute to the Mandatory Provident Fund."
+        },
+        {
+          "target": "我今年仲有七日大假未放，諗住請連續幾日假去日本旅行賞櫻花。",
+          "reading": "ngo5 gam1 nin4 zung6 jau5 cat1 jat6 daai6 gaa3 mei6 fong3, lam2 zyu6 cing2 lin4 zuk6 gei2 jat6 gaa3 heoi3 jat6 bun2 leoi5 hang4 soeng2 jing1 faa1. [ŋɔː˩˧ kɐm˥ niːn˨˩ tsʊŋ˨ jɐu˩˧ tsʰɐt̚˥ jɐt˨ taːi˨ kaː˧ mei˨ fɔːŋ˧, lɐm˧˥ tsyː˨ tsʰɪŋ˧˥ liːn˨˩ tsʊk̚˨ kei˧˥ jɐt˨ kaː˧ hɵy˧ jɐt˨ puːn˧˥ lɵy˩˧ hɐŋ˨˩ sœːŋ˧˥ jɪŋ˥ faː˥] (NGOH GUM-NEEN JOONG YAU CHUT-YUT DY-GAH MAY FONG, LUM-JYU CHING LEEN-JOOK GAY-YUT-GAH HOEY YUT-BOON LOEY-HAHNG SEUNG-YING-FAH)",
+          "translation": "I still have seven days of annual leave untaken this year, planning to apply for several consecutive days off to travel to Japan to view cherry blossoms."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【薪酬福利歌】每月出糧「發人工」，年尾雙薪「出雙糧」；盈利分紅「派花紅」，法定退休「供強積」！"
+      ],
+      "culturalNotes": [
+        "「出糧」（發薪水）源於古代軍隊發放糧草餉銀之說法，在香港沿用至今。香港上班族每逢月底收到薪水時常歡呼「今日出糧喇！」，並會相約親友「食餐好嘅」以慶祝辛勤工作的回報。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"跑步\":",
+          "prompt": "【福利名詞】在香港職場中，年終固定加發一個月薪水之薪酬制度，口語稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：打波錯置）",
-            "混雜生硬詞彙之不規範語句（例項：聽歌未適配）",
-            "聲調助詞搭配欠妥之表達（例項：影相誤用）"
+            "雙糧 (soeng1 loeng4 / 13th Month Pay)",
+            "單糧",
+            "半糧",
+            "空糧"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "年終加發一個月薪水在香港稱為「雙糧」（soeng1 loeng4）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"跑步\":",
+          "prompt": "【制度簡稱】香港法定之退休保障制度「強制性公積金」，英文簡稱與中文口語簡稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：聽歌未適配）",
-            "聲調助詞搭配欠妥之表達（例項：影相誤用）",
-            "語序顛倒嘅非標準句式（例項：打波錯置）"
+            "強積金 / MPF (koeng4 zik1 gam1)",
+            "養老金 / CPP",
+            "退休保 / 401K",
+            "醫保卡 / NHS"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "香港強制性公積金簡稱為「強積金」或英文縮寫「MPF」。"
         }
       ]
     },
@@ -5678,15 +5714,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"跑步\": Which sentence is completely correct?",
+          "prompt": "【假期辨析】香港上班族口語中所講之「放公眾大假」（daai6 gaa3），確切指代：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：影相誤用）",
-            "語序顛倒嘅非標準句式（例項：打波錯置）",
-            "混雜生硬詞彙之不規範語句（例項：聽歌未適配）"
+            "僱員合同中享有的法定帶薪年假 (Paid Annual Leave)",
+            "週末兩天雙休日",
+            "因病請假的病假",
+            "政府規定的颱風假"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "在香港職場中，「大假」（daai6 gaa3）指代帶薪年假（Annual Leave）。"
         }
       ],
       "passThreshold": 0.8
@@ -5697,53 +5733,62 @@
     "subject": "cantonese",
     "unit": 13,
     "lessonNumber": 5,
-    "title": "工種、職場同辦公室對話 (Professions & Workplace) (第5課)",
+    "title": "職場升遷、離職與職場俚語實戰：「升職」、「跳槽」、「遞信」、「派散水餅」 (Promotions & Farewells)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元13第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港職場升遷（升職加薪）、跳槽轉工、主動離職（遞信）、被解僱（炒魷魚）與獨特離職告別習俗（派散水餅）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港職場文化極具活力與流動性，在升遷、跳槽、離職告別等關鍵轉折點上，發展出一整套獨具人文特色之經典粵語俚語體系：\n\n一、職場升遷與轉工跳槽名詞：\n１．「升職 / 升職加薪」：獲得職級晉升並提升薪酬福利待遇。\n２．「跳槽 / 轉工」：更換工作東家、跳往待遇更優厚之新機構發展。\n３．「挖角 / 獵頭」：同行機構以高薪厚職挖走核心關鍵專才。\n\n二、主動離職與被動解僱之生動俚語：\n１．「遞信」：主動遞交辭職信件。香港通常僱傭合同規定「一個月通知期」，遞信後需完成一個月工作交接方可正式離任。\n２．「炒魷魚 / 畀老細炒」：被僱主解僱開除。典故源於早年廣東打工者自備草蓆行李，一旦被解僱便捲起草蓆鋪蓋走人，其捲縮形態恰似熱鍋中受熱捲曲之魷魚片，故生動稱作「炒魷魚」。\n\n三、香港獨一無二之職場離職告別習俗：\n１．「派散水餅」：「散水」在粵語中意為「散夥、離去、各奔前程」。員工在最後工作日自費購買精緻西餅蛋糕或甜點逐一派發給同組同事與主管，表達感謝關照並互道珍重祝福，係香港職場極為重視之傳統社交禮儀。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 13 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 13 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 13 in communication."
+          "target": "佢喺公司做咗五年表現出色，上個月終於升職做咗市場部高級經理。",
+          "reading": "keoi5 hai2 gung1 si1 zou6 zo2 ng5 nin4 biu2 jin6 ceot1 sik1, soeng6 go3 jyut6 zung1 jyu1 sing1 zik1 zou6 zo2 si5 coeng4 bou6 gou1 kap1 ging1 lei5. [kʰɵy˩˧ hɐi˩˧ kʊŋ˥ siː˥ tsou˨ tsɔː˧˥ ŋ̩˩˧ niːn˨˩ piːu˧˥ jiːn˨ tsʰɵt̚˥ sɪk̚˥, sœːŋ˨ kɔː˧ jyːt̚˨ tsʊŋ˥ jyː˩ sing1 zik1 zou˨ tsɔː˧˥ siː˩˧ tsʰœːŋ˨˩ pou˨ kou˥ kʰɐp̚˥ kɪŋ˥ lei˩˧] (KUY HY GONG-SEE JOH-JOR NG-NEEN BEW-YEEN CHUT-SIK, SEUNG-GOH-YUET JOONG-YU SING-JIK JOH-JOR SEE-CHEUNG-BOU GOU-KUP GING-LY)",
+          "translation": "He has worked at the company for five years with outstanding performance; last month he was finally promoted to senior marketing manager."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元13-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "我已經搵到新工，今日正式向老細遞信，下個月底就正式離職跳槽。",
+          "reading": "ngo5 ji5 ging1 wan2 dou2 san1 gung1, gam1 jat6 zing3 sik1 hoeng3 lou5 sai3 dai6 seon3, haa6 go3 jyut6 dai2 zau6 zing3 sik1 lei4 zik1 tiu3 cou4. [ŋɔː˩˧ jiː˩˧ kɪŋ˥ wɐn˧˥ tou˧˥ sɐn˥ kʊŋ˥, kɐm˥ jɐt˨ tsɪŋ˧ sɪk̚˥ hœːŋ˧ lou˧˥ sɐi˧ tɐi˨ sɵn˧, haː˨ kɔː˧ jyːt̚˨ tɐi˧˥ tsɐu˨ tsɪŋ˧ sɪk̚˥ lei˨˩ tsɪk̚˨ tʰiːu˧ tsʰou4] (NGOH YEE-GING WUN-DOU SUN-GONG, GUM-YUT JING-SIK HEUNG LOU-SY DY-SEUN, HAH-GOH-YUET-DY JAU JING-SIK LY-JIK TEW-CHOU)",
+          "translation": "I have already found a new job; today I officially submitted my resignation letter to the boss, and at the end of next month I will officially leave and switch companies."
+        },
+        {
+          "target": "今日係陳小姐最後一日返工，佢下晝買咗好多精緻蛋糕派散水餅畀大家。",
+          "reading": "gam1 jat6 hai6 can4 siu2 ze2 zeoi3 hau6 jat1 jat6 faan1 gung1, keoi5 haa6 zau3 maai5 zo2 hou2 do1 zing1 zi3 daan6 gou1 paai3 saan2 seoi2 beng2 bei2 daai6 gaa1. [kɐm˥ jɐt˨ hɐi˨ tsʰɐn˨˩ siu˧˥ tsɛː˧˥ tsɵy˧ hɐu˨ jɐt̚˥ jɐt˨ faːn˥ kʊŋ˥, kʰɵy˩˧ haː˨ tsɐu˧ maːi˩˧ tsɔː˧˥ hou˧˥ tɔː˥ tsɪŋ˥ tsiː˧ taːn˨ kou˥ pʰaːi˧ saːn˧˥ sɵy˧˥ pɛːŋ˧˥ pei˨ taːi˨ kaː˥] (GUM-YUT HY CHUN-SIU-JEH JEOY-HAU YUT-YUT FAHN-GONG, KUY HAH-JAU MY-JOR HOH-DOH JING-JEE DAHN-GOU PY SAHN-SOEY-BENG BAY DY-GAH)",
+          "translation": "Today is Miss Chan's last day at work; this afternoon she bought many exquisite cakes to distribute as farewell pastries to everyone."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【職場離合歌】努力打拼「升職」快，尋覓高就「跳槽」忙；主動離職「遞封信」，最後一天「派散水」！"
+      ],
+      "culturalNotes": [
+        "「派散水餅」係香港極具代表性之職場人情文化。無論離職原因如何，在最後一天向昔日戰友同事派發精緻美味之散水餅，象徵好聚好散、山水有相逢，留下良好之口碑與人脈網絡。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"打波\":",
+          "prompt": "【離職習俗】香港員工在最後一個工作日（Last Day）購買西餅甜品派發給同事以示告別感謝，此傳統稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：聽歌錯置）",
-            "混雜生硬詞彙之不規範語句（例項：影相未適配）",
-            "聲調助詞搭配欠妥之表達（例項：睇書誤用）"
+            "派散水餅 (paai3 saan2 seoi2 beng2 / Farewell Cakes)",
+            "派月餅",
+            "派嫁女餅",
+            "派老婆餅"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "香港職場離職告別時派發的告別點心稱為「散水餅」（saan2 seoi2 beng2）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"打波\":",
+          "prompt": "【職場動作】在粵語中描述員工「主動向主管提交辭職信」，最標準之口語短語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：影相未適配）",
-            "聲調助詞搭配欠妥之表達（例項：睇書誤用）",
-            "語序顛倒嘅非標準句式（例項：聽歌錯置）"
+            "遞信 (dai6 seon3)",
+            "寄信",
+            "收信",
+            "印信"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "提交辭職信在粵語中稱為「遞信」（dai6 seon3）。"
         }
       ]
     },
@@ -5751,15 +5796,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"打波\": Which sentence is completely correct?",
+          "prompt": "【成語溯源】粵語經典俚語「畀老細炒魷魚」（caau2 jau4 jyu42）之實際含義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：睇書誤用）",
-            "語序顛倒嘅非標準句式（例項：聽歌錯置）",
-            "混雜生硬詞彙之不規範語句（例項：影相未適配）"
+            "被老闆解僱開除 (Being dismissed / Fired by the boss)",
+            "被老闆邀請吃海鮮大餐",
+            "在公司廚房烹飪海鮮",
+            "獲得老闆升職加薪獎勵"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「炒魷魚」指被解僱、開除（源於打工者捲起鋪蓋捲行李之形象）。"
         }
       ],
       "passThreshold": 0.8
