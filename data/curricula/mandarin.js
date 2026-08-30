@@ -10448,85 +10448,89 @@
     "subject": "mandarin",
     "unit": 18,
     "lessonNumber": 1,
-    "title": "结果补语与趋向补语 (Resultative & Directional Complements) (第1讲)",
+    "title": "高频核心结果补语精微辨析（到/见/完/好/懂/对/错/成/掉） (High-Frequency Resultative Complements)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：复合趋向补语（出来/进去/起来/下去）的引申用法与结果补语（见/到/完/好/懂）。 (第1部分)。",
+    "objective": "系统掌握现代汉语高频核心结果补语体系，熟练辨析动作终结（完）、完善就绪（好）、目标获取（到）、感官接触（见）、认知理解（懂）、正误判断（对/错）、形态转化（成）及消除消失（掉）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "结果补语紧接在及物动词之后，中间不加任何结构助词，用于精确补充说明动作行为所导致的终结状态或客观结果：\n\n一、核心高频结果补语精微语义辨析体系：\n1.「完 (wán)」vs「好 (hǎo)」：\n-「动词 + 完」：侧重动作在时间或数量上的「终结与耗尽」（例如：作业写完了、饭吃完了、钱花完了）。\n-「动词 + 好」：侧重动作不仅结束，而且达到「完善、满意、准备就绪」的标准（例如：作业做好了、饭做好了、行李收拾好了、衣服穿好了）。\n2.「到 (dào)」vs「见 (jiàn)」：\n-「动词 + 到」：侧重达成某种目标、寻获客体或感知获取（例如：买到了、找到了、学到了、办到了、收到了）。\n-「动词 + 见」：侧重感官器官与外界刺激的被动接触（例如：看见、听见、闻见、遇见、碰见）。\n3.「懂 (dǒng)」：侧重认知层面的理解与领会（例如：听懂、看懂、搞懂、弄懂）。\n4.「对 (duì)」vs「错 (cuò)」：侧重动作结果与客观标准的吻合与偏离（例如：回答对了、答错了、写错了、看错了、听错了）。\n5.「成 (chéng)」：侧重形态转化、成果实现（例如：翻译成、改装成、做成、办成）。\n6.「掉 (diào)」：侧重客体的消除、去除或脱离（例如：扔掉、忘掉、擦掉、脱掉、洗掉）。\n\n二、否定形式铁律：【在动词前加「没 / 没有」】！\n- 规范句式：他**没听懂**老师的话、我**没买到**那本专业书（绝不可说 *听不懂了 是可能补语）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「结果补语与趋向补语 (Resultative & Directional Complements)」的核心语法法则与应用范例 (18.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '结果补语与趋向补语 (Resultative & Directional Complements)' in simple terms to students at the academic seminar."
+          "target": "经过长达两周的文献检索与实地调研，课题组终于找到了解决该算法瓶颈的关键突破口。(Jīngguò cháng dá liǎng zhōu de wénxiàn jiǎnsuǒ yǔ shídì diàoyán, kètízǔ zhōngyú zhǎodào le jiějué gāi suànfǎ píngjǐng de guānjiàn tūpòkǒu.)",
+          "reading": "[t͡ɕiŋ˥.kwo˥˩ ʈ͡ʂʰɑŋ˧˥ ta˧˥ ljaŋ˨˩˦ ʈ͡ʂoʊ̯˥ tɤ wən˧˥.ɕjɛn˥˩ t͡ɕjɛn˨˩.swɔ˨˩˦ y˨˩˦ ʂɨ˧˥.ti˥˩ tjaʊ̯˥.jan˧˥, kʰɤ˥˩.tʰi˧˥.t͡su˨˩˦ ʈ͡ʂʊŋ˥.y˧˥ ʈ͡ʂaʊ̯˨˩.taʊ̯˥˩ lɤ t͡ɕjɛ˨˩.t͡ɕɥɛ˧˥ kaɪ̯˥ swan˥˩.fa˨˩˦ pʰiŋ˧˥.t͡ɕiŋ˨˩˦ tɤ kwan˥.t͡ɕjɛn˥ tʰu˥.pʰwɔ˥˩.kʰoʊ̯˨˩˦] (Jīng-guò cháng dá liǎng zhōu de wén-xiàn jiǎn-suǒ yǔ shí-dì diào-yán, kè-tí-zǔ zhōng-yú zhǎo-dào le jiě-jué gāi suàn-fǎ píng-jǐng de guān-jiàn tū-pò-kǒu.)",
+          "translation": "After two weeks of literature retrieval and field research, the research group finally found the key breakthrough to resolve the bottleneck of the algorithm."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (18.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "助教老师在黑板上把容易写错的汉字偏旁部首逐一圈出，确保同学们都能完全看懂弄通。(Zhùjiào lǎoshī zài hēibǎn shang bǎ róngyì xiěcuò de Hànzì piānpáng-bùshǒu zhúyī quānchū, quèbǎo tóngxuémen dōu néng wánquán kàndǒng nòngtōng.)",
+          "reading": "[ʈ͡ʂu˥˩.t͡ɕjaʊ̯˥˩ laʊ̯˨˩.ʂɨ˥ t͡saɪ̯˥˩ xeɪ̯˥.pan˨˩˦ ʂɑŋ pa˨˩˦ ʐʊŋ˧˥.i˥˩ ɕjɛ˨˩.t͡sʰwɔ˥˩ tɤ xan˥˩.t͡sɨ˥˩ pʰjɛn˥.pʰɑŋ˧˥.pu˥˩.ʂoʊ̯˨˩˦ ʈ͡ʂu˧˥.in t͡ɕʰyɛn˥.t͡ʂʰu˥, t͡ɕʰɥɛ˥˩.paʊ̯˨˩˦ tʰʊŋ˧˥.ɕɥɛ˧˥.mən toʊ̯˥ nɤŋ˧˥ wan˧˥.t͡ɕʰyɛn˧˥ kʰan˥˩.tʊŋ˨˩˦ nʊŋ˥˩.tʰʊŋ˥] (Zhù-jiào lǎo-shī zài hēi-bǎn shang bǎ róng-yì xiě-cuò de Hàn-zì piān-páng-bù-shǒu zhú-yī quān-chū, què-bǎo tóng-xué-men dōu néng wán-quán kàn-dǒng nòng-tōng.)",
+          "translation": "The teaching assistant circled the radicals and components of Chinese characters that are easily written wrong one by one on the blackboard, ensuring all students can fully understand and master them."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (18.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "出发前往机场之前，请大家务必再次仔细检查，确认所有的证件和行李都已经准备好了。(Chūfā qiánwǎng jīchǎng zhīqián, qǐng dàjiā wùbì zàicì zǐxì jiǎnchá, quèrèn suǒyǒu de zhèngjiàn hé xínglǐ dōu yǐjīng zhǔnbèi hǎo le.)",
+          "reading": "[t͡ʂʰu˥.fa˥ t͡ɕʰjɛn˧˥.wɑŋ˨˩˦ t͡ɕi˥.ʈ͡ʂʰɑŋ˨˩˦ ʈ͡ʂɨ˥.t͡ɕjɛn˥, t͡ɕʰiŋ˨˩˦ ta˥˩.t͡ɕja˥ u˥˩.pi˥˩ t͡saɪ̯˥˩.t͡sʰɨ˥˩ t͡sɨ˨˩.ɕi˥˩ t͡ɕjɛn˨˩.ʈ͡ʂʰa˧˥, t͡ɕʰɥɛ˥˩.ʐən˥˩ swɔ˨˩.joʊ̯˨˩˦ tɤ ʈ͡ʂəŋ˥˩.t͡ɕjɛn˥˩ xɤ˧˥ ɕiŋ˧˥.li˨˩ toʊ̯˥ i˨˩˦.t͡ɕiŋ˥ ʈ͡ʂwən˨˩.peɪ̯˥˩ xaʊ̯˨˩˦ lɤ] (Chū-fā qián-wǎng jī-chǎng zhī-qián, qǐng dà-jiā wù-bì zài-cì zǐ-xì jiǎn-chá, què-rèn suǒ-yǒu de zhèng-jiàn hé xíng-lǐ dōu yǐ-jīng zhǔn-bèi hǎo le.)",
+          "translation": "Before setting off for the airport, everyone please be sure to check carefully once again to confirm that all documents and luggage are already properly prepared."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (18.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "青年翻译家耗费数年心血，成功把这部古典名著翻译成了规范优美的现代通俗读物。(Qīngnián fānyìjiā hàofèi shù nián xīnxuè, chénggōng bǎ zhè bù gǔdiǎn míngzhù fānyì chéng le guīfàn yōuměi de xiàndài tōngsú dúwù.)",
+          "reading": "[t͡ɕʰiŋ˥.njɛn˧˥ fa˥.i˥˩.t͡ɕja˥ xaʊ̯˥˩.feɪ̯˥˩ ʂu˥˩ njɛn˧˥ ɕin˥.ɕɥɛ˥, ʈ͡ʂʰəŋ˧˥.kʊŋ˥ pa˨˩˦ ʈ͡ʂɤ˥˩ pu˥˩ ku˨˩.tjɛn˨˩˦ miŋ˧˥.ʈ͡ʂu˥˩ fa˥.i˥˩ ʈ͡ʂʰəŋ˧˥ lɤ kweɪ̯˥.fan˥˩ joʊ̯˥.meɪ̯˨˩˦ tɤ ɕjɛn˥˩.taɪ̯˥˩ tʰʊŋ˥.su˧˥ tu˧˥.u˥˩] (Qīng-nián fān-yì-jiā hào-fèi shù nián xīn-xuè, chéng-gōng bǎ zhè bù gǔ-diǎn míng-zhù fān-yì chéng le guī-fàn yōu-měi de xiàn-dài tōng-sú dú-wù.)",
+          "translation": "Spending years of painstaking effort, the young translator successfully translated this classic masterpiece into a standardized and graceful modern popular reading."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "完表动作终结尽，好显准备达标纯；到见感知获目标，成转错对懂掉清！"
+      ],
+      "culturalNotes": [
+        "结果补语是汉语精炼表达效能的核心。汉语不需要通过冗长的从句来描述结果，只需在动词后加上「好/成/到/懂」，即可实现极高密度的语义传达。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「结果补语与趋向补语 (Resultative & Directional Complements)」（第1讲）的标准汉语规范？",
+          "prompt": "在表达「事情不仅做完了，而且完全准备妥当、令人满意」时，最准确的结果补语是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「结果补语与趋向补语 (Resultative & Directional Complements)」的核心语法法则与应用范例 (18.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (18.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (18.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (18.1.w3)"
+            "做好 / 准备好 (Result complement '好': completed to standard/satisfaction)",
+            "做完 (Only indicates finishing the process)",
+            "做到",
+            "做懂"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「好」作结果补语强调动作达到完善、妥当、就绪的标准。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "对结果补语短语「听懂了」进行否定时，完全符合汉语语法规范的形式是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "没听懂 (Negation of resultative complement: 没 + 动词 + 补语)",
+            "听没懂",
+            "不听懂",
+            "听懂不"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "结果补语的否定必须在动词前加「没 / 没有」：没听懂。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「结果补语与趋向补语 (Resultative & Directional Complements)」的正式语境下，最准确得体的表达是哪一项？（第18.1题）",
+          "prompt": "表达通过感官看而识别、理解其深层含义时，最精准的动补组合是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (18.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (18.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (18.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (18.1.x3)"
+            "看懂 (Look and understand / comprehend)",
+            "看见 (Look and perceive sensory stimulus)",
+            "看完 (Look to the end)",
+            "看到"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「看懂」强调领会理解，「看见」仅强调感官接触到图像。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u18-l1）所要求的高阶语言表达？",
+          "prompt": "下列哪一项动补短语表达了「将旧习惯或错误记忆彻底消除」？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (18.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (18.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (18.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (18.1.y3)"
+            "忘掉 / 改掉 (Eradicate / eliminate completely)",
+            "忘完",
+            "改好成",
+            "改到"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「掉」作为结果补语常表示消除、去掉、脱落（如忘掉、改掉毛病）。"
         }
       ]
     },
@@ -10534,25 +10538,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「结果补语与趋向补语 (Resultative & Directional Complements)」的掌握程度，请选出表述完全正确的标准范句（测试 18-1）：",
+          "prompt": "请选出下列句子中结果补语搭配最精准、语义毫无歧义的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (18.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (18.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (18.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (18.1.z3)"
+            "研究人员经过通宵达旦的计算，终于把核心算法中的逻辑错误全部纠正过来了，所有测试数据也都核对完毕了。(纠正过来、核对完毕，动补搭配堪称典范)",
+            "研究人员把错误算懂了，数据算成完。(动补搭配严重混乱)",
+            "数据被核对在电脑没。(语病严重)",
+            "逻辑错误纠正在算法。(结构残缺不全)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "首选选项在结果补语「纠正过来」与「核对完毕」的搭配上展现了极高精度的学术汉语规范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u18-l1）的核心关键词（例如「结果补语」）：",
+          "prompt": "请输入表达动作不仅结束且达到完善就绪标准的核心单字结果补语（例如准备「」，拼音为 hǎo）：",
           "acceptedAnswers": [
-            "结果补语",
-            "结果补语与趋",
-            "结果补语与趋向补语"
+            "好"
           ],
-          "explanation": "正确的核心关键词为「结果补语」。"
+          "explanation": "字词「好」作为结果补语表示达到令人满意的完善就绪状态。"
         }
       ],
       "passThreshold": 0.8
@@ -10563,85 +10565,89 @@
     "subject": "mandarin",
     "unit": 18,
     "lessonNumber": 2,
-    "title": "结果补语与趋向补语 (Resultative & Directional Complements) (第2讲)",
+    "title": "趋向补语基础空间位移与宾语位置铁律（来/去/上/下/进/出/回/过/起） (Simple & Compound Directional Complements & Object Placement)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：复合趋向补语（出来/进去/起来/下去）的引申用法与结果补语（见/到/完/好/懂）。 (第2部分)。",
+    "objective": "系统掌握单纯与复合趋向补语的空间物理位移系统，深刻领会并熟练执行「处所宾语必须置于来/去之前」与「事物宾语位置灵活性」核心语法铁律。",
     "presentation": {
-      "explanation": "",
+      "explanation": "趋向补语用于表示动作在物理空间中的移动方向与轨迹，以说话人所在的位置为核心参照基点：\n\n一、趋向补语的两大基础构型：\n1. 单纯趋向补语（以说话人为基准）：\n-「来 (lái)」：向着说话人所在的方向移动（如：进**来**、拿**来**、过**来**）。\n-「去 (qù)」：背离说话人所在的方向移动（如：进**去**、拿**去**、过**去**）。\n2. 复合趋向补语（空间方向 + 视点基准）：\n- 上来/上去、下来/下去、进来/进去、出来/出去、回来/回去、过来/过去、起来（无*起去）。\n\n二、趋向补语核心句法铁律：【处所宾语与事物宾语的位置规则】！\n1.【处所宾语（地点名词）铁律：必须置于「来/去」之前】！\n- 句法框架：动词 + [空间趋向词] + **处所宾语** + [来/去]。\n- 严正禁忌：处所宾语**绝对不能**放在「来/去」后面！\n1. 病句：*他走进教室来。 改正：他**走进教室来**。\n2. 病句：*大家回家去。 改正：大家**回家去**。\n3. 病句：*老师上楼来。 改正：老师**上楼来**。\n2.【事物宾语的灵活位置】：\n- 事物宾语既可以放在复合趋向补语中间（拿出一本书来），也可以放在复合趋向补语后面（拿出来一本书）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「结果补语与趋向补语 (Resultative & Directional Complements)」的核心语法法则与应用范例 (18.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '结果补语与趋向补语 (Resultative & Directional Complements)' in simple terms to students at the academic seminar."
+          "target": "班主任微笑着走进教室来，手里拿着刚刚打印出来的期末表彰名单。(Bānzhǔrèn wēixiào zhe zǒujìn jiàoshì lai, shǒulǐ názhe gānggāng dǎyìn chūlai de qīmò biǎozhāng míngdān.)",
+          "reading": "[pan˥.ʈ͡ʂu˨˩.ʐən˥˩ weɪ̯˥.ɕjaʊ̯˥˩ ʈ͡ʂɤ t͡soʊ̯˨˩.t͡ɕin˥˩ t͡ɕjaʊ̯˥˩.ʂɨ˥˩ laɪ̯, ʂoʊ̯˨˩.li˨˩˦ na˧˥ ʈ͡ʂɤ kɑŋ˥.kɑŋ ta˨˩.in˥˩ t͡ʂʰu˥.laɪ̯ tɤ t͡ɕʰi˥.mwɔ˥˩ pjaʊ̯˨˩.ʈ͡ʂɑŋ˥ miŋ˧˥.tan˥] (Bān-zhǔ-rèn wēi-xiào zhe zǒu-jìn jiào-shì lai, shǒu-lǐ ná-zhe gāng-gāng dǎ-yìn chū-lai de qī-mò biǎo-zhāng míng-dān.)",
+          "translation": "The class teacher walked into the classroom smiling, holding in his hand the final term commendation list that was just printed out."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (18.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "听到敲门声，研究员立刻站起身走过去打开了实验室的大门。(Tīngdào qiāomén shēng, yánjiūyuán lìkè zhàn qǐ shēn zǒu guòqu dǎkāi le shíyànshì de dàmén.)",
+          "reading": "[tʰiŋ˥.taʊ̯˥˩ t͡ɕʰjaʊ̯˥.mən˧˥ ʂəŋ˥, jan˧˥.t͡ɕjoʊ̯ kɤ˥˩.weɪ̯ ʐən˧˥.jɥɛn˧˥ li˥˩.kʰɤ˥˩ ʈ͡ʂan˥˩ t͡ɕʰi˨˩˦ ʂən˥ t͡soʊ̯˨˩˦ kwo˥˩.t͡ɕʰy ta˨˩˦.kʰaɪ̯ lɤ ʂɨ˧˥.jɛn˥˩.ʂɨ˥˩ tɤ ta˥˩.mən˧˥] (Tīng-dào qiāo-mén shēng, yán-jiū-yuán lì-kè zhàn qǐ shēn zǒu guò-qu dǎ-kāi le shí-yàn-shì de dà-mén.)",
+          "translation": "Hearing the knock on the door, the researcher immediately stood up, walked over, and opened the gate of the laboratory."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (18.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "登山队员们克服了高原反应与极端严寒，终于在正午时分成功登上了珠穆朗玛峰顶上去。(Dēngshān duìyuánmen kèfú le gāoyuán fǎnyìng yǔ jíduān yánhán, zhōngyú zài zhèngwǔ shífēn chénggōng dēngshàng le Zhūmùlǎngmǎ Fēng dǐng shang qu.)",
+          "reading": "[tɤŋ˥.ʂan˥ tweɪ̯˥˩.jɥɛn˧˥.mən kʰɤ˥˩.fu˧˥ lɤ kaʊ̯˥.jɥɛn˧˥ fan˨˩.iŋ˥˩ y˨˩˦ t͡ɕi˧˥.twan˥ jan˧˥.xan˧˥, ʈ͡ʂʊŋ˥.y˧˥ t͡saɪ̯˥˩ ʈ͡ʂəŋ˥˩.u˨˩˦ ʂɨ˧˥.fən˥ ʈ͡ʂʰəŋ˧˥.kʊŋ˥ tɤŋ˥.ʂɑŋ˥˩ lɤ ʈ͡ʂu˥.mu˥˩.laŋ˨˩.ma˨˩˦ fəŋ˥ tiŋ˨˩˦ ʂɑŋ t͡ɕʰy] (Dēng-shān duì-yuán-men kè-fú le gāo-yuán fǎn-yìng yǔ jí-duān yán-hán, zhōng-yú zài zhèng-wǔ shí-fēn chéng-gōng dēng-shàng le Zhū-mù-lǎng-mǎ Fēng dǐng shang qu.)",
+          "translation": "Overcoming altitude sickness and extreme severe cold, the mountaineering team members finally successfully climbed onto the summit of Mount Everest at noon."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (18.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "助教老师从公文包里拿出了一套最新的模拟测试试卷，分发给各位同学。(Zhùjiào lǎoshī cóng gōngwénbāo lǐ ná chū le yí tào zuìxīn de mónǐ cèshì shìjuàn, fēnfā gěi gèwèi tóngxué.)",
+          "reading": "[ʈ͡ʂu˥˩.t͡ɕjaʊ̯˥˩ laʊ̯˨˩.ʂɨ˥ t͡sʰʊŋ˧˥ kʊŋ˥.wən˧˥.paʊ̯˥ li˨˩˦ na˧˥ t͡ʂʰu˥ lɤ i˥ tʰaʊ̯˥˩ t͡sweɪ̯˥˩.ɕin˥ tɤ mwɔ˧˥.ni˨˩˦ t͡sʰɤ˥˩.ʂɨ˥˩ ʂɨ˥˩.t͡ɕɥɛn˥˩, fən˥.fa˥ keɪ̯˨˩˦ kɤ˥˩.weɪ̯˥˩ tʰʊŋ˧˥.ɕɥɛ˧˥] (Zhù-jiào lǎo-shī cóng gōng-wén-bāo lǐ ná chū le yí tào zuì-xīn de mó-nǐ cè-shì shì-juàn, fēn-fā gěi gè-wèi tóng-xué.)",
+          "translation": "The teaching assistant took a set of the latest mock test papers out of the briefcase and distributed them to all students."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "处所名词居来前，进家上楼莫颠连；事物宾语前后放，趋向清晰动感全！"
+      ],
+      "culturalNotes": [
+        "空间趋向补语深刻体现了汉民族「以我为中心、视点明确」的空间认知哲学。通过精微的「来/去」切换，听话人能瞬间明晰说话人的空间站位与距离感。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「结果补语与趋向补语 (Resultative & Directional Complements)」（第2讲）的标准汉语规范？",
+          "prompt": "在趋向补语中，当宾语是表示地点的处所名词（如「教室/图书馆/家」）时，其绝对位置是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「结果补语与趋向补语 (Resultative & Directional Complements)」的核心语法法则与应用范例 (18.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (18.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (18.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (18.2.w3)"
+            "必须强制放在单纯趋向补语「来 / 去」的前面 (Must precede '来/去')",
+            "必须放在「来 / 去」的后面",
+            "必须放在句首主语前面",
+            "可以随意放在任何位置"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "处所宾语必须放在「来/去」之前（如：进教室来、回宿舍去）。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "下列哪一个趋向补语句子犯了「处所宾语错误置于来/去之后」的严重语法病句？",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "*他走进来教室。(Incorrect: Place object placed after '来')",
+            "他走进教室来。",
+            "他走进教室去了。",
+            "他走进图书馆去了。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "地点「教室」错误放在了「来」之后，必须改为「走进教室来」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「结果补语与趋向补语 (Resultative & Directional Complements)」的正式语境下，最准确得体的表达是哪一项？（第18.2题）",
+          "prompt": "要表达「请从书包里拿出一本书」，下列哪一种语序是完全允许且地道的？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (18.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (18.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (18.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (18.2.x3)"
+            "拿出一本书来 / 拿出来一本书 (Both positions valid for object nouns)",
+            "拿出一本书去来",
+            "来拿出一本书",
+            "拿书出一本去"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "事物宾语既可以放在复合趋向补语中间（拿出一本书来），也可放在其后（拿出来一本书）。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u18-l2）所要求的高阶语言表达？",
+          "prompt": "在句子「大家快上楼来，会议马上开始了」中，说话人当前所处的物理空间位置是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (18.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (18.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (18.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (18.2.y3)"
+            "说话人正在楼上 (Speaker is upstairs, as indicated by '上来')",
+            "说话人正在楼下",
+            "说话人在大门外",
+            "说话人在地下室"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「上......来」表明说话人自身位于楼上，动作向着说话人方向移动。"
         }
       ]
     },
@@ -10649,25 +10655,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「结果补语与趋向补语 (Resultative & Directional Complements)」的掌握程度，请选出表述完全正确的标准范句（测试 18-2）：",
+          "prompt": "请选出下列趋向补语句子中处所宾语与视点基准运用完全合规的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (18.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (18.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (18.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (18.2.z3)"
+            "教授刚走进会议室来，所有参会的青年学者们便立刻站起身来热烈鼓掌。(走进会议室来：处所宾语前置于来，视点与空间严整)",
+            "教授刚走进来会议室，大家站起来。(处所宾语位置严重错误)",
+            "教授走进在会议室去来。(趋向补语混乱杂糅)",
+            "会议室走进教授来。(主宾颠倒病句)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「走进会议室来」完美遵守了处所宾语置于「来」前的铁律规则。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u18-l2）的核心关键词（例如「结果补语」）：",
+          "prompt": "请输入表达动作向着说话人所在方向靠拢的核心单纯趋向动词（拼音为 lái）：",
           "acceptedAnswers": [
-            "结果补语",
-            "结果补语与趋",
-            "结果补语与趋向补语"
+            "来"
           ],
-          "explanation": "正确的核心关键词为「结果补语」。"
+          "explanation": "字词「来」是表达朝向视点基准移动的核心单纯趋向动词与补语。"
         }
       ],
       "passThreshold": 0.8
@@ -10678,85 +10682,89 @@
     "subject": "mandarin",
     "unit": 18,
     "lessonNumber": 3,
-    "title": "结果补语与趋向补语 (Resultative & Directional Complements) (第3讲)",
+    "title": "复合趋向补语深层抽象引申义（起来：开始/分散到集中/回忆评估） (Extended Meanings of 'Qilai')",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：复合趋向补语（出来/进去/起来/下去）的引申用法与结果补语（见/到/完/好/懂）。 (第3部分)。",
+    "objective": "系统掌握复合趋向补语「起来 (qǐlai)」的四大深层抽象引申义（开始持续义、由散到聚收拢义、思维回忆检索义、感官评估体验义），熟练运用于高阶书面语表达。",
     "presentation": {
-      "explanation": "",
+      "explanation": "复合趋向补语「起来」从最初的物理空间「由下至上（站起来）」演化出了极其丰富多维的抽象引申义系统：\n\n一、「起来」的四大核心抽象引申义系统：\n1. 动作或状态的开始与持续发展（【开始义】）：\n- 句法框架：动词/形容词 + 起来。\n- 范例说明：天气暖和起来了、大家热烈讨论起来、会场突然安静起来、笑起来、哭起来。\n2. 动作使事物由分散变为集中、隐蔽或收拢（【收拢/隐藏义】）：\n- 句法框架：动词 + 起来。\n- 范例说明：把散落的资料整理起来、把积攒的科研经费存起来、把绝密文件藏起来、把青年学者组织起来。\n3. 从记忆深处提取检索信息（【回忆检索义】）：\n- 句法框架：想起来 / 记起来。\n- 范例说明：我想起来那篇经典文献的作者了、经过提醒他终于记起来当年的实验细节了。\n4. 从特定角度进行感知、品鉴与评估（【主观评估义】）：\n- 句法框架：动词 + 起来 + 形容词/短语（看/听/吃/闻/用/体会 + 起来）。\n- 范例说明：这道菜吃起来很地道、汉语语法学起来很有规律、这套方案听起来切实可行。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「结果补语与趋向补语 (Resultative & Directional Complements)」的核心语法法则与应用范例 (18.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '结果补语与趋向补语 (Resultative & Directional Complements)' in simple terms to students at the academic seminar."
+          "target": "随着春季气温逐渐回升，北方大地上的万物开始复苏，整个城市变得生机勃勃起来。(Suízhe chūnjì qìwēn zhújiàn huíshēng, běifāng dàdì shang de wànwù kāishǐ fùsū, zhěng ge chéngshì biàn de shēngjī-bóbó qǐlai.)",
+          "reading": "[sweɪ̯˧˥.ʈ͡ʂɤ ʈ͡ʂʰwən˥.t͡ɕi˥˩ t͡ɕʰi˥˩.wən˥ ʈ͡ʂu˧˥.t͡ɕjɛn˥˩ xweɪ̯˧˥.ʂəŋ˥, peɪ̯˨˩.fɑŋ˥ ta˥˩.ti˥˩ ʂɑŋ tɤ wan˥˩.u˥˩ kʰaɪ̯˥.ʂɨ˨˩˦ fu˥˩.su˥, ʈ͡ʂɤŋ˨˩˦ kɤ ʈ͡ʂʰəŋ˧˥.ʂɨ˥˩ pjɛn˥˩ tɤ ʂəŋ˥.t͡ɕi˥.pwo˧˥.pwo˧˥ t͡ɕʰi˨˩.laɪ̯] (Suí-zhe chūn-jì qì-wēn zhú-jiàn huí-shēng, běi-fāng dà-dì shang de wàn-wù kāi-shǐ fù-sū, zhěng ge chéng-shì biàn de shēng-jī-bó-bó qǐ-lai.)",
+          "translation": "As spring temperatures gradually rise, all living things on the northern land begin to revive, and the whole city becomes full of vitality."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (18.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "班长把各小组散乱的调研记录系统地归纳整理起来，形成了一份详尽的汇报材料。(Bānzhǎng bǎ gè xiǎozǔ sànluàn de diàoyán jìlù xìtǒng de guīnà zhěnglǐ qǐlai, xíngchéng le yí fèn xiángjìn de huìbào cáiliào.)",
+          "reading": "[pan˥.ʈ͡ʂɑŋ˨˩˦ pa˨˩˦ kɤ˥˩ ɕjaʊ̯˨˩.t͡su˨˩˦ san˥˩.lwan˥˩ tɤ tjaʊ̯˥.jan˧˥ t͡ɕi˥˩.lu˥˩ ɕi˥˩.tʰʊŋ˨˩˦ tɤ kweɪ̯˥.na˥˩ ʈ͡ʂɤŋ˨˩.li˨˩˦ t͡ɕʰi˨˩.laɪ̯, ɕiŋ˧˥.ʈ͡ʂʰəŋ˧˥ lɤ i˥ fən˥˩ ɕjaŋ˧˥.t͡ɕin˥˩ tɤ xweɪ̯˥˩.paʊ̯˥˩ t͡sʰaɪ̯˧˥.ljaʊ̯˥˩] (Bān-zhǎng bǎ gè xiǎo-zǔ sàn-luàn de diào-yán jì-lù xì-tǒng de guī-nà zhěng-lǐ qǐ-lai, xíng-chéng le yí fèn xiáng-jìn de huì-bào cái-liào.)",
+          "translation": "The class monitor systematically summarized and organized the scattered survey records of each group, forming a detailed report material."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (18.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "经过反复查阅过去的实验日志，他终于想起来当初记录关键参数的保密密码了。(Jīngguò fǎnfù cháyuè guòqù de shíyàn rìzhì, tā zhōngyú xiǎng qǐlai dāngchū jìlù guānjiàn cānshù de bǎomì mìmǎ le.)",
+          "reading": "[t͡ɕiŋ˥.kwo˥˩ fan˨˩.fu˥˩ ʈ͡ʂʰa˧˥.jɥɛ˥˩ kwo˥˩.t͡ɕʰy˥˩ tɤ ʂɨ˧˥.jɛn˥˩ ʐɨ˥˩.ʈ͡ʂɨ˥˩, tʰa˥ ʈ͡ʂʊŋ˥.y˧˥ ɕjaŋ˨˩˦ t͡ɕʰi˨˩.laɪ̯ tɑŋ˥.t͡ʂʰu˥ t͡ɕi˥˩.lu˥˩ kwan˥.t͡ɕjɛn˥ t͡sʰan˥.ʂu˥˩ tɤ paʊ̯˨˩.mi˥˩ mi˥˩.ma˨˩˦ lɤ] (Jīng-guò fǎn-fù chá-yuè guò-qù de shí-yàn rì-zhì, tā zhōng-yú xiǎng qǐ-lai dāng-chū jì-lù guān-jiàn cān-shù de bǎo-mì mì-mǎ le.)",
+          "translation": "After repeatedly consulting past laboratory logs, he finally remembered the confidential password used to record key parameters back then."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (18.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "这本中国古代哲学著作虽然读起来略显艰深，但细细品味起来却令人获益匪浅。(Zhè běn Zhōngguó gǔdài zhéxué zhùzuò suīrán dú qǐlai lüè xiǎn jiānshēn, dàn xìxì pǐnwèi qǐlai què lìng rén huòyì-fěiqiǎn.)",
+          "reading": "[ʈ͡ʂɤ˥˩ pən˨˩˦ ʈ͡ʂʊŋ˥.kwɔ˧˥ ku˨˩.taɪ̯˥˩ ʈ͡ʂɤ˧˥.ɕɥɛ˧˥ ʈ͡ʂu˥˩.t͡swoʊ̯˥˩ sweɪ̯˧˥.ʐan˧˥ tu˧˥ t͡ɕʰi˨˩.laɪ̯ lyɛ˥˩ ɕjan˨˩˦ t͡ɕjɛn˥.ʂən˥, tan˥˩ ɕi˥˩.ɕi˥˩ pʰin˨˩.weɪ̯˥˩ t͡ɕʰi˨˩.laɪ̯ t͡ɕʰɥɛ˥˩ liŋ˥˩ ʐən˧˥ xwo˥˩.i˥˩.feɪ̯˨˩.t͡ɕʰjɛn˨˩˦] (Zhè běn Zhōng-guó gǔ-dài zhé-xué zhù-zuò suī-rán dú qǐ-lai lüè xiǎn jiān-shēn, dàn xì-xì pǐn-wèi qǐ-lai què lìng rén huò-yì-fěi-qiǎn.)",
+          "translation": "Although this Chinese ancient philosophical work seems slightly abstruse when reading, savoring it carefully proves to be immensely beneficial."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "起来开始气温升，收拢存藏聚一成；想出检索回忆在，品尝听读评估真！"
+      ],
+      "culturalNotes": [
+        "从物理的向上运动引申至认知、情感与状态的萌发，「起来」展现了汉语隐喻系统的精妙构造，赋予了汉语极强的表达张力。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「结果补语与趋向补语 (Resultative & Directional Complements)」（第3讲）的标准汉语规范？",
+          "prompt": "在句子「会议室里突然热烈讨论起来」中，「起来」充当补语表达的引申义是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「结果补语与趋向补语 (Resultative & Directional Complements)」的核心语法法则与应用范例 (18.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (18.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (18.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (18.3.w3)"
+            "动作或状态的开始并持续进行 (Inception and continuation of action)",
+            "身体从座位上站立起来",
+            "把物品藏起来",
+            "从记忆中回忆提取"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「讨论起来」表示动作由静止转为开始发生并持续进行。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在句子「这篇文言文读起来朗朗上口」中，「读起来」中「起来」表达的引申义是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "从特定角度进行感知、体验与主观评估 (Perceptual evaluation)",
+            "由分散变为集中",
+            "从睡梦中醒来",
+            "物理空间向上位移"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「动词 + 起来 + 形容词」表示在实施该动作时的感知与主观评估。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「结果补语与趋向补语 (Resultative & Directional Complements)」的正式语境下，最准确得体的表达是哪一项？（第18.3题）",
+          "prompt": "要表达「把散落在桌子上的各类实验试剂集中收拢保存」，最贴切的动补搭配是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (18.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (18.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (18.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (18.3.x3)"
+            "整理起来 / 收集起来 (Organize and gather together)",
+            "整理出来",
+            "整理下去",
+            "整理过去"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「动词 + 起来」可表达使事物由分散状态转变为集中收拢状态。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u18-l3）所要求的高阶语言表达？",
+          "prompt": "在句子「我想起来当初保存文档的文件名了」中，「想起来」表达的意思是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (18.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (18.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (18.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (18.3.y3)"
+            "从记忆深处成功检索回忆起已知信息 (Successfully recalled from memory)",
+            "凭空发明创造了一个名字",
+            "正在思考但没有结果",
+            "彻底忘记了"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「想起来」表示记忆中原有信息的成功提取检索。"
         }
       ]
     },
@@ -10764,25 +10772,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「结果补语与趋向补语 (Resultative & Directional Complements)」的掌握程度，请选出表述完全正确的标准范句（测试 18-3）：",
+          "prompt": "请选出下列句子中「起来」引申义运用最地道、句式最典范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (18.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (18.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (18.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (18.3.z3)"
+            "大家把历年积累的宝贵科研经验系统地总结了起来，这项新技术应用起来不仅高效便捷，而且推广起来也极其顺畅。(总结收聚、应用评估、推广评估，三处起来运用极度纯熟)",
+            "大家把经验站起来，技术看起来很起来。(严重错乱误用)",
+            "科研经验被起来在总结。(语法彻底病态)",
+            "经验起来总结技术。(残缺不通)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句精准融合了「总结起来（收拢归纳）」与「应用起来/推广起来（主观评估）」两大高阶引申义。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u18-l3）的核心关键词（例如「结果补语」）：",
+          "prompt": "请输入表达动作开始发生并持续显现的核心两字复合趋向补语（例如热烈讨论「」，拼音为 qǐlai）：",
           "acceptedAnswers": [
-            "结果补语",
-            "结果补语与趋",
-            "结果补语与趋向补语"
+            "起来"
           ],
-          "explanation": "正确的核心关键词为「结果补语」。"
+          "explanation": "词语「起来」是现代汉语中表达动作开始与状态萌发的核心复合趋向补语。"
         }
       ],
       "passThreshold": 0.8
@@ -10793,85 +10799,89 @@
     "subject": "mandarin",
     "unit": 18,
     "lessonNumber": 4,
-    "title": "结果补语与趋向补语 (Resultative & Directional Complements) (第4讲)",
+    "title": "复合趋向补语深层引申义（出来/下去/下来/过来） (Extended Meanings of Chulai, Xiaqu, Xialai & Guolai)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：复合趋向补语（出来/进去/起来/下去）的引申用法与结果补语（见/到/完/好/懂）。 (第4部分)。",
+    "objective": "系统掌握复合趋向补语「出来（从无到有/识别显露）」、「下去（未来延续）」、「下来（历史传承/由动到静）」与「过来（恢复正常）」的高阶抽象引申义体系。",
     "presentation": {
-      "explanation": "",
+      "explanation": "除「起来」外，「出来、下去、下来、过来」在现代汉语中同样承载着极高频的核心抽象引申功能：\n\n一、「出来 (chūlai)」的两大引申义：\n1. 从无到有的创造、研制与实现（【创造产生义】）：\n- 范例说明：研制出来新型药物、想出来一个绝妙方案、写出来一部宏篇巨著、做出来美味佳肴。\n2. 从隐蔽模糊到清晰显露、识别辨别（【识别显露义】）：\n- 范例说明：我听出来他的口音了、专家看出来这幅古画是赝品、查出来系统漏洞了。\n\n二、「下去 (xiàqu)」的引申义（【沿时间轴向未来持续进行】）：\n- 语义机理：动作从现在开始，朝着未来时间轴坚定延续进行（常含坚持克服困难意味）。\n- 范例说明：无论多么艰难都要坚持学下去、请您继续说下去、把这个优良传统传承下去。\n\n三、「下来 (xiàlai)」的两大引申义：\n1. 动作从过去一直延续保留到现在（【历史传承义】）：\n- 范例说明：中华传统美德历经千年流传了下来、老祖宗的技艺完整保存了下来。\n2. 状态由运动转为静止、由剧烈转为平息（【平息固定义】）：\n- 范例说明：激烈的争论慢慢平息了下来、列车缓缓停了下来、天色逐渐暗了下来。\n\n四、「过来 (guòlai)」的引申义（【由反常/危险/昏迷状态恢复到正常状态】）：\n- 范例说明：抢救过来、苏醒过来、明白过来、纠正过来、缓过神来。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「结果补语与趋向补语 (Resultative & Directional Complements)」的核心语法法则与应用范例 (18.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '结果补语与趋向补语 (Resultative & Directional Complements)' in simple terms to students at the academic seminar."
+          "target": "研发团队攻坚克难，只用了半年时间就研制出来了一款具有完全自主知识产权的新型芯片。(Yánfā tuánduì gōngjiān-kènán, zhǐ yòng le bàn nián shíjiān jiù yánzhì chūlai le yì kuǎn jùyǒu wánquán zìzhǔ zhīshi chǎnquán de xīnxíng xīnpiàn.)",
+          "reading": "[jan˧˥.fa˥ tʰwan˧˥.tweɪ̯˥˩ kʊŋ˥.t͡ɕjɛn˥.kʰɤ˥˩.nan˧˥, ʈ͡ʂɨ˨˩˦ jʊŋ˥˩ lɤ pan˥˩ njɛn˧˥ ʂɨ˧˥.t͡ɕjɛn˥ t͡ɕjoʊ̯˥˩ jan˧˥.ʈ͡ʂɨ˥˩ t͡ʂʰu˥.laɪ̯ lɤ i˥ kʰwan˨˩˦ t͡ɕy˥˩.joʊ̯˨˩˦ wan˧˥.t͡ɕʰyɛn˧˥ t͡sɨ˥˩.ʈ͡ʂu˨˩˦ ʈ͡ʂɨ˥.ʂɨ ʈ͡ʂʰan˨˩.t͡ɕʰyɛn˧˥ tɤ ɕin˥.ɕiŋ˧˥ ɕin˥.pʰjɛn˥˩] (Yán-fā tuán-duì gōng-jiān-kè-nán, zhǐ yòng le bàn nián shí-jiān jiù yán-zhì chū-lai le yì kuǎn jù-yǒu wán-quán zì-zhǔ zhī-shi chǎn-quán de xīn-xíng xīn-piàn.)",
+          "translation": "Tackling tough problems and overcoming difficulties, the R&D team spent only half a year to develop a new chip with completely independent intellectual property rights."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (18.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "不管未来的科研道路面临多少重重困难与阻碍，我们都必须坚定不移地坚持走下去。(Bùguǎn wèilái de kēyán dàolù miànlín duōshao chóngchóng kùnnan yǔ zǔ'ài, wǒmen dōu bìxū jiāndìng-bùyí de jiānchí zǒuxiàqu.)",
+          "reading": "[pu˥.kwan˨˩˦ weɪ̯˥˩.laɪ̯˧˥ tɤ kʰɤ˥.jan˧˥ ta˥˩.lu˥˩ mjɛn˥˩.lin˧˥ twɔ˥.ʂaʊ ʈ͡ʂʰʊŋ˧˥.ʈ͡ʂʰʊŋ˧˥ kʰwən˥˩.nan y˨˩˦ t͡su˨˩.aɪ̯˥˩, wɔ˨˩.mən toʊ̯˥ pi˥˩.ɕy˥ t͡ɕjɛn˥.tiŋ˥˩.pu˥.i˧˥ tɤ t͡ɕjɛn˥.ʈ͡ʂʰɨ˧˥ t͡soʊ̯˨˩.ɕja˥˩.t͡ɕʰy] (Bù-guǎn wèi-lái de kē-yán dào-lù miàn-lín duō-shao chóng-chóng kùn-nan yǔ zǔ-'ài, wǒ-men dōu bì-xū jiān-dìng-bù-yí de jiān-chí zǒu-xià-qu.)",
+          "translation": "No matter how many multiple difficulties and obstacles the future path of scientific research faces, we must unswervingly keep walking forward."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (18.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "中华优秀传统文化历经数千年的风霜洗礼，被一代代华夏儿女完整地传承保留了下来。(Zhōnghuá yōuxiù chuántǒng wénhuà lìjīng shù qiān nián de fēngshuāng xǐlǐ, bèi yídàidài Huáxià érnǚ wánzhěng de chuánchéng bǎoliú le xiàlai.)",
+          "reading": "[ʈ͡ʂʊŋ˥.xwa˧˥ joʊ̯˥.ɕjoʊ̯˥˩ t͡ʂʰwan˧˥.tʰʊŋ˧˥ wən˧˥.xwa˥˩ li˥˩.t͡ɕiŋ˥ ʂu˥˩ t͡ɕʰjɛn˥ njɛn˧˥ tɤ fɤŋ˥.ʂwaŋ˥ ɕi˨˩.li˨˩˦, peɪ̯˥˩ i˥.taɪ̯˥˩.taɪ̯˥˩ xwa˧˥.ɕja˥˩ aɚ˧˥.ny˨˩˦ wan˧˥.ʈ͡ʂɤŋ˨˩˦ tɤ t͡ʂʰwan˧˥.ʈ͡ʂʰəŋ˧˥ paʊ̯˨˩.ljoʊ̯˧˥ lɤ ɕja˥˩.laɪ̯] (Zhōng-huá yōu-xiù chuán-tǒng wén-huà lì-jīng shù qiān nián de fēng-shuāng xǐ-lǐ, bèi yí-dài-dài Huá-xià ér-nǚ wán-zhěng de chuán-chéng bǎo-liú le xià-lai.)",
+          "translation": "Fine traditional Chinese culture, having experienced thousands of years of baptism of wind and frost, has been completely inherited and preserved by generations of Chinese sons and daughters."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (18.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "经过医护人员连续数个小时的紧急抢救，重度昏迷的伤员终于苏醒了过来。(Jīngguò yīhù rényuán liánxù shù ge xiǎoshí de jǐnjí qiǎngjiù, zhòngdù hūnmí de shāngyuán zhōngyú sūxǐng le guòlai.)",
+          "reading": "[t͡ɕiŋ˥.kwo˥˩ i˥.xu˥˩ ʐən˧˥.jɥɛn˧˥ ljɛn˧˥.ɕy˥˩ ʂu˥˩ kɤ ɕjaʊ̯˨˩.ʂɨ˧˥ tɤ t͡ɕin˨˩.t͡ɕi˧˥ t͡ɕʰjaŋ˨˩.t͡ɕjoʊ̯˥˩, ʈ͡ʂʊŋ˥˩.tu˥˩ xwen˥.mi˧˥ tɤ ʂɑŋ˥.jɥɛn˧˥ ʈ͡ʂʊŋ˥.y˧˥ su˥.ɕiŋ˨˩˦ lɤ kwo˥˩.laɪ̯] (Jīng-guò yī-hù rén-yuán lián-xù shù ge xiǎo-shí de jǐn-jí qiǎng-jiù, zhòng-dù hūn-mí de shāng-yuán zhōng-yú sū-xǐng le guò-lai.)",
+          "translation": "After several consecutive hours of emergency rescue by medical personnel, the severely comatose wounded person finally regained consciousness."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "出来创新识分明，下去坚持奔前程；下来传承平息静，过来苏醒返春晴！"
+      ],
+      "culturalNotes": [
+        "「下去」与「下来」构成了汉语独特的历史时间双向轴线：从古至今延绵传承用「下来」，由今向后奋勇开拓用「下去」，饱含深邃的华夏历史哲学意蕴。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「结果补语与趋向补语 (Resultative & Directional Complements)」（第4讲）的标准汉语规范？",
+          "prompt": "在表达「科学家克服重重困难，成功发明创新出一款新型软件」时，最准确的复合趋向补语是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「结果补语与趋向补语 (Resultative & Directional Complements)」的核心语法法则与应用范例 (18.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (18.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (18.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (18.4.w3)"
+            "研发出来 / 创造出来 (Creation from nothing to existence: 出来)",
+            "研发下去",
+            "研发下来",
+            "研发过来"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「出来」表示动作使事物从无到有产生与实现。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在表达「无论多么艰难，我们都必须把这项伟大的事业坚定进行到底」时，最准确的趋向补语是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "坚持下去 / 进行下去 (Continuation into the future: 下去)",
+            "坚持出来",
+            "坚持过来",
+            "坚持起来"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「下去」表示动作顺应时间轴向未来继续坚持进行。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「结果补语与趋向补语 (Resultative & Directional Complements)」的正式语境下，最准确得体的表达是哪一项？（第18.4题）",
+          "prompt": "表达一项古代文化技艺从历史源头一直完好保存传承到现在，最精准的表达是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (18.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (18.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (18.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (18.4.x3)"
+            "流传下来 / 传承下来 (Preserved from the past to the present: 下来)",
+            "流传下去 (Looking towards future)",
+            "流传出来",
+            "流传过来"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「下来」表示动作或状态从过去一直延续保留至当下。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u18-l4）所要求的高阶语言表达？",
+          "prompt": "在句子「昏迷的病人终于慢慢醒过来了」中，「过来」表达的深层引申义是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (18.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (18.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (18.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (18.4.y3)"
+            "从昏迷/不正常状态恢复到清醒正常状态 (Recovery to normal state: 过来)",
+            "身体从远处走到了近处",
+            "开始说话",
+            "记忆被提取"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「动词 + 过来」表示由反常、危险、昏迷等非正常状态恢复至正常状态。"
         }
       ]
     },
@@ -10879,25 +10889,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「结果补语与趋向补语 (Resultative & Directional Complements)」的掌握程度，请选出表述完全正确的标准范句（测试 18-4）：",
+          "prompt": "请选出下列句子中趋向补语引申义运用最精准、历史与科技内涵最丰富的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (18.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (18.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (18.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (18.4.z3)"
+            "这门古老的非遗手艺历经沧桑被完整保留了下来；如今青年传承人又研制出来了现代文创新产品，并决心将这份匠心精神代代坚持传下去。(下来传承、出来创新、下去发扬，三大趋向引申义交相辉映)",
+            "手艺保留下去，产品做出来下来，传过来。(趋向引申义完全用反错乱)",
+            "手艺被出来在保留，产品研制下去。(语病严重结构崩溃)",
+            "大家下来把产品做出来过去。(语法完全混乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句在「保留下来（自古及今）」、「研制出来（从无到有）」与「传下去（由今及后）」的配合上达到了汉语艺术运用的最高水准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u18-l4）的核心关键词（例如「结果补语」）：",
+          "prompt": "请输入表达动作朝着未来时间轴继续坚持进行的核心两字复合趋向补语（例如坚持走「」，拼音为 xiàqu）：",
           "acceptedAnswers": [
-            "结果补语",
-            "结果补语与趋",
-            "结果补语与趋向补语"
+            "下去"
           ],
-          "explanation": "正确的核心关键词为「结果补语」。"
+          "explanation": "词语「下去」是现代汉语中指称动作向未来持续推进的核心复合趋向补语。"
         }
       ],
       "passThreshold": 0.8
@@ -10908,85 +10916,89 @@
     "subject": "mandarin",
     "unit": 18,
     "lessonNumber": 5,
-    "title": "结果补语与趋向补语 (Resultative & Directional Complements) (第5讲)",
+    "title": "科学攻坚、文化传承与历史奋进动补系统综合叙事篇章 (Comprehensive Scientific Breakthrough, Cultural Heritage & Complement Narrative)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：复合趋向补语（出来/进去/起来/下去）的引申用法与结果补语（见/到/完/好/懂）。 (第5部分)。",
+    "objective": "融会贯通结果补语（好/完/成/懂/对/错）与复合趋向补语全套空间与引申义系统（起来/出来/下去/下来/过来），独立撰写逻辑周密、文采斐然的时代攻坚与文化传承综合叙事语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "将结果补语（效能达成）与趋向补语（时空位移与深层隐喻引申）深度融合于宏大叙事中，是现代汉语书面语叙事能力的集大成者：\n\n一、时代攻坚、文化传承与历史奋进叙事脉络：\n1. 历史文化传承坚守（下来）：数千年的文明薪火历经风霜洗礼完整流传了下来，古代先贤的深邃智慧被完整记录在了典籍之中。\n2. 潜心静气科研攻坚（静下来/钻研出来）：科研团队静下心来协同攻坚，终于研制出来了一批打破垄断的自主硬核成果。\n3. 凝聚合力与持续推进（起来/下去）：全体华夏儿女紧密团结起来，不论面对多少险阻都必将坚定不移地坚持干下去！\n4. 结果圆满与时代升华（做好/办成/响彻起来）：当所有重大任务全部圆满完成，科技强国的美好蓝图成功转化为了壮丽现实，欢呼声在神州大地响彻起来！\n\n二、全景式时代攻坚与文化传承综合纪实范文赏析：\n- 翻开厚重的中华文明史册，无数璀璨的文化瑰宝历经数千年的风霜洗礼，被一代代华夏儿女完整地传承保留了下来。先贤们留在青铜竹简上的文字，我们今天依然能够清晰地看懂弄通；那些源远流长的古代哲学精髓，细细品味起来依然令人获益匪浅。立足崭新的时代起点，面对国际前沿的卡脖子技术难题，青年科学家团队迅速静下心来，把所有分散的科研力量紧密组织团结了起来。大家攻坚克难，只用了数年时间就自主研制出来了一套具有国际领先水平的智能系统，把曾经写错走偏的算法路径彻底纠正了过来。实践证明，只要我们把严谨务实的科学态度保持下去，把每一项重大战略任务都切实做好办成，科技强国与民族复兴的宏伟蓝图就必将一步步变为辉煌的现实！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「结果补语与趋向补语 (Resultative & Directional Complements)」的核心语法法则与应用范例 (18.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '结果补语与趋向补语 (Resultative & Directional Complements)' in simple terms to students at the academic seminar."
+          "target": "青年科学家团队静下心来潜心攻坚，终于研制出来了一套打破国际技术垄断的尖端算法系统。(Qīngnián kēxuéjiā tuánduì jìng xià xīn lai qiánxīn gōngjiān, zhōngyú yánzhì chūlai le yí tào dǎpò guójì jìshù lǒngduàn de jiānduān suànfǎ xìtǒng.)",
+          "reading": "[t͡ɕʰiŋ˥.njɛn˧˥ kʰɤ˥.ɕɥɛ˧˥.t͡ɕja˥ tʰwan˧˥.tweɪ̯˥˩ t͡ɕiŋ˥˩ ɕja˥˩ ɕin˥ laɪ̯ t͡ɕʰjɛn˧˥.ɕin˥ kʊŋ˥.t͡ɕjɛn˥, ʈ͡ʂʊŋ˥.y˧˥ jan˧˥.ʈ͡ʂɨ˥˩ t͡ʂʰu˥.laɪ̯ lɤ i˥ tʰaʊ̯˥˩ ta˨˩˦.pʰwɔ˥˩ kwo˧˥.t͡ɕi˥˩ t͡ɕi˥˩.ʂu˥˩ lʊŋ˨˩.twan˥˩ tɤ t͡ɕjɛn˥.twan˥ swan˥˩.fa˨˩˦ ɕi˥˩.tʰʊŋ˨˩˦] (Qīng-nián kē-xué-jiā tuán-duì jìng xià xīn lai qián-xīn gōng-jiān, zhōng-yú yán-zhì chū-lai le yí tào dǎ-pò guó-jì jì-shù lǒng-duàn de jiān-duān suàn-fǎ xì-tǒng.)",
+          "translation": "The young scientists' team calmed their minds to tackle key problems devotedly, finally developing a cutting-edge algorithm system that broke international technological monopolies."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (18.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "这一古老珍贵的非物质文化遗产手工艺，经过历代民间工匠的悉心坚守，完整地流传了下来。(Zhè yí gǔlǎo zhēnguì de fēiwùzhì wénhuà yíchǎn shǒugōngyì, jīngguò lìdài mínjiān gōngjiàng de xīxīn jiānshǒu, wánzhěng de liúchuán le xiàlai.)",
+          "reading": "[ʈ͡ʂɤ˥˩ i˥ ku˨˩.laʊ̯˨˩˦ ʈ͡ʂəŋ˥.kweɪ̯˥˩ tɤ feɪ̯˥.u˥˩.ʈ͡ʂɨ˥˩ wən˧˥.xwa˥˩ i˧˥.t͡ɕʰan˨˩˦ ʂoʊ̯˨˩.kʊŋ˥.i˥˩, t͡ɕiŋ˥.kwo˥˩ li˥˩.taɪ̯˥˩ min˧˥.t͡ɕjɛn˥ kʊŋ˥.t͡ɕjaŋ˥˩ tɤ ɕi˥.ɕin˥ t͡ɕjɛn˥.ʂoʊ̯˨˩˦, wan˧˥.ʈ͡ʂɤŋ˨˩˦ tɤ ljoʊ̯˧˥.t͡ʂʰwan˧˥ lɤ ɕja˥˩.laɪ̯] (Zhè yí gǔ-lǎo zhēn-guì de fēi-wù-zhì wén-huà yí-chǎn shǒu-gōng-yì, jīng-guò lì-dài mín-jiān gōng-jiàng de xī-xīn jiān-shǒu, wán-zhěng de liú-chuán le xià-lai.)",
+          "translation": "This ancient and precious intangible cultural heritage handicraft, through the dedicated perseverance of folk craftsmen across generations, has been passed down completely."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (18.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "无论前路面对多么严峻复杂的困难挑战，只要我们团结起来、坚持干下去，就一定能把宏伟蓝图变为现实。(Wúlùn qiánlù miànduì duōme yánjùn fùzá de kùnnan tiǎozhàn, zhǐyào wǒmen tuánjié qǐlai, jiānchí gàn xiàqu, jiù yídìng néng bǎ hóngwěi lántú biànwéi xiànshí.)",
+          "reading": "[u˧˥.lwən˥˩ t͡ɕʰjɛn˧˥.lu˥˩ mjɛn˥˩.tweɪ̯˥˩ twɔ˥.mɤ jan˧˥.t͡ɕyn˥˩ fu˥˩.t͡sa˧˥ tɤ kʰwən˥˩.nan tʰjaʊ̯˨˩.ʈ͡ʂan˥˩, ʈ͡ʂɨ˨˩˦.jaʊ̯˥˩ wɔ˨˩.mən tʰwan˧˥.t͡ɕjɛ˧˥ t͡ɕʰi˨˩.laɪ̯, t͡ɕjɛn˥.ʈ͡ʂʰɨ˧˥ kan˥˩ ɕja˥˩.t͡ɕʰy, t͡ɕjoʊ̯˥˩ i˧˥.tiŋ˥˩ nɤŋ˧˥ pa˨˩˦ xʊŋ˧˥.weɪ̯˨˩˦ lan˧˥.tʰu˧˥ pjɛn˥˩.weɪ̯˧˥ ɕjɛn˥˩.ʂɨ˧˥] (Wú-lùn qián-lù miàn-duì duō-me yán-jùn fù-zá de kùn-nan tiǎo-zhàn, zhǐ-yào wǒ-men tuán-jié qǐ-lai, jiān-chí gàn xià-qu, jiù yí-dìng néng bǎ hóng-wěi lán-tú biàn-wéi xiàn-shí.)",
+          "translation": "No matter how severe and complex the difficulties and challenges the road ahead faces, as long as we unite together and persist in working forward, we can definitely turn the grand blueprint into reality."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (18.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "当所有繁重的数据核验工作全部处理完毕，大家紧张的心情才终于慢慢放松了下来，热烈的欢呼声在大厅内响彻起来。(Dāng suǒyǒu fánzhòng de shùjù héyàn gōngzuò quánbù chǔlǐ wánbì, dàjiā jǐnzhāng de xīnqíng cái zhōngyú mànman fàngsōng le xiàlai, rèlìe de huānhū shēng zài dàtīng nèi xiǎngchè qǐlai.)",
+          "reading": "[tɑŋ˥ swɔ˨˩.joʊ̯˨˩˦ fan˧˥.ʈ͡ʂʊŋ˥˩ tɤ ʂu˥˩.t͡ɕy˥˩ xɤ˧˥.jɛn˥˩ kʊŋ˥.t͡swoʊ̯˥˩ t͡ɕʰyɛn˧˥.pu˥˩ ʈ͡ʂʰu˨˩.li˨˩˦ wan˧˥.pi˥˩, ta˥˩.t͡ɕja˥ t͡ɕin˨˩.ʈ͡ʂɑŋ˥ tɤ ɕin˥.t͡ɕʰiŋ˧˥ t͡sʰaɪ̯˧˥ ʈ͡ʂʊŋ˥.y˧˥ man˥˩.man fɑŋ˥˩.sʊŋ˥ lɤ ɕja˥˩.laɪ̯, ʐɤ˥˩.ljɛ˥˩ tɤ xwan˥.xu˥ ʂəŋ˥ t͡saɪ̯˥˩ ta˥˩.tʰiŋ˥ neɪ̯˥˩ ɕjaŋ˨˩.ʈ͡ʂʰɤ˥˩ t͡ɕʰi˨˩.laɪ̯] (Dāng suǒ-yǒu fán-zhòng de shù-jù hé-yàn gōng-zuò quán-bù chǔ-lǐ wán-bì, dà-jiā jǐn-zhāng de xīn-qíng cái zhōng-yú màn-man fàng-sōng le xià-lai, rè-liè de huān-hū shēng zài dà-tīng nèi xiǎng-chè qǐ-lai.)",
+          "translation": "When all the heavy data verification work was completely finished, everyone's tense mood finally slowly relaxed, and warm cheers resounded throughout the hall."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "研制出来创伟业，流传下来守家邦；团结起来坚持去，蓝图绘成铸辉煌！"
+      ],
+      "culturalNotes": [
+        "现代汉语动补系统融汇了时空位移、状态演进与意志决心。在叙述中华民族薪火相传、科技强国与时代奋斗的篇章中，精准的动补搭配能产生极其壮美的崇高美感。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「结果补语与趋向补语 (Resultative & Directional Complements)」（第5讲）的标准汉语规范？",
+          "prompt": "在时代奋斗综合语篇中，串联「流传下来 -> 研制出来 -> 团结起来 -> 坚持干下去 -> 做好办成」的动补系统功能是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「结果补语与趋向补语 (Resultative & Directional Complements)」的核心语法法则与应用范例 (18.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (18.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (18.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (18.5.w3)"
+            "历史传承（下来） -> 成果创新（出来） -> 凝聚合力（起来） -> 持续奋斗（下去） -> 效能达成（好/成） (Comprehensive complement progression)",
+            "全部表示身体在跑来跑去",
+            "全部是没有意义的虚词",
+            "只用单纯的动词没有任何补语"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "叙事篇章严格融合历史传承、科技创新、集体凝聚、未来奋斗与成果达成全套动补体系。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "语篇中「热烈的欢呼声在大厅内响彻起来」中的「响彻」意思是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "声音极其响亮、回荡贯穿整个空间 (Resound loudly throughout space)",
+            "声音非常微弱听不见",
+            "没有发出任何声音",
+            "悄悄说悄悄话"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「响彻」是形容声音宏亮昂扬、贯穿回荡于空间之中的典雅词汇。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「结果补语与趋向补语 (Resultative & Directional Complements)」的正式语境下，最准确得体的表达是哪一项？（第18.5题）",
+          "prompt": "请选出下列时代科技与文化综合叙事中动补结构运用最丰富自然、文采最斐然的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (18.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (18.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (18.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (18.5.x3)"
+            "我们把优良传统传承了下来，研制出来了前沿技术，只要紧密团结起来、坚持干下去，就一定能把宏伟蓝图做成功！(下来、出来、起来、下去、成功，动补体系浑然一体)",
+            "我们把传统做了，技术做了，大家干，蓝图做。(语言极度贫乏粗陋)",
+            "传统下来被研制，技术干下去起来。(语序严重颠倒错乱)",
+            "宏伟蓝图做成功被大家起来。(句式彻底崩溃)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项在传承、创新、凝聚、奋进与达成的动补搭配上达到了汉语文学写作的巅峰境界。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u18-l5）所要求的高阶语言表达？",
+          "prompt": "在宏观篇章中表达各方力量紧密联系、结成坚不可摧的整体，最核心的动补短语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (18.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (18.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (18.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (18.5.y3)"
+            "团结起来 / 组织起来 (Unite and organize together)",
+            "团结下去",
+            "团结出来",
+            "团结过去"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「团结起来」是表达力量凝聚与紧密结合的经典动补组合。"
         }
       ]
     },
@@ -10994,25 +11006,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「结果补语与趋向补语 (Resultative & Directional Complements)」的掌握程度，请选出表述完全正确的标准范句（测试 18-5）：",
+          "prompt": "请选出下列科学攻坚与历史奋进综合叙事语篇中动补结构最严谨、文采最斐然、思想境界最高远的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (18.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (18.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (18.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (18.5.z3)"
+            "纵观华夏文明史，古老先贤的科学智慧历经千年流传了下来；面对当今世界科技竞争，青年科研团队潜心攻坚，成功研制出来了一批重大原创成果。只要全体中华儿女团结起来、坚持奋斗下去，就必将把科技强国的宏伟蓝图一步步转化成现实伟业！(全篇动补结构行云流水，气势磅礴，文理兼备)",
+            "以前的东西留着，现在做新东西，大家一起做，以后也做。(语言极度浅陋贫瘪)",
+            "成果研制在下来，大家奋斗出来，蓝图成功。(语病严重逻辑混乱)",
+            "文明流传下去在古代，青年科学家起来。(语法完全崩溃)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在结果与趋向动补系统的多维交融、思想立意的高度与词章文采上均达到了现代汉语的最高境界。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u18-l5）的核心关键词（例如「结果补语」）：",
+          "prompt": "请输入表达各方力量凝聚为紧密整体的核心两字动词（例如「」起来，拼音为 tuánjié）：",
           "acceptedAnswers": [
-            "结果补语",
-            "结果补语与趋",
-            "结果补语与趋向补语"
+            "团结",
+            "团结起来",
+            "组织"
           ],
-          "explanation": "正确的核心关键词为「结果补语」。"
+          "explanation": "词语「团结」是现代汉语中指称凝聚一心、共同奋斗的核心动词。"
         }
       ],
       "passThreshold": 0.8
