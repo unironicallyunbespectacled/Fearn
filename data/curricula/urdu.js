@@ -12785,53 +12785,62 @@
     "subject": "urdu",
     "unit": 31,
     "lessonNumber": 1,
-    "title": "جنوبی ایشیائی جغرافیائی سیاست اور خارجہ پالیسی (Geopolitics) (Part 1)",
+    "title": "وجودیت، وحدت الوجود اور وحدت الشہود (Metaphysics: Wahdat-ul-Wujood & Shahood)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 31.1) with authentic precision.",
+    "objective": "مابعد الطبیعیات، ابنِ عربی کے نظریہ وحدت الوجود، مجدد الف ثانی کے نظریہ وحدت الشہود، اور فنا و بقا کے صوفیانہ و فلسفیانہ بیانیے پر کامل مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں تصوف اور مابعد الطبیعیات کے عمیق مباحث (Sufi Metaphysics & Ontology):\n\n1. **وجود اور کائنات کے صوفیانہ نظریات**:\n   - «**وحدت الوجود (Ontological Monism)**»: شیخ اکبر محی الدین ابنِ عربی کا نظریہ کہ کائنات کا حقیقی وجود صرف ذاتِ باری تعالیٰ ہے؛\n   - «**وحدت الشہود (Phenomenological Monism)**»: حضرت مجدد الف ثانی کا نظریہ کہ کائنات ذاتِ حق کا ظہور ہے لیکن خالق و مخلوق میں ازلی امتیاز باقی رہتا ہے۔\n\n2. **منازلِ سلوک اور باطنی ارتقا**:\n   - «**تزکیۂ نفس اور مجاہدہ**»؛\n   - «**فنا فی اللہ (Ego-dissolution)** اور **بقا باللہ (Eternal Subsistence in the Divine)**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ابنِ عربی کے فلسفۂ وحدت الوجود کے مطابق کائنات کا ہر ذرہ اور مظہر ذاتِ حق کی تجلیات کا آئینہ دار ہے جس کے سوا کوئی حقیقی وجود نہیں۔",
+          "reading": "Ibn-e-Arabi ke falsafa-e-wahdat-ul-wujood ke mutaabiq kaainaat ka har zarra aur mazhar zaat-e-haq ki tajalliyaat ka aa'ina-daar hai jis ke siwa koi haqeeqi wujood naheen. [ɪbn-eː-ərəbiː keː fəlsəfaː-eː-ʋəhd̪ət̪-ʊl-ʋʊdʒuːd̪ keː mʊt̪aːbɪq kaːʔɪnaːt̪ kaː hər zərːaː ɔːr məzɦər zaːt̪-eː-həq kiː t̪ədʒəlːɪjaːt̪ kaː aːʔiːnaː-d̪aːr hɛː dʒɪs keː sɪʋaː koːʔiː həqiːqiː ʋʊdʒuːd̪ nəhĩː] (eebn-ay-uh-ruh-BEE kay fuhl-suh-fah-ay-wuhh-DUHT-ool-woo-JOOD kay moo-tah-BEEQ kah-ee-NAHT kah HUHR zuhr-RAH owr MUHZ-huhr ZAH-t-ay-HUHQ kee tuh-juhl-lee-YAHT kah ah-ee-nah-DAHR HY JEES kay see-WAH koh-EE huh-qee-QEE woo-JOOD nuh-HEEN)",
+          "translation": "According to Ibn Arabi's philosophy of Wahdat-ul-Wujood (Unity of Being) [metaphysics: wahdat-ul-wujood], every particle and phenomenon in the cosmos reflects the divine manifestations, beside which no true existence exists."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 31-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "حضرت مجدد الف ثانی نے وحدت الشہود کا عقیدہ پیش کر کے خالق اور مخلوق کے مابین ازلی امتیاز اور شریعت و طریقت کی ہم آہنگی کو ثابت کیا۔",
+          "reading": "Hazrat Mujaddid Alf-e-Saani ne wahdat-ush-shahood ka aqeeda peish kar ke khaaliq aur makhlooq ke maabain azali imtiyaaz aur sharee'at o tareeqat ki hum-aahangi ko saabit kiya. [həzrət̪ mʊdʒəd̪ːɪd̪ əlf-eː-saːniː neː ʋəhd̪ət̪-ʊʃ-ʃʊhuːd̪ kaː əqiːd̪aː peːʃ kər keː xaːlɪq ɔːr məxluːq keː maːbɛːn əzəliː ɪmt̪ɪjaːz ɔːr ʃəriːʔət̪ oː t̪əriːqət̪ kiː həm-aːɦəŋɡiː koː saːbɪt̪ kɪjaː] (huhz-RUHT moo-juhd-DEED uhlf-ay-SAH-nee nay wuhh-DUHT-oosh-shoo-HOOD kah uh-qee-DAH paysh kuhr kay KHAH-leeq owr muhkh-LOOQ kay mah-BYN uh-zuh-LEE eem-tee-YAHZ owr shuh-ree-UHT oh tuh-ree-QUHT kee huhm-ah-huhn-GEE koh sah-BEET kee-YAH)",
+          "translation": "Hazrat Mujaddid Alf-e-Sani articulated the doctrine of Wahdat-ush-Shahood (Unity of Witness) [theology: wahdat-ush-shahood], establishing the eternal ontological distinction between Creator and creation and harmonizing Sharia with mystical Tariqa."
+        },
+        {
+          "target": "تصوف کی راہ میں سالک تزکیۂ نفس اور مجاہدے کے ذریعے فنا فی اللہ کے مقام سے گزر کر بقا باللہ کے جاودانی مرتبے پر فائز ہوتا ہے۔",
+          "reading": "Tasawwuf ki raah mein saalik tazkiya-e-nafs aur mujaahidat ke zariye fana-fillah ke maqaam se guzar kar baqa-billaah ke jaawadaani martabay par faa'iz hota hai. [t̪əsəʋːʊf kiː raːh mẽː saːlɪk t̪əzkɪjaː-eː-nəfs ɔːr mʊdʒaːhɪd̪aːt̪ keː zərɪjeː fənaː-fɪlːaːh keː məqaːm seː ɡʊzər kər bəqaː-bɪlːaːh keː dʒaːʋəd̪aːniː mərt̪əbeː pər faːʔɪz hoːt̪aː hɛː] (tuh-suhv-WOOF kee RAH mayn SAH-leek tuhz-kee-yah-ay-NUHFS owr moo-jah-hee-DAHT kay zuh-ree-YAY fuh-NAH-feel-LAH kay muh-QAHM say goo-ZUHR kuhr buh-QAH-beel-LAH kay jah-wuh-dah-NEE muhr-tuh-BAY puhr FAH-eez hoh-TAH HY)",
+          "translation": "On the path of Sufism, the spiritual seeker [mystic: saalik] transcends the stage of annihilation in God (Fana-fillah) through soul purification and reaches the eternal rank of subsistence in God (Baqa-billaah)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "صوفیانہ مابعد الطبیعیات: وحدت الوجود (ابنِ عربی) + وحدت الشہود (مجدد الف ثانی) + تزکیۂ نفس + فنا و بقا!"
+      ],
+      "culturalNotes": [
+        "برصغیر پاک و ہند کے صوفیائے کرام جیسے داتا گنج بخش، بابا فرید اور شاہ عبداللطیف بھٹائی نے وحدت اور محبت کے پیغام کو مقامی ثقافت کا دل بنا دیا۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"بینک\":",
+          "prompt": "شیخ اکبر ابنِ عربی کے اس مشہور فلسفے کو کیا کہتے ہیں جس کے مطابق کائنات کا واحد حقیقی وجود صرف ذاتِ حق ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («کھاتہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («قرض» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سود» کی خرابی)"
+            "وحدت الوجود (Wahdat-ul-Wujood - Ontological monism / Unity of Being by Ibn Arabi)",
+            "مادہ پرستی",
+            "خام عقلیت پسندی",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "ابنِ عربی کے نظریۂ وجود کو «وحدت الوجود» (Unity of Being) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"بینک\":",
+          "prompt": "صوفیانہ سلوک میں نفسانی خواہشات کے خاتمے اور ذاتِ حق میں گم ہو جانے کی کیفیت کو کیا کہا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («قرض» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سود» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کھاتہ» کا غیر درست استعمال)"
+            "فنا فی اللہ / فنا (Fana-fillah - Mystical annihilation of ego in the Divine)",
+            "صرف دنیاوی نیند",
+            "صرف بھوک لگنا",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "انا اور نفس کی تحلیل کو تصوف میں «فنا فی اللہ» (Fana) کہتے ہیں۔"
         }
       ]
     },
@@ -12839,17 +12848,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"بینک\": Which sentence is completely correct?",
+          "prompt": "تصوف اور مابعد الطبیعیات (Sufi Metaphysics & Ontology) کا عمیق و فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سود» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کھاتہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («قرض» سے متعلق)"
+            "ابنِ عربی کے فلسفۂ وحدت الوجود اور مجدد الف ثانی کے نظریہ وحدت الشہود نے مابعد الطبیعیات، فنا و بقا اور روحانی سلوک کو اسلامی فکر کا تابندہ نگینہ بنا دیا۔ (Ibn Arabi's Wahdat-ul-Wujood and Mujaddid's Wahdat-ush-Shahood made metaphysics and mystical ascension luminous jewels of Islamic thought.)",
+            "تصوف نے کڑاہی میں حلوہ پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
+            "وحدت الوجود کا مطلب صرف بازار سے سودا سلف لانا ہے۔",
+            "مابعد الطبیعیات کا فلسفے سے کوئی تعلق نہیں ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ابنِ عربی کے فلسفۂ وحدت الوجود اور مجدد الف ثانی کے نظریہ وحدت الشہود نے مابعد الطبیعیات، فنا و بقا اور روحانی سلوک کو اسلامی فکر کا تابندہ نگینہ بنا دیا۔» مابعد الطبیعیات کا شاہکار جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u31-l2": {
@@ -12857,53 +12867,62 @@
     "subject": "urdu",
     "unit": 31,
     "lessonNumber": 2,
-    "title": "جنوبی ایشیائی جغرافیائی سیاست اور خارجہ پالیسی (Geopolitics) (Part 2)",
+    "title": "علامہ اقبال کا فلسفۂ خودی، عشق اور مردِ مومن (Iqbal's Philosophy of Khudi & Mard-e-Momin)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 31.2) with authentic precision.",
+    "objective": "علامہ اقبال کے فلسفۂ خودی، عقل و عشق کے موازنے، تصورِ مردِ مومن / انسانِ کامل، اور تشکیلِ جدید الہیاتِ اسلامیہ پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں علامہ اقبال کا انقلابی فلسفۂ خودی اور الہیات (Iqbalian Philosophy):\n\n1. **فلسفۂ خودی اور اثباتِ ذات**:\n   - «**خودی (Selfhood / Individuation)**»: خود شناسی، خود داری، اور تربیتِ ذات؛\n   - «خودی کو کر بلند اتنا کہ ہر تقدیر سے پہلے، خدا بندے سے خود پوچھے بتا تیری رضا کیا ہے»۔\n\n2. **عقل بمقابلہ عشق اور مردِ مومن**:\n   - «**عقل (Intellect)**: مصلحت اندیش اور محتاط؛ **عشق (Intuitive Love)**: بے باک، تخلیقی اور انقلابی»；\n   - «**مردِ مومن (The Perfect Man)**: تسخیرِ کائنات اور نیابتِ الٰہی کا پیکر»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "علامہ اقبال کے نزدیک خودی کی تربیت اور اس کا استحکام ہی انسان کو کائنات کی تسخیر اور نیابتِ الٰہی کے اعلیٰ ترین مقام پر پہنچاتا ہے۔",
+          "reading": "Allama Iqbal ke nazdeek khudi ki tarbiyat aur is ka istehkaam hi insaan ko kaainaat ki taskheer aur niyaabat-e-ilaahi ke a'la-tareen maqaam par pohanchaata hai. [əlːaːmaː ɪqbaːl keː nəzdiːk xʊd̪iː kiː t̪ərbɪjət̪ ɔːr ɪs kaː ɪst̪ɛhkaːm hiː ɪnsaːn koː kaːʔɪnaːt̪ kiː t̪əsxiːr ɔːr nɪjaːbət̪-eː-ɪlaːhiː keː aːʔlaː-t̪əriːn məqaːm pər pʊɦəntʃaːt̪aː hɛː] (uhl-LAH-mah eeq-BAHL kay nuhz-DEEK khoo-DEE kee tuhr-bee-YUHT owr ees kah ees-tyh-KAHM HEE een-SAHN koh kah-ee-NAHT kee tuhs-KHEER owr nee-yah-BUHT-ay-ee-lah-HEE kay AHH-lah-tuh-REEN muh-QAHM puhr poh-huhn-chah-TAH HY)",
+          "translation": "According to Allama Iqbal, the cultivation and consolidation of Khudi (Selfhood) [Iqbalian thought: falsafa-e-khudi] elevates human beings to conquering the cosmos and achieving the supreme rank of Divine Vicegerency."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 31-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اقبال نے 'تشکیلِ جدید الہیاتِ اسلامیہ' کے خطبات میں اسلامی الہیات کو جدید سائنسی اور فلسفیانہ اصولوں کی روشنی میں از سرِ نو مرتب کیا۔",
+          "reading": "Iqbal ne 'Tashkeel-e-Jadeed Ilaahiyaat-e-Islaamiya' ke khutbaat mein Islaami ilaahiyaat ko jadeed saainsi aur falsafiyaana usoolon ki roshni mein az-sar-e-now murattab kiya. [ɪqbaːl neː t̪əʃkiːl-eː-dʒəd̪iːd̪ ɪlaːhɪjaːt̪-eː-ɪslaːmɪjaː keː xʊt̪baːt̪ mẽː ɪslaːmiː ɪlaːhɪjaːt̪ koː dʒəd̪iːd̪ saːʔɪnsiː ɔːr fəlsəfɪjaːnaː ʊsuːlõː kiː roːʃniː mẽː əz-sər-eː-nɔː mʊrət̪ːəb kɪjaː] (eeq-BAHL nay tuhsh-KEEL-ay-juh-DEED ee-lah-hee-YAHT-ay-ees-lah-mee-YAH kay khoot-BAHT mayn ees-lah-MEE ee-lah-hee-YAHT koh juh-DEED sah-een-SEE owr fuhl-suh-fee-YAH-nah oo-SOO-lohn kee rosh-NEE mayn uhz-suhr-ay-NOW moo-ruht-TUHB kee-YAH)",
+          "translation": "In his lectures on 'The Reconstruction of Religious Thought in Islam', Iqbal re-articulated Islamic theology in the light of modern scientific and philosophical principles."
+        },
+        {
+          "target": "عقل انسان کو مصلحت اندیشی سکھاتی ہے جبکہ عشقِ صادق اسے ناممکنات کو ممکن بنانے اور قربانی کے بے پایاں جذبے سے سرشار کرتا ہے۔",
+          "reading": "Aql insaan ko maslahat-andeishi sikhaati hai jabkeh ishq-e-saadiq usay naa-mumkinaat ko mumkin banaane aur qurbaani ke bay-payaan jazbay se sarshaar karta hai. [əql ɪnsaːn koː məsləhət̪-ənd̪eːʃiː sɪkʰaːt̪iː hɛː dʒəbkɛh ɪʃq-eː-saːd̪ɪq ʊseː naː-mʊmkɪnaːt̪ koː mʊmkɪn bənaːneː ɔːr qʊrbaːniː keː beː-paːjaː̃ dʒəzbeː seː sərʃaːr kərt̪aː hɛː] (UHQL een-SAHN koh muhs-luh-huht-uhn-DAY-shee see-khah-TEE HY juhb-KYH EESHQ-ay-sah-DEEQ oo-SAY nah-moom-kee-NAHT koh MOOM-keen buh-nah-NAY owr qoor-bah-NEE kay bay-pah-YAHN juhz-BAY say suhr-SHAHR kuhr-TAH HY)",
+          "translation": "Intellect teaches human prudence and calculation, whereas true intuitive Love (Ishq) inspires human beings to make the impossible possible and imbues them with boundless spirit of sacrifice."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فکرِ اقبال: فلسفۂ خودی (استحکامِ ذات) + عقل بمقابلہ عشق + مردِ مومن + تشکیلِ جدید الہیات!"
+      ],
+      "culturalNotes": [
+        "علامہ اقبال کو شاعرِ مشرق اور مفکرِ پاکستان مانا جاتا ہے جن کے فلسفے نے ملتِ اسلامیہ کو غلامی کی زنجیریں توڑنے کا ولولہ عطا کیا۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"کھاتہ\":",
+          "prompt": "علامہ اقبال کے اس بنیادی فلسفیانہ نظریے کو کیا کہتے ہیں جو خود شناسی اور خود انحصاری کا درس دیتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («قرض» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سود» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ٹیکس» کی خرابی)"
+            "فلسفۂ خودی (Philosophy of Khudi / Selfhood - Iqbalian concept of spiritual self-realization)",
+            "صرف کاہلی",
+            "صرف تقدیر پرستی",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "علامہ اقبال کے بنیادی فکری نظریے کو «فلسفۂ خودی» (Selfhood) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"کھاتہ\":",
+          "prompt": "علامہ اقبال کے نزدیک عقل کی محتاط مصلحت پسندی کے مقابلے میں کون سا باطنی جذبہ انقلابی تخلیقی قوت رکھتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سود» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ٹیکس» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («قرض» کا غیر درست استعمال)"
+            "عشق / عشقِ حقیقی (Ishq - Intuitive, passionate spiritual dynamic and revolutionary love)",
+            "صرف کاغذی حساب کتاب",
+            "صرف سستی",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "اقبال کے ہاں عقل سے برتر تخلیقی قوت کو «عشق» کہا جاتا ہے۔"
         }
       ]
     },
@@ -12911,17 +12930,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"کھاتہ\": Which sentence is completely correct?",
+          "prompt": "علامہ اقبال کے فلسفۂ خودی اور الہیات (Iqbal's Philosophy of Khudi) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ٹیکس» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («قرض» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سود» سے متعلق)"
+            "علامہ اقبال کا فلسفۂ خودی، عقل و عشق کا تخلیقی امتزاج اور مردِ مومن کا تصور انسان کو کائنات کی تسخیر اور اخلاقی بلندیوں کا روشن راستہ دکھاتا ہے۔ (Iqbal's philosophy of Khudi, synthesis of reason and love, and concept of Mard-e-Momin illuminate cosmic conquest and moral excellence.)",
+            "اقبال نے خودی کو پلیٹ میں رکھ کر گاڑی روئی تھی اور چائے پی تھی۔",
+            "خودی کا مطلب صرف اپنے آپ پر مغرور ہونا ہے۔",
+            "تشکیلِ جدید الہیات صرف کہانیوں کی کتاب ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«علامہ اقبال کا فلسفۂ خودی، عقل و عشق کا تخلیقی امتزاج اور مردِ مومن کا تصور انسان کو کائنات کی تسخیر اور اخلاقی بلندیوں کا روشن راستہ دکھاتا ہے۔» فکرِ اقبال کا شاہکار ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u31-l3": {
@@ -12929,53 +12949,62 @@
     "subject": "urdu",
     "unit": 31,
     "lessonNumber": 3,
-    "title": "جنوبی ایشیائی جغرافیائی سیاست اور خارجہ پالیسی (Geopolitics) (Part 3)",
+    "title": "کلاسیکی علمِ کلام، معتزلہ، اشاعرہ اور متکلمین (Ilm-ul-Kalam: Mutazila & Ash'arites)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 31.3) with authentic precision.",
+    "objective": "کلاسیکی علمِ کلام، معتزلہ (عقلیت پسندی)، اشاعرہ (امام غزالی و اشعری)، اور مسئلۂ جبر و قدر کے کلامی استدلال پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں علمِ کلام اور روایتی مناظرات کی تاریخ (Scholastic Theology - Ilm-ul-Kalam):\n\n1. **علمِ کلام کے مکاتبِ فکر**:\n   - «**معتزلہ (Mu'tazilites)**»: عقل کی برتری، توحید و عدل کے کلامی اصول؛\n   - «**اشاعرہ (Ash'arites)**»: امام ابوالحسن اشعری اور امام غزالی کا فکری مکتب؛\n   - «**ماتریدیہ**»: امام ابو منصور ماتریدی کا اعتدال پسندانہ کلامی منہاج۔\n\n2. **بنیادی کلامی مسائل**:\n   - «**مسئلۂ جبر و اختیار (Free Will vs Determinism)** اور نظریہ کسب»；\n   - «امام غزالی کی کتاب '**تہافت الفلاسفہ**' اور یونانی منطق کا رد»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "علمِ کلام کے عروج کے دور میں معتزلہ نے عقل اور منطق کو بنیادی کسوٹی قرار دیا جبکہ اشاعرہ نے وحی اور نصوص کی برتری کو عقلی استدلال کے ساتھ ثابت کیا۔",
+          "reading": "Ilm-ul-Kalam ke urooj ke daur mein Mu'tazila ne aql aur mantiq ko bunyaadi kasowti qaraar diya jabkeh Asha'ira ne wahi aur nusoos ki bartari ko aqli istidlaal ke saath saabit kiya. [ɪlm-ʊl-kəlaːm keː ʊruːdʒ keː d̪ɔːr mẽː mʊʔt̪əzɪlaː neː əql ɔːr mənt̪ɪq koː bʊnjaːd̪iː kəsɔːt̪iː qəraːr d̪ɪjaː dʒəbkɛh əʃaːʔɪraː neː ʋəhiː ɔːr nʊsuːs kiː bərt̪əriː koː əqliː ɪst̪ɪd̪laːl keː saːt̪ʰ saːbɪt̪ kɪjaː] (EELM-ool-kuh-LAHM kay oo-ROOJ kay DOWR mayn mooh-tuh-zee-LAH nay UHQL owr muhn-TEEQ koh boon-yah-DEE kuh-sow-TEE quh-RAHR DEE-yah juhb-KYH uhsh-ah-ee-RAH nay wuh-HEE owr noo-SOOS kee buhr-tuh-REE koh uhq-LEE ees-teed-LAHL kay SAHTH sah-BEET kee-YAH)",
+          "translation": "During the zenith of Ilm-ul-Kalam (Scholastic Theology) [theology: Ilm-ul-Kalam], the Mu'tazila posited reason and logic as the ultimate criterion, whereas the Ash'arites established the primacy of Divine Revelation through rational argumentation."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 31-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "امام غزالی نے 'تہافت الفلاسفہ' لکھ کر یونانی فلسفے کے مابعد الطبیعیاتی شکوک کا مسکت اور مدلل کلامی جواب دیا۔",
+          "reading": "Imam Ghazali ne 'Tahaafut-ul-Falaasifa' likh kar Yunaani falsafay ke maaba'ad-ut-tabee'aati shukook ka muskat aur mudallal kalaami jawaab diya. [ɪmaːm ɣəzaːliː neː t̪əhaːfʊt̪-ʊl-fəlaːsɪfaː lɪkʰ kər juːnaːniː fəlsəfeː keː maː-bəʔd̪-ʊt̪-t̪əbiːʔaːt̪iː ʃʊkuːk kaː mʊskət̪ ɔːr mʊd̪əlːəl kəlaːmiː dʒəʋaːb d̪ɪjaː] (ee-MAHM ghuh-ZAH-lee nay tuh-HAH-foot-ool-fuh-lah-see-FAH leekh kuhr yoo-NAH-nee fuhl-suh-FAY kay mah-buh-doot-tuh-bee-ah-TEE shoo-KOOK kah moos-KUHT owr moo-duhl-LUHL kuh-lah-MEE juh-WAHB DEE-yah)",
+          "translation": "Imam Ghazali authored 'The Incoherence of the Philosophers' (Tahafut al-Falasifa), providing a conclusive and reasoned theological refutation to the metaphysical doubts of Hellenistic philosophy."
+        },
+        {
+          "target": "مسئلۂ جبر و اختیار میں اشعری مکتبِ فکر نے 'کسب' کا نظریہ پیش کیا جس کی رو سے بندہ اپنے ارادے سے عمل کسب کرتا ہے اور جزا و سزا کا مستحق بنتا ہے۔",
+          "reading": "Mas'ala-e-jabr o ikhtiyaar mein Ash'ari maktab-e-fikr ne 'kasb' ka nazariya peish kiya jis ki roo se banda apnay iraaday se amal kasb karta hai aur jaza o saza ka mustahiq banta hai. [məsʔəlaː-eː-dʒəbr oː ɪxt̪ɪjaːr mẽː əʃʔəriː məkt̪əb-eː-fɪkr neː kəsb kaː nəzərɪjaː peːʃ kɪjaː dʒɪs kiː ruː seː bənd̪aː əpneː ɪraːd̪eː seː əməl kəsb kərt̪aː hɛː ɔːr dʒəzaː oː səzaː kaː mʊst̪əhɪq bənt̪aː hɛː] (muhs-uh-LAH-ay-JUHBR oh eekh-tee-YAHR mayn uhsh-uh-REE muhk-tuhb-ay-FEEKR nay KUS-B kah nuh-zuh-ree-YAH paysh kee-YAH JEES kee ROO say buhn-DAH uhp-NAY ee-rah-DAY say uh-MUHL KUS-B kuhr-TAH HY owr juh-ZAH oh suh-ZAH kah moos-tuh-HEEQ buhn-TAH HY)",
+          "translation": "In the question of predestination and free will, the Ash'arite school formulated the doctrine of 'Kasb' (acquisition), according to which humans acquire actions through intentional choice, becoming liable to reward or punishment."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "علمِ کلام کے ستون: معتزلہ (عقلیت) + اشاعرہ (وحی و کلام) + امام غزالی (تہافت الفلاسفہ) + نظریہ کسب!"
+      ],
+      "culturalNotes": [
+        "برصغیر میں شاہ ولی اللہ دہلوی اور علامہ شبلی نعمانی نے علمِ کلام کی تاریخ اور اس کے ارتقا پر شہرۂ آفاق تحقیقی شاہکار تصنیف کیے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"قرض\":",
+          "prompt": "اسلامی عقائد کو عقلی و منطقی دلائل کے ذریعے ثابت کرنے اور شکوک کا جواب دینے والے علم کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («سود» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ٹیکس» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («تجارت» کی خرابی)"
+            "علمِ کلام (Ilm-ul-Kalam - Islamic Scholastic Theology defending faith through rational discourse)",
+            "صرف علمِ اعداد",
+            "صرف صرف و نحو",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "عقائد کے عقلی دفاع کو «علمِ کلام» (Ilm-ul-Kalam) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"قرض\":",
+          "prompt": "امام غزالی کی اس مشہور فلسفیانہ و کلامی کتاب کا کیا نام ہے جس میں انہوں نے یونانی فلاسفہ کے مابعد الطبیعیاتی دلائل کا رد کیا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ٹیکس» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («تجارت» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سود» کا غیر درست استعمال)"
+            "تہافت الفلاسفہ (Tahafut al-Falasifa - The Incoherence of the Philosophers by Imam Ghazali)",
+            "گلستانِ سعدی",
+            "دیوانِ غالب",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "امام غزالی کی شہرۂ آفاق تصنیف «تہافت الفلاسفہ» ہے۔"
         }
       ]
     },
@@ -12983,17 +13012,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"قرض\": Which sentence is completely correct?",
+          "prompt": "کلاسیکی علمِ کلام اور متکلمین (Scholastic Theology & Kalam) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («تجارت» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سود» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ٹیکس» سے متعلق)"
+            "کلاسیکی علمِ کلام میں اشاعرہ اور معتزلہ کے مناظرات، امام غزالی کی تہافت الفلاسفہ اور نظریۂ کسب نے اسلامی الہیات کو عقلی و فلسفیانہ مضبوطی عطا کی۔ (Debates between Ash'arites and Mu'tazilites, Ghazali's Tahafut, and the doctrine of Kasb fortified Islamic theology.)",
+            "علمِ کلام نے چائے میں بسکٹ بھگو کر گاڑی پر ڈالا تھا رویا تھا۔",
+            "تہافت الفلاسفہ صرف کھانوں کی ریسیپی کی کتاب ہے۔",
+            "معتزلہ کا تعلق صرف کپڑے سلائی کرنے سے تھا۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«کلاسیکی علمِ کلام میں اشاعرہ اور معتزلہ کے مناظرات، امام غزالی کی تہافت الفلاسفہ اور نظریۂ کسب نے اسلامی الہیات کو عقلی و فلسفیانہ مضبوطی عطا کی۔» علمِ کلام کا جامع ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u31-l4": {
@@ -13001,53 +13031,62 @@
     "subject": "urdu",
     "unit": 31,
     "lessonNumber": 4,
-    "title": "جنوبی ایشیائی جغرافیائی سیاست اور خارجہ پالیسی (Geopolitics) (Part 4)",
+    "title": "وجودیت، جدید اخلاقی فلسفہ اور معنیِ حیات (Existentialism & Meaning of Life)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 31.4) with authentic precision.",
+    "objective": "جدید فلسفۂ وجودیت (Existentialism)، اخلاقی اقدار، معنیِ حیات، وجدان اور خود مختار ارادے کے فصیح فلسفیانہ اسلوب پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں وجودیت اور معنیِ حیات کا فلسفیانہ مطالعہ (Existentialism & Meaning of Life):\n\n1. **وجودیت اور انفرادی آزادی**:\n   - «**وجودیت (Existentialism)**: وجود جوہر پر مقدم ہے (Existence precedes Essence)»؛\n   - «انسان کی خود مختاری اور اپنے اعمال کی مطلق اخلاقی ذمہ داری»؛\n   - «تنہائی اور وجودی اضطراب (Existential Angst)»۔\n\n2. **اخلاقی اقدار اور معنیِ حیات**:\n   - «بے معنویت کے ہنگام میں زندگی کا مقصد تلاش کرنا»；\n   - «**وجدان (Intuition)** اور اخلاقی بصیرت کا ارتقا»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "جدید وجودی فلسفہ انسان کو اپنی تقدیر اور اخلاقی تشخص کا خود معمار قرار دیتا ہے جہاں ہر انتخاب فرد کے اپنے کندھوں پر ایک بھاری ذمہ داری ہے۔",
+          "reading": "Jadeed wujoodi falsafa insaan ko apni taqdeer aur akhlaaqi tashakhkhus ka khud me'maar qaraar daita hai jahaan har intikhaab fard ke apnay kaandhon par aik bhaari zimma-daari hai. [dʒəd̪iːd̪ ʋʊdʒuːd̪iː fəlsəfaː ɪnsaːn koː əpniː t̪əqdiːr ɔːr əxlaːqiː t̪əʃəxːʊs kaː xʊd̪ mɪʔmaːr qəraːr d̪eːt̪aː hɛː dʒəhãː hər ɪnt̪ɪxaːb fərd̪ keː əpneː kaːnd̪ʱõː pər eːk bʱaːriː zɪmːə-d̪aːriː hɛː] (juh-DEED woo-joo-DEE fuhl-suh-FAH een-SAHN koh uhp-NEE tuhq-DEER owr uhkh-lah-QEE tuh-shuhkh-KHOOS kah khohd meh-MAHR quh-RAHR day-TAH HY juh-HAHN HUHR een-tee-KHAHB fuhrd kay uhp-NAY kahn-DHOHN puhr AYK bhah-REE zeem-muh-dah-REE HY)",
+          "translation": "Modern existential philosophy posits human beings as the autonomous architects of their own destiny and moral identity, where every choice constitutes a weighty individual responsibility [existential ethics: wujoodi falsafa]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 31-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "معنیِ حیات کی تلاش میں مادی فلسفے اضطراب کو جنم دیتے ہیں جبکہ روحانی وجدان روح کو دائمی سکون اور اخلاقی بصیرت بخشتا ہے۔",
+          "reading": "Ma'ni-e-hayaat ki talaash mein maadi falsafay iztiraab ko janam daitay hain jabkeh roohaani wijdaan rooh ko daa'imi sukoon aur akhlaaqi baseerat bakhshta hai. [məʔniː-eː-həjaːt̪ kiː t̪əlaːʃ mẽː maːd̪ːiː fəlsəfeː ɪzt̪ɪraːb koː dʒənəm d̪eːt̪eː hɛ̃ː dʒəbkɛh ruːhaːniː ʋɪdʒd̪aːn ruːh koː d̪aːʔɪmiː sʊkuːn ɔːr əxlaːqiː bəsiːrət̪ bəxʃt̪aː hɛː] (muh-NEE-ay-huh-YAHT kee tuh-LAHSH mayn mahd-DEE fuhl-suh-FAY eez-tee-RAHB koh juh-NUHM day-TAY HYN juhb-KYH roo-hah-NEE weej-DAHN ROOH koh dah-ee-MEE soo-KOON owr uhkh-lah-QEE buh-see-RUHT buhkhsh-TAH HY)",
+          "translation": "In the quest for the meaning of life, materialistic philosophies engender existential anxiety, whereas spiritual intuition bestows enduring tranquility and moral insight upon the soul."
+        },
+        {
+          "target": "اردو کے جدید مفکرین نے مغربی فلسفے کے وجودی سوالات اور مشرقی تصوف کی روحانی گہرائیوں کا حسین امتزاج پیش کیا۔",
+          "reading": "Urdu ke jadeed mufakkireen ne maghribi falsafay ke wujoodi sawaalaat aur mashriqi tasawwuf ki roohaani gehraaiyon ka haseen imtizaaj peish kiya. [ʊrd̪uː keː dʒəd̪iːd̪ mʊfəkːɪriːn neː məɣrɪbiː fəlsəfeː keː ʋʊdʒuːd̪iː səʋaːlaːt̪ ɔːr məʃrɪqiː t̪əsəʋːʊf kiː ruːhaːniː ɡɛɦraːʔɪjõː kaː həsiːn ɪmt̪ɪzaːdʒ peːʃ kɪjaː] (OOR-doo kay juh-DEED moo-fuhk-kee-REEN nay muhgh-ree-BEE fuhl-suh-FAY kay woo-joo-DEE suh-wah-LAHT owr muhsh-ree-QEE tuh-suhv-WOOF kee roo-hah-NEE gyh-rah-ee-YOHN kah huh-SEEN eem-tee-ZAHJ paysh kee-YAH)",
+          "translation": "Modern Urdu thinkers presented an exquisite synthesis of the existential inquiries of Western philosophy and the profound spiritual depths of Eastern Sufism."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جدید وجودیت: وجود مقدم بر جوہر + اخلاقی خود مختاری + معنیِ حیات + باطنی وجدان!"
+      ],
+      "culturalNotes": [
+        "اردو کے جدید ادب اور ناول نگاری میں وجودی فلسفے، انسان کے تنہائی کے احساس اور باطنی کشمکش کو گہرائی سے پیش کیا گیا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"سود\":",
+          "prompt": "اس فلسفیانہ مکتب کو کیا کہتے ہیں جو انسان کے انفرادی وجود، آزادی اور زندگی کے معنی خود تلاش کرنے پر زور دیتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («ٹیکس» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («تجارت» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دستاویز» کی خرابی)"
+            "وجودیت / فلسفۂ وجودیت (Existentialism - Philosophy emphasizing individual existence, freedom, and choice)",
+            "صرف میکانیکی نظریہ",
+            "صرف نحو و قواعد",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "انفرادی آزادی اور وجودی انتخاب کے فلسفے کو «وجودیت» (Existentialism) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"سود\":",
+          "prompt": "عقل اور حواس کے علاوہ انسان کے اندر موجود اس باطنی فہم کو کیا کہتے ہیں جو حقائق کو براہِ راست محسوس کرتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («تجارت» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دستاویز» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ٹیکس» کا غیر درست استعمال)"
+            "وجدان / باطنی بصیرت (Intuition / Wijdaan - Immediate spiritual cognition and inner moral insight)",
+            "صرف گنتی گننا",
+            "صرف کتاب کا سرورق",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "باطنی بصیرت کو فلسفے اور تصوف میں «وجدان» (Intuition) کہتے ہیں۔"
         }
       ]
     },
@@ -13055,17 +13094,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"سود\": Which sentence is completely correct?",
+          "prompt": "وجودیت اور اخلاقی فلسفہ (Existentialism & Meaning of Life) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دستاویز» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ٹیکس» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («تجارت» سے متعلق)"
+            "وجودی فلسفے کی اخلاقی خود مختاری اور صوفیانہ وجدان کے امتزاج نے معنیِ حیات کی تلاش کو انسانی شعور کا بلند ترین فکری سفر بنا دیا۔ (The synthesis of existential moral autonomy and mystical intuition made the quest for meaning humanity's highest journey.)",
+            "وجودیت نے قلم کو چولہے پر جلا کر گاڑی روئی تھی اور چائے پی تھی۔",
+            "وجدان صرف آنکھیں بند کر کے سو جانے کو کہتے ہیں۔",
+            "اخلاقی فلسفے کا نیکی اور بدی سے کوئی تعلق نہیں ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«وجودی فلسفے کی اخلاقی خود مختاری اور صوفیانہ وجدان کے امتزاج نے معنیِ حیات کی تلاش کو انسانی شعور کا بلند ترین فکری سفر بنا دیا۔» وجودی فلسفے کا کامل ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u31-l5": {
@@ -13073,53 +13113,62 @@
     "subject": "urdu",
     "unit": 31,
     "lessonNumber": 5,
-    "title": "جنوبی ایشیائی جغرافیائی سیاست اور خارجہ پالیسی (Geopolitics) (Part 5)",
+    "title": "فلسفہ، تصوف اور الہیات کا جامع سمیکن (Philosophy & Sufi Metaphysics Grand Synthesis)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 31.5) with authentic precision.",
+    "objective": "وحدت الوجود، فلسفۂ خودی، کلاسیکی علمِ کلام، اور جدید وجودیت کو ایک فصیح، پرشکوہ اور ہمہ جہت مابعد الطبیعیاتی شاہکار میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "فلسفہ، تصوف اور الہیات کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **فکری و مابعد الطبیعیاتی ابعاد کا ہمہ گیر احاطہ**:\n   - **تصوف و وجودیات**: «ابنِ عربی کی وحدت الوجود اور مجدد الف ثانی کی وحدت الشہود»；\n   - **اقبالیات کا انقلاب**: «فلسفۂ خودی، عقل و عشق کا تخلیقی سنگم اور مردِ مومن»；\n   - **کلاسیکی علمِ کلام**: «معتزلہ، اشاعرہ کی عقلی نصرت اور امام غزالی کا ردِ فلاسفہ»；\n   - **جدید وجودیت و وجدان**: «اخلاقی خود مختاری، معنیِ حیات اور روحانی تسکین»۔\n\n2. **اردو کی فکری رفعت اور فلسفیانہ فصاحت**:\n   - یہ زبان اردو کے صوفیانہ متون، فلسفیانہ مکالموں اور الہیاتی مباحث کا اوجِ کمال ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اردو زبان میں فلسفہ اور تصوف کا باہمی سنگم ابنِ عربی کی وحدت الوجود، مجدد الف ثانی کی وحدت الشہود اور علامہ اقبال کے فلسفۂ خودی کے ذریعے انسانی فکر کا معراج بن کر ابھرتا ہے۔",
+          "reading": "Urdu zabaan mein falsafa aur tasawwuf ka baahami sangam Ibn-e-Arabi ki wahdat-ul-wujood, Mujaddid Alf-e-Saani ki wahdat-ush-shahood aur Allama Iqbal ke falsafa-e-khudi ke zariye insaani fikr ka me'raaj ban kar ubharta hai. [ʊrd̪uː zəbaːn mẽː fəlsəfaː ɔːr t̪əsəʋːʊf kaː baːhəmiː səŋɡəm ɪbn-eː-ərəbiː kiː ʋəhd̪ət̪-ʊl-ʋʊdʒuːd̪ mʊdʒəd̪ːɪd̪ əlf-eː-saːniː kiː ʋəhd̪ət̪-ʊʃ-ʃʊhuːd̪ ɔːr əlːaːmaː ɪqbaːl keː fəlsəfaː-eː-xʊd̪iː keː zərɪjeː ɪnsaːniː fɪkr kaː mɪʔraːdʒ bən kər ʊbʱərt̪aː hɛː] (OOR-doo zuh-BAHN mayn fuhl-suh-FAH owr tuh-suhv-WOOF kah bah-huh-MEE suhn-GUHM eebn-ay-uh-ruh-BEE kee wuhh-DUHT-ool-woo-JOOD, moo-juhd-DEED uhlf-ay-SAH-nee kee wuhh-DUHT-oosh-shoo-HOOD owr uhl-LAH-mah eeq-BAHL kay fuhl-suh-fah-ay-khoo-DEE kay zuh-ree-YAY een-sah-NEE FEEKR kah meh-RAHJ buhn kuhr oob-huhr-TAH HY)",
+          "translation": "In the Urdu language, the confluence of philosophy and Sufism [grand synthesis: falsafa aur tasawwuf] emerges as the zenith of human thought through Ibn Arabi's Wahdat-ul-Wujood, Mujaddid's Wahdat-ush-Shahood, and Iqbal's philosophy of Khudi."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 31-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "کلاسیکی علمِ کلام کی منطقی بحثیں اور امام غزالی کا فکری استدلال جب صوفیانہ وجدان کے ساتھ ملتے ہیں تو باطن کا تزکیہ اور عقل کا اطمینان بیک وقت حاصل ہوتا ہے۔",
+          "reading": "Kalaasiki Ilm-ul-Kalam ki mantiqi behsein aur Imam Ghazali ka fikri istidlaal jab soofiyaana wijdaan ke saath miltay hain to baatin ka tazkiya aur aql ka itmeenaan bayk-waqt haasil hota hai. [klaːsiːkiː ɪlm-ʊl-kəlaːm kiː mənt̪ɪqiː bɛɦsẽː ɔːr ɪmaːm ɣəzaːliː kaː fɪkriː ɪst̪ɪd̪laːl dʒəb suːfɪjaːnaː ʋɪdʒd̪aːn keː saːt̪ʰ mɪlt̪eː hɛ̃ː t̪oː baːt̪ɪn kaː t̪əzkɪjaː ɔːr əql kaː ɪt̪miːnaːn bɛːk-ʋəqt̪ haːsɪl hoːt̪aː hɛː] (klah-see-KEE EELM-ool-kuh-LAHM kee muhn-tee-QEE byh-SAYN owr ee-MAHM ghuh-ZAH-lee kah feek-REE ees-teed-LAHL JUHB soo-fee-YAH-nah weej-DAHN kay SAHTH meel-TAY HYN toh BAH-teen kah tuhz-kee-YAH owr UHQL kah eet-mee-NAHN byk-WUHQT hah-SEEL hoh-TAH HY)",
+          "translation": "When the logical discourses of classical Scholastic Theology and Imam Ghazali's reasoning unite with mystical intuition, the purification of the inner self and intellectual tranquility are attained simultaneously."
+        },
+        {
+          "target": "فلسفہ، تصوف اور الہیات کا یہ جامع سمیکن طلبا کو مابعد الطبیعیاتی گہرائی، وجودی سوالات کے فہم اور اردو کی پرشکوہ علمی اصطلاحات پر کامل دسترس عطا کرتا ہے۔",
+          "reading": "Falsafa, tasawwuf aur ilaahiyaat ka yeh jaam'e samaykan tulba ko maaba'ad-ut-tabee'aati gehraa'i, wujoodi sawaalaat ke feham aur Urdu ki pur-shikwah ilmi istilaahaat par kaamil dastaras ata karta hai. [fəlsəfaː t̪əsəʋːʊf ɔːr ɪlaːhɪjaːt̪ kaː jɛh dʒaːmɪʔ səmɛːkən t̪ʊlbaː koː maː-bəʔd̪-ʊt̪-t̪əbiːʔaːt̪iː ɡɛɦraːʔiː ʋʊdʒuːd̪iː səʋaːlaːt̪ keː fɛɦəm ɔːr ʊrd̪uː kiː pʊr-ʃɪkʋaː ɪlmiː ɪst̪ɪlaːhaːt̪ pər kaːmɪl d̪əst̪rəs ət̪aː kərt̪aː hɛː] (fuhl-suh-FAH, tuh-suhv-WOOF owr ee-lah-hee-YAHT kah YEH JAH-meh suh-may-KUHN tool-BAH koh mah-buh-doot-tuh-bee-ah-TEE gyh-rah-EE, woo-joo-DEE suh-wah-LAHT kay FY-huhm owr OOR-doo kee poor-sheek-WAH eel-MEE ees-tee-lah-HAHT puhr KAH-meel duhs-tuh-RUHS uh-TAH kuhr-TAH HY)",
+          "translation": "This comprehensive synthesis of philosophy, Sufism, and theology endows students with metaphysical depth, profound comprehension of existential questions, and total mastery over Urdu's magnificent intellectual terminology."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع فلسفیانہ سمیکن: وحدت الوجود و الشہود + فلسفۂ خودی (اقبال) + علمِ کلام (غزالی) + وجودی اخلاقیات!"
+      ],
+      "culturalNotes": [
+        "اردو مابعد الطبیعیاتی زبان کی فصاحت و بلاغت اسلامی تصوف اور مشرقی و مغربی فلسفے کے صدیوں پر محیط علمی تبادلے کی عکاس ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"ٹیکس\":",
+          "prompt": "فلسفہ، تصوف اور الہیات کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («تجارت» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دستاویز» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دستخط» کی خرابی)"
+            "وحدت الوجود و الشہود، اقبال کے فلسفۂ خودی، علمِ کلام اور وجودی اخلاقیات کا مربوط فلسفیانہ مطالعہ (Masterful synthesis of ontology, Iqbalian Khudi, Scholastic theology, and existential ethics)",
+            "ہم نے فلسفے کی کتاب کے اوپر چائے پی تھی اور رویا تھا (بے ربط الفاظ)",
+            "وہ صرف صوفیانہ تسبیح کے دانے گنتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«وحدت الوجود و الشہود، اقبال کے فلسفۂ خودی، علمِ کلام اور وجودی اخلاقیات کا مربوط فلسفیانہ مطالعہ» مابعد الطبیعیات کا کامل سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"ٹیکس\":",
+          "prompt": "فلسفہ، تصوف اور الہیات کا جامع سمیکن انسان کے اندر کس فکری و روحانی کیفیت کو بیدار کرتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دستاویز» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دستخط» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («تجارت» کا غیر درست استعمال)"
+            "عرفانِ ذات، قلبی تسکین، عقلی بصیرت اور کائنات کے ساتھ ہم آہنگی (Self-realization, spiritual peace, intellectual insight, and harmony with the cosmos)",
+            "صرف الجھنوں میں مبتلا رہنا (منفی رویہ)",
+            "صرف پرانی بحثیں دہرانا (بے فائدہ مشق)",
+            "اخلاقی اقدار کو فراموش کرنا (تباہ کن)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ عرفانِ ذات، قلبی تسکین، عقلی بصیرت اور کائنات کے ساتھ ہم آہنگی پیدا کرتا ہے۔"
         }
       ]
     },
@@ -13127,17 +13176,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"ٹیکس\": Which sentence is completely correct?",
+          "prompt": "فلسفہ، تصوف اور الہیات کے جامع سمیکن (Philosophy & Sufi Metaphysics Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دستخط» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («تجارت» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دستاویز» سے متعلق)"
+            "ابنِ عربی کی وحدت الوجود، مجدد الف ثانی کی وحدت الشہود، اقبال کا فلسفۂ خودی اور امام غزالی کا علمِ کلام انسانی فکر، اخلاقیات اور روحانی بصیرت کا عظیم الشان شاہکار ہے۔ (Ibn Arabi's Wujood, Mujaddid's Shahood, Iqbal's Khudi, and Ghazali's Kalam are grand masterpieces of human thought.)",
+            "فلسفے نے تصوف کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
+            "جامع سمیکن صرف پرانی درگاہ کی دیوار کو کہتے ہیں۔",
+            "فلسفہ اور تصوف کا عقل و شعور سے کوئی تعلق نہیں ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ابنِ عربی کی وحدت الوجود، مجدد الف ثانی کی وحدت الشہود، اقبال کا فلسفۂ خودی اور امام غزالی کا علمِ کلام انسانی فکر، اخلاقیات اور روحانی بصیرت کا عظیم الشان شاہکار ہے۔» فلسفیانہ سمیکن کا کامل ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u32-l1": {
