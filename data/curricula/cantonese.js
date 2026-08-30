@@ -4175,53 +4175,62 @@
     "subject": "cantonese",
     "unit": 10,
     "lessonNumber": 1,
-    "title": "身體部位同睇醫生 (Health & Medical Care) (第1課)",
+    "title": "人體部位名詞深度辨析：「個頭」、「隻手」、「條腰」、「對腳」 (Human Body Parts & Cantonese Classifiers)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元10第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語人體各部位專屬量詞搭配（個、隻、條、塊、對、把）與地道解剖部位名稱（膝頭哥、心口、肚腩）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語在描述人體生理構造、各部器官與解剖部位時，嚴格遵循漢語傳統量詞搭配法則，並擁有豐富獨特之嶺南口語專屬名詞體系與構詞特徵：\n\n一、頭面五官部位與量詞精準搭配：\n１．「個頭」（go3 tau4）：頭部整體。例如「個頭好痛」（頭部劇烈疼痛）、「梳順個頭」（把頭髮梳理整齊）。\n２．「塊面」（faai3 min6）：臉部或面部整體。量詞必用「塊」（faai3），不可誤用為「個」。例如「塊面好紅」（臉色紅潤或羞紅）、「洗乾淨塊面」（把臉洗乾淨）。\n３．「隻眼 / 對眼」（zek3 ngaan5 / deoi3 ngaan5）：單隻眼睛量詞用「隻」，雙眼並稱用「對」。例如「隻左眼發炎紅腫」、「對眼好攰要滴眼藥水」。\n４．「個鼻」（go3 bei6）：鼻子及鼻樑。\n５．「把口 / 個嘴」（baa2 hau2 / go3 zeoi2）：內部口腔或說話功能用「把口」，外部嘴唇外觀輪廓用「個嘴」。例如「張開把口等醫生檢查喉嚨」、「個嘴唇好乾」。\n６．「隻耳仔」（zek3 ji5 zai2）：耳朵器官，日常口語慣常帶有親切小稱後綴「仔」。例如「隻左耳聽唔清楚」。\n７．「啲頭髮」（di1 tau4 faat3）：頭頂毛髮，集合名詞複數量詞用「啲」。例如「啲頭髮好長要剪髮」。\n\n二、軀幹與四肢部位名詞深度辨析：\n１．「條頸」（tiu4 geng2）：脖子與頸椎部位。細長條狀人體結構量詞專用「條」。例如「條頸好赤好僵硬」。\n２．「個喉嚨」（go3 hau4 lung4）：喉嚨與咽喉腔體。例如「個喉嚨發炎吞嘢好痛」。\n３．「個心口」（go3 sam1 hau2）：胸口、胸膛與心前區部位。例如「個心口翳住好難呼吸」。\n４．「個肚 / 肚腩」（go3 tou5 / tou5 naam5）：腹部與肚子，腹部積聚之脂肪贅肉特稱為「肚腩」。例如「個肚咕咕叫好肚餓」。\n５．「條腰」（tiu4 jiu1）：腰部與腰椎。例如「彎低條腰搬重嘢整親條腰」。\n６．「隻手 / 對手」（zek3 sau2 / deoi3 sau2）：手部、手掌與整條手臂。例如「隻右手寫字寫到好酸」。\n７．「隻腳 / 對腳」（zek3 goek3 / deoi3 goek3）：腿部、小腿與腳掌。例如「行咗成日對腳好酸軟」。\n８．「個膝頭哥」（go3 sat1 tau4 go1）：人體膝蓋關節。粵語俗稱膝蓋為「膝頭哥」，極具嶺南民間方言特色。例如「落樓梯嗰陣個膝頭哥好痛」。\n９．「個腳板底」（go3 goek3 baan2 dai2）：腳底板與足底神經反射區。例如「做腳底按摩按個腳板底」。\n\n三、身體部位語法特徵深度歸納：\n粵語指示單一肢體器官時，廣泛採用「量詞＋名詞」之獨特結構替代普通話之代詞所有格，例如以「隻手好痛」表示「我的手很痛」，以「整親條腰」表示「扭傷了腰部」，語法簡潔生動且極具嶺南口語神韻。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 10 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 10 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 10 in communication."
+          "target": "我琴晚瞓醒之後條頸好硬，個膝頭哥郁動嗰陣仲隱隱作痛。",
+          "reading": "ngo5 kam4 maan5 fan3 seng2 zi1 hau6 tiu4 geng2 hou2 ngaang6, go3 sat1 tau4 go1 juk1 dung6 go2 zan6 zung6 jan2 jan2 zok3 tung3. [ŋɔː˩˧ kʰɐm˨˩ maːn˩˧ fɐn˧ sɛːŋ˧˥ tsiː˥ hɐu˨ tʰiːu˨˩ kɛːŋ˧˥ hou˧˥ ŋaːŋ˨, kɔː˧ sɐt̚˥ tʰɐu˨˩ kɔː˥ jʊk̚˥ tʊŋ˨ kɔː˧˥ tsɐn˨ tsʊŋ˨ jɐn˧˥ jɐn˧˥ tsɔːk̚˧ tʰʊŋ˧] (NGOH KUM-MAHN FUN-SENG JEE-HAU TEW-GENG HOH-NGAHNG, GOH SUT-TAU-GOH YOOK-DOONG GOH-JUN JOONG YUN-YUN-JOK-TOONG)",
+          "translation": "After waking up last night, my neck was very stiff, and my knee also had a dull ache when moving."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元10-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "佢對眼睇嘢好模糊，醫生話要徹底檢查下隻左眼。",
+          "reading": "keoi5 deoi3 ngaan5 tai2 je5 hou2 mou4 wu4, ji1 sang1 waa6 jiu3 cit3 dai2 gim2 caa4 haa5 zek3 zo2 ngaan5. [kʰɵy˩˧ tɵy˧ ŋaːn˩˧ tʰɐi˧˥ jɛː˩˧ hou˧˥ mou˨˩ wuː˨˩, jiː˥ sɐŋ˥ waː˨ jiu˧ tsʰiːt̚˧ tɐi˧˥ kiːm˧˥ tsʰaː˩˧ haː˩˧ tsɛːk̚˧ tsɔː˧˥ ŋaːn˩˧] (KUY DEOY-NGAHN TY-YEH HOH MOU-WOO, YEE-SUNG WAH YEW CHEET-DY GEEM-CHAH HAH JEK JOH-NGAHN)",
+          "translation": "His eyes see things very blurrily; the doctor said his left eye needs a thorough examination."
+        },
+        {
+          "target": "做完劇烈運動之後，我成個心口同兩條手臂都好酸痛。",
+          "reading": "zou6 jyun4 gik6 lit6 wan6 dung6 zi1 hau6, ngo5 seng4 go3 sam1 hau2 tung4 loeng5 tiu4 sau2 bei3 dou1 hou2 syun1 tung3. [tsou˨ jyːn˨˩ kɪk̚˨ liːt˨ wɐn˨ tʊŋ˨ tsiː˥ hɐu˨, ŋɔː˩˧ sɛːŋ˨˩ kɔː˧ sɐm˥ hɐu˧˥ tʰʊŋ˨˩ lœːŋ˩˧ tʰiːu˨˩ sɐu˧˥ pei˧ tou˥ hou˧˥ syːn˥ tʰʊŋ˧] (JOH-YUEN GIK-LEET WUN-DOONG JEE-HAU, NGOH SENG-GOH SUM-HAU TOONG LEUNG-TEW SAU-BAY DOH HOH SUEN-TOONG)",
+          "translation": "After strenuous exercise, my entire chest and both arms feel very sore and aching."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【身體部位歌】面用「一塊」頸「一條」，「膝頭哥」痛步難搖；雙眼雙腳講「一對」，「心口」護好身體苗！"
+      ],
+      "culturalNotes": [
+        "粵語日常口語習慣為身體部位添加生動之人稱或小稱綴詞，例如「膝蓋」稱為「膝頭哥」（加「哥」字顯得親切有趣），「耳朵」稱為「耳仔」，「肚腩」特指腹部脂肪，展現出嶺南語言觀察人體之細膩特點。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"雪櫃\":",
+          "prompt": "【量詞搭配】在粵語中描述「臉部」與「脖子」，正確之專屬量詞分別係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：冷氣機錯置）",
-            "混雜生硬詞彙之不規範語句（例項：電視機未適配）",
-            "聲調助詞搭配欠妥之表達（例項：洗衣機誤用）"
+            "一塊面、一條頸 (jat1 faai3 min6, jat1 tiu4 geng2)",
+            "一條面、一塊頸",
+            "一隻面、一對頸",
+            "一個面、一把頸"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "臉部量詞用「塊」（一塊面），頸部量詞用「條」（一條頸）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"雪櫃\":",
+          "prompt": "【名詞識別】粵語俗稱人體腿部之「膝蓋」為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：電視機未適配）",
-            "聲調助詞搭配欠妥之表達（例項：洗衣機誤用）",
-            "語序顛倒嘅非標準句式（例項：冷氣機錯置）"
+            "膝頭哥 (sat1 tau4 go1)",
+            "心口 (sam1 hau2)",
+            "腳板底 (goek3 baan2 dai2)",
+            "肚腩 (tou5 naam5)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "膝蓋在粵語中俗稱為「膝頭哥」（sat1 tau4 go1）。"
         }
       ]
     },
@@ -4229,15 +4238,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"雪櫃\": Which sentence is completely correct?",
+          "prompt": "【語法搭配】若指單隻眼睛出現發炎紅腫，最準確之量詞短語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：洗衣機誤用）",
-            "語序顛倒嘅非標準句式（例項：冷氣機錯置）",
-            "混雜生硬詞彙之不規範語句（例項：電視機未適配）"
+            "隻眼 (zek3 ngaan5)",
+            "條眼",
+            "把眼",
+            "幅眼"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "單隻眼睛或耳朵等對稱器官在粵語中量詞用「隻」（隻眼、隻耳仔）。"
         }
       ],
       "passThreshold": 0.8
@@ -4248,53 +4257,62 @@
     "subject": "cantonese",
     "unit": 10,
     "lessonNumber": 2,
-    "title": "身體部位同睇醫生 (Health & Medical Care) (第2課)",
+    "title": "常見病徵與不適症狀表達：「頭痛」、「發燒」、「作感冒」、「肚痾」 (Common Illnesses & Symptoms)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元10第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語常見病徵詞彙（發燒、頭痛、肚痾、聲沙）與病發前兆構詞詞綴「作」（作感冒、作嘔、作病）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在粵語中表達身體不適、疼痛感覺與各類臨床症狀時，擁有高度專業、精確且生活化之詞彙結構體系：\n\n一、核心病徵詞彙深度解析：\n１．「發燒 / 發熱」（faat3 siu1 / faat3 jit6）：體溫異常升高發燒。高熱體溫特稱為「發高燒」（faat3 gou1 siu1），低熱稱為「發微燒」。\n２．「頭痛 / 頭暈」（tau4 tung3 / tau4 wan4）：頭部血管神經疼痛或頭暈目眩天旋地轉。「頭暈眼花」描述眩暈失衡感。\n３．「咳 / 乾咳 / 咳痰」（kat1 / gon1 kat1 / kat1 taam4）：呼吸道咳嗽、無痰乾咳或劇烈咳嗽帶痰。喉嚨痕癢引發之咳嗽稱為「喉嚨痕咳」。\n４．「喉嚨痛 / 聲沙」（hau4 lung4 tung3 / seng1 saa1）：咽喉發炎紅腫疼痛、聲帶充血聲音沙啞嘶啞。嚴重時「連吞口水都痛」。\n５．「肚痛 / 肚痾」（tou5 tung3 / tou5 o1）：腹部絞痛、腸胃炎腹瀉拉肚子（「痾」o1 為嶺南專用排泄動詞）。頻繁腹瀉稱為「痾到七彩 / 痾水」。\n６．「流鼻涕 / 鼻塞」（lau4 bei6 tai3 / bei6 sak1）：流鼻水或鼻腔黏膜充血堵塞不通氣。清鼻涕稱為「流清鼻涕」，濃稠鼻涕稱為「黃鼻涕」。\n\n二、病發前兆構詞前綴「作」（zok3）之核心語法功能：\n在粵語語法中，前綴動詞「作」（zok3）置於病名或生理反應前，專門用以表達「感覺快要生病、有發作前兆、隱隱感到即將發作」之微觀體貌狀態：\n１．「作感冒 / 作病」（zok3 gam2 mou6 / zok3 beng6）：感覺快要感冒生病、身體微恙出現起初症狀，如畏寒乏力。\n２．「作嘔 / 作吐」（zok3 au2 / zok3 tou3）：胃部翻江倒海泛酸噁心、感覺想要嘔吐反胃。\n３．「作抽筋」（zok3 cau1 gan1）：肌肉隱隱緊繃有即將抽搐痙攣之前兆感。\n４．「作發燒」（zok3 faat3 siu1）：身體開始發燙發熱、隱隱有即將發燒之體感。\n\n三、疼痛程度與感覺之精細修飾詞彙：\n粵語形容疼痛程度層次分明：極度劇痛稱為「痛到入心入肺」、「痛到標眼淚」；持續隱痛稱為「陰陰痛 / 隱隱作痛」；刺痛稱為「好似針拮咁痛」；灼熱疼痛稱為「好赤好辣」；肌肉酸痛疲勞稱為「酸軟無力」。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 10 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 10 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 10 in communication."
+          "target": "我由今日朝早開始個人好攰，喉嚨乾涸，好似有啲作感冒。",
+          "reading": "ngo5 jau4 gam1 jat6 ziu1 zou2 hoi1 ci2 go3 jan4 hou2 gui6, hau4 lung4 gon1 kok3, hou2 ci5 jau5 di1 zok3 gam2 mou6. [ŋɔː˩˧ jɐu˨˩ kɐm˥ jɐt˨ tsiːu˥ tsou˧˥ hɔːi˥ tsʰiː˧˥ kɔː˧ jɐn˨˩ hou˧˥ kʷeːi˨, hɐu˨˩ lʊŋ˨˩ kɔːn˥ kʰɔːk̚˧, hou˧˥ tsʰiː˩˧ jɐu˩˧ tiː˥ tsɔːk̚˧ kɐm˧˥ mou˨] (NGOH YAU GUM-YUT JIU-JOU HOI-CHEE GOH-YUN HOH-GUI, HAU-LOONG GOHN-KOK, HOH-CHEE YAU-DEE JOK-GUM-MOU)",
+          "translation": "Starting from this morning I feel very tired, my throat is dry, and it seems I am coming down with a cold."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元10-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "佢琴晚食完生冷海鮮之後就不斷肚痛同肚痾，成晚訓唔到覺。",
+          "reading": "keoi5 kam4 maan5 sik6 jyun4 saang1 laang5 hoi2 sin1 zi1 hau6 zau6 bat1 dyun6 tou5 tung3 tung4 tou5 o1, seng4 maan5 fan3 m4 dou2 gaau3. [kʰɵy˩˧ kʰɐm˨˩ maːn˩˧ sɪk̚˨ jyːn˨˩ saːŋ˥ laːŋ˩˧ hɔːi˧˥ siːn˥ tsiː˥ hɐu˨ tsɐu˨ pɐt̚˥ tyːn˨ tou˩˧ tʰʊŋ˧ tʰʊŋ˨˩ tou˩˧ ɔː˥, sɛːŋ˨˩ maːn˩˧ fɐn˧ m̩˨˩ tou˧˥ kaːu˧] (KUY KUM-MAHN SIK-YUEN SAHNG-LAHNG HOY-SEEN JEE-HAU JAU BUT-DUEN TOU-TOONG TOONG TOU-OH, SENG-MAHN FUN-M-DOU-GAU)",
+          "translation": "After eating raw cold seafood last night, he suffered continuous stomach pain and diarrhea, unable to sleep all night."
+        },
+        {
+          "target": "BB發高燒到三十九度半，仲有啲作嘔，要即刻去睇急症。",
+          "reading": "bi4 bi1 faat3 gou1 siu1 dou3 saam1 sap6 gau2 dou6 bun3, zung6 jau5 di1 zok3 au2, jiu3 zik1 hak1 heoi3 tai2 gap1 zing3. [piː˨˩ piː˥ faːt̚˧ kou˥ siːu˥ tou˧ saːm˥ sɐp̚˨ kɐu˧˥ tou˨ puːn˧, tsʊŋ˨ jɐu˩˧ tiː˥ tsɔːk̚˧ ɐu˧˥, jiu˧ tsɪk̚˥ hɐk̚˥ hɵy˧ tʰɐi˧˥ kɐp̚˥ tsɪŋ˧] (BEE-BEE FAHT-GOH-SEW DOU SAHM-SUP-GAU-DOH-BOON, JOONG YAU-DEE JOK-AU, YEW JIK-HUK HOEY TY GUP-JING)",
+          "translation": "The baby has a high fever of 39.5 degrees and feels nauseous; we must see emergency care immediately."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【病徵辨識訣】病症初起用「作病」，拉肚腹瀉講「肚痾」；高熱體溫「發高燒」，聲音沙啞痛難磨！"
+      ],
+      "culturalNotes": [
+        "前綴「作」（zok3）在粵語中係極具表現力之語法化詞綴，專門用來捕捉疾病即將爆發前的微妙體感（例如「作感冒」、「作嘔」、「作發燒」）。若身體微熱微痛但尚未臥床，港人常說「我硬係覺得有啲作病」以此提醒自己及早休息飲涼茶。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"冷氣機\":",
+          "prompt": "【語法詞綴】感覺身體微熱、咽喉微痛，似乎「快要感冒了」，最地道之粵語表達係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：電視機錯置）",
-            "混雜生硬詞彙之不規範語句（例項：洗衣機未適配）",
-            "聲調助詞搭配欠妥之表達（例項：梳化誤用）"
+            "我好似有啲作感冒。 (ngo5 hou2 ci5 jau5 di1 zok3 gam2 mou6.)",
+            "我好似有啲搭感冒。",
+            "我好似有啲轉感冒。",
+            "我好似有啲走感冒。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「作」（zok3）置於病名感冒前，表示感覺快要感冒生病之前兆。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"冷氣機\":",
+          "prompt": "【病徵識別】進食不潔食物導致肚子疼痛且頻繁腹瀉，粵語稱此症狀為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：洗衣機未適配）",
-            "聲調助詞搭配欠妥之表達（例項：梳化誤用）",
-            "語序顛倒嘅非標準句式（例項：電視機錯置）"
+            "肚痛同肚痾 (tou5 tung3 tung4 tou5 o1)",
+            "頭痛同頭暈",
+            "鼻塞同流涕",
+            "聲沙同乾咳"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "腹部疼痛腹瀉在粵語中稱為「肚痛同肚痾」（tou5 tung3 tung4 tou5 o1）。"
         }
       ]
     },
@@ -4302,15 +4320,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"冷氣機\": Which sentence is completely correct?",
+          "prompt": "【構詞解析】在粵語短語「作嘔」（zok3 au2）中，字首「作」之確切語義功能為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：梳化誤用）",
-            "語序顛倒嘅非標準句式（例項：電視機錯置）",
-            "混雜生硬詞彙之不規範語句（例項：洗衣機未適配）"
+            "表示想要嘔吐、噁心作嘔之生理預兆體感 (Onset / feeling like nausea)",
+            "表示故意裝作嘔吐動作",
+            "表示創作關於嘔吐的文章",
+            "表示工作勞動導致嘔吐"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "前綴「作」在醫學症狀中表示即將發作或產生噁心前兆之生理感受。"
         }
       ],
       "passThreshold": 0.8
@@ -4321,53 +4339,62 @@
     "subject": "cantonese",
     "unit": 10,
     "lessonNumber": 3,
-    "title": "身體部位同睇醫生 (Health & Medical Care) (第3課)",
+    "title": "診所求診實戰會話：「睇醫生」、「掛號」、「量血壓」 (Doctor Visit Dialogue)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元10第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港診所求醫全流程會話（睇醫生、登記掛號、量體溫/血壓、問診答問、藥物過敏確認）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在香港私家診所、公立門診或醫院專科求醫就診時，從接待處登記掛號到與醫生臨床問診擁有一套標準而禮貌之道地對話體系：\n\n一、求診登記流程關鍵術語深度解析：\n１．「睇醫生 / 睇西醫 / 睇中醫」（tai2 ji1 sang1 / tai2 sai1 ji1 / tai2 zung1 ji1）：就醫診治。看現代西醫或傳統中醫。\n２．「登記 / 掛號」（dang1 gei3 / gwaa3 hou6）：在接待處出示香港身份證或護照等有效身份證明文件完成登記手續，領取籌號排隊。\n３．「量體溫 / 量血壓」（loeng4 tai2 wan1 / loeng4 hyut3 aat3）：護士為病人精確測量耳溫、額溫、脈搏與收縮壓舒張壓指數。\n４．「叫名入診室」（giu3 meng2 jap6 can2 sat1）：在大堂候診區等待護士叫喚患者全名進入診室見醫生。\n\n二、醫生問診與患者陳述核心句型矩陣：\n１．醫生臨床問診常用核心句型：\n- 「邊度唔舒服呀？」（身體哪裡感到不適？）\n- 「痛咗幾多日呀？」（這個疼痛症狀已經持續了多少天？）\n- 「有冇發燒或者發冷？」（有沒有發高燒或者畏寒怕冷？）\n- 「有冇對咩藥物敏感？」（過往對哪些抗生素或止痛藥物存在過敏反應？）\n２．患者陳述病情句式結構：\n- 「我由琴日開始發燒，喉嚨好痛，連吞口水都痛。」（我從昨天開始發燒，喉嚨很痛，甚至吞口水都劇痛。）\n- 「我食親海鮮或者某啲西藥都會皮膚敏感出紅疹。」（我每次吃海鮮或某些西藥都會皮膚過敏起紅疹點。）\n- 「我平時血壓偏高，有食開降血壓藥。」（我平常血壓偏高，一直有長期服用降壓藥習慣。）\n\n三、醫患溝通禮儀與問診技巧：\n就診時稱呼女護士為「姑娘」，稱呼醫生為「醫生」。描述症狀時應按時間先後順序清晰講述發病經過（如「由前晚開始……之後琴日……到今日朝早……」），並準確說明有無長期病患史與家族遺傳病史。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 10 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 10 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 10 in communication."
+          "target": "早晨姑娘，我有預約十點半睇醫生，呢個係我張香港身份證。",
+          "reading": "zou2 san4 gu1 neong4, ngo5 jau5 jyu6 joek3 sap6 dim2 bun3 tai2 ji1 sang1, ni1 go3 hai6 ngo5 zoeng1 hoeng1 gong2 san1 fan2 zing3. [tsou˧˥ sɐn˨˩ kuː˥ nœːŋ˨˩, ŋɔː˩˧ jɐu˩˧ jyː˨ jœːk̚˧ sɐp̚˨ tiːm˧˥ puːn˧ tʰɐi˧˥ jiː˥ sɐŋ˥, niː˥ kɔː˧ hɐi˨ ŋɔː˩˧ tsœːŋ˥ hœːŋ˥ kɔːŋ˧˥ sɐn˥ fɐn˧˥ tsɪŋ˧] (JOU-SUN GOO-NEUNG, NGOH YAU YU-YEUK SUP-DEEM-BOON TY YEE-SUNG, NEE-GOH HY NGOH JEUNG HEUNG-GONG SUN-FUN-JING)",
+          "translation": "Good morning nurse, I have a 10:30 appointment to see the doctor; here is my Hong Kong ID card."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元10-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "醫生，我成個胸口壓住痛咗兩日，呼吸嗰陣仲有啲氣促。",
+          "reading": "ji1 sang1, ngo5 seng4 go3 hung1 hau2 aat3 zyu6 tung3 zo2 loeng5 jat6, fu1 kap1 go2 zan6 zung6 jau5 di1 hei3 cuk1. [jiː˥ sɐŋ˥, ŋɔː˩˧ sɛːŋ˨˩ kɔː˧ hʊŋ˥ hɐu˧˥ aːt̚˧ tsyː˨ tʰʊŋ˧ tsɔː˧˥ lœːŋ˩˧ jɐt˨, fuː˥ kʰɐp̚˥ kɔː˧˥ tsɐn˨ tsʊŋ˨ jɐu˩˧ tiː˥ hei˧ tsʰʊk̚˥] (YEE-SUNG, NGOH SENG-GOH HOONG-HAU AHT-JYU TOONG-JOR LEUNG-YUT, FOO-KUP GOH-JUN JOONG YAU-DEE HEY-CHOOK)",
+          "translation": "Doctor, my whole chest has felt a pressing pain for two days, and I am also a bit short of breath when inhaling."
+        },
+        {
+          "target": "請問你過往有冇對阿士匹靈或者抗生素藥物敏感？",
+          "reading": "cing2 man6 nei5 gwo3 wong5 jau5 mou5 deoi3 aa3 si6 pat1 ling4 waak6 ze2 kong3 sang1 sou3 joek6 mat6 man5 gam2? [tsʰɪŋ˧˥ mɐn˨ nei˩˧ kʷɔː˧ wɔːŋ˩˧ jɐu˩˧ mou˩˧ tɵy˧ aː˧ siː˨ pʰɐt̚˥ lɪŋ˨˩ waːk˨ tsɛː˧˥ kʰɔːŋ˧ sɐŋ˥ sou˧ jœːk̚˨ mɐt̚˨ mɐn˩˧ kɐm˧˥?] (CHING-MUN NEI GWO-WONG YAU MOU DEOY AH-SEE-PUT-LING WAHK-JEH KONG-SUNG-SO YEUK-MUT MUN-GUM?)",
+          "translation": "May I ask if you have had past allergic reactions to aspirin or antibiotic medications?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【診所求醫訣】入診登記「遞張證」，「姑娘」量溫量血壓；醫生問診詳陳述，「藥物敏感」講得真！"
+      ],
+      "culturalNotes": [
+        "在香港診所與公私立醫院中，病人傳統上一律尊稱診所護士為「姑娘」（gu1 neong4），此稱呼親切得體且極具嶺南歷史淵源；醫生則普遍尊稱為「醫生」（ji1 sang1）。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"電視機\":",
+          "prompt": "【醫護尊稱】在香港診所接待處向當值護士登記掛號時，最得體之道地尊稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：洗衣機錯置）",
-            "混雜生硬詞彙之不規範語句（例項：梳化未適配）",
-            "聲調助詞搭配欠妥之表達（例項：返工誤用）"
+            "姑娘 (gu1 neong4)",
+            "老闆娘 (lou5 baan2 neong4)",
+            "師傅 (si1 fu2)",
+            "經理 (ging1 lei5)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "香港文化中尊稱診所及醫院女護士為「姑娘」（gu1 neong4）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"電視機\":",
+          "prompt": "【問診交涉】進入診室後，醫生詢問「邊度唔舒服呀？」，欲表達「我喉嚨痛且發燒兩天」，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：梳化未適配）",
-            "聲調助詞搭配欠妥之表達（例項：返工誤用）",
-            "語序顛倒嘅非標準句式（例項：洗衣機錯置）"
+            "我喉嚨痛同埋發燒咗兩日。 (ngo5 hau4 lung4 tung3 tung4 maai4 faat3 siu1 zo2 loeng5 jat6.)",
+            "我八達通增值咗兩日。",
+            "我開茶搭枱咗兩日。",
+            "我行街買衫咗兩日。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「喉嚨痛同埋發燒咗兩日」係準確清晰之病情自述句式。"
         }
       ]
     },
@@ -4375,15 +4402,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"電視機\": Which sentence is completely correct?",
+          "prompt": "【醫療安全】醫生處方前詢問「有冇藥物敏感？」，其核心用意為確認：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：返工誤用）",
-            "語序顛倒嘅非標準句式（例項：洗衣機錯置）",
-            "混雜生硬詞彙之不規範語句（例項：梳化未適配）"
+            "病人過往是否對某些特定西藥存在過敏不良反應 (Drug allergies)",
+            "病人是否喜歡吃甜味藥水",
+            "病人對藥物價格是否敏感在乎",
+            "病人是否能夠自行吞服藥丸"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「藥物敏感」（joek6 mat6 man5 gam2）指藥物過敏史。"
         }
       ],
       "passThreshold": 0.8
@@ -4394,53 +4421,62 @@
     "subject": "cantonese",
     "unit": 10,
     "lessonNumber": 4,
-    "title": "身體部位同睇醫生 (Health & Medical Care) (第4課)",
+    "title": "用藥指示與服藥劑量：「每日三次」、「每次兩粒」、「飯後服」 (Medication Instructions & Dosage)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元10第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握藥劑劑型名詞（藥丸、膠囊、藥水、藥膏）、服藥時間頻率（每日幾次、飯前/後服）及警示語（令人昏睡勿駕駛）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在香港醫院藥房或社區註冊藥房取藥時，藥劑師向患者詳細交代服藥指引拥有一套極其嚴謹之標準臨床術語體系：\n\n一、藥品劑型分類名稱深度解析：\n１．「藥丸」（joek6 jyun2）：固體壓制藥片、口服片劑。例如「每次吞兩粒藥丸」。\n２．「膠囊」（gaau1 nong4）：外層由明膠包裹之膠囊狀藥物，利於腸道吸收。\n３．「藥水 / 止咳水」（joek6 seoi2 / zi2 kat1 seoi2）：液體口服糖漿藥水，飲用前需搖勻。\n４．「藥膏」（joek6 gou1）：外用塗抹抗炎止癢軟膏，薄薄塗於患處皮膚。\n５．「抗生素」（kong3 sang1 sou3）：抗菌消炎專用處方藥物（必須嚴格遵循醫囑按療程完全服完，切忌中途自行停藥）。\n６．「退燒止痛藥」（teoi3 siu1 zi2 tung3 joek6）：解熱鎮痛專用藥品，有發燒疼痛症狀時方需服用。\n\n二、服藥劑量與時間頻率標準語彙：\n１．「每日三次 / 每日四次」（mui5 jat6 saam1 ci3 / sei3 ci3）：每天早午晚按固定間隔時間服用三次或四次。\n２．「每次食兩粒」（mui5 ci3 sik6 loeng5 nap1）：每次服用兩片或兩粒。顆粒狀藥物量詞專用「粒」（nap1）。\n３．「飯前服 / 飯後服 / 空肚服」（faan6 cin4 fuk6 / faan6 hau6 fuk6 / hung1 tou5 fuk6）：用餐前半小時服用、用餐後十五至三十分鐘內服用以護胃，或空腹狀態下直接口服。\n４．「瞓覺前服」（fan3 gaau3 cin4 fuk6）：臨睡前三十分鐘內服用。\n\n三、藥物副作用與安全警示語句：\n- 「呢隻感冒藥食完之後會令人好想瞓覺，服藥期間千祈唔好揸車或者操作任何危險機械！」\n- 「呢隻抗生素必須連續食滿七日成個療程，千祈唔好因為退咗燒就自己停藥！」",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 10 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 10 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 10 in communication."
+          "target": "呢隻抗生素每日要食三次，每次一粒，飯後服，一定要連續食晒成個療程。",
+          "reading": "ni1 zek3 kong3 sang1 sou3 mui5 jat6 jiu3 sik6 saam1 ci3, mui5 ci3 jat1 nap1, faan6 hau6 fuk6, jat1 ding6 jiu3 lin4 zuk6 sik6 saai3 seng4 go3 liu4 cing4. [niː˥ tsɛːk̚˧ kʰɔːŋ˧ sɐŋ˥ sou˧ muːi˩˧ jɐt˨ jiu˧ sɪk̚˨ saːm˥ tsʰiː˧, muːi˩˧ tsʰiː˧ jɐt̚˥ nɐp̚˥, faːn˨ hɐu˨ fʊk̚˨, jɐt̚˥ tɪŋ˨ jiu˧ liːn˨˩ tsʊk̚˨ sɪk̚˨ saːi˧ sɛːŋ˨˩ kɔː˧ liːu˨˩ tsʰɪŋ˨˩] (NEE-JEK KONG-SUNG-SO MOOI-YUT YEW SIK SAHM-CHEE, MOOI-CHEE YUT-NUP, FAHN-HAU FOOK, YUT-DING YEW LEEN-JOOK SIK-SY SENG-GOH LEW-CHING)",
+          "translation": "This antibiotic must be taken three times a day, one capsule each time, after meals, and you must finish the entire course continuously."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元10-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "止咳藥水每次飲十毫升，每日早午晚各一次，飲之前請先搖勻。",
+          "reading": "zi2 kat1 joek6 seoi2 mui5 ci3 jam2 sap6 hou4 sing1, mui5 jat6 zou2 ng5 maan5 gok3 jat1 ci3, jam2 zi1 cin4 cing2 sin1 jiu4 wan4. [tsiː˧˥ kʰɐt̚˥ jœːk̚˨ sɵy˧˥ muːi˩˧ tsʰiː˧ jɐm˧˥ sɐp̚˨ hou˨˩ sɪŋ˥, muːi˩˧ jɐt˨ tsou˧˥ ŋ̍˩˧ maːn˩˧ kɔːk̚˧ jɐt̚˥ tsʰiː˧, jɐm˧˥ tsiː˥ tsʰiːn˨˩ tsʰɪŋ˧˥ siːn˥ jiu4 wɐn˨˩] (JEE-KUT YEUK-SOEY MOOI-CHEE YUM SUP-HOU-SING, MOOI-YUT JOU-NG-MAHN GOK YUT-CHEE, YUM JEE-CHEEN CHING SEEN YEW-WUN)",
+          "translation": "Take ten milliliters of cough syrup each time, three times daily (morning, noon, evening), and shake well before drinking."
+        },
+        {
+          "target": "退燒藥有需要嗰陣每隔四個鐘食一次，如果燒退咗就唔使再食。",
+          "reading": "teoi3 siu1 joek6 jau5 seoi1 jiu3 go2 zan6 mui5 gaak3 sei3 go3 zung1 sik6 jat1 ci3, jyu4 gwo2 siu1 teoi3 zo2 zau6 m4 sai2 zoi3 sik6. [tʰɵy˧ siːu˥ jœːk̚˨ jɐu˩˧ sɵy˥ jiu˧ kɔː˧˥ tsɐn˨ muːi˩˧ kaːk̚˧ sei˧ kɔː˧ tsʊŋ˥ sɪk̚˨ jɐt̚˥ tsʰiː˧, jyː˨˩ kʷɔː˧˥ siːu˥ tʰɵy˧ tsɔː˧˥ tsɐu˨ m̩˨˩ sɐi˧˥ tsɔːi˧ sɪk̚˨] (TOEY-SEW YEUK YAU SOEY-YEW GOH-JUN MOOI-GAK SAY-GOH-JOONG SIK YUT-CHEE, YU-GWOH SEW TOEY-JOR JAU M-SY JOY SIK)",
+          "translation": "Take the fever reducer when needed every four hours; if the fever has subsided, you do not need to take it anymore."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【服藥指南歌】藥丸量詞叫「一粒」，「每日三次」「飯後服」；「抗生素」藥食成套，「令人想瞓」咪開車！"
+      ],
+      "culturalNotes": [
+        "香港衛生署嚴格規定抗生素為處方藥物，藥劑師在派發抗生素時必會再三叮囑患者「一定要食晒成個療程」（必須徹底服完完整療程），不可因症狀稍見好轉便擅自停藥，以防細菌產生抗藥性。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"洗衣機\":",
+          "prompt": "【服藥量詞】藥劑師交代「每次吃兩粒藥片」，在粵語中最地道之說法為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：梳化錯置）",
-            "混雜生硬詞彙之不規範語句（例項：返工未適配）",
-            "聲調助詞搭配欠妥之表達（例項：放工誤用）"
+            "每次食兩粒 (mui5 ci3 sik6 loeng5 nap1)",
+            "每次食兩條",
+            "每次食兩隻",
+            "每次食兩間"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "顆粒狀藥丸藥片在粵語中量詞用「粒」（nap1）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"洗衣機\":",
+          "prompt": "【用藥安全】若藥袋上標註「服後可能引起昏睡」，患者在服藥期間應特別避免：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：返工未適配）",
-            "聲調助詞搭配欠妥之表達（例項：放工誤用）",
-            "語序顛倒嘅非標準句式（例項：梳化錯置）"
+            "駕駛汽車或操作重型機械 (Driving or operating machinery)",
+            "喝溫開水",
+            "臥床休息",
+            "按時按量服藥"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "引起嗜睡昏睡之藥物（如傳統抗過敏及感冒藥）服後嚴禁駕駛車輛或高空危險操作。"
         }
       ]
     },
@@ -4448,15 +4484,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"洗衣機\": Which sentence is completely correct?",
+          "prompt": "【服藥時機】藥袋標籤註明「飯後服」（faan6 hau6 fuk6），其正確之服用方法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：放工誤用）",
-            "語序顛倒嘅非標準句式（例項：梳化錯置）",
-            "混雜生硬詞彙之不規範語句（例項：返工未適配）"
+            "吃完飯後十五至三十分鐘內服用 (Take after meals)",
+            "吃早飯前三小時服用",
+            "只能在不吃飯的那天服用",
+            "把藥物混合米飯一起吞食"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「飯後服」指在用餐結束後適當時間服用以減少藥物對胃黏膜之刺激。"
         }
       ],
       "passThreshold": 0.8
@@ -4467,53 +4503,62 @@
     "subject": "cantonese",
     "unit": 10,
     "lessonNumber": 5,
-    "title": "身體部位同睇醫生 (Health & Medical Care) (第5課)",
+    "title": "香港醫療體系與急症求助：「公立醫院」、「私家診所」、「急症室」、「打999」 (HK Healthcare & Emergency)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元10第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港公私營醫療體系（公立醫院、私家診所、急症室分流）、緊急呼救（打999叫白車）及請病假（病假紙/醫生紙）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港擁有雙軌制之公立與私家醫療系統，並建有一套高效運作之緊急求助與勞工病假法律保障制度：\n\n一、香港公私營醫療機構深度解析：\n１．「公立醫院」（gung1 laap6 ji1 jyun2）：醫院管理局（HA）統籌管轄之大型公立醫院（如瑪麗醫院、伊利沙伯醫院、威爾斯親王醫院），收費親民但非緊急專科門診輪候時間較長。\n２．「私家醫院 / 私家診所」（si1 gaa1 ji1 jyun2 / can2 so2）：私人營辦之各類專科與全科醫療機構（如養和醫院、港安醫院），預約靈活便捷但收費標準較高。\n３．「急症室」（gap1 zing3 sat1）：公立醫院二十四小時運作之急症科部門，實施嚴格五級分流制度（第一類危殆、第二類危急、第三類緊急、第四類次緊急、第五類非緊急）。\n\n二、緊急求救與救護車專用語彙：\n１．「打999」（daa2 gau2 gau2 gau2）：香港特區官方統一緊急求助、報警與召喚救護車之專線電話。\n２．「叫白車 / 叫救護車」（giu3 baak6 ce1 / giu3 gau3 wu6 ce1）：呼叫緊急醫療救護車。「白車」為香港全體市民對白色救護車之專屬經典口語。\n\n三、職場就醫與請病假專用詞彙：\n１．「病假紙 / 醫生紙」（beng6 gaa3 zi2 / ji1 sang1 zi2）：香港註冊醫生簽發之合法病假證明書（Medical Certificate），乃向僱主請病假之法定必備憑證。\n２．「請一日病假」（cing2 jat1 jat6 beng6 gaa3）：因身體不適向公司或學校請假一天休養。\n３．「覆診」（fuk1 can2）：病情好轉或需要持續跟進時再次回醫院診所接受檢查覆查。\n\n四、急救分流常識與應對指引：\n在急症室登記後，分流護士會即時評估生命體徵。非緊急病患需耐心在大堂等候，危重傷病患者則享有絕對優先搶救權利。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 10 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 10 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 10 in communication."
+          "target": "如果屋企有人突然昏迷不醒，要即刻打九九九叫白車送去急症室！",
+          "reading": "jyu4 gwo2 uk1 kei2 jau5 jan4 tat1 jin4 fan1 mai4 bat1 seng2, jiu3 zik1 hak1 daa2 gau2 gau2 gau2 giu3 baak6 ce1 sung3 heoi3 gap1 zing3 sat1! [jyː˨˩ kʷɔː˧˥ ʊk̚˥ kʰei˧˥ jɐu˩˧ jɐn˨˩ tʰɐt̚˥ jiːn˨˩ fɐn˥ mɐi˨˩ pɐt̚˥ sɛːŋ˧˥, jiu˧ tsɪk̚˥ hɐk̚˥ daː˧˥ kɐu˧˥ kɐu˧˥ kɐu˧˥ kiːu˧ paːk̚˨ tsʰɛː˥ sʊŋ˧ hɵy˧ kɐp̚˥ tsɪŋ˧ sɐt̚˥!] (YU-GWOH OOK-KAY YAU-YUN TUT-YEEN FUN-MY BUT-SENG, YEW JIK-HUK DY GAU-GAU-GAU GIU BAHK-CHEH SOONG HOEY GUP-JING-SUT!)",
+          "translation": "If someone at home suddenly falls unconscious, call 999 immediately for an ambulance to rush to the A&E!"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元10-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "醫生幫我開咗兩日病假紙，等我可以喺屋企好好休息幾日。",
+          "reading": "ji1 sang1 bong1 ngo5 hoi1 zo2 loeng5 jat6 beng6 gaa3 zi2, dang2 ngo5 ho2 ji5 hai2 uk1 kei2 hou2 hou2 jau1 sik1 gei2 jat6. [jiː˥ sɐŋ˥ pɔːŋ˥ ŋɔː˩˧ hɔːi˥ tsɔː˧˥ lœːŋ˩˧ jɐt˨ pɪŋ˨ kaː˧ tsiː˧˥, tɐŋ˧˥ ŋɔː˩˧ hɔː˧˥ jiː˩˧ hɐi˩˧ ʊk̚˥ kʰei˧˥ hou˧˥ hou˧˥ jɐu˥ sɪk̚˥ kei˧˥ jɐt˨] (YEE-SUNG BONG NGOH HOI-JOR LEUNG-YUT BENG-GAH-JEE, DUNG NGOH HOH-YEE HY OOK-KAY HOH-HOH YAU-SIK GAY-YUT)",
+          "translation": "The doctor issued a two-day sick leave certificate for me so that I can rest well at home for a few days."
+        },
+        {
+          "target": "急症室分流站護士會按照傷病嚴重程度決定邊個優先睇醫生。",
+          "reading": "gap1 zing3 sat1 fan1 lau4 zaam6 gu1 neong4 wui5 on3 ziu3 soeng1 beng6 jim4 zung6 cing4 dou6 kyut3 ding6 bin1 go3 jau1 sin1 tai2 ji1 sang1. [kɐp̚˥ tsɪŋ˧ sɐt̚˥ fɐn˥ lɐu˨˩ tsaːm˨ kuː˥ nœːŋ˨˩ wuːi˩˧ ɔːn˧ tsiːu˧ sœːŋ˥ pɪŋ˨ jiːm˨˩ tsʊŋ˨ tsʰɪŋ˨˩ tou˨ kʰyːt̚˧ tɪŋ˨ piːn˥ kɔː˧ jɐu˥ siːn˥ tʰɐi˧˥ jiː˥ sɐŋ˥] (GUP-JING-SUT FUN-LAU-JAHM GOO-NEUNG WUI ON-JEW SEUNG-BENG YEEM-JOONG CHING-DOU KUET-DING BEEN-GOH YAU-SEEN TY YEE-SUNG)",
+          "translation": "The triage nurse at the A&E will prioritize who sees the doctor first based on the severity of the injury or illness."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【急救求醫歌】緊急危難「打999」，呼叫「白車」急症收；看病請假「醫生紙」，公私分流保康籌！"
+      ],
+      "culturalNotes": [
+        "在香港日常俚語中，「叫白車」係呼叫救護車之唯一大眾俗稱（源於香港消防處救護車通體白色外觀）。而向公司或學校請病假時所需的醫療證明書，口語一律稱為「病假紙」或「醫生紙」，極具香港職場文化特點。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"梳化\":",
+          "prompt": "【應急呼救】在香港遇到突發重病或嚴重事故欲呼叫救護車，應撥打之緊急求助電話號碼係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：返工錯置）",
-            "混雜生硬詞彙之不規範語句（例項：放工未適配）",
-            "聲調助詞搭配欠妥之表達（例項：開會誤用）"
+            "999 (Emergency Hotline)",
+            "911",
+            "110",
+            "120"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "香港之統一緊急求助報警與救護電話號碼為 999。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"梳化\":",
+          "prompt": "【職場就醫】在香港向公司主管請病假，必備出具由註冊醫生簽發之證明文件，俗稱係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：放工未適配）",
-            "聲調助詞搭配欠妥之表達（例項：開會誤用）",
-            "語序顛倒嘅非標準句式（例項：返工錯置）"
+            "病假紙 / 醫生紙 (beng6 gaa3 zi2 / ji1 sang1 zi2)",
+            "收據單 (sau1 geoi3 daan1)",
+            "車飛 (ce1 fei1)",
+            "八達通卡 (baat3 daat6 tung1 kaat1)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "醫生簽發之合法病假證明在香港俗稱為「病假紙」或「醫生紙」。"
         }
       ]
     },
@@ -4521,15 +4566,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"梳化\": Which sentence is completely correct?",
+          "prompt": "【俚語識別】香港市民日常俗稱緊急送院之白色救護車為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：開會誤用）",
-            "語序顛倒嘅非標準句式（例項：返工錯置）",
-            "混雜生硬詞彙之不規範語句（例項：放工未適配）"
+            "白車 (baak6 ce1 / Ambulance)",
+            "的士 (dik1 si2)",
+            "小巴 (siu2 baa1)",
+            "叮叮 (ding1 ding1)"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "救護車在香港廣泛俗稱為「白車」（baak6 ce1）。"
         }
       ],
       "passThreshold": 0.8
