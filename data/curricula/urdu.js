@@ -5815,53 +5815,62 @@
     "subject": "urdu",
     "unit": 14,
     "lessonNumber": 1,
-    "title": "معطوفہ افعال: کر کا لاحقہ (Conjunctive Participles) (Part 1)",
+    "title": "لاحقہ 'کر' اور ترتیبِ افعال (Conjunctive Suffix 'Kar' & Sequence)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 14.1) with authentic precision.",
+    "objective": "معطوفہ افعال (Conjunctive Participles: Verb Stem + کر) کی ساخت اور دو متصل افعال کو فصیح انداز میں جوڑنے کے اصولوں پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں معطوفہ افعال اور لاحقہ «کر» (Conjunctive Participles with 'Kar'):\n\n1. **معطوفہ فعل کی تشکیل (Formation)**:\n   - **مادہ فعل (Verb Stem) + لاحقہ «کر»**:\n     - «پڑھ» + کر = **پڑھ کر** (Having read)؛\n     - «لکھ» + کر = **لکھ کر** (Having written)؛\n     - «دیکھ» + کر = **دیکھ کر** (Having seen)۔\n\n2. **افعال کی زمانی ترتیب (Sequential Action)**:\n   - جب ایک ہی فاعل دو کام پے در پے کرے تو بار بار 'اور' لگانے کے بجائے پہلے فعل کے ساتھ «کر» لگایا جاتا ہے:\n     - عام جملہ: «اس نے کھانا کھایا اور وہ کالج چلا گیا»؛\n     - فصیح ادبی جملہ: «وہ **کھانا کھا کر** کالج چلا گیا»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "طالب علم نے لائبریری سے نایاب کتابیں حاصل کر کے اپنی تحقیق مکمل کی۔",
+          "reading": "Taalib-e-ilm ne library se naayaab kitaabein haasil kar ke apni tehqeeq mukammal ki. [t̪aːlɪb-eː-ɪlm neː laːɪbreːriː seː naːjaːb kɪt̪aːbẽː haːsɪl kər keː əpniː t̪əɦqiːq mʊkəmːəl kiː] (tah-lee-bay-EELM nay library say nah-YAHB kee-tah-BAYN HAH-seel kuhr KAY uhp-NEE tuhh-QEEQ moo-kuhm-MUHL KEE)",
+          "translation": "Having obtained rare books from the library [haasil kar ke], the student completed his research."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 14-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "پروفیسر صاحب نے طلبہ کے تمام تحقیقی مضامین پڑھ کر ان کی علمی رہنمائی فرمائی۔",
+          "reading": "Professor saahib ne talaba ke tamaam tehqeeqi mazaameen parh kar un ki ilmi rehnumaai farmaayi. [proːfɛsər saːhɪb neː t̪ələbaː keː t̪əmaːm t̪əɦqiːqiː məzaːmiːn pəɽʱ kər ʊn kiː ɪlmiː rɛɦnʊmaːʔiː fərmaːjiː] (professor SAH-heeb nay tuh-luh-BAH kay tuh-MAHM tuhh-qee-QEE muh-zah-MEEN PUH-rdh kuhr OON kee EEL-mee ryh-noo-mah-EE fuhr-MAH-yee)",
+          "translation": "Having read all the research essays of the students [parh kar], the professor provided scholarly guidance."
+        },
+        {
+          "target": "ہم نے صبح سویرے بیدار ہو کر اور فجر کی نماز ادا کر کے اپنے سفر کا آغاز کیا۔",
+          "reading": "Hum ne subh sawairay bedaar ho kar aur fajr ki namaaz ada kar ke apne safar ka aaghaaz kiya. [həm neː sʊbəh səʋeːreː beːd̪aːr hoː kər ɔːr fədʒr kiː nəmaːz əd̪aː kər keː əpneː səfər kaː aːɣaːz kɪjaː] (HOOM nay SOO-buh suh-VAY-ray bay-DAHR hoh kuhr owr FUHJ-ruhr kee nuh-MAHZ uh-DAH kuhr KAY uhp-NAY suh-FUHR kah ah-GHAHZ kee-YAH)",
+          "translation": "Having woken up early in the morning [bedaar ho kar] and offered the dawn prayer [ada kar ke], we commenced our journey."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "معطوفہ فارمولا: کھا کر، پی کر، جا کر = پہلے کام کی تکمیل، پھر اگلے کام کا آغاز!"
+      ],
+      "culturalNotes": [
+        "اردو ادبی اور تاریخی بیانیے میں تکرارِ الفاظ سے بچنے اور تحریر میں نفاست پیدا کرنے کے لیے لاحقہ 'کر' ریڑھ کی ہڈی کی حیثیت رکھتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"سفر\":",
+          "prompt": "دو جملوں «اس نے خط لکھا» اور «اس نے ڈاک میں ڈالا» کا فصیح معطوفہ امتزاج کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («شاعری» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («مشاعرہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ادب» کی خرابی)"
+            "اس نے خط لکھ کر ڈاک میں ڈالا (Us ne khat likh kar daak mein daala - Correct conjunctive sequence with likh kar)",
+            "اس نے خط لکھا اور ڈالا تھا (سست اسلوب)",
+            "اس نے خط لکھتے لکھتے ڈالا (حال جاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«اس نے خط لکھ کر ڈاک میں ڈالا» معطوفہ فعل کا فصیح ترین جملہ ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"سفر\":",
+          "prompt": "فعل «پڑھنا» کا درست معطوفہ صیغہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («مشاعرہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ادب» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («شاعری» کا غیر درست استعمال)"
+            "پڑھ کر (Parh kar - Having read: Verb root parh + kar)",
+            "پڑھتے کر (غلط لاحقہ)",
+            "پڑھا کر (عادت کا صیغہ)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مادہ فعل 'پڑھ' کے ساتھ 'کر' مل کر «پڑھ کر» بنتا ہے۔"
         }
       ]
     },
@@ -5869,17 +5878,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"سفر\": Which sentence is completely correct?",
+          "prompt": "معطوفہ فعل (Conjunctive Participle with 'کر') کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ادب» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («شاعری» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («مشاعرہ» سے متعلق)"
+            "سائنسدان نے لیبارٹری میں تمام تجربات مکمل کر کے اور ان کے نتائج کا باریک بینی سے جائزہ لے کر اپنا مقالہ شائع کیا۔ (Having completed all experiments in the laboratory [mukammal kar ke] and examined their results [jaa'iza le kar], the scientist published his paper.)",
+            "سائنسدان نے تجربہ کیا تھا اور رویا تھا۔",
+            "لاحقہ کر صرف انگریزی میں استعمال ہوتا ہے۔",
+            "کر کو ہمیشہ اسم کے شروع میں لگانا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«سائنسدان نے لیبارٹری میں تمام تجربات مکمل کر کے اور ان کے نتائج کا باریک بینی سے جائزہ لے کر اپنا مقالہ شائع کیا۔» لاحقہ کر اور معطوفہ افعال کا مکمل فصیح نمونہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u14-l2": {
@@ -5887,53 +5897,62 @@
     "subject": "urdu",
     "unit": 14,
     "lessonNumber": 2,
-    "title": "معطوفہ افعال: کر کا لاحقہ (Conjunctive Participles) (Part 2)",
+    "title": "فعل 'کرنا' کا استثناء: 'کر کے' بمقابلہ 'کر کر' (Irregular 'Kar Ke' & Idioms)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 14.2) with authentic precision.",
+    "objective": "فعل 'کرنا' کے ساتھ 'کر کے' کے استثنائی قاعدے اور معطوفہ محاوراتی مرکبات (سوچ سمجھ کر، جان بوجھ کر) پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں فعل «کرنا» کا استثناء اور محاوراتی مرکبات:\n\n1. **قاعدۂ استثناء ('Kar Ke' vs 'Kar Kar')**:\n   - تمام افعال کے ساتھ مادہ + 'کر' آتا ہے (جیسے: کھا کر، پی کر)، لیکن فعل **'کرنا'** کے ساتھ 'کر کر' بولنا فاش غلطی ہے؛ ہمیشہ **«کر کے»** بولا اور لکھا جاتا ہے:\n     - «کام **کر کے**» (نہ کہ کام کر کر)؛\n     - «فیصلہ **کر کے**»۔\n\n2. **محاوراتی مرکب معطوفہ افعال (Idiomatic Reduplicatives)**:\n   - **سوچ سمجھ کر** (Deliberately and thoughtfully)؛\n   - **جان بوجھ کر** (Intentionally / Knowingly)؛\n   - **ہنس بول کر** (Cheerfully and cordially)؛\n   - **دیکھ بھال کر** (Carefully scrutinizing)۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ہر عقلمند اور دور اندیش رہنما اہم قومی فیصلے خوب سوچ سمجھ کر ہی کرتا ہے۔",
+          "reading": "Har aqlmand aur door-andesh rehnuma aham qaumi faislay khoob soch samajh kar hi karta hai. [hər əqlmənd̪ ɔːr d̪uːr-ənd̪eːʃ rɛɦnʊmaː əɦəm qɔːmiː fɛːsleː xuːb soːtʃ səmədʒʱ kər hiː kərt̪aː hɛː] (HUHR uhql-MUHND owr door-uhn-DAYSH ryh-noo-MAH UH-huhm QOW-mee FYS-lay KHOOB SOHCH suh-MUHJH kuhr HEE kuhr-TAH HY)",
+          "translation": "Every wise and farsighted leader makes important national decisions only after thinking and understanding thoroughly [idiom: soch samajh kar]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 14-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اس نے اس نازک مقدمے کی تمام باریکیوں کا جائزہ لے کر اور تمام پہلوؤں پر غور کر کے حتمی رائے قائم کی۔",
+          "reading": "Us ne is naazuk muqaddamay ki tamaam baareekiyon ka jaa'iza le kar aur tamaam pehluon par ghaur kar ke hatmi raaye qaa'im ki. [ʊs neː ɪs naːzʊk mʊqəd̪ːəmeː kiː t̪əmaːm baːriːkɪjõː kaː dʒaːʔɪzaː leː kər ɔːr t̪əmaːm pɛɦluːõː pər ɣɔːr kər keː hət̪miː raːjeː qaːʔɪm kiː] (OOS nay EES nah-ZOOK moo-quhd-duh-MAY kee tuh-MAHM bah-ree-kee-YOHN kah JAH-ee-zah LAY kuhr owr tuh-MAHM pyh-loo-OHN puhr GHOWR kuhr KAY huht-MEE RAH-yay QAH-eem KEE)",
+          "translation": "Having examined all subtleties of this sensitive case [jaa'iza le kar] and pondered all aspects [ghaur kar ke], he formed a final opinion."
+        },
+        {
+          "target": "ہمیں معاشرے میں دوسروں کے جذبات کا خیال رکھ کر اور جان بوجھ کر کسی کا دل دکھانے سے بچنا چاہیے۔",
+          "reading": "Hamein muaashray mein doosron ke jazbaat ka khayaal rakh kar aur jaan boojh kar kisi ka dil dukhaanay se bachna chaahiye. [həmẽː mʊʔaːʃreː mẽː d̪uːsrõː keː dʒəzbaːt̪ kaː xəjaːl rəkʰ kər ɔːr dʒaːn buːdʒʱ kər kɪsiː kaː d̪ɪl d̪ʊkʰaːneː seː bətʃnaː tʃaːhɪjeː] (huh-MAYN moo-AHSH-ray mayn DOOS-rohn kay jooz-BAHT kah khuh-YAHL RUHKH kuhr owr JAHN BOOJH kuhr KEE-see kah DEEL doo-khah-NAY say BUHTCH-nah chah-hee-AY)",
+          "translation": "We must care for others' feelings in society [khayaal rakh kar] and avoid hurting anyone's heart intentionally [idiom: jaan boojh kar]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "کر کے قاعدہ: کھانا کھا کر (عام فعل)، لیکن کام 'کر کے' (کرنا کا استثناء)!"
+      ],
+      "culturalNotes": [
+        "اردو محاورے 'سوچ سمجھ کر' اور 'دیکھ بھال کر' مشرقی تہذیب میں سنجیدگی اور دور اندیشی کی بنیادی قدروں کو ظاہر کرتے ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"شاعری\":",
+          "prompt": "فعل «کرنا» کے ساتھ درست معطوفہ ساخت کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («مشاعرہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ادب» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («غزل» کی خرابی)"
+            "کام کر کے (Kaam kar ke - Correct irregular conjunctive form of karna)",
+            "کام کر کر (فاش نحوی غلطی)",
+            "کام کرتا کر (غیر فصیح)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "فعل 'کرنا' کے ساتھ 'کر کے' کہنا مستند اور درست ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"شاعری\":",
+          "prompt": "ارادتاً کوئی کام کرنے کا فصیح محاوراتی معطوفہ کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ادب» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («غزل» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («مشاعرہ» کا غیر درست استعمال)"
+            "جان بوجھ کر (Jaan boojh kar - Idiomatic intentional participle)",
+            "جان بو جھتے (غیر مستعمل)",
+            "جان کے رو کر (بے معنی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "ارادتاً کے لیے محاورہ «جان بوجھ کر» بولا جاتا ہے۔"
         }
       ]
     },
@@ -5941,17 +5960,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"شاعری\": Which sentence is completely correct?",
+          "prompt": "استثنائی ساخت 'کر کے' اور محاوراتی معطوفات کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («غزل» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («مشاعرہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ادب» سے متعلق)"
+            "جج صاحب نے تمام گواہوں کے بیانات کا تفصیلی مطالعہ کر کے اور تمام شواہد کو دیکھ بھال کر ہی انصاف پر مبنی فیصلہ سنایا۔ (The judge announced a verdict based on justice only after studying all witnesses' statements [mutaala'a kar ke] and scrutinizing all evidence [dekh bhaal kar].)",
+            "جج صاحب نے مطالعہ کر کر رویا تھا۔",
+            "کر کے کہنا اردو میں منع ہے۔",
+            "سوچ سمجھ کر صرف دکان پر بولا جاتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«جج صاحب نے تمام گواہوں کے بیانات کا تفصیلی مطالعہ کر کے اور تمام شواہد کو دیکھ بھال کر ہی انصاف پر مبنی فیصلہ سنایا۔» استثناء اور محاوراتی معطوفات کا شاہکار جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u14-l3": {
@@ -5959,53 +5979,62 @@
     "subject": "urdu",
     "unit": 14,
     "lessonNumber": 3,
-    "title": "معطوفہ افعال: کر کا لاحقہ (Conjunctive Participles) (Part 3)",
+    "title": "سبب اور نتیجے کا معطوفہ اظہار: 'سن کر'، 'دیکھ کر' (Causal Participles)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 14.3) with authentic precision.",
+    "objective": "معطوفہ افعال کے ذریعے علت و سبب (Causality & Emotional Response: سن کر، دیکھ کر، پا کر، جان کر) کے ادبی اظہار پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں سببی معطوفہ افعال (Causal Conjunctive Participles):\n\n1. **علت و سبب کا معطوفہ اظہار**:\n   - جب پہلا فعل کسی جذباتی کیفیت، حیرت، خوشی یا غم کا براہِ راست سبب بنے:\n     - «خوشخبری **سن کر** دل باغ باغ ہو گیا» (Hearing the good news -> Delighted)؛\n     - «تباہی کے مناظر **دیکھ کر** آنکھیں نم ہو گئیں» (Seeing the scenes -> Tears)؛\n     - «سچائی **جان کر** اطمینان نصیب ہوا» (Knowing the truth -> Relief)۔\n\n2. **نحوی ربط**:\n   - یہ صیغے جملے کو اختصار اور غیر معمولی تاثراتی قوت عطا کرتے ہیں۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "قومی کرکٹ ٹیم کی شاندار اور تاریخی فتح کی خبر سن کر پورا ملک جشن میں ڈوب گیا۔",
+          "reading": "Qaumi cricket team ki shaandaar aur taareekhi fateh ki khabar sun kar poora mulk jashn mein doob gaya. [qɔːmiː krɪkɪʈ ʈiːm kiː ʃaːndaːr ɔːr t̪aːriːxiː fət̪əh kiː xəbər sʊn kər puːraː mʊlk dʒəʃn mẽː duːb ɡəjaː] (QOW-mee cricket team kee shahn-DAHR owr tah-REE-khee FUH-tuh kee khuh-BUHR SOON kuhr POO-rah MOOLK JUHSHN mayn DOOB guh-YAH)",
+          "translation": "Hearing the news of the national cricket team's glorious and historical victory [causal: sun kar], the entire country was submerged in celebration."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 14-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "سیلاب زدگان کی کسمپرسی اور تباہی دیکھ کر ہر دردمند شہری امداد کے لیے میدان میں نکل آیا۔",
+          "reading": "Sailaab-zadagaan ki kasm-pursi aur tabaahi dekh kar har dard-mand shehri imdaad ke liye maidaan mein nikal aaya. [sɛːlaːb-zəd̪əɡaːn kiː kəsm-pʊrsiː ɔːr t̪əbaːhiː d̪eːkʰ kər hər d̪ərd̪-mənd̪ ʃɛɦriː ɪmdaːd̪ keː lɪjeː mɛːd̪aːn mẽː nɪkəl aːjaː] (sy-LAHB-zuh-duh-GAHN kee kuhsm-POOR-see owr tuh-bah-HEE DAYKH kuhr HUHR duhrd-MUHND shyh-REE eem-DAHD kay lee-AY my-DAHN mayn nee-KUHL ah-YAH)",
+          "translation": "Seeing the helplessness and devastation of the flood victims [causal: dekh kar], every compassionate citizen stepped out for relief."
+        },
+        {
+          "target": "اس باصلاحیت نوجوان کی غیر معمولی تخلیقی صلاحیتوں کو جان کر تمام غیر ملکی اسکالرز دنگ رہ گئے۔",
+          "reading": "Is baa-salaahiyat naujawaan ki ghair-ma'mooli takhleeqi salaahiyaton ko jaan kar tamaam ghair-mulki scholars dang reh gaye. [ɪs baː-səlaːhɪjət̪ nɔːdʒəʋaːn kiː ɣɛːr-maːmuːliː t̪əxliːqiː səlaːhɪjət̪õː koː dʒaːn kər t̪əmaːm ɣɛːr-mʊlkiː skoːlərz d̪ənɡ rəh ɡəjeː] (EES bah-suh-lah-hee-YUHT now-juh-VAHN kee ghyr-mah-moo-LEE tuhkh-lee-QEE suh-lah-hee-yuh-TOHN koh JAHN kuhr tuh-MAHM ghyr-mool-KEE scholars DUHNG ruh guh-YAY)",
+          "translation": "Learning about the extraordinary creative talents of this gifted youth [causal: jaan kar], all foreign scholars were astonished."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "سببی معطوفہ فارمولا: خبر سن کر خوش ہوا، منظر دیکھ کر رو پڑا، سچ جان کر مطمئن ہوا!"
+      ],
+      "culturalNotes": [
+        "اردو کی مرثیہ نگاری اور المیہ شاعری میں 'سن کر' اور 'دیکھ کر' کے ذریعے جذبات کا تلاطم پیدا کیا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"مشاعرہ\":",
+          "prompt": "خبر سن کر ہونے والے جذباتی ردِ عمل کے لیے کون سا جملہ درست ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («ادب» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («غزل» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («موسم» کی خرابی)"
+            "خوشخبری سن کر سب جھوم اٹھے (Hearing the good news everyone danced with joy - Causal participle sun kar)",
+            "خوشخبری سنتے تھے اور جھومے (ماضی کی خامی)",
+            "خوشخبری سن کر رویا رویا (بے ربط)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«خوشخبری سن کر سب جھوم اٹھے» سببی معطوفہ کا درست جملہ ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"مشاعرہ\":",
+          "prompt": "حیرت کا سبب بننے والے معطوفہ فعل کا درست صیغہ کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («غزل» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («موسم» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ادب» کا غیر درست استعمال)"
+            "حقیقت جان کر دنگ رہ گیا (Knowing the truth he was astonished - Causal jaan kar)",
+            "حقیقت جانتے کر (غلط ساخت)",
+            "حقیقت جانتا تھا (سادہ ماضی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«حقیقت جان کر دنگ رہ گیا» میں 'جان کر' حیرت کا سبب ہے۔"
         }
       ]
     },
@@ -6013,17 +6042,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"مشاعرہ\": Which sentence is completely correct?",
+          "prompt": "سبب اور نتیجے کے معطوفہ اظہار (Causal Conjunctive Participles) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («موسم» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ادب» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («غزل» سے متعلق)"
+            "غریب یتیم بچے کی المناک بپتا سن کر اور اس کی بے بسی دیکھ کر پوری محفل کے حاضرین اشکبار ہو گئے۔ (Hearing the tragic tale of the poor orphan child [sun kar] and seeing his helplessness [dekh kar], all attendees of the gathering were moved to tears.)",
+            "بچے کی بپتا سنا تھا اور کھانا کھایا تھا۔",
+            "دیکھ کر صرف عینک لگا کر بولا جاتا ہے۔",
+            "سن کر کو ہمیشہ جملے کے بالکل آخر میں لکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«غریب یتیم بچے کی المناک بپتا سن کر اور اس کی بے بسی دیکھ کر پوری محفل کے حاضرین اشکبار ہو گئے۔» سببی معطوفہ افعال کا مکمل اور اثر انگیز جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u14-l4": {
@@ -6031,53 +6061,62 @@
     "subject": "urdu",
     "unit": 14,
     "lessonNumber": 4,
-    "title": "معطوفہ افعال: کر کا لاحقہ (Conjunctive Participles) (Part 4)",
+    "title": "زنجیری معطوفہ افعال اور طویل نثری روانی (Chained Participles in Prose)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 14.4) with authentic precision.",
+    "objective": "سلسلہ وار زنجیری معطوفہ افعال (Serial Participles) کے ذریعے طویل ادبی و وضاحتی جملوں میں بے ساختہ نثری روانی پیدا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں سلسلہ وار معطوفہ افعال (Chained Participles in Literary Prose):\n\n1. **زنجیری بندش (Syntactic Chaining)**:\n   - جب ایک ہی فاعل کے متعدد افعال کو ایک ہی جملے میں جوڑنا ہو:\n     - «مسافر نے **سفر طے کر کے**، سرائے میں **قیام کر کے** اور **تازہ دم ہو کر** پیش قدمی کی»؛\n\n2. **نثری ایجاز اور سحر انگیزی**:\n   - یہ اسلوب جملے کو بار بار کے حروفِ عطف ('اور') سے نجات دلاتا ہے اور کہانی یا مضمون میں دریا کی سی روانی پیدا کرتا ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "مسافر نے طویل اور کٹھن سفر طے کر کے، سرائے میں قیام کر کے اور تازہ دم ہو کر دوبارہ منزل کی طرف قدم بڑھائے۔",
+          "reading": "Musaafir ne taweel aur kathan safar tay kar ke, saraaye mein qiyaam kar ke aur taaza-dam ho kar dobaara manzil ki taraf qadam barhaaye. [mʊsaːfɪr neː t̪əʋiːl ɔːr kətʰən səfər t̪əj kər keː səraːjeː mẽː qɪjaːm kər keː ɔːr t̪aːzaː-d̪əm hoː kər d̪oːbaːraː mənzɪl kiː t̪ərəf qəd̪əm bəɽʱaːjeː] (moo-sah-FEER nay tuh-VEEL owr kuh-THUHN suh-FUHR TY kuhr KAY, suh-RAH-yay mayn qee-YAHM kuhr KAY owr tah-zah-DUHM hoh kuhr doh-BAH-rah muhn-ZEEL kee tuh-RUHF quh-DUHM buhr-DHAH-yay)",
+          "translation": "Having traversed a long journey [tay kar ke], rested at the inn [qiyaam kar ke], and refreshed himself [taaza-dam ho kar], the traveler advanced toward his destination."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 14-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "سائنسدانوں نے تمام ضروری تجربات مکمل کر کے، اعداد و شمار کا باریک بینی سے تجزیہ کر کے اپنے حتمی نتائج شائع کیے۔",
+          "reading": "Sainsdaanon ne tamaam zaroori tajribaat mukammal kar ke, aadaad-o-shumaar ka baareek-beeni se tajziya kar ke apne hatmi nataa'ij shaaya kiye. [saːɪnsdaːnõː neː t̪əmaːm zəruːriː t̪ədʒrɪbaːt̪ mʊkəmːəl kər keː aːd̪aːd̪-oː-ʃʊmaːr kaː baːriːk-biːniː seː t̪ədʒzɪjaː kər keː əpneː hət̪miː nət̪aːʔɪdʒ ʃaːjəʔ kɪjeː] (sah-eens-dah-NOHN nay tuh-MAHM zuh-ROO-ree tuhj-ree-BAHT moo-kuhm-MUHL kuhr KAY, ah-DAHD-oh-shoo-MAHR kah bah-REEK-bee-NEE say tuhj-zee-YAH kuhr KAY uhp-NAY huht-MEE nuh-tah-EEJ shah-YUH kee-YAY)",
+          "translation": "Having completed all necessary experiments [mukammal kar ke] and scrutinized the statistics [tajziya kar ke], the scientists published their final findings."
+        },
+        {
+          "target": "ہم نے پرانی عمارت کی بنیادیں مضبوط کر کے، اس کی دیواروں کی مرمت کر کے اور اس میں جدید سہولیات فراہم کر کے اسے محفوظ بنا دیا۔",
+          "reading": "Hum ne puraani imaarat ki buniyaadein mazboot kar ke, is ki deewaaron ki marammat kar ke aur is mein jadeed sahooliyaat faraaham kar ke usay mehfooz bana diya. [həm neː pʊraːniː ɪmaːrət̪ kiː bʊnɪjaːd̪ẽː məzbuːt̪ kər keː ɪs kiː d̪iːʋaːrõː kiː mərəmːət̪ kər keː ɔːr ɪs mẽː dʒəd̪iːd̪ səhuːlɪjaːt̪ fəraːhəm kər keː ʊseː mɛɦfuːz bənaː d̪ɪjaː] (HOOM nay poo-RAH-nee ee-mah-RUHT kee boo-nee-yah-DAYN muhz-BOOT kuhr KAY, EES kee dee-vah-ROHN kee muh-ruhm-MUHT kuhr KAY owr EES mayn juh-DEED suh-hoo-lee-YAHT fuh-rah-HUHM kuhr KAY oo-SAY muhh-FOOZ buh-nah dee-YAH)",
+          "translation": "Having reinforced the old building's foundations [mazboot kar ke], repaired its walls [marammat kar ke], and provided modern amenities [faraaham kar ke], we made it secure."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "زنجیری بندش: طے کر کے + قیام کر کے + تازہ دم ہو کر = نثری روانی کا کمال!"
+      ],
+      "culturalNotes": [
+        "اردو کلاسیکی نثر (جیسے داستانِ امیر حمزہ اور فسانۂ عجائب) میں زنجیری معطوفہ افعال کے ذریعے داستان گو مجمع کو مسحور کر لیا کرتے تھے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"ادب\":",
+          "prompt": "سلسلہ وار تین افعال (اٹھنا، نہانا، نکلنا) کا فصیح زنجیری جملہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («غزل» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («موسم» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سورج» کی خرابی)"
+            "وہ صبح بیدار ہو کر، غسل کر کے اور ناشتہ کر کے دفتر روانہ ہو گیا (Chained participles: bedaar ho kar, ghusl kar ke, naashta kar ke)",
+            "وہ بیدار ہوا اور نہایا اور نکلا تھا (بے ہنگم تکرار)",
+            "وہ بیدار ہوتے نہاتے نکلتا تھا (غیر موزوں)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«وہ صبح بیدار ہو کر، غسل کر کے اور ناشتہ کر کے دفتر روانہ ہو گیا» زنجیری معطوفہ افعال کا شاہکار نمونہ ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"ادب\":",
+          "prompt": "زنجیری معطوفہ افعال کا اردو تحریر میں سب سے بڑا فائدہ کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («موسم» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سورج» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («غزل» کا غیر درست استعمال)"
+            "بار بار 'اور' کی تکرار ختم کر کے جملے میں دریا جیسی نثری روانی پیدا کرنا (Eliminating repetitive conjunctions and creating flowing prose)",
+            "جملے کو مشکل بنانا",
+            "صرف صفحات کو بھرنا",
+            "بے معنی بحث پیدا کرنا"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ غیر ضروری تکرار ختم کر کے نثری روانی اور ربط پیدا کرتے ہیں۔"
         }
       ]
     },
@@ -6085,17 +6124,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"ادب\": Which sentence is completely correct?",
+          "prompt": "زنجیری معطوفہ افعال (Chained Participles) کا فصیح و بلیغ جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سورج» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («غزل» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («موسم» سے متعلق)"
+            "محقق نے پرانے دستاویزات کا جائزہ لے کر، ان کا باریک بینی سے موازنہ کر کے اور حقائق کو پرکھ کر اپنی حتمی رائے قائم کی۔ (Having reviewed the old documents [jaa'iza le kar], compared them closely [muwaazna kar ke], and evaluated facts [parakh kar], the researcher formed his final opinion.)",
+            "محقق نے دستاویز دیکھا تھا اور رویا تھا اور گھر گیا۔",
+            "زنجیری افعال صرف پہاڑی راستوں پر بولے جاتے ہیں۔",
+            "تین سے زیادہ افعال ایک جملے میں لانا ممنوع ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«محقق نے پرانے دستاویزات کا جائزہ لے کر، ان کا باریک بینی سے موازنہ کر کے اور حقائق کو پرکھ کر اپنی حتمی رائے قائم کی۔» زنجیری معطوفہ افعال کا فصیح نمونہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u14-l5": {
@@ -6103,53 +6143,62 @@
     "subject": "urdu",
     "unit": 14,
     "lessonNumber": 5,
-    "title": "معطوفہ افعال: کر کا لاحقہ (Conjunctive Participles) (Part 5)",
+    "title": "معطوفہ افعال کا جامع سمیکن (Conjunctive Participles Grand Synthesis)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 14.5) with authentic precision.",
+    "objective": "معطوفہ افعال، 'کر کے' کے استثناء، سببی ساختوں (سن کر/دیکھ کر) اور زنجیری افعال کو ایک شاندار ادبی شاہکار میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "معطوفہ افعال کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **فصاحت و بلاغت کا امتزاج**:\n   - جب اردو کا ادیب یا خطیب تمام معطوفہ صورتوں کو ایک ہی فکری لڑی میں سمو دیتا ہے تو کلام میں جادوئی تاثیر پیدا ہو جاتی ہے:\n     - **ترتیبِ زمانی**: «سچائی **جان کر**»؛\n     - **استثنائی 'کر کے'**: «باہمی اتحاد قائم **کر کے**»؛\n     - **محاوراتی معطوفہ**: «**سوچ سمجھ کر** قدم اٹھایا»؛\n     - **سببی ردِ عمل**: «دشمن کی سازش **دیکھ کر** ڈٹ گئے»۔\n\n2. **ادبی و قومی وقار**:\n   - یہ اسلوب اردو کی تاریخ ساز تقاریر، سوانحی شاہکاروں اور فکری مقالات کی اصل جان ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "پوری قوم نے اپنے رہنما کا ولولہ انگیز خطاب سن کر، تمام باہمی اختلافات کو بھلا کر، سیسہ پلائی ہوئی دیوار بن کر دشمن کے ناپاک عزائم کو خاک میں ملا دیا۔",
+          "reading": "Poori qawm ne apne rehnuma ka walwala-angayz khitaab sun kar, tamaam baahami ikhtelaafaat ko bhula kar, seesa pilaayi hui deewaar ban kar dushman ke naapaak azaa'im ko khaak mein mila diya. [puːriː qɔːm neː əpneː rɛɦnʊmaː kaː ʋəlʋəlaː-ənɡeːz xɪtqaːb sʊn kər t̪əmaːm baːhəmiː ɪxt̪ɪlaːfaːt̪ koː bʱʊlaː kər siːsaː pɪlaːjiː hʊiː d̪iːʋaːr bən kər d̪ʊʃmən keː naːpaːk əzaːʔɪm koː xaːk mẽː mɪlaː d̪ɪjaː] (POO-ree QOWM nay uhp-NAY ryh-noo-MAH kah vuhl-vuh-lah-uhn-GAYZ khee-TAHB SOON kuhr, tuh-MAHM bah-huh-MEE eekh-tuh-lah-FAHT koh bhoo-LAH kuhr, SEE-sah pee-LAH-yee hoo-EE dee-VAHR BUHN kuhr doosh-MUHN kay nah-PAHK uh-ZAH-eem koh KHAHK mayn mee-LAH dee-YAH)",
+          "translation": "Having heard their leader's impassioned address [sun kar], forgotten mutual differences [bhula kar], and become a lead-poured wall [ban kar], the entire nation reduced the enemy's impure designs to dust."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 14-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "مورخ نے قدیم مخطوطات کا عمیق مطالعہ کر کے، تمام شواہد کو پرکھ کر اور تاریخی حقائق کو دیانت داری سے قلمبند کر کے ایک لازوال دستاویز تیار کی۔",
+          "reading": "Muarrikh ne qadeem makhtootaat ka ameeq mutaala'a kar ke, tamaam shawaahid ko parakh kar aur taareekhi haqaa'iq ko diyaanat-daari se qalamband kar ke ek laa-zawaal dastaaweez tayyaar ki. [mʊʔərːɪx neː qəd̪iːm məxtuːt̪aːt̪ kaː əmiːq mʊt̪aːlɪʔaː kər keː t̪əmaːm ʃəʋaːhɪd̪ koː pərəkʰ kər ɔːr t̪aːriːxiː hʌqaːʔɪq koː d̪ɪjaːnət̪-d̪aːriː seː qələmbənd̪ kər keː eːk laː-zəʋaːl d̪əst̪aːʋeːz t̪əjːaːr kiː] (moo-uhr-REEKH nay quh-DEEM muhkh-too-TAHT kah uh-MEEQ moo-tah-luh-AH kuhr KAY, tuh-MAHM shuh-vah-HEED koh PUH-ruhkh kuhr owr tah-REE-khee huh-QAH-eeq koh dee-yah-nuht-dah-REE say quh-luhm-BUHND kuhr KAY AYK lah-zuh-VAHL duhs-tah-VAYZ ty-YAHR KEE)",
+          "translation": "Having deeply studied ancient manuscripts [mutaala'a kar ke], tested all evidence [parakh kar], and honestly recorded historical facts [qalamband kar ke], the historian produced an immortal document."
+        },
+        {
+          "target": "ہمیں اپنے اسلاف کی تابناک قربانیوں کو یاد کر کے، ان کے نقشِ قدم پر چل کر اور اپنے ذاتی مفادات کو قومی مفاد پر قربان کر کے وطن کو عظیم بنانا ہے۔",
+          "reading": "Hamein apne aslaaf ki taabnaak qurbaaniyon ko yaad kar ke, un ke naqsh-e-qadam par chal kar aur apne zaati mufaadaat ko qaumi mufaad par qurbaan kar ke watan ko azeem banaana hai. [həmẽː əpneː əslaːf kiː t̪aːbnaːk qʊrbaːnɪjõː koː jaːd̪ kər keː ʊn keː nəqʃ-eː-qəd̪əm pər tʃəl kər ɔːr əpneː zaːt̪iː mʊfaːd̪aːt̪ koː qɔːmiː mʊfaːd̪ pər qʊrbaːn kər keː ʋət̪ən koː əziːm bənaːnaː hɛː] (huh-MAYN uhp-NAY uhs-LAHF kee tahb-NAHK qoor-bah-nee-YOHN koh YAHD kuhr KAY, OON kay nuhq-shay-quh-DUHM puhr CHUHL kuhr owr uhp-NAY zah-TEE moo-fah-DAHT koh QOW-mee moo-FAHD puhr qoor-BAHN kuhr KAY vuh-TUHN koh uh-ZEEM buh-NAH-nah HY)",
+          "translation": "Remembering our ancestors' glorious sacrifices [yaad kar ke], walking in their footsteps [chal kar], and sacrificing personal interests for the national good [qurbaan kar ke], we must make the homeland great."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع معطوفات: خطاب سن کر (سبب)، اختلافات بھلا کر (ترتیب)، مطالعہ کر کے (استثناء)، عظیم بنانا ہے (مقصد)!"
+      ],
+      "culturalNotes": [
+        "اردو کی تاریخی تقریروں (جیسے قراردادِ پاکستان کی تقاریر) میں معطوفہ افعال کا یہی جاندار اور فصیح اسلوب قوم کے اجتماعی عزم کو متحرک کرتا رہا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"غزل\":",
+          "prompt": "معطوفہ افعال کے جامع امتزاج کا فصیح ترین جملہ منتخب کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («موسم» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سورج» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بارش» کی خرابی)"
+            "اس نے حقیقت جان کر، خوب سوچ سمجھ کر اور فیصلہ کر کے سب کو آگاہ کیا (Masterful synthesis: jaan kar [causal], soch samajh kar [idiom], faisla kar ke [irregular])",
+            "اس نے حقیقت جانا تھا اور فیصلہ کیا تھا رویا تھا (بے ربط ماضی)",
+            "وہ جانتا کرتا رہتا تھا (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«اس نے حقیقت جان کر، خوب سوچ سمجھ کر اور فیصلہ کر کے سب کو آگاہ کیا» معطوفہ افعال کے تمام پہلوؤں کا شاہکار نمونہ ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"غزل\":",
+          "prompt": "معطوفہ افعال کا جامع سمیکن اردو نثر کو کیا حسن بخشتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سورج» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بارش» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («موسم» کا غیر درست استعمال)"
+            "افعال کی زنجیر کو مربوط، رواں، پرتاثیر اور فصیح ادبی پیرائے میں ڈھال دینا (Transforming chains of actions into coherent, flowing, powerful, and eloquent prose)",
+            "صرف الفاظ کی گنتی بڑھانا",
+            "صرف لغت کو دہرانا",
+            "بے معنی تکرار کرنا"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ افعال کو مربوط، شگفتہ اور رواں ادبی پیرائے میں ڈھالتا ہے۔"
         }
       ]
     },
@@ -6157,17 +6206,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"غزل\": Which sentence is completely correct?",
+          "prompt": "معطوفہ افعال کے جامع سمیکن (Conjunctive Participles Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بارش» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («موسم» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سورج» سے متعلق)"
+            "ہم نے اپنے اسلاف کی قربانیوں کو یاد کر کے، تمام چیلنجوں کا جائزہ لے کر اور باہمی اتحاد قائم کر کے وطن کی خود مختاری کا دفاع کیا۔ (Having remembered our ancestors' sacrifices [yaad kar ke], evaluated all challenges [jaa'iza le kar], and established mutual unity [qaa'im kar ke], we defended our sovereignty.)",
+            "ہم نے قربانی دیکھا تھا اور گاڑی روتی تھی۔",
+            "جامع سمیکن صرف خط و کتابت میں آتا ہے۔",
+            "معطوفہ افعال کا استعمال صرف شاعری میں جائز ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہم نے اپنے اسلاف کی قربانیوں کو یاد کر کے، تمام چیلنجوں کا جائزہ لے کر اور باہمی اتحاد قائم کر کے وطن کی خود مختاری کا دفاع کیا۔» معطوفہ افعال کے جامع سمیکن کا کامل ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u15-l1": {
