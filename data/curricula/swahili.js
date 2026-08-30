@@ -9095,53 +9095,62 @@
     "subject": "swahili",
     "unit": 22,
     "lessonNumber": 1,
-    "title": "Mnyambuliko wa Vitenzi vya Kiarabu (Arabic-Origin Verbs) (Part 1)",
+    "title": "Vitenzi Visivyoishia na 'A': Asili, Muundo, na Ukanushaji wa Wakati Uliopo (Arabic-Origin Verbs Ending in -e, -i, -u)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.1) with authentic precision.",
+    "objective": "Kuelewa asili, muundo na kanuni ya pekee ya ukanushaji wa wakati uliopo kwa vitenzi vya asili ya Kiarabu vinavyoishia na vokali zisizo 'a' (-e, -i, -u).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vitenzi vya Asili ya Kiarabu na Vokali Zisizo 'A' (-e, -i, -u):\n\nVitenzi vingi vya asili ya Kibantu katika Kiswahili huishia na herufi **-a** (*soma, lima, fanya, andika*), na vinapokanushwa katika wakati uliopo, herufi **-a** hubadilika kuwa **-i** (*nasoma -> sisomi, analima -> halimi*).\n\nLakini vitenzi vilivyokopwa kutoka lugha ya Kiarabu mara nyingi huishia na vokali **-e**, **-i**, au **-u**:\n\n1. **Aina Kuu za Vitenzi vya Kiarabu kulingana na Viishio**:\n   - **Viishio vya -e**: *samehe* (forgive), *starehe* (relax/enjoy), *karehe* (disgust).\n   - **Viishio vya -i**: *fikiri* (think), *safiri* (travel), *badili* (change), *bidi* (be necessary), *rudi* (return), *tamani* (desire), *wasili* (arrive), *keti* (sit).\n   - **Viishio vya -u**: *jibu* (answer), *jaribu* (try/test), *shukuru* (thank), *kabili* (face/confront), *dhuru* (harm), *uhuru* (liberate), *laumu* (blame), *hukumu* (judge).\n\n2. **Kanuni Muhimu ya Ukanushaji wa Wakati Uliopo**:\n   - Vitenzi hivi **HAVIBADILISHI** vokali yao ya mwisho kamwe wakati wa kukanusha wakati uliopo (*The final vowel stays unchanged*):\n     - *Ninafikiri* -> **Sifikiri** (*siyo sifikira wala sifikiro*)\n     - *Anasafiri* -> **Hasafiri**\n     - *Ninasamehe* -> **Sisamehe** (*siyo sisamehi*)\n     - *Ninajaribu* -> **Sijaribu** (*siyo sijaribi*)\n     - *Tunashukuru* -> **Hatushukuru** (*siyo hatushukuri*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 22."
+          "target": "Sifikiri kwamba msafiri atarudi leo jioni kwa sababu barabara zote zimeharibika kwa mvua kubwa.",
+          "reading": "Si-fi-ki-ri kwa-mba msa-fi-ri a-ta-ru-di le-o ji-o-ni kwa sa-ba-bu ba-ra-ba-ra zo-te zi-me-ha-ri-bi-ka kwa mvu-a kbu-bwa. [sifiˈkiri ˈkwɑmbɑ msɑˈfiri ɑtɑˈrudi ˈlɛɔ ʤiˈɔni kwɑ sɑˈbɑbu bɑrɑˈbɑrɑ ˈzɔtɛ zimɛhɑriˈbikɑ kwɑ ˈmvuɑ ˈkubwɑ] (see-fee-KEE-ree KWAHM-bah m-sah-FEE-ree ah-tah-ROO-dee LAY-oh jee-OH-nee kwah sah-BAH-boo bah-rah-BAH-rah ZOH-tay zee-may-hah-ree-BEE-kah kwah MVOO-ah KOO-bwah)",
+          "translation": "I do not think [sifikiri: fikiri -> sifikiri] that the traveler will return [atarudi] this evening because all roads are damaged by heavy rain."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 22-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mwalimu hasamehe wanafunzi wanaofanya makosa yale yale kwa makusudi bila kujaribu kurekebisha tabia zao.",
+          "reading": "Mwa-li-mu ha-sa-me-he wa-na-fu-nzi wa-na-o-fa-nya ma-ko-sa ya-le ya-le kwa ma-ku-su-di bi-la ku-ja-ri-bu ku-re-ke-bi-sha ta-bi-a za-o. [mwɑˈlimu hɑsɑˈmɛhɛ wɑnɑˈfunzi wɑnɑɔˈfɑɲɑ mɑˈkɔsɑ ˈjɑlɛ ˈjɑlɛ kwɑ mɑkuˈsudi ˈbilɑ kuʤɑˈribu kurɛkɛˈbiʃɑ tɑˈbiɑ ˈzɑɔ] (mwah-LEE-moo hah-sah-MAY-hay wah-nah-FOON-zee wah-nah-oh-FAH-nyah mah-KOH-sah YAH-lay YAH-lay kwah mah-koo-SOO-dee BEE-lah koo-jah-REE-boo koo-ray-kay-BEE-shah tah-BEE-ah ZAH-oh)",
+          "translation": "The teacher does not forgive [hasamehe: samehe -> hasamehe] students who repeat the exact same mistakes deliberately without trying [kujaribu] to correct their behavior."
+        },
+        {
+          "target": "Hatushukuru kwa maneno matupu pekee bali tunaonyesha shukrani zetu za dhati kupitia vitendo halisi vya ukarimu.",
+          "reading": "Ha-tu-shu-ku-ru kwa ma-ne-no ma-tu-pu pe-ke-e ba-li tu-na-o-nye-sha shu-kra-ni ze-tu za dha-ti ku-pi-tia vi-te-ndo ha-li-si vya u-ka-ri-mu. [hɑtuʃuˈkuru kwɑ mɑˈnɛnɔ mɑˈtupu pɛˈkɛː ˈbɑli tunɑɔˈɲɛʃɑ ʃuˈkrɑni ˈzɛtu zɑ ˈðɑti kupiˈtiɑ viˈtɛndɔ hɑˈlisi vjɑ ukɑˈrimu] (hah-too-shoo-KOO-roo kwah mah-NAY-noh mah-TOO-poo pay-KAY-ay BAH-lee too-nah-oh-NYAY-shah shoo-KRAH-nee ZAY-too zah THAH-tee koo-pee-TEE-ah vee-TAYN-doh hah-LEE-see vyah oo-kah-REE-moo)",
+          "translation": "We do not thank [hatushukuru: shukuru -> hatushukuru] with hollow words alone but we demonstrate our sincere gratitude through tangible acts of generosity."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vitenzi vya Kiarabu: -e, -i, -u HAVIBADILIKI katika ukanushaji wa sasa! Sisamehe (bado -e), Sifikiri (bado -i), Sishukuru (bado -u)!"
+      ],
+      "culturalNotes": [
+        "Uhusiano wa kihistoria wa kibiashara na kitamaduni kati ya Waswahili na Waarabu katika Pwani ya Afrika Mashariki ulileta msamiati mpana wa kisheria, kidini, na kiutawala."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Jioni\":",
+          "prompt": "Ukanushaji sahihi wa kitenzi cha Kiarabu «Ninashukuru» (I thank) katika wakati uliopo ni upi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Usiku»",
-            "Mpangilio usio sahihi wa viambishi katika «Wiki»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mwezi»"
+            "Sishukuru (I do not thank - Correct retention of final '-u')",
+            "Sishukuri (Kosa la kubadilisha '-u' kuwa '-i')",
+            "Sinashukuru (Kosa la kubakiza kiambishi cha wakati '-na-')",
+            "Sikushukuru (Huu ni wakati uliopita hasi)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Vitenzi vya Kiarabu vinavyoishia na «-u» hubakiza vokali yao katika ukanushaji wa sasa: «Ninashukuru» -> «Sishukuru»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Jioni\":",
+          "prompt": "Sentensi ipi inakanusha kitenzi «samehe» (forgive) kwa usahihi wa kanuni za Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Wiki»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mwezi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Usiku»"
+            "Mkurugenzi hasamehe ubadhirifu wowote wa mali ya umma. (The director does not forgive any embezzlement - Correct 'hasamehe')",
+            "Mkurugenzi hasamehi ubadhirifu wowote",
+            "Mkurugenzi hasameha ubadhirifu wowote",
+            "Mkurugenzi hakusamehe mali ya umma jana"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kitenzi «samehe» hubakiza «-e» katika ukanushaji wa wakati uliopo («hasamehe»)."
         }
       ]
     },
@@ -9149,17 +9158,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Jioni\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi kabisa ya ukanushaji wa sasa wa vitenzi vya asili ya Kiarabu:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mwezi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Usiku»",
-            "Mpangilio usio sahihi wa viambishi katika «Wiki»"
+            "ninafikiri -> sifikiri, anasafiri -> hasafiri, tunasamehe -> hatusamehe, unajaribu -> hujaribu, wanashukuru -> hawashukuru.",
+            "ninafikiri -> sifikira, anasafiri -> hasafira, tunasamehe -> hatusamehi, wanashukuru -> hawashukuri.",
+            "Vitenzi vyote vya Kiswahili bila ubaguzi lazima vimalizike na herufi '-i' wakati wa kukanusha.",
+            "ninafikiri -> sikufikiri, anasafiri -> hakusafiri, tunasamehe -> hatukusamehe."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Vitenzi vya kigeni vinavyoishia na -e, -i, -u hubakiza vokali zao: sifikiri, hasafiri, hatusamehe, hujaribu, hawashukuru."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u22-l2": {
@@ -9167,53 +9177,62 @@
     "subject": "swahili",
     "unit": 22,
     "lessonNumber": 2,
-    "title": "Mnyambuliko wa Vitenzi vya Kiarabu (Arabic-Origin Verbs) (Part 2)",
+    "title": "Mnyambuliko wa Kauli ya Kutendwa kwa Vitenzi vya Kiarabu (-iwa / -ewa) (Passives of Arabic-Origin Verbs)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.2) with authentic precision.",
+    "objective": "Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya -iwa na -ewa (Passive Loanword Derivations).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kauli ya Kutendwa kwa Vitenzi vya Kiarabu (-iwa / -ewa):\n\nVitenzi vya asili ya Kibantu huingiza *-wa* moja kwa moja (*soma -> somwa, penda -> pendwa*). Lakini vitenzi vya asili ya Kiarabu vinavyoishia na vokali *-e, -i, -u* haviwezi kupokea *-wa* bila vokali kiunganishi:\n\n1. **Kanuni ya Vitenzi Vinavyoishia na -i na -u (Huchukua -iwa)**:\n   - Vitenzi vinavyoishia na *-i* hupokea **-wa** baada ya vokali hiyo au kuingiza **-iwa**:\n     - *fikiri* -> **fikiriwa** (be thought of)\n     - *badili* -> **badiliwa** (be changed)\n     - *safiri* -> **safiriwa** (be traveled through)\n     - *dhihaki* -> **dhihakiwa** (be mocked).\n   - Vitenzi vinavyoishia na *-u* hubadilisha *-u* kuwa **-iwa**:\n     - *jibu* -> **jibiwa** (be answered - *siyo jibuwa*)\n     - *jaribu* -> **jaribiwa** (be tested)\n     - *shukuru* -> **shukuriwa** (be thanked)\n     - *laumu* -> **laumiwa** (be blamed)\n     - *hukumu* -> **hukumiwa** (be sentenced/judged)\n     - *hesabu* -> **hesabiwa** (be counted).\n\n2. **Kanuni ya Vitenzi Vinavyoishia na -e (Huchukua -ewa)**:\n   - Vitenzi vinavyoishia na *-e* huingiza **-ewa**:\n     - *samehe* -> **samehewa** (be forgiven - *siyo samehiwa*)\n     - *starehe* -> **starehewa**.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 22."
+          "target": "Barua rasmi ya kuomba ufadhili ilijibiwa kwa wakati na waombaji wote walishukuriwa kwa nia yao njema.",
+          "reading": "Ba-ru-a ra-smi ya ku-o-mba u-fa-dhi-li i-li-ji-bi-wa kwa wa-ka-ti na wa-o-mba-ji wo-te wa-li-shu-ku-ri-wa kwa ni-a ya-o nje-ma. [bɑˈruɑ ˈrɑsmi jɑ kuˈɔmbɑ ufɑˈðili iliʤiˈbiwɑ kwɑ wɑˈkɑti nɑ wɑɔˈmbɑʤi ˈwɔtɛ wɑliʃukuˈriwɑ kwɑ ˈniɑ ˈjɑɔ ˈnʤɛmɑ] (bah-ROO-ah RAH-smee yah koo-OHM-bah oo-fah-THEE-lee ee-lee-jee-BEE-wah kwah wah-KAH-tee nah wah-ohm-BAH-jee WOH-tay wah-lee-shoo-koo-REE-wah kwah NEE-ah YAH-oh N-JAY-mah)",
+          "translation": "The formal funding request letter was answered [ilijibiwa: jibu -> jibiwa] on time and all applicants were thanked [walishukuriwa: shukuru -> shukuriwa] for their good intentions."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 22-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Makosa madogo ya kiutawala yalisamehewa na kamati lakini uzembe kazini haukuvumiliwa hata kidogo.",
+          "reading": "Ma-ko-sa ma-do-go ya kiu-ta-wa-la ya-li-sa-me-he-wa na ka-ma-ti ba-li u-ze-mbe ka-zi-ni ha-u-ku-vu-mi-li-wa ha-ta ki-do-go. [mɑˈkɔsɑ mɑˈdɔɡɔ jɑ kiutɑˈwɑlɑ jɑlisɑmɛˈhɛwɑ nɑ kɑˈmɑti ˈbɑli uˈzɛmbɛ kɑˈzini hɑukuvumiˈliwɑ ˈhɑtɑ kiˈdɔɡɔ] (mah-KOH-sah mah-DOH-goh yah kee-oo-tah-WAH-lah yah-lee-sah-may-HAY-wah nah kah-MAH-tee BAH-lee oo-ZAYM-bay kah-ZEE-nee hah-oo-koo-voo-mee-LEE-wah HAH-tah kee-DOH-goh)",
+          "translation": "Minor administrative errors were forgiven [yalisamehewa: samehe -> samehewa] by the committee but workplace negligence was not tolerated at all."
+        },
+        {
+          "target": "Kesi nzito ya jinai ilihukumiwa kwa haki mahakamani na mshtakiwa hakulaumiwa kwa makosa ya wenzake.",
+          "reading": "Ke-si nzi-to ya ji-na-i i-li-hu-ku-mi-wa kwa ha-ki ma-ha-ka-ma-ni na msh-ta-ki-wa ha-ku-la-u-mi-wa kwa ma-ko-sa ya we-nza-ke. [ˈkɛsi ˈnzitɔ jɑ ʤiˈnɑi ilihukuˈmiwɑ kwɑ ˈhɑki mɑhɑkɑˈmɑni nɑ mʃtɑˈkiwɑ hɑkulɑuˈmiwɑ kwɑ mɑˈkɔsɑ jɑ wɛˈnzɑkɛ] (KAY-see N-ZEE-toh yah jee-NAH-ee ee-lee-hoo-koo-MEE-wah kwah HAH-kee mah-hah-kah-MAH-nee nah m-shtah-KEE-wah hah-koo-lah-oo-MEE-wah kwah mah-KOH-sah yah wayn-ZAH-kay)",
+          "translation": "The serious criminal case was judged [ilihukumiwa: hukumu -> hukumiwa] justly in court and the defendant was not blamed [hakulaumiwa: laumu -> laumiwa] for the faults of his peers."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kutendwa kwa Kiarabu: -i/-u -> -iwa (jibu -> jibiwa, shukuru -> shukuriwa, fikiri -> fikiriwa); -e -> -ewa (samehe -> samehewa)!"
+      ],
+      "culturalNotes": [
+        "Mahakama za Kadhi na mifumo ya kimila katika Pwani ya Kiswahili hutumia maneno ya kiutendwa kama 'kuhukumiwa', 'kulaumiwa' na 'kusamehewa' katika kutatua migogoro."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Usiku\":",
+          "prompt": "Kauli ya kutendwa (passive) sahihi ya kitenzi cha Kiarabu «jibu» (answer) ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Wiki»",
-            "Mpangilio usio sahihi wa viambishi katika «Mwezi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mwaka»"
+            "jibiwa (Be answered - Correct transformation from '-u' to '-iwa')",
+            "jibuwa (Kosa la kubakiza '-u' kabla ya '-wa')",
+            "jibwa (Kosa la kuunganisha '-wa' moja kwa moja bila kiunganishi)",
+            "jibisha (Hii ni kauli ya kutendesha)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «jibu» kinapobadilishwa kuwa kauli ya kutendwa hubadilika kuwa «jibiwa» (*Swali lilijibiwa*)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Usiku\":",
+          "prompt": "Kitenzi «samehe» (forgive) kinaponyambulishwa kuwa kauli ya kutendwa kinachukua umbo lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Mwezi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mwaka»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Wiki»"
+            "samehewa (Be forgiven - Correct '-ewa' extension for verbs ending in '-e')",
+            "samehiwa (Kosa la kubadilisha '-e' kuwa '-i')",
+            "samehwa (Kosa la kuondoa silabi ya kiunganishi)",
+            "sameheana (Hii ni kauli ya kutendana)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Vitenzi vinavyoishia na «-e» kama «samehe» huchukua «-ewa» na kuwa «samehewa»."
         }
       ]
     },
@@ -9221,17 +9240,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Usiku\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi kabisa ya vitenzi vya asili ya Kiarabu katika kauli ya kutendwa:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mwaka»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Wiki»",
-            "Mpangilio usio sahihi wa viambishi katika «Mwezi»"
+            "jibiwa, shukuriwa, fikiriwa, jaribiwa, laumiwa, hukumiwa, samehewa.",
+            "jibuwa, shukuruwa, fikiriwa, jaribuwa, laumuwa, samehiwa.",
+            "jibwa, shukurwa, fikirwa, jaribwa, laumwa, samehwa.",
+            "Vitenzi vya Kiarabu havina kauli ya kutendwa katika sarufi ya Kiswahili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Vitenzi vya Kiarabu hubadilika kuwa: jibiwa, shukuriwa, fikiriwa, jaribiwa, laumiwa, hukumiwa, samehewa."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u22-l3": {
@@ -9239,53 +9259,62 @@
     "subject": "swahili",
     "unit": 22,
     "lessonNumber": 3,
-    "title": "Mnyambuliko wa Vitenzi vya Kiarabu (Arabic-Origin Verbs) (Part 3)",
+    "title": "Kauli ya Kutendea kwa Vitenzi vya Kiarabu (-ia / -ea) (Applicatives of Arabic-Origin Verbs)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.3) with authentic precision.",
+    "objective": "Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu (-ia / -ea) kueleza matendo yanayofanyika kwa ajili ya mtu, sababu au mwelekeo.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kauli ya Kutendea kwa Vitenzi vya Kiarabu (-ia / -ea):\n\nKauli ya kutendea (Applicative / Prepositional) huonyesha kutenda jambo kwa niaba ya mtu, kuelekea mahali, au kwa sababu maalum:\n\n1. **Kanuni ya Vitenzi Vinavyoishia na -i na -u (Huchukua -ia)**:\n   - Vitenzi vinavyoishia na *-i* huingiza **-a** au kupanuliwa kuwa **-ia**:\n     - *safiri* -> **safiria** (travel on/for: *Ndege niliyosafiria...*)\n     - *fikiri* -> **fikiria** (think about/consider: *Nafikiria jambo hili...*)\n     - *rudi* -> **rudia** (repeat / return to: *Rudia kusoma ukurasa ule.*)\n     - *badili* -> **badilia** (change for).\n   - Vitenzi vinavyoishia na *-u* hubadilisha *-u* kuwa **-ia**:\n     - *jibu* -> **jibia** (answer for someone: *Alimjibia rafiki yake maswali.*)\n     - *shukuru* -> **shukuria** (thank someone for something: *Ninamshukuria zawadi yake.*)\n     - *subiri* -> **subiria** (wait for: *Namsubiria stendi.*)\n     - *haribu* -> **haribia** (damage/spoil for someone: *Usimharibie kazi yake.*)\n     - *laumu* -> **laumia** (blame for).\n\n2. **Kanuni ya Vitenzi Vinavyoishia na -e (Huchukua -ea)**:\n   - *samehe* -> **samehea** (forgive someone for something: *Mungu amemsamehea makosa yake.*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 22."
+          "target": "Wakili msomi alimjibia mteja wake maswali yote magumu mbele ya jopo zima la majaji mahakamani.",
+          "reading": "Wa-ki-li mso-mi a-li-mji-bia mte-ja wa-ke ma-swa-li yo-te ma-gu-mu mbe-le ya jo-po zi-ma la ma-ja-ji ma-ha-ka-ma-ni. [wɑˈkili ˈmsɔmi ɑlimʤiˈbiɑ mtɛˈʤɑ ˈwɑkɛ mɑˈswɑli ˈjɔtɛ mɑˈɡumu ˈmbɛlɛ jɑ ˈʤɔpɔ ˈzimɑ lɑ mɑˈʤɑʤi mɑhɑkɑˈmɑni] (wah-KEE-lee m-SOH-mee ah-leem-jee-BEE-ah m-tay-JAH WAH-kay mah-SWAH-lee YOH-tay mah-GOO-moo M-BAY-lay yah JOH-poh ZEE-mah lah mah-JAH-jee mah-hah-kah-MAH-nee)",
+          "translation": "The learned attorney answered all difficult questions on behalf of [alimjibia: jibu -> jibia] his client before the entire judicial panel in court."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 22-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mama mwenye upendo alimsamehea mwanaye makosa yake yote baada ya mtoto huyo kuungama na kutubu kwa dhati.",
+          "reading": "Ma-ma mwe-nye u-pe-ndo a-li-msa-me-he-a mwa-na-ye ma-ko-sa ya-ke yo-te ba-a-da ya mto-to hu-yo kuu-nga-ma na ku-tu-bu kwa dha-ti. [ˈmɑmɑ ˈmwɛɲɛ uˈpɛndɔ ɑlimsɑmɛˈhɛɑ mwɑˈnɑjɛ mɑˈkɔsɑ ˈjɑkɛ ˈjɔtɛ bɑˈɑdɑ jɑ ˈmtɔtɔ ˈhujɔ kuuˈŋɡɑmɑ nɑ kuˈtubu kwɑ ˈðɑti] (MAH-mah MWAY-nyay oo-PAYN-doh ah-leem-sah-may-HAY-ah mwah-NAH-yay mah-KOH-sah YAH-kay YOH-tay bah-AH-dah yah m-TOH-toh HOO-yoh koo-oon-GAH-mah nah koo-TOO-boo kwah THAH-tee)",
+          "translation": "The loving mother forgave [alimsamehea: samehe -> samehea] her child for all his mistakes after the child confessed and genuinely repented."
+        },
+        {
+          "target": "Wageni wote wanamsubiria kiongozi mkuu ukumbini ili waanze sherehe za maadhimisho ya kitaifa.",
+          "reading": "Wa-ge-ni wo-te wa-na-msu-bi-ria kio-ngo-zi mku-u uku-mbi-ni i-li wa-a-nze she-re-he za ma-a-dhi-mi-sho ya ki-ta-i-fa. [wɑˈɡɛni ˈwɔtɛ wɑnɑmsubiˈriɑ kiɔˈŋɡɔzi ˈmkuː ukumbiˈni ˈili wɑˈɑnzɛ ʃɛrɛˈhɛ zɑ mɑɑðimiˈʃɔ jɑ kitɑˈifɑ] (wah-GAY-nee WOH-tay wah-nahm-soo-bee-REE-ah kee-ohn-GOH-zee M-KOO-oo oo-koom-bee-NEE EE-lee wah-AHN-zay shay-ray-HAY zah mah-ah-thee-MEE-shoh yah kee-tah-EE-fah)",
+          "translation": "All guests are waiting for [wanamsubiria: subiri -> subiria] the principal leader in the hall so they can commence the national celebration festivities."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kutendea kwa Kiarabu: jibu -> jibia (answer for); samehe -> samehea (forgive for); subiri -> subiria (wait for); haribu -> haribia (spoil for)!"
+      ],
+      "culturalNotes": [
+        "Neno 'kumjibia mtu' au 'kumwombea radhi' ni sehemu ya utamaduni wa staha na upatanishi katika jamii za Kiswahili."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Wiki\":",
+          "prompt": "Mnyambuliko sahihi wa kauli ya kutendea (applicative) wa kitenzi cha Kiarabu «haribu» (spoil/ruin) ni upi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mwezi»",
-            "Mpangilio usio sahihi wa viambishi katika «Mwaka»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nyekundu»"
+            "haribia (Spoil / ruin for someone - Correct applicative transformation)",
+            "haribisha (Kauli ya kutendesha)",
+            "haribika (Kauli ya kutendeka)",
+            "haribiwa (Kauli ya kutendwa)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «haribu» kinapobadilishwa kuwa kauli ya kutendea huwa «haribia» (*Usimharibie mipango yake*)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Wiki\":",
+          "prompt": "Katika sentensi «Ninakufikiria kila wakati», neno «kufikiria» limetokana na kitenzi kipi na katika kauli gani?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Mwaka»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nyekundu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mwezi»"
+            "Kitenzi cha Kiarabu «fikiri» katika Kauli ya Kutendea (Applicative: think about / of)",
+            "Kitenzi «fikiri» katika Kauli ya Kutendeka",
+            "Kitenzi «fikiri» katika Kauli ya Kutendesha",
+            "Kitenzi «fikiri» katika Kauli ya Kutendwa"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«kufikiria» limetokana na «fikiri» likiongezwa kiambishi cha kutendea «-ia» (think about)."
         }
       ]
     },
@@ -9293,17 +9322,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Wiki\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi kabisa ya vitenzi vya asili ya Kiarabu katika kauli ya kutendea:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nyekundu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mwezi»",
-            "Mpangilio usio sahihi wa viambishi katika «Mwaka»"
+            "jibia, subiria, rudia, fikiria, samehea, shukuria, haribia, badilia.",
+            "jibie, subirie, rudie, fikirie, samehia, shukurie.",
+            "jibisha, subirisha, rudisha, fikirisha, samehesha.",
+            "Vitenzi vya asili ya Kiarabu haviwezi kunyambulishwa katika kauli ya kutendea."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Vitenzi vya Kiarabu katika kauli ya kutendea huwa: jibia, subiria, rudia, fikiria, samehea, shukuria, haribia, badilia."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u22-l4": {
@@ -9311,53 +9341,62 @@
     "subject": "swahili",
     "unit": 22,
     "lessonNumber": 4,
-    "title": "Mnyambuliko wa Vitenzi vya Kiarabu (Arabic-Origin Verbs) (Part 4)",
+    "title": "Kauli ya Kutendesha na Kutendeka kwa Vitenzi vya Kiarabu (-isha / -esha / -za na -ika / -eka) (Causatives & Statives of Arabic-Origin Verbs)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.4) with authentic precision.",
+    "objective": "Kuelewa na kutumia kauli ya kutendesha (-isha / -esha / -za) na kauli ya kutendeka (-ika / -eka) kwa vitenzi vya asili ya Kiarabu na kigeni.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kauli ya Kutendesha na Kutendeka kwa Vitenzi vya Kiarabu:\n\n1. **Kauli ya Kutendesha (Causative: -isha / -esha / -za)**:\n   - Vitenzi vingi vya asili ya Kiarabu vinavyoishia na *-i* au *-u* huchukua **-isha** au **-za** kuonyesha kusababisha tendo lifanyike:\n     - *safiri* -> **safirisha** (transport / send on journey)\n     - *rudi* -> **rudisha** (return something / restore)\n     - *kabili* -> **kabilisha** (cause to face / confront)\n     - *badili* -> **badilisha** (change / exchange something)\n     - *shukuru* -> **shukurisha** (make thank)\n     - *hakika* -> **hakikisha** (verify / ensure)\n     - *tayari* -> **tayarisha** (prepare).\n   - Vitenzi vinavyoishia na *-e* huchukua **-esha** au **-sha**:\n     - *starehe* -> **starehesha** (entertain / give pleasure)\n     - *samehe* -> **samehesha** (cause to forgive).\n\n2. **Kauli ya Kutendeka (Stative: -ika / -eka)**:\n   - Huonyesha hali ya matokeo bila kutaja mtendaji au uwezekano wa tendo:\n     - *badili* -> **badilika** (change / be alterable: *Hali imebadilika.*)\n     - *kabili* -> **kabilika** (be manageable / addressable)\n     - *jaribu* -> **jaribika** (be testable / feasible)\n     - *samehe* -> **sameheka** (be forgivable: *Kosa hili linasameheka.*)\n     - *starehe* -> **stareheka** (be relaxed/comfortable).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 22."
+          "target": "Shirika letu linasafirisha mazao safi ya kilimo kutoka mashambani hadi masoko makuu ya kimataifa kila juma.",
+          "reading": "Shi-ri-ka le-tu li-na-sa-fi-ri-sha ma-za-o sa-fi ya ki-li-mo ku-to-ka ma-sha-mba-ni ha-di ma-so-ko ma-ku-u ya ki-ma-ta-i-fa ki-la ju-ma. [ʃiˈrikɑ ˈlɛtu linɑsɑfiˈriʃɑ mɑˈzɑɔ ˈsɑfi jɑ kiˈlimɔ kuˈtɔkɑ mɑʃɑmbɑˈni ˈhɑdi mɑˈsɔkɔ mɑˈkuː jɑ kimɑtɑˈifɑ ˈkilɑ ˈʤumɑ] (shee-REE-kah LAY-too lee-nah-sah-fee-REE-shah mah-ZAH-oh SAH-fee yah kee-LEE-moh koo-TOH-kah mah-shahm-bah-NEE HAH-dee mah-SOH-koh mah-KOO-oo yah kee-mah-tah-EE-fah KEE-lah JOO-mah)",
+          "translation": "Our corporation transports [linasafirisha: safiri -> safirisha] fresh agricultural produce from farms to major international markets every week."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 22-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Tafadhali hakikisha kwamba unarudisha vifaa vyote vya maabara mahali pake sahihi kabla ya kuondoka.",
+          "reading": "Ta-fa-dha-li ha-ki-ki-sha kwa-mba u-na-ru-di-sha vi-fa-a vyo-te vya ma-a-ba-ra ma-ha-li pa-ke sa-hi-hi ka-bla ya ku-o-ndo-ka. [tɑfɑˈðɑli hɑkiˈkiʃɑ ˈkwɑmbɑ unɑruˈdiʃɑ viˈfɑː ˈvjɔtɛ vjɑ mɑɑˈbɑrɑ mɑˈhɑli ˈpɑkɛ sɑˈhihi ˈkɑblɑ jɑ kuɔˈndɔkɑ] (tah-fah-THAH-lee hah-kee-KEE-shah KWAHM-bah oo-nah-roo-DEE-shah vee-FAH-ah VYOH-tay vyah mah-ah-BAH-rah mah-HAH-lee PAH-kay sah-HEE-hee KAH-blah yah koo-ohn-DOH-kah)",
+          "translation": "Please ensure [hakikisha: hakika -> hakikisha] that you return [unarudisha: rudi -> rudisha] all laboratory equipment to its proper place before leaving."
+        },
+        {
+          "target": "Hali ya hewa inabadilika kwa kasi kubwa na changamoto zote za kiuchumi zinakabilika tukidumisha umoja wetu.",
+          "reading": "Ha-li ya he-wa i-na-ba-di-li-ka kwa ka-si kbu-bwa na cha-nga-mo-to zo-te za kiu-chu-mi zi-na-ka-bi-li-ka tu-ki-du-mi-sha u-mo-ja we-tu. [ˈhɑli jɑ ˈhɛwɑ inɑbɑdiˈlikɑ kwɑ ˈkɑsi ˈkubwɑ nɑ tʃɑŋɡɑˈmɔtɔ ˈzɔtɛ zɑ kiutʃuˈmi zinɑkɑbiˈlikɑ tukidumiˈʃɑ uˈmɔʤɑ ˈwɛtu] (HAH-lee yah HAY-wah ee-nah-bah-dee-LEE-kah kwah KAH-see KOO-bwah nah chahn-gah-MOH-toh ZOH-tay zah kee-oo-CHOO-mee zee-nah-kah-bee-LEE-kah too-kee-doo-MEE-shah oo-MOH-jah WAY-too)",
+          "translation": "The climate is changing [inabadilika: badili -> badilika] at high speed and all economic challenges are manageable [zinakabilika: kabili -> kabilika] if we maintain our unity."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kutendesha: safiri -> safirisha, rudi -> rudisha, starehe -> starehesha. Kutendeka: badili -> badilika, kabili -> kabilika, samehe -> sameheka!"
+      ],
+      "culturalNotes": [
+        "Neno 'Kuhakikisha' na 'Kutayarisha' ni nguzo kuu ya mawasiliano ya kiofisi na kijamii katika ukanda wote wa Jumuiya ya Afrika Mashariki (EAC)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mwezi\":",
+          "prompt": "Mnyambuliko wa kauli ya kutendesha (causative) wa kitenzi «safiri» (travel) unaomaanisha kusafirisha mizigo au abiria ni upi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mwaka»",
-            "Mpangilio usio sahihi wa viambishi katika «Nyekundu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Buluu»"
+            "safirisha (Transport / convey / cause to travel - Correct causative derivation)",
+            "safirika (Kauli ya kutendeka)",
+            "safiria (Kauli ya kutendea)",
+            "safiriwa (Kauli ya kutendwa)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «safiri» huchukua «-isha» kuwa «safirisha» (transport / cause to travel)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mwezi\":",
+          "prompt": "Sentensi ipi inatumia kauli ya kutendeka (stative) ya kitenzi cha Kiarabu «badili» (change) kwa ufasaha?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Nyekundu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Buluu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mwaka»"
+            "Mwelekeo wa upepo umebadilika ghafla kuelekea kusini. (The wind direction has changed suddenly - Correct stative 'umebadilika')",
+            "Mwelekeo wa upepo umebadilisha ghafla",
+            "Mwelekeo wa upepo umebadiliwa ghafla na watu",
+            "Mwelekeo wa upepo unabadilishana"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«umebadilika» ni kauli ya kutendeka (stative) inayoonyesha hali ya matokeo ya kubadilika bila kutaja mtendaji."
         }
       ]
     },
@@ -9365,17 +9404,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mwezi\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya vitenzi vya Kiarabu katika kauli ya kutendesha na kutendeka:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Buluu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mwaka»",
-            "Mpangilio usio sahihi wa viambishi katika «Nyekundu»"
+            "Kutendesha: safirisha, rudisha, badilisha, hakikisha, starehesha. Kutendeka: badilika, kabilika, jaribika, sameheka.",
+            "Kutendesha: safirika, rudika, badilika. Kutendeka: safirisha, rudisha, badilisha.",
+            "Vitenzi vya Kiarabu havina kauli ya kutendesha wala kutendeka.",
+            "Kutendesha: safiriwa, rudiwa, badiliwa. Kutendeka: safiriana, rudiana."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Kutendesha: safirisha, rudisha, badilisha, hakikisha. Kutendeka: badilika, kabilika, jaribika, sameheka."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u22-l5": {
@@ -9383,53 +9423,62 @@
     "subject": "swahili",
     "unit": 22,
     "lessonNumber": 5,
-    "title": "Mnyambuliko wa Vitenzi vya Kiarabu (Arabic-Origin Verbs) (Part 5)",
+    "title": "Muhtasari wa Mnyambuliko wa Vitenzi vya Kiarabu na Vitenzi vya Kigeni (Arabic & Loanword Verb Morpho-Syntax Grand Synthesis)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 22: ukanushaji wa wakati uliopo usiobadilika (-e, -i, -u), kauli ya kutendwa (-iwa/-ewa), kutendea (-ia/-ea), kutendesha (-isha/-esha/-za), kutendana (-ana), na kutendeka (-ika/-eka) katika mfumo mkuu wa vitenzi vya kigeni vya Kiswahili.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Vitenzi vya Asili ya Kiarabu na Kigeni (Master Loanword Matrix):\n\n1. **Muhtasari wa Kanuni Zote za Vitenzi vya Kiarabu (-e, -i, -u)**:\n   - **Kitenzi Asili**: *fikiri, jibu, samehe, shukuru, safiri, badili*\n   - **Ukanushaji Uliopo (Hakuna Mabadiliko ya Vokali)**: *sifikiri, sijibu, sisamehe, sishukuru, sisafiri, sibadili*\n   - **Kutendwa (Passives: -iwa / -ewa)**: *fikiriwa, jibiwa, samehewa, shukuriwa, safiriwa, badiliwa*\n   - **Kutendea (Applicatives: -ia / -ea)**: *fikiria, jibia, samehea, shukuria, safiria, badilia*\n   - **Kutendesha (Causatives: -isha / -esha / -za)**: *fikirisha, jibisha, samehesha, shukurisha, safirisha, badilisha*\n   - **Kutendana (Reciprocals: -ana)**: *fikiriana, jibiana, sameheana, shukuriana, wasiliana, badilishana*\n   - **Kutendeka (Statives: -ika / -eka)**: *fikirika, jibika, sameheka, shukurika, badilika, kabilika*.\n\n2. **Thamani ya Kisarufi na Kimawasiliano**:\n   - Vitenzi hivi huchangia zaidi ya asilimia 30 ya msamiati wa juu (B2/C1/C2) katika nyanja za sheria, utawala, elimu ya juu, na falsafa.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 22."
+          "target": "Wajumbe wamejadiliana kwa kina, wamebadilishana mawazo mazuri, na maswali yote yamejibiwa kwa uwazi usio na shaka.",
+          "reading": "Wa-ju-mbe wa-me-ja-di-lia-na kwa ki-na, wa-me-ba-di-li-sha-na ma-wa-zo ma-zu-ri, na ma-swa-li yo-te ya-me-ji-bi-wa kwa u-wa-zi u-si-o na sha-ka. [wɑˈʤumbɛ wɑmɛʤɑdiˈliɑnɑ kwɑ ˈkinɑ wɑmɛbɑdiliˈʃɑnɑ mɑˈwɑzɔ mɑˈzuri nɑ mɑˈswɑli ˈjɔtɛ jɑmɛʤiˈbiwɑ kwɑ uˈwɑzi ˈusiɔ nɑ ˈʃɑkɑ] (wah-JOOM-bay wah-may-jah-dee-lee-AH-nah kwah KEE-nah, wah-may-bah-dee-lee-SHAH-nah mah-WAH-zoh mah-ZOO-ree, nah mah-SWAH-lee YOH-tay yah-may-jee-BEE-wah kwah oo-WAH-zee OO-see-oh nah SHAH-kah)",
+          "translation": "Delegates have discussed [wamejadiliana: jadili -> jadiliana] deeply, exchanged [wamebadilishana: badili -> badilishana] constructive ideas, and all questions were answered [yamejibiwa: jibu -> jibiwa] with unmistakable clarity."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 22-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Tulipomrudishia mwenye mali amana yake, alitushukuru kwa dhati na kusamehe gharama zote zilizotumika wakati wa uhifadhi.",
+          "reading": "Tu-li-po-mru-di-shia mwe-nye ma-li a-ma-na ya-ke, a-li-tu-shu-ku-ru kwa dha-ti na ku-sa-me-he gha-ra-ma zo-te zi-li-zo-tu-mi-ka wa-ka-ti wa u-hi-fa-dhi. [tulipɔmruˈdiʃiɑ ˈmwɛɲɛ ˈmɑli ɑˈmɑnɑ ˈjɑkɛ ɑlituʃuˈkuru kwɑ ˈðɑti nɑ kusɑˈmɛhɛ ɣɑˈrɑmɑ ˈzɔtɛ zilizɔtuˈmikɑ wɑˈkɑti wɑ uhiˈfɑði] (too-lee-poh-m-roo-dee-SHEE-ah MWAY-nyay MAH-lee ah-MAH-nah YAH-kay, ah-lee-too-shoo-KOO-roo kwah THAH-tee nah koo-sah-MAY-hay gah-RAH-mah ZOH-tay zee-lee-zoh-too-MEE-kah wah-KAH-tee wah oo-hee-FAH-thee)",
+          "translation": "When we restored [tulipomrudishia: rudi -> rudishia] the trust to the property owner, he thanked us sincerely [alitushukuru] and waived [kusamehe] all costs incurred during storage."
+        },
+        {
+          "target": "Umahiri wa mnyambuliko wa vitenzi vya asili ya Kiarabu huondoa mkanganyiko wa viishio vya vokali na humwezesha mwanafunzi kutumia msamiati mpana wa kisheria na kitaaluma kwa ufasaha mkubwa.",
+          "reading": "U-ma-hi-ri wa mnya-mbu-li-ko wa vi-te-nzi vya a-si-li ya Kia-ra-bu huo-ndoa mka-nga-nyi-ko wa vi-i-shi-o vya vo-ka-li na hu-mwe-ze-sha mwa-na-fu-nzi ku-tu-mia msa-mia-ti mpa-na wa ki-she-ria na ki-ta-a-lu-ma kwa u-fa-sa-ha mku-bwa. [umɑˈhiri wɑ mɲɑmbuˈlikɔ wɑ viˈtɛnzi vjɑ ɑˈsili jɑ kiɑˈrɑbu huɔˈndɔɑ mkɑŋɡɑˈɲikɔ wɑ viiˈʃiɔ vjɑ vɔˈkɑli nɑ humwɛzɛˈʃɑ mwɑnɑˈfunzi kutuˈmiɑ msɑmiˈɑti ˈmpɑnɑ wɑ kiʃɛˈriɑ nɑ kitɑɑˈlumɑ kwɑ ufɑˈsɑhɑ ˈmkubwɑ] (oo-mah-HEE-ree wah m-nyahm-boo-LEE-koh wah vee-TAYN-zee vyah ah-SEE-lee yah kee-ah-RAH-boo hoo-ohn-DOH-ah m-kahn-gah-NYEE-koh wah vee-ee-SHEE-oh vyah voh-KAH-lee nah hoom-way-zay-SHAH mwah-nah-FOON-zee koo-too-MEE-ah m-sah-mee-AH-tee M-PAH-nah wah kee-shay-REE-ah nah kee-tah-ah-LOO-mah kwah oo-fah-SAH-hah M-KOO-bwah)",
+          "translation": "Mastery of Arabic-origin verb derivations [Arabic & loanword verb grand synthesis] eliminates vowel-ending confusion and empowers the learner to deploy wide legal, academic, and professional vocabulary with tremendous eloquence."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Arabic Verbs Master Synthesis: Negation (sisamehe, sifikiri, sishukuru); Passive (samehewa, fikiriwa, jibiwa); Applicative (samehea, fikiria, jibia); Causative (samehesha, safirisha, rudisha)!"
+      ],
+      "culturalNotes": [
+        "Mchanganyiko wa asili ya Kibantu na maneno ya Kiarabu uliifanya lugha ya Kiswahili kuwa lugha kuu ya kidiplomasia, kibiashara, na kitaaluma barani Afrika."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mwaka\":",
+          "prompt": "Sentensi ipi inajumuisha mnyambuliko wa vitenzi vya Kiarabu katika kauli ya kutendana na kutendwa kwa ufasaha?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nyekundu»",
-            "Mpangilio usio sahihi wa viambishi katika «Buluu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Manjano»"
+            "Wananchi wamejadiliana kwa amani na mapendekezo yao yote yamekubaliwa na kuridhiwa na serikali. (Citizens discussed peacefully [wamejadiliana] and their recommendations were accepted [yamekubaliwa] and approved [kuridhiwa].)",
+            "Wananchi waliongea bila kujadili chochote wala kukubali.",
+            "Serikali haikujibu jambo lolote.",
+            "Vitenzi vya Kiarabu haviwezi kutumika katika sentensi moja na vitenzi vya Kibantu."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«wamejadiliana» (kutendana: jadili -> jadiliana) na «yamekubaliwa/kuridhiwa» (kutendwa: kubali -> kubaliwa, ridhia -> ridhiwa) vinathibitisha kanuni zote mbili."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mwaka\":",
+          "prompt": "Kitenzi «rudi» (return) kinaponyambulishwa kuwa «rudishia» katika sentensi «Alimrudishia kitabu chake», kina mseto wa kauli zipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Buluu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Manjano»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nyekundu»"
+            "Kauli ya Kutendesha na Kauli ya Kutendea (Causative + Applicative: rudi -> rudisha -> rudishia)",
+            "Kauli ya Kutenda na Kutendwa",
+            "Kauli ya Kutendeka pekee",
+            "Kauli ya Kutendana ya kawaida"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«rudishia» inatokana na: rudi -> rudisha (kutendesha: cause to return) -> rudishia (kutendea: return to/for someone)."
         }
       ]
     },
@@ -9437,17 +9486,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mwaka\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 22 ya Vitenzi vya Asili ya Kiarabu na Kigeni:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Manjano»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nyekundu»",
-            "Mpangilio usio sahihi wa viambishi katika «Buluu»"
+            "Sifikiri kwamba mshtakiwa ataadhibiwa bila ushahidi, maswali yote yamejibiwa kwa heshima, na wahusika wamejadiliana na kusameheana kwa amani. (Arabic present negation [sifikiri], passive [ataadhibiwa, yamejibiwa], reciprocal [wamejadiliana, kusameheana].)",
+            "Vitenzi vyote vya kigeni vimefutwa katika sarufi ya Kiswahili.",
+            "Watu hawakutumia maneno ya Kiarabu katika mawasiliano ya kila siku.",
+            "Ukanushaji wa vitenzi vyote vya Kiarabu hubadilika kuwa '-i' mwishoni."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Sifikiri kwamba mshtakiwa ataadhibiwa bila ushahidi, maswali yote yamejibiwa kwa heshima, na wahusika wamejadiliana na kusameheana kwa amani.» inajumuisha ukanushaji, kutendwa, kutendea, na kutendana kwa vitenzi vya Kiarabu kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u23-l1": {
