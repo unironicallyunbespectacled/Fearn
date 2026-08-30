@@ -12202,85 +12202,62 @@
     "subject": "amharic",
     "unit": 27,
     "lessonNumber": 1,
-    "title": "ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet) (ክፍል 1)",
+    "title": "አራቱ ባህላዊ የሙዚቃ ቅኝቶች (The Four Modal Music Scales)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: አራቱ ባህላዊ ቅኝቶች (አንቺሆዬ፣ ትዝታ፣ ባቲ፣ አምባሰል) እና የቅኔ ጥበብ። (ክፍል 1)።",
+    "objective": "አራቱን የኢትዮጵያ የሙዚቃ ቅኝቶች (ትዝታ፣ ባቲ፣ አምባሰል፣ አንቺሆዬ) እና ባህሪያቸውን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የኢትዮጵያ አራቱ ታላላቅ የሙዚቃ ቅኝቶች መዋቅር:\n\n፩. አራቱ ቅኝቶች:\n- ትዝታ (ናፍቆትና ትውስታን የሚገልጽ ቅኝት)\n- ባቲ (በረሃማና ልዩ የፍቅር ስሜት ያለው ቅኝት)\n- አምባሰል (የተራራማ አካባቢዎችና የጀግንነት ቅኝት)\n- አንቺሆዬ (የተመስጦ፣ የሰርግና የደስታ ቅኝት)።\n\n፪. ዋና ባህሪያት:\n- እነዚህ ቅኝቶች የኢትዮጵያን የሙዚቃ ባህል ልዩ የሚያደርጉ አምስት የድምፅ እርከን (Pentatonic) ያላቸው ድንቅ የዜማ ቅርሶች ናቸው።",
       "examples": [
         {
-          "target": "መምህሩ የ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (27.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)' to the students."
+          "target": "ድምጻዊው በትዝታ ቅኝት የተጫወተው ጥልቅ ዜማ የሁሉንም አድማጭ ልብ በናፍቆት አራሰ።",
+          "reading": "Dəmts’awiw bäTəzzəta qənyət yätäč’awwätäw t’ələq zema yähullunəm adəmač’ ləbb bänafəqot arasä. [dɨmtsʼaˈwiw bɛtɨzːɨˈta kʼɨɲɨt jɛtɛtʃʼaˈwːɛtɛw tʼɨˈlɨkʼ zeˈma jɛhulːuˈnɨm ʔadɨˈmatʃʼ lɨbː bɛnafɨˈkʼot ʔaˈrasɛ] (dum-ts'ah-WEEW beh-tuz-zuh-TAH k'un-yut yeh-teh-ch'aw-weh-TEW t'uh-LUK' zay-MAH yeh-hool-LOO-num ahd-MAHCH' lub-B beh-nahf-K'OHT ah-RAH-seh)",
+          "translation": "The profound melody played by the vocalist in the Tizita mode filled the hearts of all listeners with nostalgia."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (27.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የባቲ እና የአምባሰል ቅኝቶች የኢትዮጵያን ረቂቅ የሙዚቃ ቅርስ ለዓለም አቀፍ መድረክ አስተዋውቀዋል።",
+          "reading": "YäBati ənna yä'Ambasäl qənyätočč yä'Ityop’əyan räqiq yämuzika qərs lä'aläm aqäf mädräk astäwawwəqäwal. [jɛbaˈti ʔɨnːa jɛʔambaˈsɛl kʼɨɲɛˈtotʃː jɛʔitjoˈpʼɨjan rɛˈkʼikʼ jɛmuziˈka kʼɨrs ləʔaˈlɛm ʔaˈkʼɛf mɛdˈrɛk ʔastɛwawːɨˈkʼɛwal] (yeh-bah-TEE un-nah yeh-ahm-bah-SEL k'un-yeh-TOHCH yeh-eet-yoh-P'EE-yahn reh-K'EEK' yeh-moo-zee-KAH k'urs luh-ah-LEM ah-K'EF med-REK ahs-teh-wow-wuh-K'EH-wahl)",
+          "translation": "The Bati and Ambasel modes introduced Ethiopia's subtle musical heritage to the international stage."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (27.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (27.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በአንቺሆዬ ቅኝት የሚዘፈኑ ባህላዊ ዘፈኖች በሰርግ እና በበዓላት ወቅት ታላቅ ድምቀት ይሰጣሉ።",
+          "reading": "Bä'Ančihoye qənyət yämmizzäffänu bahəlawi zäfänočč bäsärg ənna bäbä'alat wäqt talaq dəməqqät yəsät’allu. [bɛʔantʃihoˈje kʼɨɲɨt jɛmːizːɛˈfːɛnu bahɨlaˈwi zɛfɛˈnotʃː bɛsɛrɡ ʔɨnːa bɛbɛʔaˈlat wɛkʼt taˈlakʼ dɨmɨkʼːɛt jɨsɛˈtʼalːu] (beh-ahn-chee-hoh-YAY k'un-yut yem-miz-zef-FEH-noo bah-huh-lah-WEE zeh-feh-NOHCH beh-ser-G un-nah beh-beh-ah-LAHT wehk'-T tah-LAHK' dum-uk'-k'et yuh-set'-ahl-LOO)",
+          "translation": "Traditional songs sung in the Anchihoye scale give great splendor during weddings and holidays."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "4 Qenet: ትዝታ (Memory) + ባቲ (Desert/Love) + አምባሰል (Mountains) + አንቺሆዬ (Celebration)!"
+      ],
+      "culturalNotes": [
+        "አራቱ ቅኝቶች የኢትዮጵያ ህዝብ ለዘመናት ደስታውን፣ ሀዘኑን፣ ናፍቆቱንና ጀግንነቱን የገለጸባቸው አምስት ድምፆች (Pentatonic scale) ናቸው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የናፍቆትና የትውስታ ስሜትን የሚገልጸው አንጋፋ የኢትዮጵያ ቅኝት የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (27.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (27.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (27.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (27.1.w3)"
+            "ትዝታ (Tizita - The nostalgic and reflective modal scale)",
+            "ስፖርት",
+            "ቢሮ",
+            "መኪና"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ትዝታ» ጥልቅ የናፍቆት እና የትውስታ ስሜትን የሚያንጸባርቅ ዝነኛ የኢትዮጵያ የሙዚቃ ቅኝት ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u27-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Musical scale / mode' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (27.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (27.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (27.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (27.1.x3)"
+            "ቅኝት (Musical scale, mode - Traditional melodic framework)",
+            "ስንኝ",
+            "ልቦለድ",
+            "ደብዳቤ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (27.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (27.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (27.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (27.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ቅኝት» በኢትዮጵያ ሙዚቃ ውስጥ የድምፆችን ቅንብርና ዜማዊ ስልት የሚያመለክት ቃል ነው።"
         }
       ]
     },
@@ -12288,24 +12265,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 27-1):",
+          "prompt": "አራቱን የኢትዮጵያ ባህላዊ ቅኝቶች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (27.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (27.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (27.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (27.1.z3)"
+            "ትዝታ፣ ባቲ፣ አምባሰል እና አንቺሆዬ።",
+            "ጨው፣ በርበሬ፣ ዘይት እና ሽንኩርት።",
+            "እርሳስ፣ ደብተር፣ ላጲስ እና መቅረጫ።",
+            "በኢትዮጵያ ቅኝት የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ አራቱን ዋና ዋና ባህላዊ ቅኝቶች በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u27-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ባህላዊ»):",
+          "prompt": "'ቅኝት / Musical scale, mode' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ባህላዊ",
-            "ባህላዊ"
+            "ቅኝት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ባህላዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ቅኝት» (Qənyət) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -12316,85 +12292,62 @@
     "subject": "amharic",
     "unit": 27,
     "lessonNumber": 2,
-    "title": "ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet) (ክፍል 2)",
+    "title": "ባህላዊ የሙዚቃ መሳሪያዎች እና አጨዋወት (Traditional Musical Instruments)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: አራቱ ባህላዊ ቅኝቶች (አንቺሆዬ፣ ትዝታ፣ ባቲ፣ አምባሰል) እና የቅኔ ጥበብ። (ክፍል 2)።",
+    "objective": "የኢትዮጵያን ባህላዊ የሙዚቃ መሳሪያዎች (ክራር፣ ማሲንቆ፣ ዋሽንት፣ ከበሮ፣ በገና) እና አጨዋወታቸውን ማወቅ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የኢትዮጵያ ባህላዊ የሙዚቃ መሳሪያዎች መዋቅር:\n\n፩. ባለአውታር መሳሪያዎች:\n- ክራር (ባለ ስድስት አውታር መሳሪያ)\n- ማሲንቆ (ባለ አንድ አውታር ባለቀስት መሳሪያ)\n- በገና (ባለ አስር አውታር መንፈሳዊ መሳሪያ)።\n\n፪. የንፋስና የምት መሳሪያዎች:\n- ዋሽንት (የቀርከሃ የንፋስ መሳሪያ)\n- ከበሮ እና ጸናጽል (የምትና የዜማ ማጀቢያ)።",
       "examples": [
         {
-          "target": "መምህሩ የ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (27.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)' to the students."
+          "target": "አዝማሪው በማሲንቆው እያጀበ ያሰማው የቅኔ ግጥም ታዳሚውን በእጅጉ አስደሰተ።",
+          "reading": "Azmariw bamasinqow əyyağğäbä yasämmaw yäqəne gət’əm taddamiwən bä'əğğəgu asdässätä. [ʔazmaˈriw bamasinˈkʼow ʔɨjːadʒːɛˈbɛ jasɛmːaw jɛkʼɨˈne ɡɨtʼɨm tadːaˈmiwɨn bɛʔɨdʒːɨˈɡu ʔasdɛsːɛˈtɛ] (ahz-mah-REEW bah-mah-seen-K'OHW uhy-yahj-jeh-BEH yah-sem-MAHW yeh-k'uh-NAY guh-T'UM tahd-dah-MEE-wun beh-uhj-juh-GOO ahs-des-seh-TEH)",
+          "translation": "The Azmari singing poetic verse while accompanying himself with his Masinqo greatly pleased the audience."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (27.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በገና በጸጥታ እና በመንፈሳዊ ተመስጦ የሚደረደር የኢትዮጵያ ጥንታዊ የሙዚቃ መሳሪያ ነው።",
+          "reading": "Bägäna bäts’ät’t’əta ənna bämänfäsawi täməsət’o yämmiddäräddär yä'Ityop’əya t’əntawi yämuzika mäsariya näw. [bɛɡɛˈna bɛtsʼɛtʼːɨˈta ʔɨnːa bɛmɛnfɛsaˈwi tɛmɨsɨˈtʼo jɛmːidːɛrɛdːɛr jɛʔitjoˈpʼɨja tʼɨntaˈwi jɛmuziˈka mɛsaˈrija nɛw] (beh-geh-NAH beh-ts'et'-t'uh-TAH un-nah beh-men-feh-sah-WEE teh-muh-suh-T'OH yem-mid-deh-red-DER yeh-eet-yoh-P'EE-yah t'un-tah-WEE yeh-moo-zee-KAH meh-sah-ree-YAH new)",
+          "translation": "The Begena is an ancient Ethiopian musical instrument played with quietude and spiritual contemplation."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (27.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (27.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የዋሽንት እና የክራር ቅንብር በገጠሪቱ ኢትዮጵያ የተፈጥሮ ውበትን የሚያወድስ ድንቅ ዜማ ያመነጫል።",
+          "reading": "Yäwašənt ənna yäkərar qənəbbər bägät’t’äritu Ityop’əya yätäfät’ro wəbätən yämiyawäddəs dənq zema yamänäččal. [jɛwaˈʃɨnt ʔɨnːa jɛkɨˈrar kʼɨnɨbːɨr bɛɡɛtʼːɛriˈtu ʔitjoˈpʼɨja jɛtɛfɛtʼˈro wɨbɛˈtɨn jɛmijaˈwɛdːɨs dɨnkʼ zeˈma jamɛnɛˈtʃːal] (yeh-wah-SHUNT un-nah yeh-kuh-RAHR k'un-ub-BUR beh-get'-t'eh-ree-TOO eet-yoh-P'EE-yah yeh-teh-fet'-ROH wuh-beh-TUN yeh-mee-yah-wed-DUS dunk' zay-MAH yah-meh-nech-CHAHL)",
+          "translation": "The combination of Washint and Krar produces a magnificent melody praising nature's beauty in rural Ethiopia."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Instruments: ማሲንቆ (1-string bowed) + ክራር (6-string bowl lyre) + በገና (10-string box lyre) + ዋሽንት (Flute)!"
+      ],
+      "culturalNotes": [
+        "በገና የዳዊት በገና ተብሎ የሚታወቅ እና በዐቢይ ጾም ወቅት መንፈሳዊ ማስተዋልን ለማዳበር የሚደረደር የተቀደሰ መሳሪያ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ባለ አንድ አውታር ሆኖ በቀስት የሚጫወቱት ታዋቂው የኢትዮጵያ ባህላዊ የሙዚቃ መሳሪያ የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (27.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (27.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (27.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (27.2.w3)"
+            "ማሲንቆ (Masinqo - Single-stringed bowed traditional lute)",
+            "ከበሮ",
+            "ፒያኖ",
+            "ጊታር"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ማሲንቆ» ባለ አንድ አውታር ሆኖ በፈረስ ጭራ ቀስት የሚደረደር የኢትዮጵያ አንጋፋ መሳሪያ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u27-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ባለ አስር አውታር ሆኖ ለመንፈሳዊ ዜማ የሚያገለግለው መሳሪያ ምን ይባላል?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (27.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (27.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (27.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (27.2.x3)"
+            "በገና (Begena - Ten-stringed spiritual harp / box lyre)",
+            "ዋሽንት",
+            "ከበሮ",
+            "መለከት"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (27.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (27.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (27.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (27.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«በገና» ባለ አስር አውታር የሆነ እና ለመንፈሳዊ ተመስጦ የሚያገለግል ጥንታዊ መሳሪያ ነው።"
         }
       ]
     },
@@ -12402,24 +12355,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 27-2):",
+          "prompt": "የኢትዮጵያን ባህላዊ የሙዚቃ መሳሪያዎች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (27.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (27.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (27.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (27.2.z3)"
+            "ክራር፣ ማሲንቆ፣ ዋሽንት፣ ከበሮ፣ በገና እና ጸናጽል።",
+            "መዶሻ፣ መጋዝ፣ ሚስማር እና መፍቻ።",
+            "ሳህን፣ ማንኪያ፣ ሹካ እና ብርጭቆ።",
+            "በኢትዮጵያ የሙዚቃ መሳሪያ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና ባህላዊ የሙዚቃ መሳሪያዎችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u27-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ባህላዊ»):",
+          "prompt": "'ማሲንቆ / Masinqo, one-stringed fiddle' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ባህላዊ",
-            "ባህላዊ"
+            "ማሲንቆ",
+            "ማሲንቆ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ባህላዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ማሲንቆ» (Masinqo) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -12430,85 +12383,62 @@
     "subject": "amharic",
     "unit": 27,
     "lessonNumber": 3,
-    "title": "ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet) (ክፍል 3)",
+    "title": "የያሬዳዊ ዜማ ስልቶች እና መንፈሳዊ ቅርስ (Yaredic Sacred Chant & Melodic Modes)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: አራቱ ባህላዊ ቅኝቶች (አንቺሆዬ፣ ትዝታ፣ ባቲ፣ አምባሰል) እና የቅኔ ጥበብ። (ክፍል 3)።",
+    "objective": "የቅዱስ ያሬድን ሶስቱን የዜማ ስልቶች (ግዕዝ፣ እዝል፣ አራራይ) እና የዜማ ምልክቶችን ማወቅ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የቅዱስ ያሬድ የዜማ ስልቶች እና የዝማሬ ስርዓት መዋቅር:\n\n፩. ሶስቱ የያሬድ ዜማዎች:\n- ግዕዝ (የመጀመሪያው እና ቀጥተኛው የዜማ ስልት)\n- እዝል (ዝግ ያለ፣ ጥልቅ እና የሚያስተክዝ ዜማ)\n- አራራይ (የማረከ፣ ረቂቅና የደስታ ዜማ)።\n\n፪. የያሬዳዊ ዜማ መሳሪያዎች:\n- ጸናጽል፣ መቋሚያ እና ከበሮ ለዝማሬው ማስተካከያ ያገለግላሉ። ቅዱስ ያሬድ በ፮ኛው መቶ ክፍለ ዘመን የሙዚቃ ኖታን (ምልክቶችን) የፈጠረ ቀዳሚ ሊቅ ነው።",
       "examples": [
         {
-          "target": "መምህሩ የ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (27.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)' to the students."
+          "target": "ቅዱስ ያሬድ በስድስተኛው መቶ ክፍለ ዘመን ሶስቱን ታላላቅ የዜማ ስልቶች ለኢትዮጵያ አበረከተ።",
+          "reading": "Qəddus Yared bäsəddəsətänyaw mäto kəflä zämän sostun talaq yäzema səltočč lä'Ityop’əya abärkätä. [kʼɨdːus jaˈred bɛsɨdːɨsɨtɛˈɲaw mɛˈto kɨfˈlɛ zɛˈmɛn sosˈtun taˈlakʼ jɛzeˈma sɨlˈtotʃː ləʔitjoˈpʼɨja ʔabɛrkɨˈtɛ] (k'ood-DOOS yah-RAYD beh-sud-duh-suh-ten-YAHW meh-TOH kuf-LEH zeh-MEN sohs-TOON tah-LAHK' yeh-zay-MAH sul-TOHCH luh-eet-yoh-P'EE-yah ah-ber-kuh-TEH)",
+          "translation": "Saint Yared contributed the three great melodic modes to Ethiopia in the sixth century."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (27.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የካህናቱ ማህሌት በጸናጽል እና በመቋሚያ እየተመራ በግዕዝ፣ በእዝልና በአራራይ ዜማዎች ደመቀ።",
+          "reading": "Yäkahənatun mahlət bäts’änats’əl ənna bämäqwamiya əyyätämärra bäGə'əz, bä'Əzəl ənna bä'Araray zemawwočč dämmäqä. [jɛkahɨnaˈtun mahˈlet bɛtsʼɛnaˈtsʼɨl ʔɨnːa bɛmɛkʼʷaˈmija ʔɨjːatɛmɛrːa bɛɡɨʔɨz bɛʔɨzɨl ʔɨnːa bɛʔaraˈraj zeˈmawwotʃː dɛmːɛˈkʼɛ] (yeh-kah-huh-nah-TOON mah-huh-LAYT beh-ts'eh-NAH-ts'ul un-nah beh-mek'-wah-MEE-yah uhy-yeh-teh-mer-RAH beh-GUH-uz, beh-UZ-ul un-nah beh-ah-rah-RYE zay-mah-wohch-CH dem-meh-K'EH)",
+          "translation": "The priests' liturgical chant, guided by sistrum and prayer staff, shone with Geez, Ezil, and Araray melodies."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (27.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (27.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ያሬዳዊ የዜማ ምልክቶች በዓለም ታሪክ ውስጥ ከተመዘገቡ ቀደምት የሙዚቃ ኖታዎች መካከል ይመደባሉ።",
+          "reading": "Yaredawi yäzema mələkkətočč bä'aläm tarik wəsət’ kätämäzzägäbu qädämt yämuzika notawočč mäkkakäl yəmmäddäballu. [jaredaˈwi jɛzeˈma mɨlɨkːɨˈtotʃː bəʔaˈlɛm taˈrik wɨstʼ kɛtɛmɛzːɛˈɡɛbu kʼɛˈdɛmt jɛmuziˈka notaˈwotʃː mɛkːaˈkɛl jɨmːɛdːɛbaˈlːu] (yah-ray-dah-WEE yeh-zay-MAH muh-luk-kuh-TOHCH beh-ah-LEM tah-REEK woos-T' keh-teh-mez-zeg-EH-boo k'eh-DEMT yeh-moo-zee-KAH noh-tah-wohch-CH meh-kah-KEL yum-med-deh-bahl-LOO)",
+          "translation": "Yaredic musical notations are classified among the earliest musical notations recorded in world history."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "3 Sacred Chants: ግዕዝ (Geez - Direct) + እዝል (Ezil - Heavy/Sad) + አራራይ (Araray - Joyful)!"
+      ],
+      "culturalNotes": [
+        "ቅዱስ ያሬድ የደረሳቸው ዜማዎች በኢትዮጵያ ኦርቶዶክስ ተዋህዶ ቤተክርስቲያን በድጓ፣ ጾመ ድጓ፣ ምዕራፍና ዝማሬ መጻሕፍት ውስጥ ተጠብቀው ይገኛሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በ፮ኛው መቶ ክፍለ ዘመን የኢትዮጵያን የዜማ ስልቶች እና የሙዚቃ ኖታዎችን ያዘጋጁት ሊቅ ማን ናቸው?",
           "options": [
-            "መምህሩ የ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (27.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (27.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (27.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (27.3.w3)"
+            "ቅዱስ ያሬድ (Saint Yared - 6th-century father of Ethiopian liturgical music)",
+            "ከበደ ሚካኤል",
+            "ሐዲስ ዓለማየሁ",
+            "ዘርአ ያዕቆብ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ቅዱስ ያሬድ በስድስተኛው መቶ ክፍለ ዘመን ግዕዝ፣ እዝልና አራራይ የተባሉትን ሶስት የዜማ ስልቶች የፈጠሩ ታላቅ ሊቅ ናቸው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u27-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ከሚከተሉት ውስጥ የያሬዳዊ ዜማ ሶስቱን ስልቶች በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (27.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (27.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (27.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (27.3.x3)"
+            "ግዕዝ፣ እዝል እና አራራይ (Geez, Ezil, and Araray - The three Yaredic musical modes)",
+            "ትዝታ፣ ባቲ እና አምባሰል",
+            "ክራር፣ ማሲንቆ እና በገና",
+            "ሰኞ፣ ማክሰኞ እና እሮብ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (27.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (27.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (27.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (27.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ግዕዝ፣ እዝልና አራራይ የቅዱስ ያሬድ ሶስቱ መሰረታዊ የዜማ ስልቶች ናቸው።"
         }
       ]
     },
@@ -12516,24 +12446,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 27-3):",
+          "prompt": "የያሬዳዊ ዜማ እና የዝማሬ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (27.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (27.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (27.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (27.3.z3)"
+            "ቅዱስ ያሬድ፣ ግዕዝ፣ እዝል፣ አራራይ፣ ጸናጽል እና መቋሚያ።",
+            "ስጋ፣ ዳቦ፣ ቅቤ እና ወተት።",
+            "ጫማ፣ ኮት እና ሱሪ።",
+            "በኢትዮጵያ የዜማ ስልት የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የያሬዳዊ ዜማ መሰረታዊ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u27-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ባህላዊ»):",
+          "prompt": "'ዜማ / Melody, chant' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ባህላዊ",
-            "ባህላዊ"
+            "ዜማ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ባህላዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ዜማ» (Zema) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -12544,85 +12473,62 @@
     "subject": "amharic",
     "unit": 27,
     "lessonNumber": 4,
-    "title": "ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet) (ክፍል 4)",
+    "title": "የዘመናዊ ኢትዮ-ጃዝ እና የሙዚቃ ቅንብር (Ethio-Jazz & Modern Arrangement)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: አራቱ ባህላዊ ቅኝቶች (አንቺሆዬ፣ ትዝታ፣ ባቲ፣ አምባሰል) እና የቅኔ ጥበብ። (ክፍል 4)።",
+    "objective": "የኢትዮ-ጃዝ ፈጠራን (ሙላቱ አስታጥቄ)፣ የዘመናዊ ሙዚቃ ቅንብርንና ዓለም አቀፍ ዝናን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የኢትዮ-ጃዝ እና የዘመናዊ ሙዚቃ ቅንብር መዋቅር:\n\n፩. የኢትዮ-ጃዝ መወለድ:\n- ሙላቱ አስታጥቄ (የኢትዮ-ጃዝ አባት)\n- ባህላዊ ቅኝቶች ከምዕራባዊ ጃዝ እና ቫይብራፎን ጋር የተዋሃዱበት ፈጠራ።\n\n፪. የዘመናዊ ሙዚቃ ቃላት:\n- አቀናባሪ (Arranger / Composer) / ድምጻዊ (Vocalist)\n- የሙዚቃ ባንድ (Musical band) / ቅንብር (Arrangement/Composition)።",
       "examples": [
         {
-          "target": "መምህሩ የ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (27.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)' to the students."
+          "target": "ሙላቱ አስታጥቄ ባህላዊ ቅኝቶችን ከጃዝ ጋር በማዋሃድ አለም አቀፍ ዝና ያተረፈውን ኢትዮ-ጃዝ ፈጠረ።",
+          "reading": "Mulatu Astatqe bahəlawi qənyätoččən käJaz gar bamäwwahäd aläm aqäf zəna yatärräfäwən Ityo-Jaz fät’t’ärä. [mulaˈtu ʔastatʼˈkʼe bahɨlaˈwi kʼɨɲɛˈtotʃːɨn kɛdʒaz ɡar bamɛwːaˈhɛd ʔaˈlɛm ʔaˈkʼɛf zɨˈna jatɛrːɛˈfɛwɨn ʔitjoˈdʒaz fɛtʼːɛˈrɛ] (moo-LAH-too ahs-TAHT-k'ay bah-huh-lah-WEE k'un-yeh-TOHCH-chun keh-JAHZ gahr bah-mew-wah-HED ah-LEM ah-K'EF zuh-NAH yah-ter-reh-FEW-un eet-yoh-JAHZ fet'-t'eh-REH)",
+          "translation": "Mulatu Astatke created the world-renowned Ethio-Jazz by merging traditional scales with jazz."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (27.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የሙዚቃ አቀናባሪው ባህላዊ መሳሪያዎችን ከዘመናዊ መሳሪያዎች ጋር በማጣመር ድንቅ ቅንብር አዘጋጀ።",
+          "reading": "Yämuzika aqänabariw bahəlawi mäsariyawoččən käzämänawi mäsariyawočč gar bamat’amär dənq qənəbbər azägağğä. [jɛmuziˈka ʔakʼɛnabaˈriw bahɨlaˈwi mɛsarijaˈwotʃːɨn kɛzɛmɛnaˈwi mɛsarijaˈwotʃː ɡar bamatʼaˈmɛr dɨnkʼ kʼɨnɨbːɨr ʔazɛɡadʒːɛ] (yeh-moo-zee-KAH ah-k'eh-nah-bah-REEW bah-huh-lah-WEE meh-sah-ree-yah-WOHCH-chun keh-zeh-meh-nah-WEE meh-sah-ree-yah-WOHCH gahr bah-maht'-ah-MER dunk' k'un-ub-BUR ah-zeg-ahj-JEH)",
+          "translation": "The music arranger prepared a magnificent composition by blending traditional instruments with modern instruments."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (27.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (27.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የኢትዮጵያ ዘመናዊ ሙዚቃ በዓለም ዙሪያ በሚሊዮኖች የሚቆጠሩ አድናቂዎችን በማፍራት ላይ ይገኛል።",
+          "reading": "Yä'Ityop’əya zämänawi muzika bä'aläm zuriya bämiliyonočč yämmiqqot’t’äru adənaqiyoččən bamafrat lay yəggänyal. [jɛʔitjoˈpʼɨja zɛmɛnaˈwi muziˈka bəʔaˈlɛm zuˈrija bɛmilijoˈnotʃː jɛmːikʼːotʼːɛˈru ʔadɨnakʼiˈjotʃːɨn bamafˈrat laj jɨɡːɛˈɲal] (yeh-eet-yoh-P'EE-yah zeh-meh-nah-WEE moo-zee-KAH beh-ah-LEM zoo-REE-yah beh-mee-lee-yoh-NOHCH yem-mik'-k'oht'-t'eh-ROO ahd-nah-k'ee-YOHCH-chun bah-mahf-RAHT lye yug-gen-YAHL)",
+          "translation": "Ethiopian modern music is producing millions of fans across the globe."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ethio-Jazz Formula: ሙላቱ አስታጥቄ (Father of Ethio-Jazz) + አቀናባሪ (Arranger) + ድምጻዊ (Singer)!"
+      ],
+      "culturalNotes": [
+        "በ1960ዎቹ እና 1970ዎቹ (Golden Age of Ethiopian Music) የታነጹት የኢትዮ-ጃዝ ስራዎች በሆሊውድ ፊልሞችና በዓለም አቀፍ ፌስቲቫሎች ላይ በሰፊው ይደመጣሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "የኢትዮ-ጃዝ (Ethio-Jazz) ፈጣሪ እና አባት በመባል በዓለም አቀፍ ደረጃ የሚታወቁት ሙዚቀኛ ማን ናቸው?",
           "options": [
-            "መምህሩ የ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (27.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (27.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (27.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (27.4.w3)"
+            "ሙላቱ አስታጥቄ (Mulatu Astatke - Pioneer and father of Ethio-Jazz)",
+            "ሐዲስ ዓለማየሁ",
+            "ከበደ ሚካኤል",
+            "ሎሬት ጸጋዬ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ሙላቱ አስታጥቄ የኢትዮጵያን አራቱን ቅኝቶች ከጃዝ ጋር በማዋሃድ የኢትዮ-ጃዝ ሙዚቃን የፈጠሩ ታላቅ ሙዚቀኛ ናቸው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u27-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Music arranger / composer' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (27.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (27.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (27.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (27.4.x3)"
+            "አቀናባሪ (Music arranger / composer)",
+            "ነጋዴ",
+            "አብራሪ",
+            "ዶክተር"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (27.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (27.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (27.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (27.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«አቀናባሪ» የሙዚቃ ድምፆችን፣ መሳሪያዎችንና ዜማዎችን የሚያቀናጅ ባለሙያ ነው።"
         }
       ]
     },
@@ -12630,24 +12536,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 27-4):",
+          "prompt": "የዘመናዊ ሙዚቃ እና የኢትዮ-ጃዝ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (27.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (27.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (27.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (27.4.z3)"
+            "ኢትዮ-ጃዝ፣ ሙላቱ አስታጥቄ፣ አቀናባሪ፣ ድምጻዊ፣ ባንድ እና ቅንብር።",
+            "ጠመኔ፣ ሰሌዳ፣ ወንበር እና ጠረጴዛ።",
+            "ወተት፣ አይብ፣ ቅቤ እና እርጎ።",
+            "በኢትዮጵያ ዘመናዊ ሙዚቃ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የዘመናዊ ሙዚቃ እና የኢትዮ-ጃዝ ቁልፍ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u27-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ባህላዊ»):",
+          "prompt": "'አቀናባሪ / Music arranger, composer' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ባህላዊ",
-            "ባህላዊ"
+            "አቀናባሪ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ባህላዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «አቀናባሪ» (Aqänabari) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -12658,85 +12563,62 @@
     "subject": "amharic",
     "unit": 27,
     "lessonNumber": 5,
-    "title": "ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet) (ክፍል 5)",
+    "title": "የክፍል 27 አጠቃላይ ማጠቃለያ (Unit 27 Grand Synthesis & Ethiopian Musical Heritage)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: አራቱ ባህላዊ ቅኝቶች (አንቺሆዬ፣ ትዝታ፣ ባቲ፣ አምባሰል) እና የቅኔ ጥበብ። (ክፍል 5)።",
+    "objective": "አራቱን ቅኝቶች፣ ባህላዊ መሳሪያዎችን፣ የያሬዳዊ ዜማንና ኢትዮ-ጃዝን ያቀናጀ የተሟላ የሙዚቃ ውይይት ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፳፯ አጠቃላይ የኢትዮጵያ ሙዚቃ እና የዜማ ቅርስ ማጠቃለያ:\n\n፩. አራቱ ቅኝቶች:\n- ትዝታ፣ ባቲ፣ አምባሰል፣ አንቺሆዬ።\n\n፪. ባህላዊ መሳሪያዎች:\n- ክራር፣ ማሲንቆ፣ ዋሽንት፣ ከበሮ፣ በገና፣ ጸናጽል።\n\n፫. ያሬዳዊ ዜማ:\n- ግዕዝ፣ እዝል፣ አራራይ፣ መቋሚያ።\n\n፬. ዘመናዊ ሙዚቃ እና ኢትዮ-ጃዝ:\n- ሙላቱ አስታጥቄ፣ አቀናባሪ፣ ድምጻዊ፣ ቅንብር።",
       "examples": [
         {
-          "target": "መምህሩ የ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (27.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)' to the students."
+          "target": "የኢትዮጵያ ሙዚቃ በአራቱ ቅኝቶች፣ በባህላዊ መሳሪያዎች፣ በያሬዳዊ ዜማ እና በኢትዮ-ጃዝ ጥበብ የደመቀ ነው።",
+          "reading": "Yä'Ityop’əya muzika bä'arattu qənyätočč, bäbahəlawi mäsariyawočč, bäYaredawi zema ənna bä'Ityo-Jaz t’əbäb yädämmäqä näw. [jɛʔitjoˈpʼɨja muziˈka bɛʔaratːu kʼɨɲɛˈtotʃː bɛbahɨlaˈwi mɛsarijaˈwotʃː bɛjaredaˈwi zeˈma ʔɨnːa bɛʔitjoˈdʒaz tʼɨˈbɛb jɛdɛmːɛˈkʼɛ nɛw] (yeh-eet-yoh-P'EE-yah moo-zee-KAH beh-ah-raht-TOO k'un-yeh-TOHCH, beh-bah-huh-lah-WEE meh-sah-ree-yah-WOHCH, beh-yah-ray-dah-WEE zay-MAH un-nah beh-eet-yoh-JAHZ t'uh-BEB yeh-dem-meh-K'EH new)",
+          "translation": "Ethiopian music is resplendent with the four modal scales, traditional instruments, Yaredic sacred melody, and the art of Ethio-Jazz."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (27.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "አቀናባሪው የማሲንቆ እና የክራር ድምፅን ከያሬዳዊ ዜማ ጋር በማጣመር ልዩ የሙዚቃ ድግስ አቀረበ።",
+          "reading": "Aqänabariw yämasinqo ənna yäkərar dəmts’ən käYaredawi zema gar bamat’amär ləyyu yämuzika dəggəs aqärräbä. [ʔakʼɛnabaˈriw jɛmasinˈkʼo ʔɨnːa jɛkɨˈrar dɨmˈtsʼɨn kɛjaredaˈwi zeˈma ɡar bamatʼaˈmɛr lɨjːu jɛmuziˈka dɨɡːɨs ʔakʼɛrːɛˈbɛ] (ah-k'eh-nah-bah-REEW yeh-mah-seen-K'OH un-nah yeh-kuh-RAHR dum-TS'UN keh-yah-ray-dah-WEE zay-MAH gahr bah-maht'-ah-MER luhy-YOO yeh-moo-zee-KAH dug-GUS ah-k'er-reh-BEH)",
+          "translation": "The arranger presented an extraordinary musical feast by uniting the sounds of Masinqo and Krar with Yaredic chant."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (27.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (27.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የኢትዮጵያ የሙዚቃ ቅርስ ከጥንታዊው ያሬድ ዘመን አንስቶ እስከ ዘመናዊው ጃዝ ድረስ ረጅም ጉዞ ተጉዟል።",
+          "reading": "Yä'Ityop’əya yämuzika qərs kät’əntawiw Yared zämän anəsəto əskä zämänawiw Jaz dəräs räğğəm guzo tägwəzwal. [jɛʔitjoˈpʼɨja jɛmuziˈka kʼɨrs kɛtʼɨntaˈwiw jaˈred zɛˈmɛn ʔanɨsˈto ʔɨskɛ zɛmɛnaˈwiw dʒaz dɨˈrɛs rɛdʒːɨm ɡuˈzo tɛɡʷɨzˈwal] (yeh-eet-yoh-P'EE-yah yeh-moo-zee-KAH k'urs keh-t'un-tah-WEEW yah-RAYD zeh-MEN ah-nus-TOH us-KEH zeh-meh-nah-WEEW JAHZ duh-RES rej-JUM goo-ZOH teh-gwuz-WAHL)",
+          "translation": "Ethiopia's musical heritage has traveled a long journey from the ancient Yared era up to modern Jazz."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Grand Synthesis 27: Scales (ቅኝት) + Instruments (ማሲንቆ/ክራር) + Yared (ግዕዝ/እዝል/አራራይ) + Modern (ኢትዮ-ጃዝ)!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ ሙዚቃ ሀገራዊ አንድነትን፣ ታሪክንና የህዝቦችን ባህላዊ ውበት የሚያንጸባርቅ አለም አቀፍ የኪነ-ጥበብ ሀብት ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ ሙዚቃ ውህደትን የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (27.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (27.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (27.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (27.5.w3)"
+            "የኢትዮጵያ ሙዚቃ በአራቱ ቅኝቶች፣ በባህላዊ መሳሪያዎች፣ በያሬዳዊ ዜማ እና በኢትዮ-ጃዝ ጥበብ የደመቀ ነው። (Complete musical synthesis combining scales, traditional instruments, Yaredic chant, and Ethio-Jazz)",
+            "ምንም ሙዚቃ የለም",
+            "ሁሉም ተራ ቃላት ናቸው",
+            "ዜማ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ይህ አማራጭ ቅኝቶችን፣ ባህላዊ መሳሪያዎችን፣ የያሬድ ዜማንና ዘመናዊ ጃዝን በአንድነት ያጠቃለለ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u27-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ቅኝትን እና የሙዚቃ መሳሪያዎችን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (27.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (27.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (27.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (27.5.x3)"
+            "ድምጻዊው በማሲንቆ እና በክራር እየታጀበ በትዝታ ቅኝት የተዋበ ዜማ አቀረበ። (The singer presented a beautiful melody in the Tizita scale accompanied by Masinqo and Krar - Accurate unified sentence)",
+            "ምንም ዜማ አልቀረበም",
+            "መሳሪያ የለም",
+            "ቅኝት የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ባህላዊ የሙዚቃ ቅኝቶች እና ዜማ (Ethiopian Music & Qenet)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (27.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (27.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (27.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (27.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ ቅኝትን እና ባህላዊ መሳሪያዎችን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -12744,24 +12626,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 27-5):",
+          "prompt": "የክፍል 27 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (27.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (27.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (27.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (27.5.z3)"
+            "አራቱ ባህላዊ ቅኝቶች፣ ባህላዊ የሙዚቃ መሳሪያዎች፣ የያሬዳዊ ዜማ ስልቶች፣ እንዲሁም የዘመናዊ ኢትዮ-ጃዝ ቅንብር ተካተዋል።",
+            "ይህ ክፍል ስለ ህክምና ብቻ ነው።",
+            "በኢትዮጵያ ሙዚቃ አልነበረም።",
+            "ሁሉም ቅኝቶች ተመሳሳይ ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 27ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u27-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ባህላዊ»):",
+          "prompt": "'ሙዚቃ / Music' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ባህላዊ",
-            "ባህላዊ"
+            "ሙዚቃ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ባህላዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ሙዚቃ» (Muzika) ነው።"
         }
       ],
       "passThreshold": 0.8
