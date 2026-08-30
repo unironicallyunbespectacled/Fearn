@@ -4623,56 +4623,65 @@
     "subject": "korean",
     "unit": 10,
     "lessonNumber": 1,
-    "title": "가능과 불가능(-(으)ㄹ 수 있다/없다) (Modal Ability) (Part 1)",
+    "title": "능력 및 가능성 긍정 어미 (-(으)ㄹ 수 있다)",
     "level": "A2",
-    "objective": "Comprehensive mastery of 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다).",
+    "objective": "주어의 내적 능력 또는 외적 상황의 가능성을 나타내는 '-(으)ㄹ 수 있다'의 형태 결합 규칙(모음 어간 + -ㄹ 수 있다, 자음 어간 + -을 수 있다, ㄹ 받침 + 수 있다)을 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 가능과 불가능(-(으)ㄹ 수 있다/없다) (Modal Ability) » (제1절)의 핵심 언어 요소와 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "동사 뒤에 결합하는 '-(으)ㄹ 수 있다'는 주어가 어떤 행위를 할 수 있는 '능력(Ability)'이나 그렇게 할 수 있는 '상황적 가능성(Possibility)'을 나타냅니다.\n\n1. 형태 결합 규칙:\n- 모음 종결 어간 (받침 없음) + -ㄹ 수 있다:\n  - 가다 → 갈 수 있어요 (can go)\n  - 보다 → 볼 수 있어요 (can see)\n  - 하다 → 한국어로 대화할 수 있어요 (can converse in Korean)\n  - 수영하다 → 수영할 수 있어요 (can swim)\n- 자음 종결 어간 (받침 있음) + -을 수 있다:\n  - 먹다 → 먹을 수 있어요 (can eat)\n  - 읽다 → 읽을 수 있어요 (can read)\n  - 입다 → 입을 수 있어요 (can wear)\n  - 찾다 → 찾을 수 있어요 (can find)\n- 'ㄹ' 받침 종결 어간 + 수 있다 (ㄹ 탈락 없음):\n  - 만들다 → 만들 수 있어요 (can make)\n  - 살다 → 살 수 있어요 (can live)\n  - 열다 → 열 수 있어요 (can open)\n\n2. 두 가지 핵심 의미 범주:\n- 주어의 고유한 능력 (Internal Ability): \"저는 한글을 읽을 수 있어요.\"\n- 외적 상황의 가능성 (External Possibility): \"오늘 저녁에 시간이 있어서 만날 수 있어요.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (10.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "저는 한국어로 간단한 일상 대화를 할 수 있습니다.",
+          "reading": "Jeo-neun hangug-eo-ro gandanhan ilsang daehwa-reul hal su itseumnida.",
+          "translation": "I can have simple daily conversations in Korean (Ability)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (10.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "매운 음식을 잘 먹어서 김치찌개도 맛있게 먹을 수 있어요.",
+          "reading": "Maeun eumsik-eul jal meog-eoseo gimchijjigae-do masitge meog-eul su isseoyo.",
+          "translation": "I eat spicy food well, so I can eat kimchi stew deliciously too."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (10.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "부모님을 위해 특별한 생일 케이크를 직접 만들 수 있어요.",
+          "reading": "Bumonim-eul wihae teukbyeolhan saeng-il keikeu-reul jikjeop mandeul su isseoyo.",
+          "translation": "I can make a special birthday cake myself for my parents."
+        },
+        {
+          "target": "내일 오후에는 수업이 없어서 친구를 만날 수 있습니다.",
+          "reading": "Naeil ohu-eneun sueop-i eopseoseo chingu-reul mannal su itseumnida.",
+          "translation": "Tomorrow afternoon I have no classes, so I can meet a friend (Possibility)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "받침 없으면 '-ㄹ 수 있다'(갈 수 있다), 받침 있으면 '-을 수 있다'(먹을 수 있다), ㄹ 받침은 그대로 '만들 수 있다'!"
+      ],
+      "culturalNotes": [
+        "한국인에게 '한국어 할 수 있어요?'라고 물었을 때, 실제로는 매우 유창함에도 '조금밖에 못해요 / 조금 할 수 있어요'라고 겸손하게 답하는 것이 전형적인 미덕입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "동사 '가다(to go)'의 올바른 능력/가능 긍정형은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (10.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (10.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (10.1.3)."
+            "갈 수 있어요",
+            "가을 수 있어요",
+            "가 수 있어요"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'가다'는 받침이 없는 모음 종결 어간이므로 '-ㄹ 수 있다'가 결합하여 '갈 수 있어요'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 가능과 불가능(-(으)ㄹ 수 있다/없다) (Modal Ability) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "동사 '읽다(to read - 자음 받침)'의 올바른 가능형은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (10.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (10.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (10.1.3)."
+            "읽을 수 있어요",
+            "읽ㄹ 수 있어요",
+            "읽 수 있어요"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "'읽다'는 받침이 있으므로 '-을 수 있다'와 결합하여 '읽을 수 있어요'가 됩니다."
         }
       ]
     },
@@ -4680,14 +4689,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 10-1)?",
+          "prompt": "'한국 요리를 혼자서 _____ (I can make Korean food alone).' 빈칸에 알맞은 '만들다'의 가능형은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (10.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (10.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (10.1.3)."
+            "만들 수 있어요",
+            "만들을 수 있어요",
+            "만들ㄹ 수 있어요"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'만들다'는 어간 끝이 'ㄹ' 받침이므로 그대로 '수 있다'가 결합하여 '만들 수 있어요'가 됩니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'한국어를 할 수 있어요'(I can speak Korean)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "한국어를 할 수 있어요.",
+            "한국어를 할 수 있어요"
+          ],
+          "explanation": "한국어를(목적어) + 할 수 있어요(하다의 가능형) = 한국어를 할 수 있어요."
         }
       ]
     }
@@ -4697,56 +4715,65 @@
     "subject": "korean",
     "unit": 10,
     "lessonNumber": 2,
-    "title": "가능과 불가능(-(으)ㄹ 수 있다/없다) (Modal Ability) (Part 2)",
+    "title": "능력 및 가능성 부정 어미 (-(으)ㄹ 수 없다)",
     "level": "A2",
-    "objective": "Comprehensive mastery of 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다).",
+    "objective": "내적 능력의 한계나 외적 상황의 불가피성을 나타내는 장문 부정 어미 '-(으)ㄹ 수 없다'의 용법과 정중한 거절 표현을 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 가능과 불가능(-(으)ㄹ 수 있다/없다) (Modal Ability) » (제2절)의 핵심 언어 요소와 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "동사 어간 뒤에 '-(으)ㄹ 수 없다'를 결합하면 어떤 행위를 할 능력이나 여건이 되지 않음을 나타냅니다 (Cannot do / Unable to do).\n\n1. 형태 결합 규칙:\n- '있다' 자리에 부정 형용사 '없다'를 결합합니다.\n  - 가다 → 갈 수 없어요 / 갈 수 없습니다 (cannot go)\n  - 먹다 → 먹을 수 없어요 / 먹을 수 없습니다 (cannot eat)\n  - 오다 → 올 수 없어요 (cannot come)\n  - 수영하다 → 수영할 수 없어요 (cannot swim)\n  - 만들다 → 만들 수 없어요 (cannot make)\n\n2. 공손하고 정중한 거절(Polite Refusal) 화법:\n한국의 사회생활 및 비즈니스 환경에서 제안이나 초대를 정중하게 사절할 때 가장 널리 쓰이는 완곡한 표현입니다.\n- \"죄송합니다. 오늘 저녁에는 선약이 있어서 모임에 갈 수 없습니다.\"\n- \"지금은 회의 중이라서 전화를 받을 수 없어요.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (10.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "죄송하지만 다음 주말에는 바빠서 모임에 갈 수 없어요.",
+          "reading": "Joesonghajiman daeum jumal-eneun bappaseo moim-e gal su eopseoyo.",
+          "translation": "I am sorry, but I am busy next weekend so I cannot go to the gathering."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (10.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "매운 음식을 전혀 못 먹어서 떡볶이를 먹을 수 없습니다.",
+          "reading": "Maeun eumsik-eul jeonhyeo mot meog-eoseo tteokbokki-reul meog-eul su eopseumnida.",
+          "translation": "I cannot eat spicy food at all, so I cannot eat tteokbokki."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (10.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "운전면허가 없어서 자동차를 운전할 수 없어요.",
+          "reading": "Unjeonmyeonheo-ga eopseoseo jadongcha-reul unjeonhal su eopseoyo.",
+          "translation": "I do not have a driver's license, so I cannot drive a car."
+        },
+        {
+          "target": "지금은 도서관 열람실 안이라서 큰 소리로 통화할 수 없습니다.",
+          "reading": "Jigeum-eun doseogwan yeollamsil an-iraseo keun sori-ro tonghwahal su eopseumnida.",
+          "translation": "Because I am inside the library reading room right now, I cannot talk loudly on the phone."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "할 수 없을 땐 '있다' 대신 '없다'! '갈 수 없다, 먹을 수 없다'로 정중하게 거절하자!"
+      ],
+      "culturalNotes": [
+        "한국에서는 거절할 때 단칼에 '안 해요'라고 하기보다 '죄송하지만 ~해서 할 수 없어요'처럼 이유와 함께 '-(으)ㄹ 수 없다'를 사용하는 것이 상대방의 체면을 배려하는 표준적인 언어 예절입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "동사 '가다(to go)'의 능력/상황 부정형으로 가장 올바른 것은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (10.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (10.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (10.2.3)."
+            "갈 수 없어요",
+            "가을 수 없어요",
+            "가 수 없어요"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'가다'에 부정 어미 '-ㄹ 수 없다'가 결합하여 '갈 수 없어요'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 가능과 불가능(-(으)ㄹ 수 있다/없다) (Modal Ability) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "'회의 중이라서 전화를 받지 못한다'를 정중하게 표현한 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (10.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (10.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (10.2.3)."
+            "회의 중이라서 전화를 받을 수 없어요.",
+            "회의 중이라서 전화를 받ㄹ 수 없어요.",
+            "회의 중이라서 전화를 받아 수 없어요."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'받다'는 자음 받침이 있으므로 '-을 수 없다'와 결합하여 '받을 수 없어요'가 됩니다."
         }
       ]
     },
@@ -4754,14 +4781,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 10-2)?",
+          "prompt": "다음 중 정중한 거절 표현으로 문법과 화용이 가장 자연스러운 문장은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (10.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (10.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (10.2.3)."
+            "죄송하지만 내일은 일정이 있어서 갈 수 없습니다.",
+            "죄송하지만 내일은 일정이 있어서 갈 수 있습니다.",
+            "죄송하지만 내일은 일정이 있어서 가지 수 없어요."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "explanation": "사과 표현('죄송하지만')과 이유('일정이 있어서'), 정중한 불가능 서술('갈 수 없습니다')이 완벽합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'갈 수 없어요'(I cannot go)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "갈 수 없어요.",
+            "갈 수 없어요"
+          ],
+          "explanation": "가다 + ㄹ 수 없다 + 어요 = 갈 수 없어요."
         }
       ]
     }
@@ -4771,56 +4807,65 @@
     "subject": "korean",
     "unit": 10,
     "lessonNumber": 3,
-    "title": "가능과 불가능(-(으)ㄹ 수 있다/없다) (Modal Ability) (Part 3)",
+    "title": "단문 불가능 부사 '못'과 장문 가능 부정 '-(으)ㄹ 수 없다'의 화용적 대비",
     "level": "A2",
-    "objective": "Comprehensive mastery of 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다).",
+    "objective": "일상 구어에서 직관적으로 쓰는 단문 부정 부사 '못'과 공식적/완곡한 장문 부정 '-(으)ㄹ 수 없다'의 통사적 위치와 화용론적 뉘앙스 차이를 구분한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 가능과 불가능(-(으)ㄹ 수 있다/없다) (Modal Ability) » (제3절)의 핵심 언어 요소와 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어에서 능력이 없거나 상황상 할 수 없음을 나타낼 때 단문 부정 부사 '못'과 장문 부정 어미 '-(으)ㄹ 수 없다'를 모두 사용할 수 있습니다.\n\n1. 통사적 위치와 결합 방식:\n- 단문 부정 부사 '못':\n  - 일반 동사 바로 앞에 위치: \"오늘 학교에 못 가요.\", \"김치를 못 먹어요.\"\n  - '명사+하다' 동사는 명사 뒤/하다 앞에 삽입: \"수영을 못해요 (O) / *못 수영해요 (X)\", \"운전을 못해요 (O) / *못 운전해요 (X)\"\n  - 형용사에는 결합 불가 (*오늘 못 춥다 X → 안 춥다 O)\n- 장문 부정 어미 '-(으)ㄹ 수 없다':\n  - 동사 어간 끝에 결합: \"갈 수 없어요\", \"수영할 수 없어요\"\n\n2. 화용론적 스타일과 어감 대비:\n- '못 + 동사': 일상 구어체에서 빠르고 간결하게 자신의 상황을 직설적으로 전달할 때 주로 쓰임.\n- '-(으)ㄹ 수 없다': 공식적인 담화, 공손한 거절, 글말(문어체)에서 정중하고 완곡한 뉘앙스를 부여함.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (10.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "감기에 심하게 걸려서 오늘 수업에 못 갔어요.",
+          "reading": "Gamgi-e simhage geollyeoseo oneul sueop-e mot gasseoyo.",
+          "translation": "I caught a bad cold, so I could not go to class today (Short negative '못')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (10.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "저는 수영을 전혀 못해서 바다에 들어갈 수 없어요.",
+          "reading": "Jeo-neun suyeong-eul jeonhyeo mothaeseo bada-e deureogal su eopseoyo.",
+          "translation": "I cannot swim at all, so I cannot enter the sea ('수영을 못하다' + '-ㄹ 수 없다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (10.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "어제는 야근 때문에 친구와의 약속을 지키지 못했습니다.",
+          "reading": "Eoje-neun yageun ttaemun-e chingu-wa-ui yaksok-eul jikiji mothaetseumnida.",
+          "translation": "Yesterday, because of overtime work, I could not keep the promise with my friend."
+        },
+        {
+          "target": "아침을 못 먹어서 지금 배가 너무 고파요.",
+          "reading": "Achim-eul mot meog-eoseo jigeum bae-ga neomu gopayo.",
+          "translation": "I couldn't eat breakfast, so I am very hungry right now."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "구어에서 빠를 땐 '못 가요, 밥 못 먹어요'! '하다' 동사는 가운데 쏙 '공부 못해요'!"
+      ],
+      "culturalNotes": [
+        "'안 해요(의지적 거부: I don't want to)'와 '못 해요(능력/상황적 불가능: I can't)'를 혼동하여 쓰면 한국인에게 큰 오해를 불러일으킬 수 있으므로 명확히 구별해야 합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "'운전하다(to drive)'를 부정 부사 '못'을 사용하여 바르게 표현한 것은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (10.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (10.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (10.3.3)."
+            "운전을 못해요.",
+            "못 운전해요.",
+            "운전이 못해요."
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "'명사+하다' 구조의 동사는 '못'이 '하다' 바로 앞에 들어가 '운전을 못해요'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 가능과 불가능(-(으)ㄹ 수 있다/없다) (Modal Ability) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "다음 중 '못'의 결합이 문법적으로 잘못된 비문은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (10.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (10.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (10.3.3)."
+            "오늘 날씨가 못 추워요.",
+            "오늘 학교에 못 가요.",
+            "김치를 매워서 못 먹어요."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'못'은 형용사(춥다)와 결합할 수 없으며 단순 부정 부사인 '안'을 써야 합니다 ('안 추워요')."
         }
       ]
     },
@@ -4828,14 +4873,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 10-3)?",
+          "prompt": "'시간이 부족해서 점심을 _____ (I couldn't eat lunch).' 빈칸에 알맞은 형태는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (10.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (10.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (10.3.3)."
+            "못 먹었어요",
+            "안 먹었어요",
+            "못 춥었어요"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "시간 부족이라는 외적 여건으로 인해 먹지 못한 상황이므로 능력/상황 부정인 '못 먹었어요'가 정확합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'오늘 학교에 못 가요'(I cannot go to school today)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "오늘 학교에 못 가요.",
+            "오늘 학교에 못 가요"
+          ],
+          "explanation": "오늘(시간) + 학교에(도착점) + 못(부정 부사) + 가요(서술어) = 오늘 학교에 못 가요."
         }
       ]
     }
@@ -4845,56 +4899,65 @@
     "subject": "korean",
     "unit": 10,
     "lessonNumber": 4,
-    "title": "가능과 불가능(-(으)ㄹ 수 있다/없다) (Modal Ability) (Part 4)",
+    "title": "방법 및 기능 습득 표현 (-(으)ㄹ 줄 알다 / 모르다)",
     "level": "A2",
-    "objective": "Comprehensive mastery of 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다).",
+    "objective": "어떤 기술, 기예, 스포츠 등의 실행 방법(know-how)을 배워서 알고 있는지의 여부를 나타내는 '-(으)ㄹ 줄 알다/모르다'의 문법을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 가능과 불가능(-(으)ㄹ 수 있다/없다) (Modal Ability) » (제4절)의 핵심 언어 요소와 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "관형사형 어미 '-(으)ㄹ' 뒤에 의존명사 '줄'과 동사 '알다/모르다'가 결합한 구조는 어떤 동작을 수행하는 '방법(How to do)'이나 '기술적 요령'을 습득했는지를 나타냅니다.\n\n1. 형태 결합 규칙:\n- 모음 어간 / 'ㄹ' 받침 어간 + -ㄹ 줄 알다/모르다:\n  - 운전하다 → 운전할 줄 알아요 (I know how to drive)\n  - 수영하다 → 수영할 줄 몰라요 (I don't know how to swim)\n  - 만들다 → 만들 줄 알아요 (I know how to make)\n- 자음 어간 (받침 있음) + -을 줄 알다/모르다:\n  - 읽다 → 한자를 읽을 줄 알아요 (I know how to read Hanja)\n  - 치다 → 피아노를 칠 줄 알아요 (I know how to play the piano)\n\n2. '-(으)ㄹ 수 있다'와의 뉘앙스 차이:\n- '-(으)ㄹ 줄 알다': 오직 '방법을 배워서 할 수 있음(Know-how / Skill)'에 초점.\n- '-(으)ㄹ 수 있다': 기술적 능력뿐 아니라 '오늘 시간이 있어서 할 수 있다' 같은 외적 여건과 가능성까지 포괄함.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (10.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "저는 어렸을 때 태권도를 배워서 태권도를 할 줄 압니다.",
+          "reading": "Jeo-neun eoryeosseul ttae taegwondo-reul baewoseo taegwondo-reul hal jul amnida.",
+          "translation": "I learned Taekwondo when I was young, so I know how to do Taekwondo ('-ㄹ 줄 알다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (10.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "자동차 운전면허가 있어서 운전할 줄 알아요.",
+          "reading": "Jadongcha unjeonmyeonheo-ga isseoseo unjeonhal jul arayo.",
+          "translation": "I have a driver's license, so I know how to drive."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (10.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "젓가락을 아직 잘 쓸 줄 몰라서 포크를 사용해요.",
+          "reading": "Jeotgarak-eul ajik jal sseul jul mollaseo pokeu-reul sayonghaeyo.",
+          "translation": "I don't know how to use chopsticks well yet, so I use a fork ('-ㄹ 줄 모르다')."
+        },
+        {
+          "target": "어머니께 한국 전통 된장찌개 끓이는 법을 배워서 끓일 줄 알아요.",
+          "reading": "Eomeoni-kke hanguk jeontong doenjangjjigae kkeurhineun beob-eul baewoseo kkeurhil jul arayo.",
+          "translation": "I learned how to cook traditional Korean doenjang stew from my mother, so I know how to boil it."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "방법을 알면 '-ㄹ 줄 알다', 방법을 모르면 '-ㄹ 줄 모르다'! 기술과 요령의 '줄'!"
+      ],
+      "culturalNotes": [
+        "한국 식당에 외국인 친구와 함께 갔을 때 '젓가락 쓸 줄 알아요?'라고 친절하게 물어보는 것은 매우 흔하고 다정한 배려의 대화입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "피아노 연주 방법을 알고 있음을 나타내는 가장 올바른 표현은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (10.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (10.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (10.4.3)."
+            "피아노를 칠 줄 알아요.",
+            "피아노를 치을 줄 알아요.",
+            "피아노를 쳐 줄 알아요."
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'치다'는 모음 종결 어간이므로 '-ㄹ 줄 알다'가 결합하여 '칠 줄 알아요'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 가능과 불가능(-(으)ㄹ 수 있다/없다) (Modal Ability) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "'스키를 타는 방법을 모른다'를 바르게 표현한 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (10.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (10.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (10.4.3)."
+            "스키를 탈 줄 몰라요.",
+            "스키를 타을 줄 몰라요.",
+            "스키를 탈 줄 알아요."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "방법을 모를 때는 '모르다'를 결합하여 '탈 줄 몰라요'가 올바릅니다."
         }
       ]
     },
@@ -4902,14 +4965,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 10-4)?",
+          "prompt": "'A: 한국 요리 할 줄 알아요? B: 네, 불고기를 _____.' 빈칸에 알맞은 형태는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (10.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (10.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (10.4.3)."
+            "만들 줄 알아요",
+            "만들을 줄 알아요",
+            "만들 줄 몰라요"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'네'로 긍정 답변을 했으며 '만들다'는 ㄹ 받침이므로 '만들 줄 알아요'가 정확합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'운전할 줄 알아요'(I know how to drive)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "운전할 줄 알아요.",
+            "운전할 줄 알아요"
+          ],
+          "explanation": "운전하다 + ㄹ 줄 알다 + 아요 = 운전할 줄 알아요."
         }
       ]
     }
@@ -4919,56 +4991,65 @@
     "subject": "korean",
     "unit": 10,
     "lessonNumber": 5,
-    "title": "가능과 불가능(-(으)ㄹ 수 있다/없다) (Modal Ability) (Part 5)",
+    "title": "외국어 구사 및 취미 능력 교환 실전 담화 구성",
     "level": "A2",
-    "objective": "Comprehensive mastery of 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다).",
+    "objective": "'한국어 할 수 있어요?', '스키 탈 줄 알아요?' 등 상대방의 특기와 능력을 묻고 자신의 역량을 겸손하고 정확하게 표현하는 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 가능과 불가능(-(으)ㄹ 수 있다/없다) (Modal Ability) » (제5절)의 핵심 언어 요소와 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "취미, 스포츠, 외국어 능력에 대해 대화할 때는 능력 표현('-(으)ㄹ 수 있다/없다')과 기능 표현('-(으)ㄹ 줄 알다/모르다')을 다채롭게 활용합니다.\n\n1. 필수 능력 문답 모델:\n- A: 준호 씨는 외국어를 몇 개나 할 수 있어요?\n- B: 저는 영어와 한국어를 할 수 있어요. 그리고 일본어는 조금 알아들을 수 있어요.\n- A: 와, 대단하네요! 혹시 악기도 연주할 줄 알아요?\n- B: 네, 통기타를 조금 칠 줄 알아요. 지은 씨는요?\n- A: 저는 악기는 전혀 못 다루지만, 스노보드는 정말 잘 탈 수 있어요!\n\n2. 겸손과 능력의 정도를 나타내는 부사:\n- 조금 (a little): \"한국어를 조금 할 수 있어요.\"\n- 잘 (well): \"수영을 아주 잘해요.\"\n- 전혀 + 부정 (not at all): \"매운 음식을 전혀 못 먹어요.\"\n- 아직 (not yet): \"아직 서툴러서 잘 못해요.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (10.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "A: 한국어 신문을 읽을 수 있어요? B: 아직 한자를 몰라서 신문은 읽을 수 없어요.",
+          "reading": "A: Hangug-eo sinmun-eul ilgeul su isseoyo? B: Ajik hanja-reul mollaseo sinmun-eun ilgeul su eopseoyo.",
+          "translation": "A: Can you read Korean newspapers? B: I don't know hanja yet, so I cannot read newspapers."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (10.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "저는 스페인어를 조금 할 줄 알지만 유창하게 하지는 못합니다.",
+          "reading": "Jeo-neun Seupein-eo-reul jogeum hal jul aljiman yuchanghage hajineun mothamnida.",
+          "translation": "I know how to speak a little Spanish, but I cannot speak fluently."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (10.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "겨울에 친구들과 함께 스키장에 가서 스키를 탈 수 있어요.",
+          "reading": "Gyeoul-e chingudeul-gwa hamkke seukijang-e gaseo seuki-reul tal su isseoyo.",
+          "translation": "In winter, I can go to the ski resort with friends and ski."
+        },
+        {
+          "target": "한국 요리 중에서 김치볶음밥을 아주 맛있게 만들 수 있습니다.",
+          "reading": "Hanguk yori jung-eseo gimchibokkeumbap-eul aju masitge mandeul su itseumnida.",
+          "translation": "Among Korean dishes, I can make kimchi fried rice very deliciously."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "자랑하지 않고 '조금 할 수 있어요'로 겸손하게, 배운 기술은 '-ㄹ 줄 알아요'로 당당하게!"
+      ],
+      "culturalNotes": [
+        "한국에서는 재능을 칭찬받았을 때 '아니에요, 아직 많이 부족합니다 / 배울 게 많아요'라고 답하는 것이 겸양의 미덕으로 높이 평가받습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "'외국어를 조금 할 수 있다'고 겸손하게 답할 때 가장 자연스러운 문장은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (10.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (10.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (10.5.3)."
+            "한국어를 조금 할 수 있어요.",
+            "한국어를 전혀 할 수 있어요.",
+            "한국어를 못 할 수 있어요."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "부사 '조금'과 가능 어미 '할 수 있어요'가 결합한 '조금 할 수 있어요'가 가장 표준적입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 가능과 불가능(-(으)ㄹ 수 있다/없다) (Modal Ability) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "'악기를 전혀 연주하지 못한다'를 바르게 표현한 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (10.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (10.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (10.5.3)."
+            "기타를 전혀 칠 줄 몰라요.",
+            "기타를 전혀 칠 줄 알아요.",
+            "기타를 조금 칠 줄 몰라요."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "부사 '전혀'는 부정 표현인 '칠 줄 몰라요'와 호응합니다."
         }
       ]
     },
@@ -4976,14 +5057,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 10-5)?",
+          "prompt": "능력 문답 대화 중 문맥과 문법이 가장 완벽한 것은 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (10.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (10.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (10.5.3)."
+            "A: 수영할 줄 알아요? B: 네, 어렸을 때 배워서 수영할 수 있어요.",
+            "A: 수영할 줄 알아요? B: 네, 수영을 전혀 못해요.",
+            "A: 수영할 줄 알아요? B: 아니요, 수영을 아주 잘해요."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "explanation": "수영 기술 습득 여부를 묻고 긍정적으로 답한 첫 번째 대화가 완벽합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'스키를 탈 줄 알아요'(I know how to ski)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "스키를 탈 줄 알아요.",
+            "스키를 탈 줄 알아요"
+          ],
+          "explanation": "스키를(목적어) + 탈 줄 알아요(타다 + ㄹ 줄 알다) = 스키를 탈 줄 알아요."
         }
       ]
     }
