@@ -1071,85 +1071,89 @@
     "subject": "mandarin",
     "unit": 2,
     "lessonNumber": 1,
-    "title": "基本句型、人称代词与是字句 (Basic SVO & 是-Sentences) (第1讲)",
+    "title": "汉语基本语序（主谓宾 SVO）与人称代词系统 (Personal Pronouns & SVO Word Order)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：汉语人称代词（我/你/他/她/我们）、是字句判断结构、名词谓语句及否定副词「不」。 (第1部分)。",
+    "objective": "掌握汉语孤立语的语法特征，熟练运用汉语主谓宾基本语序以及单复数人称代词系统（我、你、您、他、她、它、我们、你们、他们）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "现代标准汉语在语言类型学上属于典型的孤立语（分析语），其最显著的语法特征是没有印欧语系复杂的动词时态变位、名词格位屈折或阴阳性数形态变化。句子的句法关系、语义指向与逻辑层次主要依靠「词序」与「虚词」来精密表达。\n\n一、汉语基本语序——主谓宾结构：\n汉语最基础、最核心的陈述句基本语序为主语居前、谓语动词居中、宾语殿后：\n1. 主语（施事主体） + 谓语动词（动作行为） + 宾语（受事对象）\n- 我爱你。（主语「我」+ 动词「爱」+ 宾语「你」）\n- 我们学习中文。（主语「我们」+ 动词「学习」+ 宾语「中文」）\n- 他们喝中国茶。（主语「他们」+ 动词「喝」+ 宾语「中国茶」）\n- 老师爱学生。（主语「老师」+ 动词「爱」+ 宾语「学生」）\n无论句中主语是单数还是复数，谓语动词在形态上永远保持恒定不变，绝不发生任何形态屈折变位。\n\n二、现代汉语人称代词完整体系：\n1. 单数人称代词体系：\n- 第一人称单数：我（指称说话人自身）\n- 第二人称单数（平称）：你（用于平辈同侪、普通朋友、同龄初识者）\n- 第二人称单数（敬称）：您（专用于师长学者、尊长领导、长辈亲友或贵客，字形从心，表由衷尊崇）\n- 第三人称单数（男性或泛指）：他\n- 第三人称单数（女性）：她\n- 第三人称单数（事物或非人生物）：它\n语音重点提示：在标准普通话口语中，「他」、「她」、「它」的语音完全相同，均读第一声阴平 tā；在书面语篇中则通过不同的汉字偏旁部首予以精密区分。\n\n2. 复数人称代词体系（单数代词附加轻声后缀「们」）：\n- 我们（第一人称复数，代表说话方全体）\n- 你们（第二人称复数，代表听话方全体）\n- 他们（第三人称复数，代表第三方全体男性或男女混合群体）\n- 她们（第三人称复数，代表第三方全体女性群体）\n- 它们（第三人称复数，代表第三方多个非人生物或无生命事物）\n\n三、复数后缀「们」的重要语法限制规则：\n指人名词后亦可附加「们」以表复数群体（例如「老师们」、「学生们」、「朋友们」、「工人们」）。然而必须特别注意：当指人名词前已经出现具体数量词修饰限定时，名词后绝对严禁重复附加「们」（例如标准表达为「三个学生」、「五位老师」；若说成「*三个学生们*」或「*五位老师们*」则属于严重语法杂糅病句）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的核心语法法则与应用范例 (2.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)' in simple terms to students at the academic seminar."
+          "target": "我们每天都认真学习汉语。(Wǒmen měitiān dōu rènzhēn xuéxí Hànyǔ.)",
+          "reading": "[wɔ˨˩.mən meɪ̯˨˩.tʰjɛn˥ toʊ̯˥ ʐən˥˩.ʈ͡ʂən˥ ɕɥɛ˧˥.ɕi˧˥ xan˥˩.y˨˩˦] (Wǒ-men měi-tiān dōu rèn-zhēn xué-xí Hàn-yǔ.)",
+          "translation": "We study Chinese earnestly every day."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (2.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "他们喜欢喝中国绿茶。(Tāmen xǐhuan hē Zhōngguó lǜchá.)",
+          "reading": "[tʰa˥.mən ɕi˨˩.xwan xɤ˥ ʈ͡ʂʊŋ˥.kwɔ˧˥ ly˥˩.ʈ͡ʂʰa˧˥] (Tā-men xǐ-huan hē Zhōng-guó lǜ-chá.)",
+          "translation": "They like to drink Chinese green tea."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (2.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "老师爱每一个学生。(Lǎoshī ài měi yí gè xuésheng.)",
+          "reading": "[laʊ˨˩.ʂɨ˥ aɪ̯˥˩ meɪ̯˨˩ i˧˥ kɤ˥˩ ɕɥɛ˧˥.ʂəŋ] (Lǎo-shī ài měi yí gè xué-sheng.)",
+          "translation": "The teacher loves every single student."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (2.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我认识你们的汉语老师。(Wǒ rènshi nǐmen de Hànyǔ lǎoshī.)",
+          "reading": "[wɔ˨˩ ʐən˥˩.ʂɨ ni˨˩.mən tɤ xan˥˩.y˨˩˦ laʊ˨˩.ʂɨ˥] (Wǒ rèn-shi nǐ-men de Hàn-yǔ lǎo-shī.)",
+          "translation": "I know your Chinese teacher."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "主语在前动词中，宾语殿后主谓宾；我你他后加个「们」，复数轻声记在心！"
+      ],
+      "culturalNotes": [
+        "在古代文言文中，第三人称泛用「他」或「之/其」。五四运动时期，著名学者刘半农先生创造了女字旁的「她」字，专门用于指代女性，极大地促进了现代汉语白话文的精确化与性别平等表达。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」（第1讲）的标准汉语规范？",
+          "prompt": "按照现代汉语标准的主谓宾（SVO）语序，表达「他们学习汉语」的正确语序是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的核心语法法则与应用范例 (2.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (2.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (2.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (2.1.w3)"
+            "他们（主语） + 学习（谓语动词） + 汉语（宾语） (Subject + Verb + Object: Tāmen xuéxí Hànyǔ)",
+            "他们（主语） + 汉语（宾语） + 学习（谓语动词）",
+            "学习（谓语动词） + 他们（主语） + 汉语（宾语）",
+            "汉语（宾语） + 学习（谓语动词） + 他们（主语）"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "现代汉语陈述句的基本语序为主谓宾（SVO），主语置于句首，动词位于中间，宾语紧随动词之后。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "关于复数后缀「们」的语法使用限制，下列哪一项完全正确？",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "当名词前面已有具体数量词修饰时，名词后不能再加「们」（如只能说「五个学生」，不能说「五个学生们」）。 (No -men suffix after specific numeral classifiers)",
+            "任何名词后面都必须强制加上「们」表示复数。",
+            "「们」字在任何语境下都必须读第一声高平调。",
+            "单数代词「我」后面不能加「们」。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "在汉语语法中，数量词短语（如「五个」）本身已经明确表示复数，名词后不可再叠加复数后缀「们」，否则构成语义赘余。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的正式语境下，最准确得体的表达是哪一项？（第2.1题）",
+          "prompt": "在书面语中专门指代女性第三人称单数的汉字是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (2.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (2.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (2.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (2.1.x3)"
+            "她 (女字旁指代女性第三人称) (She / Her: tā)",
+            "他 (人字旁男性或通用第三人称)",
+            "它 (宝盖头事物或动物第三人称)",
+            "你 (单人旁第二人称)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "汉字「她」带有女字旁，在现代汉语书面语中专用于指代女性第三人称单数。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u2-l1）所要求的高阶语言表达？",
+          "prompt": "请选出下列句子中代词与动词搭配完全正确且符合标准主谓宾语序的句子：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (2.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (2.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (2.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (2.1.y3)"
+            "我们喜欢学习中文。(Wǒmen xǐhuan xuéxí Zhōngwén.) (We like studying Chinese)",
+            "我们中文喜欢学习。",
+            "喜欢中文学习我们。",
+            "学习喜欢我们中文。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「我们（主语）+ 喜欢学习（谓语动词短语）+ 中文（宾语）」完全符合汉语规范的 SVO 句式结构。"
         }
       ]
     },
@@ -1157,25 +1161,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的掌握程度，请选出表述完全正确的标准范句（测试 2-1）：",
+          "prompt": "请选出下列人称代词中属于「第二人称复数」的标准词语：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (2.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (2.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (2.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (2.1.z3)"
+            "你们 (nǐmen) (You plural)",
+            "我们 (wǒmen)",
+            "他们 (tāmen)",
+            "她们 (tāmen)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「你们」是第二人称单数「你」加上复数后缀「们」构成的第二人称复数代词。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u2-l1）的核心关键词（例如「基本句型」）：",
+          "prompt": "请输入表示「我们」的第一人称单数核心汉字（拼音为 wǒ）：",
           "acceptedAnswers": [
-            "基本句型",
-            "基本句型、人",
-            "基本句型、人称代词与是字句"
+            "我"
           ],
-          "explanation": "正确的核心关键词为「基本句型」。"
+          "explanation": "汉字「我」是现代汉语中最基础的第一人称单数代词。"
         }
       ],
       "passThreshold": 0.8
@@ -1186,85 +1188,89 @@
     "subject": "mandarin",
     "unit": 2,
     "lessonNumber": 2,
-    "title": "基本句型、人称代词与是字句 (Basic SVO & 是-Sentences) (第2讲)",
+    "title": "核心判断动词「是」字句及其句式结构 (The Copula '是' in Judgment Sentences)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：汉语人称代词（我/你/他/她/我们）、是字句判断结构、名词谓语句及否定副词「不」。 (第2部分)。",
+    "objective": "掌握核心判断动词「是」的句法功能，熟练构造「A 是 B」等同与分类从属句式，并掌握指示代词「这/那」的判断表达。",
     "presentation": {
-      "explanation": "",
+      "explanation": "动词「是」是现代汉语中最核心、使用频率最高的判断系动词，主要用于连接主语与表语名词性成分，表达逻辑判断、身份确认、分类归属或属性认定等基本关系。\n\n一、「是」字句的核心句法模型：\n基本骨架结构为：主语 + 是 + 宾语（A 是 B，表示「A 等同于 B」或「A 从属于 B 类」）。\n1. 身份等同判断：\n- 我是李华。（主语「我」与宾语「李华」属于同一个人）\n- 他是张教授。（指明其特定学术身份）\n2. 职业身份与社会属性从属判断：\n- 他是大学老师。（表示属于教师职业范畴）\n- 她是儿科医生。（表示属于医疗专业群体）\n- 我们是留学生。（表示具有留学生社会身份）\n3. 事物属性与类别归属判定：\n- 这是汉语词典。（表明该物品属于中文辞书类别）\n- 那是智能手机。（远距离指认物品属性）\n- 北京是中国的首都。（确认国家政治与文化中心地位）\n\n二、指示代词「这」与「那」的判断句型应用：\n1. 近指代词「这」：指称空间位置、时间维度或心理距离上靠近说话人的人或事物。\n- 这是我的个人电脑。（近距离指认自身物品）\n2. 远指代词「那」：指称空间位置、时间维度或心理距离上远离说话人的人或事物。\n- 那是我们大学的图书馆。（远距离指认建筑设施）\n\n三、初学者至关重要的避坑法则——形容词谓语前绝不可滥加「是」：\n在英语等印欧语言中，形容词作表语必须借助系动词支撑。然而在汉语语法体系中，形容词本身具有充当谓语的核心语法功能，**绝对不能**在形容词前添加判断词「是」：\n- 典型中介语病句：*我是高* / *苹果是红* / *今天天气是好*\n- 规范地道表达：我很高。 / 苹果很红。 / 今天天气很好。\n语法铁律：判断动词「是」后接名词性成分；形容词作谓语独立成句，前置程度副词「很」，切莫滥用「是」字！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的核心语法法则与应用范例 (2.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)' in simple terms to students at the academic seminar."
+          "target": "我是大学老师，他是我的学生。(Wǒ shì dàxué lǎoshī, tā shì wǒ de xuésheng.)",
+          "reading": "[wɔ˨˩ ʂɨ˥˩ ta˥˩.ɕɥɛ˧˥ laʊ˨˩.ʂɨ˥, tʰa˥ ʂɨ˥˩ wɔ˨˩ tɤ ɕɥɛ˧˥.ʂəŋ] (Wǒ shì dà-xué lǎo-shī, tā shì wǒ de xué-sheng.)",
+          "translation": "I am a university teacher, and he is my student."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (2.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "这是今天新买的汉语词典。(Zhè shì jīntiān xīn mǎi de Hànyǔ cídiǎn.)",
+          "reading": "[ʈ͡ʂɤ˥˩ ʂɨ˥˩ t͡ɕin˥.tʰjɛn˥ ɕin˥ maɪ̯˨˩˦ tɤ xan˥˩.y˨˩˦ t͡sʰɨ˧˥.tjɛn˨˩˦] (Zhè shì jīn-tiān xīn mǎi de Hàn-yǔ cí-diǎn.)",
+          "translation": "This is the Chinese dictionary newly bought today."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (2.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "那是我们学校的图书馆。(Nà shì wǒmen xuéxiào de túshūguǎn.)",
+          "reading": "[na˥˩ ʂɨ˥˩ wɔ˨˩.mən ɕɥɛ˧˥.ɕjaʊ̯˥˩ tɤ tʰu˧˥.ʂu˥.kwan˨˩˦] (Nà shì wǒ-men xué-xiào de tú-shū-guǎn.)",
+          "translation": "That is our school's library."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (2.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "北京是历史悠久的文化名城。(Běijīng shì lìshǐ yōujiǔ de wénhuà míngchéng.)",
+          "reading": "[peɪ̯˨˩.t͡ɕiŋ˥ ʂɨ˥˩ li˥˩.ʂɨ˨˩˦ joʊ̯˥.t͡ɕjoʊ̯˨˩˦ tɤ wən˧˥.xwa˥˩ miŋ˧˥.ʈ͡ʂʰɤŋ˧˥] (Běi-jīng shì lì-shǐ yōu-jiǔ de wén-huà míng-chéng.)",
+          "translation": "Beijing is a renowned cultural city with a long history."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "A 是 B 是判断句，名词紧跟在后头；形容词前莫加「是」，「很高很好」才地道！"
+      ],
+      "culturalNotes": [
+        "在古代文言文中，判断句多采用「...者，...也」的语法结构（如「陈涉者，阳城人也」），而「是」字在先秦时期主要充当指示代词「此/这」。汉代以后，「是」字才逐渐演变确立为现代汉语的标准判断系动词。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」（第2讲）的标准汉语规范？",
+          "prompt": "在句子「王华是北京大学的学生」中，动词「是」所表达的核心语法功能是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的核心语法法则与应用范例 (2.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (2.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (2.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (2.2.w3)"
+            "判断主语的身份与从属归属分类关系 (Classifying / identifying subject as a student)",
+            "表示主语正在进行的具体动作行为",
+            "修饰形容词表示程度极高",
+            "连接两个动词表示先后顺序"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "动词「是」在句中充当判断动词，明确断定主语王华具有「北京大学学生」的社会身份与从属归属。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "下列句子中，哪一句存在把「是」字错误用于形容词谓语前的语法毛病？",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "我是很高。(Wǒ shì hěn gāo.) —— 误在形容词前添加「是」 (Incorrect copula before adjective)",
+            "我是汉语老师。(Wǒ shì Hànyǔ lǎoshī.)",
+            "这是我的书包。(Zhè shì wǒ de shūbāo.)",
+            "那是中国地图。(Nà shì Zhōngguó dìtú.)"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "汉语中形容词自身可直接作谓语（如「我很高」），在形容词谓语前滥加判断动词「是」属于典型受外语影响的病句。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的正式语境下，最准确得体的表达是哪一项？（第2.2题）",
+          "prompt": "当需要向朋友介绍近处指认的事物「这是我的手机」时，应选用的指示代词是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (2.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (2.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (2.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (2.2.x3)"
+            "这 (zhè - 近指代词) (This / Close proximity)",
+            "那 (nà - 远指代词)",
+            "哪 (nǎ - 疑问代词)",
+            "谁 (shéi - 疑问代词)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "指示代词「这」用于指代空间或时间上距离说话人较近的人或事物。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u2-l2）所要求的高阶语言表达？",
+          "prompt": "请选出下列句子中「是字句」结构与用词完全正确的一项：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (2.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (2.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (2.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (2.2.y3)"
+            "张明是我们班的班长。(Zhāng Míng shì wǒmen bān de bānzhǎng.) (Zhang Ming is our class monitor)",
+            "张明是班长我们班的。",
+            "我们班的张明班长是。",
+            "是张明班长我们班的。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「主语（张明）+ 是 + 宾语（我们班的班长）」语序严整规范，完全符合是字句标准模型。"
         }
       ]
     },
@@ -1272,25 +1278,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的掌握程度，请选出表述完全正确的标准范句（测试 2-2）：",
+          "prompt": "请选出下列句子中属于完全正确的现代汉语「是字判断句」的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (2.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (2.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (2.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (2.2.z3)"
+            "中国是一个历史悠久的伟大国家。(Zhōngguó shì yí gè lìshǐ yōujiǔ de wěidà guójiā.)",
+            "中国是很伟大国家。(缺少必要量词与结构)",
+            "中国是发展迅速很。(语序错乱)",
+            "中国美丽是很国家。(词序颠倒)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「中国（主语）+ 是 + 一个历史悠久的伟大国家（名词性宾语短语）」结构完整规范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u2-l2）的核心关键词（例如「基本句型」）：",
+          "prompt": "请输入汉语中最核心的单字判断系动词汉字（拼音为 shì）：",
           "acceptedAnswers": [
-            "基本句型",
-            "基本句型、人",
-            "基本句型、人称代词与是字句"
+            "是"
           ],
-          "explanation": "正确的核心关键词为「基本句型」。"
+          "explanation": "汉字「是」是现代汉语中最重要、最基础的判断系动词。"
         }
       ],
       "passThreshold": 0.8
@@ -1301,85 +1305,89 @@
     "subject": "mandarin",
     "unit": 2,
     "lessonNumber": 3,
-    "title": "基本句型、人称代词与是字句 (Basic SVO & 是-Sentences) (第3讲)",
+    "title": "否定副词「不」在是字句与动词句中的否定规则 (Negation with '不')",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：汉语人称代词（我/你/他/她/我们）、是字句判断结构、名词谓语句及否定副词「不」。 (第3部分)。",
+    "objective": "掌握否定副词「不」在是字句（A 不是 B）与一般动词谓语句中的位置规则、否定范围以及「不」字的变调规律。",
     "presentation": {
-      "explanation": "",
+      "explanation": "否定副词「不」是现代汉语中最核心、最通用的主观否定词与现在/将来时态否定标记，主要用于否定动作意愿、日常习惯、状态属性以及逻辑判断。\n\n一、「是字句」的否定模式——「不是」：\n基本句法结构为：主语 + 不是 + 宾语（A 不是 B，表示「A 不等同于 B」或「A 不属于 B 类别」）。\n1. 否定身份归属：\n- 我不是老师，我是学生。（否定教师身份，确认学生身份）\n- 他不是医生，他是软件工程师。（否定原有职业预设）\n2. 否定事物判定：\n- 这不是我的手机。（否定物品归属权）\n- 那不是汉语词典。（否定物品种类属性）\n\n二、一般动作动词谓语句的否定规则：\n在一般动词谓语句中，否定副词「不」必须紧密置于谓语动词之前，充当状语成分以修饰限定动词：\n- 主语 + 不 + 动词谓语 + 宾语\n- 我不喝浓咖啡，我喜欢喝绿茶。（表达日常饮食习惯的主观偏好）\n- 他今天不来学校上课。（否定即将发生的动作行为）\n- 我们不买昂贵的名牌衣服。（表达主观意愿层面的否定）\n\n三、否定副词「不」的语流变调规律精解：\n1. 在第四声音节（去声 51 调）前，「不」必须变调为第二声阳平「bú」：\n- 不是（拼写作 bú shì）\n- 不去（拼写作 bú qù）\n- 不要（拼写作 bú yào）\n- 不看（拼写作 bú kàn）\n- 不对（拼写作 bú duì）\n2. 在第一声、第二声、第三声音节前，「不」始终保持本调第四声去声「bù」：\n- 不吃（第一声前，读 bù chī）\n- 不来（第二声前，读 bù lái）\n- 不买（第三声前，读 bù mǎi）\n- 不好（第三声前，读 bù hǎo）",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的核心语法法则与应用范例 (2.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)' in simple terms to students at the academic seminar."
+          "target": "我不是大夫，我是这所学校的英语老师。(Wǒ bú shì dàifu, wǒ shì zhè suǒ xuéxiào de Yīngyǔ lǎoshī.)",
+          "reading": "[wɔ˨˩ pu˧˥ ʂɨ˥˩ taɪ̯˥˩.fu, wɔ˨˩ ʂɨ˥˩ ʈ͡ʂɤ˥˩ swɔ˨˩˦ ɕɥɛ˧˥.ɕjaʊ̯˥˩ tɤ iŋ˥.y˨˩˦ laʊ˨˩.ʂɨ˥] (Wǒ bú shì dài-fu, wǒ shì zhè suǒ xué-xiào de Yīng-yǔ lǎo-shī.)",
+          "translation": "I am not a doctor; I am this school's English teacher."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (2.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "这不是他的书包，那是王华的书包。(Zhè bú shì tā de shūbāo, nà shì Wáng Huá de shūbāo.)",
+          "reading": "[ʈ͡ʂɤ˥˩ pu˧˥ ʂɨ˥˩ tʰa˥ tɤ ʂu˥.paʊ̯˥, na˥˩ ʂɨ˥˩ wɑŋ˧˥ xwa˧˥ tɤ ʂu˥.paʊ̯˥] (Zhè bú shì tā de shū-bāo, nà shì Wáng Huá de shū-bāo.)",
+          "translation": "This is not his backpack; that is Wang Hua's backpack."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (2.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "我们平时不喝浓咖啡。(Wǒmen píngshí bù hē nóng kāfēi.)",
+          "reading": "[wɔ˨˩.mən pʰiŋ˧˥.ʂɨ˧˥ pu˥˩ xɤ˥ nʊŋ˧˥ kʰa˥.feɪ̯˥] (Wǒ-men píng-shí bù hē nóng kā-fēi.)",
+          "translation": "We usually do not drink strong coffee."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (2.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "他今天身体不舒服，不去公司上班。(Tā jīntiān shēntǐ bù shūfu, bú qù gōngsī shàngbān.)",
+          "reading": "[tʰa˥ t͡ɕin˥.tʰjɛn˥ ʂən˥.tʰi˨˩˦ pu˥˩ ʂu˥.fu, pu˧˥ t͡ɕʰy˥˩ kʊŋ˥.sɨ˥ ʂɑŋ˥˩.pan˥] (Tā jīn-tiān shēn-tǐ bù shū-fu, bú qù gōng-sī shàng-bān.)",
+          "translation": "He is not feeling well today and is not going to the company to work."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "动词前头加个「不」，否定句型立呈现；遇到四声读「bú shì」，遇到非四读「bù hē」！"
+      ],
+      "culturalNotes": [
+        "在现代汉语中，「不」主要负责主观意愿、经常性行为以及当前判断的否定；而对于过去已经发生的动作完成状态（如「没去」）或客观存在与领有（如「没有书」），则必须使用「没/没有」，二者分工明确。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」（第3讲）的标准汉语规范？",
+          "prompt": "在句子「他______是我的汉语老师」中，正确的否定表达与读音是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的核心语法法则与应用范例 (2.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (2.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (2.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (2.3.w3)"
+            "不是 (bú shì) ——「不」在第四声「是」前变读为第二声 (bú shì with tone sandhi)",
+            "不很 (bù hěn)",
+            "没有是 (méi yǒu shì)",
+            "没是不 (méi shì bù)"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "否定判断句使用「不是」，且因「是」为第四声，「不」字必须变调读作第二声「bú shì」。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "要表达「我不喝茶」时，否定词「不」在句子中的正确位置是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "置于主语「我」之后、动词「喝」之前充当状语 (Between subject and verb)",
+            "置于句子最末尾：我喝茶不。",
+            "置于宾语「茶」之前、动词之后：我喝不茶。",
+            "置于主语最前面：不我喝茶。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "在汉语语法中，否定副词「不」作为状语，必须紧跟在被否定的动词之前。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的正式语境下，最准确得体的表达是哪一项？（第2.3题）",
+          "prompt": "在短语「不去」和「不吃」中，否定词「不」的实际发音声调分别是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (2.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (2.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (2.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (2.3.x3)"
+            "「不去」读第二声 bú，「不吃」读第四声 bù (bú qù vs bù chī)",
+            "两处均读第二声 bú",
+            "两处均读第四声 bù",
+            "「不去」读第四声，「不吃」读第二声"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「去」是第四声，故「不」变读第二声 bú qù；「吃」是第一声，故「不」保持原调第四声 bù chī。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u2-l3）所要求的高阶语言表达？",
+          "prompt": "请选出下列句子中否定句表达完全规范地道的一项：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (2.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (2.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (2.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (2.3.y3)"
+            "这本书不是我的，是李华的。(Zhè běn shū bú shì wǒ de, shì Lǐ Huá de.) (This book is not mine, it is Li Hua's)",
+            "这本书是我的不，李华的是。",
+            "这本书没有是我的，是李华。",
+            "不这本书是我的，李华是书。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「主语 + 不是 + 宾语」结构规范严谨，后半句对比清晰自然。"
         }
       ]
     },
@@ -1387,25 +1395,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的掌握程度，请选出表述完全正确的标准范句（测试 2-3）：",
+          "prompt": "请选出下列句子中否定词使用与语序搭配完全正确的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (2.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (2.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (2.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (2.3.z3)"
+            "他们今天都不去图书馆看书。(Tāmen jīntiān dōu bú qù túshūguǎn kànshū.)",
+            "他们今天去不去不图书馆看书。",
+            "他们今天都不看书去图书馆是。",
+            "他们不今天都去图书馆看书。"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "范围副词「都」位于时间状语后，否定副词「不」紧贴谓语动词「去」，完全符合汉语语法标准规则。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u2-l3）的核心关键词（例如「基本句型」）：",
+          "prompt": "请输入汉语中最常用的单字主观否定副词汉字（拼音为 bù）：",
           "acceptedAnswers": [
-            "基本句型",
-            "基本句型、人",
-            "基本句型、人称代词与是字句"
+            "不"
           ],
-          "explanation": "正确的核心关键词为「基本句型」。"
+          "explanation": "汉字「不」是现代汉语中最基础的否定副词。"
         }
       ],
       "passThreshold": 0.8
@@ -1416,85 +1422,89 @@
     "subject": "mandarin",
     "unit": 2,
     "lessonNumber": 4,
-    "title": "基本句型、人称代词与是字句 (Basic SVO & 是-Sentences) (第4讲)",
+    "title": "是非疑问句助词「吗」与判断句问答交际闭环 (Yes-No Questions with '吗')",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：汉语人称代词（我/你/他/她/我们）、是字句判断结构、名词谓语句及否定副词「不」。 (第4部分)。",
+    "objective": "掌握句末疑问助词「吗」构造是非疑问句的规则，理解无需倒装语序的结构特点，熟练进行肯定与否定的问答闭环交流。",
     "presentation": {
-      "explanation": "",
+      "explanation": "现代汉语是非疑问句的句法构造极其明晰高效：只需在任何完整陈述句末尾直接附加上轻声疑问助词「吗」，整句句尾语调适度微扬，便能迅速转换为疑问句，**原句中所有词语顺序完全保持不变，绝无需任何倒装变动**。\n\n一、陈述句转换为是非疑问句的核心规则：\n1. 是字判断句的疑问化转换：\n- 陈述句：你是大学学生。（确认陈述）\n- 疑问句：你是大学学生吗？（句末加「吗」转换为是非提问）\n- 陈述句：这是你的个人电脑。（确认物品）\n- 疑问句：这是你的个人电脑吗？（求证物品归属）\n\n2. 一般动词谓语句的疑问化转换：\n- 陈述句：他喜欢喝中国茶。（陈述习惯）\n- 疑问句：他喜欢喝中国茶吗？（询问喜好）\n- 陈述句：你们明天一起去北京。（陈述计划）\n- 疑问句：你们明天一起去北京吗？（核实出行计划）\n\n二、是非疑问句的标准问答交际闭环模式：\n1. 肯定应答模式：\n- 简洁肯定：是。 / 是的。 / 对。 / 对的。\n- 完整肯定：是的，我是大学学生。 / 是的，这是我的电脑。\n- 动词复述肯定（最地道自然的日常口语）：去！ / 喝！ / 喜欢！\n\n2. 否定应答模式：\n- 简洁否定：不是。 / 不。 / 不对。\n- 完整否定：不，我不是学生，我是老师。 / 不是，那不是我的电脑。\n- 动词否定复述：不去！ / 不喝！ / 不喜欢！\n\n三、英汉疑问句构造机制对比：\n英语构造一般疑问句时必须使用助动词前置并颠倒主谓语序。而汉语严格保留主谓宾基本语序，仅通过句末附着助词「吗」实现语法功能转换，极具结构经济性与规则对称美。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的核心语法法则与应用范例 (2.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)' in simple terms to students at the academic seminar."
+          "target": "——请问，您是张教授吗？——是的，我就是张教授。(—Qǐngwèn, nín shì Zhāng jiàoshòu ma? —Shì de, wǒ jiù shì Zhāng jiàoshòu.)",
+          "reading": "[—t͡ɕʰiŋ˨˩.wən˥˩, nin˧˥ ʂɨ˥˩ ʈ͡ʂɑŋ˥ t͡ɕjaʊ̯˥˩.ʂoʊ̯˥˩ ma? —ʂɨ˥˩ tɤ, wɔ˨˩ t͡ɕjoʊ̯˥˩ ʂɨ˥˩ ʈ͡ʂɑŋ˥ t͡ɕjaʊ̯˥˩.ʂoʊ̯˥˩] (—Qǐng-wèn, nín shì Zhāng jiào-shòu ma? —Shì de, wǒ jiù shì Zhāng jiào-shòu.)",
+          "translation": "—Excuse me, are you Professor Zhang? —Yes, I am Professor Zhang."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (2.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "——那是你的新手机吗？——不是，那是李华的手机。(—Nà shì nǐ de xīn shǒujī ma? —Bú shì, nà shì Lǐ Huá de shǒujī.)",
+          "reading": "[—na˥˩ ʂɨ˥˩ ni˨˩˦ tɤ ɕin˥ ʂoʊ̯˨˩.t͡ɕi˥ ma? —pu˧˥ ʂɨ˥˩, na˥˩ ʂɨ˥˩ li˨˩˦ xwa˧˥ tɤ ʂoʊ̯˨˩.t͡ɕi˥] (—Nà shì nǐ de xīn shǒu-jī ma? —Bú shì, nà shì Lǐ Huá de shǒu-jī.)",
+          "translation": "—Is that your new mobile phone? —No, that is Li Hua's mobile phone."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (2.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "——你们明天上午去图书馆借书吗？——去，我们明天都去。(—Nǐmen míngtiān shàngwǔ qù túshūguǎn jiè shū ma? —Qù, wǒmen míngtiān dōu qù.)",
+          "reading": "[—ni˨˩.mən miŋ˧˥.tʰjɛn˥ ʂɑŋ˥˩.u˨˩˦ t͡ɕʰy˥˩ tʰu˧˥.ʂu˥.kwan˨˩˦ t͡ɕjɛ˥˩ ʂu˥ ma? —t͡ɕʰy˥˩, wɔ˨˩.mən miŋ˧˥.tʰjɛn˥ toʊ̯˥ t͡ɕʰy˥˩] (—Nǐ-men míng-tiān shàng-wǔ qù tú-shū-guǎn jiè shū ma? —Qù, wǒ-men míng-tiān dōu qù.)",
+          "translation": "—Are you going to the library to borrow books tomorrow morning? —Yes, we are all going tomorrow."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (2.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "——李老师喜欢喝乌龙茶吗？——他非常喜欢喝。(—Lǐ lǎoshī xǐhuan hē wūlóngchá ma? —Tā fēicháng xǐhuan hē.)",
+          "reading": "[—li˨˩˦ laʊ˨˩.ʂɨ˥ ɕi˨˩.xwan xɤ˥ u˥.lʊŋ˧˥.ʈ͡ʂʰa˧˥ ma? —tʰa˥ feɪ̯˥.ʈ͡ʂʰɑŋ˧˥ ɕi˨˩.xwan xɤ˥] (—Lǐ lǎo-shī xǐ-huan hē wū-lóng-chá ma? —Tā fēi-cháng xǐ-huan hē.)",
+          "translation": "—Does Teacher Li like drinking oolong tea? —He likes drinking it very much."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "陈述句尾加个「吗」，语序不变成问话；肯定回答答声「是」，否定回答说「不是」！"
+      ],
+      "culturalNotes": [
+        "中文在口语应答中，直接复述问句中的核心谓语动词（如问「吃吗？」，答「吃！」或「不吃！」）比单纯说「是的」更显得自然、干脆且符合中国本土日常言语习惯。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」（第4讲）的标准汉语规范？",
+          "prompt": "将陈述句「他是中国留学生」转换为是非疑问句时，最正确简明的方法是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的核心语法法则与应用范例 (2.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (2.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (2.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (2.4.w3)"
+            "在句末直接加上轻声疑问助词「吗」：他是中国留学生吗？ (Add question particle ma to the end without changing word order)",
+            "将动词「是」调换到句首：是他中国留学生？",
+            "在句首加上疑问词「什么」：什么是中国留学生？",
+            "将主语与宾语完全颠倒位置：中国留学生是他吗？"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "汉语是非疑问句只需在陈述句末尾加上疑问助词「吗」，句内所有词语顺序完全保持不变。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "面对提问「这是你的汉语字典吗？」，如果不是自己的，最标准的礼貌应答是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "不是，这不是我的字典，这是王老师的。(No, this is not my dictionary, it is Teacher Wang's)",
+            "对不起，谢谢你。",
+            "我很好，你呢？",
+            "不客气，请进吧。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "否定回答先用「不是」表明态度，再陈述客观事实「这不是我的字典」，逻辑完整连贯。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的正式语境下，最准确得体的表达是哪一项？（第2.4题）",
+          "prompt": "下列哪一个句子的句式结构属于标准的是非疑问句？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (2.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (2.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (2.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (2.4.x3)"
+            "你们明天去不去学校？ / 你们明天去学校吗？ (Are you going to school tomorrow?)",
+            "谁明天去学校？ (特指疑问句)",
+            "你什么时候去学校？ (特指疑问句)",
+            "你去哪个学校？ (特指疑问句)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "句末带有疑问助词「吗」的句子属于标准是非疑问句，回答时只需作出肯定或否定选择。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u2-l4）所要求的高阶语言表达？",
+          "prompt": "请选出下列问答对话中逻辑完全闭合且语用恰当的一项：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (2.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (2.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (2.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (2.4.y3)"
+            "甲：请问，您是新来的王经理吗？ 乙：是的，我就是王经理，很高兴认识你！",
+            "甲：那是你的手机吗？ 乙：不用谢，我是学生。",
+            "甲：你喝茶吗？ 乙：对不起，没关系。",
+            "甲：你是学生吗？ 乙：再见，明天见！"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "提问身份确认，回答用「是的」明确肯定并表达礼貌致意，问答完全契合。"
         }
       ]
     },
@@ -1502,25 +1512,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的掌握程度，请选出表述完全正确的标准范句（测试 2-4）：",
+          "prompt": "请选出下列句子中「吗」字疑问句使用完全正确无瑕疵的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (2.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (2.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (2.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (2.4.z3)"
+            "王教授今天下午在办公室开会吗？(Is Professor Wang holding a meeting in the office this afternoon?)",
+            "王教授今天下午是谁在办公室开会吗？(疑问词与「吗」不可混用)",
+            "王教授今天下午什么开会吗？(疑问代词与「吗」杂糅)",
+            "王教授是在吗办公室开会？(「吗」位置错乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "是非疑问句助词「吗」必须位于完整陈述句的最末尾，且句中不能再出现其他疑问代词（如谁、什么）。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u2-l4）的核心关键词（例如「基本句型」）：",
+          "prompt": "请输入用于构成是非疑问句的句末轻声疑问助词汉字（拼音为 ma）：",
           "acceptedAnswers": [
-            "基本句型",
-            "基本句型、人",
-            "基本句型、人称代词与是字句"
+            "吗"
           ],
-          "explanation": "正确的核心关键词为「基本句型」。"
+          "explanation": "汉字「吗」是汉语中最常用的是非疑问助词，置于句末表达提问。"
         }
       ],
       "passThreshold": 0.8
@@ -1531,85 +1539,89 @@
     "subject": "mandarin",
     "unit": 2,
     "lessonNumber": 5,
-    "title": "基本句型、人称代词与是字句 (Basic SVO & 是-Sentences) (第5讲)",
+    "title": "国籍、身份与职业表达：人称 + 是 + 某国人/某种职业 (Expressing Nationality, Identity & Profession)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：汉语人称代词（我/你/他/她/我们）、是字句判断结构、名词谓语句及否定副词「不」。 (第5部分)。",
+    "objective": "熟练掌握「国家名称 + 人」的国籍表达规则，掌握高频职业与社会身份词汇，并能运用「是字句」进行流畅的自我介绍与跨文化个人背景交流。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在国际交流与跨文化日常交往中，准确表达国籍、籍贯与职业身份是最基础且最高频的核心交际场景。\n\n一、国籍词汇的高效构词法则：\n汉语表达国籍具有极强的逻辑规律性，一律采用「国家名称 + 人」的构词模式，无需任何复杂的派生词形变化：\n1. 中国 -> 中国人（中国公民/华裔人士）\n2. 美国 -> 美国人（美利坚合众国公民）\n3. 英国 -> 英国人（大不列颠及北爱尔兰联合王国公民）\n4. 法国 -> 法国人（法兰西共和国公民）\n5. 德国 -> 德国人（德意志联邦共和国公民）\n6. 日本 -> 日本人（日本国公民）\n7. 加拿大 -> 加拿大人（加拿大公民）\n8. 澳大利亚 -> 澳大利亚人（澳大利亚联邦公民）\n9. 俄罗斯 -> 俄罗斯人（俄罗斯联邦公民）\n\n二、高频职业与社会身份核心词汇：\n1. 教育与学术：老师、学生、教授、留学生、学者\n2. 医疗与卫生：医生、大夫、护士、药剂师\n3. 工程与技术：工程师、建筑师、程序员、科学家\n4. 法律与商业：律师、法官、经理、商人、翻译家\n\n三、国籍与职业询问及应答核心句型：\n1. 询问国籍与身份：\n- 问：请问，您是哪国人？（询问对方所属国家）\n- 答：我是法国人。你也是法国人吗？（明确回答并回问）\n- 答：不，我不是法国人，我是加拿大人。（否定后补充事实）\n\n2. 询问职业与自我介绍闭环：\n- 问：您做什么工作？ / 您的职业是什么？\n- 答：我是软件工程师，在一家科技公司工作。\n- 综合自我介绍示范：大家好！我是大卫，我是美国人。我是北京语言大学的留学生，我在中国学习汉语言文学。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的核心语法法则与应用范例 (2.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)' in simple terms to students at the academic seminar."
+          "target": "——请问，您是哪国人？——我是加拿大人。(—Qǐngwèn, nín shì nǎ guó rén? —Wǒ shì Jiānádàrén.)",
+          "reading": "[—t͡ɕʰiŋ˨˩.wən˥˩, nin˧˥ ʂɨ˥˩ na˧˥ kwɔ˧˥ ʐən˧˥? —wɔ˨˩ ʂɨ˥˩ t͡ɕja˥.na˧˥.ta˥˩.ʐən˧˥] (—Qǐng-wèn, nín shì nǎ guó rén? —Wǒ shì Jiā-ná-dà-rén.)",
+          "translation": "—Excuse me, which country are you from? —I am Canadian."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (2.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "玛丽是法国留学生，她的爸爸是著名的建筑工程师。(Mǎlì shì Fǎguó liúxuéshēng, tā de bàba shì zhùmíng de jiànzhù gōngchéngshī.)",
+          "reading": "[ma˨˩.li˥˩ ʂɨ˥˩ fa˨˩.kwɔ˧˥ ljoʊ̯˧˥.ɕɥɛ˧˥.ʂəŋ, tʰa˥ tɤ ˈpa˥˩.pa ʂɨ˥˩ ʈ͡ʂu˥˩.miŋ˧˥ tɤ t͡ɕjɛn˥˩.ʈ͡ʂu˥˩ kʊŋ˥.ʈ͡ʂʰɤŋ˧˥.ʂɨ˥] (Mǎ-lì shì Fǎ-guó liú-xué-shēng, tā de bà-ba shì zhù-míng de jiàn-zhù gōng-chéng-shī.)",
+          "translation": "Mary is a French international student, and her father is a renowned architectural engineer."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (2.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "王先生是经验丰富的律师，李女士是儿科医生。(Wáng xiānsheng shì jīngyàn fēngfù de lǜshī, Lǐ nǚshì shì érkē yīshēng.)",
+          "reading": "[wɑŋ˧˥ ɕjɛn˥.ʂəŋ ʂɨ˥˩ t͡ɕiŋ˥.jɛn˥˩ fɤŋ˥.fu˥˩ tɤ ly˥˩.ʂɨ˥, li˨˩˦ ny˨˩.ʂɨ˥˩ ʂɨ˥˩ aɻ˧˥.kʰɤ˥ i˥.ʂəŋ] (Wáng xiān-sheng shì jīng-yàn fēng-fù de lǜ-shī, Lǐ nǚ-shì shì ér-kē yī-shēng.)",
+          "translation": "Mr. Wang is an experienced lawyer, and Ms. Li is a pediatrician."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (2.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我们都是英国人，我们都在北京学习中国文化。(Wǒmen dōu shì Yīngguórén, wǒmen dōu zài Běijīng xuéxí Zhōngguó wénhuà.)",
+          "reading": "[wɔ˨˩.mən toʊ̯˥ ʂɨ˥˩ iŋ˥.kwɔ˧˥.ʐən˧˥, wɔ˨˩.mən toʊ̯˥ t͡saɪ̯˥˩ peɪ̯˨˩.t͡ɕiŋ˥ ɕɥɛ˧˥.ɕi˧˥ ʈ͡ʂʊŋ˥.kwɔ˧˥ wən˧˥.xwa˥˩] (Wǒ-men dōu shì Yīng-guó-rén, wǒ-men dōu zài Běi-jīng xué-xí Zhōng-guó wén-huà.)",
+          "translation": "We are all British, and we all study Chinese culture in Beijing."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "国名后头加个「人」，国籍表达最分明；我是学生你是医，是字句里话职业！"
+      ],
+      "culturalNotes": [
+        "在中国传统社交礼仪中，向初次相识者询问身份通常遵循「由大到小」的顺序：先问国籍或祖籍城市（如「您是哪里人？」），再了解工作单位与专业职务，体现了中国文化注重整体背景与集体归属的认知传统。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」（第5讲）的标准汉语规范？",
+          "prompt": "要表达「大卫是美国人」这一国籍判断，最准确规范的中文表达是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的核心语法法则与应用范例 (2.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (2.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (2.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (2.5.w3)"
+            "大卫是美国人。(Dàwèi shì Měiguórén.) (David is American: Country name + rén)",
+            "大卫是美国。(David is America - 误把国名当国籍)",
+            "大卫美国人是。(语序错乱)",
+            "是美国人大卫。(语序颠倒)"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "表达国籍必须在国家名称「美国」后加上「人」构成「美国人」，并使用「主语 + 是 + 宾语」语序。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在向外国友人礼貌询问国籍时，最标准得体的疑问句是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "请问，您是哪国人？(Qǐngwèn, nín shì nǎ guó rén?) (Excuse me, which country are you from?)",
+            "请问，您是什么国？",
+            "请问，谁是哪国人？",
+            "请问，哪国人是您？"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「请问，您是哪国人？」是中文中询问对方国籍的最经典、最地道的标准社交句式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的正式语境下，最准确得体的表达是哪一项？（第2.5题）",
+          "prompt": "在医院里为病人诊断治疗的职业人士在中文中称为：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (2.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (2.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (2.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (2.5.x3)"
+            "医生 / 大夫 (yīshēng / dàifu) (Doctor / Physician)",
+            "律师 (lǜshī - 法律工作者)",
+            "工程师 (gōngchéngshī - 工程技术人员)",
+            "经理 (jīnglǐ - 管理人员)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「医生」或口语中的「大夫」是专指在医院救治病患的医疗专业职业。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u2-l5）所要求的高阶语言表达？",
+          "prompt": "请选出下列自我介绍句子中表达完全正确、用词地道的一项：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (2.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (2.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (2.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (2.5.y3)"
+            "我是英国留学生，我学习汉语。(Wǒ shì Yīngguó liúxuéshēng, wǒ xuéxí Hànyǔ.)",
+            "我是英国学习留生，汉语学我。",
+            "英国留学生我是，学习我汉语。",
+            "我是留学生英国，汉语我学习。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「我是英国留学生（国籍修饰身份），我学习汉语（主谓宾清晰）」句式地道流畅。"
         }
       ]
     },
@@ -1617,25 +1629,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的掌握程度，请选出表述完全正确的标准范句（测试 2-5）：",
+          "prompt": "选出下列对话中关于国籍与职业的问答完全规范的一组：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (2.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (2.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (2.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (2.5.z3)"
+            "甲：请问，王老师是哪国人？ 乙：王老师是中国人，他是我们大学的教授。",
+            "甲：请问，王老师是哪国人？ 乙：王老师是美国，他是很教授。",
+            "甲：王老师做什么工作？ 乙：王老师是法国人，他不是中国人工作。",
+            "甲：王老师是教授吗？ 乙：不客气，我是王老师。"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "甲问国籍，乙准确回答「中国人」并补充说明其「大学教授」的职业身份，逻辑自然严谨。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u2-l5）的核心关键词（例如「基本句型」）：",
+          "prompt": "请输入表示「人类/某国人」的核心单字汉字（拼音为 rén）：",
           "acceptedAnswers": [
-            "基本句型",
-            "基本句型、人",
-            "基本句型、人称代词与是字句"
+            "人"
           ],
-          "explanation": "正确的核心关键词为「基本句型」。"
+          "explanation": "汉字「人」置于国家名称之后（如「中国人」、「美国人」）用于表示该国国籍人士。"
         }
       ],
       "passThreshold": 0.8
