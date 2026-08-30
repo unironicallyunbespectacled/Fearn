@@ -12791,85 +12791,89 @@
     "subject": "mandarin",
     "unit": 22,
     "lessonNumber": 1,
-    "title": "书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu) (第1讲)",
+    "title": "口语与书面语体的词汇语法层面对偶转换系统 (Spoken vs. Formal Written Register Lexical & Syntactic Mapping)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：四字熟语（成语）、典故引申、书面双音节词汇转换与文雅辞令修辞。 (第1部分)。",
+    "objective": "系统掌握现代汉语口语体与书面语体（政务、学术、公文公函）在虚词、动词及句法结构上的精密对偶映射体系，熟练运用「鉴于、旨在、予以、赋予、自...起、至」等高阶书面典雅词汇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "现代汉语书面语体（正式语体）深受文言典雅传统浸润，在音节匀称性、词汇精炼度与庄重感上与口语存在清晰的系统映射：\n\n一、口语与书面语高频核心词汇语法映射全览：\n1. 介词与虚词转换：\n- 口语「因为」 -> 书面【鉴于 (jiànyú) / 缘于 / 归因于 / 盖因】（例：**鉴于**当前严峻形势......）\n- 口语「为了 / 想要」 -> 书面【旨在 (zhǐzài) / 意在 / 拟 (nǐ) / 将】（例：本次峰会**旨在**深化国际学术合作......）\n- 口语「给」 -> 书面【予以 (yǔyǐ) / 赋予 (fùyǔ) / 寄予 / 致以】（例：对该成果**予以**高度评价；时代**赋予**我们重任......）\n- 口语「用 / 拿」 -> 书面【以 / 依托 / 凭借 / 借助】（例：**以**严谨求实之态度......）\n- 口语「从......到......」 -> 书面【自 (zì)......至 (zhì)...... / 自......起】（例：会议**自**即日**起至**本周五闭幕......）\n- 口语「关于」 -> 书面【有关 / 涉及 / 关乎】（例：**关乎**国家长远发展之大计......）\n\n二、书面语体的句法组织特征：\n1. 音节双音节化与四字化：口语单音动词在书面语中通常扩展为规整的双音节或四字成语（如：看 -> 审视/检视/观摩；做 -> 践行/推行/落实）。\n2. 去口语冗余：坚决去除口语中的语气助词（吧、呀、嘛、呢）、轻声儿化及松散停顿，使语句结构严密、铿锵有力。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的核心语法法则与应用范例 (22.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)' in simple terms to students at the academic seminar."
+          "target": "鉴于当前国际局势的深刻演变，有关部门拟于下周召开专题峰会，旨在全面审视前沿技术风险。(Jiànyú dāngqián guójì júshì de shēnkè yǎnbiàn, yǒuguān bùmén nǐ yú xià zhōu zhàokāi zhuāntí fēnghuì, zhǐzài quánmiàn shěnshì qiányán jìshù fēngxiǎn.)",
+          "reading": "[t͡ɕjɛn˥˩.y˥˩ tɑŋ˥.t͡ɕʰjɛn˧˥ kwo˧˥.t͡ɕi˥˩ t͡ɕy˧˥.ʂɨ˥˩ tɤ ʂən˥.kʰɤ˥˩ jan˨˩.pjɛn˥˩, joʊ̯˨˩˦.kwan˥ pu˥˩.mən˧˥ ni˨˩˦ y˧˥ ɕja˥˩ ʈ͡ʂoʊ̯˥ ʈ͡ʂaʊ̯˥.kʰaɪ̯˥ ʈ͡ʂwan˥.tʰi˧˥ fəŋ˥.xweɪ̯˥˩, ʈ͡ʂɨ˨˩˦.t͡saɪ̯˥˩ t͡ɕʰyɛn˧˥.mjɛn˥˩ ʂən˨˩.ʂɨ˥˩ t͡ɕʰjɛn˧˥.jan˧˥ t͡ɕi˥˩.ʂu˥˩ fəŋ˥.ɕjɛn˨˩˦] (Jiàn-yú dāng-qián guó-jì jú-shì de shēn-kè yǎn-biàn, yǒu-guān bù-mén nǐ yú xià zhōu zhào-kāi zhuān-tí fēng-huì, zhǐ-zài quán-miàn shěn-shì qián-yán jì-shù fēng-xiǎn.)",
+          "translation": "In view of the profound evolution of the current international situation, relevant departments intend to convene a special summit next week, aiming to comprehensively examine frontier technology risks."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (22.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "本次跨学科高峰论坛由中国科学院主办，自开幕之日起便吸引了海内外数千位顶尖学者的热切关注。(Běncì kuà-xuékē gāofēng lùntán yóu Zhōngguó Kēxuéyuàn zhǔbàn, zì kāimù zhī rì qǐ biàn xīyǐn le hǎinèiwài shùqiān wèi dǐngjiān xuézhě de rèqiè guānzhù.)",
+          "reading": "[pən˨˩.t͡sʰɨ˥˩ kʰwa˥˩.ɕɥɛ˧˥.kʰɤ˥ kaʊ̯˥.fəŋ˥ lwen˥˩.tʰan˧˥ joʊ̯˧˥ ʈ͡ʂʊŋ˥.kwɔ˧˥ kʰɤ˥.ɕɥɛ˧˥.jɥɛn˥˩ ʈ͡ʂu˨˩.pan˥˩, t͡sɨ˥˩ kʰaɪ̯˥.mu˥˩ ʈ͡ʂɨ˥ ʐɨ˥˩ t͡ɕʰi˨˩˦ pjɛn˥˩ ɕi˥.in˨˩˦ lɤ xaɪ̯˨˩.neɪ̯˥˩.waɪ̯˥˩ ʂu˥˩.t͡ɕʰjɛn˥ weɪ̯˥˩ tiŋ˨˩.t͡ɕjɛn˥ ɕɥɛ˧˥.ʈ͡ʂɤ˨˩˦ tɤ ʐɤ˥˩.t͡ɕʰjɛ˥˩ kwan˥.ʈ͡ʂu˥˩] (Běn-cì kuà-xué-kē gāo-fēng lùn-tán yóu Zhōng-guó Kē-xué-yuàn zhǔ-bàn, zì kāi-mù zhī rì qǐ biàn xī-yǐn le hǎi-nèi-wài shù-qiān wèi dǐng-jiān xué-zhě de rè-qiè guān-zhù.)",
+          "translation": "This interdisciplinary summit forum is hosted by the Chinese Academy of Sciences; since the day of its opening, it has attracted the ardent attention of thousands of top scholars at home and abroad."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (22.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "评审委员会对该项原创科研成果予以高度评价，并赋予青年研发团队进一步拓展项目的充分自主权。(Píngshěn wěiyuánhuì duì gāi xiàng yuánchuàng kēyán chéngguǒ yǔyǐ gāodù píngjià, bìng fùyǔ qīngnián yánfā tuánduì jìnyíbù tuòzhǎn xiàngmù de chōngfèn zìzhǔquán.)",
+          "reading": "[pʰiŋ˧˥.ʂən˨˩˦ weɪ̯˨˩.jɥɛn˧˥.xweɪ̯˥˩ tweɪ̯˥˩ kaɪ̯˥ ɕjaŋ˥˩ jɥan˧˥.t͡ʂʰwaŋ˥˩ kʰɤ˥.jan˧˥ ʈ͡ʂʰəŋ˧˥.kwo˨˩˦ y˨˩˦.i˨˩˦ kaʊ̯˥.tu˥˩ pʰiŋ˧˥.t͡ɕja˥˩, piŋ˥˩ fu˥˩.y˨˩˦ t͡ɕʰiŋ˥.njɛn˧˥ jan˧˥.fa˥ tʰwan˧˥.tweɪ̯˥˩ t͡ɕin˥˩.i˥.pu˥˩ tʰwɔ˥˩.ʈ͡ʂan˨˩˦ ɕjaŋ˥˩.mu˥˩ tɤ ʈ͡ʂʰʊŋ˥.fən˥˩ t͡sɨ˥˩.ʈ͡ʂu˨˩˦.t͡ɕʰyɛn˧˥] (Píng-shěn wěi-yuán-huì duì gāi xiàng yuán-chuàng kē-yán chéng-guǒ yǔ-yǐ gāo-dù píng-jià, bìng fù-yǔ qīng-nián yán-fā tuán-duì jìn-yí-bù tuò-zhǎn xiàng-mù de chōng-fèn zì-zhǔ-quán.)",
+          "translation": "The evaluation committee gave a high appraisal to this original scientific research achievement and endowed the young R&D team with full autonomy to further expand the project."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (22.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "书面语体通过精炼文言虚词与规整双音节词汇的系统转换，能够赋予篇章典雅庄重的学术与公文质感。(Shūmiàn yǔtǐ tōngguò jīngliàn wényán xūcí yǔ guīzhěng shuāng-yīnjié cíhuì de xìtǒng zhuǎnhuà, nénggòu fùyǔ piānzhāng diǎnyǎ zhuāngzhòng de xuéshù yǔ gōngwén zhìgǎn.)",
+          "reading": "[ʂu˥.mjɛn˥˩ y˨˩˦.tʰi˨˩˦ tʰʊŋ˥.kwo˥˩ t͡ɕiŋ˥.ljɛn˥˩ wən˧˥.jan˧˥ ɕy˥.t͡sʰɨ˧˥ y˨˩˦ kweɪ̯˥.ʈ͡ʂəŋ˨˩˦ ʂwɑŋ˥.in˥.t͡ɕjɛ˧˥ t͡sʰɨ˧˥.xweɪ̯˥˩ tɤ ɕi˥˩.tʰʊŋ˥ ʈ͡ʂwan˨˩.xwa˥˩, nɤŋ˧˥.koʊ̯˥˩ fu˥˩.y˨˩˦ pʰjɛn˥.ʈ͡ʂwɑŋ˥ tjɛn˨˩.ja˨˩˦ ʈ͡ʂwɑŋ˥.ʈ͡ʂʊŋ˥˩ tɤ ɕɥɛ˧˥.ʂu˥˩ y˨˩˦ kʊŋ˥.wən˧˥ ʈ͡ʂɨ˥˩.kan˨˩˦] (Shū-miàn yǔ-tǐ tōng-guò jīng-liàn wén-yán xū-cí yǔ guī-zhěng shuāng-yīn-jié cí-huì de xì-tǒng zhuǎn-huà, néng-gòu fù-yǔ piān-zhāng diǎn-yǎ zhuāng-zhòng de xué-shù yǔ gōng-wén zhì-gǎn.)",
+          "translation": "Formal written register, through the systematic conversion of concise classical function words and regular disyllabic vocabulary, can endow articles with an elegant and solemn academic and official texture."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "鉴于缘于替因为，予以赋予替给为；自至拟旨在句中，书面庄重质感沛！"
+      ],
+      "culturalNotes": [
+        "现代汉语书面语是五四新文化运动与数千年典雅文言交融升华的产物。在学术答辩、国际公函与政策白皮书中，熟练使用书面语汇是专业水准与文化修养的最高标志。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」（第1讲）的标准汉语规范？",
+          "prompt": "在正式公文与学术报告中，口语词「为了 / 想要」最地道典雅的书面双音节对偶词是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的核心语法法则与应用范例 (22.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (22.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (22.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (22.1.w3)"
+            "旨在 / 意在 (Aiming to / designed to: 旨在)",
+            "想去",
+            "为了想",
+            "打算是"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「旨在」是表达会议、计划、政策等核心目的的标准书面语用词。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在书面语中表达「因为考虑到某种现实背景原因」，最规范典雅的句首关联词是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "鉴于 (In view of / considering: 鉴于)",
+            "因为着",
+            "由于吧",
+            "想来想去"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「鉴于」是现代公文与学术政论中用于交代前提背景的标准书面词。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的正式语境下，最准确得体的表达是哪一项？（第22.1题）",
+          "prompt": "请选出下列句子中书面语体转换最彻底、辞令最典雅庄重的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (22.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (22.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (22.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (22.1.x3)"
+            "鉴于该项目具有重大的战略价值，专家组拟对其予以全额资助，旨在加速突破核心卡脖子技术。(鉴于、拟、予以、旨在，书面语词汇全系严整典雅)",
+            "因为这个项目挺好，专家们想给它钱，为了搞快点突破技术。(口语化严重粗俗)",
+            "鉴于专家想给钱，旨在由于技术好。(语体混乱拼凑)",
+            "项目被拟在专家给钱。(语病严重不成句)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项在虚词与动词的选择上完全符合现代高级汉语公文与学术报告的最高标准。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u22-l1）所要求的高阶语言表达？",
+          "prompt": "表达「从某个起始时间到某个截止时间」，最精炼的书面语结构是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (22.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (22.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (22.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (22.1.y3)"
+            "自......至...... / 自......起至......止 (From... to...: 自...至...)",
+            "从......到......吧",
+            "打从......到......呢",
+            "由......去到......"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「自......至......」是现代汉语公文中表达时空区间的标准文言化精炼结构。"
         }
       ]
     },
@@ -12877,25 +12881,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的掌握程度，请选出表述完全正确的标准范句（测试 22-1）：",
+          "prompt": "请选出下列学术研讨会开幕辞中书面语体最典雅、辞章最庄重、结构最严谨的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (22.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (22.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (22.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (22.1.z3)"
+            "鉴于全球科技发展日新月异，本次国际学术论坛旨在搭建高水平跨学科对话平台，自开幕之日起至本周末，各国专家将围绕核心前沿议题展开深入审视，并对青年学者杰出论文予以表彰。(鉴于、旨在、自...至...、审视、予以，全篇书面语典雅非凡)",
+            "因为科技发展很快，我们开这个会想让大家聊聊，从今天到周末，大家看看论文给点奖。(口语极度贫乏随意)",
+            "鉴于大家聊聊，旨在给点奖在周末。(语体严重杂糅破碎)",
+            "专家被旨在开会自今天。(句式错乱不通)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在现代汉语高级书面语词汇的运用上浑然天成，完全达到了国际高规格学术峰会发言的专业水准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u22-l1）的核心关键词（例如「书面语体」）：",
+          "prompt": "请输入表达「为了达到某种崇高宗旨或目的」的核心两字书面动词（例如本次大会「」深化合作，拼音为 zhǐzài）：",
           "acceptedAnswers": [
-            "书面语体",
-            "书面语体、成",
-            "书面语体、成语与修辞"
+            "旨在"
           ],
-          "explanation": "正确的核心关键词为「书面语体」。"
+          "explanation": "词语「旨在」是现代汉语公文与学术论著中表达核心目标与宗旨的标准书面用词。"
         }
       ],
       "passThreshold": 0.8
@@ -12906,85 +12908,89 @@
     "subject": "mandarin",
     "unit": 22,
     "lessonNumber": 2,
-    "title": "书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu) (第2讲)",
+    "title": "高频学术、治学与思想修养经典成语体系 (High-Frequency Academic, Scholarly & Moral Chengyu Systems)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：四字熟语（成语）、典故引申、书面双音节词汇转换与文雅辞令修辞。 (第2部分)。",
+    "objective": "系统掌握现代汉语治学修身、科研攻坚与道德风骨三大维度的核心成语体系（潜心笃志、格物致知、厚积薄发、披荆斩棘、淡泊明志、融会贯通），掌握成语在句中的多功能句法充当方式。",
     "presentation": {
-      "explanation": "",
+      "explanation": "成语是汉语言文学的活化石与思想精华，在学术探讨、思想阐发中能够以极简四字凝练千钧之力：\n\n一、治学钻研与求真探索核心成语：\n1.【潜心笃志 (qiánxīn-dǔzhì)】：专心致志、意志坚定（作状语/谓语：青年学者**潜心笃志**从事基础理论研究）。\n2.【格物致知 (géwù-zhìzhī)】：穷究事物客观原理以获得真知（源自《礼记·大学》）。\n3.【融会贯通 (rónghuì-guàntōng)】：将各方面知识融合贯穿，形成全面透彻的理解。\n4.【厚积薄发 (hòujī-bófā)】：经过长期的深厚积累，然后充分显露并释放巨大力量。\n\n二、科研攻坚与百折不挠核心成语：\n1.【披荆斩棘 (pījīng-zhǎnjí)】：在极其艰难险阻的环境中劈开荆棘、勇往直前。\n2.【攻坚克难 (gōngjiān-kènán)】：攻克坚固堡垒，克服重大困难。\n3.【韦编三绝 (wéibiān-sānjué)】：形容读书刻苦勤奋、反复翻阅研读（源自孔子读《易经》典故）。\n\n三、学者风骨与道德修养核心成语：\n1.【淡泊明志 (dànbó-míngzhì)】：不追求名利才能表明自己的志向（源自诸葛亮《诫子书》）。\n2.【宁静致远 (níngjìng-zhìyuǎn)】：保持专一清静的心境才能达到远大目标。\n3.【虚怀若谷 (xūhuái-ruògǔ)】：胸怀博大谦逊得像山谷一样。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的核心语法法则与应用范例 (22.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)' in simple terms to students at the academic seminar."
+          "target": "青年科学家们唯有潜心笃志、格物致知，方能在看似无人问津的冷门基础理论领域取得颠覆性突破。(Qīngnián kēxuéjiā men wéiyǒu qiánxīn-dǔzhì, géwù-zhìzhī, fāng néng zài kànsì wú rén wènjīn de lěngmén jīchǔ lǐlùn lǐngyù qǔdé diānfùxìng tūpò.)",
+          "reading": "[t͡ɕʰiŋ˥.njɛn˧˥ kʰɤ˥.ɕɥɛ˧˥.t͡ɕja˥ mən weɪ̯˧˥.joʊ̯˨˩˦ t͡ɕʰjɛn˧˥.ɕin˥.tu˨˩.ʈ͡ʂɨ˥˩, kɤ˧˥.u˥˩.ʈ͡ʂɨ˥˩.ʈ͡ʂɨ˥, fɑŋ˥ nɤŋ˧˥ t͡saɪ̯˥˩ kʰan˥˩.sɨ˥˩ u˧˥ ʐən˧˥ wən˥˩.t͡ɕin˥ tɤ ləŋ˨˩.mən˧˥ t͡ɕi˥.t͡ʂʰu˨˩˦ li˨˩.lwən˥˩ liŋ˨˩.y˥˩ t͡ɕʰy˨˩˦.tɤ˧˥ tjɛn˥.fu˥˩.ɕiŋ˥˩ tʰu˥.pʰwɔ˥˩] (Qīng-nián kē-xué-jiā men wéi-yǒu qián-xīn-dǔ-zhì, gé-wù-zhì-zhī, fāng néng zài kàn-sì wú rén wèn-jīn de lěng-mén jī-chǔ lǐ-lùn lǐng-yù qǔ-dé diān-fù-xìng tū-pò.)",
+          "translation": "Only by concentrating wholeheartedly with firm devotion and investigating things to extend knowledge can young scientists achieve disruptive breakthroughs in cold fundamental theoretical fields that seem to attract nobody's interest."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (22.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "经过数十年披荆斩棘与厚积薄发，我国在深空探测与量子科技领域实现了从跟跑到领跑的历史性跨越。(Jīngguò shùshí nián pījīng-zhǎnjí yǔ hòujī-bófā, wǒguó zài shēnkōng tàncè yǔ liàngzǐ kējì lǐngyù shíxiàn le cóng gēnpǎo dào lǐngpǎo de lìshǐxìng kuàyuè.)",
+          "reading": "[t͡ɕiŋ˥.kwo˥˩ ʂu˥˩.ʂɨ˧˥ njɛn˧˥ pʰi˥.t͡ɕiŋ˥.ʈ͡ʂan˨˩.t͡ɕi˧˥ y˨˩˦ xoʊ̯˥˩.t͡ɕi˥.pwo˧˥.fa˥, wɔ˨˩.kwɔ˧˥ t͡saɪ̯˥˩ ʂən˥.kʰʊŋ˥ tʰan˥.t͡sʰɤ˥˩ y˨˩˦ ljaŋ˥˩.t͡sɨ˨˩˦ kʰɤ˥.t͡ɕi˥˩ liŋ˨˩.y˥˩ ʂɨ˧˥.ɕjɛn˥˩ lɤ t͡sʰʊŋ˧˥ kən˥.pʰaʊ̯˨˩˦ taʊ̯˥˩ liŋ˨˩.pʰaʊ̯˨˩˦ tɤ li˥˩.ʂɨ˨˩˦.ɕiŋ˥˩ kʰwa˥˩.jɥɛ˥˩] (Jīng-guò shù-shí nián pī-jīng-zhǎn-jí yǔ hòu-jī-bó-fā, wǒ-guó zài shēn-kōng tàn-cè yǔ liàng-zǐ kē-jì lǐng-yù shí-xiàn le cóng gēn-pǎo dào lǐng-pǎo de lì-shǐ-xìng kuà-yuè.)",
+          "translation": "After decades of cutting through thistles and thorns and building up strength to burst forth, our country has achieved a historic leap from following to leading in the fields of deep space exploration and quantum technology."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (22.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "老一辈科学家淡泊明志、宁静致远的高尚学术风骨，永远是激励当代青年奋勇攀登的精神灯塔。(Lǎoyíbèi kēxuéjiā dànbó-míngzhì, níngjìng-zhìyuǎn de gāoshàng xuéshù fēnggǔ, yǒngyuǎn shì jīlì dāngdài qīngnián fènyǒng pāndēng de jīngshén dēngtǎ.)",
+          "reading": "[laʊ̯˨˩.i˥.peɪ̯˥˩ kʰɤ˥.ɕɥɛ˧˥.t͡ɕja˥ tan˥˩.pwo˧˥.miŋ˧˥.ʈ͡ʂɨ˥˩, niŋ˧˥.t͡ɕiŋ˥˩.ʈ͡ʂɨ˥˩.jɥɛn˨˩˦ tɤ kaʊ̯˥.ʂɑŋ˥˩ ɕɥɛ˧˥.ʂu˥˩ fəŋ˥.ku˨˩˦, jʊŋ˨˩˦.jɥan˨˩˦ ʂɨ˥˩ t͡ɕi˥.li˥˩ tɑŋ˥.taɪ̯˥˩ t͡ɕʰiŋ˥.njɛn˧˥ fən˥˩.jʊŋ˨˩˦ pʰan˥.təŋ˥ tɤ t͡ɕiŋ˥.ʂən˧˥ təŋ˥.tʰa˨˩˦] (Lǎo-yí-bèi kē-xué-jiā dàn-bó-míng-zhì, níng-jìng-zhì-yuǎn de gāo-shàng xué-shù fēng-gǔ, yǒng-yuǎn shì jī-lì dāng-dài qīng-nián fèn-yǒng pān-dēng de jīng-shén dēng-tǎ.)",
+          "translation": "The noble academic character of the older generation of scientists—living simply to express ambitions and maintaining tranquility to achieve distant goals—is forever a spiritual lighthouse that inspires contemporary youth to scale heights bravely."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (22.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "历代学术大师在治学道路上秉持韦编三绝的求索精神，将古今中外多元理论知识融会贯通为一体。(Lìdài xuéshù大师 zài zhìxué dàolù shang bǐngchí wéibiān-sānjué de qiúsuǒ jīngshén, jiāng gǔjīn-zhōngwài duōyuán lǐlùn zhīshi rónghuì-guàntōng wéi yītǐ.)",
+          "reading": "[li˥˩.taɪ̯˥˩ ɕɥɛ˧˥.ʂu˥˩ ta˥˩.ʂɨ˥ t͡saɪ̯˥˩ ʈ͡ʂɨ˥˩.ɕɥɛ˧˥ taʊ̯˥˩.lu˥˩ ʂɑŋ piŋ˨˩.ʈ͡ʂʰɨ˧˥ weɪ̯˧˥.pjɛn˥.san˥.t͡ɕyɛ˧˥ tɤ t͡ɕʰjoʊ̯˧˥.swɔ˨˩˦ t͡ɕiŋ˥.ʂən˧˥, t͡ɕjaŋ˥ ku˨˩.t͡ɕin˥.ʈ͡ʂʊŋ˥.waɪ̯˥˩ twɔ˥.jɥan˧˥ li˨˩.lwən˥˩ ʈ͡ʂɨ˥.ʂɨ ʐʊŋ˧˥.xweɪ̯˥˩.kwan˥˩.tʰʊŋ˥ weɪ̯˧˥ i˥.tʰi˨˩˦] (Lì-dài xué-shù dà-shī zài zhì-xué dào-lù shang bǐng-chí wéi-biān-sān-jué de qiú-suǒ jīng-shén, jiāng gǔ-jīn-zhōng-wài duō-yuán lǐ-lùn zhī-shi róng-huì-guàn-tōng wéi yī-tǐ.)",
+          "translation": "Academic masters across dynasties upheld the questing spirit of reading painstakingly until the leather bindings broke three times on the path of scholarship, integrating diverse theoretical knowledge from ancient and modern, Chinese and foreign into an organic whole."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "潜心笃志求真知，厚积薄发披荆棘；淡泊明志铸风骨，融会贯通启新机！"
+      ],
+      "culturalNotes": [
+        "成语系统是中华文明几千年来格物致知与道德求索的历史结晶。「韦编三绝」展现了坚韧勤勉，「淡泊明志」体现了超脱纯粹，为当代学术研究提供了永恒的精神坐标。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」（第2讲）的标准汉语规范？",
+          "prompt": "成语「格物致知」最早源自儒家经典《礼记·大学》，其在现代学术语境下的核心含义是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的核心语法法则与应用范例 (22.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (22.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (22.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (22.2.w3)"
+            "穷究客观事物的本质规律与科学原理，从而获取真正的理性知识 (Investigate things to extend true knowledge)",
+            "把物品随意乱放",
+            "只看物体的表面颜色",
+            "买卖各类商品"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「格物致知」是中国古代认识论的核心命题，意为深入探究客观物理以达到真理认知。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "成语「厚积薄发」形容的学术攻关规律是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "经过长期大量的深厚积累储备，然后才能释放出强大的创新突破 (Accumulate profoundly before releasing powerfully)",
+            "做事情马马虎虎不积累",
+            "只做表面文章",
+            "遇到困难立刻放弃"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「厚积薄发」是形容长期潜心积淀后迎来重大收获的经典成语。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的正式语境下，最准确得体的表达是哪一项？（第22.2题）",
+          "prompt": "在描写老科学家不慕虚名、专心致力于崇高科学事业的精神境界时，最贴切的成语是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (22.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (22.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (22.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (22.2.x3)"
+            "淡泊明志，宁静致远 (Live simply to manifest ambitions, stay tranquil to reach far)",
+            "急功近利",
+            "追名逐利",
+            "好大喜功"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「淡泊明志，宁静致远」是赞美学者超凡脱俗、潜心科学风骨的最高赞誉成语。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u22-l2）所要求的高阶语言表达？",
+          "prompt": "成语「融会贯通」在学术研究中指的是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (22.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (22.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (22.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (22.2.y3)"
+            "把各门类、各学派的知识与理论深刻融合，形成完整贯通的认知体系 (Synthesize diverse knowledge into a coherent whole)",
+            "把所有的路都修通",
+            "在路上散步",
+            "把水倒在杯子里"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「融会贯通」指将零散复杂的学术理论彻底贯通为有机整体。"
         }
       ]
     },
@@ -12992,25 +12998,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的掌握程度，请选出表述完全正确的标准范句（测试 22-2）：",
+          "prompt": "请选出下列学术治学叙事中成语搭配最严谨、思想境界最高远、文采最斐然的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (22.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (22.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (22.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (22.2.z3)"
+            "在探索科学前沿的漫长征程中，青年学者既要有潜心笃志、韦编三绝的治学毅力，又要有格物致知、厚积薄发的求真定力，更要有淡泊明志、宁静致远的高尚风骨，方能在科技攻关中披荆斩棘、勇攀高峰！(潜心笃志、韦编三绝、格物致知、厚积薄发、淡泊明志、宁静致远、披荆斩棘，成语熔铸入化境)",
+            "学者们急功近利，随便看看书，想马上取得成功。(思想浅薄成语误用)",
+            "大家披荆斩棘在教室里睡觉。(成语与语境严重背离荒唐)",
+            "淡泊明志被学者们做了很多实验。(成语句法语义严重残缺病态)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇将治学、求真、风骨与攻关四大维度的核心成语熔铸于一炉，气度宏大，立意深远。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u22-l2）的核心关键词（例如「书面语体」）：",
+          "prompt": "请输入形容经过长期深厚积累后释放出强大突破力量的核心四字成语（例如「」的科研成果，拼音为 hòujī-bófā）：",
           "acceptedAnswers": [
-            "书面语体",
-            "书面语体、成",
-            "书面语体、成语与修辞"
+            "厚积薄发"
           ],
-          "explanation": "正确的核心关键词为「书面语体」。"
+          "explanation": "成语「厚积薄发」是现代汉语中指称深厚积淀之后爆发巨大成就的经典成语。"
         }
       ],
       "passThreshold": 0.8
@@ -13021,85 +13025,89 @@
     "subject": "mandarin",
     "unit": 22,
     "lessonNumber": 3,
-    "title": "书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu) (第3讲)",
+    "title": "宏观时代叙事与治国理政高阶政论成语系统 (Macro-Era & Governance High-Register Political Chengyu)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：四字熟语（成语）、典故引申、书面双音节词汇转换与文雅辞令修辞。 (第3部分)。",
+    "objective": "系统掌握现代汉语宏观时代叙事、战略规划与治国理政维度的核心高阶成语体系（波澜壮阔、高瞻远瞩、深谋远虑、统筹兼顾、戮力同心、砥砺前行），熟练应用于高规格政论与时代社论写作。",
     "presentation": {
-      "explanation": "",
+      "explanation": "政论成语是现代汉语国家治理、战略规划与宏大时代叙事的骨架，凝聚了中华民族的大局观与历史担当：\n\n一、时代潮流与历史征程核心成语：\n1.【波澜壮阔 (bōlán-zhuàngkuò)】：声势雄壮浩大、规模宏伟磅礴（例：**波澜壮阔**的百年奋斗历程）。\n2.【继往开来 (jìwǎng-kāilái)】：继承前人事业，开辟未来道路。\n3.【日新月异 (rìxīn-yuèyì)】：发展变化极其迅速，每天每月都有新气象。\n\n二、战略决策与高瞻远瞩核心成语：\n1.【高瞻远瞩 (gāozhān-yuǎnzhǔ)】：站得高，看得远；眼光极其宏远开阔（作定语/状语/谓语）。\n2.【深谋远虑 (shēnmóu-yuǎnlǜ)】：周密深刻地谋划，长远细致地考量。\n3.【统筹兼顾 (tǒngchóu-jiāngù)】：统一全面筹划，兼顾协调各方利益与发展要件。\n4.【防微杜渐 (fángwēi-dùjiàn)】：在错误或隐患刚冒头时就加以防范制止，防止蔓延扩大。\n\n三、团结奋斗与开拓进取核心成语：\n1.【戮力同心 (lùlì-tóngxīn)】：齐心合力、齐心协力（书面高规格成语）。\n2.【众志成城 (zhòngzhì-chéngchéng)】：万众一心，像坚固的城墙一样不可摧毁。\n3.【同舟共济 (tóngzhōu-gòngjì)】：在大风大浪中同乘一条船，齐心协力克服艰难险阻。\n4.【砥砺前行 (dǐlì-qiánxíng)】：在磨砺锻炼中坚定不移勇往直前。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的核心语法法则与应用范例 (22.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)' in simple terms to students at the academic seminar."
+          "target": "回顾这百年波澜壮阔的奋斗征程，一代代仁人志士继往开来，谱写了中华民族自强不息的壮丽史诗。(Huígù zhè bǎi nián bōlán-zhuàngkuò de fèndòu zhēngchéng, yídàidài rénrén-zhìshì jìwǎng-kāilái, pǔxiě le Zhōnghuá mínzú zìqiáng-bùxī de zhuànglì shǐshī.)",
+          "reading": "[xweɪ̯˧˥.ku˥˩ ʈ͡ʂɤ˥˩ paɪ̯˨˩.njɛn˧˥ pwo˥.lan˧˥.ʈ͡ʂwaŋ˥˩.kʰwɔ˥˩ tɤ fən˥˩.toʊ̯˥˩ ʈ͡ʂəŋ˥.ʈ͡ʂʰəŋ˧˥, i˥.taɪ̯˥˩.taɪ̯˥˩ ʐən˧˥.ʐən˧˥.ʈ͡ʂɨ˥˩.ʂɨ˥˩ t͡ɕi˥˩.wɑŋ˨˩.kʰaɪ̯˥.laɪ̯˧˥, pʰu˨˩.ɕjɛ˨˩˦ lɤ ʈ͡ʂʊŋ˥.xwa˧˥ min˧˥.t͡su˧˥ t͡sɨ˥˩.t͡ɕʰjaŋ˧˥.pu˥.ɕi˥ tɤ ʈ͡ʂwaŋ˥˩.li˥˩ ʂɨ˨˩˦.ʂɨ˥] (Huí-gù zhè bǎi nián bō-lán-zhuàng-kuò de fèn-dòu zhēng-chéng, yí-dài-dài rén-rén-zhì-shì jì-wǎng-kāi-lái, pǔ-xiě le Zhōng-huá mín-zú zì-qiáng-bù-xī de zhuàng-lì shǐ-shī.)",
+          "translation": "Reviewing this century of magnificent and surging journey of struggle, generations of people with lofty ideals inherited the past and ushered in the future, composing a splendid epic of the Chinese nation's ceaseless self-improvement."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (22.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "面对全球复杂多变的发展变局，国家战略决策层高瞻远瞩、深谋远虑，坚定不移统筹兼顾发展与安全。(Miànduì quánqiú fùzá-duōbiàn de fāzhǎn biànjú, guójiā zhànlüè juécècéng gāozhān-yuǎnzhǔ, shēnmóu-yuǎnlǜ, jiāndìng-bùyí tǒngchóu-jiāngù fāzhǎn yǔ ānquán.)",
+          "reading": "[mjɛn˥˩.tweɪ̯˥˩ t͡ɕʰyɛn˧˥.t͡ɕʰjoʊ̯˧˥ fu˥˩.t͡sa˧˥.twɔ˥.pjɛn˥˩ tɤ fa˥.ʈ͡ʂan˨˩˦ pjɛn˥˩.t͡ɕy˧˥, kwo˧˥.t͡ɕja˥ ʈ͡ʂan˥˩.lyɛ˥˩ t͡ɕɥɛ˧˥.t͡sʰɤ˥˩.t͡sʰəŋ˧˥ kaʊ̯˥.ʈ͡ʂan˥.jɥɛn˨˩.ʈ͡ʂu˨˩˦, ʂən˥.moʊ̯˧˥.jɥɛn˨˩.ly˥˩, t͡ɕjɛn˥.tiŋ˥˩.pu˥.i˧˥ tʰʊŋ˨˩.ʈ͡ʂʰoʊ̯˧˥.t͡ɕjɛn˥.ku˥˩ fa˥.ʈ͡ʂan˨˩˦ y˨˩˦ an˥.t͡ɕʰyɛn˧˥] (Miàn-duì quán-qiú fù-zá-duō-biàn de fā-zhǎn biàn-jú, guó-jiā zhàn-lüè jué-cè-céng gāo-zhān-yuǎn-zhǔ, shēn-móu-yuǎn-lǜ, jiān-dìng-bù-yí tǒng-chóu-jiān-gù fā-zhǎn yǔ ān-quán.)",
+          "translation": "Facing the globally complex and ever-changing development landscape, the national strategic decision-making echelon stood high to see far and planned deeply with distant foresight, unswervingly coordinating both development and security."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (22.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "只要十四亿人民戮力同心、众志成城，就没有任何力量能够阻挡中华民族实现伟大复兴的坚定步伐！(Zhǐyào shísì yì rénmín lùlì-tóngxīn, zhòngzhì-chéngchéng, jiù méiyǒu rènhé lìliang nénggòu zǔdǎng Zhōnghuá mínzú shíxiàn wěidà fùxīng de jiāndìng bùfá!)",
+          "reading": "[ʈ͡ʂɨ˨˩˦.jaʊ̯˥˩ ʂɨ˧˥.sɨ˥˩ i˥˩ ʐən˧˥.min˧˥ lu˥˩.li˥˩.tʰʊŋ˧˥.ɕin˥, ʈ͡ʂʊŋ˥˩.ʈ͡ʂɨ˥˩.ʈ͡ʂʰəŋ˧˥.ʈ͡ʂʰəŋ˧˥, t͡ɕjoʊ̯˥˩ meɪ̯˧˥.joʊ̯˨˩˦ ʐən˥˩.xɤ˧˥ li˥˩.ljaŋ nɤŋ˧˥.koʊ̯˥˩ t͡su˨˩.taŋ˨˩˦ ʈ͡ʂʊŋ˥.xwa˧˥ min˧˥.t͡su˧˥ ʂɨ˧˥.ɕjɛn˥˩ weɪ̯˨˩.ta˥˩ fu˥˩.ɕiŋ˥ tɤ t͡ɕjɛn˥.tiŋ˥˩ pu˥˩.fa˧˥] (Zhǐ-yào shí-sì yì rén-mín lù-lì-tóng-xīn, zhòng-zhì-chéng-chéng, jiù méi-yǒu rèn-hé lì-liang néng-gòu zǔ-dǎng Zhōng-huá mín-zú shí-xiàn wěi-dà fù-xīng de jiān-dìng bù-fá!)",
+          "translation": "As long as the 1.4 billion people unite their efforts with one heart and form a fortress with collective will, no power whatsoever can block the firm strides of the Chinese nation toward realizing great rejuvenation!"
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (22.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "全体科研工作者在无人区探索中同舟共济、砥砺前行，以防微杜渐的严谨态度确保重大工程万无一失。(Quántǐ kēyán gōngzuòzhě zài wúrénqū tànsuǒ zhōng tóngzhōu-gòngjì, dǐlì-qiánxíng, yǐ fángwēi-dùjiàn de yánjǐn tàidu quèbǎo zhòngdà gōngchéng wànwú-yìshī.)",
+          "reading": "[t͡ɕʰyɛn˧˥.tʰi˨˩˦ kʰɤ˥.jan˧˥ kʊŋ˥.t͡swoʊ̯˥˩.ʈ͡ʂɤ˨˩˦ t͡saɪ̯˥˩ u˧˥.ʐən˧˥.t͡ɕʰy˥ tʰan˥.swɔ˨˩˦ ʈ͡ʂʊŋ˥ tʰʊŋ˧˥.ʈ͡ʂoʊ̯˥.kʊŋ˥˩.t͡ɕi˥˩, ti˨˩.li˥˩.t͡ɕʰjɛn˧˥.ɕiŋ˧˥, i˨˩˦ fɑŋ˧˥.weɪ̯˥.tu˥˩.t͡ɕjɛn˥˩ tɤ jan˧˥.t͡ɕin˨˩˦ tʰaɪ̯˥˩.tu t͡ɕʰɥɛ˥.paʊ̯˨˩˦ ʈ͡ʂʊŋ˥˩.ta˥˩ kʊŋ˥.ʈ͡ʂʰəŋ˧˥ wan˥˩.u˧˥.i˥.ʂɨ˥] (Quán-tǐ kē-yán gōng-zuò-zhě zài wú-rén-qū tàn-suǒ zhōng tóng-zhōu-gòng-jì, dǐ-lì-qián-xíng, yǐ fáng-wēi-dù-jiàn de yán-jǐn tài-du què-bǎo zhòng-dà gōng-chéng wàn-wú-yì-shī.)",
+          "translation": "All scientific research workers crossed rivers together in the same boat and marched forward through trials during exploration in no-man's land, ensuring major engineering projects were foolproof with a rigorous attitude of nipping problems in the bud."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "波澜壮阔绘宏图，高瞻远瞩策万途；戮力同心筑伟业，砥砺前行展宏图！"
+      ],
+      "culturalNotes": [
+        "政论成语是中华民族宏阔大局观的集中展现。「高瞻远瞩」指引战略方向，「戮力同心」汇聚人民伟力，在当代中国重大战略文本中具有极高的政治与文学价值。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」（第3讲）的标准汉语规范？",
+          "prompt": "在战略政论语境中，表达「站得高、看得远，具有宏远开阔的历史大局眼光」的核心成语是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的核心语法法则与应用范例 (22.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (22.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (22.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (22.3.w3)"
+            "高瞻远瞩 / 深谋远虑 (Stand high and see far / with far-sighted vision: 高瞻远瞩)",
+            "目光短浅",
+            "鼠目寸光",
+            "只顾眼前"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「高瞻远瞩」是形容战略决策层具有长远战略宏阔眼光的经典高规格成语。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "成语「戮力同心」中「戮力」的准确含义是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "齐心合力、共同倾尽所有力量 (Combine strength / unite efforts)",
+            "互相拆台",
+            "分散力量",
+            "消极怠工"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「戮力」意为合力、并力，「戮力同心」指万众齐心合力成就大业。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的正式语境下，最准确得体的表达是哪一项？（第22.3题）",
+          "prompt": "在重大工程安全管理中，表达「在极其微小的风险隐患刚刚萌芽时就彻底予以排查消除」的成语是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (22.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (22.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (22.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (22.3.x3)"
+            "防微杜渐 (Nip evil in the bud / prevent subtle errors from expanding)",
+            "任其发展",
+            "敷衍了事",
+            "亡羊补牢"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「防微杜渐」指在隐患萌芽阶段就予以防范杜绝，是工程安全与廉政建设的高频成语。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u22-l3）所要求的高阶语言表达？",
+          "prompt": "请选出下列政论社论语篇中成语搭配最严谨、气势最磅礴的一项：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (22.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (22.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (22.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (22.3.y3)"
+            "面对波澜壮阔的新时代征程，我们要高瞻远瞩谋全局、统筹兼顾促发展，只要全党全国人民戮力同心、众志成城，就必定能砥砺前行、再创辉煌！(政论成语层层呼应，气势磅礴宏阔)",
+            "新时代很热闹，大家一起做事情，不要害怕困难，慢慢走。(语言极其粗俗平淡)",
+            "波澜壮阔被我们高瞻远瞩在路上。(句式严重破损)",
+            "防微杜渐谋全局在全国人民。(成语搭配严重错乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "首选选项在宏观叙事成语的配合上达到了人民日报社论的高规格政论水平。"
         }
       ]
     },
@@ -13107,25 +13115,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的掌握程度，请选出表述完全正确的标准范句（测试 22-3）：",
+          "prompt": "请选出下列治国理政综合社论语篇中成语运用最纯熟、思想最深邃、辞章最庄严的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (22.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (22.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (22.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (22.3.z3)"
+            "回顾百年波澜壮阔的奋斗征程，我们党始终高瞻远瞩、深谋远虑，统筹兼顾发展全局。站在新的历史起点上，广大建设者同舟共济、砥砺前行，以防微杜渐的审慎确保万无一失，以戮力同心的伟力推动中华民族伟大复兴的巨轮乘风破浪！(全篇政论成语融会贯通，辞章典雅，气吞山河)",
+            "过去的一百年很有意思，我们做了很多打算，现在大家要一起努力把船开好。(语言极度贫乏幼稚)",
+            "高瞻远瞩被统筹兼顾，巨轮波澜壮阔在地上。(成语严重误用且逻辑崩溃)",
+            "只要防微杜渐，就能波澜壮阔开巨轮。(成语因果关系荒谬错乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在政论成语全套系统的驾驭与大国气魄的展现上达到了现代汉语政论文的最高境界。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u22-l3）的核心关键词（例如「书面语体」）：",
+          "prompt": "请输入表达齐心协力、共同全力奋斗的核心四字政论成语（例如「」共创大业，拼音为 lùlì-tóngxīn）：",
           "acceptedAnswers": [
-            "书面语体",
-            "书面语体、成",
-            "书面语体、成语与修辞"
+            "戮力同心"
           ],
-          "explanation": "正确的核心关键词为「书面语体」。"
+          "explanation": "成语「戮力同心」是现代汉语高规格政论与社论中表达万众一心合力奋斗的核心成语。"
         }
       ],
       "passThreshold": 0.8
@@ -13136,85 +13142,89 @@
     "subject": "mandarin",
     "unit": 22,
     "lessonNumber": 4,
-    "title": "书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu) (第4讲)",
+    "title": "高阶修辞技法（排比、对偶、层递、隐喻、借代）在论说文中的赋能运用 (Rhetorical Devices: Parallelism, Antithesis, Gradation & Metaphor)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：四字熟语（成语）、典故引申、书面双音节词汇转换与文雅辞令修辞。 (第4部分)。",
+    "objective": "系统掌握现代汉语排比（三句以上气势充沛）、对偶（严密对称声律和谐）、层递（由浅入深步步推进）与隐喻（生动形象哲理具象化）等高阶修辞技法，赋能高级学术论文与政论写作。",
     "presentation": {
-      "explanation": "",
+      "explanation": "高阶修辞技法是赋予汉语论说文、演讲辞与学术专著声律美感与雄辩力量的灵魂工具：\n\n一、五大高阶核心修辞技法深度解析：\n1.【排比 (Parallelism)】：\n- 构造：三个或三个以上结构相同或相似、语气一致、意义紧密相联的分句并列排列。\n- 修辞功能：节奏明快，语势磅礴，层层强化说服力与感染力。\n- 经典范例：科技是自立自强的基石，科技是驱动创新的引擎，科技是引领未来的灯塔！\n2.【对偶 (Antithesis)】：\n- 构造：字数严格相等、结构完全对称、词性两两相对、意义相辅相成。\n- 经典范例：胸怀祖国，放眼世界；敢为人先，追求卓越。\n3.【层递 (Gradation)】：\n- 构造：按照事物内在逻辑（由浅入深、由小到大、由点及面、由具象到抽象）步步升华。\n- 经典范例：立足实验台以解微观之谜，服务产业链以铸大国重器，放眼人类命运以启未来之门。\n4.【隐喻与宏观比喻 (Metaphor)】：\n- 构造：将抽象艰深的科学哲理比作生动具象的宏大意象。\n- 经典范例：核心技术是国之重器，是斩断垄断枷锁的锋利宝剑。\n5.【修辞融合效应】：在实际高阶写作中，对偶常与排比、隐喻交织，形成「气盛言宜、文质彬彬」的崇高美学风格。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的核心语法法则与应用范例 (22.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)' in simple terms to students at the academic seminar."
+          "target": "科学探索需要仰望星空的浩瀚情怀，需要脚踏实地的坚韧笃行，需要海纳百川的宽阔胸襟！(Kēxué tànsuǒ xūyào yǎngwàng xīngkōng de hàohàn qínghuái, xūyào jiǎotà-shídì de jiānrèn dǔxíng, xūyào hǎinà-bǎichuān de kuānkuò xiōngjīn!)",
+          "reading": "[kʰɤ˥.ɕɥɛ˧˥ tʰan˥.swɔ˨˩˦ ɕy˥.jaʊ̯˥˩ jaŋ˨˩˦.wɑŋ˥˩ ɕiŋ˥.kʰʊŋ˥ tɤ xaʊ̯˥˩.xan˥˩ t͡ɕʰiŋ˧˥.xwaɪ̯˧˥, ɕy˥.jaʊ̯˥˩ t͡ɕjaʊ̯˨˩.tʰa˥˩.ʂɨ˧˥.ti˥˩ tɤ t͡ɕjɛn˥.ʐən˥˩ tu˨˩.ɕiŋ˧˥, ɕy˥.jaʊ̯˥˩ xaɪ̯˨˩.na˥˩.paɪ̯˨˩.ʈ͡ʂʰwan˥ tɤ kʰwan˥.kʰwɔ˥˩ ɕjʊŋ˥.t͡ɕin˥] (Kē-xué tàn-suǒ xū-yào yǎng-wàng xīng-kōng de hào-hàn qíng-huái, xū-yào jiǎo-tà-shí-dì de jiān-rèn dǔ-xíng, xū-yào hǎi-nà-bǎi-chuān de kuān-kuò xiōng-jīn!)",
+          "translation": "Scientific exploration requires the vast sentiment of gazing up at the starry sky, requires the resolute perseverance of keeping one's feet firmly on the ground, and requires the broad mind of rivers embracing the sea!"
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (22.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "广大青年学者应当以天下为己任：立足科研前沿以强基，勇攀学术高峰以拓新，服务国家战略以铸魂。(Guǎngdà qīngnián xuézhě yīngdāng yǐ tiānxià wéi jǐrèn: lìzú kēyán qiányán yǐ qiángjī, yǒngpān xuéshù gāofēng yǐ tuòxīn, fúwù guójiā zhànlüè yǐ zhùhún.)",
+          "reading": "[kwaŋ˨˩˦.ta˥˩ t͡ɕʰiŋ˥.njɛn˧˥ ɕɥɛ˧˥.ʈ͡ʂɤ˨˩˦ iŋ˥.tɑŋ˥ i˨˩˦ tʰjɛn˥.ɕja˥˩ weɪ̯˧˥ t͡ɕi˨˩.ʐən˥˩: li˥˩.t͡swoʊ̯˥˩ kʰɤ˥.jan˧˥ t͡ɕʰjɛn˧˥.jan˧˥ i˨˩˦ t͡ɕʰjaŋ˧˥.t͡ɕi˥, jʊŋ˨˩˦.pʰan˥ ɕɥɛ˧˥.ʂu˥˩ kaʊ̯˥.fəŋ˥ i˨˩˦ tʰwɔ˥˩.ɕin˥, fu˥˩.u˥˩ kwo˧˥.t͡ɕja˥ ʈ͡ʂan˥˩.lyɛ˥˩ i˨˩˦ ʈ͡ʂu˥˩.xwon˧˥] (Guǎng-dà qīng-nián xué-zhě yīng-dāng yǐ tiān-xià wéi jǐ-rèn: lì-zú kē-yán qián-yán yǐ qiáng-jī, yǒng-pān xué-shù gāo-fēng yǐ tuò-xīn, fú-wù guó-jiā zhàn-lüè yǐ zhù-hún.)",
+          "translation": "The vast number of young scholars should take the world as their personal responsibility: base themselves on the scientific research frontier to strengthen foundations, bravely scale academic heights to pioneer innovations, and serve national strategies to forge the soul."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (22.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "创新是破浪前行的强劲引擎，是引领时代的浩荡东风，是自立自强的坚固铠甲。(Chuàngxīn shì pòlàng-qiánxíng de qiángjìn yǐnqíng, shì yǐnlǐng shídài de hàodàng dōngfēng, shì zìlì-zìqiáng de jiāngù kǎijiǎ.)",
+          "reading": "[t͡ʂʰwaŋ˥˩.ɕin˥ ʂɨ˥˩ pʰwɔ˥˩.lɑŋ˥˩.t͡ɕʰjɛn˧˥.ɕiŋ˧˥ tɤ t͡ɕʰjaŋ˧˥.t͡ɕin˥˩ in˨˩˦.t͡ɕʰiŋ˧˥, ʂɨ˥˩ in˨˩˦.liŋ˨˩˦ ʂɨ˧˥.taɪ̯˥˩ tɤ xaʊ̯˥˩.tɑŋ˥˩ tʊŋ˥.fəŋ˥, ʂɨ˥˩ t͡sɨ˥˩.li˥˩.t͡sɨ˥˩.t͡ɕʰjaŋ˧˥ tɤ t͡ɕjɛn˥.ku˥˩ kʰaɪ̯˨˩.t͡ɕja˨˩˦] (Chuàng-xīn shì pò-làng-qián-xíng de qiáng-jìn yǐn-qíng, shì yǐn-lǐng shí-dài de hào-dàng dōng-fēng, shì zì-lì-zì-qiáng de jiān-gù kǎi-jiǎ.)",
+          "translation": "Innovation is the powerful engine cutting through waves to forge ahead, the mighty east wind leading the era, and the solid armor of self-reliance and self-strengthening."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (22.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "对偶与排比修辞的精妙结合，不仅赋予现代汉语极强的节奏韵律美感，更极大增强了论辩的说服力与感染力。(Duì'ǒu yǔ páibǐ xiūcí de jīngmiào jiéhé, bùjǐn fùyǔ xiàndài Hànyǔ jí qiáng de jiézòu yùnlǜ měigǎn, gèng jídà zēngqiáng le lùnbiàn de shuōfúlì yǔ gǎnrǎnlì.)",
+          "reading": "[tweɪ̯˥˩.oʊ̯˨˩˦ y˨˩˦ pʰaɪ̯˧˥.pi˨˩˦ ɕjoʊ̯˥.t͡sʰɨ˧˥ tɤ t͡ɕiŋ˥.mjaʊ̯˥˩ t͡ɕjɛ˧˥.xɤ˧˥, pu˥.t͡ɕin˨˩˦ fu˥˩.y˨˩˦ ɕjɛn˥˩.taɪ̯˥˩ xan˥˩.y˨˩˦ t͡ɕi˧˥ t͡ɕʰjaŋ˧˥ tɤ t͡ɕjɛ˧˥.t͡swoʊ̯˥˩ jyn˥˩.ly˥˩ meɪ̯˨˩.kan˨˩˦, kɤŋ˥˩ t͡ɕi˧˥.ta˥˩ t͡səŋ˥.t͡ɕʰjaŋ˧˥ lɤ lwen˥˩.pjɛn˥˩ tɤ ʂwɔ˥.fu˧˥.li˥˩ y˨˩˦ kan˨˩.ʐan˨˩.li˨˩˦] (Duì-'ǒu yǔ pái-bǐ xiū-cí de jīng-miào jié-hé, bù-jǐn fù-yǔ xiàn-dài Hàn-yǔ jí qiáng de jié-zòu yùn-lǜ měi-gǎn, gèng jí-dà zēng-qiáng le lùn-biàn de shuō-fú-lì yǔ gǎn-rǎn-lì.)",
+          "translation": "The exquisite combination of antithesis and parallelism not only endows modern Chinese with extremely strong rhythmic aesthetic feeling, but also greatly enhances the persuasiveness and appeal of argumentation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "排比三句声势雄，对偶严整韵味浓；层递层层推至极，比喻意象铸高峰！"
+      ],
+      "culturalNotes": [
+        "南朝梁代刘勰《文心雕龙》云：「丽句与深采并流，理脉与声律俱美。」汉语论说文运用对偶排比，不仅是形式美，更是内在理性逻辑的澎湃展现。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」（第4讲）的标准汉语规范？",
+          "prompt": "在修辞学中，连续使用「需要仰望星空......，需要脚踏实地......，需要海纳百川......」三个结构相同、语气一致的分句，属于：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的核心语法法则与应用范例 (22.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (22.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (22.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (22.4.w3)"
+            "排比修辞 (Parallelism: 三句以上结构相同，增强语势)",
+            "反问修辞",
+            "借代修辞",
+            "夸张修辞"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "三个或以上结构对称、语气一致的分句并列使用构成经典排比修辞。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "对偶修辞的核心句法特征是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "字数严格相等、结构完全对称、词性相对、意义对称 (Equal syllable count, symmetrical structure, matched parts of speech)",
+            "字数长短随意",
+            "不需要任何语法对称",
+            "只用一个单字"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "对偶要求字数相等、结构对称、词性相对，具有极强的声律美。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的正式语境下，最准确得体的表达是哪一项？（第22.4题）",
+          "prompt": "在句子「创新是破浪前行的引擎，是引领时代的东风，是自立自强的铠甲」中，运用的主要修辞手法是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (22.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (22.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (22.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (22.4.x3)"
+            "隐喻/比喻 与 排比的融合运用 (Combination of Metaphor and Parallelism)",
+            "拟人与设问",
+            "夸张与借代",
+            "对偶与反问"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "该句将「创新」具象比喻为引擎、东风与铠甲，并以三个并列分句构成排比。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u22-l4）所要求的高阶语言表达？",
+          "prompt": "在论述青年学者使命时，从「立足科研前沿 -> 勇攀学术高峰 -> 服务国家战略」的步步升华，运用的修辞是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (22.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (22.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (22.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (22.4.y3)"
+            "层递 (Gradation / Climax: 由浅入深由低到高层层递进)",
+            "倒装",
+            "省略",
+            "互文"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「层递」是根据逻辑发展规律由浅入深、层层递进升华的经典修辞。"
         }
       ]
     },
@@ -13222,25 +13232,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的掌握程度，请选出表述完全正确的标准范句（测试 22-4）：",
+          "prompt": "请选出下列论述语段中排比、对偶、层递与隐喻修辞融合最完美、最具震撼感染力的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (22.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (22.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (22.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (22.4.z3)"
+            "青年科学家当以自强为舟、以奋斗为桨：立足实验前沿以强基，攻克核心难关以拓新，献身强国伟业以铸魂！让青春在星辰大海的探索中闪光，让智慧在民族复兴的征程中绽放！(对偶比喻开篇，三句层递排比，对偶收束，修辞臻于化境)",
+            "青年科学家要做实验，写论文，搞好国家建设，大家都很努力加油。(语言极度贫乏平白)",
+            "以舟为奋斗，实验被立足，绽放智慧在做实验。(句式混乱破碎)",
+            "创新是引擎但是青年是舟所以大家都好。(修辞完全缺乏美感与逻辑)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段融会了比喻、对偶、层递与排比全套修辞技法，声律铿锵，辞采飞扬，感染力极强。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u22-l4）的核心关键词（例如「书面语体」）：",
+          "prompt": "请输入由三个或三个以上结构相同、语气一致的分句并列排列构成的核心两字修辞术语（例如「」句式，拼音为 páibǐ）：",
           "acceptedAnswers": [
-            "书面语体",
-            "书面语体、成",
-            "书面语体、成语与修辞"
+            "排比"
           ],
-          "explanation": "正确的核心关键词为「书面语体」。"
+          "explanation": "修辞术语「排比」是现代汉语中用于增强语势与节奏感的经典修辞手法。"
         }
       ],
       "passThreshold": 0.8
@@ -13251,85 +13259,89 @@
     "subject": "mandarin",
     "unit": 22,
     "lessonNumber": 5,
-    "title": "书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu) (第5讲)",
+    "title": "学术宣言、时代社论与大国气象书面修辞综合叙事篇章 (Comprehensive High-Register Academic Manifesto & Editorial)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：四字熟语（成语）、典故引申、书面双音节词汇转换与文雅辞令修辞。 (第5部分)。",
+    "objective": "融会贯通书面语体（鉴于/旨在/赋予/予以）、学术与政论成语体系、高阶修辞（排比/对偶/层递/隐喻），撰写气魄宏大、辞章斐然、思想深邃的学术宣言与大国科技社论巅峰语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "本课是高级汉语书面语表达的集大成与登峰造极之作，将书面语体、古典成语、政论辞令与华美修辞浑然融为一体：\n\n一、学术宣言与时代社论巅峰篇章脉络：\n1. 宏观时代背景审视（书面语体开篇）：鉴于全球新一轮科技革命与产业变革日新月异，时代赋予广大青年学者前所未有的历史机遇。\n2. 治学求索与精神风骨（学术成语与隐喻）：治学当如滴水穿石，行事当如百川归海；以格物致知之执着探求科学真理，以厚积薄发之定力铸就学术丰碑。\n3. 战略担当与家国情怀（政论成语与对偶）：面对复杂多变的国际竞争，我们必须高瞻远瞩谋全局、自强不息求自立；戮力同心筑伟业，砥砺前行开新局！\n4. 崇高使命与大国气象（排比与宏大比喻升华）：科技是国家繁荣的基石，科技是民族复兴的引擎，科技是人类命运的灯塔！自立自强的中国科技巨轮正高挂云帆、劈波斩浪，驶向光辉灿烂的伟大彼岸！\n\n二、全景式时代学术宣言综合范文赏析：\n- 鉴于当今世界正经历百年未有之大变局，新一轮科技革命正以前所未有的速度重塑全球格局，本次全国青年科学家高峰论坛旨在汇聚四海英才，全面审视科技前沿态势。治学当如滴水穿石，求索当如百川归海。广大青年学者唯有秉持潜心笃志、格物致知之求真精神，恪守淡泊明志、宁静致远之高尚风骨，方能在科技无人区中披荆斩棘、厚积薄发。历史赋予我们崇高使命，时代寄予我们殷切厚望。面对波澜壮阔的时代征程，我们要以高瞻远瞩的眼光统筹全局，以戮力同心的伟力攻坚克难。科技是强国自立的基石，科技是产业升级的引擎，科技是民族复兴的命脉！让我们以自强不息的奋斗精神，推动中国科技创新巨轮破浪前行，在人类文明的浩瀚星空中谱写属于中华民族的壮丽篇章！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的核心语法法则与应用范例 (22.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)' in simple terms to students at the academic seminar."
+          "target": "鉴于新一轮科技革命正以前所未有的速度重塑全球格局，我国科技工作者旨在以自强不息的奋斗铸就科技强国。(Jiànyú xīn yì lún kējì gémìng zhèng yǐ qiánsuǒ-wèiyǒu de sùdù chóngshù quánqiú géjú, wǒguó kējì gōngzuòzhě zhǐzài yǐ zìqiáng-bùxī de fèndòu zhùjiù kējì qiángguó.)",
+          "reading": "[t͡ɕjɛn˥˩.y˥˩ ɕin˥ i˥ lwən˧˥ kʰɤ˥.t͡ɕi˥˩ kɤ˧˥.miŋ˥˩ ʈ͡ʂəŋ˥˩ i˨˩˦ t͡ɕʰjɛn˧˥.swɔ˨˩˦.weɪ̯˥˩.joʊ̯˨˩˦ tɤ su˥˩.tu˥˩ ʈ͡ʂʰʊŋ˧˥.ʂu˥˩ t͡ɕʰyɛn˧˥.t͡ɕʰjoʊ̯˧˥ kɤ˧˥.t͡ɕy˧˥, wɔ˨˩.kwɔ˧˥ kʰɤ˥.t͡ɕi˥˩ kʊŋ˥.t͡swoʊ̯˥˩.ʈ͡ʂɤ˨˩˦ ʈ͡ʂɨ˨˩˦.t͡saɪ̯˥˩ i˨˩˦ t͡sɨ˥˩.t͡ɕʰjaŋ˧˥.pu˥.ɕi˥ tɤ fən˥˩.toʊ̯˥˩ ʈ͡ʂu˥˩.t͡ɕjoʊ̯˥˩ kʰɤ˥.t͡ɕi˥˩ t͡ɕʰjaŋ˧˥.kwɔ˧˥] (Jiàn-yú xīn yì lún kē-jì gé-mìng zhèng yǐ qián-suǒ-wèi-yǒu de sù-dù chóng-shù quán-qiú gé-jú, wǒ-guó kē-jì gōng-zuò-zhě zhǐ-zài yǐ zì-qiáng-bù-xī de fèn-dòu zhù-jiù kē-jì qiáng-guó.)",
+          "translation": "In view of the fact that a new round of technological revolution is reshaping the global landscape at an unprecedented speed, our country's scientific and technological workers aim to forge a science and technology powerhouse through ceaseless self-improvement struggle."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (22.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "治学当如滴水穿石，行事当如百川归海；以格物致知之精神探真理，以厚积薄发之定力攀高峰！(Zhìxué dāng rú dīshuǐ-chuānshí, xíngshì dāng rú bǎichuān-guīhǎi; yǐ géwù-zhìzhī zhī jīngshén tàn zhēnlǐ, yǐ hòujī-bófā zhī dìnglì pān gāofēng!)",
+          "reading": "[ʈ͡ʂɨ˥˩.ɕɥɛ˧˥ tɑŋ˥ ʐu˧˥ ti˥.ʂweɪ̯˨˩.ʈ͡ʂʰwan˥.ʂɨ˧˥, ɕiŋ˧˥.ʂɨ˥˩ tɑŋ˥ ʐu˧˥ paɪ̯˨˩.ʈ͡ʂʰwan˥.kweɪ̯˥.xaɪ̯˨˩˦; i˨˩˦ kɤ˧˥.u˥˩.ʈ͡ʂɨ˥˩.ʈ͡ʂɨ˥ ʈ͡ʂɨ˥ t͡ɕiŋ˥.ʂən˧˥ tʰan˥ ʈ͡ʂən˥.li˨˩˦, i˨˩˦ xoʊ̯˥˩.t͡ɕi˥.pwo˧˥.fa˥ ʈ͡ʂɨ˥ tiŋ˥˩.li˥˩ pʰan˥ kaʊ̯˥.fəŋ˥] (Zhì-xué dāng rú dī-shuǐ-chuān-shí, xíng-shì dāng rú bǎi-chuān-guī-hǎi; yǐ gé-wù-zhì-zhī zhī jīng-shén tàn zhēn-lǐ, yǐ hòu-jī-bó-fā zhī dìng-lì pān gāo-fēng!)",
+          "translation": "Conducting scholarship should be like dripping water piercing stone, acting should be like hundred rivers returning to the sea; explore truth with the spirit of investigating things to extend knowledge, and scale heights with the determination of accumulating profoundly to release powerfully!"
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (22.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "时代赋予青年无限可能，历史寄予学者崇高厚望；唯有戮力同心、砥砺奋进，方能不负时代、不负韶华。(Shídài fùyǔ qīngnián wúxiàn kěnéng, lìshǐ jìyǔ xuézhě chónggāo hòuwàng; wéiyǒu lùlì-tóngxīn, dǐlì-fènjìn, fāng néng bú fù shídài, bú fù sháohuá.)",
+          "reading": "[ʂɨ˧˥.taɪ̯˥˩ fu˥˩.y˨˩˦ t͡ɕʰiŋ˥.njɛn˧˥ u˧˥.ɕjɛn˥˩ kʰɤ˨˩.nɤŋ˧˥, li˥˩.ʂɨ˨˩˦ t͡ɕi˥˩.y˨˩˦ ɕɥɛ˧˥.ʈ͡ʂɤ˨˩˦ ʈ͡ʂʰʊŋ˧˥.kaʊ̯˥ xoʊ̯˥˩.wɑŋ˥˩; weɪ̯˧˥.joʊ̯˨˩˦ lu˥˩.li˥˩.tʰʊŋ˧˥.ɕin˥, ti˨˩.li˥˩.fən˥˩.t͡ɕin˥˩, fɑŋ˥ nɤŋ˧˥ pu˥˩ fu˥˩ ʂɨ˧˥.taɪ̯˥˩, pu˥˩ fu˥˩ ʂaʊ̯˧˥.xwa˧˥] (Shí-dài fù-yǔ qīng-nián wú-xiàn kě-néng, lì-shǐ jì-yǔ xué-zhě chóng-gāo hòu-wàng; wéi-yǒu lù-lì-tóng-xīn, dǐ-lì-fèn-jìn, fāng néng bú fù shí-dài, bú fù sháo-huá.)",
+          "translation": "The era endows youth with infinite possibilities, history places lofty high hopes on scholars; only by uniting efforts with one heart and forging ahead through trials can we not let down the era and not waste our prime years."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (22.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "极目远眺，在波澜壮阔的时代浪潮中，自立自强的中国科技巨轮正高挂云帆、劈波斩浪，驶向民族复兴的光辉彼岸！(Jímù yuǎntiào, zài bōlán-zhuàngkuò de shídài làngcháo zhōng, zìlì-zìqiáng de Zhōngguó kējì jùlún zhèng gāoguà yúnfān, pībō-zhǎnlàng, shǐ xiàng mínzú fùxīng de guānghuī bǐ'àn!)",
+          "reading": "[t͡ɕi˧˥.mu˥˩ jɥɛn˨˩.tʰjaʊ̯˥˩, t͡saɪ̯˥˩ pwo˥.lan˧˥.ʈ͡ʂwaŋ˥˩.kʰwɔ˥˩ tɤ ʂɨ˧˥.taɪ̯˥˩ lɑŋ˥˩.t͡ʂʰaʊ̯˧˥ ʈ͡ʂʊŋ˥, t͡sɨ˥˩.li˥˩.t͡sɨ˥˩.t͡ɕʰjaŋ˧˥ tɤ ʈ͡ʂʊŋ˥.kwɔ˧˥ kʰɤ˥.t͡ɕi˥˩ t͡ɕy˥˩.lwən˧˥ ʈ͡ʂəŋ˥˩ kaʊ̯˥.kwa˥˩ jyn˧˥.fan˥, pʰi˥.pwo˥.ʈ͡ʂan˨˩.lɑŋ˥˩, ʂɨ˨˩˦ ɕjaŋ˥˩ min˧˥.t͡su˧˥ fu˥˩.ɕiŋ˥ tɤ kwaŋ˥.xweɪ̯˥ pi˨˩.an˥˩] (Jí-mù yuǎn-tiào, zài bō-lán-zhuàng-kuò de shí-dài làng-cháo zhōng, zì-lì-zì-qiáng de Zhōng-guó kē-jì jù-lún zhèng gāo-guà yún-fān, pī-bō-zhǎn-làng, shǐ xiàng mín-zú fù-xīng de guāng-huī bǐ-'àn!)",
+          "translation": "Looking as far as the eye can see, amidst the surging tides of the era, the giant ship of Chinese science and technology with self-reliance and self-strengthening is hanging high its cloud sails, cleaving the waves, and sailing toward the glorious other shore of national rejuvenation!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "鉴于旨在书面扬，格物致知治学长；排比对偶势磅礴，劈波斩浪铸辉煌！"
+      ],
+      "culturalNotes": [
+        "本篇章代表了现代汉语高级书面语的最高峰。典雅的文言虚词、庄严的四字成语与磅礴的修辞熔铸为一体，尽显中华文明源远流长的智慧厚度与当代中国的壮丽气魄。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」（第5讲）的标准汉语规范？",
+          "prompt": "在时代学术宣言语篇中，串联「鉴于（宏观背景） -> 格物致知/厚积薄发（治学定力） -> 戮力同心/砥砺前行（政论担当） -> 科技巨轮乘风破浪（修辞升华）」的篇章主线是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的核心语法法则与应用范例 (22.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (22.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (22.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (22.5.w3)"
+            "书面开篇 -> 学术修身 -> 国家战略 -> 宏大意象修辞升华 (Macro-manifesto rhetorical progression)",
+            "身体运动跑操比赛",
+            "买卖物品讨价还价",
+            "全篇没有任何逻辑关联"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "语篇严格遵循从时代背景审视、治学风骨熔铸到国家战略担当与宏大修辞升华的最高范式。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "语篇中「不负时代，不负韶华」中「韶华」的经典含义是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "美好的青春年华与光阴 (Beautiful youth / prime years: 韶华)",
+            "秋天的树叶",
+            "冬天的积雪",
+            "生锈的铁器"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「韶华」是中国传统诗文中指称青春美好年华的经典雅致词汇。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的正式语境下，最准确得体的表达是哪一项？（第22.5题）",
+          "prompt": "请选出下列学术宣言与时代社论中书面语体、成语与修辞融合最完美、立意最高远的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (22.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (22.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (22.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (22.5.x3)"
+            "鉴于当今科技竞争日趋激烈，广大青年学者当以格物致知探真理，以厚积薄发攀高峰；戮力同心攻克关键难关，推动中国创新巨轮劈波斩浪，驶向民族复兴的光辉彼岸！(书面语、学术政论成语与宏大隐喻修辞浑然一体，气吞山河)",
+            "科技竞争很激烈，我们要好好做实验，把船开好，争取复兴。(语言极度贫乏简陋)",
+            "鉴于船劈波斩浪，格物致知被我们做实验。(句式严重破损杂糅)",
+            "旨在大家戮力同心在实验室睡觉。(成语与语境严重背离)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项在现代汉语最高级书面语词汇、经典四字成语与崇高修辞意境的结合上臻于化境。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u22-l5）所要求的高阶语言表达？",
+          "prompt": "在宏大时代叙事中表达乘着东风劈开波浪、勇往直前的核心四字成语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (22.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (22.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (22.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (22.5.y3)"
+            "乘风破浪 / 劈波斩浪 (Ride the wind and cleave the waves: 乘风破浪)",
+            "停滞不前",
+            "畏缩不前",
+            "半途而废"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「乘风破浪 / 劈波斩浪」是表达奋勇开拓、无惧险阻向前发展的经典成语。"
         }
       ]
     },
@@ -13337,25 +13349,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的掌握程度，请选出表述完全正确的标准范句（测试 22-5）：",
+          "prompt": "请选出下列时代学术宣言与大国科技社论综合语篇中词章最斐然、气度最恢宏、境界最高远的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (22.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (22.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (22.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (22.5.z3)"
+            "鉴于新一轮科技革命正在重塑世界格局，时代赋予青年学者无上光荣的历史重托。治学当如滴水穿石，求索当如百川归海。唯有以潜心笃志、格物致知之精神钻研真理，以淡泊明志、宁静致远之风骨坚守冷板凳，方能厚积薄发、披荆斩棘。只要全体科研工作者戮力同心、砥砺前行，中国科技创新的壮丽巨轮必将高挂云帆、乘风破浪，铸就中华民族伟大复兴的永恒辉煌！(全篇书面语精湛典雅，成语对偶排比融为一体，气吞万里，立意高远)",
+            "现在科技发展很快，大家要认真做实验，不怕辛苦，一起把国家建设好，加油努力！(语言极度平庸浅陋)",
+            "鉴于历史重托被赋予，巨轮在滴水穿石。(句式严重混乱杂糅)",
+            "只要淡泊明志，就能劈波斩浪在实验室。(成语逻辑错乱崩溃)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在现代汉语书面语体、成语修辞系统与时代精神的熔铸上达到了当代中国散文与政论文的最高境界。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u22-l5）的核心关键词（例如「书面语体」）：",
+          "prompt": "请输入表达船只乘着强劲风势冲破波浪勇往直前的核心四字成语（例如「」勇毅前行，拼音为 chéngfēng-pòlàng）：",
           "acceptedAnswers": [
-            "书面语体",
-            "书面语体、成",
-            "书面语体、成语与修辞"
+            "乘风破浪",
+            "劈波斩浪"
           ],
-          "explanation": "正确的核心关键词为「书面语体」。"
+          "explanation": "成语「乘风破浪」出自《宋书·宗悫传》，是表达乘势而上、勇往直前的核心经典成语。"
         }
       ],
       "passThreshold": 0.8
