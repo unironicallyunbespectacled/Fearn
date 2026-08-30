@@ -14265,85 +14265,89 @@
     "subject": "arabic",
     "unit": 24,
     "lessonNumber": 1,
-    "title": "المراسلات الرسمية والأسلوب الإداري (Official Correspondence) (الدرس 1)",
+    "title": "هيكلية الخطاب الرسمي والتحايا الافتتاحية والألقاب (Official Letter Structure, Greetings & Honorifics)",
     "level": "B2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: صياغة الخطابات الرسمية، المذكرات الدبلوماسية، والتقارير الإدارية بأسلوب فصيح. (الجزء 1).",
+    "objective": "إتقان هيكلية المراسلات الرسمية والخطابات الإدارية في اللغة العربية الفصحى، واستخدام الألقاب التشريفية، وصيغ الترويسة والتحايا الافتتاحية الدبلوماسية والمؤسسية.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تمتلك المراسلات الرسمية والإدارية في اللغة العربية الفصحى تقاليد بلاغية وأعرافاً بروتوكولية دقيقة تعكس الاحترام والوضوح المؤسسي:\n\nأولاً: أركان الترويسة والافتتاح في الخطاب الرسمي:\n1.【التَّرْوِيسَةُ وَالتَّارِيخُ (Header & Date)】:\n   - اسم المؤسسة أو الوزارة في أعلى الصفحة: «المَمْلَكَةُ العَرَبِيَّةُ السُّعُودِيَّةُ - وِزَارَةُ التَّعْلِيمِ».\n   - الرقم الإشاري والتاريخ: «الرَّقْمُ الإِشَارِيُّ: (...)، التَّارِيخُ: 15 رَبِيعِ الأَوَّلِ 1448هـ / المُوافِقُ (...)».\n2.【المُخَاطَبُ وَالأَلْقَابُ التَّشْرِيفِيَّةُ (Addressee & Honorifics)】:\n   - «**مَعَالِي وَزِيرِ (...) المُحْتَرَمِ**» (His Excellency the Minister - للأوزراء ورؤساء الهيئات العليا).\n   - «**سَعَادَةَ السَّفِيرِ / سَعَادَةَ وَكِيلِ الوِزَارَةِ المُبَجَّلِ**» (His Excellency the Ambassador / Undersecretary).\n   - «**عِطَافَةَ / سِيَادَةَ المُدِيرِ العَامِّ المُحْتَرَمِ**» (To the Director General).\n   - «**فَضِيلَةَ الشَّيْخِ / القَاضِي**» (للعلماء والقضاة الشرعيين).\n3.【التَّحِيَّةُ الِافْتِتَاحِيَّةُ (Opening Greeting)】:\n   - «**السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، وَبَعْدُ،**» أو «**تَحِيَّةً طَيِّبَةً وَبَعْدُ،**» (تُنصب تحيةً على المفعولية المطلقة بفعل محذوف تقديره: أُحَيِّيكُمْ تَحِيَّةً).\n\nثانياً: قوالب التمهيد والإحالة (Reference & Opening Templates):\n- «**يَسُرُّنِي أَنْ أَبْعَثَ إِلَى سَعَادَتِكُمْ بِخَالِصِ التَّحِيَّاتِ...**».\n- «**إِشَارَةً إِلَى خِطَابِكُمْ رَقْمَ (...) بِتَارِيخِ (...) بِشَأْنِ...**» (In reference to your letter no... regarding...).\n- «**بِنَاءً عَلَى المُرَاسَلَاتِ السَّابِقَةِ المُتَبَادَلَةِ بَيْنَ الطَّرَفَيْنِ...**».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)» بأسلوب أكاديمي دقيق (24.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المراسلات الرسمية والأسلوب الإداري (Official Correspondence)' to students in an accurate academic style."
+          "target": "مَعَالِي وَزِيرِ الصِّحَّةِ المُحْتَرَمِ، السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، وَبَعْدُ؛ يَسُرُّنِي أَنْ أَعْرِضَ عَلَيْكُمْ مُقْتَرَحَ المَشْرُوعِ.(Maʿālī wazīri aṣ-ṣiḥḥati al-muḥtaram, as-salāmu ʿalaykum wa-raḥmatu Allāhi wa-barakātuh, wa-baʿd; yasurrunī an aʿriḍa ʿalaykum muqtaraḥa al-mashrūʿ.)",
+          "reading": "[ma.ʕaː.liː wa.ziː.ri‿sˤ.sˤiħ.ħa.ti‿l.muħ.ta.ram, ʔas.sa.laː.mu ʕa.laj.kum wa.raħ.ma.tu‿l.laː.hi wa.ba.ra.kaː.tuh, wa.baʕd; ja.sur.ru.niː ʔan ʔaʕ.ri.dˤa ʕa.laj.kum muq.ta.ra.ħa‿l.maʃ.ruːʕ] (Ma-ʿā-lī wa-zī-ri aṣ-ṣiḥ-ḥa-ti al-muḥ-ta-ram, as-sa-lā-mu ʿa-lay-kum wa-raḥ-ma-tu Al-lā-hi wa-ba-ra-kā-tuh, wa-baʿd; ya-sur-ru-nī an aʿ-ri-ḍa ʿa-lay-kum muq-ta-ra-ḥa al-mash-rūʿ.)",
+          "translation": "His Excellency the Minister of Health, peace and blessings of God be upon you, thereafter; it pleases me to present to you the project proposal."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (24.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "سَعَادَةَ المَسْؤُولِ العَامِّ، إِشَارَةً إِلَى كِتَابِكُمُ السَّابِقِ، نُفِيدُكُمْ بِاكْتِمَالِ جَمِيعِ الإِجْرَاءَاتِ النِّظَامِيَّةِ.(Saʿādata al-masʾūli al-ʿāmm, ishāratan ilā kitābikum as-sābiq, nufīdukum bi-ktimāli jamīʿi al-ijrāʾāti an-niẓāmiyyah.)",
+          "reading": "[sa.ʕaː.da.ta‿l.mas.ʔuː.li‿l.ʕaːmm, ʔi.ʃaː.ra.tan ʔi.laː ki.taː.bi.ku.mu‿s.saː.biq, nu.fiː.du.kum bik.ti.maː.li ʒa.miː.ʕi‿l.ʔiʒ.raː.ʔaː.ti‿n.ni.zˤaː.mij.jah] (Sa-ʿā-da-ta al-mas-ʾū-li al-ʿāmm, i-shā-ra-tan i-lā ki-tā-bi-kum as-sā-biq, nu-fī-du-kum bi-ik-ti-mā-li ja-mī-ʿi al-ij-rā-ʾā-ti an-ni-ẓā-miy-yah.)",
+          "translation": "Your Honor the General Official, in reference to your previous letter, we inform you of the completion of all statutory procedures."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (24.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "المَوْضُوعُ: طَلَبُ المُوافَقَةِ عَلَى تَنْظِيمِ نَدْوَةٍ دَوْلِيَّةٍ حَوْلَ اللُّغَةِ العَرَبِيَّةِ وَالتَّقْنِيَاتِ الحَدِيثَةِ.(Al-mawḍūʿ: ṭalabu al-muwāfaqati ʿalā tanẓīmi nadwatin dawliyyatin ḥawla al-lughati al-ʿarabiyyati wa-at-tiqniyāti al-ḥadīthah.)",
+          "reading": "[ʔal.maw.dˤuːʕ: tˤa.la.bu‿l.mu.waː.fa.qa.ti ʕa.laː tan.zˤiː.mi nad.wa.tin daw.lij.ja.tin ħaw.la‿l.lu.ɣa.ti‿l.ʕa.ra.bij.ja.ti wat.tiq.ni.jaː.ti‿l.ħa.diː.θah] (Al-maw-ḍūʿ: ṭa-la-bu al-mu-wā-fa-qa-ti ʿa-lā tan-ẓī-mi nad-wa-tin daw-liy-ya-tin ḥaw-la al-lu-gha-ti al-ʿa-ra-biy-ya-ti wa-at-tiq-ni-yā-ti al-ḥa-dī-thah.)",
+          "translation": "Subject: Request for approval to organize an international symposium on the Arabic language and modern technologies."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (24.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تَحِيَّةً طَيِّبَةً وَبَعْدُ؛ يُشَرِّفُنِي أَنْ أَرْفَعَ إِلَى مَقَامِكُمُ السَّامِي هٰذَا التَّقْرِيرَ الدَّوْرِيَّ الشَّامِلَ.(Taḥiyyatan ṭayyibatan wa-baʿd; yusharrifunī an arfaʿa ilā maqāmikumu as-sāmī hādhā at-taqrīra ad-dawriyya ash-shāmil.)",
+          "reading": "[ta.ħij.ja.tan tˤaj.ji.ba.tan wa.baʕd; ju.ʃar.ri.fu.niː ʔan ʔar.fa.ʕa ʔi.laː ma.qaː.mi.ku.mu‿s.saː.miː haː.ðaː‿t.taq.riː.ra‿d.daw.rij.ja‿ʃ.ʃaː.mil] (Ta-ḥiy-ya-tan ṭay-yi-ba-tan wa-baʿd; yu-shar-ri-fu-nī an ar-fa-ʿa i-lā ma-qā-mi-ku-mu as-sā-mī hā-dhā at-taq-rī-ra ad-daw-riy-ya ash-shā-mil.)",
+          "translation": "With cordial greetings, thereafter; it honors me to submit to your esteemed presence this comprehensive periodic report."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مَعَالِي وَسَعَادَةُ فِي مَطْلَعِ الخِطَابْ، تَرْتِيبٌ إِدَارِيٌّ يَسْتَوْفِي الجَوَابْ!"
+      ],
+      "culturalNotes": [
+        "الألقاب الإدارية في الثقافة العربية المعاصرة تخضع لبروتوكولات دولة دقيقة تميز بين رتب الوزراء (معالي)، السفراء والوكلاء (سعادة)، القضاة (فضيلة)، والملوك والرؤساء (جلالة وفخامة وسُموّ)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)» (الدرس 1)؟",
+          "prompt": "ما هو اللقب البروتوكولي الفصيح المعتمد لمخاطبة الوزراء ورؤساء الهيئات الكبرى في الخطابات الرسمية؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)» بأسلوب أكاديمي دقيق (24.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (24.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (24.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (24.1.w3)"
+            "مَعَالِي (His Excellency - Ma'ali)",
+            "يا زميلي في العمل",
+            "صديقي العزيز",
+            "أستاذي بدون لقب"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "اللقب البروتوكولي المعتمد للوزراء في المراسلات الرسمية هو «مَعَالِي» (معالي الوزير المحترم)."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما الإعراب النحوي لكلمة «تَحِيَّةً» في التحية الافتتاحية: «تَحِيَّةً طَيِّبَةً وَبَعْدُ»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "مَفْعُولٌ مُطْلَقٌ مَنْصُوبٌ لِفِعْلٍ مَحْذُوفٍ تَقْدِيرُهُ (أُحَيِّيكُمْ) (Absolute object of omitted verb)",
+            "مبتدأ مرفوع بالضمة",
+            "فاعل مرفوع",
+            "مضاف إليه مجرور"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«تَحِيَّةً» مفعول مطلق منصوب لفعل محذوف وجوباً تقديره: «أُحَيِّيكُمْ تَحِيَّةً»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u24-l1):",
+          "prompt": "اختر الديباجة الافتتاحية المطابقة للمعايير الإدارية واللغوية الفصيحة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (24.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (24.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (24.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (24.1.x3)"
+            "«سَعَادَةَ مُدِيرِ عَامِّ الشُّؤُونِ الإِدَارِيَّةِ وَالمَالِيَّةِ المُحْتَرَمِ، السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، وَبَعْدُ:» ('Your Honor the Director General of Administrative & Financial Affairs, peace and blessings of God be upon you, thereafter:')",
+            "الى المدير المالي مرحبا بك كيف احوالك اليوم؟",
+            "موضوع الخطاب هو فلوس ورواتب سريعة جدا",
+            "ادارة شؤون مدير عام سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "هذه الديباجة تجمع بين اللقب الصحيح («سَعَادَةَ مُدِيرِ عَامِّ...»)، والتحية الشرعية التامة، والربط الإداري («وَبَعْدُ»)."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)»؟",
+          "prompt": "ما معنى جملة «إِشَارَةً إِلَى خِطَابِكُمْ رَقْمَ...» في مستهل المعاملات؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (24.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (24.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (24.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (24.1.y3)"
+            "الإِحَالَةُ وَالرَّبْطُ بِالمُعَامَلَةِ السَّابِقَةِ ذَاتِ الرَّقْمِ المَذْكُورِ (Referring & linking to previous letter)",
+            "إلغاء المعاملة السابقة تماماً",
+            "البدء في موضوع جديد كلياً بلا علاقة",
+            "إشارة ضوئية في الطريق"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«إشارةً إلى...» عبارة إسناد إدارية لربط المعاملة الحالية بسجل المراسلات السابقة وتاريخها."
         }
       ]
     },
@@ -14351,24 +14355,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 24-1)؟",
+          "prompt": "اختر النموذج الافتتاحي الأكمل والأرقى بلاغة لخطاب رسمي موجه إلى رئيس الهيئة الإدارية العليا:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (24.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (24.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (24.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (24.1.z3)"
+            "«مَعَالِي رَئِيسِ الهَيْئَةِ المَلَكِيَّةِ المُحْتَرَمِ، السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، وَبَعْدُ؛ إِشَارَةً إِلَى كِتَابِكُمُ الكَرِيمِ رَقْمَ (104) بِتَارِيخِ 10 رَجَبٍ، يَسُرُّنِي أَنْ أَرْفَعَ إِلَى مَعَالِيكُمْ دِرَاسَةَ الجَدْوَى المَطْلُوبَةَ». ('His Excellency President of the Royal Commission, peace and blessings of God be upon you, thereafter; in reference to your generous letter no. (104) dated 10 Rajab, it pleases me to submit to Your Excellency the requested feasibility study.')",
+            "يا رئيس الهيئة نبعث لك الورقة المطلوبة بدون ارقام ولا تواريخ.",
+            "افتتاحية خطاب رسمي معالي رئيس اشارة الى كتاب سكون فتحة ضمة.",
+            "وصل الخطاب ونحن نرفض الرد عليه."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النموذج يلتزم بكافة الضوابط الإدارية: اللقب الرسمي («مَعَالِي رَئِيسِ...»)، السلام المكتمل، الإحالة الرقمية والتاريخية الدقيقة، وأسلوب التقديم المهذب («أَرْفَعَ إِلَى مَعَالِيكُمْ»)."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u24-l1) باللغة العربية (مثال: «المراسلات»):",
+          "prompt": "اكتب باللغة العربية الفصحى الكلمة التي تفصل بين التحية الافتتاحية ومتن الخطاب الرسمي (اكتب: «وبعد»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المراسلات",
-            "المراسلات"
+            "وبعد",
+            "وَبَعْدُ",
+            "وَبَعْد",
+            "وبعدُ"
           ],
-          "explanation": "المصطلح الصحيح هو «المراسلات»."
+          "explanation": "الكلمة هي «وبعدُ» (أَمَّا بَعْدُ / وَبَعْدُ، وتسمى فصل الخطاب)."
         }
       ],
       "passThreshold": 0.8
@@ -14379,85 +14385,89 @@
     "subject": "arabic",
     "unit": 24,
     "lessonNumber": 2,
-    "title": "المراسلات الرسمية والأسلوب الإداري (Official Correspondence) (الدرس 2)",
+    "title": "صياغة متون الطلبات الإدارية والمذكرات الداخلية (Drafting Administrative Requests & Internal Memos)",
     "level": "B2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: صياغة الخطابات الرسمية، المذكرات الدبلوماسية، والتقارير الإدارية بأسلوب فصيح. (الجزء 2).",
+    "objective": "إتقان صياغة متون المعاملات والطلبات الإدارية، والمذكرات الداخلية (Internal Memos)، وتوظيف التراكيب الإدارية الفصيحة المبنية للمجهول والمسندة للمصلحة العامة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يتطلب متن الخطاب الإداري والمذكرة الداخلية إيجازاً محكماً يحدد الهدف بوضوح دون حشو:\n\nأولاً: قوالب صياغة الطلبات الإدارية (Administrative Requests):\n1.【صِيَغُ الرَّجَاءِ وَالتَّفَضُّلِ (Deference & Request Formulas)】:\n   - «**نَرْجُو مِنْ سَعَادَتِكُمْ التَّكَرُّمَ بِالمُوَافَقَةِ عَلَى...**» (We request your honor to kindly approve...).\n   - «**يُرْجَى التَّفَضُّلُ بِالِاطِّلَاعِ وَتَوْجِيهِ مَنْ يَلْزَمُ بِـ...**» (Please kindly review and direct whoever is necessary to...).\n2.【صِيَغُ الإِحَاطَةِ وَالإِفَادَةِ (Notification Formulas)】:\n   - «**نُحِيطُ سَعَادَتَكُمْ عِلْمًا بِأَنَّ الإِدَارَةَ قَدْ أَتَمَّتْ...**» (We inform your honor that the administration has completed...).\n   - «**نُفِيدُكُمْ بِأَنَّ المَوْعِدَ المُحَدَّدَ لِـ(...) سَيَكُونُ يَوْمَ...**».\n3.【التَّسْوِيغُ بِالمَصْلَحَةِ العَامَّةِ (Justification by Public Interest)】:\n   - «**بِنَاءً عَلَى مُقْتَضَيَاتِ مَصْلَحَةِ العَمَلِ...**» (Based on work interest requirements...).\n   - «**حِرْصًا عَلَى تَطْوِيرِ الأَدَاءِ وَتَحْسِينِ جَوْدَةِ الخِدْمَاتِ...**».\n\nثانياً: هيكل المذكرة الداخلية (Internal Memo Structure):\n- 【مُذَكَّرَةٌ دَاخِلِيَّةٌ / عَرْضٌ إِدَارِيٌّ】:\n  * مِنْ: (مُدِيرِ قِسْمِ تَقْنِيَةِ المَعْلُومَاتِ).\n  * إِلَى: (المُدِيرِ التَّنْفِيذِيِّ لِلشَّرِكَةِ).\n  * المَوْضُوعُ: (تَحْدِيثُ البِنْيَةِ الرَّقْمِيَّةِ).\n  * المَتْنُ: عَرْضُ الوَاقِعِ + التَّحْلِيلُ + التَّوْصِيَاتُ الخِتَامِيَّةُ.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)» بأسلوب أكاديمي دقيق (24.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المراسلات الرسمية والأسلوب الإداري (Official Correspondence)' to students in an accurate academic style."
+          "target": "نَرْجُو مِنْ سَعَادَتِكُمْ التَّكَرُّمَ بِالمُوَافَقَةِ عَلَى خُطَّةِ التَّدْرِيبِ السَّنَوِيَّةِ لِمَنْسُوبِي الإِدَارَةِ.(Narjū min saʿādatikum at-takarruma bi-al-muwāfaqati ʿalā khuṭṭati at-tadrībi as-sanawiyyati li-mansūbī al-idārah.)",
+          "reading": "[nar.ʒuː min sa.ʕaː.da.ti.kum ʔat.ta.kar.ru.ma bil.mu.waː.fa.qa.ti ʕa.laː xutˤ.tˤa.ti‿t.tad.riː.bi‿s.sa.na.wij.ja.ti li.man.suː.biː‿l.ʔi.daː.rah] (Nar-jū min sa-ʿā-da-ti-kum at-ta-kar-ru-ma bi-al-mu-wā-fa-qa-ti ʿa-lā khuṭ-ṭa-ti at-tad-rī-bi as-sa-na-wiy-ya-ti li-man-sū-bī al-i-dā-rah.)",
+          "translation": "We request your honor to kindly approve the annual training plan for the department's personnel."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (24.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "بِنَاءً عَلَى مُقْتَضَيَاتِ مَصْلَحَةِ العَمَلِ، نَقْتَرِحُ تَشْكِيلَ لَجْنَةٍ مُخْتَصَّةٍ لِمُرَاجَعَةِ اللَّوَائِحِ الدَّاخِلِيَّةِ.(Bināʾan ʿalā muqtaḍayāti maṣlaḥati al-ʿamal, naqtariḥu tashkīla lajnatin mukhtaṣṣatin li-murājaʿati al-lawāʾiḥi ad-dākhiliyyah.)",
+          "reading": "[bi.naː.ʔan ʕa.laː muq.ta.dˤa.jaː.ti masˤ.la.ħa.ti‿l.ʕa.mal, naq.ta.ri.ħu taʃ.kiː.la laʒ.na.tin mux.tasˤ.sˤa.tin li.mu.raː.ʒa.ʕa.ti‿l.la.waː.ʔi.ħi‿d.daː.xi.lij.jah] (Bi-nā-ʾan ʿa-lā muq-ta-ḍa-yā-ti maṣ-la-ḥa-ti al-ʿa-mal, naq-ta-ri-ḥu tash-kī-la laj-na-tin mukh-taṣ-ṣa-tin li-mu-rā-ja-ʿa-ti al-la-wā-ʾi-ḥi ad-dā-khi-liy-yah.)",
+          "translation": "Pursuant to work interest requirements, we propose forming a specialized committee to review internal regulations."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (24.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "مُذَكَّرَةٌ دَاخِلِيَّةٌ: نُحِيطُكُمْ عِلْمًا بِبَدْءِ العَمَلِ بِالنِّظَامِ الإِلِكْتُرُونِيِّ الجَدِيدِ اعْتِبَارًا مِنَ الأَحَدِ.(Mudhakkiratun dākhiliyyah: nuḥīṭukum ʿilman bi-badʾi al-ʿamali bi-an-niẓāmi al-iliktrūniyyi al-jadīdi iʿtibāran min al-aḥad.)",
+          "reading": "[mu.ðak.ki.ra.tun daː.xi.lij.jah: nu.ħiː.tˤu.kum ʕil.man bi.bad.ʔi‿l.ʕa.ma.li bin.ni.zˤaː.mi‿l.ʔi.lik.truː.nij.ji‿l.ʒa.diː.di ʕti.baː.ran mi.na‿l.ʔa.ħad] (Mu-dhak-ki-ra-tun dā-khi-liy-yah: nu-ḥī-ṭu-kum ʿil-man bi-bad-ʾi al-ʿa-ma-li bi-an-ni-ẓā-mi al-i-lik-trū-niy-yi al-ja-dī-di iʿ-ti-bā-ran min al-a-ḥad.)",
+          "translation": "Internal Memo: We inform you of the commencement of work with the new electronic system effective Sunday."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (24.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يُرْجَى التَّفَضُّلُ بِالِاطِّلَاعِ وَاتِّخَاذِ الإِجْرَاءِ اللَّازِمِ حِيَالَ التَّوْصِيَاتِ الوَارِدَةِ أَدْنَاهُ.(Yurjā at-tafaḍḍulu bi-al-iṭṭilāʿi wa-ittikhādhi al-ijrāʾi al-lāzimi ḥiyāla at-tawṣiyāti al-wāridati adnāh.)",
+          "reading": "[jur.ʒaː‿t.ta.fadˤ.dˤu.lu bil.ʔitˤ.tˤi.laː.ʕi wat.ti.xaː.ði‿l.ʔiʒ.raː.ʔi‿l.laː.zi.mi ħi.jaː.la‿t.taw.sˤi.jaː.ti‿l.waː.ri.da.ti ʔad.naːh] (Yur-jā at-ta-faḍ-ḍu-lu bi-al-iṭ-ṭi-lā-ʿi wa-it-ti-khā-dhi al-ij-rā-ʾi al-lā-zi-mi ḥi-yā-la at-taw-ṣi-yā-ti al-wā-ri-da-ti ad-nāh.)",
+          "translation": "Please kindly review and take the necessary action regarding the recommendations mentioned below."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "نَرْجُو التَّكَرُّمَ وَالتَّفَضُّلَ فِي المَقَالْ، أَدَبُ الإِدَارَةِ غَايَةٌ فِي الِاكْتِمَالْ!"
+      ],
+      "culturalNotes": [
+        "الأسلوب الإداري العربي يوازن ببراعة بين الحزم المؤسسي والتهذيب الجم، باستخدام صيغ الطلب غير المباشرة (مثل: نرجو التكرم، يرجى التفضل) لصيانة وقار المخاطب."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)» (الدرس 2)؟",
+          "prompt": "ما هو التعبير الإداري الفصيح والمحترم لطلب موافقة المدير على مشروع ما؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)» بأسلوب أكاديمي دقيق (24.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (24.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (24.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (24.2.w3)"
+            "«نَرْجُو مِنْ سَعَادَتِكُمْ التَّكَرُّمَ بِالمُوَافَقَةِ عَلَى...» (We request your honor to kindly approve...)",
+            "وافق لنا على هذا المشروع بسرعة الآن",
+            "لا ترفض المشروع من فضلك نحن بحاجة إليه",
+            "مشروعنا جميل ويجب أن تقبله فوراً"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«نَرْجُو مِنْ سَعَادَتِكُمْ التَّكَرُّمَ بِالمُوَافَقَةِ...» هي الصياغة الإدارية المعيارية الأكثر تهذيباً ومؤسسية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ماذا تعني عبارة «بِنَاءً عَلَى مُقْتَضَيَاتِ مَصْلَحَةِ العَمَلِ» في التبرير الإداري؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "تَبْرِيرُ القَرَارِ بِمَا تَسْتَوْجِبُهُ مَصْلَحَةُ المُؤَسَّسَةِ وَتَطْوِيرُ الأَدَاءِ (Justified by organizational interest & performance)",
+            "رغبة شخصية للموظف بلا سبب",
+            "بناء عمارة جديدة للشركة",
+            "انتهاء وقت الدوام الرسمي"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«مقتضيات مصلحة العمل» هي الأساس الموضوعي لاتخاذ القرارات وإعادة تنظيم الهياكل والمشاريع."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u24-l2):",
+          "prompt": "اختر العبارة الإدارية السليمة للإحاطة بقرار جديد داخل المذكرة الداخلية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (24.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (24.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (24.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (24.2.x3)"
+            "نُحِيطُ جَمِيعَ المَنْسُوبِينَ عِلْمًا بِأَنَّ مَوْعِدَ تَقْيِيمِ الأَدَاءِ السَّنَوِيِّ سَيَبْدَأُ الأُسْبُوعَ القَادِمَ. (We inform all staff that the annual performance appraisal date will start next week.)",
+            "اسمعوا يا موظفين سوف نختبركم كلكم الاسبوع القادم",
+            "تقييم الموظفين ورقة وقلم في المكتب",
+            "منسوبين علم اداء سنوي سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«نُحِيطُ جَمِيعَ المَنْسُوبِينَ عِلْمًا بِأَنَّ...» هو الأسلوب الإداري الرصين للتعاميم والمذكرات."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)»؟",
+          "prompt": "ما معنى كلمة «مَنْسُوبِي الإِدَارَةِ» في السياق المؤسسي؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (24.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (24.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (24.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (24.2.y3)"
+            "مُوَظَّفِي الإِدَارَةِ وَالعَامِلِينَ فِيهَا (Staff, personnel and employees of department)",
+            "الأشخاص الذين يزورون الإدارة من الخارج",
+            "الملفات الورقية القديمة",
+            "نسبة الأرباح المالية"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«مَنْسُوبُو المؤسسة أو الإدارة» هم الموظفون والعاملون المنتسبون إليها رسمياً."
         }
       ]
     },
@@ -14465,24 +14475,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 24-2)؟",
+          "prompt": "اختر متن المذكرة الإدارية الأكثر اكتمالاً ودقة في عرض الحاجة المؤسسية ورفع التوصيات:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (24.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (24.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (24.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (24.2.z3)"
+            "«نَظَرًا لِتَوَسُّعِ أَنْشِطَةِ الشَّرِكَةِ، وَحِرْصًا عَلَى رَفْعِ كَفَاءَةِ التَّشْغِيلِ، نَرْجُو مِنْ سَعَادَتِكُمْ التَّكَرُّمَ بِالمُوَافَقَةِ عَلَى اسْتِحْدَاثِ قِسْمٍ لِضَمَانِ الجَوْدَةِ، حَيْثُ يُرْجَى التَّفَضُّلُ بِالِاطِّلَاعِ عَلَى التَّقْرِيرِ المُرْفَقِ وَاعْتِمَادِ الهَيْكَلِ التَّنْظِيمِيِّ المَقْتَرَحِ». ('In view of expansion of company activities, and out of keenness to raise operating efficiency, we request your honor to kindly approve establishing a quality assurance department, where please kindly review the attached report and approve the proposed organizational structure.')",
+            "الشركة توسعت كثيرا ونريد قسما جديدا ومكتبا كبيرا بسرعة.",
+            "مذكرة ادارية كفاءة تشغيل ضمان جودة هيكل تنظيمي سكون فتحة ضمة.",
+            "رفض الموظفون العمل وطالبوا بزيادة الرواتب فقط."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "المتن يجمع بين: التعليل المقنع («نَظَرًا لِتَوَسُّعِ...»، «وَحِرْصًا عَلَى...»)، صيغة الطلب المهذب («نَرْجُو مِنْ سَعَادَتِكُمْ التَّكَرُّمَ بِالمُوَافَقَةِ»)، والإحالة إلى المرفقات («يُرْجَى التَّفَضُّلُ بِالِاطِّلَاعِ»)."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u24-l2) باللغة العربية (مثال: «المراسلات»):",
+          "prompt": "اكتب باللغة العربية الفصحى المصطلح الذي يطلق على الخطاب الرسمي المتبادل بين الأقسام داخل المؤسسة الواحدة (اكتب: «مذكرة داخلية» أو «المذكرة الداخلية»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المراسلات",
-            "المراسلات"
+            "مذكرة داخلية",
+            "المذكرة الداخلية",
+            "مذكره داخليه",
+            "المذكره الداخليه",
+            "مُذَكَّرَةٌ دَاخِلِيَّةٌ",
+            "مُذَكَّرَة دَاخِلِيَّة"
           ],
-          "explanation": "المصطلح الصحيح هو «المراسلات»."
+          "explanation": "المصطلح هو «مذكرة داخلية» (Internal Memo)."
         }
       ],
       "passThreshold": 0.8
@@ -14493,85 +14507,89 @@
     "subject": "arabic",
     "unit": 24,
     "lessonNumber": 3,
-    "title": "المراسلات الرسمية والأسلوب الإداري (Official Correspondence) (الدرس 3)",
+    "title": "صياغة محاضر الاجتماعات والقرارات التنفيذية (Meeting Minutes & Executive Decisions)",
     "level": "B2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: صياغة الخطابات الرسمية، المذكرات الدبلوماسية، والتقارير الإدارية بأسلوب فصيح. (الجزء 3).",
+    "objective": "إتقان تدوين محاضر الاجتماعات الرسمية (Minutes of Meetings)، وتوثيق الحضور والغياب، وصياغة المواد القانونية والقرارات التنفيذية المعتمدة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تدوين محاضر الاجتماعات وصياغة القرارات التنفيذية يعد من أرقى الفنون الإدارية لتوثيق المسؤوليات المؤسسية:\n\nأولاً: أركان محضر الاجتماع الرسمي (Meeting Minutes Structure):\n1.【دِيبَاجَةُ الِانْعِقَادِ】:\n   - «**عُقِدَ اجْتِمَاعُ مَجْلِسِ الإِدَارَةِ فِي يَوْمِ (...) المُوافِقِ (...) فِي تَمَامِ السَّاعَةِ (...) بِرِئَاسَةِ (...)**».\n2.【إِثْبَاتُ الحُضُورِ وَالِاعْتِذَارِ】:\n   - «**حَضَرَ الِاجْتِمَاعَ كُلٌّ مِنْ: (...)، وَاعْتَذَرَ عَنِ الحُضُورِ: (...) بِعُذْرٍ مَقْبُولٍ**».\n3.【جَدْوَلُ الأَعْمَالِ وَالمُدَاوَلَاتِ】:\n   - «**نَاقَشَ المَجْلِسُ البُنُودَ المُدْرَجَةَ عَلَى جَدْوَلِ الأَعْمَالِ كَالتَّالِي...**».\n\nثانياً: صياغة القرارات الإدارية والتنفيذية (Executive Decisions):\n- الديباجة القانونية: «**بِنَاءً عَلَى الصَّلَاحِيَاتِ المَمْنُوحَةِ لَنَا نِظَامًا، قَرَّرْنَا مَا يَلِي:**».\n- بنية المواد المرقمة:\n  * «**المَادَّةُ الأُولَى:** يُعْتَمَدُ تَقْرِيرُ اللَّجْنَةِ المَالِيَّةِ لِلرُّبْعِ السَّنَوِيِّ الثَّالِثِ».\n  * «**المَادَّةُ الثَّانِيَةُ:** يُكَلَّفُ قِسْمُ المَوَارِدِ البَشَرِيَّةِ بِمُتَابَعَةِ تَنْفِيذِ اللَّائِحَةِ».\n  * «**المَادَّةُ الثَّالِثَةُ:** يُبَلَّغُ هٰذَا القَرَارُ لِمَنْ يَلْزَمُ لِإِنْفَاذِ مُقْتَضَاهُ، وَيُعْمَلُ بِهِ مِنْ تَارِيخِ صُدُورِهِ».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)» بأسلوب أكاديمي دقيق (24.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المراسلات الرسمية والأسلوب الإداري (Official Correspondence)' to students in an accurate academic style."
+          "target": "عُقِدَ الِاجْتِمَاعُ بِرِئَاسَةِ رَئِيسِ المَجْلِسِ، وَنُوقِشَتِ البُنُودُ المَالِيَّةُ بِكُلِّ شَفَافِيَّةٍ وَتَفْصِيلٍ.(ʿuqida al-ijtimāʿu bi-riʾāsati raʾīsi al-majlisi, wa-nūqishati al-bunūdu al-māliyyatu bi-kulli shaffāfiyyatin wa-tafṣīl.)",
+          "reading": "[ʕu.qi.da‿l.ʔiʒ.ti.maː.ʕu bi.ri.ʔaː.sa.ti ra.ʔiː.si‿l.maʒ.li.si, wa.nuː.qi.ʃa.ti‿l.bu.nuː.du‿l.maː.lij.ja.tu bi.kul.li ʃaf.faː.fij.ja.tin wa.taf.sˤiːl] (ʿU-qi-da al-ij-ti-mā-ʿu bi-ri-ʾā-sa-ti ra-ʾī-si al-maj-li-si, wa-nū-qi-sha-ti al-bu-nū-du al-mā-liy-ya-tu bi-kul-li shaf-fā-fiy-ya-tin wa-taf-ṣīl.)",
+          "translation": "The meeting was held under the chairmanship of the Board President, and financial clauses were discussed with all transparency and detail."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (24.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "قَرَّرَ المَجْلِسُ بِالإِجْمَاعِ اعْتِمَادَ مِيزَانِيَّةِ المَشَارِيعِ التَّطْوِيرِيَّةِ لِلْعَامِ المَالِيِّ الجَدِيدِ.(Qarrara al-majlisu bi-al-ijmāʿi iʿtimāda mīzāniyyati al-mashārīʿi at-taṭwīriyyati li-l-ʿāmi al-māliyyi al-jadīd.)",
+          "reading": "[qar.ra.ra‿l.maʒ.li.su bil.ʔiʒ.maː.ʕi ʕti.maː.da miː.zaː.nij.ja.ti‿l.ma.ʃaː.riː.ʕi‿t.tatˤ.wiː.rij.ja.ti lil.ʕaː.mi‿l.maː.lij.ji‿l.ʒa.diːd] (Qar-ra-ra al-maj-li-su bi-al-ij-mā-ʿi iʿ-ti-mā-da mī-zā-niy-ya-ti al-ma-shā-rī-ʿi at-taṭ-wī-riy-ya-ti lil-ʿā-mi al-mā-liy-yi al-ja-dīd.)",
+          "translation": "The council unanimously decided to approve the development projects budget for the new fiscal year."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (24.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "المَادَّةُ الثَّانِيَةُ: يُكَلَّفُ الأُسْتَاذُ طَارِقٌ بِرِئَاسَةِ فَرِيقِ العَمَلِ المُكَلَّفِ بِالتَّنْفِيذِ المَيْدَانِيِّ.(Al-māddatu ath-thāniyah: yukallafu al-ustādhu Ṭāriqun bi-riʾāsati farīqi al-ʿamali al-mukallafi bi-at-tanfīdhi al-maydāniyy.)",
+          "reading": "[ʔal.maːd.da.tu‿θ.θaː.ni.jah: ju.kal.la.fu‿l.ʔus.taː.ðu tˤaː.ri.qun bi.ri.ʔaː.sa.ti fa.riː.qi‿l.ʕa.ma.li‿l.mu.kal.la.fi bit.tan.fiː.ði‿l.maj.daː.nijj] (Al-mād-da-tu ath-thā-ni-yah: yu-kal-la-fu al-us-tā-dhu Ṭā-ri-qun bi-ri-ʾā-sa-ti fa-rī-qi al-ʿa-ma-li al-mu-kal-la-fi bi-at-tan-fī-dhi al-may-dā-niyy.)",
+          "translation": "Article Two: Mr. Tariq is assigned to chair the working group tasked with field execution."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (24.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يُبَلَّغُ هٰذَا القَرَارُ لِجَمِيعِ الإِدَارَاتِ المَعْنِيَّةِ لِلْعَمَلِ بِمُوجَبِهِ اعْتِبَارًا مِنْ تَارِيخِهِ.(Yuballaghu hādhā al-qarāru li-jamīʿi al-idārāti al-maʿniyyati li-l-ʿamali bi-mūjabihi iʿtibāran min tārīkhih.)",
+          "reading": "[ju.bal.la.ɣu haː.ðaː‿l.qa.raː.ru li.ʒa.miː.ʕi‿l.ʔi.daː.raː.ti‿l.maʕ.nij.ja.ti lil.ʕa.ma.li bi.muː.ʒa.bi.hi ʕti.baː.ran min taː.riː.xih] (Yu-bal-la-ghu hā-dhā al-qa-rā-ru li-ja-mī-ʿi al-i-dā-rā-ti al-maʿ-niy-ya-ti lil-ʿa-ma-li bi-mū-ja-bi-hi iʿ-ti-bā-ran min tā-rī-khih.)",
+          "translation": "This decision shall be communicated to all concerned departments to act in accordance therewith effective its date."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "عُقِدَ اجْتِمَاعٌ وَصِيغَتِ المَوَادّ، حُكْمُ القَرَارِ يَمْضِي بِالسَّدَادْ!"
+      ],
+      "culturalNotes": [
+        "دقة الصياغة القانونية للمواد في القرارات العربية (مثل: يعمل به من تاريخ صدوره، ينشر في الجريدة الرسمية، يلغي كل ما يتعارض معه) تضمن الحجية النظامية ومنع التنازع القضائي."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)» (الدرس 3)؟",
+          "prompt": "ما معنى عبارة «قَرَّرَ المَجْلِسُ بِالإِجْمَاعِ» في محضر الاجتماع؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)» بأسلوب أكاديمي دقيق (24.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (24.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (24.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (24.3.w3)"
+            "بِمُوافَقَةِ جَمِيعِ الأَعْضَاءِ الحَاضِرِينَ دُونَ اعْتِرَاضِ أَحَدٍ (With agreement of all attending members / Unanimously)",
+            "بموافقة شخص واحد فقط",
+            "برفض غالبية الأعضاء",
+            "بتأجيل القرار إلى موعد لاحق"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«بِالإِجْمَاعِ» تعني اتفاق كافة الآراء دون أي صوت معارض (Unanimous decision)."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي المادة الختامية المعيارية في معظم القرارات واللوائح الإدارية؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "«يُعْمَلُ بِهٰذَا القَرَارِ مِنْ تَارِيخِ صُدُورِهِ وَيُبَلَّغُ لِمَنْ يَلْزَمُ» (Enacted from date of issuance & notified to whom it concerns)",
+            "ينتهي القرار بمجرد قراءته",
+            "لا يجوز لأحد قراءة هذا القرار",
+            "قرار سري يحفظ في الدرج فقط"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "المادة الختامية تحدد سريان مفعول القرار وتبليغه للجهات المعنية للتنفيذ الفوري."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u24-l3):",
+          "prompt": "اختر الصياغة النظامية السليمة لإصدار قرار إداري تنفيذي:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (24.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (24.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (24.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (24.3.x3)"
+            "«بِنَاءً عَلَى الصَّلَاحِيَاتِ المَمْنُوحَةِ لَنَا نِظَامًا، قَرَّرْنَا اعْتِمَادَ الهَيْكَلِ التَّنْظِيمِيِّ الجَدِيدِ». ('Pursuant to powers granted to us statutorily, we have decided to approve the new organizational structure.')",
+            "انا المدير وانا قررت ان اغير الهيكل التنظيمي اليوم",
+            "هيكل تنظيمي جديد بدون اي قرار رسمي",
+            "صلاحيات نظام قرار اعتماد سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«بِنَاءً عَلَى الصَّلَاحِيَاتِ المَمْنُوحَةِ لَنَا نِظَامًا، قَرَّرْنَا...» هي الديباجة القانونية الرسمية المعتمدة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)»؟",
+          "prompt": "ما الغرض من تدوين «مَحْضَرِ الِاجْتِمَاعِ» في المؤسسات؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (24.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (24.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (24.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (24.3.y3)"
+            "التَّوْثِيقُ الرَّسْمِيُّ لِلْمُدَاوَلَاتِ وَالقَرَارَاتِ وَتَحْدِيدُ المَسْؤُولِيَّاتِ (Official documentation of deliberations, decisions & responsibilities)",
+            "تضييع الوقت في الكتابة",
+            "إرسال رسائل شخصية للموظفين",
+            "حفظ الأوراق بلا فائدة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "محضر الاجتماع هو الوثيقة القانونية المرجعية التي تثبت المداولات والالتزامات والقرارات."
         }
       ]
     },
@@ -14579,24 +14597,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 24-3)؟",
+          "prompt": "اختر النص التوثيقي الكامل لمحضر اجتماع مجلس الإدارة الذي يستوفي شروط المحاضر الرسمية بأعلى درجات الفصاحة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (24.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (24.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (24.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (24.3.z3)"
+            "«عُقِدَ اجْتِمَاعُ مَجْلِسِ الإِدَارَةِ فِي يَوْمِ الخَمِيسِ بِرِئَاسَةِ رَئِيسِ المَجْلِسِ وَحُضُورِ كَافَّةِ الأَعْضَاءِ، وَبَعْدَ الِاطِّلَاعِ عَلَى جَدْوَلِ الأَعْمَالِ، قَرَّرَ المَجْلِسُ بِالإِجْمَاعِ مَا يَلِي: أَوَّلًا: اعْتِمَادُ المِيزَانِيَّةِ الخِتَامِيَّةِ؛ ثَانِيًا: تَمْدِيدُ عُقُودِ المَشَارِيعِ الحَيَوِيَّةِ؛ ثَالِثًا: يُبَلَّغُ هٰذَا القَرَارُ لِجَمِيعِ الأَقْسَامِ لِلْعَمَلِ بِمُوجَبِهِ اعْتِبَارًا مِنْ تَارِيخِهِ». ('The Board of Directors meeting was held on Thursday under the chairmanship of the Board President and attendance of all members, and after reviewing the agenda, the council unanimously decided the following: First: Approving final budget; Second: Extending contracts of vital projects; Third: This decision is communicated to all departments to act accordingly effective its date.')",
+            "اجتمعنا يوم الخميس وقررنا عدة اشياء وتفرقنا بعد الغداء.",
+            "محضر اجتماع رئيس مجلس حضور ميزانية تمديد سكون فتحة ضمة.",
+            "الغيت الجلسة ولم يتفق الحاضرون على اي بند."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يستوفي كافة الأركان القانونية: التوقيت والرئاسة، إثبات الحضور، مراجعة جدول الأعمال، والقرارات المرقمة بإلزامية التنفيذ الفوري."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u24-l3) باللغة العربية (مثال: «المراسلات»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الوثيقة الرسمية التي تسجل مجريات الاجتماعات وما دار فيها من نقاشات وقرارات (اكتب: «محضر الاجتماع» أو «محضر اجتماع»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المراسلات",
-            "المراسلات"
+            "محضر الاجتماع",
+            "محضر اجتماع",
+            "المحضر",
+            "محضر",
+            "مَحْضَرُ الِاجْتِمَاعِ",
+            "مَحْضَر الِاجْتِمَاع"
           ],
-          "explanation": "المصطلح الصحيح هو «المراسلات»."
+          "explanation": "الوثيقة هي «محضر الاجتماع» (Meeting Minutes)."
         }
       ],
       "passThreshold": 0.8
@@ -14607,85 +14629,89 @@
     "subject": "arabic",
     "unit": 24,
     "lessonNumber": 4,
-    "title": "المراسلات الرسمية والأسلوب الإداري (Official Correspondence) (الدرس 4)",
+    "title": "الخواتيم الرسمية والمرفقات وصيغ الاحترام والرجاء (Formal Closings, Attachments & Deference Formulas)",
     "level": "B2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: صياغة الخطابات الرسمية، المذكرات الدبلوماسية، والتقارير الإدارية بأسلوب فصيح. (الجزء 4).",
+    "objective": "إتقان صياغة الخواتيم الرسمية في المراسلات، وتوثيق المرفقات (Attachments)، وصيغ التوقيع والإشادة وعبارات التقدير والاحترام الدبلوماسي.",
     "presentation": {
-      "explanation": "",
+      "explanation": "خاتمة الخطاب الرسمي هي مسك ختامه وتعبير عن اللياقة المؤسسية والتوثيق الأرشيفي الدقيق:\n\nأولاً: صيغ الخواتيم والتقدير الرسمي (Formal Closings):\n1.【صِيَغُ التَّقْدِيرِ وَالِاحْتِرَامِ】:\n   - «**وَتَفَضَّلُوا بِقَبُولِ فَائِقِ الِاحْتِرَامِ وَالتَّقْدِيرِ**» (Please accept the assurances of our highest consideration and esteem).\n   - «**شَاكِرِينَ لَكُمْ حُسْنَ تَعَاوُنِكُمْ وَدَوَامَ اهْتِمَامِكُمْ**» (Thanking you for your continuous cooperation and interest).\n   - «**وَاللهُ يَرْعَاكُمْ وَيُسَدِّدُ عَلَى طَرِيقِ الخَيْرِ خُطَاكُمْ**».\n2.【صِيَغُ الدُّعَاءِ لِلْمَقَامَاتِ العُلْيَا】:\n   - «**دُمْتُمْ فِي حِفْظِ اللهِ وَرِعَايَتِهِ**».\n   - «**وَتَقَبَّلُوا خَالِصَ التَّحِيَّاتِ وَالتَّقْدِيرِ**».\n\nثانياً: التوثيق الأرشيفي والتوقيع (Signature & Archive Metadata):\n- 【المُرْفَقَاتُ (Attachments)】: توثيق الوثائق المصاحبة:\n  * «المُرْفَقَاتُ: 1. نُسْخَةٌ عَنِ العَقْدِ المُمَضَّى. 2. جَدْوَلُ الكَمِّيَّاتِ وَالأَسْعَارِ».\n- 【نُسَخُ الإِحَالَةِ (Copies to)】:\n  * «نُسْخَةٌ مَعَ التَّحِيَّةِ لِـ: الإِدَارَةِ القَانُونِيَّةِ / قِسْمِ المُرَاجَعَةِ الدَّاخِلِيَّةِ».\n- 【التَّوْقِيعُ وَالمُسَمَّى الوَظِيفِيُّ】:\n  * «الِاسْمُ: (...)، المُسَمَّى الوَظِيفِيُّ: (...)، التَّوْقِيعُ: (...)، الخَتْمُ الرَّسْمِيُّ: (...)».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)» بأسلوب أكاديمي دقيق (24.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المراسلات الرسمية والأسلوب الإداري (Official Correspondence)' to students in an accurate academic style."
+          "target": "وَتَفَضَّلُوا بِقَبُولِ خَالِصِ التَّحِيَّاتِ وَفَائِقِ الِاحْتِرَامِ وَالتَّقْدِيرِ، دُمْتُمْ فِي رِعَايَةِ اللهِ.(Wa-tafaḍḍalū bi-qabūli khāliṣi at-taḥiyyāti wa-fāʾiqi al-iḥtirāmi wa-at-taqdīr, dumtum fī riʿāyati Allāh.)",
+          "reading": "[wa.ta.fadˤ.dˤa.luː bi.qa.buː.li xaː.li.sˤi‿t.ta.ħij.jaː.ti wa.faː.ʔi.qi‿l.ʔiħ.ti.raː.mi wat.taq.diːr, dum.tum fiː ri.ʕaː.ja.ti‿l.laːh] (Wa-ta-faḍ-ḍa-lū bi-qa-bū-li khā-li-ṣi at-ta-ḥiy-yā-ti wa-fā-ʾi-qi al-iḥ-ti-rā-mi wa-at-taq-dīr, dum-tum fī ri-ʿā-ya-ti Al-lāh.)",
+          "translation": "Please accept sincere greetings and the highest consideration and esteem, may you remain in God's care."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (24.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "شَاكِرِينَ لَكُمْ حُسْنَ تَعَاوُنِكُمُ المَعْهُودِ، وَتَقَبَّلُوا مِنَّا صَادِقَ الوُدِّ وَالِامْتِنَانِ.(Shākirīna lakum ḥusna taʿāwunikumu al-maʿhūd, wa-taqabbalū minnā ṣādiqa al-wuddi wa-al-imtinān.)",
+          "reading": "[ʃaː.ki.riː.na la.kum ħus.na ta.ʕaː.wu.ni.ku.mu‿l.maʕ.huːd, wa.ta.qab.ba.luː min.naː sˤaː.di.qa‿l.wud.di wal.ʔim.ti.naːn] (Shā-ki-rī-na la-kum ḥus-na ta-ʿā-wu-ni-ku-mu al-maʿ-hūd, wa-ta-qab-ba-lū min-nā ṣā-di-qa al-wud-di wa-al-im-ti-nān.)",
+          "translation": "Thanking you for your customary cooperation, and please accept from us sincere affection and gratitude."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (24.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "المُرْفَقَاتُ: مَلَفُّ الدِّرَاسَةِ الفَنِّيَّةِ الشَّامِلَةِ مُعْتَمَدًا مِنَ اللَّجْنَةِ المُخْتَصَّةِ.(Al-murfaqātu: malaffu ad-dirāsati al-fanniyyati ash-shāmilati muʿtamadan min al-lajnati al-mukhtaṣṣah.)",
+          "reading": "[ʔal.mur.fa.qaː.tu: ma.laf.fu‿d.di.raː.sa.ti‿l.fan.nij.ja.ti‿ʃ.ʃaː.mi.la.ti muʕ.ta.ma.dan mi.na‿l.laʒ.na.ti‿l.mux.tasˤ.sˤah] (Al-mur-fa-qā-tu: ma-laf-fu ad-di-rā-sa-ti al-fan-niy-ya-ti ash-shā-mi-la-ti muʿ-ta-ma-dan min al-laj-na-ti al-mukh-taṣ-ṣah.)",
+          "translation": "Attachments: The comprehensive technical study file certified by the specialized committee."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (24.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "نُسْخَةٌ مَعَ التَّحِيَّةِ إِلَى سَعَادَةِ رَئِيسِ قِسْمِ التَّدْقِيقِ المَالِيِّ لِلْعِلْمِ وَالإِحَاطَةِ.(Nuskhatun maʿa at-taḥiyyati ilā saʿādati raʾīsi qismi at-tadqīqi al-māliyyi li-l-ʿilmi wa-al-iḥāṭah.)",
+          "reading": "[nus.xa.tun ma.ʕa‿t.ta.ħij.ja.ti ʔi.laː sa.ʕaː.da.ti ra.ʔiː.si qis.mi‿t.tad.qiː.qi‿l.maː.lij.ji lil.ʕil.mi wal.ʔi.ħaː.tˤah] (Nus-kha-tun ma-ʿa at-ta-ḥiy-ya-ti i-lā sa-ʿā-da-ti ra-ʾī-si qis-mi at-tad-qī-qi al-mā-liy-yi lil-ʿil-mi wa-al-i-ḥā-ṭah.)",
+          "translation": "Copy with compliments to the respected Head of the Financial Audit Department for information and notice."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فَائِقُ الِاحْتِرَامِ خَاتِمَةُ البَيَانْ، مَعَ المُرْفَقَاتِ يُحْفَظُ الإِتْقَانْ!"
+      ],
+      "culturalNotes": [
+        "عبارة «وتفضلوا بقبول فائق الاحترام والتقدير» هي الترجمة الرسمية المعيارية للديباجة الفرنسية والإنجليزية الكلاسيكية (Veuillez agréer / Please accept the assurances...)، واستقرت في صلب البلاغة الإدارية العربية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)» (الدرس 4)؟",
+          "prompt": "ما هي الخاتمة الرسمية الأكثر شيوعاً ورصانة في الخطابات الإدارية والدبلوماسية العربية؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)» بأسلوب أكاديمي دقيق (24.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (24.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (24.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (24.4.w3)"
+            "«وَتَفَضَّلُوا بِقَبُولِ فَائِقِ الِاحْتِرَامِ وَالتَّقْدِيرِ» (Please accept the assurances of highest consideration)",
+            "يلا باي مع السلامة نراكم غدا",
+            "انتهى الخطاب وشكرا للقراءة",
+            "مع تحياتي الشخصية بدون رسميات"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«وَتَفَضَّلُوا بِقَبُولِ فَائِقِ الِاحْتِرَامِ وَالتَّقْدِيرِ» هي الصيغة البروتوكولية العالمية المعيارية في العربية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ماذا تعني عبارة «نُسْخَةٌ مَعَ التَّحِيَّةِ لِـ...» في أسفل الخطاب؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "تَوْجِيهُ صُورَةٍ مِنَ الخِطَابِ إِلَى جِهَةٍ أُخْرَى لِلْعِلْمِ أَوِ المُتَابَعَةِ (Sending a copy to another entity for info/action)",
+            "إلغاء النسخة الأصلية وإتلافها",
+            "إرسال هدية تحية مع الخطاب",
+            "طلب رد سريع من شخص غير مذكور"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«نسخة مع التحية» تعني إحاطة جهة أخرى بصورة من الخطاب للتنسيق والمتابعة النظامية."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u24-l4):",
+          "prompt": "اختر التنسيق الأرشيفي النموذجي لخاتمة خطاب رسمي يتضمن مرفقات وتوقيعاً معتمداً:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (24.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (24.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (24.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (24.4.x3)"
+            "«وَتَفَضَّلُوا بِقَبُولِ خَالِصِ التَّحِيَّاتِ وَالتَّقْدِيرِ. المُدِيرُ العَامُّ: (...) التَّوْقِيعُ: (...) المُرْفَقَاتُ: صُورَةُ العَقْدِ». ('Please accept sincere greetings and esteem. Director General: (...) Signature: (...) Attachments: Copy of contract.')",
+            "مع السلامة الى اللقاء وشكرا لكم من المدير",
+            "توقيع بدون اسم وبدون مرفقات في الخطاب",
+            "خاتمة احترام تقدير مدير توقيع سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "التنسيق يجمع بين: التحية الختامية، الصفة الوظيفية، التوقيع، وبيان المرفقات بوضوح تام."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)»؟",
+          "prompt": "ما هو الإعراب الصحيح لكلمة «فَائِقِ» في عبارة «بِقَبُولِ فَائِقِ الِاحْتِرَامِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (24.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (24.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (24.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (24.4.y3)"
+            "مُضَافٌ إِلَيْهِ مَجْرُورٌ بِالكَسْرَةِ الظَّاهِرَةِ (Genitive noun / Mudāf ilayh)",
+            "نعت مرفوع بالضمة",
+            "مفعول به منصوب",
+            "حال منصوبة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«فَائِقِ» مضاف إليه مجرور بالكسرة وهو مضاف، و«الِاحْتِرَامِ» مضاف إليه ثانٍ."
         }
       ]
     },
@@ -14693,24 +14719,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 24-4)؟",
+          "prompt": "اختر الخاتمة الإدارية المتكاملة التي تشتمل على صيغة الاحترام والتقدير، وبيان المرفقات، ونسخ الإحالة، والتوقيع الرسمي:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (24.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (24.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (24.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (24.4.z3)"
+            "«شَاكِرِينَ لِسَعَادَتِكُمْ حُسْنَ التَّعَاوُنِ، وَتَفَضَّلُوا بِقَبُولِ فَائِقِ الِاحْتِرَامِ وَالتَّقْدِيرِ. مُدِيرُ الشُّؤُونِ الإِدَارِيَّةِ: خَالِدُ المَنْصُورِ (تَوْقِيعٌ وَخَتْمٌ). المُرْفَقَاتُ: 1. جَدْوَلُ البَيَانَاتِ. 2. تَقْرِيرُ الإِنْجَازِ. نُسْخَةٌ مَعَ التَّحِيَّةِ لِـ: الإِدَارَةِ المَالِيَّةِ». ('Thanking your honor for good cooperation, and please accept assurances of highest consideration. Admin Affairs Director: Khalid Al-Mansoor (Sign & Stamp). Attachments: 1. Data table. 2. Progress report. Copy with compliments to: Financial Dept.')",
+            "مع السلامة وشكرا للجميع، ارسلنا اوراقا مع السائق.",
+            "خاتمة رسمية شاكرين فائق الاحترام مرفقات نسخة مع التحية سكون فتحة ضمة.",
+            "ضاع الخطاب ولم يوقع عليه احد في المؤسسة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الخاتمة تجسد قمة الاحترافية الإدارية: ديباجة الشكر والتقدير، التوقيع والختم المعتمد، قائمة المرفقات المرقمة، ونسخة الإحالة المعنونة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u24-l4) باللغة العربية (مثال: «المراسلات»):",
+          "prompt": "اكتب باللغة العربية الفصحى المصطلح الذي يطلق على المستندات والوثائق الملحقة بالخطاب الرسمي (اكتب: «المرفقات»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المراسلات",
-            "المراسلات"
+            "المرفقات",
+            "مرفقات",
+            "المُرْفَقَاتُ",
+            "المُرْفَقَات"
           ],
-          "explanation": "المصطلح الصحيح هو «المراسلات»."
+          "explanation": "المصطلح هو «المرفقات» (Attachments / Enclosures)."
         }
       ],
       "passThreshold": 0.8
@@ -14721,85 +14749,89 @@
     "subject": "arabic",
     "unit": 24,
     "lessonNumber": 5,
-    "title": "المراسلات الرسمية والأسلوب الإداري (Official Correspondence) (الدرس 5)",
+    "title": "حوار المداولة الإدارية والاعتماد المؤسسي الشامل (Administrative Consultation & Official Approval Dialogue)",
     "level": "B2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: صياغة الخطابات الرسمية، المذكرات الدبلوماسية، والتقارير الإدارية بأسلوب فصيح. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة الرابعة والعشرين: صياغة الخطابات الرسمية، المذكرات الداخلية، محاضر الاجتماعات، القرارات التنفيذية، والخواتيم المعتمدة في حوار مؤسسي رفيع.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة الرابعة والعشرين من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس، ندمج كل معارف المراسلات الرسمية والأسلوب الإداري في حوار عمل ومداولة مؤسسية رفيعة المستوى تدور بين المدير العام التنفيذي (أ. عبد الله) ومديرة الشؤون القانونية والموارد البشرية (د. هدى) لاعتماد اللائحة التنظيمية الجديدة وإصدار القرار الإداري الشامل:\n\nمحاور النص الإداري الشامل:\n1.【الألقاب والديباجة】: «سَعَادَةَ المُدِيرِ العَامِّ»، «تَحِيَّةً طَيِّبَةً وَبَعْدُ».\n2.【المذكرات ومحاضر الاجتماعات】: «إِشَارَةً إِلَى مَحْضَرِ الِاجْتِمَاعِ»، «مُذَكَّرَةٌ دَاخِلِيَّةٌ شَامِلَةٌ».\n3.【القرارات التنفيذية والمواد】: «بِنَاءً عَلَى الصَّلَاحِيَاتِ المَمْنُوحَةِ نِظَامًا»، «المَادَّةُ الأُولَى»، «المَادَّةُ الثَّانِيَةُ».\n4.【الخواتيم والمرفقات】: «فَائِقُ الِاحْتِرَامِ وَالتَّقْدِيرِ»، «المُرْفَقَاتُ المُعْتَمَدَةُ»، «نُسْخَةٌ مَعَ التَّحِيَّةِ».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)» بأسلوب أكاديمي دقيق (24.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المراسلات الرسمية والأسلوب الإداري (Official Correspondence)' to students in an accurate academic style."
+          "target": "مَرْحَبًا دُكْتُورَة هُدَى، هَلِ اكْتَمَلَتْ دِرَاسَةُ مَشْرُوعِ اللَّائِحَةِ الإِدَارِيَّةِ الجَدِيدَةِ؟(Marḥaban duktūrah Hudā, hal iktamalat dirāsatu mashrūʿi al-lāʾiḥati al-idāriyyati al-jadīdah?)",
+          "reading": "[mar.ħa.ban duk.tuː.rah hu.daː, hal ʔik.ta.ma.lat di.raː.sa.tu maʃ.ruː.ʕi‿l.laː.ʔi.ħa.ti‿l.ʔi.daː.rij.ja.ti‿l.ʒa.diː.dah?] (Mar-ḥa-ban duk-tū-rah Hu-dā, hal ik-ta-ma-lat di-rā-sa-tu mash-rū-ʿi al-lā-ʾi-ḥa-ti al-i-dā-riy-ya-ti al-ja-dī-dah?)",
+          "translation": "Welcome Dr. Huda, has the study of the new administrative regulations project been completed?"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (24.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَهْلًا أُسْتَاذ عَبْدَ اللهِ؛ إِشَارَةً إِلَى مَحْضَرِ الِاجْتِمَاعِ السَّابِقِ، أَتْمَمْنَا صِيَاغَةَ كَافَّةِ المَوَادِّ النِّظَامِيَّةِ.(Ahlan ustādh ʿAbd Allāh; ishāratan ilā maḥḍari al-ijtimāʿi as-sābiq, atmamnā ṣiyāghata kāffati al-mawāddi an-niẓāmiyyah.)",
+          "reading": "[ʔah.lan ʔus.taːð ʕab.dal.laːh; ʔi.ʃaː.ra.tan ʔi.laː maħ.dˤa.ri‿l.ʔiʒ.ti.maː.ʕi‿s.saː.biq, ʔat.mam.naː sˤi.jaː.ɣa.ta kaːf.fa.ti‿l.ma.waːd.di‿n.ni.zˤaː.mij.jah] (Ah-lan us-tādh ʿAbd Al-lāh; i-shā-ra-tan i-lā maḥ-ḍa-ri al-ij-ti-mā-ʿi as-sā-biq, at-mam-nā ṣi-yā-gha-ta kāf-fa-ti al-ma-wād-di an-ni-ẓā-miy-yah.)",
+          "translation": "Hello Mr. Abdullah; in reference to the previous meeting minutes, we completed drafting all statutory articles."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (24.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "نَرْجُو مِنْ سَعَادَتِكُمُ التَّكَرُّمَ بِاعْتِمَادِ القَرَارِ التَّنْفِيذِيِّ لِيُعْمَلَ بِهِ اعْتِبَارًا مِنْ تَارِيخِ صُدُورِهِ.(Narjū min saʿādatikumu at-takarruma bi-iʿtimādi al-qarāri at-tanfīdhiyyi li-yuʿmala bihi iʿtibāran min tārīkhi ṣudūrih.)",
+          "reading": "[nar.ʒuː min sa.ʕaː.da.ti.ku.mu‿t.ta.kar.ru.ma biʕ.ti.maː.di‿l.qa.raː.ri‿t.tan.fiː.ðij.ji li.juʕ.ma.la bi.hi ʕti.baː.ran min taː.riː.xi sˤu.duː.rih] (Nar-jū min sa-ʿā-da-ti-ku-mu at-ta-kar-ru-ma bi-iʿ-ti-mā-di al-qa-rā-ri at-tan-fī-dhiy-yi li-yuʿ-ma-la bi-hi iʿ-ti-bā-ran min tā-rī-khi ṣu-dū-rih.)",
+          "translation": "We request your honor to kindly approve the executive decision to be enacted effective the date of its issuance."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (24.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "سَيَتِمُّ تَوْقِيعُ القَرَارِ فَوْرًا وَإِرْسَالُ نُسَخٍ مَعَ التَّحِيَّةِ لِجَمِيعِ الإِدَارَاتِ المَعْنِيَّةِ لِلإِنْفَاذِ.(Sa-yatimmu tawqīʿu al-qarāri fawran wa-irsālu nusakhin maʿa at-taḥiyyati li-jamīʿi al-idārāti al-maʿniyyati li-l-infādh.)",
+          "reading": "[sa.ja.tim.mu taw.qiː.ʕu‿l.qa.raː.ri faw.ran wa.ʔir.saː.lu nu.sa.xin ma.ʕa‿t.ta.ħij.ja.ti li.ʒa.miː.ʕi‿l.ʔi.daː.raː.ti‿l.maʕ.nij.ja.ti lil.ʔin.faːð] (Sa-ya-tim-mu taw-qī-ʿu al-qa-rā-ri faw-ran wa-ir-sā-lu nu-sa-khin ma-ʿa at-ta-ḥiy-ya-ti li-ja-mī-ʿi al-i-dā-rā-ti al-maʿ-niy-ya-ti lil-in-fādh.)",
+          "translation": "The decision will be signed immediately and copies with compliments will be sent to all concerned departments for enforcement."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فِي مَجْلِسِ التَّدْبِيرِ سَادَ النِّظَامْ، خِطَابٌ وَمَحْضَرٌ وَفَائِقُ الِاحْتِرَامْ!"
+      ],
+      "culturalNotes": [
+        "المؤسسات العربية الكبرى والشركات المتعددة الجنسيات في العالم العربي تعتمد على اللغة العربية الفصحى كلغة قانونية وإدارية ملزمة للعقود واللوائح والقرارات التنفيذية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)» (الدرس 5)؟",
+          "prompt": "في الحوار الإداري، ما الغرض من قول د. هدى: «إِشَارَةً إِلَى مَحْضَرِ الِاجْتِمَاعِ السَّابِقِ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)» بأسلوب أكاديمي دقيق (24.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (24.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (24.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (24.5.w3)"
+            "رَبْطُ المَعَامَلَةِ الحَالِيَّةِ بِالمُدَاوَلَاتِ وَالقَرَارَاتِ السَّابِقَةِ نِظَامًا (Statutory reference linking to previous minutes)",
+            "البدء في شكوى شخصية",
+            "إلغاء ما تم الاتفاق عليه سابقا",
+            "إنهاء الاجتماع دون كلام"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«إشارةً إلى محضر الاجتماع السابق» أسلوب إحالة مهني يؤكد تسلسل العمل المؤسسي واستناده لقرارات معتمدة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ماذا تعني عبارة «لِلإِنْفَاذِ» في نهاية توجيه المدير العام؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "لِلتَّطْبِيقِ الفِعْلِيِّ وَالتَّنْفِيذِ المُلْزِمِ لِلْقَرَارِ (For actual enforcement & binding implementation)",
+            "للحفظ في الأرشيف دون قراءة",
+            "للتعديل والحذف",
+            "للتراجع عن القرار"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«للإنفاذ» تعني وضع القرار موضع التطبيق والتنفيذ العملي المباشر."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u24-l5):",
+          "prompt": "اختر الفقرة الحوارية الإدارية الأكثر انضباطاً في التعبير عن اعتماد لائحة مؤسسية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (24.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (24.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (24.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (24.5.x3)"
+            "— هَلِ اعْتُمِدَتِ اللَّائِحَةُ؟ — نَعَمْ سَعَادَةَ المُدِيرِ، وَصَدَرَ القَرَارُ الإِدَارِيُّ لِيُعْمَلَ بِهِ مِنْ تَارِيخِهِ مَعَ إِرْسَالِ صُوَرٍ لِلْمُرَاجَعَةِ. (— Has the regulation been approved? — Yes Your Honor, and the administrative decision was issued to be enacted from its date with sending copies for audit.)",
+            "— هل اللائحة جاهزة؟ — نعم وضعناها على المكتب والسلام.",
+            "— كم تكلفة هذا المشروع؟ — ليس لدينا مال كاف.",
+            "— حوار اعتماد لائحة قرار اداري سكون."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة تجمع بين اللقب الرسمي («سَعَادَةَ المُدِيرِ»)، الحكم التنفيذي («لِيُعْمَلَ بِهِ مِنْ تَارِيخِهِ»)، والتوثيق الأرشيفي."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المراسلات الرسمية والأسلوب الإداري (Official Correspondence)»؟",
+          "prompt": "ما حكم كلمة «تَحِيَّةً» في قولك: «تَحِيَّةً طَيِّبَةً وَبَعْدُ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (24.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (24.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (24.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (24.5.y3)"
+            "مَفْعُولٌ مُطْلَقٌ مَنْصُوبٌ بِالفَتْحَةِ (Absolute object in accusative)",
+            "مبتدأ مرفوع بالضمة",
+            "اسم مجرور بحرف جر مقدر",
+            "خبر كان منصوب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«تَحِيَّةً» تعرب مفعولاً مطلقاً منصوباً بالفتحة لفعل محذوف تقديره «أُحَيِّيكُمْ»."
         }
       ]
     },
@@ -14807,24 +14839,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 24-5)؟",
+          "prompt": "اختر النص الحواري الإداري الشامل الذي يدمج مخرجات الوحدة الرابعة والعشرين بأكملها (الهيكلية والألقاب، المذكرات والطلبات، المحاضر والقرارات، والخواتيم والمرفقات):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (24.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (24.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (24.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (24.5.z3)"
+            "أ. عَبْدُ اللهِ: «سَعَادَةَ الدُّكْتُورَةِ هُدَى، إِشَارَةً إِلَى مَحْضَرِ اجْتِمَاعِ مَجْلِسِ الإِدَارَةِ، نَرْجُو التَّكَرُّمَ بِرَفْعِ مَشْرُوعِ القَرَارِ التَّنْفِيذِيِّ لِلَّائِحَةِ الجَدِيدَةِ» — د. هُدَى: «تَمَّ إِعْدَادُ المَذَكِّرَةِ الدَّاخِلِيَّةِ الشَّامِلَةِ مُتَضَمِّنَةً جَمِيعَ المَوَادِّ النِّظَامِيَّةِ؛ حَيْثُ تَنُصُّ المَادَّةُ الأُولَى عَلَى بَدْءِ التَّنْفِيذِ مِنْ تَارِيخِهِ، وَتَجِدُونَ طَيَّهُ كَافَّةَ المُرْفَقَاتِ، مَعَ إِرْسَالِ نُسْخَةٍ مَعَ التَّحِيَّةِ لِلشُّؤُونِ المَالِيَّةِ، وَتَفَضَّلُوا بِقَبُولِ فَائِقِ الِاحْتِرَامِ وَالتَّقْدِيرِ». (Mr. Abdullah: 'Your Honor Dr. Huda, in reference to Board meeting minutes, we request kindly submitting executive decision draft for new regulations' — Dr. Huda: 'The comprehensive internal memo was prepared including all statutory articles; where Article One stipulates starting execution from its date, and you will find enclosed all attachments, with sending a copy with compliments to Financial Affairs, and please accept assurances of highest consideration.')",
+            "عبد الله: يا هدى اين الاوراق؟ — هدى: الاوراق موجودة في مكتبي وسارسلها غدا.",
+            "حوار رسمي اداري القاب مذكرات محاضر قرارات خواتيم مرفقات سكون فتحة ضمة.",
+            "توقفت الشركة عن العمل بسبب خلافات قانونية بين الادارات."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الفصاحة والرصانة الإدارية في دمج: اللقب التشريفي والإسناد («سَعَادَةَ الدُّكْتُورَةِ»، «إِشَارَةً إِلَى مَحْضَرِ...»)، صيغ الطلب المهذب («نَرْجُو التَّكَرُّمَ»)، المذكرة والمواد النظامية («المَذَكِّرَةُ الدَّاخِلِيَّةُ»، «المَادَّةُ الأُولَى»)، التوثيق والمرفقات («تَجِدُونَ طَيَّهُ كَافَّةَ المُرْفَقَاتِ»، «نُسْخَةٌ مَعَ التَّحِيَّةِ»)، والخاتمة الدبلوماسية («فَائِقِ الِاحْتِرَامِ وَالتَّقْدِيرِ»)."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u24-l5) باللغة العربية (مثال: «المراسلات»):",
+          "prompt": "اكتب باللغة العربية الفصحى العبارة التي تعني أن الوثائق مرفقة داخل الخطاب نفسه (اكتب: «طيّه» أو «تجدون طيّه»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المراسلات",
-            "المراسلات"
+            "طيه",
+            "تجدون طيه",
+            "طَيَّهُ",
+            "طَيِّهِ",
+            "تَجِدُونَ طَيَّهُ"
           ],
-          "explanation": "المصطلح الصحيح هو «المراسلات»."
+          "explanation": "العبارة الإدارية الفصيحة هي «طَيَّهُ» (أي داخل طيَّات هذا الخطاب ومرفقاً به Enclosed)."
         }
       ],
       "passThreshold": 0.8

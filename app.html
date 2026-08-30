@@ -831,6 +831,10 @@
       }
       var moduleRoot = document.getElementById('module-root');
       moduleRoot.innerHTML = '';
+      moduleRoot.className = 'fearn-glass';
+      moduleRoot.removeAttribute('dir');
+      moduleRoot.style.direction = '';
+      moduleRoot.style.textAlign = '';
       var mod = window.FEARN.getModule(slotId);
       if (mod && typeof mod.render === 'function') {
         try {
@@ -848,6 +852,14 @@
     }
 
     document.getElementById('module-back-btn').addEventListener('click', function () {
+      var moduleRoot = document.getElementById('module-root');
+      if (moduleRoot) {
+        moduleRoot.innerHTML = '';
+        moduleRoot.className = 'fearn-glass';
+        moduleRoot.removeAttribute('dir');
+        moduleRoot.style.direction = '';
+        moduleRoot.style.textAlign = '';
+      }
       showView('dashboard');
       highlightWebPathTo(null);
       syncHash('dashboard');

@@ -15708,85 +15708,62 @@
     "subject": "amharic",
     "unit": 34,
     "lessonNumber": 1,
-    "title": "የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery) (ክፍል 1)",
+    "title": "የቪየና የዲፕሎማሲ ስምምነት እና ዓለም አቀፍ ህግጋት (Vienna Convention & Diplomatic Immunity)",
     "level": "C2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የ1969 የቪየና የውል ስምምነት ሕግጋት፣ የተባበሩት መንግሥታት ውሳኔዎች፣ የዲፕሎማሲ ጥበቃ። (ክፍል 1)።",
+    "objective": "የ1961 እና የ1969 የቪየና የዲፕሎማሲ ስምምነቶችን፣ ያለመከሰስ መብትን እና ዓለም አቀፍ ህጎችን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የቪየና የዲፕሎማሲ ስምምነት እና ዓለም አቀፍ ህግጋት መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- የቪየና ስምምነት (Vienna Convention) / ዓለም አቀፍ ህግ (International law)\n- ያለመከሰስ መብት (Diplomatic immunity) / የዲፕሎማሲ ጥበቃ (Diplomatic protection)\n- ሉዓላዊነት (Sovereignty) / የውል ግዴታ (Contractual obligation)።\n\n፪. ዋና መርሆዎች:\n- የቪየና የዲፕሎማሲ ስምምነት በሀገራት መካከል የሚደረጉ ዲፕሎማሲያዊ ግንኙነቶችን፣ የኤምባሲዎች ጥበቃንና የዲፕሎማቶችን ያለመከሰስ መብት የሚወስን ዓለም አቀፍ የህግ ማዕቀፍ ነው።",
       "examples": [
         {
-          "target": "መምህሩ የ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (34.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)' to the students."
+          "target": "በ1961 የቪየና ስምምነት መሰረት ዲፕሎማቶች በተልዕኮ ሀገራቸው ውስጥ ህጋዊ ያለመከሰስ መብት ያገኛሉ።",
+          "reading": "Bä1961 yäVienna səməmmənnät mäsärät diplomatočč bätäl’əko hagaräččäw wəsət’ həggawi yalämäkkäsäs mäbət yagänyallu. [bə1961 jəviˈjena sɨmɨmːɨˈnːɛt mɛsəˈrət diploˈmatotʃː bətəlʔɨˈko haɡərəˈtʃːəw wɨstʼ hɨɡːaˈwi jaləməkːəˈsəs məˈbɨt jaɡəˈɲalːu] (beh-ahnd-shee-zet'egn-metoh-sulsah-ahnd yeh-vee-YAY-nah suh-mum-mun-NET meh-seh-RET deep-loh-mah-TOHCH beh-tel-uh-KOH hah-guh-reh-CHEW woos-T' hug-gah-WEE yah-leh-meh-keh-SES meh-BUT yah-gen-YAHL-loo)",
+          "translation": "Under the 1961 Vienna Convention, diplomats receive legal immunity within their host mission state."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (34.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ዓለም አቀፍ ህግ የሁሉንም ሉዓላዊ ሀገራት እኩልነት እና የዲፕሎማሲያዊ ግንኙነቶችን ደህንነት ያስከብራል።",
+          "reading": "’Aläm aqäf həgg yähullum lu’alawi hagaratt əkkulənnät ənna yädiplomasiyawi gənənyənnätoččən dähənənnät yasəkäbbərall. [ʔaˈlɛm ʔaˈkʼɛf hɨɡː jəhulːum luʔalaˈwi haɡəˈrat ʔɨkːulɨˈnːɛt ʔɨnːa jədiploˈmasijawi ɡɨnɨɲɨnːəˈtotʃːɨn dəhɨnɨˈnːɛt jasɨkəbːɨˈralː] (ah-LEM ah-K'EF hoog yeh-hool-LOOM loo-ah-lah-WEE hah-guh-RAHT ook-koo-lun-NET un-nah yeh-deep-loh-mah-see-YAH-wee gun-un-yoon-neh-TOHCH-chun deh-huh-noon-NET yahs-keb-buh-RAHL)",
+          "translation": "International law safeguards the equality of all sovereign nations and the security of diplomatic relations."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (34.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (34.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የኤምባሲው ግቢ ዓለም አቀፍ የዲፕሎማሲ ጥበቃ ስላለው ያለ አምባሳደሩ ፈቃድ ማንም ሊገባበት አይችልም።",
+          "reading": "Yä'embasiw gəbi ’aläm aqäf yädiplomasi t’əbäqa səlaläw yalä ambasadäru fäqad manəmm ligäbabbät ayəččələm. [jəʔembaˈsiw ɡɨˈbi ʔaˈlɛm ʔaˈkʼɛf jədiploˈmasi tʼɨˈbəkʼa sɨlaˈlɛw jaˈlə ʔambasaˈdəru fəˈkʼad maˈnɨmː liɡəbaˈbːət ʔajɨtʃːɨˈlɨm] (yeh-em-bah-SEE-woo guh-BEE ah-LEM ah-K'EF yeh-deep-loh-mah-SEE t'uh-beh-K'AH suh-lah-LEW yah-LEH ahm-bah-sah-DEH-roo feh-K'AHD mah-NUM lee-geh-bahb-BET eye-chul-LUM)",
+          "translation": "Because embassy premises enjoy international diplomatic protection, nobody may enter without the ambassador's authorization."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vienna Convention: የቪየና ስምምነት (Convention) + ያለመከሰስ መብት (Immunity) + ሉዓላዊነት (Sovereignty) + ጥበቃ (Protection)!"
+      ],
+      "culturalNotes": [
+        "ኢትዮጵያ የቪየና የዲፕሎማሲ ስምምነቶችን ፈርማ ያጸደቀች ሲሆን በአዲስ አበባ የሚገኙ በርካታ ዓለም አቀፍ ዲፕሎማቶች በዚህ ህግ መሰረት ጥበቃ ያገኛሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ዲፕሎማቶች በተልዕኮ ሀገራቸው ውስጥ በሚሰሩበት ወቅት ከህጋዊ ክስ ነፃ የሚያደርጋቸው ዓለም አቀፍ መብት ምን ይባላል?",
           "options": [
-            "መምህሩ የ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (34.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (34.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (34.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (34.1.w3)"
+            "ያለመከሰስ መብት (Diplomatic immunity - Legal protection from host jurisdiction)",
+            "የጉዞ ፈቃድ",
+            "የንግድ ፈቃድ",
+            "የቀረጥ ነፃ ካርድ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ያለመከሰስ መብት» ዲፕሎማቶች ስራቸውን ያለ ጫና እንዲያከናውኑ የሚያስችል ዓለም አቀፍ ህጋዊ ጥበቃ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u34-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Vienna Convention' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (34.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (34.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (34.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (34.1.x3)"
+            "የቪየና ስምምነት (Vienna Convention / foundational international diplomatic accord)",
+            "የከተማ ደንብ",
+            "የስፖርት ህግ",
+            "የትምህርት መመሪያ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (34.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (34.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (34.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (34.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«የቪየና ስምምነት» ዓለም አቀፍ የዲፕሎማሲ እና የውል ግንኙነቶችን የሚገዛ ዋና ስምምነት ነው።"
         }
       ]
     },
@@ -15794,24 +15771,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 34-1):",
+          "prompt": "የቪየና ስምምነት እና ዓለም አቀፍ ህግጋትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (34.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (34.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (34.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (34.1.z3)"
+            "የቪየና ስምምነት፣ ዓለም አቀፍ ህግ፣ ያለመከሰስ መብት፣ የዲፕሎማሲ ጥበቃ እና ሉዓላዊነት።",
+            "ቡና፣ ሻይ፣ ስኳር እና ዳቦ።",
+            "ልብስ፣ ጫማ እና ካፖርት።",
+            "በዲፕሎማሲ ህግ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የቪየና ስምምነት እና የዲፕሎማሲ ህግጋትን ቁልፍ ቃላት በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u34-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የመጨረሻ»):",
+          "prompt": "'ሉዓላዊነት / Sovereignty' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የመጨረሻ",
-            "የመጨረሻ"
+            "ሉዓላዊነት",
+            "ሉአላዊነት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የመጨረሻ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ሉዓላዊነት» ወይም «ሉአላዊነት» (Lu’alawinnät) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -15822,85 +15799,62 @@
     "subject": "amharic",
     "unit": 34,
     "lessonNumber": 2,
-    "title": "የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery) (ክፍል 2)",
+    "title": "የኢትዮጵያ ስነ-ጽሑፍ እና የቋንቋ እድገት ታሪክ (History of Amharic Literature)",
     "level": "C2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የ1969 የቪየና የውል ስምምነት ሕግጋት፣ የተባበሩት መንግሥታት ውሳኔዎች፣ የዲፕሎማሲ ጥበቃ። (ክፍል 2)።",
+    "objective": "የግዕዝ እና የአማርኛ ስነ-ጽሑፍ እድገትን፣ የብራና መጻሕፍትን እና የዘመናዊ ስነ-ጽሑፍ ታሪክን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የኢትዮጵያ ስነ-ጽሑፍ እና የቋንቋ እድገት መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ስነ-ጽሑፍ (Literature) / ብራና (Parchment / Vellum)\n- የግዕዝ ቅርስ (Ge'ez heritage) / ዘመናዊ ልብወለድ (Modern novel)\n- ዜና መዋዕል (Royal chronicles) / ድርሰት (Composition)።\n\n፪. ዋና መርሆዎች:\n- የአማርኛ ስነ-ጽሑፍ ከጥንታዊ የብራና ዜና-መዋዕሎች ተነስቶ በ20ኛው ክፍለ ዘመን ወደ ዘመናዊ ልብወለድ፣ ተውኔትና ፍልስፍናዊ ድርሰት ተሸጋግሯል።",
       "examples": [
         {
-          "target": "መምህሩ የ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (34.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)' to the students."
+          "target": "የጥንታዊ ብራና መጻሕፍት እና የነገሥታት ዜና-መዋዕል ለዘመናዊው የአማርኛ ስነ-ጽሑፍ ጠንካራ መሰረት ጥለዋል።",
+          "reading": "Yät’ənətawi bərana mäts’ahaft ənna yänägäśtat zenä-mäwa’əl läzämänawiw yä’Amarənya sənä-ts’əhuf t’änəkkarra mäsärät t’əläwall. [jətʼɨnɨtaˈwi bɨraˈna mətsʼaˈhəft ʔɨnːa jənəɡəʃˈtat zenəməwaˈʔɨl ləzəmənaˈwiw jəʔamaˈrɨɲa sɨnəˈtsʼɨhuf tʼənɨkːaˈrːa mɛsəˈrət tʼɨləˈwalː] (yeh-t'un-tah-WEE buh-rah-NAH mets'-ah-HUFT un-nah yeh-neh-gesh-TAHT zay-neh-meh-wah-UL luh-zeh-meh-nah-WEE-woo yeh-ah-mah-RUN-yah suh-neh-TS'UH-hoof t'un-kahr-RAH meh-seh-RET t'uh-leh-WAHL)",
+          "translation": "Ancient parchment manuscripts and royal chronicles laid a sturdy foundation for modern Amharic literature."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (34.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "«ጦቢያ» የተሰኘው የመጀመሪያው የአማርኛ ልብወለድ በከፍተኛ የስነ-ጽሑፍ ውበቱ እና ታሪካዊ ፋይዳው ይታወሳል።",
+          "reading": "«T’obiya» yätäsänyäw yämäğämmäriyaw yä’Amarənya ləbbolläd bäkäffətänya yäsənä-ts’əhuf wəbätu ənna tarikawi faydaw yəttawwäsall. [«tʼoˈbija» jətəsəˈɲəw jəmədʒəmːəriˈjaw jəʔamaˈrɨɲa lɨbːolːəd bəkəfːɨtɛˈɲa jəsɨnəˈtsʼɨhuf wɨbəˈtu ʔɨnːa tariˈkawi fajˈdaw jɨtːawːəˈsalː] («T'oh-bee-YAH» yeh-teh-sen-YEW yeh-meh-jem-meh-ree-YOW yeh-ah-mah-RUN-yah lub-bohl-LED beh-kef-fuh-ten-YAH yeh-suh-neh-TS'UH-hoof wuh-beh-TOO un-nah tah-ree-KAH-wee fye-DOW yut-tow-weh-SAHL)",
+          "translation": "The first Amharic novel entitled 'Tobiya' is remembered for its supreme literary aesthetics and historic significance."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (34.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (34.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የስነ-ጽሑፍ እድገት የማህበረሰቡን ስልጣኔ፣ ፍልስፍና እና የቋንቋ ብልጽግና በትውልዶች መካከል ያስተላልፋል።",
+          "reading": "Yäsənä-ts’əhuf ədəggät yämahəbärasäbun sələt’t’ane, fələsəfənna ənna yäqwanəqwa bələts’əgənna bätəwəllədočč mäkkakkäl yasətälalləfall. [jəsɨnəˈtsʼɨhuf ʔɨdɨɡːɛt jəmahɨbɛraˈsɛbun sɨlɨtʼːaˈne, fɨlɨsɨˈfɨnːa ʔɨnːa jəkʼʷanɨˈkʼʷa bɨlɨtsʼɨɡɨˈnːa bətɨwɨlːəˈdotʃː məkːaˈkːəl jasɨtɛlalːɨˈfalː] (yeh-suh-neh-TS'UH-hoof ud-ug-GAYT yeh-mah-huh-beh-rah-seh-BOON sul-ut'-t'ah-NAY, fuh-luh-suh-fun-NAH un-nah yeh-k'wahn-k'wah buh-luts'-uh-gun-NAH beh-tuh-wuhl-luh-DOHCH mek-kahk-KEL yahs-teh-lahl-luh-FAHL)",
+          "translation": "Literary evolution transmits the society's civilization, philosophy, and linguistic prosperity across generations."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Amharic Literature: ስነ-ጽሑፍ (Literature) + ብራና (Parchment) + ዜና መዋዕል (Chronicles) + ልብወለድ (Novel)!"
+      ],
+      "culturalNotes": [
+        "አፈወርቅ ገብረኢየሱስ በ1900 ዓ.ም (1908 G.C) ያሳተመው «ጦቢያ» የመጀመሪያው ዘመናዊ የአማርኛ ልብወለድ ተብሎ በታሪክ ይመዘገባል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በኢትዮጵያ ስነ-ጽሑፍ ታሪክ ውስጥ በብራና ላይ ይጻፉ የነበሩ የነገሥታት እና የታሪክ መዝገቦች ምን ይባላሉ?",
           "options": [
-            "መምህሩ የ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (34.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (34.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (34.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (34.2.w3)"
+            "ዜና መዋዕል (Royal chronicles / historical annals)",
+            "የዜና ጋዜጣ",
+            "የንግድ ሰነድ",
+            "የመንገድ ካርታ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ዜና መዋዕል» የነገሥታቱን ታሪክና የዘመኑን ክስተቶች የሚመዘግቡ ጥንታዊ የብራና ድርሰቶች ናቸው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u34-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Modern novel' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (34.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (34.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (34.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (34.2.x3)"
+            "ዘመናዊ ልብወለድ (Modern novel / narrative fiction)",
+            "ጥንታዊ ዝማሬ",
+            "የህግ መመሪያ",
+            "የህክምና ማዘዣ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (34.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (34.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (34.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (34.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ዘመናዊ ልብወለድ» ገጸ-ባህሪያትንና ታሪክን አዋቅሮ የሚቀርብ የስነ-ጽሑፍ ዘውግ ነው።"
         }
       ]
     },
@@ -15908,24 +15862,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 34-2):",
+          "prompt": "የኢትዮጵያ ስነ-ጽሑፍ እና የቋንቋ እድገት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (34.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (34.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (34.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (34.2.z3)"
+            "ስነ-ጽሑፍ፣ ብራና፣ ዜና መዋዕል፣ ልብወለድ እና ድርሰት።",
+            "ወንበር፣ ጠረጴዛ፣ አልጋ እና ቁምሳጥን።",
+            "ስልክ፣ ሬዲዮ፣ ቴሌቪዥን እና ኮምፒውተር።",
+            "በኢትዮጵያ ስነ-ጽሑፍ አልነበረም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የኢትዮጵያ ስነ-ጽሑፍ ታሪክ ቁልፍ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u34-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የመጨረሻ»):",
+          "prompt": "'ብራና / Parchment manuscript' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የመጨረሻ",
-            "የመጨረሻ"
+            "ብራና"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የመጨረሻ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ብራና» (Bərana) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -15936,85 +15889,62 @@
     "subject": "amharic",
     "unit": 34,
     "lessonNumber": 3,
-    "title": "የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery) (ክፍል 3)",
+    "title": "የባህል ውህደት፣ ስነ-ቃል እና ብሔራዊ ቅርስ (Cultural Synthesis & National Heritage)",
     "level": "C2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የ1969 የቪየና የውል ስምምነት ሕግጋት፣ የተባበሩት መንግሥታት ውሳኔዎች፣ የዲፕሎማሲ ጥበቃ። (ክፍል 3)።",
+    "objective": "የኢትዮጵያን የባህል ብዝሃነት፣ ስነ-ቃልን፣ ታሪካዊ ቅርሶችንና ሀገራዊ ውህደትን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የባህል ውህደት እና ብሔራዊ ቅርስ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ብሔራዊ ቅርስ (National heritage) / ስነ-ቃል (Oral tradition)\n- የባህል ብዝሃነት (Cultural diversity) / ውህደት (Integration / Synthesis)\n- ጥንታዊ ስልጣኔ (Ancient civilization) / አንድነት (Unity)።\n\n፪. ዋና መርሆዎች:\n- የኢትዮጵያ ብሔራዊ ጥንካሬ የተመሰረተው በባህል ብዝሃነት ውበት፣ በስነ-ቃል ሀብትና በማይናወጥ የጋራ ታሪካዊ አንድነት ላይ ነው።",
       "examples": [
         {
-          "target": "መምህሩ የ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (34.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)' to the students."
+          "target": "የኢትዮጵያ ታሪካዊ ቅርሶች እና የብዝሃ-ባህል ውህደት የአህጉሪቱ ታላቅ ኩራት እና መገለጫ ናቸው።",
+          "reading": "Yä'Ityop’əya tarikawi qərəsočč ənna yäbəzəha-bahəl wəhədät yä’ahəguritu talaq kurat ənna mäggälläč’a naččäw. [jəʔitjoˈpʼɨja tariˈkawi kʼɨrɨˈsotʃː ʔɨnːa jəbɨzɨhaˈbahɨl wɨhɨˈdət jəʔahɨɡuˈritu taˈlakʼ kuˈrat ʔɨnːa məɡːəlːəˈtʃʼa naˈtʃːəw] (yeh-eet-yoh-P'EE-yah tah-ree-KAH-wee k'ur-soh-WOHCH un-nah yeh-buh-zuh-hah-bah-HUL wuh-huh-DET yeh-ah-huh-goo-REE-too tah-LAHK' koo-RAHT un-nah meg-gel-leh-CH'AH NAHCH-chew)",
+          "translation": "Ethiopia's historical heritage monuments and multicultural synthesis represent the continent's immense pride and signature."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (34.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ስነ-ቃል ከትውልድ ወደ ትውልድ የሚተላለፍ የህዝብ ታሪክ፣ ፍልስፍና እና ማህበራዊ እሴት ማከማቻ ነው።",
+          "reading": "Sənä-qal kätəwəlləd wädä təwəlləd yämmittälalläf yähəzb tarik, fələsəfənna ənna mahəbärawi əset makämača näw. [sɨnəˈkʼal kətɨwɨlːəd wədə tɨwɨlːəd jəmːitːəlalːəf jəhɨzb taˈrik, fɨlɨsɨˈfɨnːa ʔɨnːa mahɨbɛraˈwi ʔɨˈset makəmaˈtʃa nɛw] (suh-neh-K'AHL keh-tuh-wuhl-LUD weh-DEH tuh-wuhl-LUD yem-meet-teh-lahl-LEF yeh-huzb tah-REEK, fuh-luh-suh-fun-NAH un-nah mah-huh-beh-rah-WEE uh-SAYT mah-keh-mah-CHAH new)",
+          "translation": "Oral tradition is a repository of popular history, philosophy, and social values transmitted from generation to generation."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (34.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (34.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ብሔራዊ ቅርሶችን መንከባከብ እና ማክበር የሀገርን የዘመናት ታሪክ እና ማንነት ለቀጣዩ ትውልድ ያቆያል።",
+          "reading": "Bəherawi qərəsoččən mänkəbakkäb ənna makkäbär yähagarən yäzämänat tarik ənna mannənnät läqät’t’ayu təwəlləd yaqoyyall. [bɨheˈrawi kʼɨrɨˈsotʃːɨn mənkəbaˈkːəb ʔɨnːa makːəˈbər jəhaɡəˈrɨn jəzəməˈnat taˈrik ʔɨnːa manːɨˈnːɛt ləkʼətʼːaˈju tɨwɨlːəd jakoˈjːalː] (buh-hay-RAH-wee k'ur-soh-WOHCH-chun men-keh-bahk-KEB un-nah mahk-keh-BER yeh-hah-guh-RUN yeh-zeh-meh-NAHT tah-REEK un-nah mahn-noon-NET luh-k'et'-t'ah-YOO tuh-wuhl-LUD yah-k'oy-YAHL)",
+          "translation": "Preserving and honouring national heritage conserves the nation's centuries of history and identity for the upcoming generation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Cultural Heritage: ብሔራዊ ቅርስ (Heritage) + ስነ-ቃል (Oral Lore) + የባህል ውህደት (Integration) + አንድነት (Unity)!"
+      ],
+      "culturalNotes": [
+        "ኢትዮጵያ በዩኔስኮ (UNESCO) የተመዘገቡ እንደ ላሊበላ፣ ፋሲል ግቢ፣ አክሱም እና የገዳ ስርዓት ያሉ በርካታ ተጨባጭና ረቂቅ ቅርሶች ባለቤት ናት።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በጽሁፍ ሳይሆን በአፈ-ታሪክ፣ በተረትና በዜማ ከትውልድ ወደ ትውልድ የሚተላለፍ የባህል ሀብት ምን ይባላል?",
           "options": [
-            "መምህሩ የ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (34.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (34.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (34.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (34.3.w3)"
+            "ስነ-ቃል (Oral tradition / folklore and oral narratives)",
+            "የህግ መጽሐፍ",
+            "የባንክ ሰነድ",
+            "የሳይንስ መጽሔት"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ስነ-ቃል» በአፍ የሚነገሩ ተረቶችን፣ ዘፈኖችንና ምሳሌዎችን የያዘ የባህል ቅርስ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u34-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'National heritage' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (34.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (34.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (34.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (34.3.x3)"
+            "ብሔራዊ ቅርስ (National heritage / sovereign historical legacy)",
+            "የግል ንብረት",
+            "የንግድ እቃ",
+            "ተራ ቦታ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (34.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (34.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (34.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (34.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ብሔራዊ ቅርስ» የመላው ሀገር እና ህዝብ የጋራ ታሪካዊና ባህላዊ ሀብት ነው።"
         }
       ]
     },
@@ -16022,24 +15952,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 34-3):",
+          "prompt": "የባህል ውህደት እና የብሔራዊ ቅርስ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (34.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (34.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (34.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (34.3.z3)"
+            "ብሔራዊ ቅርስ፣ ስነ-ቃል፣ የባህል ብዝሃነት፣ ውህደት እና ጥንታዊ ስልጣኔ።",
+            "መኪና፣ አውሮፕላን፣ ባቡር እና መርከብ።",
+            "እንጨት፣ ድንጋይ፣ አሸዋ እና ሲሚንቶ።",
+            "በኢትዮጵያ ቅርስ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የባህል ውህደት እና የታሪካዊ ቅርስ ቁልፍ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u34-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የመጨረሻ»):",
+          "prompt": "'ቅርስ / Heritage, legacy' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የመጨረሻ",
-            "የመጨረሻ"
+            "ቅርስ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የመጨረሻ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ቅርስ» (Qərs) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -16050,85 +15979,62 @@
     "subject": "amharic",
     "unit": 34,
     "lessonNumber": 4,
-    "title": "የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery) (ክፍል 4)",
+    "title": "የላቀ የፍልስፍና ክርክር እና የአመክንዮ ጥበብ (Philosophical Discourse & Logic)",
     "level": "C2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የ1969 የቪየና የውል ስምምነት ሕግጋት፣ የተባበሩት መንግሥታት ውሳኔዎች፣ የዲፕሎማሲ ጥበቃ። (ክፍል 4)።",
+    "objective": "የኢትዮጵያ ፍልስፍናን (እንደ ዘርአ ያዕቆብ)፣ አመክንዮንና የሂሳዊ አስተሳሰብ ክርክርን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የፍልስፍና ክርክር እና የአመክንዮ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ፍልስፍና (Philosophy) / አመክንዮ (Logic / Rational reason)\n- ሐተታ (Treatise / Inquiry) / ማመዛዘን (Critical reasoning)\n- እውነት (Truth) / ክርክር (Dialectic discourse)።\n\n፪. ዋና መርሆዎች:\n- የ17ኛው መቶ ክፍለ ዘመን ፈላስፋ ዘርአ ያዕቆብ በ«ሐተታ ዘርአ ያዕቆብ» ድርሰቱ ምክንያታዊ አመክንዮን እና የሰው ልጆችን እኩልነት በዓለም አቀፍ ደረጃ አስቀድሞ አስተምሯል።",
       "examples": [
         {
-          "target": "መምህሩ የ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (34.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)' to the students."
+          "target": "ፈላስፋው ዘርአ ያዕቆብ በሐተታው ውስጥ የሰውን ልጅ አእምሮ እና ምክንያታዊ አመክንዮ የእውነት መመዘኛ አድርጎ አቀረበ።",
+          "reading": "Fälasəfaw Zär’a Ya’əqob bähätätaw wəsət’ yäsäwən ləğğ a’əmro ənna məkənyatawi amäkənəyo yä’əwənät mämmäzänya adrəgo aqärräbä. [fəlasɨˈfaw zərʔa jaʔɨˈkʼob bəhətəˈtaw wɨstʼ jəsəˈwɨn lɨdʒː ʔaʔɨmˈro ʔɨnːa mɨkɨnjaˈtawi ʔaməkɨnɨˈjo jəʔɨwɨˈnət məmːəzəˈɲa ʔadɨrˈɡo ʔakʼɛrːəˈbɛ] (feh-lah-suh-FOW zer-AH yah-uh-K'OHB beh-huh-tuh-TOW woos-T' yeh-SEW-un lujj ah-um-ROH un-nah muh-kun-yah-TAH-wee ah-meh-kuh-nuh-YOH yeh-uh-wuh-NET mem-meh-zen-YAH ah-dur-GOH ah-k'er-reh-BEH)",
+          "translation": "The philosopher Zera Yacob presented human intellect and rational logic as the criterion of truth in his treatise."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (34.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በአመክንዮ እና በማስረጃ ላይ የተመሰረተ ፍልስፍናዊ ክርክር የተዛቡ አስተሳሰቦችን በማረም እውነተኛ እውቀትን ያጎለብታል።",
+          "reading": "Bä’amäkənəyo ənna bämasräğa lay yätämässärätä fələsəfənawi kərəkər yätäzabbu astäsasäboččən bamaräm əwənätänya əwəqätən yagoläbətall. [bəʔaməkɨnɨˈjo ʔɨnːa bəmasrəˈdʒa laj jətəməsːəˈrətə fɨlɨsɨfənaˈwi kɨrɨˈkɨr jətəzabːu ʔastəsaˈsəbotʃːɨn bamaˈrəm ʔɨwɨnətɛˈɲa ʔɨwɨkʼəˈtɨn jaɡoləbɨˈtalː] (beh-ah-meh-kuh-nuh-YOH un-nah beh-mahs-reh-JAH lye yeh-teh-mes-seh-reh-TEH fuh-luh-suh-fun-nah-WEE kuh-ruh-KUR yeh-teh-zahb-BOO ahs-teh-sah-seh-BOHCH-chun bah-mah-REM uh-wuh-neh-ten-YAH uh-wuh-k'eh-TUN yah-goh-luh-buh-TAHL)",
+          "translation": "Philosophical dialectic grounded in logic and empirical evidence enhances authentic knowledge by correcting misconceptions."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (34.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (34.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ማመዛዘን እና ጥልቅ ምርመራ ሰብአዊ ፍጡራን ፍትሃዊ እና ትክክለኛ የህይወት ውሳኔዎችን እንዲያደርጉ ያስችላቸዋል።",
+          "reading": "Mamäzazän ənna t’əlq mərmära säb’awi fət’uran fətəhawi ənna təkkələnya yähiyəwät wəssanewoččən ənədiyadärəgu yasəčələččäwall. [maməzaˈzən ʔɨnːa tʼɨlkʼ mɨrˈməra səbʔaˈwi fɨtʼuˈran fɨtɨhaˈwi ʔɨnːa tɨkːɨlɨˈɲa jəhiˈjɨwət wɨsːaneˈwotʃːɨn ʔɨndijaˈdərɡu jasɨtʃɨləˈtʃːəwalː] (mah-meh-zah-ZEN un-nah t'ul-K' mur-meh-RAH seb-ah-WEE fut'-oo-RAHN fuh-tuh-hah-WEE un-nah took-kuhl-un-NYAH yeh-hee-yuh-WET wuhs-sah-nay-WOHCH-chun un-dee-yah-der-GOO yahs-chul-uh-CHEW-wahl)",
+          "translation": "Critical weighing and deep inquiry enable human beings to make just and accurate life decisions."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Philosophy & Logic: ፍልስፍና (Philosophy) + አመክንዮ (Logic) + ሐተታ (Inquiry) + ማመዛዘን (Reasoning)!"
+      ],
+      "culturalNotes": [
+        "ዘርአ ያዕቆብ (1599–1692) ከዴካርት (Descartes) ጋር በተመሳሳይ ዘመን ምክንያታዊ የአስተሳሰብ ፍልስፍናን ያፈለቀ ታላቅ ኢትዮጵያዊ ፈላስፋ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በምክንያትና በማስረጃ ላይ ተመስርቶ እውነትን የማመዛዘን እና የማሰብ ጥበብ ምን ይባላል?",
           "options": [
-            "መምህሩ የ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (34.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (34.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (34.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (34.4.w3)"
+            "አመክንዮ / ምክንያታዊ አስተሳሰብ (Logic / rational reasoning)",
+            "የዘፈቀደ ግምት",
+            "ስሜታዊ ቁጣ",
+            "ጭፍን እምነት"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«አመክንዮ» በአእምሮ እና በማስረጃ እውነትን የመመርመር ፍልስፍናዊ መንገድ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u34-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Philosophical inquiry, treatise' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (34.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (34.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (34.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (34.4.x3)"
+            "ሐተታ / ፍልስፍናዊ ምርመራ (Treatise / critical philosophical discourse)",
+            "የግዢ ዝርዝር",
+            "የስልክ ማስታወሻ",
+            "ተራ ወሬ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (34.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (34.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (34.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (34.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ሐተታ» በጥልቅ ምርምርና አመክንዮ የተጻፈ ፍልስፍናዊ ድርሰት ነው።"
         }
       ]
     },
@@ -16136,24 +16042,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 34-4):",
+          "prompt": "የፍልስፍና ክርክር እና የአመክንዮ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (34.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (34.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (34.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (34.4.z3)"
+            "ፍልስፍና፣ አመክንዮ፣ ሐተታ፣ ማመዛዘን፣ እውነት እና ክርክር።",
+            "ጨው፣ በርበሬ፣ ዘይት እና ዱቄት።",
+            "ወረቀት፣ እርሳስ፣ ላጲስ እና መቅረጫ።",
+            "በፍልስፍና አመክንዮ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የፍልስፍና እና የአመክንዮ ጥበብ ቁልፍ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u34-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የመጨረሻ»):",
+          "prompt": "'እውነት / Truth' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የመጨረሻ",
-            "የመጨረሻ"
+            "እውነት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የመጨረሻ» ነው።"
+          "explanation": "ትክክለኛው ቃል «እውነት» (Əwənät) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -16164,85 +16069,62 @@
     "subject": "amharic",
     "unit": 34,
     "lessonNumber": 5,
-    "title": "የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery) (ክፍል 5)",
+    "title": "የአማርኛ ቋንቋ ፍጹም የብቃት ማጠቃለያ (Grand Capstone Synthesis & Complete C2 Mastery)",
     "level": "C2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የ1969 የቪየና የውል ስምምነት ሕግጋት፣ የተባበሩት መንግሥታት ውሳኔዎች፣ የዲፕሎማሲ ጥበቃ። (ክፍል 5)።",
+    "objective": "ከክፍል 1 እስከ 34 የተማሩትን ሰዋሰው፣ የቃላት ሀብት፣ ታሪክ፣ ባህል፣ ዲፕሎማሲ፣ ህግና ፍልስፍና ያካተተ የተሟላ የC2 ሊቅነት ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የአማርኛ ቋንቋ ፍጹም የብቃት እና የባህል ውህደት ታላቅ ማጠቃለያ (ክፍል ፩ - ፴፬):\n\n፩. የፊደል፣ የሰዋሰው እና የግስ ስርዓት:\n- ፊደላት፣ ድምጾች፣ የባለቤትና የግስ እርባታ፣ ቅጥያዎች፣ አያያዦች።\n\n፪. የህይወት፣ የተፈጥሮ እና የሳይንስ ዘርፎች:\n- ቤተሰብ፣ ምግብ፣ ንግድ፣ ጤና፣ ስነ-ምህዳር፣ ቴክኖሎጂ፣ ስነ-ከዋክብት።\n\n፫. አስተዳደር፣ ፍትህ እና ዲፕሎማሲ:\n- ፍትሐ ነገሥት፣ ሽምግልና፣ ገዳ፣ ህገ-መንግስት፣ ዲፕሎማሲ፣ የአፍሪካ ህብረት።\n\n፬. ስነ-ጽሑፍ፣ ቅኔ እና ፍልስፍና:\n- ሰምና ወርቅ፣ ፈሊጥ፣ አንደበተ ርቱዕ፣ ብራና፣ ሐተታ ዘርአ ያዕቆብ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (34.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)' to the students."
+          "target": "ተማሪው የአማርኛ ቋንቋን ሰዋሰዋዊ ውበት፣ ታሪካዊ ቅርስ እና ጥልቅ ፍልስፍና ጠንቅቆ በመረዳት የC2 ፍጹም የብቃት ደረጃን ተቀዳጀ።",
+          "reading": "Tämariw yä'Amarənya qwanəqwan säwasäwawi wəbät, tarikawi qərs ənna t’əlq fələsəfənna t’änəqqəqo bämärdat yäC2 fəts’um yäbəqat däräğan täqädağğä. [təmaˈriw jəʔamaˈrɨɲa kʼʷanɨˈkʼʷan səwasəwaˈwi wɨˈbət, tariˈkawi kʼɨrs ʔɨnːa tʼɨlkʼ fɨlɨsɨˈfɨnːa tʼənɨkʼːɨˈkʼo bəmərˈdat jəsiˈtu fɨtsʼum jəbɨˈkʼat dərəˈdʒan təkʼədaˈdʒːə] (teh-mah-REE-woo yeh-ah-mah-RUN-yah k'wahn-k'wahn seh-wah-seh-wah-WEE wuh-BET, tah-ree-KAH-wee k'urs un-nah t'ul-K' fuh-luh-suh-fun-NAH t'un-uk'-k'oh beh-mer-DAHT yeh-C-two fut-TS'OOM yeh-buh-K'AHT deh-reh-JAHN teh-k'eh-dah-JEH)",
+          "translation": "The student attained complete C2 mastery level by thoroughly understanding the grammatical beauty, historical heritage, and profound philosophy of the Amharic language."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (34.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የአማርኛ ቋንቋ ጥናት ከፊደል ንባብ ጀምሮ እስከ ከፍተኛ ዲፕሎማሲ፣ ቅኔ እና አመክንዮ ድረስ የተዘረጋ ታላቅ የእውቀት ጉዞ ነው።",
+          "reading": "Yä'Amarənya qwanəqwa t’ənat käfidäl nəbab ğäməro əskä käffətänya diplomasi, qəne ənna amäkənəyo dräs yätäzärägga talaq yä’əwəqät guzo näw. [jəʔamaˈrɨɲa kʼʷanɨˈkʼʷa tʼɨˈnat kəfiˈdəl nɨˈbab dʒəmɨˈro ʔɨsˈkə kəfːɨtɛˈɲa diploˈmasi, kʼɨˈne ʔɨnːa ʔaməkɨnɨˈjo dɨrəs jətəzərəɡːa taˈlakʼ jəʔɨwɨˈkʼət ɡuˈzo nɛw] (yeh-ah-mah-RUN-yah k'wahn-k'wah t'uh-NAHT keh-fee-DEL nuh-BAHB jem-ROH us-KEH kef-fuh-ten-YAH deep-loh-mah-SEE, k'uh-NAY un-nah ah-meh-kuh-nuh-YOH duh-RES yeh-teh-zer-reg-GAH tah-LAHK' yeh-uh-wuh-K'ET goo-ZOH new)",
+          "translation": "The study of the Amharic language is a grand journey of knowledge spanning from Fidel literacy up to high diplomacy, Qene poetry, and logical reasoning."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (34.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (34.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ይህ የተሟላ የትምህርት ካሪኩለም ተማሪዎችን በቋንቋ፣ በባህልና በስነ-ልቦና አንደበተ ርቱዕ እና የተዋጣላቸው ምሁራን ያደርጋቸዋል።",
+          "reading": "Yəh yätämwvalla yätəməhərət karikuläm tämariwoččən bäqwanəqwa, bäbahələnna bäsənä-ləbona anədäbätä rətu’ ənna yätäwat’t’alaččäw məhuran yadärəgaččäwall. [jɨh jətəmʷalːa jətɨmɨhɨrˈt karikuˈlɛm təmariˈwotʃːɨn bəkʼʷanɨˈkʼʷa, bəbaˈhɨlɨnːa bəsɨnəlɨˈbona ʔanɨdəbətə rɨtuʔ ʔɨnːa jətəwatʼːaˈlatʃːəw mɨhuˈran jadərɨɡaˈtʃːəwalː] (yuh yeh-tem-WAHL-lah yeh-tuh-muh-hur-UT kah-ree-koo-LEM teh-mah-ree-WOHCH-chun beh-k'wahn-k'wah, beh-bah-huh-lun-NAH beh-suh-neh-luh-boh-NAH ahn-duh-beh-teh ruh-TOO un-nah yeh-teh-waht'-t'ah-LAHCH-chew muh-hoo-RAHN yah-der-gahch-CHEW-wahl)",
+          "translation": "This complete curriculum transforms students into linguistically, culturally, and intellectually eloquent and accomplished scholars."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Grand Capstone Synthesis 34: Literacy (ፊደል) + Culture (ባህል) + Jurisprudence (ህግ) + Diplomacy (ዲፕሎማሲ) + Mastery (ፍጹም ብቃት)!"
+      ],
+      "culturalNotes": [
+        "እንኳን ደስ አላችሁ! 34ቱን ክፍሎች (170 ትምህርቶች) በተሳካ ሁኔታ በማጠናቀቅ በአማርኛ ቋንቋ ፍጹም የC2 አቀላጣፊነት እና የባህል ብቃት ደረጃ ላይ ደርሰዋል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የመላውን የአማርኛ ቋንቋ ትምህርት (ክፍል 1–34) ፍጹም የብቃት ውህደት የሚያሳየው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (34.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (34.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (34.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (34.5.w3)"
+            "ተማሪው የአማርኛ ቋንቋን ሰዋሰዋዊ ውበት፣ ታሪካዊ ቅርስ እና ጥልቅ ፍልስፍና ጠንቅቆ በመረዳት የC2 ፍጹም የብቃት ደረጃን ተቀዳጀ። (Complete synthesis of grammar, heritage, and philosophy achieving full C2 mastery)",
+            "ምንም ትምህርት አልተጠናቀቀም",
+            "ሁሉም ተራ ቃላት ናቸው",
+            "ቋንቋው አልተጠናም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ይህ አማራጭ የ34ቱን ክፍሎች አጠቃላይ የቋንቋ፣ የባህልና የፍልስፍና ውህደት ያረጋግጣል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u34-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "የአማርኛ ቋንቋን ጥልቅ እውቀትና የተሟላ የC2 ብቃት ያረጋገጠ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (34.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (34.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (34.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (34.5.x3)"
+            "የአማርኛ ቋንቋ ጥናት ከፊደል ንባብ ጀምሮ እስከ ከፍተኛ ዲፕሎማሲ፣ ቅኔ እና አመክንዮ ድረስ የተዘረጋ ታላቅ የእውቀት ጉዞ ነው። (The study of Amharic is a grand journey spanning from Fidel literacy to diplomacy, Qene, and logic - Accurate unified capstone sentence)",
+            "ምንም እውቀት አልተገኘም",
+            "ትምህርት አያስፈልግም",
+            "ቃላት የሉም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (34.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (34.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (34.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (34.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ ምርጫ የካሪኩለሙን አጠቃላይ የትምህርት ጉዞ በትክክል ያጠቃልላል።"
         }
       ]
     },
@@ -16250,24 +16132,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 34-5):",
+          "prompt": "የአማርኛ ቋንቋ ሙሉ ካሪኩለምን (ክፍል 1 እስከ 34) ፍጹም ይዘት በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (34.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (34.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (34.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (34.5.z3)"
+            "የፊደላት ንባብ፣ ሰዋሰውና የግስ እርባታ፣ የዕለት ተዕለት ተግባቦት፣ ሳይንስ፣ ታሪክ፣ ባህላዊና ህጋዊ ፍልስፍና፣ ዓለም አቀፍ ዲፕሎማሲ፣ እንዲሁም የሰምና ወርቅ ቅኔ ጥበብ ሙሉ በሙሉ ተካተዋል።",
+            "ይህ ካሪኩለም ስለ ፊደላት ብቻ ነው።",
+            "ምንም አይነት ሰዋሰው አልተማርንም።",
+            "ሁሉም ክፍሎች አንድ አይነት ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የ170ዎቹንም ትምህርቶች አጠቃላይ እውቀትና ብቃት ያጠቃልላል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u34-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የመጨረሻ»):",
+          "prompt": "'ብቃት / Competence, mastery' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የመጨረሻ",
-            "የመጨረሻ"
+            "ብቃት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የመጨረሻ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ብቃት» (Bəqat) ነው።"
         }
       ],
       "passThreshold": 0.8
