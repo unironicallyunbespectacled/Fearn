@@ -11067,56 +11067,65 @@
     "subject": "korean",
     "unit": 24,
     "lessonNumber": 1,
-    "title": "한국 대중문화와 영화·드라마 비평 (Hallyu & Film Criticism) (Part 1)",
+    "title": "K-Pop 팬덤 문화와 글로벌 음악 산업 전문 어휘",
     "level": "B2",
-    "objective": "Comprehensive mastery of 대중문화와 영화 비평 (Korean Popular Culture & Arts).",
+    "objective": "글로벌 K-Pop 산업의 독창적 생태계(팬덤, 세계관, 음원 차트 역주행, 칼군무, 자체 제작 콘텐츠)를 설명하는 전문 어휘와 담화 구조를 습득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 한국 대중문화와 영화·드라마 비평 (Hallyu & Film Criticism) » (제1절)의 핵심 언어 요소와 대중문화와 영화 비평 (Korean Popular Culture & Arts)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "K-Pop은 단순한 대중음악을 넘어 정교한 스토리텔링과 글로벌 팬덤이 상호작용하는 복합 문화 산업입니다.\n\n1. K-Pop 산업 및 무대 핵심 전문 어휘:\n- **팬덤(Fandom) & 팬덤 문화**: 아티스트와 정서적 유대를 형성하며 스트리밍, 음반 공동구매, 콘서트 응원(응원봉 문화)을 주도하는 글로벌 팬 커뮤니티\n- **세계관(Cinematic Universe / Lore)**: 앨범, 뮤직비디오, 웹툰을 관통하는 거대하고 유기적인 가상 서사\n- **칼군무(Knife-like Synchronized Choreography)**: 멤버 전원의 각도와 박자가 한 치의 오차도 없이 일치하는 완벽한 군무\n- **음원 차트 올킬(All-Kill) & 역주행(Chart Reversal / Sleeper Hit)**: 발매 직후 주요 음원 차트 1위를 석권하거나, 입소문과 숏폼 챌린지를 통해 과거 곡이 차트 상위권으로 재진입하는 현상\n- **자체 제작 콘텐츠(자컨, In-house Content)**: 기획사에서 직접 기획·제작하여 유튜브 등 플랫폼에 무료 공급하는 리얼리티 예능",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (24.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "해당 아이돌 그룹은 데뷔 초의 무명 시절을 딛고 팬들의 직캠 영상이 화제를 모으며 음원 차트 역주행 신화를 썼습니다.",
+          "reading": "Haedang aidol geurup-eun debwi cho-ui mumyeong sijeol-eul ditgo paendeul-ui jikkaem yeongsang-i hwaje-reul mo-eumyeo eumwon chateu yeokjuhaeng sinhwa-reul sseotseumnida.",
+          "translation": "Overcoming unknown days of their early debut, that idol group wrote a legend of chart reversal ('역주행') as fans' fan-cam video drew explosive attention."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (24.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "새 앨범의 타이틀곡은 발매 1시간 만에 국내외 주요 실시간 음원 차트를 올킬하며 글로벌 위상을 입증했습니다.",
+          "reading": "Sae aelbeom-ui taiteulgok-eun balmae han sigan man-e gungnaeoe juyo silsigan eumwon chateu-reul olkilhamyeo geullobeol wisang-eul ipjeunghaetseumnida.",
+          "translation": "The new album's title track proved its global standing by achieving an all-kill on major domestic and overseas real-time music charts ('차트를 올킬하며') within an hour of release."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (24.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "한 치의 오차도 없는 자로 잰 듯한 칼군무와 탄탄한 라이브 가창력은 전 세계 팬들을 매료시키기에 충분했습니다.",
+          "reading": "Han chi-ui ochado eomneun jaro jaen deuthan kalgunmu-wa tantanhan raibeu gachangryeok-eun jeon segye paendeul-eul maeryosikigi-e chungbunhaetseumnida.",
+          "translation": "Their knife-like synchronized dance without the slightest error ('칼군무') and solid live vocal skills were more than enough to captivate fans worldwide."
+        },
+        {
+          "target": "단순한 음악 소비를 넘어 아티스트의 앨범 속 방대한 세계관을 팬들이 주도적으로 해석하고 2차 창작물로 확장하고 있습니다.",
+          "reading": "Dansunhan eum-ak sobi-reul neomeo atiseuteu-ui aelbeom sok bangdaehan segyegwan-eul paendeul-i judojeog-euro haeseokhago icha changjakmul-ro hwakjanghago itseumnida.",
+          "translation": "Beyond mere music consumption, fans proactively interpret the vast lore in the artist's album ('방대한 세계관') and expand it into derivative works."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "칼군무로 무대 찢고, 세계관으로 과몰입, 입소문 나면 차트 역주행!"
+      ],
+      "culturalNotes": [
+        "한국의 K-Pop 팬덤은 생일 카페, 지하철 광고, 숲 조성 및 자선 기부 등 아티스트의 이름으로 선한 영향력을 실천하는 성숙한 팬덤 문화를 선도하고 있습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 대중문화와 영화 비평 (Korean Popular Culture & Arts) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "오래전에 발표된 곡이 숏폼 챌린지나 직캠 영상으로 인해 차트 상위권으로 다시 치고 올라오는 현상을 일컫는 말은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (24.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (24.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (24.1.3)."
+            "역주행 (Chart Reversal)",
+            "정주행 (Sequential Binge)",
+            "올킬 (All-Kill)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "발매 후 시간이 지난 곡이 다시 폭발적 인기를 얻어 차트에 진입하는 것을 '역주행'이라고 합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 한국 대중문화와 영화·드라마 비평 (Hallyu & Film Criticism) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "'한 치의 오차도 없이 완벽하게 합을 맞추어 추는 군무'를 가장 정확하게 묘사한 표현은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (24.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (24.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (24.1.3)."
+            "자로 잰 듯 완벽한 일체감을 자랑하는 칼군무",
+            "아무렇게나 마음대로 추는 막춤",
+            "동작이 제각각인 불협화음 댄스"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "완벽한 싱크로율의 군무는 '칼군무'라고 부릅니다."
         }
       ]
     },
@@ -11124,14 +11133,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 대중문화와 영화 비평 (Korean Popular Culture & Arts) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 24-1)?",
+          "prompt": "K-Pop 앨범 전체를 유기적으로 연결하는 거대한 스토리와 가상 설정을 일컫는 용어는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (24.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (24.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (24.1.3)."
+            "세계관 (Lore / Universe)",
+            "지구관 (Globe view)",
+            "입체관 (3D view)"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "K-Pop 음악과 뮤직비디오를 엮는 서사 구조를 '세계관(世界觀)'이라고 합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'음원 차트 역주행 신화를 썼어요'(They wrote a myth of chart reversal)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "음원 차트 역주행 신화를 썼어요.",
+            "음원 차트 역주행 신화를 썼어요"
+          ],
+          "explanation": "음원 차트 + 역주행 신화를 + 썼어요 = 음원 차트 역주행 신화를 썼어요."
         }
       ]
     }
@@ -11141,56 +11159,65 @@
     "subject": "korean",
     "unit": 24,
     "lessonNumber": 2,
-    "title": "한국 대중문화와 영화·드라마 비평 (Hallyu & Film Criticism) (Part 2)",
+    "title": "K-Drama 서사 구조와 클리셰 비평 어휘",
     "level": "B2",
-    "objective": "Comprehensive mastery of 대중문화와 영화 비평 (Korean Popular Culture & Arts).",
+    "objective": "한국 드라마(K-Drama)의 극적 구성(복선, 반전, 클리셰 전복, 입체적 인물, 사이다/고구마 전개)을 분석하는 전문 비평 어휘를 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 한국 대중문화와 영화·드라마 비평 (Hallyu & Film Criticism) » (제2절)의 핵심 언어 요소와 대중문화와 영화 비평 (Korean Popular Culture & Arts)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "K-Drama는 속도감 있는 전개, 치밀한 복선 회수, 매력적인 입체적 캐릭터 구축으로 전 세계 시청자를 사로잡고 있습니다.\n\n1. 드라마 서사 분석 전문 비평 용어:\n- **복선(Foreshadowing)과 회수**: 작가가 후반부 사건을 암시하기 위해 미리 깔아둔 장치와 이를 논리적으로 풀어내는 결말\n- **클리셰(Cliché)와 클리셰 전복**: '재벌 2세와 캔디형 여주인공' 같은 진부한 정형적 설정을 비틀어 신선한 충격을 주는 기법\n- **입체적 캐릭터(Multi-dimensional Character)**: 선과 악의 이분법을 넘어 인간적인 고뇌와 결핍을 지닌 복합적 인물\n- **개연성(Plausibility & Narrative Consistency)**: 사건 전개가 현실적 논리와 인과관계에 부합하는 정도\n- **사이다 전개 vs 고구마 전개**: 악인을 통쾌하게 응징하는 통쾌한 전개(사이다) vs 답답하고 억울한 상황이 지속되는 전개(고구마)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (24.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "이 드라마는 뻔한 신데렐라 클리셰를 영리하게 전복하여 주체적인 여성 서사를 설득력 있게 구축했습니다.",
+          "reading": "I deurama-neun ppeonhan sindereulla keullisye-reul yeongrihage jeonbokhayeo juchejeogin yeoseong seosa-reul seoldeungnyeok itge guchukhaetseumnida.",
+          "translation": "This drama cleverly overturned typical Cinderella clichés ('클리셰를 영리하게 전복하여') to convincingly build an independent female narrative."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (24.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "초반부에 무심코 지나쳤던 사소한 소품 하나가 최종회에서 결정적인 반전 복선으로 완벽히 회수되었습니다.",
+          "reading": "Chobanbu-e musimko jinachyeotdeon sasohan sopum hana-ga choejonghoe-eseo gyeoljeongjeogin banjeon bokseon-euro wanbyeokhi hoesudoeeotseumnida.",
+          "translation": "A minor prop passed over casually in early episodes was perfectly recovered as a decisive twist foreshadowing in the finale ('복선으로 완벽히 회수되었습니다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (24.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "절대 악인으로만 보였던 악역에게도 처절한 서사와 결핍을 부여함으로써 한층 더 입체적이고 매력적인 캐릭터로 완성했습니다.",
+          "reading": "Jeoldae agin-euro-man boyeotdeon agyeog-ege-do cheojeolhan seosa-wa gyeolpip-eul buyeoham-eurosseo hancheung deok ipchejeog-igo maeryeokjeogin kaerikteo-ro wanseonghaetseumnida.",
+          "translation": "By granting tragic backstory and deficiency even to the villain who seemed purely evil, they completed a much more multi-dimensional and compelling character ('입체적이고 매력적인 캐릭터')."
+        },
+        {
+          "target": "답답한 고구마 전개를 단숨에 날려버리는 주인공의 통쾌한 사이다 응징에 시청자들의 열광적인 호평이 쏟아졌습니다.",
+          "reading": "Dapdaphan goguma jeon-gae-reul dansum-e nallyeobeorineun juin-gong-ui tonggwaehan saida eungjing-e sicheongjadeul-ui yeol-gwangjeogin hopyeong-i ssodajyeotseumnida.",
+          "translation": "Viewers' enthusiastic acclaim poured in for the protagonist's exhilarating refreshing retribution ('사이다 응징') that blew away suffocating slow-paced plot in an instant."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "복선은 치밀하게 회수하고, 클리셰는 통쾌하게 전복하여 사이다 전개 완성!"
+      ],
+      "culturalNotes": [
+        "한국 대중문화에서 '고구마(Sweet potato)'는 목이 메듯 답답한 상황을, '사이다(Cider/Soda)'는 탄산음료를 마신 듯 속이 뻥 뚫리고 통쾌한 순간을 가리키는 대표적인 현대 은유 표현입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 대중문화와 영화 비평 (Korean Popular Culture & Arts) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "드라마에서 답답한 상황이 속 시원하게 해결되는 통쾌한 전개를 일컫는 한국어 신조어는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (24.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (24.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (24.2.3)."
+            "사이다 전개",
+            "고구마 전개",
+            "양파 전개"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "속이 뻥 뚫리듯 시원하고 통쾌한 전개를 '사이다 전개'라고 부릅니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 한국 대중문화와 영화·드라마 비평 (Hallyu & Film Criticism) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "드라마 평론 중 '진부한 설정을 깨뜨리고 주체적 인물을 창조했다'를 가장 격조 높게 비평한 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (24.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (24.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (24.2.3)."
+            "기존의 상투적인 클리셰를 과감히 탈피하여 생동감 넘치는 입체적 인물을 구현했다.",
+            "기존의 상투적인 클리셰를 탈피하기는커녕 그대로 베껴서 졸작을 만들었다.",
+            "기존의 상투적인 클리셰를 탈피하더라도 아무도 관심이 없을 것이다."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'상투적인 클리셰를 과감히 탈피하여' + '입체적 인물을 구현했다'의 비평 문장이 완벽합니다."
         }
       ]
     },
@@ -11198,14 +11225,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 대중문화와 영화 비평 (Korean Popular Culture & Arts) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 24-2)?",
+          "prompt": "소설이나 드라마에서 훗날 일어날 사건을 미리 은근히 암시해 두는 문학적 장치를 뜻하는 한자어는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (24.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (24.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (24.2.3)."
+            "복선 (伏線, Foreshadowing)",
+            "곡선 (曲線, Curve)",
+            "직선 (直線, Straight line)"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "사건의 결말이나 반전을 위해 미리 깔아두는 암시장치는 '복선'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'통쾌한 사이다 전개가 돋보여요'(The refreshing, exhilarating plot development stands out)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "통쾌한 사이다 전개가 돋보여요.",
+            "통쾌한 사이다 전개가 돋보여요"
+          ],
+          "explanation": "통쾌한 사이다 전개가 + 돋보여요 = 통쾌한 사이다 전개가 돋보여요."
         }
       ]
     }
@@ -11215,56 +11251,65 @@
     "subject": "korean",
     "unit": 24,
     "lessonNumber": 3,
-    "title": "한국 대중문화와 영화·드라마 비평 (Hallyu & Film Criticism) (Part 3)",
+    "title": "영화 비평 문법과 미장센 연출 분석 ('-(으)ㄴ/는 바 있다')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 대중문화와 영화 비평 (Korean Popular Culture & Arts).",
+    "objective": "공식 비평문 문법 어미 '-(으)ㄴ/는 바 있다'와 영화 미학 전문 용어(미장센, 영상미, 주제 의식, 몰입감)를 결합하여 수준 높은 영화 평론을 작성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 한국 대중문화와 영화·드라마 비평 (Hallyu & Film Criticism) » (제3절)의 핵심 언어 요소와 대중문화와 영화 비평 (Korean Popular Culture & Arts)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "1. 영화 비평 공식 문법 어미 **'-(으)ㄴ/는 바 있다'**:\n- 격식 있는 비평문, 논평, 기사에서 '과거에 특정한 경험이나 선례, 공식적 사실이 존재함'을 품격 있게 서술할 때 사용합니다.\n- 결합: 동사 과거 → **-(으)ㄴ 바 있다** (감독이 인터뷰에서 **밝힌 바 있다** / 칸 영화제에서 황금종려상을 **수상한 바 있다**)\n\n2. 영화 연출 및 미학 비평 어휘:\n- **미장센(Mise-en-scène)**: 화면 속 모든 시각적 요소(조명, 인물 배치, 카메라 앵글, 색채 구도)를 총체적으로 연출하는 미학\n- **영상미(Visual Aesthetics)**: 관객의 시선을 압도하는 감각적이고 수려한 시각적 연출미\n- **주제 의식(Thematic Consciousness)**: 작품 전체를 관통하며 인간과 사회의 본질을 파헤치는 감독의 철학적 메시지\n- **몰입감(Immersiveness)**: 관객을 스크린 속 세계로 순식간에 빨아들이는 흡인력",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (24.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "봉준호 감독은 전작 『기생충』을 통해 자본주의 계급 사회의 모순을 날카롭게 고발한 바 있습니다.",
+          "reading": "Bong Jun-ho gamdok-eun jeonjak Gisaengchung-eul tonghae jabonjuui gyegeup sahoe-ui mosun-eul nalkaropge gobalhan ba itseumnida.",
+          "translation": "Director Bong Joon-ho has sharply indicted the contradictions of capitalist class society through his previous work Parasite ('고발한 바 있습니다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (24.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "정교하게 계산된 조명과 공간 배치가 돋보이는 미장센은 인물의 불안한 내면 심리를 탁월하게 시각화했습니다.",
+          "reading": "Jeonggyohage gyesandoen jomyeong-gwa gonggan baechi-ga dotboineun mijangsaen-eun inmul-ui buranhan naemyeon simri-reul tagwolhage sigakhwahaetseumnida.",
+          "translation": "The mise-en-scène featuring elaborately calculated lighting and spatial arrangement superbly visualized the character's anxious internal psychology."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (24.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "압도적인 영상미와 웅장한 오케스트라 사운드트랙이 결합하여 관객들에게 극도의 몰입감을 선사했습니다.",
+          "reading": "Apdodoegin yeongsangmi-wa ungjanghan okeseuteura saundeuteuraek-i gyeolhaphayeo gwan-gaekdeul-ege geukdo-ui moripgam-eul seonsahaetseumnida.",
+          "translation": "Overwhelming visual aesthetics combined with a magnificent orchestral soundtrack to gift audiences extreme immersiveness ('극도의 몰입감을 선사했습니다')."
+        },
+        {
+          "target": "심사위원단은 이 작품이 독창적인 장르적 재미를 확보했을 뿐만 아니라 묵직한 시대적 주제 의식을 담아냈다고 높이 평가한 바 있습니다.",
+          "reading": "Simsawiwondan-eun i jakpum-i dokchangjeogin jangreojeok jaemi-reul hwakbohaesseul ppunman anira mukjikhan sidaejeok juje uisik-eul damanaetdago nopi pyeonggahan ba itseumnida.",
+          "translation": "The jury panel has highly evaluated that this work not only secured original genre fun but also captured a weighty thematic consciousness of the era ('평가한 바 있습니다')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "역사적 사실·선례 서술엔 '-(으)ㄴ 바 있다', 화면 연출의 정수는 '미장센'!"
+      ],
+      "culturalNotes": [
+        "한국의 영화 평론가들은 '왓챠피디아'나 영화 전문지 『씨네21』의 한 줄 평에서 '-(으)ㄴ 바 있다', '미장센', '영상미' 등의 정제된 미학 어휘를 즐겨 사용하여 작품의 예술적 성취를 압축합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 대중문화와 영화 비평 (Korean Popular Culture & Arts) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "'감독이 인터뷰에서 그 사실을 이미 말한 적이 있다'를 품격 높은 비평문으로 전환한 표현은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (24.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (24.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (24.3.3)."
+            "감독이 공식 인터뷰에서 직접 밝힌 바 있습니다.",
+            "감독이 공식 인터뷰에서 직접 밝히더라도 있습니다.",
+            "감독이 공식 인터뷰에서 직접 밝히기는커녕 있습니다."
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "공식 선례나 과거 사실을 격조 높게 서술하므로 '밝힌 바 있습니다'가 가장 적합합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 한국 대중문화와 영화·드라마 비평 (Hallyu & Film Criticism) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "영화의 시각적 구도 연출을 전문적으로 칭찬하는 가장 탁월한 비평 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (24.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (24.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (24.3.3)."
+            "어둠과 빛의 강렬한 대비를 활용한 미장센이 인물의 고독감을 극대화했다.",
+            "어둠과 빛의 강렬한 대비를 활용할수록 카메라가 고장 났다.",
+            "어둠과 빛의 강렬한 대비를 활용하는 대신에 영화를 상영하지 않았다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "화면 내 시각 요소 배치를 뜻하는 '미장센이 인물의 고독감을 극대화했다'가 완벽합니다."
         }
       ]
     },
@@ -11272,14 +11317,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 대중문화와 영화 비평 (Korean Popular Culture & Arts) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 24-3)?",
+          "prompt": "다음 중 '-(으)ㄴ 바 있다'의 문법적 기능으로 알맞은 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (24.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (24.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (24.3.3)."
+            "과거의 특정한 경험, 선례, 역사적 사실을 격식 있게 진술한다.",
+            "미래에 일어날 사태를 추측하며 의문을 제기한다.",
+            "명령이나 청유형으로 상대방의 행동을 촉구한다."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "explanation": "'-(으)ㄴ 바 있다'는 공식 문어체에서 과거의 선례나 사실을 진술할 때 쓰입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'국제 영화제에서 수상한 바 있어요'(It has won awards at international film festivals)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "국제 영화제에서 수상한 바 있어요.",
+            "국제 영화제에서 수상한 바 있어요"
+          ],
+          "explanation": "국제 영화제에서 + 수상한 바 있어요 = 국제 영화제에서 수상한 바 있어요."
         }
       ]
     }
@@ -11289,56 +11343,65 @@
     "subject": "korean",
     "unit": 24,
     "lessonNumber": 4,
-    "title": "한국 대중문화와 영화·드라마 비평 (Hallyu & Film Criticism) (Part 4)",
+    "title": "웹툰 원작 영상화(OSMU)와 K-콘텐츠 글로벌 확산 분석",
     "level": "B2",
-    "objective": "Comprehensive mastery of 대중문화와 영화 비평 (Korean Popular Culture & Arts).",
+    "objective": "K-웹툰의 지식재산권(IP) 확장, 원작과의 싱크로율 분석, 글로벌 OTT 스트리밍 플랫폼을 통한 한류 신드롬을 진단하는 비평 어휘를 익힌다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 한국 대중문화와 영화·드라마 비평 (Hallyu & Film Criticism) » (제4절)의 핵심 언어 요소와 대중문화와 영화 비평 (Korean Popular Culture & Arts)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국의 디지털 만화인 웹툰(Webtoon)은 독창적인 스토리텔링의 보고로서 전 세계 드라마·영화·게임으로 확장되는 OSMU(One Source Multi Use)의 중심축입니다.\n\n1. 웹툰 원작 영상화 및 글로벌 미디어 전문 어휘:\n- **지식재산권(IP, Intellectual Property)**: 웹툰, 웹소설 등 다양한 포맷으로 무한 확장 가능한 원천 창작물 자산\n- **싱크로율(Synchronization Rate)**: 웹툰 원작 캐릭터의 외모, 성격, 분위기가 실사 드라마 배우와 일치하는 정도 (\"캐스팅 싱크로율 100%\")\n- **원작 초월(Exceeding the Original)**: 원작의 재미와 완성도를 뛰어넘는 연출과 각색을 보여준 웰메이드 영상화 작품\n- **글로벌 OTT 플랫폼(Over-the-top)**: 넷플릭스, 디즈니+ 등 전 세계 동시 스트리밍을 통해 K-콘텐츠의 시공간적 접근성을 혁신한 매체\n- **신드롬(Syndrome)**: 특정 작품이 전 세계적 대유행을 일으켜 패션, 대사, 관광지까지 사회적 열풍으로 번지는 현상",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (24.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "인기 웹툰을 원작으로 한 이 드라마는 원작 캐릭터와의 완벽한 싱크로율을 자랑하며 방영 첫 주부터 폭발적인 반응을 얻었습니다.",
+          "reading": "Inki weptun-eul wonjak-euro han i deurama-neun wonjak kaerikteo-wa-ui wanbyeokhan singkeuroyul-eul jaranghamyeo bang-yeong cheot ju-buteo pokbaljeogin baneung-eul eotseumnida.",
+          "translation": "This drama based on a popular webtoon boasted a perfect synchronization rate with original characters ('완벽한 싱크로율을 자랑하며') and gained explosive response from the first week of broadcast."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (24.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "성공적인 K-웹툰 원작의 영상화는 강력한 원천 IP의 글로벌 확장을 증명하는 대표적인 OSMU 성공 사례로 꼽힙니다.",
+          "reading": "Seong-gongjeogin K-weptun wonjak-ui yeongsanghwa-neun gangnyeokhan woncheon IP-ui geullobeol hwakjang-eul jeungmyeonghaneun daepyojeogin OSMU seong-gong sarye-ro kkophimnida.",
+          "translation": "Successful screen adaptation of K-webtoons is cited as a representative OSMU success case proving global expansion of powerful source IP ('강력한 원천 IP')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (24.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "글로벌 OTT 스트리밍 서비스를 통해 전 세계 190개국에 동시 공개되면서 비영어권 드라마 부문 시청 순위 1위를 기록했습니다.",
+          "reading": "Geullobeol OTT seuteuriming seobiseu-reul tonghae jeon segye baekgusipgaeguk-e dongsi gonggaedoemyeonseo bi-yeongeo-gwon deurama bumun sicheong sunwi irwi-reul girokhaetseumnida.",
+          "translation": "As it was released simultaneously across 190 countries worldwide via global OTT streaming services, it recorded 1st place in viewership rankings for non-English dramas."
+        },
+        {
+          "target": "치밀한 각색과 몰입감 높은 연출력 덕분에 원작 팬들 사이에서도 '원작 초월의 명작'이라는 찬사를 받았습니다.",
+          "reading": "Chimilhan gakseok-gwa moripgam nopeun yeonchullyeok deokbun-e wonjak paendeul saieseo-do 'wonjak chowol-ui myeongjak'-iraneun chansa-reul batatseumnida.",
+          "translation": "Thanks to meticulous adaptation and highly immersive directing, it received praise even among original fans as a 'masterpiece exceeding the original ('원작 초월의 명작').'"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "탄탄한 웹툰 IP, 100% 캐스팅 싱크로율, 글로벌 OTT로 세계 제패!"
+      ],
+      "culturalNotes": [
+        "『이태원 클라쓰』, 『지금 우리 학교는』, 『무빙』 등 K-웹툰 기반 드라마들이 전 세계적인 메가 히트를 기록하면서 한국은 글로벌 콘텐츠 지식재산권(IP)의 핵심 허브로 도약했습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 대중문화와 영화 비평 (Korean Popular Culture & Arts) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "웹툰 캐릭터와 실사 드라마 배우의 외모와 이미지 일치도를 뜻하는 대중문화 용어는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (24.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (24.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (24.4.3)."
+            "싱크로율 (Synchronization Rate)",
+            "일치율 (Concordance Rate)",
+            "비율 (General Ratio)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "가상 캐릭터와 실존 인물 간의 이미지 일치 정도는 '싱크로율'이라고 표현합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 한국 대중문화와 영화·드라마 비평 (Hallyu & Film Criticism) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "하나의 원작 소설이나 웹툰을 영화, 드라마, 뮤지컬, 게임 등 다양한 장르로 재생산하는 비즈니스 모델은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (24.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (24.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (24.4.3)."
+            "OSMU (One Source Multi Use)",
+            "ASMR (Autonomous Sensory Meridian Response)",
+            "B2B (Business to Business)"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "하나의 원천 지식재산권을 다각도로 활용하는 미디어 전략은 OSMU(원 소스 멀티 유즈)입니다."
         }
       ]
     },
@@ -11346,14 +11409,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 대중문화와 영화 비평 (Korean Popular Culture & Arts) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 24-4)?",
+          "prompt": "원작의 한계를 뛰어넘어 영상화 작품이 훨씬 더 뛰어난 완성도를 보여주었을 때 보내는 찬사는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (24.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (24.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (24.4.3)."
+            "원작 초월 (Exceeding the original)",
+            "원작 파괴 (Destroying the original)",
+            "원작 모방 (Imitating the original)"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "원작보다 더 훌륭하게 각색·연출된 작품을 '원작 초월'의 명작이라고 부릅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'캐스팅 싱크로율이 정말 완벽해요'(The casting synchronization rate is truly perfect)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "캐스팅 싱크로율이 정말 완벽해요.",
+            "캐스팅 싱크로율이 정말 완벽해요"
+          ],
+          "explanation": "캐스팅 싱크로율이 + 정말 완벽해요 = 캐스팅 싱크로율이 정말 완벽해요."
         }
       ]
     }
@@ -11363,56 +11435,65 @@
     "subject": "korean",
     "unit": 24,
     "lessonNumber": 5,
-    "title": "한국 대중문화와 영화·드라마 비평 (Hallyu & Film Criticism) (Part 5)",
+    "title": "국제 영화제 심사위원 총평 및 대중문화 팟캐스트 실전 비평 담화",
     "level": "B2",
-    "objective": "Comprehensive mastery of 대중문화와 영화 비평 (Korean Popular Culture & Arts).",
+    "objective": "팬덤 생태계, 서사 클리셰 전복, 미장센 연출, 웹툰 IP 확장, '-(으)ㄴ/는 바 있다'를 융합하여 국제 영화제 총평 및 심층 평론 팟캐스트 실전 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 한국 대중문화와 영화·드라마 비평 (Hallyu & Film Criticism) » (제5절)의 핵심 언어 요소와 대중문화와 영화 비평 (Korean Popular Culture & Arts)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "대중문화 평론가, 영화제 심사위원, 문화부 기자의 심층 비평 담화는 감각적인 수사와 논리적인 문법 구조를 완벽하게 결합합니다.\n\n1. 부산국제영화제(BIFF) 영화 평론 팟캐스트 실전 비평 담화 모델:\n- 진행자: 청취자 여러분 안녕하십니까. 오늘 영화 비평 코너에서는 이번 국제영화제에서 심사위원 대상을 수상한 화제작 『새벽의 경계』를 집중 분석해 보겠습니다. 평론가님, 이 작품의 가장 큰 성취는 무엇일까요?\n- 평론가: 네, 이 작품은 인기 웹툰을 원작으로 삼았음에도 단순한 실사 재현에 그치지 않고, 원작의 서사를 과감히 전복하여 묵직한 사회적 주제 의식을 담아낸 바 있습니다.\n- 진행자: 맞습니다. 특히 후반부의 반전 복선 회수가 대단히 압도적이었습니다.\n- 평론가: 그렇습니다. 통상적인 스릴러 장르의 클리셰를 영리하게 비틀었을 뿐만 아니라, 차가운 푸른빛과 붉은 조명을 극적으로 대비시킨 미장센은 인물의 파멸과 구원을 시각적으로 완벽히 구현했습니다. 글로벌 OTT를 통해 전 세계 관객과 만나더라도 K-콘텐츠의 저력을 유감없이 증명할 명작입니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (24.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "본 심사위원단은 이 영화가 보여준 독창적인 미학적 성취와 인간 실존에 대한 깊이 있는 탐구에 만장일치로 대상을 수여한 바 있습니다.",
+          "reading": "Bon simsawiwondan-eun i yeonghwa-ga boyeojun dokchangjeogin miakjeok seongchwi-wa in-gan siljon-e daehan gipi inneun tamgu-e manjang-ilchiro daesang-eul suyeohan ba itseumnida.",
+          "translation": "This jury panel has unanimously awarded the Grand Prize to the original aesthetic achievement and in-depth inquiry into human existence demonstrated by this film ('수여한 바 있습니다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (24.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "대중적인 장르적 쾌감을 극대화하는 한편, 날카로운 사회 비판적 시선을 결코 놓치지 않은 연출력이 실로 경이롭습니다.",
+          "reading": "Daejungjeogin jangreojeok gwaegam-eul geukdaehwahaneun hanpyeon, nalkaroun sahoe bipanjeok siseon-eul gyeolko notchiji aneun yeonchullyeog-i silro gyeong-iropssumnida.",
+          "translation": "The directing power that maximized popular genre pleasure on one hand while never losing a sharp socially critical gaze is truly marvelous ('극대화하는 한편')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (24.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "원작 웹툰 팬덤의 뜨거운 기대를 뛰어넘는 파격적인 각색과 배우들의 신들린 열연이 환상적인 시너지를 창출했습니다.",
+          "reading": "Wonjak weptun paendeom-ui tteugeoun gidae-reul tti-eoneomneun pagyeokjeogin gakseok-gwa baeudeul-ui sindeullin yeol-yeon-i hwansangjeogin sineoji-reul changchulhaetseumnida.",
+          "translation": "Unconventional adaptation exceeding the fervent expectations of the original webtoon fandom and the actors' possessed passionate acting created fantastic synergy."
+        },
+        {
+          "target": "치밀하게 배치된 미장센과 긴장감 넘치는 사운드 디자인은 러닝타임 내내 관객을 스크린 속으로 몰입시키기에 충분했습니다.",
+          "reading": "Chimilhage baechidoen mijangsaen-gwa ginjanggam neomchineun saundeu dijain-eun reoningtaim naenae gwan-gaek-eul seukeurin sog-euro moripsikigi-e chungbunhaetseumnida.",
+          "translation": "Meticulously arranged mise-en-scène and suspenseful sound design were more than sufficient to immerse audiences into the screen throughout the running time."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "비평할 땐 '-(으)ㄴ 바 있다', 미학엔 '미장센', 서사엔 '클리셰 전복'과 '원작 초월'!"
+      ],
+      "culturalNotes": [
+        "부산국제영화제(BIFF), 부천국제판타스틱영화제(BIFAN), 전주국제영화제(JIFF)는 아시아를 대표하는 3대 영화 축제로서 K-무비의 세계적 담론 형성과 신진 감독 발굴을 주도합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 대중문화와 영화 비평 (Korean Popular Culture & Arts) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "영화 평론가가 심사위원 총평에서 만장일치 대상 수여 사실을 공식적으로 밝힐 때 가장 알맞은 문장은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (24.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (24.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (24.5.3)."
+            "심사위원단은 이 작품의 뛰어난 미학적 성취를 인정하여 만장일치로 대상을 수여한 바 있습니다.",
+            "심사위원단은 대상을 수여하기는커녕 모두 영화관을 뛰쳐나갔습니다.",
+            "심사위원단은 대상을 수여하더라도 상금을 주지 않았습니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "공식 심사 총평의 격조 높은 진술에는 '수여한 바 있습니다'가 가장 적합합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 한국 대중문화와 영화·드라마 비평 (Hallyu & Film Criticism) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "영화 평론 팟캐스트 중 장르적 재미와 사회 비판의 양면을 균형 있게 칭찬한 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (24.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (24.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (24.5.3)."
+            "통쾌한 장르적 쾌감을 선사하는 한편, 현대 사회의 부조리를 날카롭게 통찰했습니다.",
+            "통쾌한 장르적 쾌감을 선사할수록 현대 사회의 부조리가 심해졌습니다.",
+            "통쾌한 장르적 쾌감을 선사하더라도 재미가 전혀 없었습니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "재미와 사회 비판의 조화로운 공존을 서술하므로 '-는 한편(선사하는 한편)'이 가장 탁월합니다."
         }
       ]
     },
@@ -11420,14 +11501,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 대중문화와 영화 비평 (Korean Popular Culture & Arts) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 24-5)?",
+          "prompt": "다음 중 K-콘텐츠 및 영화 비평 전문 용어가 가장 올바르게 쓰인 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (24.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (24.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (24.5.3)."
+            "감독은 정교한 미장센을 통해 계급 갈등의 주제 의식을 훌륭히 형상화했습니다.",
+            "감독은 칼군무를 추면서 영화 필름을 가위로 잘랐습니다.",
+            "배우는 사이다 전개 대신에 콜라 전개를 요구했습니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'미장센'과 '주제 의식의 형상화'는 영화 비평의 정통 전문 어휘입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'원작을 뛰어넘는 명작으로 평가받았어요'(It was evaluated as a masterpiece exceeding the original)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "원작을 뛰어넘는 명작으로 평가받았어요.",
+            "원작을 뛰어넘는 명작으로 평가받았어요"
+          ],
+          "explanation": "원작을 뛰어넘는 + 명작으로 + 평가받았어요 = 원작을 뛰어넘는 명작으로 평가받았어요."
         }
       ]
     }
