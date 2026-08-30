@@ -13605,53 +13605,62 @@
     "subject": "ukrainian",
     "unit": 33,
     "lessonNumber": 1,
-    "title": "Високий публіцистичний та ораторський стиль (Advanced Rhetoric) (Part 1)",
+    "title": "Високий публіцистичний та ораторський стиль, експресивний синтаксис",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 33.1) with authentic linguistic precision.",
+    "objective": "Опанувати засоби експресивного синтаксису ораторського стилю (градація, анафора, хіазм, риторичні звертання, парцеляція, антитеза).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Високий ораторський та публіцистичний стиль української мови досягає найвищої сили впливу через гармонію трьох риторичних засад Арістотеля (етос, логос, пафос) та фігури експресивного синтаксису:\n\n1. Фігури синтаксичної експресії:\n   - *«Анафора (єдинопочаток)»* та *«Епіфора (повтор кінцівок)»*;\n   - *«Антитеза»* — різке протиставлення понять для підсилення контрасту;\n   - *«Градація (клімакс)»* — розташування слів у порядку наростання або спадання емоційно-смислової сили;\n   - *«Хіазм (перехресне розташування елементів)»*;\n   - *«Парцеляція»* — розчленування речення на окремі пунктуаційні відрізки задля увиразнення акцентів;\n   - *«Риторичні запитання, оклики та звертання»*.\n\n2. Ораторські та публіцистичні жанри:\n   - *«Інвектива»* — гостре викривальне та осуджувальне слово;\n   - *«Філіпіка»* — гнівна промова проти ворогів держави;\n   - *«Панегірик / апологія»* — похвальна або захисна промова;\n   - *«Програмне звернення лідера нації»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Ми не відступимо. Ми не втомимося. Ми вистоїмо і здобудемо нашу перемогу заради майбутнього кожного українця.",
+          "reading": "[mɪ nɛ wʲidstuˈpɪmɔ. mɪ nɛ wtɔˈmɪmɔsʲɑ. mɪ wɪsˈtɔjɪmɔ i zdɔˈbudɛmɔ ˈnɑʃu pɛrɛˈmɔɦu zɐˈrɑdʲi mɐjˈbutnʲɔɦɔ ˈkɔʒnɔɦɔ ukrɐˈjint͡sʲɑ] (my neh veed-stoo-PY-moh. my neh vtoh-MY-moh-syah. my vys-TOH-yee-moh ee zdoh-BOO-deh-moh NAH-shoo peh-reh-MOH-hoo zah-RAH-dee mahy-BOOT-nyoh-hoh KOHZH-noh-hoh oo-krah-YEEN-tsyah)",
+          "translation": "We will not retreat. We will not tire. We will endure and win our victory for the sake of the future of every Ukrainian."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 33-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Не слова, а вчинки; не примарні обіцянки, а щоденна жертовна праця гартують суверенну міць нації.",
+          "reading": "[nɛ slɔˈwɑ, ɑ ˈwtʃɪnkɪ; nɛ prɪˈmɑrnʲi ɔbʲiˈt͡sʲɑnkɪ, ɑ ʃtʃɔˈdɛnnɐ ʒɛrˈtɔwnɐ ˈprɑt͡sʲɑ ɦɐrˈtujutʲ suwɛˈrɛnnu mʲit͡sʲ ˈnɑt͡sʲiji] (neh sloh-WAH, ah VCHYN-ky; neh pry-MAHR-nee oh-bee-TSYAHN-ky, ah shchoh-DEHN-nah zhehr-TOHV-nah PRAH-tsyah hahr-TOO-yoot' soo-weh-REHN-noo meets' NAH-tsee-yee)",
+          "translation": "Not words, but deeds; not elusive promises, but daily selfless labor temper the sovereign might of the nation."
+        },
+        {
+          "target": "Свобода не дарується чужою ласкою. Її виборюють. Кров'ю. Мужністю. Незламністю духу.",
+          "reading": "[swɔˈbɔdɐ nɛ dɐˈrujɛtʲsʲɑ tʃuˈʒɔju ˈlɑskɔju. jiˈji wɪˈbɔrʲujutʲ. ˈkrɔwjju. ˈmuʒnʲisʲtʲu. nɛzˈlɑmnʲisʲtʲu ˈduxu] (swoh-BOH-dah neh dah-ROO-yet'-syah choo-ZHOH-yoo LAHS-koh-yoo. yee-YEE vy-BOHR-yoo-yoot'. KROHV-yoo. MOOZH-neest'yoo. nez-LAHM-neest'yoo DOO-khoo)",
+          "translation": "Freedom is not granted by another's favor. It is fought for. With blood. With courage. With indomitability of spirit."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Повтор початку — «анафора»; розбиття крапками — «парцеляція»; наростання сили — «градація»; перехресний порядок — «хіазм»!"
+      ],
+      "culturalNotes": [
+        "Традиція української високої ораторики сягає проповідей Іларіона Київського («Слово про закон і благодать») та барокових казань Феофана Прокоповича."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Суд\":",
+          "prompt": "Як у риториці називається фігура експресивного синтаксису, що полягає у повторенні однакових слів на початку кількох послідовних речень?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.1.",
-            "Неправильне відмінкове узгодження зі словом «Суддя»",
-            "Порушення законів евфонії та словотворення для «Адвокат»",
-            "Стилістично некоректна синтаксична конструкція з «Право»"
+            "Анафора (Anaphora - repetition of words at the beginning of successive clauses)",
+            "Епіфора",
+            "Оксиморон",
+            "Хіазм"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Повторення початкових слів називається «анафорою» (anaphora)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Суд\":",
+          "prompt": "Яка стилістична фігура застосована у виразі «Свободу виборюють. Мужністю. Щит за щитом»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.1.",
-            "Порушення законів евфонії та словотворення для «Адвокат»",
-            "Стилістично некоректна синтаксична конструкція з «Право»",
-            "Неправильне відмінкове узгодження зі словом «Суддя»"
+            "Парцеляція (Parcellation - intentional sentence splitting for dramatic emphasis)",
+            "Інверсія",
+            "Плеоназм",
+            "Еліпсис"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Інтонаційне розчленування речення на окремі пунктуаційні відрізки є «парцеляцією»."
         }
       ]
     },
@@ -13659,17 +13668,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Суд\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому високий ораторський стиль та експресивний синтаксис виражено з максимальною експресивною силою:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.1.",
-            "Стилістично некоректна синтаксична конструкція з «Право»",
-            "Неправильне відмінкове узгодження зі словом «Суддя»",
-            "Порушення законів евфонії та словотворення для «Адвокат»"
+            "Ми боремося не за абстрактні гасла, а за рідну землю; не за тимчасовий спокій, а за вічну свободу наших нащадків.",
+            "Люди зібралися на площі щоб послухати як хтось щось скаже у мікрофон.",
+            "Промова була дуже довгою і всі втомилися чекати коли вона закінчиться.",
+            "Риторика забороняє вживати будь-які художні засоби у виступах."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Ми боремося не за абстрактні гасла, а за рідну землю; не за тимчасовий спокій, а за вічну свободу...» — класичний зразок риторичної антитези C2."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u33-l2": {
@@ -13677,53 +13687,62 @@
     "subject": "ukrainian",
     "unit": 33,
     "lessonNumber": 2,
-    "title": "Високий публіцистичний та ораторський стиль (Advanced Rhetoric) (Part 2)",
+    "title": "Публіцистична есеїстика, концептуальна метафора та авторський стиль",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 33.2) with authentic linguistic precision.",
+    "objective": "Опанувати мову інтелектуальної есеїстики (концептуальна метафора, алюзія, ремінісценція, іронія, парадокс, жанр авторської колонки Op-Ed).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Українська інтелектуальна есеїстика поєднує глибоку філософську рефлексію з витонченою мовною грою та естетичною довершеністю:\n\n1. Жанрові модифікації есеїстики:\n   - *«Філософсько-культурологічне есе»* (Юрій Шевельов, Оксана Забужко, Юрій Андрухович);\n   - *«Авторська колонка / аналітичний Op-Ed»* (Віталій Портников, Володимир Єрмоленко);\n   - *«Політичний памфлет та фейлетон»*.\n\n2. Тропеїчні засоби есеїстичного стилю:\n   - *«Концептуальна метафора»* — осмислення складної абстрактної ідеї через відчутний образний досвід;\n   - *«Інтертекстуальність, алюзії та ремінісценції»* — приховані або явні посилання на класичні культурні тексти;\n   - *«Парадокс та антиномія»* — поєднання взаємовиключних суджень, що виявляє приховану правду;\n   - *«Витончена іронія та сарказм»* як інструменти інтелектуальної деконструкції імперських міфів.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Українська культура століттями функціонувала як невмирущий палімпсест, де під імперськими нашаруваннями невпинно проступав первісний автентичний текст свободи.",
+          "reading": "[ukrɐˈjinsʲkɐ kulʲˈturɐ stɔˈlʲitʲːɐmɪ funk͡t͡sʲiɔnuˈwɑlɐ jɐk nɛwmɪˈruʃtʃɪj pɐlʲimpˈsɛst, dɛ pʲid impɛrsʲˈkɪmɪ nɐʃɐruˈwɑnnʲɐmɪ nɛwˈpɪnnɔ prɔstuˈpɑw pɛrˈwʲisnɪj ɐwtɛnˈtɪtʃnɪj tɛkst swɔˈbɔdɪ] (oo-krah-YEEN-s'kah kool'-TOO-rah stoh-LEET-tyah-my foonk-tsee-oh-noo-VAH-lah yahk neh-wmy-ROOSH-chy pah-leemp-SEHST, deh peed eem-pehr-s'KY-my nah-shah-roo-VAHN-nyah-my new-PYN-noh prohs-too-PAHV pehr-WEES-nyy ahv-tehn-TYCH-nyy tehkst swoh-BOH-dy)",
+          "translation": "Ukrainian culture functioned for centuries as an undying palimpsest, where under imperial overlays the primary authentic text of freedom incessantly showed through."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 33-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Цей інтелектуальний парадокс доводить: чим запеклішим був колоніальний наступ на українське слово, тим витонченішими ставали форми його художнього опору.",
+          "reading": "[t͡sɛj intɛlɛktuˈɑlʲnɪj pɐrɐˈdɔks dɔˈwɔdɪtʲ: tʃɪm zɐpɛkˈlʲiʃɪm buw kɔlɔnʲiˈɑlʲnɪj nɑsˈtup nɑ ukrɐˈjinsʲkɛ ˈslɔwɔ, tɪm wɪtɔnˈtʃɛnʲiʃɪmɪ stɐwɐˈlɪ ˈfɔrmɪ jɔˈɦɔ xuˈdɔʒnʲɔɦɔ ɔˈpɔru] (tseh-ee een-teh-lehk-too-AHL'-nyy pah-rah-DOHKS doh-VOH-dyt': chym zah-pehk-LEE-shym boov koh-loh-nee-AHL'-nyy nahs-TOOP nah oo-krah-YEEN-s'keh SLOH-woh, tym vy-tohn-CHEH-nee-shy-my stah-wah-LY FOHR-my yoh-HOH khoo-DOHZH-nyoh-hoh oh-POH-roo)",
+          "translation": "This intellectual paradox proves: the fiercer the colonial assault on the Ukrainian word, the more refined the forms of its artistic resistance became."
+        },
+        {
+          "target": "Влучна алюзія на біблійний сюжет про Давида і Голіафа перетворює публіцистичний текст на монументальний маніфест національного самоствердження.",
+          "reading": "[ˈwlutʃnɐ ɐlʲuˈzʲijɑ nɑ bʲibˈlʲijnɪj sʲuˈʒɛt prɔ dɐˈwɪdɐ i ɦɔlʲiˈɑfɐ pɛrɛtwɔˈrʲujɛ publʲit͡sɪsˈtɪtʃnɪj tɛkst nɑ mɔnumɛnˈtɑlʲnɪj mɐnʲiˈfɛst nɐt͡sʲiɔˈnɑlʲnɔɦɔ sɐmɔstxɛrˈdʒɛnʲːɑ] (VLOOCH-nah ah-lyoo-ZEE-yah nah beeb-LEEY-nyy syoo-ZHEHT proh dah-WY-dah ee hoh-lee-AH-fah peh-reh-twoh-RYOO-yeh poob-lee-tsy-stys-TYCH-nyy tehkst nah moh-noo-mehn-TAHL'-nyy mah-nee-FEHST nah-tsee-oh-NAHL'-noh-hoh sah-mohs-twehr-DZHEN-nyah)",
+          "translation": "An apt allusion to the biblical plot of David and Goliath transforms the publicist text into a monumental manifesto of national self-affirmation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Багатошаровий рукопис — «палімпсест»; натяк на відомий твір — «алюзія»; поєднання протилежностей — «парадокс»!"
+      ],
+      "culturalNotes": [
+        "Юрій Шевельов започаткував неперевершений канон української модерної есеїстики збірками «Не для дітей» та «Зустрічі з травнем»."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Суддя\":",
+          "prompt": "Як називається концептуальна метафора, що позначає пергамент, на якому поверх зішкрябаного старого тексту написаний новий (символ нашарування культурної пам'яті)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.2.",
-            "Неправильне відмінкове узгодження зі словом «Адвокат»",
-            "Порушення законів евфонії та словотворення для «Право»",
-            "Стилістично некоректна синтаксична конструкція з «Справедливість»"
+            "Палімпсест (Palimpsest - multilayered text / cultural memory metaphor)",
+            "Апокриф",
+            "Інтермедія",
+            "Епітафія"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Багатошаровий пергамент як метафора нашарування історичної пам'яті називається «палімпсестом»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Суддя\":",
+          "prompt": "Як називається стилістичний прийом, за якого в тексті міститься явний або прихований натяк на інший відомий твір, історичну подію чи міф?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.2.",
-            "Порушення законів евфонії та словотворення для «Право»",
-            "Стилістично некоректна синтаксична конструкція з «Справедливість»",
-            "Неправильне відмінкове узгодження зі словом «Адвокат»"
+            "Алюзія (Allusion - subtle or explicit reference to known cultural text/event)",
+            "Абстракція",
+            "Тавтологія",
+            "Гіпербола"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Художній або публіцистичний натяк на інший прецедентний текст чи факт є «алюзією» (allusion)."
         }
       ]
     },
@@ -13731,17 +13750,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Суддя\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому мову інтелектуальної публіцистики втілено з найвищою художньо-філософською майстерністю:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.2.",
-            "Стилістично некоректна синтаксична конструкція з «Справедливість»",
-            "Неправильне відмінкове узгодження зі словом «Адвокат»",
-            "Порушення законів евфонії та словотворення для «Право»"
+            "Українська культура подолала статус провінційного постколоніального маргінесу, утвердивши себе як самодостатній інтелектуальний полігон глобального переосмислення свободи.",
+            "Стаття вийшла цікавою і автор написав багато розумних думок про різні речі.",
+            "Есеїстика це просто коли людина пише будь-що без плану і фактів.",
+            "Ми відмовилися від метафор тому що вони заважають читати газети."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Українська культура подолала статус провінційного постколоніального маргінесу...» — неперевершений рівень інтелектуальної есеїстики C2."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u33-l3": {
@@ -13749,53 +13769,62 @@
     "subject": "ukrainian",
     "unit": 33,
     "lessonNumber": 3,
-    "title": "Високий публіцистичний та ораторський стиль (Advanced Rhetoric) (Part 3)",
+    "title": "Медіаграмотність, протидія дезінформації та стратегічні комунікації",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 33.3) with authentic linguistic precision.",
+    "objective": "Опанувати категоріальний апарат протидії ворожій дезінформації та когнітивній війні (ІПсО, фреймінг, фактчекінг, СтратКом, ботоферми, астротерфінг).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Стратегічні комунікації (StratCom) та медіаграмотність на рівні C2 охоплюють аналіз інструментів когнітивної війни та деконструкцію гібридних інформаційних загроз:\n\n1. Інструменти ворожого інформаційного впливу:\n   - *«ІПсО (Інформаційно-психологічна спеціальна операція)»*;\n   - *«Дезінформація (свідома брехня) vs Місінформація (помилкове поширення) vs Малінформація (використання правди для завдання шкоди)»*;\n   - *«Астротерфінг»* — штучне створення видимості масової громадської підтримки за допомогою ботоферм;\n   - *«Маніпулятивний фреймінг (Framing)»* — нав'язування викривленого контексту сприйняття подій;\n   - *«Діпфейки (Deepfakes) та генеративна фабрикація контенту»*.\n\n2. Інституційна система протидії та фактчекінг:\n   - *«Стратегічні комунікації (СтратКом)»* Збройних Сил України та державних органів;\n   - *«Центр стратегічних комунікацій та інформаційної безпеки (Spravdi)»*;\n   - *«Центр протидії дезінформації (ЦПД) при РНБО України»*;\n   - *«Фактчекінг, верифікація першоджерел, OSINT-розслідування»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Ворожа інформаційно-психологічна операція (ІПсО) спрямована на деморалізацію цивільного населення та розпалювання штучних внутрішньополітичних розколів.",
+          "reading": "[wɔˈrɔʒɐ infɔrmɐt͡sʲijˈnɔ psɪxɔlɔˈɦʲitʃnɐ ɔpɛˈrɑt͡sʲijɑ i pɛ ɛs ˈɔ sprʲɑˈmɔwɑnɐ nɑ dɛmɔrɐlʲiˈzɑt͡sʲiju t͡sɪˈwʲilʲnɔɦɔ nɐsɛˈlɛnʲːɑ tɑ rɔzpɑˈlʲuwnʲːɑ ʃtutʃˈnɪx wnutˈrʲiʃnʲɔpɔlʲiˈtɪtʃnɪx rɔzˈkɔlʲiw] (woh-ROH-zhah een-fohr-mah-tseey-NOH psy-khoh-loh-HEECH-nah oh-peh-RAH-tsee-yah ee peh ehs OH spryah-moh-VAH-nah nah deh-moh-rah-lee-ZAH-tsee-yoo tsy-VEEL'-noh-hoh nah-seh-LEN-nyah tah roz-pah-LYOO-vahn-nyah shtooch-NYKH vnoot-REESH-nyoh-poh-lee-TYCH-nykh roz-KOH-leew)",
+          "translation": "The hostile psychological operation (PsyOp) is aimed at demoralizing the civilian population and inciting artificial domestic political splits."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 33-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Застосування технології астротерфінгу через мережі координованих ботоферм створює фальшиву ілюзію обурення громадськості.",
+          "reading": "[zɐstɔsuˈwɑnʲːɑ tɛxnɔˈlɔɦʲiji ɐstrɔˈtɛrfʲinɦu ˈtʃɛrɛz mɛˈrɛʒʲi kɔɔrdɪˈnɔwɑnɪx bɔtɔˈfɛrm stwɔˈrʲujɛ fɐlʲˈʃɪwu ilʲuˈzʲiju ɔbuˈrɛnʲːɑ ɦrɔmɐdʲˈsʲkɔsʲtʲi] (zahs-toh-soo-VAHN-nyah tehkh-noh-LOH-hee-yee ahs-troh-TEHR-feen-hoo CHEH-rez meh-REH-zhee koh-ohr-dy-NOH-wah-nykh boh-toh-FEHRM stwoh-RYOO-yeh fahl'-SHY-woo ee-lyoo-ZEE-yoo oh-boo-REN-nyah hroh-mahd-S'KOHS-tee)",
+          "translation": "The application of astroturfing technology through networks of coordinated bot farms creates a fake illusion of public outrage."
+        },
+        {
+          "target": "Центр стратегічних комунікацій здійснює щоденний фактчекінг та спростовує наративи дезінформації у взаємодії з міжнародними партнерами.",
+          "reading": "[ˈt͡sɛntr strɐtɛˈɦʲitʃnɪx kɔmunʲiˈkɑt͡sʲij zʲdʲijʲsʲˈnʲujɛ ʃtʃɔˈdɛnnɪj fɐktˈtʃɛkʲinɦ tɑ sprɔstɔˈwujɛ nɐrɐˈtɪwɪ dɛzinfɔrˈmɑt͡sʲiji u wzɐjɛmɔˈdʲiji z mʲiʒnɐˈrɔdnɪmɪ pɐrtˈnʲɛrɐmɪ] (TSEHNTR strah-teh-HEECH-nykh koh-moo-nee-KAH-tseey zdeey-SNYOO-yeh shchoh-DEHN-nyy fahkt-CHEH-keen-hoo tah sprohs-toh-VOO-yeh nah-rah-TY-wy deh-zeen-fohr-MAH-tsee-yee oo vzah-yeh-moh-DEE-yee z meezh-nah-ROHD-ny-my pahrt-NYEH-rah-my)",
+          "translation": "The Centre for Strategic Communication carries out daily fact-checking and refutes disinformation narratives in cooperation with international partners."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Свідома брехня — «дезінформація»; фальшива масовість від ботів — «астротерфінг»; координатор захисту — «СтратКом & ЦПД»!"
+      ],
+      "culturalNotes": [
+        "Український проєкт StopFake, створений викладачами й студентами Могилянської школи журналістики у 2014 році, став світовим флагманом фактчекінгу."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Адвокат\":",
+          "prompt": "Як називається маніпулятивна технологія штучного створення видимості широкої громадської підтримки за допомогою координованих ботів?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.3.",
-            "Неправильне відмінкове узгодження зі словом «Право»",
-            "Порушення законів евфонії та словотворення для «Справедливість»",
-            "Стилістично некоректна синтаксична конструкція з «Свідок»"
+            "Астротерфінг (Astroturfing - artificial grassroots simulation via botnets)",
+            "Стримінґ",
+            "Моделінг",
+            "Краудфандинг"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Штучна імітація народної думки через ботів має назву «астротерфінг» (astroturfing)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Адвокат\":",
+          "prompt": "Як розшифровується абревіатура ІПсО у контексті гібридної війни?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.3.",
-            "Порушення законів евфонії та словотворення для «Справедливість»",
-            "Стилістично некоректна синтаксична конструкція з «Свідок»",
-            "Неправильне відмінкове узгодження зі словом «Право»"
+            "Інформаційно-психологічна спеціальна операція (Information-psychological special operation)",
+            "Інтернет-простір соціальної освіти",
+            "Інститут прикладного суспільного опитування",
+            "Інтегрована програма стратегічної оборони"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "ІПсО — це Інформаційно-психологічна спеціальна операція."
         }
       ]
     },
@@ -13803,17 +13832,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Адвокат\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому терміни інформаційної безпеки вжито з абсолютною точністю:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.3.",
-            "Стилістично некоректна синтаксична конструкція з «Свідок»",
-            "Неправильне відмінкове узгодження зі словом «Право»",
-            "Порушення законів евфонії та словотворення для «Справедливість»"
+            "Завдяки оперативному фактчекінгу та скоординованим зусиллям СтратКому ворожу ІПсО та маніпулятивний фреймінг було своєчасно нейтралізовано.",
+            "ІПсО це комп'ютерна гра де кожен гравець може обрати собі будь-яку зброю.",
+            "Фактчекінг означає що новини пишуться без перевірки інформації в інтернеті.",
+            "Астротерфінг — це вирощування живої трави біля телевізійних веж."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Завдяки оперативному фактчекінгу та скоординованим зусиллям СтратКому...» — професійна термінологія стратегічних комунікацій C2."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u33-l4": {
@@ -13821,53 +13851,62 @@
     "subject": "ukrainian",
     "unit": 33,
     "lessonNumber": 4,
-    "title": "Високий публіцистичний та ораторський стиль (Advanced Rhetoric) (Part 4)",
+    "title": "Діалектологія, архаїзми, історизми, неологізми та мовний пуризм",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 33.4) with authentic linguistic precision.",
+    "objective": "Опанувати діалектний ландшафт України (північне, південно-західне, південно-східне наріччя), історичну лексику, неологізми та сучасні норми правопису (фемінітиви, варіативність).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Багатство та самобутність української мови розкриваються у її діалектній поліфонії, історичній пам'яті лексикону та словотвірній динаміці:\n\n1. Діалектні наріччя української мови:\n   - *«Південно-східне наріччя»* (середньонаддніпрянські, слобожанські, степові говірки — основа сучасної літературної норми);\n   - *«Південно-західне наріччя»* (галицько-буковинські, подільські, волинські, закарпатські, лемківські, гуцульські, бойківські говірки — зберегли архаїчну фонетику й лексику);\n   - *«Північне (поліське) наріччя»* (дифтонги [уо, уе], збереження реліктових праслов'янських рис).\n\n2. Історичні шари лексики:\n   - *«Історизми»* (назви зниклих реалій: волость, осавул, хорунжий, ратуша, цехмістер);\n   - *«Архаїзми»* (застарілі назви наявних понять: вої, злато, ректи, перст, пиїтет).\n\n3. Неологізми, мілітарний соціолект та мовний пуризм:\n   - Неологізми доби визвольної війни: *«бавовна», «двохсотий/трьохсотий», «ноль», «приліт», «донат», «блекаут»*;\n   - *«Фемінітиви»* за новим правописом: *посолка, міністерка, професорка, бійчиня, захисниця*;\n   - *«Мовний пуризм»* — тяжіння до питомих українських відповідників замість запозичень (*летовище замість аеропорт, прислів'я замість приказка, відсоток замість процент*).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Південно-західні говірки збагатили літературний канон колоритними діалектизмами та неповторною синтаксичною інтонацією.",
+          "reading": "[pʲiwˈdɛnnɔ zɑxʲidˈnʲi ɦɔwʲirˈkɪ zbɐˈɦɑtɪlɪ lʲitɛrɐˈturnɪj kɐˈnɔn kɔlɔˈrɪtnɪmɪ dʲiɐlɛkˈtɪzmɐmɪ tɑ nɛpɔwtɔrˈnɔju sɪntɐkˈsɪtʃnɔju intɔˈnɑtsʲijɛju] (peew-DEHN-noh zah-kheed-NEE hoh-weer-KY zbah-HAH-ty-ly lee-teh-rah-TOOR-nyy kah-NOHN koh-loh-RYT-ny-my dee-ah-lehk-TYZ-mah-my tah neh-pohv-tohr-NOH-yoo syn-tahk-SYCH-noh-yoo een-toh-NAH-tsee-yeh-yoo)",
+          "translation": "South-western dialects enriched the literary canon with colorful dialectisms and unique syntactic intonation."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 33-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Уживання нормативних фемінітивів за новим правописом утверджує гендерну видимість жінок в академічній та оборонній сферах.",
+          "reading": "[uʒɪˈwɑnʲːɑ nɔrmɐˈtɪwnɪx fɛmʲinʲiˈtɪwʲiw zɑ ˈnɔwɪm prɐwɔˈpɪsɔm utwɛrˈdʒujɛ ˈɦɛndɛrnu wɪˈdɪmʲisʲtʲ ʒʲinɔk w ɐkɐdɛˈmʲitʃnʲij tɑ ɔbɔˈrɔnnʲij sfɛˈrɐx] (oo-zhy-VAHN-nyah nohr-mah-TYV-nykh feh-mee-nee-TEE-weew zah NOH-wym prah-woh-PYS-ohm oot-wehr-DZHOO-yeh HEHN-dehr-noo vy-DY-meest' zhee-nohk v ah-kah-deh-MEECH-neey tah oh-boh-ROHN-neey sfeh-RAHKH)",
+          "translation": "The use of normative feminitives according to the new orthography establishes the gender visibility of women in academic and defense spheres."
+        },
+        {
+          "target": "Лексичний пуризм сприяє відродженню питомого словотвірного потенціалу української мови.",
+          "reading": "[lɛkˈsɪtʃnɪj puˈrɪzm sprɪˈjɑjɛ wʲidrɔdʒˈdʒɛnnʲu pɪˈtɔmɔɦɔ slɔwɔˈtwʲirnɔɦɔ pɔtɛnt͡sʲiˈɑlu ukrɐˈjinsʲkɔji ˈmɔwɪ] (lehk-SYCH-nyy poo-RYZM spry-YAH-yeh veed-rohdzh-DZHEN-nyoo py-TOH-moh-hoh sloh-woh-TWEER-noh-hoh poh-tehn-tsee-AH-loo oo-krah-YEEN-s'koh-yee MOH-wy)",
+          "translation": "Lexical purism fosters the revival of the native word-building potential of the Ukrainian language."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Діалекти: Південно-східне (основа норми), Південно-західне (галицьке/гуцульське), Північне (поліське); фемінітиви — суфікси -к-, -иц-, -ин-!"
+      ],
+      "culturalNotes": [
+        "Український правопис 2019 року відновив питомі історичні норми української мови (харківського правопису 1928 року), знищені радянськими репресіями 1933 року."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Право\":",
+          "prompt": "Яке наріччя української мови послужило історичною основою для формування сучасної української літературної норми?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.4.",
-            "Неправильне відмінкове узгодження зі словом «Справедливість»",
-            "Порушення законів евфонії та словотворення для «Свідок»",
-            "Стилістично некоректна синтаксична конструкція з «Вирок»"
+            "Південно-східне наріччя (South-eastern dialect group - basis of modern standard Ukrainian)",
+            "Північне наріччя",
+            "Поліське наріччя",
+            "Закарпатське наріччя"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Основою української літературної мови є середньонаддніпрянські говірки південно-східного наріччя."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Право\":",
+          "prompt": "Який суфікс є найпродуктивнішим для творення нормативних фемінітивів в українській мові (авторка, директорка, науковиця)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.4.",
-            "Порушення законів евфонії та словотворення для «Свідок»",
-            "Стилістично некоректна синтаксична конструкція з «Вирок»",
-            "Неправильне відмінкове узгодження зі словом «Справедливість»"
+            "Суфікс -к- / -иц- / -ин- (Suffixes -k-, -yts-, -yn- for productive feminitives)",
+            "Суфікс -тель",
+            "Суфікс -изм",
+            "Суфікс -ар"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Провідними суфіксами фемінітивів є *-к-* (професорка), *-иц-* (керівниця), *-ин-* (майстриня)."
         }
       ]
     },
@@ -13875,17 +13914,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Право\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому діалектологічні та правописні поняття використано бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.4.",
-            "Стилістично некоректна синтаксична конструкція з «Вирок»",
-            "Неправильне відмінкове узгодження зі словом «Справедливість»",
-            "Порушення законів евфонії та словотворення для «Свідок»"
+            "Гармонійне поєднання південно-східної діалектної основи з лексичним багатством південно-західних говірок та нормативними фемінітивами творить сучасний динамічний канон солов'їної мови.",
+            "Діалекти треба повністю заборонити тому що вони псують літературну мову.",
+            "Фемінітиви були вигадані тільки вчора і не мають жодних правил вживання.",
+            "Південно-східне наріччя не має жодного відношення до української мови."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Гармонійне поєднання південно-східної діалектної основи з лексичним багатством південно-західних говірок...» — зразок мовознавчого аналізу C2."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u33-l5": {
@@ -13893,53 +13933,62 @@
     "subject": "ukrainian",
     "unit": 33,
     "lessonNumber": 5,
-    "title": "Високий публіцистичний та ораторський стиль (Advanced Rhetoric) (Part 5)",
+    "title": "Міжкультурна комунікація, синхронний та художній переклад",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 33.5) with authentic linguistic precision.",
+    "objective": "Опанувати теорію та практику перекладу (синхронний переклад, еквівалентність, лакуни, переклад реалій, «фальшиві друзі перекладача», школа Миколи Лукаша).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Мистецтво перекладу (Translation & Interpretation) на рівні C2 є вищим синтезом міжкультурної медіації та віртуозного володіння рідною мовою:\n\n1. Види та техніки перекладу:\n   - *«Синхронний переклад (Simultaneous Interpretation)»* — усний переклад у кабіні одночасно з промовою оратора (темпоритм, компресія тексту);\n   - *«Послідовний переклад (Consecutive Interpretation)»* — переклад блоками з використанням перекладацького скоропису (нотаток);\n   - *«Художній та поетичний переклад»* — відтворення образної системи, ритмомелодики та підтексту.\n\n2. Проблеми транслатології:\n   - *«Еквівалентність та адекватність перекладу»*;\n   - *«Безеквівалентна лексика (етнокультурологічні реалії)»* (транслітерація, описовий переклад, калькування);\n   - *«Лакуни та когнітивні розбіжності між картинами світу»*;\n   - *«Міжмовні пароніми («фальшиві друзі перекладача»)»* (*accurate — не «акуратний», а «точний»; complex — не «комплекс», а «складний»*).\n\n3. Корифеї української перекладацької школи:\n   - *«Микола Лукаш»* (переклав «Декамерон», «Дон Кіхота», «Фауста» вишуканою живою українською лексикою);\n   - *«Григорій Кочур, Борис Тен (переклад Гомера), Максим Рильський»*;\n   - Журнал іноземної літератури «Всесвіт» як вікно у світову думку.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Синхронний переклад виступів на самітах найвищого рівня вимагає миттєвої семантичної компресії та бездоганної дипломатичної точності.",
+          "reading": "[sɪnˈxrɔnnɪj pɛrɛkˈlɑd ˈwɪstupʲiw nɑ ˈsɑmʲitɐx nɐjˈwɪʃtʃɔɦɔ ˈrʲiwnʲɑ wɪmɐˈɦɑjɛ mɪtʲˈt͡ʃɛwɔji sɛmɐnˈtɪtʃnɔji kɔmˈprɛsʲiji tɑ bɛzdɔˈɦɑnnɔji dɪplɔmɐˈtɪtʃnɔji ˈtɔtʃnɔsʲtʲi] (syn-KHROHN-nyy peh-reh-KLAHD VYS-too-peew nah SAH-mee-tahkh nahy-VYSH-choh-hoh REEV-nyah vy-mah-HAH-yeh myt-TYEH-woh-yee seh-mahn-TYCH-noh-yee kohm-PREH-see-yee tah bez-doh-HAHN-noh-yee dy-ploh-mah-TYCH-noh-yee TOHCH-nohs-tee)",
+          "translation": "Simultaneous interpretation of speeches at highest-level summits requires instant semantic compression and impeccable diplomatic precision."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 33-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Геніальні переклади Миколи Лукаша довели невичерпне багатство та універсальну виражальну спроможність українського слова.",
+          "reading": "[ɦɛnʲiˈɑlʲnʲi pɛrɛkˈlɑdɪ mɪˈkɔlɪ luˈkɑʃɑ dɔˈwɛlɪ nɛwɪˈtʃɛrpnɛ bɐˈɦɑt͡stxɔ tɑ unʲiwɛrˈsɑlʲnu wɪrɐˈʒɑlʲnu sprɔˈmɔʒnʲisʲtʲ ukrɐˈjinsʲkɔɦɔ ˈslɔwɐ] (heh-nee-AHL'-nee peh-reh-KLAH-dy my-KOH-ly loo-KAH-shah doh-WEH-ly neh-wy-CHEHRP-neh bah-HAHT-stvah tah oo-nee-wehr-SAHL'-noo vy-rah-ZHAHL'-noo sproh-MOHZH-neest' oo-krah-YEEN-s'koh-hoh SLOH-wah)",
+          "translation": "The genius translations of Mykola Lukash proved the inexhaustible wealth and universal expressive capacity of the Ukrainian word."
+        },
+        {
+          "target": "Адекватна передача безеквівалентної лексики вимагає глибокого культурологічного коментування для іноземного реципієнта.",
+          "reading": "[ɐdɛkˈwɑtnɐ pɛrɛˈdɑtʃɑ bɛzɛkwʲiwɐˈlɛntnɔji ˈlɛksɪkɪ wɪmɐˈɦɑjɛ hlɪˈbɔkɔɦɔ kulʲturɔlɔˈɦʲitʃnɔɦɔ kɔmɛntuˈwɑnʲːɑ dlʲɑ inɔˈzɛmnɔɦɔ rɛt͡sɪpʲiˈjɛntɐ] (ah-dehk-VAHT-nah peh-reh-DAH-chah bez-ehk-wee-vah-LEHNT-noh-yee LEHK-sy-ky vy-mah-HAH-yeh hly-BOH-koh-hoh kool'-too-roh-loh-HEECH-noh-hoh koh-mehn-too-VAHN-nyah dlyah ee-noh-ZEHM-noh-hoh reh-tsy-pee-YEHN-tah)",
+          "translation": "Adequate transfer of non-equivalent vocabulary requires deep culturological commentary for the foreign recipient."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Переклад наживо в кабіні — «синхронний»; слова-пастки — «фальшиві друзі перекладача»; корифей мови — Микола Лукаш!"
+      ],
+      "culturalNotes": [
+        "Український журнал «Всесвіт», заснований у 1925 році Василем Елланом-Блакитним та Миколою Хвильовим, виходив навіть у роки цензури, відкриваючи шедеври світової літератури в перекладах українською мовою."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Справедливість\":",
+          "prompt": "Як у теорії перекладу називаються слова різних мов, схожі за звучанням, але відмінні за значенням (наприклад, accurate vs акуратний)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.5.",
-            "Неправильне відмінкове узгодження зі словом «Свідок»",
-            "Порушення законів евфонії та словотворення для «Вирок»",
-            "Стилістично некоректна синтаксична конструкція з «Конституція»"
+            "«Фальшиві друзі перекладача» / міжмовні омоніми (False friends of the translator)",
+            "Антоніми",
+            "Омографи",
+            "Синоніми"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Схожі за формою, але відмінні за змістом слова називаються «фальшивими друзями перекладача»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Справедливість\":",
+          "prompt": "Хто з видатних українських перекладачів XX століття здійснив віртуозні переклади «Декамерона» Боккаччо та «Фауста» Гете?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.5.",
-            "Порушення законів евфонії та словотворення для «Вирок»",
-            "Стилістично некоректна синтаксична конструкція з «Конституція»",
-            "Неправильне відмінкове узгодження зі словом «Свідок»"
+            "Микола Лукаш (Mykola Lukash - mastermind of Ukrainian literary translation)",
+            "Михайло Грушевський",
+            "Павло Тичина",
+            "Володимир Винниченко"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Віртуозом українського перекладу, який відтворив «Декамерон» і «Фауста», був Микола Лукаш."
         }
       ]
     },
@@ -13947,17 +13996,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Справедливість\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому майстерність художнього та синхронного перекладу охарактеризовано найбільш ґрунтовно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 33.5.",
-            "Стилістично некоректна синтаксична конструкція з «Конституція»",
-            "Неправильне відмінкове узгодження зі словом «Свідок»",
-            "Порушення законів евфонії та словотворення для «Вирок»"
+            "Українська перекладацька традиція Миколи Лукаша та Григорія Кочура перетворила переклад на потужний інструмент утвердження національної самобутності та культурного діалогу зі світом.",
+            "Синхронний перекладач може замінити будь-які слова власними вигадками.",
+            "Художній переклад полягає у дослівному машинному копіюванні кожного речення.",
+            "Безеквівалентна лексика означає що мова не має жодних слів для спілкування."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Українська перекладацька традиція Миколи Лукаша та Григорія Кочура перетворила переклад...» — бездоганний філологічний висновок C2."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u34-l1": {
