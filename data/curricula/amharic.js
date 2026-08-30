@@ -2736,85 +2736,62 @@
     "subject": "amharic",
     "unit": 6,
     "lessonNumber": 1,
-    "title": "የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping) (ክፍል 1)",
+    "title": "የኢትዮጵያ ባህላዊ ምግቦች እና መጠጦች (Traditional Ethiopian Foods & Beverages)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የባህላዊ ምግቦች እና መጠጦች ስሞች፣ በገበያ ውስጥ ዋጋ መጠየቅ እና መገበያየት። (ክፍል 1)።",
+    "objective": "የኢትዮጵያ ባህላዊ ምግቦችን (እንጀራ፣ ዶሮ ወጥ፣ ሽሮ፣ ክትፎ፣ ጥብስ) እና መጠጦችን (ቡና፣ ሻይ፣ ጠጅ፣ ጠላ) በስም መለየት።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የኢትዮጵያ ባህላዊ ምግቦች እና መጠጦች:\n\n፩. ዋና ዋና ባህላዊ ምግቦች:\n- «እንጀራ»: ከጤፍ ዱቄት የሚዘጋጅ ለስላሳና ቀዳዳ ቀዳዳ ያለው ባህላዊ እንጀራ\n- «ዶሮ ወጥ»: በቅመም፣ በሽንኩርትና በርበሬ የሚሠራ የበዓላት የዶሮ ወጥ ከእንቁላል ጋር\n- «ሽሮ ወጥ»: ከተፈጨ የአተር ወይም የባቄላ ዱቄት የሚዘጋጅ ተወዳጅ የዕለት ተዕለት ወጥ\n- «ክትፎ»: በጥሩ ቅቤና ሚጥሚጣ የሚቦካ የለስላሳ ስጋ ምግብ\n- «ጥብስ»: በሽንኩርትና በቃሪያ የተጠበሰ ጣፋጭ ስጋ።\n\n፪. ባህላዊ መጠጦች:\n- «ቡና»: በጀበና የሚፈላ የኢትዮጵያ ቡና\n- «ሻይ» (Tea)\n- «ጠጅ»: ከማርና ከጌሾ የሚዘጋጅ ባህላዊ መጠጥ\n- «ጠላ»: ከዕህልና ከጌሾ የሚጠመቅ ባህላዊ መጠጥ።\n\n፫. ጠቃሚ ግሶች:\n- መብላት፣ መጠጣት፣ መጋበዝ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (6.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)' to the students."
+          "target": "እኔ እንጀራ በዶሮ ወጥ እና በሽሮ በጣም እወዳለሁ።",
+          "reading": "Əne ənğära bä doro wät’ ənna bäšəro bät’am əwädallähu. [ɨˈne ɨndʒɛˈra bɛdoˈro wɛtʼ ɨnːa bɛʃɨˈro bɛtʼam ɨwɛdaˈlːɨhu] (uh-NAY un-JEH-rah buh DOH-roh weht' un-nah buh-shuh-ROH beh-T'AHM uh-weh-DAHL-luh-hoo)",
+          "translation": "I like Injera with Doro Wot and Shiro very much."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (6.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እንግዶቻችንን በጣፋጭ ክትፎ እና በጀበና ቡና እንጋብዛለን።",
+          "reading": "Əngədočaččənən bät’afac’ kətfo ənna bäğäbäna bunna ənnəggabbəzallän. [ɨnɡɨdoˈtʃatʃːɨnɨn bɛtʼaˈfatʃʼ kɨtˈfo ɨnːa bɛdʒɛbɛˈna bunːa ɨnːɨɡːabːɨˈzalːɛn] (un-guh-doh-chahch-CHUN-un buh-t'ah-FAHCH kut-FOH un-nah buh-jeh-beh-NAH boon-NAH un-nuhg-gahb-buh-ZAHL-len)",
+          "translation": "We treat our guests with delicious Kitfo and clay-pot Jebena coffee."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (6.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (6.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በበዓል ቀን መላው ቤተሰብ ተሰብስቦ ጥብስ እና ጠጅ ይመገባል።",
+          "reading": "Bäbä'al qän mällaw betäsäb täsäbsəbo t’əbs ənna t’äğğ yəmmäggäball. [bɛbɛˈʔal kʼɛn mɛlːaw betɛˈsɛb tɛsɛbˈsɨbo tʼɨbs ɨnːa tʼɛdʒː jɨmːɛɡːɛˈbal] (buh-beh-AHL k'en mel-LOW bay-tuh-SEB teh-seb-suh-BOH t'ubs un-nah t'ej yuhm-meg-geh-BAHL)",
+          "translation": "On holiday, the entire family gathers to eat Tibs and drink Tej."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ethiopian Menu: እንጀራ (base) + ዶሮ ወጥ / ሽሮ / ክትፎ / ጥብስ (stews & meats) + ጀበና ቡና (coffee)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህል 'ጉርሻ' (Gursha) ለምትወደው ሰው በእጅህ ምግብ ማጉረስ የፍቅር፣ የአክብሮትና የቅርበት መግለጫ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከጤፍ ዱቄት የሚጋገረውና የኢትዮጵያ ዋናው ባህላዊ ምግብ መሠረት የሆነው ምንድን ነው?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (6.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (6.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (6.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (6.1.w3)"
+            "እንጀራ (Injera - Traditional sourdough flatbread made from teff)",
+            "ዳቦ",
+            "ፓስታ",
+            "ሩዝ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«እንጀራ» ከጤፍ የሚዘጋጅ የኢትዮጵያ መሠረታዊ ባህላዊ ምግብ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u6-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'We drink coffee from the Jebena' የሚለውን ሐሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (6.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (6.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (6.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (6.1.x3)"
+            "የጀበና ቡና እንጠጣለን። (We drink Jebena coffee - Correct beverage sentence)",
+            "የጀበና ቡና እንበላለን።",
+            "ውኃ ብቻ እንጠጣለን።",
+            "ቡና አንወድም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (6.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (6.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (6.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (6.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ቡና ፈሳሽ ስለሆነ ከ«መጠጣት» ግስ ጋር ተጣምሮ «የጀበና ቡና እንጠጣለን» ይባላል።"
         }
       ]
     },
@@ -2822,24 +2799,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 6-1):",
+          "prompt": "የኢትዮጵያ ባህላዊ ምግቦችንና መጠጦችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (6.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (6.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (6.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (6.1.z3)"
+            "እንጀራ፣ ዶሮ ወጥ፣ ሽሮ፣ ክትፎ፣ ጥብስ እና ጀበና ቡና።",
+            "በርገር እና ፒዛ ብቻ።",
+            "በኢትዮጵያ ወጥ አይበላም።",
+            "ጠጅ እና ጠላ የምግብ አይነቶች ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና ባህላዊ ምግቦችንና መጠጦችን በትክክል ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u6-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'እንጀራ / Injera' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "እንጀራ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «እንጀራ» (Ənğära) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -2850,85 +2826,62 @@
     "subject": "amharic",
     "unit": 6,
     "lessonNumber": 2,
-    "title": "የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping) (ክፍል 2)",
+    "title": "በምግብ ቤት ውስጥ ማዘዝ እና ጥያቄዎች (Ordering at a Restaurant)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የባህላዊ ምግቦች እና መጠጦች ስሞች፣ በገበያ ውስጥ ዋጋ መጠየቅ እና መገበያየት። (ክፍል 2)።",
+    "objective": "በሬስቶራንት ወይም በሆቴል ውስጥ ምግብ ማዘዝን፣ አስተናጋጅ መጥራትንና ሂሳብ መጠየቅን ማወቅ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "በምግብ ቤት ውስጥ አገልግሎት ማግኘት እና ማዘዝ:\n\n፩. አስተናጋጅን መጥራት እና ማዘዝ:\n- «አስተናጋጅ!»\n- «ምን ልታዘዝ?» ወይም «ምን ይምጣ?»\n- «እባክዎ የምግብ ዝርዝር (ሜኑ) ያምጡልኝ»\n- «እባክዎ አንድ ሽሮ እና ሁለት እንጀራ ያምጡልን»።\n\n፪. ጥያቄዎች እና ምስጋና:\n- «በጣም ይጣፍጣል»\n- «ይበቃኛል»\n- «ውኃ አለ?»\n- «ሂሳብ ስንት ነው?» ወይም «ሂሳብ አምጡልኝ»።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (6.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)' to the students."
+          "target": "እባክዎን አስተናጋጅ፣ ለእኔ አንድ የጾም በያይነቱ እና አንድ የታሸገ ውኃ አምጡልኝ።",
+          "reading": "Əbakwon astänagağ, lä'əne and yäs’om bäyayənätu ənna and yätaššägä wəha amət’ulləng. [ɨbakˈwon astɛnaˈɡadʒ lɨʔɨˈne and jɛsˤom bɛjajɨnɛˈtu ɨnːa and jɛtaʃːɛˈɡɛ wɨˈha amɨtʼulːɨɲ] (uh-bahk-WOHN ahs-teh-nah-GAHJ, luh-uh-NAY ahnd yeh-ts'ohm beh-yah-yuh-neh-TOO un-nah ahnd yeh-tahsh-sheh-GEH wuh-HAH ahm-t'ool-LUN)",
+          "translation": "Please waiter, bring me one fasting combination platter (Beyaynetu) and one bottled water."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (6.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ምግቡ በጣም ይጣፍጣል፤ እባክዎ አሁን ሂሳብ ያምጡልን።",
+          "reading": "Məgbu bät’am yət’affət’all; əbakwo ahun hisab yamət’ullən. [mɨɡˈbu bɛtʼam jɨtʼafːɨˈtʼal ɨbakˈwo aˈhun hiˈsab jamɨtʼuˈlːɨn] (mug-BOOO beh-T'AHM yuh-t'ahf-fuh-T'AHL; uh-bahk-WOH ah-HOON hee-SAHB yahm-t'ool-LUN)",
+          "translation": "The food is very delicious; please bring us the bill now."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (6.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (6.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "አስተናጋጁ ፈጣንና ትሁት አገልግሎት ለደንበኞቹ ይሰጣል።",
+          "reading": "Astänagağu fät’t’anənna təhut agälgəlot lädänbänyočču yəsät’all. [astɛnaˈɡadʒu fɛtʼːanɨnːa tɨˈhut aɡɛlɡɨˈlot lɨdɛnbɛˈɲotʃːu jɨsɛˈtʼal] (ahs-teh-nah-GAH-joo fet'-t'ahn-un-nah tuh-HOOT ah-gel-guh-LOHT luh-den-ben-yohch-CHOO yuh-set'-t'AHL)",
+          "translation": "The waiter provides fast and courteous service to the customers."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ordering steps: ሜኑ አምጡልኝ (menu please) -> እባክዎ ... ያምጡልኝ (please bring ...) -> ሂሳብ ስንት ነው? (how much is the bill?)"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ምግብ ቤቶች አንድ ትልቅ ማዕድ (ማሶብ) ዙሪያ ተሰብስቦ አብሮ መመገብ 'የአንድነትና የበረከት' መገለጫ ተደርጎ ይወሰዳል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በምግብ ቤት ውስጥ የበሉበትን ክፍያ ለመጠየቅ 'ሂሳብ ስንት ነው?' ማለት ምን ማለት ነው?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (6.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (6.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (6.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (6.2.w3)"
+            "ሂሳብ ስንት ነው? / How much is the bill? (Correct bill inquiry)",
+            "ምግቡ የት ነው?",
+            "ስምዎ ማን ነው?",
+            "ሰዓቱ ስንት ነው?"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ሂሳብ ስንት ነው?» የክፍያ መጠየቂያ ትክክለኛ አገላለጽ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u6-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Please bring me water' የሚለውን ትህትና የተሞላበት ትዕዛዝ በአማርኛ የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (6.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (6.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (6.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (6.2.x3)"
+            "እባክዎ ውኃ ያምጡልኝ። (Please bring me water - Polite request)",
+            "ውኃ አልጠጣም።",
+            "ውኃ የለም።",
+            "ሂሳብ ክፈሉ።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (6.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (6.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (6.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (6.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«እባክዎ ... ያምጡልኝ» በትህትና ለማዘዝ የሚያገለግል ነው።"
         }
       ]
     },
@@ -2936,24 +2889,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 6-2):",
+          "prompt": "በምግብ ቤት ውስጥ የሚደረግን የተሟላ ውይይት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (6.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (6.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (6.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (6.2.z3)"
+            "እባክዎ ሜኑ ያምጡልኝ -> አንድ ጥብስ አምጡልኝ -> ምግቡ ይጣፍጣል -> ሂሳብ ስንት ነው?",
+            "ሜኑ አልፈልግም -> ሂሳብ አልከፍልም።",
+            "ውኃ በላሁ -> ዳቦ ጠጣሁ።",
+            "በአማርኛ አስተናጋጅ አይጠራም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የምግብ ቤት ቅደም ተከተል ያሳያል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u6-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ሂሳብ / Bill, account' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ሂሳብ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ሂሳብ» (Hisab) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -2964,85 +2916,62 @@
     "subject": "amharic",
     "unit": 6,
     "lessonNumber": 3,
-    "title": "የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping) (ክፍል 3)",
+    "title": "በገበያ ውስጥ ዋጋ መጠየቅ እና መደራደር (Market Shopping & Bargaining)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የባህላዊ ምግቦች እና መጠጦች ስሞች፣ በገበያ ውስጥ ዋጋ መጠየቅ እና መገበያየት። (ክፍል 3)።",
+    "objective": "በገበያ ውስጥ ዋጋ መጠየቅን (ስንት ነው? በስንት ብር ነው?)፣ መደራደርን (ውድ ነው፣ ቀንስልኝ) እና ክፍያ መፈጸምን መለማመድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "በገበያ ውስጥ መገበያየት እና መደራደር:\n\n፩. ዋጋ መጠየቅ:\n- «ይህ ስንት ነው?»\n- «ዋጋው ስንት ብር ነው?»\n- «በስንት ትሸጣለህ / ትሸጫለሽ?»\n\n፪. መደራደር:\n- «በጣም ውድ ነው!»\n- «እባክዎ ትንሽ ቀንስልኝ / ቀነሽልኝ»\n- «የመጨረሻው ዋጋ ስንት ነው?»\n- «ርካሽ ነው»።\n\n፫. ክፍያ:\n- «በጥሬ ገንዘብ (ካሽ)»\n- «በቴሌብር / በባንክ»።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (6.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)' to the students."
+          "target": "ይቅርታ፣ የዚህ ባህላዊ ልብስ ዋጋ ስንት ብር ነው?",
+          "reading": "Yəqərta, yäzzih bahəlawi ləbs waga sənt bər näw? [jɨkʼɨrˈta jɛzːih bahɨlaˈwi lɨbs waˈɡa sɨnt bɨr nɛw] (yuh-k'ur-TAH, yez-ZEEH bah-huh-lah-WEE lubs wah-GAH sunt bur now?)",
+          "translation": "Excuse me, how many Birr is the price of this traditional dress?"
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (6.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ዋጋው አንድ ሺህ አምስት መቶ ብር ነው፤ ነገር ግን ለእርስዎ ትንሽ እቀንሳለሁ።",
+          "reading": "Wagaw and ših amməst mäto bər näw; nägär gən lä'ərswo tənəš əqänsallähu. [waˈɡaw and ʃih amːɨst mɛˈto bɨr nɛw nɛˈɡɛr ɡɨn lɨʔɨrsˈwo tɨˈnɨʃ ɨkʼɛnsaˈlːɨhu] (wah-GOW ahnd SHEEH ahm-MUST meh-TOH bur now; neh-GER gun luh-urs-WOH tuh-NUSH uh-k'en-SAHL-luh-hoo)",
+          "translation": "The price is 1,500 Birr, but I will reduce a little for you."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (6.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (6.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በጣም ጥሩ፤ ገንዘቡን በቴሌብር እልክልሃለሁ።",
+          "reading": "Bät’am t’əru; gänzäbun bätelebər ələkkəlləhallähu. [bɛtʼam tʼɨˈru ɡɛnzɛˈbun bɛteleˈbɨr ɨlɨkːɨlːɨˈhalːɨhu] (beh-T'AHM t'uh-ROO; gen-zeh-BOON beh-tay-lay-BUR uh-luk-kul-luh-HAHL-luh-hoo)",
+          "translation": "Very good; I will send you the money via Telebirr."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Bargaining flow: ስንት ነው? (How much?) -> ውድ ነው (Too expensive!) -> ቀንስልኝ (Discount please!) -> በቴሌብር እከፍላለሁ (I pay by Telebirr)!"
+      ],
+      "culturalNotes": [
+        "በመርካቶ (Merkato - የአፍሪካ ትልቁ ክፍት ገበያ) መደራደር የተለመደና ወዳጃዊ የንግድ ልውውጥ አካል ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "የአንድ ዕቃ ዋጋ ከፍ ሲልና ቅናሽ ሲፈለግ ምን ይባላል?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (6.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (6.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (6.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (6.3.w3)"
+            "ውድ ነው፣ እባክዎ ቀንስልኝ (It is expensive, please discount for me - Correct bargaining formula)",
+            "ርካሽ ነው፣ ጨምርበት",
+            "ነፃ ነው",
+            "አልገዛም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ውድ ነው፣ እባክዎ ቀንስልኝ» ዋጋ ለመደራደር የሚያገለግል የተለመደ አነጋገር ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u6-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'What is the final price?' የሚለውን በአማርኛ በትክክል የሚገልጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (6.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (6.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (6.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (6.3.x3)"
+            "የመጨረሻው ዋጋ ስንት ነው? (What is the final price? - Correct last price question)",
+            "የመጀመሪያው ስም ማን ነው?",
+            "የት ሄደ?",
+            "ስንት ሰዓት ነው?"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (6.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (6.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (6.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (6.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«የመጨረሻው ዋጋ ስንት ነው?» የመጨረሻውን የድርድር ዋጋ ለማወቅ ይጠየቃል።"
         }
       ]
     },
@@ -3050,24 +2979,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 6-3):",
+          "prompt": "በገበያ ውስጥ ትክክለኛውን የግዢ እና የድርድር ቅደም ተከተል የያዘው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (6.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (6.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (6.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (6.3.z3)"
+            "ዋጋው ስንት ነው? -> ውድ ነው ቀንስልኝ -> የመጨረሻው ዋጋ አንድ መቶ ብር ነው -> በቴሌብር ከፈልኩ።",
+            "ገንዘብ አልሰጥም -> ዕቃውን ወሰድኩ።",
+            "ዋጋ ሳይጠየቅ ይከፈላል።",
+            "በመርካቶ ብር አይሰራም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ትክክለኛና ጨዋነት የተሞላበት የግብይት ውይይት ነው።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u6-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ዋጋ / Price, cost' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ዋጋ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ዋጋ» (Waga) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -3078,85 +3006,62 @@
     "subject": "amharic",
     "unit": 6,
     "lessonNumber": 4,
-    "title": "የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping) (ክፍል 4)",
+    "title": "የቁጥር እና የክብደት መለኪያዎች በገበያ (Quantifiers & Measurements in the Market)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የባህላዊ ምግቦች እና መጠጦች ስሞች፣ በገበያ ውስጥ ዋጋ መጠየቅ እና መገበያየት። (ክፍል 4)።",
+    "objective": "መለኪያዎችን (ኪሎ፣ ሊትር፣ ቁራጭ፣ እሽግ፣ ትንሽ፣ ብዙ) ከዕቃዎች ጋር አጣምሮ መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የቁጥር እና የክብደት መለኪያዎች:\n\n፩. የክብደት እና የይዘት መለኪያዎች:\n- «ኪሎ»: አንድ ኪሎ ሽንኩርት፣ ሁለት ኪሎ ቲማቲም\n- «ሊትር»: አንድ ሊትር ዘይት፣ ሁለት ሊትር ወተት\n- «ቁራጭ»: አንድ ቁራጭ ስጋ\n- «እሽግ» ወይም «ጥቅል»: አንድ እሽግ ሻይ።\n\n፪. የመጠን ገላጮች:\n- «ትንሽ»: ትንሽ ጨው ጨምርልኝ\n- «ብዙ»: ብዙ አትክልት አለ\n- «ግማሽ»: ግማሽ ኪሎ ቅቤ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (6.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)' to the students."
+          "target": "እባክዎ ሁለት ኪሎ ድንች እና አንድ ኪሎ ሽንኩርት ይስጡኝ።",
+          "reading": "Əbakwo hulätt kilo dənčč ənna and kilo šənkurt yəsət’ung. [ɨbakˈwo huˈlɛtː kiˈlo dɨntʃː ɨnːa and kiˈlo ʃɨnˈkurt jɨsɨˈtʼuɲ] (uh-bahk-WOH hoo-LET KEE-loh dunch un-nah ahnd KEE-loh shun-KOORT yuh-suh-T'OON)",
+          "translation": "Please give me two kilos of potatoes and one kilo of onions."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (6.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ለቁርስ የሚሆን አንድ ሊትር ትኩስ ወተት እና ግማሽ ኪሎ ቅቤ ገዛን።",
+          "reading": "Läqurs yämmihon and litər təkus wätät ənna gəmaš kilo qəbe gäzzan. [lɨkʼurs jɛmːiˈhon and liˈtɨr tɨˈkus wɛˈtɛt ɨnːa ɡɨˈmaʃ kiˈlo kʼɨˈbe ɡɛzːan] (luh-k'oors yem-mee-HOHN ahnd LEE-tur tuh-KOOS weh-TET un-nah guh-MAHSH KEE-loh k'uh-BAY gez-ZAHN)",
+          "translation": "We bought one liter of fresh milk and half a kilo of butter for breakfast."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (6.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (6.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በገበያው ውስጥ ብዙ አይነት ትኩስ ፍራፍሬዎች ይገኛሉ።",
+          "reading": "Bägäbäyäw wəst’ bəzu aynät təkus fərafräwočč yəggänyallu. [bɛɡɛbɛˈjɛw wɨstʼ bɨˈzu ajˈnɛt tɨˈkus fɨrafɨrɛˈwotʃː jɨɡːɛˈɲalːu] (buh-geh-beh-YOW woos-T' buh-ZOO eye-NET tuh-KOOS fuh-rah-fruh-wohch-CHOO yuhg-gehn-YAHL-loo)",
+          "translation": "Many kinds of fresh fruits are found inside the market."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Measures: ኪሎ (kilo for solid goods) + ሊትር (liter for liquids) + ግማሽ (half) + ቁራጭ (piece)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህላዊ ገበያዎች ከኪሎ በተጨማሪ እንደ 'ቁና'፣ 'ጭልፋ' እና 'ስልቻ' ያሉ ባህላዊ መለኪያዎችም በስፋት ያገለግላሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ፈሳሽ ነገሮችን (እንደ ወተትና ዘይት) ለመለካት የሚያገለግለው መለኪያ የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (6.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (6.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (6.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (6.4.w3)"
+            "ሊትር (Liter - Unit of volume for liquids)",
+            "ኪሎ",
+            "ሜትር",
+            "ሰዓት"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ፈሳሾች በ«ሊትር» ይለካሉ።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u6-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Give me half a kilo of butter' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (6.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (6.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (6.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (6.4.x3)"
+            "ግማሽ ኪሎ ቅቤ ስጡኝ። (Give me half a kilo of butter - Correct measurement request)",
+            "አንድ ሊትር ቅቤ ስጡኝ።",
+            "ቅቤ አልፈልግም።",
+            "አስር ኪሎ ቅቤ በላሁ።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (6.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (6.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (6.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (6.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ግማሽ ኪሎ ቅቤ ስጡኝ» ትክክለኛውን የክብደት መለኪያና ቅቤን ያጣመረ ነው።"
         }
       ]
     },
@@ -3164,24 +3069,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 6-4):",
+          "prompt": "የመለኪያ ቃላትን እና ተዛማጅ ዕቃዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (6.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (6.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (6.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (6.4.z3)"
+            "ሁለት ኪሎ ሽንኩርት (ኪሎ ለደረቅ ዕቃ) እና አንድ ሊትር ወተት (ሊትር ለፈሳሽ)።",
+            "አንድ ሊትር ሽንኩርት እና ሁለት ኪሎ ወተት።",
+            "በአማርኛ መለኪያዎች አይጠቀሱም።",
+            "ኪሎ ለጊዜ ብቻ ያገለግላል።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ኪሎን ለሽንኩርትና ሊትርን ለወተት በትክክል መድቧል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u6-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ኪሎ / Kilo, kilogram' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ኪሎ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ኪሎ» (Kilo) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -3192,85 +3096,62 @@
     "subject": "amharic",
     "unit": 6,
     "lessonNumber": 5,
-    "title": "የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping) (ክፍል 5)",
+    "title": "የክፍል 6 አጠቃላይ ማጠቃለያ (Unit 6 Grand Synthesis & Culinary/Market Discourse)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የባህላዊ ምግቦች እና መጠጦች ስሞች፣ በገበያ ውስጥ ዋጋ መጠየቅ እና መገበያየት። (ክፍል 5)።",
+    "objective": "ባህላዊ ምግቦችን፣ የምግብ ቤት ትዕዛዝን፣ የገበያ ድርድርን እና መለኪያዎችን ያቀናጀ የተሟላ ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፮ አጠቃላይ ሰዋሰዋዊ ውህደትና ማጠቃለያ:\n\n፩. ባህላዊ ምግቦች:\n- እንጀራ፣ ዶሮ ወጥ፣ ሽሮ፣ ክትፎ፣ ጥብስ፣ ጀበና ቡና፣ ጠጅ።\n\n፪. በምግብ ቤት ውስጥ:\n- ሜኑ አምጡልኝ፣ እባክዎ ... ያምጡልን፣ ምግቡ ይጣፍጣል፣ ሂሳብ ስንት ነው?\n\n፫. በገበያ ውስጥ:\n- ዋጋው ስንት ነው? ውድ ነው ቀንስልኝ፣ የመጨረሻው ዋጋ፣ በቴሌብር እከፍላለሁ።\n\n፬. መለኪያዎች:\n- ኪሎ፣ ሊትር፣ ግማሽ፣ ቁራጭ፣ ትንሽ፣ ብዙ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (6.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)' to the students."
+          "target": "እኛ ዛሬ ወደ መርካቶ ሄደን ሁለት ኪሎ ስጋ እና አትክልት ገዛን፤ ከዚያም በባህላዊ ምግብ ቤት ውስጥ ቁርስ በላን።",
+          "reading": "Əngya zare wädä Märkato hedän hulätt kilo səga ənna atkəlt gäzzan; käzziyam bäbahəlawi məgb bet wəst’ qurs bällan. [ɨɲa zaˈre wɛdɛ mɛrkaˈto heˈdɛn huˈlɛtː kiˈlo sɨˈɡa ɨnːa atˈkɨlt ɡɛzːan kɛzːiˈjam bɛbahɨlaˈwi mɨɡˈb bet wɨstʼ kʼurs bɛlːan] (un-NYAH zah-RAY weh-DEH mahr-KAH-toh hay-DEN hoo-LET KEE-loh suh-GAH un-nah aht-KULT gez-ZAHN; kez-zee-YAHM buh-bah-huh-lah-WEE mug-b BAYT woos-T' k'oors bel-LAHN)",
+          "translation": "Today we went to Merkato and bought two kilos of meat and vegetables; then we ate breakfast in a traditional restaurant."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (6.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "አስተናጋጁ ጣፋጭ ሽሮ ወጥ እና ትኩስ እንጀራ አመጣልን፤ ምግቡም እጅግ በጣም ይጣፍጣል።",
+          "reading": "Astänagağu t’afac’ šəro wät’ ənna təkus ənğära amät’allən; məgbum əğğəg bät’am yət’affət’all. [astɛnaˈɡadʒu tʼaˈfatʃʼ ʃɨˈro wɛtʼ ɨnːa tɨˈkus ɨndʒɛˈra amɛˈtʼalːɨn mɨɡˈbum ɨdʒːɨɡ bɛtʼam jɨtʼafːɨˈtʼal] (ahs-teh-nah-GAH-joo t'ah-FAHCH shuh-ROH weht' un-nah tuh-KOOS un-JEH-rah ah-meh-T'AHL-lun; mug-BOOM uhj-JUG beh-T'AHM yuh-t'ahf-fuh-T'AHL)",
+          "translation": "The waiter brought us delicious Shiro stew and fresh Injera; the food is extremely delicious."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (6.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (6.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የምግቡን ሂሳብ በሞባይል ባንኪንግ ከፍለን አስተናጋጁን አመሰገንን።",
+          "reading": "Yäməgbun hisab bämobayəl banking kəflän astänagağun amäsäggännän. [jɛmɨɡˈbun hiˈsab bɛmoˈbajɨl banˈkiŋɡ kɨfˈlɛn astɛnaˈɡadʒun amɛsɛɡːɛnːɛn] (yeh-mug-BOON hee-SAHB beh-moh-BY-ul bahn-KEENG kuf-LEN ahs-teh-nah-gah-JOON ah-meh-seg-GEN-nen)",
+          "translation": "We paid the food bill via mobile banking and thanked the waiter."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Synthesis checklist: Food (ሽሮ/እንጀራ) + Measure (ኪሎ/ሊትር) + Ordering (አምጡልኝ) + Bill & Bargaining (ሂሳብ/ዋጋ/ቴሌብር)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ማህበረሰብ መብላትና መጠጣት ብቻ ሳይሆን 'እንብላ!' ብሎ አብሮ እንዲበላ መጋበዝ የጨዋነትና የኢትዮጵያዊ መስተንግዶ ቁንጮ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ በባህላዊ ምግብ ቤት ውስጥ የሚደረግን ትክክለኛ ንግግር የሚያሳየው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (6.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (6.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (6.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (6.5.w3)"
+            "እባክዎ አንድ ክትፎ ያምጡልን፣ ምግቡ በጣም ይጣፍጣል፣ ሂሳብ ስንት ነው? (Correct complete restaurant discourse)",
+            "ምግብ አልበላም ሂሳብ አምጡ",
+            "እንጀራ ጠጣሁ ቡና በላሁ",
+            "በሬስቶራንት ውስጥ ማዘዝ አይቻልም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ትዕዛዝን፣ ምስጋናን እና የሂሳብ ጥያቄን በአግባቡ ያጣመረ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u6-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ገበያ ሄዶ መገበያየትን እና በምግብ ቤት መመገብን ያቀናጀው ትክክለኛ አረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (6.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (6.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (6.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (6.5.x3)"
+            "በገበያ ሁለት ኪሎ ፍራፍሬ ገዛን፤ ከዚያም ቡና ጠጣን። (We bought two kilos of fruits in the market, then drank coffee - Complete synthesized sentence)",
+            "በገበያ ምንም የለም።",
+            "ሰዓቱ ኪሎ ይበላል።",
+            "ቴሌብር አይሰራም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ ባህላዊ ምግብ እና ገበያ (Ethiopian Food & Shopping)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (6.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (6.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (6.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (6.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ የገበያ መለኪያዎችንና የመጠጥ ግስን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -3278,24 +3159,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 6-5):",
+          "prompt": "የክፍል 6ን ዋና ዋና ርዕሰ ጉዳዮች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (6.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (6.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (6.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (6.5.z3)"
+            "የባህላዊ ምግቦች ስሞች፣ በምግብ ቤት ማዘዝ፣ በገበያ ዋጋ መጠየቅና መደራደር፣ እንዲሁም መለኪያዎች ተካተዋል።",
+            "የክፍል 6 ትምህርት ስለ ስፖርት ብቻ ነው።",
+            "በአማርኛ የገበያ ቃላት የሉም።",
+            "ሁሉም ምግቦች አንድ ዓይነት ስም አላቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 6ን አጠቃላይ ይዘት ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u6-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ምግብ / Food, meal' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ምግብ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ምግብ» (Məgb) ነው።"
         }
       ],
       "passThreshold": 0.8
