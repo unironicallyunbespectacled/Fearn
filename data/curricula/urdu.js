@@ -1305,53 +1305,62 @@
     "subject": "urdu",
     "unit": 3,
     "lessonNumber": 1,
-    "title": "ضمائر اور حالت مفعولی کے پرسرگ (Pronouns & Oblique Case) (Part 1)",
+    "title": "ضمائرِ شخصی اور درجاتِ تخاطب (Personal Pronouns & Levels of Formality)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 3.1) with authentic precision.",
+    "objective": "ضمیر متکلم (میں/ہم)، ضمیر حاضر کے درجات (تو، تم، آپ) اور ضمیر غائب (یہ/وہ) کے باوقار استعمال میں مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں ضمائرِ شخصی (Personal Pronouns) اور درجاتِ تخاطب کے قواعد:\n\n1. **ضمیرِ متکلم (First Person)**:\n   - «میں» — واحد کے لیے؛ «ہم» — جمع کے لیے (اردو میں باوقار افراد خود کے لیے بھی اکثر 'ہم' بولتے ہیں)۔\n\n2. **ضمیرِ حاضر اور درجاتِ تخاطب (Second Person)**:\n   - **تو** — انتہائی بے تکلفی، پیار یا بارگاہِ الٰہی میں دعا و مناجات کے لیے؛\n   - **تم** — چھوٹوں، ہم عمروں اور بے تکلف دوستوں کے لیے؛\n   - **آپ** — تمام بزرگوں، اساتذہ، معزز شخصیات اور اجنبیوں کے لیے لازمی شائستہ اور تعظیمی ضمیر۔\n\n3. **ضمیرِ غائب (Third Person)**:\n   - «یہ» — قریب کی واحد و جمع کے لیے؛\n   - «وہ» — دور کی واحد و جمع کے لیے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "میں روزانہ صبح سویرے جامعہ جاتا ہوں اور ہم سب مل کر کتب خانے میں مطالعہ کرتے ہیں۔",
+          "reading": "Main rozaana subah sawere jaamia jaata hoon aur hum sab mil kar kutub-khaane mein mutaala'a karte hain. [mɛ̃ː roːzaːnəh sʊbəh səʋeːreː dʒaːmɪʔaː dʒaːt̪aː ɦuː̃ ɔːr həm səb mɪl kər kʊt̪ʊb-xaːneː mẽː mʊt̪aːlɪʔaː kərt̪eː hɛ̃ː] (myhn roh-ZAH-nuh SOO-buh suh-VAY-ray JAH-mee-ah JAH-tah HOON owr HOOM suhb MEEL kuhr koo-toob-khah-NAY mayn moo-tah-luh-AH KUHR-tay hyhn)",
+          "translation": "I go to the university early every morning, and we all study together in the library."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 3-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "آپ ہمارے معزز مہمان ہیں، براہِ کرم آگے تشریف لائیے اور اپنی نشست پر تشریف رکھیے۔",
+          "reading": "Aap hamaare mohtaram mehmaan hain, baraah-e-karam aage tashreef laaiye aur apni nashast par tashreef rakhiye. [aːp həm-aːreː moːɦt̪ərəm mɛɦmaːn hɛ̃ː bəraːɦ-eː-kərəm aːɡeː t̪əʃriːf laːiːjeː ɔːr əpniː nɪʃəst̪ pər t̪əʃriːf rəkʰɪjeː] (AHP huh-mah-RAY moh-tuh-RUHM muhh-MAHN hyhn, buh-RAH-hay-kuh-RUHM AH-gay tuhsh-REEF lah-EE-yay owr uhp-NEE nuh-SHUHST puhr tuhsh-REEF ruh-khee-YAY)",
+          "translation": "You are our honored guest, kindly come forward and take your seat."
+        },
+        {
+          "target": "وہ ایک انتہائی لائق اور محنتی استاد ہیں جو اپنے تمام شاگردوں سے شفقت فرماتے ہیں۔",
+          "reading": "Woh ek intihaai laaiq aur mehnati ustaad hain jo apne tamaam shaagirdon se shafaqat farmaate hain. [ʋoːh eːk ɪnt̪ɪhaːiː laːɪq ɔːr mɛɦnət̪iː ʊst̪aːd̪ hɛ̃ː dʒoː əpneː t̪əmaːm ʃaːɡɪrd̪õː seː ʃəfqət̪ fərmaːt̪eː hɛ̃ː] (VOH AYK een-tee-HAH-ee LAH-eeq owr muhh-nuh-TEE oos-TAHD hyhn joh uhp-NAY tuh-MAHM shah-geer-DOHN say shuh-fuh-QUHT fuhr-mah-TAY hyhn)",
+          "translation": "He is an extremely capable and diligent teacher who shows kindness to all his pupils."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ضمائر تخاطب: میں (متکلم)، تو (بے تکلف)، تم (ہم عمر)، آپ (باوقار تعظیم)، وہ (غائب)!"
+      ],
+      "culturalNotes": [
+        "اردو میں کسی بھی شخص سے پہلی بار ملتے ہوئے 'تم' کہنا انتہائی غیر شائستہ مانا جاتا ہے؛ شائستہ معاشرے میں 'آپ' بولنا لازمی تہذیبی تقاضا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"پانی\":",
+          "prompt": "اردو زبان میں کسی معزز اجنبی، استاد یا بزرگ کو مخاطب کرنے کے لیے سب سے باوقار ضمیر کون سی ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («دودھ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («چائے» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («روٹی» کی خرابی)"
+            "آپ (Aap - Highest polite honorific second-person pronoun in Urdu)",
+            "تو (بے تکلفی)",
+            "تم (غیر رسمی)",
+            "وہ (غائب)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "بزرگوں اور معززین کے لیے تعظیمی ضمیر «آپ» استعمال ہوتی ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"پانی\":",
+          "prompt": "اپنے ذاتی وجود اور جمع کے لیے ضمیرِ متکلم کے درست جوڑے کی شناخت کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («چائے» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («روٹی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دودھ» کا غیر درست استعمال)"
+            "میں (واحد) اور ہم (جمع) (Main [singular I] and Hum [plural We] - Core first-person pronouns)",
+            "تو اور تم (حاضر ضمائر)",
+            "یہ اور وہ (غائب ضمائر)",
+            "اپنا اور اس کا (ملکیتی)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "ضمیر متکلم میں واحد «میں» اور جمع «ہم» ہے۔"
         }
       ]
     },
@@ -1359,17 +1368,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"پانی\": Which sentence is completely correct?",
+          "prompt": "ضمائر اور درجاتِ تخاطب (Personal Pronouns & Politeness) کا مکمل فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («روٹی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دودھ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («چائے» سے متعلق)"
+            "میں آپ کی رہنمائی کا دل سے شکر گزار ہوں اور ہم سب مل کر آپ کے بتائے ہوئے راستے پر چلیں گے۔ (I am grateful from the heart for your guidance, and we all together will follow the path you showed.)",
+            "استاد کو تو بول کر مذاق اڑانا چاہیے تاکہ وہ خوش ہو۔",
+            "ضمیر غائب صرف چھپنے والے چوروں کے لیے استعمال ہوتی ہے۔",
+            "ہم کا مطلب صرف اکیلی بلی ہوتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«میں آپ کی رہنمائی کا دل سے شکر گزار ہوں اور ہم سب مل کر آپ کے بتائے ہوئے راستے پر چلیں گے۔» ضمائر کا فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u3-l2": {
@@ -1377,53 +1387,62 @@
     "subject": "urdu",
     "unit": 3,
     "lessonNumber": 2,
-    "title": "ضمائر اور حالت مفعولی کے پرسرگ (Pronouns & Oblique Case) (Part 2)",
+    "title": "حروفِ ربط (پرسرگ) اور ان کے معانی (Postpositions in Urdu)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 3.2) with authentic precision.",
+    "objective": "حروفِ ربط (نے، کو، سے، میں، پر، تک، کا/کی/کے) کے نحوی وظائف اور ان کے درست مقامات کو سمجھنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں حروفِ ربط یا پرسرگ (Postpositions) کے بنیادی اصول:\n\n1. **پرسرگ کی جگہ**:\n   - انگریزی کے برعکس، اردو میں تمام حروف اسم یا ضمیر کے **بعد** آتے ہیں (جیسے: «گھر میں»، «میز پر»)۔\n\n2. **بنیادی حروفِ ربط اور ان کے وظائف**:\n   - **نے** — فعل ماضی متعدی میں فاعل کے ساتھ (جیسے: «احمد نے کتاب پڑھی»)؛\n   - **کو** — مفعول یا ہدف کو ظاہر کرنے کے لیے (جیسے: «بچے کو دودھ دو»)؛\n   - **سے** — ذریعہ، آغاز یا دوری (جیسے: «قلم سے لکھو»، «شہر سے آیا»)؛\n   - **میں / پر / تک** — ظرفِ مکان و زمان (جیسے: «کمرے میں»، «چھت پر»، «شام تک»)؛\n   - **کا / کی / کے** — باہمی ملکیت و اضافت (جیسے: «علی کا بھائی»، «علی کی گاڑی»، «علی کے دوست»)۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "احمد نے اپنے دوست کو ڈاکخانے سے ایک اہم اور ضروری خط روانہ کیا۔",
+          "reading": "Ahmad ne apne dost ko daak-khaane se ek aham aur zaroori khatt rawaana kiya. [əɦməd̪ neː əpneː d̪oːst̪ koː ɖaːk-xaːneː seː eːk əɦəm ɔːr zəruːriː xət̪ː rəʋaːnəh kɪjaː] (UH-muhd nay uhp-NAY DOHST koh DAHK-khah-NAY say AYK UH-huhm owr zuh-ROO-ree KHUHTT ruh-VAH-nuh kee-YAH)",
+          "translation": "Ahmad dispatched an important and urgent letter to his friend from the post office."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 3-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "کتابیں میز پر رکھی ہیں اور قلم کاپی کے اندر موجود ہے۔",
+          "reading": "Kitaabein mez par rakhi hain aur qalam kaapi ke andar maujood hai. [kɪt̪aːbẽː meːz pər rəkʰiː hɛ̃ː ɔːr qələm kaːpiː keː ənd̪ər mɔːdʒuːd̪ hɛː] (kee-tah-BAYN MAYZ puhr ruh-KHEE hyhn owr QUH-luhm kah-PEE kay uhn-DUHR mow-JOOD hy)",
+          "translation": "The books are kept on the table, and the pen is present inside the notebook."
+        },
+        {
+          "target": "ہم صبح آٹھ بجے سے شام پانچ بجے تک اپنے دفتر میں مصروف رہتے ہیں۔",
+          "reading": "Hum subah aath baje se shaam paanch baje tak apne daftar mein masroof rahte hain. [həm sʊbəh aːʈʰ bədʒeː seː ʃaːm paːntʃ bədʒeː t̪ək əpneː d̪əft̪ər mẽː məsruːf rəɦt̪eː hɛ̃ː] (HOOM SOO-buh AHTH buh-JAY say SHAHM PAHNCH buh-JAY tuhk uhp-NAY duhf-TUHR mayn muhs-ROOF ruhh-TAY hyhn)",
+          "translation": "We remain busy in our office from eight o'clock in the morning until five o'clock in the evening."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "حروف ربط: نے (فاعل)، کو (مفعول)، سے (ذریعہ/دوری)، میں/پر (مقام)، کا/کی/کے (ملکیت)!"
+      ],
+      "culturalNotes": [
+        "اردو نحو میں فاعل کے ساتھ 'نے' کا استعمال صرف ماضی متعدی افعال میں ہوتا ہے؛ حال اور مستقبل میں 'نے' نہیں آتا (جیسے: 'وہ خط لکھتا ہے'، 'وہ خط لکھے گا')۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"دودھ\":",
+          "prompt": "اردو جملے «احمد ... خط لکھا» میں فاعل کے بعد کون سا حرفِ ربط آئے گا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («چائے» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («روٹی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («چاول» کی خرابی)"
+            "نے (Ne - Ergative postposition marking subject in transitive past tense)",
+            "کو (مفعولی علامت)",
+            "سے (ذریعہ علامت)",
+            "پر (ظرفی علامت)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "ماضی متعدی میں فاعل کے ساتھ «نے» کا استعمال ہوتا ہے: «احمد نے خط لکھا»۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"دودھ\":",
+          "prompt": "کسی مقام کے اندر موجودگی ظاہر کرنے کے لیے کون سا پرسرگ استعمال ہوتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («روٹی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («چاول» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («چائے» کا غیر درست استعمال)"
+            "میں (In / Inside - Locative postposition expressing containment or location within)",
+            "سے (دوری)",
+            "کو (ہدف)",
+            "تک (انتہا)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "اندرونی مقام کے لیے «میں» بولا جاتا ہے (جیسے: کمرے میں، دل میں)۔"
         }
       ]
     },
@@ -1431,17 +1450,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"دودھ\": Which sentence is completely correct?",
+          "prompt": "حروفِ ربط (Postpositions) کے درست استعمال کا مکمل جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («چاول» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («چائے» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («روٹی» سے متعلق)"
+            "استاد نے طالب علم کو کتاب سے ایک دلچسپ کہانی پڑھ کر سنائی۔ (The teacher read out an interesting story from the book to the student.)",
+            "طالب علم نے استاد سے کو کتاب میں پھینک دیا۔",
+            "پر کا مطلب صرف چڑیا کے پر ہوتے ہیں اور کوئی معنی نہیں۔",
+            "نے کو جملے کے شروع میں بغیر اسم کے لگانا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«استاد نے طالب علم کو کتاب سے ایک دلچسپ کہانی پڑھ کر سنائی۔» حروفِ ربط کا بالکل درست اور مربوط جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u3-l3": {
@@ -1449,53 +1469,62 @@
     "subject": "urdu",
     "unit": 3,
     "lessonNumber": 3,
-    "title": "ضمائر اور حالت مفعولی کے پرسرگ (Pronouns & Oblique Case) (Part 3)",
+    "title": "اسماء کی حالتِ مغیرہ / حالتِ مفعولی (Oblique Case of Nouns)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 3.3) with authentic precision.",
+    "objective": "حرفِ ربط آنے پر الف/ہ والے مذکر اسماء کا ے میں بدلنا (لڑکے نے) اور جمع میں وں کا لاحقہ (کتابوں میں، لڑکوں کو) سمجھنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو اسماء کی حالتِ مغیرہ (Oblique Case) کے اہم قواعد:\n\n1. **حالتِ مغیرہ کی تعریف**:\n   - جب کسی اسم کے بعد کوئی حرفِ ربط (نے، کو، سے، میں، پر، کا، تک وغیرہ) آئے تو اسم فاعلی حالت سے بدل کر حالتِ مغیرہ میں چلا جاتا ہے۔\n\n2. **مذکر الف/ہ والے اسماء (الف/ہ -> ے)**:\n   - «لڑکا» -> «لڑکے نے کہا»؛ «کمرہ» -> «کمرے میں اندھیرا ہے»؛ «راستہ» -> «راستے پر چلو»؛\n   - بغیر الف/ہ والے مذکر واحد نہیں بدلتے (جیسے: «درخت پر»، «گھر میں»، «شہر سے»)۔\n\n3. **جمع اسماء کی حالتِ مغیرہ (-> وں / -on)**:\n   - تمام مذکر اور مؤنث جمع اسماء کے بعد جب کوئی پرسرگ آئے تو آخر میں 'وں' لگایا جاتا ہے:\n     - لڑکے -> «**لڑکوں نے**»؛ لڑکیاں -> «**لڑکیوں کو**»؛ کتابیں -> «**کتابوں میں**»؛ درخت -> «**درختوں پر**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "استاد نے کمرے میں موجود تمام محنتی لڑکوں اور بچیوں کو انعامات دیے۔",
+          "reading": "Ustaad ne kamre mein maujood tamaam mehnati ladkon aur bachchiyon ko inaamaat diye. [ʊst̪aːd̪ neː kəmreː mẽː mɔːdʒuːd̪ t̪əmaːm mɛɦnət̪iː ləɽkõː ɔːr bətʃːɪjõː koː ɪnaːmaːt̪ d̪ɪjeː] (oos-TAHD nay kuhm-RAY mayn mow-JOOD tuh-MAHM muhh-nuh-TEE luhd-KOHN owr buhch-chee-YOHN koh ee-nah-MAHT dee-YAY)",
+          "translation": "The teacher gave prizes to all the hardworking boys and girls present in the room."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 3-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "پرانی کتابوں کے اوراق پر نایاب تاریخی تصاویر چھپی ہوئی ہیں۔",
+          "reading": "Puraani kitaabon ke auraaq par naayaab taareekhi tasaaweer chhapi hui hain. [pʊraːniː kɪt̪aːbõː keː ɔːraːq pər naːjaːb t̪aːriːxiː t̪əsaːʋiːr tʃʰəpiː ɦʊiː hɛ̃ː] (poo-RAH-nee kee-tah-BOHN kay ow-RAHQ puhr nah-YAHB tah-REE-khee tuh-sah-VEER chhuh-PEE hoo-EE hyhn)",
+          "translation": "Rare historical photographs are printed upon the pages of old books."
+        },
+        {
+          "target": "اس پُرانے درخت کی شاخوں پر پرندوں نے اپنے خوبصورت گھونسلے بنا رکھے ہیں۔",
+          "reading": "Is puraane darakht ki shaakhon par parindon ne apne khoobsurat ghaunsle bana rakhay hain. [ɪs pʊraːneː d̪ərəxt̪ kiː ʃaːxõː pər pərɪnd̪õː neː əpneː xuːbsuːrət̪ ɡʱoː̃sleː bənaː rəkʰeː hɛ̃ː] (EES poo-rah-NAY duh-RUHKHT kee shah-KHOHN puhr puh-reen-DOHN nay uhp-NAY khoob-SOO-ruht ghown-SLAY buh-NAH ruh-KHAY hyhn)",
+          "translation": "Upon the branches of this old tree, birds have built their beautiful nests."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "حالت مغیرہ: کمرہ + میں -> کمرے میں، لڑکے + نے -> لڑکوں نے، کتابیں + میں -> کتابوں میں!"
+      ],
+      "culturalNotes": [
+        "حالتِ مغیرہ اردو اور ہندی کی سب سے بنیادی نحوی خصوصیت ہے؛ 'لڑکا نے کہا' بولنا صریح غلطی ہے، درست جملہ ہمیشہ 'لڑکے نے کہا' ہوگا۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"چائے\":",
+          "prompt": "جب لفظ «کمرہ» کے بعد حرفِ ربط «میں» آئے تو اسم کی کون سی شکل درست ہوگی؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («روٹی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («چاول» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سالن» کی خرابی)"
+            "کمرے میں (Kamre mein - Correct oblique singular form ending in -e)",
+            "کمرہ میں (غیر مغیرہ فاش غلطی)",
+            "کمروں میں (جمع مغیرہ)",
+            "کمریاں میں (غلط ساخت)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "الف/ہ والے مذکر اسم کے بعد پرسرگ آنے پر وہ 'ے' میں بدلتا ہے: «کمرے میں»۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"چائے\":",
+          "prompt": "جمع اسم «لڑکیاں» کے بعد حرفِ ربط «کو» لگانے پر کیا صورت بنے گی؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («چاول» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سالن» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («روٹی» کا غیر درست استعمال)"
+            "لڑکیوں کو (Ladkiyon ko - Oblique plural form ending in -on with postposition)",
+            "لڑکیاں کو (غیر مغیرہ غلطی)",
+            "لڑکے کو (واحد مذکر)",
+            "لڑکوں کو (مذکر جمع)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مؤنث جمع اسم کے بعد پرسرگ آنے پر وہ «لڑکیوں کو» بن جاتا ہے۔"
         }
       ]
     },
@@ -1503,17 +1532,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"چائے\": Which sentence is completely correct?",
+          "prompt": "اسماء کی حالتِ مغیرہ (Oblique Noun Case) کا مکمل معیاری جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سالن» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («روٹی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («چاول» سے متعلق)"
+            "باغ کے گھنے درختوں کی چھاؤں میں بیٹھ کر بچوں نے میٹھے پھلوں کا لطف اٹھایا۔ (Sitting in the shade of the dense trees [darakhton] of the garden, the children [bachchon] enjoyed the sweet fruits [phalon].)",
+            "باغ کا درختیں میں بیٹھ کر بچہ نے پھلیں کھایا۔",
+            "حالت مغیرہ صرف نیند میں بولنے والے جملوں کو کہتے ہیں۔",
+            "کتابوں کو کے بعد ہمیشہ تالا لگانا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«باغ کے گھنے درختوں کی چھاؤں میں بیٹھ کر بچوں نے میٹھے پھلوں کا لطف اٹھایا۔» حالتِ مغیرہ کے تمام قواعد پر پورا اترتا ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u3-l4": {
@@ -1521,53 +1551,62 @@
     "subject": "urdu",
     "unit": 3,
     "lessonNumber": 4,
-    "title": "ضمائر اور حالت مفعولی کے پرسرگ (Pronouns & Oblique Case) (Part 4)",
+    "title": "ضمائر کی حالتِ مغیرہ اور ترکیبی اشکال (Oblique Pronouns & Dative Forms)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 3.4) with authentic precision.",
+    "objective": "ضمائر کی حالت مغیرہ (مجھ، تجھ، اس، ان) اور مفعولی مختصر اشکال (مجھے، تجھے، اسے، انہیں، ہمیں) میں مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو ضمائر کی حالتِ مغیرہ اور مفعولی ترکیبی اشکال:\n\n1. **ضمائر کی حالتِ مغیرہ (Oblique Pronouns)**:\n   - **میں** + پرسرگ -> **مجھ** (جیسے: «مجھ سے»، «مجھ پر»، «مجھ میں»)؛\n   - **تو** + پرسرگ -> **تجھ** (جیسے: «تجھ سے»، «تجھ پر»)؛\n   - **یہ / وہ (واحد)** + پرسرگ -> **اس** (جیسے: «اس نے»، «اس سے»، «اس پر»)؛\n   - **یہ / وہ (جمع)** + پرسرگ -> **ان** یا **انہوں** (جیسے: «انہوں نے»، «ان سے»، «ان پر»)۔\n\n2. **مفعولی مختصر اشکال (Dative / Accusative Forms)**:\n   - مجھ کو = **مجھے**؛ تجھ کو = **تجھے**؛\n   - اس کو = **اسے**؛ ان کو = **انہیں / ان کو**؛\n   - ہم کو = **ہمیں**؛ آپ کو = **آپ کو**۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "انہوں نے مجھے اپنی نجی لائبریری سے چند نایاب کتابیں مطالعے کے لیے عنایت کیں۔",
+          "reading": "Unhon ne mujhe apni niji library se chand naayaab kitaabein mutaala'ay ke liye inaayat keen. [ʊnɦõː neː mʊdʒʱeː əpniː nɪdʒiː laːɪbreːriː seː tʃənd̪ naːjaːb kɪt̪aːbẽː mʊt̪aːlɪʔeː keː lɪjeː ɪnaːjət̪ kĩː] (oon-HOHN nay moo-JHAY uhp-NEE nee-JEE library say CHUHD nah-YAHB kee-tah-BAYN moo-tah-luh-AY kay lee-AY ee-nah-YUHT KEEN)",
+          "translation": "They gifted me a few rare books from their private library for study."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 3-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اگر آپ کو کوئی دشواری پیش آئے تو فوراً مجھ سے بلا جھجھک رابطہ فرمائیے گا۔",
+          "reading": "Agar aap ko koi dushwaari pesh aaye to fauran mujh se bila-jheejhak raabita farmaaiye ga. [əɡər aːp koː koːiː d̪ʊʃʋaːriː peːʃ aːjeː t̪oː fɔːrən mʊdʒʱ seː bɪlaː-dʒʱiːdʒʱək raːbɪt̪aː fərmaːiːjeː ɡaː] (uh-GUHR AHP koh koh-EE doosh-vah-REE PAYSH ah-YAY toh FOW-ruhn MOO-JH say bee-lah-jhee-JUHK rah-bee-TAH fuhr-mah-EE-yay GAH)",
+          "translation": "If you encounter any difficulty, please contact me immediately without hesitation."
+        },
+        {
+          "target": "استاد محترم نے اسے شاباش دی اور انہیں محنت جاری رکھنے کی تلقین کی۔",
+          "reading": "Ustaad-e-mohtaram ne use shaabaash dee aur unhein mehnat jaari rakhne ki talqeen kee. [ʊst̪aːd̪-eː-moːɦt̪ərəm neː ʊseː ʃaːbaːʃ d̪iː ɔːr ʊnɦẽː mɛɦnət̪ dʒaːriː rəkʰneː kiː t̪əlqiːn kiː] (oos-TAHD-ay-moh-tuh-RUHM nay oo-SAY shah-BAHSH DEE owr oon-HAYN muhh-NUHT jah-REE ruhkh-NAY kee tuhl-QEEN KEE)",
+          "translation": "The respected teacher praised him and exhorted them to continue working hard."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مفعولی ضمائر: مجھ کو = مجھے، اس کو = اسے، ان کو = انہیں، ہم کو = ہمیں!"
+      ],
+      "culturalNotes": [
+        "اردو گفتگو میں 'مجھ کو' کے مقابلے میں 'مجھے' اور 'اس کو' کے مقابلے میں 'اسے' بولنا زیادہ فصیح، سبک اور رواں سمجھا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"روٹی\":",
+          "prompt": "ضمیر «میں» کے ساتھ جب حرفِ ربط «سے» ملایا جائے تو درست مغیرہ شکل کیا ہوگی؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («چاول» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سالن» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سبزی» کی خرابی)"
+            "مجھ سے (Mujh se - Correct oblique first-person pronoun with postposition)",
+            "میں سے (فاش نحوی غلطی)",
+            "مرا سے (غلط شکل)",
+            "ہم سے کو (بے معنی)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«میں» کی حالتِ مغیرہ «مجھ» ہے، لہٰذا درست ترکیب «مجھ سے» ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"روٹی\":",
+          "prompt": "ترکیب «اس کو» کی فصیح مختصر شکل کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سالن» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سبزی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («چاول» کا غیر درست استعمال)"
+            "اسے (Use - Contracted dative/accusative third-person pronoun)",
+            "اسیں (غلط لاحقہ)",
+            "اسوں (بے معنی)",
+            "اسکا (ملکیتی)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«اس کو» کی فصیح مختصر شکل «اسے» ہے۔"
         }
       ]
     },
@@ -1575,17 +1614,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"روٹی\": Which sentence is completely correct?",
+          "prompt": "ضمائر کی حالتِ مغیرہ اور مفعولی اشکال (Oblique Pronouns) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سبزی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («چاول» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سالن» سے متعلق)"
+            "انہوں نے مجھے اپنا قیمتی قلم دیا اور میں نے اسے شکریے کے ساتھ سنبھال کر رکھ لیا۔ (They gave me [mujhe] their valuable pen, and I kept it [use] safely with gratitude.)",
+            "میں نے اس کو کو بولا کہ تم میں سے بھاگ جا۔",
+            "انہیں کا مطلب صرف گھوڑے کی لگام ہوتا ہے۔",
+            "مجھ سے کے بجائے ہمیشہ 'میں سے' کہنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«انہوں نے مجھے اپنا قیمتی قلم دیا اور میں نے اسے شکریے کے ساتھ سنبھال کر رکھ لیا۔» ضمائر کی مفعولی اشکال کا درست جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u3-l5": {
@@ -1593,53 +1633,62 @@
     "subject": "urdu",
     "unit": 3,
     "lessonNumber": 5,
-    "title": "ضمائر اور حالت مفعولی کے پرسرگ (Pronouns & Oblique Case) (Part 5)",
+    "title": "ملکیتی ضمائر اور ضمیرِ مشترک 'اپنا' (Possessive Pronouns & Reflexive 'Apna')",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 3.5) with authentic precision.",
+    "objective": "ملکیتی ضمائر (میرا، تمہارا، آپ کا، اس کا) اور ضمیرِ مشترک «اپنا/اپنی/اپنے» کے لازمی اصولِ استعمال میں مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو ملکیتی ضمائر اور ضمیرِ مشترک «اپنا» کا سنہری اصول:\n\n1. **ملکیتی ضمائر (Possessive Pronouns)**:\n   - **میرا / میری / میرے** — مائی؛\n   - **ہمارا / ہماری / ہمارے** — آور؛\n   - **تمہارا / تمہاری / تمہارے** — یوور (عام)؛\n   - **آپ کا / آپ کی / آپ کے** — یوور (تعظیمی)؛\n   - **اس کا / اس کی / اس کے** — ہز / ہر (غیر فاعل کی ملکیت)۔\n\n2. **ضمیرِ مشترک «اپنا / اپنی / اپنے» کا سنہری قاعدہ**:\n   - جب جملے کے فاعل کی اپنی ہی ملکیت یا شے کا ذکر ہو تو «اس کا / میرا» کے بجائے لازماً «**اپنا / اپنی / اپنے**» استعمال ہوتا ہے:\n     - «احمد **اپنے** گھر گیا» (اگر 'احمد اس کے گھر گیا' کہیں گے تو اس کا مطلب کسی دوسرے شخص کا گھر ہوگا)؛\n     - «میں **اپنا** کام کرتا ہوں»؛ «وہ **اپنی** کتاب پڑھتی ہے»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ہر محبِ وطن شہری اپنے پیارے ملک کی ترقی اور خوشحالی کے لیے دن رات محنت کرتا ہے۔",
+          "reading": "Har muhibb-e-watan shehri apne pyaare mulk ki taraqqi aur khushhaali ke liye din raat mehnat karta hai. [hər mʊhɪbː-eː-ʋət̪ən ʃəɦriː əpneː pjaːreː mʊlk kiː t̪ərəqːiː ɔːr xʊʃhaːliː keː lɪjeː d̪ɪn raːt̪ mɛɦnət̪ kərt̪aː hɛː] (HUHR moo-HEEB-bay-vuh-TUHN shuh-REE uhp-NAY pyah-RAY MOOLK kee tuh-ruhq-QEE owr khoosh-hah-LEE kay lee-AY DEEN RAHT muhh-NUHT KUHR-tah hy)",
+          "translation": "Every patriotic citizen works day and night for the progress and prosperity of his beloved country."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 3-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "میں نے اپنا تمام ضروری کام وقت پر مکمل کر لیا اور اپنی کتابیں سنبھال کر رکھ دیں۔",
+          "reading": "Main ne apna tamaam zaroori kaam waqt par mukammal kar liya aur apni kitaabein sambhaal kar rakh deen. [mɛ̃ː neː əpnaː t̪əmaːm zəruːriː kaːm ʋəqt̪ pər mʊkəmːəl kər lɪjaː ɔːr əpniː kɪt̪aːbẽː səmbaːl kər rəkʰ d̪ĩː] (myhn nay uhp-NAH tuh-MAHM zuh-ROO-ree KAHM VUHKT puhr moo-kuhm-MUHL kuhr LEE-yah owr uhp-NEE kee-tah-BAYN suhm-BHAHL kuhr ruhkh DEEN)",
+          "translation": "I completed all my necessary work on time and put my books safely away."
+        },
+        {
+          "target": "طلبہ اپنے محترم اساتذہ کی رہنمائی میں اپنے تعلیمی منصوبے تیار کر رہے ہیں۔",
+          "reading": "Talaba apne mohtaram asaatiza ki rahnumaai mein apne taleemi mansoobay tayyaar kar rahe hain. [t̪ələbaː əpneː moːɦt̪ərəm əsaːt̪ɪzaː kiː rəɦnʊmaːiː mẽː əpneː t̪əʔliːmiː mənsuːbeː t̪əjːaːr kər rəɦeː hɛ̃ː] (tuh-luh-BAH uhp-NAY moh-tuh-RUHM uh-sah-tee-ZAH kee ruhh-noo-mah-EE mayn uhp-NAY tuh-lee-MEE muhn-SOO-bay ty-YAHR kuhr ruh-HAY hyhn)",
+          "translation": "Students are preparing their educational projects under the guidance of their respected teachers."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ضمیر مشترک: فاعل کی اپنی چیز = اپنا/اپنی/اپنے (احمد اپنے گھر گیا، نہ کہ اس کے گھر)!"
+      ],
+      "culturalNotes": [
+        "اردو ادب اور فصیح زبان میں 'اپنا' کا غلط استعمال تحریر کا حسن برباد کر دیتا ہے؛ 'وہ اس کا کام کر رہا ہے' کا مطلب ہے کہ وہ کسی دوسرے کا کام کر رہا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"چاول\":",
+          "prompt": "جملے «عائشہ نے ... گاڑی صاف کی» میں جب عائشہ اپنی ہی گاڑی صاف کر رہی ہو تو کون سا لفظ آئے گا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («سالن» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سبزی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پھل» کی خرابی)"
+            "اپنی (Apni - Reflexive possessive pronoun matching subject Aisha and feminine noun gaadi)",
+            "اس کی (کسی دوسری عورت کی)",
+            "تمہاری (دوسرے کی)",
+            "ان کی (جمع غیر کی)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "فاعل کی اپنی ملکیت کے لیے ضمیرِ مشترک «اپنی» آئے گی: «عائشہ نے اپنی گاڑی صاف کی»۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"چاول\":",
+          "prompt": "مذکر واحد اسم «گھر» کے ساتھ فاعل 'میں' کے لیے ضمیرِ مشترک کیا ہوگی؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سبزی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پھل» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سالن» کا غیر درست استعمال)"
+            "اپنا گھر (My own house - Reflexive pronoun 'apna' matching masculine singular noun)",
+            "میری گھر (تانیث کی غلطی)",
+            "اپنے گھر (جمع صیغہ)",
+            "اس کا گھر (دوسرے کا گھر)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مذکر واحد اسم کے ساتھ ضمیرِ مشترک «اپنا» (جیسے: اپنا گھر) ہوگی۔"
         }
       ]
     },
@@ -1647,17 +1696,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"چاول\": Which sentence is completely correct?",
+          "prompt": "ملکیتی اور مشترک ضمائر (Possessive & Reflexive Pronouns) کا کامل فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پھل» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سالن» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سبزی» سے متعلق)"
+            "ہر انسان کو اپنے فرائض دیانتداری سے ادا کرنے چاہئیں تاکہ ہمارا معاشرہ امن اور خوشحالی کا گہوارہ بن سکے۔ (Every person ought to discharge their own [apne] duties honestly so that our [hamaara] society may become a cradle of peace and prosperity.)",
+            "احمد اس کا کتاب پڑھتا ہے جب وہ خود کی پڑھائی کرتا ہے۔",
+            "اپنا کا مطلب صرف بازار سے خریدا ہوا سیب ہوتا ہے۔",
+            "تمام لوگ تمہارا گھر چلے گئے اپنے گھر کے بجائے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہر انسان کو اپنے فرائض دیانتداری سے ادا کرنے چاہئیں تاکہ ہمارا معاشرہ امن اور خوشحالی کا گہوارہ بن سکے۔» ملکیتی اور مشترک ضمائر کا بالکل درست استعمال ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u4-l1": {
