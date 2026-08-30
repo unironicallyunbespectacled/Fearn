@@ -13605,53 +13605,62 @@
     "subject": "hindi",
     "unit": 33,
     "lessonNumber": 1,
-    "title": "उच्चस्तरीय मुहावरे और लोकोक्तियां (Advanced Idioms) (Part 1)",
+    "title": "गूढ़ दार्शनिक व साहित्यिक मुहावरे (Profound Philosophical & Literary Idioms)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.1) with authentic linguistic precision.",
+    "objective": "गागर में सागर भरना, आकाश-पाताल एक करना, अंगारों पर पैर रखना तथा दांतों तले उंगली दबाना जैसे उच्चस्तरीय मुहावरों के सटीक प्रयोग में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "उच्चस्तरीय साहित्यिक एवं दार्शनिक मुहावरों के मानक नियम:\n\n1. **गागर में सागर भरना**:\n   - **अर्थ** — थोड़े और सटीक शब्दों में अत्यंत गहन, व्यापक और गूढ़ ज्ञान समाहित कर देना;\n   - **संदर्भ** — कविवर बिहारी के दोहे, चाणक्य नीति और उपनिषदों के सूत्र।\n\n2. **आकाश-पाताल एक करना एवं अंगारों पर पैर रखना**:\n   - **आकाश-पाताल एक करना** — किसी महान लक्ष्य की सिद्धि हेतु हर संभव कठिन प्रयास करना;\n   - **अंगारों पर पैर रखना** — सत्य, न्याय अथवा राष्ट्रहित के लिए जानबूझकर अत्यंत कठिन और जोखिम भरा मार्ग चुनना।\n\n3. **दांतों तले उंगली दबाना एवं तिल का ताड़ बनाना**:\n   - **दांतों तले उंगली दबाना** — आश्चर्यचकित व स्तब्ध रह जाना;\n   - **तिल का ताड़ बनाना** — छोटी सी बात को अनावश्यक तूल देकर बहुत बड़ा बना देना।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 33.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 33."
+          "target": "कविवर बिहारी ने अपने दोहों में गूढ़ दार्शनिक सत्यों को संजोकर सचमुच 'गागर में सागर' भर दिया है।",
+          "reading": "Kavivar Bihari ne apne dohon mein goodh daarshanik satyon ko sanjokar sachmuch 'gaagar mein saagar' bhar diya hai. [kəʋɪʋər bɪɦaːriː neː əpneː d̪oːɦõː mẽː ɡuːɖʱ daːrʃənɪk sət̪jõː koː sənjoːkər sətʃmʊtʃ ɡaːɡər mẽː saːɡər bʱər d̪ɪjaː hɛː] (kuh-vee-VUHR bee-HAH-ree nay uhp-NAY doh-HOHN mayn GOODH dahr-shuh-NEEK suht-YOHN koh suhn-joh-KUHR suhch-MOOCH GAH-guhr mayn SAH-guhr BHAR dee-YAH hy)",
+          "translation": "By embedding profound philosophical truths in his couplets, the poet Bihari truly poured an ocean into a small pitcher."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 33-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "वैज्ञानिकों ने असाध्य व्याधि का जीवनरक्षक टीका विकसित करने हेतु 'आकाश-पाताल एक कर' वर्षों की अथक तपस्या की।",
+          "reading": "Vaijnyaanikon ne asaadhya vyaadhi ka jeevan-rakshak teeka vikasit karne hetu 'aakaash-paataal ek kar' varshon ki athak tapasya kee. [ʋɛːdʒɲaːnɪkõː neː əsaːd̪ʱjə ʋjaːd̪ʱɪ kaː dʒiːʋən-rəkʃək ʈiːkaː ʋɪksɪt̪ kərneː ɦeːt̪ʊ aːkaːʃ-paːt̪aːl eːk kər ʋərʂõː kiː ət̪ʰək t̪əpəsjaː kiː] (vy-jnyah-nee-KOHN nay uh-sahdh-YUH vyah-DHEE kah JEE-vuhn-RUHK-shuhk tee-KAH vee-kuh-SEET KUHR-nay HAY-too ah-KAHSH-pah-TAHL AYK kuhr vuhr-SHOHN kee uh-THUHK tuh-puhs-YAH KEE)",
+          "translation": "Scientists moved heaven and earth through years of tireless dedication to develop a life-saving vaccine for the incurable ailment."
+        },
+        {
+          "target": "सत्य और स्वतंत्रता की रक्षा के लिए अमर क्रांतिकारियों ने हंसते-हंसते 'अंगारों पर पैर रखना' स्वीकार किया।",
+          "reading": "Satya aur swatantrata ki raksha ke liye amar kraantikaariyon ne hanste-hanste 'angaaron par pair rakhna' sveekaar kiya. [sət̪jə ɔːr sʋət̪ən̪t̪rt̪aː kiː rəkʃaː keː lɪjeː əmər kraːn̪t̪ɪkaːrijõː neː ɦə̃steː-ɦə̃steː əŋɡaːrõː pər pɛːr rəkʰnaː sʋiːkaːr kɪjaː] (SUHT-yuh owr svuh-tuhn-truh-TAH kee RUHK-shah kay lee-AY uh-MUHR krahn-tee-kah-ree-YOHN nay huhn-STAY-huhn-STAY uhng-gah-ROHN puhr PYR ruhkh-NAH svee-KAHR kee-YAH)",
+          "translation": "To safeguard truth and freedom, the immortal revolutionaries smilingly accepted walking upon burning embers."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "दार्शनिक मुहावरे: गागर में सागर (संक्षिप्त गहनता), आकाश-पाताल एक करना (अथक श्रम), अंगारों पर पैर रखना (त्याग)!"
+      ],
+      "culturalNotes": [
+        "रीतिकाल के मूर्धन्य कवि बिहारीलाल के 719 दोहों के संग्रह 'बिहारी सतसई' के बारे में प्रसिद्ध उक्ति है: 'सतसैया के दोहरे, ज्यों नावक के तीर। देखन में छोटे लगें, घाव करें गंभीर।'"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"अदालत\":",
+          "prompt": "अत्यंत संक्षिप्त शब्दों में अगाध और व्यापक ज्ञान को व्यक्त करने के लिए कौन सा मुहावरा प्रयुक्त होता है?",
           "options": [
-            "हम इस पाठ में इकाई 33.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («न्यायाधीश» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («वकील» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अधिकार» का अनुचित स्थान)"
+            "गागर में सागर भरना (To convey vast, profound wisdom in concise words)",
+            "पानी में आग लगाना (असंभव कार्य)",
+            "हवा में तीर चलाना (अंधेरे में प्रयास)",
+            "रेत से तेल निकालना (व्यर्थ श्रम)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "संक्षिप्त उक्तियों में विशाल अर्थ समाहित करने को «गागर में सागर भरना» कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"अदालत\":",
+          "prompt": "किसी असाधारण और अविश्वसनीय चमत्कार को देखकर अत्यधिक आश्चर्यचकित होने पर किस मुहावरे का प्रयोग किया जाता है?",
           "options": [
-            "हम इस पाठ में इकाई 33.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («वकील» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अधिकार» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («न्यायाधीश» का अशुद्ध रूप)"
+            "दांतों तले उंगली दबाना (To be struck with utter wonder and astonishment)",
+            "आंखों में धूल झोंकना (धोखा देना)",
+            "कान पर जूं न रेंगना (अनसुना करना)",
+            "हाथ पर हाथ धरकर बैठना (आलस्य करना)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "अत्यधिक विस्मय और आश्चर्यचकित होने की स्थिति को «दांतों तले उंगली दबाना» कहते हैं।"
         }
       ]
     },
@@ -13659,17 +13668,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"अदालत\": Which sentence is completely correct?",
+          "prompt": "दार्शनिक मुहावरों के शुद्ध और अलंकारिक प्रयोग (Philosophical Idioms) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 33.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अधिकार» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («न्यायाधीश» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («वकील» से संबंधित)"
+            "महापुरुषों की सूक्तियां गागर में सागर भरकर मानवता को अंधकार से प्रकाश की ओर ले जाने का शाश्वत मार्ग प्रशस्त करती हैं। (The maxims of great sages pour oceans into pitchers, paving the eternal pathway leading humanity from darkness toward light.)",
+            "गागर में सागर भरने का मतलब है कि मटके में समुद्र का खारा पानी भर लाना।",
+            "अंगारों पर पैर रखने का अर्थ केवल जूते पहनकर किचन में खाना पकाना है।",
+            "आकाश-पाताल एक करने का अर्थ है हवाई जहाज में बैठकर जमीन देखना।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«महापुरुषों की सूक्तियां गागर में सागर भरकर... शाश्वत मार्ग प्रशस्त करती हैं» मुहावरों का मानक साहित्यिक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u33-l2": {
@@ -13677,53 +13687,62 @@
     "subject": "hindi",
     "unit": 33,
     "lessonNumber": 2,
-    "title": "उच्चस्तरीय मुहावरे और लोकोक्तियां (Advanced Idioms) (Part 2)",
+    "title": "नीतिपरक लोकोक्तियां और जन-श्रुतियां (Moralistic Proverbs & Folktales)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.2) with authentic linguistic precision.",
+    "objective": "अधजल गगरी छलकत जाए, थोथा चना बाजे घना, अंधों में काना राजा तथा दूर के ढोल सुहावने जैसी नीतिपरक लोकोक्तियों के सूक्ष्म अर्थ में प्रवीण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "लोक-जीवन के अनुभवों से उपजी नीतिपरक लोकोक्तियों (Proverbs) के मानक नियम:\n\n1. **अधजल गगरी छलकत जाए एवं थोथा चना बाजे घना**:\n   - **अधजल गगरी छलकत जाए** — अल्पज्ञानी अथवा कम सामर्थ्य वाला व्यक्ति ज्ञान का व्यर्थ दिखावा और अहंकार करता है;\n   - **थोथा चना बाजे घना** — खोखला और मूर्ख व्यक्ति ही अत्यधिक डींगें हांकता है (गंभीर विद्वान सदैव शांत रहते हैं)।\n\n2. **अंधों में काना राजा एवं दूर के ढोल सुहावने**:\n   - **अंधों में काना राजा** — मूर्खों अथवा अज्ञानियों के समूह में अल्पज्ञानी व्यक्ति भी सबसे बड़ा विद्वान मान लिया जाता है;\n   - **दूर के ढोल सुहावने** — दूर से कोई वस्तु या स्थिति बहुत आकर्षक लगती है, परंतु वास्तविकता में कठिनाइयां होती हैं।\n\n3. **जैसी करनी वैसी भरनी**:\n   - *मनुष्य जैसा कर्म करता है, उसे कालांतर में वैसा ही फल भोगना पड़ता है (सनातन कर्म सिद्धांत)।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 33.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 33."
+          "target": "अल्पज्ञानी व्यक्ति अपनी अल्प विद्या का व्यर्थ प्रदर्शन करता है, जिसे लोकभाषा में 'अधजल गगरी छलकत जाए' कहा जाता है।",
+          "reading": "Alpa-jnyaani vyakti apni alpa vidya ka vyarth pradarshan karta hai, jise lok-bhaasha mein 'adh-jal gagari chhalkat jaaye' kaha jaata hai. [əlpədʒɲaːniː ʋjəkt̪ɪ əpniː əlpə ʋɪd̪jaː kaː ʋjərt̪ʰ prəd̪ərʃən kərt̪aː hɛː dʒɪseː loːk-bʱaːʂaː mẽː əd̪ʱ-dʒəl ɡəɡriː tʃʰəlkət̪ dʒaːjeː kəɦaː dʒaːt̪aː hɛː] (uhl-puh-jnyah-NEE vyuhk-TEE uhp-NEE UHL-puh veed-YAH kah VYURTH pruh-duhr-SHUHN KUHR-tah hy, jee-SAY lohk-bhah-SHAH mayn udh-juhl guh-guh-REE chhuhl-kuht JAH-yay kuh-HAH JAH-tah hy)",
+          "translation": "A person of shallow intellect makes a vain display of their meager knowledge, which is proverbially called 'a half-filled pitcher spills over.'"
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 33-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "गंभीर विद्वान सदैव मौन और विनम्र रहते हैं, जबकि अज्ञानी डींगें हांकते हैं—जैसे 'थोथा चना बाजे घना'।",
+          "reading": "Gambheer vidvaan sadaiv maun aur vinamr rahte hain, jabki ajnyaani deengen haankte hain—jaise 'thotha chana baaje ghana'. [ɡəmbʱiːr ʋɪd̪ʋaːn səd̪ɛːʋ mɔːn ɔːr ʋɪnəmr rəɦt̪eː hɛ̃ː dʒəbkɪ ədʒɲaːniː ɖiːŋɡẽː ɦaː̃kt̪eː hɛ̃ː dʒɛːseː t̪ʰoːt̪ʰaː tʃənaː baːdʒeː ɡʱənaː] (guhm-BHEER veed-VAHN suh-DYV MOWN owr vee-NUHM-ruh ruh-huh-TAY hyhn, juhb-KEE uh-jnyah-NEE deeng-AYN hahnk-TAY hyhn—JY-say thoh-THAH chuh-NAH bah-JAY ghuh-NAH)",
+          "translation": "Profound scholars always remain silent and humble, whereas the ignorant boast loudly—just as 'hollow gram makes the loudest sound.'"
+        },
+        {
+          "target": "व्यक्ति को अपने कर्मों का फल अवश्य भोगना पड़ता है, क्योंकि सनातन नियम है कि 'जैसी करनी वैसी भरनी'।",
+          "reading": "Vyakti ko apne karmon ka phal avashya bhogna padta hai, kyonki sanaatan niyam hai ki 'jaisi karni vaisi bharni'. [ʋjəkt̪ɪ koː əpneː kərmõː kaː pʰəl əʋəʃjə bʱoːɡnaː pəɽt̪aː hɛː kjoː̃kɪ sənaːt̪ən nɪjəm hɛː kɪ dʒɛːsiː kərniː ʋɛːsiː bʱərniː] (vyuhk-TEE koh uhp-NAY kuhr-MOHN kah FUHL uh-vush-YUH bhohg-NAH puhd-TAH hy, KYOHN-kee suh-nah-TUHN nee-YUM hy kee JY-see kuhr-NEE VY-see bhuhr-NEE)",
+          "translation": "An individual must inevitably reap the fruit of their actions, for it is an eternal law that 'as you sow, so shall you reap.'"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "नीति लोकोक्तियां: अधजल गगरी छलकत जाए (अल्पज्ञान अहंकार), थोथा चना बाजे घना (खोखलापन), जैसी करनी वैसी भरनी!"
+      ],
+      "culturalNotes": [
+        "भारतीय लोकोक्तियां सदियों के ग्रामीण और नागरिक जीवन के सामूहिक विवेक और नैतिक अनुभवों का निचोड़ हैं, जो भाषा को लोक-रंग और गहरी व्यंग्यात्मक शक्ति देती हैं।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"न्यायाधीश\":",
+          "prompt": "अल्प ज्ञान और कम योग्यता वाले व्यक्ति द्वारा अत्यधिक घमंड और दिखावा करने पर कौन सी लोकोक्ति उपयुक्त है?",
           "options": [
-            "हम इस पाठ में इकाई 33.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («वकील» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अधिकार» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («न्याय» का अनुचित स्थान)"
+            "अधजल गगरी छलकत जाए (A half-filled pitcher spills over / Shallow knowledge boasts the most)",
+            "दूध का दूध पानी का पानी (सच्चा न्याय)",
+            "चोर की दाढ़ी में तिनका (दोषी का डर)",
+            "आसमान से गिरा खजूर में अटका (एक विपत्ति से दूसरी में पड़ना)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "अधूरे ज्ञान के व्यर्थ अहंकार पर «अधजल गगरी छलकत जाए» लोकोक्ति सटीक बैठती है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"न्यायाधीश\":",
+          "prompt": "मूर्खों की सभा में किसी कम ज्ञान वाले व्यक्ति को भी सर्वज्ञानी मान लेने पर कौन सी कहावत चरितार्थ होती है?",
           "options": [
-            "हम इस पाठ में इकाई 33.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अधिकार» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («न्याय» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («वकील» का अशुद्ध रूप)"
+            "अंधों में काना राजा (A one-eyed man is king among the blind)",
+            "घर का भेदी लंका ढाए (आंतरिक विश्वासघात)",
+            "बंदर क्या जाने अदरक का स्वाद (मूर्ख द्वारा गुण न पहचानना)",
+            "काला अक्षर भैंस बराबर (निरक्षर होना)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "मूर्खों के बीच अल्पज्ञानी के सम्मानित होने को «अंधों में काना राजा» कहा जाता है।"
         }
       ]
     },
@@ -13731,17 +13750,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"न्यायाधीश\": Which sentence is completely correct?",
+          "prompt": "नीतिपरक लोकोक्तियों (Proverbs & Moral Wisdom) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 33.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («न्याय» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («वकील» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अधिकार» से संबंधित)"
+            "सच्चा विद्वान ज्ञानार्जन से विनम्र बनता है, जबकि अज्ञानी 'थोथा चना बाजे घना' की भांति व्यर्थ अहंकार में लीन रहता है। (A true scholar is humbled by knowledge, whereas the ignorant remains absorbed in vain pride like 'empty vessels sound loudest'.)",
+            "अधजल गगरी का अर्थ है कि घड़े में आधा लीटर दूध डालकर पीना चाहिए।",
+            "लोकोक्तियों का उपयोग केवल परीक्षा में फेल होने के लिए किया जाता है।",
+            "काना राजा का अर्थ है कि आंखों पर चश्मा लगाकर सो जाना।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«सच्चा विद्वान ज्ञानार्जन से विनम्र बनता है, जबकि अज्ञानी 'थोथा चना बाजे घना'... लीन रहता है» लोकोक्ति का मानक प्रयोग है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u33-l3": {
@@ -13749,53 +13769,62 @@
     "subject": "hindi",
     "unit": 33,
     "lessonNumber": 3,
-    "title": "उच्चस्तरीय मुहावरे और लोकोक्तियां (Advanced Idioms) (Part 3)",
+    "title": "संस्कृत सूक्तियां और अमर वचन (Immortal Sanskrit Maxims in Hindi)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.3) with authentic linguistic precision.",
+    "objective": "सत्यमेव जयते, विद्या ददाति विनयं, परोपकाराय सतां विभूतयः तथा जननी जन्मभूमिश्च जैसी अमर संस्कृत सूक्तियों के दार्शनिक भावार्थ में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी गद्य और विमर्श में प्रयुक्त होने वाली अमर संस्कृत सूक्तियों के मानक नियम:\n\n1. **सत्यमेव जयते नानृतम् (मुंडकोपनिषद)**:\n   - **अर्थ** — केवल सत्य की ही विजय होती है, असत्य की कभी नहीं (भारत का राष्ट्रीय आदर्श वाक्य)।\n\n2. **विद्या ददाति विनयं (हितोपदेश)**:\n   - **अर्थ** — सच्ची विद्या और ज्ञान मनुष्य को अहंकार नहीं, अपितु विनम्रता प्रदान करते हैं ('विद्या ददाति विनयं, विनयाद् याति पात्रताम्')।\n\n3. **परोपकाराय सतां विभूतयः एवं यतो धर्मस्ततो जयः**:\n   - **परोपकाराय सतां विभूतयः** — सज्जनों और संतों की संपदा व सामर्थ्य केवल दूसरों के कल्याण हेतु होते हैं;\n   - **यतो धर्मस्ततो जयः** — जहाँ धर्म और सत्यनिष्ठा है, विजय निश्चित रूप से वहीं होती है (महाभारत);\n   - **जननी जन्मभूमिश्च स्वर्गादपि गरीयसी** — जन्म देने वाली माता और जन्मभूमि स्वर्ग से भी बढ़कर श्रेष्ठ हैं (रामायण)।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 33.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 33."
+          "target": "भारत का राष्ट्रीय आदर्श वाक्य 'सत्यमेव जयते' मुंडकोपनिषद से लिया गया है, जो सत्य की अंतिम विजय का अमर उद्घोष करता है।",
+          "reading": "Bhaarat ka raashtreey aadarsh vaakya 'Satyameva Jayate' Mundakopanishad se liya gaya hai, jo satya ki antim vijay ka amar udghosh karta hai. [bʱaːrət̪ kaː raːʂʈriːj aːd̪ərʃ ʋaːkjə sət̪jəmeːʋə dʒəjət̪eː mʊɳɖəkoːpnɪʂəd̪ seː lɪjaː ɡəjaː hɛː dʒoː sət̪jə kiː ən̪t̪ɪm ʋɪdʒəj kaː əmər ʊd̪ɡʱoːʂ kərt̪aː hɛː] (BHAH-ruht kah rahsh-TREE-yuh ah-duhrsh VAHK-yuh suht-yuh-MAY-vuh juh-yuh-TAY moon-duh-koh-puh-nee-SHUHD say lee-YAH guh-YAH hy, joh SUHT-yuh kee uhn-TEEM vee-JUHY kah uh-MUHR ood-GHOHSH KUHR-tah hy)",
+          "translation": "India's national motto 'Satyameva Jayate' is derived from the Mundaka Upanishad, proclaiming the immortal triumph of truth."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 33-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "सच्ची शिक्षा का लक्षण केवल डिग्री पाना नहीं, बल्कि 'विद्या ददाति विनयं' के अनुसार अहंकार से मुक्त विनम्र चरित्र का निर्माण है।",
+          "reading": "Sachchi shiksha ka lakshan keval degree paana nahin, balki 'Vidya dadaati vinayam' ke anusaar ahankaar se mukt vinamr charitr ka nirmaan hai. [sətʃːiː ʃɪkʃaː kaː ləkʃəɳ keːʋəl ɖɪɡriː paːnaː nəɦiː̃ bəlkiː ʋɪd̪jaː d̪əd̪aːt̪ɪ ʋɪnəjəm keː ənʊsaːr əɦəŋkaːr seː mʊkt̪ ʋɪnəmr tʃərɪt̪r kaː nɪrmaːɳ hɛː] (suhch-CHEE sheek-SHAH kah LUK-shuhn kay-VUHL degree pah-NAH nuh-HEEN, buhl-KEE veed-YAH duh-DAH-tee vee-nuh-YUM kay uh-noo-SAHR uh-huhng-KAHR say MOOKT vee-NUHM-ruh chuh-REE-truh kah neer-MAHN hy)",
+          "translation": "The true mark of education is not merely earning a degree, but building a humble character free of arrogance in accordance with 'knowledge bestows humility.'"
+        },
+        {
+          "target": "सज्जनों का संपूर्ण जीवन और सामर्थ्य केवल लोक-कल्याण और असहायों की सेवा हेतु समर्पित होता है—'परोपकाराय सतां विभूतयः'।",
+          "reading": "Sajjanon ka sampoorna jeevan aur saamarthya keval lok-kalyaan aur asahaayon ki seva hetu samarpit hota hai—'Paropkaaraaya sataam vibhootayah'. [sədʒːnõː kaː səmbuːrɳ dʒiːʋən ɔːr saːmərt̪ʰjə keːʋəl loːk-kəljaːɳ ɔːr əsəɦaːjõː kiː seːʋaː ɦeːt̪ʊ səmərpɪt̪ hoːt̪aː hɛː pəroːpkaːraːjə sət̪aːm ʋɪbʱuːt̪əjəɦ] (suhj-juh-NOHN kah suhm-POOR-nuh JEE-vuhn owr sah-muhrth-YUH kay-VUHL lohk-kuhl-YAHN owr uh-suh-hah-YOHN kee say-VAH HAY-too suh-muhr-PEET HOH-tah hy—puh-rohp-kah-RAH-yuh suh-TAHM vee-bhoo-tuh-YUH)",
+          "translation": "The entire life and wealth of the virtuous are dedicated solely to universal welfare and service of the destitute—'the riches of the noble are for charity.'"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "संस्कृत सूक्तियां: सत्यमेव जयते (सत्य विजय), विद्या ददाति विनयं (विनम्रता), परोपकाराय सतां विभूतयः!"
+      ],
+      "culturalNotes": [
+        "'सत्यमेव जयते' को 26 जनवरी 1950 को भारत के गणतंत्र बनने पर आधिकारिक रूप से राष्ट्रीय प्रतीक (अशोक स्तंभ) के नीचे देवनागरी में उत्कीर्ण किया गया।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"वकील\":",
+          "prompt": "मुंडकोपनिषद का वह अमर सूत्र कौन सा है जो भारत का राष्ट्रीय आदर्श वाक्य भी है?",
           "options": [
-            "हम इस पाठ में इकाई 33.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अधिकार» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («न्याय» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («गवाह» का अनुचित स्थान)"
+            "सत्यमेव जयते (Truth alone triumphs - Mundakopanishad national motto of India)",
+            "तमसो मा ज्योतिर्गमय (अंधकार से प्रकाश की ओर)",
+            "सर्वे भवन्तु सुखिनः (सभी सुखी हों)",
+            "मातृ देवो भव (माता भगवान स्वरूप हैं)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "भारत का राष्ट्रीय आदर्श वाक्य «सत्यमेव जयते» (सत्य की ही जीत होती है) है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"वकील\":",
+          "prompt": "रामायण का वह अमर श्लोकांश कौन सा है जो मातृभूमि के प्रति सर्वोच्च सम्मान और देशभक्ति को व्यक्त करता है?",
           "options": [
-            "हम इस पाठ में इकाई 33.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («न्याय» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («गवाह» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अधिकार» का अशुद्ध रूप)"
+            "जननी जन्मभूमिश्च स्वर्गादपि गरीयसी (Mother and motherland are far superior even to heaven itself)",
+            "अहिंसा परमो धर्मः (अहिंसा सर्वोच्च धर्म है)",
+            "वसुधैव कुटुम्बकम् (संपूर्ण पृथ्वी एक परिवार है)",
+            "यतो धर्मस्ततो जयः (जहाँ धर्म है वहीं विजय है)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "माता और मातृभूमि की स्वर्ग से भी उच्च महत्ता को «जननी जन्मभूमिश्च स्वर्गादपि गरीयसी» व्यक्त करता है।"
         }
       ]
     },
@@ -13803,17 +13832,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"वकील\": Which sentence is completely correct?",
+          "prompt": "संस्कृत सूक्तियों और दार्शनिक अमर वचनों (Immortal Sanskrit Maxims) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 33.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («गवाह» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अधिकार» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («न्याय» से संबंधित)"
+            "'सत्यमेव जयते' और 'विद्या ददाति विनयं' जैसी अमर सूक्तियां भारतीय संस्कृति के शाश्वत नैतिक मूल्य और चरित्र निर्माण की आधारशिला हैं। (Immortal maxims like 'Satyameva Jayate' and 'Vidya Dadati Vinayam' are the eternal ethical values and cornerstone of character building in Indian culture.)",
+            "संस्कृत सूक्तियों का अर्थ है कि किसी को कोई बात समझ में न आए।",
+            "विद्या प्राप्त करने के बाद केवल दूसरों का अपमान करना चाहिए।",
+            "सत्य की जगह हमेशा झूठ बोलने का अभ्यास करना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«'सत्यमेव जयते' और 'विद्या ददाति विनयं' जैसी अमर सूक्तियां... आधारशिला हैं» सूक्तियों का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u33-l4": {
@@ -13821,53 +13851,62 @@
     "subject": "hindi",
     "unit": 33,
     "lessonNumber": 4,
-    "title": "उच्चस्तरीय मुहावरे और लोकोक्तियां (Advanced Idioms) (Part 4)",
+    "title": "शास्त्रार्थ परंपरा, तर्कशास्त्र और वाक्-चातुर्य (Tradition of Shastrartha, Logic & Eloquence)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.4) with authentic linguistic precision.",
+    "objective": "शास्त्रार्थ (Shastrartha), पूर्वपक्ष (Opponent's Thesis), उत्तरपक्ष (Refutation & Synthesis), हेतु-दृष्टांत तथा वाक्-पटुता के उच्चस्तरीय विमर्श में प्रवीण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "प्राचीन भारतीय वाद-विमर्श, तर्कशास्त्र (न्याय दर्शन) और शास्त्रार्थ परंपरा के मानक नियम:\n\n1. **शास्त्रार्थ की संरचना (Disputation Framework)**:\n   - **पूर्वपक्ष (Poorvapaksha)** — विरोधी पक्ष के तर्क और सिद्धांतों का निष्पक्ष, गहन और प्रामाणिक प्रस्तुतीकरण;\n   - **खंडन एवं हेतु (Refutation & Logical Cause)** — तार्किक प्रमाणों और प्रत्यक्ष/अनुमान प्रमाण द्वारा त्रुटियों का उद्घाटन;\n   - **उत्तरपक्ष / सिद्धांतपक्ष (Siddhanta-paksha)** — अंतिम सर्वमान्य दार्शनिक निष्कर्ष की स्थापना।\n\n2. **तर्कशास्त्र (न्याय दर्शन के पंच-अवयव वाक्य)**:\n   - **प्रतिज्ञा** (पहाड़ पर आग है);\n   - **हेतु** (क्योंकि वहां धुआं है);\n   - **उदाहरन/दृष्टांत** (जहाँ-जहाँ धुआं होता है, वहां आग होती है, जैसे रसोईघर);\n   - **उपनय** (इस पहाड़ पर भी धुआं है);\n   - **निगमन** (अतः इस पहाड़ पर आग है)।\n\n3. **वाक्-चातुर्य एवं प्रत्युत्पन्नमतित्व**:\n   - *अकाट्य तर्कशीलता, वाणी का लालित्य और तात्कालिक तीक्ष्ण बुद्धि (Quick Wit) का प्रदर्शन।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 33.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 33."
+          "target": "प्राचीन भारत में काशी और मिथिला की शास्त्रार्थ परंपरा में पूर्वपक्ष के तर्कों का आदरपूर्वक खंडन कर उत्तरपक्ष की स्थापना की जाती थी।",
+          "reading": "Praacheen Bhaarat mein Kaashi aur Mithila ki shaastraarth parampara mein poorvapaksh ke tarkon ka aadarpoorvak khandan kar uttarapaksh ki sthaapana ki jaati thee. [praːtʃiːn bʱaːrət̪ mẽː kaːʃiː ɔːr mɪt̪ʰɪlaː kiː ʃaːstraːrt̪ʰ pərəmpəraː mẽː puːrʋəpəkʃ keː t̪ərkõː kaː aːd̪ərpuːrʋək kʰəɳɖən kər ʊt̪ːərəpəkʃ kiː st̪ʰaːpnaː kiː dʒaːt̪iː t̪ʰiː] (prah-CHEEN BHAH-ruht mayn KAH-shee owr MEE-thee-LAH kee shah-STRAHRTH puh-ruhm-puh-RAH mayn poor-vuh-PUHKSH kay tuhr-KOHN kah ah-duhr-poor-VUHK khuhn-DUHN kuhr oot-tuh-ruh-PUHKSH kee sthah-puh-NAH kee JAH-tee thee)",
+          "translation": "In the Shastrartha tradition of ancient Kashi and Mithila, the opponent's thesis (Purvapaksha) was respectfully examined and refuted to establish the definitive conclusion (Uttarapaksha)."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 33-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "आदि शंकराचार्य और आचार्य मंडन मिश्र के मध्य हुआ विख्यात शास्त्रार्थ भारतीय दर्शन की बौद्धिक सहिष्णुता और प्रमाण-आधारित विमर्श का शिखर है।",
+          "reading": "Adi Shankaracharya aur Acharya Mandan Mishra ke madhya hua vikhyaat shaastraarth Bhaarateey darshan ki bauddhika sahishnuta aur pramaan-aadhaarit vimarsh ka shikhar hai. [aːd̪ɪ ʃəŋkrətʃaːrjə ɔːr aːtʃaːrjə məɳɖən mɪʃr keː məd̪ʱjə ɦʊaː ʋɪkʰjaːt̪ ʃaːstraːrt̪ʰ bʱaːrt̪iːj d̪ərʃən kiː bɔːd̪ːʱɪk səɦɪʂɳʊt̪aː ɔːr prəmaːɳ-aːd̪ʱaːrɪt̪ ʋɪmərʃ kaː ʃɪkʰər hɛː] (AH-dee shuhng-kuh-rah-CHAHR-yuh owr ah-CHAHR-yuh MUHN-duhn MEESH-ruh kay MUHDH-yuh hoo-AH vee-KHYAHT shah-STRAHRTH bhahr-TEE-yuh DUHR-shuhn kee bowd-DHEE-kah suh-heesh-noo-TAH owr pruh-MAHN-ah-dhah-REET vee-MUHRSH kah shee-KHUHR hy)",
+          "translation": "The renowned philosophical debate between Adi Shankaracharya and Acharya Mandana Mishra is the pinnacle of intellectual tolerance and evidence-based discourse in Indian philosophy."
+        },
+        {
+          "target": "संसदीय बहसों और अकादमिक सम्मेलनों में तार्किक प्रमाण, अकाट्य दृष्टांत और वाक्-पटुता ही वक्ता को विमर्श में निर्णायक विजय दिलाती है।",
+          "reading": "Samsadeey bahason aur akaadmik sammelanon mein taarkik pramaan, akaatya drishtaant aur vaak-patuta hi vakta ko vimarsh mein nirnaayak vijay dilaati hai. [sənsəd̪iːj bəɦsõː ɔːr əkaːɖmɪk səmːeːlnõː mẽː t̪aːrkɪk prəmaːɳ əkaːʈjə drɪʂʈaːn̪t̪ ɔːr ʋaːk-pəʈʊt̪aː ɦiː ʋəktaː koː ʋɪmərʃ mẽː nɪrɳaːjək ʋɪdʒəj d̪ɪlaːt̪iː hɛː] (suhn-suh-DEE-yuh buh-huh-SOHN owr uh-kahd-MEEK suhm-may-luh-NOHN mayn TAHR-keek pruh-MAHN, uh-KAHT-yuh dreesh-TAHNT owr VAHK-puh-too-TAH HEE vuhk-TAH koh vee-MUHRSH mayn neer-NAH-yuhk vee-JUHY dee-lah-TEE hy)",
+          "translation": "In parliamentary debates and academic conferences, logical evidence, irrefutable illustrations, and eloquence grant the speaker decisive victory in discourse."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "शास्त्रार्थ: पूर्वपक्ष (विरोधी तर्क), खंडन-हेतु, उत्तरपक्ष (सिद्धांत), वाक्-पटुता!"
+      ],
+      "culturalNotes": [
+        "मंडन मिश्र और शंकराचार्य के शास्त्रार्थ में मंडन मिश्र की विदुषी पत्नी 'उभय भारती' ने मुख्य निर्णायक (मध्यस्थ) की निष्पक्ष भूमिका निभाई थी, जो प्राचीन भारत में स्त्रियों की सर्वोच्च विद्वता का प्रतीक है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"अधिकार\":",
+          "prompt": "शास्त्रार्थ परंपरा में किसी सिद्धांत की स्थापना से पूर्व विरोधी पक्ष के तर्कों के निष्पक्ष अध्ययन और प्रस्तुति को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 33.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («न्याय» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («गवाह» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («फ़ैसला» का अनुचित स्थान)"
+            "पूर्वपक्ष (Poorvapaksha - Objective presentation of opponent's argument before logical refutation)",
+            "उत्तर पुस्तिका (परीक्षा कॉपी)",
+            "प्रवेश पत्र (एडमिट कार्ड)",
+            "समाचार सार (न्यूज ब्रीफ)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "विरोधी मत के प्रामाणिक अध्ययन और प्रस्तुतीकरण को «पूर्वपक्ष» (Poorvapaksha) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"अधिकार\":",
+          "prompt": "भारतीय न्याय दर्शन में 'हेतु' (तार्किक कारण) की सत्यता प्रमाणित करने के लिए दिए जाने वाले व्यावहारिक उदाहरण को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 33.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («गवाह» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («फ़ैसला» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («न्याय» का अशुद्ध रूप)"
+            "दृष्टांत / उदाहरण (Drishtaanta - Concrete empirical illustration validating logical premises)",
+            "तस्वीर (चित्र)",
+            "चलचित्र (सिनेमा)",
+            "मुहावरा (कहावत)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "तर्क के प्रमाण स्वरूप प्रस्तुत दृष्टांत या उदाहरण को न्याय दर्शन में «दृष्टांत» कहा जाता है।"
         }
       ]
     },
@@ -13875,17 +13914,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"अधिकार\": Which sentence is completely correct?",
+          "prompt": "शास्त्रार्थ परंपरा और तार्किक वाक्-चातुर्य (Shastrartha & Logic) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 33.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («फ़ैसला» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («न्याय» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («गवाह» से संबंधित)"
+            "पूर्वपक्ष का निष्पक्ष विवेचन, अकाट्य तर्कों से युक्त हेतु-दृष्टांत और शास्त्रार्थ की मर्यादित परंपरा ही सत्य के अन्वेषण का सर्वोत्कृष्ट मार्ग है। (Impartial analysis of Poorvapaksha, irrefutable logical premises and illustrations, and the dignified tradition of Shastrartha are the supreme path for the inquiry of truth.)",
+            "शास्त्रार्थ का अर्थ है कि एक-दूसरे पर लाठी-डंडों से हमला करना।",
+            "तर्कशास्त्र का उपयोग केवल लोगों से झूठ बोलने के लिए किया जाता है।",
+            "पूर्वपक्ष को बिना समझे तुरंत गाली देना शुरू कर देना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«पूर्वपक्ष का निष्पक्ष विवेचन, अकाट्य तर्कों से युक्त हेतु-दृष्टांत और शास्त्रार्थ की मर्यादित परंपरा... सर्वोत्कृष्ट मार्ग है» शास्त्रार्थ का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u33-l5": {
@@ -13893,53 +13933,62 @@
     "subject": "hindi",
     "unit": 33,
     "lessonNumber": 5,
-    "title": "उच्चस्तरीय मुहावरे और लोकोक्तियां (Advanced Idioms) (Part 5)",
+    "title": "अलंकार, वाग्मिता व मुहावरा-शास्त्र महा-समेकन (Rhetorical Mastery & Grand Synthesis)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.5) with authentic linguistic precision.",
+    "objective": "शब्दालंकार व अर्थालंकार (उपमा, रूपक, श्लेष, उत्प्रेक्षा), उच्चस्तरीय वाग्मिता तथा मुहावरा-शास्त्र के समग्र संयोजन में C2 स्तर की पूर्ण विद्वता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "अलंकार शास्त्र, वाग्मिता (Oratory) और मुहावरेदार भाषा का समग्र सौंदर्यशास्त्रीय संश्लेषण:\n\n1. **प्रमुख काव्यालंकार (Figures of Speech)**:\n   - **उपमा** — सादृश्यता (चांद-सा सुंदर मुखड़ा);\n   - **रूपक** — उपमेय और उपमान में अभेद आरोप ('चरण कमल बंदौ हरिराई');\n   - **उत्प्रेक्षा** — संभावना ('मनहुं नीलमणि शैल पर आतप पर्यो प्रभात');\n   - **श्लेष** — एक शब्द के अनेक अर्थ ('रहिमन पानी राखिये, बिन पानी सब सून');\n   - **अतिशयोक्ति** — लोक-सीमा से बढ़कर वर्णन ('हनुमान की पूंछ में लगन न पाई आग, लंका सिगरी जल गई गए निशाचर भाग')।\n\n2. **वाग्मिता (Rhetorical Eloquence) के तत्व**:\n   - ओजस्वी शब्दावली, लयबद्ध वाक्य-विन्यास, श्रोताओं को मंत्रमुग्ध करने वाला धाराप्रवाह सम्मोहन और शास्त्रीय उदाहरण।\n\n3. **C2 स्तर की भाषिक परिपक्वता**:\n   - *मुहावरों, लोकोक्तियों, संस्कृत सूक्तियों और अलंकारिक सौंदर्य का सहज प्रवाह ही हिंदी भाषा की सर्वोच्च विद्वता है।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 33.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 33."
+          "target": "उपमा, रूपक और श्लेष अलंकारों के सटीक संयोजन तथा वाग्मिता से युक्त भाषा श्रोताओं के हृदय में रस और ज्ञान का संचार करती है।",
+          "reading": "Upama, roopak aur shlesh alankaaron ke sateek sanyojan tatha vaagmita se yukt bhaasha shrotaaon ke hriday mein ras aur jnyaan ka sanchaar karti hai. [ʊpmaː ruːpək ɔːr ʃleːʂ ələŋkaːrõː keː sətniːk sənjoːdʒən t̪ət̪ʰaː ʋaːɡmɪt̪aː seː jʊkt̪ bʱaːʂaː ʃroːt̪aːõː keː hrɪd̪əj mẽː rəs ɔːr dʒɲaːn kaː səntʃaːr kərt̪iː hɛː] (oop-MAH, ROO-puhk owr SHLAYSH uh-luhng-kah-ROHN kay suh-TEEK suhn-YOH-juhn TUHTH-ah vahg-mee-TAH say YOOKT bhah-SHAH shroh-tah-OHN kay HREE-duhy mayn RUHS owr JNYAHN kah suhn-CHAHR KUHR-tee hy)",
+          "translation": "Language adorned with the precise synthesis of simile, metaphor, and double-entendre alongside grand eloquence infuses aesthetic relish and wisdom into the hearts of listeners."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 33-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "उच्चस्तरीय मुहावरों और लोकोक्तियों का स्वाभाविक प्रयोग हिंदी गद्य को प्रवाह, व्यंग्यात्मक धार और सांस्कृतिक गरिमा प्रदान करता है।",
+          "reading": "Uchcha-stareey muhaavaron aur lokoktiyon ka svaabhaavik prayog Hindi gadya ko pravaah, vyangyaatmak dhaar aur saanskritik garima pradaan karta hai. [ʊtʃːə-st̪əriːj mʊɦaːʋrõː ɔːr loːkoːkt̪ɪjõː kaː sʋaːbʱaːʋɪk prəjoːɡ ɦɪn̪d̪iː ɡəd̪jə koː prəʋaːɦ ʋjəŋɡjaːt̪mək d̪ʱaːr ɔːr saːnskrt̪ɪk ɡərɪmaː prəd̪aːn kərt̪aː hɛː] (OOTCH-chuh-stuh-REE-yuh moo-hahv-ROHN owr lohk-ohk-tee-YOHN kah svah-bhah-VEEK pruh-YOHG HEEN-dee GUHD-yuh koh pruh-VAHH, vyuhng-yaht-MUK DHAHR owr sahn-skree-TEEK guh-ree-MAH pruh-DAHN KUHR-tah hy)",
+          "translation": "The natural usage of advanced idioms and proverbs imparts flow, satirical sharpness, and cultural dignity to Hindi prose."
+        },
+        {
+          "target": "शास्त्रार्थ की तर्कशीलता, सूक्तियों की दार्शनिक गहराई और भाषा की सौंदर्यमयी वाग्मिता ही C2 स्तर की समग्र हिंदी विद्वता की कसौटी है।",
+          "reading": "Shaastraarth ki tarkasheelata, sooktiyon ki daarshanik gahraayi aur bhaasha ki saundaryamayi vaagmita hi C2 star ki samagr Hindi vidvata ki kasauti hai. [ʃaːstraːrt̪ʰ kiː t̪ərkʃiːlt̪aː suːkt̪ɪjõː kiː d̪aːrʃənɪk ɡəɦraːjiː ɔːr bʱaːʂaː kiː sɔːn̪d̪ərjəməjiː ʋaːɡmɪt̪aː ɦiː siː-ʈuː st̪ər kiː səməɡrə ɦɪn̪d̪iː ʋɪd̪ʋət̪aː kiː kəsɔːʈiː hɛː] (shah-STRAHRTH kee tuhr-kuh-sheel-TAH, sook-tee-YOHN kee dahr-shuh-NEEK guh-rah-YEE owr bhah-SHAH kee sown-duhr-yuh-MUH-yee vahg-mee-TAH HEE C2 STUHR kee suh-MUH-gruh HEEN-dee veed-vuh-TAH kee kuh-SOW-tee hy)",
+          "translation": "The rationality of dialectical disputation, the philosophical depth of maxims, and the aesthetic eloquence of language are the ultimate touchstone of C2-level Hindi scholarship."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "वाग्मिता समेकन: काव्यालंकार (उपमा/रूपक/श्लेष), वाक्-सौंदर्य, मुहावरा-शास्त्र, C2 विद्वता!"
+      ],
+      "culturalNotes": [
+        "आचार्य दंडी ने 'काव्यादर्श' में अलंकारों को परिभाषित करते हुए लिखा था: 'काव्यशोभाकरान् धर्मानलंकारान् प्रचक्षते' (काव्य की शोभा बढ़ाने वाले धर्मों/गुणों को अलंकार कहते हैं)।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"न्याय\":",
+          "prompt": "काव्य अथवा गद्य में जहाँ एक ही शब्द के एक से अधिक अर्थ निकलकर चमत्कार उत्पन्न करते हों, वहाँ कौन सा अलंकार होता है?",
           "options": [
-            "हम इस पाठ में इकाई 33.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («गवाह» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («फ़ैसला» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («संविधान» का अनुचित स्थान)"
+            "श्लेष अलंकार (Shlesha Alankara - Figure of speech involving pun or double entendre)",
+            "अनुप्रास अलंकार (वर्णों की आवृत्ति)",
+            "यमक अलंकार (शब्द दोहराव भिन्न अर्थ)",
+            "संदेह अलंकार (दुविधा)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "एक ही शब्द में एक से अधिक अर्थ चिपके होने पर «श्लेष अलंकार» होता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"न्याय\":",
+          "prompt": "जहाँ उपमेय में उपमान की संभावना व्यक्त की जाए (मनु, मानहु, जनु, जानहु शब्दों द्वारा), वहाँ कौन सा अलंकार होता है?",
           "options": [
-            "हम इस पाठ में इकाई 33.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («फ़ैसला» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («संविधान» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («गवाह» का अशुद्ध रूप)"
+            "उत्प्रेक्षा अलंकार (Utpreksha Alankara - Figure of speech expressing poetic probability/conceit)",
+            "उपमा अलंकार (समानता)",
+            "रूपक अलंकार (अभेद आरोप)",
+            "अतिशयोक्ति अलंकार (बढ़ा-चढ़ाकर कहना)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "उपमेय में उपमान की संभावना प्रकट करने वाले अलंकार को «उत्प्रेक्षा अलंकार» कहते हैं।"
         }
       ]
     },
@@ -13947,17 +13996,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"न्याय\": Which sentence is completely correct?",
+          "prompt": "अलंकार, वाग्मिता और शास्त्रार्थ (Rhetorical Mastery & Grand Synthesis) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 33.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («संविधान» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («गवाह» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («फ़ैसला» से संबंधित)"
+            "काव्यालंकारों का भव्य लालित्य, मुहावरा-शास्त्र की मार्मिकता और शास्त्रार्थ की तार्किक वाग्मिता ही हिंदी भाषा को अभिव्यक्ति की सर्वोच्च पराकाष्ठा प्रदान करते हैं। (The sublime elegance of figures of speech, the poignancy of idiomatic lore, and the logical eloquence of Shastrartha bestow the supreme zenith of expression upon the Hindi language.)",
+            "अलंकार केवल महिलाओं के सोने के गहनों को कहते हैं और भाषा से इनका कोई संबंध नहीं है।",
+            "वाग्मिता का अर्थ है कि बिना सोचे-समझे केवल जोर-जोर से चिल्लाना।",
+            "हिंदी भाषा में मुहावरों का प्रयोग करना अपराध है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«काव्यालंकारों का भव्य लालित्य, मुहावरा-शास्त्र की मार्मिकता और शास्त्रार्थ की तार्किक वाग्मिता... सर्वोच्च पराकाष्ठा प्रदान करते हैं» वाग्मिता और मुहावरा-शास्त्र का सर्वोच्च प्रामाणिक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u34-l1": {
