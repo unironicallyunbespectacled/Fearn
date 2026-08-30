@@ -4618,85 +4618,89 @@
     "subject": "arabic",
     "unit": 8,
     "lessonNumber": 1,
-    "title": "الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions) (الدرس 1)",
+    "title": "مفردات الطقس وحالة الجو ودرجات الحرارة (Weather Vocabulary & Temperature)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: حروف الجر (في، إلى، على، من، عن، بـ، لـ)، تحديد الاتجاهات في المدينة، ووسائل النقل الحديثة. (الجزء 1).",
+    "objective": "إتقان السؤال عن الطقس وحالة الجو، والمفردات الدالة على المناخ (حار، بارد، معتدل، ممطر، مشمس، غائم، مثلج)، والتعبير عن درجات الحرارة المئوية.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يُعد الحديث عن الطقس والظواهر المناخية من المهارات التعبيرية اليومية الهامة في اللغة العربية الفصحى:\n\nأولاً: السؤال عن الطقس وحالة الجو:\n- «كَيْفَ الطَّقْسُ اليَوْمَ؟» (How is the weather today?)\n- «مَا حَالَةُ الجَوِّ فِي مَدِينَتِكَ؟» (What is the state of the weather in your city?)\n\nثانياً: الصفات والمفردات المناخية الأساسية:\n1.【حَارٌّ (Hot)】: «الجَوُّ حَارٌّ جِدًّا فِي الصَّيْفِ».\n2.【بَارِدٌ (Cold)】: «الطَّقْسُ بَارِدٌ فِي الشِّتَاءِ».\n3.【مُعْتَدِلٌ (Mild / Moderate)】: «الجَوُّ مُعْتَدِلٌ وَلَطِيفٌ».\n4.【مُشْمِسٌ (Sunny)】: «السَّمَاءُ صَافِيَةٌ وَاليَوْمُ مُشْمِسٌ».\n5.【مُمْطِرٌ (Rainy)】: «الطَّقْسُ مُمْطِرٌ طَوَالَ اليَوْمِ».\n6.【غَائِمٌ (Cloudy)】: «السَّمَاءُ غَائِمَةٌ جُزْئِيًّا».\n7.【مُثْلِجٌ (Snowy)】: «الجِبَالُ مُثْلِجَةٌ».\n\nثالثاً: درجات الحرارة والأعداد:\n- «دَرَجَةُ الحَرَارَةِ (Temperature)» -> «تَبْلُغُ دَرَجَةُ الحَرَارَةِ عِشْرِينَ دَرَجَةً مِئَوِيَّةً» (The temperature reaches 20°C).\n- «دَرَجَةُ الحَرَارَةِ العُظْمَى (Maximum temperature)» | «الصُّغْرَى (Minimum temperature)».\n- «تَحْتَ الصِّفْرِ (Below zero)»: «دَرَجَتَانِ تَحْتَ الصِّفْرِ» (-2°C).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)» بأسلوب أكاديمي دقيق (8.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)' to students in an accurate academic style."
+          "target": "الطَّقْسُ اليَوْمَ مُعْتَدِلٌ وَمُشْمِسٌ، وَدَرَجَةُ الحَرَارَةِ تَبْلُغُ خَمْسًا وَعِشْرِينَ دَرَجَةً مِئَوِيَّةً.(Aṭ-ṭaqsu al-yawma muʿtadilun wa-mushmisun, wa-darajatu al-ḥarārati tablughu khamsan wa-ʿishrīna darajatan miʾawiyyah.)",
+          "reading": "[atˤ.tˤaq.su‿l.jaw.ma muʕ.ta.di.lun wa.muʃ.mi.sun, wa.da.ra.ʒa.tu‿l.ħa.raː.ra.ti tab.lu.ɣu xam.san wa.ʕiʃ.riː.na da.ra.ʒa.tan miʔ.ʔa.wij.jah] (Aṭ-ṭaq-su al-yaw-ma muʿ-ta-di-lun wa-mush-mi-sun, wa-da-ra-ja-tu al-ḥa-rā-ra-ti tab-lu-ghu kham-san wa-ʿish-rī-na da-ra-ja-tan miʾ-a-wiy-yah.)",
+          "translation": "The weather today is mild and sunny, and the temperature reaches twenty-five degrees Celsius."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (8.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "كَيْفَ الطَّقْسُ فِي مَدِينَتِكُمْ فِي فَصْلِ الشِّتَاءِ؟ — الجَوُّ بَارِدٌ جِدًّا وَمُمْطِرٌ، وَتَتَسَاقَطُ الثُّلُوجُ.(Kayfa aṭ-ṭaqsu fī madīnatikum fī faṣli ash-shitāʾ? — Al-jawwu bāridun jiddan wa-mumṭir, wa-tatasāqaṭu ath-thulūj.)",
+          "reading": "[kaj.fa‿tˤ.tˤaq.su fiː ma.diː.na.ti.kum fiː fasˤ.li‿ʃ.ʃi.taːʔ? — al.ʒaw.wu baː.ri.dun ʒid.dan wa.mum.tˤir, wa.ta.ta.saː.qa.tˤu‿θ.θu.luːʒ] (Kay-fa aṭ-ṭaq-su fī ma-dī-na-ti-kum fī faṣ-li ash-shi-tāʾ? — Al-jaw-wu bā-ri-dun jid-dan wa-mum-ṭir, wa-ta-ta-sā-qa-ṭu ath-thu-lūj.)",
+          "translation": "How is the weather in your city in winter? — The weather is very cold and rainy, and snow falls."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (8.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تَشْهَدُ المِنْطَقَةُ رِيَاحًا قَوِيَّةً وَضَبَابًا كَثِيفًا فِي الصَّبَاحِ البَاكِرِ مِمَّا يُقَلِّلُ الرُّؤْيَةَ.(Tashhadu al-minṭaqatu riyāḥan qawiyyatan wa-ḍabāban kathīfan fī aṣ-ṣabāḥi al-bākiri mimmā yuqallilu ar-ruʾyah.)",
+          "reading": "[taʃ.ha.du‿l.min.tˤa.qa.tu ri.jaː.ħan qa.wij.ja.tan wa.dˤa.baː.ban ka.θiː.fan fiː‿sˤ.sˤa.baː.ħi‿l.baː.ki.ri mim.maː ju.qal.li.lu‿r.ruʔ.jah] (Tash-ha-du al-min-ṭa-qa-tu ri-yā-ḥan qa-wiy-ya-tan wa-ḍa-bā-ban ka-thī-fan fī aṣ-ṣa-bā-ḥi al-bā-ki-ri mim-mā yu-qal-li-lu ar-ruʾ-yah.)",
+          "translation": "The region is witnessing strong winds and dense fog in the early morning, which reduces visibility."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (8.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "نَسْتَخْدِمُ الصِّفَاتِ المُشْتَقَّةَ مِثْلَ «مُشْمِسٍ» وَ«مُمْطِرٍ» لِوَصْفِ حَالَةِ الطَّقْسِ وَالجَوِّ.(Nastakhdimu aṣ-ṣifāti al-mushtaqqata mithla «mushmis» wa-«mumṭir» li-waṣfi ḥālati aṭ-ṭaqsi wa-al-jaww.)",
+          "reading": "[nas.tax.di.mu‿sˤ.sˤi.faː.ti‿l.muʃ.taq.qa.ta miθ.la «muʃ.mi.sin» wa.«mum.tˤi.rin» li.wasˤ.fi ħaː.la.ti‿tˤ.tˤaq.si wal.ʒaww] (Nas-takh-di-mu aṣ-ṣi-fā-ti al-mush-taq-qa-ta mith-la «mush-mi-sin» wa-«mum-ṭi-rin» li-waṣ-fi ḥā-la-ti aṭ-ṭaq-si wa-al-jaww.)",
+          "translation": "We use derived adjectives like 'mushmis' and 'mumtir' to describe the condition of weather and atmosphere."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "طَقْسٌ حَارٌّ أَوْ بَارِدٌ أَوْ مُمْطِرٌ يَنْهَمِرْ، دَرَجَاتُ الحَرَارَةِ تَعْلُو فَيَبْتَهِجُ البَصَرْ!"
+      ],
+      "culturalNotes": [
+        "يتميز الوطن العربي بتنوع مناخي فريد يجمع بين شواطئ البحر المتوسط المعتدلة، وواحات النخيل، والصحاري الشاسعة التي تتميز بليالٍ باردة وأيام مشمسة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)» (الدرس 1)؟",
+          "prompt": "ما هو السؤال الفصيح والشائع للاستفسار عن حالة الجو اليوم؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)» بأسلوب أكاديمي دقيق (8.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (8.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (8.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (8.1.w3)"
+            "كَيْفَ الطَّقْسُ اليَوْمَ؟ (How is the weather today?)",
+            "أين الساعة اليوم؟",
+            "من كتب الرسالة غدا؟",
+            "ما اسم المطعم؟"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«كَيْفَ الطَّقْسُ اليَوْمَ؟» أو «مَا حَالَةُ الجَوِّ؟» هو التعبير المعياري للاستفسار عن الطقس."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي الصفة العربية الدالة على الطقس الذي تغطيه السحب الكثيفة؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "غَائِمٌ (Cloudy / Overcast)",
+            "مشمس",
+            "صافٍ",
+            "صحراوي"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«غَائِمٌ» (مشتق من الغيم والسحاب) تصف الطقس المليء بالغيوم."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u8-l1):",
+          "prompt": "اختر الجملة التي تصف حالة الطقس ودرجة الحرارة بدقة نحوية ولغوية تامة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (8.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (8.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (8.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (8.1.x3)"
+            "الجَوُّ مُمْطِرٌ وَبَارِدٌ، وَدَرَجَةُ الحَرَارَةِ عَشْرُ دَرَجَاتٍ فَقَطْ. (The weather is rainy and cold, and the temperature is only ten degrees.)",
+            "الجو ممطرة وباردة والحرارة عشرة درجات خطأ",
+            "كيف الطقس أمس في المستقبل",
+            "طقس مطر ثلج سكون فتحة درجة حرارة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تطابق بين المبتدأ المذكر «الجَوُّ» والخبرين «مُمْطِرٌ وَبَارِدٌ» وتحدد درجة الحرارة بضبط سليم."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)»؟",
+          "prompt": "ماذا تعني عبارة «خَمْسُ دَرَجَاتٍ تَحْتَ الصِّفْرِ» في تقارير الأرصاد الجوية؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (8.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (8.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (8.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (8.1.y3)"
+            "5 دَرَجَاتٍ مِئَوِيَّةٍ سَالِبَةٍ (-5°C / Sub-zero)",
+            "خمس درجات حارة جدا",
+            "خمسون درجة مئوية",
+            "انعدام درجة الحرارة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«تحت الصفر» تعني درجات الحرارة الجليدية السالبة تحت نقطة تجمد الماء."
         }
       ]
     },
@@ -4704,24 +4708,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 8-1)؟",
+          "prompt": "اختر الفقرة التي تقدم تقريرًا جويًا موجزًا بلغة عربية فصيحة ومضبوطة إعرابيًا:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (8.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (8.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (8.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (8.1.z3)"
+            "تَتَوَقَّعُ هَيْئَةُ الأَرْصَادِ الجَوِّيَّةِ أَنْ يَكُونَ الطَّقْسُ غَدًا دَافِئًا وَمُشْمِسًا فِي المَنَاطِقِ السَّاحِلِيَّةِ، مَعَ انْخِفَاضٍ طَفِيفٍ فِي دَرَجَاتِ الحَرَارَةِ لَيْلًا. (The meteorological authority expects tomorrow's weather to be warm and sunny in coastal areas, with a slight drop in temperatures at night.)",
+            "تتوقع الارصاد ان يكون الطقس دافئ ومشمسا بنصب دافئ فقط.",
+            "طقس امس غدا حرارة شمس مطر ريح سحاب.",
+            "لا يوجد طقس ولا هواء في المدينة غدا."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة تصوغ تقرير الأرصاد بخبر «يكونَ» المنصوب «دافئًا ومشمسًا» بأسلوب إعلامي فصيح ودقيق."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u8-l1) باللغة العربية (مثال: «الاتجاهات»):",
+          "prompt": "اكتب باللغة العربية الفصحى الصفة التي تصف الجو المليء بالأمطار الغزيرة (مثال: «ممطر»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الاتجاهات",
-            "الاتجاهات"
+            "ممطر",
+            "مُمْطِرٌ",
+            "مُمْطِر"
           ],
-          "explanation": "المصطلح الصحيح هو «الاتجاهات»."
+          "explanation": "الصفة هي «ممطر»."
         }
       ],
       "passThreshold": 0.8
@@ -4732,85 +4737,89 @@
     "subject": "arabic",
     "unit": 8,
     "lessonNumber": 2,
-    "title": "الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions) (الدرس 2)",
+    "title": "فصول السنة الأربعة والظواهر المناخية (The Four Seasons & Climate Phenomena)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: حروف الجر (في، إلى، على، من، عن، بـ، لـ)، تحديد الاتجاهات في المدينة، ووسائل النقل الحديثة. (الجزء 2).",
+    "objective": "إتقان أسماء فصول السنة الأربعة (الربيع، الصيف، الخريف، الشتاء) والظواهر الطبيعية المرتبطة بكل فصل والتراكيب الإضافية الخاصة بها.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تتعاقب فصول السنة الأربعة بانتظام وتتنوع معها المظاهر الطبيعية والأنشطة الإنسانية:\n\nأولاً: فصول السنة الأربعة (The Four Seasons):\n1.【فَصْلُ الرَّبِيعِ (Spring)】: يعتدل الجو، وتتفتح الأزهار (تَتَفَتَّحُ الأَزْهَارُ)، وتخضر الأرض والمروج.\n2.【فَصْلُ الصَّيْفِ (Summer)】: ترتفع درجات الحرارة (تَرْتَفِعُ الحَرَارَةُ)، ويسافر الناس إلى الشواطئ والبحار.\n3.【فَصْلُ الخَرِيفِ (Autumn / Fall)】: تتقلب الأجواء، وتتساقط أوراق الأشجار (تَتَسَاقَطُ أَوْرَاقُ الأَشْجَارِ)، وتهب الرياح.\n4.【فَصْلُ الشِّتَاءِ (Winter)】: يشتد البرد، وتهطل الأمطار الغزيرة (تَهْطُلُ الأَمْطَارُ)، وتكتسي الجبال بالثلوج.\n\nثانياً: التراكيب الإضافية والظرفية مع الفصول:\n- «فِي فَصْلِ الصَّيْفِ» (In summer) | «فِي فَصْلِ الشِّتَاءِ» (In winter).\n- «عُطْلَةُ الرَّبِيعِ» (Spring break) | «أَمْطَارُ الخَرِيفِ» (Autumn rains).\n- «بَرْدُ الشِّتَاءِ القَارِسُ» (The harsh cold of winter) | «حَرُّ الصَّيْفِ الشَّدِيدُ» (The intense heat of summer).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)» بأسلوب أكاديمي دقيق (8.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)' to students in an accurate academic style."
+          "target": "فِي فَصْلِ الرَّبِيعِ يَعْتَدِلُ الجَوُّ، وَتَتَفَتَّحُ الأَزْهَارُ فِي الحَدَائِقِ العَامَّةِ بِأَلْوَانٍ بَدِيعَةٍ.(Fī faṣli ar-rabīʿi yaʿtadilu al-jawwu, wa-tatafattaḥu al-azhāru fī al-ḥadāʾiqi al-ʿāmmati bi-alwānin badīʿah.)",
+          "reading": "[fiː fasˤ.li‿r.ra.biː.ʕi jaʕ.ta.di.lu‿l.ʒaw.wu, wa.ta.ta.fat.ta.ħu‿l.ʔaz.haː.ru fiː‿l.ħa.daː.ʔi.qi‿l.ʕaːm.ma.ti bi.ʔal.waː.nin ba.diː.ʕah] (Fī faṣ-li ar-ra-bī-ʿi yaʿ-ta-di-lu al-jaw-wu, wa-ta-ta-fat-ta-ḥu al-az-hā-ru fī al-ḥa-dā-ʾi-qi al-ʿām-ma-ti bi-al-wā-nin ba-dī-ʿah.)",
+          "translation": "In spring the weather becomes mild, and flowers blossom in public gardens in wonderful colors."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (8.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تُفَضِّلُ العَائِلَاتُ السَّفَرَ إِلَى المَنَاطِقِ السَّاحِلِيَّةِ فِي فَصْلِ الصَّيْفِ لِلِاسْتِمْتَاعِ بِالبَحْرِ.(Tufaḍḍilu al-ʿāʾilātu as-safara ilā al-manāṭiqi as-sāḥiliyyati fī faṣli aṣ-ṣayfi li-l-istimtāʿi bi-l-baḥr.)",
+          "reading": "[tu.fadˤ.dˤi.lu‿l.ʕaː.ʔi.laː.tu‿s.sa.fa.ra ʔi.laː‿l.ma.naː.tˤi.qi‿s.saː.ħi.lij.ja.ti fiː fasˤ.li‿sˤ.sˤaj.fi lil.ʔis.tim.taː.ʕi bil.baħr] (Tu-faḍ-ḍi-lu al-ʿā-ʾi-lā-tu as-sa-fa-ra i-lā al-ma-nā-ṭi-qi as-sā-ḥi-liy-ya-ti fī faṣ-li aṣ-ṣay-fi li-l-is-tim-tā-ʿi bi-l-baḥr.)",
+          "translation": "Families prefer traveling to coastal regions in summer to enjoy the sea."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (8.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تَتَسَاقَطُ أَوْرَاقُ الأَشْجَارِ الصَّفْرَاءِ فِي الخَرِيفِ، ثُمَّ تَكْتَسِي الجِبَالُ بِالثَّلْجِ الأَبْيَضِ فِي الشِّتَاءِ.(Tatasāqaṭu awrāqu al-ashjāri aṣ-ṣafrāʾu fī al-kharīfi, thumma taktasī al-jibālu bi-th-thalji al-abyaḍi fī ash-shitāʾ.)",
+          "reading": "[ta.ta.saː.qa.tˤu ʔaw.raː.qu‿l.ʔaʃ.ʒaː.ri‿sˤ.sˤaf.raː.ʔu fiː‿l.xa.riːf, θum.ma tak.ta.siː‿l.ʒi.baː.lu biθ.θal.ʒi‿l.ʔab.ja.dˤi fiː‿ʃ.ʃi.taːʔ] (Ta-ta-sā-qa-ṭu aw-rā-qu al-ash-jā-ri aṣ-ṣaf-rā-ʾu fī al-kha-rīf, thum-ma tak-ta-sī al-ji-bā-lu bi-th-thal-ji al-ab-ya-ḍi fī ash-shi-tāʾ.)",
+          "translation": "Yellow tree leaves fall in autumn, then mountains are covered with white snow in winter."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (8.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "فُصُولُ السَّنَةِ الأَرْبَعَةُ تَتَعَاقَبُ بِدِقَّةٍ: الرَّبِيعُ وَالصَّيْفُ وَالخَرِيفُ وَالشِّتَاءُ.(Fuṣūlu as-sanati al-arbaʿatu tataʿāqabu bi-diqqah: ar-rabīʿu wa-aṣ-ṣayfu wa-al-kharīfu wa-ash-shitāʾ.)",
+          "reading": "[fu.sˤuː.lu‿s.sa.na.ti‿l.ʔar.ba.ʕa.tu ta.ta.ʕaː.qa.bu bi.diq.qah: ar.ra.biː.ʕu wasˤ.sˤaj.fu wal.xa.riː.fu waʃ.ʃi.taːʔ] (Fu-ṣū-lu as-sa-na-ti al-ar-ba-ʿa-tu ta-ta-ʿā-qa-bu bi-diq-qah: ar-ra-bī-ʿu wa-aṣ-ṣay-fu wa-al-kha-rī-fu wa-ash-shi-tāʾ.)",
+          "translation": "The four seasons of the year alternate with precision: spring, summer, autumn, and winter."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "رَبِيعٌ زَاهِرٌ وَصَيْفٌ دَافِئٌ كَرِيمْ، خَرِيفٌ عَاصِفٌ وَشِتَاءٌ بِالثَّلْجِ يَهِيمْ!"
+      ],
+      "culturalNotes": [
+        "افتتن شعراء العربية بجمال الطبيعة في الأندلس وبلاد الشام؛ فأنشد ابن خفاجة الأندلسي والصنوبري الشامي أعذب القصائد في وصف رياض الربيع وبساتينه."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)» (الدرس 2)؟",
+          "prompt": "ما هو الفصل الذي تتفتح فيه الأزهار ويعتدل فيه الطقس في الطبيعة؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)» بأسلوب أكاديمي دقيق (8.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (8.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (8.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (8.2.w3)"
+            "فَصْلُ الرَّبِيعِ (Spring)",
+            "فصل الشتاء",
+            "فصل الخريف",
+            "فصل الصيف"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«فَصْلُ الرَّبِيعِ» هو موسم تفتح الأزهار واعتدال الجو."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي الظاهرة الطبيعية التي تميز فصل الخريف عن باقي الفصول؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "تَسَاقُطُ أَوْرَاقِ الأَشْجَارِ (Falling of tree leaves)",
+            "تساقط الثلوج الشديدة",
+            "ارتفاع درجات الحرارة إلى 50 درجة",
+            "تفتح براعم الورود"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "تساقط أوراق الأشجار الصفراء والجافة علامة مميزة لفصل الخريف."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u8-l2):",
+          "prompt": "اختر الجملة التي تصف الأنشطة الموسمية في فصلي الصيف والشتاء بصياغة عربية فصيحة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (8.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (8.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (8.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (8.2.x3)"
+            "نَسْبَحُ فِي البَحْرِ خِلَالَ الصَّيْفِ، وَنَتَزَلَّجُ عَلَى جِبَالِ الثَّلْجِ فِي الشِّتَاءِ. (We swim in the sea during summer, and ski on snow mountains in winter.)",
+            "نسبح في الشتاء على الثلج ونتزلج في الصيف في البحر بدون منطق",
+            "نحن يسبح في الصيف ويتزلج في الشتاء",
+            "فصول سنة صيف شتاء ربيع خريف سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تربط بين نشاط السباحة في الصيف والتزلج على الثلج في الشتاء بتراكيب فعلية دقيقة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)»؟",
+          "prompt": "ما هو الجمع الصحيح لكلمة «فَصْل» في اللغة العربية الفصحى؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (8.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (8.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (8.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (8.2.y3)"
+            "فُصُولٌ (Fuṣūl - Broken Plural)",
+            "فصلات",
+            "فصلون",
+            "أفصال"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "جمع تكسير كلمة «فصل» هو «فصول» (مثل فصول السنة، وفصول الكتاب)."
         }
       ]
     },
@@ -4818,24 +4827,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 8-2)؟",
+          "prompt": "اختر النص الأدبي الوصفي الذي يصور تعاقب الفصول الأربعة بجمال بياني ودقة إعرابية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (8.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (8.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (8.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (8.2.z3)"
+            "تَتَزَيَّنُ الأَرْضُ فِي الرَّبِيعِ بِحُلَّةٍ خَضْرَاءَ، ثُمَّ يَأْتِي الصَّيْفُ بِشَمْسِهِ الذَّهَبِيَّةِ، حَتَّى إِذَا أَقْبَلَ الخَرِيفُ نَثَرَ أَوْرَاقَهُ لِيَفْسَحَ المَجَالَ لِأَمْطَارِ الشِّتَاءِ المُبَارَكَةِ. (The earth adorns itself in spring with a green robe, then summer arrives with its golden sun, until when autumn approaches it scatters its leaves to make way for blessed winter rains.)",
+            "تتزين الارض في الربيع بالصيف والخريف والشتاء بلا معنى.",
+            "فصول اربعة ربيع صيف خريف شتاء مطر ثلج شمس.",
+            "لا تتغير الفصول طوال السنة في الطبيعة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الفصاحة والبلاغة الوصفية في استعراض خصائص الفصول الأربعة بتناغم لغوي بديع."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u8-l2) باللغة العربية (مثال: «الاتجاهات»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم فصل تساقط الثلوج والأمطار والبرد القارس (مثال: «الشتاء»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الاتجاهات",
-            "الاتجاهات"
+            "الشتاء",
+            "الشِّتَاءُ",
+            "الشِّتَاء",
+            "شتاء"
           ],
-          "explanation": "المصطلح الصحيح هو «الاتجاهات»."
+          "explanation": "الفصل هو «الشتاء»."
         }
       ],
       "passThreshold": 0.8
@@ -4846,85 +4857,89 @@
     "subject": "arabic",
     "unit": 8,
     "lessonNumber": 3,
-    "title": "الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions) (الدرس 3)",
+    "title": "الملابس والمظهر والتناسب الفصلي (Clothing Vocabulary & Seasonal Attire)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: حروف الجر (في، إلى، على، من، عن، بـ، لـ)، تحديد الاتجاهات في المدينة، ووسائل النقل الحديثة. (الجزء 3).",
+    "objective": "إتقان مفردات الملابس العصرية والتقليدية العربية (قميص، فستان، معطف، ثوب، كوفية)، واستخدام أفعال الارتداء والتناسب الموسمي بين الملابس وحالة الطقس.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يرتبط اختيار الملابس ارتباطًا وثيقًا بالطقس والمناسبات الاجتماعية:\n\nأولاً: مفردات الملابس العامة (General Clothing Vocabulary):\n1.【قَمِيصٌ / قُمْصَانٌ (Shirt / Shirts)】 | 【بَنْطَلُونٌ / سِرْوَالٌ (Trousers / Pants)】.\n2.【فُسْتَانٌ / فَسَاتِينُ (Dress / Dresses)】 | 【تَنُّورَةٌ (Skirt)】.\n3.【مِعْطَفٌ / مَعَاطِفُ (Coat / Coats)】 | 【سُتْرَةٌ (Jacket / Sweater)】.\n4.【وِشَاحٌ (Scarf)】 | 【قُفَّازَاتٌ (Gloves)】 | 【قُبَّعَةٌ (Hat)】.\n5.【حِذَاءٌ / أَحْذِيَةٌ (Shoes)】 | 【جَوْرَبٌ / جَوَارِبُ (Socks)】 | 【نَظَّارَةٌ شَمْسِيَّةٌ (Sunglasses)】.\n\nثانياً: الملابس التقليدية العربية (Traditional Arabic Attire):\n- 【الثَّوْبُ / الجِلْبَابُ / الدِّشْدَاشَةُ (Thobe / Dishdasha)】: رداء أبيض طويل يرتديه الرجال في الخليج والشام ومصر.\n- 【العَبَاءَةُ (Abaya)】: رداء عربي فسيح وأنيق.\n- 【الكُوفِيَّةُ / الشِّمَاغُ وَالعِقَالُ (Keffiyeh / Shemagh & Agal)】: غطاء الرأس العربي الشهير.\n\nثالثاً: أفعال الارتداء والتنسيق:\n- يَرْتَدِي / يَلْبَسُ (To wear / put on): «أَرْتَدِي مَلَابِسَ ثَقِيلَةً صُوفِيَّةً فِي الشِّتَاءِ».\n- «يَلْبَسُ قَمِيصًا قُطْنِيًّا خَفِيفًا فِي الصَّيْفِ».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)» بأسلوب أكاديمي دقيق (8.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)' to students in an accurate academic style."
+          "target": "أَرْتَدِي مِعْطَفًا صُوفِيًّا ثَقِيلًا وَوِشَاحًا دَافِئًا لِحِمَايَةِ نَفْسِي مِنْ بَرْدِ الشِّتَاءِ القَارِسِ.(Artadī miʿṭafan ṣūfiyyan thaqīlan wa-wishāḥan dāfiʾan li-ḥimāyati nafsī min bardi ash-shitāʾi al-qāris.)",
+          "reading": "[ʔar.ta.diː miʕ.tˤa.fan sˤuː.fij.jan θa.qiː.lan wa.wi.ʃaː.ħan daː.fi.ʔan li.ħi.maː.ja.ti naf.siː min bar.di‿ʃ.ʃi.taː.ʔi‿l.qaː.ris] (Ar-ta-dī miʿ-ṭa-fan ṣū-fiy-yan tha-qī-lan wa-wi-shā-ḥan dā-fi-ʾan li-ḥi-mā-ya-ti naf-sī min bar-di ash-shi-tā-ʾi al-qā-ris.)",
+          "translation": "I wear a heavy wool coat and a warm scarf to protect myself from the bitter cold of winter."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (8.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يَلْبَسُ الرِّجَالُ فِي دُوَلِ الخَلِيجِ الثَّوْبَ الأَبْيَضَ الأَنِيقَ مَعَ الشِّمَاغِ وَالعِقَالِ.(Yalbasu ar-rijālu fī duwali al-khalīji ath-thawba al-abyaḍa al-anīqa maʿa ash-shimāghi wa-al-ʿiqāl.)",
+          "reading": "[jal.ba.su‿r.ri.ʒaː.lu fiː du.wa.li‿l.xa.liː.ʒi‿θ.θaw.ba‿l.ʔab.ja.dˤa‿l.ʔa.niː.qa ma.ʕa‿ʃ.ʃi.maː.ɣi wal.ʕi.qaːl] (Yal-ba-su ar-ri-jā-lu fī du-wa-li al-kha-lī-ji ath-thaw-ba al-ab-ya-ḍa al-a-nī-qa ma-ʿa ash-shi-mā-ghi wa-al-ʿi-qāl.)",
+          "translation": "Men in the Gulf countries wear the elegant white thobe with the shemagh and agal."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (8.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "نَخْتَارُ المَلَابِسَ القُطْنِيَّةَ الخَفِيفَةَ وَالنَّظَّارَاتِ الشَّمْسِيَّةَ فِي أَيَّامِ الصَّيْفِ الحَارَّةِ.(Nakhtāru al-malābisa al-quṭniyyata al-khafīfata wa-an-naẓẓārāti ash-shamsiyyata fī ayyāmi aṣ-ṣayfi al-ḥārrah.)",
+          "reading": "[nax.taː.ru‿l.ma.laː.bi.sa‿l.qutˤ.nij.ja.ta‿l.xa.fiː.fa.ta wan.nazˤ.zˤaː.raː.ti‿ʃ.ʃam.sij.ja.ta fiː ʔaj.jaː.mi‿sˤ.sˤaj.fi‿l.ħaːr.rah] (Nakh-tā-ru al-ma-lā-bi-sa al-quṭ-niy-ya-ta al-kha-fī-fa-ta wa-an-naẓ-ẓā-rā-ti ash-sham-siy-ya-ta fī ay-yā-mi aṣ-ṣay-fi al-ḥār-rah.)",
+          "translation": "We choose light cotton clothes and sunglasses on hot summer days."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (8.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يَتَطَابَقُ اخْتِيَارُ المَلَابِسِ دَوْمًا مَعَ تَقَلُّبَاتِ الطَّقْسِ وَدَرَجَاتِ الحَرَارَةِ المَوْسِمِيَّةِ.(Yataṭābaqu ikhtiyāru al-malābisi dawman maʿa taqallubāti aṭ-ṭaqsi wa-darajāti al-ḥarārati al-mawsimiyyah.)",
+          "reading": "[ja.ta.tˤaː.ba.qu‿ix.ti.jaː.ru‿l.ma.laː.bi.si daw.man ma.ʕa ta.qal.lu.baː.ti‿tˤ.tˤaq.si wa.da.ra.ʒaː.ti‿l.ħa.raː.ra.ti‿l.maw.si.mij.jah] (Ya-ta-ṭā-ba-qu ikh-ti-yā-ru al-ma-lā-bi-si daw-man ma-ʿa ta-qal-lu-bā-ti aṭ-ṭaq-si wa-da-ra-jā-ti al-ḥa-rā-ra-ti al-maw-si-miy-yah.)",
+          "translation": "The choice of clothing always corresponds to weather variations and seasonal temperatures."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مِعْطَفٌ لِلشِّتَاءِ وَخَفِيفٌ لِلصَّيْفِ اخْتَرْ، أَنَاقَةٌ وَدِفْءٌ يَكْتَمِلُ بِهَا المَنْظَرْ!"
+      ],
+      "culturalNotes": [
+        "الأزياء التقليدية العربية تمتاز بالتناسق البيئي؛ فالثوب الأبيض الفضفاض يعكس أشعة الشمس الحارقة صيفًا، بينما الصوف والوبر يوفران الدفء التام في ليالي الصحراء الباردة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)» (الدرس 3)؟",
+          "prompt": "ما هو اللباس الذي نرتديه للوقاية من البرد القارس وهطول الأمطار؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)» بأسلوب أكاديمي دقيق (8.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (8.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (8.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (8.3.w3)"
+            "المِعْطَفُ الثَّقِيلُ (The heavy coat)",
+            "القميص القطني الخفيف",
+            "النظارة الشمسية",
+            "الصندل الصيفي"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«المِعْطَفُ الثَّقِيلُ» (Coat) هو اللباس الأساسي للدفء والوقاية من الأمطار وبرد الشتاء."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما اسم غطاء الرأس التقليدي للرجال في بلدان الخليج والمشرق العربي؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "الشِّمَاغُ أَوِ الكُوفِيَّةُ مَعَ العِقَالِ (Shemagh / Keffiyeh & Agal)",
+            "القبعة الصوفية فقط",
+            "العمامة الهندية",
+            "السترة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«الشماغ» أو «الكوفية» المثبتة بالعقال هي غطاء الرأس التقليدي الأصيل."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u8-l3):",
+          "prompt": "اختر الجملة التي تعبر عن التنسيق الدقيق للملابس الصيفية للمسافرين:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (8.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (8.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (8.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (8.3.x3)"
+            "حَزَمْنَا فِي الحَقِيبَةِ مَلَابِسَ قُطْنِيَّةً خَفِيفَةً وَنَظَّارَاتٍ شَمْسِيَّةً لِرِحْلَتِنَا إِلَى الشَّاطِئِ. (We packed light cotton clothes and sunglasses in the bag for our trip to the beach.)",
+            "حزمنا معاطف صوفية ثقيلة وقفازات للشاطئ في الصيف الحار",
+            "نحن يلبس قميص وسروال امس غدا",
+            "ملابس حقيبة شمس بحر سكون فتحة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تختار الملابس القطنية والنظارات الشمسية المناسبة تمامًا للرحلة الشاطئية الصيفية."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)»؟",
+          "prompt": "ما هو مرادف كلمة «ثِيَاب» في اللغة العربية الفصحى؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (8.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (8.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (8.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (8.3.y3)"
+            "مَلَابِسُ وأَزْيَاءٌ (Clothes / Attire)",
+            "أحذية فقط",
+            "حقائب سفر",
+            "كتب ومراجع"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الثياب» جمع «ثوب» وهي مرادفة لـ «الملابس»."
         }
       ]
     },
@@ -4932,24 +4947,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 8-3)؟",
+          "prompt": "اختر النص الذي يصف التنوع في الأزياء العربية العصرية والتقليدية بدقة وبلاغة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (8.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (8.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (8.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (8.3.z3)"
+            "يَجْمَعُ المَظْهَرُ العَرَبِيُّ بَيْنَ الأَصَالَةِ وَالمُعَاصَرَةِ؛ حَيْثُ يُفَضِّلُ الشَّبَابُ المَلَابِسَ اليَوْمِيَّةَ العَمَلِيَّةَ كَالقُمْصَانِ، بَيْنَمَا يَحْرِصُونَ فِي المُنَاسَبَاتِ الرَّسْمِيَّةِ عَلَى ارْتِدَاءِ الثِّيَابِ التَّقْلِيدِيَّةِ المُطَرَّزَةِ بِالفَخَامَةِ. (The Arab appearance combines authenticity and modernity; where youth prefer practical everyday clothes like shirts, while in formal occasions they ensure wearing luxurious embroidered traditional garments.)",
+            "يجمع المظهر العربي بين الملابس الشتوية في الصيف فقط.",
+            "ازياء ملابس قميص فستان معطف ثوب شماغ سكون فتحة.",
+            "لا يرتدي احد ثيابا في المناسبات الرسمية."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يقدم وصفًا اجتماعيًا وحضاريًا بليغًا للتناغم بين الملابس المعاصرة والتراثية في المناسبات العربية."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u8-l3) باللغة العربية (مثال: «الاتجاهات»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الرداء الخارجي الثقيل الذي نلبسه في الشتاء للتدفئة (مثال: «معطف»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الاتجاهات",
-            "الاتجاهات"
+            "معطف",
+            "مِعْطَفٌ",
+            "مِعْطَف",
+            "المعطف"
           ],
-          "explanation": "المصطلح الصحيح هو «الاتجاهات»."
+          "explanation": "الرداء الشتوي هو «معطف»."
         }
       ],
       "passThreshold": 0.8
@@ -4960,85 +4977,89 @@
     "subject": "arabic",
     "unit": 8,
     "lessonNumber": 4,
-    "title": "الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions) (الدرس 4)",
+    "title": "التعبير عن السبب والعلة بلأن وبسبب ولكي (Expressing Cause & Reason: Li'anna & Bi-sabab)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: حروف الجر (في، إلى، على، من، عن، بـ، لـ)، تحديد الاتجاهات في المدينة، ووسائل النقل الحديثة. (الجزء 4).",
+    "objective": "إتقان استخدام أدوات التعليل وربط الأسباب بالنتائج في اللغة العربية: «لِأَنَّ» الناصبة للاسم، و«بِسَبَبِ» المضافة للاسم المجرور، و«لِكَيْ» الناصبة للمضارع.",
     "presentation": {
-      "explanation": "",
+      "explanation": "لربط الأحداث بأسبابها وعللها المنطقية أدوات نحوية قياسية محكمة في العربية:\n\nأولاً: أداة التعليل «لِأَنَّ» (Because - من أخوات إنَّ):\n- تدخل على الجملة الاسمية فتنصب المبتدأ ويسمى اسمها، وترفع الخبر ويسمى خبرها:\n  - «ارْتَدَيْتُ المِعْطَفَ لِأَنَّ الطَّقْسَ بَارِدٌ» (I wore the coat because the weather is cold -> الطقسَ منصوب، باردٌ مرفوع).\n- تتصل بالضمائر المتصلة (في محل نصب اسمها):\n  - «لَمْ أَخْرُجْ لِأَنَّهُ مَرِيضٌ» (I did not go out because he is sick).\n  - «سَافَرْنَا لِأَنَّنَا نُحِبُّ المَغَامَرَةَ» (We traveled because we love adventure).\n\nثانياً: التركيب السببي «بِسَبَبِ» (Because of / Due to):\n- اسم مجرور بالكسرة مضاف، يأتي بعده دائمًا مضاف إليه مجرور:\n  - «تَأَخَّرَ القِطَارُ بِسَبَبِ هُطُولِ الأَمْطَارِ» (The train was delayed due to the rainfall).\n  - «أُلْغِيَتِ الرِّحْلَةُ بِسَبَبِ العَاصِفَةِ» (The trip was cancelled due to the storm).\n\nثانياً: أداة الغاية والتعليل «لِـ / لِكَيْ» (In order to / So that):\n- تدخل على الفعل المضارع فتنصبه بالفتحة:\n  - «أَحْمِلُ المِظَلَّةَ لِأَحْمِيَ نَفْسِي مِنَ المَطَرِ» (I carry the umbrella in order to protect myself from the rain).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)» بأسلوب أكاديمي دقيق (8.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)' to students in an accurate academic style."
+          "target": "بَقِينَا فِي المَنْزِلِ اليَوْمَ لِأَنَّ الأَمْطَارَ كَانَتْ غَزِيرَةً وَالرِّيَاحَ عَاصِفَةٌ.(Baqīnā fī al-manzili al-yawma li-anna al-amṭāra kānat ghazīratan wa-ar-riyāḥa ʿāṣifah.)",
+          "reading": "[ba.qiː.naː fiː‿l.man.zi.li‿l.jaw.ma li.ʔan.na‿l.ʔam.tˤaː.ra kaː.nat ɣa.ziː.ra.tan war.ri.jaː.ħa ʕaː.sˤi.fah] (Ba-qī-nā fī al-man-zi-li al-yaw-ma li-an-na al-am-ṭā-ra kā-nat gha-zī-ra-tan wa-ar-ri-yā-ḥa ʿā-ṣi-fah.)",
+          "translation": "We stayed at home today because the rains were heavy and the winds were stormy."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (8.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تَأَخَّرَتْ حَافِلَةُ الجَامِعَةِ بِسَبَبِ الضَّبَابِ الكَثِيفِ عَلَى الطَّرِيقِ السَّرِيعِ.(Ta'akhkharat ḥāfilatu al-jāmiʿati bi-sababi aḍ-ḍabābi al-kathīfi ʿalā aṭ-ṭarīqi as-sarīʿ.)",
+          "reading": "[ta.ʔax.xa.rat ħaː.fi.la.tu‿l.ʒaː.mi.ʕa.ti bi.sa.ba.bi‿dˤ.dˤa.baː.bi‿l.ka.θiː.fi ʕa.laː‿tˤ.tˤa.riː.qi‿s.sa.riːʕ] (Ta-ʾakh-kha-rat ḥā-fi-la-tu al-jā-mi-ʿa-ti bi-sa-ba-bi aḍ-ḍa-bā-bi al-ka-thī-fi ʿa-lā aṭ-ṭa-rī-qi as-sa-rīʿ.)",
+          "translation": "The university bus was delayed due to the dense fog on the highway."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (8.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "«لِأَنَّ» تَنْصِبُ الِاسْمَ بَعْدَهَا، بَيْنَمَا «بِسَبَبِ» تَجُرُّ الِاسْمَ بِالإِضَافَةِ.(«Li'anna» tanṣibu al-isma baʿdahā, baynamā «bi-sababi» tajurru al-isma bi-l-iḍāfah.)",
+          "reading": "[«li.ʔan.na» tan.sˤi.bu‿l.ʔis.ma baʕ.da.haː, baj.na.maː «bi.sa.ba.bi» ta.ʒur.ru‿l.ʔis.ma bil.ʔi.dˤaː.fah] («Li-an-na» tan-ṣi-bu al-is-ma baʿ-da-hā, bay-na-mā «bi-sa-ba-bi» ta-jur-ru al-is-ma bi-l-i-ḍā-fah.)",
+          "translation": "'Li'anna' puts the noun after it in accusative, while 'bi-sababi' puts the noun in genitive via annexation."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (8.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "نَسْتَخْدِمُ حُرُوفَ التَّعْلِيلِ لِرَبْطِ النَّتَائِجِ بِأَسْبَابِهَا البَيَانِيَّةِ بِوُضُوحٍ وَدِقَّةٍ.(Nastakhdimu ḥurūfa at-taʿlīli li-rabṭi an-natāʾiji bi-asbābihā al-bayāniyyati bi-wuḍūḥin wa-diqqah.)",
+          "reading": "[nas.tax.di.mu ħu.ruː.fa‿t.taʕ.liː.li li.rab.tˤi‿n.na.taː.ʔi.ʒi bi.ʔas.baː.bi.haː‿l.ba.jaː.nij.ja.ti bi.wu.dˤuː.ħin wa.diq.qah] (Nas-takh-di-mu ḥu-rū-fa at-taʿ-lī-li li-rab-ṭi an-na-tā-ʾi-ji bi-as-bā-bi-hā al-ba-yā-niy-ya-ti bi-wu-ḍū-ḥin wa-diq-qah.)",
+          "translation": "We use particles of causation to link results with their explanatory reasons clearly and precisely."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "لِأَنَّ تَنْصِبُ اسْمَهَا بِالفَتْحِ انْفَرَدْ، وَبِسَبَبِ تَجُرُّ مَا بَعْدَهَا لِلْأَبَدْ!"
+      ],
+      "culturalNotes": [
+        "وضوح التعليل والربط المنطقي بين الأسباب والمسببات من أهم سمات الخطاب الفكري والأكاديمي في التراث الفلسفي والعلمي العربي."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)» (الدرس 4)؟",
+          "prompt": "ما هو الضبط الإعرابي للاسم الواقع بعد حرف التعليل المشبه بالفعل «لِأَنَّ» في: «لِأَنَّ الجَوَّ...»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)» بأسلوب أكاديمي دقيق (8.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (8.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (8.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (8.4.w3)"
+            "مَنْصُوبٌ بِالفَتْحَةِ (Accusative / Fatḥah - Subject of anna)",
+            "مرفوع بالضمة",
+            "مجرور بالكسرة",
+            "ساكن"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«لِأَنَّ» مركبة من لام الجر و«أنّ» الناسخة، واسمها يكون منصوبًا بالفتحة: «لِأَنَّ الجَوَّ بَارِدٌ»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي الأداة المناسبة لملء الفراغ بحيث يليها اسم مجرور: «أُغْلِقَ المَطَارُ [...] العَاصِفَةِ»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "بِسَبَبِ (Bi-sababi - Due to / Because of)",
+            "لأن",
+            "لكن",
+            "إلى"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«بِسَبَبِ» مضاف يليه مضاف إليه مجرور بالكسرة: «بِسَبَبِ العَاصِفَةِ»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u8-l4):",
+          "prompt": "اختر الجملة التي توظف «لِأَنَّ» المتصلة بضمير الغائب مع ضبط خبرها بدقة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (8.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (8.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (8.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (8.4.x3)"
+            "فَرِحَ الطَّالِبُ بِنَتِيجَتِهِ لِأَنَّهُ حَصَلَ عَلَى المَرْكَزِ الأَوَّلِ. (The student was delighted with his result because he obtained first place.)",
+            "فرح الطالب لإن حصل هو على الاول",
+            "بسبب انه حصل الطالب فرح",
+            "لان لانها بسبب سكون فتحة طالب"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تصل هاء الغائب بـ «لِأَنَّ» (لِأَنَّهُ) وتربط النتيجة بالسبب بوضوح فصيح."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)»؟",
+          "prompt": "ما هو عمل حرف التعليل «لِكَيْ» عندما يدخل على الفعل المضارع مثل «لِكَيْ يَنْجَحَ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (8.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (8.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (8.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (8.4.y3)"
+            "يَنْصِبُ الفِعْلَ المُضَارِعَ بِالفَتْحَةِ (Subjunctive with fatḥah)",
+            "يجزمه بالسكون",
+            "يرفعه بالضمة",
+            "يبنيه على الكسر"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«لِكَيْ» من أدوات نصب الفعل المضارع."
         }
       ]
     },
@@ -5046,24 +5067,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 8-4)؟",
+          "prompt": "اختر النص التحليلي الذي يربط بين تقلبات الطقس والقرارات اليومية بتوظيف أدوات التعليل «لِأَنَّ» و«بِسَبَبِ» بإتقان تام:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (8.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (8.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (8.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (8.4.z3)"
+            "قَرَّرَتِ الإِدَارَةُ تَعْلِيقَ الدِّرَاسَةِ اليَوْمَ بِسَبَبِ التَّرَاكُمِ الكَثِيفِ لِلثُّلُوجِ فِي الطُّرُقَاتِ، وَنَصَحَتِ المُواطِنِينَ بِالبَقَاءِ فِي بُيُوتِهِمْ لِأَنَّ الرِّيَاحَ شَدِيدَةُ الخُطُورَةِ. (The administration decided to suspend classes today due to heavy accumulation of snow on the roads, and advised citizens to stay at home because the winds are extremely dangerous.)",
+            "قررت الادارة تعليق الدراسة لان التراكم الثلوج وبسبب الرياح شديدة.",
+            "ادوات تعليق لان بسبب لكي سكون فتحة مطر ثلج.",
+            "لا يوجد ثلوج ولا رياح والادارة لم تقرر شيئا."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع ببراعة إعرابية بين «بِسَبَبِ التَّرَاكُمِ» (مضاف ومجرور) و«لِأَنَّ الرِّيَاحَ شَدِيدَةُ» (اسم أن المنصوب وخبرها المرفوع)."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u8-l4) باللغة العربية (مثال: «الاتجاهات»):",
+          "prompt": "اكتب باللغة العربية الفصحى أداة التعليل الناسخة التي تنصب الاسم بعدها وتعني «Because» (مثال: «لأن»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الاتجاهات",
-            "الاتجاهات"
+            "لأن",
+            "لان",
+            "لِأَنَّ",
+            "لِأَن"
           ],
-          "explanation": "المصطلح الصحيح هو «الاتجاهات»."
+          "explanation": "أداة التعليل الناسخة هي «لأن»."
         }
       ],
       "passThreshold": 0.8
@@ -5074,85 +5097,89 @@
     "subject": "arabic",
     "unit": 8,
     "lessonNumber": 5,
-    "title": "الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions) (الدرس 5)",
+    "title": "حوار النشرة الجوية وتنسيق الملابس والرحلات (Weather Forecast & Seasonal Outfits Dialogue)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: حروف الجر (في، إلى، على، من، عن، بـ، لـ)، تحديد الاتجاهات في المدينة، ووسائل النقل الحديثة. (الجزء 5).",
+    "objective": "الدمج الشامل لمخرجات الوحدة الثامنة: مصطلحات الطقس ودرجات الحرارة، الفصول الأربعة، الملابس والتنسيق الفصلي، واستخدام أدوات التعليل (لأن، بسبب) في حوار تطبيقي شيق.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس الختامي للوحدة الثامنة من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس ندمج جميع المكتسبات اللغوية في حوار حيوي بين صديقين (طارق وزياد) يستمعان إلى النشرة الجوية الصباحية، ويخططان لرحلة جبلية، ويناقشان الملابس المناسبة لتقلبات الطقس والتعليل المنطقي لقراراتهما:\n\nمحاور الحوار التكاملي:\n1.【متابعة النشرة الجوية وحالة الطقس】: «كَيْفَ الطَّقْسُ فِي النَّشْرَةِ الجَوِّيَّةِ؟»، درجات الحرارة (العظمى والصغرى).\n2.【فصول السنة والظواهر المناخية】: المقارنة بين طقس الشتاء البارد وثلوج الجبال، واعتدال الربيع.\n3.【اختيار الملابس وتجهيز الحقائب】: «مِعْطَفٌ صُوفِيٌّ ثَقِيلٌ»، «مِظَلَّةٌ مَطَرِيَّةٌ»، «قُفَّازَاتٌ وَوِشَاحٌ دَافِئٌ».\n4.【التعبير عن الأسباب والعلل】: توظيف «لِأَنَّ الجَوَّ بَارِدٌ»، «بِسَبَبِ الضَّبَابِ الكَثِيفِ»، «لِكَيْ نَسْتَمْتِعَ بِالرِّحْلَةِ».\n5.【المرونة في التخطيط والسياحة البيئية】: اتخاذ قرار الانطلاق بعد انقشاع الضباب للاستمتاع بالطبيعة.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)» بأسلوب أكاديمي دقيق (8.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)' to students in an accurate academic style."
+          "target": "هَلْ شَاهَدْتَ النَّشْرَةَ الجَوِّيَّةَ لِهٰذَا اليَوْمِ يَا طَارِقُ؟ — نَعَمْ، يَقُولُونَ إِنَّ الطَّقْسَ سَيَكُونُ مُمْطِرًا وَبَارِدًا.(Hal shāhadta an-nashrata al-jawwiyyata li-hādhā al-yawmi yā Ṭāriq? — Naʿam, yaqūlūna inna aṭ-ṭaqsa sayakūnu mumṭiran wa-bāridā.)",
+          "reading": "[hal ʃaː.had.ta‿n.naʃ.ra.ta‿l.ʒaw.wij.ja.ta li.haː.ðaː‿l.jaw.mi jaː tˤaː.riq? — na.ʕam, ja.quː.luː.na ʔin.na‿tˤ.tˤaq.sa sa.ja.kuː.nu mum.tˤi.ran wa.baː.ri.daː] (Hal shā-had-ta an-nash-ra-ta al-jaw-wiy-ya-ta li-hā-dhā al-yaw-mi yā Ṭā-riq? — Na-ʿam, ya-qū-lū-na in-na aṭ-ṭaq-sa sa-ya-kū-nu mum-ṭi-ran wa-bā-ri-dā.)",
+          "translation": "Did you watch the weather forecast for today, Tariq? — Yes, they say that the weather will be rainy and cold."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (8.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "إِذَنْ يَجِبُ أَنْ نَرْتَدِيَ المَعَاطِفَ الثَّقِيلَةَ وَنَحْمِلَ المَظَلَّاتِ؛ لِأَنَّ هُنَاكَ احْتِمَالَ هُطُولِ ثُلُوجٍ عَلَى الجِبَالِ.(Idhan yajibu an nartadiya al-maʿāṭifa ath-thaqīlata wa-naḥmila al-maẓallāt; li-anna hunāka iḥtimāla huṭūli thulūjin ʿalā al-jibāl.)",
+          "reading": "[ʔi.ðan ja.ʒi.bu ʔan nar.ta.di.ja‿l.ma.ʕaː.tˤi.fa‿θ.θa.qiː.la.ta wa.naħ.mi.la‿l.ma.zˤal.laːt; li.ʔan.na hu.naː.ka‿iħ.ti.maː.la hu.tˤuː.li θu.luː.ʒin ʕa.laː‿l.ʒi.baːl] (I-dhan ya-ji-bu an nar-ta-di-ya al-ma-ʿā-ṭi-fa ath-tha-qī-la-ta wa-naḥ-mi-la al-ma-ẓal-lāt; li-an-na hu-nā-ka iḥ-ti-mā-la hu-ṭū-li thu-lū-jin ʿa-lā al-ji-bāl.)",
+          "translation": "Then we must wear heavy coats and carry umbrellas; because there is a chance of snowfall on the mountains."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (8.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "هَلْ نُؤَجِّلُ الرِّحْلَةَ الجَبَلِيَّةَ بِسَبَبِ سُوءِ الأَحْوَالِ الجَوِّيَّةِ؟ — لَا، سَنَنْطَلِقُ ظُهْرًا عِنْدَمَا يَنْقَشِعُ الضَّبَابُ.(Hal nu'ajjilu ar-riḥlata al-jabaliyyata bi-sababi sūʾi al-aḥwāli al-jawwiyyah? — Lā, sananṭaliqu ẓuhran ʿindamā yanqashiʿu aḍ-ḍabāb.)",
+          "reading": "[hal nu.ʔaʒ.ʒi.lu‿r.riħ.la.ta‿l.ʒa.ba.lij.ja.ta bi.sa.ba.bi suː.ʔi‿l.ʔaħ.waː.li‿l.ʒaw.wij.jah? — laː, sa.nan.tˤa.li.qu zˤuh.ran ʕin.da.maː jan.qa.ʃi.ʕu‿dˤ.dˤa.baːb] (Hal nu-ʾaj-ji-lu ar-riḥ-la-ta al-ja-ba-liy-ya-ta bi-sa-ba-bi sū-ʾi al-aḥ-wā-li al-jaw-wiy-yah? — Lā, sa-nan-ṭa-li-qu ẓuh-ran ʿin-da-mā yan-qa-shi-ʿu aḍ-ḍa-bāb.)",
+          "translation": "Shall we postpone the mountain trip due to bad weather conditions? — No, we will depart at noon when the fog clears."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (8.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "سَتَكُونُ تَجْرِبَةً مُمْتِعَةً نَسْتَمْتِعُ فِيهَا بِمَنْظَرِ الثُّلُوجِ وَنَحْتَسِي الشَّايَ السَّاخِنَ مَعًا.(Satakūnu tajribatan mumtiʿatan nastamtiʿu fīhā bi-manẓari ath-thulūji wa-naḥtasī ash-shāya as-sākhina maʿā.)",
+          "reading": "[sa.ta.kuː.nu taʒ.ri.ba.tan mum.ti.ʕa.tan nas.tam.ti.ʕu fiː.haː bi.man.zˤa.ri‿θ.θu.luː.ʒi wa.naħ.ta.siː‿ʃ.ʃaː.ja‿s.saː.xi.na ma.ʕaː] (Sa-ta-kū-nu taj-ri-ba-tan mum-ti-ʿa-tan nas-tam-ti-ʿu fī-hā bi-man-ẓa-ri ath-thu-lū-ji wa-naḥ-ta-sī ash-shā-ya as-sā-khi-na ma-ʿā.)",
+          "translation": "It will be an enjoyable experience in which we enjoy the view of snow and sip hot tea together."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "تَابَعْنَا النَّشْرَةَ وَارْتَدَيْنَا المِعْطَفَا، وَعَلَّلْنَا بِـ «لِأَنَّ» فَازْدَادَ الحِوَارُ شَرَفَا!"
+      ],
+      "culturalNotes": [
+        "شرب الشاي الساخن بالنعناع أو الميرمية في المقاهي الجبلية أثناء تساقط الثلوج (مثل جبال الأطلس في المغرب وجبال لبنان وجبال عسير) يمثل تقليدًا شتويًا محببًا لدى المجتمعات العربية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)» (الدرس 5)؟",
+          "prompt": "في الحوار، لماذا قرر الصديقان ارتداء المعاطف الثقيلة وحمل المظلات؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)» بأسلوب أكاديمي دقيق (8.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (8.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (8.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (8.5.w3)"
+            "لِأَنَّ الطَّقْسَ مُمْطِرٌ وَبَارِدٌ وَهُنَاكَ احْتِمَالُ هُطُولِ ثُلُوجٍ (Because the weather is rainy, cold & snow is expected)",
+            "لأن الجو حار ومشمش جدا",
+            "لأنهما مسافران إلى الصحراء",
+            "بدون سبب محدد"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "القرار جاء معللاً ببرودة الجو وهطول الأمطار والثلوج في النشرة الجوية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "متى قرر الصديقان الانطلاق في الرحلة الجبلية؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "ظُهْرًا عِنْدَمَا يَنْقَشِعُ الضَّبَابُ (At noon when the fog clears)",
+            "في منتصف الليل",
+            "الشهر القادم",
+            "في الصباح الباكر وسط الضباب"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«سَنَنْطَلِقُ ظُهْرًا عِنْدَمَا يَنْقَشِعُ الضَّبَابُ» لتفادي انعدام الرؤية في الصباح."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u8-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تدمج بين السؤال عن الطقس واختيار الملابس والتعليل السليم:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (8.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (8.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (8.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (8.5.x3)"
+            "— كَيْفَ الطَّقْسُ فِي الجَبَلِ؟ — الجَوُّ بَارِدٌ؛ لِذٰلِكَ سَأَرْتَدِي سُتْرَتِي الصُّوفِيَّةَ لِكَيْ أَشْعُرَ بِالدِّفْءِ. (How is the weather on the mountain? — It is cold; therefore I will wear my wool sweater in order to feel warm.)",
+            "— كيف الطقس؟ — الطقس يرتدي قميص في المطبخ.",
+            "— هل عندك معطف؟ — المعطف يسافر غدا إلى الشاطئ.",
+            "— طقس جبل مطر ثلج سكون فتحة."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة توظف السؤال عن الطقس واختيار السترة الصوفية والتعليل بـ «لِكَيْ» بنسق عربي رصين."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الاتجاهات وحروف الجر ووسائل النقل (Directions & Prepositions)»؟",
+          "prompt": "ما معنى «يَنْقَشِعُ الضَّبَابُ» في التعبير اللغوي؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (8.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (8.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (8.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (8.5.y3)"
+            "يَزُولُ وَيَتَفَرَّقُ وَتَتَّضِحُ الرُّؤْيَةُ (The fog dissipates and visibility clears)",
+            "يزداد كثافة وسوادا",
+            "يتحول إلى مطر غزير",
+            "يتجمد على الأرض"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "انقشاع الضباب أو السحاب يعني زواله وتفرقه وعودة الصفاء للجو."
         }
       ]
     },
@@ -5160,24 +5187,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 8-5)؟",
+          "prompt": "اختر النص الحواري الشامل الذي يدمج كافة مخرجات الوحدة الثامنة (الطقس ودرجات الحرارة، الفصول، الملابس، وأدوات التعليل):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (8.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (8.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (8.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (8.5.z3)"
+            "قَالَ طَارِقٌ لِصَدِيقِهِ: «تَشِيرُ النَّشْرَةُ الجَوِّيَّةُ إِلَى أَنَّ طَقْسَ اليَوْمِ بَارِدٌ وَمُمْطِرٌ، وَدَرَجَةُ الحَرَارَةِ تَبْلُغُ ثَمَانِيَ دَرَجَاتٍ فَقَطْ؛ لِذٰلِكَ سَأَرْتَدِي مِعْطَفِي الثَّقِيلَ وَوِشَاحِي، وَلَنْ نُؤَجِّلَ الرِّحْلَةَ الجَبَلِيَّةَ لِأَنَّنَا نَعْشَقُ أَجْوَاءَ الشِّتَاءِ وَمَنْظَرَ الثُّلُوجِ النَّاصِعَةِ». (Tariq said to his friend: 'The weather forecast indicates that today's weather is cold and rainy, and the temperature is only eight degrees; therefore I will wear my heavy coat and scarf, and we will not postpone the mountain trip because we love winter vibes and the sight of bright snow.')",
+            "قال طارق بالافعال الصيفية فقط بدون ذكر الطقس والحرارة والملابس.",
+            "نشرة جوية ملابس معطف ثوب فصول سنة سكون فتحة ضمة.",
+            "لا يوجد طقس ولا رحلة ولا حوار بين الاصدقاء."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الإتقان والتكامل التعبيري في استيعاب مفاهيم الطقس، درجات الحرارة، الملابس الشتوية، والتعليل بـ «لأن» في سياق حواري وسردي ساحر."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u8-l5) باللغة العربية (مثال: «الاتجاهات»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الأداة التي نحملها في اليد للحماية من هطول قطرات المطر (مثال: «مظلة»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الاتجاهات",
-            "الاتجاهات"
+            "مظلة",
+            "مِظَلَّةٌ",
+            "مِظَلَّة",
+            "المظلة",
+            "شمسية"
           ],
-          "explanation": "المصطلح الصحيح هو «الاتجاهات»."
+          "explanation": "الأداة الواقية من المطر هي «مظلة»."
         }
       ],
       "passThreshold": 0.8
