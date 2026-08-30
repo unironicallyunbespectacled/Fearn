@@ -15478,85 +15478,89 @@
     "subject": "arabic",
     "unit": 26,
     "lessonNumber": 1,
-    "title": "الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam) (الدرس 1)",
+    "title": "مناهج الفكر الفلسفي الإسلامي: الكندي والفارابي (Foundations of Islamic Philosophy: Al-Kindi & Al-Farabi)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: فلسفة الفارابي، ابن سينا، ابن رشد، والغزالي: مناهج العقل، الإلهيات، ونظرية المعرفة. (الجزء 1).",
+    "objective": "إتقان المفاهيم الفلسفية التأسيسية في الفكر الإسلامي، ومصطلحات المنطق والوجود (الجوهر، العرض، الهيولى، والعلل الأربع) عند الكندي، ونظرية المدينة الفاضلة وتصنيف العلوم عند الفارابي.",
     "presentation": {
-      "explanation": "",
+      "explanation": "أرسى الفلاسفة المسلمون جسور العقلانية والمنطق عبر توطين الفلسفة اليونانية وصياغة معجم فلسفي عربي أصيل:\n\nأولاً: أبو يوسف يعقوب بن إسحاق الكندي (فيلسوف العرب):\n1.【التَّوْفِيقُ بَيْنَ الحِكْمَةِ وَالشَّرِيعَةِ (Reconciling Philosophy & Faith)】:\n   - أكد في رسالته «فِي الفَلْسَفَةِ الأُولَى» أن الحق واحد لا يتجزأ:\n   - «**يَنْبَغِي لَنَا أَلَّا نَسْتَحْيِيَ مِنِ اسْتِحْسَانِ الحَقِّ وَاقْتِنَاءِ الحَقِّ مِنْ أَيْنَ أَتَى، وَإِنْ أَتَى مِنَ الأَجْنَاسِ القَاصِيَةِ وَالأُمَمِ المُبَايِنَةِ**».\n2.【المُعْجَمُ الأُنْطُولُوجِيُّ الأَوَّلُ】:\n   - **الجَوْهَرُ (Substance)**: القائم بذاته، الحامل للأعراض.\n   - **العَرَضُ (Accident)**: الصفة الطارئة القائمة في غيرها كالألوان والمقادير.\n   - **الهَيُولَى (Matter / Hyle)**: المادة الأولى القابلة للصور.\n\nثانياً: أبو نصر الفارابي (المعلم الثاني):\n1.【نَظَرِيَّةُ المَدِينَةِ الفَاضِلَةِ (The Virtuous City)】:\n   - كتاب «آرَاءُ أَهْلِ المَدِينَةِ الفَاضِلَةِ»: تشبيه المجتمع الإنساني الكامل بالجسد السليم الذي تتعاون أعضاؤه لبلوغ السعادة الحقيقية.\n2.【تَصْنِيفُ العُلُومِ وَالعَقْلُ الفَعَّالُ】:\n   - كتاب «إِحْصَاءُ العُلُومِ»: تقسيم المعارف إلى اللسان، المنطق، التعاليم (الرياضيات)، الطبيعيات، والإلهيات.\n   - اتصال النفس الإنسانية بـ «العَقْلِ الفَعَّالِ» كوسيلة لإدراك الكليات وتحقيق الكمال المعرفي.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)» بأسلوب أكاديمي دقيق (26.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)' to students in an accurate academic style."
+          "target": "يَنْبَغِي لَنَا أَلَّا نَسْتَحْيِيَ مِنْ قَبُولِ الحَقِّ وَاقْتِنَائِهِ مِنْ أَيْنَ أَتَى، فَإِنَّ الحَقَّ أَحَقُّ أَنْ يُتَّبَعَ.(Yanbaghī lanā allā nastaḥyiya min qabūli al-ḥaqqi wa-iqtināʾihi min ayna atā, fa-inna al-ḥaqqa aḥaqqu an yuttabaʿ.)",
+          "reading": "[jan.ba.ɣiː la.naː ʔal.laː nas.taħ.ji.ja min qa.buː.li‿l.ħaq.qi waq.ti.naː.ʔi.hi min ʔaj.na ʔa.taː, fa.ʔin.na‿l.ħaq.qa ʔa.ħaq.qu ʔan jut.ta.baʕ] (Yan-ba-ghī la-nā al-lā nas-taḥ-yi-ya min qa-bū-li al-ḥaq-qi wa-iq-ti-nā-ʾi-hi min ay-na a-tā, fa-in-na al-ḥaq-qa a-ḥaq-qu an yut-ta-baʿ.)",
+          "translation": "We ought not to be ashamed of accepting the truth and acquiring it from wherever it comes, for the truth is most worthy of being followed."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (26.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "المَدِينَةُ الفَاضِلَةُ تُشْبِهُ الجِسْمَ التَّامَّ الصَّحِيحَ الَّذِي تَتَعَاوَنُ أَعْضَاؤُهُ كُلُّهَا عَلَى تَتْمِيمِ حَيَاةِ الحَيَوَانِ.(Al-madīnatu al-fāḍilatu tushbihu al-jisma at-tāmma aṣ-ṣaḥīḥa al-ladhī tataʿāwanu aʿḍāʾuhu kulluhā ʿalā tatmīmi ḥayāti al-ḥayawān.)",
+          "reading": "[ʔal.ma.diː.na.tu‿l.faː.dˤi.la.tu tuʃ.bi.hu‿l.ʒis.ma‿t.taːm.ma‿sˤ.sˤa.ħiː.ħa‿l.la.ðiː ta.ta.ʕaː.wa.nu ʔaʕ.dˤaː.ʔu.hu kul.lu.haː ʿa.laː tat.miː.mi ħa.jaː.ti‿l.ħa.ja.waːn] (Al-ma-dī-na-tu al-fā-ḍi-la-tu tush-bi-hu al-jis-ma at-tām-ma aṣ-ṣa-ḥī-ḥa al-la-dhī ta-ta-ʿā-wa-nu aʿ-ḍā-ʾu-hu kul-lu-hā ʿa-lā tat-mī-mi ḥa-yā-ti al-ḥa-ya-wān.)",
+          "translation": "The virtuous city resembles the perfect and healthy body whose organs all cooperate to sustain the life of the living being."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (26.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "الجَوْهَرُ هُوَ المَوْجُودُ القَائِمُ بِذَاتِهِ الَّذِي لَا يَفْتَقِرُ فِي تَحَقُّقِهِ إِلَى مَوْضُوعٍ يَحِلُّ فِيهِ.(Al-jawharu huwa al-mawjūdu al-qāʾimu bi-dhātihi al-ladhī lā yaftaqiru fī taḥaqquqihi ilā mawḍūʿin yaḥullu fīh.)",
+          "reading": "[ʔal.ʒaw.ha.ru hu.wa‿l.maw.ʒuː.du‿l.qaː.ʔi.mu bi.ðaː.ti.hi‿l.la.ðiː laː jaf.ta.qi.ru fiː ta.ħaq.qu.qi.hi ʔi.laː maw.dˤuː.ʕin ja.ħul.lu fiːh] (Al-jaw-ha-ru hu-wa al-maw-jū-du al-qā-ʾi-mu bi-dhā-ti-hi al-la-dhī lā yaf-ta-qi-ru fī ta-ḥaq-qu-qi-hi i-lā maw-ḍū-ʿin ya-ḥul-lu fīh.)",
+          "translation": "Substance is the being existing in itself that does not require for its actualization a subject in which to reside."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (26.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "سَعَى الفَارَابِيُّ إِلَى التَّوْفِيقِ بَيْنَ رَأْيَيِ الحَكِيمَيْنِ أَفْلَاطُونَ وَأَرِسْطُو فِي أُصُولِ المَعْرِفَةِ.(Saʿā al-Fārābiyyu ilā at-tawfīqi bayna raʾyayi al-ḥakīmayni Aflāṭūna wa-Arisṭū fī uṣūli al-maʿrifah.)",
+          "reading": "[sa.ʕaː‿l.faː.raː.bij.ju ʔi.la‿t.taw.fiː.qi baj.na raʔ.ja.ji‿l.ħa.kiː.maj.ni ʔaf.laː.tˤuː.na wa.ʔa.ris.tˤuː fiː ʔu.sˤuː.li‿l.maʕ.ri.fah] (Sa-ʿā al-Fā-rā-biy-yu i-lā at-taw-fī-qi bay-na raʾ-ya-yi al-ḥa-kī-may-ni Af-lā-ṭū-na wa-A-ris-ṭū fī u-ṣū-li al-maʿ-ri-fah.)",
+          "translation": "Al-Farabi sought to reconcile the views of the two sages Plato and Aristotle on the foundations of epistemology."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "كِنْدِيٌّ طَلَبَ الحَقَّ بِلَا اسْتِحْيَاءْ، وَفَارَابِيٌّ شَادَ مَدِينَةَ الفُضَلَاءْ!"
+      ],
+      "culturalNotes": [
+        "سُمِّي الفارابي بـ «المعلم الثاني» تقديراً لشروحه العبقرية لمنطق أرسطو («المعلم الأول»)، وتأسيسه لمناهج المنطق الرمزي والفلسفة السياسية في الشرق."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)» (الدرس 1)؟",
+          "prompt": "ما هو المبدأ المعرفي الذي رسخه الكندي في رسالته «الفلسفة الأولى» حول اقتناء الحقيقة؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)» بأسلوب أكاديمي دقيق (26.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (26.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (26.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (26.1.w3)"
+            "قَبُولُ الحَقِّ وَاقْتِنَاؤُهُ مِنْ أَيِّ مَصْدَرٍ أَتَى دُونَ تَعَصُّبٍ عِرْقِيٍّ أَوْ جُغْرَافِيٍّ (Accepting & acquiring truth from any source without prejudice)",
+            "رفض أي علم لم يكتبه العرب حصراً",
+            "تحريم قراءة كتب الفلسفة والمنطق",
+            "الاقتصار على النقد اللغوي المجرد"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الكندي رسخ الانفتاح المعرفي العقلاني الشامل القائل بأن الحقيقة تُقبل وتُطلب من كل أمة وحضارة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "بماذا شبّه الفارابي المجتمع الفاضل في كتابه «آراء أهل المدينة الفاضلة»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "بِالجَسَدِ التَّامِّ السَّلِيمِ الَّذِي تَتَعَاوَنُ أَعْضَاؤُهُ لِتَحْقِيقِ السَّعَادَةِ (The perfect healthy body whose organs cooperate)",
+            "بالغابة الموحشة المتنازعة",
+            "بالبحر الهائج دون قبطان",
+            "بالمصنع الآلي المجرد من الروح"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الفارابي شبّه المدينة الفاضلة بالأعضاء المتناسقة في الجسد الحي، حيث يرأسها العقل (الحاكم الحكيم)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u26-l1):",
+          "prompt": "اختر التعريف الفلسفي الدقيق لـ «العَرَضِ» (Accident) في المنطق الإسلامي الكلاسيكي:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (26.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (26.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (26.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (26.1.x3)"
+            "المَوْجُودُ الَّذِي لَا يَقُومُ بِذَاتِهِ بَلْ يَحِلُّ فِي جَوْهَرٍ كَاللَّوْنِ وَالحَرَكَةِ (Existing quality not in itself but residing in substance)",
+            "الجوهر الخالد الثابت",
+            "العدم المحض الذي لا وجود له",
+            "عرض تجاري في السوق القديم"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "العَرَض هو الصفة التي تحتاج إلى جوهر لتقوم به، كاللون والحركة والشكل."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)»؟",
+          "prompt": "ما إعراب كلمة «الصَّحِيحَ» في قول الفارابي: «تُشْبِهُ الجِسْمَ التَّامَّ الصَّحِيحَ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (26.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (26.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (26.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (26.1.y3)"
+            "نَعْتٌ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Second adjective in accusative)",
+            "فاعل مرفوع بالضمة",
+            "مفعول به ثانٍ",
+            "حال منصوبة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الصَّحِيحَ» نعت ثانٍ لـ «الجِسْمَ» المنصوب (مفعول به) منصوب وعلامة نصبه الفتحة."
         }
       ]
     },
@@ -15564,24 +15568,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 26-1)؟",
+          "prompt": "اختر النص الفلسفي النقدي الذي يدمج إسهامات الكندي والفارابي في تأسيس الحكمة العربية بدقة ومنهجية رفيعة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (26.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (26.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (26.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (26.1.z3)"
+            "أَرْسَى الكِنْدِيُّ وَالفَارَابِيُّ المَعَالِمَ الأُولَى لِلْعَقْلَانِيَّةِ الإِسْلَامِيَّةِ؛ حَيْثُ نَادَى الكِنْدِيُّ بِعَالَمِيَّةِ الحَقِيقَةِ وَتَوْطِينِ المَعْرِفَةِ الفَلْسَفِيَّةِ فِي اللِّسَانِ العَرَبِيِّ، بَيْنَمَا أَحْصَى الفَارَابِيُّ العُلُومَ وَشَادَ نَظَرِيَّتَهُ الخَالِدَةَ فِي المَدِينَةِ الفَاضِلَةِ، لِيَغْدُوَ العَقْلُ مِشْعَالًا لِتَحْقِيقِ الكَمَالِ الإِنْسَانِيِّ وَالسَّعَادَةِ القُصْوَى. (Al-Kindi and Al-Farabi laid first landmarks of Islamic rationalism; where Al-Kindi advocated truth's universality and indigenizing philosophical knowledge in Arabic tongue, while Al-Farabi surveyed sciences and constructed his timeless theory of virtuous city, so intellect became a beacon for achieving human perfection and ultimate bliss.)",
+            "الكندي والفارابي عالمان درسا الفلسفة قديما.",
+            "فلسفة اسلامية كندي فارابي جوهر عرض مدينة فاضلة سكون فتحة ضمة.",
+            "فشلت محاولات التوفيق بين الفلسفة والشريعة تماما."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بدقة بين: عالمية الحقيقة والتعريب عند الكندي، وإحصاء العلوم ونظرية المدينة الفاضلة عند الفارابي."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u26-l1) باللغة العربية (مثال: «الفلسفة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اللقب التكريمي الشهير للفيلسوف أبي نصر الفارابي (اكتب: «المعلم الثاني»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الفلسفة",
-            "الفلسفة"
+            "المعلم الثاني",
+            "المعلم الثانى",
+            "المُعَلِّمُ الثَّانِي",
+            "المُعَلِّم الثَّانِي"
           ],
-          "explanation": "المصطلح الصحيح هو «الفلسفة»."
+          "explanation": "اللقب هو «المعلم الثاني» (The Second Teacher)."
         }
       ],
       "passThreshold": 0.8
@@ -15592,85 +15598,89 @@
     "subject": "arabic",
     "unit": 26,
     "lessonNumber": 2,
-    "title": "الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam) (الدرس 2)",
+    "title": "الميتافيزيقا ونظرية الوجود عند ابن سينا (Avicenna's Metaphysics & Ontology)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: فلسفة الفارابي، ابن سينا، ابن رشد، والغزالي: مناهج العقل، الإلهيات، ونظرية المعرفة. (الجزء 2).",
+    "objective": "إتقان نظرية الوجود (الواجب، الممكن، والممتنع) عند الشيخ الرئيس ابن سينا، وتمايز الماهية والوجود، وبرهان الصديقين، وتجربة الإنسان المعلق في الفضاء.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يُعد الشيخ الرئيس أبو علي بن سينا أعظم فلاسفة المشائية الإسلامية ومؤسس الأنطولوجيا الدقيقة:\n\nأولاً: الأقسام الثلاثة للوجود (Tripartite Ontology):\n1.【وَاجِبُ الوُجُودِ بِذَاتِهِ (The Necessary Being by Essence)】:\n   - الموجود الذي يمتنع عدمه، ولا يفتقر في وجوده إلى علة خارجية (وهو الله سبحانه وتعالى).\n2.【مُمْكِنُ الوُجُودِ بِذَاتِهِ (The Contingent Being)】:\n   - الموجود الذي يتساوى في ذاته الوجود والعدم، ولا يترجح وجوده إلا بعلة تفيضه عليه (وهو سائر عالم الخلق والمخلوقات).\n3.【مُمْتَنِعُ الوُجُودِ (The Impossible Being)】:\n   - ما لا يقبل الوجود لذاته بحكم العقل (كاجتماع النقيضين).\n\nثانياً: التمايز بين الماهية والوجود (Essence vs Existence):\n- **المَاهِيَّةُ (Essence / Quiddity)**: الجواب عن «ما هو الشيء؟» (كالإنسانية للإنسان)، وهي محايدة للوجود حتى يفيض الوجود عليها.\n\nثالثاً: البراهين الإبستمولوجية الخالدة:\n- 【بُرْهَانُ الصِّدِّيقِينَ】: إثبات وجود واجب الوجود بالنظر في حقيقة الوجود نفسه دون الحاجة للمرور بآثار الطبيعة والحركة.\n- 【الإِنْسَانُ الطَّائِرُ / المُعَلَّقُ فِي الهَوَاءِ】: إثبات جوهرية النفس ووعيها الذاتي المستقل عن الحواس والجسد.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)» بأسلوب أكاديمي دقيق (26.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)' to students in an accurate academic style."
+          "target": "وَاجِبُ الوُجُودِ هُوَ الَّذِي مَتَى فُرِضَ غَيْرَ مَوْجُودٍ لَزِمَ مِنْهُ مُحَالٌ مَنْطِقِيٌّ.(Wājibu al-wujūdi huwa al-ladhī matā furiḍa ghayra mawjūdin lazima minhu muḥālun manṭiqiyy.)",
+          "reading": "[waː.ʒi.bu‿l.wu.ʒuː.di hu.wa‿l.la.ðiː ma.taː fu.ri.dˤa ɣaj.ra maw.ʒuː.din la.zi.ma min.hu mu.ħaː.lun man.tˤi.qijj] (Wā-ji-bu al-wu-jū-di hu-wa al-la-dhī ma-tā fu-ri-ḍa ghay-ra maw-jū-din la-zi-ma min-hu mu-ḥā-lun man-ṭi-qiyy.)",
+          "translation": "The Necessary Existent is that which, if hypothesized as non-existent, entails a logical absurdity."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (26.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "مُمْكِنُ الوُجُودِ فِي حَدِّ ذَاتِهِ لَا يَقْتَضِي وُجُودًا وَلَا عَدَمًا، بَلْ يَفْتَقِرُ إِلَى مُرَجِّحٍ يُخْرِجُهُ إِلَى الفِعْلِ.(Mumkinu al-wujūdi fī ḥaddi dhātihi lā yaqtaḍī wujūdan wa-lā ʿadaman, bal yaftaqiru ilā murajjiḥin yukhrijuhu ilā al-fiʿl.)",
+          "reading": "[mum.ki.nu‿l.wu.ʒuː.di fiː ħad.di ðaː.ti.hi laː jaq.ta.dˤiː wu.ʒuː.dan wa.laː ʕa.da.man, bal jaf.ta.qi.ru ʔi.laː mu.raʒ.ʒi.ħin jux.ri.ʒu.hu ʔi.la‿l.fiʕl] (Mum-ki-nu al-wu-jū-di fī ḥad-di dhā-ti-hi lā yaq-ta-ḍī wu-jū-dan wa-lā ʿa-da-man, bal yaf-ta-qi-ru i-lā mu-raj-ji-ḥin yukh-ri-ju-hu i-lā al-fiʿl.)",
+          "translation": "The contingent existent in its own nature necessitates neither existence nor non-existence, but rather requires a determinant to bring it into actuality."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (26.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "المَاهِيَّةُ تَتَمَايَزُ عَنِ الوُجُودِ؛ إِذْ يُمْكِنُ تَعَقُّلُ حَقِيقَةِ الشَّيْءِ دُونَ مَعْرِفَةِ هَلْ هُوَ مَوْجُودٌ فِي الأَعْيَانِ.(Al-māhiyyatu tatamāyazu ʿan al-wujūd; idh yumkinu taʿaqqulu ḥaqīqati ash-shayʾi dūna maʿrifati hal huwa mawjūdun fī al-aʿyān.)",
+          "reading": "[ʔal.maː.hij.ja.tu ta.ta.maː.ja.zu ʕa.ni‿l.wu.ʒuːd; ʔið jum.ki.nu ta.ʕaq.qu.lu ħa.qiː.qa.ti‿ʃ.ʃaj.ʔi duː.na maʕ.ri.fa.ti hal hu.wa maw.ʒuː.dun fiː‿l.ʔaʕ.jaːn] (Al-mā-hiy-ya-tu ta-ta-mā-ya-zu ʿan al-wu-jūd; idh yum-ki-nu ta-ʿaq-qu-lu ḥa-qī-qa-ti ash-shay-ʾi dū-na maʿ-ri-fa-ti hal hu-wa maw-jū-dun fī al-aʿ-yān.)",
+          "translation": "Essence is distinct from existence; for it is possible to conceptualize the reality of a thing without knowing whether it exists in external reality."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (26.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "أَثْبَتَ ابْنُ سِينَا تَجَرُّدَ النَّفْسِ النَّاطِقَةِ وَوَعْيَهَا بِذَاتِهَا عَبْرَ فَرْضِيَّةِ الإِنْسَانِ المُعَلَّقِ فِي الفَضَاءِ.(Athbata Ibnu Sīnā tajarruda an-nafsi an-nāṭiqati wa-waʿyahā bi-dhātihā ʿabra farḍiyyati al-insāni al-muʿallaqi fī al-faḍāʾ.)",
+          "reading": "[ʔaθ.ba.ta‿b.nu siː.naː ta.ʒar.ru.da‿n.naf.si‿n.naː.tˤi.qa.ti wa.waʕ.ja.haː bi.ðaː.ti.haː ʕab.ra far.dˤij.ja.ti‿l.ʔin.saː.ni‿l.mu.ʕal.la.qi fiː‿l.fa.dˤaːʔ] (Ath-ba-ta ib-nu Sī-nā ta-jar-ru-da an-naf-si an-nā-ṭi-qa-ti wa-waʿ-ya-hā bi-dhā-ti-hā ʿab-ra far-ḍiy-ya-ti al-in-sā-ni al-mu-ʿal-la-qi fī al-fa-ḍā-ʾ.)",
+          "translation": "Avicenna proved the immateriality of the rational soul and its self-awareness through the hypothesis of the human suspended in space."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "وَاجِبُ الوُجُودِ هُوَ الإِلٰهُ بِذَاتِهِ، وَالمُمْكِنَاتُ تَفِيضُ مِنْ قُدْرَاتِهِ!"
+      ],
+      "culturalNotes": [
+        "أثرت أنطولوجيا ابن سينا في التمييز بين الوجود والماهية في الفلسفة اللاتينية في العصور الوسطى (توما الأكويني) كما أثر كتابه «الشفاء» في تأسيس الميتافيزيقا الحديثة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)» (الدرس 2)؟",
+          "prompt": "ما هو تعريف «مُمْكِنِ الوُجُودِ» (Contingent Being) في فلسفة ابن سينا؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)» بأسلوب أكاديمي دقيق (26.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (26.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (26.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (26.2.w3)"
+            "المَوْجُودُ الَّذِي يَتَسَاوَى فِي ذَاتِهِ الوُجُودُ وَالعَدَمُ، وَيَفْتَقِرُ إِلَى عِلَّةٍ تُرَجِّحُ وُجُودَهُ (Being whose existence & non-existence are equal in essence, needing a cause)",
+            "الموجود الذي يمتنع وجوده في العقل",
+            "الموجود بذاته دون الحاجة لأي علة",
+            "المادة الجامدة فقط"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الممكن هو كل ما سوى الله؛ لا يقتضي الوجود ولا العدم بذاته بل يحتاج إلى مرجّح يخرجه إلى الوجود."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ماذا قصد ابن سينا بتجربة «الإنسان الطائر أو المعلق في الفضاء» الذهنية؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "إِثْبَاتُ أَنَّ جَوْهَرَ النَّفْسِ يَعِي ذَاتَهُ بِصُورَةٍ مُسْتَقِلَّةٍ عَنِ الحَوَاسِّ وَالبَدَنِ (Proving soul's essence is self-aware independently of senses & body)",
+            "اختراع الطيران الميكانيكي",
+            "رياضة القفز بالمظلات",
+            "وصف رحلة فضائية كوكبية"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "ابن سينا افترض خلق إنسان معلق في الهواء لا يرى ولا يلمس شيئاً، ليثبت أنه يظل مدركاً لوجوده ونفسه بيقين."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u26-l2):",
+          "prompt": "اختر العبارة الفلسفية التي تصيغ برهان الصديقين عند ابن سينا بدقة ميتافيزيقية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (26.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (26.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (26.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (26.2.x3)"
+            "«الِاسْتِدْلَالُ بِالنَّظَرِ فِي حَقِيقَةِ الوُجُودِ نَفْسِهِ عَلَى وُجُوبِ وُجُودِ الحَقِّ الأَوَّلِ دُونَ حَاجَةٍ لِمُقَدِّمَاتٍ حِسِّيَّةٍ». (Deducing through contemplation of existence itself the Necessity of the First Truth without sensory premises.)",
+            "نحن نرى الشمس والقمر في السماء إذا الله موجود",
+            "العالم كبير جدا والبحار عميقة",
+            "ابن سينا وجود واجب ممكن برهان سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "برهان الصديقين ينطلق من الوجود ذاته لتقسيمه إلى واجب وممكن، فيلزم منه إثبات واجب الوجود عقلاً."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)»؟",
+          "prompt": "ما إعراب كلمة «مُحَالٌ» في جملة: «لَزِمَ مِنْهُ مُحَالٌ مَنْطِقِيٌّ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (26.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (26.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (26.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (26.2.y3)"
+            "فَاعِلٌ مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ (Subject of lazima in nominative)",
+            "مفعول به منصوب",
+            "نائب فاعل",
+            "نعت مرفوع"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«مُحَالٌ» فاعل للفعل «لَزِمَ» مرفوع بالضمة، و«مَنْطِقِيٌّ» نعت مرفوع."
         }
       ]
     },
@@ -15678,24 +15688,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 26-2)؟",
+          "prompt": "اختر النص الميتافيزيقي الشامل الذي يحلل أنطولوجيا ابن سينا وأثره الفكري بأعلى درجات الرصانة الفلسفية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (26.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (26.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (26.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (26.2.z3)"
+            "صَاغَ ابْنُ سِينَا أَعْظَمَ نَسَقٍ أُنْطُولُوجِيٍّ فِي الفِكْرِ الإِسْلَامِيِّ حِينَ مَيَّزَ جَذْرِيًّا بَيْنَ المَاهِيَّةِ وَالوُجُودِ، وَقَسَّمَ المَوْجُودَاتِ إِلَى وَاجِبِ الوُجُودِ بِذَاتِهِ وَالمُمْكِنَاتِ الفَائِضَةِ عَنْ فَيْضِهِ، وَبَرْهَنَ عَلَى تَجَرُّدِ النَّفْسِ النَّاطِقَةِ فِي فَرْضِيَّةِ الإِنْسَانِ المُعَلَّقِ، لِيَبْنِيَ صَرْحَ المِيتَافِيزِيقَا العَقْلِيَّةِ الخَالِدَةِ. (Avicenna crafted the greatest ontological system in Islamic thought when he fundamentally distinguished between essence and existence, divided existents into Necessary Being by essence and contingent beings overflowing from His grace, and proved rational soul's immateriality in suspended human hypothesis, constructing the edifice of timeless rational metaphysics.)",
+            "ابن سينا طبيب وفيلسوف كتب كتاب القانون والشفاء.",
+            "ميتافيزيقا ابن سينا واجب الوجود ممكن ماهية وجود نفس سكون فتحة ضمة.",
+            "أنكر ابن سينا وجود النفس تماما."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يحيط بكافة أركان المنظومة السيناوية: تمايز الماهية والوجود، أقسام الوجود، وتجرد النفس الإنسانية."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u26-l2) باللغة العربية (مثال: «الفلسفة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اللقب العلمي التكريمي الشهير لأبي علي الحسين بن عبد الله بن سينا (اكتب: «الشيخ الرئيس»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الفلسفة",
-            "الفلسفة"
+            "الشيخ الرئيس",
+            "الشيخ الرئيس",
+            "ابن سينا",
+            "ابن سينا",
+            "الشَّيْخُ الرَّئِيسُ",
+            "الشَّيْخ الرَّئِيس"
           ],
-          "explanation": "المصطلح الصحيح هو «الفلسفة»."
+          "explanation": "اللقب هو «الشيخ الرئيس» (The Chief Master / Avicenna)."
         }
       ],
       "passThreshold": 0.8
@@ -15706,85 +15720,89 @@
     "subject": "arabic",
     "unit": 26,
     "lessonNumber": 3,
-    "title": "الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam) (الدرس 3)",
+    "title": "علم الكلام: المعتزلة والأشاعرة والمطارحات العقلية (Ilm al-Kalam: Mu'tazilites & Ash'arites)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: فلسفة الفارابي، ابن سينا، ابن رشد، والغزالي: مناهج العقل، الإلهيات، ونظرية المعرفة. (الجزء 3).",
+    "objective": "إتقان المباحث العقلية والجدلية في علم الكلام الإسلامي، ومقارنة الأصول الخمسة للمعتزلة بنظرية الكسب والصفات الإلهية عند الأشاعرة والماتريدية.",
     "presentation": {
-      "explanation": "",
+      "explanation": "نشأ علم الكلام لحماية العقيدة الإسلامية بالأدلة العقلية والبراهين المنطقية، وشهد مناظرات فكرية كبرى:\n\nأولاً: مدرسة المعتزلة (أهل العدل والتوحيد):\n1.【الأُصُولُ الخَمْسَةُ】:\n   - **التَّوْحِيدُ**: تنزيه الذات الإلهية عن التشبيه ونفي تعدد الصفات القديمة.\n   - **العَدْلُ**: حرية الإرادة الإنسانية والمسؤولية الأخلاقية.\n   - **الوَعْدُ وَالوَعِيدُ**: نفاذ الجزاء الإلهي للثواب والعقاب.\n   - **المَنْزِلَةُ بَيْنَ المَنْزِلَتَيْنِ**: حكم مرتكب الكبيرة.\n   - **الأَمْرُ بِالمَعْرُوفِ وَالنَّهْيُ عَنِ المُنْكَرِ**.\n2.【التَّحْسِينُ وَالتَّقْبِيحُ العَقْلِيَّانِ (Rational Ethics)】:\n   - يرى المعتزلة أن الحسن والقبح صفتان ذاتيتان في الأشياء يدركهما العقل قبل ورود الشرع.\n\nثانياً: مدرسة الأشاعرة (الإمام أبو الحسن الأشعري):\n1.【نَظَرِيَّةُ الكَسْبِ (The Doctrine of Kasb / Acquisition)】:\n   - التوفيق بين القدرة الإلهية الشاملة والمسؤولية البشرية؛ فالإله يخلق الفعل والعبد يكتسبه بإرادته المقترنة به.\n2.【التَّحْسِينُ وَالتَّقْبِيحُ الشَّرْعِيَّانِ】:\n   - الحسن ما حسّنه الشرع، والقبيح ما قبّحه الشرع، ولا حُكْمَ للعقل المجرد في الإلزام الأخلاقي الأخروي.\n\nثالثاً: منهجية القياس الكلامي:\n- الاعتماد على «قِيَاسِ الغَائِبِ عَلَى الشَّاهِدِ» و«السَّبْرِ وَالتَّقْسِيمِ» في دحض الشبهات وإلزام الخصوم.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)» بأسلوب أكاديمي دقيق (26.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)' to students in an accurate academic style."
+          "target": "قَرَّرَ المُعْتَزِلَةُ أَنَّ العَقْلَ قَادِرٌ عَلَى إِدْرَاكِ حُسْنِ العَدْلِ وَقُبْحِ الظُّلْمِ بِذَاتِهِمَا قَبْلَ وُرُودِ الخِطَابِ الشَّرْعِيِّ.(Qarrara al-Muʿtazilatu anna al-ʿaqla qādirun ʿalā idrāki ḥusni al-ʿadli wa-qubḥi aẓ-ẓulmi bi-dhātihimā qabla wurūdi al-khiṭābi ash-sharʿiyy.)",
+          "reading": "[qar.ra.ra‿l.muʕ.ta.zi.la.tu ʔan.na‿l.ʕaq.la qaː.di.run ʕa.laː ʔid.raː.ki ħus.ni‿l.ʕad.li wa.qub.ħi‿zˤ.zˤul.mi bi.ðaː.ti.hi.maː qab.la wu.ruː.di‿l.xi.tˤaː.bi‿ʃ.ʃar.ʕijj] (Qar-ra-ra al-Muʿ-ta-zi-la-tu an-na al-ʿaq-la qā-di-run ʿa-lā id-rā-ki ḥus-ni al-ʿad-li wa-qub-ḥi aẓ-ẓul-mi bi-dhā-ti-hi-mā qab-la wu-rū-di al-khi-ṭā-bi ash-shar-ʿiyy.)",
+          "translation": "The Mu'tazilites decided that the intellect is capable of perceiving the intrinsic goodness of justice and ugliness of injustice prior to revelation."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (26.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تَقُومُ نَظَرِيَّةُ الكَسْبِ عِنْدَ الأَشَاعِرَةِ عَلَى اقْتِرَانِ القُدْرَةِ الحَادِثَةِ لِلْعَبْدِ بِخَلْقِ الفِعْلِ مِنَ اللهِ تَعَالَى.(Taqūmu naẓariyyatu al-kasbi ʿinda al-Ashāʿirati ʿalā iqtirāni al-qudrati al-ḥādithati li-l-ʿabdi bi-khalqi al-fiʿli min Allāhi taʿālā.)",
+          "reading": "[ta.quː.mu na.zˤa.rij.ja.tu‿l.kas.bi ʕin.da‿l.ʔa.ʃaː.ʕi.ra.ti ʕa.laː‿q.ti.raː.ni‿l.qud.ra.ti‿l.ħaː.di.θa.ti lil.ʕab.di bi.xal.qi‿l.fiʕ.li mi.na‿l.laː.hi ta.ʕaː.laː] (Ta-qū-mu na-ẓa-riy-ya-tu al-kas-bi ʿin-da al-A-shā-ʿi-ra-ti ʿa-lā iq-ti-rā-ni al-qud-ra-ti al-ḥā-di-tha-ti lil-ʿab-di bi-khal-qi al-fiʿ-li min Al-lā-hi ta-ʿā-lā.)",
+          "translation": "The Ash'arite doctrine of Kasb is based on the conjunction of the servant's temporal capacity with the creation of the act by God Almighty."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (26.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يَهْدِفُ عِلْمُ الكَلَامِ إِلَى إِثْبَاتِ العَقَائِدِ الدِّينِيَّةِ بِإِيرَادِ الحُجَجِ العَقْلِيَّةِ وَدَفْعِ الشُّبُهَاتِ.(Yahdifu ʿilmu al-kalāmi ilā ithbāti al-ʿaqāʾidi ad-dīniyyati bi-īrādi al-ḥujaji al-ʿaqliyyati wa-dafʿi ash-shubuhāt.)",
+          "reading": "[jah.di.fu ʕil.mu‿l.ka.laː.mi ʔi.laː ʔiθ.baː.ti‿l.ʕa.qaː.ʔi.di‿d.diː.nij.ja.ti bi.ʔiː.raː.di‿l.ħu.ʒa.ʒi‿l.ʕaq.lij.ja.ti wa.daf.ʕi‿ʃ.ʃu.bu.haːt] (Yah-di-fu ʿil-mu al-ka-lā-mi i-lā ith-bā-ti al-ʿa-qā-ʾi-di ad-dī-niy-ya-ti bi-ī-rā-di al-ḥu-ja-ji al-ʿaq-liy-ya-ti wa-daf-ʿi ash-shu-bu-hāt.)",
+          "translation": "The science of Kalam aims to establish religious doctrines by adducing rational arguments and refuting doubts."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (26.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "اعْتَمَدَ المُتَكَلِّمُونَ مَنْهَجَ السَّبْرِ وَالتَّقْسِيمِ فِي حَصْرِ الِاحْتِمَالَاتِ العَقْلِيَّةِ وَإِبْطَالِ الفَاسِدِ مِنْهَا.(Iʿtamada al-mutakallimūna manhaja as-sabri wa-at-taqsīmi fī ḥaṣri al-iḥtimālāti al-ʿaqliyyati wa-ibṭāli al-fāsidi minhā.)",
+          "reading": "[ʔiʕ.ta.ma.da‿l.mu.ta.kal.li.muː.na man.ha.ʒa‿s.sab.ri wat.taq.siː.mi fiː ħasˤ.ri‿l.ʔiħ.ti.maː.laː.ti‿l.ʕaq.lij.ja.ti wa.ʔib.tˤaː.li‿l.faː.si.di min.haː] (Iʿ-ta-ma-da al-mu-ta-kal-li-mū-na man-ha-ja as-sab-ri wa-at-taq-sī-mi fī ḥaṣ-ri al-iḥ-ti-mā-lā-ti al-ʿaq-liy-ya-ti wa-ib-ṭā-li al-fā-si-di min-hā.)",
+          "translation": "The Kalam theologians adopted the method of exhaustive disjunction and elimination to limit rational possibilities and refute invalid ones."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "عِلْمُ الكَلَامِ سِلَاحُ العَقْلِ وَالبَيَانْ، يَزْنُ العَقَائِدَ بِالبُرْهَانِ فِي كُلِّ آنْ!"
+      ],
+      "culturalNotes": [
+        "يُمثل علم الكلام ذروة المناظرة المنطقية والفلسفية في الحضارة الإسلامية، حيث طُوِّرت فيه أصول الجدل وقواعد التناظر الأكاديمي الصارم."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)» (الدرس 3)؟",
+          "prompt": "ما هو الموقف الأخلاقي للمعتزلة في مسألة «التحسين والتقبيح»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)» بأسلوب أكاديمي دقيق (26.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (26.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (26.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (26.3.w3)"
+            "العَقْلُ يُدْرِكُ حُسْنَ الأَفْعَالِ وَقُبْحَهَا ذَاتِيًّا دُونَ تَوَقُّفٍ عَلَى الشَّرْعِ (Intellect perceives goodness & ugliness intrinsically without depending on revelation)",
+            "الحسن والقبح لا وجود لهما",
+            "الشرع وحده هو الذي يحدد دون أي دور للعقل",
+            "التحسين يعتمد على المزاج الفردي"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "المعتزلة قالوا بالتحسين والتقبيح العقليين الذاتيين، بينما قال الأشاعرة بأنهما شرعيان."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ماذا تعني نظرية «الكَسْبِ» عند الإمام أبي الحسن الأشعري؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "اقْتِرَانُ إِرَادَةِ العَبْدِ وَقُدْرَتِهِ الحَادِثَةِ بِخَلْقِ اللهِ لِلْفِعْلِ لِتَحَقُّقِ المَسْؤُولِيَّةِ (Conjunction of servant's will with God's creation of act for accountability)",
+            "كسب الأموال في التجارة الحرة",
+            "الجبر التام دون إرادة إنسانية",
+            "خلق الإنسان لأفعاله باستقلال تام"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الكسب الأشعري يجمع بين التوحيد في الخلق ومسؤولية العبد عن اختياره المكتسب."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u26-l3):",
+          "prompt": "اختر العبارة الكلامية التي تصف وظيفة علم الكلام في التراث الإسلامي بدقة مصطلحية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (26.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (26.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (26.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (26.3.x3)"
+            "«عِلْمٌ يُقْتَدَرُ مَعَهُ عَلَى إِثْبَاتِ العَقَائِدِ الدِّينِيَّةِ بِإِيرَادِ الحُجَجِ وَدَفْعِ الشُّبَهِ». ('A science by which one is enabled to establish religious doctrines by adducing arguments and refuting doubts.')",
+            "علم يهتم فقط بالنحو والصرف وقواعد الإملاء",
+            "مجرد أحاديث عامة في المجالس الشعبية",
+            "علم كلام معتزلة اشاعرة كسب سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "هذا هو التعريف الاصطلاحي المعياري لعلم الكلام عند عضد الدين الإيجي والعلماء."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)»؟",
+          "prompt": "ما إعراب كلمة «قَادِرٌ» في جملة: «أَنَّ العَقْلَ قَادِرٌ عَلَى إِدْرَاكِ الحَقِّ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (26.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (26.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (26.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (26.3.y3)"
+            "خَبَرُ أَنَّ مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ (Predicate of inna in nominative)",
+            "اسم أن منصوب",
+            "مفعول به منصوب",
+            "نعت مرفوع"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«العَقْلَ» اسم أن منصوب، و«قَادِرٌ» خبر أن مرفوع وعلامة رفعه الضمة."
         }
       ]
     },
@@ -15792,24 +15810,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 26-3)؟",
+          "prompt": "اختر النص التحليلي الشامل الذي يوازن بين مدرستي المعتزلة والأشاعرة في علم الكلام بدقة فلسفية وعقائدية تامة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (26.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (26.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (26.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (26.3.z3)"
+            "جَسَّدَ عِلْمُ الكَلَامِ الإِسْلَامِيُّ حَرَكِيَّةَ الفِكْرِ النَّقْدِيِّ؛ حَيْثُ عَلَّى المُعْتَزِلَةُ مِنْ سُلْطَانِ التَّحْسِينِ وَالتَّقْبِيحِ العَقْلِيَّيْنِ وَأَسَّسُوا أُصُولَهُمُ الخَمْسَةَ عَلَى العَدْلِ وَالتَّوْحِيدِ، بَيْنَمَا أَرْسَى الأَشَاعِرَةُ نَظَرِيَّةَ الكَسْبِ لِلْجَمْعِ بَيْنَ شُمُولِيَّةِ القُدْرَةِ الإِلٰهِيَّةِ وَمَسْؤُولِيَّةِ العَبْدِ الأَخْلَاقِيَّةِ، لِيَظَلَّ الجَدَلُ الكَلَامِيُّ مَفْخَرَةً لِلْعَقْلَانِيَّةِ العَرَبِيَّةِ. (Islamic Kalam embodied dynamism of critical thought; where Mu'tazilites elevated rational ethics and founded five principles on justice and monotheism, while Ash'arites instituted doctrine of Kasb reconciling Divine omnipotence with moral human responsibility, so theological debate remained a pride of Arabic rationalism.)",
+            "المعتزلة والأشاعرة فرقتان قديمتان انتهت مناقشاتهما.",
+            "علم كلام جدل مناظرة معتزلة اشاعرة تحسين تقبيح سكون فتحة ضمة.",
+            "حرم المتكلمون استخدام العقل في الدين."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بدقة وموضوعية بين الأصول الخمسة والتحسين العقلي عند المعتزلة، ونظرية الكسب والجمع عند الأشاعرة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u26-l3) باللغة العربية (مثال: «الفلسفة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم العلم الإسلامي المتخصص في إثبات العقائد بالأدلة العقلية (اكتب: «علم الكلام»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الفلسفة",
-            "الفلسفة"
+            "علم الكلام",
+            "الكلام",
+            "عِلْمُ الكَلَامِ",
+            "عِلْم الكَلَام"
           ],
-          "explanation": "المصطلح الصحيح هو «الفلسفة»."
+          "explanation": "العلم هو «علم الكلام» (Ilm al-Kalam)."
         }
       ],
       "passThreshold": 0.8
@@ -15820,85 +15840,89 @@
     "subject": "arabic",
     "unit": 26,
     "lessonNumber": 4,
-    "title": "الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam) (الدرس 4)",
+    "title": "حوار تهافت الفلاسفة وتهافت التهافت: الغزالي وابن رشد (The Great Debate: Al-Ghazali & Averroes)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: فلسفة الفارابي، ابن سينا، ابن رشد، والغزالي: مناهج العقل، الإلهيات، ونظرية المعرفة. (الجزء 4).",
+    "objective": "إتقان المناظرة الفلسفية الكبرى بين حجة الإسلام أبي حامد الغزالي (تهافت الفلاسفة، ونقد السببية) وقاضي قرطبة أبي الوليد ابن رشد (تهافت التهافت، وفصل المقال، والتأويل البرهاني).",
     "presentation": {
-      "explanation": "",
+      "explanation": "تُمثل المناظرة بين الغزالي وابن رشد قمة التحدي الإبستمولوجي والميتافيزيقي في تاريخ الفلسفة العالمي:\n\nأولاً: حجة الإسلام أبو حامد الغزالي (نقد العقلانية الفلسفية):\n1.【كِتَابُ «تَهَافُتِ الفَلَاسِفَةِ»】:\n   - نقد عشرين مسألة ميتافيزيقية عجز فيها الفلاسفة (الفارابي وابن سينا) عن تقديم براهين يقينية مطابقة لقوانين المنطق.\n2.【نَقْدُ السَّبَبِيَّةِ الضَّرُورِيَّةِ (Critique of Necessary Causality)】:\n   - أكد الغزالي أن الاقتران بين ما يُعتقد سبباً وما يُعتقد مسبباً (كالنار والاحتراق) هو اقتران باطراد العادة وبمشيئة الله التامة، وليس لزومًا عقلياً ذاتياً لا يقبل الانفكاك.\n\nثانياً: أبو الوليد محمد بن رشد الأندلسي (الشارح الأكبر ودفاع البرهان):\n1.【كِتَابُ «تَهَافُتِ التَّهَافُتِ»】:\n   - الرد المفصل على الغزالي نقطة بنقطة، وإثبات أن إنكار السببية والطبائع هو إنكار للعقل والعلم ذاته:\n   - «**مَنْ أَنْكَرَ السَّبَبِيَّةَ فَقَدْ أَنْكَرَ العَقْلَ**».\n2.【كِتَابُ «فَصْلِ المَقَالِ فِيمَا بَيْنَ الحِكْمَةِ وَالشَّرِيعَةِ مِنَ الِاتِّصَالِ»】:\n   - القاعدة الرشدية الكبرى: «**الحَقُّ لَا يُضَادُّ الحَقَّ، بَلْ يُوَافِقُهُ وَيَشْهَدُ لَهُ**».\n   - ضرورة التأويل البرهاني عند تعارض ظاهر النص مع القواطع العقلية.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)» بأسلوب أكاديمي دقيق (26.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)' to students in an accurate academic style."
+          "target": "قَرَّرَ ابْنُ رُشْدٍ أَنَّ الحِكْمَةَ وَالشَّرِيعَةَ أُخْتَانِ رَضِيعَتَانِ، وَأَنَّ الحَقَّ لَا يُضَادُّ الحَقَّ بَلْ يُوَافِقُهُ.(Qarrara Ibnu Rushdin anna al-ḥikmata wa-ash-sharīʿata ukhtāni raḍīʿatāni, wa-anna al-ḥaqqa lā yuḍāddu al-ḥaqqa bal yuwāfiquh.)",
+          "reading": "[qar.ra.ra‿b.nu ruʃ.din ʔan.na‿l.ħik.ma.ta waʃ.ʃa.riː.ʕa.ta ʔux.taː.ni ra.dˤiː.ʕa.taː.ni, wa.ʔan.na‿l.ħaq.qa laː ju.dˤaːd.du‿l.ħaq.qa bal ju.waː.fi.quh] (Qar-ra-ra ib-nu Rush-din an-na al-ḥik-ma-ta wa-ash-sha-rī-ʿa-ta ukh-tā-ni ra-ḍī-ʿa-tā-ni, wa-an-na al-ḥaq-qa lā yu-ḍād-du al-ḥaq-qa bal yu-wā-fi-quh.)",
+          "translation": "Ibn Rushd established that philosophy and divine law are foster sisters, and that the truth does not contradict the truth, but agrees with and testifies to it."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (26.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "رَأَى الغَزَالِيُّ أَنَّ الِاقْتِرَانَ بَيْنَ السَّبَبِ وَالمُسَبَّبِ هُوَ بِتَقْدِيرِ اللهِ لَا بِإِيجَابٍ ذَاتِيٍّ ضَرُورِيٍّ.(Raʾā al-Ghazāliyyu anna al-iqtirāna bayna as-sababi wa-al-musabbabi huwa bi-taqdīri Allāhi lā bi-ījābin dhātiyyin ḍarūriyy.)",
+          "reading": "[ra.ʔaː‿l.ɣa.zaː.lij.ju ʔan.na‿l.ʔiq.ti.raː.na baj.na‿s.sa.ba.bi wal.mu.sab.ba.bi hu.wa bi.taq.diː.ri‿l.laː.hi laː bi.ʔiː.ʒaː.bin ðaː.tij.jin dˤa.ruː.rijj] (Ra-ʾā al-Gha-zā-liy-yu an-na al-iq-ti-rā-na bay-na as-sa-ba-bi wa-al-mu-sab-ba-bi hu-wa bi-taq-dī-ri Al-lā-hi lā bi-ī-jā-bin dhā-tiy-yin ḍa-rū-riyy.)",
+          "translation": "Al-Ghazali held that the correlation between cause and effect is by God's decree, not by an intrinsic necessary compulsion."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (26.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "أَوْجَبَ ابْنُ رُشْدٍ تَأْوِيلَ النُّصُوصِ الظَّاهِرَةِ إِذَا عَارَضَتِ البُرْهَانَ العَقْلِيَّ القَاطِعَ.(Awjaba Ibnu Rushdin taʾwīla an-nuṣūṣi aẓ-ẓāhirati idhā ʿāraḍat al-burhāna al-ʿaqliyya al-qāṭiʿ.)",
+          "reading": "[ʔaw.ʒa.ba‿b.nu ruʃ.din taʔ.wiː.la‿n.nu.sˤuː.sˤi‿zˤ.zˤaː.hi.ra.ti ʔi.ðaː ʕaː.ra.dˤa.ti‿l.bur.haː.na‿l.ʕaq.lij.ja‿l.qaː.tˤiʕ] (Aw-ja-ba ib-nu Rush-din taʾ-wī-la an-nu-ṣū-ṣi aẓ-ẓā-hi-ra-ti i-dhā ʿā-ra-ḍa-ti al-bur-hā-na al-ʿaq-liy-ya al-qā-ṭiʿ.)",
+          "translation": "Ibn Rushd made obligatory the allegorical interpretation of apparent texts if they contradict decisive rational demonstration."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (26.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تَمَخَّضَتِ المُنَاظَرَةُ بَيْنَ التَّهَافُتَيْنِ عَنْ تَعْمِيقِ نَظَرِيَّةِ المَعْرِفَةِ فِي الفَلْسَفَةِ الإِنْسَانِيَّةِ.(Tamakhkhaḍati al-munāẓaratu bayna at-tahāfutayni ʿan taʿmīqi naẓariyyati al-maʿrifati fī al-falsafati al-insāniyyah.)",
+          "reading": "[ta.max.xa.dˤa.ti‿l.mu.naː.zˤa.ra.tu baj.na‿t.ta.haː.fu.taj.ni ʕan taʕ.miː.qi na.zˤa.rij.ja.ti‿l.maʕ.ri.fa.ti fiː‿l.fal.sa.fa.ti‿l.ʔin.saː.nij.jah] (Ta-makh-kha-ḍa-ti al-mu-nā-ẓa-ra-tu bay-na at-ta-hā-fu-tay-ni ʿan taʿ-mī-qi na-ẓa-riy-ya-ti al-maʿ-ri-fa-ti fī al-fal-sa-fa-ti al-in-sā-niy-yah.)",
+          "translation": "The great debate between the two Incoherences resulted in deepening epistemology in human philosophy."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "غَزَالِيٌّ يَنْقُدُ فِي التَّهَافُتِ بِإِتْقَانْ، وَابْنُ رُشْدٍ يُقِيمُ صَرْحَ البُرْهَانْ!"
+      ],
+      "culturalNotes": [
+        "أثرت فلسفة ابن رشد الشارحة لأرسطو في نشوء الحركة الرشدية اللاتينية (Averroism) في جامعات باريس وبادوا، والتي كانت من بواعث عصر النهضة الأوروبية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)» (الدرس 4)؟",
+          "prompt": "ما هي المقولة الخالدة التي قررها ابن رشد في كتابه «فصل المقال» للتوفيق بين الفلسفة والدين؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)» بأسلوب أكاديمي دقيق (26.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (26.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (26.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (26.4.w3)"
+            "«الحَقُّ لَا يُضَادُّ الحَقَّ، بَلْ يُوَافِقُهُ وَيَشْهَدُ لَهُ» ('Truth does not contradict truth, but agrees with and testifies to it')",
+            "الفلسفة باطلة والدين وحده هو الصحيح",
+            "لا يمكن التوفيق بين العقل والشرع أبدا",
+            "الدين يلغي العقل تماما"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "هذه القاعدة الرشدية التأسيسية تؤكد وحدة الحقيقة واستحالة التناقض بين صريح المعقول وصحيح المنقول."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "كيف فسر الإمام الغزالي العلاقة بين السبب والمسبب (كالنار والاحتراق) في «تهافت الفلاسفة»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "عَلَاقَةُ اقْتِرَانٍ عَادِيٍّ بِمَشِيئَةِ اللهِ، لَيْسَتْ لُزُومًا ذَاتِيًّا لَا يَنْفَكُّ (Customary correlation by God's will, not inseparable intrinsic necessity)",
+            "النار تخلق الإحراق بنفسها باستقلال تام عن الله",
+            "الاحتراق وهم بصري لا وجود له",
+            "السببية قانون لا يمكن لله تغييره"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الغزالي بين أن الارتباط سببه اطراد العادة الإلهية، مما يجعل المعجزات أمراً جائزاً عقلاً."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u26-l4):",
+          "prompt": "اختر الكتاب الذي رد فيه ابن رشد تفصيلياً على اعتراضات الغزالي على الفلاسفة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (26.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (26.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (26.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (26.4.x3)"
+            "تَهَافُتُ التَّهَافُتِ (The Incoherence of the Incoherence / Tahafut al-Tahafut)",
+            "تهافت الفلاسفة",
+            "إحياء علوم الدين",
+            "المنقذ من الضلال"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "كتاب «تهافت التهافت» هو مصنف ابن رشد الخالد للرد على كتاب الغزالي «تهافت الفلاسفة»."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)»؟",
+          "prompt": "ما إعراب كلمة «أُخْتَانِ» في قولنا: «الحِكْمَةُ وَالشَّرِيعَةُ أُخْتَانِ رَضِيعَتَانِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (26.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (26.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (26.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (26.4.y3)"
+            "خَبَرُ المُبْتَدَأِ مَرْفُوعٌ بِالأَلِفِ لِأَنَّهُ مُثَنَّى (Predicate in nominative with alif because dual)",
+            "مبتدأ مؤخر",
+            "نعت مرفوع بالضمة",
+            "مفعول به ثانٍ"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«أُخْتَانِ» خبر المبتدأ «الحِكْمَةُ» مرفوع بالألف لأنه مثنى، و«رَضِيعَتَانِ» نعت مرفوع بالألف."
         }
       ]
     },
@@ -15906,24 +15930,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 26-4)؟",
+          "prompt": "اختر النص النقدي الفلسفي الذي يلخص المناظرة الكبرى بين الغزالي وابن رشد بأعلى درجات العمق والبيان المعرفي:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (26.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (26.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (26.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (26.4.z3)"
+            "شَكَّلَتِ المُنَاظَرَةُ بَيْنَ «تَهَافُتِ الفَلَاسِفَةِ» لِلْغَزَالِيِّ وَ«تَهَافُتِ التَّهَافُتِ» لِابْنِ رُشْدٍ أَعْظَمَ مَعْرَكَةٍ إِبِسْتِمُولُوجِيَّةٍ فِي تَارِيخِ الفِكْرِ؛ حَيْثُ فَكَّكَ الغَزَالِيُّ مَزَاعِمَ الضَّرُورَةِ السَّبَبِيَّةِ لِصَالِحِ الإِرَادَةِ الإِلٰهِيَّةِ، بَيْنَمَا ذَادَ ابْنُ رُشْدٍ عَنْ قَوَانِينِ العَقْلِ وَبُرْهَانِيَّةِ الوُجُودِ مُقَرِّرًا أَنَّ الحَقَّ لَا يُضَادُّ الحَقَّ، لِتَغْدُوَ هٰذِهِ المُنَاظَرَةُ مَنَارَةً لِفَلْسَفَةِ المَعْرِفَةِ العَالَمِيَّةِ. (The debate between Al-Ghazali's Tahafut al-Falasifa and Ibn Rushd's Tahafut al-Tahafut formed the greatest epistemological battle in the history of thought; where Al-Ghazali deconstructed claims of causal necessity in favor of Divine Will, while Ibn Rushd defended laws of intellect and demonstrative reality establishing that truth contradicts not truth, so this debate became a beacon for global epistemology.)",
+            "الغزالي وابن رشد كتبا كتابين ضد بعضهما وانتهى الخلاف.",
+            "مناظرة تهافت الفلاسفة تهافت التهافت سببية برهان عقل شرع سكون فتحة ضمة.",
+            "اتفق الغزالي وابن رشد في كل المسائل ولم يختلفا."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يستوعب الأبعاد الفلسفية التامة للمناظرة: نقد السببية عند الغزالي، ودفاع ابن رشد عن البرهان وتوافق العقل والشرع."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u26-l4) باللغة العربية (مثال: «الفلسفة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الفيلسوف وقاضي قرطبة الملقب بـ «الشارح الأكبر» (اكتب: «ابن رشد»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الفلسفة",
-            "الفلسفة"
+            "ابن رشد",
+            "ابن رشد",
+            "ابو الوليد ابن رشد",
+            "أبو الوليد ابن رشد",
+            "ابْنُ رُشْدٍ",
+            "ابْن رُشْد"
           ],
-          "explanation": "المصطلح الصحيح هو «الفلسفة»."
+          "explanation": "الفيلسوف هو «ابن رشد» (Averroes)."
         }
       ],
       "passThreshold": 0.8
@@ -15934,85 +15962,89 @@
     "subject": "arabic",
     "unit": 26,
     "lessonNumber": 5,
-    "title": "الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam) (الدرس 5)",
+    "title": "حوار المجمع الفلسفي والتحليل الإبستمولوجي الشامل (Philosophical Academy Colloquium & Epistemological Synthesis)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: فلسفة الفارابي، ابن سينا، ابن رشد، والغزالي: مناهج العقل، الإلهيات، ونظرية المعرفة. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة السادسة والعشرين: أنطولوجيا الكندي والفارابي، ميتافيزيقا ابن سينا، جدل المتكلمين، ومناظرة الغزالي وابن رشد في حوار أكاديمي نخبوي ببيت الحكمة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة السادسة والعشرين (مستوى C1 المتقدم) من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس، ندمج كافة محاور الفلسفة الإسلامية وعلم الكلام في مطارحة فلسفية حوارية رفيعة المستوى تدور في مجمع بيت الحكمة بين أستاذ الفلسفة الإسلامية (د. منصور) والباحثة الإبستمولوجية (د. مريم):\n\nمحاور الحوار الفلسفي الشامل:\n1.【الأنطولوجيا والمنطق】: «الكِنْدِيُّ»، «الفَارَابِيُّ»، «الجَوْهَرُ وَالعَرَضُ»، «المَدِينَةُ الفَاضِلَةُ».\n2.【الميتافيزيقا السيناوية】: «وَاجِبُ الوُجُودِ»، «مُمْكِنُ الوُجُودِ»، «تَمَايُزُ المَاهِيَّةِ وَالوُجُودِ».\n3.【المباحث الكلامية】: «المُعْتَزِلَةُ وَالأَشَاعِرَةُ»، «التَّحْسِينُ وَالتَّقْبِيحُ»، «نَظَرِيَّةُ الكَسْبِ».\n4.【المناظرة الكبرى】: «تَهَافُتُ الفَلَاسِفَةِ لِلْغَزَالِيِّ»، «تَهَافُتُ التَّهَافُتِ لِابْنِ رُشْدٍ»، «فَصْلُ المَقَالِ».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)» بأسلوب أكاديمي دقيق (26.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)' to students in an accurate academic style."
+          "target": "مَرْحَبًا دُكْتُور مَنْصُور، كَيْفَ نُقَيِّمُ تَطَوُّرَ مَفْهُومِ الوُجُودِ مِنَ الكِنْدِيِّ إِلَى ابْنِ سِينَا؟(Marḥaban duktūr Manṣūr, kayfa nuqayyimu taṭawwura mafhūmi al-wujūdi min al-Kindiyyi ilā Ibni Sīnā?)",
+          "reading": "[mar.ħa.ban duk.tuːr man.sˤuːr, kaj.fa nu.qaj.ji.mu ta.tˤaw.wu.ra maf.huː.mi‿l.wu.ʒuː.di mi.na‿l.kin.dij.ji ʔi.laː‿b.ni siː.naː?] (Mar-ḥa-ban duk-tūr Man-ṣūr, kay-fa nu-qay-yi-mu ta-ṭaw-wu-ra maf-hū-mi al-wu-jū-di min al-Kin-diy-yi i-lā ib-ni Sī-nā?)",
+          "translation": "Welcome Dr. Mansur, how do we evaluate the evolution of the concept of existence from Al-Kindi to Avicenna?"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (26.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَهْلًا دُكْتُورَة مَرْيَم؛ وَضَعَ الكِنْدِيُّ اللَّبِنَاتِ المَعْجَمِيَّةَ، ثُمَّ بَلَغَ ابْنُ سِينَا ذِرْوَةَ التَّجْرِيدِ بِتَمْيِيزِ الوَاجِبِ مِنَ المُمْكِنِ.(Ahlan duktūrah Maryam; waḍaʿa al-Kindiyyu al-labināti al-maʿjamiyyah, thumma balagha Ibnu Sīnā dhirwata at-tajrīdi bi-tamyīzi al-wājibi min al-mumkin.)",
+          "reading": "[ʔah.lan duk.tuː.rah mar.jam; wa.dˤa.ʕa‿l.kin.dij.ju‿l.la.bi.naː.ti‿l.maʕ.ʒa.mij.jah, θum.ma ba.la.ɣa‿b.nu siː.naː ðir.wa.ta‿t.taʒ.riː.di bi.tam.jiː.zi‿l.waː.ʒi.bi mi.na‿l.mum.kin] (Ah-lan duk-tū-rah Mar-yam; wa-ḍa-ʿa al-Kin-diy-yu al-la-bi-nā-ti al-maʿ-ja-miy-yah, thum-ma ba-la-gha ib-nu Sī-nā dhir-wa-ta at-taj-rī-di bi-tam-yī-zi al-wā-ji-bi min al-mum-kin.)",
+          "translation": "Hello Dr. Maryam; Al-Kindi laid the lexicographical foundations, then Avicenna reached the summit of abstraction by distinguishing Necessary from Contingent."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (26.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "وَتَشَابَكَتْ هٰذِهِ المَبَاحِثُ مَعَ جَدَلِ المُتَكَلِّمِينَ حَوْلَ التَّحْسِينِ العَقْلِيِّ وَنَظَرِيَّةِ الكَسْبِ الأَشْعَرِيَّةِ.(Wa-tashābahat hādhihi al-mabāḥithu maʿa jadali al-mutakallimīna ḥawla at-taḥsīni al-ʿaqliyyi wa-naẓariyyati al-kasbi al-ashʿariyyah.)",
+          "reading": "[wa.ta.ʃaː.ba.kat haː.ði.hi‿l.ma.baː.ħi.θu ma.ʕa ʒa.da.li‿l.mu.ta.kal.li.miː.na ħaw.la‿t.taħ.siː.ni‿l.ʕaq.lij.ji wa.na.zˤa.rij.ja.ti‿l.kas.bi‿l.ʔaʃ.ʕa.rij.jah] (Wa-ta-shā-ba-kat hā-dhi-hi al-ma-bā-ḥi-thu ma-ʿa ja-da-li al-mu-ta-kal-li-mī-na ḥaw-la at-taḥ-sī-ni al-ʿaq-liy-yi wa-na-ẓa-riy-ya-ti al-kas-bi al-ash-ʿa-riy-yah.)",
+          "translation": "And these inquiries intertwined with theologians' debate over rational ethics and the Ash'arite doctrine of acquisition."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (26.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "حَتَّى تُوِّجَتْ بِالمُنَاظَرَةِ الكُبْرَى بَيْنَ تَهَافُتِ الغَزَالِيِّ وَبُرْهَانِيَّةِ ابْنِ رُشْدٍ فِي فَصْلِ المَقَالِ.(Ḥattā tuwwijat bi-al-munāẓarati al-kubrā bayna tahāfuti al-Ghazāliyyi wa-burhāniyyati Ibni Rushdin fī faṣli al-maqāl.)",
+          "reading": "[ħat.taː tuw.wi.ʒat bil.mu.naː.zˤa.ra.ti‿l.kub.raː baj.na ta.haː.fu.ti‿l.ɣa.zaː.lij.ji wa.bur.haː.nij.ja.ti‿b.ni ruʃ.din fiː fasˤ.li‿l.ma.qaːl] (Ḥat-tā tuw-wi-jat bi-al-mu-nā-ẓa-ra-ti al-kub-rā bay-na ta-hā-fu-ti al-Gha-zā-liy-yi wa-bur-hā-niy-ya-ti ib-ni Rush-din fī faṣ-li al-ma-qāl.)",
+          "translation": "Until it was crowned by the great debate between Al-Ghazali's Incoherence and Ibn Rushd's demonstrativism in Decisive Treatise."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فِي مَجْمَعِ الحِكْمَةِ يَسْطَعُ البَيَانْ، عَقْلٌ وَنَقْلٌ يَرْتَقِيَانِ بِالإِنْسَانْ!"
+      ],
+      "culturalNotes": [
+        "يُمثل «بيت الحكمة» في بغداد والمجالس العلمية في قرطبة والقاهرة نماذج تاريخية رائدة للمؤسسات البحثية التي قادت الحوار الإبستمولوجي الإنساني."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)» (الدرس 5)؟",
+          "prompt": "في المطارحة الفلسفية الشاملة، كيف يتكامل الفكر الكلامي مع النسق الفلسفي المشائي؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)» بأسلوب أكاديمي دقيق (26.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (26.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (26.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (26.5.w3)"
+            "عَبْرَ تَوْظِيفِ أَدَوَاتِ المَنْطِقِ وَالبُرْهَانِ فِي إِثْبَاتِ حَقَائِقِ التَّوْحِيدِ وَمُنَاقَشَةِ المَسْؤُولِيَّةِ الأَخْلَاقِيَّةِ (By utilizing logic & demonstration in monotheism & moral accountability)",
+            "عن طريق إلغاء النصوص الدينية بالكامل",
+            "برفض دراسة الفلسفة والمنطق نهائيا",
+            "بالاقتصار على الأساطير الخرافية"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الفكر الإسلامي طوّع المنطق الصوري وأدوات القياس البرهاني في خدمة الحكمة والمناظرة العقدية والأخلاقية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي النتيجة الإبستمولوجية التي انتهى إليها ابن رشد في مسألة العلاقة بين الحكمة والشريعة؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "وَحْدَةُ الحَقِيقَةِ؛ حَيْثُ إِنَّ البُرْهَانَ العَقْلِيَّ الصَّرِيحَ لَا يَتَنَاقَضُ مَعَ الوَحْيِ الصَّحِيحِ (Unity of truth; demonstrative intellect never contradicts authentic revelation)",
+            "أن الدين يناقض العلم بالضرورة",
+            "أن الفلسفة خطر على المجتمع",
+            "أن التأويل ممنوع في كل الأحوال"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "ابن رشد رسخ أن الحقيقة واحدة لا تتناقض، وأن التأويل البرهاني يزيل أي تعارض ظاهري."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u26-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تصف روعة الجمع بين العقل والنقل في الحضارة الإسلامية بفصاحة تامة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (26.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (26.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (26.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (26.5.x3)"
+            "— كَيْفَ نَنْظُرُ إِلَى هٰذَا التُّرَاثِ الفَلْسَفِيِّ؟ — نَنْظُرُ إِلَيْهِ كَصَرْحٍ حَضَارِيٍّ اسْتَطَاعَ أَنْ يَجْعَلَ الإِيمَانَ مُعَزَّزًا بِالبُرْهَانِ وَالعَقْلَ مُسْتَنِيرًا بِالوُجُودِ. (— How do we view this philosophical heritage? — As a civilizational edifice that made faith reinforced by proof and intellect enlightened by existence.)",
+            "— هل قرات كتاب الشفاء؟ — نعم اشتريته من المعرض.",
+            "— كم عدد الفلاسفة المسلمين؟ — لا اعرف عددهم بالتحديد.",
+            "— حوار فلسفي برهان عقل نقل سكون."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة تعبر بأصالة عن التكامل الحضاري بين الإيمان المعزز بالبرهان والعقل المستنير بحقائق الوجود."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الفلسفة الإسلامية وعلم الكلام (Islamic Philosophy & Kalam)»؟",
+          "prompt": "ما إعراب كلمة «مُعَزَّزًا» في قولنا: «يَجْعَلَ الإِيمَانَ مُعَزَّزًا بِالبُرْهَانِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (26.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (26.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (26.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (26.5.y3)"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Second direct object of yaj'al in accusative)",
+            "حال منصوبة بالفتحة",
+            "نعت منصوب",
+            "تمييز منصوب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الفعل «يَجْعَلَ» ينصب مفعولين؛ «الإِيمَانَ» مفعول به أول، و«مُعَزَّزًا» مفعول به ثانٍ منصوب."
         }
       ]
     },
@@ -16020,24 +16052,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 26-5)؟",
+          "prompt": "اختر النص الحواري الفلسفي الشامل الذي يدمج مخرجات الوحدة السادسة والعشرين بأكملها (الكندي والفارابي، ابن سينا، علم الكلام، ومناظرة الغزالي وابن رشد):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (26.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (26.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (26.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (26.5.z3)"
+            "د. مَرْيَم: «دُكْتُور مَنْصُور، كَيْفَ نَسْتَوْعِبُ التَّكَامُلَ بَيْنَ أُنْطُولُوجْيَا ابْنِ سِينَا فِي وَاجِبِ الوُجُودِ، وَمَبَاحِثِ الكَلَامِ فِي التَّحْسِينِ وَالكَسْبِ، وَمُنَاظَرَةِ التَّهَافُتَيْنِ بَيْنَ الغَزَالِيِّ وَابْنِ رُشْدٍ؟» — د. مَنْصُور: «إِنَّهَا رِحْلَةُ العَقْلِ العَرَبِيِّ الإِسْلَامِيِّ فِي السَّعْيِ نَحْوَ الحَقِيقَةِ؛ حَيْثُ أَرْسَى الفَلَاسِفَةُ مَبَادِئَ الوُجُودِ وَالمَدِينَةِ الفَاضِلَةِ، وَذَادَ المُتَكَلِّمُونَ عَنِ العَقِيدَةِ بِالبُرْهَانِ، وَكَشَفَتْ مُنَاظَرَةُ التَّهَافُتَيْنِ عَنْ قُدْرَةِ الفِكْرِ الإِسْلَامِيِّ عَلَى نَقْدِ الذَّاتِ وَتَرْسِيخِ مَبْدَأِ أَنَّ الحَقَّ لَا يُضَادُّ الحَقَّ». (Dr. Maryam: 'Dr. Mansur, how do we grasp the synthesis between Avicenna's ontology in Necessary Being, Kalam inquiries in rational ethics and Kasb, and two Incoherences debate between Al-Ghazali and Averroes?' — Dr. Mansur: 'It is the journey of the Arab-Islamic intellect in pursuit of truth; where philosophers established principles of ontology and virtuous city, theologians defended faith with proof, and two Incoherences debate revealed Islamic thought's capacity for self-critique and entrenching principle that truth contradicts not truth.')",
+            "د. مريم: هل كانت الفلسفة مفيدة؟ — د. منصور: نعم كانت مفيدة في التاريخ القديم.",
+            "حوار فلسفي كلامي شامل ابن سينا فارابي غزالي ابن رشد سكون فتحة ضمة.",
+            "رفض الناس كل كتب الفلسفة واعتزلوها."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة التحليل الفلسفي الموسوعي في دمج: وجودية ابن سينا، مباحث المتكلمين (التحسين والكسب)، ومناظرة التهافتين وتوافق الحكمة والشريعة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u26-l5) باللغة العربية (مثال: «الفلسفة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الميدان الفكري الذي يدرس مبادئ الوجود والمعرفة والقيم في التراث الإسلامي (اكتب: «الفلسفة الإسلامية»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الفلسفة",
-            "الفلسفة"
+            "الفلسفة الإسلامية",
+            "الفلسفة الاسلامية",
+            "فلسفة إسلامية",
+            "فلسفة اسلامية",
+            "الفَلْسَفَةُ الإِسْلَامِيَّةُ",
+            "الفَلْسَفَة الإِسْلَامِيَّة"
           ],
-          "explanation": "المصطلح الصحيح هو «الفلسفة»."
+          "explanation": "الميدان هو «الفلسفة الإسلامية» (Islamic Philosophy)."
         }
       ],
       "passThreshold": 0.8
