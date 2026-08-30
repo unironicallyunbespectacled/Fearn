@@ -10637,85 +10637,89 @@
     "subject": "arabic",
     "unit": 18,
     "lessonNumber": 1,
-    "title": "الأوزان الصرفية المزيدة (Derived Verb Forms II-X) (الدرس 1)",
+    "title": "الأوزان المزيدة بحرف: التضعيف والمشاركة والتعدية (Forms II, III, IV: Fa''ala, Fā'ala, Af'ala)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: الأوزان المزيدة من الوزن الثاني إلى العاشر، ودلالاتها المعنوية (التعدية، المشاركة، المطاوعة، الطلب). (الجزء 1).",
+    "objective": "إتقان صياغة ودلالات الأوزان المزيدة بحرف واحد (الوزن الثاني: فَعَّلَ يُفَعِّلُ، الوزن الثالث: فَاعَلَ يُفَاعِلُ، الوزن الرابع: أَفْعَلَ يُفْعِلُ) ومعاني التكثير والتعدية والمشاركة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يقوم الصرف العربي على زيادة أحرف معينة على الجذر الثلاثي المجرد (فـ عـ ل) لتوليد معانٍ جديدة ودقيقة:\n\nأولاً: أوزان الزيادة بحرف واحد (Three 1-Letter Derived Forms):\n1.【الوزن الثاني (Form II): فَعَّلَ / يُفَعِّلُ / تَفْعِيل】:\n   - الزيادة: تضعيف (تشديد) عين الفعل.\n   - الدلالات المعنوية:\n     * التكثير والمبالغة: (قَطَّعَ الخَشَبَ: قطّعه قطعًا كثيرة، كَسَّرَ، غَلَّقَ).\n     * التعدية (جعل اللازم متعديًا): (عَلِمَ -> عَلَّمَ، فَهِمَ -> فَهَّمَ، نَجَحَ -> نَجَّحَ).\n     * النسبة والتحويل: (طَوَّرَ، نَظَّفَ، قَدَّمَ، رَتَّبَ، سَلَّمَ).\n\n2.【الوزن الثالث (Form III): فَاعَلَ / يُفَاعِلُ / مُفَاعَلَة】:\n   - الزيادة: ألف زائدة بعد فاء الفعل.\n   - الدلالات المعنوية:\n     * المشاركة بين طرفين: (شَارَكَ، سَاعَدَ، نَاقَشَ، حَاوَرَ، قَابَلَ، صَافَحَ).\n     * الموالاة والمتابعة: (تَابَعَ، وَاصَلَ).\n\n3.【الوزن الرابع (Form IV): أَفْعَلَ / يُفْعِلُ / إِفْعَال】:\n   - الزيادة: همزة قطع في أول الفعل.\n   - الدلالات المعنوية:\n     * التعدية الصريحة: (خَرَجَ -> أَخْرَجَ، رَسَلَ -> أَرْسَلَ، عْلَنَ -> أَعْلَنَ، أَنْجَزَ، أَكْرَمَ، أَنْشَأَ).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)» بأسلوب أكاديمي دقيق (18.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الأوزان الصرفية المزيدة (Derived Verb Forms II-X)' to students in an accurate academic style."
+          "target": "يُعَلِّمُ الأُسْتَاذُ طُلَّابَهُ قَوَاعِدَ الصَّرْفِ وَيُطَوِّرُ مَهَارَاتِهِمُ اللُّغَوِيَّةَ.(Yuʿallimu al-ustādhu ṭullābahu qawāʿida aṣ-ṣarfi wa-yuṭawwiru mahārātihimu al-lughawiyyah.)",
+          "reading": "[ju.ʕal.li.mu‿l.ʔus.taː.ðu tˤul.laː.ba.hu qa.waː.ʕi.da‿sˤ.sˤar.fi wa.ju.tˤaw.wi.ru ma.haː.raː.ti.hi.mu‿l.lu.ɣa.wij.jah] (Yu-ʿal-li-mu al-us-tā-dhu ṭul-lā-ba-hu qa-wā-ʿi-da aṣ-ṣar-fi wa-yu-ṭaw-wi-ru ma-hā-rā-ti-hi-mu al-lu-gha-wiy-yah.)",
+          "translation": "The professor teaches his students the rules of morphology and develops their language skills."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (18.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يُشَارِكُ البَاحِثُ فِي المُؤْتَمَرِ الدَّوْلِيِّ وَيُنَاقِشُ زُمَلَاءَهُ فِي النَّتَائِجِ العِلْمِيَّةِ.(Yushāriku al-bāḥithu fī al-muʾtamari ad-dawliyyi wa-yunāqishu zumalāʾahu fī an-natāʾiji al-ʿilmiyyah.)",
+          "reading": "[ju.ʃaː.ri.ku‿l.baː.ħi.θu fiː‿l.muʔ.ta.ma.ri‿d.daw.lij.ji wa.ju.naː.qi.ʃu zu.ma.laː.ʔa.hu fiː‿n.na.taː.ʔi.ʒi‿l.ʕil.mij.jah] (Yu-shā-ri-ku al-bā-ḥi-thu fī al-muʾ-ta-ma-ri ad-daw-liy-yi wa-yu-nā-qi-shu zu-ma-lā-ʾa-hu fī an-na-tā-ʾi-ji al-ʿil-miy-yah.)",
+          "translation": "The researcher participates in the international conference and discusses the scientific results with his colleagues."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (18.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "أَرْسَلَتِ الجَامِعَةُ دَعْوَةً رَسْمِيَّةً وَأَعْلَنَتْ عَنْ بَدْءِ العَامِ الدِّرَاسِيِّ الجَدِيدِ.(Arsalati al-jāmiʿatu daʿwatan rasmiyyatan wa-aʿlanat ʿan badʾi al-ʿāmi ad-dirāsiyyi al-jadīd.)",
+          "reading": "[ʔar.sa.la.ti‿l.ʒaː.mi.ʕa.tu daʕ.wa.tan ras.mij.ja.tan wa.ʔaʕ.la.nat ʕan bad.ʔi‿l.ʕaː.mi‿d.di.raː.sij.ji‿l.ʒa.diːd] (Ar-sa-la-ti al-jā-mi-ʿa-tu daʿ-wa-tan ras-miy-ya-tan wa-aʿ-la-nat ʿan bad-ʾi al-ʿā-mi ad-di-rā-siy-yi al-ja-dīd.)",
+          "translation": "The university sent an official invitation and announced the start of the new academic year."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (18.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تُحَوِّلُ صِيغَةُ (أَفْعَلَ) الفِعْلَ اللَّازِمَ إِلَى فِعْلٍ مُتَعَدٍّ لِمَفْعُولٍ بِهِ بِفَضْلِ هَمْزَةِ التَّعْدِيَةِ.(Tuḥawwilu ṣīghatu (afʿala) al-fiʿla al-lāzima ilā fiʿlin mutaʿaddin li-mafʿūlin bihi bi-faḍli hamzati at-taʿdiyah.)",
+          "reading": "[tu.ħaw.wi.lu sˤiː.ɣa.tu (ʔaf.ʕa.la)‿l.fiʕ.la‿l.laː.zi.ma ʔi.laː fiʕ.lin mu.ta.ʕad.din li.maf.ʕuː.lin bi.hi bi.fadˤ.li ham.za.ti‿t.taʕ.di.jah] (Tu-ḥaw-wi-lu ṣī-gha-tu (af-ʿa-la) al-fiʿ-la al-lā-zi-ma i-lā fiʿ-lin mu-ta-ʿad-din li-maf-ʿū-lin bi-hi bi-faḍ-li ham-za-ti at-taʿ-di-yah.)",
+          "translation": "The formula (af'ala) transforms the intransitive verb into a transitive verb with an object thanks to the causative hamzah."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فَعَّلَ لِلتَّكْثِيرِ وَفَاعَلَ لِلْمُشَارَكَهْ، وَأَفْعَلَ لِلتَّعْدِيَةِ تَنْسَابُ فِي الحَرَكَهْ!"
+      ],
+      "culturalNotes": [
+        "علماء الصرف العرب (كالخليل وسيبويه) جعلوا الميزان الصرفي على أحرف (فـ عـ ل) لأن الفعل هو أصل الحركة والحدث في الكون."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)» (الدرس 1)؟",
+          "prompt": "ما هو الوزن الصرفي للفعل «شَارَكَ» وما دلالته المعنوية الأساسية؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)» بأسلوب أكاديمي دقيق (18.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (18.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (18.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (18.1.w3)"
+            "وَزْنُ «فَاعَلَ» (Form III) وَدَلَالَتُهُ المُشَارَكَةُ بَيْنَ طَرَفَيْنِ (Reciprocity & participation)",
+            "وزن أفعل للتعدية فقط",
+            "وزن انفعل للمطاوعة",
+            "وزن فعلل الرباعي"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«شَارَكَ» على وزن «فَاعَلَ» ومصدره «مُشَارَكَة»، ويدل على المشاركة التفاعلية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما الذي تفعله همزة التعدية في وزن «أَفْعَلَ» (مثل: خَرَجَ -> أَخْرَجَ)؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "تُحَوِّلُ الفِعْلَ اللَّازِمَ إِلَى فِعْلٍ مُتَعَدٍّ يَنْصِبُ مَفْعُولاً بِهِ (Makes the intransitive verb transitive)",
+            "تحوله إلى فعل ماض مجزوم",
+            "تجعله يدل على لون أو عيب فقط",
+            "تحذفه من الجملة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "همزة التعدية في «أَفْعَلَ» تنقل الفعل من اللزوم إلى التعدي (أخرج الطالبَ، أرسل الرسالةَ)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u18-l1):",
+          "prompt": "اختر الجملة التي توظف الأوزان المزيدة بحرف (فَعَّلَ، فَاعَلَ، أَفْعَلَ) بدقة صرفية ومعنوية تامة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (18.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (18.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (18.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (18.1.x3)"
+            "عَلَّمَ المُدَرِّبُ اللَّاعِبِينَ وَسَاعَدَهُمْ عَلَى تَطْوِيرِ مَهَارَاتِهِمْ، ثُمَّ أَعْلَنَ الفَوْزَ. (The coach taught the players and helped them develop their skills, then announced the victory.)",
+            "علم المدرب في المطار فوق البحر بلا صلة",
+            "الافعال تاكل الاوزان في الصرف",
+            "فعل فاعل افعل تدريب اعلان سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة توظف «عَلَّمَ / تَطْوِير» (Form II)، «سَاعَدَ» (Form III)، و«أَعْلَنَ» (Form IV) بسبك صرفي بديع وسليم."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)»؟",
+          "prompt": "ما الفرق المعنوي بين «عَلِمَ زَيْدٌ الخَبَرَ» و«عَلَّمَ زَيْدٌ عَمْرًا الخَبَرَ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (18.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (18.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (18.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (18.1.y3)"
+            "«عَلِمَ» ثُلَاثِيٌّ لِمَعْرِفَةِ الشَّخْصِ نَفْسِهِ، وَ«عَلَّمَ» مَزِيدٌ بِالتَّضْعِيفِ لِتَعْدِيَتِهِ وَتَعْلِيمِ غَيْرِهِ (Knowledge vs Teaching/Causative)",
+            "كلاهما مجزوم بالسكون",
+            "لا يوجد اي فرق معنوي بينهما",
+            "علم تدل على النسيان"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "التضعيف في «عَلَّمَ» نقل الفعل من مجرد المعرفة إلى إكساب المعرفة للغير (التعدية)."
         }
       ]
     },
@@ -10723,24 +10727,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 18-1)؟",
+          "prompt": "اختر النص الصرفي الذي يجمع بين الأوزان الثلاثة المزيدة بحرف (فَعَّلَ، فَاعَلَ، أَفْعَلَ) بأعلى درجات الفصاحة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (18.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (18.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (18.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (18.1.z3)"
+            "أَنْجَزَ البَاحِثُ دِرَاسَتَهُ العِلْمِيَّةَ، ثُمَّ قَدَّمَ النَّتَائِجَ لِلْمَجْمَعِ اللُّغَوِيِّ وَنَاقَشَ الأَسَاتِذَةَ فِي تَطْبِيقَاتِهَا العَمَلِيَّةِ لِتَطْوِيرِ مَنَاهِجِ التَّعْلِيمِ. (The researcher accomplished his scientific study, then presented the results to the linguistic academy and discussed their practical applications with the professors to develop education curricula.)",
+            "انجز الباحث بالافعال المجردة فقط بلا اوزان مزيدة بحرف.",
+            "فعل فاعل افعل انجز قدم ناقش تطوير سكون فتحة ضمة.",
+            "توقفت الدراسة ولم ينجز الباحث اي بحث."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين: «أَنْجَزَ» (أَفْعَلَ - Form IV)، «قَدَّمَ / تَطْوِير / التَّعْلِيم» (فَعَّلَ - Form II)، و«نَاقَشَ» (فَاعَلَ - Form III) بإتقان بياني باهر."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u18-l1) باللغة العربية (مثال: «الأوزان»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الحرف الزائد في وزن «فَعَّلَ» (اكتب: «التضعيف» أو «الشدة»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الأوزان",
-            "الأوزان"
+            "التضعيف",
+            "الشدة",
+            "تضعيف",
+            "شدة",
+            "التَّضْعِيفُ",
+            "الشَّدَّةُ"
           ],
-          "explanation": "المصطلح الصحيح هو «الأوزان»."
+          "explanation": "الزيادة هي «التضعيف» (تضعيف العين)."
         }
       ],
       "passThreshold": 0.8
@@ -10751,85 +10759,89 @@
     "subject": "arabic",
     "unit": 18,
     "lessonNumber": 2,
-    "title": "الأوزان الصرفية المزيدة (Derived Verb Forms II-X) (الدرس 2)",
+    "title": "الأوزان المزيدة بحرفين: المطاوعة والمشاركة والتكلف (Forms V, VI, VII: Tafa''ala, Tafā'ala, Infa'ala)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: الأوزان المزيدة من الوزن الثاني إلى العاشر، ودلالاتها المعنوية (التعدية، المشاركة، المطاوعة، الطلب). (الجزء 2).",
+    "objective": "إتقان صياغة ودلالات الأوزان المزيدة بحرفين (الوزن الخامس: تَفَعَّلَ يَتَفَعَّلُ، الوزن السادس: تَفَاعَلَ يَتَفَاعَلُ، الوزن السابع: انْفَعَلَ يَنْفَعِلُ) ودلالات المطاوعة والتكلف والتشارك.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تتضمن الأوزان المزيدة بحرفين دلالات بلاغية ونفسية دقيقة في تصوير الأحداث:\n\nأولاً: أوزان الزيادة بحرفين (Forms V, VI, VII):\n1.【الوزن الخامس (Form V): تَفَعَّلَ / يَتَفَعَّلُ / تَفَعُّل】:\n   - الزيادة: تاء في أوله وتضعيف العين.\n   - الدلالات:\n     * مطاوعة الوزن الثاني (فَعَّلَ): (عَلَّمْتُهُ فَتَعَلَّمَ، كَسَّرْتُهُ فَتَكَسَّرَ، نَبَّهْتُهُ فَتَنَبَّهَ).\n     * التكلف والتدريج: (تَصَبَّرَ: تكلّف الصبر، تَشَجَّعَ، تَفَهَّمَ، تَقَدَّمَ، تَطَوَّرَ، تَكَلَّمَ).\n\n2.【الوزن السادس (Form VI): تَفَاعَلَ / يَتَفَاعَلُ / تَفَاعُل】:\n   - الزيادة: تاء في أوله وألف بعد الفاء.\n   - الدلالات:\n     * المشاركة العامة التفاعلية بين طرفين فأكثر: (تَعَاوَنَ، تَشَاوَرَ، تَبَادَلَ، تَقَاسَمَ، تَنَافَسَ).\n     * التظاهر بصفة غير حقيقية: (تَمَارَضَ: أظهر أنه مريض، تَجَاهَلَ: أظهر الجهل، تَنَاعَسَ).\n\n3.【الوزن السابع (Form VII): انْفَعَلَ / يَنْفَعِلُ / انْفِعَال】:\n   - الزيادة: همزة وصل ونون في أوله.\n   - الدلالات:\n     * المطاوعة الخالصة للفعل الثلاثي المتعدي ليصبح لازمًا (قبول الأثر دون جهد من المفعول):\n       (كَسَرْتُ الإِنَاءَ فَانْكَسَرَ، فَتَحْتُ البَابَ فَانْفَتَحَ، انْطَلَقَ، انْدَمَجَ، انْسَحَبَ).\n   - تنبيه: لا يصاغ وزن «انْفَعَلَ» إلا من الأفعال العلاجية الحسية، ولا يُبنى للمجهول أبدًا.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)» بأسلوب أكاديمي دقيق (18.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الأوزان الصرفية المزيدة (Derived Verb Forms II-X)' to students in an accurate academic style."
+          "target": "تَعَلَّمَ الطَّالِبُ لُغَاتٍ جَدِيدَةً وَتَكَلَّمَ بِالفَصَاحَةِ بَعْدَ مُثَابَرَةٍ وَتَدْرِيبٍ.(Taʿallama aṭ-ṭālibu lughātin jadīdatan wa-takallama bi-al-faṣāḥati baʿda muthābaratin wa-tadrīb.)",
+          "reading": "[ta.ʕal.la.ma‿tˤ.tˤaː.li.bu lu.ɣaː.tin ʒa.diː.da.tan wa.ta.kal.la.ma bil.fa.sˤaː.ħa.ti baʕ.da mu.θaː.ba.ra.tin wa.tad.riːb] (Ta-ʿal-la-ma aṭ-ṭā-li-bu lu-ghā-tin ja-dī-da-tan wa-ta-kal-la-ma bi-al-fa-ṣā-ḥa-ti baʿ-da mu-thā-ba-ra-tin wa-tad-rīb.)",
+          "translation": "The student learned new languages and spoke with eloquence after perseverance and training."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (18.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تَعَاوَنَ أَعْضَاءُ الفَرِيقِ وَتَشَاوَرُوا لِإِنْجَازِ المَشْرُوعِ العِلْمِيِّ بِنَجَاحٍ.(Taʿāwana aʿḍāʾu al-farīqi wa-tashāwarū li-injāzi al-mashrūʿi al-ʿilmiyyi bi-najāḥ.)",
+          "reading": "[ta.ʕaː.wa.na ʔaʕ.dˤaː.ʔu‿l.fa.riː.qi wa.ta.ʃaː.wa.ruː li.ʔin.ʒaː.zi‿l.maʃ.ruː.ʕi‿l.ʕil.mij.ji bi.na.ʒaːħ] (Ta-ʿā-wa-na aʿ-ḍā-ʾu al-fa-rī-qi wa-ta-shā-wa-rū li-in-jā-zi al-mash-rū-ʿi al-ʿil-miy-yi bi-na-jāḥ.)",
+          "translation": "The team members cooperated and consulted with one another to accomplish the scientific project successfully."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (18.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "انْفَتَحَتْ أَبْوَابُ المَعْرِضِ فَانْطَلَقَ الزُّوَّارُ لِمُشَاهَدَةِ اللَّوْحَاتِ التَّشْكِيلِيَّةِ.(Infataḥat abwābu al-maʿriḍi fa-anṭalaqa az-zuwwāru li-mushāhadati al-lawḥāti at-tashkīliyyah.)",
+          "reading": "[in.fa.ta.ħat ʔab.waː.bu‿l.maʕ.ri.dˤi fan.tˤa.la.qa‿z.zuw.waː.ru li.mu.ʃaː.ha.da.ti‿l.law.ħaː.ti‿t.taʃ.kiː.lij.jah] (In-fa-ta-ḥat ab-wā-bu al-maʿ-ri-ḍi fa-an-ṭa-la-qa az-zuw-wā-ru li-mu-shā-ha-da-ti al-law-ḥā-ti at-tash-kī-liy-yah.)",
+          "translation": "The exhibition doors opened, so the visitors set out to view the plastic art paintings."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (18.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يَدُلُّ وَزْنُ «تَفَاعَلَ» عَلَى المُشَارَكَةِ التَّفَاعُلِيَّةِ بَيْنَ جَمِيعِ الأَطْرَافِ المُتَحَاوِرَةِ.(Yadullu waznu 'tafāʿala' ʿalā al-mushārakati at-tafāʿuliyyati bayna jamīʿi al-aṭrāfi al-mutaḥāwirah.)",
+          "reading": "[ja.dul.lu waz.nu «ta.faː.ʕa.la» ʕa.laː‿l.mu.ʃaː.ra.ka.ti‿t.ta.faː.ʕu.lij.ja.ti baj.na ʒa.miː.ʕi‿l.ʔatˤ.raː.fi‿l.mu.ta.ħaː.wi.rah] (Ya-dul-lu waz-nu 'ta-fā-ʿa-la' ʿa-lā al-mu-shā-ra-ka-ti at-ta-fā-ʿu-liy-ya-ti bay-na ja-mī-ʿi al-aṭ-rā-fi al-mu-ta-ḥā-wi-rah.)",
+          "translation": "The formula 'tafā'ala' indicates interactive participation among all discussing parties."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "تَفَعَّلَ لِلتَّعَلُّمِ وَالتَّطَوُّرِ النَّابِضْ، وَتَفَاعَلَ لِلتَّعَاوُنِ، وَانْفَعَلَ لِلْمُطَاوِعِ النَّاهِضْ!"
+      ],
+      "culturalNotes": [
+        "صيغة «تَفَاعَلَ» ارتبطت في الثقافة العربية بقيم التضامن والمروءة؛ فأفعال مثل «تَكَافَلَ»، «تَرَاحَمَ»، «تَعَاضَدَ» تعبر عن المسؤولية المجتمعية المشتركة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)» (الدرس 2)؟",
+          "prompt": "ما المعنى الصرفي الذي يفيده وزن «تَفَاعَلَ» في مثل قولنا: «تَمَارَضَ الرَّجُلُ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)» بأسلوب أكاديمي دقيق (18.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (18.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (18.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (18.2.w3)"
+            "التَّظَاهُرُ وَادِّعَاءُ الصِّفَةِ دُونَ حَقِيقَةٍ (Pretence / Feigning illness)",
+            "المطاوعة",
+            "التعدية لمفعولين",
+            "الطلب الصريح"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«تَمَارَضَ» و«تَجَاهَلَ» على وزن «تَفَاعَلَ» ويفيدان إظهار الصفة والادعاء بغير حقيقة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الوزن الصرفي في جملة «كَسَرْتُ الكَأْسَ فَانْكَسَرَ» وما فائدته المعنوية؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "وَزْنُ «انْفَعَلَ» (Form VII) وَفَائِدَتُهُ المُطَاوَعَةُ (Mutāwa'ah - Passive compliance)",
+            "وزن تفعل للتكلف",
+            "وزن فاعل للمشاركة",
+            "وزن استفعل للطلب"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«انْكَسَرَ» على وزن «انْفَعَلَ» وهو يفيد مطاوعة الفعل الثلاثي المتعدي (كَسَرَ)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u18-l2):",
+          "prompt": "اختر الجملة التي تستخدم الأوزان المزيدة بحرفين (تَفَعَّلَ، تَفَاعَلَ، انْفَعَلَ) بسياق فصيح مترابط:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (18.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (18.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (18.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (18.2.x3)"
+            "تَعَلَّمَ العُلَمَاءُ النَّظَرِيَّاتِ، ثُمَّ تَعَاوَنُوا فِي البَحْثِ فَانْطَلَقَتْ مَشَارِيعُهُمْ بِنَجَاحٍ. (The scholars learned the theories, then cooperated in research, so their projects launched successfully.)",
+            "تعلم العلماء في قاع المحيط بلا تنفس",
+            "الافعال تتشاجر في المعجم",
+            "تعلم تعاون انطلق تفعل تفاعل انفعل سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة توظف «تَعَلَّمَ» (تَفَعَّلَ)، «تَعَاوَنُوا» (تَفَاعَلَ)، و«انْطَلَقَتْ» (انْفَعَلَ) بتكامل سياقي ممتاز."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)»؟",
+          "prompt": "لماذا لا يصاغ اسم المفعول أو المبني للمجهول من وزن «انْفَعَلَ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (18.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (18.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (18.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (18.2.y3)"
+            "لأَنَّهُ فِعْلٌ لَازِمٌ دَائِمًا يَدُلُّ عَلَى المُطَاوَعَةِ وَقَبُولِ الأَثَرِ (Because it is always intransitive reflecting mutawa'ah)",
+            "لأنه فعل ماض فقط",
+            "لأنه ممنوع من الصرف",
+            "لأنه ينتهي بحرف علة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "أفعال وزن «انْفَعَلَ» لازمة بطبيعتها المعنوية (انكسر، انفتح، انطلق) فلا تبنى للمجهول لعدم وجود مفعول به."
         }
       ]
     },
@@ -10837,24 +10849,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 18-2)؟",
+          "prompt": "اختر النص الذي يدمج الأوزان المزيدة بحرفين (Forms V, VI, VII) في سياق سردي وفكري بليغ:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (18.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (18.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (18.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (18.2.z3)"
+            "تَطَوَّرَتِ الأَبْحَاثُ اللُّغَوِيَّةُ حِينَ تَبَادَلَ الأَكَادِيمِيُّونَ آرَاءَهُمْ وَتَشَاوَرُوا بِعُمْقٍ، فَانْفَتَحَتْ أَمَامَهُمْ آفَاقٌ مَعْرِفِيَّةٌ جَدِيدَةٌ سَاعَدَتْ عَلَى انْدِمَاجِ اللِّسَانِيَّاتِ فِي عُلُومِ العَصْرِ. (Linguistic research evolved when academics exchanged their opinions and consulted deeply, so new knowledge horizons opened before them helping the integration of linguistics into modern sciences.)",
+            "تطورت الابحاث بالافعال المجردة فقط بلا اوزان مزيدة بحرفين.",
+            "تفعل تفاعل انفعل تطور تبادل انفتح اندماج سكون فتحة ضمة.",
+            "تراجعت الابحاث وتوقف التبادل بين العلماء."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يدمج بدقة: «تَطَوَّرَتْ» (تَفَعَّلَ - Form V)، «تَبَادَلَ / تَشَاوَرُوا» (تَفَاعَلَ - Form VI)، و«انْفَتَحَتْ / انْدِمَاج» (انْفَعَلَ - Form VII)."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u18-l2) باللغة العربية (مثال: «الأوزان»):",
+          "prompt": "اكتب باللغة العربية الفصحى الوزن الصرفي للفعل «تَعَاوَنَ» (اكتب: «تَفَاعَلَ»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الأوزان",
-            "الأوزان"
+            "تفاعل",
+            "تَفَاعَلَ",
+            "تَفَاعَل",
+            "التفاعل"
           ],
-          "explanation": "المصطلح الصحيح هو «الأوزان»."
+          "explanation": "الوزن الصرفي هو «تَفَاعَلَ»."
         }
       ],
       "passThreshold": 0.8
@@ -10865,85 +10879,89 @@
     "subject": "arabic",
     "unit": 18,
     "lessonNumber": 3,
-    "title": "الأوزان الصرفية المزيدة (Derived Verb Forms II-X) (الدرس 3)",
+    "title": "الأوزان المزيدة المتقدمة: الافتعال والطلب والاستفعال (Forms VIII, IX, X: Ifta'ala, If'alla, Istaf'ala)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: الأوزان المزيدة من الوزن الثاني إلى العاشر، ودلالاتها المعنوية (التعدية، المشاركة، المطاوعة، الطلب). (الجزء 3).",
+    "objective": "إتقان صياغة ودلالات الأوزان المزيدة المتقدمة (الوزن الثامن: افْتَعَلَ يَفْتَعِلُ، الوزن التاسع: افْعَلَّ يَفْعَلُّ، الوزن العاشر: اسْتَفْعَلَ يَسْتَفْعِلُ) ومعاني الطلب والاتخاذ والألوان.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تمثل الأوزان المتقدمة قمة التوليد الصرفي في اللغة العربية لما تحمله من معانٍ دقيقة:\n\nأولاً: أوزان الزيادة المتقدمة (Forms VIII, IX, X):\n1.【الوزن الثامن (Form VIII): افْتَعَلَ / يَفْتَعِلُ / افْتِعَال】:\n   - الزيادة: همزة وصل في أوله وتاء بعد فاء الفعل.\n   - الدلالات المعنوية:\n     * الاجتهاد والاكتساب: (كَسَبَ -> اكْتَسَبَ: بذل جهدًا عظيمًا في الكسب).\n     * الاتخاذ والجمع: (جَمَعَ -> اجْتَمَعَ، شَرَكَ -> اشْتَرَكَ، حَفَلَ -> احْتَفَلَ، اقْتَرَحَ، ابْتَكَرَ، اسْتَمَعَ).\n\n2.【الوزن التاسع (Form IX): افْعَلَّ / يَفْعَلُّ / افْعِلَال】:\n   - الزيادة: همزة وصل في أوله وتضعيف لامه.\n   - الدلالات المعنوية:\n     * الدخول في الألوان والعيوب الحسية بقوة وثبات: (احْمَرَّ، اخْضَرَّ، اصْفَرَّ، ابْيَضَّ، اعْوَجَّ).\n\n3.【الوزن العاشر (Form X): اسْتَفْعَلَ / يَسْتَفْعِلُ / اسْتِفْعَال】:\n   - الزيادة: ألف وسين وتاء (استـ) في أول الفعل.\n   - الدلالات المعنوية:\n     * طَلَبُ الفِعْلِ: (اسْتَغْفَرَ: طلب المغفرة، اسْتَفْسَرَ: طلب التفسير، اسْتَشَارَ: طلب المشورة، اسْتَخْدَمَ: طلب الخدمة والعمل، اسْتَرْشَدَ: طلب الرشد).\n     * الصَّيْرُورَةُ وَالتَّحَوُّلُ: (اسْتَحْجَرَ الطِّينُ: تحول إلى حجر).\n     * اعْتِقَادُ الصِّفَةِ: (اسْتَحْسَنَ: رآه حسنًا، اسْتَعْظَمَ: رآه عظيمًا).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)» بأسلوب أكاديمي دقيق (18.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الأوزان الصرفية المزيدة (Derived Verb Forms II-X)' to students in an accurate academic style."
+          "target": "اجْتَمَعَ العُلَمَاءُ فِي القَاعَةِ الكُبْرَى وَاقْتَرَحُوا حُلُولًا مُبْتَكَرَةً لِحِمَايَةِ البِيئَةِ.(Ijtamaʿa al-ʿulamāʾu fī al-qāʿati al-kubrā wa-aqtaraḥū ḥulūlan mubtakaratan li-ḥimāyati al-bīʾah.)",
+          "reading": "[iʒ.ta.ma.ʕa‿l.ʕu.la.maː.ʔu fiː‿l.qaː.ʕa.ti‿l.kub.raː waq.ta.ra.ħuː ħu.luː.lan mub.ta.ka.ra.tan li.ħi.maː.ja.ti‿l.biː.ʔah] (Ij-ta-ma-ʿa al-ʿu-la-mā-ʾu fī al-qā-ʿa-ti al-kub-rā wa-aq-ta-ra-ḥū ḥu-lū-lan mub-ta-ka-ra-tan li-ḥi-mā-ya-ti al-bī-ʾah.)",
+          "translation": "The scholars met in the grand hall and proposed innovative solutions to protect the environment."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (18.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "اسْتَفْسَرَ الطَّالِبُ عَنِ المَسْأَلَةِ وَاسْتَشَارَ أُسْتَاذَهُ لِيَسْتَفِيدَ مِنْ خِبْرَتِهِ.(Istafsara aṭ-ṭālibu ʿani al-masʾalati wa-astashāra ustādhahu li-yastafīda min khibratih.)",
+          "reading": "[is.taf.sa.ra‿tˤ.tˤaː.li.bu ʕa.ni‿l.mas.ʔa.la.ti was.ta.ʃaː.ra ʔus.taː.ða.hu li.jas.ta.fiː.da min xib.ra.tih] (Is-taf-sa-ra aṭ-ṭā-li-bu ʿa-ni al-mas-ʾa-la-ti wa-as-ta-shā-ra us-tā-dha-hu li-yas-ta-fī-da min khib-ra-tih.)",
+          "translation": "The student inquired about the question and consulted his professor to benefit from his expertise."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (18.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "اخْضَرَّتِ الأَشْجَارُ فِي فَصْلِ الرَّبِيعِ وَاحْمَرَّتْ ثِمَارُ البَسَاتِينِ رَوْعَةً وَنَضَارَةً.(Ikhḍarrati al-ashjāru fī faṣli ar-rabīʿi wa-aḥmarrat thimāru al-basātīni rawʿatan wa-naḍārah.)",
+          "reading": "[ix.dˤar.ra.ti‿l.ʔaʃ.ʒaː.ru fiː fasˤ.li‿r.ra.biː.ʕi waħ.mar.rat θi.maː.ru‿l.ba.saː.tiː.ni raw.ʕa.tan wa.na.dˤaː.rah] (Ikh-ḍar-ra-ti al-ash-jā-ru fī faṣ-li ar-ra-bī-ʿi wa-aḥ-mar-rat thi-mā-ru al-ba-sā-tī-ni raw-ʿa-tan wa-na-ḍā-rah.)",
+          "translation": "The trees turned green in spring and the garden fruits reddened in magnificence and freshness."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (18.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تَدُلُّ صِيغَةُ (اسْتَفْعَلَ) فِي غَالِبِ اسْتِعْمَالَاتِهَا عَلَى طَلَبِ حُصُولِ الفِعْلِ كَالاسْتِفْسَارِ وَالاسْتِغْفَارِ.(Tadullu ṣīghatu (istafʿala) fī ghālibi istiʿmālātihā ʿalā ṭalabi ḥuṣūli al-fiʿli ka-al-istifsāri wa-al-istighfār.)",
+          "reading": "[ta.dul.lu sˤiː.ɣa.tu (is.taf.ʕa.la) fiː ɣaː.li.bi‿s.tiʕ.maː.laː.ti.haː ʕa.laː tˤa.la.bi ħu.sˤuː.li‿l.fiʕ.li kal.ʔis.tif.saː.ri wal.ʔis.tiɣ.faːr] (Ta-dul-lu ṣī-gha-tu (is-taf-ʿa-la) fī ghā-li-bi is-tiʿ-mā-lā-ti-hā ʿa-lā ṭa-la-bi ḥu-ṣū-li al-fiʿ-li ka-al-is-tif-sā-ri wa-al-is-tigh-fār.)",
+          "translation": "The formula (istaf'ala) in most of its usages indicates requesting the occurrence of the action, such as inquiry and seeking forgiveness."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "افْتَعَلَ لِلِاجْتِهَادِ وَالمُرَادْ، وَاسْتَفْعَلَ لِطَلَبِ الفِعْلِ فِي كُلِّ وِهَادْ!"
+      ],
+      "culturalNotes": [
+        "صيغة «اسْتَفْعَلَ» (الطلب) من أكثر الأوزان استعمالاً في لغة العلم والبحث المعاصر؛ ككلمات: «اسْتِقْرَاء»، «اسْتِنْبَاط»، «اسْتِخْرَاج»، «اسْتِعْمَال»."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)» (الدرس 3)؟",
+          "prompt": "ما المعنى الصرفي الأساسي للزيادة بالألف والسين والتاء في وزن «اسْتَفْعَلَ» في كلمة «اسْتَغْفَرَ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)» بأسلوب أكاديمي دقيق (18.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (18.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (18.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (18.3.w3)"
+            "طَلَبُ الفِعْلِ (Requesting / Seeking forgiveness)",
+            "المطاوعة الخالصة",
+            "التظاهر بالمرض",
+            "المبالغة في اللون"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«اسْتَغْفَرَ» تعني طلب المغفرة من الله تعالى، فالهمزة والسين والتاء تفيد الطلب."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "إلى أي الأوزان الصرفية ينتمي الفعل «احْتَفَلَ» وما وزنه؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "وَزْنُ «افْتَعَلَ» (Form VIII - Ifta'ala)",
+            "وزن انفعل",
+            "وزن تفاعل",
+            "وزن استفعل"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«احْتَفَلَ» على وزن «افْتَعَلَ» ومصدره «احْتِفَال»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u18-l3):",
+          "prompt": "اختر الجملة التي تعبر عن وزن «افْعَلَّ» الدال على تمكن اللون بدقة وبلاغة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (18.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (18.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (18.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (18.3.x3)"
+            "احْمَرَّتْ وَجْنَتَا الطِّفْلِ خَجَلًا وَاخْضَرَّتِ الرِّيَاضُ بَعْدَ هُطُولِ المَطَرِ. (The child's cheeks blushed with shyness and the meadows turned green after rainfall.)",
+            "احمرت الشجرة بالافعال الماضية بلا لون",
+            "اللون يركض خلف الاستفعال",
+            "اخضر احمر اصفر افعل افتعل سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«احْمَرَّتْ» و«اخْضَرَّتْ» على وزن «افْعَلَّ» للدلالة على قوة وثبات اللون."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)»؟",
+          "prompt": "ما معنى «اسْتَحْجَرَ الطِّينُ» وفق دلالات وزن «اسْتَفْعَلَ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (18.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (18.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (18.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (18.3.y3)"
+            "صَارَ وَتَحَوَّلَ كَالحَجَرِ فِي الصَّلَابَةِ (Transformation / Becoming stone-like)",
+            "طلب الحجر من غيره",
+            "كسر الحجر",
+            "جلس فوق الحجر"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«اسْتَحْجَرَ» يفيد الصيرورة والتحول، أي صار مثل الحجر."
         }
       ]
     },
@@ -10951,24 +10969,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 18-3)؟",
+          "prompt": "اختر النص الذي يوظف الأوزان المتقدمة (Forms VIII, IX, X) في سياق علمي وطبيعي بديع:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (18.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (18.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (18.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (18.3.z3)"
+            "اجْتَمَعَ البَاحِثُونَ فِي الوَاحَةِ حَيْثُ اخْضَرَّتِ النَّخِيلُ، وَاسْتَفْسَرُوا عَنِ الوَسَائِلِ الَّتِي اسْتَخْدَمَهَا الأَجْدَادُ لِاسْتِخْرَاجِ المِيَاهِ الجَوْفِيَّةِ. (The researchers met in the oasis where the palms turned green, and inquired about the means which ancestors used to extract groundwater.)",
+            "اجتمع الباحثون بالافعال المجردة فقط بلا اوزان متقدمة.",
+            "افتعل افعل استفعل اجتمع اخضر استفسر استخدم استخراج سكون.",
+            "الغيت الرحلة العلمية ولم يجتمع الباحثون."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين: «اجْتَمَعَ» (افْتَعَلَ - Form VIII)، «اخْضَرَّتْ» (افْعَلَّ - Form IX)، و«اسْتَفْسَرُوا / اسْتَخْدَمَ / اسْتِخْرَاج» (اسْتَفْعَلَ - Form X) بسبك فصيح غاية في الإتقان."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u18-l3) باللغة العربية (مثال: «الأوزان»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الوزن الصرفي للفعل «اسْتَخْدَمَ» (اكتب: «اسْتَفْعَلَ»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الأوزان",
-            "الأوزان"
+            "استفعل",
+            "اسْتَفْعَلَ",
+            "اسْتَفْعَل",
+            "الاستفعال",
+            "استفعال"
           ],
-          "explanation": "المصطلح الصحيح هو «الأوزان»."
+          "explanation": "الوزن الصرفي هو «اسْتَفْعَلَ»."
         }
       ],
       "passThreshold": 0.8
@@ -10979,85 +11000,89 @@
     "subject": "arabic",
     "unit": 18,
     "lessonNumber": 4,
-    "title": "الأوزان الصرفية المزيدة (Derived Verb Forms II-X) (الدرس 4)",
+    "title": "الاشتقاق التوليدي ودلالات الأوزان في الفكر العربي (Generative Morphology & Semantic Nuances)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: الأوزان المزيدة من الوزن الثاني إلى العاشر، ودلالاتها المعنوية (التعدية، المشاركة، المطاوعة، الطلب). (الجزء 4).",
+    "objective": "استيعاب قدرة الاشتقاق التوليدي على توليد شبكات دلالية متكاملة من الجذر الثلاثي الواحد عبر الأوزان المزيدة، وتحليل الفروق المعنوية الدقيقة وقاعدة زيادة المبنى.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تتجلى عبقرية اللغة العربية وفلسفتها في نظام «الاشتقاق التوليدي» الذي يحول الجذر الثلاثي البسيط إلى عشرات الكلمات ذات المعاني المحكمة:\n\nأولاً: شبكة الاشتقاق من الجذر الواحد (Derivational Semantic Network):\n1.【جذر (ع - ل - م)】:\n   - عَلِمَ (Form I): أدرك الشيء على حقيقته.\n   - عَلَّمَ (Form II): لقّن المعرفة ونقلها لغيره.\n   - أَعْلَمَ (Form IV): أبلغ بالخبر وأخبره.\n   - تَعَلَّمَ (Form V): بذل جهدًا وتدرج في تحصيل العلم.\n   - تَعَالَمَ (Form VI): ادعى العلم وليس بعالم.\n   - اسْتَعْلَمَ (Form X): طلب معرفة الخبر واستفسر عنه.\n\n2.【جذر (ش - ر - ك)】:\n   - شَرِكَ (Form I): كان له نصيب في ملك.\n   - شَارَكَ (Form III): ساهم وتعاون مع شخص آخر.\n   - اشْتَرَكَ (Form VIII): انضم إلى جماعة في أمر موحد.\n   - اسْتَشْرَكَ (Form X): طلب لنفسه شريكًا.\n\nثانياً: القاعدة الأصولية الكبرى:\n- «زِيَادَةُ المَبْنَى تَدُلُّ عَلَى زِيَادَةِ المَعْنَى» (قررها ابن جني في «الخصائص»)، فكل حرف زائد في بنية الفعل يضيف بعدًا دلاليًا جديدًا ومحددًا.\n\nثالثاً: خدمة الاشتقاق للغة العلوم والترجمة الحديثة:\n- يتيح الاشتقاق صياغة مصطلحات الطب والهندسة والفلسفة (كـ: حَوْسَبَة، تَشْغِيل، اسْتِقْرَاء) دون الحاجة للاستعارة.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)» بأسلوب أكاديمي دقيق (18.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الأوزان الصرفية المزيدة (Derived Verb Forms II-X)' to students in an accurate academic style."
+          "target": "يُبْرِزُ الاشْتِقَاقُ الصَّرْفِيُّ كَيْفَ تَتَوَلَّدُ مَعَانٍ دَقِيقَةٌ مِنْ جَذْرٍ ثُلَاثِيٍّ وَاحِدٍ بِفَضْلِ حُرُوفِ الزِّيَادَةِ.(Yubrizu al-ishtiqqāqu aṣ-ṣarfiyyu kayfa tatawalladu maʿānin daqīqatun min jadhrin thulāthiyyin wāḥidin bi-faḍli ḥurūfi az-ziyādah.)",
+          "reading": "[jub.ri.zu‿l.ʔiʃ.ti.qaː.qu‿sˤ.sˤar.fij.ju kaj.fa ta.ta.wal.la.du ma.ʕaː.nin da.qiː.qa.tun min ʒað.rin θu.laː.θij.jin waː.ħi.din bi.fadˤ.li ħu.ruː.fi‿z.zi.jaː.dah] (Yub-ri-zu al-ish-ti-qā-qu aṣ-ṣar-fiy-yu kay-fa ta-ta-wal-la-du ma-ʿā-nin da-qī-qa-tun min jadh-rin thu-lā-thiy-yin wā-ḥi-din bi-faḍ-li ḥu-rū-fi az-zi-yā-dah.)",
+          "translation": "Morphological derivation highlights how precise meanings are generated from a single trilateral root thanks to increment letters."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (18.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "فَرَّقَ عُلَمَاءُ اللُّغَةِ بَيْنَ «عَلَّمَ» لِلتَّدْرِيسِ، وَ«تَعَلَّمَ» لِلِاكْتِسَابِ، وَ«تَعَالَمَ» لِادِّعَاءِ المَعْرِفَةِ.(Farraqa ʿulamāʾu al-lughati bayna 'ʿallama' li-at-tadrīsi, wa-'taʿallama' li-al-iktisābi, wa-'taʿālama' li-iddiʿāʾi al-maʿrifah.)",
+          "reading": "[far.ra.qa ʕu.la.maː.ʔu‿l.lu.ɣa.ti baj.na «ʕal.la.ma» lit.tad.riː.si, wa«ta.ʕal.la.ma» lil.ʔik.ti.saː.bi, wa«ta.ʕaː.la.ma» lid.di.ʕaː.ʔi‿l.maʕ.ri.fah] (Far-ra-qa ʿu-la-mā-ʾu al-lu-gha-ti bay-na 'ʿal-la-ma' li-at-tad-rī-si, wa-'ta-ʿal-la-ma' li-al-ik-ti-sā-bi, wa-'ta-ʿā-la-ma' li-id-di-ʿā-ʾi al-maʿ-ri-fah.)",
+          "translation": "Linguists distinguished between 'allama' for teaching, 'ta'allama' for acquiring, and 'ta'alama' for claiming knowledge."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (18.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يُمَكِّنُنَا النِّظَامُ الصَّرْفِيُّ العَرَبِيُّ مِنْ صِيَاغَةِ المُصْطَلَحَاتِ العِلْمِيَّةِ الحَدِيثَةِ بِأَعْلَى دَرَجَاتِ الدِّقَّةِ.(Yumakkinunā an-niẓāmu aṣ-ṣarfiyyu al-ʿarabiyyu min ṣiyāghati al-muṣṭalaḥāti al-ʿilmiyyati al-ḥadīthati bi-aʿlā darajāti ad-diqqah.)",
+          "reading": "[ju.mak.ki.nu.naː‿n.ni.zˤaː.mu‿sˤ.sˤar.fij.ju‿l.ʕa.ra.bij.ju min sˤi.jaː.ɣa.ti‿l.musˤ.tˤa.la.ħaː.ti‿l.ʕil.mij.ja.ti‿l.ħa.diː.θa.ti bi.ʔaʕ.laː da.ra.ʒaː.ti‿d.diq.qah] (Yu-mak-ki-nu-nā an-ni-ẓā-mu aṣ-ṣar-fiy-yu al-ʿa-ra-biy-yu min ṣi-yā-gha-ti al-muṣ-ṭa-la-ḥā-ti al-ʿil-miy-ya-ti al-ḥa-dī-tha-ti bi-aʿ-lā da-ra-jā-ti ad-diq-qah.)",
+          "translation": "The Arabic morphological system enables us to coin modern scientific terms with the highest degrees of precision."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (18.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "زِيَادَةُ المَبْنَى تَدُلُّ غَالِبًا فِي قَوَاعِدِ اللُّغَةِ العَرَبِيَّةِ عَلَى زِيَادَةِ المَعْنَى وَقُوَّتِهِ.(Ziyādatu al-mabnā tadullu ghāliban fī qawāʿidi al-lughati al-ʿarabiyyati ʿalā ziyādati al-maʿnā wa-quwwatih.)",
+          "reading": "[zi.jaː.da.tu‿l.mab.naː ta.dul.lu ɣaː.li.ban fiː qa.waː.ʕi.di‿l.lu.ɣa.ti‿l.ʕa.ra.bij.ja.ti ʕa.laː zi.jaː.da.ti‿l.maʕ.naː wa.quw.wa.tih] (Zi-yā-da-tu al-mab-nā ta-dul-lu ghā-li-ban fī qa-wā-ʿi-di al-lu-gha-ti al-ʿa-ra-biy-ya-ti ʿa-lā zi-yā-da-ti al-maʿ-nā wa-quw-wa-tih.)",
+          "translation": "Increase in form generally signifies an increase and strengthening of meaning in the rules of the Arabic language."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جَذْرٌ ثُلَاثِيٌّ وَأَوْزَانٌ مُجَنَّحَةٌ، تَفِيضُ بِالمَعْنَى فِي كُلِّ سَاحَةْ!"
+      ],
+      "culturalNotes": [
+        "ابن جني في كتابه الخالد «الخصائص» شرح بعمق فلسفة الاشتقاق الأكبر والأصغر، مبينًا التناسب المذهل بين الحروف ومخارجها الصوتية وحركة المعاني في النفس الإنسانية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)» (الدرس 4)؟",
+          "prompt": "ما القاعدة الصرفية والبلاغية الشهيرة التي تؤكد أن زيادة أحرف الكلمة يضيف قوة وعمقًا في معناها؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)» بأسلوب أكاديمي دقيق (18.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (18.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (18.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (18.4.w3)"
+            "«زِيَادَةُ المَبْنَى تَدُلُّ عَلَى زِيَادَةِ المَعْنَى» (Increase in form signifies increase in meaning)",
+            "زيادة الحروف تحذف المعنى",
+            "الافعال لا تتغير ابدا",
+            "كل الكلمات متطابقة المعنى"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "قاعدة «زيادة المبنى تدل على زيادة المعنى» هي أصل من أصول فقه اللغة والصرف العربي."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الفرق بين «تَعَلَّمَ» (تَفَعَّلَ) و«تَعَالَمَ» (تَفَاعَلَ) من حيث المعنى؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "«تَعَلَّمَ» اكْتَسَبَ العِلْمَ حَقِيقَةً، بَيْنَمَا «تَعَالَمَ» ادَّعَى العِلْمَ وَهُوَ لَيْسَ بِعَالِمٍ (Real learning vs Pretending to know)",
+            "كلاهما يعني الجهل التام",
+            "تعلم تعني السفر للخارج",
+            "لا فرق بينهما"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "صيغة «تَفَاعَلَ» في «تَعَالَمَ» تفيد التظاهر والادعاء بغير حق."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u18-l4):",
+          "prompt": "اختر الجملة التي تبين كيف يثري الصرف المعجم العلمي والفكري العربي بأعلى درجات البلاغة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (18.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (18.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (18.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (18.4.x3)"
+            "يُتِيحُ لَنَا الاشْتِقَاقُ الصَّرْفِيُّ تَوْلِيدَ مَفَاهِيمَ دَقِيقَةٍ كَالتَّفَاعُلِ وَالاسْتِقْرَاءِ وَالتَّطْوِيرِ مِنْ أُصُولٍ ثُلَاثِيَّةٍ عَذْبَةٍ. (Morphological derivation allows us to generate precise concepts like interaction, induction, and development from sweet trilateral roots.)",
+            "الاشتقاق يلغي الكلمات ويجعل اللغة صامتة",
+            "الاصول الثلاثية تنام في القاموس بلا حركة",
+            "اشتقاق توليد مفاهيم صرف جذور سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تعبر بدقة عن عبقرية الاشتقاق التوليدي في إمداد الفكر والعلوم بمفاهيم متجددة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)»؟",
+          "prompt": "من هو العالم اللغوي العبقري صاحب كتاب «الخصائص» ومفصل قاعدة زيادة المبنى؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (18.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (18.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (18.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (18.4.y3)"
+            "ابْنُ جِنِّي (Ibn Jinni)",
+            "ابن بطوطة",
+            "المتنبي",
+            "أبو العلاء المعري"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«ابْنُ جِنِّي» هو إمام الصرف وفلسفة اللغة وصاحب كتاب «الخصائص»."
         }
       ]
     },
@@ -11065,24 +11090,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 18-4)؟",
+          "prompt": "اختر النص التحليلي الذي يلخص عبقرية الاشتقاق الصرفي وقدرته التوليدية بأعلى دقة لسانية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (18.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (18.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (18.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (18.4.z3)"
+            "تَتَجَلَّى عَبْقَرِيَّةُ اللِّسَانِ العَرَبِيِّ فِي قُدْرَتِهِ الاشْتِقَاقِيَّةِ الفَرِيدَةِ؛ حَيْثُ يَتَحَوَّلُ الجَذْرُ الوَاحِدُ عَبْرَ الأَوْزَانِ المَزِيدَةِ إِلَى شَبَكَةٍ دَلَالِيَّةٍ حَيَّةٍ تَسْتَوْعِبُ كُلَّ جَدِيدٍ فِي الفِكْرِ وَالعُلُومِ، مُجَسِّدَةً قَاعِدَةَ أَنَّ زِيَادَةَ المَبْنَى دَلِيلٌ عَلَى زِيَادَةِ المَعْنَى. (The genius of the Arabic tongue is manifested in its unique derivational capacity; where a single root transforms through derived forms into a living semantic network that accommodates everything new in thought and sciences, embodying the rule that increase in form is proof of increase in meaning.)",
+            "تتجلى العبقرية بالافعال المجردة فقط بلا اشتقاق وبلا اوزان.",
+            "جذر اوزان مزيدة شبكة دلالية زيادة مبنى معنى سكون فتحة.",
+            "عجزت اللغة العربية عن توليد اي مصطلح جديد."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة التحليل اللساني البلاغي لفلسفة الاشتقاق الصرفي وشبكات الجذور التوليدية في اللغة العربية."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u18-l4) باللغة العربية (مثال: «الأوزان»):",
+          "prompt": "اكتب باللغة العربية الفصحى المصطلح الذي يطلق على عملية توليد الكلمات من أصل ثلاثي (اكتب: «الاشتقاق»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الأوزان",
-            "الأوزان"
+            "الاشتقاق",
+            "اشتقاق",
+            "الِاشْتِقَاقُ",
+            "الاشْتِقَاق",
+            "اشْتِقَاقٌ"
           ],
-          "explanation": "المصطلح الصحيح هو «الأوزان»."
+          "explanation": "المصطلح هو «الاشتقاق»."
         }
       ],
       "passThreshold": 0.8
@@ -11093,85 +11121,89 @@
     "subject": "arabic",
     "unit": 18,
     "lessonNumber": 5,
-    "title": "الأوزان الصرفية المزيدة (Derived Verb Forms II-X) (الدرس 5)",
+    "title": "حوار الندوة اللسانية وتطبيقات الأوزان المزيدة (Linguistics Colloquium & Derived Forms Dialogue)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: الأوزان المزيدة من الوزن الثاني إلى العاشر، ودلالاتها المعنوية (التعدية، المشاركة، المطاوعة، الطلب). (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة الثامنة عشرة: الأوزان المزيدة من الثاني إلى العاشر (Forms II-X) ودلالاتها التوليدية والاشتقاقية في حوار ندوة لسانية أكاديمية متكاملة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة الثامنة عشرة من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس ندمج جميع الأوزان الصرفية المزيدة (من الثاني إلى العاشر) في حوار أكاديمي وتطبيقي رفيع يدور في ندوة مجمع اللغة العربية بين الأستاذ الدكتور فاروق (خبير الصرف والمعاجم) والباحثة اللسانية هند:\n\nمحاور النص الحواري الشامل:\n1.【أوزان الزيادة بحرف (Forms II, III, IV)】: «عَلَّمَ»، «شَارَكَ»، «نَاقَشَ»، «أَنْجَزَ»، «أَعْلَنَ».\n2.【أوزان الزيادة بحرفين (Forms V, VI, VII)】: «تَعَلَّمَ»، «تَطَوَّرَ»، «تَعَاوَنَ»، «تَشَاوَرَ»، «انْفَتَحَ»، «انْطَلَقَ».\n3.【أوزان الزيادة بثلاثة أحرف (Forms VIII, IX, X)】: «اجْتَمَعَ»، «اقْتَرَحَ»، «اخْضَرَّ»، «اسْتَفْسَرَ»، «اسْتَخْدَمَ»، «اسْتَفَادَ».\n4.【الاعتزاز بفلسفة الصرف العربي】: قدرة الأوزان القياسية على مواكبة العصر وحوسبة اللغة وتوليد المصطلحات.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)» بأسلوب أكاديمي دقيق (18.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الأوزان الصرفية المزيدة (Derived Verb Forms II-X)' to students in an accurate academic style."
+          "target": "مَرْحَبًا دُكْتُور فَارُوق، كَيْفَ يُسَاعِدُنَا النِّظَامُ الصَّرْفِيُّ فِي تَوْلِيدِ المُصْطَلَحَاتِ اللِّسَانِيَّةِ الحَدِيثَةِ؟(Marḥaban duktūr Fārūq, kayfa yusāʿidunā an-niẓāmu aṣ-ṣarfiyyu fī tawlīdi al-muṣṭalaḥāti al-lisāniyyati al-ḥadīthah?)",
+          "reading": "[mar.ħa.ban duk.tuːr faː.ruːq, kaj.fa ju.saː.ʕi.du.naː‿n.ni.zˤaː.mu‿sˤ.sˤar.fij.ju fiː taw.liː.di‿l.musˤ.tˤa.la.ħaː.ti‿l.li.saː.nij.ja.ti‿l.ħa.diː.θah?] (Mar-ḥa-ban duk-tūr Fā-rūq, kay-fa yu-sā-ʿi-du-nā an-ni-ẓā-mu aṣ-ṣar-fiy-yu fī taw-lī-di al-muṣ-ṭa-la-ḥā-ti al-li-sā-niy-ya-ti al-ḥa-dī-thah?)",
+          "translation": "Welcome Dr. Farouq, how does the morphological system help us in generating modern linguistic terms?"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (18.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَهْلًا هِنْد، إِنَّ الأَوْزَانَ المَزِيدَةَ مِثْلَ «فَعَّلَ» وَ«تَفَاعَلَ» وَ«اسْتَفْعَلَ» تَمْنَحُنَا ثَرْوَةً لَفْظِيَّةً لَا تَنْفَدُ.(Ahlan Hind, inna al-awzāna al-mazīdata mithla 'faʿʿala' wa-'tafāʿala' wa-'istafʿala' tamnaḥunā tharwatan lafẓiyyatan lā tanfad.)",
+          "reading": "[ʔah.lan hind, ʔin.na‿l.ʔaw.zaː.na‿l.ma.ziː.da.ta miθ.la «faʕ.ʕa.la» wa«ta.faː.ʕa.la» wa«is.taf.ʕa.la» tam.na.ħu.naː θar.wa.tan laf.zˤij.ja.tan laː tan.fad] (Ah-lan Hind, in-na al-aw-zā-na al-ma-zī-da-ta mith-la 'faʿ-ʿa-la' wa-'ta-fā-ʿa-la' wa-'is-taf-ʿa-la' tam-na-ḥu-nā thar-wa-tan laf-ẓiy-ya-tan lā tan-fad.)",
+          "translation": "Hello Hind, derived forms such as 'fa'ala', 'tafa'ala', and 'istaf'ala' grant us an inexhaustible lexical wealth."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (18.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "لَقَدِ اجْتَمَعَ البَاحِثُونَ وَتَشَاوَرُوا، ثُمَّ اسْتَفْسَرُوا عَنْ تَطْبِيقَاتِ هٰذِهِ الأَوْزَانِ فِي التَّرْجَمَةِ.(Laqad ijtamaʿa al-bāḥithūna wa-tashāwarū, thumma istafsarū ʿan taṭbīqāti hādhihi al-awzāni fī at-tarjamah.)",
+          "reading": "[la.qa.diʒ.ta.ma.ʕa‿l.baː.ħi.θuː.na wa.ta.ʃaː.wa.ruː, θum.mas.taf.sa.ruː ʕan tatˤ.biː.qaː.ti haː.ði.hi‿l.ʔaw.zaː.ni fiː‿t.tar.ʒa.mah] (La-qad ij-ta-ma-ʿa al-bā-ḥi-thū-na wa-ta-shā-wa-rū, thum-ma is-taf-sa-rū ʿan taṭ-bī-qā-ti hā-dhi-hi al-aw-zā-ni fī at-tar-ja-mah.)",
+          "translation": "The researchers gathered and consulted with one another, then inquired about the applications of these forms in translation."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (18.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "نَسْتَخْدِمُ هٰذِهِ الصِّيَغَ المَزِيدَةَ لِنُعَبِّرَ عَنِ التَّعَاوُنِ وَالتَّطَوُّرِ وَالتَّجَدُّدِ الحَضَارِيِّ الدَّائِمِ.(Nastakhdimu hādhihi aṣ-ṣiyagha al-mazīdata li-nuʿabbira ʿani at-taʿāwuni wa-at-taṭawwuri wa-at-tajaddudi al-ḥaḍāriyyi ad-dāʾim.)",
+          "reading": "[nas.tax.di.mu haː.ði.hi‿sˤ.sˤi.ja.ɣa‿l.ma.ziː.da.ta li.nu.ʕab.bi.ra ʕa.ni‿t.ta.ʕaː.wu.ni wat.ta.tˤaw.wu.ri wat.ta.ʒad.du.di‿l.ħa.dˤaː.rij.ji‿d.daː.ʔim] (Nas-takh-di-mu hā-dhi-hi aṣ-ṣi-ya-gha al-ma-zī-da-ta li-nu-ʿab-bi-ra ʿa-ni at-ta-ʿā-wu-ni wa-at-ta-ṭaw-wu-ri wa-at-ta-jad-du-di al-ḥa-ḍā-riy-yi ad-dā-ʾim.)",
+          "translation": "We use these derived formulas to express cooperation, development, and permanent civilizational renewal."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "تَبَاحَثَ العُلَمَاءُ وَاسْتَبْشَرُوا بِالصَّرْفِ، نَبْعُ البَيَانِ يَرُوقُ فِي كُلِّ حَرْفِ!"
+      ],
+      "culturalNotes": [
+        "مجامع اللغة العربية في القاهرة ودمشق وعمان اعتمدت رسميًا على قياسية الأوزان الصرفية المزيدة لتعريب المصطلحات التكنولوجية والعلمية الحديثة بثقة واقتدار."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)» (الدرس 5)؟",
+          "prompt": "في الحوار الشامل، ما الذي تمنحه الأوزان المزيدة (مثل فَعَّلَ، تفاعل، استفعل) للغة العربية بحسب الدكتور فاروق؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)» بأسلوب أكاديمي دقيق (18.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (18.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (18.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (18.5.w3)"
+            "ثَرْوَةً لَفْظِيَّةً وَدَلَالِيَّةً لَا تَنْفَدُ فِي تَوْلِيدِ المُصْطَلَحَاتِ (Inexhaustible lexical & semantic wealth)",
+            "صعوبة في النطق فقط",
+            "إلغاء المعاجم القديمة",
+            "جمودا لغويا"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "أكد د. فاروق أن الأوزان المزيدة تمنح العربية مرونة وثروة لفظية لا تنفد في توليد المصطلحات."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما الفعل الذي استخدمته هند للدلالة على طلب التفسير والمعرفة في الندوة؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "اسْتَفْسَرُوا (They inquired - Form X: Istaf'ala)",
+            "علموا",
+            "خرجوا",
+            "قرأوا"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«اسْتَفْسَرُوا» على وزن «اسْتَفْعَلُوا» ويفيد طلب التفسير والتوضيح."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u18-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تطبق الأوزان المزيدة (Forms II-X) بأعلى درجات الدقة والسلاسة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (18.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (18.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (18.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (18.5.x3)"
+            "— كَيْفَ نُطَوِّرُ المَنَاهِجَ؟ — نَسْتَشِيرُ الخُبَرَاءَ، وَنَتَعَاوَنُ جَمِيعًا لِنُحَقِّقَ التَّقَدُّمَ المَنْشُودَ. (— How do we develop the curricula? — We consult experts, and all cooperate to achieve the desired progress.)",
+            "— كيف نطور المناهج بالافعال الماضية فقط؟",
+            "— كم سعر المعجم في الصيدلية؟",
+            "— حوار ندوة اوزان صرفية سكون فتحة."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة توظف «نُطَوِّرُ» (Form II)، «نَسْتَشِيرُ» (Form X)، «نَتَعَاوَنُ» (Form VI)، و«التَّقَدُّمَ» (Form V) بسبك حواري فصيح ومثالي."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الأوزان الصرفية المزيدة (Derived Verb Forms II-X)»؟",
+          "prompt": "ما هو الهدف الأساسي من استثمار الأوزان المزيدة في العصر الحديث كما بيّن الحوار؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (18.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (18.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (18.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (18.5.y3)"
+            "مُوَاكَبَةُ التَّطَوُّرِ العِلْمِيِّ وَتَعْرِيبُ المُصْطَلَحَاتِ بِدِقَّةٍ (Keeping pace with scientific progress & term Arabization)",
+            "إلغاء النحو العربي",
+            "التخلي عن الجذور الثلاثية",
+            "استيراد الكلمات الأجنبية دون تعريب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الهدف هو مواكبة التطور العلمي والتكنولوجي وتعريب المصطلحات باقتدار عبر طاقات الصرف الذاتية."
         }
       ]
     },
@@ -11179,24 +11211,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 18-5)؟",
+          "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة الثامنة عشرة بأكملها (الأوزان المزيدة Forms II-X، والاشتقاق التوليدي):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (18.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (18.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (18.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (18.5.z3)"
+            "عَقَدَ مَجْمَعُ اللُّغَةِ نَدْوَةً لِسَانِيَّةً حَيْثُ اجْتَمَعَ البَاحِثُونَ وَتَشَاوَرُوا حَوْلَ تَوْلِيدِ المُصْطَلَحَاتِ؛ فَقَدَّمَ الدُّكْتُورُ دِرَاسَةً طَوَّرَ فِيهَا مَفَاهِيمَ الصَّرْفِ، وَاسْتَفْسَرَ الحَاضِرُونَ عَنْ كَيْفِيَّةِ اسْتِخْدَامِ هٰذِهِ الأَوْزَانِ فِي التَّعْرِيبِ، مُؤَكِّدِينَ أَنَّ التَّعَاوُنَ وَالتَّعَلُّمَ هُمَا سَبِيلُ التَّجَدُّدِ اللُّغَوِيِّ الدَّائِمِ. (The language academy held a linguistic colloquium where researchers met and consulted about term generation; so the doctor presented a study in which he developed morphology concepts, and attendees inquired about how to use these forms in Arabization, affirming that cooperation and learning are the path to permanent linguistic renewal.)",
+            "عقد المجمع ندوة بالافعال المجردة فقط بلا اوزان مزيدة وبلا اشتقاق توليدي.",
+            "ندوة لسانية اجتمع تشاور قدم طور استفسر استخدام تعاون تعلم سكون.",
+            "انفضت الندوة ولم يقدم احد اي بحث علمي."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج أوزان الزيادة: «اجْتَمَعَ» (VIII)، «تَشَاوَرُوا / التَّعَاوُن» (VI)، «قَدَّمَ / طَوَّرَ» (II)، «اسْتَفْسَرَ / اسْتِخْدَام» (X)، و«التَّعَلُّم» (V) في سياق سردي بديع وأصيل."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u18-l5) باللغة العربية (مثال: «الأوزان»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم العلم اللغوي الذي يدرس بنية الكلمة وأوزانها وتصريفاتها (اكتب: «الصرف» أو «علم الصرف»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الأوزان",
-            "الأوزان"
+            "الصرف",
+            "علم الصرف",
+            "صرف",
+            "الصَّرْفُ",
+            "عِلْمُ الصَّرْفِ"
           ],
-          "explanation": "المصطلح الصحيح هو «الأوزان»."
+          "explanation": "العلم هو «الصرف» أو «علم الصرف»."
         }
       ],
       "passThreshold": 0.8
