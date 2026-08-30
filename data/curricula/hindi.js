@@ -4585,53 +4585,62 @@
     "subject": "hindi",
     "unit": 11,
     "lessonNumber": 1,
-    "title": "अधिकार और स्वामित्व: का/के/की एवं के पास (Possession) (Part 1)",
+    "title": "मूर्त एवं चल संपत्तियों का स्वामित्व: के पास (Alienably possessed physical objects: X ke paas Y hai)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.1) with authentic linguistic precision.",
+    "objective": "भौतिक, चल एवं हस्तांतरणीय वस्तुओं के अधिकार व स्वामित्व (Physical Possession) को व्यक्त करने वाले 'कर्ता (तिर्यक) + के पास + वस्तु + होना' के सटीक प्रयोग में प्रवीणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "जब किसी व्यक्ति के पास कोई भौतिक (Physical), मूर्त (Tangible) या चल संपत्ति/वस्तु हो जिसे वह खरीद, बेच या दे सकता है, तब हिंदी में **'के पास'** परसर्ग का प्रयोग होता है:\n\n1. निर्माण का सूत्र:\n   - **[कर्ता (तिर्यक रूप) + के पास] + [मूर्त वस्तु/संज्ञा] + [है / हैं / था / थे / थी / थीं / होगा]**\n\n2. सर्वनामों के साथ 'के पास':\n   - मैं → **मेरे पास** (I have / In my possession)\n   - तू → **तेरे पास** (You have)\n   - तुम → **तुम्हारे पास** (You have)\n   - आप → **आपके पास** (You have [आदर])\n   - हम → **हमारे पास** (We have)\n   - वह → **उसके पास** (He/She has)\n   - यह → **इसके पास** (This person has)\n   - वे → **उनके पास** (They have)\n   - ये → **इनके पास** (These people have)\n   - कौन → **किसके पास** (Who has?)।\n\n3. संज्ञाओं के साथ 'के पास':\n   - रोहन के पास, अध्यापक के पास, छात्रों के पास।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 11.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 11."
+          "target": "मेरे पास इस प्राचीन और ऐतिहासिक विषय से संबंधित कई अत्यंत दुर्लभ और मूल्यवान पुस्तकें हैं।",
+          "reading": "mere paas is praacheen aur aitihasik vishay se sambandhit kayi atyant durlabh aur moolyavaan pustakein hain. [meːreː paːs ɪs praːtʃiːn ɔːr ɛːt̪ɪhaːsɪk ʋɪʂəj seː səmbiːnd̪ʱɪt̪ kəiː ət̪jən̪t̪ d̪ʊrləbʱ ɔːr muːljəʋaːn pʊst̪əkẽː hɛ̃ː] (MAY-ray pahs ees prah-CHEEN owr ay-tee-HAH-seek vee-SHUY say suhm-BUHN-dheet kuh-EE uht-YUHNT door-LUHBH owr mool-yuh-VAHN POOS-tuh-kayn hy-n)",
+          "translation": "I have several extremely rare and valuable books related to this ancient and historic subject."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 11-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "क्या आपके पास इस नई आधुनिक इमारत का विस्तृत स्थापत्य मानचित्र और मुख्य प्रवेश द्वार की चाबियाँ हैं?",
+          "reading": "kya aapke paas is nayi aadhunik imaarat ka vistrit sthaapatya maanchitr aur mukhya pravesh dvaar ki chaabiyaan hain? [kjaː aːpkeː paːs ɪs nəiː aːd̪ʱʊnɪk ɪmaːrət̪ kaː ʋɪstrɪt̪ st̪ʰaːpət̪jə maːntʃɪt̪r ɔːr mʊkʰjə prəʋeːʃ d̪ʋaːr kiː tʃaːbɪjaː̃ hɛ̃ː] (kyah ahp-KAY pahs ees nuh-EE ah-dhoo-NEEK ee-MAH-ruht kah vees-TREE-t sthah-PUHT-yuh mahn-CHEE-truh owr MOOKH-yuh pruh-VAYSH dvahr kee chah-bee-YAHN hy-n)",
+          "translation": "Do you have the detailed architectural blueprint of this new modern building and the keys to the main entrance?"
+        },
+        {
+          "target": "हमारे पास पर्वतीय यात्रा के दौरान किसी भी आपातकालीन स्थिति से निपटने के लिए पर्याप्त धन और सुरक्षा उपकरण हैं।",
+          "reading": "hamaare paas parvateey yaatra ke dauraan kisi bhi aapaatkaaleen sthiti se nipatne ke liye paryaapt dhan aur suraksha upkaran hain. [ɦəmaːreː paːs pərʋət̪iːj jaːt̪raː keː d̪ɔːraːn kɪsiː bʱiː aːpaːt̪kaːliːn st̪ʰɪt̪ɪ seː nɪpəʈneː keː lɪjeː pərjaːpt̪ d̪ʱən ɔːr sʊrəkʃaː ʊpkərəɳ hɛ̃ː] (huh-MAH-ray pahs puhr-vuh-TEE-yuh YAH-trah kay dow-RAHN kee-SEE bhee ah-paht-kah-LEEN STHEE-tee say NEE-puht-nay kay lee-ay puhr-YAHPT dhuhn owr soo-RUHK-shah oop-KUH-ruhn hy-n)",
+          "translation": "We have sufficient money and safety equipment to deal with any emergency situation during the mountain journey."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Physical things = कर्ता + 'के पास' + वस्तु + है! मेरे पास कार है, उसके पास कलम है!"
+      ],
+      "culturalNotes": [
+        "लेन-देन या दुकान पर पूछने के लिए 'क्या आपके पास छुट्टे रुपये हैं?' (Do you have change?) अत्यंत सामान्य व्यावहारिक वाक्य है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"काम\":",
+          "prompt": "भौतिक वस्तु 'कंप्यूटर' के स्वामित्व के लिए कौन-सा वाक्य पूर्णतः शुद्ध है?",
           "options": [
-            "हम इस पाठ में इकाई 11.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दफ़्तर» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सहकर्मी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अधिकारी» का अनुचित स्थान)"
+            "मेरे पास एक नया कंप्यूटर है (Mere paas ek naya computer hai - I have a new computer)",
+            "मेरा एक नया कंप्यूटर है (अस्वाभाविक स्वामित्व)",
+            "मुझको एक नया कंप्यूटर है (रोग/अनुभूति का अशुद्ध परसर्ग)",
+            "मुझमें एक नया कंप्यूटर है (आंतरिक गुण का अनुपयुक्त प्रयोग)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "भौतिक और चल वस्तु के स्वामित्व हेतु «मेरे पास» का प्रयोग शुद्ध है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"काम\":",
+          "prompt": "वाक्य «क्या ___ पास इस प्रश्न का उत्तर है?» में सही सर्वनाम रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 11.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सहकर्मी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अधिकारी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दफ़्तर» का अशुद्ध रूप)"
+            "आपके (Aapke paas - Do you have [oblique with ke paas])",
+            "आपको (Dative experiencer - incorrect for physical item)",
+            "आपका (Genitive pronoun - missing ke paas)",
+            "आपमें (Locative quality marker - unsuitable for physical possession)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'के पास' परसर्ग के साथ सर्वनाम का तिर्यक संबंध रूप «आपके» आता है।"
         }
       ]
     },
@@ -4639,17 +4648,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"काम\": Which sentence is completely correct?",
+          "prompt": "मूर्त वस्तु के स्वामित्व (Physical Possession) का सर्वथा शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 11.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अधिकारी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दफ़्तर» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सहकर्मी» से संबंधित)"
+            "रोहन के पास परीक्षा की तैयारी के लिए सभी आवश्यक पुस्तकें और नोट्स हैं। (Rohan has all necessary books and notes for exam preparation.)",
+            "रोहन का परीक्षा की पुस्तकें हैं।",
+            "रोहन को पुस्तकें हैं।",
+            "रोहन में पुस्तकें हैं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«रोहन के पास... पुस्तकें और नोट्स हैं» में मूर्त स्वामित्व की संरचना पूर्णतः शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u11-l2": {
@@ -4657,53 +4667,62 @@
     "subject": "hindi",
     "unit": 11,
     "lessonNumber": 2,
-    "title": "अधिकार और स्वामित्व: का/के/की एवं के पास (Possession) (Part 2)",
+    "title": "पारिवारिक संबंध एवं मित्र: का / के / की (Inalienable Kinship Relations: X ka/ke/ki Y hai)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.2) with authentic linguistic precision.",
+    "objective": "पारिवारिक रिश्तों (माता, पिता, भाई, बहन, संतान) और मित्रों को व्यक्त करने हेतु 'का / के / की' के लिंग-वचन समन्वय और 'के पास' के निषेध नियम को समझना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में माता-पिता, भाई-बहन, संतान अथवा मित्रों जैसे अटूट मानवीय संबंधों (Inalienable Kinship) के लिए **'के पास' का प्रयोग कभी नहीं होता**। इनके लिए संबंध कारक **'का / के / की'** का प्रयोग किया जाता है:\n\n1. निर्माण का सूत्र:\n   - **[कर्ता] + [का / के / की] + [संबंधी] + [है / हैं]**\n\n2. 'का / के / की' का लिंग-वचन समन्वय:\n   - **पुल्लिंग एकवचन संबंधी**: *उसका एक भाई है* (भाई = पु.एक. → उसका भाई);\n   - **पुल्लिंग बहुवचन संबंधी**: *मेरे दो भाई हैं* (भाई = पु.बहु. → मेरे भाई) — (सावधान: 'मेरे पास दो भाई हैं' सर्वथा अशुद्ध है!);\n   - **स्त्रीलिंग संबंधी**: *मेरी एक छोटी बहन है* (बहन = स्त्री. → मेरी बहन);\n   - **आदरणीय संबंधी**: *अमित के पिता जी डॉक्टर हैं* (आदर बहुवचन → के पिता जी)।\n\n3. पक्के मित्र और रिश्तेदार:\n   - हमारे कई रिश्तेदार दिल्ली में रहते हैं;\n   - रोहन के तीन पक्के मित्र हैं।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 11.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 11."
+          "target": "मेरे बड़े भाई भारतीय प्रशासनिक सेवा में एक अत्यंत कर्मठ, ईमानदार और कर्तव्यनिष्ठ अधिकारी हैं।",
+          "reading": "mere bade bhai bhaarateey prashaasnik seva mein ek atyant karmath, eemaandaar aur kartavyanishth adhikaari hain. [meːreː bəɽeː bʱaːiː bʱaːrt̪iːj prəʃaːsnɪk seːʋaː mẽː eːk ət̪jən̪t̪ kərməʈʰ iːmaːnd̪aːr ɔːr kərt̪əʋjənɪʂʈʰ əd̪ʱɪkaːriː hɛ̃ː] (MAY-ray BUH-day bhah-EE bhahr-TEE-yuh pruh-SHAH-sneek SAY-vah mayn ayk uht-YUHNT KUHR-muhth, ee-mahn-DAHR owr kuhr-tuhv-yuh-NEESH-th uh-dhee-KAH-ree hy-n)",
+          "translation": "My elder brother is an extremely hardworking, honest, and dutiful officer in the Indian Administrative Service."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 11-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "क्या आपकी कोई छोटी बहन या चचेरा भाई भी इसी प्रसिद्ध और प्रतिष्ठित विश्वविद्यालय में अध्ययनरत है?",
+          "reading": "kya aapki koyi chhoti bahan ya chachera bhai bhi isi prasiddh aur pratishthit vishvavidyaalay mein adhyayanrat hai? [kjaː aːpkiː koːiː tʃʰoːʈiː bəɦən jaː tʃətʃeːraː bʱaːiː bʱiː ɪsiː prəsɪd̪ːʱ ɔːr prət̪ɪʂʈʰɪt̪ ʋɪʃʋəʋɪd̪jaːləj mẽː əd̪ʱjəjənrət̪ hɛː] (kyah ahp-KEE koh-EE CHHOH-tee BUH-huhn yah chuh-CHAY-rah bhah-EE bhee ees-EE pruh-SEETH-dh owr pruh-teesh-THEET veesh-vuh-veed-YAH-luy mayn uhdh-yuh-yuhn-RUHT hy)",
+          "translation": "Is any younger sister or cousin of yours also studying in this renowned and prestigious university?"
+        },
+        {
+          "target": "रोहन के दो अत्यंत बुद्धिमान पुत्र और एक होनहार पुत्री विदेश में उच्च शिक्षा प्राप्त कर रहे हैं।",
+          "reading": "Rohan ke do atyant buddhimaan putr aur ek honhaar putri videsh mein uchh shiksha praapt kar rahe hain. [roːɦən keː d̪oː ət̪jən̪t̪ bʊd̪ːʱɪmaːn pʊt̪r ɔːr eːk hoːnɦaːr pʊt̪riː ʋɪd̪eːʃ mẽː ʊtʃːʰ ʃɪkʃaː praːpt̪ kər rəɦeː hɛ̃ː] (ROH-huhn kay doh uht-YUHNT bood-dhee-MAHN pootr owr ayk hohn-HAHR POO-tree vee-DAYSH mayn ootch SHEEK-shah PRAHPT kuhr ruh-HAY hy-n)",
+          "translation": "Rohan's two extremely intelligent sons and one promising daughter are pursuing higher education abroad."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Family & Friends = का/के/की (मेरे दो भाई हैं)! परिवार में 'के पास' NO NEVER!"
+      ],
+      "culturalNotes": [
+        "भारतीय पारिवारिक व्यवस्था में रिश्तों के विशिष्ट नाम होते हैं जैसे: चाचा (Father's younger brother), मामा (Mother's brother), मौसी (Mother's sister), बुआ (Father's sister)।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"दफ़्तर\":",
+          "prompt": "वाक्य «I have two sisters» का प्रामाणिक व्याकरणिक हिंदी अनुवाद क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 11.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सहकर्मी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अधिकारी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («वेतन» का अनुचित स्थान)"
+            "मेरी दो बहनें हैं (Meri do bahnein hain - I have two sisters)",
+            "मेरे पास दो बहनें हैं (पारिवारिक रिश्ते में 'के पास' का अमानक प्रयोग)",
+            "मुझको दो बहनें हैं (अनुभूति सूचक परसर्ग की अशुद्धि)",
+            "मेरे में दो बहनें हैं (स्थान/गुण सूचक परसर्ग का गलत रूप)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "पारिवारिक रिश्तों के लिए 'के पास' नहीं बल्कि संबंध कारक «मेरी दो बहनें हैं» आता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"दफ़्तर\":",
+          "prompt": "वाक्य «अमित ___ दो बेटे हैं» में सही संबंध कारक भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 11.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अधिकारी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («वेतन» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सहकर्मी» का अशुद्ध रूप)"
+            "के (Amit ke do bete hain - Amit has two sons [masc. plural])",
+            "का (Masculine singular - number mismatch with bete)",
+            "की (Feminine marker - gender mismatch with bete)",
+            "के पास (Physical possession marker - forbidden for family relations)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "पुल्लिंग बहुवचन संबंधी 'बेटे' के साथ संबंध कारक «के» प्रयुक्त होता है।"
         }
       ]
     },
@@ -4711,17 +4730,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"दफ़्तर\": Which sentence is completely correct?",
+          "prompt": "पारिवारिक संबंधों के अन्वय वाला सर्वथा शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 11.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («वेतन» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सहकर्मी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अधिकारी» से संबंधित)"
+            "मेरे चाचा जी के तीन बच्चे हैं जो सब डॉक्टर हैं। (My uncle has three children who are all doctors.)",
+            "मेरे चाचा जी के पास तीन बच्चे हैं।",
+            "मेरे चाचा जी को तीन बच्चे हैं।",
+            "चाचा जी में तीन बच्चे हैं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«चाचा जी के तीन बच्चे हैं» में पारिवारिक संबंध का मानक अन्वय पूर्णतः शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u11-l3": {
@@ -4729,53 +4749,62 @@
     "subject": "hindi",
     "unit": 11,
     "lessonNumber": 3,
-    "title": "अधिकार और स्वामित्व: का/के/की एवं के पास (Possession) (Part 3)",
+    "title": "शारीरिक अंग एवं अमूर्त विशेषताएं: का / के / की एवं में (Body Parts & Abstract Qualities)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.3) with authentic linguistic precision.",
+    "objective": "प्राणियों के शारीरिक अंगों (Inalienable Body Parts) और व्यक्तियों के आंतरिक सद्गुणों/अमूर्त विशेषताओं (Abstract Virtues with में) की वाक्य संरचना में निपुणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "शारीरिक अंग और आंतरिक अमूर्त गुण भी किसी व्यक्ति के अभिन्न अंग होते हैं, अतः इनमें विशेष परसर्ग प्रयुक्त होते हैं:\n\n1. शारीरिक अंग (Body Parts — Inalienable Whole-Part Relation):\n   - शारीरिक अंगों के लिए **'का / के / की'** का प्रयोग होता है (के पास नहीं!):\n     - *हाथी की लंबी सूँड होती है* (An elephant has a long trunk);\n     - *गाय के चार पैर और दो सींग होते हैं* (A cow has four legs and two horns);\n     - *मेरी आँखें दुख रही हैं* (My eyes are aching)।\n\n2. आंतरिक अमूर्त गुण / प्रतिभा / स्वभाव (Abstract Qualities with 'में'):\n   - किसी व्यक्ति के सद्गुण, साहस, प्रतिभा या स्वभाव के लिए **'में' (In)** परसर्ग प्रयुक्त होता है:\n     - *उसमें बहुत साहस और धैर्य है* (He has immense courage and patience);\n     - *आपमें गजब की प्रतिभा है* (You have remarkable talent);\n     - *रोहन में नेतृत्व के बेहतरीन गुण हैं* (Rohan has excellent leadership qualities)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 11.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 11."
+          "target": "विशालकाय हाथी के दो लंबे चमकीले दाँत और एक अत्यंत शक्तिशाली एवं लचीली सूँड होती है।",
+          "reading": "vishaalakaay haathi ke do lambe chamkeele daant aur ek atyant shaktishaali evam lacheeli soond hoti hai. [ʋɪʃaːləkaːj ɦaːt̪ʰiː keː d̪oː ləmbeː tʃəmkiːleː d̪aːn̪t̪ ɔːr eːk ət̪jən̪t̪ ʃəkt̪ɪʃaːliː eːʋəm lətʃiːliː suː̃ɖ hoːt̪iː hɛː] (vee-shah-luh-KAH-ee HAH-thee kay doh LUHM-bay chuhm-KEE-lay dahnt owr ayk uht-YUHNT shuhk-tee-SHAH-lee AY-vuhm luh-CHEE-lee SOOND hoh-TEE hy)",
+          "translation": "A gigantic elephant has two long shiny tusks and an extremely powerful and flexible trunk."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 11-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "उस युवा होनहार वैज्ञानिक में सबसे कठिन वैज्ञानिक चुनौतियों का सामना करने का असीम धैर्य और साहस है।",
+          "reading": "us yuva honhaar vaigyaanik mein sabse kathin vaigyaanik chunautiyon ka saamna karne ka aseem dhairy aur saahas hai. [ʊs jʊʋaː hoːnɦaːr ʋɛːɡjaːnɪk mẽː səbseː kəʈʰɪn ʋɛːɡjaːnɪk tʃʊnɔːt̪ɪjõː kaː saːmnaː kərneː kaː əsiːm d̪ʱɛːrjə ɔːr saːɦəs hɛː] (oos YOO-vah hohn-HAHR vyg-YAH-neek mayn SUHB-say KUH-theen vyg-YAH-neek choo-now-TEE-yohn kah sahm-NAH KUHR-nay kah uh-SEEM DHY-ryuh owr SAH-huhs hy)",
+          "translation": "That promising young scientist has boundless patience and courage to face the most difficult scientific challenges."
+        },
+        {
+          "target": "इस प्राचीन और विशाल बरगद के पेड़ की विशाल शाखाएं और गहरी जड़ें धरती में बहुत दूर तक फैली हुई हैं।",
+          "reading": "is praacheen aur vishaal bargad ke ped ki vishaal shaakhaayein aur gehri jadein dharti mein bahut door tak phaili huyi hain. [ɪs praːtʃiːn ɔːr ʋɪʃaːl bərɡəd̪ keː peːɽ kiː ʋɪʃaːl ʃaːkʰaːẽː ɔːr ɡɛɦriː dʒəɽẽː d̪ʱərt̪iː mẽː bəɦʊt̪ d̪uːr t̪ək pʰɛːliː hʊiː hɛ̃ː] (ees prah-CHEEN owr vee-SHAHL BUHR-guhd kay payd kee vee-SHAHL shah-KHAH-ayn owr GUH-h-ree JUH-dayn dhuhr-TEE mayn buh-hoot door tuhk FY-lee HOO-yee hy-n)",
+          "translation": "The massive branches and deep roots of this ancient and giant banyan tree are spread very far into the earth."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Body parts = का/के/की (हाथी की सूँड); Virtues/Talent = में (उसमें साहस है)!"
+      ],
+      "culturalNotes": [
+        "हिंदी मुहावरों में शारीरिक अंगों और आंतरिक गुणों का गहरा संबंध है, जैसे: 'सीने में हिम्मत होना', 'आँखों में चमक होना'।",
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"सहकर्मी\":",
+          "prompt": "अमूर्त गुण 'प्रतिभा' के संदर्भ में कौन-सा वाक्य शुद्ध है?",
           "options": [
-            "हम इस पाठ में इकाई 11.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अधिकारी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («वेतन» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («छुट्टी» का अनुचित स्थान)"
+            "आपमें बहुत प्रतिभा है (Aapmein bahut pratibha hai - You have immense talent [internal quality])",
+            "आपके पास बहुत प्रतिभा है (आंतरिक गुण में 'के पास' का अनुचित रूप)",
+            "आपका बहुत प्रतिभा है (लिंग-कारक की असंगत रचना)",
+            "आपको बहुत प्रतिभा है (अनुभूति कारक का अनुपयुक्त प्रयोग)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "आंतरिक सद्गुणों और प्रतिभा के लिए «आपमें» (में परसर्ग) का प्रयोग मानक है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"सहकर्मी\":",
+          "prompt": "वाक्य «हिरन ___ चार पतले पैर और दो सुंदर आँखें होती हैं» में सही परसर्ग भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 11.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («वेतन» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («छुट्टी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अधिकारी» का अशुद्ध रूप)"
+            "के (Hiran ke chaar patle pair - Deer has four slender legs [body parts])",
+            "के पास (Alienable possession - incorrect for permanent body parts)",
+            "में (In - incorrect locative for external body features)",
+            "को (Dative - incorrect experiencer case for organic limbs)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "शारीरिक अंगों के लिए संबंध कारक «के» आता है।"
         }
       ]
     },
@@ -4783,17 +4812,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"सहकर्मी\": Which sentence is completely correct?",
+          "prompt": "शारीरिक अंग व आंतरिक गुणों के सही समन्वय वाला वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 11.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («छुट्टी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अधिकारी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («वेतन» से संबंधित)"
+            "मोर के पंख बहुत सुंदर होते हैं और उस पक्षी में अद्भुत आकर्षण होता है। (Peacock has very beautiful feathers and that bird has wonderful charm.)",
+            "मोर के पास पंख बहुत सुंदर होते हैं।",
+            "मोर को पंख होते हैं।",
+            "मोर में पंख सुंदर होते हैं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«मोर के पंख» (शारीरिक अंग) और «पक्षी में आकर्षण» (आंतरिक गुण) दोनों का प्रयोग व्याकरणिक रूप से उत्कृष्ट है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u11-l4": {
@@ -4801,53 +4831,62 @@
     "subject": "hindi",
     "unit": 11,
     "lessonNumber": 4,
-    "title": "अधिकार और स्वामित्व: का/के/की एवं के पास (Possession) (Part 4)",
+    "title": "बीमारियाँ, अनुभूतियाँ और संवेदनाएं: को (Physical Ailments, Sensations & Feelings with को)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.4) with authentic linguistic precision.",
+    "objective": "शारीरिक रोगों (बुखार, सिरदर्द, जुकाम) और तात्कालिक संवेदनाओं (भूख, प्यास, ठंड, नींद, क्रोध) को व्यक्त करने वाले संप्रदान कर्ता (Dative Experiencer — कर्ता + को) की संरचना में निपुणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में बीमारियाँ (Illnesses), शारीरिक अवस्थाएं (Physical states) और तात्कालिक संवेदनाएं (Sensations) किसी व्यक्ति के स्वामित्व में नहीं होतीं, बल्कि वह उनका अनुभव (Experience) करता है। अतः कर्ता के साथ **'को'** लगता है:\n\n1. निर्माण का सूत्र:\n   - **[कर्ता + को] + [रोग / संवेदना] + [है / था / लगा है / आ रहा है]**\n\n2. प्रमुख संवेदनात्मक अभिव्यक्तियाँ:\n   - **रोग / कष्ट**: मुझे बुखार है (I have a fever); उसे सिरदर्द है (He has a headache);\n   - **भूख / प्यास**: बच्चों को भूख लगी है (Children are hungry); हमें प्यास लगी है (We are thirsty);\n   - **तापमान / ठंड**: मुझे ठंड लग रही है (I am feeling cold); उसे गर्मी लग रही है;\n   - **नींद / आलस्य**: रोहन को नींद आ रही है (Rohan is feeling sleepy);\n   - **क्रोध / दया**: पिताजी को क्रोध आया (Father felt angry); मुझे उस पर दया आई।\n\n3. अशुद्ध प्रयोग से बचें:\n   - 'मेरे पास बुखार है' या 'मेरा बुखार है' सर्वथा अशुद्ध हैं; हमेशा **'मुझे बुखार है'** ही शुद्ध है।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 11.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 11."
+          "target": "मौसम में अचानक परिवर्तन और ठंडी हवाओं के कारण मुझे कल रात से बहुत तेज़ बुखार और सिरदर्द है।",
+          "reading": "mausam mein achanak parivartan aur thandi havaaon ke kaaran mujhe kal raat se bahut tez bukhaar aur sirdard hai. [mɔːsəm mẽː ətʃaːnək pərɪʋərt̪ən ɔːr t̪ʰəɳɖiː ɦəʋaːõː keː kaːrəɳ mʊdʒʱeː kəl raːt̪ seː bəɦʊt̪ t̪eːz bʊkʰaːr ɔːr sɪrd̪ərd̪ hɛː] (MOW-suhm mayn uh-CHAH-nuhk puh-ree-VUHR-tuhn owr THUHN-dee huh-VAH-ohn kay KAH-ruhn MOO-jhay kuhl raht say buh-hoot tayz boo-KHAHR owr seer-DUHRD hy)",
+          "translation": "Due to sudden change in weather and cold winds, I have a very high fever and headache since last night."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 11-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "दिनभर की लंबी और थकाऊ पैदल यात्रा के बाद सभी छोटे बच्चों को बहुत ज़ोर की भूख और प्यास लगी है।",
+          "reading": "dinbhar ki lambi aur thakaaoo paidal yaatra ke baad sabhi chhote bachon ko bahut zor ki bhookh aur pyaas lagi hai. [d̪ɪnbʱər kiː ləmbiː ɔːr t̪ʰəkaːuː pɛːd̪əl jaːt̪raː keː baːd̪ səbʱiː tʃʰoːʈeː bətʃːõː koː bəɦʊt̪ zoːr kiː bʱuːkʰ ɔːr pjaːs ləɡiː hɛː] (DEEN-bhuhr kee LUHM-bee owr thuh-KAH-oo py-DUHL YAH-trah kay bahd SUH-bhee CHHOH-tay BUHTCH-chohn koh buh-hoot zohr kee BHOOKH owr PYAHS LUH-gee hy)",
+          "translation": "After the daylong long and exhausting walking journey, all the little children are feeling very hungry and thirsty."
+        },
+        {
+          "target": "अत्यधिक मानसिक तनाव और चिंता के कारण रोहन को पिछले कई दिनों से रात में ठीक से नींद नहीं आ रही है।",
+          "reading": "atyadhik maanasik tanaav aur chinta ke kaaran Rohan ko pichhle kayi dinon se raat mein theek se neend nahin aa rahi hai. [ət̪jəd̪ʱɪk maːnsɪk t̪ənaːʋ ɔːr tʃɪn̪t̪aː keː kaːrəɳ roːɦən koː pɪtʃʰleː kəiː d̪ɪnõː seː raːt̪ mẽː t̪ʰiːk seː niːn̪d̪ nəɦĩː aː rəɦiː hɛː] (uht-yudh-HEEK MAHN-seek tuh-NAHV owr CHEEN-tah kay KAH-ruhn ROH-huhn koh PEECHH-lay kuh-EE DEE-nohn say raht mayn theek say NEEND nuh-HEEN ah ruh-HEE hy)",
+          "translation": "Due to excessive mental stress and anxiety, Rohan has not been getting proper sleep at night for the past several days."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Illness & Sensations = कर्ता + 'को' + बुखार/भूख/नींद है! 'मेरे पास बुखार है' कभी मत कहो!"
+      ],
+      "culturalNotes": [
+        "हालचाल पूछते समय 'आपको क्या तकलीफ है?' (What ailment/trouble do you have?) कहना अत्यंत शिष्ट और सहानुभूतिपूर्ण प्रश्न है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"अधिकारी\":",
+          "prompt": "वाक्य «I have a headache» का शुद्ध व्याकरणिक अनुवाद क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 11.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («वेतन» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («छुट्टी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बैठक» का अनुचित स्थान)"
+            "मुझे सिरदर्द है (Mujhe sirdard hai - I have a headache [dative experiencer])",
+            "मेरे पास सिरदर्द है (शारीरिक कष्ट में 'के पास' का अमानक प्रयोग)",
+            "मेरा सिरदर्द है (स्वामित्व परसर्ग का असंगत रूप)",
+            "मुझमें सिरदर्द है (गुण सूचक परसर्ग की अशुद्धि)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "शारीरिक पीड़ा और रोग के लिए संप्रदान कर्ता «मुझे सिरदर्द है» का प्रयोग होता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"अधिकारी\":",
+          "prompt": "वाक्य «यात्रियों ___ बहुत प्यास लगी थी» में सही परसर्ग भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 11.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («छुट्टी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बैठक» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («वेतन» का अशुद्ध रूप)"
+            "को (Yaatriyon ko pyaas lagi thi - Passengers felt thirsty [experiencer marker])",
+            "के पास (Physical marker - cannot possess thirst as an object)",
+            "का (Genitive marker - cannot link subject directly to sensation)",
+            "में (Locative marker - incorrect container case for feeling thirst)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "प्यास की अनुभूति के लिए कारक «को» आता है।"
         }
       ]
     },
@@ -4855,17 +4894,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"अधिकारी\": Which sentence is completely correct?",
+          "prompt": "संवेदना और रोग की दृष्टि से पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 11.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बैठक» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («वेतन» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («छुट्टी» से संबंधित)"
+            "मरीज़ को कल रात से तेज़ जुकाम और खाँसी है। (The patient has severe cold and cough since last night.)",
+            "मरीज़ के पास तेज़ जुकाम और खाँसी है।",
+            "मरीज़ का तेज़ जुकाम है।",
+            "मरीज़ में जुकाम है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«मरीज़ को... जुकाम और खाँसी है» में रोग के अनुभविता कर्ता की संरचना पूर्णतः शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u11-l5": {
@@ -4873,53 +4913,62 @@
     "subject": "hindi",
     "unit": 11,
     "lessonNumber": 5,
-    "title": "अधिकार और स्वामित्व: का/के/की एवं के पास (Possession) (Part 5)",
+    "title": "स्वामित्व और अधिकार के सभी रूपों का समेकन व तुलनात्मक अभ्यास (के पास vs का/की vs में vs को)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.5) with authentic linguistic precision.",
+    "objective": "अधिकार, संबंध, शारीरिक अंग, सद्गुण एवं अनुभूतियों की पाँचों श्रेणियों ('के पास', 'का/के/की', 'में', 'को') के सटीक विभेद और संश्लिष्ट वाक्य निर्माण में संपूर्ण महारत हासिल करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "स्वामित्व, संबंध और विशेषताओं के पाँचों व्याकरणिक प्रतिमानों की समग्र तुलनात्मक तालिका:\n\n1. पाँचों श्रेणियों का वर्गीकरण:\n   - **1. मूर्त/चल वस्तु (Physical Object)**: *के पास*\n     - मेरे पास गाड़ी है, उसके पास पैसे हैं।\n   - **2. पारिवारिक संबंध (Kinship & Friends)**: *का / के / की*\n     - मेरी दो बहनें हैं, उसके तीन मित्र हैं।\n   - **3. शारीरिक अंग (Body Parts)**: *का / के / की*\n     - हाथी की सूँड होती है, मेरी आँखें नीली हैं।\n   - **4. आंतरिक सद्गुण व अमूर्त गुण (Abstract Qualities)**: *में*\n     - उसमें ईमानदारी है, आपमें धैर्य है।\n   - **5. रोग, संवेदना व मानसिक अवस्था (Illnesses/Sensations)**: *को*\n     - मुझे बुखार है, बच्चों को भूख लगी है।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 11.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 11."
+          "target": "मेरे पास अध्ययन के लिए सभी महत्वपूर्ण पुस्तकें हैं, मेरे दो भाई दिल्ली में हैं, और मुझे इस शोध कार्य में बहुत गहरी रुचि है।",
+          "reading": "mere paas adhyayan ke liye sabhi mahatvapoorna pustakein hain, mere do bhai Dilli mein hain, aur mujhe is shodh kaary mein bahut gehri ruchi hai. [meːreː paːs əd̪ʱjəjən keː lɪjeː səbʱiː məɦət̪ʋəpuːrɳə pʊst̪əkẽː hɛ̃ː meːreː d̪oː bʱaːiː d̪ɪlːiː mẽː hɛ̃ː ɔːr mʊdʒʱeː ɪs ʃoːd̪ʱ kaːrjə mẽː bəɦʊt̪ ɡɛɦriː rʊtʃɪ hɛː] (MAY-ray pahs uhdh-YUH-yuhn kay lee-ay SUH-bhee muh-huht-vuh-POOR-nuh POOS-tuh-kayn hy-n, MAY-ray doh bhah-EE DEEL-lee mayn hy-n, owr MOO-jhay ees shohdh KAHR-yuh mayn buh-hoot GUH-h-ree ROO-chee hy)",
+          "translation": "I have all important books for study, I have two brothers in Delhi, and I have very deep interest in this research work."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 11-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "यद्यपि उस व्यापारी के पास अपार धन-दौलत है, फिर भी उसके मन में तनिक भी अहंकार या घमंड नहीं है।",
+          "reading": "yadyapi us vyaapaari ke paas apaar dhan-daulat hai, phir bhi uske man mein tanik bhi ahankaar ya ghamand nahin hai. [jəd̪jəpɪ ʊs ʋjaːpaːriː keː paːs əpaːr d̪ʱən d̪ɔːlət̪ hɛː pʰɪr bʱiː ʊskeː mən mẽː t̪ənɪk bʱiː əɦəŋkaːr jaː ɡʱəməɳɖ nəɦĩː hɛː] (YUD-yuh-pee oos vyah-PAH-ree kay pahs uh-PAHR dhuhn-DOW-luht hy, feer bhee oos-KAY muhn mayn TUH-neek bhee uh-huhng-KAHR yah ghuh-MUHND nuh-HEEN hy)",
+          "translation": "Although that merchant has boundless wealth, still there is not the slightest arrogance or pride in his heart."
+        },
+        {
+          "target": "जब मरीज़ को अचानक तेज़ बुखार हुआ, तब डॉक्टर ने कहा कि उसके पास तुरंत अस्पताल में भर्ती होने के अतिरिक्त कोई विकल्प नहीं था।",
+          "reading": "jab mareez ko achanak tez bukhaar hua, tab doctor ne kaha ki uske paas turant aspataal mein bharti hone ke atirikt koyi vikalp nahin tha. [dʒəb məriːz koː ətʃaːnək t̪eːz bʊkʰaːr hʊaː t̪əb ɖɔːkʈər neː kəɦaː kɪ ʊskeː paːs t̪ʊrən̪t̪ əspət̪aːl mẽː bʱərt̪iː hoːneː keː ət̪ɪrɪkt̪ koːiː ʋɪkəlp nəɦĩː t̪ʰaː] (juhb muh-REEZ koh uh-CHAH-nuhk tayz boo-KHAHR HOO-ah, tuhb DAHK-tuhr nay KUH-hah kee oos-KAY pahs TOO-ruhnt uhs-puh-TAHL mayn bhuhr-TEE hoh-NAY kay uh-tee-REEKT koh-EE vee-KUHLP nuh-HEEN thah)",
+          "translation": "When the patient suddenly got high fever, then the doctor said that he had no option other than getting admitted to the hospital immediately."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "कार = के पास; भाई = का/के/की; सूँड = का/के/की; साहस = में; बुखार = को! पाँचों का भेद याद रखो!"
+      ],
+      "culturalNotes": [
+        "हिंदी की यह पाँच-स्तरीय अधिकार व्यवस्था भारतीय भाषा-चिंतन में व्यक्ति, वस्तु, संबंध और चेतना के सूक्ष्म दार्शनिक अंतर को दर्शाती है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"वेतन\":",
+          "prompt": "पाँचों स्वामित्व संरचनाओं में से 'भाई-बहन' के लिए कौन-सा प्रारूप प्रयुक्त होता है?",
           "options": [
-            "हम इस पाठ में इकाई 11.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («छुट्टी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बैठक» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («योजना» का अनुचित स्थान)"
+            "का / के / की (जैसे: मेरे दो भाई हैं - Kinship relation)",
+            "के पास (Reserved only for alienable physical goods like car, book)",
+            "में (Reserved for internal virtues and talents like courage, patience)",
+            "को (Reserved for sensations, diseases, and hunger/thirst)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "पारिवारिक रिश्तों के लिए संबंध कारक «का / के / की» प्रयुक्त होता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"वेतन\":",
+          "prompt": "वाक्य «उस बालक ___ बहुत प्रतिभा है, किंतु आज उसे बुखार है» में रिक्त स्थान का सही परसर्ग क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 11.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बैठक» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («योजना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («छुट्टी» का अशुद्ध रूप)"
+            "में (Us baalak mein - In that boy [talent/virtue])",
+            "के पास (Physical possession - talent is not a portable tool)",
+            "का (Genitive relation - fails to denote internal attribute)",
+            "को (Experiencer marker - talent is not an illness)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "प्रतिभा (आंतरिक गुण) के लिए «में» परसर्ग आता है।"
         }
       ]
     },
@@ -4927,17 +4976,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"वेतन\": Which sentence is completely correct?",
+          "prompt": "स्वामित्व और अधिकार के सभी पाँचों रूपों के शुद्ध प्रयोग वाला वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 11.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («योजना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («छुट्टी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बैठक» से संबंधित)"
+            "मेरे पास पर्याप्त साधन हैं, मेरी एक बहन है, मुझमें आत्मविश्वास है और मुझे कोई बीमारी नहीं है। (I have sufficient means, I have a sister, I have self-confidence, and I have no illness.)",
+            "मेरे पास एक बहन है और मेरे पास आत्मविश्वास है।",
+            "मुझको साधन हैं और मेरी बीमारी है।",
+            "मुझमें साधन हैं और मेरे पास बीमारी है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«मेरे पास साधन हैं» (मूर्त), «मेरी बहन है» (रिश्ता), «मुझमें आत्मविश्वास है» (गुण), और «मुझे बीमारी नहीं है» (अनुभूति) चारों का समन्वय शत-प्रतिशत शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u12-l1": {
