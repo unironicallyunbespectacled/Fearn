@@ -13656,85 +13656,89 @@
     "subject": "arabic",
     "unit": 23,
     "lessonNumber": 1,
-    "title": "لغة الإعلام والصحافة العربية (Media & News Discourse) (الدرس 1)",
+    "title": "صياغة العناوين الصحفية والموجز الإخباري (Journalistic Headlines & News Summaries)",
     "level": "B2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: تحليل المقالات الصحفية، التغطيات الإخبارية، والمصطلحات الدبلوماسية والسياسية المعاصرة. (الجزء 1).",
+    "objective": "إتقان تراكيب وأساليب صياغة العناوين الصحفية والمواجيز الإخبارية في الإعلام العربي الفصيح، والتمييز بين الجمل الاسمية المصدرية والجمل الفعلية التقريرية.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تمتاز لغة الإعلام والصحافة العربية الفصيحة بأسلوب يجمع بين الإيجاز البليغ والدقة التقريرية وسرعة نقل الخبر:\n\nأولاً: أساليب صياغة العناوين الصحفية (Journalistic Headlines):\n1.【الجُمْلَةُ الِاسْمِيَّةُ المَصْدَرِيَّةُ (Nominal / Verbal-Noun Headlines)】:\n   - حذف الفعل والبدء بالمصدر لإبراز الحدث والفورية التحريرية:\n   - «**انْطِلَاقُ** أَعْمَالِ القِمَّةِ العَرَبِيَّةِ لِلتَّنْمِيَةِ فِي الرِّيَاضِ».\n   - «**تَوْقِيعُ** اتِّفَاقِيَّةِ الشَّرَاكَةِ الِاقْتِصَادِيَّةِ الشَّامِلَةِ بَيْنَ البَلَدَيْنِ».\n2.【الجُمْلَةُ الفِعْلِيَّةُ التَّقْرِيرِيَّةُ (Verbal Declarative Headlines)】:\n   - استخدام الفعل الماضي للقطع بوقوع الحدث:\n   - «**اخْتَتَمَ** القَادَةُ العَرَبُ مُحَادَثَاتِهِمْ بِإِعْلَانِ تَفَاهُمَاتٍ جَدِيدَةٍ».\n   - «**أَعْلَنَتِ** الوِزَارَةُ عَنْ حُزْمَةِ مُبَادَرَاتٍ لِدَعْمِ الشَّبَابِ».\n\nثانياً: تراكيب الموجز الإخباري ونشرات الأخبار:\n- «**فِي مُسْتَهَلِّ النَّشْرَةِ**» (At the outset of the bulletin).\n- «**إِلَيْكُمْ تَفَاصِيلَ الأَنْبَاءِ**» (Here are the details of the news).\n- «**فِي صَدَارَةِ العَنَاوِينِ**» (At the forefront of headlines).\n- «**أَكَّدَتْ مَصَادِرُ مُطَّلِعَةٌ أَنَّ...**» (Informed sources confirmed that...).\n- «**فِي خِتَامِ البَيَانِ الرَّسْمِيِّ**» (At the conclusion of the official communiqué).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)» بأسلوب أكاديمي دقيق (23.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'لغة الإعلام والصحافة العربية (Media & News Discourse)' to students in an accurate academic style."
+          "target": "انْطِلَاقُ أَعْمَالِ المُنْتَدَى الدَّوْلِيِّ لِلطَّاقَةِ المُتَجَدِّدَةِ بِمُشَارَكَةِ خَمْسِينَ دَوْلَةً.(Inṭilāqu aʿmāli al-muntadā ad-dawliyyi li-ṭ-ṭāqati al-mutajaddidati bi-mushārakati khamsīna dawlah.)",
+          "reading": "[in.tˤi.laː.qu ʔaʕ.maː.li‿l.mun.ta.daː‿d.daw.lij.ji litˤ.tˤaː.qa.ti‿l.mu.ta.ʒad.di.da.ti bi.mu.ʃaː.ra.ka.ti xam.siː.na daw.lah] (In-ṭi-lā-qu aʿ-mā-li al-mun-ta-dā ad-daw-liy-yi li-ṭ-ṭā-qa-ti al-mu-ta-jad-di-da-ti bi-mu-shā-ra-ka-ti kham-sī-na daw-lah.)",
+          "translation": "Launch of the proceedings of the International Renewable Energy Forum with the participation of fifty countries."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (23.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "اخْتَتَمَ وُزَرَاءُ الخَارِجِيَّةِ اجْتِمَاعَهُمْ بِتَأْكِيدِ أَهَمِّيَّةِ تَعْزِيزِ التَّعَاوُنِ الإِقْلِيمِيِّ.(Ikhtatama wuzarāʾu al-khārijiyyati ijtimāʿahum bi-taʾkīdi ahammiyyati taʿzīzi at-taʿāwuni al-iqlīmiyy.)",
+          "reading": "[ix.ta.ta.ma wu.za.raː.ʔu‿l.xaː.ri.ʒij.ja.ti‿ʒ.ti.maː.ʕa.hum bi.taʔ.kiː.di ʔa.ham.mij.ja.ti taʕ.ziː.zi‿t.ta.ʕaː.wu.ni‿l.ʔiq.liː.mijj] (Ikh-ta-ta-ma wu-za-rā-ʾu al-khā-ri-jiy-ya-ti ij-ti-mā-ʿa-hum bi-taʾ-kī-di a-ham-miy-ya-ti taʿ-zī-zi at-ta-ʿā-wu-ni al-iq-lī-miyy.)",
+          "translation": "Foreign ministers concluded their meeting by emphasizing the importance of enhancing regional cooperation."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (23.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "فِي مُسْتَهَلِّ جَوْلَتِهِ الدِّبْلُومَاسِيَّةِ، عَقَدَ الوَفْدُ مُبَاحَثَاتٍ مُوَسَّعَةً مَعَ نُظَرَائِهِ.(Fī mustahalli jawlatihi ad-diblūmāsiyyah, ʿaqada al-wafdu mubāḥathātin muwassaʿatan maʿa nuẓarāʾih.)",
+          "reading": "[fiː mus.ta.hal.li ʒaw.la.ti.hi‿d.dib.luː.maː.sij.jah, ʕa.qa.da‿l.waf.du mu.baː.ħa.θaː.tin mu.was.sa.ʕa.tan ma.ʕa nu.zˤa.raː.ʔih] (Fī mus-ta-hal-li jaw-la-ti-hi ad-dib-lū-mā-siy-yah, ʿa-qa-da al-waf-du mu-bā-ḥa-thā-tin mu-was-sa-ʿa-tan ma-ʿa nu-ẓa-rā-ʾih.)",
+          "translation": "At the outset of his diplomatic tour, the delegation held extensive discussions with its counterparts."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (23.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "إِلَيْكُمْ مُوجَزَ الأَنْبَاءِ مِنْ إِذَاعَةِ صَوْتِ العَرَبِ نُقَدِّمُهُ لَكُمْ بِكُلِّ حِيَادٍ وَدِقَّةٍ.(Ilaykum mûjaza al-anbāʾi min idhāʿati ṣawti al-ʿarabi nuqaddimuhu lakum bi-kulli ḥiyādin wa-diqqah.)",
+          "reading": "[ʔi.laj.kum muː.ʒa.za‿l.ʔan.baː.ʔi min ʔi.ðaː.ʕa.ti sˤaw.ti‿l.ʕa.ra.bi nu.qad.di.mu.hu la.kum bi.kul.li ħi.jaː.din wa.diq.qah] (I-lay-kum mū-ja-za al-an-bā-ʾi min i-dhā-ʿa-ti ṣaw-ti al-ʿa-ra-bi nu-qad-di-mu-hu la-kum bi-kul-li ḥi-yā-din wa-diq-qah.)",
+          "translation": "Here is the news summary from the Voice of the Arabs Radio, we present it to you with all neutrality and precision."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "عُنْوَانُ الخَبَرِ صَرْحٌ مُشْرِقُ البَيَانْ، مَصْدَرٌ أَوْ مَاضٍ يُخْبِرُ الزَّمَانْ!"
+      ],
+      "culturalNotes": [
+        "الصحافة العربية المعاصرة ورثت تقاليد فصيحة عريقة منذ بواكير عصر النهضة (كجريدة الأهرام والمجلات الأدبية الكبرى)، وظلت تحافظ على الجزالة والضبط النحوي الصارم."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)» (الدرس 1)؟",
+          "prompt": "أي التركيبين التاليين يمثل عنواناً صحفياً مصدرياً بليغاً وموجزاً؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)» بأسلوب أكاديمي دقيق (23.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (23.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (23.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (23.1.w3)"
+            "«تَوْقِيعُ اتِّفَاقِيَّةِ الشَّرَاكَةِ الِاسْتِرَاتِيجِيَّةِ بَيْنَ البَلَدَيْنِ» (Signing of strategic partnership agreement)",
+            "تم توقيع الاتفاقية بواسطة المسؤولين في الصباح",
+            "نحن نوقع الاتفاقية الآن في الغرفة",
+            "الاتفاقية وقعت وسوف نرى النتائج"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "البدء بالمصدر المضاف («تَوْقِيعُ اتِّفَاقِيَّةِ...») هو الأسلوب المعياري البليغ للعناوين الصحفية في العربية الفصحى."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ماذا تعني عبارة «فِي مُسْتَهَلِّ الجَوْلَةِ» في السياق الإخباري؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "فِي بِدَايَتِهَا وَانْطِلَاقَتِهَا الأُولَى (At its beginning / outset)",
+            "في نهايتها واختتامها",
+            "في منتصف الطريق",
+            "بعد إلغائها وتأجيلها"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«المُسْتَهَلّ» هو بداية الشيء وبواكير انطلاقه."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u23-l1):",
+          "prompt": "اختر الصياغة الإخبارية الفصيحة المناسبة لافتتاح نشرة الأخبار المتلفزة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (23.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (23.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (23.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (23.1.x3)"
+            "«سَيِّدَاتِي وَسَادَتِي، طَابَتْ أَوْقَاتُكُمْ، إِلَيْكُمْ نَشْرَةَ الأَخْبَارِ الرَّئِيسَةَ مِنْ إِسْتُودْيُوهَاتِنَا فِي القَاهِرَةِ». (Ladies and gentlemen, good day, here is the main news bulletin from our studios in Cairo.)",
+            "اهلا بكم جميعا اسمعوا ماذا حدث اليوم في الشارع",
+            "مرحبا بكم الخبر الاول هو مؤتمر كبير جدا",
+            "نشرة اخبار كلام عامي سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "هذه هي الصيغة الدبلوماسية والإعلامية المعتمدة في القنوات الإخبارية الرصينة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)»؟",
+          "prompt": "ما الفرق الأسلوبي بين «انْطَلَقَتِ القِمَّةُ» و«انْطِلَاقُ القِمَّةِ» في الصحافة؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (23.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (23.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (23.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (23.1.y3)"
+            "الأُولَى جُمْلَةٌ فِعْلِيَّةٌ تَقْرِيرِيَّةٌ تَصْلُحُ لِمَتْنِ الخَبَرِ، وَالثَّانِيَةُ مَصْدَرِيَّةٌ تُفَضَّلُ لِلْعَنَاوِينِ (First is body declarative, second is verbal-noun headline)",
+            "لا يوجد أي فرق بينهما إطلاقاً",
+            "الأولى عامية والثانية فصيحة",
+            "كلاهما ممنوع من الصرف"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "العناوين تفضل المصادر للإيجاز، بينما متون الأخبار تبدأ بالأفعال التقريرية."
         }
       ]
     },
@@ -13742,24 +13746,29 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 23-1)؟",
+          "prompt": "اختر النص الإخباري المتكامل الذي يجمع بين العنوان المصدري البليغ والموجز التقريري الفصيح:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (23.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (23.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (23.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (23.1.z3)"
+            "«اخْتِتَامُ أَعْمَالِ قِمَّةِ المُنَاخِ فِي الرِّيَاضِ؛ حَيْثُ أَكَّدَ القَادَةُ فِي بَيَانِهِمُ الخِتَامِيِّ عَلَى ضَرُورَةِ تَسْرِيعِ التَّحَوُّلِ نَحْوَ الطَّاقَةِ النَّظِيفَةِ وَدَعْمِ مَشَارِيعِ الِاسْتِدَامَةِ البِيئِيَّةِ». ('Conclusion of Climate Summit in Riyadh; where leaders confirmed in their final communiqué the necessity of accelerating transition towards clean energy and supporting environmental sustainability projects.')",
+            "قيل في الاخبار ان المؤتمر خلص والناس مشت.",
+            "عنوان مصدري ختام اعمال قمة سكون فتحة ضمة بيئة طاقة.",
+            "فشل المؤتمر ولم يخرج باي بيان ختامي."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الرصانة الصحفية: عنوان مصدري محكم («اخْتِتَامُ أَعْمَالِ...»)، وتفصيل تقريري دقيق بعبارات («فِي بَيَانِهِمُ الخِتَامِيِّ»، «التَّحَوُّلِ نَحْوَ الطَّاقَةِ النَّظِيفَةِ»)."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u23-l1) باللغة العربية (مثال: «لغة»):",
+          "prompt": "اكتب باللغة العربية الفصحى المصطلح الذي يطلق على الخلاصة المركزة لأهم الأحداث في مطلع النشرة الإخبارية (اكتب: «موجز الأنباء» أو «الموجز»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "لغة",
-            "لغة"
+            "موجز الأنباء",
+            "موجز الانباء",
+            "الموجز",
+            "موجز الأخبار",
+            "موجز الاخبار",
+            "مُوجَزُ الأَنْبَاءِ",
+            "مُوجَز"
           ],
-          "explanation": "المصطلح الصحيح هو «لغة»."
+          "explanation": "المصطلح هو «موجز الأنباء» (أو الموجز الإخباري)."
         }
       ],
       "passThreshold": 0.8
@@ -13770,85 +13779,89 @@
     "subject": "arabic",
     "unit": 23,
     "lessonNumber": 2,
-    "title": "لغة الإعلام والصحافة العربية (Media & News Discourse) (الدرس 2)",
+    "title": "المصطلحات السياسية والدبلوماسية في الخطاب المعاصر (Political & Diplomatic Terminology)",
     "level": "B2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: تحليل المقالات الصحفية، التغطيات الإخبارية، والمصطلحات الدبلوماسية والسياسية المعاصرة. (الجزء 2).",
+    "objective": "إتقان المعجم السياسي والمصطلحات الدبلوماسية المعاصرة في الخطاب العربي، وتراكيب البيانات الرسمية والمباحثات الثنائية والدولية.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يتميز الخطاب السياسي والدبلوماسي العربي الفصيح بدقة المصطلحات وأناقة العبارة وتوازن الصياغة:\n\nأولاً: المعجم الدبلوماسي والسياسي المعاصر (Diplomatic Lexicon):\n- 【العَلَاقَاتُ الثُّنَائِيَّةُ】 (Bilateral relations): العلاقات بين دولتين.\n- 【مُحَادَثَاتٌ ثُنَائِيَّةٌ / ثُلَاثِيَّةٌ / مُتَعَدِّدَةُ الأَطْرَافِ】 (Bilateral / Trilateral / Multilateral talks).\n- 【خَفْضُ التَّصْعِيدِ وَتَهْدِئَةُ التَّوَتُّرِ】 (De-escalation and easing tension).\n- 【تَبَادُلُ وُجُهَاتِ النَّظَرِ】 (Exchange of views and perspectives).\n- 【البَيَانُ الخِتَامِيُّ المُشْتَرَكُ】 (Joint final communiqué).\n- 【جَدْوَلُ الأَعْمَالِ】 (Agenda / Order of the day).\n- 【الوَسَاطَةُ الدِّبْلُومَاسِيَّةُ وَالمَسَاعِي الحَمِيدَةُ】 (Diplomatic mediation and good offices).\n- 【تَسْوِيَةٌ شَامِلَةٌ وَعَادِلَةٌ】 (Comprehensive and just settlement).\n\nثانياً: قوالب الإسناد الدبلوماسي (Diplomatic Attribution Templates):\n- «**أَعْرَبَ عَنْ بَالِغِ ارْتِيَاحِهِ لِـ...**» (Expressed profound satisfaction with...).\n- «**شَدَّدَ عَلَى ضَرُورَةِ الِالْتِزَامِ بِـ...**» (Emphasized the necessity of adhering to...).\n- «**دَعَا إِلَى تَكْثِيفِ الجُهُودِ الدَّوْلِيَّةِ**» (Called for intensifying international efforts).\n- «**أَشَادَ بِعُمْقِ الرَّوَابِطِ التَّارِيخِيَّةِ**» (Commended the depth of historic ties).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)» بأسلوب أكاديمي دقيق (23.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'لغة الإعلام والصحافة العربية (Media & News Discourse)' to students in an accurate academic style."
+          "target": "أَجْرَى الزَّعِيمَانِ مُبَاحَثَاتٍ مُعَمَّقَةً تَنَاوَلَتْ سُبُلَ تَعْزِيزِ العَلَاقَاتِ الثُّنَائِيَّةِ وَخَفْضِ التَّصْعِيدِ فِي المِنْطَقَةِ.(Ajrā az-zaʿīmāni mubāḥathātin muʿammaqatan tanāwalat subula taʿzīzi al-ʿalāqāti ath-thunāʾiyyati wa-khafḍi at-taṣʿīdi fī al-minṭaqah.)",
+          "reading": "[ʔaʒ.raː‿z.za.ʕiː.maː.ni mu.baː.ħa.θaː.tin mu.ʕam.ma.qa.tan ta.naː.wa.lat su.bu.la taʕ.ziː.zi‿l.ʕa.laː.qaː.ti‿θ.θu.naː.ʔij.ja.ti wa.xaf.dˤi‿t.tasˤ.ʕiː.di fiː‿l.min.tˤa.qah] (Aj-rā az-za-ʿī-mā-ni mu-bā-ḥa-thā-tin mu-ʿam-ma-qa-tan ta-nā-wa-lat su-bu-la taʿ-zī-zi al-ʿa-lā-qā-ti ath-thu-nā-ʾiy-ya-ti wa-khaf-ḍi at-taṣ-ʿī-di fī al-min-ṭa-qah.)",
+          "translation": "The two leaders conducted in-depth talks addressing ways to strengthen bilateral relations and de-escalate tension in the region."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (23.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَعْرَبَ البَيَانُ المُشْتَرَكُ عَنِ الِالْتِزَامِ التَّامِّ بِالمَوَاثِيقِ الدَّوْلِيَّةِ وَدَعْمِ مَسَاعِي السَّلَامِ العَادِلِ.(Aʿraba al-bayānu al-mushtaraku ʿani al-iltizāmi at-tāmmi bi-al-mawāthīqi ad-dawliyyati wa-daʿmi masāʿī as-salāmi al-ʿādil.)",
+          "reading": "[ʔaʕ.ra.ba‿l.ba.jaː.nu‿l.muʃ.ta.ra.ku ʕa.ni‿l.ʔil.ti.zaː.mi‿t.taːm.mi bil.ma.waː.θiː.qi‿d.daw.lij.ja.ti wa.daʕ.mi ma.saː.ʕiː‿s.sa.laː.mi‿l.ʕaː.dil] (Aʿ-ra-ba al-ba-yā-nu al-mush-ta-ra-ku ʿan al-il-ti-zā-mi at-tām-mi bi-al-ma-wā-thī-qi ad-daw-liy-ya-ti wa-daʿ-mi ma-sā-ʿī as-sa-lā-mi al-ʿā-dil.)",
+          "translation": "The joint communiqué expressed complete commitment to international conventions and support for just peace endeavors."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (23.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "شَدَّدَ مَبْعُوثُ الأُمَمِ المُتَّحِدَةِ عَلَى ضَرُورَةِ إِحْرَازِ تَقَدُّمٍ مَلْمُوسٍ فِي جَدْوَلِ أَعْمَالِ المُفَاوَضَاتِ.(Shaddada mabʿūthu al-umami al-muttaḥidati ʿalā ḍarūrati iḥrāzi taqaddumin malmūsin fī jadwali aʿmāli al-mufāwaḍāt.)",
+          "reading": "[ʃad.da.da mab.ʕuː.θu‿l.ʔu.ma.mi‿l.mut.ta.ħi.da.ti ʕa.laː dˤa.ruː.ra.ti ʔiħ.raː.zi ta.qad.du.min mal.muː.sin fiː ʒad.wa.li ʔaʕ.maː.li‿l.mu.faː.wa.dˤaːt] (Shad-da-da mab-ʿū-thu al-u-ma-mi al-mut-ta-ḥi-da-ti ʿa-lā ḍa-rū-ra-ti iḥ-rā-zi ta-qad-du-min mal-mū-sin fī jad-wa-li aʿ-mā-li al-mu-fā-wa-ḍāt.)",
+          "translation": "The UN envoy emphasized the necessity of achieving tangible progress on the negotiations agenda."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (23.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "أَشَادَ الوَزِيرُ بِالدَّوْرِ الرِّيَادِيِّ لِلدِّبْلُومَاسِيَّةِ العَرَبِيَّةِ فِي رَأْبِ الصَّدْعِ وَتَحْقِيقِ الِاسْتِقْرَارِ.(Ashāda al-wazīru bi-ad-dawri ar-riyādiyyi li-ad-diblūmāsiyyati al-ʿarabiyyati fī raʾbi aṣ-ṣadʿi wa-taḥqīqi al-istiqrār.)",
+          "reading": "[ʔa.ʃaː.da‿l.wa.ziː.ru bid.daw.ri‿r.ri.jaː.dij.ji lid.dib.luː.maː.sij.ja.ti‿l.ʕa.ra.bij.ja.ti fiː raʔ.bi‿sˤ.sˤad.ʕi wa.taħ.qiː.qi‿l.ʔis.tiq.raːr] (A-shā-da al-wa-zī-ru bi-ad-daw-ri ar-ri-yā-diy-yi li-ad-dib-lū-mā-siy-ya-ti al-ʿa-ra-biy-ya-ti fī raʾ-bi aṣ-ṣad-ʿi wa-taḥ-qī-qi al-is-tiq-rār.)",
+          "translation": "The minister commended the pioneering role of Arab diplomacy in mending the rift and achieving stability."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "بَيَانٌ مُشْتَرَكٌ وَعَلَاقَاتٌ ثُنَائِيَّةْ، أَلْفَاظُ الدِّبْلُومَاسِيَّةِ فِصَاحٌ جَلِيَّةْ!"
+      ],
+      "culturalNotes": [
+        "عبارة «رَأْب الصَّدْع» استعارة عربية تراثية أصيلة من إصلاح الإناء المتصدع، استقرت في الخطاب الدبلوماسي المعاصر للدلالة على المصالحة وإزالة الخلافات."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)» (الدرس 2)؟",
+          "prompt": "ما معنى التعبير الدبلوماسي «رَأْبُ الصَّدْعِ» في الأخبار السياسية؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)» بأسلوب أكاديمي دقيق (23.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (23.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (23.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (23.2.w3)"
+            "إِصْلَاحُ الخِلَافِ وَإِعَادَةُ الوِئَامِ وَالمُصَالَحَةِ (Mending the rift / Reconciliation)",
+            "زيادة التوتر والخصام",
+            "إلغاء المعاهدات والاتفاقيات",
+            "إغلاق الحدود الدبلوماسية"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«رَأْبُ الصَّدْعِ» تعني إصلاح الشقاق والمصالحة بين الأطراف المتنازعة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو المقابل الفصيح للمصطلح السياسي الدولي (Bilateral Relations)؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "العَلَاقَاتُ الثُّنَائِيَّةُ (Bilateral relations)",
+            "العلاقات الفردية",
+            "العلاقات العامة",
+            "العلاقات غير المحددة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "المصطلح المعياري هو «العَلَاقَاتُ الثُّنَائِيَّةُ»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u23-l2):",
+          "prompt": "اختر الجملة التي تصوغ موقفاً دبلوماسياً رسمياً بأسلوب عربي فصيح ومتوازن:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (23.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (23.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (23.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (23.2.x3)"
+            "أَعْرَبَتِ الخَارِجِيَّةُ عَنْ بَالِغِ قَلَقِهَا إِزَاءَ التَّطَوُّرَاتِ الأَخِيرَةِ دَاعِيَةً إِلَى ضَبْطِ النَّفْسِ. (The Foreign Ministry expressed its deep concern over recent developments, calling for restraint.)",
+            "الوزارة زعلانة جدا مما حصل وتنادي الناس يسكتوا",
+            "قلق شديد في كل مكان بدون اي بيان",
+            "دبلوماسية قلق ضبط نفس سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«أَعْرَبَتْ عَنْ بَالِغِ قَلَقِهَا... دَاعِيَةً إِلَى ضَبْطِ النَّفْسِ» هو القالب الدبلوماسي المعياري الفصيح."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)»؟",
+          "prompt": "ما المقصود بـ «المَسَاعِي الحَمِيدَةُ» (Good offices) في العلاقات الدولية؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (23.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (23.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (23.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (23.2.y3)"
+            "جُهُودُ الوَسَاطَةِ الدِّبْلُومَاسِيَّةِ لِحَلِّ النِّزَاعَاتِ سِلْمِيًّا (Diplomatic mediation to resolve disputes peacefully)",
+            "المساعدات المالية فقط",
+            "الرحلات السياحية للمسؤولين",
+            "البيانات الصحفية غير الرسمية"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«المساعي الحميدة» هي جهود دولة أو منظمة محايدة للتوسط وتقريب وجهات النظر بين أطراف النزاع."
         }
       ]
     },
@@ -13856,24 +13869,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 23-2)؟",
+          "prompt": "اختر البيان الدبلوماسي الأكثر فصاحة ورصانة في التعبير عن نتائج قمة دولية رفيعة المستوى:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (23.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (23.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (23.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (23.2.z3)"
+            "أَكَّدَ القَادَةُ فِي خِتَامِ قِمَّتِهِمُ الطَّارِئَةِ عَلَى ضَرُورَةِ خَفْضِ التَّصْعِيدِ، وَتَبَنِّي حُلُولٍ دِبْلُومَاسِيَّةٍ شَامِلَةٍ تَقُومُ عَلَى احْتِرَامِ السِّيَادَةِ الوَطَنِيَّةِ وَمَبَادِئِ حُسْنِ الجِوَارِ، مُشِيدِينَ بِالمَسَاعِي الحَمِيدَةِ الَّتِي بُذِلَتْ لِرَأْبِ الصَّدْعِ. (The leaders affirmed at the close of their emergency summit the necessity of de-escalation and adopting comprehensive diplomatic solutions based on respecting national sovereignty and principles of good neighborliness, commending good offices exerted to mend the rift.)",
+            "اجتمع الرؤساء وقالوا ان كل شيء تمام وسيعودون الى بلادهم غدا.",
+            "بيان دبلوماسي خفض تصعيد حسن جوار سكون فتحة ضمة سيادة وطنية.",
+            "تفرقت القمة دون اي اتفاق بين الاطراف."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "البيان يحقق أعلى مستويات الفصاحة الدبلوماسية: («خَفْضُ التَّصْعِيدِ»، «السِّيَادَةُ الوَطَنِيَّةُ»، «حُسْنُ الجِوَارِ»، «المَسَاعِي الحَمِيدَةُ»، و«رَأْبُ الصَّدْعِ»)."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u23-l2) باللغة العربية (مثال: «لغة»):",
+          "prompt": "اكتب باللغة العربية الفصحى المصطلح الدبلوماسي الذي يطلق على البيان المشترك الصادر في نهاية المؤتمرات والقمم الرسمية (اكتب: «البيان الختامي»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "لغة",
-            "لغة"
+            "البيان الختامي",
+            "البيان الختامى",
+            "بيان ختامي",
+            "البَيَانُ الخِتَامِيُّ",
+            "البَيَان الخِتَامِي"
           ],
-          "explanation": "المصطلح الصحيح هو «لغة»."
+          "explanation": "المصطلح هو «البيان الختامي» (Joint Final Communiqué)."
         }
       ],
       "passThreshold": 0.8
@@ -13884,85 +13900,89 @@
     "subject": "arabic",
     "unit": 23,
     "lessonNumber": 3,
-    "title": "لغة الإعلام والصحافة العربية (Media & News Discourse) (الدرس 3)",
+    "title": "أدوات الإسناد والنسبة والتحليل في المقال الصحفي (Journalistic Attribution, Sources & Analysis)",
     "level": "B2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: تحليل المقالات الصحفية، التغطيات الإخبارية، والمصطلحات الدبلوماسية والسياسية المعاصرة. (الجزء 3).",
+    "objective": "إتقان أساليب الإسناد الخبري، والنسبة إلى المصادر، وصياغة مقالات التحليل والرأي الصحفي بلسان عربي فصيح ومهني.",
     "presentation": {
-      "explanation": "",
+      "explanation": "المهنية الصحفية في اللغة العربية تتطلب دقة متناهية في إسناد المعلومات وتحليل مجريات الأحداث:\n\nأولاً: أساليب إسناد الأخبار إلى مصادرها (Attribution to Sources):\n1.【الإِسْنَادُ الصَّرِيحُ (Explicit Attribution)】:\n   - «**صَرَّحَ النَّاطِقُ الرَّسْمِيُّ بِاسْمِ...**» (The official spokesperson stated on behalf of...).\n   - «**أَوْضَحَ مَصْدَرٌ مَسْؤُولٌ فِي الوِزَارَةِ أَنَّ...**» (An authorized source in the ministry clarified that...).\n   - «**حَسَبَمَا نَقَلَتْهُ وَكَالَةُ الأَنْبَاءِ الرَّسْمِيَّةُ...**» (According to what the official news agency reported...).\n2.【الإِسْنَادُ المَجْهُولُ المَهْنِيُّ (Anonymous Professional Attribution)】:\n   - «**نَقْلًا عَنْ مَصَادِرَ مُطَّلِعَةٍ / دِبْلُومَاسِيَّةٍ وَثِيقَةِ الِاطِّلَاعِ**» (Quoting informed / well-informed sources).\n   - «**تَوَاتَرَتِ الأَنْبَاءُ عَنْ...**» (Reports have successively come in regarding...).\n\nثانياً: أدوات الربط والتحليل في المقال الصحفي (Analytical Connectors):\n- «**فِي سِيَاقٍ مُتَّصِلٍ**» (In a related context).\n- «**عَلَى صَعِيدٍ آخَرَ / وَعَلَى التَّوَازِي مَعَ ذٰلِكَ**» (On another level / In parallel with that).\n- «**مِنَ المُزْمَعِ عَقْدُهُ فِي...**» (It is scheduled to be held in...).\n- «**يَرَى مُرَاقِبُونَ وَمُحَلِّلُونَ أَنَّ...**» (Observers and analysts consider that...).\n- «**مِمَّا يَعْكِسُ التَّحَوُّلَاتِ الجَذْرِيَّةَ فِي المَشْهَدِ**» (Which reflects radical shifts in the scene).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)» بأسلوب أكاديمي دقيق (23.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'لغة الإعلام والصحافة العربية (Media & News Discourse)' to students in an accurate academic style."
+          "target": "صَرَّحَ النَّاطِقُ بِاسْمِ الحُكُومَةِ بِأَنَّ المَشْرُوعَ الجَدِيدَ سَيُسْهِمُ فِي خَلْقِ آلَافِ فُرَصِ العَمَلِ.(Ṣarraḥa an-nāṭiqu bi-ismi al-ḥukūmati bi-anna al-mashrūʿa al-jadīda sa-yushimu fī khalqi ālāfi furaṣi al-ʿamal.)",
+          "reading": "[sˤar.ra.ħa‿n.naː.tˤi.qu bis.mi‿l.ħu.kuː.ma.ti bi.ʔan.na‿l.maʃ.ruː.ʕa‿l.ʒa.diː.da sa.jus.hi.mu fiː xal.qi ʔaː.laː.fi fu.ra.sˤi‿l.ʕa.mal] (Ṣar-ra-ḥa an-nā-ṭi-qu bi-is-mi al-ḥu-kū-ma-ti bi-an-na al-mash-rū-ʿa al-ja-dī-da sa-yus-hi-mu fī khal-qi ā-lā-fi fu-ra-ṣi al-ʿa-mal.)",
+          "translation": "The government spokesperson stated that the new project will contribute to creating thousands of job opportunities."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (23.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "نَقْلًا عَنْ مَصَادِرَ دِبْلُومَاسِيَّةٍ مُطَّلِعَةٍ، مِنَ المُزْمَعِ عَقْدُ جَوْلَةٍ جَدِيدَةٍ مِنَ المُحَادَثَاتِ الشَّهْرَ المُقْبِلَ.(Naqlan ʿan maṣādira diblūmāsiyyatin muṭṭaliʿah, min al-muzmaʿi ʿaqdu jawlatin jadīdatin min al-mubāḥathāti ash-shahra al-muqbil.)",
+          "reading": "[naq.lan ʕan ma.sˤaː.di.ra dib.luː.maː.sij.ja.tin mutˤ.tˤa.li.ʕah, mi.na‿l.muz.ma.ʕi ʕaq.du ʒaw.la.tin ʒa.diː.da.tin mi.na‿l.mu.baː.ħa.θaː.ti‿ʃ.ʃah.ra‿l.muq.bil] (Naq-lan ʿan ma-ṣā-di-ra dib-lū-mā-siy-ya-tin muṭ-ṭa-li-ʿah, min al-muz-ma-ʿi ʿaq-du jaw-la-tin ja-dī-da-tin min al-mu-bā-ḥa-thā-ti ash-shah-ra al-muq-bil.)",
+          "translation": "Quoting informed diplomatic sources, it is scheduled to hold a new round of talks next month."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (23.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "فِي سِيَاقٍ مُتَّصِلٍ، يَرَى مُحَلِّلُونَ سِيَاسِيُّونَ أَنَّ هٰذِهِ الخُطْوَةَ تَحْمِلُ دَلَالَاتٍ اسْتِرَاتِيجِيَّةً بَالِغَةً.(Fī siyāqin muttaṣil, yarā muḥallilūna siyāsiyyūna anna hādhihi al-khuṭwata taḥmilu dalālātin istirātījiyyatan bālighah.)",
+          "reading": "[fiː si.jaː.qin mut.ta.sˤil, ja.raː mu.ħal.li.luː.na si.jaː.sij.juː.na ʔan.na haː.ði.hi‿l.xutˤ.wa.ta taħ.mi.lu da.laː.laː.tin ʔis.ti.raː.tiː.ʒij.ja.tan baː.li.ɣah] (Fī si-yā-qin mut-ta-ṣil, ya-rā mu-ḥal-li-lū-na si-yā-siy-yū-na an-na hā-dhi-hi al-khuṭ-wa-ta taḥ-mi-lu da-lā-lā-tin is-ti-rā-tī-jiy-ya-tan bā-li-ghah.)",
+          "translation": "In a related context, political analysts consider that this step carries profound strategic significances."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (23.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "عَلَى صَعِيدٍ آخَرَ، تَوَاصَلَتِ الجُهُودُ الإِغَاثِيَّةُ لِتَقْدِيمِ العَوْنِ لِلْمُتَضَرِّرِينَ فِي المَنَاطِقِ المَنْكُوبَةِ.(ʿalā ṣaʿīdin ākhar, tawāṣalati al-juhūdu al-ighāthiyyatu li-taqdīmi al-ʿawni li-l-mutaḍarrirīna fī al-manāṭiqi al-mankūbah.)",
+          "reading": "[ʕa.laː sˤa.ʕiː.din ʔaː.xar, ta.waː.sˤa.la.ti‿l.ʒu.huː.du‿l.ʔi.ɣaː.θij.ja.tu li.taq.diː.mi‿l.ʕaw.ni lil.mu.ta.dˤar.ri.riː.na fiː‿l.ma.naː.tˤi.qi‿l.man.kuː.bah] (ʿA-lā ṣa-ʿī-din ā-khar, ta-wā-ṣa-la-ti al-ju-hū-du al-i-ghā-thiy-ya-tu li-taq-dī-mi al-ʿaw-ni lil-mu-ta-ḍar-ri-rī-na fī al-ma-nā-ṭi-qi al-man-kū-bah.)",
+          "translation": "On another level, relief efforts continued to provide aid to the affected in disaster-stricken areas."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "نَقْلًا عَنْ مَصَادِرَ وَفِي سِيَاقٍ مُتَّصِلْ، نَسْجُ المَقَالِ بِالرَّصَانَةِ يَكْتَمِلْ!"
+      ],
+      "culturalNotes": [
+        "النزاهة والموضوعية في الصحافة العربية تعتمد على دقة التمييز بين «الخبر المُسند» (Fact) و«التحليل والرأي» (Analysis & Opinion) باستخدام أدوات الإسناد المحكمة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)» (الدرس 3)؟",
+          "prompt": "ما هي الوظيفة الأسلوبية لعبارة «فِي سِيَاقٍ مُتَّصِلٍ» في المقال الإخباري؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)» بأسلوب أكاديمي دقيق (23.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (23.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (23.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (23.3.w3)"
+            "الرَّبْطُ السَّلِسُ بَيْنَ خَبَرَيْنِ مُتَرَابِطَيْنِ مَوْضُوعِيًّا (Smooth transition between related news)",
+            "إنهاء المقال فوراً",
+            "تكذيب الخبر السابق",
+            "تغيير اللغة إلى لغة أخرى"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "تُستخدم عبارة «في سياق متصل» للانتقال البلاغي السلس بين جزئيتين إخباريتين مرتبطتين بموضوع واحد."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ماذا تعني عبارة «مِنَ المُزْمَعِ عَقْدُهُ»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "مِنَ المُقَرَّرِ وَالمُخَطَّطِ إِقَامَتُهُ قَرِيبًا (Scheduled / Planned to be held)",
+            "تم إلغاؤه في الماضي",
+            "حدث بالصدفة المفاجئة",
+            "مستحيل الحدوث نهائياً"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«المُزْمَع» أي المنوي والمقرر إنجازه والمخطط له مسبقاً."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u23-l3):",
+          "prompt": "اختر الفقرة التحليلية التي تلتزم بأعلى معايير الإسناد والرصانة الصحفية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (23.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (23.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (23.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (23.3.x3)"
+            "وَيَرَى مُرَاقِبُونَ أَنَّ القِمَّةَ سَتُسْهِمُ فِي إِعَادَةِ رَسْمِ الخَارِطَةِ الجُيُوسِيَاسِيَّةِ، لَا سِيَّمَا فِي ظِلِّ التَّحَوُّلَاتِ الدَّوْلِيَّةِ الرَّاهِنَةِ. (Observers consider that the summit will contribute to redrawing the geopolitical map, especially in light of current international shifts.)",
+            "الناس كلهم يقولون ان المؤتمر سيغير العالم اكيد",
+            "انا شخصيا اعتقد ان لا شيء سيتغير ابدا",
+            "مراقبون تحليل جيوسياسي سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "تستخدم الفقرة صيغ التحليل الرصين: («يَرَى مُرَاقِبُونَ»، «إِعَادَةِ رَسْمِ الخَارِطَةِ الجُيُوسِيَاسِيَّةِ»، «لَا سِيَّمَا فِي ظِلِّ...»)."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)»؟",
+          "prompt": "ما هو الإعراب الصحيح لكلمة «مَصَادِرَ» في جملة: «نَقْلًا عَنْ مَصَادِرَ مُطَّلِعَةٍ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (23.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (23.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (23.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (23.3.y3)"
+            "اسْمٌ مَجْرُورٌ بِالفَتْحَةِ نِيَابَةً عَنِ الكَسْرَةِ لِأَنَّهُ مَمْنُوعٌ مِنَ الصَّرْفِ (صِيغَةُ مُنْتَهَى الجُمُوعِ) (Genitive with fatha due to diptote)",
+            "اسم مجرور بالكسرة الظاهرة",
+            "مفعول به منصوب",
+            "مبتدأ مؤخر مرفوع"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«مَصَادِرَ» صيغة منتهى الجموع (مفاعل)، مجردة من أل والإضافة، فتجر بالفتحة نيابة عن الكسرة."
         }
       ]
     },
@@ -13970,24 +13990,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 23-3)؟",
+          "prompt": "اختر النص الصحفي التحليلي الذي يجمع بين الإسناد الدقيق والربط المهني والعمق الاستراتيجي:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (23.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (23.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (23.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (23.3.z3)"
+            "نَقْلًا عَنْ مَصَادِرَ رَفِيعَةِ المُسْتَوَى، صَرَّحَ المَسْؤُولُونَ بِأَنَّ المُحَادَثَاتِ قَطَعَتْ شَوْطًا طَوِيلًا؛ وَفِي سِيَاقٍ مُتَّصِلٍ، يَرَى خُبَرَاءُ أَنَّ هٰذَا التَّقَدُّمَ سَيُعَزِّزُ فُرَصَ الِاسْتِقْرَارِ، بَيْنَمَا مِنَ المُزْمَعِ التَّوْقِيعُ عَلَى الوَثِيقَةِ الخِتَامِيَّةِ خِلَالَ الأُسْبُوعِ المُقْبِلِ. (Quoting high-level sources, officials stated that talks have made great strides; in a related context, experts consider that this progress will strengthen chances of stability, while it is scheduled to sign the final document during next week.)",
+            "سمعنا اخبارا من مصادر غير معروفة ان المحادثات ماشية تمام.",
+            "اسناد صحفي مصادر رفيعة سياق متصل مزمع سكون فتحة ضمة.",
+            "توقفت المحادثات فجاة ورفض الجميع التحدث للصحافة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يدمج: الإسناد الموثق («نَقْلًا عَنْ مَصَادِرَ رَفِيعَةِ المُسْتَوَى»)، أداة الربط التحليلي («وَفِي سِيَاقٍ مُتَّصِلٍ»)، صيغ التحليل («يَرَى خُبَرَاءُ»)، وصيغة التخطيط («مِنَ المُزْمَعِ»)."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u23-l3) باللغة العربية (مثال: «لغة»):",
+          "prompt": "اكتب باللغة العربية الفصحى أداة الربط الصحفية التي تعني الانتقال إلى سياق آخر موازٍ (اكتب: «على صعيد آخر»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "لغة",
-            "لغة"
+            "على صعيد آخر",
+            "على صعيد اخر",
+            "عَلَى صَعِيدٍ آخَرَ",
+            "عَلَى صَعِيد آخَر"
           ],
-          "explanation": "المصطلح الصحيح هو «لغة»."
+          "explanation": "العبارة هي «على صعيد آخر» (On another level / front)."
         }
       ],
       "passThreshold": 0.8
@@ -13998,85 +14020,89 @@
     "subject": "arabic",
     "unit": 23,
     "lessonNumber": 4,
-    "title": "لغة الإعلام والصحافة العربية (Media & News Discourse) (الدرس 4)",
+    "title": "التغطيات الاقتصادية والمصطلحات المالية في الإعلام العربي (Financial & Economic Journalism)",
     "level": "B2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: تحليل المقالات الصحفية، التغطيات الإخبارية، والمصطلحات الدبلوماسية والسياسية المعاصرة. (الجزء 4).",
+    "objective": "إتقان المعجم الاقتصادي ومصطلحات أسواق المال والتجارة الدولية والتنمية المستدامة في الصحافة والإعلام العربي الفصيح.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تشهد الصحافة الاقتصادية العربية ازدهاراً واسعاً، وتعتمد على مصطلحات دقيقة لوصف حركة الأسواق والمؤشرات التنموية:\n\nأولاً: معجم الاقتصاد وأسواق المال (Financial & Economic Lexicon):\n- 【مُؤَشِّرَاتُ الأَسْوَاقِ المَالِيَّةِ】 (Financial market indices / Stock market indices).\n- 【النُّمُوُّ الِاقْتِصَادِيُّ】 (Economic growth).\n- 【مُعَدَّلُ التَّضَخُّمِ】 (Inflation rate).\n- 【عَجْزُ المِيزَانِيَّةِ】 (Budget deficit) مقابل 【فَائِضُ المِيزَانِيَّةِ】 (Budget surplus).\n- 【المِيزَانُ التِّجَارِيُّ】 (Trade balance).\n- 【الِاسْتِثْمَارَاتُ الأَجْنَبِيَّةُ المُبَاشِرَةُ】 (Foreign Direct Investments - FDI).\n- 【تَنْوِيعُ مَصَادِرِ الدَّخْلِ】 (Diversification of income / revenue sources).\n- 【التَّنْمِيَةُ المُسْتَدَامَةُ】 (Sustainable development).\n\nثانياً: الأفعال والتراكيب الوصفية لحركة الاقتصاد:\n- «**سَجَّلَتِ الأَسْهُمُ ارْتِفَاعًا قِيَاسِيًّا بِنِسْبَةِ...**» (Stocks recorded a record rise of...).\n- «**شَهِدَتِ الأَسْوَاقُ حَالَةً مِنَ التَّذَبْذُبِ / الِاسْتِقْرَارِ**» (Markets witnessed volatility / stability).\n- «**أَنْعَشَتِ الصَّفَقَاتُ الجَدِيدَةُ حَرَكَةَ التَّدَاوُلِ**» (New deals revived trading activity).\n- «**فِي إِطَارِ خُطَطِ التَّحَوُّلِ الِاقْتِصَادِيِّ الشَّامِلِ**» (Within the framework of comprehensive economic transition plans).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)» بأسلوب أكاديمي دقيق (23.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'لغة الإعلام والصحافة العربية (Media & News Discourse)' to students in an accurate academic style."
+          "target": "سَجَّلَ النَّاتِجُ المَحَلِّيُّ الإِجْمَالِيُّ نُمُوًّا مَلْحُوظًا بِنِسْبَةِ سَبْعَةٍ فِي المِائَةِ هٰذَا العَامَ.(Sajjala an-nātiju al-maḥalliyyu al-ijmāliyyu numuwwan malḥūẓan bi-nisbati sabʿatin fī al-miʾati hādhā al-ʿām.)",
+          "reading": "[saj.ja.la‿n.naː.ti.ʒu‿l.ma.ħal.lij.ju‿l.ʔiʒ.maː.lij.ju nu.muw.wan mal.ħuː.zˤan bi.nis.ba.ti sab.ʕa.tin fiː‿l.mi.ʔa.ti haː.ðaː‿l.ʕaːm] (Saj-ja-la an-nā-ti-ju al-ma-ḥal-liy-yu al-ij-mā-liy-yu nu-muw-wan mal-ḥū-ẓan bi-nis-ba-ti sab-ʿa-tin fī al-mi-ʾa-ti hā-dhā al-ʿām.)",
+          "translation": "Gross Domestic Product (GDP) recorded noticeable growth at a rate of seven percent this year."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (23.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَغْلَقَتْ بُورْصَةُ المَالِ عَلَى ارْتِفَاعٍ قِيَاسِيٍّ مَدْعُومَةً بِأَدَاءِ قِطَاعِ الطَّاقَةِ وَالبُنُوكِ.(Aghlaqat būrṣatu al-māli ʿalā irtifāʿin qiyāsiyyin madʿūmatan bi-adāʾi qiṭāʿi aṭ-ṭāqati wa-al-bunūk.)",
+          "reading": "[ʔaɣ.la.qat buːr.sˤa.tu‿l.maː.li ʕa.laː‿r.ti.faː.ʕin qi.jaː.sij.jin mad.ʕuː.ma.tan bi.ʔa.daː.ʔi qi.tˤaː.ʕi‿tˤ.tˤaː.qa.ti wal.bu.nuːk] (Agh-la-qat būr-ṣa-tu al-mā-li ʿa-lā ir-ti-fā-ʿin qi-yā-siy-yin mad-ʿū-ma-tan bi-a-dā-ʾi qi-ṭā-ʿi aṭ-ṭā-qa-ti wa-al-bu-nūk.)",
+          "translation": "The stock exchange closed on a record high, supported by the performance of the energy and banking sectors."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (23.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تَسْعَى الدَّوْلَةُ إِلَى تَنْوِيعِ مَصَادِرِ الدَّخْلِ وَجَذْبِ الِاسْتِثْمَارَاتِ الأَجْنَبِيَّةِ المُبَاشِرَةِ.(Tasʿā ad-dawlatu ilā tanwīʿi maṣādiri ad-dakhli wa-jadhbi al-istithmārāti al-ajnabiyyati al-mubāshirah.)",
+          "reading": "[tas.ʕaː‿d.daw.la.tu ʔi.laː tan.wiː.ʕi ma.sˤaː.di.ri‿d.dax.li wa.ʒað.bi‿l.ʔis.tiθ.maː.raː.ti‿l.ʔaʒ.na.bij.ja.ti‿l.mu.baː.ʃi.rah] (Tas-ʿā ad-daw-la-tu i-lā tan-wī-ʿi ma-ṣā-di-ri ad-dakh-li wa-jadh-bi al-is-tith-mā-rā-ti al-aj-na-biy-ya-ti al-mu-bā-shi-rah.)",
+          "translation": "The state seeks to diversify revenue sources and attract foreign direct investments."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (23.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "أَظْهَرَتِ التَّقَارِيرُ تَحْقِيقَ فَائِضٍ تِجَارِيٍّ كَبِيرٍ نَتِيجَةَ زِيَادَةِ الصَّادِرَاتِ غَيْرِ النَّفْطِيَّةِ.(Aẓharati at-taqārīru taḥqīqa fāʾiḍin tijāriyyin kabīrin natījata ziyādati aṣ-ṣādirāti ghayri an-nafṭiyyah.)",
+          "reading": "[ʔazˤ.ha.ra.ti‿t.ta.qaː.riː.ru taħ.qiː.qa faː.ʔi.dˤin ti.ʒaː.rij.jin ka.biː.rin na.tiː.ʒa.ta zi.jaː.da.ti‿sˤ.sˤaː.di.raː.ti ɣaj.ri‿n.naf.tˤij.jah] (Aẓ-ha-ra-ti at-ta-qā-rī-ru taḥ-qī-qa fā-ʾi-ḍin ti-jā-riy-yin ka-bī-rin na-tī-ja-ta zi-yā-da-ti aṣ-ṣā-di-rā-ti ghay-ri an-naf-ṭiy-yah.)",
+          "translation": "Reports showed the achievement of a large trade surplus as a result of increasing non-oil exports."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "نُمُوٌّ وَتَضَخُّمٌ وَفَائِضٌ مَالِيّ، أَلْفَاظُ الِاقْتِصَادِ فِي المَشْهَدِ العَالِي!"
+      ],
+      "culturalNotes": [
+        "تشهد العواصم الاقتصادية العربية (كالرياض ودبي والدوحة) حراكاً مالياً وتنموياً هائلاً ينعكس في المصطلحات الإخبارية اليومية للتحول الاقتصادي والاستدامة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)» (الدرس 4)؟",
+          "prompt": "ما هو المقابل الفصيح للمصطلح الاقتصادي العالمي (Gross Domestic Product - GDP)؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)» بأسلوب أكاديمي دقيق (23.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (23.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (23.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (23.4.w3)"
+            "النَّاتِجُ المَحَلِّيُّ الإِجْمَالِيُّ (Gross Domestic Product)",
+            "الدخل السنوي العام",
+            "الميزانية التقديرية",
+            "الاحتياطي النقدي الدولي"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "المصطلح المعياري الدقيق هو «النَّاتِجُ المَحَلِّيُّ الإِجْمَالِيُّ»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما معنى «فَائِضٌ تِجَارِيٌّ» في التقارير المالية؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "تَفَوُّقُ قِيمَةِ الصَّادِرَاتِ عَلَى قِيمَةِ الوَارِدَاتِ (Value of exports exceeds imports)",
+            "تساوي الصادرات والواردات",
+            "زيادة الديون الخارجية",
+            "تراجع حركة البيع والشراء"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الفائض التجاري يتحقق عندما تزيد قيمة صادرات الدولة على قيمة وارداتها."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u23-l4):",
+          "prompt": "اختر الجملة الاقتصادية ذات الصياغة الإخبارية الفصيحة والدقيقة إعرابياً:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (23.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (23.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (23.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (23.4.x3)"
+            "تَوَالَتِ ارْتِفَاعَاتُ مُؤَشِّرِ البُورْصَةِ لِتَسْتَقِرَّ عِنْدَ أَعْلَى مُسْتَوَيَاتِهَا التَّارِيخِيَّةِ. (Stock market index rises successively continued to settle at its highest historical levels.)",
+            "البورصة ارتفعت فوق فوق وربح الناس مالا كثيرا",
+            "مؤشر الاسهم نازل طالع في السوق",
+            "بورصة مال تداول سكون فتحة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تستخدم تراكيب فصيحة ومضبوطة: («تَوَالَتِ ارْتِفَاعَاتُ مُؤَشِّرِ البُورْصَةِ لِتَسْتَقِرَّ عِنْدَ أَعْلَى مُسْتَوَيَاتِهَا»)."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)»؟",
+          "prompt": "ماذا تعني كلمة «التَّضَخُّمُ» (Inflation) في لغة المال والأعمال؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (23.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (23.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (23.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (23.4.y3)"
+            "الِارْتِفَاعُ المُسْتَمِرُّ فِي المُسْتَوَى العَامِّ لِلأَسْعَارِ (Continuous rise in general price level)",
+            "زيادة عدد السكان",
+            "كبر حجم الشركات التجارية",
+            "طباعة النقود دون فائدة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "التضخم هو الارتفاع المستمر في المستوى العام لأسعار السلع والخدمات وتراجع القوة الشرائية للنقد."
         }
       ]
     },
@@ -14084,24 +14110,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 23-4)؟",
+          "prompt": "اختر التقرير الاقتصادي الأكثر تكاملاً وفصاحة في رصد المؤشرات المالية ومسارات التنمية المستدامة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (23.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (23.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (23.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (23.4.z3)"
+            "حَقَّقَ الِاقْتِصَادُ الوَطَنِيُّ نُمُوًّا اسْتِثْنَائِيًّا بَفَضْلِ تَنْوِيعِ مَصَادِرِ الدَّخْلِ وَجَذْبِ الِاسْتِثْمَارَاتِ الأَجْنَبِيَّةِ المُبَاشِرَةِ، حَيْثُ ارْتَفَعَ حَجْمُ الصَّادِرَاتِ غَيْرِ النَّفْطِيَّةِ، مُحَقِّقًا فَائِضًا تِجَارِيًّا كَبِيرًا يُعَزِّزُ مِنِ اسْتِدَامَةِ المَشَارِيعِ التَّنْمَوِيَّةِ. (The national economy achieved exceptional growth thanks to diversifying revenue sources and attracting foreign direct investments, where the volume of non-oil exports rose, achieving a large trade surplus that strengthens sustainability of developmental projects.)",
+            "الاقتصاد صار ممتاز وفيه فلوس كثيرة بدون اي مشاكل.",
+            "اقتصاد وطني نمو استثنائي استثمار مباشر فائض تجاري سكون فتحة ضمة.",
+            "انهارت الاسواق تماما واغلقت الشركات ابوابها."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "التقرير يجسد قمة الرصانة الاقتصادية بمصطلحات: («نُمُوًّا اسْتِثْنَائِيًّا»، «تَنْوِيعُ مَصَادِرِ الدَّخْلِ»، «الِاسْتِثْمَارَاتُ الأَجْنَبِيَّةُ المُبَاشِرَةُ»، «فَائِضًا تِجَارِيًّا»، و«اسْتِدَامَةُ المَشَارِيعِ»)."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u23-l4) باللغة العربية (مثال: «لغة»):",
+          "prompt": "اكتب باللغة العربية الفصحى المصطلح الذي يطلق على زيادة القيمة الإجمالية للسلع والخدمات المنتجة في بلد ما خلال عام (اكتب: «النمو الاقتصادي»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "لغة",
-            "لغة"
+            "النمو الاقتصادي",
+            "النمو الاقتصادى",
+            "نمو اقتصادي",
+            "نمو اقتصادى",
+            "النُّمُوُّ الِاقْتِصَادِيُّ",
+            "النُّمُوّ الِاقْتِصَادِيّ"
           ],
-          "explanation": "المصطلح الصحيح هو «لغة»."
+          "explanation": "المصطلح هو «النمو الاقتصادي» (Economic Growth)."
         }
       ],
       "passThreshold": 0.8
@@ -14112,85 +14142,89 @@
     "subject": "arabic",
     "unit": 23,
     "lessonNumber": 5,
-    "title": "لغة الإعلام والصحافة العربية (Media & News Discourse) (الدرس 5)",
+    "title": "حوار التغطية التلفزيونية والتحليل الإخباري الميداني الشامل (Live Broadcast & Field News Report Dialogue)",
     "level": "B2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: تحليل المقالات الصحفية، التغطيات الإخبارية، والمصطلحات الدبلوماسية والسياسية المعاصرة. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة الثالثة والعشرين: لغة الإعلام، المصطلحات الدبلوماسية والسياسية، أدوات الإسناد والتحليل، والتقارير الاقتصادية في حوار تلفزيوني مباشر وفصيح.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة الثالثة والعشرين من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس، ندمج كل معارف لغة الإعلام والصحافة في بث إخباري مباشر وتغطية ميدانية شاملة تدور بين مذيع النشرة الإخبارية في الأستوديو المركزي (فارس) والمراسلة الدبلوماسية من مقر انعقاد القمة الدولية (ليلى):\n\nمحاور النص الإخباري الشامل:\n1.【الافتتاحية والموجز】: «سَيِّدَاتِي وَسَادَتِي طَابَتْ أَوْقَاتُكُمْ»، «فِي صَدَارَةِ الأَنْبَاءِ».\n2.【المصطلحات الدبلوماسية】: «العَلَاقَاتُ الثُّنَائِيَّةُ»، «خَفْضُ التَّصْعِيدِ»، «البَيَانُ الخِتَامِيُّ»، «رَأْبُ الصَّدْعِ».\n3.【أدوات الإسناد والتحليل】: «نَقْلًا عَنْ مَصَادِرَ مُطَّلِعَةٍ»، «فِي سِيَاقٍ مُتَّصِلٍ»، «عَلَى صَعِيدٍ آخَرَ».\n4.【المؤشرات الاقتصادية】: «الشَّرَاكَةُ الِاسْتِرَاتِيجِيَّةُ»، «الِاسْتِثْمَارَاتُ الأَجْنَبِيَّةُ المُبَاشِرَةُ»، «النُّمُوُّ المُسْتَدَامُ».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)» بأسلوب أكاديمي دقيق (23.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'لغة الإعلام والصحافة العربية (Media & News Discourse)' to students in an accurate academic style."
+          "target": "مَرْحَبًا بِكُمْ، إِلَيْكُمْ تَفَاصِيلَ النَّشْرَةِ؛ أَعْلَنَ القَادَةُ اخْتِتَامَ القِمَّةِ بَعْدَ مُبَاحَثَاتٍ ثُنَائِيَّةٍ مُثْمِرَةٍ.(Marḥaban bikum, ilaykum tafāṣīla an-nashrah; aʿlana al-qādatu ikhtitāma al-qimmati baʿda mubāḥathātin thunāʾiyyatin muthmirah.)",
+          "reading": "[mar.ħa.ban bi.kum, ʔi.laj.kum ta.faː.sˤiː.la‿n.naʃ.rah; ʔaʕ.la.na‿l.qaː.da.tu‿x.ti.taː.ma‿l.qim.ma.ti baʕ.da mu.baː.ħa.θaː.tin θu.naː.ʔij.ja.tin muθ.mi.rah] (Mar-ḥa-ban bi-kum, i-lay-kum ta-fā-ṣī-la an-nash-rah; aʿ-la-na al-qā-da-tu ikh-ti-tā-ma al-qim-ma-ti baʿ-da mu-bā-ḥa-thā-tin thu-nā-ʾiy-ya-tin muth-mi-rah.)",
+          "translation": "Welcome, here are the details of the bulletin; leaders announced the conclusion of the summit after fruitful bilateral discussions."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (23.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "نَنْتَقِلُ إِلَى مُرَاسِلَتِنَا لَيْلَى مِنْ مَقَرِّ القِمَّةِ؛ لَيْلَى، مَا هِيَ أَبْرَزُ بَنُودِ البَيَانِ الخِتَامِيِّ؟(Nantaqilu ilā murāsilatinā Laylā min maqari al-qimmah; Laylā, mā hiya abrazu banūdi al-bayāni al-khitāmiyy?)",
+          "reading": "[nan.ta.qi.lu ʔi.laː mu.raː.si.la.ti.naː laj.laː min ma.qar.ri‿l.qim.mah; laj.laː, maː hi.ja ʔab.ra.zu ba.nuː.di‿l.ba.jaː.ni‿l.xi.taː.mijj?] (Nan-ta-qi-lu i-lā mu-rā-si-la-ti-nā Lay-lā min ma-qar-ri al-qim-mah; Lay-lā, mā hi-ya ab-ra-zu ba-nū-di al-ba-yā-ni al-khi-tā-miyy?)",
+          "translation": "We transfer to our correspondent Layla from the summit venue; Layla, what are the most prominent clauses of the final communiqué?"
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (23.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "أَهْلًا فَارِس؛ شَدَّدَ البَيَانُ عَلَى تَعْزِيزِ التَّعَاوُنِ الِاقْتِصَادِيِّ وَجَذْبِ الِاسْتِثْمَارَاتِ وَخَفْضِ التَّصْعِيدِ الإِقْلِيمِيِّ.(Ahlan Fāris; shaddada al-bayānu ʿalā taʿzīzi at-taʿāwuni al-iqtiṣādiyyi wa-jadhbi al-istithmārāti wa-khafḍi at-taṣʿīdi al-iqlīmiyy.)",
+          "reading": "[ʔah.lan faː.ris; ʃad.da.da‿l.ba.jaː.nu ʕa.laː taʕ.ziː.zi‿t.ta.ʕaː.wu.ni‿l.ʔiq.ti.sˤaː.dij.ji wa.ʒað.bi‿l.ʔis.tiθ.maː.raː.ti wa.xaf.dˤi‿t.tasˤ.ʕiː.di‿l.ʔiq.liː.mijj] (Ah-lan Fā-ris; shad-da-da al-ba-yā-nu ʿa-lā taʿ-zī-zi at-ta-ʿā-wu-ni al-iq-ti-ṣā-diy-yi wa-jadh-bi al-is-tith-mā-rā-ti wa-khaf-ḍi at-taṣ-ʿī-di al-iq-lī-miyy.)",
+          "translation": "Hello Faris; the communiqué emphasized strengthening economic cooperation, attracting investments, and regional de-escalation."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (23.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "وَنَقْلًا عَنْ مَصَادِرَ مُطَّلِعَةٍ، سَيَتِمُّ تَوْقِيعُ خَمْسِينَ اتِّفَاقِيَّةً تَنْمَوِيَّةً فِي الأَيَّامِ القَادِمَةِ.(Wa-naqlan ʿan maṣādira muṭṭaliʿatin, sa-yatimmu tawqīʿu khamsīna ittifāqiyyatan tanmawiyyatan fī al-ayyāmi al-qādimah.)",
+          "reading": "[wa.naq.lan ʕan ma.sˤaː.di.ra mutˤ.tˤa.li.ʕah, sa.ja.tim.mu taw.qiː.ʕu xam.siː.na‿t.ti.faː.qij.ja.tan tan.ma.wij.ja.tan fiː‿l.ʔaj.jaː.mi‿l.qaː.di.mah] (Wa-naq-lan ʿan ma-ṣā-di-ra muṭ-ṭa-li-ʿah, sa-ya-tim-mu taw-qī-ʿu kham-sī-na it-ti-fā-qiy-ya-tan tan-ma-wiy-ya-tan fī al-ay-yā-mi al-qā-di-mah.)",
+          "translation": "And quoting informed sources, the signing of fifty developmental agreements will take place in the coming days."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فِي شَاشَةِ الأَخْبَارِ صَوْتٌ وَبَيَانْ، لُغَةُ الإِعْلَامِ تَسْمُو فِي كُلِّ زَمَانْ!"
+      ],
+      "culturalNotes": [
+        "التغطيات الإخبارية المباشرة في كبريات شبكات الأخبار العربية الفصيحة تبرز مرونة اللغة العربية المعاصرة وقدرتها على استيعاب أرقى مستويات التحليل الجيوسياسي والاقتصادي."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)» (الدرس 5)؟",
+          "prompt": "في الحوار الإخباري المباشر، ما نوع الإسناد في قول ليلى: «وَنَقْلًا عَنْ مَصَادِرَ مُطَّلِعَةٍ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)» بأسلوب أكاديمي دقيق (23.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (23.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (23.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (23.5.w3)"
+            "إِسْنَادٌ خَبَرِيٌّ مَهْنِيٌّ مُوَثَّقٌ لِلْمَصَادِرِ (Professional journalistic attribution to sources)",
+            "رأي شخصي غير مسند",
+            "افتراض خيالي",
+            "إلغاء للخبر السابق"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«نَقْلًا عَنْ مَصَادِرَ مُطَّلِعَةٍ» أسلوب إسناد مهني معتمد لحفظ سرية المصادر ونقل المعلومات بدقة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما المعنى المستفاد من كلمة «مُثْمِرَةٍ» في عبارة «مُبَاحَثَاتٍ ثُنَائِيَّةٍ مُثْمِرَةٍ»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "نَاجِحَةٍ وَحَقَّقَتْ نَتَائِجَ إِيجَابِيَّةً مَلْمُوسَةً (Successful & achieved positive results)",
+            "فاشلة ومضيعة للوقت",
+            "مملوءة بالأشجار والثمار",
+            "طويلة جداً بلا فائدة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "المباحثات المثمرة هي التي تسفر عن نتائج عملية وتوافقات ملموسة بين الطرفين."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u23-l5):",
+          "prompt": "اختر العبارة الختامية الأنسب للمراسلة الميدانية عند تسليم البث للأستوديو:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (23.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (23.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (23.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (23.5.x3)"
+            "«كَانَتْ مَعَكُمْ لَيْلَى مِنْ مَقَرِّ انْعِقَادِ القِمَّةِ، عَوْدَةٌ إِلَيْكَ فَارِس فِي الأُسْتُودْيُو المَرْكَزِيِّ». ('Layla was with you from the summit venue, back to you Faris in the central studio.')",
+            "خلصت كلامي شكرا لكم ومع السلامة يا جماعة",
+            "انا تعبت وسارجع الى البيت الان",
+            "مراسلة ميدان استوديو مركزي سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "هذه هي الصيغة الاحترافية الفصيحة المعتمدة في المراسلات التلفزيونية المباشرة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «لغة الإعلام والصحافة العربية (Media & News Discourse)»؟",
+          "prompt": "ما حكم كلمة «اتِّفَاقِيَّةً» إعراباً في عبارة: «تَوْقِيعُ خَمْسِينَ اتِّفَاقِيَّةً»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (23.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (23.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (23.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (23.5.y3)"
+            "تَمْيِيزٌ مَنْصُوبٌ بِالفَتْحَةِ بَعْدَ لَفْظِ العَدَدِ (خَمْسِينَ) (Tamyiz specification after number in accusative)",
+            "مضاف إليه مجرور بالكسرة",
+            "مفعول به ثان",
+            "نعت منصوب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "تمييز ألفاظ العقود (20-90) يكون مفرداً منصوباً دائماً بالفتحة."
         }
       ]
     },
@@ -14198,24 +14232,29 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 23-5)؟",
+          "prompt": "اختر النص الحواري الإخباري الشامل الذي يدمج مخرجات الوحدة الثالثة والعشرين بأكملها (العناوين، المصطلحات الدبلوماسية، أدوات الإسناد والتحليل، والمؤشرات الاقتصادية):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (23.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (23.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (23.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (23.5.z3)"
+            "فَارِس: «أَهْلًا بِكُمْ؛ فِي صَدَارَةِ الأَنْبَاءِ، انْطِلَاقُ أَعْمَالِ القِمَّةِ الدَّوْلِيَّةِ لِلتَّنْمِيَةِ، حَيْثُ نَنْتَقِلُ إِلَى مُرَاسِلَتِنَا لَيْلَى؛ لَيْلَى، مَا جَدِيدُ المَشْهَدِ؟» — لَيْلَى: «أَهْلًا فَارِس؛ نَقْلًا عَنْ مَصَادِرَ دِبْلُومَاسِيَّةٍ، أَجْرَى القَادَةُ مُحَادَثَاتٍ ثُنَائِيَّةً مُكَمِّلَةً لِرَأْبِ الصَّدْعِ وَخَفْضِ التَّصْعِيدِ، وَفِي سِيَاقٍ مُتَّصِلٍ، أَعْلَنَ البَيَانُ الخِتَامِيُّ تَوْقِيعَ خَمْسِينَ اتِّفَاقِيَّةً لِتَعْزِيزِ النُّمُوِّ الِاقْتِصَادِيِّ وَجَذْبِ الِاسْتِثْمَارَاتِ الأَجْنَبِيَّةِ المُبَاشِرَةِ». (Faris: 'Welcome; at the forefront of the news, the launch of the International Development Summit, where we transfer to our correspondent Layla; Layla, what is new in the scene?' — Layla: 'Hello Faris; quoting diplomatic sources, leaders conducted complementary bilateral talks to mend the rift and de-escalate tension, and in a related context, the final communiqué announced the signing of fifty agreements to strengthen economic growth and attract foreign direct investments.')",
+            "فارس: اهلا يا ليلى ماذا يحصل عندك؟ — ليلى: كل شيء هادئ ولا جديد في الاخبار اليوم.",
+            "حوار اخباري شامل عناوين دبلوماسية اسناد تحليل اقتصاد نمو سكون فتحة ضمة.",
+            "انقطع البث التلفزيوني ولم يتمكن المراسل من الحديث."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج: العنوان المصدري («انْطِلَاقُ أَعْمَالِ...»)، الإسناد الموثق («نَقْلًا عَنْ مَصَادِرَ دِبْلُومَاسِيَّةٍ»)، المصطلح الدبلوماسي («مُحَادَثَاتٍ ثُنَائِيَّةً»، «رَأْبِ الصَّدْعِ»، «خَفْضِ التَّصْعِيدِ»)، الربط التحليلي («وَفِي سِيَاقٍ مُتَّصِلٍ»)، والمصطلحات الاقتصادية («النُّمُوِّ الِاقْتِصَادِيِّ»، «الِاسْتِثْمَارَاتِ الأَجْنَبِيَّةِ المُبَاشِرَةِ»)."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u23-l5) باللغة العربية (مثال: «لغة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الفن اللغوي الذي يُعنى بنقل الأخبار وتحليل الأحداث عبر الصحف والتلفاز والإذاعة (اكتب: «الإعلام» أو «الصحافة»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "لغة",
-            "لغة"
+            "الإعلام",
+            "الاعلام",
+            "الصحافة",
+            "لغة الإعلام",
+            "لغة الاعلام",
+            "الإِعْلَامُ",
+            "الصِّحَافَةُ"
           ],
-          "explanation": "المصطلح الصحيح هو «لغة»."
+          "explanation": "الفن اللغوي هو «الإعلام» (أو الصحافة والإعلام)."
         }
       ],
       "passThreshold": 0.8
