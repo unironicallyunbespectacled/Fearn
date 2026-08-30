@@ -13369,56 +13369,65 @@
     "subject": "korean",
     "unit": 29,
     "lessonNumber": 1,
-    "title": "학술 논문 작성과 학술 토론 (Academic Dissertation & Debate) (Part 1)",
+    "title": "연구 가설 설정과 학술 연구 방법론 전문 어휘 (Research Methodology)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 학술 논문과 학술 토론 (Academic Research & Dissertation).",
+    "objective": "가설 설정, 독립·종속 변수 통제, 양적·질적 연구 설계, 표본 추출 및 통계적 유의성(p-value) 검증 전문 학술 어휘를 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 학술 논문 작성과 학술 토론 (Academic Dissertation & Debate) » (제1절)의 핵심 언어 요소와 학술 논문과 학술 토론 (Academic Research & Dissertation)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "대학원 학위 논문 및 학술 연구 프로젝트 설계 단계에서 사용되는 연구 방법론(Research Methodology) 핵심 전문 어휘입니다.\n\n1. 가설 및 변수 통제:\n- **가설 설정(Hypothesis Formulation)**: 연구 문제에 대해 잠정적으로 내리는 참된 진술 (귀무가설 $H_0$ vs 대립가설 $H_1$)\n- **독립변수(Independent Variable)**: 다른 변수에 영향을 주는 원인 변수\n- **종속변수(Dependent Variable)**: 독립변수의 영향으로 변화가 측정되는 결과 변수\n- **통제변수(Control Variable)**: 실험의 왜곡을 막기 위해 일정하게 유지하는 외생 변수\n\n2. 연구 설계 및 통계 검증:\n- **양적 연구(Quantitative Research) vs 질적 연구(Qualitative Research)**: 수치 데이터와 통계 모델 분석 vs 심층 면담, 참여 관찰, 사례 연구를 통한 질적 텍스트 분석\n- **표본 추출(Sampling)**: 모집단(Population)에서 표본(Sample)을 무작위 추출(Random Sampling)\n- **신뢰도(Reliability) & 타당도(Validity)**: 측정 도구의 일관성 vs 측정하고자 하는 개념을 정확히 측정했는가의 정도\n- **통계적 유의성(Statistical Significance) & 유의확률(p-value)**: 관측된 결과가 단순한 우연이 아닐 확률 (일반적으로 $p < .05$ 기준)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (29.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "본 연구는 독립변수가 종속변수에 미치는 인과관계를 실증적으로 규명하기 위해 다중회귀분석을 실시하였습니다.",
+          "reading": "Bon yeon-gu-neun dongnipbyeonsu-ga jongsongbyeonsu-e michineun ingwagwan-gye-reul siljeungjeog-euro gyumyeonghagi wihae dajeunghoegwibunseok-eul silshihayeotseumnida.",
+          "translation": "This study conducted multiple regression analysis to empirically clarify the causal relationship of the independent variable on the dependent variable ('인과관계를 실증적으로 규명하기 위해')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (29.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "설문 문항의 신뢰도와 타당도를 확보하기 위해 탐색적 요인분석과 크론바흐 알파 계수를 산출하여 검증했습니다.",
+          "reading": "Seolmun munhang-ui sinroedo-wa tadangdo-reul hwakbohaneun wihae tamsaekjeok yoinbunseok-gwa Keuronbaheu alpa gyesu-reul sanchulhayeo geomjeonghaetseumnida.",
+          "translation": "To secure the reliability and validity ('신뢰도와 타당도를 확보하기 위해') of questionnaire items, we calculated and verified exploratory factor analysis and Cronbach's alpha coefficient."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (29.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "실험군과 대조군 간의 학습 성취도 차이는 유의확률 0.01 미만 수준에서 통계적으로 유의미한 것으로 나타났습니다.",
+          "reading": "Silheomgun-gwa daejogun gan-ui hakseup seongchwido chai-neun yuyihwangnyul yeong-jeom-yeong-il miman sujun-eseo tonggyejeog-euro yu-uimihan geos-euro natanatseumnida.",
+          "translation": "The difference in learning achievement between the experimental group and the control group was shown to be statistically significant ('통계적으로 유의미한 것으로') at a p-value below 0.01 level."
+        },
+        {
+          "target": "단순한 수치화를 넘어 연구 참여자의 심층적인 주관적 경험을 포착하기 위해 질적 사례 연구 방법을 병행하였습니다.",
+          "reading": "Dansunhan suchihwa-reul neomeo yeon-gu cham-yeoja-ui simcheungjeogin jugwanjeok gyeongheom-eul pochakhagi wihae jiljeok sarye yeon-gu bangbeop-eul byeonghaenghayeotseumnida.",
+          "translation": "Beyond simple quantification, we concurrently used a qualitative case study method ('질적 사례 연구 방법을 병행하였습니다') to capture in-depth subjective experiences of research participants."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "원인은 독립변수, 결과는 종속변수, 신뢰도와 타당도 거쳐 p값으로 유의성 입증!"
+      ],
+      "culturalNotes": [
+        "한국의 대학원 과정(석·박사 학위 논문)에서는 KCI(한국학술지인용색인) 및 SCI급 국제 저널 투고를 위해 엄격한 연구윤리 및 실증적 방법론 검증을 필수로 요구합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 학술 논문과 학술 토론 (Academic Research & Dissertation) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "실험 연구에서 다른 변수에 영향을 주어 원인이 되는 변수를 일컫는 학술 용어는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (29.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (29.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (29.1.3)."
+            "독립변수 (Independent Variable)",
+            "종속변수 (Dependent Variable)",
+            "매개변수 (Mediating Variable)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "결과에 원인으로서 작용하는 변수를 '독립변수(Independent Variable)'라고 합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 학술 논문 작성과 학술 토론 (Academic Dissertation & Debate) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "연구 측정 도구가 측정하고자 하는 본래의 학술적 개념을 얼마나 정확하게 측정하고 있는지를 나타내는 척도는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (29.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (29.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (29.1.3)."
+            "타당도 (Validity)",
+            "표본오차 (Sampling Error)",
+            "자유도 (Degrees of Freedom)"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "측정하려는 대상을 정확하게 측정했는가의 정도를 나타내는 개념은 '타당도(Validity)'입니다."
         }
       ]
     },
@@ -13426,14 +13435,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 학술 논문과 학술 토론 (Academic Research & Dissertation) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 29-1)?",
+          "prompt": "통계 분석에서 분석 결과가 우연에 의해 나타났을 가능성을 나타내는 수치 지표는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (29.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (29.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (29.1.3)."
+            "유의확률 (p-value)",
+            "중앙값 (Median)",
+            "최빈값 (Mode)"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "explanation": "가설 검증 시 우연에 의한 발생 확률을 나타내는 지표는 '유의확률(p-value)'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'독립변수와 종속변수의 상관관계를 분석했어요'(I analyzed the correlation between independent and dependent variables)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "독립변수와 종속변수의 상관관계를 분석했어요.",
+            "독립변수와 종속변수의 상관관계를 분석했어요"
+          ],
+          "explanation": "독립변수와 + 종속변수의 + 상관관계를 + 분석했어요 = 독립변수와 종속변수의 상관관계를 분석했어요."
         }
       ]
     }
@@ -13443,56 +13461,65 @@
     "subject": "korean",
     "unit": 29,
     "lessonNumber": 2,
-    "title": "학술 논문 작성과 학술 토론 (Academic Dissertation & Debate) (Part 2)",
+    "title": "선행 연구 고찰, 인용 표기 및 연구 윤리 (Literature Review & Citation Ethics)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 학술 논문과 학술 토론 (Academic Research & Dissertation).",
+    "objective": "선행 연구 고찰, 직접 인용·간접 인용, 출처 표기(각주/참고문헌), 표절 방지 및 학술지 등재 절차를 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 학술 논문 작성과 학술 토론 (Academic Dissertation & Debate) » (제2절)의 핵심 언어 요소와 학술 논문과 학술 토론 (Academic Research & Dissertation)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "학술 논문의 신뢰성을 담보하는 선행 연구 고찰(Literature Review)과 연구 윤리(Research Ethics) 필수 규범입니다.\n\n1. 문헌 검토 및 인용 방법:\n- **선행 연구 고찰(Literature Review)**: 기존 학계의 연구 성과와 쟁점을 비판적으로 종합 검토하여 본 연구의 독창적 연구 공백(Research Gap)을 도출하는 과정\n- **직접 인용(Direct Quotation)**: 원문의 문장을 토씨 하나 바꾸지 않고 따옴표(\" \")로 묶어 인용\n- **간접 인용(Indirect Quotation / Paraphrasing)**: 원문의 취지를 자신의 언어로 바꾸어 서술하되 출처를 반드시 병기\n- **재인용(Secondary Citation)**: 원전을 직접 확인하지 못하고 다른 2차 문헌에 인용된 것을 다시 인용할 때 출처에 '재인용'을 명시\n\n2. 연구 윤리와 학술지 투고:\n- **표절(Plagiarism) & 자기표절(Self-plagiarism / 중복 게재)**: 타인 또는 자신의 이전 저작물을 적절한 출처 표시 없이 무단 사용하는 연구 부정행위\n- **KCI(한국학술지인용색인) & SCI/SSCI(국제학술지)**: 엄격한 동료 심사(Peer Review / 블라인드 심사)를 거쳐 논문이 등재되는 학술지 체계",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (29.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "선행 연구들의 한계점을 면밀히 고찰한 결과, 기존 연구가 간과했던 다문화 청소년의 이중언어 발달 요인을 본 연구의 핵심 쟁점으로 도출했습니다.",
+          "reading": "Seonhaeng yeon-gu-deul-ui hangyejeom-eul myeonmilhi gochalhan gyeolgwa, gijon yeon-gu-ga gwangwahayeotdeon damunhwa cheongsonyeon-ui ijung-eon-eo baldal yoin-eul bon yeon-gu-ui haeksim jaengjeom-euro dochulhaetseumnida.",
+          "translation": "As a result of closely reviewing the limitations of preceding studies ('선행 연구들의 한계점을 면밀히 고찰한 결과'), we derived bilingual development factors of multicultural adolescents, which existing studies had overlooked, as this study's core issue."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (29.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "학술 논문 작성 시 타인의 독창적인 아이디어나 데이터를 차용할 때는 학술 양식에 맞추어 반드시 각주와 참고문헌에 출처를 명확히 밝혀야 합니다.",
+          "reading": "Haksul nonmun jakseong si tain-ui dokchangjeogin aidieo-na deiteo-reul chayonghal ttae-neun haksul yangsig-e matchwo bandeusi gakju-wa chamgomunheon-e chulcheo-reul myeonghwakhi balkhyeoya hamnida.",
+          "translation": "When borrowing others' original ideas or data while writing an academic dissertation, you must clearly state the sources in footnotes and references ('각주와 참고문헌에 출처를 명확히 밝혀야') conforming to academic formatting."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (29.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "본 투고 논문은 엄격한 익명 동료 심사(더블 블라인드 리뷰)를 거쳐 한국연구재단 KCI 우수등재학술지에 최종 게재 승인을 받았습니다.",
+          "reading": "Bon tugo nonmun-eun eomgyeokhan ikmyeong dongnyo simsa (deobeul beullaindeu ribyu)-reul geochyeo Hanguk-yeon-gu-jaedan KCI usu-deungjae-haksulji-e choejong gaejae seung-in-eul badatseumnida.",
+          "translation": "This submitted paper received final publication approval in a National Research Foundation of Korea KCI excellent registered journal after undergoing rigorous double-blind peer review."
+        },
+        {
+          "target": "학술 생태계의 건전성을 수호하기 위해 표절 검사 프로그램을 활용한 유사도 검사를 의무적으로 시행하고 있습니다.",
+          "reading": "Haksul saengtae-gye-ui geonjeonseong-eul suhohagi wihae pyojeol geomsa peurogeuraem-eul hwalyonghan yusado geomsa-reul uimujeog-euro sihaenghago itseumnida.",
+          "translation": "To protect the integrity of the academic ecosystem, similarity checks using plagiarism inspection programs are mandatorily implemented."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "선행 연구로 갭 찾고, 인용엔 각주 필수, 표절 검사로 연구 윤리 준수!"
+      ],
+      "culturalNotes": [
+        "한국의 대학교에서는 '카피킬러(CopyKiller)' 등 공인 표절 검사기를 활용하여 표절률 10% 미만을 충족해야만 학위 논문 심사 자격이 부여됩니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 학술 논문과 학술 토론 (Academic Research & Dissertation) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "원 저작자의 문장을 직접 인용하지 않고 자신의 문장으로 요약·재구성하여 인용하는 학술 방식을 무엇이라 하는가?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (29.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (29.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (29.2.3)."
+            "간접 인용 (Indirect Quotation / Paraphrasing)",
+            "무단 전재 (Unauthorized Reproduction)",
+            "재가공 유포 (Fabricated Distribution)"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "원문의 내용을 자신의 언어로 바꾸어 출처를 밝히고 서술하는 방식을 '간접 인용'이라 합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 학술 논문 작성과 학술 토론 (Academic Dissertation & Debate) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "연구자가 과거 자신이 발표한 연구 논문의 텍스트나 데이터를 출처 표기 없이 그대로 재사용하는 부정행위는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (29.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (29.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (29.2.3)."
+            "자기표절 (Self-Plagiarism / 중복 게재)",
+            "정당한 인용 (Legitimate Citation)",
+            "공동 연구 (Collaborative Research)"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "자신의 과거 저작물이라도 출처 표기 없이 재사용하는 것은 '자기표절'에 해당합니다."
         }
       ]
     },
@@ -13500,14 +13527,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 학술 논문과 학술 토론 (Academic Research & Dissertation) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 29-2)?",
+          "prompt": "한국연구재단에서 국내 우수 학술지를 평가하고 관리하는 국가 학술지 색인 시스템은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (29.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (29.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (29.2.3)."
+            "KCI (한국학술지인용색인)",
+            "KOSPI (한국종합주가지수)",
+            "KTX (한국고속철도)"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "국내 학술지 관리 및 인용 지수 체계는 KCI(Korea Citation Index)입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'선행 연구 고찰과 출처 표기를 철저히 했어요'(I thoroughly reviewed literature and marked citations)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "선행 연구 고찰과 출처 표기를 철저히 했어요.",
+            "선행 연구 고찰과 출처 표기를 철저히 했어요"
+          ],
+          "explanation": "선행 연구 고찰과 + 출처 표기를 + 철저히 했어요 = 선행 연구 고찰과 출처 표기를 철저히 했어요."
         }
       ]
     }
@@ -13517,56 +13553,65 @@
     "subject": "korean",
     "unit": 29,
     "lessonNumber": 3,
-    "title": "학술 논문 작성과 학술 토론 (Academic Dissertation & Debate) (Part 3)",
+    "title": "학술 논문 격식체 문체와 논증 표현 (Academic Argumentative Syntax)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 학술 논문과 학술 토론 (Academic Research & Dissertation).",
+    "objective": "-(으)ㅁ에 주목할 필요가 있다, -는 점에서 의의를 지닌다, -(으)로 사료된다, -에 기인하는 것으로 해석된다 등 학술 전문 논증 문형을 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 학술 논문 작성과 학술 토론 (Academic Dissertation & Debate) » (제3절)의 핵심 언어 요소와 학술 논문과 학술 토론 (Academic Research & Dissertation)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "학술 논문의 서론, 결과 분석, 결론 및 제언에서 필자의 객관적이고 절제된 주장을 전개하는 전문 학술 문체입니다.\n\n1. 학술 논증의 핵심 통사 문형:\n- **~에 주목할 필요가 있다 / ~에 주목해야 한다**: 중요한 학술적 발견이나 특이점을 강조할 때\n- **~(이)라는 점에서 학술적/실천적 의의를 지닌다 / 갖는다**: 연구 결과의 독창적 가치와 학문적 기여도를 평가할 때\n- **~에 기인하는 것으로 해석된다 / 판단된다**: 결과의 원인과 메커니즘을 객관적으로 분석할 때 ('~때문이다'의 고급 학술 대체형)\n- **~(으)로 사료된다 / 추정된다**: 연구자의 견해를 정중하고 학술적인 겸양의 어조로 조심스럽게 피력할 때 (I consider / It is deemed that)\n- **~임을 시사한다 / 시사하는 바가 크다**: 데이터가 암시하는 정책적·이론적 함의를 도출할 때",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (29.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "본 연구의 분석 결과는 청소년기 자기효능감이 학업 성취도 향상에 결정적인 매개 효과를 발휘함을 시사합니다.",
+          "reading": "Bon yeon-gu-ui bunseok gyeolgwa-neun cheongsonyeongi jagi-hyoneunggam-i hag-eop seongchwido hyangsang-e gyeoljeongjeogin maegae hyogwa-reul balhwiham-eul sisahamnida.",
+          "translation": "The analysis results of this study suggest that adolescent self-efficacy exerts a decisive mediating effect ('결정적인 매개 효과를 발휘함을 시사합니다') on improving academic achievement."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (29.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "이러한 현상은 디지털 플랫폼의 급격한 확산과 소비자의 능동적 미디어 참여 욕구에 기인하는 것으로 해석됩니다.",
+          "reading": "Ireohan hyeonsang-eun dijiteol peullaetpom-ui geupgyeokhan hwaksan-gwa sobija-ui neungdongjeok midieo cham-yeo yokgu-e gi-inhaneun geos-euro haeseokdoemnida.",
+          "translation": "This phenomenon is interpreted as being attributable to ('기인하는 것으로 해석됩니다') the rapid proliferation of digital platforms and consumers' active desire for media participation."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (29.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "기존의 서구 중심 이론 틀에서 벗어나 한국적 맥락의 고유한 특성을 실증적으로 규명했다는 점에서 본 연구는 높은 학술적 의의를 지닙니다.",
+          "reading": "Gijon-ui seogu jungsim iron teul-eseo beoseona hangukjeok maekrak-ui goyuhan teukseong-eul siljeungjeog-euro gyumyeonghaetdaneun jeom-eseo bon yeon-gu-neun nopeun haksuljeok uiyi-reul jinimnida.",
+          "translation": "In that it empirically clarified unique characteristics of the Korean context departing from existing Western-centric theoretical frameworks, this study possesses high academic significance ('높은 학술적 의의를 지닙니다')."
+        },
+        {
+          "target": "향후 인공지능 윤리 가이드라인 수립 시 알고리즘의 투명성과 설명 가능성을 제도적으로 보장하는 방안이 심도 있게 논의되어야 할 것으로 사료됩니다.",
+          "reading": "Hyanghu in-gongjineung yunri gaideurain surip si algorijeum-ui tumyeongseong-gwa seolmyeong ganeungseong-eul jedojeog-euro bojanghaneun bang-an-i simdo itge non-uidoeeoya hal geos-euro saryodoemnida.",
+          "translation": "When establishing AI ethical guidelines henceforth, it is deemed that measures systematically ensuring algorithm transparency and explainability should be discussed in depth ('논의되어야 할 것으로 사료됩니다')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "의의를 지닌다, 기인하는 것으로 해석된다, ~으로 사료된다, ~을 시사한다!"
+      ],
+      "culturalNotes": [
+        "한국어 학술 논문에서는 '내가 생각하기에는'과 같은 1인칭 주관적 표현을 철저히 배제하고, 피동형과 객관적 논증 종결형('~으로 사료된다', '~을 시사한다')을 사용하는 것이 학술적 격식의 기본입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 학술 논문과 학술 토론 (Academic Research & Dissertation) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "학술 논문에서 연구 결과가 나타난 원인을 학술적이고 객관적으로 서술할 때 가장 적절한 표현은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (29.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (29.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (29.3.3)."
+            "~에 기인하는 것으로 해석된다 (Interpreted as attributable to)",
+            "~ 때문이라서 내가 기분이 좋다",
+            "~ 인 것 같아서 그냥 그렇게 썼다"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "'~에 기인하는 것으로 해석된다'는 원인 귀속을 객관적으로 서술하는 표준 학술 문형입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 학술 논문 작성과 학술 토론 (Academic Dissertation & Debate) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "논문의 결론부에서 연구자가 조심스럽고 품격 있게 제언이나 견해를 밝힐 때 쓰는 고급 학술 어미는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (29.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (29.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (29.3.3)."
+            "~할 필요가 있을 것으로 사료된다 (Deemed necessary to)",
+            "~하니까 너희들이 알아서 해라",
+            "~하고 싶다고 솔직히 말하겠다"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'~으로 사료된다'는 학술 연구자의 정중하고 신중한 판단을 드러내는 최상급 학술 어휘입니다."
         }
       ]
     },
@@ -13574,14 +13619,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 학술 논문과 학술 토론 (Academic Research & Dissertation) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 29-3)?",
+          "prompt": "연구의 가치와 학문적 기여도를 평가할 때 가장 적절한 학술적 문장 표현은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (29.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (29.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (29.3.3)."
+            "새로운 방법론을 제시했다는 점에서 중요한 학술적 의의를 지닌다.",
+            "내가 열심히 썼기 때문에 이 논문은 아주 훌륭하다.",
+            "아무도 안 읽을 것 같아서 별로 의미가 없다."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'~는 점에서 중요한 학술적 의의를 지닌다'는 표준적인 학술 논문 의의 서술 표현입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'학술적 의의를 지니며 많은 시사점을 던져줘요'(It has academic significance and throws many implications)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "학술적 의의를 지니며 많은 시사점을 던져줘요.",
+            "학술적 의의를 지니며 많은 시사점을 던져줘요"
+          ],
+          "explanation": "학술적 의의를 지니며 + 많은 시사점을 + 던져줘요 = 학술적 의의를 지니며 많은 시사점을 던져줘요."
         }
       ]
     }
@@ -13591,56 +13645,65 @@
     "subject": "korean",
     "unit": 29,
     "lessonNumber": 4,
-    "title": "학술 논문 작성과 학술 토론 (Academic Dissertation & Debate) (Part 4)",
+    "title": "학술 심포지엄 토론, 질의응답 및 반론 제기 (Symposium Debate & Defense)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 학술 논문과 학술 토론 (Academic Research & Dissertation).",
+    "objective": "학술 심포지엄의 발제자, 지정 토론자, 좌장의 담화 역할을 이해하고 품격 있는 질의, 반론 및 방어 논리를 전개한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 학술 논문 작성과 학술 토론 (Academic Dissertation & Debate) » (제4절)의 핵심 언어 요소와 학술 논문과 학술 토론 (Academic Research & Dissertation)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "국내외 학술대회(Symposium / Conference) 및 학위 논문 심사장에서 이루어지는 구두 토론과 질의응답 담화 프로토콜입니다.\n\n1. 학술대회 주요 역할:\n- **좌장(Chairperson / 사회자)**: 세션의 개회 선언, 발표 시간 통제, 질의응답 순서 조율 및 종합 정리\n- **발제자(Presenter / 발표자)**: 연구 주제의 배경, 방법론, 분석 결과 및 시사점을 제한 시간 내에 구두 발표\n- **지정 토론자(Discussant)**: 발표 논문을 사전 검토한 후 장점과 한계점, 논리적 허점을 짚어 질문과 코멘트를 제공하는 전문가\n\n2. 품격 있는 질의 및 반론 에티켓:\n- **존중과 감사의 서두**: '훌륭한 발제 감사히 잘 들었습니다. 발제자분의 견해에 전적으로 공감하면서도 한 가지 보완적 의문이 듭니다.'\n- **정중한 반론 제기**: '~라는 점에 대해 연구자가 통제하지 못한 외생 변수의 영향 가능성은 어떻게 보시는지요?'\n- **방어 및 후속 연구 수용**: '지적해 주신 부분은 본 연구의 표본 한계로 인정하며, 향후 종단적 후속 연구를 통해 심도 있게 보완하도록 하겠습니다.'",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (29.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "좌장님의 진행에 감사드리며, 토론자 교수님께서 지적해 주신 표본 추출의 대표성 한계에 대해 소명 답변을 드리겠습니다.",
+          "reading": "Jwajangnim-ui jinhaeng-e gamsadeurimyeo, toronja gyosunim-kkeseo jijeokhae jusin pyobon chuchul-ui daepyoseong hangye-e daehae somyeong dapbyeon-eul deurigetseumnida.",
+          "translation": "Thanking the session chair for moderation, I would like to offer an explanatory response ('소명 답변을 드리겠습니다') regarding the representativeness limitation of sampling pointed out by the discussant professor."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (29.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "발제자께서 제시하신 통계 모델은 매우 혁신적이나, 질적 심층 면담 자료와의 상호 교차 검증이 다소 미흡했던 것으로 판단됩니다.",
+          "reading": "Baljeja-kkeseo jesihasin tonggye modeul-eun maeu hyeoksinjeog-ina, jiljeok simcheung myeondam jaryo-wa-ui sangho gyocha geomjeong-i daso miheubhaetdeon geos-euro pandandoemnida.",
+          "translation": "While the statistical model presented by the speaker is very innovative, cross-validation with qualitative in-depth interview data is judged to have been somewhat insufficient ('상호 교차 검증이 다소 미흡했던 것으로')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (29.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "매우 날카롭고 유익한 코멘트에 깊이 감사드리며, 해당 지적 사항은 학위 논문 최종본 수정 시 적극 반영하도록 하겠습니다.",
+          "reading": "Maeu nalkaropgo yuikhan komenteu-e gipi gamsadeurimyeo, haedang jijeok sahang-eun hagwi nonmun choejongbon sujeong si jeokgeuk banyeonghadorok hagetseumnida.",
+          "translation": "I deeply appreciate the very sharp and insightful comments, and I will actively reflect those pointed matters ('적극 반영하도록 하겠습니다') when revising the final dissertation."
+        },
+        {
+          "target": "본 연구의 이론적 모델이 실제 임상 현장에서 얼마만큼의 실효성을 가질 수 있는지 추가 설명 부탁드립니다.",
+          "reading": "Bon yeon-gu-ui ironjeok modeul-i siljae imsang hyeonjang-eseo eolmamankeum-ui silhyoseong-eul gajil su inneunji chuga seolmyeong butakdeurimnida.",
+          "translation": "Please provide an additional explanation on how much practical efficacy this study's theoretical model can possess in actual clinical settings."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "좌장의 조율, 발제자의 발표, 토론자의 날카로운 질의, 겸허한 소명과 수용!"
+      ],
+      "culturalNotes": [
+        "한국의 학술 토론 문화에서는 상대방의 학문적 권위와 노고를 먼저 칭찬한 후('좋은 발표 잘 들었습니다'), 비판적 논점을 정중하고 세련된 어법으로 지적하는 학술적 예의(Academic Courtesy)가 중시됩니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 학술 논문과 학술 토론 (Academic Research & Dissertation) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "학술 심포지엄에서 발표된 논문을 사전에 면밀히 검토하고 발표 내용의 타당성과 한계에 대해 전문적인 논평을 제공하는 사람은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (29.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (29.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (29.4.3)."
+            "지정 토론자 (Discussant)",
+            "방청객 (Audience)",
+            "행사 진행 도우미 (Event Assistant)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "발표 논문에 대해 전문적 비평과 질의를 담당하는 패널은 '지정 토론자(Discussant)'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 학술 논문 작성과 학술 토론 (Academic Dissertation & Debate) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "학술 발표 질의응답 시 청중이나 토론자의 비판적 지적을 수용하며 답변할 때 가장 모범적인 태도는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (29.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (29.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (29.4.3)."
+            "유익한 지적에 감사하며 향후 후속 연구에서 보완하겠다고 정중히 답변한다.",
+            "화를 내며 내 논문은 완벽하니 질문하지 말라고 소리친다.",
+            "모르는 질문에는 답변을 거부하고 무시한다."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "학술 토론에서는 지적 사항을 겸허히 수용하고 후속 연구 과제로 삼는 태도가 가장 바람직합니다."
         }
       ]
     },
@@ -13648,14 +13711,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 학술 논문과 학술 토론 (Academic Research & Dissertation) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 29-4)?",
+          "prompt": "학술대회 세션 전체를 총괄하고 발표 및 토론 시간을 관리하며 질의응답을 진행하는 사회자는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (29.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (29.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (29.4.3)."
+            "좌장 (Chairperson)",
+            "서기 (Clerk)",
+            "경호원 (Security)"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "explanation": "학술 세션의 진행을 총괄하는 사회자를 '좌장(Chairperson)'이라고 부릅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'토론자의 질의에 성실히 소명 답변을 드렸어요'(I faithfully gave an explanatory response to the discussant's question)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "토론자의 질의에 성실히 소명 답변을 드렸어요.",
+            "토론자의 질의에 성실히 소명 답변을 드렸어요"
+          ],
+          "explanation": "토론자의 질의에 + 성실히 + 소명 답변을 + 드렸어요 = 토론자의 질의에 성실히 소명 답변을 드렸어요."
         }
       ]
     }
@@ -13665,56 +13737,65 @@
     "subject": "korean",
     "unit": 29,
     "lessonNumber": 5,
-    "title": "학술 논문 작성과 학술 토론 (Academic Dissertation & Debate) (Part 5)",
+    "title": "국제 학술 심포지엄 및 박사학위 논문 구술 심사 실전 학술 종합 담화",
     "level": "C1",
-    "objective": "Comprehensive mastery of 학술 논문과 학술 토론 (Academic Research & Dissertation).",
+    "objective": "연구 가설, 연구 방법론, 실증 분석 결과, 학술적 의의 및 구술 심사 질의 소명을 종합하여 C1 최고급 학술 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 학술 논문 작성과 학술 토론 (Academic Dissertation & Debate) » (제5절)의 핵심 언어 요소와 학술 논문과 학술 토론 (Academic Research & Dissertation)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "박사학위 논문 최종 구술 심사(Dissertation Defense) 및 국제 학술 심포지엄 메인 세션에서 구사하는 최고 수준의 실전 학술 담화 모델입니다.\n\n1. 박사학위 논문 최종 구술 심사 실전 모델:\n- 심사위원장: 심사 대상자께서는 학위 청구 논문의 핵심 요지와 선행 연구 대비 학술적 차별성을 10분간 요약 발표해 주시기 바랍니다.\n- 연구자: 네, 심사위원 교수님들께 감사드립니다. 본 논문은 인공지능 기반 언어 모델이 한국어 텍스트의 맥락적 담화 구조를 이해하는 데 미치는 영향을 **실증적으로 규명(Empirical Clarification)**하고자 하였습니다. 독립변수로 프롬프트 설계 기법을, 종속변수로 문맥 조응성 점수를 설정하여 **통계적 유의성(p < .001)**을 검증하였습니다. 본 연구는 한국어 특유의 높임법과 존칭 조응 현상을 체계화했다는 점에서 높은 **학술적 의의를 지니는 것으로 사료됩니다**.\n- 심사위원: 훌륭한 연구입니다. 다만 표본이 특정 도메인 코퍼스에 편중된 감이 있는데, 이에 대한 일반화 가능성은 어떻게 소명하시겠습니까?\n- 연구자: 지적해 주신 바와 같이 특정 장르의 한계가 존재함을 인정하며, 이는 차후 공공 행정 및 문학 텍스트를 포괄하는 **후속 연구 과제**로 삼아 외적 타당도를 보완하도록 하겠습니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (29.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "철저한 가설 검증과 엄격한 실증 분석을 통해 박사학위 논문 구술 심사를 성공적으로 통과하였습니다.",
+          "reading": "Cheoljeohan gaseol geomjeong-gwa eomgyeokhan siljeung bunseog-eul tonghae baksahagwi nonmun gusul simsa-reul seonggongjeog-euro tonggwahayeotseumnida.",
+          "translation": "Through thorough hypothesis testing and rigorous empirical analysis, I successfully passed the doctoral dissertation oral defense ('박사학위 논문 구술 심사를 성공적으로 통과하였습니다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (29.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "선행 연구의 한계를 극복하고 새로운 이론적 틀을 제시함으로써 학계에 의미 있는 족적을 남겼습니다.",
+          "reading": "Seonhaeng yeon-gu-ui hangye-reul geukbokhago saeroun ironjeok teul-eul jesiham-euroseo hakgye-e uimi inneun jokjeog-eul namgyeotseumnida.",
+          "translation": "By overcoming the limitations of previous studies and presenting a new theoretical framework, it left a meaningful footprint in academia."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (29.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "심사위원들의 날카로운 비판과 조언은 연구의 학술적 완성도를 한 단계 끌어올리는 귀중한 밑거름이 되었습니다.",
+          "reading": "Simsawiwon-deul-ui nalkaroun bipan-gwa jo-eon-eun yeon-gu-ui haksuljeok wanseongdo-reul han dangye kkeureo-ollineun gwijunghan mitgeoleum-i doe-eotseumnida.",
+          "translation": "The judges' sharp criticism and advice became valuable foundation elevating the research's academic completeness to the next level."
+        },
+        {
+          "target": "학술 연구의 궁극적 목표는 엄밀한 진리 탐구를 통해 인류 사회의 지적 지평을 넓히는 데 있습니다.",
+          "reading": "Haksul yeon-gu-ui gung-geukjeok mokpyo-neun eommilhan jinri tamgu-reul tonghae inryu sahoe-ui jieok jipyeong-eul neolpineun de itseumnida.",
+          "translation": "The ultimate goal of academic research lies in broadening the intellectual horizons of human society through rigorous truth inquiry."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "학위 심사: 명확한 논리, 정직한 연구 윤리, 당당하고 겸허한 소명 태도!"
+      ],
+      "culturalNotes": [
+        "한국의 대학원 박사학위 심사는 통상 5인의 심사위원(지도교수 및 외래 심사위원) 앞에서 최소 3차에 걸친 엄격한 구술 심사(디펜스)를 통과해야 비로소 학위가 수여됩니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 학술 논문과 학술 토론 (Academic Research & Dissertation) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "박사학위 구술 심사(디펜스)에서 연구자가 심사위원들의 질문에 답변하고 연구의 정당성을 증명하는 행위를 뜻하는 용어는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (29.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (29.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (29.5.3)."
+            "소명 (Explanatory Defense / Justification)",
+            "변명 (Excuse)",
+            "회피 (Avoidance)"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "심사위원의 학술적 의문에 대해 근거를 대어 밝히는 것을 '소명(Clarification/Defense)'이라고 합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 학술 논문 작성과 학술 토론 (Academic Dissertation & Debate) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "학위 논문 발표 마무리에서 연구가 지닌 가치를 학술적으로 천명하는 가장 적합한 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (29.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (29.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (29.5.3)."
+            "본 연구는 한국어 담화 연구의 지평을 넓혔다는 점에서 학술적 의의를 지닙니다.",
+            "이 논문은 페이지 수가 많으므로 무조건 훌륭합니다.",
+            "시간이 없어서 대충 썼으니 그냥 통과시켜 주십시오."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "연구의 가치와 학문적 기여도를 당당하고 품격 있게 제시하는 표현이 모범적입니다."
         }
       ]
     },
@@ -13722,14 +13803,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 학술 논문과 학술 토론 (Academic Research & Dissertation) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 29-5)?",
+          "prompt": "다음 중 한국의 학술 심포지엄 및 학위 논문 심사 담화로서 가장 올바르고 품격 있는 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (29.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (29.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (29.5.3)."
+            "선행 연구를 고찰하고 실증 분석을 통해 가설을 검증하였으며 학술적 의의를 지닙니다.",
+            "심사위원님들의 질문은 귀찮으니 서면으로만 제출해 주시기 바랍니다.",
+            "통계 분석 결과는 비밀이므로 공개할 수 없습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'선행 연구 고찰', '실증 분석', '가설 검증', '학술적 의의'는 완벽한 최고급 학술 담화 표현입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'실증 분석으로 가설을 검증하고 학위를 받았어요'(I tested hypotheses with empirical analysis and received a degree)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "실증 분석으로 가설을 검증하고 학위를 받았어요.",
+            "실증 분석으로 가설을 검증하고 학위를 받았어요"
+          ],
+          "explanation": "실증 분석으로 + 가설을 + 검증하고 + 학위를 + 받았어요 = 실증 분석으로 가설을 검증하고 학위를 받았어요."
         }
       ]
     }
