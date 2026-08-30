@@ -11555,53 +11555,62 @@
     "subject": "swahili",
     "unit": 28,
     "lessonNumber": 1,
-    "title": "Uandishi wa Habari, Tahariri na Utangazaji (Journalism) (Part 1)",
+    "title": "Uandishi wa Habari, Muundo wa Piramidi Pindu na Vyanzo vya Habari (News Writing & Inverted Pyramid)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.1) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa uandishi wa habari, muundo wa piramidi pindu (nani, nini, wapi, lini, kwa nini, vipi), aya ya utangulizi (lead), vyanzo vya habari vya kuaminika, na kauli taarifa ya kuripoti.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Misingi ya Uandishi wa Habari na Muundo wa Piramidi Pindu (News Writing & Journalism):\n\nKatika kiwango cha C1, mwanafunzi anapaswa kumudu uandishi rasmi wa habari na ripoti za kiuanahabari:\n\n1. **Muundo wa Piramidi Pindu (Inverted Pyramid Structure)**:\n   - **Piramidi Pindu**: Mbinu ya uandishi ambapo taarifa muhimu zaidi huwekwa juu kabisa (aya ya kwanza), na maelezo ya ziada hufuata kwa mpangilio wa umuhimu ukishuka chini.\n   - **Aya ya Utangulizi / Kwanza (The Lead)**: Aya ya kwanza inayojibu maswali sita makuu ya kiuanahabari (*Nani, Nini, Wapi, Lini, Kwa nini, Vipi*).\n   - **Mwili wa Habari (Body)**: Ufafanuzi wa kina, muktadha na ushahidi.\n   - **Mwisho wa Habari (Tail)**: Taarifa za ziada au historia ya nyuma.\n\n2. **Msamiati wa Chumba cha Habari (Newsroom Lexicon)**:\n   - **Mwandishi wa habari / Wanahabari (Journalist/s / Reporter/s)**.\n   - **Chanzo cha habari (News Source)**: Mtu, nyaraka au taasisi inayotoa taarifa.\n   - **Habari motomoto / Habari za dharura (Breaking News)**.\n   - **Taarifa ya habari (News Bulletin / Dispatch)**.\n\n3. **Sarufi ya Kauli Taarifa (Reported Speech)**:\n   - Matumizi ya vitenzi vya kuripoti: *alieleza kuwa*, *akasisitiza kwamba*, *akibainisha kuwa*, *alipoulizwa alikanusha kuwa*.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 28."
+          "target": "Katika muundo wa piramidi pindu, aya ya kwanza ya habari inapaswa kujibu maswali sita muhimu: nani, nini, wapi, lini, kwa nini na vipi.",
+          "reading": "Ka-ti-ka mu-u-ndo wa pi-ra-mi-di pi-ndu, a-ya ya kwa-nza ya ha-ba-ri ina-pa-shwa ku-ji-bu ma-swa-li si-ta mhu-mi-mu: na-ni, ni-ni, wa-pi, li-ni, kwa ni-ni na vi-pi. [ˈkɑtikɑ muˈundɔ wɑ pirɑˈmidi ˈpindu ˈɑjɑ jɑ ˈkwɑnzɑ jɑ hɑˈbɑri inɑˈpɑʃwɑ kuˈʤibu mɑˈswɑli ˈsitɑ mhuˈmimu ˈnɑni ˈnini ˈwɑpi ˈlini kwɑ ˈnini nɑ ˈvipi] (KAH-tee-kah moo-OON-doh wah pee-rah-MEE-dee PEEN-doo, AH-yah yah KWAHN-zah yah hah-BAH-ree ee-nah-PAH-shwah koo-JEE-boo mah-SWAH-lee SEE-tah m-hoo-MEE-moo: NAH-nee, NEE-nee, WAH-pee, LEE-nee, kwah NEE-nee nah VEE-pee)",
+          "translation": "Within the inverted pyramid paradigm, the opening lead paragraph must resolve six cardinal queries: who, what, where, when, why, and how."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 28-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mwandishi wa habari alithibitisha ukweli wa taarifa hiyo kutoka kwa vyanzo vya kuaminika serikalini kabla ya kuichapisha gazetini.",
+          "reading": "Mwa-ndi-shi wa ha-ba-ri ali-thi-bi-ti-sha u-kwe-li wa ta-a-ri-fa hi-yo ku-to-ka kwa vya-nzo vya ku-a-mi-ni-ka se-ri-ka-li-ni ka-bla ya kui-cha-pi-sha ga-ze-ti-ni. [mwɑˈndiʃi wɑ hɑˈbɑri uliθibiˈtiʃɑ uˈkwɛli wɑ tɑɑˈrifɑ ˈhijɔ kuˈtɔkɑ kwɑ ˈvjɑnzɔ vjɑ kuɑmiˈnikɑ sɛrikɑˈlini ˈkɑblɑ jɑ kuitʃɑˈpiʃɑ ɡɑzɛˈtini] (mwah-NDEE-shee wah hah-BAH-ree oo-lee-thee-bee-TEE-shah oo-KWAY-lee wah tah-ah-REE-fah HEE-yoh koo-TOH-kah kwah VYAHN-zoh vyah koo-ah-mee-NEE-kah say-ree-kah-LEE-nee KAH-blah yah koo-ee-chah-PEE-shah gah-zay-TEE-nee)",
+          "translation": "The investigative journalist corroborated the authenticity of the dispatch from credible government sources prior to publishing it in the newspaper."
+        },
+        {
+          "target": "Msemaji wa wizara alitangaza kuwa mazungumzo ya kidiplomasia yameanza rasmi, akisisitiza umuhimu wa kudumisha amani na mshikamano.",
+          "reading": "Mse-ma-ji wa wi-za-ra ali-ta-nga-za ku-wa ma-zu-ngu-mzo ya ki-di-plo-ma-sia ya-me-a-nza ra-smi, aki-si-si-ti-za umu-hi-mu wa ku-du-mi-sha a-ma-ni na mshi-ka-ma-no. [msɛˈmɑʤi wɑ wizɑˈrɑ ulitɑˈŋɡɑzɑ ˈkuwɑ mɑzuˈŋɡumzɔ jɑ kidiplɔˈmɑsiɑ jɑmɛˈɑnzɑ ˈrɑsmi ɑkisisitiˈzɑ umuˈhimu wɑ kuduˈmiʃɑ ɑˈmɑni nɑ mʃikɑˈmɑnɔ] (m-say-MAH-jee wah wee-zah-RAH oo-lee-tahn-GAH-zah KOO-wah mah-zoon-GOOM-zoh yah kee-dee-ploh-MAH-see-ah yah-may-AHN-zah RAH-smee, ah-kee-see-see-TEE-zah oo-moo-HEE-moo wah koo-doo-MEE-shah ah-MAH-nee nah m-shee-kah-MAH-noh)",
+          "translation": "The ministry spokesperson declared that diplomatic negotiations had officially commenced, emphasizing the vital need to maintain peace and solidarity."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Uandishi wa Habari: Piramidi pindu (inverted pyramid), Aya ya kwanza (lead), Vyanzo vya habari (sources), Habari motomoto (breaking news)!"
+      ],
+      "culturalNotes": [
+        "Magazeti makubwa ya Kiswahili ya kila siku kama 'Mwananchi', 'HabariLeo', na 'Taifa Leo' yana mamilioni ya wasomaji kote Afrika Mashariki."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kusoma\":",
+          "prompt": "Mbinu ya kiuanahabari ambapo taarifa muhimu zaidi huwekwa kwenye aya ya kwanza na maelezo madogo kufuata chini inaitwaje kwa Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kuandika»",
-            "Mpangilio usio sahihi wa viambishi katika «Kusikiliza»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kuona»"
+            "Muundo wa piramidi pindu (Inverted pyramid structure - Correct journalistic terminology)",
+            "Muundo wa ushairi wa vina",
+            "Mkataba wa bima",
+            "Kanuni ya upasuaji"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Muundo wa piramidi pindu» ndiyo dhana sanifu ya kimuundo katika uandishi wa habari."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kusoma\":",
+          "prompt": "Sentensi ipi inatumia kauli taarifa ya uandishi wa habari kwa ufasaha wa kiwango cha C1?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Kusikiliza»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kuona»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kuandika»"
+            "Mkurugenzi mkuu alithibitisha kuwa mradi utakamilika mwezi ujao, akiongeza kuwa bajeti yote imekwishatolewa. (The director-general confirmed the project would conclude next month, adding that the full budget had been disbursed - Correct reported speech)",
+            "Mkurugenzi alisema 'mimi ninakula chakula sasa hivi hapa'.",
+            "Habari za magazetini haziandikwi kwa kutumia vyanzo vya kuaminika.",
+            "Aya ya kwanza ya habari haipaswi kuwa na taarifa yoyote."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Sentensi inatumia lugha fasaha ya kiuanahabari: «alithibitisha kuwa...», «akiongeza kuwa...»."
         }
       ]
     },
@@ -11609,17 +11618,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kusoma\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya maswali sita makuu ya aya ya kwanza ya habari (The Lead) katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kuona»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kuandika»",
-            "Mpangilio usio sahihi wa viambishi katika «Kusikiliza»"
+            "Nani, Nini, Wapi, Lini, Kwa nini, na Vipi (Who, What, Where, When, Why, How - The 5 Ws and H).",
+            "Jana, Leo, Kesho, Keshokutondo, Mtondo, na Mtondogoo.",
+            "Kaskazini, Kusini, Mashariki, Magharibi, Juu, na Chini.",
+            "Chakula, Maji, Hewa, Udongo, Mvua, na Jua."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Maswali sita ya uandishi wa habari: Nani, Nini, Wapi, Lini, Kwa nini, na Vipi."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u28-l2": {
@@ -11627,53 +11637,62 @@
     "subject": "swahili",
     "unit": 28,
     "lessonNumber": 2,
-    "title": "Uandishi wa Habari, Tahariri na Utangazaji (Journalism) (Part 2)",
+    "title": "Tahariri, Makala Maalum na Safu za Maoni (Editorials & Opinion Columns)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.2) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa tahariri za magazeti, jopo la uhariri, makala maalum (feature articles), safu za maoni ya waandishi, na mbinu za ushawishi na uchambuzi wa kina.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Uandishi wa Tahariri na Safu za Maoni (Editorials & Opinion Journalism):\n\nTofauti na habari za kawaida za matukio, tahariri na makala za maoni hubeba msimamo na uchambuzi wa kina:\n\n1. **Msamiati Mahsusi wa Uhariri na Safu za Maoni**:\n   - **Tahariri (Editorial / Leading Article)**: Makala rasmi inayoakisi msimamo wa chombo cha habari kuhusu suala zito la kitaifa au kimataifa.\n   - **Mhariri Mkuu (Editor-in-Chief)** na **Jopo la Uhariri (Editorial Board)**: Kundi la wahariri wakuu wanaoamua msimamo wa gazeti.\n   - **Makala Maalum (Feature Article)**: Makala ndefu ya kiuchunguzi inayochambua tukio au mtu kwa undani na hisia za kibinadamu.\n   - **Safu ya Maoni (Opinion Column)**: Sehemu ya gazeti inayotengwa kwa mwandishi maalum kutoa maoni yake binafsi.\n   - **Mwanasafu (Columnist)**: Mwandishi anayeandika makala za safu mara kwa mara.\n   - **Uhakiki wa taarifa (Fact-checking)**: Mchakato wa kuhakikisha ukweli wa namba, majina na madai kabla ya uchapishaji.\n\n2. **Lugha ya Ushawishi na Balagha ya Tahariri**:\n   - Miundo sanifu: *Ni wazi kuwa*, *Hakuna shaka kwamba*, *Tunatoa wito kwa serikali*, *Ni wakati sasa wa kuchukua hatua*.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 28."
+          "target": "Tahariri ya leo ya gazeti inachambua kwa kina changamoto za kiuchumi na kupendekeza hatua madhubuti za kisera za kuboresha maisha ya wananchi.",
+          "reading": "Ta-ha-ri-ri ya le-o ya ga-ze-ti ina-cha-mbu-a kwa ki-na cha-nga-mo-to za kiu-chu-mi na ku-pe-nde-ke-za ha-tua ma-dhu-bu-ti za ki-se-ra za ku-bo-re-sha ma-i-sha ya wa-na-nchi. [tɑhɑˈriri jɑ ˈlɛɔ jɑ ɡɑˈzɛti inɑtʃɑˈmbuɑ kwɑ ˈkinɑ tʃɑŋɡɑˈmɔtɔ zɑ kiutʃuˈmi nɑ kupɛndɛˈkɛzɑ ˈhɑtuɑ mɑðuˈbuti zɑ kiˈsɛrɑ zɑ kubɔrɛˈʃɑ mɑˈiʃɑ jɑ wɑnɑˈɲtʃi] (tah-hah-REE-ree yah LAY-oh yah gah-ZAY-tee ee-nah-chahm-BOO-ah kwah KEE-nah chahn-gah-MOH-toh zah kee-oo-CHOO-mee nah koo-payn-day-KAY-zah HAH-too-ah mah-thoo-BOO-tee zah kee-SAY-rah zah koo-boh-ray-SHAH mah-EE-shah yah wah-nahn-CHEE)",
+          "translation": "Today's newspaper editorial incisively evaluates macroeconomic hurdles and advances robust policy prescriptions to elevate the citizenry's living conditions."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 28-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mwanasafu maarufu aliandika makala yenye ushawishi mkubwa akitetea uhuru wa kujieleza na haki ya wananchi kupata taarifa sahihi.",
+          "reading": "Mwa-na-sa-fu ma-a-ru-fu ali-a-ndi-ka ma-ka-la ye-nye usha-wi-shi mku-bwa aki-te-te-a uhu-ru wa ku-ji-e-le-za na ha-ki ya wa-na-nchi ku-pa-ta ta-a-ri-fa sa-hi-hi. [mwɑnɑˈsɑfu mɑɑˈrufu uliɑˈndikɑ mɑˈkɑlɑ ˈjɛɲɛ uʃɑˈwiʃi ˈmkubwɑ ɑkitɛˈtɛɑ uˈhuru wɑ kuʤiɛˈlɛzɑ nɑ ˈhɑki jɑ wɑnɑˈɲtʃi kuˈpɑtɑ tɑɑˈrifɑ sɑˈhihi] (mwah-nah-SAH-foo mah-ah-ROO-foo oo-lee-ahn-DEE-kah mah-KAH-lah YAY-nyay oo-shah-WEE-shee M-KOO-bwah ah-kee-tay-TAY-ah oo-HOO-roo wah koo-jee-ay-LAY-zah nah HAH-kee yah wah-nahn-CHEE koo-PAH-tah tah-ah-REE-fah sah-HEE-hee)",
+          "translation": "The renowned columnist drafted an influential essay defending liberty of expression and the populace's legitimate right to access accurate information."
+        },
+        {
+          "target": "Jopo la uhariri lilifanya uhakiki mkali wa takwimu zote ili kuhakikisha kwamba ripoti hiyo inazingatia ukweli, weledi na mizania sahihi.",
+          "reading": "Jo-po la uha-ri-ri li-li-fa-nya uha-ki-ki mka-li wa ta-kwi-mu zo-te i-li ku-ha-ki-ki-sha kwa-mba ri-po-ti hi-yo ina-zi-nga-tia u-kwe-li, we-le-di na mi-za-nia sa-hi-hi. [ˈʤɔpɔ lɑ uhɑˈriri lilifɑˈɲɑ uhɑˈkiki ˈmkɑli wɑ tɑˈkwimu ˈzɔtɛ ˈili kuhɑkiˈkiʃɑ ˈkwɑmbɑ riˈpɔti ˈhijɔ inɑziŋɡɑˈtiɑ uˈkwɛli wɛˈlɛdi nɑ mizɑˈniɑ sɑˈhihi] (JOH-poh lah oo-hah-REE-ree lee-lee-FAH-nyah oo-hah-KEE-kee M-KAH-lee wah tah-KWEE-moo ZOH-tay EE-lee koo-hah-kee-KEE-shah KWAHM-bah ree-POH-tee HEE-yoh ee-nah-zeen-gah-TEE-ah oo-KWAY-lee, way-LAY-dee nah mee-zah-NEE-ah sah-HEE-hee)",
+          "translation": "The editorial board conducted rigorous fact-checking across all statistical data to ensure that the investigative report preserved truth, professionalism, and balance."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Tahariri na Safu: Tahariri (editorial), Jopo la uhariri (editorial board), Mwanasafu (columnist), Makala maalum (features), Uhakiki wa taarifa (fact-checking)!"
+      ],
+      "culturalNotes": [
+        "Tahariri za magazeti ya Kiswahili zimekuwa na mchango wa kihistoria tangu enzi za uhuru katika kujenga mshikamano wa kitaifa na kuikosoa serikali kwa nia ya kujenga."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kuandika\":",
+          "prompt": "Makala rasmi ya gazeti inayoonyesha mtazamo na msimamo wa chombo cha habari kuhusu suala muhimu la kijamii inaitwaje kwa Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kusikiliza»",
-            "Mpangilio usio sahihi wa viambishi katika «Kuona»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kutaka»"
+            "Tahariri (Editorial - Correct journalistic term)",
+            "Tangazo la biashara",
+            "Ratiba ya treni",
+            "Kipimo cha damu"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Tahariri» (editorial) ndiyo makala maalum inayoonyesha msimamo rasmi wa chombo cha habari."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kuandika\":",
+          "prompt": "Mwandishi anayeandika makala za uchambuzi na maoni mara kwa mara katika sehemu maalum ya gazeti anaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Kuona»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kutaka»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kusikiliza»"
+            "Mwanasafu (Columnist - Correct media profession)",
+            "Mlinzi wa doria",
+            "Mjasiriamali wa hisa",
+            "Mkutubi wa maktaba"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Mwanasafu» (columnist) ndiye mwandishi anayepewa safu (column) ya kudumu gazetini."
         }
       ]
     },
@@ -11681,17 +11700,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kuandika\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya maneno ya tahariri na uchambuzi wa habari katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kutaka»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kusikiliza»",
-            "Mpangilio usio sahihi wa viambishi katika «Kuona»"
+            "Tahariri, Mhariri mkuu, Jopo la uhariri, Makala maalum, Safu ya maoni, Mwanasafu, Uhakiki wa taarifa, Mizania ya habari.",
+            "Tahariri huandikwa kwa kutumia mashairi ya kitendawili pekee.",
+            "Magazeti hayaruhusiwi kuwa na wahariri wala safu za maoni.",
+            "Uhakiki wa taarifa unalenga kufuta habari zote nzuri."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Msamiati sahihi: Tahariri, Mhariri mkuu, Jopo la uhariri, Makala maalum, Safu ya maoni, Mwanasafu, Uhakiki wa taarifa."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u28-l3": {
@@ -11699,53 +11719,62 @@
     "subject": "swahili",
     "unit": 28,
     "lessonNumber": 3,
-    "title": "Uandishi wa Habari, Tahariri na Utangazaji (Journalism) (Part 3)",
+    "title": "Utangazaji wa Redio na Televisheni: BBC Swahili, DW, VOA na RTD (Broadcasting Media)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.3) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni (idhaa za kimataifa: BBC Swahili, DW, VOA; idhaa za kitaifa: RTD/TBC, KBC), studio za utangazaji, matangazo ya moja kwa moja, na mahojiano maalum.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Utangazaji wa Redio, Televisheni na Idhaa za Kiswahili Duniani (Broadcasting Journalism):\n\nLugha ya Kiswahili ina historia ndefu na yenye heshima kubwa katika utangazaji wa kimataifa na kikanda:\n\n1. **Idhaa Maarufu za Utangazaji wa Kiswahili**:\n   - **Idhaa ya Kiswahili ya BBC (BBC Swahili)**: Ilianza kurusha matangazo kutoka London tangu mwaka 1957.\n   - **DW Kiswahili (Deutsche Welle - Ujerumani)** na **Sauti ya Amerika (Voice of America - VOA)**.\n   - **Radio Tanzania Dar es Salaam (RTD / sasa TBC)** na **KBC (Kenya Broadcasting Corporation)**: Vituo vya kitaifa vilivyoweka misingi ya Kiswahili sanifu.\n\n2. **Msamiati wa Utangazaji (Broadcasting Terms)**:\n   - **Mtangazaji / Watangazaji (Broadcaster/s / Presenter/s)**.\n   - **Studio ya matangazo (Broadcast Studio)**.\n   - **Kipaza sauti (Microphone)**.\n   - **Matangazo ya moja kwa moja (Live Broadcast)**.\n   - **Mawimbi ya redio (Frequencies: Shortwave, FM, AM)**.\n   - **Mahojiano maalum (Exclusive Interview)**.\n   - **Mwandishi wa uwanjani / Mwanahabari wa nyanjani (Field Reporter)**.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 28."
+          "target": "Idhaa ya Kiswahili ya BBC na DW zimekuwa na mchango mkubwa katika kusanifisha na kusambaza msamiati wa kisasa wa kisiasa na kiteknolojia kote ulimwenguni.",
+          "reading": "I-dha-a ya Ki-swa-hi-li ya BBC na DW zi-me-ku-wa na mcha-ngo mku-bwa ka-ti-ka ku-sa-ni-fi-sha na ku-sa-mba-za msa-mia-ti wa ki-sa-sa wa ki-sia-sa na ki-te-kno-lo-jia ko-te uli-mwe-ngu-ni. [iˈðɑː jɑ kiswɑˈhili jɑ bibiˈsi nɑ diˈdɑblju zimɛˈkuwɑ nɑ ˈmtʃɑŋɡɔ ˈmkubwɑ ˈkɑtikɑ kusɑniˈfiʃɑ nɑ kusɑˈmbɑzɑ msɑmiˈɑti wɑ kiˈsɑsɑ wɑ kisiˈɑsɑ nɑ kitɛknɔlɔˈʤiɑ ˈkɔtɛ ulimwɛˈŋɡuni] (ee-THAH-ah yah kee-swah-HEE-lee yah bee-bee-SEE nah dee-DAH-blyoo zee-may-KOO-wah nah M-CHAHN-goh M-KOO-bwah KAH-tee-kah koo-sah-nee-FEE-shah nah koo-sahm-BAH-zah m-sah-mee-AH-tee wah kee-SAH-sah wah kee-see-AH-sah nah kee-tay-knoh-loh-JEE-ah KOH-tay oo-leem-wayn-GOO-nee)",
+          "translation": "The Swahili broadcast services of the BBC and Deutsche Welle have exerted momentous influence in standardizing and circulating contemporary geopolitical and technological terminologies worldwide."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 28-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mtangazaji wa habari alifanya mahojiano ya moja kwa moja na wakuu wa nchi kutoka studio za televisheni jijini Nairobi na Dar es Salaam.",
+          "reading": "Mta-nga-za-ji wa ha-ba-ri ali-fa-nya ma-ho-jia-no ya mo-ja kwa mo-ja na wku-u wa nchi ku-to-ka stu-dio za te-le-vi-she-ni ji-ji-ni Na-i-ro-bi na Dar es Sa-laam. [mtɑŋɡɑˈzɑʤi wɑ hɑˈbɑri ulifɑˈɲɑ mɑhɔʤiˈɑnɔ jɑ ˈmɔʤɑ kwɑ ˈmɔʤɑ nɑ ˈwkuː wɑ ɲtʃi kuˈtɔkɑ ˈstudiɔ zɑ tɛlɛviˈʃɛni ʤiˈʤini nɑiˈrɔbi nɑ dɑr ɛs sɑˈlɑːm] (m-tahn-gah-ZAH-jee wah hah-BAH-ree oo-lee-FAH-nyah mah-hoh-jee-AH-noh yah MOH-jah kwah MOH-jah nah W-KOO-oo wah n-CHEE koo-TOH-kah STOO-dee-oh zah tay-lay-vee-SHAY-nee jee-JEE-nee nah-ee-ROH-bee nah dahr ays sah-LAHM)",
+          "translation": "The news anchor hosted a live satellite interview with heads of state directly from television broadcast studios in Nairobi and Dar es Salaam."
+        },
+        {
+          "target": "Sauti thabiti na matamshi fasaha ya watangazaji wa Radio Tanzania Dar es Salaam (RTD) yalijenga misingi imara ya ufasaha wa lugha ya Kiswahili sanifu.",
+          "reading": "Sa-u-ti tha-bi-ti na ma-ta-mshi fa-sa-ha ya wa-ta-nga-za-ji wa Ra-dio Ta-nza-nia Dar es Sa-laam ya-li-je-nga mi-si-ngi i-ma-ra ya ufa-sa-ha wa lu-gha ya Ki-swa-hi-li sa-ni-fu. [sɑˈuti θɑˈbiti nɑ mɑˈtɑmʃi fɑˈsɑhɑ jɑ wɑtɑŋɡɑˈzɑʤi wɑ ˈrɑdiɔ tɑnzɑˈniɑ dɑr ɛs sɑˈlɑːm jɑliˈʤɛŋɡɑ miˈsiŋɡi iˈmɑrɑ jɑ ufɑˈsɑhɑ wɑ ˈluɣɑ jɑ kiswɑˈhili sɑˈnifu] (sah-OO-tee thah-BEE-tee nah mah-TAHM-shee fah-SAH-hah yah wah-tahn-gah-ZAH-jee wah RAH-dee-oh tahn-zah-NEE-ah dahr ays sah-LAHM yah-lee-JAYN-gah mee-SEEN-gee ee-MAH-rah yah oo-fah-SAH-hah wah LOO-gah yah kee-swah-HEE-lee sah-NEE-foo)",
+          "translation": "The resonant vocal timbre and impeccable orthoepy of Radio Tanzania Dar es Salaam [RTD] presenters established enduring standards of spoken standard Swahili eloquence."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Utangazaji wa Habari: Idhaa za redio (BBC, DW, VOA, RTD), Mtangazaji (anchor), Studio ya matangazo, Matangazo ya moja kwa moja (live), Kipaza sauti (mic)!"
+      ],
+      "culturalNotes": [
+        "Watangazaji maarufu wa redio kama akina Mshindo Mwinjuma, Charles Hillary, na Salim Kikeke wamekuwa mifano mashuhuri ya ufasaha wa lugha ya Kiswahili katika utangazaji wa kimataifa."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kusikiliza\":",
+          "prompt": "Kituo cha redio cha kitaifa cha Tanzania kilichoweka misingi mikuu ya matamshi na ufasaha wa Kiswahili sanifu tangu zama za Mwalimu Nyerere kinaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kuona»",
-            "Mpangilio usio sahihi wa viambishi katika «Kutaka»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Shule»"
+            "Radio Tanzania Dar es Salaam - RTD / TBC (Correct historic broadcast pillar)",
+            "Kituo cha reli ya SGR",
+            "Mamlaka ya mapato ya kodi",
+            "Bodi ya nafaka na mazao"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Radio Tanzania Dar es Salaam» (RTD) ndicho kituo cha kihistoria kilichosanifisha utangazaji wa Kiswahili."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kusikiliza\":",
+          "prompt": "Matangazo ya redio au televisheni yanayorushwa hewani papo hapo wakati tukio linapotokea bila kurekodiwa kwanza huitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Kutaka»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Shule»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kuona»"
+            "Matangazo ya moja kwa moja (Live broadcast - Correct broadcasting format)",
+            "Habari za zamani",
+            "Tahariri ya gazeti la jana",
+            "Kanda za kurekodiwa za miaka iliyopita"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Matangazo ya moja kwa moja» (live broadcast) ndiyo matangazo ya papo hapo yanayorushwa hewani."
         }
       ]
     },
@@ -11753,17 +11782,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kusikiliza\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya vituo vya utangazaji na maneno ya redio na televisheni katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Shule»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kuona»",
-            "Mpangilio usio sahihi wa viambishi katika «Kutaka»"
+            "BBC Swahili, DW Kiswahili, VOA, RTD / TBC; Mtangazaji, Studio ya matangazo, Kipaza sauti, Matangazo ya moja kwa moja, Mahojiano maalum.",
+            "Utangazaji wa redio unafanywa kwa njia ya kutuma barua za posta pekee.",
+            "BBC na DW hazijawahi kuwa na vipindi vya lugha ya Kiswahili.",
+            "Watangazaji wa televisheni hawaruhusiwi kuzungumza lugha yoyote."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Idhaa na maneno sahihi ya utangazaji: BBC, DW, VOA, RTD; Mtangazaji, Studio, Kipaza sauti, Matangazo ya moja kwa moja, Mahojiano."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u28-l4": {
@@ -11771,53 +11801,62 @@
     "subject": "swahili",
     "unit": 28,
     "lessonNumber": 4,
-    "title": "Uandishi wa Habari, Tahariri na Utangazaji (Journalism) (Part 4)",
+    "title": "Maadili ya Uanahabari, Upotoshaji na Vyombo vya Kidijitali (Media Ethics & Digital Press)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.4) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa maadili ya uanahabari, upotoshaji wa habari (misinformation na disinformation), kashfa na uchochezi, podikasti na vyombo vya habari vya mtandaoni, na kanuni za kurekebisha makosa (retractions).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Maadili ya Uanahabari na Changamoto za Vyombo vya Kidijitali (Media Ethics & Digital Information Age):\n\nKatika enzi ya utandawazi na mitandao ya kijamii, weledi na maadili ya uanahabari yamekuwa muhimu zaidi kuliko wakati wowote:\n\n1. **Msamiati Mahsusi wa Maadili ya Uanahabari**:\n   - **Maadili ya Uanahabari (Journalistic Ethics / Code of Conduct)**: Kanuni za kisheria na kimaadili zinazomwongoza mwandishi kutenda haki, kusema ukweli na kutopendelea.\n   - **Habari za uzushi / Upotoshaji wa makusudi (Disinformation / Fake News)**: Taarifa za uwongo zinazosambazwa kwa nia ovu ya kudanganya au kupotosha umma.\n   - **Upotoshaji usio wa makusudi (Misinformation)**: Usambazaji wa taarifa zisizo sahihi bila kujua.\n   - **Kashfa na Madai ya Kuchafuliwa Jina (Defamation / Libel / Slander)**: Taarifa inayoharibu sifa njema ya mtu au taasisi bila ushahidi.\n   - **Uchochezi (Incitement)**: Kauli au machapisho yanayochochea chuki, vurugu au uvunjifu wa amani.\n   - **Haki ya kujibu na Kukanusha (Right of Reply & Retraction)**: Fursa ya kisheria inayotolewa kurekebisha au kufuta taarifa iliyochapishwa kimakosa.\n\n2. **Vyombo vya Habari vya Kidijitali (Digital Media)**:\n   - **Podikasti (Podcasts)**, **Blogu za habari (News Blogs)**, **Maudhui ya kidijitali (Digital Content)**.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 28."
+          "target": "Maadili ya uanahabari yanamtaka mwanahabari kuripoti ukweli bila upendeleo, kutopokea rushwa, na kuheshimu usiri wa vyanzo vya habari.",
+          "reading": "Ma-a-di-li ya ua-na-ha-ba-ri ya-na-mta-ka mwa-na-ha-ba-ri ku-ri-po-ti u-kwe-li bi-la upe-nde-le-o, ku-to-po-ke-a ru-shwa, na ku-he-shi-mu u-si-ri wa vya-nzo vya ha-ba-ri. [mɑɑˈdili jɑ uɑnɑhɑˈbɑri jɑnɑˈmtɑkɑ mwɑnɑhɑˈbɑri kuriˈpɔti uˈkwɛli ˈbilɑ upɛndɛˈlɛɔ kutɔpɔˈkɛɑ ˈruʃwɑ nɑ kuhɛˈʃimu uˈsiri wɑ ˈvjɑnzɔ vjɑ hɑˈbɑri] (mah-ah-DEE-lee yah oo-ah-nah-hah-BAH-ree yah-nah-m-TAH-kah mwah-nah-hah-BAH-ree koo-ree-POH-tee oo-KWAY-lee BEE-lah oo-payn-day-LAY-oh, koo-toh-poh-KAY-ah ROO-shwah, nah koo-hay-SHEE-moo oo-SEE-ree wah VYAHN-zoh vyah hah-BAH-ree)",
+          "translation": "Journalistic codes of ethics command the reporter to transmit truth objectively without prejudice, decline bribery, and safeguard source confidentiality unconditionally."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 28-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kuenea kwa habari za uzushi na upotoshaji kwenye mitandao ya kijamii kunasisitiza umuhimu wa wananchi kuwa na stadi za kuchuja taarifa kwa uangalifu.",
+          "reading": "Kue-ne-a kwa ha-ba-ri za uzu-shi na upo-to-sha-ji kwe-nye mi-ta-nda-o ya ki-ja-mi-i ku-na-si-si-ti-za umu-hi-mu wa wa-na-nchi ku-wa na sta-di za ku-chu-ja ta-a-ri-fa kwa ua-nga-li-fu. [kuɛˈnɛɑ kwɑ hɑˈbɑri zɑ uˈzuʃi nɑ upɔtɔˈʃɑʤi ˈkwɛɲɛ mitɑˈndɑɔ jɑ kiʤɑˈmiː kunɑsisiˈtizɑ umuˈhimu wɑ wɑnɑˈɲtʃi ˈkuwɑ nɑ ˈstɑdi zɑ kuˈtʃuʤɑ tɑɑˈrifɑ kwɑ uɑŋɡɑˈlifu] (koo-ay-NAY-ah kwah hah-BAH-ree zah oo-ZOO-shee nah oo-poh-toh-SHAH-jee KWAY-nyay mee-tahn-DAH-oh yah kee-jah-MEE-ee koo-nah-see-see-TEE-zah oo-moo-HEE-moo wah wah-nahn-CHEE KOO-wah nah STAH-dee zah koo-CHOO-jah tah-ah-REE-fah kwah oo-ahn-gah-LEE-foo)",
+          "translation": "The uncontrolled proliferation of manufactured hoaxes and misinformation across social networking media underlines the imperative for civic informational literacy."
+        },
+        {
+          "target": "Vyombo vya habari vya kidijitali kama vile podikasti na tovuti za habari vimeleta mapinduzi makubwa katika usambazaji wa taarifa za haraka kwa umma.",
+          "reading": "Vyo-mbo vya ha-ba-ri vya ki-di-ji-ta-li ka-ma vi-le po-di-ka-sti na to-vu-ti za ha-ba-ri vi-me-le-ta ma-pi-ndu-zi ma-ku-bwa ka-ti-ka usa-mba-za-ji wa ta-a-ri-fa za ha-ra-ka kwa u-mma. [ˈvjɔmbɔ vjɑ hɑˈbɑri vjɑ kidiʤiˈtɑli ˈkɑmɑ ˈvilɛ pɔdiˈkɑsti nɑ tɔˈvuti zɑ hɑˈbɑri vimɛˈlɛtɑ mɑpinduˈzi mɑˈkubwɑ ˈkɑtikɑ usɑmbɑˈzɑʤi wɑ tɑɑˈrifɑ zɑ hɑˈrɑkɑ kwɑ ˈummɑ] (VYOHM-boh vyah hah-BAH-ree vyah kee-dee-jee-TAH-lee KAH-mah VEE-lay poh-dee-KAH-stee nah toh-VOO-tee zah hah-BAH-ree vee-may-LAY-tah mah-peen-DOO-zee mah-KOO-bwah KAH-tee-kah oo-sahm-bah-ZAH-jee wah tah-ah-REE-fah zah hah-RAH-kah kwah OOM-mah)",
+          "translation": "Digital platforms such as episodic podcasts and online journalistic portals have engendered a fundamental revolution in the instant transmission of public dispatches."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Maadili na Kidijitali: Maadili ya uanahabari (ethics), Habari za uzushi (fake news), Upotoshaji (misinformation), Podikasti (podcasts), Haki ya kukanusha (retraction)!"
+      ],
+      "culturalNotes": [
+        "Baraza la Habari Tanzania (MCT) na Media Council of Kenya (MCK) ndiyo vyombo vinavyosimamia maadili ya wanahabari na kulinda uhuru wa vyombo vya habari katika kanda hii."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kuona\":",
+          "prompt": "Habari za uwongo zinazotengenezwa na kusambazwa kwa makusudi ili kupotosha umma au kuchafua jina la mtu zinaitwaje kwa Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kutaka»",
-            "Mpangilio usio sahihi wa viambishi katika «Shule»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Chuo kikuu»"
+            "Habari za uzushi / Upotoshaji wa makusudi (Disinformation / Fake news - Correct ethical definition)",
+            "Tahariri ya kisayansi",
+            "Mkataba wa amani",
+            "Kanuni ya ngeli"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Habari za uzushi» au «upotoshaji wa makusudi» (disinformation) ndiyo taarifa za uwongo zinazokiuka maadili ya uanahabari."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kuona\":",
+          "prompt": "Fursa ya kisheria na kimaadili inayotolewa kwa mtu aliyetuhumiwa vibaya gazetini ili kutoa ufafanuzi au kusahihisha makosa inaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Shule»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Chuo kikuu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kutaka»"
+            "Haki ya kujibu na kukanusha (Right of reply / Retraction - Correct media law concept)",
+            "Ushuru wa forodha",
+            "Uchunguzi wa kichocho",
+            "Doria ya wanyamapori"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Haki ya kujibu» (right of reply) humwezesha mlengwa kurekebisha taarifa zilizoripotiwa kimakosa."
         }
       ]
     },
@@ -11825,17 +11864,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kuona\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya masuala ya maadili ya uanahabari na mifumo ya kidijitali katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Chuo kikuu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kutaka»",
-            "Mpangilio usio sahihi wa viambishi katika «Shule»"
+            "Maadili ya uanahabari, Habari za uzushi, Upotoshaji wa makusudi, Kashfa na uchochezi, Haki ya kujibu, Podikasti, Usiri wa vyanzo.",
+            "Maadili ya uanahabari yanamtaka mwandishi kupokea hongo na kuchapisha uzushi.",
+            "Mitandao ya kijamii ndiyo chanzo pekee kinachoruhusiwa kisheria kutoa taarifa za mahakama.",
+            "Wanahabari hawaruhusiwi kufanya uhakiki wa habari zao."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Msamiati sahihi wa maadili na habari za kidijitali: Maadili, Uzushi, Upotoshaji, Kashfa, Haki ya kujibu, Podikasti, Usiri wa vyanzo."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u28-l5": {
@@ -11843,53 +11883,62 @@
     "subject": "swahili",
     "unit": 28,
     "lessonNumber": 5,
-    "title": "Uandishi wa Habari, Tahariri na Utangazaji (Journalism) (Part 5)",
+    "title": "Muhtasari wa Uandishi wa Habari, Tahariri na Utangazaji (Journalism & Broadcasting Grand Synthesis)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 28: muundo wa piramidi pindu na vyanzo vya habari, uandishi wa tahariri na safu za maoni, historia ya utangazaji wa redio na TV (BBC, DW, RTD), pamoja na maadili ya uanahabari na vyombo vya kidijitali kwa lugha sanifu ya kitaalamu ya C1.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Uandishi wa Habari, Utangazaji na Vyombo vya Habari (Journalism & Media Master Matrix):\n\n1. **Ujumuishaji wa Nguzo Kuu za Uanahabari wa Kiwango cha C1**:\n   - **Uandishi wa Habari**: Muundo wa piramidi pindu, maswali sita ya aya ya kwanza (Nani, Nini, Wapi, Lini, Kwa nini, Vipi), vyanzo vya kuaminika, na kauli taarifa.\n   - **Uhariri na Maoni**: Tahariri za magazeti, msimamo wa jopo la uhariri, makala maalum za kiuchunguzi, na safu za maoni za wanasafu.\n   - **Utangazaji wa Redio na TV**: Idhaa maarufu za Kiswahili za BBC, DW, VOA na RTD/TBC; studio, vipaza sauti, na matangazo ya moja kwa moja.\n   - **Maadili na Kidijitali**: Kuzingatia ukweli na weledi, kupiga vita habari za uzushi, kulinda usiri wa vyanzo, na kutumia mifumo mipya ya podikasti na blogu.\n\n2. **Umahiri wa Kitaalamu**:\n   - Kumudu nyanja hizi kunamfanya mhitimu kuwa mwandishi wa habari mwenye weledi wa hali ya juu, mtangazaji mahiri, na mchambuzi wa masuala ya kijamii anayetambulika kimataifa.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 28."
+          "target": "Kuanzia muundo wa piramidi pindu kwenye magazeti na tahariri za kina, utangazaji wa hadhi ya juu wa BBC na RTD, hadi maadili thabiti ya kuzuia habari za uzushi kwenye mifumo ya kidijitali, lugha ya Kiswahili inasimama kama jukwaa kuu la uandishi wa habari barani Afrika.",
+          "reading": "Ku-a-nzia mu-u-ndo wa pi-ra-mi-di pi-ndu kwe-nye ma-ga-ze-ti na ta-ha-ri-ri za ki-na, uta-nga-za-ji wa ha-dhi ya ju-u wa BBC na RTD, ha-di ma-a-di-li tha-bi-ti ya ku-zu-ia ha-ba-ri za uzu-shi kwe-nye mi-fu-mo ya ki-di-ji-ta-li, lu-gha ya Ki-swa-hi-li ina-si-ma-ma ka-ma ju-kwa-a ku-u la ua-ndi-shi wa ha-ba-ri ba-ra-ni Afri-ka. [kuˈɑnziɑ muˈundɔ wɑ pirɑˈmidi ˈpindu ˈkwɛɲɛ mɑɡɑˈzɛti nɑ tɑhɑˈriri zɑ ˈkinɑ utɑŋɡɑˈzɑʤi wɑ ˈhɑði jɑ ˈʤuː wɑ bibiˈsi nɑ ɑrtiˈdi ˈhɑdi mɑɑˈdili θɑˈbiti jɑ kuˈzuiɑ hɑˈbɑri zɑ uˈzuʃi ˈkwɛɲɛ miˈfumɔ jɑ kidiʤiˈtɑli ˈluɣɑ jɑ kiswɑˈhili inɑsiˈmɑmɑ ˈkɑmɑ ʤuˈkwɑː ˈkuː lɑ uɑˈndiʃi wɑ hɑˈbɑri bɑˈrɑni ˈɑfrikɑ] (koo-AHN-zee-ah moo-OON-doh wah pee-rah-MEE-dee PEEN-doo KWAY-nyay mah-gah-ZAY-tee nah tah-hah-REE-ree zah KEE-nah, oo-tahn-gah-ZAH-jee wah HAH-thee yah JOO-oo wah bee-bee-SEE nah ahr-tee-DEE, HAH-dee mah-ah-DEE-lee thah-BEE-tee yah koo-ZOO-ee-ah hah-BAH-ree zah oo-ZOO-shee KWAY-nyay mee-FOO-moh yah kee-dee-jee-TAH-lee, LOO-gah yah kee-swah-HEE-lee ee-nah-see-MAH-mah KAH-mah joo-KWAH-ah KOO-oo lah oo-ahn-DEE-shee wah hah-BAH-ree bah-RAH-nee AHF-ree-kah)",
+          "translation": "From inverted pyramid architectures in print newspapers and rigorous editorials, apex international broadcasting on BBC and RTD, to immutable ethics mitigating digital disinformation, standard Swahili endures as Africa's paramount journalistic medium."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 28-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Umahiri wa kuandika ripoti za habari na kutangaza kwa Kiswahili sanifu unampa mwanahabari nafasi ya kipekee ya kutoa mchango mkubwa katika meza za uhariri na studio za kimataifa.",
+          "reading": "Uma-hi-ri wa kua-ndi-ka ri-po-ti za ha-ba-ri na ku-ta-nga-za kwa Ki-swa-hi-li sa-ni-fu una-mpa mwa-na-ha-ba-ri na-fa-si ya ki-pe-ke-e ya ku-to-a mcha-ngo mku-bwa ka-ti-ka me-za za uha-ri-ri na stu-dio za ki-ma-ta-i-fa. [umɑˈhiri wɑ kuɑˈndikɑ riˈpɔti zɑ hɑˈbɑri nɑ kutɑˈŋɡɑzɑ kwɑ kiswɑˈhili sɑˈnifu unɑˈmpɑ mwɑnɑhɑˈbɑri nɑˈfɑsi jɑ kipɛˈkɛː jɑ kuˈtɔɑ ˈmtʃɑŋɡɔ ˈmkubwɑ ˈkɑtikɑ ˈmɛzɑ zɑ uhɑˈriri nɑ ˈstudiɔ zɑ kimɑtɑˈifɑ] (oo-mah-HEE-ree wah koo-ahn-DEE-kah ree-POH-tee zah hah-BAH-ree nah koo-tahn-GAH-zah kwah kee-swah-HEE-lee sah-NEE-foo oo-nah-m-PAH mwah-nah-hah-BAH-ree nah-FAH-see yah kee-pay-KAY-ay yah koo-TOH-ah M-CHAHN-goh M-KOO-bwah KAH-tee-kah MAY-zah zah oo-hah-REE-ree nah STOO-dee-oh zah kee-mah-tah-EE-fah)",
+          "translation": "Mastery in drafting journalistic dispatches and anchoring broadcasts in standard Swahili affords a communicator unique opportunities to make monumental impacts across newsrooms and global studios."
+        },
+        {
+          "target": "Vyombo vya habari vinavyozingatia ukweli, weledi na uwajibikaji vinabaki kuwa mhimili wa nne wa demokrasia na sauti ya kuaminika ya jamii nzima.",
+          "reading": "Vyo-mbo vya ha-ba-ri vi-na-vyo-zi-nga-tia u-kwe-li, we-le-di na uwa-ji-bi-ka-ji vi-na-ba-ki ku-wa mhi-mi-li wa nne wa de-mo-kra-sia na sa-u-ti ya ku-a-mi-ni-ka ya ja-mi-i nzi-ma. [ˈvjɔmbɔ vjɑ hɑˈbɑri vinɑvjɔziŋɡɑˈtiɑ uˈkwɛli wɛˈlɛdi nɑ uwɑʤibiˈkɑʤi vinɑˈbɑki ˈkuwɑ mhiˈmili wɑ ˈnnɛ wɑ dɛmɔkrɑˈsiɑ nɑ sɑˈuti jɑ kuɑmiˈnikɑ jɑ ʤɑˈmiː ˈnzimɑ] (VYOHM-boh vyah hah-BAH-ree vee-nah-vyoh-zeen-gah-TEE-ah oo-KWAY-lee, way-LAY-dee nah oo-wah-jee-bee-KAH-jee vee-nah-BAH-kee KOO-wah m-hee-MEE-lee wah N-NAY wah day-moh-krah-SEE-ah nah sah-OO-tee yah koo-ah-mee-NEE-kah yah jah-MEE-ee N-ZEE-mah)",
+          "translation": "Press organizations observing factual fidelity, professional rigor, and accountability remain the fourth pillar of democratic governance and the trusted voice of society."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Uanahabari Grand Synthesis: Piramidi pindu & Vyanzo; Tahariri & Safu za maoni; Utangazaji wa BBC & RTD; Maadili & Vyombo vya kidijitali!"
+      ],
+      "culturalNotes": [
+        "Kiswahili kinashika nafasi ya kwanza barani Afrika kwa kuwa na vituo vingi zaidi vya redio, televisheni, magazeti na majukwaa ya kidijitali yanayotangaza kwa lugha moja ya asili ya Kiafrika."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kutaka\":",
+          "prompt": "Mchanganyiko upi unawakilisha nguzo kuu za uandishi wa habari, uhariri na utangazaji wa kitaalamu katika lugha ya Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Shule»",
-            "Mpangilio usio sahihi wa viambishi katika «Chuo kikuu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mwalimu»"
+            "Muundo wa piramidi pindu, tahariri na safu za maoni, utangazaji wa kitaifa na kimataifa (RTD/BBC), na uzingatiaji wa maadili dhidi ya habari za uzushi (Comprehensive journalism pillars)",
+            "Kusambaza habari za uwongo bila kuthibitisha vyanzo",
+            "Kufunga vyombo vyote vya habari na kuzuia wanahabari kuripoti",
+            "Kutumia lugha isiyo na staha wala maadili"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Uanahabari wa weledi unajumuisha piramidi pindu, tahariri, utangazaji thabiti, na maadili dhidi ya upotoshaji."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kutaka\":",
+          "prompt": "Sentensi ipi inachanganya msamiati wa uandishi wa habari, utangazaji na maadili kwa ufasaha wa kiwango cha C1?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Chuo kikuu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mwalimu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Shule»"
+            "Kupitia muundo wa piramidi pindu na mahojiano ya moja kwa moja studio, wanahabari wanaripoti matukio kwa kuzingatia weledi na maadili ya ukweli. (Through the inverted pyramid format and live studio interviews, journalists report events adhering to professional ethics and truth - Correct C1 media synthesis)",
+            "Wanahabari wanakatazwa kuingia studio wala kutumia vipaza sauti.",
+            "Tahariri za magazeti hazina uhusiano na jamii inayoisoma.",
+            "Matangazo ya redio hayahitaji lugha sanifu wala matamshi fasaha."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Sentensi inatumia maneno mahsusi ya C1: «muundo wa piramidi pindu», «mahojiano ya moja kwa moja studio», «wanahabari», «weledi», na «maadili ya ukweli»."
         }
       ]
     },
@@ -11897,17 +11946,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kutaka\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 28 ya Uandishi wa Habari, Tahariri na Utangazaji:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mwalimu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Shule»",
-            "Mpangilio usio sahihi wa viambishi katika «Chuo kikuu»"
+            "Kuanzia uandishi wa habari kwa muundo wa piramidi pindu, tahariri za kina na safu za maoni, utangazaji wa kimataifa wa BBC na DW, hadi kulinda maadili dhidi ya habari za uzushi kwenye mifumo ya kidijitali, lugha ya Kiswahili inathibitisha hadhi yake kuu kama lugha ya kimataifa ya habari na utangazaji. (Apex C1 synthesis of news structuring, editorials, international broadcasting, and media ethics.)",
+            "Uandishi wa habari hauhitaji muundo wowote wala vyanzo vya kuaminika.",
+            "Idhaa za kimataifa zilikoma kutangaza kwa Kiswahili miaka hamsini iliyopita.",
+            "Lugha ya Kiswahili haina maneno ya kutosha kuelezea teknolojia ya studio na utangazaji wa kisasa."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kuanzia uandishi wa habari kwa muundo wa piramidi pindu, tahariri za kina na safu za maoni, utangazaji wa kimataifa wa BBC na DW, hadi kulinda maadili dhidi ya habari za uzushi kwenye mifumo ya kidijitali, lugha ya Kiswahili inathibitisha hadhi yake kuu kama lugha ya kimataifa ya habari na utangazaji.» inajumuisha maarifa yote ya Unit 28 kwa ufasaha wa hali ya juu wa C1."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u29-l1": {
