@@ -3996,85 +3996,89 @@
     "subject": "mandarin",
     "unit": 7,
     "lessonNumber": 1,
-    "title": "动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO) (第1讲)",
+    "title": "动态助词「了₁」（动态了）表示动作的实现与完成 (Aspect Particle '了₁' - Perfective Completion)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：动态助词「了」（动作完成与实现）与「过」（经历体）的句法语义区别。 (第1部分)。",
+    "objective": "系统掌握动词后动态助词「了₁」表示动作实现与完成的句法结构（动词+了+数量宾语/连动承接式），掌握使用「没/没有」否定时「了」必须脱落的语法铁律。",
     "presentation": {
-      "explanation": "",
+      "explanation": "动态助词「了₁」（又称「动词了」或「动态了」）直接紧附于谓语动词之后（动词 + 了₁），其核心语法功能是标记动作在特定的参照时间点上已经实现、发生或完成（实现体/完成体）。\n\n一、动态助词「了₁」的核心句法结构：\n1.「主语 + 动词 + 了₁ + 数量短语/特定修饰语 + 宾语」：\n- 昨天我在书店买了一本汉语大词典。\n- 刚才李老师喝了两杯热绿茶。\n- 妈妈在厨房做了一桌丰盛可口的中国菜。\n\n2. 连动承接结构「动词₁ + 了₁......，就 + 动词₂......」：\n表示第一项动作一旦实现完成，紧接着开展第二项动作：\n- 我们下了课就去学校食堂吃午饭。\n- 爸爸吃了晚饭就去公园散步锻炼身体。\n\n二、动态助词「了₁」的否定铁律（极重要避坑考点）：\n1. 否定动作的发生与完成必须使用否定副词「没」或「没有」。\n2. 核心禁忌法则：在否定句中，动词后面的动态助词「了₁」必须彻底脱落，绝对不能保留！\n- 规范正确：他今天早晨没吃早饭。\n- 严重病句：*他今天早晨没吃了早饭*（误加了字） / *他不吃早饭了*（语意演变为改变习惯）。\n\n三、「了₁」与时间态度的深刻认知：\n- 汉语属于无形态时态变化的意合语言，「了₁」是体态标记而非过去时。只要动作在某一时间点实现完成，无论过去还是将来皆可使用「了₁」：\n- 明天你到了北京，就给我发个短信。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的核心语法法则与应用范例 (7.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)' in simple terms to students at the academic seminar."
+          "target": "昨天下午我和同学在图书馆借了三本关于中国历史的书。(Zuótiān xiàwǔ wǒ hé tóngxué zài túshūguǎn jiè le sān běn guānyú Zhōngguó lìshǐ de shū.)",
+          "reading": "[t͡swɔ˧˥.tʰjɛn˥ ɕja˥˩.u˨˩˦ wɔ˨˩ xɤ˧˥ tʰʊŋ˧˥.ɕɥɛ˧˥ t͡saɪ̯˥˩ tʰu˧˥.ʂu˥.kwan˨˩˦ t͡ɕjɛ˥˩ lɤ san˥ pən˨˩˦ kwan˥.y˧˥ ʈ͡ʂʊŋ˥.kwɔ˧˥ li˥˩.ʂɨ˨˩˦ tɤ ʂu˥] (Zuó-tiān xià-wǔ wǒ hé tóng-xué zài tú-shū-guǎn jiè le sān běn guān-yú Zhōng-guó lì-shǐ de shū.)",
+          "translation": "Yesterday afternoon my classmate and I borrowed three books on Chinese history in the library."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (7.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "李老师喝了一杯热咖啡，然后开始认真备课。(Lǐ lǎoshī hē le yì bēi rè kāfēi, ránhòu kāishǐ rènzhēn bèikè.)",
+          "reading": "[li˨˩˦ laʊ˨˩.ʂɨ˥ xɤ˥ lɤ i˥ peɪ̯˥ ʐɤ˥˩ kʰa˥.feɪ̯˥, ʐan˧˥.xoʊ̯˥˩ kʰaɪ̯˥.ʂɨ˨˩˦ ʐən˥˩.ʈ͡ʂən˥ peɪ̯˥˩.kʰɤ˥˩] (Lǐ lǎo-shī hē le yì bēi rè kā-fēi, rán-hòu kāi-shǐ rèn-zhēn bèi-kè.)",
+          "translation": "Teacher Li drank a cup of hot coffee and then started preparing lessons earnestly."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (7.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "——你买今天的电影票了吗？——我今天太忙，还没买呢。(—Nǐ mǎi jīntiān de diànyǐngpiào le ma? —Wǒ jīntiān tài máng, hái méi mǎi ne.)",
+          "reading": "[—ni˨˩˦ maɪ̯˨˩˦ t͡ɕin˥.tʰjɛn˥ tɤ tjɛn˥˩.iŋ˨˩.pʰjaʊ̯˥˩ lɤ ma? —wɔ˨˩ t͡ɕin˥.tʰjɛn˥ tʰaɪ̯˥˩ mɑŋ˧˥, xaɪ̯˧˥ meɪ̯˧˥ maɪ̯˨˩˦ nɤ] (—Nǐ mǎi jīn-tiān de diàn-yǐng-piào le ma? —Wǒ jīn-tiān tài máng, hái méi mǎi ne.)",
+          "translation": "—Did you buy today's movie tickets? —I was too busy today and haven't bought them yet."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (7.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我们明天下了课就一起去学校体育馆打羽毛球吧。(Wǒmen míngtiān xià le kè jiù yìqǐ qù xuéxiào tǐyùguǎn dǎ yǔmáoqiú ba.)",
+          "reading": "[wɔ˨˩.mən miŋ˧˥.tʰjɛn˥ ɕja˥˩ lɤ kʰɤ˥˩ t͡ɕjoʊ̯˥˩ i˥˩.t͡ɕʰi˨˩˦ t͡ɕʰy˥˩ ɕɥɛ˧˥.ɕjaʊ̯˥˩ tʰi˨˩.y˥˩.kwan˨˩˦ ta˨˩˦ y˨˩.maʊ̯˧˥.t͡ɕʰjoʊ̯˧˥ pa] (Wǒ-men míng-tiān xià le kè jiù yì-qǐ qù xué-xiào tǐ-yù-guǎn dǎ yǔ-máo-qiú ba.)",
+          "translation": "Let's go play badminton together at the school gymnasium as soon as class finishes tomorrow."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "动后加了表完成（买了一本书），承接下了课就走；否定没买脱落了，切莫没吃了出丑！"
+      ],
+      "culturalNotes": [
+        "许多以印欧语为母语的汉语学习者常将「了」等同于过去时（Past Tense），造成在没有发生动作完成（如表示经常性习惯、状态持续或心理活动）时滥用「了」。理解汉语「体（Aspect）优先于时（Tense）」的本质，是突破中阶汉语语法的关键飞跃。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」（第1讲）的标准汉语规范？",
+          "prompt": "要表达「他昨天没有买这本汉语词典」，正确的否定句式是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的核心语法法则与应用范例 (7.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (7.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (7.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (7.1.w3)"
+            "他昨天没买这本汉语词典。(否定句中助词「了」必须彻底脱落)",
+            "他昨天没买了这本汉语词典。(否定句保留了属于严重病句)",
+            "他昨天不买这本汉语词典了。",
+            "他昨天不买了这本汉语词典。"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "否定过去动作的发生必须用「没/没有」，动词后面的动态助词「了」必须彻底脱落。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在句子「我们明天下______课就去操场散步」中，表示第一项动作完成后立即进行下一动作的助词是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "了 (下课就去：动词1 + 了 + 宾语 + 就 + 动词2)",
+            "过",
+            "着",
+            "在"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「动词1 + 了 + 宾语 + 就 + 动词2」是表示两项动作紧密承接的经典格式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的正式语境下，最准确得体的表达是哪一项？（第7.1题）",
+          "prompt": "下列哪一个句子由于在否定句中错误保留了动态助词「了」而构成了病句？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (7.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (7.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (7.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (7.1.x3)"
+            "他今天早晨没有吃了早饭。(病句：否定副词「没有」与「了」冲突)",
+            "他今天早晨没有吃早饭。",
+            "他今天早晨吃了一碗热面条。",
+            "他吃了早饭就去上课了。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「没有吃了早饭」属于典型的初学者病句，动词后绝不能加「了」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u7-l1）所要求的高阶语言表达？",
+          "prompt": "在句子「张教授写了一部优秀的语言学专著」中，「了」的语法性质是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (7.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (7.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (7.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (7.1.y3)"
+            "紧附于动词后的动态助词（表示动作完成实现）",
+            "句末语气助词",
+            "形容词",
+            "副词"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「写了一部专著」中「了」紧跟动词「写」，修饰数量宾语，属于标准动态助词「了₁」。"
         }
       ]
     },
@@ -4082,25 +4086,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的掌握程度，请选出表述完全正确的标准范句（测试 7-1）：",
+          "prompt": "请选出下列句子中动态助词「了₁」运用完全正确无误的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (7.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (7.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (7.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (7.1.z3)"
+            "昨天王华在书店买了两本新书，回宿舍后认真读了一本。(两项动作均已实现完成且带数量词)",
+            "昨天王华在书店没买了两本新书。(否定句误用「了」)",
+            "昨天王华在书店买新书两本了在下午。(语序混乱)",
+            "王华每天在书店买了两本书。(经常性动作不可滥用「了」)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「买了两本新书」、「读了一本」动作实现且带数量宾语，句法语义完全严谨。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u7-l1）的核心关键词（例如「动态助词」）：",
+          "prompt": "请输入表示动作完成实现的动态助词核心单字汉字（拼音为 le）：",
           "acceptedAnswers": [
-            "动态助词",
-            "动态助词「了",
-            "动态助词「了」「过」与过去经验"
+            "了"
           ],
-          "explanation": "正确的核心关键词为「动态助词」。"
+          "explanation": "汉字「了」在现代汉语中充当核心动态助词与语气助词。"
         }
       ],
       "passThreshold": 0.8
@@ -4111,85 +4113,89 @@
     "subject": "mandarin",
     "unit": 7,
     "lessonNumber": 2,
-    "title": "动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO) (第2讲)",
+    "title": "句末语气助词「了₂」（句末了）表示新情况发生与事态变化 (Modal Particle '了₂' - Change of State)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：动态助词「了」（动作完成与实现）与「过」（经历体）的句法语义区别。 (第2部分)。",
+    "objective": "熟练掌握句末语气助词「了₂」表示事态变化（从无到有/新情况/新认知）与「快要......了」行将发生句式的语法功能，杜绝与动词「了₁」混淆。",
     "presentation": {
-      "explanation": "",
+      "explanation": "句末语气助词「了₂」（又称「句末了」或「事态变化了」）位于全句的最末尾，其核心语法功能是向听话人传递事态出现了新变化、进入了新阶段或产生了新认知（事态更新与成态体）：\n\n一、句末「了₂」的三大核心应用情境：\n1. 客观状态与自然环境发生转变（从无到有、从旧到新）：\n- 下雨了！ —— 之前未曾下雨，当前开始出现降雨新状况。\n- 天气变冷了，大家多穿点儿保暖衣服。\n- 春天来到了，校园里的树叶都变绿了。\n\n2. 年龄、时间、数量达到新阶段：\n- 我妹妹今年已经满二十岁了。\n- 此时此刻已经十点半了，我们该回家休息了。\n\n3. 行为习惯发生转向（「不......了」表示停止原有行为或打消原先打算）：\n- 我不喝浓咖啡了，我想喝点儿温开水。\n- 别买了，我不需要这件衣服了！\n\n二、表示动作行将发生的固定格式（即将发生体）：\n-「快要 / 就要 / 要......了」：\n- 国际航班客机快要起飞了，请乘客系好安全带！\n- 喜庆的中国传统农历新年就要到了！\n\n三、「太......了」极度赞叹感叹句式：\n- 这座现代化国际大都市的夜景太美丽了！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的核心语法法则与应用范例 (7.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)' in simple terms to students at the academic seminar."
+          "target": "外面下雪了，地面变得非常滑，出门走路要格外小心。(Wàimiàn xiàxuě le, dìmiàn biàn de fēicháng huá, chūmén zǒulù yào géwài xiǎoxīn.)",
+          "reading": "[waɪ̯˥˩.mjɛn˥˩ ɕja˥˩.ɕɥɛ˨˩˦ lɤ, ti˥˩.mjɛn˥˩ pjɛn˥˩ tɤ feɪ̯˥.ʈ͡ʂʰɑŋ˧˥ xwa˧˥, t͡ʂʰu˥.mən˧˥ t͡soʊ̯˨˩.lu˥˩ jaʊ̯˥˩ kɤ˧˥.waɪ̯˥˩ ɕjaʊ̯˨˩.ɕin˥] (Wài-miàn xià-xuě le, dì-miàn biàn de fēi-cháng huá, chū-mén zǒu-lù yào gé-wài xiǎo-xīn.)",
+          "translation": "It has started snowing outside; the ground has become very slippery, so be extraordinarily careful when walking outside."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (7.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "电影马上就要开始了，我们快进电影院吧！(Diànyǐng mǎshàng jiù yào kāishǐ le, wǒmen kuài jìn diànyǐngyuàn ba!)",
+          "reading": "[tjɛn˥˩.iŋ˨˩˦ ma˨˩.ʂɑŋ˥˩ t͡ɕjoʊ̯˥˩ jaʊ̯˥˩ kʰaɪ̯˥.ʂɨ˨˩˦ lɤ, wɔ˨˩.mən kʰwaɪ̯˥˩ t͡ɕin˥˩ tjɛn˥˩.iŋ˨˩.ɥɛn˥˩ pa] (Diàn-yǐng mǎ-shàng jiù yào kāi-shǐ le, wǒ-men kuài jìn diàn-yǐng-yuàn ba!)",
+          "translation": "The movie is about to start immediately; let's hurry into the cinema!"
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (7.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "——你还喝咖啡吗？——我不喝了，时间太晚了，喝了容易睡不着觉。(—Nǐ hái hē kāfēi ma? —Wǒ bù hē le, shíjiān tài wǎn le, hē le róngyì shuìbuzháo jiào.)",
+          "reading": "[—ni˨˩˦ xaɪ̯˧˥ xɤ˥ kʰa˥.feɪ̯˥ ma? —wɔ˨˩ pu˥ xɤ˥ lɤ, ʂɨ˧˥.t͡ɕjɛn˥ tʰaɪ̯˥˩ wan˨˩˦ lɤ, xɤ˥ lɤ ʐʊŋ˧˥.i˥˩ ʂweɪ̯˥˩.pu.ʈ͡ʂaʊ̯˧˥ t͡ɕjaʊ̯˥˩] (—Nǐ hái hē kā-fēi ma? —Wǒ bù hē le, shí-jiān tài wǎn le, hē le róng-yì shuì-bu-zháo jiào.)",
+          "translation": "—Are you still drinking coffee? —I won't drink anymore; it is too late, and drinking it makes it easy to suffer from insomnia."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (7.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我们班的外国留学生现在都会用筷子吃中餐了。(Wǒmen bān de wàiguó liúxuéshēng xiànzài dōu huì yòng kuàizi chī Zhōngcān le.)",
+          "reading": "[wɔ˨˩.mən pan˥ tɤ waɪ̯˥˩.kwɔ˧˥ ljoʊ̯˧˥.ɕɥɛ˧˥.ʂəŋ ɕjɛn˥˩.t͡saɪ̯˥˩ toʊ̯˥ xweɪ̯˥˩ jʊŋ˥˩ kʰwaɪ̯˥˩.t͡sɨ t͡ʂʰɨ˥ ʈ͡ʂʊŋ˥.t͡sʰan˥ lɤ] (Wǒ-men bān de wài-guó liú-xué-shēng xiàn-zài dōu huì yòng kuài-zi chī Zhōng-cān le.)",
+          "translation": "The international students in our class can all use chopsticks to eat Chinese food now."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "句尾了字表变化（下雨下雪了），快要起飞就要到；不喝不买改主意，太美太贵叹声高！"
+      ],
+      "culturalNotes": [
+        "在汉语交际中，句末「了₂」是传达信息更新（Information Update）的重要标记。当向他人通报最新突发动态（如「老师来了！」、「开饭了！」）时，句末的「了」能瞬间唤起听话人的注意与行动反应。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」（第2讲）的标准汉语规范？",
+          "prompt": "在句子「下雨了！」中，句末语气助词「了」表达的核心语法意义是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的核心语法法则与应用范例 (7.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (7.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (7.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (7.2.w3)"
+            "事态发生新变化（从不下雨转变为开始下雨）",
+            "下雨已经彻底结束",
+            "从来没有下过雨",
+            "询问天气情况"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "句末「了」在此处作为语气助词表示新情况的出现。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "表达「火车行将出发/马上就要开走」，正确的固定句式是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "火车快要开了！(快要......了表示动作即将发生)",
+            "火车快要开过！",
+            "火车快要在开着！",
+            "火车开了快要！"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「快要......了」是现代汉语中表达动作即将发生的最标准句式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的正式语境下，最准确得体的表达是哪一项？（第7.2题）",
+          "prompt": "句子「我不吃肉了」所传达的真实含义是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (7.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (7.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (7.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (7.2.x3)"
+            "改变了原来的饮食习惯，现在不再吃肉了（产生状态转变）",
+            "以前不吃肉，现在开始吃肉了",
+            "从来没有吃过肉",
+            "正在吃肉"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「不 + 动词 + 了」表示放弃原有行为，产生状态转变。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u7-l2）所要求的高阶语言表达？",
+          "prompt": "在感叹句「这里的风景太美了！」中，与副词「太」前后呼应的句末助词是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (7.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (7.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (7.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (7.2.y3)"
+            "了 (「太......了」构成感叹格式)",
+            "过",
+            "着",
+            "的"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「太......了」是现代汉语中表达强烈赞叹的固定结构。"
         }
       ]
     },
@@ -4197,25 +4203,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的掌握程度，请选出表述完全正确的标准范句（测试 7-2）：",
+          "prompt": "请选出下列句子中句末语气助词「了₂」运用完全规范得体的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (7.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (7.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (7.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (7.2.z3)"
+            "天气渐渐变暖和了，春天快要到了，公园里的花儿都开了。(状态更新与即将发生体完美融合)",
+            "天气渐渐变暖和过，春天快要到着。(助词误用)",
+            "天气变暖和了渐渐，快要到了春天。(语序颠倒)",
+            "春天快要在到了，花儿开了都。(结构错乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「变暖和了」（变化）、「快要到了」（即将态）、「花儿都开了」（新状态），句末「了」运用典雅精准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u7-l2）的核心关键词（例如「动态助词」）：",
+          "prompt": "请输入结构「快要......了」中表示时间临近的核心单字副词汉字（拼音为 kuài）：",
           "acceptedAnswers": [
-            "动态助词",
-            "动态助词「了",
-            "动态助词「了」「过」与过去经验"
+            "快"
           ],
-          "explanation": "正确的核心关键词为「动态助词」。"
+          "explanation": "汉字「快」在「快要......了」中充当表示即将发生的时间副词。"
         }
       ],
       "passThreshold": 0.8
@@ -4226,85 +4230,89 @@
     "subject": "mandarin",
     "unit": 7,
     "lessonNumber": 3,
-    "title": "动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO) (第3讲)",
+    "title": "双「了」句式（动词了₁ + 句末了₂）表示动作持续至今 (Double LE Structure - Ongoing Duration)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：动态助词「了」（动作完成与实现）与「过」（经历体）的句法语义区别。 (第3部分)。",
+    "objective": "系统掌握双「了」句式（主语+动词+了₁+时量补语+宾语+了₂）的形态结构与语义机制，精准辨析单「了」句（动作已终结）与双「了」句（动作持续至今未停）的本质区别。",
     "presentation": {
-      "explanation": "",
+      "explanation": "当一个句子中同时出现动词后面的动态助词「了₁」与句末的语气助词「了₂」时，构成了现代汉语表达时量累积与持续进行的「双了句式」：\n\n一、双「了」句式的标准形态结构模型：\n- 主语 + 谓语动词 + 了₁ + [时量补语 / 数量补语] + (宾语) + 了₂\n\n二、双「了」句与单「了」句的深刻语义对立：\n1. 双「了」句（动作持续至今，当前仍在进行中）：\n- 我学了一年汉语了。\n- 语义剖析：动词后的「了₁」标记已经完成了一年的学习量；句末的「了₂」标记事态发展至当前阶段，明确传达说话时本人仍在继续学习汉语，动作尚未终结中断。\n- 他在中国上海居住了五年了（至今依然在上海居住）。\n\n2. 单「了」句（动作仅表示过去发生或已经终结）：\n- 我学了一年汉语。\n- 语义剖析：仅陈述过去曾有过一年的学习时量，目前极可能已经停止、中断或不再学习汉语。\n- 他在中国上海居住了五年（如今已经离开上海）。\n\n三、高频时量提问与应答句型：\n- 问：你在北京大学学习深造多长时间了？\n- 答：我在北京大学学习深造了整整两年了。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的核心语法法则与应用范例 (7.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)' in simple terms to students at the academic seminar."
+          "target": "张教授在这所著名大学从事中国哲学教学工作整整三十年了。(Zhāng jiàoshòu zài zhè suǒ zhùmíng dàxué cóngshì Zhōngguó zhéxué jiàoxué gōngzuò zhěngzhěng sānshí nián le.)",
+          "reading": "[ʈ͡ʂɑŋ˥ t͡ɕjaʊ̯˥˩.ʂoʊ̯˥˩ t͡saɪ̯˥˩ ʈ͡ʂɤ˥˩ swɔ˨˩˦ ʈ͡ʂu˥˩.miŋ˧˥ ta˥˩.ɕɥɛ˧˥ t͡sʰʊŋ˧˥.ʂɨ˥˩ ʈ͡ʂʊŋ˥.kwɔ˧˥ ʈ͡ʂɤ˧˥.ɕɥɛ˧˥ t͡ɕjaʊ̯˥˩.ɕɥɛ˧˥ kʊŋ˥.t͡swɔ˥˩ ʈ͡ʂɤŋ˨˩.ʈ͡ʂɤŋ˨˩˦ san˥.ʂɨ˧˥ njɛn˧˥ lɤ] (Zhāng jiào-shòu zài zhè suǒ zhù-míng dà-xué cóng-shì Zhōng-guó zhé-xué jiào-xué gōng-zuò zhěng-zhěng sān-shí nián le.)",
+          "translation": "Professor Zhang has been engaged in Chinese philosophy teaching at this famous university for a full 30 years (and is still teaching)."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (7.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "我们已经在自习室认真复习了三个小时了，去操场休息休息吧。(Wǒmen yǐjīng zài zìxíshì rènzhēn fùxí le sān gè xiǎoshí le, qù cāochǎng xiūxi xiūxi ba.)",
+          "reading": "[wɔ˨˩.mən i˨˩.t͡ɕiŋ˥ t͡saɪ̯˥˩ t͡sɨ˥˩.ɕi˧˥.ʂɨ˥˩ ʐən˥˩.ʈ͡ʂən˥ fu˥˩.ɕi˧˥ lɤ san˥ kɤ ɕjaʊ̯˨˩.ʂɨ˨˩˦ lɤ, t͡ɕʰy˥˩ t͡sʰaʊ̯˥.ʈ͡ʂʰɑŋ˨˩˦ ɕjoʊ̯˥.ɕi ɕjoʊ̯˥.ɕi pa] (Wǒ-men yǐ-jīng zài zì-xí-shì rèn-zhēn fù-xí le sān gè xiǎo-shí le, qù cāo-chǎng xiū-xi xiū-xi ba.)",
+          "translation": "We have already reviewed earnestly in the study room for three hours (and are still in the session); let's go relax on the sports ground."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (7.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "——雨下得很大吗？——这场大雨已经下了一整天了，还没有停呢。(—Yǔ xià de hěn dà ma? —Zhè cháng dàyǔ yǐjīng xià le yì zhěng tiān le, hái méiyǒu tíng ne.)",
+          "reading": "[—y˨˩˦ ɕja˥˩ tɤ xən˨˩ ta˥˩ ma? —ʈ͡ʂɤ˥˩ ʈ͡ʂʰɑŋ˧˥ ta˥˩.y˨˩˦ i˨˩.t͡ɕiŋ˥ ɕja˥˩ lɤ i˥ ʈ͡ʂɤŋ˨˩˦ tʰjɛn˥ lɤ, xaɪ̯˧˥ meɪ̯˧˥.joʊ̯ tʰiŋ˧˥ nɤ] (—Yǔ xià de hěn dà ma? —Zhè cháng dà-yǔ yǐ-jīng xià le yì zhěng tiān le, hái méi-yǒu tíng ne.)",
+          "translation": "—Is it raining heavily? —This heavy rain has been falling for an entire day (and is still raining); it hasn't stopped yet."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (7.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "他喝了三杯茶了，还想再喝一杯。(Tā hē le sān bēi chá le, hái xiǎng zài hē yì bēi.)",
+          "reading": "[tʰa˥ xɤ˥ lɤ san˥ peɪ̯˥ ʈ͡ʂʰa˧˥ lɤ, xaɪ̯˧˥ ɕjɑŋ˨˩˦ t͡saɪ̯˥˩ xɤ˥ i˥ peɪ̯˥] (Tā hē le sān bēi chá le, hái xiǎng zài hē yì bēi.)",
+          "translation": "He has already drunk three cups of tea (up to now), and still wants to drink another cup."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "动后有了尾加了，双了持续至今朝；学了一年汉语了，动作未停继续跑！"
+      ],
+      "culturalNotes": [
+        "双「了」句式是汉语高度凝练表达「时间跨度累积且仍处于进行中」的句法智慧。在叙述跨国求学、工作履历或持续性研究时，双「了」句能准确传递说话人当前依然投身于该项事业的积极状态。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」（第3讲）的标准汉语规范？",
+          "prompt": "句子「他在中国工作了五年了」向听话人传递的最核心信息是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的核心语法法则与应用范例 (7.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (7.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (7.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (7.3.w3)"
+            "他已经在中国工作了五年，并且目前依然在中国工作 (双「了」表示持续至今)",
+            "他在中国工作了五年，现在已经离开中国回国了",
+            "他从来没有在中国工作过",
+            "他正打算去中国工作五年"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "双「了」句（工作了五年了）严格表示动作从过去开始，持续了五年且至今仍在继续。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "对比单双了：表示「过去曾学过半年汉语，但现在已经不学了」的句子是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "我学了半年汉语。(单「了」表示过去完成，现已停止)",
+            "我学了半年汉语了。(双「了」表示至今仍在学)",
+            "我学过半年汉语了。",
+            "我正在学了半年汉语。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "单「了」句「我学了半年汉语」句末没有「了」，表示过去动作的完成，现已不再持续。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的正式语境下，最准确得体的表达是哪一项？（第7.3题）",
+          "prompt": "要询问对方「你学习汉语多长时间了？」，最标准的回应双「了」句是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (7.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (7.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (7.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (7.3.x3)"
+            "我学习了一年半了。(动词 + 了 + 时量 + 了 表达动作持续至今)",
+            "我学习一年半过。",
+            "我正在学习一年半了。",
+            "我学习了一年半着。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「动词 + 了 + 时量 + 了」是回答持续时间询问的最标准句式。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u7-l3）所要求的高阶语言表达？",
+          "prompt": "在句子「外面这场大雨已经下了一整天了」中，句末「了」的作用是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (7.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (7.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (7.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (7.3.y3)"
+            "与动词后的「了」配合，表明下雨动作持续至今尚未停歇",
+            "表示下雨已经完全停止",
+            "表示否定",
+            "表示疑问"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "句末「了」与动词后「了」构成双「了」格局，表达下雨持续整天且仍在下。"
         }
       ]
     },
@@ -4312,25 +4320,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的掌握程度，请选出表述完全正确的标准范句（测试 7-3）：",
+          "prompt": "请选出下列句子中表达「持续性动作至今仍在继续进行」且语法完全正确的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (7.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (7.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (7.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (7.3.z3)"
+            "王华在北京大学读了三年研究生了，明年即将毕业。(双「了」结构准确表达学业持续未止)",
+            "王华在北京大学读三年研究生过明年。(语法混乱)",
+            "王华在北京大学读了三年研究生着。(助词混用)",
+            "王华读了三年研究生在北京大学了。(语序错位)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「读了三年研究生了」精准呈现双「了」持续结构，后续「明年即将毕业」语义严密吻合。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u7-l3）的核心关键词（例如「动态助词」）：",
+          "prompt": "请输入双「了」句中置于时量短语后、位于全句最末尾的单字语气助词汉字（拼音为 le）：",
           "acceptedAnswers": [
-            "动态助词",
-            "动态助词「了",
-            "动态助词「了」「过」与过去经验"
+            "了"
           ],
-          "explanation": "正确的核心关键词为「动态助词」。"
+          "explanation": "句末汉字「了」与动词后「了」共同构筑双「了」持续态。"
         }
       ],
       "passThreshold": 0.8
@@ -4341,85 +4347,89 @@
     "subject": "mandarin",
     "unit": 7,
     "lessonNumber": 4,
-    "title": "动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO) (第4讲)",
+    "title": "动态助词「过」表示过往经历体与「没......过」否定式 (Aspect Particle '过' - Experiential Aspect)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：动态助词「了」（动作完成与实现）与「过」（经历体）的句法语义区别。 (第4部分)。",
+    "objective": "熟练掌握动态助词「过」表示过往人生经历（曾经做过某事）的语义机制，掌握「没(有)+动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。",
     "presentation": {
-      "explanation": "",
+      "explanation": "动态助词「过」（拼音为 guo）直接紧附于谓语动词之后（动词 + 过），其核心语法功能是标记主体在过往的某个历史时期曾经有过某种生活经历、体验或尝试（经历体）：\n\n一、动态助词「过」的核心语义与句法特征：\n1. 强调「过往曾经发生，但该动作在现时早已成为历史，并未持续到当前」：\n- 我去过北京。 —— 说话人过去曾经前往过北京（拥有此项经历），但说话时本人早已返回原处，并不在北京。\n- 你品尝过正宗的四川麻婆豆腐吗？\n- 他以前在大学学习过法文，但现在全部忘光了。\n\n2.「没 (没有) + 动词 + 过」否定式铁律（极重要核心考点）：\n- 否定经历体必须使用「没」或「没有」，且动词后面的助词「过」必须严格保留，绝不可脱落！\n- 否定助词对比法则：\n- 否定「了₁」：助词「了」必须脱落（他没买词典，绝不可说 *没买了*）。\n- 否定「过」：助词「过」必须保留（他没去过中国，绝不可省略「过」！）。\n\n二、「动词 + 了」与「动词 + 过」的深刻本质辨析：\n1.「张老师去上海了」：\n- 语义为实现完成或行踪变化：张老师已经启程前往上海，现在人可能正在上海或者在前往上海的路途之中。\n2.「张老师去过上海」：\n- 语义为过往人生经历：张老师过去曾经到访过上海，但现在人肯定不在上海，早已返回出发地。\n\n三、经历体核心疑问句式：\n- 句式一：你吃过正宗的北京烤鸭没有？\n- 句式二：你吃过正宗的北京烤鸭吗？",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的核心语法法则与应用范例 (7.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)' in simple terms to students at the academic seminar."
+          "target": "我以前去过两次西安，参观过秦始皇兵马俑，那里的历史文化非常震撼。(Wǒ yǐqián qù guo liǎng cì Xī'ān, cānguān guo Qín Shǐhuáng bīngmǎyǒng, nàli de lìshǐ wénhuà fēicháng zhènhàn.)",
+          "reading": "[wɔ˨˩ i˨˩.t͡ɕʰjɛn˧˥ t͡ɕʰy˥˩ kwɔ ljaŋ˨˩˦ t͡sʰɨ˥˩ ɕi˥.an˥, t͡sʰan˥.kwan˥ kwɔ t͡ɕʰin˧˥ ʂɨ˨˩.xwaŋ˧˥ piŋ˥.ma˨˩.jʊŋ˨˩˦, na˥˩.li tɤ li˥˩.ʂɨ˨˩˦ wən˧˥.xwa˥˩ feɪ̯˥.ʈ͡ʂʰɑŋ˧˥ ʈ͡ʂɤn˥˩.xan˥˩] (Wǒ yǐ-qián qù guo liǎng cì Xī-'ān, cān-guān guo Qín Shǐ-huáng bīng-mǎ-yǒng, nà-li de lì-shǐ wén-huà fēi-cháng zhèn-hàn.)",
+          "translation": "I have been to Xi'an twice before and visited the Terracotta Army of the First Emperor of Qin; the history and culture there are very shocking."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (7.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "——你尝过正宗的四川火锅吗？——我从来没有尝过，听朋友说非常辣。(—Nǐ cháng guo zhèngzōng de Sìchuān huǒguō ma? —Wǒ cónglái méiyǒu cháng guo, tīng péngyou shuō fēicháng là.)",
+          "reading": "[—ni˨˩˦ t͡ʂʰɑŋ˧˥ kwɔ ʈ͡ʂɤŋ˥˩.t͡sʊŋ˥ tɤ sɨ˥˩.t͡ʂʰwan˥ xwo˨˩.kwo˥ ma? —wɔ˨˩ t͡sʰʊŋ˧˥.laɪ̯˧˥ meɪ̯˧˥.joʊ̯ t͡ʂʰɑŋ˧˥ kwɔ, tʰiŋ˥ pʰɤŋ˧˥.joʊ̯ ʂwɔ˥ feɪ̯˥.ʈ͡ʂʰɑŋ˧˥ la˥˩] (—Nǐ cháng guo zhèng-zōng de Sì-chuān huǒ-guō ma? —Wǒ cóng-lái méi-yǒu cháng guo, tīng péng-you shuō fēi-cháng là.)",
+          "translation": "—Have you ever tasted authentic Sichuan hotpot? —I have never tasted it; I heard from friends that it is very spicy."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (7.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "王教授在中国社科院从事过多年的古代文学研究。(Wáng jiàoshòu zài Zhōngguó Shèkēyuàn cóngshì guo duō nián de gǔdài wénxué yánjiū.)",
+          "reading": "[wɑŋ˧˥ t͡ɕjaʊ̯˥˩.ʂoʊ̯˥˩ t͡saɪ̯˥˩ ʈ͡ʂʊŋ˥.kwɔ˧˥ ʂɤ˥˩.kʰɤ˥.ɥɛn˥˩ t͡sʰʊŋ˧˥.ʂɨ˥˩ kwɔ twɔ˥ njɛn˧˥ tɤ ku˨˩.taɪ̯˥˩ wən˧˥.ɕɥɛ˧˥ jɛn˧˥.t͡ɕjoʊ̯˥] (Wáng jiào-shòu zài Zhōng-guó Shè-kē-yuàn cóng-shì guo duō nián de gǔ-dài wén-xué yán-jiū.)",
+          "translation": "Professor Wang engaged in research on ancient literature at the Chinese Academy of Social Sciences for many years (past career experience)."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (7.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "这本中国现代小说我以前读过一遍，写得非常深刻感人。(Zhè běn Zhōngguó xiàndài xiǎoshuō wǒ yǐqián dú guo yí biàn, xiě de fēicháng shēnkè gǎnrén.)",
+          "reading": "[ʈ͡ʂɤ˥˩ pən˨˩˦ ʈ͡ʂʊŋ˥.kwɔ˧˥ ɕjɛn˥˩.taɪ̯˥˩ ɕjaʊ̯˨˩.ʂwɔ˥ wɔ˨˩ i˨˩.t͡ɕʰjɛn˧˥ tu˧˥ kwɔ i˧˥ pjɛn˥˩, ɕjɛ˨˩˦ tɤ feɪ̯˥.ʈ͡ʂʰɑŋ˧˥ ʂən˥.kʰɤ˥˩ kan˨˩.ʐən˧˥] (Zhè běn Zhōng-guó xiàn-dài xiǎo-shuō wǒ yǐ-qián dú guo yí biàn, xiě de fēi-cháng shēn-kè gǎn-rén.)",
+          "translation": "I read this Chinese modern novel once before; it is written in a very profound and touching way."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "动后加过表经历（去过北京吃过鸭），过去发生今已毕；否定没做过还在，去过去了一清二楚！"
+      ],
+      "culturalNotes": [
+        "在跨文化交流与朋友初相识时，中国人非常喜欢使用「去过......吗？」、「吃过......吗？」来作为打破冷场、寻找共同话题的破冰利器，这展现了汉语经历体在日常生活社交中的极高语用价值。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」（第4讲）的标准汉语规范？",
+          "prompt": "句子「我去过北京」与「我去了北京」的最大区别是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的核心语法法则与应用范例 (7.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (7.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (7.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (7.4.w3)"
+            "「去过北京」指过去曾经有去北京的经历，现在人不在北京；「去了北京」指已经出发前往，现在可能在途或在京",
+            "两句话意思完全相同没有任何区别",
+            "「去过北京」表示现在正在北京",
+            "「去了北京」表示从来没有去过北京"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「过」强调过去的经历且已结束；「了」标记动作实现或状态改变（人前往了某地）。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "表达「我从来没有吃过这种中国特色小吃」，正确的中文句子是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "我从来没吃过这种中国特色小吃。(否定句中经历助词「过」必须保留)",
+            "我从来不吃过了这种中国特色小吃。",
+            "我从来没吃了这种中国特色小吃。",
+            "我没吃这种中国特色小吃过不。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "否定经历体使用「没(有) + 动词 + 过」，助词「过」必须保留。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的正式语境下，最准确得体的表达是哪一项？（第7.4题）",
+          "prompt": "向外国朋友询问是否曾经登临过中国万里长城，最得体的疑问句是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (7.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (7.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (7.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (7.4.x3)"
+            "你去过长城吗？ / 你登过长城没有？(经历体提问句型)",
+            "你正在去长城吗？",
+            "你去长城了没有快要？",
+            "你想要去长城着吗？"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "询问人生过往经历，使用「动词 + 过 + 宾语 + 吗/没有」最为地道。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u7-l4）所要求的高阶语言表达？",
+          "prompt": "在句子「李老师以前在国外教过两年中文」中，动态助词「过」表明：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (7.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (7.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (7.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (7.4.y3)"
+            "李老师过去曾经在国外教中文，但现在已经不在此处任教（过往经历）",
+            "李老师现在依然在国外教中文",
+            "李老师打算去国外教中文",
+            "李老师从来没去过国外"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「教过」表示过去的从教经历，现已告一段落。"
         }
       ]
     },
@@ -4427,25 +4437,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的掌握程度，请选出表述完全正确的标准范句（测试 7-4）：",
+          "prompt": "请选出下列问答对话中关于经历体「过」运用完全准确地道的一组：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (7.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (7.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (7.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (7.4.z3)"
+            "甲：你以前看过这部中国经典电影吗？ 乙：我没看过，但我听朋友介绍过，非常精彩。(经历体问答完全严密规范)",
+            "甲：你以前看了这部中国经典电影吗？ 乙：我没看过了这部电影。",
+            "甲：你以前在看这部中国电影着吗？ 乙：我不看过这部电影。",
+            "甲：你看过这部电影快要吗？ 乙：我看了过一遍。"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "提问「看过...吗」，否定回答「没看过」，肯定经历「听朋友介绍过」，语法与语用均无可挑剔。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u7-l4）的核心关键词（例如「动态助词」）：",
+          "prompt": "请输入表示主体曾经拥有某种过往经历的动态助词单字汉字（拼音为 guo）：",
           "acceptedAnswers": [
-            "动态助词",
-            "动态助词「了",
-            "动态助词「了」「过」与过去经验"
+            "过"
           ],
-          "explanation": "正确的核心关键词为「动态助词」。"
+          "explanation": "汉字「过」是现代汉语中表示经历体（Experiential Aspect）的核心动态助词。"
         }
       ],
       "passThreshold": 0.8
@@ -4456,85 +4464,89 @@
     "subject": "mandarin",
     "unit": 7,
     "lessonNumber": 5,
-    "title": "动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO) (第5讲)",
+    "title": "「了₁」「了₂」「过」综合交际辨析与叙事篇章 (Comprehensive Contrast & Past Narrative)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：动态助词「了」（动作完成与实现）与「过」（经历体）的句法语义区别。 (第5部分)。",
+    "objective": "融会贯通动态助词「了₁」（完成）、句末助词「了₂」（变化）、双「了」（持续）与经历助词「过」（过往体验），能够综合撰写逻辑严密、体貌精准的个人经历与成长叙事语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "将动态助词「了₁」、句末语气助词「了₂」、双「了」持续结构与经历助词「过」有机融合，是进行高阶汉语记叙文写作与口语叙事表达的必经之路：\n\n一、四大体态助词核心功能矩阵总复盘：\n1. 动词「了₁」（完成体）：标记动作实现完成（例如：我昨天在书店买了一台新笔记本电脑）。\n2. 句末「了₂」（变化体）：标记新情况、新认知或即将发生体（例如：春天来到了 / 天气变冷了 / 暴风雨快要来临了）。\n3. 双「了」结构（持续体）：标记动作从过去开始并持续发展至今（例如：我在中国北京大学深造学习了整整两年汉语了）。\n4. 动态「过」（经历体）：标记主体过往曾有某种生活体验，现已成为历史（例如：我以前去过西安古城，品尝过正宗的北京烤鸭）。\n\n二、体态标记叙事综合范文（留学生在华两年成长纪实）：\n- 我来到中国留学深造已经整整两年了（双「了」持续结构）。刚来到北京的时候，我一句中文都不会说，北方的天气也渐渐变冷了（句末「了」表示新变化）。在这两年里，我刻苦努力学习，游览去过了西安、上海、广州和杭州等历史文化名城（经历体「过」），也品尝过了正宗地道的北京烤鸭和四川麻婆豆腐（经历体「过」）。昨天我以优异的成绩顺利通过了汉语水平考试（动词「了₁」表示动作完成），全班老师和朋友们都为我感到由衷高兴。下周我们就要放暑假了（即将发生体「就要......了」），我已经买好了回国的往返机票，打算回家看望亲爱的父母。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的核心语法法则与应用范例 (7.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)' in simple terms to students at the academic seminar."
+          "target": "我学了三年汉语了，去过很多中国名胜古迹，昨天又买了一套唐诗选集。(Wǒ xué le sān nián Hànyǔ le, qù guo hěnduō Zhōngguó míngshèng gǔjì, zuótiān yòu mǎi le yí tào Tángshī xuǎnjí.)",
+          "reading": "[wɔ˨˩ ɕɥɛ˧˥ lɤ san˥ njɛn˧˥ xan˥˩.y˨˩˦ lɤ, t͡ɕʰy˥˩ kwɔ xən˨˩.two˥ ʈ͡ʂʊŋ˥.kwɔ˧˥ miŋ˧˥.ʂɤŋ˥˩ ku˨˩.t͡ɕi˥˩, t͡swɔ˧˥.tʰjɛn˥ joʊ̯˥˩ maɪ̯˨˩˦ lɤ i˥ tʰaʊ̯˥˩ tʰɑŋ˧˥.ʂɨ˥ ɕɥan˨˩.t͡ɕi˧˥] (Wǒ xué le sān nián Hàn-yǔ le, qù guo hěn-duō Zhōng-guó míng-shèng gǔ-jì, zuó-tiān yòu mǎi le yí tào Táng-shī xuǎn-jí.)",
+          "translation": "I have studied Chinese for three years (still studying), have been to many Chinese historical sites (experience), and bought a set of selected Tang Poems yesterday (completed action)."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (7.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "天色暗下来了，暴风雨快要来了，路上的人们都加快了回家的脚步。(Tiānsè àn xiàlái le, bàofēngyǔ kuài yào lái le, lù shang de rénmen dōu jiākuài le huíjiā de jiǎobù.)",
+          "reading": "[tʰjɛn˥.sɤ˥˩ an˥˩ ɕja˥˩.laɪ̯ lɤ, paʊ̯˥˩.fɤŋ˥.y˨˩˦ kʰwaɪ̯˥˩ jaʊ̯˥˩ laɪ̯˧˥ lɤ, lu˥˩ ʂɑŋ tɤ ʐən˧˥.mən toʊ̯˥ t͡ɕja˥.kʰwaɪ̯˥˩ lɤ xweɪ̯˧˥.t͡ɕja˥ tɤ t͡ɕjaʊ̯˨˩.pu˥˩] (Tiān-sè àn xià-lái le, bào-fēng-yǔ kuài yào lái le, lù shang de rén-men dōu jiā-kuài le huí-jiā de jiǎo-bù.)",
+          "translation": "The sky has darkened (change), the storm is about to come (inchoative), and people on the road all accelerated their steps home (completion)."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (7.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "我以前从来没学过太极拳，今天在操场跟李老师学了一套动作，太有趣了！(Wǒ yǐqián cónglái méi xué guo tàijíquán, jīntiān zài cāochǎng gēn Lǐ lǎoshī xué le yí tào dòngzuò, tài yǒuqù le!)",
+          "reading": "[wɔ˨˩ i˨˩.t͡ɕʰjɛn˧˥ t͡sʰʊŋ˧˥.laɪ̯˧˥ meɪ̯˧˥ ɕɥɛ˧˥ kwɔ tʰaɪ̯˥˩.t͡ɕi˧˥.t͡ɕʰɥɛn˧˥, t͡ɕin˥.tʰjɛn˥ t͡saɪ̯˥˩ t͡sʰaʊ̯˥.ʈ͡ʂʰɑŋ˨˩˦ kən˥ li˨˩˦ laʊ˨˩.ʂɨ˥ ɕɥɛ˧˥ lɤ i˥ tʰaʊ̯˥˩ tʊŋ˥˩.t͡swɔ˥˩, tʰaɪ̯˥˩ joʊ̯˨˩.t͡ɕʰy˥˩ lɤ!] (Wǒ yǐ-qián cóng-lái méi xué guo tài-jí-quán, jīn-tiān zài cāo-chǎng gēn Lǐ lǎo-shī xué le yí tào dòng-zuò, tài yǒu-qù le!)",
+          "translation": "I had never learned Tai Chi before (negative experience); today I learned a set of movements from Teacher Li on the sports ground (completion), which was so interesting (exclamation)!"
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (7.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "——你在中国住了多长时间了？——我住了两年了，去过十几个城市。(—Nǐ zài Zhōngguó zhù le duō cháng shíjiān le? —Wǒ zhù le liǎng nián le, qù guo shí jǐ gè chéngshì.)",
+          "reading": "[—ni˨˩˦ t͡saɪ̯˥˩ ʈ͡ʂʊŋ˥.kwɔ˧˥ ʈ͡ʂu˥˩ lɤ twɔ˥ ʈ͡ʂʰɑŋ˧˥ ʂɨ˧˥.t͡ɕjɛn˥ lɤ? —wɔ˨˩ ʈ͡ʂu˥˩ lɤ ljaŋ˨˩ njɛn˧˥ lɤ, t͡ɕʰy˥˩ kwɔ ʂɨ˧˥ t͡ɕi˨˩˦ kɤ ʈ͡ʂʰɤŋ˧˥.ʂɨ˥˩] (—Nǐ zài Zhōng-guó zhù le duō cháng shí-jiān le? —Wǒ zhù le liǎng nián le, qù guo shí jǐ gè chéng-shì.)",
+          "translation": "—How long have you lived in China? —I have lived here for two years (ongoing), and have visited over ten cities (experience)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "动了表完成，句了表变更；双了延至今，经验过字承！篇章四体合，叙事最传神！"
+      ],
+      "culturalNotes": [
+        "掌握汉语独特的体貌体系（Aspectual System）是构建高级叙事连贯性的中枢纽带。通过「了₁、了₂、双了、过」在同一篇章中的交织运用，叙述者能够如电影镜头切换般精准呈现动作的发生、环境的流转、经历的回忆与现时的持续。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」（第5讲）的标准汉语规范？",
+          "prompt": "在叙述成长经历时，表达「在中国居住了三年且目前仍在居住，期间曾去过长城」，句式组合正确的是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的核心语法法则与应用范例 (7.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (7.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (7.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (7.5.w3)"
+            "我在中国住了三年了，去过长城。(双「了」表持续 + 「过」表经历)",
+            "我在中国住了三年过，去了长城了。",
+            "我在中国住着三年，去在长城了。",
+            "我住在中国三年着了，去过长城了在。"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「住了三年了」准确表达持续至今；「去过长城」准确表达过往旅游经历。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在篇章「下雪了，天气冷了，我们买了一台暖气机」中，三个助词的语法功能依次是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "状态变化（了₂） -> 状态变化（了₂） -> 动作完成（了₁）",
+            "动作完成 -> 动作完成 -> 动作完成",
+            "经历体 -> 经历体 -> 经历体",
+            "状态变化 -> 经历体 -> 状态变化"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「下雪了」和「冷了」是事态与天气变化，「买了一台」是动词动作实现。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的正式语境下，最准确得体的表达是哪一项？（第7.5题）",
+          "prompt": "请选出下列叙述中体貌助词运用完全严密、逻辑天衣无缝的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (7.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (7.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (7.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (7.5.x3)"
+            "我来中国学习一年了，以前没学过汉语，昨天参加了汉语水平考试。(持续体 + 否定经历 + 动作完成)",
+            "我来中国学习一年过，以前没学了汉语，昨天参加过汉语考试了。",
+            "我来中国学习一年着，以前不学过汉语，昨天参加在考试。",
+            "我来中国学习了一年了，以前没学了汉语，昨天参加过考试了。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "双「了」（持续）、「没学过」（否定经历）、「参加了」（完成），语法体系极其严谨。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u7-l5）所要求的高阶语言表达？",
+          "prompt": "在句子「火车快要进站了，乘客们都站起来了」中，句末两个「了」共同表达的核心功能是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (7.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (7.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (7.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (7.5.y3)"
+            "传递即将发生与新动作状态的开启（事态转变）",
+            "表示所有动作完全结束于遥远的过去",
+            "表示否定与拒绝",
+            "表示被动语态"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「快要...了」表示动作即将发生，「站起来了」表示新动作状态的产生。"
         }
       ]
     },
@@ -4542,25 +4554,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的掌握程度，请选出表述完全正确的标准范句（测试 7-5）：",
+          "prompt": "请选出下列叙事语篇中动词「了₁」、句末「了₂」、双「了」与「过」运用完全规范得体的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (7.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (7.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (7.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (7.5.z3)"
+            "我在北京生活了两年了，尝过很多地道的中华美食。春天来了，天气暖和了，昨天我和朋友去公园拍了很多美丽的照片。(持续、经历、变化与完成四体合璧)",
+            "我在北京生活了两年过，尝了许多美食了。春天来过，天气暖和着，昨天我和朋友拍照片很多了。(体貌助词全面错用)",
+            "我在北京生活两年了在，尝过美食很多了。春天来在，天气冷过，昨天我和朋友拍了很多照片在公园。(语序与虚词混乱)",
+            "我在北京生活两年着，没尝过美食了。春天快到过，昨天我和朋友拍了照片没有。(语法严重缺陷)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在双「了」（生活了两年了）、经历体（尝过美食）、句末变化（春天来了/暖和了）以及动作完成（拍了很多照片）上均达到了现代汉语典范水准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u7-l5）的核心关键词（例如「动态助词」）：",
+          "prompt": "请输入表示曾经拥有过往体验的经历体动态助词核心单字汉字（拼音为 guò / guo）：",
           "acceptedAnswers": [
-            "动态助词",
-            "动态助词「了",
-            "动态助词「了」「过」与过去经验"
+            "过"
           ],
-          "explanation": "正确的核心关键词为「动态助词」。"
+          "explanation": "汉字「过」是标记过往经历与人生体验的核心动态助词。"
         }
       ],
       "passThreshold": 0.8
