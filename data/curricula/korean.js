@@ -14749,56 +14749,65 @@
     "subject": "korean",
     "unit": 32,
     "lessonNumber": 1,
-    "title": "첨단 과학 기술과 반도체 산업 (Science & Semiconductor Tech) (Part 1)",
+    "title": "한국 근현대 소설의 리얼리즘과 분단 문학 (Realism & Division Literature)",
     "level": "C2",
-    "objective": "Comprehensive mastery of 과학 기술과 반도체 산업 (Science & High Technology).",
+    "objective": "식민지 지식인의 고뇌, 한국전쟁과 분단 트라우마, 산업화 시대의 소외, 토속적 해학 등 한국 근현대 소설의 정수를 분석한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 첨단 과학 기술과 반도체 산업 (Science & Semiconductor Tech) » (제1절)의 핵심 언어 요소와 과학 기술과 반도체 산업 (Science & High Technology)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "20세기 격동의 한국 근현대사를 투영한 소설 문학의 주요 조류와 비평 담화입니다.\n\n1. 시대별 한국 소설의 지형도:\n- **식민지 지식인의 내면적 고뇌**: 일제강점기 자아 분열과 모더니즘 실험 (이상의 «날개»), 비참한 식민지 하층민의 삶과 반어적 비극 (현진건의 «운수 좋은 날»)\n- **한국전쟁과 분단 트라우마(Division Trauma)**: 이데올로기 대립 속 남과 북 사이 제3국을 선택한 지식인의 비극 (최인훈의 «광장»), 분단과 한국 현대사의 비극적 서사시 (조정래의 «태백산맥»)\n- **산업화와 소외된 도시 빈민**: 1970년대 고도성장기 철거민의 비극과 계급 불평등을 동화적 환상과 리얼리즘으로 포착 (조세희의 «난장이가 쏘아올린 작은 공»)\n- **토속적 해학과 샤머니즘적 운명론**: 농촌의 순박한 사랑과 해학미 (김유정의 «동백꽃», «봄·봄»), 전통 무속과 외래 기독교의 문명 충돌 (김동리의 «무녀도»)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (32.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "최인훈의 소설 «광장»은 이데올로기의 광풍 속에서 진정한 자유를 갈망하던 분단 시대 지식인의 실존적 번민을 날카롭게 해부하였습니다.",
+          "reading": "Choe In-hun-ui soseol «Gwangjang»-eun ide-ollogi-ui gwangpung sog-eseo jinjeonghan jayu-reul galmanghadeon bundan sedae jisik-in-ui siljonjeok beonmin-eul nalkaropge haebuhayeotseumnida.",
+          "translation": "Choe In-hun's novel 'The Square' sharply dissected the existential anguish ('실존적 번민을 날카롭게 해부하였습니다') of a division-era intellectual yearning for true freedom amidst the fierce gale of ideology."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (32.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "조세희 작가는 «난장이가 쏘아올린 작은 공»에서 압축적 고도성장의 그늘에 가려진 도시 빈민의 처절한 현실을 시적 문체로 형상화했습니다.",
+          "reading": "Jo Se-hui jakga-neun «Nanjang-i-ga Ssoa-ollin Jageun Gong»-eseo apchukjeok godo-seongjang-ui geuneul-e garyeojin dosi binmin-ui cheojeolhan hyeonsil-eul sijeok munche-ro hyeongsanghwahaetseumnida.",
+          "translation": "Writer Jo Se-hui concretized the desperate reality of urban poor people overshadowed by compressed rapid economic growth in poetic style in 'A Dwarf Launches a Little Ball' ('처절한 현실을 시적 문체로 형상화했습니다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (32.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "현진건의 «운수 좋은 날»은 아내의 죽음이라는 비극과 대조되는 반어적 플롯을 통해 일제강점기 민중의 참상을 극대화하여 보여줍니다.",
+          "reading": "Hyeon Jin-geon-ui «Unsu Joeun Nal»-eun anae-ui jugeum-iraneun bigeuk-gwa daejodoeneun ban-eojeok peullot-eul tonghae iljegangjeomgi minjung-ui chamsang-eul geukdaehwahayeo boyeojumnida.",
+          "translation": "Hyeon Jin-geon's 'A Lucky Day' maximizes the tragedy of the common people during the Japanese colonial rule through an ironic plot contrasting with the tragedy of the wife's death."
+        },
+        {
+          "target": "김유정 문학의 백미는 가난과 계급적 억압 속에서도 웃음을 잃지 않는 민중 특유의 토속적 해학에 있습니다.",
+          "reading": "Kim Yu-jeong munhak-ui baengmi-neun ganan-gwa gyegeupjeok eog-ap sog-eseodo useum-eul ilchi anneun minjung teuk-yu-ui tosokjeok haehaeg-e itseumnida.",
+          "translation": "The highlight of Kim Yu-jeong's literature lies in the indigenous humor unique to the masses who do not lose laughter even amidst poverty and class oppression."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "이상의 자아 분열, 최인훈의 분단 광장, 조세희의 난장이, 김유정의 해학!"
+      ],
+      "culturalNotes": [
+        "한국의 분단 문학은 단순한 반공 이데올로기를 넘어, 전쟁이 남긴 이산가족의 한(恨)과 인간성 회복을 다루는 한국 특유의 세계 문학적 유산으로 평가받습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 과학 기술과 반도체 산업 (Science & High Technology) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "한국전쟁 직후 이데올로기 대립 속에서 남북한 모두의 허상을 비판하고 중립국을 택한 주인공 이명준의 비극을 그린 최인훈의 대표작은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (32.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (32.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (32.1.3)."
+            "광장 (The Square)",
+            "토지 (The Land)",
+            "태백산맥 (The Taebaek Mountains)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "이데올로기 갈등과 실존적 고뇌를 다룬 분단 문학의 걸작은 최인훈의 «광장»입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 첨단 과학 기술과 반도체 산업 (Science & Semiconductor Tech) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "1970년대 한국의 급격한 산업화와 도시 재개발 이면에 숨겨진 철거민 가족의 비극을 연작 형태로 다룬 조세희의 소설은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (32.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (32.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (32.1.3)."
+            "난장이가 쏘아올린 작은 공",
+            "동백꽃",
+            "운수 좋은 날"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "도시 빈민과 산업화 소외를 서정적이고 강렬한 문체로 형상화한 작품은 «난장이가 쏘아올린 작은 공»입니다."
         }
       ]
     },
@@ -14806,14 +14815,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 과학 기술과 반도체 산업 (Science & High Technology) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 32-1)?",
+          "prompt": "일제강점기 인력거꾼 김 첨지의 하루를 통해 결말의 비극을 극적으로 증폭시키는 문학적 기법은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (32.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (32.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (32.1.3)."
+            "반어법 (Irony / 반어적 복선 구조)",
+            "직유법 (Simile)",
+            "의성어 나열 (Onomatopoeia)"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "explanation": "«운수 좋은 날»이라는 제목과 결말의 참담한 비극이 이루는 대비는 '반어법(Irony)'의 정수입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'분단 트라우마와 시대적 비극을 소설로 형상화했어요'(They concretized division trauma and historical tragedy into novels)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "분단 트라우마와 시대적 비극을 소설로 형상화했어요.",
+            "분단 트라우마와 시대적 비극을 소설로 형상화했어요"
+          ],
+          "explanation": "분단 트라우마와 + 시대적 비극을 + 소설로 + 형상화했어요 = 분단 트라우마와 시대적 비극을 소설로 형상화했어요."
         }
       ]
     }
@@ -14823,56 +14841,65 @@
     "subject": "korean",
     "unit": 32,
     "lessonNumber": 2,
-    "title": "첨단 과학 기술과 반도체 산업 (Science & Semiconductor Tech) (Part 2)",
+    "title": "한국 현대 시문학의 서정과 저항 정신 (Korean Modern Poetics & Resistance)",
     "level": "C2",
-    "objective": "Comprehensive mastery of 과학 기술과 반도체 산업 (Science & High Technology).",
+    "objective": "윤동주의 부끄러움의 미학, 이육사의 초인의지, 김소월의 민요조 율격, 백석의 향토적 시어, 정지용의 이미지즘을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 첨단 과학 기술과 반도체 산업 (Science & Semiconductor Tech) » (제2절)의 핵심 언어 요소와 과학 기술과 반도체 산업 (Science & High Technology)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국 현대 시문학(Modern Poetics)을 수놓은 거장들의 시적 화자와 미학적 세계관입니다.\n\n1. 저항과 자아 성찰의 시학:\n- **윤동주의 부끄러움의 미학(Aesthetics of Shame)**: «서시», «자화상», «별 헤는 밤»에서 어두운 식민지 현실 속 순수한 도덕적 양심과 끊임없는 자아 성찰을 노래\n- **이육사의 절정과 초인의지(Will of Superhuman)**: «절정», «광야», «청포도»에서 가혹한 일제의 탄압에 맞선 결연한 저항 의지와 조국 광복을 향한 웅혼한 남성적 어조\n\n2. 민족 정서와 모더니즘 미학:\n- **김소월의 민요조 율격(7·5조 3음보)**: «진달래꽃», «산유화»에서 이별의 슬픔(이별의 정한)을 전통 민요 가락과 여성적 어조로 승화\n- **백석의 향토적 서정과 토속 방언**: «여승», «남신의주 유동 박시봉방»에서 평안도 토속 방언과 향토적 음식·풍물을 통해 민족 공동체의 따스한 원형을 복원\n- **정지용의 감각적 이미지즘(Imagism)**: «향수», «유리창»에서 절제된 언어와 선명한 시각적·감각적 이미지로 현대시의 미학적 지평을 개척",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (32.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "윤동주 시인은 '죽는 날까지 하늘을 우러러 한 점 부끄럼이 없기를' 갈망하며 숭고한 도덕적 순결성을 시로써 구현하였습니다.",
+          "reading": "Yun Dong-ju siin-eun 'jungneun nal-kkaji haneul-eul ureoreo han jeom bukkeurom-i eopgireul' galmanghamyeo sunggohan dodeokjeok sungyeolseong-eul si-rosseo guhyeonhayeotseumnida.",
+          "translation": "Poet Yun Dong-ju embodied sublime moral purity through poetry ('숭고한 도덕적 순결성을 시로써 구현하였습니다'), longing that 'until the day I die, looking up at the sky, there may not be a single speck of shame'."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (32.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "이육사의 시 «광야»는 암흑기 식민지 현실 속에서도 백마 타고 오는 초인을 기다리는 불굴의 역사주의적 저항 의지를 웅장하게 노래합니다.",
+          "reading": "I Yuk-sa-ui si «Gwang-ya»-neun amheukgi sikminji hyeonsil sog-eseodo baengma tago oneun choin-eul gidarineun bulgul-ui yeoksaju-uijeok jeohang uiji-reul ungjanghage noraehamnida.",
+          "translation": "Yi Yuk-sa's poem 'The Wilderness' magnificently sings of an indomitable historicist resistance will ('불굴의 역사주의적 저항 의지를 웅장하게 노래합니다') awaiting a superhuman arriving on a white horse even amidst dark colonial reality."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (32.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "김소월은 7·5조 3음보의 전통 민요 율격을 현대 자유시 속에 성공적으로 용해시켜 민족 고유의 한의 정서를 노래했습니다.",
+          "reading": "Kim So-wol-eun chil-o-jo sam-eumbo-ui jeontong min-yo yulgyeok-eul hyeondae jayusi sog-e seonggongjeog-euro yonghaesikyeo minjok goyu-ui han-ui jeongseo-reul noraehaetseumnida.",
+          "translation": "Kim So-wol successfully melted the traditional folk song rhythm of 7-5 syllables in 3 poetic feet into modern free verse, singing the nation's unique emotion of Han ('한의 정서를 노래했습니다')."
+        },
+        {
+          "target": "백석 시인은 구수한 평안도 방언과 향토적 사물들을 유려하게 직조하여 잃어버린 고향 공동체의 따스함을 되살려냈습니다.",
+          "reading": "Baek Seok siin-eun gusuhan Pyeong-ando bang-eon-gwa hyangtojeok samuldeul-eul yuryeohage jikjohayeo ilheobeorin gohyang gongdongche-ui ttaseuham-eul doesallyeonaetseumnida.",
+          "translation": "Poet Baek Seok fluently wove rich Pyongan dialect and local artifacts, reviving the warmth of the lost hometown community."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "윤동주의 부끄러움, 이육사의 절정 초인, 김소월의 7·5조 진달래, 백석의 평안도 방언!"
+      ],
+      "culturalNotes": [
+        "한국의 모든 교과서와 수능 언어 영역에서 윤동주와 이육사는 일제강점기 암흑기를 양심과 지조로 지켜낸 대표적인 '민족 저항 시인'의 쌍벽으로 다루어집니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 과학 기술과 반도체 산업 (Science & High Technology) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "식민지 치하에서 '하늘과 바람과 별과 시'를 노래하며 치열한 자기반성과 순결한 양심을 표현한 시인은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (32.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (32.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (32.2.3)."
+            "윤동주 (Yun Dong-ju)",
+            "김유정 (Kim Yu-jeong)",
+            "현진건 (Hyeon Jin-geon)"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "부끄러움의 미학과 자아 성찰을 대표하는 저항 시인은 윤동주입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 첨단 과학 기술과 반도체 산업 (Science & Semiconductor Tech) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "한국 전통 민요의 가락인 7·5조 3음보 율격을 바탕으로 '진달래꽃'과 '산유화'를 지은 대표 서정 시인은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (32.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (32.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (32.2.3)."
+            "김소월 (Kim So-wol)",
+            "이상 (Yi Sang)",
+            "조세희 (Jo Se-hui)"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "전통 민요 율격과 한(恨)의 정서를 노래한 시인은 김소월입니다."
         }
       ]
     },
@@ -14880,14 +14907,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 과학 기술과 반도체 산업 (Science & High Technology) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 32-2)?",
+          "prompt": "'매운 계절의 채찍에 갈겨 마침내 북방으로 휩쓸려 오다'로 시작하며 극한의 시련 속 초인적 저항 의지를 노래한 이육사의 시는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (32.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (32.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (32.2.3)."
+            "절정 (The Summit / Peak)",
+            "서시 (Prelude)",
+            "향수 (Nostalgia)"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "가혹한 일제 탄압에 맞선 절체절명의 저항 의지를 노래한 시는 이육사의 «절정»입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'저항 정신과 서정적 율격을 시로 구현했어요'(They embodied resistance spirit and lyrical rhythm in poetry)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "저항 정신과 서정적 율격을 시로 구현했어요.",
+            "저항 정신과 서정적 율격을 시로 구현했어요"
+          ],
+          "explanation": "저항 정신과 + 서정적 율격을 + 시로 + 구현했어요 = 저항 정신과 서정적 율격을 시로 구현했어요."
         }
       ]
     }
@@ -14897,56 +14933,65 @@
     "subject": "korean",
     "unit": 32,
     "lessonNumber": 3,
-    "title": "첨단 과학 기술과 반도체 산업 (Science & Semiconductor Tech) (Part 3)",
+    "title": "문학 및 예술 비평 전문 분석 어휘와 수사 (Literary & Arts Criticism)",
     "level": "C2",
-    "objective": "Comprehensive mastery of 과학 기술과 반도체 산업 (Science & High Technology).",
+    "objective": "미학적 거리두기, 다층적 플롯, 알레고리와 은유의 층위, 비극미와 카타르시스 등 최고급 문학 평론 어휘를 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 첨단 과학 기술과 반도체 산업 (Science & Semiconductor Tech) » (제3절)의 핵심 언어 요소와 과학 기술과 반도체 산업 (Science & High Technology)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국의 주요 문예지(«창작과비평», «문학동네», «현대문학») 및 학술 비평에서 사용되는 전문 문학·예술 비평 이론 어휘입니다.\n\n1. 서사 구조 및 미학적 장치 비평 어휘:\n- **미학적 거리두기(Aesthetic Distance)**: 독자나 관객이 작품 속 인물에 과도하게 감정 이입하지 않고 비판적 성찰을 유지하게 만드는 서사적 기법\n- **서사의 다층적 플롯(Multilayered Plot)과 복선(Foreshadowing)**: 표면적 사건 아래 심층적인 심리적·사회적 갈등이 얽혀 있는 구조\n- **알레고리(Allegory)와 은유(Metaphor)의 층위**: 작품 속 특정 사물이나 인물이 역사적 사건이나 보편적 인간 조건을 상징하는 다중 의미 체계\n\n2. 미적 범주 및 효과:\n- **비극미(Tragic Beauty)와 카타르시스(Catharsis)**: 고난과 파멸 속에서도 꺾이지 않는 인간 존엄성을 통해 관객의 감정을 정화\n- **골계미(Comical Beauty)와 풍자·해학**: 웃음을 통해 부조리한 현실을 폭로하고 극복하는 미적 원리\n- **비평 전용 서술 어미**: '~로 승화시키다', '~을 유려하게 형상화하다', '~의 지평을 확장하다'",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (32.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "작가는 일상의 미시적인 에피소드 뒤에 현대 자본주의의 소외 구조를 은폐하는 알레고리의 중층적 층위를 치밀하게 구축하였습니다.",
+          "reading": "Jakga-neun ilsang-ui misijeogin episodeu dwi-e hyeondae jabonju-ui-ui so-oe gujo-reul eunpyehaneun allegori-ui jungcheungjeok cheungwi-reul chimilhage guchukhayeotseumnida.",
+          "translation": "Behind everyday micro-episodes, the author elaborately constructed a multilayered stratum of allegory ('알레고리의 중층적 층위를 치밀하게 구축하였습니다') concealing the alienation structure of modern capitalism."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (32.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "비극적 결말을 통해 주인공의 좌절된 욕망은 보편적 인간 실존의 비극미로 승화되며 독자에게 깊은 카타르시스를 선사합니다.",
+          "reading": "Bigeukjeok gyeolmal-eul tonghae juin-gong-ui jwajeoldoen yokmang-eun bobyeonjeok in-gan siljon-ui bigeukmi-ro seunghwadoemyeo dokja-ege gipeun katareusiseu-reul seonsahamnida.",
+          "translation": "Through the tragic ending, the protagonist's frustrated desire is sublimated into the tragic beauty ('비극미로 승화되며') of universal human existence, presenting deep catharsis to readers."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (32.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "감상적 감정 과잉을 철저히 배제하고 미학적 거리두기를 유지함으로써 작품의 냉철한 리얼리즘을 한층 강화하였습니다.",
+          "reading": "Gamsangjeok gamjeong gwa-ing-eul cheoljeohi baejehhago mihakjeok georidugi-reul yujiham-euroseo jakpum-ui naengcheolhan rieolrijeum-eul hancheung ganghwahayeotseumnida.",
+          "translation": "By thoroughly excluding sentimental emotional excess and maintaining aesthetic distance ('미학적 거리두기를 유지함으로써'), the author further reinforced the work's cold realism."
+        },
+        {
+          "target": "전통적인 선형적 시간성을 해체하고 다층적 플롯을 교차 배치함으로써 현대인의 파편화된 내면의식을 탁월하게 형상화했습니다.",
+          "reading": "Jeontongjeogin seonhyeongjeok siganseong-eul haechehago dacheungjeok peullot-eul gyocha baechiham-euroseo hyeondaein-ui papyeonhwadoen naemyeon-uisig-eul tagwolhage hyeongsanghwahaetseumnida.",
+          "translation": "By deconstructing traditional linear temporality and intersecting multilayered plots, it superbly concretized modern humans' fragmented inner consciousness."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "알레고리의 층위, 미학적 거리두기, 다층적 플롯, 비극미와 카타르시스로 승화!"
+      ],
+      "culturalNotes": [
+        "한국의 문학 비평은 역사적 현실과 사회적 실천성을 중시하는 '리얼리즘 비평'과 언어의 형식적 아름다움과 내면을 탐구하는 '미학주의/모더니즘 비평'이 상호 견제하며 발전해 왔습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 과학 기술과 반도체 산업 (Science & High Technology) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "문학이나 연극에서 관객이나 독자가 인물에게 너무 빠져들지 않고 이성적이고 비판적인 시각을 유지하도록 거리를 두는 미학 원리는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (32.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (32.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (32.3.3)."
+            "미학적 거리두기 (Aesthetic Distance)",
+            "무조건적 몰입 (Blind Immersion)",
+            "감정 폭발 (Emotional Explosion)"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "작품과 수용자 사이에 객관적 비판 거리를 확보하는 기법은 '미학적 거리두기'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 첨단 과학 기술과 반도체 산업 (Science & Semiconductor Tech) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "비극 작품을 보며 느끼는 연민과 공포를 통해 마음에 억압된 감정을 배출하고 정신적 정화를 얻는 효과는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (32.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (32.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (32.3.3)."
+            "카타르시스 (Catharsis / 감정의 정화)",
+            "파토스 (Pathos)",
+            "아노미 (Anomie)"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "비극적 체험을 통한 감정의 순화와 정화 작용을 '카타르시스'라고 합니다."
         }
       ]
     },
@@ -14954,14 +14999,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 과학 기술과 반도체 산업 (Science & High Technology) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 32-3)?",
+          "prompt": "단순한 일차적 의미를 넘어 추상적인 개념이나 역사적 진실을 다른 구체적 대상에 빗대어 다층적으로 암시하는 비평 용어는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (32.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (32.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (32.3.3)."
+            "알레고리 (Allegory / 풍유)",
+            "단순 묘사 (Simple Description)",
+            "말장난 (Pun)"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "다중적 은유와 상징 체계를 통해 깊은 의미를 드러내는 기법은 '알레고리'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'미학적 거리두기와 다층적 플롯을 정밀하게 분석했어요'(I precisely analyzed aesthetic distancing and multilayered plot)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "미학적 거리두기와 다층적 플롯을 정밀하게 분석했어요.",
+            "미학적 거리두기와 다층적 플롯을 정밀하게 분석했어요"
+          ],
+          "explanation": "미학적 거리두기와 + 다층적 플롯을 + 정밀하게 + 분석했어요 = 미학적 거리두기와 다층적 플롯을 정밀하게 분석했어요."
         }
       ]
     }
@@ -14971,56 +15025,65 @@
     "subject": "korean",
     "unit": 32,
     "lessonNumber": 4,
-    "title": "첨단 과학 기술과 반도체 산업 (Science & Semiconductor Tech) (Part 4)",
+    "title": "한국 전통 공연 예술과 현대 무대 미학 (Traditional Performing Arts & Stage Aesthetics)",
     "level": "C2",
-    "objective": "Comprehensive mastery of 과학 기술과 반도체 산업 (Science & High Technology).",
+    "objective": "판소리의 추임새와 이면, 마당극과 탈춤의 골계미·계급 풍자, 현대 실험극의 '제4의 벽 허물기' 공연 예술 담론을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 첨단 과학 기술과 반도체 산업 (Science & Semiconductor Tech) » (제4절)의 핵심 언어 요소와 과학 기술과 반도체 산업 (Science & High Technology)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국의 독창적인 종합 공연 예술인 판소리, 탈춤, 마당극의 전통 미학과 현대 극예술의 무대 문법입니다.\n\n1. 판소리(Pansori)의 미학 체계:\n- **소리꾼(Singer)과 고수(Drummer)**: 1인의 소리꾼이 창(소리), 아니리(말), 너름새(발림/몸짓)로 서사를 이끌고, 고수는 북 장단과 함께 '얼씨구!', '좋다!', '잘한다!' 등 **추임새(Chuhimsae)**로 흥을 돋움\n- **이면(裏面)을 그리다**: 사설의 극적 상황과 인물의 희로애락 심리를 소리의 음색과 조(계면조, 우조, 평조)에 정확히 일치시켜 구현하는 최고 경지의 판소리 미학\n\n2. 민중 극예술과 마당 미학:\n- **탈춤(Mask Dance)과 골계미**: 양반의 허위의식과 타락한 계급을 풍자하는 말뚝이의 날카로운 독설과 익살\n- **마당극과 제4의 벽(Fourth Wall) 허물기**: 무대와 객석의 경계를 허물고 관객이 극의 참여자이자 주체가 되는 열린 축제성",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (32.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "명창은 극적인 비장미가 극에 달하는 대목에서 처절한 계면조 성음으로 소리의 이면을 완벽하게 그려내어 청중의 심금을 울렸습니다.",
+          "reading": "Myeongchang-eun geukjeogin bijangmi-ga geug-e dalhaneun daemog-eseo cheojeolhan gyemyeonjo seong-eum-euro sori-ui imyeon-eul wanbyeokhage geuryeonaeeo cheongjung-ui simgeum-eul ullyeotseumnida.",
+          "translation": "At the passage where dramatic tragic beauty reaches its peak, the master singer perfectly rendered the inner truth of the sound ('소리의 이면을 완벽하게 그려내어') with a sorrowful Gyemyeonjo vocal tone, touching the hearts of the audience."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (32.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "고수의 절묘한 북 장단과 적재적소의 추임새는 소리꾼의 호흡을 살리고 객석의 자발적 참여를 유도하는 판소리의 백미입니다.",
+          "reading": "Gosu-ui jeolmyohan buk jangdan-gwa jeokjaejeokso-ui chuimsae-neun sorikkun-ui hoheup-eul salligo gaekseok-ui jabaljeok cham-yeo-reul yudohaneun pansori-ui baengmi-imnida.",
+          "translation": "The drummer's exquisite drum rhythm and well-timed exclamations ('적재적소의 추임새는') are the highlight of pansori, enlivening the singer's breathing and inducing voluntary audience participation."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (32.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "봉산탈춤에서 말뚝이의 대사는 신랄한 해학과 골계미를 통해 지배 계급의 위선과 권위를 거침없이 해체합니다.",
+          "reading": "Bongsantalchum-eseo Malttugi-ui daesa-neun sinralhan haehaek-gwa golgyemi-reul tonghae jibae gyegeup-ui wiseon-gwa gwon-wi-reul geochimeopsi haechehamnida.",
+          "translation": "In Bongsan Mask Dance, Malttugi's dialogue unhesitatingly deconstructs the ruling class's hypocrisy and authority through scathing humor and comical beauty ('신랄한 해학과 골계미를 통해')."
+        },
+        {
+          "target": "현대 마당극은 무대와 객석을 가로막는 제4의 벽을 과감히 허물고 관객과 호흡하는 열린 연극의 새로운 지평을 열었습니다.",
+          "reading": "Hyeondae madanggeuk-eun mudae-wa gaekseog-eul garomangneun je-sa-ui byeok-eul gwagamhi heomulgo gwan-gaek-gwa hoheuphaneun yeollin yeon-geuk-ui saeroun jipyeong-eul yeoreotseumnida.",
+          "translation": "Modern Madanggeuk boldly tore down the fourth wall ('제4의 벽을 과감히 허물고') separating the stage and audience seats, opening a new horizon of open theatre breathing together with spectators."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "소리꾼의 창과 고수의 추임새, 소리의 이면, 탈춤의 골계미, 제4의 벽 허물기!"
+      ],
+      "culturalNotes": [
+        "판소리는 2003년 유네스코 인류무형문화유산으로 등재되었으며, '추임새'는 관객이 단순 관람자를 넘어 공연의 공동 창작자로 참여하게 하는 한국 전통 예술의 핵심 원리입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 과학 기술과 반도체 산업 (Science & High Technology) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "판소리 공연에서 고수나 관객이 소리꾼의 창 도중에 '얼씨구!', '좋다!' 하고 흥을 돋우는 감탄사를 무엇이라 하는가?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (32.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (32.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (32.4.3)."
+            "추임새 (Chuhimsae)",
+            "아니리 (Aniri)",
+            "너름새 (Neoreumsae)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "판소리에서 흥을 돋우고 호흡을 맞추는 감탄사를 '추임새'라고 합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 첨단 과학 기술과 반도체 산업 (Science & Semiconductor Tech) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "전통 탈춤이나 마당극에서 양반의 권위와 위선을 통렬하게 꼬집어 웃음을 자아내는 미적 범주는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (32.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (32.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (32.4.3)."
+            "골계미 (Comical Beauty / 풍자와 해학)",
+            "숭고미 (Sublime Beauty)",
+            "우아미 (Graceful Beauty)"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "부조리한 지배층을 풍자와 익살로 비틀어 웃음을 주는 미적 범주를 '골계미'라고 합니다."
         }
       ]
     },
@@ -15028,14 +15091,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 과학 기술과 반도체 산업 (Science & High Technology) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 32-4)?",
+          "prompt": "판소리에서 사설의 극적 내용과 인물의 정서적 상황을 정확한 음색과 가락으로 일치시켜 구현하는 최고 경지의 예술성을 뜻하는 용어는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (32.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (32.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (32.4.3)."
+            "이면 (裏面 / Inner dramatic truth)",
+            "겉면 (Surface)",
+            "막간 (Intermission)"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "explanation": "사설의 참뜻과 인물의 희로애락을 소리로 완벽히 형상화하는 것을 '이면을 그리다'라고 합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'고수의 추임새와 소리의 이면을 훌륭히 살렸어요'(They superbly brought alive the drummer's exclamation and the sound's inner truth)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "고수의 추임새와 소리의 이면을 훌륭히 살렸어요.",
+            "고수의 추임새와 소리의 이면을 훌륭히 살렸어요"
+          ],
+          "explanation": "고수의 추임새와 + 소리의 이면을 + 훌륭히 + 살렸어요 = 고수의 추임새와 소리의 이면을 훌륭히 살렸어요."
         }
       ]
     }
@@ -15045,56 +15117,65 @@
     "subject": "korean",
     "unit": 32,
     "lessonNumber": 5,
-    "title": "첨단 과학 기술과 반도체 산업 (Science & Semiconductor Tech) (Part 5)",
+    "title": "대한민국예술원 심포지엄 및 이상문학상 수상 작가 평론 실전 종합 담화",
     "level": "C2",
-    "objective": "Comprehensive mastery of 과학 기술과 반도체 산업 (Science & High Technology).",
+    "objective": "근현대 소설, 현대 시학, 예술 비평 및 공연 미학을 총망라하여 대한민국 최고 권위의 문학상 심사평과 학술 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 첨단 과학 기술과 반도체 산업 (Science & Semiconductor Tech) » (제5절)의 핵심 언어 요소와 과학 기술과 반도체 산업 (Science & High Technology)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "대한민국예술원 학술 심포지엄 및 이상문학상(Yi Sang Literary Award) 대상 수상작 심사평에서 펼쳐지는 최고 수준의 실전 문학·예술 비평 담화 모델입니다.\n\n1. 최고 권위 문학상 심사평 및 수상 인터뷰 실전 모델:\n- 심사위원장(원로 평론가): 이번 수상작은 식민지와 분단의 역사적 상흔을 **알레고리의 다층적 층위**로 구축하고, 파편화된 현대인의 실존적 불안을 **유려한 시적 문체로 형상화**한 탁월한 걸작입니다. 감상적 감정 과잉을 경계하며 **미학적 거리두기**를 견지한 서사적 긴장감은 한국 소설의 지평을 한 단계 확장하였습니다.\n- 수상 작가: 과분한 영예에 머리 숙여 감사드립니다. 저는 우리 민족의 전통적 **한(恨)과 비극미**를 오늘의 현실 속에서 어떻게 **카타르시스로 승화시킬 것인가**를 끊임없이 자문해 왔습니다. 판소리의 고수가 소리꾼에게 건네는 **추임새**처럼, 제 글이 고단한 삶을 살아가는 이웃들의 가슴에 따스한 위로로 가닿기를 소망합니다.\n- 심사위원: 작가의 문학적 진정성과 치열한 작가 정신에 아낌없는 찬사를 보내며, 한국 문학이 세계 문학의 중심 무대로 힘차게 도약하기를 기대합니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (32.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "심사위원회는 본 작품이 현대 한국 문학의 미학적 지평을 넓히고 인간 실존의 비극미를 완벽히 형상화했다고 만장일치로 평정하였습니다.",
+          "reading": "Simsawiwonhoe-neun bon jakpum-i hyeondae hanguk munhak-ui mihakjeok jipyeong-eul neolpigo in-gan siljon-ui bigeukmi-reul wanbyeokhi hyeongsanghwahaetdago manjang-ilchi-ro pyeongjeonghayeotseumnida.",
+          "translation": "The judging committee unanimously evaluated that this work broadened the aesthetic horizons of modern Korean literature and perfectly concretized the tragic beauty of human existence."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (32.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "한국 문학의 깊은 서정성과 날카로운 역사의식은 세계인들의 가슴속에 깊은 울림과 감동을 선사하고 있습니다.",
+          "reading": "Hanguk munhak-ui gipeun seojeongseong-gwa nalkaroun yeoksauisik-eun segyein-deul-ui gaseumsog-e gipeun ullim-gwa gamdong-eul seonsahago itseumnida.",
+          "translation": "The deep lyricism and sharp historical consciousness of Korean literature are presenting deep resonance and emotion in the hearts of global citizens."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (32.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "전통의 창조적 계승과 현대적 변용이야말로 독창적인 예술 세계를 구축하는 불멸의 원동력입니다.",
+          "reading": "Jeontong-ui changjojeok gyeseung-gwa hyeondaejeok byeonyong-iyamallo dokchangjeogin yesul segye-reul guchukhaneun bulmyeol-ui wondongryeok-imnida.",
+          "translation": "Creative inheritance and modern transformation of tradition is indeed the immortal driving force establishing an original artistic world."
+        },
+        {
+          "target": "문학은 고통받는 자들의 목소리를 대변하고 시대의 어둠을 밝히는 꺼지지 않는 양심의 등불입니다.",
+          "reading": "Munhak-eun gotongbanneun jadeul-ui moksori-reul daebyeonhago sidae-ui eodum-eul balkhineun kkeojiji anneun yangsim-ui deungbul-imnida.",
+          "translation": "Literature is an unquenchable beacon of conscience speaking for the voices of suffering souls and illuminating the darkness of the era."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "문학상 심사: 알레고리의 층위, 비극미 승화, 추임새 같은 연대와 위로!"
+      ],
+      "culturalNotes": [
+        "한국의 '이상문학상'은 소설가 이상의 예술적 업적을 기리기 위해 제정된 대한민국 최고 권위의 중·단편 문학상으로, 한강, 이문열, 신경숙 등 수많은 거장들이 거쳐 간 한국 순문학의 요람입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 과학 기술과 반도체 산업 (Science & High Technology) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "문학상 심사평에서 작품의 예술적 완성도와 수준을 가장 품격 있게 칭찬하는 표현은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (32.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (32.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (32.5.3)."
+            "인간 실존의 비극미를 유려하게 형상화하여 한국 문학의 지평을 넓혔다.",
+            "글자가 아주 예쁘게 인쇄되어 있어서 만점을 주었다.",
+            "작가가 유명한 사람이니까 무조건 상을 주기로 했다."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'비극미를 유려하게 형상화하여 지평을 넓혔다'는 최고급 문학 비평 수사입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 첨단 과학 기술과 반도체 산업 (Science & Semiconductor Tech) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "문학상 수상 소감에서 독자와 이웃에 대한 문학적 헌신과 위로의 마음을 전할 때 가장 감동적인 C2 표현은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (32.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (32.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (32.5.3)."
+            "판소리의 추임새처럼 제 글이 이웃들의 고단한 삶에 따스한 위로로 가닿기를 소망합니다.",
+            "상금을 많이 받았으니 이제 글을 그만 쓰겠습니다.",
+            "나 혼자 잘나서 상을 받은 것이니 감사할 필요가 없습니다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "전통 예술의 '추임새'를 비유로 들어 삶의 위로와 연대를 표현하는 소감이 가장 격조 높습니다."
         }
       ]
     },
@@ -15102,14 +15183,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 과학 기술과 반도체 산업 (Science & High Technology) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 32-5)?",
+          "prompt": "다음 중 한국 문학 및 예술 비평 최고급 C2 담화로서 가장 완벽한 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (32.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (32.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (32.5.3)."
+            "역사적 상흔을 알레고리로 승화시키고 미학적 거리두기를 통해 인간 실존의 비극미를 유려하게 형상화하였습니다.",
+            "소설이 너무 길어서 읽기 힘들었으니 줄거리를 요약해서 다시 제출하십시오.",
+            "시는 재미가 없으니 앞으로는 만화책만 출판하는 것이 좋습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'역사적 상흔의 알레고리 승화', '미학적 거리두기', '비극미의 유려한 형상화'는 완벽한 최고급 C2 문학 비평입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'비극미를 유려하게 형상화하여 문학상을 받았어요'(They concretized tragic beauty fluently and received a literary award)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "비극미를 유려하게 형상화하여 문학상을 받았어요.",
+            "비극미를 유려하게 형상화하여 문학상을 받았어요"
+          ],
+          "explanation": "비극미를 + 유려하게 + 형상화하여 + 문학상을 + 받았어요 = 비극미를 유려하게 형상화하여 문학상을 받았어요."
         }
       ]
     }
