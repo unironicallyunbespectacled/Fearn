@@ -11145,53 +11145,62 @@
     "subject": "hindi",
     "unit": 27,
     "lessonNumber": 1,
-    "title": "हिंदी साहित्य, छायावाद और आधुनिक गद्य (Literature & Poetics) (Part 1)",
+    "title": "हिंदी साहित्य का इतिहास व काल विभाजन (History of Hindi Literature & Eras)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.1) with authentic linguistic precision.",
+    "objective": "हिंदी साहित्य के ऐतिहासिक कालखंडों (आदिकाल, भक्तिकाल, रीतिकाल, आधुनिक काल), प्रमुख रचनाकारों एवं काव्य प्रवृत्तियों की शास्त्रीय शब्दावली में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी साहित्य के ऐतिहासिक विकास और काल विभाजन के मानक आलोचनात्मक नियम:\n\n1. **आचार्य रामचंद्र शुक्ल का काल विभाजन**:\n   - **आदिकाल (वीरगाथा काल: संवत् 1050-1375)** — रासो काव्य (पृथ्वीराज रासो), सिद्ध एवं नाथ साहित्य तथा चारण काव्य परंपरा;\n   - **भक्तिकाल (स्वर्ण युग: संवत् 1375-1700)** — लोकजागरण और भक्ति की अविरल धारा;\n   - **रीतिकाल (श्रृंगार काल: संवत् 1700-1900)** — दरबारी काव्य, लक्षण ग्रंथ एवं रीतिबद्ध-रीतिमुक्त परंपरा (बिहारी, केशवदास, घनानंद);\n   - **आधुनिक काल (गद्य काल: संवत् 1900 से अब तक)** — खड़ी बोली गद्य और राष्ट्रीय चेतना का अभ्युदय।\n\n2. **भक्तिकाल की दो प्रमुख शाखाएं**:\n   - **निर्गुण काव्य धारा** — ज्ञानाश्रयी शाखा (संत कबीरदास) एवं प्रेमाश्रयी सूफी शाखा (मलिक मोहम्मद जायसी — पद्मावत);\n   - **सगुण काव्य धारा** — रामाश्रयी शाखा (गोस्वामी तुलसीदास — रामचरितमानस) एवं कृष्णाश्रयी शाखा (सूरदास — सूरसागर)।\n\n3. **आधुनिक काल का नवजागरण**:\n   - *भारतेंदु युग और द्विवेदी युग ने ब्रजभाषा के स्थान पर खड़ी बोली को काव्य और गद्य की सर्वमान्य भाषा बनाया।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 27.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 27."
+          "target": "आचार्य रामचंद्र शुक्ल ने हिंदी साहित्य के इतिहास को चार सुस्पष्ट युगों — आदिकाल, भक्तिकाल, रीतिकाल और आधुनिक काल में वैज्ञानिक रूप से विभाजित किया।",
+          "reading": "Aachaarya Ramchandra Shukla ne hindi saahitya ke itihaas ko chaar suspasht yugon — Aadikaal, Bhaktikaal, Reetikaal aur Aadhunik kaal mein vaijnyaanik roop se vibhaajit kiya. [aːtʃaːrjə raːmtʃən̪d̪rə ʃʊklə neː ɦɪn̪d̪iː saːɦɪt̪jə keː ɪt̪ɪhaːs koː tʃaːr sʊspəʂʈ jʊɡõː aːd̪ɪkaːl bʱəkt̪ɪkaːl riːt̪ɪkaːl ɔːr aːd̪ʱʊnɪk kaːl mẽː ʋɛːdʒɲaːnɪk ruːp seː ʋɪbʱaːdʒɪt̪ kɪjaː] (ah-CHAHR-yuh Rahm-chuhn-druh SHOOK-luh nay heen-DEE sah-HEET-yuh kay ee-tee-HAHS koh chahr soos-PUSHT yoo-GOHN — ah-dee-KAHL, bhuhk-tee-KAHL, ree-tee-KAHL owr ah-dhoo-NEEK kahl mayn vy-gyah-NEEK roop say vee-bhah-JEET kee-YAH)",
+          "translation": "Acharya Ramchandra Shukla scientifically demarcated the history of Hindi literature into four distinct epochs — the Early Period (Adikal), Devotional Period (Bhaktikal), Scholastic-Erotic Period (Reetikal), and Modern Period (Aadhunik kal)."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 27-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "भक्तिकाल को हिंदी साहित्य का 'स्वर्ण युग' कहा जाता है, जिसमें कबीर की निर्गुण वाणी और तुलसीदास के रामचरितमानस ने लोकमानस को नैतिक दिशा दी।",
+          "reading": "Bhaktikaal ko hindi saahitya ka 'svarna yug' kaha jaata hai, jismein Kabir ki nirgun vaani aur Tulsidas ke Ramcharitmanas ne lokmaanas ko naitik disha dee. [bʱəkt̪ɪkaːl koː ɦɪn̪d̪iː saːɦɪt̪jə kaː sʋərɳ jʊɡ kəɦaː dʒaːt̪aː hɛː dʒɪsmẽː kəbiːr kiː nɪrɡʊɳ ʋaːɳiː ɔːr t̪ʊlsiːd̪aːs keː raːmtʃərɪt̪maːnəs neː loːkmaːnəs koː nɛːt̪ɪk d̪ɪʃaː d̪iː] (bhuhk-tee-KAHL koh heen-DEE sah-HEET-yuh kah SVUHR-nuh yoog KUH-hah JAH-tah hy, jees-MAYN kuh-BEER kee neer-GOON vah-NEE owr tool-see-DAHS kay Rahm-chuh-reet-MAH-nuhs nay lohk-mah-NUHS koh NY-teek dee-SHAH DEE)",
+          "translation": "The Bhakti period is termed the 'Golden Age' of Hindi literature, wherein the formless mysticism of Kabir and the Ramcharitmanas of Tulsidas provided moral direction to the popular consciousness."
+        },
+        {
+          "target": "आधुनिक काल के आरंभ में भारतेंदु हरिश्चंद्र ने खड़ी बोली गद्य की सुदृढ़ नींव रखकर राष्ट्रीय चेतना और सामाजिक सुधार के नए युग का सूत्रपात किया।",
+          "reading": "Aadhunik kaal ke aarambh mein Bharatendu Harishchandra ne khadi boli gadya ki sudriddh neenv rakhkar raashtreey chetana aur saamaajik sudhaar ke naye yug ka sootrapaat kiya. [aːd̪ʱʊnɪk kaːl keː aːrəmbʱ mẽː bʱaːrt̪eːn̪d̪ʊ ɦərɪʃtʃən̪d̪rə neː kʰəɽiː boːliː ɡəd̪jə kiː sʊdrɪɖːʱ niːnʋ rəkʰkər raːʂʈriːj tʃeːt̪naː ɔːr saːmaːdʒɪk sʊd̪ʱaːr keː nəjeː jʊɡ kaː suːt̪rəpaːt̪ kɪjaː] (ah-dhoo-NEEK kahl kay ah-RUHMBH mayn bhahr-TAYN-doo huh-reesh-CHUHN-druh nay khuh-DEE boh-LEE GUHD-yuh kee soo-DREEDH neenv RUKH-kuhr rahsh-TREE-yuh chay-tuh-NAH owr sah-MAH-jeek soo-DHAHR kay nuh-YAY yoog kah soo-truh-PAHT kee-YAH)",
+          "translation": "At the dawn of the modern era, Bharatendu Harishchandra laid the solid foundation of Khadi Boli prose, ushering in a new epoch of national consciousness and social reform."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "साहित्यिक काल: आदिकाल (वीरगाथा), भक्तिकाल (स्वर्ण युग), रीतिकाल (श्रृंगार), आधुनिक काल (खड़ी बोली गद्य)!"
+      ],
+      "culturalNotes": [
+        "आधुनिक हिंदी के जनक भारतेंदु हरिश्चंद्र का प्रसिद्ध दोहा भाषा प्रेम का मूल मंत्र है: 'निज भाषा उन्नति अहै, सब उन्नति को मूल। बिन निज भाषा-ज्ञान के, मिटत न हिय को सूल॥'"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"समझना\":",
+          "prompt": "हिंदी साहित्य के किस कालखंड को आध्यात्मिक और नैतिक समृद्धि के कारण 'स्वर्ण युग' कहा जाता है?",
           "options": [
-            "हम इस पाठ में इकाई 27.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («जानना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सोचना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («याद रखना» का अनुचित स्थान)"
+            "भक्तिकाल (Bhaktikaal - Devotional Era [Golden Age of Hindi Literature])",
+            "सिनेमा काल (चलचित्र युग)",
+            "इंटरनेट काल (डिजिटल युग)",
+            "मशीनी युग (यांत्रिक काल)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "कबीर, सूर, तुलसी और जायसी जैसे महान संतों के युग को «भक्तिकाल» (स्वर्ण युग) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"समझना\":",
+          "prompt": "आधुनिक हिंदी साहित्य और खड़ी बोली गद्य का जनक किसे माना जाता है?",
           "options": [
-            "हम इस पाठ में इकाई 27.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सोचना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («याद रखना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («जानना» का अशुद्ध रूप)"
+            "भारतेंदु हरिश्चंद्र (Bharatendu Harishchandra - Father of Modern Hindi Prose & Renaissance)",
+            "सिकंदर महान (ग्रीक विजेता)",
+            "कालिदास (संस्कृत महाकवि)",
+            "बाणभट्ट (हर्षचरित लेखक)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "खड़ी बोली गद्य और आधुनिक हिंदी नवजागरण के अग्रदूत «भारतेंदु हरिश्चंद्र» हैं।"
         }
       ]
     },
@@ -11199,17 +11208,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"समझना\": Which sentence is completely correct?",
+          "prompt": "हिंदी साहित्य के इतिहास व काल विभाजन (History of Hindi Literature) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 27.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («याद रखना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («जानना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सोचना» से संबंधित)"
+            "आदिकाल की शौर्य गाथाओं से लेकर भक्तिकाल के लोकमंगल और आधुनिक काल के नवजागरण तक हिंदी साहित्य भारतीय संस्कृति का दर्पण है। (From the heroic epics of the Early Era to the popular welfare of the Devotional Era and the Renaissance of the Modern Era, Hindi literature is the living mirror of Indian culture.)",
+            "साहित्य के सारे ग्रंथ चूल्हे में जला देने चाहिए।",
+            "तुलसीदास ने केवल क्रिकेट मैच पर कविताएं लिखी थीं।",
+            "भक्तिकाल में कोई कवि नहीं था।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«आदिकाल की शौर्य गाथाओं से लेकर... भारतीय संस्कृति का दर्पण है» साहित्य इतिहास का अत्यंत मानक और परिपक्व वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u27-l2": {
@@ -11217,53 +11227,62 @@
     "subject": "hindi",
     "unit": 27,
     "lessonNumber": 2,
-    "title": "हिंदी साहित्य, छायावाद और आधुनिक गद्य (Literature & Poetics) (Part 2)",
+    "title": "छायावादी काव्य धारा और प्रमुख कवि चतुष्टय (Chhayavadi Poetry & The Great Quartette)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.2) with authentic linguistic precision.",
+    "objective": "छायावाद (1918-1936) के चार प्रमुख स्तंभों (जयशंकर प्रसाद, सूर्यकांत त्रिपाठी 'निराला', सुमित्रानंदन पंत, महादेवी वर्मा) तथा उनकी युगांतरकारी कृतियों की काव्यशास्त्रीय शब्दावली में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "छायावादी काव्य आंदोलन और कवि चतुष्टय के मानक पारिभाषिक नियम:\n\n1. **छायावाद की काव्यगत विशेषताएं**:\n   - **स्थूल के प्रति सूक्ष्म का विद्रोह** (डॉ. नगेंद्र) — रूढ़िवादिता और उपदेशात्मकता के विरुद्ध वैयक्तिक सौंदर्यबोध;\n   - **प्रकृति का मानवीकरण** — प्रकृति में मानवीय चेतना और संवेदनात्मक अनुभूतियों का प्रकटीकरण;\n   - **रहस्यवाद एवं स्वानुभूति** — अंतर्मुखी भाव, कल्पनाशीलता और प्रतीकात्मक लाक्षणिक भाषा।\n\n2. **छायावाद के चार प्रमुख स्तंभ (कवि चतुष्टय)**:\n   - **जयशंकर प्रसाद (ब्रह्मा)** — कामायनी (महाकाव्य), आंसू, लहर, झरना (दार्शनिक आनंदवाद);\n   - **सूर्यकांत त्रिपाठी 'निराला' (महेश)** — राम की शक्तिपूजा, सरोज-स्मृति, कुकुरमुत्ता (क्रांतिकारी ओज व मुक्त छंद);\n   - **सुमित्रानंदन पंत (विष्णु)** — पल्लव, वीणा, गुंजन, चिदंबरा (प्रकृति के सुकुमार कवि, ज्ञानपीठ पुरस्कृत);\n   - **महादेवी वर्मा (शक्ति/महादेवी)** — यामा, नीहार, रश्मि, सांध्यगीत (वेदना और रहस्यवादी करुणा, ज्ञानपीठ पुरस्कृत)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 27.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 27."
+          "target": "जयशंकर प्रसाद के अमर महाकाव्य 'कामायनी' में मनु और श्रद्धा के माध्यम से बुद्धि और हृदय के समन्वय का उदात्त मानवतावादी संदेश दिया गया है।",
+          "reading": "Jaishankar Prasad ke amar mahaakaavya 'Kamayani' mein Manu aur Shraddha ke maadhyam se buddhi aur hriday ke samanvay ka udaatt maanavataavaadi sandesh diya gaya hai. [dʒəjʃəŋkər prəsaːd̪ keː əmər məɦaːkaːʋjə kaːmaːjəniː mẽː mənʊ ɔːr ʃrəd̪ːʱaː keː maːd̪ʱjəm seː bʊd̪ːʱɪ ɔːr ɦrɪd̪əj keː səmənʋəj kaː ʊd̪aːt̪ː maːnʋətaːʋaːd̪iː sən̪d̪eːʃ d̪ɪjaː ɡəjaː hɛː] (juy-SHUHN-kuhr pruh-SAHD kay uh-MUHR muh-hah-KAHV-yuh Kah-mah-yuh-NEE mayn MUH-noo owr SHRUHD-dhah kay MAHDH-yuhm say BOOD-dhee owr HREE-duhy kay suh-muhn-VUY kah oo-DAHT mah-nuh-vuh-tah-VAH-dee suhn-DAYSH DEE-yah GUH-yah hy)",
+          "translation": "In Jaishankar Prasad's immortal epic 'Kamayani', a sublime humanistic message advocating the harmony of intellect and heart is conveyed through the archetypes of Manu and Shraddha."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 27-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "सूर्यकांत त्रिपाठी 'निराला' ने 'राम की शक्तिपूजा' में ओजस्वी छंद-मुक्त काव्य और पराजित मन के संघर्ष तथा विजय का अप्रतिम चित्रण किया।",
+          "reading": "Suryakant Tripathi 'Nirala' ne 'Ram Ki Shaktipooja' mein ojasvee chhand-mukt kaavya aur paraajit man ke sangharsh tatha vijay ka apratim chitran kiya. [suːrjəkəːn̪t̪ trɪpaːʈʰiː nɪraːlaː neː raːm kiː ʃəkt̪ɪpuːdʒaː mẽː oːdʒəsʋiː tʃʰən̪d̪mʊkt̪ kaːʋjə ɔːr pəraːdʒɪt̪ mən keː səŋɡʱərʂ t̪ət̪ʰaː ʋɪdʒəj kaː əprət̪ɪm tʃɪtrəɳ kɪjaː] (soor-yuh-KAHNT tree-pah-THEE nee-RAH-lah nay Rahm kee shuhk-tee-POO-jah mayn oh-juhs-VEE chhuhnd-MOOKT KAHV-yuh owr puh-rah-JEET muhn kay suhng-GHUHRSH tuh-THAH vee-JUHY kah uh-pruh-TEEM cheet-RUHN kee-YAH)",
+          "translation": "In 'Ram Ki Shaktipooja', Suryakant Tripathi 'Nirala' rendered an incomparable portrayal of vigorous free-verse poetics and the struggle and ultimate triumph of a dispirited mind."
+        },
+        {
+          "target": "महादेवी वर्मा के गीतों में विरह की अलौकिक वेदना, करुणा और दार्शनिक रहस्यवाद की जो अंतर्धारा प्रवाहित है, वह छायावादी काव्य का सर्वोच्च शिखर है।",
+          "reading": "Mahadevi Varma ke geeton mein virah ki alaukik vedana, karuna aur daarshanik rahasyavaad ki jo antardhaara pravaahit hai, vah chhaayaavaadi kaavya ka sarvochch shikhar hai. [məɦaːd̪eːʋiː ʋərmaː keː ɡiːt̪õː mẽː ʋɪrəɦ kiː əlɔːkɪk ʋeːd̪naː kərʊɳaː ɔːr d̪aːrʃənɪk rəɦəsjəʋaːd̪ kiː dʒoː ən̪t̪ərd̪ʱaːraː prəʋaːɦɪt̪ hɛː ʋəɦ tʃʰaːjaːʋaːd̪iː kaːʋjə kaː sərʋoːtʃː ʃɪkʰər hɛː] (muh-hah-DAY-vee vuhr-MAH kay gee-TOHN mayn vee-RUH-huh kee uh-low-KEEK vayd-NAH, kuh-roo-NAH owr dahr-shuh-NEEK ruh-huhs-yuh-VAHD kee joh uhn-tuhr-dhah-RAH pruh-vah-HEET hy, vuh chhah-yah-vah-DEE KAHV-yuh kah suhr-VOHTCH shee-KHUHR hy)",
+          "translation": "The profound undercurrent of celestial pain of separation, compassion, and philosophical mysticism flowing through Mahadevi Varma's lyrics represents the zenith of Chhayavadi poetry."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "छायावाद चतुष्टय: प्रसाद (कामायनी), निराला (शक्तिपूजा), पंत (सुकुमार प्रकृति), महादेवी (वेदना/यामा)!"
+      ],
+      "culturalNotes": [
+        "सुमित्रानंदन पंत को उनके काव्य संग्रह 'चिदंबरा' के लिए हिंदी साहित्य का पहला प्रतिष्ठित 'ज्ञानपीठ पुरस्कार' (1968) प्रदान किया गया था।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"जानना\":",
+          "prompt": "छायावाद के अमर महाकाव्य 'कामायनी' के रचयिता कौन हैं?",
           "options": [
-            "हम इस पाठ में इकाई 27.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सोचना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («याद रखना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बोलना» का अनुचित स्थान)"
+            "जयशंकर प्रसाद (Jaishankar Prasad - Author of Kamayani & Pioneer of Chhayavad)",
+            "प्रेमचंद (उपन्यासकार)",
+            "रामधारी सिंह दिनकर (राष्ट्रकवि)",
+            "मैथिलीशरण गुप्त (द्विवेदी युग कवि)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "कामायनी के अमर रचयिता छायावादी महाकवि «जयशंकर प्रसाद» हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"जानना\":",
+          "prompt": "छायावादी कवयित्री जिन्हें 'आधुनिक युग की मीरा' भी कहा जाता है, वे कौन हैं?",
           "options": [
-            "हम इस पाठ में इकाई 27.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («याद रखना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बोलना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सोचना» का अशुद्ध रूप)"
+            "महादेवी वर्मा (Mahadevi Varma - The Modern Meera / Mystic Poetic Genius)",
+            "सुभद्रा कुमारी चौहान (झांसी की रानी कवयित्री)",
+            "सरोजिनी नायडू (नाइटिंगेल ऑफ इंडिया)",
+            "अमृता प्रीतम (पंजाबी साहित्यकार)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "अलौकिक वेदना और विरह के गीतों के कारण «महादेवी वर्मा» को आधुनिक युग की मीरा कहा जाता है।"
         }
       ]
     },
@@ -11271,17 +11290,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"जानना\": Which sentence is completely correct?",
+          "prompt": "छायावादी काव्य धारा और सौंदर्यबोध (Chhayavadi Poetics) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 27.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बोलना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सोचना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («याद रखना» से संबंधित)"
+            "प्रकृति का सजीव मानवीकरण और मानवीय संवेदनाओं की सूक्ष्म अभिव्यक्ति छायावादी युग को हिंदी कविता का अनुपम उत्कर्ष बनाती है। (Vibrant personification of nature and subtle expression of human emotions make the Chhayavadi era an incomparable pinnacle of Hindi poetry.)",
+            "कामायनी को बाज़ार में रद्दी के भाव बेच देना चाहिए।",
+            "छायावाद केवल भूतों की कहानियों को कहते हैं।",
+            "निराला ने केवल गणित के सूत्र लिखे थे।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«प्रकृति का सजीव मानवीकरण और मानवीय संवेदनाओं की सूक्ष्म अभिव्यक्ति... अनुपम उत्कर्ष बनाती है» छायावादी काव्यशास्त्र का शुद्धतम वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u27-l3": {
@@ -11289,53 +11309,62 @@
     "subject": "hindi",
     "unit": 27,
     "lessonNumber": 3,
-    "title": "हिंदी साहित्य, छायावाद और आधुनिक गद्य (Literature & Poetics) (Part 3)",
+    "title": "उपन्यास सम्राट प्रेमचंद और यथार्थवादी कथा साहित्य (Munshi Premchand, Novel & Realist Fiction)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.3) with authentic linguistic precision.",
+    "objective": "मुंशी प्रेमचंद (1880-1936), आदर्शोन्मुख यथार्थवाद (Idealistic Realism), अमर उपन्यासों ('गोदान', 'गबन') तथा उनकी प्रसिद्ध कहानियों के आलोचनात्मक विश्लेषण में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "मुंशी प्रेमचंद और हिंदी यथार्थवादी कथा साहित्य के मानक समीक्षात्मक नियम:\n\n1. **प्रेमचंद की कथा दृष्टि (आदर्शोन्मुख यथार्थवाद)**:\n   - समाज की कुरूप और कठोर वास्तविकताओं का यथार्थ चित्रण करते हुए अंत में मानवीय आदर्श और नैतिक विजय की स्थापना;\n   - बाद की कृतियों ('गोदान', 'कफ़न') में पूर्ण विशुद्ध यथार्थवाद (क्रूर सामाजिक सच्चाई) का साक्षात्कार।\n\n2. **कालजयी उपन्यास**:\n   - **'गोदान' (1936)** — भारतीय कृषक जीवन की अमर महाकाव्यात्मक त्रासदी; मुख्य पात्र: होरी, धनिया, गोबर, रायसाहब, मालती, मेहता;\n   - **'गबन'** — आभूषण प्रेम, सामाजिक दिखावे और नैतिक पतन का मनोवैज्ञानिक विश्लेषण;\n   - **'निर्मला'** — अनमेल विवाह और दहेज प्रथा के अभिशाप का मार्मिक चित्रण;\n   - **'रंगभूमि' व 'कर्मभूमि'** — गांधीवादी सत्याग्रह, सामाजिक समानता और किसान आंदोलन।\n\n3. **अमर लघु कथाएं (मानसरोवर खंड 1-8)**:\n   - *'कफ़न' (माधव और घीसू), 'पूस की रात' (हलकू और झबरा कुत्ता), 'पंच परमेश्वर' (अलगू चौधरी और जुम्मन शेख), 'ईदगाह' (हामिद और चिमटा)।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 27.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 27."
+          "target": "मुंशी प्रेमचंद के उपन्यास 'गोदान' का मुख्य पात्र 'होरी' भारतीय शोषित किसान के शाश्वत ऋणग्रस्त संघर्ष और अदम्य जिजीविषा का सजीव प्रतीक है।",
+          "reading": "Munshi Premchand ke upanyaas 'Godan' ka mukhya paatr 'Hori' bhaarteey shoshit kisaan ke shaashwat ringrast sangharsh aur adamy jijeevisha ka sajeev prateek hai. [mʊnʃiː preːmtʃən̪d̪ keː ʊpənjaːs ɡoːd̪aːn kaː mʊkʰjə paːtrə hoːriː bʱaːrt̪iːj ʃoːʂɪt̪ kɪsaːn keː ʃaːʃʋət̪ rɪɳɡrəst̪ səŋɡʱərʂ ɔːr əd̪əmjə dʒɪdʒiːʋɪʂaː kaː sədʒiːʋ prət̪iːk hɛː] (MOON-shee Praym-CHUHND kay oop-uhn-YAHS Goh-DAHN kah MOOKH-yuh PAH-truh HOH-ree bhahr-TEE-yuh shoh-SHEET kee-SAHN kay shahsh-VUHT reen-GRUHST suhng-GHUHRSH owr uh-DUHM-yuh jee-jee-vee-SHAH kah suh-JEEV pruh-TEEK hy)",
+          "translation": "The protagonist 'Hori' of Munshi Premchand's novel 'Godan' is the living symbol of the perpetual debt-ridden struggle and indomitable will to live of the exploited Indian peasant."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 27-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "प्रेमचंद ने अपनी यथार्थवादी कहानियों 'कफ़न' और 'पूस की रात' में ग्रामीण समाज की कठोर सामाजिक विषमताओं और अमानवीय निर्धनता का नग्न यथार्थ उकेरा।",
+          "reading": "Premchand ne apni yathaarthavaadi kahaaniyon 'Kafan' aur 'Poos Ki Raat' mein graameen samaaj ki kathor saamaajik vishamtaaon aur amaanveey nirdhanta ka nagn yathaarth ukera. [preːmtʃən̪d̪ neː əpniː jət̪ʰaːrt̪ʰʋaːd̪iː kəɦaːnɪjõː kəfən ɔːr puːs kiː raːt̪ mẽː ɡraːmiːɳ səmaːdʒ kiː kəʈʰoːr saːmaːdʒɪk ʋɪʂəmtaːõː ɔːr əmaːnʋiːj nɪrd̪ʱən̪t̪aː kaː nəɡnə jət̪ʰaːrt̪ʰ ʊkeːraː] (Praym-CHUHND nay uhp-NEE yuh-thahr-thuh-vah-DEE kuh-hah-nee-YOHN Kuh-FUHN owr Poos kee RAHT mayn grah-MEEN suh-MAHJ kee kuh-THOHR sah-MAH-jeek vee-shuhm-tah-OHN owr uh-mahn-VEE-yuh neer-dhuhn-TAH kah NUHG-nuh yuh-THAHRTH oo-KAY-rah)",
+          "translation": "In his realist short stories 'Kafan' and 'Poos Ki Raat', Premchand etched the unvarnished reality of harsh social disparities and inhumane poverty in rural society."
+        },
+        {
+          "target": "उनकी कथा शैली में मुहावरेदार ठेठ हिंदुस्तानी भाषा, सजीव संवाद और गहरी मानवीय सहानुभूति का अनूठा और अद्वितीय सम्मिश्रण देखने को मिलता है।",
+          "reading": "unki katha shailee mein muhaavaredaar theth hindustaani bhaasha, sajeev samvaad aur gahree maanveey sahaanubhooti ka anootʰa aur adviteey sammishran dekhne ko milta hai. [ʊnkiː kət̪ʰaː ʃɛːliː mẽː mʊɦaːʋreːdaːr ʈʰeːʈʰ ɦɪn̪d̪uːst̪aːniː bʱaːʂaː sədʒiːʋ səmʋaːd̪ ɔːr ɡəɦriː maːnʋiːj səɦaːnʊbʱuːt̪ɪ kaː ənuːtʰaː ɔːr əd̪ʋɪt̪iːj səmːɪʃrəɳ d̪eːkʰneː koː mɪlt̪aː hɛː] (oon-KEE kuh-THAH shy-LEE mayn moo-hah-vray-DAHR THAYTH heen-doos-tah-NEE bhah-SHAH, suh-JEEV suhm-VAHD owr guh-REE mahn-VEE-yuh sah-hah-noo-BHOO-tee kah uh-NOO-thah owr uhd-vee-TEE-yuh suhm-MEESH-ruhn DAYKH-nay koh MEEL-tah hy)",
+          "translation": "In his narrative style, one finds an unparalleled and unique blend of idiomatic authentic Hindustani language, vivid dialogue, and profound human empathy."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "प्रेमचंद साहित्य: गोदान (होरी/कृषक महाकाव्य), गबन (आभूषण), कफ़न (यथार्थवाद), ईदगाह (हामिद का चिमटा)!"
+      ],
+      "culturalNotes": [
+        "मुंशी प्रेमचंद का मूल नाम धनपत राय था। उन्होंने पहले उर्दू में 'नवाब राय' के नाम से 'सोज़े-वतन' लिखा, जिसे ब्रिटिश हुकूमत द्वारा ज़ब्त किए जाने के बाद उन्होंने 'प्रेमचंद' नाम अपनाया।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"सोचना\":",
+          "prompt": "भारतीय किसान के जीवन की अमर महाकाव्यात्मक त्रासदी प्रस्तुत करने वाले उपन्यास 'गोदान' के लेखक कौन हैं?",
           "options": [
-            "हम इस पाठ में इकाई 27.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («याद रखना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बोलना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पढ़ना» का अनुचित स्थान)"
+            "मुंशी प्रेमचंद (Munshi Premchand - Novelist Laureate / Upanyas Samrat)",
+            "रवींद्रनाथ ठाकुर (गीतांजलि रचनाकार)",
+            "बंकिम चंद्र चट्टोपाध्याय (आनंदमठ लेखक)",
+            "शरदचंद्र चट्टोपाध्याय (देवदास रचयिता)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "हिंदी उपन्यास सम्राट «मुंशी प्रेमचंद» ने कालजयी उपन्यास 'गोदान' की रचना की।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"सोचना\":",
+          "prompt": "प्रेमचंद की प्रसिद्ध कहानी 'ईदगाह' का बाल पात्र हामिद मेले से अपनी दादी अमीना के लिए क्या खरीदता है?",
           "options": [
-            "हम इस पाठ में इकाई 27.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बोलना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पढ़ना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («याद रखना» का अशुद्ध रूप)"
+            "लोहे का चिमटा (Chimta - Iron tongs [symbol of child empathy and maturity])",
+            "खिलौना बंदूक (मिट्टी का खिलौना)",
+            "मीठी जलेबी (मिठाई)",
+            "रेशमी कुरता (वस्त्र)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "हामिद अपनी दादी के हाथ रोटी बनाते समय जलने से बचाने के लिए मेले से «चिमटा» खरीदता है।"
         }
       ]
     },
@@ -11343,17 +11372,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"सोचना\": Which sentence is completely correct?",
+          "prompt": "मुंशी प्रेमचंद और यथार्थवादी कथा साहित्य (Premchand & Realist Fiction) का पूर्णतः प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 27.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पढ़ना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («याद रखना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बोलना» से संबंधित)"
+            "प्रेमचंद का कथा साहित्य शोषित, पीड़ित और उपेक्षित जनसामान्य की पीड़ा को स्वर देकर सामाजिक न्याय और मानवीय गरिमा की वकालत करता है। (Premchand's fiction gives voice to the agony of the exploited, oppressed, and neglected common folk, championing social justice and human dignity.)",
+            "प्रेमचंद ने केवल मंगल ग्रह के एलियंस पर उपन्यास लिखे थे।",
+            "गोदान के पात्र होरी को राजा बनाकर महल में रख दिया गया।",
+            "कहानियों में किसानों का नाम लेना पाप है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«प्रेमचंद का कथा साहित्य शोषित, पीड़ित और उपेक्षित जनसामान्य की पीड़ा को स्वर देकर... वकालत करता है» प्रेमचंद साहित्य का सर्वोत्तम और परिपक्व वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u27-l4": {
@@ -11361,53 +11391,62 @@
     "subject": "hindi",
     "unit": 27,
     "lessonNumber": 4,
-    "title": "हिंदी साहित्य, छायावाद और आधुनिक गद्य (Literature & Poetics) (Part 4)",
+    "title": "आधुनिक हिंदी गद्य, नाटक और व्यंग्य विधाएं (Modern Prose, Drama & Satire)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.4) with authentic linguistic precision.",
+    "objective": "हिंदी नाटक (मोहन राकेश), आलोचनात्मक निबंध (आचार्य रामचंद्र शुक्ल, हजारी प्रसाद द्विवेदी) तथा तीक्ष्ण सामाजिक व्यंग्य (हरिशंकर परसाई, शरद जोशी) की विधागत बारीकियों में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "आधुनिक हिंदी गद्य की प्रमुख विधाएं और उनके प्रतिनिधि रचनाकार:\n\n1. **आधुनिक हिंदी नाटक एवं रंगमंच**:\n   - **मोहन राकेश** — 'आषाढ़ का एक दिन' (कालिदास और मल्लिका का अंतर्द्वंद्व), 'आधे-अधूरे' (आधुनिक पारिवारिक विखंडन), 'लहरों के राजहंस';\n   - **धर्मवीर भारती** — 'अंधा युग' (महाभारत युद्ध के अवसान पर आधारित आधुनिक गीतिनाट्य)।\n\n2. **आलोचनात्मक और ललित निबंध**:\n   - **आचार्य रामचंद्र शुक्ल** — 'चिंतामणि' (उत्साह, भय, क्रोध, करुणा आदि मनोविकारों पर गंभीर मनोवैज्ञानिक-सैद्धांतिक निबंध);\n   - **आचार्य हजारी प्रसाद द्विवेदी** — 'कुटज', 'अशोक के फूल' (सांस्कृतिक, दार्शनिक और ललित निबंध)।\n\n3. **तीक्ष्ण सामाजिक एवं राजनीतिक व्यंग्य**:\n   - **हरिशंकर परसाई** — 'विकलांग श्रद्धा का दौर', 'निठल्ले की डायरी', 'सदाचार का ताबीज', 'प्रेमचंद के फटे जूते' (व्यवस्था के पाखंड पर निर्मम प्रहार);\n   - **शरद जोशी** — 'जीप पर सवार इल्लियाँ', 'तिलिस्म', 'अंधों का हाथी'।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 27.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 27."
+          "target": "मोहन राकेश का नाटक 'आषाढ़ का एक दिन' कालिदास के अंतर्द्वंद्व, सृजन और राजसत्ता के मध्य खिंचाव को दर्शाने वाला आधुनिक रंगमंच का कालजयी नाटक है।",
+          "reading": "Mohan Rakesh ka naatak 'Aashaadh Ka Ek Din' Kalidas ke antardwandva, srijan aur raajasatta ke madhya khinchaav ko darshaane vaala aadhunik rangmanch ka kaaljayee naatak hai. [moːɦən raːkeːʃ kaː naːʈək aːʂaːɖʱ kaː eːk d̪ɪn kaːlɪd̪aːs keː ən̪t̪ərd̪ʋən̪d̪ʋə srɪdʒən ɔːr raːdʒsət̪ːaː keː məd̪ʱjə kʰɪntʃaːʋ koː d̪ərʃaːneː ʋaːlaː aːd̪ʱʊnɪk rəŋɡməntʃ kaː kaːldʒəjiː naːʈək hɛː] (MOH-huhn RAH-kaysh kah NAH-tuhk Ah-shahdh kah ayk DEEN Kah-lee-DAHS kay uhn-tuhr-DVUHN-dvuh, SREE-juhn owr rahj-SUHT-tah kay MUHDH-yuh kheen-CHAHV koh duhr-shah-NAY VAH-lah ah-dhoo-NEEK ruhng-MUHNCH kah kahl-juh-YEE NAH-tuhk hy)",
+          "translation": "Mohan Rakesh's play 'Aashaadh Ka Ek Din' is an immortal masterpiece of modern theater depicting Kalidasa's inner conflict, creativity, and the tension with royal power."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 27-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "हरिशंकर परसाई ने अपने तीक्ष्ण सामाजिक और राजनीतिक व्यंग्यों के माध्यम से व्यवस्था के पाखंड, भ्रष्टाचार और संवेदनहीनता पर करारा प्रहार किया।",
+          "reading": "Harishankar Parsai ne apne teekshn saamaajik aur raajneetik vyangyon ke maadhyam se vyavastha ke paakhand, bhrashtaachaar aur samvedanheenata par karaara prahaar kiya. [ɦərɪʃəŋkər pərsaːiː neː əpneː t̪iːkʃɳ saːmaːdʒɪk ɔːr raːdʒniːt̪ɪk ʋjəŋɡjõː keː maːd̪ʱjəm seː ʋjəʋəst̪ʰaː keː paːkʰəɳɖ bʱrəʂʈaːtʃaːr ɔːr səmʋeːd̪ənɦiːnt̪aː pər kəraːraː prəɦaːr kɪjaː] (huh-ree-SHUHN-kuhr puhr-SAH-ee nay uhp-NAY TEEKSH-nuh sah-MAH-jeek owr rahj-nee-TEEK vyuhng-YOHN kay MAHDH-yuhm say vyuh-vuhs-THAH kay pah-KHUHND, bhrush-tah-CHAHR owr suhm-vay-duhn-heen-TAH puhr kuh-RAH-rah pruh-HAHR kee-YAH)",
+          "translation": "Through his incisive social and political satires, Harishankar Parsai struck a devastating blow against systemic hypocrisy, corruption, and insensitivity."
+        },
+        {
+          "target": "आचार्य रामचंद्र शुक्ल के 'चिंतामणि' के मनोविकार संबंधी निबंध हिंदी आलोचना और वैचारिक चिंतन गद्य के सर्वोच्च शास्त्रीय प्रतिमान स्थापित करते हैं।",
+          "reading": "Aachaarya Ramchandra Shukla ke 'Chintamani' ke manovikaar sambandhi nibandh hindi aalochana aur vaichaarik chintan gadya ke sarvochch shaastreey pratimaan sthaapit karte hain. [aːtʃaːrjə raːmtʃən̪d̪rə ʃʊklə keː tʃɪn̪t̪aːməɳɪ keː mənoːʋɪkaːr səmbən̪d̪ʱiː nɪbən̪d̪ʱ ɦɪn̪d̪iː aːloːtʃnaː ɔːr ʋɛːtʃaːrɪk tʃɪn̪t̪ən ɡəd̪jə keː sərʋoːtʃː ʃaːstriːj prət̪ɪmaːn st̪ʰaːpɪt̪ kərt̪eː hɛ̃ː] (ah-CHAHR-yuh Rahm-chuhn-druh SHOOK-luh kay Cheen-tah-MUH-nee kay muh-noh-vee-KAHR suhm-buhn-DHEE nee-BUHNDH heen-DEE ah-lohtch-NAH owr vy-chah-REEK CHEEN-tuhn GUHD-yuh kay suhr-VOHTCH shah-stree-YUH pruh-tee-MAHN sthah-PEET KUHR-tay hyhn)",
+          "translation": "Acharya Ramchandra Shukla's essays on psychological emotions in 'Chintamani' establish the highest classical paradigms of Hindi literary criticism and intellectual prose."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "गद्य विधाएं: नाटक (मोहन राकेश - आषाढ़ का एक दिन), व्यंग्य (हरिशंकर परसाई), निबंध (रामचंद्र शुक्ल - चिंतामणि)!"
+      ],
+      "culturalNotes": [
+        "हरिशंकर परसाई को उनके व्यंग्य संग्रह 'विकलांग श्रद्धा का दौर' के लिए प्रतिष्ठित 'साहित्य अकादमी पुरस्कार' से सम्मानित किया गया था।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"याद रखना\":",
+          "prompt": "कालिदास के जीवन पर आधारित आधुनिक हिंदी नाटक 'आषाढ़ का एक दिन' के रचनाकार कौन हैं?",
           "options": [
-            "हम इस पाठ में इकाई 27.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बोलना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पढ़ना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («लिखना» का अनुचित स्थान)"
+            "मोहन राकेश (Mohan Rakesh - Playwright of Ashadh Ka Ek Din & Aadhe Adhure)",
+            "भारतेंदु हरिश्चंद्र (अंधेर नगरी नाटककार)",
+            "जयशंकर प्रसाद (स्कंदगुप्त नाटककार)",
+            "लक्ष्मीनारायण मिश्र (सिंदूर की होली)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "आधुनिक रंगमंच के युगांतरकारी नाटक 'आषाढ़ का एक दिन' के लेखक «मोहन राकेश» हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"याद रखना\":",
+          "prompt": "हिंदी साहित्य में व्यवस्था की विसंगतियों पर चोट करने वाले मूर्धन्य व्यंग्यकार (Satirist) कौन हैं?",
           "options": [
-            "हम इस पाठ में इकाई 27.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पढ़ना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («लिखना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बोलना» का अशुद्ध रूप)"
+            "हरिशंकर परसाई (Harishankar Parsai - Master of Sharp Political & Social Satire)",
+            "मैथिलीशरण गुप्त (राष्ट्रीय कवि)",
+            "सुभद्रा कुमारी चौहान (वीर रस कवयित्री)",
+            "अयोध्या सिंह उपाध्याय 'हरिऔध' (प्रियप्रवास रचयिता)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "हिंदी में सामाजिक और राजनीतिक व्यंग्य के सर्वोच्च शिखर «हरिशंकर परसाई» हैं।"
         }
       ]
     },
@@ -11415,17 +11454,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"याद रखना\": Which sentence is completely correct?",
+          "prompt": "आधुनिक गद्य, नाटक और व्यंग्य विधाएं (Modern Prose & Drama) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 27.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («लिखना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बोलना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पढ़ना» से संबंधित)"
+            "आधुनिक हिंदी गद्य में नाटक के अंतर्द्वंद्व और व्यंग्य के तीखे प्रहार समाज को आत्ममंथन और नैतिक परिष्कार की नई दृष्टि देते हैं। (In modern Hindi prose, dramatic inner conflicts and the sharp thrusts of satire grant society a fresh perspective of introspection and moral refinement.)",
+            "नाटक देखने वाले को जेल भेज देना चाहिए।",
+            "व्यंग्य का अर्थ केवल लोगों को गाली देना है।",
+            "निबंध केवल खाली पन्नों को कहते हैं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«आधुनिक हिंदी गद्य में नाटक के अंतर्द्वंद्व और व्यंग्य के तीखे प्रहार... नई दृष्टि देते हैं» आधुनिक गद्य विधाओं का आदर्श वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u27-l5": {
@@ -11433,53 +11473,62 @@
     "subject": "hindi",
     "unit": 27,
     "lessonNumber": 5,
-    "title": "हिंदी साहित्य, छायावाद और आधुनिक गद्य (Literature & Poetics) (Part 5)",
+    "title": "हिंदी साहित्य चिंतन व सौंदर्यशास्त्र का समग्र समेकन (Literary Theory, Aesthetics & Modern Poetics Synthesis)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.5) with authentic linguistic precision.",
+    "objective": "भारतीय रस सिद्धांत (Rasa Theory), प्रगतिवाद (Pragativad), प्रयोगवाद व नई कविता ('तार सप्तक', मुक्तिबोध) के समग्र काव्यशास्त्रीय विमर्श में पूर्ण दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारतीय काव्यशास्त्र, आधुनिक साहित्यिक आंदोलन और सौंदर्यशास्त्र का समग्र संश्लेषण:\n\n1. **भारतीय काव्यशास्त्र एवं रस सिद्धांत**:\n   - **रस निष्पत्ति सूत्र (भरतमुनि)** — 'विभावानुभावव्यभिचारिसंयोगाद्रसनिष्पत्तिः' (विभाव, अनुभाव और संचारी भावों के संयोग से स्थायी भाव रस रूप में परिणत होता है);\n   - **नवरस एवं प्रमुख रस** — श्रृंगार (रति), करुण (शोक), वीर (उत्साह), रौद्र (क्रोध), शांत (निर्वेद)।\n\n2. **प्रगतिवाद एवं प्रयोगवाद का आंदोलन**:\n   - **प्रगतिशील लेखक संघ (1936)** — मार्क्सवादी चेतना और किसान-मजदूर वर्ग के संघर्ष का काव्य (नागार्जुन, केदारनाथ अग्रवाल, त्रिलोचन);\n   - **'तार सप्तक' (1943)** — सच्चिदानंद हीरानंद वात्स्यायन 'अज्ञेय' द्वारा संपादित नए प्रयोगों और बिंबों की कविता ('प्रयोगवाद')।\n\n3. **नई कविता एवं मुक्तिबोध की फंतासी**:\n   - **गजानन माधव 'मुक्तिबोध'** — 'अंधेरे में', 'ब्रह्मराक्षस' (तीव्र आत्मसंघर्ष और आधुनिक सभ्यता की जटिलताओं का फंतासी शिल्प);\n   - **रघुवीर सहाय व सर्वेश्वर दयाल सक्सेना** — आम आदमी की विडंबना और राजनीतिक प्रतिरोध की सहज कविता।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 27.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 27."
+          "target": "भक्तिकाल के लोकमंगल से लेकर छायावाद के सौंदर्यबोध और प्रगतिवाद के जनसंघर्ष तक हिंदी साहित्य ने सदैव समाज की वास्तविक धड़कनों को वाणी दी है।",
+          "reading": "Bhaktikaal ke lokmangal se lekar chhaayaavaad ke saundaryabodh aur pragativaad ke jansangharsh tak hindi saahitya ne sadaiv samaaj ki vaastavik dhadkanon ko vaani dee hai. [bʱəkt̪ɪkaːl keː loːkməŋɡəl seː leːkər tʃʰaːjaːʋaːd̪ keː sɔːn̪d̪ərjəboːd̪ʱ ɔːr prəɡət̪ɪʋaːd̪ keː dʒənsəŋɡʱərʂ t̪ək ɦɪn̪d̪iː saːɦɪt̪jə neː səd̪ɛːʋ səmaːdʒ kiː ʋaːst̪əʋɪk d̪ʱəɽkənõː koː ʋaːɳiː d̪iː hɛː] (bhuhk-tee-KAHL kay lohk-MUHN-guhl say LAY-kuhr chhah-yah-vahd kay sown-duhr-yuh-BOHDH owr pruh-guh-tee-VAHD kay juhn-suhng-GHUHRSH tuhk heen-DEE sah-HEET-yuh nay suh-DYV suh-MAHJ kee vahs-tuh-VEEK dhuhd-kuh-NOHN koh vah-NEE DEE hy)",
+          "translation": "From the popular welfare of the Bhakti era to the aesthetic sensibilities of Chhayavad and the mass struggle of Progressivism, Hindi literature has always given voice to the genuine heartbeats of society."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 27-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "सच्चिदानंद हीरानंद वात्स्यायन 'अज्ञेय' के 'तार सप्तक' और मुक्तिबोध की लंबी कविता 'अंधेरे में' ने आधुनिक हिंदी कविता को नए बिंब और दार्शनिक आयाम दिए।",
+          "reading": "Sachchidananda Hirananda Vatsyayan 'Agyeya' ke 'Taar Saptak' aur Muktibodh ki lambi kavita 'Andhere Mein' ne aadhunik hindi kavita ko naye bimb aur daarshanik aayaam diye. [sətʃːɪd̪aːnən̪d̪ ɦiːraːnən̪d̪ ʋaːtsjaːjən əɡjeːj keː t̪aːr səpt̪ək ɔːr mʊkt̪ɪboːd̪ʱ kiː ləmbiː kəʋɪt̪aː ən̪d̪ʱeːreː mẽː neː aːd̪ʱʊnɪk ɦɪn̪d̪iː kəʋɪt̪aː koː nəjeː bɪmb ɔːr d̪aːrʃənɪk aːjaːm d̪ɪjeː] (suht-chee-dah-NUHND hee-rah-NUHND vahts-YAH-yuhn Uhg-YAY-yuh kay Tahr Suhp-TUHK owr Mook-tee-BOHDH kee LUHM-bee kuh-vee-TAH Uhn-dhay-RAY mayn nay ah-dhoo-NEEK heen-DEE kuh-vee-TAH koh nuh-YAY BEEMB owr dahr-shuh-NEEK ah-YAHM DEE-yay)",
+          "translation": "Sachchidananda Hirananda Vatsyayan 'Agyeya's 'Taar Saptak' and Muktibodh's long poem 'Andhere Mein' bestowed fresh imagery and philosophical dimensions upon modern Hindi poetry."
+        },
+        {
+          "target": "साहित्यिक विमर्श में आलोचकों ने रेखांकित किया कि कालजयी साहित्य वही है जो भाषा की सीमाओं को लांघकर सार्वभौमिक मानवीय संवेदना को जागृत करे।",
+          "reading": "saahityik vimarsh mein aalochakon ne rekhaankit kiya ki kaaljayee saahitya vahi hai jo bhaasha ki seemaaon ko laanghkar saarvabhaumik maanveey samvedana ko jaagrit kare. [saːɦɪt̪jɪk ʋɪmərʃ mẽː aːloːtʃkõː neː reːkʰaːŋkɪt̪ kɪjaː kɪ kaːldʒəjiː saːɦɪt̪jə ʋəɦiː hɛː dʒoː bʱaːʂaː kiː siːmaːõː koː laːŋɡʱkər saːrʋəbʱɔːmɪk maːnʋiːj səmʋeːd̪naː koː dʒaːɡrɪt̪ kəreː] (sah-heet-YEEK vee-MUHRSH mayn ah-lohtch-KOHN nay ray-khahn-KEET kee-YAH kee kahl-juh-YEE sah-HEET-yuh VUH-hee hy joh bhah-SHAH kee see-mah-OHN koh LAHNGH-kuhr sahr-vuh-bhow-MEEK mahn-VEE-yuh suhm-vayd-NAH koh jahg-REET kuh-RAY)",
+          "translation": "In literary discourse, critics underscored that truly immortal literature is that which transcends linguistic boundaries to awaken universal human sensibility."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "साहित्य समेकन: रस सिद्धांत (भरतमुनि), तार सप्तक (अज्ञेय), मुक्तिबोध (अंधेरे में), नागार्जुन (प्रगतिवाद)!"
+      ],
+      "culturalNotes": [
+        "प्रगतिशील लेखक संघ के प्रथम ऐतिहासिक अधिवेशन (1936, लखनऊ) की अध्यक्षता मुंशी प्रेमचंद ने की थी, जहाँ उन्होंने प्रसिद्ध उद्घोष किया: 'साहित्य का उद्देश्य केवल मनोरंजन नहीं, बल्कि जीवन की सच्चाई को उजागर करना है'।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"बोलना\":",
+          "prompt": "हिंदी कविता में 'प्रयोगवाद' का सूत्रपात करने वाले प्रसिद्ध काव्य संकलन 'तार सप्तक' (1943) के संपादक कौन थे?",
           "options": [
-            "हम इस पाठ में इकाई 27.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पढ़ना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («लिखना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सुनना» का अनुचित स्थान)"
+            "सच्चिदानंद हीरानंद वात्स्यायन 'अज्ञेय' (Sachchidananda Hirananda Vatsyayan 'Agyeya' - Editor of Taar Saptak & Pioneer of Prayogvad)",
+            "रामविलास शर्मा (मार्क्सवादी आलोचक)",
+            "नामवर सिंह (आधुनिक आलोचक)",
+            "हजारी प्रसाद द्विवेदी (निबंधकार)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "'तार सप्तक' के संपादक और प्रयोगवाद के जनक «अज्ञेय» थे।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"बोलना\":",
+          "prompt": "प्रसिद्ध लंबी कविता 'अंधेरे में' और 'ब्रह्मराक्षस' के विख्यात कवि कौन हैं?",
           "options": [
-            "हम इस पाठ में इकाई 27.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («लिखना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सुनना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पढ़ना» का अशुद्ध रूप)"
+            "गजानन माधव 'मुक्तिबोध' (Gajanan Madhav 'Muktibodh' - Master of Fantasy & Modern Poetic Struggle)",
+            "सुमित्रानंदन पंत (छायावादी कवि)",
+            "माखनलाल चतुर्वेदी (एक भारतीय आत्मा)",
+            "सोहनलाल द्विवेदी (बाल कवि)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'अंधेरे में' और 'ब्रह्मराक्षस' जैसी कालजयी कविताओं के रचयिता «मुक्तिबोध» हैं।"
         }
       ]
     },
@@ -11487,17 +11536,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"बोलना\": Which sentence is completely correct?",
+          "prompt": "हिंदी साहित्य चिंतन व सौंदर्यशास्त्र (Literary Theory & Aesthetics) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 27.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सुनना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पढ़ना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («लिखना» से संबंधित)"
+            "भारतीय रस सिद्धांत, सौंदर्यबोध और प्रगतिशील सामाजिक चेतना का समन्वय ही हिंदी साहित्य को सार्वभौमिक मानवीय संवेदना का अमर वाहक बनाता है। (The synthesis of Indian Rasa theory, aesthetics, and progressive social consciousness makes Hindi literature the immortal bearer of universal human sensibility.)",
+            "काव्यशास्त्र को रद्दी की टोकरी में फेंक देना चाहिए।",
+            "तार सप्तक केवल रेलगाड़ी का टाइम टेबल है।",
+            "मुक्तिबोध ने केवल गणित के सवाल हल किए थे।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«भारतीय रस सिद्धांत, सौंदर्यबोध और प्रगतिशील सामाजिक चेतना का समन्वय... अमर वाहक बनाता है» साहित्य सौंदर्यशास्त्र का सर्वोच्च मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u28-l1": {
