@@ -1715,53 +1715,62 @@
     "subject": "hindi",
     "unit": 4,
     "lessonNumber": 1,
-    "title": "सामान्य वर्तमान काल (Present Habitual Tense - ता/ती/ते) (Part 1)",
+    "title": "सामान्य वर्तमान काल की संरचना: धातु + ता/ती/ते + होना क्रिया",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.1) with authentic linguistic precision.",
+    "objective": "सामान्य वर्तमान काल (Present Habitual Tense) के निर्माण नियम, धातु प्रत्ययों (ता/ती/ते) तथा कर्ता के लिंग-वचन के अनुसार सहायक क्रिया (हूँ/हो/है/हैं) के समन्वय को सीखना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "सामान्य वर्तमान काल (Present Habitual Tense) का प्रयोग नित्य की आदतों, दैनिक दिनचर्या, सार्वभौमिक सत्यों तथा सामान्य अवस्थाओं को व्यक्त करने के लिए किया जाता है:\n\n1. क्रिया का मूल रूप (धातु - Verb Root):\n   - सामान्य क्रिया के अंत से '-ना' हटाने पर 'धातु' बचती है:\n   - पढ़ना → *पढ़-*, लिखना → *लिख-*, बोलना → *बोल-*, खाना → *खा-*, जाना → *जा-*।\n\n2. कृदंत प्रत्यय (Habitual Participle Suffixes):\n   - पुल्लिंग एकवचन: धातु + *'-ता'* (पढ़ता, खाता, जाता)\n   - पुल्लिंग बहुवचन / आदरसूचक: धातु + *'-ते'* (पढ़ते, खाते, जाते)\n   - स्त्रीलिंग एकवचन: धातु + *'-ती'* (पढ़ती, खाती, जाती)\n   - स्त्रीलिंग बहुवचन: धातु + *'-ती'* (पढ़ती, खाती, जाती) [सहायक क्रिया अनुनासिक होती है]।\n\n3. सर्वनामों के साथ पूर्ण वाक्य संरचना:\n   - मैं: *मैं पढ़ता हूँ* (पु.) / *मैं पढ़ती हूँ* (स्त्री.) — (I study/read)\n   - तू: *तू पढ़ता है* (पु.) / *तू पढ़ती है* (स्त्री.) — (You study)\n   - तुम: *तुम पढ़ते हो* (पु.) / *तुम पढ़ती हो* (स्त्री.) — (You study)\n   - आप: *आप पढ़ते हैं* (पु.) / *आप पढ़ती हैं* (स्त्री.) — (You [आदर] study)\n   - वह/यह: *वह पढ़ता है* (पु.) / *वह पढ़ती है* (स्त्री.) — (He/She studies)\n   - वे/ये: *वे पढ़ते हैं* (पु.) / *वे पढ़ती हैं* (स्त्री.) — (They study)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 4.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 4."
+          "target": "मैं रोज़ सुबह छह बजे उठता हूँ और हिंदी का अभ्यास करता हूँ।",
+          "reading": "main roz subah chhah baje uthta hoon aur hindi ka abhyaas karta hoon. [mɛ̃ː roːz sʊbəh tʃʰɛː bədʒeː ʊʈʰt̪aː hũː ɔːr hɪn̪d̪iː kaː əbʱjaːs kərt̪aː hũː] (myn rohz SOO-buh chhay buh-JAY OOTH-tah hoon owr HEEN-dee kah uhb-HYAHS KUHR-tah hoon)",
+          "translation": "I wake up at six in the morning every day and practice Hindi."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 4-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "रोहन और प्रिया हर शाम को सुंदर बगीचे में टहलते हैं।",
+          "reading": "rohan aur priya har shaam ko sundar bageeche mein tahalte hain. [roːɦən ɔːr prɪjaː hər ʃaːm koː sʊn̪d̪ər bəɡiːtʃeː mẽː ʈɛɦəlt̪eː hɛ̃ː] (ROH-huhn owr PREE-yah huhr shahm koh SOON-duhr buh-GEE-chay mayn tuh-HUHL-tay hyn)",
+          "translation": "Rohan and Priya stroll in the beautiful garden every evening."
+        },
+        {
+          "target": "मेरी माताजी प्रतिदिन परिवार के लिए स्वादिष्ट भोजन बनाती हैं।",
+          "reading": "meri maataaji pratidin parivaar ke liye svaadisht bhojan banaati hain. [meːriː maːt̪aːdʒiː prət̪ɪd̪ɪn pərɪʋaːr keː lɪjeː sʋaːd̪ɪʂʈ bʱoːdʒən bənaːt̪iː hɛ̃ː] (MAY-ree mah-tah-JEE pruh-tee-DEEN puh-ree-VAHR kay lee-ay SVAH-deesht BHOJ-uhn buh-NAH-tee hyn)",
+          "translation": "My mother makes delicious food for the family every day."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "पुरुष = -ता हूँ / -ते हैं; स्त्री = -ती हूँ / -ती हैं; धातु + ता/ती/ते + हूँ/हो/है/हैं = वर्तमान आदत!"
+      ],
+      "culturalNotes": [
+        "हिंदी में आदरणीय एकवचन कर्ता (जैसे: माताजी, पिताजी, अध्यापक) के साथ भी बहुवचन क्रिया 'बनाती हैं / पढ़ाते हैं' का प्रयोग अनिवार्य शिष्टाचार है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"दाल\":",
+          "prompt": "स्त्रीलिंग कर्ता 'प्रिया' के साथ क्रिया 'पढ़ना' का सामान्य वर्तमान काल रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 4.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सब्ज़ी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («फल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («मिठाई» का अनुचित स्थान)"
+            "प्रिया पढ़ती है (Priya padhti hai - Priya studies [fem. sing.])",
+            "प्रिया पढ़ता है",
+            "प्रिया पढ़ते हैं",
+            "प्रिया पढ़ती हूँ"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "स्त्रीलिंग एकवचन कर्ता के साथ धातु + 'ती' + 'है' (पढ़ती है) आता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"दाल\":",
+          "prompt": "सर्वनाम 'हम' (पुल्लिंग/मिश्रित बहुवचन) के साथ 'बोलना' क्रिया का सही रूप क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 4.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («फल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («मिठाई» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सब्ज़ी» का अशुद्ध रूप)"
+            "हम बोलते हैं (Hum bolte hain - We speak)",
+            "हम बोलता हूँ",
+            "हम बोलती हो",
+            "हम बोलते हो"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«हम» के साथ धातु + '-ते' + 'हैं' (बोलते हैं) का प्रयोग होता है।"
         }
       ]
     },
@@ -1769,17 +1778,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"दाल\": Which sentence is completely correct?",
+          "prompt": "सामान्य वर्तमान काल के सही लिंग-वचन समन्वय वाला वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 4.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («मिठाई» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सब्ज़ी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («फल» से संबंधित)"
+            "लड़के मैदान में फुटबॉल खेलते हैं और लड़कियाँ गीत गाती हैं। (Boys play football in the field and girls sing songs.)",
+            "लड़के मैदान में फुटबॉल खेलता है और लड़कियाँ गाते हैं।",
+            "लड़के खेलती हैं और लड़की खेलता है।",
+            "लड़कियाँ गाता हूँ।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«लड़के खेलते हैं» (पुल्लिंग बहुवचन) और «लड़कियाँ गाती हैं» (स्त्रीलिंग बहुवचन) व्याकरणसम्मत है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u4-l2": {
@@ -1787,53 +1797,62 @@
     "subject": "hindi",
     "unit": 4,
     "lessonNumber": 2,
-    "title": "सामान्य वर्तमान काल (Present Habitual Tense - ता/ती/ते) (Part 2)",
+    "title": "दैनिक दिनचर्या और बारंबारता क्रिया-विशेषण (Frequency Adverbs)",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.2) with authentic linguistic precision.",
+    "objective": "दैनिक क्रियाकलापों की अभिव्यक्ति तथा बारंबारता सूचक क्रिया-विशेषणों (रोज़, हमेशा, अक्सर, कभी-कभी, कभी नहीं) के स्वाभाविक प्रयोग में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में अपनी दैनिक दिनचर्या और आदतों की आवृत्ति बताने के लिए विभिन्न बारंबारता क्रिया-विशेषणों (Adverbs of Frequency) का प्रयोग किया जाता है:\n\n1. प्रमुख बारंबारता क्रिया-विशेषण:\n   - *«रोज़» / «प्रतिदिन»* (Daily / Every day): मैं रोज़ व्यायाम करता हूँ।\n   - *«हमेशा» / «सदा»* (Always): वह हमेशा सच बोलती है।\n   - *«अक्सर» / «प्रायः»* (Often / Usually): हम अक्सर शाम को टहलने जाते हैं।\n   - *«कभी-कभी»* (Sometimes): मैं कभी-कभी मिठाई खाता हूँ।\n   - *«कभी नहीं»* (Never): वे कभी झूठ नहीं बोलते।\n   - *«हर हफ़्ते / हर महीने»* (Every week / Every month): हम हर हफ़्ते बाज़ार जाते हैं।\n\n2. दैनिक दिनचर्या की मुख्य क्रियाएं:\n   - *उठना* (To wake up / get up) → मैं छह बजे उठता हूँ।\n   - *दाँत साफ़ करना* (To brush teeth) → दाँत साफ़ करता हूँ।\n   - *नहाना* (To bathe) → स्नान करता / नहाता हूँ।\n   - *नाश्ता करना* (To have breakfast) → आठ बजे नाश्ता करता हूँ।\n   - *काम पर जाना* (To go to work) → नौ बजे दफ़्तर जाता हूँ।\n   - *सोना* (To sleep) → दस बजे सोता हूँ।\n\n3. वाक्य में स्थान:\n   - बारंबारता क्रिया-विशेषण सामान्यतः कर्ता के तुरंत बाद या कर्म से पहले आते हैं।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 4.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 4."
+          "target": "हम हमेशा समय पर विद्यालय जाते हैं और कभी देर नहीं करते।",
+          "reading": "hum hamesha samay par vidyalay jaate hain aur kabhi der nahin karte. [həm həmeːʃaː səməj pər ʋɪd̪jaːləj dʒaːt̪eː hɛ̃ː ɔːr kəbʱiː d̪eːr nəɦĩː kərteː] (hum huh-MAY-shah suh-MUHY puhr veed-YAH-luy JAH-tay hyn owr kuh-BHEE dayr nuh-HEEN kuhr-TAY)",
+          "translation": "We always go to school on time and never make delay."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 4-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "वह अक्सर शाम को संगीत सुनती है और कभी-कभी चित्र बनाती है।",
+          "reading": "vah aksar shaam ko sangeet sunti hai aur kabhi-kabhi chitr banaati hai. [ʋəh əksər ʃaːm koː səŋɡiːt̪ sʊnt̪iː hɛː ɔːr kəbʱiː kəbʱiː tʃɪt̪rə bənaːt̪iː hɛː] (wuh UHK-suhr shahm koh suhn-GEET SOON-tee hy owr kuh-BHEE kuh-BHEE CHEET-ruh buh-NAH-tee hy)",
+          "translation": "She often listens to music in the evening and sometimes paints pictures."
+        },
+        {
+          "target": "पिताजी रोज़ सुबह समाचार-पत्र पढ़ते हैं और गर्म चाय पीते हैं।",
+          "reading": "pitaaji roz subah samachaar-patr padhte hain aur garm chaay peete hain. [pɪt̪aːdʒiː roːz sʊbəh səmətʃaːr pət̪r pəɽʱt̪eː hɛ̃ː ɔːr ɡərm tʃaːj piːt̪eː hɛ̃ː] (pee-tah-JEE rohz SOO-buh suh-mah-CHAHR puht-ruh PUHDH-tay hyn owr guhrm CHAH-ee PEE-tay hyn)",
+          "translation": "Father reads the newspaper every morning and drinks hot tea."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "रोज़ = 100% दैनिक; हमेशा = 100% सदा; अक्सर = 70% प्रायः; कभी-कभी = 30%; कभी नहीं = 0%!"
+      ],
+      "culturalNotes": [
+        "भारतीय समाज में सुबह की शुरुआत चाय ('सुबह की चाय') और समाचार-पत्र के साथ करना एक सर्वव्यापी दैनिक दिनचर्या है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"सब्ज़ी\":",
+          "prompt": "अंग्रेजी शब्द 'Always' (सदा) के लिए सबसे प्रामाणिक हिंदी क्रिया-विशेषण कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 4.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («फल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («मिठाई» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («मसाला» का अनुचित स्थान)"
+            "हमेशा / सदा (Hamesha / Sada - Always)",
+            "कभी-कभी",
+            "कभी नहीं",
+            "अक्सर"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "'Always' के लिए «हमेशा» अथवा «सदा» का प्रयोग किया जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"सब्ज़ी\":",
+          "prompt": "वाक्य «वह ___ शाम को पुस्तकालय जाती है» में 'Often' के अर्थ हेतु कौन-सा शब्द उपयुक्त है?",
           "options": [
-            "हम इस पाठ में इकाई 4.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («मिठाई» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («मसाला» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («फल» का अशुद्ध रूप)"
+            "अक्सर (Aksar - Often / Frequently)",
+            "कभी नहीं",
+            "कल",
+            "परसों"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'Often' (प्रायः) का अर्थ व्यक्त करने के लिए «अक्सर» सही शब्द है।"
         }
       ]
     },
@@ -1841,17 +1860,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"सब्ज़ी\": Which sentence is completely correct?",
+          "prompt": "दैनिक दिनचर्या और बारंबारता का शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 4.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («मसाला» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («फल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («मिठाई» से संबंधित)"
+            "मैं प्रतिदिन सुबह सात बजे नाश्ता करता हूँ और समय पर दफ़्तर पहुँचता हूँ। (I have breakfast at seven every morning and reach office on time.)",
+            "मैं कभी नहीं नाश्ता खाता हूँ और रोज़ देर से पहुँचती है।",
+            "पिताजी अक्सर नाश्ता करती हैं।",
+            "हम हमेशा नाश्ता करता हूँ।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«प्रतिदिन सुबह सात बजे नाश्ता करता हूँ» में समय, क्रिया-विशेषण और क्रिया का पूर्ण समन्वय है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u4-l3": {
@@ -1859,53 +1879,62 @@
     "subject": "hindi",
     "unit": 4,
     "lessonNumber": 3,
-    "title": "सामान्य वर्तमान काल (Present Habitual Tense - ता/ती/ते) (Part 3)",
+    "title": "नकारात्मक वाक्य संरचना: 'नहीं' का स्थान और सहायक क्रिया लोप",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.3) with authentic linguistic precision.",
+    "objective": "सामान्य वर्तमान काल में नकारात्मक अव्यय 'नहीं' का सटीक स्थान तथा नकारात्मक वाक्यों में सहायक क्रिया (हूँ/है/हैं/हो) के स्वाभाविक लोप के नियमों को समझना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "सामान्य वर्तमान काल में वाक्यों को नकारात्मक (Negative) बनाने के नियम अत्यंत सहज और विशिष्ट हैं:\n\n1. नकारात्मक अव्यय 'नहीं' का स्थान:\n   - 'नहीं' (Nahin) को हमेशा मुख्य कृदंत क्रिया (ता/ती/ते) के ठीक पहले रखा जाता है:\n   - सकारात्मक: मैं चाय पीता हूँ।\n   - नकारात्मक: मैं चाय *नहीं पीता (हूँ)*।\n\n2. सहायक क्रिया का लोप (Auxiliary Verb Ellipsis):\n   - नकारात्मक वर्तमान काल में सहायक क्रिया (हूँ, है, हैं, हो) का लोप (हटा दिया जाना) मानक और अत्यधिक स्वाभाविक माना जाता है:\n     - वह मांस नहीं खाता (है)। → *वह मांस नहीं खाता।* (He does not eat meat.)\n     - हम झूठ नहीं बोलते (हैं)। → *हम झूठ नहीं बोलते।* (We do not speak lies.)\n     - वे देर से नहीं आतीं (हैं)। → *वे देर से नहीं आतीं।* (They do not come late.)\n   - *ध्यान दें*: जब सहायक क्रिया 'हैं' हटती है, तो स्त्रीलिंग बहुवचन में कृदंत क्रिया पर अनुनासिक बिन्दु लग जाता है: 'वे नहीं पढ़तीं'।\n\n3. 'नहीं' बनाम 'मत':\n   - 'नहीं' का प्रयोग तथ्यात्मक कथनों में होता है (मैं नहीं खाता);\n   - 'मत' (Do not) का प्रयोग केवल आज्ञार्थक/आदेशात्मक वाक्यों में होता है (वहाँ मत जाओ)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 4.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 4."
+          "target": "मैं कॉफ़ी नहीं पीता, मुझे केवल ताज़ा दूध पसंद है।",
+          "reading": "main coffee nahin peeta, mujhe keval taaza doodh pasand hai. [mɛ̃ː kɔːfiː nəɦĩː piːt̪aː mʊdʒʱeː keːʋəl t̪aːzaː d̪uːd̪ʱ pəsən̪d̪ hɛː] (myn KAW-fee nuh-HEEN PEE-tah, MOO-zhay KAY-wuhl TAH-zah doodh puh-SUHND hy)",
+          "translation": "I do not drink coffee, I only like fresh milk."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 4-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "वे भले लोग कभी किसी से कड़वी बात नहीं बोलते।",
+          "reading": "ve bhale log kabhi kisi se kadvi baat nahin bolte. [ʋeː bʱəleː loːɡ kəbʱiː kɪsiː seː kəɽʋiː baːt̪ nəɦĩː boːlt̪eː] (way bhuh-LAY lohg kuh-BHEE kee-SEE say KUHD-vee baht nuh-HEEN BOHL-tay)",
+          "translation": "Those good people never speak bitter words to anyone."
+        },
+        {
+          "target": "सुनीता रात को भारी खाना नहीं खाती और जल्दी सो जाती है।",
+          "reading": "suneeta raat ko bhaari khaana nahin khaati aur jaldi so jaati hai. [suniːt̪aː raːt̪ koː bʱaːriː kʰaːnaː nəɦĩː kʰaːt̪iː ɔːr dʒəld̪iː soː dʒaːt̪iː hɛː] (soo-NEE-tah baht koh BHAH-ree KHAH-nah nuh-HEEN KHAH-tee owr JUHL-dee soh JAH-tee hy)",
+          "translation": "Sunita does not eat heavy food at night and goes to sleep early."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "मुख्य क्रिया से ठीक पहले 'नहीं' लगाओ! नकारात्मक में 'है/हैं/हूँ' हटाना सबसे स्वाभाविक हिंदी है: 'मैं नहीं जानता'!"
+      ],
+      "culturalNotes": [
+        "हिंदी में 'मैं नहीं जानता' (I don't know) कहना 'मैं नहीं जानता हूँ' कहने की तुलना में अधिक स्वाभाविक और परिष्कृत माना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"फल\":",
+          "prompt": "सकारात्मक वाक्य «वह चाय पीती है» का सबसे स्वाभाविक मानक नकारात्मक रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 4.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («मिठाई» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («मसाला» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («गाड़ी» का अनुचित स्थान)"
+            "वह चाय नहीं पीती (Vah chaay nahin peeti - She does not drink tea)",
+            "वह नहीं चाय पीती है",
+            "वह चाय पीती नहीं है",
+            "वह चाय मत पीती"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "'नहीं' मुख्य क्रिया से पूर्व आता है और 'है' का लोप मानक रूप से «वह चाय नहीं पीती» बनता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"फल\":",
+          "prompt": "नकारात्मक वाक्य में 'नहीं' का सही स्थान कहाँ होता है?",
           "options": [
-            "हम इस पाठ में इकाई 4.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («मसाला» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («गाड़ी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («मिठाई» का अशुद्ध रूप)"
+            "मुख्य क्रिया (कृदंत) के ठीक पहले (Immediately before the main verb)",
+            "वाक्य के सबसे अंत में",
+            "कर्ता के ठीक पहले",
+            "कर्म के ठीक बाद"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'नहीं' हमेशा मुख्य कृदंत क्रिया (जैसे: नहीं खाता, नहीं जाता) के ठीक पहले आता है।"
         }
       ]
     },
@@ -1913,17 +1942,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"फल\": Which sentence is completely correct?",
+          "prompt": "नकारात्मक वाक्य रचना की दृष्टि से पूर्णतः शुद्ध वाक्य का चयन कीजिए:",
           "options": [
-            "हम इस पाठ में इकाई 4.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («गाड़ी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («मिठाई» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («मसाला» से संबंधित)"
+            "हम कभी किसी का दिल नहीं दुखाते और झूठ नहीं बोलते। (We never hurt anyone's heart and do not speak lies.)",
+            "हम कभी किसी का दिल दुखाते नहीं हैं और झूठ मत बोलते।",
+            "हम नहीं दिल दुखाते हैं।",
+            "झूठ नहीं हम बोलते।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«दिल नहीं दुखाते» और «झूठ नहीं बोलते» में 'नहीं' का स्थान और क्रिया-संयोजन पूर्णतः मानक है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u4-l4": {
@@ -1931,53 +1961,62 @@
     "subject": "hindi",
     "unit": 4,
     "lessonNumber": 4,
-    "title": "सामान्य वर्तमान काल (Present Habitual Tense - ता/ती/ते) (Part 4)",
+    "title": "हाँ/नहीं और सूचनात्मक प्रश्नवाचक वाक्य (Questions in Habitual Tense)",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.4) with authentic linguistic precision.",
+    "objective": "सामान्य वर्तमान काल में हाँ/नहीं वाले प्रश्न (क्या से आरंभ) तथा सूचनात्मक प्रश्नवाचक शब्दों (कहाँ, कब, क्यों, कैसे, क्या) के वाक्य विन्यास में महारत प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में सामान्य वर्तमान काल के अंतर्गत दो प्रकार के प्रश्न पूछे जाते हैं:\n\n1. हाँ/नहीं वाले प्रश्न (Polar / Yes-No Questions):\n   - वाक्य के आरंभ में *«क्या»* (Kya) लगाने से प्रश्न बनता है:\n     - क्या आप चाय पीते हैं? (Do you drink tea?)\n     - क्या वह यहाँ रहती है? (Does she live here?)\n   - उत्तर देने का तरीका:\n     - *स्वीकारात्मक*: जी हाँ, मैं चाय पीता हूँ। (Yes, I drink tea.)\n     - *नकारात्मक*: जी नहीं, मैं चाय नहीं पीता। (No, I don't drink tea.)\n\n2. सूचनात्मक प्रश्न (Information / Wh- Questions):\n   - जब किसी विशिष्ट जानकारी के लिए प्रश्न पूछा जाए, तो प्रश्नवाचक शब्द क्रिया के ठीक पहले आता है:\n     - *कहाँ* (Where): आप कहाँ रहते हैं? (Where do you live?)\n     - *कब* (When): वह सुबह कब उठता है? (When does he wake up in the morning?)\n     - *क्यों* (Why): तुम इतना परिश्रम क्यों करते हो? (Why do you work so hard?)\n     - *कैसे* (How): वे दफ़्तर कैसे जाते हैं? (How do they go to the office?)\n     - *क्या* (What): आप नाश्ते में क्या खाते हैं? (What do you eat in breakfast?)\n     - *कौन* (Who): वहाँ कौन रहता है? (Who lives there?)\n\n3. 'क्या' के दोहरे प्रयोग में अंतर:\n   - वाक्य के शुरू में 'क्या' = Yes/No प्रश्न (क्या आप पढ़ते हैं?);\n   - क्रिया के पहले 'क्या' = What (आप क्या पढ़ते हैं? = What do you read?)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 4.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 4."
+          "target": "क्या आप हर सुबह योगासन और ध्यान करते हैं?",
+          "reading": "kya aap har subah yogaasan aur dhyaan karte hain? [kjaː aːp hər sʊbəh joːɡaːsən ɔːr d̪ʱjaːn kərteː hɛ̃ː] (kyah ahp huhr SOO-buh yoh-gah-SUHN owr DHYAHN kuhr-TAY hyn)",
+          "translation": "Do you do yoga postures and meditation every morning?"
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 4-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "आप सप्ताहांत में अपने परिवार के साथ कहाँ घूमने जाते हैं?",
+          "reading": "aap saptaahaant mein apne parivaar ke saath kahaan ghoomne jaate hain? [aːp səpt̪aːɦaːn̪t̪ mẽː əpneː pərɪʋaːr keː saːt̪ʰ kəɦaː̃ ɡʱuːmneː dʒaːt̪eː hɛ̃ː] (ahp suhp-tah-HAHNT mayn uhp-NAY puh-ree-VAHR kay sahth kuh-HAHN GHOOM-nay JAH-tay hyn)",
+          "translation": "Where do you go to roam with your family on weekends?"
+        },
+        {
+          "target": "रोहित प्रतिदिन शाम को अपने दफ़्तर से कितने बजे घर लौटता है?",
+          "reading": "rohit pratidin shaam ko apne daftar se kitne baje ghar laut-ta hai? [roːɦɪt̪ prət̪ɪd̪ɪn ʃaːm koː əpneː d̪əft̪ər seː kɪt̪neː bədʒeː ɡʱər lɔːʈt̪aː hɛː] (ROH-heet pruh-tee-DEEN shahm koh uhp-NAY DUHF-tuhr say KEET-nay buh-JAY ghuhr LOWT-tah hy)",
+          "translation": "At what time does Rohit return home from his office every evening?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "शुरू में 'क्या' = हाँ/नहीं का प्रश्न; क्रिया से पहले 'क्या' = What; कहाँ/कब/क्यों हमेशा क्रिया के ठीक आगे बैठते हैं!"
+      ],
+      "culturalNotes": [
+        "हिंदी में किसी से प्रश्न पूछते समय वाक्य की शुरुआत में 'क्षमा कीजिए' या 'कृपया बताइए' जोड़ना अत्यंत भद्र शिष्टाचार माना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"मिठाई\":",
+          "prompt": "यदि आप किसी से पूछना चाहते हैं 'Where do you live?', तो शुद्ध हिंदी वाक्य क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 4.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («मसाला» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («गाड़ी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बस» का अनुचित स्थान)"
+            "आप कहाँ रहते हैं? (Aap kahaan rahte hain? - Where do you live?)",
+            "आप क्या रहते हैं?",
+            "कहाँ आप रहते हो?",
+            "आप कब रहते हैं?"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "स्थान पूछने के लिए «कहाँ» क्रिया के पहले आता है: «आप कहाँ रहते हैं?»।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"मिठाई\":",
+          "prompt": "वाक्य «क्या आप हिंदी बोलते हैं?» का आदरपूर्वक स्वीकारात्मक उत्तर क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 4.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («गाड़ी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बस» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («मसाला» का अशुद्ध रूप)"
+            "जी हाँ, मैं हिंदी बोलता हूँ। (Yes, I speak Hindi.)",
+            "जी नहीं, आप बोलते हैं।",
+            "कहाँ, मैं जाता हूँ।",
+            "अलविदा, मैं बोलता हूँ।"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«जी हाँ, मैं हिंदी बोलता हूँ» पूर्णतः शिष्ट और व्याकरणसम्मत उत्तर है।"
         }
       ]
     },
@@ -1985,17 +2024,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"मिठाई\": Which sentence is completely correct?",
+          "prompt": "प्रश्नवाचक पदक्रम की दृष्टि से सही और मानक वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 4.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बस» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («मसाला» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («गाड़ी» से संबंधित)"
+            "आप सुबह कितने बजे उठते हैं और नाश्ते में क्या लेते हैं? (At what time do you wake up in the morning and what do you take for breakfast?)",
+            "आप कितने बजे सुबह उठते हैं क्या और नाश्ते में?",
+            "क्या आप उठते हैं कितने बजे?",
+            "नाश्ते में लेते हैं क्या आप?"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«कितने बजे उठते हैं» और «क्या लेते हैं» में प्रश्नवाचक पदक्रम सर्वथा शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u4-l5": {
@@ -2003,53 +2043,62 @@
     "subject": "hindi",
     "unit": 4,
     "lessonNumber": 5,
-    "title": "सामान्य वर्तमान काल (Present Habitual Tense - ता/ती/ते) (Part 5)",
+    "title": "अनियमित क्रियाएं और विशेष धातुएं: होना, जाना, करना, देना, लेना",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.5) with authentic linguistic precision.",
+    "objective": "विशेष धातुओं (होना → होता है, जाना → जाता है, करना → करता है, देना → देता है, लेना → लेता है) के आदतन प्रयोग तथा 'है' (अवस्था) बनाम 'होता है' (सार्वभौमिक नियम) के अंतर को समझना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में कुछ प्रमुख धातुओं के सामान्य वर्तमान काल रूप विशेष ध्यान देने योग्य होते हैं:\n\n1. क्रिया 'होना' के दो रूप — 'है' बनाम 'होता है':\n   - *«है / हैं»* (Stative — तात्कालिक अवस्था):\n     - चाय गरम है। (The tea is hot [right now].)\n     - कमरा साफ़ है। (The room is clean.)\n   - *«होता है / होती है / होते हैं»* (Habitual / Universal Truth — सार्वभौमिक स्वभाव या नित्य नियम):\n     - दूध सफ़ेद होता है। (Milk is [inherently] white.)\n     - चीनी मीठी होती है। (Sugar is sweet.)\n     - सर्दियों में ठंड होती है। (It gets cold in winters.)\n\n2. अन्य प्रमुख धातुओं के आदतन रूप:\n   - *जाना* (To go): जाता है / जाते हैं / जाती है / जाती हैं\n   - *करना* (To do): करता है / करते हैं / करती है / करती हैं\n   - *देना* (To give): देता है / देते हैं / देती है / देती हैं (देना → दे- + ता = देता)\n   - *लेना* (To take): लेता है / लेते हैं / लेती है / लेती हैं (लेना → ले- + ता = लेता)\n   - *पीना* (To drink): पीता है / पीते हैं / पीती है / पीती हैं\n   - *सोना* (To sleep): सोता है / सोते हैं / सोती है / सोती हैं।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 4.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 4."
+          "target": "हिमालय के पहाड़ों पर सर्दियों में बहुत अधिक ठंड होती है।",
+          "reading": "himaalay ke pahaadon par sardiyon mein bahut adhik thand hoti hai. [hɪmaːləj keː pəɦaːɽõː pər sərd̪ɪjõː mẽː bəɦʊt̪ əd̪ʱɪk t̪ʰəɳɖ hoːt̪iː hɛː] (hee-MAH-luy kay puh-HAH-dohn puhr suhr-dee-YOHN mayn buh-hoot UH-dheek THUHND HOH-tee hy)",
+          "translation": "It gets very cold in the winters on the Himalayan mountains."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 4-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "अध्यापक जी हमें प्रतिदिन नया पाठ पढ़ाते हैं और ज्ञानवर्धक पुस्तकें देते हैं।",
+          "reading": "adhyaapak jee humein pratidin naya paath padhaate hain aur gyanvardhak pustakein dete hain. [əd̪ʱjaːpək dʒiː hʊmẽː prət̪ɪd̪ɪn nəjaː paːʈʰ pəɽʱaːt̪eː hɛ̃ː ɔːr ɡjaːnʋərd̪ʱək pʊst̪əkẽː d̪eːt̪eː hɛ̃ː] (uh-DHYAH-puhk jee hoo-MAYN pruh-tee-DEEN nuh-YAH pahth puh-DHAH-tay hyn owr gyahn-vuhr-DHUHK poos-tuh-KAYN DAY-tay hyn)",
+          "translation": "The respected teacher teaches us a new lesson every day and gives informative books."
+        },
+        {
+          "target": "हम हर सुबह घर से निकलने से पहले माता-पिता का आशीर्वाद लेते हैं।",
+          "reading": "hum har subah ghar se nikalne se pehle maata-pita ka aasheervaad lete hain. [həm hər sʊbəh ɡʱər seː nɪkəlneː seː pɛɦleː maːt̪aː pɪt̪aː kaː aːʃiːrʋaːd̪ leːt̪eː hɛ̃ː] (hum huhr SOO-buh ghuhr say nee-KUHL-nay say PUH-hlay mah-tah-PEE-tah kah ah-sheer-VAHD LAY-tay hyn)",
+          "translation": "We take the blessings of our parents every morning before leaving home."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "अभी की बात = 'है'; हमेशा का स्वभाव = 'होता है'! देना → देता है; लेना → लेता है; करना → करता है!"
+      ],
+      "culturalNotes": [
+        "भारत में दैनिक दिनचर्या में बड़ों का चरण स्पर्श कर आशीर्वाद लेना ('आशीर्वाद लेते हैं') सम्मान और कृतज्ञता की गहरी सांस्कृतिक परंपरा है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"मसाला\":",
+          "prompt": "सार्वभौमिक स्वभाव बताने वाले वाक्य «चीनी मीठी ___» में कौन-सी क्रिया उपयुक्त होगी?",
           "options": [
-            "हम इस पाठ में इकाई 4.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («गाड़ी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बस» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («ट्रेन» का अनुचित स्थान)"
+            "होती है (Hoti hai - Is inherently / naturally sweet)",
+            "है",
+            "करता है",
+            "लेता है"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "प्राकृतिक या सार्वभौमिक गुण बताने के लिए «होती है» (Habitual to be) का प्रयोग होता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"मसाला\":",
+          "prompt": "क्रिया 'देना' (To give) का पुल्लिंग बहुवचन आदतन रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 4.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बस» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («ट्रेन» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («गाड़ी» का अशुद्ध रूप)"
+            "देते हैं (Dete hain - They give)",
+            "देता हूँ",
+            "देती है",
+            "देंगे"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'देना' धातु (दे-) + '-ते' + 'हैं' मिलकर «देते हैं» बनता है।"
         }
       ]
     },
@@ -2057,17 +2106,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"मसाला\": Which sentence is completely correct?",
+          "prompt": "विशेष धातुओं के आदतन प्रयोग वाला शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 4.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («ट्रेन» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («गाड़ी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बस» से संबंधित)"
+            "सूरज पूर्व से निकलता है और दूध सफ़ेद होता है। (The sun rises from the east and milk is white.)",
+            "सूरज पूर्व से निकलती है और दूध सफ़ेद है।",
+            "सूरज निकलता हूँ और दूध होती है।",
+            "दूध सफ़ेद करते हैं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«सूरज पूर्व से निकलता है» और «दूध सफ़ेद होता है» दोनों सार्वभौमिक सत्यों की शुद्ध व्याकरणिक अभिव्यक्ति हैं।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u5-l1": {
