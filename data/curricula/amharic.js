@@ -10839,85 +10839,62 @@
     "subject": "amharic",
     "unit": 24,
     "lessonNumber": 1,
-    "title": "ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence) (ክፍል 1)",
+    "title": "የመንግሥትና የድርጅት ደብዳቤ ቅርፅ እና አርዕስት (Official Letter Formats & Headers)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የመንግሥትና የድርጅት ደብዳቤዎች አጻጻፍ፣ ማመልከቻና ስምምነቶች ማዘጋጀት። (ክፍል 1)።",
+    "objective": "የኦፊሴላዊ ደብዳቤ ቅርፅን (ለ...፣ ከ...፣ ቀን፣ ጉዳዩ፣ የተከበሩ/ክቡር፣ ከሰላምታ ጋር) በመደበኛ የአጻጻፍ ስልት ማዘጋጀት።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የመንግሥትና የድርጅት ኦፊሴላዊ ደብዳቤ አወቃቀር (Official Letter Structure):\n\n፩. የደብዳቤ ራስጌና አድራሻ (Header & Address):\n- «ለ:» (To: [የተቀባዩ ስም እና የሥራ ኃላፊነት])\n- «ከ:» (From: [የላኪው ስም/መስሪያ ቤት])\n- «ቀን:» (Date [በኢትዮጵያ ወይም በጎርጎሮሳውያን የቀን አቆጣጠር])\n- «ጉዳዩ:» (Subject / Re: [የደብዳቤው ዋና ጭብጥ በአጭሩ])።\n\n፪. የሰላምታ እና የማጠቃለያ ቀመሮች:\n- መግቢያ: «የተከበሩ / ክቡር አቶ/ወ/ሮ...»\n- መዝጊያ: «ከሰላምታ ጋር» / «ከአክብሮት ሰላምታ ጋር»።",
       "examples": [
         {
-          "target": "መምህሩ የ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (24.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)' to the students."
+          "target": "ጉዳዩ: የቢሮ ቁሳቁስ ግዢ ጥያቄን በይፋ ማቅረብን ይመለከታል።",
+          "reading": "Guddayu: yäbiro qusaqus gəžye t’əyyaqen bäyəfa maqräbən yəmäläkkätal. [ɡuddaˈju jɛbiˈro kʼusakʼus ɡɨʒˈje tʼɨjːaˈkʼen bɛjɨˈfa makʼrɛˈbɨn jɨmɛlɛkːɛˈtal] (good-dah-YOO: yeh-bee-ROH k'oo-sah-K'OOS guzh-YAY t'uy-yah-K'AYN beh-yuh-FAH mahk'-reh-BUN yuh-mel-lehk-keh-TAHL)",
+          "translation": "Subject: Refers to submitting an official request for office supplies procurement."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (24.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ለተከበሩ የመምሪያው ኃላፊ የተጻፈው ይፋዊ ደብዳቤ በዛሬው ዕለት በዋና ጸሐፊው በኩል ደርሷል።",
+          "reading": "Lätäkabbäru yämämməriyaw halafi yätäts’afäw yəfawi däbdabbe bäzarrew ələt bäwana ts’ähafiw bäkkul därswal. [lɛtɛkɛbːɛˈru jɛmɛmːɨriˈjaw haˈlafi jɛtɛtsʼaˈfɛw jɨfaˈwi dɛbdaˈbːe bɛzaˈrew ʔɨˈlɨt bɛwaˈna tsʼɛhaˈfiw bɛkːul dɛrˈswal] (leh-teh-keb-beh-ROO yeh-mem-muh-ree-YAHW hah-LAH-fee yeh-tets'-AH-few yuh-fah-WEE deb-dahb-BAY beh-zah-RAY-woo uh-LUT beh-wah-NAH ts'eh-hah-FEEW bek-KOOL der-SWAHL)",
+          "translation": "The official letter written to the honorable department head has arrived today through the chief secretary."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (24.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (24.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ደብዳቤው ሲዘጋጅ «ከአክብሮት ሰላምታ ጋር» የሚለው መደበኛ የአስተዳደር ስነ-ስርዓት ተካቷል።",
+          "reading": "Däbdabbew sizäggağğ «kä'akəbrot sälamta gar» yämmilaw mädäbbänya yä'astädadär sənä-sər'at täkattwal. [dɛbdaˈbːew sizɛɡːadʒ «kɛʔakɨbˈrot sɛlamˈta ɡar» jɛmːiˈlɛw mɛdɛbːɛˈɲa jɛʔastɛdaˈdɛr sɨnɛsɨrˈʔat tɛkatːˈwal] (deb-dahb-BAY-woo see-zeg-GAHJ «keh-ah-kub-ROHT seh-lahm-TAH gahr» yem-mee-LEW meh-deb-ben-YAH yeh-ahs-teh-dah-DER suh-neh-sur-AHT teh-kaht-TWAHL)",
+          "translation": "When the letter was prepared, the standard administrative formality saying 'With respectful greetings' was included."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Letter Flow: ለ (To) -> ጉዳዩ (Subject) -> ክቡር (Honorable) -> ከአክብሮት ጋር (Respectfully)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ የመንግሥትና የድርጅት አስተዳደራዊ ደብዳቤዎች ላይ 'ጉዳዩ' (Subject) የሚለው ቃል በደማቅ ወይም ተሰምሮበት በግልጽ መቀመጡ የግዴታ ህግ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Subject: / Re:» የሚለውን በአማርኛ ይፋዊ ደብዳቤ አጻጻፍ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (24.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (24.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (24.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (24.1.w3)"
+            "ጉዳዩ: (Subject / Re: - Official letter header)",
+            "ወሬው:",
+            "መልእክቱ:",
+            "ምንም ጉዳይ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ጉዳዩ:» በደብዳቤው ላይ የሚብራራውን ዋና ርዕስ ለማመልከት የሚሠራበት መደበኛ ቃል ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u24-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'With respectful greetings' የሚለውን የደብዳቤ መዝጊያ ቃል በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (24.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (24.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (24.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (24.1.x3)"
+            "ከአክብሮት ሰላምታ ጋር (With respectful greetings - Formal sign-off)",
+            "ቻው",
+            "ደህና ሁን",
+            "ሰላም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (24.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (24.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (24.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (24.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ከአክብሮት ሰላምታ ጋር» በኦፊሴላዊ ደብዳቤ ማጠቃለያ ላይ የሚገባ ህጋዊና ጨዋ አገላለጽ ነው።"
         }
       ]
     },
@@ -10925,24 +10902,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 24-1):",
+          "prompt": "የይፋዊ ደብዳቤ ዋና ዋና ክፍሎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (24.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (24.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (24.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (24.1.z3)"
+            "ለ...፣ ከ...፣ ቀን፣ ጉዳዩ፣ ክቡር/የተከበሩ እና ከአክብሮት ሰላምታ ጋር።",
+            "ጨው፣ በርበሬ እና ዘይት።",
+            "እግር ኳስ፣ መረብ ኳስ እና ቅርጫት ኳስ።",
+            "በአማርኛ የደብዳቤ ቅርፅ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የመደበኛ አስተዳደራዊ ደብዳቤ ክፍሎችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u24-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ኦፊሴላዊ»):",
+          "prompt": "'ደብዳቤ / Letter' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ኦፊሴላዊ",
-            "ኦፊሴላዊ"
+            "ደብዳቤ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ኦፊሴላዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ደብዳቤ» (Däbdabbe) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -10953,85 +10929,62 @@
     "subject": "amharic",
     "unit": 24,
     "lessonNumber": 2,
-    "title": "ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence) (ክፍል 2)",
+    "title": "የማመልከቻ እና የጥያቄ ደብዳቤዎች (Applications, Petitions & Requests)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የመንግሥትና የድርጅት ደብዳቤዎች አጻጻፍ፣ ማመልከቻና ስምምነቶች ማዘጋጀት። (ክፍል 2)።",
+    "objective": "የስራ፣ የትምህርት፣ የፍቃድ ወይም የዕረፍት ማመልከቻዎችን በይፋዊ የአማርኛ አገባብ ማዘጋጀት።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የማመልከቻ እና የአቤቱታ ደብዳቤዎች አጻጻፍ (Writing Formal Applications):\n\n፩. የማመልከቻ ዋና ዋና አካላት:\n- አመልካች (Applicant) / ማመልከቻ (Application)\n- የስራ ልምድ (Work experience) / የትምህርት ማስረጃ (Educational credentials)\n- የፍቃድ ጥያቄ (Leave / permission request) / አቤቱታ (Petition / grievance)።\n\n፪. የትህትና እና የጥያቄ አገላለጾች:\n- «...እንዲፈቀድልኝ በአክብሮት እጠይቃለሁ» (I respectfully request that it be granted to me)\n- «...ስል በትህትና አመለክታለሁ» (I humbly apply, stating...)",
       "examples": [
         {
-          "target": "መምህሩ የ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (24.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)' to the students."
+          "target": "ጉዳዩ: የዓመት የዕረፍት ፈቃድ ጥያቄን በአክብሮት ስለማቅረብ።",
+          "reading": "Guddayu: yä'amät yä'ərəft fäqad t’əyyaqen bä'akəbrot səlämaqräb. [ɡuddaˈju jɛʔaˈmɛt jɛʔɨrɨft fɛˈkʼad tʼɨjːaˈkʼen bɛʔakɨbˈrot sɨlɛmakʼˈrɛb] (good-dah-YOO: yeh-ah-MET yeh-uh-RUFT feh-K'AHD t'uy-yah-K'AYN beh-ah-kub-ROHT sul-leh-mahk'-REB)",
+          "translation": "Subject: Respectfully submitting an annual vacation leave request."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (24.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "አመልካቹ አስፈላጊውን የትምህርት ማስረጃ እና የስራ ልምድ ሰነድ ከማመልከቻው ጋር አያይዟል።",
+          "reading": "Amälkaču asfällagiwən yätəməhərt masräğa ənna yäsəra ləmd sänäd kämamälkäčaw gar ayyayəzwal. [ʔamɛlkaˈtʃu ʔasfɛlːaɡiˈwɨn jɛtɨmɨhɨrt masrɛˈdʒa ʔɨnːa jɛsɨˈra lɨmd sɛˈnɛd kɛmamɛlkɛˈtʃaw ɡar ʔajːajɨzˈwal] (ah-mel-kah-CHOO ahs-fel-lah-GEE-wun yeh-tuh-muh-hur-T mahs-reh-JAH un-nah yeh-suh-RAH lum-D seh-NED keh-mah-mel-keh-CHAHW gahr eye-yah-yuz-WAHL)",
+          "translation": "The applicant attached the necessary educational credentials and work experience document with his application."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (24.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (24.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የቀረበውን አቤቱታ አስተዳደሩ በጥንቃቄ መርምሮ ተገቢውን ምላሽ በደብዳቤ ሰጠ።",
+          "reading": "Yäqärräbäwən abetuta astädadäru bät’ənqaqqe märəməro tägäbiwən məlaš bädäbdabbe sät’t’ä. [jɛkʼɛrːɛbɛˈwɨn ʔabetuˈta ʔastɛdaˈdɛru bɛtʼɨnkʼakʼːe mɛrɨmɨˈro tɛɡɛbiˈwɨn mɨˈlaʃ bɛdɛbdaˈbːe sɛtʼːɛ] (yeh-k'er-reh-beh-WUN ah-bay-too-TAH ahs-teh-dah-deh-ROO beh-t'un-k'ahk'-K'AY meh-ruh-muh-ROH teh-geh-BEE-wun muh-LAHSH beh-deb-dahb-BAY set'-t'EH)",
+          "translation": "The administration carefully examined the petition submitted and provided an appropriate reply by letter."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Application Recipe: አመልካች (Applicant) + ማስረጃ (Credentials) + እንዲፈቀድልኝ (May it be granted)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ የስራ ማመልከቻ ሲጻፍ 'እንዲፈቀድልኝ በትህትና እጠይቃለሁ' የሚለው ቀመር የመልካም ስነ-ምግባር መገለጫ ተደርጎ ይወሰዳል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Application» የሚለውን በአማርኛ አስተዳደራዊ ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (24.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (24.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (24.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (24.2.w3)"
+            "ማመልከቻ (Application - Formal administrative term)",
+            "የግል ታሪክ",
+            "ስዕል",
+            "ምንም አይደለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ማመልከቻ» ለአንድ መስሪያ ቤት ወይም ድርጅት በይፋ የሚቀርብ የጥያቄ ሰነድ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u24-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Educational credentials' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (24.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (24.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (24.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (24.2.x3)"
+            "የትምህርት ማስረጃ (Educational credentials / certificate)",
+            "የቤት እቃ",
+            "የመኪና ቁልፍ",
+            "ገንዘብ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (24.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (24.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (24.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (24.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«የትምህርት ማስረጃ» የትምህርት ደረጃን የሚያረጋግጥ ይፋዊ ሰነድ ነው።"
         }
       ]
     },
@@ -11039,24 +10992,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 24-2):",
+          "prompt": "የማመልከቻ እና የጥያቄ ደብዳቤ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (24.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (24.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (24.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (24.2.z3)"
+            "አመልካች፣ ማመልከቻ፣ የትምህርት ማስረጃ፣ የስራ ልምድ እና አቤቱታ።",
+            "ስኳር፣ ጨው፣ ሻይ እና ቡና።",
+            "ሰማያዊ፣ ቀይ እና ጥቁር።",
+            "በአማርኛ ማመልከቻ አይጻፍም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የማመልከቻ ደብዳቤ ዋና ዋና ቃላትን በሙሉ ያካትታል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u24-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ኦፊሴላዊ»):",
+          "prompt": "'ማመልከቻ / Application' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ኦፊሴላዊ",
-            "ኦፊሴላዊ"
+            "ማመልከቻ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ኦፊሴላዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ማመልከቻ» (Mamälkäča) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -11067,85 +11019,62 @@
     "subject": "amharic",
     "unit": 24,
     "lessonNumber": 3,
-    "title": "ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence) (ክፍል 3)",
+    "title": "የውል፣ የስምምነት እና የመመሪያ ሰነዶች (Contracts, Agreements & Directives)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የመንግሥትና የድርጅት ደብዳቤዎች አጻጻፍ፣ ማመልከቻና ስምምነቶች ማዘጋጀት። (ክፍል 3)።",
+    "objective": "የውል ስምምነቶችን፣ ግዴታዎችንና የአስተዳደር መመሪያዎችን የህግ ቋንቋ መረዳትና ማዋቀር።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የውል፣ የስምምነት እና የመመሪያ ሰነዶች አገባብ (Contracts & Administrative Legal Documents):\n\n፩. ዋና ዋና የውልና ስምምነት ቃላት:\n- የውል ስምምነት (Contract agreement) / ተዋዋይ ወገኖች (Contracting parties)\n- ግዴታ (Obligation) / መብት (Right) / ኃላፊነት (Responsibility)\n- የአስተዳደር መመሪያ (Administrative directive) / ድንጋጌ (Statute / provision)\n- ውል አፍራሽ (Breach of contract) / የቅጣት ውሳኔ (Penalty clause)።\n\n፪. ህጋዊ የአረፍተ ነገር ቀመሮች:\n- «ሁለቱ ተዋዋይ ወገኖች በሚከተሉት ነጥቦች ላይ ተስማምተዋል...»\n- «ይህ ውል በሁለቱም ወገኖች ፊርማ ከጸደቀበት ቀን ጀምሮ የጸና ይሆናል...»",
       "examples": [
         {
-          "target": "መምህሩ የ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (24.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)' to the students."
+          "target": "ሁለቱ ተዋዋይ ወገኖች በውሉ ውስጥ የተመለከቱትን ግዴታዎች በሙሉ ለማክበር ተስማምተዋል።",
+          "reading": "Hulättu täwaway wägänočč bäwulu wəst’ yätämälakkätutən gəddetawočč bämullu lämäkbär täsmamtäwal. [hulɛtːu tɛwaˈwaj wɛɡɛˈnotʃː bɛwuˈlu wɨstʼ jɛtɛmɛlakːɛˈtutɨn ɡɨdːetawoˈtʃːɨn bɛmulːu ləmɛkˈbɛr tɛsmamˈtɛwal] (hoo-let-TOO teh-wah-WYE weh-geh-NOHCH beh-woo-LOO woos-T' yeh-teh-mel-lahk-keh-TOO-tun gud-day-tah-wohch-CHUN beh-mool-LOO luh-mek-BER tes-mahm-TEH-wahl)",
+          "translation": "The two contracting parties agreed to fulfill all obligations specified in the contract."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (24.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "አዲሱ የአስተዳደር መመሪያ በሁሉም የመንግሥት መስሪያ ቤቶች ውስጥ ተግባራዊ እንዲሆን ታዘዘ።",
+          "reading": "Addisu yä'astädadär mämäriya bähullum yämängəst mäsriya betočč wəst’ tägbrawi əndihon tazäzä. [ʔadːiˈsu jɛʔastɛdaˈdɛr mɛmɛriˈja bɛhulːum jɛmɛnˈɡɨst mɛsriˈja betotʃː wɨstʼ tɛɡbraˈwi ʔɨndiˈhon tazɛˈzɛ] (ahd-DEE-soo yeh-ahs-teh-dah-DER meh-meh-ree-YAH beh-hool-LOOM yeh-men-GUST mes-ree-YAH bay-TOHCH woos-T' teg-brah-WEE un-dee-HOHN tah-zeh-ZEH)",
+          "translation": "The new administrative directive was ordered to be implemented in all government offices."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (24.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (24.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ይህ የቤት ኪራይ ውል ስምምነት በሁለቱም ወገኖች ፊርማ ከጸደቀበት ቀን ጀምሮ የጸና ይሆናል።",
+          "reading": "Yəh yäbet kiray wul səməmmənät bähulättum wägänočč firma käts’äddäqäbät qän ğämməro yäts’änna yəhonal. [jɨh jɛbet kiˈraj wul sɨmɨmːɨˈnɛt bɛhulɛtːum wɛɡɛˈnotʃː firˈma kɛtsʼɛdːɛkʼɛˈbɛt kʼɛn dʒɛmːɨˈro jɛtsʼɛnːa jɨhoˈnal] (yuh yeh-BAYT kee-RYE wool suh-mum-muh-NET beh-hoo-let-TOOM weh-geh-NOHCH feer-MAH keh-ts'ed-dek'-eh-BET k'en jem-muh-ROH yeh-ts'en-NAH yuh-hoh-NAHL)",
+          "translation": "This house lease contract agreement shall be valid starting from the day it is ratified by the signatures of both parties."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Contract Pillars: ውል (Contract) + ተዋዋይ (Parties) + ግዴታ (Obligation) + የጸና (Valid)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ህግ የውል ስምምነቶች ህጋዊ ተቀባይነት እንዲኖራቸው የውልና ማስረጃ ምዝገባ ኤጀንሲ ማህተም እና የሁለት ምስክሮች ፊርማ ያስፈልጋቸዋል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Contract agreement» የሚለውን በአማርኛ አስተዳደራዊ እና ህጋዊ ቃል በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (24.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (24.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (24.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (24.3.w3)"
+            "የውል ስምምነት (Contract agreement - Formal legal and administrative term)",
+            "የቃል ወሬ",
+            "የጨዋታ ህግ",
+            "ምንም ውል የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«የውል ስምምነት» በሁለት ወገኖች መካከል መብትና ግዴታን የሚደነግግ ይፋዊ የህግ ሰነድ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u24-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Contracting parties' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (24.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (24.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (24.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (24.3.x3)"
+            "ተዋዋይ ወገኖች (Contracting parties - Accurate legal terminology)",
+            "ተመልካቾች",
+            "እንግዶች",
+            "መንገደኞች"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (24.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (24.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (24.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (24.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ተዋዋይ ወገኖች» ውሉን የተፈራረሙትን አካላት የሚያመለክት መደበኛ የህግ ቃል ነው።"
         }
       ]
     },
@@ -11153,24 +11082,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 24-3):",
+          "prompt": "የውል እና የስምምነት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (24.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (24.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (24.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (24.3.z3)"
+            "የውል ስምምነት፣ ተዋዋይ ወገኖች፣ ግዴታ፣ የአስተዳደር መመሪያ እና ፊርማ።",
+            "ጫማ፣ ካልሲ፣ ሱሪ እና ሸሚዝ።",
+            "ወንዝ፣ ተራራ፣ ሸለቆ እና ሜዳ።",
+            "በአማርኛ የውል ሰነድ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የውልና የአስተዳደር መመሪያ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u24-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ኦፊሴላዊ»):",
+          "prompt": "'ስምምነት / Agreement' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ኦፊሴላዊ",
-            "ኦፊሴላዊ"
+            "ስምምነት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ኦፊሴላዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ስምምነት» (Səməmmənät) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -11181,85 +11109,62 @@
     "subject": "amharic",
     "unit": 24,
     "lessonNumber": 4,
-    "title": "ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence) (ክፍል 4)",
+    "title": "የስብሰባ ቃለ-ጉባኤ እና ሪፖርት አዘገጃጀት (Meeting Minutes & Administrative Reports)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የመንግሥትና የድርጅት ደብዳቤዎች አጻጻፍ፣ ማመልከቻና ስምምነቶች ማዘጋጀት። (ክፍል 4)።",
+    "objective": "የስብሰባ አጀንዳዎችን፣ ውሳኔዎችን፣ የተሰብሳቢዎችን ስም ዝርዝርና ቃለ-ጉባኤን በመደበኛ ስልት መመዝገብ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የስብሰባ ቃለ-ጉባኤ እና ሪፖርት አዘገጃጀት መርሆዎች (Meeting Minutes & Reporting):\n\n፩. የቃለ-ጉባኤ ዋና ዋና ክፍሎች:\n- ቃለ-ጉባኤ (Minutes of meeting) / አጀንዳ (Agenda)\n- ሰብሳቢ (Chairperson) / ጸሐፊ (Secretary)\n- ተሰብሳቢዎች (Attendees / participants) / ውሳኔ (Resolution / decision)\n- የድርጊት መርሃ-ግብር (Action plan) / ሪፖርት (Report)።\n\n፪. የመመዝገቢያ አገባብ:\n- «ስብሰባው በተያዘው አጀንዳ መሰረት በ... ሰዓት ተጀመረ...»\n- «በቀረበው ሪፖርት ላይ ሰፊ ውይይት ከተደረገ በኋላ የሚከተሉት ውሳኔዎች ተላልፈዋል...»",
       "examples": [
         {
-          "target": "መምህሩ የ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (24.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)' to the students."
+          "target": "ስብሰባው በተያዘው አጀንዳ መሰረት በቦርዱ ሰብሳቢ መሪነት በይፋ ተከፈተ።",
+          "reading": "Səbsäbaw bätäyazäw ağända mäsərät bäbordu säbsabi märinnät bäyəfa täkäffätä. [sɨbsɛˈbaw bɛtɛjaˈzɛw ʔadʒɛnˈda mɛsɨˈrɛt bɛborˈdu sɛbˈsabi mɛrinːɛt bɛjɨˈfa tɛkɛfːɛˈtɛ] (sub-seh-BAHW beh-teh-yah-ZEW ah-jen-DAH meh-suh-RET beh-bohr-DOO seb-SAH-bee meh-reen-NET beh-yuh-FAH teh-kef-feh-TEH)",
+          "translation": "The meeting was officially opened under the leadership of the board chairperson according to the agenda."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (24.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ጸሐፊዋ የስብሰባውን ቃለ-ጉባኤ በዝርዝር በመመዝገብ ለተሰብሳቢዎቹ በሙሉ አሰራጨች።",
+          "reading": "Ts’ähafiwa yäsəbsäbawən qalä-guba'e bəzərəzzər bämämmäzgäb lätäsäbsabiwočču bämullu asəraččäčč. [tsʼɛhaˈfiwa jɛsɨbsɛˈbawɨn kʼalɛɡubaˈʔe bɨzɨrɨzːɨr bɛmɛmːɛzˈɡɛb lətɛsɛbsabiwoˈtʃːu bɛmulːu ʔasɨraˈtʃːɛtʃː] (ts'eh-hah-FEE-wah yeh-sub-seh-BAH-wun k'ah-leh-goo-bah-AY buh-zuh-ruz-ZUR beh-mem-mez-GEB luh-teh-seb-sah-bee-wohch-CHOO beh-mool-LOO ahs-rahch-CHEHCH)",
+          "translation": "The secretary recorded the meeting minutes in detail and distributed them to all attendees."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (24.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (24.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በስብሰባው ማጠቃለያ ላይ በቀጣይ የድርጊት መርሃ-ግብር ዙሪያ የጋራ ውሳኔ ተላለፈ።",
+          "reading": "Bäsəbsäbaw mat’äqqaläya lay bäqät’ay yädərgitočč märəha-gəbər zuriya yägara wəsane tälalläfä. [bɛsɨbsɛˈbaw matʼɛkʼːalɛˈja laj bɛkʼɛˈtʼaj jɛdɨrɡiˈtotʃː mɛrɨhaɡɨˈbɨr zuˈrija jɛɡaˈra wɨsaˈne tɛlalːɛˈfɛ] (beh-sub-seh-BAHW maht'-ek'-k'ah-leh-YAH lye beh-k'eh-T'YE yeh-dur-gee-TOHCH meh-ruh-hah-guh-BUR zoo-REE-yah yeh-gah-RAH wuh-sah-NAY teh-lahl-leh-FEH)",
+          "translation": "At the conclusion of the meeting, a joint decision was passed regarding the upcoming action plan."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Minutes Chain: አጀንዳ (Agenda) -> ሰብሳቢ (Chair) -> ቃለ-ጉባኤ (Minutes) -> ውሳኔ (Decision)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ድርጅታዊ ባህል የስብሰባ ቃለ-ጉባኤ በሁሉም ተሳታፊዎች ወይም በሰብሳቢውና በጸሐፊው ፊርማ ተረጋግጦ በማህደር ይቀመጣል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Minutes of meeting» የሚለውን በአማርኛ አስተዳደራዊ ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (24.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (24.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (24.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (24.4.w3)"
+            "ቃለ-ጉባኤ (Minutes of meeting - Administrative record term)",
+            "የስብሰባ ወሬ",
+            "የአዳራሽ ቁልፍ",
+            "ምንም ሰነድ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ቃለ-ጉባኤ» በስብሰባ ወቅት የተነሱትን ነጥቦችና የተላለፉትን ውሳኔዎች በጽሁፍ የሚያሰፍር ይፋዊ ሰነድ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u24-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Agenda' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (24.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (24.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (24.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (24.4.x3)"
+            "አጀንዳ (Agenda - Standard meeting topic list)",
+            "የስብሰባ ሰዓት ብቻ",
+            "ምሳ",
+            "እረፍት"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (24.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (24.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (24.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (24.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«አጀንዳ» በስብሰባው ላይ የሚወያዩባቸውን ርዕሰ ጉዳዮች ዝርዝር ያመለክታል።"
         }
       ]
     },
@@ -11267,24 +11172,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 24-4):",
+          "prompt": "የስብሰባ ቃለ-ጉባኤ ክፍሎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (24.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (24.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (24.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (24.4.z3)"
+            "አጀንዳ፣ ሰብሳቢ፣ ጸሐፊ፣ ተሰብሳቢዎች፣ ቃለ-ጉባኤ እና ውሳኔ።",
+            "ብርቱካን፣ ሎሚ፣ ማንጎ እና ሙዝ።",
+            "ወንበር፣ ጠረጴዛ እና ሰሌዳ።",
+            "በአማርኛ ቃለ-ጉባኤ አይጻፍም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የስብሰባ አስተዳደራዊ ሰነድ ክፍሎችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u24-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ኦፊሴላዊ»):",
+          "prompt": "'ቃለ-ጉባኤ / Minutes of meeting' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ኦፊሴላዊ",
-            "ኦፊሴላዊ"
+            "ቃለ-ጉባኤ",
+            "ቃለ ጉባኤ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ኦፊሴላዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ቃለ-ጉባኤ» (Qalä-guba'e) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -11295,85 +11200,62 @@
     "subject": "amharic",
     "unit": 24,
     "lessonNumber": 5,
-    "title": "ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence) (ክፍል 5)",
+    "title": "የክፍል 24 አጠቃላይ ማጠቃለያ (Unit 24 Grand Synthesis & Administrative Office Correspondence)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የመንግሥትና የድርጅት ደብዳቤዎች አጻጻፍ፣ ማመልከቻና ስምምነቶች ማዘጋጀት። (ክፍል 5)።",
+    "objective": "ይፋዊ ደብዳቤዎችን፣ ማመልከቻዎችን፣ የውል ስምምነቶችንና የስብሰባ ቃለ-ጉባኤዎችን ያቀናጀ የተሟላ አስተዳደራዊ ተግባቦት ማከናወን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፳፬ አጠቃላይ የአስተዳደራዊ እና የኦፊሴላዊ ደብዳቤዎች ማጠቃለያ:\n\n፩. የደብዳቤ ቅርፅ:\n- ለ...፣ ከ...፣ ቀን፣ ጉዳዩ፣ ክቡር/የተከበሩ፣ ከአክብሮት ሰላምታ ጋር።\n\n፪. ማመልከቻና አቤቱታ:\n- አመልካች፣ የትምህርት ማስረጃ፣ የስራ ልምድ፣ እንዲፈቀድልኝ በትህትና እጠይቃለሁ።\n\n፫. ውልና ስምምነት:\n- ተዋዋይ ወገኖች፣ ግዴታ፣ መብት፣ መመሪያ፣ የጸና ይሆናል።\n\n፬. ቃለ-ጉባኤና ሪፖርት:\n- አጀንዳ፣ ሰብሳቢ፣ ጸሐፊ፣ ተሰብሳቢዎች፣ ውሳኔ።",
       "examples": [
         {
-          "target": "መምህሩ የ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (24.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)' to the students."
+          "target": "ጉዳዩ: የድርጅቱን የስብሰባ ቃለ-ጉባኤ እና አዲሱን የውል ስምምነት መመሪያ ማሳወቅን ይመለከታል።",
+          "reading": "Guddayu: yädərəğğətun yäsəbsäba qalä-guba'e ənna addisun yäwul səməmmənät mämäriya masawäqən yəmäläkkätal. [ɡuddaˈju jɛdɨrɨdʒːɨˈtun jɛsɨbsɛˈba kʼalɛɡubaˈʔe ʔɨnːa ʔadːiˈsun jɛwul sɨmɨmːɨˈnɛt mɛmɛriˈja masaˈwɛkʼɨn jɨmɛlɛkːɛˈtal] (good-dah-YOO: yeh-dur-uj-juh-TOON yeh-sub-seh-BAH k'ah-leh-goo-bah-AY un-nah ahd-DEE-soon yeh-wool suh-mum-muh-NET meh-meh-ree-YAH mah-saw-wuh-K'UN yuh-mel-lehk-keh-TAHL)",
+          "translation": "Subject: Refers to notifying the organization's meeting minutes and the new contract agreement directive."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (24.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "አመልካቹ የውል ግዴታዎቹን በሚገባ አሟልቶ ስራውን እንዲጀምር በይፋዊ ደብዳቤ ተገለጸለት።",
+          "reading": "Amälkaču yäwul gəddetawoččun bämigäba amwaləto sərawən əndigämmər bäyəfawi däbdabbe tägäläts’älät. [ʔamɛlkaˈtʃu jɛwul ɡɨdːetawoˈtʃːun bɛmiɡɛˈba ʔamwaˈlɨto sɨraˈwɨn ʔndiˈdʒɛmːɨr bɛjɨfaˈwi dɛbdaˈbːe tɛɡɛlɛtsʼɛˈlɛt] (ah-mel-kah-CHOO yeh-wool gud-day-tah-wohch-CHOON beh-mee-geh-BAH ahm-wah-luh-TOH suh-rah-WUN un-dee-jem-MUR beh-yuh-fah-WEE deb-dahb-BAY teh-geh-lets'-eh-LET)",
+          "translation": "It was disclosed to the applicant via official letter to start work after properly fulfilling his contractual obligations."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (24.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (24.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በስብሰባው የተላለፉት ውሳኔዎች በመመሪያ ሰነድ ተዘጋጅተው ለሁሉም ተዋዋይ ወገኖች ተሰራጩ።",
+          "reading": "Bäsəbsäbaw yätälalläfut wəsanewočč bämämäriya sänäd täzägağğətäw lähullum täwaway wägänočč täsäračču. [bɛsɨbsɛˈbaw jɛtɛlalːɛˈfut wɨsaˈnewotʃː bɛmɛmɛriˈja sɛˈnɛd tɛzɛɡadʒːɨˈtɛw ləhulːum tɛwaˈwaj wɛɡɛˈnotʃː tɛsɛraˈtʃːu] (beh-sub-seh-BAHW yeh-teh-lahl-leh-FOOT wuh-sah-nay-WOHCH beh-meh-meh-ree-YAH seh-NED teh-zeg-ahj-juh-TEW luh-hool-LOOM teh-wah-WYE weh-geh-NOHCH teh-seh-rahch-CHOO)",
+          "translation": "The decisions passed at the meeting were prepared in a directive document and distributed to all contracting parties."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Admin Synthesis 24: Header (ጉዳዩ) + Application (ማመልከቻ) + Contract (ውል) + Minutes (ቃለ-ጉባኤ)!"
+      ],
+      "culturalNotes": [
+        "የአማርኛ አስተዳደራዊ እና ቢሮክራሲያዊ ቋንቋ በስራ ቦታዎች ግልጽነትን፣ የህግ ተገዢነትንና ሙያዊ አሰራርን ለማስፈን ከፍተኛ ደረጃ ያለው ስርዓት ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ አስተዳደራዊ ሰነድ አወቃቀር የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (24.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (24.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (24.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (24.5.w3)"
+            "ጉዳዩ: የስብሰባ ቃለ-ጉባኤ ውሳኔን እና የውል ስምምነት መመሪያን ማጽደቅ። (Complete administrative document header combining minutes resolutions and contract directives)",
+            "ምንም ሰነድ የለም",
+            "ሁሉም ተራ ወረቀት ነው",
+            "ማመልከቻ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ይህ አማራጭ የደብዳቤ ርዕስን (ጉዳዩ)፣ ቃለ-ጉባኤን እና የውል መመሪያን በአግባቡ ያጣመረ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u24-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "የማመልከቻ እና የውል ስምምነት ቃላትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (24.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (24.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (24.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (24.5.x3)"
+            "አመልካቹ የውል ስምምነቱን ግዴታዎች አሟልቶ ማመልከቻውን አስገባ። (The applicant fulfilled contract agreement obligations and submitted his application - Cohesive administrative sentence)",
+            "ምንም ማመልከቻ አልገባም",
+            "ውል የለም",
+            "ሰው የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ኦፊሴላዊ ደብዳቤዎች እና አስተዳደራዊ ቋንቋ (Official Correspondence)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (24.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (24.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (24.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (24.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ የማመልከቻ እና የውል ቃላትን በትክክል ያቀናጃል።"
         }
       ]
     },
@@ -11381,24 +11263,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 24-5):",
+          "prompt": "የክፍል 24 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (24.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (24.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (24.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (24.5.z3)"
+            "የመንግሥትና የድርጅት ደብዳቤ ቅርፅ፣ የማመልከቻ አጻጻፍ፣ የውልና ስምምነት ሰነዶች፣ እንዲሁም የስብሰባ ቃለ-ጉባኤ እና ሪፖርት ተካተዋል።",
+            "ይህ ክፍል ስለ ስፖርት ብቻ ነው።",
+            "በአማርኛ ይፋዊ ደብዳቤ አይጻፍም።",
+            "ሁሉም ሰነዶች ተመሳሳይ ቅርፅ አላቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 24ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u24-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ኦፊሴላዊ»):",
+          "prompt": "'አስተዳደር / Administration' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ኦፊሴላዊ",
-            "ኦፊሴላዊ"
+            "አስተዳደር"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ኦፊሴላዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «አስተዳደር» (Astädadär) ነው።"
         }
       ],
       "passThreshold": 0.8
