@@ -5815,53 +5815,62 @@
     "subject": "ukrainian",
     "unit": 14,
     "lessonNumber": 1,
-    "title": "Прикметники: тверда та м'яка групи, узгодження (Adjectives) (Part 1)",
+    "title": "Тверда група прикметників: відмінювання (Hard Group Adjective Declension)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 14.1) with authentic linguistic precision.",
+    "objective": "Опанувати систему відмінювання прикметників твердої групи (новий, високий, добра, гарне) у всіх родах та відмінках однини й множини.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Прикметники в українській мові узгоджуються з іменниками в роді, числі та відмінку. За характером кінцевого приголосного основи всі якісні та відносні прикметники поділяються на дві групи: тверду та м'яку.\n\nТверда група — основа закінчується на твердий приголосний (зокрема й на г, к, х): новий, добрий, широкий, високий, світлий, український.\n\n1. Парадигма відмінювання в однині:\n   - Чоловічий рід: Н. новий / високий; Р. нового / високого; Д. новому / високому; Зн. = Н. (неістота) / = Р. (істота); Ор. новим / високим; М. (на) новому / новім; Кл. = Н.\n   - Жіночий рід: Н. нова / висока; Р. нової / високої; Д. новій / високій; Зн. нову / високу; Ор. новою / високою (-ою!); М. (на) новій / високій; Кл. = Н.\n   - Середній рід: Н. нове / високе; Р. нового / високого; Д. новому / високому; Зн. нове / високе; Ор. новим / високим; М. (на) новому / новім; Кл. = Н.\n\n2. Парадигма відмінювання в множині (спільна для всіх родів):\n   - Н. нові / високі; Р. нових / високих; Д. новим / високим; Зн. = Н. / = Р.; Ор. новими / високими; М. (на) нових / високих.\n\n3. Зверніть увагу: орудний відмінок жіночого роду твердої групи ЗАВЖДИ має закінчення «-ою» (красивою, щирою, високою).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Ми захоплюємося прекрасною архітектурою та багатим історичним спадком нашої столиці.",
+          "reading": "[mɪ zɐxɔpˈlʲujɛmɔsʲɑ prɛˈkrɑsnɔju ɐrxʲitɛkˈturɔju tɑ bɐˈɦɑtɪm isˈtɔrɪtʃnɪm ˈspɑdkɔm ˈnɑʃɔji stɔˈlɪt͡sʲi] (my zah-khohp-LYOO-yeh-mohs'-yah preh-KRAHS-noh-yoo ahr-khee-tek-TOO-roh-yoo tah bah-HAH-tym ees-TOH-rych-nym SPAHD-kohm NAH-shoh-yee stoh-LY-tsee)",
+          "translation": "We admire the wonderful architecture and rich historical heritage of our capital."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 14-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Новому науковому проєкту потрібна всебічна підтримка провідних експертів.",
+          "reading": "[nɔˈwɔmu nɐuˈkɔwɔmu prɔˈjɛktu pɔtʲˈrʲibnɐ wsɛˈbʲitʃnɐ pʲidˈtrɪmkɐ prɔwʲidˈnɪx ɛksˈpɛrtʲiw] (noh-VOH-moo nah-oo-KOH-woh-moo proh-YEK-too poht-REEB-nah vseh-BEECH-nah peed-TRYM-kah proh-veed-NYKH eks-PEHR-teew)",
+          "translation": "The new scientific project needs comprehensive support from leading experts."
+        },
+        {
+          "target": "Студенти працювали над складними практичними завданнями протягом двох місяців.",
+          "reading": "[stuˈdɛntɪ prɐt͡sʲuˈwɑlɪ nɑd sklɐdˈnɪmɪ prɐkˈtɪtʃnɪmɪ zɐwˈdɑnʲːɐmɪ prɔˈtʲɑɦɔm dwɔx ˈmʲisʲɐt͡sʲiw] (stoo-DEN-ty praht-syoo-VAH-ly nahd sklahd-NY-my prahk-TYCH-ny-my zahv-DAHN-nyah-my proh-TYAH-hohm dvokh MEE-syah-tseev)",
+          "translation": "The students worked on complex practical tasks for two months."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Тверда основа — тверде закінчення: «новий», «нового», «новому», а в орудному жіночому — лише «-ою»!"
+      ],
+      "culturalNotes": [
+        "Форма місцевого відмінка чоловічого роду на «-ім» («у новім домі», «на білім світі») є поетичним архаїзмом, характерним для українських народних пісень."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Плавання\":",
+          "prompt": "Оберіть правильну форму орудного відмінка однини жіночого роду від прикметника «широкий»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.1.",
-            "Неправильне відмінкове узгодження зі словом «Подорож»",
-            "Порушення законів евфонії та словотворення для «Театр»",
-            "Стилістично некоректна синтаксична конструкція з «Музей»"
+            "Широкою (Feminine singular instrumental of hard group ends in -ою)",
+            "Широкой",
+            "Широкую",
+            "Широкею"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "В українській мові орудний відмінок однини жіночого роду прикметників твердої групи має виключно закінчення -ою: «широкою»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Плавання\":",
+          "prompt": "Яке закінчення має прикметник твердої групи «глибокий» у родовому відмінку множини?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.1.",
-            "Порушення законів евфонії та словотворення для «Театр»",
-            "Стилістично некоректна синтаксична конструкція з «Музей»",
-            "Неправильне відмінкове узгодження зі словом «Подорож»"
+            "-их (глибоких озер)",
+            "-іх",
+            "-ох",
+            "-им"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Прикметники твердої групи в родовому відмінку множини мають закінчення -их: «глибоких»."
         }
       ]
     },
@@ -5869,17 +5878,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Плавання\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому всі форми прикметників твердої групи узгоджено правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.1.",
-            "Стилістично некоректна синтаксична конструкція з «Музей»",
-            "Неправильне відмінкове узгодження зі словом «Подорож»",
-            "Порушення законів евфонії та словотворення для «Театр»"
+            "Ми пишаємося рідною українською мовою та славною історією.",
+            "Ми пишаємося рідной українськой мовой та славной історієй.",
+            "Ми пишаємося рідну українську мову та славну історію.",
+            "Ми пишаємося рідної української мови."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Дієслово «пишатися» керує орудним відмінком, тому прикметники жіночого роду мають нормативне закінчення -ою: «рідною українською мовою», «славною історією»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u14-l2": {
@@ -5887,53 +5897,62 @@
     "subject": "ukrainian",
     "unit": 14,
     "lessonNumber": 2,
-    "title": "Прикметники: тверда та м'яка групи, узгодження (Adjectives) (Part 2)",
+    "title": "М'яка група прикметників: відмінювання (Soft Group Adjective Declension)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 14.2) with authentic linguistic precision.",
+    "objective": "Опанувати парадигму відмінювання прикметників м'якої групи (синій, літній, вечірня, осіннє, безкраї) з м'яким знаком та йотованими голосними.",
     "presentation": {
-      "explanation": "",
+      "explanation": "До м'якої групи належать прикметники, основа яких закінчується на м'який приголосний [н'] або [й]:\n- Прикметники на «-ній»: синій, літній, вечірній, осінній, зимовий, ранній, давній, середній, крайній, майбутній, сусідній, останній, торішній, художній.\n- Прикметник на «-їй»: безкраїй (основа на [й]).\n\n1. Парадигма відмінювання в однині:\n   - Чоловічий рід: Н. синій; Р. синього (з м'яким знаком!); Д. синьому; Зн. = Н. / = Р.; Ор. синім; М. (на) синьому / синім.\n   - Жіночий рід: Н. синя (буква я); Р. синьої; Д. синій; Зн. синю (буква ю); Ор. синьою (закінчення -ьою!); М. (на) синій.\n   - Середній рід: Н. синє (буква є); Р. синього; Д. синьому; Зн. синє; Ор. синім; М. (на) синьому / синім.\n\n2. Множина (спільна для всіх родів):\n   - Н. сині; Р. синіх; Д. синім; Зн. = Н. / = Р.; Ор. синіми; М. (на) синіх.\n\n3. Головні відмінності від твердої групи:\n- Наявність м'якого знака перед голосними [о]: синього, синьому, синьою.\n- Букви «я, є, ю» у закінченнях називного та знахідного відмінків: синя, синє, синю.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Теплою літньою порою ми часто милувалися тихою вечірньою загравою.",
+          "reading": "[ˈtɛplɔju ˈlʲitnʲɔju pɔˈrɔju mɪ ˈtʃɑstɔ mɪluˈwɑlɪsʲɑ ˈtɪxɔju wɛˈtʃirnʲɔju zɐɦˈrɑwɔju] (TEP-loh-yoo LEET-nyoh-yoo poh-ROH-yoo my CHAH-stoh my-loo-VAH-lyhs'-yah TY-khoh-yoo veh-CHEER-nyoh-yoo zah-HRAH-woh-yoo)",
+          "translation": "In the warm summer season we often admired the quiet evening twilight."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 14-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "У синьому небі повільно пропливали легкі пухнасті хмаринки.",
+          "reading": "[u ˈsɪnʲɔmu ˈnɛbʲi pɔˈwʲilʲnɔ prɔplɪˈwɑlɪ lɛɦˈkʲi puxˈnɑsʲtʲi xmɐˈrɪnkɪ] (oo SY-nyoh-moo NEH-bee poh-VEEL'-noh proh-ply-VAH-ly leh-KEE pookh-NAHS-tee khmah-RYN-ky)",
+          "translation": "In the blue sky light fluffy clouds were slowly floating by."
+        },
+        {
+          "target": "Ми зустрілися біля сусіднього будинку, щоб обговорити наші майбутні плани.",
+          "reading": "[mɪ zusʲˈtrʲilɪsʲɑ ˈbʲilʲɑ suˈsʲidnʲɔɦɔ buˈdɪnku ʃtʃɔb ɔbɦɔwɔˈrɪtɪ ˈnɑʃi mɐjˈbutnʲi ˈplɑnɪ] (my zoos-TREE-lyhs'-yah BEE-lyah soo-SEED-nyoh-hoh boo-DYN-koo shchohb ohb-hoh-woh-RY-ty NAH-shee mahy-BOOT-nee PLAH-ny)",
+          "translation": "We met near the neighboring building to discuss our future plans."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "М'яка основа — м'який знак і м'які закінчення: «синього», «літньому», а в орудному жіночому — тільки «-ьою»!"
+      ],
+      "culturalNotes": [
+        "Прикметник «синій» є одним із найпоетичніших символів в українській ліриці («сині гори», «синій Дніпро», «сині очі»)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Подорож\":",
+          "prompt": "Оберіть правильну форму орудного відмінка жіночого роду від прикметника м'якої групи «вечірній»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.2.",
-            "Неправильне відмінкове узгодження зі словом «Театр»",
-            "Порушення законів евфонії та словотворення для «Музей»",
-            "Стилістично некоректна синтаксична конструкція з «Картина»"
+            "Вечірньою (Feminine singular instrumental of soft group ends in -ьою)",
+            "Вечірнею",
+            "Вечірньой",
+            "Вечірній"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Прикметники м'якої групи в орудному відмінку жіночого роду мають закінчення -ьою: «вечірньою»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Подорож\":",
+          "prompt": "Який прикметник належить до м'якої групи?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.2.",
-            "Порушення законів евфонії та словотворення для «Музей»",
-            "Стилістично некоректна синтаксична конструкція з «Картина»",
-            "Неправильне відмінкове узгодження зі словом «Театр»"
+            "Осінній (Soft group ending in -ній with stem ending in palatalized n')",
+            "Зелений",
+            "Холодний",
+            "Прекрасний"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Прикметник «осінній» має основу на м'який приголосний [н'] і належить до м'якої групи."
         }
       ]
     },
@@ -5941,17 +5960,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Подорож\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому допущено помилку у відмінюванні прикметника м'якої групи:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.2.",
-            "Стилістично некоректна синтаксична конструкція з «Картина»",
-            "Неправильне відмінкове узгодження зі словом «Театр»",
-            "Порушення законів евфонії та словотворення для «Музей»"
+            "Ми прогулювалися по літнему парку біля озера.",
+            "Ми прогулювалися по літньому парку біля озера.",
+            "Він милувався синьою водою глибокого озера.",
+            "Студенти чекають на майбутні результати іспиту."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Форма «по літнему» містить орфографічну помилку. Прикметники м'якої групи у місцевому/давальному відмінках пишуться з м'яким знаком: «літньому»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u14-l3": {
@@ -5959,53 +5979,62 @@
     "subject": "ukrainian",
     "unit": 14,
     "lessonNumber": 3,
-    "title": "Прикметники: тверда та м'яка групи, узгодження (Adjectives) (Part 3)",
+    "title": "Присвійні прикметники (Possessive Adjectives: -ів, -ин)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 14.3) with authentic linguistic precision.",
+    "objective": "Опанувати правила словотворення присвійних прикметників за допомогою суфіксів -ів/-ев та -ин/-їн, історичні чергування (Ольга -> Ольжин) та особливості правопису з великої літери.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Присвійні прикметники вказують на належність предмета конкретній людині чи тварині та відповідають на питання «чий? чия? чиє? чиї?»:\n\n1. Творення від іменників I відміни (суфікси «-ин / -їн»):\n   - Від іменників жіночого (та деяких чоловічих) роду:\n     * Сестра -> сестрин; мама -> мамин; Галя -> Галин; Софія -> Софіїн; Марія -> Маріїн.\n   - Чергування приголосних перед суфіксом «-ин»:\n     * [г] -> [ж]: Ольга -> Ольжин\n     * [к] -> [ч]: дочка -> доччин (з подвоєнням чч!), тітка -> тітчин\n     * [х] -> [ш]: Солоха -> Солошин.\n\n2. Творення від іменників II відміни (суфікси «-ів / -ев / -єв / -ов»):\n   - Тверда група: батько -> батьків (батькова, батькове, батькові); брат -> братів; Петро -> Петрів; Шевченко -> Шевченків.\n   - М'яка та мішана групи: коваль -> ковалів / ковалев; Андрій -> Андріїв; лікар -> лікарів; Сергій -> Сергіїв; водій -> водіїв.\n\n3. Правопис великої та малої літери (важливе правило):\n   - З ВЕЛИКОЇ літери пишуться присвійні прикметники на -ів, -ин, утворені від власних назв людей: «Шевченків вірш», «Франкова поезія», «Оксанина книга».\n   - З МАЛОЇ літери пишуться відносні прикметники з суфіксами «-ськ-, -івськ-»: «шевченківський стиль», «франківські читання», «київські вулиці».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Шевченків «Кобзар» став духовною святинею для кожного свідомого українця.",
+          "reading": "[ʃɛwˈtʃɛnkʲiw kɔbˈzɑr stɑw duˈxɔwnɔju swjɐˈtɪnɛju dlʲɑ ˈkɔʒnɔɦɔ swʲiˈdɔmɔɦɔ ukrɐˈjinʲt͡sʲɑ] (shehv-CHEN-keew kohb-ZAHR stahv doo-KHOHV-noh-yoo svyah-TY-neh-yoo dlyah KOHZH-noh-hoh svee-DOH-moh-hoh oo-krah-YEEN-tsyah)",
+          "translation": "Shevchenko's 'Kobzar' became a spiritual sanctuary for every conscious Ukrainian."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 14-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Ольжина доповідь викликала жваву дискусію серед провідних науковців.",
+          "reading": "[ˈɔlʲʒɪnɐ dɔpɔˈwʲidʲ wɪkˈlɪkɐlɐ ˈʒwɑwu dɪsˈkusʲiju ˈsɛrɛd prɔwʲidˈnɪx nɐuˈkɔwt͡sʲiw] (OHL'-zhy-nah doh-poh-VEED' vyk-LY-kah-lah ZHVAH-voo dys-KOO-siy-yoo SEH-red proh-veed-NYKH nah-oo-KOV-tseew)",
+          "translation": "Olha's report sparked a lively discussion among leading scientists."
+        },
+        {
+          "target": "Ми відвідали традиційні франківські читання у Львівському національному університеті.",
+          "reading": "[mɪ wʲidˈwʲidɐlɪ trɐdɪt͡sʲijˈnʲi frɐnˈkʲiwsʲkʲi tʃɪˈtɑnʲːɑ u lʲˈwʲiwsʲkɔmu nɐt͡sʲiɔˈnɑlʲnɔmu unʲiwɛrsɪˈtɛtʲi] (my veed-VEE-dah-ly trah-dy-tseey-NEE frahn-KEEV-s'kee chy-TAHN-nyah oo L'VEEV-s'koh-moo nah-tsee-oh-NAHL'-noh-moo oo-nee-vehr-sy-TEH-tyee)",
+          "translation": "We attended the traditional Franko readings at Lviv National University."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Чий? Батьків, Ольжин, Шевченків — з суфіксами «-ів/-ин» і з великої літери!"
+      ],
+      "culturalNotes": [
+        "Суфікс -ин у жіночих іменах із чергуванням (Ольжин, Маріїн, Лесин) віддзеркалює прадавні слов'янські моделі вшанування роду."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Театр\":",
+          "prompt": "Утворіть присвійний прикметник від імені «Ольга» з урахуванням історичного чергування приголосних:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.3.",
-            "Неправильне відмінкове узгодження зі словом «Музей»",
-            "Порушення законів евфонії та словотворення для «Картина»",
-            "Стилістично некоректна синтаксична конструкція з «Погода»"
+            "Ольжин (Stem consonant alternation g -> zh before suffix -ин)",
+            "Ольгин",
+            "Ольгін",
+            "Ольгіїв"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Перед суфіксом -ин приголосний [г] закономірно чергується з [ж]: «Ольга -> Ольжин»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Театр\":",
+          "prompt": "Згідно з нормами правопису, яке словосполучення пишеться з ВЕЛИКОЇ літери?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.3.",
-            "Порушення законів евфонії та словотворення для «Картина»",
-            "Стилістично некоректна синтаксична конструкція з «Погода»",
-            "Неправильне відмінкове узгодження зі словом «Музей»"
+            "Шевченкова поезія (Possessive adjective with -ов/-ів from proper noun)",
+            "шевченківські лауреати",
+            "київські каштани",
+            "франківський стиль"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Присвійні прикметники на -ів/-ов, утворені від власних назв (Шевченко -> Шевченкова), пишуться з великої літери."
         }
       ]
     },
@@ -6013,17 +6042,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Театр\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому правильно утворено та написано присвійний прикметник від імені «Марія»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.3.",
-            "Стилістично некоректна синтаксична конструкція з «Погода»",
-            "Неправильне відмінкове узгодження зі словом «Музей»",
-            "Порушення законів евфонії та словотворення для «Картина»"
+            "Маріїна нова наукова праця здобула міжнародне визнання.",
+            "Марієва нова наукова праця здобула визнання.",
+            "Маринина нова наукова праця здобула визнання.",
+            "маріїнська нова праця визнана вченими."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Від жіночого імені на -ія присвійний прикметник твориться суфіксом -їн: «Марія -> Маріїн (Маріїна)» і пишеться з великої літери."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u14-l4": {
@@ -6031,53 +6061,62 @@
     "subject": "ukrainian",
     "unit": 14,
     "lessonNumber": 4,
-    "title": "Прикметники: тверда та м'яка групи, узгодження (Adjectives) (Part 4)",
+    "title": "Синтаксичне узгодження прикметників з іменниками (Adjective-Noun Agreement)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 14.4) with authentic linguistic precision.",
+    "objective": "Опанувати складні випадки синтаксичного узгодження прикметників: з невідмінюваними іменниками, складноскороченими словами (абревіатурами), назвами професій та однорідними членами.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Прикметник завжди підпорядковується іменнику, але в складних синтаксичних випадках діють спеціальні правила:\n\n1. Узгодження з невідмінюваними іншомовними іменниками:\n   - Неістоти мають середній рід: гаряче капучино, смачне рагу, швидке таксі, яскраве кімоно, свіже авокадо, нове метро.\n   - Назви тварин/птахів — чоловічого роду: кумедний поні, сірий кенгуру, балакучий какаду, маленьке колібрі (або жін. за контекстом).\n   - Назви осіб — за біологічною статтю: елегантна мадам, шановний мосьє, молодий аташе.\n   - Географічні назви — за родом узагальнюючого родового поняття: сонячне Тбілісі (місто -> с.р.), повноводна Міссісіпі (річка -> ж.р.), високий Еверест (гора/пік -> ч.р.).\n\n2. Узгодження з абревіатурами:\nРід абревіатури визначається за родом опорного стрижневого слова в розшифровці:\n   - ООН (Організація -> ж.р.): впливова ООН.\n   - НАТО (Альянс -> ч.р. або Організація -> ж.р.): Північноатлантичний альянс (ч.р.).\n   - СТО (Станція -> ж.р.): сучасна СТО.\n   - НБУ (Банк -> ч.р.): Національний банк України повідомив.\n\n3. Узгодження з однорідними іменниками різного роду:\n   - Якщо прикметник стоїть перед однорідними іменниками, він може мати форму множини або узгоджуватися з найближчим іменником: «Нові стіл і шафа» або «Новий стіл і шафа».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Вранці ми замовили свіже запашне капучино та гарячі круасани в затишному кафе.",
+          "reading": "[ˈwrɑnt͡sʲi mɪ zɐˈmɔwɪlɪ ˈswʲiʒɛ zɐpɐʃˈnɛ kɐpuˈtʃinɔ tɑ ɦɐˈrʲɑtʃi kruɐˈsɑnɪ w zɐˈtɪʃnɔmu kɐˈfɛ] (VRAHN-tsee my zah-MOH-vy-ly SVEE-zheh zah-pahsh-NEH kah-poo-CHEE-noh tah hah-RYAH-chee kroo-ah-SAH-ny v zah-TYSH-noh-moo kah-FEH)",
+          "translation": "In the morning we ordered fresh fragrant cappuccino and hot croissants in a cozy cafe."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 14-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Впливова ООН ухвалила важливу резолюцію на підтримку територіальної цілісності України.",
+          "reading": "[wplɪˈwɔwɐ ɔˈɔn uxˈwɑlɪlɐ wɑʒˈlɪwu rɛzɔˈlʲut͡sʲiju nɑ pʲidˈtrɪmku tɛrɪtɔrʲiˈɑlʲnɔji t͡sʲiˈlʲisnɔsʲtʲi ukrɐˈjinɪ] (vply-VOH-wah oh-OHN ookh-VAH-ly-lah vahzh-LY-voo reh-zoh-LYOO-tsee-yoo nah peed-TRYM-koo teh-ry-toh-ry-AHL'-noh-yee tsee-LEES-nohs-tee oo-krah-YEE-ny)",
+          "translation": "The influential UN adopted an important resolution in support of the territorial integrity of Ukraine."
+        },
+        {
+          "target": "Швидкісне столичне метро перевозить сотні тисяч пасажирів щодня.",
+          "reading": "[ʃwɪdˈkʲisnɛ stɔˈlɪtʃnɛ mɛtˈrɔ pɛrɛˈwɔzɪtʲ ˈsɔtnʲi ˈtɪsʲɐtʃ pɐsɐˈʒɪrʲiw ʃtʃɔdʲˈnʲɑ] (shvyd-KEES-neh stoh-LYCH-neh met-ROH peh-reh-VOH-zyt' SOHT-nee TY-syahch pah-sah-ZHY-reew shchohd-NYAH)",
+          "translation": "The high-speed capital subway transports hundreds of thousands of passengers every day."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Невідмінювані неістоти — середній рід («смачне капучино»); абревіатури — за головним словом («впливова ООН» — організація)!"
+      ],
+      "culturalNotes": [
+        "Українська мова чітко дотримується середнього роду для слів іншомовного походження на -о, -е, -і, -у (рагу, желе, журі, метро, пальто [відмінюється за новим правописом: пальта, пальтом])."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Музей\":",
+          "prompt": "Оберіть правильну форму узгодження прикметника з невідмінюваним іменником «капучино»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.4.",
-            "Неправильне відмінкове узгодження зі словом «Картина»",
-            "Порушення законів евфонії та словотворення для «Погода»",
-            "Стилістично некоректна синтаксична конструкція з «Сонце»"
+            "Гаряче капучино (Indeclinable inanimate loan noun takes neuter gender)",
+            "Гарячий капучино",
+            "Гаряча капучино",
+            "Гарячі капучино"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Невідмінювані неживі іменники іншомовного походження в українській мові мають середній рід: «гаряче капучино»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Музей\":",
+          "prompt": "Який рід має абревіатура СТО (станція технічного обслуговування) для узгодження з прикметником?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.4.",
-            "Порушення законів евфонії та словотворення для «Погода»",
-            "Стилістично некоректна синтаксична конструкція з «Сонце»",
-            "Неправильне відмінкове узгодження зі словом «Картина»"
+            "Жіночий рід (Base noun станція is feminine -> нова СТО)",
+            "Чоловічий рід",
+            "Середній рід",
+            "Множинний рід"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Опорним словом абревіатури є іменник жіночого роду «станція», тому: «сучасна/нова СТО»."
         }
       ]
     },
@@ -6085,17 +6124,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Музей\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому правильно узгоджено рід прикметника з невідмінюваною географічною назвою:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.4.",
-            "Стилістично некоректна синтаксична конструкція з «Сонце»",
-            "Неправильне відмінкове узгодження зі словом «Картина»",
-            "Порушення законів евфонії та словотворення для «Погода»"
+            "Сонячне Тбілісі гостинно зустрічає туристів з усього світу.",
+            "Сонячний Тбілісі гостинно зустрічає туристів.",
+            "Сонячна Тбілісі гостинно зустрічає туристів.",
+            "Сонячні Тбілісі гостинно зустрічають туристів."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Тбілісі — це місто (середній рід), тому прикметник узгоджується в середньому роді: «сонячне Тбілісі»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u14-l5": {
@@ -6103,53 +6143,62 @@
     "subject": "ukrainian",
     "unit": 14,
     "lessonNumber": 5,
-    "title": "Прикметники: тверда та м'яка групи, узгодження (Adjectives) (Part 5)",
+    "title": "Стягнені, нестягнені та короткі форми прикметників (Adjectival Forms & Stylistics)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 14.5) with authentic linguistic precision.",
+    "objective": "Опанувати розрізнення повних стягнених форм (зелена), повних нестягнених форм у фольклорі та поезії (зеленая, синії) та коротких форм (радий -> рад, повен, ясен, певен).",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові прикметники функціонують у трьох формах залежно від стилю мовлення та історичної традиції:\n\n1. Повні стягнені форми (Standard contracted full forms):\nЦе загальновживана нейтральна норма сучасної літературної мови для всіх стилів:\n   - Зелений, зелена, зелене, зелені; добра, добре, добрі.\n\n2. Повні нестягнені форми (Uncontracted full forms):\nЗберігають давні закінчення «-ая, -еє, -ії» без стягнення голосних. Вони вживаються виключно в поетичній мові та народнопісенному фольклорі для надання тексту урочистості, мелодійності та співучості:\n   - Жіночий рід: «зеленая діброва», «ясная зоря», «святая правда».\n   - Середній рід: «синєє море», «ніжнеє серце».\n   - Множина: «зеленії свята», «дрібнії сльози», «чужії люди».\n\n3. Короткі форми (Short / Truncated forms):\nНечисленна група якісних прикметників чоловічого роду без закінчення, які виступають у ролі іменного присудка або у сталих фразеологізмах:\n   - Рад (радий): «Я щиро рад вас бачити».\n   - Певен (певний): «Я певен у нашій спільній перемозі».\n   - Повен (повний): «Місяць ясен, повен сили».\n   - Винен (винний): «Він нікому нічого не винен».\n   - Годен (гідний/здатний): «Хто годен це виконати?»\n   - Красен, ясен, срібен, злотен (у поезії та фольклорі).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Я щиро певен у тому, що наша спільна праця принесе вагомі наукові плоди.",
+          "reading": "[jɑ ˈʃtʃɪrɔ ˈpɛwɛn u ˈtɔmu, ʃtʃɔ ˈnɑʃɐ ˈspʲilʲnɐ ˈprɑt͡sʲɑ prɪnɛˈsɛ wɐˈɦɔmʲi nɐuˈkɔwʲi plɔˈdɪ] (yah SHCHY-roh PEH-wen oo TOH-moo, shchoh NAH-shah SPEEL'-nah PRAH-tsyah pry-neh-SEH vah-HOH-mee nah-oo-KOH-vee ploh-DY)",
+          "translation": "I am sincerely confident that our joint work will bring significant scientific fruits."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 14-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "«Пливе човен по синьому морю, пливе, поринає...» — співається в народній пісні.",
+          "reading": "[plɪˈwɛ ˈtʃɔwɛn pɔ ˈsɪnʲɔmu ˈmɔrʲu, plɪˈwɛ, pɔrɪˈnɑjɛ spʲiˈwɑjɛtʲsʲɑ w nɐˈrɔdnʲij ˈpʲisʲnʲi] (ply-WEH CHOH-wen poh SY-nyoh-moo MOH-ryoo, ply-WEH, poh-ry-NAH-yeh spee-VAH-yet'-syah v nah-ROHD-neey PEES-nee)",
+          "translation": "'A boat floats upon the blue sea, floats and dives...' — so goes the folk song."
+        },
+        {
+          "target": "Він був щиро рад вітати шановних гостей у стінах нашого університету.",
+          "reading": "[wʲin buw ˈʃtʃɪrɔ rɑd wʲiˈtɑtɪ ʃɐˈnɔwnɪx ɦɔsˈtɛj u sʲˈtʲinɐx ˈnɑʃɔɦɔ unʲiwɛrsɪˈtɛtu] (veen boov SHCHY-roh rahd vee-TAH-ty shah-NOV-nykh hohs-TEHY oo STY-nahkh NAH-shoh-hoh oo-nee-vehr-sy-TEH-too)",
+          "translation": "He was sincerely glad to welcome the esteemed guests within the walls of our university."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Зелена» — сучасна норма, «зеленая» — пісенна душа, а «певен і рад» — стислість і сила присудка!"
+      ],
+      "culturalNotes": [
+        "Нестягнені форми на -ая, -еє, -ії лежать в основі унікального ритмомелодійного ладу українських дум, колядок та щедрівок."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Картина\":",
+          "prompt": "Оберіть коротку форму прикметника, що виступає в ролі присудка в реченні «Я цілком ... у правильності свого вибору»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.5.",
-            "Неправильне відмінкове узгодження зі словом «Погода»",
-            "Порушення законів евфонії та словотворення для «Сонце»",
-            "Стилістично некоректна синтаксична конструкція з «Дощ»"
+            "Певен (Short predicate adjective form expressing certainty)",
+            "Певний",
+            "Певная",
+            "Певному"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Коротка форма «певен» виконує роль предиката у виразі впевненості: «я певен»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Картина\":",
+          "prompt": "У якому стилі мовлення нормативно вживаються нестягнені форми прикметників («ясная», «дрібнії»)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.5.",
-            "Порушення законів евфонії та словотворення для «Сонце»",
-            "Стилістично некоректна синтаксична конструкція з «Дощ»",
-            "Неправильне відмінкове узгодження зі словом «Погода»"
+            "У фольклорному та художньо-поетичному стилях (Folkloric and poetic uncontracted forms)",
+            "В офіційно-діловому стилі",
+            "У наукових статтях",
+            "У військових статутах"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Нестягнені форми («ясная», «зеленая») є стилістичним засобом народнопоетичного та художнього мовлення."
         }
       ]
     },
@@ -6157,17 +6206,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Картина\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому коротку предикативну форму прикметника вжито відповідно до літературної норми:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 14.5.",
-            "Стилістично некоректна синтаксична конструкція з «Дощ»",
-            "Неправильне відмінкове узгодження зі словом «Погода»",
-            "Порушення законів евфонії та словотворення для «Сонце»"
+            "Кожен науковець винен сумлінно дотримуватися академічної доброчесності.",
+            "Кожен науковець винний був сумлінний дотримуватися.",
+            "Кожен науковець винная людина.",
+            "Кожен науковець виннії обов'язки."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Коротка форма «винен» функціонує як нормативний предикатив із модальним значенням обов'язку."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u15-l1": {
