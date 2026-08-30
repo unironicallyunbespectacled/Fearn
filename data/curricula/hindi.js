@@ -8275,53 +8275,62 @@
     "subject": "hindi",
     "unit": 20,
     "lessonNumber": 1,
-    "title": "व्यावसायिक हिंदी और पत्राचार (Corporate Hindi) (Part 1)",
+    "title": "औपचारिक पत्राचार: महोदय, सविनय निवेदन, भवदीय (Formal Letter Writing & Salutations)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.1) with authentic linguistic precision.",
+    "objective": "हिंदी के औपचारिक और शासकीय पत्राचार की मानक शब्दावली — संबोधन (महोदय/मान्यवर), आरंभिक वाक्य (सविनय निवेदन है कि), मुख्य संदर्भ तथा समापन (भवदीय/सादर) — के प्रामाणिक प्रयोग में निपुण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में औपचारिक एवं शासकीय पत्राचार (Formal & Official Correspondence) के प्रमुख अंग, मानक संरचना और परिष्कृत वाक्य-विन्यास:\n\n1. **मानक संबोधन एवं शिष्टाचार (Formal Salutations)**:\n   - *महोदय / महोदया* (सामान्य शासकीय पत्राचार में);\n   - *मान्यवर / आदरणीय महोदय* (वरिष्ठ अधिकारियों अथवा गणमान्य व्यक्तियों हेतु);\n   - *श्रीमान / श्रीमती* (विशिष्ट संदर्भों में आदरसूचक पद)।\n\n2. **आरंभिक संदर्भ एवं शिष्टाचार वाक्य (Opening Contextual Phrases)**:\n   - **सविनय निवेदन है कि...** (प्रार्थना-पत्रों एवं निवेदनों में);\n   - **उपर्युक्त विषयांतर्गत लेख है कि...** (शासकीय संदर्भ पत्रों में);\n   - **आपके पत्रांक... के संदर्भ में सादर सूचित किया जाता है कि...**;\n   - **मुझे यह निदेश हुआ है कि...** (उच्चाधिकारियों के आदेश संप्रेषण में)।\n\n3. **मुख्य विषय-वस्तु और तार्किक प्रवाह**:\n   - पत्राचार में विषय को संक्षिप्त, स्पष्ट, तथ्यपरक और आदरसूचक भाषा में प्रस्तुत किया जाता है।\n\n4. **समापन और अभिनिवेदन (Formal Closings & Subscriptions)**:\n   - **भवदीय / भवदीया** (शासकीय व व्यावसायिक पत्रों में सार्वभौमिक मानक);\n   - **सादर / सधन्यवाद / सादर प्रणाम** (अत्यंत शिष्ट समापन);\n   - **प्रार्थी / विनीत / आपका कृपाभिलाषी** (आवेदन एवं याचिकाओं में)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 20.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 20."
+          "target": "मान्यवर महोदय, सविनय निवेदन है कि हमारे क्षेत्रीय कार्यालय में विगत दो सप्ताहों से ब्रॉडबैंड इंटरनेट सेवा बाधित होने के कारण समस्त प्रशासनिक कार्य गंभीर रूप से प्रभावित हो रहे हैं।",
+          "reading": "maanyavar mahoday, savinay nivedan hai ki hamaare kshetreey kaaryaalay mein vigat do saptaahon se broadband internet seva baadhit hone ke kaaran samast prashaasanik kaary gambheer roop se prabhaavit ho rahe hain. [maːnjəʋər məɦoːd̪əj səʋɪnəj nɪʋeːd̪ən hɛː kɪ ɦəmaːreː kʃeːt̪riːj kaːrjaːləj mẽː ʋɪɡət̪ d̪oː səptaːɦõː seː brɔːɖbɛːnɖ ɪnʈərneːʈ seːʋaː baːd̪ʱɪt̪ hoːneː keː kaːrəɳ səməst̪ praːʃaːsnɪk kaːrjə ɡəmbiːr ruːp seː prəbʱaːʋɪt̪ hoː rəɦeː hɛ̃ː] (mahn-yuh-VUHR muh-HOH-duy, suh-vee-NUY nee-vay-DUHN hy kee huh-MAH-ray kshay-TREE-yuh kahr-YAH-luy mayn vee-GUHT doh suhp-TAH-hohn say broadband internet SAY-vah bah-DHEET HOH-nay kay KAH-ruhn suh-MUHST prah-shah-suh-NEEK KAHR-yuh guhm-BHEER roop say pruh-bhah-VEET hoh RUH-hay hy-n)",
+          "translation": "Respected Sir, it is respectfully submitted that due to broadband internet service being disrupted for the past two weeks in our regional office, all administrative work is being severely affected."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 20-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "उपर्युक्त विषयांतर्गत सादर सूचित किया जाता है कि कंपनी की आगामी वार्षिक आम बैठक का आयोजन अगले सोमवार को केंद्रीय मुख्यालय के मुख्य सभागार में पूर्वाह्न दस बजे सुनिश्चित किया गया है।",
+          "reading": "uparyukt vishayaantargat saadar soochit kiya jaata hai ki company ki aagaami vaarshik aam baithak ka aayojan agle somvaar ko kendreey mukhyaalay ke mukhya sabhaagaar mein poorvaahn das baje sunishchit kiya gaya hai. [ʊpərjʊkt̪ ʋɪʂəjaːn̪t̪ərɡət̪ saːd̪ər suːtʃɪt̪ kɪjaː dʒaːt̪aː hɛː kɪ kəmpəniː kiː aːɡaːmiː ʋaːrʂɪk aːm bɛːʈʰək kaː aːjoːdʒən əɡleː soːmʋaːr koː keːn̪d̪riːj mʊkʰjaːləj keː mʊkʰjə səbʱaːɡaːr mẽː puːrʋaːɦn d̪əs bədʒeː sʊnɪʃtʃɪt̪ kɪjaː ɡəjaː hɛː] (oo-puhr-YOOKT vee-shuh-yahn-tuhr-GUHT sah-DUHR soo-CHEET kee-YAH JAH-tah hy kee company kee ah-gah-MEE vahr-SHEEK ahm BY-thuhk kah ah-YOH-juhn UHG-lay sohm-VAHR koh kayn-DREE-yuh mookh-YAH-luy kay MOOKH-yuh suh-bhah-GAHR mayn poor-VAHN duhs BUH-jay soo-neesh-CHEET kee-YAH GUH-yah hy)",
+          "translation": "With reference to the above subject, it is respectfully informed that the organization of the company's upcoming annual general meeting has been scheduled for next Monday at 10:00 AM in the main auditorium of the central headquarters."
+        },
+        {
+          "target": "अतः आपसे विनम्र प्रार्थना है कि आप इस जनकल्याणकारी परियोजना के क्रियान्वयन हेतु अतिरिक्त बजट स्वीकृत करने की महती कृपा करें, जिसके लिए हम आपके सदैव आभारी रहेंगे।",
+          "reading": "atah aapse vinamr praarthana hai ki aap is jankalyaankaari pariyojana ke kriyaanvayan hetu atirikt budget sveekrit karne ki mahatee kripa karein, jiske liye ham aapke sadaiv aabhaari rahenge. [ət̪əɦ aːpseː ʋɪnəmrə praːrt̪ʰnaː hɛː kɪ aːp ɪs dʒənkəljaːɳkaːriː pərɪjoːdʒnaː keː krɪjaːnʋəjən ɦeːt̪ʊ ət̪ɪrɪkt̪ bədʒəʈ sʋiːkrɪt̪ kərneː kiː məɦət̪iː krɪpaː kərẽː dʒɪskeː lɪjeː ɦəm aːpkeː səd̪ɛːʋ aːbʱaːriː rəɦẽːɡeː] (uh-TUHK ahp-SAY vee-NUHM-ruh prahr-thuh-NAH hy kee ahp ees juhn-kuhl-yahn-KAH-ree puh-ree-YOHJ-nah kay kree-yahn-VUHY-uhn HAY-too uh-tee-REEKT budget svee-KREET KUHR-nay kee muh-huh-TEE KREE-pah KUH-rayn, jees-KAY lee-ay hum AHP-kay suh-DYV ah-bhah-REE ruh-HAYN-gay)",
+          "translation": "Therefore, it is our humble request to you to kindly grant approval for the additional budget for the implementation of this public welfare project, for which we will always remain grateful to you."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "आरंभ = 'मान्यवर / सविनय निवेदन है कि'; समापन = 'भवदीय / सादर धन्यवाद'!"
+      ],
+      "culturalNotes": [
+        "भारत सरकार के राजभाषा विभाग द्वारा निर्धारित मानक शासकीय पत्राचार में 'भवदीय' (Yours faithfully) सबसे सार्वभौमिक और गरिमामय अभिनिवेदन माना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"दादा\":",
+          "prompt": "औपचारिक शासकीय पत्र (Formal Letter Opening) का मानक आरंभिक वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 20.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दादी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बेटा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बेटी» का अनुचित स्थान)"
+            "सविनय निवेदन है कि (Savinay nivedan hai ki - It is respectfully submitted that... [standard formal letter opening])",
+            "अरे सुनिए भाई (अनौपचारिक ग्रामीण बोली)",
+            "तुमको बताता हूँ कि (अशिष्ट वार्तालाप शैली)",
+            "बात यह है यार (मित्रवत अनौपचारिक दोष)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "औपचारिक पत्रों में आदरसूचक और मानक शुरुआत «सविनय निवेदन है कि» से की जाती है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"दादा\":",
+          "prompt": "औपचारिक पत्र के अंत में प्रयुक्त होने वाला मानक अभिनिवेदन (Formal subscription) कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 20.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बेटा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बेटी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दादी» का अशुद्ध रूप)"
+            "भवदीय (Bhavadeey - Yours faithfully / Yours truly)",
+            "तुम्हारा दोस्त (Informal error)",
+            "अलविदा (Departing farewell error)",
+            "शाबाश (Exclamatory praise error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "शासकीय और व्यावसायिक पत्राचार में अंत में लेखक के हस्ताक्षर से पूर्व «भवदीय» लिखना मानक है।"
         }
       ]
     },
@@ -8329,17 +8338,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"दादा\": Which sentence is completely correct?",
+          "prompt": "औपचारिक पत्राचार (Formal Correspondence) का पूर्णतः प्रामाणिक और मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 20.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बेटी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दादी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बेटा» से संबंधित)"
+            "उपर्युक्त विषयांतर्गत सादर निवेदन है कि हमारे आवेदन पर सहानुभूतिपूर्वक विचार कर त्वरित कार्रवाई करने की कृपा करें। (With reference to the subject above, it is respectfully requested to kindly consider our application sympathetically and take prompt action.)",
+            "उपर्युक्त विषय में तू जल्दी काम कर ले।",
+            "आवेदन पर हम सब मिलकर हँस रहे थे।",
+            "सहानुभूतिपूर्वक विचार करो ताकि पत्र खत्म हो।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«उपर्युक्त विषयांतर्गत सादर निवेदन है कि... विचार कर त्वरित कार्रवाई करने की कृपा करें» पूर्ण शासकीय शिष्टाचार और व्याकरणिक शुद्धता का उदाहरण है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u20-l2": {
@@ -8347,53 +8357,62 @@
     "subject": "hindi",
     "unit": 20,
     "lessonNumber": 2,
-    "title": "व्यावसायिक हिंदी और पत्राचार (Corporate Hindi) (Part 2)",
+    "title": "कार्यालयी टिप्पण और प्रारूपण (Administrative Noting & Drafting: Note-Sheet)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.2) with authentic linguistic precision.",
+    "objective": "शासकीय फाइलों पर कार्यालयी टिप्पण (Noting) और आदेशों के प्रारूपण (Drafting) की मानक प्रशासनिक पदावली और कर्मवाच्य संरचनाओं में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "कार्यालयी टिप्पण (Official Noting) और आदेशों के प्रारूपण (Drafting) में प्रयुक्त होने वाली मानक पारिभाषिक पदावली एवं प्रशासनिक कर्मवाच्य संरचनाएं:\n\n1. **फाइल टिप्पण की मानक पदावली (Standard Noting Formulas)**:\n   - **अनुमोदनार्थ प्रस्तुत** (सक्षम अधिकारी की अंतिम स्वीकृति प्राप्त करने हेतु);\n   - **अवलोकनार्थ एवं आवश्यक कार्रवाई हेतु प्रस्तुत** (फाइल संज्ञान में लाने हेतु);\n   - **आदेशार्थ प्रस्तुत** (विशिष्ट शासकीय दिशा-निर्देश प्राप्त करने हेतु);\n   - **यथाशीघ्र निर्णय अपेक्षित है** (त्वरित प्रशासनिक निस्तारण हेतु);\n   - **नियमानुसार वित्तीय स्वीकृति प्रदान की जाती है**।\n\n2. **प्रशासनिक कर्मवाच्य और निर्वैयक्तिक वाक्य (Administrative Passive)**:\n   - *निर्देशानुसार सूचित किया जाता है कि...* (आदेश संप्रेषण में);\n   - *सक्षम प्राधिकारी के अनुमोदनोपरांत यह अधिसूचना जारी की जाती है;*\n   - *सभी संबंधित अधिकारियों को निर्देशित किया जाता है कि वे नियमों का कड़ाई से पालन सुनिश्चित करें।*\n\n3. **टिप्पणी की भाषा-शैली**:\n   - टिप्पण सदैव तटस्थ, संक्षिप्त, नियमसम्मत और पूर्णतः निर्वैयक्तिक भाषा में लिखा जाता है।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 20.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 20."
+          "target": "प्रस्तुत प्रकरण सक्षम प्राधिकारी के विधिवत अनुमोदनोपरांत अंतिम निर्णय और आवश्यक वित्तीय स्वीकृति हेतु उच्चाधिकारियों के समक्ष विचारार्थ प्रस्तुत है।",
+          "reading": "prastut prakaran saksham praadhikaari ke vidhivat anumodanoparaant antim nirnay aur aavashyak vitteey sveekriti hetu uchchaadhikaariyon ke samaksh vichaaraarth prastut hai. [prəst̪ʊt̪ prəkərəɳ səkʃəm praːd̪ʱɪkaːriː keː ʋɪd̪ʱɪʋət̪ ənʊmoːd̪noːpəraːnt̪ ən̪t̪ɪm nɪrɳəj ɔːr aːʋəʃjək ʋɪt̪ːiːj sʋiːkrɪt̪ɪ ɦeːt̪ʊ ʊtʃːaːd̪ʱɪkaːrɪjõː keː səməkʃ ʋɪtʃaːraːrt̪ʰ prəst̪ʊt̪ hɛː] (pruhs-TOOT pruh-kuh-RUHN SUHK-shuhm prah-dhee-KAH-ree kay vee-dhee-VUHT uh-noo-moh-duh-noh-puh-RAHNT uhn-TEEM neer-NUHY owr ah-vuhsh-YUK veet-TEE-yuh svee-KREE-tee HAY-too ootch-ah-dhee-kah-ree-YOHN kay suh-MUHKSH vee-chah-RAHRTH pruhs-TOOT hy)",
+          "translation": "The presented matter, following due approval of the competent authority, is submitted for consideration before the higher officials for final decision and necessary financial sanction."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 20-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "कार्यालय ज्ञापन के अनुसार सभी क्षेत्रीय एवं विभागीय प्रमुखों को निर्देशित किया जाता है कि वे अपनी त्रैमासिक प्रगति रिपोर्ट आगामी शुक्रवार तक अनिवार्यतः प्रस्तुत करें।",
+          "reading": "kaaryaalay gyaapan ke anusaar sabhi kshetreey evam vibhaageey pramukhon ko nirdeshit kiya jaata hai ki ve apni traimaasik pragati report aagaami shukravaar tak anivaaryatah prastut karein. [kaːrjaːləj ɡjaːpən keː ənuːsaːr səbʱiː kʃeːt̪riːj eːʋəm ʋɪbʱaːɡiːj prəmʊkʰõː koː nɪrdeːʃɪt̪ kɪjaː dʒaːt̪aː hɛː kɪ ʋeː əpniː t̪rɛːmaːsɪk prəɡət̪ɪ rɪpoːrʈ aːɡaːmiː ʃʊkrəʋaːr t̪ək ənɪʋaːrjət̪əɦ prəst̪ʊt̪ kərẽː] (kahr-YAH-luy GYAH-puhn kay uh-noo-SAHR SUH-bhee kshay-TREE-yuh AY-vuhm vee-bhah-GEE-yuh pruh-moo-KHOHN koh neer-day-SHEET kee-YAH JAH-tah hy kee vay uhp-NEE try-MAH-seek pruh-GUH-tee report ah-gah-MEE shook-ruh-VAHR tuhk uh-nee-vahr-yuh-TUHK pruhs-TOOT KUH-rayn)",
+          "translation": "According to the office memorandum, all regional and departmental heads are directed to mandatorily submit their quarterly progress report by next Friday."
+        },
+        {
+          "target": "उच्चस्तरीय बैठक के कार्यवृत्त के आधार पर नई कार्मिक भर्ती नीति के सुगम क्रियान्वयन हेतु एक तीन सदस्यीय विशेषज्ञ समिति का गठन तत्काल प्रभाव से किया जाता है।",
+          "reading": "uchchastareey baithak ke kaaryavritt ke aadhaar par nayi kaarmik bharti neeti ke sugam kriyaanvayan hetu ek teen sadasyeey visheshagya samiti ka gathan tatkaal prabhaav se kiya jaata hai. [ʊtʃːəst̪əriːj bɛːʈʰək keː kaːrjəʋrɪt̪ː keː aːd̪ʱaːr pər nəjiː kaːrmɪk bʱərt̪iː niːt̪ɪ keː sʊɡəm krɪjaːnʋəjən ɦeːt̪ʊ eːk t̪iːn səd̪əsjiːj ʋɪʃeːʂəɡjə səmɪt̪ɪ kaː ɡəʈʰən t̪ət̪kaːl prəbʱaːʋ seː kɪjaː dʒaːt̪aː hɛː] (ootch-uh-stuh-REE-yuh BY-thuhk kay kahr-yuh-VREET kay ah-DHAHR puhr nuh-YEE kahr-MEEK bhuhr-TEE NEE-tee kay SOO-guhm kree-yahn-VUHY-uhn HAY-too ayk teen suh-duhs-YEE-yuh vee-shaysh-UHG-yuh suh-MEE-tee kah GUH-thuhn tuht-KAHL pruh-BHAHV say kee-YAH JAH-tah hy)",
+          "translation": "On the basis of the minutes of the high-level meeting, a three-member expert committee is constituted with immediate effect for the smooth implementation of the new personnel recruitment policy."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "फाइल टिप्पण: अनुमोदनार्थ प्रस्तुत (for approval), अवलोकनार्थ (for perusal), विचारार्थ (for consideration)!"
+      ],
+      "culturalNotes": [
+        "केंद्रीय सचिवालय में 'नोट-शीट' पर दायीं ओर संक्षिप्त टिप्पणी तथा बायीं ओर संदर्भ व पूर्व पत्र संलग्न करने की सुस्थापित प्रशासनिक परंपरा है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"दादी\":",
+          "prompt": "उच्चाधिकारी की स्वीकृति प्राप्त करने हेतु टिप्पणी में कौन-सा मानक पद लिखा जाता है?",
           "options": [
-            "हम इस पाठ में इकाई 20.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बेटा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बेटी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («मित्र» का अनुचित स्थान)"
+            "अनुमोदनार्थ प्रस्तुत (Anumodanaarth prastut - Submitted for approval [standard official noting term])",
+            "घर ले जाने हेतु (असंगत निजी प्रयोग)",
+            "रद्दी में डालने हेतु (अवांछित अमानक रूप)",
+            "गाना गाने हेतु (हास्यास्पद अनुपयुक्त विकल्प)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "अंतिम निर्णय या मंजूरी प्राप्त करने के लिए फाइल पर «अनुमोदनार्थ प्रस्तुत» लिखना मानक प्रशासनिक मुहावरा है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"दादी\":",
+          "prompt": "प्रशासनिक आदेश «निर्देशानुसार सूचित किया ___ कि सभी कर्मचारी समय पर उपस्थित हों» में सही क्रिया रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 20.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बेटी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («मित्र» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बेटा» का अशुद्ध रूप)"
+            "जाता है (Jaata hai - Is informed [administrative passive construction])",
+            "गया था कल (Past tense mismatch)",
+            "जाएगा परसों (Future mismatch)",
+            "होता है (Impersonal mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "प्रशासनिक सूचनाओं के लिए वर्तमानकालिक कर्मवाच्य रूप «सूचित किया जाता है» मानक है।"
         }
       ]
     },
@@ -8401,17 +8420,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"दादी\": Which sentence is completely correct?",
+          "prompt": "कार्यालयी टिप्पण एवं प्रारूपण (Administrative Drafting) का सर्वथा मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 20.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («मित्र» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बेटा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बेटी» से संबंधित)"
+            "सक्षम प्राधिकारी के निर्देशानुसार उपर्युक्त प्रस्ताव को नियमानुसार वित्तीय स्वीकृति प्रदान की जाती है। (In accordance with the directive of the competent authority, financial sanction is accorded to the above proposal as per rules.)",
+            "सक्षम प्राधिकारी कल शाम को चाय पी रहे थे।",
+            "प्रस्ताव को किसी ने फेंक दिया था बाहर।",
+            "वित्तीय स्वीकृति मिली ताकि सब भाग जाएं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«सक्षम प्राधिकारी के निर्देशानुसार... वित्तीय स्वीकृति प्रदान की जाती है» प्रशासनिक शब्दावली और वाक्य-रचना का आदर्श उदाहरण है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u20-l3": {
@@ -8419,53 +8439,62 @@
     "subject": "hindi",
     "unit": 20,
     "lessonNumber": 3,
-    "title": "व्यावसायिक हिंदी और पत्राचार (Corporate Hindi) (Part 3)",
+    "title": "व्यावसायिक अनुबंध और शर्तें (Commercial Contracts, Agreements & Tenders)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.3) with authentic linguistic precision.",
+    "objective": "व्यावसायिक समझौतों (Contracts), निविदा प्रपत्रों (Tenders) तथा कानूनी शर्तों में प्रयुक्त होने वाली उच्च स्तरीय पारिभाषिक हिंदी शब्दावली में पूर्ण दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "व्यावसायिक अनुबंधों (Commercial Contracts), समझौतों (Agreements) एवं निविदा प्रपत्रों (Tenders) की प्रमुख पारिभाषिक शब्दावली एवं कानूनी वाक्य-संरचना:\n\n1. **अनुबंध की प्रमुख पारिभाषिक शब्दावली (Contractual Terminology)**:\n   - **द्विपक्षीय / त्रिपक्षीय अनुबंध** (दो या तीन पक्षों के मध्य विधिक समझौता);\n   - **पक्षकार** (अनुबंध में सम्मिलित अधिकृत संस्थान अथवा व्यक्ति);\n   - **धरोहर राशि (ईएमडी)** (निविदा प्रक्रिया में सुरक्षा हेतु जमा की जाने वाली राशि);\n   - **निविदा आमंत्रण सूचना (एनआईटी)** (सार्वजनिक रूप से जारी किया जाने वाला बोली प्रस्ताव);\n   - **उल्लंघन और क्षतिपूर्ति** (अनुबंध की शर्तों की अवहेलना और हर्जाना);\n   - **न्यायिक क्षेत्राधिकार** (विवाद निस्तारण हेतु विधिक न्यायालय की परिधि)।\n\n2. **विधिक दायित्व और बाध्यकारी नियम (Binding Legal Obligations)**:\n   - *दोनों पक्षकार इन उल्लिखित शर्तों का अक्षरशः पालन करने हेतु विधिक रूप से पूर्णतः बाध्य होंगे।*\n   - *किसी भी विवाद की स्थिति में दोनों पक्षों की सहमति से मध्यस्थ नियुक्त किया जाएगा।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 20.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 20."
+          "target": "इस द्विपक्षीय वाणिज्यिक अनुबंध के प्रावधानों के अंतर्गत यदि कोई भी पक्षकार निर्धारित नियमों का उल्लंघन करता है, तो उसे निर्धारित क्षतिपूर्ति राशि का तत्काल भुगतान करना होगा।",
+          "reading": "is dvipaksheey vaanijyik anubandh ke praavadhaanon ke antargat yadi koi bhi pakshakaar nirdhaarit niyamon ka ullanghan karta hai, to use nirdhaarit kshatipoorati raashi ka tatkaal bhugtaan karna hoga. [ɪs d̪ʋɪpəkʃiːj ʋaːɳɪdʒjɪk ənʊbən̪d̪ʱ keː praːʋəd̪ʱaːnõː keː ən̪t̪ərɡət̪ jəd̪ɪ koːiː bʱiː pəkʃkaːr nɪrd̪ʱaːrɪt̪ nɪjəmõː kaː ʊlːəŋɡʱən kərt̪aː hɛː t̪oː ʊseː nɪrd̪ʱaːrɪt̪ kʃət̪ɪpuːrt̪ɪ raːʃɪ kaː t̪ət̪kaːl bʱʊɡt̪aːn kərnaː hoːɡaː] (ees dvee-puhk-SHEE-yuh vah-neej-YEEK uh-noo-BUHN-dh kay prah-vuh-DHAH-nohn kay uhn-tuhr-GUHT yuh-DEE koh-EE bhee puk-shuh-KAHR neer-dhah-REET nee-yuh-MOHN kah ool-luhng-GHUHN KUHR-tah hy, toh oo-SAY neer-dhah-REET kshuh-tee-POOR-tee RAH-shee kah tuht-KAHL bhoog-TAHN KUHR-nah HOH-gah)",
+          "translation": "Under the provisions of this bilateral commercial contract, if either party violates the stipulated rules, it will have to make immediate payment of the determined compensation amount."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 20-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "इच्छुक और पात्र आपूर्ति कंपनियाँ ई-निविदा पोर्टल के माध्यम से आवश्यक धरोहर राशि के साथ अपनी तकनीकी और वित्तीय बोलियाँ निर्धारित अंतिम तिथि से पूर्व जमा करा सकती हैं।",
+          "reading": "ichchhuk aur paatr aapoorti companiyaan e-nivida portal ke maadhyam se aavashyak dharohar raashi ke saath apni takneeki aur vitteey boliyaan nirdhaarit antim tithi se poorva jama kara sakti hain. [ɪtʃːʰʊk ɔːr paːt̪r aːpuːrt̪ɪ kəmpənɪjaː̃ iː nɪʋɪd̪aː poːrʈəl keː maːd̪ʱjəm seː aːʋəʃjək d̪ʱəroːɦər raːʃɪ keː saːt̪ʰ əpniː t̪əkniːkiː ɔːr ʋɪt̪ːiːj boːlɪjaː̃ nɪrd̪ʱaːrɪt̪ ən̪t̪ɪm t̪ɪt̪ʰɪ seː puːrʋə dʒəmaː kəraː səkt̪iː hɛ̃ː] (eetch-CHOOK owr PAHT-ruh ah-POOR-tee com-puh-nee-YAHN e-nee-vee-DAH portal kay MAHDH-yuhm say ah-vuhsh-YUK dhuh-ROH-huhr RAH-shee kay sahth uhp-NEE tuhk-NEE-kee owr veet-TEE-yuh boh-lee-YAHN neer-dhah-REET uhn-TEEM TEE-thee say POOR-vuh JUH-mah kuh-RAH suhk-TEE hy-n)",
+          "translation": "Interested and eligible supply companies can submit their technical and financial bids along with the requisite earnest money deposit through the e-tender portal prior to the specified deadline."
+        },
+        {
+          "target": "अनुबंध की समाप्ति के पश्चात भी दोनों पक्ष गोपनीय व्यावसायिक सूचनाओं की पूर्ण सुरक्षा और गोपनीयता बनाए रखने के लिए कानूनी रूप से पूर्णतः बाध्य रहेंगे।",
+          "reading": "anubandh ki samaapti ke pashchaat bhi donon paksh gopaneey vaanijyik soochnaon ki poori suraksha aur gopaneeyta banaaye rakhne ke liye kaanooni roop se poornatah baadhya rahenge. [ənʊbən̪d̪ʱ kiː səmaːpt̪ɪ keː pəʃtʃaːt̪ bʱiː d̪oːnõː pəkʃ ɡoːpniːj ʋaːɳɪdʒjɪk suːtʃnaːõː kiː puːriː sʊrəkʃaː ɔːr ɡoːpniːjt̪aː bənaːjeː rəkʰneː keː lɪjeː kaːnuːniː ruːp seː puːrɳət̪əɦ baːd̪ʱjə rəɦẽːɡeː] (uh-noo-BUHN-dh kee suh-MAHP-tee kay puhsh-CHAHT bhee DOH-nohn PUKSH gohp-NEE-yuh vah-neej-YEEK sooch-nah-OHN kee POO-ree soo-RUK-shah owr gohp-nee-yuh-TAH buh-nah-YAY RUKH-nay kay lee-ay kah-NOO-nee roop say POOR-nuh-tuhk BAHDH-yuh ruh-HAYN-gay)",
+          "translation": "Even after the expiration of the contract, both parties will remain legally fully bound to maintain total security and confidentiality of proprietary commercial information."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "व्यापारिक अनुबंध: पक्षकार (parties), निविदा (tender), धरोहर राशि (earnest money), क्षतिपूर्ति (indemnification)!"
+      ],
+      "culturalNotes": [
+        "भारत के वाणिज्यिक न्यायालयों में अनुबंधों के हिंदी प्रारूप में 'यथास्थान' और 'पक्षकारों की सहमति' जैसे वाक्यांश कानूनी वैधता के अनिवार्य मानक हैं।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"बेटा\":",
+          "prompt": "व्यावसायिक अनुबंध में ठेके या बोली हेतु आवश्यक 'Earnest Money' के लिए शुद्ध हिंदी पारिभाषिक शब्द कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 20.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बेटी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («मित्र» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («आज» का अनुचित स्थान)"
+            "धरोहर राशि (Dharohar raashi - Earnest Money Deposit [official commercial legal term])",
+            "जेब खर्च (अनौपचारिक निजी धन)",
+            "उपहार धन (दान या भेंट)",
+            "किराया शुल्क (साधारण भाड़ा)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "सरकारी और व्यावसायिक निविदाओं में सुरक्षा जमा राशि को «धरोहर राशि» (Earnest Money) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"बेटा\":",
+          "prompt": "अनुबंध की कानूनी बाध्यता व्यक्त करने हेतु सही शब्द चुनिए: «दोनों पक्ष नियमों का पालन करने हेतु ___ हैं»",
           "options": [
-            "हम इस पाठ में इकाई 20.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («मित्र» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («आज» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बेटी» का अशुद्ध रूप)"
+            "बाध्य (Baadhya - Bound / Obligated [legally bound])",
+            "नाराज़ (Emotional mismatch)",
+            "असमर्थ (Inability mismatch)",
+            "स्वतंत्र (Contradictory to contract rules)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "कानूनी शर्तों के पालन का दायित्व व्यक्त करने के लिए तत्सम शब्द «बाध्य» प्रयुक्त होता है।"
         }
       ]
     },
@@ -8473,17 +8502,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"बेटा\": Which sentence is completely correct?",
+          "prompt": "व्यावसायिक अनुबंध और निविदा (Commercial Contract & Tender) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 20.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («आज» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बेटी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («मित्र» से संबंधित)"
+            "सफल बोलीदाता को अनुबंध पर हस्ताक्षर करने से पूर्व निर्धारित अनुबंधीय बैंक गारंटी जमा कराना अनिवार्य होगा। (The successful bidder will be required to deposit the stipulated contractual bank guarantee prior to signing the contract.)",
+            "बोलीदाता कल बाज़ार में घूम रहा था।",
+            "अनुबंध पर किसी ने चाय गिरा दी थी।",
+            "गारंटी जमा करो ताकि हम सब घर जाएं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«सफल बोलीदाता को... बैंक गारंटी जमा कराना अनिवार्य होगा» वाणिज्यिक अनुबंध का परिष्कृत और त्रुटिहीन वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u20-l4": {
@@ -8491,53 +8521,62 @@
     "subject": "hindi",
     "unit": 20,
     "lessonNumber": 4,
-    "title": "व्यावसायिक हिंदी और पत्राचार (Corporate Hindi) (Part 4)",
+    "title": "कॉरपोरेट संचार, प्रस्तुति और ईमेल शिष्टाचार (Corporate Email Etiquette & Presentation)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.4) with authentic linguistic precision.",
+    "objective": "कॉरपोरेट परिवेश में आधुनिक व्यावसायिक ईमेल, कार्य-योजना प्रस्तुति (Presentation) तथा औपचारिक डिजिटल संवाद के शिष्टाचार में निपुण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "आधुनिक कॉरपोरेट जगत में डिजिटल संचार, व्यावसायिक ईमेल (Business Email) और प्रस्तुतियों (Presentations) के मानक नियम एवं शिष्टाचार:\n\n1. **व्यावसायिक ईमेल का मानक ढाँचा (Email Framework)**:\n   - **विषय पंक्ति (Subject Line)**: *संदर्भ: आगामी तिमाही वित्तीय समीक्षा बैठक का आयोजन*;\n   - **अभिवादन (Salutations)**: *सादर अभिवादन / आदरणीय महोदय / प्रिय सहयोगियों*;\n   - **संलग्नक (Attachments)**: *संलग्न प्रारूप / अनुलग्नक दस्तावेज़*।\n\n2. **कार्य-योजना और अनुवर्ती संवाद (Action Items & Professional Follow-ups)**:\n   - **कृपया संलग्न वित्तीय विवरण का अवलोकन करने का कष्ट करें;**\n   - **आपके अमूल्य सुझाव एवं समीक्षा सादर आमंत्रित हैं;**\n   - **शीघ्र प्रत्युत्तर और सकारात्मक सहयोग की प्रतीक्षा में;**\n   - **अग्रिम कार्रवाई हेतु कृपया यथाशीघ्र अवगत कराएं।**\n\n3. **कॉरपोरेट शिष्टाचार**:\n   - संवाद सदैव संक्षिप्त, सौम्य, सकारात्मक, उद्देश्यपूर्ण और पेशेवर गरिमा से परिपूर्ण होना चाहिए।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 20.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 20."
+          "target": "सादर अभिवादन, आगामी वित्तीय वर्ष की वार्षिक विपणन रणनीति का विस्तृत प्रारूप इस ईमेल के साथ संलग्न कर आपके अमूल्य सुझावों और अंतिम अनुमोदन हेतु प्रेषित किया जा रहा है।",
+          "reading": "saadar abhivaadan, aagaami vitteey varsh ki vaarshik vipanan ran-neeti ka vistrit praaroop is email ke saath sanlagn kar aapke amoolya sujhaavon aur antim anumodan hetu preshit kiya ja raha hai. [saːd̪ər əbʱiːʋaːd̪ən aːɡaːmiː ʋɪt̪ːiːj ʋərʂ kiː ʋaːrʂɪk ʋɪpɳən rəɳniːt̪ɪ kaː ʋɪst̪rɪt̪ praːruːp ɪs iːmeːl keː saːt̪ʰ sənləɡn kər aːpkeː əmuːljə sʊdʒʱaːʋõː ɔːr ən̪t̪ɪm ənuːmoːd̪ən ɦeːt̪ʊ preːʂɪt̪ kɪjaː dʒaː rəɦaː hɛː] (sah-DUHR uh-bhee-VAH-duhn, ah-gah-MEE veet-TEE-yuh vuhrsh kee vahr-SHEEK veep-NUHN ruhn-NEE-tee kah vees-TREET prah-ROOP ees email kay sahth suhn-LUHGN kuhr AHP-kay uh-MOOL-yuh soojh-ah-VOHN owr uhn-TEEM uh-noo-MOH-duhn HAY-too pray-SHEET kee-YAH jah RUH-hah hy)",
+          "translation": "Warm greetings, the detailed draft of the annual marketing strategy for the upcoming fiscal year is being transmitted attached with this email for your invaluable suggestions and final approval."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 20-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "कृपया इस महत्वपूर्ण ईमेल के साथ संलग्न वित्तीय विवरण का सूक्ष्मता से अवलोकन करें और यदि कोई संशोधन अपेक्षित हो, तो कृपया यथाशीघ्र अवगत कराने का कष्ट करें।",
+          "reading": "kripaya is mahatvapoorna email ke saath sanlagn vitteey vivaran ka sookshmata se avalokan karein aur yadi koi sanshodhan apekshit ho, to kripaya yathaasheeghr avgat karaane ka kasht karein. [krɪpəjaː ɪs məɦət̪ʋəpuːrɳ iːmeːl keː saːt̪ʰ sənləɡn ʋɪt̪ːiːj ʋɪʋrəɳ kaː suːkʃmət̪aː seː əʋloːkən kərẽː ɔːr jəd̪ɪ koːiː sənʃoːd̪ʱən əpeːkʃɪt̪ hoː t̪oː krɪpəjaː jət̪ʰaːʃiːɡʱr əʋɡət̪ kəraːneː kaː kəʂʈ kərẽː] (KREE-puh-yah ees muh-huht-vuh-POOR-nuh email kay sahth suhn-LUHGN veet-TEE-yuh veev-RUHN kah sooksh-muh-TAH say uhv-LOH-kuhn KUH-rayn owr yuh-DEE koh-EE suhn-shoh-DHUHN uh-payk-SHEET hoh, toh KREE-puh-yah yuh-thah-SHEEG-ruh uhv-GUHT kuh-rah-NAY kah KUSH-th KUH-rayn)",
+          "translation": "Please scrutinize the financial statement attached with this important email and if any modification is required, please take the trouble to inform at the earliest."
+        },
+        {
+          "target": "कंपनी की नई उत्पाद शृंखला के सफल शुभारंभ हेतु आयोजित आभासी सम्मेलन में आपकी सक्रिय सहभागिता और बहुमूल्य विचारों के लिए आप सभी का हार्दिक धन्यवाद।",
+          "reading": "company ki nayi utpaad shringkhala ke safal shubhaarambh hetu aayojit aabhaasi sammelan mein aapki sakriy sahbhaagita aur bahumoolya vichaaron ke liye aap sabhi ka haardik dhanyavaad. [kəmpəniː kiː nəjiː ʊt̪paːd̪ ʃrɪŋkʰlaː keː səfəl ʃʊbʱaːrəmbʱ ɦeːt̪ʊ aːjoːdʒɪt̪ aːbʱaːsiː səmːeːlən mẽː aːpkiː səkriːj səɦbʱaːɡɪt̪aː ɔːr bəɦʊmuːljə ʋɪtʃaːrõː keː lɪjeː aːp səbʱiː kaː ɦaːrd̪ɪk d̪ʱənjəʋaːd̪] (company kee nuh-YEE oot-PAHD shreeng-KHUH-lah kay SUH-fuhl shoobh-ah-RUHMBH HAY-too ah-yoh-JEET ah-bhah-SEE suhm-MAY-luhn mayn AHP-kee suhk-REE-yuh suh-bhah-GEE-tah owr buh-hoo-MOOL-yuh vee-CHAH-rohn kay lee-ay ahp SUH-bhee kah HAHR-deek dhuhn-yuh-VAHD)",
+          "translation": "Heartfelt thanks to all of you for your active participation and valuable ideas in the virtual conference organized for the successful launch of the company's new product range."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ईमेल शिष्टाचार: सादर अभिवादन (greetings), संलग्न फ़ाइल (attachment), सादर धन्यवाद (regards)!"
+      ],
+      "culturalNotes": [
+        "भारतीय बहुराष्ट्रीय कंपनियों में 'सादर अभिवादन' और 'यथाशीघ्र अवगत कराने का कष्ट करें' जैसे सौम्य वाक्यांश संवाद को अत्यंत पेशेवर और सम्मानजनक बनाते हैं।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"बेटी\":",
+          "prompt": "ईमेल में फ़ाइल जोड़ने (Attachment) के लिए मानक हिंदी शब्द कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 20.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («मित्र» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («आज» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कल» का अनुचित स्थान)"
+            "संलग्नक / संलग्न फ़ाइल (Sanlagnak / Sanlagn file - Attachment / Attached file [standard email terminology])",
+            "चिपकाई हुई फ़ोटो (अनौपचारिक घरेलू शब्द)",
+            "बाँधा हुआ कागज़ (अनुपयुक्त देहाती मुहावरा)",
+            "खोया हुआ पत्र (भ्रामक विपरीतार्थक)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "ईमेल और पत्राचार में अटैचमेंट के लिए मानक पारिभाषिक शब्द «संलग्नक» या «संलग्न फ़ाइल» है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"बेटी\":",
+          "prompt": "कॉरपोरेट ईमेल के अंत में 'Looking forward to your reply' का मानक हिंदी अनुवाद चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 20.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («आज» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («मित्र» का अशुद्ध रूप)"
+            "आपके शीघ्र प्रत्युत्तर की प्रतीक्षा में (Aapke sheeghr pratyuttar ki prateeksha mein - Looking forward to your prompt response)",
+            "तुम जल्दी बोलो (अशिष्ट आज्ञावाचक दोष)",
+            "हम कल सो रहे हैं (असंगत निरर्थक वाक्य)",
+            "जवाब मत देना (नकारात्मक निषेधात्मक)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "व्यावसायिक पत्राचार में उत्तर की प्रतीक्षा दर्शाने हेतु «आपके शीघ्र प्रत्युत्तर की प्रतीक्षा में» मानक समापन वाक्य है।"
         }
       ]
     },
@@ -8545,17 +8584,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"बेटी\": Which sentence is completely correct?",
+          "prompt": "कॉरपोरेट ईमेल और संचार (Corporate Email & Communication) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 20.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («मित्र» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («आज» से संबंधित)"
+            "कृपया संलग्न परियोजना रिपोर्ट का अवलोकन करें और अपने बहुमूल्य सुझाव शुक्रवार तक साझा करने की कृपा करें। (Please review the attached project report and kindly share your valuable feedback by Friday.)",
+            "रिपोर्ट को कल किसी ने देखा नहीं था ईमेल में।",
+            "परियोजना रिपोर्ट बंद है ताकि कोई न पढ़े।",
+            "शुक्रवार को हम सब मिलकर खेलेंगे।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«कृपया संलग्न... अवलोकन करें और अपने बहुमूल्य सुझाव... साझा करने की कृपा करें» शिष्ट और मानक कॉरपोरेट भाषा का परिचायक है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u20-l5": {
@@ -8563,53 +8603,62 @@
     "subject": "hindi",
     "unit": 20,
     "lessonNumber": 5,
-    "title": "व्यावसायिक हिंदी और पत्राचार (Corporate Hindi) (Part 5)",
+    "title": "व्यावसायिक और कार्यालयी हिंदी का समग्र समेकन व संवाद (Comprehensive Corporate Synthesis & Negotiation)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.5) with authentic linguistic precision.",
+    "objective": "बोर्ड बैठकों, अंतरराष्ट्रीय व्यावसायिक वार्ताओं (Negotiations) तथा नीतिगत समझौतों के जटिल संवादों और आधिकारिक दस्तावेजों के संश्लेषण में पूर्ण अधिकार प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "उच्चस्तरीय व्यावसायिक वार्ताओं (Corporate Negotiations), बोर्डरूम संवादों एवं नीतिगत सहमति-पत्रों (MoUs) का समग्र समेकन व वाक्य-विन्यास:\n\n1. **निर्णय प्रक्रिया और नीतिगत प्रस्ताव (Policy Proposals & Resolutions)**:\n   - *निदेशक मंडल ने गहन विचार-विमर्श और वित्तीय विश्लेषण के पश्चात प्रस्ताव को सर्वसम्मति से पारित किया;*\n   - *दीर्घकालिक रणनीतिक साझेदारी और संयुक्त उपक्रम (Joint Venture) की स्थापना;*\n   - *वार्षिक लाभांश वितरण और विस्तार योजनाओं की विधिवत स्वीकृति।*\n\n2. **व्यावसायिक वार्ताओं के राजनयिक और सौहार्दपूर्ण रजिस्टर (Diplomatic Negotiation Registers)**:\n   - *दोनों पक्षों के परस्पर हितों, लाभ और बौद्धिक संपदा का पूर्ण संरक्षण;*\n   - *पारस्परिक विश्वास और सौहार्दपूर्ण वातावरण में संपन्न ऐतिहासिक समझौता;*\n   - *अंतिम सहमति पत्र (Memorandum of Understanding) पर अधिकृत हस्ताक्षर और क्रियान्वयन ढाँचा।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 20.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 20."
+          "target": "कंपनी के निदेशक मंडल ने गहन विचार-विमर्श और वित्तीय जोखिमों के विस्तृत विश्लेषण के पश्चात अंतरराष्ट्रीय बाज़ार में विस्तार करने के ऐतिहासिक प्रस्ताव को सर्वसम्मति से पारित कर दिया।",
+          "reading": "company ke nideshak mandal ne gahan vichaar-vimarsh aur vitteey jokhimon ke vistrit vishleshan ke pashchaat antarraashtreey baazaar mein vistaar karne ke aitihasik prastaav ko sarvasammati se paarit kar diya. [kəmpəniː keː nɪd̪eːʃək məɳɖəl neː ɡəɦən ʋɪtʃaːr ʋɪmərʃ ɔːr ʋɪt̪ːiːj dʒoːkʰɪmõː keː ʋɪst̪rɪt̪ ʋɪʃleːʂəɳ keː pəʃtʃaːt̪ ən̪t̪ərraːʂʈriːj baːzaːr mẽː ʋɪst̪aːr kərneː keː ɛːt̪ɪhaːsɪk prəstaːʋ koː sərʋsəmːət̪ɪ seː paːrɪt̪ kər d̪ɪjaː] (company kay nee-DAY-shuhk MUHN-duhl nay GUH-huhn vee-chahr-vee-MUHRSH owr veet-TEE-yuh joh-khee-MOHN kay vees-TREET veesh-LAY-shuhn kay puhsh-CHAHT uhn-tuhr-rahsh-TREE-yuh bah-ZAHR mayn vees-TAHR KUHR-nay kay ay-tee-HAH-seek pruhs-TAHV koh suhrv-suhm-MUH-tee say pah-REET kuhr DEE-yah)",
+          "translation": "The company's Board of Directors unanimously passed the historic proposal to expand into the international market following deep deliberations and detailed analysis of financial risks."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 20-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "दोनों बहुराष्ट्रीय निगमों के शीर्ष अधिकारियों ने सौहार्दपूर्ण वातावरण में आयोजित उच्चस्तरीय वार्ता के उपरांत दीर्घकालिक रणनीतिक साझेदारी और संयुक्त उपक्रम के सहमति पत्र पर हस्ताक्षर किए।",
+          "reading": "donon bahuraashtreey nigamon ke sheersh adhikaariyon ne sauhaardapoorna vaataavaran mein aayojit uchchastareey vaarta ke upraant deerghakaalik ran-neetik saajhedaari aur sanyukt upkram ke sahamati patr par hastaakshar kiye. [d̪oːnõː bəɦʊraːʂʈriːj nɪɡmõː keː ʃiːrʂ əd̪ʱɪkaːrɪjõː neː sɔːɦaːrd̪puːrɳ ʋaːt̪aːʋərəɳ mẽː aːjoːdʒɪt̪ ʊtʃːəst̪əriːj ʋaːrt̪aː keː ʊpraːn̪t̪ d̪iːrɡʱkaːlɪk rəɳniːt̪ɪk saːdʒʱeːd̪aːriː ɔːr sənjuːkt̪ ʊpkrəm keː səɦmət̪ɪ pət̪r pər ɦəst̪aːkʃər kɪjeː] (DOH-nohn buh-hoo-rahsh-TREE-yuh neeg-MOHN kay SHEERSH uh-dhee-kah-ree-YOHN nay sow-hahr-duh-POOR-nuh vah-tah-vuh-RUHN mayn ah-yoh-JEET ootch-uh-stuh-REE-yuh VAHR-tah kay oop-RAHNT deergh-kah-LEEK ruhn-NEE-teek sahj-hay-DAH-ree owr suhn-YOOKT oop-KRUHM kay suh-huh-muh-TEE PUHT-ruh puhr huhs-TAHK-shuhr kee-YAY)",
+          "translation": "Top executives of both multinational corporations signed the memorandum of understanding for long-term strategic partnership and joint venture following high-level talks held in a cordial atmosphere."
+        },
+        {
+          "target": "प्रबंधन और कर्मचारी संघ के प्रतिनिधियों के मध्य विस्तृत विचार-विमर्श के पश्चात वार्षिक वेतन वृद्धि और कल्याणकारी योजनाओं से संबंधित ऐतिहासिक समझौते पर सुखद आम सहमति बन गई।",
+          "reading": "prabandhan aur karmachaari sangh ke pratinidhiyon ke madhya vistrit vichaar-vimarsh ke pashchaat vaarshik vetan vriddhi aur kalyaankaari yojnaon se sambandhit aitihasik samjhote par sukhad aam sahamati ban gayi. [prəbən̪d̪ʱən ɔːr kərmətʃaːriː səŋɡʱ keː prət̪ɪnɪd̪ʱɪjõː keː məd̪ʱjə ʋɪst̪rɪt̪ ʋɪtʃaːr ʋɪmərʃ keː pəʃtʃaːt̪ ʋaːrʂɪk ʋeːt̪ən ʋrɪd̪ːʱɪ ɔːr kəljaːɳkaːriː joːdʒnaːõː seː səmbən̪d̪ʱɪt̪ ɛːt̪ɪhaːsɪk səmədʒʱoːt̪eː pər sʊkʰəd̪ aːm səɦmət̪ɪ bən ɡəjiː] (pruh-BUHN-dhuhn owr kuhr-muh-CHAH-ree SUHNGH kay pruh-tee-nee-dhee-YOHN kay MUDH-yuh vees-TREET vee-chahr-vee-MUHRSH kay puhsh-CHAHT vahr-SHEEK VAY-tuhn VREED-dhee owr kuhl-yahn-KAH-ree yohj-nah-OHN say suhm-buhn-DHEET ay-tee-HAH-seek suhm-JHOH-tay puhr SOO-khuhd ahm suh-huh-muh-TEE buhn GUH-yee)",
+          "translation": "Following detailed deliberations between the management and employee union representatives, a pleasant general consensus was reached on the historic agreement regarding annual wage increment and welfare schemes."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "कॉरपोरेट समेकन: निदेशक मंडल (Board of Directors), सहमति पत्र (MoU), संयुक्त उपक्रम (Joint Venture), आम सहमति (Consensus)!"
+      ],
+      "culturalNotes": [
+        "भारतीय उद्योग जगत में व्यापारिक वार्ताओं में सौहार्द और परस्पर विश्वास को औपचारिक कानूनी अनुबंधों जितना ही महत्वपूर्ण अधिमान दिया जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"मित्र\":",
+          "prompt": "व्यावसायिक सहमति पत्र (Memorandum of Understanding) के लिए मानक हिंदी पारिभाषिक पद कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 20.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («आज» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («परसों» का अनुचित स्थान)"
+            "सहमति पत्र (Sahamati patr - Memorandum of Understanding / MoU [official legal term])",
+            "दावत का निमंत्रण (उत्सव निमंत्रण)",
+            "धमकी भरा खत (आपराधिक पत्र)",
+            "रंग-बिरंगी पत्रिका (पत्रिका प्रकाशन)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "व्यावसायिक साझेदारियों में प्राथमिक समझौते को «सहमति पत्र» (MoU) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"मित्र\":",
+          "prompt": "बोर्ड बैठक में सर्वसम्मति (Unanimously) से प्रस्ताव पारित होने का सही हिंदी पद भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 20.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («परसों» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («आज» का अशुद्ध रूप)"
+            "सर्वसम्मति से (Sarvasammati se - Unanimously / By total consensus)",
+            "लड़ाई-झगड़े से (Conflict error)",
+            "चुपके-चुपके (Secrecy mismatch)",
+            "अचानक कल (Temporal mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "सभी सदस्यों की पूर्ण सहमति दर्शाने के लिए «सर्वसम्मति से» मानक औपचारिक पद है।"
         }
       ]
     },
@@ -8617,17 +8666,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"मित्र\": Which sentence is completely correct?",
+          "prompt": "कॉरपोरेट संवाद एवं प्रशासनिक समेकन (Corporate Synthesis & Discourse) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 20.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («परसों» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («आज» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कल» से संबंधित)"
+            "निदेशक मंडल ने वार्षिक वित्तीय रिपोर्ट की समीक्षा के उपरांत शेयरधारकों के लाभांश वितरण के प्रस्ताव को सर्वसम्मति से अनुमोदित किया। (Following the review of the annual financial report, the Board of Directors unanimously approved the proposal for shareholders' dividend distribution.)",
+            "निदेशक मंडल कल शाम को क्रिकेट खेल रहा था।",
+            "वित्तीय रिपोर्ट को किसी ने जला दिया था।",
+            "लाभांश वितरण मत करो ताकि सब रोएं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«निदेशक मंडल ने... लाभांश वितरण के प्रस्ताव को सर्वसम्मति से अनुमोदित किया» परिपक्व और प्रामाणिक कॉरपोरेट हिंदी का सर्वोत्तम उदाहरण है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u21-l1": {
