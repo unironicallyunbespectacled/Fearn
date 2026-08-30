@@ -895,53 +895,62 @@
     "subject": "ukrainian",
     "unit": 2,
     "lessonNumber": 1,
-    "title": "Рід та число іменників (Noun Gender & Plurals) (Part 1)",
+    "title": "Чоловічий рід іменників: приголосні закінчення, закінчення на -о та займенники (Masculine Nouns)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 2.1) with authentic linguistic precision.",
+    "objective": "Опанувати ознаки чоловічого роду іменників (нульове закінчення на твердий/м'який приголосний, закінчення -о для істот), вказівні та присвійні займенники (цей, мій, наш).",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові категорія граматичного роду охоплює всі іменники. Чоловічий рід (masculine gender) визначається за типовими закінченнями початкової форми (називний відмінок однини):\n\n1. Основні морфологічні ознаки чоловічого роду:\n- Нульове закінчення на твердий приголосний: «стіл», «брат», «студент», «парк», «ліс».\n- Нульове закінчення на м'який приголосний або «й»: «учитель», «кінь», «хлопець», «трамвай», «гай».\n- Закінчення на «-о» (назви осіб чоловічої статі та пестливі форми): «батько», «дядько», «дідусь», «Дмитро», «Петро».\n\n2. Питальні та вказівні конструкції:\n- «Хто це?» — «Це мій рідний брат.» (займенник «він / цей / мій»).\n- «Що це?» — «Це новий сучасний комп'ютер.» (неістота чоловічого роду).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Мій старший брат працює програмістом у місті Львові.",
+          "reading": "[mʲij ˈstɑrʃɪj brɑt prɐt͡sʲuˈjɛ prɔɦrɐˈmʲistɔm u ˈmʲisʲtʲi ˈlʲwɔwʲi] (MEEY STAHR-shyi braht praht-SYOO-yeh proh-hrah-MEES-tohm oo MEES-tee L'VOH-vee)",
+          "translation": "My older brother works as a programmer in the city of Lviv."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 2-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Цей великий дерев'яний стіл стоїть у центрі кімнати.",
+          "reading": "[tsɛj wɛˈlɪkɪj dɛrɛˈwjɑnɪj sʲtʲil stɔˈjitʲ u ˈtsɛntrʲi kʲimˈnɑtɪ] (TSEY veh-LY-kyi deh-reh-VYAH-nyi steel stoh-YEET' oo TSEN-tree keem-NAH-ty)",
+          "translation": "This large wooden table stands in the center of the room."
+        },
+        {
+          "target": "Дядько Петро зустрів нас біля залізничного вокзалу.",
+          "reading": "[ˈdʲɑdʲkɔ pɛˈtrɔ zusʲˈtrʲiw nɑs ˈbʲilʲɑ zɐlʲizˈnɪtʃnɔɦɔ wɔkˈzɑlu] (DYAHDK-oh peh-TROH zoo-STREEV nahs BEE-lyah zah-leez-NYCH-noh-hoh vok-ZAH-loo)",
+          "translation": "Uncle Petro met us near the railway station."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Твердий чи м'який приголосний у кінці слова стоїть — чоловічий рід «Він» упевнено звучить!"
+      ],
+      "culturalNotes": [
+        "В українській мові імена та родинні терміни чоловічого роду на «-о» (батько, дядько, Тарас, Дмитро) мають давнє питоме походження та у кличному відмінку набувають форми «батьку», «дядьку», «Дмитре»."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Вибачте\":",
+          "prompt": "Оберіть рядок, у якому всі подані іменники належать виключно до чоловічого роду:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.1.",
-            "Неправильне відмінкове узгодження зі словом «Смачного»",
-            "Порушення законів евфонії та словотворення для «Сніданок»",
-            "Стилістично некоректна синтаксична конструкція з «Обід»"
+            "Студент, будинок, учитель, батько (Masculine nouns)",
+            "Книга, ручка, мама, сестра",
+            "Вікно, місто, сонце, море",
+            "Життя, дівчина, яблуко, вода"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Слова «студент», «будинок», «учитель» (закінчення на приголосний) та «батько» (назва особи ч. р. на -о) є іменниками чоловічого роду."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Вибачте\":",
+          "prompt": "Який присвійний займенник слід ужити зі словом «стілець» у називному відмінку?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.1.",
-            "Порушення законів евфонії та словотворення для «Сніданок»",
-            "Стилістично некоректна синтаксична конструкція з «Обід»",
-            "Неправильне відмінкове узгодження зі словом «Смачного»"
+            "Мій стілець (My chair - Masculine)",
+            "Моя стілець",
+            "Моє стілець",
+            "Мої стілець"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Іменник «стілець» є чоловічого роду, тому узгоджується із займенником чоловічого роду «мій»."
         }
       ]
     },
@@ -949,17 +958,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Вибачте\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому займенник та прикметник граматично правильно узгоджені з іменником чоловічого роду:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.1.",
-            "Стилістично некоректна синтаксична конструкція з «Обід»",
-            "Неправильне відмінкове узгодження зі словом «Смачного»",
-            "Порушення законів евфонії та словотворення для «Сніданок»"
+            "Цей новий підручник лежить на парті.",
+            "Ця новий підручник лежить на парті.",
+            "Це нова підручник лежить на парті.",
+            "Ці нове підручник лежить на парті."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Підручник» — іменник чоловічого роду, тому потребує форм «цей» та «новий»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u2-l2": {
@@ -967,53 +977,62 @@
     "subject": "ukrainian",
     "unit": 2,
     "lessonNumber": 2,
-    "title": "Рід та число іменників (Noun Gender & Plurals) (Part 2)",
+    "title": "Жіночий рід іменників: закінчення -а, -я та нульове закінчення на м'який приголосний (Feminine Nouns)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 2.2) with authentic linguistic precision.",
+    "objective": "Опанувати закінчення жіночого роду (-а, -я, нульове закінчення на шиплячий/м'який приголосний), узгодження займенників (вона, ця, моя, наша) та прикметників.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Іменники жіночого роду (feminine gender) в українській мові мають виразні граматичні ознаки:\n\n1. Основні закінчення жіночого роду:\n- Закінчення на «-а» (після твердих приголосних): «мама», «книга», «школа», «сестра», «країна».\n- Закінчення на «-я» (після м'яких приголосних або голосних): «земля», «пісня», «вулиця», «надія», «родина».\n- Нульове закінчення на м'який приголосний, шиплячий або губний (III відміна): «ніч», «тінь», «радість», «любов», «осінь», «сіль».\n\n2. Узгодження займенників та прикметників:\n- «Хто це?» — «Це моя найкраща подруга.» (займенник «вона / ця / моя»).\n- «Яка ця вулиця?» — «Ця старовинна вулиця дуже красива.»",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Моя рідна сестра навчається у київській музичній академії.",
+          "reading": "[mɔˈjɑ ˈrʲidnɐ sɛsʲˈtrɑ nɐwˈtʃɑjɛtsʲɑ u ˈkɪjiwsʲkʲij muzɪtʃˈnʲij ɐkɐˈdɛmʲijɪ] (Moh-YAH REED-nah ses-TRAH nav-CHAH-yet-syah oo KY-yeev-s'keey moo-ZYCH-neey ah-kah-DEH-mee-yee)",
+          "translation": "My sister studies at the Kyiv Music Academy."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 2-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Темна осіння ніч тихо опустилася на старе місто.",
+          "reading": "[ˈtɛmnɐ ɔˈsʲinʲːɐ nʲitʃ ˈtɪxɔ ɔpusˈtɪlɐsʲɑ nɑ stɐˈrɛ ˈmʲistɔ] (TEM-nah oh-SEEN-nyah neech TY-hoh oh-poos-TY-lah-syah nah stah-REH MEES-toh)",
+          "translation": "A dark autumn night quietly descended upon the old town."
+        },
+        {
+          "target": "Ця цікава книга розповідає про історію та культуру України.",
+          "reading": "[tsʲɑ t͡sʲiˈkɑwɐ ˈknɪɦɐ rɔzpɔwʲiˈdɑjɛ prɔ isˈtɔrʲiju tɑ kulʲˈturu ukrɐˈjinɪ] (TSYAH tsee-KAH-vah KNY-hah roz-poh-vee-DAH-yeh proh ees-TOH-ree-yoo tah kool'-TOO-roo oo-krah-YEE-ny)",
+          "translation": "This interesting book tells about the history and culture of Ukraine."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Закінчення «-а» чи «-я», або ніч і радість без кінця — жіночий рід «Вона» упізнаю щомиті я!"
+      ],
+      "culturalNotes": [
+        "Слова «мати», «земля», «мова», «пісня» та «доля» в українській культурі мають глибокий архетиповий зміст і всі належать до жіночого роду."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Смачного\":",
+          "prompt": "Оберіть іменник жіночого роду з нульовим закінченням на м'який приголосний (III відміна):",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.2.",
-            "Неправильне відмінкове узгодження зі словом «Сніданок»",
-            "Порушення законів евфонії та словотворення для «Обід»",
-            "Стилістично некоректна синтаксична конструкція з «Вечеря»"
+            "Радість (Joy - Feminine III declension)",
+            "Хлопець",
+            "Місто",
+            "Стілець"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Іменник «радість» (як і «любов», «ніч», «осінь») закінчується на м'який приголосний і належить до жіночого роду."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Смачного\":",
+          "prompt": "Оберіть правильну форму вказівного займенника для сполучення зі словом «пісня»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.2.",
-            "Порушення законів евфонії та словотворення для «Обід»",
-            "Стилістично некоректна синтаксична конструкція з «Вечеря»",
-            "Неправильне відмінкове узгодження зі словом «Сніданок»"
+            "Ця чудова пісня (This wonderful song - Feminine)",
+            "Цей чудова пісня",
+            "Це чудова пісня",
+            "Ці чудова пісня"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Іменник «пісня» належить до жіночого роду, тому вимагає форми «ця»."
         }
       ]
     },
@@ -1021,17 +1040,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Смачного\": Which sentence is completely correct?",
+          "prompt": "Оберіть рядок, у якому всі іменники належать до жіночого роду:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.2.",
-            "Стилістично некоректна синтаксична конструкція з «Вечеря»",
-            "Неправильне відмінкове узгодження зі словом «Сніданок»",
-            "Порушення законів евфонії та словотворення для «Обід»"
+            "Країна, вулиця, пісня, ніч",
+            "День, вечір, ранок, стіл",
+            "Вікно, серце, море, знання",
+            "Брат, тато, дідусь, козак"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Країна» (-а), «вулиця» (-я), «пісня» (-я) та «ніч» (III відміна) — усі є іменниками жіночого роду."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u2-l3": {
@@ -1039,53 +1059,62 @@
     "subject": "ukrainian",
     "unit": 2,
     "lessonNumber": 3,
-    "title": "Рід та число іменників (Noun Gender & Plurals) (Part 3)",
+    "title": "Середній рід іменників: закінчення -о, -е, віддієслівні іменники на -я та назви малят (Neuter Nouns)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 2.3) with authentic linguistic precision.",
+    "objective": "Опанувати закінчення середнього роду (-о, -е, подовжені на -я, назви дитинчат на -а/-я), узгодження займенників (воно, це, моє) та прикметників.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Іменники середнього роду (neuter gender) позначають предмети, явища, абстрактні поняття та назви малят:\n\n1. Закінчення середнього роду:\n- Закінчення на «-о»: «вікно», «місто», «село», «слово», «яблуко».\n- Закінчення на «-е»: «поле», «море», «серце», «сонце», «плече».\n- Закінчення на «-я» з подовженням приголосного (віддієслівні іменники): «життя», «знання», «завдання», «мовлення», «питання».\n- Закінчення на «-а / -я» (назви молодих істот і малят): «теля», «кошеня», «хлоп'я», «курча» (при відмінюванні з'являються суфікси -ат-/-ят-).\n\n2. Узгодження:\n- «Що це?» — «Це наше рідне місто.» (займенник «воно / це / моє»).\n- «Яке це завдання?» — «Це складне домашнє завдання.»",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Яскраве ранкове сонце освічує синє безкрає море.",
+          "reading": "[jɐsˈkrɑwɛ rɑŋˈkɔwɛ ˈsɔntsɛ ɔsʲwʲiˈtʃujɛ ˈsɪnʲɛ bɛzˈkrɑjɛ ˈmɔrɛ] (yahs-KRAH-veh rahn-KOH-veh SOHN-tseh ohs-vee-CHOO-yeh SY-nyeh bez-KRAH-yeh MOH-reh)",
+          "translation": "The bright morning sun illuminates the vast blue sea."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 2-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Глибокі знання та щоденне навчання відкривають шлях до успіху.",
+          "reading": "[ɦlɪˈbɔkʲi znɐnʲːɑ tɑ ʃtʃɔˈdɛnːɛ nɐwˈtʃɑnʲːɑ wʲidkrɪˈwɑjutʲ ʃlʲɑx dɔ ˈuspʲixu] (hly-BOH-kee znahn-NYAH tah shchoh-DEN-neh nav-CHAHN-nyah veed-kry-VAH-yoot' shlyakh doh OOS-pee-khoo)",
+          "translation": "Deep knowledge and daily learning open the path to success."
+        },
+        {
+          "target": "Маленьке пухнасте кошеня солодко спить на теплому килимі.",
+          "reading": "[mɐˈlɛnʲkɛ puxˈnɑstɛ kɔʃɛˈnʲɑ ˈsɔlɔdkɔ spɪtʲ nɑ ˈtɛplɔmu ˈkɪlɪmʲi] (mah-LEN'-keh pookh-NAHS-teh koh-sheh-NYAH SOH-lod-koh speet' nah TEP-loh-moo KY-ly-mee)",
+          "translation": "The little fluffy kitten sleeps sweetly on the warm carpet."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "На «-о», на «-е» або життя й знання — середній рід «Воно» всміхається щодня!"
+      ],
+      "culturalNotes": [
+        "В українській мові віддієслівні іменники середнього роду на «-ння», «-ття» мають подвоєння м'яких подовжених приголосних (читання, знання, буття, багаття), що є унікальною фонетичною рисою мови."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Сніданок\":",
+          "prompt": "Оберіть іменник середнього роду, утворений із подовженням приголосного перед закінченням «-я»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.3.",
-            "Неправильне відмінкове узгодження зі словом «Обід»",
-            "Порушення законів евфонії та словотворення для «Вечеря»",
-            "Стилістично некоректна синтаксична конструкція з «Хліб»"
+            "Завдання (Task / Assignment - Neuter)",
+            "Земля",
+            "Пісня",
+            "Надія"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Слово «завдання» (як і «знання», «життя») належить до середнього роду та має характерне подовження [н':а]."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Сніданок\":",
+          "prompt": "Оберіть правильний рядок узгодження для іменника середнього роду «вікно»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.3.",
-            "Порушення законів евфонії та словотворення для «Вечеря»",
-            "Стилістично некоректна синтаксична конструкція з «Хліб»",
-            "Неправильне відмінкове узгодження зі словом «Обід»"
+            "Це велике вікно (This big window - Neuter)",
+            "Цей великий вікно",
+            "Ця велика вікно",
+            "Ці великі вікно"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Іменник «вікно» — середнього роду, тому вимагає займенника «це» та прикметника «велике»."
         }
       ]
     },
@@ -1093,17 +1122,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Сніданок\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому всі іменники належать виключно до середнього роду:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.3.",
-            "Стилістично некоректна синтаксична конструкція з «Хліб»",
-            "Неправильне відмінкове узгодження зі словом «Обід»",
-            "Порушення законів евфонії та словотворення для «Вечеря»"
+            "Сонце зігріває море, поле та зелене листя.",
+            "Брат читає цікаву книгу біля вікна.",
+            "Учитель зайшов у світлий клас школи.",
+            "Студентка пише лист своїй сестрі."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Слова «сонце», «море», «поле», «листя» є іменниками середнього роду."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u2-l4": {
@@ -1111,53 +1141,62 @@
     "subject": "ukrainian",
     "unit": 2,
     "lessonNumber": 4,
-    "title": "Рід та число іменників (Noun Gender & Plurals) (Part 4)",
+    "title": "Множина іменників: регулярні моделі творення (-и, -і, -ї, -а/-я) (Plural Formations)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 2.4) with authentic linguistic precision.",
+    "objective": "Опанувати правила творення множини іменників трьох родів (тверда група на -и, м'яка на -і, після голосних на -ї, середній рід на -а/-я), узгодження займенників (вони, ці, мої).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Творення множини (plural forms) в українській мові залежить від граматичного роду та кінцевого звука основи:\n\n1. Чоловічий та жіночий рід:\n- Тверда група (після твердих приголосних) -> закінчення «-и»: «стіл -> столи», «студент -> студенти», «книга -> книги», «мапа -> мапи».\n- М'яка та мішана групи (після м'яких приголосних і шиплячих [ж, ч, ш, щ]) -> закінчення «-і»: «учитель -> учителі», «вулиця -> вулиці», «ніч -> ночі», «товариш -> товариші».\n- Після голосних та апострофа -> закінчення «-ї»: «край -> краї», «надія -> надії», «соловей -> солов'ї».\n\n2. Середній рід:\n- Закінчення «-о» змінюється на «-а»: «вікно -> вікна», «місто -> міста», «село -> села».\n- Закінчення «-е» змінюється на «-я»: «поле -> поля», «море -> моря».\n- Іменники на «-я» з подовженням залишають закінчення «-я»: «завдання -> завдання», «питання -> питання».\n\n3. Займенники множини:\n- «Вони», «ці», «мої», «наші», «нові».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Українські студенти та студентки активно відвідують лекції.",
+          "reading": "[ukrɐˈjinʲsʲkʲi stuˈdɛntɪ tɑ stuˈdɛntkɪ ɐkˈtɪwnɔ wʲidwʲiˈdujutʲ ˈlɛktsʲijɪ] (oo-krah-YEEN-s'kee stoo-DEN-ty tah stoo-DENT-ky ahk-TYV-noh veed-vee-DOO-yoot' LEK-tsee-yee)",
+          "translation": "Ukrainian male and female students actively attend lectures."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 2-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "У центрі міста світяться великі вікна нових сучасних будинків.",
+          "reading": "[u ˈtsɛntrʲi ˈmʲistɐ sʲwʲiˈtʲɑtsʲɑ wɛˈlɪkʲi ˈwʲiknɐ nɔˈwɪx suˈtʃɑsnɪx buˈdɪnkʲiw] (oo TSEN-tree MEES-tah SVEET-yat-syah veh-LY-kee VEEK-nah noh-VYKH soo-CHAHS-nykh boo-DYN-keev)",
+          "translation": "In the city center, the large windows of new modern buildings are lit."
+        },
+        {
+          "target": "Широкі зелені поля простяглися аж до самого горизонту.",
+          "reading": "[ʃɪˈrɔkʲi zɛˈlɛnʲi pɔˈlʲɑ prɔsʲtʲɐɦˈlɪsʲɑ ɐʒ dɔ sɐˈmɔɦɔ ɦɔrɪˈzɔntu] (shy-ROH-kee zeh-LEH-nee poh-LYAH prohs-tyah-HLY-syah ahzh doh sah-MOH-hoh hoh-ry-ZOHN-too)",
+          "translation": "Wide green fields stretched all the way to the horizon."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Тверда основа — «-и» постав, м'яка основа — «-і» обрав; А вікно на «-а» змінить, щоб у множині зажить!"
+      ],
+      "culturalNotes": [
+        "В українській мові при чергуванні в основі звуків [о], [е] з [і] у закритому складі часто спостерігається чергування при творенні множини: «стіл — столи», «ніч — ночі», «кіт — коти»."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Обід\":",
+          "prompt": "Утворіть правильну форму множини від іменника середнього роду «місто»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.4.",
-            "Неправильне відмінкове узгодження зі словом «Вечеря»",
-            "Порушення законів евфонії та словотворення для «Хліб»",
-            "Стилістично некоректна синтаксична конструкція з «Вода»"
+            "Міста (Cities - Neuter Plural)",
+            "Місти",
+            "Місті",
+            "Містове"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Іменники середнього роду на «-о» у множині набувають закінчення «-а»: однина «місто» -> множина «міста»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Обід\":",
+          "prompt": "Оберіть рядок, у якому всі іменники правильно подані у формі множини:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.4.",
-            "Порушення законів евфонії та словотворення для «Хліб»",
-            "Стилістично некоректна синтаксична конструкція з «Вода»",
-            "Неправильне відмінкове узгодження зі словом «Вечеря»"
+            "Столи, книги, вулиці, моря (Plural forms)",
+            "Стола, книгі, вулици, мори",
+            "Столе, книго, вулицо, моро",
+            "Столу, книгу, вулицу, мору"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Столи» (ч. р.), «книги» (ж. р.), «вулиці» (ж. р. м'яка), «моря» (с. р.) — правильні літературні форми множини."
         }
       ]
     },
@@ -1165,17 +1204,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Обід\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому допущено граматичну помилку у творенні форми множини:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.4.",
-            "Стилістично некоректна синтаксична конструкція з «Вода»",
-            "Неправильне відмінкове узгодження зі словом «Вечеря»",
-            "Порушення законів евфонії та словотворення для «Хліб»"
+            "На столі лежать нові олівци та зошити.",
+            "На столі лежать нові олівці та зошити.",
+            "У саду ростуть високі дерева та яблуні.",
+            "Студенти читають цікаві підручники."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Слово «олівець» має м'яку основу, тому правильною формою множини є «олівці» (з літерою «і»), а не «олівци»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u2-l5": {
@@ -1183,53 +1223,62 @@
     "subject": "ukrainian",
     "unit": 2,
     "lessonNumber": 5,
-    "title": "Рід та число іменників (Noun Gender & Plurals) (Part 5)",
+    "title": "Особливі випадки числа: суплетивні множини (люди, діти, друзі) та іменники Singularia/Pluralia Tantum",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 2.5) with authentic linguistic precision.",
+    "objective": "Опанувати нерегулярні форми множини (людина -> люди, дитина -> діти, друг -> друзі), іменники, що вживаються лише в однині або лише в множині.",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові є важлива група іменників із нерегулярними або обмеженими формами числа:\n\n1. Суплетивні та нерегулярні форми множини:\n- «Людина -> люди» (суплетивна основа).\n- «Дитина -> діти» (суплетивна основа).\n- «Друг -> друзі» (суфіксальна зміна та чергування г/з).\n- «Брат -> брати», «Син -> сини».\n\n2. Іменники, що вживаються лише в множині (Pluralia Tantum):\n- Парні або складені предмети: «ножиці», «окуляри», «штани», «двері», «ворота».\n- Речовини та матеріали: «гроші», «дріжджі», «парфуми».\n- Події, часові проміжки та ігри: «канікули», «шахи», «іменини».\n\n3. Іменники, що вживаються лише в однині (Singularia Tantum):\n- Речовинні: «молоко», «цукор», «золото», «нафта».\n- Збірні: «студентство», «молодь», «листя», «посуд».\n- Абстрактні: «любов», «радість», «доброта», «чесність».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Щасливі діти весело граються на новому дитячому майданчику.",
+          "reading": "[ʃtʃɐsˈlɪwʲi ˈdʲitɪ ˈwɛsɛlɔ ˈɦrɑjutsʲɑ nɑ nɔˈwɔmu dɪˈtʲɑtʃɔmu mɐjˈdɑntʃɪku] (shchahs-LY-vee DEE-ty VEH-seh-loh HRAH-yoot-syah nah noh-VOH-moo dy-TYAH-choh-moo may-DAHN-chy-koo)",
+          "translation": "Happy children are playing cheerfully in the new playground."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 2-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Мої найкращі друзі приїхали до мене в гості на літні канікули.",
+          "reading": "[mɔˈji nɐjˈkrɑʃtʃʲi ˈdruzʲi prɪˈjixɐlɪ dɔ ˈmɛnɛ w ˈɦɔsʲtʲi nɑ ˈlʲitnʲi kɐˈnʲikulɪ] (moh-YEE nay-KRAHSH-chee DROO-zee pry-YEE-khah-ly doh MEH-neh v HOHS-tee nah LEET-nee kah-NEE-koo-ly)",
+          "translation": "My best friends came to visit me for summer holidays."
+        },
+        {
+          "target": "Він поклав гроші та окуляри у кишеню куртки.",
+          "reading": "[wʲin pɔkˈlɑw ˈɦrɔʃʲi tɑ ɔkuˈlʲɑrɪ u kɪˈʃɛnʲu ˈkurtkɪ] (VEEN pohk-LAHV HROH-shee tah oh-koo-LYAH-ry oo ky-SHEH-n'oo KOORT-ky)",
+          "translation": "He put the money and glasses into the jacket pocket."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Людина одна — а навколо люди; Дитина росте — і дітьми всі будуть! Окуляри та гроші — у множині завжди хороші!"
+      ],
+      "culturalNotes": [
+        "Іменники «канікули» та «гроші» в українській мові завжди вживаються у множині й узгоджуються з дієсловами та прикметниками множини: «великі гроші», «веселі канікули розпочалися»."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Вечеря\":",
+          "prompt": "Утворіть правильну форму множини від іменника «людина»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.5.",
-            "Неправильне відмінкове узгодження зі словом «Хліб»",
-            "Порушення законів евфонії та словотворення для «Вода»",
-            "Стилістично некоректна синтаксична конструкція з «Молоко»"
+            "Люди (People - Suppletive Plural)",
+            "Людини",
+            "Людинове",
+            "Людинці"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Іменник «людина» утворює форму множини від іншого кореня (суплетивно): «люди»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Вечеря\":",
+          "prompt": "Оберіть іменник, який в українській мові вживається ВИКЛЮЧНО у формі множини (Pluralia Tantum):",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.5.",
-            "Порушення законів евфонії та словотворення для «Вода»",
-            "Стилістично некоректна синтаксична конструкція з «Молоко»",
-            "Неправильне відмінкове узгодження зі словом «Хліб»"
+            "Ножиці (Scissors - Pluralia Tantum)",
+            "Книга",
+            "Стіл",
+            "Учень"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Слово «ножиці» позначає парний предмет і вживається лише у множині."
         }
       ]
     },
@@ -1237,17 +1286,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Вечеря\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення з правильно утвореною множиною слова «друг»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 2.5.",
-            "Стилістично некоректна синтаксична конструкція з «Молоко»",
-            "Неправильне відмінкове узгодження зі словом «Хліб»",
-            "Порушення законів евфонії та словотворення для «Вода»"
+            "Мої вірні друзі завжди готові прийти на допомогу.",
+            "Мої вірні други завжди готові прийти на допомогу.",
+            "Мої вірні другі завжди готові прийти на допомогу.",
+            "Мої вірні дружа завжди готові прийти на допомогу."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Форма множини від «друг» — «друзі» (з суфіксальним чергуванням [г] на [з'] перед [і])."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u3-l1": {
