@@ -10389,85 +10389,62 @@
     "subject": "amharic",
     "unit": 23,
     "lessonNumber": 1,
-    "title": "የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism) (ክፍል 1)",
+    "title": "የዜና ዘገባ እና አርዕስተ ዜና አወቃቀር (News Reports & Headline Architecture)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የዜና ዘገባዎች ትንተና፣ የፖለቲካ እና የኢኮኖሚ ቃላት፣ የፕሬስ ቋንቋ። (ክፍል 1)።",
+    "objective": "የዜና አርዕስት (Headlines) እና የዘገባ አቀራረብ መዋቅርን በመደበኛ የጋዜጠኝነት ቋንቋ ማዋቀር።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የዜና ዘገባ እና አርዕስተ ዜና አወቃቀር ሰዋሰዋዊ ህግ (News & Headline Syntax):\n\n፩. የአርዕስተ ዜና ባህሪያት:\n- አጫጭር፣ ገላጭ እና በተገብሮ ወይም በተጨባጭ ግስ የተዋቀሩ አረፍተ ነገሮች:\n  «አዲሱ የባቡር መስመር ተመረቀ» (New railway line was inaugurated)።\n\n፪. ዋና ዋና የጋዜጠኝነት ቃላት:\n- አርዕስተ ዜና (Headlines) / ዘገባ (Report) / ዘጋቢ (Reporter)\n- የዜና አውታር (News outlet / media network) / ጋዜጣ (Newspaper)\n- የቀጥታ ስርጭት (Live broadcast) / ሰበር ዜና (Breaking news)።",
       "examples": [
         {
-          "target": "መምህሩ የ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (23.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)' to the students."
+          "target": "ሰበር ዜና: በዋና ከተማዋ የተገነባው ታላቅ የሳይንስ ሙዚየም ዛሬ በይፋ ተመረቀ።",
+          "reading": "Säbbär zena: bäwana kätämawa yätägännabaw talaq yäsayəns muziyäm zarre bäyəfa tämärräqä. [sɛbːɛr zeˈna bɛwaˈna kɛtɛmaˈwa jɛtɛɡɛnːaˈbaw taˈlakʼ jɛsaˈjɨns muziˈjɛm zaˈre bɛjɨˈfa tɛmɛrːɛˈkʼɛ] (seb-BER zay-NAH: beh-wah-NAH keh-teh-mah-WAH yeh-teh-gen-nah-BAHW tah-LAHK' yeh-sah-YUNS moo-zee-YEM zah-RAY beh-yuh-FAH teh-mer-reh-K'EH)",
+          "translation": "Breaking news: The grand science museum constructed in the capital city was officially inaugurated today."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (23.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ዘጋቢያችን በቀጥታ ስርጭት እንደዘገበው በአዲስ አበባ ከተማ መጠነ-ሰፊ የፅዳት ዘመቻ ተካሄደ።",
+          "reading": "Zägabiyaččən bäqət’t’əta sərč’ət əndäzäggäbäw bä'addis abäba kätäma mät’änä-säffi yäts’ədat zämäča täkahedä. [zɛɡabiˈjatʃːɨn bɛkʼɨtʼːɨˈta sɨrtʃʼɨt ʔɨndɛzɛɡːɛˈbɛw bɛʔadːis ʔabɛˈba kɛtɛˈma mɛtʼɛnɛsɛfːi jɛtsʼɨˈdat zɛmɛˈtʃa tɛkaˈhedɛ] (zeh-gah-bee-yahch-CHUN beh-k'ut'-t'uh-TAH sur-ch'ut un-deh-zeg-geh-BEH-woo beh-ahd-DEES ah-beh-BAH keh-teh-MAH meh-t'eh-neh-SEF-fee yeh-ts'uh-DAHT zeh-meh-CHAH teh-kah-HAY-deh)",
+          "translation": "As our reporter reported on live broadcast, a large-scale cleaning campaign was held in Addis Ababa."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (23.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (23.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የሀገር ውስጥና የውጭ የዜና አውታሮች ለጉባኤው ሰፊ ሽፋን በመስጠት ላይ ይገኛሉ።",
+          "reading": "Yähagär wəst’ənna yäwəč’ yäzena awtaročč läguba'ew säffi šəffan bämäsət’ät’ lay yəggänyallu. [jɛhaˈɡɛr wɨstʼɨnːa jɛwɨtʃʼ jɛzeˈna ʔawtaˈrotʃː ləɡubaˈʔew sɛfːi ʃɨfːan bɛmɛsɨˈtʼɛtʼ laj jɨɡːɛɲaˈlːu] (yeh-hah-GER woos-T'UN-nah yeh-wuch' yeh-zay-NAH ahw-tah-ROHCH luh-goo-bah-AY-woo SEF-fee shuf-FAHN beh-meh-sut'-ET lye yug-gen-yahl-LOO)",
+          "translation": "Domestic and foreign news outlets are currently providing wide coverage for the summit."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "News Terms: ሰበር ዜና (Breaking news) + የቀጥታ ስርጭት (Live broadcast) + ዘጋቢ (Reporter)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ሬዲዮና ቴሌቪዥን 'ሰበር ዜና' የሚለው አገላለጽ አጣዳፊ ሀገራዊና አለም አቀፋዊ ክስተቶችን ለህዝብ ወዲያውኑ ለማድረስ ያገለግላል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Breaking news» የሚለውን በአማርኛ የዜና ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (23.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (23.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (23.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (23.1.w3)"
+            "ሰበር ዜና (Breaking news - Standard media terminology)",
+            "የድሮ ዜና",
+            "ተራ ወሬ",
+            "ምንም ዜና የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ሰበር ዜና» አጣዳፊና ቅጽበታዊ ዜናዎችን ለመግለጽ የሚሠራበት መደበኛ የሚዲያ ቃል ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u23-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Live broadcast' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (23.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (23.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (23.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (23.1.x3)"
+            "የቀጥታ ስርጭት (Live broadcast - Professional journalism term)",
+            "የቀረጻ ስርጭት",
+            "የቆየ ዜና",
+            "ስርጭት የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (23.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (23.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (23.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (23.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«የቀጥታ ስርጭት» በቅጽበት የሚተላለፍ የሚዲያ ፕሮግራምን ያመለክታል።"
         }
       ]
     },
@@ -10475,24 +10452,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 23-1):",
+          "prompt": "የዜና እና የሚዲያ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (23.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (23.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (23.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (23.1.z3)"
+            "ሰበር ዜና፣ የቀጥታ ስርጭት፣ አርዕስተ ዜና፣ ዘገባ እና የዜና አውታር።",
+            "ወተት፣ ማር፣ ዳቦ እና ቅቤ።",
+            "ሰኞ፣ ማክሰኞ እና እሮብ።",
+            "በአማርኛ የሚዲያ ቋንቋ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሚዲያና የጋዜጠኝነት ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u23-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የሚዲያ»):",
+          "prompt": "'ዜና / News' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የሚዲያ",
-            "የሚዲያ"
+            "ዜና"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የሚዲያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ዜና» (Zena) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -10503,85 +10479,62 @@
     "subject": "amharic",
     "unit": 23,
     "lessonNumber": 2,
-    "title": "የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism) (ክፍል 2)",
+    "title": "የፖለቲካ እና የዲፕሎማሲ መግለጫዎች (Politics & Diplomatic Statements)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የዜና ዘገባዎች ትንተና፣ የፖለቲካ እና የኢኮኖሚ ቃላት፣ የፕሬስ ቋንቋ። (ክፍል 2)።",
+    "objective": "የዲፕሎማሲያዊ ግንኙነት፣ የሁለትዮሽ ድርድርና የመንግሥት የፖሊሲ መግለጫዎችን ቋንቋ መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የፖለቲካ እና የዲፕሎማሲ ቋንቋ መዋቅር (Diplomatic & Political Discourse):\n\n፩. ዋና ዋና የዲፕሎማሲ ቃላት:\n- ዲፕሎማሲያዊ ግንኙነት (Diplomatic relations)\n- አምባሳደር (Ambassador) / ቆንስላ (Consulate)\n- የሁለትዮሽ ውይይት (Bilateral talks / discussion)\n- ሉዓላዊነት (Sovereignty) / የጋራ ተጠቃሚነት (Mutual benefit)\n- የሰላም ስምምነት (Peace agreement)።\n\n፪. የመግለጫ አገባብ:\n- በይፋዊና በከፍተኛ ጨዋነት የተሞላ ሚዛናዊ ቋንቋ መጠቀም።",
       "examples": [
         {
-          "target": "መምህሩ የ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (23.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)' to the students."
+          "target": "ሁለቱ ሀገራት ታሪካዊ ዲፕሎማሲያዊ ግንኙነታቸውን ይበልጥ ለማጠናከር ተስማሙ።",
+          "reading": "Hulättu hagärat tarikawi dipəlomasəyawi gənənyənnätaččäwən yəbälət’ lämat’ännakär täsmamu. [hulɛtːu haɡɛˈrat tariˈkawi diplomasiˈjawi ɡɨnɨɲɨnːɛtaˈtʃːɛwɨn jɨbɛˈlɨtʼ ləmatʼɛnːaˈkɛr tɛsmaˈmu] (hoo-let-TOO hah-geh-RAHT tah-ree-KAH-wee deep-loh-mah-see-YAH-wee guh-nuhn-yuhn-neh-tahch-CHEW-un yuh-beh-LUT' luh-maht'-en-nah-KER tes-mah-MOO)",
+          "translation": "The two countries agreed to further strengthen their historical diplomatic relations."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (23.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የውጭ ጉዳይ ሚኒስትሩ ከአምባሳደሩ ጋር በሁለትዮሽ ጉዳዮች ዙሪያ ፍሬያማ ውይይት አደረጉ።",
+          "reading": "Yäwəč’ gudday ministru kä'ambasadäru gar bähulättəyoš guddayočč zuriya fəreyama wəyəyyət adärrägu. [jɛwɨtʃʼ ɡudˈdaj minisˈtru kɛʔambasaˈdɛru ɡar bɛhulɛtːɨˈjoʃ ɡuddaˈjotʃː zuˈrija fɨrejaˈma wɨjɨjːɨt ʔadɛrːɛˈɡu] (yeh-wuch' good-DYE mee-nees-TROO keh-ahm-bah-sah-deh-ROO gahr beh-hoo-let-tuh-YOHSH good-dah-YOHCH zoo-REE-yah fuh-ray-yah-MAH wuh-yuy-YUT ah-der-reh-GOO)",
+          "translation": "The Minister of Foreign Affairs held a fruitful discussion with the ambassador regarding bilateral matters."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (23.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (23.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ሀገሪቱ የጎረቤት ሀገራትን ሉዓላዊነት በማክበር በጋራ ተጠቃሚነት መርህ ላይ ጸንታ ትሰራለች።",
+          "reading": "Hagäritu yägoräbet hagäratən lu'alawinnät bämäkbär bägara tät’äqaminnät märəh lay ts’änta təsäralläčč. [haɡɛˈritu jɛɡorɛˈbet haɡɛˈratɨn luʔalaˈwinːɛt bɛmɛkˈbɛr bɛɡaˈra tɛtʼɛkʼaˈminːɛt mɛˈrɨh laj tsʼɛnˈta tɨsɛraˈlːɛtʃː] (hah-geh-REE-too yeh-goh-reh-BAYT hah-geh-RAH-tun loo-ah-lah-WEEN-net beh-mek-BER beh-gah-RAH tet'-eh-k'ah-MEEN-net meh-RUH lye ts'en-TAH tuh-seh-rahl-LEHCH)",
+          "translation": "The country works firmly on the principle of mutual benefit while respecting the sovereignty of neighboring nations."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Diplomacy Core: ዲፕሎማሲ (Diplomacy) + አምባሳደር (Ambassador) + ሉዓላዊነት (Sovereignty)!"
+      ],
+      "culturalNotes": [
+        "ኢትዮጵያ የአፍሪካ ህብረት መቀመጫ እና የቀደምት ዲፕሎማሲ መገኛ እንደመሆኗ፣ የዲፕሎማሲ ቋንቋ በከፍተኛ አክብሮትና ደረጃ ይነገራል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Diplomatic relations» የሚለውን በአማርኛ ትክክለኛ የዲፕሎማሲ ቃል የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (23.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (23.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (23.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (23.2.w3)"
+            "ዲፕሎማሲያዊ ግንኙነት (Diplomatic relations - Formal diplomatic term)",
+            "የጓደኝነት ወሬ",
+            "የመንገድ ንግድ",
+            "ምንም ግንኙነት የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ዲፕሎማሲያዊ ግንኙነት» በሀገራት መካከል ያለውን ይፋዊ ግንኙነት የሚገልጽ ትክክለኛ ቃል ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u23-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Bilateral talks' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (23.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (23.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (23.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (23.2.x3)"
+            "የሁለትዮሽ ውይይት (Bilateral talks / negotiations - Standard diplomatic phrase)",
+            "የአንድ ወገን ንግግር",
+            "ጭቅጭቅ",
+            "ዝምታ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (23.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (23.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (23.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (23.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«የሁለትዮሽ ውይይት» በሁለት ሀገራት ወይም ወገኖች መካከል የሚደረግ ይፋዊ ንግግር ነው።"
         }
       ]
     },
@@ -10589,24 +10542,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 23-2):",
+          "prompt": "የፖለቲካ እና የዲፕሎማሲ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (23.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (23.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (23.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (23.2.z3)"
+            "ዲፕሎማሲያዊ ግንኙነት፣ አምባሳደር፣ ሉዓላዊነት፣ የሁለትዮሽ ውይይት እና የጋራ ተጠቃሚነት።",
+            "ጠመኔ፣ ጥቁር ሰሌዳ እና ማጥፊያ።",
+            "አውሮፕላን፣ ባቡር እና መኪና።",
+            "በአማርኛ የዲፕሎማሲ ቃል የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የዲፕሎማሲና የፖለቲካ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u23-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የሚዲያ»):",
+          "prompt": "'ዲፕሎማሲ / Diplomacy' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የሚዲያ",
-            "የሚዲያ"
+            "ዲፕሎማሲ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የሚዲያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ዲፕሎማሲ» (Dipəlomasəy) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -10617,85 +10569,62 @@
     "subject": "amharic",
     "unit": 23,
     "lessonNumber": 3,
-    "title": "የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism) (ክፍል 3)",
+    "title": "የኢኮኖሚ፣ የንግድ እና የገበያ ዘገባዎች (Economic, Business & Market Reports)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የዜና ዘገባዎች ትንተና፣ የፖለቲካ እና የኢኮኖሚ ቃላት፣ የፕሬስ ቋንቋ። (ክፍል 3)።",
+    "objective": "የኢኮኖሚ እድገት፣ የዋጋ ግሽበት፣ የውጭ ምንዛሪና የኢንቨስትመንት ዘገባዎችን ቋንቋ መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የኢኮኖሚ እና የገበያ ዘገባዎች ቋንቋ (Economic & Financial Media Terms):\n\n፩. ዋና ዋና የኢኮኖሚ ቃላት:\n- የዋጋ ግሽበት (Inflation) / የውጭ ምንዛሪ (Foreign exchange/currency)\n- ኢንቨስትመንት (Investment) / ባለሀብት (Investor)\n- ምርታማነት (Productivity) / የንግድ ሚዛን (Trade balance)\n- አጠቃላይ የሀገር ውስጥ ምርት (GDP / Gross Domestic Product)\n- የወጪና ገቢ ንግድ (Export and Import trade)።\n\n፪. የዘገባ አቀራረብ:\n- አሃዞችንና የኢኮኖሚ አዝማሚያዎችን በግልጽ ማብራራት።",
       "examples": [
         {
-          "target": "መምህሩ የ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (23.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)' to the students."
+          "target": "የሀገሪቱ የኢኮኖሚ እድገት በግብርና እና በማኑፋክቸሪንግ ዘርፍ ምርታማነት ምክንያት ጨመረ።",
+          "reading": "Yähagäritu yä'ikonomi ədəgät bägəbərnna ənna bamanufakčäring zärf mərt’aminnät məkənyat t’ämmärä. [jɛhaɡɛˈritu jɛʔikonoˈmi ʔɨdˈɡɛt bɛɡɨbɨrˈnːa ʔɨnːa bamanufaktʃɛˈriŋɡ zɛrf mɨrtʼaˈminːɛt mɨkɨnˈjat tʃʼɛmːɛˈrɛ] (yeh-hah-geh-REE-too yeh-ee-koh-noh-MEE ud-GET beh-gub-ur-NIN-nah un-nah bah-mah-noo-fahk-cher-EENG zer-F mur-t'ah-MEEN-net muh-kun-YAHT ch'em-meh-REH)",
+          "translation": "The country's economic growth increased due to productivity in agriculture and manufacturing sectors."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (23.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የንግድ ባንኩ የውጭ ምንዛሪ ተመንን በተመለከተ አዲስ መመሪያ ለህዝብ ይፋ አደረገ።",
+          "reading": "Yänəgd banku yäwəč’ mənzari tämännən bätämälakkätä addis mämäriya lähəzb yəfa adärrägä. [jɛnɨɡd banˈku jɛwɨtʃʼ mɨnzaˈri tɛmɛnːɨn bɛtɛmɛlakːɛˈtɛ ʔadːis mɛmɛriˈja ləhɨzb jɨˈfa ʔadɛrːɛˈɡɛ] (yeh-nug-D bahn-KOO yeh-wuch' mun-zah-REE teh-MEN-nun beh-teh-mel-lahk-keh-TEH ahd-DEES meh-meh-ree-YAH luh-huz-B yuh-FAH ah-der-reh-GEH)",
+          "translation": "The Commercial Bank officially disclosed a new directive to the public regarding the foreign exchange rate."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (23.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (23.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የዋጋ ግሽበትን ለመቆጣጠር እና ገበያውን ለማረጋጋት መንግሥት አስፈላጊውን እርምጃ ወሰደ።",
+          "reading": "Yäwaga gəšbätən lämäqot’at’t’är ənna gäbäyawən lämaräggagat mängəst asfällagiwən ərməğğa wässädä. [jɛwaˈɡa ɡɨʃˈbɛtɨn ləmɛkʼotʼatʼːɛr ʔɨnːa ɡɛbɛjaˈwɨn ləmarɛɡːaˈɡat mɛnˈɡɨst ʔasfɛlːaɡiˈwɨn ʔɨrmɨˈdʒːa wɛsːɛˈdɛ] (yeh-wah-GAH gush-BEH-tun luh-meh-k'oh-t'aht'-T'ER un-nah geh-beh-yah-WUN luh-mah-reg-gah-GAHT men-GUST ahs-fel-lah-GEE-wun ur-muj-JAH wes-seh-DEH)",
+          "translation": "The government took necessary measures to control inflation and stabilize the market."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Economy Trio: የዋጋ ግሽበት (Inflation) + የውጭ ምንዛሪ (Forex) + ኢንቨስትመንት (Investment)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ የቡና እና የሰሊጥ የወጪ ንግድ (Export) የሀገሪቱን የውጭ ምንዛሪ ገቢ ለማሳደግ ትልቅ ድርሻ አላቸው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Inflation» የሚለውን በአማርኛ ትክክለኛ የኢኮኖሚ ቃል የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (23.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (23.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (23.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (23.3.w3)"
+            "የዋጋ ግሽበት (Inflation - Economic term)",
+            "የዋጋ ቅናሽ",
+            "የገበያ ሽያጭ",
+            "ምንም የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«የዋጋ ግሽበት» የዕቃዎችና የአገልግሎቶች ዋጋ ያለማቋረጥ መጨመርን የሚገልጽ ትክክለኛ የኢኮኖሚ ቃል ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u23-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Foreign exchange / currency' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (23.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (23.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (23.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (23.3.x3)"
+            "የውጭ ምንዛሪ (Foreign exchange/currency - Accurate financial term)",
+            "የሀገር ገንዘብ",
+            "ብረት ሳንቲም",
+            "የብር ኖት"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (23.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (23.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (23.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (23.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«የውጭ ምንዛሪ» የሌሎች ሀገራትን ገንዘብና የገንዘብ ልውውጥን ያመለክታል።"
         }
       ]
     },
@@ -10703,24 +10632,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 23-3):",
+          "prompt": "የኢኮኖሚና የንግድ ዘገባ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (23.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (23.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (23.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (23.3.z3)"
+            "የዋጋ ግሽበት፣ የውጭ ምንዛሪ፣ ኢንቨስትመንት፣ ምርታማነት እና የገበያ መረጋጋት።",
+            "ወንበር፣ ጠረጴዛ እና ሳሎን።",
+            "ቢጫ፣ አረንጓዴ እና ጥቁር።",
+            "በአማርኛ የኢኮኖሚ ቃል የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የኢኮኖሚና የንግድ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u23-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የሚዲያ»):",
+          "prompt": "'ኢንቨስትመንት / Investment' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የሚዲያ",
-            "የሚዲያ"
+            "ኢንቨስትመንት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የሚዲያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ኢንቨስትመንት» (Investəmänt) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -10731,85 +10659,62 @@
     "subject": "amharic",
     "unit": 23,
     "lessonNumber": 4,
-    "title": "የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism) (ክፍል 4)",
+    "title": "ቃለ-መጠይቅ እና የፕሬስ መግለጫ (Interviews & Press Conferences)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የዜና ዘገባዎች ትንተና፣ የፖለቲካ እና የኢኮኖሚ ቃላት፣ የፕሬስ ቋንቋ። (ክፍል 4)።",
+    "objective": "በጋዜጣዊ መግለጫና በቃለ-መጠይቅ ወቅት ጥያቄዎችንና ማብራሪያዎችን በሙያዊ መንገድ ማቅረብ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የቃለ-መጠይቅ እና የፕሬስ መግለጫ አሰራር (Press Conferences & Interview Protocols):\n\n፩. ዋና ዋና የፕሬስ ቃላት:\n- ጋዜጣዊ መግለጫ (Press conference / press briefing)\n- ቃለ-መጠይቅ (Interview) / ጋዜጠኛ (Journalist)\n- ማብራሪያ (Clarification / explanation) / መግለጫ (Statement)\n- ማስተባበያ (Rebuttal / denial) / ይፋዊ ማረጋገጫ (Official confirmation)።\n\n፪. የጥያቄና መልስ ስነ-ስርዓት:\n- ጋዜጠኛ: «ክቡር ሚኒስትር፣ በቀጣይ እቅድ ዙሪያ ማብራሪያ ቢሰጡን?»\n- ቃል-አቀባይ: «በዝርዝር ለማብራራት ያህል...»።",
       "examples": [
         {
-          "target": "መምህሩ የ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (23.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)' to the students."
+          "target": "የመንግሥት ኮሙኒኬሽን አገልግሎት ዛሬ ከሰዓት ጋዜጣዊ መግለጫ በመስጠት ወቅታዊ ሁኔታዎችን ያብራራል።",
+          "reading": "Yämängəst komyunikešən agäglot zarre käsä'at gazet’awi mägläč’a bämäsət’ät’ wäqtawi hunetawoččən yabraral. [jɛmɛnˈɡɨst komjunikeˈʃɨn ʔaɡɛɡˈlot zaˈre kɛsɛˈʔat ɡazetʼaˈwi mɛɡlɛˈtʃʼa bɛmɛsɨˈtʼɛtʼ wɛkʼtaˈwi huˈnetawoˈtʃːɨn jabraˈral] (yeh-men-GUST kohm-yoo-nee-KAY-shun ah-geg-LOHT zah-RAY keh-seh-AHT gah-zay-t'ah-WEE meg-leh-CH'AH beh-meh-sut'-ET wehk'-tah-WEE hoo-nay-tah-wohch-CHUN yahb-rah-RAHL)",
+          "translation": "The Government Communication Service will give a press conference this afternoon explaining current situations."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (23.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ጋዜጠኛው ከታዋቂው ሳይንቲስት ጋር በአዳዲስ የህክምና ግኝቶች ዙሪያ ጥልቅ ቃለ-መጠይቅ አደረገ።",
+          "reading": "Gazet’änyaw kätawaqiw sayəntist gar bə'adaddis yähəkkəmənna gənyətočč zuriya t’ələq qalä-mät’äyyəq adärrägä. [ɡazetʼɛˈɲaw kɛtawaˈkʼiw saˈjɨntist ɡar bɨʔadadːis jɛhɨkːɨmɨnːa ɡɨɲɨˈtotʃː zuˈrija tʼɨˈlɨkʼ kʼalɛmɛtʼɛjːɨkʼ ʔadɛrːɛˈɡɛ] (gah-zay-t'en-YAHW keh-tah-wah-K'EEW sah-YUN-teest gahr buh-ah-dahd-DEES yeh-huk-kuh-mun-NAH gun-yuh-TOHCH zoo-REE-yah t'uh-LUK' k'ah-leh-meh-t'ey-YUK' ah-der-reh-GEH)",
+          "translation": "The journalist conducted an in-depth interview with the renown scientist regarding new medical discoveries."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (23.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (23.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የቀረበው የተሳሳተ መረጃ በሚኒስቴሩ ቃል-አቀባይ በኩል ፈጣን ማስተባበያ ተሰጠበት።",
+          "reading": "Yäqärräbäw yätäsasattä märäğa bäministew qal-aqäbay bäkkul fät’t’an mastäbabäya täsät’t’äbät. [jɛkʼɛrːɛˈbɛw jɛtɛsasatːɛ mɛrɛˈdʒa bɛminisˈtew kʼalʔakʼɛˈbaj bɛkːul fɛtʼːan mastɛbaˈbɛja tɛsɛtʼːɛˈbɛt] (yeh-k'er-reh-BEH-woo yeh-teh-sah-saht-TEH meh-reh-JAH beh-mee-nees-TAY-woo k'ahl-ah-k'eh-BYE bek-KOOL fet'-T'AHN mahs-teh-bah-beh-YAH teh-set'-t'eh-BET)",
+          "translation": "The incorrect information presented was given a prompt rebuttal through the ministry's spokesperson."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Press Protocols: ጋዜጣዊ መግለጫ (Press conference) + ቃለ-መጠይቅ (Interview) + ቃል-አቀባይ (Spokesperson)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ጋዜጣዊ መግለጫዎች ወቅት ጋዜጠኞች ጥያቄዎቻቸውን በአክብሮታዊ የአማርኛ አጠራር (ክቡር/ክብርት) ማቅረብ የተለመደ የሙያ ስነ-ምግባር ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Press conference» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (23.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (23.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (23.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (23.4.w3)"
+            "ጋዜጣዊ መግለጫ (Press conference - Standard media briefing term)",
+            "የግል ንግግር",
+            "የስልክ ጥሪ",
+            "ምንም መግለጫ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ጋዜጣዊ መግለጫ» ለመገናኛ ብዙሃን ባለሙያዎች የሚሰጥ ይፋዊ ማብራሪያ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u23-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Interview' የሚለውን በአማርኛ የጋዜጠኝነት ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (23.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (23.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (23.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (23.4.x3)"
+            "ቃለ-መጠይቅ (Interview - Standard journalistic term)",
+            "ውይይት ብቻ",
+            "ክርክር",
+            "ዝምታ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (23.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (23.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (23.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (23.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ቃለ-መጠይቅ» የአንድን ግለሰብ ዕውቀት ወይም አስተያየት በጥያቄና መልስ ለመሰብሰብ የሚደረግ ጋዜጣዊ ስራ ነው።"
         }
       ]
     },
@@ -10817,24 +10722,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 23-4):",
+          "prompt": "የቃለ-መጠይቅ እና የፕሬስ መግለጫ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (23.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (23.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (23.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (23.4.z3)"
+            "ጋዜጣዊ መግለጫ፣ ቃለ-መጠይቅ፣ ጋዜጠኛ፣ ቃል-አቀባይ እና ማስተባበያ።",
+            "ሰዓት፣ ደቂቃ እና ሰከንድ።",
+            "መጽሐፍ፣ ብዕር እና ወረቀት።",
+            "በአማርኛ ቃለ-መጠይቅ አይባልም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የፕሬስና የቃለ-መጠይቅ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u23-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የሚዲያ»):",
+          "prompt": "'ጋዜጠኛ / Journalist' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የሚዲያ",
-            "የሚዲያ"
+            "ጋዜጠኛ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የሚዲያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ጋዜጠኛ» (Gazet’änya) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -10845,85 +10749,62 @@
     "subject": "amharic",
     "unit": 23,
     "lessonNumber": 5,
-    "title": "የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism) (ክፍል 5)",
+    "title": "የክፍል 23 አጠቃላይ ማጠቃለያ (Unit 23 Grand Synthesis & Complete Journalistic Broadcast)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የዜና ዘገባዎች ትንተና፣ የፖለቲካ እና የኢኮኖሚ ቃላት፣ የፕሬስ ቋንቋ። (ክፍል 5)።",
+    "objective": "ዜናዎችን፣ የዲፕሎማሲ መግለጫዎችን፣ የኢኮኖሚ ዘገባዎችንና ቃለ-መጠይቆችን ያቀናጀ የተሟላ የሚዲያ ስርጭት ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፳፫ አጠቃላይ የሚዲያና የጋዜጠኝነት ቋንቋ ውህደት ማጠቃለያ:\n\n፩. የዜና መዋቅር:\n- ሰበር ዜና፣ የቀጥታ ስርጭት፣ አርዕስተ ዜና፣ ዘገባ።\n\n፪. የዲፕሎማሲ ቋንቋ:\n- ዲፕሎማሲያዊ ግንኙነት፣ አምባሳደር፣ የሁለትዮሽ ውይይት፣ ሉዓላዊነት።\n\n፫. የኢኮኖሚ ዘገባ:\n- የዋጋ ግሽበት፣ የውጭ ምንዛሪ፣ ኢንቨስትመንት፣ ምርታማነት።\n\n፬. የፕሬስ ስነ-ስርዓት:\n- ጋዜጣዊ መግለጫ፣ ቃለ-መጠይቅ፣ ቃል-አቀባይ፣ ማብራሪያ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (23.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)' to the students."
+          "target": "በቀጥታ ስርጭት: የውጭ ጉዳይ ሚኒስቴር በሰጠው ጋዜጣዊ መግለጫ የዲፕሎማሲና የኢኮኖሚ ትብብር ስምምነቶች መፈረማቸውን አስታወቀ።",
+          "reading": "Bäqət’t’əta sərč’ət: Yäwəč’ gudday minister bäsät’t’äw gazet’awi mägläč’a yädipəlomasəyənna yä'ikonomi təbbəbər səməmmənätočč mäfärrämaččäwən astawwäqä. [bɛkʼɨtʼːɨˈta sɨrtʃʼɨt jɛwɨtʃʼ ɡudˈdaj minisˈter bɛsɛtʼːɛw ɡazetʼaˈwi mɛɡlɛˈtʃʼa jɛdiplomasiˈjɨnːa jɛʔikonoˈmi tɨbːɨˈbɨr sɨmɨmːɨnɛˈtotʃː mɛfɛrːɛmaˈtʃːɛwɨn ʔastawːɛˈkʼɛ] (beh-k'ut'-t'uh-TAH sur-ch'ut: yeh-wuch' good-DYE mee-nees-TER beh-set'-t'eh-WOO gah-zay-t'ah-WEE meg-leh-CH'AH yeh-deep-loh-mah-see-YUN-nah yeh-ee-koh-noh-MEE tub-buh-BUR suh-mum-muh-neh-TOHCH meh-fer-reh-mahch-CHEW-un ahs-taw-weh-K'EH)",
+          "translation": "On live broadcast: In a press conference given by the Ministry of Foreign Affairs, it announced that diplomatic and economic cooperation agreements were signed."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (23.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በቃለ-መጠይቁ ወቅት ባለሀብቱ በሀገሪቱ የኢንቨስትመንት ምቹ ሁኔታ ላይ ሰፊ ማብራሪያ ሰጡ።",
+          "reading": "Bäqalä-mät’äyyəqu wäqt balähəbət’u bähagäritu yä'investəmänt məčču huneta lay säffi mabrarəya sät’t’u. [bɛkʼalɛmɛtʼɛjːɨˈkʼu wɛkʼt balɛhɨbɨˈtʼu bɛhaɡɛˈritu jɛʔinvestɨˈmɛnt mɨtʃːu huˈneta laj sɛfːi mabrarɨˈja sɛtʼːu] (beh-k'ah-leh-meh-t'ey-yuh-K'OO wehk'-T bah-leh-hub-T'OO beh-hah-geh-REE-too yeh-een-vest-MENT much-CHOO hoo-nay-TAH lye SEF-fee mahb-rah-ruh-YAH set'-TOO)",
+          "translation": "During the interview, the investor provided extensive clarification regarding the favorable investment climate in the country."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (23.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (23.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የሀገር ውስጥ ምርታማነት ማደግ የውጭ ምንዛሪ ግኝትን እንደሚያሳድግ የኢኮኖሚ ዘገባው አመላከተ።",
+          "reading": "Yähagär wəst’ mərt’aminnät madäg yäwəč’ mənzari gənyətən əndämmiyasadəg yä'ikonomi zägäbaw amälakkätä. [jɛhaˈɡɛr wɨstʼ mɨrtʼaˈminːɛt maˈdɛɡ jɛwɨtʃʼ mɨnzaˈri ɡɨɲɨˈtɨn ʔɨndɛmːijasaˈdɨɡ jɛʔikonoˈmi zɛɡɛˈbaw ʔamɛlakːɛˈtɛ] (yeh-hah-GER woos-T' mur-t'ah-MEEN-net mah-DEG yeh-wuch' mun-zah-REE gun-yuh-TUN un-dem-meey-ahs-ah-DUG yeh-ee-koh-noh-MEE zeh-geh-BAHW ah-mel-lahk-keh-TEH)",
+          "translation": "The economic report indicated that the growth of domestic productivity will increase foreign exchange earnings."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Broadcaster Grand Synthesis: Live (ስርጭት) + Diplomacy (ዲፕሎማሲ) + Economy (ኢኮኖሚ) + Press (መግለጫ)!"
+      ],
+      "culturalNotes": [
+        "የአማርኛ የሚዲያ እና የጋዜጠኝነት ቋንቋ ህዝባዊ መረጃዎችን፣ ዲፕሎማሲያዊ ግንኙነቶችንና የኢኮኖሚ ትንተናዎችን በከፍተኛ ጥራትና ኃላፊነት የማቅረብ ረጅም የታሪክ ባህል አለው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የሚዲያ ዘገባ አወቃቀር የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (23.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (23.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (23.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (23.5.w3)"
+            "ሰበር ዜና: በጋዜጣዊ መግለጫው የዲፕሎማሲ እና የኢኮኖሚ ስምምነት መፈረሙ ተገለጸ። (Complete media report structure with headlines, diplomatic terms, and press statement)",
+            "ምንም ዜና የለም",
+            "ሁሉም ተራ ወሬ ነው",
+            "መግለጫ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ይህ አማራጭ አርዕስተ ዜናን (ሰበር ዜና)፣ ፕሬስን (ጋዜጣዊ መግለጫ) እና ዲፕሎማሲያዊ ይዘትን በአንድነት ያጣመረ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u23-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "የኢኮኖሚ እና የሚዲያ ቃላትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (23.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (23.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (23.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (23.5.x3)"
+            "የኢኮኖሚ ዘገባው የውጭ ምንዛሪ እና የኢንቨስትመንት እድገትን በዝርዝር አብራራ። (The economic report explained foreign exchange and investment growth in detail - Accurate integrated sentence)",
+            "ምንም ዘገባ አልቀረበም",
+            "ገንዘብ የለም",
+            "ኢንቨስትመንት የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የሚዲያ እና የጋዜጠኝነት ቋንቋ (Media & Journalism)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (23.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (23.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (23.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (23.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ የሚዲያ ዘገባን እና የኢኮኖሚ ቃላትን በትክክል ያቀናጃል።"
         }
       ]
     },
@@ -10931,24 +10812,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 23-5):",
+          "prompt": "የክፍል 23 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (23.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (23.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (23.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (23.5.z3)"
+            "የዜና ዘገባና አርዕስተ ዜና፣ የፖለቲካና ዲፕሎማሲ መግለጫዎች፣ የኢኮኖሚና ገበያ ቃላት፣ እንዲሁም ቃለ-መጠይቅና ጋዜጣዊ መግለጫ ተካተዋል።",
+            "ይህ ክፍል ስለ ሙዚቃ ብቻ ነው።",
+            "በአማርኛ ጋዜጣዊ መግለጫ አይሰጥም።",
+            "ሁሉም ዜናዎች ተራ አሉባልታ ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 23ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u23-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የሚዲያ»):",
+          "prompt": "'ጋዜጠኝነት / Journalism' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የሚዲያ",
-            "የሚዲያ"
+            "ጋዜጠኝነት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የሚዲያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ጋዜጠኝነት» (Gazet’änyənnät) ነው።"
         }
       ],
       "passThreshold": 0.8
