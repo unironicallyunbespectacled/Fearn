@@ -6225,53 +6225,62 @@
     "subject": "cantonese",
     "unit": 15,
     "lessonNumber": 1,
-    "title": "香港地理、旅遊同名勝 (HK Geography & Tourism) (第1課)",
-    "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元15第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "title": "香港三大地理板塊與跨海樞紐：「香港島」、「九龍半島」、「新界同離島」、「過海」 (HK Macro Geography & Cross-Harbour Links)",
+    "level": "A2",
+    "objective": "掌握香港三大宏觀地理板塊名稱（香港島、九龍半島、新界同離島）與維多利亞港跨海交通動詞及三大海底隧道專屬稱謂（過海、紅隧、東隧、西隧）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港地理版圖以維多利亞港為天然屏障與核心紐帶，劃分為三大歷史地理板塊，並發展出獨具特色之跨海方位術語體系：\n\n一、香港三大宏觀地理板塊名稱：\n１．「香港島 / 港島」：香港政治與金融商貿核心樞紐所在，簡稱「港島」。\n２．「九龍半島 / 九龍」：與港島隔海相望之繁華城區，涵蓋油尖旺、深水埗、九龍城等經典街區。\n３．「新界」與「離島」：面積最為遼闊之北部陸地與周邊海島群落，包括大嶼山、長洲、南丫島等。\n\n二、跨越維多利亞港之專屬動詞與隧道設施：\n１．「過海」：從九龍或新界前往香港島，或從香港島返回九龍新界之跨海專用動詞。\n２．「過海巴士 / 過海的士」：專門提供跨海客運服務之公共巴士與的士。\n３．三大過海海底隧道口語簡稱：\n- 「紅隧」（紅磡海底隧道）：香港歷史最悠久、車流量最高之核心跨海海底隧道。\n- 「東隧」（東區海底隧道）：連接鰂魚涌與茶果嶺之東部跨海隧道。\n- 「西隧」（西區海底隧道）：連接西營盤與西九龍之高規格跨海隧道。\n４．「過海隧道巴士 / 隧巴」：行經海底隧道之跨區特快巴士路線。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 15 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 15 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 15 in communication."
+          "target": "我每日朝早都要由沙田搭東鐵線過海去金鐘返工，車程只需要半個鐘左右。",
+          "reading": "ngo5 mui5 jat6 ziu1 zou2 dou1 jiu3 jau4 saa1 tin4 daap3 dung1 tit3 sin3 gwo3 hoi2 heoi3 gam1 zung1 faan1 gung1, ce1 cing4 zi2 jiu3 seoi1 jiu3 bun3 go3 zung1 zo2 jau6. [ŋɔː˩˧ muːi˩˧ jɐt˨ tsiːu˥ tsou˧˥ tou˥ jiu˧ jɐu˨˩ saː˥ tʰiːn˨˩ taːp̚˧ tʊŋ˥ tʰiːt̚˧ siːn˧ kʷɔː˧ hɔːi˧˥ hɵy˧ kɐm˥ tsʊŋ˥ faːn˥ kʊŋ˥, tsʰɛː˥ tsʰɪŋ˨˩ tsiː˧˥ jiu˧ sɵy˥ jiu˧ pun˧ kɔː˧ tsʊŋ˥ tsɔː˧˥ jɐu˨] (NGOH MOOI-YUT JIU-JOU DOH YEW YAU SAH-TEEN DAHP DUNG-TEET-SEEN GWOR-HOY HOEY GUM-JOONG FAHN-GONG, CHEH-CHING JEE-YEW SOEY-YEW BOON-GOH-JOONG JOR-YAU)",
+          "translation": "Every morning I have to take the East Rail Line from Sha Tin to cross the harbour to Admiralty for work; the journey only takes about half an hour."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元15-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "傍晚放工繁忙時間紅隧通常都會塞車，司機建議我哋改行西隧過海。",
+          "reading": "bong3 maan5 fong3 gung1 faan4 mong4 si4 gaan1 hung4 seoi6 tung1 soeng4 dou1 wui5 sak1 ce1, si1 gei1 gin3 ji5 ngo5 dei6 goi2 hang4 sai1 seoi6 gwo3 hoi2. [pɔːŋ˧ maːn˩˧ fɔːŋ˧ kʊŋ˥ faːn˨˩ mɔːŋ˨˩ siː˨˩ kaːn˥ hʊŋ˨˩ sɵy˨ tʰʊŋ˥ sœːŋ˨˩ tou˥ jɐu˩˧ sɐk̚˥ tsʰɛː˥, siː˥ kei˥ kiːn˧ jiː˩˧ ŋɔː˩˧ tei˨ kɔːi˧˥ hɐŋ˨˩ sɐi˥ sɵy˨ kʷɔː˧ hɔːi˧˥] (BONG-MAHN FONG-GONG FAHN-MONG SEE-GAHN HOONG-SOEY TOONG-SEUNG DOH WUI SUK-CHEH, SEE-GAY GEEN-YEE NGOH-DAY GOI-HAHNG SY-SOEY GWOR-HOY)",
+          "translation": "During the evening peak rush hour, the Cross-Harbour Tunnel is usually jammed; the driver suggested we change route via the Western Harbour Crossing to cross the harbour."
+        },
+        {
+          "target": "新界嘅面積佔咗全香港超過百分之八十，擁有好多壯麗嘅山野同離島風光。",
+          "reading": "san1 gaai3 ge3 min6 zik1 zim3 zo2 cyun4 hoeng1 gong2 ciu1 gwo3 baak3 fan6 zi1 baat3 sap6, jung2 jau5 hou2 do1 zong3 lai6 ge3 saan1 je5 tung4 lei4 dou2 fung1 gwong1. [sɐn˥ kaːi˧ kɛː˧ miːn˨ tsɪk̚˨ tsiːm˧ tsɔː˧˥ tsʰyːn˨˩ hœːŋ˥ kɔːŋ˧˥ tsʰiːu˥ kʷɔː˧ paːt̚˧ fɐn˨ tsiː˥ paːt̚˧ sɐp̚˨, jʊŋ˧˥ jɐu˩˧ hou˧˥ tɔː˥ tsɔːŋ˧ lɐi˨ kɛː˧ saːn˥ jɛː˩˧ tʰʊŋ˨˩ lei˨˩ tou˧˥ fʊŋ˥ kʷɔːŋ˥] (SUN-GY GEH MEEN-JIK JEEM-JOR CHUEN HEUNG-GONG CHEW-GWOR BAHK-FUN-JEE-BAHT-SUP, YUNG-YAU HOH-DOH JONG-LY GEH SAHN-YEH TOONG LY-DOU FOONG-GWONG)",
+          "translation": "The New Territories account for over eighty percent of Hong Kong's total land area, possessing plenty of magnificent countryside and outlying island scenery."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【港島九龍歌】港島九龍隔個海，跨越維港叫「過海」；紅隧東隧加西隧，新界離島景色美！"
+      ],
+      "culturalNotes": [
+        "在香港，「過海」一詞具有深厚之歷史與文化心理內涵。在海底隧道開通前，市民必須依賴天星小輪或汽車渡輪渡海；如今即便地鐵與三隧四通八達，香港人仍習慣將往來港島與九龍新界統稱為「過海」。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"天氣\":",
+          "prompt": "【跨海動詞】在香港粵語中描述從九龍或新界前往香港島，最地道專屬之動詞係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：落雨錯置）",
-            "混雜生硬詞彙之不規範語句（例項：出太陽未適配）",
-            "聲調助詞搭配欠妥之表達（例項：刮風誤用）"
+            "過海 (gwo3 hoi2)",
+            "過河",
+            "過橋",
+            "過山"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "往來港島與九龍新界在粵語中專用動詞「過海」（gwo3 hoi2）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"天氣\":",
+          "prompt": "【設施簡稱】香港歷史最悠久、連接紅磡與灣仔告士打道之海底隧道，口語簡稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：出太陽未適配）",
-            "聲調助詞搭配欠妥之表達（例項：刮風誤用）",
-            "語序顛倒嘅非標準句式（例項：落雨錯置）"
+            "紅隧 (hung4 seoi6 / Cross-Harbour Tunnel)",
+            "東隧",
+            "西隧",
+            "大隧"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "紅磡海底隧道在香港口語中普遍簡稱為「紅隧」（hung4 seoi6）。"
         }
       ]
     },
@@ -6279,15 +6288,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"天氣\": Which sentence is completely correct?",
+          "prompt": "【板塊常識】香港地理三大核心組成板塊中，佔全港土地面積八成以上之區域為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：刮風誤用）",
-            "語序顛倒嘅非標準句式（例項：落雨錯置）",
-            "混雜生硬詞彙之不規範語句（例項：出太陽未適配）"
+            "新界同離島 (New Territories & Outlying Islands)",
+            "香港島",
+            "九龍半島",
+            "維多利亞港"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "新界連同各個離島佔香港整體陸地面積超過百分之八十。"
         }
       ],
       "passThreshold": 0.8
@@ -6298,53 +6307,62 @@
     "subject": "cantonese",
     "unit": 15,
     "lessonNumber": 2,
-    "title": "香港地理、旅遊同名勝 (HK Geography & Tourism) (第2課)",
-    "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元15第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "title": "港島核心城區與名勝地標：「中環」、「銅鑼灣」、「太平山頂」、「淺水灣」 (HK Island Districts & Landmarks)",
+    "level": "A2",
+    "objective": "掌握香港島核心金融商圈、購物地標、觀光名勝與海灘古蹟之粵語地名（中環、銅鑼灣、太平山頂、淺水灣、蘭桂坊、大館）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港島依山傍海，自中西區向南區延伸出金融、購物、夜生活與海濱度假相結合之多元景觀：\n\n一、核心都會商圈與歷史地標：\n１．「中環」（zung1 waan4）：香港之金融中樞與政經心臟，摩天大樓林立。\n- 「大館」：由舊中區警署建築群活化而成之古蹟與藝術文化館。\n- 「蘭桂坊」：中環著名之酒吧與異國料理夜生活街區。\n- 「半山扶手電梯」：全球最長之戶外有蓋行人登山電梯系統。\n２．「銅鑼灣」（tung4 lo4 waan4）：港島著名之購物天堂與人流中心。\n- 「時代廣場」與「崇光百貨」：核心大型購物商場地標。\n- 「維多利亞公園 / 維園」：全港最大之市區公園，年宵花市與大型集會舉辦地。\n\n二、自然名勝與海濱度假勝地：\n１．「太平山頂 / 山頂纜車」（taai3 ping4 saan1 deng2 / saan1 deng2 laam6 ce1）：全港最佳之俯瞰維港全景觀景勝地，擁有逾百年歷史之復古登山纜車。\n２．「淺水灣 / 赤柱」（cin2 seoi2 waan1 / cek3 cyu5）：港島南區著名之月牙形天然沙灘與充滿歐陸風情之赤柱市集。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 15 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 15 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 15 in communication."
+          "target": "遊客第一次嚟香港，一定要搭山頂纜車上去太平山頂睇維港百萬夜景。",
+          "reading": "jau4 haak3 dai6 jat1 ci3 lai4 hoeng1 gong2, jat1 ding6 jiu3 daap3 saan1 deng2 laam6 ce1 soeng5 heoi3 taai3 ping4 saan1 deng2 tai2 wai4 gong2 baak3 maan6 je6 ging2. [jɐu˨˩ haːk̚˧ tɐi˨ jɐt̚˥ tsʰiː˧ lɐi˨˩ hœːŋ˥ kɔːŋ˧˥, jɐt̚˥ tɪŋ˨ jiu˧ taːp̚˧ saːn˥ tɛːŋ˧˥ laːm˨ tsʰɛː˥ sœːŋ˩˧ hɵy˧ tʰaːi˧ pʰɪŋ˨˩ saːn˥ tɛːŋ˧˥ tʰɐi˧˥ wɐi˨˩ kɔːŋ˧˥ paːk̚˧ maːn˨ jɛː˨ kɪŋ˧˥] (YAU-HAHK DY-YUT-CHEE LY HEUNG-GONG, YUT-DING YEW DAHP SAHN-DENG LAHM-CHEH SEUNG-HOEY TY-PING-SAHN-DENG TY WY-GONG BAHK-MAHN YEH-GING)",
+          "translation": "When tourists come to Hong Kong for the first time, they must take the Peak Tram up to Victoria Peak to view the million-dollar night scenery of Victoria Harbour."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元15-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "中環大館保留咗好多舊警署嘅紅磚建築，依家變成好受歡迎嘅文藝打卡勝地。",
+          "reading": "zung1 waan4 daai6 gun2 bou2 lau4 zo2 hou2 do1 gau6 ging2 cyu5 ge3 hung4 zyun1 gin3 zuk1, ji1 gaa1 bin3 sing4 hou2 sau6 fun1 jing4 ge3 man4 ngai6 daa2 kaat1 sing3 dei6. [tsʊŋ˥ waːn˨˩ taːi˨ kuːn˧˥ pou˧˥ lɐu˨˩ tsɔː˧˥ hou˧˥ tɔː˥ kɐu˨ kɪŋ˧˥ tsʰyː˩˧ kɛː˧ hʊŋ˨˩ tsyːn˥ kiːn˧ tsʊk̚˨, jiː˥ kaː˥ piːn˧ sɪŋ˨˩ hou˧˥ sɐu˨ fuːn˥ jɪŋ˨˩ kɛː˧ mɐn˨˩ ŋɐi˨ taː˧˥ kʰaːt̚˥ sɪŋ˧ tei˨] (JOONG-WAHN DY-GOON BOU-LAU-JOR HOH-DOH GAU-GING-CHYU GEH HOONG-JUEN GEEN-JOOK, YEE-GAH BEEN-SING HOH-SAU-FOON-YING GEH MUN-NGAI DY-KAHT SING-DAY)",
+          "translation": "Tai Kwun in Central preserves many red-brick buildings of the former police station; now it has transformed into a very popular arts and culture photo hotspot."
+        },
+        {
+          "target": "每逢農曆新年，好多市民都會去銅鑼灣維多利亞公園逛年宵花市買年花。",
+          "reading": "mui5 fung4 nung4 lik6 san1 nin4, hou2 do1 si5 man4 dou1 wui5 heoi3 tung4 lo4 waan4 wai4 do1 lei6 aa3 gung1 jyun4*2 kwaang3 nin4 siu1 faa1 si5 maai5 nin4 faa1. [muːi˩˧ fʊŋ˨˩ nʊŋ˨˩ lɪk̚˨ sɐn˥ niːn˨˩, hou˧˥ tɔː˥ siː˩˧ mɐn˨˩ tou˥ jɐu˩˧ hɵy˧ tʰʊŋ˨˩ lɔː˨˩ waːn˨˩ wɐi˨˩ tɔː˥ lei˨ aː˧ kʊŋ˥ jyːn˧˥ kʰwaːŋ˧ niːn˨˩ siu˥ faː˥ siː˩˧ maːi˩˧ niːn˨˩ faː˥] (MOOI-FOONG NOONG-LIK SUN-NEEN, HOH-DOH SEE-MUN DOH WUI HOEY TOONG-LOH-WAHN WY-DOH-LEY-AH GONG-YUEN KWAHNG NEEN-SIU FAH-SEE MY NEEN-FAH)",
+          "translation": "Every Lunar New Year, many citizens go to Victoria Park in Causeway Bay to stroll through the Lunar New Year flower market to buy festive flowers."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【港島名勝訣】中環大館蘭桂坊，銅鑼灣逛時代場；山頂纜車穿雲過，淺水灣畔浴日光！"
+      ],
+      "culturalNotes": [
+        "中環蘭桂坊與中上環蘇豪區展現了香港「華洋雜處」之國際化特質。而銅鑼灣維園每年農曆除夕之年宵花市，更係幾代香港人全家行大運、祈求新年吉利之集體文化記憶。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"落雨\":",
+          "prompt": "【地標匹配】香港歷史悠久之登山復古纜車，其直達之港島著名俯瞰全港夜景勝地係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：出太陽錯置）",
-            "混雜生硬詞彙之不規範語句（例項：刮風未適配）",
-            "聲調助詞搭配欠妥之表達（例項：打風誤用）"
+            "太平山頂 (taai3 ping4 saan1 deng2 / Victoria Peak)",
+            "獅子山",
+            "大帽山",
+            "鳳凰山"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "山頂纜車直達太平山頂（taai3 ping4 saan1 deng2）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"落雨\":",
+          "prompt": "【街區識別】位於港島中環、以異國風情特色酒吧、西餐廳與夜生活聞名之街區係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：刮風未適配）",
-            "聲調助詞搭配欠妥之表達（例項：打風誤用）",
-            "語序顛倒嘅非標準句式（例項：出太陽錯置）"
+            "蘭桂坊 (laan4 gwai3 fong1)",
+            "女人街",
+            "波鞋街",
+            "金魚街"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "中環著名酒吧與夜生活街區為「蘭桂坊」（laan4 gwai3 fong1）。"
         }
       ]
     },
@@ -6352,15 +6370,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"落雨\": Which sentence is completely correct?",
+          "prompt": "【古蹟文化】由舊中區警署建築群活化而成之當代文藝古蹟地標，其通稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：打風誤用）",
-            "語序顛倒嘅非標準句式（例項：出太陽錯置）",
-            "混雜生硬詞彙之不規範語句（例項：刮風未適配）"
+            "大館 (daai6 gun2 / Tai Kwun)",
+            "大會堂",
+            "大劇院",
+            "大碼頭"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "舊中區警署建築群在香港通稱「大館」（daai6 gun2）。"
         }
       ],
       "passThreshold": 0.8
@@ -6371,53 +6389,62 @@
     "subject": "cantonese",
     "unit": 15,
     "lessonNumber": 3,
-    "title": "香港地理、旅遊同名勝 (HK Geography & Tourism) (第3課)",
-    "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元15第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "title": "九龍繁華商圈與民俗街區：「尖沙咀」、「旺角」、「油麻地果欄」、「黃大仙祠」 (Kowloon Landmarks & Heritage)",
+    "level": "A2",
+    "objective": "掌握九龍半島核心商圈、特色主題街區與傳統信仰民俗名勝之粵語地名（尖沙咀、旺角、油麻地果欄、廟街夜市、黃大仙祠、星光大道）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "九龍半島匯聚了世界級之維港海濱景觀、生機盎然之市井主題街區與香火鼎盛之民間廟宇文化：\n\n一、尖沙咀海濱與購物地標：\n１．「尖沙咀」（zim1 saa1 zeoi2）：九龍半島南端核心旅遊重鎮。\n- 「星光大道」：尖沙咀海旁表彰香港電影傑出影人之觀海長廊。\n- 「天星碼頭」：搭乘天星小輪過海橫渡維港之百年歷史碼頭。\n- 「海港城」：全港最大面積之大型臨海購物綜合體。\n\n二、旺角與油麻地特色主題街區：\n１．「旺角」（wong6 gok3）：全港人口密度極高、活力充沛之購物娛樂街區。\n- 「女人街」（通菜街南段）：露天擺賣平價女裝飾物之特色排檔街。\n- 「波鞋街」（花園街南段）：專門售賣各國限量運動鞋之特色街。\n- 「金魚街」（通菜街北段）：店舖掛滿袋裝熱帶觀賞魚之獨特市景。\n２．「油麻地」（jau4 maa4 dei6*2）：\n- 「油麻地果欄」：逾百年歷史之批發水果交易市場。\n- 「廟街夜市」：大排檔、算命占卜與懷舊唱曲匯聚之平民夜市。\n\n三、民間信仰核心地標：\n１．「黃大仙祠」（wong4 daai6 sin1 ci4）：香港香火極旺之著名道教廟宇，素有「有求必應」之美譽，農曆正月初一搶插頭炷香係著名民俗盛事。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 15 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 15 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 15 in communication."
+          "target": "夜晚漫步尖沙咀星光大道，可以近距離欣賞維多利亞港對岸璀璨嘅摩天大廈。",
+          "reading": "je6 maan5 maan6 bou6 zim1 saa1 zeoi2 seng1 gwong1 daai6 dou6, ho2 ji5 gan6 keoi1 lei4 jan1 soeng2 wai4 do1 lei6 aa3 gong2 deoi3 ngon6 ceoi2 caan3 ge3 mo1 tin1 daai6 haa6. [jɛː˨ maːn˩˧ maːn˨ pou˨ tsiːm˥ saː˥ tsɵy˧˥ sɛːŋ˥ kʷɔːŋ˥ taːi˨ tou˨, hɔː˧˥ jiː˩˧ kɐn˨ kʰɵy˥ lei˨˩ jɐn˥ sœːŋ˧˥ wɐi˨˩ tɔː˥ lei˨ aː˧ kɔːŋ˧˥ tɵy˧ ŋɔːn˨ tsʰɵy˧˥ tsʰaːn˧ kɛː˧ mɔː˥ tʰiːn˥ taːi˨ haː˨] (YEH-MAHN MAHN-BOU JEEM-SAH-JEOY SENG-GWONG DY-DOU, HOH-YEE GUN-KOEY-LY YUN-SEUNG WY-DOH-LEY-AH-GONG DEOY-NGOHN CHOEY-CHAAN GEH MOH-TEEN DY-HAH)",
+          "translation": "Strolling along the Tsim Sha Tsui Avenue of Stars at night, one can appreciate the dazzling skyscrapers on the opposite shore of Victoria Harbour at close range."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元15-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "旺角波鞋街有好多限量版運動鞋賣，每逢週末都吸引好多後生仔去掃貨。",
+          "reading": "wong6 gok3 bo1 haai4 gaai1 jau5 hou2 do1 haan6 loeng6 baan2 wan6 dung6 haai4 maai6, mui5 fung4 zau1 mut6 dou1 kap1 jan5 hou2 do1 hau6 saang1 zai2 heoi3 sou3 fo3. [wɔːŋ˨ kɔːk̚˧ pɔː˥ haːi˨˩ kaːi˥ jɐu˩˧ hou˧˥ tɔː˥ haːn˨ lœːŋ˨ paːn˧˥ wɐn˨ tʊŋ˨ haːi˨˩ maːi˨, muːi˩˧ fʊŋ˨˩ tsɐu˥ muːt̚˨ tou˥ kʰɐp̚˥ jɐn˩˧ hou˧˥ tɔː˥ hɐu˨ saːŋ˥ tsɐi˧˥ hɵy˧ sou˧ fɔː˧] (WONG-GOK BOH-HY-GY YAU HOH-DOH HAHN-LEUNG-BAHN WUN-DOONG-HY MY, MOOI-FOONG JAU-MOOT DOH KUP-YUN HOH-DOH HAU-SAHNG-JY HOEY SOU-FOH)",
+          "translation": "Sneaker Street in Mong Kok sells many limited-edition sneakers; every weekend it attracts many young people to go shopping."
+        },
+        {
+          "target": "黃大仙祠以有求必應聞名，每年除夕夜都有成千上萬善信排隊爭插頭炷香。",
+          "reading": "wong4 daai6 sin1 ci4 ji5 jau5 kau4 bit1 jing3 man4 ming4, mui5 nin4 ceoi4 zik6 je6 dou1 jau5 seng4 cin1 soeng6 maan6 sin6 seon3 paai4 deoi6*2 zang1 caap3 tau4 zyu3 hoeng1. [wɔːŋ˨˩ taːi˨ siːn˥ tsʰiː˨˩ jiː˩˧ jɐu˩˧ kʰɐu˨˩ pɪt̚˥ jɪŋ˧ mɐn˨˩ mɪŋ˨˩, muːi˩˧ niːn˨˩ tsʰɵy˨˩ tsɪk̚˨ jɛː˨ tou˥ jɐu˩˧ sɛːŋ˨˩ tsʰiːn˥ sœːŋ˨ maːn˨ siːn˨ sɵn˧ pʰaːi˨˩ tɵy˧˥ tsɐŋ˥ tsʰaːp̚˧ tʰɐu˨˩ tsyː˧ hœːŋ˥] (WONG-DY-SEEN-CHEE YEE YAU-KAU-BIT-YING MUN-MING, MOOI-NEEN CHOEY-JIK-YEH DOH YAU SENG-CHEEN-SEUNG-MAHN SEEN-SEUN PY-DEOY JUNG CHAHK-TAU-JYU-HEUNG)",
+          "translation": "Wong Tai Sin Temple is renowned for answering every prayer; on Chinese New Year's Eve every year, thousands upon thousands of devotees queue up to rush for the first incense offering."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【九龍地標歌】尖沙咀畔星光道，旺角波鞋女人街；油麻地果欄生果甜，黃大仙祠求吉祥！"
+      ],
+      "culturalNotes": [
+        "香港特色主題街「波鞋街」、「女人街」、「金魚街」體現了嶺南傳統商業「同業集聚」之特色。而「插頭炷香」（新春爭插第一爐香）則體現了民間對來年平安順遂之虔誠祈盼。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"出太陽\":",
+          "prompt": "【特色街區】位於九龍旺角花園街南段、專門集中售賣各類潮流運動鞋之特色街道稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：刮風錯置）",
-            "混雜生硬詞彙之不規範語句（例項：打風未適配）",
-            "聲調助詞搭配欠妥之表達（例項：好熱誤用）"
+            "波鞋街 (bo1 haai4 gaai1 / Sneaker Street)",
+            "金魚街",
+            "女人街",
+            "廟街"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "花園街南段因專門售賣運動鞋（波鞋）而通稱「波鞋街」（bo1 haai4 gaai1）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"出太陽\":",
+          "prompt": "【廟宇民俗】以「有求必應」著稱、每逢農曆新年除夕善信爭插「頭炷香」之著名道教宮觀係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：打風未適配）",
-            "聲調助詞搭配欠妥之表達（例項：好熱誤用）",
-            "語序顛倒嘅非標準句式（例項：刮風錯置）"
+            "黃大仙祠 (wong4 daai6 sin1 ci4)",
+            "文武廟",
+            "車公廟",
+            "天后廟"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「黃大仙祠」（wong4 daai6 sin1 ci4）以有求必應與新春頭炷香聞名。"
         }
       ]
     },
@@ -6425,15 +6452,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"出太陽\": Which sentence is completely correct?",
+          "prompt": "【市井街區】九龍油麻地擁有百年歷史之著名水果批發交易市場，粵語口語簡稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：好熱誤用）",
-            "語序顛倒嘅非標準句式（例項：刮風錯置）",
-            "混雜生硬詞彙之不規範語句（例項：打風未適配）"
+            "果欄 (gwo2 laan4 / Yau Ma Tei Fruit Market)",
+            "菜欄",
+            "魚欄",
+            "肉欄"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "油麻地水果批發市場在香港通稱為「果欄」（gwo2 laan4）。"
         }
       ],
       "passThreshold": 0.8
@@ -6444,53 +6471,62 @@
     "subject": "cantonese",
     "unit": 15,
     "lessonNumber": 4,
-    "title": "香港地理、旅遊同名勝 (HK Geography & Tourism) (第4課)",
-    "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元15第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "title": "新界自然生態與傳統古村：「西貢」、「大埔 / 大美督」、「沙田 / 車公廟」、「元朗 / 圍村」 (New Territories Heritage & Nature)",
+    "level": "A2",
+    "objective": "掌握新界核心市鎮、自然風景區、地質公園與宗族圍村文化地名（西貢、大埔大美督、沙田車公廟、元朗圍村盆菜）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "新界地域廣袤，融合了鬼斧神工之地質海岸生態、歷史悠久之嶺南原居民圍村文化與現代新市鎮風貌：\n\n一、自然景觀與休閒勝地：\n１．「西貢」（sai1 gung3）：素有「香港後花園」之美譽。\n- 「西貢海鮮街」：臨海現挑現煮活海鮮之美食聚集地。\n- 「地質公園」：擁有世界級六角形火山岩柱景觀。\n２．「大埔」與「大美督」（daai6 bou3 / daai6 mei5 duk1）：\n- 「大美督水塘主壩」：市民週末租單車踩單車、放風箏與燒烤之勝地。\n\n二、新市鎮歷史與民俗地標：\n１．「沙田」（saa1 tin4）：\n- 「車公廟」：祈求轉運之著名古廟，信眾會轉動銅風車祈求「風生水起、運轉乾坤」。\n- 「城門河」：每年端午節舉辦龍舟競渡之重要河道。\n２．「元朗」（jyun4 long5）與「圍村」（wai4 cyun1）：\n- 「吉慶圍」與「屏山文物徑」：保留完整之原居民防禦性古圍村與宗族祠堂。\n- 「圍村盆菜」：將十幾種豐盛食材（鮑魚、海參、燒鴨、大蝦、枝竹、蘿蔔等）層層疊疊置於大盆中之傳統盛宴，象徵「闔家團圓、盆滿缽滿」。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 15 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 15 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 15 in communication."
+          "target": "週末好多人中意去西貢租船出海遊船河，順便喺海鮮街歎一餐豐富嘅海鮮大餐。",
+          "reading": "zau1 mut6 hou2 do1 jan4 zung1 ji3 heoi3 sai1 gung3 zou1 syun4 ceot1 hoi2 jau4 syun4 ho4, seon6 bin6 hai2 hoi2 sin1 gaai1 taan3 jat1 saan1 fung1 fu3 ge3 hoi2 sin1 daai6 caan1. [tsɐu˥ muːt̚˨ hou˧˥ tɔː˥ jɐn˨˩ tsʊŋ˥ jiː˧ hɵy˧ sɐi˥ kʊŋ˧ tsou˥ syːn˨˩ tsʰɵt̚˥ hɔːi˧˥ jɐu˨˩ syːn˨˩ hɔː˨˩, sɵn˨ piːn˨ hɐi˩˧ hɔːi˧˥ siːn˥ kaːi˥ tʰaːn˧ jɐt̚˥ saːn˥ fʊŋ˥ fuː˧ kɛː˧ hɔːi˧˥ siːn˥ taːi˨ tsʰaːn˥] (JAU-MOOT HOH-DOH YUN JOONG-YEE HOEY SY-GONG JOU-SYUN CHUT-HOY YAU-SYUN-HOR, SEUN-BEEN HY HOY-SEEN-GY TAAN YUT-SAHN FOONG-FOO GEH HOY-SEEN DY-CHAAN)",
+          "translation": "On weekends many people like going to Sai Kung to rent a boat for a junk boat trip, and smoothly enjoy a sumptuous seafood feast along Seafood Street."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元15-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "農曆新年年初三赤口，好多市民會去沙田車公廟轉風車祈求全家轉運平安。",
+          "reading": "nung4 lik6 san1 nin4 nin4 co1 saam1 cek3 hau2, hou2 do1 si5 man4 wui5 heoi3 saa1 tin4 ce1 gung1 miu6 zyun3 fung1 ce1 kei4 kau4 cyun4 gaa1 zyun3 wan6 ping4 on1. [nʊŋ˨˩ lɪk̚˨ sɐn˥ niːn˨˩ niːn˨˩ tsʰɔː˥ saːm˥ tsʰɛːk̚˧ hɐu˧˥, hou˧˥ tɔː˥ siː˩˧ mɐn˨˩ wuːi˩˧ hɵy˧ saː˥ tʰiːn˨˩ tsʰɛː˥ kʊŋ˥ miːu˨ tsyn˧ fʊŋ˥ tsʰɛː˥ kʰei˨˩ kʰɐu˨˩ tsʰyːn˨˩ kaː˥ tsyn˧ wɐn˨ pʰɪŋ˨˩ ɔːn˥] (NOONG-LIK SUN-NEEN NEEN-CHOH-SAHM CHEK-HAU, HOH-DOH SEE-MUN WUI HOEY SAH-TEEN CHEH-GONG-MEW JUEN-FOONG-CHEH KEY-KAU CHUEN-GAH JUEN-WUN PING-ON)",
+          "translation": "On the third day of the Lunar New Year, many citizens go to Che Kung Temple in Sha Tin to spin the windmills to pray for good fortune and peace for the whole family."
+        },
+        {
+          "target": "元朗圍村嘅傳統盆菜用料十足，象徵一家人團團圓圓、盆滿缽滿。",
+          "reading": "jyun4 long5 wai4 cyun1 ge3 cyun4 tung2 pun4 coi3 jung6 liu6*2 sap6 zuk1, zoeng6 zing1 jat1 gaa1 jan4 tyun4 tyun4 jyun4 jyun4, pun4 mun5 bat1 mun5. [jyːn˨˩ lɔːŋ˩˧ wɐi˨˩ tsʰyːn˥ kɛː˧ tsʰyːn˨˩ tʰʊŋ˧˥ pʰuːn˨˩ tsʰɔːi˧ jʊŋ˨ liːu˧˥ sɐp̚˨ tsʊk̚˥, tsœːŋ˨ tsɪŋ˥ jɐt̚˥ kaː˥ jɐn˨˩ tʰyːn˨˩ tʰyːn˨˩ jyːn˨˩ jyːn˨˩, pʰuːn˨˩ muːn˩˧ pɐt̚˥ muːn˩˧] (YUEN-LONG WY-CHUEN GEH CHUEN-TOONG POON-CHOY YOONG-LEW SUP-JOOK, JEUNG-JING YUT-GAH-YUN TUEN-TUEN-YUEN-YUEN, POON-MOON-BOON-MOON)",
+          "translation": "Traditional Poon Choi in Yuen Long walled villages is packed with solid ingredients, symbolizing family reunion and overflowing abundance."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【新界風物歌】西貢後花園景色好，大美督主壩單車踩；沙田車公轉風車，元朗圍村歎盆菜！"
+      ],
+      "culturalNotes": [
+        "元朗圍村盆菜源於南宋末年文天祥與宋帝南逃至新界之歷史傳說，村民將各家僅有食材置於大木盆中款待御駕，後演變為新界宗族祭祖、婚嫁與添丁慶典不可或缺之非物質文化遺產。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"刮風\":",
+          "prompt": "【自然地標】因山清水秀、地質公園景觀優美而素有「香港後花園」美譽之新界地區係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：打風錯置）",
-            "混雜生硬詞彙之不規範語句（例項：好熱未適配）",
-            "聲調助詞搭配欠妥之表達（例項：好凍誤用）"
+            "西貢 (sai1 gung3 / Sai Kung)",
+            "觀塘",
+            "深水埗",
+            "油麻地"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「西貢」（sai1 gung3）被譽為「香港後花園」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"刮風\":",
+          "prompt": "【非遺美食】元朗原居民圍村在喜慶節日時全村共食、象徵「盆滿缽滿」之傳統特色菜式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：好熱未適配）",
-            "聲調助詞搭配欠妥之表達（例項：好凍誤用）",
-            "語序顛倒嘅非標準句式（例項：打風錯置）"
+            "圍村盆菜 (wai4 cyun1 pun4 coi3 / Poon Choi)",
+            "叉燒包",
+            "菠蘿包",
+            "老婆餅"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "新界原居民圍村最具代表性之喜慶盛宴為「盆菜」（pun4 coi3）。"
         }
       ]
     },
@@ -6498,15 +6534,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"刮風\": Which sentence is completely correct?",
+          "prompt": "【民俗祈福】沙田車公廟每年新春吸引大量善信前往祈福，信眾通常透過轉動何種吉祥物象徵轉運：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：好凍誤用）",
-            "語序顛倒嘅非標準句式（例項：打風錯置）",
-            "混雜生硬詞彙之不規範語句（例項：好熱未適配）"
+            "銅風車 (Windmills)",
+            "轉經筒",
+            "大銅鐘",
+            "八卦鏡"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "車公廟信眾透過轉動銅風車（zyun3 fung1 ce1）祈求轉運轉吉。"
         }
       ],
       "passThreshold": 0.8
@@ -6517,53 +6553,62 @@
     "subject": "cantonese",
     "unit": 15,
     "lessonNumber": 5,
-    "title": "香港地理、旅遊同名勝 (HK Geography & Tourism) (第5課)",
-    "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元15第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "title": "離島風情與文化景觀：「大嶼山 / 天壇大佛」、「長洲 / 搶包山」、「南丫島 / 榕樹灣」 (Outlying Islands & Living Heritage)",
+    "level": "A2",
+    "objective": "掌握香港主要離島（大嶼山、長洲、南丫島、大澳）之核心觀光名勝、非物質文化遺產（昂坪天壇大佛、太平清醮搶包山、大澳水鄉棚屋）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港各個離島遠離都會喧囂，保留了悠閒之漁村風貌、世界級宗教聖地與極具震撼力之國家級非物質文化遺產：\n\n一、大嶼山與大澳水鄉：\n１．「大嶼山」（daai6 jyu4 saan1）：全港面積最大之島嶼（面積約為港島之兩倍）。\n- 「昂坪360纜車」：連接東涌與昂坪之跨海全景纜車。\n- 「天壇大佛 / 寶蓮禪寺」：全球最高之戶外青銅坐佛。\n２．「大澳水鄉」（daai6 ou3）：素有「東方威尼斯」美稱之傳統漁村，標誌性景觀為建於水上之「棚屋」（paang4 uk1），出產著名之「蝦膏」與「鹹魚」。\n\n二、長洲與國家級非遺民俗：\n１．「長洲」（coeng4 zau1）：形似啞鈴之熱門休閒海島。\n- 「太平清醮」：農曆四月初八舉辦之國家級非遺祭典。\n- 「飄色巡遊」：由小童化裝扮演古今歷史人物凌空巡遊之絕技。\n- 「搶包山」：深夜攀爬由平安包搭建而成之高塔爭奪福包之民俗競技。\n- 「平安包」：蓋有紅色「平安」印章之蒸包，寓意合家平安順遂。\n\n三、南丫島異國風情：\n１．「南丫島」（naam4 aa1 dou2）：\n- 「榕樹灣」：充滿異國情調、特色咖啡館與工藝品小店之街區。\n- 「索罟灣」：著名之海鮮酒家聚集港灣。\n- 兩灣之間之遠足行山徑係極受歡迎之休閒路線。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 15 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 15 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 15 in communication."
+          "target": "搭昂坪360纜車去大嶼山睇天壇大佛，沿途可以俯瞰成個香港國際機場同港珠澳大橋。",
+          "reading": "daap3 ngong5 ping4 saam1 luk6 ling4 laam6 ce1 heoi3 daai6 jyu4 saan1 tai2 tin1 taan4 daai6 fat6, jyun4 tou4 ho2 ji5 fu2 ham3 seng4 go3 hoeng1 gong2 gwok3 zai3 gei1 coeng4 tung4 gong2 zyu1 ou3 daai6 kiu4. [taːp̚˧ ŋɔːŋ˩˧ pʰɪŋ˨˩ saːm˥ lʊk̚˨ lɪŋ˨˩ laːm˨ tsʰɛː˥ hɵy˧ taːi˨ jyː˨˩ saːn˥ tʰɐi˧˥ tʰiːn˥ tʰaːn˨˩ taːi˨ fɐt̚˨, jyːn˨˩ tʰou4 hɔː˧˥ jiː˩˧ fuː˧˥ hɐm˧ sɛːŋ˨˩ kɔː˧ hœːŋ˥ kɔːŋ˧˥ kʷɔːk̚˧ tsɐi˧ kei˥ tsʰœːŋ˨˩ tʰʊŋ˨˩ kɔːŋ˧˥ tsyː˥ ou˧ taːi˨ kʰiːu˨˩] (DAHP NGONG-PING SAHM-LOOK-LING LAHM-CHEH HOEY DY-YUE-SAHN TY TEEN-TAHN DY-FUT, YUEN-TOU HOH-YEE FOO-HUM SENG-GOH HEUNG-GONG GWOK-JAI GAY-CHEUNG TOONG GONG-JYUE-OU DY-KEW)",
+          "translation": "Taking the Ngong Ping 360 cable car to Lantau Island to see the Big Buddha, along the way one can overlook the entire Hong Kong International Airport and Hong Kong-Zhuhai-Macao Bridge."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元15-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "長洲太平清醮嘅搶包山比賽同飄色巡遊，每年都吸引幾萬名遊客專程搭渡輪去觀賞。",
+          "reading": "coeng4 zau1 taai3 ping4 cing1 ziu3 ge3 coeng2 baau1 saan1 bei2 coi3 tung4 piu1 sik1 ceon4 jau4, mui5 nin4 dou1 kap1 jan5 gei2 maan6 ming4 jau4 haak3 zyun1 cing4 daap3 dou6 leon4 heoi3 gun1 soeng2. [tsʰœːŋ˨˩ tsɐu˥ tʰaːi˧ pʰɪŋ˨˩ tsʰɪŋ˥ tsiːu˧ kɛː˧ tsʰœːŋ˧˥ paːu˥ saːn˥ pei˧˥ tsʰɔːi˧ tʰʊŋ˨˩ pʰiːu˥ sɪk̚˥ tsʰɵn˨˩ jɐu˨˩, muːi˩˧ niːn˨˩ tou˥ kʰɐp̚˥ jɐn˩˧ kei˧˥ maːn˨ mɪŋ˨˩ jɐu˨˩ haːk̚˧ tsyːn˥ tsʰɪŋ˨˩ taːp̚˧ tou˨ lœːn˨˩ hɵy˧ kuːn˥ sœːŋ˧˥] (CHEUNG-JAU TY-PING CHING-JIU GEH CHEUNG-BAU-SAHN BAY-CHOY TOONG PEW-SIK CHUN-YAU, MOOI-NEEN DOH KUP-YUN GAY-MAHN-MING YAU-HAHK JUEN-CHING DAHP DOU-LEUN HOEY GOON-SEUNG)",
+          "translation": "The Bun Scrambling Competition and Floating Colours Parade of Cheung Chau Jiao Festival attract tens of thousands of tourists taking ferries to watch every year."
+        },
+        {
+          "target": "大澳漁村保留咗獨特嘅水上棚屋，遊客可以坐小艇出海睇中華白海豚。",
+          "reading": "daai6 ou3 jyu4 cyun1 bou2 lau4 zo2 duk6 dak6 ge3 seoi2 soeng6 paang4 uk1, jau4 haak3 ho2 ji5 co5 siu2 teng5 ceot1 hoi2 tai2 zung1 waa4 baak6 hoi2 tyun4. [taːi˨ ou˧ jyː˨˩ tsʰyːn˥ pou˧˥ lɐu˨˩ tsɔː˧˥ tʊk̚˨ tɐk̚˨ kɛː˧ sɵy˧˥ sœːŋ˨ pʰaːŋ˨˩ ʊk̚˥, jɐu˨˩ haːk̚˧ hɔː˧˥ jiː˩˧ tsʰɔː˩˧ siu˧˥ tʰɛːŋ˩˧ tsʰɵt̚˥ hɔːi˧˥ tʰɐi˧˥ tsʊŋ˥ waː˨˩ paːk̚˨ hɔːi˧˥ tʰyːn˨˩] (DY-OU YUE-CHUEN BOU-LAU-JOR DOOK-DUK GEH SOEY-SEUNG PAHNG-OOK, YAU-HAHK HOH-YEE CHOH SIU-TENG CHUT-HOY TY JOONG-WAH BAHK-HOY-TUEN)",
+          "translation": "Tai O fishing village preserves unique stilt houses on the water; tourists can take small boats out to sea to watch Chinese white dolphins."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【離島風情歌】大嶼山上拜大佛，大澳水鄉看棚屋；長洲清醮搶包山，南丫遠足海鮮足！"
+      ],
+      "culturalNotes": [
+        "長洲太平清醮已有百餘年歷史，最初為平息瘟疫、超度亡魂而設。其「飄色巡遊」以鋼支巧妙隱藏於戲服中支撐幼童凌空起舞，巧奪天工；而「搶包山」更是全球絕無僅有之民俗體育盛事。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"打風\":",
+          "prompt": "【非遺盛事】每年農曆四月在長洲舉行、以「搶包山」與「飄色巡遊」聞名全港之傳統節慶係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：好熱錯置）",
-            "混雜生硬詞彙之不規範語句（例項：好凍未適配）",
-            "聲調助詞搭配欠妥之表達（例項：潮濕誤用）"
+            "長洲太平清醮 (Cheung Chau Bun Festival)",
+            "大坑舞火龍",
+            "中秋綵燈會",
+            "天后誕巡遊"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "長洲最負盛名之國家級非遺民俗節慶為「太平清醮」（taai3 ping4 cing1 ziu3）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"打風\":",
+          "prompt": "【名勝景觀】大嶼山寶蓮禪寺旁著名之世界級戶外青銅坐佛，其正式名稱係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：好凍未適配）",
-            "聲調助詞搭配欠妥之表達（例項：潮濕誤用）",
-            "語序顛倒嘅非標準句式（例項：好熱錯置）"
+            "天壇大佛 (tin1 taan4 daai6 fat6 / Big Buddha)",
+            "樂山大佛",
+            "雲岡大佛",
+            "龍門大佛"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "大嶼山著名青銅坐佛為「天壇大佛」（tin1 taan4 daai6 fat6）。"
         }
       ]
     },
@@ -6571,15 +6616,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"打風\": Which sentence is completely correct?",
+          "prompt": "【水鄉景觀】被譽為「東方威尼斯」之大澳漁村，其搭建在水面潮汐之上的標誌性民居建築稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：潮濕誤用）",
-            "語序顛倒嘅非標準句式（例項：好熱錯置）",
-            "混雜生硬詞彙之不規範語句（例項：好凍未適配）"
+            "棚屋 (paang4 uk1 / Stilt Houses)",
+            "石屋",
+            "竹樓",
+            "碉堡"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "大澳水鄉建於水面木柱之上的傳統民居稱為「棚屋」（paang4 uk1）。"
         }
       ],
       "passThreshold": 0.8
