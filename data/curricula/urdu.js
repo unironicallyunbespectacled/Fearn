@@ -6635,53 +6635,62 @@
     "subject": "urdu",
     "unit": 16,
     "lessonNumber": 1,
-    "title": "مجہول ساختیں: جانا کی مدد سے (Passive Voice with جانا) (Part 1)",
+    "title": "فعلِ مجہول کا بنیادی قاعدہ: مفعول + صفتِ مفعولی + جانا (Passive Formation)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 16.1) with authentic precision.",
+    "objective": "فعلِ مجہول (Passive Voice: Past Participle + جانا) کی تشکیل اور نائب فاعل کے ساتھ جنسی و عددی مطابقت پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں فعلِ مجہول کی بنیادی ساخت (Formation of Passive Voice):\n\n1. **فعلِ مجہول کی تشکیل**:\n   - **ماضی مطلق کا صیغہ (Past Stem) + فعلِ 'جانا' کا متصرف صیغہ (Conjugated 'Jaana')**:\n     - «لکھنا» -> **لکھا جاتا ہے** (is written)؛\n     - «پڑھنا» -> **پڑھی جاتی ہے** (is read)؛\n     - «کہنا» -> **کہا گیا** (was said)۔\n\n2. **نائب فاعل کے ساتھ مطابقت (Agreement with Patient / Subject)**:\n   - مجہول جملے میں فعل کی تذکیر و تانیث اصل مفعول (نائب فاعل) کے مطابق تبدیل ہوتی ہے:\n     - مذکر واحد: «**خط لکھا** جاتا ہے»؛\n     - مؤنث واحد: «**کتاب پڑھی** جاتی ہے»؛\n     - مذکر جمع: «**خطوط لکھے** جاتے ہیں»؛\n     - مؤنث جمع: «**کتابیں پڑھی** جاتی ہیں»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اردو زبان کے تاریخی ادب کا مطالعہ دنیا بھر کی نامور جامعات میں ذوق و شوق سے کیا جاتا ہے۔",
+          "reading": "Urdu zabaan ke taareekhi adab ka mutaala'a duniya bhar ki naamwar jaami'aat mein zawq-o-shawq se kiya jaata hai. [ʊrd̪uː zəbaːn keː t̪aːriːxiː əd̪əb kaː mʊt̪aːlɪʔaː d̪ʊnɪjaː bʱər kiː naːmʋər dʒaːmɪʔaːt̪ mẽː zɔːq-oː-ʃɔːq seː kɪjaː dʒaːt̪aː hɛː] (OOR-doo zoh-BAHN kay tah-REE-khee UH-duhb kah moo-tah-luh-AH doon-YAH bhuhr kee nahm-VUHR jah-mee-AHT mayn ZOWQ-oh-SHOWQ say kee-YAH jah-TAH HY)",
+          "translation": "The study of Urdu language's historical literature is conducted with enthusiasm in renowned universities across the world [passive: kiya jaata hai]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 16-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "قومی کانفرنس میں پیش کیے گئے تمام اہم مقالات کو کتابی صورت میں شائع کیا جائے گا۔",
+          "reading": "Qaumi conference mein pesh kiye gaye tamaam aham maqaalaat ko kitaabi soorat mein shaaya kiya jaaye ga. [qɔːmiː koːnfrəns mẽː peːʃ kɪjeː ɡəjeː t̪əmaːm əɦəm məqaːlaːt̪ koː kɪt̪aːbiː suːrət̪ mẽː ʃaːjəʔ kɪjaː dʒaːjeː ɡaː] (QOW-mee conference mayn PAYSH kee-YAY guh-YAY tuh-MAHM UH-huhm muh-qah-LAHT koh kee-tah-BEE SOO-ruht mayn shah-YUH kee-YAH jah-YAY gah)",
+          "translation": "All important essays presented at the national conference will be published in book form [future passive: shaaya kiya jaaye ga]."
+        },
+        {
+          "target": "معصوم شہریوں کے بنیادی حقوق کا تحفظ ہر جمہوری اور مہذب معاشرے میں فرض سمجھا جاتا ہے۔",
+          "reading": "Ma'soom shehriyon ke buniyaadi huqooq ka tahaffuz har jamhoori aur muhazzab muaashray mein farz samjha jaata hai. [maːsuːm ʃɛɦrɪjõː keː bʊnɪjaːd̪iː hʊquːq kaː t̪əhəfːʊz hər dʒəmhuːriː ɔːr mʊhəzːəb mʊʔaːʃreː mẽː fərz səmədʒʱaː dʒaːt̪aː hɛː] (mah-SOOM shyh-ree-YOHN kay boo-nee-yah-DEE hoo-QOOQ kah tuh-huhf-FOOZ HUHR jum-hoo-REE owr moo-huhz-ZUHB moo-AHSH-ray mayn FUHRZ suhm-JHAH jah-TAH HY)",
+          "translation": "The protection of innocent citizens' fundamental rights is considered an obligation in every democratic and civilized society [passive: samjha jaata hai]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فعلِ مجہول فارمولا: خط (مذکر) لکھا جاتا ہے + کتاب (مؤنث) پڑھی جاتی ہے = مفعول ہی فعل کا حاکم ہے!"
+      ],
+      "culturalNotes": [
+        "اردو کے علمی، صحافتی اور قانونی متون میں فاعل کو پسِ پشت ڈال کر کام کی اہمیت اجاگر کرنے کے لیے فعلِ مجہول کا بکثرت استعمال ہوتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"گرمی\":",
+          "prompt": "مؤنث اسم «خبر» کے ساتھ فعلِ مجہول کا درست صیغہ کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («سردی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بہار» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («خزاں» کی خرابی)"
+            "خبر سنی جاتی ہے (Khabar suni jaati hai - Correct feminine passive agreement)",
+            "خبر سنا جاتا ہے (تذکیر کی غلطی)",
+            "خبر سنی جاؤ گے (بے جوڑ ضمیر)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "لفظ 'خبر' مؤنث ہے، اس لیے صیغۂ مجہول «سنی جاتی ہے» ہوگا۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"گرمی\":",
+          "prompt": "فعل «لکھنا» کا مذکر جمع میں حال مجہول کیا بنے گا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بہار» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («خزاں» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سردی» کا غیر درست استعمال)"
+            "خطوط لکھے جاتے ہیں (Khatoot likhe jaate hain - Correct plural masculine passive)",
+            "خطوط لکھا جاتا ہے (واحد کی غلطی)",
+            "خطوط لکھیں گے (معروف مستقبل)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "جمع مذکر 'خطوط' کے ساتھ «لکھے جاتے ہیں» آئے گا۔"
         }
       ]
     },
@@ -6689,17 +6698,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"گرمی\": Which sentence is completely correct?",
+          "prompt": "فعلِ مجہول کی بنیادی تشکیل (Passive Voice with 'Jaana') کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («خزاں» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سردی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بہار» سے متعلق)"
+            "تاریخی شواہد اور حقائق کا باریک بینی سے تجزیہ کیا جاتا ہے تاکہ نئی نسل تک سچی تاریخ پہنچائی جا سکے۔ (Historical evidence and facts are analyzed closely [tajziya kiya jaata hai] so that true history can be conveyed [pehunchaayi ja sakay].)",
+            "شواہد کا تجزیہ کیا تھا اور رویا تھا۔",
+            "فعلِ مجہول صرف کھانا پکانے کے لیے بولا جاتا ہے۔",
+            "جانا کا صیغہ ہمیشہ جملے کے شروع میں آتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«تاریخی شواہد اور حقائق کا باریک بینی سے تجزیہ کیا جاتا ہے تاکہ نئی نسل تک سچی تاریخ پہنچائی جا سکے۔» فعلِ مجہول کی کامل اور شستہ مثال ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u16-l2": {
@@ -6707,53 +6717,62 @@
     "subject": "urdu",
     "unit": 16,
     "lessonNumber": 2,
-    "title": "مجہول ساختیں: جانا کی مدد سے (Passive Voice with جانا) (Part 2)",
+    "title": "فعلِ مجہول کے مختلف زمانے: حال، ماضی اور مستقبل مجہول (Passive Tenses)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 16.2) with authentic precision.",
+    "objective": "حال مجہول (کیا جاتا ہے)، ماضی مجہول (کیا گیا / کیا گیا تھا) اور مستقبل مجہول (کیا جائے گا) کی نحوی گردان پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں فعلِ مجہول کے مختلف زمانے (Passive Voice in Different Tenses):\n\n1. **زمانوں کے مطابق مجہول کی گردان**:\n   - **حال مجہول (Present Passive)**: «فیصلہ **کیا جاتا ہے**» (Decision is made)؛\n   - **ماضی مطلق مجہول (Past Absolute Passive)**: «فیصلہ **کیا گیا**» (Decision was made)؛\n   - **ماضی بعید مجہول (Past Perfect Passive)**: «فیصلہ **کیا گیا تھا**» (Decision had been made)؛\n   - **مستقبل مجہول (Future Passive)**: «فیصلہ **کیا جائے گا**» (Decision will be made)۔\n\n2. **رسمی اور اخباری بیانات کا اسلوب**:\n   - فاعل کے ذکر کے بغیر واقعے کے وقت اور حالت کو نمایاں کرنا۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "کل شام خصوصی اجلاس میں ملک کی معاشی ترقی کے لیے انقلابی فیصلے کیے گئے۔",
+          "reading": "Kal shaam khusoosi ijlaas mein mulk ki ma'aashi taraqqi ke liye inqilaabi faislay kiye gaye. [kəl ʃaːm xʊsuːsiː ɪdʒlaːs mẽː mʊlk kiː mʊʔaːʃiː t̪ərəqːiː keː lɪjeː ɪnqɪlaːbiː fɛːsleː kɪjeː ɡəjeː] (KUHL SHAHM khoo-SOO-see eej-LAHS mayn MOOLK kee muh-AH-shee tuh-ruhq-QEE kay lee-AY een-qee-LAH-bee FYS-lay kee-YAY guh-YAY)",
+          "translation": "Revolutionary decisions were made for the country's economic development in the special meeting yesterday evening [past passive: kiye gaye]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 16-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "نئے تعلیمی سال کے آغاز پر تمام ہونہار اور مستحق طلبہ کو وظائف دیے جائیں گے۔",
+          "reading": "Naye ta'leemi saal ke aaghaaz par tamaam honhaar aur mustahiq talaba ko wazaa'if diye jaayein gay. [nəjeː t̪əʔliːmiː saːl keː aːɣaːz pər t̪əmaːm hoːnhaːr ɔːr mʊst̪əhɪq t̪ələbaː koː ʋəzaːʔɪf d̪ɪjeː dʒaːʔẽː ɡeː] (NY-ay tuh-lee-MEE SAHL kay ah-GHAHZ puhr tuh-MAHM hohn-HAHR owr moos-tuh-HEEQ tuh-luh-BAH koh vuh-ZAH-eef dee-YAY jah-AYN gay)",
+          "translation": "Scholarships will be given to all meritorious and deserving students at the start of the new academic year [future passive: diye jaayein gay]."
+        },
+        {
+          "target": "اس قدیم تاریخی قلعے کی دیواریں بارہویں صدی عیسوی میں تعمیر کی گئی تھیں۔",
+          "reading": "Is qadeem taareekhi qil'ay ki deewaarein baar-hween sadi eeswi mein ta'meer ki gayi theen. [ɪs qəd̪iːm t̪aːriːxiː qɪlʔeː kiː d̪iːʋaːrẽː baːrhʋĩː səd̪iː iːsʋiː mẽː t̪əʔmiːr kiː ɡəjiː t̪ʰĩː] (EES quh-DEEM tah-REE-khee qeel-AY kee dee-vah-RAYN bahr-hVEEN suh-DEE ees-VEE mayn tuh-MEER kee guh-YEE theen)",
+          "translation": "The walls of this ancient historical fort had been built in the twelfth century AD [past perfect passive: ta'meer ki gayi theen]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "زمانوں کا مجہول چارٹ: کیا جاتا ہے (حال)، کیا گیا (ماضی)، کیا جائے گا (مستقبل)!"
+      ],
+      "culturalNotes": [
+        "اردو اخبارات کے شہ سرخیوں اور اداریوں میں غیر جانبدارانہ انداز برقرار رکھنے کے لیے ماضی مجہول ('کیا گیا') سب سے زیادہ مستعمل صیغہ ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"سردی\":",
+          "prompt": "مستقبل مجہول (Future Passive) کا درست جملہ منتخب کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («بہار» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («خزاں» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («درجہ حرارت» کی خرابی)"
+            "کل نیا ہسپتال کھولا جائے گا (Kal naya haspataal khola jaaye ga - Correct future passive)",
+            "کل نیا ہسپتال کھولا تھا (ماضی بعید)",
+            "کل نیا ہسپتال کھولتا ہے (حال معروف)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«کل نیا ہسپتال کھولا جائے گا» مستقبل مجہول کی مستند ساخت ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"سردی\":",
+          "prompt": "ماضی مجہول (Past Passive) کی درست مثال کون سی ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («خزاں» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («درجہ حرارت» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بہار» کا غیر درست استعمال)"
+            "مسئلہ حل کیا گیا (Mas'ala hal kiya gaya - Correct past passive absolute)",
+            "مسئلہ حل کرے گا (معروف مستقبل)",
+            "مسئلہ حل کرتا رہا تھا (استمراری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«مسئلہ حل کیا گیا» ماضی مطلق مجہول کا فصیح جملہ ہے۔"
         }
       ]
     },
@@ -6761,17 +6780,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"سردی\": Which sentence is completely correct?",
+          "prompt": "فعلِ مجہول کے زمانوں (Passive Tenses) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («درجہ حرارت» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بہار» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («خزاں» سے متعلق)"
+            "شہر کے تمام قدیم باغات کی حفاظت کی جاتی ہے، پچھلے سال کئی نئے پودے لگائے گئے تھے اور اگلے برس ایک خوبصورت جھیل تعمیر کی جائے گی۔ (All old gardens are protected [ki jaati hai], many new saplings were planted [lagaaye gaye thay], and next year a lake will be built [ta'meer ki jaaye gi].)",
+            "باغات دیکھا تھا اور کھانا کھایا تھا۔",
+            "مستقبل مجہول کا استعمال صرف نظموں میں ہوتا ہے۔",
+            "ماضی مجہول میں 'تھا' لگانا ہمیشہ لازمی ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«شہر کے تمام قدیم باغات کی حفاظت کی جاتی ہے، پچھلے سال کئی نئے پودے لگائے گئے تھے اور اگلے برس ایک خوبصورت جھیل تعمیر کی جائے گی۔» حال، ماضی اور مستقبل مجہول کا شاندار متوازن امتزاج ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u16-l3": {
@@ -6779,53 +6799,62 @@
     "subject": "urdu",
     "unit": 16,
     "lessonNumber": 3,
-    "title": "مجہول ساختیں: جانا کی مدد سے (Passive Voice with جانا) (Part 3)",
+    "title": "فاعل کا بالواسطہ ذکر: 'کی جانب سے' اور 'کے ذریعے' (Agentive Passive)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 16.3) with authentic precision.",
+    "objective": "فعلِ مجہول میں فاعل کے بالواسطہ اظہار (کی جانب سے، کی طرف سے، کے ذریعے، کے ہاتھوں) اور دفتری و قانونی اسلوب پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں بالواسطہ فاعل والے مجہول جملے (Agentive Passive Voice):\n\n1. **فاعل کے بالواسطہ اوزان**:\n   - جب فعل مجہول میں اصل فاعل کا ذکر کرنا ضروری ہو:\n     - **کی جانب سے / کی طرف سے** (On behalf of / By):\n       - «حکومت کی جانب سے اعلان **کیا گیا**»؛\n     - **کے ذریعے** (Through / By means of):\n       - «سائنسدان کے ذریعے دریافت **کی گئی**»؛\n     - **کے ہاتھوں** (At the hands of):\n       - «دشمن کے ہاتھوں شکست **کھائی گئی**»۔\n\n2. **دفتری و قانونی وقار**:\n   - یہ صیغے گفتگو اور تحریر کو شائستہ اور غیر ذاتی (Impersonal & Formal) وقار بخشتے ہیں۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "حکومتِ پاکستان کی جانب سے سیلاب متاثرین کے لیے ایک جامع امدادی پیکج کا اعلان کیا گیا۔",
+          "reading": "Hukoomat-e-Pakistan ki jaanib se sailaab mutaasireen ke liye ek jaami imdaadi package ka e'laan kiya gaya. [hʊkuːmət̪-eː-paːkɪst̪aːn kiː dʒaːnɪb seː sɛːlaːb mʊt̪aːsːɪriːn keː lɪjeː eːk dʒaːmɪʔ ɪmdaːd̪iː pɛːkɪdʒ kaː eːlaːn kɪjaː ɡəjaː] (hoo-KOO-muh-tay-pah-kees-TAHN kee JAH-neeb say sy-LAHB moo-tahs-see-REEN kay lee-AY AYK JAH-mee eem-DAH-dee package kah ay-LAHN kee-YAH guh-YAH)",
+          "translation": "A comprehensive relief package was announced by the Government of Pakistan for flood victims [agentive passive: ki jaanib se ... e'laan kiya gaya]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 16-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "عالمی ماہرینِ آثارِ قدیمہ کے ذریعے وادیِ سندھ کی قدیم تہذیب کے نئے نوادرات دریافت کیے گئے۔",
+          "reading": "Aalami maahireen-e-aasaar-e-qadeema ke zariye waadi-e-Sindh ki qadeem tehzeeb ke naye nawaadiraat daryaaft kiye gaye. [aːləmiː maːhɪriːn-eː-aːsaːr-eː-qəd̪iːmaː keː zəriːʔeː ʋaːd̪iː-eː-sɪnd̪ʱ kiː qəd̪iːm t̪əɦziːb keː nəjeː nəʋaːd̪ɪraːt̪ d̪ərjaːft̪ kɪjeː ɡəjeː] (ah-luh-MEE mah-hee-REE-nay-ah-SAH-ray-quh-DEE-mah kay zuh-REE-ay VAH-dee-ay-SEENDH kee quh-DEEM tyh-ZEEB kay NY-ay nuh-vah-dee-RAHT duhr-YAHFT kee-YAY guh-YAY)",
+          "translation": "New artifacts of the ancient Indus Valley Civilization were discovered by global archaeologists [agentive passive: ke zariye ... daryaaft kiye gaye]."
+        },
+        {
+          "target": "عدالتِ عالیہ کی طرف سے تمام شہریوں کو انصاف کی فوری فراہمی کے واضح احکامات جاری کیے گئے۔",
+          "reading": "Adaalat-e-Aaliya ki taraf se tamaam shehriyon ko insaaf ki fawri faraahami ke waazih ahkaamaat jaari kiye gaye. [əd̪aːlət̪-eː-aːlɪjaː kiː t̪ərəf seː t̪əmaːm ʃɛɦrɪjõː koː ɪnsaːf kiː fɔːriː fəraːhəmiː keː ʋaːzɪh əhkaːmaːt̪ dʒaːriː kɪjeː ɡəjeː] (uh-DAH-luh-tay-ah-LEE-yah kee tuh-RUHF say tuh-MAHM shyh-ree-YOHN koh een-SAHF kee FOW-ree fuh-rah-huh-MEE kay VAH-zeeh uhh-kah-MAHT JAH-ree kee-YAY guh-YAY)",
+          "translation": "Explicit orders for the prompt provision of justice to all citizens were issued by the High Court [agentive passive: ki taraf se ... jaari kiye gaye]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "بالواسطہ فاعل: حکومت کی جانب سے (ادارہ) + ماہر کے ذریعے (وسیلہ) + مجہول فعل = رسمی تحریر!"
+      ],
+      "culturalNotes": [
+        "اردو بیوروکریسی، پارلیمانی کارروائی اور پریس ریلیز میں 'کی جانب سے' اور 'کی طرف سے' کو مستند ترین قانونی طرزِ تحریر مانا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"بہار\":",
+          "prompt": "سرکاری اعلامیے میں بالواسطہ فاعل کا فصیح صیغہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («خزاں» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («درجہ حرارت» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ڈاکٹر» کی خرابی)"
+            "وزارت کی جانب سے نوٹیفکیشن جاری کیا گیا (Notification was issued on behalf of the ministry - Formal agentive passive)",
+            "وزارت نے نوٹیفکیشن کو رویا تھا (غیر معقول)",
+            "وزارت سے نوٹیفکیشن نکلتا تھا (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«وزارت کی جانب سے نوٹیفکیشن جاری کیا گیا» دفتری اردو کا فصیح صیغہ ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"بہار\":",
+          "prompt": "تحقیقی دریافت کے لیے مجہول میں وسیلے کا درست لاحقہ کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («درجہ حرارت» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ڈاکٹر» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («خزاں» کا غیر درست استعمال)"
+            "ماہرین کے ذریعے دریافت کی گئی (Discovered by means of experts - Correct instrumental agentive)",
+            "ماہرین کے اوپر دریافت ہوئی (بے معنی)",
+            "ماہرین کے ساتھ کھانا کھایا (بے جوڑ)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "وسیلے اور فاعل کے لیے «کے ذریعے» مستعمل ہے۔"
         }
       ]
     },
@@ -6833,17 +6862,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"بہار\": Which sentence is completely correct?",
+          "prompt": "بالواسطہ فاعل والے فعلِ مجہول (Agentive Passive Voice) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ڈاکٹر» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («خزاں» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («درجہ حرارت» سے متعلق)"
+            "محکمہ تعلیم کی جانب سے تمام اسکولوں میں جدید کمپیوٹر لیبز قائم کی گئیں اور ماہر اساتذہ کے ذریعے طلبہ کی تربیت کی گئی۔ (Modern computer labs were established by the education department [ki jaanib se] and students were trained by expert teachers [ke zariye].)",
+            "محکمے کی جانب سے کھانا کھایا تھا اور رویا تھا۔",
+            "کی جانب سے صرف بازار میں سودا خریدتے وقت بولا جاتا ہے۔",
+            "کے ذریعے کو ہمیشہ جملے کے آخر میں لگانا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«محکمہ تعلیم کی جانب سے تمام اسکولوں میں جدید کمپیوٹر لیبز قائم کی گئیں اور ماہر اساتذہ کے ذریعے طلبہ کی تربیت کی گئی۔» بالواسطہ فاعل کے ساتھ مجہول کا مکمل نمونہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u16-l4": {
@@ -6851,53 +6881,62 @@
     "subject": "urdu",
     "unit": 16,
     "lessonNumber": 4,
-    "title": "مجہول ساختیں: جانا کی مدد سے (Passive Voice with جانا) (Part 4)",
+    "title": "عاجزی و عدمِ استطاعت کا منفی مجہول: 'مجھ سے چلا نہیں جاتا' (Passive of Incapacity)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 16.4) with authentic precision.",
+    "objective": "باطنی عجز، جسمانی لاچاری یا اخلاقی عدمِ استطاعت کے منفی مجہول جملوں (مجھ سے دیکھا نہیں جاتا، ہم سے رہا نہیں گیا) پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں عدمِ استطاعت کا منفی مجہول (Passive of Incapacity / Inability):\n\n1. **عدمِ استطاعت کا قاعدہ**:\n   - **فاعل + 'سے' + ماضی مطلق کا صیغہ + منفی 'نہیں' + فعلِ جانا**:\n     - «مجھ سے یہ ظلم **دیکھا نہیں جاتا**» (I cannot bear to watch this oppression)؛\n     - «بیمار بزرگ سے **چلا نہیں جاتا**» (The ailing elder is unable to walk)؛\n     - «ہم سے خاموش **رہا نہیں گیا**» (We could not bear to remain silent)۔\n\n2. **معروف نفی اور مجہول عجز میں باریک فرق**:\n   - معروف نفی: «میں نہیں دیکھتا» (ارادی فیصلہ)؛\n   - منفی مجہول: «مجھ سے دیکھا نہیں جاتا» (بے پناہ درد، مجبوری اور دلی لاچاری)۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "شدید علالت اور نقاہت کی وجہ سے بوڑھے بزرگ سے تنہا سفر نہیں کیا جاتا۔",
+          "reading": "Shadeed alaalat aur naqaahat ki wajah se boorhay buzurg se tanha safar nahin kiya jaata. [ʃəd̪iːd̪ ɪlaːlət̪ ɔːr nəqaːhət̪ kiː ʋədʒəh seː buːɽʱeː bʊzʊrɡ seː t̪ənhaː səfər nəhĩː kɪjaː dʒaːt̪aː] (shuh-DEED uh-LAH-luht owr nuh-QAH-huht kee VUJ-uh say BOOR-hay boo-ZOORG say TUHN-hah suh-FUHR nuh-HEEN kee-YAH jah-TAH)",
+          "translation": "Due to severe illness and weakness, the aged elder is unable to travel alone [passive of physical incapacity: buzurg se safar nahin kiya jaata]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 16-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "بے گناہ مظلوموں کی دردناک فریادیں سن کر ہم سے خاموش نہیں رہا گیا۔",
+          "reading": "Bay-gunaah mazloomon ki dardnaak faryaadein sun kar hum se khaamosh nahin raha gaya. [beː-ɡʊnaːh məzluːmõː kiː d̪ərd̪naːk fərjaːd̪ẽː sʊn kər həm seː xaːmoːʃ nəhĩː rəhaː ɡəjaː] (BAY-goo-nah muhz-loo-MOHN kee duhrd-NAHK fuhr-yah-DAYN SOON kuhr HOOM say khah-MOHSH nuh-HEEN ruh-HAH guh-YAH)",
+          "translation": "Hearing the painful cries of innocent oppressed people, we could not bear to remain silent [passive of moral inability: hum se khaamosh nahin raha gaya]."
+        },
+        {
+          "target": "اس کڑی تپش اور شدید گرمی کے عالم میں محنت کش مزدوروں سے سخت کام نہیں ہو پاتا۔",
+          "reading": "Is kari tapash aur shadeed garmi ke aalam mein mehnat-kash mazdooron se sakht kaam nahin ho paata. [ɪs kəɽiː t̪əpəʃ ɔːr ʃəd̪iːd̪ ɡərmiː keː aːləm mẽː mɛɦnət̪-kəʃ məzduːrõː seː səxt̪ kaːm nəhĩː hoː paːt̪aː] (EES kuh-DEE tuh-PUHSH owr shuh-DEED guhr-MEE kay AH-luhm mayn myh-nuht-KUHSH muhz-doo-ROHN say SUHKHT KAHM nuh-HEEN hoh pah-TAH)",
+          "translation": "In this scorching heat and intense summer conditions, hard labor cannot be managed by the working laborers [incapacity: mazdooron se kaam nahin ho paata]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "عدمِ استطاعت فارمولا: مجھ سے + دیکھا نہیں جاتا = درد، عاجزی اور لاچاری کا فصیح ترین اظہار!"
+      ],
+      "culturalNotes": [
+        "اردو کی المیہ شاعری اور دل گداز نثر میں دلی جذبات کی شدت ظاہر کرنے کے لیے 'مجھ سے دیکھا نہیں جاتا' کا صیغہ انتہائی موثر مانا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"خزاں\":",
+          "prompt": "جسمانی مجبوری اور عدمِ استطاعت کا درست جملہ منتخب کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («درجہ حرارت» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ڈاکٹر» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دوا» کی خرابی)"
+            "درد کی وجہ سے مجھ سے بیٹھا نہیں جاتا (Dard ki wajah se mujh se baitha nahin jaata - Correct passive of incapacity)",
+            "درد کی وجہ سے میں نہیں بیٹھتا (ارادی فیصلہ)",
+            "درد کی وجہ سے بیٹھیں گے نہیں (مستقبل کا عزم)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«مجھ سے بیٹھا نہیں جاتا» لاچاری اور عدمِ استطاعت کا فصیح منفی مجہول ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"خزاں\":",
+          "prompt": "اخلاقی مجبوری میں خاموش نہ رہ سکنے کا فصیح صیغہ کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ڈاکٹر» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دوا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («درجہ حرارت» کا غیر درست استعمال)"
+            "ہم سے خاموش رہا نہیں گیا (Hum se khaamosh raha nahin gaya - Could not bear to remain silent)",
+            "ہم خاموش نہیں رہے تھے (سادہ ماضی)",
+            "ہم خاموش رہتے کر (غلط ساخت)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«ہم سے خاموش رہا نہیں گیا» اخلاقی عجز کا فصیح صیغہ ہے۔"
         }
       ]
     },
@@ -6905,17 +6944,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"خزاں\": Which sentence is completely correct?",
+          "prompt": "عدمِ استطاعت کے منفی مجہول (Passive of Incapacity) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دوا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («درجہ حرارت» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ڈاکٹر» سے متعلق)"
+            "مظلوموں کی بے بسی دیکھ کر سچے انسان سے چپ نہیں رہا جاتا اور حق کی خاطر آواز اٹھانا اس کا ایمانی تقاضا بن جاتا ہے۔ (Seeing the helplessness of the oppressed, a true human cannot bear to remain silent [sachchay insaan se chup nahin raha jaata].)",
+            "مظلوم سے کھانا نہیں کھایا تھا اور رویا تھا۔",
+            "عدمِ استطاعت صرف کھیل کے میدان میں بولی جاتی ہے۔",
+            "مجھ سے کے بعد ہمیشہ فعل معروف آتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«مظلوموں کی بے بسی دیکھ کر سچے انسان سے چپ نہیں رہا جاتا اور حق کی خاطر آواز اٹھانا اس کا ایمانی تقاضا بن جاتا ہے۔» عدمِ استطاعت کے منفی مجہول کا شاہکار نمونہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u16-l5": {
@@ -6923,53 +6963,62 @@
     "subject": "urdu",
     "unit": 16,
     "lessonNumber": 5,
-    "title": "مجہول ساختیں: جانا کی مدد سے (Passive Voice with جانا) (Part 5)",
+    "title": "فعلِ مجہول کا جامع سمیکن (Passive Voice Grand Synthesis)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 16.5) with authentic precision.",
+    "objective": "فعلِ مجہول، زمانوں کی تبدیلی، بالواسطہ فاعل (کی جانب سے) اور عدمِ استطاعت (مجھ سے رہا نہیں جاتا) کو ایک اعلیٰ پائے کے نثری شاہکار میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "فعلِ مجہول کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **نحوی اور ادبی ہم آہنگی**:\n   - جب فعلِ مجہول کے تمام پہلو ایک ہی ادبی بیانیے میں سمو دیے جائیں تو تحریر میں عدالتی، قانونی اور فلسفیانہ شکوہ پیدا ہو جاتا ہے:\n     - **ماضی مجہول**: «تاریخ ساز فیصلے **کیے گئے**»؛\n     - **بالواسطہ فاعل**: «عدلیہ **کی جانب سے** احکامات جاری ہوئے»؛\n     - **عدمِ استطاعت**: «باضمیر انسان سے ظلم **دیکھا نہیں جاتا**»؛\n     - **مستقبل مجہول**: «انصاف کا پرچم بلند **رکھا جائے گا**»۔\n\n2. **قومی و اخلاقی بیانیے کی تشکیل**:\n   - یہ متوازن اور شستہ اسلوب اردو کے سنجیدہ مقالہ نگاروں اور صحافیوں کی پہچان ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "عدلیہ کی جانب سے آئین کی بالادستی کے لیے تاریخ ساز فیصلے کیے گئے، ہر شہری کے حقوق کا تحفظ یقینی بنایا جاتا ہے، باضمیر عوام سے ناانصافی خاموشی سے دیکھی نہیں جاتی، اور انشاء اللہ ملک میں عدل کا پرچم ہمیشہ بلند رکھا جائے گا۔",
+          "reading": "Adliya ki jaanib se aaeen ki baalaadasti ke liye taareekh-saaz faislay kiye gaye, har shehri ke huqooq ka tahaffuz yaqeeni banaaya jaata hai, baa-zameer awaam se na-insaafi khaamoshi se dekhi nahin jaati, aur InshaAllah mulk mein adl ka parcham hamesha buland rakha jaaye ga. [əd̪liːjaː kiː dʒaːnɪb seː aːʔiːn kiː baːlaːd̪əst̪iː keː lɪjeː t̪aːriːx-saːz fɛːsleː kɪjeː ɡəjeː hər ʃɛɦriː keː hʊquːq kaː t̪əhəfːʊz jəqiːniː bənaːjaː dʒaːt̪aː hɛː baː-zəmiːr əʋaːm seː naː-ɪnsaːfiː xaːmoːʃiː seː d̪eːkʰiː nəhĩː dʒaːt̪iː ɔːr ɪnʃaːʔəlːaːh mʊlk mẽː əd̪l kaː pərtʃəm həm-eːʃaː bʊlənd̪ rəkʰaː dʒaːjeː ɡaː] (uhd-LEE-yah kee JAH-neeb say ah-EEN kee bah-lah-DUHS-tee kay lee-AY tah-REEKH-sahz FYS-lay kee-YAY guh-YAY, HUHR shyh-REE kay hoo-QOOQ kah tuh-huhf-FOOZ yuh-qee-NEE buh-nah-YAH jah-TAH HY, bah-zuh-MEER uh-VAHM say nah-een-SAH-fee khah-moh-SHEE say DAY-khee nuh-HEEN jah-TEE, owr een-shah-UHL-LAH MOOLK mayn UHD-l kah puhr-CHUHM huh-MAY-shah boo-LUHND RUHKH-ah jah-YAY gah)",
+          "translation": "Historic decisions were made by the judiciary [kiye gaye], protection of every citizen's rights is ensured [banaaya jaata hai], injustice cannot be watched silently by conscientious people [dekhi nahin jaati], and the flag of justice will be kept high [rakha jaaye ga]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 16-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "تاریخی شواہد کی روشنی میں پرانے نظریات کا ازسرِ نو جائزہ لیا گیا ہے، حقائق کی پردہ پوشی ہم سے گوارا نہیں کی جاتی اور اب سچائی کو بلا کم و کاست دنیا کے سامنے پیش کیا جائے گا۔",
+          "reading": "Taareekhi shawaahid ki roshni mein puraane nazariyaat ka az-sar-e-nau jaa'iza liya gaya hai, haqaa'iq ki parda-poshi hum se gawaara nahin ki jaati aur ab sachchaai ko bila kam-o-kaast duniya ke saamne pesh kiya jaaye ga. [t̪aːriːxiː ʃəʋaːhɪd̪ kiː roːʃniː mẽː pʊraːneː nəzərɪjaːt̪ kaː əz-sər-eː-nɔː dʒaːʔɪzaː lɪjaː ɡəjaː hɛː hʌqaːʔɪq kiː pərd̪aː-poːʃiː həm seː ɡəʋaːraː nəhĩː kiː dʒaːt̪iː ɔːr əb sətʃːaːʔiː koː bɪlaː kəm-oː-kaːst̪ d̪ʊnɪjaː keː saːmneː peːʃ kɪjaː dʒaːjeː ɡaː] (tah-REE-khee shuh-vah-HEED kee rohsh-NEE mayn poo-RAH-nay nuh-zuh-ree-YAHT kah uhz-suh-ray-NOW JAH-ee-zah lee-YAH guh-YAH HY, huh-QAH-eeq kee puhr-dah-POH-shee HOOM say guh-vah-RAH nuh-HEEN kee jah-TEE owr UHB suhch-chah-EE koh BEE-lah KUHM-oh-KAHST doon-YAH kay sahm-NAY PAYSH kee-YAH jah-YAY gah)",
+          "translation": "Old theories have been re-evaluated in light of historical evidence [liya gaya hai], concealment of facts cannot be tolerated by us [gawaara nahin ki jaati], and now truth will be presented without dilution [pesh kiya jaaye ga]."
+        },
+        {
+          "target": "علمی دنیا میں تحقیق کے اعلیٰ معیارات قائم کیے جاتے ہیں، طلبہ کی جانب سے پیش کیے گئے مقالات کی جانچ کی گئی ہے اور مستقبل میں بھی تحقیق کی نئی راہیں کھولی جائیں گی۔",
+          "reading": "Ilmi duniya mein tehqeeq ke aala me'yaaraat qaa'im kiye jaate hain, talaba ki جانب se pesh kiye gaye maqaalaat ki jaanch ki gayi hai aur mustaqbil mein bhi tehqeeq ki nayi raahein kholi jaayein gi. [ɪlmiː d̪ʊnɪjaː mẽː t̪əɦqiːq keː aːlaː mɪʔjaːraːt̪ qaːʔɪm kɪjeː dʒaːt̪eː hɛ̃ː t̪ələbaː kiː dʒaːnɪb seː peːʃ kɪjeː ɡəjeː məqaːlaːt̪ kiː dʒaːntʃ kiː ɡəjiː hɛː ɔːr mʊst̪əqbɪl mẽː bʱiː t̪əɦqiːq kiː nəjiː raːhẽː kʰoːliː dʒaːʔẽː ɡiː] (EEL-mee doon-YAH mayn tuhh-QEEQ kay AH-lah may-yah-RAHT QAH-eem kee-YAY jah-TAY HYN, tuh-luh-BAH kee JAH-neeb say PAYSH kee-YAY guh-YAY muh-qah-LAHT kee JAHNCH kee guh-YEE HY owr moos-tuhq-BEEL mayn BHEE tuhh-QEEQ kee NY-ee rah-HEYN khoh-LEE jah-AYN gee)",
+          "translation": "High standards of research are established in the academic world [qaa'im kiye jaate hain], papers presented by students have been examined [jaanch ki gayi hai], and new avenues of research will be opened in future [kholi jaayein gi]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع مجہول سمیکن: فیصلے کیے گئے (ماضی) + عدلیہ کی جانب سے (فاعل) + دیکھی نہیں جاتی (عدمِ استطاعت) + پرچم لہرایا جائے گا (مستقبل)!"
+      ],
+      "culturalNotes": [
+        "اردو کے کلاسیکی اور عصری اداریوں میں غیر ذاتی، باوقار اور پُراثر بیانیہ ترتیب دینے کے لیے مجہول کے اس جامع سمیکن کو نثری کمال قرار دیا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"درجہ حرارت\":",
+          "prompt": "فعلِ مجہول کی مختلف صورتوں کے فصیح جامع امتزاج کا جملہ منتخب کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («ڈاکٹر» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دوا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ہسپتال» کی خرابی)"
+            "حکومت کی جانب سے نئے قوانین بنائے گئے، جن پر عمل کیا جاتا ہے اور مستقبل میں مزید اصلاحات کی جائیں گی (Masterful synthesis of agentive, past, present, and future passive)",
+            "حکومت نے قانون بنایا تھا رویا تھا اور سو گیا (بے ربط معروف)",
+            "وہ قانون سے جاتا کرتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«حکومت کی جانب سے نئے قوانین بنائے گئے، جن پر عمل کیا جاتا ہے اور مستقبل میں مزید اصلاحات کی جائیں گی» فعلِ مجہول کے تمام اوزان کا متوازن سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"درجہ حرارت\":",
+          "prompt": "فعلِ مجہول کا جامع سمیکن اردو نثر کو کیا اسلوب عطا کرتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دوا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ہسپتال» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ڈاکٹر» کا غیر درست استعمال)"
+            "سرکاری، قانونی اور اخلاقی بیانات کو فاعل کے غیر ضروری ذکر سے آزاد کر کے باوقار اور متوازن بنانا (Giving formal, legal, and moral prose dignified balance without unnecessary agent mention)",
+            "صرف جملوں کی لمبائی بڑھانا",
+            "صرف لغت کے الفاظ دہرانا",
+            "بے معنی تکرار پیدا کرنا"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ بیانیے کو غیر ذاتی، باوقار، قانونی اور متوازن ادبی حسن بخشتا ہے۔"
         }
       ]
     },
@@ -6977,17 +7026,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"درجہ حرارت\": Which sentence is completely correct?",
+          "prompt": "فعلِ مجہول کے جامع سمیکن (Passive Voice Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ہسپتال» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ڈاکٹر» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دوا» سے متعلق)"
+            "اہلِ قلم کی جانب سے سچائی کو ہمیشہ اجاگر کیا جاتا ہے، ماضی میں بھی قربانیاں دی گئیں، باضمیر ادیب سے ناانصافی پر چپ نہیں رہا جاتا اور ہمیشہ حق کا ساتھ دیا جائے گا۔ (Truth is always highlighted by writers [ujaagar kiya jaata hai], sacrifices were rendered in past [di gayeen], silence cannot be maintained by conscientious writers [chup nahin raha jaata], and truth will always be supported [saath diya jaaye ga].)",
+            "اہلِ قلم نے قلم دیکھا تھا اور گاڑی روتی تھی۔",
+            "جامع سمیکن صرف عدالت کے کٹہرے میں بولا جاتا ہے۔",
+            "مجہول ساختیں صرف ترجمے کی کتب میں جائز ہیں۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اہلِ قلم کی جانب سے سچائی کو ہمیشہ اجاگر کیا جاتا ہے، ماضی میں بھی قربانیاں دی گئیں، باضمیر ادیب سے ناانصافی پر چپ نہیں رہا جاتا اور ہمیشہ حق کا ساتھ دیا جائے گا۔» فعلِ مجہول کے تمام پہلوؤں کا کامل ترین سمیکن ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u17-l1": {
