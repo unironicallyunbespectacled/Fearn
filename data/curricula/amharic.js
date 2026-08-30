@@ -935,85 +935,62 @@
     "subject": "amharic",
     "unit": 2,
     "lessonNumber": 1,
-    "title": "መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles) (ክፍል 1)",
+    "title": "የቤት እና የክፍል ውስጥ ዕቃዎች (Everyday Nouns & Demonstratives)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የዕለት ተዕለት ስሞች፣ የጾታ እና የቁጥር ልዩነት፣ እና የአማርኛ ወሳኝ መስተፃምሮች (-ው/-ዋ)። (ክፍል 1)።",
+    "objective": "የዕለት ተዕለት የቤትና የክፍል ውስጥ ዕቃዎችን ስሞች (ቤት፣ ጠረጴዛ፣ ወንበር፣ መጽሐፍ፣ ብዕር፣ በር፣ መስኮት) እና አመልካች ተውላጠ ስሞችን (ይህ/ይህች/እነዚህ/ያ/ያቺ/እነዚያ) ማወቅ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የዕለት ተዕለት የቤት ውስጥ ቁሳቁሶች እና አመልካች ቃላት:\n\n፩. መሰረታዊ የስም ቃላት:\n- «ቤት»: የመኖሪያ ስፍራ።\n- «ጠረጴዛ»: ዕቃ የሚቀመጥበት ወይም የሚጻፍበት ሰሌዳ።\n- «ወንበር»: ለመቀመጫነት የሚያገለግል ቁሳቁስ።\n- «መጽሐፍ»: የንባብ ወይም የትምህርት ሰነድ።\n- «ብዕር» ወይም «እስክሪብቶ»: ለመጻፊያነት የሚያገለግል መሳሪያ።\n- «በር»: መግቢያ እና መውጫ።\n- «መስኮት»: ብርሃንና አየር የሚያስገባ ክፍልፋይ።\n- «አልጋ»: የመኝታ ቁሳቁስ።\n\n፪. አመልካች ተውላጠ ስሞች:\n- «ይህ»: ለቀረበ ተባዕታይ (ወንድ) ነገር ያገለግላል (ይህ መጽሐፍ ነው)።\n- «ይህች» ወይም «ይቺ»: ለቀረበ አንስታይ (ሴት) ነገር ያገለግላል (ይህች ወንበር ናት)።\n- «ያ»: ለራቀ ተባዕታይ ነገር ያገለግላል (ያ ቤት ነው)።\n- «ያቺ»: ለራቀ አንስታይ ነገር ያገለግላል (ያቺ በር ናት)።\n- «እነዚህ»: ለቀረቡ ብዙ ነገሮች (እነዚህ መጻሕፍት/መጽሐፎች ናቸው)።\n- «እነዚያ»: ለራቁ ብዙ ነገሮች (እነዚያ ቤቶች ናቸው)።\n\n፫. መጠይቃዊ ዓረፍተ ነገሮች:\n- «ይህ ምንድን ነው?»: ስለ ወንድ ነገር ማንነት ለመጠየቅ።\n- «ይህች ምንድን ናት?»: ስለ ሴት ነገር ማንነት ለመጠየቅ።",
       "examples": [
         {
-          "target": "መምህሩ የ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (2.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)' to the students."
+          "target": "ይህ አዲስ መጽሐፍ ነው፣ ያ ደግሞ ትልቅ ጠረጴዛ ነው።",
+          "reading": "Yəh addis mäs’haf näw, ya dägmo t’əlq t’äräp’p’eza näw. [jɨh adˈdis mɨsˤˈhaf nɛw ja dɛɡˈmo tʼɨlˈkʼ tʼɛrɛpʼˈpʼeza nɛw] (yuh ahd-DEES mus'-HAHF neh, yah deg-MOH t'ul-K' t'eh-rep'-PAY-zah neh)",
+          "translation": "This is a new book, and that is a large table."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (2.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ይህች ወንበር በጣም ምቹ ናት፣ እባክህ ተቀመጥ።",
+          "reading": "Yəhəč wänbär bətam məč’u nat, əbakəh täqämät’. [jɨˈhɨtʃ wɨnˈbɛr bɨˈtʼam mɨˈtʃʼu nat ɨˈbakɨh tɨkʼɛˈmɨtʼ] (yuh-HUCH wun-BUR buh-TAHM muh-CH'OO naht, uh-BAH-kuh tuh-k'uh-MET')",
+          "translation": "This chair is very comfortable, please sit down [to male]."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (2.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (2.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ይህ ምንድን ነው? ይህ አዲስ ብዕር እና ደብተር ነው።",
+          "reading": "Yəh məndən näw? Yəh addis bə'ər ənna däbtär näw. [jɨh mɨnˈdɨn nɛw jɨh adˈdis bɨˈʔɨr ɨnːa dɛbˈtɛr nɛw] (yuh mun-DUN neh? yuh ahd-DEES buh-UR un-nah deb-TUR neh)",
+          "translation": "What is this? This is a new pen and notebook."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Demonstratives: ይህ (this [m]), ይህች (this [f]), ያ (that [m]), ያቺ (that [f]), እነዚህ (these), እነዚያ (those)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህል እንግዳ ወደ ቤት ሲገባ ወንበር ማቅረብና 'እባክህ ተቀመጥ / እባክሽ ተቀመጪ' ማለት ጥልቅ የእንግዳ ተቀባይነት መገለጫ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ለቀረበ ተባዕታይ ነገር (ለምሳሌ መጽሐፍ) 'ይህ ምንድን ነው?' ተብሎ ሲጠየቅ፣ ትክክለኛው ምላሽ የትኛው ነው?",
           "options": [
-            "መምህሩ የ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (2.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (2.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (2.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (2.1.w3)"
+            "ይህ አዲስ መጽሐፍ ነው። (This is a new book - Correct masculine demonstrative)",
+            "እሷ ወደ ትምህርት ቤት ሄደች።",
+            "ትላንት ማታ ዝናብ ዘነበ።",
+            "ሻይ መጠጣት እወዳለሁ።"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ይህ አዲስ መጽሐፍ ነው» ለተባዕታይ መጠይቅ የተሰጠ ትክክለኛ ምላሽ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u2-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ለቀረበች አንስታይ ነገር (ለምሳሌ ወንበር) 'ይህች ምንድን ናት?' ተብሎ ሲጠየቅ፣ ትክክለኛው ምላሽ የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (2.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (2.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (2.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (2.1.x3)"
+            "ይህች ቆንጆ ወንበር ናት። (This is a beautiful chair - Correct feminine demonstrative)",
+            "ያ ትልቅ ወንድም ነው።",
+            "እነሱ እግር ኳስ ተጫወቱ።",
+            "በጠዋት ቁርስ በላሁ።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (2.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (2.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (2.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (2.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ለአንስታይ ነገር «ይህች ... ናት» የሚለው ሰዋሰዋዊ መዋቅር ትክክለኛ ነው።"
         }
       ]
     },
@@ -1021,24 +998,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 2-1):",
+          "prompt": "የአማርኛን አመልካች ተውላጠ ስሞች (ይህ፣ ይህች፣ ያ፣ ያቺ) በትክክል የለየው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (2.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (2.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (2.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (2.1.z3)"
+            "«ይህ» ለቀረበ ወንድ፣ «ይህች» ለቀረበች ሴት፣ «ያ» ለራቀ ወንድ፣ «ያቺ» ለራቀች ሴት ያገለግላሉ።",
+            "«ይህ» ለራቀ ነገር ብቻ ያገለግላል።",
+            "«ያቺ» ለብዙ ወንዶች ያገለግላል።",
+            "በአማርኛ አመልካች ቃላት የጾታ ልዩነት የላቸውም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "በአማርኛ አመልካች ተውላጠ ስሞች የጾታና የርቀት ልዩነት አላቸው።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u2-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «መሰረታዊ»):",
+          "prompt": "'መጽሐፍ / Book' የሚለውን የአማርኛ ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "መሰረታዊ",
-            "መሰረታዊ"
+            "መጽሐፍ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «መሰረታዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «መጽሐፍ» (Mäs’haf) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -1049,85 +1025,62 @@
     "subject": "amharic",
     "unit": 2,
     "lessonNumber": 2,
-    "title": "መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles) (ክፍል 2)",
+    "title": "የስሞች ጾታ፡ ተባዕታይ እና አንስታይ (Noun Gender: Masculine & Feminine Distinction)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የዕለት ተዕለት ስሞች፣ የጾታ እና የቁጥር ልዩነት፣ እና የአማርኛ ወሳኝ መስተፃምሮች (-ው/-ዋ)። (ክፍል 2)።",
+    "objective": "የአማርኛ ስሞችን ጾታ (ተባዕታይ እና አንስታይ) መለየት፣ የተፈጥሮና የሰዋሰው ጾታ ልዩነትን መረዳት፣ እና የሴትነት ማሳያ ቅጥያዎችን (-ይቱ/-ኢቷ) መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የስሞች ጾታ በሰዋሰው እና በተፈጥሮ:\n\n፩. የተፈጥሮ ጾታ:\n- ተባዕታይ: ወንድ፣ ልጅ / ወንድ ልጅ፣ አባት፣ ወንድም፣ አጎት።\n- አንስታይ: ሴት፣ ሴት ልጅ፣ እናት፣ እህት፣ አክስት።\n\n፪. የእንስሳት ጾታ:\n- አውራ ዶሮ vs ዶሮ / እናት ዶሮ።\n- ተባዕታይ ውሻ vs እንስት ውሻ።\n- በሬ vs ላም።\n\n፫. የሰዋሰው ጾታ እና የማሳነስ/የእንክብካቤ ቅጥያዎች:\n- በአማርኛ ግዑዛን ነገሮች አብዛኛውን ጊዜ ተባዕታይ ቢሆኑም፣ ሲያንሱ ወይም የፍቅር/የእንክብካቤ መግለጫ ሲሆኑ አንስታይ ይሆናሉ:\n  - መኪናው (ተባዕታይ) vs መኪናዋ / መኪናይቱ (አንስታይ)።\n  - ድመቷ / ድመቲቷ (አንስታይ) vs ድመቱ (ተባዕታይ)።\n  - ሴት ልጅ ስትሆን «ናት»፣ ወንድ ልጅ ሲሆን «ነው» ማሰሪያ አንቀጽ ጥቅም ላይ ይውላል።",
       "examples": [
         {
-          "target": "መምህሩ የ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (2.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)' to the students."
+          "target": "አባቴ ታታሪ ገበሬ ነው፣ እናቴ ደግሞ ብልህ አስተማሪ ናት።",
+          "reading": "Abbate tatari gäbäre näw, ənnate dägmo bələh astämari nat. [abːaˈte tataˈri ɡɛbɛˈre nɛw ɨnːaˈte dɛɡˈmo bɨlɨh astɨmaˈri nat] (ahb-bah-TAY tah-tah-REE geh-beh-RAY neh, un-nah-TAY deg-MOH buh-LUH ahs-tuh-mah-REE naht)",
+          "translation": "My father is a hardworking farmer, and my mother is a wise teacher."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (2.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ወንድሜ በትምህርት ቤት ጎበዝ ተማሪ ነው፣ እህቴም በጣም ጎበዝ ናት።",
+          "reading": "Wändəme bätəməhərt bet gobäz tämari näw, əhətem bətam gobäz nat. [wɨndɨˈme bɨtɨmˈhɨrt bet ɡoˈbɛz tɛmaˈri nɛw ɨhɨˈtem bɨˈtʼam ɡoˈbɛz nat] (wun-duh-MAY buh-tum-HURT bayt goh-BEZ teh-mah-REE neh, uh-huh-TAYM buh-TAHM goh-BEZ naht)",
+          "translation": "My brother is an excellent student at school, and my sister is also very smart."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (2.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (2.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ይህቺ ትንሽ ድመት በጣም ቆንጆ ናት፣ ወተት ትጠጣለች።",
+          "reading": "Yəhəčč tənəsh dəmät bətam qonjo nat, wätät tət’ät’t’alläčč. [jɨˈhɨtʃː tɨˈnɨʃ dɨˈmɛt bɨˈtʼam kʼonˈdʒo nat wɛˈtɛt tɨtʼɛtʼːaˈlɛtʃː] (yuh-HUCH-ch tuh-NUSH duh-MET buh-TAHM k'ohn-JOH naht, weh-TET tuh-t'et'-t'ahl-LECH)",
+          "translation": "This little cat is very cute, she drinks milk."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Gender Copula: አባት/ወንድም -> ነው (is [m]), እናት/እህት -> ናት (is [f])!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህል አባትና እናትን 'አባባ' እና 'እማማ' ብሎ በፍቅርና በአክብሮት መጥራት የተለመደ ስርዓት ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ለአንስታይ ባለቤት (ለምሳሌ እህት ወይም እናት) ትክክለኛው የማሰሪያ አንቀጽ (Copula) የትኛው ነው?",
           "options": [
-            "መምህሩ የ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (2.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (2.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (2.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (2.2.w3)"
+            "እህቴ ጎበዝ ዶክተር ናት። (My sister is an excellent doctor - Correct feminine copula)",
+            "እህቴ ትልቅ መጽሐፍ ነው።",
+            "አባቴ ዛሬ መጣች።",
+            "ወንድሜ ምግብ አበሰለች።"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ለሴት ባለቤት «ናት» የሚለው ማሰሪያ አንቀጽ ጥቅም ላይ ይውላል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u2-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ለተባዕታይ ባለቤት (ለምሳሌ አባት ወይም ወንድም) ትክክለኛውን ሰዋሰዋዊ አረፍተ ነገር ይምረጡ:",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (2.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (2.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (2.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (2.2.x3)"
+            "አባቴ ደግ ሰው ነው። (My father is a kind man - Correct masculine structure)",
+            "አባቴ ቆንጆ እናት ናት።",
+            "ወንድሜ አዲስ ቀሚስ ለበሰች።",
+            "እህቴ ጎበዝ ገበሬ ነው።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (2.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (2.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (2.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (2.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«አባቴ ደግ ሰው ነው» ተባዕታይ ጾታን በትክክል የጠበቀ አረፍተ ነገር ነው።"
         }
       ]
     },
@@ -1135,24 +1088,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 2-2):",
+          "prompt": "በአማርኛ ቋንቋ የጾታ አጠቃቀምን በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (2.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (2.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (2.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (2.2.z3)"
+            "ለተባዕታይ (ወንድ) «ነው»፣ ለአንስታይ (ሴት) «ናት» ጥቅም ላይ ይውላል።",
+            "ለወንድና ለሴት ሁልጊዜ «ነው» ብቻ ይባላል።",
+            "ለሴት «ነህ» ተብሎ ይጠየቃል።",
+            "በአማርኛ የስም ጾታ ልዩነት የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "በአማርኛ ለተባዕታይ «ነው»፣ ለአንስታይ «ናት» ጥቅም ላይ ይውላል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u2-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «መሰረታዊ»):",
+          "prompt": "'እናት / Mother' የሚለውን የአማርኛ ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "መሰረታዊ",
-            "መሰረታዊ"
+            "እናት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «መሰረታዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «እናት» (Ennat) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -1163,85 +1115,62 @@
     "subject": "amharic",
     "unit": 2,
     "lessonNumber": 3,
-    "title": "መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles) (ክፍል 3)",
+    "title": "የስሞች ቁጥር፡ ነጠላ እና ብዙ ቁጥር (Noun Pluralization with -ኦች / -ዎች)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የዕለት ተዕለት ስሞች፣ የጾታ እና የቁጥር ልዩነት፣ እና የአማርኛ ወሳኝ መስተፃምሮች (-ው/-ዋ)። (ክፍል 3)።",
+    "objective": "የስሞችን ብዙ ቁጥር በቅጥያዎች (-ኦች / -ዎች) መመስረት እና ከቁጥሮች ጋር ሲጣመሩ ስሞች ነጠላ ሆነው እንደሚቀጥሉ መረዳት።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የስሞች ቁጥር፡ ነጠላ እና ብዙ ቁጥር:\n\n፩. የብዙ ቁጥር ቅጥያዎች (-ኦች እና -ዎች):\n- በተነባቢ ለሚያልቁ ስሞች «-ኦች» ይቀጠላል:\n  - ቤት -> ቤቶች\n  - መጽሐፍ -> መጽሐፎች\n  - ሰው -> ሰዎች\n  - ወንበር -> ወንበሮች\n  - በር -> በሮች\n- በአናባቢ ለሚያልቁ ስሞች «-ዎች» ይቀጠላል:\n  - ተማሪ -> ተማሪዎች\n  - ውሻ -> ውሾች / ውሻዎች\n  - ፎቶ -> ፎቶዎች\n\n፪. ከቁጥሮች ጋር የሚደረግ አጠቃቀም:\n- በአማርኛ ከቁጥር (መጠነ-ቁጥር) በኋላ የሚመጣ ስም በነጠላ ቅርጽ ይቆያል:\n  - «አንድ መጽሐፍ»\n  - «ሁለት መጽሐፍ» (ሁለት መጽሐፎች አይባልም)\n  - «አምስት ቤት»\n  - «ብዙ ሰዎች» ወይም «ብዙ ሰው»።\n\n፫. የብዙ ቁጥር ማሰሪያ አንቀጽ:\n- ለብዙ ቁጥር «ናቸው» ጥቅም ላይ ይውላል (እነዚህ አዳዲስ መጽሐፎች ናቸው)።",
       "examples": [
         {
-          "target": "መምህሩ የ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (2.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)' to the students."
+          "target": "በክፍሉ ውስጥ ብዙ ወንበሮች እና ጠረጴዛዎች አሉ።",
+          "reading": "Bäkəfəlu wəst’ bəzu wänbäročč ənna t’äräp’p’ezawočč allu. [bɨkɨfɨˈlu wɨstʼ bɨˈzu wɨnbɛˈrotʃː ɨnːa tʼɛrɛpʼezaˈwotʃː alːu] (buh-kuh-foo-LOO woos-T' buh-ZOO wun-beh-ROHCH-ch un-nah t'eh-rep'-pay-zah-WOHCH-ch ahl-LOO)",
+          "translation": "There are many chairs and tables inside the room."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (2.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ተማሪዎቹ በትምህርት ቤቱ ቅጥር ግቢ ውስጥ ተሰብስበዋል።",
+          "reading": "Tämariwočču bätəməhərt betu qət’ər gəbbi wəst’ täsäbsəbäwal. [tɛmariwoˈtʃːu bɨtɨmˈhɨrt beˈtu kʼɨˈtʼɨr ɡɨbːi wɨstʼ tɨsɛbsɨˈbɛwal] (teh-mah-ree-wohch-CHOO buh-tum-HURT bay-TOO k'uh-T'UR gub-BEE woos-T' tuh-sub-suh-BEW-wahl)",
+          "translation": "The students have gathered inside the school compound."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (2.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (2.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እኔ ሁለት መጽሐፍ እና ሦስት እስክሪብቶ አለኝ።",
+          "reading": "Əne hulät mäs’haf ənna sost əskəribto alläny. [ɨˈne huˈlɛt mɨsˤˈhaf ɨnːa sost ɨskɨribˈto alːɨɲ] (uh-NAY hoo-LET mus'-HAHF un-nah sohst us-kuh-reeb-TOH ahl-LUH-ny)",
+          "translation": "I have two books and three pens."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Plural Rule: Consonant + ኦች (ቤቶች), Vowel + ዎች (ተማሪዎች), Numbers + Singular noun (ሁለት ቤት)!"
+      ],
+      "culturalNotes": [
+        "በአማርኛ ቋንቋ ቁጥር ከተጠቀሰ በኋላ ስምን ነጠላ ማድረግ የተለመደ ሰዋሰዋዊ ህግ ነው (ለምሳሌ: አሥር ብር እንጂ አሥር ብሮች አይባልም)።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«ቤት» (House) የሚለውን ነጠላ ስም ወደ ብዙ ቁጥር ለመቀየር ትክክለኛው ቅጥያ የትኛው ነው?",
           "options": [
-            "መምህሩ የ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (2.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (2.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (2.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (2.3.w3)"
+            "ቤቶች (Houses - Correct plural with -och)",
+            "ቤታን",
+            "ቤትዎች",
+            "ቤቲን"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ቤት» በተነባቢ ስለሚያልቅ «-ኦች» ተጨምሮ «ቤቶች» ይሆናል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u2-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ከሚከተሉት ውስጥ ከቁጥር ጋር በትክክል የተዋቀረውን የአማርኛ አረፍተ ነገር ይምረጡ:",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (2.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (2.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (2.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (2.3.x3)"
+            "በጠረጴዛው ላይ ሦስት ደብተር አለ። (There are three notebooks on the table - Correct numeral + singular noun)",
+            "በጠረጴዛው ላይ ሦስት ደብተሮች አለ።",
+            "አንድ ቤቶች አየሁ።",
+            "ብዙ መጽሐፍቶች አሉ።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (2.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (2.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (2.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (2.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "በአማርኛ ከቁጥር በኋላ ስም በነጠላ ይመጣል (ሦስት ደብተር)።"
         }
       ]
     },
@@ -1249,24 +1178,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 2-3):",
+          "prompt": "ለብዙ ቁጥር ስሞች የሚያገለግለው ትክክለኛው የማሰሪያ አንቀጽ (Copula) የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (2.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (2.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (2.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (2.3.z3)"
+            "እነዚህ ጎበዝ ተማሪዎች ናቸው። (These are excellent students - Correct plural copula)",
+            "እነዚህ ጎበዝ ተማሪዎች ነው",
+            "እነዚህ ጎበዝ ተማሪዎች ናት",
+            "እነዚህ ጎበዝ ተማሪዎች ነኝ"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "ለብዙ ቁጥር «ናቸው» (They are) ጥቅም ላይ ይውላል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u2-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «መሰረታዊ»):",
+          "prompt": "'ሰዎች / People' የሚለውን የብዙ ቁጥር ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "መሰረታዊ",
-            "መሰረታዊ"
+            "ሰዎች"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «መሰረታዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ሰዎች» (Säwočč) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -1277,85 +1205,62 @@
     "subject": "amharic",
     "unit": 2,
     "lessonNumber": 4,
-    "title": "መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles) (ክፍል 4)",
+    "title": "የአማርኛ ወሳኝ መስተፃምሮች እና አመልካች ቅጥያዎች (The Definite Suffixes -ኡ/-ው and -ዋ/-ይቱ)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የዕለት ተዕለት ስሞች፣ የጾታ እና የቁጥር ልዩነት፣ እና የአማርኛ ወሳኝ መስተፃምሮች (-ው/-ዋ)። (ክፍል 4)።",
+    "objective": "ስሞችን ወሳኝ (Definite) የማድረጊያ ቅጥያዎችን (-ኡ/-ው ለተባዕታይ፣ -ዋ/-ይቱ ለአንስታይ፣ -ኦቹ/-ዎቹ ለብዙ ቁጥር) አጠቃቀም ማወቅ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የአማርኛ ወሳኝ መስተፃምሮች (Definite Article Suffixes):\n\nበአማርኛ ቋንቋ እንግሊዝኛው 'The' የሚተካው በስሙ መጨረሻ ላይ በሚጨመሩ ቅጥያዎች ነው:\n\n፩. የተባዕታይ ወሳኝ ቅጥያ (-ኡ እና -ው):\n- በተነባቢ ለሚያልቁ ስሞች «-ኡ» ይቀጠላል:\n  - ቤት -> ቤቱ\n  - መጽሐፍ -> መጽሐፉ\n  - ልጅ -> ልጁ\n- በአናባቢ ለሚያልቁ ስሞች «-ው» ይቀጠላል:\n  - ውሻ -> ውሻው\n  - ወንበር -> ወንበሩ\n  - ፎቶ -> ፎቶው\n\n፪. የአንስታይ ወሳኝ ቅጥያ (-ዋ እና -ይቱ/-ኢቷ):\n- ልጅ -> ልጇ ወይም ልጅቷ / ልጅይቱ\n- እናት -> እናቷ ወይም እናቲቱ\n- ድመት -> ድመቷ ወይም ድመቲቷ\n\n፫. የብዙ ቁጥር ወሳኝ ቅጥያ (-ኦቹ እና -ዎቹ):\n- ቤቶች -> ቤቶቹ\n- መጽሐፎች -> መጽሐፎቹ\n- ተማሪዎች -> ተማሪዎቹ",
       "examples": [
         {
-          "target": "መምህሩ የ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (2.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)' to the students."
+          "target": "ቤቱ በጣም ሰፊ ነው፣ በሩ እና መስኮቶቹ አዳዲስ ናቸው።",
+          "reading": "Betu bətam säfi näw, bäru ənna mäskotočču addaddis naččäw. [beˈtu bɨˈtʼam sɨˈfi nɛw bɛˈru ɨnːa mɛskotoˈtʃːu adːadˈdis natʃːɛw] (bay-TOO buh-TAHM seh-FEE neh, beh-ROO un-nah mes-koh-tohch-CHOO ahd-dahd-DEES nahch-CHEW)",
+          "translation": "The house is very spacious; the door and the windows are brand new."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (2.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ልጅቷ ወደ ትምህርት ቤት ሄደች፣ መጽሐፏንም ይዛለች።",
+          "reading": "Ləjətwa wädä təməhərt bet hedäčč, mäs’hafwanəm yəzalläčč. [lɨdʒɨtˈwa wɛdɛ tɨmˈhɨrt bet heˈdɛtʃː mɨsˤhafwaˈnɨm jɨzalːɛtʃː] (luh-jut-WAH weh-DEH tum-HURT bayt hay-DECH, mus'-hahf-wah-NUM yuh-zahl-LECH)",
+          "translation": "The girl went to school, and she is holding her book."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (2.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (2.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "መጽሐፉ ጠረጴዛው ላይ ነው፣ እባክህ አምጣልኝ።",
+          "reading": "Mäs’hafu t’äräp’p’ezaw lay näw, əbakəh amt’alləny. [mɨsˤˈhafu tʼɛrɛpʼeˈzaw laj nɛw ɨˈbakɨh amˈtʼalːɨɲ] (mus'-HAH-foo t'eh-rep'-pay-ZAH-oo lie neh, uh-BAH-kuh ahm-T'AHL-luh-ny)",
+          "translation": "The book is on the table, please bring it to me."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Definite Suffixes: Masc = -ኡ/-ው (ቤቱ/ውሻው), Fem = -ዋ/-ቷ (ልጅቷ), Plural = -ኦቹ/-ዎቹ (ቤቶቹ)!"
+      ],
+      "culturalNotes": [
+        "በአማርኛ ስሞች ወሳኝ ሲሆኑ ቅጥያው በቀጥታ ከስሙ ጋር ይያያዛል፤ ይህም ንግግርን አጭርና ግልጽ ያደርገዋል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«መጽሐፍ» (Book) የሚለውን ቃል 'The book' ለማለት ትክክለኛው የወሳኝ ቅጥያ የትኛው ነው?",
           "options": [
-            "መምህሩ የ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (2.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (2.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (2.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (2.4.w3)"
+            "መጽሐፉ (The book - Correct masculine definite suffix -u)",
+            "መጽሐፍዋ",
+            "መጽሐፍኦች",
+            "መጽሐፍና"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«መጽሐፍ» በተነባቢ ስለሚያልቅ «-ኡ» ተጨምሮበት «መጽሐፉ» (The book) ይሆናል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u2-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "«ልጅ» (Child/Girl) ለሴት ልጅ 'The girl' ለማለት ትክክለኛው የአንስታይ ወሳኝ ቅጽ የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (2.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (2.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (2.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (2.4.x3)"
+            "ልጅቷ / ልጇ (The girl - Correct feminine definite forms)",
+            "ልጁ",
+            "ልጆች",
+            "ልጃቸው"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (2.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (2.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (2.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (2.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ለሴት ልጅ «ልጅቷ» ወይም «ልጇ» (The girl) ይባላል።"
         }
       ]
     },
@@ -1363,24 +1268,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 2-4):",
+          "prompt": "የብዙ ቁጥር ስሞችን ወሳኝ (Definite Plural) የማድረጊያ ቅጥያ በትክክል ያሳየው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (2.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (2.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (2.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (2.4.z3)"
+            "ቤቶቹ (The houses - Correct plural definite suffix -ochu)",
+            "ቤቱዋ",
+            "ቤትዎች",
+            "ቤታቸው"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "«ቤቶች» በሚለው የብዙ ቁጥር ላይ «-ኡ» ሲጨመር «ቤቶቹ» (The houses) ይሆናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u2-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «መሰረታዊ»):",
+          "prompt": "'ቤቱ / The house' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "መሰረታዊ",
-            "መሰረታዊ"
+            "ቤቱ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «መሰረታዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ቤቱ» (Betu) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -1391,85 +1295,62 @@
     "subject": "amharic",
     "unit": 2,
     "lessonNumber": 5,
-    "title": "መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles) (ክፍል 5)",
+    "title": "የክፍል 2 አጠቃላይ ማጠቃለያ (Unit 2 Grand Synthesis & Everyday Noun Mastery)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የዕለት ተዕለት ስሞች፣ የጾታ እና የቁጥር ልዩነት፣ እና የአማርኛ ወሳኝ መስተፃምሮች (-ው/-ዋ)። (ክፍል 5)።",
+    "objective": "የቤት ውስጥ ቁሳቁሶችን፣ የስሞችን ጾታና ቁጥር፣ እንዲሁም ወሳኝ ቅጥያዎችን (-ው/-ኡ/-ዋ/-ዎቹ) በማቀናጀት የተሟሉ ዓረፍተ ነገሮችን መገንባት።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፪ አጠቃላይ ሰዋሰዋዊ ውህደትና ማጠቃለያ:\n\n፩. የዕቃዎች መጠሪያ እና አመልካች ቃላት:\n- ይህ (ይህ ቤት), ይህች (ይህች ወንበር), ያ (ያ ጠረጴዛ), ያቺ (ያቺ በር), እነዚህ (እነዚህ መጻሕፍት), እነዚያ (እነዚያ ቤቶች)።\n\n፪. የስሞች ጾታ:\n- ተባዕታይ ስሞች «ነው» ማሰሪያ አንቀጽ ይወስዳሉ (ወንድሜ ጎበዝ ነው)።\n- አንስታይ ስሞች «ናት» ማሰሪያ አንቀጽ ይወስዳሉ (እህቴ ብልህ ናት)።\n\n፫. የነጠላ እና የብዙ ቁጥር ስርዓት:\n- በተነባቢ ለሚያልቁ «-ኦች» (ቤቶች፣ መጽሐፎች)።\n- በአናባቢ ለሚያልቁ «-ዎች» (ተማሪዎች፣ ውሻዎች)።\n- ከቁጥሮች በኋላ ስም በነጠላ ይቀመጣል (አራት ወንበር)።\n\n፬. ወሳኝ ቅጥያዎች:\n- ተባዕታይ: -ኡ / -ው (መጽሐፉ፣ ውሻው)።\n- አንስታይ: -ዋ / -ቷ (ልጅቷ፣ እህቷ)።\n- ብዙ ቁጥር: -ኦቹ / -ዎቹ (ተማሪዎቹ፣ ቤቶቹ)።",
       "examples": [
         {
-          "target": "መምህሩ የ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (2.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)' to the students."
+          "target": "እነዚህ አዳዲስ ቤቶች በጣም ያምራሉ፣ በሮቹም ጠንካራ ናቸው።",
+          "reading": "Ənnäzzih addaddis betočč bətam yamralu, bäroččum t’änk’arra naččäw. [ɨnːɛzːih adːadˈdis beˈtotʃː bɨˈtʼam jamˈralu bɛroˈtʃːum tʼɛnkʼarːa natʃːɛw] (un-nez-ZEE-h ahd-dahd-DEES bay-TOHCH buh-TAHM yahm-RAH-loo, beh-rohch-CHOOM t'un-k'ahr-RAH nahch-CHEW)",
+          "translation": "These new houses are very beautiful, and their doors are strong."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (2.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ልጁ መጽሐፉን አነበበ፣ እህቱም ደብተሯን ጻፈች።",
+          "reading": "Ləju mäs’hafun anäbbäbä, əhətum däbtärwan s’afäčč. [lɨˈdʒu mɨsˤhaˈfun anɨbːɛˈbɛ ɨhɨˈtum dɛbtɛrˈwan sˤafɛtʃː] (luh-JOO mus'-hah-FOON ah-nub-buh-BEH, uh-huh-TOOM deb-ter-WAHN ts'ah-FECH)",
+          "translation": "The boy read the book, and his sister wrote in her notebook."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (2.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (2.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ይህች አዲስ ጠረጴዛ ናት፣ ወንበሮቹም አብረው ተቀምጠዋል።",
+          "reading": "Yəhəčč addis t’äräp’p’eza nat, wänbäroččum abrstyle täqämt’äwal. [jɨˈhɨtʃː adˈdis tʼɛrɛpʼˈpʼeza nat wɨnbɛroˈtʃːum abˈrɛw tɨkʼɛmtʼɛwal] (yuh-HUCH-ch ahd-DEES t'eh-rep'-PAY-zah naht, wun-beh-rohch-CHOOM ahb-REW tuh-k'em-T'EW-wahl)",
+          "translation": "This is a new table, and the chairs are placed together with it."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Synthesis formula: Demonstrative (ይህ/ይህች) + Definite Noun (ቤቱ/ልጅቷ) + Adjective (ትልቅ/ቆንጆ) + Copula (ነው/ናት/ናቸው)!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ ማህበረሰብ በጋራ የመኖርና የመረዳዳት ባህል ያለው እንደመሆኑ፣ የቤት ንብረትንና ቁሳቁስን በጋራ መጠቀም የተለመደ እሴት ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«ይህች አዲስ ጠረጴዛ ናት» በሚለው አረፍተ ነገር ውስጥ ትክክለኛው ሰዋሰዋዊ ትንተና የትኛው ነው?",
           "options": [
-            "መምህሩ የ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (2.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (2.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (2.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (2.5.w3)"
+            "«ይህች» አንስታይ አመልካች ሲሆን «ናት» የአንስታይ ማሰሪያ አንቀጽ ነው። (Correct feminine demonstrative and copula agreement)",
+            "«ይህች» ለብዙ ቁጥር ብቻ ያገለግላል።",
+            "«ናት» የተባዕታይ ማሰሪያ አንቀጽ ነው።",
+            "አረፍተ ነገሩ ሰዋሰዋዊ ስህተት አለበት።"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ይህች» እና «ናት» የአንስታይ ጾታ ስምምነትን በትክክል የጠበቁ ናቸው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u2-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ከሚከተሉት ውስጥ የጾታ፣ የቁጥር እና የወሳኝ ቅጥያ ህጎችን ሙሉ በሙሉ የጠበቀው አረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (2.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (2.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (2.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (2.5.x3)"
+            "ተማሪዎቹ በመማሪያ ክፍሉ ውስጥ መጽሐፎቹን ያነባሉ። (The students read the books in the classroom - Correct full syntax)",
+            "ተማሪዎቹ መጽሐፉ ያነባል እሷ።",
+            "ይህ ወንበሮች ናት።",
+            "ሦስት ቤቶች መጣ።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (2.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (2.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (2.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (2.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ተማሪዎቹ በመማሪያ ክፍሉ ውስጥ መጽሐፎቹን ያነባሉ» ትክክለኛ ሰዋሰዋዊ መዋቅር ነው።"
         }
       ]
     },
@@ -1477,24 +1358,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 2-5):",
+          "prompt": "የክፍል 2ን ዋና ዋና ሰዋሰዋዊ መርሆዎች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (2.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (2.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (2.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (2.5.z3)"
+            "በአማርኛ ስሞች በጾታ (ተባዕታይ/አንስታይ)፣ በቁጥር (-ኦች/-ዎች) እና በወሳኝ ቅጥያዎች (-ኡ/-ው፣ -ዋ/-ቷ፣ -ኦቹ) ይረባሉ።",
+            "በአማርኛ ስሞች ምንም አይነት ቅጥያ አይወስዱም።",
+            "ለብዙ ቁጥር ሁልጊዜ «ናት» ጥቅም ላይ ይውላል።",
+            "ከቁጥር በኋላ ስሞች ሁልጊዜ ብዙ ቁጥር መሆን አለባቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "በአማርኛ ስሞች በጾታ፣ በቁጥር እና በወሳኝ ቅጥያዎች በትክክል ይረባሉ።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u2-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «መሰረታዊ»):",
+          "prompt": "'ጠረጴዛ / Table' የሚለውን የአማርኛ ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "መሰረታዊ",
-            "መሰረታዊ"
+            "ጠረጴዛ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «መሰረታዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ጠረጴዛ» (T'äräp'p'eza) ነው።"
         }
       ],
       "passThreshold": 0.8
