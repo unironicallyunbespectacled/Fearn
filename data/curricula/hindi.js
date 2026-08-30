@@ -3765,53 +3765,62 @@
     "subject": "hindi",
     "unit": 9,
     "lessonNumber": 1,
-    "title": "अनिवार्यता और चाहिए संरचनाएं (Obligation with चाहिए) (Part 1)",
+    "title": "संज्ञा के साथ 'चाहिए' की मूल संरचना (कर्ता + को + संज्ञा + चाहिए: Want / Need)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.1) with authentic linguistic precision.",
+    "objective": "इच्छा या आवश्यकता (Want / Need) व्यक्त करने हेतु संप्रदान कर्ता (Dative Subject — कर्ता + को) के साथ 'चाहिए' की वाक्य रचना और सर्वनाम रूपांतरणों में प्रवीणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में 'मुझे यह वस्तु चाहिए' (I want / I need X) व्यक्त करने के लिए कर्ता के साथ अनिवार्य रूप से **'को'** परसर्ग लगता है:\n\n1. निर्माण का मूल सूत्र:\n   - **[कर्ता + को] + [आवश्यक वस्तु / संज्ञा] + चाहिए**\n\n2. संप्रदान सर्वनामों के रूप:\n   - मैं + को = **मुझे** (I need / want)\n   - तू + को = **तुझे** (You need / want)\n   - तुम + को = **तुम्हें** (You need / want)\n   - आप + को = **आपको** (You need / want [आदर])\n   - हम + को = **हमें** (We need / want)\n   - वह + को = **उसे** (He/She needs / wants)\n   - यह + को = **इसे** (This person needs / wants)\n   - वे + को = **उन्हें** (They need / want)\n   - ये + को = **इन्हें** (These people need / want)\n   - कौन + को = **किसे** (Who needs / wants)।\n\n3. संज्ञाओं के साथ 'को':\n   - राम को, बच्चों को, छात्रों को, मेहमानों को।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 9.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 9."
+          "target": "मुझे इस समय आगामी वार्षिक परीक्षा की तैयारी के लिए एक शांत कमरा चाहिए।",
+          "reading": "mujhe is samay aagaami vaarshik pareeksha ki taiyaari ke liye ek shaant kamra chaahiye. [mʊdʒʱeː ɪs səməj aːɡaːmiː ʋaːrʂɪk pəriːkʃaː kiː t̪ɛːjaːriː keː lɪjeː eːk ʃaːn̪t̪ kəmraː tʃaːɦɪjeː] (MOO-jhay ees suh-MUHY ah-gah-MEE VAHR-sheek puh-REEK-shah kee ty-YAH-ree kay lee-ay ayk shahnt KUHM-rah CHAH-hee-yay)",
+          "translation": "I need a quiet room at this time for preparation of the upcoming annual examination."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 9-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "क्या आपको दफ़्तर के इस महत्वपूर्ण और जटिल काम को पूरा करने के लिए अतिरिक्त समय चाहिए?",
+          "reading": "kya aapko daftar ke is mahatvapoorna aur jatil kaam ko poora karne ke liye atirikt samay chaahiye? [kjaː aːpkoː d̪əft̪ər keː ɪs məɦət̪ʋəpuːrɳə ɔːr dʒəʈɪl kaːm koː puːraː kərneː keː lɪjeː ət̪ɪrɪkt̪ səməj tʃaːɦɪjeː] (kyah ahp-KOH DUHF-tuhr kay ees muh-huht-vuh-POOR-nuh owr JUH-teel kahm koh POO-rah KUHR-nay kay lee-ay uh-tee-REEKT suh-MUHY CHAH-hee-yay)",
+          "translation": "Do you need additional time to complete this important and complex office work?"
+        },
+        {
+          "target": "अस्पताल में भर्ती बीमार मरीज़ को तुरंत ताज़ा पौष्टिक भोजन और आवश्यक दवाइयाँ चाहिए।",
+          "reading": "aspataal mein bharti beemaar mareez ko turant taaza paushtik bhojan aur aavashyak davaaiyaan chaahiye. [əspət̪aːl mẽː bʱərt̪iː biːmaːr məriːz koː t̪ʊrən̪t̪ t̪aːzaː pɔːʂʈɪk bʱoːdʒən ɔːr aːʋəʃjək d̪əʋaːɪjaː̃ tʃaːɦɪjeː] (uhs-puh-TAHL mayn bhuhr-TEE bee-MAHR muh-REEZ koh TOO-ruhnt TAH-zah powsh-TEEK BHOJ-uhn owr ah-vuhsh-YUHK duh-vah-EE-yahn CHAH-hee-yay)",
+          "translation": "The sick patient admitted in the hospital immediately needs fresh nutritious food and essential medicines."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Want/Need = कर्ता + 'को' + चाहिए! मैं चाहता हूँ = मुझे चाहिए; आप चाहते हैं = आपको चाहिए!"
+      ],
+      "culturalNotes": [
+        "दुकान पर सामान माँगते समय 'मुझे दो किलो सेब चाहिए' कहना अत्यंत स्वाभाविक और मानक शिष्टाचार है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"घर\":",
+          "prompt": "वाक्य «I need a pen» के लिए शुद्ध व्याकरणिक हिंदी अनुवाद क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 9.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कमरा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («रसोई» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («खिड़की» का अनुचित स्थान)"
+            "मुझे एक कलम चाहिए (Mujhe ek kalam chaahiye - I need a pen)",
+            "मैं एक कलम चाहिए",
+            "मुझको कलम चाहती हूँ",
+            "मेरा एक कलम चाहिए"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "'I need' के लिए संप्रदान कारक «मुझे» और क्रिया «चाहिए» का प्रयोग होता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"घर\":",
+          "prompt": "सर्वनाम 'हम' के साथ 'चाहिए' का सही कर्ता रूप क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 9.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («रसोई» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («खिड़की» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कमरा» का अशुद्ध रूप)"
+            "हमें (Humein - We in dative)",
+            "हम",
+            "हमारा",
+            "हमको ने"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'हम + को' का मानक संप्रदान रूप «हमें» होता है।"
         }
       ]
     },
@@ -3819,17 +3828,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"घर\": Which sentence is completely correct?",
+          "prompt": "संज्ञा के साथ 'चाहिए' की सही संरचना वाला वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 9.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («खिड़की» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कमरा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («रसोई» से संबंधित)"
+            "पुस्तकालय से सभी छात्रों को अध्ययन के लिए नई पुस्तकें चाहिए। (All students need new books for study from the library.)",
+            "सभी छात्र नई पुस्तकें चाहिए।",
+            "छात्रों ने पुस्तकें चाहिए।",
+            "छात्रों का पुस्तकें चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«छात्रों को नई पुस्तकें चाहिए» में कर्ता के साथ 'को' और आवश्यक वस्तु के साथ 'चाहिए' का समन्वय शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u9-l2": {
@@ -3837,53 +3847,62 @@
     "subject": "hindi",
     "unit": 9,
     "lessonNumber": 2,
-    "title": "अनिवार्यता और चाहिए संरचनाएं (Obligation with चाहिए) (Part 2)",
+    "title": "क्रियार्थक संज्ञा के साथ 'चाहिए' (कर्ता + को + क्रिया-ना + चाहिए: Should / Ought to)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.2) with authentic linguistic precision.",
+    "objective": "कर्तव्य, सलाह और नैतिक दायित्व (Should / Ought to) को व्यक्त करने हेतु 'कर्ता + को + क्रिया-ना + चाहिए' की संरचना तथा कर्म के लिंग-वचन अनुसार क्रियार्थक संज्ञा (-ना/-नी/-ने) के समन्वय को सीखना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "किसी को कोई कार्य करने की सलाह (Advice), कर्तव्य (Duty) या नैतिक दायित्व (Ought to) बताने के लिए 'चाहिए' का प्रयोग क्रियार्थक संज्ञा (Infinitive) के साथ होता है:\n\n1. निर्माण का सूत्र:\n   - **[कर्ता + को] + [कर्म] + [क्रिया-ना / -नी / -ने] + चाहिए**\n\n2. क्रियार्थक संज्ञा का कर्म-अन्वय (Infinitive-Object Agreement):\n   - **पुल्लिंग कर्म**: क्रिया अंत में *'-ना'* लेगी:\n     - आपको रोज़ व्यायाम **करना चाहिए** (व्यायाम = पु. → करना चाहिए)।\n   - **स्त्रीलिंग कर्म**: क्रिया अंत में *'-नी'* लेगी:\n     - हमें हिंदी **सीखनी चाहिए** (हिंदी = स्त्री. → सीखनी चाहिए);\n     - छात्रों को अच्छी पुस्तकें **पढ़नी चाहिए** (पुस्तकें = स्त्री. → पढ़नी चाहिए)।\n   - **पुल्लिंग बहुवचन कर्म**: क्रिया अंत में *'-ने'* लेगी:\n     - उसे नए कपड़े **खरीदने चाहिए**।\n   - **अकर्मक क्रिया (कर्म रहित)**: क्रिया तटस्थ रूप *'-ना'* में रहेगी:\n     - आपको समय पर **सोना चाहिए**।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 9.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 9."
+          "target": "हमें प्रतिदिन अपने स्वास्थ्य को उत्तम बनाए रखने के लिए शुद्ध और ताज़ा पानी पीना चाहिए।",
+          "reading": "humein pratidin apne svaasthya ko uttam banaye rakhne ke liye shuddh aur taaza paani peena chaahiye. [ɦəmẽː prət̪ɪd̪ɪn əpneː sʋaːst̪ʰjə koː ʊt̪ːəm bənaːeː rəkʰneː keː lɪjeː ʃʊd̪ːʱ ɔːr t̪aːzaː paːniː piːnaː tʃaːɦɪjeː] (hoo-MAYN pruh-tee-DEEN uhp-NAY SVAHS-thyuh koh OOT-tuhm buh-nah-AY RUHKH-nay kay lee-ay SHOOD-dh owr TAH-zah PAH-nee PEE-nah CHAH-hee-yay)",
+          "translation": "We should drink pure and fresh water daily to maintain our health in excellent condition."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 9-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "सभी सजग नागरिकों को अपने देश के संविधान और यातायात के नियमों का सम्मानपूर्वक पालन करना चाहिए।",
+          "reading": "sabhi sajag naagrikon ko apne desh ke samvidhaan aur yaataayaat ke niyamon ka sammaanpoorvak paalan karna chaahiye. [səbʱiː sədʒəɡ naːɡrɪkõː koː əpneː d̪eːʃ keː səmʋɪd̪ʱaːn ɔːr jaːt̪aːjaːt̪ keː nɪjəmõː kaː səmːaːnpuːrʋək paːlən kərnaː tʃaːɦɪjeː] (SUH-bhee suh-JAHG nahg-ree-KOHN koh uhp-NAY daysh kay suhm-vee-DHAHN owr yah-tah-YAHT kay NEE-yuh-mohn kah suhm-mahn-POOR-vuhk PAH-luhn KUHR-nah CHAH-hee-yay)",
+          "translation": "All conscious citizens should respectfully obey the constitution of their country and traffic rules."
+        },
+        {
+          "target": "ज्ञान और भाषा कौशल बढ़ाने के लिए छात्रों को पुस्तकालय से अच्छी पुस्तकें पढ़नी चाहिए।",
+          "reading": "gyan aur bhasha kaushal badhaane ke liye chhaatron ko pustakaalay se achhi pustakein padhni chaahiye. [ɡjaːn ɔːr bʱaːʂaː kɔːʃəl bəɽʱaːneː keː lɪjeː tʃʰaːt̪rõː koː pʊst̪əkaːləj seː ətʃːʰiː pʊst̪əkẽː pəɽʱniː tʃaːɦɪjeː] (gyahn owr BHAH-shah KOW-shuhl buh-dhah-NAY kay lee-ay CHHAH-trohn koh poos-tuh-KAH-luy say UHTCH-chee POOS-tuh-kayn PUHDH-nee CHAH-hee-yay)",
+          "translation": "To enhance knowledge and language skills, students should read good books from the library."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Should do = कर्ता + 'को' + क्रिया-ना + चाहिए! कर्म स्त्री है तो क्रिया-नी (पुस्तक पढ़नी चाहिए)!"
+      ],
+      "culturalNotes": [
+        "बड़ों का आदर करना चाहिए ('बड़ों का सम्मान करना चाहिए') भारतीय संस्कारों का मूलभूत नैतिक उपदेश है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"कमरा\":",
+          "prompt": "स्त्रीलिंग कर्म 'भाषा' के साथ 'सीखना चाहिए' का शुद्ध व्याकरणिक रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 9.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («रसोई» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («खिड़की» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दरवाज़ा» का अनुचित स्थान)"
+            "भाषा सीखनी चाहिए (Bhasha seekhni chaahiye - Should learn the language)",
+            "भाषा सीखना चाहिए",
+            "भाषा सीखने चाहिए",
+            "भाषा सीखता चाहिए"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "स्त्रीलिंग कर्म 'भाषा' के साथ क्रियार्थक संज्ञा का रूप «सीखनी चाहिए» बनता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"कमरा\":",
+          "prompt": "वाक्य «आपको समय पर घर ___ चाहिए» में उचित अकर्मक क्रिया भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 9.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («खिड़की» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दरवाज़ा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («रसोई» का अशुद्ध रूप)"
+            "पहुँचना (Pahunchna chaahiye - You should reach home on time)",
+            "पहुँचनी",
+            "पहुँचने",
+            "पहुँचता"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "अकर्मक क्रिया में क्रियार्थक संज्ञा का मानक रूप «पहुँचना चाहिए» (तटस्थ पुल्लिंग एकवचन) होता है।"
         }
       ]
     },
@@ -3891,17 +3910,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"कमरा\": Which sentence is completely correct?",
+          "prompt": "क्रियार्थक संज्ञा के सही अन्वय वाला नैतिक सलाह का वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 9.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दरवाज़ा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («रसोई» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («खिड़की» से संबंधित)"
+            "हमें सदैव सच बोलना चाहिए और सबकी सहायता करनी चाहिए। (We should always speak the truth and help everyone.)",
+            "हमको सच बोलनी चाहिए और सहायता करना चाहिए।",
+            "हम सच बोलना चाहिए।",
+            "हमें सच बोलता चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«सच बोलना चाहिए» (सच पु.) और «सहायता करनी चाहिए» (सहायता स्त्री.) दोनों का अन्वय पूर्णतः शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u9-l3": {
@@ -3909,53 +3929,62 @@
     "subject": "hindi",
     "unit": 9,
     "lessonNumber": 3,
-    "title": "अनिवार्यता और चाहिए संरचनाएं (Obligation with चाहिए) (Part 3)",
+    "title": "अतीत में कर्तव्य / पछतावा (चाहिए था / चाहिए थे / चाहिए थी / चाहिए थीं: Should have)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.3) with authentic linguistic precision.",
+    "objective": "भूतकालिक कर्तव्य, अनुचित चूक अथवा पछतावे (Should have done) को व्यक्त करने वाले 'चाहिए था / थे / थी / थीं' के अन्वय नियमों में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "अतीत में जो कार्य किया जाना चाहिए था किंतु नहीं किया गया (पछतावा / कर्तव्य — Should have done), उसे व्यक्त करने के लिए 'चाहिए था' संरचना का प्रयोग होता है:\n\n1. निर्माण का सूत्र:\n   - **[कर्ता + को] + [कर्म] + [क्रिया-ना/-नी/-ने] + [चाहिए था / थे / थी / थीं]**\n\n2. सहायक क्रिया और कर्म का लिंग-वचन समन्वय:\n   - **पुल्लिंग एकवचन कर्म**: *चाहिए था*\n     - आपको यह पत्र **भेजना चाहिए था** (पत्र = पु.एक. → भेजना चाहिए था)।\n   - **पुल्लिंग बहुवचन कर्म**: *चाहिए थे*\n     - उसे सभी कागज़ात **लाने चाहिए थे** (कागज़ात = पु.बहु. → लाने चाहिए थे)।\n   - **स्त्रीलिंग एकवचन कर्म**: *चाहिए थी*\n     - हमें यह बात पहले **समझनी चाहिए थी** (बात = स्त्री.एक. → समझनी चाहिए थी)।\n   - **स्त्रीलिंग बहुवचन कर्म**: *चाहिए थीं* [अनुनासिक]:\n     - मरीज़ को सब दवाइयाँ **लेनी चाहिए थीं** (दवाइयाँ = स्त्री.बहु. → लेनी चाहिए थीं)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 9.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 9."
+          "target": "आपको कल शाम की उस अत्यंत महत्वपूर्ण और ऐतिहासिक बैठक में अवश्य उपस्थित होना चाहिए था।",
+          "reading": "aapko kal shaam ki us atyant mahatvapoorna aur aitihasik baithak mein avashya upasthit hona chaahiye tha. [aːpkoː kəl ʃaːm kiː ʊs ət̪jən̪t̪ məɦət̪ʋəpuːrɳə ɔːr ɛːt̪ɪhaːsɪk bɛːʈʰək mẽː əʋəʃjə ʊpəst̪ʰɪt̪ hoːnaː tʃaːɦɪjeː t̪ʰaː] (ahp-KOH kuhl shahm kee oos uht-YUHNT muh-huht-vuh-POOR-nuh owr ay-tee-HAH-seek BY-thuhk mayn uh-VUHSH-yuh oo-puhs-THEET hoh-NAH CHAH-hee-yay thah)",
+          "translation": "You should definitely have been present in that extremely important and historic meeting yesterday evening."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 9-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "रोहन को कठिन परीक्षा शुरू होने से पहले अपने सभी पुराने पाठों का पुनरावलोकन करना चाहिए था।",
+          "reading": "rohan ko kathin pareeksha shuroo hone se pehle apne sabhi puraane paathon ka punaraavlokan karna chaahiye tha. [roːɦən koː kəʈʰɪn pəriːkʃaː ʃʊruː hoːneː seː pɛɦleː əpneː səbʱiː pʊraːneː paːʈʰõː kaː pʊnəraːʋloːkən kərnaː tʃaːɦɪjeː t̪ʰaː] (ROH-huhn koh KUH-theen puh-REEK-shah shoo-ROO hoh-NAY say PUH-h-lay uhp-NAY SUH-bhee poo-RAH-nay pah-THOHN kah poo-nuh-rahv-LOH-kuhn KUHR-nah CHAH-hee-yay thah)",
+          "translation": "Rohan should have reviewed all his old lessons before the difficult examination started."
+        },
+        {
+          "target": "समस्या बढ़ने से पहले ही हमें किसी अनुभवी विशेषज्ञ डॉक्टर से उचित सलाह लेनी चाहिए थी।",
+          "reading": "samasya badhne se pehle hi humein kisi anubhavi visheshagya doctor se uchit salaah leni chaahiye thi. [səməsjaː bəɽʱneː seː pɛɦleː ɦiː ɦəmẽː kɪsiː ənʊbʱəʋiː ʋɪʃeːʂəɡjə ɖɔːkʈər seː ʊtʃɪt̪ səlaːh leːniː tʃaːɦɪjeː t̪ʰiː] (suh-muhs-YAH buhdh-NAY say PUH-h-lay hee hoo-MAYN kee-SEE uh-noo-bhuh-VEE vee-shay-SHUHG-yuh DAHK-tuhr say OO-cheet suh-LAH LAY-nee CHAH-hee-yay thee)",
+          "translation": "Before the problem escalated, we should have taken proper advice from an experienced specialist doctor."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Should have done = चाहिए था/थे/थी/थीं! सलाह (स्त्री.) = लेनी चाहिए थी; कागज़ (पु.बहु.) = लाने चाहिए थे!"
+      ],
+      "culturalNotes": [
+        "गलती या चूक होने पर शिष्टाचारपूर्वक कहना 'मुझे पहले ही बता देना चाहिए था' (I should have informed earlier) विनम्रता और जिम्मेदारी का परिचायक है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"रसोई\":",
+          "prompt": "स्त्रीलिंग बहुवचन कर्म 'चिट्ठियाँ' के साथ भूतकालिक पछतावे का कौन-सा रूप शुद्ध होगा?",
           "options": [
-            "हम इस पाठ में इकाई 9.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («खिड़की» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दरवाज़ा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («मेज़» का अनुचित स्थान)"
+            "भेजनी चाहिए थीं (Bhejni chaahiye theen - Should have sent [fem. plural])",
+            "भेजना चाहिए था",
+            "भेजने चाहिए थे",
+            "भेजनी चाहिए थी"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "स्त्रीलिंग बहुवचन कर्म 'चिट्ठियाँ' के साथ «भेजनी चाहिए थीं» (अनुनासिक 'थीं') आता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"रसोई\":",
+          "prompt": "वाक्य «उसे यह बात पहले ही ___ चाहिए थी» में सही क्रियार्थक संज्ञा भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 9.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दरवाज़ा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («मेज़» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («खिड़की» का अशुद्ध रूप)"
+            "बतानी (Bataani chaahiye thi - Should have told [fem. singular agreement with baat])",
+            "बताना",
+            "बताने",
+            "बताता"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "कर्म 'बात' स्त्रीलिंग एकवचन है, अतः «बतानी चाहिए थी» रूप होगा।"
         }
       ]
     },
@@ -3963,17 +3992,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"रसोई\": Which sentence is completely correct?",
+          "prompt": "भूतकालिक कर्तव्य (Should have done) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 9.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («मेज़» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («खिड़की» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दरवाज़ा» से संबंधित)"
+            "आपको स्टेशन समय पर पहुँचना चाहिए था ताकि गाड़ी न छूटती। (You should have reached the station on time so that the train was not missed.)",
+            "आप स्टेशन पहुँचना चाहिए था।",
+            "आपको पहुँचना चाहिए थी।",
+            "आपको पहुँचे चाहिए थे।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«आपको पहुँचना चाहिए था» में संप्रदान कर्ता और अकर्मक क्रिया का तटस्थ भूतकालिक अन्वय पूर्णतः शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u9-l4": {
@@ -3981,53 +4011,62 @@
     "subject": "hindi",
     "unit": 9,
     "lessonNumber": 4,
-    "title": "अनिवार्यता और चाहिए संरचनाएं (Obligation with चाहिए) (Part 4)",
+    "title": "नकारात्मक अनिवार्यता और निषेध (नहीं चाहिए vs नहीं करना चाहिए)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.4) with authentic linguistic precision.",
+    "objective": "अस्वीकृति (Don't want) और निषेध/अनुचित कार्य (Should not do) को व्यक्त करने वाले नकारात्मक वाक्यों ('नहीं चाहिए' और 'नहीं करना चाहिए') के सटीक प्रयोग को समझना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "'चाहिए' के साथ नकारात्मक वाक्य दो भिन्न अर्थों में प्रयुक्त होते हैं:\n\n1. वस्तु की अस्वीकृति (Don't want / Don't need):\n   - **[कर्ता + को] + संज्ञा + नहीं चाहिए**\n     - मुझे और चाय **नहीं चाहिए** (I do not want more tea).\n     - धन्यवाद, हमें अतिरिक्त कागज़ **नहीं चाहिए**।\n\n2. नकारात्मक सलाह / नैतिक निषेध (Should NOT do):\n   - **[कर्ता + को] + [कर्म] + [नहीं + क्रिया-ना] + चाहिए** (अथवा क्रिया-ना + नहीं चाहिए)\n     - बच्चों को झूठ **नहीं बोलना चाहिए** (Children should not tell lies);\n     - हमें किसी का अपमान **नहीं करना चाहिए** (We should not insult anyone);\n     - आपको अधिक मीठा **नहीं खाना चाहिए** (You should not eat too much sugar)।\n\n3. 'मत' का प्रयोग निषेध में नहीं:\n   - 'चाहिए' वाले वाक्यों में 'मत' का प्रयोग नहीं होता; हमेशा **'नहीं'** का प्रयोग होता है (जैसे: 'नहीं जाना चाहिए', न कि 'मत जाना चाहिए')।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 9.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 9."
+          "target": "किसी भी समझदार व्यक्ति को दूसरों की भावनाओं और आत्मसम्मान को ठेस नहीं पहुँचानी चाहिए।",
+          "reading": "kisi bhi samajhdaar vyakti ko doosron ki bhaavanaon aur aatmasammaan ko thes nahin pahunchaani chaahiye. [kɪsiː bʱiː səmədʒʱd̪aːr ʋjəkt̪ɪ koː d̪uːsrõː kiː bʱaːʋnaːõː ɔːr aːt̪məsəmːaːn koː t̪ʰeːs nəɦĩː pəɦʊntʃaːniː tʃaːɦɪjeː] (kee-SEE bhee suh-muhj-DAHR vyuhk-TEE koh DOOS-rohn kee bhahv-NAH-ohn owr aht-muh-suhm-MAHN koh thays nuh-HEEN puh-hoon-CHAH-nee CHAH-hee-yay)",
+          "translation": "No sensible person should hurt the feelings and self-respect of others."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 9-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "आपका बहुत-बहुत धन्यवाद, मेरा पेट पूरी तरह भर गया है और मुझे अब और भोजन नहीं चाहिए।",
+          "reading": "aapka bahut-bahut dhanyavaad, mera pet poori tarah bhar gaya hai aur mujhe ab aur bhojan nahin chaahiye. [aːpkaː bəɦʊt̪ bəɦʊt̪ d̪ʱənjeːʋaːd̪ meːraː peːʈ puːriː t̪ərəh bʱər ɡəjaː hɛː ɔːr mʊdʒʱeː əb ɔːr bʱoːdʒən nəɦĩː tʃaːɦɪjeː] (ahp-KAH buh-hoot-buh-hoot dhuhn-yuh-VAHD, MAY-rah payt POO-ree tuh-RUH bhuhr GUH-yah hy owr MOO-jhay uhb owr BHOJ-uhn nuh-HEEN CHAH-hee-yay)",
+          "translation": "Thank you very much, my stomach is completely full and I do not need any more food now."
+        },
+        {
+          "target": "व्यस्त सड़क पार करते समय किसी को भी मोबाइल फोन का असावधानीपूर्वक प्रयोग नहीं करना चाहिए।",
+          "reading": "vyast sadak paar karte samay kisi ko bhi mobile phone ka asaavdhaanipoorvak prayog nahin karna chaahiye. [ʋjəst̪ səɽək paːr kərteː səməj kɪsiː koː bʱiː moːbaːɪl foːn kaː əsaːʋd̪ʱaːniːpuːrʋək prəjoːɡ nəɦĩː kərnaː tʃaːɦɪjeː] (vyuhst SUH-duhk pahr KUHR-tay suh-MUHY kee-SEE koh bhee MOH-bah-eel fohn kah uh-sahv-dhah-nee-POOR-vuhk pruh-YOHG nuh-HEEN KUHR-nah CHAH-hee-yay)",
+          "translation": "While crossing a busy road, no one should carelessly use a mobile phone."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Should not = नहीं + क्रिया-ना + चाहिए! Don't want = नहीं चाहिए! इसमें 'मत' कभी नहीं आता!"
+      ],
+      "culturalNotes": [
+        "भारतीय भोजन में अतिरिक्त परोसने (आग्रह) पर विनम्रतापूर्वक 'धन्यवाद, अब और नहीं चाहिए' कहना आतिथ्य स्वीकारने और मना करने का शिष्ट ढंग है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"खिड़की\":",
+          "prompt": "नकारात्मक नैतिक सलाह «झूठ नहीं बोलना चाहिए» में 'नहीं' का स्थान कहाँ होना चाहिए?",
           "options": [
-            "हम इस पाठ में इकाई 9.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दरवाज़ा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («मेज़» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कुर्सी» का अनुचित स्थान)"
+            "क्रियार्थक संज्ञा से ठीक पहले (झूठ नहीं बोलना चाहिए - Should not tell lies)",
+            "वाक्य के सबसे अंत में",
+            "कर्ता से पहले",
+            "चाहिए के बाद"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "मानक हिंदी में 'नहीं' क्रियार्थक संज्ञा के ठीक पहले («झूठ नहीं बोलना चाहिए») आता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"खिड़की\":",
+          "prompt": "वाक्य «I do not want this book» का शुद्ध अनुवाद चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 9.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («मेज़» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कुर्सी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दरवाज़ा» का अशुद्ध रूप)"
+            "मुझे यह पुस्तक नहीं चाहिए (Mujhe yah pustak nahin chaahiye)",
+            "मैं यह पुस्तक नहीं चाहता चाहिए",
+            "मुझको पुस्तक मत चाहिए",
+            "मेरी पुस्तक नहीं चाहिए"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "वस्तु की अस्वीकृति हेतु «मुझे यह पुस्तक नहीं चाहिए» शुद्ध रूप है।"
         }
       ]
     },
@@ -4035,17 +4074,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"खिड़की\": Which sentence is completely correct?",
+          "prompt": "नकारात्मक अनिवार्यता और निषेध का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 9.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कुर्सी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दरवाज़ा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («मेज़» से संबंधित)"
+            "किसी को भी किसी असहाय व्यक्ति का मज़ाक नहीं उड़ाना चाहिए। (No one should make fun of any helpless person.)",
+            "किसी को भी मज़ाक मत उड़ाना चाहिए।",
+            "किसी को मज़ाक नहीं उड़ानी चाहिए था।",
+            "कोई मज़ाक नहीं उड़ाना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«किसी को भी... मज़ाक नहीं उड़ाना चाहिए» में संप्रदान कारक और निषेध का प्रयोग व्याकरणसम्मत है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u9-l5": {
@@ -4053,53 +4093,62 @@
     "subject": "hindi",
     "unit": 9,
     "lessonNumber": 5,
-    "title": "अनिवार्यता और चाहिए संरचनाएं (Obligation with चाहिए) (Part 5)",
+    "title": "आवश्यकता और अनिवार्यता के विविध रूप: ज़रूरत है, आवश्यकता है बनाम चाहिए",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.5) with authentic linguistic precision.",
+    "objective": "अनिवार्यता और आवश्यकता की विभिन्न अभिव्यक्तियों (चाहिए, की ज़रूरत है, की आवश्यकता है) के औपचारिक और अनौपचारिक स्तरों तथा सूक्ष्म अर्थ-भेदों में प्रवीणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में आवश्यकता और कर्तव्य को व्यक्त करने के लिए 'चाहिए' के अतिरिक्त अन्य औपचारिक और मुहावरेदार संरचनाएं भी प्रयुक्त होती हैं:\n\n1. आवश्यकता के तीन मुख्य स्तर:\n   - **1. 'चाहिए' (मानक सामान्य व बहुउद्देश्यीय)**:\n     - मुझे कलम चाहिए / आपको पढ़ना चाहिए (दैनिक बातचीत और सामान्य सलाह)।\n   - **2. 'की ज़रूरत है' (तात्कालिक व व्यावहारिक आवश्यकता — Urgent/Tangible Need)**:\n     - [कर्ता + को] + [संज्ञा/क्रिया] + की ज़रूरत है:\n     - मुझे इस समय पैसों **की ज़रूरत है** (I am in need of money);\n     - आपको आराम करने **की ज़रूरत है**।\n   - **3. 'की आवश्यकता है' (औपचारिक / प्रशासनिक आवश्यकता — Formal/Official Necessity)**:\n     - इस पद के लिए अनुभवी शिक्षक **की आवश्यकता है** (Wanted: experienced teacher);\n     - देश को अनुशासित युवाओं **की आवश्यकता है**।\n\n2. 'चाहिए' (Should: नैतिक दायित्व) बनाम 'करना है' (Have to: व्यक्तिगत योजना):\n   - मुझे पढ़ना चाहिए (I should study — सलाह/कर्तव्य);\n   - मुझे पढ़ना है (I have to study — मेरी योजना/कार्यसूची)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 9.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 9."
+          "target": "इस कठिन और महत्वपूर्ण शोध कार्य को सफलतापूर्वक पूरा करने के लिए हमें गहन अध्ययन की आवश्यकता है।",
+          "reading": "is kathin aur mahatvapoorna shodh kaary ko safaltaapoorvak poora karne ke liye humein gahan adhyayan ki aavashyakta hai. [ɪs kəʈʰɪn ɔːr məɦət̪ʋəpuːrɳə ʃoːd̪ʱ kaːrjə koː səfəltaːpuːrʋək puːraː kərneː keː lɪjeː ɦəmẽː ɡəɦən əd̪ʱjəjən kiː aːʋəʃjəktaː hɛː] (ees KUH-theen owr muh-huht-vuh-POOR-nuh shohdh KAHR-yuh koh suh-fuhl-tah-POOR-vuhk POO-rah KUHR-nay kay lee-ay hoo-MAYN GUH-huhn uhdh-YUH-yuhn kee ah-vuhsh-YUHk-tah hy)",
+          "translation": "We need in-depth study to successfully complete this difficult and important research work."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 9-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "यदि आपको किसी भी प्रकार की सहायता या मार्गदर्शन की ज़रूरत हो, तो बेझिझक बताइएगा।",
+          "reading": "yadi aapko kisi bhi prakaar ki sahaayata ya maargadarshan ki zaroorat ho, to bejheejhak bataayiyega. [jəd̪ɪ aːpkoː kɪsiː bʱiː prəkaːr kiː səɦaːjət̪aː jaː maːrɡəd̪ərʃən kiː zəruːrət̪ hoː t̪oː beːdʒʱiːdʒʱək bət̪aːjɪjeːɡaː] (YUH-dee ahp-KOH kee-SEE bhee pruh-KAHR kee suh-hah-YUH-tah yah mahrg-DUHR-shuhn kee zuh-ROO-ruht hoh, toh bay-JHEE-jhuhk buh-tah-YEE-yay-gah)",
+          "translation": "If you need any kind of help or guidance, please let me know without hesitation."
+        },
+        {
+          "target": "हर जागरूक नागरिक को समाज और राष्ट्र के सर्वांगीण विकास में अपना सकारात्मक योगदान देना चाहिए।",
+          "reading": "har jaagrook naagrik ko samaaj aur raashtr ke sarvaangeen vikaas mein apna sakaaraatmak yogdaan dena chaahiye. [ɦər dʒaːɡruːk naːɡrɪk koː səmaːdʒ ɔːr raːʂʈr keː sərʋaːŋɡiːɳ ʋɪkaːs mẽː əpnaː səkaːraːt̪mək joːɡd̪aːn d̪eːnaː tʃaːɦɪjeː] (huhr jahg-ROOK nahg-REEK koh suh-MAHJ owr RAHSH-truh kay suhr-vahn-GEEN vee-KAHS mayn uhp-NAH suh-kah-RAHT-muhk yohg-DAHN DAY-nah CHAH-hee-yay)",
+          "translation": "Every aware citizen should make their positive contribution to the all-round development of society and nation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "सलाह = चाहिए (Should); ज़रूरत = की ज़रूरत है (Need); औपचारिक = की आवश्यकता है (Required)!"
+      ],
+      "culturalNotes": [
+        "समाचार-पत्रों के विज्ञापनों में 'आवश्यकता है' (Required/Wanted) शीर्षक का प्रयोग कर्मचारियों या अध्यापकों की भर्ती हेतु मानक है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"दरवाज़ा\":",
+          "prompt": "औपचारिक विज्ञापनों में 'Wanted / Required' के लिए सबसे मानक हिंदी पद कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 9.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («मेज़» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कुर्सी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बिस्तर» का अनुचित स्थान)"
+            "आवश्यकता है (Aavashyakta hai - Formally required / wanted)",
+            "चाहिए",
+            "ज़रूरत है",
+            "माँग है"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "औपचारिक और प्रशासनिक संदर्भ में «आवश्यकता है» सबसे प्रामाणिक शब्द है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"दरवाज़ा\":",
+          "prompt": "वाक्य «मुझे इस समय आपकी सहायता ___ ज़रूरत है» में सही परसर्ग भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 9.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कुर्सी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बिस्तर» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («मेज़» का अशुद्ध रूप)"
+            "की (Ki zaroorat hai - Need of [fem. noun zaroorat])",
+            "का",
+            "के",
+            "को"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'ज़रूरत' स्त्रीलिंग संज्ञा है, अतः इसके साथ संबंध परसर्ग «की» (की ज़रूरत है) आता है।"
         }
       ]
     },
@@ -4107,17 +4156,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"दरवाज़ा\": Which sentence is completely correct?",
+          "prompt": "आवश्यकता और सलाह के विविध रूपों वाला पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 9.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बिस्तर» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («मेज़» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कुर्सी» से संबंधित)"
+            "यदि आपको समय की ज़रूरत हो तो बताइएगा, परंतु काम समय पर समाप्त होना चाहिए। (If you need time please let me know, but the work should be finished on time.)",
+            "यदि आपको समय का ज़रूरत हो तो बताइएगा।",
+            "काम समाप्त होना चाहिए था अभी।",
+            "समय की आवश्यकता है तुमको।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«समय की ज़रूरत हो» (सटीक संबंध परसर्ग) और «समाप्त होना चाहिए» (सटीक अनिवार्यता) दोनों का समन्वय पूर्णतः शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u10-l1": {
