@@ -1300,58 +1300,67 @@
       "passThreshold": 0.8
     }
   },
-  "sw-u3-l1": {
+"sw-u3-l1": {
     "id": "sw-u3-l1",
     "subject": "swahili",
     "unit": 3,
     "lessonNumber": 1,
-    "title": "Wakati Uliopo: Kiambishi -na- (Present Continuous Tense) (Part 1)",
+    "title": "Muundo wa Kitenzi na Kiambishi cha Wakati Uliopo (-na-) (Verb Structure & Present Tense -na-)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.1) with authentic precision.",
+    "objective": "Kuelewa muundo wa kitenzi cha Kiswahili: Kiambishi Nafsi (SP) + Kiambishi cha Wakati Uliopo (-na-) + Shina la Kitenzi kwa nafsi zote sita (Mimi, Wewe, Yeye, Sisi, Ninyi, Wao).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muundo wa Kitenzi na Wakati Uliopo katika Kiswahili (Swahili Verb Structure & Present Tense -na-):\n\n1. **Muundo wa Kitenzi Sanifu (Canonical Verb Morphology)**:\n   - Kitenzi cha Kiswahili hujengwa kwa kuunganisha viambishi:\n     `[Kiambishi Nafsi / Subject Prefix] + [Kiambishi cha Wakati / Tense Marker] + [Shina la Kitenzi / Verb Root]`\n\n2. **Kiambishi cha Wakati Uliopo Unaondelea (-na-)**:\n   - Kiambishi **-na-** kinaonyesha tendo linalofanyika hivi sasa au tendo la kawaida (Present Continuous / Simple Present).\n\n3. **Mnyambuliko wa Nafsi Zote Sita (Conjugation across 6 Persons)**:\n   - *Mimi* (I): **ni-** + **na-** + **soma** -> **ninasoma** (I am reading / I read)\n   - *Wewe* (You sg): **u-** + **na-** + **soma** -> **unasoma** (You are reading)\n   - *Yeye* (He/She): **a-** + **na-** + **soma** -> **anasoma** (He/She is reading)\n   - *Sisi* (We): **tu-** + **na-** + **soma** -> **tunasoma** (We are reading)\n   - *Ninyi* (You pl): **m-** + **na-** + **soma** -> **mnasoma** (You all are reading)\n   - *Wao* (They): **wa-** + **na-** + **soma** -> **wanasoma** (They are reading)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 3."
+          "target": "Mimi ninasoma kitabu cha hadithi na wenzangu wanaandika insha nzuri.",
+          "reading": "Mi-mi ni-na-so-ma ki-ta-bu cha ha-di-thi na we-nza-ngu wa-na-a-ndi-ka i-nsha nzu-ri. [ˈmimi ninɑˈsɔmɑ kiˈtɑbu tʃɑ hɑˈdiθi nɑ wɛˈnzɑŋɡu wɑnɑɑnˈdikɑ ˈinʃɑ ˈnzuri] (MEE-mee nee-nah-SOH-mah kee-TAH-boo chah hah-DEE-thee nah wayn-ZAHN-goo wah-nah-ahn-DEE-kah EEN-shah N-ZOO-ree)",
+          "translation": "I am reading [present tense 1st person: ninasoma] a storybook and my companions are writing [present tense 3rd person plural: wanaandika] good essays."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 3-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mwalimu anafundisha kwa makini huku wanafunzi wote wakimsikiliza kwa utulivu.",
+          "reading": "Mwa-li-mu a-na-fu-ndi-sha kwa ma-ki-ni hu-ku wa-na-fu-nzi wo-te wa-ki-msi-ki-li-za kwa u-tu-li-vu. [mwɑˈlimu ɑnɑfunˈdiʃɑ kwɑ mɑˈkini ˈhuku wɑnɑˈfunzi ˈwɔtɛ wɑkimsikiˈlizɑ kwɑ utuˈlivu] (mwah-LEE-moo ah-nah-foon-DEE-shah kwah mah-KEE-nee HOO-koo wah-nah-FOON-zee WOH-tay wah-keem-see-kee-LEE-zah kwah oo-too-LEE-voo)",
+          "translation": "The teacher is teaching [present tense 3rd person singular: anafundisha] attentively while all students listen to him calmly."
+        },
+        {
+          "target": "Sisi tunajifunza lugha ya Kiswahili kila siku ili kuwasiliana kwa ufasaha.",
+          "reading": "Si-si tu-na-ji-fu-nza lu-gha ya Ki-swa-hi-li ki-la si-ku i-li ku-wa-si-li-a-na kwa u-fa-sa-ha. [ˈsisi tunɑʤiˈfunzɑ ˈluɣɑ jɑ kiswɑˈhili ˈkilɑ ˈsiku ˈili kuwɑsiliˈɑnɑ kwɑ ufɑˈsɑhɑ] (SEE-see too-nah-jee-FOON-zah LOO-ghah yah kee-swah-HEE-lee KEE-lah SEE-koo EE-lee koo-wah-see-lee-AH-nah kwah oo-fah-SAH-hah)",
+          "translation": "We are learning [present tense 1st person plural: tunajifunza] the Swahili language every day to communicate fluently."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Wakati Uliopo: Kiambishi cha Sasa ni -NA- (ni-NA-soma, u-NA-soma, a-NA-soma, tu-NA-soma, m-NA-soma, wa-NA-soma)!"
+      ],
+      "culturalNotes": [
+        "Lugha ya Kiswahili hutumia kiambishi cha wakati mmoja (-na-) kueleza vitendo vinavyoendelea sasa (Continuous) na tabia za kila siku (Habitual)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Maji\":",
+          "prompt": "Sentensi sahihi inayoelezea nafsi ya kwanza wingi (Sisi) katika wakati uliopo wa kitenzi 'cheza' ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Maziwa»",
-            "Mpangilio usio sahihi wa viambishi katika «Chai»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mkate»"
+            "Sisi tunacheza mpira uwanjani. (We are playing ball on the field - Correct 1st person plural 'tu-na-cheza')",
+            "Sisi ninacheza mpira uwanjani (Mchanganyiko wa nafsi ya kwanza umoja na wingi)",
+            "Sisi wanacheza mpira uwanjani (Matumizi ya nafsi ya tatu wingi)",
+            "Sisi anacheza mpira uwanjani (Matumizi ya nafsi ya tatu umoja)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kiambishi nafsi cha «Sisi» ni «tu-», hivyo kitenzi huwa «tunacheza»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Maji\":",
+          "prompt": "Unapomwambia rafiki yako unayezungumza naye (Wewe) anachofanya sasa hivi, unatumia neno gani?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Chai»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mkate»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Maziwa»"
+            "Wewe unaandika barua nzuri. (You are writing a good letter - Correct 2nd person singular 'u-na-andika')",
+            "Wewe ninaandika barua nzuri (Kosa la kiambishi nafsi)",
+            "Wewe wanaandika barua nzuri (Kosa la wingi)",
+            "Wewe tunaandika barua nzuri (Kosa la nafsi ya kwanza)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kwa nafsi ya pili umoja (Wewe), kiambishi nafsi ni «u-», kikiungana na «-na-» kupata «unasoma» au «unaandika»."
         }
       ]
     },
@@ -1359,17 +1368,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Maji\": Which sentence is completely correct?",
+          "prompt": "Chagua kanuni sahihi inayofafanua muundo wa wakati uliopo katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mkate»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Maziwa»",
-            "Mpangilio usio sahihi wa viambishi katika «Chai»"
+            "Kitenzi cha wakati uliopo kinajengwa kwa kiambishi nafsi (ni-, u-, a-, tu-, m-, wa-) kikifuatiwa na kiambishi cha wakati '-na-' na shina la kitenzi. (Present tense is formed by subject prefix + tense marker -na- + verb root.)",
+            "Wakati uliopo hauna kiambishi chochote bali unatumia neno 'sasa' pekee.",
+            "Kila kitenzi cha Kiswahili kina herufi moja tu ya kiambishi nafsi bila wakati.",
+            "Kiambishi '-na-' kinatumika tu kwa wanyama na si kwa binadamu."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kitenzi cha wakati uliopo kinajengwa kwa kiambishi nafsi (ni-, u-, a-, tu-, m-, wa-) kikifuatiwa na kiambishi cha wakati '-na-' na shina la kitenzi.» ndiyo kanuni kuu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u3-l2": {
@@ -1377,53 +1387,62 @@
     "subject": "swahili",
     "unit": 3,
     "lessonNumber": 2,
-    "title": "Wakati Uliopo: Kiambishi -na- (Present Continuous Tense) (Part 2)",
+    "title": "Vitenzi vya Silabi Moja katika Wakati Uliopo (Monosyllabic Verbs: Kula, Kunywa, Kuja, Kwenda)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.2) with authentic precision.",
+    "objective": "Kutambua tabia maalum ya vitenzi vya silabi moja (Monosyllabic verbs) ambavyo huhifadhi kiambishi 'ku-' katika wakati uliopo (-na-) ili kulinda mkazo wa kifonolojia.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vitenzi vya Silabi Moja katika Wakati Uliopo (Monosyllabic Verbs in -na-):\n\n1. **Dhana ya Vitenzi vya Silabi Moja (Monosyllabic Stems)**:\n   - Vitenzi vingi vya Kiswahili vina mashina ya silabi mbili au zaidi (*-soma*, *-andika*, *-cheza*).\n   - Hata hivyo, kuna vitenzi vyenye shina la **silabi moja tu**:\n     - *-la* (eat) -> *kula*\n     - *-nywa* (drink) -> *kunywa*\n     - *-ja* (come) -> *kuja*\n     - *-enda* (go) -> *kwenda*\n     - *-fa* (die) -> *kufa*\n     - *-wa* (be/become) -> *kuwa*\n\n2. **Kuhifadhi Kiambishi 'ku-' (Retention of the Infinitive Prefix 'ku-')**:\n   - Katika wakati uliopo (**-na-**), vitenzi hivi **huvumilia na kubakiza 'ku-'** ili neno liwe na silabi za kutosha kubeba mkazo wa sauti kwenye silabi ya pili kutoka mwisho:\n     - *Mimi **nina-ku-la*** (I am eating) [siyo *ninala*]\n     - *Yeye **ana-ku-nywa*** (He is drinking) [siyo *ananywa*]\n     - *Wao **wana-ku-ja*** (They are coming)\n     - *Sisi **tuna-kwe-nda*** (We are going)\n\n3. **Muktadha wa Matumizi**:\n   - *Mtoto anakula chakula.* (The child is eating food.)\n   - *Wageni wanakuja sasa.* (Guests are coming now.)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 3."
+          "target": "Mtoto mdogo anakula ugali na mboga wakati baba yake anakunywa maji safi.",
+          "reading": "Mto-to mdo-go a-na-ku-la u-ga-li na mbo-ga wa-ka-ti ba-ba ya-ke a-na-ku-nywa ma-ji sa-fi. [ˈmtɔtɔ mˈdɔɡɔ ɑnɑˈkulɑ uˈɡɑli nɑ ˈmbɔɡɑ wɑˈkɑti ˈbɑbɑ ˈjɑkɛ ɑnɑˈkuɲwɑ ˈmɑʤi ˈsɑfi] (M-TOH-toh M-DOH-goh ah-nah-KOO-lah oo-GAH-lee nah M-BOH-gah wah-KAH-tee BAH-bah YAH-kay ah-nah-KOO-nywah MAH-jee SAH-fee)",
+          "translation": "The little child is eating [monosyllabic verb -la: anakula] ugali and greens while his father is drinking [monosyllabic verb -nywa: anakunywa] clean water."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 3-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wageni wengi wanakuja kututembelea kijijini kwetu mchana huu.",
+          "reading": "Wa-ge-ni we-ngi wa-na-ku-ja ku-tu-te-mbe-le-a ki-ji-ji-ni kwe-tu mcha-na hu-u. [wɑˈɡɛni ˈwɛŋɡi wɑnɑˈkuʤɑ kututɛmbɛˈlɛɑ kiʤiˈʤini ˈkwɛtu mˈtʃɑnɑ ˈhuː] (wah-GAY-nee WAYN-gee wah-nah-KOO-jah koo-too-tahm-bay-LAY-ah kee-jee-JEE-nee KWAY-too M-CHAH-nah HOO-oo)",
+          "translation": "Many guests are coming [monosyllabic verb -ja: wanakuja] to visit us at our village this afternoon."
+        },
+        {
+          "target": "Sisi tunakwenda sokoni sasa kununua matunda mabichi na samaki watamu.",
+          "reading": "Si-si tu-na-kwe-nda so-ko-ni sa-sa ku-nu-nua ma-tu-nda ma-bi-chi na sa-ma-ki wa-ta-mu. [ˈsisi tunɑˈkwɛndɑ sɔˈkɔni ˈsɑsɑ kunuˈnuɑ mɑˈtundɑ mɑˈbitʃi nɑ sɑˈmɑki wɑˈtɑmu] (SEE-see too-nah-KWAYN-dah soh-KOH-nee SAH-sah koo-noo-NOO-ah mah-TOON-dah mah-BEE-chee nah sah-MAH-kee wah-TAH-moo)",
+          "translation": "We are going [monosyllabic verb -enda: tunakwenda] to the market now to buy fresh fruits and delicious fish."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vitenzi vya Silabi Moja: Katika -na-, 'ku-' haitoki: ninakula, anakunywa, wanakuja, tunakwenda!"
+      ],
+      "culturalNotes": [
+        "Chakula cha 'Ugali' kinachotajwa hapa ni chakula kikuu cha jadi cha mamilioni ya watu nchini Tanzania, Kenya na Uganda."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Maziwa\":",
+          "prompt": "Chagua kitenzi sahihi cha wakati uliopo kinachomaanisha \"Yeye anakula chakula\":",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Chai»",
-            "Mpangilio usio sahihi wa viambishi katika «Mkate»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Wali»"
+            "anakula (He/She is eating - Correct retention of 'ku-' for monosyllabic stem -la)",
+            "anala (Kosa la kuangusha kiambishi 'ku-')",
+            "analia (Hiki ni kitenzi tofauti: kulia / to cry)",
+            "anacheza (Kitenzi kingine: kucheza / to play)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «-la» ni cha silabi moja, hivyo huhifadhi «ku-» katika wakati uliopo: «anakula»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Maziwa\":",
+          "prompt": "Sentensi ipi inatumia vitenzi vya silabi moja 'kunywa' na 'kuja' kwa usahihi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Mkate»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Wali»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Chai»"
+            "Wageni wanakuja nyumbani na wanakunywa chai moto. (Guests are coming home and drinking hot tea - Accurate monosyllabic forms)",
+            "Wageni wanaja nyumbani na wananywa chai moto (Kosa la kuondoa 'ku-')",
+            "Wageni wanakula chai moto (Matumizi mabaya ya kitenzi kula badala ya kunywa)",
+            "Wageni alikuja jana jioni (Kosa la wakati uliopita na upatanisho)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Vitenzi sahihi vyenye kuhifadhi «ku-» ni «wanakuja» na «wanakunywa»."
         }
       ]
     },
@@ -1431,17 +1450,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Maziwa\": Which sentence is completely correct?",
+          "prompt": "Kwanini vitenzi kama 'kula', 'kunywa', na 'kuja' huhifadhi kiambishi 'ku-' katika wakati uliopo (-na-)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Wali»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Chai»",
-            "Mpangilio usio sahihi wa viambishi katika «Mkate»"
+            "Kwa sababu ni vitenzi vya silabi moja na vinahitaji 'ku-' ili kubeba mkazo wa sauti kwenye silabi ya pili kutoka mwisho. (Because they are monosyllabic verbs needing 'ku-' to carry penultimate stress.)",
+            "Kwa sababu vinatumika tu wakati wa usiku bila mchana.",
+            "Kwa sababu havina viambishi nafsi kama vitenzi vingine.",
+            "Ni kosa la kisarufi na havipaswi kuhifadhi 'ku-' kabisa."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kwa sababu ni vitenzi vya silabi moja na vinahitaji 'ku-' ili kubeba mkazo wa sauti kwenye silabi ya pili kutoka mwisho.» ndiyo sababu ya kifonolojia."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u3-l3": {
@@ -1449,53 +1469,62 @@
     "subject": "swahili",
     "unit": 3,
     "lessonNumber": 3,
-    "title": "Wakati Uliopo: Kiambishi -na- (Present Continuous Tense) (Part 3)",
+    "title": "Shughuli za Kila Siku na Maswali ya Wakati Uliopo (Daily Activities & Present Tense Questions)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.3) with authentic precision.",
+    "objective": "Kutumia wakati uliopo (-na-) kuuliza na kujibu maswali kuhusu shughuli za kila siku (Unafanya nini? Unakwenda wapi?) na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Shughuli za Kila Siku na Miundo ya Maswali (Daily Routines & Inquiries in Present Tense):\n\n1. **Kuuliza Maswali ya Wakati Uliopo (Question Patterns)**:\n   - *Unafanya nini?* (What are you doing?) -> *Ninafanya kazi / Ninasoma.*\n   - *Unakwenda wapi?* (Where are you going?) -> *Ninakwenda shuleni / sokoni.*\n   - *Anapika nini?* (What is he/she cooking?) -> *Anapika wali na maharagwe.*\n   - *Mnazungumza nini?* (What are you all talking about?) -> *Tunazungumza kuhusu masomo.*\n\n2. **Vitenzi vya Shughuli za Kila Siku (Daily Routine Verbs)**:\n   - **pika** (cook): *Ninapika chakula.*\n   - **fua** (wash clothes): *Mama anafua nguo.*\n   - **safisha** (clean): *Kaka anasafisha nyumba.*\n   - **fanya kazi** (work): *Baba anafanya kazi ofisini.*\n   - **zungumza** (converse / talk): *Marafiki wanazungumza kwa furaha.*\n   - **tembea** (walk): *Watoto wanatembea kwenda shule.*",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 3."
+          "target": "Je, unafanya nini sasa hivi? - Ninapika chakula cha jioni jikoni.",
+          "reading": "Je, u-na-fa-nya ni-ni sa-sa hi-vi? - Ni-na-pi-ka cha-ku-la cha ji-o-ni ji-ko-ni. [ʤɛ unɑˈfɑɲɑ ˈnini ˈsɑsɑ ˈhivi - ninɑˈpikɑ tʃɑˈkulɑ tʃɑ ʤiˈɔni ʤiˈkɔni] (JAY, oo-nah-FAH-nyah NEE-nee SAH-sah HEE-vee? - nee-nah-PEE-kah chah-KOO-lah chah jee-OH-nee jee-KOH-nee)",
+          "translation": "What are you doing [inquiry: unafanya nini] right now? - I am cooking [daily routine: ninapika] dinner in the kitchen."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 3-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mama anafua nguo na kaka anasafisha uwanja wa nyumba kwa usafi mkubwa.",
+          "reading": "Ma-ma a-na-fua nguo na ka-ka a-na-sa-fi-sha u-wa-nja wa nyu-mba kwa u-sa-fi mku-bwa. [ˈmɑmɑ ɑnɑˈfuɑ ˈŋɡuɔ nɑ ˈkɑkɑ ɑnɑsɑˈfiʃɑ uwɑˈnʤɑ wɑ ˈɲumbɑ kwɑ usɑˈfi mˈkubwɑ] (MAH-mah ah-nah-FOO-ah N-GOO-oh nah KAH-kah ah-nah-sah-FEE-shah oo-wahn-JAH wah NYOOM-bah kwah oo-SAH-fee M-KOO-bwah)",
+          "translation": "Mother is washing clothes [routine action: anafua nguo] and brother is cleaning the compound of the house with great neatness."
+        },
+        {
+          "target": "Wafanyabiashara wanazungumza na wateja sokoni na wanauza bidhaa mbalimbali.",
+          "reading": "Wa-fa-nya-bi-a-sha-ra wa-na-zu-ngu-mza na wa-te-ja so-ko-ni na wa-na-u-za bi-dha-a mba-li-mba-li. [wɑfɑɲɑbiɑˈʃɑrɑ wɑnɑzuˈŋɡumzɑ nɑ wɑˈtɛʤɑ sɔˈkɔni nɑ wɑnɑˈuzɑ biˈðɑː mbɑlimbɑˈli] (wah-fah-nyah-bee-ah-SHAH-rah wah-nah-zoon-GOOM-zah nah wah-TAY-jah soh-KOH-nee nah wah-nah-OO-zah bee-THAH-ah M-bah-lee-M-bah-lee)",
+          "translation": "Merchants are conversing [social action: wanazungumza] with customers at the market and selling various goods."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Swali na Jibu: Unafanya nini? -> Ninafanya... | Unakwenda wapi? -> Ninakwenda...!"
+      ],
+      "culturalNotes": [
+        "Kazi za pamoja (kama vile 'Ujamaa' na 'Harambee') hufanywa na jamii nzima huku watu wakiimba na kuzungumza kwa furaha wakati wa kazi."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Chai\":",
+          "prompt": "Mtu anapokuuliza \"Unakwenda wapi sasa hivi?\", jibu sahihi na kamili ni lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mkate»",
-            "Mpangilio usio sahihi wa viambishi katika «Wali»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Maharagwe»"
+            "Ninakwenda sokoni kununua mboga. (I am going to the market to buy greens - Logical present tense answer)",
+            "Jina langu ni Juma mwalimu (Jibu lisilohusika na swali la mahali)",
+            "Sijambo sana asante (Jibu la salamu badala ya swali la mahali)",
+            "Chakula kiliiva jana usiku (Kauli isiyo na uhusiano)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Swali «Unakwenda wapi?» linauliza eneo unaloelekea, hivyo hujibiwa kwa «Ninakwenda...»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Chai\":",
+          "prompt": "Sentensi ipi inaeleza shughuli za usafi wa nyumbani katika wakati uliopo kwa usahihi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Wali»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Maharagwe»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mkate»"
+            "Watoto wanasafisha vyumba na mama anapika chakula. (Children are cleaning the rooms and mother is cooking food - Flawless daily routine description)",
+            "Watoto kitabu anasoma jana asubuhi (Mvurugiko wa maneno)",
+            "Mama inasafisha watoto wote uwanjani (Kosa la upatanisho wa kitenzi)",
+            "Vyumba vinapika chakula jikoni sasa (Maana isiyo na mantiki)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Watoto wanasafisha vyumba na mama anapika chakula.» inatumia vitenzi sahihi vya shughuli za kila siku."
         }
       ]
     },
@@ -1503,17 +1532,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Chai\": Which sentence is completely correct?",
+          "prompt": "Chagua swali na jibu lililo sahihi na sanifu kuhusu shughuli za kila siku katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Maharagwe»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mkate»",
-            "Mpangilio usio sahihi wa viambishi katika «Wali»"
+            "Swali: Je, unafanya nini sasa hivi? -> Jibu: Ninaandika barua kwa rafiki yangu. (Question: What are you doing right now? -> Answer: I am writing a letter to my friend.)",
+            "Swali: Je, unakwenda wapi? -> Jibu: Ninakula ndizi tatu.",
+            "Swali: Je, unafanya nini? -> Jibu: Marahaba bibi yangu.",
+            "Swali: Je, jina lako nani? -> Jibu: Ninakwenda Nairobi."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Swali: Je, unafanya nini sasa hivi? -> Jibu: Ninaandika barua kwa rafiki yangu.» ndiyo jozi sahihi na yenye mantiki."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u3-l4": {
@@ -1521,53 +1551,62 @@
     "subject": "swahili",
     "unit": 3,
     "lessonNumber": 4,
-    "title": "Wakati Uliopo: Kiambishi -na- (Present Continuous Tense) (Part 4)",
+    "title": "Upatanisho wa Ngeli Mbalimbali katika Wakati Uliopo (Noun Class Concord with Present Tense -na-)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.4) with authentic precision.",
+    "objective": "Kutambua jinsi ngeli nyingine za nomino (KI-VI, M-MI, JI-MA, N-N) zinavyotumia viambishi vyake vya upatanisho wa kisarufi pamoja na kiambishi cha wakati uliopo (-na-).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Upatanisho wa Ngeli Tofauti katika Wakati Uliopo (Concord across Noun Classes with -na-):\n\n1. **Ngeli ya KI-VI (Classes 7/8 - Things & Objects)**:\n   - Umoja (**ki-**): *Kiti **ki**naanguka.* (The chair is falling.)\n   - Wingi (**vi-**): *Viti **vi**naanguka.* (The chairs are falling.)\n   - *Kitabu **ki**nasomwa.* / *Vitabu **vi**nasomwa.*\n\n2. **Ngeli ya M-MI (Classes 3/4 - Trees & Plants)**:\n   - Umoja (**u-**): *Mti **u**nakua.* (The tree is growing.)\n   - Wingi (**i-**): *Miti **i**nakua.* (Trees are growing.)\n   - *Mto **u**napita.* (The river is flowing.) / *Mito **i**napita.*\n\n3. **Ngeli ya JI-MA (Classes 5/6 - Bulk Nouns & Fruit)**:\n   - Umoja (**li-**): *Gari **li**napita.* (The car is passing.)\n   - Wingi (**ya-**): *Magari **ya**napita.* (Cars are passing.)\n   - *Tunda **li**naanguka.* / *Matunda **ya**naanguka.*\n\n4. **Ngeli ya N-N (Classes 9/10 - Animals & Inanimates)**:\n   - Umoja (**i-**): *Nyumba **i**najengwa.* (The house is being built.)\n   - Wingi (**zi-**): *Nyumba **zi**najengwa.* (Houses are being built.)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 3."
+          "target": "Gari jipya linapita barabarani wakati miti mikubwa inatoa kivuli kizuri.",
+          "reading": "Ga-ri ji-pya li-na-pi-ta ba-ra-ba-ra-ni wa-ka-ti mi-ti mi-kbu-wa i-na-to-a ki-vu-li ki-zu-ri. [ˈɡɑri ˈʤipjɑ linɑˈpitɑ bɑrɑˈbɑrɑni wɑˈkɑti ˈmiti miˈkubwɑ inɑˈtɔɑ kiˈvuli kiˈzuri] (GAH-ree JEE-pyah lee-nah-PEE-tah bah-rah-BAH-rah-nee wah-KAH-tee MEE-tee mee-KOO-bwah ee-nah-TOH-ah kee-VOO-lee kee-ZOO-ree)",
+          "translation": "The new car is passing [class 5 JI-MA singular: linapita] on the road while big trees are providing [class 4 M-MI plural: inatoa] good shade."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 3-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kitabu hiki kinawafundisha wasomaji mambo mengi na nyumba hizi zinapambwa vizuri.",
+          "reading": "Ki-ta-bu hi-ki ki-na-wa-fu-ndi-sha wa-so-ma-ji ma-mbo me-ngi na nyu-mba hi-zi zi-na-pa-mbwa vi-zu-ri. [kiˈtɑbu ˈhiki kinɑwɑfunˈdiʃɑ wɑsɔˈmɑʤi ˈmɑmbɔ ˈmɛŋɡi nɑ ˈɲumbɑ ˈhizi zinɑˈpɑmbwɑ viˈzuri] (kee-TAH-boo HEE-kee kee-nah-wah-foon-DEE-shah wah-soh-MAH-jee MAHM-boh MAYN-gee nah NYOOM-bah HEE-zee zee-nah-PAHM-bwah vee-ZOO-ree)",
+          "translation": "This book is teaching [class 7 KI-VI singular: kinawafundisha] readers many things and these houses are being decorated [class 10 N-N plural: zinapambwa] beautifully."
+        },
+        {
+          "target": "Simba mkali ananguruma mbugani huku watalii wakipiga picha kwa furaha.",
+          "reading": "Si-mba mka-li a-na-ngu-ru-ma mbu-ga-ni hu-ku wa-ta-li-i wa-ki-pi-ga pi-cha kwa fu-ra-ha. [ˈsimbɑ mˈkɑli ɑnɑŋɡuˈrumɑ mbuˈɡɑni ˈhuku wɑtɑˈliː wɑkipiˈɡɑ ˈpitʃɑ kwɑ fuˈrɑhɑ] (SEEM-bah M-KAH-lee ah-nahn-goo-ROO-mah m-boo-GAH-nee HOO-koo wah-tah-LEE-ee wah-kee-pee-GAH PEE-chah kwah foo-RAH-hah)",
+          "translation": "The fierce lion is roaring [animate concord: ananguruma] in the park while tourists take photographs joyfully."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Viambishi vya Ngeli na -NA-: KI->kina-, VI->vina-, M/MI->unao/ina-, JI/MA->lina/yana-, N/N->ina/zina-!"
+      ],
+      "culturalNotes": [
+        "Mbuga za wanyama za Serengeti na Ngorongoro (Tanzania) pamoja na Maasai Mara (Kenya) ni vyanzo vikuu vya urithi wa asili wa Kiswahili."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mkate\":",
+          "prompt": "Sentensi ipi ina upatanisho sahihi wa kitenzi cha wakati uliopo kwa nomino ya Ngeli ya 7 (Kiti)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Wali»",
-            "Mpangilio usio sahihi wa viambishi katika «Maharagwe»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mboga»"
+            "Kiti kizuri kinavunjika polepole. (The good chair is breaking slowly - Correct Class 7 prefix 'ki-na-')",
+            "Kiti kizuri linavunjika polepole (Kosa la kutumia kiambishi cha JI-MA)",
+            "Kiti kizuri yanavunjika polepole (Kosa la kutumia wingi wa JI-MA)",
+            "Kiti kizuri wanavunjika polepole (Kosa la kutumia kiambishi cha watu)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino «Kiti» (Ngeli ya 7 KI-VI) huchukua kiambishi cha kitenzi «ki-», hivyo huwa «kinavunjika»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mkate\":",
+          "prompt": "Unapozungumzia magari mengi (Ngeli ya 6 JI-MA wingi) yanayopita barabarani, kitenzi kipi ni sahihi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Maharagwe»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mboga»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Wali»"
+            "Magari mengi yanapita barabarani kwa kasi. (Many cars are passing on the road at speed - Correct Class 6 prefix 'ya-na-')",
+            "Magari mengi linapita barabarani (Kosa la kutumia umoja 'li-')",
+            "Magari mengi kinapita barabarani (Kosa la kiambishi cha KI-VI)",
+            "Magari mengi wanapita barabarani (Kosa la kuchukulia magari kama watu)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino ya wingi «Magari» huchukua kiambishi cha kitenzi «ya-», hivyo husemwa «yanapita»."
         }
       ]
     },
@@ -1575,17 +1614,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mkate\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi wa wakati uliopo katika ngeli zote zilizotajwa:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mboga»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Wali»",
-            "Mpangilio usio sahihi wa viambishi katika «Maharagwe»"
+            "Mti mrefu unakua, gari jipya linapita, na kitabu kizuri kinasomwa na wanafunzi. (The tall tree grows [u-], the new car passes [li-], and the good book is read [ki-] by students.)",
+            "Mti mrefu linakua, gari jipya kinapita, na kitabu kizuri unakua darasani.",
+            "Miti yote linakua na vitabu vyote linasomwa na watu wote.",
+            "Magari yote kinapita wakati nyumba zote linajengwa mjini."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Mti mrefu unakua, gari jipya linapita, na kitabu kizuri kinasomwa na wanafunzi.» inafuata upatanisho kamili wa ngeli za M-MI (u-), JI-MA (li-), na KI-VI (ki-)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u3-l5": {
@@ -1593,53 +1633,62 @@
     "subject": "swahili",
     "unit": 3,
     "lessonNumber": 5,
-    "title": "Wakati Uliopo: Kiambishi -na- (Present Continuous Tense) (Part 5)",
+    "title": "Muhtasari wa Wakati Uliopo (-na-) (Present Continuous Tense Grand Synthesis)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 3: mnyambuliko wa nafsi zote 6 katika wakati uliopo (-na-), vitenzi vya silabi moja (kula, kunywa, kuja, kwenda), miundo ya maswali ya shughuli za kila siku, na upatanisho wa ngeli zote katika sentensi changamano.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Wakati Uliopo (-na-) (Present Continuous Tense Grand Synthesis):\n\n1. **Kanuni Kuu ya Wakati Uliopo**:\n   - Kiambishi **-na-** kinaashiria vitendo vinavyoendelea sasa au vitendo vya mazoea.\n   - Muundo: `Kiambishi Nafsi + -na- + Shina la Kitenzi` (*ninasoma, unasoma, anasoma, tunasoma, mnasoma, wanasoma*).\n\n2. **Vitenzi vya Silabi Moja**:\n   - Huhifadhi kiambishi 'ku-': *ninakula, anakunywa, wanakuja, tunakwenda*.\n\n3. **Maswali na Shughuli za Kila Siku**:\n   - *Unafanya nini?* -> *Ninapika chakula, ninafua nguo, ninasafisha nyumba.*\n\n4. **Upatanisho wa Ngeli Mbalimbali**:\n   - A-WA (*anasoma / wanasoma*), KI-VI (*kinasomwa / vinasomwa*), M-MI (*unakua / inakua*), JI-MA (*linapita / yanapita*), N-N (*inajengwa / zinajengwa*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 3."
+          "target": "Mimi ninajifunza Kiswahili, marafiki zangu wanakunywa chai, na treni ya kisasa inasafiri haraka.",
+          "reading": "Mi-mi ni-na-ji-fu-nza Ki-swa-hi-li, ma-ra-fi-ki za-ngu wa-na-ku-nywa cha-i, na tre-ni ya ki-sa-sa i-na-sa-fi-ri ha-ra-ka. [ˈmimi ninɑʤiˈfunzɑ kiswɑˈhili mɑrɑˈfiki ˈzɑŋɡu wɑnɑˈkuɲwɑ ˈtʃɑi nɑ ˈtrɛni jɑ kiˈsɑsɑ inɑsɑˈfiri hɑˈrɑkɑ] (MEE-mee nee-nah-jee-FOON-zah kee-swah-HEE-lee, mah-rah-FEE-kee ZAHN-goo wah-nah-KOO-nywah CHAH-ee, nah TRAY-nee yah kee-SAH-sah ee-nah-sah-FEE-ree hah-RAH-kah)",
+          "translation": "I am learning Swahili [1st person: ninajifunza], my friends are drinking tea [monosyllabic: wanakunywa], and the modern train travels fast [class 9: inasafiri]."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 3-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wanafunzi wote wanasoma darasani kwa furaha na walimu wao wanawaongoza kwa hekima.",
+          "reading": "Wa-na-fu-nzi wo-te wa-na-so-ma da-ra-sa-ni kwa fu-ra-ha na wa-li-mu wa-o wa-na-wa-o-ngo-za kwa he-ki-ma. [wɑnɑˈfunzi ˈwɔtɛ wɑnɑˈsɔmɑ dɑrɑˈsɑni kwɑ fuˈrɑhɑ nɑ wɑˈlimu ˈwɑɔ wɑnɑwɑɔŋˈɡɔzɑ kwɑ hɛˈkimɑ] (wah-nah-FOON-zee WOH-tay wah-nah-SOH-mah dah-rah-SAH-nee kwah foo-RAH-hah nah wah-LEE-moo WAH-oh wah-nah-wah-ohn-GOH-zah kwah hay-KEE-mah)",
+          "translation": "All students are studying [class 2 plural: wanasoma] in the classroom joyfully and their teachers are guiding them [plural: wanawaongoza] with wisdom."
+        },
+        {
+          "target": "Wakati uliopo wenye kiambishi '-na-' unaonyesha wazi vitendo vinavyoendelea kufanyika sasa hivi katika nyanja zote za maisha.",
+          "reading": "Wa-ka-ti u-li-o-po we-nye ki-a-mbi-shi '-na-' u-na-o-nye-sha wa-zi vi-te-ndo vi-na-vyo-e-nde-le-a ku-fa-nyi-ka sa-sa hi-vi ka-ti-ka nya-nja zo-te za ma-i-sha. [wɑˈkɑti uliˈɔpɔ ˈwɛnjɛ kiɑmˈbiʃi -nɑ- unɑɔˈɲɛʃɑ ˈwɑzi viˈtɛndɔ vinɑvjɔɛndɛˈlɛɑ kufɑˈɲikɑ ˈsɑsɑ ˈhivi kɑˈtikɑ ˈɲɑnʤɑ ˈzɔtɛ zɑ mɑˈiʃɑ] (wah-KAH-tee oo-lee-OH-poh WAYN-yay kee-ahm-BEE-shee '-na-' oo-nah-ohn-YAY-shah WAH-zee vee-TAYN-doh vee-nah-vyohn-day-LAY-ah koo-fah-NYEE-kah SAH-sah HEE-vee kah-TEE-kah NYAHN-jah ZOH-tay zah mah-EE-shah)",
+          "translation": "The present continuous tense with prefix '-na-' [present tense synthesis: wakati uliopo] clearly demonstrates actions currently unfolding in all spheres of life."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Muhtasari wa -NA-: Sasa hivi ninajifunza, ninakula ugali, ninasafisha nyumba, na kila kitu kinakwenda vizuri!"
+      ],
+      "culturalNotes": [
+        "Kuelewa wakati uliopo kunamwezesha mwanafunzi kueleza shughuli zake zote za sasa na kushiriki katika mazungumzo ya kijamii popote anapokwenda Afrika Mashariki."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Wali\":",
+          "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa wakati uliopo (-na-) kwa vitenzi vya kawaida na vitenzi vya silabi moja?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Maharagwe»",
-            "Mpangilio usio sahihi wa viambishi katika «Mboga»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Matunda»"
+            "Wanafunzi wanasoma vitabu na sasa wanakula chakula cha mchana. (Students are reading books and now eating lunch - Perfect synthesis of regular and monosyllabic verbs in -na-)",
+            "Wanafunzi alisoma vitabu na jana alikula chakula (Kosa la kutumia wakati uliopita)",
+            "Wanafunzi anasoma vitabu na sasa anala chakula (Mchanganyiko potofu wa umoja na kuangusha 'ku-')",
+            "Vitabu vyote wanasoma wanafunzi wote (Mpangilio usio sahihi wa maneno)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Wanafunzi wanasoma vitabu na sasa wanakula chakula cha mchana.» inatumia kitenzi cha kawaida «wanasoma» na kitenzi cha silabi moja «wanakula» kwa usahihi."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Wali\":",
+          "prompt": "Katika muhtasari mkuu wa Unit 3, kwanini kiambishi '-na-' ni nguzo muhimu ya mawasiliano ya Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Mboga»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Matunda»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Maharagwe»"
+            "Kwa sababu huwezesha kueleza vitendo vinavyotendeka sasa hivi na kuunganisha upatanisho wa ngeli zote kwa uwazi. (Because it enables expressing ongoing actions and harmonizes all noun class concords clearly)",
+            "Kwa sababu kinatumika tu kuhesabu nambari za pesa",
+            "Kwa sababu kinakataza matumizi ya majina ya watu",
+            "Hakina kazi yoyote katika sentensi za Kiswahili"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kiambishi «-na-» huwezesha kueleza vitendo vinavyoendelea hivi sasa kwa upatanisho wa ngeli zote."
         }
       ]
     },
@@ -1647,17 +1696,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Wali\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 3 ya Wakati Uliopo katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Matunda»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Maharagwe»",
-            "Mpangilio usio sahihi wa viambishi katika «Mboga»"
+            "Mimi ninasoma Kiswahili kwa makini, familia yangu inakunywa chai mezani, na watoto wote wanacheza uwanjani kwa furaha. (I am studying Swahili attentively, my family is drinking tea at the table, and all children are playing in the field joyfully.)",
+            "Mimi atasoma Kiswahili kesho na watoto wote alicheza jana.",
+            "Familia yangu linakunywa chai wakati mimi wanacheza uwanjani.",
+            "Wakati uliopo unatumia neno moja tu bila viambishi nafsi."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Mimi ninasoma Kiswahili kwa makini, familia yangu inakunywa chai mezani, na watoto wote wanacheza uwanjani kwa furaha.» inajumuisha kwa ukamilifu mnyambuliko wa nafsi, vitenzi vya silabi moja na upatanisho wa ngeli katika wakati uliopo."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u4-l1": {
