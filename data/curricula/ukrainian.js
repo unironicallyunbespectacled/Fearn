@@ -12785,53 +12785,62 @@
     "subject": "ukrainian",
     "unit": 31,
     "lessonNumber": 1,
-    "title": "Академічний дискурс, наукова термінологія (Academic Research) (Part 1)",
+    "title": "Методологія наукових досліджень, концептуалізація та гіпотези",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 31.1) with authentic linguistic precision.",
+    "objective": "Опанувати академічний категоріальний апарат наукового дослідження (об'єкт і предмет, дослідницька гіпотеза, наукова новизна, компаративістика, тріангуляція даних).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Науковий стиль української мови на рівні C2 вимагає бездоганного володіння методологічним апаратом та логіко-семантичною зв'язністю викладу:\n\n1. Структурні елементи наукового апарату дослідження:\n   - *«Об'єкт дослідження»* — процес або явище, що породжує проблемну ситуацію;\n   - *«Предмет дослідження»* — конкретні аспекти, властивості та закономірності об'єкта, що безпосередньо вивчаються;\n   - *«Дослідницька гіпотеза (наукове припущення)»*;\n   - *«Мета та комплекс взаємопов'язаних дослідницьких завдань»*;\n   - *«Наукова новизна одержаних результатів (уперше виявлено, удосконалено, набуло подальшого розвитку)»*;\n   - *«Теоретичне та практичне значення результатів»*.\n\n2. Методологічна система пізнання:\n   - *«Загальнонаукові методи»* (індукція, дедукція, абстрагування, ідеалізація, моделювання);\n   - *«Емпіричні методи»* (контент-аналіз, глибинні інтерв'ю, анкетування, кваліметрія);\n   - *«Теоретичні методи»* (компаративно-історичний, герменевтичний, структурно-функціональний аналіз, дискурс-аналіз);\n   - *«Методологічна тріангуляція»* (комбінування різних методів для верифікації даних).\n\n3. Стійкі академічні синтаксичні моделі:\n   - *«Дослідження спирається на теоретико-методологічні засади...»*;\n   - *«Виходячи із сутнісних характеристик феномена...»*;\n   - *«Емпіричну базу дослідження становлять...»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Наукова новизна результатів полягає у комплексному теоретико-методологічному обґрунтуванні моделі інституційної стійкості публічного управління.",
+          "reading": "[nɐˈukɔwɐ nɔwɪzˈnɑ rɛzulʲˈtɑtʲiw pɔlʲɑˈɦɑjɛ u kɔmpˈlɛksnɔmu tɛɔˈrɛtɪkɔ mɛtɔdɔlɔˈɦʲitʃnɔmu ɔbgruntʊˈwɑnnʲi mɔˈdɛlʲi instɪtut͡sʲijˈnɔji sʲtʲijˈkɔsʲtʲi ˈpublʲitʃnɔɦɔ uprɐwˈlʲinʲːɑ] (nah-oo-KOH-wah noh-wyz-NAH reh-zool'-TAH-teew poh-lyah-HAH-yeh oo kohmp-LEHKS-noh-moo teh-oh-REH-ty-koh meh-toh-doh-loh-HEECH-noh-moo ohb-hroon-too-VAHN-nee moh-DEH-lee een-sty-too-tseey-NOH-yee steey-KOHS-tee POOB-leech-noh-hoh oop-rahv-LEEN-nyah)",
+          "translation": "The scientific novelty of the results consists in the comprehensive theoretical and methodological substantiation of the institutional resilience model of public administration."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 31-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Предметом дослідження є концептуальні засади та інструментарій дискурс-аналізу політичних текстів доби постправди.",
+          "reading": "[prɛdˈmɛtɔm dɔsʲˈlʲidʒɛnʲːɑ jɛ kɔnt͡sɛptuˈɑlʲnʲi zɑˈsɑdɪ tɑ instrumɛnˈtɑrʲij dɪsˈkurs ɐˈnɑlʲizu pɔlʲiˈtɪtʃnɪx ˈtɛkstʲiw ˈdɔbɪ pɔstˈprɑwdɪ] (prehd-MEH-tohm dohs-LEE-dzhen-nyah yeh kohn-tsehp-too-AHL'-nee zah-SAH-dy tah een-stroo-mehn-TAH-reey dys-KOORS ah-NAH-lee-zoo poh-lee-TYCH-nykh TEHK-steew DOH-by pohst-PRAHV-dy)",
+          "translation": "The subject of the research is the conceptual foundations and toolkit of discourse analysis of political texts in the post-truth era."
+        },
+        {
+          "target": "Застосування методологічної тріангуляції забезпечило високий рівень валідності та надійності емпіричних результатів.",
+          "reading": "[zɐstɔsuˈwɑnʲːɑ mɛtɔdɔlɔˈɦʲitʃnɔji trʲiɐnɦulʲɑˈt͡sʲiji zɐbɛzˈpɛtʃɪlɔ wɪˈsɔkɪj ˈrʲiwɛnʲ wɐˈlʲidnɔsʲtʲi tɑ nɐˈdʲijnɔsʲtʲi ɛmpʲiˈrɪtʃnɪx rɛzulʲˈtɑtʲiw] (zahs-toh-soo-VAHN-nyah meh-toh-doh-loh-HEECH-noh-yee tree-ahn-hoo-lyah-TSEE-yee zah-bez-PEH-chy-loh vy-SOH-kyy REE-wehn' vah-LEED-nohs-tee tah nah-DEEY-nohs-tee ehm-pee-RYCH-nykh reh-zool'-TAH-teew)",
+          "translation": "The application of methodological triangulation ensured a high level of validity and reliability of the empirical results."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Об'єкт — широке поле явища; Предмет — вузький фокус вивчення; Наукова новизна — «уперше розроблено / удосконалено / набуло розвитку»!"
+      ],
+      "culturalNotes": [
+        "Національне агентство із забезпечення якості вищої освіти (НАЗЯВО) встановило європейські критерії оцінки наукової новизни дисертацій в Україні."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Банк\":",
+          "prompt": "Як у науковій методології співвідносяться категорії «об'єкт» і «предмет» дослідження?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.1.",
-            "Неправильне відмінкове узгодження зі словом «Вклад»",
-            "Порушення законів евфонії та словотворення для «Кредит»",
-            "Стилістично некоректна синтаксична конструкція з «Відсоток»"
+            "Об'єкт є ширшим процесом/явищем, а предмет — конкретним аспектом чи закономірністю всередині об'єкта (Object is broader; Subject is specific focus)",
+            "Об'єкт і предмет є абсолютно тотожними синонімами",
+            "Предмет завжди ширший за об'єкт дослідження",
+            "Об'єкт визначає тільки бібліографію, а предмет — експеримент"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Об'єкт дослідження охоплює широке явище, тоді як предмет визначає конкретний ракурс, властивість чи закономірність, що вивчається."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Банк\":",
+          "prompt": "Яке усталене дієслівне кліше використовується в авторефератах та дисертаціях для опису положень наукової новизни, розроблених уперше?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.1.",
-            "Порушення законів евфонії та словотворення для «Кредит»",
-            "Стилістично некоректна синтаксична конструкція з «Відсоток»",
-            "Неправильне відмінкове узгодження зі словом «Вклад»"
+            "Уперше обґрунтовано / доведено / розроблено (For the first time substantiated / proven)",
+            "Випадково помічено",
+            "Усім давно відомо",
+            "Придумано автором"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "В академічному дискурсі вживається нормативне кліше «Уперше обґрунтовано / розроблено / виявлено»."
         }
       ]
     },
@@ -12839,17 +12848,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Банк\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому методологічний апарат дослідження сформульовано з бездоганною академічною строгістю:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.1.",
-            "Стилістично некоректна синтаксична конструкція з «Відсоток»",
-            "Неправильне відмінкове узгодження зі словом «Вклад»",
-            "Порушення законів евфонії та словотворення для «Кредит»"
+            "Методологічною основою дослідження слугує герменевтичний підхід у поєднанні з якісним контент-аналізом першоджерел, що уможливило верифікацію висунутої гіпотези.",
+            "Автор просто почитав книжки і написав усе що думав про дану тему.",
+            "Методи дослідження були взяті різні без системи щоб скоріше написати роботу.",
+            "Гіпотеза була підтверджена через те що науковий керівник так сказав."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Методологічною основою дослідження слугує герменевтичний підхід у поєднанні з якісним контент-аналізом першоджерел...» — бездоганний академічний рівень C2."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u31-l2": {
@@ -12857,53 +12867,62 @@
     "subject": "ukrainian",
     "unit": 31,
     "lessonNumber": 2,
-    "title": "Академічний дискурс, наукова термінологія (Academic Research) (Part 2)",
+    "title": "Академічне письмо, рецензування та наукова аргументація",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 31.2) with authentic linguistic precision.",
+    "objective": "Опанувати норми наукового стилю (академічна аргументація, огляд історіографії, знеособлені синтаксичні конструкції, полемічні стратегії в рейтингових статтях Scopus/WoS).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Академічне письмо (Academic Writing) в українській мові базується на об'єктивності, доказовості, логічній послідовності та бездоганній нормативності:\n\n1. Жанри наукової комунікації:\n   - *«Наукова монографія»* — ґрунтовне одноосібне чи колективне дослідження;\n   - *«Фахова рецензована стаття у виданнях баз Scopus / Web of Science»*;\n   - *«Огляд літератури (Literature Review)»* — критичний аналіз світового наукового доробку;\n   - *«Анотація (Abstract) та ключові слова (Keywords)»*.\n\n2. Науково-аргументативні та полемічні кліше:\n   - *«Спираючись на компаративний аналіз емпіричних даних, констатуємо...»*;\n   - *«Як слушно аргументує професор N, концепт...»*;\n   - *«На противагу поширеній у сходознавстві гіпотезі, автор доводить...»*;\n   - *«Одержані результати корелюють із висновками попередніх розвідок...»*;\n   - *«Слід утім зауважити, що наведені емпіричні кореляції не є каузальними...»*.\n\n3. Синтаксична культура наукового тексту:\n   - Уникнення русизмів, пасивних калькованих дієприкметників на *-мий* (*не «виконуємий», а «виконуваний / здійснюваний»*);\n   - Використання безособових форм на *-но, -то* (*«у дослідженні доведено», «проаналізовано», «встановлено»*) та авторського *«ми»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Критичний огляд історіографії питання засвідчує брак комплексних досліджень, присвячених когнітивним трансформаціям мовної свідомості.",
+          "reading": "[krɪˈtɪtʃnɪj ˈɔɦlʲɑd isˈtɔrʲiɔɦrɐfʲiji pɪˈtɑnʲːɑ zɐsʲwʲidˈtʃujɛ brɑk kɔmpˈlɛksnɪx dɔsʲˈlʲidʒɛnʲ, prɪsʲwʲɑˈtʃɛnɪx kɔɦnʲiˈtɪwnɪm trɐnsfɔrˈmɑt͡sʲijɐm ˈmɔwnɔji swʲidɔˈmɔsʲtʲi] (kry-TYCH-nyy OHH-lyahd ees-toh-ree-oh-HRAH-fee-yee py-TAHN-nyah zahs-veed-CHOO-yeh BRAHK kohmp-LEHKS-nykh dohs-LEE-dzhen', prys-vyah-CHEH-nykh kohh-nee-TYV-nym trahns-fohr-MAH-tsee-yahm MOHV-noh-yee swee-doh-MOHS-tee)",
+          "translation": "A critical review of the historiography of the issue demonstrates a lack of comprehensive studies devoted to cognitive transformations of linguistic consciousness."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 31-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "На основі статистичного моделювання нами встановлено пряму кореляцію між рівнем цифровізації та прозорістю публічних закупівель.",
+          "reading": "[nɑ ɔsˈnɔwʲi stɐtɪsˈtɪtʃnɔɦɔ mɔdɛlʲuˈwɑnʲːɑ ˈnɑmɪ wstɐˈnɔwlɛnɔ prʲɑˈmu kɔrɛˈlʲɑt͡sʲiju mʲiʒ ˈrʲiwnɛm t͡sɪfrɔwʲizɑˈt͡sʲiji tɑ prɔˈzɔrʲisʲtʲu ˈpublʲitʃnɪx zɐˈkupʲiwɛlʲ] (nah ohs-NOH-vee stah-tys-TYCH-noh-hoh moh-deh-lyoo-VAHN-nyah NAH-my vstah-NOHV-leh-noh pryah-MOO koh-reh-LYAH-tsee-yoo meezh REEV-nehm tsyf-roh-vee-zah-TSEE-yee tah proh-ZOH-reest'yoo POOB-leech-nykh zah-KOO-pee-vehl')",
+          "translation": "Based on statistical modeling, we have established a direct correlation between the level of digitalization and the transparency of public procurement."
+        },
+        {
+          "target": "Запропонована інтерпретація дозволяє розв'язати тривалу наукову дискусію щодо автентичності пам'ятки.",
+          "reading": "[zɐprɔpɔˈnɔwɑnɐ intɛrprɛˈtɑt͡sʲijɑ dɔzˈwɔlʲɑjɛ rɔzwjɑˈzɑtɪ trɪˈwɑlu nɐˈukɔwu dɪsˈkusʲiju ʃtʃɔˈdɔ ɐwtɛnˈtɪtʃnɔsʲtʲi pɐˈmʲɑtkɪ] (zah-proh-poh-NOH-wah-nah een-tehr-preh-TAH-tsee-yah dohz-VOH-lyah-yeh rozv-yah-ZAH-ty try-VAH-loo nah-oo-KOH-woo dys-KOO-see-yoo shchoh-DOH ahv-tehn-TYCH-nohs-tee pah-MYAHT-ky)",
+          "translation": "The proposed interpretation allows resolving the protracted scientific debate regarding the authenticity of the monument."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Не «нами було доведено», а «ми довели / встановлено / обґрунтовано»; огляд джерел — «критичний огляд історіографії»!"
+      ],
+      "culturalNotes": [
+        "Українська наукова періодика активно інтегрується у міжнародні наукометричні бази, вимагаючи англомовних розширених анотацій та стандартів IMRAD."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Вклад\":",
+          "prompt": "Яка синтаксична форма є стилістично найдосконалішою в українському академічному письмі для вираження результату?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.2.",
-            "Неправильне відмінкове узгодження зі словом «Кредит»",
-            "Порушення законів евфонії та словотворення для «Відсоток»",
-            "Стилістично некоректна синтаксична конструкція з «Податок»"
+            "У дослідженні встановлено / нами встановлено (Impersonal established / we established - standard academic syntax)",
+            "Нами було доказано факт",
+            "Єсть доказуємий результат",
+            "Я тут доказав свою правоту"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативними є безособові предикативні форми на *-но, -то* («встановлено») або конструкція «нами встановлено / ми встановили»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Вклад\":",
+          "prompt": "Як називається міжнародна структура побудови наукових експериментальних статей (Introduction, Methods, Results, and Discussion)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.2.",
-            "Порушення законів евфонії та словотворення для «Відсоток»",
-            "Стилістично некоректна синтаксична конструкція з «Податок»",
-            "Неправильне відмінкове узгодження зі словом «Кредит»"
+            "IMRAD (Introduction, Methods, Results, and Discussion - international academic format)",
+            "STASIS",
+            "TRIVIUM",
+            "CANON"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Загальноприйнята міжнародна структура наукової статті — «IMRAD» (Вступ, Методи, Результати та Обговорення)."
         }
       ]
     },
@@ -12911,17 +12930,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Вклад\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому наукову полеміку сформульовано стилістично коректно та академічно зважено:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.2.",
-            "Стилістично некоректна синтаксична конструкція з «Податок»",
-            "Неправильне відмінкове узгодження зі словом «Кредит»",
-            "Порушення законів евфонії та словотворення для «Відсоток»"
+            "Попри вагомість аргументів опонентів, отримані емпіричні дані спонукають переглянути традиційну концепцію та врахувати фактор гібридних загроз.",
+            "Опоненти написали повну нісенітницю і їхня стаття нічого не варта.",
+            "Нами було зроблено відкриття що повністю перекреслює всю стару науку.",
+            "Я категорично забороняю всім іншим вченим сперечатися з моїм поглядом."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Попри вагомість аргументів опонентів, отримані емпіричні дані спонукають переглянути...» — еталон академічного етикету та наукової полеміки C2."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u31-l3": {
@@ -12929,53 +12949,62 @@
     "subject": "ukrainian",
     "unit": 31,
     "lessonNumber": 3,
-    "title": "Академічний дискурс, наукова термінологія (Academic Research) (Part 3)",
+    "title": "Академічна доброчесність, запобігання плагіату та стандарти бібліографії",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 31.3) with authentic linguistic precision.",
+    "objective": "Опанувати норми академічної етики (академічна доброчесність, плагіат, фабрикація даних, подвійне подання) та стандарти цитування (APA 7th, Chicago, Harvard, ДСТУ 8302:2015, DOI).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Академічна доброчесність (Academic Integrity) є обов'язковим фундаментом етичної наукової діяльності згідно зі ст. 42 Закону України «Про освіту»:\n\n1. Порушення академічної доброчесності:\n   - *«Академічний плагіат»* — оприлюднення чужих наукових результатів / тексту без посилання на автора;\n   - *«Самоплагіат»* — повторна публікація власних раніше оприлюднених текстів без належного посилання;\n   - *«Фабрикація даних»* — вигадування результатів, які не були отримані під час дослідження;\n   - *«Фальсифікація даних»* — свідома зміна або вибіркове приховування емпіричних даних;\n   - *«Академічне хабарництво та приписування співавторства (гостьове авторство)»*.\n\n2. Стандарти бібліографічного опису та цитування:\n   - *«ДСТУ 8302:2015»* (національний стандарт бібліографічного посилання);\n   - *«Міжнародні стилі цитування»*: APA 7th edition (соціальні науки), Chicago / Turabian (гуманітаристика), MLA (літературознавство), IEEE (інженерія), Harvard Style;\n   - *«Ідентифікатор цифрового об'єкта (DOI — Digital Object Identifier)»*;\n   - *«Індекс цитування (Citation Index) та ідентифікатор дослідника ORCID iD»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Дотримання принципів академічної доброчесності та обов'язкова перевірка рукописів на наявність некоректних запозичень є обов'язковою умовою публікації.",
+          "reading": "[dɔtrɪˈmɑnʲːɑ prɪnˈt͡sɪpʲiw ɐkɐdɛˈmʲitʃnɔji dɔbrɔˈtʃɛsnɔsʲtʲi tɑ ɔbɔwˈjɑzkɔwɐ pɛrɛˈwʲirkɐ rukɔˈpɪsʲiw nɑ nɐˈjɑwnʲisʲtʲ nɛkɔˈrɛktnɪx zɐpɔˈzɪtʃɛnʲ jɛ ɔbɔwˈjɑzkɔwɔju uˈmɔwɔju publʲiˈkɑt͡sʲiji] (doh-try-MAHN-nyah pryn-TSY-peew ah-kah-deh-MEECH-noh-yee doh-broh-CHEHS-nohs-tee tah oh-bov-YAHZ-koh-wah peh-reh-VEER-kah roo-koh-PYS-seew nah nah-YAHV-neest' neh-koh-REHKT-nykh zah-poh-ZY-chen' yeh oh-bov-YAHZ-koh-woh-yoo oo-MOH-woh-yoo poob-lee-KAH-tsee-yee)",
+          "translation": "Adherence to the principles of academic integrity and mandatory screening of manuscripts for incorrect borrowings is an obligatory condition of publication."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 31-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Оформлення списку використаних джерел за міжнародним стандартом APA 7th edition полегшує верифікацію посилань світовою науковою спільнотою.",
+          "reading": "[ɔfɔrmˈlɛnʲːɑ ˈspɪsku wɪkɔˈrɪstɐnɪx dʒɛˈrɛl zɑ mʲiʒnɐˈrɔdnɪm stɐnˈdɑrtɔm ɑ pɛ ɑ ˈsʲɔmɔɦɔ wɪˈdɑnʲːɑ pɔlɛɦˈʃujɛ wɛrɪfʲiˈkɑt͡sʲiju pɔsɪˈlɑnʲ swʲitɔˈwɔju nɐˈukɔwɔju spʲilʲˈnɔtɔju] (oh-fohrm-LEN-nyah SPYS-koo vy-koh-RYS-tah-nykh dzheh-REHL zah meezh-nah-ROHD-nym stahn-DAHR-tohm ah peh ah SYOH-moh-hoh vy-DAHN-nyah poh-leh-HSHOO-yeh veh-ry-fee-KAH-tsee-yoo poh-sy-LAHN' swee-toh-VOH-yoo nah-oo-KOH-woh-yoo speel'-NOH-toh-yoo)",
+          "translation": "Formatting the reference list according to the international APA 7th edition standard facilitates reference verification by the global scientific community."
+        },
+        {
+          "target": "Кожна наукова стаття повинна містити унікальний цифровий ідентифікатор DOI для забезпечення постійного доступу до першоджерела.",
+          "reading": "[ˈkɔʒnɐ nɐˈukɔwɐ stɐtʲˈtʲɑ pɔwɪnˈnɑ mʲisˈtɪtɪ unʲiˈkɑlʲnɪj t͡sɪfˈrɔwɪj idɛntɪfʲiˈkɑtɔr dɔ i dlʲɑ zɐbɛzˈpɛtʃɛnʲːɑ pɔsʲtʲijˈnɔɦɔ ˈdɔstupu dɔ pɛrʃɔdʒɛˈrɛlɐ] (KOHZH-nah nah-oo-KOH-wah staht-TYAH poh-wyn-NAH mees-TY-ty oo-nee-KAHL'-nyy tsyf-ROH-wyy ee-dehn-ty-fee-KAH-tohr doh ee dlyah zah-bez-PEH-chen-nyah pohs-teey-NOH-hoh DOHS-too-poo doh pehr-shoh-dzheh-REH-lah)",
+          "translation": "Each scientific article must contain a unique digital object identifier DOI to ensure permanent access to the primary source."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Плагіат — крадіжка тексту; Фабрикація — вигадування даних; Фальсифікація — підробка чисел; Цифровий ключ статті — DOI!"
+      ],
+      "culturalNotes": [
+        "Комітет з питань етики НАЗЯВО уповноважений позбавляти наукових ступенів докторів та кандидатів наук за виявлений академічний плагіат."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Кредит\":",
+          "prompt": "Як називається порушення академічної доброчесності, що полягає у вигадуванні неіснуючих даних чи результатів дослідження?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.3.",
-            "Неправильне відмінкове узгодження зі словом «Відсоток»",
-            "Порушення законів евфонії та словотворення для «Податок»",
-            "Стилістично некоректна синтаксична конструкція з «Бізнес»"
+            "Фабрикація даних (Data fabrication - inventing non-existent research data)",
+            "Самоплагіат",
+            "Рецензування",
+            "Анотування"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Вигадування фальшивих дослідницьких даних називається «фабрикацією даних»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Кредит\":",
+          "prompt": "Як розшифровується міжнародний цифровий ідентифікатор наукових публікацій DOI?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.3.",
-            "Порушення законів евфонії та словотворення для «Податок»",
-            "Стилістично некоректна синтаксична конструкція з «Бізнес»",
-            "Неправильне відмінкове узгодження зі словом «Відсоток»"
+            "Digital Object Identifier (Цифровий ідентифікатор об'єкта)",
+            "Data Online Index",
+            "Document Official Indicator",
+            "Direct Open Information"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "DOI розшифровується як Digital Object Identifier (Цифровий ідентифікатор об'єкта)."
         }
       ]
     },
@@ -12983,17 +13012,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Кредит\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому норми академічної доброчесності сформульовано абсолютно грамотно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.3.",
-            "Стилістично некоректна синтаксична конструкція з «Бізнес»",
-            "Неправильне відмінкове узгодження зі словом «Відсоток»",
-            "Порушення законів евфонії та словотворення для «Податок»"
+            "Некоректне запозичення текстових фрагментів без посилання на авторів визнається академічним плагіатом і тягне за собою відмову у присудженні наукового ступеня.",
+            "Копіювання чужих думок без лапок дозволяється якщо стаття публікується в інтернеті.",
+            "Самоплагіат є корисним інструментом для швидкого збільшення кількості публікацій.",
+            "Вигадані цифри в таблиці допомагають краще довести гіпотезу без експериментів."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Некоректне запозичення текстових фрагментів без посилання... визнається академічним плагіатом...» — бездоганний юридично-академічний синтаксис."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u31-l4": {
@@ -13001,53 +13031,62 @@
     "subject": "ukrainian",
     "unit": 31,
     "lessonNumber": 4,
-    "title": "Академічний дискурс, наукова термінологія (Academic Research) (Part 4)",
+    "title": "Дисертаційний процес, спеціалізовані вчені ради та публічний захист",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 31.4) with authentic linguistic precision.",
+    "objective": "Опанувати протокольний та процедурний дискурс захисту докторських дисертацій PhD (разові спецради, офіційні опоненти, відгуки, атестація НАЗЯВО).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Процедура присудження ступеня доктора філософії (PhD) та доктора наук в Україні регламентована стандартами НАЗЯВО та МОН:\n\n1. Суб'єкти атестації наукових кадрів:\n   - *«Здобувач наукового ступеня (аспірант / докторант)»*;\n   - *«Науковий керівник / науковий консультант»*;\n   - *«Разова спеціалізована вчена рада (разова спецрада у складі 5 осіб: голова, 2 рецензенти, 2 офіційні опоненти)»*;\n   - *«Постійно діюча спеціалізована вчена рада (для докторів наук)»*.\n\n2. Процедура та етапи публічного захисту:\n   - *«Попередня експертиза дисертації на фаховому семінарі кафедри»*;\n   - *«Оприлюднення електронної версії дисертації та відгуків опонентів на сайті закладу вищої освіти»*;\n   - *«Публічний захист з обов'язковою відео- та аудіофіксацією»*;\n   - *«Наукова доповідь здобувача, відповіді на запитання членів ради та зауваження опонентів»*;\n   - *«Таємне (або відкрите електронне) голосування членів ради»*;\n   - *«Ухвалення висновку та рішення про присудження наукового ступеня»*.\n\n3. Протокольні академічні формули:\n   - *«Слово надається офіційному опонентові, доктору наук, професору...»*;\n   - *«Дисертація становить собою завершене оригінальне наукове дослідження...»*;\n   - *«Здобувач продемонстрував глибокі фахові знання та високу ерудицію...»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Разова спеціалізована вчена рада одноголосно ухвалила рішення про присудження здобувачеві наукового ступеня доктора філософії з галузі права.",
+          "reading": "[rɑzɔwɐ spɛt͡sʲiɐlʲiˈzɔwɑnɐ wtʃɛˈnɑ ˈrɑdɐ ɔdnɔɦɔˈlɔsnɔ uxwɐˈlɪlɐ rʲiˈʃɛnʲːɑ prɔ prɪsuˈdʒɛnʲːɑ zdɔbuwɐˈtʃɛwʲi nɐˈukɔwɔɦɔ ˈstupɛnʲɑ ˈdɔktɔrɐ fʲilɔˈsɔfʲiji z ˈɦɑluzʲi ˈprɑwɐ] (rah-ZOH-wah speh-tsee-ah-lee-ZOH-wah-nah vcheh-NAH RAH-dah ohd-noh-hoh-LOHS-noh ookh-vah-LY-lah ree-SHEN-nyah proh pry-soo-DZHEN-nyah zdoh-boo-wah-CHEH-wee nah-oo-KOH-woh-hoh STOO-peh-nyah DOHK-toh-rah fee-loh-SOH-fee-yee z HAH-loo-zee PRAH-wah)",
+          "translation": "The one-time specialized academic council unanimously adopted a decision on awarding the applicant the scientific degree of Doctor of Philosophy in the field of law."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 31-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Офіційні опоненти у своїх відгуках відзначили високий рівень наукової новизни та практичну значущість одержаних результатів.",
+          "reading": "[ɔfʲit͡sʲijˈnʲi ɔpɔˈnɛntɪ u swɔˈjix wʲidˈɦukɐx wʲidznɐˈtʃɪlɪ wɪˈsɔkɪj ˈrʲiwɛnʲ nɐˈukɔwɔji nɔwɪzˈnɪ tɑ prɐkˈtɪtʃnu znɐˈtʃuʃtʃʲisʲtʲ ɔdɛrˈʒɑnɪx rɛzulʲˈtɑtʲiw] (oh-fee-tseey-NEE oh-poh-NEHN-ty oo swoh-YEEKH veed-HOO-kahkh veed-znah-CHY-ly vy-SOH-kyy REE-wehn' nah-oo-KOH-woh-yee noh-wyz-NY tah prahk-TYCH-noo znah-CHUSH-cheest' oh-dehr-ZHAH-nykh reh-zool'-TAH-teew)",
+          "translation": "The official opponents in their reviews noted the high level of scientific novelty and the practical significance of the obtained results."
+        },
+        {
+          "target": "Публічний захист дисертаційного дослідження транслювався у прямому етері відповідно до вимог НАЗЯВО щодо відкритості наукової атестації.",
+          "reading": "[pubˈlʲitʃnɪj zɑˈxɪst dɪsɛrtɐt͡sʲijˈnɔɦɔ dɔsʲˈlʲidʒɛnʲːɑ trɐnslʲuˈwɑwsʲɑ u prʲɑˈmɔmu ɛˈtɛrʲi wʲidpɔˈwʲidnɔ dɔ ˈwɪmɔɦ nɐzʲɑˈwɔ ʃtʃɔˈdɔ wʲidkˈrɪtɔsʲtʲi nɐˈukɔwɔji ɐtɛsˈtɑt͡sʲiji] (poob-LEECH-nyy zah-KHYST dy-sehr-tah-tseey-NOH-hoh dohs-LEE-dzhen-nyah trahns-lyoo-VAHV-syah oo pryah-MOH-moo eh-TEH-ree veed-poh-VEED-noh doh VY-moh-hoh nah-zyah-VOH shchoh-DOH veed-KRY-tohs-tee nah-oo-KOH-woh-yee ah-tehs-TAH-tsee-yee)",
+          "translation": "The public defense of the dissertation research was broadcast live in accordance with NAQA requirements regarding the openness of scientific certification."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Рада для PhD — «разова спеціалізована вчена рада» (5 осіб); експерти — 2 рецензенти + 2 офіційні опоненти; контроль — НАЗЯВО!"
+      ],
+      "culturalNotes": [
+        "Україна повністю перейшла на європейську трициклову модель вищої освіти Болонського процесу (бакалавр — магістр — доктор філософії PhD)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Відсоток\":",
+          "prompt": "Скільки науковців входить до складу разової спеціалізованої вченої ради для захисту дисертації доктора філософії (PhD) в Україні?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.4.",
-            "Неправильне відмінкове узгодження зі словом «Податок»",
-            "Порушення законів евфонії та словотворення для «Бізнес»",
-            "Стилістично некоректна синтаксична конструкція з «Договір»"
+            "5 осіб (голова, 2 рецензенти, 2 офіційні опоненти) (5 members - standard composition of one-time PhD council)",
+            "10 осіб",
+            "3 особи",
+            "15 осіб"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Разова спеціалізована вчена рада для захисту PhD складається рівно з 5 докторів/докторів філософії за профілем."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Відсоток\":",
+          "prompt": "Як називається центральний орган, що здійснює акредитацію освітньо-наукових програм та контроль якості дисертацій в Україні?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.4.",
-            "Порушення законів евфонії та словотворення для «Бізнес»",
-            "Стилістично некоректна синтаксична конструкція з «Договір»",
-            "Неправильне відмінкове узгодження зі словом «Податок»"
+            "НАЗЯВО (Національне агентство із забезпечення якості вищої освіти) (National Agency for Higher Education Quality Assurance)",
+            "ВАК СРСР",
+            "Державна інспекція праці",
+            "Асоціація ректорів"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Контроль якості вищої освіти та атестації здійснює НАЗЯВО."
         }
       ]
     },
@@ -13055,17 +13094,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Відсоток\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому процедуру захисту дисертації описано з дотриманням усіх процесуальних норм:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.4.",
-            "Стилістично некоректна синтаксична конструкція з «Договір»",
-            "Неправильне відмінкове узгодження зі словом «Податок»",
-            "Порушення законів евфонії та словотворення для «Бізнес»"
+            "Після виступу офіційних опонентів та успішних відповідей здобувача на зауваження, разова рада провела голосування та присудила науковий ступінь доктора філософії.",
+            "Здобувач отримав диплом PhD без проведення захисту та відгуків опонентів.",
+            "Голова ради самостійно підписав наказ про диплом без збору членів ради.",
+            "Опоненти заборонили здобувачеві відповідати на наукові запитання."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Після виступу офіційних опонентів та успішних відповідей здобувача... разова рада провела голосування...» — бездоганний протокольний синтаксис."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u31-l5": {
@@ -13073,53 +13113,62 @@
     "subject": "ukrainian",
     "unit": 31,
     "lessonNumber": 5,
-    "title": "Академічний дискурс, наукова термінологія (Academic Research) (Part 5)",
+    "title": "Наукометрія, відкрита наука та міжнародна колаборація",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 31.5) with authentic linguistic precision.",
+    "objective": "Опанувати наукометричну та грантову термінологію (Scopus, Web of Science, h-індекс, імпакт-фактор, квартилі Q1–Q4, Open Science, НФДУ, Horizon Europe).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Сучасна українська наука інтегрована у світовий дослідницький простір на засадах відкритості та наукометричної верифікованості:\n\n1. Наукометричні бази даних та індекси впливовості:\n   - *«Scopus (Elsevier) та Web of Science Core Collection (Clarivate)»*;\n   - *«Індекс Гірша (h-index)»* — кількісна характеристика продуктивності вченого на основі цитувань;\n   - *«Імпакт-фактор журналу (Impact Factor — JIF)»* та *«CiteScore»*;\n   - *«Квартилі журналів (Q1 — найвищий рейтинг, Q2, Q3, Q4)»*;\n   - *«Самоцитування та індекс цитованості»*.\n\n2. Концепція Відкритої науки (Open Science):\n   - *«Відкритий доступ (Open Access — Gold / Green / Diamond)»*;\n   - *«Відкриті наукові дані (FAIR Data: Findable, Accessible, Interoperable, Reusable)»*;\n   - *«Інституційні репозитарії та препринти (arXiv, SSRN)»*;\n   - *«Відкрите рецензування (Open Peer Review)»*.\n\n3. Міжнародне фінансування та трансфер знань:\n   - *«Грантові програми: Національний фонд досліджень України (НФДУ), Horizon Europe, Erasmus+ Jean Monnet»*;\n   - *«Трансфер технологій, комерціалізація наукових винаходів, патентування»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Публікація результатів фундаментального дослідження у виданні першого квартиля (Q1) забезпечила високий рівень міжнародного цитування.",
+          "reading": "[publʲiˈkɑt͡sʲijɑ rɛzulʲˈtɑtʲiw fundɐmɛnˈtɑlʲnɔɦɔ dɔsʲˈlʲidʒɛnʲːɑ u wɪˈdɑnnʲi ˈpɛrʃɔɦɔ kwɐrˈtɪlʲɑ ku ɔˈdɪn zɐbɛzˈpɛtʃɪlɐ wɪˈsɔkɪj ˈrʲiwɛnʲ mʲiʒnɐˈrɔdnɔɦɔ t͡sɪtuˈwɑnʲːɑ] (poob-lee-KAH-tsee-yah reh-zool'-TAH-teew foon-dah-mehn-TAHL'-noh-hoh dohs-LEE-dzhen-nyah oo vy-DAHN-nee PEHR-shoh-hoh kwahr-TY-lyah koo oh-DYN zah-bez-PEH-chy-lah vy-SOH-kyy REE-wehn' meezh-nah-ROHD-noh-hoh tsy-too-VAHN-nyah)",
+          "translation": "Publishing the results of the fundamental research in a first quartile (Q1) journal ensured a high level of international citation."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 31-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Концепція Відкритої науки (Open Science) передбачає безперешкодний доступ світової академічної спільноти до первинних масивів емпіричних даних.",
+          "reading": "[kɔnt͡sɛpˈt͡sʲijɑ wʲidkˈrɪtɔji nɐˈukɪ ˈɔupɛn ˈsɑjɛns pɛrɛdbɐˈtʃɑjɛ bɛzpɛrɛʃˈkɔdnɪj ˈdɔstup swʲitɔˈwɔji ɐkɐdɛˈmʲitʃnɔji spʲilʲˈnɔtɪ dɔ pɛrˈwɪnnɪx mɐˈsɪwʲiw ɛmpʲiˈrɪtʃnɪx ˈdɑnɪx] (kohn-tseh-PTSEE-yah veed-KRY-toh-yee nah-OO-ky OH-pehn SAH-yehns peh-rehd-bah-CHAH-yeh bez-peh-rehsh-KOHD-nyy DOHS-toop swee-toh-VOH-yee ah-kah-deh-MEECH-noh-yee speel'-NOH-ty doh pehr-WYN-nykh mah-SY-weew ehm-pee-RYCH-nykh DAH-nykh)",
+          "translation": "The Open Science concept provides unimpeded access for the global academic community to primary arrays of empirical data."
+        },
+        {
+          "target": "Успішна участь українських наукових колективів у програмі Horizon Europe сприяє інтеграції України до Європейського дослідницького простору.",
+          "reading": "[usʲˈpʲiʃnɐ ˈutʃɑsʲtʲ ukrɐˈjinsʲkɪx nɐˈukɔwɪx kɔlɛkˈtɪwʲiw u prɔɦˈrɑmʲi hɔˈrɪzɔn ˈjurɔp sprɪˈjɑjɛ intɛɦrɐˈt͡sʲiji ukrɐˈjinɪ dɔ jɛwrɔˈpɛjsʲkɔɦɔ dɔsʲlʲidˈnɪt͡sʲkɔɦɔ prɔsˈtɔru] (oos-PEESH-nah OO-chahst' oo-krah-YEEN-s'kykh nah-oo-KOH-wykh koh-lehk-TY-weew oo proh-HRAH-mee hoh-RY-zohn YOO-rohp spry-YAH-yeh een-teh-hrah-TSEE-yee oo-krah-YEE-ny doh yehv-roh-PEHY-s'koh-hoh dohs-leed-NYTS'-koh-hoh prohs-TOH-roo)",
+          "translation": "Successful participation of Ukrainian research teams in the Horizon Europe program fosters Ukraine's integration into the European Research Area."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Бази: Scopus & Web of Science; рейтинг журналу: Q1 (топ-25%); метрика вченого: індекс Гірша (h-index); модель: Open Science!"
+      ],
+      "culturalNotes": [
+        "Україна є асоційованим членом рамкової програми Європейського Союзу з досліджень та інновацій «Горизонт Європа» (Horizon Europe)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Податок\":",
+          "prompt": "Як називається квартиль наукових журналів, що належить до найвищих 25% за імпакт-фактором у своїй предметній галузі?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.5.",
-            "Неправильне відмінкове узгодження зі словом «Бізнес»",
-            "Порушення законів евфонії та словотворення для «Договір»",
-            "Стилістично некоректна синтаксична конструкція з «Підпис»"
+            "Квартиль Q1 (First quartile - top 25% ranking journals)",
+            "Квартиль Q4",
+            "Нульовий квартиль",
+            "Базовий квартиль"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Журнали найвищого рейтингу належать до першого квартиля — Q1."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Податок\":",
+          "prompt": "Який показник вимірює наукову продуктивність вченого на основі кількості його статей та кількості їх цитувань?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.5.",
-            "Порушення законів евфонії та словотворення для «Договір»",
-            "Стилістично некоректна синтаксична конструкція з «Підпис»",
-            "Неправильне відмінкове узгодження зі словом «Бізнес»"
+            "Індекс Гірша (h-index - Hirsch index metric)",
+            "Індекс споживчих цін",
+            "Коефіцієнт Джині",
+            "Індекс людського розвитку"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Наукометричний показник продуктивності та цитованості вченого називається «індексом Гірша» (h-index)."
         }
       ]
     },
@@ -13127,17 +13176,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Податок\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому наукометричні поняття вжито з абсолютною точністю:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 31.5.",
-            "Стилістично некоректна синтаксична конструкція з «Підпис»",
-            "Неправильне відмінкове узгодження зі словом «Бізнес»",
-            "Порушення законів евфонії та словотворення для «Договір»"
+            "Публікація статей у виданнях квартилів Q1 та Q2 міжнародних баз Scopus і Web of Science підвищує індекс Гірша науковця та відкриває шлях до грантів Horizon Europe.",
+            "Індекс Гірша показує скільки грошей заробив професор за один робочий рік.",
+            "Квартиль Q4 є найпрестижнішим журналом у світі за версією Академії наук.",
+            "Відкрита наука означає заборону цитування іноземних джерел у статтях."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Публікація статей у виданнях квартилів Q1 та Q2 міжнародних баз Scopus і Web of Science...» — досконалий рівень академічної обізнаності C2."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u32-l1": {
