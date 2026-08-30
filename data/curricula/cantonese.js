@@ -12785,53 +12785,62 @@
     "subject": "cantonese",
     "unit": 31,
     "lessonNumber": 1,
-    "title": "普通法體系與香港司法制度 (Common Law & Legal System) (第1課)",
+    "title": "香港普通法體系之源流與憲制基礎：「判例法」、「遵循先例」、「司法獨立」 (Common Law & Stare Decisis)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元31第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港普通法（Common Law）傳統源流、基本法憲制地位、法院層級架構（終審法院、高等法院）及「遵循先例原則」（Stare Decisis）之專業法律粵語話語。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港作為中國境內唯一實行普通法之司法管轄區，其法律體系具備高度嚴密之憲制與判例傳統：\n\n一、普通法體系與法治核心支柱：\n１．「普通法與衡平法體系」（pou2 tung1 faat3 jyu5 hang4 ping4 faat3 / Common Law & Equity）：\n- 以歷史判例為主要法律淵源，兼具確定性與因時制宜之靈活性。\n２．「遵循先例原則」（ceon4 ceon1 sin1 lai6 jyun4 zak1 / Stare Decisis）：\n- 下級法院必須嚴格受上級法院既有終審判決判例拘束（Binding Precedent）。\n３．「司法獨立與終審權」（si1 faat3 duk6 laap6 / Judicial Independence）：\n- 法官行使審判權不受任何行政或外部干預，香港終審法院（Court of Final Appeal）享有最終裁判權。\n\n二、法院層級架構（Court Hierarchy）：\n- 終審法院（Court of Final Appeal） -> 高等法院上訴法庭與原訟法庭（High Court） -> 區域法院（District Court） -> 裁判法院（Magistrates' Courts）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 31 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 31 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 31 in communication."
+          "target": "香港特區法院依據基本法獨立行使審判權，嚴格貫徹遵循先例原則，確保司法判決之確定性與權威性。",
+          "reading": "hoeng1 gong2 dak6 keoi1 faat3 jyun6*2 ji1 geoi3 gei1 bun2 faat3 duk6 laap6 hang4 sai2 sam2 pun3 kyun4, jim4 gaak3 gun3 cit3 ceon4 ceon1 sin1 lai6 jyun4 zak1, kok3 bou2 si1 faat3 pun3 kyut3 zi1 kok3 ding6 sing3 jyu5 kyun4 wai1 sing3. [hœːŋ˥ kʷɔːŋ˧˥ tɐk̚˨ kʰɵy˥ faːt̚˧ jyːn˨ jiː˥ kɵy˧ kei˥ puːn˧˥ faːt̚˧ tʊk̚˨ laːp̚˨ hɐŋ˨˩ sɐi˧˥ sɐm˧˥ pʰuːn˧ kʰyːn˨˩, jiːm˨˩ kaːk̚˧ kuːn˧ tsʰiːt̚˧ tsʰɵn˨˩ tsʰɵn˥ siːn˥ lɐi˨ jyːn˨˩ tsak̚˥, kʰɔːk̚˧ pou˧˥ siː˥ faːt̚˧ pʰuːn˧ kʰyːt̚˧ tsiː˥ kʰɔːk̚˧ tɪŋ˨ sɪŋ˧ jyː˩˧ kʰyːn˨˩ wɐi˥ sɪŋ˧] (HEUNG-GONG DUK-KOEY FAHT-YUEN YEE-GOEY GAY-BOON-FAHT DUK-LAHP HAHNG-SY SUM-POON-KUEN, YEEM-GAAK GOON-CHEET CHUEN-CHUEN SEEN-LY YUEN-JUK, KOK-BOU SEE-FAHT POON-KUET JEE KOK-DING-SING YUE KUEN-WAI-SING)",
+          "translation": "The courts of the Hong Kong Special Administrative Region exercise judicial power independently according to the Basic Law, strictly implementing the doctrine of precedent to ensure the certainty and authority of judicial decisions."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元31-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "終審法院之權威判例對香港全體下級法院具有法律拘束力，為商業合約與人權保障樹立咗清晰之法律準繩。",
+          "reading": "zung1 sam2 faat3 jyun6*2 zi1 kyun4 wai1 pun3 lai6 deoi3 hoeng1 gong2 cyun4 tai2 haa6 kap1 faat3 jyun6*2 geoi6 jau5 faat3 leot6 keoi1 cuk1 lik6, wai4 soeng1 jip6 hap6 joek3 jyu5 jan4 kyun4 bou2 zoeng3 syu6 laap6 zo2 cing1 sik1 zi1 faat3 leot6 zeon2 sang4. [tsʊŋ˥ sɐm˧˥ faːt̚˧ jyːn˨ tsiː˥ kʰyːn˨˩ wɐi˥ pʰuːn˧ lɐi˨ tɵy˧ hœːŋ˥ kʷɔːŋ˧˥ tsʰyːn˨˩ tʰɐi˧˥ haː˨ kʰɐp̚˥ faːt̚˧ jyːn˨ kɵy˨ jɐu˩˧ faːt̚˧ lɵt̚˨ kʰɵy˥ tsʰʊk̚˥ lɪk̚˨, wɐi˨˩ sœːŋ˥ jiːp̚˨ hɐp̚˨ jœːk̚˧ jyː˩˧ jɐn˨˩ kʰyːn˨˩ pou˧˥ tsœːŋ˧ syː˨ laːp̚˨ tsɔː˧˥ tsʰɪŋ˥ sɪk̚˥ tsiː˥ faːt̚˧ lɵt̚˨ tsɵn˧˥ sɐŋ˨˩] (JOONG-SUM FAHT-YUEN JEE KUEN-WAI POON-LY DEOY HEUNG-GONG CHUEN-TY HAH-KUP FAHT-YUEN GOEY-YAU FAHT-LEUT KOEY-CHUK-LIK, WAI SEUNG-YEEP HUP-YERK YUE YUN-KUEN BOU-JEUNG SUE-LAHP-JOR CHING-SIK JEE FAHT-LEUT JEON-SUNG)",
+          "translation": "The authoritative precedents of the Court of Final Appeal possess binding legal force over all lower courts in Hong Kong, establishing a clear legal yardstick for commercial contracts and human rights protections."
+        },
+        {
+          "target": "健全之普通法體系同崇高之法治聲譽，係香港鞏固國際金融、貿易同國際法律樞紐地位之最核心基石。",
+          "reading": "gin6 cyun4 zi1 pou2 tung1 faat3 tai2 hai6 tung4 sung4 gou1 zi1 faat3 zi6 sing1 jyu6, hai6 hoeng1 gong2 gung2 gu3 gwok3 zai3 gam1 jung4, mau6 jik6 tung4 gwok3 zai3 faat3 leot6 syu1 nau2 dei6 wai6 zi1 zeoi3 hat6 sam1 gei1 sek6. [kiːn˨ tsʰyːn˨˩ tsiː˥ pʰou˧˥ tʰʊŋ˥ faːt̚˧ tʰɐi˧˥ hɐi˨ tʰʊŋ˨˩ sʊŋ˨˩ kou˥ tsiː˥ faːt̚˧ tsiː˨ sɪŋ˥ jyː˨, hɐi˨ hœːŋ˥ kʷɔːŋ˧˥ kʊŋ˧˥ kuː˧ kʷɔːk̚˧ tsai˧ kɐm˥ jʊŋ˨˩, mɐu˨ jɪk̚˨ tʰʊŋ˨˩ kʷɔːk̚˧ tsai˧ faat̚˧ lɵt̚˨ syː˥ nɐu˩˧ tei˨ wɐi˨ tsiː˥ tsɵy˧ hɐt̚˨ sɐm˥ kei˥ sɪk̚˨] (GEEN-CHUEN JEE POU-TOONG-FAHT TY-HY TOONG SOONG-GOU JEE FAHT-JEE SING-YUE, HY HEUNG-GONG GONG-GOO GWOK-JAI GUM-YOONG, MAU-YIK TOONG GWOK-JAI FAHT-LEUT SUE-NAU DAY-WAI JEE JEOY-HUT-SUM GAY-SEK)",
+          "translation": "A robust common law system and high rule-of-law reputation constitute the most core cornerstone for Hong Kong to consolidate its status as an international financial, trading, and legal hub."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【普通法典訣】遵循先例判案公，終審法院坐鎮中；司法獨立法治固，東方之珠百代隆！"
+      ],
+      "culturalNotes": [
+        "香港終審法院座落於中環昃臣道前最高法院大樓（立法局大樓舊址）。根據《基本法》，香港終審法院可依法邀請其他普通法適用地區（如英國、澳大利亞、新西蘭）的資深法官參加審判，展現了香港普通法體系與全球普通法共同體的深度互聯。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"銀行\":",
+          "prompt": "【法律體系】普通法體系中下級法院在裁判同類案件時必須嚴格遵從上級法院既有判例之核心司法原則稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：提款錯置）",
-            "混雜生硬詞彙之不規範語句（例項：匯款未適配）",
-            "聲調助詞搭配欠妥之表達（例項：利息誤用）"
+            "遵循先例原則 (Doctrine of Precedent / Stare Decisis)",
+            "隨意自行裁量",
+            "每年重新立法",
+            "由當事人抽籤決定"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「遵循先例原則（Stare Decisis）」為普通法體系確定性與連續性之最核心基石。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"銀行\":",
+          "prompt": "【司法架構】香港特區法院體系中享有最高司法審判權與最終裁決權之司法機構係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：匯款未適配）",
-            "聲調助詞搭配欠妥之表達（例項：利息誤用）",
-            "語序顛倒嘅非標準句式（例項：提款錯置）"
+            "香港終審法院 (Hong Kong Court of Final Appeal / Zung1 sam2 faat3 jyun6)",
+            "裁判法院",
+            "勞資審裁處",
+            "淫褻物品審裁處"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "香港終審法院為香港特別行政區最高級別之終審司法機構。"
         }
       ]
     },
@@ -12839,15 +12848,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"銀行\": Which sentence is completely correct?",
+          "prompt": "【憲制地位】香港特別行政區之所以能夠在中國境內保持普通法制度，其最根本之憲制法律依據係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：利息誤用）",
-            "語序顛倒嘅非標準句式（例項：提款錯置）",
-            "混雜生硬詞彙之不規範語句（例項：匯款未適配）"
+            "《中華人民共和國香港特別行政區基本法》 (The Basic Law of the HKSAR)",
+            "中世紀大憲章",
+            "外國商會協議",
+            "民間習慣法"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "《香港基本法》在憲制層面確立並保障了香港維持普通法制度與司法獨立。"
         }
       ],
       "passThreshold": 0.8
@@ -12858,53 +12867,62 @@
     "subject": "cantonese",
     "unit": 31,
     "lessonNumber": 2,
-    "title": "普通法體系與香港司法制度 (Common Law & Legal System) (第2課)",
+    "title": "法庭審訊程序與訴訟話語：「大律師與事務律師」、「無罪推定」、「舉證責任」 (Courtroom Procedure & Litigation)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元31第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港普通法訴訟程序（刑事 vs 民事）、法律專業分工（大律師/事務律師）、法庭辯護術語及刑事審訊黃金準則（無罪推定、排除合理懷疑）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港法庭審訊融合了普通法對抗制訴訟（Adversarial System）與嚴格之程序正義：\n\n一、律師專業雙軌分工體系：\n１．「大律師 / 大狀」（daai6 leot6 si1 / Barrister）：\n- 專門負責在各級法院出庭辯護與陳詞，資深者可獲委任為「資深大律師」（Senior Counsel SC）。\n２．「事務律師」（si6 mou6 leot6 si1 / Solicitor）：\n- 直接接洽客戶、草擬合約訴狀、處理非訴訟法律事務並指示大律師出庭。\n\n二、刑事審判核心原則與法庭辯護話語：\n１．「無罪推定原則」（mou4 zeoi6 teoi1 ding6 / Presumption of Innocence）：\n- 被告人在未經法庭依法定罪前一律假定為無罪。\n２．「舉證責任與舉證標準」（geoi2 zing3 zaak3 jam6）：\n- 刑事案中舉證責任全在控方，標準必須達到「無可置疑 / 排除合理疑點」（Beyond Reasonable Doubt）。\n３．「疑點利益歸於被告」（ji4 dim2 lei6 jik1 gwai1 jyu1 bei6 gou3）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 31 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 31 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 31 in communication."
+          "target": "主控官如果未能提出確鑿證據排除合理疑點，法庭依據無罪推定原則必須判處被告罪名不成立。",
+          "reading": "zyu2 hung3 gun1 jyu4 gwo2 mei6 nang4 tai4 ceot1 kok3 zok6 zing3 geui3 paai4 ceoi4 hap6 lei5 ji4 dim2, faat3 jyun6*2 ji1 geoi3 mou4 zeoi6 teoi1 ding6 jyun4 zak1 bit1 seoi1 pun3 cyu2 bei6 gou3 zeoi6 ming4 bat1 sing4 laap6. [tsyː˧˥ hʊŋ˧ kuːn˥ jyː˨˩ kʷɔː˧˥ mei˨ nɐŋ˨˩ tʰɐi˨˩ tsʰɵt̚˥ kʰɔːk̚˧ tsɔːk̚˨ tsɪŋ˧ kɵy˧ pʰaːi˨˩ tsʰɵy˨˩ hɐp̚˨ lei˩˧ jiː˨˩ tiːm˧˥, faːt̚˧ jyːn˨ jiː˥ kɵy˧ mouou˨˩ tsɵy˨ tʰɵy˥ tɪŋ˨ jyːn˨˩ tsak̚˥ piːt̚˥ sɵy˥ pʰuːn˧ tsʰyː˧˥ pei˨ kou˧ tsɵy˨ mɪŋ˨˩ pɐt̚˥ sɪŋ˨˩ laːp̚˨] (JUE-HOONG-GOON YUE-GWOR MAY-NUNG TY-CHUT KOK-JOK JING-GOEY PY-CHOEY HUP-LEY YEE-DEEM, FAHT-YUEN YEE-GOEY MOU-JEOY TOEY-DING YUEN-JUK BEET-SOEY POON-CHUE BAY-GOU JEOY-MING BUT-SING-LAHP)",
+          "translation": "If the prosecutor fails to present solid evidence to eliminate reasonable doubt, the court must pronounce the defendant not guilty according to the presumption of innocence."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元31-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "資深大律師在法庭盤問證人環節抓住對方證詞之嚴重矛盾，成功推翻控方之關鍵指控。",
+          "reading": "zi1 sam1 daai6 leot6 si1 zoi6 faat3 jyun6*2 pun4 man6 zing3 jan4 waan4 zit3 zaa2 zyu6 deoi3 fong1 zing3 ci4 zi1 jim4 zung6 maau4 teon5, sing4 gung1 teoi1 faan1 hung3 fong1 zi1 gwaan1 gin6 zi2 hung3. [tsiː˥ sɐm˥ taːi˨ lɵt̚˨ siː˥ tsɔːi˨ faːt̚˧ jyːn˨ pʰuːn˨˩ mɐn˨ tsɪŋ˧ jɐn˨˩ waːn˨˩ tsit̚˧ tsaː˧˥ tsyː˨ tɵy˧ fɔːŋ˥ tsɪŋ˧ tsʰiː˨˩ tsiː˥ jiːm˨˩ tsʊŋ˨ maːu˨˩ tʰɵn˩˧, sɪŋ˨˩ kʊŋ˥ tʰɵy˥ faːn˥ hʊŋ˧ fɔːŋ˥ tsiː˥ kʷaːn˥ kiːn˧ tsiː˧˥ hʊŋ˧] (JEE-SUM DY LEUT-SEE JOY FAHT-YUEN POON-MUN JING-YUN WAHN-JEET JAA-JUE DEOY-FONG JING-CHEE JEE YEEM-JOONG MAU-TEON, SING-GONG TOEY-FAHN HOONG-FONG JEE GWAHN-GEEN JEE-HOONG)",
+          "translation": "The Senior Counsel seized upon serious contradictions in the opposing testimony during the witness cross-examination session, successfully overturning the prosecution's key accusation."
+        },
+        {
+          "target": "事務律師為當事人搜集詳盡書面證供並指示出庭大律師，雙方緊密配合以維護當事人之法定權益。",
+          "reading": "si6 mou6 leot6 si1 wai4 dong1 si6 jan4 sau2 zaap6 coeng4 zeon2 syu1 min6 zing3 gung1 bing6 zi2 si6 ceot1 ting4 daai6 leot6 si1, soeng1 fong1 gan2 mat6 pui3 hap6 ji5 wai4 wu6 dong1 si6 jan4 zi1 faat3 ding6 kyun4 jik1. [siː˨ mouou˨ lɵt̚˨ siː˥ wɐi˨˩ tɔːŋ˥ siː˨ jɐn˨˩ sɐu˧˥ tsaːp̚˨ tsʰœːŋ˨˩ tsɵn˧˥ syː˥ miːn˨ tsɪŋ˧ kʊŋ˥ pɪŋ˨ tsiː˧˥ siː˨ tsʰɵt̚˥ tʰɪŋ˨˩ taːi˨ lɵt̚˨ siː˥, sœːŋ˥ fɔːŋ˥ kɐn˧˥ mɐt̚˨ pʰuːi˧ hɐp̚˨ jiː˩˧ wɐi˨˩ wuː˨ tɔːŋ˥ siː˨ jɐn˨˩ tsiː˥ faːt̚˧ tɪŋ˨ kʰyːn˨˩ jɪk̚˨] (SEE-MOU LEUT-SEE WAI DONG-SEE-YUN SAU-JAHP CHEUNG-JEON SUE-MEEN JING-GONG BING JEE-SEE CHUT-TING DY LEUT-SEE, SEUNG-FONG GUN-MUT PUI-HUP YEE WAI-WOO DONG-SEE-YUN JEE FAHT-DING KUEN-YIK)",
+          "translation": "The solicitor gathers detailed written evidence for the client and instructs the barrister appearing in court, the two sides collaborating closely to uphold the client's legal rights and interests."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【法庭審訊訣】大狀出庭大律師，事務律師理卷書；無罪推定疑點益，排除懷疑正義居！"
+      ],
+      "culturalNotes": [
+        "香港法律界保持了英國普通法的傳統分工。大律師（俗稱『大狀』）在法庭審訊時身著傳統黑色大律師袍並佩戴馬毛假髮（Wig），體現了法庭的莊嚴與法律面前人人平等的象徵意義。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"提款\":",
+          "prompt": "【刑事原則】普通法刑事訴訟中，在法院依法審測定罪前將一切被告人假定為無罪之黃金原則係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：匯款錯置）",
-            "混雜生硬詞彙之不規範語句（例項：利息未適配）",
-            "聲調助詞搭配欠妥之表達（例項：投資誤用）"
+            "無罪推定原則 (Presumption of Innocence / Mou4 zeoi6 teoi1 ding6)",
+            "有罪推定",
+            "先入為主定罪",
+            "以口供為唯一依據"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「無罪推定」為文明司法制度中保障人身權利與防止冤假錯案之底線基石。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"提款\":",
+          "prompt": "【律師分工】在香港法律體系中，獲專門認可出庭進行高級別訴訟辯護與口頭陳詞之法律專家係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：利息未適配）",
-            "聲調助詞搭配欠妥之表達（例項：投資誤用）",
-            "語序顛倒嘅非標準句式（例項：匯款錯置）"
+            "大律師 / 大狀 (Barrister / Daai6 leot6 si1)",
+            "房地產經紀",
+            "物業管理員",
+            "會計記賬員"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "香港大律師（Barrister）專精於法庭訴訟、盤問與法律論辯。"
         }
       ]
     },
@@ -12912,15 +12930,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"提款\": Which sentence is completely correct?",
+          "prompt": "【證明標準】在普通法刑事案件中，控方欲指控被告有罪所必須達到的最高法律證明標準係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：投資誤用）",
-            "語序顛倒嘅非標準句式（例項：匯款錯置）",
-            "混雜生硬詞彙之不規範語句（例項：利息未適配）"
+            "排除合理疑點 (Beyond Reasonable Doubt / Paai4 ceoi4 hap6 lei5 ji4 dim2)",
+            "五成可能性的蓋然性權衡",
+            "主觀直覺懷疑",
+            "媒體輿論傾向"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「排除合理疑點（Beyond Reasonable Doubt）」為普通法刑事定罪之法定唯一證明門檻。"
         }
       ],
       "passThreshold": 0.8
@@ -12931,53 +12949,62 @@
     "subject": "cantonese",
     "unit": 31,
     "lessonNumber": 3,
-    "title": "普通法體系與香港司法制度 (Common Law & Legal System) (第3課)",
+    "title": "民商事法與國際仲裁：「違約損害賠償」、「謹慎責任」、「侵權行為」 (Commercial Law & Arbitration)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元31第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握普通法契約法（違約責任、損害賠償）、侵權法（謹慎責任、疏忽侵權）及香港作為亞太國際法律爭議解決與仲裁中心之高階商事法律話語。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港作為國際商業樞紐，其發達之民商事法體系與國際仲裁服務享有全球極高聲譽：\n\n一、契約法與侵權法核心概念：\n１．「契約成立要件與違約救濟」（Contract Law & Breach）：\n- 要約與承諾（Offer & Acceptance）、對價（Consideration）。\n- 違約救濟：損害賠償金（Damages）、強制履行令（Specific Performance）、禁制令（Injunction）。\n２．「侵權法與謹慎責任」（Tort of Negligence & Duty of Care）：\n- 源自著名「鄰人原則」（Neighbor Principle）：行為人對可合理預見會受損害之第三方負有法定謹慎責任。\n\n二、國際商事仲裁與爭議解決（Arbitration & Mediation）：\n１．「香港國際仲裁中心」（HKIAC）：\n- 全球排名前列之仲裁機構，具備高效、中立、裁決可跨國執行之特點。\n２．「仲裁協議之獨立性」（Doctrine of Separability）：\n- 合約中之仲裁條款獨立於主合同存在。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 31 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 31 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 31 in communication."
+          "target": "合約一方因重大違約導致項目終止，守約方有權依法向法院申請強制履行令並申索相應之損害賠償。",
+          "reading": "hap6 joek3 jat1 fong1 jan1 zung6 daai6 wai4 joek3 dou6 zi3 hong6 muk6 zung1 zi2, sau2 joek3 fong1 jau5 kyun4 ji1 faat3 hoeng3 faat3 jyun6*2 san1 cing2 koeng4 zai3 luk6 hang4 ling6 bing6 san1 sok3 soeng1 jing3 zi1 syun2 hoi6 pui4 soeng4. [hɐp̚˨ jœːk̚˧ jɐt̚˥ fɔːŋ˥ jɐn˥ tsʊŋ˨ taːi˨ wɐi˨ jœːk̚˧ tou˨ tsiː˧ hɔːŋ˨ mʊk̚˨ tsʊŋ˥ tsiː˧˥, sɐu˧˥ jœːk̚˧ fɔːŋ˥ jɐu˩˧ kʰyːn˨˩ jiː˥ faːt̚˧ hœːŋ˧ faːt̚˧ jyːn˨ sɐn˥ tsʰɪŋ˧˥ kʰœːŋ˨˩ tsai˧ lʊk̚˨ hɐŋ˨˩ lɪŋ˨ pɪŋ˨ sɐn˥ sɔːk̚˧ sœːŋ˥ jɪŋ˧ tsiː˥ syːn˧˥ hɔːi˨ pʰuːi˨˩ sœːŋ˨˩] (HUP-YERK YUT-FONG YUN JOONG-DY WAI-YERK DOU-JEE HOHNG-MUK JOONG-JEE, SAU-YERK FONG YAU-KUEN YEE-FAHT HEUNG FAHT-YUEN SUN-CHING KEUNG-JAI LUK-HAHNG LING BING SUN-SOK SEUNG-YING JEE SUEN-HOI PUI-SEUNG)",
+          "translation": "Where one contracting party causes project termination through a material breach, the non-breaching party is entitled by law to apply to court for an order of specific performance and claim corresponding damages."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元31-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "專業人士在履行職責時如果違反合理之謹慎責任而造成客戶損失，將構成普通法下之疏忽侵權責任。",
+          "reading": "zyun1 jip6 jan4 si6 zoi6 leoi5 hang4 zik1 zaak3 si4 jyu4 gwo2 wai4 faan2 hap6 lei5 zi1 gan2 san6 zaak3 jam6 ji4 zou6 sing4 haak3 wu6 syun2 sat1, zoeng1 gau3 sing4 pou2 tung1 faat3 haa6 zi1 so1 fat1 cam1 kyun4 zaak3 jam6. [tsyn˥ jiːp̚˨ jɐn˨˩ siː˨ tsɔːi˨ lɵy˩˧ hɐŋ˨˩ tsɪk̚˥ tsaːk̚˧ siː˨˩ jyː˨˩ kʷɔː˧˥ wɐi˨˩ faːn˨ hɐp̚˨ lei˩˧ tsiː˥ kɐn˧˥ sɐn˨ tsaːk̚˧ jɐm˨ jiː˨˩ tsou˨ sɪŋ˨˩ haːk̚˧ wuː˨ syːn˧˥ sɐt̚˥, tsœːŋ˥ kɐu˧ sɪŋ˨˩ pʰou˧˥ tʰʊŋ˥ faːt̚˧ haː˨ tsiː˥ sɔː˥ fɐt̚˥ tsʰɐm˥ kʰyːn˨˩ tsaːk̚˧ jɐm˨] (JUEN-YEEP YUN-SEE JOY LOEY-HAHNG JIK-JAAK SEE YUE-GWOR WAI-FAHN HUP-LEY JEE GUN-SUN JAAK-YUM YEE JOU-SING HAAK-WOO SUEN-SUT, JEUNG GAU-SING POU-TOONG-FAHT HAH JEE SOH-FUT CHUM-KUEN JAAK-YUM)",
+          "translation": "If professionals breach their reasonable duty of care in fulfilling their duties causing customer losses, it will constitute liability for the tort of negligence under common law."
+        },
+        {
+          "target": "香港國際仲裁中心憑藉中立專業之仲裁裁決，贏得全球跨國企業在跨境爭議解決中之高度信賴。",
+          "reading": "hoeng1 gong2 gwok3 zai3 zung6 coi4 zung1 sam1 pang4 ze3 zung1 laap6 zyun1 jip6 zi1 zung6 coi4 coi4 kyut3, jeng4 dak1 cyun4 kau4 kwaa1 gwok3 kei5 jip6 zoi6 kwaa1 ging3 zang1 ji5 gaai2 kyut3 zung1 zi1 gou1 dou6 seon3 laai6. [hœːŋ˥ kʷɔːŋ˧˥ kʷɔːk̚˧ tsai˧ tsʊŋ˨ tsʰɔːi˨˩ tsʊŋ˥ sɐm˥ pʰɐŋ˨˩ tsɛː˧ tsʊŋ˥ laːp̚˨ tsyn˥ jiːp̚˨ tsiː˥ tsʊŋ˨ tsʰɔːi˨˩ tsʰɔːi˨˩ kʰyːt̚˧, jɛːŋ˨˩ tɐk̚˥ tsʰyːn˨˩ kʰɐu˨˩ kʷʰaː˥ kʷɔːk̚˧ kʰei˩˧ jiːp̚˨ tsɔːi˨ kʷʰaː˥ kɪŋ˧ tsaːŋ˥ jiː˩˧ kaːi˧˥ kʰyːt̚˧ tsʊŋ˥ tsiː˥ kou˥ tou˨ sɵn˧ laːi˨] (HEUNG-GONG GWOK-JAI JOONG-CHOY JOONG-SUM PUNG-JEH JOONG-LAHP JUEN-YEEP JEE JOONG-CHOY CHOY-KUET, YENG-DUK CHUEN-KAU KWAH-GWOK KAY-YEEP JOY KWAH-GING JAANG-YEE GAI-KUET JOONG JEE GOU-DOU SEON-LY)",
+          "translation": "The Hong Kong International Arbitration Centre, through neutral and professional arbitral awards, has won the deep trust of multinational enterprises globally in cross-border dispute resolution."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【商事侵權訣】違約賠償補損失，謹慎責任不可失；國際仲裁信譽好，跨國商貿展宏圖！"
+      ],
+      "culturalNotes": [
+        "香港是《紐約公約》（Convention on the Recognition and Enforcement of Foreign Arbitral Awards）的適用地區，在香港作出的仲裁裁決可在全球超過160多個締約國獲得強制執行。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"匯款\":",
+          "prompt": "【侵權法】普通法中規定每個人在行動時對周圍可合理預見會受其行為影響之人負有防範損害義務之核心概念係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：利息錯置）",
-            "混雜生硬詞彙之不規範語句（例項：投資未適配）",
-            "聲調助詞搭配欠妥之表達（例項：股票誤用）"
+            "謹慎責任 (Duty of Care / Gan2 san6 zaak3 jam6)",
+            "無限絕對責任",
+            "互不相干免責",
+            "純粹道德倡議"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「謹慎責任（Duty of Care）」為侵權法中疏忽責任（Negligence）成立之核心前提。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"匯款\":",
+          "prompt": "【爭議解決】跨國商業交易中雙方約定由獨立中立之專業第三方機構作出具終局法律效力裁決之非訴訟爭議解決途徑係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：投資未適配）",
-            "聲調助詞搭配欠妥之表達（例項：股票誤用）",
-            "語序顛倒嘅非標準句式（例項：利息錯置）"
+            "國際商事仲裁 (International Commercial Arbitration / Gwok3 zai3 zung6 coi4)",
+            "網上公開罵戰",
+            "單方面武力威脅",
+            "無休止街頭爭吵"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「國際商事仲裁（Commercial Arbitration）」為全球商業貿易中首選之爭議解決機制。"
         }
       ]
     },
@@ -12985,15 +13012,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"匯款\": Which sentence is completely correct?",
+          "prompt": "【違約救濟】當金錢賠償不足以彌補受害方損失時，法院依據衡平法原則命令違約方必須按照原約定履行義務之司法命令稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：股票誤用）",
-            "語序顛倒嘅非標準句式（例項：利息錯置）",
-            "混雜生硬詞彙之不規範語句（例項：投資未適配）"
+            "強制履行令 (Specific Performance / Koeng4 zai3 luk6 hang4 ling6)",
+            "罰款警告信",
+            "撤銷法庭設立",
+            "免除全部合同責任"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「強制履行令（Specific Performance）」為普通法衡平法體系下極具約束力之違約特殊救濟手段。"
         }
       ],
       "passThreshold": 0.8
@@ -13004,53 +13031,62 @@
     "subject": "cantonese",
     "unit": 31,
     "lessonNumber": 4,
-    "title": "普通法體系與香港司法制度 (Common Law & Legal System) (第4課)",
+    "title": "法律草擬、雙語立法與法庭語言學：「法例詮釋條例」、「字義規則」、「雙語立法」 (Legal Drafting & Bilingual Legislation)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元31第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港雙語立法架構（中文與英文文本同具真準效力）、法例詮釋三大規則（字義規則、黃金規則、目的性詮釋法）及高階法律起草語法。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港作為全球唯一建立成熟英漢雙語普通法體系之地區，其法律起草與法例詮釋具備極高之語言學嚴密性：\n\n一、雙語立法與法例文本效力（Bilingual Legislation）：\n１．「同具真準效力」（Equally Authentic）：\n- 根據《法定語文條例》，法例之英文本與中文本具有同等法律效力。\n２．雙語法例對照與釋義協調：\n- 遇有歧義時，參照《釋義及通則條例》（香港法例第1章）探求立法真意。\n\n二、法例司法詮釋三大經典規則（Statutory Interpretation）：\n１．「字義規則」（Literal Rule）：\n- 按照法律文本字面通常含義進行嚴格解釋，不作推測擴展。\n２．「黃金規則」（Golden Rule）：\n- 若字面解釋會導致明顯荒謬之結果，法官可對詞義作適度修正。\n３．「目的性詮釋法 / 補救原則」（Purposive Approach / Mischief Rule）：\n- 依據立法的整體宗旨與社會目的進行解釋，填補法律漏洞。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 31 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 31 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 31 in communication."
+          "target": "香港法例之中文本與英文本同具真準效力，法官在審訊時須確保兩種語言文本在法律涵義上之高度一致性。",
+          "reading": "hoeng1 gong2 faat3 lai6 zi1 zung1 man4 bun2 jyu5 jing1 man4 bun2 tung4 geoi6 zan1 zeon2 haau6 lik6, faat3 gun1 zoi6 sam2 seon3 si4 seoi1 kok3 bou2 loeng5 zung3 jyu5 jin4 man4 bun2 zoi6 faat3 leot6 haam4 ji3 soeng6 zi1 gou1 dou6 jat1 zi3 sing3. [hœːŋ˥ kʷɔːŋ˧˥ faːt̚˧ lɐi˨ tsiː˥ tsʊŋ˥ mɐn˨˩ puːn˧˥ jyː˩˧ jɪŋ˥ mɐn˨˩ puːn˧˥ tʰʊŋ˨˩ kɵy˨ tsɐn˥ tsɵn˧˥ haːu˨ lɪk̚˨, faːt̚˧ kuːn˥ tsɔːi˨ sɐm˧˥ sɵn˧ siː˨˩ sɵy˥ kʰɔːk̚˧ pou˧˥ lœːŋ˩˧ tsʊŋ˧ jyuː˩˧ jiːn˨˩ mɐn˨˩ puːn˧˥ tsɔːi˨ faːt̚˧ lɵt̚˨ haːm˨˩ jiː˧ sœːŋ˨ tsiː˥ kou˥ tou˨ jɐt̚˥ tsiː˧ sɪŋ˧] (HEUNG-GONG FAHT-LY JEE JOONG-MUN-BOON YUE YING-MUN-BOON TOONG-GOEY JUN-JEON HAU-LIK, FAHT-GOON JOY SUM-SEON SEE SOEY KOK-BOU LEUNG-JOONG YUE-YEEN MUN-BOON JOY FAHT-LEUT HAHM-YEE SEUNG JEE GOU-DOU YUT-JEE-SING)",
+          "translation": "The Chinese and English texts of Hong Kong ordinances are equally authentic; judges during trials must ensure the high consistency of the two linguistic texts in legal meaning."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元31-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "法院在解釋法例條文時採用目的性詮釋法，以貫徹立法原意並防止機械執法損害社會公平正義。",
+          "reading": "faat3 jyun6*2 zoi6 gaai2 sik1 faat3 lai6 tiu4 man4 si4 coi2 jung6 muk6 dik1 sing3 kyun4 sik1 faat3, ji5 gun3 cit3 laap6 faat3 jyun4 ji3 bing6 fong4 fong4 gei1 haai6 zap1 faat3 syun2 hoi6 se5 wui6*2 gung1 ping4 zing3 ji6. [faːt̚˧ jyːn˨ tsɔːi˨ kaːi˧˥ sɪk̚˥ faːt̚˧ lɐi˨ tʰiːu˨˩ mɐn˨˩ siː˨˩ tsʰɔːi˧˥ jʊŋ˨ mʊk̚˨ tɪk̚˥ sɪŋ˧ kʰyːn˨˩ sɪk̚˥ faːt̚˧, jiː˩˧ kuːn˧ tsʰiːt̚˧ laːp̚˨ faːt̚˧ jyːn˨˩ jiː˧ pɪŋ˨ fɔːŋ˨˩ fɔːŋ˨˩ kei˥ haːi˨ tsɐp̚˥ faːt̚˧ syːn˧˥ hɔːi˨ sɛː˩˧ wuːi˨˩ kʊŋ˥ pʰɪŋ˨˩ tsɪŋ˧ jiː˨] (FAHT-YUEN JOY GAI-SIK FAHT-LY TEW-MUN SEE CHOY-YOONG MUK-DIK-SING KUEN-SIK-FAHT, YEE GOON-CHEET LAHP-FAHT YUEN-YEE BING FONG-FONG GAY-HAI JUP-FAHT SUEN-HOI SHEH-WUI GONG-PING JING-YEE)",
+          "translation": "When interpreting statutory provisions, the court adopted the purposive approach to implement the legislative intent and prevent mechanical enforcement from undermining social equity and justice."
+        },
+        {
+          "target": "法律起草工作要求極致之文字嚴謹度，每一個定義條款與關聯詞都必須經過反覆推敲以防歧義。",
+          "reading": "faat3 leot6 hei2 cou2 gung1 zok3 jiu1 kau4 gik6 zi3 zi1 man4 zi6 jim4 gan2 dou6, mui5 jat1 go3 ding6 ji6 tiu4 fun2 jyu5 gwaan1 lyun4 ci4 dou1 bit1 seoi1 ging1 gwo3 faan2 fuk1 teoi1 kaau1 ji5 fong4 kei4 ji6. [faːt̚˧ lɵt̚˨ hei˧˥ tsʰou˧˥ kʊŋ˥ tsɔːk̚˧ jiːu˥ kʰɐu˨˩ kɪk̚˨ tsiː˧ tsiː˥ mɐn˨˩ tsiː˨ jiːm˨˩ kɐn˧˥ tou˨, muːi˩˧ jɐt̚˥ kɔː˧ tɪŋ˨ jiː˧ tʰiːu˨˩ fuːn˧˥ jyː˩˧ kʷaːn˥ lyːn˨˩ tsʰiː˨˩ tou˥ piːt̚˥ sɵy˥ kɪŋ˥ kʷɔː˧ faːn˧˥ fʊk̚˥ tʰɵy˥ kʰaːu˥ jiː˩˧ fɔːŋ˨˩ kʰei˨˩ jiː˨] (FAHT-LEUT HEY-CHOU GONG-JOK YIU-KAU GIK-JEE JEE MUN-JEE YEEM-GUN-DOU, MOOY YUT-GOH DING-YEE TEW-FOON YUE GWAHN-LUEN-CHEE DOH BEET-SOEY GING-GWOR FAHN-FUK TOEY-HAU YEE FONG KAY-YEE)",
+          "translation": "Legal drafting requires the utmost linguistic rigor; every definition clause and conjunction must undergo repeated deliberation to prevent ambiguities."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【雙語立法訣】中英法例文本精，同具真準效力平；字義黃金目的法，探求真意法網明！"
+      ],
+      "culturalNotes": [
+        "香港自1980年代起推動法律雙語化工程，律政司法律草擬科（Law Drafting Division）匯聚了世界頂級法律語言學家與起草專家，成功將數百萬字普通法法例精確翻譯並創立了現代中文普通法專用詞庫。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"利息\":",
+          "prompt": "【法例詮釋】在法例解釋中，法官不局限於法條死板字面、而是探求立法背後整體政策目的與社會宗旨之詮釋方法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：投資錯置）",
-            "混雜生硬詞彙之不規範語句（例項：股票未適配）",
-            "聲調助詞搭配欠妥之表達（例項：保險誤用）"
+            "目的性詮釋法 (Purposive Approach / Muk6 dik1 sing3 kyun4 sik1)",
+            "隨便曲解法條",
+            "機械字面死扣",
+            "抽籤決定含義"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「目的性詮釋法（Purposive Approach）」為現代普通法法官探求法例精神實質最主流之詮釋準則。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"利息\":",
+          "prompt": "【雙語制度】香港《法定語文條例》對香港法例文本法律效力作出的核心規定係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：股票未適配）",
-            "聲調助詞搭配欠妥之表達（例項：保險誤用）",
-            "語序顛倒嘅非標準句式（例項：投資錯置）"
+            "中文本與英文本同具真準效力 (Chinese and English texts are equally authentic)",
+            "英文本效力永遠高於中文本",
+            "中文本僅供參考無法律效力",
+            "只以口頭聲明為準"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "香港特區法律規定中英兩種語言文本同具真準法定效力。"
         }
       ]
     },
@@ -13058,15 +13094,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"利息\": Which sentence is completely correct?",
+          "prompt": "【法例文本】在法例草擬中，為精確界定特定專有名詞在該部法律中之具體適用範圍所專門設置的法條章節稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：保險誤用）",
-            "語序顛倒嘅非標準句式（例項：投資錯置）",
-            "混雜生硬詞彙之不規範語句（例項：股票未適配）"
+            "釋義與定義條款 (Interpretation and Definition Clauses / Sik1 ji6 tiu4 fun2)",
+            "作者簡介",
+            "廣告宣傳頁",
+            "感謝名單"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「釋義條款（Interpretation Clauses）」為法例起草中鎖定法律術語內涵與外延之核心技術手段。"
         }
       ],
       "passThreshold": 0.8
@@ -13077,53 +13113,62 @@
     "subject": "cantonese",
     "unit": 31,
     "lessonNumber": 5,
-    "title": "普通法體系與香港司法制度 (Common Law & Legal System) (第5課)",
+    "title": "法理學、司法倫理與當代法治思辨：「自然法與實證法」、「實體正義」、「程序正義」 (Jurisprudence & Ethics)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元31第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握法理學核心流派（自然法學派 vs 法律實證主義）、自然公正原則（Natural Justice）、實體正義與程序正義思辨及司法倫理最高準則之法學話語。",
     "presentation": {
-      "explanation": "",
+      "explanation": "抵達法學思想之最高殿堂，要求對法理學（Jurisprudence）與司法倫理進行深邃之哲學批判：\n\n一、法哲學核心學派之永恆論辯：\n１．「自然法學派」（Natural Law）：\n- 法律之上存在永恆之道德正義與理性法則，「惡法非法」（Lex injusta non est lex）。\n２．「法律實證主義」（Legal Positivism）：\n- 法律為合法權威主權者頒布之指令，法與道德在概念上嚴格分離（「惡法亦法」）。\n\n二、司法正義與程序倫理之黃金準則：\n１．「程序正義與實體正義之辯證」（Procedural vs. Substantive Justice）：\n- 「正義不僅要得到實現，而且要以讓人看得見的方式實現」（Justice must not only be done, but must also be seen to be done）。\n２．「自然公正原則」（Rules of Natural Justice）：\n- 任何人不得在涉及自己的案件中擔任法官（Nemo judex in causa sua / 排除偏頗）。\n- 必須公平聆聽爭議雙方之陳詞（Audi alteram partem / 聆聽權利）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 31 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 31 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 31 in communication."
+          "target": "法官在審理案件時必須恪守自然公正原則，嚴格迴避任何存在利益衝突或可能引發偏頗懷疑之審判程序。",
+          "reading": "faat3 gun1 zoi6 sam2 lei5 on3 gin3*2 si4 bit1 seoi1 kok3 sau2 zi6 jin4 gung1 zing3 jyun4 zak1, jim4 gaak3 wui4 bei6 jam6 ho4 cyun4 zoi6 lei6 jik1 cung1 tat6 waak6 ho2 nang4 jan5 faat3 pin1 po2 waai4 ji4 zi1 sam2 pun3 cing4 zeoi6. [faːt̚˧ kuːn˥ tsɔːi˨ sɐm˧˥ lei˩˧ ɔːn˧ kiːn˧˥ siː˨˩ piːt̚˥ sɵy˥ kʰɔːk̚˧ sɐu˧˥ tsiː˨ jiːn˨˩ kʊŋ˥ tsɪŋ˧ jyːn˨˩ tsak̚˥, jiːm˨˩ kaːk̚˧ wuːi˨˩ pei˨ jɐm˨ hɔː˨˩ tsʰyːn˨˩ tsɔːi˨ lei˨ jɪk̚˨ tsʰʊŋ˥ tʰɐt̚˨ waːk̚˨ hɔː˧˥ nɐŋ˨˩ jɐn˩˧ faːt̚˧ pʰiːn˥ pʰɔː˧˥ waːi˨˩ jiː˨˩ tsiː˥ sɐm˧˥ pʰuːn˧ tsʰɪŋ˨˩ tsɵy˨] (FAHT-GOON JOY SUM-LEY ON-GEEN SEE BEET-SOEY KOK-SAU JEE-YEEN GONG-JING YUEN-JUK, YEEM-GAAK WOOI-BAY YUM-HOH CHUEN-JOY LEY-YIK CHOONG-TUT WAAK HOH-NUNG YUN-FAHT PEEN-POH WAI-YEE JEE SUM-POON CHING-JEOY)",
+          "translation": "When adjudicating cases, judges must scrupulously adhere to the principles of natural justice, strictly recusing themselves from any trial proceedings involving conflicts of interest or possible suspicions of bias."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元31-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "程序正義乃法治文明之基石，正義不僅要被實質實現，更必須以公眾看得見之透明程序展現出來。",
+          "reading": "cing4 zeoi6 zing3 ji6 naai5 faat3 zi6 man4 ming4 zi1 gei1 sek6, zing3 ji6 bat1 daan1 zi2 jiu3 bei6 sat6 zat1 sat6 jin6, gang3 bit1 seoi1 ji5 gung1 zung3 hon3 dak1 gin3 zi1 tau1 ming4 cing4 zeoi6 zin2 jin6 ceot1 lai4. [tsʰɪŋ˨˩ tsɵy˨ tsɪŋ˧ jiː˨ naːi˩˧ faːt̚˧ tsiː˨ mɐn˨˩ mɪŋ˨˩ tsiː˥ kei˥ sɪk̚˨, tsɪŋ˧ jiː˨ pɐt̚˥ taːn˥ tsiː˧˥ jiːu˧ pei˨ sɐt̚˨ tsɐt̚ sɐt̚˨ jiːn˨, kɐŋ˧ piːt̚˥ sɵy˥ jiː˩˧ kʊŋ˥ tsʊŋ˧ hɔːn˧ tɐk̚˥ kiːn˧ tsiː˥ tʰɐu˥ mɪŋ˨˩ tsʰɪŋ˨˩ tsɵy˨ tsiːn˧˥ jiːn˨ tsʰɵt̚˥ lɐi˨˩] (CHING-JEOY JING-YEE NY FAHT-JEE MUN-MING JEE GAY-SEK, JING-YEE BUT-DAHN-JEE YIU BAY SUT-JUT SUT-YEEN, GUNG BEET-SOEY YEE GONG-JOONG HOHN-DUK-GEEN JEE TAU-MING CHING-JEOY JEEN-YEEN-CHUT-LY)",
+          "translation": "Procedural justice is the cornerstone of rule of law civilization; justice must not only be substantively realized, but must also be demonstrated through transparent procedures visible to the public."
+        },
+        {
+          "target": "自然法學派同法律實證主義對法律與道德關聯之深刻思辨，持續引領住人類對良法善治之不懈探索。",
+          "reading": "zi6 jin4 faat3 hok6 paai3 tung4 faat3 leot6 sat6 zing3 zyu2 ji6 deoi3 faat3 leot6 jyu5 dou6 dak1 gwaan1 lyun4 zi1 sam1 hak1 si1 bin6, ci4 zuk6 jan5 ling5 zyu6 jan4 leoi6 deoi3 loeng4 faat3 sin6 zi6 zi1 bat1 haai6 taam3 sok3. [tsiː˨ jiːn˨˩ faːt̚˧ hɔːk̚˨ pʰaːi˧ tʰʊŋ˨˩ faːt̚˧ lɵt̚˨ sɐt̚˨ tsɪŋ˧ tsyː˧˥ jiː˨ tɵy˧ faːt̚˧ lɵt̚˨ jyː˩˧ tou˨ tɐk̚˥ kʷaːn˥ lyːn˨˩ tsiː˥ sɐm˥ hɐk̚˥ siː˥ piːn˧, tsʰiː˨˩ tsʊk̚˨ jɐn˩˧ lɪŋ˩˧ tsyː˨ jɐn˨˩ lɵy˨ tɵy˧ lœːŋ˨˩ faːt̚˧ siːn˨ tsiː˨ tsiː˥ pɐt̚˥ haːi˨ tʰaːm˧ sɔːk̚˧] (JEE-YEEN FAHT-HOK-PY TOONG FAHT-LEUT SUT-JING JUE-YEE DEOY FAHT-LEUT YUE DOU-DUK GWAHN-LUEN JEE SUM-HUK SEE-BEEN, CHEE-JUK YUN-LING-JUE YUN-LOEY DEOY LEUNG-FAHT SEEN-JEE JEE BUT-HY TAHM-SOK)",
+          "translation": "The profound deliberations between natural law and legal positivism on the nexus between law and morality continue to guide humanity's untiring quest for good laws and good governance."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【法理正義訣】程序實體雙正義，自然公正莫徇私；自然法光照天地，善治良法四海期！"
+      ],
+      "culturalNotes": [
+        "普通法中最著名的正義格言『Justice must not only be done, but must also be seen to be done』出自1924年英國高等法院Rex v. Sussex Justices一案中休厄特首席大法官（Lord Hewart）的名言，已成為香港及全球普通法司法獨立與公開審判的核心座右銘。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"投資\":",
+          "prompt": "【司法倫理】自然公正原則（Natural Justice）中嚴格規定法官絕不能審理與自己存在利益關聯案件之拉丁法諺係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：股票錯置）",
-            "混雜生硬詞彙之不規範語句（例項：保險未適配）",
-            "聲調助詞搭配欠妥之表達（例項：合約誤用）"
+            "任何人不得在自己的案件中擔任法官 (Nemo judex in causa sua)",
+            "法官可以任意接受饋贈",
+            "法官可以自告自審",
+            "法官無須迴避利益衝突"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「Nemo judex in causa sua」為確保司法公正無偏頗之第一自然正義鐵律。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"投資\":",
+          "prompt": "【法學流派】主張法律之上存在著永恆客觀之道德與理性法則、非正義之法律並非真正法律之學派係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：保險未適配）",
-            "聲調助詞搭配欠妥之表達（例項：合約誤用）",
-            "語序顛倒嘅非標準句式（例項：股票錯置）"
+            "自然法學派 (Natural Law School / Zi6 jin4 faat3 hok6 paai3)",
+            "純粹強權論",
+            "虛無主義派",
+            "商業至上派"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「自然法學派（Natural Law）」將道德正義與理性視為檢驗法律正當性之最高標準。"
         }
       ]
     },
@@ -13131,15 +13176,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"投資\": Which sentence is completely correct?",
+          "prompt": "【法治名言】普通法體系中強調審判程序必須公開透明、公眾必須能夠直觀感受正義得以落實之世界名言係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：合約誤用）",
-            "語序顛倒嘅非標準句式（例項：股票錯置）",
-            "混雜生硬詞彙之不規範語句（例項：保險未適配）"
+            "正義不僅要得到實現，而且要以讓人看得見的方式實現 (Justice must not only be done, but must also be seen to be done)",
+            "正義可以秘密暗中達成",
+            "審判結果無須向公眾說明",
+            "只要目的正確可以不擇手段"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "此名言精闢闡明了程序正義（Procedural Justice）對於公眾建立法治信心之不可替代價值。"
         }
       ],
       "passThreshold": 0.8
