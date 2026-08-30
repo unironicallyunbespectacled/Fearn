@@ -5405,53 +5405,62 @@
     "subject": "ukrainian",
     "unit": 13,
     "lessonNumber": 1,
-    "title": "Дієслова руху: односпрямовані та неодноспрямовані (Motion Verbs) (Part 1)",
+    "title": "Безпрефіксні дієслова руху (Unprefixed Motion Verbs)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 13.1) with authentic linguistic precision.",
+    "objective": "Опанувати розрізнення односпрямованого (іти, їхати, бігти, летіти) та неодноспрямованого/повторюваного (ходити, їздити, бігати, літати) руху в теперішньому та минулому часах.",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові безпрефіксні дієслова руху утворюють унікальну систему пар, де обидва дієслова належать до недоконаного виду, але розрізняються спрямованістю та характером переміщення:\n\n1. Односпрямовані дієслова (Unidirectional) — позначають рух в одному конкретному напрямку, що відбувається в певний момент мовлення:\n   - Іти (пішки): «Я зараз іду до бібліотеки» (I am walking to the library right now).\n   - Їхати (транспортом): «Потяг їде до Львова».\n   - Бігти: «Спортсмен біжить до фінішу».\n   - Летіти: «Птах летить на південь».\n   - Плисти: «Човен пливе до острова».\n\n2. Неодноспрямовані дієслова (Multidirectional / Habitual) — позначають рух у різних напрямках, регулярне/повторюване переміщення, рух туди й назад (round trip) або здатність рухатися:\n   - Ходити: «Я щодня ходжу до університету» (регулярність), «Вчора я ходив у театр» (туди й назад).\n   - Їздити: «Ми часто їздимо в Карпати».\n   - Бігати: «Діти весело бігають у парку».\n   - Літати: «Літаки літають щодня».\n   - Плавати: «Він уміє добре плавати».\n\n3. Минулий час: «Я вчора йшов парком, коли зустрів друга» (процес у момент) vs «Я вчора ходив у парк» (завершений похід туди й назад).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Зараз я швидко йду на важливу зустріч, тому що поспішаю.",
+          "reading": "[ˈzɑrɐz jɑ ˈʃwɪdkɔ jdu nɑ wɑʒˈlɪwu ˈzustrʲitʃ, ˈtɔmu ʃtʃɔ pɔsʲpʲiˈʃɑju] (ZAH-rahz yah SHVYD-koh YDOO nah vahzh-LY-voo ZOOST-veech, TOH-moo shchoh poh-spee-SHAH-yoo)",
+          "translation": "Right now I am walking quickly to an important meeting because I am in a hurry."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 13-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Ми щонеділі ходимо на вистави до Національного академічного театру.",
+          "reading": "[mɪ ʃtʃɔnɛˈdʲilʲi ˈxɔdɪmɔ nɑ wɪsˈtɑwɪ dɔ nɐt͡sʲiɔˈnɑlʲnɔɦɔ ɐkɐdɛˈmʲitʃnɔɦɔ tɛˈɑtru] (my shchoh-neh-DEE-lee KHOH-dy-moh nah vys-TAH-wy doh nah-tsee-oh-NAHL'-noh-hoh ah-kah-deh-MEECH-noh-hoh teh-AH-troo)",
+          "translation": "Every Sunday we go to performances at the National Academic Theater."
+        },
+        {
+          "target": "Поїзд «Інтерсіті» плавно їде мальовничим маршрутом Київ — Харків.",
+          "reading": "[ˈpɔjizd intɛrˈsʲitʲi ˈplɑwnɔ ˈjijidɛ mɐlʲɔwˈnɪtʃɪm mɐrʃˈrutɔm ˈkɪjiw ˈxɑrkiw] (POH-yeezd een-tehr-SEE-tee PLAHV-noh YEE-deh mahl'-ohv-NY-chym mahrsh-ROO-tohm KY-yeev KHAHR-keev)",
+          "translation": "The Intercity train travels smoothly along the picturesque Kyiv–Kharkiv route."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Іду» — один шлях прямо зараз; «ходжу» — туди й назад щодня!"
+      ],
+      "culturalNotes": [
+        "Поїзд «Київ — Львів» чи «Київ — Харків» є класичним прикладом для дієслова «їхати», оскільки залізничний транспорт в Україні є ключовою артерією пасажирських перевезень."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Книга\":",
+          "prompt": "Оберіть правильне дієслово руху для речення, що виражає регулярну повторювану дію: «Щоранку студенти ... пішки до корпусу»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.1.",
-            "Неправильне відмінкове узгодження зі словом «Музика»",
-            "Порушення законів евфонії та словотворення для «Фільм»",
-            "Стилістично некоректна синтаксична конструкція з «Спорт»"
+            "Ходять (Multidirectional/habitual verb for repeated action щоранку)",
+            "Ідуть",
+            "Йшли",
+            "Підуть"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Прислівник «щоранку» вказує на регулярний повторюваний рух, що вимагає неодноспрямованого дієслова «ходять»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Книга\":",
+          "prompt": "Яке речення описує процес руху в одному напрямку безпосередньо в момент мовлення?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.1.",
-            "Порушення законів евфонії та словотворення для «Фільм»",
-            "Стилістично некоректна синтаксична конструкція з «Спорт»",
-            "Неправильне відмінкове узгодження зі словом «Музика»"
+            "Поглянь, куди так стрімко біжить той спортсмен?",
+            "Він щодня бігає вранці навколо озера.",
+            "Діти часто бігають коридорами школи.",
+            "Птахи вміють літати високо в небі."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Слово «поглянь» та питальне «куди» вказують на конкретний односпрямований рух у момент мовлення: «біжить»."
         }
       ]
     },
@@ -5459,17 +5468,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Книга\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому безпрефіксні дієслова руху вжито згідно з логікою спрямованості:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.1.",
-            "Стилістично некоректна синтаксична конструкція з «Спорт»",
-            "Неправильне відмінкове узгодження зі словом «Музика»",
-            "Порушення законів евфонії та словотворення для «Фільм»"
+            "Коли я йшов додому, я зустрів сусіда, який щодня ходить цим шляхом.",
+            "Коли я ходив додому в той момент, я зустрів сусіда, який щодня йде.",
+            "Я щодня йду до школи, а зараз ходив туди.",
+            "Потяг щодня їде до Одеси в усі боки одночасно."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "У моментній дії («коли йшов») вжито односпрямоване «йшов», а для регулярності («щодня») — неодноспрямоване «ходить»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u13-l2": {
@@ -5477,53 +5487,62 @@
     "subject": "ukrainian",
     "unit": 13,
     "lessonNumber": 2,
-    "title": "Дієслова руху: односпрямовані та неодноспрямовані (Motion Verbs) (Part 2)",
+    "title": "Транзитивні дієслова переміщення предметів (Transitive Motion Verbs)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 13.2) with authentic linguistic precision.",
+    "objective": "Опанувати вживання транзитивних дієслів переміщення об'єктів (нести/носити, вести/водити, везти/возити) та розрізнення пішого перенесення, супроводу та перевезення транспортом.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Транзитивні дієслова руху поєднуються з прямим додатком у знахідному відмінку (кого? що?) і також поділяються на односпрямовані та неодноспрямовані:\n\n1. Три пари транзитивних дієслів переміщення:\n   - Нести (односпр.) / Носити (неодноспр.) — переміщати предмет у руках або на собі пішки:\n     * «Я зараз несу важкий рюкзак» vs «Я завжди ношу окуляри» / «Він носить книжки до бібліотеки щотижня».\n   - Вести (односпр.) / Водити (неодноспр.) — супроводжувати живу істоту або керувати рухомим засобом:\n     * «Мати веде дитину за руку до дитсадка» vs «Він уміє впевнено водити автомобіль».\n   - Везти (односпр.) / Возити (неодноспр.) — переміщати об'єкт за допомогою транспортного засобу:\n     * «Водій везе пасажирів до аеропорту» vs «Вантажівка щодня возить будматеріали».\n\n2. Фонетичні та граматичні чергування:\n   - Нести: несу, несеш, несе, несемо, несете, несуть; минулий час: ніс, несла, несло, несли.\n   - Вести: веду, ведеш...; минулий час: вів, вела, вело, вели.\n   - Везти: везу, везеш...; минулий час: віз, везла, везло, везли.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Кур'єр обережно несе свіжі квіти та подарунок для іменинниці.",
+          "reading": "[kurˈjɛr ɔbɛˈrɛʒnɔ nɛˈsɛ swʲiˈʒi ˈkwʲitɪ tɑ pɔˈdɑrunɔk dlʲɑ imɛˈnɪnːɪt͡sʲi] (koor-YEHR oh-beh-REHZH-noh neh-SEH svee-ZHEE KVEE-ty tah poh-DAH-roo-nohk dlyah ee-meh-NYN-ny-tsee)",
+          "translation": "The courier is carefully carrying fresh flowers and a gift for the birthday girl."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 13-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Мій батько вже понад двадцять років професійно водить великі автобуси.",
+          "reading": "[mʲij ˈbɑtʲkɔ wʒɛ ˈpɔnɐd ˈdwɑd͡zʲɑtʲ ˈrɔkʲiw prɔfɛˈsʲijnɔ ˈwɔdɪtʲ wɛˈlɪkʲi ɐwtɔˈbusɪ] (meey BAHT'-koh vzheh POH-nahd DVAHD-tsyat' ROH-keew proh-feh-SEEY-noh VOH-dyt' veh-LY-kee ahv-toh-BOO-sy)",
+          "translation": "My father has been professionally driving large buses for over twenty years."
+        },
+        {
+          "target": "Спеціальний потяг везе гуманітарну допомогу до постраждалих районів.",
+          "reading": "[spɛt͡sʲiˈɑlʲnɪj ˈpɔtʲɑɦ wɛˈzɛ ɦumɐnʲiˈtɑrnu dɔpɔˈmɔɦu dɔ pɔstrɐʒˈdɑlɪx rɐˈjɔnʲiw] (speh-tsee-AHL'-nyy POH-tyahk veh-ZEH hoo-mah-nee-TAHR-noo doh-poh-MOH-hoo doh poh-strahzh-DAH-lykh rah-YOH-neew)",
+          "translation": "A special train is transporting humanitarian aid to the affected regions."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "У руках пішки — «несу», за руку чи за кермом — «веду», у кузові чи вагоні — «везу»!"
+      ],
+      "culturalNotes": [
+        "Форми минулого часу «ніс», «вів», «віз» демонструють класичне чергування кореневого [е] з [і] в закритому складі."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Музика\":",
+          "prompt": "Оберіть правильне дієслово для перевезення вантажу автомобілем у момент мовлення: «Вантажівка зараз ... зерно на елеватор»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.2.",
-            "Неправильне відмінкове узгодження зі словом «Фільм»",
-            "Порушення законів евфонії та словотворення для «Спорт»",
-            "Стилістично некоректна синтаксична конструкція з «Футбол»"
+            "Везе (Unidirectional transport by vehicle in present moment)",
+            "Несе",
+            "Веде",
+            "Возить"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Переміщення транспортом у даний момент позначається дієсловом «везе»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Музика\":",
+          "prompt": "Яку форму минулого часу чоловічого роду має дієслово «вести» в українській мові?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.2.",
-            "Порушення законів евфонії та словотворення для «Спорт»",
-            "Стилістично некоректна синтаксична конструкція з «Футбол»",
-            "Неправильне відмінкове узгодження зі словом «Фільм»"
+            "Вів (Historical masculine past with alternation e -> i in closed syllable)",
+            "Веснув",
+            "Вестив",
+            "Водивний"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Форма минулого часу чоловічого роду від «вести» — «він вів»."
         }
       ]
     },
@@ -5531,17 +5550,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Музика\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому транзитивні дієслова переміщення вжито граматично точно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.2.",
-            "Стилістично некоректна синтаксична конструкція з «Футбол»",
-            "Неправильне відмінкове узгодження зі словом «Фільм»",
-            "Порушення законів евфонії та словотворення для «Спорт»"
+            "Бабуся веде онука до парку, а дідусь везе покупки у візку.",
+            "Бабуся везе онука за руку пішки, а дідусь носить автобус.",
+            "Бабуся несе автомобіль на дорозі, а дідусь водить валізу в руках.",
+            "Бабуся веде валізу в кишені, а дідусь ніс потяг."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Веде онука за руку» (супровід живої істоти) та «везе у візку» (транспортування засобом) є абсолютно точним слововживанням."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u13-l3": {
@@ -5549,53 +5569,62 @@
     "subject": "ukrainian",
     "unit": 13,
     "lessonNumber": 3,
-    "title": "Дієслова руху: односпрямовані та неодноспрямовані (Motion Verbs) (Part 3)",
+    "title": "Просторові префікси з дієсловами руху (Spatial Prefixes on Motion Verbs)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 13.3) with authentic linguistic precision.",
+    "objective": "Опанувати творення префіксальних дієслів руху доконаного виду та їх синтаксичне керування просторовими прийменниками (вийти з, зайти в, підійти до, перейти через).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Додавання просторових префіксів до односпрямованих дієслів руху перетворює їх на дієслова доконаного виду, які позначають завершене переміщення за чіткою просторовою траєкторією:\n\n1. Основні просторові префікси та прийменникове керування:\n   - «При-» (наближення, прибуття в кінцевий пункт): прийти, приїхати, прилетіти, принести -> керує «до + Родовий» або «в/на + Знахідний» («прийти додому», «приїхати в Київ»).\n   - «Ви-» (рух зсередини назовні): вийти, виїхати, вибігти -> керує «з/із + Родовий» («вийти з аудиторії»).\n   - «В- / У- / За-» (рух усередину або короткий візит): увійти, зайти, заїхати -> керує «в/до + Знахідний/Родовий» («зайти в кав'ярню»).\n   - «Під-» (наближення впритул): підійти, під'їхати -> керує «до + Родовий» («підійти до викладача»).\n   - «Від-» (віддалення на коротку відстань): відійти, від'їхати -> керує «від + Родовий» («відійти від краю платформи»).\n   - «Пере-» (рух через перешкоду або з місця на місце): перейти, переїхати -> керує «через + Знахідний» («перейти через міст»).\n   - «До-» (рух до певної просторової межі): дійти, доїхати -> керує «до + Родовий» («дійти до перехрестя»).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Студенти вчасно прийшли на лекцію і зайшли до просторої аудиторії.",
+          "reading": "[stuˈdɛntɪ ˈwtʃɑsnɔ prɪjʃˈlɪ nɑ ˈlɛkt͡sʲiju i zɐjʃˈlɪ dɔ prɔsˈtɔrɔji ɐwdɪˈtɔrʲiji] (stoo-DEN-ty VCHAH-snoh preey-SHLY nah LEK-tsee-yoo ee zahy-SHLY doh prohs-TOH-roh-yee ah-oo-dy-TOH-ry-yee)",
+          "translation": "The students arrived on time for the lecture and entered the spacious classroom."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 13-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Будь ласка, обережно перейдіть вулицю через регульований пішохідний перехід.",
+          "reading": "[budʲ ˈlɑskɐ, ɔbɛˈrɛʒnɔ pɛrɛjʲˈdʲitʲ ˈwulɪt͡sʲu ˈtʃɛrɛz rɛɦuˈlʲɔwɐnɪj pʲiʃɔˈxʲidnɪj pɛrɛˈxʲid] (bood' LAHS-kah, oh-beh-REHZH-noh peh-rehy-DEET' VOO-ly-tsoo CHEH-rez reh-hoo-LYOH-vah-nyy pee-shoh-KHEED-nyy peh-reh-KHEED)",
+          "translation": "Please cross the street carefully via the regulated pedestrian crossing."
+        },
+        {
+          "target": "Пасажири вийшли з вагонів поїзда і підійшли до виходу в місто.",
+          "reading": "[pɐsɐˈʒɪrɪ ˈwɪjʃlɪ z wɐˈɦɔnʲiw ˈpɔjizdɐ i pʲidʲijʃˈlɪ dɔ ˈwɪxɔdu w ˈmʲistɔ] (pah-sah-ZHY-ry VY YSH-ly z vah-HOH-neew POH-yeez-dah ee peed-eey-SHLY doh VY-khoh-doo v MEES-toh)",
+          "translation": "The passengers exited the train cars and approached the exit to the city."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«При-» — прибули, «ви-» — вискочили, «під-» — підійшли до цілі!"
+      ],
+      "culturalNotes": [
+        "Апостроф після префіксів на приголосний перед я, ю, є, ї є важливим правилом орфографії: «під'їхати», «об'їхати», «роз'їхатися»."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Фільм\":",
+          "prompt": "Оберіть префіксальне дієслово доконаного виду зі значенням «рух через перешкоду з одного боку на інший»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.3.",
-            "Неправильне відмінкове узгодження зі словом «Спорт»",
-            "Порушення законів евфонії та словотворення для «Футбол»",
-            "Стилістично некоректна синтаксична конструкція з «Плавання»"
+            "Перейти (Prefix пере- indicates crossing across a space or obstacle)",
+            "Підійти",
+            "Вийти",
+            "Зайти"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Префікс «пере-» у дієслові «перейти» позначає перетин вулиці, мосту чи перешкоди."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Фільм\":",
+          "prompt": "Який прийменник вимагає дієслово «підійти» для позначення наближення до об'єкта?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.3.",
-            "Порушення законів евфонії та словотворення для «Футбол»",
-            "Стилістично некоректна синтаксична конструкція з «Плавання»",
-            "Неправильне відмінкове узгодження зі словом «Спорт»"
+            "До + Родовий відмінок (підійти до вікна)",
+            "З + Орудний відмінок",
+            "Через + Знахідний відмінок",
+            "На + Місцевий відмінок"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Дієслово «підійти» стандартно керує конструкцією «до + Родовий відмінок»."
         }
       ]
     },
@@ -5603,17 +5632,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Фільм\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення з правильним орфографічним написанням дієслова руху з апострофом після префікса:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.3.",
-            "Стилістично некоректна синтаксична конструкція з «Плавання»",
-            "Неправильне відмінкове узгодження зі словом «Спорт»",
-            "Порушення законів евфонії та словотворення для «Футбол»"
+            "Автомобіль швидко під'їхав до центрального входу готелю.",
+            "Автомобіль швидко підїхав до центрального входу готелю.",
+            "Автомобіль швидко подіхав до центрального входу готелю.",
+            "Автомобіль швидко підьїхав до центрального входу готелю."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Після префікса на твердий приголосний «під-» перед буквою «ї» обов'язково пишеться апостроф: «під'їхав»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u13-l4": {
@@ -5621,53 +5651,62 @@
     "subject": "ukrainian",
     "unit": 13,
     "lessonNumber": 4,
-    "title": "Дієслова руху: односпрямовані та неодноспрямовані (Motion Verbs) (Part 4)",
+    "title": "Префіксальні видові пари дієслів руху (Prefixed Aspect Pairs of Motion)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 13.4) with authentic linguistic precision.",
+    "objective": "Опанувати співвідношення та творення повноцінних видових пар префіксальних дієслів руху (прийти — приходити, виїхати — виїжджати, принести — приносити).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Коли до неодноспрямованих дієслів руху додаються префікси, утворюються префіксальні дієслова недоконаного виду, які складають системні видові пари з префіксальними дієсловами доконаного виду:\n\n1. Модель творення видових пар дієслів руху:\n   - Доконаний вид (Префікс + односпрямоване дієслово):\n     * прийти, вийти, зайти, підійти, перейти, виїхати, принести, відвезти.\n   - Недоконаний вид (Префікс + неодноспрямоване дієслово):\n     * приходити, виходити, заходити, підходити, переходити, виїжджати (їздити -> їжджати з чергуванням зд/ждж), приносити, відвозити.\n\n2. Регулярні видові пари руху:\n   - Прийти (що зробити?, результат) — приходити (що робити?, процес/регулярність)\n   - Виїхати (док.) — виїжджати (недок.)\n   - Забігти (док.) — забігати (недок.)\n   - Прилетіти (док.) — прилітати (недок.)\n   - Переплисти (док.) — перепливати (недок.)\n   - Принести (док.) — приносити (недок.)\n   - Відвезти (док.) — відвозити (недок.)\n   - Підвести (док.) — підводити (недок.).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Він щодня приходить о восьмій, але вчора прийшов трохи раніше.",
+          "reading": "[wʲin ʃtʃɔdʲˈnʲɑ prɪˈxɔdɪtʲ ɔ ˈwɔsʲmʲij, ˈɑlɛ uˈtʃɔrɐ prɪjˈʃɔw ˈtrɔxɪ ˈrɑnʲiʃɛ] (veen shchohd-NYAH pry-KHOH-dyt' oh VOHS-meey, AH-leh oo-CHOH-rah preey-SHOHV TROH-khy RAH-nyee-sheh)",
+          "translation": "He comes every day at eight, but yesterday he arrived a bit earlier."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 13-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Поїзди міжнародного сполучення регулярно приїжджають на центральний вокзал.",
+          "reading": "[pɔjizˈdɪ mʲiʒnɐˈrɔdnɔɦɔ spɔˈlutʃɛnʲːɑ rɛɦuˈlʲɑrnɔ prɪjiʒˈdʒɑjutʲ nɑ t͡sɛntˈrɑlʲnɪj wɔkˈzɑl] (poh-yeez-DY meezh-nah-ROHD-noh-hoh spoh-LOO-chen-nyah reh-hoo-LYAHR-noh pry-yeezh-DZHAH-yoot' nah tsen-TRAHL'-nyy vohk-ZAHL)",
+          "translation": "International trains regularly arrive at the central railway station."
+        },
+        {
+          "target": "Листоноша щоранку приносить свіжу пресу та кореспонденцію.",
+          "reading": "[lɪstɔˈnɔʃɐ ʃtʃɔˈrɑnku prɪˈnɔsɪtʲ ˈswʲiʒu ˈprɛsu tɑ kɔrɛspɔnˈdɛnt͡sʲiju] (lys-toh-NOH-shah shchoh-RAHN-koo pry-NOH-syt' SVEE-zhoo PREH-soo tah koh-res-pohn-DEN-tsee-yoo)",
+          "translation": "The postman brings fresh newspapers and correspondence every morning."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Прийти» — результат разовий, «приходити» — звичка щоденна!"
+      ],
+      "culturalNotes": [
+        "Чергування звуків [зд] -> [ждж] у дієслові «приїжджати» є яскравою фонетичною ознакою української літературної норми."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Спорт\":",
+          "prompt": "Оберіть форму недоконаного виду, що утворює видову пару з доконаним дієсловом «приїхати»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.4.",
-            "Неправильне відмінкове узгодження зі словом «Футбол»",
-            "Порушення законів евфонії та словотворення для «Плавання»",
-            "Стилістично некоректна синтаксична конструкція з «Подорож»"
+            "Приїжджати (Imperfective counterpart derived from multidirectional base with alternation zd -> zhdzh)",
+            "Приїхавати",
+            "Приїждження",
+            "Приїхатимучий"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Видовою парою до «приїхати» є дієслово недоконаного виду «приїжджати»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Спорт\":",
+          "prompt": "Яке дієслово недоконаного виду позначає регулярне перенесення предметів у руках:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.4.",
-            "Порушення законів евфонії та словотворення для «Плавання»",
-            "Стилістично некоректна синтаксична конструкція з «Подорож»",
-            "Неправильне відмінкове узгодження зі словом «Футбол»"
+            "Приносити (Imperfective process of bringing items on foot)",
+            "Принести",
+            "Приніс",
+            "Принесу"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Дієслово недоконаного виду «приносити» виражає повторюваний процес перенесення предметів."
         }
       ]
     },
@@ -5675,17 +5714,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Спорт\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому видову пару дієслів руху вжито абсолютно правильно за контекстом часу й результату:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.4.",
-            "Стилістично некоректна синтаксична конструкція з «Подорож»",
-            "Неправильне відмінкове узгодження зі словом «Футбол»",
-            "Порушення законів евфонії та словотворення для «Плавання»"
+            "Потяг завжди відходить о десятій, і сьогодні він відійшов точно за графіком.",
+            "Потяг завжди відійшов о десятій, і сьогодні він відходить точно за графіком.",
+            "Потяг щодня відійшов і завтра відходитиме на один раз.",
+            "Потяг щойно відходити за графіком."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Регулярний графік («завжди») вимагає недоконаного «відходить», а разовий факт за сьогодні — доконаного «відійшов»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u13-l5": {
@@ -5693,53 +5733,62 @@
     "subject": "ukrainian",
     "unit": 13,
     "lessonNumber": 5,
-    "title": "Дієслова руху: односпрямовані та неодноспрямовані (Motion Verbs) (Part 5)",
+    "title": "Метафоричні та фразеологічні значення дієслів руху (Metaphorical Motion Idioms)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 13.5) with authentic linguistic precision.",
+    "objective": "Опанувати вживання дієслів руху в переносному, метафоричному та фразеологічному значеннях (час летить, дощ іде, мова йде про, доходити згоди, нести відповідальність).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Дієслова руху в українській мові мають надзвичайно розвинену систему вторинних переносних значень і входять до складу сталих фразеологізмів:\n\n1. Природні явища та плин часу:\n   - «Іде дощ / іде сніг / іде град» — опади (а не «падає дощ» як калька).\n   - «Час іде / біжить / летить / пливе» — невпинний перебіг часу.\n   - «Сонце заходить / сходить» — астрономічний рух світила.\n\n2. Інтелектуальна та комунікативна діяльність:\n   - «Мова йде про... / Ідеться про...» — предметом обговорення є щось.\n   - «Доходити висновку / доходити згоди» — підсумовувати або досягати консенсусу.\n   - «Спасти на думку / спадати на думку» — раптово згадати або придумати ідею.\n\n3. Абстрактні стани, обов'язки та процеси:\n   - «Нести відповідальність / нести покарання» — відповідати за наслідки дій.\n   - «Вести переговори / вести наукові дослідження» — здійснювати тривалий процес.\n   - «Виходити з ладу» — ламатися, припиняти роботу (про техніку).\n   - «Підходити» — пасувати (про одяг) або бути зручним за часом.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "На міжнародних переговорах дипломати нарешті дійшли спільної згоди.",
+          "reading": "[nɑ mʲiʒnɐˈrɔdnɪx pɛrɛɦɔˈwɔrɐx dɪplɔˈmɑtɪ nɐˈrɛʃtʲi dʲijʃˈlɪ ˈspʲilʲnɔji ˈzɦɔdɪ] (nah meezh-nah-ROHD-nykh peh-reh-hoh-VOH-rahkh dyp-loh-MAH-ty nah-RESH-tee deey-SHLY SPEEL'-noh-yee ZHOH-dy)",
+          "translation": "At the international negotiations the diplomats finally reached a common agreement."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 13-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "У цій фундаментальній науковій статті йдеться про збереження біорізноманіття.",
+          "reading": "[u t͡sʲij fundɐmɛnˈtɑlʲnʲij nɐuˈkɔwʲij stɐtʲˈtʲi jˈdɛtʲsʲɑ prɔ zbɛrɛˈʒɛnʲːɑ bʲiɔrʲiznɔmɐˈnʲitʲːɑ] (oo tseey foon-dah-men-TAHL'-neey nah-oo-KOH-veey staht-TY YDET'-syah proh zbeh-reh-ZHEN-nyah bee-oh-reez-noh-mah-NEET-tyah)",
+          "translation": "This fundamental scientific article deals with biodiversity conservation."
+        },
+        {
+          "target": "Керівник проєкту несе повну особисту відповідальність за безпеку робітників.",
+          "reading": "[kɛrʲiwˈnɪk prɔˈjɛktu nɛˈsɛ ˈpɔwnu ɔsɔˈbɪstu wʲidpɔwʲiˈdɑlʲnʲisʲtʲ zɑ bɛzˈpɛku rɔbʲitnɪˈkʲiw] (keh-reev-NYK proh-YEK-too neh-SEH POHV-noo oh-soh-BYS-too veed-poh-vee-DAHL'-neest' zah bez-PEH-koo roh-beet-ny-KEEW)",
+          "translation": "The project manager bears full personal responsibility for the safety of the workers."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Дощ «іде», час «летить», дипломати «доходять згоди» — жива метафора руху збагачує мову!"
+      ],
+      "culturalNotes": [
+        "Конструкція «йдеться про...» є окрасою офіційно-ділового та наукового стилів української мови, замінюючи важкі описові фрази."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Футбол\":",
+          "prompt": "Оберіть нормативне українське словосполучення на позначення атмосферних опадів:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.5.",
-            "Неправильне відмінкове узгодження зі словом «Плавання»",
-            "Порушення законів евфонії та словотворення для «Подорож»",
-            "Стилістично некоректна синтаксична конструкція з «Театр»"
+            "Іде густий дощ (Standard idiomatic construction for precipitation)",
+            "Падає густий дощ",
+            "Біжить густий дощ",
+            "Несеться густий дощ"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативною українською конструкцією для опадів є «іде дощ» / «іде сніг»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Футбол\":",
+          "prompt": "Яке дієслово руху вживається у сталому виразі «... повну відповідальність за результати»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.5.",
-            "Порушення законів евфонії та словотворення для «Подорож»",
-            "Стилістично некоректна синтаксична конструкція з «Театр»",
-            "Неправильне відмінкове узгодження зі словом «Плавання»"
+            "Нести (нести відповідальність - to bear responsibility)",
+            "Вести",
+            "Возити",
+            "Ходити"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Стійка ділова сполука — «нести відповідальність»."
         }
       ]
     },
@@ -5747,17 +5796,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Футбол\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому метафоричний вираз із дієсловом руху вжито стилістично бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 13.5.",
-            "Стилістично некоректна синтаксична конструкція з «Театр»",
-            "Неправильне відмінкове узгодження зі словом «Плавання»",
-            "Порушення законів евфонії та словотворення для «Подорож»"
+            "У сьогоднішній доповіді йдеться про стратегічний розвиток відновлюваної енергетики.",
+            "У сьогоднішній доповіді біжиться про розвиток енергетики.",
+            "У доповіді несеться про стратегічні плани компанії.",
+            "У доповіді водиться про важливі справи."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Вислів «йдеться про...» є бездоганною академічною та публіцистичною нормою."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u14-l1": {
