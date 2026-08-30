@@ -4163,56 +4163,65 @@
     "subject": "korean",
     "unit": 9,
     "lessonNumber": 1,
-    "title": "장소·방향 조사(에, 에서, -(으)로) (Locative & Directional) (Part 1)",
+    "title": "정적 존재 위치와 이동의 도착점 조사 (-에)",
     "level": "A2",
-    "objective": "Comprehensive mastery of 장소 조사 에/에서/-(으)로 (Locative & Directional Particles).",
+    "objective": "사물이나 사람의 정적 존재/부재 위치(있다/없다/살다) 및 이동 동작의 최종 도착점(가다/오다/도착하다)을 나타내는 격조사 '-에'의 용법을 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 장소·방향 조사(에, 에서, -(으)로) (Locative & Directional) » (제1절)의 핵심 언어 요소와 장소 조사 에/에서/-(으)로 (Locative & Directional Particles)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "격조사 '-에'는 명사 뒤에 붙어 크게 두 가지 핵심 문법 기능을 수행합니다.\n\n1. 정적 존재 및 위치 (Static Location):\n- 사람이나 사물이 어느 장소에 머물러 있거나 존재함을 나타내며, 주로 '있다, 없다, 살다, 많다'와 호응합니다.\n  - \"책상 위에 한국어 교재가 있어요.\" (There is a Korean textbook on the desk.)\n  - \"냉장고 안에 시원한 생수가 없습니다.\" (There is no cold bottled water in the refrigerator.)\n  - \"민수 씨는 지금 서울에 살고 있습니다.\" (Minsu is currently living in Seoul.)\n\n2. 이동 동사의 최종 도착점 (Destination):\n- 이동을 나타내는 동사('가다, 오다, 다니다, 도착하다, 들어가다')와 결합하여 이동의 도달 지점을 나타냅니다.\n  - \"아침마다 지하철을 타고 회사에 가요.\" (I go to the company by subway every morning.)\n  - \"비행기가 인천국제공항에 안전하게 도착했습니다.\" (The airplane arrived safely at Incheon International Airport.)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (9.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "저는 매일 아침 8시에 대학교에 갑니다.",
+          "reading": "Jeo-neun maeil achim yeodeolpsi-e daehakgyo-e gamnida.",
+          "translation": "I go to university at 8 o'clock every morning (Destination '-에')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (9.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "거실 소파 위에 귀여운 고양이가 자고 있어요.",
+          "reading": "Geosil sopa wi-e gwiyeoun goyangi-ga jago isseoyo.",
+          "translation": "A cute cat is sleeping on the living room sofa (Static location '-에')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (9.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "이번 여름휴가에는 부산 해운대에 갈 거예요.",
+          "reading": "Ibeon yeoreumhyuga-eneun Busan Haeundae-e gal geoyeyo.",
+          "translation": "I will go to Haeundae in Busan this summer vacation."
+        },
+        {
+          "target": "방 안에 넓은 책상과 편안한 침대가 있습니다.",
+          "reading": "Bang an-e neolbeun chaeksang-gwa pyeon-anhan chimdae-ga itseumnida.",
+          "translation": "There are a wide desk and a comfortable bed in the room."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "가고, 오고, 도착하는 '목적지'엔 '-에'(학교에 가다)! 가만히 머물러 '있는 곳'도 '-에'(집에 있다)!"
+      ],
+      "culturalNotes": [
+        "한국에서는 거주지를 소개할 때 '저는 서울에 살아요' 또는 직장을 말할 때 '저는 IT 회사에 다녀요'처럼 '-에 살다/다니다' 구문을 매우 자주 사용합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 장소 조사 에/에서/-(으)로 (Locative & Directional Particles) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "'학교(school)'로 이동하여 도달함을 나타내는 가장 올바른 조사는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (9.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (9.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (9.1.3)."
+            "학교에 가요.",
+            "학교에서 가요.",
+            "학교를 가요."
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "이동 동사 '가다'의 도착점을 나타내는 격조사는 '-에'이므로 '학교에 가요'가 올바릅니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 장소·방향 조사(에, 에서, -(으)로) (Locative & Directional) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "'방 안에 컴퓨터가 있다'를 바르게 나타낸 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (9.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (9.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (9.1.3)."
+            "방에 컴퓨터가 있어요.",
+            "방에서 컴퓨터가 있어요.",
+            "방을 컴퓨터가 있어요."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "사물이 존재하는 정적 위치를 나타내는 서술어 '있다' 앞에는 조사 '-에'를 씁니다."
         }
       ]
     },
@@ -4220,14 +4229,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 장소 조사 에/에서/-(으)로 (Locative & Directional Particles) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 9-1)?",
+          "prompt": "'A: 지금 어디에 살아요? B: 저는 _____ 살아요.' 빈칸에 알맞은 조사는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (9.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (9.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (9.1.3)."
+            "서울에",
+            "서울에서",
+            "서울을"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'살다'가 거주하는 정적 위치를 나타낼 때는 '서울에 살아요'가 가장 표준적입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'회사에 가요'(I go to work / I go to the company)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "회사에 가요.",
+            "회사에 가요"
+          ],
+          "explanation": "회사(명사) + 에(도착점 조사) + 가요(서술어) = 회사에 가요."
         }
       ]
     }
@@ -4237,56 +4255,65 @@
     "subject": "korean",
     "unit": 9,
     "lessonNumber": 2,
-    "title": "장소·방향 조사(에, 에서, -(으)로) (Locative & Directional) (Part 2)",
+    "title": "역동적 행위 발생 공간 및 출발점 조사 (-에서)",
     "level": "A2",
-    "objective": "Comprehensive mastery of 장소 조사 에/에서/-(으)로 (Locative & Directional Particles).",
+    "objective": "구체적인 역동적 행위가 일어나는 발생 장소(Action Location)와 이동의 출발점/출처(Origin from)를 나타내는 격조사 '-에서'의 용법을 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 장소·방향 조사(에, 에서, -(으)로) (Locative & Directional) » (제2절)의 핵심 언어 요소와 장소 조사 에/에서/-(으)로 (Locative & Directional Particles)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "격조사 '-에서'는 명사 뒤에 결합하여 구체적인 행동이 수행되는 장소나 출발점을 지정합니다.\n\n1. 역동적 행위 발생 장소 (Action Location):\n- 주어가 능동적으로 어떤 동작(공부하다, 밥을 먹다, 친구를 만나다, 운동하다, 일하다 등)을 하는 공간을 나타냅니다.\n  - \"도서관에서 한국어 문법을 열심히 공부해요.\" (I study Korean grammar hard in the library.)\n  - \"한식당에서 따뜻한 김치찌개를 먹었어요.\" (I ate warm kimchi stew at a Korean restaurant.)\n  - \"백화점에서 친구의 생일 선물을 샀습니다.\" (I bought a friend's birthday present at the department store.)\n\n2. 출발점 및 출처 (Origin / Source):\n- 동작이나 이동이 시작되는 기점을 나타냅니다 (from).\n  - \"어디에서 왔어요? - 저는 캐나다에서 왔어요.\" (Where are you from? - I am from Canada.)\n  - \"집에서 회사까지 지하철로 30분 걸려요.\" (It takes 30 minutes by subway from home to work.)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (9.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "친구와 함께 카페에서 커피를 마시며 이야기를 나눴어요.",
+          "reading": "Chingu-wa hamkke kape-eseo keopi-reul masimyeo iyagi-reul nanwosseoyo.",
+          "translation": "I had a chat while drinking coffee at the cafe with a friend (Action location '-에서')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (9.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "어제 오후에 서점에서 새로 나온 베스트셀러 소설을 샀어요.",
+          "reading": "Eoje ohu-e seojeom-eseo saero naon beseuteoselleo soseol-eul sasseoyo.",
+          "translation": "Yesterday afternoon, I bought a new bestselling novel at the bookstore."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (9.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "헬스장에서 매일 저녁 1시간씩 열심히 운동합니다.",
+          "reading": "Helseujang-eseo maeil jeonyeok han siganssik yeolsimhi undonghamnida.",
+          "translation": "I exercise hard for 1 hour every evening at the gym."
+        },
+        {
+          "target": "저는 미국 뉴욕에서 온 유학생 마이클입니다.",
+          "reading": "Jeo-neun Miguk Nyuyok-eseo on yuhaksaeng Maikeul-imnida.",
+          "translation": "I am Michael, an international student from New York, USA (Origin '-에서')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "먹고, 공부하고, 운동하고, 물건 사는 '행동'의 무대는 무조건 '-에서'!"
+      ],
+      "culturalNotes": [
+        "한국인을 처음 만났을 때 '어디에서 오셨어요?'라고 묻는 것은 고향이나 출신 지역을 묻는 가장 정중하고 자연스러운 표현입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 장소 조사 에/에서/-(으)로 (Locative & Directional Particles) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "'도서관'에서 '책을 읽는 행동'을 할 때 결합하는 올바른 조사는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (9.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (9.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (9.2.3)."
+            "도서관에서 책을 읽어요.",
+            "도서관에 책을 읽어요.",
+            "도서관으로 책을 읽어요."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "책을 읽는 구체적인 동작이 일어나는 장소이므로 '-에서'가 올바릅니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 장소·방향 조사(에, 에서, -(으)로) (Locative & Directional) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "'식당에서 밥을 먹었다'를 바르게 나타낸 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (9.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (9.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (9.2.3)."
+            "식당에서 점심을 먹었어요.",
+            "식당에 점심을 먹었어요.",
+            "식당을 점심을 먹었어요."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "식사라는 역동적 행위가 일어나는 공간이므로 '-에서'를 사용합니다."
         }
       ]
     },
@@ -4294,14 +4321,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 장소 조사 에/에서/-(으)로 (Locative & Directional Particles) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 9-2)?",
+          "prompt": "'A: 어디_____ 왔어요? B: 저는 호주_____ 왔어요.' 빈칸에 공통으로 알맞은 출처 조사는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (9.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (9.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (9.2.3)."
+            "에서",
+            "에",
+            "으로"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "출신지나 출발 기점을 나타내는 조사는 '-에서'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'카페에서 만나요'(Let's meet at the cafe)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "카페에서 만나요.",
+            "카페에서 만나요"
+          ],
+          "explanation": "카페(명사) + 에서(장소 조사) + 만나요(만나다의 청유/서술형) = 카페에서 만나요."
         }
       ]
     }
@@ -4311,56 +4347,65 @@
     "subject": "korean",
     "unit": 9,
     "lessonNumber": 3,
-    "title": "장소·방향 조사(에, 에서, -(으)로) (Locative & Directional) (Part 3)",
+    "title": "정적 도착점 '-에'와 동적 행위 공간 '-에서'의 결정적 문법 대비",
     "level": "A2",
-    "objective": "Comprehensive mastery of 장소 조사 에/에서/-(으)로 (Locative & Directional Particles).",
+    "objective": "동일한 장소 명사 뒤에서 서술어의 성격(정적 존재/도착점 vs 역동적 동작 수행)에 따라 '-에'와 '-에서'를 정밀하게 구별하여 사용한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 장소·방향 조사(에, 에서, -(으)로) (Locative & Directional) » (제3절)의 핵심 언어 요소와 장소 조사 에/에서/-(으)로 (Locative & Directional Particles)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어 학습자들이 가장 자주 실수하는 '-에'와 '-에서'의 선택 기준은 오직 뒤에 오는 '서술어의 성격'에 달려 있습니다.\n\n1. 핵심 서술어 유형에 따른 분기 규칙:\n- [장소] + 에:\n  - 정적 존재: 있다, 없다, 계시다, 살다, 많다\n    - \"친구가 집에 있어요.\" (Friend is at home.)\n  - 이동의 도착점: 가다, 오다, 다니다, 도착하다, 올라가다\n    - \"지금 학교에 가요.\" (I am going to school.)\n- [장소] + 에서:\n  - 동적 행위 수행: 먹다, 마시다, 공부하다, 일하다, 사다, 운동하다, 만나다\n    - \"집에서 밥을 먹어요.\" (I eat food at home.)\n    - \"학교에서 한국어를 배워요.\" (I learn Korean at school.)\n\n2. 동일 장소 대조 예시 (집 / 학교 / 도서관):\n- 집에 가요 (Go home) vs 집에서 쉬어요 (Rest at home)\n- 학교에 도착했어요 (Arrived at school) vs 학교에서 축구를 했어요 (Played soccer at school)\n- 도서관에 사람이 많아요 (Many people in the library) vs 도서관에서 공부해요 (Study in the library)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (9.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "오전에 도서관에 가서 도서관에서 책을 빌렸어요.",
+          "reading": "Ojeon-e doseogwan-e gaseo doseogwan-eseo chaek-eul billyeosseoyo.",
+          "translation": "I went to the library in the morning and borrowed a book at the library ('-에 가다' vs '-에서 빌리다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (9.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "지금 백화점에 가고 있어요. 백화점에서 옷을 살 거예요.",
+          "reading": "Jigeum baekhwajeom-e gago isseoyo. Baekhwajeom-eseo ot-eul sal geoyeyo.",
+          "translation": "I am going to the department store now. I will buy clothes at the department store."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (9.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "민수 씨는 지금 사무실에 없어요. 밖에서 점심을 먹고 있어요.",
+          "reading": "Minsu ssi-neun jigeum samusil-e eopseoyo. Bakkat-eseo jeomsim-eul meokgo isseoyo.",
+          "translation": "Minsu is not in the office right now. He is eating lunch outside."
+        },
+        {
+          "target": "공원에 산책하러 가서 벤치에서 음악을 들었습니다.",
+          "reading": "Gongwon-e sanchaekhareo gaseo benchi-eseo eumak-eul deureotseumnida.",
+          "translation": "I went to the park for a walk and listened to music on the bench."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "목적지로 가면 '-에 가다', 그곳에서 무언가를 하면 '-에서 하다'! 서술어를 보면 답이 보인다!"
+      ],
+      "culturalNotes": [
+        "한국어에서는 '방에 자다'가 아니라 '방에서 자다(동작)'라고 표현하며, '침대에 눕다(착지/도착점)'처럼 동사의 동작 특성에 따라 조사가 엄밀히 나뉩니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 장소 조사 에/에서/-(으)로 (Locative & Directional Particles) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "다음 중 조사의 쓰임이 문법적으로 올바른 문장은 어느 것입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (9.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (9.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (9.3.3)."
+            "식당에서 맛있는 비빔밥을 먹었어요.",
+            "식당에 맛있는 비빔밥을 먹었어요.",
+            "식당을 맛있는 비빔밥에 먹었어요."
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "'먹다'는 구체적 행위 동사이므로 장소 조사 '-에서'가 결합해야 올바릅니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 장소·방향 조사(에, 에서, -(으)로) (Locative & Directional) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "'A: 지금 어디에 가요? B: 시장_____ 가요. 시장_____ 과일을 살 거예요.' 빈칸에 차례대로 들어갈 조사는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (9.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (9.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (9.3.3)."
+            "에, 에서",
+            "에서, 에",
+            "에, 에"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "첫 문장은 이동 도착점('시장에 가요'), 두 번째 문장은 구매 행동 장소('시장에서 살 거예요')입니다."
         }
       ]
     },
@@ -4368,14 +4413,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 장소 조사 에/에서/-(으)로 (Locative & Directional Particles) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 9-3)?",
+          "prompt": "다음 중 '-에'와 '-에서'의 구분이 모두 완벽한 복합 문장은 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (9.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (9.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (9.3.3)."
+            "주말에 공원에 가서 공원에서 자전거를 탔어요.",
+            "주말에서 공원에서 가서 공원에 자전거를 탔어요.",
+            "주말에 공원에 가서 공원에 자전거를 탔어요."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "explanation": "시간('-에'), 이동 도착점('공원에 가서'), 동작 수행 장소('공원에서 자전거를 탔어요')의 조사가 모두 완벽합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'도서관에서 공부해요'(I study at the library)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "도서관에서 공부해요.",
+            "도서관에서 공부해요"
+          ],
+          "explanation": "도서관(명사) + 에서(행위 장소 조사) + 공부해요(서술어) = 도서관에서 공부해요."
         }
       ]
     }
@@ -4385,56 +4439,65 @@
     "subject": "korean",
     "unit": 9,
     "lessonNumber": 4,
-    "title": "장소·방향 조사(에, 에서, -(으)로) (Locative & Directional) (Part 4)",
+    "title": "지향 방향 및 경로 표시 조사 (-(으)로)",
     "level": "A2",
-    "objective": "Comprehensive mastery of 장소 조사 에/에서/-(으)로 (Locative & Directional Particles).",
+    "objective": "받침 유무에 따른 방향 격조사 '-(으)로'의 결합 규칙(모음/ㄹ 받침 + 로, 자음 받침 + 으로)과 단순 도착점(-에)과의 방향성 차이를 이해한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 장소·방향 조사(에, 에서, -(으)로) (Locative & Directional) » (제4절)의 핵심 언어 요소와 장소 조사 에/에서/-(으)로 (Locative & Directional Particles)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "격조사 '-(으)로'는 명사 뒤에 붙어 이동의 지향 방향(Direction)이나 이동 경로(Path)를 나타냅니다.\n\n1. 형태 결합 규칙:\n- 모음 종결 명사 or 'ㄹ' 받침 명사 + 로:\n  - 오른쪽 → 오른쪽으로 (to the right - 받침 ㄱ이므로 자음규칙)\n  - 위 → 위로 (upward - 모음)\n  - 아래 → 아래로 (downward - 모음)\n  - 서울 → 서울로 (towards Seoul - ㄹ 받침)\n  - 교실 → 교실로 (towards the classroom - ㄹ 받침)\n- 'ㄹ'을 제외한 자음 종결 명사 (받침 있음) + 으로:\n  - 앞 → 앞으로 (forward)\n  - 뒤 → 뒤로 (backward)\n  - 옆 → 옆으로 (to the side)\n  - 밖 → 밖으로 (outside)\n  - 집 → 집으로 (towards home)\n  - 오른쪽 → 오른쪽으로 (to the right)\n\n2. '-에'와 '-(으)로'의 뉘앙스 차이:\n- '-에': 고정된 최종 목적지/도착점(Destination)에 초점 (예: 학교에 도착하다).\n- '-(으)로': 이동해 가는 방향이나 진행 경로(Heading/Direction)에 초점 (예: 서울 방향으로 달리다).",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (9.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "사거리에서 오른쪽으로 돌아가세요.",
+          "reading": "Sageori-eseo oreunjjok-euro doragaseyo.",
+          "translation": "Please turn to the right at the intersection (Direction '-(으)로')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (9.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "엘리베이터를 타고 5층 위로 올라갔습니다.",
+          "reading": "Ellibeiteo-reul tago ocheung wi-ro ollagatseumnida.",
+          "translation": "I took the elevator and went up to the 5th floor."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (9.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "수업이 끝나고 모두 집으로 돌아갔어요.",
+          "reading": "Sueop-i kkeunnago modu jib-euro doragasseoyo.",
+          "translation": "After class finished, everyone returned home."
+        },
+        {
+          "target": "이번 주말에 부산으로 여행을 떠날 예정입니다.",
+          "reading": "Ibeon jumal-e Busan-euro yeohaeng-eul tteonal yeojeong-imnida.",
+          "translation": "I plan to leave on a trip toward Busan this weekend."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "모음과 ㄹ 받침엔 '-로'(위로, 서울로)! 그 밖의 자음 받침엔 '-으로'(앞으로, 집으로)!"
+      ],
+      "culturalNotes": [
+        "한국의 대중교통 안내방송에서는 '이번 역은 강남, 강남역입니다. 내리실 문은 오른쪽입니다(또는 오른쪽으로 내리실 수 있습니다)'라는 방향 안내 표현이 쓰입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 장소 조사 에/에서/-(으)로 (Locative & Directional Particles) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "'오른쪽(right side)' 방향으로 이동하라고 안내할 때 올바른 결합 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (9.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (9.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (9.4.3)."
+            "오른쪽으로",
+            "오른쪽로",
+            "오른쪽에로"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'오른쪽'은 'ㄱ' 받침(ㄹ 제외 자음)으로 끝나므로 '-으로'가 결합하여 '오른쪽으로'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 장소·방향 조사(에, 에서, -(으)로) (Locative & Directional) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "'서울(Seoul - ㄹ 받침)'을 지향 방향으로 나타낼 때 올바른 형태는 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (9.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (9.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (9.4.3)."
+            "서울로",
+            "서울으로",
+            "서울에게"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'ㄹ' 받침 뒤에는 매개모음 '으'가 들어가지 않고 바로 '-로'가 결합하므로 '서울로'가 올바릅니다."
         }
       ]
     },
@@ -4442,14 +4505,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 장소 조사 에/에서/-(으)로 (Locative & Directional Particles) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 9-4)?",
+          "prompt": "'앞(front)' 방향으로 나아가라고 말할 때 알맞은 조사는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (9.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (9.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (9.4.3)."
+            "앞으로 가세요.",
+            "앞로 가세요.",
+            "앞에서 가세요."
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'앞'은 ㅍ 받침(자음)이 있으므로 '-으로'가 결합하여 '앞으로'가 됩니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'오른쪽으로 가세요'(Please go to the right)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "오른쪽으로 가세요.",
+            "오른쪽으로 가세요"
+          ],
+          "explanation": "오른쪽(명사) + 으로(방향 조사) + 가세요(가다의 정중 명령형) = 오른쪽으로 가세요."
         }
       ]
     }
@@ -4459,56 +4531,65 @@
     "subject": "korean",
     "unit": 9,
     "lessonNumber": 5,
-    "title": "장소·방향 조사(에, 에서, -(으)로) (Locative & Directional) (Part 5)",
+    "title": "길 찾기 및 위치 안내 실전 대화 구성",
     "level": "A2",
-    "objective": "Comprehensive mastery of 장소 조사 에/에서/-(으)로 (Locative & Directional Particles).",
+    "objective": "위치 명사(앞, 뒤, 옆, 맞은편, 사이)와 방향/장소 조사를 결합하여 길을 묻고 위치를 상세히 안내하는 유창한 실전 담화를 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 장소·방향 조사(에, 에서, -(으)로) (Locative & Directional) » (제5절)의 핵심 언어 요소와 장소 조사 에/에서/-(으)로 (Locative & Directional Particles)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "거리에서 목적지를 묻고 길을 안내할 때는 위치 명사(Spatial Nouns)와 방향/장소 조사를 유기적으로 결합합니다.\n\n1. 필수 위치 명사 목록:\n- 앞 (in front of) ↔ 뒤 (behind)\n- 옆 (beside/next to)\n- 안 (inside) ↔ 밖 (outside)\n- 위 (on/above) ↔ 아래/밑 (under/below)\n- 사이 (between: A와 B 사이)\n- 맞은편 / 건너편 (across from / opposite side)\n\n2. 실전 길 찾기 문답 대화 모델:\n- A: 실례합니다. 이 근처에 약국이 어디에 있어요?\n- B: 저기 사거리에서 왼쪽으로 돌아가세요. 편의점 옆에 약국이 있어요.\n- A: 지하철역에서 얼마나 걸려요?\n- B: 걸어서 3분 정도 걸려요. 건물 1층에 바로 보여요.\n- A: 친절하게 가르쳐 주셔서 정말 감사합니다!\n- B: 아니에요. 조심히 찾아가세요.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (9.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "A: 은행이 어디에 있어요? B: 우체국 맞은편에 있어요.",
+          "reading": "A: Eunhaeng-i eodi-e isseoyo? B: Ucheguk majeunpyeon-e isseoyo.",
+          "translation": "A: Where is the bank? B: It is across from the post office."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (9.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "저기 신호등에서 오른쪽으로 돌아가시면 병원이 나옵니다.",
+          "reading": "Jeogi sinhodeung-eseo oreunjjok-euro doragasimyeon byeongwon-i naomnida.",
+          "translation": "If you turn right at that traffic light, the hospital will appear."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (9.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "서점과 카페 사이에 작은 꽃집이 하나 있어요.",
+          "reading": "Seojeom-gwa kape sai-e jageun kkotjib-i hana isseoyo.",
+          "translation": "There is a small flower shop between the bookstore and the cafe."
+        },
+        {
+          "target": "지하철역 3번 출구 앞으로 나오시면 바로 찾을 수 있습니다.",
+          "reading": "Jihacheol-yeok sambeon chulgu ap-euro naosimyeon baro chajeul su itseumnida.",
+          "translation": "If you come out in front of Exit 3 of the subway station, you can find it immediately."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "'어디에 있어요?'로 묻고, '방향(-으로) + 위치 명사(-에)'로 친절하게 안내하자!"
+      ],
+      "culturalNotes": [
+        "한국의 도심에서는 길을 물을 때 '실례합니다(Excuse me)' 또는 '말씀 좀 묻겠습니다(May I ask a question?)'로 공손하게 운을 떼는 것이 좋은 매너입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 장소 조사 에/에서/-(으)로 (Locative & Directional Particles) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "건물 건너편에 위치함을 나타낼 때 가장 알맞은 위치 명사는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (9.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (9.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (9.5.3)."
+            "맞은편 (건너편)",
+            "옆",
+            "사이"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "길이나 공간 건너편을 가리키는 위치 명사는 '맞은편 / 건너편'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 장소·방향 조사(에, 에서, -(으)로) (Locative & Directional) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "'A와 B 사이에 있다'를 바르게 표현한 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (9.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (9.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (9.5.3)."
+            "은행과 약국 사이에 카페가 있어요.",
+            "은행과 약국 위에 카페가 있어요.",
+            "은행과 약국 뒤로 카페가 있어요."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "두 대상의 중간 위치는 '사이에'를 사용하므로 '은행과 약국 사이에'가 정확합니다."
         }
       ]
     },
@@ -4516,14 +4597,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 장소 조사 에/에서/-(으)로 (Locative & Directional Particles) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 9-5)?",
+          "prompt": "길 안내 대화 중 문맥과 조사의 사용이 가장 완벽한 것은 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (9.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (9.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (9.5.3)."
+            "A: 약국이 어디에 있어요? B: 사거리에서 왼쪽으로 가세요. 은행 옆에 있어요.",
+            "A: 약국이 어디에서 있어요? B: 사거리에 왼쪽에서 가세요. 은행을 있어요.",
+            "A: 약국을 어디로 있어요? B: 사거리로 왼쪽으로 가요. 은행에서 있어요."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "위치 질문('어디에 있어요?'), 방향 지시('왼쪽으로 가세요'), 위치 답변('은행 옆에 있어요')이 완벽합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'은행 옆에 있어요'(It is next to the bank)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "은행 옆에 있어요.",
+            "은행 옆에 있어요"
+          ],
+          "explanation": "은행(명사) + 옆에(위치 명사 + 조사) + 있어요(존재 서술어) = 은행 옆에 있어요."
         }
       ]
     }
