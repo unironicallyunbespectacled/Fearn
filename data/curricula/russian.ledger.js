@@ -169,17 +169,16 @@
     "ru-u33-l2",
     "ru-u33-l3",
     "ru-u33-l4",
-    "ru-u33-l5"
-  ],
-  "stubOnly": [
+    "ru-u33-l5",
     "ru-u34-l1",
     "ru-u34-l2",
     "ru-u34-l3",
     "ru-u34-l4",
     "ru-u34-l5"
   ],
-  "lastCompletedLessonId": "ru-u33-l5",
-  "nextToAuthor": "ru-u34-l1"
+  "stubOnly": [],
+  "lastCompletedLessonId": "ru-u34-l5",
+  "nextToAuthor": null
 };
   global.FEARN_LEDGERS = global.FEARN_LEDGERS || {};
   global.FEARN_LEDGERS['russian'] = LEDGER;
