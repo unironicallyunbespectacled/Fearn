@@ -3186,85 +3186,62 @@
     "subject": "amharic",
     "unit": 7,
     "lessonNumber": 1,
-    "title": "የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience) (ክፍል 1)",
+    "title": "ቀላል የኃላፊ ጊዜ ግሶች መዋቅር (Simple Past Tense Conjugation)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኃላፊ ጊዜ የግስ እርባታ፣ ያለፉ ክስተቶችን እና የግል ልምዶችን በዝርዝር መግለጽ። (ክፍል 1)።",
+    "objective": "ቀላል የኃላፊ ጊዜ ግሶችን (ሄደ፣ መጣ፣ በላ፣ ጠጣ፣ ሠራ) በሁሉም መደቦች በትክክል ማርባት።",
     "presentation": {
-      "explanation": "",
+      "explanation": "ቀላል የኃላፊ ጊዜ ግስ እርባታ (Simple Past Tense Conjugation):\n\n፩. በኃላፊ ጊዜ የግስ ግንድ ላይ የሚጨመሩ የባለቤት ቅጥያዎች:\n- እኔ -> -ሁ (በላሁ / መጣሁ)\n- አንተ -> -ህ (በላህ / መጣህ)\n- አንቺ -> -ሽ (በላሽ / መጣሽ)\n- እርስዎ -> -ኡ (በሉ / መጡ)\n- እሱ -> -ኧ / መደበኛ ግንድ (በላ / መጣ / ሄደ)\n- እሷ -> -ች (በላች / መጣች / ሄደች)\n- እኛ -> -ን (በላን / መጣን / ሄድን)\n- እናንተ -> -አችሁ (በላችሁ / መጣችሁ)\n- እነሱ -> -ኡ (በሉ / መጡ / ሄዱ)።\n\n፪. ምሳሌ (ግስ: መሄድ - To go):\n- እኔ ሄድኩ (I went)\n- አንተ ሄድክ (You [m] went)\n- አንቺ ሄድሽ (You [f] went)\n- እሱ ሄደ (He went)\n- እሷ ሄደች (She went)\n- እኛ ሄድን (We went)።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (7.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)' to the students."
+          "target": "እኔ ትላንትና ጠዋት ወደ ትምህርት ቤት ሄድኩ።",
+          "reading": "Əne təlantənna t’äwat wädä təməhərt bet hedkw. [ɨˈne tɨlanˈtɨnːa tʼɛˈwat wɛdɛ tɨmɨhɨrtˈbet hedˈku] (uh-NAY tuh-lahn-TUN-nah t'eh-WAHT weh-DEH tuh-muh-hurt BAYT HAYD-koo)",
+          "translation": "I went to school yesterday morning."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (7.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እህቴ ጣፋጭ ምሳ አዘጋጀች፤ ሁላችንም አብረን በላን።",
+          "reading": "Əhəte t’afac’ məsa azäggağäčč; hullaččənəm abrän bällan. [ɨhɨˈte tʼaˈfatʃʼ mɨˈsa azɛɡːadʒɛtʃː hulːatʃːɨˈnɨm abˈrɛn bɛlːan] (uh-huh-TAY t'ah-FAHCH muh-SAH ah-zeg-GAH-jech; hool-lahch-CHUN-um ahb-REN bel-LAHN)",
+          "translation": "My sister prepared a delicious lunch; all of us ate together."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (7.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (7.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ተማሪዎቹ ትምህርታቸውን በሚገባ አጠኑ እና ፈተናውን አለፉ።",
+          "reading": "Temariwočču təməhərtaččäwən bämiggäba at’ännu ənna fätänawən alläfu. [tɛmariˈwotʃːu tɨmɨhɨrˈtatʃːɛwɨn bɛmiɡːɛˈba atʼɛnːu ɨnːa fɛtɛˈnawɨn alːɛˈfu] (teh-mah-ree-wohch-CHOO tuh-muh-hur-tahch-CHEW-un beh-meeg-geh-BAH ah-t'en-NOO un-nah feh-teh-nah-WUN ahl-leh-FOO)",
+          "translation": "The students studied their lessons well and passed the exam."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Past suffixes: እኔ (-ሁ/-ኩ) | አንተ (-ህ/-ክ) | አንቺ (-ሽ) | እሱ (base) | እሷ (-ች) | እኛ (-ን) | እናንተ (-አችሁ) | እነሱ (-ኡ)!"
+      ],
+      "culturalNotes": [
+        "በአማርኛ ሰዋሰው የኃላፊ ጊዜ ግስ መሠረት የሚወሰደው ከሦስተኛ መደብ ተባዕታይ ነጠላ (እሱ ሄደ / ሠራ) ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«እኛ» ከሚለው ተውላጠ ስም ጋር የሚስማማው የ«መሄድ» የኃላፊ ጊዜ ግስ የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (7.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (7.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (7.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (7.1.w3)"
+            "ሄድን (We went - Correct 1st person plural past suffix -ን)",
+            "ሄድኩ",
+            "ሄደች",
+            "ሄዱ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«እኛ» ከሚለው ጋር የኃላፊ ጊዜ ቅጥያው «-ን» ሆኖ «ሄድን» ይሆናል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u7-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'She prepared lunch' የሚለውን ሐሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (7.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (7.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (7.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (7.1.x3)"
+            "እሷ ምሳ አዘጋጀች። (She prepared lunch - Correct feminine 3rd person past)",
+            "እሷ ምሳ አዘጋጀሁ።",
+            "እሷ ምሳ አዘጋጀህ።",
+            "እሷ ምሳ አዘጋጁ።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (7.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (7.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (7.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (7.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ለእሷ (3ኛ መደብ አንስታይ) የኃላፊ ቅጥያው «-ች» ሆኖ «አዘጋጀች» ይሆናል።"
         }
       ]
     },
@@ -3272,24 +3249,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 7-1):",
+          "prompt": "የኃላፊ ጊዜ የግስ እርባታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (7.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (7.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (7.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (7.1.z3)"
+            "እኔ በላሁ፣ አንተ በላህ፣ እሷ በላች፣ እኛ በላን።",
+            "እኔ በላች፣ እኛ በላሁ።",
+            "እሱ በላን፣ አንተ በላሽ።",
+            "በኃላፊ ጊዜ ሁሉም መደቦች አንድ ዓይነት ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ለእያንዳንዱ መደብ ትክክለኛውን ቅጥያ ተጠቅሟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u7-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኃላፊ»):",
+          "prompt": "'እኛ ሄድን / We went' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኃላፊ",
-            "የኃላፊ"
+            "ሄድን"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኃላፊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ሄድን» (Hedən) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -3300,85 +3276,62 @@
     "subject": "amharic",
     "unit": 7,
     "lessonNumber": 2,
-    "title": "የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience) (ክፍል 2)",
+    "title": "ያለፉ ድርጊቶች እና የጊዜ አመልካቾች (Past Actions & Time Markers)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኃላፊ ጊዜ የግስ እርባታ፣ ያለፉ ክስተቶችን እና የግል ልምዶችን በዝርዝር መግለጽ። (ክፍል 2)።",
+    "objective": "ያለፉ የጊዜ አመልካች ቃላትን (ትላንት፣ ከትላንት ወዲያ፣ ባለፈው ሳምንት/ወር፣ ድሮ) ከኃላፊ ጊዜ ግሶች ጋር ማዛመድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "ያለፉ የጊዜ አመልካች ቃላት (Past Time Markers):\n\n፩. ዋና ዋና የጊዜ ቃላት:\n- «ትላንት» / «ትላንትና»: Yesterday\n- «ከትላንት ወዲያ»: The day before yesterday\n- «ባለፈው ሳምንት»: Last week\n- «ባለፈው ወር»: Last month\n- «ባለፈው ዓመት»: Last year\n- «ድሮ» / «በጥንት ጊዜ»: In the old days / long ago\n- «ከሁለት ቀን በፊት»: Two days ago።\n\n፪. በአረፍተ ነገር ውስጥ አጠቃቀም:\n- የጊዜ አመልካች ቃላት አብዛኛውን ጊዜ በአረፍተ ነገር መጀመሪያ ወይም ከባለቤት ቀጥሎ ይቀመጣሉ (ምሳሌ: እኔ ትላንት መጣሁ / ትላንት መጣሁ)።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (7.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)' to the students."
+          "target": "ትላንትና ከጓደኞቼ ጋር ወደ ቤተ-መጻሕፍት ሄጄ አነበብኩ።",
+          "reading": "Təlantənna kägwadänyočče gar wädä betä-mäs’ahəft heğe anäbbäbku. [tɨlanˈtɨnːa kɛɡʷadɛˈɲotʃːe ɡar wɛdɛ betɛmɛsˤaˈhɨft hedʒe anɛbːɛbˈku] (tuh-lahn-TUN-nah keh-gwah-den-YOHCH-chay gahr weh-DEH bay-tuh-meh-TS'AH-huft hay-JAY ah-neb-beb-KOO)",
+          "translation": "Yesterday I went to the library with my friends and read."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (7.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እኛ ባለፈው ሳምንት ወደ ቢሾፍቱ ሐይቅ ተጉዘን ተዝናናን።",
+          "reading": "Ənnya baläfäw sammənt wädä Bišoftu hayq täguzän täznannan. [ɨɲa balɛˈfɛw samːɨnt wɛdɛ biʃofˈtu hajq tɛɡuˈzɛn tɛznanːan] (un-NYAH bah-leh-FEW sahm-MUNT weh-DEH bee-shohf-TOO high-k' teh-goo-ZEN tehz-nahn-NAHN)",
+          "translation": "Last week we traveled to Lake Bishoftu and relaxed."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (7.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (7.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "አያቴ ድሮ በአስመራ ከተማ ውስጥ ለብዙ ዓመታት ኖረ።",
+          "reading": "Ayate dəro bä'Asmära kätäma wəst’ läbəzu amätat norä. [ajate dɨˈro bɛʔasˈmɛra kɛtɛˈma wɨstʼ lɨbɨˈzu amɛˈtat noˈrɛ] (eye-YAH-tay duh-ROH beh-ahs-MEH-rah keh-teh-MAH woos-T' luh-buh-ZOO ah-meh-TAHT noh-REH)",
+          "translation": "My grandfather lived inside the city of Asmara for many years long ago."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Past time ladder: ትላንት (yesterday) -> ከትላንት ወዲያ (2 days ago) -> ባለፈው ሳምንት/ወር/ዓመት (last week/month/year) -> ድሮ (long ago)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ታሪክ 'ድሮ' የሚለው ቃል ጥንታዊ ወጎችን፣ አባባሎችንና ታሪኮችን ለማውሳት በስፋት ይሠራበታል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ያለፈውን ቀን 'Yesterday' ለመግለጽ የሚያገለግለው ቃል የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (7.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (7.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (7.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (7.2.w3)"
+            "ትላንትና (Yesterday - Correct past time marker)",
+            "ነገ",
+            "ዛሬ",
+            "ከነገ ወዲያ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ትላንትና» ያለፈውን ቀን (Yesterday) ያመለክታል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u7-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Last week we traveled' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (7.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (7.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (7.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (7.2.x3)"
+            "ባለፈው ሳምንት ተጓዝን። (Last week we traveled - Correct time marker and verb)",
+            "በሚመጣው ሳምንት እንጓዛለን።",
+            "ዛሬ እንጓዛለን።",
+            "ነገ ተጓዝን።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (7.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (7.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (7.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (7.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ባለፈው ሳምንት» ካለፈ ድርጊት («ተጓዝን») ጋር አብሮ ይገባል።"
         }
       ]
     },
@@ -3386,24 +3339,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 7-2):",
+          "prompt": "የጊዜ አመልካች ቃላትን እና ያለፈ ድርጊትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (7.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (7.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (7.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (7.2.z3)"
+            "ባለፈው ዓመት አዲስ ቋንቋ ተማርኩ፤ ትላንት ደግሞ ፈተና ወሰድኩ።",
+            "ነገ ትላንት መጣሁ።",
+            "ዛሬ ባለፈው ዓመት እሄዳለሁ።",
+            "ድሮ ማለት ነገ ማለት ነው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ያለፉ የጊዜ አመልካቾችን ከኃላፊ ግሶች ጋር በትክክል አጣምሯል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u7-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኃላፊ»):",
+          "prompt": "'ትላንትና / Yesterday' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኃላፊ",
-            "የኃላፊ"
+            "ትላንትና",
+            "ትላንት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኃላፊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ትላንትና» (Təlantənna) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -3414,85 +3367,62 @@
     "subject": "amharic",
     "unit": 7,
     "lessonNumber": 3,
-    "title": "የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience) (ክፍል 3)",
+    "title": "የኃላፊ ጊዜ አሉታዊ ቅርጽ (Negative Past Tense)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኃላፊ ጊዜ የግስ እርባታ፣ ያለፉ ክስተቶችን እና የግል ልምዶችን በዝርዝር መግለጽ። (ክፍል 3)።",
+    "objective": "በኃላፊ ጊዜ አሉታዊ መዋቅርን (አል- ... -ም) በሁሉም መደቦች በትክክል መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የኃላፊ ጊዜ አሉታዊ ቅርጽ (Negative Past Tense):\n\n፩. መዋቅር: አል- + የኃላፊ ግስ + -ም\n- እኔ አልሄድኩም (I did not go)\n- አንተ አልሄድክም (You [m] did not go)\n- አንቺ አልሄድሽም (You [f] did not go)\n- እርስዎ አልሄዱም (You [polite] did not go)\n- እሱ አልሄደም (He did not go)\n- እሷ አልሄደችም (She did not go)\n- እኛ አልሄድንም (We did not go)\n- እናንተ አልሄዳችሁም (You [pl] did not go)\n- እነሱ አልሄዱም (They did not go)።\n\n፪. ማስታወሻ:\n- በኃላፊ ጊዜ አሉታዊ ቅጥያ ሁልጊዜ በ«አል-» ጀምሮ በ«-ም» ይዘጋል።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (7.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)' to the students."
+          "target": "እኔ ትላንትና የታመምኩ ስለነበርኩ ወደ ሥራ አልሄድኩም።",
+          "reading": "Əne təlantənna yätammämku səllänäbbärku wädä səra alhedkum. [ɨˈne tɨlanˈtɨnːa jɛtamːɛmˈku sɨlːɛnɛbːɛrˈku wɛdɛ sɨˈra alhedˈkum] (uh-NAY tuh-lahn-TUN-nah yeh-tahm-mem-KOO sul-leh-neb-ber-KOO weh-DEH suh-RAH ahl-hayd-KOOM)",
+          "translation": "Because I was sick yesterday, I did not go to work."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (7.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እነሱ ስለ ጉዳዩ ምንም ዓይነት መረጃ አልሰሙም።",
+          "reading": "Ənnäsu səlä guddayu mənnəm aynät märäğa alsämum. [ɨnːɛˈsu sɨlɛ ɡudːaˈju mɨnːɨm ajˈnɛt mɛrɛˈdʒa alsɛˈmum] (un-neh-SOO suh-leh good-DAH-yoo mun-num eye-NET meh-reh-JAH ahl-seh-MOOM)",
+          "translation": "They did not hear any kind of information regarding the matter."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (7.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (7.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እኛ ገንዘብ ስላልነበረን ያንን ውድ ዕቃ አልገዛንም።",
+          "reading": "Ənnya gänzäb səlalnäbbärän yannən wəd əqqa algäzzanəm. [ɨɲa ɡɛnˈzɛb sɨlalnɛbːɛˈrɛn janːɨn wɨd ɨkʼːa alɡɛzːaˈnɨm] (un-NYAH gen-ZEB sul-ahl-neb-beh-REN yahn-NUN wud uhk'-K'AH ahl-gez-ZAHN-um)",
+          "translation": "Because we didn't have money, we did not buy that expensive item."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Negative Past Formula: አል- [Prefix] + Root + Suffix + -ም [Suffix] -> አል-...-ም!"
+      ],
+      "culturalNotes": [
+        "በአማርኛ ንግግር ውስጥ አለመቻልን ወይም አለማድረግን በትህትና ሲገልጹ 'ይቅርታ፣ አልቻልኩም' ማለት የተለመደ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«እሱ ሄደ (He went)» የሚለውን ወደ አሉታዊ ኃላፊ ጊዜ ሲቀየር ምን ይሆናል?",
           "options": [
-            "መምህሩ የ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (7.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (7.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (7.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (7.3.w3)"
+            "እሱ አልሄደም (He did not go - Correct negative past for 3rd person singular)",
+            "እሱ አይሄድም",
+            "እሱ አልሄድኩም",
+            "እሱ አልሄደችም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«እሱ ሄደ» በኃላፊ አሉታዊ «አልሄደም» (አል- + ሄደ + -ም) ይሆናል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u7-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'We did not eat' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (7.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (7.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (7.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (7.3.x3)"
+            "እኛ አልበላንም። (We did not eat - Correct 1st person plural negative past)",
+            "እኛ አንበላም።",
+            "እኛ አልበላሁም።",
+            "እኛ አልበላችሁም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (7.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (7.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (7.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (7.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ለ«እኛ» የኃላፊ አሉታዊ ቅርጽ «አልበላንም» (አል- + በላን + -ም) ነው።"
         }
       ]
     },
@@ -3500,24 +3430,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 7-3):",
+          "prompt": "የኃላፊ ጊዜ አሉታዊ አረፍተ ነገሮችን በትክክል የያዘው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (7.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (7.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (7.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (7.3.z3)"
+            "እኔ አልመጣሁም፣ እሷ አልጻፈችም፣ እኛ አልሰማንም።",
+            "እኔ አልመጣም፣ እኛ አልሰማችሁም።",
+            "አል- የሚለው ቅጥያ ለወደፊት ጊዜ ብቻ ነው።",
+            "በኃላፊ ጊዜ አሉታዊ ቅርጽ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የኃላፊ አሉታዊ ቅርጾችን በትክክለኛ ቅጥያዎች ተጠቅሟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u7-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኃላፊ»):",
+          "prompt": "'እኔ አልሄድኩም / I did not go' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኃላፊ",
-            "የኃላፊ"
+            "አልሄድኩም"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኃላፊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «አልሄድኩም» (Alhedkum) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -3528,85 +3457,62 @@
     "subject": "amharic",
     "unit": 7,
     "lessonNumber": 4,
-    "title": "የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience) (ክፍል 4)",
+    "title": "ያለፈ የጉዞ እና የህይወት ተሞክሮ መግለጽ (Past Travel & Experiences)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኃላፊ ጊዜ የግስ እርባታ፣ ያለፉ ክስተቶችን እና የግል ልምዶችን በዝርዝር መግለጽ። (ክፍል 4)።",
+    "objective": "ያለፉ የጉዞ ታሪኮችን፣ ታሪካዊ ቦታዎችን መጎብኘትንና የግል ተሞክሮዎችን በዝርዝር መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "ያለፈ ተሞክሮ እና የጉዞ ትረካ (Past Travel & Personal Experiences):\n\n፩. የጉዞ እና የጉብኝት ቃላት:\n- «መጎብኘት» (To visit) -> ጎበኘሁ / ጎበኘን\n- «መጓዝ» (To travel) -> ተጓዝኩ / ተጓዝን\n- «ማየት» (To see) -> አየሁ / አየን\n- «ማደር» (To spend the night) -> አደርን\n- «መመለስ» (To return) -> ተመለስን።\n\n፪. ታዋቂ የኢትዮጵያ ታሪካዊ ቦታዎች:\n- «ላሊበላ» (Lalibela rock-hewn churches)\n- «ፋሲል ግቢ» (Fasil Ghebbi / Gondar castles)\n- «አክሱም» (Axum obelisks)\n- «ሐረር ጁጎል» (Harar Jugol wall)።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (7.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)' to the students."
+          "target": "እኛ ባለፈው በጋ ወደ ላሊበላ ተጉዘን ውብ የሆኑትን ውቅር አብያተ ክርስቲያናት ጎበኘን።",
+          "reading": "Ənnya baläfäw bäga wädä Lalibäla täguzän wəb yähonutən wəqər əbyatä krəstiyanat gobänyän. [ɨɲa balɛˈfɛw bɛˈɡa wɛdɛ laliˈbɛla tɛɡuˈzɛn wɨb jɛhoˈnutɨn wɨˈkʼɨr ɨbjaˈtɛ krɨstijaˈnat ɡobɛˈɲɛn] (un-NYAH bah-leh-FEW beh-GAH weh-DEH lah-lee-beh-LAH teh-goo-ZEN wub yeh-HOH-noo-tun wuh-K'UR ub-YAH-teh kris-tee-YAH-naht goh-ben-YEN)",
+          "translation": "Last dry season we traveled to Lalibela and visited the beautiful rock-hewn churches."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (7.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በጎንደር ከተማ ውስጥ የፋሲልን ግንብ አይተን ብዙ ባህላዊ ትዝታዎችን ይዘን ተመለስን።",
+          "reading": "BäGondär kätäma wəst’ yäFasilən gənb aytän bəzu bahəlawi təzzətawoččən yəzän tämälässən. [bɛɡonˈdɛr kɛtɛˈma wɨstʼ jɛfasiˈlɨn ɡɨnb ajˈtɛn bɨˈzu bahɨlaˈwi tɨzːɨtaˈwotʃːɨn jɨˈzɛn tɛmɛlɛsːɨn] (buh-gohn-DER keh-teh-MAH woos-T' yeh-FAH-see-lun gunb eye-TEN buh-ZOO bah-huh-lah-WEE tuz-zuh-tah-wohch-CHUN yuh-ZEN teh-meh-LES-sun)",
+          "translation": "In the city of Gondar, we saw Fasil Castle and returned carrying many cultural memories."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (7.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (7.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እኔ በሕይወቴ ውስጥ እጅግ አስደሳችና የማይረሳ ጉዞ አደረግሁ።",
+          "reading": "Əne bäḥəywäte wəst’ əğğəg asdässač’ənna yämmayərräsa guzo adäräggu. [ɨˈne bɛhɨjˈwɛte wɨstʼ ɨdʒːɨɡ asdɛsːaˈtʃʼɨnːa jɛmːajɨrːɛˈsa ɡuˈzo adɛrɛɡˈɡu] (uh-NAY beh-huhy-weh-TAY woos-T' uhj-JUG ahs-des-SAHCH-un-nah yem-my-ur-reh-SAH goo-ZOH ah-deh-REG-goo)",
+          "translation": "I made an extremely enjoyable and unforgettable journey in my life."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Travel Narrative: ተጓዝን (we traveled) -> ጎበኘን (we visited) -> አየን (we saw) -> ተመለስን (we returned)!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ ታሪካዊ መስመሮች (Historic Northern Route) በዩኔስኮ የተመዘገቡ ጥንታዊ ቅርሶችን የያዙ ዓለም አቀፍ የቱሪዝም መዳረሻዎች ናቸው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ታሪካዊ ቦታዎችን ጎብኝቶ መመለስን የሚገልጸው ትክክለኛ ቃል የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (7.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (7.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (7.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (7.4.w3)"
+            "ጎበኘን እና ተመለስን (We visited and returned - Correct past experiential verbs)",
+            "እንጎበኛለን",
+            "አልሄድንም",
+            "መሄድ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ጎበኘን እና ተመለስን» ያለፈን ጉብኝትና መመለስን በኃላፊ ጊዜ በትክክል ይገልጻል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u7-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'I saw the historical castle' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (7.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (7.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (7.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (7.4.x3)"
+            "ታሪካዊውን ግንብ አየሁ። (I saw the historical castle - Correct 1st person past)",
+            "ታሪካዊውን ግንብ አያለሁ።",
+            "ታሪካዊውን ግንብ አየች።",
+            "ታሪካዊውን ግንብ አልፈልግም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (7.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (7.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (7.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (7.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ለእኔ (1ኛ መደብ) የኃላፊ ጊዜ ግስ «አየሁ» ይሆናል።"
         }
       ]
     },
@@ -3614,24 +3520,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 7-4):",
+          "prompt": "ያለፈ የጉዞ ልምድን በተሟላ መንገድ የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (7.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (7.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (7.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (7.4.z3)"
+            "ባለፈው ወር ወደ አክሱም ተጉዘን ሐውልቶችን ጎበኘን፤ ከዚያም ተመለስን።",
+            "ነገ ወደ አክሱም ተጓዝን።",
+            "አክሱም ትላንት እሄዳለሁ።",
+            "በአማርኛ የጉዞ ታሪክ አይነገርም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ያለፈውን የጉዞ ጊዜ፣ ድርጊትና ማጠቃለያ በትክክል ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u7-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኃላፊ»):",
+          "prompt": "'ተጓዝን / We traveled' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኃላፊ",
-            "የኃላፊ"
+            "ተጓዝን"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኃላፊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ተጓዝን» (Täguzän) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -3642,85 +3547,62 @@
     "subject": "amharic",
     "unit": 7,
     "lessonNumber": 5,
-    "title": "የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience) (ክፍል 5)",
+    "title": "የክፍል 7 አጠቃላይ ማጠቃለያ (Unit 7 Grand Synthesis & Past Narrative Discourse)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኃላፊ ጊዜ የግስ እርባታ፣ ያለፉ ክስተቶችን እና የግል ልምዶችን በዝርዝር መግለጽ። (ክፍል 5)።",
+    "objective": "ቀላል የኃላፊ ጊዜን፣ የጊዜ አመልካቾችን፣ አሉታዊ ቅርጾችን እና የጉዞ ትረካዎችን ያካተተ የተሟላ ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፯ አጠቃላይ ሰዋሰዋዊ ውህደትና ማጠቃለያ:\n\n፩. ቀላል የኃላፊ ጊዜ:\n- ሄድኩ፣ ሄድክ፣ ሄደች፣ ሄድን፣ ሄዱ\n\n፪. የጊዜ አመልካቾች:\n- ትላንትና፣ ከትላንት ወዲያ፣ ባለፈው ሳምንት/ወር/ዓመት፣ ድሮ\n\n፫. አሉታዊ ቅርጽ:\n- አልሄድኩም፣ አልበላችም፣ አልሰማንም፣ አልገዛንም\n\n፬. የጉዞና የተሞክሮ ትረካ:\n- ተጓዝን፣ ጎበኘን፣ አየን፣ ኖርን፣ ተመለስን።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (7.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)' to the students."
+          "target": "እኛ ባለፈው ዓመት ወደ ሰሜን ኢትዮጵያ ተጉዘን አስደናቂ ቦታዎችን ጎበኘን፤ ምንም ዓይነት ችግር አልገጠመንም።",
+          "reading": "Ənnya baläfäw amät wädä Sämen Ityop’ya täguzän asdännaqi botawoččən gobänyän; mənnəm aynät čəggər algät’t’ämänəm. [ɨɲa balɛˈfɛw aˈmɛt wɛdɛ sɛˈmen itjoˈpʼja tɛɡuˈzɛn asdɛnːaˈkʼi botaˈwotʃːɨn ɡobɛˈɲɛn mɨnːɨm ajˈnɛt tʃɨɡːɨr alɡɛtʼːɛmɛˈnɨm] (un-NYAH bah-leh-FEW ah-MET weh-DEH seh-MAYN eet-yohp'-YAH teh-goo-ZEN ahs-den-nah-K'EE boh-tah-wohch-CHUN goh-ben-YEN; mun-num eye-NET chug-gur ahl-get'-t'eh-meh-NUM)",
+          "translation": "Last year we traveled to Northern Ethiopia and visited wonderful places; we did not encounter any kind of problem."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (7.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ጓደኛዬ ትላንትና ወደ ገበያ ሄዶ ነበር፤ ነገር ግን የሚፈልገውን መጽሐፍ ስላላገኘ አልገዛም።",
+          "reading": "Gwadänyaye təlantənna wädä gäbäya hedo näbbär; nägär gən yämmifälləgäwən mäs’haf səlalaggänyä algäzzam. [ɡʷadɛˈɲaje tɨlanˈtɨnːa wɛdɛ ɡɛbɛˈja heˈdo nɛbːɛr nɛˈɡɛr ɡɨn jɛmːifɛlːɨˈɡɛwɨn mɛsˤˈhaf sɨlalagːɛˈɲɛ alɡɛzːam] (gwah-den-YAH-yay tuh-lahn-TUN-nah weh-DEH geh-beh-YAH hay-DOH neb-BER; neh-GER gun yem-mee-fel-luh-gow-UN meh-ts'u-HAF sul-ahl-ahg-gen-YEH ahl-gez-ZAHM)",
+          "translation": "My friend had gone to the market yesterday; but because he didn't find the book he wanted, he did not buy it."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (7.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (7.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ያሳለፍናቸው ያለፉ ልምዶችና ትዝታዎች ሁልጊዜ በልባችን ውስጥ ይኖራሉ።",
+          "reading": "Yasaläffənaččäw yaläfu ləmədoččənna təzzətawočč hullgize bäləbbaččən wəst’ yənorallu. [jasalɛfːɨˈnatʃːɛw jalɛˈfu lɨmɨˈdotʃːɨnːa tɨzːɨtaˈwotʃː hulːˈɡize bɛlɨbːaˈtʃːɨn wɨstʼ jɨnoˈralːu] (yah-sah-lef-fuh-nahch-CHEW yah-leh-FOO luh-muh-dohch-CHUN-nah tuz-zuh-tah-wohch-CHOO hool-GEE-zay beh-lub-bahch-CHUN woos-T' yuh-noh-RAHL-loo)",
+          "translation": "The past experiences and memories that we passed through will always live inside our hearts."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Past Mastery: Positive (ሄድኩ/ተጓዝን) + Negative (አልሄድኩም/አልገዛንም) + Time (ትላንት/ባለፈው ዓመት) + Experience (ጎበኘን/አየን)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህል አረጋውያን ያለፉትን ታሪኮች 'በእኛ ጊዜ...' እያሉ ለወጣቱ ትውልድ ማውጋት ትልቅ የትውፊት ማስተላለፊያ መንገድ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ያለፈን ድርጊት በአዎንታዊና በአሉታዊ ቅርጽ በትክክል ያገናኘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (7.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (7.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (7.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (7.5.w3)"
+            "ትላንት ወደ ከተማ ሄድኩ፣ ነገር ግን ዕቃ አልገዛሁም። (Yesterday I went to town, but did not buy goods - Correct positive and negative past combination)",
+            "ነገ ወደ ከተማ ሄድኩ።",
+            "ትላንት ዕቃ እገዛለሁ።",
+            "በኃላፊ ጊዜ ሁለቱም አረፍተ ነገሮች ስህተት ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ያለፈ ጊዜ አመልካችን፣ አዎንታዊ ኃላፊን («ሄድኩ») እና አሉታዊ ኃላፊን («አልገዛሁም») በትክክል አጣምሯል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u7-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "የክፍል 7ን ዋና ዋና ርዕሰ ጉዳዮች ያካተተ የተሟላ ትረካ የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (7.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (7.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (7.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (7.5.x3)"
+            "ባለፈው ዓመት ብዙ ቦታዎችን ጎበኘን፤ አስደሳች ጊዜ አሳለፍን። (We visited many places last year, spent an enjoyable time - Comprehensive past narrative)",
+            "ነገ እንጎበኛለን።",
+            "አሁን እየበላን ነው።",
+            "ቋንቋ አልፈልግም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኃላፊ ጊዜ ግሶች እና ያለፈ ልምድ (Past Tense & Experience)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (7.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (7.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (7.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (7.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ የክፍል 7ን የኃላፊ ጊዜና የጉብኝት ትረካ ሙሉ በሙሉ ይገልጻል።"
         }
       ]
     },
@@ -3728,24 +3610,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 7-5):",
+          "prompt": "የክፍል 7 አጠቃላይ ይዘት በትክክል የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (7.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (7.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (7.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (7.5.z3)"
+            "የቀላል ኃላፊ ጊዜ ግስ እርባታ፣ ያለፉ የጊዜ አመልካቾች፣ የኃላፊ ጊዜ አሉታዊ ቅርጽ እና ያለፉ የጉዞ ትረካዎች ተካተዋል።",
+            "ይህ ክፍል ስለወደፊት ጊዜ ብቻ ያትታል።",
+            "በአማርኛ የኃላፊ ጊዜ የለም።",
+            "ሁሉም ቃላት ስለ እንስሳት ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 7ን ሁሉንም ሰዋሰዋዊ ክፍሎች በትክክል ይገልጻል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u7-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኃላፊ»):",
+          "prompt": "'ልምድ / Experience, habit' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኃላፊ",
-            "የኃላፊ"
+            "ልምድ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኃላፊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ልምድ» (Ləməd) ነው።"
         }
       ],
       "passThreshold": 0.8
