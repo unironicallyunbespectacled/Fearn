@@ -5218,85 +5218,89 @@
     "subject": "arabic",
     "unit": 9,
     "lessonNumber": 1,
-    "title": "التسوق والأسواق العربية والجمع (Shopping & Plural Forms) (الدرس 1)",
+    "title": "جمع المذكر السالم وإعرابه بالواو والياء (Sound Masculine Plural: -ūn & -īn)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: جمع المذكر السالم، جمع المؤنث السالم، وجمع التكسير، والتعامل المالي في الأسواق التقليدية. (الجزء 1).",
+    "objective": "إتقان صياغة جمع المذكر السالم للعاقل، وإعرابه بالواو في حالة الرفع وبالياء في حالتي النصب والجر، وقاعدة حذف النون عند الإضافة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "جمع المذكر السالم هو ما دل على أكثر من اثنين بزيادة واو ونون أو ياء ونون على مفرده المذكر العاقل دون تغيير في حروفه الأصلية:\n\nأولاً: صياغة الجمع وحالات الإعراب الفرعية:\n1.【حالة الرفع: بِالوَاوِ (Nominative with Wāw)】:\n   - يرفع بالواو نيابة عن الضمة (عندما يكون فاعلاً، مبتدأً، أو خبرًا):\n   - «يَسْتَقْبِلُ البَائِعُونَ الزَّبَائِنَ» [al-bāʾiʿūna] (فاعل مرفوع بالواو).\n   - «المُعَلِّمُونَ مُخْلِصُونَ فِي عَمَلِهِمْ» (مبتدأ وخبر مرفوعان بالواو).\n2.【حالتا النصب والجر: بِاليَاءِ (Accusative & Genitive with Yāʾ)】:\n   - ينصب ويجر بالياء نيابة عن الفتحة والكسرة:\n   - «شَاهَدْتُ المُشْتَرِينَ فِي السُّوقِ» [al-mushtarīna] (مفعول به منصوب بالياء).\n   - «سَلَّمْتُ عَلَى البَائِعِينَ» (اسم مجرور بالياء).\n\nثانياً: حذف النون عند الإضافة (Dropping of Nūn in Iḍāfah):\n- تُحذف نون جمع المذكر السالم وجوبًا إذا أُضيف إلى اسم بعده:\n  - «بَائِعُو السُّوقِ نَشِيطُونَ» (أصلها: بائعون -> حُذفت النون للإضافة).\n  - «الْتَقَيْتُ بِمُهَنْدِسِي المَشْرُوعِ» (أصلها: مهندسين -> حُذفت النون للإضافة).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)» بأسلوب أكاديمي دقيق (9.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'التسوق والأسواق العربية والجمع (Shopping & Plural Forms)' to students in an accurate academic style."
+          "target": "يَسْتَقْبِلُ البَائِعُونَ الزَّبَائِنَ فِي السُّوقِ الشَّعْبِيِّ بِابْتِسَامَةٍ وَتَرْحَابٍ كَرِيمٍ.(Yastaqbilu al-bāʾiʿūna az-zabāʾina fī as-sūqi ash-shaʿbiyyi bi-btisāmatin wa-tarḥābin karīm.)",
+          "reading": "[jas.taq.bi.lu‿l.baː.ʔi.ʕuː.na‿z.za.baː.ʔi.na fiː‿s.suː.qi‿ʃ.ʃaʕ.bij.ji bib.ti.saː.ma.tin wa.tar.ħaː.bin ka.riːm] (Yas-taq-bi-lu al-bā-ʾi-ʿū-na az-za-bā-ʾi-na fī as-sū-qi ash-shaʿ-biy-yi bi-ib-ti-sā-ma-tin wa-tar-ḥā-bin ka-rīm.)",
+          "translation": "The sellers welcome customers in the popular market with a smile and generous hospitality."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (9.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "شَاهَدْتُ التُّجَّارَ وَالمُشْتَرِينَ يَتَفَاوَضُونَ حَوْلَ الأَسْعَارِ فِي السَّاحَةِ الكُبْرَى.(Shāhadtu at-tujjāra wa-al-mushtarīna yatafāwaḍūna ḥawla al-asʿāri fī as-sāḥati al-kubrā.)",
+          "reading": "[ʃaː.had.tu‿t.tuʒ.ʒaː.ra wal.muʃ.ta.riː.na ja.ta.faː.wa.dˤuː.na ħaw.la‿l.ʔas.ʕaː.ri fiː‿s.saː.ħa.ti‿l.kub.raː] (Shā-had-tu at-tuj-jā-ra wa-al-mush-ta-rī-na ya-ta-fā-wa-ḍū-na ḥaw-la al-as-ʿā-ri fī as-sā-ḥa-ti al-kub-rā.)",
+          "translation": "I saw merchants and buyers negotiating over prices in the grand square."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (9.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يُرْفَعُ جَمْعُ المُذَكَّرِ السَّالِمُ بِالوَاوِ وَيُنْصَبُ وَيُجَرُّ بِاليَاءِ نِيَابَةً عَنِ الحَرَكَاتِ.(Yurfaʿu jamʿu al-mudhakkari as-sālimu bi-l-wāwi wa-yunṣabu wa-yujarru bi-l-yāʾi niyābatan ʿani al-ḥarakāt.)",
+          "reading": "[jur.fa.ʕu ʒam.ʕu‿l.mu.ðak.ka.ri‿s.saː.li.mu bil.waː.wi wa.jun.sˤa.bu wa.ju.ʒar.ru bil.jaː.ʔi ni.jaː.ba.tan ʕa.ni‿l.ħa.ra.kaːt] (Yur-fa-ʿu jam-ʿu al-mu-dhak-ka-ri as-sā-li-mu bi-l-wā-wi wa-yun-ṣa-bu wa-yu-jar-ru bi-l-yā-ʾi ni-yā-ba-tan ʿa-ni al-ḥa-ra-kāt.)",
+          "translation": "The sound masculine plural is raised with waw and made accusative and genitive with ya in place of vowels."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (9.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "حَرَصَ مُهَنْدِسُو المَشْرُوعِ عَلَى تَطْوِيرِ المَرَافِقِ التِّجَارِيَّةِ بِأَعْلَى المَعَايِيرِ العَصْرِيَّةِ.(Ḥaraṣa muhandisū al-mashrūʿi ʿalā taṭwīri al-marāfiqi at-tijāriyyati bi-aʿlā al-maʿāyīri al-ʿaṣriyyah.)",
+          "reading": "[ħa.ra.sˤa mu.han.di.suː‿l.maʃ.ruː.ʕi ʕa.laː tatˤ.wiː.ri‿l.ma.raː.fi.qi‿t.ti.ʒaː.rij.ja.ti bi.ʔaʕ.laː‿l.ma.ʕaː.jiː.ri‿l.ʕasˤ.rij.jah] (Ḥa-ra-ṣa mu-han-di-sū al-mash-rū-ʿi ʿa-lā taṭ-wī-ri al-ma-rā-fi-qi at-ti-jā-riy-ya-ti bi-aʿ-lā al-ma-ʿā-yī-ri al-ʿaṣ-riy-yah.)",
+          "translation": "The project engineers ensured developing commercial facilities with the highest modern standards."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "وَاوٌ لِرَفْعِ جَمْعِ الذُّكُورِ انْتَصَبْ، وَاليَاءُ لِلنَّصْبِ وَالجَرِّ مَعًا تُكْتَبْ!"
+      ],
+      "culturalNotes": [
+        "الأسواق العربية التقليدية كخان الخليلي وسوق الحميدية وسوق مطرح مراكز عريقة للتجارة والحرف والصناعات اليدوية الموروثة أباً عن جد."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)» (الدرس 1)؟",
+          "prompt": "ما هي علامة رفع جمع المذكر السالم في مثل جملة «حَضَرَ المُعَلِّمُونَ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)» بأسلوب أكاديمي دقيق (9.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (9.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (9.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (9.1.w3)"
+            "الوَاوُ نِيَابَةً عَنِ الضَّمَّةِ (Wāw)",
+            "الضمة الظاهرة",
+            "الألف",
+            "ثبوت النون"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "جمع المذكر السالم يرفع بالواو نيابة عن الضمة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ماذا يحدث لنون جمع المذكر السالم عند إضافته إلى اسم بعده مثل «بائعو السوق»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "تُحْذَفُ النُّونُ وُجُوبًا لِلإِضَافَةِ (Dropped due to iḍāfah)",
+            "تبقى النون كما هي",
+            "تتحول إلى ألف تفريق",
+            "تتحول إلى تاء"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "تحذف نون التثنية وجمع المذكر السالم وجوبًا عند الإضافة."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u9-l1):",
+          "prompt": "اختر الجملة التي تتضمن جمع مذكر سالم في موضع نصب مفعول به مضبوطًا بشكل صحيح:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (9.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (9.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (9.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (9.1.x3)"
+            "شَكَرَ المُدِيرُ المُوَظَّفِينَ المُجْتَهِدِينَ عَلَى إِخْلَاصِهِمْ. (The director thanked the diligent employees for their sincerity.)",
+            "شكر المدير الموظفون المجتهدون بالواو خطأ",
+            "شكر المدير موظفون مجتهدين",
+            "مدير موظفون شكر سكون فتحة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«المُوَظَّفِينَ» مفعول به منصوب بالياء، و«المُجْتَهِدِينَ» نعت منصوب بالياء."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)»؟",
+          "prompt": "كيف تجمع كلمة «مُشْتَرٍ» جمع مذكر سالم في حالة الرفع؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (9.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (9.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (9.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (9.1.y3)"
+            "مُشْتَرُونَ (Mushtarūna)",
+            "مشتريات",
+            "مشتريين بالكسر",
+            "أشتار"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "تجمع «مشترٍ» على «مُشْتَرُونَ» في الرفع و«مُشْتَرِينَ» في النصب والجر."
         }
       ]
     },
@@ -5304,24 +5308,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 9-1)؟",
+          "prompt": "اختر الفقرة التي توظف جمع المذكر السالم في حالتي الرفع والنصب والإضافة بدقة إعرابية تامة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (9.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (9.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (9.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (9.1.z3)"
+            "اجْتَمَعَ بَائِعُو السُّوقِ التَّقْلِيدِيِّ صَبَاحًا؛ لِيَسْتَقْبِلُوا الزَّائِرِينَ وَالمُشْتَرِينَ، حَيْثُ قَدَّمَ التُّجَّارُ المَاهِرُونَ خَصْمًا خَاصًّا لِلضُّيُوفِ. (The traditional market sellers gathered in the morning to receive visitors and buyers, where skilled merchants offered a special discount to guests.)",
+            "اجتمع بائعون السوق الزائرون والمشترون بلا تمييز إعرابي.",
+            "جمع مذكر سالم واو ياء نون بائعون مشترين سكون فتحة.",
+            "لا يوجد بائعون ولا مشترون في السوق اليوم."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة توظف «بَائِعُو» (فاعل مرفوع بالواو حذفت نونه للإضافة) و«الزَّائِرِينَ وَالمُشْتَرِينَ» (مفعول به منصوب بالياء) و«المَاهِرُونَ» (نعت مرفوع بالواو) بإعجاز نحوي تام."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u9-l1) باللغة العربية (مثال: «التسوق»):",
+          "prompt": "اكتب باللغة العربية الفصحى جمع المذكر السالم لكلمة «بَائِع» في حالة الرفع (مثال: «بائعون»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "التسوق",
-            "التسوق"
+            "بائعون",
+            "بَائِعُونَ",
+            "بائعين"
           ],
-          "explanation": "المصطلح الصحيح هو «التسوق»."
+          "explanation": "جمع بائع بالواو والنون هو «بائعون»."
         }
       ],
       "passThreshold": 0.8
@@ -5332,85 +5337,89 @@
     "subject": "arabic",
     "unit": 9,
     "lessonNumber": 2,
-    "title": "التسوق والأسواق العربية والجمع (Shopping & Plural Forms) (الدرس 2)",
+    "title": "جمع المؤنث السالم وإعرابه بالضمة والكسرة (Sound Feminine Plural: -āt)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: جمع المذكر السالم، جمع المؤنث السالم، وجمع التكسير، والتعامل المالي في الأسواق التقليدية. (الجزء 2).",
+    "objective": "إتقان صياغة جمع المؤنث السالم بزيادة الألف والتاء، وإعرابه بالضمة رفعًا وبالكسرة في حالتي الجر والنصب (نيابة عن الفتحة).",
     "presentation": {
-      "explanation": "",
+      "explanation": "جمع المؤنث السالم هو ما دل على أكثر من اثنتين بزيادة ألف وتاء مبسوطة (ات) على مفرده بعد حذف تاء التأنيث المربوطة:\n\nأولاً: صياغة الجمع:\n- مُعَلِّمَةٌ -> مُعَلِّمَاتٌ | سَاعَةٌ -> سَاعَاتٌ | لَوْحَةٌ -> لَوْحَاتٌ | مَجَلَّةٌ -> مَجَلَّاتٌ.\n\nثانياً: أحكام الإعراب الفرعية:\n1.【حالة الرفع: بِالضَّمَّةِ الظَّاهِرَةِ (Nominative with Ḍammah)】:\n   - «وَصَلَتِ السَّائِحَاتُ إِلَى المَتْحَفِ» [al-sāʾiḥātu] (فاعل مرفوع بالضمة).\n2.【حالة الجر: بِالكَسْرَةِ الظَّاهِرَةِ (Genitive with Kasrah)】:\n   - «اشْتَرَيْتُ هَدَايَا مِنَ التَّاجِرَاتِ» [at-tājirāti] (اسم مجرور بالكسرة).\n3.【حالة النصب: بِالكَسْرَةِ نِيَابَةً عَنِ الفَتْحَةِ (Accusative with Kasrah - Unique Rule)】:\n   - ينفرد جمع المؤنث السالم بأنه يُنصب بالكسرة نيابة عن الفتحة:\n   - «اشْتَرَيْتُ لَوْحَاتٍ زَيْتِيَّةً» [lawḥātin zaytiyyatan] (لوحاتٍ: مفعول به منصوب بالكسرة، زيتيّةً: نعت منصوب بالفتحة الظاهرة).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)» بأسلوب أكاديمي دقيق (9.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'التسوق والأسواق العربية والجمع (Shopping & Plural Forms)' to students in an accurate academic style."
+          "target": "اشْتَرَتِ السَّائِحَاتُ تَذْكَارَاتٍ جَمِيلَةً وَمَصْنُوعَاتٍ يَدَوِيَّةً مِنَ السُّوقِ القَدِيمِ.(Ishtarat as-sāʾiḥātu tadhkārātin jamīlatan wa-maṣnūʿātin yadawiyyatan min as-sūqi al-qadīm.)",
+          "reading": "[ʔiʃ.ta.ra.ti‿s.saː.ʔi.ħaː.tu tað.kaː.raː.tin ʒa.miː.la.tan wa.masˤ.nuː.ʕaː.tin ja.da.wij.ja.tan mi.na‿s.suː.qi‿l.qa.diːm] (Ish-ta-ra-ti as-sā-ʾi-ḥā-tu tadh-kā-rā-tin ja-mī-la-tan wa-maṣ-nū-ʿā-tin ya-da-wiy-ya-tan mi-na as-sū-qi al-qa-dīm.)",
+          "translation": "The tourists bought beautiful souvenirs and handmade crafts from the old market."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (9.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "عَرَضَتِ التَّاجِرَاتُ عُطُورَاتٍ نَادِرَةً وَمَلَابِسَ مُطَرَّزَةً بِأَلْوَانٍ زَاهِيَةٍ.(ʿAraḍat at-tājirātu ʿuṭūrātin nādiratan wa-malābisa muṭarrazatan bi-alwānin zāhiyah.)",
+          "reading": "[ʕa.ra.dˤa.ti‿t.taː.ʒi.raː.tu ʕu.tˤuː.raː.tin naː.di.ra.tan wa.ma.laː.bi.sa mu.tˤar.ra.za.tan bi.ʔal.waː.nin zaː.hi.jah] (ʿA-ra-ḍa-ti at-tā-ji-rā-tu ʿu-ṭū-rā-tin nā-di-ra-tan wa-ma-lā-bi-sa mu-ṭar-ra-za-tan bi-al-wā-nin zā-hi-yah.)",
+          "translation": "The female merchants exhibited rare perfumes and embroidered clothes in vibrant colors."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (9.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يُنْصَبُ جَمْعُ المُؤَنَّثِ السَّالِمُ بِالكَسْرَةِ نِيَابَةً عَنِ الفَتْحَةِ فِي جَمِيعِ المَوَاضِعِ.(Yunṣabu jamʿu al-mu'annathi as-sālimu bi-l-kasrati niyābatan ʿani al-fatḥati fī jamīʿi al-mawāḍiʿ.)",
+          "reading": "[jun.sˤa.bu ʒam.ʕu‿l.mu.ʔan.na.θi‿s.saː.li.mu bil.kas.ra.ti ni.jaː.ba.tan ʕa.ni‿l.fat.ħa.ti fiː ʒa.miː.ʕi‿l.ma.waː.dˤiʕ] (Yun-ṣa-bu jam-ʿu al-mu-ʾan-na-thi as-sā-li-mu bi-l-kas-ra-ti ni-yā-ba-tan ʿa-ni al-fat-ḥa-ti fī ja-mī-ʿi al-ma-wā-ḍiʿ.)",
+          "translation": "The sound feminine plural is made accusative with kasrah in place of fathah in all positions."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (9.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "أَعْجَبَتْنَا اللَّوْحَاتُ الزَّيْتِيَّةُ المَعْرُوضَةُ فِي مَتَاجِرِ الفُنُونِ التَّقْلِيدِيَّةِ.(Aʿjabatnā al-lawḥātu az-zaytiyyatu al-maʿrūḍatu fī matājiri al-funūni at-taqlīdiyyah.)",
+          "reading": "[ʔaʕ.ʒa.bat.naː‿l.law.ħaː.tu‿z.zaj.tij.ja.tu‿l.maʕ.ruː.dˤa.tu fiː ma.taː.ʒi.ri‿l.fu.nuː.ni‿t.taq.liː.dij.jah] (Aʿ-ja-bat-nā al-law-ḥā-tu az-zay-tiy-ya-tu al-maʿ-rū-ḍa-tu fī ma-tā-ji-ri al-fu-nū-ni at-taq-lī-diy-yah.)",
+          "translation": "We were amazed by the oil paintings displayed in the traditional art shops."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "أَلِفٌ وَتَاءٌ لِلإِنَاثِ جَمْعًا حَصَلْ، وَالكَسْرُ فِي النَّصْبِ بَدِيلُ الفَتْحِ اكْتَمَلْ!"
+      ],
+      "culturalNotes": [
+        "الصناعات اليدوية والتطريز الفولكلوري وصناعة السجاد اليدوي فنون عريقة تتوارثها الأجيال في القرى والمدن العربية التاريخية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)» (الدرس 2)؟",
+          "prompt": "ما هي علامة إعراب جمع المؤنث السالم عند وقوعه في موضع نصب مفعول به؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)» بأسلوب أكاديمي دقيق (9.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (9.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (9.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (9.2.w3)"
+            "الكَسْرَةُ نِيَابَةً عَنِ الفَتْحَةِ (Kasrah in place of Fatḥah)",
+            "الفتحة الظاهرة",
+            "الياء",
+            "السكون"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "جمع المؤنث السالم ينصب بالكسرة نيابة عن الفتحة: «رَأَيْتُ لَوْحَاتٍ»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "كيف تجمع كلمة «سَاعَة» جمع مؤنث سالم؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "سَاعَاتٌ (Sāʿāt)",
+            "سواع",
+            "ساعاتون",
+            "أسوع"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "تحذف التاء المربوطة وتضاف الألف والتاء: «سَاعَاتٌ»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u9-l2):",
+          "prompt": "اختر الجملة التي تضبط جمع المؤنث السالم المنصوب ونعته المفرد ضبطًا نحويًا سليمًا:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (9.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (9.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (9.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (9.2.x3)"
+            "قَرَأْتُ مَجَلَّاتٍ عِلْمِيَّةً مُفِيدَةً. (I read useful scientific magazines.)",
+            "قرأتُ مجلاتًا علميةً بفتح مجلات خطأ",
+            "قرأتُ مجلاتٌ علميةٌ بالضم في المفعول به",
+            "مجلات علمية قراءة سكون فتحة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«مَجَلَّاتٍ» مفعول به منصوب بالكسرة، ونعتها «عِلْمِيَّةً» منصوب بالفتحة الظاهرة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)»؟",
+          "prompt": "ما هي علامة رفع جمع المؤنث السالم في الفصحى؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (9.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (9.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (9.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (9.2.y3)"
+            "الضَّمَّةُ الظَّاهِرَةُ (Ḍammah)",
+            "الواو",
+            "الألف",
+            "الفتحة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "جمع المؤنث السالم يرفع بالضمة الظاهرة كالمفرد: «المُعَلِّمَاتُ مَوْجُودَاتٌ»."
         }
       ]
     },
@@ -5418,24 +5427,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 9-2)؟",
+          "prompt": "اختر الفقرة التي تقدم وصفًا لمعروضات سوق الفنون بجموع مؤنث سالمة معربة بدقة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (9.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (9.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (9.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (9.2.z3)"
+            "زَارَتِ الطَّالِبَاتُ مَعَارِضَ الحِرَفِ، فَاشْتَرَيْنَ مَصْنُوعَاتٍ زُجَاجِيَّةً وَتَحْفِيَّاتٍ رَائِعَةً، وَشَاهَدْنَ لَوْحَاتٍ فَنِّيَّةً تَعْكِسُ أَعْرَقَ الثَّقَافَاتِ العَرَبِيَّةِ. (The female students visited the craft exhibitions, and bought glassware and wonderful artifacts, and saw artistic paintings reflecting the most ancient Arab cultures.)",
+            "زارت الطالبات واشترين مصنوعاتًا زجاجية بالفتح في مصنوعات خطأ.",
+            "طالبات معارض مصنوعات لوحات سكون فتحة ضمة كسرة.",
+            "لم تشتر الطالبات اي لوحات من المعرض."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة تضبط المفاعيل المنصوبة بالكسرة «مَصْنُوعَاتٍ، تَحْفِيَّاتٍ، لَوْحَاتٍ» ونعوتها المنصوبة بالفتحة بتناسق بياني فريد."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u9-l2) باللغة العربية (مثال: «التسوق»):",
+          "prompt": "اكتب باللغة العربية الفصحى جمع المؤنث السالم لكلمة «لَوْحَة» (مثال: «لوحات»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "التسوق",
-            "التسوق"
+            "لوحات",
+            "لَوْحَاتٌ",
+            "لَوْحَات",
+            "اللوحات"
           ],
-          "explanation": "المصطلح الصحيح هو «التسوق»."
+          "explanation": "جمع لوحة هو «لوحات»."
         }
       ],
       "passThreshold": 0.8
@@ -5446,85 +5457,89 @@
     "subject": "arabic",
     "unit": 9,
     "lessonNumber": 3,
-    "title": "التسوق والأسواق العربية والجمع (Shopping & Plural Forms) (الدرس 3)",
+    "title": "جموع التكسير وأوزانها الشائعة ومطابقة غير العاقل (Broken Plurals & Non-Human Agreement)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: جمع المذكر السالم، جمع المؤنث السالم، وجمع التكسير، والتعامل المالي في الأسواق التقليدية. (الجزء 3).",
+    "objective": "إتقان جموع التكسير وأوزانها الأكثر شيوعًا في العربية (أفعال، فعول، فعلاء، مفاعل، مفاعيل)، وقاعدة معاملة جمع غير العاقل معاملة المفرد المؤنث.",
     "presentation": {
-      "explanation": "",
+      "explanation": "جمع التكسير هو الجمع الذي تتغير فيه بنية المفرد بزيادة حروف أو حذفها أو تبديل حركاتها، وهو السمة البارزة لفصاحة اللسان العربي:\n\nأولاً: أشهر أوزان جموع التكسير في المعاجم:\n1.【أَفْعَالٌ】: قَلَمٌ -> أَقْلَامٌ | سِعْرٌ -> أَسْعَارٌ | يَوْمٌ -> أَيَّامٌ | سُوقٌ -> أَسْوَاقٌ.\n2.【فُعُولٌ】: قَلْبٌ -> قُلُوبٌ | شَيْخٌ -> شُيُوخٌ | بَيْتٌ -> بُيُوتٌ | دَرْسٌ -> دُرُوسٌ.\n3.【فُعَلَاءُ】: عَالِمٌ -> عُلَمَاءُ | شَاعِرٌ -> شُعَرَاءُ | كَرِيمٌ -> كُرَمَاءُ | وَزِيرٌ -> وُزَرَاءُ.\n4.【مَفَاعِلُ / مَفَاعِيلُ】: مَسْجِدٌ -> مَسَاجِدُ | مَصْنَعٌ -> مَصَانِعُ | مِصْبَاحٌ -> مَصَابِيحُ | دُكَّانٌ -> دَكَاكِينُ.\n\nثانياً: القاعدة الذهبية لمطابقة جمع غير العاقل (Non-Human Plural Agreement):\n- كل جمع لغير العاقل (سواء كان تكسيرًا أو مؤنثًا سالمًا) يُعامل نحويًا معاملة **المُفْرَدِ المُؤَنَّثِ** في الإشارة والنعت والضمير والفعل:\n  - «هٰذِهِ كُتُبٌ قَيِّمَةٌ» (This [fem. sing.] valuable [fem. sing.] books).\n  - «الأَسْوَاقُ القَدِيمَةُ مَلِيئَةٌ بِالبَضَائِعِ» (The old markets are full of goods).\n  - «الدَّكَاكِينُ تُغْلِقُ أَبْوَابَهَا» (The shops close their doors).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)» بأسلوب أكاديمي دقيق (9.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'التسوق والأسواق العربية والجمع (Shopping & Plural Forms)' to students in an accurate academic style."
+          "target": "اشْتَرَيْتُ هَدَايَا كَثِيرَةً وَتُحَفًا أَنِيقَةً مِنْ مَحَلَّاتِ الخَزَفِ وَالفِضَّةِ.(Ishtaraytu hadāyā kathīratan wa-tuḥafan anīqatan min maḥallāti al-khazafi wa-al-fiḍḍah.)",
+          "reading": "[ʔiʃ.ta.raj.tu ha.daː.jaː ka.θiː.ra.tan wa.tu.ħa.fan ʔa.niː.qa.tan min ma.ħal.laː.ti‿l.xa.za.fi wal.fidˤ.dˤah] (Ish-ta-ray-tu ha-dā-yā ka-thī-ra-tan wa-tu-ḥa-fan a-nī-qa-tan min ma-ḥal-lā-ti al-kha-za-fi wa-al-fiḍ-ḍah.)",
+          "translation": "I bought many gifts and elegant artifacts from ceramic and silver shops."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (9.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "هٰذِهِ الأَسْوَاقُ الشَّعْبِيَّةُ تَضُمُّ دَكَاكِينَ قَدِيمَةً تَبِيعُ أَجْوَدَ أَنْوَاعِ التَّوَابِلِ.(Hādhihi al-aswāqu ash-shaʿbiyyati taḍummu dakākīna qadīmatan tabīʿu ajwada anwāʿi at-tawābil.)",
+          "reading": "[haː.ði.hi‿l.ʔas.waː.qu‿ʃ.ʃaʕ.bij.ja.tu ta.dˤum.mu da.kaː.kiː.na qa.diː.ma.tan ta.biː.ʕu ʔaʒ.wa.da ʔan.waː.ʕi‿t.ta.waː.bil] (Hā-dhi-hi al-as-wā-qu ash-shaʿ-biy-ya-tu ta-ḍum-mu da-kā-kī-na qa-dī-ma-tan ta-bī-ʿu aj-wa-da an-wā-ʿi at-ta-wā-bil.)",
+          "translation": "These popular markets contain old shops selling the finest types of spices."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (9.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "جَمْعُ غَيْرِ العَاقِلِ يُعَامَلُ مُعَامَلَةَ المُفْرَدِ المُؤَنَّثِ فِي اسْمِ الإِشَارَةِ وَالنَّعْتِ.(Jamʿu ghayri al-ʿāqili yuʿāmalu muʿāmalata al-mufradi al-mu'annathi fī ismi al-ishārati wa-an-naʿt.)",
+          "reading": "[ʒam.ʕu ɣaj.ri‿l.ʕaː.qi.li ju.ʕaː.ma.lu mu.ʕaː.ma.la.ta‿l.muf.ra.di‿l.mu.ʔan.na.θi fiː‿is.mi‿l.ʔi.ʃaː.ra.ti wan.naʕt] (Jam-ʿu ghay-ri al-ʿā-qi-li yu-ʿā-ma-lu mu-ʿā-ma-la-ta al-muf-ra-di al-mu-ʾan-na-thi fī is-mi al-i-shā-ra-ti wa-an-naʿt.)",
+          "translation": "The non-human plural is treated as feminine singular in demonstrative pronouns and adjectives."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (9.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "زَارَ العُلَمَاءُ وَالشُّعَرَاءُ المَكْتَبَاتِ التَّارِيخِيَّةَ لِلِاطِّلَاعِ عَلَى المَخْطُوطَاتِ النَّادِرَةِ.(Zāra al-ʿulamāʾu wa-ash-shuʿarāʾu al-maktabāti at-tārīkhiyyata li-l-iṭṭilāʿi ʿalā al-makhṭūṭāti an-nādirah.)",
+          "reading": "[zaː.ra‿l.ʕu.la.maː.ʔu waʃ.ʃu.ʕa.raː.ʔu‿l.mak.ta.baː.ti‿t.taː.riː.xij.ja.ta lil.ʔitˤ.tˤi.laː.ʕi ʕa.laː‿l.max.tˤuː.tˤaː.ti‿n.naː.di.rah] (Zā-ra al-ʿu-la-mā-ʾu wa-ash-shu-ʿa-rā-ʾu al-mak-ta-bā-ti at-tā-rī-khiy-ya-ta li-l-iṭ-ṭi-lā-ʿi ʿa-lā al-makh-ṭū-ṭā-ti an-nā-di-rah.)",
+          "translation": "Scholars and poets visited historical libraries to view rare manuscripts."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "أَفْعَالٌ وَفُعُولٌ كَسَّرَتِ البِنَاءْ، وَغَيْرُ العَاقِلِ أُنِّثَ كَالمُفْرَدِ فِي الإِمْضَاءْ!"
+      ],
+      "culturalNotes": [
+        "اشتهرت أسواق الشرق بتجارة الحرير والبخور والتوابل والنفائس التي خلدتها حكايات ألف ليلة وليلة ورحلات السندباد البحري."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)» (الدرس 3)؟",
+          "prompt": "ما هو اسم الإشارة الصحيح للإشارة إلى جمع غير العاقل مثل «كُتُب» في العربية؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)» بأسلوب أكاديمي دقيق (9.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (9.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (9.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (9.3.w3)"
+            "هٰذِهِ كُتُبٌ (Hādhihi kutub - Fem. Sing. Demonstrative)",
+            "هؤلاء كتب (للعاقل فقط)",
+            "هذا كتب",
+            "هاتان كتب"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "جمع غير العاقل يعامل معاملة المفرد المؤنث فيشار إليه بـ «هٰذِهِ»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو وزن جمع التكسير لكلمة «أَسْعَار» في الميزان الصرفي؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "أَفْعَالٌ (Afʿāl)",
+            "فعول",
+            "مفاعل",
+            "فعلاء"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«أَسْعَارٌ» على وزن «أَفْعَالٌ» (مفردها: سِعْرٌ)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u9-l3):",
+          "prompt": "اختر الجملة التي تطبق قاعدة مطابقة جمع غير العاقل مع النعت والخبر تطبيقًا فصيحًا تامًا:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (9.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (9.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (9.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (9.3.x3)"
+            "الأَسْوَاقُ القَدِيمَةُ مَلِيئَةٌ بِالتُّحَفِ الجَمِيلَةِ. (The old markets are full of beautiful artifacts.)",
+            "الاسواق القديمون مليئون بالتحف الجميلين خطأ",
+            "الاسواق القديمة ممتلئ بالتحف",
+            "اسواق قديمة تحف سكون فتحة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«الأَسْوَاقُ» جمع غير عاقل؛ نعتها «القَدِيمَةُ» وخبرها «مَلِيئَةٌ» بالمفرد المؤنث السليم."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)»؟",
+          "prompt": "ما هو جمع التكسير لكلمة «دُكَّان» في اللغة العربية؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (9.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (9.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (9.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (9.3.y3)"
+            "دَكَاكِينُ (Dakākīn - Mafāʿīl)",
+            "دكانات",
+            "دكائن",
+            "أدكان"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "جمع دكان هو «دَكَاكِينُ» على وزن مفاعيل."
         }
       ]
     },
@@ -5532,24 +5547,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 9-3)؟",
+          "prompt": "اختر النص الذي يصف تنوع البضائع والأسواق بجموع تكسير متنوعة ومطابقة نحوية نموذجية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (9.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (9.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (9.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (9.3.z3)"
+            "تَزْخَرُ المَدِينَةُ بِأَسْوَاقٍ قَدِيمَةٍ تَعْرِضُ أَجْوَدَ الأَقْمِشَةِ وَأَنْدَرَ المَصَابِيحِ، حَيْثُ يَتَجَوَّلُ الزُّوَّارُ بَيْنَ الدَّكَاكِينِ لِشِرَاءِ الهَدَايَا التَّذْكَارِيَّةِ. (The city abounds with old markets displaying the finest fabrics and rarest lamps, where visitors stroll among shops to buy souvenir gifts.)",
+            "تزخر المدينة باسواق قديمون ومصابيح نادرين بلا تانيث لغير العاقل.",
+            "جموع تكسير افعال فعول مفاعيل دكاكين مصابيح اسواق سكون.",
+            "لا توجد اسواق ولا هدايا في المدينة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين أوزان التكسير «أَسْوَاقٍ، أَقْمِشَةِ، مَصَابِيحِ، زُوَّارُ، دَكَاكِينِ، هَدَايَا» مع تطبيق قاعدة تأنيث غير العاقل ببيان رفيع."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u9-l3) باللغة العربية (مثال: «التسوق»):",
+          "prompt": "اكتب باللغة العربية الفصحى جمع التكسير لكلمة «قَلَم» (مثال: «أقلام»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "التسوق",
-            "التسوق"
+            "أقلام",
+            "اقلام",
+            "أَقْلَامٌ",
+            "أَقْلَام"
           ],
-          "explanation": "المصطلح الصحيح هو «التسوق»."
+          "explanation": "جمع قلم هو «أقلام»."
         }
       ],
       "passThreshold": 0.8
@@ -5560,85 +5577,89 @@
     "subject": "arabic",
     "unit": 9,
     "lessonNumber": 4,
-    "title": "التسوق والأسواق العربية والجمع (Shopping & Plural Forms) (الدرس 4)",
+    "title": "التفاوض والأسعار والعملات في الأسواق (Prices, Currency & Souq Bargaining)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: جمع المذكر السالم، جمع المؤنث السالم، وجمع التكسير، والتعامل المالي في الأسواق التقليدية. (الجزء 4).",
+    "objective": "إتقان السؤال عن الأسعار والتفاوض اللبق والمساومة في الأسواق التقليدية، ومعرفة العملات العربية وطرق الدفع النقدي والإلكتروني.",
     "presentation": {
-      "explanation": "",
+      "explanation": "المعاملات التجارية في الأسواق العربية تجمع بين الفصاحة واللباقة وأعراف المساومة الودية:\n\nأولاً: السؤال عن السعر والتكلفة:\n- «بِكَمْ هٰذَا القَمِيصُ؟» (How much is this shirt?)\n- «كَمْ سِعْرُ هٰذِهِ التُّحْفَةِ؟» (What is the price of this artifact?)\n- «كَمِ الحِسَابُ الإِجْمَالِيُّ؟» (How much is the total bill?)\n\nثانياً: عبارات التقييم والمساومة (Bargaining Expressions):\n1.【غَالٍ / غَالِيَةٌ (Expensive)】: «هٰذَا السِّعْرُ غَالٍ قَلِيلًا».\n2.【رَخِيصٌ / رَخِيصَةٌ (Cheap / Affordable)】: «سِعْرُهُ رَخِيصٌ وَمُنَاسِبٌ».\n3.【سِعْرٌ مَعْقُولٌ (Reasonable price)】.\n4.【تَخْفِيضٌ / خَصْمٌ (Discount)】: «هَلْ يُمْكِنُكَ أَنْ تَمْنَحَنِي تَخْفِيضًا؟».\n5.【سِعْرٌ نِهَائِيٌّ / آخِرُ كَلَامٍ (Final / Best price)】.\n\nثالثاً: العملات العربية وطرق الدفع (Currencies & Payment):\n- العملات: دِرْهَمٌ (إماراتي/مغربي)، دِينَارٌ (كويتي/أردني)، رِيَالٌ (سعودي/قطري)، جُنَيْهٌ (مصري).\n- طرق الدفع: «نَقْدًا (Cash)» | «بِالبِطَاقَةِ الِائْتِمَانِيَّةِ / المَصْرِفِيَّةِ (By credit card)».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)» بأسلوب أكاديمي دقيق (9.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'التسوق والأسواق العربية والجمع (Shopping & Plural Forms)' to students in an accurate academic style."
+          "target": "بِكَمْ هٰذَا الوِشَاحُ الحَرِيرِيُّ الأَنِيقُ؟ — سِعْرُهُ خَمْسُونَ دِرْهَمًا فَقَطْ.(Bikam hādhā al-wishāḥu al-ḥarīriyyu al-anīq? — Siʿruhu khamsūna dirhaman faqaṭ.)",
+          "reading": "[bi.kam haː.ðaː‿l.wi.ʃaː.ħu‿l.ħa.riː.rij.ju‿l.ʔa.niːq? — siʕ.ru.hu xam.suː.na dir.ha.man fa.qatˤ] (Bi-kam hā-dhā al-wi-shā-ḥu al-ḥa-rī-riy-yu al-a-nīq? — Siʿ-ru-hu kham-sū-na dir-ha-man fa-qaṭ.)",
+          "translation": "How much is this elegant silk scarf? — Its price is fifty dirhams only."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (9.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "هٰذَا السِّعْرُ غَالٍ قَلِيلًا، هَلْ تُعْطِينِي تَخْفِيضًا إِذَا اشْتَرَيْتُ قِطْعَتَيْنِ؟(Hādhā as-siʿru ghālin qalīlan, hal tuʿṭīnī takhfīḍan idhā ishtaraytu qiṭʿatayn?)",
+          "reading": "[haː.ðaː‿s.siʕ.ru ɣaː.lin qa.liː.lan, hal tuʕ.tˤiː.niː tax.fiː.dˤan ʔi.ðaː‿iʃ.ta.raj.tu qitˤ.ʕa.tajn] (Hā-dhā as-siʿ-ru ghā-lin qa-lī-lan, hal tuʿ-ṭī-nī takh-fī-ḍan i-dhā ish-ta-ray-tu qiṭ-ʿa-tayn?)",
+          "translation": "This price is a bit expensive, will you give me a discount if I buy two pieces?"
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (9.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "حَسَنًا، سَأَبِيعُهُ لَكَ بِسِعْرٍ مَعْقُولٍ وَنِهَائِيٍّ: ثَمَانُونَ رِيَالًا لِلْقِطْعَتَيْنِ.(Ḥasanan, sa-abīʿuhu laka bi-siʿrin maʿqūlin wa-nihāʾiyy: thamānūna riyālan li-l-qiṭʿatayn.)",
+          "reading": "[ħa.sa.nan, sa.ʔa.biː.ʕu.hu la.ka bi.siʕ.rin maʕ.quː.lin wa.ni.haː.ʔijj: θa.maː.nuː.na ri.jaː.lan lil.qitˤ.ʕa.tajn] (Ḥa-sa-nan, sa-a-bī-ʿu-hu la-ka bi-siʿ-rin maʿ-qū-lin wa-ni-hā-ʾiyy: tha-mā-nū-na ri-yā-lan li-l-qiṭ-ʿa-tayn.)",
+          "translation": "Alright, I will sell it to you at a reasonable and final price: eighty riyals for the two pieces."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (9.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يُمْكِنُكَ الدَّفْعُ نَقْدًا لَدَى المَحَلِّ أَوْ بِاسْتِخْدَامِ البِطَاقَةِ المَصْرِفِيَّةِ.(Yumkinuka ad-dafʿu naqdan ladā al-maḥalli aw bi-stikhdāmi al-biṭāqati al-maṣrifiyyah.)",
+          "reading": "[jum.ki.nu.ka‿d.daf.ʕu naq.dan la.daː‿l.ma.ħal.li ʔaw bis.tix.daː.mi‿l.bi.tˤaː.qa.ti‿l.masˤ.ri.fij.jah] (Yum-ki-nu-ka ad-daf-ʿu naq-dan la-dā al-ma-ḥal-li aw bi-is-tikh-dā-mi al-bi-ṭā-qa-ti al-maṣ-ri-fiy-yah.)",
+          "translation": "You can pay in cash at the store or by using a bank card."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "بِكَمْ نَسْأَلُ عَنْ كُلِّ سِعْرٍ وَخَصْمٍ مُنِيرْ، نَقْدًا أَوْ بِطَاقَةً يَتِمُّ الشِّرَاءُ الكَبِيرْ!"
+      ],
+      "culturalNotes": [
+        "الفصال والمساومة في الأسواق العربية فن من فنون التواصل الاجتماعي يبدأ بالترحاب وإكرام الضيف بتقديم الشاي أو القهوة العربية قبل إتمام الصفقة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)» (الدرس 4)؟",
+          "prompt": "ما هي الأداة العربية الفصيحة والموجزة للاستفسار عن ثمن سلعة معروضة؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)» بأسلوب أكاديمي دقيق (9.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (9.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (9.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (9.4.w3)"
+            "بِكَمْ؟ (Bikam? - How much?)",
+            "متى؟",
+            "لماذا؟",
+            "كيف حالك؟"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«بِكَمْ هٰذَا؟» هو التعبير الأكثر فصاحة وشيوعًا للسؤال عن السعر."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو اللفظ المعبر عن السعر العادل وغير المبالغ فيه؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "سِعْرٌ مَعْقُولٌ وَمُنَاسِبٌ (Reasonable price)",
+            "سعر خيالي",
+            "سعر باهظ جدا",
+            "سعر مجهول"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«سِعْرٌ مَعْقُولٌ» تعني سعرًا متوازنًا ومقبولاً للطرفين."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u9-l4):",
+          "prompt": "اختر الجملة التي تطلب فيها خصمًا تجاريًا بلباقة وفصاحة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (9.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (9.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (9.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (9.4.x3)"
+            "هَلْ يُمْكِنُكَ أَنْ تَمْنَحَنِي تَخْفِيضًا يَا أَخِي الكَرِيمَ؟ (Could you give me a discount, my generous brother?)",
+            "اعطني البضاعة مجانا والا اغادر",
+            "بكم السعر امس بدون تخفيض",
+            "خصم سعر نقدا بطاقة سكون فتحة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تعبر عن طلب الخصم بأعلى درجات اللباقة والأدب التجاري الفصيح."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)»؟",
+          "prompt": "ما هي العملة الوطنية الرسمية في جمهورية مصر العربية؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (9.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (9.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (9.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (9.4.y3)"
+            "الجُنَيْهُ المِصْرِيُّ (Egyptian Pound)",
+            "الدرهم",
+            "الدينار",
+            "الريال"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "العملة الرسمية لمصر هي «الجنيه»."
         }
       ]
     },
@@ -5646,24 +5667,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 9-4)؟",
+          "prompt": "اختر الفقرة الحوارية التي تصف جولة شراء ناجحة مع المساومة وتحديد طريقة الدفع:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (9.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (9.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (9.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (9.4.z3)"
+            "سَأَلَ المُشْتَرِي: «بِكَمْ هٰذِهِ العَبَاءَةُ؟» فَأَجَابَ البَائِعُ: «بِمِئَتَيْ رِيَالٍ»، فَقَالَ الزَّبُونُ: «هَلْ تُعْطِينِي خَصْمًا لِأَشْتَرِيَهَا بِمِئَةٍ وَخَمْسِينَ؟» فَوَافَقَ البَائِعُ، وَتَمَّ الدَّفْعُ بِالبِطَاقَةِ المَصْرِفِيَّةِ. (The buyer asked: 'How much is this abaya?' The seller replied: 'Two hundred riyals,' so the customer said: 'Will you give me a discount so I buy it for one hundred fifty?' The seller agreed, and payment was made by bank card.)",
+            "اشترى الزبون العباءة بلا سؤال ولا جواب ولا نقود.",
+            "بكم غالي رخيص معقول تخفيض بطاقة نقد سكون فتحة.",
+            "رفض البائع البيع واغلق الدكان فورا."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة تجسد دورة الشراء الكاملة من السؤال والمساومة اللبقة حتى الاتفاق والدفع بالبطاقة المصرفية بسلاسة تامة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u9-l4) باللغة العربية (مثال: «التسوق»):",
+          "prompt": "اكتب باللغة العربية الفصحى المصطلح الذي يعني خصمًا من السعر الأصلي (مثال: «تخفيض»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "التسوق",
-            "التسوق"
+            "تخفيض",
+            "تَخْفِيضٌ",
+            "تَخْفِيض",
+            "خصم",
+            "خَصْمٌ",
+            "خَصْم"
           ],
-          "explanation": "المصطلح الصحيح هو «التسوق»."
+          "explanation": "المصطلح هو «تخفيض» أو «خصم»."
         }
       ],
       "passThreshold": 0.8
@@ -5674,85 +5699,89 @@
     "subject": "arabic",
     "unit": 9,
     "lessonNumber": 5,
-    "title": "التسوق والأسواق العربية والجمع (Shopping & Plural Forms) (الدرس 5)",
+    "title": "حوار التسوق في خان الخليلي وشراء الهدايا التذكارية (Khan el-Khalili Souq Shopping Dialogue)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: جمع المذكر السالم، جمع المؤنث السالم، وجمع التكسير، والتعامل المالي في الأسواق التقليدية. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة التاسعة: جموع المذكر والمؤنث السالمة وجموع التكسير، مطابقة جمع غير العاقل، السؤال عن الأسعار والمساومة، في حوار تسوق حيوي في سوق خان الخليلي التاريخي.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة التاسعة من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس ندمج جميع المكتسبات الصرفية والتجارية في حوار تطبيقي شيق يدور في قلب القاهرة التاريخية بحي «خان الخليلي» الشهير بين زائر (أحمد) وبائع التحف والمشغولات النحاسية التراثية (عم إبراهيم):\n\nمحاور النص الحواري الشامل:\n1.【الترحاب واستقبال الزبائن بالجموع الفصيحة】: «يَسْتَقْبِلُ البَائِعُونَ الزَّائِرِينَ فِي خَانِ الخَلِيلِيِّ».\n2.【توظيف جموع التكسير ومطابقة غير العاقل】: «هٰذِهِ المَصَابِيحُ النُّحَاسِيَّةُ»، «التُّحَفُ الفَنِّيَّةُ»، «الدَّكَاكِينُ القَدِيمَةُ».\n3.【السؤال عن الأسعار والتفاوض المهذب】: «بِكَمْ هٰذَا المِصْبَاحُ؟»، «هَلْ تَمْنَحُنِي تَخْفِيضًا؟».\n4.【إعراب جمع المؤنث والمذكر السالم】: «اشْتَرَيْتُ لَوْحَاتٍ مُطَرَّزَةً»، «التُّجَّارُ المَاهِرُونَ».\n5.【إتمام الصفقة والدفع】: دفع الحساب بالجنيهات، وشكر البائع على كرم ضيافته وأمانته.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)» بأسلوب أكاديمي دقيق (9.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'التسوق والأسواق العربية والجمع (Shopping & Plural Forms)' to students in an accurate academic style."
+          "target": "مَرْحَبًا بِكَ يَا سَيِّدِي فِي خَانِ الخَلِيلِيِّ، هُنَا تَجِدُ أَجْمَلَ التُّحَفِ وَالمَصَابِيحِ النُّحَاسِيَّةِ.(Marḥaban bika yā sayyidī fī Khāni al-Khalīliyy, hunā tajidu ajmala at-tuḥafi wa-al-maṣābīḥi an-nuḥāsiyyah.)",
+          "reading": "[mar.ħa.ban bi.ka jaː saj.ji.diː fiː xaː.ni‿l.xa.liː.lijj, hu.naː ta.ʒi.du ʔaʒ.ma.la‿t.tu.ħa.fi wal.ma.sˤaː.biː.ħi‿n.nu.ħaː.sij.jah] (Mar-ḥa-ban bi-ka yā say-yi-dī fī Khā-ni al-Kha-lī-liyy, hu-nā ta-ji-du aj-ma-la at-tu-ḥa-fi wa-al-ma-ṣā-bī-ḥi an-nu-ḥā-siy-yah.)",
+          "translation": "Welcome, sir, to Khan el-Khalili, here you will find the most beautiful artifacts and copper lanterns."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (9.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "بِكَمْ هٰذِهِ المَصَابِيحُ النُّحَاسِيَّةُ المَنْقُوشَةُ؟ — المِصْبَاحُ الكَبِيرُ بِمِئَتَيْ جُنَيْهٍ، وَالصَّغِيرُ بِمِئَةٍ.(Bikam hādhihi al-maṣābīḥu an-nuḥāsiyyatu al-manqūshah? — Al-miṣbāḥu al-kabīru bi-miʾatay junayhin, wa-aṣ-ṣaghīru bi-miʾah.)",
+          "reading": "[bi.kam haː.ði.hi‿l.ma.sˤaː.biː.ħu‿n.nu.ħaː.sij.ja.tu‿l.man.quː.ʃah? — al.misˤ.baː.ħu‿l.ka.biː.ru bi.miʔ.ʔa.taj ʒu.najh, wasˤ.sˤa.ɣiː.ru bi.miʔ.ʔah] (Bi-kam hā-dhi-hi al-ma-ṣā-bī-ḥu an-nu-ḥā-siy-ya-tu al-man-qū-shah? — Al-miṣ-bā-ḥu al-ka-bī-ru bi-miʾ-a-tay ju-nayh, wa-aṣ-ṣa-ghī-ru bi-miʾ-ah.)",
+          "translation": "How much are these engraved copper lanterns? — The large lantern is for two hundred pounds, and the small one for one hundred."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (9.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "هَلْ يُمْكِنُ أَنْ تَمْنَحَنِي خَصْمًا لِأَنَّنِي سَأَشْتَرِي ثَلَاثَةَ مَصَابِيحَ لِأَصْدِقَائِي؟(Hal yumkinu an tamnaḥanī khasman li-annanī sa-ashtarī thalāthata maṣābīḥa li-aṣdiqāʾī?)",
+          "reading": "[hal jum.ki.nu ʔan tam.na.ħa.niː xasˤ.man li.ʔan.na.niː sa.ʔaʃ.ta.riː θa.laː.θa.ta ma.sˤaː.biː.ħa li.ʔasˤ.di.qaː.ʔiː] (Hal yum-ki-nu an tam-na-ḥa-nī khaṣ-man li-an-na-nī sa-ash-ta-rī tha-lā-tha-ta ma-ṣā-bī-ḥa li-aṣ-di-qā-ʾī?)",
+          "translation": "Could you grant me a discount because I will buy three lanterns for my friends?"
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (9.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "بِكُلِّ سُرُورٍ، هٰذَا سِعْرٌ خَاصٌّ لَكَ لِتَكُونَ زَبُونَنَا الدَّائِمَ فِي هٰذَا السُّوقِ العَرِيقِ.(Bi-kulli surūr, hādhā siʿrun khāṣṣun laka li-takūna zabūnanā ad-dāʾima fī hādhā as-sūqi al-ʿarīq.)",
+          "reading": "[bi.kul.li su.ruːr, haː.ðaː siʕ.run xaːsˤ.sˤun la.ka li.ta.kuː.na za.buː.na.naː‿d.daː.ʔi.ma fiː haː.ðaː‿s.suː.qi‿l.ʕa.riːq] (Bi-kul-li su-rūr, hā-dhā siʿ-run khāṣ-ṣun la-ka li-ta-kū-na za-bū-na-nā ad-dā-ʾi-ma fī hā-dhā as-sū-qi al-ʿa-rīq.)",
+          "translation": "With pleasure, this is a special price for you so you become our permanent customer in this ancient market."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فِي الخَانِ سَاوَمْنَا بِأَدَبٍ وَحِكْمَةٍ وَرَجَاءْ: جُمُوعٌ وَأَسْعَارٌ وَتُحَفٌ تَأْسِرُ الأَرْجَاءْ!"
+      ],
+      "culturalNotes": [
+        "يُعد خان الخليلي في القاهرة التاريخية (قرب جامع الحسين والأزهر الشريف) من أشهر المعالم التراثية في العالم الإسلامي، حيث تلتقي روائح البخور والمسك مع أصوات الحرفيين المهرة ينقشون النحاس والفضة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)» (الدرس 5)؟",
+          "prompt": "في حوار خان الخليلي، ما هو سبب طلب أحمد للخصم من البائع؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)» بأسلوب أكاديمي دقيق (9.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (9.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (9.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (9.5.w3)"
+            "لِأَنَّهُ سَيَشْتَرِي ثَلَاثَةَ مَصَابِيحَ لِأَصْدِقَائِهِ (Because he will buy 3 lanterns for his friends)",
+            "لأنه لا يملك نقودا",
+            "لأن البضاعة معيبة",
+            "بدون سبب"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "أحمد علل طلبه للخصم بشراء كمية (3 مصابيح نحاسية) كهدايا تذكارية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "كيف وصف أحمد المصابيح النحاسية في سياق جمع غير العاقل؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "هٰذِهِ المَصَابِيحُ النُّحَاسِيَّةُ المَنْقُوشَةُ (Hādhihi al-maṣābīḥ an-nuḥāsiyyah - Fem. Sing. agreement)",
+            "هؤلاء المصابيح النحاسيون",
+            "هذا المصابيح النحاسي",
+            "هاتان المصابيح النحاسيتان"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "تطبيق قاعدة تأنيث جمع غير العاقل: اسم الإشارة «هٰذِهِ» والنعتان «النُّحَاسِيَّةُ المَنْقُوشَةُ» بالمفرد المؤنث."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u9-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تصف الاتفاق النهائي على السعر ودفع الحساب في سوق التذكارات:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (9.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (9.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (9.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (9.5.x3)"
+            "— اتَّفَقْنَا عَلَى مِئَتَيْنِ وَخَمْسِينَ جُنَيْهًا لِلْمَصَابِيحِ الثَّلَاثَةِ، هَلْ تَقْبَلُ الدَّفْعَ نَقْدًا؟ — نَعَمْ بِكُلِّ تَأْكِيدٍ، شُكْرًا لَكَ يَا سَيِّدِي. (We agreed on 250 pounds for the 3 lanterns, do you accept cash payment? — Yes, absolutely, thank you sir.)",
+            "— المصابيح مجانا والمشتري لا يدفع شيئا.",
+            "— كم الحساب؟ — الحساب كان غدا في المحطة.",
+            "— دفع نقود مصابيح جنيه سكون فتحة."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة توظف الاتفاق على السعر التخفيضي وتحديد وسيلة الدفع النقدي بالجنيهات بأسلوب فصيح."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «التسوق والأسواق العربية والجمع (Shopping & Plural Forms)»؟",
+          "prompt": "أين يقع حي وسوق «خان الخليلي» التاريخي الشهير؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (9.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (9.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (9.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (9.5.y3)"
+            "فِي القَاهِرَةِ التَّارِيخِيَّةِ بِمِصْرَ (Historical Cairo, Egypt)",
+            "في دمشق بسوريا",
+            "في بغداد بالعراق",
+            "في فاس بالمغرب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "خان الخليلي هو الحي التجاري والسياحي التراثي الشهير في القاهرة الفاطمية/المملوكية بمصر."
         }
       ]
     },
@@ -5760,24 +5789,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 9-5)؟",
+          "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة التاسعة بأكملها (جموع السالم والتكسير، مطابقة غير العاقل، الأسعار، المساومة، وخان الخليلي):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (9.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (9.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (9.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (9.5.z3)"
+            "تَجَوَّلَ أَحْمَدُ فِي خَانِ الخَلِيلِيِّ حَيْثُ يَعْرِضُ البَائِعُونَ أَجْمَلَ التُّحَفِ، وَوَقَفَ عِنْدَ دُكَّانٍ قَدِيمٍ وَسَأَلَ: «بِكَمْ هٰذِهِ المَصَابِيحُ النُّحَاسِيَّةُ؟» فَقَالَ التَّاجِرُ: «المِصْبَاحُ بِمِئَةِ جُنَيْهٍ»، فَتَفَاوَضَ مَعَهُ أَحْمَدُ بِلَبَاقَةٍ وَاشْتَرَى ثَلَاثَةَ مَصَابِيحَ وَلَوْحَاتٍ مُطَرَّزَةً بِسِعْرٍ مَعْقُولٍ، وَدَفَعَ الحِسَابَ نَقْدًا وَهُوَ مَسْرُورٌ. (Ahmed strolled in Khan el-Khalili where sellers exhibit the most beautiful artifacts, and stopped at an old shop and asked: 'How much are these copper lanterns?' The merchant said: 'The lantern is for 100 pounds,' so Ahmed bargained with him politely and bought three lanterns and embroidered paintings at a reasonable price, and paid the bill in cash happily.)",
+            "تجول احمد بالافعال المضارعة فقط بدون ذكر الاسواق والجموع والتفاوض.",
+            "خان الخليلي بائعون مشترون لوحات مصابيح سكون فتحة ضمة كسرة.",
+            "لم يشتر احمد اي تحف من خان الخليلي وعاد خالي الوفاض."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج كافة الكفايات الصرفية لجموع المذكر والمؤنث والتكسير، ومطابقة غير العاقل، والمفاوضة التجارية بأرقى أسلوب عربي أصيل."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u9-l5) باللغة العربية (مثال: «التسوق»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم السوق التاريخي القاهري الشهير المذكور في الحوار (اكتب: «خان الخليلي»):",
           "acceptedAnswers": [
-            "التسوق",
-            "التسوق"
+            "خان الخليلي",
+            "خَانُ الخَلِيلِيِّ",
+            "خَانُ الخَلِيلِي",
+            "خان الخليلي "
           ],
-          "explanation": "المصطلح الصحيح هو «التسوق»."
+          "explanation": "السوق التاريخي هو «خان الخليلي»."
         }
       ],
       "passThreshold": 0.8
