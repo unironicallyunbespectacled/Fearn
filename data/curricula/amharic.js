@@ -6338,85 +6338,62 @@
     "subject": "amharic",
     "unit": 14,
     "lessonNumber": 1,
-    "title": "ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage) (ክፍል 1)",
+    "title": "ታዋቂ የኢትዮጵያ ታሪካዊ ቦታዎች (Famous Ethiopian Historical Sites)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኢትዮጵያ ታሪካዊ ቦታዎች (ላሊበላ፣ አክሱም፣ ጎንደር) እና የጉዞ ልምዶች መግለጫ። (ክፍል 1)።",
+    "objective": "ታሪካዊ ቦታዎችን (ላሊበላ፣ አክሱም፣ ጎንደር፣ ሐረር ጁጎል፣ ጢያ) መለየትና መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "ዋና ዋና የኢትዮጵያ ታሪካዊና ዓለም አቀፍ ቅርሶች:\n\n፩. ታሪካዊ ከተሞች እና ቅርሶች:\n- ላሊበላ: ከአንድ ወጥ ድንጋይ የተፈለፈሉ ፲፩ አስደናቂ ውቅር አብያተ ክርስቲያናት መገኛ ነው።\n- አክሱም: ጥንታዊ ግዙፍ የድንጋይ ሐውልቶችና የታሪክ ማዕከል ነው።\n- ጎንደር (ፋሲል ግቢ): የመካከለኛው ዘመን ድንቅ ቤተ መንግሥታትና ግንቦች ያሉባት ታሪካዊ ከተማ ናት።\n- ሐረር (ጁጎል): በጥንታዊ የድንጋይ ግንብ የታጠረች ታሪካዊትና የባህል ከተማ ናት።\n- ጢያ: በደቡብ ኢትዮጵያ የሚገኙ ምስጢራዊ ጥንታዊ የድንጋይ ሐውልቶች ናቸው።\n\n፪. ሰዋሰዋዊ አጠቃቀም:\nየቦታ ስሞችን ከታሪካዊ ቅጽሎች ጋር በማጣመር መግለጽ እንችላለን።",
       "examples": [
         {
-          "target": "መምህሩ የ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (14.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)' to the students."
+          "target": "የላሊበላ ውቅር አብያተ ክርስቲያናት በዓለም አቀፍ ቅርስነት በዩኔስኮ ተመዝግበዋል።",
+          "reading": "Yä-Lalibäla wəqər abyatä krəstiyanat bä'aläm aqäf qərsənnät bä-Yunesko tämözgəbäwall. [jɛlalibɛˈla wɨkʼɨr ʔabjaˈtɛ krɨstijaˈnat bɛʔaˈlɛm ʔaˈkʼɛf kʼɨrsɨnˈnɛt bɛjuˈnesko tɛmɛzɡɨˈbɛwalː] (yeh-lah-lee-beh-LAH wuk'-UR ahb-yah-TEH kris-tee-yah-NAHT beh-ah-LEM ah-K'EF k'ur-sun-NET beh-yoo-NES-koh teh-mez-guh-BEW-wahl)",
+          "translation": "The rock-hewn churches of Lalibela are registered by UNESCO as a World Heritage site."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (14.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የአክሱም ሐውልት እና የጎንደር ፋሲል ግቢ የኢትዮጵያን ጥንታዊ ስልጣኔ ያሳያሉ።",
+          "reading": "Yä-Aksum hawəltənna yä-Gondär Fasil Gəbbi yä-Ityop’yan t’əntawi səlt’ane yasayyallu. [jɛʔakˈsum hawɨlˈtɨnːa jɛɡonˈdɛr faˈsil ɡɨbˈbi jɛʔitjoˈpʼjan tʼɨntaˈwi sɨltʼaˈne jasaˈjːalːu] (yeh-ahk-SOOM how-LUL-tun-nah yeh-gohn-DER fah-SEEL gub-BEE yeh-eet-YOHP-yahn t'un-tah-WEE sul-t'ah-NAY yah-sye-YAHL-loo)",
+          "translation": "The Obelisk of Aksum and Gondar's Fasil Ghebbi demonstrate Ethiopia's ancient civilization."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (14.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (14.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የሐረር ጁጎል ግንብ የአምስት መቶ ዓመታት ታሪክ ያለው ጥንታዊ ምሽግ ነው።",
+          "reading": "Yä-Harär Ğugol gənb yä'aməst mäto ʿamätat tarik yalläw t’əntawi məššəg näw. [jɛhaˈrɛr dʒuˈɡol ɡɨnb jɛʔaˈmɨst mɛˈto ʔamɛˈtat taˈrik jalːɛw tʼɨntaˈwi mɨʃːɨɡ nɛw] (yeh-hah-RER joo-GOHL gunb yeh-AH-must meh-TOH ah-meh-TAHT tah-REEK YAHL-lew t'un-tah-WEE mush-shug now)",
+          "translation": "The Harar Jugol wall is an ancient fortification with five hundred years of history."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Heritage Map: ላሊበላ (Churches) + አክሱም (Obelisk) + ጎንደር (Castles) + ሐረር (Walled City)!"
+      ],
+      "culturalNotes": [
+        "ኢትዮጵያ በአፍሪካ ውስጥ በርካታ በዩኔስኮ (UNESCO) የተመዘገቡ ተጨባጭና ኢ-ተጨባጭ የዓለም ቅርሶች ባለቤት ከሆኑ ግንባር ቀደም ሀገራት አንዷ ናት።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Lalibela, Aksum, and Gondar» የሚለውን በአማርኛ ትክክለኛ የታሪካዊ ቦታዎች ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (14.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (14.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (14.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (14.1.w3)"
+            "ላሊበላ፣ አክሱም እና ጎንደር (Lalibela, Aksum, and Gondar - Correct historic heritage sites)",
+            "መጽሐፍ፣ ደብተር እና እርሳስ",
+            "ታክሲ፣ ባቡር እና አውቶቡስ",
+            "ወጥ፣ ዳቦ እና ሻይ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ላሊበላ»፣ «አክሱም» እና «ጎንደር» ሦስቱን ታላላቅ የኢትዮጵያ ታሪካዊ ቅርሶች ያመለክታሉ።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u14-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'The rock churches of Lalibela are famous' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (14.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (14.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (14.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (14.1.x3)"
+            "የላሊበላ ውቅር አብያተ ክርስቲያናት ታዋቂ ናቸው። (The rock-hewn churches of Lalibela are famous - Accurate historic description)",
+            "ላሊበላ አዲስ ከተማ ነው",
+            "ላሊበላ ቤተ ክርስቲያን የለውም",
+            "ላሊበላ መሄድ አይቻልም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (14.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (14.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (14.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (14.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«የላሊበላ ውቅር አብያተ ክርስቲያናት ታዋቂ ናቸው» የታሪካዊ ቅርሱን ዝና በትክክል ያሳያል።"
         }
       ]
     },
@@ -6424,24 +6401,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 14-1):",
+          "prompt": "የኢትዮጵያን ዋና ዋና ታሪካዊ ቅርሶች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (14.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (14.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (14.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (14.1.z3)"
+            "ላሊበላ፣ አክሱም፣ የጎንደር ፋሲል ግቢ፣ የሐረር ጁጎል እና የጢያ ሐውልቶች።",
+            "አልጋ፣ ጠረጴዛ እና ወንበር።",
+            "ሰኞ፣ ማክሰኞ እና ረቡዕ።",
+            "በኢትዮጵያ ታሪካዊ ቅርሶች የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የኢትዮጵያ ታሪካዊ ቦታዎችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u14-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ጉዞ»):",
+          "prompt": "'ላሊበላ / Lalibela' የሚለውን ስም በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ጉዞ",
-            "ጉዞ"
+            "ላሊበላ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ጉዞ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ላሊበላ» (Lalibäla) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -6452,85 +6428,62 @@
     "subject": "amharic",
     "unit": 14,
     "lessonNumber": 2,
-    "title": "ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage) (ክፍል 2)",
+    "title": "የጉዞ ዝግጅት፣ ትራንስፖርት እና ሆቴል (Travel Logistics & Hospitality)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኢትዮጵያ ታሪካዊ ቦታዎች (ላሊበላ፣ አክሱም፣ ጎንደር) እና የጉዞ ልምዶች መግለጫ። (ክፍል 2)።",
+    "objective": "የጉዞ ዝግጅትን (ትኬት፣ ሆቴል መያዝ፣ አስጎብኚ፣ ሻንጣ፣ ፓስፖርት) መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የጉዞ ዕቅድ እና የእንግዳ ተቀባይነት አገልግሎቶች:\n\n፩. የጉዞ ዝግጅት:\n- የአውሮፕላን ትኬት መቁረጥ: በኢትዮጵያ አየር መንገድ የጉዞ ትኬት መያዝ።\n- ሆቴል መያዝ: ምቹና ንጹህ የማረፊያ ክፍል አስቀድሞ ማስያዝ።\n- የጉዞ አስጎብኚ: ስለ ቅርሶቹ ጥልቅ የታሪክ ማብራሪያ የሚሰጥ ባለሙያ ማግኘት።\n- ሻንጣ ማዘጋጀት: ለጉዞው የሚያስፈልጉ ልብሶችንና ዕቃዎችን ማሸግ።\n\n፪. ሰዋሰዋዊ መዋቅር:\n«ክፍል መያዝ እፈልጋለሁ» (I want to book a room):\n- «ለሦስት ቀናት የሚሆን አንድ አልጋ ያለው ክፍል ያዝኩ»።",
       "examples": [
         {
-          "target": "መምህሩ የ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (14.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)' to the students."
+          "target": "ወደ ላሊበላ ለመጓዝ የአውሮፕላን ትኬት ቆረጥኩ እንዲሁም በሆቴል ውስጥ ክፍል ያዝኩ።",
+          "reading": "Wädä Lalibäla lämägwaz yä'awroplan tiket qorät’ku əndihum bähotel wəst’ kəfəl yazku. [wɛdɛ lalibɛˈla lɛmɛɡʷaz jɛʔawroˈplan tiˈket kʼoˈrɛtʼku ʔɨndiˈhum bɛhoˈtel wɨstʼ kɨfl jazˈku] (weh-DEH lah-lee-beh-LAH leh-meg-WAHZ yeh-ow-roh-PLAHN tee-KET k'oh-RET'-koo un-dee-HOOM beh-hoh-TEL woos-T' kuf-L YAHZ-koo)",
+          "translation": "I bought a plane ticket to travel to Lalibela and also booked a room in a hotel."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (14.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የጉዞ አስጎብኚው ስለ ጥንታዊው ቤተ መንግሥት ታሪክ አስደናቂ ማብራሪያ ሰጠን።",
+          "reading": "Yä-guzo asgobənyəw səlä t’əntawiw betä mängəst tarik asdännaqi mabrarriya sät’t’än. [jɛɡuˈzo ʔasɡobɨˈɲɨw sɨlɛ tʼɨntaˈwiw beˈtɛ mɛnˈɡɨst taˈrik ʔasdɛnːaˈkʼi mabrariˈja sɛtʼːɛn] (yeh-goo-ZOH ahs-goh-bun-YOO suh-leh t'un-tah-WEE-woo bay-TEH men-GUST tah-REEK ahs-den-nah-K'EE mahb-rah-ree-YAH set'-TEN)",
+          "translation": "The tour guide gave us a fascinating explanation about the history of the ancient palace."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (14.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (14.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ሻንጣዬን በጥንቃቄ አዘጋጅቼ ፓስፖርቴንና ካሜራዬን ይዤ ተነሳሁ።",
+          "reading": "Šant’ayen bät’ənqaqe azäggağəčče pasporten-nna kamerayen yəže tänässähu. [ʃantʼaˈjen bɛtʼɨnkʼaˈkʼe ʔazɛɡːadʒɨtʃːe pasporˈtenːa kameˈrajen jɨˈʒe tɛnɛsːaˈhu] (shahn-t'ah-YAYN beh-t'un-k'ah-K'AY ah-zeg-gah-juhch-CHAY pahs-pohr-TAYN-nah kah-may-rah-YAYN yuh-ZHAY teh-nes-SAH-hoo)",
+          "translation": "I carefully prepared my suitcase and set off taking my passport and camera."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Trip Checklist: ትኬት (Ticket) + ሆቴል (Hotel) + አስጎብኚ (Guide) + ሻንጣ (Luggage)!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ አየር መንገድ በአፍሪካ ግዙፍና አንጋፋ አየር መንገድ ሲሆን ሁሉንም የአገሪቱን ዋና ዋና ታሪካዊ ከተሞች በበረራ ያገናኛል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«I booked a hotel room» የሚለውን በአማርኛ ትክክለኛ አረፍተ ነገር የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (14.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (14.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (14.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (14.2.w3)"
+            "በሆቴል ውስጥ ክፍል ያዝኩ። (I booked a hotel room - Accurate reservation verb)",
+            "ሆቴል ውስጥ ምግብ በላሁ",
+            "ሆቴል አልሄድም",
+            "ሆቴል የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«በሆቴል ውስጥ ክፍል ያዝኩ» የክፍል ማስያዝን ድርጊት በትክክል ያሳያል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u14-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'The tour guide explains the history' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (14.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (14.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (14.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (14.2.x3)"
+            "አስጎብኚው ታሪኩን ያስረዳል። (The tour guide explains the history - Accurate guiding role)",
+            "አስጎብኚው ይተኛል",
+            "አስጎብኚው ታሪክ አያውቅም",
+            "ምንም አስጎብኚ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (14.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (14.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (14.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (14.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«አስጎብኚው ታሪኩን ያስረዳል» የጉዞ አስጎብኚውን ተግባር በትክክል ያመለክታል።"
         }
       ]
     },
@@ -6538,24 +6491,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 14-2):",
+          "prompt": "የጉዞ ዝግጅትንና የእንግዳ ተቀባይነት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (14.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (14.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (14.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (14.2.z3)"
+            "የአውሮፕላን ትኬት፣ ሆቴል፣ ክፍል መያዝ፣ የጉዞ አስጎብኚ እና ሻንጣ።",
+            "መጥረጊያ፣ ባልዲ እና ሳሙና።",
+            "ጨው፣ በርበሬ እና ሽንኩርት።",
+            "በአማርኛ የጉዞ ቃላት የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የጉዞ ዝግጅት ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u14-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ጉዞ»):",
+          "prompt": "'አስጎብኚ / Tour guide' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ጉዞ",
-            "ጉዞ"
+            "አስጎብኚ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ጉዞ» ነው።"
+          "explanation": "ትክክለኛው ቃል «አስጎብኚ» (Asgobəny) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -6566,85 +6518,62 @@
     "subject": "amharic",
     "unit": 14,
     "lessonNumber": 3,
-    "title": "ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage) (ክፍል 3)",
+    "title": "የጉዞ ልምድ እና የቦታዎች መግለጫ (Describing Travel Experiences & Wonders)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኢትዮጵያ ታሪካዊ ቦታዎች (ላሊበላ፣ አክሱም፣ ጎንደር) እና የጉዞ ልምዶች መግለጫ። (ክፍል 3)።",
+    "objective": "የጉዞ ልምዶችን በገላጭ ቅፅሎች (ጥንታዊ፣ አስደናቂ፣ ማራኪ፣ ድንቅ፣ ታሪካዊ) መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የጉዞ ልምድና የቦታዎች ገላጭ ሰዋሰዋዊ ቃላት:\n\n፩. ገላጭ ቅጽሎች (Descriptive Adjectives):\n- ጥንታዊ: በረጅም ዘመናት የተገነባና የቆየ።\n- አስደናቂ / ድንቅ: ሰውን የሚያስደምምና ከፍተኛ አድናቆትን የሚስብ።\n- ማራኪ / ውብ: ዓይንን የሚስብ የተዋበ ገጽታ ያለው።\n- ታሪካዊ: ታላቅ ታሪካዊ ክስተት የተፈጸመበት።\n\n፪. ሰዋሰዋዊ አገባብ:\nቅጽል + ስም:\n«ጥንታዊ ከተማ»፣ «አስደናቂ ሕንጻ»፣ «ማራኪ የተፈጥሮ ገጽታ»።\n\n፫. የልምድ መግለጫ:\n«ጉዞዬ በጣም አስደሳችና የማይረሳ ነበር»።",
       "examples": [
         {
-          "target": "መምህሩ የ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (14.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)' to the students."
+          "target": "ወደ ሰሜን ኢትዮጵያ ያደረግሁት ጉዞ እጅግ አስደናቂና የማይረሳ ታላቅ ልምድ ነበር።",
+          "reading": "Wädä Semen Ityop’ya yadärrähut guzo əğğəg asdännaqin-nna yämmayərrässa talaq ləmd näbbär. [wɛdɛ seˈmen ʔitjoˈpʼja jadɛrːɛˈhut ɡuˈzo ʔɨdʒːɨɡ ʔasdɛnːaˈkʼinːa jɛmːajɨrːɛsːa taˈlakʼ lɨmd nɛbːɛr] (weh-DEH say-MEN eet-YOHP-yah yah-der-REH-hoot goo-ZOH uhj-JUG ahs-den-nah-K'EEN-nah yem-mah-yur-RES-sah tah-LAHK' lumd neb-BER)",
+          "translation": "My trip to Northern Ethiopia was an extremely fascinating and unforgettable great experience."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (14.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በጣና ሐይቅ ላይ ያሉ ጥንታዊ ገዳማትና ውብ ደሴቶች መንፈስን ያድሳሉ።",
+          "reading": "Bä-T’ana Hayq lay yallu t’əntawi gädamatənna wəbb däsetočč mänfäsən yaddəsallu. [bɛtʼaˈna hajkʼ laj jalːu tʼɨntaˈwi ɡɛdaˈmatɨnːa wɨbː dɛseˈtotʃː mɛnfɛˈsɨn jadːɨˈsalːu] (beh-t'ah-NAH hyk' lye YAHL-loo t'un-tah-WEE geh-dah-MAH-tun-nah wub-B deh-say-TOHCH-choo men-feh-SUN yahd-duh-SAHL-loo)",
+          "translation": "The ancient monasteries and beautiful islands on Lake Tana refresh the spirit."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (14.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (14.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የአካባቢው ህዝብ እንግዳ ተቀባይነትና ደግነት በጉዞዬ ላይ ከፍተኛ ደስታን ፈጠረልኝ።",
+          "reading": "Yä'akabbabiw həzb əngəda täqäbbayinnätənna däggənnät bäguzoye lay bäkäftänya dässətan fät’t’äräləny. [jɛʔakabːaˈbiw hɨzb ʔɨnɡɨˈda tɛkʼɛbːajinˈnɛtɨnːa dɛɡːɨnˈnɛt bɛɡuˈzoje laj bɛkɛfˈtɛɲa dɛsːɨˈtan fɛtʼːɛrɛˈlɨɲ] (yeh-ah-kahb-bah-BEE-woo huzb un-guh-DAH teh-k'eb-bah-yeen-NET-un-nah deg-gun-NET beh-goo-ZOH-yay lye beh-kef-TEN-yah des-suh-TAHN fet'-t'eh-reh-LUNY)",
+          "translation": "The local people's hospitality and kindness brought me great happiness during my trip."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vivid Adjectives: ጥንታዊ (Ancient) + አስደናቂ (Fascinating) + ማራኪ (Charming) + ድንቅ (Wonderful)!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ ባህላዊ እንግዳ ተቀባይነት (እንግዳን ማክበር፣ ማብላትና ማጠጣት) በዓለም አቀፍ ደረጃ በጎብኚዎች ዘንድ በከፍተኛ ሁኔታ ይወደሳል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Fascinating and unforgettable trip» የሚለውን በአማርኛ ትክክለኛ ገላጭ ሐረግ የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (14.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (14.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (14.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (14.3.w3)"
+            "አስደናቂ እና የማይረሳ ጉዞ (Fascinating and unforgettable trip - Correct descriptive modifiers)",
+            "አጭር እና መጥፎ መንገድ",
+            "የጠፋ ሻንጣ",
+            "የተሰበረ መኪና"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«አስደናቂ እና የማይረሳ ጉዞ» ሁለቱን ገላጭ ቅጽሎች ከስሙ ጋር በትክክል ያጣምራል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u14-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'The ancient monasteries on the lake are beautiful' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (14.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (14.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (14.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (14.3.x3)"
+            "በሐይቁ ላይ ያሉ ጥንታዊ ገዳማት ውብ ናቸው። (The ancient monasteries on the lake are beautiful - Accurate descriptive scene)",
+            "ሐይቁ ደርቋል",
+            "ገዳማት የሉም",
+            "ምንም ውበት የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (14.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (14.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (14.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (14.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«በሐይቁ ላይ ያሉ ጥንታዊ ገዳማት ውብ ናቸው» ጥንታዊነትን፣ ቦታንና ውበትን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -6652,24 +6581,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 14-3):",
+          "prompt": "የጉዞ ልምድ ገላጭ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (14.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (14.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (14.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (14.3.z3)"
+            "ጥንታዊ፣ አስደናቂ፣ ማራኪ፣ ድንቅ፣ ታሪካዊ እና የማይረሳ።",
+            "ክኒን፣ ሽሮፕ እና መርፌ።",
+            "ቅባት፣ ዘይት እና ዱቄት።",
+            "በአማርኛ ገላጭ ቅጽሎች የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቦታና የልምድ ገላጭ ቅጽሎችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u14-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ጉዞ»):",
+          "prompt": "'አስደናቂ / Fascinating, amazing, wonderful' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ጉዞ",
-            "ጉዞ"
+            "አስደናቂ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ጉዞ» ነው።"
+          "explanation": "ትክክለኛው ቃል «አስደናቂ» (Asdännaqi) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -6680,85 +6608,62 @@
     "subject": "amharic",
     "unit": 14,
     "lessonNumber": 4,
-    "title": "ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage) (ክፍል 4)",
+    "title": "ብሔራዊ ፓርኮች እና የዱር እንስሳት (National Parks & Endemic Wildlife)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኢትዮጵያ ታሪካዊ ቦታዎች (ላሊበላ፣ አክሱም፣ ጎንደር) እና የጉዞ ልምዶች መግለጫ። (ክፍል 4)።",
+    "objective": "ብሔራዊ ፓርኮችን (ሰሜን ተራሮች፣ ባሌ ተራሮች) እና ብርቅዬ የዱር እንስሳትን (ዋሊያ፣ ጭላዳ ዝንጀሮ፣ ቀይ ቀበሮ) መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የኢትዮጵያ ብሔራዊ ፓርኮች እና ብርቅዬ የዱር እንስሳት:\n\n፩. ዋና ዋና ብሔራዊ ፓርኮች:\n- የሰሜን ተራሮች ብሔራዊ ፓርክ: ረጅሙ ራስ ዳሸን ተራራ የሚገኝበት ድንቅ የተፈጥሮ ፓርክ ነው።\n- የባሌ ተራሮች ብሔራዊ ፓርክ: ውብ አምባዎችና ጥቅጥቅ ያሉ ደኖች ያሉት ፓርክ ነው።\n- የአዋሽ ብሔራዊ ፓርክ: በሳር ምድርና በፏፏቴዎች የታወቀ ፓርክ ነው።\n\n፪. በኢትዮጵያ ብቻ የሚገኙ ብርቅዬ እንስሳት:\n- ዋሊያ አይቤክስ (ዋሊያ): በሰሜን ተራሮች ገደላማ ቦታዎች ላይ የሚኖር።\n- ጭላዳ ዝንጀሮ: ሳር ብቻ የሚመገብ ልዩ ዝንጀሮ።\n- የኢትዮጵያ ቀይ ቀበሮ: በባሌ ተራሮች አምባ ላይ የሚኖር ብርቅዬ አዳኝ።",
       "examples": [
         {
-          "target": "መምህሩ የ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (14.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)' to the students."
+          "target": "በሰሜን ተራሮች ብሔራዊ ፓርክ ውስጥ ዋሊያ አይቤክስ እና ጭላዳ ዝንጀሮዎችን ተመለከትን።",
+          "reading": "Bä-Semen Täraročč bəherawi park wəst’ Waliya aybäksənna Č’əlada zənğärowoččən tämäläkkätn. [bɛseˈmen tɛraˈrotʃː bɨheˈrawi park wɨstʼ waliˈja ʔajˈbɛksɨnːa tʃʼɨlaˈda zɨndʒɛroˈwotʃːɨn tɛmɛlɛkːɛtn] (beh-say-MEN teh-rah-ROHCH buh-hay-RAH-wee pahrk woos-T' wah-lee-YAH eye-BEK-sun-nah ch'uh-lah-DAH zun-jeh-roh-wohch-CHUN teh-mel-lek-KET-un)",
+          "translation": "Inside the Simien Mountains National Park, we watched Walia ibexes and Gelada baboons."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (14.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የኢትዮጵያ ቀይ ቀበሮ በባሌ ተራሮች ሰፊ አምባ ላይ የሚኖር ብርቅዬ እንስሳ ነው።",
+          "reading": "Yä-Ityop’ya qäyy qäbäro bä-Bale Täraročč säfi amba lay yämminor bərqəyye ənsəsa näw. [jɛʔitjoˈpʼja kʼɛjː kʼɛbɛˈro bɛbaˈle tɛraˈrotʃː sɛˈfi ʔamˈba laj jɛmːiˈnor bɨrkʼɨjːe ʔɨnsɨˈsa nɛw] (yeh-eet-YOHP-yah k'ey-Y k'eh-beh-ROH beh-bah-LAY teh-rah-ROHCH seh-FEE ahm-BAH lye yem-mee-NOHR bur-k'uhy-YAY un-suh-SAH now)",
+          "translation": "The Ethiopian red wolf is an endemic animal living on the vast plateau of the Bale Mountains."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (14.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (14.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የተፈጥሮ ፓርኮችንና የዱር እንስሳትን መጠበቅ ለቀጣዩ ትውልድ የሁላችንም የጋራ ኃላፊነት ነው።",
+          "reading": "Yätäfät’ro parkoččənna yädur ənsəsatən mät’t’äbäq läqät’tayiw təwlədd yähullaččənəm yägara halaﬁnnät näw. [jɛtɛfɛtʼˈro parˈkotʃːɨnːa jɛdur ʔɨnsɨˈsatɨn mɛtʼːɛˈbɛkʼ lɛkʼɛtʼːaˈjiw tɨwˈlɨdː jɛhulːatʃːɨˈnɨm jɛɡaˈra halafiˈnːɛt nɛw] (yeh-teh-fet'-ROH pahr-KOHCH-chun-nah yeh-DOOR un-suh-SAH-tun met'-t'eh-BEK' leh-k'et'-tah-YEE-woo tuw-LUD yeh-hool-lahch-CHUH-num yeh-gah-RAH hah-lah-feen-NET now)",
+          "translation": "Protecting nature parks and wildlife for the next generation is the common responsibility of all of us."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Fauna Heritage: ዋሊያ (Walia) + ጭላዳ (Gelada) + ቀይ ቀበሮ (Red Wolf) + ሰሜን/ባሌ (Parks)!"
+      ],
+      "culturalNotes": [
+        "ዋሊያ አይቤክስና የኢትዮጵያ ቀይ ቀበሮ በዓለም ላይ በኢትዮጵያ ከፍተኛ ተራሮች ብቻ የሚገኙ ብርቅዬ (Endemic) ፍጥረታት ናቸው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በሰሜን ተራሮች ብሔራዊ ፓርክ ውስጥ የሚገኘው ብርቅዬ እንስሳ የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (14.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (14.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (14.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (14.4.w3)"
+            "ዋሊያ አይቤክስ (Walia ibex - Endemic mountain mammal)",
+            "አንበሳ ብቻ",
+            "ነብር ብቻ",
+            "ዝሆን ብቻ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ዋሊያ አይቤክስ» በሰሜን ተራሮች ገደላማ ስፍራዎች ላይ ብቻ የሚገኝ ብርቅዬ እንስሳ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u14-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'The Ethiopian red wolf lives in Bale Mountains' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (14.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (14.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (14.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (14.4.x3)"
+            "የኢትዮጵያ ቀይ ቀበሮ በባሌ ተራሮች ይኖራል። (The Ethiopian red wolf lives in Bale Mountains - Accurate wildlife location)",
+            "ቀይ ቀበሮ በባህር ውስጥ ይኖራል",
+            "ባሌ ተራራ ውስጥ እንስሳት የሉም",
+            "ቀይ ቀበሮ ጠፍቷል"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (14.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (14.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (14.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (14.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«የኢትዮጵያ ቀይ ቀበሮ በባሌ ተራሮች ይኖራል» የእንስሳውን መገኛ በትክክል ያሳያል።"
         }
       ]
     },
@@ -6766,24 +6671,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 14-4):",
+          "prompt": "የኢትዮጵያ ብሔራዊ ፓርኮችንና ብርቅዬ እንስሳትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (14.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (14.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (14.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (14.4.z3)"
+            "የሰሜን ተራሮች፣ የባሌ ተራሮች፣ ዋሊያ አይቤክስ፣ ጭላዳ ዝንጀሮ እና ቀይ ቀበሮ።",
+            "ቡና፣ ሻይ እና ወተት።",
+            "ሸሚዝ፣ ሱሪ እና ጫማ።",
+            "በኢትዮጵያ ብሔራዊ ፓርኮች የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ብሔራዊ ፓርኮችንና ብርቅዬ እንስሳትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u14-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ጉዞ»):",
+          "prompt": "'ዋሊያ / Walia ibex' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ጉዞ",
-            "ጉዞ"
+            "ዋሊያ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ጉዞ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ዋሊያ» (Waliya) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -6794,85 +6698,62 @@
     "subject": "amharic",
     "unit": 14,
     "lessonNumber": 5,
-    "title": "ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage) (ክፍል 5)",
+    "title": "የክፍል 14 አጠቃላይ ማጠቃለያ (Unit 14 Grand Synthesis & Heritage Tourism Discourse)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኢትዮጵያ ታሪካዊ ቦታዎች (ላሊበላ፣ አክሱም፣ ጎንደር) እና የጉዞ ልምዶች መግለጫ። (ክፍል 5)።",
+    "objective": "ታሪካዊ ቦታዎችን፣ የጉዞ ዝግጅትን፣ ገላጭ ልምዶችንና ብሔራዊ ፓርኮችን ያቀናጀ የተሟላ የቱሪዝም ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፲፬ አጠቃላይ ሰዋሰዋዊ ውህደት እና የጉዞና ቅርሶች ተግባቦት ማጠቃለያ:\n\n፩. ታሪካዊ ቦታዎች:\n- ላሊበላ፣ አክሱም፣ የጎንደር ፋሲል ግቢ፣ የሐረር ጁጎል፣ የጢያ ሐውልቶች።\n\n፪. የጉዞ ዝግጅት እና እንግዳ ተቀባይነት:\n- የአውሮፕላን ትኬት፣ ሆቴል ክፍል መያዝ፣ የጉዞ አስጎብኚ፣ ሻንጣ።\n\n፫. ገላጭ ቅጽሎች:\n- ጥንታዊ፣ አስደናቂ፣ ማራኪ፣ ድንቅ፣ ታሪካዊ፣ የማይረሳ።\n\n፬. ብሔራዊ ፓርኮች እና ብርቅዬ እንስሳት:\n- የሰሜን ተራሮች፣ የባሌ ተራሮች፣ ዋሊያ አይቤክስ፣ ጭላዳ ዝንጀሮ፣ ቀይ ቀበሮ።",
       "examples": [
         {
-          "target": "መምህሩ የ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (14.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)' to the students."
+          "target": "በኢትዮጵያ ያደረግሁት ጉዞ ጥንታዊ ታሪክን፣ አስደናቂ የተፈጥሮ ውበትንና ደግ ህዝብን ያስተዋወቀኝ የማይረሳ ነበር።",
+          "reading": "Bä-Ityop’ya yadärrähut guzo t’əntawi tarikən, asdännaqi yätäfät’ro wəbätənna dägg həzbən yasətäwawwäqäny yämmayərrässa näbbär. [bɛʔitjoˈpʼja jadɛrːɛˈhut ɡuˈzo tʼɨntaˈwi taˈrikɨn ʔasdɛnːaˈkʼi jɛtɛfɛtʼˈro wɨbɛˈtɨnːa dɛɡː hɨzˈbɨn jastɛwawːɛˈkʼɛɲ jɛmːajɨrːɛsːa nɛbːɛr] (beh-eet-YOHP-yah yah-der-REH-hoot goo-ZOH t'un-tah-WEE tah-REE-kun, ahs-den-nah-K'EE yeh-teh-fet'-ROH wub-beh-TUN-nah deg-G huz-BUN yahs-teh-wow-weh-K'ENY yem-mah-yur-RES-sah neb-BER)",
+          "translation": "My trip in Ethiopia was unforgettable, introducing me to ancient history, fascinating natural beauty, and kind people."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (14.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ከላሊበላ ውቅር አብያተ ክርስቲያናት እስከ ሰሜን ተራሮች ብሔራዊ ፓርክ ድረስ የተጓዝንባቸው ቦታዎች ሁሉ ድንቅ ነበሩ።",
+          "reading": "Kä-Lalibäla wəqər abyatä krəstiyanat əskä Semen Täraročč bəherawi park dräs yätägwaznəbbäw botawočč hullu dənq näbbäru. [kɛlalibɛˈla wɨkʼɨr ʔabjaˈtɛ krɨstijaˈnat ʔɨsˈkɛ seˈmen tɛraˈrotʃː bɨheˈrawi park dɨrɛs jɛtɛɡʷaznɨbːɛw botaˈwotʃː hulːu dɨnkʼ nɛbːɛru] (keh-lah-lee-beh-LAH wuk'-UR ahb-yah-TEH kris-tee-yah-NAHT us-KEH say-MEN teh-rah-ROHCH buh-hay-RAH-wee pahrk duh-RES yeh-teg-wahz-nub-BEW boh-tah-wohch-CH HOOL-loo dunk' neb-BEH-roo)",
+          "translation": "All the places we traveled to, from the rock-hewn churches of Lalibela to Simien Mountains National Park, were wonderful."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (14.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (14.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የሀገራችንን ታሪካዊ ቅርሶችና የተፈጥሮ ሀብቶች መጠበቅና ማስተዋወቅ የሁላችንም የዜግነት ግዴታ ነው።",
+          "reading": "Yähagäraččənən t’əntawi qərsoččənna yätäfät’ro habtəwoččən mät’t’äbäqənna mastäwawwäq yähullaččənəm yäzegənnät gəddeta näw. [jɛhaɡɛratʃːɨˈnɨn tʼɨntaˈwi kʼɨrsoˈtʃːɨnːa jɛtɛfɛtʼˈro habtɨwoˈtʃːɨn mɛtʼːɛbɛˈkʼɨnːa mastɛwawːɛkʼ jɛhulːatʃːɨˈnɨm jɛzeɡɨnˈnɛt ɡɨdːeˈta nɛw] (yeh-hah-geh-rahch-CHUN-un t'un-tah-WEE k'ur-sohch-CHUN-nah yeh-teh-fet'-ROH hahb-tuh-wohch-CHUN met'-t'eh-bek'-UN-nah mahs-teh-wow-wek' yeh-hool-lahch-CHUH-num yeh-zay-gun-NET gud-day-TAH now)",
+          "translation": "Protecting and promoting our country's historical heritage and natural resources is everyone's civic duty."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Heritage Voyage: Sites (ቅርሶች) + Logistics (ዝግጅት) + Splendor (ውበት) + Conservation (ጥበቃ)!"
+      ],
+      "culturalNotes": [
+        "ኢትዮጵያ በዓለም ታሪክ ውስጥ የሰው ዘር መገኛ (የሉሲ/ድንቅነሽ ምድር) በመባል በሳይንቲስቶች ዘንድ በታላቅ ክብር ትታወቃለች።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የቱሪዝም እና የቅርስ ጉዞ አገላለጽን የሚያሳየው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (14.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (14.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (14.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (14.5.w3)"
+            "ታሪካዊ ቅርሶችን ጎበኘን፣ በሆቴል አረፍን፣ እንዲሁም ብርቅዬ እንስሳትን ተመለከትን። (Complete integrated tourism synthesis)",
+            "ቤት ውስጥ ተቀመጥን",
+            "ምንም ቦታ አልሄድንም",
+            "ጉዞ አንወድም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ቅርሶችን መጎብኘት፣ ማረፍና ብርቅዬ እንስሳትን መመልከትን በአንድ ላይ ያጠቃልላል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u14-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ታሪካዊ ቦታዎችንና የተፈጥሮ ፓርኮችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (14.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (14.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (14.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (14.5.x3)"
+            "የጎንደርን ቤተ መንግሥታት እና የሰሜን ተራሮችን ውበት አደነቅን። (We admired Gondar's castles and Simien Mountains' beauty - Integrated heritage sentence)",
+            "ጎንደር ቅርሶች የሉትም",
+            "ሰሜን ተራራ ሩቅ ነው",
+            "ምንም ውበት የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ጉዞ እና ታሪካዊ ቅርሶች (Travel & Ethiopian Heritage)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (14.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (14.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (14.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (14.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ የጎንደር ቤተ መንግሥታትንና የሰሜን ተራሮችን ውበት በአንድነት ያሳያል።"
         }
       ]
     },
@@ -6880,24 +6761,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 14-5):",
+          "prompt": "የክፍል 14 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (14.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (14.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (14.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (14.5.z3)"
+            "ዋና ዋና ታሪካዊ ቦታዎች (ላሊበላ፣ አክሱም፣ ጎንደር፣ ሐረር)፣ የጉዞ ዝግጅትና ሆቴል፣ ገላጭ ቅጽሎች፣ እንዲሁም ብሔራዊ ፓርኮችና ብርቅዬ እንስሳት ተካተዋል።",
+            "ይህ ክፍል ስለ ንግድ ብቻ ነው።",
+            "በአማርኛ የቱሪዝም ቃላት የሉም።",
+            "ሁሉም ከተሞች አንድ ዓይነት ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 14ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u14-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ጉዞ»):",
+          "prompt": "'ቅርስ / Heritage, relic, artifact' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ጉዞ",
-            "ጉዞ"
+            "ቅርስ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ጉዞ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ቅርስ» (Qərs) ነው።"
         }
       ],
       "passThreshold": 0.8
