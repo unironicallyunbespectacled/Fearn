@@ -15136,85 +15136,89 @@
     "subject": "mandarin",
     "unit": 26,
     "lessonNumber": 1,
-    "title": "先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy) (第1讲)",
+    "title": "孔孟儒学体系：仁义礼智、性善论与内圣外王之道 (Confucianism of Confucius & Mencius: Ren, Yi, Li, Zhi, Innate Goodness & Sageliness Within and Kingliness Without)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：孔孟儒家（仁义礼智）、老庄道家（无为而治/齐物论）、法家及墨家思想精髓。 (第1部分)。",
+    "objective": "系统掌握先秦儒家孔孟核心哲学范畴（仁者爱人、克己复礼、君子和而不同、孟子性善论四端说、民贵君轻、浩然之气与内圣外王之理想）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "先秦儒家思想由孔子开创、孟子发展，构成了中华传统文化与士大夫精神品格的核心支柱：\n\n一、孔子《论语》核心仁礼学说与处世哲学：\n1.【仁爱与礼乐（仁礼互摄）】：\n-「仁者爱人」：将同理心与仁爱作为人类道德修养的最高境界。\n-「克己复礼为仁」：通过约束一己私欲、回归道德礼法以成就崇高人格。\n2.【君子人格与处世智慧】：\n-「君子和而不同，小人同而不和」：追求多元和谐、兼收并蓄，但坚决守住独立人格原则。\n-「为政以德，譬如北辰，居其所而众星共之」：德治教化优先于严刑峻法。\n\n二、孟子《孟子》心性哲学与民本政治：\n1.【性善论与「四端」说】：\n- 人性本善，人皆有四种道德萌芽（四端）：恻隐之心（仁之端）、羞恶之心（义之端）、辞让之心（礼之端）、是非之心（智之端）。\n2.【民本主义政治主张】：\n-「民为贵，社稷次之，君为轻」：将民众福祉置于国家最高地位。\n3.【浩然之气与大丈夫精神】：\n-「吾善养吾浩然之气」；「富贵不能淫，贫贱不能移，威武不能屈，此之谓大丈夫。」\n\n三、儒家终极理想——「内圣外王」与「修齐治平」：\n-《大学》八条目：格物、致知、诚意、正心、修身、齐家、治国、平天下。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的核心语法法则与应用范例 (26.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)' in simple terms to students at the academic seminar."
+          "target": "孔子提出「仁者爱人」与「克己复礼为仁」，将仁爱确立为人类道德修养的至高范畴与社会和谐的基石。(Kǒngzǐ tíchū 'rénzhě àirén' yǔ 'kèjǐ-fùlǐ wéi rén', jiāng rén'ài quèlì wéi rénlèi dàodé xiūyǎng de zhìgāo fànchóu yǔ shèhuì héxié de jīshí.)",
+          "reading": "[kʰʊŋ˨˩.t͡sɨ˨˩˦ tʰi˧˥.t͡ʂʰu˥ 'ʐən˧˥.ʈ͡ʂɤ˨˩˦ aɪ̯˥˩.ʐən˧˥' y˨˩˦ 'kʰɤ˥˩.t͡ɕi˨˩.fu˥˩.li˨˩˦ weɪ̯˧˥ ʐən˧˥', t͡ɕjɑŋ˥ ʐən˧˥.aɪ̯˥˩ t͡ɕʰɥɛ˥.li˥˩ weɪ̯˧˥ ʐən˧˥.leɪ̯˥˩ taʊ̯˥˩.tɤ˧˥ ɕjoʊ̯˥.jaŋ˨˩˦ tɤ ʈ͡ʂɨ˥˩.kaʊ̯˥ fan˥˩.t͡ʂʰoʊ̯˧˥ y˨˩˦ ʂɤ˥˩.xweɪ̯˥˩ xɤ˧˥.ɕjɛ˧˥ tɤ t͡ɕi˥.ʂɨ˧˥] (Kǒng-zǐ tí-chū 'rén-zhě ài-rén' yǔ 'kè-jǐ-fù-lǐ wéi rén', jiāng rén-'ài què-lì wéi rén-lèi dào-dé xiū-yǎng de zhì-gāo fàn-chóu yǔ shè-huì hé-xié de jī-shí.)",
+          "translation": "Confucius proposed 'The benevolent loves others' and 'Restraining oneself and returning to propriety constitutes benevolence,' establishing benevolence as the supreme category of human moral self-cultivation and the cornerstone of social harmony."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (26.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "孟子继承并深化了儒家学说，首创「性善论」与「四端」说，并提出「民为贵，社稷次之，君为轻」的民本主义政治主张。(Mèngzǐ jìchéng bìng shēnhuà le Rújiā xuéshuō, shǒuchuàng 'xìngshànlùn' yǔ 'sìduān' shuō, bìng tíchū 'mín wéi guì, shèjì cì zhī, jūn wéi qīng' de mínběnzhǔyì zhèngzhì zhǔzhāng.)",
+          "reading": "[məŋ˥˩.t͡sɨ˨˩˦ t͡ɕi˥˩.ʈ͡ʂʰəŋ˧˥ piŋ˥˩ ʂən˥.xwa˥˩ lɤ ʐu˧˥.t͡ɕja˥ ɕɥɛ˧˥.ʂwɔ˥, ʂoʊ̯˨˩.t͡ʂʰwaŋ˥˩ 'ɕiŋ˥˩.ʂan˥˩.lwən˥˩' y˨˩˦ 'sɨ˥˩.twan˥' ʂwɔ˥, piŋ˥˩ tʰi˧˥.t͡ʂʰu˥ 'min˧˥ weɪ̯˧˥ kweɪ̯˥˩, ʂɤ˥˩.t͡ɕi˥˩ t͡sʰɨ˥˩ ʈ͡ʂɨ˥, t͡ɕyn˥ weɪ̯˧˥ t͡ɕʰiŋ˥' tɤ min˧˥.pən˨˩.ʈ͡ʂu˨˩.i˥˩ ʈ͡ʂəŋ˥˩.ʈ͡ʂɨ˥˩ ʈ͡ʂu˨˩.ʈ͡ʂɑŋ˥] (Mèng-zǐ jì-chéng bìng shēn-huà le Rú-jiā xué-shuō, shǒu-chuàng 'xìng-shàn-lùn' yǔ 'sì-duān' shuō, bìng tí-chū 'mín wéi guì, shè-jì cì zhī, jūn wéi qīng' de mín-běn-zhǔ-yì zhèng-zhì zhǔ-zhāng.)",
+          "translation": "Mencius inherited and deepened Confucian doctrine, pioneering the theory of 'original goodness of human nature' and the 'four beginnings,' and advancing the people-centered political proposition that 'the people are of supreme importance, the altars of state come next, and the sovereign weighs the lightest.'"
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (26.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "儒家主张「修身、齐家、治国、平天下」，追求「内圣外王」的崇高人格境界，要求君子在道德自觉中承担天下责任。(Rújiā zhǔzhāng 'xiūshēn, qíjiā, zhìguó, píng tiānxià', zhuīqiú 'nèishèng wàiwáng' de chónggāo réngé jìngjiè, yāoqiú jūnzǐ zài dàodé zìjué zhōng chéngdān tiānxià zérèn.)",
+          "reading": "[ʐu˧˥.t͡ɕja˥ ʈ͡ʂu˨˩.ʈ͡ʂɑŋ˥ 'ɕjoʊ̯˥.ʂən˥, t͡ɕʰi˧˥.t͡ɕja˥, ʈ͡ʂɨ˥˩.kwo˧˥, pʰiŋ˧˥ tʰjɛn˥.ɕja˥˩', ʈ͡ʂweɪ̯˥.t͡ɕʰjoʊ̯˥ 'neɪ̯˥˩.ʂəŋ˥˩ waɪ̯˥˩.wɑŋ˧˥' tɤ ʈ͡ʂʰʊŋ˧˥.kaʊ̯˥ ʐən˧˥.kɤ˧˥ t͡ɕiŋ˥˩.t͡ɕjɛ˥˩, jaʊ̯˥.t͡ɕʰjoʊ̯˥ t͡ɕyn˥.t͡sɨ˨˩˦ t͡saɪ̯˥˩ taʊ̯˥˩.tɤ˧˥ t͡sɨ˥˩.t͡ɕɥɛ˧˥ ʈ͡ʂʊŋ˥ ʈ͡ʂʰəŋ˧˥.tan˥ tʰjɛn˥.ɕja˥˩ t͡sɤ˧˥.ʐən˥˩] (Rú-jiā zhǔ-zhāng 'xiū-shēn, qí-jiā, zhì-guó, píng tiān-xià', zhuī-qiú 'nèi-shèng wài-wáng' de chóng-gāo rén-gé jìng-jiè, yāo-qiú jūn-zǐ zài dào-dé zì-jué zhōng chéng-dān tiān-xià zé-rèn.)",
+          "translation": "Confucianism advocates 'cultivating oneself, harmonizing the family, governing the state, and bringing peace to the world,' pursuing the sublime personality realm of 'sageliness within and kingliness without,' requiring the gentleman to shoulder responsibility for the world through moral self-consciousness."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (26.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "「君子和而不同，小人同而不和」深刻揭示了儒家追求多元和谐、坚守独立道德操守的处世哲学。( 'Jūnzǐ hé ér bù tóng, xiǎorén tóng ér bù hé' shēnkè jiēshì le Rújiā zhuīqiú duōyuán héxié, jiānshǒu dúlì dàodé cāoshǒu de chǔshì zhéxué.)",
+          "reading": "[ 't͡ɕyn˥.t͡sɨ˨˩˦ xɤ˧˥ aɚ˧˥ pu˥ tʰʊŋ˧˥, ɕjaʊ̯˨˩.ʐən˧˥ tʰʊŋ˧˥ aɚ˧˥ pu˥ xɤ˧˥' ʂən˥.kʰɤ˥˩ t͡ɕjɛ˥.ʂɨ˥˩ lɤ ʐu˧˥.t͡ɕja˥ ʈ͡ʂweɪ̯˥.t͡ɕʰjoʊ̯˥ twɔ˥.jɥɛn˧˥ xɤ˧˥.ɕjɛ˧˥, t͡ɕjɛn˥.ʂoʊ̯˨˩˦ tu˧˥.li˥˩ taʊ̯˥˩.tɤ˧˥ t͡sʰaʊ̯˥.ʂoʊ̯˨˩˦ tɤ ʈ͡ʂʰu˨˩.ʂɨ˥˩ ʈ͡ʂɤ˧˥.ɕɥɛ˧˥] ( 'Jūn-zǐ hé ér bù tóng, xiǎo-rén tóng ér bù hé' shēn-kè jiē-shì le Rú-jiā zhuī-qiú duō-yuán hé-xié, jiān-shǒu dú-lì dào-dé cāo-shǒu de chǔ-shì zhé-xué.)",
+          "translation": "'The gentleman harmonizes but does not conform; the petty man conforms but does not harmonize' profoundly reveals the Confucian philosophy of pursuing pluralistic harmony while firmly adhering to independent moral integrity."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "仁者爱人克己礼，和而不同君子仪；性善民贵浩然气，内圣外王治天下！"
+      ],
+      "culturalNotes": [
+        "「仁」是儒家最高伦理哲学范畴，从孔子的「仁者爱人」到孟子的「仁政」与「民本」，奠定了中国数千年以人为本、以德化人的政治文明传统。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」（第1讲）的标准汉语规范？",
+          "prompt": "孔子在《论语》中提出君子在处理人际与社会关系时追求多样和谐而不盲从附和的千古箴言是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的核心语法法则与应用范例 (26.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (26.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (26.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (26.1.w3)"
+            "君子和而不同，小人同而不和 (Harmonious without conformity vs. conforming without harmony)",
+            "君子同流合污",
+            "君子唯唯诺诺",
+            "君子随波逐流"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「君子和而不同，小人同而不和」是孔子关于多元包容与坚守道德原则的核心名言。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "孟子政治哲学中将人民大众的地位置于国家与君主之上的崇高民本思想名言是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "民为贵，社稷次之，君为轻 (The people are most important, the state comes next, the ruler is lightest)",
+            "君为最尊，万民为奴",
+            "社稷第一，无视百姓",
+            "只要君王高兴，百姓受苦无妨"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「民为贵，社稷次之，君为轻」是孟子民本主义思想的至高纲领。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的正式语境下，最准确得体的表达是哪一项？（第26.1题）",
+          "prompt": "儒家追求个人道德达到至高圣人境界、同时在外部社会建立治国安邦功业的至高理想被称为：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (26.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (26.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (26.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (26.1.x3)"
+            "内圣外王 (Sageliness within and Kingliness without)",
+            "自私自利",
+            "沽名钓誉",
+            "逃避现实"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「内圣外王」是儒家追求道德修养（内圣）与社会政治实践（外王）统一的终极人格理想。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u26-l1）所要求的高阶语言表达？",
+          "prompt": "孟子所提出的「四端」（恻隐之心、羞恶之心、辞让之心、是非之心）分别对应的人类四大基本道德是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (26.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (26.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (26.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (26.1.y3)"
+            "仁、义、礼、智 (Benevolence, Righteousness, Propriety, Wisdom)",
+            "吃、喝、玩、乐",
+            "琴、棋、书、画",
+            "金、银、铜、铁"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "孟子以四心为四端，分别引申出「仁、义、礼、智」儒家四大核心道德品质。"
         }
       ]
     },
@@ -15222,25 +15226,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的掌握程度，请选出表述完全正确的标准范句（测试 26-1）：",
+          "prompt": "请选出下列儒学哲学体系评析中概念最精准、义理最圆融的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (26.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (26.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (26.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (26.1.z3)"
+            "孔子以「仁者爱人」与「克己复礼」奠定道德与社会秩序之基，强调「和而不同」的独立君子人格；孟子创「性善论」与「仁义礼智」四端说，力主「民贵君轻」的民本大道；儒家以修齐治平贯通个体德行与天下治理，构建了「内圣外王」的崇高精神典范！(仁礼互摄、和而不同、性善四端、民贵君轻、修齐治平与内圣外王，儒学精义完备无缺)",
+            "孔孟就是叫大家听话，孔子喜欢礼貌，孟子觉得大家都很善良，大家不要吵架。(语言极度肤浅幼稚)",
+            "克己复礼被民贵君轻在内圣外王四端。(概念混乱无序堆砌)",
+            "和而不同是指君子必须跟所有人说一模一样的话。(完全曲解孔子名言)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段系统总结了孔子仁礼论、和而不同思想、孟子性善论与民贵君轻主张，以及内圣外王的终极追求，达到了极高的哲学深度。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u26-l1）的核心关键词（例如「先秦诸子」）：",
+          "prompt": "请输入孟子用来形容君子胸中至大至刚、塞于天地之间的浩大正义精神的核心四字词语（例如善养「」；拼音为 hàorán zhī qì）：",
           "acceptedAnswers": [
-            "先秦诸子",
-            "先秦诸子百家",
-            "先秦诸子百家与儒道哲学"
+            "浩然之气"
           ],
-          "explanation": "正确的核心关键词为「先秦诸子」。"
+          "explanation": "词语「浩然之气」出自《孟子·公孙丑上》「吾善养吾浩然之气」，形容刚正不阿、光明磊落的崇高精神力量。"
         }
       ],
       "passThreshold": 0.8
@@ -15251,85 +15253,89 @@
     "subject": "mandarin",
     "unit": 26,
     "lessonNumber": 2,
-    "title": "先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy) (第2讲)",
+    "title": "老庄道家哲学：无为而治、道法自然、齐物论与逍遥游 (Daoist Philosophy of Laozi & Zhuangzi: Wuwei, Nature's Way, Equalizing Things & Carefree Wandering)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：孔孟儒家（仁义礼智）、老庄道家（无为而治/齐物论）、法家及墨家思想精髓。 (第2部分)。",
+    "objective": "系统掌握先秦老庄道家核心哲学（道法自然、无为而无不为、上善若水、辩证对立转化、庄子齐物论与逍遥游之精神自由）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "老庄道家思想以「道」为最高本体，以「自然」与「无为」为根本法则，开辟了中华哲学超然洒脱的宇宙观与精神境界：\n\n一、老子《道德经》核心宇宙论与辩证法：\n1.【道法自然与无为而治】：\n-「人法地，地法天，天法道，道法自然」：天地万物皆遵循自然运行的内在铁律，非人力所能强行主宰。\n-「为无为，则无不治」 / 「无为而无不为」：不盲目妄为，顺应规律顺势而为，方能成就最大功业。\n2.【上善若水与柔弱胜刚强】：\n-「上善若水，水善利万物而不争，处众人之所恶，故几于道。」\n-「天下之至柔，驰骋天下之至坚。」\n3.【朴素辩证法（对立转化）】：\n-「祸兮福之所倚，福兮祸之所伏」；「物极必反」；「大巧若拙，大辩若讷」。\n\n二、庄子《庄子》精神自由与超脱哲学：\n1.【《逍遥游》与绝对自由】：\n-「鹏之徙于南冥也，水击三千里，抟扶摇而上者九万里」——打破世俗名利之羁绊，追求独与天地精神往来的逍遥境界。\n2.【《齐物论》与相对主义】：\n- 齐万物、等是非，超越世俗功利二元对立，达到「天地与我并生，而万物与我为一」的物我相融。\n3.【《庖丁解牛》的实践智慧】：\n- 依乎天理，批大郤，导大窾，因其固然，达到「游刃有余」的自如之境。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的核心语法法则与应用范例 (26.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)' in simple terms to students at the academic seminar."
+          "target": "老子在《道德经》中提出「道法自然」与「无为而无不为」，揭示了宇宙演化的根本规律与顺应自然的最高智慧。(Lǎozǐ zài 《Dàodéjīng》 zhōng tíchū 'dào fǎ zìrán' yǔ 'wúwéi ér wúbùwéi', jiēshì le yǔzhòu yǎnhuà de gēnběn guīlǜ yǔ shùnyìng zìrán de zhìgāo zhìhuì.)",
+          "reading": "[laʊ̯˨˩.t͡sɨ˨˩˦ t͡saɪ̯˥˩ 《taʊ̯˥˩.tɤ˧˥.t͡ɕiŋ˥》 ʈ͡ʂʊŋ˥ tʰi˧˥.t͡ʂʰu˥ 'taʊ̯˥˩ fa˨˩.t͡sɨ˥˩.ʐan˧˥' y˨˩˦ 'wu˧˥.weɪ̯˧˥ aɚ˧˥ wu˧˥.pu˥.weɪ̯˧˥', t͡ɕjɛ˥.ʂɨ˥˩ lɤ y˨˩.ʈ͡ʂoʊ̯˥ jan˨˩.xwa˥˩ tɤ kən˥.pən˨˩ kweɪ̯˥.ly˥˩ y˨˩˦ ʂwn˥˩.iŋ˥˩ t͡sɨ˥˩.ʐan˧˥ tɤ ʈ͡ʂɨ˥˩.kaʊ̯˥ ʈ͡ʂɨ˥˩.xweɪ̯˥˩] (Lǎo-zǐ zài 《Dào-dé-jīng》 zhōng tí-chū 'dào fǎ zì-rán' yǔ 'wú-wéi ér wú-bù-wéi', jiē-shì le yǔ-zhòu yǎn-huà de gēn-běn guī-lǜ yǔ shùn-yìng zì-rán de zhì-gāo zhì-huì.)",
+          "translation": "Laozi proposed 'Dao follows nature' and 'Do non-action and nothing is left undone' in the 'Daodejing,' revealing the fundamental laws of cosmic evolution and the supreme wisdom of complying with nature."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (26.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "老子崇尚「上善若水」，以水的至柔至善与利万物而不争，比喻君子谦逊包容、善处下位的至高德行。(Lǎozǐ chóngshàng 'shàngshàn ruò shuǐ', yǐ shuǐ de zhìróu-zhìshàn yǔ lì wànwù ér bù zhēng, bǐyù jūnzǐ qiānxùn-bāoróng, shànchǔ xiàwèi de zhìgāo déxíng.)",
+          "reading": "[laʊ̯˨˩.t͡sɨ˨˩˦ ʈ͡ʂʰʊŋ˧˥.ʂɑŋ˥˩ 'ʂɑŋ˥˩.ʂan˥˩ ʐwɔ˥˩ ʂweɪ̯˨˩˦', i˨˩˦ ʂweɪ̯˨˩˦ tɤ ʈ͡ʂɨ˥˩.ʐoʊ̯˧˥-ʈ͡ʂɨ˥˩.ʂan˥˩ y˨˩˦ li˥˩ wan˥˩.u˥˩ aɚ˧˥ pu˥ ʈ͡ʂəŋ˥, pi˨˩.y˥˩ t͡ɕyn˥.t͡sɨ˨˩˦ t͡ɕʰjɛn˥.ɕyn˥˩-paʊ̯˥.ʐʊŋ˧˥, ʂan˥˩.t͡ʂʰu˨˩˦ ɕja˥˩.weɪ̯˥˩ tɤ ʈ͡ʂɨ˥˩.kaʊ̯˥ tɤ˧˥.ɕiŋ˧˥] (Lǎo-zǐ chóng-shàng 'shàng-shàn ruò shuǐ', yǐ shuǐ de zhì-róu-zhì-shàn yǔ lì wàn-wù ér bù zhēng, bǐ-yù jūn-zǐ qiān-xùn-bāo-róng, shàn-chǔ xià-wèi de zhì-gāo dé-xíng.)",
+          "translation": "Laozi revered 'The highest goodness is like water,' using water's supreme softness, supreme goodness, and benefit to all things without striving to metaphorize the gentleman's highest virtue of humility, tolerance, and dwelling in low places."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (26.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "庄子在《逍遥游》中通过鲲鹏扶摇直上的宏伟意象，表达了摆脱形骸束缚、追求绝对精神自由的至人境界。(Zhuāngzǐ zài 《Xiāoyáoyóu》 zhōng tōngguò kūnpéng fúyáo-zhíshàng de hóngwěi yìxiàng, biǎodá le bǎituō xínghái shùfù, zhuīqiú juéduì jīngshén zìyóu de zhìrén jìngjiè.)",
+          "reading": "[ʈ͡ʂwaŋ˥.t͡sɨ˨˩˦ t͡saɪ̯˥˩ 《ɕjaʊ̯˥.jaʊ̯˧˥.joʊ̯˧˥》 ʈ͡ʂʊŋ˥ tʰʊŋ˥.kwɔ˥˩ kʰwən˥.pʰəŋ˧˥ fu˧˥.jaʊ̯˧˥-ʈ͡ʂɨ˧˥.ʂɑŋ˥˩ tɤ xʊŋ˧˥.weɪ̯˨˩˦ i˥˩.ɕjaŋ˥˩, pjaʊ̯˨˩.ta˨˩˦ lɤ paɪ̯˨˩.tʰwɔ˥ ɕiŋ˧˥.xaɪ̯˧˥ ʂu˥˩.fu˥˩, ʈ͡ʂweɪ̯˥.t͡ɕʰjoʊ̯˥ t͡ɕɥɛ˧˥.tweɪ̯˥˩ t͡ɕiŋ˥.ʂən˧˥ t͡sɨ˥˩.joʊ̯˧˥ tɤ ʈ͡ʂɨ˥˩.ʐən˧˥ t͡ɕiŋ˥˩.t͡ɕjɛ˥˩] (Zhuāng-zǐ zài 《Xiāo-yáo-yóu》 zhōng tōng-guò kūn-péng fú-yáo-zhí-shàng de hóng-wěi yì-xiàng, biǎo-dá le bǎi-tuō xíng-hái shù-fù, zhuī-qiú jué-duì jīng-shén zì-yóu de zhì-rén jìng-jiè.)",
+          "translation": "Zhuangzi expressed the Perfect Man's realm of casting off physical shackles and pursuing absolute spiritual freedom through the magnificent image of the Kun-Peng soaring up on the whirlwind in 'Carefree Wandering.'"
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (26.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "「庖丁解牛」的故事深刻阐明了顺应客观规律、因势利导则能「游刃有余」的生命养生与处世哲理。( 'Páodīng-jiěniú' de gùshì shēnkè chǎnmíng le shùnyìng kèguān guīlǜ, yīnshì-lìdǎo zé néng 'yóurèn-yǒuyú' de shēngmìng yǎngshēng yǔ chǔshì zhélǐ.)",
+          "reading": "[ 'pʰaʊ̯˧˥.tiŋ˥-t͡ɕjɛ˨˩.njoʊ̯˧˥' tɤ ku˥˩.ʂɨ˥˩ ʂən˥.kʰɤ˥˩ t͡ʂʰan˨˩.miŋ˧˥ lɤ ʂwn˥˩.iŋ˥˩ kʰɤ˥˩.kwan˥ kweɪ̯˥.ly˥˩, in˥.ʂɨ˥˩-li˥˩.taʊ̯˨˩˦ t͡sɤ˧˥ nɤŋ˧˥ 'joʊ̯˧˥.ʐən˥˩-joʊ̯˨˩.y˧˥' tɤ ʂəŋ˥.miŋ˥˩ jaŋ˨˩.ʂəŋ˥ y˨˩˦ ʈ͡ʂʰu˨˩.ʂɨ˥˩ ʈ͡ʂɤ˧˥.li˨˩˦] ( 'Páo-dīng-jiě-niú' de gù-shì shēn-kè chǎn-míng le shùn-yìng kè-guān guī-lǜ, yīn-shì-lì-dǎo zé néng 'yóu-rèn-yǒu-yú' de shēng-mìng yǎng-shēng yǔ chǔ-shì zhé-lǐ.)",
+          "translation": "The story of 'Cook Ding Butchering an Ox' profoundly clarified the philosophy of life preservation and conduct that by complying with objective laws and guiding along circumstances, one can 'handle matters with ease and mastery.'"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "道法自然无为修，上善若水利不求；鹏程万里逍遥游，游刃有余天理酬！"
+      ],
+      "culturalNotes": [
+        "老子的「无为」绝非消极怠工，而是「不妄为」，即戒除狂妄私欲、完全顺应客观规律去作为，从而达到「无不为」的化境。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」（第2讲）的标准汉语规范？",
+          "prompt": "老子在《道德经》中用来比喻君子拥有至柔、至善、滋养万物却从不与人相争的高尚品格的名句是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的核心语法法则与应用范例 (26.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (26.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (26.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (26.2.w3)"
+            "上善若水 (The highest excellence is like that of water)",
+            "水火不容",
+            "洪水猛兽",
+            "落井下石"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「上善若水」是老子道德哲学的最高象征，以水之至柔利物喻指最高尚德行。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "成语「游刃有余」源自庄子《养生主》中哪一个脍炙人口的经典哲学寓言？",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "庖丁解牛 (Cook Ding carving an ox: 顺应天理自然规律)",
+            "井底之蛙",
+            "刻舟求剑",
+            "掩耳盗铃"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "成语「游刃有余」出自《庄子·养生主》中庖丁解牛依乎天理的经典寓言。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的正式语境下，最准确得体的表达是哪一项？（第26.2题）",
+          "prompt": "庄子哲学名篇《逍遥游》开篇描绘的神鸟「鲲化为鹏、扶摇直上九万里」所象征的核心精神境界是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (26.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (26.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (26.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (26.2.x3)"
+            "超越世俗名利羁绊、追求绝对的精神自由 (Transcend worldly bonds & pursue spiritual freedom)",
+            "想飞得高多吃虫子",
+            "天气太热想要乘凉",
+            "没有目的到处乱晃"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "《逍遥游》中的鲲鹏展翅象征着摆脱形骸与世俗功利羁绊、追求心灵绝对超脱与自由。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u26-l2）所要求的高阶语言表达？",
+          "prompt": "老子揭示祸与福相互依存、相互转化的朴素辩证法名句是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (26.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (26.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (26.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (26.2.y3)"
+            "祸兮福之所倚，福兮祸之所伏 (Misfortune rests upon good fortune; good fortune hides within misfortune)",
+            "祸不单行福无双至",
+            "大难临头各自飞",
+            "因祸得福全是运气"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「祸兮福之所倚，福兮祸之所伏」是老子关于事物对立面在一定条件下相互转化的经典论述。"
         }
       ]
     },
@@ -15337,25 +15343,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的掌握程度，请选出表述完全正确的标准范句（测试 26-2）：",
+          "prompt": "请选出下列老庄道家哲学体系评析中义理最深邃、论述最透彻的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (26.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (26.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (26.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (26.2.z3)"
+            "老子立足「道法自然」，倡导「无为而无不为」与「上善若水」的至柔智慧，揭示了祸福相倚的辩证法；庄子著《逍遥游》以鲲鹏展翅寄托超越形骸的绝对精神自由，以《齐物论》齐万物等是非，借「庖丁解牛」阐发顺应客观天理以「游刃有余」的生命真谛！(道法自然、上善若水、辩证法、逍遥游自由、齐物论、庖丁解牛天理，老庄体系高度凝练)",
+            "道家思想就是让人什么都别做，在家里睡觉，老子喜欢水，庄子喜欢写大鸟。(语言浅陋荒谬完全曲解)",
+            "庖丁解牛被上善若水在逍遥游祸福相倚。(术语毫无逻辑杂糅拼凑)",
+            "道法自然是指人完全不需要遵守任何自然规律。(逻辑颠倒黑白)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段将老子的道法自然、上善若水、无为而治辩证法与庄子的逍遥游、齐物论及庖丁解牛哲学进行了全面、准确且极具思想张力的系统阐发。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u26-l2）的核心关键词（例如「先秦诸子」）：",
+          "prompt": "请输入老子《道德经》中揭示宇宙万物最终法则的核心四字名句（「人法地，地法天，天法道，」；拼音为 dào fǎ zìrán）：",
           "acceptedAnswers": [
-            "先秦诸子",
-            "先秦诸子百家",
-            "先秦诸子百家与儒道哲学"
+            "道法自然"
           ],
-          "explanation": "正确的核心关键词为「先秦诸子」。"
+          "explanation": "名句「道法自然」是老子哲学的至高纲领，确立了道顺应自然本性的根本法度。"
         }
       ],
       "passThreshold": 0.8
@@ -15366,85 +15370,89 @@
     "subject": "mandarin",
     "unit": 26,
     "lessonNumber": 3,
-    "title": "先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy) (第3讲)",
+    "title": "法家治国术、墨家兼爱非攻与诸子争鸣思想交锋 (Legalism, Mohist Universal Love & Hundred Schools Contention)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：孔孟儒家（仁义礼智）、老庄道家（无为而治/齐物论）、法家及墨家思想精髓。 (第3部分)。",
+    "objective": "系统掌握法家韩非子法治思想（法术势合一、严刑峻法、富国强兵）、墨家墨子社会理想（兼爱、非攻、尚贤、节用）与兵家孙武战争战略哲学（知彼知己、不战而屈人之兵）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "战国诸子争鸣不仅有儒道之辨，法家、墨家与兵家的崛起更在制度设计、底层救赎与战争战略上深刻塑造了中华文明：\n\n一、韩非子与法家法治帝王之术：\n1.【法、术、势「三位一体」政治构型】：\n-「法」：国家颁布的公开透明、赏罚分明的成文法令（「法莫如显」）。\n-「术」：君主暗中操持、考核臣下忠奸能力的用人之法（「术莫如隐」）。\n-「势」：君主至高无上的权力地位与威慑力（「势者，胜众之资也」）。\n2.【历史进化论与法治实效】：\n-「不期修古，不法常可，论世之事，因为之备」——否定复古倒退，主张因时立制、严刑峻法以富国强兵。\n\n二、墨子与墨家博爱与平民关怀：\n1.【兼相爱，交相利】：破除宗法血缘亲疏壁垒，人人平等相爱，互相谋利。\n2.【非攻与尚贤】：坚决反对大国攻伐小国的不义掠夺战争；主张不分贵贱「官无常贵，而民无终贱」，唯才是举。\n3.【节用与苦行】：崇尚节俭克制，反对奢靡享乐。\n\n三、孙子与《孙子兵法》战略博弈哲学：\n1.【战与不战的至高境界】：\n-「兵者，国之大事，死生之地，存亡之道，不可不察也。」\n-「百战百胜，非善之善者也；不战而屈人之兵，善之善者也。」（以谋略和平手段达到战略目标）。\n2.【信息与博弈铁律】：\n-「知彼知己，百战不殆；不知彼而知己，一胜一负；不知彼不知己，每战必殆。」",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的核心语法法则与应用范例 (26.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)' in simple terms to students at the academic seminar."
+          "target": "韩非子集法家之大成，提出了「法、术、势」有机结合的君主集权理论，主张与时俱进、以严明法令治理国家。(Hán Fēizǐ jí Fǎjiā zhī dàchéng, tíchū le 'fǎ, shù, shì' yǒujī jiéhé de jūnzhǔ jíquán lǐlùn, zhǔzhāng yǔshí-jùjìn, yǐ yánmíng fǎlìng zhìlǐ guójiā.)",
+          "reading": "[xan˧˥ feɪ̯˥.t͡sɨ˨˩˦ t͡ɕi˧˥ fa˨˩.t͡ɕja˥ ʈ͡ʂɨ˥ ta˥˩.ʈ͡ʂʰəŋ˧˥, tʰi˧˥.t͡ʂʰu˥ lɤ 'fa˨˩˦, ʂu˥˩, ʂɨ˥˩' joʊ̯˨˩˦.t͡ɕi˥ t͡ɕjɛ˧˥.xɤ˧˥ tɤ t͡ɕyn˥.ʈ͡ʂu˨˩˦ t͡ɕi˧˥.t͡ɕʰyɛn˧˥ li˨˩.lwən˥˩, ʈ͡ʂu˨˩.ʈ͡ʂɑŋ˥ y˨˩˦.ʂɨ˧˥-t͡ɕy˥˩.t͡ɕin˥˩, i˨˩˦ jan˧˥.miŋ˧˥ fa˨˩.liŋ˥˩ ʈ͡ʂɨ˥˩.li˨˩˦ kwo˧˥.t͡ɕja˥] (Hán Fēi-zǐ jí Fǎ-jiā zhī dà-chéng, tí-chū le 'fǎ, shù, shì' yǒu-jī jié-hé de jūn-zhǔ jí-quán lǐ-lùn, zhǔ-zhāng yǔ-shí-jù-jìn, yǐ yán-míng fǎ-lìng zhì-lǐ guó-jiā.)",
+          "translation": "Han Feizi synthesized the grand achievements of Legalism, proposing a monarchical centralization theory integrating 'law, statecraft, and power,' advocating keeping pace with the times and governing the country through strict and transparent laws."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (26.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "墨子创立墨家学派，极力倡导「兼爱」与「非攻」，主张天下人无差别地互助相爱，坚决反对不义的兼并战争。(Mòzǐ chuànglì Mòjiā xuépài, jílì chàngdǎo 'jiān'ài' yǔ 'fēigōng', zhǔzhāng tiānxià rén wúchàbié de hùzhù-xiāng'ài, jiānjué fǎnduì bùyì de jiānbìng zhànzhēng.)",
+          "reading": "[mwo˥˩.t͡sɨ˨˩˦ t͡ʂʰwaŋ˥˩.li˥˩ mwo˥˩.t͡ɕja˥ ɕɥɛ˧˥.pʰaɪ̯˥˩, t͡ɕi˧˥.li˥˩ t͡ʂʰɑŋ˥˩.taʊ̯˨˩˦ 't͡ɕjɛn˥.aɪ̯˥˩' y˨˩˦ 'feɪ̯˥.kʊŋ˥', ʈ͡ʂu˨˩.ʈ͡ʂɑŋ˥ tʰjɛn˥.ɕja˥˩ ʐən˧˥ wu˧˥.t͡ʂʰa˥.pjɛ˧˥ tɤ xu˥˩.ʈ͡ʂu˥˩-ɕjaŋ˥.aɪ̯˥˩, t͡ɕjɛn˥.t͡ɕɥɛ˧˥ fan˨˩.tweɪ̯˥˩ pu˥.i˥˩ tɤ t͡ɕjɛn˥.piŋ˥˩ ʈ͡ʂan˥˩.ʈ͡ʂəŋ˥] (Mò-zǐ chuàng-lì Mò-jiā xué-pài, jí-lì chàng-dǎo 'jiān-'ài' yǔ 'fēi-gōng', zhǔ-zhāng tiān-xià rén wú-chà-bié de hù-zhù-xiāng-'ài, jiān-jué fǎn-duì bù-yì de jiān-bìng zhàn-zhēng.)",
+          "translation": "Mozi founded the Mohist school, vigorously championing 'universal love' and 'non-aggression,' advocating that all people under heaven love and assist one another without distinction, firmly opposing unjust wars of annexation."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (26.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "《孙子兵法》被誉为世界兵学圣典，其提出「不战而屈人之兵，善之善者也」，将和平谋略与战争智慧提升至哲学高度。(《Sūnzǐ Bīngfǎ》 bèi yùwéi shìjiè bīngxué shèngdiǎn, qí tíchū 'bùzhàn ér qū rén zhī bīng, shàn zhī shàn zhě yě', jiāng hépíng móulüè yǔ zhànzhēng zhìhuì tíshēng zhì zhéxué gāodù.)",
+          "reading": "[《swən˥.t͡sɨ˨˩˦ piŋ˥.fa˨˩˦》 peɪ̯˥˩ y˥˩.weɪ̯˧˥ ʂɨ˥˩.t͡ɕjɛ˥˩ piŋ˥.ɕɥɛ˧˥ ʂəŋ˥˩.tjɛn˨˩˦, t͡ɕʰi˧˥ tʰi˧˥.t͡ʂʰu˥ 'pu˥.ʈ͡ʂan˥˩ aɚ˧˥ t͡ɕʰy˥ ʐən˧˥ ʈ͡ʂɨ˥ piŋ˥, ʂan˥˩ ʈ͡ʂɨ˥ ʂan˥˩ ʈ͡ʂɤ˨˩˦ jɛ˨˩˦', t͡ɕjɑŋ˥ xɤ˧˥.pʰiŋ˧˥ moʊ̯˧˥.lyɛ˥˩ y˨˩˦ ʈ͡ʂan˥˩.ʈ͡ʂəŋ˥ ʈ͡ʂɨ˥˩.xweɪ̯˥˩ tʰi˧˥.ʂəŋ˥ ʈ͡ʂɨ˥˩ ʈ͡ʂɤ˧˥.ɕɥɛ˧˥ kaʊ̯˥.tu˥˩] (《Sūn-zǐ Bīng-fǎ》 bèi yù-wéi shì-jiè bīng-xué shèng-diǎn, qí tí-chū 'bù-zhàn ér qū rén zhī bīng, shàn zhī shàn zhě yě', jiāng hé-píng móu-lüè yǔ zhàn-zhēng zhì-huì tí-shēng zhì zhé-xué gāo-dù.)",
+          "translation": "The 'Art of War by Sun Tzu' is revered as a sacred world military classic; its proposition that 'Subduing the enemy without fighting is the acme of skill' elevated peaceful strategy and martial wisdom to a philosophical altitude."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (26.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "先秦诸子百家在激烈的争鸣中相互辩驳与借鉴，开创了中华哲学思想史上空前绝后的黄金时代。(Xiān-Qín zhūzǐ bǎijiā zài jīliè de zhēngmíng zhōng xiānghù biànbó yǔ jièjiàn, kāichuàng le Zhōnghuá zhéxué sīxiǎng shǐ shang kōngqián-juéhòu de huángjīn shídài.)",
+          "reading": "[ɕjɛn˥-t͡ɕʰin˧˥ ʈ͡ʂu˥.t͡sɨ˨˩˦ paɪ̯˨˩.t͡ɕja˥ t͡saɪ̯˥˩ t͡ɕi˥.ljɛ˥˩ tɤ ʈ͡ʂəŋ˥.miŋ˧˥ ʈ͡ʂʊŋ˥ ɕjaŋ˥.xu˥˩ pjɛn˥˩.pwo˧˥ y˨˩˦ t͡ɕjɛ˥˩.t͡ɕjɛn˥˩, kʰaɪ̯˥.t͡ʂʰwaŋ˥˩ lɤ ʈ͡ʂʊŋ˥.xwa˧˥ ʈ͡ʂɤ˧˥.ɕɥɛ˧˥ sɨ˥.ɕjaŋ˨˩˦ ʂɨ˨˩˦ ʂɑŋ kʰʊŋ˥.t͡ɕʰjɛn˧˥-t͡ɕɥɛ˧˥.xoʊ̯˥˩ tɤ xwaŋ˧˥.t͡ɕin˥ ʂɨ˧˥.taɪ̯˥˩] (Xiān-Qín zhū-zǐ bǎi-jiā zài jī-liè de zhēng-míng zhōng xiāng-hù biàn-bó yǔ jiè-jiàn, kāi-chuàng le Zhōng-huá zhé-xué sī-xiǎng shǐ shang kōng-qián-jué-hòu de huáng-jīn shí-dài.)",
+          "translation": "The Pre-Qin Hundred Schools of Thought refuted and learned from each other during fierce contentions, inaugurating an unprecedented golden age in the history of Chinese philosophical thought."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "法术势合治法立，兼爱非攻利相依；知己知彼兵家智，百家争鸣铸华裔！"
+      ],
+      "culturalNotes": [
+        "先秦法家的「以法治国」开创了中国大一统中央集权官僚体制的制度雏形；墨家的「兼爱」是人类最早的普世平等博爱思想之一；《孙子兵法》则以全胜不斗的和平思维享誉全球。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」（第3讲）的标准汉语规范？",
+          "prompt": "战国法家集大成者韩非子提出的治国御臣核心政治哲学三大支柱是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的核心语法法则与应用范例 (26.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (26.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (26.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (26.3.w3)"
+            "法、术、势 (Law, Statecraft, and Sovereign Power: 三位一体君主集权)",
+            "吃、喝、睡",
+            "风、花、雪",
+            "仁、义、礼"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "韩非子将法家前人的「法」（商鞅）、「术」（申不害）、「势」（慎到）融为一体，构建了法家完整的治国理论。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "墨家学派的核心政治与伦理纲领，主张人人无差别互爱、坚决反对不义侵略战争的是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "兼爱、非攻 (Universal Love & Non-Aggression)",
+            "严刑峻法",
+            "克己复礼",
+            "无为而治"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「兼爱」与「非攻」是墨家学派最鲜明、最具平民情怀的两大核心主张。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的正式语境下，最准确得体的表达是哪一项？（第26.3题）",
+          "prompt": "《孙子兵法·谋攻篇》中提出用最高明的谋略使敌人屈服而非靠单纯流血杀伐的至高战略境界名句是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (26.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (26.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (26.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (26.3.x3)"
+            "不战而屈人之兵，善之善者也 (Subduing the enemy without fighting is the acme of skill)",
+            "杀敌一千自损八百",
+            "战到一兵一卒",
+            "鱼死网破"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「不战而屈人之兵，善之善者也」是孙子兵法将谋略与和平置于纯粹武力之上的至高境界。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u26-l3）所要求的高阶语言表达？",
+          "prompt": "《孙子兵法》中强调准确掌握敌我双方虚实信息从而立于不败之地的千古军政箴言是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (26.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (26.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (26.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (26.3.y3)"
+            "知彼知己，百战不殆 (Know the enemy and know yourself, and you can fight a hundred battles without disaster)",
+            "盲人摸象，走一步看一步",
+            "草木皆兵，疑神疑鬼",
+            "孤注一掷，碰碰运气"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「知彼知己，百战不殆」是战略博弈中强调信息对称与深度研判的核心原理。"
         }
       ]
     },
@@ -15452,25 +15460,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的掌握程度，请选出表述完全正确的标准范句（测试 26-3）：",
+          "prompt": "请选出下列法家、墨家与兵家思想评析中概念最精准、格局最宏大的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (26.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (26.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (26.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (26.3.z3)"
+            "先秦诸子争鸣百花齐放：韩非子融「法、术、势」为一体，以因时制宜的法治思想筑牢国家治理根基；墨子以「兼爱、非攻」抒发平民博爱情怀与反战正义；孙子兵法以「不战而屈人之兵」和「知彼知己」确立了超越战术层面的全胜战略哲学！(法术势法治、墨家兼爱非攻、孙子全胜谋略，先秦多元思想交锋评析透彻)",
+            "法家喜欢抓人，墨家喜欢做木工玩具，孙子教人怎么打架。(语言极度轻浮浅薄)",
+            "兼爱非攻被法术势在百战不殆。(术语错乱毫无逻辑关联)",
+            "不战而屈人之兵是指遇到敌人马上投降。(完全曲解兵法谋略智慧)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段将法家的制度理性、墨家的平民博爱与兵家的全胜战略哲学进行了严密、精准且深刻的概括。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u26-l3）的核心关键词（例如「先秦诸子」）：",
+          "prompt": "请输入墨子主张反对非正义侵略兼并战争的核心两字主张（例如兼爱与「」；拼音为 fēigōng）：",
           "acceptedAnswers": [
-            "先秦诸子",
-            "先秦诸子百家",
-            "先秦诸子百家与儒道哲学"
+            "非攻"
           ],
-          "explanation": "正确的核心关键词为「先秦诸子」。"
+          "explanation": "词语「非攻」是墨家思想中反对非正义掠夺战争、倡导防御和平的核心主张。"
         }
       ],
       "passThreshold": 0.8
@@ -15481,85 +15487,89 @@
     "subject": "mandarin",
     "unit": 26,
     "lessonNumber": 4,
-    "title": "先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy) (第4讲)",
+    "title": "儒道互补、刚柔相济与中华哲学辩证思维范式 (Confucian-Daoist Complementarity & Chinese Dialectical Paradigm)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：孔孟儒家（仁义礼智）、老庄道家（无为而治/齐物论）、法家及墨家思想精髓。 (第4部分)。",
+    "objective": "系统掌握中华哲学深层心理与辩证思维范式（儒道互补、刚柔相济、《周易》乾坤之道、中庸之道极高明而道中庸、王阳明心学知行合一与致良知）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "中华民族的精神世界并非单一教条，而是通过「儒道互补」与阴阳辩证构筑了具有无限自我调节韧性的庞大哲学体系：\n\n一、「儒道互补」与士大夫精神双重调节机制：\n1.【达则兼济天下，穷则独善其身】：\n- 得志入世之时，以儒家的家国情怀与自强不息锐意进取（儒以立命）。\n- 失意逆境之时，以道家的顺应自然与超然物外安顿身心（道以养生）。\n\n二、《周易》乾坤之道与「刚柔相济」辩证思维：\n1.【乾卦（天之道——刚健进取）】：\n-「天行健，君子以自强不息」——刚毅坚卓，永不停歇地奋斗拼搏。\n2.【坤卦（地之道——宽厚包容）】：\n-「地势坤，君子以厚德载物」——博大包容，以深厚品德承载万物。\n3.【阴阳交感与中庸之道】：\n- 孤阴不生，独阳不长。极高明而道中庸，执两用中，不偏不倚，追求事物最完美的动态平衡。\n\n三、王阳明心学与「知行合一」实践理性：\n1.【心即理与致良知】：万事万物之理不离自心，人人皆有与生俱来的道德良知。\n2.【知行合一】：\n-「知是行之始，行是知之成。」道德认识与社会实践密不可分，必须在「事上磨练」中实现知与行的终极统一。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的核心语法法则与应用范例 (26.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)' in simple terms to students at the academic seminar."
+          "target": "中华传统文化形成了「儒道互补」的深层心理结构：在顺境中以儒家的自强不息兼济天下，在逆境中以道家的旷达超然涵养心性。(Zhōnghuá chuántǒng wénhuà xíngchéng le 'Rú-Dào hùbǔ' de shēncéng xīnlǐ jiégòu: zài shùnjìng zhōng yǐ Rújiā de zìqiáng-bùxī jiānjì tiānxià, zài nìjìng zhōng yǐ Dàojiā de kuàngdá-chāorán hányǎng xīnxìng.)",
+          "reading": "[ʈ͡ʂʊŋ˥.xwa˧˥ t͡ʂʰwan˧˥.tʰʊŋ˧˥ wən˧˥.xwa˥˩ ɕiŋ˧˥.ʈ͡ʂʰəŋ˧˥ lɤ 'ʐu˧˥-taʊ̯˥˩ xu˥˩.pu˨˩˦' tɤ ʂən˥.t͡sʰəŋ˧˥ ɕin˥.li˨˩˦ t͡ɕjɛ˧˥.koʊ̯˥˩: t͡saɪ̯˥˩ ʂwn˥˩.t͡ɕiŋ˥˩ ʈ͡ʂʊŋ˥ i˨˩˦ ʐu˧˥.t͡ɕja˥ tɤ t͡sɨ˥˩.t͡ɕʰjaŋ˧˥-pu˥.ɕi˥ t͡ɕjɛn˥.t͡ɕi˥˩ tʰjɛn˥.ɕja˥˩, t͡saɪ̯˥˩ ni˥˩.t͡ɕiŋ˥˩ ʈ͡ʂʊŋ˥ i˨˩˦ taʊ̯˥˩.t͡ɕja˥ tɤ kʰwɑŋ˥˩.ta˧˥-t͡ʂʰaʊ̯˧˥.ʐan˧˥ xan˧˥.jaŋ˨˩˦ ɕin˥.ɕiŋ˥˩] (Zhōng-huá chuán-tǒng wén-huà xíng-chéng le 'Rú-Dào hù-bǔ' de shēn-céng xīn-lǐ jié-gòu: zài shùn-jìng zhōng yǐ Rú-jiā de zì-qiáng-bù-xī jiān-jì tiān-xià, zài nì-jìng zhōng yǐ Dào-jiā de kuàng-dá-chāo-rán hán-yǎng xīn-xìng.)",
+          "translation": "Traditional Chinese culture formed a deep psychological structure of 'Confucian-Daoist complementarity': in favorable times helping the world with Confucian ceaseless self-strengthening, and in adversity nourishing the mind with Daoist open-minded transcendence."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (26.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "《周易》以「天行健，君子以自强不息」与「地势坤，君子以厚德载物」并立，确立了刚健与包容刚柔相济的中华民族精神。(《Zhōuyì》 yǐ 'tiān xíng jiàn, jūnzǐ yǐ zìqiáng-bùxī' yǔ 'dìshì kūn, jūnzǐ yǐ hòudé-zàiwù' bìnglì, quèlì le gāngjiàn yǔ bāoróng gāng-róu xiāngjì de Zhōnghuá mínzú jīngshén.)",
+          "reading": "[《ʈ͡ʂoʊ̯˥.i˥˩》 i˨˩˦ 'tʰjɛn˥ ɕiŋ˧˥ t͡ɕjɛn˥˩, t͡ɕyn˥.t͡sɨ˨˩˦ i˨˩˦ t͡sɨ˥˩.t͡ɕʰjaŋ˧˥-pu˥.ɕi˥' y˨˩˦ 'ti˥˩.ʂɨ˥˩ kʰwən˥, t͡ɕyn˥.t͡sɨ˨˩˦ i˨˩˦ xoʊ̯˥˩.tɤ˧˥-t͡saɪ̯˥˩.u˥˩' piŋ˥˩.li˥˩, t͡ɕʰɥɛ˥.li˥˩ lɤ kɑŋ˥.t͡ɕjɛn˥˩ y˨˩˦ paʊ̯˥.ʐʊŋ˧˥ kɑŋ˥-ʐoʊ̯˧˥ ɕjaŋ˥.t͡ɕi˥˩ tɤ ʈ͡ʂʊŋ˥.xwa˧˥ min˧˥.t͡su˧˥ t͡ɕiŋ˥.ʂən˧˥] (《Zhōu-yì》 yǐ 'tiān xíng jiàn, jūn-zǐ yǐ zì-qiáng-bù-xī' yǔ 'dì-shì kūn, jūn-zǐ yǐ hòu-dé-zài-wù' bìng-lì, què-lì le gāng-jiàn yǔ bāo-róng gāng-róu xiāng-jì de Zhōng-huá mín-zú jīng-shén.)",
+          "translation": "The 'Book of Changes' juxtaposed 'As heaven's movement is vigorous, so must a gentleman strive ceaselessly' with 'The earth's capacity is vast, so must a gentleman sustain all things with deep virtue,' establishing the Chinese national spirit of combining vigor with tolerance and balancing firmness with gentleness."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (26.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "儒家倡导的「中庸之道」并非折中妥协，而是追求在复杂万变中把握事物最佳平衡点的至高辩证智慧。(Rújiā chàngdǎo de 'zhōngyōng zhī dào' bìngfēi zhézhōng tuǒxié, érshì zhuīqiú zài fùzá wànbiàn zhōng bǎwò shìwù zuìjiā pínghéngdiǎn de zhìgāo biànzhèng zhìhuì.)",
+          "reading": "[ʐu˧˥.t͡ɕja˥ t͡ʂʰɑŋ˥˩.taʊ̯˨˩˦ tɤ 'ʈ͡ʂʊŋ˥.jʊŋ˥ ʈ͡ʂɨ˥ taʊ̯˥˩' piŋ˥˩.feɪ̯˥ ʈ͡ʂɤ˧˥.ʈ͡ʂʊŋ˥ tʰwɔ˨˩.ɕjɛ˧˥, aɚ˧˥.ʂɨ˥˩ ʈ͡ʂweɪ̯˥.t͡ɕʰjoʊ̯˥ t͡saɪ̯˥˩ fu˥˩.t͡sa˧˥ wan˥˩.pjɛn˥˩ ʈ͡ʂʊŋ˥ pa˨˩.wwo˥˩ ʂɨ˥˩.u˥˩ t͡sweɪ̯˥˩.t͡ɕja˥ pʰiŋ˧˥.xɤŋ˧˥.tjɛn˨˩˦ tɤ ʈ͡ʂɨ˥˩.kaʊ̯˥ pjɛn˥˩.ʈ͡ʂəŋ˥˩ ʈ͡ʂɨ˥˩.xweɪ̯˥˩] (Rú-jiā chàng-dǎo de 'zhōng-yōng zhī dào' bìng-fēi zhé-zhōng tuǒ-xié, ér-shì zhuī-qiú zài fù-zá wàn-biàn zhōng bǎ-wò shì-wù zuì-jiā píng-héng-diǎn de zhì-gāo biàn-zhèng zhì-huì.)",
+          "translation": "The 'Doctrine of the Mean' advocated by Confucianism is not unprincipled compromise, but the supreme dialectical wisdom of grasping the optimal equilibrium point of things amid complex and myriad changes."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (26.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "明代王阳明提出「知行合一」与「致良知」，主张道德良知的领悟必须在事上磨练与具体实践中得以践履。(Míngdài Wáng Yángmíng tíchū 'zhī-xíng héyī' yǔ 'zhì liángzhī', zhǔzhāng dàodé liángzhī de lǐngwù bìxū zài shì shang móliàn yǔ jùtǐ shíjiàn zhōng déyǐ jiànlǚ.)",
+          "reading": "[miŋ˧˥.taɪ̯˥˩ wɑŋ˧˥ jaŋ˧˥.miŋ˧˥ tʰi˧˥.t͡ʂʰu˥ 'ʈ͡ʂɨ˥-ɕiŋ˧˥ xɤ˧˥.i˥' y˨˩˦ 'ʈ͡ʂɨ˥˩ ljaŋ˧˥.ʈ͡ʂɨ˥', ʈ͡ʂu˨˩.ʈ͡ʂɑŋ˥ taʊ̯˥˩.tɤ˧˥ ljaŋ˧˥.ʈ͡ʂɨ˥ tɤ liŋ˨˩.u˥˩ pi˥˩.ɕy˥ t͡saɪ̯˥˩ ʂɨ˥˩ ʂɑŋ mwo˧˥.ljɛn˥˩ y˨˩˦ t͡ɕy˥˩.tʰi˨˩˦ ʂɨ˧˥.t͡ɕjɛn˥˩ ʈ͡ʂʊŋ˥ tɤ˧˥.i˨˩˦ t͡ɕjɛn˥˩.ly˨˩˦] (Míng-dài Wáng Yáng-míng tí-chū 'zhī-xíng hé-yī' yǔ 'zhì liáng-zhī', zhǔ-zhāng dào-dé liáng-zhī de lǐng-wù bì-xū zài shì shang mó-liàn yǔ jù-tǐ shí-jiàn zhōng dé-yǐ jiàn-lǚ.)",
+          "translation": "In the Ming dynasty, Wang Yangming proposed the 'Unity of Knowledge and Action' and 'Extending Innate Good Knowing,' advocating that the realization of moral conscience must be practiced and fulfilled through tempering in practical affairs and concrete action."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "儒道互补乾坤合，自强不息厚德泽；中庸之道执两端，知行合一良知澈！"
+      ],
+      "culturalNotes": [
+        "「自强不息」与「厚德载物」源自《周易》，是清华大学等中华顶尖学府校训之源，代表了中华民族刚健有为与博大宽容相得益彰的崇高品格。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」（第4讲）的标准汉语规范？",
+          "prompt": "《周易·象传》中用来阐述君子应当像天一样刚健坚卓、永不停歇奋发图强的经典名句是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的核心语法法则与应用范例 (26.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (26.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (26.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (26.4.w3)"
+            "天行健，君子以自强不息 (As heaven moves vigorously, the gentleman strives ceaselessly)",
+            "做一天和尚撞一天钟",
+            "随随便便放弃努力",
+            "怨天尤人消极躺平"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「天行健，君子以自强不息」是中华民族刚健坚毅精神品格的最高表述。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "明代著名哲学家王阳明创立心学，提出的强调认识与实践内在统一的核心哲学命题是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "知行合一 (Unity of Knowledge and Action)",
+            "光说不做",
+            "只做不想",
+            "知行脱节"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「知行合一」是王阳明心学的核心命题，强调真知必能践行，践行方显真知。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的正式语境下，最准确得体的表达是哪一项？（第26.4题）",
+          "prompt": "《周易·坤卦》中用来指称君子应当如同大地般宽厚博大、包容承载万物的经典名句是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (26.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (26.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (26.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (26.4.x3)"
+            "地势坤，君子以厚德载物 (The earth is vast, the gentleman sustains all with deep virtue)",
+            "心胸狭窄斤斤计较",
+            "自私自利不容他人",
+            "尖酸刻薄"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「地势坤，君子以厚德载物」代表了博大包容、仁厚待人的至高道德操守。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u26-l4）所要求的高阶语言表达？",
+          "prompt": "在中国哲学中，用来形容「在得志时兼济天下、在失意时独善其身」的心理调适机制是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (26.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (26.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (26.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (26.4.y3)"
+            "儒道互补 (Confucian-Daoist Complementarity: 刚柔并济入世出世平衡)",
+            "精神分裂",
+            "毫无原则",
+            "朝三暮四"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「儒道互补」使中国士大夫既有积极入世的责任担当，又有超然物外的旷达心境。"
         }
       ]
     },
@@ -15567,25 +15577,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的掌握程度，请选出表述完全正确的标准范句（测试 26-4）：",
+          "prompt": "请选出下列中华哲学辩证思维与精神结构论述中立论最高远、概括最精辟的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (26.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (26.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (26.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (26.4.z3)"
+            "中华哲学以「儒道互补」构筑了兼济天下与独善其身的心理弹性；《周易》并立「自强不息」之乾道与「厚德载物」之坤道，熔铸了刚柔相济的民族品格；「中庸之道」在万变中把握动态平衡，王阳明「知行合一」更将心性觉悟落实于事上磨练，共同奠定了中华辩证思维的至高典范！(儒道互补、自强不息厚德载物乾坤之道、中庸平衡、知行合一实践理性，哲学论述气象恢宏)",
+            "中国人有时候听孔子，有时候听老子，周易教人算命，王阳明叫人干活。(语言低幼粗浅完全背离哲学本意)",
+            "知行合一被厚德载物在自强不息中庸之道。(概念错乱破碎拼凑)",
+            "中庸之道就是做人没有原则和稀泥。(庸俗化误解中庸哲学)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段将儒道互补机制、《周易》乾坤刚柔哲学、中庸动态平衡与阳明心学知行合一进行了极其精湛的系统整合。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u26-l4）的核心关键词（例如「先秦诸子」）：",
+          "prompt": "请输入《周易》中形容君子效法大地宽厚广博、以深厚德行承载万物的核心四字名句（「地势坤，君子以」；拼音为 hòudé-zàiwù）：",
           "acceptedAnswers": [
-            "先秦诸子",
-            "先秦诸子百家",
-            "先秦诸子百家与儒道哲学"
+            "厚德载物"
           ],
-          "explanation": "正确的核心关键词为「先秦诸子」。"
+          "explanation": "成语「厚德载物」出自《周易·坤卦》，是中华民族宽厚包容、海纳百川美德的经典象征。"
         }
       ],
       "passThreshold": 0.8
@@ -15596,85 +15604,89 @@
     "subject": "mandarin",
     "unit": 26,
     "lessonNumber": 5,
-    "title": "先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy) (第5讲)",
+    "title": "大道之行、哲学思辨与当代中华文明观综合叙事篇章 (Comprehensive Chinese Philosophy Narrative: Grand Dao & Modern Civilizational Vision)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：孔孟儒家（仁义礼智）、老庄道家（无为而治/齐物论）、法家及墨家思想精髓。 (第5部分)。",
+    "objective": "融会贯通先秦儒家、道家、法家、墨家、兵家及阳明心学知行合一，独立撰写思想深邃、哲理思辨缜密、具有大国文明自信与全球文明互鉴格局的中华哲学综合语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "本课是先秦诸子百家与中华哲学源流的巅峰大成之作，将两千五百年中华思想智慧融铸为当代人类文明对话的宏大叙事：\n\n一、诸子百家与中华思想源流全景体系：\n1. 儒道双璧（精神主体）：孔孟之仁爱与民本（内圣外王、浩然之气），老庄之自然与逍遥（道法自然、上善若水），构成「自强不息」与「厚德载物」的刚柔交响。\n2. 法墨兵术（实用实践）：韩非子之法术势（法治规制）、墨子之兼爱非攻（平民大爱与反战和平）、孙子之谋攻全胜（不战而屈人之兵），提供了严密的制度建构与战略智慧。\n3. 知行合一（心学实践）：王阳明心学将道德良知与事上磨练相融通，使崇高哲学理念成为改造客观世界与涵养主观心性的行动指南。\n4. 天下大同（文明升华）：「大道之行也，天下为公」；「和而不同，美美与共」。中华哲学为化解当今世界文明冲突与生态危机贡献了恒久的东方智慧！\n\n二、全景式中华哲学思辨与当代文明综合范文赏析：\n- 大道之行，天下为公；诸子争鸣，文脉昌盛。回望先秦百家，孔孟立「仁者爱人」之极则，发「民贵君轻」之宏愿，铸「内圣外王」之典范；老庄探「道法自然」之本源，悟「上善若水」之至柔，展「逍遥齐物」之神思。儒以刚健立其身，道以旷达养其性，儒道互补，刚柔相济，恰如《周易》之乾坤并立——「天行健，君子以自强不息；地势坤，君子以厚德载物」。不仅如此，法家集「法术势」开法度规制之先河，墨家怀「兼爱非攻」立天下大同之宏誓，孙子以「不战而屈人之兵」升华战略谋略之化境。迨至明代，阳明心学更以「知行合一」与「致良知」唤醒主体实践力量。汲取三千年中华哲学之源泉，我们既坚守自强不息之历史主动，又秉持厚德载物与和而不同之博大胸怀。中华哲学不仅是中华民族安身立命的精神家园，更为构建人类命运共同体提供了跨越时空、历久弥新的东方文明方案！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的核心语法法则与应用范例 (26.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)' in simple terms to students at the academic seminar."
+          "target": "先秦诸子百家争鸣奠定了中华文明璀璨的思想基石，儒家的仁爱担当与道家的道法自然交相辉映，构成了东方哲学的双璧。(Xiān-Qín zhūzǐ bǎijiā zhēngmíng diàndìng le Zhōnghuá wénmíng cuǐcàn de sīxiǎng jīshí, Rújiā de rén'ài dāndāng yǔ Dàojiā de dào fǎ zìrán jiāoxiāng-huìyìng, gòuchéng le dōngfāng zhéxué de shuāngbì.)",
+          "reading": "[ɕjɛn˥-t͡ɕʰin˧˥ ʈ͡ʂu˥.t͡sɨ˨˩˦ paɪ̯˨˩.t͡ɕja˥ ʈ͡ʂəŋ˥.miŋ˧˥ tjɛn˥˩.tiŋ˥˩ lɤ ʈ͡ʂʊŋ˥.xwa˧˥ wən˧˥.miŋ˧˥ t͡sʰweɪ̯˨˩˦.t͡sʰan˥˩ tɤ sɨ˥.ɕjaŋ˨˩˦ t͡ɕi˥.ʂɨ˧˥, ʐu˧˥.t͡ɕja˥ tɤ ʐən˧˥.aɪ̯˥˩ tan˥.tɑŋ˥ y˨˩˦ taʊ̯˥˩.t͡ɕja˥ tɤ taʊ̯˥˩ fa˨˩.t͡sɨ˥˩.ʐan˧˥ t͡ɕjaʊ̯˥.ɕjaŋ˥-xweɪ̯˥˩.iŋ˥˩, koʊ̯˥˩.ʈ͡ʂʰəŋ˧˥ lɤ tʊŋ˥.fɑŋ˥ ʈ͡ʂɤ˧˥.ɕɥɛ˧˥ tɤ ʂwɑŋ˥.pi˥˩] (Xiān-Qín zhū-zǐ bǎi-jiā zhēng-míng diàn-dìng le Zhōng-huá wén-míng cuǐ-càn de sī-xiǎng jī-shí, Rú-jiā de rén-'ài dān-dāng yǔ Dào-jiā de dào fǎ zì-rán jiāo-xiāng-huì-yìng, gòu-chéng le dōng-fāng zhé-xué de shuāng-bì.)",
+          "translation": "The contention of the Pre-Qin Hundred Schools laid the radiant ideological foundation of Chinese civilization; Confucian benevolence and responsibility shine in mutual brilliance with Daoist following of nature, constituting the twin jades of Eastern philosophy."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (26.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "统摄《周易》之刚柔相济、老庄之上善若水与阳明之知行合一，中华哲学为人类解决现代性精神困境贡献了深邃的东方智慧。(Tǒngshè 《Zhōuyì》 zhī gāng-róu xiāngjì, Lǎo-Zhuāng zhī shàngshàn-ruòshuǐ yǔ Yángmíng zhī zhī-xíng héyī, Zhōnghuá zhéxué wèi rénlèi jiějié xiàndàixìng jīngshén kùnjìng gòngxiàn le shēnsuì de dōngfāng zhìhuì.)",
+          "reading": "[tʰʊŋ˨˩.ʂɤ˥˩ 《ʈ͡ʂoʊ̯˥.i˥˩》 ʈ͡ʂɨ˥ kɑŋ˥-ʐoʊ̯˧˥ ɕjaŋ˥.t͡ɕi˥˩, laʊ̯˨˩-ʈ͡ʂwaŋ˥ ʈ͡ʂɨ˥ ʂɑŋ˥˩.ʂan˥˩-ʐwɔ˥˩.ʂweɪ̯˨˩˦ y˨˩˦ jaŋ˧˥.miŋ˧˥ ʈ͡ʂɨ˥ ʈ͡ʂɨ˥-ɕiŋ˧˥ xɤ˧˥.i˥, ʈ͡ʂʊŋ˥.xwa˧˥ ʈ͡ʂɤ˧˥.ɕɥɛ˧˥ weɪ̯˥˩ ʐən˧˥.leɪ̯˥˩ t͡ɕjɛ˨˩.t͡ɕɥɛ˧˥ ɕjɛn˥˩.taɪ̯˥˩.ɕiŋ˥˩ t͡ɕiŋ˥.ʂən˧˥ kʰwn˥˩.t͡ɕiŋ˥˩ kʊŋ˥˩.ɕjɛn˥˩ lɤ ʂən˥.sweɪ̯˥˩ tɤ tʊŋ˥.fɑŋ˥ ʈ͡ʂɨ˥˩.xweɪ̯˥˩] (Tǒng-shè 《Zhōu-yì》 zhī gāng-róu xiāng-jì, Lǎo-Zhuāng zhī shàng-shàn-ruò-shuǐ yǔ Yáng-míng zhī zhī-xíng hé-yī, Zhōng-huá zhé-xué wèi rén-lèi jiě-jué xiàn-dài-xìng jīng-shén kùn-jìng gòng-xiàn le shēn-suì de dōng-fāng zhì-huì.)",
+          "translation": "Integrating the 'Book of Changes' balance of firmness and gentleness, Lao-Zhuang's supreme goodness like water, and Yangming's unity of knowledge and action, Chinese philosophy has contributed profound Eastern wisdom to humanity's resolution of modern spiritual predicaments."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (26.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "秉持「天下为公」与「和而不同」的博大胸襟，中华优秀传统文化在新时代焕发出历久弥新的思想伟力与文明光彩。(Bǐngchí 'tiānxià wéi gōng' yǔ 'hé ér bù tóng' de bódà xiōngjīn, Zhōnghuá yōuxiù chuántǒng wénhuà zài xīn shídài huànfā chū lìjiǔ-míxīn de sīxiǎng wěilì yǔ wénmíng guāngcǎi.)",
+          "reading": "[piŋ˨˩.ʈ͡ʂʰɨ˧˥ 'tʰjɛn˥.ɕja˥˩ weɪ̯˧˥ kʊŋ˥' y˨˩˦ 'xɤ˧˥ aɚ˧˥ pu˥ tʰʊŋ˧˥' tɤ pwo˧˥.ta˥˩ ɕjʊŋ˥.t͡ɕin˥, ʈ͡ʂʊŋ˥.xwa˧˥ joʊ̯˥.ɕjoʊ̯˥˩ t͡ʂʰwan˧˥.tʰʊŋ˧˥ wən˧˥.xwa˥˩ t͡saɪ̯˥˩ ɕin˥ ʂɨ˧˥.taɪ̯˥˩ xwan˥˩.fa˥ t͡ʂʰu˥ li˥˩.t͡ɕjoʊ̯˨˩-mi˧˥.ɕin˥ tɤ sɨ˥.ɕjaŋ˨˩˦ weɪ̯˨˩.li˥˩ y˨˩˦ wən˧˥.miŋ˧˥ kwaŋ˥.t͡sʰaɪ̯˨˩˦] (Bǐng-chí 'tiān-xià wéi gōng' yǔ 'hé ér bù tóng' de bó-dà xiōng-jīn, Zhōng-huá yōu-xiù chuán-tǒng wén-huà zài xīn shí-dài huàn-fā chū lì-jiǔ-mí-xīn de sī-xiǎng wěi-lì yǔ wén-míng guāng-cǎi.)",
+          "translation": "Upholding the broad-mindedness of 'the world belongs to all' and 'harmony without conformity,' fine traditional Chinese culture radiates enduring ideological power and civilizational splendor in the new era."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (26.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "汲取诸子哲学之精髓，我们当以自强不息之志勇担时代使命，以厚德载物之怀包容多元世界，在知行合一中铸就民族精神丰碑！(Jíqǔ zhūzǐ zhéxué zhī jīngsuǐ, wǒmen dāng yǐ zìqiáng-bùxī zhī zhì yǒngdān shídài shǐmìng, yǐ hòudé-zàiwù zhī huái bāoróng duōyuán shìjiè, zài zhī-xíng héyī zhōng zhùjiù mínzú jīngshén fēngbēi!)",
+          "reading": "[t͡ɕi˧˥.t͡ɕʰy˨˩˦ ʈ͡ʂu˥.t͡sɨ˨˩˦ ʈ͡ʂɤ˧˥.ɕɥɛ˧˥ ʈ͡ʂɨ˥ t͡ɕiŋ˥.sweɪ̯˨˩˦, wɔ˨˩.mən tɑŋ˥ i˨˩˦ t͡sɨ˥˩.t͡ɕʰjaŋ˧˥-pu˥.ɕi˥ ʈ͡ʂɨ˥ ʈ͡ʂɨ˥˩ jʊŋ˨˩˦.tan˥ ʂɨ˧˥.taɪ̯˥˩ ʂɨ˨˩.miŋ˥˩, i˨˩˦ xoʊ̯˥˩.tɤ˧˥-t͡saɪ̯˥˩.u˥˩ ʈ͡ʂɨ˥ xwaɪ̯˧˥ paʊ̯˥.ʐʊŋ˧˥ twɔ˥.jɥɛn˧˥ ʂɨ˥˩.t͡ɕjɛ˥˩, t͡saɪ̯˥˩ ʈ͡ʂɨ˥-ɕiŋ˧˥ xɤ˧˥.i˥ ʈ͡ʂʊŋ˥ ʈ͡ʂu˥˩.t͡ɕjoʊ̯˥˩ min˧˥.t͡su˧˥ t͡ɕiŋ˥.ʂən˧˥ fəŋ˥.peɪ̯˥] (Jí-qǔ zhū-zǐ zhé-xué zhī jīng-suǐ, wǒ-men dāng yǐ zì-qiáng-bù-xī zhī zhì yǒng-dān shí-dài shǐ-mìng, yǐ hòu-dé-zài-wù zhī huái bāo-róng duō-yuán shì-jiè, zài zhī-xíng hé-yī zhōng zhù-jiù mín-zú jīng-shén fēng-bēi!)",
+          "translation": "Drawing on the essence of the Masters' philosophy, we should shoulder the mission of the times with the resolve of ceaseless self-strengthening, embrace the pluralistic world with the bosom of sustaining all with virtue, and forge a national spiritual monument in the unity of knowledge and action!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "诸子百家启宏图，儒道互补智慧舒；天下为公融万象，知行合一耀千秋！"
+      ],
+      "culturalNotes": [
+        "「大道之行也，天下为公」出自《礼记·礼运》，是中国古代对大同社会的最高政治伦理构想，为当代构建人类命运共同体理念提供了深厚的中华文明根基。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」（第5讲）的标准汉语规范？",
+          "prompt": "在中华哲学思想源流全景发展脉络中，串联「孔孟仁爱与内圣外王 -> 老庄道法自然与逍遥游 -> 法墨兵家治国战略 -> 儒道互补与知行合一（大同社会）」的核心主线是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的核心语法法则与应用范例 (26.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (26.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (26.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (26.5.w3)"
+            "诸子百家思想体系演进与中华哲学智慧升华 (Hundred Schools ideological evolution & Chinese philosophical sublimation)",
+            "普通古代科举考试规章",
+            "古代算命占卜手册",
+            "全篇全是病句的乱码文字"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "语篇系统展现了先秦诸子百家从本体论、认识论到治国理政、心学实践的大道演进全貌。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "出自《礼记·礼运》、表达人类追求理想大同社会与公正天下秩序的核心经典名言是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "大道之行也，天下为公 (When the Grand Dao prevails, the world belongs to all)",
+            "各人自扫门前雪",
+            "事不关己高高挂起",
+            "人不为己天诛地灭"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「大道之行也，天下为公」是中华传统文化关于天下为公、选贤与能、讲信修睦大同世界的至高哲学表述。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的正式语境下，最准确得体的表达是哪一项？（第26.5题）",
+          "prompt": "请选出下列中华哲学思辨与现代文明论述中辞章最斐然、思想最深邃的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (26.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (26.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (26.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (26.5.x3)"
+            "先秦诸子争鸣奠定东方哲学基石：孔孟仁爱民本与老庄道法自然相映成辉，周易乾坤之自强不息与厚德载物刚柔相济，阳明心学更以知行合一赋能实践。秉持和而不同与天下为公之胸襟，中华哲学为当代人类文明贡献了历久弥新的东方智慧！(诸子争鸣、仁道相映、乾坤刚柔、知行合一、和而不同天下为公，中华思想体系论述浑然一体)",
+            "中国哲学很好，孔子老子很厉害，我们要多学习他们的思想建设国家。(语言极其贫乏粗白)",
+            "知行合一被天下为公在自强不息。(句式破碎毫无逻辑)",
+            "天下为公是指所有财产都不属于任何人谁也别干活。(恶意歪曲传统大同思想)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项在诸子各家精髓熔铸、辩证思维建构与当代文明关怀上达到了当代高级哲学思想论著的最高境界。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u26-l5）所要求的高阶语言表达？",
+          "prompt": "形容中华优秀传统文化历经数千年漫长岁月依然散发蓬勃生命力的经典成语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (26.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (26.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (26.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (26.5.y3)"
+            "历久弥新 (The longer it lasts, the more refreshing and vibrant it becomes)",
+            "行将就木",
+            "陈词滥调",
+            "腐朽不堪"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「历久弥新」形容优秀的思想文化历经久远年代的淘洗反而愈加焕发出崭新的光彩与生命力。"
         }
       ]
     },
@@ -15682,25 +15694,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的掌握程度，请选出表述完全正确的标准范句（测试 26-5）：",
+          "prompt": "请选出下列中华哲学思想源流与当代文明观综合语篇中格局最宏大、哲思最深邃、论辩最严密的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (26.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (26.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (26.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (26.5.z3)"
+            "大道之行，天下为公。先秦百家争鸣铸就中华哲学辉煌源流：孔孟以仁爱民本树立内圣外王之极则，老庄以道法自然与上善若水悟透宇宙机理；周易刚柔相济，《自强不息》与《厚德载物》共铸民族风骨；法墨兵术各展宏图，阳明心学以知行合一达致实践觉悟。秉持和而不同与美美与共，中华哲学正为构建人类命运共同体贡献深邃悠远的东方智慧！(全篇诸子百家、乾坤辩证、阳明心学与天下为公天下大同融为一体，思想格局极其博大深邃)",
+            "我们古代有很多哲学家，写了很多书，现在大家觉得很有道理，我们要继续传承。(语言粗糙平白毫无思想深度)",
+            "大道之行被法术势知行合一在逍遥游。(概念生硬拼凑逻辑错乱)",
+            "只要学会知行合一，就能不读书不思考直接平天下。(狂妄荒谬违背知行统一规律)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇融会贯通儒道法墨兵诸子精义、《周易》刚柔辩证、阳明知行心学与天下为公天下大同理想，辞采华茂，哲思通达，堪称中华古典哲学思想论述的巅峰范本。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u26-l5）的核心关键词（例如「先秦诸子」）：",
+          "prompt": "请输入《礼记·礼运》中表达天下是全天下人所共有的核心四字政治哲学经典名句（例如大道之行也，「」；拼音为 tiānxià wéi gōng）：",
           "acceptedAnswers": [
-            "先秦诸子",
-            "先秦诸子百家",
-            "先秦诸子百家与儒道哲学"
+            "天下为公"
           ],
-          "explanation": "正确的核心关键词为「先秦诸子」。"
+          "explanation": "名句「天下为公」是中华民族两千多年来追求社会公平正义、天下大同的核心政治理想与哲学符号。"
         }
       ],
       "passThreshold": 0.8
