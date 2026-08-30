@@ -10325,53 +10325,62 @@
     "subject": "urdu",
     "unit": 25,
     "lessonNumber": 1,
-    "title": "ماحولیات، وادی سندھ کی زراعت اور آبی وسائل (Ecology) (Part 1)",
+    "title": "دریائے سندھ کا طاس، گلیشیئرز کا پگھلاؤ اور آبی وسائل (Indus Basin & Hydrology)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 25.1) with authentic precision.",
+    "objective": "دریائے سندھ کے طاس، ہمالیائی گلیشیئرز کے پگھلاؤ، بڑے آبی ذخائر (تربیلا و منگلا ڈیم) اور انڈس ہائیڈرولوجی کے علمی و سائنسی بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں وادیِ سندھ کے آبی وسائل اور ہائیڈرولوجی کا بیان (Indus Basin & Water Resources):\n\n1. **دریائے سندھ کا طاس اور گلیشیئرز**:\n   - «**دریائے سندھ کا طاس (Indus River Basin)**»: پاکستان کی زراعت اور پن بجلی کی لائف لائن؛\n   - «قراقرم و ہمالیہ کے **گلیشیئرز کا تیز رفتار پگھلاؤ (Glacial Melt)**»؛\n   - «موسمیاتی ناہمواری، **سیلابی ریلے** اور **خشک سالی**»۔\n\n2. **آبی ذخائر اور زیرِ زمین پانی**:\n   - «بڑے ڈیم اور بیراج (**تربیلا، منگلا اور گدو بیراج** )»；\n   - «**زیرِ زمین پانی کی سطح (Water Table)** کی خطرناک حد تک گراوٹ»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "قراقرم اور ہمالیہ کے وسیع گلیشیئرز کا غیر متوقع پگھلاؤ دریائے سندھ کے طاس میں سیلابی ریلوں اور موسمی ناہمواری کا بنیادی سبب بن رہا ہے۔",
+          "reading": "Qaraqoram aur Himalaya ke wasee' glaciers ka ghair-mutawaqqo pighlaao Darya-e-Sindh ke taas mein sailaabi railon aur mawsimi naa-hamwaari ka bunyaadi sabab ban raha hai. [qəraːqoːrəm ɔːr hɪmaːləjaː keː ʋəsiːʔ ɡleːʃɪjərz kaː ɣɛːr-mʊt̪əʋəqːoː pɪɡʱlaːʔoː d̪ərjaː-jeː-sɪnd̪ʱ keː t̪aːs mẽː sɛːlaːbiː rɛːlõː ɔːr mɔːsɪmiː naː-həmʋaːriː kaː bʊnjaːd̪iː səbəb bən rəhaː hɛː] (quh-rah-QOH-ruhm owr hee-MAH-luh-yah kay wuh-SEE glaciers kah ghyr-moo-tuh-wuhq-QOH peeg-lah-OH duhr-YAH-yay-SEENDH kay TAHS mayn sy-LAH-bee ray-LOHN owr mow-see-MEE nah-huhm-vah-REE kah boon-yah-DEE SUH-buhb buhn ruh-HAH HY)",
+          "translation": "The unexpected melting of extensive glaciers in the Karakoram and Himalayas is becoming the primary cause of flash floods [hydrological term: sailaabi railay] and seasonal irregularities in the Indus Basin."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 25-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "تربیلا اور منگلا جیسے بڑے آبی ذخائر اور بیراج نہ صرف ملک کو زرعی آبپاشی کے لیے پانی مہیا کرتے ہیں بلکہ سستی پن بجلی کا بھی اہم ترین ذریعہ ہیں۔",
+          "reading": "Tarbela aur Mangla jaise baray aabi zakhaa'ir aur barrage na sirf mulk ko zar'ee aabpaashi ke liye paani muhayya kartay hain balkeh sasti pan-bijli ka bhi ahem-tareen zariya hain. [t̪ərbelaː ɔːr məŋɡlaː dʒɛːseː bəɽeː aːbiː zəxaːʔɪr ɔːr bɛraːʒ nə sɪrf mʊlk koː zərʔiː aːbpaːʃiː keː lɪjeː paːniː mʊɦɛjːaː kərt̪eː hɛ̃ː bəlkɛh səst̪iː pən-bɪdʒliː kaː bʱiː əɦəm-t̪əriːn zərɪjəʔ hɛ̃ː] (tuhr-bay-LAH owr muhn-GLAH jy-SAY buh-RAY ah-BEE zuh-khah-EER owr barrage nuh SEERF MOOLK koh zuhr-EE ahb-pah-SHEE kay lee-AY pah-NEE moo-huhy-YAH kuhr-TAY HYN buhl-KYH suhs-TEE puhn-beej-LEE kah bhee uh-huhm-tuh-REEN zuh-ree-YUH HYN)",
+          "translation": "Large water reservoirs [hydrological term: aabi zakhaa'ir] and barrages like Tarbela and Mangla not only provide water for agricultural irrigation but also constitute the most vital source of inexpensive hydroelectricity."
+        },
+        {
+          "target": "زیرِ زمین پانی کے بے دریغ اخراج نے پنجاب اور سندھ کے میدانی علاقوں میں واٹر ٹیبل کو خطرناک حد تک گہرا کر دیا ہے جس کے لیے فوری سائنسی انتظام ناگزیر ہے۔",
+          "reading": "Zeir-e-zameen paani ke bay-dareegh ikhraaj ne Punjab aur Sindh ke maidaani ilaaqon mein water table ko khatarnaak hadd tak gehra kar diya hai jis ke liye fowri saa'insi intezaam naa-guzeer hai. [zeːr-eː-zəmiːn paːniː keː beː-d̪əriːɣ ɪxraːdʒ neː pəndʒaːb ɔːr sɪnd̪ʱ keː mɛːd̪aːniː ɪlaːqõː mẽː ʋɔːʈər ʈeːbəl koː xət̪ərnaːq həd̪ː t̪ək ɡɛɦraː kər d̪ɪjaː hɛː dʒɪs keː lɪjeː fɔːriː saːʔɪnsiː ɪnt̪ɪzaːm naː-ɡʊziːr hɛː] (zay-ray-zuh-MEEN pah-NEE kay bay-duh-REEGH eekh-RAHJ nay puhn-JAHB owr SEENDH kay my-dah-NEE ee-lah-QOHN mayn water table koh khuh-tuhr-NAHQ HUDD tuhk gyh-RAH kuhr DEE-yah HY JEES kay lee-AY FOW-ree sah-een-SEE een-tee-ZAHM nah-goo-ZEER HY)",
+          "translation": "Indiscriminate extraction of groundwater has depleted the water table [hydrology: water table gehra hona] dangerously in the plains of Punjab and Sindh, demanding immediate scientific management."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "آبی وسائل کا دائرہ: ہمالیائی گلیشیئرز + دریائے سندھ کا طاس + تربیلا و منگلا ڈیم + واٹر ٹیبل کا تحفظ!"
+      ],
+      "culturalNotes": [
+        "وادیِ سندھ دنیا کی قدیم ترین زرعی تہذیبوں میں سے ایک ہے جہاں دریائے سندھ کو 'ابا سین' (دریاؤں کا باپ) کے نام سے پکارا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"بڑا\":",
+          "prompt": "پاکستان کے سب سے بڑے دریا کے بہاؤ اور اس کے معاون دریاؤں کے پورے خطے کو کیا کہا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («چھوٹا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («لمبا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پستہ» کی خرابی)"
+            "دریائے سندھ کا طاس (Indus River Basin - River catchment and hydrological drainage system)",
+            "صرف ایک نہر",
+            "صرف ایک تالاب",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "پورے دریا اور اس کے معاون آبی نظام کو «دریائے سندھ کا طاس» (Indus Basin) کہا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"بڑا\":",
+          "prompt": "زمین کے نیچے موجود پانی کی قدرتی سطح کو سائنسی زبان میں کیا کہا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («لمبا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پستہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («چھوٹا» کا غیر درست استعمال)"
+            "واٹر ٹیبل / زیرِ زمین آبی سطح (Water Table - Depth below which the ground is saturated with water)",
+            "بارش کا پانی",
+            "ندی نالے",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "زیرِ زمین پانی کی سطح کو «واٹر ٹیبل» (Water Table) کہتے ہیں۔"
         }
       ]
     },
@@ -10379,17 +10388,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"بڑا\": Which sentence is completely correct?",
+          "prompt": "دریائے سندھ کے طاس اور آبی وسائل (Indus Basin & Hydrology) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پستہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («چھوٹا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («لمبا» سے متعلق)"
+            "ہمالیائی گلیشیئرز کا پگھلاؤ دریائے سندھ کے طاس میں آبی ذخائر اور تربیلا ڈیم کی آبپاشی و پن بجلی کی صلاحیت کو براہِ راست کنٹرول کرتا ہے۔ (The melting of Himalayan glaciers directly controls the water storage and Tarbela Dam's irrigation and hydroelectric capacity in Indus Basin.)",
+            "گلیشیئر نے کھانا کھایا تھا اور رویا تھا۔",
+            "دریائے سندھ صرف صحرا میں خشک ہو کر گاڑی بن جاتا ہے۔",
+            "ڈیم میں پانی جمع کرنا قانوناً منع ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہمالیائی گلیشیئرز کا پگھلاؤ دریائے سندھ کے طاس میں آبی ذخائر اور تربیلا ڈیم کی آبپاشی و پن بجلی کی صلاحیت کو براہِ راست کنٹرول کرتا ہے۔» ہائیڈرولوجیکل فصاحت کا کامل نمونہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u25-l2": {
@@ -10397,53 +10407,62 @@
     "subject": "urdu",
     "unit": 25,
     "lessonNumber": 2,
-    "title": "ماحولیات، وادی سندھ کی زراعت اور آبی وسائل (Ecology) (Part 2)",
+    "title": "نظامِ آبپاشی، سیم و تھور اور زرعی اراضی کا کٹاؤ (Canal Irrigation & Salinity)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 25.2) with authentic precision.",
+    "objective": "نہری آبپاشی کے مربوط نظام، کھالوں کی پختگی، سیم و تھور (Waterlogging & Salinity) اور ڈرپ اریگیشن کی جدید تکنیک کے بیان پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں نہری نظام، سیم و تھور اور اراضی کی حفاظت (Irrigation & Soil Management):\n\n1. **نہری نظام اور پانی کا ضیاع**:\n   - «**نہری آبپاشی کا باضابطہ جال** (Canal Irrigation Network)»；\n   - «کچے کھالوں اور نالوں کی **لائننگ / پختگی**»۔\n\n2. **سیم و تھور اور اراضی کا کٹاؤ**:\n   - «**سیم (Waterlogging)**»: زیرِ زمین پانی کے اوپر آنے سے زمین کا دلدلی ہو جانا؛\n   - «**تھور (Salinity)**»: پانی کے بخارات بننے پر زمین کی سطح پر نمکیات کا سفید جم جانا؛\n   - «جدید **ڈرپ اریگیشن / قطرہ قطرہ آبپاشی** اور اسپرنکلر سسٹمز»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "پاکستان میں دنیا کا سب سے بڑا نہری آبپاشی کا مربوط جال موجود ہے مگر کھالوں کی پختگی نہ ہونے سے اربوں کیوبک فٹ پانی ضائع ہو جاتا ہے۔",
+          "reading": "Pakistan mein duniya ka sab se bara nehri aabpaashi ka marboot jaal mawjood hai magar khaalon ki pukhtagi na honay se arabon cubic feet paani zaaya ho jaata hai. [paːkɪst̪aːn mẽː d̪ʊnɪjaː kaː səb seː bəɽaː nɛɦriː aːbpaːʃiː kaː mərbuːt̪ dʒaːl mɔːdʒuːd̪ hɛː məɡər kʰaːlõː kiː pʊxt̪əɡiː nə hoːneː seː ərbõː kjuːbɪk fiːʈ paːniː zaːʔɪʔ hoː dʒaːt̪aː hɛː] (pah-kees-TAHN mayn doon-YAH kah SUHB say buh-RAH nyh-REE ahb-pah-SHEE kah muhr-BOOT JAHL mow-JOOD HY muh-guhr khah-LOHN kee pookh-tuh-GEE nuh hoh-NAY say uhr-BOHN cubic feet pah-NEE ZAH-yuh hoh jah-TAH HY)",
+          "translation": "Pakistan possesses the world's largest integrated canal irrigation network [irrigation: nehri aabpaashi ka jaal], yet billions of cubic feet of water are wasted due to unlined watercourses."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 25-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "زرخیز زمینوں کو بنجر بنانے والے سیم و تھور کے ناسور سے نمٹنے کے لیے نکاسیِ آب کی نالیاں اور نمکیات برداشت کرنے والے پودے لگانا ازحد ضروری ہے۔",
+          "reading": "Zarkheiz zameenon ko banjar banaanay waalay seim-o-thoor ke naasoor se nipatnay ke liye nikaasi-e-aab ki naaliyaan aur namkiyaat bardaasht karnay waalay poday lagaana az-hadd zaroori hai. [zərxeːz zəmiːnõː koː bəndʒər bənaːneː ʋaːleː seːm-oː-t̪ʰoːr keː naːsuːr seː nɪpəʈneː keː lɪjeː nɪkaːsiː-eː-aːb kiː naːlɪjaː̃ ɔːr nəmkiːjaːt̪ bərdaːʃt̪ kərneː ʋaːleː pɔːd̪eː ləɡaːnaː əz-həd̪ː zəruːriː hɛː] (zuhr-KHAYZ zuh-mee-NOHN koh buhn-JUHR buh-nah-NAY vah-LAY saym-oh-THOHR kay nah-SOOR say nee-puht-NAY kay lee-AY nee-kah-SEE-ay-AHB kee nah-lee-YAHN owr nuhm-kee-YAHT buhr-DAHSHT kuhr-NAY vah-LAY pow-DAY luh-gah-NAH uhz-HUDD zuh-roo-REE HY)",
+          "translation": "To tackle the menace of waterlogging and salinity [agronomy: seim-o-thoor] that renders fertile lands barren, drainage ditches and salt-tolerant plants are indispensable."
+        },
+        {
+          "target": "پانی کے سائنسی انتظام اور ڈرپ اریگیشن کی ٹیکنالوجی کو فروغ دے کر کم پانی والے خطوں میں زرعی پیداوار میں دوگنا اضافہ ممکن ہے۔",
+          "reading": "Paani ke saainsi intezaam aur drip irrigation ki technology ko farogh day kar kam paani waalay khitton mein zar'ee paydaawaar mein dogna ezaafa mumkin hai. [paːniː keː saːʔɪnsiː ɪnt̪ɪzaːm ɔːr ɖrɪp ɪrɪɡeːʃən kiː ʈɛknaːlədʒiː koː fəroːɣ d̪eː kər kəm paːniː ʋaːleː xɪʈːõː mẽː zərʔiː pɛːd̪aːʋaːr mẽː d̪ʊɡnaː ɪzaːfaː mʊmkɪn hɛː] (pah-NEE kay sah-een-SEE een-tee-ZAHM owr drip irrigation kee technology koh fuh-ROHGH DAY kuhr KUHM pah-NEE vah-LAY kheet-TOHN mayn zuhr-EE py-dah-VAHR mayn doog-NAH ee-ZAH-fah moom-KEEN HY)",
+          "translation": "By promoting scientific water management and drip irrigation technology, a twofold increase in agricultural yield is achievable in water-scarce regions."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "آبپاشی و سیم و تھور: نہری نظام + سیم (پانی کا جمنا) + تھور (نمکیات کا ابھرنا) + ڈرپ اریگیشن!"
+      ],
+      "culturalNotes": [
+        "پنجاب کا نام ہی 'پنج آب' یعنی پانچ دریاؤں کی سرزمین ہے جس کی زرخیز نہریں صدیوں سے برصغیر کا اناج پیدا کرتی رہی ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"چھوٹا\":",
+          "prompt": "پانی کی زیادتی اور نمکیات کے باعث زمین کے بنجر ہونے کے مرض کو اردو میں کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («لمبا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پستہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («تیز» کی خرابی)"
+            "سیم و تھور (Seim-o-thoor - Waterlogging and Soil Salinity)",
+            "صرف جنگل",
+            "صرف پہاڑ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "پانی اور نمکیات کے بگاڑ سے زمین کے بنجر ہونے کو «سیم و تھور» کہا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"چھوٹا\":",
+          "prompt": "پانی کی بچت کے لیے پودوں کی جڑوں میں براہ راست پانی پہنچانے کے جدید طریقے کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پستہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («تیز» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («لمبا» کا غیر درست استعمال)"
+            "قطرہ قطرہ آبپاشی / ڈرپ اریگیشن (Drip Irrigation - Micro-irrigation conserving water at roots)",
+            "سیلاب کا پانی",
+            "بارش کا انتظار",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "جڑوں تک قطرہ قطرہ پانی پہنچانے کے جدید طریقے کو «ڈرپ اریگیشن» کہتے ہیں۔"
         }
       ]
     },
@@ -10451,17 +10470,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"چھوٹا\": Which sentence is completely correct?",
+          "prompt": "نظامِ آبپاشی اور سیم و تھور (Irrigation & Salinity) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («تیز» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («لمبا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پستہ» سے متعلق)"
+            "نہری کھالوں کی پختگی اور نکاسیِ آب کے سائنسی انتظام کے ذریعے سیم و تھور کا خاتمہ کر کے زرعی اراضی کی پیداواری صلاحیت کو بحال کیا جا سکتا ہے۔ (By lining canal watercourses and scientific drainage management, salinity/waterlogging can be eliminated and soil productivity restored.)",
+            "نہر نے چائے پی تھی اور روئی تھی۔",
+            "سیم و تھور صرف چاند پر ہوتا ہے۔",
+            "ڈرپ اریگیشن کا مطلب دریا کو سکھا دینا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«نہری کھالوں کی پختگی اور نکاسیِ آب کے سائنسی انتظام کے ذریعے سیم و تھور کا خاتمہ کر کے زرعی اراضی کی پیداواری صلاحیت کو بحال کیا جا سکتا ہے۔» زرعی و نہری اصطلاحات کا کامل جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u25-l3": {
@@ -10469,53 +10489,62 @@
     "subject": "urdu",
     "unit": 25,
     "lessonNumber": 3,
-    "title": "ماحولیات، وادی سندھ کی زراعت اور آبی وسائل (Ecology) (Part 3)",
+    "title": "موسمیاتی تبدیلیاں، سموگ، آلودگی اور جنگلات (Climate Change, Smog & Ecology)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 25.3) with authentic precision.",
+    "objective": "موسمیاتی تغیرات (Climate Change)، سموگ و فضائی آلودگی، شجرکاری کی مہمات اور ماحولیاتی تحفظ کے اعلیٰ بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں موسمیاتی تبدیلیاں اور ماحولیاتی بحران (Climate Change & Smog):\n\n1. **موسمیاتی تغیر اور گلوبل وارمنگ**:\n   - «**موسمیاتی تغیر / کلائمیٹ چینج** (Climate Change)»；\n   - «**کاربن کا اخراج** اور **گرین ہاؤس گیسیں**»؛\n   - «درجہ حرارت میں اضافہ اور غیر متوقع بارشیں»۔\n\n2. **سموگ اور جنگلات کا تحفظ**:\n   - «**زہریلی سموگ** (دھوئیں اور دھند کا زہریلا آمیزہ)»؛\n   - «**جنگلات کی بے دریغ کٹائی (Deforestation)**»؛\n   - «قومی سطح پر **شجرکاری مہمات** (Afforestation / Tree Plantation)»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "موسمِ سرما کے آغاز پر لاہور اور وسطی پنجاب کو اپنی لپیٹ میں لینے والی خطرناک سموگ فضائی آلودگی، اینٹوں کے بھٹوں اور دھان کی باقیات جلانے کا مشترکہ نتیجہ ہے۔",
+          "reading": "Mausam-e-sarma ke aaghaaz par Lahore aur wasti Punjab ko apni lapait mein leinay waali khatarnaak smog fazaai aaloodgi, eenton ke bhatton aur dhaan ki baqiyaat jalaanay ka mushtaraka nateeja hai. [mɔːsəm-eː-sərmaː keː aːɣaːz pər laːɦɔːr ɔːr ʋəst̪iː pəndʒaːb koː əpniː ləpeːʈ mẽː leːneː ʋaːliː xət̪ərnaːq smoːɡ fəzaːʔiː aːluːd̪əɡiː iː̃ʈõː keː bʱəʈːõː ɔːr d̪ʱaːn kiː baːqɪjaːt̪ dʒəlaːneː kaː mʊʃt̪ərəkaː nət̪iːdʒaː hɛː] (mow-SUHM-ay-suhr-MAH kay ah-GHAHZ puhr lah-HOHR owr wuhs-TEE puhn-JAHB koh uhp-NEE luh-PAYT mayn lay-NAY vah-LEE khuh-tuhr-NAHQ smog fuh-zah-EE ah-loo-duh-GEE, EEN-tohn kay bhuht-TOHN owr DHAHN kee bah-qee-YAHT juh-lah-NAY kah moosh-tuh-ruh-KAH nuh-tee-JAH HY)",
+          "translation": "The dangerous smog engulfing Lahore and central Punjab at the onset of winter is the joint result of air pollution, brick kilns, and burning of rice crop residue [environmental crisis]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 25-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "جنگلات کے رقبے میں تشویشناک کمی نے حیاتیاتی تنوع کو شدید خطرات سے دوچار کیا ہے، جس کا تدارک صرف وسیع پیمانے پر شجرکاری سے ہی ممکن ہے۔",
+          "reading": "Janglaat ke raqbay mein tashweesh-naak kami ne hayaatiyaati tanawwo' ko shadeed khatraat se do-chaar kiya hai, jis ka tadaaruk sirf wasee' paymaanay par shajar-kaari se hi mumkin hai. [dʒəŋɡlaːt̪ keː rəqbeː mẽː t̪əʃʋiːʃ-naːq kəmiː neː həjaːt̪iːjaːt̪iː t̪ənəʋːʊʔ koː ʃəd̪iːd̪ xət̪raːt̪ seː d̪oː-tʃaːr kɪjaː hɛː dʒɪs kaː t̪əd̪aːrʊk sɪrf ʋəsiːʔ pɛːmaːneː pər ʃədʒər-kaːriː seː hiː mʊmkɪn hɛː] (juhn-glah-AHT kay ruhq-BAY mayn tuhsh-veesh-NAHQ kuh-MEE nay huh-yah-tee-yah-TEE tuh-nuhv-VOO koh shuh-DEED khuh-tuh-RAHT say doh-CHAHR kee-YAH HY, JEES kah tuh-dah-ROOK SEERF wuh-SEE py-mah-NAY puhr shuh-juhr-kah-REE say HEE moom-KEEN HY)",
+          "translation": "The alarming decline in forest cover has endangered biodiversity [ecology: hayaatiyaati tanawwo'], which can only be mitigated through large-scale afforestation."
+        },
+        {
+          "target": "پاکستان گرین ہاؤس گیسوں کے اخراج میں نہ ہونے کے برابر حصہ دار ہونے کے باوجود عالمی سطح پر موسمیاتی تغیرات سے سب سے زیادہ متاثر ہونے والے ممالک کی فہرست میں شامل ہے۔",
+          "reading": "Pakistan green-house gason ke ikhraaj mein na honay ke baraabar hissa-daar honay ke baa-wujood aalami satah par mawsimi taghayyuraat se sab se ziyaada muta'assir honay waalay mamaalik ki fehrist mein shaamil hai. [paːkɪst̪aːn ɡriːn-haːʊs ɡɛːsõː keː ɪxraːdʒ mẽː nə hoːneː keː bəraːbər hɪsːaː-d̪aːr hoːneː keː baː-ʋʊdʒuːd̪ aːləmiː sət̪əh pər mɔːsɪmiː t̪əɣəjːʊraːt̪ seː səb seː zɪjaːd̪aː mʊt̪əʔəsːɪr hoːneː ʋaːleː məmaːlɪk kiː fɪhrɪst̪ mẽː ʃaːmɪl hɛː] (pah-kees-TAHN greenhouse gas-OHN kay eekh-RAHJ mayn nuh hoh-NAY kay buh-RAH-buhr hees-sah-DAHR hoh-NAY kay bah-voo-JOOD ah-luh-MEE suh-TUH puhr mow-see-MEE tuh-ghuhy-yoo-RAHT say SUHB say zee-YAH-dah moo-tuh-uhs-SEER hoh-NAY vah-LAY muh-mah-LEEK kee feeh-REEST mayn shah-MEEL HY)",
+          "translation": "Despite contributing negligibly to global greenhouse gas emissions, Pakistan ranks among the nations most vulnerable to climate change worldwide."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ماحولیات و سموگ: موسمیاتی تغیر (گلوبل وارمنگ) + زہریلی سموگ + حیاتیاتی تنوع + شجرکاری مہم!"
+      ],
+      "culturalNotes": [
+        "پاکستان نے ماحولیاتی تنوع کی بحالی کے لیے 'بلین ٹری سونامی' جیسے بین الاقوامی سطح پر تسلیم شدہ شجرکاری منصوبے شروع کیے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"لمبا\":",
+          "prompt": "سردیوں میں دھوئیں اور دھند کے زہریلے آمیزے سے پیدا ہونے والی فضائی آلودگی کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («پستہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («تیز» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («آہستہ» کی خرابی)"
+            "سموگ (Smog - Toxic blend of smoke, fog, and particulate matter)",
+            "صاف بارش",
+            "برفباری",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "دھوئیں اور دھند کے آلودہ آمیزے کو «سموگ» (Smog) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"لمبا\":",
+          "prompt": "ماحولیات کو بچانے کے لیے وسیع پیمانے پر درخت لگانے کے عمل کو اردو میں کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («تیز» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («آہستہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («پستہ» کا غیر درست استعمال)"
+            "شجرکاری / شجرکاری مہم (Shajar-kaari - Tree plantation / Afforestation drive)",
+            "درخت کاٹنا",
+            "فیکٹری لگانا",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "درخت لگانے کی مہم کو «شجرکاری» کہا جاتا ہے۔"
         }
       ]
     },
@@ -10523,17 +10552,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"لمبا\": Which sentence is completely correct?",
+          "prompt": "موسمیاتی تبدیلی اور ماحولیات (Climate Change & Smog) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («آہستہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («پستہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («تیز» سے متعلق)"
+            "موسمیاتی تبدیلیوں اور سموگ کے زہریلے اثرات کو شکست دینے کے لیے کاربن کے اخراج میں کمی اور ملک گیر شجرکاری کا پائیدار تسلسل ناگزیر ہے۔ (To overcome climate change and toxic effects of smog, reduction in carbon emissions and sustained countrywide tree plantation are imperative.)",
+            "سموگ نے گرم چائے پی تھی اور رویا تھا۔",
+            "شجرکاری صرف پینٹنگ بنانے کو کہتے ہیں۔",
+            "موسمیاتی تبدیلی کا ماحول پر کوئی اثر نہیں ہوتا۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«موسمیاتی تبدیلیوں اور سموگ کے زہریلے اثرات کو شکست دینے کے لیے کاربن کے اخراج میں کمی اور ملک گیر شجرکاری کا پائیدار تسلسل ناگزیر ہے۔» ماحولیاتی فصاحت کا کامل ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u25-l4": {
@@ -10541,53 +10571,62 @@
     "subject": "urdu",
     "unit": 25,
     "lessonNumber": 4,
-    "title": "ماحولیات، وادی سندھ کی زراعت اور آبی وسائل (Ecology) (Part 4)",
+    "title": "فصلیں، پیداواری سائیکل اور غذائی تحفظ (Crop Cycles & Food Security)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 25.4) with authentic precision.",
+    "objective": "ربیع و خریف کے زرعی چکر، نقد آور فصلوں (کپاس، گندم، چاول، گنا)، اور غذائی تحفظ (Food Security) کے معاشی بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں زرعی چکر، فصلوں اور غذائی تحفظ کا بیان (Agronomy & Food Security):\n\n1. **زرعی موسم اور فصلوں کی اقسام**:\n   - «**خریف کی فصلیں (Kharif Crops)**»: گرما میں بوئی جانے والی فصلیں (کپاس، چاول، مکئی، گنا)؛\n   - «**ربیع کی فصلیں (Rabi Crops)**»: سرما میں بوئی جانے والی فصلیں (گندم، چنا، جو، سرسوں)۔\n\n2. **غذائی تحفظ اور زرعی معاشیات**:\n   - «**غذائی تحفظ (Food Security)**»: آبادی کے لیے خوراک کی مسلسل اور سستی فراہمی؛\n   - «کپاس کو ملکی صنعت کا **سفید سونا (White Gold)** کہا جاتا ہے»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "پاکستان کے زرعی سال کو دو بنیادی فصلوں خریف اور ربیع میں تقسیم کیا گیا ہے جن میں چاول اور کپاس موسمِ گرما جبکہ گندم موسمِ سرما کی اہم ترین فصل ہے۔",
+          "reading": "Pakistan ke zar'ee saal ko do bunyaadi faslon Khareef aur Rabee' mein taqseem kiya gaya hai jin mein chaawal aur kapaas mausam-e-garma jabkeh gandum mausam-e-sarma ki ahem-tareen fasal hai. [paːkɪst̪aːn keː zərʔiː saːl koː d̪oː bʊnjaːd̪iː fəslõː xəriːf ɔːr rəbiːʔ mẽː t̪əqsiːm kɪjaː ɡəjaː hɛː dʒɪn mẽː tʃaːʋəl ɔːr kəpaːs mɔːsəm-eː-ɡərmaː dʒəbkɛh ɡənd̪ʊm mɔːsəm-eː-sərmaː kiː əɦəm-t̪əriːn fəsəl hɛː] (pah-kees-TAHN kay zuhr-EE SAHL koh DOH boon-yah-DEE fuhs-LOHN khuh-REEF owr ruh-BEE mayn tuhq-SEEM kee-YAH guh-YAH HY JEEN mayn CHAH-wuhl owr kuh-PAHS mow-SUHM-ay-guhr-MAH juhb-KYH guhn-DOOM mow-SUHM-ay-suhr-MAH kee uh-huhm-tuh-REEN fuh-SUHL HY)",
+          "translation": "Pakistan's agricultural calendar is divided into two primary seasons, Kharif and Rabi [crop cycles: Khareef aur Rabee'], wherein rice and cotton are summer crops while wheat is the most crucial winter crop."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 25-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "کپاس کو ملکی ٹیکسٹائل صنعت کے لیے 'سفید سونا' مانا جاتا ہے، جس کی فی ایکڑ پیداوار میں بہتری ملکی برآمدات میں اربوں ڈالر کا اضافہ کر سکتی ہے۔",
+          "reading": "Kapaas ko mulki textile san'at ke liye 'sufaid sona' maana jaata hai, jis ki fee-aikar paydaawaar mein behtari mulki baraamdaat mein arabon dollar ka ezaafa kar sakti hai. [kəpaːs koː mʊlkiː ʈɛkstaːʔɪl sənʔət̪ keː lɪjeː sʊfɛːd̪ soːnaː maːnaː dʒaːt̪aː hɛː dʒɪs kiː fiː-ɛːkəɽ pɛːd̪aːʋaːr mẽː bɛht̪əriː mʊlkiː bəraːmd̪aːt̪ mẽː ərbõː ɖɔːlər kaː ɪzaːfaː kər səkt̪iː hɛː] (kuh-PAHS koh mool-KEE textile suhn-UHT kay lee-AY soo-FYD SOH-nah MAH-nah jah-TAH HY, JEES kee fee-AY-kuhr py-dah-VAHR mayn byh-tuh-REE mool-KEE buh-rahm-DAHT mayn uhr-BOHN dollar kah ee-ZAH-fah kuhr suhk-TEE HY)",
+          "translation": "Cotton is considered 'white gold' for the country's textile industry, whose improved yield per acre can add billions of dollars to exports."
+        },
+        {
+          "target": "بڑھتی ہوئی آبادی کی غذائی ضروریات پوری کرنے کے لیے بیجوں کی اعلیٰ اقسام کی تحقیق اور فوڈ سیکیورٹی کی جامع حکمتِ عملی وقت کی اولین پکار ہے۔",
+          "reading": "Barhti hui aabaadi ki ghizaa'i zarooriyaat poori karnay ke liye beejon ki a'la aqsaam ki tehqeeq aur food security ki jaam'e hikmat-e-amali waqt ki awwaleen pukaar hai. [bəɽʱt̪iː hʊʔiː aːbaːd̪iː kiː ɣɪzaːʔiː zəruːrɪjaːt̪ puːriː kərneː keː lɪjeː biːdʒõː kiː aːʔlaː əqsaːm kiː t̪ɛhqiːq ɔːr fuːɖ sɪkjʊːrɪʈiː kiː dʒaːmɪʔ hɪkmət̪-eː-əməliː ʋəqt̪ kiː əʋːəliːn pʊkaːr hɛː] (buhrh-TEE hoo-EE ah-bah-DEE kee ghee-zah-EE zuh-roo-ree-YAHT POO-ree kuhr-NAY kay lee-AY bee-JOHN kee AHH-lah uhq-SAHM kee tyh-QEEQ owr food security kee JAH-meh heek-muht-ay-uh-muh-LEE VUHKT kee uhw-wuh-LEEN poo-KAHR HY)",
+          "translation": "To fulfill the nutritional needs of the growing population, research into high-yield seed varieties and a comprehensive food security strategy [food security: ghizaa'i tahaffuz] is the primary call of the hour."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "زرعی سائیکل: خریف (گرما: کپاس و چاول) + ربیع (سرما: گندم) + سفید سونا + غذائی تحفظ!"
+      ],
+      "culturalNotes": [
+        "پنجاب اور سندھ میں گندم کی کٹائی کے وقت بیساکھی کا روایتی جشن کسانوں کی سال بھر کی محنت اور خوشحالی کی علامت ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"پستہ\":",
+          "prompt": "موسمِ سرما میں کاشت کی جانے والی زرعی فصلوں (جیسے گندم اور سرسوں) کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («تیز» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («آہستہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («نیا» کی خرابی)"
+            "ربیع کی فصلیں (Rabi crops - Winter sown crops like wheat, barley, and mustard)",
+            "خریف کی فصلیں (گرما)",
+            "صرف باغبانی",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "موسم سرما کی فصلوں کو «ربیع کی فصلیں» (Rabi crops) کہا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"پستہ\":",
+          "prompt": "ملک کے تمام شہریوں کو سستی اور غذائیت سے بھرپور خوراک کی مسلسل دستیابی کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («آہستہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («نیا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («تیز» کا غیر درست استعمال)"
+            "غذائی تحفظ / فوڈ سیکیورٹی (Food Security - Constant access to sufficient, safe, and nutritious food)",
+            "صرف راشن کارڈ",
+            "ہوٹلنگ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "خوراک کی یقینی فراہمی کو «غذائی تحفظ» (Food Security) کہتے ہیں۔"
         }
       ]
     },
@@ -10595,17 +10634,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"پستہ\": Which sentence is completely correct?",
+          "prompt": "زرعی سیزن اور غذائی تحفظ (Crop Cycles & Food Security) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («نیا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («تیز» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («آہستہ» سے متعلق)"
+            "ربیع اور خریف کی فصلوں کی بروقت کاشت، جدید بیجوں کا استعمال اور زرعی تحقیق ملک کے غذائی تحفظ اور معاشی خودمختاری کے بنیادی ستون ہیں۔ (Timely sowing of Rabi and Kharif crops, use of certified seeds, and agronomic research are foundational pillars of national food security.)",
+            "گندم نے چاول کو کھایا تھا اور رویا تھا۔",
+            "کپاس صرف سردیوں میں کھائی جانے والی مٹھائی ہے۔",
+            "غذائی تحفظ کا تعلق زراعت سے نہیں ہوتا۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ربیع اور خریف کی فصلوں کی بروقت کاشت، جدید بیجوں کا استعمال اور زرعی تحقیق ملک کے غذائی تحفظ اور معاشی خودمختاری کے بنیادی ستون ہیں۔» زرعی معاشیات کا مستند جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u25-l5": {
@@ -10613,9 +10653,91 @@
     "subject": "urdu",
     "unit": 25,
     "lessonNumber": 5,
-    "title": "ماحولیات، وادی سندھ کی زراعت اور آبی وسائل (Ecology) (Part 5)",
+    "title": "ماحولیات، زراعت اور آبی وسائل کا جامع سمیکن (Ecology & Agriculture Grand Synthesis)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 25.5) with authentic precision.",
+    "objective": "دریائے سندھ کے طاس، نہری آبپاشی، موسمیاتی سموگ، اور ربیع و خریف کے زرعی چکر کو ایک پائیدار ماحولیاتی بیانیے میں یکجا کرنا۔",
+    "presentation": {
+      "explanation": "ماحولیات، زراعت اور آبی وسائل کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **ماحولیاتی و زرعی نظام کا جامع فکری ڈھانچہ**:\n   - **آبیات و گلیشیئرز**: «ہمالیائی گلیشیئرز، انڈس بیسن اور ڈیموں کا اسٹریٹجک کردار»؛\n   - **نہری آبپاشی و مٹی کی حفاظت**: «سیم و تھور کا سدِ باب اور قطرہ قطرہ آبپاشی»؛\n   - **موسمیاتی چیلنجز**: «سموگ کا تدارک، کاربن کا اخراج اور ملک گیر شجرکاری»؛\n   - **زرعی پیداوار و خوراک**: «ربیع و خریف کی فصلیں اور قومی غذائی تحفظ»۔\n\n2. **قومی بقا اور ادبی فصاحت**:\n   - یہ زبان اردو کے ماحولیاتی وائٹ پیپرز، سائنسی جرائد اور زرعی پالیسی سازی کا نقطۂ عروج ہے۔*",
+      "examples": [
+        {
+          "target": "وادیِ سندھ کی زرعی بقا اور ماحولیاتی توازن کا دارومدار ہمالیائی گلیشیئرز کے تحفظ، جدید نہری انتظام، شجرکاری کے فروغ اور ربیع و خریف کی فصلوں کی پائیدار پیداوار پر مبنی مربوط قومی پالیسی پر ہے۔",
+          "reading": "Waadi-e-Sindh ki zar'ee baqa aur mawsimiati tawaazun ka daar-o-madaar Himaalayi glaciers ke tahaffuz, jadeed nehri intezaam, shajar-kaari ke farogh aur Rabee'-o-Khareef ki faslon ki paa'aydaar paydaawaar par mabni marboot qawmi policy par hai. [ʋaːd̪iː-eː-sɪnd̪ʱ kiː zərʔiː bəqaː ɔːr mɔːsɪmɪjaːt̪iː t̪əʋaːzʊn kaː d̪aːr-oː-mədaːr hɪmaːləjiː ɡleːʃɪjərz keː t̪əɦəfːʊz dʒəd̪iːd̪ nɛɦriː ɪnt̪ɪzaːm ʃədʒər-kaːriː keː fəroːɣ ɔːr rəbiːʔ-oː-xəriːf kiː fəslõː kiː paːʔeːd̪aːr pɛːd̪aːʋaːr pər məbniː mərbuːt̪ qɔːmiː pɔːlɪsiː pər hɛː] (vah-DEE-ay-SEENDH kee zuhr-EE buh-QAH owr mow-see-mee-AH-tee tuh-wah-ZOON kah dah-roh-muh-DAHR hee-mah-luh-YEE glaciers kay tuh-huhf-FOOZ, juh-DEED nyh-REE een-tee-ZAHM, shuh-juhr-kah-REE kay fuh-ROHGH owr ruh-BEE-oh-khuh-REEF kee fuhs-LOHN kee pah-ay-DAHR py-dah-VAHR puhr muhb-NEE muhr-BOOT QOW-mee policy puhr HY)",
+          "translation": "The agricultural survival and ecological balance of the Indus Valley depend upon an integrated national policy based on Himalayan glacier conservation, modern canal management, afforestation, and sustainable crop production in Rabi and Kharif [ecological synthesis]."
+        },
+        {
+          "target": "موسمیاتی تبدیلیوں اور سموگ کے اثرات سے نمٹنے کے لیے پانی کے دانشمندانہ استعمال، جنگلات کے رقبے میں اضافے اور شفاف ماحولیاتی قوانین پر سختی سے عمل درآمد ناگزیر ہو چکا ہے۔",
+          "reading": "Mawsimiati tabdeelion aur smog ke asraat se nipatnay ke liye paani ke daanishmandana istemaal, janglaat ke raqbay mein ezaafay aur shaffaaf mawsimiati qawaaneen par sakhti se amal-daramad naa-guzeer ho chuka hai. [mɔːsɪmɪjaːt̪iː t̪əbd̪iːlɪjõː ɔːr smoːɡ keː əsraːt̪ seː nɪpəʈneː keː lɪjeː paːniː keː d̪aːnɪʃmənd̪aːnaː ɪst̪ɪmaːl dʒəŋɡlaːt̪ keː rəqbeː mẽː ɪzaːfeː ɔːr ʃəfːaːf mɔːsɪmɪjaːt̪iː qəʋaːniːn pər səxtiː seː əməl-d̪əraːməd̪ naː-ɡʊziːr hoː tʃʊkaː hɛː] (mow-see-mee-AH-tee tuhb-dee-lee-YOHN owr smog kay uhs-RAHT say nee-puht-NAY kay lee-AY pah-NEE kay dah-neesh-muhn-DAH-nah ees-tee-MAHL, juhn-glah-AHT kay ruhq-BAY mayn ee-ZAH-fay owr shuhf-FAHF mow-see-mee-AH-tee quh-wah-NEEN puhr suhkh-TEE say uh-muhl-duh-RAH-muhd nah-goo-ZEER hoh choo-KAH HY)",
+          "translation": "To tackle the effects of climate change and smog, judicious use of water, increase in forest area, and strict enforcement of transparent environmental laws have become indispensable."
+        },
+        {
+          "target": "زرعی سائنسدانوں اور ماہرینِ ماحولیات کے اشتراک سے تیار کردہ سبز انقلاب ہی پاکستان کو مستقبل میں پانی کے بحران اور غذائی عدم تحفظ سے ہمیشہ کے لیے محفوظ رکھ سکتا ہے۔",
+          "reading": "Zar'ee scientists aur maahireen-e-maahowliyaat ke ishtiraak se tayyaar-karda sabz inqilaab hi Pakistan ko mustaqbil mein paani ke buhraan aur ghizaa'i adam-tahaffuz se hamesha ke liye mehfooz rakh sakta hai. [zərʔiː saːʔɪntɪsʈs ɔːr maːhɪriːn-eː-maːɦɔːlɪjaːt̪ keː ɪʃt̪ɪraːk seː t̪ɛjːaːr-kərd̪aː səbz ɪnqɪlaːb hiː paːkɪst̪aːn koː mʊst̪əqbɪl mẽː paːniː keː bʊhraːn ɔːr ɣɪzaːʔiː əd̪əm-t̪əɦəfːʊz seː həm-eːʃaː keː lɪjeː mɛhfuːz rəkʰ səkt̪aː hɛː] (zuhr-EE scientists owr mah-hee-REEN-ay-mah-how-lee-YAHT kay eesh-tee-RAHK say tuhy-YAHR-kuhr-dah SUHBZ een-qee-LAHB HEE pah-kees-TAHN koh moos-tuhq-BEEL mayn pah-NEE kay booh-RAHN owr ghee-zah-EE uh-duhm-tuh-huhf-FOOZ say huh-MAY-shah kay lee-AY myh-FOOZ ruhkh suhk-TAH HY)",
+          "translation": "A green revolution prepared through the collaboration of agricultural scientists and ecologists alone can safeguard Pakistan permanently from future water crises and food insecurity."
+        }
+      ],
+      "mnemonics": [
+        "جامع ماحولیاتی سمیکن: انڈس بیسن (گلیشیئرز) + نہری نظام (سیم و تھور) + سموگ و شجرکاری (ماحول) + خریف و ربیع (غذائی تحفظ)!"
+      ],
+      "culturalNotes": [
+        "وادیِ سندھ کی بقا کا راز صدیوں سے پانی، مٹی اور درختوں کے احترام پر مبنی رہا ہے اور یہی ماحولیاتی حکمتِ عملی جدید پاکستان کا روشن مستقبل ہے۔"
+      ]
+    },
+    "guidedPractice": {
+      "items": [
+        {
+          "prompt": "ماحولیات، وادیِ سندھ کی زراعت اور آبی وسائل کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
+          "options": [
+            "انڈس بیسن، گلیشیئرز، نہری نظام، سیم و تھور کا تدارک، شجرکاری اور غذائی تحفظ کا مربوط مطالعہ (Masterful synthesis of Indus basin, glaciers, canal drainage, anti-smog afforestation, and food security)",
+            "ہم نے کھیت میں بیٹھ کر چائے پی تھی اور رویا تھا (بے ربط الفاظ)",
+            "وہ صرف درختوں کے پتے گنتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
+          ],
+          "answerIndex": 0,
+          "explanation": "«انڈس بیسن، گلیشیئرز، نہری نظام، سیم و تھور کا تدارک، شجرکاری اور غذائی تحفظ کا مربوط مطالعہ» تمام ماحولیاتی و زرعی اسالیب کا کامل سمیکن ہے۔"
+        }
+      ]
+    },
+    "independentPractice": {
+      "items": [
+        {
+          "prompt": "ماحولیاتی توازن اور جدید زرعی انتظام کا جامع سمیکن معاشرے کو کیا تحفظ فراہم کرتا ہے؟",
+          "options": [
+            "آبی وسائل کی بقا، سموگ و آلودگی کا خاتمہ، اور پائیدار زرعی پیداوار کے ذریعے خودکفالت (Preserving water resources, eradicating smog, and securing self-reliance via sustainable agriculture)",
+            "صرف خشک سالی کا انتظار کرنا (بے فائدہ مشق)",
+            "صرف ٹیوب ویل کے پمپ کی تصاویر جمع کرنا (محدود دائرہ)",
+            "جنگلات کی کٹائی کی حمایت کرنا (ماحولیاتی تباہی)"
+          ],
+          "answerIndex": 0,
+          "explanation": "یہ آبی بقا، سموگ کا خاتمہ اور پائیدار زرعی پیداوار کے ذریعے خودکفالت فراہم کرتا ہے۔"
+        }
+      ]
+    },
+    "checkpointTest": {
+      "items": [
+        {
+          "type": "multiple-choice",
+          "prompt": "ماحولیات، زراعت اور آبی وسائل کے جامع سمیکن (Ecology & Agriculture Grand Synthesis) کا شاہکار جملہ پہچانیے:",
+          "options": [
+            "وادیِ سندھ کی زرعی بقا اور ماحولیاتی تحفظ کا انحصار ہمالیائی گلیشیئرز کی نگہداشت، نہری نظام کے سائنسی انتظام، سموگ کے تدارک کے لیے شجرکاری اور ربیع و خریف کے غذائی تحفظ پر ہے۔ (The agricultural survival of Indus Valley rests upon glacier stewardship, scientific canal management, anti-smog afforestation, and Rabi-Kharif food security.)",
+            "کسان نے گلیشیئر کو ہانڈی میں پکا کر گاڑی پر ڈالا تھا رویا تھا۔",
+            "جامع سمیکن صرف پرانی نہر کے پل کو کہتے ہیں۔",
+            "پانی اور خوراک کے تحفظ کا آپس میں کوئی تعلق نہیں۔"
+          ],
+          "answerIndex": 0,
+          "explanation": "«وادیِ سندھ کی زرعی بقا اور ماحولیاتی تحفظ کا انحصار ہمالیائی گلیشیئرز کی نگہداشت، نہری نظام کے سائنسی انتظام، سموگ کے تدارک کے لیے شجرکاری اور ربیع و خریف کے غذائی تحفظ پر ہے۔» ماحولیاتی اور زرعی سمیکن کا کامل ترین شاہکار ہے۔"
+        }
+      ],
+      "passThreshold": 0.8
+    }
+  },
+  "ur-u26-l1": {
+    "id": "ur-u26-l1",
+    "subject": "urdu",
+    "unit": 26,
+    "lessonNumber": 1,
+    "title": "اردو افسانہ، ناول اور نثری شاہکار (Urdu Fiction) (Part 1)",
+    "level": "C1",
+    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 26.1) with authentic precision.",
     "presentation": {
       "explanation": "",
       "examples": [
@@ -10625,7 +10747,7 @@
           "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 25-5)۔",
+          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 26-1)۔",
           "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
