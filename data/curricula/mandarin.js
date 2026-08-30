@@ -16899,85 +16899,89 @@
     "subject": "mandarin",
     "unit": 29,
     "lessonNumber": 1,
-    "title": "科技创新与学术话语 (Science, Tech & Academic Discourse) (第1讲)",
+    "title": "学术论文结构规范：引言、文献综述、问题提出与研究假说 (Academic Paper Structure: Intro, Literature Review, Problem Formulation & Hypotheses)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：前沿科研成果、学术论文摘要与引言撰写、理论模型构建与实证论证。 (第1部分)。",
+    "objective": "系统掌握现代学术论文规范结构（IMRAD模式）、文献综述高阶学术句式（既有研究梳理/学术空白识别）、理论模型构建与研究假说（H1/H2）推演表述范式。",
     "presentation": {
-      "explanation": "",
+      "explanation": "现代学术论文与科学研究报告要求高度严谨、客观、逻辑严密的学术书面语体（IMRAD标准规范架构）：\n\n一、学术论文标准骨架架构：\n1.【标题（Title）与摘要（Abstract）】：高度概括研究背景、核心方法、关键发现与理论/实践贡献。\n2.【引言（Introduction）】：从宏观现实背景或理论争议切入，引出核心研究问题（Research Question）。\n3.【文献综述（Literature Review）】：系统梳理国内外学术前沿脉络，精准识别当前学界尚未解决的「理论空白」（Research Gap）。\n4.【假说推演（Hypothesis Development）】：基于既有理论（如资源基础观、制度理论、交易成本理论）进行逻辑推导，提出可验证的研究假说（如H1、H2）。\n\n二、高阶学术引言与综述经典论述句式：\n1.【综述既有研究与指出局限】：\n-「综观国内外既有文献，学界关于……的探讨多聚焦于静态特征，鲜有学者系统揭示其动态演化机制。」\n2.【阐明研究目的与填补空白】：\n-「有鉴于此，本文立足……理论视角，旨在构建多维整合模型，以期填补该领域的实证空白。」\n3.【提出研究假说】：\n-「基于上述理论逻辑推演，本文提出如下核心假说：数字化转型水平与企业创新绩效呈显著正相关关系。」",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「科技创新与学术话语 (Science, Tech & Academic Discourse)」的核心语法法则与应用范例 (29.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '科技创新与学术话语 (Science, Tech & Academic Discourse)' in simple terms to students at the academic seminar."
+          "target": "综观既有文献，学界关于该领域的实证探讨多集中于静态描述，鲜有研究系统揭示其内在动力学机制。(Zōngguān jìyǒu wénxiàn, xuéjiè guānyú gāi lǐngyù de shízhèng tàntǎo duō jízhōng yú jìngtài miáoshù, xiǎnyǒu yánjiū xìtǒng jiēshì qí nèizài dònglìxué jīzhì.)",
+          "reading": "[t͡sʊŋ˥.kwan˥ t͡ɕi˥˩.joʊ̯˨˩˦ wən˧˥.ɕjɛn˥˩, ɕɥɛ˧˥.t͡ɕjɛ˥˩ kwaŋ˥.y˧˥ kaɪ̯˥ liŋ˨˩.y˥˩ tɤ ʂɨ˧˥.ʈ͡ʂəŋ˥˩ tʰan˥˩.tʰaʊ̯˨˩˦ twɔ˥ t͡ɕi˧˥.ʈ͡ʂʊŋ˥ y˨˩˦ t͡ɕiŋ˥˩.tʰaɪ̯˥˩ mjaʊ̯˧˥.ʂu˥˩, ɕjan˨˩˦.joʊ̯˨˩˦ jan˧˥.t͡ɕjoʊ̯˥ ɕi˥˩.tʰʊŋ˨˩˦ t͡ɕjɛ˥.ʂɨ˥˩ t͡ɕʰi˧˥ neɪ̯˥˩.t͡saɪ̯˥˩ tʊŋ˥˩.li˥˩.ɕɥɛ˧˥ t͡ɕi˥.ʈ͡ʂɨ˥] (Zōng-guān jì-yǒu wén-xiàn, xué-jiè guān-yú gāi lǐng-yù de shí-zhèng tàn-tǎo duō jí-zhōng yú jìng-tài miáo-shù, xiǎn-yǒu yán-jiū xì-tǒng jiē-shì qí nèi-zài dòng-lì-xué jī-zhì.)",
+          "translation": "Taking a comprehensive view of existing literature, empirical exploration in academia on this field mostly concentrates on static descriptions, with few studies systematically revealing its internal dynamical mechanism."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (29.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "有鉴于此，本研究立足跨学科理论视角，旨在构建全新解释模型以填补当前学术界的理论空白。(Yǒu jiàn yú cǐ, běn yánjiū lìzú kuà-xuékē lǐlùn shìjiǎo, zhìzài gòujiàn quánxīn jiěshì móxíng yǐ tiánbǔ dāngqián xuéshùjiè de lǐlùn kòngbái.)",
+          "reading": "[joʊ̯˨˩˦ t͡ɕjɛn˥˩ y˨˩˦ t͡sʰɨ˨˩˦, pən˨˩˦ jan˧˥.t͡ɕjoʊ̯˥ li˥˩.t͡su˧˥ kʰwa˥˩-ɕɥɛ˧˥.kʰɤ˥ li˨˩.lwən˥˩ ʂɨ˥˩.t͡ɕjaʊ̯˨˩˦, ʈ͡ʂɨ˥˩.t͡saɪ̯˥˩ koʊ̯˥˩.t͡ɕjɛn˥˩ t͡ɕʰɥan˧˥.ɕin˥ t͡ɕjɛ˨˩.ʂɨ˥˩ mwo˧˥.ɕiŋ˧˥ i˨˩˦ tʰjɛn˧˥.pu˨˩˦ tɑŋ˥.t͡ɕʰjɛn˧˥ ɕɥɛ˧˥.ʂu˥˩.t͡ɕjɛ˥˩ tɤ li˨˩.lwən˥˩ kʰʊŋ˥.paɪ̯˧˥] (Yǒu jiàn yú cǐ, běn yán-jiū lì-zú kuà-xué-kē lǐ-lùn shì-jiǎo, zhì-zài gòu-jiàn quán-xīn jiě-shì mó-xíng yǐ tián-bǔ dāng-qián xué-shù-jiè de lǐ-lùn kòng-bái.)",
+          "translation": "In view of this, this study is grounded in an interdisciplinary theoretical perspective, aiming to construct a brand-new explanatory model to fill the theoretical gap in current academia."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (29.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "基于资源基础观与动态能力理论，本文提出核心研究假说：数字化转型程度与企业创新绩效呈显著正相关。(Jīyú zīyuán jīchǔ guān yǔ dòngtài nénglì lǐlùn, běnwén tíchū héxīn yánjiū jiǎshuō: shùzìhuà zhuǎnxíng chéngdù yǔ qǐyè chuàngxīn jìxiào chéng xiǎnzhù zhèng xiāngguān.)",
+          "reading": "[t͡ɕi˥.y˧˥ t͡sɨ˥.yɥɛn˧˥ t͡ɕi˥.ʈ͡ʂʰu˨˩˦ kwan˥ y˨˩˦ tʊŋ˥˩.tʰaɪ̯˥˩ nəŋ˧˥.li˥˩ li˨˩.lwən˥˩, pən˨˩˦.wən˧˥ tʰi˧˥.t͡ʂʰu˥ xɤ˧˥.ɕin˥ jan˧˥.t͡ɕjoʊ̯˥ t͡ɕja˨˩.ʂwɔ˥: ʂu˥˩.t͡sɨ˥˩.xwa˥˩ ʈ͡ʂwan˨˩.ɕiŋ˧˥ ʈ͡ʂʰəŋ˧˥.tu˥˩ y˨˩˦ t͡ɕʰi˨˩.jɛ˥˩ t͡ʂʰwaŋ˥˩.ɕin˥ t͡ɕi˥˩.ɕjaʊ̯˥˩ ʈ͡ʂʰəŋ˧˥ ɕjan˨˩˦.ʈ͡ʂu˥˩ ʈ͡ʂəŋ˥˩ ɕjaŋ˥.kwan˥] (Jī-yú zī-yuán jī-chǔ guān yǔ dòng-tài néng-lì lǐ-lùn, běn-wén tí-chū hé-xīn yán-jiū jiǎ-shuō: shù-zì-huà zhuǎn-xíng chéng-dù yǔ qǐ-yè chuàng-xīn jì-xiào chéng xiǎn-zhù zhèng xiāng-guān.)",
+          "translation": "Based on the resource-based view and dynamic capabilities theory, this paper advances the core research hypothesis: the degree of digital transformation is significantly and positively correlated with enterprise innovation performance."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (29.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "本文通过严密的文献梳理与逻辑推演，清晰界定了核心概念的内涵边界与操作化定义。(Běnwén tōngguò yánmì de wénxiàn shūlǐ yǔ luójí tuīyǎn, qīngxī jièdìng le héxīn gàiniàn de nèihán biānjiè yǔ cāozuòhuà dìngyì.)",
+          "reading": "[pən˨˩˦.wən˧˥ tʰʊŋ˥.kwɔ˥˩ jan˧˥.mi˥˩ tɤ wən˧˥.ɕjɛn˥˩ ʂu˥.li˨˩˦ y˨˩˦ lwɔ˧˥.t͡ɕi˧˥ tʰweɪ̯˥.jan˨˩˦, t͡ɕʰiŋ˥.ɕi˥ t͡ɕjɛ˥˩.tiŋ˥˩ lɤ xɤ˧˥.ɕin˥ kaɪ̯˥˩.njɛn˥˩ tɤ neɪ̯˥˩.xan˧˥ pjɛn˥.t͡ɕjɛ˥˩ y˨˩˦ t͡sʰaʊ̯˥.t͡swɔ˥˩.xwa˥˩ tiŋ˥˩.i˥˩] (Běn-wén tōng-guò yán-mì de wén-xiàn shū-lǐ yǔ luó-jí tuī-yǎn, qīng-xī jiè-dìng le hé-xīn gài-niàn de nèi-hán biān-jiè yǔ cāo-zuò-huà dìng-yì.)",
+          "translation": "Through rigorous literature collation and logical deduction, this paper clearly demarcates the connotation boundaries and operational definitions of core concepts."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "引言综述提问题，理论框架立假设；内涵边界界定清，学术规范步步设！"
+      ],
+      "culturalNotes": [
+        "在学术汉语中，「综观既有文献」、「有鉴于此」、「基于……理论视角」、「呈显著正相关」等是高度规范化的专业学术语料，彰显严谨客观的科学态度。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「科技创新与学术话语 (Science, Tech & Academic Discourse)」（第1讲）的标准汉语规范？",
+          "prompt": "在撰写学术论文引言与文献综述时，用来指出前人研究不足、引出本研究必要性的标准学术表达是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「科技创新与学术话语 (Science, Tech & Academic Discourse)」的核心语法法则与应用范例 (29.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (29.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (29.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (29.1.w3)"
+            "综观既有研究，学者们多关注……，然而鲜有文献探讨…… (Reviewing existing studies... yet few have investigated...)",
+            "以前的研究全都是错的只有我是对的",
+            "大家随便写写，我也跟着随便写写",
+            "谁也不知道以前的人写了什么"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "首选选项是学术界最严谨、最客观的文献综述与识别研究空白（Research Gap）的标准范式。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "学术论文中用来表示两个核心研究变量之间存在统计学上确切正向联系的标准学术术语是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "呈显著正相关 (Be significantly positively correlated)",
+            "关系好像还行",
+            "大概差不多有一点关系",
+            "反正挺好的"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「呈显著正/负相关」是定量实证研究中描述变量关联的标准统计学规范表述。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「科技创新与学术话语 (Science, Tech & Academic Discourse)」的正式语境下，最准确得体的表达是哪一项？（第29.1题）",
+          "prompt": "学术论文在正式开展实证测量前，将抽象理论概念转化为可具体观察测量的变量指标的过程被称为：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (29.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (29.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (29.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (29.1.x3)"
+            "操作化定义 (Operational definition)",
+            "胡思乱想",
+            "望文生义",
+            "断章取义"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「操作化定义」是将抽象构念转化为具体可测量的变量维度的关键学术步骤。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u29-l1）所要求的高阶语言表达？",
+          "prompt": "学术论文中用于连接上下文、表达「鉴于前述理论分析而提出针对性研究构想」的高阶书面衔接词是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (29.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (29.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (29.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (29.1.y3)"
+            "有鉴于此 (In view of this / In light of the above)",
+            "话说回来",
+            "不管三七二十一",
+            "总而言之言而总之"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「有鉴于此」是极具学术权威感与逻辑承转力的高级书面语关联词。"
         }
       ]
     },
@@ -16985,25 +16989,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「科技创新与学术话语 (Science, Tech & Academic Discourse)」的掌握程度，请选出表述完全正确的标准范句（测试 29-1）：",
+          "prompt": "请选出下列学术论文引言与假说推导语段中语体最规范、逻辑最严密的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (29.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (29.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (29.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (29.1.z3)"
+            "综观既有文献，学界关于数字化转型的探讨多集中于宏观经济效应，鲜有研究深入微观企业组织层面剖析其内在作用机制。有鉴于此，本文立足动态能力理论，构建了多维整合分析框架。基于严密的理论推演，本文提出核心假设：企业数字化转型程度与创新绩效呈显著正相关，且组织敏捷度在其中发挥显著中介效应！(文献梳理规范、学术空白识别精准、承转自然、假说推演逻辑严密，学术汉语典范)",
+            "大家都在说数字化转型，我也觉得挺重要的，所以我就写了这篇文章来看看能不能赚钱。(语言极度口语化且毫无学术规范)",
+            "数字化转型被呈显著正相关在有鉴于此中介效应。(词语乱序破碎堆砌)",
+            "由于数字化转型非常好，所以所有企业都不需要做任何研究直接成功。(缺乏学术严谨性且逻辑绝对化)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段完整展现了现代学术论文引言综述、问题提出、理论依托与假说构建的标准语体，词严义正。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u29-l1）的核心关键词（例如「科技创新」）：",
+          "prompt": "请输入学术论文中用来表示针对既有事实或文献局限引出本研究对策的核心四字书面过渡词（例如「，本研究旨在……」；拼音为 yǒu jiàn yú cǐ）：",
           "acceptedAnswers": [
-            "科技创新",
-            "科技创新与学",
-            "科技创新与学术话语"
+            "有鉴于此"
           ],
-          "explanation": "正确的核心关键词为「科技创新」。"
+          "explanation": "词语「有鉴于此」是学术论文与高阶公文中极高频使用的承上启下逻辑过渡词。"
         }
       ],
       "passThreshold": 0.8
@@ -17014,85 +17016,89 @@
     "subject": "mandarin",
     "unit": 29,
     "lessonNumber": 2,
-    "title": "科技创新与学术话语 (Science, Tech & Academic Discourse) (第2讲)",
+    "title": "实证研究方法论：定性定量混合研究、变量操作化与样本抽样 (Empirical Methodology: Qualitative/Quantitative Methods, Operationalization & Sampling)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：前沿科研成果、学术论文摘要与引言撰写、理论模型构建与实证论证。 (第2部分)。",
+    "objective": "系统掌握现代科学实证方法论（定量大样本与定性质性编码、变量操作化体系、信度效度统计检验、分层随机抽样与内生性控制）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "科学实证研究强调以事实与数据为依据，遵循严密的实证方法论与因果推断范式：\n\n一、实证研究方法两大阵营与混合范式：\n1.【定量研究（Quantitative Research）】：\n- 问卷调查、大样本面板数据（Panel Data）、计量回归模型。强调统计显著性、可推广性与因果效应检验。\n2.【定性研究（Qualitative Research）】：\n- 深度访谈、多案例扎根理论（Grounded Theory）三级编码（开放式编码、主轴编码、选择性编码），直至达到「理论饱和度」（Theoretical Saturation）。\n3.【混合研究方法（Mixed Methods）】：结合定性与定量，实现「三角互证」（Triangulation），增强研究结论的内在与外在效度。\n\n二、变量体系与统计测量检验：\n1. 变量体系：自变量（X）、因变量（Y）、中介变量（Mediator，M）、调节变量（Moderator，W）、控制变量（CV）。\n2. 测量量表与信效度：\n- 李克特量表（Likert Scale）。\n- 信度检验（Reliability）：克隆巴赫Alpha系数（Cronbach's α > 0.7）。\n- 效度检验（Validity）：收敛效度（AVE）与区别效度。\n\n三、抽样设计与偏差防范：\n- 分层随机抽样（Stratified Random Sampling）、控制内生性偏误（Endogeneity）、克服幸存者偏差（Survivorship Bias）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「科技创新与学术话语 (Science, Tech & Academic Discourse)」的核心语法法则与应用范例 (29.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '科技创新与学术话语 (Science, Tech & Academic Discourse)' in simple terms to students at the academic seminar."
+          "target": "本研究采用定量问卷调查与深度质性访谈相结合的混合研究方法，以确保实证结论的三角互证与生态效度。(Běn yánjiū cǎiyòng dìngliàng wènjuàn diàochá yǔ shēndù zhìxìng fǎngtán xiāng jiéhé de hùnhé yánjiū fāngfǎ, yǐ quèbǎo shízhèng jiélùn de sānjiǎo-hùzhèng yǔ shēngtài xiàodù.)",
+          "reading": "[pən˨˩˦ jan˧˥.t͡ɕjoʊ̯˥ t͡sʰaɪ̯˨˩.jʊŋ˥˩ tiŋ˥˩.ljaŋ˥˩ wən˥˩.t͡ɕɥan˥˩ tjaʊ̯˥.t͡ʂʰa˥ y˨˩˦ ʂən˥.tu˥˩ ʈ͡ʂɨ˥˩.ɕiŋ˥˩ fɑŋ˨˩.tʰan˧˥ ɕjaŋ˥ t͡ɕjɛ˧˥.xɤ˧˥ tɤ xwn˥˩.xɤ˧˥ jan˧˥.t͡ɕjoʊ̯˥ fɑŋ˥.fa˨˩˦, i˨˩˦ t͡ɕʰɥɛ˥.paʊ̯˨˩˦ ʂɨ˧˥.ʈ͡ʂəŋ˥˩ t͡ɕjɛ˧˥.lwən˥˩ tɤ san˥.t͡ɕjaʊ̯˨˩˦-xu˥˩.ʈ͡ʂəŋ˥˩ y˨˩˦ ʂəŋ˥.tʰaɪ̯˥˩ ɕjaʊ̯˥˩.tu˥˩] (Běn yán-jiū cǎi-yòng dìng-liàng wèn-juàn diào-chá yǔ shēn-dù zhì-xìng fǎng-tán xiāng jié-hé de hùn-hé yán-jiū fāng-fǎ, yǐ què-bǎo shí-zhèng jié-lùn de sān-jiǎo-hù-zhèng yǔ shēng-tài xiào-dù.)",
+          "translation": "This study adopts a mixed-methods approach combining quantitative questionnaire surveys and in-depth qualitative interviews to ensure methodological triangulation and ecological validity of empirical conclusions."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (29.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "为确保测量工具的可靠性，本研究采用成熟的李克特五级量表，经预测试检验显示各潜变量信效度指标均达到统计学标准。(Wèi quèbǎo cèliáng gōngjù de kěkàoxìng, běn yánjiū cǎiyòng chéngshú de Lǐkètè wǔjí liàngbiǎo, jīng yùcèshì jiǎnyàn xiǎnshì gè qiánbiànliàng xìn-xiàodù zhǐbiāo jūn dádào tǒngjìxué biāozhǔn.)",
+          "reading": "[weɪ̯˥˩ t͡ɕʰɥɛ˥.paʊ̯˨˩˦ t͡sʰɤ˥˩.ljaŋ˧˥ kʊŋ˥.t͡ɕy˥˩ tɤ kʰɤ˨˩.kʰaʊ̯˥˩.ɕiŋ˥˩, pən˨˩˦ jan˧˥.t͡ɕjoʊ̯˥ t͡sʰaɪ̯˨˩.jʊŋ˥˩ ʈ͡ʂʰəŋ˧˥.ʂu˧˥ tɤ li˨˩.kʰɤ˥˩.tʰɤ˥˩ u˨˩˦.t͡ɕi˧˥ ljaŋ˥˩.pjaʊ̯˨˩˦, t͡ɕiŋ˥ y˥˩.t͡sʰɤ˥˩.ʂɨ˥˩ t͡ɕjɛn˨˩.jan˥˩ ɕjan˨˩˦.ʂɨ˥˩ kɤ˥˩ t͡ɕʰjɛn˧˥.pjɛn˥˩.ljaŋ˥˩ ɕin˥˩-ɕjaʊ̯˥˩.tu˥˩ ʈ͡ʂɨ˨˩.pjaʊ̯˥ t͡ɕyn˥ ta˧˥.taʊ̯˥˩ tʰʊŋ˨˩.t͡ɕi˥˩.ɕɥɛ˧˥ pjaʊ̯˥.ʈ͡ʂwn˨˩˦] (Wèi què-bǎo cè-liáng gōng-jù de kě-kào-xìng, běn yán-jiū cǎi-yòng chéng-shú de Lǐ-kè-tè wǔ-jí liàng-biǎo, jīng yù-cè-shì jiǎn-yàn xiǎn-shì gè qián-biàn-liàng xìn-xiào-dù zhǐ-biāo jūn dá-dào tǒng-jì-xué biāo-zhǔn.)",
+          "translation": "To ensure the reliability of measurement instruments, this study adopts mature 5-point Likert scales; pilot test verification indicates that reliability and validity indicators for all latent variables meet statistical criteria."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (29.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "本文选取多阶段分层随机抽样方案，在控制企业规模、行业属性等控制变量的基础上检验中介效应。(Běnwén xuǎnqǔ duō-jiēduàn fēncéng suíjī chōuyàng fāng'àn, zài kòngzhì qǐyè guīmó, hángyè shǔxìng děng kòngzhì biànliàng de jīchǔ shang jiǎnyàn zhōngjiè xiàoyìng.)",
+          "reading": "[pən˨˩˦.wən˧˥ ɕɥɛn˨˩˦.t͡ɕʰy˨˩˦ twɔ˥-t͡ɕjɛ˥.twan˥˩ fən˥.t͡sʰəŋ˧˥ sweɪ̯˧˥.t͡ɕi˥ t͡ʂʰoʊ̯˥.jaŋ˥˩ fɑŋ˥.an˥˩, t͡saɪ̯˥˩ kʰʊŋ˥˩.ʈ͡ʂɨ˥˩ t͡ɕʰi˨˩.jɛ˥˩ kweɪ̯˥.mwo˧˥, xɑŋ˧˥.jɛ˥˩ ʂu˨˩.ɕiŋ˥˩ təŋ˨˩˦ kʰʊŋ˥˩.ʈ͡ʂɨ˥˩ pjɛn˥˩.ljaŋ˥˩ tɤ t͡ɕi˥.ʈ͡ʂʰu˨˩˦ ʂɑŋ t͡ɕjɛn˨˩.jan˥˩ ʈ͡ʂʊŋ˥.t͡ɕjɛ˥˩ ɕjaʊ̯˥˩.iŋ˥˩] (Běn-wén xuǎn-qǔ duō-jiē-duàn fēn-céng suí-jī chōu-yàng fāng-'àn, zài kòng-zhì qǐ-yè guī-mó, háng-yè shǔ-xìng děng kòng-zhì biàn-liàng de jī-chǔ shang jiǎn-yàn zhōng-jiè xiào-yìng.)",
+          "translation": "This paper adopts a multi-stage stratified random sampling scheme to test the mediating effect while controlling for covariates such as enterprise size and industry attributes."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (29.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "扎根理论质性分析通过开放式编码、主轴编码与选择性编码，逐步提炼出核心范畴与理论饱和度。(Zhāgēn lǐlùn zhìxìng fēnxī tōngguò kāifàngshì biānmǎ, zhǔzhóu biānmǎ yǔ xuǎnzéxìng biānmǎ, zhúbù tíliàn chū héxīn fànchóu yǔ lǐlùn bǎohédù.)",
+          "reading": "[ʈ͡ʂa˥.kən˥ li˨˩.lwən˥˩ ʈ͡ʂɨ˥˩.ɕiŋ˥˩ fən˥.ɕi˥ tʰʊŋ˥.kwɔ˥˩ kʰaɪ̯˥.fɑŋ˥˩.ʂɨ˥˩ pjɛn˥.ma˨˩˦, ʈ͡ʂu˨˩.ʈ͡ʂoʊ̯˧˥ pjɛn˥.ma˨˩˦ y˨˩˦ ɕɥɛn˨˩˦.t͡sɤ˧˥.ɕiŋ˥˩ pjɛn˥.ma˨˩˦, ʈ͡ʂu˧˥.pu˥˩ tʰi˧˥.ljɛn˥˩ t͡ʂʰu˥ xɤ˧˥.ɕin˥ fan˥˩.t͡ʂʰoʊ̯˧˥ y˨˩˦ li˨˩.lwən˥˩ paʊ̯˨˩.xɤ˧˥.tu˥˩] (Zhā-gēn lǐ-lùn zhì-xìng fēn-xī tōng-guò kāi-fàng-shì biān-mǎ, zhǔ-zhóu biān-mǎ yǔ xuǎn-zé-xìng biān-mǎ, zhú-bù tí-liàn chū hé-xīn fàn-chóu yǔ lǐ-lùn bǎo-hé-dù.)",
+          "translation": "Qualitative analysis via Grounded Theory progressively distills core categories and achieves theoretical saturation through open coding, axial coding, and selective coding."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "定性定量混合研，自变因变中介连；信度效度量表测，分层抽样结论坚！"
+      ],
+      "culturalNotes": [
+        "扎根理论由格拉斯（Glaser）与斯特劳斯（Strauss）开创，是中国社科与管理学界开展深度案例质性研究最广泛认可的方法论典范。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「科技创新与学术话语 (Science, Tech & Academic Discourse)」（第2讲）的标准汉语规范？",
+          "prompt": "在实证研究设计中，结合定量数据与定性质性资料相互印证以提高结论稳健性的方法论被称为：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「科技创新与学术话语 (Science, Tech & Academic Discourse)」的核心语法法则与应用范例 (29.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (29.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (29.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (29.2.w3)"
+            "混合研究方法 / 三角互证 (Mixed-methods / Triangulation)",
+            "捕风捉影",
+            "闭门造车",
+            "自相矛盾"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「三角互证」（Triangulation）指运用多种数据源与研究方法相互校验，提升实证研究效度。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在扎根理论质性研究中，当新收集的访谈数据不再能提炼出新的理论概念与范畴时，表明研究达到了：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "理论饱和度 (Theoretical Saturation)",
+            "文字通胀",
+            "篇幅超标",
+            "作者疲劳"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「理论饱和度」是质性扎根理论抽样停止与范畴提炼完成的核心学术标准。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「科技创新与学术话语 (Science, Tech & Academic Discourse)」的正式语境下，最准确得体的表达是哪一项？（第29.2题）",
+          "prompt": "在调查问卷设计中，衡量量表测量结果内部一致性与稳定性的常用统计学指标是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (29.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (29.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (29.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (29.2.x3)"
+            "信度检验（如克隆巴赫Alpha系数）(Reliability test: Cronbach's Alpha)",
+            "字数统计",
+            "字体大小",
+            "排版行距"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "信度（Reliability）反映测量的稳定性与一致性，通常以Cronbach's α系数衡量。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u29-l2）所要求的高阶语言表达？",
+          "prompt": "在因果推断模型中，用来消除潜在混淆变量干扰、确保研究对象在各组间具有可比性的变量类型是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (29.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (29.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (29.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (29.2.y3)"
+            "控制变量 (Control variables / Covariates)",
+            "干扰杂音",
+            "无关赘词",
+            "无效样本"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "控制变量（Control variables）用于控制其他可能影响因变量的因素，确保因果估计的无偏性。"
         }
       ]
     },
@@ -17100,25 +17106,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「科技创新与学术话语 (Science, Tech & Academic Discourse)」的掌握程度，请选出表述完全正确的标准范句（测试 29-2）：",
+          "prompt": "请选出下列实证研究方法论阐述中术语最准确、方法流程最规范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (29.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (29.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (29.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (29.2.z3)"
+            "本研究遵循严密的科学实证范式：首先采用分层随机抽样获取大样本问卷数据，利用成熟李克特量表进行变量操作化；通过信度（Cronbach's α）与聚合效度检验确保测量稳健；进一步结合扎根理论三级编码开展多案例质性研究，实现定性定量三角互证，并在控制企业规模等控制变量下有效检验因果机制！(抽样、变量操作化、信效度统计检验、扎根理论编码与三角互证，实证方法论流程完美无瑕)",
+            "我们做研究就是随便找几个人聊聊天，然后自己编造几个数字写成论文。(语言极度违背科学道德与规范)",
+            "扎根理论被信度效度在自变量因变量三角互证。(概念乱拼毫无逻辑)",
+            "只要样本数量大，就完全不需要做任何信度和效度检验。(严重违反实证统计学基本原理)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段将定量测量信效度检验、抽样控制与质性扎根理论三角互证融会贯通，展现了极高的实证研究素养。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u29-l2）的核心关键词（例如「科技创新」）：",
+          "prompt": "请输入质性研究扎根理论中用来表示数据分析已无法产生新的理论范畴、标志抽样完成的核心五字术语（拼音为 lǐlùn bǎohédù）：",
           "acceptedAnswers": [
-            "科技创新",
-            "科技创新与学",
-            "科技创新与学术话语"
+            "理论饱和度"
           ],
-          "explanation": "正确的核心关键词为「科技创新」。"
+          "explanation": "术语「理论饱和度」是质性扎根理论研究停止继续采样与编码的决定性标准。"
         }
       ],
       "passThreshold": 0.8
@@ -17129,85 +17133,89 @@
     "subject": "mandarin",
     "unit": 29,
     "lessonNumber": 3,
-    "title": "科技创新与学术话语 (Science, Tech & Academic Discourse) (第3讲)",
+    "title": "前沿科技突破：人工智能大模型、量子计算与生命合成科学 (Cutting-Edge Tech: AI Large Models, Quantum Computing & Synthetic Biology)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：前沿科研成果、学术论文摘要与引言撰写、理论模型构建与实证论证。 (第3部分)。",
+    "objective": "系统掌握现代颠覆性前沿科技话语体系（生成式大语言模型涌现能力与具身智能、超导量子计算与量子优越性、合成生物学基因编辑与生命重塑）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "二十一世纪人类科技正在经历指数级爆发，前沿技术话语已成为现代高端学术与战略决策的核心语言：\n\n一、人工智能与通用大模型体系：\n1.【大语言模型（LLMs）核心范畴】：\n- 深度神经网络、多模态融合（文本/图像/音频/视频）、上下文学习（In-Context Learning）。\n-「能力涌现」（Emergence）：当模型参数规模跨越临界阈值时，突然展现出的复杂逻辑推理与泛化能力。\n2.【强化学习与自主智能体】：\n- 基于人类反馈的强化学习（RLHF）、具身智能（Embodied AI）、自主演进智能体（Autonomous Agents）。\n\n二、量子信息与计算物理前沿：\n1.【量子计算核心机制】：\n- 量子比特（Qubit）、量子叠加（Superposition）、量子纠缠（Entanglement）。\n2.【量子优越性（Quantum Supremacy）】：\n- 超导量子计算机（如「九章」、「祖冲之号」）在特定数学问题上展现出远超全球最强超级计算机的算力飞跃。\n\n三、生命科学与合成生物学（Synthetic Biology）：\n1.【基因编辑与分子重塑】：CRISPR-Cas9定向编辑、高精度蛋白质结构AI预测（如AlphaFold）。\n2.【从「造物」到「再生」】：合成人造生命、定向代谢工程、细胞重编程与再生医学，开启人工合成生命的新纪元！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「科技创新与学术话语 (Science, Tech & Academic Discourse)」的核心语法法则与应用范例 (29.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '科技创新与学术话语 (Science, Tech & Academic Discourse)' in simple terms to students at the academic seminar."
+          "target": "超大规模多模态大语言模型展现出惊人的上下文学习能力与知识涌现特征，标志着通用人工智能探索取得实质性突破。(Chāo-dà guīmó duōmótài dà yǔyán móxíng zhǎnxiàn chū jīngrén de shàngxiàwén xuéxí nénglì yǔ zhīshí yǒngxiàn tèzhēng, biāozhì zhe tōngyòng réngōng zhìnéng tànsuǒ qǔdé shízhìxìng tūpò.)",
+          "reading": "[t͡sʰaʊ̯˥-ta˥˩ kweɪ̯˥.mwo˧˥ twɔ˥.mwo˧˥.tʰaɪ̯˥˩ ta˥˩ y˨˩.jan˧˥ mwo˧˥.ɕiŋ˧˥ ʈ͡ʂan˨˩.ɕjɛn˥˩ t͡ʂʰu˥ t͡ɕiŋ˥.ʐən˧˥ tɤ ʂɑŋ˥˩.ɕja˥˩.wən˧˥ ɕɥɛ˧˥.ɕi˧˥ nəŋ˧˥.li˨˩˦ y˨˩˦ ʈ͡ʂɨ˥.ʂɨ˥ jʊŋ˨˩˦.ɕjɛn˥˩ tʰɤ˥˩.ʈ͡ʂəŋ˥, pjaʊ̯˥.ʈ͡ʂɨ˥˩ ʈ͡ʂɤ tʰʊŋ˥.jʊŋ˥˩ ʐən˧˥.kʊŋ˥ ʈ͡ʂɨ˥˩.nəŋ˧˥ tʰan˥˩.swɔ˨˩˦ t͡ɕʰy˨˩˦.tɤ˧˥ ʂɨ˧˥.ʈ͡ʂɨ˥˩.ɕiŋ˥˩ tʰu˥.pʰwɔ˥˩] (Chāo-dà guī-mó duō-mó-tài dà yǔ-yán mó-xíng zhǎn-xiàn chū jīng-rén de shàng-xià-wén xué-xí néng-lì yǔ zhī-shi yǒng-xiàn tè-zhēng, biāo-zhì zhe tōng-yòng rén-gōng zhì-néng tàn-suǒ qǔ-dé shí-zhì-xìng tū-pò.)",
+          "translation": "Ultra-large-scale multimodal large language models exhibit astonishing in-context learning capabilities and knowledge emergence characteristics, marking a substantive breakthrough in the exploration of artificial general intelligence."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (29.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "科学家利用超导量子处理器成功实现了特定算法的量子优越性，为破解经典计算机无法胜任的高复杂度科学计算开辟了全新路径。(Kēxuéjiā lìyòng chāodǎo liàngzǐ chǔlǐqì chénggōng shíxiàn le tèdìng suànfǎ de liàngzǐ yōuyuèxìng, wèi pòjiě jīngdiǎn jìsuànjī wúfǎ shèngrèn de gāo fùzádù kēxué jìsuàn kāipì le quánxīn lùjìng.)",
+          "reading": "[kʰɤ˥.ɕɥɛ˧˥.t͡ɕja˥ li˥˩.jʊŋ˥˩ t͡sʰaʊ̯˥.taʊ̯˨˩˦ ljaŋ˥˩.t͡sɨ˨˩˦ t͡ʂʰu˨˩.li˨˩˦.t͡ɕʰi˥˩ ʈ͡ʂʰəŋ˧˥.kʊŋ˥ ʂɨ˧˥.ɕjɛn˥˩ lɤ tʰɤ˥˩.tiŋ˥˩ swan˥˩.fa˨˩˦ tɤ ljaŋ˥˩.t͡sɨ˨˩˦ joʊ̯˥.yɛ˥˩.ɕiŋ˥˩, weɪ̯˥˩ pʰwɔ˥˩.t͡ɕjɛ˨˩˦ t͡ɕiŋ˥.tjan˨˩˦ t͡ɕi˥˩.swan˥˩.t͡ɕi˥ wu˧˥.fa˨˩˦ ʂəŋ˥˩.ʐən˥˩ tɤ kaʊ̯˥ fu˥˩.t͡sa˧˥.tu˥˩ kʰɤ˥.ɕɥɛ˧˥ t͡ɕi˥˩.swan˥˩ kʰaɪ̯˥.pʰi˥˩ lɤ t͡ɕʰɥan˧˥.ɕin˥ lu˥˩.t͡ɕiŋ˥˩] (Kē-xué-jiā lì-yòng chāo-dǎo liàng-zǐ chǔ-lǐ-qì chéng-gōng shí-xiàn le tè-dìng suàn-fǎ de liàng-zǐ yōu-yuè-xìng, wèi pò-jiě jīng-diǎn jì-suàn-jī wú-fǎ shèng-rèn de gāo fù-zá-dù kē-xué jì-suàn kāi-pì le quán-xīn lù-jìng.)",
+          "translation": "Scientists successfully demonstrated quantum supremacy for specific algorithms utilizing superconducting quantum processors, opening a brand-new path for solving high-complexity scientific calculations beyond the reach of classical computers."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (29.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "合成生物学与结构生物学的深度交叉，使得高精度蛋白质分子设计与定向基因编辑从理论构想转化为规模化工业应用。(Héchéng shēngwùxué yǔ jiégòu shēngwùxué de shēndù jiāochā, shǐde gāo-jīngdù dànbáizhì fēnzǐ shèjì yǔ dìngxiàng jīyīn biānjí cóng lǐlùn gòuxiǎng zhuǎnhuà wéi guīmóhuà gōngyè yìngyòng.)",
+          "reading": "[xɤ˧˥.ʈ͡ʂʰəŋ˧˥ ʂəŋ˥.wu˥˩.ɕɥɛ˧˥ y˨˩˦ t͡ɕjɛ˧˥.koʊ̯˥˩ ʂəŋ˥.wu˥˩.ɕɥɛ˧˥ tɤ ʂən˥.tu˥˩ t͡ɕjaʊ̯˥.t͡ʂʰa˥, ʂɨ˨˩˦.tɤ kaʊ̯˥-t͡ɕiŋ˥.tu˥˩ tan˥˩.paɪ̯˧˥.ʈ͡ʂɨ˥ fən˥.t͡sɨ˨˩˦ ʂɤ˥˩.t͡ɕi˥˩ y˨˩˦ tiŋ˥˩.ɕjaŋ˥˩ t͡ɕi˥.in˥ pjɛn˥.t͡ɕi˧˥ t͡sʰʊŋ˧˥ li˨˩.lwən˥˩ koʊ̯˥˩.ɕjaŋ˨˩˦ ʈ͡ʂwan˨˩.xwa˥˩ weɪ̯˧˥ kweɪ̯˥.mwo˧˥.xwa˥˩ kʊŋ˥.jɛ˥˩ iŋ˥˩.jʊŋ˥˩] (Hé-chéng shēng-wù-xué yǔ jié-gòu shēng-wù-xué de shēn-dù jiāo-chā, shǐ-de gāo-jīng-dù dàn-bái-zhì fēn-zǐ shè-jì yǔ dìng-xiàng jī-yīn biān-jí cóng lǐ-lùn gòu-xiǎng zhuǎn-huà wéi guī-mó-huà gōng-yè yìng-yòng.)",
+          "translation": "The profound convergence of synthetic biology and structural biology has transformed high-precision protein molecule design and targeted gene editing from theoretical conceptions into large-scale industrial applications."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (29.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "跨学科颠覆性技术的加速迭代，正在深度重塑全球产业链布局并重新定义人类社会的知识生产范式。(Kuà-xuékē diānfùxìng jìshù de jiāsù jiédài, zhèngzài shēndù chóngsù quánqiú chǎnyèliàn bùjú bìng chóngxīn dìngyì rénlèi shèhuì de zhīshí shēngchǎn fànshì.)",
+          "reading": "[kʰwa˥˩-ɕɥɛ˧˥.kʰɤ˥ tjɛn˥.fu˥˩.ɕiŋ˥˩ t͡ɕi˥˩.ʂu˥˩ tɤ t͡ɕja˥.su˥˩ t͡ɕjɛ˧˥.taɪ̯˥˩, ʈ͡ʂəŋ˥˩.t͡saɪ̯˥˩ ʂən˥.tu˥˩ ʈ͡ʂʰʊŋ˧˥.su˥˩ t͡ɕʰyɛn˧˥.t͡ɕʰjoʊ̯˧˥ t͡ʂʰan˨˩.jɛ˥˩.ljɛn˥˩ pu˥˩.t͡ɕy˧˥ piŋ˥˩ ʈ͡ʂʰʊŋ˧˥.ɕin˥ tiŋ˥˩.i˥˩ ʐən˧˥.leɪ̯˥˩ ʂɤ˥˩.xweɪ̯˥˩ tɤ ʈ͡ʂɨ˥.ʂɨ˥ ʂəŋ˥.t͡ʂʰan˨˩˦ fan˥˩.ʂɨ˥˩] (Kuà-xué-kē diān-fù-xìng jì-shù de jiā-sù jié-dài, zhèng-zài shēn-dù chóng-sù quán-qiú chǎn-yè-liàn bù-jú bìng chóng-xīn dìng-yì rén-lèi shè-huì de zhī-shi shēng-chǎn fàn-shì.)",
+          "translation": "The accelerating iteration of interdisciplinary disruptive technologies is profoundly reshaping the global industrial chain layout and redefining the knowledge production paradigm of human society."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "多模大模涌现生，量子超导优越登；合成生物基因改，颠覆创新万象升！"
+      ],
+      "culturalNotes": [
+        "从中国科学院量子科学实验卫星「墨子号」到生成式人工智能大模型集群，前沿核心技术自主创新已成为中国国家战略科技力量的核心支柱。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「科技创新与学术话语 (Science, Tech & Academic Discourse)」（第3讲）的标准汉语规范？",
+          "prompt": "在人工智能大语言模型领域，用来形容当模型参数量达到一定规模后突然展现出复杂推理与高级智能的术语是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「科技创新与学术话语 (Science, Tech & Academic Discourse)」的核心语法法则与应用范例 (29.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (29.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (29.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (29.3.w3)"
+            "能力涌现 / 涌现特征 (Emergent abilities / Emergence)",
+            "死机重启",
+            "偶然巧合",
+            "系统卡顿"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「能力涌现」（Emergence）指复杂AI大模型在参数规模突破临界值后涌现出的高级认知与推理能力。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "量子计算机在特定复杂计算任务上展现出远超最强大传统经典超级计算机能力的里程碑被称为：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "量子优越性 / 量子霸权 (Quantum Supremacy / Quantum Advantage)",
+            "经典计算极限",
+            "二进制升级",
+            "机械算盘进化"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「量子优越性」（Quantum Supremacy）是量子计算发展史上的关键分水岭，证明量子算力实现质的飞跃。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「科技创新与学术话语 (Science, Tech & Academic Discourse)」的正式语境下，最准确得体的表达是哪一项？（第29.3题）",
+          "prompt": "CRISPR-Cas9技术在现代生命科学与合成生物学中最核心的应用功能是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (29.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (29.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (29.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (29.3.x3)"
+            "高精度定向基因编辑 (High-precision targeted gene editing)",
+            "拍照滤镜美化",
+            "普通血液化验",
+            "测量人体身高"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "CRISPR-Cas9被誉为「基因魔剪」，是现代合成生物学与精准医疗的核心基因编辑工具。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u29-l3）所要求的高阶语言表达？",
+          "prompt": "形容一项新兴技术具备彻底打破旧有技术路线、引发产业和学术范式根本性变革的学术词汇是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (29.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (29.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (29.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (29.3.y3)"
+            "颠覆性技术 (Disruptive technology)",
+            "微不足道的技术",
+            "换汤不换药的技术",
+            "无关紧要的发明"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「颠覆性技术」（Disruptive Technology）指能够对已有产业、商业模式及科学范式产生替代重塑效应的前沿创新。"
         }
       ]
     },
@@ -17215,25 +17223,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「科技创新与学术话语 (Science, Tech & Academic Discourse)」的掌握程度，请选出表述完全正确的标准范句（测试 29-3）：",
+          "prompt": "请选出下列前沿科技论述中概念最前瞻、逻辑最严密的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (29.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (29.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (29.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (29.3.z3)"
+            "当今前沿科技呈现多点爆发的聚变效应：超大规模多模态模型以「能力涌现」驱动通用人工智能走向现实；超导量子计算以纠缠与叠加突破算力极限，确立「量子优越性」；合成生物学以CRISPR基因编辑与蛋白质AI预测重塑生命底层逻辑。跨学科颠覆性技术的深度聚合，正在重塑人类未来的文明形态！(多模态大模型涌现、量子纠缠优越性、合成生物基因编辑，三大前沿科技体系概括精准卓越)",
+            "人工智能就是手机发短信，量子计算就是算盘打得快，合成生物就是种地。(语言极其荒谬无知)",
+            "量子优越性被大模型能力涌现在CRISPR颠覆性技术。(术语杂乱生硬拼凑)",
+            "科学研究已经发展到尽头，未来不可能再有任何颠覆性技术突破。(完全违背科技发展客观规律)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段系统整合了人工智能大模型、量子计算与合成生物学三大前沿高地，语言高屋建瓴，科技前瞻力极强。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u29-l3）的核心关键词（例如「科技创新」）：",
+          "prompt": "请输入人工智能大模型领域形容模型参数规模扩大到临界点后突然展现出高阶推理能力的核心二字术语（例如「能力」；拼音为 yǒngxiàn）：",
           "acceptedAnswers": [
-            "科技创新",
-            "科技创新与学",
-            "科技创新与学术话语"
+            "涌现"
           ],
-          "explanation": "正确的核心关键词为「科技创新」。"
+          "explanation": "术语「涌现」（Emergence）指复杂系统在大规模聚集后自发产生全新高阶属性的科学现象。"
         }
       ],
       "passThreshold": 0.8
@@ -17244,85 +17250,89 @@
     "subject": "mandarin",
     "unit": 29,
     "lessonNumber": 4,
-    "title": "科技创新与学术话语 (Science, Tech & Academic Discourse) (第4讲)",
+    "title": "学术争鸣、同行评审与科技伦理规制 (Academic Debate, Peer Review & Techno-Ethics Governance)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：前沿科研成果、学术论文摘要与引言撰写、理论模型构建与实证论证。 (第4部分)。",
+    "objective": "系统掌握国际学术同行评审机制（审稿意见回复、内生性反驳、稳健性检验）、科技伦理审查体系（知情同意、伦理滑坡防范、算法透明度与负责任创新RRI）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "科学共同体的繁荣依托于严谨的学术争鸣、同行评审制度，以及严格的科技伦理治理框架：\n\n一、国际同行评审（Peer Review）学术对话范式：\n1.【审稿人质疑（Reviewer Comments）常见焦点】：\n- 样本选择性偏差、遗漏关键控制变量、模型内生性问题（Endogeneity）、反向因果（Reverse Causality）。\n2.【作者修订与答复（Response to Reviewers）高阶学术表述】：\n-「针对审稿专家指出的模型内生性隐忧，作者在修订稿中引入外生工具变量法（IV-2SLS）与倾向得分匹配法（PSM），并补充了安慰剂检验（Placebo Test），实证结果依然稳健。」\n\n二、科技伦理审查与法律合规框架：\n1.【伦理审查委员会（IRB）与基本原则】：\n- 知情同意原则（Informed Consent）、受试者权益保护、隐私数据脱敏。\n2.【算法伦理与数字法治】：\n- 算法可解释性（Explainability）、算法偏见审查、防范深度伪造与数字霸权。\n\n三、「科技向善」与负责任的研究与创新（RRI）：\n- 负责任创新（Responsible Research and Innovation）：在技术研发伊始前置嵌入伦理评估；守牢安全底线，坚决防范基因技术与强人工智能引发「伦理滑坡」（Ethical Slippery Slope）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「科技创新与学术话语 (Science, Tech & Academic Discourse)」的核心语法法则与应用范例 (29.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '科技创新与学术话语 (Science, Tech & Academic Discourse)' in simple terms to students at the academic seminar."
+          "target": "针对审稿专家关于模型内生性偏误的质疑，作者在修订稿中引入了外生工具变量并进行了严格的稳健性检验与安慰剂检验。(Zhènduì shěngǎo zhuānjiā guānyú móxíng nèishēngxìng piānwù de zhìyí, zuòzhě zài xiūdìnggǎo zhōng yǐnrù le wàishēng gōngjù biànliàng bìng jìnxíng le yángé de wěnjiànxìng jiǎnyàn yǔ ānwèijì jiǎnyàn.)",
+          "reading": "[ʈ͡ʂən˥˩.tweɪ̯˥˩ ʂən˨˩.kaʊ̯˨˩˦ ʈ͡ʂwan˥.t͡ɕja˥ kwaŋ˥.y˧˥ mwo˧˥.ɕiŋ˧˥ neɪ̯˥˩.ʂəŋ˥.ɕiŋ˥˩ pʰjɛn˥.u˥˩ tɤ ʈ͡ʂɨ˥˩.i˧˥, t͡swɔ˥˩.ʈ͡ʂɤ˨˩˦ t͡saɪ̯˥˩ ɕjoʊ̯˥.tiŋ˥˩.kaʊ̯˨˩˦ ʈ͡ʂʊŋ˥ in˧˥.ʐu˥ lɤ waɪ̯˥˩.ʂəŋ˥ kʊŋ˥.t͡ɕy˥˩ pjɛn˥˩.ljaŋ˥˩ piŋ˥˩ t͡ɕin˥˩.ɕiŋ˧˥ lɤ jan˧˥.kɤ˧˥ tɤ wən˨˩.t͡ɕjɛn˥˩.ɕiŋ˥˩ t͡ɕjɛn˨˩.jan˥˩ y˨˩˦ an˥.weɪ̯˥˩.t͡ɕi˥˩ t͡ɕjɛn˨˩.jan˥˩] (Zhèn-duì shěn-gǎo zhuān-jiā guān-yú mó-xíng nèi-shēng-xìng piān-wù de zhì-yí, zuò-zhě zài xiū-dìng-gǎo zhōng yǐn-rù le wài-shēng gōng-jù biàn-liàng bìng jìn-xíng le yán-gé de wěn-jiàn-xìng jiǎn-yàn yǔ ān-wèi-jì jiǎn-yàn.)",
+          "translation": "Addressing the reviewer's query regarding model endogeneity bias, the authors introduced external instrumental variables and conducted rigorous robustness tests and placebo tests in the revised manuscript."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (29.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "面对生成式人工智能引发的深度伪造与版权侵权风险，科技界亟须建立敏捷包容、全程可溯的伦理审查与算法透明机制。(Miànduì shēngchéngshì réngōng zhìnéng yǐnfā de shēndù wěizào yǔ bǎnquán qīnquán fēngxiǎn, kējìjiè jíxū jiànlì mǐnjié-bāoróng, quánchéng kěsù de lúnlǐ shěnchá yǔ suànfǎ tòumíng jīzhì.)",
+          "reading": "[mjɛn˥˩.tweɪ̯˥˩ ʂəŋ˥.ʈ͡ʂʰəŋ˧˥.ʂɨ˥˩ ʐən˧˥.kʊŋ˥ ʈ͡ʂɨ˥˩.nəŋ˧˥ in˥.fa˥ tɤ ʂən˥.tu˥˩ weɪ̯˨˩.t͡saʊ̯˥˩ y˨˩˦ pan˨˩.t͡ɕʰyɛn˧˥ t͡ɕʰin˥.t͡ɕʰyɛn˧˥ fəŋ˥.ɕjɛn˨˩˦, kʰɤ˥.t͡ɕi˥˩.t͡ɕjɛ˥˩ t͡ɕi˧˥.ɕy˥ t͡ɕjɛn˥˩.li˥˩ min˨˩.t͡ɕjɛ˧˥-paʊ̯˥.ʐʊŋ˧˥, t͡ɕʰyɛn˧˥.ʈ͡ʂʰəŋ˧˥ kʰɤ˨˩.su˥˩ tɤ lwn˧˥.li˨˩ ʂən˨˩.t͡ʂʰa˧˥ y˨˩˦ swan˥˩.fa˨˩˦ tʰoʊ̯˥˩.miŋ˧˥ t͡ɕi˥.ʈ͡ʂɨ˥] (Miàn-duì shēng-chéng-shì rén-gōng zhì-néng yǐn-fā de shēn-dù wěi-zào yǔ bǎn-quán qīn-quán fēng-xiǎn, kē-jì-jiè jí-xū jiàn-lì mǐn-jié-bāo-róng, quán-chéng kě-sù de lún-lǐ shěn-chá yǔ suàn-fǎ tòu-míng jī-zhì.)",
+          "translation": "Confronting the deepfake and copyright infringement risks triggered by generative AI, the scientific community urgently needs to establish an agile, inclusive, and fully traceable ethical review and algorithmic transparency mechanism."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (29.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "生命科学前沿探索必须严格恪守知情同意原则与伦理安全底线，坚决防范基因技术滥用导致的伦理滑坡与不可逆生态灾难。(Shēngmìng kēxué qiánxián tànsuǒ bìxū yángé kèshǒu zhīqíng-tóngyì yuánzé yǔ lúnlǐ ānquán dǐxiàn, jiānjué fángfàn jīyīn jìshù lànyòng dǎozhì de lúnlǐ huápō yǔ bùkěnì shēngtài zāinàn.)",
+          "reading": "[ʂəŋ˥.miŋ˥˩ kʰɤ˥.ɕɥɛ˧˥ t͡ɕʰjɛn˧˥.ɕjɛn˧˥ tʰan˥˩.swɔ˨˩˦ pi˥˩.ɕy˥ jan˧˥.kɤ˧˥ kʰɤ˥˩.ʂoʊ̯˨˩˦ ʈ͡ʂɨ˥.t͡ɕʰiŋ˧˥-tʰʊŋ˧˥.i˥˩ yɥɛn˧˥.t͡sɤ˧˥ y˨˩˦ lwn˧˥.li˨˩ an˥.t͡ɕʰyɛn˧˥ ti˨˩.ɕjɛn˥˩, t͡ɕjɛn˥.t͡ɕɥɛ˧˥ fɑŋ˧˥.fan˥˩ t͡ɕi˥.in˥ t͡ɕi˥˩.ʂu˥˩ lan˥˩.jʊŋ˥˩ taʊ̯˨˩.ʈ͡ʂɨ˥˩ tɤ lwn˧˥.li˨˩ xwa˧˥.pʰwɔ˥ y˨˩˦ pu˥.kʰɤ˨˩.ni˥˩ ʂəŋ˥.tʰaɪ̯˥˩ t͡saɪ̯˥.nan˥˩] (Shēng-mìng kē-xué qián-xián tàn-suǒ bì-xū yán-gé kè-shǒu zhī-qíng-tóng-yì yuán-zé yǔ lún-lǐ ān-quán dǐ-xiàn, jiān-jué fáng-fàn jī-yīn jì-shù làn-yòng dǎo-zhì de lún-lǐ huá-pō yǔ bù-kě-nì shēng-tài zāi-nàn.)",
+          "translation": "Frontier exploration in life sciences must strictly abide by the principle of informed consent and ethical safety baselines, resolutely preventing ethical slippery slopes and irreversible ecological disasters caused by the misuse of gene technology."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (29.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "负责任的研究与创新要求在技术研发初期即前置嵌入伦理评估，确保前沿科技始终服务于增进全人类的共同福祉。(Fù zérèn de yánjiū yǔ chuàngxīn yāoqiú zài jìshù yánfā chūqī jí qiánzhì qiànrù lúnlǐ pínggū, quèbǎo qiánxián kējì shǐzhōng fúwù yú zēngjìn quán rénlèi de gòngtóng fúzhǐ.)",
+          "reading": "[fu˥˩ t͡sɤ˧˥.ʐən˥˩ tɤ jan˧˥.t͡ɕjoʊ̯˥ y˨˩˦ t͡ʂʰwaŋ˥˩.ɕin˥ jaʊ̯˥.t͡ɕʰjoʊ̯˥ t͡saɪ̯˥˩ t͡ɕi˥˩.ʂu˥˩ jan˧˥.fa˥ t͡ʂʰu˥.t͡ɕʰi˥ t͡ɕi˧˥ t͡ɕʰjɛn˧˥.ʈ͡ʂɨ˥˩ t͡ɕʰjɛn˥˩.ʐu˥ lwn˧˥.li˨˩ pʰiŋ˧˥.ku˥, t͡ɕʰɥɛ˥.paʊ̯˨˩˦ t͡ɕʰjɛn˧˥.ɕjɛn˧˥ kʰɤ˥.t͡ɕi˥˩ ʂɨ˨˩˦.ʈ͡ʂʊŋ˥ fu˧˥.u˥˩ y˨˩˦ t͡səŋ˥.t͡ɕin˥˩ t͡ɕʰyɛn˧˥ ʐən˧˥.leɪ̯˥˩ tɤ kʊŋ˥˩.tʰʊŋ˧˥ fu˧˥.ʈ͡ʂɨ˨˩˦] (Fù zé-rèn de yán-jiū yǔ chuàng-xīn yāo-qiú zài jì-shù yán-fā chū-qī jí qián-zhì qiàn-rù lún-lǐ píng-gū, què-bǎo qián-xián kē-jì shǐ-zhōng fú-wù yú zēng-jìn quán rén-lèi de gòng-tóng fú-zhǐ.)",
+          "translation": "Responsible Research and Innovation (RRI) requires embedding ethical assessment proactively at the initial stage of technological R&D, ensuring that frontier technologies always serve to enhance the common well-being of all humanity."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "同行评审据理修，稳健内生工具求；伦理审查知情底，科技向善福泽流！"
+      ],
+      "culturalNotes": [
+        "「科技向善」与「负责任创新（RRI）」已成为联合国教科文组织及国际学术共同体开展前沿科学治理的核心价值观与伦理行动准则。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「科技创新与学术话语 (Science, Tech & Academic Discourse)」（第4讲）的标准汉语规范？",
+          "prompt": "在对学术期刊审稿意见进行回复时，针对审稿人关于模型「内生性」（Endogeneity）的质疑，最专业标准的实证处理方法是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「科技创新与学术话语 (Science, Tech & Academic Discourse)」的核心语法法则与应用范例 (29.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (29.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (29.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (29.4.w3)"
+            "引入外生工具变量法（IV）或双重差分法，并补充稳健性与安慰剂检验 (Introduce IV/DID and supplementary robustness/placebo tests)",
+            "直接发邮件把审稿人痛骂一顿",
+            "把论文里的图表全部删掉",
+            "假装没看到审稿人的意见"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "引入工具变量（IV）、双重差分（DID）及安慰剂检验是解决内生性偏误、回应同行评审的标准规范方案。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在涉及人体受试者或个人敏感数据的科学研究中，必须首先严格履行的基本伦理审查原则是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "知情同意原则 (Principle of Informed Consent)",
+            "强迫命令原则",
+            "隐瞒欺骗原则",
+            "先斩后奏原则"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「知情同意原则」（Informed Consent）是国际学术界与生物医学研究最神圣不可侵犯的伦理底线。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「科技创新与学术话语 (Science, Tech & Academic Discourse)」的正式语境下，最准确得体的表达是哪一项？（第29.4题）",
+          "prompt": "形容在科技创新过程中如果缺乏伦理防线，会导致道德底线逐步退让最终酿成不可挽回灾难的学术概念是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (29.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (29.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (29.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (29.4.x3)"
+            "伦理滑坡 (Ethical Slippery Slope)",
+            "水涨船高",
+            "平步青云",
+            "按部就班"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「伦理滑坡」（Slippery Slope）常用于警示在基因编辑、AI武器等前沿领域严防道德失控。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u29-l4）所要求的高阶语言表达？",
+          "prompt": "国际科技界倡导在技术研发全流程中主动嵌入伦理反思、确保技术造福人类社会的先进治理理念是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (29.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (29.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (29.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (29.4.y3)"
+            "负责任的研究与创新 / 科技向善 (Responsible Research and Innovation / Tech for Good)",
+            "技术至上唯利是图",
+            "盲目冒进不管后果",
+            "完全禁止一切科技研发"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「负责任的研究与创新」（RRI）与「科技向善」代表了当代科技与人类伦理相融通的最高治理范式。"
         }
       ]
     },
@@ -17330,25 +17340,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「科技创新与学术话语 (Science, Tech & Academic Discourse)」的掌握程度，请选出表述完全正确的标准范句（测试 29-4）：",
+          "prompt": "请选出下列关于学术同行评审与科技伦理治理述评最深刻、最严谨的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (29.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (29.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (29.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (29.4.z3)"
+            "学术争鸣与科技伦理是科学健康发展的双轨保障：同行评审以严格的内生性排查与稳健性检验捍卫学术真实性；科技伦理规制则以知情同意与算法透明为底线，严密防范伦理滑坡。推行「负责任的研究与创新（RRI）」，将伦理评估前置嵌入技术研发全流程，是确保前沿科技始终造福人类社会的至高准则！(同行评审内生性检验、知情同意算法透明、防范伦理滑坡与RRI负责任创新，论述严谨全面透彻)",
+            "审稿就是找茬挑刺，伦理审查就是阻碍科学家发财的繁文缛节。(语言极度轻浮违背科研规范)",
+            "负责任创新被知情同意在内生性同行评审伦理滑坡。(概念乱堆毫无文法逻辑)",
+            "只要能做出颠覆性科技成果，就可以无视任何法律与人类道德底线。(极端错误且违法的危险言论)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段系统总结了同行评审的实证严谨性与科技伦理审查的不可逾越性，思想深刻，论据充实。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u29-l4）的核心关键词（例如「科技创新」）：",
+          "prompt": "请输入生物医学与前沿科研中要求受试者在完全了解研究性质与风险后自主签字同意的核心四字伦理原则（拼音为 zhīqíng-tóngyì）：",
           "acceptedAnswers": [
-            "科技创新",
-            "科技创新与学",
-            "科技创新与学术话语"
+            "知情同意"
           ],
-          "explanation": "正确的核心关键词为「科技创新」。"
+          "explanation": "原则「知情同意」是全球科研伦理审查与受试者保护的最核心准则。"
         }
       ],
       "passThreshold": 0.8
@@ -17359,85 +17367,89 @@
     "subject": "mandarin",
     "unit": 29,
     "lessonNumber": 5,
-    "title": "科技创新与学术话语 (Science, Tech & Academic Discourse) (第5讲)",
+    "title": "范式跃迁、科学精神与人类未来学术话语综合叙事篇章 (Comprehensive Science & Academic Discourse: Paradigm Shift & Human Future)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：前沿科研成果、学术论文摘要与引言撰写、理论模型构建与实证论证。 (第5部分)。",
+    "objective": "融会贯通学术论文规范架构（引言综述/假说推导）、实证方法论（定性定量三角互证/信效度检验）、颠覆性科技突破（AI大模型/量子计算/合成生命）及科技伦理规制，独立撰写格局宏大、论证严密、具有崇高科学理性与人类命运关怀的综合学术语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "本课是科技创新、学术规范与科学哲学的巅峰综合篇章，展现了当代中国学者在全球学术话语与人类科技未来构建中的广阔视野：\n\n一、现代科学探索与学术话语四大支柱体系精粹：\n1. 规范逻辑（论文架构）：从宏观背景引出前沿问题，梳理既有文献精准识别「理论空白」，推演提出可证伪的核心假说（H1/H2）。\n2. 实证基石（研究方法）：定量问卷大样本面板与定性质性扎根理论三级编码相结合，以信效度检验与工具变量因果推断实现严密的「三角互证」。\n3. 前沿高地（科技突破）：AI大模型之「能力涌现」、超导量子之「量子优越性」、合成生物学之「生命基因重构」，驱动科学范式发生深刻跃迁。\n4. 伦理灯塔（科技向善）：严恪「知情同意」与算法透明，前置嵌入「负责任的研究与创新（RRI）」，坚决筑牢安全底线、防范伦理滑坡。\n\n二、全景式科学范式跃迁与人类未来学术综合范文赏析：\n- 范式跃迁，求索无疆；科技向善，福泽人类。当今世界正经历人类历史上前所未有的科学范式深刻变革与颠覆性技术浪潮。回望科学探索征程，学术研究以严密的逻辑架构为航标，由表及里梳理前沿脉络，精准锚定理论空白，严谨推导可证伪的研究假说；实证探索以科学方法论为基石，结合大样本定量回归与质性扎根理论三级编码，以信度效度与因果推断铸就三角互证之严密铁证。与此同时，前沿科技以前所未有的速度跨越突破：人工智能超大规模模型展现出震撼的上下文学习与能力涌现，量子计算突破算力天花板确立量子优越性，合成生物学更以精准基因编辑重构生命密码。然而，技术狂飙必须由崇高的科学伦理指引方向。恪守知情同意原则，筑牢算法可解释与数据合规防线，将负责任创新深度前置嵌入科技研发全生命周期。秉持求真务实的科学精神与天下大同的人文情怀，当代学术界正以严谨理性的中国话语，为全球科技向善与人类命运共同体建设贡献历久弥新的智慧与力量！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「科技创新与学术话语 (Science, Tech & Academic Discourse)」的核心语法法则与应用范例 (29.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '科技创新与学术话语 (Science, Tech & Academic Discourse)' in simple terms to students at the academic seminar."
+          "target": "当今世界正经历新一轮科技革命与科学范式跃迁，实证科学探索与前沿技术突破正在以前所未有的深度重塑人类认知边界。(Dāngjīn shìjiè zhèng jīnglì xīn yī lún kējì gémìng yǔ kēxué fànshì yuèqiān, shízhèng kēxué tànsuǒ yǔ qiánxián jìshù tūpò zhèngzài yǐ qiánsuǒwèiyǒu de shēndù chóngsù rénlèi rènzhī biānjiè.)",
+          "reading": "[tɑŋ˥.t͡ɕin˥ ʂɨ˥˩.t͡ɕjɛ˥˩ ʈ͡ʂəŋ˥˩ t͡ɕiŋ˥.li˥˩ ɕin˥ i˥ lwn˧˥ kʰɤ˥.t͡ɕi˥˩ kɤ˧˥.miŋ˥˩ y˨˩˦ kʰɤ˥.ɕɥɛ˧˥ fan˥˩.ʂɨ˥˩ yɛ˥˩.t͡ɕʰjɛn˥, ʂɨ˧˥.ʈ͡ʂəŋ˥˩ kʰɤ˥.ɕɥɛ˧˥ tʰan˥˩.swɔ˨˩˦ y˨˩˦ t͡ɕʰjɛn˧˥.ɕjɛn˧˥ t͡ɕi˥˩.ʂu˥˩ tʰu˥.pʰwɔ˥˩ ʈ͡ʂəŋ˥˩.t͡saɪ̯˥˩ i˨˩˦ t͡ɕʰjɛn˧˥.swɔ˨˩˦.weɪ̯˥˩.joʊ̯˨˩˦ tɤ ʂən˥.tu˥˩ ʈ͡ʂʰʊŋ˧˥.su˥˩ ʐən˧˥.leɪ̯˥˩ ʐən˥˩.ʈ͡ʂɨ˥ pjɛn˥.t͡ɕjɛ˥˩] (Dāng-jīn shì-jiè zhèng jīng-lì xīn yī lún kē-jì gé-mìng yǔ kē-xué fàn-shì yuè-qiān, shí-zhèng kē-xué tàn-suǒ yǔ qián-xián jì-shù tū-pò zhèng-zài yǐ qián-suǒ-wèi-yǒu de shēn-dù chóng-sù rén-lèi rèn-zhī biān-jiè.)",
+          "translation": "The world today is undergoing a new round of technological revolution and scientific paradigm shift; empirical scientific exploration and frontier technological breakthroughs are reshaping the boundaries of human cognition with unprecedented depth."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (29.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "恪守求真务实、敢于质疑的科学精神，学者们运用严谨的混合研究方法与严密的统计因果推断，不断揭示自然界与人类社会的深层运行规律。(Kèshǒu qiúzhēn-wùshí, gǎnyú zhìyí de kēxué jīngshén, xuézhemen yùnyòng yánjǐn de hùnhé yánjiū fāngfǎ yǔ yánmì de tǒngjì yīnguǒ tuīduàn, bùduàn jiēshì zìránjiè yǔ rénlèi shèhuì de shēncéng yùnxíng guīlǜ.)",
+          "reading": "[kʰɤ˥˩.ʂoʊ̯˨˩˦ t͡ɕʰjoʊ̯˧˥.ʈ͡ʂən˥-u˥˩.ʂɨ˧˥, kan˨˩.y˧˥ ʈ͡ʂɨ˥˩.i˧˥ tɤ kʰɤ˥.ɕɥɛ˧˥ t͡ɕiŋ˥.ʂən˧˥, ɕɥɛ˧˥.ʈ͡ʂɤ˨˩˦.mən yn˥˩.jʊŋ˥˩ jan˧˥.t͡ɕin˨˩˦ tɤ xwn˥˩.xɤ˧˥ jan˧˥.t͡ɕjoʊ̯˥ fɑŋ˥.fa˨˩˦ y˨˩˦ jan˧˥.mi˥˩ tɤ tʰʊŋ˨˩.t͡ɕi˥˩ in˥.kwo˧˥ tʰweɪ̯˥.twan˥˩, pu˥.twan˥˩ t͡ɕjɛ˥.ʂɨ˥˩ t͡sɨ˥˩.ʐan˧˥.t͡ɕjɛ˥˩ y˨˩˦ ʐən˧˥.leɪ̯˥˩ ʂɤ˥˩.xweɪ̯˥˩ tɤ ʂən˥.t͡sʰəŋ˧˥ yn˥˩.ɕiŋ˧˥ kweɪ̯˥.ly˥˩] (Kè-shǒu qiú-zhēn-wù-shí, gǎn-yú zhì-yí de kē-xué jīng-shén, xué-zhě-men yùn-yòng yán-jǐn de hùn-hé yán-jiū fāng-fǎ yǔ yán-mì de tǒng-jì yīn-guǒ tuī-duàn, bù-duàn jiē-shì zì-rán-jiè yǔ rén-lèi shè-huì de shēn-céng yùn-xíng guī-lǜ.)",
+          "translation": "Abiding by the scientific spirit of seeking truth from facts and daring to question, scholars utilize rigorous mixed-methods research and tight statistical causal inference to continuously unveil the deep operational laws of nature and human society."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (29.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "在加速推进人工智能、量子信息与生物合成技术创新的同时，筑牢科技伦理底线与敏捷治理屏障，是确保科技向善的根本前提。(Zài jiāsù tuījìn réngōng zhìnéng, liàngzǐ xìnxī yǔ shēngwù héchéng jìshù chuàngxīn de tóngshí, zhùláo kējì lúnlǐ dǐxiàn yǔ mǐnjié zhìlǐ píngzhàng, shì quèbǎo kējì xiàngshàn de gēnběn qiántí.)",
+          "reading": "[t͡saɪ̯˥˩ t͡ɕja˥.su˥˩ tʰweɪ̯˥.t͡ɕin˥˩ ʐən˧˥.kʊŋ˥ ʈ͡ʂɨ˥˩.nəŋ˧˥, ljaŋ˥˩.t͡sɨ˨˩˦ ɕin˥˩.ɕi˥ y˨˩˦ ʂəŋ˥.wu˥˩ xɤ˧˥.ʈ͡ʂʰəŋ˧˥ t͡ɕi˥˩.ʂu˥˩ t͡ʂʰwaŋ˥˩.ɕin˥ tɤ tʰʊŋ˧˥.ʂɨ˧˥, ʈ͡ʂu˥˩.laʊ̯˧˥ kʰɤ˥.t͡ɕi˥˩ lwn˧˥.li˨˩ ti˨˩.ɕjɛn˥˩ y˨˩˦ min˨˩.t͡ɕjɛ˧˥ ʈ͡ʂɨ˥˩.li˨˩ pʰiŋ˧˥.ʈ͡ʂɑŋ˥˩, ʂɨ˥˩ t͡ɕʰɥɛ˥.paʊ̯˨˩˦ kʰɤ˥.t͡ɕi˥˩ ɕjaŋ˥˩.ʂan˥˩ tɤ kən˥.pən˨˩ t͡ɕʰjɛn˧˥.tʰi˧˥] (Zài jiā-sù tuī-jìn rén-gōng zhì-néng, liàng-zǐ xìn-xī yǔ shēng-wù hé-chéng jì-shù chuàng-xīn de tóng-shí, zhù-láo kē-jì lún-lǐ dǐ-xiàn yǔ mǐn-jié zhì-lǐ píng-zhàng, shì què-bǎo kē-jì xiàng-shàn de gēn-běn qián-tí.)",
+          "translation": "While accelerating technological innovations in artificial intelligence, quantum information, and biological synthesis, fortifying techno-ethics baselines and agile governance barriers is the fundamental prerequisite for ensuring Tech for Good."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (29.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "秉持开放共享与跨学科交叉合作的全球科研愿景，人类必将以卓越的学术理性与博大的人文情怀，共同开创科技与文明和谐共生的美好未来！(Bǐngchí kāifàng gòngxiǎng yǔ kuà-xuékē jiāochā hézuò de quánqiú kěyán yuànjǐng, rénlèi bìjiāng yǐ zhuóyuè de xuéshù lǐxìng yǔ bódà de rénwén qínghuái, gòngtóng kāichuàng kējì yǔ wénmíng héxié gòngshēng de měihǎo wèilái!)",
+          "reading": "[piŋ˨˩.ʈ͡ʂʰɨ˧˥ kʰaɪ̯˥.fɑŋ˥˩ kʊŋ˥˩.ɕjaŋ˨˩˦ y˨˩˦ kʰwa˥˩-ɕɥɛ˧˥.kʰɤ˥ t͡ɕjaʊ̯˥.t͡ʂʰa˥ xɤ˧˥.t͡swɔ˥˩ tɤ t͡ɕʰyɛn˧˥.t͡ɕʰjoʊ̯˧˥ kʰɤ˥.jan˧˥ yɥɛn˥˩.t͡ɕiŋ˨˩˦, ʐən˧˥.leɪ̯˥˩ pi˥˩.t͡ɕjɑŋ˥ i˨˩˦ ʈ͡ʂwɔ˧˥.yɛ˥˩ tɤ ɕɥɛ˧˥.ʂu˥˩ li˨˩.ɕiŋ˥˩ y˨˩˦ pwo˧˥.ta˥˩ tɤ ʐən˧˥.wən˧˥ t͡ɕʰiŋ˧˥.xwaɪ̯˧˥, kʊŋ˥˩.tʰʊŋ˧˥ kʰaɪ̯˥.t͡ʂʰwaŋ˥˩ kʰɤ˥.t͡ɕi˥˩ y˨˩˦ wən˧˥.miŋ˧˥ xɤ˧˥.ɕjɛ˧˥ kʊŋ˥˩.ʂəŋ˥ tɤ meɪ̯˨˩.xaʊ̯˨˩˦ weɪ̯˥˩.laɪ̯˧˥] (Bǐng-chí kāi-fàng gòng-xiǎng yǔ kuà-xué-kē jiāo-chā hé-zuò de quán-qiú kē-yán yuàn-jǐng, rén-lèi bì-jiāng yǐ zhuó-yuè de xué-shù lǐ-xìng yǔ bó-dà de rén-wén qíng-huái, gòng-tóng kāi-chuàng kē-jì yǔ wén-míng hé-xié gòng-shēng de měi-hǎo wèi-lái!)",
+          "translation": "Upholding a global scientific research vision of open sharing and interdisciplinary collaboration, humanity will surely create a splendid future of harmonious coexistence between technology and civilization with outstanding academic rationality and broad humanitarian sentiment!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "范式跃迁求真魂，实证严谨假设存；前沿颠覆伦理护，学术理性照乾坤！"
+      ],
+      "culturalNotes": [
+        "科学无国界，学者有担当。将现代科学的理性求真与中华优秀传统文化的天下为公、民胞物与融为一体，是构建人类命运共同体科技文明新范式的重要基石。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「科技创新与学术话语 (Science, Tech & Academic Discourse)」（第5讲）的标准汉语规范？",
+          "prompt": "在现代科学研究与学术话语综合体系中，用来概括科学理论体系发生根本性、革命性演进与认知飞跃的核心概念是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「科技创新与学术话语 (Science, Tech & Academic Discourse)」的核心语法法则与应用范例 (29.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (29.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (29.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (29.5.w3)"
+            "范式跃迁 / 范式转移 (Paradigm shift)",
+            "原地踏步",
+            "微小改动",
+            "换汤不换药"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "科学哲学家托马斯·库恩提出的「范式转移/范式跃迁」（Paradigm Shift）用来描述科学革命与认知范式的根本变革。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在开展前沿科技创新时，将「追求科学真理」与「增进人类整体共同福祉」相统一的核心指导思想是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "科技向善与负责任创新 (Tech for Good & Responsible Research and Innovation)",
+            "技术至上不管不顾",
+            "唯利是图金钱第一",
+            "盲目自大忽视风险"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「科技向善与负责任创新」是当代国际科学界关于科学技术造福人类、守护生命尊严的至高价值观。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「科技创新与学术话语 (Science, Tech & Academic Discourse)」的正式语境下，最准确得体的表达是哪一项？（第29.5题）",
+          "prompt": "请选出下列科学精神与学术话语综合论述中立论最高远、概括最精辟的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (29.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (29.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (29.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (29.5.x3)"
+            "范式跃迁驱动文明演进：学术探索以逻辑假说与实证三角互证筑牢理性根基，前沿科技以AI涌现、量子优越与合成生命重塑认知边界，科技伦理以知情同意与负责任创新守护人类底线。科学理性与人文情怀交相辉映，共同引领人类走向光明未来！(论文假说、实证方法、前沿科技三大领域、科技伦理全景概括，逻辑无懈可击)",
+            "科学技术就是很厉害的机器，科学家每天在实验室里做做实验。(语言极度简陋口语化)",
+            "范式跃迁被科技向善在三角互证量子优越性。(词句断裂毫无语法逻辑)",
+            "只要有了强大的人工智能，人类就不再需要任何道德和伦理审查。(极其危险且违背人类伦理的错误言论)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项将学术规范、实证方法、前沿科技与伦理规制四大支柱熔铸一体，展现了崇高博大的学术境界。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u29-l5）所要求的高阶语言表达？",
+          "prompt": "形容科学研究必须以客观事实为依据、不迷信权威、勇于探索追求真实本质的崇高精神品格是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (29.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (29.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (29.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (29.5.y3)"
+            "求真务实 (Seeking truth from facts & being pragmatic and rigorous)",
+            "弄虚作假",
+            "好高骛远",
+            "投机取巧"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「求真务实」是科学精神的核心基石，要求科学家一切以客观事实与实证数据为依据。"
         }
       ]
     },
@@ -17445,25 +17457,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「科技创新与学术话语 (Science, Tech & Academic Discourse)」的掌握程度，请选出表述完全正确的标准范句（测试 29-5）：",
+          "prompt": "请选出下列科学范式跃迁、前沿科技探索与学术话语综合语篇中格局最宏大、论述最透彻、语体最雅正的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (29.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (29.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (29.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (29.5.z3)"
+            "范式跃迁，求索无疆。现代科学探索展现出逻辑与理性的崇高力量：学术话语以文献综述识别空白、以可证伪假说引领方向；实证方法以大样本统计与扎根编码实现三角互证；AI大模型涌现、超导量子优越与合成基因重构驱动科技革命全面爆发；科技伦理更以知情同意与负责任创新筑牢生命安全屏障。求真务实的科学理性与博大深沉的人文关怀交相辉映，必将指引人类开创科技与文明和谐共生的辉煌未来！(全篇架构严谨完整，前沿科技、方法论、伦理治理与人类未来愿景深度融通，文质兼美，学术气象万千)",
+            "科技发展很快，我们要多写论文多发表，争取早点评上教授拿到科研经费。(功利庸俗毫无科学精神境界)",
+            "科学探索被算法透明在范式跃迁合成生物量子优越性。(术语生硬拼凑逻辑错乱)",
+            "实证研究完全是浪费时间，科学发现全靠主观拍脑袋想象。(根本性背离实证科学研究本质规律)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇系统融通学术论文逻辑、实证科学方法、前沿颠覆性技术与科技向善伦理治理，思想深邃，气象恢宏，是现代科技与学术汉语的巅峰范本。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u29-l5）的核心关键词（例如「科技创新」）：",
+          "prompt": "请输入形容学术研究与科技创新中一切从实际出发、探索客观真理的核心四字精神成语（例如「、敢于质疑」；拼音为 qiúzhēn-wùshí）：",
           "acceptedAnswers": [
-            "科技创新",
-            "科技创新与学",
-            "科技创新与学术话语"
+            "求真务实"
           ],
-          "explanation": "正确的核心关键词为「科技创新」。"
+          "explanation": "成语「求真务实」是科学精神与严谨学术态度的最高象征。"
         }
       ],
       "passThreshold": 0.8
