@@ -7013,85 +7013,89 @@
     "subject": "arabic",
     "unit": 12,
     "lessonNumber": 1,
-    "title": "الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar) (الدرس 1)",
+    "title": "المصدر الصريح وأوزانه القياسية والسماعية (The Explicit Verbal Noun: Al-Maṣdar)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المصادر الصريحة والمؤولة، التعبير عن الهوايات والاهتمامات الشخصية والتفضيل. (الجزء 1).",
+    "objective": "إتقان مفهوم المصدر الصريح في اللغة العربية (اسم الحدث المجرد من الزمان)، والتعرف على أشهر أوزانه الثلاثية والمزيدة (فِعَالَة، فَعْل، فُعُول، تَفْعِيل).",
     "presentation": {
-      "explanation": "",
+      "explanation": "المصدر هو اسم يدل على الحدث مجردًا من الزمان، وهو أصل تصريف الأفعال والأسماء المشتقة:\n\nأولاً: أوزان المصادر الشائعة للهوايات والأنشطة:\n1.【فِعَالَةٌ (للصناعات والحرف والمهارات)】:\n   - قَرَأَ -> قِرَاءَةٌ (Reading) | كَتَبَ -> كِتَابَةٌ (Writing).\n   - سَبَحَ -> سِبَاحَةٌ (Swimming) | خَاطَ -> خِيَاطَةٌ (Sewing).\n2.【فَعْلٌ / فَعَلٌ (للأنشطة المجردة)】:\n   - رَسَمَ -> رَسْمٌ (Drawing) | عَزَفَ -> عَزْفٌ (Playing music) | لَعِبَ -> لَعِبٌ (Playing).\n3.【فُعُولٌ】:\n   - رَكِبَ -> رُكُوبٌ (Riding - مثل: رُكُوبُ الخَيْلِ / الدَّرَّاجَاتِ).\n4.【تَفْعِيلٌ (المزيد بالتضعيف: فَعَّلَ)】:\n   - صَوَّرَ -> تَصْوِيرٌ (Photography) | دَرَّبَ -> تَدْرِيبٌ (Training).\n\nثانياً: الفرق بين المصدر الصريح والمصدر المؤول:\n- المصدر الصريح: «أُحِبُّ القِرَاءَةَ» [al-qirāʾata] (مفعول به منصوب بالفتحة).\n- المصدر المؤول: «أُحِبُّ أَنْ أَقْرَأَ» [an aqraʾa] (مكون من أن + الفعل المضارع ويؤدي معنى القراءة).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)» بأسلوب أكاديمي دقيق (12.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)' to students in an accurate academic style."
+          "target": "تُعَدُّ القِرَاءَةُ وَالكِتَابَةُ مِنْ أَهَمِّ المَصَادِرِ المَعْرِفِيَّةِ لِتَطْوِيرِ الفِكْرِ الإِنْسَانِيِّ.(Tuʿaddu al-qirāʾatu wa-al-kitābatu min ahami al-maṣādiri al-maʿrifiyyati li-taṭwīri al-fikri al-insāniyy.)",
+          "reading": "[tu.ʕad.du‿l.qi.raː.ʔa.tu wal.ki.taː.ba.tu min ʔa.ham.mi‿l.ma.sˤaː.di.ri‿l.maʕ.ri.fij.ja.ti li.tatˤ.wiː.ri‿l.fik.ri‿l.ʔin.saː.nijj] (Tu-ʿad-du al-qi-rā-ʾa-tu wa-al-ki-tā-ba-tu min a-ham-mi al-ma-ṣā-di-ri al-maʿ-ri-fiy-ya-ti li-taṭ-wī-ri al-fik-ri al-in-sā-niyy.)",
+          "translation": "Reading and writing are considered among the most important knowledge sources for developing human intellect."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (12.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يُفَضِّلُ الشَّبَابُ مُمَارَسَةَ السِّبَاحَةِ وَرُكُوبِ الخَيْلِ فِي أَوْقَاتِ الفَرَاغِ.(Yufaḍḍilu ash-shabābu mumārasata as-sibāḥati wa-rukūbi al-khayli fī awqāti al-farāgh.)",
+          "reading": "[ju.fadˤ.dˤi.lu‿ʃ.ʃa.baː.bu mu.maː.ra.sa.ta‿s.si.baː.ħa.ti wa.ru.kuː.bi‿l.xaj.li fiː ʔaw.qaː.ti‿l.fa.raːɣ] (Yu-faḍ-ḍi-lu ash-sha-bā-bu mu-mā-ra-sa-ta as-si-bā-ḥa-ti wa-ru-kū-bi al-khay-li fī aw-qā-ti al-fa-rāgh.)",
+          "translation": "Youth prefer practicing swimming and horse riding in their spare time."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (12.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "المَصْدَرُ اسْمٌ يَدُلُّ عَلَى حَدَثٍ مُجَرَّدٍ مِنَ الزَّمَانِ، وَيُعْرَبُ حَسَبَ مَوْقِعِهِ فِي الجُمْلَةِ.(Al-maṣdaru ismun yadullu ʿalā ḥadathin mujarradin min az-zamān, wa-yuʿrabu ḥasaba mawqiʿihi fī al-jumla.)",
+          "reading": "[al.masˤ.da.ru‿is.mun ja.dul.lu ʕa.laː ħa.da.θin mu.ʒar.ra.din mi.na‿z.za.maːn, wa.juʕ.ra.bu ħa.sa.ba maw.qi.ʕi.hi fiː‿l.ʒum.lah] (Al-maṣ-da-ru is-mun ya-dul-lu ʿa-lā ḥa-da-thin mu-jar-ra-din mi-na az-za-mān, wa-yuʿ-ra-bu ḥa-sa-ba maw-qi-ʿi-hi fī al-jum-lah.)",
+          "translation": "The verbal noun is a noun indicating an action stripped of time, and is parsed according to its position in the sentence."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (12.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "أَتْقَنَ الفَنَّانُ مَهَارَةَ الرَّسْمِ وَالتَّصْوِيرِ الضَّوْئِيِّ بَعْدَ تَدْرِيبٍ مُسْتَمِرٍّ.(Atqana al-fannānu mahārata ar-rasmi wa-at-taṣwīri aḍ-ḍawʾiyyi baʿda tadrībin mustamirr.)",
+          "reading": "[ʔat.qa.na‿l.fan.naː.nu ma.haː.ra.ta‿r.ras.mi wat.tasˤ.wiː.ri‿dˤ.dˤaw.ʔij.ji baʕ.da tad.riː.bin mus.ta.mirr] (At-qa-na al-fan-nā-nu ma-hā-ra-ta ar-ras-mi wa-at-taṣ-wī-ri aḍ-ḍaw-ʾiy-yi baʿ-da tad-rī-bin mus-ta-mirr.)",
+          "translation": "The artist mastered the skill of drawing and photography after continuous training."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "المَصْدَرُ حَدَثٌ بِلَا زَمَانٍ انْطَلَقْ، كَقِرَاءَةٍ وَسِبَاحَةٍ نِلْتَ السَّبَقْ!"
+      ],
+      "culturalNotes": [
+        "حث التراث العربي على الرياضات الثلاث الشهيرة: «علّموا أولادكم السباحة والرماية وركوب الخيل» لما فيها من فروسية وبناء للجسد والشخصية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)» (الدرس 1)؟",
+          "prompt": "ما هو المصدر الصريح المشتق من الفعل «سَبَحَ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)» بأسلوب أكاديمي دقيق (12.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (12.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (12.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (12.1.w3)"
+            "سِبَاحَةٌ (Sibāḥah - on the pattern Fiʿālah)",
+            "سابح",
+            "مسبح",
+            "تسبيح"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "مصدر «سَبَحَ» هو «سِبَاحَةٌ» على وزن فِعَالَة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الفرق الأساسي بين الفعل والمصدر في اللغة العربية؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "الفِعْلُ يَقْتَرِنُ بِالزَّمَانِ، أَمَّا المَصْدَرُ فَحَدَثٌ مُجَرَّدٌ مِنَ الزَّمَانِ (Verb is bound to time, Masdar is an abstract noun of action)",
+            "المصدر يدل على المكان فقط",
+            "الفعل اسم دائما",
+            "لا يوجد أي فرق"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "المصدر اسم يدل على الحدث المجرد دون زمن (الماضي أو الحاضر أو المستقبل)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u12-l1):",
+          "prompt": "اختر الجملة التي تتضمن مصدرًا صريحًا مفعولاً به منصوبًا بالفتحة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (12.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (12.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (12.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (12.1.x3)"
+            "أُحِبُّ قِرَاءَةَ الكُتُبِ التَّارِيخِيَّةِ فِي الصَّبَاحِ. (I love reading historical books in the morning.)",
+            "أحب قرأت الكتب بالتأنيث خطأ",
+            "أحب قارئ الكتب",
+            "قراءة كتاب صباح سكون فتحة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«قِرَاءَةَ» مصدر صريح مفعول به منصوب بالفتحة الظاهرة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)»؟",
+          "prompt": "ما هو وزن المصدر لكلمة «تَصْوِير» المشتق من «صَوَّرَ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (12.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (12.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (12.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (12.1.y3)"
+            "تَفْعِيلٌ (Tafʿīl)",
+            "فعالة",
+            "مفاعلة",
+            "افتعال"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«تَصْوِيرٌ» على وزن «تَفْعِيلٌ» من الفعل الرباعي المضعف «صَوَّرَ»."
         }
       ]
     },
@@ -7099,24 +7103,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 12-1)؟",
+          "prompt": "اختر الفقرة التي توظف مجموعة من المصادر الصريحة المتنوعة الأوزان في سياق الأنشطة الثقافية والرياضية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (12.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (12.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (12.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (12.1.z3)"
+            "يَحْرِصُ الطُّلَّابُ عَلَى تَنْظِيمِ أَوْقَاتِهِمْ بَيْنَ القِرَاءَةِ وَالكِتَابَةِ، وَمُمَارَسَةِ الرَّسْمِ وَالسِّبَاحَةِ، مَعَ رُكُوبِ الخَيْلِ لِتَجْدِيدِ النَّشَاطِ. (Students ensure organizing their times between reading and writing, and practicing drawing and swimming, with horse riding to renew energy.)",
+            "يحرص الطلاب بالافعال فقط بلا اي مصادر صريحة.",
+            "مصادر صريحة قراءة كتابة رسم سباحة ركوب سكون فتحة.",
+            "توقف الطلاب عن ممارسة اي انشطة او هوايات."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة تجمع بين مصادر متعددة الأوزان «تَنْظِيم، قِرَاءَة، كِتَابَة، مُمَارَسَة، رَسْم، سِبَاحَة، رُكُوب» بانسجام تركيبي رائع."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u12-l1) باللغة العربية (مثال: «الهوايات»):",
+          "prompt": "اكتب باللغة العربية الفصحى المصدر الصريح من الفعل «كَتَبَ» (اكتب: «كتابة»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الهوايات",
-            "الهوايات"
+            "كتابة",
+            "كِتَابَةٌ",
+            "كِتَابَة",
+            "الكتابة"
           ],
-          "explanation": "المصطلح الصحيح هو «الهوايات»."
+          "explanation": "مصدر كتب هو «كتابة»."
         }
       ],
       "passThreshold": 0.8
@@ -7127,85 +7133,89 @@
     "subject": "arabic",
     "unit": 12,
     "lessonNumber": 2,
-    "title": "الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar) (الدرس 2)",
+    "title": "معجم الرياضات والألعاب والهوايات المتنوعة (Sports & Recreational Lexicon)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المصادر الصريحة والمؤولة، التعبير عن الهوايات والاهتمامات الشخصية والتفضيل. (الجزء 2).",
+    "objective": "إتقان المفردات الفصيحة للرياضات الفردية والجماعية والهوايات الفنية (كرة القدم، السباحة، الفروسية، الرماية، الشطرنج، العزف على العود).",
     "presentation": {
-      "explanation": "",
+      "explanation": "تتنوع الهوايات والرياضات في الثقافة العربية بين التراث الأصيل والأنشطة العصرية الحديثة:\n\nأولاً: الرياضات الجماعية والفردية (Sports Vocabulary):\n1.【كُرَةُ القَدَمِ (Football / Soccer)】 | 【كُرَةُ السَّلَّةِ (Basketball)】.\n2.【كُرَةُ الطَّائِرَةِ (Volleyball)】 | 【كُرَةُ المَضْرِبِ / التِّنِس (Tennis)】.\n3.【السِّبَاحَةُ (Swimming)】 | 【الجَرْيُ / الرَّكْضُ (Running)】.\n4.【الفُرُوسِيَّةُ وَرُكُوبُ الخَيْلِ (Horsemanship / Equestrian)】.\n5.【الرِّمَايَةُ (Archery / Shooting)】 | 【رُكُوبُ الدَّرَّاجَاتِ (Cycling)】.\n\nثانياً: الهوايات الفكرية والفنية (Intellectual & Artistic Hobbies):\n- 【الشَّطْرَنْجُ (Chess)】: لعبة الذكاء والاستراتيجية الشهيرة.\n- 【الرَّسْمُ (Drawing / Painting)】 | 【التَّصْوِيرُ الفُوتُوغْرَافِيُّ (Photography)】.\n- 【العَزْفُ عَلَى العُودِ (Playing the Oud / Lute)】: أمير الآلات الموسيقية العربية.\n\nثالثاً: الأفعال المقترنة بالهوايات:\n- «يُمَارِسُ الرِّيَاضَةَ (To practice sport)».\n- «يَلْعَبُ الشَّطْرَنْجَ / الكُرَةَ (To play chess/ball)».\n- «يَعْزِفُ عَلَى العُودِ / القَانُونِ (To play an instrument)».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)» بأسلوب أكاديمي دقيق (12.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)' to students in an accurate academic style."
+          "target": "يَلْعَبُ الشَّبَابُ كُرَةَ القَدَمِ فِي المَلْعَبِ المَحَلِّيِّ كُلَّ نِهَايَةِ أُسْبُوعٍ بِحَمَاسٍ كَبِيرٍ.(Yalʿabu ash-shabābu kurata al-qadami fī al-malʿabi al-maḥalliyyi kulla nihāyati usbūʿin bi-ḥamāsin kabīr.)",
+          "reading": "[jal.ʕa.bu‿ʃ.ʃa.baː.bu ku.ra.ta‿l.qa.da.mi fiː‿l.mal.ʕa.bi‿l.ma.ħal.lij.ji kul.la ni.haː.ja.ti ʔus.buː.ʕin bi.ħa.maː.sin ka.biːr] (Yal-ʿa-bu ash-sha-bā-bu ku-ra-ta al-qa-da-mi fī al-mal-ʿa-bi al-ma-ḥal-liy-yi kul-la ni-hā-ya-ti us-bū-ʿin bi-ḥa-mā-sin ka-bīr.)",
+          "translation": "Youth play football in the local stadium every weekend with great enthusiasm."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (12.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "الفُرُوسِيَّةُ وَالسِّبَاحَةُ وَالرِّمَايَةُ رِيَاضَاتٌ عَرَبِيَّةٌ أَصِيلَةٌ تَبْنِي الجَسَدَ وَتُهَذِّبُ النَّفْسَ.(Al-furūsiyyatu wa-as-sibāḥatu wa-ar-rimāyatu riyāḍātun ʿarabiyyatun aṣīlatun tabnī al-jasada wa-tuhadh-dhibu an-nafs.)",
+          "reading": "[al.fu.ruː.sij.ja.tu was.si.baː.ħa.tu war.ri.maː.ja.tu ri.jaː.dˤaː.tun ʕa.ra.bij.ja.tun ʔa.sˤiː.la.tun tab.niː‿l.ʒa.sa.da wa.tu.hað.ði.bu‿n.nafs] (Al-fu-rū-siy-ya-tu wa-as-si-bā-ḥa-tu wa-ar-ri-mā-ya-tu ri-yā-ḍā-tun ʿa-ra-biy-ya-tun a-ṣī-la-tun tab-nī al-ja-sa-da wa-tu-hadh-dhi-bu an-nafs.)",
+          "translation": "Horsemanship, swimming, and archery are authentic Arab sports that build the body and refine the soul."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (12.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يَعْزِفُ عَلِيٌّ عَلَى آلَةِ العُودِ الشَّرْقِيِّ أَلْحَانًا تُرَاثِيَّةً شَجِيَّةً فِي أَمْسِيَّاتِ السَّمَرِ.(Yaʿzifu ʿAliyyun ʿalā ālati al-ʿūdi ash-sharqiyyi alḥānan turāthiyyatan shajiyyatan fī amsiyyāti as-samar.)",
+          "reading": "[jaʕ.zi.fu ʕa.lij.jun ʕa.laː ʔaː.la.ti‿l.ʕuː.di‿ʃ.ʃar.qij.ji ʔal.ħaː.nan tu.raː.θij.ja.tan ʃa.ʒij.ja.tan fiː ʔam.sij.jaː.ti‿s.sa.mar] (Yaʿ-zi-fu ʿA-liy-yun ʿa-lā ā-la-ti al-ʿū-di ash-shar-qiy-yi al-ḥā-nan tu-rā-thiy-ya-tan sha-jiy-ya-tan fī am-siy-yā-ti as-sa-mar.)",
+          "translation": "Ali plays poignant heritage tunes on the oriental lute instrument during evening gatherings."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (12.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يُنَمِّي لَعِبُ الشَّطْرَنْجِ مَهَارَاتِ التَّفْكِيرِ الِاسْتِرَاتِيجِيِّ وَالصَّبْرِ لَدَى اللَّاعِبِينَ.(Yunammī laʿibu ash-shaṭranji mahārāti at-tafkīri al-istrātījiyyi wa-aṣ-ṣabri ladā al-lāʿibīn.)",
+          "reading": "[ju.nam.miː la.ʕi.bu‿ʃ.ʃatˤ.ran.ʒi ma.haː.raː.ti‿t.taf.kiː.ri‿l.ʔis.traː.tiː.ʒij.ji wasˤ.sˤab.ri la.daː‿l.laː.ʕi.biːn] (Yu-nam-mī la-ʿi-bu ash-shaṭ-ran-ji ma-hā-rā-ti at-taf-kī-ri al-is-trā-tī-jiy-yi wa-aṣ-ṣab-ri la-dā al-lā-ʿi-bīn.)",
+          "translation": "Playing chess develops strategic thinking skills and patience among players."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "خَيْلٌ وَسَيْفٌ وَكُرَةٌ فِي المَيْدَانْ، وَعَزْفُ عُودٍ وَشَطْرَنْجٌ لِلأَذْهَانْ!"
+      ],
+      "culturalNotes": [
+        "الشطرنج من أقدم الألعاب الفكرية التي اشتهر بها العرب، ونبغ فيها فلاسفة وعلماء كبار وضعوا كتبًا متخصصة في خطط اللعب وتكتيكاته."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)» (الدرس 2)؟",
+          "prompt": "ما هي الآلة الموسيقية الوترية التراثية التي تعد رمزًا للموسيقى العربية؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)» بأسلوب أكاديمي دقيق (12.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (12.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (12.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (12.2.w3)"
+            "العُودُ (The Oud / Lute)",
+            "البيانو",
+            "الدرامز",
+            "البوق"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«العُودُ» هو الآلة الوترية الشرقية الأصيلة وسيد الآلات العربية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الفعل المناسب للحديث عن إنتاج الألحان بالآلات الموسيقية في الفصحى؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "عَزَفَ / يَعْزِفُ (To play music / perform)",
+            "كتب / يكتب",
+            "أكل / يأكل",
+            "ركض / يركض"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "يقال: «عَزَفَ الفَنَّانُ عَلَى العُودِ»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u12-l2):",
+          "prompt": "اختر الجملة التي تصف ممارسة الرياضات التراثية بدقة لغوية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (12.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (12.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (12.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (12.2.x3)"
+            "يَتَدَرَّبُ الفُرْسَانُ عَلَى الفُرُوسِيَّةِ وَالرِّمَايَةِ فِي مَيْدَانِ السِّبَاقِ. (Knights train on horsemanship and archery in the race field.)",
+            "يتدرب الفرسان على الشطرنج في حوض السباحة",
+            "الفروسية تأكل العود في الملعب",
+            "رياضة فرسان ميدان رماية سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تعبر عن رياضتي الفروسية والرماية في ميدان التدريب بفصاحة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)»؟",
+          "prompt": "ما هي الرياضة التي تتضمن التنافس على تسجيل الأهداف في مرمى الفريق الخصم بالقدم؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (12.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (12.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (12.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (12.2.y3)"
+            "كُرَةُ القَدَمِ (Football / Soccer)",
+            "كرة السلة",
+            "السباحة",
+            "التنس"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«كُرَةُ القَدَمِ» هي الرياضة الأكثر شعبية عالميًا."
         }
       ]
     },
@@ -7213,24 +7223,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 12-2)؟",
+          "prompt": "اختر النص الذي يصف التنافس الرياضي والفكري في النادي بعبارات معجمية دقيقة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (12.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (12.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (12.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (12.2.z3)"
+            "تَشْهَدُ النَّوَادِي الشَّبَابِيَّةُ إِقْبَالًا كَبِيرًا؛ حَيْثُ يَتَنَافَسُ الرِّيَاضِيُّونَ فِي كُرَةِ القَدَمِ وَالسِّبَاحَةِ، بَيْنَمَا يَنْعَقِدُ دَوْرِيُّ الشَّطْرَنْجِ فِي قَاعَةِ الأَنْشِطَةِ الفِكْرِيَّةِ. (Youth clubs witness great turnout; where athletes compete in football and swimming, while the chess tournament is held in the intellectual activities hall.)",
+            "تشهد النوادي بالافعال الماضية فقط بلا رياضات ولا انشطة.",
+            "نوادي كرة قدم سباحة شطرنج عود سكون فتحة ضمة.",
+            "اغلقت جميع النوادي ابوابها وتوقفت الالعاب."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يصف الأنشطة الرياضية والفكرية «كرة القدم، السباحة، الشطرنج» بتراكيب لغوية فصيحة وسلسة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u12-l2) باللغة العربية (مثال: «الهوايات»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم اللعبة الفكرية التراثية ذات الرقعة والمربعات (اكتب: «شطرنج»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الهوايات",
-            "الهوايات"
+            "شطرنج",
+            "الشطرنج",
+            "شَطْرَنْجٌ",
+            "شَطْرَنْج"
           ],
-          "explanation": "المصطلح الصحيح هو «الهوايات»."
+          "explanation": "اللعبة هي «شطرنج»."
         }
       ],
       "passThreshold": 0.8
@@ -7241,85 +7253,89 @@
     "subject": "arabic",
     "unit": 12,
     "lessonNumber": 3,
-    "title": "الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar) (الدرس 3)",
+    "title": "التعبير عن التفضيل والإعجاب والميول (Expressing Preferences & Likes)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المصادر الصريحة والمؤولة، التعبير عن الهوايات والاهتمامات الشخصية والتفضيل. (الجزء 3).",
+    "objective": "إتقان تراكيب التفضيل والإعجاب باللغة العربية (أُفَضِّلُ ... عَلَى ...، يُعْجِبُنِي / تُعْجِبُنِي + فاعل مؤخر، أَهْوَى، هِوَايَتِي المُفَضَّلَةُ).",
     "presentation": {
-      "explanation": "",
+      "explanation": "تتعدد أساليب التعبير عن الذوق والميول الشخصية في اللغة العربية الفصحى:\n\nأولاً: أُسْلُوبُ التَّفْضِيلِ «أُفَضِّلُ ... عَلَى ...» (Prefer X over Y):\n- نستخدم الفعل «أُفَضِّلُ» ومفعوله به متبوعًا بحرف الجر «عَلَى» لبيان الخيار المرجح:\n  - «أُفَضِّلُ القِرَاءَةَ عَلَى مُشَاهَدَةِ التِّلْفَازِ» (I prefer reading over watching TV).\n  - «أُفَضِّلُ السَّفَرَ بِالقِطَارِ عَلَى السَّفَرِ بِالحَافِلَةِ».\n\nثانياً: أُسْلُوبُ الإِعْجَابِ «يُعْجِبُنِي / تُعْجِبُنِي» (It pleases me):\n- تركيب نحوي فريد: ياء المتكلم (ـنِي) مفعول به مقدم، والاسم أو المصدر بعدها **فَاعِلٌ مُؤَخَّرٌ مَرْفُوعٌ بِالضَّمَّةِ**:\n  - «يُعْجِبُنِي الرَّسْمُ» [yuʿjibunī ar-rasmu] (الرسمُ: فاعل مرفوع بالضمة).\n  - «تُعْجِبُنِي السِّبَاحَةُ فِي الصَّبَاحِ» [tuʿjibunī as-sibāḥatu].\n\nثالثاً: عبارات الميول والهواية المفضلة:\n- «أَهْوَى / أُحِبُّ مُمَارَسَةَ الرِّيَاضَةِ».\n- «هِوَايَتِي المُفَضَّلَةُ هِيَ التَّصْوِيرُ الفُوتُوغْرَافِيُّ».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)» بأسلوب أكاديمي دقيق (12.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)' to students in an accurate academic style."
+          "target": "أُفَضِّلُ القِرَاءَةَ وَمُمَارَسَةَ الرِّيَاضَةِ عَلَى الجُلُوسِ الطَّوِيلِ أَمَامَ الهَوَاتِفِ الذَّكِيَّةِ.(Ufaḍḍilu al-qirāʾata wa-mumārasata ar-riyāḍati ʿalā al-julūsi aṭ-ṭawīli amāma al-hawātifi adh-dhakiyyah.)",
+          "reading": "[ʔu.fadˤ.dˤi.lu‿l.qi.raː.ʔa.ta wa.mu.maː.ra.sa.ta‿r.ri.jaː.dˤa.ti ʕa.laː‿l.ʒu.luː.si‿tˤ.tˤa.wiː.li ʔa.maː.ma‿l.ha.waː.ti.fi‿ð.ða.kij.jah] (U-faḍ-ḍi-lu al-qi-rā-ʾa-ta wa-mu-mā-ra-sa-ta ar-ri-yā-ḍa-ti ʿa-lā al-ju-lū-si aṭ-ṭa-wī-li a-mā-ma al-ha-wā-ti-fi adh-dha-kiy-yah.)",
+          "translation": "I prefer reading and practicing sports over sitting for long in front of smartphones."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (12.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تُعْجِبُنِي السِّبَاحَةُ فِي الصَّبَاحِ البَاكِرِ لِأَنَّهَا تَمْنَحُ الجِسْمَ نَشَاطًا وَحَيَوِيَّةً بَالِغَةً.(Tuʿjibunī as-sibāḥatu fī aṣ-ṣabāḥi al-bākiri li-annahā tamnaḥu al-jisma nashāṭan wa-ḥayawiyyatan bālighah.)",
+          "reading": "[tuʕ.ʒi.bu.niː‿s.si.baː.ħa.tu fiː‿sˤ.sˤa.baː.ħi‿l.baː.ki.ri li.ʔan.na.haː tam.na.ħu‿l.ʒis.ma na.ʃaː.tˤan wa.ħa.ja.wij.ja.tan baː.li.ɣah] (Tuʿ-ji-bu-nī as-si-bā-ḥa-tu fī aṣ-ṣa-bā-ḥi al-bā-ki-ri li-an-na-hā tam-na-ḥu al-jis-ma na-shā-ṭan wa-ḥa-ya-wiy-ya-tan bā-li-ghah.)",
+          "translation": "Swimming in the early morning pleases me because it grants the body immense energy and vitality."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (12.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "فِي تَرْكِيبِ «يُعْجِبُنِي الشَّيْءُ»، يَكُونُ الِاسْمُ بَعْدَهُ فَاعِلًا مَرْفُوعًا بِالضَّمَّةِ.(Fī tarkībi 'yuʿjibunī ash-shayʾu', yakūnu al-ismu baʿdahu fāʿilan marfūʿan bi-ḍ-ḍammah.)",
+          "reading": "[fiː tar.kiː.bi «juʕ.ʒi.bu.niː‿ʃ.ʃajʔ», ja.kuː.nu‿l.ʔis.mu baʕ.da.hu faː.ʕi.lan mar.fuː.ʕan bidˤ.dˤam.mah] (Fī tar-kī-bi 'yuʿ-ji-bu-nī ash-shay-ʾu', ya-kū-nu al-is-mu baʿ-da-hu fā-ʿi-lan mar-fū-ʿan bi-aḍ-ḍam-mah.)",
+          "translation": "In the construction 'X pleases me', the noun after it is a subject in the nominative case with dammah."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (12.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "هِوَايَتِي المُفَضَّلَةُ هِيَ تَسَلُّقُ الجِبَالِ وَاسْتِكْشَافُ المَنَاظِرِ الطَّبِيعِيَّةِ الخَلَّابَةِ.(Hiwāyatī al-mufaḍḍalatu hiya tasalluqu al-jibāli wa-stikshāfu al-manāẓiri aṭ-ṭabīʿiyyati al-khallābah.)",
+          "reading": "[hi.waː.ja.tiː‿l.mu.fadˤ.dˤa.la.tu hi.ja ta.sal.lu.qu‿l.ʒi.baː.li was.tik.ʃaː.fu‿l.ma.naː.zˤi.ri‿tˤ.tˤa.biː.ʕij.ja.ti‿l.xal.laː.bah] (Hi-wā-ya-tī al-mu-faḍ-ḍa-la-tu hi-ya ta-sal-lu-qu al-ji-bā-li wa-is-tik-shā-fu al-ma-nā-ẓi-ri aṭ-ṭa-bī-ʿiy-ya-ti al-khal-lā-bah.)",
+          "translation": "My favorite hobby is mountain climbing and exploring breathtaking natural sights."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "أُفَضِّلُ أَمْرًا عَلَى غَيْرِهِ بِلِسَانٍ صَرِيحْ، وَمَا يُعْجِبُ النَّفْسَ فَاعِلُهُ مَرْفُوعٌ مَلِيحْ!"
+      ],
+      "culturalNotes": [
+        "استكشاف الطبيعة والرحلات الجبلية والصحراوية («الكشتة» و«التخييم») من أمتع الهوايات التراثية التي يعشقها أبناء الخليج والعالم العربي للتأمل في جمال الكون."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)» (الدرس 3)؟",
+          "prompt": "ما هو حرف الجر المستخدم مع فعل التفضيل «أُفَضِّلُ» في العربية؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)» بأسلوب أكاديمي دقيق (12.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (12.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (12.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (12.3.w3)"
+            "حَرْفُ الجَرِّ «عَلَى» (Prefer X over Y)",
+            "حرف الجر من",
+            "حرف الجر في",
+            "حرف الجر إلى"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "يقال دائمًا: «أُفَضِّلُ كَذَا عَلَى كَذَا»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الإعراب الصحيح لكلمة «الرَّسْمُ» في جملة «يُعْجِبُنِي الرَّسْمُ»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "فَاعِلٌ مُؤَخَّرٌ مَرْفُوعٌ بِالضَّمَّةِ (Delayed Subject with Ḍammah)",
+            "مفعول به منصوب",
+            "مبتدأ مؤخر",
+            "اسم مجرور"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "في تركيب «يُعْجِبُنِي»، الياء مفعول به مقدم، والاسم بعده «الرَّسْمُ» فاعل مرفوع."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u12-l3):",
+          "prompt": "اختر الجملة التي تصوغ أسلوب الإعجاب والتفضيل صياغة نحوية سليمة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (12.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (12.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (12.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (12.3.x3)"
+            "تُعْجِبُنِي القِرَاءَةُ، وَأُفَضِّلُ الشِّعْرَ عَلَى النَّثْرِ. (Reading pleases me, and I prefer poetry over prose.)",
+            "يعجبني القراءة بالخطأ التذكيري مع المؤنث",
+            "افضل الشعر من النثر بحرف جر خاطئ",
+            "اعجاب تفضيل قراءة شعر سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تؤنث الفعل «تُعْجِبُنِي» مع الفاعل المؤنث «القِرَاءَةُ»، وتستخدم «عَلَى» في التفضيل بصحة تامة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)»؟",
+          "prompt": "ما معنى جملة «أَهْوَى جَمْعَ الطَّوَابِعِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (12.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (12.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (12.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (12.3.y3)"
+            "أُحِبُّ وَأَعْشَقُ هِوَايَةَ جَمْعِ الطَّوَابِعِ (I love/am passionate about stamp collecting)",
+            "أكره الطوابع",
+            "أبيع الطوابع في السوق",
+            "أسافر بالطوابع"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«أَهْوَى» من الهوى والمحبة، وتفيد ممارسة الهواية بشغف وحب."
         }
       ]
     },
@@ -7327,24 +7343,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 12-3)؟",
+          "prompt": "اختر الفقرة التي تعبر عن الأذواق والهوايات المفضلة بأساليب التفضيل والإعجاب الفصيحة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (12.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (12.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (12.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (12.3.z3)"
+            "قَالَ زِيَادٌ: «تُعْجِبُنِي الفُنُونُ الإِسْلَامِيَّةُ، وَأُفَضِّلُ الخَطَّ العَرَبِيَّ عَلَى الرَّسْمِ التَّشْكِيلِيِّ؛ لِأَنَّ هِوَايَتِي المُفَضَّلَةَ هِيَ زَخْرَفَةُ الحُرُوفِ». (Ziyad said: 'Islamic arts please me, and I prefer Arabic calligraphy over fine painting; because my favorite hobby is letter ornamentation.')",
+            "قال زياد بالماضي فقط بلا تفضيل ولا اعجاب ولا خط عربي.",
+            "تفضيل اعجاب خط رسم فنون سكون فتحة ضمة كسرة.",
+            "لا يحب زياد اي نوع من الفنون ولا يمارس اي هواية."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة توظف «تُعْجِبُنِي الفُنُونُ»، «أُفَضِّلُ ... عَلَى ...»، «هِوَايَتِي المُفَضَّلَةُ» بسبك بياني بديع وضبط نحوي كامل."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u12-l3) باللغة العربية (مثال: «الهوايات»):",
+          "prompt": "اكتب باللغة العربية الفصحى الفعل المضارع الذي يعني «أحب / يعجبني بشدة» من (هـ-و-ي) (اكتب: «أهوى»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الهوايات",
-            "الهوايات"
+            "أهوى",
+            "أَهْوَى",
+            "اهوى"
           ],
-          "explanation": "المصطلح الصحيح هو «الهوايات»."
+          "explanation": "الفعل هو «أهوى»."
         }
       ],
       "passThreshold": 0.8
@@ -7355,85 +7372,89 @@
     "subject": "arabic",
     "unit": 12,
     "lessonNumber": 4,
-    "title": "الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar) (الدرس 4)",
+    "title": "ظروف التكرار وأوقات الفراغ والترويح (Adverbs of Frequency & Leisure Time)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المصادر الصريحة والمؤولة، التعبير عن الهوايات والاهتمامات الشخصية والتفضيل. (الجزء 4).",
+    "objective": "إتقان ظروف التكرار (دائمًا، غالبًا، أحيانًا، نادرًا، أبدًا) والتعبير عن استثمار أوقات الفراغ والعطلات والترويح عن النفس.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تُحدد ظروف التكرار مدى مواظبة الإنسان على ممارسة هواياته وأنشطته اليومية:\n\nأولاً: ظُرُوفُ التَّكْرَارِ فِي العَرَبِيَّةِ (Adverbs of Frequency):\n1.【دَائِمًا (Always - 100%)】: «أُمَارِسُ الرِّيَاضَةَ دَائِمًا فِي الصَّبَاحِ».\n2.【عَادَةً (Usually - 80%)】: «عَادَةً مَا أَقْرَأُ قَبْلَ النَّوْمِ».\n3.【غَالِبًا (Often / Mostly - 70%)】: «غَالِبًا مَا أَلْتَقِي بِأَصْدِقَائِي فِي النَّادِي».\n4.【أَحْيَانًا (Sometimes - 50%)】: «أَسْبَحُ فِي المَسْبَحِ أَحْيَانًا».\n5.【نَادِرًا (Rarely - 10%)】: «نَادِرًا مَا أَسْهَرُ لَيْلًا».\n6.【أَبَدًا (Never - with negation)】: «لَا أُهْمِلُ صِحَّتِي أَبَدًا».\n\nثانياً: تعبيرات أوقات الفراغ والعطلات (Leisure Time):\n- 【فِي أَوْقَاتِ الفَرَاغِ (In spare time)】.\n- 【فِي نِهَايَةِ الأُسْبُوعِ (At the weekend)】 | 【فِي العُطْلَةِ الصَّيْفِيَّةِ (In summer vacation)】.\n- 【التَّرْوِيحُ عَنِ النَّفْسِ (Recreation / Relaxation)】.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)» بأسلوب أكاديمي دقيق (12.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)' to students in an accurate academic style."
+          "target": "أُمَارِسُ رِيَاضَةَ الجَرْيِ دَائِمًا فِي الصَّبَاحِ، بَيْنَمَا أَلْعَبُ الشَّطْرَنْجَ أَحْيَانًا مَعَ زُمَلَائِي.(Umārisu riyāḍata al-jaryi dāʾiman fī aṣ-ṣabāḥ, baynamā alʿabu ash-shaṭranja aḥyānan maʿa zumalāʾī.)",
+          "reading": "[ʔu.maː.ri.su ri.jaː.dˤa.ta‿l.ʒar.ji daː.ʔi.man fiː‿sˤ.sˤa.baːħ, baj.na.maː ʔal.ʕa.bu‿ʃ.ʃatˤ.ran.ʒa ʔaħ.jaː.nan ma.ʕa zu.ma.laː.ʔiː] (U-mā-ri-su ri-yā-ḍa-ta al-jar-yi dā-ʾi-man fī aṣ-ṣa-bāḥ, bay-na-mā al-ʿa-bu ash-shaṭ-ran-ja aḥ-yā-nan ma-ʿa zu-ma-lā-ʾī.)",
+          "translation": "I practice running sport always in the morning, while I play chess sometimes with my colleagues."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (12.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "نَقْضِي أَوْقَاتَ الفَرَاغِ فِي القِرَاءَةِ المُفِيدَةِ وَزِيَارَةِ المَعَارِضِ الفَنِّيَّةِ فِي المَدِينَةِ.(Naqḍī awqāta al-farāghi fī al-qirāʾati al-mufīdati wa-ziyārati al-maʿāriḍi al-fanniyyati fī al-madīnah.)",
+          "reading": "[naq.dˤiː ʔaw.qaː.ta‿l.fa.raː.ɣi fiː‿l.qi.raː.ʔa.ti‿l.mu.fiː.da.ti wa.zi.jaː.ra.ti‿l.ma.ʕaː.ri.dˤi‿l.fan.nij.ja.ti fiː‿l.ma.diː.nah] (Naq-ḍī aw-qā-ta al-fa-rā-ghi fī al-qi-rā-ʾa-ti al-mu-fī-da-ti wa-zi-yā-ra-ti al-ma-ʿā-ri-ḍi al-fan-niy-ya-ti fī al-ma-dī-nah.)",
+          "translation": "We spend spare times in useful reading and visiting art exhibitions in the city."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (12.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "نَادِرًا مَا يُشَاهِدُ التِّلْفَازَ فِي نِهَايَةِ الأُسْبُوعِ؛ لِأَنَّهُ يُفَضِّلُ السَّفَرَ وَالتَّخْيِيمَ.(Nādiran mā yushāhidu at-tilfāza fī nihāyati al-usbūʿ; li-annahu yufaḍḍilu as-safara wa-at-takhīm.)",
+          "reading": "[naː.di.ran maː ju.ʃaː.hi.du‿t.til.faː.za fiː ni.haː.ja.ti‿l.ʔus.buːʕ; li.ʔan.na.hu ju.fadˤ.dˤi.lu‿s.sa.fa.ra wat.tax.jiːm] (Nā-di-ran mā yu-shā-hi-du at-til-fā-za fī ni-hā-ya-ti al-us-būʿ; li-an-na-hu yu-faḍ-ḍi-lu as-sa-fa-ra wa-at-takh-yīm.)",
+          "translation": "Rarely does he watch television at the weekend; because he prefers traveling and camping."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (12.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "التَّرْوِيحُ عَنِ النَّفْسِ بِالأَنْشِطَةِ النَّافِعَةِ يُعِيدُ لِلإِنْسَانِ طَاقَتَهُ وَنَشَاطَهُ لِلْعَمَلِ.(At-tarwīḥu ʿani an-nafsi bi-al-anshirati an-nāfiʿati yuʿīdu li-l-insāni ṭāqatahu wa-nashāṭahu li-l-ʿamal.)",
+          "reading": "[at.tar.wiː.ħu ʕa.ni‿n.naf.si bil.ʔan.ʃi.tˤa.ti‿n.naː.fi.ʕa.ti ju.ʕiː.du lil.ʔin.saː.ni tˤaː.qa.ta.hu wa.na.ʃaː.tˤa.hu lil.ʕa.mal] (At-tar-wī-ḥu ʿa-ni an-naf-si bi-al-an-shi-ṭa-ti an-nā-fi-ʿa-ti yu-ʿī-du li-l-in-sā-ni ṭā-qa-ta-hu wa-na-shā-ṭa-hu li-l-ʿa-mal.)",
+          "translation": "Recreation for the soul through useful activities restores to humans their energy and vigor for work."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "دَائِمًا وَغَالِبًا وَأَحْيَانًا تَدُورْ، فَتَمْلَأُ أَوْقَاتَ الفَرَاغِ بِالبَهْجَةِ وَالسُّرُورْ!"
+      ],
+      "culturalNotes": [
+        "الترويح عن النفس وممارسة الهوايات النافعة من مقاصد حفظ الصحة النفسية والبدنية التي امتدحها الحكماء العرب لتجديد العزيمة والنشاط."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)» (الدرس 4)؟",
+          "prompt": "ما هو ظرف التكرار المعبر عن الاستمرار الكامل بنسبة مئة بالمئة؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)» بأسلوب أكاديمي دقيق (12.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (12.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (12.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (12.4.w3)"
+            "دَائِمًا (Always - 100%)",
+            "نادرًا",
+            "أحيانًا",
+            "أبدًا"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«دَائِمًا» تدل على الدوام والاستمرار الكامل."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما معنى عبارة «أَوْقَاتُ الفَرَاغِ» في اللغة العربية؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "الوَقْتُ الخَالِي مِنَ الشَّوَاغِلِ وَالأَعْمَالِ الرَّسْمِيَّةِ (Leisure / Free time)",
+            "وقت العمل الشاق",
+            "وقت النوم فقط",
+            "وقت الامتحانات"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«أَوْقَاتُ الفَرَاغِ» هي الأوقات الحرة المتاحة للاستجمام وممارسة الهوايات."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u12-l4):",
+          "prompt": "اختر الجملة التي توظف ظرف التكرار «غَالِبًا» في سياق العطلة الأسبوعية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (12.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (12.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (12.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (12.4.x3)"
+            "غَالِبًا مَا نَذْهَبُ إِلَى شَاطِئِ البَحْرِ فِي نِهَايَةِ الأُسْبُوعِ. (We often go to the sea beach at the weekend.)",
+            "غالبا ذهبت امس الى المطار بالماضي خطأ",
+            "نحن ابدا نذهب دائما",
+            "تكرار غالبا نهاية اسبوع سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة توظف «غَالِبًا مَا نَذْهَبُ» للتعبير عن عادة تكرارية منتظمة في العطلة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)»؟",
+          "prompt": "ما هو الظرف المعبر عن قلة الحدوث الشديدة (10%)؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (12.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (12.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (12.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (12.4.y3)"
+            "نَادِرًا (Rarely / Seldom)",
+            "دائمًا",
+            "عادتًا",
+            "يوميًا"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«نَادِرًا» هو الظرف الدال على قلة الوقوع والندرة."
         }
       ]
     },
@@ -7441,24 +7462,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 12-4)؟",
+          "prompt": "اختر الفقرة التي تتناول التوازن بين العمل والترويح باستخدام ظروف التكرار المتنوعة بدقة وبلاغة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (12.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (12.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (12.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (12.4.z3)"
+            "يَعْمَلُ المَرْءُ بِجِدٍّ طَوَالَ الأُسْبُوعِ، لٰكِنَّهُ يَحْرِصُ دَائِمًا عَلَى اسْتِثْمَارِ أَوْقَاتِ فَرَاغِهِ، فَيَزُورُ الحَدَائِقَ غَالِبًا، وَيُمَارِسُ الرِّيَاضَةَ أَحْيَانًا؛ لِلتَّرْوِيحِ عَنِ النَّفْسِ وَتَجْدِيدِ الطَّاقَةِ. (A person works hard throughout the week, but always ensures investing his spare times, so he visits gardens often, and practices sports sometimes; for recreation of the soul and renewing energy.)",
+            "يعمل المرء بالماضي فقط بلا ظروف تكرار وبلا ترويح.",
+            "دائما غالبا احيانا نادرا فراغ ترويح سكون فتحة ضمة.",
+            "لا يوجد وقت فراغ ولا يعمل احد في المدينة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة توظف «دَائِمًا، غَالِبًا، أَحْيَانًا» في نسق فصيح يصف استثمار أوقات الفراغ والترويح عن النفس بجمال وبيان."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u12-l4) باللغة العربية (مثال: «الهوايات»):",
+          "prompt": "اكتب باللغة العربية الفصحى ظرف التكرار الذي يعني من حين إلى آخر (50%) (اكتب: «أحيانا»؛ بدون تنوين أو به):",
           "acceptedAnswers": [
-            "الهوايات",
-            "الهوايات"
+            "أحيانا",
+            "أَحْيَانًا",
+            "احيانا",
+            "أحيانًا"
           ],
-          "explanation": "المصطلح الصحيح هو «الهوايات»."
+          "explanation": "الظرف هو «أحيانا»."
         }
       ],
       "passThreshold": 0.8
@@ -7469,85 +7492,89 @@
     "subject": "arabic",
     "unit": 12,
     "lessonNumber": 5,
-    "title": "الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar) (الدرس 5)",
+    "title": "حوار النادي الرياضي وتبادل الهوايات والاهتمامات (Sports Club & Hobbies Dialogue)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المصادر الصريحة والمؤولة، التعبير عن الهوايات والاهتمامات الشخصية والتفضيل. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة الثانية عشرة: المصادر الصريحة، معجم الرياضات والهوايات، تراكيب التفضيل والإعجاب، وظروف التكرار في حوار حيوي متكامل بالنادي.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة الثانية عشرة من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس ندمج جميع المكتسبات اللغوية والصرفية في حوار تطبيقي شيق يدور في أروقة النادي الرياضي والثقافي بين صديقين (حسام وزياد) يتبادلان فيه الحديث عن هواياتهما المفضلة، واستثمار أوقات الفراغ بين الرياضة البدنية والفنون الفكرية:\n\nمحاور النص الحواري الشامل:\n1.【استخدام المصادر الصريحة بمختلف أوزانها】: السِّبَاحَةُ، الفُرُوسِيَّةُ، الرَّسْمُ، العَزْفُ، التَّصْوِيرُ.\n2.【تطبيق تراكيب التفضيل والإعجاب】: «أُفَضِّلُ ... عَلَى ...»، «تُعْجِبُنِي كِتَابَةُ القَصَائِدِ»، «يُعْجِبُنِي رُكُوبُ الخَيْلِ».\n3.【توظيف ظروف التكرار بدقة】: دَائِمًا، غَالِبًا، أَحْيَانًا، نَادِرًا.\n4.【الحديث عن استثمار أوقات الفراغ والترويح】: التوازن بين بناء الجسد وتغذية الروح والفكر.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)» بأسلوب أكاديمي دقيق (12.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)' to students in an accurate academic style."
+          "target": "مَرْحَبًا حُسَام، كَيْفَ تَقْضِي أَوْقَاتَ فَرَاغِكَ فِي النَّادِي الرِّيَاضِيِّ؟(Marḥaban Ḥusām, kayfa taqḍī awqāta farāghika fī an-nādī ar-riyāḍiyy?)",
+          "reading": "[mar.ħa.ban ħu.saːm, kaj.fa taq.dˤiː ʔaw.qaː.ta fa.raː.ɣi.ka fiː‿n.naː.diː‿r.ri.jaː.dˤijj?] (Mar-ḥa-ban Ḥu-sām, kay-fa taq-ḍī aw-qā-ta fa-rā-ghi-ka fī an-nā-dī ar-ri-yā-ḍiyy?)",
+          "translation": "Hello Husam, how do you spend your spare time in the sports club?"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (12.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَنَا أُمَارِسُ السِّبَاحَةَ دَائِمًا، وَأُفَضِّلُ رُكُوبَ الخَيْلِ عَلَى لَعِبِ كُرَةِ القَدَمِ.(Anā umārisu as-sibāḥata dāʾiman, wa-ufaḍḍilu rukūba al-khayli ʿalā laʿibi kurati al-qadam.)",
+          "reading": "[ʔa.naː ʔu.maː.ri.su‿s.si.baː.ħa.ta daː.ʔi.man, wa.ʔu.fadˤ.dˤi.lu ru.kuː.ba‿l.xaj.li ʕa.laː la.ʕi.bi ku.ra.ti‿l.qa.dam] (A-nā u-mā-ri-su as-si-bā-ḥa-ta dā-ʾi-man, wa-u-faḍ-ḍi-lu ru-kū-ba al-khay-li ʿa-lā la-ʿi-bi ku-ra-ti al-qa-dam.)",
+          "translation": "I practice swimming always, and I prefer horse riding over playing football."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (12.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تُعْجِبُنِي كِتَابَةُ القَصَائِدِ وَعَزْفُ العُودِ، وَأَذْهَبُ أَحْيَانًا لِرَسْمِ الطَّبِيعَةِ فِي الجِبَالِ.(Tuʿjibunī kitābatu al-qaṣāʾidi wa-ʿazfu al-ʿūd, wa-adhhabu aḥyānan li-rasmi aṭ-ṭabīʿati fī al-jibāl.)",
+          "reading": "[tuʕ.ʒi.bu.niː ki.taː.ba.tu‿l.qa.sˤaː.ʔi.di wa.ʕaz.fu‿l.ʕuːd, wa.ʔað.ha.bu ʔaħ.jaː.nan li.ras.mi‿tˤ.tˤa.biː.ʕa.ti fiː‿l.ʒi.baːl] (Tuʿ-ji-bu-nī ki-tā-ba-tu al-qa-ṣā-ʾi-di wa-ʿaz-fu al-ʿūd, wa-adh-ha-bu aḥ-yā-nan li-ras-mi aṭ-ṭa-bī-ʿa-ti fī al-ji-bāl.)",
+          "translation": "Writing poems and playing the lute please me, and I go sometimes to draw nature in the mountains."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (12.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "إِنَّ تَنَوُّعَ الهِوَايَاتِ بَيْنَ الرِّيَاضَةِ البَدَنِيَّةِ وَالفُنُونِ الفِكْرِيَّةِ يَبْنِي شَخْصِيَّةً مُتَوَازِنَةً وَرَائِعَةً.(Inna tanawwuʿa al-hiwāyāti bayna ar-riyāḍati al-badaniyyati wa-al-funūni al-fikriyyati yabnī shakhṣiyyatan mutawāzinatan wa-rāʾiʿah.)",
+          "reading": "[ʔin.na ta.naw.wu.ʕa‿l.hi.waː.jaː.ti baj.na‿r.ri.jaː.dˤa.ti‿l.ba.da.nij.ja.ti wal.fu.nuː.ni‿l.fik.rij.ja.ti jab.niː ʃax.sˤij.ja.tan mu.ta.waː.zi.na.tan wa.raː.ʔi.ʕah] (In-na ta-naw-wu-ʿa al-hi-wā-yā-ti bay-na ar-ri-yā-ḍa-ti al-ba-da-niy-ya-ti wa-al-fu-nū-ni al-fik-riy-ya-ti yab-nī shakh-ṣiy-ya-tan mu-ta-wā-zi-na-tan wa-rā-ʾi-ʿah.)",
+          "translation": "Indeed, diversity of hobbies between physical sports and intellectual arts builds a balanced and wonderful personality."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فِي النَّادِي اجْتَمَعَتْ هِوَايَاتُنَا بِإِتْقَانْ: مَصَادِرٌ وَتَفْضِيلٌ وَرِيَاضَةُ الأَبْدَانْ!"
+      ],
+      "culturalNotes": [
+        "المجالس والنوادي في الثقافة العربية فضاءات عامرة بالنشاط الفكري والحواري وتبادل التجارب في مختلف الفنون والرياضات الأصيلة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)» (الدرس 5)؟",
+          "prompt": "في الحوار الشامل، ما هي الرياضة التي يمارسها حسام دائمًا؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)» بأسلوب أكاديمي دقيق (12.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (12.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (12.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (12.5.w3)"
+            "السِّبَاحَةُ (Swimming)",
+            "كرة السلة فقط",
+            "المصارعة",
+            "التزلج على الجليد"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "أوضح حسام: «أَنَا أُمَارِسُ السِّبَاحَةَ دَائِمًا»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما الذي يفضله حسام على لعب كرة القدم؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "رُكُوبَ الخَيْلِ / الفُرُوسِيَّةَ (Horse riding / Horsemanship)",
+            "الجلوس في البيت",
+            "مشاهدة التلفاز",
+            "النوم"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "قال حسام: «أُفَضِّلُ رُكُوبَ الخَيْلِ عَلَى لَعِبِ كُرَةِ القَدَمِ»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u12-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تصف هوايات الفنون والموسيقى بأسلوب فصيح:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (12.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (12.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (12.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (12.5.x3)"
+            "— مَا هِيَ هِوَايَتُكَ الفَنِّيَّةُ؟ — تُعْجِبُنِي كِتَابَةُ الخَطِّ العَرَبِيِّ، وَأَعْزِفُ عَلَى العُودِ أَحْيَانًا فِي المَسَاءِ. (— What is your artistic hobby? — Writing Arabic calligraphy pleases me, and I play the lute sometimes in the evening.)",
+            "— هوايتي الفنية هي اكل الطعام فقط.",
+            "— كم الحساب في النادي؟ — الحساب كان امس في المطار.",
+            "— فن موسيقى عود خط سكون فتحة."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة توظف «تُعْجِبُنِي كِتَابَةُ الخَطِّ»، «أَعْزِفُ عَلَى العُودِ»، «أَحْيَانًا» بتناغم حواري بديع."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الهوايات والأنشطة الترفيهية والمصدر (Hobbies & Masdar)»؟",
+          "prompt": "ما هي الفائدة العائدة على الإنسان من تنوع الهوايات والأنشطة كما ورد في ختام الحوار؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (12.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (12.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (12.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (12.5.y3)"
+            "بِنَاءُ شَخْصِيَّةٍ مُتَوَازِنَةٍ بَدَنِيًّا وَفِكْرِيًّا (Building a balanced personality physically and intellectually)",
+            "إضاعة الوقت فقط",
+            "الشعور بالتعب الدائم",
+            "ترك الدراسة والعمل"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "تنوع الهوايات بين البدني والفكري يسهم في صقل الشخصية وبناء التوازن الإنساني المتكامل."
         }
       ]
     },
@@ -7555,24 +7582,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 12-5)؟",
+          "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة الثانية عشرة بأكملها (المصادر، الرياضات، التفضيل والإعجاب، ظروف التكرار، والنادي):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (12.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (12.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (12.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (12.5.z3)"
+            "الْتَقَى حُسَامٌ وَزِيَادٌ فِي النَّادِي، فَقَالَ حُسَامٌ: «أُمَارِسُ السِّبَاحَةَ دَائِمًا، وَأُفَضِّلُ رُكُوبَ الخَيْلِ عَلَى كُرَةِ القَدَمِ»، فَرَدَّ زِيَادٌ: «تُعْجِبُنِي قِرَاءَةُ الشِّعْرِ وَعَزْفُ العُودِ، وَأَذْهَبُ غَالِبًا لِرَسْمِ الطَّبِيعَةِ»، فَاتَّفَقَا عَلَى أَنَّ تَنَوُّعَ الهِوَايَاتِ يُحَقِّقُ التَّوَازُنَ وَالسَّعَادَةَ. (Husam and Ziyad met at the club, so Husam said: 'I practice swimming always, and I prefer horse riding over football,' so Ziyad replied: 'Reading poetry and playing the lute please me, and I often go to draw nature,' and they agreed that diversity of hobbies achieves balance and happiness.)",
+            "التقى حسام وزياد بالافعال الماضية فقط بلا هوايات وبلا مصادر وتفضيل.",
+            "نادي رياضي سباحة خيل شعر عود رسم تفضيل اعجاب سكون فتحة.",
+            "لم يتحدث حسام مع زياد وغادرا النادي فورا بلا فائدة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج المصادر الصريحة، وأساليب التفضيل والإعجاب، وظروف التكرار في سياق سردي بديع وأصيل."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u12-l5) باللغة العربية (مثال: «الهوايات»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم المكان المخصص للأنشطة الرياضية والاجتماعية (اكتب: «نادي» أو «النادي»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الهوايات",
-            "الهوايات"
+            "نادي",
+            "النادي",
+            "نَادٍ",
+            "نَادِي",
+            "النَّادِي"
           ],
-          "explanation": "المصطلح الصحيح هو «الهوايات»."
+          "explanation": "المكان هو «نادي» أو «النادي»."
         }
       ],
       "passThreshold": 0.8
