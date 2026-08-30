@@ -8275,53 +8275,62 @@
     "subject": "ukrainian",
     "unit": 20,
     "lessonNumber": 1,
-    "title": "Складнопідрядні речення причини, мети та наслідку (Complex) (Part 1)",
+    "title": "Складнопідрядні речення причини: бо, тому що, оскільки, через те що",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 20.1) with authentic linguistic precision.",
+    "objective": "Опанувати багатство сполучників причини в українській мові (бо, тому що, оскільки, через те що, завдяки тому що), їх синтаксичну позицію та правила розчленування складених сполучників.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Складнопідрядні речення причини вказують на причину, підставу чи мотив дії головної частини та відповідають на питання «чому? з якої причини? через що?»:\n\n1. Реєстр та стилістика причинних сполучників:\n   - «БО» — найуживаніший розмовний та художній сполучник; підрядна частина з «бо» ЗАВЖДИ стоїть ПІСЛЯ головної (не може починати речення):\n     * «Ми зупинилися, бо почалася сильна злива».\n   - «ТОМУ ЩО» — універсальний нейтральний сполучник:\n     * «Студент успішно здав іспит, тому що сумлінно готувався».\n   - «ОСКІЛЬКИ» — книжний, науковий та діловий сполучник; підрядна частина з «оскільки» може стояти як після, так і ПЕРЕД головною частиною:\n     * «Оскільки результати експерименту підтвердилися, ми розпочали публікацію статті».\n   - «ЧЕРЕЗ ТЕ ЩО / З ОГЛЯДУ НА ТЕ ЩО» — офіційно-діловий стиль для позначення несприятливих або нейтральних обставин:\n     * «Рейс затримали через те, що на летовищі густий туман».\n   - «ЗАВДЯКИ ТОМУ ЩО» — вживається ВИКЛЮЧНО для позначення позитивних, сприятливих факторів («Завдяки тому що ми вчасно втрутилися, пацієнт одужав»). Вживання *«завдяки»* при негативних подіях (*завдяки хворобі*) є грубою лексичною помилкою!\n\n2. Пунктуація складених сполучників (Розчленування):\nЗалежно від логічного наголосу кома може ставитися перед усім сполучником або всередині нього:\n   - «Ми запізнилися, через те що зламався автобус» (акцент на факті причини).\n   - «Ми запізнилися через те, що зламався автобус» (акцент на слові «через те»).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Оскільки українська економіка демонструє стійкість, міжнародні інвестори нарощують капіталовкладення.",
+          "reading": "[ɔsˈkʲilʲkɪ ukrɐˈjinʲsʲkɐ ɛkɔˈnɔmʲikɐ dɛmɔnstˈrujɛ ˈsʲtʲijkʲisʲtʲ, mʲiʒnɐˈrɔdnʲi inwɛsˈtɔrɪ nɐˈrɔʃtʃujutʲ kɐpʲitɐlɔwˈklɑdɛnʲːɑ] (ohs-KEEL'-ky oo-krah-YEEN-s'kah eh-koh-NOH-mee-kah deh-mohns-TROO-yeh STEEL'-keest', meezh-nah-ROHD-nee een-vehs-TOH-ry nah-ROHSH-choo-yoot' kah-pee-tah-lohv-KLAH-den-nyah)",
+          "translation": "Since the Ukrainian economy demonstrates resilience, international investors are increasing capital investments."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 20-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Завдяки тому що команда працювала злагоджено та самовіддано, проєкт реалізували достроково.",
+          "reading": "[zɐwˈdʲɑkɪ ˈtɔmu ʃtʃɔ kɔˈmɑndɐ prɐt͡sʲuˈwɑlɐ zlɑˈɦɔdʒɛnɔ tɑ sɐmɔwʲidˈdɑnɔ, prɔˈjɛkt rɛɐlʲizɔˈwɑlɪ dɔstˈrɔkɔwɔ] (zahv-DYAH-ky TOH-moo shchoh koh-MAHN-dah praht-syoo-VAH-lah zlah-HOH-dzheh-noh tah sah-moh-veed-DAH-noh, proh-YEHKT reh-ah-lee-zoh-VAH-ly dohs-TROH-koh-woh)",
+          "translation": "Thanks to the team working harmoniously and selflessly, the project was implemented ahead of schedule."
+        },
+        {
+          "target": "Ми вирушили в дорогу на світанку, бо хотіли встигнути до заходу сонця.",
+          "reading": "[mɪ ˈwɪruʃɪlɪ w dɔˈrɔɦu nɑ swʲiˈtɑnku, bɔ xɔˈtʲilɪ ˈwstɪɦnutɪ dɔ ˈzɑxɔdu ˈsɔnt͡sʲi] (my VY-roo-shy-ly v doh-ROH-hoo nah swee-TAHN-koo, boh khoh-TEE-ly VSTYH-noo-ty doh ZAH-khoh-doo SOHN-tsyah)",
+          "translation": "We set out at dawn because we wanted to make it before sunset."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Позитивна причина — тільки «завдяки тому що»; сполучник «бо» — ніколи не починає речення; «оскільки» — окраса ділового стилю!"
+      ],
+      "culturalNotes": [
+        "Культура розрізнення «завдяки» (для добра) та «через / внаслідок» (для лиха чи нейтральних подій) є мірилом освіченості сучасного українця."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Дідусь\":",
+          "prompt": "Оберіть правильний сполучник для речення про позитивний результат: «... лікарі діяли професійно, життя пацієнта було врятовано»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.1.",
-            "Неправильне відмінкове узгодження зі словом «Бабуся»",
-            "Порушення законів евфонії та словотворення для «Син»",
-            "Стилістично некоректна синтаксична конструкція з «Донька»"
+            "Завдяки тому що (Positive favorable causality conjunction)",
+            "Через те що",
+            "Бо",
+            "Так що"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Для вираження сприятливої позитивної причини використовується сполучник «завдяки тому що»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Дідусь\":",
+          "prompt": "Який сполучник причини НЕ МОЖЕ стояти на самому початку складного речення?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.1.",
-            "Порушення законів евфонії та словотворення для «Син»",
-            "Стилістично некоректна синтаксична конструкція з «Донька»",
-            "Неправильне відмінкове узгодження зі словом «Бабуся»"
+            "Бо (Conjunction бо always follows the main clause)",
+            "Оскільки",
+            "Через те що",
+            "Зважаючи на те що"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Сполучник «бо» в українській мові приєднує підрядну частину виключно після головної частини."
         }
       ]
     },
@@ -8329,17 +8338,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Дідусь\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому причинний зв'язок та вибір сполучника оформлено абсолютно грамотно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.1.",
-            "Стилістично некоректна синтаксична конструкція з «Донька»",
-            "Неправильне відмінкове узгодження зі словом «Бабуся»",
-            "Порушення законів евфонії та словотворення для «Син»"
+            "Оскільки всі підготовчі роботи завершено вчасно, ми можемо переходити до тестування системи.",
+            "Бо всі роботи завершено вчасно, ми можемо переходити до тестування.",
+            "Завдяки тому що сталася серйозна аварія, рух поїздів зупинили.",
+            "Ми перемогли, через те ми старалися."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Оскільки» правильно розпочинає підрядну частину на початку речення; вживання «завдяки» при аварії є помилковим."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u20-l2": {
@@ -8347,53 +8357,62 @@
     "subject": "ukrainian",
     "unit": 20,
     "lessonNumber": 2,
-    "title": "Складнопідрядні речення причини, мети та наслідку (Complex) (Part 2)",
+    "title": "Складнопідрядні речення мети: щоб, аби, для того щоб, з тим щоб",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 20.2) with authentic linguistic precision.",
+    "objective": "Опанувати синтаксис підрядних речень мети зі сполучниками щоб, аби, для того щоб, з тим щоб, їх пунктуацію та часові узгодження присудків.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Складнопідрядні речення мети виражають мету або призначення дії головної частини та відповідають на питання «з якою метою? для чого? навіщо?»:\n\n1. Реєстр цільових сполучників:\n   - «ЩОБ» — основний універсальний сполучник мети:\n     * «Ми прийшли сюди, щоб навчитися нового».\n   - «АБИ» — питомий стилістичний синонім сполучника «щоб», що надає мовленню виразності та прагматичної енергії:\n     * «Він працював день і ніч, аби забезпечити родину всім необхідним».\n   - «ДЛЯ ТОГО ЩОБ / З ТИМ ЩОБ / З ТІЄЮ МЕТОЮ ЩОБ» — складені сполучники офіційного, наукового та публіцистичного стилів:\n     * «Для того щоб досягти значних успіхів у науці, потрібні наполегливість і терпіння».\n\n2. Граматична координація дієслів:\n   - Якщо суб'єкт головної та підрядної частин спільний -> у підрядній частині вживається ІНФІНІТИВ:\n     * «Я приїхав до Києва, щоб вступити до університету» (Я приїхав і я вступлю).\n   - Якщо суб'єкти різні -> у підрядній частині обов'язково вживається форма МИНУЛОГО часу (умовний спосіб):\n     * «Я пояснив тему ще раз, щоб усі студенти добре її зрозуміли» (Я пояснив, а студенти зрозуміли).\n\n3. Пунктуація складених сполучників:\nКома може ставитися перед усім сполучником («..., для того щоб...») або всередині («Для того, щоб...»).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Для того щоб здобути якісну вищу освіту, сучасний студент повинен володіти критичним мисленням.",
+          "reading": "[dlʲɑ ˈtɔɦɔ ʃtʃɔb zdɔˈbutɪ ˈjɑkʲisnu ˈwɪʃtʃu ɔsˈwʲitu, sut͡ʃɐsˈnɪj stuˈdɛnt pɔˈwɪnɛn wɔlɔˈdʲitɪ krɪˈtɪtʃnɪm ˈmɪslɛnʲːɐm] (dlyah TOH-hoh shchohb zdoh-BOO-ty YAH-kees-noo VYSH-choo ohs-VEE-too, soo-chahs-NYY stoo-DEN-teh poh-VY-nen voh-loh-DEE-ty kry-TYCH-nym MYS-len-nyahm)",
+          "translation": "In order to obtain a quality higher education, a modern student must possess critical thinking."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 20-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Уряд ухвалив нові податкові пільги, аби підтримати малий та середній український бізнес.",
+          "reading": "[ˈurʲɑd uxˈwɑlɪw nɔˈwʲi pɔdɐtˈkɔwʲi ˈpʲilʲɦɪ, ˈɑbɪ pʲidˈtrɪmɐtɪ mɐˈlɪj tɑ sɛˈrɛdnʲij ukrɐˈjinʲsʲkɪj ˈbʲiznɛs] (OO-ryahd ookh-VAH-lyv noh-VEE poh-daht-KOH-vee PEEL'-hy, AH-by peed-TRY-mah-ty mah-LYY tah seh-RED-neey oo-krah-YEEN-s'kyy BEEZ-nehs)",
+          "translation": "The government approved new tax incentives in order to support small and medium Ukrainian businesses."
+        },
+        {
+          "target": "Викладач запропонував додаткові консультації, щоб студенти впевнено склали кваліфікаційний іспит.",
+          "reading": "[wɪklɐˈdɑt͡ʃ zɐprɔpɔnuˈwɑw dɔdɐtˈkɔwʲi kɔnsulʲˈtɑt͡sʲiji, ʃtʃɔb stuˈdɛntɪ ˈwpɛwnɛnɔ ˈsklɑlɪ kwɐlʲifʲikɐt͡sʲijˈnɪj ˈispɪt] (vy-klah-DAHCH zah-proh-poh-noo-VAHV doh-daht-KOH-vee kohn-sool'-TAH-tsee-yee, shchohb stoo-DEN-ty VPEHV-neh-noh SKLAH-ly kvah-lee-fee-kah-tseey-NYY EES-pyt)",
+          "translation": "The instructor offered additional consultations so that the students would pass the qualification exam confidently."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Один діяч — «щоб зробити» (інфінітив); різні діячі — «щоб вони зробили» (минулий час)!"
+      ],
+      "culturalNotes": [
+        "Сполучник «аби» в класичній та сучасній українській літературі підкреслює рішучість і цілеспрямованість героїв."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Бабуся\":",
+          "prompt": "Оберіть правильну граматичну форму дієслова в реченні з різними суб'єктами «Мати відчинила вікно, щоб у кімнату ... свіже повітря»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.2.",
-            "Неправильне відмінкове узгодження зі словом «Син»",
-            "Порушення законів евфонії та словотворення для «Донька»",
-            "Стилістично некоректна синтаксична конструкція з «Друг»"
+            "Зайшло (Past tense form for different subjects with purpose conjunction щоб)",
+            "Зайти",
+            "Зайде",
+            "Заходити"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Оскільки суб'єкти різні (мати і повітря), у підрядній частині мети вживається форма минулого часу: «щоб зайшло»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Бабуся\":",
+          "prompt": "Який сполучник є цільовим (виражає мету дії)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.2.",
-            "Порушення законів евфонії та словотворення для «Донька»",
-            "Стилістично некоректна синтаксична конструкція з «Друг»",
-            "Неправильне відмінкове узгодження зі словом «Син»"
+            "Для того щоб (Purpose conjunction)",
+            "Через те що",
+            "Так що",
+            "Немовби"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Сполучник «для того щоб» приєднує підрядні речення мети."
         }
       ]
     },
@@ -8401,17 +8420,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Бабуся\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому цільове складнопідрядне речення побудовано бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.2.",
-            "Стилістично некоректна синтаксична конструкція з «Друг»",
-            "Неправильне відмінкове узгодження зі словом «Син»",
-            "Порушення законів евфонії та словотворення для «Донька»"
+            "Ми об'єднали свої зусилля, аби наша рідна країна стала квітучою та сильною.",
+            "Ми об'єднали свої зусилля, що б країна стане сильною.",
+            "Ми об'єднали свої зусилля, бо країна стати сильною.",
+            "Ми об'єднали зусилля так що країна стала сильною."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Аби» — нормативний сполучник мети з дієсловом минулого часу «стала»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u20-l3": {
@@ -8419,53 +8439,62 @@
     "subject": "ukrainian",
     "unit": 20,
     "lessonNumber": 3,
-    "title": "Складнопідрядні речення причини, мети та наслідку (Complex) (Part 3)",
+    "title": "Складнопідрядні речення наслідку: розрізнення «так що» vs «так, що»",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 20.3) with authentic linguistic precision.",
+    "objective": "Опанувати синтаксис та пунктуацію підрядних речень наслідку зі сполучником «так що» та навчитися безпомилково розрізняти їх зі складнопідрядними способу дії «так, що».",
     "presentation": {
-      "explanation": "",
+      "explanation": "Складнопідрядні речення наслідку виражають висновок, наслідок чи результат, який випливає зі змісту всієї головної частини:\n\n1. Складнопідрядні речення наслідку (Result Clause):\n   - Приєднуються неподільним сполучником «ТАК ЩО».\n   - До підрядної частини можна поставити питання «і який наслідок цього? і що з цього вийшло?».\n   - ПУНКТУАЦІЯ: Кома ставиться виключно ПЕРЕД усім сполучником «так що» (всередині сполучника коми бути не може!):\n     * «Пішов густий лапатий сніг, так що дорогу засипало за лічені хвилини».\n     * «Експеримент завершився повним тріумфом, так що всі сумніви остаточно розвіялися».\n\n2. КРИТИЧНЕ РОЗРІЗНЕННЯ: «так що» (наслідок) vs «так, що» (спосіб дії та ступінь):\n   - Наслідок (кома перед «так що»): «Ми прийшли вчасно, так що зустріч розпочалася без запізнення» (висновок зі всієї ситуації).\n   - Спосіб дії / міра і ступінь (вказівне слово «так» у головній частині + сполучник «що» в підрядній; кома МІЖ ними):\n     * «Він говорив ТАК переконливо, ЩО всі присутні повірили кожному його слову» (говорив як? у якій мірі? — так переконливо);\n     * «Студент втомився ТАК сильно, ЩО ледве дійшов додому».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Вночі вдарив сильний мороз, так що вся поверхня річки вкрилася міцною прозорою кригою.",
+          "reading": "[wnɔˈtʃʲi ˈwdɑrɪw ˈsʲilʲnɪj mɔˈrɔz, tɑk ʃtʃɔ wˈsʲɑ pɔˈwɛrxnʲɑ ˈrʲitʃkɪ ˈwkrɪlɐsʲɑ ˈmʲit͡snɔju prɔˈzɔrɔju ˈkrɪɦɔju] (vnoh-CHEE VDAH-ryv SEEL'-nyy moh-ROHZ, tahk shchoh VSYAH poh-VEHRKH-nyah REECH-ky VKRY-lahs'-yah MEETS-noh-yoo proh-ZOH-roh-yoo KRY-hoh-yoo)",
+          "translation": "A severe frost struck during the night, so that the entire surface of the river became covered with thick transparent ice."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 20-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Актор декламував поезію Тараса Шевченка так натхненно, що в залі запанувала цілковита тиша.",
+          "reading": "[ɐkˈtɔr dɛklɐmuˈwɑw pɔˈɛzʲiju tɐˈrɑsɐ ʃɛwˈtʃɛnkɐ tɑk nɐtxˈnɛnnɔ, ʃtʃɔ w ˈzɑlʲi zɐpɐnuˈwɑlɐ t͡sʲilkɔˈwɪtɐ ˈtɪʃɐ] (ahk-TOHR deh-klah-moo-VAHV poh-eh-ZEE-yoo tah-RAH-sah shehv-CHEN-kah tahk naht-KHNEN-noh, shchoh v ZAH-lee zah-pah-noo-VAH-lah tsee-lkoh-VY-tah TY-shah)",
+          "translation": "The actor recited Taras Shevchenko's poetry so inspirationally that complete silence fell in the hall."
+        },
+        {
+          "target": "Усі наукові доповіді підготували завчасно, так що засідання секції пройшло напрочуд плідно.",
+          "reading": "[uˈsʲi nɐuˈkɔwʲi dɔpɔˈwʲidʲi pʲidɦɔtuˈwɑlɪ zɐwˈtʃɑsnɔ, tɑk ʃtʃɔ zɐˈsʲidɐnʲːɑ ˈsɛkt͡sʲiji prɔjˈʃlɔ nɐprɔˈtʃud ˈplʲidnɔ] (oo-SEE nah-oo-KOH-vee doh-poh-VEE-dee peed-hoh-too-VAH-ly zahv-CHAH-snoh, tahk shchoh zah-SEE-dahn-nyah SEHK-tsee-yee prohy-SHLOH nah-proh-CHOOD PLEED-noh)",
+          "translation": "All scientific presentations were prepared in advance, so that the section session proceeded remarkably fruitfully."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Кома перед «так що» — це наслідок усього речення! Кома між «так» і «що» — це відповідь на питання «як саме?»!"
+      ],
+      "culturalNotes": [
+        "Пунктуаційний аналіз пари «так що» / «так, що» є класичною тестовою пасткою на іспитах з синтаксису української мови."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Син\":",
+          "prompt": "У якому реченні сполучник «так що» виражає наслідок і потребує коми тільки перед словом «так»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.3.",
-            "Неправильне відмінкове узгодження зі словом «Донька»",
-            "Порушення законів евфонії та словотворення для «Друг»",
-            "Стилістично некоректна синтаксична конструкція з «Сьогодні»"
+            "Злива розмила ґрунтову дорогу, так що проїхати автомобілем було неможливо. (Result clause with monolithic conjunction так що)",
+            "Він кричав так що, голос зірвав.",
+            "Він біг так, що втомився.",
+            "Співали так, що чути було скрізь."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "У першому реченні «так що» є цілісним сполучником наслідку, тому кома ставиться перед ним."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Син\":",
+          "prompt": "Яке питання ставиться до підрядної частини речення наслідку («..., так що...»)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.3.",
-            "Порушення законів евфонії та словотворення для «Друг»",
-            "Стилістично некоректна синтаксична конструкція з «Сьогодні»",
-            "Неправильне відмінкове узгодження зі словом «Донька»"
+            "І який наслідок цього? (And what is the consequence of this?)",
+            "З якою метою?",
+            "Яким способом?",
+            "За якої умови?"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Речення наслідку відповідають на питання «і який наслідок цього?»."
         }
       ]
     },
@@ -8473,17 +8502,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Син\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення способу дії та ступеня, в якому кому поставлено МІЖ словами «так» і «що»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.3.",
-            "Стилістично некоректна синтаксична конструкція з «Сьогодні»",
-            "Неправильне відмінкове узгодження зі словом «Донька»",
-            "Порушення законів евфонії та словотворення для «Друг»"
+            "Оратор говорив так палко й переконливо, що переконав навіть найзапекліших опонентів.",
+            "Оратор говорив палко, так що переконав усіх опонентів.",
+            "Оратор говорив, так що всі повірили.",
+            "Оратор говорив так що, переконав усіх."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "У варіанті «говорив так палко, що...» слово «так» є прислівником міри і ступеня, а «що» — сполучником способу дії."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u20-l4": {
@@ -8491,53 +8521,62 @@
     "subject": "ukrainian",
     "unit": 20,
     "lessonNumber": 4,
-    "title": "Складнопідрядні речення причини, мети та наслідку (Complex) (Part 4)",
+    "title": "Складнопідрядні речення порівняльні та способу дії: як, мов, немов, наче, ніби",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 20.4) with authentic linguistic precision.",
+    "objective": "Опанувати синтаксис порівняльних складнопідрядних речень та речень способу дії, реєстр порівняльних сполучників (як, мов, немов, наче, неначе, ніби, мовбито) та їх образну стилістику.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Складнопідрядні порівняльні речення пояснюють зміст головної частини шляхом образного порівняння з іншою дією, станом або явищем:\n\n1. Багатство українських порівняльних сполучників:\n   - «ЯК» — нейтральний, найпоширеніший порівняльний сполучник:\n     * «Він виконав завдання саме так, як радив досвідчений професор».\n   - «МОВ / НЕMOB / МОВБИТО» — поетичні, художні сполучники:\n     * «Дніпро шумить, мов старий богатир розмовляє з вітром».\n   - «НАЧЕ / НЕНАЧЕ / НАЧЕБТО» — сполучники з відтінком удаваної чи уявної дії:\n     * «Хмари пливли так низько, наче торкалися верхівок смерек».\n   - «НІБИ / НІБИТО» — сполучники припущення та образного порівняння:\n     * «У лісі запанувала тиша, ніби вся природа затамувала подих».\n\n2. Порівняльне підрядне речення vs Порівняльний зворот:\n   - Порівняльне РЕЧЕННЯ має свій граматичний присудок (або пропущений присудок, що відновлюється з контексту):\n     * «Дівчина співала так дзвінко, як дзвенить чистий кришталевий струмок».\n   - Порівняльний ЗВОРОТ не має присудка і виступає другорядним членом речення:\n     * «Голос дівчини дзвенів, як кришталевий струмок».\n\n3. Пунктуація: Порівняльні підрядні частини завжди виділяються комами.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Золоті пшеничні ниви хвилювалися під теплим вітром, наче безкрає золотаве море.",
+          "reading": "[zɔlɔˈtʲi pʃɛˈnɪtʃnʲi ˈnɪwɪ xwʲilʲuˈwɑlɪsʲɑ pʲid ˈtɛplɪm ˈwʲitrɔm, ˈnɑtʃɛ bɛzˈkrɑjɛ zɔlɔˈtɑwɛ ˈmɔrɛ] (zoh-loh-TEE psheh-NYCH-nee NY-vy khwy-lyoo-VAH-lys'-yah peed TEP-lym VEET-rohm, NAH-cheh bez-KRAH-yeh zoh-loh-TAH-weh MOH-reh)",
+          "translation": "Golden wheat fields were undulating under the warm wind, like a boundless golden sea."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 20-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Студенти виконали науковий проєкт саме так, як вимагали міжнародні академічні стандарти.",
+          "reading": "[stuˈdɛntɪ wɪˈkɔnɐlɪ nɐuˈkɔwɪj prɔˈjɛkt ˈsɑmɛ tɑk, jɐk wɪmɐˈɦɑlɪ mʲiʒnɐˈrɔdnʲi ɐkɐdɛˈmʲitʃnʲi stɐnˈdɑrtɪ] (stoo-DEN-ty vy-KOH-nah-ly nah-oo-KOH-vyy proh-YEHKT SAH-meh tahk, yahk vy-mah-HAH-ly meezh-nah-ROHD-nee ah-kah-deh-MEECH-nee stahn-DAHR-ty)",
+          "translation": "The students completed the scientific project precisely as international academic standards required."
+        },
+        {
+          "target": "Старий дуб стояв непохитно й величаво, немов охороняв вічний спокій прадавнього лісу.",
+          "reading": "[stɐˈrɪj dub stɔˈjɑw nɛpɔˈxɪtnɔ j wɛlɪˈtʃɑwɔ, nɛˈmɔw ɔxrɔnʲɑw ˈwʲitʃnɪj spɔˈkʲij prɐˈdɑwnʲɔɦɔ ˈlʲisu] (stah-RYY doob stoh-YAHV neh-poh-KHYT-noh y veh-ly-CHAH-woh, neh-MOHV oh-khroh-NYAHV VEETCH-nyy spoh-KEEY prah-DAHV-nyoh-hoh LEE-soo)",
+          "translation": "The ancient oak stood unshakably and majestically, as though guarding the eternal peace of the ancient forest."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Порівнюєш образно — обирай найбагатшу палітру: «як, мов, немов, наче, ніби» — і завжди став кому!"
+      ],
+      "culturalNotes": [
+        "Система порівняльних сполучників в українській мові є однією з найбагатших у Європі, увічнюючи фольклорну поетичність народного світогляду."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Донька\":",
+          "prompt": "Оберіть поетичний порівняльний сполучник для речення «Шумлять смереки, ... розмовляють давні легенди»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.4.",
-            "Неправильне відмінкове узгодження зі словом «Друг»",
-            "Порушення законів евфонії та словотворення для «Сьогодні»",
-            "Стилістично некоректна синтаксична конструкція з «Вчора»"
+            "Немов (Poetic comparative conjunction expressing simile)",
+            "Через те що",
+            "Так що",
+            "Для того щоб"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Сполучник «немов» є виразним поетичним засобом для порівняльних речень."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Донька\":",
+          "prompt": "Яке значення має сполучник «наче» у складнопідрядному реченні?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.4.",
-            "Порушення законів евфонії та словотворення для «Сьогодні»",
-            "Стилістично некоректна синтаксична конструкція з «Вчора»",
-            "Неправильне відмінкове узгодження зі словом «Друг»"
+            "Порівняння та припущення (Comparative and hypothetical simile)",
+            "Пряма причина",
+            "Час дії",
+            "Категоричний наслідок"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Сполучник «наче» вказує на образне порівняння або припущення."
         }
       ]
     },
@@ -8545,17 +8584,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Донька\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення з правильно оформленим порівняльним складнопідрядним зв'язком:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.4.",
-            "Стилістично некоректна синтаксична конструкція з «Вчора»",
-            "Неправильне відмінкове узгодження зі словом «Друг»",
-            "Порушення законів евфонії та словотворення для «Сьогодні»"
+            "Сонце світило так яскраво, наче літо знову повернулося до нашого міста.",
+            "Сонце світило яскраво наче, літо повернулося.",
+            "Сонце світило, через те наче літо повернулося.",
+            "Сонце світило так що наче повернулося."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Підрядна частина зі сполучником «наче» відокремлена комою від головної частини."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u20-l5": {
@@ -8563,53 +8603,62 @@
     "subject": "ukrainian",
     "unit": 20,
     "lessonNumber": 5,
-    "title": "Складнопідрядні речення причини, мети та наслідку (Complex) (Part 5)",
+    "title": "Складні речення з кількома підрядними: послідовна, однорідна та неоднорідна підпорядкованість",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 20.5) with authentic linguistic precision.",
+    "objective": "Опанувати синтаксичну архітектуру та пунктуацію складних речень із кількома підрядними (послідовна, однорідна паралельна та неоднорідна супідрядність, збіг сполучників що коли / що якби).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Складнопідрядні речення можуть містити дві або більше підрядних частин, які поєднуються за трьома основними типами підпорядкування:\n\n1. Послідовна підпорядкованість (Sequential Subordination):\nПерша підрядна частина залежить від головної, друга підрядна — від першої підрядної і так далі за ланцюжком (Головна -> Підрядна 1 -> Підрядна 2):\n   - «Ми знаємо [Головна], що наука розвивається настільки стрімко [Підрядна 1 з'ясувальна], що майбутнє наближається щодня [Підрядна 2 міри й ступеня]».\n   - Збіг двох сполучників (що коли, що якби, що хоч): кома МІЖ ними ставиться, якщо в другій частині немає співвідносного слова «то / так» («Я знав, що, якби ми не поспішили, ми б запізнилися»).\n\n2. Однорідна підпорядкованість (Homogeneous Subordination):\nКілька підрядних частин однакового типу відповідають на те саме питання і залежать від одного й того самого слова в головній частині:\n   - «Ми твердо віримо [Головна], що правда обов'язково переможе [Підрядна 1] і що справедливість запанує на нашій землі [Підрядна 2]».\n   - ПРАВИЛО ПУНКТУАЦІЇ: Якщо дві однорідні підрядні частини з'єднані неповторюваним єднальним сполучником «І / ТА», кома між ними НЕ ставиться (як при однорідних членах речення!).\n\n3. Неоднорідна (паралельна) підпорядкованість (Heterogeneous Subordination):\nКілька підрядних частин різного типу відповідають на різні питання або залежать від різних слів головної частини:\n   - «Коли закінчився дощ [Підрядна часу], ми вийшли на подвір'я [Головна], щоб подихати свіжим повітрям [Підрядна мети]».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Коли над містом зійшло сонце, дослідники вирушили в гори, щоб зібрати рідкісні альпійські рослини.",
+          "reading": "[kɔˈlɪ nɐd ˈmʲistɔm ˈzijʃlɔ ˈsɔnt͡sɛ, dɔsʲˈlʲidnɪkɪ ˈwɪruʃɪlɪ w ˈɦɔrɪ, ʃtʃɔb zʲiˈbrɑtɪ ˈrʲidkʲisnʲi ɐlʲˈpʲijsʲkʲi rɔsˈlɪnɪ] (koh-LY nahd MEES-tohm ZEEY-shloh SOHN-tseh, dohs-LEED-ny-ky VY-roo-shy-ly v HOH-ry, shchohb zee-BRAH-ty REED-kees-nee ahl'-PEEY-s'kee rohs-LY-ny)",
+          "translation": "When the sun rose over the city, the researchers set out into the mountains to collect rare alpine plants."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 20-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Ми глибоко переконані, що українська культура є самобутньою і що вона збагачує скарбницю людства.",
+          "reading": "[mɪ ɦlɪbɔˈkɔ pɛrɛˈkɔnɐnʲi, ʃtʃɔ ukrɐˈjinʲsʲkɐ kulʲˈturɐ jɛ sɐmɔˈbutnʲɔju i ʃtʃɔ wɔˈnɑ zbɐˈɦɑtʃujɛ skɑrbˈnɪt͡sʲu ˈlʲudstwɐ] (my hly-boh-KOH peh-reh-KOH-nah-nee, shchoh oo-krah-YEEN-s'kah kool'-TOO-rah yeh sah-moh-BOOT-nyoh-yoo ee shchoh voh-NAH zbah-HAH-choo-yeh skahrb-NYTS-yoo LYUDS-tvah)",
+          "translation": "We are deeply convinced that Ukrainian culture is original and that it enriches the treasury of humanity."
+        },
+        {
+          "target": "Я переконаний, що, якби ми не підтримували один одного щодня, ми не змогли б подолати ці важкі випробування.",
+          "reading": "[jɑ pɛrɛˈkɔnɐnɪj, ʃtʃɔ, jɐkˈbɪ mɪ nɛ pʲidˈtrɪmuwɐlɪ ˈɔdɪn ˈɔdnɔɦɔ ʃtʃɔdʲˈnʲɑ, mɪ nɛ ˈzmɔɦlɪ b pɔdɔˈlɑtɪ t͡sʲi wɑʒˈkʲi wɪprɔbuˈwɑnʲːɑ] (yah peh-reh-KOH-nah-nyy, shchoh, yahk-BY my neh peed-TRY-moo-vah-ly OH-dyn OHD-noh-hoh shchohd-NYAH, my neh ZMOHH-ly b poh-doh-LAH-ty TSEE vahzh-KEE vy-proh-boo-VAHN-nyah)",
+          "translation": "I am convinced that if we had not supported one another every day, we would not have been able to overcome these hard trials."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Однорідні підрядні з «і» — кому не ставимо («віримо, що... і що...»); на збігу «що, якби...» — ставимо кому, якщо далі немає «то»!"
+      ],
+      "culturalNotes": [
+        "Синтаксичні періоди з кількома типами підрядності притаманні стилю видатних українських філософів та ораторів: Григорія Сковороди, Івана Франка, Дмитра Донцова."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Друг\":",
+          "prompt": "Чи ставиться кома перед сполучником «і» між двома однорідними підрядними в реченні «Я знаю, що день настане і що світло переможе»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.5.",
-            "Неправильне відмінкове узгодження зі словом «Сьогодні»",
-            "Порушення законів евфонії та словотворення для «Вчора»",
-            "Стилістично некоректна синтаксична конструкція з «Завтра»"
+            "Ні, кома не ставиться (No comma between homogeneous subordinate clauses joined by single conjunction і)",
+            "Так, кома обов'язкова перед і",
+            "Ставиться тире",
+            "Ставиться двокрапка"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Між двома однорідними підрядними частинами, з'єднаними неповторюваним сполучником «і», кома не ставиться."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Друг\":",
+          "prompt": "Який тип підпорядкування представлено в реченні «Коли прийшла весна, птахи повернулися до рідного краю, щоб звити нові гнізда»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.5.",
-            "Порушення законів евфонії та словотворення для «Вчора»",
-            "Стилістично некоректна синтаксична конструкція з «Завтра»",
-            "Неправильне відмінкове узгодження зі словом «Сьогодні»"
+            "Неоднорідна (паралельна) підпорядкованість (Heterogeneous subordination: time and purpose clauses)",
+            "Послідовна підпорядкованість",
+            "Однорідна підпорядкованість",
+            "Безсполучниковий зв'язок"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Обидві підрядні частини (часу «Коли...» та мети «щоб...») залежать від однієї головної частини, але відповідають на різні питання."
         }
       ]
     },
@@ -8617,17 +8666,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Друг\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому ВСІ розділові знаки при кількох підрядних частинах розставлено бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 20.5.",
-            "Стилістично некоректна синтаксична конструкція з «Завтра»",
-            "Неправильне відмінкове узгодження зі словом «Сьогодні»",
-            "Порушення законів евфонії та словотворення для «Вчора»"
+            "Ми знаємо, що, коли настане слушний час, наші зусилля принесуть очікувані плоди.",
+            "Ми знаємо що коли настане час наші зусилля принесуть плоди.",
+            "Ми знаємо, що коли настане час, наші зусилля принесуть плоди.",
+            "Ми знаємо, що, коли настане час то наші зусилля принесуть плоди."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "На збігу сполучників «що, коли» кома ставиться, оскільки в головній частині немає другої частини «то»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u21-l1": {
