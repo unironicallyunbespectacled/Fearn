@@ -16694,85 +16694,89 @@
     "subject": "arabic",
     "unit": 28,
     "lessonNumber": 1,
-    "title": "الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts) (الدرس 1)",
+    "title": "أقلام الخط العربي الكبرى: الأصول والقواعد الهندسية (The Master Arabic Calligraphy Scripts: Proportion & Geometric Rules)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أنواع الخطوط العربية (الثلث، النسخ، الكوفي، الديواني)، الزخرفة الهندسية، والأرابيسك. (الجزء 1).",
+    "objective": "إتقان خصائص الأقلام والخطوط العربية الستة الكبرى (الثلث، النسخ، الكوفي، الرقعة، الديواني، والتعليق)، ونظرية «الخط المنسوب» وميزان النقطة المعين عند ابن مقلة وابن البواب.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يُعد الخط العربي ديوان الفنون البصرية الإسلامية وهندسة الروح بأقلام الجمال:\n\nأولاً: الأقلام والخطوط العربية الكبرى:\n1.【خَطُّ الثُّلُثِ (Thuluth - Sultan of Scripts)】:\n   - أمير الخطوط وأصعبها قاطبة، يمتاز بالفخامة والمرونة والتشابك الرائع؛ وهو خط عناوين الكتب، المصاحف الكبرى، وجداريات المساجد.\n2.【خَطُّ النَّسْخِ (Naskh - The Script of Clarity)】:\n   - خط الوضوح التام والقراءة السلسة؛ وهو المعتمد في تدوين المصحف الشريف والكتب والمطبوعات.\n3.【الخَطُّ الكُوفِيُّ (Kufic - The Monumental Script)】:\n   - أقدم الخطوط العربية، يمتاز بهيكله الهندسي الصارم وزواياه القائمة وزخارفه المورقة والمضفورة.\n4.【خَطُّ الرُّقْعَةِ (Ruq'ah)】: خط المعاملات اليومية السريعة، يمتاز بقصر حروفه واستقامة خطوطه وعدم التشكيل.\n5.【الخَطُّ الدِّيوَانِيُّ (Diwani)】: خط الدواوين العثمانية والمراسيم الملكية، يمتاز بالانحناءات اللولبية وتداخل الحروف.\n6.【خَطُّ التَّعْلِيقِ / النَّسْتَعْلِيقِ (Nastaliq - Persian Script)】: خط الرشاقة والمدات الانسيابية البديعة.\n\nثانياً: نظرية الخط المنسوب عند ابن مقلة (The Proportionate Script):\n- أسس الوزير الخطاط **ابن مقلة** (ت 328 هـ) المعايير الهندسية الصارمة لكتابة الحرف العربي عبر ثلاثة موازين:\n  1. **مِيزَانُ النُّقْطَةِ (The Rhomboid Dot)**: قياس طول الحروف وعرضها بنقطة رأس القلم المائل.\n  2. **أَلِفُ النِّسْبَةِ**: جعل الألف المعيارية قطراً للدائرة المحددة لنسبة جميع الحروف.\n  3. **الدَّائِرَةُ المِعْيَارِيَّةُ**: رسم الحروف المنحنية (كالنون واللام والراء) وفق أقواس الدائرة التامة.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)» بأسلوب أكاديمي دقيق (28.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)' to students in an accurate academic style."
+          "target": "قَعَّدَ ابْنُ مُقْلَةَ لِلْخَطِّ المَنْسُوبِ بِجَعْلِ النُّقْطَةِ المَعِينِيَّةِ مِيزَانًا لِأَطْوَالِ الحُرُوفِ وَأَبْعَادِهَا.(Qaʿʿada Ibnu Muqlata li-l-khaṭṭi al-mansūbi bi-jaʿli an-nuqṭati al-maʿīniyyati mīzānan li-aṭwāli al-ḥurūfi wa-abʿādihā.)",
+          "reading": "[qaʕ.ʕa.da‿b.nu muq.la.ta lil.xatˤ.tˤi‿l.man.suː.bi bi.ʒaʕ.li‿n.nuq.tˤa.ti‿l.ma.ʕiː.nij.ja.ti miː.zaː.nan li.ʔatˤ.waː.li‿l.ħu.ruː.fi wa.ʔab.ʕaː.di.haː] (Qaʿ-ʿa-da ib-nu Muq-la-ta lil-khaṭ-ṭi al-man-sū-bi bi-jaʿ-li an-nuq-ṭa-ti al-ma-ʿī-niy-ya-ti mī-zā-nan li-aṭ-wā-li al-ḥu-rū-fi wa-ab-ʿā-di-hā.)",
+          "translation": "Ibn Muqla standardized the Proportionate Script by making the rhomboid dot the measure for letter lengths and dimensions."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (28.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يَتَبَوَّأُ خَطُّ الثُّلُثِ عَرْشَ الخُطُوطِ العَرَبِيَّةِ لِجَلَالِ هَيْبَتِهِ وَصُعُوبَةِ حَبْكِ حُرُوفِهِ المُرَكَّبَةِ.(Yatabawwaʾu khaṭṭu ath-thuluthi ʿarsha al-khuṭūṭi al-ʿarabiyyati li-jalāli haybatihi wa-ṣuʿūbati ḥabki ḥurūfihi al-murakkabah.)",
+          "reading": "[ja.ta.baw.wa.ʔu xatˤ.tˤu‿θ.θu.lu.θi ʕar.ʃa‿l.xu.tˤuː.tˤi‿l.ʕa.ra.bij.ja.ti li.ʒa.laː.li haj.ba.ti.hi wa.sˤu.ʕuː.ba.ti ħab.ki ħu.ruː.fi.hi‿l.mu.rak.ka.bah] (Ya-ta-baw-wa-ʾu khaṭ-ṭu ath-thu-lu-thi ʿar-sha al-khu-ṭū-ṭi al-ʿa-ra-biy-ya-ti li-ja-lā-li hay-ba-ti-hi wa-ṣu-ʿū-ba-ti ḥab-ki ḥu-rū-fi-hi al-mu-rak-ka-bah.)",
+          "translation": "Thuluth script occupies the throne of Arabic calligraphy due to its majestic stature and the difficulty of weaving its composite letters."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (28.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يَمْتَازُ الخَطُّ الكُوفِيُّ بِهَنْدَسَتِهِ الصَّارِمَةِ وَأَصَالَتِهِ التَّارِيخِيَّةِ فِي تَزْيِينِ العِمَارَةِ الإِسْلَامِيَّةِ.(Yamtāzu al-khaṭṭu al-kūfiyyu bi-handasatihi aṣ-ṣārimati wa-aṣālatihi at-tārīkhiyyati fī tazyīni al-ʿimārati al-islāmiyyah.)",
+          "reading": "[jam.taː.zu‿l.xatˤ.tˤu‿l.kuː.fij.ju bi.han.da.sa.ti.hi‿sˤ.sˤaː.ri.ma.ti wa.ʔa.sˤaː.la.ti.hi‿t.taː.riː.xij.ja.ti fiː taz.jiː.ni‿l.ʕi.maː.ra.ti‿l.ʔis.laː.mij.jah] (Yam-tā-zu al-khaṭ-ṭu al-kū-fiy-yu bi-han-da-sa-ti-hi aṣ-ṣā-ri-ma-ti wa-a-ṣā-la-ti-hi at-tā-rī-khiy-ya-ti fī taz-yī-ni al-ʿi-mā-ra-ti al-is-lā-miy-yah.)",
+          "translation": "Kufic script is distinguished by its strict geometry and historical authenticity in adorning Islamic architecture."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (28.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يُوَفِّرُ خَطُّ النَّسْخِ أَقْصَى دَرَجَاتِ الوُضُوحِ وَالانْسِيَابِ، مِمَّا جَعَلَهُ وِعَاءً لِكِتَابَةِ المَصَاحِفِ الشَّرِيفَةِ.(Yuwaffiru khaṭṭu an-naskhi aqṣā darajāti al-wuḍūḥi wa-al-insiyāb, mimmā jaʿalahu wiʿāʾan li-kitābati al-maṣāḥifi ash-sharīfah.)",
+          "reading": "[ju.waf.fi.ru xatˤ.tˤu‿n.nas.xi ʔaq.sˤaː da.ra.ʒaː.ti‿l.wu.dˤuː.ħi wal.ʔin.si.jaːb, mim.maː ʒa.ʕa.la.hu wi.ʕaː.ʔan li.ki.taː.ba.ti‿l.ma.sˤaː.ħi.fi‿ʃ.ʃa.riː.fah] (Yu-waf-fi-ru khaṭ-ṭu an-nas-khi aq-ṣā da-ra-jā-ti al-wu-ḍū-ḥi wa-al-in-si-yāb, mim-mā ja-ʿa-la-hu wi-ʿā-ʾan li-ki-tā-ba-ti al-ma-ṣā-ḥi-fi ash-sha-rī-fah.)",
+          "translation": "Naskh script provides the highest degrees of clarity and fluidity, which made it the vessel for writing the Noble Qurans."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "نَسْخٌ وَثُلُثٌ وَكُوفِيٌّ فِي بَهَاءْ، خَطُّ العُرُوبَةِ نُورٌ فِي السَّمَاءْ!"
+      ],
+      "culturalNotes": [
+        "قال ياقوت المستعصمي: «الخط هندسة روحانية ظهرت بآلة جسمانية»، ونال الخط العربي اعتراف منظمة اليونسكو كتراث ثقافي غير مادي للبشرية جمعاء."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)» (الدرس 1)؟",
+          "prompt": "من هو الوزير والخطاط العباسي العبقري الذي وضع قواعد «الخط المنسوب» وميزان النقطة المعين؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)» بأسلوب أكاديمي دقيق (28.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (28.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (28.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (28.1.w3)"
+            "ابْنُ مُقْلَةَ (Ibn Muqla)",
+            "ابن خلدون",
+            "الجاحظ",
+            "ابن سينا"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "أبو علي محمد بن علي بن مقلة هو واضع الأسس الهندسية الدقيقة للخط المنسوب."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الخط العربي المعتبر «أمير الخطوط» والأكثر استخداماً في كتابة أسماء السور وعناوين الجداريات الكبرى؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "خَطُّ الثُّلُثِ (Thuluth Script)",
+            "خط الرقعة",
+            "الخط المغربي البسيط",
+            "الخط اللاتيني"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "خط الثلث هو سلطان الخطوط العربية لهيبته وفخامته ومرونة تراكيبه المتشابكة."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u28-l1):",
+          "prompt": "اختر العبارة التي تعبر عن الخصيصة الفنية للخط الكوفي القديم بدقة تشكيلية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (28.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (28.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (28.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (28.1.x3)"
+            "«خَطٌّ هَنْدَسِيٌّ تِذْكَارِيٌّ صَارِمُ الزَّوَايَا، يَمْتَازُ بِأَصَالَتِهِ فِي النُّقُوشِ وَالمَبَانِي التَّارِيخِيَّةِ». ('A monumental geometric script of strict angles, famed for engravings and historic buildings.')",
+            "خط سريع يكتب بدون رفع القلم عن الورق",
+            "خط حديث ظهر مع الحاسوب",
+            "خط كوفي ثلث نسخ نقطة سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الخط الكوفي هو أقدم الخطوط ويمتاز بالبناء الهندسي والزوايا القائمة والفخامة التاريخية."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)»؟",
+          "prompt": "ما إعراب كلمة «مِيزَانًا» في جملة: «جَعَلَ النُّقْطَةَ مِيزَانًا لِلْحُرُوفِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (28.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (28.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (28.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (28.1.y3)"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Second object of ja'ala in accusative)",
+            "حال منصوبة بالفتحة",
+            "تمييز منصوب",
+            "نعت منصوب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الفعل «جَعَلَ» ينصب مفعولين؛ «النُّقْطَةَ» مفعول أول، و«مِيزَانًا» مفعول به ثانٍ منصوب."
         }
       ]
     },
@@ -16780,24 +16784,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 28-1)؟",
+          "prompt": "اختر النص النقدي الذي يحلل فلسفة الخط العربي وقواعده الهندسية بأعلى مستويات الجزالة والبيان التراثي:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (28.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (28.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (28.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (28.1.z3)"
+            "يُمَثِّلُ الخَطُّ العَرَبِيُّ هَنْدَسَةً رُوحَانِيَّةً تَجَلَّتْ فِي قَوَاعِدِ «الخَطِّ المَنْسُوبِ» لِابْنِ مُقْلَةَ؛ حَيْثُ جَعَلَ النُّقْطَةَ المَعِينِيَّةَ وَأَلِفَ النِّسْبَةِ مِعْيَارًا لِتَنَاسُقِ الأَقْلَامِ، فَتَبَوَّأَ الثُّلُثُ عَرْشَ الفَخَامَةِ، وَتَأَلَّقَ النَّسْخُ فِي صَوْنِ المَصَاحِفِ، بَيْنَمَا خَلَّدَ الكُوفِيُّ جَلَالَ العِمَارَةِ، لِيَغْدُوَ الحَرْفُ مِحْرَابًا لِلْجَمَالِ الخَالِدِ. (Arabic calligraphy represents spiritual geometry manifested in Ibn Muqla's Proportionate Script rules; where he made the rhomboid dot and standard Alif the benchmark for script harmony, so Thuluth ascended throne of grandeur, Naskh shone in preserving Qurans, while Kufic immortalized architectural majesty, making the letter a sanctuary for timeless beauty.)",
+            "الخط العربي فن كتابة الحروف بأقلام مختلفة.",
+            "خطوط عربية ثلث نسخ كوفي ديواني رقعة تعليق ابن مقلة سكون فتحة ضمة.",
+            "ألغت المطابع الحديثة الحاجة لتعلم الخط العربي."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يستوعب بكفاءة: نظرية الخط المنسوب وميزان النقطة عند ابن مقلة، والوظائف الجمالية والدينية للأقلام الكبرى (الثلث، النسخ، والكوفي)."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u28-l1) باللغة العربية (مثال: «الخط»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الفن البصري الذي يُعنى بتجويد كتابة الحروف العربية وفق القواعد الهندسية (اكتب: «الخط العربي»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الخط",
-            "الخط"
+            "الخط العربي",
+            "الخط العربى",
+            "خط عربي",
+            "خط عربى",
+            "الخَطُّ العَرَبِيُّ",
+            "الخَطّ العَرَبِيّ"
           ],
-          "explanation": "المصطلح الصحيح هو «الخط»."
+          "explanation": "الفن هو «الخط العربي» (Arabic Calligraphy)."
         }
       ],
       "passThreshold": 0.8
@@ -16808,85 +16816,89 @@
     "subject": "arabic",
     "unit": 28,
     "lessonNumber": 2,
-    "title": "الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts) (الدرس 2)",
+    "title": "الزخرفة الإسلامية والأرابيسك والتناظر الهندسي (Islamic Geometric Patterns & Arabesque)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أنواع الخطوط العربية (الثلث، النسخ، الكوفي، الديواني)، الزخرفة الهندسية، والأرابيسك. (الجزء 2).",
+    "objective": "إتقان المفاهيم الهندسية والجمالية للزخرفة الإسلامية، وفن الأرابيسك (التوريق والتزهير)، والأطباق النجمية المتداخلة، وفلسفة اللانهاية والوحدة في التراث البصري.",
     "presentation": {
-      "explanation": "",
+      "explanation": "أبدع الفنان المسلم فنوناً تجريدية خالصة تعكس فلسفة التوحيد واللانهاية عبر الزخرفة الهندسية والنباتية:\n\nأولاً: فن الأرابيسك (التوريق الإسلامي / Arabesque):\n- زخرفة نباتية تجريدية تقوم على تموجات الجذوع والأوراق والأزهار المتشابكة في حركة إيقاعية انسيابية لا تنتهي.\n- يرمز الأرابيسك إلى النماء والحياة الأبدية والتناغم الكوني البديع.\n\nثانياً: الزخرفة الهندسية والأطباق النجمية (Girih & Star Patterns):\n1.【الأَطْبَاقُ النَّجْمِيَّةُ (Star Polygons)】:\n   - تشكيلات هندسية معقدة تنطلق من نقطة مركزية تتولد منها نجوم ثمانية، اثناعشرية، أو ستة عشرية.\n2.【التَّنَاظُرُ المِحْوَرِيُّ وَالدَّوَرَانِيُّ (Symmetry & Rotation)】:\n   - التكرار المنتظم للوحدات الزخرفية لتغطية المساحات المستوية دون فراغات (Tessellation).\n\nثالثاً: الفلسفة الجمالية للزخرفة الإسلامية:\n- **فَلْسَفَةُ التَّوْحِيدِ وَاللَّانِهَايَةِ**: الانطلاق من نقطة المركز الواحدة والامتداد المتكرر إلى ما لا نهاية يجسد فكرة أن الله هو مبدأ الوجود ومآله الأوحد.\n- الابتعاد عن محاكاة التشخيص المادي لصالح التجريد العقلي الصافي والتأمل الروحي.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)» بأسلوب أكاديمي دقيق (28.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)' to students in an accurate academic style."
+          "target": "تَعْكِسُ الزَّخْرَفَةُ الإِسْلَامِيَّةُ فَلْسَفَةَ التَّوْحِيدِ عَبْرَ تَوَلُّدِ الأَشْكَالِ الهَنْدَسِيَّةِ اللَّانِهَائِيَّةِ مِنْ نُقْطَةِ المَرْكَزِ الوَاحِدَةِ.(Taʿkisu az-zakhrafatu al-islāmiyyatu falsafata at-tawḥīdi ʿabra tawalludi al-ashkāli al-handasiyyati al-lānihāʾiyyati min nuqṭati al-markazi al-wāḥidah.)",
+          "reading": "[taʕ.ki.su‿z.zax.ra.fa.tu‿l.ʔis.laː.mij.ja.tu fal.sa.fa.ta‿t.taw.ħiː.di ʕab.ra ta.wal.lu.di‿l.ʔaʃ.kaː.li‿l.han.da.sij.ja.ti‿l.laː.ni.haː.ʔij.ja.ti min nuq.tˤa.ti‿l.mar.ka.zi‿l.waː.ħi.dah] (Taʿ-ki-su az-zakh-ra-fa-tu al-is-lā-miy-ya-tu fal-sa-fa-ta at-taw-ḥī-di ʿab-ra ta-wal-lu-di al-ash-kā-li al-han-da-siy-ya-ti al-lā-ni-hā-ʾiy-ya-ti min nuq-ṭa-ti al-mar-ka-zi al-wā-ḥi-dah.)",
+          "translation": "Islamic ornamentation reflects the philosophy of Divine Unity through the generation of infinite geometric shapes from a single central point."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (28.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يَقُومُ فَنُّ الأَرَابِيسْكِ عَلَى تَمَوُّجِ الخُطُوطِ النَّبَاتِيَّةِ المُوَرَّقَةِ فِي انْسِيَابٍ دَائِمٍ لَا يَعْرِفُ النِّهَايَةَ.(Yaqūmu fannu al-arābīski ʿalā tamawwuji al-khuṭūṭi an-nabātiyyati al-muwarraqati fī insiyābin dāʾimin lā yaʿrifu an-nihāyah.)",
+          "reading": "[ja.quː.mu fan.nu‿l.ʔa.raː.biːs.ki ʕa.laː ta.maw.wu.ʒi‿l.xu.tˤuː.tˤi‿n.na.baː.tij.ja.ti‿l.mu.war.ra.qa.ti fiː‿n.si.jaː.bin daː.ʔi.min laː jaʕ.ri.fu‿n.ni.haː.jah] (Ya-qū-mu fan-nu al-a-rā-bīs-ki ʿa-lā ta-maw-wu-ji al-khu-ṭū-ṭi an-na-bā-tiy-ya-ti al-mu-war-ra-qa-ti fī in-si-yā-bin dā-ʾi-min lā yaʿ-ri-fu an-ni-hā-yah.)",
+          "translation": "The art of arabesque is based on the undulation of foliate plant lines in a perpetual fluidity that knows no end."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (28.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تُظْهِرُ الأَطْبَاقُ النَّجْمِيَّةُ فِي مَنَابِرِ المَسَاجِدِ دِقَّةَ حِسَابِ التَّنَاظُرِ وَالتَّعْشِيقِ الخَشَبِيِّ المُعْجِزِ.(Tuẓhiru al-aṭbāqu an-najmiyyatu fī manābiri al-masājidi diqqata ḥisābi at-tanāẓuri wa-at-taʿshīqi al-khashabiyyi al-muʿjiz.)",
+          "reading": "[tuzˤ.hi.ru‿l.ʔatˤ.baː.qu‿n.naʒ.mij.ja.tu fiː ma.naː.bi.ri‿l.ma.saː.ʒi.di diq.qa.ta ħi.saː.bi‿t.ta.naː.zˤu.ri wat.taʕ.ʃiː.qi‿l.xa.ʃa.bij.ji‿l.muʕ.ʒiz] (Tuẓ-hi-ru al-aṭ-bā-qu an-naj-miy-ya-tu fī ma-nā-bi-ri al-ma-sā-ji-di diq-qa-ta ḥi-sā-bi at-ta-nā-ẓu-ri wa-at-taʿ-shī-qi al-kha-sha-biy-yi al-muʿ-jiz.)",
+          "translation": "Star patterns on mosque minbars exhibit the precision of symmetry calculation and wondrous wooden interlocking."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (28.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "حَرَّرَ الفَنَّانُ المُسْلِمُ الزَّخْرَفَةَ مِنَ التَّشْخِيصِ الحِسِّيِّ لِيَرْتَقِيَ بِالبَصَرِ إِلَى التَّأَمُّلِ التَّجْرِيدِيِّ الرَّفِيعِ.(Ḥarrara al-fannānu al-muslimu az-zakhrafata min at-tashkhīṣi al-ḥissiyyi li-yartaqiya bi-al-baṣari ilā at-taʾammuli at-tajrīdiyyi ar-rafīʿ.)",
+          "reading": "[ħar.ra.ra‿l.fan.naː.nu‿l.mus.li.mu‿z.zax.ra.fa.ta mi.na‿t.taʃ.xiː.sˤi‿l.ħis.sij.ji li.jar.ta.qi.ja bil.ba.sˤa.ri ʔi.la‿t.ta.ʔam.mu.li‿t.taʒ.riː.dij.ji‿r.ra.fiːʕ] (Ḥar-ra-ra al-fan-nā-nu al-mus-li-mu az-zakh-ra-fa-ta min at-tash-khī-ṣi al-ḥis-siy-yi li-yar-ta-qi-ya bi-al-ba-ṣa-ri i-lā at-ta-ʾam-mu-li at-taj-rī-diy-yi ar-ra-fīʿ.)",
+          "translation": "The Muslim artist liberated ornamentation from sensory anthropomorphism to elevate sight to sublime abstract contemplation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "أَرَابِيسْكٌ وَنُجُومٌ تَسْرِي بِانْتِظَامْ، فَنُّ التَّوْحِيدِ وَسِحْرُ التَّنَاغُمِ التَّامْ!"
+      ],
+      "culturalNotes": [
+        "تُعد الأطباق النجمية المعشقة في عمارة قصر الحمراء بغرناطة وجامع السلطان حسن بالقاهرة نماذج معمارية رائدة ألهمت علماء الرياضيات والفيزياء البلورية في العصر الحديث."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)» (الدرس 2)؟",
+          "prompt": "ما هو الاسم الفني الشهير للزخارف النباتية التجريدية المتشابكة في الفن الإسلامي؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)» بأسلوب أكاديمي دقيق (28.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (28.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (28.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (28.2.w3)"
+            "الأَرَابِيسْك / فَنُّ التَّوْرِيقِ الإِسْلَامِيِّ (Arabesque / Foliate Ornamentation)",
+            "فن البورتريه الغربي",
+            "الكاريكاتير الصحفي",
+            "النحت الجنائزي"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الأرابيسك أو التوريق هو الزخرفة النباتية التجريدية القائمة على الأوراق والجذوع المتعانقة في انسياب لانهائي."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي الفلسفة الروحية الكبرى التي تجسدها الأطباق النجمية والزخارف المتكررة المنطلقة من نقطة مركزية؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "فَلْسَفَةُ التَّوْحِيدِ؛ حَيْثُ تَنْبَثِقُ الكَثْرَةُ مِنْ وَحْدَةِ الخَالِقِ وَتَعُودُ إِلَيْهِ (Philosophy of Tawhid: multiplicity emerging from Unity)",
+            "الفوضى العشوائية في الكون",
+            "الخوف من الألوان",
+            "الرغبة في ملء الفراغ فقط"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الزخرفة الإسلامية تجسد التوحيد واللانهاية عبر التناظر والتولد المنتظم من نقطة المركز الواحدة."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u28-l2):",
+          "prompt": "اختر العبارة التي تصف دقة التناظر المحوري في الفن الهندسي الإسلامي بدقة مصطلحية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (28.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (28.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (28.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (28.2.x3)"
+            "«تَقْسِيمٌ رِيَاضِيٌّ بَدِيعٌ يُغَطِّي المُسْتَوَيَاتِ بِأَطْبَاقٍ نَجْمِيَّةٍ مُتَكَرِّرَةٍ دُونَ فَرَاجٍ أَوْ خَلَلٍ». ('A wondrous mathematical partition covering planes with repeated star patterns without gaps.')",
+            "رسم خطوط عشوائية باليد دون مسطرة",
+            "استيراد أشكال جاهزة دون حساب",
+            "ارابيسك تناظر اطباق نجمية سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الزخرفة الهندسية تقوم على الرصف الرياضي الصارم (Tessellation) والتناظر الدوراني المتقن."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)»؟",
+          "prompt": "ما إعراب كلمة «فَلْسَفَةَ» في جملة: «تَعْكِسُ الزَّخْرَفَةُ فَلْسَفَةَ التَّوْحِيدِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (28.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (28.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (28.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (28.2.y3)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Direct object in accusative)",
+            "فاعل مرفوع بالضمة",
+            "مضاف إليه مجرور",
+            "حال منصوبة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الزَّخْرَفَةُ» فاعل مرفوع، و«فَلْسَفَةَ» مفعول به منصوب وعلامة نصبه الفتحة."
         }
       ]
     },
@@ -16894,24 +16906,29 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 28-2)؟",
+          "prompt": "اختر النص الجمالي التحليلي الذي يفسر عبقرية الأرابيسك والأطباق النجمية في الفن الإسلامي بأعلى درجات الفصاحة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (28.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (28.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (28.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (28.2.z3)"
+            "تُمَثِّلُ الزَّخْرَفَةُ الإِسْلَامِيَّةُ ذِرْوَةَ التَّجْرِيدِ البَصَرِيِّ فِي تَارِيخِ الفَنِّ؛ حَيْثُ حَوَّلَ الأَرَابِيسْكُ انْسِيَابَ النَّبَاتِ إِلَى إِيقَاعٍ سَرْمَدِيٍّ، بَيْنَمَا شَادَتِ الأَطْبَاقُ النَّجْمِيَّةُ صَرْحًا رِيَاضِيًّا يَعْكِسُ فَلْسَفَةَ التَّوْحِيدِ وَالتَّنَاغُمِ الكَوْنِيِّ، لِيَغْدُوَ التَّنَاظُرُ الهَنْدَسِيُّ سَفَرًا رُوحِيًّا يَرْتَقِي بِالبَصَرِ إِلَى رِحَابِ الجَمَالِ الأَزَلِيِّ. (Islamic ornamentation represents the summit of visual abstraction in art history; where arabesque transformed plant fluidity into an eternal rhythm, while star polygons constructed a mathematical edifice reflecting philosophy of Divine Unity and cosmic harmony, so geometric symmetry became a spiritual voyage elevating sight to the realm of primordial beauty.)",
+            "الزخرفة الاسلامية رسوم هندسية جميلة على الجدران.",
+            "ارابيسك اطباق نجمية توريق تناظر توحيد تجريد سكون فتحة ضمة.",
+            "انقرضت فنون الزخرفة بعد ظهور التصوير الفوتوغرافي."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين: التحليل التشكيلي للأرابيسك والأطباق النجمية، البعد الرياضي للتناظر، والعمق الروحي لفلسفة التوحيد والتجريد."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u28-l2) باللغة العربية (مثال: «الخط»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الفن الزخرفي النباتي التجريدي المعتمد على التوريق والتزهير المتشابك (اكتب: «الأرابيسك» أو «التوريق»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الخط",
-            "الخط"
+            "الأرابيسك",
+            "الارابيسك",
+            "التوريق",
+            "أرابيسك",
+            "ارابيسك",
+            "الأَرَابِيسْكُ",
+            "الأَرَابِيسْك"
           ],
-          "explanation": "المصطلح الصحيح هو «الخط»."
+          "explanation": "المصطلح هو «الأرابيسك» أو «التوريق» (Arabesque)."
         }
       ],
       "passThreshold": 0.8
@@ -16922,85 +16939,89 @@
     "subject": "arabic",
     "unit": 28,
     "lessonNumber": 3,
-    "title": "الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts) (الدرس 3)",
+    "title": "العمارة الإسلامية: المقرنصات والصحن والمئذنة والمحراب (Islamic Architecture: Muqarnas, Courtyard & Minaret)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أنواع الخطوط العربية (الثلث، النسخ، الكوفي، الديواني)، الزخرفة الهندسية، والأرابيسك. (الجزء 3).",
+    "objective": "إتقان المفردات المعمارية الكبرى في الحضارة الإسلامية: المقرنصات ثلاثية الأبعاد، الصحن المفتوح، المآذن وتنوع طرزها، والمحاريب والقباب المرفوعة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تجسد العمارة الإسلامية تلاحم الوظيفة التعبدية والجمال الهندسي المعجز عبر عناصر معمارية فريدة:\n\nأولاً: العناصر المعمارية الكبرى في العمارة الإسلامية:\n1.【المُقَرْنَصَاتُ (Muqarnas - Stalactite Vaulting)】:\n   - تجاويف هندسية متراكبة تشبه خلايا النحل، تُستخدم في تدرج الانتقال المعماري من المربع (الجدران) إلى الدائرة (القبة) مع كسر جمود الضوء.\n2.【الصَّحْنُ المَفْتُوحُ (The Courtyard / Sahn)】:\n   - الفناء الأوسط المكشوف، يتوسطه حوض ماء أو نافورة (كفناء السباع في الحمراء وفناء الجامع الأموي بدمشق)، لضمان التهوية والإنارة والسكينة.\n3.【المِئْذَنَةُ (The Minaret)】:\n   - صرح النداء الشاهق وتتعدد طرزه:\n     * **المِئْذَنَةُ المُرَبَّعَةُ**: الطراز الأموي والأندلسي والمغربي (كجامع القيروان والكتبية وإشبيلية).\n     * **المِئْذَنَةُ المَلْوِيَّةُ الحَلَزُونِيَّةُ**: في سامراء بالعراق وجامع ابن طولون بالقاهرة.\n     * **المِئْذَنَةُ الأُسْطُوَانِيَّةُ الرَّشِيقَةُ (القَلَمِيَّةُ)**: الطراز العثماني (كجامع السلطان أحمد).\n4.【المِحْرَابُ وَالمِنْبَرُ (Mihrab & Minbar)】:\n   - تجويف القبلة المجمل بالرخام والزليج والخط الكوفي، والمنبر الخشبي المعشق بالأطباق النجمية.\n\nثانياً: العُقُودُ الحُذْوِيَّةُ وَالمَدَائِنُ الإِسْلَامِيَّةُ:\n- انتشار **العُقُودِ الحُذْوِيَّةِ (Horseshoe Arches)** و**العُقُودِ المُنْكَسِرَةِ (Pointed Arches)** التي انتقلت لاحقاً إلى العمارة القوطية الأوروبية.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)» بأسلوب أكاديمي دقيق (28.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)' to students in an accurate academic style."
+          "target": "تُعَدُّ المُقَرْنَصَاتُ ابْتِكَارًا هَنْدَسِيًّا إِسْلَامِيًّا عَبْقَرِيًّا لِلتَّدَرُّجِ بَيْنَ الجُدْرَانِ المُرَبَّعَةِ وَالقِبَابِ الدَّائِرِيَّةِ.(Tuʿaddu al-muqarnaṣātu ibtikāran handasiyyan islāmiyyan ʿabqariyyan li-t-tadarruji bayna al-judrāni al-murabbaʿati wa-al-qibābi ad-dāʾiriyyah.)",
+          "reading": "[tu.ʕad.du‿l.mu.qar.na.sˤaː.tu‿b.ti.kaː.ran han.da.sij.jan ʔis.laː.mij.jan ʕab.qa.rij.jan lit.ta.dar.ru.ʒi baj.na‿l.ʒud.raː.ni‿l.mu.rab.ba.ʕa.ti wal.qi.baː.bi‿d.daː.ʔi.rij.jah] (Tu-ʿad-du al-mu-qar-na-ṣā-tu ib-ti-kā-ran han-da-siy-yan is-lā-miy-yan ʿab-qa-riy-yan lit-ta-dar-ru-ji bay-na al-jud-rā-ni al-mu-rab-ba-ʿa-ti wa-al-qi-bā-bi ad-dā-ʾi-riy-yah.)",
+          "translation": "Muqarnas vaulting is considered a brilliant Islamic engineering innovation for transitioning between square walls and circular domes."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (28.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يَتَوَسَّطُ الصَّحْنَ المَفْتُوحَ فِي جَامِعِ دِمَشْقَ وَقَصْرِ الحَمْرَاءِ حَوْضُ مَاءٍ يَمْنَحُ المَكَانَ سَكِينَةً وَانْعِكَاسًا جَمَالِيًّا.(Yatawassaṭu aṣ-ṣaḥna al-maftūḥa fī jāmiʿi Dimashqa wa-qaṣri al-Ḥamrāʾi ḥawḍu māʾin yamnaḥu al-makāna sakīnatan wa-inʿikāsan jamāliyyā.)",
+          "reading": "[ja.ta.was.sa.tˤu‿sˤ.sˤaħ.na‿l.maf.tuː.ħa fiː ʒaː.mi.ʕi di.maʃ.qa wa.qasˤ.ri‿l.ħam.raː.ʔi ħaw.dˤu maː.ʔin jam.na.ħu‿l.ma.kaː.na sa.kiː.na.tan wan.ʕi.kaː.san ʒa.maː.lij.jaː] (Ya-ta-was-sa-ṭu aṣ-ṣaḥ-na al-maf-tū-ḥa fī jā-mi-ʿi Di-mash-qa wa-qaṣ-ri al-Ḥam-rā-ʾi ḥaw-ḍu mā-ʾin yam-na-ḥu al-ma-kā-na sa-kī-na-tan wa-in-ʿi-kā-san ja-mā-liy-yā.)",
+          "translation": "In the open courtyard of the Damascus Mosque and the Alhambra Palace sits a water basin granting the space tranquility and aesthetic reflection."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (28.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تَنَوَّعَتْ طُرُزُ المَآذِنِ الإِسْلَامِيَّةِ بَيْنَ المُرَبَّعِ المَغْرِبِيِّ وَالحَلَزُونِيِّ فِي سَامَرَّاءَ وَالقَلَمِيِّ العُثْمَانِيِّ الرَّشِيقِ.(Tanawwaʿat ṭuruzu al-maʾādhini al-islāmiyyati bayna al-murabbaʿi al-maghribiyyi wa-al-ḥalazūniyyi fī Sāmarrāʾa wa-al-qalamiyyi al-ʿuthmāniyyi ar-rashīq.)",
+          "reading": "[ta.naw.wa.ʕat tˤu.ru.zu‿l.ma.ʔaː.ði.ni‿l.ʔis.laː.mij.ja.ti baj.na‿l.mu.rab.ba.ʕi‿l.maɣ.ri.bij.ji wal.ħa.la.zuː.nij.ji fiː saː.mar.raː.ʔa wal.qa.la.mij.ji‿l.ʕuθ.maː.nij.ji‿r.ra.ʃiːq] (Ta-naw-wa-ʿat ṭu-ru-zu al-ma-ʾā-dhi-ni al-is-lā-miy-ya-ti bay-na al-mu-rab-ba-ʿi al-magh-ri-biy-yi wa-al-ḥa-la-zū-niy-yi fī Sā-mar-rā-ʾa wa-al-qa-la-miy-yi al-ʿuth-mā-niy-yi ar-ra-shīq.)",
+          "translation": "Islamic minaret styles varied between Maghrebi square, Samarra spiral, and slender Ottoman pencil-shaped forms."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (28.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تَمْتَازُ العُقُودُ الحُذْوِيَّةُ الأَنْدَلُسِيَّةُ بِتَنَاوُبِ اللَّوْنَيْنِ الأَحْمَرِ وَالأَبْيَضِ فِي جَامِعِ قُرْطُبَةَ الكَبِيرِ.(Tamtāzu al-ʿuqūdu al-ḥudhwiyyatu al-andalusiyyatu bi-tanāwubi al-lawnayni al-aḥmari wa-al-abyaḍi fī jāmiʿi Qurṭubata al-kabīr.)",
+          "reading": "[tam.taː.zu‿l.ʕu.quː.du‿l.ħuð.wij.ja.tu‿l.ʔan.da.lu.sij.ja.tu bi.ta.naː.wu.bi‿l.law.naj.ni‿l.ʔaħ.ma.ri wal.ʔab.ja.dˤi fiː ʒaː.mi.ʕi qur.tˤu.ba.ta‿l.ka.biːr] (Tam-tā-zu al-ʿu-qū-du al-ḥudh-wiy-ya-tu al-an-da-lu-siy-ya-tu bi-ta-nā-wu-bi al-law-nay-ni al-aḥ-ma-ri wa-al-ab-ya-ḍi fī jā-mi-ʿi Qur-ṭu-ba-ta al-ka-bīr.)",
+          "translation": "Andalusian horseshoe arches are distinguished by alternating red and white colors in the Great Mosque of Cordoba."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مُقَرْنَصَاتٌ كَالشِّهَابِ فِي السَّمَاءْ، عِمَارَةُ الإِسْلَامِ نُورٌ وَبَهَاءْ!"
+      ],
+      "culturalNotes": [
+        "جامع قرطبة بأقواسه الحذوية المزدوجة المتراكبة وقصر الحمراء بقبابه المقرنصة يمثلان أعظم شواهد العمارة العالمية المسجلة في التراث الإنساني لليونسكو."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)» (الدرس 3)؟",
+          "prompt": "ما هي الوظيفة الهندسية والمعمارية لـ «المُقَرْنَصَاتِ» في العمارة الإسلامية؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)» بأسلوب أكاديمي دقيق (28.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (28.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (28.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (28.3.w3)"
+            "التَّدَرُّجُ الهَنْدَسِيُّ بَيْنَ الجُدْرَانِ المُرَبَّعَةِ وَالقِبَابِ الدَّائِرِيَّةِ مَعَ كَسْرِ جُمُودِ الضَّوْءِ (Geometric transition from square walls to circular domes)",
+            "استخدامها كأبواب خارجية للمدينة",
+            "حفر آبار مياه تحت الأرض",
+            "صناعة أسلحة الفرسان"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "المقرنصات ابتكار إسلامي فريد يُسهل الانتقال الهيكلي من المربع إلى الدائرة ويعطي تأثيراً جمالياً مبهراً."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "أين تقع المئذنة الملوية الحلزونية الشهيرة في التراث المعماري الإسلامي؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "فِي سَامَرَّاءَ بِالعِرَاقِ (Samarra in Iraq)",
+            "في طوكيو باليابان",
+            "في مدريد بإسبانيا",
+            "في لندن ببريطانيا"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "المئذنة الملوية لجامع المتوكل في سامراء هي المعلم المعماري الحلزوني الأشهر في العالم الإسلامي."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u28-l3):",
+          "prompt": "اختر الخاصية المعمارية الفارقة للأقواس والعقود في جامع قرطبة الكبير بالأندلس:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (28.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (28.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (28.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (28.3.x3)"
+            "العُقُودُ الحُذْوِيَّةُ المُزْدَوِجَةُ ذَاتُ اللَّوْنَيْنِ الأَحْمَرِ وَالأَبْيَضِ المُتَنَاوِبَيْنِ (Double horseshoe arches with alternating red and white voussoirs)",
+            "استخدام الزجاج البلاستيكي الشفاف فقط",
+            "بناء الجدران بدون أي أعمدة",
+            "عمارة قرطبة عقود ملوية سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "العقود الحذوية المزدوجة ذات اللونين الأحمر والأبيض هي العلامة المعمارية الخالدة لجامع قرطبة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)»؟",
+          "prompt": "ما إعراب كلمة «ابْتِكَارًا» في جملة: «تُعَدُّ المُقَرْنَصَاتُ ابْتِكَارًا هَنْدَسِيًّا»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (28.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (28.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (28.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (28.3.y3)"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Second object of passive tu'addu in accusative)",
+            "نائب فاعل مرفوع بالضمة",
+            "نعت منصوب بالفتحة",
+            "حال منصوبة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«المُقَرْنَصَاتُ» نائب فاعل لـ «تُعَدُّ»، و«ابْتِكَارًا» مفعول به ثانٍ منصوب بالفتحة."
         }
       ]
     },
@@ -17008,24 +17029,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 28-3)؟",
+          "prompt": "اختر النص التوثيقي المعماري الشامل الذي يحلل روائع العمارة الإسلامية (المقرنصات، الصحن، المآذن، والعقود) بأعلى دقة لغوية وهندسية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (28.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (28.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (28.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (28.3.z3)"
+            "جَسَّدَتِ العِمَارَةُ الإِسْلَامِيَّةُ عَبْقَرِيَّةَ التَّلَاقِي بَيْنَ الهَنْدَسَةِ الرَّصِينَةِ وَالرُّوحَانِيَّةِ الخَالِدَةِ؛ حَيْثُ حَلَّتِ المُقَرْنَصَاتُ مُعْضِلَةَ الِانْتِقَالِ مِنَ المُرَبَّعِ إِلَى القِبَابِ الدَّائِرِيَّةِ، وَمَنَحَ الصَّحْنُ المَفْتُوحُ فِي دِمَشْقَ وَالحَمْرَاءِ فَيْضًا مِنَ النُّورِ وَالسَّكِينَةِ، بَيْنَمَا شَمَخَتِ المَآذِنُ بِطُرُزِهَا المُرَبَّعَةِ وَالحَلَزُونِيَّةِ، وَتَرَاقَصَتِ العُقُودُ الحُذْوِيَّةُ فِي قُرْطُبَةَ، لِتَبْقَى العِمَارَةُ الإِسْلَامِيَّةُ أَيْقُونَةَ الإِبْدَاعِ الإِنْسَانِيِّ. (Islamic architecture embodied genius of confluence between sober engineering and timeless spirituality; where muqarnas solved transition from square to circular domes, open courtyard in Damascus and Alhambra granted flood of light and serenity, while minarets towered in square and spiral styles, and horseshoe arches danced in Cordoba, keeping Islamic architecture an icon of human creativity.)",
+            "العمارة الاسلامية مساجد وقصور قديمة في بلدان الشرق.",
+            "عمارة اسلامية مقرنصات صحن مئذنة محراب قبة قرطبة سامراء سكون فتحة ضمة.",
+            "تهدمت جميع المعالم المعمارية الاسلامية القديمة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بدقة بين: ابتكار المقرنصات الهيكلي، وظيفة الصحن المفتوح، تنوع المآذن الجغرافي، وسحر العقود الحذوية في قرطبة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u28-l3) باللغة العربية (مثال: «الخط»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم التجاويف الهندسية المتراكبة الشبيهة بخلايا النحل في العمارة الإسلامية (اكتب: «المقرنصات» أو «مقرنصات»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الخط",
-            "الخط"
+            "المقرنصات",
+            "مقرنصات",
+            "المُقَرْنَصَاتُ",
+            "المُقَرْنَصَات"
           ],
-          "explanation": "المصطلح الصحيح هو «الخط»."
+          "explanation": "المصطلح المعماري هو «المقرنصات» (Muqarnas)."
         }
       ],
       "passThreshold": 0.8
@@ -17036,85 +17059,89 @@
     "subject": "arabic",
     "unit": 28,
     "lessonNumber": 4,
-    "title": "الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts) (الدرس 4)",
+    "title": "الحروفية العربية والفن التشكيلي المعاصر (Hurufiyya Movement & Modern Arabic Fine Arts)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أنواع الخطوط العربية (الثلث، النسخ، الكوفي، الديواني)، الزخرفة الهندسية، والأرابيسك. (الجزء 4).",
+    "objective": "إتقان حركة «الحروفية» في الفن التشكيلي العربي المعاصر، وتحليل أعمال روادها (شاكر حسن آل سعيد، ضياء العزاوي، نجا المهداوي، حسن المسعود، ومنير الشعراني)، ودمج التجريد بالحرف العربي.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تُمثل حركة «الحُرُوفِيَّةِ» أعظم ثورة تشكيلية حديثة أعادت إنتاج الحرف العربي كعنصر تجريدي بصري عالمي:\n\nأولاً: نشأة حركة الحروفية (The Hurufiyya Movement):\n- نشأت في منتصف القرن العشرين (خاصة في بغداد وبيروت ودمشق وتونس) لتحرير الحرف العربي من قيود الورق والسطر التقليدي ودمجه في فضاء اللوحة التشكيلية المعاصرة.\n\nثانياً: رواد الحروفية الكبار ومدارسهم:\n1.【شَاكِر حَسَن آل سَعِيد (Shakir Hassan Al Said)】:\n   - مؤسس «جَمَاعَةِ البُعْدِ الوَاحِدِ» في بغداد؛ دمج الحرف بالبعد الصوفي والوجودي، وتأمل في تجاعيد الجدران واندثار المادة.\n2.【ضِيَاء العَزَّاوِي (Dia Azzawi)】:\n   - توظيف الحرف والشعر العربي في ملاحم لونية بصرية معاصرة مفعمة بالقوة والتعبير الدرامي.\n3.【نَجَا المَهْدَاوِي (Nja Mahdaoui)】:\n   - رائد «اللَّوْحَةِ الحُرُوفِيَّةِ التَّجْرِيدِيَّةِ» في تونس؛ استخدام الإيقاع البصري للحرف دون التقيد بنص مقروء (الكتابة اللامرئية / التجريد الخطي الصافي).\n4.【مُنِير الشَّعْرَانِي (Mouneer Al-Shaarani)】:\n   - تطوير الخط الكوفي القديم والنيسابوري وإعادة صياغته بحداثة بصرية هندسية مذهلة.\n\nثالثاً: فلسفة الحروفية التشكيلية:\n- الحرف العربي يجمع بين **القِيمَةِ الصَّوْتِيَّةِ (الدَّلَالِيَّةِ)** و**القِيمَةِ البَصَرِيَّةِ (الشَّكْلِيَّةِ)**، مما يجعله وسيطاً مثالياً للتجريد الفني العالمي.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)» بأسلوب أكاديمي دقيق (28.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)' to students in an accurate academic style."
+          "target": "أَطْلَقَتْ حَرَكَةُ الحُرُوفِيَّةِ العَرَبِيَّةِ طَاقَةَ الحَرْفِ البَصَرِيَّةِ لِيُصْبِحَ عُنْصُرًا تَجْرِيدِيًّا فِي الفَنِّ العَالَمِيِّ.(Aṭlaqat ḥarakatu al-ḥurūfiyyati al-ʿarabiyyati ṭāqata al-ḥarfi al-baṣariyyati li-yuṣbiḥa ʿunṣuran tajrīdiyyan fī al-fanni al-ʿālamiyy.)",
+          "reading": "[ʔatˤ.la.qat ħa.ra.ka.tu‿l.ħu.ruː.fij.ja.ti‿l.ʕa.ra.bij.ja.ti tˤaː.qa.ta‿l.ħar.fi‿l.ba.sˤa.rij.ja.ti li.jusˤ.bi.ħa ʕun.sˤu.ran taʒ.riː.dij.jan fil.fan.ni‿l.ʕaː.la.mijj] (Aṭ-la-qat ḥa-ra-ka-tu al-ḥu-rū-fiy-ya-ti al-ʿa-ra-biy-ya-ti ṭā-qa-ta al-ḥar-fi al-ba-ṣa-riy-ya-ti li-yuṣ-bi-ḥa ʿun-ṣu-ran taj-rī-diy-yan fī al-fan-ni al-ʿā-la-miyy.)",
+          "translation": "The Arabic Hurufiyya movement unleashed the visual energy of the letter to become an abstract element in global art."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (28.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَسَّسَ شَاكِر حَسَن آل سَعِيد «جَمَاعَةَ البُعْدِ الوَاحِدِ» لِدَمْجِ الحَرْفِ بِالتَّأَمُّلِ الصُّوفِيِّ وَفَلْسَفَةِ الوُجُودِ.(Assasa Shākir Ḥasan Āl Saʿīd «jamāʿata al-buʿdi al-wāḥid» li-damji al-ḥarfi bi-at-taʾammuli aṣ-ṣūfiyyi wa-falsafati al-wujūd.)",
+          "reading": "[ʔas.sa.sa ʃaː.kir ħa.san ʔaːl sa.ʕiːd «ʒa.maː.ʕa.ta‿l.buʕ.di‿l.waː.ħid» li.dam.ʒi‿l.ħar.fi bit.ta.ʔam.mu.li‿sˤ.sˤuː.fij.ji wa.fal.sa.fa.ti‿l.wu.ʒuːd] (As-sa-sa Shā-kir Ḥa-san Āl Sa-ʿīd «ja-mā-ʿa-ta al-buʿ-di al-wā-ḥid» li-dam-ji al-ḥar-fi bi-at-ta-ʾam-mu-li aṣ-ṣū-fiy-yi wa-fal-sa-fa-ti al-wu-jūd.)",
+          "translation": "Shakir Hassan Al Said founded the 'One Dimension Group' to merge the letter with mystical contemplation and existential philosophy."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (28.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "ابْتَكَرَ نَجَا المَهْدَاوِي لَوْحَاتٍ حُرُوفِيَّةً تَقُومُ عَلَى الإِيقَاعِ الجَمَالِيِّ لِلْخَطِّ دُونَ الِارْتِبَاطِ بِنَصٍّ مَقْرُوءٍ.(Ibtakara Nja al-Mahdāwī lawḥātin ḥurūfiyyatan taqūmu ʿalā al-īqāʿi al-jamāliyyi li-l-khaṭṭi dūna al-irtibāṭi bi-naṣṣin maqrūʾ.)",
+          "reading": "[ʔib.ta.ka.ra na.ʒaː‿l.mah.daː.wiː law.ħaː.tin ħu.ruː.fij.ja.tan ta.quː.mu ʕa.laː‿l.ʔiː.qaː.ʕi‿l.ʒa.maː.lij.ji lil.xatˤ.tˤi duː.na‿l.ʔir.ti.baː.tˤi bi.nasˤ.sˤin maq.ruːʔ] (Ib-ta-ka-ra Na-jā al-Mah-dā-wī law-ḥā-tin ḥu-rū-fiy-ya-tan ta-qū-mu ʿa-lā al-ī-qā-ʿi al-ja-mā-liy-yi lil-khaṭ-ṭi dū-na al-ir-ti-bā-ṭi bi-naṣ-ṣin maq-rū-ʾ.)",
+          "translation": "Nja Mahdaoui created calligraphic paintings based on the aesthetic rhythm of the script without tying it to a readable text."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (28.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يَمْزُجُ الفَنَّانُ الحُرُوفِيُّ بَيْنَ قَدَاسَةِ المَوْرُوثِ الخَطِّيِّ وَجَرَاءَةِ التَّشْكِيلِ الحَدِيثِ فِي اللَّوْحَةِ.(Yamzuju al-fannānu al-ḥurūfiyyu bayna qadāsati al-mawrūthi al-khaṭṭiyyi wa-jarāʾati at-tashkīli al-ḥadīthi fī al-lawḥah.)",
+          "reading": "[jam.zu.ʒu‿l.fan.naː.nu‿l.ħu.ruː.fij.ju baj.na qa.daː.sa.ti‿l.maw.ruː.θi‿l.xatˤ.tˤij.ji wa.ʒa.raː.ʔa.ti‿t.taʃ.kiː.li‿l.ħa.diː.θi fil.law.ħah] (Yam-zu-ju al-fan-nā-nu al-ḥu-rū-fiy-yu bay-na qa-dā-sa-ti al-maw-rū-thi al-khaṭ-ṭiy-yi wa-ja-rā-ʾa-ti at-tash-kī-li al-ḥa-dī-thi fī al-law-ḥah.)",
+          "translation": "The Hurufiyya artist merges the sanctity of calligraphic heritage with the audacity of modern composition on the canvas."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "حَرْفٌ تَحَرَّرَ فِي الفَضَاءِ فَنًّا وَضِيَّا، حُرُوفِيَّةٌ تُبْدِعُ التَّشْكِيلَ نَقِيَّا!"
+      ],
+      "culturalNotes": [
+        "تُعرض لوحات رواد الحروفية العربية (مثل ضياء العزاوي ونجا المهداوي) في كبرى متاحف الفن الحديث العالمية كالمتحف البريطاني ومتحف تيت ومعهد العالم العربي بباريس."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)» (الدرس 4)؟",
+          "prompt": "ما هي الفكرة الجوهرية لحركة «الحُرُوفِيَّةِ» في الفن التشكيلي العربي المعاصر؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)» بأسلوب أكاديمي دقيق (28.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (28.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (28.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (28.4.w3)"
+            "تَحْرِيرُ الحَرْفِ العَرَبِيِّ مِنْ سُطُورِ الكِتَابَةِ التَّقْلِيدِيَّةِ لِيَغْدُوَ عُنْصُرًا بَصَرِيًّا تَجْرِيدِيًّا فِي اللَّوْحَةِ (Liberating Arabic letter from traditional writing to be an abstract visual element)",
+            "استبدال الحروف العربية بالحروف اللاتينية",
+            "طباعة الكتب المدرسية فقط",
+            "إلغاء فن الرسم نهائيا"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الحروفية تطلق الطاقة التشكيلية الكامنة في الحرف العربي ليتحول إلى لغة بصرية تجريدية عالمية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "من هو الفنان العراقي الرائد مؤسس «جماعة البعد الواحد» الذي ربط الحرف بالتأمل الصوفي والوجودي؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "شَاكِر حَسَن آل سَعِيد (Shakir Hassan Al Said)",
+            "محمود مختار",
+            "جبران خليل جبران",
+            "بدر شاكر السياب"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "شاكر حسن آل سعيد هو منظر وفيلسوف الحروفية العربية ومؤسس جماعة البعد الواحد."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u28-l4):",
+          "prompt": "اختر الأسلوب الفني الذي اشتهر به الفنان التونسي نجا المهداوي في حركة الحروفية التجريدية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (28.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (28.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (28.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (28.4.x3)"
+            "«الاعْتِمَادُ عَلَى الإِيقَاعِ البَصَرِيِّ وَالشَّكْلِ الجَمَالِيِّ لِلْحَرْفِ دُونَ الِارْتِبَاطِ بِنَصٍّ أَوْ كَلِمَةٍ مَقْرُوءَةٍ». ('Relying on the visual rhythm and aesthetic form of script without readable words.')",
+            "كتابة المقالات الإخبارية بالخط الصغير",
+            "رسم الوجوه الواقعية فقط",
+            "حروفية نجا المهداوي ايقاع سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "نجا المهداوي يركز على الموسيقى البصرية والإيقاع الصرف للحرف العربي متجاوزاً دلالة القراءة النصية."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)»؟",
+          "prompt": "ما إعراب كلمة «عُنْصُرًا» في جملة: «لِيُصْبِحَ عُنْصُرًا تَجْرِيدِيًّا»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (28.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (28.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (28.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (28.4.y3)"
+            "خَبَرُ يُصْبِحَ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Predicate of yusbiha in accusative)",
+            "اسم يصبح مرفوع",
+            "مفعول به منصوب",
+            "حال منصوبة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«عُنْصُرًا» خبر الفعل الناسخ المنصوب «يُصْبِحَ» وعلامة نصبه الفتحة، و«تَجْرِيدِيًّا» نعت منصوب."
         }
       ]
     },
@@ -17122,24 +17149,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 28-4)؟",
+          "prompt": "اختر النص النقدي الذي يحلل إنجاز حركة الحروفية العربية المعاصرة بأعلى مستويات الرصانة الفكرية والتشكيلية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (28.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (28.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (28.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (28.4.z3)"
+            "شَكَّلَتْ حَرَكَةُ الحُرُوفِيَّةِ العَرَبِيَّةِ أَهَمَّ مُنْعَطَفٍ حَدَاثِيٍّ فِي الفَنِّ التَّشْكِيلِيِّ؛ حَيْثُ اسْتَلْهَمَ شَاكِر حَسَن آل سَعِيد وَنَجَا المَهْدَاوِي وَضِيَاء العَزَّاوِي طَاقَةَ الحَرْفِ العَرَبِيِّ، فَحَوَّلُوهُ مِنْ قَالَبِ النَّصِّ اللِّسَانِيِّ إِلَى مَدَارَاتِ التَّجْرِيدِ البَصَرِيِّ الكَوْنِيِّ، مَازِجِينَ بَيْنَ قَدَاسَةِ المَوْرُوثِ وَجَسَارَةِ الحَدَاثَةِ، لِيَغْدُوَ الحَرْفُ العَرَبِيُّ لُغَةً بَصَرِيَّةً تُخَاطِبُ الضَّمِيرَ الإِنْسَانِيَّ العَالَمِيَّ. (The Arabic Hurufiyya movement formed the most significant modernist turning point in fine arts; where Shakir Hassan Al Said, Nja Mahdaoui, and Dia Azzawi drew upon the energy of the Arabic letter, transforming it from linguistic text into orbits of cosmic visual abstraction, merging sacred heritage with modernist audacity, so Arabic script became a visual language speaking to global human consciousness.)",
+            "الحروفية كتابة الحروف على لوحات الرسم بالألوان الزيتية.",
+            "حروفية عربية فن تشكيلي شاكر حسن ال سعيد نجا المهداوي ضياء العزاوي سكون فتحة ضمة.",
+            "فشلت الحروفية في الوصول الى المتاحف العالمية."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يستوعب الأبعاد الكاملة للحركة: تحرير الحرف من السطر، التنظير الفلسفي لآل سعيد، التجريد الإيقاعي للمهداوي، والتكامل بين التراث والحداثة التشكيلية."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u28-l4) باللغة العربية (مثال: «الخط»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الحركة الفنية التشكيلية الحديثة التي جعلت من الحرف العربي عنصراً بصرياً أساسياً في اللوحة (اكتب: «الحروفية» أو «حركة الحروفية»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الخط",
-            "الخط"
+            "الحروفية",
+            "حركة الحروفية",
+            "حروفيّة",
+            "الحُروفيّة",
+            "الحُرُوفِيَّةُ",
+            "الحُرُوفِيَّة"
           ],
-          "explanation": "المصطلح الصحيح هو «الخط»."
+          "explanation": "الحركة هي «الحروفية» (Hurufiyya Movement)."
         }
       ],
       "passThreshold": 0.8
@@ -17150,85 +17181,89 @@
     "subject": "arabic",
     "unit": 28,
     "lessonNumber": 5,
-    "title": "الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts) (الدرس 5)",
+    "title": "حوار المتحف الفني والتحليل الجمالي للخط والعمارة الإسلامية (Museum of Islamic Art Colloquium & Aesthetics Dialogue)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أنواع الخطوط العربية (الثلث، النسخ، الكوفي، الديواني)، الزخرفة الهندسية، والأرابيسك. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة الثامنة والعشرين: أقلام الخط وقواعد ابن مقلة، الأرابيسك والأطباق النجمية، العمارة والمقرنصات، وحركة الحروفية التشكيلية في حوار نخبوي بمتحف الفن الإسلامي.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة الثامنة والعشرين (مستوى C1 المتقدم) من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس، ندمج كافة فنون البصر والخط والعمارة في حوار تحليلي جمالي راقٍ يدور في أروقة متحف الفن الإسلامي بين أمين المتحف (د. كمال) والباحثة في تاريخ الفنون البصرية (د. نادية):\n\nمحاور الحوار الجمالي الشامل:\n1.【أقلام الخط وهندسة الحرف】: «الخَطُّ المَنْسُوبُ»، «ابْنُ مُقْلَةَ»، «الثُّلُثُ»، «النَّسْخُ»، «الكُوفِيُّ».\n2.【الزخرفة والأرابيسك】: «فَنُّ التَّوْرِيقِ»، «الأَطْبَاقُ النَّجْمِيَّةُ»، «التَّنَاظُرُ الهَنْدَسِيُّ»، «فَلْسَفَةُ التَّوْحِيدِ».\n3.【العمارة التراثية】: «المُقَرْنَصَاتُ»، «الصَّحْنُ المَفْتُوحُ»، «المَآذِنُ»، «العُقُودُ الحُذْوِيَّةُ».\n4.【الحروفية المعاصرة】: «جَمَاعَةُ البُعْدِ الوَاحِدِ»، «شَاكِر حَسَن آل سَعِيد»، «التَّجْرِيدُ الخَطِّيُّ».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)» بأسلوب أكاديمي دقيق (28.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)' to students in an accurate academic style."
+          "target": "مَرْحَبًا دُكْتُورَة نَادِيَة، كَيْفَ نَقْرَأُ هٰذَا التَّكَامُلَ البَصَرِيَّ بَيْنَ هَنْدَسَةِ خَطِّ الثُّلُثِ وَزَخَارِفِ الأَرَابِيسْكِ فِي مِحْرَابِ المَسْجِدِ؟(Marḥaban duktūrah Nādiyah, kayfa naqraʾu hādhihi at-takāmula al-baṣariyya bayna handasati khaṭṭi ath-thuluthi wa-zakhāwifi al-arābīski fī miḥrābi al-masjid?)",
+          "reading": "[mar.ħa.ban duk.tuː.rah naː.di.jah, kaj.fa naq.ra.ʔu haː.ði.hi‿t.ta.kaː.mu.la‿l.ba.sˤa.rij.ja baj.na han.da.sa.ti xatˤ.tˤi‿θ.θu.lu.θi wa.za.xaː.wi.fi‿l.ʔa.raː.biːs.ki fiː miħ.raː.bi‿l.mas.ʒid?] (Mar-ḥa-ban duk-tū-rah Nā-di-yah, kay-fa naq-ra-ʾu hā-dhi-hi at-ta-kā-mu-la al-ba-ṣa-riy-ya bay-na han-da-sa-ti khaṭ-ṭi ath-thu-lu-thi wa-za-khā-ri-fi al-a-rā-bīs-ki fī miḥ-rā-bi al-mas-jid?)",
+          "translation": "Welcome Dr. Nadia, how do we read this visual synthesis between Thuluth script geometry and arabesque ornamentation in the mosque mihrab?"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (28.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَهْلًا دُكْتُور كَمَال؛ يُمَثِّلُ الخَطُّ المَنْسُوبُ عَقْلَ الفَنِّ وَضَبْطَهُ الهَنْدَسِيَّ، بَيْنَمَا يَمْنَحُ الأَرَابِيسْكُ المَكَانَ رُوحَ الانْسِيَابِ وَاللَّانِهَايَةِ.(Ahlan duktūr Kamāl; yumaththilu al-khaṭṭu al-mansūbu ʿaqla al-fanni wa-ḍabṭahu al-handasiyy, baynamā yamnaḥu al-arābīsku al-makāna rūḥa al-insiyābi wa-al-lānihāyah.)",
+          "reading": "[ʔah.lan duk.tuːr ka.maːl; ju.maθ.θi.lu‿l.xatˤ.tˤu‿l.man.suː.bu ʕaq.la‿l.fan.ni wa.dˤab.tˤa.hu‿l.han.da.sijj, baj.na.maː jam.na.ħu‿l.ʔa.raː.biːs.ku‿l.ma.kaː.na ruː.ħa‿l.ʔin.si.jaː.bi wal.laː.ni.haː.jah] (Ah-lan duk-tūr Ka-māl; yu-math-thi-lu al-khaṭ-ṭu al-man-sū-bu ʿaq-la al-fan-ni wa-ḍab-ṭa-hu al-han-da-siyy, bay-na-mā yam-na-ḥu al-a-rā-bīs-ku al-ma-kā-na rū-ḥa al-in-si-yā-bi wa-al-lā-ni-hā-yah.)",
+          "translation": "Hello Dr. Kamal; Proportionate script represents art's intellect and geometric rigor, while arabesque grants the space the spirit of fluidity and infinity."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (28.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "وَتَرْتَفِعُ المُقَرْنَصَاتُ فَوْقَ العُقُودِ الحُذْوِيَّةِ لِتَصْنَعَ مَعَ الأَطْبَاقِ النَّجْمِيَّةِ مَلْحَمَةً مِعْمَارِيَّةً فَرِيدَةً.(Wa-tartafiʿu al-muqarnaṣātu fawqa al-ʿuqūdi al-ḥudhwiyyati li-taṣnaʿa maʿa al-aṭbāqi an-najmiyyati malḥamatan miʿmāriyyatan farīdah.)",
+          "reading": "[wa.tar.ta.fi.ʕu‿l.mu.qar.na.sˤaː.tu faw.qa‿l.ʕu.quː.di‿l.ħuð.wij.ja.ti li.tasˤ.na.ʕa ma.ʕa‿l.ʔatˤ.baː.qi‿n.naʒ.mij.ja.ti mal.ħa.ma.tan miʕ.maː.rij.ja.tan fa.riː.dah] (Wa-tar-ta-fi-ʿu al-mu-qar-na-ṣā-tu faw-qa al-ʿu-qū-di al-ḥudh-wiy-ya-ti li-taṣ-na-ʿa ma-ʿa al-aṭ-bā-qi an-naj-miy-ya-ti mal-ḥa-ma-tan miʿ-mā-riy-ya-tan fa-rī-dah.)",
+          "translation": "And muqarnas vaults rise above horseshoe arches to craft with star polygons a unique architectural epic."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (28.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "ثُمَّ تَجَدَّدَتْ هٰذِهِ العَبْقَرِيَّةُ فِي لَوْحَاتِ الحُرُوفِيَّةِ الحَدِيثَةِ الَّتِي حَرَّرَتِ الحَرْفَ لِيُحَلِّقَ فِي آفَاقِ التَّجْرِيدِ العَالَمِيِّ.(Thumma tajaddadat hādhihi al-ʿabqariyyatu fī lawḥāti al-ḥurūfiyyati al-ḥadīthati al-latī ḥarrarat al-ḥarfa li-yuḥalliqa fī āfāqi at-tajrīdi al-ʿālamiyy.)",
+          "reading": "[θum.ma ta.ʒad.da.dat haː.ði.hi‿l.ʕab.qa.rij.ja.tu fiː law.ħaː.ti‿l.ħu.ruː.fij.ja.ti‿l.ħa.diː.θa.ti‿l.la.tiː ħar.ra.rat al.ħar.fa li.ju.ħal.li.qa fiː ʔaː.faː.qi‿t.taʒ.riː.di‿l.ʕaː.la.mijj] (Thum-ma ta-jad-da-dat hā-dhi-hi al-ʿab-qa-riy-ya-tu fī law-ḥā-ti al-ḥu-rū-fiy-ya-ti al-ḥa-dī-tha-ti al-la-tī ḥar-ra-rat al-ḥar-fa li-yu-ḥal-li-qa fī ā-fā-qi at-taj-rī-di al-ʿā-la-miyy.)",
+          "translation": "Then this genius was renewed in modern Hurufiyya paintings that liberated the letter to soar in horizons of global abstraction."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فِي مَتْحَفِ الفَنِّ تَجَلَّى الإِبْدَاعُ جَلِيَّا، خَطٌّ وَعِمَارَةٌ تَفِيضُ سِحْرًا بَهِيَّا!"
+      ],
+      "culturalNotes": [
+        "تُعد متاحف الفن الإسلامي (في القاهرة، الدوحة، باريس، وإسطنبول) مراكز عالمية رائدة تحفظ روائع الخط والمقرنصات والتحف الخشبية المعشقة كشواهد على ذروة الحضارة الإنسانية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)» (الدرس 5)؟",
+          "prompt": "في التحليل الجمالي التكاملي، كيف تلتقي دقة الخط العربي مع حركة الأرابيسك في العمارة؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)» بأسلوب أكاديمي دقيق (28.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (28.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (28.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (28.5.w3)"
+            "يُمَثِّلُ الخَطُّ الِانْضِبَاطَ الهَنْدَسِيَّ وَالمَعْنَى، بَيْنَمَا يُمَثِّلُ الأَرَابِيسْكُ الانْسِيَابَ وَاللَّانِهَايَةَ الرُّوحِيَّةَ (Calligraphy is geometric rigor & meaning, arabesque is fluidity & spiritual infinity)",
+            "لا يوجد أي انسجام بينهما",
+            "كلاهما يستخدم لتشويه الجدران",
+            "أحدهما يلغي الآخر تماما"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الخط المنسوب يمثل النظام والعقل، والأرابيسك يمثل الحركة الحية والامتداد اللانهائي."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما الذي أضافته حركة الحروفية التشكيلية المعاصرة إلى التراث الخطّي القديم؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "تَحْرِيرُ الحَرْفِ العَرَبِيِّ إِلَى الفَضَاءِ التَّشْكِيلِيِّ التَّجْرِيدِيِّ وَمُخَاطَبَةُ الذَّائِقَةِ الفَنِّيَّةِ العَالَمِيَّةِ (Liberating the letter into abstract fine arts & engaging global taste)",
+            "إلغاء جماليات الحرف القديم",
+            "العودة إلى الكتابة على الحجارة فقط",
+            "تحريم استخدام الألوان الزيتية"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الحروفية جعلت الحرف العربي وسيطاً عالمياً للتجريد والتعبير الصوفي والمعاصر."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u28-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تصف روعة الفنون البصرية الإسلامية بتعبير نقدي فصيح:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (28.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (28.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (28.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (28.5.x3)"
+            "— كَيْفَ وَجَدْتِ مَعَارِضَ الخَطِّ وَالعِمَارَةِ؟ — وَجَدْتُهَا صَرْحًا بَصَرِيًّا يَجْمَعُ بَيْنَ هَنْدَسَةِ العَقْلِ وَإِشْرَاقِ الرُّوحِ فِي نَسَقٍ جَمَالِيٍّ مُعْجِزٍ. (— How did you find the calligraphy and architecture exhibits? — As a visual monument uniting intellect geometry with spiritual illumination in wondrous aesthetic harmony.)",
+            "— هل تحب زيارة المتاحف؟ — نعم زرت المتحف امس.",
+            "— كم ثمن تذكرة الدخول؟ — عشرة دراهم فقط.",
+            "— حوار متحف فن خط عمارة سكون."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة تجسد التلاقي الفلسفي بين هندسة العقل وإشراق الروح في التراث البصري الإسلامي."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الخط العربي والفنون التشكيلية الإسلامية (Calligraphy & Arts)»؟",
+          "prompt": "ما إعراب كلمة «صَرْحًا» في قولنا: «وَجَدْتُهَا صَرْحًا بَصَرِيًّا»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (28.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (28.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (28.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (28.5.y3)"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Second object of wajada in accusative)",
+            "حال منصوبة بالفتحة",
+            "نعت منصوب",
+            "تمييز منصوب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الفعل «وَجَدَ» القلبي ينصب مفعولين؛ الضمير «هَا» مفعول أول، و«صَرْحًا» مفعول به ثانٍ منصوب."
         }
       ]
     },
@@ -17236,24 +17271,30 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 28-5)؟",
+          "prompt": "اختر النص الحواري الجمالي الشامل الذي يدمج مخرجات الوحدة الثامنة والعشرين بأكملها (أقلام الخط وقواعد ابن مقلة، الأرابيسك والأطباق النجمية، العمارة والمقرنصات، وحركة الحروفية المعاصرة):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (28.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (28.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (28.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (28.5.z3)"
+            "د. كَمَال: «دُكْتُورَة نَادِيَة، كَيْفَ نُفَسِّرُ هٰذَا التَّنَاغُمَ الخَالِدَ بَيْنَ قَوَاعِدِ «الخَطِّ المَنْسُوبِ» لِابْنِ مُقْلَةَ وَفَلْسَفَةِ الأَرَابِيسْكِ وَالأَطْبَاقِ النَّجْمِيَّةِ مَعَ إِبْدَاعِ المُقَرْنَصَاتِ وَجَسَارَةِ الحُرُوفِيَّةِ المُعَاصِرَةِ؟» — د. نَادِيَة: «إِنَّهَا عَبْقَرِيَّةُ الهُوِيَّةِ البَصَرِيَّةِ الإِسْلَامِيَّةِ؛ حَيْثُ حَوَّلَ الفَنَّانُ المُسْلِمُ الحَرْفَ وَالعِمَارَةَ إِلَى مَحَارِيبَ لِلتَّأَمُّلِ التَّجْرِيدِيِّ، فَالْتَقَتْ صَلَابَةُ الهَنْدَسَةِ بِانْسِيَابِ الرُّوحِ، لِيَظَلَّ فَنُّنَا البَصَرِيُّ شَاهِدًا أَبَدِيًّا عَلَى سُمُوِّ الحَضَارَةِ الإِنْسَانِيَّةِ». (Dr. Kamal: 'Dr. Nadia, how do we explain this timeless harmony between Ibn Muqla's Proportionate Script rules and philosophy of arabesque & star patterns with muqarnas creativity and modernist Hurufiyya audacity?' — Dr. Nadia: 'It is the genius of Islamic visual identity; where the Muslim artist transformed script and architecture into sanctuaries for abstract contemplation, merging engineering solidity with spiritual fluidity, keeping our visual art an eternal witness to human civilization's loftiness.')",
+            "د. كمال: هل اعجبتك اللوحات في المعرض؟ — د. نادية: نعم اعجبتني اللوحات جدا.",
+            "حوار فني شامل خط عربي ابن مقلة ارابيسك اطباق نجمية مقرنصات حروفية سكون فتحة ضمة.",
+            "توقفت الفنون التشكيلية العربية عن التطور تماما."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة التحليل الجمالي والنقدي في دمج: الخط المنسوب، الأرابيسك والأطباق النجمية، المقرنصات المعمارية، والحروفية التشكيلية المعاصرة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u28-l5) باللغة العربية (مثال: «الخط»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الفنون البصرية المعمارية والزخرفية والخطية في الحضارة الإسلامية (اكتب: «الفنون الإسلامية» أو «الفن الإسلامي»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الخط",
-            "الخط"
+            "الفنون الإسلامية",
+            "الفنون الاسلامية",
+            "الفن الإسلامي",
+            "الفن الاسلامي",
+            "فنون إسلامية",
+            "فنون اسلامية",
+            "الفُنُونُ الإِسْلَامِيَّةُ",
+            "الفَنّ الإِسْلَامِيّ"
           ],
-          "explanation": "المصطلح الصحيح هو «الخط»."
+          "explanation": "المصطلح الشامل هو «الفنون الإسلامية» (Islamic Arts)."
         }
       ],
       "passThreshold": 0.8
