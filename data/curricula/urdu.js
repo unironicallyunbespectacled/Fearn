@@ -7045,53 +7045,62 @@
     "subject": "urdu",
     "unit": 17,
     "lessonNumber": 1,
-    "title": "متعدی اور متعدی المتعدی افعال (Causative Verb Morphology) (Part 1)",
+    "title": "فعلِ لازم بمقابلہ فعلِ متعدی (Intransitive vs Direct Transitive)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 17.1) with authentic precision.",
+    "objective": "فعلِ لازم (Intransitive) سے فعلِ متعدی (Transitive) بنانے کے صوتی و صرفی قواعد (الف کا اضافہ اور حروفِ علت کی تبدیلی) پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں فعلِ لازم سے متعدی کی تشکیل (Causative Verb Morphology - 1st Causative):\n\n1. **الف (ا) کا لاحقہ جوڑ کر**:\n   - مادہ فعل کے آخر میں 'ا' کا اضافہ کرنے سے لازم فعل متعدی بن جاتا ہے:\n     - «گرنا» (to fall [intr]) -> **گرانا** (to drop / fell [tr])؛\n     - «سننا» (to hear) -> **سنانا** (to narrate / recite)؛\n     - «پکنا» (to cook [intr]) -> **پکانا** (to cook [tr])؛\n     - «چلنا» -> **چلانا**۔\n\n2. **اندرونی حرفِ علت کی تبدیلی (Internal Vowel Shift)**:\n   - مادہ فعل کے حرفِ علت کو لمبا کر کے متعدی بنانا:\n     - «کھلنا» -> **کھولنا**؛\n     - «رکنا» -> **روکنا**؛\n     - «کٹنا» -> **کاٹنا**؛\n     - «بندھنا» -> **باندھنا**۔\n\n3. **نحوی اثر**:\n   - متعدی فعل کے ساتھ ماضی میں فاعل پر **'نے'** کا اطلاق لازمی ہو جاتا ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "معلم نے تمام طلبہ کو اردو کلاسیکی شاعری کا ایک نہایت خوبصورت اور دلنشین شاہکار سنایا۔",
+          "reading": "Mu'allim ne tamaam talaba ko Urdu klaaseeki shaa'iri ka ek nihaayat khoobsoorat aur dilnasheen shaahkaar sunaaya. [mʊʔəlːɪm neː t̪əmaːm t̪ələbaː koː ʊrd̪uː klaːsiːkiː ʃaːʔɪriː kaː eːk nɪhaːjət̪ xuːbsuːrət̪ ɔːr d̪ɪlnəʃiːn ʃaːhkaːr sʊnaːjaː] (moo-uhl-LEEM nay tuh-MAHM tuh-luh-BAH koh OOR-doo klah-see-KEE shah-ee-REE kah AYK nee-HAH-yuht khoob-SOO-ruht owr deel-nuh-SHEEN shah-HAH-kahr soo-NAH-yah)",
+          "translation": "The teacher recited a very beautiful and enchanting masterpiece of classical Urdu poetry to all students [transitive from sunna: sunaaya]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 17-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "باغبان نے پودوں کی درست نشو و نما کے لیے سوکھی شاخوں کو احتیاط سے کاٹ کر الگ کیا۔",
+          "reading": "Baaghbaan ne paudon ki durust nashw-o-numa ke liye sookhi shaakhon ko ehtiyaat se kaat kar alag kiya. [baːɣbaːn neː pɔːd̪õː kiː d̪ʊrʊst̪ nəʃʋ-oː-nʊmaː keː lɪjeː suːkʰiː ʃaːxõː koː ɪɦt̪ɪjaːt̪ seː kaːʈ kər ələɡ kɪjaː] (bahgh-BAHN nay pow-DOHN kee doo-ROOST nuhsh-voh-noo-MAH kay lee-AY SOO-khee shah-KHOHN koh eh-tee-YAHT say KAHT kuhr UH-luhg kee-YAH)",
+          "translation": "The gardener cut and separated dry branches carefully for the proper growth of plants [transitive from katna: kaat kar]."
+        },
+        {
+          "target": "شیف نے روایتی مصالحوں کے ساتھ ایک لذیذ اور ذائقہ دار پکوان پکایا۔",
+          "reading": "Chef ne riwaayati masaalahon ke saath ek lazeez aur zaa'iqadaar pakwaan pakaaya. [ʃɛf neː rɪʋaːjət̪iː məsaːləhõː keː saːt̪ʰ eːk ləziːz ɔːr zaːʔɪqəd̪aːr pəkʋaːn pəkaːjaː] (chef nay ree-vah-yuh-TEE muh-sah-luh-HOHN kay SAHTH AYK luh-ZEEZ owr zah-ee-quh-DAHR puhk-VAHN puh-KAH-yah)",
+          "translation": "The chef cooked a delicious and flavorful dish with traditional spices [transitive from pakna: pakaaya]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "متعدی فارمولا: سننا (لازم) -> سنانا (متعدی)، کٹنا (لازم) -> کاٹنا (متعدی)!"
+      ],
+      "culturalNotes": [
+        "اردو کی داستان گوئی اور مشاعروں میں 'شعر سنانا' اور 'قصہ سنانا' فصاحت اور زبان دانی کا بنیادی مظہر مانا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"ڈاکٹر\":",
+          "prompt": "فعلِ لازم «رکنا» کا فصیح متعدی صیغہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («دوا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ہسپتال» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («صحت» کی خرابی)"
+            "روکنا (Rokna - Transitive via internal vowel shift from rukna)",
+            "رکانا (غیر فصیح)",
+            "رکوانا (متعدی المتعدی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«رکنا» سے حرفِ علت بدل کر متعدی «روکنا» بنتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"ڈاکٹر\":",
+          "prompt": "فعلِ لازم «گرنا» سے براہِ راست متعدی بنانے کا درست طریقہ کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ہسپتال» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («صحت» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دوا» کا غیر درست استعمال)"
+            "گرانا (Giraana - Direct transitive by adding 'aa' suffix)",
+            "گرنا کرنا (غلط ترکیب)",
+            "گرونا (بے معنی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مادہ 'گر' کے ساتھ الف لگا کر «گرانا» بنتا ہے۔"
         }
       ]
     },
@@ -7099,17 +7108,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"ڈاکٹر\": Which sentence is completely correct?",
+          "prompt": "فعلِ لازم اور فعلِ متعدی کے فصیح فرق کا جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («صحت» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دوا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ہسپتال» سے متعلق)"
+            "باغبان نے سوکھے درختوں کو کاٹا تاکہ نئے پودوں کے لیے راستہ کھل سکے اور روشنی پہنچ سکے۔ (The gardener cut the dry trees [transitive kaata] so that path could open [intransitive khul sakay].)",
+            "باغبان درخت کٹا تھا اور رویا تھا۔",
+            "متعدی فعل کے ساتھ نے کا استعمال ممنوع ہے۔",
+            "لازم فعل میں ہمیشہ دو مفعول ہوتے ہیں۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«باغبان نے سوکھے درختوں کو کاٹا تاکہ نئے پودوں کے لیے راستہ کھل سکے اور روشنی پہنچ سکے۔» میں متعدی (کاٹا) اور لازم (کھل سکے) کا کامل استعمال ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u17-l2": {
@@ -7117,53 +7127,62 @@
     "subject": "urdu",
     "unit": 17,
     "lessonNumber": 2,
-    "title": "متعدی اور متعدی المتعدی افعال (Causative Verb Morphology) (Part 2)",
+    "title": "متعدی المتعدی: 'وانا' کا لاحقہ (Secondary Causatives with 'Waana')",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 17.2) with authentic precision.",
+    "objective": "متعدی المتعدی (Double / Secondary Causatives: مادہ + وانا) کی تشکیل اور واسطہ فاعل (کے ذریعے / سے) کے درست نحوی استعمال پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں متعدی المتعدی ساختیں (Double / Secondary Causatives with 'Waana'):\n\n1. **'وانا' کا لاحقہ (Formation)**:\n   - جب فاعل کوئی کام خود کرنے کے بجائے کسی تیسرے شخص کے ذریعے کروائے:\n     - **لکھنا** -> لکھانا -> **لکھوانا** (to get written)؛\n     - **بننا** -> بنانا -> **بنوانا** (to have made)؛\n     - **پڑھنا** -> پڑھانا -> **پڑھوانا** (to cause to be taught)；\n     - **کرنا** -> کرانا -> **کروانا** (to get done)۔\n\n2. **واسطہ فاعل (Intermediate Agent with 'سے')**:\n   - جس شخص سے کام کروایا جائے اس کے ساتھ 'سے' لگایا جاتا ہے:\n     - «ہم نے معمار **سے** نیا گھر **بنوایا**»؛\n     - «استاد نے طلبہ **سے** مضمون **لکھوایا**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ہم نے ماہر خوشنویس سے اپنے علمی ادارے کا کتبہ نستعلیق خط میں نہایت نفاست سے لکھوایا۔",
+          "reading": "Hum ne maahir khush-nawees se apne ilmi idaaray ka katba Nastaliq khatt mein nihaayat nafaasat se likhwaaya. [həm neː maːhɪr xʊʃ-nəʋiːs seː əpneː ɪlmiː ɪd̪aːreː kaː kət̪baː nəst̪əʔliːq xətː mẽː nɪhaːjət̪ nəfaːsət̪ seː lɪkʰʋaːjaː] (HOOM nay mah-HEER khoosh-nuh-VEES say uhp-NAY EEL-mee ee-dah-RAY kah KUHT-bah nuhs-tuh-LEEQ KHAHTT mayn nee-HAH-yuht nuh-FAH-suht say leekh-VAH-yah)",
+          "translation": "We had the plaque of our educational institution written in Nastaliq script with great elegance by an expert calligrapher [double causative: likhwaaya]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 17-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "حکومت نے بین الاقوامی ماہرینِ تعمیرات سے دارالحکومت کے نئے پل کا تفصیلی ڈیزائن بنوایا۔",
+          "reading": "Hukoomat ne bain-ul-aqwaami maahireen-e-ta'meeraat se daar-ul-hukoomat ke naye pul ka tafseeli design banwaaya. [hʊkuːmət̪ neː bɛːn-ʊl-əqʋaːmiː maːhɪriːn-eː-t̪əʔmiːraːt̪ seː d̪aːr-ʊl-hʊkuːmət̪ keː nəjeː pʊl kaː t̪əfsiːliː dɪzaːʔɪn bənʋaːjaː] (hoo-KOO-muht nay byn-ool-uhq-VAH-mee mah-hee-REE-nay-tuh-mee-RAHT say dahr-ool-hoo-KOO-muht kay NY-ay POOL kah tuhf-SEE-lee design buhn-VAH-yah)",
+          "translation": "The government had the detailed design of the capital's new bridge prepared by international architects [double causative: banwaaya]."
+        },
+        {
+          "target": "والدین نے نامور اساتذہ سے اپنے بچوں کو اعلیٰ تعلیمی امتحانات کی تیاری کروائی۔",
+          "reading": "Waalidain ne naamwar asaatiza se apne bachchon ko aala ta'leemi imtehaanaat ki tayyaari karwaayi. [ʋaːlɪd̪ɛːn neː naːmʋər əsaːt̪ɪzaː seː əpneː bətʃːõː koː aːlaː t̪əʔliːmiː ɪmt̪ɪhaːnaːt̪ kiː t̪əjːaːriː kərʋaːjiː] (vah-lee-DAYN nay nahm-VUHR uh-sah-TEE-zah say uhp-NAY buhch-CHOHN koh AH-lah tuh-lee-MEE eem-tuh-hah-NAHT kee ty-yah-REE kuhr-VAH-yee)",
+          "translation": "Parents had the preparation for higher academic examinations conducted for their children by renowned teachers [double causative: karwaayi]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "متعدی المتعدی فارمولا: لکھنا (خود) -> لکھانا (سکھانا) -> لکھوانا (تیسرے شخص سے کروانا)!"
+      ],
+      "culturalNotes": [
+        "اردو کی روایتی دستکاری، فنِ خطاطی اور تعمیراتی تاریخ میں نوابین اور سلاطین کے شاہکار 'بنوانے' اور 'لکھوانے' کے یہی صیغے استعمال کیے جاتے ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"دوا\":",
+          "prompt": "فعل «لکھنا» کا درست متعدی المتعدی (Secondary Causative) صیغہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («ہسپتال» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («صحت» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («علاج» کی خرابی)"
+            "لکھوانا (Likhwaana - Secondary causative: causing third party to write)",
+            "لکھانا (پہلا متعدی)",
+            "لکھتا رہنا (استمراری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«لکھوانا» متعدی المتعدی (Secondary Causative) صیغہ ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"دوا\":",
+          "prompt": "کسی تیسرے شخص سے مکان بنوانے کا درست جملہ کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («صحت» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («علاج» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ہسپتال» کا غیر درست استعمال)"
+            "ہم نے معمار سے گھر بنوایا (We had the house built by the builder - Correct agentive secondary causative)",
+            "ہم نے معمار کو گھر بنا (غلط ساخت)",
+            "ہم نے معمار دیکھا تھا (بے جوڑ)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "واسطہ فاعل کے ساتھ 'سے' اور فعل «بنوایا» متعدی المتعدی ہے۔"
         }
       ]
     },
@@ -7171,17 +7190,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"دوا\": Which sentence is completely correct?",
+          "prompt": "متعدی المتعدی افعال (Secondary Causatives with 'Waana') کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («علاج» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ہسپتال» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («صحت» سے متعلق)"
+            "حکمران نے ماہر دستکاروں سے شاہی مسجد کے لیے سنگِ مرمر کے خوبصورت کتبے اور محرابیں بنوائیں۔ (The ruler had beautiful marble plaques and arches crafted by expert artisans [banwaayein].)",
+            "حکمران نے کتبہ بنایا تھا اور رویا تھا۔",
+            "وانا کا لاحقہ صرف بچوں کی کتابوں میں آتا ہے۔",
+            "متعدی المتعدی جملے میں واسطہ فاعل کا تذکرہ منع ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«حکمران نے ماہر دستکاروں سے شاہی مسجد کے لیے سنگِ مرمر کے خوبصورت کتبے اور محرابیں بنوائیں۔» متعدی المتعدی افعال کا مکمل اور فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u17-l3": {
@@ -7189,53 +7209,62 @@
     "subject": "urdu",
     "unit": 17,
     "lessonNumber": 3,
-    "title": "متعدی اور متعدی المتعدی افعال (Causative Verb Morphology) (Part 3)",
+    "title": "بے قاعدہ متعدی اور متعدی المتعدی اوزان (Irregular Causatives)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 17.3) with authentic precision.",
+    "objective": "بے قاعدہ متعدی افعال (کھانا -> کھلانا -> کھلوانا، پینا -> پلانا -> پلوانا، سونا -> سلانا -> سلوانا، دیکھنا -> دکھانا -> دکھلوانا) پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں بے قاعدہ متعدی افعال (Irregular Causative Verb Morphology):\n\n1. **حرفِ علت کی تخفیف اور 'لانا' / 'لوانا' کا اضافہ**:\n   - جب مادہ فعل میں لمبا حرفِ علت مختصر ہو کر 'لانا' اور 'لوانا' میں بدل جائے:\n     - **کھانا** [ā] -> **کھلانا** [i] -> **کھلوانا** [i] (to feed / cause to feed)；\n     - **پینا** [ī] -> **پلانا** [i] -> **پلوانا** [i] (to cause to drink)；\n     - **سونا** [ō] -> **سلانا** [u] -> **سلوانا** [u] (to put to sleep)；\n     - **دیکھنا** [ē] -> **دکھانا** [i] -> **دکھلوانا** [i] (to show / cause to see)；\n     - **دھونا** -> **دھلانا** -> **دھلوانا** (to get washed)۔\n\n2. **ادبی و نحوی اہمیت**:\n   - عام بول چال کے غیر معیاری الفاظ کے بجائے ان فصیح بے قاعدہ متعدی صورتوں کا درست استعمال اردو شائستگی کی پہچان ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "سخی میزبان نے تمام غریب اور مسکین مہمانوں کو دسترخوان پر بٹھا کر پر تکلف کھانا کھلایا۔",
+          "reading": "Sakhi mezbaan ne tamaam ghareeb aur miskeen mehmaanon ko dastarkhwaan par baitha kar pur-takalluf khaana khilaaya. [səxiː meːzbaːn neː t̪əmaːm ɣəriːb ɔːr mɪskiːn mɛɦmaːnõː koː d̪əst̪ərxaːn pər bɛːʈʰaː kər pʊr-t̪əkəlːʊf kʰaːnaː kʰɪlaːjaː] (suh-KHEE mayz-BAHN nay tuh-MAHM ghuh-REEB owr mees-KEEN myh-mah-NOHN koh duhs-tuhr-KHAHN puhr BY-thah kuhr poor-tuh-kuhl-LOOF KHAH-nah khee-LAH-yah)",
+          "translation": "The generous host seated all poor and needy guests at the dining spread and fed them a lavish meal [irregular causative: khilaaya]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 17-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ہمدرد رضاکاروں نے تپتی دھوپ میں مسافروں اور راہگیروں کو ٹھنڈا اور میٹھا شربت پلایا۔",
+          "reading": "Hamdard razaakaaron ne tapti dhoop mein musaafiron aur raahgeeron ko thanda aur meetha sharbat pilaaya. [həmd̪ərd̪ rəzaːkaːrõː neː t̪əpt̪iː d̪ʱuːp mẽː mʊsaːfɪrõː ɔːr raːhɡiːrõː koː ʈʰəɳɖaː ɔːr miːʈʰaː ʃərbət̪ pɪlaːjaː] (huhm-DUHRD ruh-zah-kah-ROHN nay tuhp-TEE DHOOP mayn moo-sah-fee-ROHN owr rah-gee-ROHN koh THUHN-dah owr MEE-thah shuhr-BUHT pee-LAH-yah)",
+          "translation": "Compassionate volunteers served cool and sweet syrup to travelers and passersby in the scorching heat [irregular causative: pilaaya]."
+        },
+        {
+          "target": "عجائب گھر کے منتظم نے غیر ملکی سیاحوں کو قدیم نوادرات اور نادر قلمی نسخے دکھائے۔",
+          "reading": "Ajaa'ib-ghar ke muntazim ne ghair-mulki sayyaahon ko qadeem nawaadiraat aur naadir qalmi nuskhay dikhaaye. [ədʒaːʔɪb-ɡʱər keː mʊnt̪əzɪm neː ɣɛːr-mʊlkiː sɪjːaːhõː koː qəd̪iːm nəʋaːd̪ɪraːt̪ ɔːr naːd̪ɪr qəlmiː nʊsxeː d̪ɪkʰaːjeː] (uh-jah-EEB-ghuhr kay moon-tuh-ZEEM nay ghyr-mool-KEE sy-yah-HOHN koh quh-DEEM nuh-vah-dee-RAHT owr NAH-deer quhl-MEE noos-KHAY deekh-AH-yay)",
+          "translation": "The museum curator showed ancient artifacts and rare manuscripts to foreign tourists [irregular causative: dikhaaye]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "بے قاعدہ فارمولا: کھانا -> کھلانا، پینا -> پلانا، سونا -> سلانا، دیکھنا -> دکھانا!"
+      ],
+      "culturalNotes": [
+        "مشرقی میزبانی اور روایات میں 'کھانا کھلانا' اور 'پانی پلانا' ثوابِ جاریہ اور تہذیبی شرافت کا عظیم الشان مظہر سمجھا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"ہسپتال\":",
+          "prompt": "فعل «پینا» کا درست متعدی صیغہ کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («صحت» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («علاج» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بخار» کی خرابی)"
+            "پلانا (Pilaana - Irregular vowel-shortened causative of peena)",
+            "پینا کرنا (غیر فصیح)",
+            "پیاونا (بے معنی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«پینا» سے بے قاعدہ متعدی صیغہ «پلانا» بنتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"ہسپتال\":",
+          "prompt": "بچے کو نیند لانے کے لیے فعل «سونا» کا متعدی صیغہ کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («علاج» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بخار» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («صحت» کا غیر درست استعمال)"
+            "سلانا (Sulaana - Correct irregular causative of sona)",
+            "سوانا (غیر معیاری)",
+            "سوتے کرنا (غلط ترکیب)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«سونا» سے متعدی «سلانا» بنتا ہے۔"
         }
       ]
     },
@@ -7243,17 +7272,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"ہسپتال\": Which sentence is completely correct?",
+          "prompt": "بے قاعدہ متعدی افعال (Irregular Causatives) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بخار» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («صحت» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («علاج» سے متعلق)"
+            "ماں نے رات کو بچے کو لوری سنا کر پیار سے سلایا اور صبح سویرے اٹھا کر دودھ پلایا۔ (The mother put the child to sleep by singing a lullaby [sulaaya] and fed milk in the morning [pilaaya].)",
+            "ماں نے بچے کو سویا تھا اور رویا تھا۔",
+            "کھلانا اور پلانا صرف دوا کے لیے بولا جاتا ہے۔",
+            "بے قاعدہ افعال اردو میں استعمال نہیں ہوتے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ماں نے رات کو بچے کو لوری سنا کر پیار سے سلایا اور صبح سویرے اٹھا کر دودھ پلایا۔» سلانا اور پلانا جیسے بے قاعدہ متعدی افعال کی خوبصورت اور فصیح مثال ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u17-l4": {
@@ -7261,53 +7291,62 @@
     "subject": "urdu",
     "unit": 17,
     "lessonNumber": 4,
-    "title": "متعدی اور متعدی المتعدی افعال (Causative Verb Morphology) (Part 4)",
+    "title": "متعدی ساختوں کی علامۂ فاعل 'نے' کے ساتھ نحوی مطابقت (Ergative Syntax)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 17.4) with authentic precision.",
+    "objective": "متعدی اور متعدی المتعدی افعال کے ساتھ ماضی میں علامۂ فاعل 'نے' اور مفعول کے ساتھ تذکیر و تانیث کی کامل مطابقت پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں متعدی افعال اور علامۂ فاعل 'نے' کی ارگیٹو نحوی مطابقت (Ergative Syntax with Causatives):\n\n1. **ماضی میں 'نے' کا اطلاق**:\n   - تمام متعدی اور متعدی المتعدی افعال کے ساتھ ماضی کے تمام صیغوں میں فاعل کے بعد **'نے'** آتا ہے:\n     - «استاد **نے** سبق **پڑھایا**»؛\n     - «ہم **نے** کتابیں **منگوائیں**»۔\n\n2. **مفعول کے مطابق مطابقت کے اصول**:\n   - جب مفعول بغیر 'کو' کے ہو تو فعل مفعول کے جنس و عدد کے تابع ہوتا ہے:\n     - مذکر واحد مفعول: «اس نے **مضمون (مذکر) سکھایا**»؛\n     - مؤنث واحد مفعول: «اس نے **کہانی (مؤنث) سنائی**»؛\n     - مؤنث جمع مفعول: «ہم نے **عمارتیں (جمع مؤنث) بنوائیں**»؛\n   - جب مفعول کے ساتھ 'کو' آ جائے تو فعل ہمیشہ **مذکر واحد (غیر جانبدار)** رہتا ہے:\n     - «استاد نے **بچیوں کو پڑھایا**» (نہ کہ پڑھائیں)۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "استادِ محترم نے طلبہ کو تحقیق کی نئی تکنیکیں سکھائیں اور ان سے شاندار مقالات لکھوائے۔",
+          "reading": "Ustaad-e-muhtaram ne talaba ko tehqeeq ki nayi technique-ein sikhaayein aur un se shaandaar maqaalaat likhwaaye. [ʊst̪aːd̪-eː-mʊɦt̪ərəm neː t̪ələbaː koː t̪əɦqiːq kiː nəjiː ʈɛkniːkẽː sɪkʰaːʔĩː ɔːr ʊn seː ʃaːndaːr məqaːlaːt̪ lɪkʰʋaːjeː] (oos-TAH-day-mooh-tuh-RUHM nay tuh-luh-BAH koh tuhh-QEEQ kee NY-ee technique-AYN seekh-AH-yeen owr OON say shahn-DAHR muh-qah-LAHT leekh-VAH-yay)",
+          "translation": "The respected teacher taught new research techniques [feminine plural: sikhaayein] to students and had splendid essays written by them [masculine plural: likhwaaye]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 17-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "انجینئر نے مزدوروں سے پل کی مضبوط بنیادیں بنوائیں اور ان کی نگرانی خود فرمائی۔",
+          "reading": "Engineer ne mazdooron se pul ki mazboot buniyaadein banwaayein aur un ki nigraani khud farmaayi. [ɪndʒiːnɪjər neː məzduːrõː seː pʊl kiː məzbuːt̪ bʊnɪjaːd̪ẽː bənʋaːʔĩː ɔːr ʊn kiː nɪɡraːniː xʊd̪ fərmaːjiː] (engineer nay muhz-doo-ROHN say POOL kee muhz-BOOT boo-nee-yah-DAYN buhn-VAH-yeen owr OON kee neeg-rah-NEE KHOOD fuhr-MAH-yee)",
+          "translation": "The engineer had the strong foundations of the bridge constructed by laborers [feminine plural: banwaayein] and supervised them himself."
+        },
+        {
+          "target": "ہم نے لائبریری کے لیے نایاب اور قیمتی کتابیں منگوائیں اور انہیں ترتیب سے سجایا۔",
+          "reading": "Hum ne library ke liye naayaab aur qeemti kitaabein mangwaayein aur unhein tarteeb se sajaaya. [həm neː laːɪbreːriː keː lɪjeː naːjaːb ɔːr qiːmt̪iː kɪt̪aːbẽː məŋɡʋaːʔĩː ɔːr ʊnhẽː t̪ərt̪iːb seː sədʒaːjaː] (HOOM nay library kay lee-AY nah-YAHB owr qeem-TEE kee-tah-BAYN muhng-VAH-yeen owr oon-HEYN tuhr-TEEB say suh-JAH-yah)",
+          "translation": "We ordered rare and valuable books for the library [feminine plural: mangwaayein] and arranged them in order."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ارگیٹو مطابقت فارمولا: فاعل پر 'نے' + مفعول (کتابیں) مؤنث جمع -> فعل (بنوائیں/منگوائیں) مؤنث جمع!"
+      ],
+      "culturalNotes": [
+        "اردو کی معیاری اور فصیح زبان میں 'نے' اور مفعول کی مطابقت کا خیال رکھنا ادیبوں اور اہلِ زبان کا اولین معیار سمجھا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"صحت\":",
+          "prompt": "مؤنث جمع مفعول «تصویریں» کے ساتھ فعل «دکھانا» کا درست ماضی صیغہ کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («علاج» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بخار» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سر درد» کی خرابی)"
+            "اس نے تصویریں دکھائیں (Us ne tasweerein dikhaayein - Correct feminine plural object agreement)",
+            "اس نے تصویریں دکھایا (مذکر کی غلطی)",
+            "اس نے تصویریں دکھائے (مذکر جمع کی خامی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "لفظ 'تصویریں' مؤنث جمع ہے، اس لیے فعل «دکھائیں» ہوگا۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"صحت\":",
+          "prompt": "جب مفعول کے ساتھ 'کو' آئے (جیسے: بچوں کو) تو فعل کا کیا صیغہ ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بخار» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سر درد» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («علاج» کا غیر درست استعمال)"
+            "ہمیشہ مذکر واحد: کھلایا (Always neutral masculine singular when object has ko)",
+            "ہمیشہ مؤنث جمع: کھلائیں (غلط مطابقت)",
+            "مفعول کے مطابق بدلتا رہے گا",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "علامتِ مفعول 'کو' آنے پر فعل ہمیشہ مذکر واحد (کھلایا / پڑھایا) رہتا ہے۔"
         }
       ]
     },
@@ -7315,17 +7354,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"صحت\": Which sentence is completely correct?",
+          "prompt": "متعدی افعال کی ارگیٹو نحوی مطابقت (Ergative Syntax with 'Ne') کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سر درد» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («علاج» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بخار» سے متعلق)"
+            "محقق نے پرانے دستاویزات سے اہم تاریخی سچائیاں دریافت کروائیں اور قوم کے سامنے پیش کیں۔ (The researcher had important historical truths discovered [daryaaft karwaayein] and presented [pesh keen].)",
+            "محقق نے سچائیاں دریافت کروایا تھا رویا تھا۔",
+            "علامۂ فاعل نے صرف سوالیہ جملوں میں آتا ہے۔",
+            "متعدی افعال میں فعل ہمیشہ فاعل کے مطابق رہتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«محقق نے پرانے دستاویزات سے اہم تاریخی سچائیاں دریافت کروائیں اور قوم کے سامنے پیش کیں۔» مؤنث جمع مفعول کے ساتھ ارگیٹو مطابقت کا کامل شاہکار ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u17-l5": {
@@ -7333,53 +7373,62 @@
     "subject": "urdu",
     "unit": 17,
     "lessonNumber": 5,
-    "title": "متعدی اور متعدی المتعدی افعال (Causative Verb Morphology) (Part 5)",
+    "title": "متعدی اور متعدی المتعدی افعال کا جامع سمیکن (Causative Grand Synthesis)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 17.5) with authentic precision.",
+    "objective": "لازم، متعدی، متعدی المتعدی افعال اور ارگیٹو 'نے' کے تمام اوزان کو ایک شاندار نثری شاہکار میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "متعدی اور متعدی المتعدی افعال کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **صرفی و نحوی بلندی**:\n   - جب لازم (بیدار ہونا)، متعدی (احساس دلانا)، متعدی المتعدی (قوانین بنوانا) اور بے قاعدہ متعدیات (کھلانا/پلانا/دکھانا) ایک ہی فکری پیرا گراف میں سمو دیے جائیں تو عبارت کو کمالِ فصاحت حاصل ہوتا ہے:\n     - **لازم**: «قوم بیدار **ہوئی**»؛\n     - **متعدی**: «رہنما نے راستہ **دکھایا**»؛\n     - **متعدی المتعدی**: «اداروں سے قوانین **بنوائے**»؛\n     - **بے قاعدہ متعدی**: «پیاسوں کو پانی **پلایا**»۔\n\n2. **قومی و تہذیبی وقار**:\n   - یہ جامع اسلوب اردو کے تاریخی بیانیوں، خطبات اور فکری شاہکاروں کی جان ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ہم نے اپنے بزرگوں کی علمی روایات کو زندہ کیا، ماہر خوشنویسوں سے تاریخ ساز کتبے لکھوائے، طلبہ کو سچائی کا سبق پڑھایا اور پوری قوم کو اتحاد کی طاقت کا احساس دلایا۔",
+          "reading": "Hum ne apne buzurgon ki ilmi riwaayaat ko zinda kiya, maahir khush-naweeson se taareekh-saaz katbay likhwaaye, talaba ko sachchaai ka sabaq parhaaya aur poori qawm ko ittehaad ki taaqat ka ehsaas dilaaya. [həm neː əpneː bʊzʊrɡõː kiː ɪlmiː rɪʋaːjaːt̪ koː zɪnd̪aː kɪjaː maːhɪr xʊʃ-nəʋiːsõː seː t̪aːriːx-saːz kət̪beː lɪkʰʋaːjeː t̪ələbaː koː sətʃːaːʔiː kaː səbəq pəɽʱaːjaː ɔːr puːriː qɔːm koː ɪt̪ːɪhaːd̪ kiː t̪aːqət̪ kaː ɛɦsaːs d̪ɪlaːjaː] (HOOM nay uhp-NAY boo-zoor-GOHN kee EEL-mee ree-vah-YAHT koh zeen-DAH kee-YAH, mah-HEER khoosh-nuh-vee-SOHN say tah-REEKH-sahz KUHT-bay leekh-VAH-yay, tuh-luh-BAH koh suhch-chah-EE kah suh-BUHQ puhr-DHAH-yah owr POO-ree QOWM koh eet-tuh-HAHD kee TAH-quht kah eh-SAHS dee-LAH-yah)",
+          "translation": "We revived our elders' scholarly traditions [zinda kiya], had historic plaques written by expert calligraphers [likhwaaye], taught the lesson of truth to students [parhaaya], and made the nation realize the power of unity [ehsaas dilaaya]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 17-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "دانشور نے سچائی کے چراغ جلائے، نوجوانوں کو فکری بیداری کا راستہ دکھایا اور قومی اداروں سے اصلاحی قوانین بنوائے۔",
+          "reading": "Daanishwar ne sachchaai ke charaagh jalaaye, naujawaanon ko fikri bedaari ka raasta dikhaaya aur qaumi idaaron se islaahi qawaaneen banwaaye. [d̪aːnɪʃʋər neː sətʃːaːʔiː keː tʃəraːɣ dʒəlaːjeː nɔːdʒəʋaːnõː koː fɪkriː beːd̪aːriː kaː raːst̪aː d̪ɪkʰaːjaː ɔːr qɔːmiː ɪd̪aːrõː seː ɪslaːhiː qəʋaːniːn bənʋaːjeː] (dah-neesh-VUHR nay suhch-chah-EE kay chuh-RAHGH juh-LAH-yay, now-juh-vah-NOHN koh feek-REE bay-dah-REE kah RAHS-tah deekh-AH-yah owr QOW-mee ee-dah-ROHN say ees-LAH-hee quh-vah-NEEN buhn-VAH-yay)",
+          "translation": "The intellectual lit lamps of truth [jalaaye], showed the path of awakening to the youth [dikhaaya], and had reformative laws enacted by national institutions [banwaaye]."
+        },
+        {
+          "target": "ریاست نے ہسپتالوں کا جال بچھایا، ماہر ڈاکٹروں سے مریضوں کا مفت علاج کروایا اور ہر شہری کو صحت مند زندگی کی سہولیات پہنچائیں۔",
+          "reading": "Riyaasat ne haspataalon ka jaal bichhaaya, maahir doctoron se mareezon ka muft ilaaj karwaaya aur har shehri ko sehat-mand zindagi ki sahooliyaat pehunchaayein. [rɪjaːsət̪ neː həspt̪aːlõː kaː dʒaːl bɪtʃʰaːjaː maːhɪr ɖoːkʈrõː seː məriːzõː kaː mʊft̪ ɪlaːdʒ kərʋaːjaː ɔːr hər ʃɛɦriː koː sɪɦːət̪-mənd̪ zɪnd̪əɡiː kiː səhuːlɪjaːt̪ pɛɦʊntʃaːʔĩː] (ree-YAH-suht nay huhs-puh-tah-LOHN kah JAHL beech-HAH-yah, mah-HEER doctoron say muh-ree-ZOHN kah MOOFT ee-LAHJ kuhr-VAH-yah owr HUHR shyh-REE koh seh-huht-MUHND zeen-duh-GEE kee suh-hoo-lee-YAHT py-hoon-CHAH-yeen)",
+          "translation": "The state spread a network of hospitals [bichhaaya], had free treatment conducted by expert doctors [karwaaya], and delivered healthy living facilities [pehunchaayein]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع متعدی سمیکن: جلائے (متعدی) + لکھوائے/بنوائے (متعدی المتعدی) + دکھایا (بے قاعدہ) + پہنچائیں (ارگیٹو مطابقت)!"
+      ],
+      "culturalNotes": [
+        "اردو کے قومی قائدین اور خطیبوں کے بیانات میں تعمیری اقدامات کے تذکرے میں متعدی اور متعدی المتعدی کا یہ فصیح سمیکن ان کی تحریروں کو لازوال بناتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"علاج\":",
+          "prompt": "متعدی اور متعدی المتعدی افعال کے جامع امتزاج کا فصیح جملہ منتخب کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («بخار» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سر درد» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («آنکھیں» کی خرابی)"
+            "اس نے خود کتاب پڑھی، طلبہ کو پڑھائی اور ماہرین سے اس کی شرح لکھوائی (Masterful synthesis: parhi [transitive], parhaayi [1st caus], likhwaayi [2nd caus])",
+            "اس نے کتاب پڑھا تھا رویا تھا اور سو گیا (بے ربط ماضی)",
+            "وہ پڑھتا کرتا رہتا تھا (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«اس نے خود کتاب پڑھی، طلبہ کو پڑھائی اور ماہرین سے اس کی شرح لکھوائی» تینوں درجات کا کامل امتزاج ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"علاج\":",
+          "prompt": "متعدی افعال کا جامع سمیکن اردو بیانیے کو کیا خوبی عطا کرتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سر درد» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («آنکھیں» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بخار» کا غیر درست استعمال)"
+            "فاعل، مفعول اور واسطہ فاعل کے باہمی تعلق کو مکمل وضاحت اور ادبی روانی کے ساتھ بیان کرنا (Expressing relationships between subject, object, and intermediary agent with full clarity and flowing eloquence)",
+            "صرف جملے کو طویل کرنا",
+            "صرف لغت کو دہرانا",
+            "بے معنی بحث پیدا کرنا"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ افعال کے باہمی رشتوں اور واسطہ فاعل کے کردار کو فصاحت سے واضح کرتا ہے۔"
         }
       ]
     },
@@ -7387,17 +7436,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"علاج\": Which sentence is completely correct?",
+          "prompt": "متعدی اور متعدی المتعدی افعال کے جامع سمیکن (Causative Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («آنکھیں» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بخار» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سر درد» سے متعلق)"
+            "ہم نے قوم کو امید کا پیغام سنایا، نوجوانوں سے تاریخی عمارتیں بنوائیں، غریبوں کو کھانا کھلایا اور وطن کی عزت کا پرچم لہرایا۔ (We recited the message of hope [sunaaya], had historic buildings constructed by youth [banwaayein], fed the poor [khilaaya], and hoisted the flag [lehraaya].)",
+            "ہم نے عمارت دیکھا تھا اور گاڑی روتی تھی۔",
+            "جامع سمیکن صرف گرامر کی کتاب میں آتا ہے۔",
+            "متعدی افعال صرف اخبارات میں بولے جاتے ہیں۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہم نے قوم کو امید کا پیغام سنایا، نوجوانوں سے تاریخی عمارتیں بنوائیں، غریبوں کو کھانا کھلایا اور وطن کی عزت کا پرچم لہرایا۔» متعدی اور متعدی المتعدی افعال کے تمام پہلوؤں کا شاہکار سمیکن ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u18-l1": {
