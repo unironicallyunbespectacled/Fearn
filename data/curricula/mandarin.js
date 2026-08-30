@@ -6922,85 +6922,89 @@
     "subject": "mandarin",
     "unit": 12,
     "lessonNumber": 1,
-    "title": "兴趣爱好、体育与离合词 (Hobbies & Separable Verbs) (第1讲)",
+    "title": "文体娱乐与球类运动词汇（打篮球/踢足球/打羽毛球/游泳/跑步/滑冰/下棋） (Sports & Recreation Vocabulary)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：文娱体育词汇、离合动词（游泳/跑步/唱歌/跳舞/睡觉）的语法扩展与插入规则。 (第1部分)。",
+    "objective": "系统掌握现代汉语体育球类、冰雪运动及智力棋类专属动宾搭配（打/踢/滑/下/游/跑/骑），熟练运用「对......感兴趣/爱好」句型表达文体兴趣。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在现代汉语词汇系统中，各类体育运动、竞技项目与文体娱乐活动的动词选择具有严格的动作机制与器械专属搭配规律：\n\n一、核心动词与文体运动专属搭配体系：\n1. 动词「打」：专用于手部击打、拍击、挥拍操作的球类、棋牌竞技或传统武术套路：\n- 球类竞技：打篮球、打排球、打羽毛球、打乒乓球、打网球、打保龄球、打台球、打壁球。\n- 传统武术与棋牌娱乐：打太极拳、打少林拳、打麻将、打扑克牌。\n2. 动词「踢」：专用于足部踢击、奔跑传球的运动项目：\n- 踢足球、踢毽子、踢毽球。\n3. 动词「滑」：专用于冰雪环境或滚轮滑行运动：\n- 滑冰、溜冰、滑雪、滑板、滑旱冰、溜旱冰。\n4. 动词「下」：专用于智力棋类竞技活动：\n- 下围棋、下中国象棋、下国际象棋、下五子棋、下跳棋。\n5. 专项体能与位移动词「游、跑、爬、骑」：\n- 游泳（仰泳、蛙泳、自由泳、蝶泳）、跑步（晨跑、长跑、慢跑、短跑）、爬山（登山、徒步爬山）、骑自行车（骑单车、骑马）。\n\n二、表达文体兴趣与业余爱好的核心句式结构：\n1.「我的业余爱好是 + 动词短语」：例如「我的业余爱好是打羽毛球和下围棋」。\n2.「主语 + 对......有浓厚的兴趣 / 很感兴趣」：例如「我对中国传统武术太极拳有着极其浓厚的兴趣」。\n3. 连词框架「不是......就是......」：例如「周末他不是去打网球，就是去游泳馆游泳」。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的核心语法法则与应用范例 (12.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)' in simple terms to students at the academic seminar."
+          "target": "他的业余爱好非常广泛，每逢周末不是去体育馆打羽毛球，就是去足球场踢足球。(Tā de yèyú àihào fēicháng guǎngfàn, měi féng zhōumò búshì qù tǐyùguǎn dǎ yǔmáoqiú, jiùshì qù zúqiúchǎng tī zúqiú.)",
+          "reading": "[tʰa˥ tɤ jɛ˥˩.y˧˥ aɪ̯˥˩.xaʊ̯˥˩ feɪ̯˥.ʈ͡ʂʰɑŋ˧˥ kwaŋ˨˩.fan˥˩, meɪ̯˨˩ fɤŋ˧˥ ʈ͡ʂoʊ̯˥.mwɔ˥˩ pu˥.ʂɨ˥˩ t͡ɕʰy˥˩ tʰi˨˩.y˥˩.kwan˨˩˦ ta˨˩˦ y˨˩.maʊ̯˧˥.t͡ɕʰjoʊ̯˧˥, t͡ɕjoʊ̯˥˩.ʂɨ˥˩ t͡ɕʰy˥˩ t͡su˧˥.t͡ɕʰjoʊ̯˧˥.ʈ͡ʂʰɑŋ˨˩˦ tʰi˥ t͡su˧˥.t͡ɕʰjoʊ̯˧˥] (Tā de yè-yú ài-hào fēi-cháng guǎng-fàn, měi féng zhōu-mò bú-shì qù tǐ-yù-guǎn dǎ yǔ-máo-qiú, jiù-shì qù zú-qiú-chǎng tī zú-qiú.)",
+          "translation": "His amateur hobbies are extremely extensive; every weekend, if he is not going to the gym to play badminton, he is going to the soccer field to play soccer."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (12.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "我对中国传统国粹太极拳和下围棋有着极其浓厚的兴趣，每周都会抽空练习。(Wǒ duì Zhōngguó chuántǒng guócuì tàijíquán hé xià wéiqí yǒu zhe jíqí nónghòu de xìngqù, měi zhōu dōu huì chōukòng liànxí.)",
+          "reading": "[wɔ˨˩ tweɪ̯˥˩ ʈ͡ʂʊŋ˥.kwɔ˧˥ t͡ʂʰwan˧˥.tʰʊŋ˧˥ kwo˧˥.t͡sʰweɪ̯˥˩ tʰaɪ̯˥˩.t͡ɕi˧˥.t͡ɕʰyɛn˧˥ xɤ˧˥ ɕja˥˩ weɪ̯˧˥.t͡ɕʰi˧˥ joʊ̯˨˩˦ ʈ͡ʂɤ t͡ɕi˧˥.t͡ɕʰi˧˥ nʊŋ˧˥.xoʊ̯˥˩ tɤ ɕiŋ˥˩.t͡ɕʰy˥˩, meɪ̯˨˩ ʈ͡ʂoʊ̯˥ toʊ̯˥ xweɪ̯˥˩ t͡ʂʰoʊ̯˥.kʰʊŋ˥˩ ljɛn˥˩.ɕi˧˥] (Wǒ duì Zhōng-guó chuán-tǒng guó-cuì tài-jí-quán hé xià wéi-qí yǒu zhe jí-qí nóng-hòu de xìng-qù, měi zhōu dōu huì chōu-kòng liàn-xí.)",
+          "translation": "I have an extremely keen interest in traditional Chinese national quintessences Tai Chi and playing Go, taking time to practice every week."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (12.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "冬天来到北方城市哈尔滨，一定要体验在松花江冰面上滑冰和在亚布力滑雪的乐趣。(Dōngtiān lái dào běifāng chéngshì Hā'ěrbīn, yídìng yào tǐyàn zài Sōnghuājiāng bīngmiàn shang huábīng hé zài Yàbùlì huáxuě de lèqù.)",
+          "reading": "[tʊŋ˥.tʰjɛn˥ laɪ̯˧˥ taʊ̯˥˩ peɪ̯˨˩.fɑŋ˥ ʈ͡ʂʰəŋ˧˥.ʂɨ˥˩ xa˥.aɚ˨˩.pin˥, i˧˥.tiŋ˥˩ jaʊ̯˥˩ tʰi˨˩.jɛn˥˩ t͡saɪ̯˥˩ sʊŋ˥.xwa˥.t͡ɕjaŋ˥ piŋ˥.mjɛn˥˩ ʂɑŋ xwa˧˥.piŋ˥ xɤ˧˥ t͡saɪ̯˥˩ ja˥˩.pu˥˩.li˥˩ xwa˧˥.ɕɥɛ˨˩˦ tɤ lɤ˥˩.t͡ɕʰy˥˩] (Dōng-tiān lái dào běi-fāng chéng-shì Hā-ěr-bīn, yí-dìng yào tǐ-yàn zài Sōng-huā-jiāng bīng-miàn shang huá-bīng hé zài Yà-bù-lì huá-xuě de lè-qù.)",
+          "translation": "Coming to the northern city Harbin in winter, one must definitely experience the fun of ice skating on the frozen Songhua River and skiing in Yabuli."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (12.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "坚持每天早起晨跑半小时并按时游泳，不仅能够强身健体，还能有效缓解学业压力。(Jiānchí měitiān zǎoqǐ chénpǎo bàn xiǎoshí bìng ànshí yóuyǒng, bùjǐn nénggòu qiángshēn-jiàntǐ, hái néng yǒuxiào huǎnjiě xuéyè yālì.)",
+          "reading": "[t͡ɕjɛn˥.ʈ͡ʂʰɨ˧˥ meɪ̯˨˩.tʰjɛn˥ t͡saʊ̯˨˩.t͡ɕʰi˨˩˦ ʈ͡ʂʰən˧˥.pʰaʊ̯˨˩˦ pan˥˩ ɕjaʊ̯˨˩.ʂɨ˧˥ piŋ˥˩ an˥˩.ʂɨ˧˥ joʊ̯˧˥.jʊŋ˨˩˦, pu˥.t͡ɕin˨˩˦ nɤŋ˧˥.koʊ̯˥˩ t͡ɕʰjɑŋ˧˥.ʂən˥ t͡ɕjɛn˥˩.tʰi˨˩˦, xaɪ̯˧˥ nɤŋ˧˥ joʊ̯˨˩.ɕjaʊ̯˥˩ xwan˨˩.t͡ɕjɛ˨˩˦ ɕɥɛ˧˥.jɛ˥˩ ja˥.li˥˩] (Jiān-chí měi-tiān zǎo-qǐ chén-pǎo bàn xiǎo-shí bìng àn-shí yóu-yǒng, bù-jǐn néng-gòu qiáng-shēn-jiàn-tǐ, hái néng yǒu-xiào huǎn-jiě xué-yè yā-lì.)",
+          "translation": "Persisting in morning jogging for half an hour every day and swimming on schedule can not only strengthen the physique, but also effectively relieve academic stress."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "手打篮排羽乒网，脚踢足球毽子扬；冰雪滑行棋类下，文体爱好身体强！"
+      ],
+      "culturalNotes": [
+        "乒乓球是中国风靡全国的「国球」，羽毛球、太极拳和围棋也深受各年龄层喜爱。在中国公园和校园里，晨练打太极、傍晚球场竞技是极具活力的社会文化景观。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」（第1讲）的标准汉语规范？",
+          "prompt": "在汉语中，与「足球」搭配的专属运动动作动词是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的核心语法法则与应用范例 (12.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (12.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (12.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (12.1.w3)"
+            "踢 (tī - to kick/play soccer)",
+            "打",
+            "下",
+            "滑"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "足球是用脚踢的运动，固定动词搭配为「踢足球」。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在汉语中，与「围棋 / 象棋」等智力棋类搭配的专属动词是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "下 (xià - to play chess/Go)",
+            "踢",
+            "滑",
+            "游"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "棋类活动在汉语中固定搭配动词「下」（下围棋、下象棋）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的正式语境下，最准确得体的表达是哪一项？（第12.1题）",
+          "prompt": "下列哪一组体育运动与动词的搭配完全正确无误？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (12.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (12.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (12.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (12.1.x3)"
+            "打篮球、踢足球、滑雪、下象棋 (All verb-noun pairings strictly standard)",
+            "踢篮球、打足球、下滑雪、滑象棋",
+            "下篮球、滑足球、打滑雪、踢象棋",
+            "游篮球、跑足球、骑滑雪、爬象棋"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "打篮球（手）、踢足球（脚）、滑雪（滑行）、下象棋（棋类），搭配精准无误。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u12-l1）所要求的高阶语言表达？",
+          "prompt": "表达对某项运动产生浓厚兴趣的规范介词短语框架是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (12.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (12.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (12.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (12.1.y3)"
+            "我对打羽毛球很感兴趣。(A + 对 + B + 感兴趣)",
+            "我从打羽毛球很感兴趣。",
+            "我向打羽毛球很感兴趣。",
+            "我在打羽毛球很感兴趣。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "表达兴趣对象必须使用介词「对」（对......感兴趣）。"
         }
       ]
     },
@@ -7008,25 +7012,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的掌握程度，请选出表述完全正确的标准范句（测试 12-1）：",
+          "prompt": "请选出下列文体爱好描述中动宾搭配完全符合规范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (12.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (12.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (12.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (12.1.z3)"
+            "哥哥每逢周末喜欢去公园打太极拳，弟弟则喜欢在球场上踢足球和打网球，他们都对体育运动充满热情。(太极拳配打，足球配踢，网球配打，严密规范)",
+            "哥哥喜欢踢太极拳，弟弟喜欢下足球和滑网球。(动词严重张冠李戴)",
+            "哥哥下太极拳，弟弟打足球在滑网球。(动宾搭配彻底荒谬)",
+            "哥哥滑太极拳，弟弟游足球。(完全语无伦次)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "打太极拳、踢足球、打网球动词搭配完全符合现代汉语词法规范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u12-l1）的核心关键词（例如「兴趣爱好」）：",
+          "prompt": "请输入表达在水中浮行前进的体育运动核心双字离合动词（拼音为 yóuyǒng）：",
           "acceptedAnswers": [
-            "兴趣爱好",
-            "兴趣爱好、体",
-            "兴趣爱好、体育与离合词"
+            "游泳"
           ],
-          "explanation": "正确的核心关键词为「兴趣爱好」。"
+          "explanation": "词语「游泳」是现代汉语中指称水上游泳运动的核心离合词。"
         }
       ],
       "passThreshold": 0.8
@@ -7037,85 +7039,89 @@
     "subject": "mandarin",
     "unit": 12,
     "lessonNumber": 2,
-    "title": "兴趣爱好、体育与离合词 (Hobbies & Separable Verbs) (第2讲)",
+    "title": "离合词内部构造与核心语法禁忌（动宾结构、不能直接带宾语铁律） (Separable Verbs Structure & Grammatical Constraints)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：文娱体育词汇、离合动词（游泳/跑步/唱歌/跳舞/睡觉）的语法扩展与插入规则。 (第2部分)。",
+    "objective": "深刻理解离合词（VO复合结构）的本质，掌握「不能直接带宾语（须用介词引出对象）」与「动词重叠式为AAB型（非ABAB型）」两大铁律。",
     "presentation": {
-      "explanation": "",
+      "explanation": "离合词是现代汉语语法系统中极具民族特色、且在二语习得中极易产生母语负迁移的核心难点：\n\n一、离合词的本质属性与结构特征：\n- 离合词在表层形式上呈现为一个双音节词，但其深层内部构造是由一个及物动词语素与一个名词性宾语语素紧密复合而成。常见核心离合词包括：游泳、跑步、唱歌、跳舞、睡觉、见面、帮忙、结婚、毕业、请假、生气、洗澡、散步、聊天、考试、排队。\n\n二、离合词核心语法禁忌之一：绝对不能直接带外部客体宾语！\n- 句法机理：因为离合词内部已经包含了名词性宾语成分，所以在句法投射中绝不允许在词尾直接再附加外部受事宾语。\n1. 病句：他明天见面王老师。改正：他明天跟王老师见面（使用介词跟引出交际对象）。\n2. 病句：大卫结婚了玛丽。改正：大卫跟玛丽结婚了（使用介词跟引出婚姻对象）。\n3. 病句：请你帮忙我解决困难。改正：请你帮我的忙 / 请你帮助我解决困难。\n4. 病句：老师非常生气他迟到。改正：老师生他的气 / 老师对他迟到很生气。\n\n三、离合词核心语法禁忌之二：动词重叠必须遵循前字单音节重叠之规律！\n- 句法机理：离合词重叠时，只能重叠前部的动词性语素，后部的名词性宾语语素保持单音节不变，构成规范的重叠式，表示动作时间短暂、尝试性或语气轻松亲切：\n- 游游泳（表示游一会儿水，绝非双音节完全重叠）。\n- 散散步（表示悠闲散步，绝非完全重叠）。\n- 聊聊天（表示轻松交谈，绝非完全重叠）。\n- 唱唱歌、跳跳舞、睡睡觉、洗洗澡、见见面。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的核心语法法则与应用范例 (12.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)' in simple terms to students at the academic seminar."
+          "target": "明天下午两点我打算在图书馆门口跟王教授见面，当面请教论文开题报告。(Míngtiān xiàwǔ liǎng diǎn wǒ dǎsuàn zài túshūguǎn ménkǒu gēn Wáng jiàoshòu jiànmiàn, dāngmiàn qǐngjiào lùnwén kāití bàogào.)",
+          "reading": "[miŋ˧˥.tʰjɛn˥ ɕja˥˩.u˨˩˦ ljaŋ˨˩˦ tjɛn˨˩˦ wɔ˨˩ ta˨˩.swan t͡saɪ̯˥˩ tʰu˧˥.ʂu˥.kwan˨˩˦ mən˧˥.kʰoʊ̯˨˩˦ kən˥ wɑŋ˧˥ t͡ɕjaʊ̯˥˩.ʂoʊ̯˥˩ t͡ɕjɛn˥˩.mjɛn˥˩, tɑŋ˥.mjɛn˥˩ t͡ɕʰiŋ˨˩˦.t͡ɕjaʊ̯˥˩ lwen˥˩.wən˧˥ kʰaɪ̯˥.tʰi˧˥ paʊ̯˥˩.kaʊ̯˥˩] (Míng-tiān xià-wǔ liǎng diǎn wǒ dǎ-suan zài tú-shū-guǎn mén-kǒu gēn Wáng jiào-shòu jiàn-miàn, dāng-miàn qǐng-jiào lùn-wén kāi-tí bào-gào.)",
+          "translation": "At two o'clock tomorrow afternoon, I plan to meet with Professor Wang at the library entrance to consult in person on the thesis proposal report."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (12.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "晚饭后我们一家人喜欢沿着湖边散散步、聊聊天，享受温馨惬意的家庭时光。(Wǎnfàn hòu wǒmen yì jiā rén xǐhuan yánzhe húbiān sànsan bù, liáoliao tiān, xiǎngshòu wēnxīn qièyì de jiātíng shíguāng.)",
+          "reading": "[wan˨˩˦.fan˥˩ xoʊ̯˥˩ wɔ˨˩.mən i˥ t͡ɕja˥ ʐən˧˥ ɕi˨˩.xwan jan˧˥.ʈ͡ʂɤ xu˧˥.pjɛn˥ san˥˩.san pu˥˩, ljaʊ̯˧˥.ljaʊ̯ tʰjɛn˥, ɕjaŋ˨˩˦.ʂoʊ̯˥˩ wən˥.ɕin˥ t͡ɕʰjɛ˥˩.i˥˩ tɤ t͡ɕja˥.tʰiŋ˧˥ ʂɨ˧˥.kwɑŋ˥] (Wǎn-fàn hòu wǒ-men yì jiā rén xǐ-huan yán-zhe hú-biān sàn-san bù, liáo-liao tiān, xiǎng-shòu wēn-xīn qiè-yì de jiā-tíng shí-guāng.)",
+          "translation": "After dinner, our family likes to take a walk and chat along the lakeside, enjoying warm and pleasant family time."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (12.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "如果你在学习或生活上遇到了困难，随时可以来找我，我一定会尽全力帮你的忙。(Rúguǒ nǐ zài xuéxí huò shēnghuó shang yùdào le kùnnan, suíshí kěyǐ lái zhǎo wǒ, wǒ yídìng huì jìn quánlì bāng nǐ de máng.)",
+          "reading": "[ʐu˧˥.kwo˨˩˦ ni˨˩˦ t͡saɪ̯˥˩ ɕɥɛ˧˥.ɕi˧˥ xwo˥˩ ʂəŋ˥.xwo˧˥ ʂɑŋ jy˥˩.taʊ̯˥˩ lɤ kʰwən˥˩.nan, sweɪ̯˧˥.ʂɨ˧˥ kʰɤ˨˩.i˨˩˦ laɪ̯˧˥ ʈ͡ʂaʊ̯˨˩˦ wɔ˨˩, wɔ˨˩ i˧˥.tiŋ˥˩ xweɪ̯˥˩ t͡ɕin˥˩ t͡ɕʰyɛn˧˥.li˥˩ pɑŋ˥ ni˨˩˦ tɤ mɑŋ˧˥] (Rú-guǒ nǐ zài xué-xí huò shēng-huó shang yù-dào le kùn-nan, suí-shí kě-yǐ lái zhǎo wǒ, wǒ yí-dìng huì jìn quán-lì bāng nǐ de máng.)",
+          "translation": "If you encounter difficulties in study or life, you can come to find me at any time; I will definitely do my best to help you."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (12.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "周末空闲的时候，我喜欢在宿舍里听听音乐、唱唱歌，让疲惫的身心得到彻底放松。(Zhōumò kòngxián de shíhou, wǒ xǐhuan zài sùshè lǐ tīngting yīnyuè, chàngchang gē, ràng píbèi de shēnxīn dédào chèdǐ fàngsōng.)",
+          "reading": "[ʈ͡ʂoʊ̯˥.mwɔ˥˩ kʰʊŋ˥˩.ɕjɛn˧˥ tɤ ʂɨ˧˥.xoʊ̯, wɔ˨˩ ɕi˨˩.xwan t͡saɪ̯˥˩ su˥˩.ʂɤ˥˩ li˨˩˦ tʰiŋ˥.tʰiŋ in˥.jɥɛ˥˩, t͡ʂʰɑŋ˥˩.t͡ʂʰɑŋ kɤ˥, ʐɑŋ˥˩ pʰi˧˥.peɪ̯˥˩ tɤ ʂən˥.ɕin˥ tɤ˧˥.taʊ̯˥˩ t͡ʂʰɤ˥˩.ti˨˩˦ fɑŋ˥˩.sʊŋ˥] (Zhōu-mò kòng-xián de shí-hou, wǒ xǐ-huan zài sù-shè lǐ tīng-ting yīn-yuè, chàng-chang gē, ràng pí-bèi de shēn-xīn dé-dào chè-dǐ fàng-sōng.)",
+          "translation": "When free on weekends, I like to listen to music and sing songs in the dorm, letting my weary body and mind relax thoroughly."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "离合动宾紧相连，后面绝不带客宾；重叠必须AAB，游游泳来散散步！"
+      ],
+      "culturalNotes": [
+        "离合词反映了汉民族语言心理中对「动宾一体」的直觉感知。在日常社交中，说「我们去散散步、聊聊天」自带一种悠闲、亲切的东方生活情调。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」（第2讲）的标准汉语规范？",
+          "prompt": "要表达「我想和他见一面」，符合离合词「见面」语法规范的正确句子是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的核心语法法则与应用范例 (12.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (12.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (12.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (12.2.w3)"
+            "我想跟他见面。(使用介词「跟」引出对象，绝不直接带宾语)",
+            "我想见面他。(严重语法病句)",
+            "我想见面跟他。",
+            "我想见他面在明天。"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "离合词「见面」不能直接带宾语，必须用介词「跟/和/同」引出交际对象（跟他见面）。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "离合词「跳舞」的动词重叠形式，完全符合规范的是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "跳跳舞 (AAB型重叠，表示轻松短暂尝试)",
+            "跳舞跳舞 (错误ABAB式)",
+            "跳舞舞",
+            "跳舞跳"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "离合词动词重叠铁律为 AAB 式（跳跳舞、游游泳、散散步）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的正式语境下，最准确得体的表达是哪一项？（第12.2题）",
+          "prompt": "在句子「请你一定要帮______，我遇到了急事」中，正确的离合词离析表达是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (12.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (12.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (12.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (12.2.x3)"
+            "我的忙 (帮 + 领属定语 + 忙)",
+            "忙我",
+            "帮忙我",
+            "我帮忙"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「帮忙」是离合词，不能说「帮忙我」，正确形式为「帮我的忙」或使用动词「帮助我」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u12-l2）所要求的高阶语言表达？",
+          "prompt": "下列哪一项离合词的重叠形式完全符合现代汉语语法铁律？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (12.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (12.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (12.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (12.2.y3)"
+            "散散步、聊聊天、洗洗澡 (All strict AAB reduplication)",
+            "散步散步、聊天聊天、洗澡洗澡",
+            "散步步、聊天天、洗澡澡",
+            "散步散、聊天聊、洗澡洗"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "离合词重叠必须重叠前面的动词语素，构成 AAB 形式。"
         }
       ]
     },
@@ -7123,25 +7129,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的掌握程度，请选出表述完全正确的标准范句（测试 12-2）：",
+          "prompt": "请选出下列句子中离合词用法与句式结构完全正确的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (12.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (12.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (12.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (12.2.z3)"
+            "下班以后，张老师喜欢跟老朋友在公园里下下棋、聊聊天，生活过得十分充实。(介词引出对象，AAB重叠完全精准规范)",
+            "下班以后，张老师喜欢下棋老朋友在公园，聊天聊天。(带宾语且重叠错误)",
+            "张老师结婚了李老师，并帮忙了他很多。(直接带宾语严重病句)",
+            "张老师见面老朋友，生气了他。(语病极度严重)",
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「跟老朋友下下棋、聊聊天」介词引出对象且使用AAB重叠，堪称离合词语法的典范示范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u12-l2）的核心关键词（例如「兴趣爱好」）：",
+          "prompt": "请输入离合词「散步」在表示轻松短暂动作时的三字 AAB 重叠形式（拼音为 sànsanbù）：",
           "acceptedAnswers": [
-            "兴趣爱好",
-            "兴趣爱好、体",
-            "兴趣爱好、体育与离合词"
+            "散散步"
           ],
-          "explanation": "正确的核心关键词为「兴趣爱好」。"
+          "explanation": "离合词「散步」的正确 AAB 重叠形式为「散散步」。"
         }
       ],
       "passThreshold": 0.8
@@ -7152,85 +7156,89 @@
     "subject": "mandarin",
     "unit": 12,
     "lessonNumber": 3,
-    "title": "兴趣爱好、体育与离合词 (Hobbies & Separable Verbs) (第3讲)",
+    "title": "离合词的离析插入形态（插入时量补语、动量补语、助词与定语） (Separable Verbs Splitting: Complements, Particles & Attributes)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：文娱体育词汇、离合动词（游泳/跑步/唱歌/跳舞/睡觉）的语法扩展与插入规则。 (第3部分)。",
+    "objective": "系统掌握离合词在动词与宾语之间的灵活离析规律：熟练插入时量补语（睡了八个小时觉）、动量补语（见了一面）、动态助词（了/过/着）及修饰定语（帮一个大忙）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "现代汉语离合词最显著的句法特征在于其既可合成为一个双音节整词，更可在句法表达需要时离析拆开，在动词性语素与名词性宾语语素之间自由插入各类修饰与补充成分：\n\n一、离合词中间插入四大核心句法语义成分：\n1. 插入时量补语（表示动作持续的时间长度）：\n- 句法框架：动词语素 + 动态助词「了」 + 时量词组 + 结构助词「的」 + 名词语素。\n- 范例说明：睡了整整八个小时的安稳觉、在操场跑了四十分钟的步、在泳池游了半个小时的泳、在茶馆聊了一上午的天、向学校请了三天的病假。\n2. 插入动量补语（表示动作进行的具体次数或频次量）：\n- 句法框架：动词语素 + 动态助词「了」 + 动量词组 + 名词语素。\n- 范例说明：在学术会议上跟他见了一面、回到宿舍痛痛快快洗了两次热水澡、在比赛中游了三趟泳、当面向老师道了一声歉。\n3. 插入动态助词（表示动作的时态体态特征）：\n- 句法机理：动态助词必须紧贴前部的动词性语素，绝不能置于全词之后。\n- 范例说明：他游了泳就去吃饭（完成体）、他以前游过泳（经历体）、他正唱着歌走过来（进行伴随）。\n4. 插入各类领属定语、数量定语或修饰性形容词定语：\n- 范例说明：在关键时刻帮了我一个大忙、昨天夜里睡了一个好觉、在办公室发了一场大脾气、一个人坐在角落生了半天气。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的核心语法法则与应用范例 (12.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)' in simple terms to students at the academic seminar."
+          "target": "昨天夜里我一口气睡了整整八个小时的安稳觉，今天早晨感觉神清气爽、精力充沛。(Zuótiān yèlǐ wǒ yìkǒuqì shuì le zhěngzhěng bā ge xiǎoshí de ānwěn jiào, jīntiān zǎochén gǎnjué shénqīng-qìshuǎng, jīnglì chōngpèi.)",
+          "reading": "[t͡swɔ˧˥.tʰjɛn˥ jɛ˥˩.li wɔ˨˩ i˥.kʰoʊ̯˨˩.t͡ɕʰi˥˩ ʂweɪ̯˥˩ lɤ ʈ͡ʂɤŋ˨˩.ʈ͡ʂɤŋ˨˩˦ pa˥ kɤ ɕjaʊ̯˨˩.ʂɨ˧˥ tɤ an˥.wən˨˩˦ t͡ɕjaʊ̯˥˩, t͡ɕin˥.tʰjɛn˥ t͡saʊ̯˨˩˦.ʈ͡ʂʰən kan˨˩.t͡ɕɥɛ˧˥ ʂən˧˥.t͡ɕʰiŋ˥.t͡ɕʰi˥˩.ʂwaŋ˨˩˦, t͡ɕiŋ˥.li˥˩ ʈ͡ʂʰʊŋ˥.pʰeɪ̯˥˩] (Zuó-tiān yè-lǐ wǒ yì-kǒu-qì shuì le zhěng-zhěng bā ge xiǎo-shí de ān-wěn jiào, jīn-tiān zǎo-chén gǎn-jué shén-qīng-qì-shuǎng, jīng-lì chōng-pèi.)",
+          "translation": "Last night I slept a sound sleep for a full eight hours in one breath; this morning I feel refreshed and energetic."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (12.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "每天下午放学后，李强都会去学校田径场跑四十分钟的步，风雨无阻。(Měitiān xiàwǔ fàngxué hòu, Lǐ Qiáng dōu huì qù xuéxiào tiánjìngchǎng pǎo sìshí fēnzhōng de bù, fēngyǔ-wúzǔ.)",
+          "reading": "[meɪ̯˨˩.tʰjɛn˥ ɕja˥˩.u˨˩˦ fɑŋ˥˩.ɕɥɛ˧˥ xoʊ̯˥˩, li˨˩˦ t͡ɕʰjɑŋ˧˥ toʊ̯˥ xweɪ̯˥˩ t͡ɕʰy˥˩ ɕɥɛ˧˥.ɕjaʊ̯˥˩ tʰjan˧˥.t͡ɕiŋ˥˩.ʈ͡ʂʰɑŋ˨˩˦ pʰaʊ̯˨˩˦ sɨ˥˩.ʂɨ˧˥ fən˥.ʈ͡ʂʊŋ˥ tɤ pu˥˩, fɤŋ˥.y˨˩.u˧˥.t͡su˨˩˦] (Měi-tiān xià-wǔ fàng-xué hòu, Lǐ Qiáng dōu huì qù xué-xiào tián-jìng-chǎng pǎo sì-shí fēn-zhōng de bù, fēng-yǔ-wú-zǔ.)",
+          "translation": "Every afternoon after school, Li Qiang goes to the school track field to jog for forty minutes, rain or shine."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (12.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "多亏你在关键时刻帮了我一个大忙，我才能在截止日期前顺利提交申报材料。(Duōkuī nǐ zài guānjiàn shíkè bāng le wǒ yí ge dà máng, wǒ cái néng zài jiézhǐ rìqī qián shùnlì tíjiāo shēnbào cáiliào.)",
+          "reading": "[twɔ˥.kʰweɪ̯˥ ni˨˩˦ t͡saɪ̯˥˩ kwan˥.t͡ɕjɛn˥˩ ʂɨ˧˥.kʰɤ˥˩ pɑŋ˥ lɤ wɔ˨˩ i˥ kɤ ta˥˩ mɑŋ˧˥, wɔ˨˩ t͡sʰaɪ̯˧˥ nɤŋ˧˥ t͡saɪ̯˥˩ t͡ɕjɛ˧˥.ʈ͡ʂɨ˨˩˦ ʐɨ˥˩.t͡ɕʰi˥ t͡ɕʰjɛn˧˥ ʂwən˥˩.li˥˩ tʰi˧˥.t͡ɕjaʊ̯˥ ʂən˥.paʊ̯˥ t͡sʰaɪ̯˧˥.ljaʊ̯˥˩] (Duō-kuī nǐ zài guān-jiàn shí-kè bāng le wǒ yí ge dà máng, wǒ cái néng zài jié-zhǐ rì-qī qián shùn-lì tí-jiāo shēn-bào cái-liào.)",
+          "translation": "Thanks to you helping me a huge favor at the critical moment, I was able to successfully submit the application materials before the deadline."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (12.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "上周末我和老同学在西湖边喝茶聊天，一口气聊了三个多小时，感到格外亲切开心。(Shàng zhōumò wǒ hé lǎo tóngxué zài Xīhú biān hēchá liáotiān, yìkǒuqì liáo le sān ge duō xiǎoshí, gǎndào géwài qīnqiè kāixīn.)",
+          "reading": "[ʂɑŋ˥˩ ʈ͡ʂoʊ̯˥.mwɔ˥˩ wɔ˨˩ xɤ˧˥ laʊ̯˨˩˦ tʰʊŋ˧˥.ɕɥɛ˧˥ t͡saɪ̯˥˩ ɕi˥.xu˧˥ pjɛn˥ xɤ˥.ʈ͡ʂʰa˧˥ ljaʊ̯˧˥.tʰjɛn˥, i˥.kʰoʊ̯˨˩.t͡ɕʰi˥˩ ljaʊ̯˧˥ lɤ san˥ kɤ twɔ˥ ɕjaʊ̯˨˩.ʂɨ˧˥, kan˨˩.taʊ̯˥˩ kɤ˧˥.waɪ̯˥˩ t͡ɕʰin˥.t͡ɕʰjɛ˥˩ kʰaɪ̯˥.ɕin˥] (Shàng zhōu-mò wǒ hé lǎo tóng-xué zài Xī-hú biān hē-chá liáo-tiān, yì-kǒu-qì liáo le sān ge duō xiǎo-shí, gǎn-dào gé-wài qīn-qiè kāi-xīn.)",
+          "translation": "Last weekend my old classmate and I drank tea and chatted by the West Lake, chatting for over three hours in one stretch, feeling extraordinarily close and happy."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "离合拆开填乾坤，时量动量中间存；动态了过随动走，好觉大忙妙入神！"
+      ],
+      "culturalNotes": [
+        "离合词的离析表达体现了汉语口语的高级韵律感。熟练说出「帮了我一个大忙」、「睡了一个好觉」，能让母语者立刻感受到说话人极为纯正地道的汉语语感。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」（第3讲）的标准汉语规范？",
+          "prompt": "表达「跑步持续了三十分钟」，符合离合词时量补语插入规则的正确句子是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的核心语法法则与应用范例 (12.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (12.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (12.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (12.3.w3)"
+            "他跑了三十分钟的步。(跑 + 了 + 时量补语 + 的 + 步)",
+            "他跑步了三十分钟的。",
+            "他三十分钟跑步了。",
+            "他跑了步三十分钟。"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "时量补语应插入离合词中间：跑 + 了 + 三十分钟 + (的) + 步。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "表达「对方帮了自己很大一个忙」，正确的离析句式是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "你帮了我一个大忙。(帮 + 了 + 我一个大 + 忙)",
+            "你帮忙了我一个大。",
+            "你一个大帮忙了我。",
+            "你帮我忙了一个大。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "定语「我一个大」插入离合词动词与宾语之间：帮了我一个大忙。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的正式语境下，最准确得体的表达是哪一项？（第12.3题）",
+          "prompt": "在句子「昨天晚上太累了，我一口气______」中，表达睡眠持续时间应填入：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (12.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (12.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (12.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (12.3.x3)"
+            "睡了九个小时的觉 (Standard complement insertion)",
+            "睡觉了九个小时的",
+            "九个小时睡觉了",
+            "睡了觉九个小时"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「睡觉」中间插入时量补语「九个小时的」，构成「睡了九个小时的觉」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u12-l3）所要求的高阶语言表达？",
+          "prompt": "下列哪一项离合词插入动态助词「过」的形式完全正确？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (12.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (12.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (12.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (12.3.y3)"
+            "游过泳、洗过澡、离过婚 (Particle '过' immediately follows verb root)",
+            "游泳过、洗澡过、结婚过",
+            "过游泳、过洗澡、过结婚",
+            "游过泳过、洗过澡过"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "动态助词「过」必须紧贴离合词前面的动词语素（游过泳、洗过澡）。"
         }
       ]
     },
@@ -7238,25 +7246,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的掌握程度，请选出表述完全正确的标准范句（测试 12-3）：",
+          "prompt": "请选出下列句子中离合词离析形态、时量补语与定语插入完全典范严谨的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (12.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (12.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (12.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (12.3.z3)"
+            "小王向公司请了三天病假，在家里好好睡了一个大觉，身体终于完全康复了。(请了三天假、睡了一个觉，插入形态精准自然)",
+            "小王向公司请假了三天病，睡觉了一个大觉。(语序错乱)",
+            "小王三天请假了病，大觉睡了一个。(结构完全混乱)",
+            "小王请假三天在家里，睡了觉一个大。(语法破碎)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「请了三天病假」与「睡了一个大觉」完美体现了离合词离析插入的精髓。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u12-l3）的核心关键词（例如「兴趣爱好」）：",
+          "prompt": "请输入表达向单位或学校申请暂离休假的核心三字离析词语短语（例如请三天假，拼音为 qǐngjià）：",
           "acceptedAnswers": [
-            "兴趣爱好",
-            "兴趣爱好、体",
-            "兴趣爱好、体育与离合词"
+            "请假"
           ],
-          "explanation": "正确的核心关键词为「兴趣爱好」。"
+          "explanation": "词语「请假」是现代汉语中表达请求休假的核心离合词。"
         }
       ],
       "passThreshold": 0.8
@@ -7267,85 +7273,89 @@
     "subject": "mandarin",
     "unit": 12,
     "lessonNumber": 4,
-    "title": "兴趣爱好、体育与离合词 (Hobbies & Separable Verbs) (第4讲)",
+    "title": "文体才艺与课外生活拓展（弹吉他/拉小提琴/画中国画/练书法/拍照片/健身） (Artistic Talents & Extracurricular Life)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：文娱体育词汇、离合动词（游泳/跑步/唱歌/跳舞/睡觉）的语法扩展与插入规则。 (第4部分)。",
+    "objective": "熟练掌握中西乐器演奏（弹/拉/吹）、传统书画艺术（画国画/练书法）及现代课外文体活动（摄影/健身）专属动词搭配与频率副词运用。",
     "presentation": {
-      "explanation": "",
+      "explanation": "课外文体才艺、传统艺术修养与现代休闲生活是丰富校园生活、增进跨文化友谊的高阶表达载体：\n\n一、中西乐器演奏专属动词分类体系：\n1. 动词「弹」：专用于手指拨弦或键盘按键演奏的乐器：\n- 弹钢琴、弹吉他、弹古筝、弹琵琶、弹电吉他、弹尤克里里、弹手风琴键。\n2. 动词「拉」：专用于弓弦拉奏产生共鸣的乐器：\n- 拉小提琴、拉大提琴、拉中提琴、拉二胡、拉京胡、拉板胡、拉手风琴风箱。\n3. 动词「吹」：专用于管乐气流吹奏发声的乐器：\n- 吹笛子、吹洞箫、吹萨克斯管、吹小号、吹黑管、吹长笛、吹口琴、吹唢呐。\n\n二、传统高雅艺术与现代都市休闲文体词汇：\n1. 中华传统高雅艺术：\n- 练书法、练习写毛笔字、临摹字帖、画中国画、画水墨国画、下围棋、练习剪纸、品茶道。\n2. 现代青年都市休闲文娱：\n- 去健身房健身锻炼、拍照片、搞摄影创作、看经典话剧、跳现代街舞、看音乐剧。\n\n三、频率副词与时间序列逻辑链条：\n- 频率层次：经常/常常（高频） -> 有时候/偶尔（中频） -> 很少（低频） -> 从来不/从不（零频）。\n- 篇章范例：平时我经常在宿舍弹吉他练书法，周末偶尔和留学生朋友去健身房健身。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的核心语法法则与应用范例 (12.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)' in simple terms to students at the academic seminar."
+          "target": "玛丽从小学习西洋乐器，不仅会拉小提琴，而且还能熟练地弹奏古典钢琴名曲。(Mǎlì cóngxiǎo xuéxí xīyáng yuèqì, bùjǐn huì lā xiǎotíqín, érqiě hái néng shúliàn de tánzòu gǔdiǎn gāngqín míngqǔ.)",
+          "reading": "[ma˨˩.li˥˩ t͡sʰʊŋ˨˩.ɕjaʊ̯˨˩˦ ɕɥɛ˧˥.ɕi˧˥ ɕi˥.jɑŋ˧˥ jɥɛ˥˩.t͡ɕʰi˥˩, pu˥.t͡ɕin˨˩˦ xweɪ̯˥˩ la˥ ɕjaʊ̯˨˩.tʰi˧˥.t͡ɕʰin˧˥, aɚ˥˩.t͡ɕʰjɛ˨˩˦ xaɪ̯˧˥ nɤŋ˧˥ ʂu˧˥.ljɛn˥˩ tɤ tʰan˧˥.t͡swoʊ̯˥˩ ku˨˩.tjɛn˨˩˦ kɑŋ˥.t͡ɕʰin˧˥ miŋ˧˥.t͡ɕʰy˨˩˦] (Mǎ-lì cóng-xiǎo xué-xí xī-yáng yuè-qì, bù-jǐn huì lā xiǎo-tí-qín, ér-qiě hái néng shú-liàn de tán-zòu gǔ-diǎn gāng-qín míng-qǔ.)",
+          "translation": "Mary has studied Western musical instruments since childhood; she not only can play the violin, but can also skillfully play classical piano masterpieces."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (12.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "来到中国以后，大卫对东方书法艺术产生了浓厚兴趣，每周都坚持练习写毛笔字。(Lái dào Zhōngguó yǐhòu, Dàwèi duì dōngfāng shūfǎ yìshù chǎnshēng le nónghòu xìngqù, měi zhōu dōu jiānchí liànxí xiě máobǐzì.)",
+          "reading": "[laɪ̯˧˥ taʊ̯˥˩ ʈ͡ʂʊŋ˥.kwɔ˧˥ i˨˩.xoʊ̯˥˩, ta˥˩.weɪ̯˥˩ tweɪ̯˥˩ tʊŋ˥.fɑŋ˥ ʂu˥.fa˨˩˦ i˥˩.ʂu˥˩ t͡ʂʰan˨˩.ʂəŋ˥ lɤ nʊŋ˧˥.xoʊ̯˥˩ ɕiŋ˥˩.t͡ɕʰy˥˩, meɪ̯˨˩ ʈ͡ʂoʊ̯˥ toʊ̯˥ t͡ɕjɛn˥.ʈ͡ʂʰɨ˧˥ ljɛn˥˩.ɕi˧˥ ɕjɛ˨˩˦ maʊ̯˧˥.pi˨˩.t͡sɨ˥˩] (Lái dào Zhōng-guó yǐ-hòu, Dà-wèi duì dōng-fāng shū-fǎ yì-shù chǎn-shēng le nóng-hòu xìng-qù, měi zhōu dōu jiān-chí liàn-xí xiě máo-bǐ-zì.)",
+          "translation": "After coming to China, David developed a keen interest in Eastern calligraphic art, persisting in practicing writing with a brush every week."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (12.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "他是一名资深摄影爱好者，周末经常背着单反相机去北京的老胡同里拍摄人文照片。(Tā shì yì míng zīshēn shèyǐng àihàozhě, zhōumò jīngcháng bēizhe dānfǎn xiàngjī qù Běijīng de lǎo hútòng lǐ pāishè rénwén zhàopiàn.)",
+          "reading": "[tʰa˥ ʂɨ˥˩ i˥˩ miŋ˧˥ t͡sɨ˥.ʂən˥ ʂɤ˥˩.iŋ˨˩˦ aɪ̯˥˩.xaʊ̯˥˩.ʈ͡ʂɤ˨˩˦, ʈ͡ʂoʊ̯˥.mwɔ˥˩ t͡ɕiŋ˥.ʈ͡ʂʰɑŋ˧˥ peɪ̯˥.ʈ͡ʂɤ tan˥.fan˨˩˦ ɕjaŋ˥˩.t͡ɕi˥ t͡ɕʰy˥˩ peɪ̯˨˩.t͡ɕiŋ˥ tɤ laʊ̯˨˩˦ xu˧˥.tʰʊŋ˥˩ li˨˩˦ pʰaɪ̯˥.ʂɤ˥˩ ʐən˧˥.wən˧˥ ʈ͡ʂaʊ̯˥˩.pʰjɛn˥˩] (Tā shì yì míng zī-shēn shè-yǐng ài-hào-zhě, zhōu-mò jīng-cháng bēi zhe dān-fǎn xiàng-jī qù Běi-jīng de lǎo hú-tòng lǐ pāi-shè rén-wén zhào-piàn.)",
+          "translation": "He is a veteran photography enthusiast who often carries an SLR camera to old Beijing hutongs on weekends to shoot humanistic photos."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (12.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "为了保持良好的体魄和饱满的精力，很多年轻人每天下班后都会去健身房锻炼一个小时。(Wèi le bǎochí liánghǎo de tǐpò hé bǎomǎn de jīnglì, hěnduō qīngniánrén měitiān xiàbān hòu dōu huì qù jiànshēnfáng duànliàn yí ge xiǎoshí.)",
+          "reading": "[weɪ̯˥˩ lɤ paʊ̯˨˩.ʈ͡ʂʰɨ˧˥ ljaŋ˧˥.xaʊ̯˨˩˦ tɤ tʰi˨˩.pʰwɔ˥˩ xɤ˧˥ paʊ̯˨˩.man˨˩˦ tɤ t͡ɕiŋ˥.li˥˩, xən˨˩.two˥ t͡ɕʰiŋ˥.njɛn˧˥.ʐən˧˥ meɪ̯˨˩.tʰjɛn˥ ɕja˥˩.pan˥ xoʊ̯˥˩ toʊ̯˥ xweɪ̯˥˩ t͡ɕʰy˥˩ t͡ɕjɛn˥˩.ʂən˥.fɑŋ˧˥ twan˥˩.ljɛn˥˩ i˥ kɤ ɕjaʊ̯˨˩.ʂɨ˧˥] (Wèi le bǎo-chí liáng-hǎo de tǐ-pò hé bǎo-mǎn de jīng-lì, hěn-duō qīng-nián-rén měi-tiān xià-bān hòu dōu huì qù jiàn-shēn-fáng duàn-liàn yí ge xiǎo-shí.)",
+          "translation": "In order to maintain good physique and full energy, many young people go to the gym to work out for an hour every day after work."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "弹琴拨弦拉弓弦，画画练字润心田；胡同摄影拍佳作，健身塑形体魄坚！"
+      ],
+      "culturalNotes": [
+        "中国传统文人将「琴棋书画」视为陶冶情操的至高雅趣。在现代中国大学校园，各类文体艺术社团百花齐放，是留学生沉浸式感知当代青年文化与中华美学的最佳平台。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」（第4讲）的标准汉语规范？",
+          "prompt": "在汉语中，与弦乐器「小提琴 / 二胡」搭配的专属演奏动词是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的核心语法法则与应用范例 (12.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (12.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (12.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (12.4.w3)"
+            "拉 (lā - to play bowed instruments like violin/erhu)",
+            "弹",
+            "吹",
+            "踢"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "拉奏弓弦乐器固定搭配动词「拉」（拉小提琴、拉二胡）。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在汉语中，与键盘乐器「钢琴」或拨弦乐器「吉他」搭配的动词是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "弹 (tán - to play piano/guitar)",
+            "拉",
+            "吹",
+            "下"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "弹奏键盘或拨弦乐器固定搭配动词「弹」（弹钢琴、弹吉他）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的正式语境下，最准确得体的表达是哪一项？（第12.4题）",
+          "prompt": "下列哪一项才艺与动词的搭配完全符合规范？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (12.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (12.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (12.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (12.4.x3)"
+            "弹古筝、拉二胡、吹笛子、练书法 (Strict precision in instrumental and artistic verbs)",
+            "拉古筝、吹二胡、弹笛子、下书法",
+            "吹古筝、弹二胡、拉笛子、画书法",
+            "踢古筝、滑二胡、游笛子、骑书法"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "弹古筝（拨弦）、拉二胡（弓弦）、吹笛子（管乐）、练书法（书写），搭配天衣无缝。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u12-l4）所要求的高阶语言表达？",
+          "prompt": "表达「去专门场所进行肌肉力量与体能训练」，最通用的现代词汇是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (12.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (12.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (12.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (12.4.y3)"
+            "去健身房健身 / 锻炼 (Working out at the gym)",
+            "去电影院看电影",
+            "去餐厅吃大餐",
+            "去超市买菜"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「去健身房健身/锻炼」是现代都市健康生活的标准表达。"
         }
       ]
     },
@@ -7353,25 +7363,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的掌握程度，请选出表述完全正确的标准范句（测试 12-4）：",
+          "prompt": "请选出下列课外文体生活叙述中词汇搭配最典范、语篇逻辑最严密的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (12.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (12.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (12.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (12.4.z3)"
+            "李华的业余生活丰富多彩，他不仅会弹吉他、吹萨克斯，每周还定期去书法社练习写毛笔字，周末偶尔还和朋友去健身房健身。(乐器、传统艺术与现代健身动词搭配完全精准)",
+            "李华会拉萨克斯、吹吉他，在书法社踢毛笔字。(动词严重混乱)",
+            "李华下吉他、画萨克斯，在健身房弹跑步。(搭配荒诞错乱)",
+            "李华滑书法、游毛笔字。(语无伦次)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "弹吉他、吹萨克斯、练毛笔字、去健身房健身，动词与名词搭配无可挑剔。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u12-l4）的核心关键词（例如「兴趣爱好」）：",
+          "prompt": "请输入表达使用毛笔书写汉字的中国传统艺术核心双字名词（拼音为 shūfǎ）：",
           "acceptedAnswers": [
-            "兴趣爱好",
-            "兴趣爱好、体",
-            "兴趣爱好、体育与离合词"
+            "书法"
           ],
-          "explanation": "正确的核心关键词为「兴趣爱好」。"
+          "explanation": "词语「书法」是现代汉语中指称中国传统汉字书写艺术的核心专有名词。"
         }
       ],
       "passThreshold": 0.8
@@ -7382,85 +7390,89 @@
     "subject": "mandarin",
     "unit": 12,
     "lessonNumber": 5,
-    "title": "兴趣爱好、体育与离合词 (Hobbies & Separable Verbs) (第5讲)",
+    "title": "课余生活、文体风采与身心平衡综合叙事篇章 (Comprehensive Extracurricular Life, Sports & Balance Narrative)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：文娱体育词汇、离合动词（游泳/跑步/唱歌/跳舞/睡觉）的语法扩展与插入规则。 (第5部分)。",
+    "objective": "融会贯通文体运动、乐器才艺、离合词离析插入形态（时量/动量补语/AAB重叠）与生活平衡感悟，独立撰写文采斐然、结构严密的综合叙事语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "将体育运动、艺术才艺、离合词离析形态与东方修身哲学融为一体，是全方位检验高阶汉语篇章组织与审美表达能力的综合典范：\n\n一、课余生活与文体风采综合语篇宏观建构：\n1. 清晨规律锻炼与离合词时量补语：清晨迎着朝阳在田径场跑四十分钟的步，做做全身拉伸操。\n2. 白天课后文体竞技与才艺舒展：放学后与同学在体育馆打打羽毛球、在琴房弹弹吉他，洋溢青春生机。\n3. 晚间与周末高雅文化浸润：晚餐后漫步湖畔散散步、聊聊天，周末参与书法社研习毛笔字运笔精要（帮了我一个大忙）。\n4. 哲学意境与身心平衡升华：在动静相兼的文体实践中领悟劳逸结合的智慧，在繁忙学业中守护身心平衡与从容风度。\n\n二、全景式课余文体生活范文解析：\n- 在北京留学的岁月里，我的课外生活过得格外充实而精彩。每天清晨六点半，我都会准时前往学校田径场跑四十分钟的步，呼吸清晨的新鲜空气，让整个人精力充沛。下午下课之后，我常常约上留学生好友一起去体育馆打打羽毛球，或者在校园林荫小道上散散步、聊聊天。每逢周末，我对中国传统文化的浓厚兴趣得到了最好的滋养——我加入了学校的书法研习社，老师和社员们在运笔写毛笔字上帮了我一个大忙。夜晚回到宿舍，我喜欢弹弹吉他、听听音乐，洗一个热水澡，接着舒舒服服地睡上八个小时的安稳觉。丰富多彩的文体生活不仅让我强健了体魄、开阔了视野，更让我在繁重的学业压力之下始终保持着身心平衡与愉悦心境！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的核心语法法则与应用范例 (12.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)' in simple terms to students at the academic seminar."
+          "target": "我的大学课余生活丰富多彩，每天清晨我都会去田径场跑半个小时的步，呼吸新鲜空气。(Wǒ de dàxué kèyú shēnghuó fēngfù-duōcǎi, měitiān qīngchén wǒ dōu huì qù tiánjìngchǎng pǎo bàn ge xiǎoshí de bù, hūxī xīnxiān kōngqì.)",
+          "reading": "[wɔ˨˩ tɤ ta˥˩.ɕɥɛ˧˥ kʰɤ˥˩.y˧˥ ʂəŋ˥.xwo˧˥ fɤŋ˥.fu˥˩ twɔ˥.t͡sʰaɪ̯˨˩˦, meɪ̯˨˩.tʰjɛn˥ t͡ɕʰiŋ˥.ʈ͡ʂʰən˧˥ wɔ˨˩ toʊ̯˥ xweɪ̯˥˩ t͡ɕʰy˥˩ tʰjan˧˥.t͡ɕiŋ˥˩.ʈ͡ʂʰɑŋ˨˩˦ pʰaʊ̯˨˩˦ pan˥˩ kɤ ɕjaʊ̯˨˩.ʂɨ˧˥ tɤ pu˥˩, xu˥.ɕi˥ ɕin˥.ɕjɛn˥ kʰʊŋ˥.t͡ɕʰi˥˩] (Wǒ de dà-xué kè-yú shēng-huó fēng-fù-duō-cǎi, měi-tiān qīng-chén wǒ dōu huì qù tián-jìng-chǎng pǎo bàn ge xiǎo-shí de bù, hū-xī xīn-xiān kōng-qì.)",
+          "translation": "My university extracurricular life is rich and colorful; every morning I go to the track field to jog for half an hour, breathing fresh air."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (12.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "每逢周末，我和留学生朋友们经常约着一起去体育馆打打羽毛球，或者在湖边散散步、聊聊天。(Měi féng zhōumò, wǒ hé liúxuéshēng péngyoumen jīngcháng yuē zhe yìqǐ qù tǐyùguǎn dǎda yǔmáoqiú, huòzhě zài húbiān sànsan bù, liáoliao tiān.)",
+          "reading": "[meɪ̯˨˩ fɤŋ˧˥ ʈ͡ʂoʊ̯˥.mwɔ˥˩, wɔ˨˩ xɤ˧˥ ljoʊ̯˧˥.ɕɥɛ˧˥.ʂəŋ pʰɤŋ˧˥.joʊ̯.mən t͡ɕiŋ˥.ʈ͡ʂʰɑŋ˧˥ jɥɛ˥ ʈ͡ʂɤ i˥˩.t͡ɕʰi˨˩˦ t͡ɕʰy˥˩ tʰi˨˩.y˥˩.kwan˨˩˦ ta˨˩.ta y˨˩.maʊ̯˧˥.t͡ɕʰjoʊ̯˧˥, xwo˥˩.ʈ͡ʂɤ t͡saɪ̯˥˩ xu˧˥.pjɛn˥ san˥˩.san pu˥˩, ljaʊ̯˧˥.ljaʊ̯ tʰjɛn˥] (Měi féng zhōu-mò, wǒ hé liú-xué-shēng péng-you-men jīng-cháng yuē zhe yì-qǐ qù tǐ-yù-guǎn dǎ-da yǔ-máo-qiú, huò-zhě zài hú-biān sàn-san bù, liáo-liao tiān.)",
+          "translation": "Every weekend, my international student friends and I often make appointments to play badminton at the gym, or take a walk and chat by the lake."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (12.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "我最近加入的学校书法社帮了我一个大忙，让我在练习毛笔字的过程中学会了专注与沉静。(Wǒ zuìjìn jiārù de xuéxiào shūfǎshè bāng le wǒ yí ge dà máng, ràng wǒ zài liànxí máobǐzì de guòchéng zhōng xuéhuì le zhuānzhù yǔ chénjìng.)",
+          "reading": "[wɔ˨˩ t͡sweɪ̯˥˩.t͡ɕin˥˩ t͡ɕja˥.ʐu˥˩ tɤ ɕɥɛ˧˥.ɕjaʊ̯˥˩ ʂu˥.fa˨˩˦.ʂɤ˥˩ pɑŋ˥ lɤ wɔ˨˩ i˥ kɤ ta˥˩ mɑŋ˧˥, ʐɑŋ˥˩ wɔ˨˩ t͡saɪ̯˥˩ ljɛn˥˩.ɕi˧˥ maʊ̯˧˥.pi˨˩.t͡sɨ˥˩ tɤ kwo˥˩.ʈ͡ʂʰəŋ˧˥ ʈ͡ʂʊŋ˥ ɕɥɛ˧˥.xweɪ̯˥˩ lɤ ʈ͡ʂwan˥.ʈ͡ʂu˥˩ y˨˩˦ ʈ͡ʂʰən˧˥.t͡ɕiŋ˥˩] (Wǒ zuì-jìn jiā-rù de xué-xiào shū-fǎ-shè bāng le wǒ yí ge dà máng, ràng wǒ zài liàn-xí máo-bǐ-zì de guò-chéng zhōng xué-huì le zhuān-zhù yǔ chén-jìng.)",
+          "translation": "The school calligraphy club I joined recently helped me a big favor, enabling me to learn concentration and serenity in the process of practicing brush calligraphy."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (12.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "广泛的文体爱好不仅丰富了我的留学校园生活，更让我在紧张繁忙的学业之余始终保持身心平衡与旺盛精力。(Guǎngfàn de wéntǐ àihào bùjǐn fēngfù le wǒ de liúxué xiàoyuán shēnghuó, gèng ràng wǒ zài jǐnzhāng fánmáng de xuéyè zhīyú shǐzhōng bǎochí shēnxīn pínghéng yǔ wàngshèng jīnglì.)",
+          "reading": "[kwaŋ˨˩.fan˥˩ tɤ wən˧˥.tʰi˨˩˦ aɪ̯˥˩.xaʊ̯˥˩ pu˥.t͡ɕin˨˩˦ fɤŋ˥.fu˥˩ lɤ wɔ˨˩ tɤ ljoʊ̯˧˥.ɕɥɛ˧˥ ɕjaʊ̯˥˩.jɥɛn˧˥ ʂəŋ˥.xwo˧˥, kɤŋ˥˩ ʐɑŋ˥˩ wɔ˨˩ t͡saɪ̯˥˩ t͡ɕin˨˩.ʈ͡ʂɑŋ˥ fan˧˥.mɑŋ˧˥ tɤ ɕɥɛ˧˥.jɛ˥˩ ʈ͡ʂɨ˥.y˧˥ ʂɨ˨˩.ʈ͡ʂʊŋ˥ paʊ̯˨˩.ʈ͡ʂʰɨ˧˥ ʂən˥.ɕin˥ pʰiŋ˧˥.xɤŋ˧˥ y˨˩˦ wɑŋ˥˩.ʂəŋ˥˩ t͡ɕiŋ˥.li˥˩] (Guǎng-fàn de wén-tǐ ài-hào bù-jǐn fēng-fù le wǒ de liú-xué xiào-yuán shēng-huó, gèng ràng wǒ zài jǐn-zhāng fán-máng de xué-yè zhī-yú shǐ-zhōng bǎo-chí shēn-xīn píng-héng yǔ wàng-shèng jīng-lì.)",
+          "translation": "Extensive sports and arts hobbies not only enriched my study abroad campus life, but also enabled me to consistently maintain physical and mental balance and vibrant energy amidst tense and busy studies."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "晨跑步来夕散步，打球弹琴展风华；离合拆装妙笔生，课余文体乐无涯！"
+      ],
+      "culturalNotes": [
+        "中国人讲究「一张一弛，文武之道」。在刻苦求学的同时积极参与文体运动，达到劳逸结合、身心和谐，是中华修身哲学的生动体现。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」（第5讲）的标准汉语规范？",
+          "prompt": "在课余生活叙事中，正确串联「晨练跑步 -> 课后打球 -> 晚间散步聊天 -> 夜晚安睡」的逻辑脉络是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的核心语法法则与应用范例 (12.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (12.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (12.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (12.5.w3)"
+            "跑了半个小时步 -> 打打羽毛球 -> 散散步聊聊天 -> 睡了八个小时觉 (Coherent daily timeline progression)",
+            "先睡八小时觉 -> 散步聊天 -> 跑半小时步 -> 打羽毛球",
+            "打羽毛球 -> 睡觉八小时 -> 跑步半小时",
+            "聊天聊天 -> 跑步跑步 -> 睡觉睡觉"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "叙事篇章严格遵循从清晨到夜晚的时序脉络与离合词规范离析/AAB重叠。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "语篇中「在紧张繁忙的学业之余始终保持身心平衡」所表达的核心理念是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "通过健康的文体爱好达到劳逸结合、身心和谐 (Balancing work and rest through healthy hobbies)",
+            "不学习只玩耍",
+            "只学习不睡觉不运动",
+            "天天熬夜玩电子游戏"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "该句升华了文体活动促进身心平衡与学业促进的深刻哲理。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的正式语境下，最准确得体的表达是哪一项？（第12.5题）",
+          "prompt": "请选出下列校园生活叙事语篇中离合词运用与词汇搭配完全典范通畅的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (12.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (12.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (12.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (12.5.x3)"
+            "我每天下午去操场跑四十分钟的步，周末和同学去体育馆打打球，社团的老师在书法上帮了我一个大忙，这让我的课余生活非常充实。(离合词离析与AAB重叠天衣无缝)",
+            "我每天操场跑步四十分钟，周末打球打球，社团帮忙我很大。(语病严重语法错乱)",
+            "我每天跑了步在操场，周末见面朋友在打羽毛球。(结构崩坏)",
+            "我每天四十分钟跑步，社团帮我忙很大一个。(搭配不通)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「跑四十分钟的步」、「打打球」、「帮了我一个大忙」，语法体系极其严谨纯正。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u12-l5）所要求的高阶语言表达？",
+          "prompt": "在叙事中表达身体健康状态与精神心理状态的协调一致，最典雅的名词短语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (12.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (12.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (12.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (12.5.y3)"
+            "身心平衡 / 身心健康 (Physical and mental balance / wellness)",
+            "身体不舒服",
+            "头疼脑热",
+            "疲惫不堪"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「身心平衡」是概括身心和谐健康状态的标准典雅表达。"
         }
       ]
     },
@@ -7468,25 +7480,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的掌握程度，请选出表述完全正确的标准范句（测试 12-5）：",
+          "prompt": "请选出下列文体生活与身心平衡综合叙事篇章中语言最典范、结构最严谨的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (12.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (12.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (12.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (12.5.z3)"
+            "广泛的文体爱好让我的留学生活充满阳光。每天清晨我坚持去公园跑半个小时的步，傍晚在宿舍弹弹吉他、唱唱歌，周末还跟中国同学一起练习书法。这种张弛有度的生活方式不仅帮我缓解了学业压力，更让我始终保持着身心平衡与饱满活力。(全篇逻辑严谨、文采斐然、离合词神形兼备)",
+            "我的生活很好玩，天天跑步跑步，弹吉他吉他，不学习只睡觉。(语气轻浮语病频出)",
+            "我天天在公园跑了步半小时，弹吉他了跟朋友见面他。(严重语法缺陷)",
+            "我为了不想学习而天天打打球睡觉觉。(立意消极语句不通)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在时序组织、离合词离析（跑半个小时的步）、AAB重叠（弹弹吉他/唱唱歌）、介词引介（跟中国同学练习）及身心平衡升华上均达到了现代汉语的最高标准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u12-l5）的核心关键词（例如「兴趣爱好」）：",
+          "prompt": "请输入表达身体与心理两方面协调健康状态的核心四字成语/词语（例如「」健康，拼音为 shēnxīn）：",
           "acceptedAnswers": [
-            "兴趣爱好",
-            "兴趣爱好、体",
-            "兴趣爱好、体育与离合词"
+            "身心",
+            "身心平衡",
+            "身心健康"
           ],
-          "explanation": "正确的核心关键词为「兴趣爱好」。"
+          "explanation": "词语「身心」或「身心平衡」是现代汉语中指称身体与精神全面健康状态的核心词汇。"
         }
       ],
       "passThreshold": 0.8
