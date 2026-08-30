@@ -2125,53 +2125,62 @@
     "subject": "urdu",
     "unit": 5,
     "lessonNumber": 1,
-    "title": "فعل حال جاری: رہا/رہی/رہے ہیں (Present Continuous Tense) (Part 1)",
+    "title": "فعل حال جاری کی ساخت اور گردان (Present Continuous Morphology)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 5.1) with authentic precision.",
+    "objective": "فعل حال جاری کے اجزاء (مادہ فعل + رہا/رہی/رہے/رہیں + امدادی فعل ہونا) اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں فعل حال جاری (Present Continuous / Progressive Tense) کی ساخت:\n\n1. **فعل حال جاری کا مفہوم**:\n   - یہ فعل گفتگو کے وقت جاری عمل (Ongoing Action) کو ظاہر کرتا ہے۔\n\n2. **فعل کی بنیادی ساخت**:\n   - **مادہ فعل (Verb Stem)** + **رہا / رہی / رہے / رہیں** + **ہونا کا صیغہ (ہوں / ہے / ہیں / ہو)**:\n     - مذکر واحد: «میں خط لکھ **رہا ہوں**»، «احمد پڑھ **رہا ہے**»؛\n     - مذکر جمع / تعظیمی: «ہم مطالعہ کر **رہے ہیں**»، «آپ سن **رہے ہیں**»، «وہ تشریف لا **رہے ہیں**»؛\n     - مؤنث واحد: «میں چائے بنا **رہی ہوں**»، «فاطمہ کھانا کھا **رہی ہے**»؛\n     - مؤنث جمع: «لڑکیاں نعت پڑھ **رہی ہیں**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اس وقت باہر تیز موسلادھار بارش ہو رہی ہے اور ٹھنڈی ہوا چل رہی ہے۔",
+          "reading": "Is waqt baahar tez mooslaadhaar baarish ho rahi hai aur thandi hawa chal rahi hai. [ɪs ʋəqt̪ baːɦər t̪eːz muːslaːd̪ʱaːr baːrɪʃ hoː rəɦiː hɛː ɔːr t̪ʰəɳɖiː ɦəʋaː tʃəl rəɦiː hɛː] (EES VUHKT BAH-huhr TAYZ moos-lah-DHAHR BAH-reesh hoh ruh-HEE hy owr thuhn-DEE huh-VAH chuhl ruh-HEE hy)",
+          "translation": "At this moment, heavy torrential rain is falling outside and a cool breeze is blowing."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 5-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "طلبہ اپنے کمرۂ جماعت میں انہماک کے ساتھ استاد کا سبق سن رہے ہیں۔",
+          "reading": "Talaba apne kamra-e-jama'at mein inhimaak ke saath ustaad ka sabaq sun rahe hain. [t̪ələbaː əpneː kəmraː-eː-dʒəmaːʔət̪ mẽː ɪnɦɪmaːq keː saːt̪ʰ ʊst̪aːd̪ kaː səbəq sʊn rəɦeː hɛ̃ː] (tuh-luh-BAH uhp-NAY kuhm-RAH-ay-juh-MAH-uht mayn een-hee-MAHQ kay sahth oos-TAHD kah suh-BUHQ soon ruh-HAY hyhn)",
+          "translation": "The students are listening attentively to the teacher's lesson in their classroom."
+        },
+        {
+          "target": "میں اس وقت اپنے امتحانات کی تیاری کے لیے اہم نوٹس تیار کر رہا ہوں۔",
+          "reading": "Main is waqt apne imtehaanaat ki tayyaari ke liye aham notes tayyaar kar raha hoon. [mɛ̃ː ɪs ʋəqt̪ əpneː ɪmt̪ɪhaːnaːt̪ kiː t̪əjːaːriː keː lɪjeː əɦəm noːʈs t̪əjːaːr kər rəɦaː ɦuː̃] (myhn EES VUHKT uhp-NAY eem-tuh-hah-NAHT kee ty-yah-REE kay lee-AY UH-huhm notes ty-YAHR kuhr ruh-HAH HOON)",
+          "translation": "I am preparing important notes right now for my examination preparation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "حال جاری فارمولا: مادہ فعل + رہا/رہی/رہے + ہے/ہیں (لکھ رہا ہے، پڑھ رہی ہے، جا رہے ہیں)!"
+      ],
+      "culturalNotes": [
+        "اردو میں حال جاری وقتی عمل کے ساتھ ساتھ قریب الوقوع مستقبل کے ارادے کے لیے بھی بولا جاتا ہے، جیسے: 'میں کل لاہور جا رہا ہوں'۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"گاڑی\":",
+          "prompt": "مذکر واحد فاعل «علی» کے ساتھ فعل «لکھنا» کا حال جاری کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («بس» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ریل گاڑی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («طیارہ» کی خرابی)"
+            "لکھ رہا ہے (Likh raha hai - Masculine singular present continuous tense)",
+            "لکھ رہی ہے (تانیث صیغہ)",
+            "لکھ رہے ہیں (جمع صیغہ)",
+            "لکھتا ہے (حال مطلق)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "مذکر واحد کے ساتھ فعل حال جاری «لکھ رہا ہے» بنتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"گاڑی\":",
+          "prompt": "مؤنث جمع فاعل «لڑکیاں» کے ساتھ فعل «پڑھنا» کا حال جاری کیا بنے گا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ریل گاڑی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («طیارہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بس» کا غیر درست استعمال)"
+            "پڑھ رہی ہیں (Parh rahi hain - Feminine plural present continuous tense)",
+            "پڑھ رہا ہے (مذکر واحد)",
+            "پڑھ رہے ہیں (مذکر جمع)",
+            "پڑھا تھا (ماضی)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مؤنث جمع کے ساتھ «پڑھ رہی ہیں» درست ہے۔"
         }
       ]
     },
@@ -2179,17 +2188,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"گاڑی\": Which sentence is completely correct?",
+          "prompt": "فعل حال جاری کی ساخت (Present Continuous Morphology) کا مکمل جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («طیارہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بس» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ریل گاڑی» سے متعلق)"
+            "اس وقت کسان کھیتوں میں ہل چلا رہا ہے اور پرندے فضا میں اڑ رہے ہیں۔ (At this time the farmer is plowing the fields [hal chala raha hai] and birds are flying in the air.)",
+            "کسان ہل چلا رہی ہیں اور پرندے روتا ہے۔",
+            "حال جاری کا مطلب صرف سوتے ہوئے خراٹے لینا ہے۔",
+            "رہا ہے کو جملے کے شروع میں اسم سے پہلے لگانا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اس وقت کسان کھیتوں میں ہل چلا رہا ہے اور پرندے فضا میں اڑ رہے ہیں۔» حال جاری کا بالکل درست جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u5-l2": {
@@ -2197,53 +2207,62 @@
     "subject": "urdu",
     "unit": 5,
     "lessonNumber": 2,
-    "title": "فعل حال جاری: رہا/رہی/رہے ہیں (Present Continuous Tense) (Part 2)",
+    "title": "جاری سرگرمیاں اور فاعل کے مطابق مطابقت (Ongoing Actions & Agreement)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 5.2) with authentic precision.",
+    "objective": "جاری کاموں (تعمیر کرنا، علاج کرنا، تسبیح پڑھنا) میں تذکیر و تانیث اور تعظیمی جمع کی کامل مطابقت قائم کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "جاری سرگرمیوں میں فاعل کے مطابق مطابقت کے اصول:\n\n1. **مذکر فاعل کی جاری سرگرمی**:\n   - «معمار اور مزدور مل کر عمارت **تعمیر کر رہے ہیں**۔»\n\n2. **مؤنث فاعل کی جاری سرگرمی**:\n   - «ماہر ڈاکٹر صاحبہ مریض کا **معائنہ کر رہی ہیں**۔»\n\n3. **تعظیمی جمع کی مطابقت**:\n   - «ہمارے محترم دادا جان جائے نماز پر بیٹھ کر تسبیح **پڑھ رہے ہیں**۔»*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "معمار اور مزدور مل کر ایک خوبصورت اور مضبوط عمارت تعمیر کر رہے ہیں۔",
+          "reading": "Me'maar aur mazdoor mil kar ek khoobsurat aur mazboot imaarat ta'meer kar rahe hain. [mɪʔmaːr ɔːr məzduːr mɪl kər eːk xuːbsuːrət̪ ɔːr məzbuːt̪ ɪmaːrət̪ t̪əʔmiːr kər rəɦeː hɛ̃ː] (mee-MAHR owr muhz-DOOR MEEL kuhr AYK khoob-SOO-ruht owr muhz-BOOT ee-MAH-ruht tuh-MEER kuhr ruh-HAY hyhn)",
+          "translation": "The mason and laborers together are constructing a beautiful and sturdy building."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 5-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ماہر ڈاکٹر صاحبہ انتہائی توجہ اور شفقت سے ننھے بچے کا معائنہ کر رہی ہیں۔",
+          "reading": "Maahir doctor saahiba intihaai tawajjuh aur shafaqat se nannhe bachche ka muaayana kar rahi hain. [maːɦɪr ɖɔːkʈər saːhɪbaː ɪnt̪ɪhaːiː t̪əʋədʒːʊh ɔːr ʃəfqət̪ seː nənːɦeː bətʃːeː kaː mʊʔaːjənaː kər rəɦiː hɛ̃ː] (MAH-heer doctor sah-hee-BAH een-tee-HAH-ee tuh-vuhj-JOOH owr shuh-fuh-QUHT say nuhn-NHAY buhch-CHAY kah moo-ah-yuh-NAH kuhr ruh-HEE hyhn)",
+          "translation": "The expert female doctor is examining the little infant with utmost attention and affection."
+        },
+        {
+          "target": "ہمارے بزرگ دادا جان جائے نماز پر بیٹھ کر تسبیح پڑھ رہے ہیں اور دعا مانگ رہے ہیں۔",
+          "reading": "Hamaare buzurg daada jaan jaa-e-namaaz par baith kar tasbeeh parh rahe hain aur dua maang rahe hain. [həm-aːreː bʊzʊrɡ d̪aːd̪aː dʒaːn dʒaː-eː-nəmaːz pər bɛːʈʰ kər t̪əsbiːh pəɽʱ rəɦeː hɛ̃ː ɔːr d̪ʊʔaː maːŋɡ rəɦeː hɛ̃ː] (huh-mah-RAY boo-ZOORG dah-DAH JAHN jah-ay-nuh-MAHZ puhr BYTH kuhr tuhs-BEEH puhrh ruh-HAY hyhn owr doo-AH mahng ruh-HAY hyhn)",
+          "translation": "Our elder grandfather is sitting on the prayer mat reciting the rosary and making prayer."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جاری مطابقت: مزدور (کر رہے ہیں)، ڈاکٹر صاحبہ (کر رہی ہیں)، دادا جان (پڑھ رہے ہیں)!"
+      ],
+      "culturalNotes": [
+        "اردو میں احترام کے پیشِ نظر خواتین کے نام کے ساتھ 'صاحبہ' یا 'محترمہ' لگا کر فعل جمع 'کر رہی ہیں' استعمال کیا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"بس\":",
+          "prompt": "مؤنث فاعل «استانی صاحبہ» کے ساتھ حال جاری کا کون سا صیغہ درست ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («ریل گاڑی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («طیارہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («میٹرو» کی خرابی)"
+            "پڑھا رہی ہیں (Parha rahi hain - Respectful feminine plural continuous verb)",
+            "پڑھا رہا ہے (مذکر واحد)",
+            "پڑھا رہے ہیں (مذکر تعظیمی)",
+            "پڑھایا تھا (ماضی)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "محترمہ استانی صاحبہ کے لیے تعظیمی تانیث «پڑھا رہی ہیں» بولا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"بس\":",
+          "prompt": "مذکر جمع فاعل «طلبہ» کے ساتھ جاری فعل کی درست صورت کیا ہوگی؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («طیارہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («میٹرو» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ریل گاڑی» کا غیر درست استعمال)"
+            "کھیل رہے ہیں (Khel rahe hain - Masculine plural present continuous verb)",
+            "کھیل رہا ہے (واحد مذکر)",
+            "کھیل رہی ہیں (مؤنث جمع)",
+            "کھیلتا ہے (حال مطلق)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مذکر جمع فاعل کے ساتھ «کھیل رہے ہیں» درست ہے۔"
         }
       ]
     },
@@ -2251,17 +2270,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"بس\": Which sentence is completely correct?",
+          "prompt": "جاری سرگرمیوں اور تذکیر و تانیث کی مطابقت (Ongoing Actions & Concord) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («میٹرو» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ریل گاڑی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («طیارہ» سے متعلق)"
+            "باورچی باورچی خانے میں کھانا پکا رہا ہے اور مہمان کھانے کے کمرے میں تشریف رکھ رہے ہیں۔ (The cook is cooking food [paka raha hai] in the kitchen, and the guests are taking their seats [tashreef rakh rahe hain] in the dining room.)",
+            "باورچی کھانا پکا رہی تھیں اور سب مہمان بھاگ رہا ہے۔",
+            "تذکیر و تانیث کا جاری فعل میں کوئی تعلق نہیں۔",
+            "تشریف رکھ رہے ہیں کا مطلب تالا توڑنا ہوتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«باورچی باورچی خانے میں کھانا پکا رہا ہے اور مہمان کھانے کے کمرے میں تشریف رکھ رہے ہیں۔» جاری فعل اور مطابقت کا مکمل جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u5-l3": {
@@ -2269,53 +2289,62 @@
     "subject": "urdu",
     "unit": 5,
     "lessonNumber": 3,
-    "title": "فعل حال جاری: رہا/رہی/رہے ہیں (Present Continuous Tense) (Part 3)",
+    "title": "فعل حال جاری میں نفی اور استمرار (Negatives in Present Continuous)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 5.3) with authentic precision.",
+    "objective": "حال جاری میں نفی کی ساخت (نہیں + مادہ فعل + رہا ہے) اور منفی استمرار کے درست اسلوب میں مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "فعل حال جاری میں نفی (Negative Present Continuous) کے قواعد:\n\n1. **حرفِ نفی «نہیں» کا مقام**:\n   - نفی بنانے کے لیے مادہ فعل سے ٹھیک پہلے «**نہیں**» لگایا جاتا ہے (جیسے: «وہ نہیں پڑھ رہا ہے»، «ہم نہیں جا رہے ہیں»)۔\n\n2. **امدادی فعل 'ہے / ہیں' کا برقرار رہنا**:\n   - حال مطلق کے برعکس، حال جاری میں 'ہے / ہیں' کو قائم رکھنا زیادہ فصیح اور مستند مانا جاتا ہے تاکہ جاری عمل کی نفی کا زمانہ مکمل واضح رہے (جیسے: «طالب علم وقت ضائع نہیں کر رہا ہے»)۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "وہ اس وقت شور نہیں مچا رہے ہیں بلکہ خاموشی سے اپنی درسی کتابیں پڑھ رہے ہیں۔",
+          "reading": "Woh is waqt shor nahin macha rahe hain balke khaamoshi se apni darsi kitaabein parh rahe hain. [ʋoːh ɪs ʋəqt̪ ʃoːr nəɦĩː mətʃaː rəɦeː hɛ̃ː bəl-kɪ xaːmoːʃiː seː əpniː d̪ərsiː kɪt̪aːbẽː pəɽʱ rəɦeː hɛ̃ː] (VOH EES VUHKT SHOHR nuh-HEEN muh-CHAH ruh-HAY hyhn buhl-KAY khah-moh-SHEE say uhp-NEE duhr-SEE kee-tah-BAYN puhrh ruh-HAY hyhn)",
+          "translation": "They are not making noise right now, but rather reading their textbooks quietly."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 5-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "طالبہ وقت ضائع نہیں کر رہی ہے بلکہ امتحانات کے لیے اہم نکات نوٹ کر رہی ہے۔",
+          "reading": "Taaliba waqt zaaya nahin kar rahi hai balke imtehaanaat ke liye aham nukaat note kar rahi hai. [t̪aːlɪbaː ʋəqt̪ zaːjəʔ nəɦĩː kər rəɦiː hɛː bəl-kɪ ɪmt̪ɪhaːnaːt̪ keː lɪjeː əɦəm nʊqaːt̪ noːʈ kər rəɦiː hɛː] (tah-lee-BAH VUHKT zah-YUH nuh-HEEN kuhr ruh-HEE hy buhl-KAY eem-tuh-hah-NAHT kay lee-AY UH-huhm noo-QAHT note kuhr ruh-HEE hy)",
+          "translation": "The female student is not wasting time, but rather noting down key points for the examinations."
+        },
+        {
+          "target": "ہم کسی مسافر کو پریشان نہیں کر رہے ہیں اور قواعد کی پابندی کر رہے ہیں۔",
+          "reading": "Hum kisi musaafir ko pareshaan nahin kar rahe hain aur qawaaid ki paabandi kar rahe hain. [həm kɪsiː mʊsaːfɪr koː pəreːʃaːn nəɦĩː kər rəɦeː hɛ̃ː ɔːr qəʋaːʔɪd̪ kiː paːbənd̪iː kər rəɦeː hɛ̃ː] (HOOM kee-SEE moo-sah-FEER koh puh-ray-SHAHN nuh-HEEN kuhr ruh-HAY hyhn owr quh-wah-EED kee pah-buhn-DEE kuhr ruh-HAY hyhn)",
+          "translation": "We are not troubling any passenger and are observing the rules."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "منفی حال جاری: نہیں + مادہ فعل + رہا ہے (شور نہیں مچا رہے ہیں، وقت ضائع نہیں کر رہی ہے)!"
+      ],
+      "culturalNotes": [
+        "اردو شائستگی میں منفی جملوں میں الزام کے بجائے 'ہم ایسا نہیں کر رہے ہیں' کہہ کر وضاحت پیش کرنا مہذب انداز سمجھا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"ریل گاڑی\":",
+          "prompt": "جملے «وہ کھانا ... کھا رہا ہے» میں نفی کا فصیح لفظ کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («طیارہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («میٹرو» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ٹکٹ» کی خرابی)"
+            "نہیں (Nahin - Standard negation particle placed before verb in continuous tense)",
+            "مت (حکم کی نفی)",
+            "نا (غیر فصیح)",
+            "بغیر (حرفِ جار)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "حال جاری میں نفی کے لیے فعل سے پہلے «نہیں» لگایا جاتا ہے: «وہ کھانا نہیں کھا رہا ہے»۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"ریل گاڑی\":",
+          "prompt": "فاعل 'ہم' کے ساتھ منفی حال جاری کا درست جملہ منتخب کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («میٹرو» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ٹکٹ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («طیارہ» کا غیر درست استعمال)"
+            "ہم وقت ضائع نہیں کر رہے ہیں (We are not wasting time - Correct plural negative continuous sentence)",
+            "ہم وقت ضائع مت کر رہے ہیں (غلط حرفِ نفی)",
+            "ہم وقت ضائع نہیں کر رہا ہے (واحد مذکر غلطی)",
+            "ہم وقت ضائع نہیں کرتا ہے (حال مطلق)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "فاعل 'ہم' کے ساتھ منفی حال جاری «ہم وقت ضائع نہیں کر رہے ہیں» درست ہے۔"
         }
       ]
     },
@@ -2323,17 +2352,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"ریل گاڑی\": Which sentence is completely correct?",
+          "prompt": "فعل حال جاری میں منفی ساخت (Negative Present Continuous) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ٹکٹ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («طیارہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («میٹرو» سے متعلق)"
+            "ہم کسی معزز شہری کے کام میں رکاوٹ نہیں ڈال رہے ہیں بلکہ ان کی مدد کر رہے ہیں۔ (We are not causing any obstacle [rukaawat nahin daal rahe hain] in any respected citizen's work, but rather helping them.)",
+            "ہم رکاوٹ مت ڈال رہے ہیں اور نہ مدد کرتا ہے۔",
+            "منفی جاری فعل کا مطلب ہمیشہ کے لیے بولنا بند کرنا ہے۔",
+            "نہیں کو صرف فاعل سے پہلے لگانا لازمی ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہم کسی معزز شہری کے کام میں رکاوٹ نہیں ڈال رہے ہیں بلکہ ان کی مدد کر رہے ہیں۔» منفی حال جاری کا جامع اور فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u5-l4": {
@@ -2341,53 +2371,62 @@
     "subject": "urdu",
     "unit": 5,
     "lessonNumber": 4,
-    "title": "فعل حال جاری: رہا/رہی/رہے ہیں (Present Continuous Tense) (Part 4)",
+    "title": "فعل حال جاری میں سوالیہ جملے (Interrogative Continuous: کیا، کہاں، کیسے)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 5.4) with authentic precision.",
+    "objective": "حال جاری میں ہاں/نہ سوالات (کیا) اور تفصیلی استفسار (کہاں، کیا، کیسے، کیوں) کے نحوی اوزان میں مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "فعل حال جاری میں سوالیہ جملے (Interrogative Continuous Sentences) بنانے کے اصول:\n\n1. **ہاں / نہ والے سوالات (Yes/No Questions with 'کیا')**:\n   - جملے کے آغاز میں «کیا» بڑھا دیا جاتا ہے (جیسے: «کیا آپ اس وقت گھر جا رہے ہیں؟»)۔\n\n2. **معلوماتی سوالات (Wh- Questions with کہاں، کیا، کیوں، کیسے)**:\n   - سوالیہ کلمہ فعل سے ٹھیک پہلے رکھا جاتا ہے:\n     - «آپ اس وقت **کیا لکھ رہے ہیں**؟» (واٹ آر یو رائٹنگ؟)؛\n     - «وہ اتنی رات گئے **کہاں جا رہی ہے**؟» (ویئر از شی گوئنگ؟)؛\n     - «آپ یہ کام **کیسے کر رہے ہیں**؟» (ہاؤ آر یو ڈوئنگ دس؟)۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "کیا آپ اس وقت لائبریری کے خاموش ہال میں بیٹھ کر اپنے تحقیقی مقالے کا مسودہ تیار کر رہے ہیں؟",
+          "reading": "Kya aap is waqt library ke khaamosh hall mein baith kar apne tehqeeqi maqaale ka musawwada tayyaar kar rahe hain? [kjaː aːp ɪs ʋəqt̪ laːɪbreːriː keː xaːmoːʃ haːl mẽː bɛːʈʰ kər əpneː t̪əɦqiːqiː məqaːleː kaː mʊsəʋːəd̪aː t̪əjːaːr kər rəɦeː hɛ̃ː] (KYAH AHP EES VUHKT library kay khah-MOHSH hahl mayn BYTH kuhr uhp-NAY tuhh-qee-QEE muh-QAH-lay kah moo-suhv-vuh-DAH ty-YAHR kuhr ruh-HAY hyhn)",
+          "translation": "Are you sitting in the quiet hall of the library right now preparing the draft of your research paper?"
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 5-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "آپ اتنی جلدی میں کہاں جا رہے ہیں اور آپ کے ساتھ کون کون تشریف لے جا رہے ہیں؟",
+          "reading": "Aap itni jaldi mein kahaan ja rahe hain aur aap ke saath kaun kaun tashreef le ja rahe hain? [aːp ɪt̪niː dʒəldiː mẽː kəhaː̃ dʒaː rəɦeː hɛ̃ː ɔːr aːp keː saːt̪ʰ kɔːn kɔːn t̪əʃriːf leː dʒaː rəɦeː hɛ̃ː] (AHP eet-NEE juhl-DEE mayn kuh-HAHN jah ruh-HAY hyhn owr AHP kay sahth KOWN KOWN tuhsh-REEF lay jah ruh-HAY hyhn)",
+          "translation": "Where are you going in such a hurry, and who all are accompanying you?"
+        },
+        {
+          "target": "کیا بچے میدان میں فٹ بال کھیل رہے ہیں یا تماشائیوں کے ساتھ بیٹھ کر تالیاں بجا رہے ہیں؟",
+          "reading": "Kya bachche maidaan mein football khel rahe hain ya tamaashaa-iyon ke saath baith kar taaliyaan baja rahe hain? [kjaː bətʃːeː mɛːd̪aːn mẽː fʊʈbaːl kʰeːl rəɦeː hɛ̃ː jaː t̪əmaːʃaːʔɪjõː keː saːt̪ʰ bɛːʈʰ kər t̪aːlɪjaː̃ bədʒaː rəɦeː hɛ̃ː] (KYAH buhch-CHAY my-DAHN mayn football khayl ruh-HAY hyhn yah tuh-mah-shah-ee-YOHN kay sahth BYTH kuhr tah-lee-YAHN buh-JAH ruh-HAY hyhn)",
+          "translation": "Are the children playing football in the field, or sitting with the spectators clapping?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "سوالیہ حال جاری: کیا آپ جا رہے ہیں؟ (ہاں/نہ)، آپ کیا کر رہے ہیں؟ (معلوماتی)!"
+      ],
+      "culturalNotes": [
+        "اردو میں کسی کے جاری کام میں دخل دیتے وقت معذرت کے ساتھ 'کیا میں آپ سے بات کر سکتا ہوں؟ آپ کیا کر رہے ہیں؟' پوچھنا حسنِ اخلاق کی علامت ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"طیارہ\":",
+          "prompt": "کسی شخص کے جاری کام کو دریافت کرنے کے لیے کون سا سوالیہ جملہ درست ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («میٹرو» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ٹکٹ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («اسٹیشن» کی خرابی)"
+            "آپ اس وقت کیا کر رہے ہیں؟ (What are you doing right now? - Authentic standard continuous question)",
+            "آپ کیوں کرتا ہے؟ (غیر معیاری)",
+            "کیا آپ کھانا کھایا؟ (ماضی)",
+            "کب آپ جائیں گے؟ (مستقبل)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "جاری کام کے بارے میں پوچھنے کے لیے «آپ اس وقت کیا کر رہے ہیں؟» بولا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"طیارہ\":",
+          "prompt": "مقام دریافت کرنے کے لیے سوالیہ کلمہ «کہاں» کے ساتھ حال جاری کا درست جملہ کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ٹکٹ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («اسٹیشن» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («میٹرو» کا غیر درست استعمال)"
+            "وہ کہاں جا رہی ہے؟ (Where is she going? - Correct feminine continuous locative question)",
+            "وہ کہاں جاتا ہے؟ (حال مطلق)",
+            "وہ کیوں جاتی ہے؟ (سبب)",
+            "وہ کہاں گئی تھی؟ (ماضی بعید)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "جاری مقام کے لیے «وہ کہاں جا رہی ہے؟» درست ہے۔"
         }
       ]
     },
@@ -2395,17 +2434,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"طیارہ\": Which sentence is completely correct?",
+          "prompt": "فعل حال جاری میں سوالیہ جملوں (Interrogative Present Continuous) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («اسٹیشن» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («میٹرو» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ٹکٹ» سے متعلق)"
+            "کیا اساتذہ کرام کانفرنس ہال میں نئے تعلیمی نصاب پر تفصیلی تبادلۂ خیال کر رہے ہیں؟ (Are the respected teachers holding a detailed discussion [tabadla-e-khayaal kar rahe hain] on the new curriculum in the conference hall?)",
+            "کیوں اساتذہ رو رہا ہے؟",
+            "سوالیہ حال جاری کا مطلب صرف طوفان میں چھتری کھولنا ہے۔",
+            "کیا کو صرف خط کے لفافے پر لکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«کیا اساتذہ کرام کانفرنس ہال میں نئے تعلیمی نصاب پر تفصیلی تبادلۂ خیال کر رہے ہیں؟» سوالیہ حال جاری کا مستند جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u5-l5": {
@@ -2413,53 +2453,62 @@
     "subject": "urdu",
     "unit": 5,
     "lessonNumber": 5,
-    "title": "فعل حال جاری: رہا/رہی/رہے ہیں (Present Continuous Tense) (Part 5)",
+    "title": "فعل حال جاری کا جامع سمیکن و ادبی انطباق (Present Continuous Grand Synthesis)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 5.5) with authentic precision.",
+    "objective": "جاری منظر کشی (بارش، پرندے، محنت)، حال مطلق و حال جاری کا موازنہ اور کثیر الجملاتی پیراگراف میں حال جاری کا کامل انطباق کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "فعل حال جاری کا جامع سمیکن اور ادبی منظر کشی (Grand Synthesis & Imagery):\n\n1. **رواں منظر کشی (Live Scene Description)**:\n   - حال جاری کسی بھی منظر کو آنکھوں کے سامنے زندہ اور متحرک کر دیتا ہے:\n     - «صبح کے وقت باغ میں پرندے چہچہا رہے ہیں، ٹھنڈی ہوائیں چل رہی ہیں اور سورج کی سنہری کرنیں بکھر رہی ہیں۔»\n\n2. **حال مطلق اور حال جاری میں واضح فرق**:\n   - **حال مطلق (عادت / مستقل)**: «وہ روزانہ کتاب پڑھتا ہے»؛\n   - **حال جاری (وقتی عمل)**: «وہ اس وقت کتاب پڑھ رہا ہے۔»\n\n3. **ترکیبی فصاحت**:\n   - «پوری قوم محنت کر رہی ہے اور ملک ترقی کی راہ پر گامزن ہو رہا ہے۔»*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "صبح کے وقت باغ میں پرندے چہچہا رہے ہیں، ٹھنڈی ہوائیں چل رہی ہیں اور سورج کی سنہری کرنیں بکھر رہی ہیں۔",
+          "reading": "Subah ke waqt baagh mein parinde chahchaha rahe hain, thandi hawaaein chal rahi hain aur sooraj ki sunehri kirnein bikhar rahi hain. [sʊbəh keː ʋəqt̪ baːɣ mẽː pərɪnd̪eː tʃəɦtʃəhaː rəɦeː hɛ̃ː t̪ʰəɳɖiː ɦəʋaːẽː tʃəl rəɦiː hɛ̃ː ɔːr suːrədʒ kiː sʊnɛɦriː kɪrnẽː bɪkʰər rəɦiː hɛ̃ː] (SOO-buh kay VUHKT BAHGH mayn puh-reen-DAY chuhh-chuh-HAH ruh-HAY hyhn, thuhn-DEE huh-vah-AYN chuhl ruh-HEE hyhn owr SOO-ruhj kee soo-NYH-ree keer-NAYN bee-KHUHR ruh-HEE hyhn)",
+          "translation": "In the morning, birds are chirping in the garden, cool breezes are blowing, and golden rays of the sun are scattering."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 5-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ہمارے ملک کے سائنسدان اور انجینئرز ملکی ترقی کے لیے جدید ٹیکنالوجی پر شب و روز کام کر رہے ہیں۔",
+          "reading": "Hamaare mulk ke scientists aur engineers mulki taraqqi ke liye jadeed technology par shab-o-roz kaam kar rahe hain. [həm-aːreː mʊlk keː saːɪnsd̪aːn ɔːr ɪndʒiːnɪjərz mʊlkiː t̪ərəqːiː keː lɪjeː dʒəd̪iːd̪ ʈɛknaːlədʒiː pər ʃəb-oː-roːz kaːm kər rəɦeː hɛ̃ː] (huh-mah-RAY MOOLK kay scientists owr engineers mool-KEE tuh-ruhq-QEE kay lee-AY juh-DEED technology puhr SHUHB-oh-ROHZ KAHM kuhr ruh-HAY hyhn)",
+          "translation": "The scientists and engineers of our country are working day and night on modern technology for national progress."
+        },
+        {
+          "target": "کیا آپ دیکھ رہے ہیں کہ پوری قوم کس جذبے اور اتحاد کے ساتھ ترقی کی منزلوں کی طرف بڑھ رہی ہے؟",
+          "reading": "Kya aap dekh rahe hain ke poori qaum kis jazbe aur ittehaad ke saath taraqqi ki manzilon ki taraf barh rahi hai? [kjaː aːp d̪eːkʰ rəɦeː hɛ̃ː kɪ puːriː qɔːm kɪs dʒəzbeː ɔːr ɪt̪ːɪhaːd̪ keː saːt̪ʰ t̪ərəqːiː kiː mənzɪlõː kiː t̪ərəf bəɽʱ rəɦiː hɛː] (KYAH AHP daykh ruh-HAY hyhn kay POO-ree QOWM KEES juhz-BAY owr eet-tee-HAHD kay sahth tuh-ruhq-QEE kee muhn-zee-LOHN kee tuh-RUHF buhdh ruh-HEE hy)",
+          "translation": "Do you see with what spirit and unity the entire nation is advancing toward destinations of progress?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع منظر کشی: پرندے چہچہا رہے ہیں، کرنیں بکھر رہی ہیں، قوم آگے بڑھ رہی ہے!"
+      ],
+      "culturalNotes": [
+        "اردو کی صحافتی رپورٹنگ اور ادبی افسانوں میں رواں صورتحال کو زندہ پیش کرنے کے لیے فعل حال جاری بنیادی اسلوبیاتی ہتھیار ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"میٹرو\":",
+          "prompt": "ادبی منظر کشی کے لیے حال جاری کا کون سا جملہ سب سے فصیح اور متحرک ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («ٹکٹ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («اسٹیشن» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ہوائی اڈہ» کی خرابی)"
+            "باغ میں رنگ برنگے پھول مسکرا رہے ہیں اور تتلیاں اڑ رہی ہیں (Flowers are smiling and butterflies are flying - Vivid figurative continuous syntax)",
+            "پھول اڑتا ہے اور تتلی مسکراتا ہے (بے معنی)",
+            "پھول کھلیں گے (مستقبل)",
+            "پھول سوکھ گیا تھا (ماضی)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«باغ میں رنگ برنگے پھول مسکرا رہے ہیں اور تتلیاں اڑ رہی ہیں» حال جاری کی خوبصورت منظر کشی ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"میٹرو\":",
+          "prompt": "حال مطلق اور حال جاری کے باہمی فرق کی درست وضاحت کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («اسٹیشن» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ہوائی اڈہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ٹکٹ» کا غیر درست استعمال)"
+            "حال مطلق عادت کو ظاہر کرتا ہے جبکہ حال جاری اس وقت کے وقتی عمل کو (Habitual vs. currently ongoing action)",
+            "دونوں میں کوئی فرق نہیں",
+            "حال جاری صرف پرانے زمانے کے لیے ہے",
+            "حال مطلق میں فعل نہیں ہوتا"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "حال مطلق عادات و معمولات کو ظاہر کرتا ہے جبکہ حال جاری لمحۂ گفتگو میں جاری عمل کو۔"
         }
       ]
     },
@@ -2467,17 +2516,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"میٹرو\": Which sentence is completely correct?",
+          "prompt": "فعل حال جاری کے جامع سمیکن (Grand Synthesis & Imagery) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ہوائی اڈہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ٹکٹ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («اسٹیشن» سے متعلق)"
+            "آسمان پر کالے بادل چھا رہے ہیں، ٹھنڈی ہوائیں چل رہی ہیں اور رحمت کی بارش برس رہی ہے جس سے ہر چہرہ کھل اٹھا ہے۔ (Dark clouds are gathering across the sky [chaa rahe hain], cool breezes are blowing [chal rahi hain], and rains of mercy are falling [baras rahi hai].)",
+            "آسمان پر بادل روتا تھا اور پانی بھاگتا ہے۔",
+            "حال جاری صرف خواب میں لکھا جاتا ہے۔",
+            "تمام بادل پانی نہیں پیتے تھے ہمیشہ۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«آسمان پر کالے بادل چھا رہے ہیں، ٹھنڈی ہوائیں چل رہی ہیں اور رحمت کی بارش برس رہی ہے...» حال جاری کی فصیح اور مکمل منظر کشی ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u6-l1": {
