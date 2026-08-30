@@ -12375,53 +12375,62 @@
     "subject": "urdu",
     "unit": 30,
     "lessonNumber": 1,
-    "title": "سائنسی تحقیق اور سائنسی اصطلاحات (Scientific Research) (Part 1)",
+    "title": "سفارت کاری، سفارتی آداب اور کونسلر خدمات (Diplomacy, Protocol & Consular Services)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 30.1) with authentic precision.",
+    "objective": "سفارت کاری، سفیر کی تعیناتی، اسنادِ سفارت، ویانا کنونشن کے تحت سفارتی استثنا (Diplomatic Immunity)، اور کونسلر خدمات کے باوقار بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں سفارت کاری اور بین الاقوامی سفارتی تعلقات (Diplomacy & Consular Affairs):\n\n1. **سفارتی مشن اور تعیناتی کا طریقہ کار**:\n   - «**سفیر (Ambassador)** یا ہائی کمشنر کی نامزدگی»؛\n   - «میزبان ملک کے صدر کو **اسنادِ سفارت (Credentials)** پیش کرنا»؛\n   - «**سفارتی آداب (Diplomatic Protocol)** اور باضابطہ مراسلت»۔\n\n2. **سفارتی استثنا اور قونصلر خدمات**:\n   - «ویانا کنونشن کے تحت **سفارتی استثنا (Diplomatic Immunity)**»؛\n   - «**قونصل خانے (Consulates)** اور تارکینِ وطن کے حقوق کا تحفظ»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "نئے متعین ہونے والے سفیر نے باضابطہ سفارتی تقریب میں ریاست کے سربراہ کو اپنی اسنادِ سفارت پیش کر کے سفارتی مشن کا آغاز کیا۔",
+          "reading": "Naye muta'ayyan honay waalay safeer ne baa-zaabita safaarati taqreeb mein riyaasat ke sar-baraah ko apni asnaad-e-safaarat peish kar ke safaarati mission ka aaghaaz kiya. [nəjeː mʊt̪əʔəjːən hoːneː ʋaːleː səfiːr neː baː-zaːbɪt̪aː səfaːrət̪iː t̪əqriːb mẽː rɪjaːsət̪ keː sər-bəraːh koː əpniː əsnaːd̪-eː-səfaːrət̪ peːʃ kər keː səfaːrət̪iː mɪʃən kaː aːɣaːz kɪjaː] (nuh-YAY moo-tuh-uhy-YUHN hoh-NAY vah-LAY suh-FEER nay bah-zah-bee-TAH suh-fah-ruh-TEE tuhq-REEB mayn ree-yah-SUHT kay suhr-buh-RAHH koh uhp-NEE uhs-NAHD-ay-suh-fah-RUHT paysh kuhr kay suh-fah-ruh-TEE mission kah ah-GHAHZ kee-YAH)",
+          "translation": "The newly appointed ambassador [diplomacy: safeer] initiated his diplomatic mission by presenting his credentials [diplomatic term: asnaad-e-safaarat] to the head of state in a formal diplomatic ceremony."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 30-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ویانا کنونشن کے تحت سفارت کاروں کو حاصل سفارتی استثنا اور سفارت خانے کے احاطے کی خودمختاری بین الاقوامی قانون کا بنیادی ستون ہے۔",
+          "reading": "Vienna Convention ke tehat safaart-kaaron ko haasil safaarati istisna aur safaarat-khaanay ke ehaatay ki khud-mukhtaari bain-ul-aqwaami qaanoon ka bunyaadi sutoon hai. [ʋɪjeːnaː kənʋɛnʃən keː t̪əɦət̪ səfaːrət̪-kaːrõː koː haːsɪl səfaːrət̪iː ɪst̪ɪsnaː ɔːr səfaːrət̪-xaːneː keː ɪhaːt̪eː kiː xʊd̪-mʊxt̪aːriː bɛːn-ʊl-əqʋaːmiː qaːnuːn kaː bʊnjaːd̪iː sʊtuːn hɛː] (Vienna convention kay tuh-HUHT suh-fah-ruht-kah-ROHN koh hah-SEEL suh-fah-ruh-TEE ees-tees-NAH owr suh-fah-ruht-khah-NAY kay ee-hah-TAY kee khohd-mookh-tah-REE byn-ool-uhq-VAH-mee qah-NOON kah boon-yah-DEE soo-TOON HY)",
+          "translation": "Diplomatic immunity granted to diplomats under the Vienna Convention and the inviolability of embassy premises form the foundational pillar of international law."
+        },
+        {
+          "target": "قونصل خانے کے فرائض میں بیرونِ ملک مقیم شہریوں کے پاسپورٹ و ویزا کے امور کی انجام دہی اور مشکل حالات میں ان کے حقوق کا تحفظ شامل ہے۔",
+          "reading": "Consulate ke faraa'iz mein beroon-e-mulk muqeem shehrion ke passport o visa ke umoor ki anjaam-dahi aur mushkil haalaat mein un ke huqooq ka tahaffuz shaamil hai. [qɔːnsʊl-xaːneː keː fəraːʔɪz mẽː beːruːn-eː-mʊlk mʊqiːm ʃɛɦrɪjõː keː paːspɔːrʈ oː ʋiːzaː keː ʊmuːr kiː əndʒaːm-d̪əhiː ɔːr mʊʃkɪl haːlaːt̪ mẽː ʊn keː hʊquːq kaː t̪əhəfːʊz ʃaːmɪl hɛː] (consulate kay fuh-rah-EEZ mayn bay-ROON-ay-MOOLK moo-QEEM shyh-ree-YOHN kay passport oh visa kay oo-MOOR kee uhn-jahm-duh-HEE owr moosh-KEEL hah-LAHT mayn OON kay hoo-QOOQ kah tuh-huhf-FOOZ shah-MEEL HY)",
+          "translation": "The duties of a consulate include the processing of passport and visa affairs for overseas citizens and protecting their rights in challenging situations."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "سفارت کاری کے اصول: سفیر + اسنادِ سفارت + ویانا کنونشن (سفارتی استثنا) + قونصلر خدمات!"
+      ],
+      "culturalNotes": [
+        "پاکستان کے دارالحکومت اسلام آباد میں ڈپلومیٹک انکلیو تمام غیر ملکی سفارت خانوں اور بین الاقوامی مشنز کا مرکزی محفوظ علاقہ ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"امتحان\":",
+          "prompt": "کسی دوسرے ملک میں ریاست کی باضابطہ نمائندگی کرنے والے اعلیٰ ترین سفارت کار کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («نتیجہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («لائبریری» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ڈگری» کی خرابی)"
+            "سفیر / ہائی کمشنر (Ambassador / High Commissioner - Highest accredited diplomatic envoy)",
+            "صرف کلرک",
+            "صرف چوکیدار",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "ریاست کے اعلیٰ ترین نمائندے کو «سفیر» (Ambassador) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"امتحان\":",
+          "prompt": "بین الاقوامی قانون (ویانا کنونشن) کے تحت سفارت کاروں کو حاصل قانونی تحفظ کو کیا کہا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («لائبریری» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ڈگری» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («نتیجہ» کا غیر درست استعمال)"
+            "سفارتی استثنا (Diplomatic Immunity - Legal protections and exemptions granted under Vienna Convention)",
+            "صرف ٹول ٹیکس کی چھوٹ",
+            "صرف بس کا ٹکٹ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "سفارت کاروں کے قانونی تحفظ کو «سفارتی استثنا» (Diplomatic Immunity) کہا جاتا ہے۔"
         }
       ]
     },
@@ -12429,17 +12438,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"امتحان\": Which sentence is completely correct?",
+          "prompt": "سفارت کاری اور سفارتی آداب (Diplomacy & Consular Affairs) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ڈگری» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («نتیجہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («لائبریری» سے متعلق)"
+            "سفیر نے ریاست کے سربراہ کو اسنادِ سفارت پیش کیں جبکہ ویانا کنونشن کے تحت سفارتی استثنا اور قونصلر خدمات دو طرفہ تعلقات کو مستحکم بناتی ہیں۔ (The ambassador presented credentials while diplomatic immunity under Vienna Convention and consular services strengthen bilateral ties.)",
+            "سفیر نے سفارت خانے کو کڑاہی میں پکا کر گاڑی چلائی تھی۔",
+            "اسنادِ سفارت صرف بس کا پاس ہوتا ہے۔",
+            "سفارتی استثنا کا مطلب کسی کو سلام نہ کرنا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«سفیر نے ریاست کے سربراہ کو اسنادِ سفارت پیش کیں جبکہ ویانا کنونشن کے تحت سفارتی استثنا اور قونصلر خدمات دو طرفہ تعلقات کو مستحکم بناتی ہیں۔» سفارتی بیانیے کا کامل جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u30-l2": {
@@ -12447,53 +12457,62 @@
     "subject": "urdu",
     "unit": 30,
     "lessonNumber": 2,
-    "title": "سائنسی تحقیق اور سائنسی اصطلاحات (Scientific Research) (Part 2)",
+    "title": "اقوامِ متحدہ، کثیر القومی معاہدات اور سلامتی کونسل (United Nations, Treaties & Security Council)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 30.2) with authentic precision.",
+    "objective": "اقوامِ متحدہ (UN)، جنرل اسمبلی، سلامتی کونسل، قراردادیں، ویٹو پاور، اور عالمی امن مشنز کے بین الاقوامی سفارتی بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں اقوامِ متحدہ اور عالمی امن کا سفارتی ڈھانچہ (United Nations & International Peace):\n\n1. **اقوامِ متحدہ کے کلیدی ادارے**:\n   - «**اقوامِ متحدہ کی جنرل اسمبلی (General Assembly)**»: تمام رکن ممالک کا سالانہ عالمی فورم؛\n   - «**سلامتی کونسل (Security Council)**»: عالمی امن و سلامتی کی نگراں باڈی؛\n   - «**ویٹو پاور (Veto Power)**»: مستقل پانچ ارکان کا خصوصی اختیاری حق۔\n\n2. **کثیر القومی معاہدات اور امن مشنز**:\n   - «عالمی قراردادوں (UN Resolutions) پر عمل درآمد»；\n   - «اقوامِ متحدہ کے **امن مشنز (Peacekeeping Missions)** میں خدمات»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اقوامِ متحدہ کی جنرل اسمبلی کے سالانہ اجلاس میں رکن ممالک عالمی تنازعات کے پرامن حل اور پائیدار ترقی کے اہداف پر اظہارِ خیال کرتے ہیں۔",
+          "reading": "Aqwaam-e-Muttahida ki General Assembly ke saalaana ijlaas mein rukn mamaalik aalami tanaaza'aat ke pur-amn hal aur paa'idaar taraqqi ke ahdaaf par izhaar-e-khayaal kartay hain. [əqʋaːm-eː-mʊt̪ːəhɪd̪aː kiː dʒɛnrəl əsɛmbliː keː saːlaːnaː ɪdʒlaːs mẽː rʊkn məmaːlɪk aːləmiː t̪ənaːzəʔaːt̪ keː pʊr-əmn həl ɔːr paːʔɪd̪aːr t̪ərəqːiː keː əhdaːf pər ɪzɦaːr-eː-xəjaːl kərt̪eː hɛ̃ː] (uhq-WAHM-ay-moot-tuh-hee-DAH kee general assembly kay sah-LAH-nah eej-LAHS mayn ROOKN muh-MAH-leek ah-luh-MEE tuh-nah-zuh-AHT kay poor-UHMN HUHL owr pah-ee-DAHR tuh-ruhq-QEE kay uhh-DAHF puhr eez-HAHR-ay-khuh-YAHL kuhr-TAY HYN)",
+          "translation": "At the annual session of the United Nations General Assembly [international affairs: Aqwaam-e-Muttahida], member states deliberate on the peaceful resolution of global conflicts and Sustainable Development Goals."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 30-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "سلامتی کونسل کی منظور شدہ قراردادیں عالمی امن و امان کے قیام اور متنازعہ علاقوں میں حقِ خود ارادیت کی بنیاد فراہم کرتی ہیں۔",
+          "reading": "Salaamati Council ki manzoor-shuda qaraardaadein aalami amn-o-amaan ke qayaam aur mutanaaza'a ilaaqon mein haq-e-khud-iraadiyat ki bunyaad faraaham karti hain. [səlaːmət̪iː kɔːnsɪl kiː mənzuːr-ʃʊd̪aː qəraːrdaːd̪ẽː aːləmiː əmn-oː-əmaːn keː qəjaːm ɔːr mʊt̪ənaːzəʔaː ɪlaːqõː mẽː həq-eː-xʊd̪-ɪraːd̪ɪjət̪ kiː bʊnjaːd̪ fəraːhəm kərt̪iː hɛ̃ː] (suh-lah-muh-TEE council kee muhn-zoor-shoo-DAH quh-rahr-dah-DEEN ah-luh-MEE uhmn-oh-uh-MAHN kay quh-YAHM owr moo-tuh-nah-zuh-AH ee-lah-QOHN mayn HUHQ-ay-khohd-ee-rah-dee-YUHT kee boon-YAHD fuh-rah-HUHM kuhr-TEE HYN)",
+          "translation": "Resolutions adopted by the UN Security Council [UNSC: Salaamati Council] provide the foundation for establishing global peace and the right to self-determination in disputed regions."
+        },
+        {
+          "target": "پاکستانی امن فوجیوں نے افریقہ اور دنیا کے جنگ زدہ خطوں میں اقوامِ متحدہ کے امن مشنز کے تحت لازوال خدمات اور قربانیاں پیش کیں۔",
+          "reading": "Pakistani amn faujion ne Africa aur dunya ke jung-zada kheeton mein Aqwaam-e-Muttahida ke amn missions ke tehat laa-zawaal khidmaat aur qurbaaniyaan peish keen. [paːkɪst̪aːniː əmn fɔːdʒɪjõː neː ɛfrɪqaː ɔːr d̪ʊnjaː keː dʒəŋɡ-zəd̪aː xiːt̪õː mẽː əqʋaːm-eː-mʊt̪ːəhɪd̪aː keː əmn mɪʃənz keː t̪əɦət̪ laː-zəʋaːl xɪd̪maːt̪ ɔːr qʊrbaːnɪjãː peːʃ kĩː] (pah-kees-TAH-nee UHMN fow-jee-YOHN nay Africa owr doon-YAH kay juhng-zuh-DAH khee-TOHN mayn uhq-WAHM-ay-moot-tuh-hee-DAH kay UHMN missions kay tuh-HUHT lah-zuh-WAHL kheed-MAHT owr qoor-bah-nee-YAHN paysh KEEN)",
+          "translation": "Pakistani peacekeepers rendered immortal services and sacrifices under UN peacekeeping missions in war-torn regions of Africa and across the world."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "اقوامِ متحدہ: جنرل اسمبلی + سلامتی کونسل (ویٹو پاور) + منظور شدہ قراردادیں + امن مشنز!"
+      ],
+      "culturalNotes": [
+        "پاکستان اقوامِ متحدہ کے امن مشنز میں سب سے زیادہ اور مؤثر ترین دستے بھیجنے والے سرکردہ ممالک میں شامل ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"نتیجہ\":",
+          "prompt": "اقوامِ متحدہ کے اس بااختیار ادارے کو کیا کہتے ہیں جو بین الاقوامی امن و سلامتی برقرار رکھنے کا ذمہ دار ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («لائبریری» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ڈگری» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («قلم» کی خرابی)"
+            "سلامتی کونسل (UN Security Council - Principal organ responsible for international peace)",
+            "صرف سیاحتی کلب",
+            "صرف بلدیاتی کمیٹی",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "عالمی امن کی ضامن باڈی کو «سلامتی کونسل» (Security Council) کہا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"نتیجہ\":",
+          "prompt": "سلامتی کونسل کے پانچ مستقل ارکان کو حاصل کسی بھی فیصلے کو روکنے کے خصوصی اختیار کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ڈگری» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («قلم» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («لائبریری» کا غیر درست استعمال)"
+            "ویٹو پاور / حقِ استرداد (Veto Power - Power of permanent members to block substantive resolutions)",
+            "صرف ووٹ کی رسید",
+            "صرف شناختی کارڈ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "کسی قرارداد کو مسترد کرنے کی خصوصی طاقت کو «ویٹو پاور» (Veto Power) کہتے ہیں۔"
         }
       ]
     },
@@ -12501,17 +12520,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"نتیجہ\": Which sentence is completely correct?",
+          "prompt": "اقوامِ متحدہ اور سلامتی کونسل (United Nations & Security Council) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («قلم» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («لائبریری» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ڈگری» سے متعلق)"
+            "اقوامِ متحدہ کی جنرل اسمبلی اور سلامتی کونسل کی قراردادیں عالمی تنازعات کے پرامن حل، خودمختاری کے احترام اور بین الاقوامی امن کے قیام کا سنگِ میل ہیں۔ (UN General Assembly and Security Council resolutions form the milestone for peaceful conflict resolution and global peace.)",
+            "سلامتی کونسل نے چائے پی کر قلم کو سمندر میں پھینکا تھا اور روئی تھی۔",
+            "ویٹو پاور صرف اسکول کے مانیٹر کو ملتی ہے۔",
+            "اقوامِ متحدہ میں کسی ملک کو بولنے کی اجازت نہیں ہوتی۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اقوامِ متحدہ کی جنرل اسمبلی اور سلامتی کونسل کی قراردادیں عالمی تنازعات کے پرامن حل، خودمختاری کے احترام اور بین الاقوامی امن کے قیام کا سنگِ میل ہیں۔» عالمی امور کا جامع ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u30-l3": {
@@ -12519,53 +12539,62 @@
     "subject": "urdu",
     "unit": 30,
     "lessonNumber": 3,
-    "title": "سائنسی تحقیق اور سائنسی اصطلاحات (Scientific Research) (Part 3)",
+    "title": "خارجہ پالیسی، دو طرفہ تعلقات اور سی پیک (Foreign Policy, Bilateral Ties & CPEC)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 30.3) with authentic precision.",
+    "objective": "خارجہ پالیسی کے رہنما اصول، پرامن بقائے باہمی، دو طرفہ اسٹریٹجک تعلقات، پاک چین اقتصادی راہداری (CPEC)، اور جیو اکنامکس پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں پاکستان کی خارجہ پالیسی اور اقتصادی سفارت کاری (Foreign Policy & Geo-economics):\n\n1. **خارجہ پالیسی کے اساسی اصول**:\n   - «**پرامن بقائے باہمی (Peaceful Coexistence)** اور عدم مداخلت»؛\n   - «ریاستی خود مختاری اور علاقائی سالمیت کا غیر متزلزل تحفظ»؛\n   - «جغرافیائی سیاست (Geopolitics) سے **جغرافیائی معیشت (Geoeconomics)** کی طرف منتقلی»۔\n\n2. **پاک چین تعلقات اور سی پیک (CPEC)**:\n   - «**پاک چین اقتصادی راہداری**»: شاہراہِ ریشم اور گوادر پورٹ کا عظیم منصوبہ؛\n   - «علاقائی رابطے (Regional Connectivity) اور تجارتی راہداریاں»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "پاکستان کی خارجہ پالیسی کا بنیادی اصول تمام ہمسایہ اور برادر ممالک کے ساتھ باہمی احترام، عدم مداخلت اور پرامن بقائے باہمی پر استوار ہے۔",
+          "reading": "Pakistan ki khaarija policy ka bunyaadi usool tamaam humsaaya aur biraadar mamaalik ke saath baahami ehtiraam, adam-e-mudaakhilat aur pur-amn baqaa-e-baahami par ustuwaar hai. [paːkɪst̪aːn kiː xaːrɪdʒaː pɔːlɪsiː kaː bʊnjaːd̪iː ʊsuːl t̪əmaːm hʊmsaːjaː ɔːr bɪraːd̪ər məmaːlɪk keː saːt̪ʰ baːhəmiː ɪht̪ɪraːm əd̪əm-eː-mʊd̪aːxɪlət̪ ɔːr pʊr-əmn bəqaː-eː-baːhəmiː pər ʊst̪ʊʋaːr hɛː] (pah-kees-TAHN kee khah-ree-JAH policy kah boon-yah-DEE oo-SOOL tuh-MAHM hoom-sah-YAH owr bee-rah-DUHR muh-MAH-leek kay SAHTH bah-huh-MEE eh-tee-RAHM, uh-duhm-ay-moo-dah-khee-LUHT owr poor-UHMN buh-qah-ay-bah-huh-MEE puhr oos-too-WAHR HY)",
+          "translation": "The foundational principle of Pakistan's foreign policy [foreign policy: khaarija policy] is anchored in mutual respect, non-interference, and peaceful coexistence with all neighboring and fraternal countries."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 30-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "پاک چین اقتصادی راہداری (سی پیک) نہ صرف دو طرفہ اسٹریٹجک شراکت داری کا مظہر ہے بلکہ وسطی ایشیا اور مشرقِ وسطیٰ کو جوڑنے والا عظیم معاشی پل ہے۔",
+          "reading": "Pak-China Economic Corridor (CPEC) na sirf do-tarfa strategic shiraakat-daari ka mazhar hai balkeh Wasti Asia aur Mashriq-e-Wusta ko jornay waala azeem ma'aashi pull hai. [paːk-tʃiːn ɪqt̪ɪsaːd̪iː raːhdaːriː siː-pɛk nə sɪrf d̪oː-t̪ərfaː sʈreːʈɛdʒɪk ʃɪraːkət̪-d̪aːriː kaː məzɦər hɛː bəlkɛh ʋəst̪iː eːʃɪjaː ɔːr məʃrɪq-eː-ʋʊst̪aː koː dʒoːɽneː ʋaːlaː əziːm məʔaːʃiː pʊl hɛː] (PAHK-cheen eeq-tee-sah-DEE rah-hdah-REE CPEC nuh SEERF DOH-tuhr-fah strategic shee-rah-kuht-dah-REE kah MUHZ-huhr HY buhl-KYH wuhs-TEE Asia owr muhsh-REEQ-ay-woos-TAH koh jor-NAY vah-LAH uh-ZEEM muh-ah-SHEE POOL HY)",
+          "translation": "The China-Pakistan Economic Corridor (CPEC) is not merely a manifestation of bilateral strategic partnership, but a grand economic bridge linking Central Asia and the Middle East."
+        },
+        {
+          "target": "علاقائی امن اور اقتصادی خوشحالی کے لیے خارجہ پالیسی کو جغرافیائی سیاست کی بجائے جغرافیائی معیشت یعنی جیو اکنامکس کی ترجیحات سے ہم آہنگ کیا جا رہا ہے۔",
+          "reading": "Elaaqaa'i amn aur iqtisaadi khushhaali ke liye khaarija policy ko jughraafiyaa'i siyaasat ki bajaaye jughraafiyaa'i ma'eeshat ya'ni geo-economics ki tarjeehaat se hum-aahang kiya ja raha hai. [ɪlaːqaːʔiː əmn ɔːr ɪqt̪ɪsaːd̪iː xʊʃhaːliː keː lɪjeː xaːrɪdʒaː pɔːlɪsiː koː dʒʊɣraːfɪjaːʔiː sɪjaːsət̪ kiː bədʒaːʔeː dʒʊɣraːfɪjaːʔiː məʔiːʃət̪ jəʔniː dʒiːʔoː-ɪkənɔːmɪks kiː t̪ərdʒiːhaːt̪ seː həm-aːɦəŋɡ kɪjaː dʒaː rəhaː hɛː] (ee-lah-QAH-ee UHMN owr eeq-tee-sah-DEE khoosh-hah-LEE kay lee-AY khah-ree-JAH policy koh joogh-rah-fee-YAH-ee see-yah-SUHT kee buh-JAH-ay joogh-rah-fee-YAH-ee muh-EE-shuht yuh-NEE geo-economics kee tuhr-jee-HAHT say huhm-ah-huhn-G kee-YAH jah ruh-HAH HY)",
+          "translation": "For regional peace and economic prosperity, foreign policy is being aligned with the priorities of geoeconomics rather than geopolitics."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "خارجہ پالیسی: پرامن بقائے باہمی + عدم مداخلت + جیو اکنامکس + سی پیک تجارتی راہداری!"
+      ],
+      "culturalNotes": [
+        "گوادر کی گہرے سمندر کی قدرتی بندرگاہ سی پیک کا دل ہے جو بحرِ ہند کے تجارتی راستوں کو مختصر بناتی ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"لائبریری\":",
+          "prompt": "پاکستان اور چین کے مابین اربوں ڈالر کے تاریخی تجارتی اور انفراسٹرکچر منصوبے کا کیا نام ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («ڈگری» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («قلم» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بینک» کی خرابی)"
+            "پاک چین اقتصادی راہداری / سی پیک (CPEC - China-Pakistan Economic Corridor)",
+            "صرف مقامی شاہراہ",
+            "صرف رکشہ اسکیم",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "اس فلیگ شپ منصوبے کو «سی پیک» (CPEC) کہا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"لائبریری\":",
+          "prompt": "خارجہ پالیسی میں طاقت کی سیاست (Geopolitics) کے مقابلے میں تجارتی اور معاشی ترقی کو ترجیح دینے کے تصور کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («قلم» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بینک» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ڈگری» کا غیر درست استعمال)"
+            "جغرافیائی معیشت / جیو اکنامکس (Geoeconomics - Prioritizing economic connectivity and trade over political rivalry)",
+            "صرف زرعی منڈی",
+            "صرف ریلوے ٹکٹ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "معاشی مفادات پر مبنی سفارت کاری کو «جیو اکنامکس» (Geoeconomics) کہتے ہیں۔"
         }
       ]
     },
@@ -12573,17 +12602,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"لائبریری\": Which sentence is completely correct?",
+          "prompt": "خارجہ پالیسی اور اقتصادی سفارت کاری (Foreign Policy & CPEC) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بینک» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ڈگری» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («قلم» سے متعلق)"
+            "پاکستان کی خارجہ پالیسی پرامن بقائے باہمی، عدم مداخلت اور سی پیک جیسے جیو اکنامک منصوبوں کے ذریعے علاقائی رابطوں اور معاشی خوشحالی کے فروغ پر مرکوز ہے۔ (Pakistan's foreign policy focuses on peaceful coexistence, non-interference, and geoeconomic projects like CPEC for regional prosperity.)",
+            "خارجہ پالیسی نے سی پیک کو ہانڈی میں پکا کر گاڑی چلائی تھی۔",
+            "سی پیک کا مطلب صرف سائیکل کی مرمت کرنا ہے۔",
+            "عدم مداخلت کا مطلب ہر ملک پر حملہ کرنا ہوتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«پاکستان کی خارجہ پالیسی پرامن بقائے باہمی، عدم مداخلت اور سی پیک جیسے جیو اکنامک منصوبوں کے ذریعے علاقائی رابطوں اور معاشی خوشحالی کے فروغ پر مرکوز ہے۔» خارجہ پالیسی کا کامل ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u30-l4": {
@@ -12591,53 +12621,62 @@
     "subject": "urdu",
     "unit": 30,
     "lessonNumber": 4,
-    "title": "سائنسی تحقیق اور سائنسی اصطلاحات (Scientific Research) (Part 4)",
+    "title": "علاقائی تنظیمیں، سارک، شنگھائی تعاون تنظیم اور او آئی سی (Regional Blocs: SCO, OIC & SAARC)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 30.4) with authentic precision.",
+    "objective": "علاقائی تنظیموں (SCO، OIC، SAARC)، سربراہی کانفرنسوں، مشترکہ اعلامیے، اور کثیر الجہتی مذاکرات کے سفارتی بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں علاقائی بلاکس اور کثیر الجہتی سفارت کاری (Regional Blocs & Multilateral Summits):\n\n1. **اہم علاقائی تنظیمیں**:\n   - «**شنگھائی تعاون تنظیم (SCO)**»: یوریشیا میں سلامتی، تجارت اور انسدادِ دہشت گردی؛\n   - «**اسلامی تعاون تنظیم (OIC)**»: عالمِ اسلام کی نمائندہ تنظیم؛\n   - «**سارک (SAARC)**»: جنوبی ایشیائی ممالک کا علاقائی تعاون۔\n\n2. **سربراہی اجلاس اور مشترکہ اعلامیہ**:\n   - «سربراہانِ مملکت کی کانفرنس (Summit Conference)»；\n   - «مذاکرات کے بعد **مشترکہ اعلامیہ (Joint Communiqué)** کی توثیق»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "شنگھائی تعاون تنظیم (ایس سی او) کے وزرائے خارجہ کے اجلاس میں خطے میں دہشت گردی کے خاتمے، تجارتی راہداریوں اور باہمی رابطوں کے فروغ پر تفصیلی غور کیا گیا۔",
+          "reading": "SCO ke wuzara-e-khaarija ke ijlaas mein khittay mein dehshat-gardi ke khaatmay, tijaarati raahdaariyon aur baahami raabton ke farogh par tafseeli ghaur kiya gaya. [ɛs siː oː keː ʋʊzəraː-eː-xaːrɪdʒaː keː ɪdʒlaːs mẽː xɪt̪ːeː mẽː d̪ɛhʃət̪-ɡərdiː keː xaːt̪meː t̪ɪdʒaːrət̪iː raːhdaːrɪjõː ɔːr baːhəmiː raːbtõː keː fəroːɣ pər t̪əfsiːliː ɣɔːr kɪjaː ɡəjaː] (SCO kay woo-zuh-rah-ay-khah-ree-JAH kay eej-LAHS mayn kheet-TAY mayn dyh-shuht-guhr-DEE kay khaht-MAY, tee-jah-ruh-TEE rah-hdah-ree-YOHN owr bah-huh-MEE rahb-TOHN kay fuh-ROHGH puhr tuhf-see-LEE GHOUR kee-YAH guh-YAH)",
+          "translation": "In the meeting of Foreign Ministers of the Shanghai Cooperation Organisation (SCO) [regional bloc: SCO], detailed deliberations were held on eradicating regional terrorism, developing trade corridors, and promoting mutual connectivity."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 30-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "او آئی سی کی سربراہی کانفرنس نے متفقہ طور پر مظلوم اقوام کے حقِ خود ارادیت اور اسلامو فوبیا کے تدارک کے لیے ٹھوس اقدامات کی منظوری دی۔",
+          "reading": "OIC ki sar-baraahi conference ne muttafiqa taur par mazloom aqwaam ke haq-e-khud-iraadiyat aur Islamophobia ke tadaaruk ke liye thos iqdaamaat ki manzoori dee. [oː aːiː siː kiː sər-bəraːhiː kɔːnfərəns neː mʊt̪ːəfɪqaː t̪ɔːr pər məzluːm əqʋaːm keː həq-eː-xʊd̪-ɪraːd̪ɪjət̪ ɔːr ɪslaːmoːfoːbɪjaː keː t̪əd̪aːrʊk keː lɪjeː t̪ʰoːs ɪqdaːmaːt̪ kiː mənzuːriː d̪iː] (OIC kee suhr-buh-RAH-hee conference nay moot-tuh-fee-QAH TOUR puhr muhz-LOOM uhq-WAHM kay HUHQ-ay-khohd-ee-rah-dee-YUHT owr Islamophobia kay tuh-dah-ROOK kay lee-AY THOHS eeq-dah-MAHT kee muhn-zoo-REE DEE)",
+          "translation": "The OIC Summit Conference [Islamic bloc: OIC] unanimously approved concrete measures for the right to self-determination of oppressed nations and combating Islamophobia."
+        },
+        {
+          "target": "سربراہی اجلاس کے اختتام پر جاری ہونے والے مشترکہ اعلامیے میں علاقائی امن، تنازعات کے پرامن حل اور کثیر الجہتی تعاون کے عزم کا اعادہ کیا گیا۔",
+          "reading": "Sar-baraahi ijlaas ke ikhtitaam par jaari honay waalay mushtarika e'laamiye mein elaaqaa'i amn, tanaaza'aat ke pur-amn hal aur kaseer-ul-jihati ta'aawun ke azm ka e'aada kiya gaya. [sər-bəraːhiː ɪdʒlaːs keː ɪxt̪ɪt̪aːm pər dʒaːriː hoːneː ʋaːleː mʊʃt̪ərɪkaː ɪʔlaːmɪjeː mẽː ɪlaːqaːʔiː əmn t̪ənaːzəʔaːt̪ keː pʊr-əmn həl ɔːr kəsiːr-ʊl-dʒɪhət̪iː t̪əʔaːʋʊn keː əzm kaː ɪʔaːd̪aː kɪjaː ɡəjaː] (suhr-buh-RAH-hee eej-LAHS kay eekh-tee-TAHM puhr jah-REE hoh-NAY vah-LAY moosh-tuh-ree-KAH eh-lah-mee-YAY mayn ee-lah-QAH-ee UHMN, tuh-nah-zuh-AHT kay poor-UHMN HUHL owr kuh-seer-ool-jee-huh-TEE tuh-AH-woon kay UHZM kah eh-AH-dah kee-YAH guh-YAH)",
+          "translation": "The joint communiqué issued at the conclusion of the summit reaffirmed the commitment to regional peace, peaceful conflict resolution, and multilateral cooperation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "علاقائی تعاون: شنگھائی تنظیم (SCO) + اسلامی تعاون (OIC) + سربراہی سمٹ + مشترکہ اعلامیہ!"
+      ],
+      "culturalNotes": [
+        "اسلام آباد میں منعقدہ تاریخی او آئی سی سربراہی کانفرنسوں اور ایس سی او اجلاسوں نے پاکستان کے مرکزی سفارتی مقام کو دنیا بھر میں نمایاں کیا۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"ڈگری\":",
+          "prompt": "کسی بین الاقوامی سربراہی کانفرنس کے اختتام پر تمام ممالک کی طرف سے جاری کردہ متفقہ دستاویز کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («قلم» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بینک» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کھاتہ» کی خرابی)"
+            "مشترکہ اعلامیہ (Joint Communiqué - Official agreed declaration issued after a diplomatic summit)",
+            "صرف اخباری اشتہار",
+            "صرف رسید",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "متفقہ باضابطہ بیان کو «مشترکہ اعلامیہ» (Joint Communiqué) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"ڈگری\":",
+          "prompt": "دنیا بھر کی 57 مسلم ریاستوں کی نمائندگی کرنے والی بااثر بین الاقوامی تنظیم کا کیا نام ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بینک» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کھاتہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («قلم» کا غیر درست استعمال)"
+            "اسلامی تعاون تنظیم / او آئی سی (OIC - Organisation of Islamic Cooperation)",
+            "ناٹو",
+            "یورپی یونین",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مسلم ممالک کے بلاک کو «او آئی سی» (OIC) کہا جاتا ہے۔"
         }
       ]
     },
@@ -12645,17 +12684,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"ڈگری\": Which sentence is completely correct?",
+          "prompt": "علاقائی تنظیموں اور کثیر الجہتی سمٹس (Regional Blocs & SCO/OIC) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کھاتہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («قلم» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بینک» سے متعلق)"
+            "شنگھائی تعاون تنظیم اور او آئی سی کے سربراہی اجلاسوں میں مشترکہ اعلامیہ جاری کر کے علاقائی سلامتی، تجارتی راہداریوں اور پرامن بقائے باہمی کی توثیق کی گئی۔ (Summit meetings of SCO and OIC issued joint communiqués affirming regional security, trade corridors, and peaceful coexistence.)",
+            "او آئی سی نے سمٹ کو پانی میں دھو کر گاڑی پر بٹھایا تھا روئی تھی۔",
+            "مشترکہ اعلامیہ صرف اسکول کے بچوں کا ہوم ورک ہوتا ہے۔",
+            "شنگھائی تنظیم میں کسی قسم کے مذاکرات نہیں ہوتے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«شنگھائی تعاون تنظیم اور او آئی سی کے سربراہی اجلاسوں میں مشترکہ اعلامیہ جاری کر کے علاقائی سلامتی، تجارتی راہداریوں اور پرامن بقائے باہمی کی توثیق کی گئی۔» بین الاقوامی کانفرنسوں کا مستند ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u30-l5": {
@@ -12663,53 +12703,62 @@
     "subject": "urdu",
     "unit": 30,
     "lessonNumber": 5,
-    "title": "سائنسی تحقیق اور سائنسی اصطلاحات (Scientific Research) (Part 5)",
+    "title": "سفارت کاری، خارجہ پالیسی اور بین الاقوامی تعلقات کا جامع سمیکن (Diplomacy & Foreign Affairs Grand Synthesis)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 30.5) with authentic precision.",
+    "objective": "سفارت کاری، اقوامِ متحدہ کا چارٹر، خارجہ پالیسی، سی پیک، اور علاقائی تنظیموں کو ایک باوقار، مدلل اور عالمی سائنسی و سیاسی شاہکار میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "سفارت کاری، خارجہ پالیسی اور بین الاقوامی تعلقات کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **بین الاقوامی امور کے تمام ستونوں کا احاطہ**:\n   - **سفارتی نظام**: «سفیر، اسنادِ سفارت، سفارتی آداب اور ویانا کنونشن کا استثنا»؛\n   - **عالمی ادارے**: «اقوامِ متحدہ کی جنرل اسمبلی، سلامتی کونسل اور امن مشنز»؛\n   - **خارجہ پالیسی و جیو اکنامکس**: «پرامن بقائے باہمی، عدم مداخلت، اور سی پیک راہداری»؛\n   - **علاقائی بلاکس**: «شنگھائی تعاون تنظیم (SCO)، او آئی سی اور متفقہ مشترکہ اعلامیے»۔\n\n2. **عالمی سفارت اور اردو کی بین الاقوامی وسعت**:\n   - یہ زبان اردو کے سفارتی معاہدات، بین الاقوامی پریس ریلیز اور خارجہ بیانات کا شاہکار ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ایک باوقار اور خود مختار خارجہ پالیسی اقوامِ متحدہ کے منشور، باہمی احترام، اور عالمی امن کے سنہری اصولوں پر مبنی ہوتی ہے جو ملک کے بین الاقوامی تشخص کو بلند کرتی ہے۔",
+          "reading": "Aik baa-waqaar aur khud-mukhtaar khaarija policy Aqwaam-e-Muttahida ke manshoor, baahami ehtiraam, aur aalami amn ke sunehri usoolon par mabni hoti hai jo mulk ke bain-ul-aqwaami tashakhkhus ko buland karti hai. [eːk baː-ʋəqaːr ɔːr xʊd̪-mʊxt̪aːr xaːrɪdʒaː pɔːlɪsiː əqʋaːm-eː-mʊt̪ːəhɪd̪aː keː mənʃuːr baːhəmiː ɪht̪ɪraːm ɔːr aːləmiː əmn keː sʊnɛɦriː ʊsuːlõː pər məbniː hoːt̪iː hɛː dʒoː mʊlk keː bɛːn-ʊl-əqʋaːmiː t̪əʃəxːʊs koː bʊlənd̪ kərt̪iː hɛː] (AYK bah-wuh-QAHR owr khohd-mookh-TAHR khah-ree-JAH policy uhq-WAHM-ay-moot-tuh-hee-DAH kay muhn-SHOOR, bah-huh-MEE eh-tee-RAHM, owr ah-luh-MEE UHMN kay soo-nyh-REE oo-SOO-lohn puhr muhb-NEE hoh-TEE HY joh MOOLK kay byn-ool-uhq-VAH-mee tuh-shuhkh-KHOOS koh boo-LUHND kuhr-TEE HY)",
+          "translation": "A dignified and sovereign foreign policy [diplomacy synthesis: khaarija policy] is anchored in the UN Charter, mutual respect, and golden principles of global peace that elevate the nation's international standing."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 30-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "سفارتی آداب کی پاسداری، دو طرفہ اقتصادی راہداریوں کی تعمیر اور شنگھائی تعاون تنظیم جیسے فورمز پر متحرک کردار ہی اکیسویں صدی میں جیو اکنامکس کی کامیابی کا ضامن ہے۔",
+          "reading": "Safaarati aadaab ki paasdaari, do-tarfa iqtisaadi raahdaariyon ki ta'meer aur SCO jaisay forums par mutaharrik kirdaar hi ikkisween sadi mein geo-economics ki kaamyaabi ka zaamin hai. [səfaːrət̪iː aːd̪aːb kiː paːsdaːriː d̪oː-t̪ərfaː ɪqt̪ɪsaːd̪iː raːhdaːrɪjõː kiː t̪əʔmiːr ɔːr ɛs siː oː dʒɛːseː foːrəmz pər mʊt̪əhərːɪk kɪrdaːr hiː ɪkːiːsʋĩː səd̪iː mẽː dʒiːʔoː-ɪkənɔːmɪks kiː kaːmjaːbiː kaː zaːmɪn hɛː] (suh-fah-ruh-TEE ah-DAHB kee pahs-dah-REE, DOH-tuhr-fah eeq-tee-sah-DEE rah-hdah-ree-YOHN kee tuh-MEER owr SCO JAY-say forums puhr moo-tuh-huhr-REEK keer-DAHR HEE eek-kees-VEEN suh-DEE mayn geo-economics kee kahm-yah-BEE kah ZAH-meen HY)",
+          "translation": "Adherence to diplomatic protocol, development of bilateral economic corridors, and an active role in forums like the SCO guarantee the success of geoeconomics in the twenty-first century."
+        },
+        {
+          "target": "سفارت کاری اور خارجہ تعلقات کا یہ جامع سمیکن طلباء کو عالمی سیاست کے پیچیدہ اتار چڑھاؤ، سفارتی زبان اور بین الاقوامی معاہدات کے فہم میں بے مثال مہارت بخشتا ہے۔",
+          "reading": "Safaarat-kaari aur khaarija ta'alluqaat ka yeh jaam'e samaykan tulba ko aalami siyaasat ke pecheeda utaar charhaao, safaarati zabaan aur bain-ul-aqwaami mu'aahidaat ke feham mein bay-misaal mahaarat bakhshta hai. [səfaːrət̪-kaːriː ɔːr xaːrɪdʒaː t̪əʔəlːʊqaːt̪ kaː jɛh dʒaːmɪʔ səmɛːkən t̪ʊlbaː koː aːləmiː sɪjaːsət̪ keː piːtʃʰiːd̪aː ʊt̪aːr tʃəɽʱaːʔoː səfaːrət̪iː zəbaːn ɔːr bɛːn-ʊl-əqʋaːmiː mʊʔaːhɪd̪aːt̪ keː fɛɦəm mẽː beː-mɪsaːl məhaːrət̪ bəxʃt̪aː hɛː] (suh-fah-ruht-kah-REE owr khah-ree-JAH tuh-uhl-loo-QAHT kah YEH JAH-meh suh-may-KUHN tool-BAH koh ah-luh-MEE see-yah-SUHT kay pay-chee-DAH oo-TAHR chuhr-HOW, suh-fah-ruh-TEE zuh-BAHN owr byn-ool-uhq-VAH-mee moo-ah-hee-DAHT kay FY-huhm mayn bay-mee-SAHL muh-hah-RUHT buhkhsh-TAH HY)",
+          "translation": "This comprehensive synthesis of diplomacy and foreign relations bestows unparalleled mastery upon students in understanding the complex dynamics of global politics, diplomatic parlance, and international treaties."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع سفارتی سمیکن: سفارت کاری (ویانا استثنا) + اقوامِ متحدہ (سلامتی کونسل) + خارجہ پالیسی (سی پیک) + علاقائی بلاکس (SCO/OIC)!"
+      ],
+      "culturalNotes": [
+        "اردو زبان نے بین الاقوامی معاہدات کے ترجمے اور اقوامِ متحدہ کے فورمز پر اپنی بلاغت اور سفارتی وقار کا پرچم بلند کیا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"قلم\":",
+          "prompt": "سفارت کاری، خارجہ پالیسی اور بین الاقوامی تعلقات کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («بینک» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کھاتہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («قرض» کی خرابی)"
+            "سفارت کاری، اقوامِ متحدہ کا منشور، پرامن خارجہ پالیسی، سی پیک اور علاقائی بلاکس کا مربوط مطالعہ (Masterful synthesis of diplomacy, UN Charter, peaceful foreign policy, CPEC, and regional blocs)",
+            "ہم نے سفارت خانے کے باہر چائے پی تھی اور رویا تھا (بے ربط الفاظ)",
+            "وہ صرف جھنڈے گنتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«سفارت کاری، اقوامِ متحدہ کا منشور، پرامن خارجہ پالیسی، سی پیک اور علاقائی بلاکس کا مربوط مطالعہ» عالمی تعلقات کا کامل ترین سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"قلم\":",
+          "prompt": "ایک باوقار اور متحرک خارجہ پالیسی اور سفارت کاری کا جامع سمیکن ریاست کے لیے کیا حاصل کرتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کھاتہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («قرض» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بینک» کا غیر درست استعمال)"
+            "قومی خود مختاری کا تحفظ، اقتصادی ترقی، علاقائی امن اور بلند بین الاقوامی وقار (Protecting national sovereignty, economic growth, regional peace, and high global standing)",
+            "صرف سفارتی دعوتیں اڑانا (محدود دائرہ)",
+            "صرف ویزا کی فیس وصول کرنا (بے فائدہ مشق)",
+            "عالمی قوانین کی خلاف ورزی کرنا (تباہ کن)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ قومی خود مختاری کا تحفظ، اقتصادی ترقی، علاقائی امن اور بلند بین الاقوامی وقار حاصل کرتا ہے۔"
         }
       ]
     },
@@ -12717,17 +12766,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"قلم\": Which sentence is completely correct?",
+          "prompt": "سفارت کاری اور خارجہ تعلقات کے جامع سمیکن (Diplomacy & Foreign Affairs Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («قرض» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بینک» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کھاتہ» سے متعلق)"
+            "اقوامِ متحدہ کے منشور پر مبنی آزاد خارجہ پالیسی، ویانا کنونشن کے سفارتی آداب، اور سی پیک و شنگھائی تعاون تنظیم کے ذریعے اقتصادی روابط ہی عالمی امن اور ملکی ترقی کے ضامن ہیں۔ (Independent foreign policy based on UN Charter, Vienna diplomatic protocol, and economic ties via CPEC and SCO guarantee global peace.)",
+            "خارجہ پالیسی نے پاسپورٹ کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
+            "جامع سمیکن صرف پرانے ویزا اسٹیمپ کو کہتے ہیں۔",
+            "سفارت کاری کا ریاست کے مفادات سے کوئی تعلق نہیں ہوتا۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اقوامِ متحدہ کے منشور پر مبنی آزاد خارجہ پالیسی، ویانا کنونشن کے سفارتی آداب، اور سی پیک و شنگھائی تعاون تنظیم کے ذریعے اقتصادی روابط ہی عالمی امن اور ملکی ترقی کے ضامن ہیں۔» سفارت کاری کا کامل ترین شاہکار جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u31-l1": {
