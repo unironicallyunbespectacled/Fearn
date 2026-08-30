@@ -7865,53 +7865,62 @@
     "subject": "hindi",
     "unit": 19,
     "lessonNumber": 1,
-    "title": "अप्रत्यक्ष कथन और समुच्चयबोधक कि (Reported Speech) (Part 1)",
+    "title": "रीतिवाचक क्रिया-विशेषण: कार्य की विधि व गति (Manner Adverbs: dhyaanpoorvak, teevr gati se)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.1) with authentic linguistic precision.",
+    "objective": "क्रिया के संपन्न होने की रीति, ढंग या गति (Manner of Action) बताने वाले रीतिवाचक क्रिया-विशेषणों — '-पूर्वक' प्रत्यय, 'से' परसर्ग तथा अनुकरणात्मक शब्दों — के शुद्ध प्रयोग में निपुण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "क्रिया कैसे संपन्न होती है, इसका उत्तर देने वाले शब्द **रीतिवाचक क्रिया-विशेषण (Manner Adverbs)** कहलाते हैं:\n\n1. **'-पूर्वक' प्रत्यय वाले तत्सम क्रिया-विशेषण**:\n   - ध्यान → **ध्यानपूर्वक** (attentively / carefully);\n   - धैर्य → **धैर्यपूर्वक** (patiently);\n   - शांति → **शांतिपूर्वक** (peacefully);\n   - सफलता → **सफलतापूर्वक** (successfully);\n   - विनम्रता → **विनम्रतापूर्वक** (politely)!\n\n2. **'से' परसर्ग द्वारा निर्मित क्रिया-विशेषण**:\n   - तेज़ी से (quickly / rapidly), सरलता से (easily), चुपचाप (silently), अचानक (suddenly), एकाएक (all of a sudden)।\n\n3. **अनुकरणात्मक व द्विरुक्त रीतिवाचक शब्द (Reduplicative Manner)**:\n   - धीरे-धीरे (slowly), जल्दी-जल्दी (hurriedly), हँसते-हँसते (laughingly), फटाफट (promptly)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 19.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 19."
+          "target": "सर्वोच्च न्यायालय के मुख्य न्यायाधीश ने दोनों पक्षों के वरिष्ठ वकीलों की गहन कानूनी दलीलें अत्यंत ध्यानपूर्वक और धैर्यपूर्वक सुनीं।",
+          "reading": "sarvochch nyaayaalay ke mukhya nyaayaadheesh ne donon pakshon ke varishth vakeelon ki gahan kaanooni daleelein atyant dhyaanpoorvak aur dhairyapoorvak suneen. [sərʋoːtʃː njaːjaːləj keː mʊkʰjə njaːjaːd̪ʱiːʃ neː d̪oːnõː pəkʃõː keː ʋərɪʂʈʰ ʋəkiːlõː kiː ɡəɦən kaːnuːniː d̪əliːlẽː ət̪jən̪t̪ d̪ʱjaːnpuːrʋək ɔːr d̪ʱɛːrjəpuːrʋək sʊnĩː] (suhr-VOHTCH nyah-YAH-luy kay MOOKH-yuh nyah-yah-DHEESH nay DOH-nohn PUK-shohn kay vuh-REESH-th vuh-KEE-lohn kee GUH-huhn kah-NOO-nee duh-LEE-layn uht-YUHNT dhyahn-POOR-vuhk owr dhyr-yuh-POOR-vuhk SOO-neen)",
+          "translation": "The Chief Justice of the Supreme Court heard the deep legal arguments of the senior advocates of both sides extremely attentively and patiently."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 19-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "आपातकालीन स्थिति की सूचना मिलते ही पुलिस और आपदा प्रबंधन दल अत्यंत तीव्र गति और मुस्तैदी से दुर्घटनास्थल की ओर दौड़े।",
+          "reading": "aapaatkaaleen sthiti ki soochna milte hi police aur aapda prabandhan dal atyant teevr gati aur mustaidi se durghatnaasthal ki or daude. [aːpaːt̪kaːliːn st̪ʰɪt̪ɪ kiː suːtʃnaː mɪlt̪eː ɦiː pʊliːs ɔːr aːpd̪aː prəbən̪d̪ʱən d̪əl ət̪jən̪t̪ t̪iːʋr ɡət̪ɪ ɔːr mʊst̪ɛːd̪iː seː d̪ʊrɡʱəʈnaːst̪ʰəl kiː oːr dɔːɽeː] (ah-paht-kah-LEEN STHEE-tee kee SOO-ch-nah MEEL-tay hee poo-LEES owr AHP-dah pruh-buhn-DHUHN duhl uht-YUHNT TEEV-ruh GUH-tee owr moos-ty-DEE say door-ghuht-nah-STHUHL kee ohr DOW-day)",
+          "translation": "As soon as information of the emergency situation was received, the police and disaster management team rushed towards the accident site with extreme speed and alertness."
+        },
+        {
+          "target": "कठिन से कठिन गणितीय प्रश्नों को भी उस अत्यंत मेधावी और परिश्रमी छात्रा ने बड़ी सरलता, स्पष्टता और आत्मविश्वास से हल कर दिया।",
+          "reading": "kathin se kathin ganiteey prashnon ko bhi us atyant medhaavi aur parishrami chhaatra ne badi saralta, spashtata aur aatmavishvaas se hal kar diya. [kəʈʰɪn seː kəʈʰɪn ɡəɳɪt̪iːj prəʃnõː koː bʱiː ʊs ət̪jən̪t̪ meːd̪ʱaːʋiː ɔːr pərɪʃrəmiː tʃʰaːt̪raː neː bəɽiː sərəlt̪aː spəʂʈət̪aː ɔːr aːt̪məʋɪʃʋaːs seː ɦəl kər d̪ɪjaː] (KUH-theen say KUH-theen guh-nee-TEE-yuh PRUHSH-nohn koh bhee oos uht-YUHNT may-DHAH-vee owr puh-reesh-RUH-mee CHHAH-trah nay BUH-dee suh-ruhl-TAH, spuhsh-tuh-TAH owr aht-muh-veesh-VAHS say huhl kuhr DEE-yah)",
+          "translation": "Even the most difficult mathematical questions were solved with great ease, clarity, and confidence by that extremely brilliant and hardworking student."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "रीतिवाचक = कैसे? (ध्यानपूर्वक, तेज़ी से, शांतिपूर्वक, धीरे-धीरे)!"
+      ],
+      "culturalNotes": [
+        "भारतीय सभा-समारोहों में 'कृपया शांतिपूर्वक बैठें' और 'धैर्यपूर्वक श्रवण करें' शिष्टाचार की आधारशिला माने जाते हैं।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"परिवार\":",
+          "prompt": "रीतिवाचक क्रिया-विशेषण (Manner Adverb: patiently) वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 19.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पिता» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («माता» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («भाई» का अनुचित स्थान)"
+            "उसने मेरी पूरी बात धैर्यपूर्वक सुनी (Usne meri poori baat dhairyapoorvak suni - He heard my whole talk patiently [manner adverb with -poorvak])",
+            "उसने मेरी बात कल सुनी (कालवाचक भेद)",
+            "उसने मेरी बात वहाँ सुनी (स्थानवाचक भेद)",
+            "उसने मेरी बात बहुत सुनी (परिमाणवाचक भेद)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "कार्य के ढंग या रीति को दर्शाने वाला शब्द «धैर्यपूर्वक» रीतिवाचक क्रिया-विशेषण है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"परिवार\":",
+          "prompt": "वाक्य «रोगी ने कड़वी दवा ___ पी ली» में सही रीतिवाचक क्रिया-विशेषण भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 19.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («माता» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («भाई» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पिता» का अशुद्ध रूप)"
+            "चुपचाप (Chupchaap - Silently / Without protest [manner adverb])",
+            "ऊपर (Locative error)",
+            "परसों (Temporal error)",
+            "उतना (Quantity error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "क्रिया के तरीके को स्पष्ट करने वाला रीतिवाचक अव्यय «चुपचाप» शुद्ध है।"
         }
       ]
     },
@@ -7919,17 +7928,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"परिवार\": Which sentence is completely correct?",
+          "prompt": "रीतिवाचक क्रिया-विशेषण (Manner Adverb) का सर्वथा शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 19.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («भाई» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पिता» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («माता» से संबंधित)"
+            "सुरक्षाकर्मियों ने वीआईपी काफिले को बड़ी कुशलता और तत्परता से सुरक्षित बाहर निकाला। (The security personnel skillfully and promptly evacuated the VIP convoy safely.)",
+            "सुरक्षाकर्मियों ने काफिले को कल बाहर निकाला।",
+            "सुरक्षाकर्मियों ने काफिले को बहुत बाहर निकाला।",
+            "सुरक्षाकर्मियों ने काफिले को दिल्ली में निकाला।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«बड़ी कुशलता और तत्परता से» क्रिया के निष्पादन की रीति (Manner) को शत-प्रतिशत स्पष्ट करता है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u19-l2": {
@@ -7937,53 +7947,62 @@
     "subject": "hindi",
     "unit": 19,
     "lessonNumber": 2,
-    "title": "अप्रत्यक्ष कथन और समुच्चयबोधक कि (Reported Speech) (Part 2)",
+    "title": "कालवाचक एवं आवृत्तिवाचक क्रिया-विशेषण (Temporal & Frequency Adverbs: nityam, praayah, baar-baar)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.2) with authentic linguistic precision.",
+    "objective": "क्रिया के होने के समय (Time), अवधि (Duration) और आवृत्ति (Frequency) को प्रकट करने वाले कालवाचक अव्ययों के सटीक प्रयोग में निपुण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "क्रिया कब और कितनी बार होती है, इसका बोध कराने वाले शब्द **कालवाचक क्रिया-विशेषण (Temporal & Frequency Adverbs)** कहलाते हैं:\n\n1. **समय-बिंदु वाचक (Points of Time)**:\n   - अब, तब, आज, कल, परसों, तुरंत, शीघ्र, तत्पश्चात (thereafter), उसी समय।\n\n2. **अवधि वाचक (Duration)**:\n   - दिनभर, रातभर, आजकल, लगातार, निरंतर, सदैव, कभी नहीं।\n\n3. **आवृत्ति वाचक (Frequency)**:\n   - **नित्य / प्रतिदिन / रोज़** (daily);\n   - **प्रायः / अक्सर** (often / usually);\n   - **कभी-कभार** (seldom / once in a while);\n   - **बार-बार / पुनः-पुनः** (repeatedly);\n   - **क्रमशः / बारी-बारी से** (sequentially / by turns)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 19.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 19."
+          "target": "जीवन में उत्कृष्ट सफलता और मानसिक शांति प्राप्त करने के लिए प्रत्येक व्यक्ति को नित्य प्रति नियमपूर्वक योगाभ्यास और स्वाध्याय करना चाहिए।",
+          "reading": "jeevan mein utkrisht safalta aur maanasik shaanti praapt karne ke liye pratyek vyakti ko nitya prati niyamapoorvak yogaabhyaas aur svaadhyaay karna chaahiye. [dʒiːʋən mẽː ʊt̪krɪʂʈ səfəlt̪aː ɔːr maːnsɪk ʃaːn̪t̪iː praːpt̪ kərneː keː lɪjeː prət̪jeːk ʋjəkt̪ɪ koː nɪt̪jə prət̪ɪ nɪjəmpuːrʋək joːɡaːbʱjaːs ɔːr sʋaːd̪ʱjaːj kərnaː tʃaːɦɪjeː] (JEE-vuhn mayn oot-KREESH-th suh-fuhl-TAH owr MAH-nuh-seek SHAHN-tee PRAHPT KUHR-nay kay lee-ay pruht-YAYK VYUHNK-tee koh NEE-tyuh PRUH-tee nee-yuh-muh-POOR-vuhk yoh-gahbh-YAHS owr svahdh-YAHY KUHR-nah CHAH-hee-yay)",
+          "translation": "To achieve excellent success and mental peace in life, every individual should practice yoga and self-study daily in a disciplined manner."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 19-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "सामाजिक जीवन में प्रायः यह देखा गया है कि जो व्यक्ति समय का मूल्य समझते हैं, वे कभी किसी भी परिस्थिति में विचलित या असफल नहीं होते।",
+          "reading": "saamaajik jeevan mein praayah yah dekha gaya hai ki jo vyakti samay ka moolya samajhte hain, ve kabhi kisi bhi paristhiti mein vichalit ya asafal nahin hote. [saːmaːdʒɪk dʒiːʋən mẽː praːjəɦ jəɦ d̪eːkʰaː ɡəjaː hɛː kɪ dʒoː ʋjəkt̪ɪ səməj kaː muːljə səmədʒʱt̪eː hɛ̃ː ʋeː kəbʱiː kɪsiː bʱiː pərɪst̪ʰɪt̪ɪ mẽː ʋɪtʃlɪt̪ jaː əsəfəl nəɦĩː hoːt̪eː] (sah-MAH-jeek JEE-vuhn mayn PRAH-yuhk yuh DAY-khah GUH-yah hy kee joh VYUHNK-tee SUH-muy kah MOOL-yuh suh-MUHJ-tay hy-n, vay KUH-bhee kee-SEE bhee puh-ree-STHEE-tee mayn vee-chuh-LEET yah uh-SUH-fuhl nuh-HEEN HOH-tay)",
+          "translation": "In social life it is often observed that individuals who understand the value of time are never perturbed or unsuccessful in any situation."
+        },
+        {
+          "target": "सभागार में उपस्थित सभी विशिष्ट और गणमान्य अतिथियों को क्रमशः एक-एक करके मंच पर आमंत्रित कर शॉल और स्मृति-चिह्न देकर सम्मानित किया गया।",
+          "reading": "sabhaagaar mein upasthit sabhi vishisht aur ganamaanya atithiyon ko kramashah ek-ek karke manch par aamantrit kar shawl aur smriti-chihn dekar sammaanit kiya gaya. [səbʱaːɡaːr mẽː ʊpəst̪ʰɪt̪ səbʱiː ʋɪʃɪʂʈ ɔːr ɡəɳmaːnjə ət̪ɪt̪ʰɪjõː koː krəməʃəɦ eːk eːk kərkeː məntʃ pər aːmən̪t̪rɪt̪ kər ʃɔːl ɔːr smrɪt̪ɪ tʃɪɦn d̪eːkər səmːaːnɪt̪ kɪjaː ɡəjaː] (suh-bhah-GAHR mayn oo-puhs-THEET SUH-bhee vee-SHEESH-th owr guh-nuh-MAHN-yuh uh-tee-THEE-yohn koh kruh-muh-SHUHK ayk-ayk KUHR-kay muhnch puhr ah-muhn-TREET kuhr shawl owr SREE-tee CHEEH-nuh DAY-kuhr suhm-mah-NEET kee-YAH GUH-yah)",
+          "translation": "All distinguished and eminent guests present in the auditorium were invited onto the stage sequentially one by one and honored with shawls and mementos."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "कालवाचक = कब? (आज, कल, नित्य); आवृत्ति = कितनी बार? (प्रायः, बार-बार, क्रमशः)!"
+      ],
+      "culturalNotes": [
+        "दैनिक समाचार पत्रों के संपादकीय में 'प्रायः' (frequently/often) और 'क्रमशः' (sequentially) तत्सम कालवाचक अव्यय भाषा को उच्च साहित्यिक गरिमा प्रदान करते हैं।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"पिता\":",
+          "prompt": "आवृत्तिवाचक क्रिया-विशेषण (Frequency Adverb: often/usually) वाला मानक वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 19.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («माता» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («भाई» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बहन» का अनुचित स्थान)"
+            "वह प्रायः शाम को टहलने जाता है (Vah praayah shaam ko tahalne jaata hai - He often goes for a walk in the evening [frequency adverb praayah])",
+            "वह बाहर टहलने जाता है (स्थानवाचक भेद)",
+            "वह तेज़ टहलने जाता है (रीतिवाचक भेद)",
+            "वह बहुत टहलता है (परिमाणवाचक भेद)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "क्रिया की आवृत्ति दर्शाने वाला तत्सम शब्द «प्रायः» आवृत्तिवाचक क्रिया-विशेषण है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"पिता\":",
+          "prompt": "क्रमवार सूची (Sequentially / One by one) दर्शाने वाला शुद्ध अव्यय कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 19.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («भाई» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बहन» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («माता» का अशुद्ध रूप)"
+            "क्रमशः (Kramashah - Sequentially / In order)",
+            "अचानक (Manner mismatch)",
+            "अत्यधिक (Quantity mismatch)",
+            "वहाँ (Locative mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "क्रम और शृंखला का बोध कराने के लिए तत्सम कालवाचक अव्यय «क्रमशः» प्रयुक्त होता है।"
         }
       ]
     },
@@ -7991,17 +8010,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"पिता\": Which sentence is completely correct?",
+          "prompt": "कालवाचक और आवृत्तिवाचक क्रिया-विशेषण का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 19.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बहन» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («माता» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («भाई» से संबंधित)"
+            "वैज्ञानिक दल ने प्रयोगशाला में निरंतर और बार-बार प्रयोग करके नवीन निष्कर्ष निकाले। (The scientific team drew novel conclusions by experimenting continuously and repeatedly in the lab.)",
+            "वैज्ञानिक दल ने ध्यानपूर्वक प्रयोग निकाला था।",
+            "वैज्ञानिक दल ने बहुत दूर प्रयोग किया।",
+            "वैज्ञानिक दल ने प्रयोग को अंदर रखा था।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«निरंतर» (अवधि) और «बार-बार» (आवृत्ति) दोनों कालवाचक क्रिया-विशेषण के आदर्श उदाहरण हैं।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u19-l3": {
@@ -8009,53 +8029,62 @@
     "subject": "hindi",
     "unit": 19,
     "lessonNumber": 3,
-    "title": "अप्रत्यक्ष कथन और समुच्चयबोधक कि (Reported Speech) (Part 3)",
+    "title": "स्थानवाचक और दिशावाचक क्रिया-विशेषण (Locative & Directional Adverbs: aas-paas, chaaron or)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.3) with authentic linguistic precision.",
+    "objective": "क्रिया के घटित होने के स्थान (Location) और गति की दिशा (Direction) को सूचित करने वाले स्थानवाचक अव्ययों और संयुक्त परसर्गों के सटीक विन्यास में दक्ष होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "क्रिया कहाँ और किस दिशा में संपन्न हो रही है, इसका बोध कराने वाले शब्द **स्थानवाचक क्रिया-विशेषण (Locative & Directional Adverbs)** कहलाते हैं:\n\n1. **स्थिति वाचक (Location / Position)**:\n   - यहाँ, वहाँ, जहाँ, कहाँ, आगे, पीछे, ऊपर, नीचे, अंदर, बाहर, निकट, पास, दूर।\n\n2. **दिशा वाचक (Direction)**:\n   - इधर, उधर, जिधर, किधर, दायें, बायें, चारों ओर, आमने-सामने, इर्द-गिर्द।\n\n3. **संबंधबोधक से बने स्थानवाचक अव्यय (Compound Postpositional Adverbs)**:\n   - के आस-पास (around / in vicinity);\n   - के चारों तरफ (on all four sides);\n   - के समीप / के निकट (near / in proximity)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 19.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 19."
+          "target": "प्राचीन ऐतिहासिक मंदिर के चारों ओर सुरम्य हरी-भरी पहाड़ियाँ फैली हैं और समीप ही स्वच्छ जल की शीतल धाराएँ कलकल बहती हैं।",
+          "reading": "praacheen aitihasik mandir ke chaaron or suramya hari-bhari pahaadiyaan phaili hain aur sameep hi swachh jal ki sheetal dhaaraayein kalkal bahti hain. [praːtʃiːn ɛːt̪ɪhaːsɪk mən̪d̪ɪr keː tʃaːrõː oːr sʊrəmjə ɦəriː bʱəriː pəɦaːɽɪjaː̃ pʰɛːliː hɛ̃ː ɔːr səmiːp ɦiː sʋətʃːʰ dʒəl kiː ʃiːt̪əl d̪ʱaːraːẽː kəlkəl bəɦt̪iː hɛ̃ː] (prah-CHEEN ay-tee-HAH-seek MUHN-deer kay CHAH-rohn ohr soo-RUHM-yuh HUH-ree BHUH-ree puh-hah-DEE-yahn FY-lee hy-n owr suh-MEEP hee SVAHTCHH JUHL kee shee-TUHL dhah-RAH-yayn kuhl-KUHL BUH-tee hy-n)",
+          "translation": "Charming lush green hills are spread all around the ancient historic temple and nearby cool streams of clean water flow melodiously."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 19-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "इस प्रतिष्ठित केंद्रीय विद्यालय के आस-पास किसी भी प्रकार की अवांछित व्यावसायिक गतिविधि या तीव्र ध्वनि प्रदूषण पूर्णतः वर्जित है।",
+          "reading": "is pratishthit kendreey vidyaalay ke aas-paas kisi bhi prakaar ki avaanchhit vyaavsaayik gatividhi ya teevr dhvani pradooshan poornatah varjit hai. [ɪs prət̪ɪʂʈʰɪt̪ keːn̪d̪riːj ʋɪd̪jaːləj keː aːs paːs kɪsiː bʱiː prəkaːr kiː əʋaːntʃʰɪt̪ ʋjaːʋsaːjɪk ɡət̪ɪʋɪd̪ʱɪ jaː t̪iːʋr d̪ʱʋənɪ prəd̪uːʂəɳ puːrɳət̪əɦ ʋərdʒɪt̪ hɛː] (ees pruh-teesh-THEET kayn-DREE-yuh veed-YAH-luy kay AHS-pahs kee-SEE bhee pruh-KAHR kee uh-vahn-CHHEET vyahv-sah-YEEK guh-tee-vee-DHEE yah TEEV-ruh DHVUH-nee pruh-doo-SHUHN POOR-nuh-tuhk vuhr-JEET hy)",
+          "translation": "Any kind of unwanted commercial activity or high noise pollution is completely prohibited around this prestigious central school."
+        },
+        {
+          "target": "जैसे ही राष्ट्रीय दीपोत्सव का औपचारिक शुभारंभ हुआ, रंग-बिरंगी भव्य आतिशबाजी के आलोक से सारा आकाश चारों तरफ जगमगा उठा।",
+          "reading": "jaise hi raashtreey deepotsav ka aadhikaarik shubhaarambh hua, rang-birangi bhavya aatishbaaji ke aalok se saara aakaash chaaron taraf jagmaga utha. [dʒɛːseː ɦiː raːʂʈriːj d̪iːpoːt̪səʋ kaː aːd̪ʱɪkaːrɪk ʃʊbʱaːrəmbʱ hʊaː rəŋɡ bɪrəŋɡiː bʱəʋjə aːt̪ɪʃbaːziː keː aːloːk seː saːraː aːkaːʃ tʃaːrõː t̪ərəf dʒəɡməɡaː ʊʈʰaː] (JY-say hee rahsh-TREE-yuh deep-OHT-suhv kah ah-dhee-KAH-reek shoobh-ah-RUHMBH HOO-ah, ruhng-bee-RUHN-gee BHUHV-yuh ah-teesh-BAH-zee kay ah-LOHK say SAH-rah ah-KAHSH CHAH-rohn TUH-ruhf juhg-muh-GAH OOT-hah)",
+          "translation": "As soon as the official commencement of the national festival of lights occurred, the entire sky shone bright all around with the radiance of colorful magnificent fireworks."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "स्थानवाचक = कहाँ? (निकट, दूर, अंदर); दिशावाचक = किधर? (चारों ओर, दायें-बायें)!"
+      ],
+      "culturalNotes": [
+        "भारतीय वास्तुशास्त्र और नगर नियोजन में 'चारों ओर' और 'इर्द-गिर्द' की हरियाली को पर्यावरण संतुलन और सकारात्मक ऊर्जा का स्रोत माना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"माता\":",
+          "prompt": "स्थानवाचक क्रिया-विशेषण (Locative Adverb: around/nearby) वाला शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 19.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («भाई» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बहन» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दादा» का अनुचित स्थान)"
+            "घर के आस-पास अनेक छायादार वृक्ष लगे हैं (Ghar ke aas-paas anek chhaayaadaar vriksh lage hain - Many shady trees are planted around the house [locative aas-paas])",
+            "घर में कल वृक्ष लगे थे (कालवाचक भेद)",
+            "घर में ध्यानपूर्वक वृक्ष लगे (रीतिवाचक भेद)",
+            "घर में बहुत वृक्ष लगे (परिमाणवाचक भेद)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "स्थान और निकटता का बोध कराने वाला पद «आस-पास» स्थानवाचक क्रिया-विशेषण है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"माता\":",
+          "prompt": "दिशा (Direction: on all sides / all around) को व्यक्त करने वाला शुद्ध पद कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 19.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बहन» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दादा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («भाई» का अशुद्ध रूप)"
+            "चारों ओर (Chaaron or - On all four sides / All around)",
+            "धीरे-धीरे (Manner mismatch)",
+            "परसों (Temporal mismatch)",
+            "अत्यधिक (Degree mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "दिशा और परिधि का बोध कराने हेतु «चारों ओर» शुद्ध दिशावाचक अव्यय है।"
         }
       ]
     },
@@ -8063,17 +8092,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"माता\": Which sentence is completely correct?",
+          "prompt": "स्थानवाचक और दिशावाचक क्रिया-विशेषण का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 19.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दादा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («भाई» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बहन» से संबंधित)"
+            "सुरक्षा बल सीमा के चारों ओर मुस्तैदी से पहरा दे रहे हैं और समीप ही गश्ती वाहन तैनात हैं। (Security forces are guarding alertly all around the border and patrol vehicles are deployed nearby.)",
+            "सुरक्षा बल कल पहरा दे रहे हैं सीमा में।",
+            "सुरक्षा बल बहुत पहरा दे रहे हैं।",
+            "सुरक्षा बल पहरा धीरे-धीरे दे रहे हैं सीमा।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«चारों ओर» (दिशा) और «समीप ही» (स्थान) का संश्लेषण स्थानवाचक व्याकरण के अनुसार सर्वथा त्रुटिहीन है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u19-l4": {
@@ -8081,53 +8111,62 @@
     "subject": "hindi",
     "unit": 19,
     "lessonNumber": 4,
-    "title": "अप्रत्यक्ष कथन और समुच्चयबोधक कि (Reported Speech) (Part 4)",
+    "title": "परिमाणवाचक और तुलनात्मक क्रिया-विशेषण (Quantity & Degree Adverbs: atyant, kaafi, lagbhag)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.4) with authentic linguistic precision.",
+    "objective": "क्रिया, विशेषण अथवा अन्य क्रिया-विशेषण की मात्रा, तीव्रता (Intensity) और तुलनात्मक परिमाण को व्यक्त करने वाले अव्ययों के सटीक प्रयोग में निपुण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "क्रिया के परिमाण, मात्रा या तीव्रता का बोध कराने वाले शब्द **परिमाणवाचक क्रिया-विशेषण (Quantity & Degree Adverbs)** कहलाते हैं:\n\n1. **अधिकता बोधक (High Degree / Intensity)**:\n   - बहुत, अत्यंत, अत्यधिक, भारी, खूब, काफ़ी, बिल्कुल, पूर्णतः।\n\n2. **न्यूनता व किंचित बोधक (Low Degree / Slightness)**:\n   - तनिक, ज़रा, थोड़ा, कम, कुछ-कुछ।\n\n3. **अनुमान व लगभग बोधक (Approximatives)**:\n   - **लगभग / करीब-करीब / प्रायः** (*लगभग पाँच घंटे चले*)।\n\n4. **तुलनात्मक परिमाण (Comparative & Proportional)**:\n   - **अपेक्षाकृत (Comparatively)**: *यह कार्य अपेक्षाकृत सरल है*;\n   - **जितना...उतना (Proportionately)**: *जितना खाओगे उतना पचेगा*।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 19.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 19."
+          "target": "इस वर्ष भीषण शीतकाल के दौरान समूचे हिमालयी पर्वतीय क्षेत्रों में अत्यधिक और अभूतपूर्व हिमपात दर्ज किया गया।",
+          "reading": "is varsh bheeshan sheetkaal ke dauraan samooche Himaalayi parvateey kshetron mein atyadhik aur abhootpoorva himpaat darj kiya gaya. [ɪs ʋərʂ bʱiːʂəɳ ʃiːt̪kaːl keː dɔːraːn səmuːtʃeː ɦɪmaːləjiː pərʋət̪iːj kʃeːt̪rõː mẽː ət̪jəd̪ʱɪk ɔːr əbʱuːt̪puːrʋə ɦɪmpaːt̪ d̪ərdʒ kɪjaː ɡəjaː] (ees vuhrsh bhee-SHUHN sheet-KAHL kay dow-RAHN suh-MOO-chay hee-mah-luy-EE puhr-vuh-TEE-yuh KSHAY-trohn mayn uht-yuh-DHEEK owr uh-bhoot-POOR-vuh heem-PAHT duhrj kee-YAH GUH-yah)",
+          "translation": "During the severe winter this year, excessive and unprecedented snowfall was recorded across the entire Himalayan mountainous regions."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 19-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "शहर के मुख्य चौराहे पर नया प्रस्तावित बहुमंजिला फ्लाईओवर बन जाने से यहाँ का व्यस्त यातायात अपेक्षाकृत काफी सुगम और द्रुतगामी हो गया है।",
+          "reading": "shahar ke mukhya chauraahe par naya prastaavit bahumanjila flyover ban jaane se yahaan ka vyast yaataayaat apekshaakrit kaafi sugam aur drutgaami ho gaya hai. [ʃəɦər keː mʊkʰjə tʃɔːraːɦeː pər nəjaː prəst̪aːʋɪt̪ bəɦʊməndʒɪlaː flaːiːoːʋər bən dʒaːneː seː jəɦaː̃ kaː ʋjəst̪ jaːt̪aːjaːt̪ əpeːkʃaːkrɪt̪ kaːfiː sʊɡəm ɔːr d̪rʊt̪ɡaːmiː hoː ɡəjaː hɛː] (SHUH-huhr kay MOOKH-yuh chow-RAH-hay puhr nuh-YAH pruhs-tah-VEET buh-hoo-muhn-JEE-lah flyover buhn JAH-nay say yuh-HAHN kah vyuhst yah-tah-YAHT uh-payk-shah-KREET KAH-fee SOO-guhm owr droot-gah-MEE hoh GUH-yah hy)",
+          "translation": "With the construction of the new proposed multi-level flyover at the main city intersection, the busy traffic here has become comparatively quite smooth and swift."
+        },
+        {
+          "target": "सभागार के विशाल मंच पर प्रस्तुत ऐतिहासिक नाटक लगभग तीन घंटे तक निरंतर चला और उपस्थित सभी दर्शकों ने इसका भरपूर आनंद लिया।",
+          "reading": "sabhaagaar ke vishaal manch par prastut aitihasik naatak lagbhag teen ghante tak nirantar chala aur upasthit sabhi darshakon ne iska bharpoor aanand liya. [səbʱaːɡaːr keː ʋɪʃaːl məntʃ pər prəst̪ʊt̪ ɛːt̪ɪhaːsɪk naːʈək ləɡbʱəɡ t̪iːn ɡʱəɳʈeː t̪ək nɪrən̪t̪ər tʃəlaː ɔːr ʊpəst̪ʰɪt̪ səbʱiː d̪ərʃəkõː neː ɪskaː bʱərpuːr aːnən̪d̪ lɪjaː] (suh-bhah-GAHR kay vee-SHAHL muhnch puhr pruhs-TOOT ay-tee-HAH-seek NAH-tuhk LUHG-bhuhg teen GHUHN-tay tuhk nee-RUHN-tuhr CHUH-lah owr oo-puhs-THEET SUH-bhee duhr-shuh-KOHN nay ees-KAH bhuhr-POOR ah-NUHND LEE-yah)",
+          "translation": "The historic play presented on the grand stage of the auditorium ran continuously for almost three hours and all viewers present thoroughly enjoyed it."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "परिमाण = कितना? (अत्यंत, अत्यधिक, थोड़ा, लगभग, अपेक्षाकृत)!"
+      ],
+      "culturalNotes": [
+        "आर्थिक रिपोर्टों और सांख्यिकीय विश्लेषणों में 'अपेक्षाकृत' (comparatively) और 'अत्यधिक' (substantially) का प्रयोग तथ्यों के सटीक संतुलन के लिए मानक है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"भाई\":",
+          "prompt": "तुलनात्मक परिमाण (Comparative Degree: comparatively easier) वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 19.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बहन» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दादा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दादी» का अनुचित स्थान)"
+            "यह कार्य पिछले कार्य से अपेक्षाकृत सरल है (Yah kaary pichhle kaary se apekshaakrit saral hai - This work is comparatively easier than the previous one)",
+            "यह कार्य कल सरल है (कालवाचक भेद)",
+            "यह कार्य ध्यानपूर्वक सरल है (रीतिवाचक भेद)",
+            "यह कार्य चारों ओर सरल है (स्थानवाचक भेद)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "तुलनात्मक मात्रा या कोटि दर्शाने के लिए तत्सम अव्यय «अपेक्षाकृत» परिमाणवाचक क्रिया-विशेषण है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"भाई\":",
+          "prompt": "अनुमानित परिमाण (Approximation: approximately 50 people) दर्शाने वाला शुद्ध शब्द भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 19.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दादा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दादी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बहन» का अशुद्ध रूप)"
+            "लगभग (Lagbhag - Approximately / Almost [approximative adverb])",
+            "चुपचाप (Manner error)",
+            "परसों (Temporal error)",
+            "निकट (Locative error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "अनुमानित संख्या या माप के लिए «लगभग» परिमाणवाचक अव्यय शुद्ध है।"
         }
       ]
     },
@@ -8135,17 +8174,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"भाई\": Which sentence is completely correct?",
+          "prompt": "परिमाणवाचक और तुलनात्मक क्रिया-विशेषण का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 19.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दादी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बहन» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दादा» से संबंधित)"
+            "नई तकनीक अपनाने के बाद कारखाने का उत्पादन अपेक्षाकृत अत्यधिक बढ़ गया है। (After adopting new technology the factory's production has increased comparatively substantially.)",
+            "कारखाने का उत्पादन कल ध्यानपूर्वक बढ़ गया।",
+            "कारखाने का उत्पादन चारों ओर बढ़ गया था।",
+            "उत्पादन बढ़ गया ताकि कारखाना चला था।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«अपेक्षाकृत» (तुलना) और «अत्यधिक» (मात्रा की तीव्रता) का संश्लेषण परिमाणवाचक व्याकरण का उत्कृष्ट उदाहरण है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u19-l5": {
@@ -8153,53 +8193,62 @@
     "subject": "hindi",
     "unit": 19,
     "lessonNumber": 5,
-    "title": "अप्रत्यक्ष कथन और समुच्चयबोधक कि (Reported Speech) (Part 5)",
+    "title": "क्रिया-विशेषणों का समग्र समन्वय व पदक्रम नियम (Synthesis of Adverbial Types & Word Order: TPMV)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.5) with authentic linguistic precision.",
+    "objective": "हिंदी में क्रिया-विशेषणों के मानक पदक्रम (Canonical Word Order: Time → Place → Manner → Quantity → Verb) तथा जटिल अनुच्छेदों में सभी चारों क्रिया-विशेषण वर्गों के समन्वय में पूर्ण अधिकार प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी वाक्य में जब एक से अधिक क्रिया-विशेषण एक साथ प्रयुक्त होते हैं, तब उनका मानक पदक्रम (Canonical Order of Adverbials) इस प्रकार होता है:\n\n1. **मानक पदक्रम सूत्र (TPMQV Rule)**:\n   - **[कर्ता] + [काल (Time)] + [स्थान (Place)] + [रीति (Manner)] + [परिमाण (Quantity)] + [क्रिया (Verb)]**\n   - उदाहरण:\n     *रोहन (कर्ता) कल (काल) सभागार में (स्थान) बहुत ध्यानपूर्वक (रीति) दो घंटे (परिमाण) भाषण सुन रहा था (क्रिया)।*\n\n2. **चारों क्रिया-विशेषण वर्गों का संपूर्ण समन्वय**:\n   - **काल**: कब? (आज, नित्य, प्रायः);\n   - **स्थान**: कहाँ? (वहाँ, आस-पास, चारों ओर);\n   - **रीति**: कैसे? (ध्यानपूर्वक, तेज़ी से, सरलता से);\n   - **परिमाण**: कितना? (अत्यंत, अत्यधिक, लगभग, अपेक्षाकृत)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 19.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 19."
+          "target": "सभी समर्पित स्वयंसेवकों ने कल सुबह भीषण आपदा प्रभावित गाँव में अत्यंत निष्ठापूर्वक और तत्परता से प्रचुर मात्रा में राहत सामग्री का वितरण किया।",
+          "reading": "sabhi samarpit svayamsevakon ne kal subah bheeshan aapda prabhaavit gaanv mein atyant nishthaapoorvak aur tatparta se prachur maatra mein raahat saamagree ka vitaran kiya. [səbʱiː səmərpɪt̪ sʋəjəmseːʋkõː neː kəl sʊbəɦ bʱiːʂəɳ aːpd̪aː prəbʱaːʋɪt̪ ɡaː̃ʋ mẽː ət̪jən̪t̪ nɪʂʈʰaːpuːrʋək ɔːr t̪ət̪pərt̪aː seː prətʃʊr maːt̪raː mẽː raːɦət̪ saːməɡriː kaː ʋɪt̪rəɳ kɪjaː] (SUH-bhee suh-muhr-PEET svuh-yuhm-SAY-vuh-kohn nay kuhl SOO-buh bhee-SHUHN AHP-dah pruh-bhah-VEET GAHN-v mayn uht-YUHNT neesh-thah-POOR-vuhk owr tuht-puhr-TAH say pruh-CHOOR MAH-trah mayn RAH-huht sah-muhg-REE kah vee-tuh-RUHN kee-YAH)",
+          "translation": "All dedicated volunteers distributed relief materials in abundant quantity with extreme devotion and promptness in the severely disaster-affected village yesterday morning."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 19-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "भारतीय वैज्ञानिकों ने पिछले वर्ष अंतरिक्ष अनुसंधान केंद्र में पूरी लगन और वैज्ञानिक सूक्ष्मता से इस अत्यंत जटिल उपग्रह का सफल प्रक्षेपण किया।",
+          "reading": "bhaarateey vaigyaanikon ne pichhle varsh antariksh anusandhaan kendr mein poori lagan aur vaigyaanik sookshmata se is atyant jatil upgrah ka safal prakshepan kiya. [bʱaːrt̪iːj ʋɛːɡjaːnɪkõː neː pɪtʃʰleː ʋərʂ ən̪t̪rɪkʃ ənʊsən̪d̪ʱaːn keːn̪d̪r mẽː puːriː ləɡən ɔːr ʋɛːɡjaːnɪk suːkʃmət̪aː seː ɪs ət̪jən̪t̪ dʒəʈɪl ʊpɡrəɦ kaː səfəl prəkʃeːpəɳ kɪjaː] (bhahr-TEE-yuh vyg-YAH-nee-kohn nay PEECHH-lay vuhrsh uhn-tuh-REEKSH uh-noo-suhn-DHAHN kayn-druh mayn POO-ree LUH-guhn owr vyg-YAH-neek sooksh-muh-TAH say ees uht-YUHNT JUH-teel oop-GRUH-huh kah SUH-fuhl pruhk-shay-PUHN kee-YAH)",
+          "translation": "Indian scientists successfully launched this extremely complex satellite with total dedication and scientific precision at the space research center last year."
+        },
+        {
+          "target": "विद्वान प्राध्यापक ने आज प्रातःकाल सभागार में सभी जिज्ञासु छात्रों को बहुत विस्तार और आत्मीयता से इस ऐतिहासिक युग-परिवर्तन का महत्व समझाया।",
+          "reading": "vidvaan praadhyaapak ne aaj praatahkaal sabhaagaar mein sabhi jigyaasu chhaatron ko bahut vistaar aur aatmeeyta se is aitihasik yug-parivartan ka mahatva samjhaaya. [ʋɪd̪ʋaːn praːd̪ʱjaːpək neː aːdʒ praːt̪əɦkaːl səbʱaːɡaːr mẽː səbʱiː dʒɪɡjaːsʊ tʃʰaːt̪rõː koː bəɦʊt̪ ʋɪst̪aːr ɔːr aːtmiːjt̪aː seː ɪs ɛːt̪ɪhaːsɪk jʊɡ pərɪʋərt̪ən kaː məɦət̪ʋə səmədʒʱaːjaː] (veed-VAHN prahdh-YAH-puhk nay ahj prah-tuhk-KAHL suh-bhah-GAHR mayn SUH-bhee jeeg-YAH-soo CHHAH-trohn koh buh-hoot vees-TAHR owr aht-mee-yuh-TAH say ees ay-tee-HAH-seek yoog-puh-ree-vuhr-TUHN kah muh-huht-vuh suhm-JHAH-yah)",
+          "translation": "The scholarly professor explained the importance of this historic epochal transformation to all inquisitive students in the auditorium this morning in great detail and with warmth."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "पदक्रम = कर्ता + काल (Time) + स्थान (Place) + रीति (Manner) + परिमाण (Quantity) + क्रिया (Verb)!"
+      ],
+      "culturalNotes": [
+        "संस्कृत और हिंदी की शास्त्रीय गद्य परंपरा में क्रिया-विशेषणों का यह सुव्यवस्थित पदक्रम वाग्मिता, स्पष्टता और श्रुति-माधुर्य का आधार माना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"बहन\":",
+          "prompt": "मानक पदक्रम (Time → Place → Manner → Verb) वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 19.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दादा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दादी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बेटा» का अनुचित स्थान)"
+            "अमित ने कल विद्यालय में ध्यानपूर्वक पाठ पढ़ा (Amit ne kal vidyaalay mein dhyaanpoorvak paath padha - Amit read the lesson attentively at school yesterday [canonical order: Time (kal) -> Place (vidyaalay mein) -> Manner (dhyaanpoorvak)])",
+            "अमित ने ध्यानपूर्वक कल पढ़ा विद्यालय में (अव्यवस्थित पदक्रम दोष)",
+            "अमित ने विद्यालय में पढ़ा कल ध्यानपूर्वक (पदक्रम विपर्यय)",
+            "कल पढ़ा अमित ने ध्यानपूर्वक विद्यालय में (अमानक रचना)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "हिंदी का मानक पदक्रम: कर्ता (अमित) + काल (कल) + स्थान (विद्यालय में) + रीति (ध्यानपूर्वक) + क्रिया (पढ़ा) है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"बहन\":",
+          "prompt": "वाक्य «छात्रों ने आज परीक्षा कक्ष में ___ से उत्तर लिखे» में सही रीतिवाचक पद भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 19.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दादी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बेटा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दादा» का अशुद्ध रूप)"
+            "शांतिपूर्वक (Shaantipoorvak - Peacefully / Quietly [manner adverb in canonical position])",
+            "परसों (Temporal clash with aaj)",
+            "दूर (Locative mismatch)",
+            "अत्यधिक (Degree mismatch for 'se')"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "रीति के स्थान पर '-पूर्वक' युक्त अव्यय «शांतिपूर्वक» पदक्रम के सर्वथा अनुकूल है।"
         }
       ]
     },
@@ -8207,17 +8256,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"बहन\": Which sentence is completely correct?",
+          "prompt": "चारों क्रिया-विशेषण वर्गों और मानक पदक्रम (Time-Place-Manner-Verb) का समग्र रूप से शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 19.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बेटा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दादा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दादी» से संबंधित)"
+            "चिकित्सकों ने आज प्रातःकाल अस्पताल में अत्यंत कुशलता और लगन से जटिल ऑपरेशन सफलतापूर्वक संपन्न किया। (Doctors successfully accomplished the complex operation with extreme skill and dedication in the hospital this morning.)",
+            "चिकित्सकों ने कुशलता से आज अस्पताल में किया ऑपरेशन।",
+            "अस्पताल में आज कुशलता से डॉक्टरों ने ऑपरेशन संपन्न किया था बहुत।",
+            "ऑपरेशन संपन्न किया आज डॉक्टरों ने अस्पताल में कुशलता से।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«आज प्रातःकाल» (काल) + «अस्पताल में» (स्थान) + «अत्यंत कुशलता और लगन से» (रीति) + «सफलतापूर्वक संपन्न किया» (क्रिया) का पदक्रम शत-प्रतिशत आदर्श है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u20-l1": {
