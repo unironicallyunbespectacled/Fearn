@@ -6635,53 +6635,62 @@
     "subject": "ukrainian",
     "unit": 16,
     "lessonNumber": 1,
-    "title": "Зворотні дієслова з часткою -ся/-сь (Reflexive Verbs) (Part 1)",
+    "title": "Власне-зворотні та взаємно-зворотні дієслова (Proper & Reciprocal Reflexives)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 16.1) with authentic linguistic precision.",
+    "objective": "Опанувати розрізнення власне-зворотних (дія на себе: умиватися) та взаємно-зворотних (взаємна дія: зустрічатися, листуватися) дієслів та правила евфонії постфікса -ся/-сь.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Зворотні дієслова в українській мові мають постфікс «-ся» (або його евфонічний варіант «-сь»), який історично походить від короткої форми зворотного займенника «себе».\n\n1. Власне-зворотні дієслова (Proper reflexive):\nПозначають дію, яку суб'єкт спрямовує безпосередньо на самого себе (суб'єкт і об'єкт дії збігаються):\n   - Умиватися (умивати себе), одягатися, розчісуватися, голитися, загартовуватися.\n   - Приклад: «Вранці спортсмен швидко вмивається холодною водою та готується до тренування».\n\n2. Взаємно-зворотні дієслова (Reciprocal reflexive):\nПозначають спільну дію двох або більше суб'єктів, спрямовану один на одного (кожен суб'єкт є водночас об'єктом):\n   - Зустрічатися, листуватися, обійматися, вітатися, радитися, прощатися, змагатися.\n   - Приклад: «Давні друзі радісно зустрілися на вокзалі й тепло обійнялися».\n\n3. Евфонічні правила вживання «-ся» та «-сь»:\n   - Після приголосних пишеться виключно «-ся»: умиваєшся, одягаються, зустрівся, сміються.\n   - Після голосних у поезії та розмовній мові постфікс може скорочуватися до «-сь» для милозвучності: сподіваюся / сподіваюсь, умилися / умились, схилилася / схилилась.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Щоранку я ретельно вмиваюся прохолодною водою і швидко одягаюся.",
+          "reading": "[ʃtʃɔˈrɑnku jɑ ˈrɛtɛlʲnɔ wmɪˈwɑjusʲɑ prɔxɔˈlɔdnɔju wɔˈdɔju i ˈʃwɪdkɔ ɔdʲɑˈɦɑjusʲɑ] (shchoh-RAHN-koo yah REH-tel'-noh vmy-VAH-yoos'-yah proh-khoh-LOHD-noh-yoo voh-DOH-yoo ee SHVYD-koh oh-dyah-HAH-yoos'-yah)",
+          "translation": "Every morning I wash thoroughly with cool water and get dressed quickly."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 16-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Колеги щотижня зустрічаються в лабораторії та радяться щодо нових експериментів.",
+          "reading": "[kɔˈlɛɦɪ ʃtʃɔtɪʒˈnʲɑ zustrʲiˈtʃɑjutʲsʲɑ w lɐbɔrɐˈtɔrʲiji tɑ ˈrɑdʲɐtʲsʲɑ ʃtʃɔˈdɔ nɔˈwɪx ɛkspɛrɪˈmɛntʲiw] (koh-LEH-hy shchoh-tyzh-NYAH zoos-tree-CHAH-yoot'-syah v lah-boh-rah-TOH-ry-yee tah RAH-dyat'-syah shchoh-DOH noh-VYKH eks-peh-ry-MEN-teew)",
+          "translation": "Colleagues meet weekly in the laboratory and consult on new experiments."
+        },
+        {
+          "target": "Ми вже понад п'ять років регулярно листуємося електронною поштою.",
+          "reading": "[mɪ wʒɛ ˈpɔnɐd pjɑtʲ ˈrɔkʲiw rɛɦuˈlʲɑrnɔ lɪsˈtujɛmɔsʲɑ ɛlɛktˈrɔnnɔju ˈpɔʃtɔju] (my vzheh POH-nahd pyat' ROH-keew reh-hoo-LYAHR-noh lys-TOO-yeh-mohs'-yah eh-lehk-TROHN-noh-yoo POHSH-toh-yoo)",
+          "translation": "We have been corresponding regularly via email for over five years."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Вмиватися» — діяти на себе; «листуватися й обійматися» — діяти разом один з одним!"
+      ],
+      "culturalNotes": [
+        "Фонетична вимова сполучень «-ться» як [ц':а] та «-шся» як [с':а] є фундаментальним законом української орфоепії (пишеться «вчиться», звучить [вч́иц':а])."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Хмара\":",
+          "prompt": "До якої семантичної групи належить дієслово «листуватися» у реченні «Учені постійно листуються між собою»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.1.",
-            "Неправильне відмінкове узгодження зі словом «Тепло»",
-            "Порушення законів евфонії та словотворення для «Холодно»",
-            "Стилістично некоректна синтаксична конструкція з «Весна»"
+            "Взаємно-зворотні дієслова (Reciprocal reflexive action directed at each other)",
+            "Власне-зворотні дієслова",
+            "Безособові дієслова",
+            "Пасивні дієслова"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Дієслово «листуватися» позначає взаємну спільну дію кількох осіб, тому є взаємно-зворотним."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Хмара\":",
+          "prompt": "Як згідно з законами орфоепії вимовляється буквосполучення «-ться» у дієслові «сміється»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.1.",
-            "Порушення законів евфонії та словотворення для «Холодно»",
-            "Стилістично некоректна синтаксична конструкція з «Весна»",
-            "Неправильне відмінкове узгодження зі словом «Тепло»"
+            "Як м'який подовжений звук [ц':а] (сміє[ц':а])",
+            "Як [т-с-я]",
+            "Як твердий [ца]",
+            "Як [ч':а]"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "В українській літературній вимові буквосполучення «-ться» уподібнюється до подовженого м'якого [ц':а]."
         }
       ]
     },
@@ -6689,17 +6698,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Хмара\": Which sentence is completely correct?",
+          "prompt": "Оберіть рядок, у якому всі дієслова належать до групи власне-зворотних (дія на самого себе):",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.1.",
-            "Стилістично некоректна синтаксична конструкція з «Весна»",
-            "Неправильне відмінкове узгодження зі словом «Тепло»",
-            "Порушення законів евфонії та словотворення для «Холодно»"
+            "Умиватися, одягатися, голитися, загартовуватися.",
+            "Зустрічатися, листуватися, обійматися, змагатися.",
+            "Сміятися, боятися, сподіватися, пишатися.",
+            "Смеркатися, не спиться, світатися, здаватися."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Дієслова «умиватися, одягатися, голитися, загартовуватися» виражають дію суб'єкта, спрямовану на самого себе."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u16-l2": {
@@ -6707,53 +6717,62 @@
     "subject": "ukrainian",
     "unit": 16,
     "lessonNumber": 2,
-    "title": "Зворотні дієслова з часткою -ся/-сь (Reflexive Verbs) (Part 2)",
+    "title": "Загальнозворотні дієслова та дієслова внутрішнього стану (General Reflexives & State)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 16.2) with authentic linguistic precision.",
+    "objective": "Опанувати використання загальнозворотних дієслів емоційного та фізичного стану (хвилюватися, радіти -> тішитися, дивуватися, злитися, заспокоюватися) та активних властивостей предмета.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Загальнозворотні дієслова позначають внутрішній психоемоційний або фізичний стан людини, зміни в організмі чи вияв постійних властивостей об'єкта:\n\n1. Дієслова психоемоційного та душевного стану:\nПозначають зміни в настрої, почуттях та переживаннях суб'єкта:\n   - Хвилюватися, турбуватися, журитися, печалитися;\n   - Радіти / тішитися (тішитися успіхами);\n   - Дивуватися (дивуватися відкриттю);\n   - Злитися, гніватися, сердитися, ображатися;\n   - Заспокоюватися, миритися, сумніватися.\n\n2. Дієслова змін фізичного стану та руху в просторі:\n   - Прокидатися, зупинятися, підводитися, нахилятися, ховатися, просуватися.\n\n3. Дієслова постійної активної властивості предмета:\nПоказують здатність предмета чи істоти проявляти дію щодо будь-кого:\n   - Собака кусається (має властивість кусати);\n   - Кропива жалиться (пече);\n   - Тканина легко мнеться;\n   - Двері погано зачиняються.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Студенти щиро тішаться своїми першими науковими досягненнями та успіхами.",
+          "reading": "[stuˈdɛntɪ ˈʃtʃɪrɔ ˈtʲiʃɐtʲsʲɑ swɔˈjɪmɪ ˈpɛrʃɪmɪ nɐuˈkɔwɪmɪ dɔsʲˈtʲɑɦnɛnʲːɐmɪ tɑ usʲˈpʲixɐmɪ] (stoo-DEN-ty SHCHY-roh TEE-shaht'-syah swoh-YEE-my PEHR-shym-y nah-oo-KOH-wy-my dohs-TYAHH-nen-nyah-my tah oos-PEE-khah-my)",
+          "translation": "The students are sincerely delighted with their first scientific achievements and successes."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 16-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Перед важливим публічним виступом оратор трохи хвилювався, але швидко заспокоївся.",
+          "reading": "[pɛrɛd wɑʒˈlɪwɪm pubˈlʲitʃnɪm ˈwɪstupɔm ɔˈrɑtɔr ˈtrɔxɪ xwɪlʲuˈwɑwsʲɑ, ˈɑlɛ ˈʃwɪdkɔ zɐspɔˈkɔjɪwsʲɑ] (PEH-red vahzh-LY-wym poob-LEECH-nym VYS-too-pohm oh-RAH-tor TROH-khy khwy-lyoo-VAHV-syah, AH-leh SHVYD-koh zahs-poh-KOH-yeev-syah)",
+          "translation": "Before the important public speech the orator was a bit anxious, but calmed down quickly."
+        },
+        {
+          "target": "Будьте обережні біля саду: молода кропива дуже сильно жалиться.",
+          "reading": "[ˈbudʲtɛ ɔbɛˈrɛʒnʲi ˈbʲilʲɑ ˈsɑdu mɔlɔˈdɑ krɔpɪˈwɑ ˈduʒɛ ˈsʲilʲnɔ ˈʒɑlɪtʲsʲɑ] (BOOD'-teh oh-beh-REHZH-nee BEE-lyah SAH-doo moh-loh-DAH kroh-py-VAH DOO-zheh SEEL'-noh ZHAH-lyt'-syah)",
+          "translation": "Be careful near the garden: young nettle stings very severely."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Тішитися й хвилюватися» — стан душі; «кропива жалиться» — природна властивість!"
+      ],
+      "culturalNotes": [
+        "Дієслово «тішитися» (радіти, насолоджуватися) є питомим українським словом, що передає глибоку радість і задоволення результатами праці."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Тепло\":",
+          "prompt": "Яке значення має зворотне дієслово в реченні «Цей новий матеріал зовсім не мнеться»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.2.",
-            "Неправильне відмінкове узгодження зі словом «Холодно»",
-            "Порушення законів евфонії та словотворення для «Весна»",
-            "Стилістично некоректна синтаксична конструкція з «Осінь»"
+            "Постійна властивість або якість предмета (Characteristic property of the object)",
+            "Взаємна дія двох осіб",
+            "Власне-зворотна дія на самого себе",
+            "Безособовий стан погоди"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Дієслово «мнеться» описує якісну фізичну властивість матеріалу під час використання."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Тепло\":",
+          "prompt": "Оберіть дієслово психоемоційного стану, що керує орудним відмінком («... успіхами»):",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.2.",
-            "Порушення законів евфонії та словотворення для «Весна»",
-            "Стилістично некоректна синтаксична конструкція з «Осінь»",
-            "Неправильне відмінкове узгодження зі словом «Холодно»"
+            "Тішитися (тішитися успіхами - to rejoice in successes)",
+            "Дивуватися",
+            "Сумніватися",
+            "Боятися"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Дієслово «тішитися» в українській мові керує орудним відмінком: «тішитися успіхами»."
         }
       ]
     },
@@ -6761,17 +6780,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Тепло\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому вжито дієслово внутрішнього психоемоційного стану суб'єкта:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.2.",
-            "Стилістично некоректна синтаксична конструкція з «Осінь»",
-            "Неправильне відмінкове узгодження зі словом «Холодно»",
-            "Порушення законів евфонії та словотворення для «Весна»"
+            "Ми щиро тішилися кожній перемозі наших талановитих випускників.",
+            "Автомобіль швидко наблизився до перехрестя.",
+            "Хлопець ретельно вмивається холодною водою.",
+            "Діти гралися і змагалися на спортивному майданчику."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Тішилися» позначає внутрішній емоційний стан радості суб'єктів."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u16-l3": {
@@ -6779,53 +6799,62 @@
     "subject": "ukrainian",
     "unit": 16,
     "lessonNumber": 3,
-    "title": "Зворотні дієслова з часткою -ся/-сь (Reflexive Verbs) (Part 3)",
+    "title": "Безособово-зворотні конструкції (Impersonal Reflexive Syntax: -ться, -лося)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 16.3) with authentic linguistic precision.",
+    "objective": "Опанувати синтаксичну структуру безособових речень зі зворотними дієсловами (мені не спиться, хочеться, здається, дихається легко) та давальним відмінком суб'єкта.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Безособово-зворотні дієслова позначають дію або стан, що протікають незалежно від волі дійової особи, яка сприймає цей стан пасивно:\n\n1. Синтаксична модель безособових речень зі зворотними дієсловами:\n   - «Суб'єкт у ДАВАЛЬНОМУ відмінку (кому?) + Дієслово в 3-й особі однини (або с.р. минулого часу на -лося)»:\n     * Мені не спиться (I cannot sleep);\n     * Йому не сидиться на місці;\n     * Нам легко дихається у сосновому лісі;\n     * Їй хотілося вірити у диво;\n     * Студентам пощастило на іспиті.\n\n2. Модальні та перцептивні значення:\n   - Внутрішнє бажання/потяг: «Мені хочеться випити кави», «Тобі не здається?»\n   - Фізичне самопочуття: «Хворому не лежиться», «У горах легко дихається».\n   - Успіх та фатальність: «Команді пощастило здобути перемогу».\n   - Природні явища та час: «Надворі вже смеркається», «Взимку швидко темніє / темніється».\n\n3. Відсутність граматичного підмета:\nУ таких реченнях підмета в називному відмінку НЕ МОЖЕ бути. Суб'єкт переживання завжди стоїть у давальному відмінку (мені, тобі, йому, їй, нам, вам, їм).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Після виснажливого робочого дня мені зовсім не спалося через тривожні думки.",
+          "reading": "[ˈpʲisʲlʲɑ wɪsnɐʒˈlɪwɔɦɔ rɔˈbɔtʃɔɦɔ dnʲɑ mɛˈnʲi ˈzɔwsʲim nɛ spɐˈlɔsʲɑ ˈtʃɛrɛz trɪˈwɔʒnʲi ˈdumkɪ] (PEES-lyah vys-nahzh-LY-woh-hoh roh-BOH-choh-hoh dnyah meh-NYEE ZOHV-seem neh spah-LOHS'-yah CHEH-rez try-VOHZH-nee DOOM-ky)",
+          "translation": "After an exhausting workday I could not sleep at all because of anxious thoughts."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 16-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "У чистішому карпатському повітрі дихається надзвичайно легко та вільно.",
+          "reading": "[u t͡ʃɪsʲˈtʲiʃɔmu kɐrˈpɑt͡sʲkɔmu pɔˈwʲitrʲi ˈdɪxɐjɛtʲsʲɑ nɐdzwɪˈtʃɑjnɔ ˈlɛxkɔ tɑ ˈwʲilʲnɔ] (oo chys-TEE-shoh-moo kahr-PAHT-s'koh-moo poh-VEET-ryee DY-khah-yet'-syah nahd-zvy-CHAHY-noh LEHKH-koh tah VEEL'-noh)",
+          "translation": "In the purer Carpathian air breathing is extraordinarily easy and free."
+        },
+        {
+          "target": "Науковцям щиро хотілося якнайшвидше завершити підготовку фундаментального звіту.",
+          "reading": "[nɐuˈkɔwt͡sʲɐm ˈʃtʃɪrɔ xɔˈtʲilɔsʲɑ jɐknɐjˈʃwɪdʃɛ zɐwɛrˈʃɪtɪ pʲidɦɔˈtɔwku fundɐmɛnˈtɑlʲnɔɦɔ ˈzwʲitu] (nah-oo-KOV-tsyahm SHCHY-roh khoh-TEE-lohs'-yah yahk-nahy-SHVYD-sheh zah-vehr-SHY-ty peed-hoh-TOHV-koo foon-dah-men-TAHL'-noh-hoh ZVEE-too)",
+          "translation": "The scientists sincerely wished to complete the preparation of the fundamental report as quickly as possible."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Немає підмета — стан у давальному: «мені не спиться», «йому хочеться», «нам дихається»!"
+      ],
+      "culturalNotes": [
+        "Безособові конструкції є яскравою типологічною рисою синтаксису української мови, яка надає мовленню надзвичайної делікатності та психологічної глибини."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Холодно\":",
+          "prompt": "У якому відмінку стоїть логічний суб'єкт у реченні «... не сиділося на одному місці»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.3.",
-            "Неправильне відмінкове узгодження зі словом «Весна»",
-            "Порушення законів евфонії та словотворення для «Осінь»",
-            "Стилістично некоректна синтаксична конструкція з «Лікар»"
+            "У давальному відмінку (Дітям не сиділося - logical subject in Dative)",
+            "У називному відмінку",
+            "В орудному відмінку",
+            "У місцевому відмінку"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "У безособових реченнях зі зворотними дієсловами суб'єкт позначається давальним відмінком: «дітям / мені / йому»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Холодно\":",
+          "prompt": "Яке речення є безособовим зі зворотним дієсловом стану?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.3.",
-            "Порушення законів евфонії та словотворення для «Осінь»",
-            "Стилістично некоректна синтаксична конструкція з «Лікар»",
-            "Неправильне відмінкове узгодження зі словом «Весна»"
+            "У лісі дихається напрочуд легко.",
+            "Спортсмен дихає глибоко.",
+            "Студенти вчаться старанно.",
+            "Місто прокидається від сну."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Речення «У лісі дихається напрочуд легко» не має підмета і містить безособово-зворотне дієслово «дихається»."
         }
       ]
     },
@@ -6833,17 +6862,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Холодно\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому безособову конструкцію побудовано абсолютно правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.3.",
-            "Стилістично некоректна синтаксична конструкція з «Лікар»",
-            "Неправильне відмінкове узгодження зі словом «Весна»",
-            "Порушення законів евфонії та словотворення для «Осінь»"
+            "Мені сьогодні зовсім не працювалося через сильний головний біль.",
+            "Я сьогодні зовсім не працювалося через біль.",
+            "Мене сьогодні не працювалося через біль.",
+            "Мною сьогодні не працювалося через біль."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Правильна модель вимагає давального відмінка суб'єкта: «мені не працювалося»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u16-l4": {
@@ -6851,53 +6881,62 @@
     "subject": "ukrainian",
     "unit": 16,
     "lessonNumber": 4,
-    "title": "Зворотні дієслова з часткою -ся/-сь (Reflexive Verbs) (Part 4)",
+    "title": "Дієслова Reflexiva Tantum (тільки з постфіксом -ся)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 16.4) with authentic linguistic precision.",
+    "objective": "Опанувати список дієслів групи Reflexiva Tantum (що існують тільки з постфіксом -ся) та їх відмінкове керування (боятися темряви, пишатися мовою, сподіватися на успіх).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Reflexiva Tantum — це категорія дієслів, які в українській мові взагалі не вживаються без постфікса «-ся» (не мають незворотної пари):\n\n1. Основний реєстр дієслів Reflexiva Tantum:\n   - Психологічні реакції та почуття: сміятися, боятися, сподіватися, надіятися, пишатися, гордитися, каятися, журитися, лінуватися, лютувати, хизуватися.\n   - Поведінка та мовні дії: знущатися, кпити (глузувати), козирятися, пручатися, намагатися, наважитися, схаменутися.\n   - Природні процеси та рух: лисніти (лиснітися), звиватися, плентатися, торопитися.\n\n2. Специфіка синтаксичного керування:\n   - Боятися, лякатися -> керують РОДОВИМ відмінком без прийменника: боятися труднощів, боятися темряви (а не *боятися за темряву*).\n   - Пишатися, гордитися -> керують ОРУДНИМ відмінком: пишатися Батьківщиною, пишатися досягненнями.\n   - Сподіватися, надіятися -> керують прийменником НА + Знахідний відмінок: сподіватися на перемогу, надіятися на краще.\n   - Знущатися, глузувати -> керують прийменником З / НАД + Родовий/Орудний: глузувати з ворога, знущатися над полоненими.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Ми щиро пишаємося нашими мужніми захисниками та незламним українським народом.",
+          "reading": "[mɪ ˈʃtʃɪrɔ pɪˈʃɑjɛmɔsʲɑ ˈnɑʃɪmɪ ˈmuʒnʲimɪ zɐxɪsnɪˈkɑmɪ tɑ nɛzˈlɑmnɪm ukrɐˈjinʲskɪm nɐˈrɔdɔm] (my SHCHY-roh py-SHAH-yeh-mohs'-yah NAH-shy-my MOOZH-nee-my zah-khys-ny-KAH-my tah nez-LAHM-nym oo-krah-YEEN-skym nah-ROH-dohm)",
+          "translation": "We are sincerely proud of our courageous defenders and the unconquerable Ukrainian people."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 16-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Справжній дослідник ніколи не боїться складних завдань і наполегливо намагається досягти мети.",
+          "reading": "[ˈsprɑwʒnʲij dɔsʲˈlʲidnɪk ˈnʲikɔlɪ nɛ bɔˈjitʲsʲɑ sklɐdˈnɪx zɐwˈdɑnʲ i nɐpɔˈlɛɦlɪwɔ nɐˈmɑɦɐjɛtʲsʲɑ dɔsʲˈtʲɑxtɪ mɛˈtɪ] (SPRAHVZH-neey dohs-LEED-nyk NEE-koh-ly neh boh-YEET'-syah sklahd-NYKH zahv-DAHN' ee nah-poh-LEHH-ly-woh nah-MAH-hah-yet'-syah dohs-TYAHKH-ty meh-TY)",
+          "translation": "A true researcher is never afraid of difficult tasks and persistently attempts to achieve the goal."
+        },
+        {
+          "target": "Українці твердо сподіваються на відновлення справедливого миру та процвітання країни.",
+          "reading": "[ukrɐˈjinʲt͡sʲi ˈtwɛrdɔ spɔdʲiˈwɑjutʲsʲɑ nɑ wʲidnɔwˈlɛnʲːɑ sprɐwɛdˈlɪwɔɦɔ ˈmɪru tɑ prɔt͡swʲiˈtɑnʲːɑ krɐˈjinɪ] (oo-krah-YEEN-tsee TVEHR-doh spoh-dee-VAH-yoot'-syah nah veed-nohv-LEN-nyah sprah-vehd-LY-woh-hoh MY-roo tah proh-tsvee-TAHN-nyah krah-YEE-ny)",
+          "translation": "Ukrainians firmly hope for the restoration of a just peace and the prosperity of the country."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Слова-близнюки з «-ся»: «боятися» (чого?), «пишатися» (чим?), «сподіватися» (на що?) — без «-ся» їх у природі немає!"
+      ],
+      "culturalNotes": [
+        "Дієслово «пишатися» є ключовим компонентом патріотичного та урочистого дискурсу в сучасній Україні."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Весна\":",
+          "prompt": "Оберіть правильний відмінок залежного слова при дієслові «боятися» у реченні «Він ніколи не боявся ...»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.4.",
-            "Неправильне відмінкове узгодження зі словом «Осінь»",
-            "Порушення законів евфонії та словотворення для «Лікар»",
-            "Стилістично некоректна синтаксична конструкція з «Аптека»"
+            "Труднощів (Родовий відмінок без прийменника)",
+            "Труднощами",
+            "На труднощі",
+            "Про труднощі"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Дієслово «боятися» стандартно керує родовим відмінком без прийменника: «боятися труднощів»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Весна\":",
+          "prompt": "Яке дієслово належить до категорії Reflexiva Tantum (не існує без частки -ся)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.4.",
-            "Порушення законів евфонії та словотворення для «Лікар»",
-            "Стилістично некоректна синтаксична конструкція з «Аптека»",
-            "Неправильне відмінкове узгодження зі словом «Осінь»"
+            "Сподіватися (Reflexivum tantum - no non-reflexive base сподівати in standard use)",
+            "Читати",
+            "Писати",
+            "Одягати"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Дієслово «сподіватися» функціонує виключно з постфіксом -ся."
         }
       ]
     },
@@ -6905,17 +6944,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Весна\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому синтаксичне керування дієслова Reflexivum Tantum виконано абсолютно правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.4.",
-            "Стилістично некоректна синтаксична конструкція з «Аптека»",
-            "Неправильне відмінкове узгодження зі словом «Осінь»",
-            "Порушення законів евфонії та словотворення для «Лікар»"
+            "Ми щиро пишаємося високими досягненнями наших молодих винахідників.",
+            "Ми щиро пишаємося про високі досягнення наших винахідників.",
+            "Ми щиро пишаємося за високі досягнення винахідників.",
+            "Ми щиро пишаємося високих досягнень винахідників."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Дієслово «пишатися» вимагає орудного відмінка без прийменника: «пишаємося досягненнями»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u16-l5": {
@@ -6923,53 +6963,62 @@
     "subject": "ukrainian",
     "unit": 16,
     "lessonNumber": 5,
-    "title": "Зворотні дієслова з часткою -ся/-сь (Reflexive Verbs) (Part 5)",
+    "title": "Зворотність та пасивний стан: культура мови (Reflexive vs Passive Calques)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 16.5) with authentic linguistic precision.",
+    "objective": "Опанувати фундаментальні правила української стилістики щодо усунення штучних пасивних конструкцій на -ся (закон приймається радою -> Рада ухвалює закон / закон ухвалено).",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові вживання дієслів на «-ся» у значенні пасивного стану при наявності суб'єкта дії є неприпустимою калькою з російської мови:\n\n1. Стилістична заборона (калькований пасив на «-ся»):\n   - Неправильно (суржиковий пасив): «Закон приймається Верховною Радою», «Книга пишеться автором», «Будинок будується робітниками».\n\n2. Нормативні способи вираження дії в українській мові:\n   - Спосіб 1: Активна конструкція (Дійова особа в називному відмінку + дієслово + прямий додаток):\n     * «Верховна Рада ухвалює закон».\n     * «Автор пише цікаву книгу».\n     * «Будівельники зводять сучасний будинок».\n   - Спосіб 2: Безособові предикативні форми на «-но», «-то» (найхарактерніша риса українського ділового стилю):\n     * «Закон ухвалено Верховною Радою».\n     * «Книгу написано талановитим автором».\n     * «Будинок побудовано вчасно».\n   - Спосіб 3: Неозначено-особові речення (дія у 3-й особі множини):\n     * «У місті будують новий міст».\n     * «На зборах обговорюють важливі питання».\n\n3. Коли «-ся» є природним:\nДієслово на «-ся» вживається лише тоді, коли процес мислиться як природний стан або саморозвиток без зазначення зовнішнього агента:\n   - «Пшениця колоситься в полі»;\n   - «Двері відчиняються автоматично»;\n   - «Крига тане на сонці».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Верховна Рада України одноголосно ухвалила важливий євроінтеграційний закон.",
+          "reading": "[wɛrˈxɔwnɐ ˈrɑdɐ ukrɐˈjinɪ ɔdnɔɦɔˈlɔsnɔ uxˈwɑlɪlɐ wɑʒˈlɪwɪj jɛwrɔintɛɦrɐt͡sʲijˈnɪj zɐˈkɔn] (vehr-KHOHV-nah RAH-dah oo-krah-YEE-ny ohd-noh-hoh-LOHS-noh ookh-VAH-ly-lah vahzh-LY-vyy yehv-roh-een-teh-hrah-tseey-NYY zah-KOHN)",
+          "translation": "The Verkhovna Rada of Ukraine unanimously passed an important European integration law."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 16-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Усі необхідні фінансові документи вже перевірено та затверджено керівництвом.",
+          "reading": "[uˈsʲi nɛɔbˈxʲidnʲi fʲinɐnˈsɔwʲi dɔkuˈmɛntɪ wʒɛ pɛrɛˈwʲirɛnɔ tɑ zɐtwɛrˈdʒɛnɔ kɛrʲiwˈnɪt͡stwɔm] (oo-SEE neh-ohb-KHEED-nee fee-nahn-SOH-vee doh-koo-MEN-ty vzheh peh-reh-VEE-reh-noh tah zah-twehr-DZHEN-noh keh-reev-NYTS-tvohm)",
+          "translation": "All necessary financial documents have already been verified and approved by the management."
+        },
+        {
+          "target": "На весняному теплому сонці швидко тане останній зимовий сніг.",
+          "reading": "[nɑ wɛsʲˈnʲɑnɔmu ˈtɛplɔmu ˈsɔnt͡sʲi ˈʃwɪdkɔ ˈtɑnɛ ɔsˈtɑnʲːij zɪˈmɔwɪj sʲnʲix] (nah ves-NYAH-noh-moo TEP-loh-moo SOHN-tsee SHVYD-koh TAH-neh ohs-TAHN-nyay zy-MOH-vyy sneekh)",
+          "translation": "Under the warm spring sun the last winter snow is quickly melting."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Не кажи «закон приймається радою» — скажи «Рада ухвалює закон» або «закон ухвалено»!"
+      ],
+      "culturalNotes": [
+        "Використання дієслівних форм на -но, -то замість пасивів на -ся є золотим стандартом юридичного та ділового мовлення незалежної України."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Осінь\":",
+          "prompt": "Як нормативно відредагувати речення зі штучним пасивом «Звіт готується комісією»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.5.",
-            "Неправильне відмінкове узгодження зі словом «Лікар»",
-            "Порушення законів евфонії та словотворення для «Аптека»",
-            "Стилістично некоректна синтаксична конструкція з «Ліки»"
+            "Комісія готує звіт / Звіт підготовлено комісією (Active voice or impersonal -но form)",
+            "Звіт робиться комісією",
+            "Звіт є готуємий комісією",
+            "Звітом готується комісія"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативною заміною є активна конструкція «Комісія готує звіт» або предикативна на -но «Звіт підготовлено»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Осінь\":",
+          "prompt": "Яка конструкція є найбільш органічною для офіційно-ділового стилю української мови?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.5.",
-            "Порушення законів евфонії та словотворення для «Аптека»",
-            "Стилістично некоректна синтаксична конструкція з «Ліки»",
-            "Неправильне відмінкове узгодження зі словом «Лікар»"
+            "Рішення ухвалено одноголосно (Impersonal predicative form in -но)",
+            "Рішення ухвалюється одноголосно всіма",
+            "Рішення є ухвалене",
+            "Рішення прийнялося"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Форми на -но/-то («ухвалено», «виконано») є нормативним стандартом українського ділового стилю."
         }
       ]
     },
@@ -6977,17 +7026,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Осінь\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому НЕМАЄ штучного пасивного вживання дієслова на -ся:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 16.5.",
-            "Стилістично некоректна синтаксична конструкція з «Ліки»",
-            "Неправильне відмінкове узгодження зі словом «Лікар»",
-            "Порушення законів евфонії та словотворення для «Аптека»"
+            "Провідні науковці університету ретельно досліджують цю актуальну тему.",
+            "Ця актуальна тема ретельно досліджується науковцями університету.",
+            "Нова книга зараз пишеться відомим українським автором.",
+            "План розвитку затверджується міською радою щороку."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Речення «Провідні науковці досліджують...» побудовано в природному активному стані без штучного пасиву на -ся."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u17-l1": {
