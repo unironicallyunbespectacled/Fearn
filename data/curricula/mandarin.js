@@ -11620,85 +11620,89 @@
     "subject": "mandarin",
     "unit": 20,
     "lessonNumber": 1,
-    "title": "存现句与空间状态描写 (Existential Sentences) (第1讲)",
+    "title": "静态存在句（处所词+V+着/了+无定名词宾语）与宾语「无定性」铁律 (Static Existential Sentences: V+zhe/le & Indefinite Object Constraint)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：处所词作主语的存现句（存在句/出现句/消失句）及动词后附助词「着/了」。 (第1部分)。",
+    "objective": "系统掌握现代汉语静态存在句的句法构造与动态助词「着/了」的功能，深刻领会并严格遵守存现宾语必须为「无定泛指成分」的核心语法铁律。",
     "presentation": {
-      "explanation": "",
+      "explanation": "静态存在句用于说明在某一特定空间位置客观存在着某种人或事物，具有鲜明的汉民族空间构图特征：\n\n一、静态存在句基本句法框架：\n- 句法结构：【处所短语（句首作主语） + 及物/不及物动词 + 着/了 + [数量词/无定修饰语 + 名词宾语]】。\n- 范例说明：\n1. 桌子上放着一套精密的实验测量仪器。\n2. 墙上悬挂着几幅古代名家水墨书法长卷。\n3. 门前整齐地停放着几辆新能源电动汽车。\n4. 前排端坐着数十位德高望重的资深院士与专家学者。\n\n二、核心语法铁律：【存现宾语的「无定性 (Indefiniteness)」制约】！\n- 语言学机理：存现句的功能是向听话人引介未知的新信息或新实体，因此宾语必须是【无定泛指成分】（通常带有数量词：一个人、三本书、几张图纸、一批专家）。\n- 严禁病句：绝对禁止在存现宾语中使用「这/那/人称代词/专有名词」等有定特指成分！\n1. 严重病句：*桌子上放着这本书。 改正：桌子上放着**一本书** / **这本书**放在桌子上。\n2. 严重病句：*门前站着李教授。 改正：门前站着**一位老教授** / **李教授**站在门前。\n\n三、句首处所词的独立主语地位：\n- 在标准现代汉语中，句首处所词直接充当全句的语法主语，【通常无需也不建议加介词「在」】（如：院子里种着一棵大树；严禁生硬套用 *在院子里种着一棵大树）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「存现句与空间状态描写 (Existential Sentences)」的核心语法法则与应用范例 (20.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '存现句与空间状态描写 (Existential Sentences)' in simple terms to students at the academic seminar."
+          "target": "宽敞明亮的学术报告厅正中央整齐地摆放着一张红木讲桌，桌上放着一套智能同声传译设备。(Kuānchǎng míngliàng de xuéshù bàogàotīng zhèng zhōngyāng zhěngqí de bǎifàng zhe yì zhāng hóngmù jiǎngzhuō, zhuō shang fàng zhe yí tào zhìnéng tóngshēng chuányì shèbèi.)",
+          "reading": "[kʰwan˥.ʈ͡ʂʰɑŋ˨˩˦ miŋ˧˥.ljaŋ˥˩ tɤ ɕɥɛ˧˥.ʂu˥˩ paʊ̯˥˩.kaʊ̯˥˩.tʰiŋ˥ ʈ͡ʂəŋ˥˩ ʈ͡ʂʊŋ˥.jɑŋ˥ ʈ͡ʂəŋ˨˩.t͡ɕʰi˧˥ tɤ paɪ̯˨˩.fɑŋ˥˩ ʈ͡ʂɤ i˥ ʈ͡ʂwɑŋ˥ xʊŋ˧˥.mu˥˩ t͡ɕjaŋ˨˩.ʈ͡ʂwɔ˥, ʈ͡ʂwɔ˥ ʂɑŋ fɑŋ˥˩ ʈ͡ʂɤ i˥ tʰaʊ̯˥˩ ʈ͡ʂɨ˥˩.nɤŋ˧˥ tʰʊŋ˧˥.ʂəŋ˥ t͡ʂʰwan˧˥.i˥˩ ʂɤ˥˩.peɪ̯˥˩] (Kuān-chǎng míng-liàng de xué-shù bào-gào-tīng zhèng zhōng-yāng zhěng-qí de bǎi-fàng zhe yì zhāng hóng-mù jiǎng-zhuō, zhuō shang fàng zhe yí tào zhì-néng tóng-shēng chuán-yì shè-bèi.)",
+          "translation": "In the very center of the spacious and bright academic lecture hall, a mahogany lectern is neatly placed, and on the desk rests a set of intelligent simultaneous interpretation equipment."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (20.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "在庄严肃穆的院士墙上整齐地悬挂着数十位杰出科学家的生平肖像与功勋简介。(Zài zhuānyán sùmù de yuànshì qiáng shang zhěngqí de xuánguà zhe shùshí wèi jiéchū kēxuéjiā de shēngpíng xiàoxiàng yǔ gōngxūn jiǎnjiè.)",
+          "reading": "[t͡saɪ̯˥˩ ʈ͡ʂwan˥.jan˧˥ su˥˩.mu˥˩ tɤ jɥɛn˥˩.ʂɨ˥˩ t͡ɕʰjaŋ˧˥ ʂɑŋ ʈ͡ʂəŋ˨˩.t͡ɕʰi˧˥ tɤ ɕɥan˧˥.kwa˥˩ ʈ͡ʂɤ ʂu˥˩.ʂɨ˧˥ weɪ̯˥˩ t͡ɕjɛ˧˥.t͡ʂʰu˥ kʰɤ˥.ɕɥɛ˧˥.t͡ɕja˥ tɤ ʂəŋ˥.pʰiŋ˧˥ ɕjaʊ̯˥˩.ɕjaŋ˥˩ y˨˩˦ kʊŋ˥.ɕyn˥ t͡ɕjɛn˨˩.t͡ɕjɛ˥˩] (Zài zhuān-yán sù-mù de yuàn-shì qiáng shang zhěng-qí de xuán-guà zhe shù-shí wèi jié-chū kē-xué-jiā de shēng-píng xiào-xiàng yǔ gōng-xūn jiǎn-jiè.)",
+          "translation": "On the solemn Academician Wall are neatly hung the biographical portraits and meritorious achievement profiles of dozens of outstanding scientists."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (20.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "实验室进门右侧的展示柜里陈列着历代科研团队攻坚克难所荣获的各类奖杯与证书。(Shíyànshì jìnmén yòucè de zhǎnshìguì lǐ chénliè zhe lìdài kēyán tuánduì gōngjiān-kènán suǒ rónghuò de gèlèi jiǎngbēi yǔ zhèngshū.)",
+          "reading": "[ʂɨ˧˥.jɛn˥˩.ʂɨ˥˩ t͡ɕin˥˩.mən˧˥ joʊ̯˥˩.t͡sʰɤ˥˩ tɤ ʈ͡ʂan˨˩.ʂɨ˥˩.kweɪ̯˥˩ li˨˩˦ ʈ͡ʂʰən˧˥.ljɛ˥˩ ʈ͡ʂɤ li˥˩.taɪ̯˥˩ kʰɤ˥.jan˧˥ tʰwan˧˥.tweɪ̯˥˩ kʊŋ˥.t͡ɕjɛn˥.kʰɤ˥˩.nan˧˥ swɔ˨˩˦ ʐʊŋ˧˥.xwo˥˩ tɤ kɤ˥˩.leɪ̯˥˩ t͡ɕjaŋ˨˩.peɪ̯˥ y˨˩˦ ʈ͡ʂəŋ˥˩.ʂu˥] (Shí-yàn-shì jìn-mén yòu-cè de zhǎn-shì-guì lǐ chén-liè zhe lì-dài kē-yán tuán-duì gōng-jiān-kè-nán suǒ róng-huò de gè-lèi jiǎng-bēi yǔ zhèng-shū.)",
+          "translation": "In the display cabinet on the right side of the laboratory entrance are displayed various trophies and certificates won by scientific research teams over the generations by tackling tough difficulties."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (20.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "存现句句首处所词直接充当主语，后接宾语必须遵守无定泛指的核心语法制约。(Cúnxiànjù jùshǒu chùsuǒcí zhíjiē chōngdāng zhǔyǔ, hòujiē bīnyǔ bìxū zūnshǒu wúdìng fànzhǐ de héxīn yǔfǎ zhìyuē.)",
+          "reading": "[t͡sʰwən˧˥.ɕjɛn˥˩.t͡ɕy˥˩ t͡ɕy˥˩.ʂoʊ̯˨˩˦ t͡ʂʰu˥˩.swɔ˨˩.t͡sʰɨ˧˥ ʈ͡ʂɨ˥.t͡ɕjɛ˥ ʈ͡ʂʰʊŋ˥.tɑŋ˥ ʈ͡ʂu˨˩.y˨˩˦, xoʊ̯˥˩.t͡ɕjɛ˥ pin˥.y˨˩˦ pi˥˩.ɕy˥ t͡swən˥.ʂoʊ̯˨˩˦ u˧˥.tiŋ˥˩ fan˥˩.ʈ͡ʂɨ˨˩˦ tɤ xɤ˧˥.ɕin˥ y˨˩˦.fa˨˩˦ ʈ͡ʂɨ˥˩.jɥɛ˥] (Cún-xiàn-jù jù-shǒu chù-suǒ-cí zhí-jiē chōng-dāng zhǔ-yǔ, hòu-jiē bīn-yǔ bì-xū zūn-shǒu wú-dìng fàn-zhǐ de hé-xīn yǔ-fǎ zhì-yuē.)",
+          "translation": "In existential sentences, the locative word at the beginning of the sentence directly serves as the subject, and the subsequent object must adhere to the core grammatical constraint of being indefinite."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "处所居首主语当，动后着了状态彰；宾语无定显新意，这那特指莫混装！"
+      ],
+      "culturalNotes": [
+        "存现句展现了汉民族「先安顿天地场域，再引出世间万象」的空间认知哲学。句首以处所开篇，体现了天人相应、移步换景的深邃文化意蕴。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「存现句与空间状态描写 (Existential Sentences)」（第1讲）的标准汉语规范？",
+          "prompt": "在现代汉语静态存现句中，关于动词后面的宾语成分，下列说明完全正确的是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「存现句与空间状态描写 (Existential Sentences)」的核心语法法则与应用范例 (20.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (20.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (20.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (20.1.w3)"
+            "宾语必须是无定泛指成分（如带数量词「一本书/几位学者」） (Object must be indefinite)",
+            "宾语必须带有代词「这/那」进行特指",
+            "宾语必须是人称代词「你/我/他」",
+            "宾语必须是专有名词"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "存现句宾语严格要求具有「无定性 (indefiniteness)」，用于引介未知的新实体。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "下列哪一个句子犯了「存现句宾语错误使用有定特指代词」的语法病句？",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "*桌子上放着这本新书。(Incorrect: Using definite '这本' in existential object)",
+            "桌子上放着一本新书。",
+            "这本新书在桌子上放着。",
+            "书架上摆着许多专业书籍。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "存现句不能说「放着这本新书」，应改为无定短语「放着一本新书」或主谓句「这本新书放在桌子上」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「存现句与空间状态描写 (Existential Sentences)」的正式语境下，最准确得体的表达是哪一项？（第20.1题）",
+          "prompt": "要表达「大礼堂的前排坐着几位享誉国内外的著名教授」，最地道规范的存现句是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (20.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (20.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (20.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (20.1.x3)"
+            "大礼堂前排坐着几位著名教授。(Natural existential sentence with locative subject)",
+            "在大礼堂前排坐着这几位著名教授。",
+            "几位著名教授被坐着在大礼堂。",
+            "前排把几位著名教授坐着。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "处所词「大礼堂前排」直接作主语，后接「动词+着+无定宾语」，完美合规。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u20-l1）所要求的高阶语言表达？",
+          "prompt": "在静态存现句中，动词后面通常附带哪两个动态助词来表达状态的持续存在？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (20.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (20.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (20.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (20.1.y3)"
+            "着 / 了 (Aspect markers: 着 for continuous state / 了 for resultant presence)",
+            "过 / 的",
+            "得 / 地",
+            "吗 / 呢"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「动词 + 着/了」是静态存现句表达状态持续与存留的核心形态标志。"
         }
       ]
     },
@@ -11706,25 +11710,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「存现句与空间状态描写 (Existential Sentences)」的掌握程度，请选出表述完全正确的标准范句（测试 20-1）：",
+          "prompt": "请选出下列存现句中处所主语清晰、动词形态准确、宾语无定性完全合规的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (20.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (20.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (20.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (20.1.z3)"
+            "学术交流中心正大门前整齐地停放着几辆迎宾大巴，大厅里悬挂着一条醒目的中英双语欢迎横幅。(处所主语、动补着、无定宾语全系严整规范)",
+            "大门前停放着那辆大巴，大厅里悬挂着这个横幅。(宾语滥用有定词这/那)",
+            "大厅把横幅悬挂着在里面。(把字句与存现句严重杂糅)",
+            "大巴被停放在大门前着。(语序彻底混乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句在两个分句中均严格遵守了处所作主语及无定宾语「几辆大巴」、「一条横幅」的存现法则。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u20-l1）的核心关键词（例如「存现句与」）：",
+          "prompt": "请输入静态存现句中用于表示动作状态持续存在的核心单字动态助词（例如摆放「」，拼音为 zhe）：",
           "acceptedAnswers": [
-            "存现句与",
-            "存现句与空间",
-            "存现句与空间状态描写"
+            "着"
           ],
-          "explanation": "正确的核心关键词为「存现句与」。"
+          "explanation": "助词「着」是现代汉语静态存现句中表示状态静态持续的核心动态助词。"
         }
       ],
       "passThreshold": 0.8
@@ -11735,85 +11737,89 @@
     "subject": "mandarin",
     "unit": 20,
     "lessonNumber": 2,
-    "title": "存现句与空间状态描写 (Existential Sentences) (第2讲)",
+    "title": "动态隐现句（出现句与消失句）的句法语义机理 (Dynamic Emergence & Disappearance Sentences)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：处所词作主语的存现句（存在句/出现句/消失句）及动词后附助词「着/了」。 (第2部分)。",
+    "objective": "系统掌握现代汉语动态隐现句的两大分支：出现句（位移趋向显现）与消失句（减损耗尽离去）的句法框架、动词限制与时空叙事功能。",
     "presentation": {
-      "explanation": "",
+      "explanation": "动态隐现句是存现句在时空流转中的动态延伸，专门用于表达在特定空间内新实体的「突然显现」或已有实体的「离去消失」：\n\n一、出现句（新实体进入空间视野）：\n1. 句法框架：【处所词 + 位移/发生动词 + 了/来 + [无定宾语]】。\n- 核心动词：来、走来、飞来、跑来、开来、升起、冒出、发生、出现、降临等。\n- 范例说明：\n1. 门外走进来一位精神矍铄的老科学家（走进来 + 一位老科学家）。\n2. 天边升起了一轮金色的红日（升起了 + 一轮红日）。\n3. 窗前飞来了一群叽叽喳喳的彩色小鸟（飞来了 + 一群小鸟）。\n4. 实验室里发生了一起极其罕见的化学物理反应（发生了一起反应）。\n\n二、消失句（既有实体脱离空间场域或数量损耗）：\n1. 句法框架：【处所词 + 消耗/脱离/减少动词 + 了 + [数量受事宾语]】。\n- 核心动词：走、跑、死、丢、少、飞、漏、逃等。\n- 范例说明：\n1. 课题组前天走了一位资深算法工程师（走了一位工程师）。\n2. 仓库里清点时少了两箱关键电子元件（少了两箱元件）。\n3. 院子里的池塘昨天跑了三条名贵锦鲤（跑了三条锦鲤）。\n4. 邻居家上周丢了一只极其名贵的波斯猫（丢了一只猫）。\n\n三、隐现句的篇章叙事功能：\n- 隐现句在影视文学与新闻纪实中具有极高的镜头感，能够生动再现场景的骤变与焦点转移。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「存现句与空间状态描写 (Existential Sentences)」的核心语法法则与应用范例 (20.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '存现句与空间状态描写 (Existential Sentences)' in simple terms to students at the academic seminar."
+          "target": "散会之后，长廊尽头迎面走过来几位意气风发、手持讨论记录本的青年学者。(Sànhuì zhīhòu, chángláng jìntóu yíngmiàn zǒuguòlai jǐ wèi yìqì-fēngfā, shǒu chí tǎolùn jìlùběn de qīngnián xuézhě.)",
+          "reading": "[san˥˩.xweɪ̯˥˩ ʈ͡ʂɨ˥.xoʊ̯˥˩, ʈ͡ʂʰɑŋ˧˥.lɑŋ˧˥ t͡ɕin˥˩.tʰoʊ̯˧˥ iŋ˧˥.mjɛn˥˩ t͡soʊ̯˨˩.kwo˥˩.laɪ̯ t͡ɕi˨˩˦ weɪ̯˥˩ i˥˩.t͡ɕʰi˥˩.fəŋ˥.fa˥, ʂoʊ̯˨˩˦ ʈ͡ʂʰɨ˧˥ tʰaʊ̯˨˩.lwen˥˩ t͡ɕi˥˩.lu˥˩.pən˨˩˦ tɤ t͡ɕʰiŋ˥.njɛn˧˥ ɕɥɛ˧˥.ʈ͡ʂɤ˨˩˦] (Sàn-huì zhī-hòu, cháng-láng jìn-tóu yíng-miàn zǒu-guò-lai jǐ wèi yì-qì-fēng-fā, shǒu chí tǎo-lùn jì-lù-běn de qīng-nián xué-zhě.)",
+          "translation": "After the meeting adjourned, at the end of the long corridor walked towards us several spirited young scholars holding discussion logbooks in hand."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (20.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "随着清晨第一缕阳光洒向大地，海平面上方冉冉升起了一轮璀璨夺目的朝阳。(Suízhe qīngchén dì-yī lǚ yángguāng sǎ xiàng dàdì, hǎipíngmiàn shàngfāng rǎnrǎn shēngqǐ le yì lún cuǐcàn duómù de zhāoyáng.)",
+          "reading": "[sweɪ̯˧˥.ʈ͡ʂɤ t͡ɕʰiŋ˥.t͡ʂʰən˧˥ ti˥˩.i˥ ly˨˩˦ jɑŋ˧˥.kwɑŋ˥ sa˨˩˦ ɕjaŋ˥˩ ta˥˩.ti˥˩, xaɪ̯˨˩.pʰiŋ˧˥.mjɛn˥˩ ʂɑŋ˥˩.fɑŋ˥ ʐan˨˩.ʐan˨˩˦ ʂəŋ˥.t͡ɕʰi˨˩˦ lɤ i˥ lwən˧˥ t͡sʰweɪ̯˨˩.t͡sʰan˥˩ twɔ˧˥.mu˥˩ tɤ ʈ͡ʂaʊ̯˥.jɑŋ˧˥] (Suí-zhe qīng-chén dì-yī lǚ yáng-guāng sǎ xiàng dà-dì, hǎi-píng-miàn shàng-fāng rǎn-rǎn shēng-qǐ le yì lún cuǐ-càn duó-mù de zhāo-yáng.)",
+          "translation": "As the first wisp of morning sunlight spilled over the vast earth, a dazzling and eye-catching morning sun slowly rose above the sea level."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (20.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "经过这次重大的科研人员架构重组，重点实验室调走了三位骨干、新搬进来了五名博士后。(Jīngguò zhè cì zhòngdà de kēyán rényuán jiàogòu chóngzǔ, zhòngdiǎn shíyànshì diàozǒu le sān wèi gǔgàn, xīn bānjinlai le wǔ míng bóshìhòu.)",
+          "reading": "[t͡ɕiŋ˥.kwo˥˩ ʈ͡ʂɤ˥˩ t͡sʰɨ˥˩ ʈ͡ʂʊŋ˥˩.ta˥˩ tɤ kʰɤ˥.jan˧˥ ʐən˧˥.jɥɛn˧˥ t͡ɕja˥˩.koʊ̯˥˩ ʈ͡ʂʰʊŋ˧˥.t͡su˨˩˦, ʈ͡ʂʊŋ˥˩.tjɛn˨˩˦ ʂɨ˧˥.jɛn˥˩.ʂɨ˥˩ tjaʊ̯˥.t͡soʊ̯˨˩˦ lɤ san˥ weɪ̯˥˩ ku˨˩.kan˥˩, ɕin˥ pan˥.t͡ɕin˥.laɪ̯ lɤ u˨˩˦ miŋ˧˥ pwo˧˥.ʂɨ˥˩.xoʊ̯˥˩] (Jīng-guò zhè cì zhòng-dà de kē-yán rén-yuán jià-gòu chóng-zǔ, zhòng-diǎn shí-yàn-shì diào-zǒu le sān wèi gǔ-gàn, xīn bān-jin-lai le wǔ míng bó-shì-hòu.)",
+          "translation": "After this major restructuring of scientific research personnel framework, the key laboratory transferred away three backbone researchers and newly moved in five postdoctoral fellows."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (20.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "昨天晚上图书馆自习室里突然跑掉了一只不知从哪儿溜进来的灰色小松鼠。(Zuótiān wǎnshang túshūguǎn zìxíshì lǐ tūrán pǎodiào le yì zhī bùzhī cóng nǎr liūjinlai de huīsè xiǎo sōngshǔ.)",
+          "reading": "[t͡swɔ˧˥.tʰjɛn˥ wan˨˩.ʂɑŋ tú˧˥.ʂu˥.kwan˨˩˦ t͡sɨ˥˩.ɕi˧˥.ʂɨ˥˩ li˨˩˦ tʰu˥.ʐan˧˥ pʰaʊ̯˨˩.tjaʊ̯˥˩ lɤ i˥ ʈ͡ʂɨ˥ pu˥.ʈ͡ʂɨ˥ t͡sʰʊŋ˧˥ naɚ˨˩˦ ljoʊ̯˥.t͡ɕin˥.laɪ̯ tɤ xweɪ̯˥.sɤ˥˩ ɕjaʊ̯˨˩˦ sʊŋ˥.ʂu˨˩˦] (Zuó-tiān wǎn-shang tú-shū-guǎn zì-xí-shì lǐ tū-rán pǎo-diào le yì zhī bù-zhī cóng nǎr liū-jin-lai de huī-sè xiǎo sōng-shǔ.)",
+          "translation": "Last night in the library study room, a gray little squirrel that had slipped in from nowhere suddenly ran away."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "出现走来升红日，消失跑掉少人员；动态隐现描场域，动补了来语意鲜！"
+      ],
+      "culturalNotes": [
+        "动态隐现句将宏观场域作为叙述舞台，以客观视角展现人事的去留代谢与自然天象的运转，蕴含了道法自然、物换星移的中国古代哲学情怀。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「存现句与空间状态描写 (Existential Sentences)」（第2讲）的标准汉语规范？",
+          "prompt": "在动态存现句中，句子「长廊尽头迎面走过来几位年轻学者」属于：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「存现句与空间状态描写 (Existential Sentences)」的核心语法法则与应用范例 (20.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (20.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (20.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (20.2.w3)"
+            "出现句（位移新实体进入空间视野） (Emergence sentence: 走过来)",
+            "消失句",
+            "静态存在句",
+            "被动句"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「处所 + 走过来 + 无定人名短语」是典型的动态出现句。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在句子「课题组上个月调走了两位核心骨干」中，该句表达的语法功能是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "消失句（表达人员从特定组织或空间场域中脱离减少） (Disappearance sentence: 调走了)",
+            "出现句",
+            "比较句",
+            "把字句"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「处所 + 调走了 + 数量名词」是典型的动态消失句。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「存现句与空间状态描写 (Existential Sentences)」的正式语境下，最准确得体的表达是哪一项？（第20.2题）",
+          "prompt": "要生动描写清晨红日从海平面冉冉升起的壮丽景象，最地道的出现句是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (20.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (20.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (20.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (20.2.x3)"
+            "海平面上方冉冉升起了一轮璀璨的朝阳。(Vivid dynamic emergence sentence)",
+            "朝阳在海平面上升起很璀璨。",
+            "海平面把一轮朝阳升起了。",
+            "一轮朝阳被升起在海平面。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "处所词居首，后接位移动词与动态助词「升起了」，再引出无定宾语「一轮朝阳」，画意生动。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u20-l2）所要求的高阶语言表达？",
+          "prompt": "下列哪一项属于规范标准的动态消失句？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (20.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (20.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (20.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (20.2.y3)"
+            "仓库里少了两台精密仪器。(Disappearance sentence: 少了两台仪器)",
+            "两台精密仪器在仓库里放着。",
+            "仓库里放着两台精密仪器。",
+            "精密仪器被存放在仓库里。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「处所 + 少了 + 数量名词」是表达数量减损脱离的标准消失句。"
         }
       ]
     },
@@ -11821,25 +11827,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「存现句与空间状态描写 (Existential Sentences)」的掌握程度，请选出表述完全正确的标准范句（测试 20-2）：",
+          "prompt": "请选出下列句子中动态出现句与消失句对仗严整、动补运用最精准的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (20.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (20.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (20.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (20.2.z3)"
+            "在科研攻关的关键阶段，团队虽然临时调走了两位老专家，但立刻新补充进来了四名优秀的青年博士。(调走了两位老专家（消失句）与补充进来了四名博士（出现句）对仗工稳完美)",
+            "老专家被调走了两个在团队，博士补充了。(语病严重句式杂糅)",
+            "团队把老专家调走，把博士进来。(动补残缺病句)",
+            "调走老专家在团队里。(语序混乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句在前半句使用消失句「调走了两位老专家」，后半句使用出现句「补充进来了四名博士」，对仗严密，生动体现了动态隐现句的叙事力量。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u20-l2）的核心关键词（例如「存现句与」）：",
+          "prompt": "请输入表达实体从空间中脱离、减少或消失的核心单字形容词/动词（例如少了两台机器中的「」，拼音为 shǎo）：",
           "acceptedAnswers": [
-            "存现句与",
-            "存现句与空间",
-            "存现句与空间状态描写"
+            "少"
           ],
-          "explanation": "正确的核心关键词为「存现句与」。"
+          "explanation": "字词「少」在消失句中直接充当谓语动词表达数量减损脱离。"
         }
       ],
       "passThreshold": 0.8
@@ -11850,85 +11854,89 @@
     "subject": "mandarin",
     "unit": 20,
     "lessonNumber": 3,
-    "title": "存现句与空间状态描写 (Existential Sentences) (第3讲)",
+    "title": "空间方位词系统（上/下/前/后/里/外/左/右/旁/东/西/南/北）与介词「在」的省略隐现法则 (Spatial Localizers & Preposition Drop)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：处所词作主语的存现句（存在句/出现句/消失句）及动词后附助词「着/了」。 (第3部分)。",
+    "objective": "系统掌握现代汉语全套空间方位词体系（单音/双音方位词）、普通名词处所化规则，熟练运用存现句首「介词在的省略隐现」语用铁律。",
     "presentation": {
-      "explanation": "",
+      "explanation": "空间方位词是汉语构建空间座标参照系的核心词汇范畴，具有独特的名词处所化转换功能：\n\n一、空间方位词全套分类体系：\n1. 单音方位词：上、下、前、后、左、右、里、外、旁、中、内、间、东、南、西、北。\n2. 双音方位词（单音 + 边/面/头/侧/方）：\n- 上面/上头/上方、下面/下头/下方、前面/前头、后面/后头、左边/左侧、右边/右侧、里面/里头/内部、外面/外头/外部、旁边/侧面、中间/中央、东边/东侧、西边/西侧、南边/南侧、北边/北侧。\n\n二、【核心语法铁律一：普通名词处所化规则】！\n- 规则：汉语中普通名词（非处所词）**不能直接充当处所主语或介词宾语，必须在其后附加方位词**！\n- 错误：*桌子放着书。 -> 改正：**桌子上**放着书。\n- 错误：*教室有很多学生。 -> 改正：**教室里**有很多学生。\n- 豁免规则：专用地名与机构名（北京、中国、学校、医院、图书馆）本身即具有处所属性，后一般不加「里」（例如：他在北京工作，绝不说 *在北京里）。\n\n三、【核心语法铁律二：存现句首介词「在」的省略法则】！\n- 存现句句首的处所词直接充当语法主语，【通常必须省略介词「在」】！\n- 规范地道表达：**操场上**站着许多学生 / **树林里**飞出了一只小鸟。\n- 避免欧化多余：*在操场上站着许多学生（加「在」使主语隐退，破坏了存现句的纯正韵味）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「存现句与空间状态描写 (Existential Sentences)」的核心语法法则与应用范例 (20.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '存现句与空间状态描写 (Existential Sentences)' in simple terms to students at the academic seminar."
+          "target": "图书馆四楼阅览室靠窗的角落里摆放着几张舒适的沙发，旁边立着一排分类整齐的工具书架。(Túshūguǎn sì lóu yuèlǎnshì kào chuāng de jiǎoluò lǐ bǎifàng zhe jǐ zhāng shūshì de shāfā, pángbiān lì zhe yì pái fēnlèi zhěngqí de gōngjù shūjià.)",
+          "reading": "[tʰu˧˥.ʂu˥.kwan˨˩˦ sɨ˥˩ loʊ̯˧˥ jɥɛ˥˩.lan˨˩.ʂɨ˥˩ kʰaʊ̯˥˩ t͡ʂʰwaŋ˥ tɤ t͡ɕjaʊ̯˨˩.lwɔ˥˩ li˨˩˦ paɪ̯˨˩.fɑŋ˥˩ ʈ͡ʂɤ t͡ɕi˨˩˦ ʈ͡ʂwɑŋ˥ ʂu˥.ʂɨ˥˩ tɤ ʂa˥.fa˥, pʰɑŋ˧˥.pjɛn˥ li˥˩ ʈ͡ʂɤ i˥ pʰaɪ̯˧˥ fən˥.leɪ̯˥˩ ʈ͡ʂəŋ˨˩.t͡ɕʰi˧˥ tɤ kʊŋ˥.t͡ɕy˥˩ ʂu˥.t͡ɕja˥] (Tú-shū-guǎn sì lóu yuè-lǎn-shì kào chuāng de jiǎo-luò lǐ bǎi-fàng zhe jǐ zhāng shū-shì de shā-fā, páng-biān lì zhe yì pái fēn-lèi zhěng-qí de gōng-jù shū-jià.)",
+          "translation": "In the corner by the window of the reading room on the fourth floor of the library are placed several comfortable sofas, and beside them stands a row of neatly classified reference bookshelves."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (20.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "现代科技园区正大门东侧坐落着国家重点工程实验室，西侧分布着几栋崭新的科研孵化楼。(Xiàndài kējì yuánqū zhèng dàmén dōngcè zuòluò zhe guójiā zhòngdiǎn gōngchéng shíyànshì, xīcè fēnbù zhe jǐ dòng zhǎnxīn de kēyán fūhuà lóu.)",
+          "reading": "[ɕjɛn˥˩.taɪ̯˥˩ kʰɤ˥.t͡ɕi˥˩ jɥɛn˧˥.t͡ɕʰy˥ ʈ͡ʂəŋ˥˩ ta˥˩.mən˧˥ tʊŋ˥.t͡sʰɤ˥˩ t͡swoʊ̯˥˩.lwɔ˥˩ ʈ͡ʂɤ kwo˧˥.t͡ɕja˥ ʈ͡ʂʊŋ˥˩.tjɛn˨˩˦ kʊŋ˥.ʈ͡ʂʰəŋ˧˥ ʂɨ˧˥.jɛn˥˩.ʂɨ˥˩, ɕi˥.t͡sʰɤ˥˩ fən˥.pu˥˩ ʈ͡ʂɤ t͡ɕi˨˩˦ tʊŋ˥˩ ʈ͡ʂan˨˩.ɕin˥ tɤ kʰɤ˥.jan˧˥ fu˥.xwa˥˩ loʊ̯˧˥] (Xiàn-dài kē-jì yuán-qū zhèng dà-mén dōng-cè zuò-luò zhe guó-jiā zhòng-diǎn gōng-chéng shí-yàn-shì, xī-cè fēn-bù zhe jǐ dòng zhǎn-xīn de kē-yán fū-huà lóu.)",
+          "translation": "On the east side of the main gate of the modern science and technology park sits the National Key Engineering Laboratory, and on the west side are distributed several brand-new research incubator buildings."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (20.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "崇山峻岭环抱之中流淌着一条清澈见底的溪流，溪流两岸生长着茂密苍翠的原始针叶林。(Chóngshān-jùnlǐng huánbào zhīzhōng liútǎng zhe yì tiáo qīngchè-jiàndǐ de xīliú, xīliú liǎng'àn shēngzhǎng zhe màomì cāngcuì de yuánshǐ zhēnyèlín.)",
+          "reading": "[ʈ͡ʂʰʊŋ˧˥.ʂan˥.t͡ɕyn˥˩.liŋ˨˩˦ xwan˧˥.paʊ̯˥˩ ʈ͡ʂɨ˥.ʈ͡ʂʊŋ˥ ljoʊ̯˧˥.tʰɑŋ˨˩˦ ʈ͡ʂɤ i˥ tʰjaʊ̯˧˥ t͡ɕʰiŋ˥.t͡ʂʰɤ˥˩.t͡ɕjɛn˥˩.ti˨˩˦ tɤ ɕi˥.ljoʊ̯˧˥, ɕi˥.ljoʊ̯˧˥ ljaŋ˨˩.an˥˩ ʂəŋ˥.ʈ͡ʂɑŋ˨˩˦ ʈ͡ʂɤ maʊ̯˥˩.mi˥˩ t͡sʰɑŋ˥.t͡sʰweɪ̯˥˩ tɤ jɥan˧˥.ʂɨ˨˩˦ ʈ͡ʂən˥.jɛ˥˩.lin˧˥] (Chóng-shān-jùn-lǐng huán-bào zhī-zhōng liú-tǎng zhe yì tiáo qīng-chè-jiàn-dǐ de xī-liú, xī-liú liǎng-'àn shēng-zhǎng zhe mào-mì cāng-cuì de yuán-shǐ zhēn-yè-lín.)",
+          "translation": "Surrounded by lofty mountains and steep ridges flows a crystal-clear brook, and on both banks of the brook grow dense and lush primeval coniferous forests."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (20.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "普通名词后附方位词即转化为合规处所短语，存现句首通常无需多加介词「在」。(Pǔtōng míngcí hòufù fāngwèicí jí zhuǎnhuà wéi héguī chùsuǒ duǎnyǔ, cúnxiàn jùshǒu tōngcháng wúxū duō jiā jiècí 'zài'.)",
+          "reading": "[pʰu˨˩.tʰʊŋ˥ miŋ˧˥.t͡sʰɨ˧˥ xoʊ̯˥˩.fu˥˩ fɑŋ˥.weɪ̯˥˩.t͡sʰɨ˧˥ t͡ɕi˧˥ ʈ͡ʂwan˨˩.xwa˥˩ weɪ̯˧˥ xɤ˧˥.kweɪ̯˥ t͡ʂʰu˥˩.swɔ˨˩ duan˨˩.y˨˩˦, t͡sʰwən˧˥.ɕjɛn˥˩ t͡ɕy˥˩.ʂoʊ̯˨˩˦ tʰʊŋ˧˥.ʈ͡ʂʰɑŋ˧˥ u˧˥.ɕy˥ twɔ˥ t͡ɕja˥ t͡ɕjɛ˥˩.t͡sʰɨ˧˥ t͡saɪ̯˥˩] (Pǔ-tōng míng-cí hòu-fù fāng-wèi-cí jí zhuǎn-huà wéi hé-guī chù-suǒ duǎn-yǔ, cún-xiàn jù-shǒu tōng-cháng wú-xū duō jiā jiè-cí 'zài'.)",
+          "translation": "Appending localizers behind ordinary nouns transforms them into compliant locative phrases; there is usually no need to add redundant preposition 'zai' at the head of existential sentences."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "普通名词加方位，转化处所方得备；地名机构莫加里，存现句首省在美！"
+      ],
+      "culturalNotes": [
+        "汉语空间座标系统将阴阳八卦与东西南北严密契合，由空间方位词构建的空间秩序深深刻印在华夏建筑规制与山水画构图之中。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「存现句与空间状态描写 (Existential Sentences)」（第3讲）的标准汉语规范？",
+          "prompt": "普通名词「黑板 / 书桌」在充当存现句的处所主语时，正确的语法处理方式是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「存现句与空间状态描写 (Existential Sentences)」的核心语法法则与应用范例 (20.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (20.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (20.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (20.3.w3)"
+            "必须在其后面加上方位词（如「黑板上 / 书桌上」） (Must append localizer like 上/旁边)",
+            "直接使用普通名词充当主语（*黑板写着字）",
+            "在前面加副词「很」",
+            "把名词删除"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "普通名词必须附带方位词才能转化为合法的空间处所短语。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在标准纯正的现代汉语存现句中，关于句首处所词前面的介词「在」，最规范的做法是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "通常省略「在」，让处所词直接充当句子的语法主语 (Omit '在', locative word acts as subject)",
+            "必须强制加上「在」",
+            "必须把「在」放在句末",
+            "必须把「在」重复三次"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "存现句首处所词直接充当主语，省略介词「在」最为地道自然。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「存现句与空间状态描写 (Existential Sentences)」的正式语境下，最准确得体的表达是哪一项？（第20.3题）",
+          "prompt": "下列哪一个专用地理名称后「错误且多余地添加了方位词里」？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (20.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (20.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (20.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (20.3.x3)"
+            "*在北京里工作。(Incorrect: Superfluous '里' after city proper noun 北京)",
+            "在北京市工作。",
+            "在学校里开会。",
+            "在教室里上课。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "专有地名如「北京/上海/中国」本身即为处所，后绝不能多余添加「里」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u20-l3）所要求的高阶语言表达？",
+          "prompt": "在表达「园区正门东侧坐落着科研大楼」时，方位词「东侧」表达的是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (20.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (20.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (20.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (20.3.y3)"
+            "以正门为基准的东方侧面空间位置 (East side location relative to main gate)",
+            "内部空间",
+            "上方空间",
+            "下方空间"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「东侧」指称以参照点为核心的正东方向侧面。"
         }
       ]
     },
@@ -11936,25 +11944,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「存现句与空间状态描写 (Existential Sentences)」的掌握程度，请选出表述完全正确的标准范句（测试 20-3）：",
+          "prompt": "请选出下列句子中方位词使用最地道、处所主语完全规范合规的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (20.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (20.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (20.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (20.3.z3)"
+            "综合实验楼南侧整齐地排列着几座现代化温室大棚，大棚里面培育着最新选育的抗旱农作物新品种。(南侧、大棚里面，方位词搭配极度地道规范)",
+            "在南侧排列着大棚在楼，里面培育新品种。(介词冗余语序混乱)",
+            "北京里实验楼南边大棚培育着。(专有地名乱加里且残缺)",
+            "大棚把新品种培育在里面着。(句式严重杂糅)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句在方位词「南侧」与「大棚里面」的使用上严密准确，句首省略「在」使全句行云流水。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u20-l3）的核心关键词（例如「存现句与」）：",
+          "prompt": "请输入表达靠近某客体侧边空间的核心两字双音方位词（例如大楼「」停着车，拼音为 pángbiān）：",
           "acceptedAnswers": [
-            "存现句与",
-            "存现句与空间",
-            "存现句与空间状态描写"
+            "旁边"
           ],
-          "explanation": "正确的核心关键词为「存现句与」。"
+          "explanation": "词语「旁边」是现代汉语中指称邻近侧面空间的核心双音方位词。"
         }
       ],
       "passThreshold": 0.8
@@ -11965,85 +11971,89 @@
     "subject": "mandarin",
     "unit": 20,
     "lessonNumber": 4,
-    "title": "存现句与空间状态描写 (Existential Sentences) (第4讲)",
+    "title": "古典园林、文房四宝与传统居室静态空间美学描写 (Spatial Aesthetics of Classical Gardens, Studies & Architecture)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：处所词作主语的存现句（存在句/出现句/消失句）及动词后附助词「着/了」。 (第4部分)。",
+    "objective": "融会贯通静态存现句、方位词系统与中国传统建筑园林雅致词汇，掌握古典园林移步换景、文人书斋案头清供的东方空间美学描写技法。",
     "presentation": {
-      "explanation": "",
+      "explanation": "存现句是中国古典文学与美学中描摹园林亭台、书斋雅室不可或缺的灵魂句式：\n\n一、古典园林与庭院空间美学描摹：\n1. 核心意象词汇：池塘水榭、亭台楼阁、回廊曲径、假山怪石、粉墙黛瓦、古木参天、罗汉松、垂柳映水。\n2. 经典存现句式：\n- 碧波荡漾的水池中央建有一座精巧玲珑的湖心亭。\n- 庭院角落里错落有致地叠放着几块千姿百态的太湖怪石。\n\n二、文人书斋与文房四宝空间美学描摹：\n1. 核心意象词汇：紫檀木案、文房四宝（笔墨纸砚）、端砚、宣纸、狼毫毛笔、线装古籍、博古架、铜炉檀香。\n2. 经典存现句式：\n- 沉香木大案正中端正地铺展着一幅尚待题跋的雪白宣纸。\n- 案头静静地燃着一炉青烟袅袅的沉香，旁边整齐地摆放着几方名贵的古砚与数支上等兼毫。\n\n三、传统居室中轴对称空间美学描摹：\n1. 核心意象词汇：中堂大厅、太师椅、雕花屏风、影壁、抱柱联、八仙桌。\n2. 经典存现句式：\n- 中堂正墙上高悬着一幅气势恢宏的松鹤延年图，左右两侧悬挂着一副对仗工整的名家楹联。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「存现句与空间状态描写 (Existential Sentences)」的核心语法法则与应用范例 (20.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '存现句与空间状态描写 (Existential Sentences)' in simple terms to students at the academic seminar."
+          "target": "这座苏州古典园林的水池中央建有一座精巧玲珑的湖心水榭，榭内摆放着一套古朴的石桌石凳。(Zhè zuò Sūzhōu gǔdiǎn yuánlín de shuǐchí zhōngyāng jiàn yǒu yí zuò jīngqiǎo-línglóng de húxīn shuǐxiè, xiè nèi bǎifàng zhe yí tào gǔpǔ de shízhuō shídèng.)",
+          "reading": "[ʈ͡ʂɤ˥˩ t͡swoʊ̯˥˩ su˥.ʈ͡ʂoʊ̯˥ ku˨˩.tjɛn˨˩˦ jɥan˧˥.lin˧˥ tɤ ʂweɪ̯˨˩.t͡sʰɨ˧˥ ʈ͡ʂʊŋ˥.jɑŋ˥ t͡ɕjɛn˥˩ joʊ̯˨˩˦ i˥ t͡swoʊ̯˥˩ t͡ɕiŋ˥.t͡ɕʰjaʊ̯˨˩˦.liŋ˧˥.lʊŋ˧˥ tɤ xu˧˥.ɕin˥ ʂweɪ̯˨˩.ɕjɛ˥˩, ɕjɛ˥˩ neɪ̯˥˩ paɪ̯˨˩.fɑŋ˥˩ ʈ͡ʂɤ i˥ tʰaʊ̯˥˩ ku˨˩.pʰu˨˩˦ tɤ ʂɨ˧˥.ʈ͡ʂwɔ˥ ʂɨ˧˥.təŋ˥˩] (Zhè zuò Sū-zhōu gǔ-diǎn yuán-lín de shuǐ-chí zhōng-yāng jiàn yǒu yí zuò jīng-qiǎo-líng-lóng de hú-xīn shuǐ-xiè, xiè nèi bǎi-fàng zhe yí tào gǔ-pǔ de shí-zhuō shí-dèng.)",
+          "translation": "In the center of the pool of this Suzhou classical garden is built an exquisite and dainty lakeside pavilion, inside which is placed a set of quaint stone table and stone benches."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (20.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "著名国学大师的雅致书斋里整齐地陈列着数千册线装古籍，案头静静地燃着一炉清幽的檀香。(Zhùmíng guóxué dàshī de yǎzhi shūzhāi lǐ zhěngqí de chénliè zhe shùqiān cè xiànzhuāng gǔjí, àntóu jìngjìng de rán zhe yì lú qīngyōu de tánxiāng.)",
+          "reading": "[ʈ͡ʂu˥˩.miŋ˧˥ kwo˧˥.ɕɥɛ˧˥ ta˥˩.ʂɨ˥ tɤ ja˨˩˦.ʈ͡ʂɨ˥˩ ʂu˥.ʈ͡ʂaɪ̯˥ li˨˩˦ ʈ͡ʂəŋ˨˩.t͡ɕʰi˧˥ tɤ ʈ͡ʂʰən˧˥.ljɛ˥˩ ʈ͡ʂɤ ʂu˥˩.t͡ɕʰjɛn˥ t͡sʰɤ˥˩ ɕjɛn˥˩.ʈ͡ʂwaŋ˥ ku˨˩.t͡ɕi˧˥, an˥˩.tʰoʊ̯˧˥ t͡ɕiŋ˥˩.t͡ɕiŋ˥˩ tɤ ʐan˧˥ ʈ͡ʂɤ i˥ lu˧˥ t͡ɕʰiŋ˥.joʊ̯˥ tɤ tʰan˧˥.ɕjɑŋ˥] (Zhù-míng guó-xué dà-shī de yǎ-zhi shū-zhāi lǐ zhěng-qí de chén-liè zhe shù-qiān cè xiàn-zhuāng gǔ-jí, àn-tóu jìng-jìng de rán zhe yì lú qīng-yōu de tán-xiāng.)",
+          "translation": "In the elegant study of the renowned master of Chinese traditional learning are neatly displayed thousands of thread-bound ancient books, and on the desk burns quietly a censer of delicate sandalwood incense."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (20.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "堂屋正面的粉白影壁前精巧地叠放着几块嶙峋奇峻的太湖怪石，石缝间倒垂着簇簇青翠欲滴的藤萝。(Tángwū zhèngmiàn de fěnbái yǐngbì qián jīngqiǎo de diéfàng zhe jǐ kuài línxún qíjùn de Tàihú guàishí, shífèng jiān dàochuí zhe cùcù qīngcuì-yùdī de téngluó.)",
+          "reading": "[tʰɑŋ˧˥.u˥ ʈ͡ʂəŋ˥˩.mjɛn˥˩ tɤ fən˨˩.paɪ̯˧˥ iŋ˨˩.pi˥˩ t͡ɕʰjɛn˧˥ t͡ɕiŋ˥.t͡ɕʰjaʊ̯˨˩˦ tɤ tjɛ˧˥.fɑŋ˥˩ ʈ͡ʂɤ t͡ɕi˨˩˦ kʰwaɪ̯˥˩ lin˧˥.ɕyn˧˥ t͡ɕʰi˧˥.t͡ɕyn˥˩ tɤ tʰaɪ̯˥˩.xu˧˥ kwaɪ̯˥˩.ʂɨ˧˥, ʂɨ˧˥.fəŋ˥˩ t͡ɕjɛn˥ taʊ̯˥˩.t͡ʂʰweɪ̯˧˥ ʈ͡ʂɤ t͡sʰu˥˩.t͡sʰu˥˩ t͡ɕʰiŋ˥.t͡sʰweɪ̯˥˩.y˥˩.ti˥ tɤ tʰəŋ˧˥.lwɔ˧˥] (Táng-wū zhèng-miàn de fěn-bái yǐng-bì qián jīng-qiǎo de dié-fàng zhe jǐ kuài lín-xún qí-jùn de Tài-hú guài-shí, shí-fèng jiān dào-chuí zhe cù-cù qīng-cuì-yù-dī de téng-luó.)",
+          "translation": "In front of the white screen wall facing the main hall are delicately piled several rugged and grotesque Taihu rocks, with clusters of dripping-green wisteria hanging upside down between the stone crevices."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (20.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "书房窗棂之下横放着一张沉香木长案，案头端正地铺展着一幅尚未题跋的书法长卷。(Shūfáng chuānglíng zhī xià héngfàng zhe yì zhāng chénxiāngmù cháng'àn, àntóu duānzhèng de pūzhǎn zhe yì fú shàngwèi tíbá de shūfǎ chángjuàn.)",
+          "reading": "[ʂu˥.fɑŋ˧˥ t͡ʂʰwaŋ˥.liŋ˧˥ ʈ͡ʂɨ˥ ɕja˥˩ xəŋ˧˥.fɑŋ˥˩ ʈ͡ʂɤ i˥ ʈ͡ʂwɑŋ˥ t͡ʂʰən˧˥.ɕjɑŋ˥.mu˥˩ ʈ͡ʂʰɑŋ˧˥.an˥˩, an˥˩.tʰoʊ̯˧˥ twan˥.ʈ͡ʂəŋ˥˩ tɤ pʰu˥.ʈ͡ʂan˨˩˦ ʈ͡ʂɤ i˥ fu˧˥ ʂɑŋ˥˩.weɪ̯˥˩ tʰi˧˥.pa˧˥ tɤ ʂu˥.fa˨˩˦ ʈ͡ʂʰɑŋ˧˥.t͡ɕɥɛn˥˩] (Shū-fáng chuāng-líng zhī xià héng-fàng zhe yì zhāng chén-xiāng-mù cháng-'àn, àn-tóu duān-zhèng de pū-zhǎn zhe yì fú shàng-wèi tí-bá de shū-fǎ cháng-juàn.)",
+          "translation": "Under the lattice window of the study lies horizontally an aloeswood long desk, on which is squarely spread a long calligraphy scroll not yet inscribed with a colophon."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "园林假山叠怪石，书斋案头燃檀香；中轴对称粉墙瓦，存现摹写意境长！"
+      ],
+      "culturalNotes": [
+        "中国古代文人将书房与园林视为安顿性灵的精神道场。以「燃着檀香、铺展着宣纸、叠放着太湖石」等存现笔触描摹空间，展现了物我同一、幽独澄怀的高雅士人情怀。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「存现句与空间状态描写 (Existential Sentences)」（第4讲）的标准汉语规范？",
+          "prompt": "在描写文人雅致书斋时，「案头静静地燃着一炉檀香」中「案头」指的是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「存现句与空间状态描写 (Existential Sentences)」的核心语法法则与应用范例 (20.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (20.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (20.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (20.4.w3)"
+            "古代文人书桌/长案的表面上方空间 (Top surface of the scholarly desk)",
+            "抽屉深处",
+            "书房的地板上",
+            "椅子背后"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「案头」是指书案、书桌的台面空间，是文人墨客摆放文房清供的核心位置。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "语篇中「尚未题跋的书法长卷」中的「题跋」意思是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "在书画作品后撰写品鉴、题记或评论性诗文 (Write postscript / colophon on artwork)",
+            "把字画撕毁",
+            "用来擦桌子",
+            "给画作涂改颜色"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「题跋」是中国传统书画艺术中在作品卷首或卷后题写的品评鉴赏与考证文字。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「存现句与空间状态描写 (Existential Sentences)」的正式语境下，最准确得体的表达是哪一项？（第20.4题）",
+          "prompt": "请选出下列苏州园林空间描写中存现句运用最典雅、意境最高古的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (20.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (20.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (20.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (20.4.x3)"
+            "池塘中央建有一座湖心水榭，榭后环绕着苍翠欲滴的修竹，粉墙前错落有致地叠放着几块太湖怪石。(存现句层层推进，移步换景典范)",
+            "池塘把水榭建了，竹子在后面。(语言浅陋毫无美感)",
+            "太湖怪石被叠放在粉墙前很美。(欧化生涩病态)",
+            "水榭中央建池塘。(主次颠倒荒唐)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项在方位空间词、动补结构与古典美学意象的融合上达到了中国传统散文写作的极高境界。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u20-l4）所要求的高阶语言表达？",
+          "prompt": "在古典居室描摹中表达墙壁正中高高挂着画作，最地道典雅的动补短语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (20.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (20.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (20.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (20.4.y3)"
+            "高悬着 / 悬挂着 (High-hung / suspended aloft: 高悬着)",
+            "高贴在",
+            "高放在",
+            "高拿着"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「高悬着」是传统书画与匾额悬挂于中堂墙面的经典雅致表达。"
         }
       ]
     },
@@ -12051,25 +12061,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「存现句与空间状态描写 (Existential Sentences)」的掌握程度，请选出表述完全正确的标准范句（测试 20-4）：",
+          "prompt": "请选出下列传统文人书斋空间美学语篇中存现句式最丰富、文采最斐然、意境最高雅的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (20.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (20.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (20.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (20.4.z3)"
+            "推开雅致的雕花木门，书斋沉香木大案上端正地摆放着文房四宝，案头正中铺展着一幅尚未题跋的宣纸长卷，铜炉里静静地燃着一缕清幽的沉香。靠墙的多宝格上陈列着历代线装古籍与青铜古玩，整座斋室内弥漫着深厚的书卷书香。(全篇存现句融通画意，词章典雅，意境超凡脱俗)",
+            "书房里面有很多书，桌子上放着纸和笔，还有香在烧着。(语言极度贫乏粗陋)",
+            "文房四宝被摆放在桌子上面，宣纸被铺开。(欧化翻译腔严重)",
+            "大案上面铺展着纸被毛笔写。(句式严重混乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在存现动补「摆放着、铺展着、燃着、陈列着」的运用上浑然天成，生动呈现了东方文人书斋的至高美学风骨。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u20-l4）的核心关键词（例如「存现句与」）：",
+          "prompt": "请输入中国传统文人书桌上不可或缺的笔、墨、纸、砚统称的核心四字名词（例如「」俱全，拼音为 wénfáng-sìbǎo）：",
           "acceptedAnswers": [
-            "存现句与",
-            "存现句与空间",
-            "存现句与空间状态描写"
+            "文房四宝"
           ],
-          "explanation": "正确的核心关键词为「存现句与」。"
+          "explanation": "词语「文房四宝」是中国传统文化中对笔、墨、纸、砚四大书写雅具的经典统称。"
         }
       ],
       "passThreshold": 0.8
@@ -12080,85 +12088,89 @@
     "subject": "mandarin",
     "unit": 20,
     "lessonNumber": 5,
-    "title": "存现句与空间状态描写 (Existential Sentences) (第5讲)",
+    "title": "人文胜境、科技园区与大国气象空间存现综合叙事篇章 (Comprehensive Spatial Panorama: Cultural Splendor & High-Tech Parks)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：处所词作主语的存现句（存在句/出现句/消失句）及动词后附助词「着/了」。 (第5部分)。",
+    "objective": "融会贯通静态存在句、动态出现/消失句、方位词系统及宏观文化与高科技空间全景，独立撰写视野宏阔、气势恢宏的空间存现综合叙事语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "将静态存在句（沉稳基底）、动态隐现句（时空生机）与多层空间方位座标熔铸于宏大叙事中，是现代汉语空间描摹能力的顶峰体现：\n\n一、人文胜境、高新园区与大国气象全景脉络：\n1. 宏观基地全景铺展（静态存在句）：国家科学中心宽阔的主干道两侧排列着数十座现代化的实验大楼，正中央坐落着国家重大科技装置。\n2. 核心展厅英姿展示（静态悬挂与矗立）：科技展厅正中央巍然矗立着大国重器航天火箭模型，模型上方高高悬挂着鲜艳的五星红旗。\n3. 人才汇聚与动态生机（动态出现句）：清晨广场迎面走过来一批批意气风发的青年科研骨干，长廊前不断开过来一辆辆新能源智能汽车。\n4. 壮美时代升华（全息空间感悟）：极目远眺，蓝天下绵延铺展着一座生机勃勃的现代化智慧新城，处处洋溢着自立自强的大国创新气象！\n\n二、全景式科技园区与大国气象综合纪实范文赏析：\n- 踏入现代化国家科学中心的核心区，宽阔平整的林荫大道两侧整齐地坐落着数十栋现代化重点科研楼。在科技主展厅的正中央，巍然矗立着一座按一比一比例建造的新一代重型运载火箭模型，模型上方高高悬挂着一面庄严鲜艳的五星红旗。展厅两侧的荣誉墙上密集地陈列着历代科研功勋团队所荣获的国家科学技术特等奖证书与金色奖杯。晨光熹微，广场东侧迎面走过来几位手持核心实验方案的青年学者，长廊前正平稳地驶来一辆辆无人驾驶智能接驳车。极目远眺，在蔚蓝如洗的天际线下绵延铺展着一座充满现代活力的生态科技新城，处处洋溢着昂扬奋进的大国气象与科技强国的磅礴力量！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「存现句与空间状态描写 (Existential Sentences)」的核心语法法则与应用范例 (20.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '存现句与空间状态描写 (Existential Sentences)' in simple terms to students at the academic seminar."
+          "target": "踏入现代化国家科学中心的核心实验区，宽阔平整的环形主干道两侧整齐地排列着数十座高耸的综合科研楼。(Tàrù xiàndàihuà guójiā kēxué zhōngxīn de héxīn shíyànqū, kuānkuò píngzhěng de huánxíng zhǔgàndào liǎngcè zhěngqí de páiliè zhe shùshí zuò gāosǒng de zōnghé kēyán lóu.)",
+          "reading": "[tʰa˥˩.ʐu˥˩ ɕjɛn˥˩.taɪ̯˥˩.xwa˥˩ kwo˧˥.t͡ɕja˥ kʰɤ˥.ɕɥɛ˧˥ ʈ͡ʂʊŋ˥.ɕin˥ tɤ xɤ˧˥.ɕin˥ ʂɨ˧˥.jɛn˥˩.t͡ɕʰy˥, kʰwan˥.kʰwɔ˥˩ pʰiŋ˧˥.ʈ͡ʂəŋ˨˩˦ tɤ xwan˧˥.ɕiŋ˧˥ ʈ͡ʂu˨˩.kan˥˩.taʊ̯˥˩ ljaŋ˨˩.t͡sʰɤ˥˩ ʈ͡ʂəŋ˨˩.t͡ɕʰi˧˥ tɤ pʰaɪ̯˧˥.ljɛ˥˩ ʈ͡ʂɤ ʂu˥˩.ʂɨ˧˥ t͡swoʊ̯˥˩ kaʊ̯˥.sʊŋ˨˩˦ tɤ t͡sʊŋ˥.xɤ˧˥ kʰɤ˥.jan˧˥ loʊ̯˧˥] (Tà-rù xiàn-dài-huà guó-jiā kē-xué zhōng-xīn de hé-xīn shí-yàn-qū, kuān-kuò píng-zhěng de huán-xíng zhǔ-gàn-dào liǎng-cè zhěng-qí de pái-liè zhe shù-shí zuò gāo-sǒng de zōng-hé kē-yán lóu.)",
+          "translation": "Stepping into the core experimental area of the modern national science center, on both sides of the broad and smooth ring main road are neatly arranged dozens of towering comprehensive research buildings."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (20.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "现代科技展厅的正中央巍然矗立着一座按一比一比例还原的重型运载火箭模型，模型上方悬挂着一面鲜艳的五星红旗。(Xiàndài kējì zhǎntīng de zhèng zhōngyāng wēirán chùlì zhe yí zuò àn yī bǐ yī bǐlì huányuán de zhòngxíng yùnzǎi huǒjiàn móxíng, móxíng shàngfāng xuánguà zhe yí miàn xiānyàn de Wǔxīng Hóngqí.)",
+          "reading": "[ɕjɛn˥˩.taɪ̯˥˩ kʰɤ˥.t͡ɕi˥˩ ʈ͡ʂan˨˩.tʰiŋ˥ tɤ ʈ͡ʂəŋ˥˩ ʈ͡ʂʊŋ˥.jɑŋ˥ weɪ̯˥.ʐan˧˥ ʈ͡ʂʰu˥˩.li˥˩ ʈ͡ʂɤ i˥ t͡swoʊ̯˥˩ an˥˩ i˥ pi˨˩˦ i˥ pi˨˩.li˥˩ xwan˧˥.jɥan˧˥ tɤ ʈ͡ʂʊŋ˥˩.ɕiŋ˧˥ jyn˥˩.t͡saɪ̯˨˩˦ xwo˨˩.t͡ɕjɛn˥˩ mwɔ˧˥.ɕiŋ˧˥, mwɔ˧˥.ɕiŋ˧˥ ʂɑŋ˥˩.fɑŋ˥ ɕɥan˧˥.kwa˥˩ ʈ͡ʂɤ i˥ mjɛn˥˩ ɕjɛn˥.jan˥˩ tɤ u˨˩˦.ɕiŋ˥ xʊŋ˧˥.t͡ɕʰi˧˥] (Xiàn-dài kē-jì zhǎn-tīng de zhèng zhōng-yāng wēi-rán chù-lì zhe yí zuò àn yī bǐ yī bǐ-lì huán-yuán de zhòng-xíng yùn-zǎi huǒ-jiàn mó-xíng, mó-xíng shàng-fāng xuán-guà zhe yí miàn xiān-yàn de Wǔ-xīng Hóng-qí.)",
+          "translation": "In the very center of the modern science and technology exhibition hall majestically stands a heavy-lift launch vehicle model restored on a one-to-one scale, above which hangs a bright Five-Starred Red Flag."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (20.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "广场四周井然有序地停放着数十辆新能源智能接驳车，候车长廊前不断走过来一批批意气风发的青年科研骨干。(Guǎngchǎng sìzhōu jǐngrán-yǒuxù de tíngfàng zhe shùshí liàng xīnnéngyuán zhìnéng jiēbó chē, hòuchē chángláng qián búduàn zǒuguòlai yì pīpī yìqì-fēngfā de qīngnián kēyán gǔgàn.)",
+          "reading": "[kwaŋ˨˩.ʈ͡ʂʰɑŋ˨˩˦ sɨ˥˩.ʈ͡ʂoʊ̯˥ t͡ɕiŋ˨˩.ʐan˧˥.joʊ̯˨˩.ɕy˥˩ tɤ tʰiŋ˧˥.fɑŋ˥˩ ʈ͡ʂɤ ʂu˥˩.ʂɨ˧˥ ljaŋ˥˩ ɕin˥.nɤŋ˧˥.jɥan˧˥ ʈ͡ʂɨ˥˩.nɤŋ˧˥ t͡ɕjɛ˥.pwo˧˥ t͡ʂʰɤ˥, xoʊ̯˥˩.t͡ʂʰɤ˥ ʈ͡ʂʰɑŋ˧˥.lɑŋ˧˥ t͡ɕʰjɛn˧˥ pu˥.twan˥˩ t͡soʊ̯˨˩.kwo˥˩.laɪ̯ i˥ pʰi˥.pʰi˥ i˥˩.t͡ɕʰi˥˩.fəŋ˥.fa˥ tɤ t͡ɕʰiŋ˥.njɛn˧˥ kʰɤ˥.jan˧˥ ku˨˩.kan˥˩] (Guǎng-chǎng sì-zhōu jǐng-rán-yǒu-xù de tíng-fàng zhe shù-shí liàng xīn-néng-yuán zhì-néng jiē-bó chē, hòu-chē cháng-láng qián bú-duàn zǒu-guò-lai yì pī-pī yì-qì-fēng-fā de qīng-nián kē-yán gǔ-gàn.)",
+          "translation": "Around the square are neatly parked dozens of new-energy smart shuttle buses, and in front of the waiting corridor continuously walk over batches of high-spirited young scientific research backbone personnel."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (20.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "极目远眺，在蔚蓝如洗的天际线下绵延铺展着一座现代化生态科技新城，处处洋溢着蓬勃向上的创新活力与大国气象。(Jímù yuǎntiào, zài wèilán-rúxǐ de tiānjìxià xià miányán pūzhǎn zhe yí zuò xiàndàihuà shēngtài kējì xīnchéng, chùchù yángyì zhe péngbó xiàngshàng de chuàngxīn huólì yǔ dàguó qìxiàng.)",
+          "reading": "[t͡ɕi˧˥.mu˥˩ jɥɛn˨˩.tʰjaʊ̯˥˩, t͡saɪ̯˥˩ weɪ̯˥˩.lan˧˥.ʐu˧˥.ɕi˨˩˦ tɤ tʰjɛn˥.t͡ɕi˥˩.ɕja˥˩ ɕja˥˩ mjɛn˧˥.jan˧˥ pʰu˥.ʈ͡ʂan˨˩˦ ʈ͡ʂɤ i˥ t͡swoʊ̯˥˩ ɕjɛn˥˩.taɪ̯˥˩.xwa˥˩ ʂəŋ˥.tʰaɪ̯˥˩ kʰɤ˥.t͡ɕi˥˩ ɕin˥.ʈ͡ʂʰəŋ˧˥, t͡ʂʰu˥˩.t͡ʂʰu˥˩ jɑŋ˧˥.i˥˩ ʈ͡ʂɤ pʰəŋ˧˥.pwo˧˥ ɕjaŋ˥˩.ʂɑŋ˥˩ tɤ t͡ʂʰwaŋ˥˩.ɕin˥ xwo˧˥.li˥˩ y˨˩˦ ta˥˩.kwɔ˧˥ t͡ɕʰi˥˩.ɕjaŋ˥˩] (Jí-mù yuǎn-tiào, zài wèi-lán-rú-xǐ de tiān-jì-xià xià mián-yán pū-zhǎn zhe yí zuò xiàn-dài-huà shēng-tài kē-jì xīn-chéng, chù-chù yáng-yì zhe péng-bó xiàng-shàng de chuàng-xīn huó-lì yǔ dà-guó qì-xiàng.)",
+          "translation": "Looking as far as the eye can see, under the sky as blue as if freshly washed, stretches a modern ecological science and technology new city, everywhere brimming with vigorous upward innovation vitality and great nation grandeur."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "科学中心筑宏厦，火箭模型映国旗；青年骨干迎面至，科技新城展英姿！"
+      ],
+      "culturalNotes": [
+        "存现句融汇静态存在、动态隐现与多层空间方位，将山河锦绣与大国科技壮丽气象熔铸为一体，极具中华语言文学之崇高美。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「存现句与空间状态描写 (Existential Sentences)」（第5讲）的标准汉语规范？",
+          "prompt": "在科技大国气象全景篇章中，串联「排列着科研楼 -> 矗立着火箭模型 -> 走过来青年学者 -> 铺展着智慧新城」的空间主线是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「存现句与空间状态描写 (Existential Sentences)」的核心语法法则与应用范例 (20.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (20.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (20.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (20.5.w3)"
+            "静态基地铺展（排列着/矗立着） -> 动态人才汇聚（走过来） -> 宏观远景升华（铺展着） (Multi-dimensional spatial progression)",
+            "全部表示身体在跑来跑去",
+            "没有主语也没有处所",
+            "全篇全是病句"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "叙事篇章严格遵循从静态空间陈列、动态隐现汇聚到宏观气象升华的立体存现系统。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "语篇中「极目远眺」成语的核心含义是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "尽力张开眼睛向极其遥远的地方远望 (Look as far as the eye can see into the distance)",
+            "闭上眼睛睡觉",
+            "低头看自己的脚",
+            "只看眼前一寸地方"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「极目远眺」是形容极尽眼力向开阔遥远空间极目远望的经典典雅成语。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「存现句与空间状态描写 (Existential Sentences)」的正式语境下，最准确得体的表达是哪一项？（第20.5题）",
+          "prompt": "请选出下列空间全景叙事中存现句融合最典范、气魄最宏阔的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (20.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (20.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (20.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (20.5.x3)"
+            "园区主干道两侧排列着现代化科研楼，展厅正中矗立着运载火箭模型，广场上迎面走过来批批青年科学家，蓝天下铺展着壮丽的科技新城。(排列着、矗立着、走过来、铺展着，空间存现浑然一体)",
+            "园区有楼，火箭在展厅，青年科学家走，新城很好。(语言极度浅薄粗陋)",
+            "科研楼被排列在两侧，火箭被矗立。(欧化严重残缺不通)",
+            "走过来新城在蓝天下。(语序错乱荒谬)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项在多层空间方位、静态与动态存现的切换及思想气魄上达到了现代汉语写作的巅峰水准。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u20-l5）所要求的高阶语言表达？",
+          "prompt": "在宏观空间描写中表达物体像巨大山峰般庄严挺拔站立，最典雅的成语动词是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (20.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (20.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (20.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (20.5.y3)"
+            "巍然矗立 / 拔地而起 (Tower majestically aloft / rise abruptly from ground)",
+            "躺在地上",
+            "趴在那里",
+            "缩成一团"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「巍然矗立」是形容建筑物或模型雄伟挺拔、庄严高耸的经典成语。"
         }
       ]
     },
@@ -12166,25 +12178,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「存现句与空间状态描写 (Existential Sentences)」的掌握程度，请选出表述完全正确的标准范句（测试 20-5）：",
+          "prompt": "请选出下列科技园区与大国气象综合叙事语篇中句式最严密、文采最斐然、立意最高远的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (20.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (20.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (20.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (20.5.z3)"
+            "漫步在现代化国家科学中心，宽阔的大道两旁坐落着数十座国家重点实验室，展厅中央巍然矗立着大国重器航天火箭模型，广场前不断走过来意气风发的青年科研先锋。极目远眺，在蔚蓝的天空下绵延铺展着一座生机勃勃的生态智慧新城，处处洋溢着科技报国与民族复兴的大国气象！(全篇空间存现句行云流水，气势恢宏，立意高远)",
+            "科技中心有很多楼，里面放着火箭，人很多，城市很大。(语言极度贫乏浅白)",
+            "重点实验室被坐落在两旁，火箭被矗立在中央。(欧化被动语法严重病态)",
+            "新城铺展着在天空下把青年先锋走过来。(句式严重杂糅错乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在空间存现句全套体系的驾驭、辞章文采的高度与崇高的大国科技情怀上均达到了现代汉语的最高境界。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u20-l5）的核心关键词（例如「存现句与」）：",
+          "prompt": "请输入表达建筑物或模型像高山般雄伟高耸挺拔的核心四字成语（例如「」的火箭模型，前两字为 wēirán 后两字为 chùlì）：",
           "acceptedAnswers": [
-            "存现句与",
-            "存现句与空间",
-            "存现句与空间状态描写"
+            "巍然矗立",
+            "矗立"
           ],
-          "explanation": "正确的核心关键词为「存现句与」。"
+          "explanation": "成语「巍然矗立」是现代汉语中指称建筑物或丰碑雄伟庄严挺立的核心经典成语。"
         }
       ],
       "passThreshold": 0.8
