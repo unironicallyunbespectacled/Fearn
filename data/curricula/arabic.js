@@ -1634,85 +1634,89 @@
     "subject": "arabic",
     "unit": 3,
     "lessonNumber": 1,
-    "title": "الأسرة والنسب والتركيب الإضافي (Family & Idafa) (الدرس 1)",
+    "title": "معجم الأسرة والقرابة وشجرة العائلة (Family Vocabulary & Kinship Terms)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: معجم العائلة والقرابة، أسماء الإشارة، والتركيب الإضافي (المضاف والمضاف إليه). (الجزء 1).",
+    "objective": "إتقان معجم أفراد الأسرة النواة والممتدة (أب، أم، أخ، أخت، جد، جدة، ابن، ابنة، عم، عمة، خال، خالة)، والتعبير عن شجرة العائلة والترابط الأسري بجمل اسمية فصيحة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "الأسرة هي اللبنة الأولى للمجتمع، وتتميز اللغة العربية بدقة معجمية استثنائية في تسمية درجات القرابة والنسب:\n\nأولاً: الأسرة النواة (Nuclear Family):\n1.【الأب والوالد】: أَبٌ (Father) / وَالِدٌ، والمؤنث: أُمٌّ (Mother) / وَالِدَةٌ، والمثنى: وَالِدَانِ (Parents).\n2.【الإخوة والأخوات】: أَخٌ (Brother - الجمع: إِخْوَةٌ / إِخْوَانٌ)، أُخْتٌ (Sister - الجمع: أَخَوَاتٌ).\n3.【الأبناء والبنات】: اِبْنٌ (Son - الجمع: أَبْنَاءٌ / أَوْلَادٌ)، اِبْنَةٌ / بِنْتٌ (Daughter - الجمع: بَنَاتٌ).\n\nثانياً: الأسرة الممتدة والأجداد (Extended Family):\n1.【الأجداد】: جَدٌّ (Grandfather)، جَدَّةٌ (Grandmother)، والجمع: أَجْدَادٌ.\n2.【قرابة الأب (Paternal Kinship)】:\n- عَمٌّ (Paternal uncle - أخو الأب)، عَمَّةٌ (Paternal aunt - أخت الأب).\n3.【قرابة الأم (Maternal Kinship)】:\n- خَالٌ (Maternal uncle - أخو الأم)، خَالَةٌ (Maternal aunt - أخت الأم).\n4.【الزوجية】: زَوْجٌ (Husband)، زَوْجَةٌ (Wife).\n\nثالثاً: قيم البر وصلة الرحم:\n- «بِرُّ الوَالِدَيْنِ» (Filial piety / Honoring parents).\n- «صِلَةُ الرَّحِمِ» (Maintaining kinship ties).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)» بأسلوب أكاديمي دقيق (3.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الأسرة والنسب والتركيب الإضافي (Family & Idafa)' to students in an accurate academic style."
+          "target": "هٰذِهِ أُسْرَتِي الكَرِيمَةُ، تَتَكَوَّنُ مِنْ أَبِي وَأُمِّي وَثَلَاثَةِ إِخْوَةٍ وَأُخْتَيْنِ اثْنَتَيْنِ.(Hādhihi usratī al-karīmah, tatakawwanu min abī wa-ummī wa-thalāthati ikhwatin wa-ukhtayni ithnatayn.)",
+          "reading": "[haː.ði.hi ʔus.ra.tiː‿l.ka.riː.mah, ta.ta.kaw.wa.nu min ʔa.biː wa.ʔum.miː wa.θa.laː.θa.ti ʔix.wa.tin wa.ʔux.taj.ni‿θ.na.tajn] (Hā-dhi-hi us-ra-tī al-ka-rī-mah, ta-ta-kaw-wa-nu min a-bī wa-um-mī wa-tha-lā-tha-ti ikh-wa-tin wa-ukh-tay-ni ith-na-tayn.)",
+          "translation": "This is my noble family, it consists of my father, my mother, three brothers, and two sisters."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (3.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "جَدِّي رَجُلٌ حَكِيمٌ يَبْلُغُ مِنَ العُمْرِ سَبْعِينَ عَامًا، وَجَدَّتِي طَيِّبَةُ القَلْبِ.(Jaddī rajulun ḥakīmun yablughu mina al-ʿumri sabʿīna ʿāman, wa-jaddatī ṭayyibatu al-qalb.)",
+          "reading": "[ʒad.diː ra.ʒu.lun ħa.kiː.mun jab.lu.ɣu mi.na‿l.ʕum.ri sab.ʕiː.na ʕaː.man, wa.ʒad.da.tiː tˤaj.ji.ba.tu‿l.qalb] (Jad-dī ra-ju-lun ḥa-kī-mun yab-lu-ghu mi-na al-ʿum-ri sab-ʿī-na ʿā-man, wa-jad-da-tī ṭay-yi-ba-tu al-qalb.)",
+          "translation": "My grandfather is a wise man of seventy years of age, and my grandmother is kind-hearted."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (3.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "عَمِّي مُهَنْدِسٌ مَعْمَارِيٌّ نَاجِحٌ، وَخَالِي طَبِيبُ أَطْفَالٍ فِي المَدِينَةِ.(ʿAmmī muhandisun maʿmāriyyun nājiḥ, wa-khālī ṭabību aṭfālin fī al-madīnah.)",
+          "reading": "[ʕam.miː mu.han.di.sun maʕ.maː.rij.jun naː.ʒiħ, wa.xaː.liː tˤa.biː.bu ʔatˤ.faː.lin fiː‿l.ma.diː.nah] (ʿAm-mī mu-han-di-sun maʿ-mā-riy-yun nā-jiḥ, wa-khā-lī ṭa-bī-bu aṭ-fā-lin fī al-ma-dī-nah.)",
+          "translation": "My paternal uncle is a successful architect, and my maternal uncle is a pediatrician in the city."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (3.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "التَّرَابُطُ الأُسَرِيُّ وَبِرُّ الوَالِدَيْنِ مِنْ أَعْظَمِ القِيَمِ فِي المُجْتَمَعِ العَرَبِيِّ.(At-tarābuṭu al-usariyyu wa-birru al-wālidayni min aʿẓami al-qiyami fī al-mujtamaʿi al-ʿarabiyy.)",
+          "reading": "[at.ta.raː.bu.tˤu‿l.ʔu.sa.rij.ju wa.bir.ru‿l.waː.li.daj.ni min ʔaʕ.zˤa.mi‿l.qi.ja.mi fiː‿l.muʒ.ta.ma.ʕi‿l.ʕa.ra.bijj] (At-ta-rā-bu-ṭu al-u-sa-riy-yu wa-bir-ru al-wā-li-day-ni min aʿ-ẓa-mi al-qi-ya-mi fī al-muj-ta-ma-ʿi al-ʿa-ra-biyy.)",
+          "translation": "Family cohesion and honoring parents are among the greatest values in Arab society."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "أَبٌ وَأُمٌّ ثُمَّ جَدٌّ وَوَلَدْ، وَالأَخُ وَالأُخْتُ عِمَادٌ وَسَنَدْ، صِلَةُ الرَّحِمِ تُنِيرُ لِلأَبَدْ!"
+      ],
+      "culturalNotes": [
+        "تحرص الثقافة العربية على التمييز الدقيق بين «العَمّ» (شقيق الأب) و«الخَال» (شقيق الأم)، مما يبرز الثراء اللغوي والاهتمام الفائق بالأنساب والقرابة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)» (الدرس 1)؟",
+          "prompt": "ما هو اللفظ العربي الفصيح الذي يُطلق تحديدًا على «أخي الأب» (Paternal Uncle)؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)» بأسلوب أكاديمي دقيق (3.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (3.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (3.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (3.1.w3)"
+            "العَمُّ (Al-ʿAmm)",
+            "الخَالُ (أخو الأم)",
+            "الجَدُّ",
+            "الصِّهْرُ"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«العَمُّ» هو شقيق الأب، بينما «الخَالُ» هو شقيق الأم."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو جمع كلمة «أُخْت» في اللغة العربية الفصحى؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "أَخَوَاتٌ (Akhawāt)",
+            "إِخْوَةٌ (جمع أخ)",
+            "أُخَيَّاتٌ",
+            "أُخُتَاتٌ"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "جمع أخت هو «أَخَوَاتٌ»، بينما «إِخْوَةٌ» هو جمع أخ."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u3-l1):",
+          "prompt": "اختر العبارة الفصيحة التي تعبر بدقة عن مكونات أسرة متماسكة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (3.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (3.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (3.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (3.1.x3)"
+            "يَعِيشُ أَبِي وَأُمِّي مَعَ جَدِّي وَجَدَّتِي فِي بَيْتٍ وَاحِدٍ بِمَحَبَّةٍ وَسَلَامٍ. (My father and mother live with my grandfather and grandmother in one house in love and peace.)",
+            "يعيش ابي بدون ام وجد في قاعة الامتحانات",
+            "ليس عندي اخ ولا اخت ولا عائلة في الدنيا",
+            "الاسرة هي ارقام وساعات واقلام مدرسة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "العبارة تجمع أفراد الأسرة النواة والأجداد في سياق لغوي وعاطفي فصيح وسليم."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)»؟",
+          "prompt": "ما هو المصطلح الذي يُطلق على شقيقة الأم (Maternal Aunt) في اللغة العربية؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (3.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (3.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (3.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (3.1.y3)"
+            "الخَالَةُ (Al-Khālah)",
+            "العَمَّةُ",
+            "الجَدَّةُ",
+            "الكَنَّةُ"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الخَالَةُ» هي أخت الأم، و«العَمَّةُ» هي أخت الأب."
         }
       ]
     },
@@ -1720,24 +1724,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 3-1)؟",
+          "prompt": "اختر الفقرة التي تقدم وصفًا متكاملاً وصحيحًا إعرابيًا ولغويًا لشجرة العائلة وصلة الرحم:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (3.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (3.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (3.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (3.1.z3)"
+            "أُسْرَتُنَا مُتَرَابِطَةٌ جِدًّا: زَارَنَا عَمِّي خَالِدٌ مَعَ زَوْجَتِهِ، وَحَضَرَتْ خَالَتِي مَرْيَمُ مَعَ أَبْنَائِهَا، وَاسْتَمَعْنَا جَمِيعًا إِلَى حِكَايَاتِ جَدِّي الرَّائِعَةِ. (Our family is very cohesive: my paternal uncle Khalid visited us with his wife, and my maternal aunt Maryam came with her children, and we all listened to my grandfather's wonderful stories.)",
+            "اسرتنا ليس فيها عم ولا خال ولا جد في الفصل.",
+            "اخ واخت وابناء وبنات بدون اب وام في الشارع.",
+            "شجرة العائلة هي حروف ستة غير متصلة بالواو."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة توظف مصطلحات القرابة (عم، زوجة، خالة، أبناء، جد) بتناسق دلالي وإعرابي باهر."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u3-l1) باللغة العربية (مثال: «الأسرة»):",
+          "prompt": "اكتب باللغة العربية الفصحى الكلمة الدالة على والد الأب أو والد الأم (مثال: «الجد»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الأسرة",
-            "الأسرة"
+            "الجد",
+            "الجَدُّ",
+            "جد"
           ],
-          "explanation": "المصطلح الصحيح هو «الأسرة»."
+          "explanation": "والد الأب أو الأم هو «الجد»."
         }
       ],
       "passThreshold": 0.8
@@ -1748,85 +1753,89 @@
     "subject": "arabic",
     "unit": 3,
     "lessonNumber": 2,
-    "title": "الأسرة والنسب والتركيب الإضافي (Family & Idafa) (الدرس 2)",
+    "title": "التركيب الإضافي: المضاف والمضاف إليه والملكية (The Iḍāfa Construction & Possession)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: معجم العائلة والقرابة، أسماء الإشارة، والتركيب الإضافي (المضاف والمضاف إليه). (الجزء 2).",
+    "objective": "إتقان بنية التركيب الإضافي (المضاف والمضاف إليه)، وتجريد المضاف من أل والتنوين وحذف نون التثنية والجمع، وإعراب المضاف إليه مجرورًا دائمًا، وموقع النعت التابع للمضاف.",
     "presentation": {
-      "explanation": "",
+      "explanation": "التركيب الإضافي (الإضافة - Iḍāfa) هو الآلية الأساسية في اللغة العربية للتعبير عن الملكية والتخصيص والنسبة:\n\nأولاً: أركان التركيب الإضافي (Structure of Iḍāfa):\n1.【المُضَافُ (The First Term)】:\n- هو الاسم الأول، ويُعرب بحسب موقعه في الجملة (مبتدأ، فاعل، مفعول به، اسم مجرور).\n- شروطه الصارمة:\n  - **يُمْنَعُ مَنْعًا بَاتًّا مِنْ أَلْ التَّعْرِيفِ** (لا يقبل «الـ»).\n  - **يُمْنَعُ مِنَ التَّنْوِينِ** (يُحذف التنوين ويُكتفى بحركة واحدة: ضمة/فتحة/كسرة).\n  - **تُحْذَفُ مِنْهُ نُونُ المُثَنَّى وَنُونُ جَمْعِ المُذَكَّرِ السَّالِمِ** عند الإضافة: «مُعَلِّمُو المَدْرَسَةِ» (أصلها: معلمون)، «كِتَابَا الطَّالِبِ» (أصلها: كتابان).\n2.【المُضَافُ إِلَيْهِ (The Second Term)】:\n- هو الاسم الثاني، ويكون **مَجْرُورًا دَائِمًا** (علامة جره الكسرة أو الياء):\n  - «كِتَابُ الطَّالِبِ» (The student's book).\n  - «بَابُ البَيْتِ» (The house's door).\n  - «جَامِعَةُ المَدِينَةِ» (The city's university).\n\nثانياً: الإضافة المتسلسلة (Chained Iḍāfa):\n- يمكن تتابع أكثر من مضاف ومضاف إليه:\n  - «مِفْتَاحُ بَابِ بَيْتِ الأُسْتَاذِ» (The key of the door of the professor's house).\n\nثالثاً: نعت (صفة) المضاف والمضاف إليه:\n- تأتي الصفة دائمًا في نهاية التركيب وتطابق موصوفها في الإعراب والتعريف:\n  - «كِتَابُ الطَّالِبِ الجَدِيدُ» (نعت مرفوع للمضاف «كتابُ»).\n  - «كِتَابُ الطَّالِبِ الجَدِيدِ» (نعت مجرور للمضاف إليه «الطالبِ»).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)» بأسلوب أكاديمي دقيق (3.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الأسرة والنسب والتركيب الإضافي (Family & Idafa)' to students in an accurate academic style."
+          "target": "بَابُ مَكْتَبَةِ الجَامِعَةِ مَفْتُوحٌ لِجَمِيعِ البَاحِثِينَ وَالطُّلَّابِ.(Bābu maktabati al-jāmiʿati maftūḥun li-jamīʿi al-bāḥithīna wa-aṭ-ṭullāb.)",
+          "reading": "[baː.bu mak.ta.ba.ti‿l.ʒaː.mi.ʕa.ti maf.tuː.ħun li.ʒa.miː.ʕi‿l.baː.ħi.θiː.na watˤ.tˤul.laːb] (Bā-bu mak-ta-ba-ti al-jā-mi-ʿa-ti maf-tū-ḥun li-ja-mī-ʿi al-bā-ḥi-thī-na wa-aṭ-ṭul-lāb.)",
+          "translation": "The door of the university library is open to all researchers and students."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (3.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "سَيَّارَةُ أُسْتَاذِ اللُّغَةِ العَرَبِيَّةِ الجَدِيدَةُ تَقِفُ أَمَامَ بِنَايَةِ الكُلِّيَّةِ.(Sayyāratu ustādhi al-lughati al-ʿarabiyyati al-jadīdatu taqifu amāma bināyati al-kulliyyah.)",
+          "reading": "[saj.jaː.ra.tu ʔus.taː.ði‿l.lu.ɣa.ti‿l.ʕa.ra.bij.ja.ti‿l.ʒa.diː.da.tu ta.qi.fu ʔa.maː.ma bi.naː.ja.ti‿l.kul.lij.jah] (Say-yā-ra-tu us-tā-dhi al-lu-gha-ti al-ʿa-ra-biy-ya-ti al-ja-dī-da-tu ta-qi-fu a-mā-ma bi-nā-ya-ti al-kul-liy-yah.)",
+          "translation": "The new car of the Arabic language professor is parked in front of the faculty building."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (3.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "المُضَافُ لَا يُنَوَّنُ وَلَا يَقْبَلُ أَلْ التَّعْرِيفِ، وَالمُضَافُ إِلَيْهِ يَكُونُ مَجْرُورًا دَائِمًا.(Al-muḍāfu lā yunawwanu wa-lā yaqbalu al at-taʿrīfa, wa-al-muḍāfu ilayhi yakūnu majrūran dāʾiman.)",
+          "reading": "[al.mu.dˤaː.fu laː ju.naw.wa.nu wa.laː jaq.ba.lu ʔal‿at.taʕ.riːf, wal.mu.dˤaː.fu ʔi.laj.hi ja.kuː.nu maʒ.ruː.ran daː.ʔi.man] (Al-mu-ḍā-fu lā yu-naw-wa-nu wa-lā yaq-ba-lu al at-taʿ-rīf, wa-al-mu-ḍā-fu i-lay-hi ya-kū-nu maj-rū-ran dā-ʾi-man.)",
+          "translation": "The first term of annexation is never nunated nor accepts the definite article, and the second term is always in the genitive case."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (3.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "زُرْتُ حَدِيقَةَ بَيْتِ جَدِّي الكَبِيرَةَ فِي القَرْيَةِ الجَمِيلَةِ.(Zurtu ḥadīqata bayti jaddī al-kabīrata fī al-qaryati al-jamīlah.)",
+          "reading": "[zur.tu ħa.diː.qa.ta baj.ti ʒad.diː‿l.ka.biː.ra.ta fiː‿l.qar.ja.ti‿l.ʒa.miː.lah] (Zur-tu ḥa-dī-qa-ta bay-ti jad-dī al-ka-bī-ra-ta fī al-qar-ya-ti al-ja-mī-lah.)",
+          "translation": "I visited the large garden of my grandfather's house in the beautiful village."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مُضَافٌ بِلَا تَنْوِينٍ وَلَا أَلْ يَبِينْ، وَمُضَافٌ إِلَيْهِ مَجْرُورٌ بِيَقِينْ!"
+      ],
+      "culturalNotes": [
+        "التركيب الإضافي هو العمود الفقري للبلاغة والإيجاز في اللغة العربية، ويُستعمل بكثرة في أسماء الأماكن والألقاب والمؤسسات مثل: «بَيْتُ الحِكْمَةِ»، «دَارُ السَّلَامِ»، «أَمِيرُ المُؤْمِنِينَ»."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)» (الدرس 2)؟",
+          "prompt": "ما هو الضبط الإعرابي السليم لتركيب «The professor's book» باللغة العربية الفصحى؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)» بأسلوب أكاديمي دقيق (3.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (3.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (3.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (3.2.w3)"
+            "كِتَابُ الأُسْتَاذِ (Kitābu al-ustādh)",
+            "الكِتَابُ الأُسْتَاذِ (خطأ بوجود أل في المضاف)",
+            "كِتَابٌ الأُسْتَاذُ (خطأ بالتنوين ورفع المضاف إليه)",
+            "كِتَابَ أُسْتَاذًا"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "المضاف «كتابُ» مجرد من أل والتنوين، والمضاف إليه «الأستاذِ» معرف ومجرور بالكسرة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما الذي يحدث لنون جمع المذكر السالم (مثل: مُعَلِّمُونَ) عند إضافتها إلى اسم بعدها؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "تُحْذَفُ النُّونُ وُجُوبًا (مُعَلِّمُو المَدْرَسَةِ) (The nun is dropped)",
+            "تبقى النون كما هي",
+            "تتحول النون إلى ألف",
+            "تتحول النون إلى تاء"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "تحذف نون المثنى وجمع المذكر السالم عند الإضافة وجوبًا: «مُعَلِّمُو المَدْرَسَةِ»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u3-l2):",
+          "prompt": "اختر الجملة التي تحتوي على تركيب إضافي سليم مع ضبط الصفة التابعة للمضاف بشكل صحيح:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (3.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (3.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (3.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (3.2.x3)"
+            "قَرَأْتُ مَقَالَةَ الكَاتِبِ الطَّوِيلَةَ فِي الجَرِيدَةِ. (I read the writer's long article in the newspaper.)",
+            "قرأت مقالة الكاتب الطويلةُ بالرفع خطأ",
+            "قرأت المقالة الكاتب الطويلة بوجود أل في المضاف",
+            "قرأت مقالة كاتب طويل في المدرسة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«مقالةَ» مفعول به منصوب ومضاف، و«الكاتبِ» مضاف إليه مجرور، و«الطويلةَ» نعت منصوب تابع للمضاف المنصوب «مقالةَ»."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)»؟",
+          "prompt": "ما هي الحالة الإعرابية الدائمة للمضاف إليه في النحو العربي؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (3.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (3.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (3.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (3.2.y3)"
+            "مَجْرُورٌ دَائِمًا (Always Genitive)",
+            "مرفوع دائما",
+            "منصوب دائما",
+            "مجزوم دائما"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "المضاف إليه حكمه الإعرابي الجر دائمًا إما بالكسرة أو بالياء."
         }
       ]
     },
@@ -1834,24 +1843,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 3-2)؟",
+          "prompt": "اختر الجملة التي تطبق قواعد التركيب الإضافي المتسلسل والإعراب الفصيح بدون أي خطأ:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (3.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (3.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (3.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (3.2.z3)"
+            "تَقَعُ قَاعَةُ مُحَاضَرَاتِ كُلِّيَّةِ الآدَابِ فِي الطَّابَقِ الثَّانِي مِنَ المَبْنَى. (The lecture hall of the faculty of arts is located on the second floor of the building.)",
+            "تقع القاعة محاضرات كلية الآداب في الطابق الثاني.",
+            "تقع قاعةٌ محاضراتٌ كليةٌ في المبنى.",
+            "اضافة مضاف اليه تنوين فتحة كسرة جامعة كتاب."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "«قاعةُ» مضاف أول، «محاضراتِ» مضاف إليه ومضاف ثانٍ، «كليةِ» مضاف إليه ومضاف ثالث، «الآدابِ» مضاف إليه أخير، بضبط إعرابي سليم تمامًا."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u3-l2) باللغة العربية (مثال: «الأسرة»):",
+          "prompt": "اكتب المصطلح النحوي الدال على الركن الثاني المجرور في التركيب الإضافي (مثال: «المضاف إليه»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الأسرة",
-            "الأسرة"
+            "المضاف إليه",
+            "المضاف اليه",
+            "المُضَافُ إِلَيْهِ"
           ],
-          "explanation": "المصطلح الصحيح هو «الأسرة»."
+          "explanation": "الركن الثاني هو «المضاف إليه»."
         }
       ],
       "passThreshold": 0.8
@@ -1862,85 +1872,89 @@
     "subject": "arabic",
     "unit": 3,
     "lessonNumber": 3,
-    "title": "الأسرة والنسب والتركيب الإضافي (Family & Idafa) (الدرس 3)",
+    "title": "الضمائر المتصلة بالأسماء للتعبير عن الملكية (Attached Possessive Pronouns)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: معجم العائلة والقرابة، أسماء الإشارة، والتركيب الإضافي (المضاف والمضاف إليه). (الجزء 3).",
+    "objective": "إتقان الضمائر المتصلة بالأسماء (ياء المتكلم، نا، كاف الخطاب، هاء الغائب)، وإعرابها في محل جر بالإضافة، والتعبير عن الملكية والعلاقات الأسرية بدقة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "عندما تتصل الضمائر المتصلة بالأسماء فإنها تؤدي وظيفة المضاف إليه للتعبير عن الملكية والنسبة:\n\nأولاً: ضمائر الملكية المتصلة (Attached Possessive Suffixes):\n1.【ضمائر المتكلم (1st Person)】:\n- ياء المتكلم (ـِي - My): كِتَابِي (my book)، أُسْرَتِي (my family)، بَيْتِي (my house).\n- نَا المتكلمين (ـنَا - Our): كِتَابُنَا (our book)، جَامِعَتُنَا (our university)، وَطَنُنَا (our homeland).\n2.【ضمائر المخاطب (2nd Person)】:\n- كاف المفرد المذكر (ـكَ - Your masc.): كِتَابُكَ (your book)، اسْمُكَ (your name)، عَمَلُكَ.\n- كاف المفرد المؤنث (ـكِ - Your fem.): كِتَابُكِ (your book)، اسْمُكِ (your name)، عَمَلُكِ.\n- كُم لجمع الذكور (ـكُمْ - Your plur.): كِتَابُكُمْ (your book)، بَيْتُكُمْ (your house).\n3.【ضمائر الغائب (3rd Person)】:\n- هاء المفرد المذكر (ـهُ - His): كِتَابُهُ (his book)، قَلَمُهُ (his pen)، أُسْرَتُهُ.\n- هَا للمفرد المؤنث (ـهَا - Her): كِتَابُهَا (her book)، غُرْفَتُهَا (her room)، أُمُّهَا.\n- هُم لجمع الذكور (ـهُمْ - Their): كِتَابُهُمْ / هُنَّ للإناث (ـهُنَّ).\n\nثانياً: الإعراب وحركة الاسم قبل الضمير:\n- يتغير آخر الاسم قبل الضمير بحسب موقعه الإعرابي، بينما يظل الضمير مبنيًا في محل جر بالإضافة:\n  - «هٰذَا كِتَابُهُ» (خبر مرفوع بالضمة).\n  - «قَرَأْتُ كِتَابَهُ» (مفعول به منصوب بالفتحة).\n  - «اسْتَفَدْتُ مِنْ كِتَابِهِ» (اسم مجرور بالكسرة).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)» بأسلوب أكاديمي دقيق (3.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الأسرة والنسب والتركيب الإضافي (Family & Idafa)' to students in an accurate academic style."
+          "target": "هٰذَا بَيْتُنَا الجَمِيلُ، فِيهِ غُرْفَتِي وَغُرْفَةُ أَخِي وَمَكْتَبُ أَبِي.(Hādhā baytunā al-jamīl, fīhi ghurfatī wa-ghurfatu akhī wa-maktabu abī.)",
+          "reading": "[haː.ðaː baj.tu.naː‿l.ʒa.miːl, fiː.hi ɣur.fa.tiː wa.ɣur.fa.tu ʔa.xiː wa.mak.ta.bu ʔa.biː] (Hā-dhā bay-tu-nā al-ja-mīl, fī-hi ghur-fa-tī wa-ghur-fa-tu a-khī wa-mak-ta-bu a-bī.)",
+          "translation": "This is our beautiful house, in it are my room, my brother's room, and my father's office."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (3.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "مَا اسْمُ زَوْجَتِكَ يَا عُمَرُ؟ — اسْمُهَا خَدِيجَةُ وَهِيَ زَمِيلَتِي فِي العَمَلِ.(Mā ismu zawjatika yā ʿUmar? — Ismuhā Khadījah wa-hiya zamīlatī fī al-ʿamal.)",
+          "reading": "[maː‿s.mu zaw.ʒa.ti.ka jaː ʕu.mar? — ʔis.mu.haː xa.diː.ʒa.tu wa.hi.ja za.miː.la.tiː fiː‿l.ʕa.mal] (Mā is-mu zaw-ja-ti-ka yā ʿU-mar? — Is-mu-hā Kha-dī-ja-tu wa-hi-ya za-mī-la-tī fī al-ʿa-mal.)",
+          "translation": "What is your wife's name, Omar? — Her name is Khadijah and she is my colleague at work."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (3.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تَتَّصِلُ الضَّمَائِرُ بِالأَسْمَاءِ فَتَكُونُ فِي مَحَلِّ جَرٍّ بِالإِضَافَةِ لِلتَّعْبِيرِ عَنِ المِلْكِيَّةِ.(Tattaṣilu aḍ-ḍamāʾiru bi-l-asmāʾi fa-takūnu fī maḥalli jarrin bi-l-iḍāfati li-t-taʿbīri ʿani al-milkiyyah.)",
+          "reading": "[tat.ta.sˤi.lu‿dˤ.dˤa.maː.ʔi.ru bil.ʔas.maː.ʔi fa.ta.kuː.nu fiː ma.ħal.li ʒar.rin bil.ʔi.dˤaː.fa.ti lit.taʕ.biː.ri ʕa.ni‿l.mil.kij.jah] (Tat-ta-ṣi-lu aḍ-ḍa-mā-ʾi-ru bi-l-as-mā-ʾi fa-ta-kū-nu fī ma-ḥal-li jar-rin bi-l-i-ḍā-fa-ti li-t-taʿ-bī-ri ʿa-ni al-mil-kiy-yah.)",
+          "translation": "Pronouns attach to nouns and function in the genitive of annexation to express possession."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (3.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يُحِبُّ الأَوْلَادُ أُمَّهُمْ وَيَحْتَرِمُونَ أَبَاهُمْ وَيَسْتَمِعُونَ إِلَى نَصَائِحِهِمَا.(Yuḥibbu al-awlādu ummahum wa-yaḥtarimūna abāhum wa-yastamiʿūna ilā naṣāʾiḥihimā.)",
+          "reading": "[ju.ħib.bu‿l.ʔaw.laː.du ʔum.ma.hum wa.jaħ.ta.ri.muː.na ʔa.baː.hum wa.jas.ta.mi.ʕuː.na ʔi.laː na.sˤaː.ʔi.ħi.hi.maː] (Yu-ḥib-bu al-aw-lā-du um-ma-hum wa-yaḥ-ta-ri-mū-na a-bā-hum wa-yas-ta-mi-ʿū-na i-lā na-ṣā-ʾi-ḥi-hi-mā.)",
+          "translation": "The children love their mother, respect their father, and listen to both of their advice."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "يَاءٌ لِي وَنَا لَنَا، كَافٌ لَكَ وَلَكِ اعْتَنَى، هَاءٌ لَهُ وَهَا لَهَا دَامَ الهَنَا!"
+      ],
+      "culturalNotes": [
+        "اتصال الضمير باسم القريب «أبي، أخي، وطني» يحمل في البلاغة العربية دلالة التحبب وعمق الارتباط الوجداني."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)» (الدرس 3)؟",
+          "prompt": "ما هو التعبير الصحيح لقول «Her room is tidy» باللغة العربية الفصحى؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)» بأسلوب أكاديمي دقيق (3.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (3.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (3.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (3.3.w3)"
+            "غُرْفَتُهَا مُرَتَّبَةٌ (Ghurfatuhā murattabah)",
+            "غُرْفَتُهُ مُرَتَّبَةٌ (للغائب المذكر)",
+            "غُرْفَتِي مُرَتَّبٌ",
+            "غُرْفَتُكَ مُرَتَّبِينَ"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الضمير المتصل المؤنث الغائب هو «هَا» فيتصل بكلمة «غرفة» ليصبح «غُرْفَتُهَا»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو المحل الإعرابي الدائم للضمائر المتصلة بالأسماء؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "فِي مَحَلِّ جَرٍّ بِالإِضَافَةِ (In the genitive position of annexation)",
+            "في محل رفع فاعل",
+            "في محل نصب مفعول به",
+            "في محل جزم"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "أي ضمير يتصل باسم يكون دائمًا مبنيًا في محل جر مضاف إليه."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u3-l3):",
+          "prompt": "اختر الجملة التي تستخدم ضمائر الملكية المتصلة بشكل متناسق وسليم دلاليًا ونحويًا:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (3.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (3.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (3.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (3.3.x3)"
+            "أَخِي يُسَافِرُ مَعَ صَدِيقِهِ إِلَى عَمَلِهِمَا فِي العَاصِمَةِ. (My brother travels with his friend to their work in the capital.)",
+            "أخي يسافر مع صديقها الى عملهم في العاصمة",
+            "أخي يسافر مع صديقك الى عملي نحن",
+            "أخي هو وصديق هو في سيارة هو"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الضمائر «أخ-ي» (المتكلم) و«صديق-ه» (الغائب المذكر) و«عمل-هما» (المثنى) متناسقة تمامًا."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)»؟",
+          "prompt": "ما هو الضمير المتصل المخصص للمتكلمين الجمع المتصل بالاسم (مثل: بيتنا / جامعتنا)؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (3.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (3.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (3.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (3.3.y3)"
+            "نَا (ـنَا) (Nā)",
+            "كُم (ـكُمْ)",
+            "هُم (ـهُمْ)",
+            "هُنَّ (ـهُنَّ)"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الضمير «نَا» يدل على جماعة المتكلمين عند اتصاله بالأسماء."
         }
       ]
     },
@@ -1948,24 +1962,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 3-3)؟",
+          "prompt": "اختر الفقرة التي تعبر عن اعتزاز الشخص بأسرته وبيته باستخدام الضمائر المتصلة والإعراب السليم:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (3.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (3.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (3.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (3.3.z3)"
+            "أُحِبُّ أُسْرَتِي وَأَفْتَخِرُ بِوَطَنِي، هٰذَا مَنْزِلُنَا الكَبِيرُ، يَعِيشُ فِيهِ إِخْوَتِي مَعَ وَالِدَيْنَا فِي سَعَادَةٍ وَاطْمِئْنَانٍ. (I love my family and take pride in my homeland; this is our large home, where my siblings live with our parents in happiness and reassurance.)",
+            "احب اسرة هو وافتخر بوطن هم هذا منزل انتم.",
+            "انا ابي وانت اخوه وهي امنا في كتاب وقلم.",
+            "ضمائر متصلة ملكية سكون فتحة مدرسة كلية."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة تجمع بين «أسرتي»، «بgebوطني»، «منزلنا»، «إخوتي»، «والدينا» بتناسق بلاغي ونحوي تام."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u3-l3) باللغة العربية (مثال: «الأسرة»):",
+          "prompt": "اكتب باللغة العربية الفصحى الضمير المتصل الدال على المتكلم المفرد عند اتصاله بالاسم (مثال: «كتابي» الياء؛ اكتب: «ياء المتكلم»):",
           "acceptedAnswers": [
-            "الأسرة",
-            "الأسرة"
+            "ياء المتكلم",
+            "ياء المتكلمِ",
+            "الياء"
           ],
-          "explanation": "المصطلح الصحيح هو «الأسرة»."
+          "explanation": "الضمير المتصل للمتكلم المفرد هو «ياء المتكلم»."
         }
       ],
       "passThreshold": 0.8
@@ -1976,85 +1991,89 @@
     "subject": "arabic",
     "unit": 3,
     "lessonNumber": 4,
-    "title": "الأسرة والنسب والتركيب الإضافي (Family & Idafa) (الدرس 4)",
+    "title": "أسماء الإشارة للقريب والبعيد والوصف الإشاري (Demonstratives Near & Far)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: معجم العائلة والقرابة، أسماء الإشارة، والتركيب الإضافي (المضاف والمضاف إليه). (الجزء 4).",
+    "objective": "إتقان أسماء الإشارة للقريب (هٰذا، هٰذه، هؤلاء) وللبعيد (ذلك، تلك، أولئك)، والتفرقة بين الجملة الإشارية والبدل المعرف بأل بعد اسم الإشارة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "أسماء الإشارة ألفاظ موضوعة للإشارة إلى مشار إليه محسوس أو معنوي:\n\nأولاً: أسماء الإشارة للقريب (Near Distance):\n1.【المفرد المذكر】: «هٰذَا» -> «هٰذَا طَالِبٌ مُجْتَهِدٌ» (This is a hardworking student).\n2.【المفرد المؤنث وجمع غير العاقل】: «هٰذِهِ» -> «هٰذِهِ طَالِبَةٌ»، «هٰذِهِ الكُتُبُ مُفِيدَةٌ» (Plural non-human takes fem. sing.).\n3.【جمع العاقل (مذكرًا ومؤنثًا)】: «هٰؤُلَاءِ» -> «هٰؤُلَاءِ طُلَّابٌ كِرَامٌ»، «هٰؤُلَاءِ طَالِبَاتٌ».\n\nثانياً: أسماء الإشارة للبعيد (Far Distance):\n1.【المفرد المذكر البعيد】: «ذٰلِكَ» -> «ذٰلِكَ النَّجْمُ بَعِيدٌ» (That star is far).\n2.【المفرد المؤنث البعيد وجمع غير العاقل】: «تِلْكَ» -> «تِلْكَ المَدِينَةُ عَرِيقَةٌ»، «تِلْكَ الجِبَالُ شَاهِقَةٌ».\n3.【جمع العاقل البعيد】: «أُولٰئِكَ» -> «أُولٰئِكَ الأَسَاتِذَةُ عُلَمَاءُ» (Those professors are scholars).\n\nثالثاً: الفرق النحوي بين الخبر والبدل بعد اسم الإشارة:\n1.【اسم الإشارة + نكرة = جملة تامة (مبتدأ + خبر)】:\n- «هٰذَا كِتَابٌ» (This is a book).\n2.【اسم الإشارة + معرف بأل = مركب إشاري (بدل) يحتاج إلى خبر】:\n- «هٰذَا الكِتَابُ مُفِيدٌ» (This book is useful - «الكتابُ» بدل مرفوع، «مفيدٌ» خبر).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)» بأسلوب أكاديمي دقيق (3.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الأسرة والنسب والتركيب الإضافي (Family & Idafa)' to students in an accurate academic style."
+          "target": "هٰذَا أَبِي الفَاضِلُ، وَذٰلِكَ عَمِّي الكَبِيرُ الَّذِي يَعِيشُ فِي القَاهِرَةِ.(Hādhā abī al-fāḍil, wa-dhālika ʿammī al-kabīru alladhī yaʿīshu fī al-Qāhirah.)",
+          "reading": "[haː.ðaː ʔa.biː‿l.faː.dˤil, wa.ðaː.li.ka ʕam.miː‿l.ka.biː.ru‿l.la.ðiː ja.ʕiː.ʃu fiː‿l.qaː.hi.rah] (Hā-dhā a-bī al-fā-ḍil, wa-dhā-li-ka ʿam-mī al-ka-bī-ru al-la-dhī ya-ʿī-shu fī al-Qā-hi-rah.)",
+          "translation": "This is my esteemed father, and that is my eldest paternal uncle who lives in Cairo."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (3.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "هٰذِهِ أُخْتِي الصَّغِيرَةُ تَقْرَأُ، وَتِلْكَ أُمِّي تُعِدُّ طَعَامَ العَشَاءِ فِي المَطْبَخِ.(Hādhihi ukhtī aṣ-ṣaghīratu taqraʾ, wa-tilka ummī tuʿiddu ṭaʿāma al-ʿashāʾi fī al-maṭbakh.)",
+          "reading": "[haː.ði.hi ʔux.tiː‿sˤ.sˤa.ɣiː.ra.tu taq.raʔ, wa.til.ka ʔum.miː tu.ʕid.du tˤa.ʕaː.ma‿l.ʕa.ʃaː.ʔi fiː‿l.matˤ.bax] (Hā-dhi-hi ukh-tī aṣ-ṣa-ghī-ra-tu taq-raʾ, wa-til-ka um-mī tu-ʿid-du ṭa-ʿā-ma al-ʿa-shā-ʾi fī al-maṭ-bakh.)",
+          "translation": "This is my little sister reading, and that is my mother preparing dinner in the kitchen."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (3.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "هٰؤُلَاءِ إِخْوَتِي الأَعِزَّاءُ، وَأُولٰئِكَ زُمَلَاؤُنَا فِي مَرْكَزِ البُحُوثِ العِلْمِيَّةِ.(Hāʾulāʾi ikhwatī al-aʿizzāʾ, wa-ulāʾika zumalāʾunā fī markazi al-buḥūthi al-ʿilmiyyah.)",
+          "reading": "[haː.ʔu.laː.ʔi ʔix.wa.tiː‿l.ʔa.ʕiz.zaːʔ, wa.ʔuː.laː.ʔi.ka zu.ma.laː.ʔu.naː fiː mar.ka.zi‿l.bu.ħuː.θi‿l.ʕil.mij.jah] (Hā-ʾu-lā-ʾi ikh-wa-tī al-a-ʿiz-zāʾ, wa-u-lā-ʾi-ka zu-ma-lā-ʾu-nā fī mar-ka-zi al-bu-ḥū-thi al-ʿil-miy-yah.)",
+          "translation": "These are my dear brothers, and those are our colleagues at the scientific research center."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (3.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "الِاسْمُ المُعَرَّفُ بِأَلْ بَعْدَ اسْمِ الإِشَارَةِ يُعْرَبُ بَدَلًا تَابِعًا لَهُ فِي الإِعْرَابِ.(Al-ismu al-muʿarrafu bi-al baʿda ismi al-ishārati yuʿrabu badalan tābiʿan lahu fī al-iʿrāb.)",
+          "reading": "[al.ʔis.mu‿l.mu.ʕar.ra.fu bi.ʔal baʕ.da‿s.mi‿l.ʔi.ʃaː.ra.ti juʕ.ra.bu ba.da.lan taː.bi.ʕan la.hu fiː‿l.ʔiʕ.raːb] (Al-is-mu al-mu-ʿar-ra-fu bi-al baʿ-da is-mi al-i-shā-ra-ti yuʿ-ra-bu ba-da-lan tā-bi-ʿan la-hu fī al-iʿ-rāb.)",
+          "translation": "The noun defined with al after a demonstrative is parsed as an appositive following it in case."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "هٰذَا وَهٰذِهِ لِلْقَرِيبِ بِلَا امْتِرَاءْ، وَذٰلِكَ مَعَ تِلْكَ لِلْبَعِيدِ فِي الفَضَاءْ، وَلِلْجَمِيعِ هٰؤُلَاءِ وَأُولٰئِكَ بِانْتِقَاءْ!"
+      ],
+      "culturalNotes": [
+        "تتميز اللغة العربية بمرونة بلاغية في استعمال اسم الإشارة للبعيد «ذٰلِكَ» للإشارة إلى المعاني العظيمة السامية كالكتاب المبين أو المجد الرفيع."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)» (الدرس 4)؟",
+          "prompt": "ما هو اسم الإشارة المناسب للإشارة إلى مجموعة من الرجال أو النساء العقلاء في مكان بعيد؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)» بأسلوب أكاديمي دقيق (3.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (3.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (3.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (3.4.w3)"
+            "أُولٰئِكَ (Ulāʾika)",
+            "هٰؤُلَاءِ (للقريب)",
+            "تِلْكَ (للمفرد المؤنث)",
+            "ذٰلِكَ (للمفرد المذكر)"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«أُولٰئِكَ» اسم إشارة مخصص لجمع العاقل (ذكورًا وإناثًا) في المسافة البعيدة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو إعراب كلمة «الطَّالِبُ» في الجملة التامة «هٰذَا الطَّالِبُ مُجْتَهِدٌ»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "بَدَلٌ مَرْفُوعٌ (Appositive)",
+            "خبر المبتدأ",
+            "فاعل مرفوع",
+            "مضاف إليه مجرور"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الاسم المعرف بأل بعد اسم الإشارة يعرب بدلاً مطابقًا يتبع اسم الإشارة."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u3-l4):",
+          "prompt": "اختر الجملة التي تستخدم اسم الإشارة لجمع غير العاقل بصيغة المفرد المؤنث الفصيحة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (3.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (3.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (3.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (3.4.x3)"
+            "هٰذِهِ المَكَاتِبُ وَاسِعَةٌ، وَتِلْكَ الكُتُبُ قَيِّمَةٌ جِدًّا. (These offices are spacious, and those books are very valuable.)",
+            "هؤلاء المكاتب واسعون وتلك الكتب قديم",
+            "هذا المكاتب واسع وذلك الكتب جميل",
+            "اولئك المكاتب كبير وهؤلاء كتب قديم"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "جمع غير العاقل يُعامل في النحو العربي معاملة المفرد المؤنث: «هٰذِهِ المَكَاتِبُ»، «تِلْكَ الكُتُبُ»."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)»؟",
+          "prompt": "ما هو اسم الإشارة المخصص للمفرد المذكر في المسافة البعيدة؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (3.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (3.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (3.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (3.4.y3)"
+            "ذٰلِكَ (Dhālika)",
+            "هٰذَا",
+            "تِلْكَ",
+            "هٰؤُلَاءِ"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«ذٰلِكَ» اسم إشارة للمفرد المذكر البعيد."
         }
       ]
     },
@@ -2062,24 +2081,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 3-4)؟",
+          "prompt": "اختر الفقرة التي تجمع بين أسماء الإشارة للقريب والبعيد والبدل الإشاري بدقة نحوية فائقة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (3.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (3.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (3.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (3.4.z3)"
+            "هٰذَا البَيْتُ القَرِيبُ مَنْزِلُ جَدِّي، وَذٰلِكَ البِنَاءُ البَعِيدُ جَامِعَةُ المَدِينَةِ، وَأُولٰئِكَ الرِّجَالُ هُمْ أَسَاتِذَتُنَا الكِرَامُ. (This near house is my grandfather's home, and that far building is the city university, and those men are our noble professors.)",
+            "هذا البيت القريب منزل جدي وذلك البناء اولئك الرجال هؤلاء.",
+            "هؤلاء البيت وذلك جامعة وتلك اساتذة في الفصل.",
+            "اسماء اشارة قريب بعيد بدل خبر سكون فتحة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة توظف «هٰذا»، «ذلك»، «أولئك» مع البدل المعرف بأل والإخبار التام بدقة نحوية لا تشوبها شائبة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u3-l4) باللغة العربية (مثال: «الأسرة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الإشارة المخصص للمفرد المؤنث البعيد (مثال: «تلك»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الأسرة",
-            "الأسرة"
+            "تلك",
+            "تِلْكَ"
           ],
-          "explanation": "المصطلح الصحيح هو «الأسرة»."
+          "explanation": "اسم الإشارة للمفرد المؤنث البعيد هو «تلك»."
         }
       ],
       "passThreshold": 0.8
@@ -2090,85 +2109,89 @@
     "subject": "arabic",
     "unit": 3,
     "lessonNumber": 5,
-    "title": "الأسرة والنسب والتركيب الإضافي (Family & Idafa) (الدرس 5)",
+    "title": "حوار السهرة العائلية ووصف بيت الجد والترابط الأسري (Comprehensive Family Evening & Kinship Dialogue)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: معجم العائلة والقرابة، أسماء الإشارة، والتركيب الإضافي (المضاف والمضاف إليه). (الجزء 5).",
+    "objective": "الدمج الشامل لمهارات الوحدة الثالثة: معجم العائلة والقرابة، التراكيب الإضافية، الضمائر المتصلة للملكية، وأسماء الإشارة للقريب والبعيد في حوار وسرد عائلي فصيح متكامل.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس الختامي والتتويجي للوحدة الثالثة من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس ندمج جميع الكفايات اللغوية والنحوية في مشهد عائلي دافئ يصف اجتماع الأسرة في بيت الجد الريفي:\n\nعناصر النص الحواري والسردي الشامل:\n1.【معجم القرابة والنسب الكامل】: الأجداد، الوالدان، الأبناء، الأعمام، الأخوال وأبناؤهم.\n2.【التراكيب الإضافية المتنوعة】: «بَيْتُ الجَدِّ»، «حَدِيقَةُ المَنْزِلِ»، «غُرْفَةُ الجُلُوسِ»، «طَعَامُ العَشَاءِ».\n3.【ضمائر الملكية المتصلة】: «أُسْرَتُنَا»، «أَبِي»، «أُمِّي»، «عَمِّي»، «أَبْنَاؤُهُمْ»، «نَصَائِحُهُمْ».\n4.【أسماء الإشارة للقريب والبعيد والبدل】: «هٰذَا البَيْتُ»، «هٰذِهِ العَائِلَةُ»، «ذٰلِكَ الرَّجُلُ»، «تِلْكَ الحَدِيقَةُ»، «هٰؤُلَاءِ الأَطْفَالُ»، «أُولٰئِكَ الأَقَارِبُ».\n5.【القيم والترابط الإنساني】: التعبير عن الدفء والمحبة وصلة الأرحام بأرقى الأساليب العربية الفصيحة.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)» بأسلوب أكاديمي دقيق (3.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الأسرة والنسب والتركيب الإضافي (Family & Idafa)' to students in an accurate academic style."
+          "target": "فِي كُلِّ يَوْمِ جُمُعَةٍ، تَجْتَمِعُ أُسْرَتُنَا الكَبِيرَةُ فِي بَيْتِ جَدِّي لِتَنَاوُلِ طَعَامِ الغَدَاءِ.(Fī kulli yawmi jumuʿah, tajtamiʿu usratunā al-kabīratu fī bayti jaddī li-tanāwuli ṭaʿāmi al-ghadāʾ.)",
+          "reading": "[fiː kul.li jaw.mi ʒu.mu.ʕah, taʒ.ta.mi.ʕu ʔus.ra.tu.naː‿l.ka.biː.ra.tu fiː baj.ti ʒad.diː li.ta.naː.wu.li tˤa.ʕaː.mi‿l.ɣa.daːʔ] (Fī kul-li yaw-mi ju-mu-ʿah, taj-ta-mi-ʿu us-ra-tu-nā al-ka-bī-ra-tu fī bay-ti jad-dī li-ta-nā-wu-li ṭa-ʿā-mi al-gha-dāʾ.)",
+          "translation": "Every Friday, our big family gathers at my grandfather's house to have lunch."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (3.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "هٰذَا وَالِدِي يَتَحَدَّثُ مَعَ عَمِّي حَوْلَ أَخْبَارِ العَمَلِ، وَتِلْكَ وَالِدَتِي تُسَاعِدُ جَدَّتِي فِي صُنْعِ الحَلْوَى.(Hādhā wālidī yataḥaddathu maʿa ʿammī ḥawla akhbāri al-ʿamal, wa-tilka wālidatī tusāʿidu jaddatī fī ṣunʿi al-ḥalwā.)",
+          "reading": "[haː.ðaː waː.li.diː ja.ta.ħad.da.θu ma.ʕa ʕam.miː ħaw.la ʔax.baː.ri‿l.ʕa.mal, wa.til.ka waː.li.da.tiː tu.saː.ʕi.du ʒad.da.tiː fiː sˤun.ʕi‿l.ħal.waː] (Hā-dhā wā-li-dī ya-ta-ḥad-da-thu ma-ʿa ʿam-mī ḥaw-la akh-bā-ri al-ʿa-mal, wa-til-ka wā-li-da-tī tu-sā-ʿi-du jad-da-tī fī ṣun-ʿi al-ḥal-wā.)",
+          "translation": "This is my father talking with my uncle about work news, and that is my mother helping my grandmother make sweets."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (3.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "هٰؤُلَاءِ أَبْنَاءُ عَمِّي يَلْعَبُونَ فِي حَدِيقَةِ المَنْزِلِ، وَأُولٰئِكَ بَنَاتُ خَالِي يَقْرَأْنَ القِصَصَ المُمْتِعَةَ.(Hāʾulāʾi abnāʾu ʿammī yalʿabūna fī ḥadīqati al-manzil, wa-ulāʾika banātu khālī yaqraʾna al-qiṣaṣa al-mumtiʿah.)",
+          "reading": "[haː.ʔu.laː.ʔi ʔab.naː.ʔu ʕam.miː jal.ʕa.buː.na fiː ħa.diː.qa.ti‿l.man.zil, wa.ʔuː.laː.ʔi.ka ba.naː.tu xaː.liː jaq.raʔ.na‿l.qi.sˤa.sˤa‿l.mum.ti.ʕah] (Hā-ʾu-lā-ʾi ab-nā-ʾu ʿam-mī yal-ʿa-bū-na fī ḥa-dī-qa-ti al-man-zil, wa-u-lā-ʾi-ka ba-nā-tu khā-lī yaq-raʾ-na al-qi-ṣa-ṣa al-mum-ti-ʿah.)",
+          "translation": "These cousins are playing in the house garden, and those daughters of my maternal uncle are reading enjoyable stories."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (3.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "مَا أَجْمَلَ هٰذَا الِاجْتِمَاعَ الأُسَرِيَّ المُبَارَكَ! إِنَّ بَيْتَ الجَدِّ مَمْلُوءٌ بِالمَحَبَّةِ وَالأَمَانِ وَالسَّعَادَةِ.(Mā ajmala hādhā al-ijtimāʿa al-usariyya al-mubārak! Inna bayta al-jaddi mamlūʾun bi-l-maḥabbati wa-al-amāni wa-as-saʿādah.)",
+          "reading": "[maː ʔaʒ.ma.la haː.ðaː‿l.ʔiʒ.ti.maː.ʕa‿l.ʔu.sa.rij.ja‿l.mu.baː.rak! ʔin.na baj.ta‿l.ʒad.di mam.luː.ʔun bil.ma.ħab.ba.ti wal.ʔa.maː.ni was.sa.ʕaː.dah] (Mā aj-ma-la hā-dhā al-ij-ti-mā-ʿa al-u-sa-riy-ya al-mu-bā-rak! In-na bay-ta al-jad-di mam-lū-ʾun bi-l-ma-ḥab-ba-ti wa-al-a-mā-ni wa-as-sa-ʿā-dah.)",
+          "translation": "How wonderful is this blessed family gathering! Truly the grandfather's house is filled with love, safety, and happiness."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "بَيْتُ الجَدِّ يَجْمَعُنَا بِمَحَبَّةٍ وَإِخَاءْ: إِضَافَةٌ وَإِشَارَةٌ وَضَمَائِرُ الوَفَاءْ، تُنِيرُ دَرْبَ الأُسْرَةِ بِأَعْذَبِ اللِّقَاءْ!"
+      ],
+      "culturalNotes": [
+        "الاجتماع العائلي الأسبوعي في «بيت الجد» يُعد من أرسخ التقاليد الاجتماعية في العالم العربي، حيث يتعلم الصغار الحكمة والأدب من الأجداد وتتجدد أواصر الرحمة والتكافل."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)» (الدرس 5)؟",
+          "prompt": "في حوار السهرة العائلية، ما هي العبارة التي تجمع بين التركيب الإضافي واسم الإشارة والضمير المتصل بدقة نحوية؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)» بأسلوب أكاديمي دقيق (3.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (3.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (3.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (3.5.w3)"
+            "هٰذَا بَيْتُ جَدِّي الكَبِيرُ، فِيهِ غُرْفَةُ جُلُوسِنَا وَحَدِيقَةُ أَشْجَارِنَا. (This is my grandfather's big house; in it is our living room and our trees' garden.)",
+            "هذا البيت جدي كبير في غرفة جلوسنا بدون اضافة",
+            "بيتنا هو جدي نحن انتم في الشارع",
+            "لا توجد اسرة ولا بيت في هذا اليوم"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "العبارة تجمع اسم الإشارة والبدل «هٰذَا بَيْتُ»، والإضافة «بَيْتُ جَدِّي»، والضمير المتصل «جُلُوسِنَا» و«أَشْجَارِنَا» بضبط تام."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو اللفظ الذي يُطلق على أبناء وبنات الأعمام والأخوال في الخطاب العربي الفصيح؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "أَبْنَاءُ العُمُومَةِ وَالخُؤُولَةِ (Cousins - paternal and maternal)",
+            "الأجداد البعيدون",
+            "الوالدان فقط",
+            "الأصهار الغرباء"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "العمومة هم أقارب الأب والخؤولة هم أقارب الأم وأولادهم هم أبناء العمومة والخؤولة."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u3-l5):",
+          "prompt": "اختر الفقرة التي تعبر عن البر بالوالدين وتوقير الأجداد بأسلوب لغوي رفيع:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (3.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (3.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (3.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (3.5.x3)"
+            "نَحْرِصُ دَائِمًا عَلَى بِرِّ وَالِدَيْنَا وَتَوْقِيرِ جَدِّنَا، وَنَسْتَمِعُ إِلَى نَصَائِحِهِمَا بِكُلِّ احْتِرَامٍ وَتَقْدِيرٍ. (We always ensure honoring our parents and revering our grandfather, listening to their advice with full respect.)",
+            "لا نحترم الوالدين ونترك الجد وحيدا",
+            "الاسرة بدون والدين ولا اجداد في البيت",
+            "نصائح الوالدين غير مفيدة ونحن نلعب فقط"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة تجسد القيم الأخلاقية واللغوية السامية في توقير الوالدين والأجداد."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الأسرة والنسب والتركيب الإضافي (Family & Idafa)»؟",
+          "prompt": "كيف يُشار إلى بيوت العائلة في مسافة بعيدة باستخدام اسم الإشارة المناسب لجمع غير العاقل؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (3.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (3.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (3.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (3.5.y3)"
+            "تِلْكَ البُيُوتُ القَدِيمَةُ (Tilka al-buyūt)",
+            "أولئك البيوت القديمة",
+            "ذلك البيوت القديم",
+            "هؤلاء البيوت الكبيرة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "جمع غير العاقل البعيد يُشار إليه باسم الإشارة المفرد المؤنث «تِلْكَ»."
         }
       ]
     },
@@ -2176,24 +2199,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 3-5)؟",
+          "prompt": "اختر النص الشامل الذي يمثل الإتقان التام لجميع مخرجات الوحدة الثالثة (الأسرة، الإضافة، الضمائر المتصلة، أسماء الإشارة للقريب والبعيد):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (3.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (3.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (3.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (3.5.z3)"
+            "فِي مَسَاءِ يَوْمِ الجُمُعَةِ، اجْتَمَعَتْ عَائِلَتُنَا فِي بَيْتِ جَدِّي الكَرِيمِ: هٰذَا وَالِدِي يَتَحَدَّثُ مَعَ عَمِّي، وَتِلْكَ وَالِدَتِي تُعِدُّ طَعَامَ العَشَاءِ مَعَ خَالَتِي، وَهٰؤُلَاءِ أَبْنَاءُ عَمِّي يَلْعَبُونَ مَعَ إِخْوَتِي فِي الحَدِيقَةِ، وَأُولٰئِكَ الأَقَارِبُ يَسْتَمِعُونَ إِلَى نَصَائِحِ جَدِّنَا الحَكِيمِ. (On Friday evening, our family gathered at my noble grandfather's house: this is my father talking with my uncle, and that is my mother preparing dinner with my aunt, and these cousins are playing with my brothers in the garden, and those relatives are listening to our wise grandfather's advice.)",
+            "اجتمعت العائلة في بيت الجد بدون اسماء اشارة ولا ضمائر متصلة.",
+            "اسرتنا هي اب وام وجد وعم وخال حروف غير متصلة سكون.",
+            "لا يوجد لقاء عائلي ولا طعام ولا حديث في المساء."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل الذروة في دمج كافة مفردات وقواعد الوحدة الثالثة بأسلوب عربي فصيح غاية في الجمال والتماسك والإعراب السليم."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u3-l5) باللغة العربية (مثال: «الأسرة»):",
+          "prompt": "اكتب باللغة العربية الفصحى المصطلح الدال على الركن الأول في التركيب الإضافي الذي يتجرد من التنوين وأل (مثال: «المضاف»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الأسرة",
-            "الأسرة"
+            "المضاف",
+            "المُضَافُ",
+            "المضافُ"
           ],
-          "explanation": "المصطلح الصحيح هو «الأسرة»."
+          "explanation": "الركن الأول في التركيب الإضافي هو «المضاف»."
         }
       ],
       "passThreshold": 0.8
