@@ -5819,85 +5819,89 @@
     "subject": "arabic",
     "unit": 10,
     "lessonNumber": 1,
-    "title": "الصحة والرعاية الطبية والعيادة (Health & Medical Care) (الدرس 1)",
+    "title": "أعضاء الجسم والتعبير عن الألم والأعراض (Body Parts, Pain & Symptoms)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أعضاء الجسم، التعبير عن الألم والأعراض المرضية، وإرشادات الطبيب واستعمال الأدوية. (الجزء 1).",
+    "objective": "إتقان مفردات أعضاء جسم الإنسان (الرأس، العينان، الأذنان، الحلق، البطن، الصدر)، والتعبير الفصيح عن الألم والأعراض المرضية كالصداع والحمى والزكام.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يُعد التعبير عن الحالة الصحية وأعضاء الجسم من أهم الاحتياجات التواصلية في الحياة اليومية:\n\nأولاً: أعضاء الجسم البشري (Human Body Parts):\n1.【الرَّأْسُ وَالوَجْهُ】: رَأْسٌ (Head) | وَجْهٌ (Face) | عَيْنٌ / عَيْنَانِ (Eye/Eyes) | أُذُنٌ / أُذُنَانِ (Ear/Ears) | أَنْفٌ (Nose) | فَمٌ (Mouth) | سِنٌّ / أَسْنَانٌ (Tooth/Teeth) | لِسَانٌ (Tongue) | حَلْقٌ (Throat).\n2.【الجِذْعُ وَالأَطْرَافُ】: صَدْرٌ (Chest) | قَلْبٌ (Heart) | بَطْنٌ / مَعِدَةٌ (Belly/Stomach) | ظَهْرٌ (Back) | يَدٌ / يَدَانِ (Hand/Hands) | رِجْلٌ / قَدَمٌ (Leg/Foot).\n\nثانياً: قاعدة تأنيث الأعضاء المزدوجة (Paired Body Parts are Feminine):\n- الأعضاء المزدوجة في جسم الإنسان مؤنثة مجازًا:\n  - «عَيْنِي اليُمْنَى (My right eye - مؤنث)» | «أُذُنٌ حَادَّةٌ (Sharp ear)» | «يَدٌ نَظِيفَةٌ» | «قَدَمٌ يُسْرَى».\n\nثالثاً: التعبير عن الألم والأعراض (Expressing Pain & Symptoms):\n- «أَشْعُرُ بِأَلَمٍ فِي...» (I feel pain in...) -> «أَشْعُرُ بِأَلَمٍ فِي ظَهْرِي».\n- «يُؤْلِمُنِي / تُؤْلِمُنِي...» -> «يُؤْلِمُنِي رَأْسِي» | «تُؤْلِمُنِي أَسْنَانِي».\n- الأعراض: صُدَاعٌ (Headache) | زُكَامٌ (Cold/Flu) | سُعَالٌ (Cough) | حُمَّى (Fever) | مَغْصٌ (Stomach cramps) | دُوَارٌ (Dizziness).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)» بأسلوب أكاديمي دقيق (10.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الصحة والرعاية الطبية والعيادة (Health & Medical Care)' to students in an accurate academic style."
+          "target": "أَشْعُرُ بِصُدَاعٍ شَدِيدٍ فِي رَأْسِي وَأَلَمٍ فِي حَلْقِي مُنْذُ صَبَاحِ اليَوْمِ.(Ashʿuru bi-ṣudāʿin shadīdin fī raʾsī wa-alamin fī ḥalqī mundhu ṣabāḥi al-yawm.)",
+          "reading": "[ʔaʃ.ʕu.ru bi.sˤu.daː.ʕin ʃa.diː.din fiː raʔ.siː wa.ʔa.la.min fiː ħal.qiː mun.ðu sˤa.baː.ħi‿l.jawm] (Ash-ʿu-ru bi-ṣu-dā-ʿin sha-dī-din fī raʾ-sī wa-a-la-min fī ḥal-qī mun-dhu ṣa-bā-ḥi al-yawm.)",
+          "translation": "I feel a severe headache in my head and pain in my throat since this morning."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (10.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تُؤْلِمُنِي عَيْنِي اليُمْنَى بِسَبَبِ الجُلُوسِ الطَّوِيلِ أَمَامَ شَاشَةِ الحَاسُوبِ.(Tu'limunī ʿaynī al-yumnā bi-sababi al-julūsi aṭ-ṭawīli amāma shāshati al-ḥāsūb.)",
+          "reading": "[tuʔ.li.mu.niː ʕaj.niː‿l.jum.naː bi.sa.ba.bi‿l.ʒu.luː.si‿tˤ.tˤa.wiː.li ʔa.maː.ma ʃaː.ʃa.ti‿l.ħaː.suːb] (Tuʾ-li-mu-nī ʿay-nī al-yum-nā bi-sa-ba-bi al-ju-lū-si aṭ-ṭa-wī-li a-mā-ma shā-sha-ti al-ḥā-sūb.)",
+          "translation": "My right eye hurts me due to sitting for a long time in front of the computer screen."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (10.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "أَعْضَاءُ الجِسْمِ المُزْدَوِجَةُ فِي الإِنْسَانِ كَالعَيْنِ وَاليَدِ وَالأُذُنِ تُعَامَلُ كَمُؤَنَّثٍ.(Aʿḍāʾu al-jismi al-muzdawijatu fī al-insāni ka-l-ʿayni wa-al-yadi wa-al-udhuni tuʿāmalu ka-mu'annath.)",
+          "reading": "[ʔaʕ.dˤaː.ʔu‿l.ʒis.mi‿l.muz.da.wi.ʒa.tu fiː‿l.ʔin.saː.ni kal.ʕaj.ni wal.ja.di wal.ʔu.ðu.ni tu.ʕaː.ma.lu ka.mu.ʔan.naθ] (Aʿ-ḍā-ʾu al-jis-mi al-muz-da-wi-ja-tu fī al-in-sā-ni ka-al-ʿay-ni wa-al-ya-di wa-al-u-dhu-ni tu-ʿā-ma-lu ka-mu-ʾan-nath.)",
+          "translation": "Paired body parts in humans such as the eye, hand, and ear are treated as feminine."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (10.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "ارْتَفَعَتْ دَرَجَةُ حَرَارَتِهِ وَأُصِيبَ بِحُمَّى وَسُعَالٍ جَافٍّ بَعْدَ تَعَرُّضِهِ لِتَيَّارِ هَوَاءٍ بَارِدٍ.(Irtafaʿat darajatu ḥarāratihi wa-uṣība bi-ḥummā wa-suʿālin jāffin baʿda taʿarruḍihi li-tayyāri hawāʾin bārid.)",
+          "reading": "[ʔir.ta.fa.ʕat da.ra.ʒa.tu ħa.raː.ra.ti.hi wa.ʔu.sˤiː.ba bi.ħum.maː wa.su.ʕaː.lin ʒaːf.fin baʕ.da ta.ʕar.ru.dˤi.hi li.taj.jaː.ri ha.waː.ʔin baː.rid] (Ir-ta-fa-ʿat da-ra-ja-tu ḥa-rā-ra-ti-hi wa-u-ṣī-ba bi-ḥum-mā wa-su-ʿā-lin jāf-fin baʿ-da ta-ʿar-ru-ḍi-hi li-tay-yā-ri ha-wā-ʾin bā-rid.)",
+          "translation": "His temperature rose and he was afflicted with fever and a dry cough after exposure to a cold draft."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "رَأْسٌ وَعَيْنٌ وَاليَدَانِ بِهَا الْتَأَمْ، أَشْعُرُ بِالأَلَمِ فَيَبْرَأُ كُلُّ سَقَمْ!"
+      ],
+      "culturalNotes": [
+        "العرب والمسلمون أسسوا علم التشريح السريري؛ فألف ابن سينا كتابه العالمي «القانون في الطب» الذي دُرّس في جامعات أوروبا لقرون عديدة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)» (الدرس 1)؟",
+          "prompt": "كيف تعبر باللغة العربية الفصحى عن ألم في الرأس؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)» بأسلوب أكاديمي دقيق (10.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (10.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (10.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (10.1.w3)"
+            "أَشْعُرُ بِصُدَاعٍ فِي رَأْسِي (I feel a headache in my head)",
+            "أشعر بزكام في قدمي",
+            "عيني تسافر غدا",
+            "ألم في الحقيبة"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«أَشْعُرُ بِصُدَاعٍ فِي رَأْسِي» هو التعبير الطبي الدقيق للصداع."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الحكم النحوي للأعضاء المزدوجة في جسم الإنسان (كالعين والأذن واليد)؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "مُؤَنَّثَةٌ مَجَازًا (Feminine by usage)",
+            "مذكرة دائما",
+            "جمع تكسير",
+            "ممنوعة من الصرف"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الأعضاء المزدوجة في الجسم تعامل معاملة المؤنث (هذه عينٌ جميلة، يدي اليمنى)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u10-l1):",
+          "prompt": "اختر الجملة التي تصف الأعراض المرضية للمريض بدقة لغوية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (10.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (10.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (10.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (10.1.x3)"
+            "المَرِيضُ يُعَانِي مِنِ ارْتِفَاعٍ فِي دَرَجَةِ الحَرَارَةِ وَسُعَالٍ مُسْتَمِرٍّ. (The patient suffers from a rise in temperature and continuous cough.)",
+            "المريض يشعر بصداع في بطنه وقدمه",
+            "المريض يسعل في المستشفى غدا امس",
+            "حرارة سعال الم راس سكون فتحة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تصف أعراض الحمى والسعال بتراكيب نحوية ومعجمية فصيحة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)»؟",
+          "prompt": "ما هو العضو البشري المسؤول عن ضخ الدم في سائر الجسم؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (10.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (10.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (10.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (10.1.y3)"
+            "القَلْبُ (The heart)",
+            "المعدة",
+            "الرأس",
+            "اللسان"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«القَلْبُ» هو العضو العضلي الحيوي النابض في الصدر."
         }
       ]
     },
@@ -5905,24 +5909,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 10-1)؟",
+          "prompt": "اختر الفقرة التي تقدم وصفًا سريريًا للأعراض والألم بلغة عربية فصيحة ومضبوطة إعرابيًا:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (10.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (10.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (10.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (10.1.z3)"
+            "اسْتَيْقَظَ زَيْدٌ صَبَاحًا وَهُوَ يَشْعُرُ بِإِرْهَاقٍ شَدِيدٍ؛ حَيْثُ كَانَتْ حَرَارَتُهُ مُرْتَفِعَةً، وَيُؤْلِمُهُ حَلْقُهُ عِنْدَ البَلْعِ، مَعَ صُدَاعٍ قَوِيٍّ لَمْ يُمَكِّنْهُ مِنَ التَّرْكِيزِ. (Zayd woke up in the morning feeling severe exhaustion; where his temperature was high, and his throat hurt him when swallowing, with a strong headache that did not enable him to concentrate.)",
+            "استيقظ زيد بالافعال المستقبلية بدون الم ولا اعراض.",
+            "صداع حمى زكام حلق راس عين سكون فتحة ضمة.",
+            "لا يشعر زيد باي تعب وهو في كامل صحته."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة تصوغ الشكوى المرضية بدقة بالغة وتوظف مفردات «إرهاق، حرارته مرتفعة، يؤلمه حلقه، صداع» بإحكام نحوي تام."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u10-l1) باللغة العربية (مثال: «الصحة»):",
+          "prompt": "اكتب باللغة العربية الفصحى المصطلح الذي يعني ألم الرأس (مثال: «صداع»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الصحة",
-            "الصحة"
+            "صداع",
+            "صُدَاعٌ",
+            "صُدَاع",
+            "الصداع"
           ],
-          "explanation": "المصطلح الصحيح هو «الصحة»."
+          "explanation": "ألم الرأس هو «صداع»."
         }
       ],
       "passThreshold": 0.8
@@ -5933,85 +5939,89 @@
     "subject": "arabic",
     "unit": 10,
     "lessonNumber": 2,
-    "title": "الصحة والرعاية الطبية والعيادة (Health & Medical Care) (الدرس 2)",
+    "title": "في عيادة الطبيب والمستشفى والفحص السريري (Doctor's Clinic & Medical Consultation)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أعضاء الجسم، التعبير عن الألم والأعراض المرضية، وإرشادات الطبيب واستعمال الأدوية. (الجزء 2).",
+    "objective": "إتقان مفردات العيادة والمستشفى (طبيب، ممرض، طوارئ، فحص، ضغط الدم)، والحوار السريري مع الطبيب وشرح تاريخ المرض.",
     "presentation": {
-      "explanation": "",
+      "explanation": "الاستشارة الطبية تتطلب استخدام مصطلحات دقيقة للتواصل الفعال بين المريض والطبيب:\n\nأولاً: الكوادر والمرافق الطبية (Medical Staff & Facilities):\n1.【طَبِيبٌ / طَبِيبَةٌ (Doctor)】 | 【مُمَرِّضٌ / مُمَرِّضَةٌ (Nurse)】.\n2.【عِيَادَةٌ (Clinic)】 | 【مُسْتَشْفَى / مُسْتَشْفَيَاتٌ (Hospital / Hospitals)】.\n3.【قِسْمُ الطَّوَارِئِ (Emergency Department)】: يستقبل الحالات العاجلة.\n4.【مَوْعِدٌ طِبِّيٌّ (Medical Appointment)】: «حَجَزْتُ مَوْعِدًا لَدَى الطَّبِيبِ».\n\nثانياً: أسئلة الفحص السريري (Clinical Examination):\n- «مِمَّ تَشْكُو؟» (What are you complaining of / suffering from?)\n- «مَاذَا تُحِسُّ يَا سَيِّدِي؟» (What do you feel, sir?)\n- «مُنْذُ مَتَى وَأَنْتَ تُعَانِي مِنْ هٰذَا؟» (Since when have you been suffering from this?)\n\nثالثاً: الفحوصات والتحاليل:\n- «قِيَاسُ ضَغْطِ الدَّمِ (Measuring blood pressure)».\n- «قِيَاسُ دَرَجَةِ الحَرَارَةِ (Measuring temperature)».\n- «تَحْلِيلُ دَمٍ (Blood test)» | «أَشِعَّةُ سِينِيَّةٌ (X-ray)» | «فَحْصٌ شَامِلٌ (Complete checkup)».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)» بأسلوب أكاديمي دقيق (10.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الصحة والرعاية الطبية والعيادة (Health & Medical Care)' to students in an accurate academic style."
+          "target": "ذَهَبْتُ إِلَى العِيَادَةِ الطِّبِّيَّةِ وَقَابَلْتُ الطَّبِيبَ الَّذِي قَاسَ لِي ضَغْطَ الدَّمِ وَالحَرَارَةَ.(Dhahabtu ilā al-ʿiyādati aṭ-ṭibbiyyati wa-qābaltu aṭ-ṭabība alladhī qāsa lī ḍaghṭa ad-dami wa-al-ḥarārah.)",
+          "reading": "[ða.hab.tu ʔi.laː‿l.ʕi.jaː.da.ti‿tˤ.tˤib.bij.ja.ti wa.qaː.bal.tu‿tˤ.tˤa.biː.ba‿l.la.ðiː qaː.sa liː dˤaɣ.tˤa‿d.da.mi wal.ħa.raː.rah] (Dha-hab-tu i-lā al-ʿi-yā-da-ti aṭ-ṭib-biy-ya-ti wa-qā-bal-tu aṭ-ṭa-bī-ba al-la-dhī qā-sa lī ḍagh-ṭa ad-da-mi wa-al-ḥa-rā-rah.)",
+          "translation": "I went to the medical clinic and met the doctor who measured my blood pressure and temperature."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (10.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "سَأَلَنِي الطَّبِيبُ: «مِمَّ تَشْكُو؟» فَأَجَبْتُهُ: «أُعَانِي مِنْ أَلَمٍ شَدِيدٍ فِي المَعِدَةِ وَغَثَيَانٍ».(Sa'alanī aṭ-ṭabību: 'Mimmā tashkū?' fa-ajabtuhu: 'Uʿānī min alamin shadīdin fī al-maʿidati wa-ghathayān.')",
+          "reading": "[sa.ʔa.la.niː‿tˤ.tˤa.biː.bu: «mim.maː taʃ.kuː?» fa.ʔa.ʒab.tu.hu: «ʔu.ʕaː.niː min ʔa.la.min ʃa.diː.din fiː‿l.ma.ʕi.da.ti wa.ɣa.θa.jaːn»] (Sa-ʾa-la-nī aṭ-ṭa-bī-bu: 'Mim-mā tash-kū?' fa-a-jab-tu-hu: 'U-ʿā-nī min a-la-min sha-dī-din fī al-ma-ʿi-da-ti wa-gha-tha-yān.')",
+          "translation": "The doctor asked me: 'What are you suffering from?' and I replied: 'I suffer from severe pain in the stomach and nausea.'"
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (10.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "طَلَبَ مِنِّي إِجْرَاءَ تَحَالِيلَ مِخْبَرِيَّةٍ وَفَحْصٍ شَامِلٍ لِلتَّأَكُّدِ مِنْ سَلَامَتِي.(Ṭalaba minnī ijrāʾa taḥālīla mikhbariyyatin wa-faḥṣin shāmilin li-t-ta'akkudi min salāmatī.)",
+          "reading": "[tˤa.la.ba min.niː ʔiʒ.raː.ʔa ta.ħaː.liː.la mix.ba.rij.ja.tin wa.faħ.sˤin ʃaː.mi.lin lit.ta.ʔak.ku.di min sa.laː.ma.tiː] (Ṭa-la-ba min-nī ij-rā-ʾa ta-ḥā-lī-la mikh-ba-riy-ya-tin wa-faḥ-ṣin shā-mi-lin li-t-ta-ʾak-ku-di min sa-lā-ma-tī.)",
+          "translation": "He requested me to conduct laboratory analyses and a comprehensive checkup to ensure my well-being."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (10.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تَعْمَلُ أَقْسَامُ الطَّوَارِئِ فِي المُسْتَشْفَيَاتِ عَلَى مَدَارِ السَّاعَةِ لِخِدْمَةِ المَرْضَى.(Taʿmalu aqsāmu aṭ-ṭawāriʾi fī al-mustashfayāti ʿalā madāri as-sāʿati li-khidmati al-marḍā.)",
+          "reading": "[taʕ.ma.lu ʔaq.saː.mu‿tˤ.tˤa.waː.ri.ʔi fiː‿l.mus.taʃ.fa.jaː.ti ʕa.laː ma.daː.ri‿s.saː.ʕa.ti li.xid.ma.ti‿l.mar.dˤaː] (Taʿ-ma-lu aq-sā-mu aṭ-ṭa-wā-ri-ʾi fī al-mus-tash-fa-yā-ti ʿa-lā ma-dā-ri as-sā-ʿa-ti li-khid-ma-ti al-mar-ḍā.)",
+          "translation": "Emergency departments in hospitals operate around the clock to serve patients."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "عِيَادَةٌ وَطَبِيبٌ يَفْحَصُ الأَبْدَانْ، فَيَزُولُ الخَوْفُ وَيَسْتَقِرُّ الأَمَانْ!"
+      ],
+      "culturalNotes": [
+        "«البيمارستان» كانت المستشفيات الرائدة في العصر الإسلامي تقدم الرعاية الطبية مجانًا لجميع الناس وتشتمل على قاعات للمرضى ومكتبات وصيدليات متقدمة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)» (الدرس 2)؟",
+          "prompt": "ما هو السؤال التقليدي الذي يطرحه الطبيب لمعرفة شكوى المريض؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)» بأسلوب أكاديمي دقيق (10.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (10.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (10.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (10.2.w3)"
+            "مِمَّ تَشْكُو؟ (What are you suffering from?)",
+            "أين تسافر غدا؟",
+            "بكم هذا القميص؟",
+            "ما هي عاصمتك المفضلة؟"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«مِمَّ تَشْكُو؟» (مِنْ + مَا الاستفهامية) هو السؤال الفصيح الشائع في المعاينة الطبية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما اسم القسم المخصص للحالات الحرجة والعاجلة في المستشفيات؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "قِسْمُ الطَّوَارِئِ (Emergency Department)",
+            "قسم الأرشيف",
+            "قسم الاستقبال السياحي",
+            "المطعم"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«قِسْمُ الطَّوَارِئِ» هو القسم الطبي المهيأ لاستقبال الحالات العاجلة على مدار الساعة."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u10-l2):",
+          "prompt": "اختر الجملة التي تصف الفحص السريري الذي يجريه الطبيب للمريض:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (10.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (10.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (10.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (10.2.x3)"
+            "فَحَصَ الطَّبِيبُ صَدْرَ المَرِيضِ بِالسَّمَّاعَةِ وَقَاسَ نَبْضَ قَلْبِهِ. (The doctor examined the patient's chest with the stethoscope and measured his heartbeat.)",
+            "فحص الطبيب حقيبة المريض ليشتريها",
+            "الطبيب يسافر في المستشفى بدون فحص",
+            "سماعة ضغط فحص نبض سكون فتحة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة توظف أدوات الفحص كالسماعة وقياس النبض بصياغة دقيقة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)»؟",
+          "prompt": "ما هو جمع كلمة «مُسْتَشْفَى» في اللغة العربية الفصحى؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (10.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (10.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (10.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (10.2.y3)"
+            "مُسْتَشْفَيَاتٌ (Mustashfayāt - Sound Fem. Plural)",
+            "مستشفون",
+            "أشافٍ",
+            "مشافٍ ومستشفيات"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "تجمع مستشفى جمع مؤنث سالم على «مُسْتَشْفَيَاتٌ»."
         }
       ]
     },
@@ -6019,24 +6029,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 10-2)؟",
+          "prompt": "اختر الفقرة الحوارية التي تمثل استشارة طبية متكاملة في العيادة بدقة وإتقان إعرابي:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (10.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (10.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (10.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (10.2.z3)"
+            "دَخَلَ المَرِيضُ العِيَادَةَ، فَسَأَلَهُ الطَّبِيبُ: «كَيْفَ حَالُكَ اليَوْمَ، وَمِمَّ تَشْكُو؟» فَقَالَ: «أُعَانِي مِنْ سُعَالٍ وَأَلَمٍ فِي الصَّدْرِ مُنْذُ يَوْمَيْنِ»، فَقَامَ الطَّبِيبُ بِفَحْصِهِ وَطَلَبَ مِنْهُ إِجْرَاءَ صُورَةِ أَشِعَّةٍ لِلرِّئَتَيْنِ. (The patient entered the clinic, and the doctor asked him: 'How are you today, and what are you suffering from?' He said: 'I suffer from a cough and chest pain since two days,' so the doctor examined him and asked him to take an X-ray of the lungs.)",
+            "دخل المريض واشترى دواء بدون فحص ولا طبيب.",
+            "طبيب مريض عيادة اشعة تحليل سماعة سكون فتحة ضمة.",
+            "لا توجد عيادات ولا اطباء في المدينة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة تجسد الحوار الاستشاري السريري الكامل بدقة مصطلحاتها وفصاحة أسلوبها وإعرابها."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u10-l2) باللغة العربية (مثال: «الصحة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم المكان المخصص لاستقبال المرضى وفحصهم لدى الطبيب (مثال: «عيادة»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الصحة",
-            "الصحة"
+            "عيادة",
+            "عِيَادَةٌ",
+            "عِيَادَة",
+            "العيادة"
           ],
-          "explanation": "المصطلح الصحيح هو «الصحة»."
+          "explanation": "المكان هو «عيادة»."
         }
       ],
       "passThreshold": 0.8
@@ -6047,85 +6059,89 @@
     "subject": "arabic",
     "unit": 10,
     "lessonNumber": 3,
-    "title": "الصحة والرعاية الطبية والعيادة (Health & Medical Care) (الدرس 3)",
+    "title": "في الصيدلية والأدوية والوصفة الطبية (At the Pharmacy & Prescriptions)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أعضاء الجسم، التعبير عن الألم والأعراض المرضية، وإرشادات الطبيب واستعمال الأدوية. (الجزء 3).",
+    "objective": "إتقان مفردات الصيدلية وصرف الأدوية (صيدلي، وصفة طبية، حبوب، شراب، مرهم، مضاد حيوي)، وتحديد مواعيد وتكرار الجرعات الدوائية.",
     "presentation": {
-      "explanation": "",
+      "explanation": "شراء الدواء واستيعاب تعليمات الاستخدام من أهم المهارات اللغوية التطبيقية:\n\nأولاً: مفردات الصيدلية والوصفات:\n1.【صَيْدَلِيَّةٌ (Pharmacy)】 | 【صَيْدَلِيٌّ / صَيْدَلَانِيَّةٌ (Pharmacist)】.\n2.【وَصْفَةٌ طِبِّيَّةٌ (Prescription)】: ورقة الفحص التي يكتبها الطبيب لصرف العلاج.\n3.【دَوَاءٌ / أَدْوِيَةٌ (Medicine / Medications)】 | 【عِلَاجٌ (Treatment)】.\n\nثانياً: أشكال الأدوية الصيدلانية (Forms of Medicine):\n- 【حَبَّةٌ / حُبُوبٌ (Pills)】 | 【قُرْصٌ / أَقْرَاصٌ (Tablets)】.\n- 【شَرَابٌ (Syrup / Liquid medicine)】: لعلاج السعال والالتهاب.\n- 【مَرْهَمٌ (Ointment / Cream)】 | 【قَطْرَةٌ (Drops)】: للعين أو الأذن.\n- 【مُسَكِّنُ آلَامٍ (Painkiller)】 | 【مُضَادٌّ حَيَوِيٌّ (Antibiotic)】.\n\nثالثاً: مواعيد الجرعات والتكرار:\n- «حَبَّةً وَاحِدَةً كُلَّ ثَمَانِي سَاعَاتٍ» (One pill every 8 hours).\n- «مَرَّتَيْنِ يَوْمِيًّا بَعْدَ الطَّعَامِ» (Twice daily after meals).\n- «قَبْلَ النَّوْمِ (Before sleep)» | «عِنْدَ اللُّزُومِ / الضَّرُورَةِ (As needed)».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)» بأسلوب أكاديمي دقيق (10.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الصحة والرعاية الطبية والعيادة (Health & Medical Care)' to students in an accurate academic style."
+          "target": "قَدَّمْتُ الوَصْفَةَ الطِّبِّيَّةَ لِلصَّيْدَلِيِّ، فَصَرَفَ لِي الأَدْوِيَةَ وَشَرَحَ لِي طَرِيقَةَ الِاسْتِعْمَالِ.(Qaddamtu al-waṣfata aṭ-ṭibbiyyata li-ṣ-ṣaydalī, fa-ṣarafa lī al-adwiyata wa-sharaḥa lī ṭarīqata al-istiʿmāl.)",
+          "reading": "[qad.dam.tu‿l.wasˤ.fa.ta‿tˤ.tˤib.bij.ja.ta lisˤ.sˤaj.da.liː, fa.sˤa.ra.fa liː‿l.ʔad.wi.ja.ta wa.ʃa.ra.ħa liː tˤa.riː.qa.ta‿l.ʔis.tiʕ.maːl] (Qad-dam-tu al-waṣ-fa-ta aṭ-ṭib-biy-ya-ta li-ṣ-ṣay-da-lī, fa-ṣa-ra-fa lī al-ad-wi-ya-ta wa-sha-ra-ḥa lī ṭa-rī-qa-ta al-is-tiʿ-māl.)",
+          "translation": "I presented the medical prescription to the pharmacist, so he dispensed the medicines to me and explained the method of use."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (10.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تَنَاوَلْ هٰذَا القُرْصَ مَرَّتَيْنِ يَوْمِيًّا بَعْدَ الطَّعَامِ مَعَ كُوبٍ مِنَ المَاءِ النَّقِيِّ.(Tanāwal hādhā al-qurṣa marratayni yawmiyyan baʿda aṭ-ṭaʿāmi maʿa kūbin min al-māʾi an-naqiyy.)",
+          "reading": "[ta.naː.wal haː.ðaː‿l.qur.sˤa mar.ra.taj.ni jaw.mij.jan baʕ.da‿tˤ.tˤa.ʕaː.mi ma.ʕa kuː.bin mi.na‿l.maː.ʔi‿n.na.qijj] (Ta-nā-wal hā-dhā al-qur-ṣa mar-ra-tay-ni yaw-miy-yan baʿ-da aṭ-ṭa-ʿā-mi ma-ʿa kū-bin mi-na al-mā-ʾi an-na-qiyy.)",
+          "translation": "Take this tablet twice daily after meals with a glass of pure water."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (10.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "هٰذَا الشَّرَابُ يُهَدِّئُ السُّعَالَ، وَالمَرْهَمُ يُخَفِّفُ الحَكَّةَ وَالِالتِهَابَ بِسُرْعَةٍ.(Hādhā ash-sharābu yuhaddiʾu as-suʿāl, wa-al-marhamu yukhaffifu al-ḥakkata wa-al-iltihāba bi-surʿah.)",
+          "reading": "[haː.ðaː‿ʃ.ʃa.raː.bu ju.had.di.ʔu‿s.su.ʕaːl, wal.mar.ha.mu ju.xaf.fi.fu‿l.ħak.ka.ta wal.ʔil.ti.haː.ba bi.sur.ʕah] (Hā-dhā ash-sha-rā-bu yu-had-di-ʾu as-su-ʿāl, wa-al-mar-ha-mu yu-khaf-fi-fu al-ḥak-ka-ta wa-al-il-ti-hā-ba bi-sur-ʿah.)",
+          "translation": "This syrup calms the cough, and the ointment relieves itching and inflammation quickly."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (10.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "نَلْتَزِمُ بِتَعْلِيمَاتِ الصَّيْدَلِيِّ وَمَوَاعِيدِ الجُرُعَاتِ لِضَمَانِ الشِّفَاءِ التَّامِّ بِإِذْنِ اللهِ.(Naltazimu bi-taʿlīmāti aṣ-ṣaydalī wa-mawāʿīdi al-juruʿāti li-ḍamāni ash-shifāʾi at-tāmmi bi-idhni Allāh.)",
+          "reading": "[nal.ta.zi.mu bi.taʕ.liː.maː.ti‿sˤ.sˤaj.da.liː wa.ma.waː.ʕiː.di‿l.ʒu.ru.ʕaː.ti li.dˤa.maː.ni‿ʃ.ʃi.faː.ʔi‿t.taːm.mi bi.ʔið.ni‿l.laːh] (Nal-ta-zi-mu bi-taʿ-lī-mā-ti aṣ-ṣay-da-lī wa-ma-wā-ʿī-di al-ju-ru-ʿā-ti li-ḍa-mā-ni ash-shi-fā-ʾi at-tām-mi bi-idh-ni Allāh.)",
+          "translation": "We adhere to the pharmacist's instructions and dosage schedules to ensure complete recovery, God willing."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "وَصْفَةٌ لِلصَّيْدَلِيِّ وَدَوَاءٌ يُعْطَى بِانْتِظَامْ، حَبَّةٌ بَعْدَ الطَّعَامِ لِتَبْرَأَ مِنَ السِّقَامْ!"
+      ],
+      "culturalNotes": [
+        "العرب هم أول من أسس علم الصيدلة (علم الأقرباذين) كعلم قائم بذاته، وافتتحوا الصيدليات العامة لتركيب الأدوية وبيعها تحت رقابة المحتسب."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)» (الدرس 3)؟",
+          "prompt": "ما هي الوثيقة المكتوبة التي يعطيها الطبيب للمريض ليصرف بها الدواء من الصيدلية؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)» بأسلوب أكاديمي دقيق (10.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (10.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (10.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (10.3.w3)"
+            "الوَصْفَةُ الطِّبِّيَّةُ (The medical prescription)",
+            "تذكرة السفر",
+            "فاتورة الحساب",
+            "بطاقة الهوية فقط"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«الوَصْفَةُ الطِّبِّيَّةُ» (Prescription) هي الورقة الرسمية التي يحررها الطبيب لتحديد الأدوية المناسبة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الدواء السائل الذي يُشرب غالبًا لتهدئة السعال والتهاب الحلق؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "الشَّرَابُ (Syrup / Liquid medicine)",
+            "المرهم",
+            "القطرة",
+            "الضمادة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«الشَّرَابُ» هو العقار الطبي السائل المخصص للشرب."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u10-l3):",
+          "prompt": "اختر الجملة التي تصف تعليمات تناول الدواء بدقة وتوقيت سليم:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (10.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (10.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (10.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (10.3.x3)"
+            "تَنَاوَلْ حَبَّةً وَاحِدَةً صَبَاحًا وَمَسَاءً بَعْدَ تَنَاوُلِ الطَّعَامِ. (Take one pill morning and evening after eating food.)",
+            "تناول الدواء كله في دقيقة واحدة",
+            "اشرب المرهم وضع الشراب في عينك خطأ",
+            "دواء صيدلية حبة شراب سكون فتحة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تعبر عن الجرعة المحددة بدقة: حبة واحدة صباحًا ومساءً بعد الطعام."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)»؟",
+          "prompt": "ما هو جمع تكسير كلمة «دَوَاء» في المعجم العربي؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (10.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (10.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (10.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (10.3.y3)"
+            "أَدْوِيَةٌ (Adwiyah - Broken Plural)",
+            "دواءات",
+            "أدواء",
+            "دواوين"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "جمع دواء هو «أَدْوِيَةٌ»."
         }
       ]
     },
@@ -6133,24 +6149,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 10-3)؟",
+          "prompt": "اختر الفقرة التي تصف زيارة الصيدلية واستلام الأدوية بدقة وبلاغة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (10.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (10.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (10.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (10.3.z3)"
+            "تَوَجَّهَ عُمَرُ إِلَى الصَّيْدَلِيَّةِ المُجَاوِرَةِ، وَسَلَّمَ الوَصْفَةَ لِلصَّيْدَلِيِّ الَّذِي صَرَفَ لَهُ مُضَادًّا حَيَوِيًّا وَأَقْرَاصَ مُسَكِّنٍ، وَأَوْصَاهُ بِشُرْبِ المَاءِ وَالِانْتِظَامِ فِي تَنَاوُلِ العِلَاجِ. (Omar headed to the neighboring pharmacy, and handed the prescription to the pharmacist who dispensed an antibiotic and painkiller tablets to him, and recommended drinking water and regularity in taking the treatment.)",
+            "توجه عمر الى الصيدلية واشترى كتبا واقلاما بلا دواء.",
+            "صيدلية ادوية اقراص وصفة مسكن مضاد سكون فتحة ضمة.",
+            "رفضت الصيدلية صرف اي دواء للمريض."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة توظف مصطلحات الصيدلية «الوصفة، الصيدلي، مضادًا حيويًا، أقراص مسكن، العلاج» بأسلوب عربي فصيح وناصع."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u10-l3) باللغة العربية (مثال: «الصحة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم المكان المخصص لبيع وصرف الأدوية الطبية (مثال: «صيدلية»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الصحة",
-            "الصحة"
+            "صيدلية",
+            "صَيْدَلِيَّةٌ",
+            "صَيْدَلِيَّة",
+            "الصيدلية"
           ],
-          "explanation": "المصطلح الصحيح هو «الصحة»."
+          "explanation": "المكان هو «صيدلية»."
         }
       ],
       "passThreshold": 0.8
@@ -6161,85 +6179,89 @@
     "subject": "arabic",
     "unit": 10,
     "lessonNumber": 4,
-    "title": "الصحة والرعاية الطبية والعيادة (Health & Medical Care) (الدرس 4)",
+    "title": "أفعال الأمر لإرشادات الطبيب والنصائح الصحية (Doctor's Advice & Health Imperatives)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أعضاء الجسم، التعبير عن الألم والأعراض المرضية، وإرشادات الطبيب واستعمال الأدوية. (الجزء 4).",
+    "objective": "إتقان استخدام أفعال الأمر المجردة لإسداء الإرشادات والنصائح الطبية (خُذْ، اشْرَبْ، ارْتَحْ، ابْتَعِدْ، تَنَاوَلْ)، والتعبير عن عبارات التمني والدعاء بالشفاء.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يوظف الطبيب أفعال الأمر المباشرة لإعطاء التوجيهات العلاجية الصارمة للمريض:\n\nأولاً: أفعال الأمر الشائعة في الإرشادات الطبية (Medical Imperatives):\n1.【خُذْ (Take)】: «خُذْ هٰذَا الدَّوَاءَ فِي وَقْتِهِ المُحَدَّدِ» (مبني على السكون).\n2.【اشْرَبْ (Drink)】: «اشْرَبْ كَمِّيَّاتٍ كَبِيرَةً مِنَ المَاءِ وَالسَّوَائِلِ».\n3.【ارْتَحْ (Rest)】: «ارْتَحْ فِي الفِرَاشِ لِمُدَّةِ ثَلَاثَةِ أَيَّامٍ».\n4.【تَنَاوَلْ (Consume / Take)】: «تَنَاوَلِ القُرْصَ بَعْدَ الأَكْلِ مُبَاشَرَةً».\n5.【ابْتَعِدْ (Stay away)】: «ابْتَعِدْ عَنِ التَّوَتُّرِ وَالأَطْعِمَةِ الدَّسِمَةِ».\n6.【لَا تَبْذُلْ (Do not exert)】: نهي جازم بالسكون.\n\nثانياً: عبارات الدعاء والتمني بالشفاء (Cultural Wishes & Prayers):\n- «شَفَاكَ اللهُ وَعَافَاكَ!» (May Allah heal you and grant you health!).\n- «طَهُورٌ إِنْ شَاءَ اللهُ / لَا بَأْسَ عَلَيْكَ!» (May it be purification, no harm!).\n- «أَلْفُ سَلَامَةٍ!» (A thousand good wishes for your health!).\n- «أَلْبَسَكَ اللهُ ثَوْبَ الصِّحَّةِ وَالعَافِيَةِ!»",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)» بأسلوب أكاديمي دقيق (10.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الصحة والرعاية الطبية والعيادة (Health & Medical Care)' to students in an accurate academic style."
+          "target": "خُذْ هٰذَا الدَّوَاءَ بِانْتِظَامٍ، وَارْتَحْ فِي الفِرَاشِ، وَلَا تَبْذُلْ مَجْهُودًا شَاقًّا.(Khudh hādhā ad-dawāʾa bi-ntiẓām, wa-rtaḥ fī al-firāsh, wa-lā tabdhul majhūdan shāqqā.)",
+          "reading": "[xuð haː.ðaː‿d.da.waː.ʔa bin.ti.zˤaːm, war.taħ fiː‿l.fi.raːʃ, wa.laː tab.ðul maʒ.huː.dan ʃaːq.qaː] (Khudh hā-dhā ad-da-wā-ʾa bi-in-ti-ẓām, wa-ir-taḥ fī al-fi-rāsh, wa-lā tab-dhul maj-hū-dan shāq-qā.)",
+          "translation": "Take this medicine regularly, rest in bed, and do not exert strenuous effort."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (10.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "ابْتَعِدْ عَنِ التَّدْخِينِ، وَمَارِسِ الرِّيَاضَةَ الخَفِيفَةَ، وَاشْرَبِ السَّوَائِلَ الدَّافِئَةَ يَوْمِيًّا.(Ibtaʿid ʿani at-tadkhīn, wa-mārisi ar-riyāḍata al-khafīfata, wa-shrab as-sawāʾila ad-dāfiʾata yawmiyyā.)",
+          "reading": "[ʔib.ta.ʕid ʕa.ni‿t.tad.xiːn, wa.maː.ri.si‿r.ri.jaː.dˤa.ta‿l.xa.fiː.fa.ta, waʃ.rab‿as.sa.waː.ʔi.la‿d.daː.fi.ʔa.ta jaw.mij.jaː] (Ib-ta-ʿid ʿa-ni at-tad-khīn, wa-mā-ri-si ar-ri-yā-ḍa-ta al-kha-fī-fa-ta, wa-ish-rab as-sa-wā-ʾi-la ad-dā-fi-ʾa-ta yaw-miy-yā.)",
+          "translation": "Stay away from smoking, practice light exercise, and drink warm liquids daily."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (10.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "نَسْتَخْدِمُ صِيَغَ الأَمْرِ الصَّحِيحَةِ لِتَقْدِيمِ الإِرْشَادَاتِ الطِّبِّيَّةِ وَالنَّصَائِحِ الوِقَائِيَّةِ.(Nastakhdimu ṣiyagha al-amri aṣ-ṣaḥīḥata li-taqdīmi al-irshādāti aṭ-ṭibbiyyati wa-an-naṣāʾiḥi al-wiqāʾiyyah.)",
+          "reading": "[nas.tax.di.mu sˤi.ja.ɣa‿l.ʔam.ri‿sˤ.sˤa.ħiː.ħa.ta li.taq.diː.mi‿l.ʔir.ʃaː.daː.ti‿tˤ.tˤib.bij.ja.ti wan.na.sˤaː.ʔi.ħi‿l.wi.qaː.ʔij.jah] (Nas-takh-di-mu ṣi-ya-gha al-am-ri aṣ-ṣa-ḥī-ḥa-ta li-taq-dī-mi al-ir-shā-dā-ti aṭ-ṭib-biy-ya-ti wa-an-na-ṣā-ʾi-ḥi al-wi-qā-ʾiy-yah.)",
+          "translation": "We use correct imperative forms to provide medical guidelines and preventative advice."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (10.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "قَالَ لَهُ صَدِيقُهُ بِمَوَدَّةٍ: «شَفَاكَ اللهُ يَا خَالِدُ، وَأَلْبَسَكَ ثَوْبَ الصِّحَّةِ وَالعَافِيَةِ!».(Qāla lahu ṣadīquhu bi-mawaddah: 'Shafāka Allāhu yā Khālid, wa-albasaka thawba aṣ-ṣiḥḥati wa-al-ʿāfiyah!')",
+          "reading": "[qaː.la la.hu sˤa.diː.qu.hu bi.ma.wad.dah: «ʃa.faː.ka‿l.laː.hu jaː xaː.lid, wa.ʔal.ba.sa.ka θaw.ba‿sˤ.sˤiħ.ħa.ti wal.ʕaː.fi.jah!»] (Qā-la la-hu ṣa-dī-qu-hu bi-ma-wad-dah: 'Sha-fā-ka Allā-hu yā Khā-lid, wa-al-ba-sa-ka thaw-ba aṣ-ṣiḥ-ḥa-ti wa-al-ʿā-fi-yah!')",
+          "translation": "His friend said to him affectionately: 'May Allah heal you, Khalid, and clothe you in the robe of health and well-being!'"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "خُذْ وَاشْرَبْ وَارْتَحْ نَصَائِحُ حَكِيمْ، تَقُودُ لِلشِّفَاءِ وَالعَيْشِ السَّلِيمْ!"
+      ],
+      "culturalNotes": [
+        "عيادة المريض وتمني الشفاء له بعبارات دافئة من أهم القيم الاجتماعية والإنسانية الراسخة في التقاليد العربية الأصيلة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)» (الدرس 4)؟",
+          "prompt": "ما هي صيغة الأمر الفصيحة من الفعل «أَخَذَ» لتوجيه المريض بتناول الدواء؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)» بأسلوب أكاديمي دقيق (10.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (10.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (10.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (10.4.w3)"
+            "خُذْ هٰذَا الدَّوَاءَ (Khudh - Imperative built on sukun)",
+            "ياخذ هذا الدواء",
+            "اخذت هذا الدواء",
+            "أخذ الدواء"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "صيغة الأمر من أخذ هي «خُذْ» مبني على السكون."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي العبارة الثقافية الشائعة التي تُقال للمريض تمنيًا لشفائه وسلامته؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "شَفَاكَ اللهُ وَعَافَاكَ / أَلْفُ سَلَامَةٍ (May Allah heal you / A thousand health wishes)",
+            "مبروك النجاح",
+            "عيد سعيد",
+            "رحلة سعيدة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«شَفَاكَ اللهُ وَعَافَاكَ» و«أَلْفُ سَلَامَةٍ» هي العبارات المخصصة للمريض."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u10-l4):",
+          "prompt": "اختر الجملة التي تجمع بين نصيحة الطبيب بالأمر والدعاء للمريض بالشفاء:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (10.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (10.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (10.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (10.4.x3)"
+            "ارْتَحْ فِي البَيْتِ ثَلَاثَةَ أَيَّامٍ، وَشَفَاكَ اللهُ وَعَافَاكَ يَا أَخِي. (Rest at home for three days, and may Allah heal you and grant you health.)",
+            "ارتاح في البيت وسافر الى العمل غدا",
+            "خذ الدواء امس في المستشفى",
+            "نصيحة طبيب امر راحة شفاء سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تجمع بين فعل الأمر «ارْتَحْ» والدعاء «شَفَاكَ اللهُ وَعَافَاكَ» بأسلوب راقٍ وفصيح."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)»؟",
+          "prompt": "على ماذا يُبنى فعل الأمر الصحيح الآخر عند مخاطبة المفرد المذكر مثل «اشْرَبْ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (10.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (10.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (10.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (10.4.y3)"
+            "عَلَى السُّكُونِ (Sukun)",
+            "على الفتح",
+            "على الضم",
+            "على الكسر"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "فعل الأمر الصحيح الآخر يبنى على السكون الظاهر: «اشْرَبْ»."
         }
       ]
     },
@@ -6247,24 +6269,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 10-4)؟",
+          "prompt": "اختر النص الذي يشتمل على إرشادات الطبيب الوقائية بأفعال أمر مضبوطة ودعاء بليغ بالشفاء:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (10.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (10.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (10.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (10.4.z3)"
+            "قَالَ الطَّبِيبُ لِلْمَرِيضِ: «خُذِ الدَّوَاءَ فِي أَوْقَاتِهِ، وَاشْرَبِ المَاءَ بِكَثْرَةٍ، وَارْتَحْ كَثِيرًا، وَشَفَاكَ اللهُ وَأَلْبَسَكَ ثَوْبَ العَافِيَةِ». (The doctor said to the patient: 'Take the medicine on its times, drink water abundantly, rest a lot, and may Allah heal you and clothe you in the robe of wellness.')",
+            "قال الطبيب بالماضي فقط بلا اوامر وبلا ادعية للمريض.",
+            "افعال امر خذ اشرب ارتح سكون فتحة عافية شفاء.",
+            "لم يقدم الطبيب اي نصائح للمريض وطلب منه المغادرة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع أفعال الأمر التوجيهية «خُذْ، اشْرَبْ، ارْتَحْ» مع الدعاء النبيل «شَفَاكَ اللهُ وَأَلْبَسَكَ ثَوْبَ العَافِيَةِ» بتناسق تام."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u10-l4) باللغة العربية (مثال: «الصحة»):",
+          "prompt": "اكتب باللغة العربية الفصحى فعل الأمر من (ش-ر-ب) لمخاطب مفرد مذكر (اكتب: «اشرب»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الصحة",
-            "الصحة"
+            "اشرب",
+            "اِشْرَبْ",
+            "اشْرَبْ",
+            "إشرب"
           ],
-          "explanation": "المصطلح الصحيح هو «الصحة»."
+          "explanation": "فعل الأمر هو «اشرب»."
         }
       ],
       "passThreshold": 0.8
@@ -6275,85 +6299,89 @@
     "subject": "arabic",
     "unit": 10,
     "lessonNumber": 5,
-    "title": "الصحة والرعاية الطبية والعيادة (Health & Medical Care) (الدرس 5)",
+    "title": "حوار الزيارة الطبية والتشخيص واستلام الدواء (Comprehensive Medical Visit Dialogue)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أعضاء الجسم، التعبير عن الألم والأعراض المرضية، وإرشادات الطبيب واستعمال الأدوية. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة العاشرة: تسمية أعضاء الجسم، وصف الأعراض والألم، الفحص السريري مع الطبيب، صرف الدواء من الصيدلية، وأفعال الأمر الطبية في حوار متكامل.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس الختامي التتويجي للوحدة العاشرة من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس ندمج جميع المكتسبات الطبية والصحية والصرفية في حوار تطبيقي شيق يمر فيه المريض (سليم) برحلة الشفاء الكاملة: من المعاينة في العيادة، إلى الفحص السريري مع الطبيب، ثم صرف العلاج وشرح الجرعات في الصيدلية، وصولاً إلى دعاء الشفاء:\n\nمحاور النص الحواري الشامل:\n1.【وصف الأعراض وأعضاء الجسم】: «أَشْعُرُ بِحُمَّى وَصُدَاعٍ فِي رَأْسِي وَأَلَمٍ فِي حَلْقِي».\n2.【الحوار السريري وفحص الطبيب】: «مِمَّ تَشْكُو؟»، قياس الحرارة والضغط، وفحص الصدر بالسماعة.\n3.【كتابة الوصفة الطبية】: تشخيص التهاب الحلق وكتابة الوصفة للأدوية المناسبة.\n4.【صرف الأدوية من الصيدلية وتحديد الجرعات】: «حُبُوبٌ وَشَرَابٌ لِلسُّعَالِ»، «مَرَّتَيْنِ بَعْدَ الأَكْلِ».\n5.【أفعال الأمر والدعاء بالشفاء】: «ارْتَحْ فِي الفِرَاشِ»، «شَفَاكَ اللهُ وَأَلْفُ سَلَامَةٍ»!",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)» بأسلوب أكاديمي دقيق (10.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الصحة والرعاية الطبية والعيادة (Health & Medical Care)' to students in an accurate academic style."
+          "target": "دَخَلَ سَلِيمٌ عِيَادَةَ الطَّبِيبِ وَقَالَ: «أَشْعُرُ بِحُمَّى وَصُدَاعٍ فِي رَأْسِي وَأَلَمٍ حَادٍّ فِي حَلْقِي».(Dakhala Salīmun ʿiyādata aṭ-ṭabībi wa-qāl: 'Ashʿuru bi-ḥummā wa-ṣudāʿin fī raʾsī wa-alamin ḥāddin fī ḥalqī'.)",
+          "reading": "[da.xa.la sa.liː.mun ʕi.jaː.da.ta‿tˤ.tˤa.biː.bi wa.qaːl: «ʔaʃ.ʕu.ru bi.ħum.maː wa.sˤu.daː.ʕin fiː raʔ.siː wa.ʔa.la.min ħaːd.din fiː ħal.qiː»] (Da-kha-la Sa-lī-mun ʿi-yā-da-ta aṭ-ṭa-bī-bi wa-qāl: 'Ash-ʿu-ru bi-ḥum-mā wa-ṣu-dā-ʿin fī raʾ-sī wa-a-la-min ḥād-din fī ḥal-qī.')",
+          "translation": "Salim entered the doctor's clinic and said: 'I feel a fever, a headache in my head, and sharp pain in my throat.'"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (10.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "فَحَصَهُ الطَّبِيبُ بِالسَّمَّاعَةِ وَقَالَ: «لَدَيْكَ الْتِهَابٌ فِي الحَلْقِ، سَأَكْتُبُ لَكَ هٰذِهِ الوَصْفَةَ الطِّبِّيَّةَ».(Faḥaṣahu aṭ-ṭabību bi-s-sammāʿati wa-qāl: 'Ladayka iltihābun fī al-ḥalq, sa-aktubu laka hādhihi al-waṣfata aṭ-ṭibbiyyah'.)",
+          "reading": "[fa.ħa.sˤa.hu‿tˤ.tˤa.biː.bu bis.sam.maː.ʕa.ti wa.qaːl: «la.daj.ka‿il.ti.haː.bun fiː‿l.ħalq, sa.ʔak.tu.bu la.ka haː.ði.hi‿l.wasˤ.fa.ta‿tˤ.tˤib.bij.jah»] (Fa-ḥa-ṣa-hu aṭ-ṭa-bī-bu bi-as-sam-mā-ʿa-ti wa-qāl: 'La-day-ka il-ti-hā-bun fī al-ḥalq, sa-ak-tu-bu la-ka hā-dhi-hi al-waṣ-fa-ta aṭ-ṭib-biy-yah.')",
+          "translation": "The doctor examined him with the stethoscope and said: 'You have inflammation in the throat, I will write you this medical prescription.'"
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (10.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "ذَهَبَ إِلَى الصَّيْدَلِيَّةِ فَأَعْطَاهُ الصَّيْدَلِيُّ حُبُوبًا وَشَرَابًا لِلسُّعَالِ وَقَالَ: «تَنَاوَلِ الدَّوَاءَ بَعْدَ الأَكْلِ».(Dhahaba ilā aṣ-ṣaydaliyyati fa-aʿṭāhu aṣ-ṣaydalī ḥubūban wa-sharāban li-s-suʿāli wa-qāl: 'Tanāwali ad-dawāʾa baʿda al-akl'.)",
+          "reading": "[ða.ha.ba ʔi.laː‿sˤ.sˤaj.da.lij.ja.ti fa.ʔaʕ.tˤaː.hu‿sˤ.sˤaj.da.liː ħu.buː.ban wa.ʃa.raː.ban lis.su.ʕaː.li wa.qaːl: «ta.naː.wa.li‿d.da.waː.ʔa baʕ.da‿l.ʔakl»] (Dha-ha-ba i-lā aṣ-ṣay-da-liy-ya-ti fa-aʿ-ṭā-hu aṣ-ṣay-da-lī ḥu-bū-ban wa-sha-rā-ban li-s-su-ʿā-li wa-qāl: 'Ta-nā-wa-li ad-da-wā-ʾa baʿ-da al-akl.')",
+          "translation": "He went to the pharmacy and the pharmacist gave him pills and cough syrup and said: 'Take the medicine after meals.'"
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (10.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "وَدَّعَهُ الصَّيْدَلِيُّ قَائِلًا: «شَفَاكَ اللهُ يَا أَخِي، أَلْفُ سَلَامَةٍ وَلَا بَأْسَ عَلَيْكَ إِنْ شَاءَ اللهُ».(Waddaʿahu aṣ-ṣaydalī qāʾilā: 'Shafāka Allāhu yā akhī, alfu salāmatin wa-lā baʾsa ʿalayka in shāʾa Allāh'.)",
+          "reading": "[wad.da.ʕa.hu‿sˤ.sˤaj.da.liː qaː.ʔi.laː: «ʃa.faː.ka‿l.laː.hu jaː ʔa.xiː, ʔal.fu sa.laː.ma.tin wa.laː baʔ.sa ʕa.laj.ka ʔin ʃaː.ʔa‿l.laːh»] (Wad-da-ʿa-hu aṣ-ṣay-da-lī qā-ʾi-lā: 'Sha-fā-ka Allā-hu yā a-khī, al-fu sa-lā-ma-tin wa-lā baʾ-sa ʿa-lay-ka in shā-ʾa Allāh.')",
+          "translation": "The pharmacist bade him farewell saying: 'May Allah heal you, my brother, a thousand health wishes and no harm upon you, God willing.'"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "شَخَّصَ الطَّبِيبُ وَصَرَفَ الصَّيْدَلِيُّ الشِّفَاءْ، وَدَعَوْنَا لِلْمَرِيضِ بِالعَافِيَةِ وَالبَقَاءْ!"
+      ],
+      "culturalNotes": [
+        "المنظومات الطبية الحديثة في البلدان العربية (كالمدن الطبية والمستشفيات التخصصية) تعد من الأحدث عالميًا، وتجمع بين الرقي العلمي والواجب الإنساني النبيل."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)» (الدرس 5)؟",
+          "prompt": "في الحوار الشامل، ما هو التشخيص الذي وضعه الطبيب بعد فحص سليم؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)» بأسلوب أكاديمي دقيق (10.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (10.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (10.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (10.5.w3)"
+            "الْتِهَابٌ فِي الحَلْقِ (Inflammation in the throat)",
+            "كسر في الساق",
+            "ألم في الأسنان فقط",
+            "صحة تامة بلا مرض"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "شخص الطبيب حالة سليم بوجود التهاب في الحلق وكتب له الوصفة الطبية المناسبة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي تعليمات الصيدلي لسليم بشأن موعد تناول الدواء؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "تَنَاوَلِ الدَّوَاءَ بَعْدَ الأَكْلِ (Take the medicine after meals)",
+            "تناول الدواء قبل النوم فقط",
+            "لا تشرب الماء",
+            "تناول الدواء في العيادة فقط"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الصيدلي أوصاه بتناول الحبوب والشراب بعد الأكل لضمان سلامة المعدة والشفاء."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u10-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تصف وداع المريض بالدعاء المأثور وتمنيات الشفاء:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (10.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (10.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (10.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (10.5.x3)"
+            "— شُكْرًا لَكَ أَيُّهَا الصَّيْدَلِيُّ النَّاصِحُ. — عَفْوًا يَا أَخِي، شَفَاكَ اللهُ وَأَلْبَسَكَ ثَوْبَ العَافِيَةِ! (Thank you, sincere pharmacist. — You are welcome my brother, may Allah heal you and clothe you in the robe of wellness!)",
+            "— الى اللقاء في السوق غدا بلا دواء.",
+            "— كم الحساب؟ — الحساب كان امس في المطار.",
+            "— وداع مريض صيدلي دعاء سكون فتحة."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة توظف عبارات الشكر والدعاء بالشفاء بأرقى لغة عربية متداولة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الصحة والرعاية الطبية والعيادة (Health & Medical Care)»؟",
+          "prompt": "ما معنى عبارة «طَهُورٌ إِنْ شَاءَ اللهُ» التي تقال للمريض؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (10.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (10.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (10.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (10.5.y3)"
+            "جَعَلَ اللهُ مَرَضَكَ طَهَارَةً وَمَغْفِرَةً وَشِفَاءً (May God make your illness purification & healing)",
+            "سفر مبارك",
+            "طعام لذيذ",
+            "فحص طبي جديد"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«طهور» دعاء نبوي كريم يعني جعل الله هذا المرض تطهيرًا ومغفرة وشفاءً للبدن والروح."
         }
       ]
     },
@@ -6361,24 +6389,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 10-5)؟",
+          "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة العاشرة بأكملها (الأعضاء، الأعراض، العيادة، الصيدلية، الأوامر الطبية، والدعاء):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (10.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (10.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (10.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (10.5.z3)"
+            "شَعَرَ سَلِيمٌ بِحُمَّى وَصُدَاعٍ فِي رَأْسِهِ وَأَلَمٍ فِي حَلْقِهِ، فَزَارَ عِيَادَةَ الطَّبِيبِ الَّذِي قَاسَ حَرَارَتَهُ وَفَحَصَهُ، ثُمَّ كَتَبَ لَهُ وَصْفَةً طِبِّيَّةً، فَتَوَجَّهَ إِلَى الصَّيْدَلِيَّةِ حَيْثُ نَصَحَهُ الصَّيْدَلِيُّ: «خُذْ هٰذِهِ الحُبُوبَ بَعْدَ الطَّعَامِ، وَارْتَحْ فِي الفِرَاشِ، وَشَفَاكَ اللهُ وَعَافَاكَ!». (Salim felt a fever, a headache in his head, and pain in his throat, so he visited the doctor's clinic who measured his temperature and examined him, then wrote him a prescription, so he headed to the pharmacy where the pharmacist advised him: 'Take these pills after meals, rest in bed, and may Allah heal you and grant you wellness!').",
+            "شعر سليم بالافعال المستقبلية فقط بلا طبيب ولا عيادة ولا صيدلية.",
+            "طبيب مريض عيادة صيدلية حبوب شراب سكون فتحة ضمة كسرة.",
+            "لم يذهب سليم الى العيادة وفضل البقاء نائما بلا علاج."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الإتقان والتكامل البياني في استيعاب كافة المفاهيم الطبية والسريرية والصيدلانية والأوامر والأدعية في سياق سردي محكم ومؤثر."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u10-l5) باللغة العربية (مثال: «الصحة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الفحص الذي يجريه الطبيب لمعرفة حرارة الجسم وضغط الدم (اكتب: «فحص»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الصحة",
-            "الصحة"
+            "فحص",
+            "فَحْصٌ",
+            "فَحْص",
+            "الفحص"
           ],
-          "explanation": "المصطلح الصحيح هو «الصحة»."
+          "explanation": "المصطلح هو «فحص»."
         }
       ],
       "passThreshold": 0.8
