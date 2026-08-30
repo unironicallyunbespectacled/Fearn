@@ -11965,53 +11965,62 @@
     "subject": "hindi",
     "unit": 29,
     "lessonNumber": 1,
-    "title": "दर्शनशास्त्र, वेदांत और नीतिशास्त्र (Philosophy & Ethics) (Part 1)",
+    "title": "षड्दर्शन: सांख्य, योग, न्याय, वैशेषिक, मीमांसा और वेदांत (Six Orthodox Schools of Indian Philosophy)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.1) with authentic linguistic precision.",
+    "objective": "भारतीय षड्दर्शन परंपरा (Six Orthodox Philosophical Schools), तत्वमीमांसा (Metaphysics), ज्ञानमीमांसा (Epistemology) तथा चार प्रमाणों की शास्त्रीय शब्दावली में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारतीय दर्शन (षड्दर्शन) की प्रमुख शाखाएं, उनके प्रणेता और दार्शनिक सिद्धांत:\n\n1. **आस्तिक दर्शन के छह संप्रदाय (षड्दर्शन)**:\n   - **सांख्य (कपिल मुनि)** — प्रकृति (जड़ जगत) और पुरुष (चेतन आत्मा) का अनादि द्वैत;\n   - **योग (महर्षि पतंजलि)** — 'योगश्चित्तवृत्तिनिरोधः' (चित्त की वृत्तियों का निरोध कर आत्म-साक्षात्कार);\n   - **न्याय (गौतम मुनि)** — तर्कशास्त्र, वाद-विवाद नियम और ज्ञान के चार प्रमाण (प्रत्यक्ष, अनुमान, उपमान, शब्द);\n   - **वैशेषिक (महर्षि कणाद)** — परमाणुवाद (Atomism) और द्रव्य, गुण, कर्म, सामान्य, विशेष, समवाय रूपी षट् पदार्थ;\n   - **पूर्व मीमांसा (महर्षि जैमिनी)** — वैदिक कर्मकांड, धर्म की व्याख्या और यज्ञ अनुष्ठान दर्शन;\n   - **उत्तर मीमांसा / वेदांत (महर्षि बादरायण)** — उपनिषदों का सार तत्व, ब्रह्म और मोक्ष मीमांसा।\n\n2. **ज्ञानमीमांसा और प्रमाण**:\n   - *प्रत्यक्ष (Direct Perception), अनुमान (Inference), उपमान (Comparison/Analogy) और शब्द (Authoritative Testimony)।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 29.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 29."
+          "target": "भारतीय षड्दर्शन परंपरा में सांख्य के प्रकृति-पुरुष द्वैत से लेकर वेदांत के अद्वैत तत्वज्ञान तक सृष्टि और चेतना का गहन विश्लेषण मिलता है।",
+          "reading": "Bhaarateey shaddarshan parampara mein Saankhya ke prakriti-purush dvait se lekar Vedaant ke advait tattvajnyaan tak srishti aur chetana ka gahan vishleshan milta hai. [bʱaːrt̪iːj ʂəɖːd̪ərʃən pərəmpəraː mẽː saːŋkʰjə keː prəkrt̪ɪ-pʊrʊʂ d̪ʋɛːt̪ seː leːkər ʋeːd̪aːn̪t̪ keː əd̪ʋɛːt̪ t̪ət̪ːʋədʒɲaːn t̪ək srɪʂʈɪ ɔːr tʃeːt̪naː kaː ɡəɦən ʋɪʃleːʂəɳ mɪlt̪aː hɛː] (bhahr-TEE-yuh shuhd-DUHR-shuhn puh-ruhm-puh-RAH mayn SAHNG-khyuh kay pruh-KREE-tee-POO-roosh DVYTH say LAY-kuhr vay-DAHNT kay uhd-VYT tuht-tvuh-jnyahn tuhk SREESH-tee owr chay-tuh-NAH kah GUH-huhn veesh-LAY-shuhn MEEL-tah hy)",
+          "translation": "In the Indian tradition of the Six Philosophical Schools, from the dualism of Prakriti-Purusha in Sankhya to the non-dual metaphysics of Vedanta, an in-depth analysis of creation and consciousness is found."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 29-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "न्याय दर्शन ने प्रत्यक्ष, अनुमान, उपमान और शब्द को यथार्थ ज्ञान प्राप्ति के चार मुख्य प्रमाणों के रूप में प्रतिष्ठापित किया।",
+          "reading": "Nyaay darshan ne pratyaksh, anumaan, upmaan aur shabd ko yathaarth jnyaan praapti ke chaar mukhya pramaanon ke roop mein pratishthaapit kiya. [njaːj d̪ərʃən neː prət̪jəkʃ ənʊmaːn ʊpmaːn ɔːr ʃəbd̪ koː jət̪ʰaːrt̪ʰ dʒɲaːn praːpt̪ɪ keː tʃaːr mʊkʰjə prəmaːɳõː keː ruːp mẽː prət̪ɪʂʈʰaːpɪt̪ kɪjaː] (NYAH-yuh DUHR-shuhn nay pruht-YUKSH, uh-noo-MAHN, oop-MAHN owr SHUBD koh yuh-THAHRTH jnyahn PRAHP-tee kay CHAHR MOOKH-yuh pruh-mah-NOHN kay ROOP mayn pruh-teesh-thah-PEET kee-YAH)",
+          "translation": "The Nyaya school established perception, inference, comparison, and verbal testimony as the four primary means of valid knowledge."
+        },
+        {
+          "target": "वैशेषिक दर्शन के प्रणेता महर्षि कणाद ने परमाणु सिद्धांत का प्रतिपादन कर भौतिक जगत के मूल घटकों की वैज्ञानिक व्याख्या की।",
+          "reading": "Vaisheshik darshan ke praneta Maharshi Kanaad ne paramaanu siddhaant ka pratipaadan kar bhautik jagat ke mool ghatakon ki vaijnyaanik vyaakhya ki. [ʋɛːʃeːʂɪk d̪ərʃən keː prəɳeːt̪aː məɦərʂɪ kəɳaːd̪ neː pərmaːɳuː sɪd̪ːʱaːn̪t̪ kaː prət̪ɪpaːd̪ən kər bʱɔːt̪ɪk dʒəɡət̪ keː muːl ɡʱəʈkõː kiː ʋɛːdʒɲaːnɪk ʋjaːkʰjaː kiː] (vy-SHAY-sheek DUHR-shuhn kay pruh-nay-TAH muh-HUHR-shee kuh-NAHD nay puh-ruh-MAH-noo seed-DHAHNT kah pruh-tee-pah-DUHN kuhr BHOW-teek JUH-guht kay MOOL ghuht-KOHN kee vy-jnyah-NEEK vyah-KHYAH kee)",
+          "translation": "Maharshi Kanada, the pioneer of the Vaisheshika school, propounded the atomic theory to provide a scientific explanation of the fundamental constituents of the material world."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "षड्दर्शन: सांख्य (कपिल), योग (पतंजलि), न्याय (गौतम), वैशेषिक (कणाद), मीमांसा (जैमिनी), वेदांत (बादरायण)!"
+      ],
+      "culturalNotes": [
+        "भारतीय दर्शन में 'दर्शन' शब्द 'दृश्' धातु (देखना) से बना है, जिसका अर्थ केवल बौद्धिक विचार नहीं बल्कि सत्य का प्रत्यक्ष साक्षात्कार (दृष्टिकोण) है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"स्कूल\":",
+          "prompt": "भारतीय षड्दर्शन में 'चित्त की वृत्तियों के निरोध' को लक्ष्य मानने वाले योग दर्शन के प्रणेता कौन हैं?",
           "options": [
-            "हम इस पाठ में इकाई 29.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कॉलेज» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अध्यापक» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («छात्र» का अनुचित स्थान)"
+            "महर्षि पतंजलि (Maharshi Patanjali - Author of Yoga Sutras & Founder of Yoga Philosophy)",
+            "चाणक्य (राजनीतिज्ञ)",
+            "आर्यभट्ट (खगोलशास्त्री)",
+            "कालिदास (महाकवि)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "योग सूत्र के रचयिता और योग दर्शन के प्रवर्तक «महर्षि पतंजलि» हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"स्कूल\":",
+          "prompt": "न्याय दर्शन में ज्ञान प्राप्ति के साधनों को क्या कहा जाता है?",
           "options": [
-            "हम इस पाठ में इकाई 29.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अध्यापक» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («छात्र» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कॉलेज» का अशुद्ध रूप)"
+            "प्रमाण (Pramana - Means of valid knowledge: Pratyaksha, Anumana, Upamana, Shabda)",
+            "उपहार (तोहफा)",
+            "मुद्रा (सिक्का)",
+            "व्यापार (दुकानदारी)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "यथार्थ ज्ञान प्राप्त करने के वैध साधनों को न्याय दर्शन में «प्रमाण» (Pramana) कहा जाता है।"
         }
       ]
     },
@@ -12019,17 +12028,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"स्कूल\": Which sentence is completely correct?",
+          "prompt": "भारतीय षड्दर्शन परंपरा (Six Schools of Indian Philosophy) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 29.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («छात्र» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कॉलेज» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अध्यापक» से संबंधित)"
+            "सांख्य, योग, न्याय, वैशेषिक, मीमांसा और वेदांत का समन्वित चिंतन भारतीय तत्वमीमांसा और आध्यात्मिक ज्ञान का शाश्वत शिखर है। (The synthesized contemplation of Sankhya, Yoga, Nyaya, Vaisheshika, Mimamsa, and Vedanta is the eternal pinnacle of Indian metaphysics and spiritual wisdom.)",
+            "दर्शनशास्त्र में केवल बाज़ार के आलू-प्याज के भाव लिखे हैं।",
+            "षड्दर्शन का अर्थ छह प्रकार की मिठाइयां खाना है।",
+            "पतंजलि केवल एक किराने की दुकान का नाम है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«सांख्य, योग, न्याय, वैशेषिक, मीमांसा और वेदांत का समन्वित चिंतन... शाश्वत शिखर है» षड्दर्शन का शास्त्रीय वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u29-l2": {
@@ -12037,53 +12047,62 @@
     "subject": "hindi",
     "unit": 29,
     "lessonNumber": 2,
-    "title": "दर्शनशास्त्र, वेदांत और नीतिशास्त्र (Philosophy & Ethics) (Part 2)",
+    "title": "अद्वैत वेदांत, उपनिषद और मायावाद (Advaita Vedanta, Upanishads & Maya Theory)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.2) with authentic linguistic precision.",
+    "objective": "आदि शंकराचार्य के अद्वैत वेदांत (Non-dualism), उपनिषदों के महावाक्यों, माया सिद्धांत तथा प्रस्थानत्रयी की गूढ़ दार्शनिक शब्दावली में पूर्ण दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "अद्वैत वेदांत, उपनिषद दर्शन और मायावाद के मूल सिद्धांत:\n\n1. **अद्वैत वेदांत (आदि शंकराचार्य)**:\n   - **मूल सिद्धांत** — 'ब्रह्म सत्यं जगन्मिथ्या जीवो ब्रह्मैव नापरः' (केवल निर्गुण निराकार ब्रह्म ही परम सत्य है, सांसारिक प्रपंच मिथ्या/अनित्य है, और जीवात्मा वस्तुतः ब्रह्म ही है);\n   - **प्रस्थानत्रयी** — उपनिषद (श्रुति प्रस्थान), श्रीमद्भगवद्गीता (स्मृति प्रस्थान) और ब्रह्मसूत्र (न्याय प्रस्थान)।\n\n2. **माया और अविद्या का सिद्धांत**:\n   - **माया की दो शक्तियां** — विक्षेप शक्ति (अन्यथा प्रतीति कराना) और आवरण शक्ति (सत्य स्वरूप को छिपा लेना);\n   - **अध्यास (Superimposition)** — रज्जु में सर्प का भ्रम (अंधेरे में रस्सी को सांप समझ लेना) की भांति ब्रह्म पर जगत का आरोप।\n\n3. **उपनिषदों के चार महावाक्य**:\n   - *'प्रज्ञानं ब्रह्म' (ऋग्वेद), 'अहं ब्रह्मास्मि' (यजुर्वेद), 'तत्त्वमसि' (सामवेद), 'अयमात्मा ब्रह्म' (अथर्ववेद)।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 29.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 29."
+          "target": "आदि शंकराचार्य के अद्वैत वेदांत का मूल उद्घोष 'ब्रह्म सत्यं जगन्मिथ्या जीवो ब्रह्मैव नापरः' आत्मा और परमात्मा की पूर्ण एकता का प्रतिपादन करता है।",
+          "reading": "Aadi Shankaraachaarya ke advait vedaant ka mool udghosh 'Brahma Satyam Jagan-Mithya Jivo Brahmaiva Naaparah' aatma aur paramaatma ki poorna ekta ka pratipaadan karta hai. [aːd̪ɪ ʃəŋkraːtʃaːrjə keː əd̪ʋɛːt̪ ʋeːd̪aːn̪t̪ kaː muːl ʊd̪ɡʱoːʂ brəɦmə sət̪jəm dʒəɡənmɪt̪ʰjaː dʒiːʋoː brəɦmɛːʋ naːpərəɦ aːt̪maː ɔːr pərmaːt̪maː kiː puːrɳ eːkt̪aː kaː prət̪ɪpaːd̪ən kərt̪aː hɛː] (AH-dee shuhng-krah-CHAHR-yuh kay uhd-VYT vay-DAHNT kah MOOL ood-GHOHSH Brahma Satyam Jagan-Mithya aht-MAH owr puh-ruh-MAHT-mah kee POOR-nuh AYK-tah kah pruh-tee-pah-DUHN KUHR-tah hy)",
+          "translation": "The core proclamation of Adi Shankaracharya's Advaita Vedanta, 'Brahman alone is real, the world is phenomenal, and the individual soul is non-different from Brahman,' expounds the absolute unity of soul and Supreme Self."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 29-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "उपनिषदों के प्रसिद्ध महावाक्य 'तत्त्वमसि' (वह तुम हो) और 'अहं ब्रह्मास्मि' (मैं ब्रह्म हूँ) चेतना के अद्वैत स्वरूप का साक्षात्कार कराते हैं।",
+          "reading": "Upanishadon ke prasiddh mahaavaakya 'Tattvamasi' aur 'Aham Brahmaasmi' chetana ke advait svaroop ka saakshaatkaar karaate hain. [ʊpnɪʂd̪õː keː prəsɪd̪ːʱ məɦaːʋaːkjə t̪ət̪ːʋəməsɪ ɔːr əɦəm brəɦmaːsmɪ tʃeːt̪naː keː əd̪ʋɛːt̪ sʋəruːp kaː saːkʃaːt̪kaːr kəraːt̪eː hɛ̃ː] (oo-puh-neesh-DOHN kay pruh-SEEDH muh-hah-VAHK-yuh Tuht-tvuh-muh-SEE owr Uh-huhm Bruh-MAHS-mee chay-tuh-NAH kay uhd-VYT svuh-ROOP kah sahk-shaht-KAHR kuh-rah-TAY hyhn)",
+          "translation": "The renowned Upanishadic Mahavakyas 'Tat Tvam Asi' (Thou Art That) and 'Aham Brahmasmi' (I Am Brahman) bring about the realization of the non-dual nature of consciousness."
+        },
+        {
+          "target": "वेदांत दर्शन के अनुसार व्यावहारिक जगत में जो अनेकता प्रतीत होती है, वह माया का आवरण है, जिसे ज्ञान द्वारा हटाया जाता है।",
+          "reading": "Vedaant darshan ke anusaar vyaavahaarik jagat mein jo anekta prateet hoti hai, vah maaya ka aavaran hai, jise jnyaan dvaara hataaya jaata hai. [ʋeːd̪aːn̪t̪ d̪ərʃən keː ənʊsaːr ʋjaːʋhaːrɪk dʒəɡət̪ mẽː dʒoː əneːkt̪aː prət̪iːt̪ hoːt̪iː hɛː ʋəɦ maːjaː kaː aːʋrəɳ hɛː dʒɪseː dʒɲaːn d̪ʋaːraː ɦəʈaːjaː dʒaːt̪aː hɛː] (vay-DAHNT DUHR-shuhn kay uh-noo-SAHR vyah-vuh-HAH-reek JUH-guht mayn joh uh-nayk-TAH pruh-TEET HOH-tee hy, vuh MAH-yah kah ah-vuh-RUHN hy, jee-SAY jnyahn DVAH-rah huh-tah-YAH JAH-tah hy)",
+          "translation": "According to Vedanta philosophy, the diversity perceived in the empirical world is a veil of Maya, which is dispelled through knowledge."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "अद्वैत वेदांत: शंकराचार्य, ब्रह्म सत्यं जगन्मिथ्या, तत्त्वमसि, प्रस्थानत्रयी!"
+      ],
+      "culturalNotes": [
+        "आदि शंकराचार्य ने 8वीं शताब्दी में भारत के चार कोनों में चार पावन मठों की स्थापना की: श्रृंगेरी (दक्षिण), पुरी (पूर्व), द्वारका (पश्चिम) और जोशीमठ (उत्तर)।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"कॉलेज\":",
+          "prompt": "अद्वैत वेदांत (Non-dualism) के महानतम दार्शनिक और व्याख्याकार कौन हैं?",
           "options": [
-            "हम इस पाठ में इकाई 29.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अध्यापक» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («छात्र» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कक्षा» का अनुचित स्थान)"
+            "आदि शंकराचार्य (Adi Shankaracharya - Proponent of Advaita Vedanta and Monism)",
+            "तानसेन (संगीतकार)",
+            "बीरबल (दरबारी)",
+            "तुलसीदास (रामचरितमानस रचयिता)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "अद्वैत वेदांत के प्रमुख आचार्य और प्रस्थानत्रयी के भाष्यकार «आदि शंकराचार्य» हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"कॉलेज\":",
+          "prompt": "उपनिषद, श्रीमद्भगवद्गीता और ब्रह्मसूत्र को सम्मिलित रूप से वेदांत में क्या कहा जाता है?",
           "options": [
-            "हम इस पाठ में इकाई 29.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («छात्र» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कक्षा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अध्यापक» का अशुद्ध रूप)"
+            "प्रस्थानत्रयी (Prasthanatrayi - The Three Canonical Foundations of Vedanta Philosophy)",
+            "त्रिफला चूर्ण (आयुर्वेदिक औषधि)",
+            "तीन नदियां (त्रिवेणी संगम)",
+            "तीन पहिए (त्रिपहिया गाड़ी)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "वेदांत दर्शन के तीन आधारभूत ग्रंथों के समूह को «प्रस्थानत्रयी» (Prasthanatrayi) कहते हैं।"
         }
       ]
     },
@@ -12091,17 +12110,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"कॉलेज\": Which sentence is completely correct?",
+          "prompt": "अद्वैत वेदांत और उपनिषद दर्शन (Advaita Vedanta & Upanishads) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 29.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कक्षा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अध्यापक» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («छात्र» से संबंधित)"
+            "उपनिषदों का अद्वैत दर्शन जीव और ब्रह्म की तात्विक एकता का प्रतिपादन कर सर्वत्र एक ही सच्चिदानंद चेतना का साक्षात्कार कराता है। (The Advaita philosophy of the Upanishads expounds the fundamental oneness of the individual soul and Brahman, realizing the single Sat-Chit-Ananda consciousness everywhere.)",
+            "वेदांत में लिखा है कि आत्मा केवल मिट्टी का एक खिलौना है।",
+            "मायावाद का अर्थ जादू का खेल दिखाना होता है।",
+            "शंकराचार्य ने कहा कि पढ़ाई-लिखाई छोड़ दो।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«उपनिषदों का अद्वैत दर्शन जीव और ब्रह्म की तात्विक एकता का प्रतिपादन... साक्षात्कार कराता है» अद्वैत वेदांत का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u29-l3": {
@@ -12109,53 +12129,62 @@
     "subject": "hindi",
     "unit": 29,
     "lessonNumber": 3,
-    "title": "दर्शनशास्त्र, वेदांत और नीतिशास्त्र (Philosophy & Ethics) (Part 3)",
+    "title": "श्रीमद्भगवद्गीता: निष्काम कर्मयोग और स्थितप्रज्ञ दर्शन (Bhagavad Gita: Nishkama Karma Yoga & Sthitaprajna)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.3) with authentic linguistic precision.",
+    "objective": "श्रीमद्भगवद्गीता के निष्काम कर्मयोग (Action without fruit attachment), स्थितप्रज्ञ (Steadfast Intellect), स्वधर्म तथा लोकसंग्रह की दार्शनिक शब्दावली में प्रवीण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "श्रीमद्भगवद्गीता का व्यावहारिक नीतिशास्त्र और दार्शनिक समन्वय:\n\n1. **निष्काम कर्मयोग का सिद्धांत**:\n   - **कर्मण्येवाधिकारस्ते मा फलेषु कदाचन** — मनुष्य का अधिकार केवल कर्तव्य कर्म करने में है, फल की चिंता या आसक्ति में नहीं;\n   - **योगः कर्मसु कौशलम्** — अनासक्त भाव से पूर्ण कुशलता एवं एकाग्रता के साथ कर्म करना ही वास्तविक योग है;\n   - **लोकसंग्रह** — समाज के मार्गदर्शन और व्यवस्था की रक्षा हेतु कर्म करना।\n\n2. **स्थितप्रज्ञ के लक्षण (गीता अध्याय 2)**:\n   - 'प्रजहाति यदा कामान् सर्वान् पार्थ मनोगतान्' — जो समस्त कामनाओं का त्याग कर आत्मस्वरूप में संतुष्ट रहता है;\n   - सुख-दुःख, लाभ-हानि, जय-पराजय और मान-अपमान में समत्व बुद्धि (समता का भाव) बनाए रखना।\n\n3. **स्वधर्म और त्रिविध मार्ग**:\n   - *'श्रेयान् स्वधर्मो विगुणः परधर्मात् स्वनुष्ठितात्' — अपने स्वभाव और कर्तव्य के अनुरूप आचरण करना तथा कर्म, ज्ञान और भक्ति का सुंदर समन्वय।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 29.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 29."
+          "target": "श्रीमद्भगवद्गीता का निष्काम कर्मयोग मनुष्य को फल की आसक्ति से मुक्त होकर कर्तव्य पथ पर अनवरत अग्रसर रहने का अमर संदेश देता है।",
+          "reading": "Shrimadbhagavadgeeta ka nishkaam karmayog manushya ko phal ki aasakti se mukt hokar kartavya path par anavarat agrasar rahne ka amar sandesh deta hai. [ʃriːməd̪bʱəɡʋəd̪ɡiːt̪aː kaː nɪʂkaːm kərməjoːɡ mənʊʂjə koː pʰəl kiː aːsəkt̪ɪ seː mʊkt̪ hoːkər kərt̪əʋjə pət̪ʰ pər ənʋrət̪ əɡrəsər rəɦneː kaː əmər sən̪d̪eːʃ d̪eːt̪aː hɛː] (shree-muhd-bhuh-guh-vuhd-GEE-tah kah neesh-KAHM kuhr-muh-YOHG muh-NOOSH-yuh koh FUHL kee ah-SUHK-tee say MOOKT HOH-kuhr kuhr-TUHV-yuh PUHTH puhr uh-nuh-vuh-RUHT uh-gruh-SUHR ruh-huh-NAY kah uh-MUHR suhn-DAYSH DAY-tah hy)",
+          "translation": "The Nishkama Karma Yoga of the Shrimad Bhagavad Gita imparts the immortal message of relentlessly advancing along the path of duty, freed from attachment to results."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 29-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "गीता में वर्णित 'स्थितप्रज्ञ' वह साधक है जिसका चित्त सुख में प्रफुल्लित नहीं होता और दुःख में विचलित हुए बिना समत्व भाव में स्थित रहता है।",
+          "reading": "Geeta mein varnit 'sthitaprajna' vah saadhak hai jiska chitt sukh mein praphullit nahin hota aur duhkh mein vichalit hue bina samatva bhaav mein sthit rahta hai. [ɡiːt̪aː mẽː ʋərɳɪt̪ st̪ʰɪt̪əprədʒɲə ʋəɦ saːd̪ʱək hɛː dʒɪskaː tʃɪt̪ː sʊkʰ mẽː prəpʰʊlːɪt̪ nəɦĩː hoːt̪aː ɔːr d̪ʊkʰ mẽː ʋɪtʃlɪt̪ ɦʊeː bɪnaː səmət̪ʋə bʱaːʋ mẽː st̪ʰɪt̪ rəɦt̪aː hɛː] (GEE-tah mayn vuhr-NEET sthee-tuh-PRUHG-nyuh vuh SAH-dhuhk hy jees-KAH CHEET sookh mayn pruh-fool-LEET nuh-HEEN HOH-tah owr DOOKH mayn vee-chuh-LEET hoo-AY bee-NAH suh-muht-VUH BHAHV mayn STHEET ruh-huh-TAH hy)",
+          "translation": "The 'Sthitaprajna' described in the Gita is that aspirant whose mind does not exult in pleasure and remains situated in equanimity without being perturbed by sorrow."
+        },
+        {
+          "target": "भगवान श्रीकृष्ण ने अर्जुन को उपदेश दिया कि परधर्म की नकल करने की अपेक्षा अपने स्वधर्म का निष्ठापूर्वक पालन करना श्रेयस्कर है।",
+          "reading": "Bhagwaan Shri Krishna ne Arjun ko upadesh diya ki pardharm ki nakal karne ki apeksha apne svadharm ka nishthaapoorvak paalan karna shreyaskar hai. [bʱəɡʋaːn ʃriː krɪʂɳə neː ərdʒʊn koː ʊpd̪eːʃ d̪ɪjaː kɪ pərd̪ʱərmə kiː nəkəl kərneː kiː əpeːkʃaː əpneː sʋəd̪ʱərmə kaː nɪʂʈʰaːpuːrʋək paːlən kərnaː ʃreːjəskər hɛː] (bhuhg-VAHN SHREE KREESH-nuh nay UHR-joon koh oop-DAYSH DEE-yah kee puhr-DHUHR-muh kee nuh-KUHL KUHR-nay kee uh-PAYK-shah uhp-NAY svuh-DHUHR-muh kah neesh-thah-POOR-vuhk pah-LUHN KUHR-nah shray-yuhs-KUHR hy)",
+          "translation": "Lord Krishna counselled Arjuna that faithfully fulfilling one's own duty (svadharma) is far superior to imitating the duty of another."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "गीता दर्शन: निष्काम कर्मयोग (action without fruit), स्थितप्रज्ञ (equanimous wisdom), स्वधर्म, लोकसंग्रह!"
+      ],
+      "culturalNotes": [
+        "महात्मा गांधी ने श्रीमद्भगवद्गीता को अपनी 'आध्यात्मिक माता' (Spiritual Mother) कहा था और इसके अनासक्त कर्मयोग को अपने संपूर्ण जीवन और सत्याग्रह का आधार बनाया।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"अध्यापक\":",
+          "prompt": "श्रीमद्भगवद्गीता में फल की इच्छा के बिना केवल कर्तव्य भाव से कर्म करने को क्या कहा गया है?",
           "options": [
-            "हम इस पाठ में इकाई 29.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («छात्र» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कक्षा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («परीक्षा» का अनुचित स्थान)"
+            "निष्काम कर्मयोग (Nishkama Karma Yoga - Selfless action performed without attachment to results)",
+            "सकाम व्यापार (व्यापारिक लाभ)",
+            "आलस्य निद्रा (सोना)",
+            "मनोरंजन खेल (खेलकूद)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "फल की आसक्ति से रहित होकर कर्तव्य कर्म करने को «निष्काम कर्मयोग» कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"अध्यापक\":",
+          "prompt": "गीता के अनुसार जो व्यक्ति सुख-दुःख और मान-अपमान में स्थिर बुद्धि और समता बनाए रखता है, उसे क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 29.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कक्षा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («परीक्षा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («छात्र» का अशुद्ध रूप)"
+            "स्थितप्रज्ञ (Sthitaprajna - Person of steadfast wisdom and unwavering equanimity)",
+            "लोभी व्यापारी (धनलोलुप)",
+            "सैनिक कैदी (बंदी)",
+            "अधीर बालक (चंचल बच्चा)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "सुख-दुःख में अविचल और समत्व भाव में रहने वाले प्रबुद्ध साधक को «स्थितप्रज्ञ» कहते हैं।"
         }
       ]
     },
@@ -12163,17 +12192,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"अध्यापक\": Which sentence is completely correct?",
+          "prompt": "श्रीमद्भगवद्गीता के दर्शन (Bhagavad Gita Philosophy & Ethics) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 29.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («परीक्षा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («छात्र» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कक्षा» से संबंधित)"
+            "निष्काम कर्म, स्थितप्रज्ञता और स्वधर्म का पालन ही गीता का वह सार्वकालिक दर्शन है जो मनुष्य को कर्तव्यनिष्ठा और आंतरिक शांति प्रदान करता है। (Nishkama Karma, steadfast wisdom, and the practice of Svadharma constitute the timeless philosophy of the Gita that bestows dedication to duty and inner peace upon humanity.)",
+            "गीता का उपदेश है कि हमेशा युद्ध करते रहो और शांति कभी मत चाहो।",
+            "निष्काम कर्म का अर्थ है कि कोई काम मत करो और सो जाओ।",
+            "स्थितप्रज्ञ का अर्थ है जो केवल एक पैर पर खड़ा रहे।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«निष्काम कर्म, स्थितप्रज्ञता और स्वधर्म का पालन... शांति प्रदान करता है» गीता दर्शन का प्रामाणिक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u29-l4": {
@@ -12181,53 +12211,62 @@
     "subject": "hindi",
     "unit": 29,
     "lessonNumber": 4,
-    "title": "दर्शनशास्त्र, वेदांत और नीतिशास्त्र (Philosophy & Ethics) (Part 4)",
+    "title": "जैन व बौद्ध दर्शन: अनेकांतवाद, शून्यवाद व मध्यम प्रतिपदा (Jain & Buddhist Philosophy)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.4) with authentic linguistic precision.",
+    "objective": "जैन दर्शन के अनेकांतवाद व स्याद्वाद तथा बौद्ध दर्शन के चार आर्य सत्य, अष्टांगिक मार्ग, मध्यम प्रतिपदा और प्रतीत्यसमुत्पाद की शास्त्रीय शब्दावली में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "जैन और बौद्ध दर्शन (अवैदिक / श्रमण परंपरा) के प्रमुख दार्शनिक सिद्धांत:\n\n1. **जैन दर्शन (तीर्थंकर महावीर)**:\n   - **अनेकांतवाद** — सत्य बहुआयामी है, वस्तु के अनंत धर्म होते हैं और किसी एक दृष्टि से पूर्ण सत्य का दावा नहीं किया जा सकता;\n   - **स्याद्वाद (सप्तभंगी नय)** — सापेक्षता का सिद्धांत ('स्यात् अस्ति', 'स्यात् नास्ति' आदि 7 दृष्टिकोण);\n   - **त्रिरत्न एवं पंच महाव्रत** — सम्यक् दर्शन, सम्यक् ज्ञान, सम्यक् चरित्र तथा अहिंसा, सत्य, अस्तेय, ब्रह्मचर्य, अपरिग्रह।\n\n2. **बौद्ध दर्शन (भगवान बुद्ध)**:\n   - **चार आर्य सत्य** — दुःख है, दुःख का कारण (तृष्णा) है, दुःख का निवारण (निरोध) संभव है, तथा दुःख निरोध का मार्ग (अष्टांगिक मार्ग) है;\n   - **मध्यम प्रतिपदा (मध्यम मार्ग)** — अति-भोग और कठोर कायक्लेश के दोनों छोरों से बचकर संतुलन साधना;\n   - **प्रतीत्यसमुत्पाद** — कारण-कार्य सिद्धांत ('इसके होने से वह होता है');\n   - **शून्यवाद (नागार्जुन)** — माध्यमिक दर्शन में सभी सांसारिक पदार्थों की स्वभाव-शून्यता (सापेक्षता)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 29.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 29."
+          "target": "जैन दर्शन का 'अनेकांतवाद' और 'स्याद्वाद' यह सिखाता है कि सत्य के अनेक पहलू होते हैं और किसी एक दृष्टिकोण से पूर्ण सत्य का दावा नहीं किया जा सकता।",
+          "reading": "Jain darshan ka 'Anekantavada' aur 'Syadvada' yah sikhaata hai ki satya ke anek pahloo hote hain aur kisi ek drishtikon se poorna satya ka daava nahin kiya ja sakta. [dʒɛːn d̪ərʃən kaː əneːkaːn̪t̪ʋaːd̪ ɔːr sjaːd̪ʋaːd̪ jəɦ sɪkʰaːt̪aː hɛː kɪ sət̪jə keː əneːk pəɦluː hoːt̪eː hɛ̃ː ɔːr kɪsiː eːk drɪʂʈɪkoːɳ seː puːrɳ sət̪jə kaː d̪aːʋaː nəɦĩː kɪjaː dʒaː səkt̪aː] (JYN DUHR-shuhn kah uh-nay-kahn-tuh-VAHD owr syahd-VAHD yuh see-KHAH-tah hy kee SUHT-yuh kay uh-NAYK puh-huh-LOO HOH-tay hyhn owr kee-SEE AYK dreesh-tee-KOHN say POOR-nuh SUHT-yuh kah DAH-vah nuh-HEEN kee-YAH JAH suhk-tah)",
+          "translation": "The 'Anekantavada' and 'Syadvada' of Jain philosophy teach that truth has manifold dimensions and absolute truth cannot be claimed from any single standpoint alone."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 29-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "भगवान बुद्ध द्वारा प्रतिपादित 'मध्यम प्रतिपदा' अति-भोग और कठोर तपस्या के दोनों छोरों को त्यागकर संतुलित जीवन का मार्ग प्रशस्त करती है।",
+          "reading": "Bhagwaan Buddh dvaara pratipaadit 'Madhyam Pratipada' ati-bhog aur kathor tapasya ke donon chhoron ko tyaagkar santulit jeevan ka maarg prashast karti hai. [bʱəɡʋaːn bʊd̪ːʱ d̪ʋaːraː prət̪ɪpaːd̪ɪt̪ məd̪ʱjəm prət̪ɪpəd̪aː ət̪ɪ-bʱoːɡ ɔːr kəʈʰoːr t̪əpəsjaː keː d̪oːnõː tʃʰoːrõː koː tjaːɡkər sən̪t̪ʊlɪt̪ dʒiːʋən kaː maːrɡ prəʃəst̪ kərt̪iː hɛː] (bhuhg-VAHN BOODH dvah-RAH pruh-tee-pah-DEET MUHDH-yuhm pruh-tee-puh-DAH uh-tee-BHOHG owr kuh-THOHR tuh-puhs-YAH kay doh-NOHN chhoh-ROHN koh TYAHG-kuhr suhn-too-LEET jee-VUHN kah MAHRG pruh-SHUHST KUHR-tee hy)",
+          "translation": "The 'Madhyam Pratipada' (Middle Path) propounded by Lord Buddha paves the way for a balanced life by relinquishing the two extremes of excessive indulgence and severe asceticism."
+        },
+        {
+          "target": "बौद्ध दर्शन का 'प्रतीत्यसमुत्पाद' सिद्धांत प्रतिपादित करता है कि संसार का कोई भी पदार्थ स्वतंत्र नहीं है, बल्कि प्रत्येक घटना किसी कारण पर निर्भर है।",
+          "reading": "Bauddh darshan ka 'Prateetyasamutpaad' siddhaant pratipaadit karta hai ki sansaar ka koi bhi padaarth swatantr nahin hai, balki pratyek ghatna kisi kaaran par nirbhar hai. [bɔːd̪ːʱ d̪ərʃən kaː prət̪iːt̪jəsəmʊt̪paːd̪ sɪd̪ːʱaːn̪t̪ prət̪ɪpaːd̪ɪt̪ kərt̪aː hɛː kɪ sənsaːr kaː koːiː bʱiː pəd̪aːrt̪ʰ sʋət̪ən̪t̪r nəɦĩː hɛː bəlkɪ prətjeːk ɡʱəʈnaː kɪsiː kaːrəɳ pər nɪrbʱər hɛː] (BOHD-dh DUHR-shuhn kah pruh-teet-yuh-suh-moot-PAHD seed-DHAHNT pruh-tee-pah-DEET KUHR-tah hy kee suhn-SAHR kah koh-EE bhee puh-DAHRTH svuh-TUHN-truh nuh-HEEN hy, BUHL-kee pruht-YAYK ghuht-NAH kee-SEE kah-RUHN puhr neer-BHUHR hy)",
+          "translation": "The 'Pratityasamutpada' (Dependent Origination) doctrine of Buddhist philosophy propounds that no entity in the world is independent, but rather every phenomenon is dependent upon a cause."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "श्रमण दर्शन: जैन अनेकांतवाद (many-sidedness), बौद्ध मध्यम मार्ग (middle path), चार आर्य सत्य!"
+      ],
+      "culturalNotes": [
+        "नालंदा विश्वविद्यालय (बिहार) प्राचीन काल में बौद्ध और जैन दर्शन, तर्कशास्त्र और ज्ञानमीमांसा का विश्वविख्यात अंतरराष्ट्रीय केंद्र था, जहाँ दुनिया भर से विद्वान आते थे।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"छात्र\":",
+          "prompt": "जैन दर्शन में सत्य के बहुआयामी स्वरूप और सहिष्णु दृष्टिकोण के सिद्धांत को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 29.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कक्षा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («परीक्षा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («परिणाम» का अनुचित स्थान)"
+            "अनेकांतवाद (Anekantavada - Doctrine of the manifold and multi-dimensional nature of reality)",
+            "हठयोग (कठिन शारीरिक आसन)",
+            "भौतिकवाद (केवल धन की इच्छा)",
+            "एकाधिकार (केवल एक का शासन)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "सत्य के बहुआयामी दृष्टिकोण को जैन दर्शन में «अनेकांतवाद» (Anekantavada) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"छात्र\":",
+          "prompt": "भगवान बुद्ध द्वारा प्रतिपादित दुःख निवारण के आठ व्यावहारिक चरणों को क्या कहा जाता है?",
           "options": [
-            "हम इस पाठ में इकाई 29.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («परीक्षा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («परिणाम» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कक्षा» का अशुद्ध रूप)"
+            "अष्टांगिक मार्ग (Ashtangika Marga - The Noble Eightfold Path: Right View, Resolve, Speech, etc.)",
+            "आठ ग्रह (सौरमंडल)",
+            "अष्टधातु (आठ धातुएं)",
+            "आठ दिशाएं (दिशा चक्र)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "दुःख निरोध के आठ अंगों वाले बौद्ध मार्ग को «अष्टांगिक मार्ग» (Eightfold Path) कहते हैं।"
         }
       ]
     },
@@ -12235,17 +12274,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"छात्र\": Which sentence is completely correct?",
+          "prompt": "जैन व बौद्ध दर्शन (Jain & Buddhist Philosophy) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 29.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («परिणाम» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कक्षा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («परीक्षा» से संबंधित)"
+            "अनेकांतवाद की वैचारिक सहिष्णुता और मध्यम प्रतिपदा का संतुलित जीवन-दर्शन विश्व में शांति और सद्भाव स्थापित करने के शाश्वत आधार हैं। (The ideological tolerance of Anekantavada and the balanced life philosophy of the Middle Path are the eternal foundations for establishing peace and harmony in the world.)",
+            "जैन दर्शन में लिखा है कि प्रतिदिन झगड़ा करना चाहिए।",
+            "मध्यम मार्ग का अर्थ सड़क के बीच में सोना होता है।",
+            "चार आर्य सत्य केवल गणित के चार अंक हैं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«अनेकांतवाद की वैचारिक सहिष्णुता और मध्यम प्रतिपदा का संतुलित जीवन-दर्शन... शाश्वत आधार हैं» श्रमण दर्शन का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u29-l5": {
@@ -12253,53 +12293,62 @@
     "subject": "hindi",
     "unit": 29,
     "lessonNumber": 5,
-    "title": "दर्शनशास्त्र, वेदांत और नीतिशास्त्र (Philosophy & Ethics) (Part 5)",
+    "title": "भारतीय नीतिशास्त्र, पुरुषार्थ-चतुष्टय व समग्र दार्शनिक समेकन (Indian Ethics, Purushartha & Synthesis)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.5) with authentic linguistic precision.",
+    "objective": "पुरुषार्थ-चतुष्टय (Dharma, Artha, Kama, Moksha), ऋत और सत्य की अवधारणा, वसुधैव कुटुम्बकम् तथा आधुनिक भारतीय दार्शनिकों के समग्र चिंतन में पूर्ण दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारतीय नीतिशास्त्र, जीवन मूल्य और दार्शनिक समन्वय का समग्र संश्लेषण:\n\n1. **पुरुषार्थ-चतुष्टय (जीवन के चार उद्देश्य)**:\n   - **धर्म (Dharma)** — नैतिक कर्तव्य, सत्य आचरण और सामाजिक सुव्यवस्था की धुरी;\n   - **अर्थ (Artha)** — नैतिक साधनों द्वारा उपार्जित भौतिक साधन व आर्थिक समृद्धि;\n   - **काम (Kama)** — मर्यादा और सौंदर्यबोध के साथ जीवन की स्वाभाविक कामनाओं की तृप्ति;\n   - **मोक्ष (Moksha)** — अविद्या और जन्म-मरण के चक्र से मुक्ति पाकर आत्मस्वरूप में लीन होना।\n\n2. **मूल नैतिक मूल्य**:\n   - **ऋत एवं सत्य** — ब्रह्मांडीय नैतिक व्यवस्था (Cosmic Order) और यथार्थ वाणी;\n   - **वसुधैव कुटुम्बकम्** — संपूर्ण पृथ्वी एक ही परिवार है (उदारचरितानां तु वसुधैव कुटुम्बकम्);\n   - **सर्वे भवन्तु सुखिनः** — समस्त प्राणियों के सुख और आरोग्य की मंगल कामना।\n\n3. **आधुनिक भारतीय दर्शन का पुनर्जागरण**:\n   - *स्वामी विवेकानंद (व्यावहारिक वेदांत), श्री अरविंद (समग्र योग/अतिमानस चेतना) और डॉ. सर्वपल्ली राधाकृष्णन (तुलनात्मक दर्शन)।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 29.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 29."
+          "target": "भारतीय चिंतन में धर्म, अर्थ, काम और मोक्ष के पुरुषार्थ-चतुष्टय द्वारा सांसारिक समृद्धि और आत्मिक मुक्ति का संतुलित समन्वय किया गया है।",
+          "reading": "Bhaarateey chintan mein dharm, arth, kaam aur moksh ke purushaarth-chatushtay dvaara saansaarik samriddhi aur aatmik mukti ka santulit samanvay kiya gaya hai. [bʱaːrt̪iːj tʃɪn̪t̪ən mẽː d̪ʱərmə ərt̪ʰ kaːm ɔːr moːkʃ keː pʊrʊʂaːrt̪ʰ-tʃət̪ʊʂʈəj d̪ʋaːraː saːnsaːrɪk səmrd̪ːʱɪ ɔːr aːt̪mɪk mʊkt̪ɪ kaː sən̪t̪ʊlɪt̪ səmənʋəj kɪjaː ɡəjaː hɛː] (bhahr-TEE-yuh CHEEN-tuhn mayn DHUHR-muh, UHRTH, KAHM owr MOHKSH kay poo-roo-SHAHRTH-chuh-toosh-TY dvaah-RAH sahn-SAH-reek suhm-REED-dhee owr AHT-meek MOOK-tee kah suhn-too-LEET suh-muhn-VUY kee-YAH guh-YAH hy)",
+          "translation": "In Indian thought, a balanced synthesis of worldly prosperity and spiritual liberation has been achieved through the Fourfold Aims of Life: Dharma, Artha, Kama, and Moksha."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 29-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "नीतिशास्त्र का मूल सिद्धांत 'वसुधैव कुटुम्बकम्' और 'सर्वे भवन्तु सुखिनः' संपूर्ण मानव जाति के कल्याण और विश्व बंधुत्व की अमर भावना को अभिव्यक्त करता है।",
+          "reading": "Neetishaastr ka mool siddhaant 'Vasudhaiva Kutumbakam' aur 'Sarve Bhavantu Sukhinah' sampoorna maanav jaati ke kalyaan aur vishwa bandhutva ki amar bhaavana ko abhivyakt karta hai. [niːt̪ɪʃaːstrə kaː muːl sɪd̪ːʱaːn̪t̪ ʋəsʊd̪ʱɛːʋ kʊʈʊmbəkəm ɔːr sərʋeː bʱəʋən̪t̪ʊ sʊkʰɪnəɦ səmbuːrɳ maːnəʋ dʒaːt̪ɪ keː kəljaːɳ ɔːr ʋɪʃʋə bən̪d̪ʱʊt̪ʋə kiː əmər bʱaːʋnaː koː əbʱɪʋjəkt̪ kərt̪aː hɛː] (nee-tee-SHAHS-truh kah MOOL seed-DHAHNT Vasudhaiva Kutumbakam owr Sarve Bhavantu Sukhinah suhm-POOR-nuh MAH-nuhv JAH-tee kay kuhl-YAHN owr VEESH-vuh buhn-dhoot-VUH kee uh-MUHR bhahv-NAH koh uh-bheev-YUKT KUHR-tah hy)",
+          "translation": "The core tenets of Indian ethics, 'Vasudhaiva Kutumbakam' (the world is one family) and 'May all beings be happy,' express the immortal sentiment of universal welfare and global fraternity."
+        },
+        {
+          "target": "स्वामी विवेकानंद और श्री अरविंद ने भारतीय दर्शन के सार्वभौमिक आध्यात्मिक संदेश को आधुनिक वैज्ञानिक चेतना के साथ जोड़कर विश्व पटल पर स्थापित किया।",
+          "reading": "Swami Vivekananda aur Shri Aurobindo ne Bhaarateey darshan ke saarvabhaumik aadhyaatmik sandesh ko aadhunik vaijnyaanik chetana ke saath jodkar vishwa patal par sthaapit kiya. [sʋaːmiː ʋɪʋeːkaːnən̪d̪ ɔːr ʃriː əʊroːbɪn̪d̪oː neː bʱaːrt̪iːj d̪ərʃən keː saːrʋəbʱɔːmɪk aːd̪ʱjaːt̪mɪk sən̪d̪eːʃ koː aːd̪ʱʊnɪk ʋɛːdʒɲaːnɪk tʃeːt̪naː keː saːt̪ʰ dʒoːɽkər ʋɪʃʋə pəʈəl pər st̪ʰaːpɪt̪ kɪjaː] (SVAH-mee vee-vay-kah-NUHND owr SHREE ow-roh-BEEN-doh nay bhahr-TEE-yuh DUHR-shuhn kay sahr-vuh-bhow-MEEK ahdh-YAHT-meek suhn-DAYSH koh ah-dhoo-NEEK vy-jnyah-NEEK chay-tuh-NAH kay SAHTH JOHD-kuhr VEESH-vuh puh-TUHL puhr sthah-PEET kee-YAH)",
+          "translation": "Swami Vivekananda and Sri Aurobindo combined the universal spiritual message of Indian philosophy with modern scientific consciousness to establish it on the global stage."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "दर्शन समेकन: पुरुषार्थ-चतुष्टय (धर्म, अर्थ, काम, मोक्ष), वसुधैव कुटुम्बकम्, व्यावहारिक वेदांत!"
+      ],
+      "culturalNotes": [
+        "डॉ. सर्वपल्ली राधाकृष्णन के जन्मदिवस (5 सितंबर) को भारत में 'शिक्षक दिवस' के रूप में मनाया जाता है। वे प्रख्यात दार्शनिक, ऑक्सफोर्ड विश्वविद्यालय में प्राच्य धर्म के प्राध्यापक और भारत के दूसरे राष्ट्रपति थे।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"कक्षा\":",
+          "prompt": "भारतीय जीवन दर्शन में धर्म, अर्थ, काम और मोक्ष के चार सार्वभौमिक लक्ष्यों को क्या संज्ञा दी गई है?",
           "options": [
-            "हम इस पाठ में इकाई 29.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («परीक्षा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («परिणाम» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पुस्तकालय» का अनुचित स्थान)"
+            "पुरुषार्थ-चतुष्टय (Purushartha-Chatushtaya - The Fourfold Ultimate Aims of Human Life)",
+            "चार वेद (ऋग, यजुः, साम, अथर्व)",
+            "चार वर्ण (सामाजिक व्यवस्था)",
+            "चार धाम (तीर्थ स्थल)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "धर्म, अर्थ, काम और मोक्ष के चार लक्ष्यों को «पुरुषार्थ-चतुष्टय» कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"कक्षा\":",
+          "prompt": "'उदारचरितानां तु वसुधैव कुटुम्बकम्' (उदार हृदय वालों के लिए संपूर्ण पृथ्वी ही परिवार है) किस प्राचीन ग्रंथ का अमर सूत्र है?",
           "options": [
-            "हम इस पाठ में इकाई 29.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («परिणाम» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पुस्तकालय» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («परीक्षा» का अशुद्ध रूप)"
+            "महोपनिषद / हितोपदेश (Mahopanishad / Hitopadesha - Sanskrit ancient philosophical texts)",
+            "रेलवे गाइड (यात्रा पुस्तिका)",
+            "गणित बीजगणित (गणितीय सूत्र)",
+            "दुकान बहीखाता (लेखा-जोखा)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«वसुधैव कुटुम्बकम्» का उद्घोष महोपनिषद और हितोपदेश का प्रसिद्ध श्लोक है।"
         }
       ]
     },
@@ -12307,17 +12356,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"कक्षा\": Which sentence is completely correct?",
+          "prompt": "भारतीय दर्शन, नीतिशास्त्र व पुरुषार्थ चिंतन (Indian Philosophy & Ethical Synthesis) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 29.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पुस्तकालय» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («परीक्षा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («परिणाम» से संबंधित)"
+            "पुरुषार्थ-चतुष्टय का संतुलित संतुलन, आत्मज्ञान की खोज और 'वसुधैव कुटुम्बकम्' का नैतिक आदर्श ही भारतीय दर्शन को मानवता का शाश्वत पथप्रदर्शक बनाता है। (The harmonious balance of the Purusharthas, the quest for self-realization, and the ethical ideal of 'Vasudhaiva Kutumbakam' make Indian philosophy the eternal guide of humanity.)",
+            "भारतीय दर्शन का एकमात्र उद्देश्य लोगों को मूर्ख बनाना है।",
+            "मोक्ष का अर्थ है कि किसी परीक्षा में नकल करके भाग जाना।",
+            "नीतिशास्त्र को भूलकर केवल स्वार्थ साधना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«पुरुषार्थ-चतुष्टय का संतुलित संतुलन, आत्मज्ञान की खोज और 'वसुधैव कुटुम्बकम्'... शाश्वत पथप्रदर्शक बनाता है» भारतीय दर्शन का सर्वोत्कृष्ट वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u30-l1": {
