@@ -11145,53 +11145,62 @@
     "subject": "swahili",
     "unit": 27,
     "lessonNumber": 1,
-    "title": "Afya ya Jamii, Tiba na Epidemiolojia (Public Health) (Part 1)",
+    "title": "Epidemiolojia, Magonjwa ya Kuambukiza na Chanjo (Epidemiology & Vaccines)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.1) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa epidemiolojia (elimu ya milipuko), magonjwa ya kuambukiza, chanjo za kingamwili, virusi, bakteria, na mikakati ya karantini na udhibiti wa maambukizi.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Epidemiolojia, Magonjwa ya Kuambukiza na Chanjo (Epidemiology & Infectious Diseases):\n\nKatika kiwango cha C1, mwanafunzi anapaswa kumudu msamiati sanifu wa afya ya umma na sayansi ya tiba:\n\n1. **Msamiati Mahsusi wa Epidemiolojia na Kingamaradhi**:\n   - **Epidemiolojia (Epidemiology)**: Tawi la sayansi ya tiba linalochunguza mienendo, usambazaji na udhibiti wa magonjwa katika jamii.\n   - **Magonjwa ya kuambukiza (Infectious / Communicable Diseases)**: Magonjwa yanayoenezwa kutoka kwa mtu mmoja au mnyama hadi kwa mwingine kupitia hewa, maji, au mgusano.\n   - **Mlipuko wa ugonjwa (Outbreak)** na **Janga la kidunia (Pandemic)**.\n   - **Chanjo (Vaccine / Immunization)**: Dawa inayochochea mwili kutengeneza kingamwili dhidi ya ugonjwa fulani.\n   - **Kingamwili / Kingamaradhi (Antibodies / Immunity)**: Uwezo wa kiasili au wa kutengenezwa wa mfumo wa mwili kupambana na vimelea vya maradhi.\n   - **Vimelea vya maradhi (Pathogens)**: Vijidudu vinavyosababisha magonjwa kama vile *virusi (viruses)*, *bakteria (bacteria)*, au *fangasi (fungi)*.\n   - **Karantini (Quarantine)**: Kutenga wagonjwa au watu walioathirika ili kuzuia kuenea kwa ugonjwa.\n\n2. **Mnyambuliko na Upatanisho wa Vitenzi vya Kitiba**:\n   - *chanja* (vaccinate) -> *chanjo* (vaccine) -> *uchanjaji* (immunization process) -> *mchanjaji* (vaccinator).\n   - *ambukiza* (infect/transmit) -> *maambukizi* (infections) -> *ambukizo* (contagion).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 27."
+          "target": "Wataalamu wa epidemiolojia walifanya uchunguzi wa haraka wa kimaabara ili kubaini chanzo cha mlipuko wa homa na kuzuia maambukizi mapya.",
+          "reading": "Wa-ta-a-lu-mu wa epi-de-mio-lo-jia wa-li-fa-nya uchu-ngu-zi wa ha-ra-ka wa ki-ma-a-ba-ra i-li ku-ba-i-ni cha-nzo cha mli-pu-ko wa ho-ma na ku-zu-ia ma-a-mbu-ki-zi ma-pya. [wɑtɑɑˈlumu wɑ ɛpidɛmiɔlɔˈʤiɑ wɑliˈfɑɲɑ utʃuˈŋɡuzi wɑ hɑˈrɑkɑ wɑ kimɑɑˈbɑrɑ ˈili kubɑˈini ˈtʃɑnzɔ tʃɑ mliˈpukɔ wɑ ˈhɔmɑ nɑ kuˈzuiɑ mɑɑmbuˈkizi ˈmɑpjɑ] (wah-tah-ah-LOO-moo wah ay-pee-day-mee-oh-loh-JEE-ah wah-lee-FAH-nyah oo-choon-GOO-zee wah hah-RAH-kah wah kee-mah-ah-BAH-rah EE-lee koo-bah-EE-nee CHAHN-zoh chah m-lee-POO-koh wah HOH-mah nah koo-ZOO-ee-ah mah-ahm-boo-KEE-zee MAH-pyah)",
+          "translation": "Epidemiologists conducted prompt laboratory surveillance to determine the index source of the fever outbreak and preempt further transmissions."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 27-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kampeni ya kitaifa ya uchanjaji imewapa watoto wachanga kingamwili imara dhidi ya magonjwa hatari kama vile surua na polio.",
+          "reading": "Ka-mpe-ni ya ki-ta-i-fa ya ucha-nja-ji ime-wa-pa wa-to-to wcha-nga ki-nga-mwi-li i-ma-ra dhi-di ya ma-go-njwa ha-ta-ri ka-ma vi-le su-ru-a na po-lio. [kɑˈmpɛni jɑ kitɑˈifɑ jɑ utʃɑˈnʤɑʤi imɛˈwɑpɑ wɑˈtɔtɔ ˈwtʃɑŋɡɑ kiŋɡɑˈmwili iˈmɑrɑ ˈðidi jɑ mɑˈɡɔnʤwɑ hɑˈtɑri ˈkɑmɑ ˈvilɛ suˈruɑ nɑ ˈpɔliɔ] (kahm-PAY-nee yah kee-tah-EE-fah yah oo-chahn-JAH-jee ee-may-WAH-pah wah-TOH-toh W-CHAHN-gah keen-gah-MWEE-lee ee-MAH-rah THEE-dee yah mah-GOHN-jwah hah-TAH-ree KAH-mah VEE-lay soo-ROO-ah nah POH-lee-oh)",
+          "translation": "The national immunization drive conferred robust antibodies upon infants against perilous afflictions such as measles and poliomyelitis."
+        },
+        {
+          "target": "Kuweka wagonjwa katika karantini na kufuatilia watu waliotangamana nao ni mkakati muhimu wa kudhibiti maambukizi ya virusi katika jamii.",
+          "reading": "Ku-we-ka wa-go-njwa ka-ti-ka ka-ra-nti-ni na ku-fua-ti-lia wa-tu wa-li-o-ta-nga-ma-na na-o ni mka-ka-ti mhu-mi-mu wa ku-dhi-bi-ti ma-a-mbu-ki-zi ya vi-ru-si ka-ti-ka ja-mi-i. [kuˈwɛkɑ wɑˈɡɔnʤwɑ ˈkɑtikɑ kɑrɑˈntini nɑ kufuɑtiˈliɑ ˈwɑtu wɑliɔtɑŋɡɑˈmɑnɑ ˈnɑɔ ni mkɑˈkɑti mhuˈmimu wɑ kuðiˈbiti mɑɑmbuˈkizi jɑ viˈrusi ˈkɑtikɑ ʤɑˈmiː] (koo-WAY-kah wah-GOHN-jwah KAH-tee-kah kah-rahn-TEE-nee nah koo-foo-ah-tee-LEE-ah WAH-too wah-lee-oh-tahn-gah-MAH-nah NAH-oh nee m-kah-KAH-tee m-hoo-MEE-moo wah koo-thee-BEE-tee mah-ahm-boo-KEE-zee yah vee-ROO-see KAH-tee-kah jah-MEE-ee)",
+          "translation": "Subjecting infected patients to quarantine alongside contact tracing constitutes an indispensable strategy for curbing viral transmission within society."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Epidemiolojia na Chanjo: Epidemiolojia (epidemiology), Chanjo (vaccine), Kingamwili (antibodies), Mlipuko (outbreak), Karantini (quarantine)!"
+      ],
+      "culturalNotes": [
+        "Afrika Mashariki ina vituo vikuu vya utafiti wa magonjwa ya binadamu kama KEMRI nchini Kenya na NIMR nchini Tanzania vinavyoongoza tafiti za kimataifa za chanjo na tiba."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kuelewa\":",
+          "prompt": "Tawi la sayansi ya tiba linalochunguza mienendo, usambazaji, na udhibiti wa milipuko ya magonjwa katika jamii linaitwaje kwa Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kujua»",
-            "Mpangilio usio sahihi wa viambishi katika «Kufikiri»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kukumbuka»"
+            "Epidemiolojia (Epidemiology - Correct scientific term)",
+            "Uchumi mkuu",
+            "Sayansi ya nyota",
+            "Mnyororo wa usafiri"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Epidemiolojia» ndilo neno sanifu la kitaalamu linalomaanisha sayansi ya kuchunguza milipuko na usambazaji wa magonjwa."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kuelewa\":",
+          "prompt": "Protini maalum zinazotengenezwa na mfumo wa kinga ya mwili kupambana na vimelea vya maradhi (pathogens) zinaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Kufikiri»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kukumbuka»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kujua»"
+            "Kingamwili / Kingamaradhi (Antibodies - Correct biological term)",
+            "Vyakula vya mafuta",
+            "Hewa ya ukaa",
+            "Mitego ya ujangili"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Kingamwili» (antibodies) ndizo silaha za kibaolojia za mfumo wa kinga zinazotengenezwa baada ya maambukizi au chanjo."
         }
       ]
     },
@@ -11199,17 +11208,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kuelewa\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya maneno ya epidemiolojia na udhibiti wa magonjwa ya kuambukiza katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kukumbuka»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kujua»",
-            "Mpangilio usio sahihi wa viambishi katika «Kufikiri»"
+            "Epidemiolojia, Magonjwa ya kuambukiza, Mlipuko wa ugonjwa, Janga la kidunia, Chanjo, Kingamwili, Vimelea vya maradhi, Karantini.",
+            "Chanjo hutolewa ili kusababisha ujangili wa tembo.",
+            "Magonjwa ya kuambukiza hayawezi kudhibitiwa kwa usafi wala tiba.",
+            "Karantini ni sherehe ya harusi ya kimila."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Msamiati sahihi wa epidemiolojia: Epidemiolojia, Magonjwa ya kuambukiza, Mlipuko, Chanjo, Kingamwili, Vimelea, Karantini."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u27-l2": {
@@ -11217,53 +11227,62 @@
     "subject": "swahili",
     "unit": 27,
     "lessonNumber": 2,
-    "title": "Afya ya Jamii, Tiba na Epidemiolojia (Public Health) (Part 2)",
+    "title": "Magonjwa ya Kitropiki Yaliyosahaulika na Malaria (Tropical Diseases & Malaria Diagnostics)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.2) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa magonjwa ya kitropiki, mzunguko wa malaria (mbu anofelesi, plasmodiamu), dawa za mseto (ACTs), vyandarua vilivyotibiwa, kichocho, matende, na vipimo vya maabara.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Magonjwa ya Kitropiki na Mapambano Dhidi ya Malaria (Tropical Diseases & Vector-Borne Illnesses):\n\n1. **Msamiati Mahsusi wa Magonjwa ya Kitropiki na Malaria**:\n   - **Malaria**: Ugonjwa wa kuambukiza unaosababishwa na vimelea vya *plasmodiamu (Plasmodium parasites)* vinavyoenezwa na kung'atwa na mbu jike wa *anofelesi (female Anopheles mosquito)*.\n   - **Dawa za mseto (Artemisinin-based Combination Therapy - ACTs)**: Dawa sanifu za kisasa za kutibu malaria.\n   - **Chandarua chenye viuatilifu (Insecticide-Treated Mosquito Net - ITN)**: Kinga ya kulala ndani ya wavu uliotiwa dawa ya kuua mbu.\n   - **Kichocho (Schistosomiasis / Bilharzia)**: Ugonjwa unaosababishwa na minyoo ya maji baridi na konokono.\n   - **Matende na Mabusha (Lymphatic Filariasis / Elephantiasis)**: Ugonjwa unaosababisha kuvimba sana kwa miguu au sehemu za siri kutokana na minyoo ya filaria inayoenezwa na mbu.\n   - **Magonjwa ya kitropiki yaliyosahaulika (Neglected Tropical Diseases - NTDs)**.\n   - **Kipimo cha damu / Uchunguzi wa hadubini (Blood Smear / Microscopy)**.\n\n2. **Miundo ya Kisarufi ya Masharti ya Kitiba**:\n   - *Mgonjwa anapoonyesha dalili za homa kali, kutetemeka na kuumwa kichwa, anapaswa kupimwa damu mara moja.* (When a patient exhibits severe fever, shivering, and headache, they must undergo blood screening immediately.)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 27."
+          "target": "Ugawaji wa vyandarua vilivyotibiwa kwa viuatilifu na matumizi ya dawa za mseto umepunguza vifo vinavyotokana na malaria kwa kiasi kikubwa katika ukanda wa Afrika Mashariki.",
+          "reading": "Uga-wa-ji wa vya-nda-ru-a vi-li-vyo-ti-bi-wa kwa viu-a-ti-li-fu na ma-tu-mi-zi ya da-wa za mse-to ume-pu-ngu-za vi-fo vi-na-vyo-to-ka-na na ma-la-ria kwa kia-si ki-ku-bwa ka-ti-ka uka-nda wa Afri-ka Ma-sha-ri-ki. [uɡɑˈwɑʤi wɑ vjɑndɑˈruɑ vilivjɔtiˈbiwɑ kwɑ viuɑtiˈlifu nɑ mɑtuˈmizi jɑ ˈdɑwɑ zɑ ˈmsɛtɔ umɛpuˈŋɡuzɑ ˈvifɔ vinɑvjɔtɔˈkɑnɑ nɑ mɑˈlɑriɑ kwɑ kiˈɑsi kiˈkubwɑ ˈkɑtikɑ uˈkɑndɑ wɑ ˈɑfrikɑ mɑʃɑˈriki] (oo-gah-WAH-jee wah vyahn-dah-ROO-ah vee-lee-vyoh-tee-BEE-wah kwah vee-oo-ah-tee-LEE-foo nah mah-too-MEE-zee yah DAH-wah zah M-SAY-toh oo-may-poon-GOO-zah VEE-foh vee-nah-vyoh-toh-KAH-nah nah mah-LAH-ree-ah kwah kee-AH-see kee-KOO-bwah KAH-tee-kah oo-KAHN-dah wah AHF-ree-kah mah-shah-REE-kee)",
+          "translation": "Universal distribution of insecticide-treated bed nets alongside combination therapies [ACTs] has substantially depressed malaria-induced mortality across the East African zone."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 27-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Uchunguzi wa kimaabara ulithibitisha uwepo wa vimelea vya kichocho katika sampuli za mkojo na kinyesi za wanafunzi wanaoogelea mtoni.",
+          "reading": "Uchu-ngu-zi wa ki-ma-a-ba-ra uli-thi-bi-ti-sha uwe-po wa vi-me-le-a vya ki-cho-cho ka-ti-ka sa-mpu-li za mko-jo na knye-si za wa-na-nzi wa-na-o-o-ge-le-a mto-ni. [utʃuˈŋɡuzi wɑ kimɑɑˈbɑrɑ uliθibiˈtiʃɑ uˈwɛpɔ wɑ vimɛˈlɛɑ vjɑ kiˈtʃɔtʃɔ ˈkɑtikɑ sɑˈmpuli zɑ ˈmkɔʤɔ nɑ ˈkɲɛsi zɑ wɑˈnɑnzi wɑnɑɔɔɡɛˈlɛɑ mtɔˈni] (oo-choon-GOO-zee wah kee-mah-ah-BAH-rah oo-lee-thee-bee-TEE-shah oo-WAY-poh wah vee-may-LAY-ah vyah kee-CHOH-choh KAH-tee-kah SAHM-poo-lee zah m-KOH-joh nah K-NYAY-see zah wah-NAHN-zee wah-nah-oh-oh-gay-LAY-ah m-toh-NEE)",
+          "translation": "Laboratory microscopic diagnostics corroborated the presence of schistosomiasis ova within urine and stool specimens of students swimming in the river."
+        },
+        {
+          "target": "Watafiti wa tiba wanapambana kutokomeza magonjwa ya kitropiki yaliyosahaulika kupitia utoaji wa dawa za kinga kwa jamii nzima kila mwaka.",
+          "reading": "Wa-ta-fi-ti wa ti-ba wa-na-pa-mba-na ku-to-ko-me-za ma-go-njwa ya ki-tro-pi-ki ya-li-yo-sa-ha-u-li-ka ku-pi-tia uto-a-ji wa da-wa za ki-nga kwa ja-mi-i nzi-ma ki-la mwa-ka. [wɑtɑˈfiti wɑ ˈtibɑ wɑnɑpɑmbɑˈnɑ kutɔkɔˈmɛzɑ mɑˈɡɔnʤwɑ jɑ kitrɔˈpiki jɑlijɔsɑhɑuˈlikɑ kupiˈtiɑ utɔˈɑʤi wɑ ˈdɑwɑ zɑ ˈkiŋɡɑ kwɑ ʤɑˈmiː ˈnzimɑ ˈkilɑ ˈmwɑkɑ] (wah-tah-FEE-tee wah TEE-bah wah-nah-pahm-bah-NAH koo-toh-koh-MAY-zah mah-GOHN-jwah yah kee-troh-PEE-kee yah-lee-yoh-sah-hah-oo-LEE-kah koo-pee-TEE-ah oo-toh-AH-jee wah DAH-wah zah KEEN-gah kwah jah-MEE-ee N-ZEE-mah KEE-lah MWAH-kah)",
+          "translation": "Biomedical researchers endeavor to eradicate neglected tropical diseases through mass preventive chemotherapy campaigns administered annually across whole populations."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Malaria na Kitropiki: Malaria & Mbu anofelesi, Dawa za mseto (ACTs), Chandarua (treated net), Kichocho (bilharzia), Matende (filariasis)!"
+      ],
+      "culturalNotes": [
+        "Visiwa vya Zanzibar vimepiga hatua kubwa za kihistoria na kuwa mfano wa kimataifa katika kupunguza maambukizi ya malaria hadi kufikia karibu asilimia sifuri kupitia mifumo ya kidijitali ya ufuatiliaji."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kujua\":",
+          "prompt": "Mbu anayeeneza vimelea vya malaria aina ya plasmodiamu kwa binadamu anaitwaje kwa usahihi wa kisayansi na Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kufikiri»",
-            "Mpangilio usio sahihi wa viambishi katika «Kukumbuka»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kusema»"
+            "Mbu wa kike wa Anofelesi (Female Anopheles mosquito - Correct vector)",
+            "Nzi wa kawaida",
+            "Nyuki wa asali",
+            "Kipepeo wa msituni"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Mbu jike wa Anofelesi (female Anopheles) ndiye kimelea mkuu anayeeneza plasmodiamu ya malaria."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kujua\":",
+          "prompt": "Dawa sanifu za kisasa zinazochanganya viambato mbalimbali kutibu ugonjwa wa malaria zinaitwaje kwa Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Kukumbuka»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kusema»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kufikiri»"
+            "Dawa za mseto (Artemisinin-based combination therapy - ACTs - Correct pharmacology)",
+            "Chai ya rangi",
+            "Maji ya chumvi",
+            "Juisi ya miwa"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Dawa za mseto» (ACTs) ndiyo tiba rasmi inayopendekezwa kimataifa kutibu ugonjwa wa malaria."
         }
       ]
     },
@@ -11271,17 +11290,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kujua\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya magonjwa ya kitropiki na mbinu za udhibiti wa malaria katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kusema»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kufikiri»",
-            "Mpangilio usio sahihi wa viambishi katika «Kukumbuka»"
+            "Malaria, Mbu anofelesi, Vimelea vya plasmodiamu, Dawa za mseto (ACTs), Vyandarua vyenye viuatilifu, Kichocho, Matende na mabusha.",
+            "Malaria huenezwa kwa kula maembe mabichi.",
+            "Kichocho husababishwa na kucheza michezo ya kompyuta.",
+            "Hakuna haja ya kupima damu kabla ya kunywa dawa za malaria."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Istilahi sahihi: Malaria, Mbu anofelesi, Plasmodiamu, Dawa za mseto, Vyandarua vyenye viuatilifu, Kichocho, Matende."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u27-l3": {
@@ -11289,53 +11309,62 @@
     "subject": "swahili",
     "unit": 27,
     "lessonNumber": 3,
-    "title": "Afya ya Jamii, Tiba na Epidemiolojia (Public Health) (Part 3)",
+    "title": "Afya ya Msingi, Lishe Bora na Usafi wa Mazingira (Primary Healthcare, Nutrition & WASH)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.3) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa afya ya msingi (zahanati, wahudumu wa afya ngazi ya jamii), lishe na utapiamlo, uzazi salama, na usafi wa maji na mazingira (WASH) dhidi ya kipindupindu.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Afya ya Msingi, Lishe Bora na Usafi wa Mazingira (Primary Care & WASH):\n\n1. **Msamiati wa Huduma za Afya ya Msingi (PHC)**:\n   - **Huduma za afya ya msingi (Primary Health Care)**: Mfumo wa huduma za afya wa ngazi ya kwanza unaotolewa katika jamii.\n   - **Zahanati (Dispensary)** na **Kituo cha Afya (Health Center)**: Vituo vya matibabu vya ngazi ya kijiji na kata.\n   - **Wahudumu wa afya ngazi ya jamii (Community Health Workers - CHWs)**: Watu waliopewa mafunzo maalum kutoa elimu ya afya na huduma za kwanza vijijini.\n   - **Uzazi salama (Maternal & Child Health)**: Huduma za kliniki kwa wajawazito na watoto wachanga ili kupunguza vifo vya uzazi.\n\n2. **Msamiati wa Lishe na Maji Salama (WASH & Nutrition)**:\n   - **Utapiamlo (Malnutrition)**: Hali ya kiafya inayosababishwa na ukosefu wa virutubisho sahihi mwilini (k.m., *udubwana/kwashiorkor* na *kukonda/marasmus*).\n   - **Upungufu wa damu (Anemia)**: Hali ya kupungua kwa chembechembe nyekundu za damu au madini ya chuma.\n   - **Maji safi na salama (Potable Water)** na **Usafi wa mazingira (Sanitation & Hygiene - WASH)**.\n   - **Kipindupindu (Cholera)**: Ugonjwa hatari wa mlipuko unaosababishwa na bakteria wa *Vibrio cholerae* kupitia maji au chakula kilichochafuliwa.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 27."
+          "target": "Wahudumu wa afya ngazi ya jamii wanatembelea kaya mbalimbali vijijini kutoa elimu ya lishe bora, unyonyeshaji wa maziwa ya mama, na upimaji wa utapiamlo kwa watoto.",
+          "reading": "Wa-hu-du-mu wa a-fya nga-zi ya ja-mi-i wa-na-te-mbe-le-a ka-ya mba-li-mba-li vi-ji-ji-ni ku-to-a e-li-mu ya li-she bo-ra, unyo-nye-sha-ji wa ma-zi-wa ya ma-ma, na upi-ma-ji wa uta-pia-mlo kwa wa-to-to. [wɑhuduˈmu wɑ ˈɑfjɑ ˈŋɡɑzi jɑ ʤɑˈmiː wɑnɑtɛmbɛˈlɛɑ ˈkɑjɑ mbɑlimbɑˈli viʤiˈʤini kuˈtɔɑ ɛˈlimu jɑ ˈliʃɛ ˈbɔrɑ uɲɔɲɛˈʃɑʤi wɑ mɑˈziwɑ jɑ ˈmɑmɑ nɑ upiˈmɑʤi wɑ utɑpiˈɑmlɔ kwɑ wɑˈtɔtɔ] (wah-hoo-DOO-moo wah AHF-yah N-GAH-zee yah jah-MEE-ee wah-nah-taym-bay-LAY-ah KAH-yah m-bah-lee-m-BAH-lee vee-jee-JEE-nee koo-TOH-ah ay-LEE-moo yah LEE-shay BOH-rah, oo-nyoh-nyay-SHAH-jee wah mah-ZEE-wah yah MAH-mah, nah oo-pee-MAH-jee wah oo-tah-pee-AHM-loh kwah wah-TOH-toh)",
+          "translation": "Community health workers make domicile visitations across rural households dispensing guidance on optimal dietary habits, exclusive lactation, and pediatric malnutrition screening."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 27-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Upatikanaji wa maji safi na salama pamoja na ujenzi wa vyoo bora ni kinga kuu dhidi ya magonjwa ya milipuko kama kipindupindu na kuhara damu.",
+          "reading": "Upa-ti-ka-na-ji wa ma-ji sa-fi na sa-la-ma pa-mo-ja na uje-nzi wa vyoo bo-ra ni ki-nga ku-u dhi-di ya ma-go-njwa ya mli-pu-ko ka-ma ki-pi-ndu-pi-ndu na kuha-ra da-mu. [upɑtikɑˈnɑʤi wɑ ˈmɑʤi ˈsɑfi nɑ sɑˈlɑmɑ pɑˈmɔʤɑ nɑ uˈʤɛnzi wɑ ˈvjɔː ˈbɔrɑ ni ˈkiŋɡɑ ˈkuː ˈðidi jɑ mɑˈɡɔnʤwɑ jɑ mliˈpukɔ ˈkɑmɑ kipinduˈpindu nɑ kuhɑˈrɑ ˈdɑmu] (oo-pah-tee-kah-NAH-jee wah MAH-jee SAH-fee nah sah-LAH-mah pah-MOH-jah nah oo-JAYN-zee wah VYOH-oh BOH-rah nee KEEN-gah KOO-oo THEE-dee yah mah-GOHN-jwah yah m-lee-POO-koh KAH-mah kee-peen-doo-PEEN-doo nah koo-hah-RAH DAH-moo)",
+          "translation": "Access to sanitized potable water alongside construction of improved latrines is the primary bulwark against epidemic waterborne diseases like cholera and dysentery."
+        },
+        {
+          "target": "Zahanati za vijijini zimeboreshwa ili kutoa huduma za dharura za uzazi salama na kupunguza vifo vya akina mama na watoto wachanga.",
+          "reading": "Za-ha-na-ti za vi-ji-ji-ni zi-me-bo-re-shwa i-li ku-to-a hu-du-ma za dha-ru-ra za uza-zi sa-la-ma na kupu-ngu-za vi-fo vya a-ki-na ma-ma na wa-to-to wcha-nga. [zɑhɑˈnɑti zɑ viʤiˈʤini zimɛbɔrɛˈʃwɑ ˈili kuˈtɔɑ huduˈmɑ zɑ ðɑˈrurɑ zɑ uˈzɑzi sɑˈlɑmɑ nɑ kupuˈŋɡuzɑ ˈvifɔ vjɑ ɑkiˈnɑ ˈmɑmɑ nɑ wɑˈtɔtɔ ˈwtʃɑŋɡɑ] (zah-hah-NAH-tee zah vee-jee-JEE-nee zee-may-boh-ray-SHWAH EE-lee koo-TOH-ah hoo-DOO-mah zah thah-ROO-rah zah oo-ZAH-zee sah-LAH-mah nah koo-poon-GOO-zah VEE-foh vyah ah-kee-NAH MAH-mah nah wah-TOH-toh W-CHAHN-gah)",
+          "translation": "Rural dispensaries have undergone revitalization to furnish emergency maternal and obstetrical interventions, reducing perinatal and maternal mortality."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Afya ya Msingi na WASH: Zahanati (dispensary), Wahudumu wa jamii (CHWs), Lishe & Utapiamlo, Maji safi & Vyoo (WASH), Kipindupindu (cholera)!"
+      ],
+      "culturalNotes": [
+        "Katika nchi za Afrika Mashariki, msisitizo mkubwa umewekwa kwenye afya ya kinga (preventive healthcare) na uhamasishaji wa jamii badala ya kusubiri tiba ya hospitalini."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kufikiri\":",
+          "prompt": "Hali ya kiafya inayosababishwa na upungufu mkubwa wa virutubisho sahihi katika chakula cha mtoto inaitwaje katika Kiswahili sanifu?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kukumbuka»",
-            "Mpangilio usio sahihi wa viambishi katika «Kusema»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kusoma»"
+            "Utapiamlo (Malnutrition - Correct nutritional condition)",
+            "Ufahamu wa kompyuta",
+            "Mfumuko wa bei",
+            "Ushuru wa forodha"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Utapiamlo» ndilo neno sanifu la kuelezea ukosefu au upungufu wa lishe bora mwilini."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kufikiri\":",
+          "prompt": "Vituo vidogo vya matibabu vya ngazi ya kijiji vinavyotoa huduma za kwanza, chanjo na uzazi salama huitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Kusema»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kusoma»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kukumbuka»"
+            "Zahanati (Dispensaries / Primary Clinics - Correct healthcare facility)",
+            "Masoko ya hisa",
+            "Bandari za mizigo",
+            "Vyuo vikuu"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Zahanati» ndizo taasisi za afya za ngazi ya msingi katika mfumo wa afya wa jamii."
         }
       ]
     },
@@ -11343,17 +11372,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kufikiri\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya vipengele vya afya ya msingi, lishe na usafi wa mazingira katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kusoma»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kukumbuka»",
-            "Mpangilio usio sahihi wa viambishi katika «Kusema»"
+            "Huduma za afya ya msingi, Zahanati, Wahudumu wa jamii, Lishe bora, Utapiamlo, Uzazi salama, Maji safi na salama, Kinga ya kipindupindu.",
+            "Kipindupindu husababishwa na kula matunda safi yaliyosafishwa kwa maji salama.",
+            "Zahanati za vijijini hutumika kwa ajili ya kufuga nyuki pekee.",
+            "Watoto wachanga hawahitaji lishe bora wala maziwa ya mama."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Msamiati sahihi wa afya ya msingi na WASH: Afya ya msingi, Zahanati, Wahudumu wa jamii, Lishe bora, Utapiamlo, Uzazi salama, Maji safi, Kipindupindu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u27-l4": {
@@ -11361,53 +11391,62 @@
     "subject": "swahili",
     "unit": 27,
     "lessonNumber": 4,
-    "title": "Afya ya Jamii, Tiba na Epidemiolojia (Public Health) (Part 4)",
+    "title": "Magonjwa Yasiyo ya Kuambukiza na Tiba Asili dhidi ya Kisasa (NCDs & Pharmacology)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.4) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza (kisukari, shinikizo la damu, saratani), famasiolojia ya kisasa, na utafiti wa kisayansi wa mitishamba na tiba asili.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Magonjwa Sugu Yasiyo ya Kuambukiza na Famasiolojia (NCDs & Phytomedicine):\n\n1. **Msamiati wa Magonjwa Yasiyo ya Kuambukiza (NCDs)**:\n   - **Magonjwa yasiyo ya kuambukiza (Non-Communicable Diseases - NCDs)**: Magonjwa sugu yasiyoenezwa kutoka kwa mtu mmoja kwenda kwa mwingine bali yanatokana na chembe za urithi, mazingira au mtindo wa maisha.\n   - **Shinikizo la damu (Hypertension / High Blood Pressure)**.\n   - **Kisukari (Diabetes Mellitus)**: Hitilafu ya mwili katika kuchakata sukari kwenye damu kutokana na ukosefu au upinzani wa homoni ya insulini.\n   - **Saratani / Kansa (Cancer)**: Ukuaji usiodhibitiwa wa seli zisizo za kawaida mwilini.\n   - **Ugonjwa wa moyo (Cardiovascular Disease)**.\n\n2. **Tiba Asili, Mitishamba na Famasiolojia (Pharmacology & Herbal Medicine)**:\n   - **Tiba asili / Mitishamba (Phytotherapy / Herbal Medicine)**: Matumizi ya mimea ya asili (k.m., *mwarobaini, mlonge, tangawizi, kitunguu saumu*) kutibu maradhi.\n   - **Famasiolojia (Pharmacology)**: Sayansi inayochunguza utengenezaji, viambato vya kikemikali, na utendaji kazi wa dawa mwilini.\n   - **Uthibitisho wa kisayansi na majaribio ya kitabibu (Clinical Trials & Scientific Validation)**: Hatua za maabara za kuhakikisha dawa ni salama na inafanya kazi kwa ufanisi.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 27."
+          "target": "Ongezeko la magonjwa yasiyo ya kuambukiza kama vile kisukari na shinikizo la damu linahitaji mabadiliko ya mtindo wa maisha, ulaji bora, na mazoezi ya kila siku.",
+          "reading": "O-nge-ze-ko la ma-go-njwa ya-si-yo ya ku-a-mbu-ki-za ka-ma vi-le ki-su-ka-ri na shi-ni-ki-zo la da-mu li-na-hi-ti-ji ma-ba-di-li-ko ya mti-ndo wa ma-i-sha, ula-ji bo-ra, na ma-zo-e-zi ya ki-la si-ku. [ɔŋɡɛˈzɛkɔ lɑ mɑˈɡɔnʤwɑ jɑsiˈjɔ jɑ kuɑmbuˈkizɑ ˈkɑmɑ ˈvilɛ kisuˈkɑri nɑ ʃinikiˈzɔ lɑ ˈdɑmu linɑhiˈtiʤi mɑbɑdiˈlikɔ jɑ ˈmtindɔ wɑ mɑˈiʃɑ uˈlɑʤi ˈbɔrɑ nɑ mɑzɔˈɛzi jɑ ˈkilɑ ˈsiku] (ohn-gay-ZAY-koh lah mah-GOHN-jwah yah-see-YOH yah koo-ahm-boo-KEE-zah KAH-mah VEE-lay kee-soo-KAH-ree nah shee-nee-KEE-zoh lah DAH-moo lee-nah-hee-TEE-jee mah-bah-dee-LEE-koh yah M-TEEN-doh wah mah-EE-shah, oo-LAH-jee BOH-rah, nah mah-zoh-AY-zee yah KEE-lah SEE-koo)",
+          "translation": "The exponential surge in non-communicable diseases such as diabetes and hypertension mandates lifestyle recalibration, wholesome nutritional intake, and quotidian physical regimens."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 27-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wanasayansi wa famasia wanachunguza mitishamba ya asili kama vile mwarobaini na mlonge ili kutenganisha viambato hai vinavyoweza kutengeneza dawa salama za kisasa.",
+          "reading": "Wa-na-sa-ya-nsi wa fa-ma-sia wa-na-chu-ngu-za mi-ti-sha-mba ya a-si-li ka-ma vi-le mwa-ro-ba-i-ni na mlo-nge i-li ku-te-nga-ni-sha via-mba-to ha-i vi-na-vyo-we-za ku-te-nge-ne-za da-wa sa-la-ma za ki-sa-sa. [wɑnɑsɑˈjɑnsi wɑ fɑmɑˈsiɑ wɑnɑtʃuˈŋɡuzɑ mitiˈʃɑmbɑ jɑ ɑˈsili ˈkɑmɑ ˈvilɛ mwɑrɔbɑˈini nɑ ˈmlɔŋɡɛ ˈili kutɛŋɡɑˈniʃɑ viɑˈmbɑtɔ ˈhɑi vinɑvjɔˈwɛzɑ kutɛŋɡɛˈnɛzɑ ˈdɑwɑ sɑˈlɑmɑ zɑ kiˈsɑsɑ] (wah-nah-sah-YAHN-see wah fah-mah-SEE-ah wah-nah-choon-GOO-zah mee-tee-SHAHM-bah yah ah-SEE-lee KAH-mah VEE-lay mwah-roh-bah-EE-nee nah M-LOHN-gay EE-lee koo-tayn-gah-NEE-shah vee-ahm-BAH-toh HAH-ee vee-nah-vyoh-WAY-zah koo-tayn-gay-NAY-zah DAH-wah sah-LAH-mah zah kee-SAH-sah)",
+          "translation": "Pharmacological scientists investigate indigenous phytotherapeutic flora like neem [mwarobaini] and moringa [mlonge] to isolate bioactive compounds for safe modern therapeutics."
+        },
+        {
+          "target": "Ni muhimu kwa wagonjwa kutumia dawa zilizothibitishwa na mamlaka ya chakula na dawa badala ya kutegemea tiba zisizofanyiwa majaribio ya kisayansi.",
+          "reading": "Ni mhu-mi-mu kwa wa-go-njwa ku-tu-mia da-wa zi-li-zo-thi-bi-ti-shwa na ma-mla-ka ya cha-ku-la na da-wa ba-da-la ya ku-te-ge-me-a ti-ba si-zo-fa-nyi-wa ma-ja-ri-bio ya ki-sa-ya-nsi. [ni mhuˈmimu kwɑ wɑˈɡɔnʤwɑ kuˈtumiɑ ˈdɑwɑ zilizɔθibiˈtiʃwɑ nɑ mɑˈmlɑkɑ jɑ tʃɑˈkulɑ nɑ ˈdɑwɑ bɑˈdɑlɑ jɑ kutɛɡɛˈmɛɑ ˈtibɑ sizɔfɑˈɲiwɑ mɑʤɑriˈbiɔ jɑ kisɑˈjɑnsi] (nee m-hoo-MEE-moo kwah wah-GOHN-jwah koo-TOO-mee-ah DAH-wah zee-lee-zoh-thee-bee-TEESH-wah nah mah-m-LAH-kah yah chah-KOO-lah nah DAH-wah bah-DAH-lah yah koo-tay-gay-MAY-ah TEE-bah SEE-zoh-fah-NYEE-wah mah-jah-ree-BEE-oh yah kee-sah-YAHN-see)",
+          "translation": "It is critical for patients to ingest pharmaceutical regimens certified by statutory food and drug regulators rather than relying on unverified remedies devoid of clinical trials."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Magonjwa Sugu na Famasia: Kisukari (diabetes), Shinikizo la damu (hypertension), Saratani (cancer), Mitishamba (herbal plants), Famasia (pharmacology)!"
+      ],
+      "culturalNotes": [
+        "Mti wa mwarobaini unajulikana sana katika tamaduni za Waswahili kama 'mti wa kutibu maradhi arobaini' na unaendelea kufanyiwa tafiti za kisasa za kimaabara."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kukumbuka\":",
+          "prompt": "Hali ya shinikizo kubwa la damu kwenye mishipa ya ateri inayoweza kusababisha kiharusi au ugonjwa wa moyo inaitwaje kwa Kiswahili sanifu?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kusema»",
-            "Mpangilio usio sahihi wa viambishi katika «Kusoma»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kuandika»"
+            "Shinikizo la damu (Hypertension - Correct cardiovascular term)",
+            "Kipindupindu cha tumbo",
+            "Mabadiliko ya tabianchi",
+            "Hewa ya oksijeni"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Shinikizo la damu» ndilo jina sanifu la kitabibu kwa ugonjwa wa presha ya juu (hypertension)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kukumbuka\":",
+          "prompt": "Mti maarufu wa kitropiki unaojulikana sana Afrika Mashariki kwa kutumika kama tiba asili ya mitishamba kwa magonjwa mengi unaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Kusoma»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kuandika»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kusema»"
+            "Mwarobaini (Neem tree / Azadirachta indica - Correct medicinal plant)",
+            "Mnazi wa pwani",
+            "Mgomba wa ndizi",
+            "Mchungwa wa bustanini"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Mwarobaini» (mti wa arobaini) ni mti maarufu sana wa tiba asili katika ukanda wa Afrika Mashariki."
         }
       ]
     },
@@ -11415,17 +11454,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kukumbuka\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya magonjwa yasiyo ya kuambukiza na dhana za famasiolojia katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kuandika»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kusema»",
-            "Mpangilio usio sahihi wa viambishi katika «Kusoma»"
+            "Kisukari, Shinikizo la damu, Saratani, Magonjwa ya moyo, Tiba asili ya mitishamba, Mwarobaini, Famasia, Majaribio ya kisayansi.",
+            "Kisukari huambukizwa kwa kusalimiana kwa mikono.",
+            "Mitishamba yote inapaswa kutumiwa bila kujali vipimo wala usafi.",
+            "Magonjwa ya moyo yanatibika kwa kula sukari nyingi pekee."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Msamiati sahihi wa NCDs na famasia: Kisukari, Shinikizo la damu, Saratani, Moyo, Mitishamba, Mwarobaini, Famasia, Majaribio ya kisayansi."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u27-l5": {
@@ -11433,53 +11473,62 @@
     "subject": "swahili",
     "unit": 27,
     "lessonNumber": 5,
-    "title": "Afya ya Jamii, Tiba na Epidemiolojia (Public Health) (Part 5)",
+    "title": "Muhtasari wa Afya ya Jamii, Tiba na Epidemiolojia (Public Health & Medicine Grand Synthesis)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 27: epidemiolojia na chanjo, magonjwa ya kitropiki na utokomezaji wa malaria, huduma za afya ya msingi na lishe bora (WASH), pamoja na udhibiti wa magonjwa yasiyo ya kuambukiza na famasiolojia ya kisasa katika kiwango cha C1.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Afya ya Umma, Tiba na Epidemiolojia (Public Health & Medicine Master Matrix):\n\n1. **Ujumuishaji wa Taaluma Kuu za Kimatibabu za Kiwango cha C1**:\n   - **Epidemiolojia**: Uchunguzi wa milipuko ya maradhi, chanjo za kingamwili, virusi, bakteria, na mikakati ya karantini.\n   - **Magonjwa ya Kitropiki**: Mzunguko wa malaria (mbu anofelesi, plasmodiamu), dawa za mseto (ACTs), vyandarua vilivyotibiwa, kichocho na matende.\n   - **Afya ya Msingi & WASH**: Zahanati, wahudumu wa afya ngazi ya jamii, uzazi salama, kuzuia utapiamlo, na usafi wa maji dhidi ya kipindupindu.\n   - **Magonjwa Sugu & Famasia**: Kisukari, shinikizo la damu, saratani, mtindo bora wa maisha, na utafiti wa kisayansi wa mitishamba (mwarobaini, mlonge).\n\n2. **Ufasaha wa Kimawasiliano ya Kitaalamu**:\n   - Kumudu msamiati huu kunamwezesha daktari, mtafiti, au afisa wa afya ya jamii kutoa mafunzo, kuandika ripoti za kiuchunguzi, na kushiriki katika mikakati ya kimataifa ya afya (k.m. WHO, UNICEF, Africa CDC).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 27."
+          "target": "Mfumo imara wa afya ya jamii unajengwa juu ya ufuatiliaji thabiti wa epidemiolojia, upatikanaji wa chanjo na dawa za kisasa, uboreshaji wa lishe na maji safi, pamoja na udhibiti wa magonjwa sugu.",
+          "reading": "Mfu-mo i-ma-ra wa a-fya ya ja-mi-i una-je-ngwa ju-u ya ufu-a-ti-lia-ji tha-bi-ti wa epi-de-mio-lo-jia, upa-ti-ka-na-ji wa cha-njo na da-wa za ki-sa-sa, ubo-re-sha-ji wa li-she na ma-ji sa-fi, pa-mo-ja na udhi-bi-ti wa ma-go-njwa su-gu. [mfuˈmɔ iˈmɑrɑ wɑ ˈɑfjɑ jɑ ʤɑˈmiː unɑˈʤɛŋɡwɑ ˈʤuː jɑ kufuɑtiˈliɑʤi θɑˈbiti wɑ ɛpidɛmiɔlɔˈʤiɑ upɑtikɑˈnɑʤi wɑ ˈtʃɑnʤɔ nɑ ˈdɑwɑ zɑ kiˈsɑsɑ ubɔrɛˈʃɑʤi wɑ ˈliʃɛ nɑ ˈmɑʤi ˈsɑfi pɑˈmɔʤɑ nɑ uðiˈbiti wɑ mɑˈɡɔnʤwɑ ˈsuɡu] (m-FOO-moh ee-MAH-rah wah AHF-yah yah jah-MEE-ee oo-nah-JAYN-gwah JOO-oo yah koo-foo-ah-tee-lee-AH-jee thah-BEE-tee wah ay-pee-day-mee-oh-loh-JEE-ah, oo-pah-tee-kah-NAH-jee wah CHAHN-joh nah DAH-wah zah kee-SAH-sah, oo-boh-ray-SHAH-jee wah LEE-shay nah MAH-jee SAH-fee, pah-MOH-jah nah oo-thee-BEE-tee wah mah-GOHN-jwah SOO-goo)",
+          "translation": "An impregnable public healthcare architecture rests upon rigorous epidemiological surveillance, universal access to vaccines and state-of-the-art pharmacology, nutritional and sanitary enrichment, alongside chronic disease mitigation."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 27-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kuanzia tafiti za kimaabara za kutokomeza malaria hadi elimu ya afya ya msingi vijijini, lugha ya Kiswahili inathibitisha utajiri wake wa msamiati wa kimatibabu unaofikisha ujumbe wa kisayansi kwa jamii yote.",
+          "reading": "Ku-a-nzia ta-fi-ti za ki-ma-a-ba-ra za ku-to-ko-me-za ma-la-ria ha-di e-li-mu ya a-fya ya msi-ngi vi-ji-ji-ni, lu-gha ya Ki-swa-hi-li ina-thi-bi-ti-sha uta-ji-ri wa-ke wa msa-mia-ti wa ki-ma-ti-ba-bu una-o-fi-ki-sha uju-mbe wa ki-sa-ya-nsi kwa ja-mi-i yo-te. [kuˈɑnziɑ tɑˈfiti zɑ kimɑɑˈbɑrɑ zɑ kutɔkɔˈmɛzɑ mɑˈlɑriɑ ˈhɑdi ɛˈlimu jɑ ˈɑfjɑ jɑ ˈmsiŋɡi viʤiˈʤini ˈluɣɑ jɑ kiswɑˈhili inɑθibiˈtiʃɑ utɑˈʤiri ˈwɑkɛ wɑ msɑmiˈɑti wɑ kimɑtiˈbɑbu unɑɔfikiˈʃɑ uˈʤumbɛ wɑ kisɑˈjɑnsi kwɑ ʤɑˈmiː ˈjɔtɛ] (koo-AHN-zee-ah tah-FEE-tee zah kee-mah-ah-BAH-rah zah koo-toh-koh-MAY-zah mah-LAH-ree-ah HAH-dee ay-LEE-moo yah AHF-yah yah M-SEEN-gee vee-jee-JEE-nee, LOO-gah yah kee-swah-HEE-lee ee-nah-thee-bee-TEE-shah oo-tah-JEE-ree WAH-kay wah m-sah-mee-AH-tee wah kee-mah-tee-BAH-boo oo-nah-oh-fee-KEE-shah oo-JOOM-bay wah kee-sah-YAHN-see kwah jah-MEE-ee YOH-tay)",
+          "translation": "From laboratory investigations targeting malaria eradication to grassroots primary healthcare sensitization in rural villages, the Swahili language proves its clinical vocabulary richness conveying scientific knowledge across society."
+        },
+        {
+          "target": "Umahiri wa istilahi za afya ya umma, tiba, na epidemiolojia unamwezesha mtaalamu kuandika sera za afya, kuratibu tafiti za kitiba, na kuongoza mikakati ya ustawi wa jamii.",
+          "reading": "Uma-hi-ri wa i-sti-la-hi za a-fya ya u-mma, ti-ba, na epi-de-mio-lo-jia una-mwe-ze-sha mta-a-lu-ma kua-ndi-ka se-ra za a-fya, ku-ra-ti-bu ta-fi-ti za ki-ti-ba, na kuo-ngo-za mi-ka-ka-ti ya usta-wi wa ja-mi-i. [umɑˈhiri wɑ istiˈlɑhi zɑ ˈɑfjɑ jɑ ˈummɑ ˈtibɑ nɑ ɛpidɛmiɔlɔˈʤiɑ unɑmwɛzɛˈʃɑ mtɑɑˈlumɑ kuɑˈndikɑ ˈsɛrɑ zɑ ˈɑfjɑ kurɑˈtibu tɑˈfiti zɑ kiˈtibɑ nɑ kuɔˈŋɡɔzɑ mikɑˈkɑti jɑ uˈstɑwi wɑ ʤɑˈmiː] (oo-mah-HEE-ree wah ees-tee-LAH-hee zah AHF-yah yah OOM-mah, TEE-bah, nah ay-pee-day-mee-oh-loh-JEE-ah oo-nah-mway-ZAY-shah m-tah-ah-LOO-mah koo-ahn-DEE-kah SAY-rah zah AHF-yah, koo-rah-TEE-boo tah-FEE-tee zah kee-TEE-bah, nah koo-ohn-GOH-zah mee-kah-KAH-tee yah oo-STAH-wee wah jah-MEE-ee)",
+          "translation": "Mastery of public health, medical, and epidemiological terminology equips a specialist to author healthcare policies, coordinate clinical research, and direct societal welfare strategies."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Afya na Tiba Grand Synthesis: Epidemiolojia & Chanjo; Malaria & Kitropiki; Afya ya msingi & WASH; Magonjwa sugu & Famasia!"
+      ],
+      "culturalNotes": [
+        "Lugha ya Kiswahili inatumika kama lugha kuu ya kufundishia na kuelimisha wagonjwa katika hospitali zote za wilaya, mikoa, na rufaa za Afrika Mashariki."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kusema\":",
+          "prompt": "Mchanganyiko upi unawakilisha nguzo kuu za mfumo thabiti wa afya ya jamii na tiba katika jamii za kisasa?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kusoma»",
-            "Mpangilio usio sahihi wa viambishi katika «Kuandika»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kusikiliza»"
+            "Epidemiolojia na chanjo, mapambano ya malaria na magonjwa ya kitropiki, afya ya msingi na usafi wa mazingira (WASH), pamoja na udhibiti wa magonjwa sugu na famasiolojia (Comprehensive public health pillars)",
+            "Kunywa maji machafu ya madimbwi na kukataa chanjo zote",
+            "Kufunga zahanati na vituo vyote vya afya vya vijijini",
+            "Kutumia dawa zilizopitwa na wakati bila ushauri wa daktari"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Afya thabiti inajengwa kwa epidemiolojia, chanjo, malaria/kitropiki, afya ya msingi/WASH, na udhibiti wa magonjwa sugu na famasia."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kusema\":",
+          "prompt": "Sentensi ipi inajumuisha msamiati wa epidemiolojia, chanjo na afya ya msingi kwa usahihi wa kiwango cha C1?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Kuandika»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kusikiliza»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kusoma»"
+            "Kupitia ufuatiliaji wa epidemiolojia na utoaji wa chanjo zahanatini, wahudumu wa afya wamefanikiwa kudhibiti milipuko ya magonjwa ya kuambukiza. (Through epidemiological surveillance and vaccine administration at dispensaries, health workers succeeded in controlling infectious disease outbreaks - Correct C1 synthesis)",
+            "Wagonjwa wote wanashauriwa kukimbia zahanati wakati wa mlipuko wa homa.",
+            "Chanjo hutumiwa kwa ajili ya kulishia samaki baharini.",
+            "Wahudumu wa afya hawana ujuzi wowote wa kutibu magonjwa."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Sentensi inajumuisha maneno mahsusi ya C1: «ufuatiliaji wa epidemiolojia», «utoaji wa chanjo zahanatini», «wahudumu wa afya», na «kudhibiti milipuko ya magonjwa ya kuambukiza»."
         }
       ]
     },
@@ -11487,17 +11536,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kusema\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 27 ya Afya ya Jamii, Tiba na Epidemiolojia:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kusikiliza»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kusoma»",
-            "Mpangilio usio sahihi wa viambishi katika «Kuandika»"
+            "Kuanzia ufuatiliaji wa epidemiolojia na chanjo, mapambano dhidi ya malaria na magonjwa ya kitropiki, uboreshaji wa zahanati na maji safi ya WASH, hadi udhibiti wa kisukari, saratani na tafiti za famasia ya mitishamba, mfumo wa afya ya jamii unalinda ustawi wa wananchi wote. (Apex C1 synthesis of epidemiology, tropical medicine, primary care, and chronic pharmacology.)",
+            "Magonjwa yote ya binadamu yalitokomezwa katika karne ya kumi na tisa.",
+            "Hakuna madaktari wala watafiti wa tiba katika bara zima la Afrika.",
+            "Lugha ya Kiswahili haiwezi kutumika kufundishia sayansi ya tiba wala famasiolojia."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kuanzia ufuatiliaji wa epidemiolojia na chanjo, mapambano dhidi ya malaria na magonjwa ya kitropiki, uboreshaji wa zahanati na maji safi ya WASH, hadi udhibiti wa kisukari, saratani na tafiti za famasia ya mitishamba, mfumo wa afya ya jamii unalinda ustawi wa wananchi wote.» inajumuisha maarifa yote ya Unit 27 kwa ufasaha wa hali ya juu wa C1."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u28-l1": {
