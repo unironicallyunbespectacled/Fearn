@@ -3765,53 +3765,62 @@
     "subject": "cantonese",
     "unit": 9,
     "lessonNumber": 1,
-    "title": "買嘢、價錢同找錢 (Shopping & Currency) (第1課)",
+    "title": "購物詢價與度量衡：「幾多錢話？」、「秤兩斤」 (Inquiring Prices & Cantonese Weights and Measures)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元9第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語市集詢價核心句式、傳統嶺南度量衡單位（斤、兩、磅、打）及街市買餸實用語彙。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在香港傳統街市、果欄、海鮮檔或各類雜貨商舖選購物品時，詢問價格與衡量貨物擁有一套極富嶺南文化底蘊之傳統度量衡語言體系與日常商貿交流習慣：\n\n一、道地詢價核心句式結構全景深度剖析：\n１．「呢個幾多錢話？」（nei1 go3 gei2 do1 cin2 waa2？）：這個多少錢來著？句尾語氣助詞「話」帶有再次確認、提示檔主或親切探詢之語氣，乃港澳街市最自然地道之詢價句式。\n２．「啲菜點樣賣呀？」（di1 coi3 dim2 joeng2 maai6 aa3？）：這些青菜怎麼賣呀？用於向攤檔老闆詢問計價方式與售價標準。\n３．「幾多錢一斤 / 幾多錢一磅？」（gei2 do1 cin2 jat1 gan1 / jat1 bong6？）：每斤或每磅的具體單價是多少？\n\n二、傳統與現代度量衡計量單位深度解析：\n１．「斤」（gan1）：嶺南傳統司馬斤，一斤嚴格等於十六兩，約等於六百零四點八克（重量明顯高於內地通行之五百克市斤標準）。成語「半斤八兩」正源於此嶺南十六兩制古法。\n２．「兩」（loeng2）：司馬兩，一斤之十六分之一，約等於三十七點八克。香港街市售賣海鮮魚蝦、名貴中藥材、金銀首飾及參茸燕窩時，普遍以「兩」為計價結算基準。\n３．「磅」（bong6）：英制重量單位磅，約等於四百五十三點六克。香港大型連鎖超級市場、進口優質水果攤檔及急凍肉類專門店常以「磅」作為標準標價計量單位。\n４．「打」（daa1）：量詞打，一打等於十二個單位。例如「一打雞蛋」（十二隻雞蛋）、「兩打熱蛋撻」（二十四隻蛋撻）。\n\n三、街市挑選選購動詞搭配：\n「秤兩斤菜心」（cing3 loeng5 gan1 coi3 sam1，稱兩斤菜心）；「執兩斤靚蘋果」（zap1 loeng5 gan1 leng3 ping4 gwo2，挑選兩斤優質蘋果）；「搭多兩棵蔥」（daap3 do1 loeng5 po1 cung1，買菜結帳時請攤主順手附贈幾根調味香蔥）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 9 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 9 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 9 in communication."
+          "target": "老闆，呢啲新鮮海蝦幾多錢一斤話？唔該幫我秤斤半。",
+          "reading": "lou5 baan2, ni1 di1 san1 sin1 hoi2 haa1 gei2 do1 cin2 jat1 gan1 waa2? m4 goi1 bong1 ngo5 cing3 gan1 bun3. [lou˧˥ paːn˧˥, niː˥ tiː˥ sɐn˥ siːn˥ hɔːi˧˥ haː˥ kei˧˥ tɔː˥ tsʰiːn˧˥ jɐt̚˥ kɐn˥ waː˧˥? m̩˨˩ kɔːi˥ pɔːŋ˥ ŋɔː˩˧ tsʰɪŋ˧ kɐn˥ puːn˧] (LOH-BAHN, NEE-DEE SUN-SEEN HOY-HAH GAY-DOH-CHEEN YUT-GUN WAH? M-GOY BONG NGOH CHING GUN-BOON)",
+          "translation": "Boss, how much is a catty of these fresh sea prawns again? Please weigh a catty and a half for me."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元9-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "今日啲澳洲甜橙好靚，三十蚊一打，買兩打仲送多兩個。",
+          "reading": "gam1 jat6 di1 ou3 zau1 tim4 caang2 hou2 leng3, saam1 sap6 man1 jat1 daa1, maai5 loeng5 daa1 zung6 sung3 do1 loeng5 go3. [kɐm˥ jɐt˨ tiː˥ ou˧ tsɐu˥ tʰiːm˨˩ tsʰaːŋ˧˥ hou˧˥ lɛːŋ˧, saːm˥ sɐp̚˨ mɐn˥ jɐt̚˥ taː˥, maːi˩˧ lœːŋ˩˧ taː˥ tsʊŋ˨ sʊŋ˧ tɔː˥ lœːŋ˩˧ kɔː˧] (GUM-YUT DEE OH-JAU TEEM-CHAHNG HOH-LENG, SAHM-SUP-MUN YUT-DAH, MY LEUNG-DAH JOONG SOONG DOH LEUNG-GOH)",
+          "translation": "Today's Australian sweet oranges are very nice, thirty dollars a dozen; buy two dozen and get two extra free."
+        },
+        {
+          "target": "買半斤菜心同埋一條鯇魚，夾埋一共八十五蚊。",
+          "reading": "maai5 bun3 gan1 coi3 sam1 tung4 maai4 jat1 tiu4 waan5 jyu2, gaap3 maai4 jat1 gung6 baat3 sap6 ng5 man1. [maːi˩˧ puːn˧ kɐn˥ tsʰɔːi˧ sɐm˥ tʰʊŋ˨˩ maːi˨˩ jɐt̚˥ tʰiːu˨˩ waːn˩˧ jyː˧˥, kaːp̚˧ maːi˨˩ jɐt̚˥ kʊŋ˨ paːt̚˧ sɐp̚˨ ŋ̍˩˧ mɐn˥] (MY BOON-GUN CHOY-SUM TOONG-MY YUT-TEW WAHN-YOO, GAHP-MY YUT-GOONG BAHT-SUP-NG-MUN)",
+          "translation": "Buying half a catty of choy sum and a grass carp, totaling eighty-five dollars altogether."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【街市買餸訣】司馬一斤十六兩，買蝦買菜秤分明；問價多添「幾多話」，夾埋計數最精明！"
+      ],
+      "culturalNotes": [
+        "香港傳統街市（如中環街市、灣仔街市、油麻地街市）至今仍廣泛沿用「司馬斤兩制」及傳統桿秤。到街市買菜時，檔主習慣順手搭送一小把蔥或芫荽，稱為「送棵蔥 / 搭棵蔥」，展現濃郁街坊人情味。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"屋企\":",
+          "prompt": "【度量衡計量】在香港海鮮檔買蝦，檔主問「要幾多？」，你欲購買半斤，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：客廳錯置）",
-            "混雜生硬詞彙之不規範語句（例項：廚房未適配）",
-            "聲調助詞搭配欠妥之表達（例項：睡房誤用）"
+            "唔該要半斤 (m4 goi1 jiu3 bun3 gan1)",
+            "唔該要半打",
+            "唔該要半條",
+            "唔該要半間"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「半斤」（bun3 gan1）指半司馬斤（八兩）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"屋企\":",
+          "prompt": "【語句探詢】向水果檔店主詢問富士蘋果價格，最地道之問法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：廚房未適配）",
-            "聲調助詞搭配欠妥之表達（例項：睡房誤用）",
-            "語序顛倒嘅非標準句式（例項：客廳錯置）"
+            "呢啲富士蘋果幾多錢一磅話？ (ni1 di1 fu3 si6 ping4 gwo2 gei2 do1 cin2 jat1 bong6 waa2?)",
+            "呢啲富士蘋果有冇得搭枱？",
+            "呢啲富士蘋果印張收據未？",
+            "呢啲富士蘋果轉線出閘未？"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「幾多錢一磅話？」（gei2 do1 cin2 jat1 bong6 waa2）係詢價最地道自然之口語表達。"
         }
       ]
     },
@@ -3819,15 +3828,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"屋企\": Which sentence is completely correct?",
+          "prompt": "【度量衡換算】在香港傳統街市中，一「司馬斤」等於幾多「兩」？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：睡房誤用）",
-            "語序顛倒嘅非標準句式（例項：客廳錯置）",
-            "混雜生硬詞彙之不規範語句（例項：廚房未適配）"
+            "十六兩 (sap6 luk6 loeng2)",
+            "十兩",
+            "十二兩",
+            "二十兩"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "香港傳統司馬斤為十六兩制（半斤八兩）。"
         }
       ],
       "passThreshold": 0.8
@@ -3838,53 +3847,62 @@
     "subject": "cantonese",
     "unit": 9,
     "lessonNumber": 2,
-    "title": "買嘢、價錢同找錢 (Shopping & Currency) (第2課)",
+    "title": "找續與零錢運算：「找錢」、「散銀」、「毫子」 (Giving Change & Coins)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元9第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語貨幣單位（蚊、毫子、仙）、找續算術表達（找返、唱錢）及零錢日常用語（散銀、散紙）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語中之貨幣計量與找續算術擁有獨特而嚴謹之專用詞彙與語法搭配體系，精確反映嶺南商業社會之交易精細度：\n\n一、貨幣計量單位名稱詳細剖析：\n１．「蚊 / 蚊銀」（man1）：港幣元整數單位（例如「十蚊」代表十港元、「一百蚊」代表一百港元、「一千蚊」代表一千港元整）。\n２．「毫子 / 毫」（hou4 zi2 / hou4）：一角或十分之一港元（例如「一毫」代表一角硬幣、「兩毫」代表兩角硬幣、「五毫」代表五角硬幣）。\n３．「個半」（go3 bun3）：一元五角（即一塊半港幣）；「五個二」（ng5 go3 ji6）：五元兩角；「八個八」（baat3 go3 baat3）：八元八角。\n\n二、零錢找續與貨幣兌換專用動詞深度掌握：\n１．「散銀 / 散紙」（saan2 ngan2 / saan2 zi2）：金屬硬幣碎銀或小面額流通紙幣。\n２．「找錢 / 找續」（zaau2 cin2 / zaau2 zuk6）：找回多餘零錢；「找返」（zaau2 faan1）：將剩餘零錢找回給買家（例如「找返二十蚊畀你」）。\n３．「唱錢」（coeng3 cin2）：破開大額面值鈔票換取零散小錢或兌換外幣（例如「唔該幫我唱散張五百蚊紙做五張一百蚊」）。\n\n三、找續對話運算實例剖析：\n- 「收你五百蚊大牛一張，買嘢用咗一百二十蚊，找返三百八十蚊畀你，請數清楚點收妥當！」",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 9 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 9 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 9 in communication."
+          "target": "收你一張五百蚊紙，買嘢用咗六十七個半，找返四百三十二個半畀你。",
+          "reading": "sau1 nei5 jat1 zoeng1 ng5 baak3 man1 zi2, maai5 je5 jung6 zo2 luk6 sap6 cat1 go3 bun3, zaau2 faan1 sei3 baak3 saam1 sap6 ji6 go3 bun3 bei2 nei5. [sɐu˥ nei˩˧ jɐt̚˥ tsœːŋ˥ ŋ̍˩˧ paːk̚˧ mɐn˥ tsiː˧˥, maːi˩˧ jɛː˩˧ jʊŋ˨ tsɔː˧˥ lʊk˨ sɐp̚˨ tsʰɐt̚˥ kɔː˧ puːn˧, tsaːu˧˥ faːn˥ sei˧ paːk̚˧ saːm˥ sɐp̚˨ jiː˨ kɔː˧ puːn˧ pei˧˥ nei˩˧] (SAU NEI YUT-JEUNG NG-BAHK-MUN JEE, MY-YEH YOONG-JOR LUK-SUP-CHUT-GOH-BOON, JAU-FAHN SAY-BAHK-SAHM-SUP-YEE-GOH-BOON BAY NEI)",
+          "translation": "Received a five-hundred-dollar note from you; purchases cost sixty-seven fifty, returning four hundred thirty-two fifty in change to you."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元9-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "唔好意思，我手頭上冇散紙，可唔可以幫我唱散張一千蚊大牛呀？",
+          "reading": "m4 hou2 ji3 si3, ngo5 sau2 tau4 soeng6 mou5 saan2 zi2, ho2 m4 ho2 ji5 bong1 ngo5 coeng3 saan2 zoeng1 jat1 cin1 man1 daai6 ngau4 aa3? [m̩˨˩ hou˧˥ jiː˧ siː˧, ŋɔː˩˧ sɐu˧˥ tʰɐu˨˩ sœːŋ˨ mou˩˧ saːn˧˥ tsiː˧˥, hɔː˧˥ m̩˨˩ hɔː˧˥ jiː˩˧ pɔːŋ˥ ŋɔː˩˧ tsʰœːŋ˧ saːn˧˥ tsœːŋ˥ jɐt̚˥ tsʰiːn˥ mɐn˥ taːi˨ ŋɐu˨˩ aː˧?] (M-HOH-YEE-SEE, NGOH SAU-TAU-SEUNG MOU SAHN-JEE, HOH-M-HOH-YEE BONG NGOH CHEUNG-SAHN JEUNG YUT-CHEEN-MUN DY-NGAU AH?)",
+          "translation": "Excuse me, I have no small change on hand; could you help me break this one-thousand-dollar note into smaller bills?"
+        },
+        {
+          "target": "個銀包塞滿晒一毫、兩毫同五毫子嘅散銀，好沉重呀。",
+          "reading": "go3 ngan4 baau1 sak1 mun2 saai3 jat1 hou4, loeng5 hou4 tung4 ng5 hou4 zi2 ge3 saan2 ngan2, hou2 cam4 zung6 aa3. [kɔː˧ ŋɐn˨˩ paːu˥ sɐk̚˥ muːn˧˥ saːi˧ jɐt̚˥ hou˨˩, lœːŋ˩˧ hou˨˩ tʰʊŋ˨˩ ŋ̍˩˧ hou˨˩ tsiː˧˥ kɛː˧ saːn˧˥ ŋɐn˨˩, hou˧˥ tsʰɐm˨˩ tsʊŋ˨ aː˧] (GOH NGUN-BAU SUK-MOON-SY YUT-HOU, LEUNG-HOU TOONG NG-HOU-JEE GEH SAHN-NGUN, HOH CHUM-JOONG AH)",
+          "translation": "The wallet is completely stuffed with 10-cent, 20-cent, and 50-cent coins, which is very heavy."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【找錢算術訣】買嘢畀錢講「蚊銀」，一角二角叫「毫子」；找零退回用「找返」，大鈔唱散換「散紙」！"
+      ],
+      "culturalNotes": [
+        "香港俗語對大面額紙幣有專屬外號：一千元紙幣俗稱「金牛 / 大牛」（因早期匯豐千元鈔票呈金黃色），五百元紙幣俗稱「大牛 / 大棉胎 / 啡牛」，一百元俗稱「紅衫仔」，五十元俗稱「藍精靈」，二十元俗稱「花蟹 / 藍蟹 / 綠蟹」。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"客廳\":",
+          "prompt": "【零錢兌換】欲請店員將一張 500 元大鈔破開換成零錢，最地道之粵語說法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：廚房錯置）",
-            "混雜生硬詞彙之不規範語句（例項：睡房未適配）",
-            "聲調助詞搭配欠妥之表達（例項：洗手間誤用）"
+            "唔該幫我唱散張五百蚊紙。 (m4 goi1 bong1 ngo5 coeng3 saan2 zoeng1 ng5 baak3 man1 zi2.)",
+            "唔該幫我埋單張五百蚊紙。",
+            "唔該幫我增值張五百蚊紙。",
+            "唔該幫我打包張五百蚊紙。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「唱散」（coeng3 saan2）意為把大額紙幣兌換為零錢。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"客廳\":",
+          "prompt": "【找零計算】購物花費 35 元，顧客付 50 元，店員找回 15 元零錢時應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：睡房未適配）",
-            "聲調助詞搭配欠妥之表達（例項：洗手間誤用）",
-            "語序顛倒嘅非標準句式（例項：廚房錯置）"
+            "找返十五蚊畀你，唔該晒！ (zaau2 faan1 sap6 ng5 man1 bei2 nei5, m4 goi1 saai3!)",
+            "增值十五蚊畀你！",
+            "買單十五蚊畀你！",
+            "行街十五蚊畀你！"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「找返……畀你」（zaau2 faan1...bei2 nei5）係找回零錢之標準用語。"
         }
       ]
     },
@@ -3892,15 +3910,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"客廳\": Which sentence is completely correct?",
+          "prompt": "【俚語識別】在香港俗語中，「金牛 / 大牛」通常指代面額幾多之紙幣？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：洗手間誤用）",
-            "語序顛倒嘅非標準句式（例項：廚房錯置）",
-            "混雜生硬詞彙之不規範語句（例項：睡房未適配）"
+            "一千蚊紙 (jat1 cin1 man1 zi2 / $1000 note)",
+            "五百蚊紙 ($500 note)",
+            "一百蚊紙 ($100 note)",
+            "五十蚊紙 ($50 note)"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "香港俗稱一千元港幣紙幣為「金牛 / 大牛」。"
         }
       ],
       "passThreshold": 0.8
@@ -3911,53 +3929,62 @@
     "subject": "cantonese",
     "unit": 9,
     "lessonNumber": 3,
-    "title": "買嘢、價錢同找錢 (Shopping & Currency) (第3課)",
+    "title": "討價還價與促銷術語：「平啲啦」、「買一送一」、「減價」 (Bargaining & Promotions)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元9第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握排檔買賣講價常用對話（平啲啦、計平少少）及商家促銷術語（減價、特價、折、買一送一）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在香港女人街、鴨寮街排檔、海味乾貨店或一般零售商舖購物時，靈活運用討價還價與折扣促銷詞彙能達到良好之地道商貿交流效果：\n\n一、討價還價實用句式矩陣深度解析：\n１．「老闆，平啲啦！」（lou5 baan2, peng4 di1 laa1！）：老闆，便宜一點吧！此乃全港最通用流行之講價日常口語。\n２．「計平少少得唔得呀？」（gai3 peng4 siu2 siu2 dak1 m4 dak1 aa3？）：算便宜一點點行不行呀？態度客氣懇切，易獲折扣。\n３．「我買多幾件，畀個批發折頭啦。」（ngo5 maai5 do1 gei2 gin6, bei2 go3 pai1 faat3 zit3 tau4 laa1.）：我多買幾件商品，請給予適度之批發折扣優惠吧。\n\n二、商家促銷活動與折扣術語解析：\n１．「大減價 / 減價」（daai6 gaam2 gaa3 / gaam2 gaa3）：降價促銷特賣活動或季末大清貨。\n２．「特價 / 特價品」（dak6 gaa3 / dak6 gaa3 ban2）：特價優惠推廣商品。\n３．「折」（zit3）：粵語折扣計算以折減成數為基準（例如「八折」baat3 zit3 即按原價百分之八十出售、減價兩成；「七折」即減價三成；「半價」bun3 gaa3 即五折半價優惠）。\n４．「買一送一」（maai5 jat1 sung3 jat1）：購買一件正價商品即可免費獲贈一件同類商品。\n５．「買滿二百減五十」（maai5 mun5 loeng5 baak3 gaam2 ng5 sap6）：消費滿額立減促銷推廣模式。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 9 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 9 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 9 in communication."
+          "target": "老闆，呢件外套標價三百八，平啲賣三百蚊得唔得呀？",
+          "reading": "lou5 baan2, ni1 gin6 ngoi6 tou3 biu1 gaa3 saam1 baak3 baat3, peng4 di1 maai6 saam1 baak3 man1 dak1 m4 dak1 aa3? [lou˧˥ paːn˧˥, niː˥ kiːn˨ ŋɔːi˨ tʰou˧ piːu˥ kaː˧ saːm˥ paːk̚˧ paːt̚˧, pʰɛːŋ˨˩ tiː˥ maːi˨ saːm˥ paːk̚˧ mɐn˥ tɐk̚˥ m̩˨˩ tɐk̚˥ aː˧?] (LOH-BAHN, NEE-GEEN NGOY-TOU BEW-GAH SAHM-BAHK-BAHT, PENG-DEE MY SAHM-BAHK-MUN DUK-M-DUK AH?)",
+          "translation": "Boss, this jacket is marked at three hundred eighty; can you make it cheaper and sell it for three hundred?"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元9-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "全場夏季新裝一律七折，買滿五百蚊仲可以免費送貨。",
+          "reading": "cyun4 coeng4 haa6 gwai3 san1 zong1 jat1 leot6 cat1 zit3, maai5 mun5 ng5 baak3 man1 zung6 ho2 ji5 min5 fai3 sung3 fo3. [tsʰyːn˨˩ tsʰœːŋ˨˩ haː˨ kʷɐi˧ sɐn˥ tsɔːŋ˥ jɐt̚˥ lɵt˨ tsʰɐt̚˥ tsɪt̚˧, maːi˩˧ muːn˧˥ ŋ̍˩˧ paːk̚˧ mɐn˥ tsʊŋ˨ hɔː˧˥ jiː˩˧ miːn˩˧ fɐi˧ sʊŋ˧ fɔː˧] (TSUEN-CHEUNG HAH-GWY SUN-JONG YUT-LUT CHUT-JIK, MY-MOON NG-BAHK-MUN JOONG HOH-YEE MEEN-FY SOONG-FOH)",
+          "translation": "All summer new arrivals throughout the store are thirty percent off; purchases over five hundred dollars also qualify for free delivery."
+        },
+        {
+          "target": "本店小本經營利潤微薄，呢個已經係最低批發價，冇得再平㗎喇。",
+          "reading": "bun2 dim3 siu2 bun2 ging1 jing4 lei6 reon6 mei4 bok6, ni1 go3 ji5 ging1 hai6 zeoi3 dai1 pai1 faat3 gaa3, mou5 dak1 zoi3 peng4 gaa3 laa3. [puːn˧˥ tiːm˧ siːu˧˥ puːn˧˥ kɪŋ˥ jɪŋ˨˩ lei˨ jɵn˨ mei˨˩ pɔːk̚˨, niː˥ kɔː˧ jiː˩˧ kɪŋ˥ hɐi˨ tsɵy˧ tɐi˥ pʰaːi˥ faːt̚˧ kaː˧, mou˩˧ tɐk̚˥ tsɔːi˧ pʰɛːŋ˨˩ kaː˧ laː˧] (BOON-DEEM SEW-BOON GING-YING LAY-YUN MAY-BOK, NEE-GOH YEE-GING HY JOY-DY PY-FAHT-GAH, MOU-DUK JOY PENG GAH LAH)",
+          "translation": "Our shop operates on small capital and slim profits; this is already the lowest wholesale price and cannot be discounted further."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【講價促銷歌】「平啲啦」字常掛口，女人街裏逛排檔；「大減價」逢「買一送」，「八折」「半價」心花放！"
+      ],
+      "culturalNotes": [
+        "在香港大型連鎖百貨公司（如崇光百貨、連卡佛）或明碼標價之超級市場一般不允許討價還價；但在露天排檔（如旺角女人街、深水埗鴨寮街、赤柱市集）或海味乾貨街，適度客氣地講價（「平少少啦老闆」）係普遍接受之市井文化。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"廚房\":",
+          "prompt": "【折扣計算】在香港服裝店看到櫥窗貼著「全場八折」，其含義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：睡房錯置）",
-            "混雜生硬詞彙之不規範語句（例項：洗手間未適配）",
-            "聲調助詞搭配欠妥之表達（例項：雪櫃誤用）"
+            "所有商品按原價百分之八十出售（享受 20% 折扣）",
+            "所有商品只需八塊錢",
+            "買八件衣服打折",
+            "每件衣服降價八塊錢"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「八折」（baat3 zit3）即原價之 80%（20% off）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"廚房\":",
+          "prompt": "【排檔講價】在旺角排檔購物，欲請店主算便宜一點點，最地道得體之句式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：洗手間未適配）",
-            "聲調助詞搭配欠妥之表達（例項：雪櫃誤用）",
-            "語序顛倒嘅非標準句式（例項：睡房錯置）"
+            "老闆，計平少少得唔得呀？ (lou5 baan2, gai3 peng4 siu2 siu2 dak1 m4 dak1 aa3?)",
+            "老闆，唔該幫我搭枱！",
+            "老闆，唔該印張車飛！",
+            "老闆，落緊大雨未？"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「計平少少得唔得呀？」（算便宜一點好不好）係地道講價句式。"
         }
       ]
     },
@@ -3965,15 +3992,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"廚房\": Which sentence is completely correct?",
+          "prompt": "【促銷用語】商場門口掛出「買一送一」橫幅，其精確商業含義係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：雪櫃誤用）",
-            "語序顛倒嘅非標準句式（例項：睡房錯置）",
-            "混雜生硬詞彙之不規範語句（例項：洗手間未適配）"
+            "購買一件正價商品即可獲贈另一件相同商品 (Buy one get one free)",
+            "買一件商品需要送貨一次",
+            "買了一件商品必須送給別人",
+            "一次只能購買一件商品"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「買一送一」（maai5 jat1 sung3 jat1）即買一贈一。"
         }
       ],
       "passThreshold": 0.8
@@ -3984,53 +4011,62 @@
     "subject": "cantonese",
     "unit": 9,
     "lessonNumber": 4,
-    "title": "買嘢、價錢同找錢 (Shopping & Currency) (第4課)",
+    "title": "支付方式多樣性：「畀現金」、「拍八達通」、「嘟卡」、「碌卡」 (Payment Methods)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元9第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港多元支付手段用語（畀現金、拍/嘟八達通、碌信用卡、轉數快FPS、掃碼支付）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港作為國際金融與智慧消費之都，日常結帳付款方式多樣且擁有豐富之道地口語動詞搭配體系：\n\n一、多元付款動詞短語深度解析：\n１．「畀現金」（bei2 jin6 gam1）：使用實體紙幣及金屬硬幣結算支付貨款。\n２．「拍八達通 / 嘟八達通」（paak3 / dyut1 baat3 daat6 tung1）：將八達通智慧卡貼近讀卡機感應付款。「嘟」（dyut1）為擬聲詞，源自讀卡器感應成功時發出之「嘟」聲提示音。\n３．「碌卡 / 簽卡」（luk1 kaat1 / cim1 kaat1）：使用信用卡或扣帳卡刷卡付款。「碌」（luk1）原指早年機械刷卡機將卡面凸字壓印至複寫簽帳單時滾輪滾過之動作聲音，沿用至今成為刷信用卡之全港通用口頭禪。\n４．「掃碼支付」（sou3 maa5 zi1 fu6）：使用智慧型手機二維碼（微信支付、支付寶、電子錢包）掃碼扣款。\n５．「轉數快」（zyun2 sou3 faai3，FPS）：香港金融管理局推行之跨銀行即時轉帳系統，可通過手機號碼或電郵地址即時收付款項。\n\n二、結帳付款實用問答句型：\n- 「請問呢度收唔收信用卡或者微信支付呀？」（請問這裡接受信用卡或微信支付嗎？）\n- 「我哋收現金、八達通同轉數快，買滿一百蚊可以碌卡。」（我們收現金、八達通和轉數快，滿一百元可以刷信用卡。）",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 9 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 9 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 9 in communication."
+          "target": "請問呢度可唔可以用八達通或者轉數快畀錢？",
+          "reading": "cing2 man6 ni1 dou6 ho2 m4 ho2 ji5 jung6 baat3 daat6 tung1 waak6 ze2 zyun2 sou3 faai3 bei2 cin2? [tsʰɪŋ˧˥ mɐn˨ niː˥ tou˨ hɔː˧˥ m̩˨˩ hɔː˧˥ jiː˩˧ jʊŋ˨ paːt̚˧ taːt̚˨ tʰʊŋ˥ waːk˨ tsɛː˧˥ tsyn˧˥ sou˧ faːi˧ pei˧˥ tsʰiːn˧˥?] (CHING-MUN NEE-DOH HOH-M-HOH-YEE YOONG BAHT-DAHT-TOONG WAHK-JEH JUEN-SO-FY BAY-CHEEN?)",
+          "translation": "Excuse me, can I pay using Octopus or FPS here?"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元9-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "我冇帶足夠現金喺身，唔該幫我碌信用卡啦。",
+          "reading": "ngo5 mou5 daai3 zuk1 gau3 jin6 gam1 hai2 san1, m4 goi1 bong1 ngo5 luk1 seon3 jung3 kaat1 laa1. [ŋɔː˩˧ mou˩˧ taːi˧ tsʊk̚˥ kɐu˧ jiːn˨ kɐm˥ hɐi˩˧ sɐn˥, m̩˨˩ kɔːi˥ pɔːŋ˥ ŋɔː˩˧ lʊk̚˥ sɵn˧ jʊŋ˨ kʰaːt̚˥ laː˥] (NGOH MOU DY JOOK-GAU YEEN-GUM HY SUN, M-GOY BONG NGOH LUK SEON-YOONG-KAHT LAH)",
+          "translation": "I did not bring enough cash on me; please swipe my credit card, thank you."
+        },
+        {
+          "target": "買呢件電器只要嘟一嘟手機二維碼，就可以即刻完成付款。",
+          "reading": "maai5 ni1 gin6 din6 hei3 zi2 jiu3 dyut1 jat1 dyut1 sau2 gei1 ji6 wai4 maa5, zau6 ho2 ji5 zik1 hak1 jyun4 sing4 fu6 fun2. [maːi˩˧ niː˥ kiːn˨ tiːn˨ hei˧ tsiː˧˥ jiu˧ tyːt̚˥ jɐt̚˥ tyːt̚˥ sɐu˧˥ kei˥ jiː˨ wɐi˨˩ maː˩˧, tsɐu˨ hɔː˧˥ jiː˩˧ tsɪk̚˥ hɐk̚˥ jyːn˨˩ sɪŋ˨˩ fu˨ fuːn˨] (MY NEE-GEEN DEEN-HEY JEE-YEW DYUT-YUT-DYUT SAU-GAY YEE-WY-MAH, JAU HOH-YEE JIK-HUK YUEN-SING FOO-FOON)",
+          "translation": "Buying this appliance only requires scanning the mobile QR code, and the payment is completed immediately."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【支付多樣訣】出門買嘢付款便，「畀現金」與「拍卡」健；大額消費「碌卡」快，「轉數快」同「掃碼」連！"
+      ],
+      "culturalNotes": [
+        "「碌卡」（luk1 kaat1）係香港極為傳神之經典粵語詞彙，原指早期機械刷卡機將卡片凸字壓印到複寫簽帳單之滾動聲音，如今已成為全港市民使用信用卡之唯一口語俗稱。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"睡房\":",
+          "prompt": "【支付動詞】在香港收銀台欲表示「我用信用卡刷卡付款」，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：洗手間錯置）",
-            "混雜生硬詞彙之不規範語句（例項：雪櫃未適配）",
-            "聲調助詞搭配欠妥之表達（例項：冷氣機誤用）"
+            "我碌信用卡畀錢。 (ngo5 luk1 seon3 jung3 kaat1 bei2 cin2.)",
+            "我行街信用卡畀錢。",
+            "我搭枱信用卡畀錢。",
+            "我走青信用卡畀錢。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "刷信用卡付款在粵語中稱為「碌卡」（luk1 kaat1）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"睡房\":",
+          "prompt": "【語彙由來】粵語中用「嘟卡」（dyut1 kaat1）指代刷八達通卡，該詞之由來係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：雪櫃未適配）",
-            "聲調助詞搭配欠妥之表達（例項：冷氣機誤用）",
-            "語序顛倒嘅非標準句式（例項：洗手間錯置）"
+            "刷卡機感應成功時發出的「嘟」提示音 (Onomatopoeic sound of reader)",
+            "八達通發明人的名字",
+            "香港某座地鐵站的名稱",
+            "古漢語的傳統動詞"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「嘟」係刷卡機感應提示音之擬聲詞。"
         }
       ]
     },
@@ -4038,15 +4074,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"睡房\": Which sentence is completely correct?",
+          "prompt": "【金融術語】香港金管局推行之快速跨銀行即時電子轉帳系統之粵語名稱係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：冷氣機誤用）",
-            "語序顛倒嘅非標準句式（例項：洗手間錯置）",
-            "混雜生硬詞彙之不規範語句（例項：雪櫃未適配）"
+            "轉數快 (zyun2 sou3 faai3 / FPS)",
+            "八達通 (baat3 daat6 tung1)",
+            "易辦事 (EPS)",
+            "支票簿 (zi1 piu3 bou2)"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "香港快速支付系統官方俗稱為「轉數快」（FPS）。"
         }
       ],
       "passThreshold": 0.8
@@ -4057,53 +4093,62 @@
     "subject": "cantonese",
     "unit": 9,
     "lessonNumber": 5,
-    "title": "買嘢、價錢同找錢 (Shopping & Currency) (第5課)",
+    "title": "商舖類型與退換貨溝通：「士多」、「藥房」、「退貨/換貨」 (Store Types & Returns)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元9第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港特色店舖類型名詞（士多、藥房、辦館、街市）及售後退換貨、單據保養期溝通句式。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港街頭遍佈各具歷史特色之傳統與現代店舖類型，消費者需掌握各類店舖名稱與售後權益交涉用語：\n\n一、香港特色店舖名稱深度解析：\n１．「士多」（si6 do1）：英語 'Store' 之粵語音譯，指傳統街坊小型雜貨士多店，售賣零食、汽水冰棒及日用小百貨。\n２．「藥房 / 藥行」（joek6 fong4 / joek6 hong4）：售賣西藥、中成藥、嬰兒奶粉及個人護理用品之店舖（掛有白底紅十字「Rx」標誌者方為政府註冊藥房，具備配售處方藥資格）。\n３．「辦館」（baan6 gun2）：傳統批發兼零售高檔進口洋酒、罐頭食品及西式雜貨之老字號商號。\n４．「街市」（gaai1 si5）：室內或露天肉菜生鮮農貿市場。\n\n二、售後服務與退換貨交涉句式深度剖析：\n１．「退貨 / 換貨」（teoi3 fo3 / wun6 fo3）：退還商品或更換同款新商品。\n２．「單據 / 發票」（daan1 geoi3 / faat3 piu3）：購買憑證收據。\n３．「保養期」（bou2 joeng5 kei4）：產品質量保修期限。\n４．「出門恕不退換」（ceot1 mun4 syu3 bat1 teoi3 wun6）：貨品出門概不退換之商家免責告示。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 9 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 9 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 9 in communication."
+          "target": "我琴日喺你哋藥房買嘅血壓計有故障，憑單據可唔可以換貨呀？",
+          "reading": "ngo5 kam4 jat6 hai2 nei5 dei6 joek6 fong4 maai5 ge3 hyut3 aat3 gai3 jau5 gu3 zoeng3, pang4 daan1 geoi3 ho2 m4 ho2 ji5 wun6 fo3 aa3? [ŋɔː˩˧ kʰɐm˨˩ jɐt˨ hɐi˩˧ nei˩˧ tei˨ jœːk̚˨ fɔːŋ˨˩ maːi˩˧ kɛː˧ hyːt̚˧ aːt̚˧ kɐi˧ jɐu˩˧ kuː˧ tsœːŋ˧, pʰɐŋ˨˩ taːn˥ kɵy˧ hɔː˧˥ m̩˨˩ hɔː˧˥ jiː˩˧ wuːn˨ fɔː˧ aː˧?] (NGOH KUM-YUT HY NEI-DAY YEUK-FONG MY GEH HUET-AHT-GY YAU GOO-JEUNG, PUNG DAHN-GOEY HOH-M-HOH-YEE WOON-FOH AH?)",
+          "translation": "The blood pressure monitor I bought at your pharmacy yesterday has a malfunction; can I exchange it with the receipt?"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元9-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "落樓下士多買支樽裝可樂，順便同士多老闆傾兩句計。",
+          "reading": "lok6 lau4 haa6 si6 do1 maai5 zi1 zeon1 zong1 ho2 lok6, seon6 bin6 tung4 si6 do1 lou5 baan2 king1 loeng5 geui3 gai2. [lɔːk˨ lɐu˨˩ haː˨ siː˨ tɔː˥ maːi˩˧ tsiː˥ tsɵn˥ tsɔːŋ˥ hɔː˧˥ lɔːk˨, sɵn˨ piːn˨ tʰʊŋ˨˩ siː˨ tɔː˥ lou˧˥ paːn˧˥ kʰɪŋ˨˩ lœːŋ˩˧ kɵy˧ kɐi˧˥] (LOK LAU-HAH SEE-DOH MY JEE JEUN-JONG HOH-LOK, SOON-BEEN TOONG SEE-DOH LOH-BAHN KING LEUNG-GOEY-GY)",
+          "translation": "Going downstairs to the 'store' to buy a bottle of Coca-Cola, and chat with the store boss while there."
+        },
+        {
+          "target": "呢部抽濕機有一年原廠保養期，請妥善保留張收據單。",
+          "reading": "ni1 bou6 cau1 sap1 gei1 jau5 jat1 nin4 jyun4 cong2 bou2 joeng5 kei4, cing2 to5 sin6 bou2 lau4 zoeng1 sau1 geoi3 daan1. [niː˥ pou˨ tsʰɐu˥ sɐp̚˥ kei˥ jɐu˩˧ jɐt̚˥ niːn˨˩ jyːn˨˩ tsʰɔːŋ˧˥ pou˧˥ jœːŋ˩˧ kʰei˨˩, tsʰɪŋ˧˥ tʰɔː˩˧ siːn˨ pou˧˥ lɐu˨˩ tsœːŋ˥ sɐu˥ kɵy˧ taːn˥] (NEE-BO CHAU-SUP-GAY YAU YUT-NEEN YUEN-CHONG HOH-JEUNG-KAY, CHING TOH-SEEN BO-LAU JEUNG SAU-GOEY-DAHN)",
+          "translation": "This dehumidifier comes with a one-year original manufacturer warranty; please keep the purchase receipt safe."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【商舖售後歌】買雜貨落「士多」店，買西藥去「藥房」巡；退換貨物憑「單據」，「保養期」內護權純！"
+      ],
+      "culturalNotes": [
+        "「士多」（Store）與「辦館」見證了香港開埠百餘年來華洋交融之商貿歷史。舊式士多店前常放置紅豆冰櫃、汽水箱與扭蛋機，充滿香港幾代人之集體童年記憶。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"洗手間\":",
+          "prompt": "【店舖識別】香港街坊用以稱呼售賣零食、飲料、香煙及日常雜貨之傳統小店為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：雪櫃錯置）",
-            "混雜生硬詞彙之不規範語句（例項：冷氣機未適配）",
-            "聲調助詞搭配欠妥之表達（例項：電視機誤用）"
+            "士多 (si6 do1 / Store)",
+            "月台 (jyut6 toi4)",
+            "天橋 (tin1 kiu4)",
+            "燈位 (dang1 wai2)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "傳統雜貨小店音譯英語 'Store' 稱為「士多」（si6 do1）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"洗手間\":",
+          "prompt": "【售後權益】所購電器出現故障，欲憑購買發票向商家要求更換一件新貨，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：冷氣機未適配）",
-            "聲調助詞搭配欠妥之表達（例項：電視機誤用）",
-            "語序顛倒嘅非標準句式（例項：雪櫃錯置）"
+            "我憑單據想換貨。 (ngo5 pang4 daan1 geoi3 soeng2 wun6 fo3.)",
+            "我憑單據想搭枱。",
+            "我憑單據想轉線。",
+            "我憑單據想走甜。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「憑單據想換貨」（憑發票收據想要換貨）係售後更換商品之標準表達。"
         }
       ]
     },
@@ -4111,15 +4156,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"洗手間\": Which sentence is completely correct?",
+          "prompt": "【商家告示】在香港店舖門口常看到「出門恕不退換」告示牌，其意思係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：電視機誤用）",
-            "語序顛倒嘅非標準句式（例項：雪櫃錯置）",
-            "混雜生硬詞彙之不規範語句（例項：冷氣機未適配）"
+            "商品售出離開店門後概不提供退貨或換貨服務 (Goods sold are non-refundable)",
+            "出門時必須向店員脫帽鞠躬",
+            "走出門口可以免費退換所有商品",
+            "商品只能在門口使用"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「出門恕不退換」意為商品售出離店後恕不接受退貨或更換。"
         }
       ],
       "passThreshold": 0.8
