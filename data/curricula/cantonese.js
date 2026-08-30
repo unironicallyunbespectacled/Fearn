@@ -10325,53 +10325,62 @@
     "subject": "cantonese",
     "unit": 25,
     "lessonNumber": 1,
-    "title": "嶺南古典文學與粵詩吟誦 (Lingnan Classical Literature) (第1課)",
+    "title": "粵語文白異讀系統（Literary vs. Colloquial Readings）：讀書音與白話音 (Literary & Colloquial Readings)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元25第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語文白異讀系統（文讀音與白讀音）之歷史音變規律、高頻字例（行、生、學、食、見）及其在正式文雅詞與市井白話中之嚴格分工。",
     "presentation": {
-      "explanation": "",
+      "explanation": "文白異讀（Literary and Colloquial Readings）係漢語方言在不同歷史層次疊加下形成之雙重語音系統：\n\n一、文讀（讀書音）與白讀（白話音）之本質差異：\n１．文讀音（Literary Reading）：受歷代中原通語（如洛陽音、金陵音、近代官話）影響，主要用於朗讀文言文、書面成語、學術科舉及莊重專有名詞。\n２．白讀音（Colloquial Reading）：繼承自更早歷史層次之本土口傳語音，主要用於日常生活會話、市井口語及本土專屬詞彙。\n\n二、五大經典高頻漢字文白異讀對照表：\n１．「行」：\n- 文讀：hang4（行動、行業、品行、流行）。\n- 白讀：haang4（行街、行路、行先）。\n- 另音：hong4（銀行、行家）。\n\n２．「生」：\n- 文讀：saang1（學生、生命、先生）。\n- 白讀：saang1 / seng1（花生 faa1 saang1、陌生 maang4 sang1）。\n\n３．「食」：\n- 文讀：zik6（食糧、食言而肥、自食其果）。\n- 白讀：sik6（食飯、食嘢、食點心）。\n\n４．「學」：\n- 文讀：hok6（學校、學術、哲學）。\n- 白讀：hok6（學嘢、學游水）。\n\n５．「見」：\n- 文讀：gin3（見解、意見、遠見）。\n- 白讀：gin3（見面、見到）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 25 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 25 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 25 in communication."
+          "target": "做人最緊要言行一致，講得出就要切實去實行，千祈唔好隨便食言！",
+          "reading": "zou6 jan4 zeoi3 gan2 jiu3 jin4 hang4 jat1 zi3, gong2 dak1 ceot1 zau6 jiu3 cit3 sat6 heoi3 sat6 hang4, cin1 kei4 m4 hou2 ceoi4 bin6*2 zik6 jin4! [tsou˨ jɐn˨˩ tsɵy˧ kɐn˧˥ jiu˧ jiːn˨˩ hɐŋ˨˩ jɐt̚˥ tsiː˧, kɔːŋ˧˥ tɐk̚˥ tsʰɵt̚˥ tsɐu˨ jiu˧ tsʰiːt̚˧ sɐt̚˨ hɵy˧ sɐt̚˨ hɐŋ˨˩, tsʰiːn˥ kʰei˨˩ m̩˨˩ hou˧˥ tsʰɵy˨˩ piːn˧˥ tsɪk̚˨ jiːn˨˩!] (JOU-YUN JEOY GUN-YEW YEEN-HAHNG YUT-JEE, GONG-DUK-CHUT JAU YEW CHEET-SUT HOEY SUT-HAHNG, CHEEN-KEY M-HOH CHOEY-BEEN JIK-YEEN!)",
+          "translation": "The most important thing in life is to match words with deeds; if you say it you must earnestly implement it, never go back on your word rashly!"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元25-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "佢哋兩個趁放假一齊去銅鑼灣行街買衫，沿途有講有笑好開心。",
+          "reading": "keoi5 dei6 loeng5 go3 can3 fong3 gaa3 jat1 cai4 heoi3 tung4 lo4 waan1 haang4 gaai1 maai5 saam1, jyun4 tou4 jau5 gong2 jau5 siu3 hou2 hoi1 sam1. [kʰɵy˩˧ tei˨ lœːŋ˩˧ kɔː˧ tsʰɐn˧ fɔːŋ˧ kaː˧ jɐt̚˥ tsʰɐi˨˩ hɵy˧ tʰʊŋ˨˩ lɔː˨˩ waːn˥ haːŋ˨˩ kaːi˥ maːi˩˧ saːm˥, jyːn˨˩ tʰou˨˩ jɐu˩˧ kɔːŋ˧˥ jɐu˩˧ siu˧ hou˧˥ hɔːi˥ sɐm˥] (KUY-DAY LEUNG-GOH CHUN FONG-GAH YUT-CHY HOEY TOONG-LOH-WAHN HAHNG-GY MY-SAHM, YUEN-TOU YAU-GONG-YAU-SIU HOH HOI-SUM)",
+          "translation": "The two of them took advantage of the holiday to go shopping for clothes in Causeway Bay together, chatting and laughing happily along the way."
+        },
+        {
+          "target": "古代讀書人講求『行萬里路，讀萬卷書』，兼具深厚學養與開闊眼界。",
+          "reading": "gu2 doi6 duk6 syu1 jan4 gong2 kau4 \"hang4 maan6 lei5 lou6, duk6 maan6 gyun2 syu1\", gim1 geoi6 sam1 hau5 hok6 joeng5 jyu4 hoi1 fut3 ngaan5 gaai3. [kuː˧˥ tɔːi˨ tʊk̚˨ syː˥ jɐn˨˩ kɔːŋ˧˥ kʰɐu˨˩ \"hɐŋ˨˩ maːn˨ lei˩˧ lou˨, tʊk̚˨ maːn˨ kyːn˧˥ syː˥\", kiːm˥ kɵy˨ sɐm˥ hɐu˩˧ hɔːk̚˨ jœːŋ˩˧ jyː˩˧ hɔːi˥ fuːt̚˧ ŋaːn˩˧ kaːi˧] (GOO-DOY DUK-SYU-YUN GONG-KAU \"HAHNG-MAHN-LEY-LOU, DUK-MAHN-GUEN-SYU\", GEEM-GOEY SUM-HAU HOK-YEUNG YUE HOI-FOOT NGAHN-GY)",
+          "translation": "Ancient scholars pursued 'walking ten thousand miles and reading ten thousand scrolls of books', possessing both profound academic cultivation and a broad horizon."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【文白異讀歌】讀書成語「hang4行動」，市井漫步「haang4行街」；文言讀書「zik6食言」，日常美味「sik6好嘢」！"
+      ],
+      "culturalNotes": [
+        "文白異讀係漢語方言學中極具歷史厚度之現象。在粵語吟誦古文或成語時，若將『言行一致』讀成『haang4』或將『食言』讀成『sik6』，會被視為不合規範之語音混淆。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"大細\":",
+          "prompt": "【文白辨析】在成語「言行一致」（jin4 hang4 jat1 zi3）中，「行」字的正確文讀音係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：長短錯置）",
-            "混雜生硬詞彙之不規範語句（例項：高矮未適配）",
-            "聲調助詞搭配欠妥之表達（例項：肥瘦誤用）"
+            "hang4 (Literary reading for behavior / action)",
+            "haang4 (Colloquial walk)",
+            "hong4 (Bank / trade)",
+            "hang6 (Happiness)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "成語「言行一致」中「行」指行為舉止，必須使用文讀音「hang4」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"大細\":",
+          "prompt": "【口語白讀】在日常口語句子「我哋去行街睇戲」中，「行」字的正確白讀音係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：高矮未適配）",
-            "聲調助詞搭配欠妥之表達（例項：肥瘦誤用）",
-            "語序顛倒嘅非標準句式（例項：長短錯置）"
+            "haang4 (Colloquial walking / strolling)",
+            "hang4",
+            "hong4",
+            "hang6"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "口語「行街 / 行路」使用白讀音「haang4」。"
         }
       ]
     },
@@ -10379,15 +10388,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"大細\": Which sentence is completely correct?",
+          "prompt": "【成語讀音】成語「自食其果」中，「食」字在傳統讀書音中的標準文讀音為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：肥瘦誤用）",
-            "語序顛倒嘅非標準句式（例項：長短錯置）",
-            "混雜生硬詞彙之不規範語句（例項：高矮未適配）"
+            "zik6 (Literary reading in classical compounds)",
+            "sik6 (Colloquial eating)",
+            "saang1",
+            "si4"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「食言」、「自食其果」等文言成語中，「食」之標準文讀音為「zik6」。"
         }
       ],
       "passThreshold": 0.8
@@ -10398,53 +10407,62 @@
     "subject": "cantonese",
     "unit": 25,
     "lessonNumber": 2,
-    "title": "嶺南古典文學與粵詩吟誦 (Lingnan Classical Literature) (第2課)",
+    "title": "中古漢語入聲韻尾（-p, -t, -k）與唐宋詩詞格律之完美契合 (Middle Chinese Entering Tones)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元25第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語完整保留中古漢語三大塞音入聲韻尾（-p, -t, -k）與九聲六調系統，以及運用粵語吟誦唐詩宋詞之格律押韻優勢。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語被語言學界公認為保留中古漢語（隋唐切韻音系）語音特徵最完整之現代漢語方言之一：\n\n一、三大入聲韻尾（Checked Codas）矩陣：\n１．雙唇塞音韻尾【-p】：\n- 代表字：十（sap6）、粒（nap1）、盒（hap6）、立（laap6）、集（zaap6）。\n- 發音要領：發音結束時雙唇緊閉，阻塞氣流，不爆破。\n\n２．舌尖塞音韻尾【-t】：\n- 代表字：一（jat1）、八（baat3）、日（jat6）、月（jyut6）、物（mat6）。\n- 發音要領：舌尖緊貼上齒齦，阻斷氣流。\n\n３．舌根塞音韻尾【-k】：\n- 代表字：六（luk6）、百（baak3）、國（gwok3）、屋（nguk1）、北（bak1）。\n- 發音要領：舌根頂住軟齶，形成緊縮塞音。\n\n二、唐宋詩詞吟誦之平仄與押韻優勢：\n- 現代普通話因入聲消失（『平分陰陽、入派三聲』），導致大量唐宋入聲韻詩詞（如李白《將進酒》、岳飛《滿江紅》、蘇軾《念奴嬌·赤壁懷古》）在普通話中不再押韻。\n- 粵語完整保留九聲（陰平、陰上、陰去、陽平、陽上、陽去、陰入上、陰入下、陽入），平仄分明，吟誦古詩時音韻鏗鏘有力、完美押韻！",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 25 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 25 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 25 in communication."
+          "target": "岳飛《滿江紅》：「三十功名塵與土，八千里路雲和月。」用粵語吟誦，「月（jyut6）」與「歇（hit3）」、「切（cit3）」押入聲韻，慷慨激昂！",
+          "reading": "ngok6 fei1 \"mun5 gong1 hung4\": \"saam1 sap6 gung1 ming4 can4 jyu5 tou2, baat3 cin1 lei5 lou6 wan4 wo4 jyut6.\" jung6 jyut6 jyu5 jam4 zung6, \"jyut6 [jyːt̚˨]\" jyu5 \"hit3 [hiːt̚˧]\", \"cit3 [tsʰiːt̚˧]\" aap3 jap6 seng1 wan6, hong2 koi3 gik1 ngoeng5! [ŋɔːk̚˨ fei˥ \"muːn˩˧ kɔːŋ˥ hʊŋ˨˩\": \"saːm˥ sɐp̚˨ kʊŋ˥ mɪŋ˨˩ tsʰɐn˨˩ jyː˩˧ tʰou˧˥, paːt̚˧ tsʰiːn˥ lei˩˧ lou˨ wɐn˨˩ wɔː˨˩ jyːt̚˨.\" jʊŋ˨ jyːt̚˨ jyː˩˧ jɐm˨˩ tsʊŋ˨, \"jyːt̚˨\" jyː˩˧ \"hiːt̚˧\", \"tsʰiːt̚˧\" aːp̚˧ jɐp̚˨ sɛːŋ˥ wɐn˨, hɔːŋ˧˥ kʰɔːi˧ kɪk̚˥ ŋœːŋ˩˧!] (NGOK-FAY \"MOON-GONG-HOONG\": \"SAHM-SUP GONG-MING CHUN-YUE-TOU, BAHT-CHEEN-LEY-LOU WUN-WOH-YUET.\" YOONG YUET-YUE YUM-JOONG, \"YUET\" YUE \"HEET\", \"CHEET\" AHP YUP-SENG-WUN, HONG-KOY-GIK-NGEUNG!)",
+          "translation": "Yue Fei's 'Man Jiang Hong': 'Thirty years of deeds, dust and earth; eight thousand miles of road, clouds and the moon.' Recited in Cantonese, 'jyut6' rhymes with 'hit3' and 'cit3' in entering tones, impassioned and heroic!"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元25-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "李白《將進酒》中「天生我材必有用，千金散盡還復來」嘅「復（fuk1）」字，正係典型嘅舌根塞音入聲字。",
+          "reading": "lei5 baak6 \"zoeng1 zeon3 zau2\" zung1 \"tin1 sang1 ngo5 coi4 bit1 jau5 jung6, cin1 gam1 saan3 zeon6 waan4 fuk1 loi4\" ge3 \"fuk1 [fʊk̚˥]\" zi6, zing3 hai6 din2 jing4 ge3 sit3 gan1 sak1 jam1 jap6 seng1 zi6. [lei˩˧ paːk̚˨ \"tsœːŋ˥ tsɵn˧ tsɐu˧˥\" tsʊŋ˥ \"tʰiːn˥ sɐŋ˥ ŋɔː˩˧ tsʰɔːi˨˩ piːt̚˥ jɐu˩˧ jʊŋ˨, tsʰiːn˥ kɐm˥ saːn˧ tsɵn˨ waːn˨˩ fʊk̚˥ lɔːi˨˩\" kɛː˧ \"fʊk̚˥\" tsiː˨, tsɪŋ˧ hɐi˨ tiːn˧˥ jɪŋ˨˩ kɛː˧ siːt̚˧ kɐn˥ sɐk̚˥ jɐm˥ jɐp̚˨ sɛːŋ˥ tsiː˨] (LY-BAHK \"JEUNG-JEUN-JAU\" JOONG \"TEEN-SUNG NGOH-CHOY BIT-YAU-YOONG, CHEEN-GUM SAHN-JEUN WAHN-FOOK-LOY\" GEH \"FOOK\" JEE, JING HY DEEN-YING GEH SEET-GUN-SUK-YUM YUP-SENG-JEE)",
+          "translation": "In Li Bai's 'Invitation to Wine', the character 'fuk1' in 'Heaven endowed me with talent, it must be put to use; a thousand gold spent will return again' is precisely a typical velar stop entering tone character."
+        },
+        {
+          "target": "用粵語朗讀杜甫同蘇軾嘅絕句律詩，平仄協調，押韻嚴絲合縫，完美重現盛唐宋代之音韻美感。",
+          "reading": "jung6 jyut6 jyu5 long5 duk6 dou6 fu2 tung4 sou1 sik1 ge3 zyut6 geui3 leot6 si1, ping4 zak1 hip3 tiu4, aap3 wan6 jim4 si1 hap6 fung4, jyun4 mei5 cung4 jin6 sing6 tong4 sung3 doi6 zi1 jam1 wan6 mei5 gam2. [jʊŋ˨ jyːt̚˨ jyː˩˧ lɔːŋ˩˧ tʊk̚˨ tou˨ fuː˧˥ tʰʊŋ˨˩ sou˥ sɪk̚˥ kɛː˧ tsyːt̚˨ kɵy˧ lɵt̚˨ siː˥, pʰɪŋ˨˩ tsɐk̚˥ hiːp̚˧ tʰiːu˨˩, aːp̚˧ wɐn˨ jiːm˨˩ siː˥ hɐp̚˨ fʊŋ˨˩, jyːn˨˩ mei˩˧ tsʰʊŋ˨˩ jiːn˨ sɪŋ˨ tʰɔːŋ˨˩ sʊŋ˧ tɔːi˨ tsiː˥ jɐm˥ wɐn˨ mei˩˧ kɐm˧˥] (YOONG YUET-YUE LONG-DUK DOU-FOO TOONG SOU-SIK GEH JUET-GOEY LUT-SEE, PING-JUK HIP-TEW, AHP-WUN YEEM-SEE-HUP-FOONG, YUEN-MAY CHOONG-YEEN SING-TONG SOONG-DOY JEE YUM-WUN MAY-GUM)",
+          "translation": "Declaiming Du Fu and Su Shi's regulated verses in Cantonese harmonizes level and oblique tones, with rhymes fitting seamlessly together, perfectly reproducing the phonological aesthetics of the High Tang and Song dynasties."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【入聲音韻訣】雙唇閉合【-p】十粒，舌尖抵齒【-t】日月；舌根頂齶【-k】六百，唐詩宋詞韻味絕！"
+      ],
+      "culturalNotes": [
+        "香港許多傳統文人社團（如嶺雅詩社、學海書樓）至今仍堅持使用廣州話九聲吟誦古詩詞。清代學者陳澧在《切韻考》中精確指出：『廣州人聲音，與隋唐切韻最合。』"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"長短\":",
+          "prompt": "【入聲韻尾】漢字「八（baat3）」與「月（jyut6）」在粵語中共同具備之中古塞音韻尾係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：高矮錯置）",
-            "混雜生硬詞彙之不規範語句（例項：肥瘦未適配）",
-            "聲調助詞搭配欠妥之表達（例項：新舊誤用）"
+            "舌尖塞音韻尾【-t】 (Alveolar stop coda -t)",
+            "雙唇塞音韻尾【-p】",
+            "舌根塞音韻尾【-k】",
+            "鼻音韻尾【-m】"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「八（baat3）」與「月（jyut6）」均以舌尖塞音【-t】收尾。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"長短\":",
+          "prompt": "【古詩格律】用粵語吟誦岳飛《滿江紅》能完美押韻，其根本原因在於粵語保留了古代之：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：肥瘦未適配）",
-            "聲調助詞搭配欠妥之表達（例項：新舊誤用）",
-            "語序顛倒嘅非標準句式（例項：高矮錯置）"
+            "入聲韻尾與九聲調類系統 (Middle Chinese entering tones & 9-tone system)",
+            "英語外來借詞",
+            "現代網絡流行語",
+            "西方格律詩節奏"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "《滿江紅》全篇押入聲韻，粵語完整保留入聲韻尾，因而能完美重現古代詩詞音律。"
         }
       ]
     },
@@ -10452,15 +10470,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"長短\": Which sentence is completely correct?",
+          "prompt": "【語音學辨析】漢字「十（sap6）」與「盒（hap6）」在發音結束時之發音部位特徵為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：新舊誤用）",
-            "語序顛倒嘅非標準句式（例項：高矮錯置）",
-            "混雜生硬詞彙之不規範語句（例項：肥瘦未適配）"
+            "雙唇緊閉阻斷氣流（-p 塞音尾） (Bilabial stop closure -p)",
+            "舌根頂住軟齶（-k 塞音尾）",
+            "舌尖頂住上齒齦（-t 塞音尾）",
+            "氣流從鼻腔完全釋放"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「十（sap6）」與「盒（hap6）」屬於雙唇塞音韻尾【-p】字。"
         }
       ],
       "passThreshold": 0.8
@@ -10471,53 +10489,62 @@
     "subject": "cantonese",
     "unit": 25,
     "lessonNumber": 3,
-    "title": "嶺南古典文學與粵詩吟誦 (Lingnan Classical Literature) (第3課)",
+    "title": "嶺南詩壇先驅與經典粵詩名篇深度析讀：「嶺南三大家」與屈大均、陳恭尹 (Lingnan Classical Poets)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元25第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握嶺南古典文學巨擘「嶺南三大家（屈大均、陳恭尹、梁佩蘭）」之代表詩作析讀、愛國情懷與《廣東新語》之早期粵方言記錄。",
     "presentation": {
-      "explanation": "",
+      "explanation": "明清之際，嶺南文風大盛，湧現出以「嶺南三大家」為代表之傑出詩人群體，將嶺南自然風貌與家國氣節融入古典詩篇：\n\n一、嶺南三大家歷史地位與代表作家：\n１．屈大均（Wat Daai-gwan，號翁山）：\n- 嶺南文學領袖，著有《廣東新語》，百科全書式記錄了明清時期廣東之天文、地理、物產及早期粵語詞彙（如『煲』、『埗』、『諗』）。\n- 詩風雄奇悲壯，代表作《道塘》、《詠木棉》。\n\n２．陳恭尹（Chan Gung-wan，號獨漉）：\n- 明末抗清名將陳邦彥之子，詩風沉鬱悲涼、格律森嚴，被尊為清初嶺南詩冠。\n- 代表作《崖門竭》：「山川浩劫動神明，一死難償帝子情。」以磅礴悲壯之筆觸憑弔宋末崖門海戰。\n\n３．梁佩蘭（Leung Pui-laan，號藥亭）：\n- 康熙朝進士，詩作清麗超逸、音律圓潤，與中原名士王士禛等唱和。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 25 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 25 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 25 in communication."
+          "target": "屈大均喺《廣東新語》入面精確記錄咗嶺南風土人情，為後世研究粵語歷史語音與詞彙提供咗珍貴文獻。",
+          "reading": "wat1 daai6 gwan1 hai2 \"gwong2 dung1 san1 jyu5\" jap6 min6 zing1 kok3 gei3 luk6 zo2 ling5 naam4 fung1 tou2 jan4 cing4, wai6 hau6 sai3 jin4 gau3 jyut6 jyu5 lik6 si1 jyu5 jam1 jyu5 ci4 wui6 tai4 gung1 zo2 zan1 gwai3 man4 hin3. [wɐt̚˥ taːi˨ kʷɐn˥ hɐi˩˧ \"kʷɔːŋ˧˥ tʊŋ˥ sɐn˥ jyː˩˧\" jɐp̚˨ miːn˨ tsɪŋ˥ kʰɔːk̚˧ kei˧ lʊk̚˨ tsɔː˧˥ lɪŋ˩˧ naːm˨˩ fʊŋ˥ tʰou˧˥ jɐn˨˩ tsʰɪŋ˨˩, wɐi˨ hɐu˨ sɐi˧ jiːn˨˩ kɐu˧ jyːt̚˨ jyː˩˧ lɪk̚˨ siː˥ jyː˩˧ jɐm˥ jyː˩˧ tsʰiː˨˩ wuːi˨ tʰɐi˨˩ kʊŋ˥ tsɔː˧˥ tsɐn˥ kʷɐi˧ mɐn˨˩ hiːn˧] (WUT DY-GWUN HY \"GWONG-DONG SUN-YUE\" YUP-MEEN JING-KOK GAY-LOK-JOR LING-NAHM FONG-TOU YUN-CHING, WAI HAU-SY YEEN-GAU YUET-YUE LIK-SEE YUE-YUM YUE CHEE-WUI TY-GONG-JOR JUN-GWY MUN-HEEN)",
+          "translation": "Qu Dajun accurately recorded Lingnan customs and conditions in 'Guangdong Xinyu', providing precious documentation for future generations to study the historical phonology and vocabulary of Cantonese."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元25-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "陳恭尹《崖門竭》詩句沉雄悲壯，用粵語吟詠更顯蒼涼大氣，展現出嶺南文人堅貞不屈之民族氣節。",
+          "reading": "can4 gung1 wan5 \"ngaai4 mun4 hit3\" si1 geui3 cam4 hung4 bei1 zong3, jung6 jyut6 jyu5 jam4 wing6 gang3 hin2 cong1 loeng4 daai6 hei3, zin2 jin6 ceot1 ling5 naam4 man4 jan4 gin1 zing1 bat1 wat1 zi1 man4 zuk6 hei3 zit3. [tsʰɐn˨˩ kʊŋ˥ wɐn˩˧ \"ŋaːi˨˩ muːn˨˩ hiːt̚˧\" siː˥ kɵy˧ tsʰɐm˨˩ hʊŋ˨˩ pei˥ tsɔːŋ˧, jʊŋ˨ jyːt̚˨ jyː˩˧ jɐm˨˩ wɪŋ˨ kɐŋ˧ hiːn˧˥ tsʰɔːŋ˥ lœːŋ˨˩ taːi˨ hei˧, tsiːn˧˥ jiːn˨ tsʰɵt̚˥ lɪŋ˩˧ naːm˨˩ mɐn˨˩ jɐn˨˩ kiːn˥ tsɪŋ˥ pɐt̚˥ wɐt̚˥ tsiː˥ mɐn˨˩ tsʊk̚˨ hei˧ tsiːt̚˧] (CHUN GONG-WUN \"NGAI-MOON-HEET\" SEE-GOEY CHUM-HOONG BAY-JONG, YOONG YUET-YUE YUM-WING GUNG HEEN CHONG-LEUNG DY-HEY, JEEN-YEEN-CHUT LING-NAHM MUN-YUN GEEN-JING-BUT-WUT JEE MUN-JOK HEY-JEET)",
+          "translation": "The lines of Chen Gongyin's 'Ode to Yamen' are solemn and tragic; chanting them in Cantonese highlights their desolation and grandeur, showcasing Lingnan scholars' unyielding national integrity."
+        },
+        {
+          "target": "嶺南三大家之詩作既繼承中原唐宋格律精髓，又深植嶺南本土風土人情，獨樹一幟。",
+          "reading": "ling5 naam4 saam1 daai6 gaa1 zi1 si1 zok3 gei3 gai3 sing4 zung1 jyun4 tong4 sung3 gaak3 leot6 zing1 seoi5, jau6 sam1 zik6 ling5 naam4 bun2 dei6 fung1 tou2 jan4 cing4, duk6 syu6 jat1 ci3. [lɪŋ˩˧ naːm˨˩ saːm˥ taːi˨ kaː˥ tsiː˥ siː˥ tsɔːk̚˧ kei˧ kɐi˧ sɪŋ˨˩ tsʊŋ˥ jyːn˨˩ tʰɔːŋ˨˩ sʊŋ˧ kaːk̚˧ lɵt̚˨ tsɪŋ˥ sɵy˩˧, jɐu˨ sɐm˥ tsɪk̚˨ lɪŋ˩˧ naːm˨˩ puːn˧˥ tei˨ fʊŋ˥ tʰou˧˥ jɐn˨˩ tsʰɪŋ˨˩, tʊk̚˨ syː˨ jɐt̚˥ tsʰiː˧] (LING-NAHM SAHM-DY-GAH JEE SEE-JOK GAY GAI-SING JOONG-YUEN TONG-SOONG GAAK-LUT JING-SOEY, YAU SUM-JIK LING-NAHM BOON-DAY FONG-TOU YUN-CHING, DUK-SYU-YUT-CHEE)",
+          "translation": "The poetic works of the Lingnan Three Masters not only inherited the essence of Tang and Song meters from the Central Plains, but also took deep root in Lingnan's local conditions and customs, creating a unique school."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【嶺南三家訣】翁山大均記《新語》，獨漉恭尹《崖門竭》；佩蘭藥亭音清麗，嶺南詩壇千古烈！"
+      ],
+      "culturalNotes": [
+        "明末清初的「嶺南三大家」奠定了粵派古典詩文在中華文壇之崇高地位。他們的作品兼具楚辭之奇詭浪漫與杜甫之沉雄悲壯，是嶺南文化最璀璨的文學瑰寶。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"高矮\":",
+          "prompt": "【嶺南名著】明末清初學者屈大均所撰、全面記錄廣東地理風俗與早期粵語字彙之百科全書名著係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：肥瘦錯置）",
-            "混雜生硬詞彙之不規範語句（例項：新舊未適配）",
-            "聲調助詞搭配欠妥之表達（例項：好壞誤用）"
+            "《廣東新語》 (Guangdong Xinyu)",
+            "《全唐詩》",
+            "《文心雕龍》",
+            "《粵曲大辭典》"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "《廣東新語》為屈大均撰寫之嶺南歷史地理與民俗語言百科全書。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"高矮\":",
+          "prompt": "【名篇作者】名作《崖門竭》（山川浩劫動神明）之作者、「嶺南三大家」之一係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：新舊未適配）",
-            "聲調助詞搭配欠妥之表達（例項：好壞誤用）",
-            "語序顛倒嘅非標準句式（例項：肥瘦錯置）"
+            "陳恭尹 (Chan Gung-wan)",
+            "蘇軾",
+            "屈大均",
+            "李白"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "《崖門竭》為清初嶺南詩冠陳恭尹之代表詩作。"
         }
       ]
     },
@@ -10525,15 +10552,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"高矮\": Which sentence is completely correct?",
+          "prompt": "【詩壇三大家】在中國文學史上被譽為「嶺南三大家」的三位古典文學巨擘係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：好壞誤用）",
-            "語序顛倒嘅非標準句式（例項：肥瘦錯置）",
-            "混雜生硬詞彙之不規範語句（例項：新舊未適配）"
+            "屈大均、陳恭尹、梁佩蘭 (Wat Daai-gwan, Chan Gung-wan, Leung Pui-laan)",
+            "李白、杜甫、白居易",
+            "蘇軾、蘇洵、蘇轍",
+            "韓愈、柳宗元、歐陽修"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「嶺南三大家」指明末清初嶺南著名詩人屈大均、陳恭尹與梁佩蘭。"
         }
       ],
       "passThreshold": 0.8
@@ -10544,53 +10571,62 @@
     "subject": "cantonese",
     "unit": 25,
     "lessonNumber": 4,
-    "title": "嶺南古典文學與粵詩吟誦 (Lingnan Classical Literature) (第4課)",
+    "title": "木魚書、龍舟歌與粵曲唱詞之民間文學修辭 (Folk Ballads & Cantonese Opera Lyrics)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元25第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握嶺南傳統民間說唱文學（木魚書、龍舟歌、南音）之格律修辭、敘事結構及其在近現代粵劇粵曲唱詞中之傳承發展。",
     "presentation": {
-      "explanation": "",
+      "explanation": "嶺南民間說唱文學係粵語方言文學之瑰寶，構成了粵劇、粵曲與南音藝術之深厚基石：\n\n一、嶺南三大傳統說唱文學體裁：\n１．「木魚書（木魚歌）」（muk6 jyu4 syu1）：\n- 形成於明末清初，以七言句為基本骨架，句句押韻或隔句押韻，採用地道粵語長篇敘事。\n- 代表名作：《花箋記》（Faa Zin Gei）、《二度梅》。《花箋記》在19世紀即被歌德譯介至歐洲，讚歎其為東方抒情文學經典。\n\n２．「龍舟歌」（lung4 zau1 go1）：\n- 嶺南水鄉藝人手持小鑼小鼓、手牽木雕小龍舟，沿街即興說唱之民間曲藝，節奏明快、生動詼諧。\n\n３．「南音（粵調地水南音）」（naam4 jam1）：\n- 嶺南瞽師（盲人藝人）以椰胡、秦琴伴奏之深情彈唱，曲調哀婉蒼涼，詞句典雅精緻（如《客途秋恨》）。\n\n二、說唱唱詞之語言修辭特色：\n- 夾敘夾議，文白交融（融文言典雅詞彙與方言助詞於七字格律之中）。\n- 善用頂真、重疊、對偶與疊字（如『冷冷清清、淒淒慘慘』）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 25 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 25 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 25 in communication."
+          "target": "南音名曲《客途秋恨》開篇：「涼風有信，秋月無邊。虧我思嬌情緒，好比度日如年。」詞句典雅，韻味悠長。",
+          "reading": "naam4 jam1 ming4 kuk1 \"haak3 tou4 cau1 han6\" hoi1 pin1: \"loeng4 fung1 jau5 seon3, cau1 jyut6 mou4 bin1. kwai1 ngo5 si1 giu1 cing4 seoi5, hou2 bei2 dou6 jat6 jyu4 nin4.\" ci4 geui3 din2 ngaa5, wan6 mei6 jau4 coeng4. [naːm˨˩ jɐm˥ mɪŋ˨˩ kʰʊk̚˥ \"haːk̚˧ tʰou˨˩ tsʰɐu˥ hɐn˨\": \"lœːŋ˨˩ fʊŋ˥ jɐu˩˧ sɵn˧, tsʰɐu˥ jyːt̚˨ mouou˨˩ piːn˥. kʰwɐi˥ ŋɔː˩˧ siː˥ kiːu˥ tsʰɪŋ˨˩ sɵy˩˧, hou˧˥ pei˧˥ tou˨ jɐt˨ jyː˨˩ niːn˨˩.\" tsʰiː˨˩ kɵy˧ tiːn˧˥ ŋaː˩˧, wɐn˨ mei˨ jɐu˨˩ tsʰœːŋ˨˩] (NAHM-YUM MING-KUK \"HAHK-TOU-CHAU-HUN\" HOI-PEEN: \"LEUNG-FONG YAU-SEUN, CHAU-YUET MOU-BEEN. KWAI NGOH SEE-GEW CHING-SOEY, HOH-BAY DOU-YUT YUE-NEEN.\" CHEE-GOEY DEEN-NGAH, WUN-MAY YAU-CHEUNG)",
+          "translation": "The opening of the famous Naamyum piece 'Autumn Regrets on a Traveller's Journey': 'Cool breeze keeps faith, autumn moon knows no bounds; alas, my longing for my love makes each passing day feel like a year.' The lyric is elegant and deeply resonant."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元25-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "木魚書《花箋記》用純正廣州話七言句式寫成，情節曲折動人，被譽為東方說唱文學之巔峰。",
+          "reading": "muk6 jyu4 syu1 \"faa1 zin1 gei3\" jung6 seon4 zing3 gwong2 zau1 waa6*2 cat1 jin4 geui3 sik1 se2 sing4, cing4 zit3 kuk1 zit3 dung6 jan4, bei2 jyu6 wai4 dung1 fong1 seoi3 coeng3 man4 hok6 zi1 din1 fung1. [mʊk̚˨ jyː˨˩ syː˥ \"faː˥ tsiːn˥ kei˧\" jʊŋ˨ sɵn˨˩ tsɪŋ˧ kʷɔːŋ˧˥ tsɐu˥ waː˧˥ tsʰɐt̚˥ jiːn˨˩ kɵy˧ sɪk̚˧ sɛː˧˥ sɪŋ˨˩, tsʰɪŋ˨˩ tsiːt̚˧ kʰʊk̚˥ tsiːt̚˧ tʊŋ˨ jɐn˨˩, pei˨ jyː˨ wɐi˨˩ tʊŋ˥ fɔːŋ˥ sɵy˧ tsʰœːŋ˧ mɐn˨˩ hɔːk̚˨ tsiː˥ tiːn˥ fʊŋ˥] (MOK-YUE-SYU \"FAH-JEEN-GAY\" YOONG SEUN-JING GWONG-JAU-WAH CHUT-YEEN GOEY-SIK SEH-SING, CHING-JEET KUK-JEET DOONG-YUN, BAY-YUE WAI DONG-FONG SOEY-CHEUNG MUN-HOK JEE DEEN-FOONG)",
+          "translation": "The Wooden Fish book 'The Flowered Scroll' was written in pure Cantonese 7-character verse, with moving twists and turns, praised as the pinnacle of Eastern narrative folk literature."
+        },
+        {
+          "target": "地水南音嘅唱腔哀怨纏綿，盲人藝人以秦琴自彈自唱，訴盡人間滄桑同離愁別緒。",
+          "reading": "dei6 seoi2 naam4 jam1 ge3 coeng3 hoeng1 oi1 jyun3 cin4 min4, maang4 jan4 ngai6 jan4 ji5 ceon4 kam4 zi6 daan2 zi6 coeng3, sou3 zeon6 jan4 gaan1 cong1 song1 tung4 lei4 sau4 bit6 seoi5. [tei˨ sɵy˧˥ naːm˨˩ jɐm˥ kɛː˧ tsʰœːŋ˧ hœːŋ˥ ɔːi˥ jyːn˧ tsʰiːn˨˩ miːn˨˩, maːŋ˨˩ jɐn˨˩ ŋɐi˨ jɐn˨˩ jiː˩˧ tsʰɵn˨˩ kʰɐm˨˩ tsiː˨ taːn˧˥ tsiː˨ tsʰœːŋ˧, sou˧ tsɵn˨ jɐn˨˩ kaːn˥ tsʰɔːŋ˥ sɔːŋ˥ tʰʊŋ˨˩ lei˨˩ sɐu˨˩ piːt̚˨ sɵy˩˧] (DAY-SOEY NAHM-YUM GEH CHEUNG-HEUNG OY-YUEN CHEEN-MEEN, MAHNG-YUN NGY-YUN YEE CHUN-KUM JEE-DAH-JEE-CHEUNG, SOU-JEUN YUN-GAHN CHONG-SOHNG TOONG LEY-SAU BEET-SOEY)",
+          "translation": "The vocal melody of Dishui Naamyum is plaintive and lingering; blind folk artists sang while playing the Qinqin, expressing all the world's vicissitudes and sorrow of parting."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【說唱文學歌】木魚唱本《花箋記》，龍舟水鄉鑼鼓齊；南音一曲《秋恨》嘆，文白交融嶺南藝！"
+      ],
+      "culturalNotes": [
+        "粵曲與地水南音被列入國家級非物質文化遺產名錄。已故一代名伶新馬師曾、白雪仙等大師在唱詞咬字上極為講究粵語『正字正音』，使嶺南說唱文學達到了極高的戲劇藝術境界。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"肥瘦\":",
+          "prompt": "【民間說唱名篇】開篇為「涼風有信，秋月無邊。虧我思嬌情緒好比度日如年」之著名地水南音曲目係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：新舊錯置）",
-            "混雜生硬詞彙之不規範語句（例項：好壞未適配）",
-            "聲調助詞搭配欠妥之表達（例項：快慢誤用）"
+            "《客途秋恨》 (Autumn Regrets on a Traveller's Journey)",
+            "《帝女花》",
+            "《鳳閣恩仇未了情》",
+            "《將進酒》"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "《客途秋恨》為嶺南地水南音最具代表性之千古名篇。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"肥瘦\":",
+          "prompt": "【木魚名著】19世紀即被翻譯傳入歐洲、以粵語七言說唱體裁寫成之木魚書經典係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：好壞未適配）",
-            "聲調助詞搭配欠妥之表達（例項：快慢誤用）",
-            "語序顛倒嘅非標準句式（例項：新舊錯置）"
+            "《花箋記》 (The Flowered Scroll / Faa Zin Gei)",
+            "《水滸傳》",
+            "《紅樓夢》",
+            "《廣東新語》"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "《花箋記》為明末清初木魚書之傳世經典。"
         }
       ]
     },
@@ -10598,15 +10634,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"肥瘦\": Which sentence is completely correct?",
+          "prompt": "【曲藝特色】嶺南傳統說唱曲藝「龍舟歌」最標誌性之表演形式為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：快慢誤用）",
-            "語序顛倒嘅非標準句式（例項：新舊錯置）",
-            "混雜生硬詞彙之不規範語句（例項：好壞未適配）"
+            "藝人手持小鑼小鼓與木雕小龍舟，沿街邊敲邊唱即興敘事 (Singing while holding miniature gong, drum and wooden dragon boat)",
+            "百人大型交響樂團伴奏",
+            "無伴奏純美聲合唱",
+            "西洋芭蕾舞劇配樂"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "龍舟歌藝人手持小鑼鼓與木龍舟，採用靈動即興之粵語口頭敘事。"
         }
       ],
       "passThreshold": 0.8
@@ -10617,53 +10653,62 @@
     "subject": "cantonese",
     "unit": 25,
     "lessonNumber": 5,
-    "title": "嶺南古典文學與粵詩吟誦 (Lingnan Classical Literature) (第5課)",
+    "title": "文言倒裝、古漢語詞彙存古與現代高階文言粵語之融合 (Archaic Syntax & Lexical Preservation)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元25第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語中古先秦漢語存古現象（副詞/形容詞後置倒裝、單音節古動詞、名詞存古）及其在現代高階文雅粵語寫作中之融會貫通。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語常被稱為『古漢語之活化石』，其語法結構與核心詞庫深植著大量先秦兩漢及唐宋古漢語特徵：\n\n一、古漢語語序倒裝存古現象：\n１．狀語（副詞）後置倒裝：\n- 「你行先」（你先走）—— 相當於先秦古漢語『賓/狀語後置』。\n- 「畀多一件我」（多給我一件）。\n- 「食多啲」（多吃一點）。\n２．比較補語後置：\n- 「我大過你」（我比你年長）—— 保留先秦『大於汝』之介詞後置語序（過＝於）。\n\n二、單音節核心古漢語詞彙存古：\n１．日常核心動作動詞：\n- 「行（haang4）」（走）—— 先秦『步行為行，奔跑為走』。\n- 「走（zau2）」（跑）—— 『扁鵲望桓侯而還走』之古義。\n- 「食（sik6）」（吃）與「飲（jam2）」（喝）。\n- 「睇（tai2）」（看）—— 源自古字『睇』。\n- 「企（kei5）」（站立）—— 『企者不立』之古義。\n\n２．自然身體名詞存古：\n- 「頸（geng2）」（脖子）、「翼（jik6）」（翅膀）、「面（min6）」（臉）、「身（san1）」（身體）。\n\n三、現代高階文言粵語之融會貫通：\n- 在高級社評、文學散文與學術演講中，靈活融合古雅詞彙與嚴謹粵語語法，達成『文而不俗，雅而不澀』之最高境界。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 25 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 25 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 25 in communication."
+          "target": "粵語講「你行先啦，我跟住就嚟」，完美保留咗古漢語狀語後置嘅倒裝語法結構。",
+          "reading": "jyut6 jyu5 gong2 \"nei5 haang4 sin1 laa1, ngo5 gan1 zyu6 zau6 lai4\", jyun4 mei5 bou2 lau4 zo2 gu2 hon3 jyu5 zong6 jyu5 hau6 zi3 ge3 dou2 zong1 jyu5 faat3 git3 gau3. [jyːt̚˨ jyː˩˧ kɔːŋ˧˥ \"nei˩˧ haːŋ˨˩ siːn˥ laː˥, ŋɔː˩˧ kɐn˥ tsyː˨ tsɐu˨ lɐi˨˩\", jyːn˨˩ mei˩˧ pou˧˥ lɐu˨˩ tsɔː˧˥ kuː˧˥ hɔːn˧ jyː˩˧ tsɔːŋ˨ jyː˩˧ hɐu˨ tsiː˧ kɛː˧ tou˧˥ tsɔːŋ˥ jyː˩˧ faːt̚˧ kiːt̚˧ kɐu˧] (YUET-YUE GONG \"NEI HAHNG-SEEN LAH, NGOH GUN-JUE JAU-LY\", YUEN-MAY BOU-LAU-JOR GOO-HOHN-YUE JONG-YUE HAU-JEE GEH DOU-JONG YUE-FAHT GEET-GAU)",
+          "translation": "Cantonese saying 'You walk first, I will follow right away' perfectly preserves the postpositional inverted grammatical structure of archaic Chinese adverbials."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元25-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "喺日常生活中，廣東話保留咗「行、走、食、飲、睇、企」等大量單音節先秦古動詞，體現出深厚嘅文化底蘊。",
+          "reading": "hai2 jat6 seung4 sang1 wut6 zung1, gwong2 dung1 waa6*2 bou2 lau4 zo2 \"haang4, zau2, sik6, jam2, tai2, kei5\" dang2 daai6 loeng6 daan1 jam1 zit3 sin1 ceon4 gu2 dung6 ci4, tai2 jin6 ceot1 sam1 hau5 ge3 man4 faa3 dai2 wan3. [hɐi˩˧ jɐt˨ sœːŋ˨˩ sɐŋ˥ wuːt̚˨ tsʊŋ˥, kʷɔːŋ˧˥ tʊŋ˥ waː˧˥ pou˧˥ lɐu˨˩ tsɔː˧˥ \"haːŋ˨˩, tsɐu˧˥, sɪk̚˨, jɐm˧˥, tʰɐi˧˥, kʰei˩˧\" tɐŋ˧˥ taːi˨ lœːŋ˨ taːn˥ jɐm˥ tsiːt̚˧ siːn˥ tsʰɵn˨˩ kuː˧˥ tʊŋ˨ tsʰiː˨˩, tʰɐi˧˥ jiːn˨ tsʰɵt̚˥ sɐm˥ hɐu˩˧ kɛː˧ mɐn˨˩ faː˧ tɐi˧˥ wɐn˧] (HY YUT-SEUNG SUNG-WOOT JOONG, GWONG-DONG-WAH BOU-LAU-JOR \"HAHNG, JAU, SIK, YUM, TY, KAY\" DUNG DY-LEUNG DAHN-YUM-JEET SEEN-CHUN GOO-DOONG-CHEE, TY-YEEN-CHUT SUM-HAU GEH MUN-FAH DY-WUN)",
+          "translation": "In daily life, Cantonese preserves a large number of monosyllabic pre-Qin ancient verbs such as 'haang4 (walk), zau2 (run), sik6 (eat), jam2 (drink), tai2 (look), kei5 (stand)', reflecting profound cultural depth."
+        },
+        {
+          "target": "當代高階粵語寫作融會古典雅詞與本土語法，展現出古今交融、典雅博大之語言魅力。",
+          "reading": "dong1 doi6 gou1 gaai1 jyut6 jyu5 se2 zok3 jung4 wui6 gu2 din2 ngaa5 ci4 jyu5 bun2 tou2 jyu5 faat3, zin2 jin6 ceot1 gu2 gam1 gaau1 jung4, din2 ngaa5 bok3 daai6 zi1 jyu5 jin4 mei6 lik6. [tɔːŋ˥ tɔːi˨ kou˥ kaːi˥ jyːt̚˨ jyː˩˧ sɛː˧˥ tsɔːk̚˧ jʊŋ˨˩ wuːi˨ kuː˧˥ tiːn˧˥ ŋaː˩˧ tsʰiː˨˩ jyː˩˧ puːn˧˥ tʰou˧˥ jyː˩˧ faːt̚˧, tsiːn˧˥ jiːn˨ tsʰɵt̚˥ kuː˧˥ kɐm˥ kaːu˥ jʊŋ˨˩, tiːn˧˥ ŋaː˩˧ pɔːk̚˧ taːi˨ tsiː˥ jyː˩˧ jiːn˨˩ mei˨ lɪk̚˨] (DONG-DOY GOU-GAI YUET-YUE SEH-JOK YOONG-WUI GOO-DEEN-NGAH CHEE YUE BOON-TOU YUE-FAHT, JEEN-YEEN-CHUT GOO-GUM GAU-YOONG, DEEN-NGAH BOK-DY JEE YUE-YEEN MAY-LIK)",
+          "translation": "Contemporary high-register Cantonese writing blends classical elegant diction with native syntax, demonstrating a linguistic charm of ancient-modern integration and profound elegance."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【古漢存古歌】慢行快「走」古意存，食飯「飲」水睇得真；行先「大過」倒裝序，活化石語千載春！"
+      ],
+      "culturalNotes": [
+        "粵語中的『走（zau2）』保留了古代『奔跑、逃跑』之本義（如『走難』、『走狗』、『走得快』）；而『行（haang4）』則保留了古代『慢步前行』之本義。這與現代普通話的『走（walk）』與『跑（run）』形成了鮮明的歷史層次對比。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"新舊\":",
+          "prompt": "【古漢語動詞】廣東話中「走（zau2）」字在古漢語及本地方言中的原始本義係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：好壞錯置）",
-            "混雜生硬詞彙之不規範語句（例項：快慢未適配）",
-            "聲調助詞搭配欠妥之表達（例項：早遲誤用）"
+            "奔跑、逃跑 (Run / Flee - Pre-Qin original meaning)",
+            "緩慢步行",
+            "躺臥睡覺",
+            "跳躍舞蹈"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "先秦古漢語中「走」為奔跑（如走馬觀花、夸父逐日棄杖而走），粵語完整保留此古義。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"新舊\":",
+          "prompt": "【語序倒裝】日常表達「你行先」（你先走）所體現的古漢語語法特徵係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：快慢未適配）",
-            "聲調助詞搭配欠妥之表達（例項：早遲誤用）",
-            "語序顛倒嘅非標準句式（例項：好壞錯置）"
+            "狀語副詞後置倒裝 (Postpositional adverbial inversion)",
+            "賓語前置",
+            "主謂倒裝",
+            "定語後置"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「行先」、「食多啲」體現了狀語副詞後置於動詞之後的古漢語倒裝語法遺存。"
         }
       ]
     },
@@ -10671,15 +10716,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"新舊\": Which sentence is completely correct?",
+          "prompt": "【比較句淵源】粵語比較句「我大過你」（ngo5 daai6 gwo3 nei5）中，「過」字的古代語法淵源相當於先秦古漢語的：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：早遲誤用）",
-            "語序顛倒嘅非標準句式（例項：好壞錯置）",
-            "混雜生硬詞彙之不規範語句（例項：快慢未適配）"
+            "介詞「於」（相當於『大於汝』） (Preposition 'yu' - greater than you)",
+            "動詞「經過」",
+            "名詞「過錯」",
+            "助詞「的」"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「大過你」在結構上直接對應先秦漢語之「大於汝」，「過」承擔了比較介詞「於」之功能。"
         }
       ],
       "passThreshold": 0.8
