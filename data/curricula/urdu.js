@@ -5405,53 +5405,62 @@
     "subject": "urdu",
     "unit": 13,
     "lessonNumber": 1,
-    "title": "فعل مضارع اور احتمالی صورتیں (Subjunctive Mood) (Part 1)",
+    "title": "فعل مضارع کی ساخت اور خواہش/اجازت (Subjunctive: Formation, Wishes & Permission)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 13.1) with authentic precision.",
+    "objective": "فعل مضارع کی تصریفی گردان (Conjugation) اور خواہش، تمنا، دعا اور اجازت طلبی کے فصیح نحوی اسلوب پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں فعل مضارع (Subjunctive Mood: Formation & Wishes):\n\n1. **فعل مضارع کی گردان (Conjugation of Subjunctive)**:\n   - **متکلم واحد (میں)**: مادہ + **اؤں** (میں آؤں / لکھوں)؛\n   - **متکلم جمع (ہم)**: مادہ + **ئیں** (ہم آئیں / لکھیں)؛\n   - **مخاطب واحد (تو)**: مادہ + **ئے** (تو آئے / لکھے)؛\n   - **مخاطب حاضر (تم)**: مادہ + **ؤ** (تم آؤ / لکھو)؛\n   - **غائب واحد (وہ/یہ)**: مادہ + **ئے** (وہ آئے / لکھے)؛\n   - **غائب جمع و تعظیم (وہ/آپ)**: مادہ + **ئیں** (وہ آئیں / آپ لکھیں)۔\n\n2. **خواہش، دعا اور اجازت کے مواقع**:\n   - **اجازت طلبی**: «کیا میں اندر **آؤں**؟»؛\n   - **دعا و تمنا**: «خدا کرے وہ امتحان میں سرخرو **ہو جائے**»؛\n   - **حسرت**: «کاش وہ میری بات **سمجھے**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "کیا میں آپ کی اس پروقار محفل میں حاضر ہوں اور اپنے چند خیالات پیش کروں؟",
+          "reading": "Kya main aap ki is pur-waqaar mehfil mein haazir hoon aur apne chand khayaalaat pesh karoon? [kjaː mɛ̃ː aːp kiː ɪs pʊr-ʋəqaːr mɛɦfɪl mẽː haːzɪr hõː ɔːr əpneː tʃənd̪ xəjaːlaːt̪ peːʃ kərõː] (KYAH myhn AHP kee EES poor-vuh-QAHR MYH-feel mayn HAH-zeer hohn owr uhp-NAY CHUHND khuh-yah-LAHT PAYSH kuhr-OHN)",
+          "translation": "May I present myself [permission: haazir hoon] in your dignified gathering and share a few thoughts [pesh karoon]?"
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 13-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "کاش ہمارا معاشرہ جہالت اور تعصب کے اندھیروں سے نکل کر علم و آگہی کی روشنی میں سانس لے۔",
+          "reading": "Kaash hamaara muaashra jihaalat aur ta'assub ke andheron se nikal kar ilm-o-aagahi ki raushni mein saans le. [kaːʃ həm-aːraː mʊʔaːʃrəh dʒɪhaːlət̪ ɔːr t̪əʔəsːʊb keː ənd̪ʱeːrõː seː nɪkəl kər ɪlm-oː-aːɡəhiː kiː rɔːʃniː mẽː saːns leː] (KAHSH huh-mah-RAH moo-AHSH-ruh jee-HAH-luht owr tuh-UHS-soob kay uhn-DHAY-rohn say nee-KUHL kuhr EEL-moh-ah-guh-HEE kee rowsh-NEE mayn SAHNS LAY)",
+          "translation": "Would that our society emerge from the darkness of ignorance and prejudice and breathe [subjunctive wish: saans le] in the light of knowledge!"
+        },
+        {
+          "target": "خدا کرے کہ ہمارے وطن میں امن و امان قائم رہے اور ہر شہری خوشحالی کی زندگی گزارے۔",
+          "reading": "Khuda karay ke hamaare watan mein amn-o-amaan qaa'im rahe aur har shehri khush-haali ki zindagi guzaaray. [xʊd̪aː kəreː kɪ həm-aːreː ʋət̪ən mẽː əmn-oː-əmaːn qaːʔɪm rəheː ɔːr hər ʃɛɦriː xʊʃ-haːliː kiː zɪnd̪əɡiː ɡʊzaːreː] (khoo-DAH kuh-RAY kay huh-mah-RAY vuh-TUHN mayn UHM-noh-uh-MAHN QAH-eem ruh-HAY owr HUHR shyh-REE khoosh-hah-LEE kee zeen-duh-GEE goo-ZAH-ray)",
+          "translation": "May God grant [prayer: khuda karay] that peace and security endure [qaa'im rahe] in our homeland and every citizen live [guzaaray] a prosperous life."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فعل مضارع نشانی: میں آؤں (واؤ نون غنہ)، ہم آئیں (ہمزہ یے نون غنہ)، وہ آئے (ہمزہ بڑی یے)!"
+      ],
+      "culturalNotes": [
+        "اردو دعاؤں اور تعظیمی گفتگو میں مضارع کا اسلوب تہذیبی احترام اور عاجزی کا سب سے شائستہ ذریعہ مانا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"کتاب\":",
+          "prompt": "متکلم واحد (میں) کے لیے اجازت طلب کرنے کا درست صیغہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («موسیقی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («فلم» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کھیل» کی خرابی)"
+            "کیا میں اندر آؤں؟ (Kya main andar aaoon? - Correct 1st person singular subjunctive for seeking permission)",
+            "کیا میں اندر آؤں گا؟ (مستقبل مطلق)",
+            "کیا میں اندر آیا تھا؟ (ماضی بعید)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "اجازت طلبی کے لیے متکلم واحد کا مضارع صیغہ «آؤں» مستعمل ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"کتاب\":",
+          "prompt": "دعا و تمنا کے اظہار کے لیے فصیح جملہ کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («فلم» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کھیل» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («موسیقی» کا غیر درست استعمال)"
+            "خدا کرے تم ہمیشہ خوش رہو (May God grant that you always remain happy - Subjunctive of blessing/wish)",
+            "خدا کرے تم خوش رہتا تھا (ماضی استمراری کی خامی)",
+            "خدا کرے تم خوش روئے (بے معنی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "دعائیہ جملے میں مضارع کا صیغہ «خوش رہو / رہے» درست ہے۔"
         }
       ]
     },
@@ -5459,17 +5468,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"کتاب\": Which sentence is completely correct?",
+          "prompt": "فعل مضارع برائے تمنا و دعا (Subjunctive Mood) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کھیل» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («موسیقی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («فلم» سے متعلق)"
+            "خدا کرے کہ ہمارے ملک کے نوجوان علم و ہنر کے میدان میں دنیا بھر میں اپنا لوہا منوائیں اور ترقی کی نئی راہیں کھولیں۔ (May God grant that the youth of our country prove their mettle worldwide [manwaa'ein] and open new paths of progress [kholein].)",
+            "خدا کرے نوجوان نے امتحان دیا تھا اور رویا۔",
+            "فعل مضارع صرف پرانی کہانیوں میں لکھا جاتا ہے۔",
+            "مضارع کے آخر میں ہمیشہ لفظ 'گا' لگانا لازمی ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«خدا کرے کہ ہمارے ملک کے نوجوان علم و ہنر کے میدان میں دنیا بھر میں اپنا لوہا منوائیں اور ترقی کی نئی راہیں کھولیں۔» فعل مضارع کے دعائیہ اسلوب کا کامل جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u13-l2": {
@@ -5477,53 +5487,62 @@
     "subject": "urdu",
     "unit": 13,
     "lessonNumber": 2,
-    "title": "فعل مضارع اور احتمالی صورتیں (Subjunctive Mood) (Part 2)",
+    "title": "احتمال اور امکان: شاید، ممکن ہے اور ہو سکتا ہے (Probability & Possibility)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 13.2) with authentic precision.",
+    "objective": "امکان و احتمال ظاہر کرنے والے کلمات (شاید، ممکن ہے کہ، ہو سکتا ہے کہ) کے ساتھ فعل مضارع کے لازمی ربط پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں احتمال اور امکان کی تعبیر (Probability & Possibility with Subjunctive):\n\n1. **امکان کے بنیادی کلمات (Possibility Markers)**:\n   - **شاید** (Perhaps / Maybe)؛\n   - **ممکن ہے کہ** (It is possible that)؛\n   - **ہو سکتا ہے کہ** (It may be that / It might happen)۔\n\n2. **مضارع کا لازمی اطلاق**:\n   - جب کسی بات میں شک، قیاس یا امکان پایا جائے تو مستقبل مطلق (گا/گے/گی) کے بجائے **فعل مضارع** لایا جاتا ہے:\n     - «**شاید وہ کل ہمارے پاس آئے**» (شاید وہ کل آئے گا کے مقابلے میں زیادہ فصیح ہے)؛\n     - «**ممکن ہے کہ آج رات بارش ہو**»؛\n     - «**ہو سکتا ہے کہ پروفیسر صاحب تشریف لائیں**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "شاید وہ کل کے اہم سیمینار میں اپنا تاریخی مقالہ پیش کرے اور اس پر مدلل گفتگو فرمائے۔",
+          "reading": "Shaayad woh kal ke aham seminar mein apna taareekhi maqaala pesh karay aur is par mudallal guftagu farmaaye. [ʃaːjəd̪ ʋoːh kəl keː əɦəm seːmiːnaːr mẽː əpnaː t̪aːriːxiː məqaːlaː peːʃ kəreː ɔːr ɪs pər mʊd̪əlːəl ɡʊft̪əɡuː fərmaːjeː] (SHAH-yuhd VOH KUHL kay UH-huhm seminar mayn uhp-NAH tah-REE-khee muh-QAH-lah PAYSH kuh-RAY owr EES puhr moo-duhl-LUHL goof-tuh-GOO fuhr-MAH-yay)",
+          "translation": "Perhaps he will present [subjunctive possibility: pesh karay] his historical paper in tomorrow's seminar and deliver a reasoned talk [guftagu farmaaye]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 13-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ممکن ہے کہ حکومت اس پسماندہ علاقے کی تعمیر و ترقی کے لیے ایک خصوصی فنڈ جاری کرے۔",
+          "reading": "Mumkin hai ke hukoomat is pasmaanda ilaaqay ki ta'meer-o-taraqqi ke liye ek khusoosi fund jaari karay. [mʊmkɪn hɛː kɪ hʊkuːmət̪ ɪs pəsmaːnd̪aː ɪlaːqeː kiː t̪əʔmiːr-oː-t̪ərəqːiː keː lɪjeː eːk xʊsuːsiː fənɖ dʒaːriː kəreː] (moom-KEEN HY kay hoo-KOO-muht EES puhs-MAHN-dah ee-LAH-qay kee tah-MEER-oh-tuh-ruhq-QEE kay lee-AY AYK khoo-soo-SEE fund JAH-ree kuh-RAY)",
+          "translation": "It is possible that the government will release [subjunctive with mumkin hai: jaari karay] a special fund for the development of this underprivileged area."
+        },
+        {
+          "target": "ہو سکتا ہے کہ موسم کی خرابی کے باعث تمام پروازیں کچھ دیر کے لیے منسوخ کر دی جائیں۔",
+          "reading": "Ho sakta hai ke mausam ki kharaabi ke baa'is tamaam parwaazein kuch der ke liye mansookh kar dee jaa'ein. [hoː səktaː hɛː kɪ mɔːsəm kiː xəraːbiː keː baːʔɪs t̪əmaːm pərʋaːzẽː kʊtʃʰ d̪eːr keː lɪjeː mənsuːx kər d̪iː dʒaːʔẽː] (HOH suhk-TAH HY kay mow-SUHM kee khuh-rah-BEE kay BAH-ees tuh-MAHM puhr-vah-ZAYN KOOCH DAYR kay lee-AY muhn-SOOKH kuhr DEE jah-AYN)",
+          "translation": "It might be that due to bad weather all flights are canceled [passive subjunctive: kar dee jaa'ein] for some time."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "امکان و احتمال قاعدہ: شاید، ممکن ہے، ہو سکتا ہے + فعل مضارع (شاید آئے، ممکن ہے بارش ہو)!"
+      ],
+      "culturalNotes": [
+        "اردو گفتگو میں غیر یقینی معاملات پر قطعیت سے بچنے اور احتیاط برتنے کے لیے 'شاید' اور 'ممکن ہے' کا شائستہ استعمال عام ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"موسیقی\":",
+          "prompt": "کلمۂ امکان «ممکن ہے کہ» کے بعد کون سا صیغہ فصیح ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («فلم» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کھیل» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کرکٹ» کی خرابی)"
+            "وہ سچ بولے (Woh sach bolay - Correct subjunctive mood following mumkin hai ke)",
+            "وہ سچ بولتا تھا (ماضی استمراری)",
+            "وہ سچ بولے گا روئے گا (بے ربط الفاظ)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«ممکن ہے کہ» کے بعد فعل مضارع «وہ سچ بولے» فصیح ترین ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"موسیقی\":",
+          "prompt": "احتمال ظاہر کرنے والے لفظ «شاید» کے ساتھ درست جملہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کھیل» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کرکٹ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («فلم» کا غیر درست استعمال)"
+            "شاید آج رات بارش ہو (Shaayad aaj raat baarish ho - Natural subjunctive possibility with shaayad)",
+            "شاید آج رات بارش ہوئی تھی (ماضی بعید)",
+            "شاید بارش روتا ہے (تذکیر و تانیث کی غلطی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«شاید آج رات بارش ہو» احتمال و امکان کا فصیح جملہ ہے۔"
         }
       ]
     },
@@ -5531,17 +5550,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"موسیقی\": Which sentence is completely correct?",
+          "prompt": "امکان و احتمال (Probability & Possibility with Subjunctive) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کرکٹ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («فلم» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کھیل» سے متعلق)"
+            "ممکن ہے کہ دونوں ممالک کے سربراہانِ مملکت سرحدی تنازعات کو پرامن مذاکرات کے ذریعے حل کرنے پر متفق ہو جائیں۔ (It is possible that the heads of state of both countries agree [muttafiq ho jaa'ein] to resolve border disputes through peaceful talks.)",
+            "ممکن ہے کہ سربراہان کل رویا تھا اور گھر گیا۔",
+            "شاید اور ممکن ہے صرف سائنسدان بولتے ہیں۔",
+            "احتمالی جملوں میں ہمیشہ فعل ماضی لگانا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ممکن ہے کہ دونوں ممالک کے سربراہانِ مملکت سرحدی تنازعات کو پرامن مذاکرات کے ذریعے حل کرنے پر متفق ہو جائیں۔» کلمۂ امکان اور مضارع کا مستند ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u13-l3": {
@@ -5549,53 +5569,62 @@
     "subject": "urdu",
     "unit": 13,
     "lessonNumber": 3,
-    "title": "فعل مضارع اور احتمالی صورتیں (Subjunctive Mood) (Part 3)",
+    "title": "مشروط مضارع اور صلاح و مشورہ (Conditional Subjunctive & Deliberation)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 13.3) with authentic precision.",
+    "objective": "شرطیہ جملوں میں جزا و سزا (Conditionals) اور باہمی مشورے و رہنمائی (Deliberative Subjunctive) کے نحوی اوزان پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں مشروط مضارع اور صلاح و مشورہ (Conditional & Deliberative Subjunctive):\n\n1. **شرطیہ جملوں میں مضارع (Protasis Condition with Subjunctive)**:\n   - جب شرط میں امکان اور مستقبل کا عمل مضمر ہو:\n     - «**اگر وہ سچ بولے** تو سب اس کی تعریف کریں گے»؛\n     - «**جب تک آپ اجازت نہ دیں**، میں قدم نہیں اٹھاؤں گا»۔\n\n2. **صلاح اور باہمی رائے زنی (Deliberative Subjunctive)**:\n   - جب مشورہ مانگا جائے یا باہمی لائحۂ عمل طے کرنا ہو:\n     - «اب ہم اس مشکل میں **کیا کریں**؟»؛\n     - «کیا ہم آگے **بڑھیں** یا یہیں **رک جائیں**؟»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اگر انسان دیانت داری اور خلوصِ نیت کے ساتھ محنت کرے تو وہ ہر مشکل پر فتح پا سکتا ہے۔",
+          "reading": "Agar insaan diyaanat-daari aur khuloos-e-niyyat ke saath mehnat karay to woh har mushkil par fateh paa sakta hai. [əɡər ɪnsaːn d̪ɪjaːnət̪-d̪aːriː ɔːr xʊluːs-eː-nɪjːət̪ keː saːt̪ʰ mɛɦnət̪ kəreː t̪oː ʋoːh hər mʊʃkɪl pər fət̪əh paː səktaː hɛː] (UH-guhr een-SAHN dee-yah-nuht-dah-REE owr khoo-LOOS-ay-nee-yuht kay SAHTH MYH-nuht kuh-RAY toh VOH HUHR moosh-KEEL puhr FUH-tuh PAH suhk-TAH HY)",
+          "translation": "If a person works hard with honesty and sincerity of intention [conditional subjunctive: mehnat karay], he can triumph over every hardship."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 13-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "جب تک ہم اپنے قومی اور اخلاقی فرائض کا ادراک نہ کریں، ہم ترقی کی راہ پر گامزن نہیں ہو سکتے۔",
+          "reading": "Jab tak hum apne qaumi aur akhlaaqi faraa'iz ka idraak na karein, hum taraqqi ki raah par gaamzan nahin ho saktay. [dʒəb t̪ək həm əpneː qɔːmiː ɔːr əxlaːqiː fəraːʔɪz kaː ɪd̪raːk nə kərẽː həm t̪ərəqːiː kiː raːh pər ɡaːmzən nəhĩː hoː səkt̪eː] (JUHB TUHK HOOM uhp-NAY QOW-mee owr uhkh-lah-QEE fuh-rah-EEZ kah eed-RAHK nuh kuh-RAYN, HOOM tuh-ruhq-QEE kee RAHH puhr gahm-ZUHN nuh-HEEN hoh suhk-TAY)",
+          "translation": "As long as we do not realize [subjunctive: idraak na karein] our national and moral duties, we cannot advance on the path of progress."
+        },
+        {
+          "target": "ہم اس نازک صورتحال میں کس راستے کا انتخاب کریں اور اپنی قوم کو کس طرح متحد رکھیں۔",
+          "reading": "Hum is naazuk soorat-e-haal mein kis raastay ka intekhaab karein aur apni qawm ko kis tarah muttahid rakhein. [həm ɪs naːzʊk suːrət̪-eː-haːl mẽː kɪs raːst̪eː kaː ɪnt̪ɪxaːb kərẽː ɔːr əpniː qɔːm koː kɪs t̪ərəh mʊt̪ːəhɪd̪ rəkʰẽː] (HOOM EES nah-ZOOK soo-ruh-tay-HAHL mayn KEES rahs-TAY kah een-tuh-KHAHB kuh-RAYN owr uhp-NEE QOWM koh KEES tuh-RUH moot-tuh-HEED ruh-KHAYN)",
+          "translation": "Which path should we choose [deliberative subjunctive: intekhaab karein] in this delicate situation and how should we keep our nation united [rakhein]?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "شرط و مشورہ فارمولا: اگر محنت کرے (شرط مضارع)، اب ہم کیا کریں (مشورہ مضارع)!"
+      ],
+      "culturalNotes": [
+        "اردو کی تاریخی اور سیاسی تقاریر میں قوم سے اجتماعی مشورے کے لیے 'ہم کیا کریں' کا صیغۂ مضارع کثرت سے برتا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"فلم\":",
+          "prompt": "مشورے کے لیے درست صیغۂ مضارع کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («کھیل» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کرکٹ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سفر» کی خرابی)"
+            "اب ہم کیا کریں؟ (Ab hum kya karein? - Correct deliberative 1st person plural subjunctive)",
+            "اب ہم کیا کرتے تھے؟ (ماضی استمراری)",
+            "اب ہم کیا کریں گے روئیں گے؟ (بے ربط)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "باہمی مشورے اور رائے مانگنے کے لیے «اب ہم کیا کریں؟» درست ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"فلم\":",
+          "prompt": "شرطیہ جملے «اگر وہ محنت...» کا فصیح صیغہ منتخب کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کرکٹ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سفر» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کھیل» کا غیر درست استعمال)"
+            "کرے تو کامیاب ہوگا (Karay to kaamyaab hoga - Conditional subjunctive protasis)",
+            "کرتا تھا تو رویا تھا (ماضی کی بے ربطی)",
+            "کرے گا تو کیا ہوگا (غیر فصیح تکرار)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "شرط کے حصے میں مضارع «اگر وہ محنت کرے تو کامیاب ہوگا» مستعمل ہے۔"
         }
       ]
     },
@@ -5603,17 +5632,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"فلم\": Which sentence is completely correct?",
+          "prompt": "مشروط مضارع اور صلاح و مشورہ (Conditional & Deliberative Subjunctive) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سفر» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کھیل» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کرکٹ» سے متعلق)"
+            "اگر ہم اپنے اسلاف کے نقوشِ قدم پر چلیں اور باہمی اتحاد قائم رکھیں تو ہم ہر بین الاقوامی چیلنج کا ڈٹ کر مقابلہ کر سکتے ہیں۔ (If we follow in the footsteps of our ancestors [chalein] and maintain mutual unity [rakhein], we can steadfastly face every international challenge.)",
+            "اگر ہم چلتا تھا تو کھانا کھایا تھا اور سویا۔",
+            "مشروط جملے صرف خواب میں بولے جاتے ہیں۔",
+            "صلاح و مشورہ کے لیے ہمیشہ صیغۂ امر استعمال کرنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اگر ہم اپنے اسلاف کے نقوشِ قدم پر چلیں اور باہمی اتحاد قائم رکھیں تو ہم ہر بین الاقوامی چیلنج کا ڈٹ کر مقابلہ کر سکتے ہیں۔» مشروط مضارع کا فصیح اور مستند جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u13-l4": {
@@ -5621,53 +5651,62 @@
     "subject": "urdu",
     "unit": 13,
     "lessonNumber": 4,
-    "title": "فعل مضارع اور احتمالی صورتیں (Subjunctive Mood) (Part 4)",
+    "title": "فعل حال احتمالی اور ماضی احتمالی (Presumptive Present & Past Tenses)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 13.4) with authentic precision.",
+    "objective": "حال احتمالی (پڑھتا ہوگا / کر رہا ہوگا) اور ماضی احتمالی (پڑھا ہوگا / کر لیا ہوگا) کی تصریف اور فصیح استدلال پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں حال و ماضی احتمالی (Present & Past Presumptive Tenses):\n\n1. **فعل حال احتمالی (Present Presumptive)**:\n   - موجودہ وقت میں کسی عمل کے ہونے کا قیاس و گمان:\n     - «وہ اس وقت کتب خانے میں **مطالعہ کرتا ہوگا / کر رہا ہوگا**»؛\n     - «استاد صاحب کلاس میں **پڑھا رہے ہوں گے**»۔\n\n2. **فعل ماضی احتمالی (Past Presumptive)**:\n   - ماضی میں کسی عمل کے مکمل ہو چکنے کا قیاس و اندازہ:\n     - «احمد نے اپنا کام **مکمل کر لیا ہوگا**»؛\n     - «ٹرین اسٹیشن سے **روانہ ہو چکی ہوگی**»؛\n     - «انہوں نے سچائی **جان لی ہوگی**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اس وقت تمام طلبہ امتحانی ہال میں پوری توجہ کے ساتھ اپنا پرچہ حل کر رہے ہوں گے۔",
+          "reading": "Is waqt tamaam talaba imtehaani hall mein poori tawajjuh ke saath apna parcha hal kar rahay hon gay. [ɪs ʋəqt̪ t̪əmaːm t̪ələbaː ɪmt̪ɪhaːniː haːl mẽː puːriː t̪əʋədʒːʊh keː saːt̪ʰ əpnaː pərtʃaː həl kər rəheː hõː ɡeː] (EES VUHKT tuh-MAHM tuh-luh-BAH eem-tuh-hah-NEE hall mayn POO-ree tuh-vuhj-JUH kay SAHTH uhp-NAH puhr-CHAH HUHL kuhr ruh-HAY hohn GAY)",
+          "translation": "At this moment, all students must be solving [present presumptive: hal kar rahay hon gay] their examination paper with full concentration."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 13-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اس باکمال مصنف نے اپنی شاہکار کتاب کا اختتامی باب لکھ لیا ہوگا اور اشاعت کے لیے بھیج دیا ہوگا۔",
+          "reading": "Is baa-kamaal musannif ne apni shaahkaar kitaab ka ikhtetaami baab likh liya hoga aur isha'at ke liye bhej diya hoga. [ɪs baː-kəmaːl mʊsənːɪf neː əpniː ʃaːhkaːr kɪt̪aːb kaː ɪxt̪ɪt̪aːmiː baːb lɪkʰ lɪjaː hoːɡaː ɔːr ɪʃaːʔət̪ keː lɪjeː bʱeːdʒ d̪ɪjaː hoːɡaː] (EES bah-kuh-MAHL moo-suhn-NEEF nay uhp-NEE shah-HAH-kahr kee-TAHB kah eekh-tuh-tah-MEE BAHB LEEKH lee-YAH hoh-GAH owr ee-shah-UHT kay lee-AY BHAYJ dee-YAH hoh-GAH)",
+          "translation": "This brilliant author must have written [past presumptive: likh liya hoga] the concluding chapter of his masterpiece and sent it [bhej diya hoga] for publication."
+        },
+        {
+          "target": "ہماری محنتی ٹیم نے اس کٹھن اور دشوار گزار پروجیکٹ کے تمام تکنیکی مراحل طے کر لیے ہوں گے۔",
+          "reading": "Hamaari mehnati team ne is kathan aur dushwaar-guzaar project ke tamaam takneeki maraahil tay kar liye hon gay. [həm-aːriː mɛɦnət̪iː ʈiːm neː ɪs kətʰən ɔːr d̪ʊʃʋaːr-ɡʊzaːr proːdʒɛkt keː t̪əmaːm t̪əkniːkiː məraːhɪl t̪əj kər lɪjeː hõː ɡeː] (huh-mah-REE myh-nuh-TEE team nay EES kuh-THUHN owr doosh-VAHR-goo-zahr project kay tuh-MAHM tuhk-nee-KEE muh-rah-HEEL TY kuhr lee-YAY hohn GAY)",
+          "translation": "Our diligent team must have crossed [past presumptive: tay kar liye hon gay] all technical stages of this arduous project."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "احتمالی اوزان: حال قیاس (پڑھتا ہوگا / کر رہا ہوگا)، ماضی قیاس (پڑھ لیا ہوگا / پہنچ چکا ہوگا)!"
+      ],
+      "culturalNotes": [
+        "اردو کے قانونی اور تفتیشی بیانات میں شواہد کی بنیاد پر قیاس قائم کرنے کے لیے ماضی احتمالی کا استعمال ناگزیر ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"کھیل\":",
+          "prompt": "ماضی میں کسی کام کی تکمیل کا قیاس ظاہر کرنے کے لیے کون سا جملہ درست ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («کرکٹ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سفر» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («شاعری» کی خرابی)"
+            "اس نے کھانا کھا لیا ہوگا (He must have eaten food - Correct past presumptive)",
+            "وہ کھانا کھاتا تھا (ماضی استمراری)",
+            "اس نے کھانا کھایا ہوگا رویا ہوگا (بے معنی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "ماضی کے قیاس کے لیے «کھا لیا ہوگا» درست ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"کھیل\":",
+          "prompt": "موجودہ وقت میں کام جاری ہونے کے قیاس (حال احتمالی) کا فصیح صیغہ کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سفر» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («شاعری» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کرکٹ» کا غیر درست استعمال)"
+            "وہ اس وقت پڑھ رہا ہوگا (He must be studying right now - Present continuous presumptive)",
+            "وہ پڑھ چکا تھا (ماضی بعید)",
+            "وہ پڑھتا ہے (حال مطلق)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "حال کے قیاس کے لیے «پڑھ رہا ہوگا / پڑھتا ہوگا» مستعمل ہے۔"
         }
       ]
     },
@@ -5675,17 +5714,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"کھیل\": Which sentence is completely correct?",
+          "prompt": "حال و ماضی احتمالی (Presumptive Mood) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («شاعری» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کرکٹ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سفر» سے متعلق)"
+            "تحقیقاتی کمیٹی نے اب تک تمام ثبوت اور شواہد اکٹھے کر لیے ہوں گے اور وہ اس وقت اپنی حتمی رپورٹ مرتب کر رہی ہوگی۔ (The inquiry committee must have gathered all evidence by now [past presumptive: ikatthay kar liye hon gay] and must be compiling its report [present presumptive: murattab kar rahi hogi].)",
+            "کمیٹی نے ثبوت کھایا تھا اور روتی تھی۔",
+            "احتمالی صیغے صرف بچوں کی کہانیوں میں آتے ہیں۔",
+            "ہوگا کو ہمیشہ جملے کے بالکل درمیان میں لکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«تحقیقاتی کمیٹی نے اب تک تمام ثبوت اور شواہد اکٹھے کر لیے ہوں گے اور وہ اس وقت اپنی حتمی رپورٹ مرتب کر رہی ہوگی۔» ماضی اور حال احتمالی کا بہترین مرکب جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u13-l5": {
@@ -5693,53 +5733,62 @@
     "subject": "urdu",
     "unit": 13,
     "lessonNumber": 5,
-    "title": "فعل مضارع اور احتمالی صورتیں (Subjunctive Mood) (Part 5)",
+    "title": "فعل مضارع اور احتمالی صورتوں کا جامع سمیکن (Subjunctive & Presumptive Grand Synthesis)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 13.5) with authentic precision.",
+    "objective": "فعل مضارع، امکان (شاید/ممکن ہے)، مشروط جملوں اور حال و ماضی احتمالی کو ایک باوقار ادبی بیانیے میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "فعل مضارع اور احتمالی صورتوں کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **فکری و ادبی نثری کمال**:\n   - جب اردو نثر نگار امید، امکان، دعا، شرط اور قیاس کو ایک ہی مربوط لڑی میں پروتا ہے تو بیانیے میں لاجواب گہرائی پیدا ہو جاتی ہے:\n     - **دعا مضارع**: «خدا کرے کہ ہم سچائی **پہچانیں**»؛\n     - **امکان مضارع**: «شاید حالات **سنبھل جائیں**»؛\n     - **شرط مضارع**: «اگر ہم محنت **کریں**»؛\n     - **ماضی احتمالی**: «قوم نے منزل **پا لی ہوگی**»۔\n\n2. **بلاغت و فصاحت**:\n   - یہ تمام نحوی سانچے اردو کی اعلیٰ فکری تحریروں، ادارتی مضامین اور فلسفیانہ کلام کی جان ہیں۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "خدا کرے کہ ہماری قوم بیدار ہو، شاید یہ نئی فکری لہر نوجوانوں کے دلوں میں انقلاب کی شمع روشن کرے اور اگر ہم متحد رہیں تو ہم نے ترقی کی منزل پا لی ہوگی۔",
+          "reading": "Khuda karay ke hamaari qawm bedaar ho, shaayad yeh nayi fikri lehr naujawaanon ke dilon mein inqelaab ki shama raushan karay aur agar hum muttahid rahein to hum ne taraqqi ki manzil paa lee hogi. [xʊd̪aː kəreː kɪ həm-aːriː qɔːm beːd̪aːr hoː ʃaːjəd̪ jɛɦ nəjiː fɪkriː lɛɦr nɔːdʒəʋaːnõː keː d̪ɪlõː mẽː ɪnqləbaːb kiː ʃəmaː rɔːʃən kəreː ɔːr əɡər həm mʊt̪ːəhɪd̪ rəhẽː t̪oː həm neː t̪ərəqːiː kiː mənzɪl paː liː hoːɡiː] (khoo-DAH kuh-RAY kay huh-mah-REE QOWM bay-DAHR hoh, SHAH-yuhd YEH nuh-YEE feek-REE LYHR now-juh-vah-NOHN kay DEE-lohn mayn een-quh-LAHB kee shuh-MAH row-SHUHN kuh-RAY owr UH-guhr HOOM moot-tuh-HEED ruh-HAYN toh HOOM nay tuh-ruhq-QEE kee muhn-ZEEL PAH LEE hoh-GEE)",
+          "translation": "May God grant that our nation awaken [prayer: bedaar ho], perhaps this new intellectual wave will light the flame of revolution [possibility: raushan karay], and if we stay united [condition: muttahid rahein], we will surely have attained [presumptive certainty: paa lee hogi] the destination of progress."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 13-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ممکن ہے کہ بین الاقوامی ثالثی کے ذریعے فریقین پرامن حل کی طرف مائل ہوں اور دونوں ممالک کے عوام نے سکھ کا سانس لیا ہو۔",
+          "reading": "Mumkin hai ke bain-ul-aqwaami saalsi ke zariye fareeqain pur-amn hal ki taraf maa'il hon aur dono mamaalik ke awaam ne sukh ka saans liya ho. [mʊmkɪn hɛː kɪ bɛːn-ʊl-əqʋaːmiː saːlsɪiː keː zəriːjeː fəriːqɛːn pʊr-əmn həl kiː t̪ərəf maːʔɪl hõː ɔːr d̪oːnõː məmaːlɪk keː əʋaːm neː sʊkʰ kaː saːns lɪjaː hoː] (moom-KEEN HY kay byn-ool-uhq-vah-MEE sahl-SEE kay zuh-ree-YAY fuh-ree-QYN poor-UHMN HUHL kee tuh-RUHF MAH-eel hohn owr doh-NOHN muh-mah-LEEK kay uh-VAHM nay SOOKH kah SAHNS lee-YAH hoh)",
+          "translation": "It is possible that through international mediation the parties incline toward a peaceful solution [maa'il hon] and the peoples of both nations have breathed a sigh of relief [past subjunctive: saans liya ho]."
+        },
+        {
+          "target": "اگر ہم اپنے اسلاف کی تابناک روایات کو زندہ رکھیں اور سچائی کا دامن تھامے رہیں تو انشاء اللہ ہماری آنے والی نسلوں نے کامیابی کا پرچم لہرایا ہوگا۔",
+          "reading": "Agar hum apne aslaaf ki taabnaak riwaayaat ko zinda rakhein aur sachchaai ka daaman thaamay rahein to Insha Allah hamaari aane waali naslon ne kaamyaabi ka parcham lehraaya hoga. [əɡər həm əpneː əslaːf kiː t̪aːbnaːk rɪʋaːjaːt̪ koː zɪnd̪aː rəkʰẽː ɔːr sətʃːaːiː kaː d̪aːmən t̪ʰaːmeː rəhẽː t̪oː ɪnʃaːʔəlːaːh həm-aːriː aːneː ʋaːliː nəslõː neː kaːmjaːbiː kaː pərtʃəm lɛɦraːjaː hoːɡaː] (UH-guhr HOOM uhp-NAY uhs-LAHF kee tahb-NAHK ree-wah-YAHT koh zeen-DAH ruh-KHAYN owr suhch-chah-EE kah dah-MUHN thah-MAY ruh-HAYN toh een-shah-ALLAH huh-mah-REE ah-NAY vah-LEE nuhs-LOHN nay kahm-yah-BEE kah puhr-CHUHM lyh-rah-YAH hoh-GAH)",
+          "translation": "If we keep alive the glorious traditions of our ancestors [zinda rakhein] and hold fast to truth [thaamay rahein], then God willing our future generations will have hoisted [lehraaya hoga] the banner of success."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع مضارع و احتمال: خدا کرے بیدار ہو (دعا)، شاید بدلے (امکان)، اگر محنت کریں (شرط)، فتح پا لی ہوگی (قیاس)!"
+      ],
+      "culturalNotes": [
+        "اردو کے قومی مفکرین اور خطیبوں (جیسے قائد اعظم، سر سید احمد خان اور ابوالکلام آزاد) کی تقاریر میں امید، شرط اور روشن امکانات کا یہی فلسفیانہ اسلوب جھلکتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"کرکٹ\":",
+          "prompt": "مضارع اور احتمالی صورتوں کے فصیح جامع امتزاج کا جملہ منتخب کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («سفر» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («شاعری» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («مشاعرہ» کی خرابی)"
+            "شاید وہ آئے اور اگر وہ آئے تو ہم نے مسئلہ حل کر لیا ہوگا (Perhaps he comes [subjunctive] and if he comes, we must have resolved the problem [past presumptive] - Masterful synthesis)",
+            "شاید وہ آیا تھا اور رویا تھا (ماضی کی بے ربطی)",
+            "وہ آوے گا کھاوے گا (غیر معیاری بولی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«شاید وہ آئے اور اگر وہ آئے تو ہم نے مسئلہ حل کر لیا ہوگا» مضارع اور ماضی احتمالی کا فصیح نمونہ ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"کرکٹ\":",
+          "prompt": "فعل مضارع اور احتمالی صورتوں کا اردو ادب میں کیا فکری مقام ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («شاعری» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («مشاعرہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سفر» کا غیر درست استعمال)"
+            "انسانی فکر، امید، دعا، امکان اور مستقبل کے گمان کو شگفتہ فصاحت کے ساتھ بیان کرنا (Expressing human thought, hope, prayer, possibility, and presumption with eloquent nuance)",
+            "صرف وقت گزاری کے لیے بولنا",
+            "صرف پرانے قصے سنانا",
+            "بے معنی قیاس آرائیاں کرنا"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ امید، دعا اور امکانات کو اعلیٰ ادبی پیرائے میں بیان کرنے کا فصیح ترین ذریعہ ہے۔"
         }
       ]
     },
@@ -5747,17 +5796,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"کرکٹ\": Which sentence is completely correct?",
+          "prompt": "فعل مضارع اور احتمالی صورتوں کے جامع سمیکن (Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («مشاعرہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سفر» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («شاعری» سے متعلق)"
+            "خدا کرے کہ ہم علم کی قدر پہچانیں، شاید یہ فکری بیداری معاشرے کو بدل دے اور اگر ہم سچائی پر قائم رہیں تو انشاء اللہ ہم نے کامیابی کا پرچم لہرایا ہوگا۔ (May God grant that we recognize the value of knowledge [pehchanein], perhaps this awakening will transform society [badal day], and if we stand by truth, we will have hoisted the flag of success [lehraaya hoga].)",
+            "خدا کرے کہ ہم نے چائے پیا تھا اور گاڑی بھاگی تھی۔",
+            "جامع سمیکن صرف اخبار کے اشتہار میں آتا ہے۔",
+            "مضارع کا استعمال صرف اشعار میں جائز ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«خدا کرے کہ ہم علم کی قدر پہچانیں، شاید یہ فکری بیداری معاشرے کو بدل دے اور اگر ہم سچائی پر قائم رہیں تو انشاء اللہ ہم نے کامیابی کا پرچم لہرایا ہوگا۔» فعل مضارع اور احتمالی صورتوں کے تمام پہلوؤں کا جامع شاہکار جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u14-l1": {
