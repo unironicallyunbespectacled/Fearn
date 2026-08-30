@@ -2945,53 +2945,62 @@
     "subject": "urdu",
     "unit": 7,
     "lessonNumber": 1,
-    "title": "فعل ماضی استمراری اور ماضی بعید (Past Continuous & Perfect) (Part 1)",
+    "title": "فعل ماضی استمراری کی ساخت اور گردان (Past Continuous Tense: رہا تھا / رہے تھے)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 7.1) with authentic precision.",
+    "objective": "ماضی میں جاری کیفیت (مادہ فعل + رہا تھا/رہی تھی/رہے تھے/رہی تھیں) اور فاعل کے مطابق مطابقت میں مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں فعل ماضی استمراری / جاری (Past Continuous Tense) کی ساخت:\n\n1. **ماضی استمراری کا مفہوم**:\n   - ماضی کے کسی معین وقت میں جاری رہنے والے عمل (In-progress past action) کو بیان کرنے کے لیے مستعمل ہے۔\n\n2. **فعل کی ساخت**:\n   - **مادہ فعل (Verb Stem)** + **رہا / رہی / رہے / رہیں** + **تھا / تھی / تھے / تھیں**:\n     - مذکر واحد: «احمد کتاب پڑھ **رہا تھا**»؛\n     - مذکر جمع / تعظیمی: «طلبہ مطالعہ کر **رہے تھے**»، «استاد صاحب پڑھا **رہے تھے**»؛\n     - مؤنث واحد: «فاطمہ کھانا پکا **رہی تھی**»؛\n     - مؤنث جمع: «لڑکیاں گیت گا **رہی تھیں**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "جب میں لائبریری میں داخل ہوا، تو تمام طلبہ خاموشی سے مطالعہ کر رہے تھے۔",
+          "reading": "Jab main library mein daakhil hua, to tamaam talaba khaamoshi se mutaala'a kar rahe thay. [dʒəb mɛ̃ː laːɪbreːriː mẽː d̪aːxɪl hʊaː t̪oː t̪əmaːm t̪ələbaː xaːmoːʃiː seː mʊt̪aːlɪʔaː kər rəɦeː t̪ʰeː] (JUHB myhn library mayn DAH-kheel hoo-AH, toh tuh-MAHM tuh-luh-BAH khah-moh-SHEE say moo-tah-luh-AH kuhr ruh-HAY THAY)",
+          "translation": "When I entered the library, all the students were studying quietly."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 7-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "رات کے وقت آسمان پر ستارے چمک رہے تھے اور ہلکی ہلکی خنک ہوا چل رہی تھی۔",
+          "reading": "Raat ke waqt aasmaan par sitaare chamak rahe thay aur halki halki khunak hawa chal rahi thee. [raːt̪ keː ʋəqt̪ aːsmaːn pər sɪt̪aːreː tʃəmək rəɦeː t̪ʰeː ɔːr həlkiː həlkiː xʊnək həʋaː tʃəl rəɦiː t̪ʰiː] (RAHT kay VUHKT ahs-MAHN puhr see-tah-RAY chuh-MUHK ruh-HAY THAY owr HUHL-kee HUHL-kee khoo-NUHK huh-VAH chuhl ruh-HEE THEE)",
+          "translation": "At night, stars were shining in the sky and a gentle, cool breeze was blowing."
+        },
+        {
+          "target": "ہم اپنے پرانے دوستوں کے ساتھ ماضی کے خوشگوار واقعات یاد کر رہے تھے۔",
+          "reading": "Hum apne puraane doston ke saath maazi ke khushgawaar waaqi'aat yaad kar rahe thay. [həm əpneː pʊraːneː d̪oːst̪õː keː saːt̪ʰ maːziː keː xʊʃɡəʋaːr ʋaːqɪʔaːt̪ jaːd̪ kər rəɦeː t̪ʰeː] (HOOM uhp-NAY poo-rah-NAY dohs-TOHN kay sahth MAH-zee kay khoosh-guh-VAHR vah-qee-AHT YAHD kuhr ruh-HAY THAY)",
+          "translation": "We were reminiscing about pleasant past events with our old friends."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ماضی استمراری فارمولا: مادہ فعل + رہا/رہی/رہے + تھا/تھی/تھے (پڑھ رہا تھا، گا رہی تھیں)!"
+      ],
+      "culturalNotes": [
+        "اردو کے کلاسیکی افسانوں اور ناولوں کے آغاز میں منظر قائم کرنے کے لیے ماضی استمراری کلیدی کردار ادا کرتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"دکان\":",
+          "prompt": "مؤنث جمع فاعل «طالبات» کے ساتھ ماضی استمراری کا درست صیغہ کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («روپیہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پیسہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («قیمت» کی خرابی)"
+            "لکھ رہی تھیں (Likh rahi theen - Feminine plural past continuous auxiliary concord)",
+            "لکھ رہا تھا (مذکر واحد)",
+            "لکھ رہے تھے (مذکر جمع)",
+            "لکھتی ہیں (حال)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "مؤنث جمع کے لیے «لکھ رہی تھیں» فصیح ترین ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"دکان\":",
+          "prompt": "مذکر تعظیمی فاعل «استاد محترم» کے ساتھ ماضی استمراری کی صحیح شکل کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پیسہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («قیمت» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («روپیہ» کا غیر درست استعمال)"
+            "سمجھا رہے تھے (Samjha rahe thay - Respectful masculine past continuous auxiliary)",
+            "سمجھا رہا تھا (بے ادبی واحد)",
+            "سمجھا رہی تھی (تانیث)",
+            "سمجھاتے ہیں (حال)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "استاد محترم کے ادب و احترام کے لیے جمع تعظیمی «سمجھا رہے تھے» استعمال ہوتا ہے۔"
         }
       ]
     },
@@ -2999,17 +3008,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"دکان\": Which sentence is completely correct?",
+          "prompt": "فعل ماضی استمراری (Past Continuous Tense) کا مکمل جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («قیمت» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («روپیہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پیسہ» سے متعلق)"
+            "جب قافلہ وادی سے گزر رہا تھا، تو دور پہاڑوں پر سورج کی سنہری کرنیں چمک رہی تھیں۔ (While the caravan was passing through the valley [guzar raha tha], golden rays of the sun were shining [chamak rahi theen] upon the distant mountains.)",
+            "قافلہ گزر رہی تھا اور کرنیں چمکتا تھا۔",
+            "ماضی استمراری میں صرف ندی میں تیرنا ہوتا ہے۔",
+            "رہا تھا کو لفظ کے اوپر لکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«جب قافلہ وادی سے گزر رہا تھا، تو دور پہاڑوں پر سورج کی سنہری کرنیں چمک رہی تھیں۔» ماضی استمراری کا جامع اور فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u7-l2": {
@@ -3017,53 +3027,62 @@
     "subject": "urdu",
     "unit": 7,
     "lessonNumber": 2,
-    "title": "فعل ماضی استمراری اور ماضی بعید (Past Continuous & Perfect) (Part 2)",
+    "title": "ماضی معطوف و استمراری کا بیانیہ (Past Habitual: کرتا تھا / کرتی تھی)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 7.2) with authentic precision.",
+    "objective": "ماضی کی مستقل عادات و معمولات (مادہ فعل + تا تھا/تی تھی/تے تھے/تیں تھیں) کے نحوی اسلوب میں مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں فعل ماضی معطوف / دوامی (Past Habitual Tense) کے قواعد:\n\n1. **ماضی معطوف کا مفہوم**:\n   - ماضی میں باقاعدگی سے دہرائی جانے والی پرانی عادات، معمولات یا کیفیات (Used to do / Would do) کا بیان۔\n\n2. **فعل کی ساخت**:\n   - **مادہ فعل** + **تا / تی / تے / تیں** + **تھا / تھی / تھے / تھیں**:\n     - «ہم بچپن میں شام کو باغ میں **کھیلتے تھے**»؛\n     - «دادی جان ہمیں ہر رات ایک سبق آموز کہانی **سناتی تھیں**»؛\n     - «وہ روزانہ صبح سویرے دریا کے کنارے **ٹہلتا تھا**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ہمارے بزرگ ہر شام دالان میں بیٹھ کر ملکی حالات پر سنجیدہ گفتگو کیا کرتے تھے۔",
+          "reading": "Hamaare buzurg har shaam daalaan mein baith kar mulki haalaat par sanjeeda guftagoo kiya kartay thay. [həm-aːreː bʊzʊrɡ hər ʃaːm d̪aːlaːn mẽː bɛːʈʰ kər mʊlkiː haːlaːt̪ pər səndʒiːd̪aː ɡʊft̪əɡuː kɪjaː kərteː t̪ʰeː] (huh-mah-RAY boo-ZOORG HUHR SHAHM dah-LAHN mayn BYTH kuhr mool-KEE hah-LAHT puhr suhn-JEE-dah goof-tuh-GOO kee-YAH kuhr-TAY THAY)",
+          "translation": "Our elders used to sit in the courtyard every evening holding serious discussions on national affairs."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 7-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "میری والدہ محترمہ سردیوں کی راتوں میں ہمارے لیے گرم اور لذیذ سوپ تیار کرتی تھیں۔",
+          "reading": "Meri waalida-e-mohtarma sardiyon ki raaton mein hamaare liye garm aur lazeez soup tayyaar karti theen. [meːriː ʋaːlɪd̪aː-eː-moːɦt̪ərmaː sərdiːjõː kiː raːt̪õː mẽː həm-aːreː lɪjeː ɡərm ɔːr ləziːz suːp t̪əjːaːr kərtiː t̪ʰĩː] (MAY-ree vah-lee-DAH-ay-moh-tuh-RUH-mah suhr-dee-YOHN kee rah-TOHN mayn huh-mah-RAY lee-AY GUHRM owr luh-ZEEZ soup ty-YAHR kuhr-TEE THEEN)",
+          "translation": "My respected mother used to prepare hot and delicious soup for us on winter nights."
+        },
+        {
+          "target": "ہم اسکول کے زمانے میں روزانہ صبح پیدل سفر کرتے تھے اور راستے میں پرندوں کو دانہ ڈالتے تھے۔",
+          "reading": "Hum school ke zamaane mein rozaana subah paidal safar kartay thay aur raaste mein parindon ko daana daaltay thay. [həm skuːl keː zəmaːneː mẽː roːzaːnəh sʊbəh pɛːd̪əl səfər kərteː t̪ʰeː ɔːr raːst̪eː mẽː pərɪnd̪õː koː d̪aːnaː ɖaːlt̪eː t̪ʰeː] (HOOM school kay zuh-mah-NAY mayn roh-ZAH-nuh SOO-buh py-DUHL suh-FUHR kuhr-TAY THAY owr rah-STAY mayn puh-reen-DOHN koh DAH-nah dahl-TAY THAY)",
+          "translation": "During our school days, we used to travel on foot every morning and feed grain to the birds along the way."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ماضی دوامی: کھیلتا تھا (واحد مذکر)، کھیلتی تھیں (مؤنث تعظیمی)، کھیلتے تھے (جمع)!"
+      ],
+      "culturalNotes": [
+        "اردو آپ بیتیوں (Autobiographies) اور یادداشتوں میں پرانے دور کی یادوں کو قلمبند کرنے کے لیے 'کیا کرتے تھے' کا صیغہ بکثرت برتا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"روپیہ\":",
+          "prompt": "ماضی میں باقاعدہ عادت کو ظاہر کرنے کے لیے کون سا جملہ درست ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («پیسہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («قیمت» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («رعایت» کی خرابی)"
+            "وہ روزانہ کتب خانے جایا کرتا تھا (He used to go to the library daily - Authentic habitual past syntax)",
+            "وہ کل گیا تھا (ماضی بعید وقتی)",
+            "وہ جا رہا ہے (حال جاری)",
+            "وہ جائے گا (مستقبل)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "ماضی کی مستقل عادت کے لیے «جایا کرتا تھا» یا «جاتا تھا» مستعمل ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"روپیہ\":",
+          "prompt": "محترمہ دادی جان کے لیے ماضی معطوف کا درست تعظیمی صیغہ کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («قیمت» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («رعایت» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («پیسہ» کا غیر درست استعمال)"
+            "کہانیاں سناتی تھیں (Used to tell stories - Respectful feminine plural habitual past)",
+            "کہانی سناتا تھا (مذکر واحد)",
+            "کہانی سنائی (ماضی مطلق)",
+            "کہانی سنائے گی (مستقبل)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "دادی جان کے لیے تعظیمی تانیث «سناتی تھیں» درست ہے۔"
         }
       ]
     },
@@ -3071,17 +3090,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"روپیہ\": Which sentence is completely correct?",
+          "prompt": "ماضی معطوف و دوامی (Past Habitual Narrative) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («رعایت» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («پیسہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («قیمت» سے متعلق)"
+            "ہمارے محلے کے بزرگ ہر جمعہ کو غریبوں میں کھانا تقسیم کیا کرتے تھے اور یتیموں کی کفالت کرتے تھے۔ (The elders of our neighborhood used to distribute food [taqseem kiya kartay thay] among the poor every Friday and support orphans.)",
+            "بزرگ کھانا تقسیم کرتا تھا اور روتی تھیں۔",
+            "ماضی معطوف کا مطلب صرف گھڑی کی سوئیاں توڑنا ہے۔",
+            "کرتے تھے کو جملے کے شروع میں لکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہمارے محلے کے بزرگ ہر جمعہ کو غریبوں میں کھانا تقسیم کیا کرتے تھے اور یتیموں کی کفالت کرتے تھے۔» ماضی معطوف کا بہترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u7-l3": {
@@ -3089,53 +3109,62 @@
     "subject": "urdu",
     "unit": 7,
     "lessonNumber": 3,
-    "title": "فعل ماضی استمراری اور ماضی بعید (Past Continuous & Perfect) (Part 3)",
+    "title": "فعل ماضی بعید اور 'نے' کے ساتھ استعمال (Past Perfect with 'Ne')",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 7.3) with authentic precision.",
+    "objective": "ماضی بعید (ماضی مطلق شکل + تھا/تھی/تھے/تھیں) میں فاعل کے ساتھ 'نے' اور مفعول کے مطابق مطابقت کے اصولوں پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں فعل ماضی بعید (Past Perfect Tense) کے قواعد:\n\n1. **ماضی بعید کا مفہوم**:\n   - وہ کام جو ماضی میں بہت پہلے مکمل ہو چکا ہو (Had completed / Had happened)۔\n\n2. **ساخت اور 'نے' کے اصول**:\n   - **فعل لازم (بغیر نے)**: فاعل + ماضی مطلق شکل + **تھا / تھی / تھے / تھیں**:\n     - «وہ پچھلے سال لاہور **گیا تھا**»، «مہمان کل شام **آئے تھے**»؛\n   - **فعل متعدی (نے کے ساتھ — مفعولی مطابقت)**:\n     - «احمد نے ایک **کتاب** (مؤنث) **خریدی تھی**»؛\n     - «فاطمہ نے **خط** (مذکر) **لکھا تھا**»؛\n     - «ہم نے **مکانات** (مذکر جمع) **دیکھے تھے**»؛\n     - «استاد نے **کتابیں** (مؤنث جمع) **پڑھائی تھیں**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ہم نے گزشتہ سال کتب میلے سے یہ نایاب اور تاریخی لغت خریدی تھی۔",
+          "reading": "Hum ne guzashta saal kutub meelay se yeh naayaab aur taareekhi lughat khareedi thee. [həm neː ɡʊzəʃt̪aː saːl kʊt̪ʊb meːleː seː jɛɦ naːjaːb ɔːr t̪aːriːxiː lʊɣət̪ xəriːd̪iː t̪ʰiː] (HOOM nay goo-ZUHSH-tuh SAHL koo-toob may-LAY say YEH nah-YAHB owr tah-REE-khee loo-GHUHT khuh-REE-dee THEE)",
+          "translation": "We had bought this rare and historical dictionary [lughat - feminine object -> khareedi thee] from the book fair last year."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 7-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "احمد نے سفر پر روانہ ہونے سے پہلے اپنے تمام واجب الادا بل اور واجبات ادا کیے تھے۔",
+          "reading": "Ahmad ne safar par rawaana hone se pehle apne tamaam waajib-ul-ada bill aur waajibaat ada kiye thay. [əɦməd̪ neː səfər pər rəʋaːnəh hoːneː seː pɛɦleː əpneː t̪əmaːm ʋaːdʒɪb-ʊl-əd̪aː bɪl ɔːr ʋaːdʒɪbaːt̪ əd̪aː kɪjeː t̪ʰeː] (UH-muhd nay suh-FUHR puhr ruh-vah-NUH hoh-NAY say PYH-lay uhp-NAY tuh-MAHM vah-jeeb-ool-uh-DAH bill owr vah-jee-BAHT uh-DAH kee-YAY THAY)",
+          "translation": "Ahmad had paid all his due bills and obligations [waajibaat - masculine plural -> ada kiye thay] before departing on the journey."
+        },
+        {
+          "target": "وہ خاندان پچھلی دہائی میں اس قدیم اور پُرسکون محلے میں رہائش پذیر ہوا تھا۔",
+          "reading": "Woh khaandaan pichhli dehaai mein is qadeem aur pur-sukoon mohallay mein rehaa-ish-pazeer hua tha. [ʋoːh xaːnd̪aːn pɪtʃʰliː d̪ɛɦaːiː mẽː ɪs qəd̪iːm ɔːr pʊr-sʊkuːn mʊɦəlːeː mẽː rɪhaːʔɪʃ-pəziːr hʊaː t̪ʰaː] (VOH khahn-DAHN peechh-LEE duh-HAH-ee mayn EES quh-DEEM owr poor-soo-KOON moo-huhl-LAY mayn ree-hah-eesh-puh-ZEER hoo-AH THAH)",
+          "translation": "That family had settled [intransitive -> hua tha] in this ancient and peaceful neighborhood in the previous decade."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ماضی بعید: خریدی تھی (مؤنث مفعول)، ادا کیے تھے (مذکر جمع)، گیا تھا (لازم)!"
+      ],
+      "culturalNotes": [
+        "اردو میں تاریخی شواہد اور ماضی کے مکمل شدہ معاہدوں کا حوالہ دیتے وقت ماضی بعید کو مستند دلیل مانا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"پیسہ\":",
+          "prompt": "مؤنث اسم «عمارت» کے ساتھ فعل متعدی «تعمیر کرنا» کا ماضی بعید کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («قیمت» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («رعایت» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بل» کی خرابی)"
+            "تعمیر کی تھی (Ta'meer kee thee - Feminine singular past perfect agreeing with feminine object imaarat)",
+            "تعمیر کیا تھا (مذکر صیغہ)",
+            "تعمیر کیے تھے (جمع صیغہ)",
+            "تعمیر کرتے ہیں (حال)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "لفظ 'عمارت' مؤنث ہے، اس لیے ماضی بعید «تعمیر کی تھی» آئے گا۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"پیسہ\":",
+          "prompt": "مذکر جمع اسم «خطوط» کے ساتھ فعل «لکھنا» کا ماضی بعید کیا بنے گا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («رعایت» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بل» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («قیمت» کا غیر درست استعمال)"
+            "لکھے تھے (Likhay thay - Masculine plural past perfect agreeing with masculine plural k خطوط)",
+            "لکھا تھا (واحد مذکر)",
+            "لکھی تھی (واحد مؤنث)",
+            "لکھیں تھیں (مؤنث جمع)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مذکر جمع اسم 'خطوط' کے ساتھ «لکھے تھے» درست ہے۔"
         }
       ]
     },
@@ -3143,17 +3172,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"پیسہ\": Which sentence is completely correct?",
+          "prompt": "فعل ماضی بعید اور 'نے' کے ساتھ مطابقت (Past Perfect with 'Ne') کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بل» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («قیمت» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («رعایت» سے متعلق)"
+            "ہم نے پچھلے سال اپنے گاؤں میں ایک بڑا پودا لگایا تھا جو اب ایک تناور درخت بن چکا ہے۔ (We had planted a large sapling [pauda lagaaya tha] in our village last year, which has now become a robust tree.)",
+            "ہم نے پودا لگائی تھیں اور درخت رویا تھا۔",
+            "ماضی بعید میں نے لگانا سخت منع ہے۔",
+            "لگایا تھا کا مطلب صرف دیوار پر تصویر لگانا ہوتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہم نے پچھلے سال اپنے گاؤں میں ایک بڑا پودا لگایا تھا جو اب ایک تناور درخت بن چکا ہے۔» ماضی بعید کا مکمل اور درست جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u7-l4": {
@@ -3161,53 +3191,62 @@
     "subject": "urdu",
     "unit": 7,
     "lessonNumber": 4,
-    "title": "فعل ماضی استمراری اور ماضی بعید (Past Continuous & Perfect) (Part 4)",
+    "title": "ماضی قریب اور ماضی بعید کا تقابل (Present Perfect vs. Past Perfect)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 7.4) with authentic precision.",
+    "objective": "ماضی قریب (ہے/ہیں — حالیہ تکمیل) اور ماضی بعید (تھا/تھے — قدیم تکمیل) کے زمانی فاصلے اور نحوی فرق پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں ماضی قریب اور ماضی بعید کا نحوی و معنوی موازنہ:\n\n1. **ماضی قریب (Present Perfect — حالیہ تکمیل)**:\n   - ساخت: ماضی مطلق شکل + **ہے / ہیں**؛\n   - مفہوم: وہ کام جو ابھی حال ہی میں مکمل ہوا ہو اور اس کا تعلق یا اثر موجودہ لمحے میں باقی ہو (جیسے: «اس نے چائے **پی ہے**» -> اب مزید چائے نہیں چاہیے)۔\n\n2. **ماضی بعید (Past Perfect — دور کی تکمیل)**:\n   - ساخت: ماضی مطلق شکل + **تھا / تھی / تھے / تھیں**؛\n   - مفہوم: وہ کام جو ماضی میں بہت پہلے مکمل ہو کر ختم ہو چکا ہو (جیسے: «اس نے صبح چائے **پی تھی**» -> اب شام کو دوبارہ پینا چاہتا ہے)۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ڈاکٹر صاحب نے مریض کی نبض دیکھی ہے اور اب وہ اطمینان سے نسخہ تحریر فرما رہے ہیں۔",
+          "reading": "Doctor saahib ne mareez ki nabz dekhi hai aur ab woh itmeenaan se nuskha tehreer farma rahe hain. [ɖɔːkʈər saːhɪb neː məriːz kiː nəbz d̪eːkʰiː hɛː ɔːr əb ʋoːh ɪt̪miːnaːn seː nʊsxaː t̪əhriːr fərmaː rəɦeː hɛ̃ː] (doctor SAH-heeb nay muh-REEZ kee NUBZ day-KHEE hy owr UHB voh eet-mee-NAHN say NOOS-khuh tuhh-REER fuhr-MAH ruh-HAY hyhn)",
+          "translation": "The doctor has examined [present perfect: dekhi hai] the patient's pulse and is now calmly writing the prescription."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 7-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ہم نے دو سال پہلے اس پرانے مکان کی مرمت کی تھی، لیکن اب دوبارہ رنگ و روغن کی ضرورت ہے۔",
+          "reading": "Hum ne do saal pehle is puraane makaan ki marammat kee thee, lekin ab dobaara rang-o-raughan ki zaroorat hai. [həm neː d̪oː saːl pɛɦleː ɪs pʊraːneː məkaːn kiː mərəmːət̪ kiː t̪ʰiː leːkɪn əb d̪oːbaːraː rəŋɡ-oː-rɔːɣən kiː zəruːrət̪ hɛː] (HOOM nay DOH SAHL PYH-lay EES poo-rah-NAY muh-KAHN kee muh-ruhm-MUHT KEE THEE, lay-KEEN UHB doh-BAH-rah RUHNG-oh-ROW-ghuhn kee zuh-ROO-ruht hy)",
+          "translation": "We had repaired [past perfect: kee thee] this old house two years ago, but now it needs repainting again."
+        },
+        {
+          "target": "کیا آپ نے آج کا قومی اخبار پڑھا ہے، جس میں حکومت نے تعلیمی وظائف کا اعلان کیا ہے؟",
+          "reading": "Kya aap ne aaj ka qaumi akhbaar parha hai, jis mein hukoomat ne ta'leemi wazaaif ka e'laan kiya hai? [kjaː aːp neː aːdʒ kaː qɔːmiː əxbaːr pəɽʱaː hɛː dʒɪs mẽː hʊkuːmət̪ neː t̪əʔliːmiː ʋəzaːʔɪf kaː eːʔlaːn kɪjaː hɛː] (KYAH AHP nay AHJ kah QOW-mee ukh-BAHR puhrh-HAH hy, jees mayn hoo-KOO-muht nay tuh-LEE-mee vah-ZAH-eef kah ay-LAHN kee-YAH hy)",
+          "translation": "Have you read today's national newspaper [present perfect: parha hai], in which the government has announced educational scholarships?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "قریب و بعید تقابل: پڑھا ہے (ابھی تازہ - Present Perfect) بمقابلہ پڑھا تھا (پرانی بات - Past Perfect)!"
+      ],
+      "culturalNotes": [
+        "اردو گفتگو میں 'میں نے کھانا کھایا ہے' اور 'کھایا تھا' کا فرق مہمان نوازی کے دوران دوبارہ کھانے کی پیشکش کے وقت انتہائی معنی خیز ہوتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"قیمت\":",
+          "prompt": "آج صبح ہوئے عمل کے لیے جس کا تعلق حال سے ہے، کون سا صیغہ آئے گا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («رعایت» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بل» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بازار» کی خرابی)"
+            "خط لکھا ہے (Has written a letter - Present perfect indicating recent completion connected to present)",
+            "خط لکھا تھا (ماضی بعید)",
+            "خط لکھتا تھا (ماضی معطوف)",
+            "خط لکھے گا (مستقبل)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "حالیہ تکمیل کے لیے ماضی قریب «خط لکھا ہے» استعمال ہوتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"قیمت\":",
+          "prompt": "ماضی قریب اور ماضی بعید کے بنیادی فرق کی درست وضاحت کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بل» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بازار» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («رعایت» کا غیر درست استعمال)"
+            "ماضی قریب میں امدادی فعل 'ہے' آتا ہے اور ماضی بعید میں 'تھا' (Present auxiliary 'hai' vs. Past auxiliary 'tha')",
+            "دونوں میں کوئی فرق نہیں",
+            "ماضی قریب میں نے نہیں آتا",
+            "ماضی بعید صرف کل کے لیے ہے"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "ماضی قریب میں 'ہے/ہیں' اور ماضی بعید میں 'تھا/تھی/تھے' امدادی فعل آتا ہے۔"
         }
       ]
     },
@@ -3215,17 +3254,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"قیمت\": Which sentence is completely correct?",
+          "prompt": "ماضی قریب اور ماضی بعید کے تقابل کا مستند و بلیغ جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بازار» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («رعایت» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بل» سے متعلق)"
+            "ہم نے کل رات تمام دستاویزات تیار کر لی تھیں اور آج صبح افسرِ مجاز کے دفتر میں جمع کرا دی ہیں۔ (We had prepared all documents last night [past perfect: tayyaar kar lee theen], and have submitted them [present perfect: jama kara dee hain] in the authorized officer's office this morning.)",
+            "ہم نے کل تیار کر لی ہیں اور آج جمع کرا دی تھیں۔",
+            "ماضی قریب کا مطلب صرف قریبی رشتہ دار ہوتا ہے۔",
+            "دستاویزات کو صرف جلانا چاہیے تھا۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہم نے کل رات تمام دستاویزات تیار کر لی تھیں اور آج صبح افسرِ مجاز کے دفتر میں جمع کرا دی ہیں۔» ماضی بعید اور ماضی قریب کے امتزاج کا شاندار جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u7-l5": {
@@ -3233,53 +3273,62 @@
     "subject": "urdu",
     "unit": 7,
     "lessonNumber": 5,
-    "title": "فعل ماضی استمراری اور ماضی بعید (Past Continuous & Perfect) (Part 5)",
+    "title": "ماضی استمراری و بعید کا جامع سمیکن و ادبی انطباق (Past Continuous & Perfect Grand Synthesis)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 7.5) with authentic precision.",
+    "objective": "ماضی کے تمام مدارج (استمراری، معطوف، بعید، قریب) کو ایک کثیر الجملاتی ادبی اور سوانحی بیانیہ میں یکجا کرنے کی کامل صلاحیت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "ماضی استمراری، معطوف اور بعید کا عظیم الشان ادبی سمیکن (Grand Narrative Synthesis):\n\n1. **کثیر زمانی اسلوب (Multi-tense Narrative Art)**:\n   - **ماضی استمراری (جاری منظر کشی)**: «بارش ہو رہی تھی اور ہوائیں چل رہی تھیں»؛\n   - **ماضی بعید (پس منظر کا واقعہ)**: «مسافروں نے کل خیمے خریدے تھے»؛\n   - **ماضی معطوف (دائمی عادت)**: «وہ روزانہ نصیحت کیا کرتے تھے»۔\n\n2. **اردو کلاسیکی نثر کا شاہکار توازن**:\n   - ان تمام مدارج کی درست نشست تحریر میں تاریخی گہرائی اور بیانیہ روانی پیدا کرتی ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "جب بارش تھم رہی تھی اور بادل چھٹ رہے تھے، تو مسافروں نے اپنی منزل پر خیمے نصب کر لیے تھے جنہیں انہوں نے کل شام خریدا تھا۔",
+          "reading": "Jab baarish tham rahi thee aur baadal chhat rahe thay, to musaafiron ne apni manzil par khaimay nasab kar liye thay jinhein unhon ne kal shaam khareeda tha. [dʒəb baːrɪʃ t̪ʰəm rəɦiː t̪ʰiː ɔːr baːd̪əl tʃʰəʈ rəɦeː t̪ʰeː t̪oː mʊsaːfɪrõː neː əpniː mənzɪl pər xɛːmeː nəsəb kər lɪjeː t̪ʰeː dʒɪnɦẽː ʊnɦõː neː kəl ʃaːm xəriːd̪aː t̪ʰaː] (JUHB BAH-reesh THUHM ruh-HEE THEE owr BAH-duhl CHHUHT ruh-HAY THAY, toh moo-sah-fee-ROHN nay uhp-NEE muhn-ZEEL puhr KHY-may NUH-suhb kuhr LEE-yay THAY jeen-HAYN oon-HOHN nay KUHL SHAHM khuh-REE-dah THAH)",
+          "translation": "As the rain was subsiding and clouds were clearing, the travelers had pitched tents at their destination which they had bought yesterday evening."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 7-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ہمارے اساتذہ کرام ہمیں ہمیشہ نصیحت کیا کرتے تھے کہ جو شخص وقت کی قدر کرتا ہے وہ کبھی ناکام نہیں ہوتا۔",
+          "reading": "Hamaare asaatiza-e-kiraam hamein hamesha naseehat kiya kartay thay ke jo shakhs waqt ki qadr karta hai woh kabhi naakaam nahin hota. [həm-aːreː əsaːt̪ɪzaː-eː-kɪraːm həmẽː həm-eːʃaː nəsiːhət̪ kɪjaː kərteː t̪ʰeː kɪ dʒoː ʃəxs ʋəqt̪ kiː qəd̪r kərt̪aː hɛː ʋoːh kəbʱiː naːkaːm nəɦĩː hoːt̪aː] (huh-mah-RAY uh-sah-tee-ZAH-ay-kee-RAHM huh-MAYN huh-MAY-shah nuh-SEE-huht kee-YAH kuhr-TAY THAY kay JOH SHUHKHS VUHKT kee QUHDR kuhr-TAH hy VOH kuh-BHEE nah-KAHM nuh-HEEN hoh-TAH)",
+          "translation": "Our respected teachers always used to advise us that he who values time never fails."
+        },
+        {
+          "target": "ہم نے بچپن میں جن تاریخی عمارتوں کی زیارت کی تھی، وہاں آج بھی ہمارے دل کی خوبصورت یادیں بسی ہوئی ہیں۔",
+          "reading": "Hum ne bachpan mein jin taareekhi imaaraaton ki ziyaarat kee thee, wahaan aaj bhi hamaare dil ki khoobsurat yaadein basee hui hain. [həm neː bətʃpən mẽː dʒɪn t̪aːriːxiː ɪmaːraːt̪õː kiː zɪjaːrət̪ kiː t̪ʰiː ʋəhaː̃ aːdʒ bʱiː həm-aːreː d̪ɪl kiː xuːbsuːrət̪ jaːd̪ẽː bəsiː hʊiː hɛ̃ː] (HOOM nay buhch-PUHN mayn JEEN tah-REE-khee ee-mah-rah-TOHN kee zee-YAH-ruht KEE THEE, vuh-HAHN AHJ bhee huh-mah-RAY DEEL kee khoob-SOO-ruht yah-DAYN buh-SEE hoo-EE hyhn)",
+          "translation": "The historic buildings we had visited in childhood still hold beautiful memories residing in our hearts today."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ماضی جامع سمیکن: تھم رہی تھی (استمراری)، نصیحت کیا کرتے تھے (معطوف)، زیارت کی تھی (بعید)!"
+      ],
+      "culturalNotes": [
+        "اردو کی کلاسیکی اور جدید سوانح عمریوں کا سب سے پُرکشش حصہ ماضی کے ان تمام مدارج کا مربوط اور رواں امتزاج ہوتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"رعایت\":",
+          "prompt": "ادبی سوانح میں منظر کشی اور پس منظر کے امتزاج کا فصیح ترین جملہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («بل» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بازار» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («خریداری» کی خرابی)"
+            "جب وہ آ رہے تھے، ہم نے کتاب مکمل کر لی تھی (While they were coming [continuous], we had completed the book [perfect])",
+            "وہ آتا تھا اور ہم نے کتاب خریدا ہے (بے جوڑ صیغے)",
+            "وہ آئے گا اور ہم پڑھیں گے (مستقبل)",
+            "کوئی جملہ درست نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«جب وہ آ رہے تھے، ہم نے کتاب مکمل کر لی تھی» ماضی استمراری اور بعید کا بہترین مرکب جملہ ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"رعایت\":",
+          "prompt": "ماضی استمراری، معطوف اور بعید کے جملوں کا باہمی ربط کیا کہلاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بازار» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («خریداری» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بل» کا غیر درست استعمال)"
+            "کثیر زمانی بیانیہ اور ماضی کا جامع سمیکن (Multi-tense narrative and past grand synthesis)",
+            "صرف غلط بیانی",
+            "مستقبل کی منصوبہ بندی",
+            "صرف قواعد کی خرابی"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ کثیر زمانی بیانیہ اور ماضی کے مختلف مدارج کا فصیح سمیکن کہلاتا ہے۔"
         }
       ]
     },
@@ -3287,17 +3336,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"رعایت\": Which sentence is completely correct?",
+          "prompt": "ماضی استمراری، معطوف اور بعید کے جامع سمیکن (Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («خریداری» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بل» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بازار» سے متعلق)"
+            "جب بادل گرج رہے تھے اور بارش برس رہی تھی، تو ہم نے وہ تمام حفاظتی انتظامات مکمل کر لیے تھے جن کا ہمارے بزرگ ہمیشہ حکم دیا کرتے تھے۔ (While clouds were thundering [past continuous: garaj rahe thay] and rain was falling, we had completed all safety measures [past perfect: mukammal kar liye thay] which our elders always used to order [past habitual: hukm diya kartay thay].)",
+            "بادل گرجتا تھا اور بارش روتی تھیں ہم نے حکم دیا تھا۔",
+            "جامع سمیکن صرف آسمان پر ستارے گننے کو کہتے ہیں۔",
+            "ماضی میں صرف پانی پینا درست مانا جاتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«جب بادل گرج رہے تھے اور بارش برس رہی تھی، تو ہم نے وہ تمام حفاظتی انتظامات مکمل کر لیے تھے جن کا ہمارے بزرگ ہمیشہ حکم دیا کرتے تھے۔» ماضی کے تمام مدارج کا شاہکار سمیکن ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u8-l1": {
