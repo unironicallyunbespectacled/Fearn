@@ -9095,53 +9095,62 @@
     "subject": "ukrainian",
     "unit": 22,
     "lessonNumber": 1,
-    "title": "Непряма мова та трансформація часових форм (Reported Speech) (Part 1)",
+    "title": "Трансформація прямої мови в непряму: розповідні речення",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 22.1) with authentic linguistic precision.",
+    "objective": "Опанувати правила заміни прямої мови на непряму в розповідних висловленнях, використання з'ясувальних сполучників що, ніби, мовляв, зміну особових займенників та особливості часової координації в українській мові.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Непряма мова — це спосіб передачі чужого висловлення не дослівно, а лише зі збереженням його основного змісту у формі складнопідрядного з'ясувального речення:\n\n1. Синтаксична перебудова розповідного висловлення:\n   - Слова автора стають головною частиною, а пряма мова — підрядною з'ясувальною частиною.\n   - Сполучники приєднання:\n     * «ЩО» — для нейтральної, достовірної передачі інформації: *Оксана сказала: «Я вже підготувала звіт» -> Оксана сказала, що вона вже підготувала звіт*.\n     * «НІБИ / НІБИТО / МОВЛЯВ» — якщо мовець хоче передати чужі слова з відтінком сумніву, дистанціювання або недовіри: *Сусід стверджував, нібито він нічого не знав про цю подію*.\n\n2. Зміна особових форм займенників та дієслів:\n   - 1-ша та 2-га особи прямої мови змінюються на 3-тю особу (або узгоджуються з особою оповідача):\n     * «Ми приїдемо завтра» -> вони повідомили, що приїдуть завтра.\n   - Вказівні займенники та прислівники змінюються відповідно до позиції оповідача: *цей -> той, тут -> там, сьогодні -> того дня*.\n\n3. Відсутність суворого узгодження часів (на відміну від англійської/французької):\nВ українській мові час дієслова непрямої мови визначається відносно моменту первинного висловлення:\n   - «Він сказав: \"Я пишу нову книгу\"» -> «Він сказав, що пише (теперішній час!) нову книгу».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Президент наголосив, що Україна неухильно дотримується всіх міжнародних демократичних стандартів.",
+          "reading": "[prɛzɪˈdɛnt nɐɦɔˈlɔsɪw, ʃtʃɔ ukrɐˈjinɐ nɛˈuxʲilʲnɔ dɔˈtrɪmujɛtʲsʲɑ wˈsʲix mʲiʒnɐˈrɔdnɪx dɛmɔkrɐˈtɪtʃnɪx stɐnˈdɑrtʲiw] (preh-zy-DEHNT nah-hoh-LOH-syv, shchoh oo-krah-YEE-nah neh-oo-KHYL'-noh doh-TRY-moo-yeht'-syah VSEEKH meezh-nah-ROHD-nykh deh-moh-krah-TYCH-nykh stahn-DAHR-teew)",
+          "translation": "The President emphasized that Ukraine steadfastly adheres to all international democratic standards."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 22-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Директор повідомив колективу, що компанія відкриває новий філіал у Львові наступного місяця.",
+          "reading": "[dɪˈrɛktɔr pɔwʲiˈdɔmɪw kɔlɛkˈtɪwu, ʃtʃɔ kɔmˈpɑnʲijɑ wʲidkrɪˈwɑjɛ ˈnɔwɪj fʲilʲiˈɑl u ˈlʲwɔwʲi nɐsˈtupnɔɦɔ ˈmʲisʲɑt͡sʲɑ] (dy-REHK-tohr poh-vee-DOH-myv koh-lehk-TY-voo, shchoh kohm-PAH-nee-yah veed-kry-VAH-yeh NOH-vyy fee-lee-AHL oo L'VOH-vee nahs-TOOP-noh-hoh MEE-syah-tsyah)",
+          "translation": "The director informed the team that the company is opening a new branch in Lviv next month."
+        },
+        {
+          "target": "Опонент заявив на дебатах, нібито наша програма реформ містить суттєві фінансові ризики.",
+          "reading": "[ɔpɔˈnɛnt zɐjɑˈwɪw nɑ dɛˈbɑtɐx, ˈnʲibɪtɔ ˈnɑʃɐ prɔɦˈrɑmɐ rɛˈfɔrm ˈmʲisʲtɪtʲ sutʲˈtʲɛwʲi fʲinɐnˈsɔwʲi ˈrɪzɪkɪ] (oh-poh-NEHNT zah-yah-VYV nah deh-BAH-tahkh, NEE-by-toh NAH-shah prohh-RAH-mah reh-FOHRM MEES-teet' soot-TYEH-vee fee-nahn-SOH-vee RY-zy-ky)",
+          "translation": "The opponent stated at the debates as if our reform program contained significant financial risks."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Пряма мова розповідна -> непряма мова з «що» (достовірно) або «нібито» (із сумнівом); час залишається природним!"
+      ],
+      "culturalNotes": [
+        "Точна та стилістично коректна непряма мова є основою сучасної якісної української журналістики та академічного цитування."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Вечір\":",
+          "prompt": "Як правильно трансформувати в непряму мову висловлення Андрія: «Я завтра обов'язково прийду»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.1.",
-            "Неправильне відмінкове узгодження зі словом «Ніч»",
-            "Порушення законів евфонії та словотворення для «Тиждень»",
-            "Стилістично некоректна синтаксична конструкція з «Місяць»"
+            "Андрій сказав, що він завтра обов'язково прийде. (Correct person shift from я to він/прийде)",
+            "Андрій сказав, що я завтра обов'язково прийду.",
+            "Андрій сказав: що він завтра прийде.",
+            "Андрій сказав, ніби я прийду."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Займенник 1-ї особи «я» та дієслово «прийду» замінюються на 3-тю особу «він прийде» у підрядній з'ясувальній частині зі сполучником «що»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Вечір\":",
+          "prompt": "Який сполучник слід обрати для непрямої мови, щоб висловити сумнів оповідача щодо правдивості почутого?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.1.",
-            "Порушення законів евфонії та словотворення для «Тиждень»",
-            "Стилістично некоректна синтаксична конструкція з «Місяць»",
-            "Неправильне відмінкове узгодження зі словом «Ніч»"
+            "Нібито / мовляв (Subjunctive distance / doubt conjunction in reported speech)",
+            "Що",
+            "Аби",
+            "Через те що"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Сполучники «нібито / мовляв» передають інформацію з відтінком дистанціювання чи сумніву."
         }
       ]
     },
@@ -9149,17 +9158,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Вечір\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому непряму мову побудовано бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.1.",
-            "Стилістично некоректна синтаксична конструкція з «Місяць»",
-            "Неправильне відмінкове узгодження зі словом «Ніч»",
-            "Порушення законів евфонії та словотворення для «Тиждень»"
+            "Професор пояснив студентам, що вони мають опрацювати першоджерела самостійно.",
+            "Професор пояснив студентам, що ви маєте опрацювати першоджерела.",
+            "Професор пояснив студентам: що треба опрацювати першоджерела.",
+            "Професор пояснив студентам, що я маю опрацювати першоджерела."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Форма 2-ї особи «ви» правильно трансформована у 3-тю особу множини «вони мають»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u22-l2": {
@@ -9167,53 +9177,62 @@
     "subject": "ukrainian",
     "unit": 22,
     "lessonNumber": 2,
-    "title": "Непряма мова та трансформація часових форм (Reported Speech) (Part 2)",
+    "title": "Трансформація питальних речень: непряме питання",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 22.2) with authentic linguistic precision.",
+    "objective": "Опанувати синтаксис непрямих запитань за допомогою сполучної частки «чи» (загальні питання) та питально-відносних слів (хто, що, де, коли, чому), їх інтонаційні та пунктуаційні особливості.",
     "presentation": {
-      "explanation": "",
+      "explanation": "При трансформації прямого запитання в непряму мову утворюється складнопідрядне з'ясувальне речення з непрямим питанням:\n\n1. Загальні питання (без питального слова -> так/ні):\nПриєднуються за допомогою сполучної частки «ЧИ», яка ставиться після слова, на яке падає логічний наголос:\n   - Пряме питання: *Вчитель запитав: «Ви готові до контрольної роботи?»*.\n   - Непряме питання: *Вчитель запитав, чи ми готові до контрольної роботи*.\n   - *Перехожий поцікавився: «Цей автобус їде до центру?»* -> *Перехожий поцікавився, чи цей автобус їде до центру*.\n\n2. Спеціальні питання (з питальним словом):\nПитальні займенники та прислівники (*хто, що, який, де, куди, коли, чому, як, скільки*) стають сполучними словами у підрядній частині:\n   - Пряме питання: *Студент спитав: «Коли почнеться лекція з історії?»*.\n   - Непряме питання: *Студент спитав, коли почнеться лекція з історії*.\n   - *Турист запитав: «Де розташована Національна опера?»* -> *Турист запитав, де розташована Національна опера*.\n\n3. ВАЖЛИВЕ ПРАВИЛО ПУНКТУАЦІЇ:\nУ кінці розповідного речення з непрямим питанням ставиться КРАПКА (знак питання НЕ ставиться!):\n   - Правильно: *Ми спитали, коли прибуде потяг.* (Крапка!).\n   - Знак питання ставиться лише тоді, коли все головне речення саме є питальним: *Чи не підкажете ви, коли прибуде потяг?*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Іноземні гості запитали екскурсовода, скільки століть налічує славетний собор Святої Софії в Києві.",
+          "reading": "[inɔˈzɛmnʲi ˈɦɔsʲtʲi zɐpɪˈtɑlɪ ɛkskursɔˈwɔdɐ, ˈsʲkʲilʲkɪ stɔˈlʲitʲ nɐˈlʲitʃujɛ slɐˈwɛtnɪj sɔˈbɔr swʲɑˈtɔji sɔˈfʲiji w ˈkɪjɛwʲi] (ee-noh-ZEM-nee HOHS-tee zah-py-TAH-ly eks-koor-soh-VOH-dah, SKEEL'-ky stoh-LEET' nah-LEE-choo-yeh slah-VEHT-nyy soh-BOHR svyah-TOH-yee soh-FEE-yee v KY-yeh-vee)",
+          "translation": "The foreign guests asked the tour guide how many centuries the famous Saint Sophia Cathedral in Kyiv spans."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 22-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Менеджер поцікавився в клієнта, чи задоволений він якістю наданих банківських послуг.",
+          "reading": "[mɛnɛˈdʒɛr pɔt͡sʲiˈkɑwɪwsʲɑ w klʲiˈjɛntɐ, tʃɪ zɐdɔˈwɔlɛnɪj wʲin ˈjɑkʲisʲtʲu nɑˈdɑnɪx ˈbɑnkʲiwsʲkɪx pɔsˈluɦ] (meh-neh-DZHEHR poh-tsee-KAH-vyvs'-yah v klee-YEHN-tah, chy zah-doh-VOH-leh-nyy veen YAH-kees-tyoo nah-DAH-nykh BAHN-keew-s'kykh pohs-LOOH)",
+          "translation": "The manager inquired with the client whether he was satisfied with the quality of the banking services provided."
+        },
+        {
+          "target": "Журналісти спитали міністра, які пріоритетні проєкти будуть реалізовані в новому бюджетному році.",
+          "reading": "[ʒurnɐˈlʲistɪ spɪˈtɑlɪ mʲiˈnʲistrɐ, jɑˈkʲi prʲiɔrɪˈtɛtnʲi prɔˈjɛktɪ ˈbudutʲ rɛɐlʲizɔˈwɑnʲi w nɔˈwɔmu bʲudˈʒɛtnɔmu ˈrɔt͡sʲi] (zhoor-nah-LEES-ty spy-TAH-ly mee-NEES-trah, yah-KEE pree-oh-ry-TEHT-nee proh-YEHK-ty BOO-doot' reh-ah-lee-zoh-VAH-nee v noh-VOH-moo byood-ZHEHT-noh-moo ROH-tsee)",
+          "translation": "The journalists asked the minister which priority projects would be implemented in the new budget year."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Питання «так/ні» перетворюй з часткою «чи»! Питальне слово залишай на початку підрядної! У кінці розповіді став крапку!"
+      ],
+      "culturalNotes": [
+        "Використання частки «чи» у непрямих запитаннях є витонченою рисою українського інтелігентного мовного етикету."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Ніч\":",
+          "prompt": "Як правильно оформити непряме запитання від прямого «Він спитав: \"Ти любиш класичну музику?\"»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.2.",
-            "Неправильне відмінкове узгодження зі словом «Тиждень»",
-            "Порушення законів евфонії та словотворення для «Місяць»",
-            "Стилістично некоректна синтаксична конструкція з «Рік»"
+            "Він спитав, чи люблю я класичну музику. (Indirect question with particle чи and dot at the end)",
+            "Він спитав, чи любиш ти класичну музику?",
+            "Він спитав що люблю я музику.",
+            "Він спитав чи я люблю музику?"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Загальне питання трансформується за допомогою сполучної частки «чи», займенник узгоджується, а в кінці розповідного речення ставиться крапка."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Ніч\":",
+          "prompt": "Який розділовий знак слід поставити наприкінці речення «Ми запитали перехожого, як дістатися до вокзалу»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.2.",
-            "Порушення законів евфонії та словотворення для «Місяць»",
-            "Стилістично некоректна синтаксична конструкція з «Рік»",
-            "Неправильне відмінкове узгодження зі словом «Тиждень»"
+            "Крапку (Period - since the overarching sentence is declarative)",
+            "Знак питання",
+            "Знак оклику",
+            "Трикрапку"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Оскільки головне речення є розповідним («Ми запитали...»), наприкінці речення з непрямим питанням ставиться крапка."
         }
       ]
     },
@@ -9221,17 +9240,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Ніч\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому непряме запитання та пунктуацію оформлено абсолютно правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.2.",
-            "Стилістично некоректна синтаксична конструкція з «Рік»",
-            "Неправильне відмінкове узгодження зі словом «Тиждень»",
-            "Порушення законів евфонії та словотворення для «Місяць»"
+            "Екскурсовод розповів туристам, коли саме було засновано давнє місто Чернігів.",
+            "Екскурсовод розповів туристам, коли саме було засновано давнє місто Чернігів?",
+            "Екскурсовод розповів туристам: коли було засновано Чернігів.",
+            "Екскурсовод розповів туристам чи коли було засновано Чернігів."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Сполучне слово «коли» приєднує підрядну частину, в кінці речення правильно стоїть крапка."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u22-l3": {
@@ -9239,53 +9259,62 @@
     "subject": "ukrainian",
     "unit": 22,
     "lessonNumber": 3,
-    "title": "Непряма мова та трансформація часових форм (Reported Speech) (Part 3)",
+    "title": "Трансформація спонукальних речень: накази та прохання",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 22.3) with authentic linguistic precision.",
+    "objective": "Опанувати трансформацію спонукальних висловлень (наказів, прохань, закликів) у непряму мову за допомогою сполучника «щоб», трансформацію кличного відмінка у додаток та інфінітивні конструкції.",
     "presentation": {
-      "explanation": "",
+      "explanation": "При трансформації спонукальних речень (наказовий спосіб) пряма мова перетворюється на підрядну з'ясувально-спонукальну частину:\n\n1. Основний сполучник трансформації — «ЩОБ»:\nДієслово наказового способу замінюється формою минулого часу умовного способу або інфінітивом:\n   - Пряма мова: *Мати попросила сина: «Купи свіжого хліба»*.\n   - Непряма мова 1 (з особовою формою): *Мати попросила сина, щоб він купив свіжого хліба*.\n   - Непряма мова 2 (з інфінітивом): *Мати попросила сина купити свіжого хліба*.\n\n2. Трансформація звертань (Кличного відмінка):\nЗвертання прямої мови перетворюється на непрямий додаток у головній частині (найчастіше в родовому, знахідному або давальному відмінку):\n   - Пряма мова: *«Оксано, зачини вікно», — сказав батько*.\n   - Непряма мова: *Батько сказав Оксані (Дав. в.), щоб вона зачинила вікно*.\n\n3. Дієслова введення спонукання:\nЗалежно від інтонації та значення прямої мови в словах автора використовуються точні дієслова: *наказати, попросити, порадити, закликати, вимагати, благати, доручити*:\n   - *Офіцер скомандував солдатам шикуватися*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Командир суворо наказав підлеглим, щоб вони негайно перевірили стан захисних споруд.",
+          "reading": "[kɔmɐnˈdɪr ˈsurɔwɔ nɐkɐˈzɑw pʲidˈlɛɦlɪm, ʃtʃɔb wɔˈnʲi nɛˈɦɑjnɔ pɛrɛˈwʲirɪlɪ stɑn zɐxɪsˈnɪx spɔˈrud] (koh-mahn-DYR SOO-roh-woh nah-kah-ZAHV peed-LEHH-lym, shchohb voh-NEE neh-HAHY-noh peh-reh-VEER-y-ly stahn zah-khys-NYKH spoh-ROOD)",
+          "translation": "The commander strictly ordered his subordinates to immediately inspect the condition of the defensive structures."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 22-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Лікар порадив пацієнтові щодня гуляти на свіжому повітрі та уникати стресових ситуацій.",
+          "reading": "[ˈlʲikɐr pɔrɐˈdʲiw pɐt͡sʲiˈjɛntɔwʲi ʃtʃɔdʲˈnʲɑ ɦuˈlʲɑtɪ nɑ swʲiˈʒɔmu pɔˈwʲitrʲi tɑ unɪˈkɑtɪ strɛˈsɔwɪx sɪtuˈɑt͡sʲij] (LEE-kahr poh-rah-DYV pah-tsee-YEHN-toh-vee shchohd-NYAH hoo-LYAH-ty nah swee-ZHOH-moo poh-VEET-ree tah oo-ny-KAH-ty streh-SOH-wykh sy-too-AH-tseey)",
+          "translation": "The doctor advised the patient to walk in the fresh air daily and avoid stressful situations."
+        },
+        {
+          "target": "Викладач звернувся до студентів з проханням, щоб вони здали письмові роботи до кінця тижня.",
+          "reading": "[wɪklɐˈdɑt͡ʃ zwɛrˈnuwsʲɑ dɔ stuˈdɛntʲiw z prɔˈxɑnʲːɐm, ʃtʃɔb wɔˈnʲi zdɑˈlɪ pɪsʲmɔˈwʲi rɔˈbɔtɪ dɔ kʲinʲˈt͡sʲɑ ˈtɪʒnʲɑ] (vy-klah-DAHCH zwehr-NOOV-syah doh stoo-DEN-teew z proh-KHAHN-nyahm, shchohb voh-NEE zdah-LY pees'-moh-VEE roh-BOH-ty doh keen-TSYAH TYZH-nyah)",
+          "translation": "The instructor addressed the students with a request that they submit their written assignments before the end of the week."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Наказ чи прохання передавай через «щоб + минулий час» або через інфінітив («попросив зробити»); звертання перетворюй на додаток!"
+      ],
+      "culturalNotes": [
+        "Культура передачі спонукань в українській діловій мові надає перевагу ввічливим модальним конструкціям («попросив», «запропонував», «порадив»)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Тиждень\":",
+          "prompt": "Як правильно трансформувати в непряму мову наказ «Учитель сказав: \"Тарасе, відкрий підручник\"»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.3.",
-            "Неправильне відмінкове узгодження зі словом «Місяць»",
-            "Порушення законів евфонії та словотворення для «Рік»",
-            "Стилістично некоректна синтаксична конструкція з «Червоний»"
+            "Учитель сказав Тарасові, щоб він відкрив підручник. (Vocative Тарасе converted into dative complement Тарасові + щоб)",
+            "Учитель сказав, Тарасе відкрий підручник.",
+            "Учитель сказав щоб Тарас відкрив підручник.",
+            "Учитель сказав Тарасе, щоб він відкрив."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Звертання «Тарасе» стає додатком у давальному відмінку «Тарасові», а наказ приєднується сполучником «щоб»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Тиждень\":",
+          "prompt": "Яку дієслівну форму можна вжити для лаконічної передачі прохання («Він попросив мене, щоб я зачекав»)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.3.",
-            "Порушення законів евфонії та словотворення для «Рік»",
-            "Стилістично некоректна синтаксична конструкція з «Червоний»",
-            "Неправильне відмінкове узгодження зі словом «Місяць»"
+            "Інфінітив: Він попросив мене зачекати. (Infinitive construction)",
+            "Дієприкметник: Він попросив мене зачеканий.",
+            "Дієприслівник: Він попросив мене зачекавши.",
+            "Наказовий спосіб: Він попросив мене зачекай."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Спонукання можна природно передати інфінітивом: «попросив мене зачекати»."
         }
       ]
     },
@@ -9293,17 +9322,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Тиждень\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення з бездоганною трансформацією спонукального висловлення в непряму мову:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.3.",
-            "Стилістично некоректна синтаксична конструкція з «Червоний»",
-            "Неправильне відмінкове узгодження зі словом «Місяць»",
-            "Порушення законів евфонії та словотворення для «Рік»"
+            "Тренер порадив спортсменам зосередитися на техніці виконання вправи.",
+            "Тренер порадив спортсменам, зосередьтеся на техніці.",
+            "Тренер порадив спортсменам щоб вони зосередитися.",
+            "Тренер порадив, спортсмени зосередьтеся."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Інфінітивна конструкція «порадив спортсменам зосередитися» є лаконічною і граматично бездоганною."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u22-l4": {
@@ -9311,53 +9341,62 @@
     "subject": "ukrainian",
     "unit": 22,
     "lessonNumber": 4,
-    "title": "Непряма мова та трансформація часових форм (Reported Speech) (Part 4)",
+    "title": "Пунктуація прямої мови та слів автора",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 22.4) with authentic linguistic precision.",
+    "objective": "Опанувати всі чотири основні пунктуаційні схеми розташування прямої мови та слів автора (перед прямою мовою, після неї, всередині прямої мови та пряма мова всередині слів автора).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Пряма мова — це точне, дослівне відтворення чужого мовлення зі збереженням усіх лексичних, граматичних та інтонаційних особливостей. На письмі пряма мова береться в українські лапки «...» («лапки-ялинки»):\n\n1. Слова автора стоять ПЕРЕД прямою мовою: **А: «П». / А: «П!» / А: «П?»**\n   - Після слів автора ставиться двокрапка, перше слово прямої мови пишеться з великої літери:\n     * *Учитель промовив: «Знання — це головна зброя вільної людини».*\n     * *Юнак вигукнув: «Яка краса навколо!»*\n\n2. Слова автора стоять ПІСЛЯ прямої мови: **«П», — а. / «П!» — а. / «П?» — а.**\n   - Після прямої мови ставиться кома (або ! / ?), за лапками — тире, а слова автора пишуться з малої літери:\n     * *«Ми готові вирушати в похід», — повідомив провідник.*\n     * *«Коли розпочнеться вистава?» — поцікавився глядач.*\n\n3. Слова автора стоять ВСЕРЕДИНІ прямої мови:\n   - Схема 1 (Слова автора розривають ОДНЕ речення): **«П, — а, — п».**\n     * *«Сьогодні, — тихо сказав батько, — ми маємо ухвалити важливе рішення».*\n   - Схема 2 (Слова автора стоять між ДВОМА окремими реченнями): **«П, — а. — П».**\n     * *«Ходімо швидше, — мовив друг. — Дощ уже починається».*\n   - Схема 3 (У словах автора є дієслова на позначення наступної думки): **«П, — а: — П».**\n     * *«Я згоден, — відповів він і додав: — Але за однієї важливої умови».*",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "«Мова — це генетичний код нації», — підкреслив видатний український мовознавець у своїй промові.",
+          "reading": "[ˈmɔwɐ t͡sɛ ɦɛnɛˈtɪtʃnɪj kɔd ˈnɑt͡sʲiji, pʲidkrɛsˈlɪw wɪdɐtˈnɪj ukrɐˈjinʲsʲkɪj mɔwɔzˈnɑwɛt͡sʲ u swɔˈjij prɔˈmɔwʲi] (MOH-vah tseh heh-neh-TYCH-nyy kohd NAH-tsee-yee, peed-krehs-LYV vy-daht-NYY oo-krah-YEEN-s'kyy moh-wohz-NAH-vehts' oo swoh-YEEY proh-MOH-vee)",
+          "translation": "\"Language is the genetic code of the nation,\" emphasized the prominent Ukrainian linguist in his speech."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 22-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Капітан рішуче скомандував: «Підняти вітрила й тримати курс прямо на схід!»",
+          "reading": "[kɐpʲiˈtɑn rʲiˈʃutʃɛ skɔmɐnˈduwɑw: pʲidˈnʲɑtɪ wʲitˈrɪlɐ j trɪˈmɑtɪ kurs ˈprʲɑmɔ nɑ sxʲid] (kah-pee-TAHN ree-SHOO-cheh skoh-mahn-DOO-wahv: peed-NYAH-ty veet-RY-lah y try-MAH-ty koors PRYAH-moh nah skheed)",
+          "translation": "The captain decisively commanded: \"Raise the sails and hold course directly east!\""
+        },
+        {
+          "target": "«Правда завжди перемагає, — переконано мовив дідусь. — Запам'ятай це правило на все життя».",
+          "reading": "[ˈprɑwdɐ zɐwˈʒdɪ pɛrɛmɐˈɦɑjɛ, pɛrɛˈkɔnɐnɔ ˈmɔwɪw dʲiˈdusʲ. zɐpɐmjɐˈtɑj t͡sɛ ˈprɑwɪlɔ nɑ wsɛ ʒɪtʲˈtʲɑ] (PRAHV-dah zahv-ZHDY peh-reh-mah-HAH-yeh, peh-reh-KOH-nah-noh MOH-wyv dee-DOOS'. zah-pahm-yah-TAHY tseh PRAH-wy-loh nah vse zhyht-TYAH)",
+          "translation": "\"The truth always triumphs,\" grandfather said convincingly. \"Remember this rule for your whole life.\""
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Слова автора перед прямою — став двокрапку А: «П»; слова автора всередині одного речення — «П, — а, — п»!"
+      ],
+      "culturalNotes": [
+        "В українській видавничій традиції нормативними є лапки-ялинки «...», а всередині цитат вживаються лапки-лапки „...“."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Місяць\":",
+          "prompt": "Оберіть правильну пунктуаційну схему для речення, де слова автора стоять перед прямою мовою:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.4.",
-            "Неправильне відмінкове узгодження зі словом «Рік»",
-            "Порушення законів евфонії та словотворення для «Червоний»",
-            "Стилістично некоректна синтаксична конструкція з «Синій»"
+            "А: «П». (Author words colon quotes Direct speech period)",
+            "А — «П».",
+            "А, «П».",
+            "А. «П»."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Коли слова автора стоять перед прямою мовою, після них ставиться двокрапка, а пряма мова береться в лапки: А: «П»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Місяць\":",
+          "prompt": "Як оформити пунктуацію, якщо слова автора стоять між двома самостійними реченнями прямої мови?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.4.",
-            "Порушення законів евфонії та словотворення для «Червоний»",
-            "Стилістично некоректна синтаксична конструкція з «Синій»",
-            "Неправильне відмінкове узгодження зі словом «Рік»"
+            "«П, — а. — П». (Period after author words and capital letter for next direct sentence)",
+            "«П, — а, — п».",
+            "«П! — а, — п».",
+            "«П. — а. — п»."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Якщо слова автора стоять між двома окремими реченнями прямої мови, після слів автора ставиться крапка й тире, а друге речення починається з великої літери: «П, — а. — П»."
         }
       ]
     },
@@ -9365,17 +9404,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Місяць\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому пунктуацію прямої мови оформлено бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.4.",
-            "Стилістично некоректна синтаксична конструкція з «Синій»",
-            "Неправильне відмінкове узгодження зі словом «Рік»",
-            "Порушення законів евфонії та словотворення для «Червоний»"
+            "«Ми обов'язково захистимо свою землю, — сказав воїн. — У нас немає іншого вибору».",
+            "«Ми захистимо свою землю, — сказав воїн, — У нас немає вибору».",
+            "«Ми захистимо свою землю — сказав воїн. — у нас немає вибору».",
+            "«Ми захистимо свою землю» — сказав воїн: «У нас немає вибору»."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Слова автора стоять між двома реченнями прямої мови: після першого речення кома й тире, після слів автора крапка й тире, друге речення з великої літери."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u22-l5": {
@@ -9383,53 +9423,62 @@
     "subject": "ukrainian",
     "unit": 22,
     "lessonNumber": 5,
-    "title": "Непряма мова та трансформація часових форм (Reported Speech) (Part 5)",
+    "title": "Пунктуація діалогу, цитування та оформлення епіграфів",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 22.5) with authentic linguistic precision.",
+    "objective": "Опанувати правила пунктуаційного оформлення діалогів (тире без лапок), правила цитування у наукових та публіцистичних текстах і графічне оформлення епіграфів.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Оформлення діалогічного мовлення, цитат та епіграфів має чіткі поліграфічні та граматичні стандарти в українській мові:\n\n1. Пунктуація діалогу (Dialogue formatting):\n   - Кожна репліка діалогу починається з нового рядка з великої літери.\n   - Перед реплікою ставиться ТИРЕ (лапки НЕ вживаються!):\n     * *— Доброго дня, пане професоре! — привітався студент.*\n     * *— Вітаю! Які питання виникли під час підготовки до семінару? — запитав викладач.*\n     * *— Мене цікавить тема про походження української мови.*\n\n2. Правила цитування (Quotations in academic text):\n   - Пряма цитата береться в лапки і супроводжується розділовими знаками прямої мови: *Тарас Шевченко закликав: «І чужому научайтесь, й свого не цурайтесь»*.\n   - Вбудована цитата (частина підрядного речення) пишеться з малої літери: *Поет наголошував, що «в своїй хаті своя й правда, і сила, і воля»*.\n   - Пропуск слів у цитаті позначається трикрапкою в кутових або квадратних дужках: *«Україна [...] впевнено прямує до майбутнього»*.\n\n3. Оформлення епіграфа (Epigraphs):\n   - Епіграф пишеться у верхньому правому кутку сторінки.\n   - Лапки НЕ ставляться; крапка в кінці тексту епіграфа ставиться (якщо немає ! чи ?).\n   - Прізвище автора пишеться з нового рядка нижче без дужок.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "— Чи вдалося вам знайти стародавні рукописи в архіві? — поцікавився дослідник. — Так, ми виявили унікальні документи XVII століття, — з гордістю відповів архіваріус.",
+          "reading": "[tʃɪ wdɐˈlɔsʲɑ wɑm znɑjˈtɪ stɐrɔˈdɑwnʲi ˈrukɔpɪsɪ w ɐrˈxʲiwʲi? pɔt͡sʲiˈkɑwɪwsʲɑ dɔsʲˈlʲidnɪk. tɑk, mɪ wɪˈjɑwɪlɪ unʲiˈkɑlʲnʲi dɔkuˈmɛntɪ sʲimdɛsʲɑˈtɔɦɔ stɔˈlʲitʲːɑ, z ˈɦɔrdʲisʲtʲu wʲidpɔˈwʲiw ɐrxʲiˈwɑrʲijus] (chy vdah-LOHS'-yah vahm znahy-TY stah-roh-DAHV-nee ROO-koh-py-sy v ahr-KHEE-vee? poh-tsee-KAH-vyvs'-yah dohs-LEED-nyk. tahk, my vy-YAH-wy-ly oo-nee-KAHL'-nee doh-koo-MEHN-ty seem-deh-syah-TOH-hoh stoh-LEET-tyah, z HOHR-dees-tyoo veed-poh-VEEV ahr-khee-VAH-ry-yoos)",
+          "translation": "— Did you manage to find ancient manuscripts in the archive? the researcher inquired. — Yes, we discovered unique documents of the 17th century, the archivist replied with pride."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 22-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Іван Франко справедливо зазначав, що «книги — морська глибина, хто в них пірне аж до дна, той хоч і труду мав досить, дивнії перли виносить».",
+          "reading": "[iˈwɑn frɐnˈkɔ sprɐwɛdˈlɪwɔ zɐznɐˈtʃɑw, ʃtʃɔ ˈknɪɦɪ mɔrʲˈsʲkɑ ɦlɪbɪˈnɑ, xtɔ w nɪx pʲirˈnɛ ɑʒ dɔ dnɑ, tɔj xɔtʃ i ˈtrudu mɑw ˈdɔsɪtʲ, dɪwˈnʲiji ˈpɛrlɪ wɪˈnɔsɪtʲ] (ee-VAHN frahn-KOH sprah-vehd-LY-woh zah-znah-CHAHV, shchoh KNY-hy mohr-s'KAH hly-by-NAH, khtoh v nykh peer-NEH ahzh doh dnah, toy khohch ee TROO-doo mahv DOH-syt', dyv-NEE-yee PEHR-ly vy-NOH-syt')",
+          "translation": "Ivan Franko justly noted that \"books are the sea depth; whoever dives into them to the very bottom, though having toil enough, brings out marvelous pearls.\""
+        },
+        {
+          "target": "Кожна репліка в українській драматургії майстерно відтворює живий характер та емоційний стан дійових осіб.",
+          "reading": "[ˈkɔʒnɐ ˈrɛplʲikɐ w ukrɐˈjinʲsʲkʲij drɐmɐˈturɦʲiji mɐjsˈtɛrnɔ wʲidtwɔˈrʲujɛ ʒɪˈwɪj xɐˈrɑktɛr tɑ ɛmɔt͡sʲijˈnɪj stɑn dʲijɔˈwɪx ɔˈsʲib] (KOHZH-nah REHP-lee-kah v oo-krah-YEEN-s'keey drah-mah-TOOR-hee-yee mahys-TEHR-noh veed-twoh-RYOO-yeh zhy-VYY khah-RAHK-tehr tah eh-moh-tseey-NYY stahn dee-yoh-VYKH oh-SEEB)",
+          "translation": "Each line in Ukrainian dramaturgy skillfully reproduces the living character and emotional state of the protagonists."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Діалог — тире на початку репліки без лапок! Епіграф — праворуч угорі без лапок, автор унизу без дужок!"
+      ],
+      "culturalNotes": [
+        "Оформлення епіграфів до класичних поем («Кавказ», «І мертвим, і живим...») заклало високий канон українського книжкового мистецтва."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Рік\":",
+          "prompt": "Як оформлюються репліки діалогу на письмі?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.5.",
-            "Неправильне відмінкове узгодження зі словом «Червоний»",
-            "Порушення законів евфонії та словотворення для «Синій»",
-            "Стилістично некоректна синтаксична конструкція з «Жовтий»"
+            "З нового рядка через тире без лапок (Dialogue dash at line start without quotation marks)",
+            "У лапках у рядок",
+            "У дужках через кому",
+            "З двокрапкою на початку кожного слова"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Репліки діалогу починаються з нового рядка з великої літери через тире без вживання лапок."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Рік\":",
+          "prompt": "Чи беруться в лапки слова епіграфа до твору?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.5.",
-            "Порушення законів евфонії та словотворення для «Синій»",
-            "Стилістично некоректна синтаксична конструкція з «Жовтий»",
-            "Неправильне відмінкове узгодження зі словом «Червоний»"
+            "Ні, епіграф пишеться без лапок праворуч (No quotation marks for epigraphs)",
+            "Так, завжди беруться в лапки",
+            "Тільки якщо це віршований текст",
+            "Тільки якщо вказано джерело"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Текст епіграфа в українській видавничій традиції пишеться без лапок у правому верхньому кутку."
         }
       ]
     },
@@ -9437,17 +9486,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Рік\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому цитату як частину підрядного речення оформлено правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 22.5.",
-            "Стилістично некоректна синтаксична конструкція з «Жовтий»",
-            "Неправильне відмінкове узгодження зі словом «Червоний»",
-            "Порушення законів евфонії та словотворення для «Синій»"
+            "Леся Українка стверджувала, що «щоб не плакать, я сміялась».",
+            "Леся Українка стверджувала, що: «Щоб не плакать, я сміялась».",
+            "Леся Українка стверджувала, що «Щоб не плакать, я сміялась»!",
+            "Леся Українка стверджувала що, «щоб не плакать я сміялась»."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Цитата, що є частиною підрядного речення, починається з малої літери, береться в лапки і не відокремлюється двокрапкою."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u23-l1": {
