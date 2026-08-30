@@ -9915,53 +9915,62 @@
     "subject": "ukrainian",
     "unit": 24,
     "lessonNumber": 1,
-    "title": "Медична термінологія та консультації (Healthcare) (Part 1)",
+    "title": "Анатомічна номенклатура та фізіологія людини",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 24.1) with authentic linguistic precision.",
+    "objective": "Опанувати питому українську анатомічну термінологію (органи, системи тіла), правопис складних медичних прикметників через дефіс та усунення русизмів в анатомії.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Українська медична термінологія має багату наукову традицію, де анатомічні назви ґрунтуються на питомих коренях та міжнародних латинських стандартах:\n\n1. Основні органи та анатомічні структури:\n   - Внутрішні органи: *серце, легені, печінка, нирки, селезінка, підшлункова залоза, шлунок, кишечник (тонкий і товстий кишечник / кишка), стравохід, сечовий міхур*;\n   - Питомі терміни (усунення русизмів):\n     * *«стравохід»* (НЕ *пищевод*);\n     * *«судини / кровообіг»* (НЕ *сосуди / циркуляція крові*);\n     * *«піднебіння»* (НЕ *ньобо*);\n     * *«хребет та суглоби»* (НЕ *позвоночник і сустави*);\n     * *«потилиця, скроні, щелепа»*.\n\n2. Назви фізіологічних систем:\n   - *серцево-судинна система, дихальна система, нервова система, травна система (шлунково-кишковий тракт), опорно-руховий апарат, ендокринна та імунна системи*.\n\n3. Правопис складних медичних прикметників:\n   - Пишуться через ДЕФІС, якщо утворені від незалежних понять або мають відтінок складної взаємодії: *серцево-судинний, шлунково-кишковий, кістково-м'язовий, нервово-психічний*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Серцево-судинна система забезпечує безперервний кровообіг та доставку кисню й поживних речовин до всіх органів і тканин.",
+          "reading": "[sɛrt͡sɛwɔ suˈdɪnnɐ sɪsˈtɛmɐ zɐbɛzˈpɛtʃujɛ bɛzpɛˈrɛrnɪj krɔwɔˈɔbʲiɦ tɑ dɔsˈtɑwku ˈkɪsʲnʲu j pɔˈʒɪwnɪx rɛt͡ʃɔˈwɪn dɔ wʲsʲix ɔrˈɦɑnʲiw i tkɐˈnɪn] (sehr-tseh-VOH soo-DYN-nah sys-TEH-mah zah-bez-PEH-choo-yeh bez-peh-REHR-nyy kroh-woh-OH-beeh tah dohs-TAHV-koo KYS-nyoo y poh-ZHYV-nykh reh-choh-VYN doh VSEEKH ohr-HAH-neew ee tkah-NYN)",
+          "translation": "The cardiovascular system ensures continuous blood circulation and delivery of oxygen and nutrients to all organs and tissues."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 24-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Печінка та підшлункова залоза відіграють вирішальну роль у процесах метаболізму та нейтралізації токсичних сполук.",
+          "reading": "[pɛˈtʃʲinkɐ tɑ pʲidʃlunˈkɔwɐ ˈzɑlɔzɐ wʲidʲiˈɦrɑjutʲ wɪrʲiˈʃɑlʲnu rɔlʲ u prɔˈt͡sɛsɐx mɛtɐbɔˈlʲizmu tɑ nɛjtrɐlʲizɑˈt͡sʲiji tɔkˈsɪtʃnɪx spɔˈluk] (peh-CHEEN-kah tah peed-shloon-KOH-wah ZAH-loh-zah vee-dee-HRAH-yoot' vy-ree-SHAHL'-noo rohl' oo proh-TSEH-sahkh meh-tah-boh-LEEZ-moo tah nehy-trah-lee-ZAH-tsee-yee tohk-SYCH-nykh spoh-LOOK)",
+          "translation": "The liver and pancreas play a crucial role in the processes of metabolism and neutralization of toxic compounds."
+        },
+        {
+          "target": "Здорова постава та зміцнення м'язів спини запобігають дегенеративним змінам у шийному та поперековому відділах хребта.",
+          "reading": "[zdɔˈrɔwɐ pɔsˈtɑwɐ tɑ zmʲit͡sˈnɛnʲːɑ ˈmjɑzʲiw spɪˈnɪ zɐpɔbʲiˈɦɑjutʲ dɛɦɛnɛrɐˈtɪwnɪm ˈzmʲinɐm u ˈʃɪjnɔmu tɑ pɔpɛrɛˈkɔwɔmu ˈwʲidʲːilɐx xrɛbˈtɑ] (zdoh-ROH-wah pohs-TAH-wah tah zmeests-NEN-nyah MYAH-zeew spy-NY zah-poh-bee-HAH-yoot' deh-heh-neh-rah-TYV-nym ZMEE-nahm oo SHYHY-noh-moo tah poh-peh-reh-KOH-woh-moo VEED-dee-lahkh khrehb-TAH)",
+          "translation": "Healthy posture and strengthening back muscles prevent degenerative changes in the cervical and lumbar sections of the spine."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Не «пищевод», а «стравохід»! Не «позвоночник», а «хребет»! Складні системи через дефіс: «серцево-судинний, шлунково-кишковий»!"
+      ],
+      "culturalNotes": [
+        "Українські медичні словники 1920-х років (Інститут української наукової мови) створили самобутню та бездоганну термінологічну систему, відновлену в сучасній медицині."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Чорний\":",
+          "prompt": "Як правильно українською мовою називається орган, що з'єднує глотку зі шлунком?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.1.",
-            "Неправильне відмінкове узгодження зі словом «Сірий»",
-            "Порушення законів евфонії та словотворення для «Коричневий»",
-            "Стилістично некоректна синтаксична конструкція з «Рожевий»"
+            "Стравохід (Authentic Ukrainian anatomical term for esophagus)",
+            "Пищевод",
+            "Їдопровід",
+            "Травник"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативним науковим анатомічним терміном в українській мові є «стравохід»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Чорний\":",
+          "prompt": "Оберіть правильний правопис медичного терміна:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.1.",
-            "Порушення законів евфонії та словотворення для «Коричневий»",
-            "Стилістично некоректна синтаксична конструкція з «Рожевий»",
-            "Неправильне відмінкове узгодження зі словом «Сірий»"
+            "Серцево-судинний (Written with hyphen as a compound coordinate medical adjective)",
+            "Серцевосудинний",
+            "Серцево судинний",
+            "Серцевий-судинний"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Складні прикметники на позначення взаємопов'язаних медичних систем пишуться через дефіс: «серцево-судинний»."
         }
       ]
     },
@@ -9969,17 +9978,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Чорний\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому ВСІ анатомічні терміни вжито без жодної лексичної чи орфографічної помилки:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.1.",
-            "Стилістично некоректна синтаксична конструкція з «Рожевий»",
-            "Неправильне відмінкове узгодження зі словом «Сірий»",
-            "Порушення законів евфонії та словотворення для «Коричневий»"
+            "Магнітно-резонансна томографія дозволяє детально дослідити міжхребцеві диски та суглоби хребта.",
+            "Томографія дозволяє дослідити диски і сустави позвоночника.",
+            "МРТ досліджує суглоби пополам з хребтом.",
+            "Обстеження виявило патологію міжпозвоночних дисків."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Терміни «міжхребцеві диски», «суглоби», «хребет» є бездоганними науковими формами."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u24-l2": {
@@ -9987,53 +9997,62 @@
     "subject": "ukrainian",
     "unit": 24,
     "lessonNumber": 2,
-    "title": "Медична термінологія та консультації (Healthcare) (Part 2)",
+    "title": "Опис симптомів, характеру болю та скарг пацієнта",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 24.2) with authentic linguistic precision.",
+    "objective": "Опанувати синтаксис та лексику опису фізичного стану й симптомів: безособові конструкції відчуттів (паморочиться, нудить, лихоманить), диференціацію видів болю та клінічні скарги.",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові опис самопочуття та клінічних симптомів має специфічні синтаксичні моделі:\n\n1. Безособові предикативні конструкції відчуттів:\n   - *«Мені паморочиться в голові»* (НЕ *я відчуваю головокружіння*);\n   - *«Мене нудить / мене занудило»* (НЕ *мене тошнить*);\n   - *«Хворого лихоманить / морозить»* (підвищення температури, озноб);\n   - *«Мені бракує повітря / перехоплює подих»* (задишка — ядуха);\n   - *«У мене заклало ніс» / «Першить у горлі»*.\n\n2. Градація та характер больових відчуттів:\n   - *гострий біль* (acute), *тупий біль* (dull), *ниючий біль* (aching);\n   - *пекучий біль* (burning), *колючий біль* (stabbing / lancinating);\n   - *пульсуючий біль* (throbbing), *переймоподібний біль* (cramping / colicky);\n   - *біль, що іррадіює (віддає) у ліве плече або лопатку*.\n\n3. Синтаксис дієслова «боліти»:\n   - *«У мене болить (що? — Наз. в.) голова / спина / горло»*;\n   - *«У пацієнта болять (мн.) очі / суглоби»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Пацієнт поскаржився на різкий колючий біль за грудиною, що віддає в ліву руку та посилюється під час фізичного навантаження.",
+          "reading": "[pɐt͡sʲiˈjɛnt pɔskɐrˈʒɪwsʲɑ nɑ ˈrʲizkɪj kɔˈlʲutʃɪj bʲilʲ zɑ ɦruˈdɪnɔju, ʃtʃɔ wʲidˈdɑjɛ w ˈlʲiwu ˈruku tɑ pɔsɪˈlʲujɛtʲsʲɑ pʲid t͡ʃɑs fʲiˈzɪtʃnɔɦɔ nɐwɑntɐˈʒɛnʲːɑ] (pah-tsee-YEHNT poh-skahr-ZHYV-syah nah REEZ-kyy koh-LYOO-chyy beel' zah hroo-DY-noh-yoo, shchoh veed-DAH-yeh v LEE-voo ROO-koo tah poh-sy-LYOO-yeht'-syah peed chahs fee-ZYCH-noh-hoh nah-vahn-tah-ZHEN-nyah)",
+          "translation": "The patient complained of a sharp stabbing pain behind the sternum that radiates to the left arm and intensifies during physical exertion."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 24-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Зранку мені сильно паморочиться в голові, з'явилася нудота та загальна слабкість у всьому тілі.",
+          "reading": "[ˈzrɑnku mɛˈnʲi ˈsʲilʲnɔ pɐmɔrɔˈtʃɪtʲsʲɑ w ɦɔlɔˈwʲi, zjɑwɪˈlɑsʲɑ nuˈdɔtɐ tɑ zɐˈɦɑlʲnɐ ˈslɑbkʲisʲtʲ u wˈsʲɔmu ˈtʲilʲi] (ZRAHN-koo meh-NEE SEEL'-noh pah-moh-roh-CHY-tsyah v hoh-loh-VEE, zyah-vy-LAH-syah noo-DOH-tah tah zah-HAHL'-nah SLAHB-keest' oo VSYOH-moo TEE-lee)",
+          "translation": "Since morning I have been feeling very dizzy; nausea and general weakness in the entire body have appeared."
+        },
+        {
+          "target": "При переохолодженні виникає постійний ниючий біль у попереку, який обмежує рухливість суглобів.",
+          "reading": "[prɪ pɛrɛɔxɔˈlɔdʒɛnʲːi wɪnɪˈkɑjɛ pɔsʲˈtʲijnɪj ˈnɪjutʃɪj bʲilʲ u pɔpɛˈrɛku, jɑˈkɪj ɔbmɛˈʒujɛ ruxˈlɪwʲisʲtʲ suɦˈlɔbʲiw] (pry peh-reh-oh-khoh-LOH-dzhen-nyee vy-ny-KAH-yeh pohs-TEEY-nyy NY-yoo-chyy beel' oo poh-peh-REH-koo, yah-KYY ohb-meh-ZHOO-yeh rookh-LY-veest' sooh-LOH-beew)",
+          "translation": "During hypothermia, a persistent aching pain occurs in the lower back, restricting joint mobility."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Запаморочення описуй безособово: «паморочиться в голові, мене нудить, лихоманить, бракує подиху»!"
+      ],
+      "culturalNotes": [
+        "В українському фольклорі та класичній літературі багатство описів душевного та тілесного болю виробило надзвичайно точну дескриптивну мову симптомів."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Сірий\":",
+          "prompt": "Як правильно описати відчуття втрати рівноваги та кружіння голови?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.2.",
-            "Неправильне відмінкове узгодження зі словом «Коричневий»",
-            "Порушення законів евфонії та словотворення для «Рожевий»",
-            "Стилістично некоректна синтаксична конструкція з «Фіолетовий»"
+            "Мені паморочиться в голові (Authentic impersonal construction for dizziness)",
+            "Я маю головокружіння",
+            "У мене голова кружиться",
+            "Я кручуся головою"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативною українською фразою для вираження запаморочення є «мені паморочиться в голові»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Сірий\":",
+          "prompt": "Яким прикметником позначають нападоподібний біль у животі?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.2.",
-            "Порушення законів евфонії та словотворення для «Рожевий»",
-            "Стилістично некоректна синтаксична конструкція з «Фіолетовий»",
-            "Неправильне відмінкове узгодження зі словом «Коричневий»"
+            "Переймоподібний біль (Colicky / cramping pain term)",
+            "Схоплений біль",
+            "Переривний біль",
+            "Кривий біль"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Клінічний термін для болю у вигляді нападів (перейм) — «переймоподібний біль»."
         }
       ]
     },
@@ -10041,17 +10060,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Сірий\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому скарги пацієнта описано граматично й стилістично бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.2.",
-            "Стилістично некоректна синтаксична конструкція з «Фіолетовий»",
-            "Неправильне відмінкове узгодження зі словом «Коричневий»",
-            "Порушення законів евфонії та словотворення для «Рожевий»"
+            "Хворого турбує пекучий біль за грудиною, задишка та сухий кашель.",
+            "Хворого турбує палюча біль за грудьми, одишка і кашель.",
+            "Хворий жаліється на біль у грудях і його тошнить.",
+            "У пацієнта головокружіння і пече у грудях."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Пекучий біль» (чоловічий рід), «задишка» — точні й нормативні медичні формулювання."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u24-l3": {
@@ -10059,53 +10079,62 @@
     "subject": "ukrainian",
     "unit": 24,
     "lessonNumber": 3,
-    "title": "Медична термінологія та консультації (Healthcare) (Part 3)",
+    "title": "Діагностичні процедури, лабораторні аналізи та обстеження",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 24.3) with authentic linguistic precision.",
+    "objective": "Опанувати термінологію медичної діагностики, види лабораторних досліджень (аналізи натщесерце, показники крові) та інструментальні методи обстеження.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Медична діагностика включає лабораторні, функціональні та апаратні методи дослідження організму:\n\n1. Лабораторні аналізи та підготовка до них:\n   - *«Загальний клінічний аналіз крові / сечі»*;\n   - *«Біохімічний аналіз крові»* (рівень глюкози, білірубіну, холестерину, печінкові проби);\n   - *«Здавати кров натщесерце»* (НЕ *натощак / на голодний шлунок*);\n   - *«Забір біологічного матеріалу»*;\n   - *«Показники в межах норми / відхилення від референтних значень»*.\n\n2. Апаратні та інструментальні дослідження:\n   - *«Ультразвукове дослідження (УЗД) органів черевної порожнини»*;\n   - *«Електрокардіографія (ЕКГ) / добове моніторування серцевого ритму»*;\n   - *«Комп'ютерна томографія (КТ) / магнітно-резонансна томографія (МРТ)»*;\n   - *«Рентгенографія грудної клітки»*;\n   - *«Ендоскопічне обстеження (гастроскопія, колоноскопія)»*.\n\n3. Дієслівне керування в діагностиці:\n   - *«Вимірювати артеріальний тиск»* (НЕ *міряти давлєніє*);\n   - *«Призначати додаткове обстеження»*;\n   - *«Встановлювати попередній / клінічний діагноз»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Для точного встановлення діагнозу лікар скерував пацієнта на ультразвукове дослідження нирок та біохімічний аналіз крові.",
+          "reading": "[dlʲɑ ˈtɔtʃnɔɦɔ wstɐnɔwˈlɛnʲːɑ dʲiˈɑɦnɔzu ˈlʲikɐr skɛruˈwɑw pɐt͡sʲiˈjɛntɐ nɑ ulʲtrɐzwuˈkɔwɛ dɔsʲˈlʲidʒɛnʲːɑ ˈnɪrɔk tɑ bʲiɔxʲiˈmʲitʃnɪj ɐˈnɑlʲiz krɔˈwʲi] (dlyah TOHCH-noh-hoh vstah-nohv-LEN-nyah dee-AHH-noh-zoo LEE-kahr skeh-roo-VAHV pah-tsee-YEHN-tah nah ool'-trah-zwoo-KOH-weh dohs-LEED-zhen-nyah NY-rohk tah bee-oh-khee-MEE-chnyy ah-NAH-leez kroh-VEE)",
+          "translation": "To establish an accurate diagnosis, the doctor referred the patient for an ultrasound examination of the kidneys and a biochemical blood test."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 24-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Зверніть увагу: забір венозної крові для визначення рівня цукру слід проводити суворо натщесерце.",
+          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu: zɐˈbʲir wɛˈnɔznɔji krɔˈwʲi dlʲɑ wɪznɐˈtʃɛnʲːɑ ˈrʲiwnʲɑ ˈt͡sukru sʲlʲid prɔwɔˈdɪtɪ ˈsurɔwɔ nɐtʃt͡ʃɛˈsɛrt͡sɛ] (zvehr-NEET oo-VAH-hoo: zah-BEER veh-NOHZ-noh-yee kroh-VEE dlyah vyz-nah-CHEN-nyah REEV-nyah TSOO-kroo sleed proh-woh-DY-ty SOO-roh-woh naht-shcheh-SEHR-tseh)",
+          "translation": "Please note: venous blood sampling to determine blood sugar levels must be performed strictly on an empty stomach."
+        },
+        {
+          "target": "Терапевт виміряв артеріальний тиск і призначив електрокардіограму для оцінки роботи серця.",
+          "reading": "[tɛrɐˈpɛwt wɪˈmʲirʲɑw ɐrtɛrʲiˈɑlʲnɪj tɪsk i prɪzˈnɑtʃɪw ɛlɛktrɔkɐrdʲiɔˈɦrɑmu dlʲɑ ɔˈt͡sʲinkɪ rɔˈbɔtɪ ˈsɛrt͡sɑ] (teh-rah-PEHVT vy-MEE-ryahv ahr-teh-ree-AHL'-nyy TYSK ee pryz-NAH-chyv eh-lehk-troh-kahr-dee-oh-HRAH-moo dlyah oh-TSEEN-ky roh-BOH-ty SEHR-tsah)",
+          "translation": "The therapist measured blood pressure and ordered an electrocardiogram to evaluate cardiac performance."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Кров здають «натщесерце» (не натощак!); тиск «вимірюють» (не міряють давлєніє!); УЗД — це ультразвукове дослідження!"
+      ],
+      "culturalNotes": [
+        "Сучасна електронна система охорони здоров'я України (eHealth) повністю стандартизована українською медичною термінологією за міжнародною класифікацією ICPC-2."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Коричневий\":",
+          "prompt": "Як правильно українською мовою сказати про здачу аналізів до прийому їжі?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.3.",
-            "Неправильне відмінкове узгодження зі словом «Рожевий»",
-            "Порушення законів евфонії та словотворення для «Фіолетовий»",
-            "Стилістично некоректна синтаксична конструкція з «Великий»"
+            "Здавати аналізи натщесерце (Standard adverb for fasting / on an empty stomach)",
+            "Здавати аналізи натощак",
+            "Здавати на порожній живіт",
+            "Здавати без їди"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативне літературне та медичне слово в українській мові — «натщесерце»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Коричневий\":",
+          "prompt": "Оберіть нормативне медичне словосполучення для перевірки показників тиску:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.3.",
-            "Порушення законів евфонії та словотворення для «Фіолетовий»",
-            "Стилістично некоректна синтаксична конструкція з «Великий»",
-            "Неправильне відмінкове узгодження зі словом «Рожевий»"
+            "Вимірювати артеріальний тиск (To measure arterial pressure - correct collocation)",
+            "Міряти кров'яне давлєніє",
+            "Знімати тиск",
+            "Перевіряти напір крові"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Нормативне клінічне словосполучення — «вимірювати артеріальний тиск»."
         }
       ]
     },
@@ -10113,17 +10142,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Коричневий\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому діагностичне направлення сформульовано грамотно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.3.",
-            "Стилістично некоректна синтаксична конструкція з «Великий»",
-            "Неправильне відмінкове узгодження зі словом «Рожевий»",
-            "Порушення законів евфонії та словотворення для «Фіолетовий»"
+            "Пацієнтові рекомендовано пройти комплексне ультразвукове дослідження та здати кров натщесерце.",
+            "Пацієнту треба пройти УЗД і здати аналізи натощак.",
+            "Лікар призначив поміряти давлєніє і зробити знімок на голодний шлунок.",
+            "Рекомендовано перевірку тиску та аналізи натощак."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Комплексне ультразвукове дослідження» та «здати кров натщесерце» відповідають усім медичним нормам."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u24-l4": {
@@ -10131,53 +10161,62 @@
     "subject": "ukrainian",
     "unit": 24,
     "lessonNumber": 4,
-    "title": "Медична термінологія та консультації (Healthcare) (Part 4)",
+    "title": "Фармацевтична термінологія, лікарські форми та правила дозування",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 24.4) with authentic linguistic precision.",
+    "objective": "Опанувати фармацевтичну лексику (форми ліків, спосіб застосування, дозування), термінологію побічних дій та синтаксис інструкцій до медичних препаратів.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Фармацевтична термінологія вимагає абсолютної точності у позначенні лікарських форм, дозування та способів застосування:\n\n1. Основні лікарські форми:\n   - Тверді: *таблетки (вкриті оболонкою, шипучі), капсули, драже, порошки*;\n   - Рідкі: *розчин для ін'єкцій / інфузій, сироп, суспензія, краплі (очні, вушні, назальні), настоянка, екстракт*;\n   - М'які: *мазь, гель, крем, лінімент, супозиторії (свічки)*;\n   - Аерозольні: *спрей, аерозоль для інгаляцій*.\n\n2. Способи застосування та прийменникові конструкції:\n   - *«Приймати всередину (перорально) по одній таблетці тричі на добу»*;\n   - *«Приймати за тридцять хвилин до їди / через годину після їди»* (НЕ *під час їди* як універсал);\n   - *«Запивати достатньою кількістю питної води»*;\n   - *«Наносити тонким шаром на уражену поверхню шкіри двічі на день»*;\n   - *«Препарат призначений для внутрішньовенного або внутрішньом'язового введення»*.\n\n3. Застереження та фармакодинамічні терміни:\n   - *«Протипоказання, побічні реакції, індивідуальна підвищена чутливість (гіперчутливість), взаємодія з іншими лікарськими засобами, передозування, термін придатності»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Препарат слід приймати перорально по одній капсулі двічі на добу після їди, запиваючи склянкою води.",
+          "reading": "[prɛpɐˈrɑt sʲlʲid prɪjˈmɑtɪ pɛrɔˈrɑlʲnɔ pɔ ɔdʲˈnʲij kɑpˈsulʲi ˈdwʲit͡ʃʲi nɑ ˈdɔbu ˈpʲisʲlʲɑ ˈjijidɪ, zɐpɪˈwɑjutʃɪ sklʲɑnˈkɔju wɔˈdɪ] (preh-pah-RAHT sleed pryy-MAH-ty peh-roh-RAHL'-noh poh ohd-NEEY kahp-SOO-lee DWEE-chee nah DOH-boo PEES-lyah YEE-dy, zah-py-VAH-yoo-chy sklyahn-KOH-yoo woh-DY)",
+          "translation": "The drug should be taken orally, one capsule twice a day after meals, with a glass of water."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 24-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Мазь наносять тонким шаром на уражені ділянки шкіри, уникаючи потрапляння препарату на слизові оболонки.",
+          "reading": "[mɑzʲ nɐˈnɔsʲɑtʲ ˈtɔnkɪm ˈʃɑrɔm nɑ urɑˈʒɛnʲi dʲiˈlʲɑnkɪ ʃkʲiˈrɪ, unɪˈkɑjutʃɪ pɔtrɐpˈlʲɑnʲːɑ prɛpɐˈrɑtu nɑ slɪzɔˈwʲi ɔbɔˈlɔnkɪ] (MAHZ' nah-NOH-syat' TOHN-kym SHAH-rohm nah oo-rah-ZHEH-nee dee-LYAHN-ky shkee-RY, oo-ny-KAH-yoo-chy poh-trahp-LYAHN-nyah preh-pah-RAH-too nah sly-zoh-VEE oh-boh-LOHN-ky)",
+          "translation": "The ointment is applied in a thin layer to the affected areas of the skin, avoiding contact with mucous membranes."
+        },
+        {
+          "target": "Перед застосуванням антибіотиків обов'язково ознайомтеся з переліком можливих протипоказань та побічних ефектів.",
+          "reading": "[ˈpɛrɛd zɐstɔsuˈwɑnʲːɐm ɐntɪbʲiˈɔtɪkʲiw ɔbɔwˈjɑzkɔwɔ ɔznɐˈjɔmtɛsʲɑ z pɛrɛˈlʲikɔm mɔʒˈlɪwɪx prɔtɪpɔˈkɑzɐnʲ tɑ pɔˈbʲitʃnɪx ɛˈfɛktʲiw] (PEH-red zahs-toh-soo-VAHN-nyahm ahn-ty-bee-OH-ty-keew oh-bov-YAHZ-koh-woh ohz-nah-YOHM-tehs'-yah z peh-reh-LEE-kohm mohzh-LY-wykh proh-ty-poh-KAH-zahn' tah poh-BEECH-nykh eh-FEHK-teew)",
+          "translation": "Before using antibiotics, be sure to familiarize yourself with the list of possible contraindications and side effects."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Приймай ліки «двічі на добу», «до/після їди», запивай водою; перевіряй «протипоказання та термін придатності»!"
+      ],
+      "culturalNotes": [
+        "В українських аптеках усі офіційні інструкції до ліків складаються виключно державною мовою відповідно до закону про лікарські засоби."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Рожевий\":",
+          "prompt": "Як правильно українською мовою вказати періодичність прийому препарату (два рази на день)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.4.",
-            "Неправильне відмінкове узгодження зі словом «Фіолетовий»",
-            "Порушення законів евфонії та словотворення для «Великий»",
-            "Стилістично некоректна синтаксична конструкція з «Малий»"
+            "Двічі на добу (Normative medical dosage frequency in Ukrainian)",
+            "Два рази в сутки",
+            "Дважди на день",
+            "Двічі в сутках"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативна фраза в інструкціях до ліків — «двічі на добу» (або «двічі на день»)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Рожевий\":",
+          "prompt": "Як називається розділ медичної інструкції, що забороняє прийом препарату певним категоріям хворих?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.4.",
-            "Порушення законів евфонії та словотворення для «Великий»",
-            "Стилістично некоректна синтаксична конструкція з «Малий»",
-            "Неправильне відмінкове узгодження зі словом «Фіолетовий»"
+            "Протипоказання (Contraindications - standard pharmaceutical term)",
+            "Заборони",
+            "Недопуски",
+            "Відхилення"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Офіційний фармацевтичний термін — «протипоказання»."
         }
       ]
     },
@@ -10185,17 +10224,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Рожевий\": Which sentence is completely correct?",
+          "prompt": "Оберіть фрагмент фармацевтичної інструкції, укладений бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.4.",
-            "Стилістично некоректна синтаксична конструкція з «Малий»",
-            "Неправильне відмінкове узгодження зі словом «Фіолетовий»",
-            "Порушення законів евфонії та словотворення для «Великий»"
+            "Приймати по одній таблетці двічі на добу після їди. Зберігати в сухому, недоступному для дітей місці.",
+            "Пити по одній таблетці два рази в сутки після їди. Тримати де діти не дістануть.",
+            "Приймати капсули дважди на день при їді.",
+            "Вживати ліки по разу в сутки на голодний шлунок."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«По одній таблетці двічі на добу після їди... в сухому, недоступному для дітей місці» — бездоганний стандарт фармації."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u24-l5": {
@@ -10203,53 +10243,62 @@
     "subject": "ukrainian",
     "unit": 24,
     "lessonNumber": 5,
-    "title": "Медична термінологія та консультації (Healthcare) (Part 5)",
+    "title": "Діалог лікаря та пацієнта: збір анамнезу та рекомендації",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 24.5) with authentic linguistic precision.",
+    "objective": "Опанувати мовний етикет медичної консультації: опитування хворого (збір анамнезу), постановка уточнювальних запитань, надання рекомендацій та дотримання медичної деонтології.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Консультація лікаря ґрунтується на поєднанні високого професіоналізму, емпатії та чітких алгоритмів збору інформації (анамнезу):\n\n1. Формули початку прийому та збору скарг:\n   - *«Добрий день! Проходьте, сідайте, будь ласка. На що скаржитеся?»*;\n   - *«Розкажіть детальніше, що саме вас турбує?»*;\n   - *«Коли саме ви вперше відчули ці симптоми?»*;\n   - *«Чи пов'язуєте ви погіршення стану зі стресом, переохолодженням або їжею?»*.\n\n2. Уточнення анамнезу життя та алергологічного статусу:\n   - *«Чи є у вас алергія на будь-які медикаменти або харчові продукти?»*;\n   - *«Чи маєте ви хронічні захворювання серця, шлунка або нирок?»*;\n   - *«Які лікарські препарати ви приймаєте на постійній основі?»*.\n\n3. Формулювання лікарських рекомендацій та призначення:\n   - *«Вам призначено постільний режим на три дні та рясне тепле пиття»*;\n   - *«Рекомендую дотримуватися щадної дієти та виключити гостру їжу»*;\n   - *«У разі підвищення температури понад 38,5 °C прийміть жарознижувальний засіб»*;\n   - *«Прийдіть на повторний огляд через п'ять днів із результатами аналізів»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "— На що саме ви скаржитеся? — Мене вже три дні турбує сухий кашель, підвищена температура та біль у м'язах.",
+          "reading": "[nɑ ʃtʃɔ ˈsɑmɛ wɪ skɐrˈʒɪtɛsʲɑ? ˈmɛnɛ wʒɛ trɪ dnʲi turˈbujɛ suˈxɪj ˈkɑʃɛlʲ, pʲidˈwɪʃtʃɛnɐ tɛmpɛrɐˈturɐ tɑ bʲilʲ u ˈmjɑzɐx] (nah shchoh SAH-meh vy skahr-ZHY-tehs'-yah? MEH-neh vzheh try dnee toor-BOO-yeh soo-KHYY KAH-shel', peed-VYSH-cheh-nah tehm-peh-rah-TOO-rah tah beel' oo MYAH-zahkh)",
+          "translation": "— What exactly are your complaints? — For three days I have been troubled by a dry cough, elevated temperature, and muscle pain."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 24-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Лікар уважно вислухав легені пацієнта фонендоскопом, виміряв сатурацію та призначив курс інгаляційної терапії.",
+          "reading": "[ˈlʲikɐr uˈwɑʒnɔ ˈwɪsluxɐw lɛˈɦɛnʲi pɐt͡sʲiˈjɛntɐ fɔnɛndɔsˈkɔpɔm, wɪˈmʲirʲɑw sɐturɐˈt͡sʲiju tɑ prɪzˈnɑtʃɪw kurs inɦɐlʲɑt͡sʲijˈnɔji tɛrɐˈpʲiji] (LEE-kahr oo-VAHZH-noh VY-sloo-khahv leh-HEH-nee pah-tsee-YEHN-tah foh-nehn-dohs-KOH-pohm, vy-MEE-ryahv sah-too-rah-TSEE-yoo tah pryz-NAH-chyv koors een-hah-lyah-tseey-NOH-yee teh-rah-PEE-yee)",
+          "translation": "The doctor listened carefully to the patient's lungs with a phonendoscope, measured saturation, and prescribed a course of inhalation therapy."
+        },
+        {
+          "target": "Не хвилюйтеся, своєчасно розпочате лікування дозволить уникнути ускладнень та швидко відновити сили.",
+          "reading": "[nɛ xwʲiˈlʲujtɛsʲɑ, swɔjɛˈt͡ʃɑsnɔ rɔzpɔˈtʃɑtɛ lʲikuˈwɑnʲːɑ dɔzˈwɔlʲitʲ unɪkˈnutɪ usklɐdˈnɛnʲ tɑ ˈʃwɪdkɔ wʲidnɔˈwɪtɪ ˈsɪlɪ] (neh khwee-LYOOY-tehs'-yah, swoh-yeh-CHAHS-noh roz-poh-CHAH-teh lee-koo-VAHN-nyah dohz-VOH-leet' oo-nyk-NOO-ty oos-klahd-NEN' tah SHVYD-koh veed-noh-VY-ty SY-ly)",
+          "translation": "Do not worry, timely started treatment will help avoid complications and quickly restore your strength."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Скарги — «На що скаржитеся?»; алергія — «Чи є алергія на ліки?»; фінал — чіткий план лікування та дата повторного огляду!"
+      ],
+      "culturalNotes": [
+        "Медична деонтологія в Україні спирається на партнерську модель відносин «лікар — пацієнт», засновану на інформованій згоді та взаємній довірі."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Фіолетовий\":",
+          "prompt": "Як лікар стандартно і ввічливо запитує пацієнта про причину візиту?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.5.",
-            "Неправильне відмінкове узгодження зі словом «Великий»",
-            "Порушення законів евфонії та словотворення для «Малий»",
-            "Стилістично некоректна синтаксична конструкція з «Високий»"
+            "На що скаржитеся? / Що вас турбує? (Standard polite medical anamnesis question)",
+            "Чого прийшли?",
+            "Що у вас зламалося?",
+            "Хто вас сюди відправив?"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативні формули медичного етикету лікаря: «На що скаржитеся?» або «Що вас турбує?»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Фіолетовий\":",
+          "prompt": "Яке запитання обов'язково ставить лікар перед призначенням ін'єкцій чи антибіотиків?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.5.",
-            "Порушення законів евфонії та словотворення для «Малий»",
-            "Стилістично некоректна синтаксична конструкція з «Високий»",
-            "Неправильне відмінкове узгодження зі словом «Великий»"
+            "Чи маєте ви алергію на медичні препарати? (Crucial allergy anamnesis inquiry)",
+            "Чи любите ви уколи?",
+            "Чи дорогі ліки ви купуєте?",
+            "Чи є у вас вдома шприци?"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Збір алергологічного анамнезу («Чи маєте алергію на препарати?») є обов'язковим стандартом безпеки пацієнта."
         }
       ]
     },
@@ -10257,17 +10306,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Фіолетовий\": Which sentence is completely correct?",
+          "prompt": "Оберіть діалогічну репліку лікаря, яка відповідає всім стандартам медичної деонтології та етикету:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 24.5.",
-            "Стилістично некоректна синтаксична конструкція з «Високий»",
-            "Неправильне відмінкове узгодження зі словом «Великий»",
-            "Порушення законів евфонії та словотворення для «Малий»"
+            "Дотримуйтеся призначеного лікування, а в разі погіршення самопочуття негайно зверніться до чергового лікаря.",
+            "Пийте що хочете, як стане гірше — прийдете.",
+            "Самі вирішуйте коли пити ліки, я не знаю.",
+            "Якщо не поможе, то вже нічого не зробиш."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Репліка витримана у професійному, турботливому та деонтологічно бездоганному стилі."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u25-l1": {
