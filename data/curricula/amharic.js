@@ -3637,85 +3637,62 @@
     "subject": "amharic",
     "unit": 8,
     "lessonNumber": 1,
-    "title": "አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit) (ክፍል 1)",
+    "title": "መሰረታዊ አቅጣጫዎች እና የቦታ አመልካቾች (Cardinal Directions & Spatial Terms)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: በከተማ ውስጥ አቅጣጫ መጠየቅና ማሳየት፣ የታክሲና የአውቶቡስ ጉዞ መግለጫዎች። (ክፍል 1)።",
+    "objective": "መሰረታዊ አቅጣጫዎችን (ቀኝ፣ ግራ፣ ፊት ለፊት፣ ጀርባ፣ አጠገብ፣ መሃል፣ ቅርብ፣ ሩቅ) በትክክል መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "መሰረታዊ አቅጣጫዎች እና የቦታ አመልካች ቃላት (Directions & Spatial Terms):\n\n፩. መሰረታዊ አቅጣጫዎች:\n- «ቀኝ»: ወደ ቀኝ\n- «ግራ»: ወደ ግራ\n- «ቀጥታ» / «ፊት ለፊት»\n- «ጀርባ» / «ኋላ»\n- «መሃል»\n- «አጠገብ»።\n\n፪. የርቀት መግለጫዎች:\n- «ቅርብ»\n- «ሩቅ»።\n\n፫. አቅጣጫ ማሳያ ግሶች:\n- መታጠፍ -> ታጠፍ (m) / ታጠፊ (f) / ይታጠፉ (polite)\n- መሄድ -> ሂድ (m) / ሂጂ (f) / ይሂዱ (polite)\n- መሻገር -> ተሻገር (m) / ተሻገሪ (f) / ይሻገሩ (polite)።",
       "examples": [
         {
-          "target": "መምህሩ የ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (8.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)' to the students."
+          "target": "ወደ ቀኝ ታጠፍና ቀጥታ ሂድ፤ ባንኩ ከሆስፒታሉ አጠገብ ይገኛል።",
+          "reading": "Wädä qäny tat’äfənna qät’ta hid; banku kähospitalu at’ägäb yəggänyall. [wɛdɛ kʼɛɲ tatʼɛfɨnːa kʼɛtʼːa hid banˈku kɛhospiˈtalu atʼɛˈɡɛb jɨɡːɛˈɲal] (weh-DEH k'en taht'-EH-fun-nah k'et'-TAH heed; bahn-KOO keh-hohs-pee-TAH-loo ah-t'eh-GEB yuhg-gehn-YAHL)",
+          "translation": "Turn to the right and go straight; the bank is located next to the hospital."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (8.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ቤተ-መጻሕፍቱ ከዚህ በጣም ቅርብ ነው፤ መንገዱን ተሻግረህ ታገኘዋለህ።",
+          "reading": "Betä-mäs’ahəftu käzzih bät’am qərb näw; mängädun täšagräh tagänyäwalläh. [betɛmɛsˤaˈhɨftu kɛzːih bɛtʼam kʼɨrb nɛw mɛnɡɛˈdun tɛʃaɡˈrɛh taɡɛɲɛˈwalːɛh] (bay-tuh-meh-TS'AH-huf-too kez-ZEEH beh-T'AHM k'urb now; men-geh-DOON teh-shahg-REH tah-gen-yeh-WAHL-leh)",
+          "translation": "The library is very near from here; you will find it by crossing the road."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (8.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (8.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ትልቁ የመሰብሰቢያ አዳራሽ በዩኒቨርሲቲው ግቢ መሃል ላይ ይገኛል።",
+          "reading": "Təlqu yämässäbsäbiya adaraš bäyunivärsitiw gəbbi mähal lay yəggänyall. [tɨlˈkʼu jɛmɛsːɛbsɛbiˈja adaˈraʃ bɛjunivɛrsiˈtiw ɡɨbːi mɛˈhal laj jɨɡːɛˈɲal] (tul-K'OO yeh-mes-seb-seh-bee-YAH ah-dah-RAHSH beh-yoo-nee-ver-see-TEE-w gub-BEE meh-HAHL lye yuhg-gehn-YAHL)",
+          "translation": "The large conference hall is located in the middle of the university campus."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Compass of Motion: ቀኝ (Right) & ግራ (Left) | ፊት ለፊት (Straight) & ጀርባ (Behind) | ቅርብ (Near) & ሩቅ (Far)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ከተሞች ውስጥ አቅጣጫ ሲጠየቅ አብዛኛውን ጊዜ በህንፃዎችና በሚታወቁ ምልክቶች (Landmarks - ለምሳሌ: ከቤተክርስቲያኑ አጠገብ፣ ከክብ አደባባዩ ፊት ለፊት) ማመልከት የተለመደ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ወደ ቀኝ ለመታጠፍ ለወንድ የሚሰጥ ትክክለኛ የትዕዛዝ አነጋገር የትኛው ነው?",
           "options": [
-            "መምህሩ የ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (8.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (8.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (8.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (8.1.w3)"
+            "ወደ ቀኝ ታጠፍ (Turn right - Correct masculine imperative direction)",
+            "ወደ ግራ ሂድ",
+            "ቀጥታ ቁም",
+            "ወደ ኋላ ተመለስ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ወደ ቀኝ ታጠፍ» ለወንድ (ተባዕታይ) ወደ ቀኝ እንዲታጠፍ የሚያዝዝ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u8-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'The pharmacy is next to the clinic' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (8.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (8.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (8.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (8.1.x3)"
+            "መድኃኒት ቤቱ ከክሊኒኩ አጠገብ ነው። (The pharmacy is next to the clinic - Correct spatial term አጠገብ)",
+            "መድኃኒት ቤቱ በጣም ሩቅ ነው።",
+            "ክሊኒኩ የለም።",
+            "መድኃኒት ቤት አልሄድም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (8.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (8.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (8.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (8.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ከ... አጠገብ» (next to / beside) ትክክለኛውን የቦታ አቀማመጥ ያሳያል።"
         }
       ]
     },
@@ -3723,24 +3700,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 8-1):",
+          "prompt": "የአቅጣጫ ቃላትን እና ተዛማጅ ትርጉሞቻቸውን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (8.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (8.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (8.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (8.1.z3)"
+            "ቀኝ (Right)፣ ግራ (Left)፣ ፊት ለፊት (Straight ahead)፣ አጠገብ (Next to)።",
+            "ቀኝ ማለት ግራ ማለት ነው።",
+            "ቅርብ እና ሩቅ አንድ ናቸው።",
+            "በአማርኛ አቅጣጫ አይነገርም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአቅጣጫ ቃላትን በትክክል ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u8-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «አቅጣጫ»):",
+          "prompt": "'ቀኝ / Right (direction)' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "አቅጣጫ",
-            "አቅጣጫ"
+            "ቀኝ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «አቅጣጫ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ቀኝ» (Qäny) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -3751,85 +3727,62 @@
     "subject": "amharic",
     "unit": 8,
     "lessonNumber": 2,
-    "title": "አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit) (ክፍል 2)",
+    "title": "መንገድ እና አቅጣጫ መጠየቅ (Asking for Directions)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: በከተማ ውስጥ አቅጣጫ መጠየቅና ማሳየት፣ የታክሲና የአውቶቡስ ጉዞ መግለጫዎች። (ክፍል 2)።",
+    "objective": "መንገድ መጠየቅን (ይቅርታ ... የት ነው? እንዴት መሄድ እችላለሁ?) እና የተሰጠውን አቅጣጫ መረዳት።",
     "presentation": {
-      "explanation": "",
+      "explanation": "መንገድ እና አቅጣጫ መጠየቅ (Asking for Directions):\n\n፩. ጨዋነት የተሞላበት የመጠየቂያ አገላለጾች:\n- «ይቅርታ፣ ፖስታ ቤቱ የት ነው?»\n- «ወደ ስታዲየም እንዴት መሄድ እችላለሁ?»\n- «ይህ መንገድ ወዴት ይወስዳል?»\n\n፪. የመልስ እና የመምሪያ አገላለጾች:\n- «ቀጥ ብለህ ሂድና የመጀመሪያውን መታጠፊያ ያዝ»\n- «አደባባዩን ስትደርስ ወደ ግራ ታጠፍ»\n- «ከሁለት መቶ ሜትር በኋላ በስተቀኝ ታገኘዋለህ»።",
       "examples": [
         {
-          "target": "መምህሩ የ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (8.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)' to the students."
+          "target": "ይቅርታ፣ ወደ ብሔራዊ ሙዚየም የሚወስደው መንገድ የትኛው ነው?",
+          "reading": "Yəqərta, wädä Bəherawi Muziyäm yämmiwäsdäw mängäd yätnaw näw? [jɨkʼɨrˈta wɛdɛ bɨheˈrawi muziˈjɛm jɛmːiwɛsˈdɛw mɛnˈɡɛd jɛtˈnaw nɛw] (yuh-k'ur-TAH, weh-DEH buh-hay-RAH-wee moo-zee-YEM yem-mee-wes-DEW men-GED yet-NOW now?)",
+          "translation": "Excuse me, which is the road that leads to the National Museum?"
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (8.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ቀጥታ ሂዱና አደባባዩን እንደደረሳችሁ በስተግራ በኩል ታገኙታላችሁ።",
+          "reading": "Qät’ta hidunna adäbabayun əndädärräsaččəhu bästəgra bäkkul tagänyutalalləhu. [kʼɛtʼːa hiˈdunːa adɛbaˈbaju jɨndɛdɛrːɛˈsatʃːɨhu bɛstɨɡˈra bɛkːul taɡɛɲutaˈlalːɨhu] (k'et'-TAH hee-DOON-nah ah-deb-ah-bah-YOON un-deh-der-reh-sahch-CHOO behs-tuh-GRAH behk-KOOL tah-gen-yoo-tah-LAHL-luh-hoo)",
+          "translation": "Go straight, and as soon as you reach the roundabout, you will find it on the left side."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (8.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (8.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እባክዎን፣ ቅርቡ የባንክ መክፈያ ማሽን (ኤቲኤም) የት ይገኛል?",
+          "reading": "Əbakwon, qərbu yäbank mäkfäya mašin (ETIEM) yät yəggänyall? [ɨbakˈwon kʼɨrˈbu jɛbaŋk mɛkfɛˈja maˈʃin e-ti-em jɛt jɨɡːɛˈɲal] (uh-bahk-WOHN, k'ur-BOO yeh-bahnk meh-k'feh-YAH mah-SHEEN yet yuhg-gehn-YAHL?)",
+          "translation": "Please, where is the nearest bank ATM machine found?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Direction Q&A: ይቅርታ ... የት ነው? (Excuse me, where is ...?) -> ቀጥታ ሂድ (Go straight) -> አደባባይ (Roundabout) -> በስተቀኝ/በስተግራ (On right/left)!"
+      ],
+      "culturalNotes": [
+        "አዲስ አበባ ውስጥ 'አደባባይ' (Roundabout - ለምሳሌ: መስቀል አደባባይ፣ ቴዎድሮስ አደባባይ) ዋና የመንገድ መገናኛ እና መነሻ ምልክት ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ወደ አንድ ቦታ የሚወስደውን መንገድ በትህትና ለመጠየቅ ምን ይባላል?",
           "options": [
-            "መምህሩ የ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (8.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (8.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (8.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (8.2.w3)"
+            "ይቅርታ፣ ወደ ... የሚወስደው መንገድ የት ነው? (Excuse me, where is the road leading to ...? - Polite direction inquiry)",
+            "መንገድ አልፈልግም",
+            "ቶሎ ሂድ",
+            "ስምህ ማን ነው?"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ይቅርታ፣ ወደ ... የሚወስደው መንገድ የት ነው?» ትክክለኛ የጨዋነት መንገድ መጠየቂያ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u8-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'When you reach the roundabout, turn left' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (8.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (8.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (8.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (8.2.x3)"
+            "አደባባዩን ስትደርስ ወደ ግራ ታጠፍ። (When you reach the roundabout, turn left - Correct condition and direction)",
+            "አደባባይ ላይ ቁም።",
+            "ወደ ቤት ተመለስ።",
+            "አደባባይ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (8.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (8.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (8.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (8.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«አደባባዩን ስትደርስ ወደ ግራ ታጠፍ» አደባባይን እና የግራ አቅጣጫን በትክክል አጣምሯል።"
         }
       ]
     },
@@ -3837,24 +3790,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 8-2):",
+          "prompt": "የመንገድ መጠየቅና የመመለስን የተሟላ ውይይት የያዘው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (8.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (8.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (8.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (8.2.z3)"
+            "ይቅርታ ሙዚየሙ የት ነው? -> ቀጥታ ሂድና አደባባዩ ላይ ወደ ቀኝ ታጠፍ -> አመሰግናለሁ!",
+            "ሙዚየም አልሄድም -> ሂሳብ ክፈል",
+            "ቀኝ እና ግራ አንድ ናቸው",
+            "በአማርኛ አደባባይ አይባልም"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የተሟላና ሥርዓት ያለው የመንገድ መጠየቅ ውይይት ነው።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u8-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «አቅጣጫ»):",
+          "prompt": "'አደባባይ / Roundabout, square' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "አቅጣጫ",
-            "አቅጣጫ"
+            "አደባባይ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «አቅጣጫ» ነው።"
+          "explanation": "ትክክለኛው ቃል «አደባባይ» (Adäbabay) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -3865,85 +3817,62 @@
     "subject": "amharic",
     "unit": 8,
     "lessonNumber": 3,
-    "title": "አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit) (ክፍል 3)",
+    "title": "የከተማ ውስጥ ትራንስፖርት፡ ታክሲ፣ ባስ እና ባቡር (City Transit: Taxi, Bus & Train)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: በከተማ ውስጥ አቅጣጫ መጠየቅና ማሳየት፣ የታክሲና የአውቶቡስ ጉዞ መግለጫዎች። (ክፍል 3)።",
+    "objective": "የከተማ ውስጥ የትራንስፖርት አይነቶችን (ሰማያዊ ሚኒባስ ታክሲ፣ አንበሳ አውቶቡስ፣ ቀላል ባቡር) እና የጉዞ ቃላትን መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የከተማ ትራንስፖርት አይነቶች እና የጉዞ ቃላት (City Transit Vocabulary):\n\n፩. የትራንስፖርት አይነቶች:\n- «ታክሲ» / «ሚኒባስ» (Minibus Taxi)\n- «አውቶቡስ» (City Bus)\n- «ቀላል ባቡር» (Addis Ababa Light Rail Train)\n- «ባጃጅ» (Bajaj / Three-wheeler)።\n\n፪. ተሳፋሪ እና ረዳት (ወያላ):\n- «ወያላ» / «ረዳት» (Taxi conductor)\n- «ተሳፋሪ» (Passenger)\n- «ጣቢያ» / «ተርሚናል» (Station / bus stop)።\n\n፫. ቁልፍ የጉዞ አገላለጾች:\n- «ወራጅ አለ!»\n- «መጨረሻ!»።",
       "examples": [
         {
-          "target": "መምህሩ የ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (8.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)' to the students."
+          "target": "ወያላው «መርካቶ! መርካቶ!» እያለ ተሳፋሪዎችን ወደ ሚኒባሱ ይጠራል።",
+          "reading": "Wäyalaw «Märkato! Märkato!» əyalä täsaffariwoččən wädä minibasu yət’ərall. [wɛjaˈlaw mɛrkaˈto mɛrkaˈto ɨˈjalɛ tɛsafːariˈwotʃːɨn wɛdɛ miniˈbasu jɨtʼɨˈral] (weh-yah-LOW «mahr-KAH-toh! mahr-KAH-toh!» uh-YAH-leh teh-sahf-fah-ree-wohch-CHUN weh-DEH mee-nee-BAH-soo yuh-t'uh-RAHL)",
+          "translation": "The conductor calls passengers to the minibus shouting 'Merkato! Merkato!'."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (8.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እኛ በአዲሱ ቀላል ባቡር ተሳፍረን ከቃሊቲ ወደ ፒያሳ በፍጥነት ደረስን።",
+          "reading": "Ənnya bä'addisu qällal babur täsafrän käQaliti wädä Piyassa bäfət’nät därässən. [ɨɲa bɛʔadːiˈsu kʼɛlːal baˈbur tɛsafˈrɛn kɛkʼaliˈti wɛdɛ piˈjasːa bɛfɨtʼˈnɛt dɛrɛsːɨn] (un-NYAH beh-ahd-DEE-soo k'el-LAHL bah-BOOR teh-sahf-REN keh-k'ah-lee-TEE weh-DEH pee-YAHS-sah beh-fut'-NET deh-RES-sun)",
+          "translation": "We rode on the new light rail train and reached from Qality to Piassa quickly."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (8.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (8.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "አስተናጋጁን «እባክዎ መብራቱ ጋር ወራጅ አለ!» ብዬ ነገርኩት።",
+          "reading": "Astänagağun «Əbakwo mäbratu gar wärač’ allä!» bəyye näggärkut. [astɛnaˈɡadʒun ɨbakˈwo mɛbˈratu ɡar wɛˈratʃʼ alːɛ bɨjːe nɛɡːɛrˈkut] (ahs-teh-nah-gah-JOON «uh-bahk-WOH meh-brah-TOO gahr weh-RAHCH ahl-LEH!» bee-YAY neg-ger-KOOT)",
+          "translation": "I told the driver/conductor: 'Please, drop-off at the traffic light!'."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Addis Commute: ታክሲ (minibus) + ወያላ (conductor) + ባቡር (light rail) + ወራጅ አለ! (stop for me)!"
+      ],
+      "culturalNotes": [
+        "በአዲስ አበባ ሚኒባስ ታክሲ ውስጥ ለመውረድ 'ወራጅ አለ!' (There is someone getting off!) ማለት ዓለም አቀፍ ደረጃ ያለው የከተማዋ ባህላዊ ቃል ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በታክሲ ውስጥ ለመውረድ ሾፌሩን ወይም ረዳቱን ለማስቆም ምን ይባላል?",
           "options": [
-            "መምህሩ የ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (8.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (8.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (8.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (8.3.w3)"
+            "ወራጅ አለ! (Drop-off passenger here! - Universal taxi drop-off signal)",
+            "ሂሳብ ስንት ነው?",
+            "ቡና አምጡ",
+            "ባቡር መጣ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ወራጅ አለ!» ተሳፋሪው የሚወርድበት ቦታ መድረሱን የሚያሳውቅበት ቃል ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u8-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'We rode the light rail train' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (8.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (8.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (8.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (8.3.x3)"
+            "በቀላል ባቡር ተሳፈርን። (We rode the light rail train - Correct transit verb and noun)",
+            "ባቡር አልወድም።",
+            "በእግር ብቻ ሄድን።",
+            "ታክሲው ተሰበረ።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (8.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (8.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (8.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (8.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«በቀላል ባቡር ተሳፈርን» ትክክለኛውን የትራንስፖርት ዘዴና ግስ ያዛምዳል።"
         }
       ]
     },
@@ -3951,24 +3880,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 8-3):",
+          "prompt": "የከተማ የትራንስፖርት አይነቶችንና አገልግሎቶችን በትክክል የያዘው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (8.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (8.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (8.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (8.3.z3)"
+            "ሰማያዊ ታክሲ፣ አንበሳ አውቶቡስ፣ ቀላል ባቡር እና ወያላ።",
+            "በከተማ ውስጥ ትራንስፖርት የለም።",
+            "ባቡር የሚሄደው በሰማይ ላይ ብቻ ነው።",
+            "ወራጅ አለ ማለት ሰላምታ ነው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የከተማ ትራንስፖርት አካላትን በትክክል ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u8-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «አቅጣጫ»):",
+          "prompt": "'ታክሲ / Taxi' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "አቅጣጫ",
-            "አቅጣጫ"
+            "ታክሲ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «አቅጣጫ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ታክሲ» (Taksi) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -3979,85 +3907,62 @@
     "subject": "amharic",
     "unit": 8,
     "lessonNumber": 4,
-    "title": "አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit) (ክፍል 4)",
+    "title": "የጉዞ ርቀት እና የትኬት ዋጋ (Transit Distance, Fares & Commuting)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: በከተማ ውስጥ አቅጣጫ መጠየቅና ማሳየት፣ የታክሲና የአውቶቡስ ጉዞ መግለጫዎች። (ክፍል 4)።",
+    "objective": "የትራንስፖርት ታሪፍ መጠየቅን (ታሪፉ ስንት ነው?)፣ የጉዞ ርቀትንና ሰዓትን መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የትራንስፖርት ታሪፍ እና የጉዞ ርቀት (Fares & Commute Distance):\n\n፩. የታሪፍ እና የክፍያ ቃላት:\n- «ታሪፍ» / «የጉዞ ዋጋ» (Transit fare)\n- «ታሪፉ ስንት ብር ነው?» (How much is the fare?)\n- «ትኬት»: የባቡር ትኬት / የአውቶቡስ ትኬት\n- «መልስ»: መልስ ስጠኝ (Give me my change)።\n\n፪. የርቀት እና የጊዜ አገላለጾች:\n- «ስንት ኪሎሜትር ነው?»\n- «ስንት ደቂቃ ይወስዳል?»\n- «የትራፊክ መጨናነቅ አለ»።",
       "examples": [
         {
-          "target": "መምህሩ የ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (8.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)' to the students."
+          "target": "ከቦሌ እስከ መክሲኮ ያለው የታክሲ ታሪፍ ስንት ብር ነው?",
+          "reading": "KäBole əskä Mɛksiko yalläw yätaksi tarif sənt bər näw? [kɛboˈle ɨskɛ mɛkˈsiko jalːɛw jɛtakˈsi taˈrif sɨnt bɨr nɛw] (keh-boh-LAY us-keh mehk-SEE-koh yahl-LEW yeh-tahk-SEE tah-REEF sunt bur now?)",
+          "translation": "How many Birr is the taxi fare from Bole to Mexico Square?"
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (8.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በጠዋቱ የትራፊክ መጨናነቅ ምክንያት ጉዞው አርባ አምስት ደቂቃ ወሰደ።",
+          "reading": "Bät’äwatu yätrafik mäč’ənnanäq məkənyat guzow arba amməst däqiqa wässädä. [bɛtʼɛwaˈtu jɛtraˈfik mɛtʃʼɨnːaˈnɛkʼ mɨkɨnˈjat ɡuˈzow arˈba amːɨst dɛkʼiˈkʼa wɛsːɛˈdɛ] (beh-t'eh-wah-TOO yeh-trah-FEEK meh-ch'un-nah-NEK' muh-kun-YAHT goo-ZOH ahr-BAH ahm-MUST deh-k'ee-K'AH wes-seh-DEH)",
+          "translation": "Due to morning traffic congestion, the journey took 45 minutes."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (8.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (8.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የባቡር ትኬት ቆራጩ ለእያንዳንዱ ተሳፋሪ ትኬት ሰጥቶ መልስ መለሰ።",
+          "reading": "Yäbabur tiket qworac’u lä'əyyandandu täsaffari tiket sät’to mäls mälläsä. [jɛbaˈbur tiˈket kʼʷoˈratʃʼu lɨʔɨjːanˈdandu tɛsafːaˈri tiˈket sɛtʼːo mɛls mɛlːɛˈsɛ] (yeh-bah-BOOR tee-KET k'woh-RAH-ch'oo luh-uhy-yahn-dahn-DOO teh-sahf-fah-REE tee-KET set'-TOH mels mel-leh-SEH)",
+          "translation": "The train ticket inspector issued a ticket to each passenger and gave back change."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Transit Math: ታሪፍ (Fare) + ትኬት (Ticket) + መልስ (Change) + ደቂቃ (Minutes)!"
+      ],
+      "culturalNotes": [
+        "በአዲስ አበባ ታክሲዎች ውስጥ ሳንቲም ወይም የብር ኖት ከተሳፋሪ ወደ ተሳፋሪ እጅ በእጅ እየተቀባበሉ ወደ ወያላው ማድረስ የተለመደ የትብብር ባህል ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "የአንድን የትራንስፖርት ጉዞ ዋጋ ለመጠየቅ ምን ይባላል?",
           "options": [
-            "መምህሩ የ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (8.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (8.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (8.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (8.4.w3)"
+            "ታሪፉ ስንት ብር ነው? (How much is the fare? - Correct fare question)",
+            "ሰዓቱ ስንት ነው?",
+            "ስምህ ማን ነው?",
+            "ምግብ አለ?"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ታሪፉ ስንት ብር ነው?» የጉዞ ዋጋን ለመጠየቅ የሚያገለግል ትክክለኛ ሐረግ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u8-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'The trip took 30 minutes' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (8.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (8.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (8.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (8.4.x3)"
+            "ጉዞው ሠላሳ ደቂቃ ወሰደ። (The trip took 30 minutes - Correct transit time duration)",
+            "ጉዞው አሥር ብር ነው።",
+            "ባቡሩ አልመጣም።",
+            "መንገዱ ተዘጋ።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (8.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (8.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (8.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (8.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ጉዞው ሠላሳ ደቂቃ ወሰደ» የፈጀውን የጉዞ ጊዜ በትክክል ይገልጻል።"
         }
       ]
     },
@@ -4065,24 +3970,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 8-4):",
+          "prompt": "የትራንስፖርት ክፍያንና የጊዜ ቆይታን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (8.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (8.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (8.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (8.4.z3)"
+            "ታሪፉን ከፍለን ትኬት ወሰድን፤ ጉዞውም ሃያ ደቂቃ ወሰደ።",
+            "ትኬት በላን ታሪፍ ጠጣን።",
+            "በአማርኛ ታሪፍ አይከፈልም።",
+            "ደቂቃ ማለት የገንዘብ አይነት ነው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ክፍያን፣ ትኬትን እና የጉዞ ቆይታን በትክክል ያዛምዳል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u8-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «አቅጣጫ»):",
+          "prompt": "'ታሪፍ / Transit fare' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "አቅጣጫ",
-            "አቅጣጫ"
+            "ታሪፍ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «አቅጣጫ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ታሪፍ» (Tarif) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -4093,85 +3997,62 @@
     "subject": "amharic",
     "unit": 8,
     "lessonNumber": 5,
-    "title": "አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit) (ክፍል 5)",
+    "title": "የክፍል 8 አጠቃላይ ማጠቃለያ (Unit 8 Grand Synthesis & Urban Commute Discourse)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: በከተማ ውስጥ አቅጣጫ መጠየቅና ማሳየት፣ የታክሲና የአውቶቡስ ጉዞ መግለጫዎች። (ክፍል 5)።",
+    "objective": "አቅጣጫ መጠየቅን፣ የታክሲና የባቡር ጉዞን፣ ታሪፍ መክፈልንና መዳረሻ መድረስን ያቀናጀ የተሟላ ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፰ አጠቃላይ ሰዋሰዋዊ ውህደትና ማጠቃለያ:\n\n፩. አቅጣጫዎች:\n- ቀኝ፣ ግራ፣ ፊት ለፊት፣ ጀርባ፣ አጠገብ፣ ቅርብ፣ ሩቅ\n\n፪. መንገድ መጠየቅ:\n- ይቅርታ ... የየት ነው? ቀጥታ ሂድ፣ አደባባዩ ላይ ታጠፍ\n\n፫. የከተማ ትራንስፖርት:\n- ታክሲ፣ አውቶቡስ፣ ቀላል ባቡር፣ ወያላ፣ ወራጅ አለ!\n\n፬. ታሪፍና ርቀት:\n- ታሪፍ ስንት ነው? ትኬት፣ መልስ፣ ስንት ደቂቃ ይወስዳል?",
       "examples": [
         {
-          "target": "መምህሩ የ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (8.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)' to the students."
+          "target": "እኛ ጠዋት ላይ መንገድ ጠይቀን ወደ ባቡር ጣቢያው ሄድን፤ ትኬት ቆርጠን ወደ መርካቶ ተጓዝን።",
+          "reading": "Ənnya t’äwat lay mängäd t’äyyəqän wädä babur t’abiyaw hedən; tiket qworət’än wädä Märkato täguzän. [ɨɲa tʼɛˈwat laj mɛnˈɡɛd tʼɛjːɨˈkʼɛn wɛdɛ baˈbur tʼabiˈjaw heˈdɨn tiˈket kʼʷoˈrɨtʼɛn wɛdɛ mɛrkaˈto tɛɡuˈzɛn] (un-NYAH t'eh-WAHT lye men-GED t'ey-yuh-K'EN weh-DEH bah-BOOR t'ah-bee-YAH-w hay-DUN; tee-KET k'woh-RUT'-en weh-DEH mahr-KAH-toh teh-goo-ZEN)",
+          "translation": "In the morning, we asked for directions and went to the train station; we bought tickets and traveled to Merkato."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (8.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በታክሲው ውስጥ ወያላው ታሪፍ ሲጠይቅ ሃያ ብር ከፍለን «መብራቱ ጋር ወራጅ አለ!» አልን።",
+          "reading": "Bätaksiw wəst’ wäyalaw tarif sit’äyyəq haya bər kəflän «Mäbratu gar wärač’ allä!» aln. [bɛtakˈsiw wɨstʼ wɛjaˈlaw taˈrif sitʼɛjːɨkʼ haˈja bɨr kɨfˈlɛn mɛbˈratu ɡar wɛˈratʃʼ alːɛ aln] (beh-tahk-SEE-w woos-T' weh-yah-LOW tah-REEF see-t'ey-YUK' hah-YAH bur kuf-LEN «meh-brah-TOO gahr weh-RAHCH ahl-LEH!» ahl-un)",
+          "translation": "Inside the taxi, when the conductor asked for the fare, we paid 20 Birr and said: 'Drop-off at the traffic light!'."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (8.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (8.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ቀላል ባቡሩ እና ሚኒባስ ታክሲዎች የከተማዋን ነዋሪዎች የዕለት ተዕለት ጉዞ ያቀላጥፋሉ።",
+          "reading": "Qällal baburu ənna minibass taksiwočč yäkätämawan näwariwočč yä'əlät tä'əlät guzo yaqälat’t’əfallu. [kʼɛlːal baˈburu ɨnːa miniˈbas taksiˈwotʃː jɛkɛtɛmaˈwan nɛwariˈwotʃː jɛʔɨˈlɛt tɛʔɨˈlɛt ɡuˈzo jakʼɛlatʼːɨˈfalːu] (k'el-LAHL bah-BOO-roo un-nah mee-nee-BAHS tahk-see-wohch-CHOO yeh-keh-teh-mah-WAHN neh-wah-ree-wohch-CHOO yeh-uh-LET teh-uh-LET goo-ZOH yah-k'eh-laht'-t'uh-FAHL-loo)",
+          "translation": "The light rail train and minibus taxis expedite the daily commute of the city's residents."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Transit Mastery: Directions (ቀኝ/ግራ) + Inquiry (የት ነው?) + Vehicles (ታክሲ/ባቡር) + Commute (ታሪፍ/ወራጅ አለ)!"
+      ],
+      "culturalNotes": [
+        "በአዲስ አበባ ከተማ ውስጥ አቅጣጫዎችንና ትራንስፖርትን አውቆ መንቀሳቀስ የማህበራዊ ህይወትና የከተማ ኑሮ ዋነኛ ክህሎት ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የከተማ ጉዞና የትራንስፖርት ንግግር የሚያሳየው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (8.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (8.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (8.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (8.5.w3)"
+            "መንገድ ጠይቀን ታክሲ ተሳፈርን፤ ታሪፉን ከፍለን መብራቱ ጋር ወረድን። (Correct integrated urban commute sequence)",
+            "ታክሲ አልወድም ምግብ አምጡ",
+            "አቅጣጫ የለም ባቡር የለም",
+            "በከተማ ውስጥ መጓዝ አይቻልም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ አቅጣጫ መጠየቅን፣ ታክሲ መሳፈርን፣ ታሪፍ መክፈልንና መውረድን በትክክል ያጠቃልላል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u8-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "አቅጣጫን፣ ባቡርንና የጉዞ ጊዜን ያቀናጀው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (8.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (8.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (8.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (8.5.x3)"
+            "ወደ ቀኝ ታጥፈን የባቡር ጣቢያ ደረስን፤ ጉዞውም አስራ አምስት ደቂቃ ፈጀ። (We turned right and reached the train station; the trip took 15 minutes - Comprehensive sentence)",
+            "ባቡሩ ትላንትና ነገ ይሄዳል።",
+            "ቀኝ ማለት ባቡር ነው።",
+            "ታሪፍ አልከፈልንም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«አቅጣጫ መጠየቅ እና የከተማ ትራንስፖርት (Directions & Transit)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (8.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (8.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (8.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (8.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ አቅጣጫን፣ የባቡር ጣቢያንና የጉዞ ጊዜን በአንድነት ይዟል።"
         }
       ]
     },
@@ -4179,24 +4060,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 8-5):",
+          "prompt": "የክፍል 8 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (8.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (8.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (8.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (8.5.z3)"
+            "መሰረታዊ አቅጣጫዎች፣ መንገድ መጠየቅ፣ የከተማ ትራንስፖርት (ታክሲና ባቡር)፣ እንዲሁም ታሪፍና የጉዞ ርቀት ተካተዋል።",
+            "ይህ ክፍል ስለ ምግብ ማብሰል ብቻ ነው።",
+            "በአማርኛ የትራንስፖርት ቃላት የሉም።",
+            "ሁሉም አቅጣጫዎች አንድ ዓይነት ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 8ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u8-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «አቅጣጫ»):",
+          "prompt": "'ትራንስፖርት / Transit, transportation' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "አቅጣጫ",
-            "አቅጣጫ"
+            "ትራንስፖርት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «አቅጣጫ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ትራንስፖርት» (Transport) ነው።"
         }
       ],
       "passThreshold": 0.8
