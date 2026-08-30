@@ -14550,85 +14550,89 @@
     "subject": "mandarin",
     "unit": 25,
     "lessonNumber": 1,
-    "title": "中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses) (第1讲)",
+    "title": "《诗经》楚辞源头与先秦汉魏古诗美学体系 (The Book of Songs, Chu Ci & Ancient Verses Aesthetics)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：《诗经》、楚辞、唐诗（李白/杜甫/王维）、宋词（苏轼/李清照）的格律与意境。 (第1部分)。",
+    "objective": "系统掌握中国古典文学源头《诗经》（六义：风雅颂、赋比兴）、楚辞浪漫主义传统（离骚、香草美人隐喻）及汉魏古诗建安风骨的文学体式与审美内核。",
     "presentation": {
-      "explanation": "",
+      "explanation": "《诗经》与《楚辞》并称「风骚」，奠定了中华三千年诗歌史现实主义与浪漫主义的两大源头活水：\n\n一、《诗经》「六义」文学体系与修辞手法：\n1.【三体（体裁内容分类）】：\n-「风」（十五国风）：民间歌谣，质朴生动，直陈民生疾苦与真挚爱情。\n-「雅」（大雅、小雅）：周王畿朝廷宫廷宴飨与史诗乐歌，典雅庄重。\n-「颂」（周颂、鲁颂、商颂）：宗庙祭祀天地神明与赞颂先祖功德的庄严颂歌。\n2.【三法（核心修辞表现手法）】：\n-「赋」：铺陈直叙，直接描写事物或抒发情感。\n-「比」：以此物比彼物，比喻与托物象征。\n-「兴」：托物起兴，先言他物以引出所咏之辞（如「关关雎鸠，在河之洲。窈窕淑女，君子好逑」）。\n\n二、屈原《楚辞》与香草美人浪漫主义体系：\n1.【骚体长句与「兮」字句法】：参差错落的长短句式，大量运用语气助词「兮」抒发澎湃情感。\n2.【香草美人隐喻体系】：以香草（芷、兰、蕙、荃）比喻君子高尚品德，以求女比喻求贤臣与明君契合，以恶草比喻谗佞小人。\n3.【崇高情怀】：「路漫漫其修远兮，吾将上下而求索。」\n\n三、汉魏古诗与建安风骨：\n- 汉乐府（《孔雀东南飞》）、《古诗十九首》、建安文学（三曹七子）：慷慨悲凉、刚健俊朗、心怀家国天下的雄健气骨。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的核心语法法则与应用范例 (25.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)' in simple terms to students at the academic seminar."
+          "target": "《诗经》开创了以「赋、比、兴」为核心的现实主义诗学传统，「关关雎鸠，在河之洲」便是托物起兴的千古绝唱。(《Shījīng》 kāichuàng le yǐ 'fù, bǐ, xìng' wéi héxīn de xiànshízhǔyì shīxué chuántǒng, 'guānguān jūjiū, zài hé zhī zhōu' biàn shì tuōwù-qǐxìng de qiāngǔ juéchàng.)",
+          "reading": "[《ʂɨ˥.t͡ɕiŋ˥》 kʰaɪ̯˥.t͡ʂʰwaŋ˥˩ lɤ i˨˩˦ 'fu˥˩, pi˨˩˦, ɕiŋ˥˩' weɪ̯˧˥ xɤ˧˥.ɕin˥ tɤ ɕjɛn˥˩.ʂɨ˧˥.ʈ͡ʂu˨˩.i˥˩ ʂɨ˥.ɕɥɛ˧˥ t͡ʂʰwan˧˥.tʰʊŋ˧˥, 'kwan˥.kwan˥ t͡ɕy˥.t͡ɕjoʊ̯˥, t͡saɪ̯˥˩ xɤ˧˥ ʈ͡ʂɨ˥ ʈ͡ʂoʊ̯˥' pjɛn˥˩ ʂɨ˥˩ tʰwɔ˥.u˥˩-t͡ɕʰi˨˩.ɕiŋ˥˩ tɤ t͡ɕʰjɛn˥.ku˨˩˦ t͡ɕɥɛ˧˥.t͡ʂʰɑŋ˥˩] (《Shī-jīng》 kāi-chuàng le yǐ 'fù, bǐ, xìng' wéi hé-xīn de xiàn-shí-zhǔ-yì shī-xué chuán-tǒng, 'guān-guān jū-jiū, zài hé zhī zhōu' biàn shì tuō-wù-qǐ-xìng de qiān-gǔ jué-chàng.)",
+          "translation": "The 'Book of Songs' pioneered the realist poetic tradition centered on 'exposition, comparison, and affective image,' and 'Guan-guan go the ospreys, on the islet in the river' is an eternal masterpiece of evoking inner emotion through external nature."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (25.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "屈原在《离骚》中构筑了宏伟奇绝的浪漫主义世界，以香草美人隐喻高尚品德，抒发了「路漫漫其修远兮，吾将上下而求索」的赤子情怀。(Qū Yuán zài 《Lísāo》 zhōng gòuzhù le hóngwěi qíjué de làngmànzhǔyì shìjiè, yǐ xiāngcǎo-měirén yǐnyù gāoshàng pǐndé, shūfā le 'lù mànmàn qí xiūyuǎn xī, wú jiāng shàngxià ér qiúsuǒ' de chìzǐ qínghuái.)",
+          "reading": "[t͡ɕʰy˥ jɥan˧˥ t͡saɪ̯˥˩ 《li˧˥.saʊ̯˥》 ʈ͡ʂʊŋ˥ koʊ̯˥˩.ʈ͡ʂu˥˩ lɤ xʊŋ˧˥.weɪ̯˨˩˦ t͡ɕʰi˧˥.t͡ɕɥɛ˧˥ tɤ lɑŋ˥˩.man˥˩.ʈ͡ʂu˨˩.i˥˩ ʂɨ˥˩.t͡ɕjɛ˥˩, i˨˩˦ ɕjaŋ˥.t͡sʰaʊ̯˨˩˦-meɪ̯˨˩.ʐən˧˥ in˨˩.y˥˩ kaʊ̯˥.ʂɑŋ˥˩ pʰin˨˩.tɤ˧˥, ʂu˥.fa˥ lɤ 'lu˥˩ man˥˩.man˥˩ t͡ɕʰi˧˥ ɕjoʊ̯˥.jɥan˨˩˦ ɕi˥, wu˧˥ t͡ɕjɑŋ˥ ʂɑŋ˥˩.ɕja˥˩ aɚ˧˥ t͡ɕʰjoʊ̯˧˥.swɔ˨˩˦' tɤ ʈ͡ʂʰɨ˥˩.t͡sɨ˨˩˦ t͡ɕʰiŋ˧˥.xwaɪ̯˧˥] (Qū Yuán zài 《Lí-sāo》 zhōng gòu-zhù le hóng-wěi qí-jué de làng-màn-zhǔ-yì shì-jiè, yǐ xiāng-cǎo-měi-rén yǐn-yù gāo-shàng pǐn-dé, shū-fā le 'lù màn-màn qí xiū-yuǎn xī, wú jiāng shàng-xià ér qiú-suǒ' de chì-zǐ qíng-huái.)",
+          "translation": "Qu Yuan constructed a magnificent and sublime romantic world in 'Li Sao,' using fragrant herbs and fair ladies to metaphorize noble character, expressing the pure devotion of 'The road ahead is long and arduous, I shall seek high and low.'"
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (25.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "汉魏乐府诗与《古诗十九首》以其质朴深沉的语言直击心灵，建安风骨更是融慷慨悲凉与雄健气象于一炉。(Hàn-Wèi yuèfǔ shī yǔ 《Gǔshī Shíjiǔshǒu》 yǐ qí zhìpǔ shēnchén de yǔyán zhíjī xīnlíng, Jiàn'ān fēnggǔ gèng shì róng kāngkǎi-bēiliáng yǔ xióngjiàn qìxiàng yú yì lú.)",
+          "reading": "[xan˥˩-weɪ̯˥˩ yɛ˥˩.fu˨˩˦ ʂɨ˥ y˨˩˦ 《ku˨˩.ʂɨ˥ ʂɨ˧˥.t͡ɕjoʊ̯˨˩.ʂoʊ̯˨˩˦》 i˨˩˦ t͡ɕʰi˧˥ ʈ͡ʂɨ˥˩.pʰu˨˩˦ ʂən˥.ʈ͡ʂʰən˧˥ tɤ y˨˩.jan˧˥ ʈ͡ʂɨ˧˥.t͡ɕi˥ ɕin˥.liŋ˧˥, t͡ɕjɛn˥˩.an˥ fəŋ˥.ku˨˩˦ kɤŋ˥˩ ʂɨ˥˩ ʐʊŋ˧˥ kʰɑŋ˥.kʰaɪ̯˨˩˦-peɪ̯˥.ljaŋ˧˥ y˨˩˦ ɕjʊŋ˧˥.t͡ɕjɛn˥˩ t͡ɕʰi˥˩.ɕjaŋ˥˩ y˧˥ i˥ lu˧˥] (Hàn-Wèi yuè-fǔ shī yǔ 《Gǔ-shī Shí-jiǔ-shǒu》 yǐ qí zhì-pǔ shēn-chén de yǔ-yán zhí-jī xīn-líng, Jiàn-'ān fēng-gǔ gèng shì róng kāng-kǎi-bēi-liáng yǔ xióng-jiàn qì-xiàng yú yì lú.)",
+          "translation": "Han-Wei Yuefu poems and 'Nineteen Ancient Poems' strike the soul directly with their plain and profound language, while the Jian'an bone-and-style fuses fervent pathos and vigorous spirit into a single furnace."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (25.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "「托物起兴」是古代诗歌通过对自然景物的生动描摹，巧妙引出抒情主体内在思想情感的经典修辞法则。( 'Tuōwù-qǐxìng' shì gǔdài shīgē tōngguò duì zìrán jǐngwù de shēngdòng miáomó, qiǎomiào yǐnchū shūqíng zhǔtǐ nèizài sīxiǎng qínggǎn de jīngdiǎn xiūcí fǎzé.)",
+          "reading": "[ 'tʰwɔ˥.u˥˩-t͡ɕʰi˨˩.ɕiŋ˥˩' ʂɨ˥˩ ku˨˩.taɪ̯˥˩ ʂɨ˥.kɤ˥ tʰʊŋ˥.kwɔ˥˩ tweɪ̯˥˩ t͡sɨ˥˩.ʐan˧˥ t͡ɕiŋ˨˩.u˥˩ tɤ ʂəŋ˥.tʊŋ˥˩ mjaʊ̯˧˥.mwo˧˥, t͡ɕʰjaʊ̯˨˩.mjaʊ̯˥˩ in˨˩.t͡ʂʰu˥ ʂu˥.t͡ɕʰiŋ˧˥ ʈ͡ʂu˨˩.tʰi˨˩˦ neɪ̯˥˩.t͡saɪ̯˥˩ sɨ˥.ɕjaŋ˨˩˦ t͡ɕʰiŋ˧˥.kan˨˩˦ tɤ t͡ɕiŋ˥.tjɛn˨˩˦ ɕjoʊ̯˥.t͡sʰɨ˧˥ fa˨˩.t͡sɤ˧˥] ( 'Tuō-wù-qǐ-xìng' shì gǔ-dài shī-gē tōng-guò duì zì-rán jǐng-wù de shēng-dòng miáo-mó, qiǎo-miào yǐn-chū shū-qíng zhǔ-tǐ nèi-zài sī-xiǎng qíng-gǎn de jīng-diǎn xiū-cí fǎ-zé.)",
+          "translation": "'Affective imagery from nature' is a classic rhetorical law in ancient poetry that skillfully introduces the inner thoughts and emotions of the lyrical subject through vivid depiction of natural scenes."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "风雅颂与赋比兴，诗经现实千古铭；离骚香草求索志，建安风骨壮气鸣！"
+      ],
+      "culturalNotes": [
+        "《诗经》和《楚辞》分别代表了中国北方黄河流域的质朴求实与南方长江流域的奇幻浪漫，共同奠定了中华文学数千年的精神原乡与审美基因。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」（第1讲）的标准汉语规范？",
+          "prompt": "在《诗经》「六义」表现手法中，先描写眼前自然景物以引出所咏之词的手法被称为：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的核心语法法则与应用范例 (25.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (25.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (25.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (25.1.w3)"
+            "兴 / 托物起兴 (Affective imagery: 先言他物以引出所咏之辞)",
+            "赋 (直接铺陈直叙)",
+            "比 (打比方)",
+            "散文翻译"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「兴」（起兴）是《诗经》最独具魅力的艺术手法，先言他物以引出诗歌所要抒发的主旨。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "屈原在《离骚》中大量运用「兰草、蕙草、幽兰、杜衡」等意象，在文学批评中这种隐喻体系被称为：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "香草美人 (Fragrant herbs & fair lady: 隐喻高洁忠贞品德与贤臣明君)",
+            "买菜清单",
+            "植物学分类",
+            "药膳食谱"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「香草美人」是中国浪漫主义文学中以芳香植物与佳人隐喻崇高人格与政治抱负的经典隐喻体系。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的正式语境下，最准确得体的表达是哪一项？（第25.1题）",
+          "prompt": "曹操诗歌「对酒当歌，人生几何」、「日月之行，若出其中」所代表的具有慷慨悲凉、雄健遒劲美学特征的文学时代风格被称为：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (25.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (25.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (25.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (25.1.x3)"
+            "建安风骨 (Jian'an vigor & style: 慷慨悲凉与雄健气象)",
+            "靡靡之音",
+            "浅薄口水诗",
+            "消极遁世"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「建安风骨」是汉末建安时期以曹操、曹丕、曹植等为代表的慷慨悲凉、刚健雄浑的诗歌风格。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u25-l1）所要求的高阶语言表达？",
+          "prompt": "文学史上将《诗经》与《楚辞》合称并用以指代中国最崇高文学才情的词汇是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (25.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (25.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (25.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (25.1.y3)"
+            "风骚 (Feng & Sao: 国风与离骚)",
+            "戏剧",
+            "杂谈",
+            "小品"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「风骚」源于《诗经》的「国风」与《楚辞》的「离骚」，后代用来代表崇高的文学才华与文采。"
         }
       ]
     },
@@ -14636,25 +14640,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的掌握程度，请选出表述完全正确的标准范句（测试 25-1）：",
+          "prompt": "请选出下列古代诗歌源流与美学批评语段中概念最准确、词章最雅致的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (25.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (25.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (25.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (25.1.z3)"
+            "《诗经》以「风、雅、颂」奠定题材格局，凭「赋、比、兴」铸就现实主义传统；屈原《离骚》则以香草美人隐喻高洁忠贞之志，开创了瑰丽奇绝的楚辞浪漫主义巅峰；汉魏建安风骨融慷慨悲凉与雄健风骨于一体，共同构筑了中华古典诗学的巍峨源头！(风雅颂、赋比兴、离骚香草美人、建安风骨，先秦汉魏诗学体系评析精湛典雅)",
+            "古人写诗喜欢写小草和小花，大家随便写写，后来曹操写了喝酒的诗。(语言极度浅薄粗糙)",
+            "赋比兴被建安风骨在离骚六义。(概念严重混乱拼凑)",
+            "香草美人是指古代妇女去买香草做饭。(字面望文生义完全曲解文学传统)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段在《诗经》六义、屈原香草美人传统与建安风骨的文学史定位上达到了专业文学批评的高深水准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u25-l1）的核心关键词（例如「中国古典」）：",
+          "prompt": "请输入屈原在《楚辞·离骚》中表达不畏艰险、勇于终生探索真理的千古名句（「路漫漫其修远兮，吾将上下而」；拼音为 qiúsuǒ）：",
           "acceptedAnswers": [
-            "中国古典",
-            "中国古典文学",
-            "中国古典文学与诗词鉴赏"
+            "求索"
           ],
-          "explanation": "正确的核心关键词为「中国古典」。"
+          "explanation": "词语「求索」出自《离骚》「路漫漫其修远兮，吾将上下而求索」，成为中华民族执着探索真理的永恒座右铭。"
         }
       ],
       "passThreshold": 0.8
@@ -14665,85 +14667,89 @@
     "subject": "mandarin",
     "unit": 25,
     "lessonNumber": 2,
-    "title": "中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses) (第2讲)",
+    "title": "盛唐气象、近体格律诗（绝句律诗）与诗仙李白/诗圣杜甫美学对决 (High Tang Meter, Regulated Verse & Li Bai / Du Fu Aesthetics)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：《诗经》、楚辞、唐诗（李白/杜甫/王维）、宋词（苏轼/李清照）的格律与意境。 (第2部分)。",
+    "objective": "系统掌握唐代近体诗格律规范（平仄押韵、绝句/律诗八句四联结构、颔联颈联对仗铁律）与盛唐三大诗学流派（李白浪漫豪放、杜甫沉郁顿挫、王维山水禅意）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "唐诗是中国诗歌史上无可逾越的高峰，近体格律诗的成熟与盛唐诗人群星璀璨构成了唐代文化的灵魂：\n\n一、近体诗（格律诗）声律体系与篇章构型：\n1.【绝句与律诗体裁划分】：\n-「绝句」：全诗共四句（五言绝句20字，七言绝句28字）。\n-「律诗」：全诗共八句（五言律诗40字，七言律诗56字），按联分为：首联（1-2句）、颔联（3-4句）、颈联（5-6句）、尾联（7-8句）。\n2.【对仗铁律】：律诗中的【颔联】与【颈联】必须严格对仗（词性相对、词义对称、平仄相反），如杜甫名句「无边落木萧萧下（颔联出句），不尽长江滚滚来（颔联对句）」。\n3.【平仄与押韵】：平水韵严格押平声韵，二四六八句尾押韵，首句可押可不押，严禁出现「孤平」与「三平调/三仄尾」。\n\n二、盛唐三大诗宗美学对决：\n1.【诗仙李白（浪漫主义之巅）】：豪放飘逸、雄奇瑰丽、仙气纵横（「君不见黄河之水天上来，奔流到海不复回」）。\n2.【诗圣杜甫（现实主义与格律大成）】：沉郁顿挫、忧国忧民、对仗极严（「安得广厦千万间，大庇天下寒士俱欢颜」）。\n3.【诗佛王维（山水田园与禅宗境界）】：诗中有画、画中有诗、空灵淡远（「明月松间照，清泉石上流」）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的核心语法法则与应用范例 (25.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)' in simple terms to students at the academic seminar."
+          "target": "盛唐近体律诗讲究严格的平仄声律与对仗工稳，其中颔联与颈联的字句对仗更是构成了律诗的核心骨架。(Shèngtáng jìntǐ lǜshī jiǎngjiu yángé de píngzè shēnglǜ yǔ duìzhàng gōngwěn, qízhōng hànlián yǔ jǐnglián de zìjù duìzhàng gèng shì gòuchéng le lǜshī de héxīn gǔjià.)",
+          "reading": "[ʂəŋ˥˩.tʰɑŋ˧˥ t͡ɕin˥˩.tʰi˨˩˦ ly˥˩.ʂɨ˥ t͡ɕjaŋ˨˩.t͡ɕjoʊ̯ jan˧˥.kɤ˧˥ tɤ pʰiŋ˧˥.t͡sɤ˥˩ ʂəŋ˥.ly˥˩ y˨˩˦ tweɪ̯˥˩.ʈ͡ʂɑŋ˥˩ kʊŋ˥.wən˨˩˦, t͡ɕʰi˧˥.ʈ͡ʂʊŋ˥ xan˥˩.ljɛn˧˥ y˨˩˦ t͡ɕiŋ˨˩.ljɛn˧˥ tɤ t͡sɨ˥˩.t͡ɕy˥˩ tweɪ̯˥˩.ʈ͡ʂɑŋ˥˩ kɤŋ˥˩ ʂɨ˥˩ koʊ̯˥˩.ʈ͡ʂʰəŋ˧˥ lɤ ly˥˩.ʂɨ˥ tɤ xɤ˧˥.ɕin˥ ku˨˩.t͡ɕja˥] (Shèng-táng jìn-tǐ lǜ-shī jiǎng-jiu yán-gé de píng-zè shēng-lǜ yǔ duì-zhàng gōng-wěn, qí-zhōng hàn-lián yǔ jǐng-lián de zì-jù duì-zhàng gèng shì gòu-chéng le lǜ-shī de hé-xīn gǔ-jià.)",
+          "translation": "High Tang regulated verses emphasize strict tonal meter and rigorous parallelism, among which the couplet symmetry of the second and third couplets constitutes the core skeleton of the regulated verse."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (25.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "诗仙李白的诗歌豪放飘逸、雄奇瑰丽，以奔放的想象力与雄浑气魄将浪漫主义诗歌推向了巅峰。(Shīxiān Lǐ Bái de shīgē háofàng-piāoyì, xióngqí-guīlì, yǐ bēnfàng de xiǎngxiànglì yǔ xiónghún qìpò jiāng làngmànzhǔyì shīgē tuīxiàng le diānfēng.)",
+          "reading": "[ʂɨ˥.ɕjɛn˥ li˨˩.paɪ̯˧˥ tɤ ʂɨ˥.kɤ˥ xaʊ̯˥˩.fɑŋ˥˩-pʰjaʊ̯˥.i˥˩, ɕjʊŋ˧˥.t͡ɕʰi˧˥-kweɪ̯˥.li˥˩, i˨˩˦ pən˥.fɑŋ˥˩ tɤ ɕjaŋ˨˩˦.ɕjaŋ˥˩.li˥˩ y˨˩˦ ɕjʊŋ˧˥.xwən˧˥ t͡ɕʰi˥˩.pʰwɔ˥˩ t͡ɕjɑŋ˥ lɑŋ˥˩.man˥˩.ʈ͡ʂu˨˩.i˥˩ ʂɨ˥.kɤ˥ tʰweɪ̯˥.ɕjaŋ˥ lɤ tjɛn˥.fəŋ˥] (Shī-xiān Lǐ Bái de shī-gē háo-fàng-piāo-yì, xióng-qí-guī-lì, yǐ bēn-fàng de xiǎng-xiàng-lì yǔ xióng-hún qì-pò jiāng làng-màn-zhǔ-yì shī-gē tuī-xiàng le diān-fēng.)",
+          "translation": "Poetry Immortal Li Bai's poems are bold, unconstrained, and magnificent, pushing romantic poetry to its zenith with unrestrained imagination and sublime spirit."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (25.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "诗圣杜甫以沉郁顿挫的笔调记录苍生疾苦与时代离乱，其律诗对仗极其严谨周密，达到了「语不惊人死不休」的艺术极致。(Shīshèng Dù Fǔ yǐ chényù-dùncuò de bǐdiào jìlù cāngshēng jíkǔ yǔ shídài líluàn, qí lǜshī duìzhàng jíqí yánjǐn zhōumì, dádào le 'yǔ bù jīng rén sǐ bù xiū' de yìshù jízhì.)",
+          "reading": "[ʂɨ˥.ʂəŋ˥˩ tu˥˩.fu˨˩˦ i˨˩˦ ʈ͡ʂʰən˧˥.y˥˩-twən˥˩.t͡sʰwɔ˥˩ tɤ pi˨˩.tjaʊ̯˥˩ t͡ɕi˥˩.lu˥˩ t͡sʰɑŋ˥.ʂəŋ˥ t͡ɕi˧˥.kʰu˨˩˦ y˨˩˦ ʂɨ˧˥.taɪ̯˥˩ li˧˥.lwan˥˩, t͡ɕʰi˧˥ ly˥˩.ʂɨ˥ tweɪ̯˥˩.ʈ͡ʂɑŋ˥˩ t͡ɕi˧˥.t͡ɕʰi˧˥ jan˧˥.t͡ɕin˨˩˦ ʈ͡ʂoʊ̯˥.mi˥˩, ta˧˥.taʊ̯˥˩ lɤ 'y˨˩.pu˥.t͡ɕiŋ˥.ʐən˧˥ sɨ˨˩.pu˥.ɕjoʊ̯˥' tɤ i˥˩.ʂu˥˩ t͡ɕi˧˥.ʈ͡ʂɨ˥˩] (Shī-shèng Dù Fǔ yǐ chén-yù-dùn-cuò de bǐ-diào jì-lù cāng-shēng jí-kǔ yǔ shí-dài lí-luàn, qí lǜ-shī duì-zhàng jí-qí yán-jǐn zhōu-mì, dá-dào le 'yǔ bù jīng rén sǐ bù xiū' de yì-shù jí-zhì.)",
+          "translation": "Poetry Sage Du Fu recorded the suffering of common people and the turmoil of the era in a heavy and melancholic tone; the parallelism in his regulated verses was extremely meticulous, achieving the artistic peak of 'relentlessly striving until each word astounds.'"
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (25.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "王维的田园山水诗融合了深邃的禅宗哲思，呈现出「明月松间照，清泉石上流」的空灵意境。(Wáng Wéi de tiányuán shānshuǐ shī rónghé le shēnsuì de Chánzōng zhésī, chéngxiàn chū 'míngyuè sōng jiān zhào, qīngquán shí shàng liú' de kōnglíng yìjìng.)",
+          "reading": "[wɑŋ˧˥ weɪ̯˧˥ tɤ tʰjɛn˧˥.jɥan˧˥ ʂan˥.ʂweɪ̯˨˩˦ ʂɨ˥ ʐʊŋ˧˥.xɤ˧˥ lɤ ʂən˥.sweɪ̯˥˩ tɤ ʈ͡ʂʰan˧˥.t͡sʊŋ˥ ʈ͡ʂɤ˧˥.sɨ˥, ʈ͡ʂʰəŋ˧˥.ɕjɛn˥˩ ʈ͡ʂʰu˥ 'miŋ˧˥.yɛ˥˩ sʊŋ˥ t͡ɕjɛn˥ ʈ͡ʂaʊ̯˥˩, t͡ɕʰiŋ˥.t͡ɕʰyɛn˧˥ ʂɨ˧˥ ʂɑŋ˥˩ ljoʊ̯˧˥' tɤ kʰʊŋ˥.liŋ˧˥ i˥˩.t͡ɕiŋ˥˩] (Wáng Wéi de tián-yuán shān-shuǐ shī róng-hé le shēn-suì de Chán-zōng zhé-sī, chéng-xiàn chū 'míng-yuè sōng jiān zhào, qīng-quán shí shàng liú' de kōng-líng yì-jìng.)",
+          "translation": "Wang Wei's pastoral and landscape poetry fused profound Zen philosophical thought, presenting an ethereal realm of 'The bright moon shines between the pines, the clear spring flows over the stones.'"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "绝句四句律八联，颔颈对仗平仄严；李白豪放杜沉郁，摩诘禅韵画中全！"
+      ],
+      "culturalNotes": [
+        "苏轼曾盛赞王维「味摩诘之诗，诗中有画；观摩诘之画，画中有诗」，高度概括了中国文人诗画相通、禅境相融的至高美学追求。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」（第2讲）的标准汉语规范？",
+          "prompt": "在八句的近体七言律诗中，按照格律规定必须严格进行对仗（词性与平仄对称）的两联是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的核心语法法则与应用范例 (25.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (25.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (25.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (25.2.w3)"
+            "颔联（第3、4句）与 颈联（第5、6句） (The 2nd & 3rd couplets: 律诗对仗铁律)",
+            "首联与尾联",
+            "只有第一句和最后一句",
+            "没有任何对仗要求"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "律诗的核心格律规范要求第三四句（颔联）和第五六句（颈联）必须严格对仗。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "唐代大诗人中，被尊为「诗仙」、以豪放飘逸浪漫主义著称的是哪位诗人？",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "李白 (Poet Immortal Li Bai: 豪放飘逸)",
+            "杜甫 (诗圣：沉郁顿挫)",
+            "白居易",
+            "李商隐"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "李白被尊为「诗仙」，其诗作具有极强的浪漫主义与雄奇飘逸风格。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的正式语境下，最准确得体的表达是哪一项？（第25.2题）",
+          "prompt": "杜甫诗歌中展现出的深沉博大、关切天下苍生、跌宕起伏的核心风格特征通常被概括为：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (25.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (25.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (25.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (25.2.x3)"
+            "沉郁顿挫 (Heavy, melancholic & richly resonant in cadence)",
+            "轻佻浮夸",
+            "平淡如水",
+            "无病呻吟"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「沉郁顿挫」是文学批评中对杜甫忧国忧民情怀与深厚诗风的定性评价。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u25-l2）所要求的高阶语言表达？",
+          "prompt": "宋代苏轼评价唐代诗人王维的艺术造诣时留下的千古名言是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (25.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (25.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (25.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (25.2.y3)"
+            "诗中有画，画中有诗 (Poetry in painting, painting in poetry)",
+            "字数很多，写得很快",
+            "文章很长，句子很乱",
+            "只懂画画，不会写诗"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「诗中有画，画中有诗」是苏轼对王维诗画交融、意境幽远艺术特质的至高赞誉。"
         }
       ]
     },
@@ -14751,25 +14757,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的掌握程度，请选出表述完全正确的标准范句（测试 25-2）：",
+          "prompt": "请选出下列盛唐诗歌格律与三大诗宗风格评析中理解最深刻、表述最精当的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (25.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (25.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (25.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (25.2.z3)"
+            "盛唐近体律诗以颔联、颈联的工稳对仗与严谨平仄确立了声律范式。李白以豪放飘逸的浪漫奇想驰骋诗坛，杜甫以沉郁顿挫的家国情怀与炉火纯青的格律被尊为诗圣，王维则将禅宗哲思融入山水田园达到诗中有画的空灵境界！(格律对仗结构、李白豪放、杜甫沉郁、王维禅意，盛唐诗学图景全景式呈现)",
+            "唐诗有绝句和律诗，李白很会喝酒写诗，杜甫很穷，王维喜欢画画。(语言极度低幼粗鄙)",
+            "对仗要求在首联和尾联被诗仙沉郁顿挫。(格律概念错乱)",
+            "王维诗中有画说明他其实是个画匠而不是诗人。(曲解诗画同源美学)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段精准把握了唐代近体律诗的格律核心以及李白、杜甫、王维三大诗宗的审美灵魂。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u25-l2）的核心关键词（例如「中国古典」）：",
+          "prompt": "请输入中国文学批评中用来形容杜甫诗歌风格深厚沉痛、音调抑扬跌宕的核心四字术语（例如杜诗风格「」；拼音为 chényù-dùncuò）：",
           "acceptedAnswers": [
-            "中国古典",
-            "中国古典文学",
-            "中国古典文学与诗词鉴赏"
+            "沉郁顿挫"
           ],
-          "explanation": "正确的核心关键词为「中国古典」。"
+          "explanation": "成语「沉郁顿挫」是评价诗圣杜甫诗歌思想深沉博大、语言起伏有致的标准美学评价。"
         }
       ],
       "passThreshold": 0.8
@@ -14780,85 +14784,89 @@
     "subject": "mandarin",
     "unit": 25,
     "lessonNumber": 3,
-    "title": "中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses) (第3讲)",
+    "title": "宋词长短句、词牌格律与豪放派/婉约派审美体系 (Song Ci Long-Short Lines, Cipai Metres & Haofang / Wanyue Schools)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：《诗经》、楚辞、唐诗（李白/杜甫/王维）、宋词（苏轼/李清照）的格律与意境。 (第3部分)。",
+    "objective": "系统掌握宋词体式特征（长短句、依谱填词、词牌声律）与宋代豪放派（苏轼、辛弃疾）及婉约派（柳永、李清照）的文学流派与审美境界。",
     "presentation": {
-      "explanation": "",
+      "explanation": "宋词是宋代文学的最高代表，与唐诗并称「双璧」，其独特的依谱填词与长短句式创造了无与伦比的音乐与意境之美：\n\n一、宋词体制与「词牌」格律规范：\n1.【长短句与依谱填词】：词又称「曲子词」、「长短句」或「诗余」，每一首词均严格按照固定音乐曲调（词牌）的字数、句数、平仄与押韵规则填写。\n2.【经典词牌谱系】：\n-《水调歌头》、《念奴娇》、《满江红》、《江城子》、《声声慢》、《雨霖铃》、《青玉案》、《定风波》。\n3.【词的分段】：大多数词分为「上片（上阕）」与「下片（下阕）」，上片多写景起兴，下片多抒情言志或议论升华。\n\n二、豪放派与婉约派两大审美流派：\n1.【豪放派（以诗入词、雄浑旷达）】：\n- 苏轼（东坡居士）：「大江东去，浪淘尽，千古风流人物」；「但愿人长久，千里共婵娟」——超然洒脱，将词从艳科小道升华为抒发天地抱负的雄篇。\n- 辛弃疾（稼轩居士）：「想当年，金戈铁马，气吞万里如虎」；「醉里挑灯看剑，梦回吹角连营」——沉雄悲壮，金戈铁马，满腔收复河山之热血。\n2.【婉约派（辞情凄美、细腻精微）】：\n- 柳永（奉旨填词柳三变）：「执手相看泪眼，竟无语凝噎」；「杨柳岸，晓风残月」——慢词铺叙，羁旅行役，千古离情。\n- 李清照（易安居士，千古第一才女）：「寻寻觅觅，冷冷清清，凄凄惨惨戚戚」；「此情无计可消除，才下眉头，却上心头」——身世之悲与乱世流离之哀。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的核心语法法则与应用范例 (25.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)' in simple terms to students at the academic seminar."
+          "target": "宋词依据固定词牌的词调谱曲填词，长短错落的句式不仅极富音乐美感，更能淋漓尽致地抒发复杂幽微的情感。(Sòngcí yījù gùdìng cípái de cìdiào pǔqū tiáncí, cháng-duǎn cuòluò de jùshì bùjǐn jífù yīnyuè měigǎn, gèng néng línlí-jìnzhì de shūfā fùzá yōuwēi de qínggǎn.)",
+          "reading": "[sʊŋ˥˩.t͡sʰɨ˧˥ i˥.t͡ɕy˥˩ ku˥˩.tiŋ˥˩ t͡sʰɨ˧˥.pʰaɪ̯˧˥ tɤ t͡sʰɨ˧˥.tjaʊ̯˥˩ pʰu˨˩.t͡ɕʰy˥ tʰjɛn˧˥.t͡sʰɨ˧˥, t͡ʂʰɑŋ˧˥-twan˨˩˦ t͡sʰwɔ˥˩.lwɔ˥˩ tɤ t͡ɕy˥˩.ʂɨ˥˩ pu˥.t͡ɕin˨˩˦ t͡ɕi˧˥.fu˥˩ in˥.yɛ˥˩ meɪ̯˨˩.kan˨˩˦, kɤŋ˥˩ nɤŋ˧˥ lin˧˥.li˧˥-t͡ɕin˥˩.ʈ͡ʂɨ˥˩ tɤ ʂu˥.fa˥ fu˥˩.t͡sa˧˥ joʊ̯˥.weɪ̯˥ tɤ t͡ɕʰiŋ˧˥.kan˨˩˦] (Sòng-cí yī-jù gù-dìng cí-pái de cí-diào pǔ-qū tián-cí, cháng-duǎn cuò-luò de jù-shì bù-jǐn jí-fù yīn-yuè měi-gǎn, gèng néng lín-lí-jìn-zhì de shū-fā fù-zá yōu-wēi de qíng-gǎn.)",
+          "translation": "Song Ci sets verses to music according to fixed Cipai tune patterns; the uneven, staggered sentence structures not only possess rich musical aesthetic appeal, but can also thoroughly express complex and delicate emotions."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (25.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "苏轼以旷达豪迈之胸襟开创了豪放派词风，其《水调歌头》中「但愿人长久，千里共婵娟」成为中秋怀人不可逾越的千古名句。(Sū Shì yǐ kuàngdá-háomài zhī xiōngjīn kāichuàng le háofàngpài cífēng, qí 《Shuǐdiàogētóu》 zhōng 'dànyuàn rén chángjiǔ, qiānlǐ gòng chánjuān' chéngwéi Zhōngqiū huáirén bùkě yúyuè de qiāngǔ míngjù.)",
+          "reading": "[su˥ ʂɨ˥˩ i˨˩˦ kʰwɑŋ˥˩.ta˧˥-xaʊ̯˥˩.maɪ̯˥˩ ʈ͡ʂɨ˥ ɕjʊŋ˥.t͡ɕin˥ kʰaɪ̯˥.t͡ʂʰwaŋ˥˩ lɤ xaʊ̯˥˩.fɑŋ˥˩.pʰaɪ̯˥˩ t͡sʰɨ˧˥.fəŋ˥, t͡ɕʰi˧˥ 《ʂweɪ̯˨˩.tjaʊ̯˥˩.kɤ˥.tʰoʊ̯˧˥》 ʈ͡ʂʊŋ˥ 'tan˥˩.jɥan˥˩ ʐən˧˥ t͡ʂʰɑŋ˧˥.t͡ɕjoʊ̯˨˩˦, t͡ɕʰjɛn˥.li˨˩˦ kʊŋ˥˩ t͡ʂʰan˧˥.t͡ɕɥɛn˥' ʈ͡ʂʰəŋ˧˥.weɪ̯˧˥ ʈ͡ʂʊŋ˥.t͡ɕʰjoʊ̯˥ xwaɪ̯˧˥.ʐən˧˥ pu˥.kʰɤ˨˩.y˧˥.yɛ˥˩ tɤ t͡ɕʰjɛn˥.ku˨˩˦ miŋ˧˥.t͡ɕy˥˩] (Sū Shì yǐ kuàng-dá-háo-mài zhī xiōng-jīn kāi-chuàng le háo-fàng-pài cí-fēng, qí 《Shuǐ-diào-gē-tóu》 zhōng 'dàn-yuàn rén cháng-jiǔ, qiān-lǐ gòng chán-juān' chéng-wéi Zhōng-qiū huái-rén bù-kě yú-yuè de qiān-gǔ míng-jù.)",
+          "translation": "Su Shi pioneered the bold and unconstrained school of Ci with his open-minded and heroic spirit; the line 'We wish each other long life, sharing the beauty of the moon together though miles apart' in his 'Shuidiaogetou' became an unsurpassable eternal masterpiece for Mid-Autumn longing."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (25.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "辛弃疾将收复山河的赤诚壮志与家国情怀倾注于词作之中，金戈铁马之声贯穿篇章，展现出沉雄悲壮的英雄气概。(Xīn Qìjí jiāng shōufù shānhé de chìchéng zhuàngzhì yǔ jiāguó qínghuái qīngzhù yú cìzuò zhīzhōng, jīngē-tiěmǎ zhī shēng guànchuān piānzhāng, zhǎnxiàn chū chénxióng-bēizhuàng de yīngxióng qìgài.)",
+          "reading": "[ɕin˥ t͡ɕʰi˥˩.t͡ɕi˧˥ t͡ɕjɑŋ˥ ʂoʊ̯˥.fu˥˩ ʂan˥.xɤ˧˥ tɤ ʈ͡ʂʰɨ˥˩.ʈ͡ʂʰəŋ˧˥ ʈ͡ʂwaŋ˥˩.ʈ͡ʂɨ˥˩ y˨˩˦ t͡ɕja˥.kwo˧˥ t͡ɕʰiŋ˧˥.xwaɪ̯˧˥ t͡ɕʰiŋ˥.ʈ͡ʂu˥˩ y˧˥ t͡sʰɨ˧˥.t͡swoʊ̯˥˩ ʈ͡ʂɨ˥.ʈ͡ʂʊŋ˥, t͡ɕin˥.kɤ˥-tʰjɛ˨˩.ma˨˩˦ ʈ͡ʂɨ˥ ʂəŋ˥ kwan˥˩.t͡ʂʰwan˥ pʰjɛn˥.ʈ͡ʂɑŋ˥, ʈ͡ʂan˨˩.ɕjɛn˥˩ ʈ͡ʂʰu˥ ʈ͡ʂʰən˧˥.ɕjʊŋ˧˥-peɪ̯˥.ʈ͡ʂwaŋ˥˩ tɤ iŋ˥.ɕjʊŋ˧˥ t͡ɕʰi˥˩.kaɪ̯˥˩] (Xīn Qì-jí jiāng shōu-fù shān-hé de chì-chéng zhuàng-zhì yǔ jiā-guó qíng-huái qīng-zhù yú cí-zuò zhī-zhōng, jīn-gē-tiě-mǎ zhī shēng guàn-chuān piān-zhāng, zhǎn-xiàn chū chén-xióng-bēi-zhuàng de yīng-xióng qì-gài.)",
+          "translation": "Xin Qiji poured his sincere aspiration to recover lost territory and his patriotic devotion into his Ci works; the sounds of shining spears and armored steeds resonate throughout his texts, demonstrating the profound pathos and grandeur of a heroic spirit."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (25.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "李清照的《声声慢》连用十四个叠字开篇，以精微委婉的笔触勾勒出乱世孤寂的凄清心境，堪称婉约派艺术奇葩。(Lǐ Qīngzhào de 《Shēngshēngmàn》 liányòng shísì gè diézì kāipiān, yǐ jīngwēi-wěiwǎn de bǐchù gōulè chū luànshì gūjì de qīqīng xīnjìng, kānchēng wǎnyuēpài yìshù qípā.)",
+          "reading": "[li˨˩.t͡ɕʰiŋ.ʈ͡ʂaʊ̯˥˩ tɤ 《ʂəŋ˥.ʂəŋ˥.man˥˩》 ljɛn˧˥.jʊŋ˥˩ ʂɨ˧˥.sɨ˥˩ kɤ˥˩ tjɛ˧˥.t͡sɨ˥˩ kʰaɪ̯˥.pʰjɛn˥, i˨˩˦ t͡ɕiŋ˥.weɪ̯˥-weɪ̯˨˩.wan˨˩˦ tɤ pi˨˩.t͡ʂʰu˥˩ koʊ̯˥.lɤ˥˩ ʈ͡ʂʰu˥ lwan˥˩.ʂɨ˥˩ ku˥.t͡ɕi˥˩ tɤ t͡ɕʰi˥.t͡ɕʰiŋ˥ ɕin˥.t͡ɕiŋ˥˩, kʰan˥.ʈ͡ʂʰəŋ˥ wan˨˩.yɛ˥.pʰaɪ̯˥˩ i˥˩.ʂu˥˩ t͡ɕʰi˧˥.pʰa˥] (Lǐ Qīng-zhào de 《Shēng-shēng-màn》 lián-yòng shí-sì gè dié-zì kāi-piān, yǐ jīng-wēi-wěi-wǎn de bǐ-chù gōu-lè chū luàn-shì gū-jì de qī-qīng xīn-jìng, kān-chēng wǎn-yuē-pài yì-shù qí-pā.)",
+          "translation": "Li Qingzhao's 'Shengshengman' opens with fourteen consecutive reduplicated characters, using delicate and subtle brushstrokes to delineate the bleak and solitary mood in a troubled world, truly an artistic marvel of the Graceful School."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "填词按谱依词牌，长短错落音韵排；苏辛豪放唱大江，易安婉约叠字哀！"
+      ],
+      "culturalNotes": [
+        "李清照的词作以靖康之变南渡为界，前期写闺中闲愁与明丽欢愉，后期写国破家亡的流离之痛，深刻展现了个人命运与时代风云的交织。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」（第3讲）的标准汉语规范？",
+          "prompt": "宋代文人创作宋词时，依据固定的音乐曲调名称（如《水调歌头》、《满江红》）来决定句数、平仄与押韵，这种曲调名称被称为：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的核心语法法则与应用范例 (25.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (25.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (25.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (25.3.w3)"
+            "词牌 (Cipai / Tune pattern: 词的格律乐谱依据)",
+            "歌单",
+            "唱片名",
+            "剧本号"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「词牌」是宋词填词所依据的曲调乐谱名称，决定了整首词的字数、句式与平仄韵律。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "宋词两大主要流派中，以苏轼、辛弃疾为代表，风格雄浑开阔、慷慨悲壮的流派是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "豪放派 (Bold and Unconstrained School: 苏轼、辛弃疾)",
+            "婉约派 (柳永、李清照)",
+            "写实派",
+            "意识流"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「豪放派」是宋词中以苏轼、辛弃疾为代表的词学流派，题材开阔，气势磅礴。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的正式语境下，最准确得体的表达是哪一项？（第25.3题）",
+          "prompt": "李清照在名作《声声慢》开篇破天荒连用十四个叠字，千古传诵。该开篇名句是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (25.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (25.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (25.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (25.3.x3)"
+            "寻寻觅觅，冷冷清清，凄凄惨惨戚戚 (14 reduplicated characters depicting bleak grief)",
+            "大江东去，浪淘尽，千古风流人物",
+            "明月几时有，把酒问青天",
+            "醉里挑灯看剑，梦回吹角连营"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「寻寻觅觅，冷冷清清，凄凄惨惨戚戚」是李清照《声声慢》中运用叠字艺术的巅峰之作。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u25-l3）所要求的高阶语言表达？",
+          "prompt": "苏轼《水调歌头》中表达对远方亲人美好祝愿、成为中秋佳节最经典寄托的名句是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (25.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (25.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (25.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (25.3.y3)"
+            "但愿人长久，千里共婵娟 (Wish each other long life, sharing the moon miles apart)",
+            "杨柳岸，晓风残月",
+            "无言独上西楼，月如钩",
+            "无可奈何花落去，似曾相识燕归来"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「但愿人长久，千里共婵娟」是苏轼词中最脍炙人口的中秋名句。"
         }
       ]
     },
@@ -14866,25 +14874,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的掌握程度，请选出表述完全正确的标准范句（测试 25-3）：",
+          "prompt": "请选出下列宋词体式、词牌声律与流派审美分析中最全面、最深刻的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (25.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (25.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (25.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (25.3.z3)"
+            "宋词依词牌长短句依谱填词，上片起兴写景，下片抒情明志。苏轼以旷达胸襟与天纵奇才开豪放之风，辛弃疾倾家国壮志铸就金戈铁马的英雄悲歌；柳永以慢词羁旅铺叙离情，李清照则以连用十四叠字的绝唱将婉约派凄清幽微的情感推向了极致！(长短句词牌特征、苏辛豪放英雄气象、柳李婉约精微绝唱，宋词审美分析精深绝伦)",
+            "宋词就是长长短短的歌词，苏轼写月亮，辛弃疾写打仗，李清照写悲伤。(语言平白无味极其粗浅)",
+            "豪放派只准写李清照十四叠字在词牌。(流派作家严重张冠李戴)",
+            "词牌是指古代歌女手里拿的塑料牌子。(常识严重匮乏荒诞)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段对宋词依谱填词的体例、苏辛豪放派的家国宏大视野以及柳李婉约派的细腻情感进行了极其精到的美学概括。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u25-l3）的核心关键词（例如「中国古典」）：",
+          "prompt": "请输入苏轼《水调歌头》名句「但愿人长久，千里共」中用来借代美好明月的核心两字词语（拼音为 chánjuān）：",
           "acceptedAnswers": [
-            "中国古典",
-            "中国古典文学",
-            "中国古典文学与诗词鉴赏"
+            "婵娟"
           ],
-          "explanation": "正确的核心关键词为「中国古典」。"
+          "explanation": "词语「婵娟」在古典诗词中常用来代指明月，苏轼词句「千里共婵娟」已成为中华传统文化中共享明月与思念的文化符号。"
         }
       ],
       "passThreshold": 0.8
@@ -14895,85 +14901,89 @@
     "subject": "mandarin",
     "unit": 25,
     "lessonNumber": 4,
-    "title": "中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses) (第4讲)",
+    "title": "意境美学、虚实相生、气韵生动与言外之意批评语体 (Yijing Aesthetics, Emptiness & Reality, Vitality & Implicit Meaning)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：《诗经》、楚辞、唐诗（李白/杜甫/王维）、宋词（苏轼/李清照）的格律与意境。 (第4部分)。",
+    "objective": "系统掌握中国传统古典文论与美学批评核心范畴（意境论、王国维《人间词话》有我/无我之境、虚实相生、留白艺术、气韵生动、言有尽而意无穷）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "「意境」是中国古代文学与艺术哲学的核心灵魂，构成了东方文论区别于西方诗学的最高审美标准：\n\n一、王国维《人间词话》与「意境 / 境界」核心论断：\n1.【境界为上】：「词以境界为最上。有境界则自成高格，自有名句。」\n2.【有我之境 与 无我之境】：\n-「有我之境」：以我观物，故物皆著我之色彩（如「泪眼问花花不语，乱红飞过秋千去」——主观情感极度强烈投影于外物）。\n-「无我之境」：以物观物，故不知何者为我，何者为物（如「采菊东篱下，悠然见南山」、「寒波澹澹起，白鸟悠悠下」——物我两忘、浑然天成）。\n\n二、中国古典美学批评核心范畴：\n1.【虚实相生 (Xū-shí xiāngshēng)】与【留白艺术】：\n- 实者，景物文字之具象描摹；虚者，神韵哲思之广阔想象。计白当黑，不着一字而尽得风流。\n2.【气韵生动 (Qìyùn shēngdòng)】：作品字里行间流淌着天地自然与生命精神的充沛律动。\n3.【言有尽而意无穷（言外之意、味外之味）】：在有限的言语结构之外，引发读者无限的审美遐想与心灵共鸣（严羽《沧浪诗话》：「如空中之音，相中之色，水中之月，镜中之象，言有尽而意无穷」）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的核心语法法则与应用范例 (25.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)' in simple terms to students at the academic seminar."
+          "target": "王国维在《人间词话》中指出「词以境界为最上」，真正卓越的文学作品必能达到情与景水乳交融的深邃意境。(Wáng Guówéi zài 《Rénjiān Cíhuà》 zhōng zhǐchū 'cí yǐ jìngjiè wéi zuìshàng', zhēnzhèng zhuóyuè de wénxué zuòpǐn bì néng dádào qíng yǔ jǐng shuǐrǔ-jiāoróng de shēnsuì yìjìng.)",
+          "reading": "[wɑŋ˧˥ kwo˧˥.weɪ̯˧˥ t͡saɪ̯˥˩ 《ʐən˧˥.t͡ɕjɛn˥ t͡sʰɨ˧˥.xwa˥˩》 ʈ͡ʂʊŋ˥ ʈ͡ʂɨ˨˩.t͡ʂʰu˥ 't͡sʰɨ˧˥ i˨˩˦ t͡ɕiŋ˥˩.t͡ɕjɛ˥˩ weɪ̯˧˥ t͡sweɪ̯˥˩.ʂɑŋ˥˩', ʈ͡ʂən˥.ʈ͡ʂəŋ˥ ʈ͡ʂwɔ˧˥.yɛ˥˩ tɤ wən˧˥.ɕɥɛ˧˥ t͡swoʊ̯˥˩.pʰin˨˩˦ pi˥˩ nɤŋ˧˥ ta˧˥.taʊ̯˥˩ t͡ɕʰiŋ˧˥ y˨˩˦ t͡ɕiŋ˨˩˦ ʂweɪ̯˨˩.ʐu˨˩.t͡ɕjaʊ̯˥.ʐʊŋ˧˥ tɤ ʂən˥.sweɪ̯˥˩ i˥˩.t͡ɕiŋ˥˩] (Wáng Guó-wéi zài 《Rén-jiān Cí-huà》 zhōng zhǐ-chū 'cí yǐ jìng-jiè wéi zuì-shàng', zhēn-zhèng zhuó-yuè de wén-xué zuò-pǐn bì néng dá-dào qíng yǔ jǐng shuǐ-rǔ-jiāo-róng de shēn-suì yì-jìng.)",
+          "translation": "Wang Guowei pointed out in 'Poetics in the Human World' that 'In Ci poetry, the aesthetic realm is supreme'; truly outstanding literary works must achieve a profound artistic conception where emotion and scenery blend harmoniously like water and milk."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (25.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "诗画同源的东方美学强调「虚实相生」与留白艺术，往往能在「不着一字，尽得风流」的幽微处传达出无穷韵味。(Shī-huà tóngyuán de dōngfāng měixué qiángdiào 'xū-shí xiāngshēng' yǔ liúbái yìshù, wǎngwǎng néng zài 'bù zháo yí zì, jìn dé fēngliú' de yōuwēi chù chuándá chū wúqióng yùnwèi.)",
+          "reading": "[ʂɨ˥-xwa˥˩ tʰʊŋ˧˥.jɥan˧˥ tɤ tʊŋ˥.fɑŋ˥ meɪ̯˨˩.ɕɥɛ˧˥ t͡ɕʰjaŋ˧˥.tjaʊ̯˥˩ 'ɕy˥-ʂɨ˧˥ ɕjaŋ˥.ʂəŋ˥' y˨˩˦ ljoʊ̯˧˥.paɪ̯˧˥ i˥˩.ʂu˥˩, wɑŋ˨˩.wɑŋ˨˩˦ nɤŋ˧˥ t͡saɪ̯˥˩ 'pu˥ ʈ͡ʂaʊ̯˧˥ i˥.t͡sɨ˥˩, t͡ɕin˥˩ tɤ˧˥ fəŋ˥.ljoʊ̯˧˥' tɤ joʊ̯˥.weɪ̯˥ ʈ͡ʂʰu˥˩ t͡ʂʰwan˧˥.ta˧˥ ʈ͡ʂʰu˥ wu˧˥.t͡ɕʰjʊŋ˧˥ jyn˥˩.weɪ̯˥˩] (Shī-huà tóng-yuán de dōng-fāng měi-xué qiáng-diào 'xū-shí xiāng-shēng' yǔ liú-bái yì-shù, wǎng-wǎng néng zài 'bù zháo yí zì, jìn dé fēng-liú' de yōu-wēi chù chuán-dá chū wú-qióng yùn-wèi.)",
+          "translation": "Eastern aesthetics, where poetry and painting share common roots, emphasizes the interplay between void and solid and the art of leaving blank space, often conveying infinite charm in subtle places where 'not a single word is uttered, yet all the elegance is attained.'"
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (25.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "优秀的古典诗词往往追求「言有尽而意无穷」的审美境界，在有限的文字结构中包蕴着浩瀚深远的情感张力。(Yōuxiù de gǔdiǎn shīcí wǎngwǎng zhuīqiú 'yán yǒu jìn ér yì wúqióng' de shěnměi jìngjiè, zài yǒuxiàn de wénzì jiégòu zhōng bāoyùn zhe hàohàn shēnyuǎn de qínggǎn zhānglì.)",
+          "reading": "[joʊ̯˥.ɕjoʊ̯˥˩ tɤ ku˨˩.tjɛn˨˩˦ ʂɨ˥.t͡sʰɨ˧˥ wɑŋ˨˩.wɑŋ˨˩˦ ʈ͡ʂweɪ̯˥.t͡ɕʰjoʊ̯˥ 'jan˧˥ joʊ̯˨˩˦ t͡ɕin˥˩ aɚ˧˥ i˥˩ wu˧˥.t͡ɕʰjʊŋ˧˥' tɤ ʂən˨˩.meɪ̯˨˩˦ t͡ɕiŋ˥˩.t͡ɕjɛ˥˩, t͡saɪ̯˥˩ joʊ̯˨˩.ɕjɛn˥˩ tɤ wən˧˥.t͡sɨ˥˩ t͡ɕjɛ˧˥.koʊ̯˥˩ ʈ͡ʂʊŋ˥ paʊ̯˥.jyn˥˩ ʈ͡ʂɤ xaʊ̯˥˩.xan˥˩ ʂən˥.jɥɛn˨˩˦ tɤ t͡ɕʰiŋ˧˥.kan˨˩˦ ʈ͡ʂɑŋ˥.li˥˩] (Yōu-xiù de gǔ-diǎn shī-cí wǎng-wǎng zhuī-qiú 'yán yǒu jìn ér yì wú-qióng' de shěn-měi jìng-jiè, zài yǒu-xiàn de wén-zì jié-gòu zhōng bāo-yùn zhe hào-hàn shēn-yuǎn de qíng-gǎn zhāng-lì.)",
+          "translation": "Outstanding classical poetry often pursues the aesthetic realm of 'the words have ended but the meaning is boundless,' containing vast and profound emotional tension within finite textual structures."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (25.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "「无我之境」以物观物而不知何者为我何者为物，「有我之境」以我观物而物皆著我之色彩，二者皆是古典诗学的至高境界。( 'Wúwǒ zhī jìng' yǐ wù guān wù ér bù zhī hézhě wéi wǒ hézhě wéi wù, 'yǒuwǒ zhī jìng' yǐ wǒ guān wù ér wù jiē zhù wǒ zhī sècǎi, èrzhě jiē shì gǔdiǎn shīxué de zhìgāo jìngjiè.)",
+          "reading": "[ 'wu˧˥.wɔ˨˩˦ ʈ͡ʂɨ˥ t͡ɕiŋ˥˩' i˨˩˦ wu˥˩ kwan˥ wu˥˩ aɚ˧˥ pu˥ ʈ͡ʂɨ˥ xɤ˧˥.ʈ͡ʂɤ˨˩˦ weɪ̯˧˥ wɔ˨˩˦ xɤ˧˥.ʈ͡ʂɤ˨˩˦ weɪ̯˧˥ wu˥˩, 'joʊ̯˨˩.wɔ˨˩˦ ʈ͡ʂɨ˥ t͡ɕiŋ˥˩' i˨˩˦ wɔ˨˩˦ kwan˥ wu˥˩ aɚ˧˥ wu˥˩ t͡ɕjɛ˥ ʈ͡ʂu˥˩ wɔ˨˩˦ ʈ͡ʂɨ˥ sɤ˥˩.t͡sʰaɪ̯˨˩˦, aɚ˥˩.ʈ͡ʂɤ˨˩˦ t͡ɕjɛ˥ ʂɨ˥˩ ku˨˩.tjɛn˨˩˦ ʂɨ˥.ɕɥɛ˧˥ tɤ ʈ͡ʂɨ˥˩.kaʊ̯˥ t͡ɕiŋ˥˩.t͡ɕjɛ˥˩] ( 'Wú-wǒ zhī jìng' yǐ wù guān wù ér bù zhī hé-zhě wéi wǒ hé-zhě wéi wù, 'yǒu-wǒ zhī jìng' yǐ wǒ guān wù ér wù jiē zhù wǒ zhī sè-cǎi, èr-zhě jiē shì gǔ-diǎn shī-xué de zhì-gāo jìng-jiè.)",
+          "translation": "'The realm without self' observes things through things so that one knows not which is the self and which is the object; 'the realm with self' observes things through the self so that all objects take on the color of the self; both are supreme realms of classical poetics."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "情景交融化意境，虚实相生留白精；言有尽而意无穷，人间词话辨无形！"
+      ],
+      "culturalNotes": [
+        "王国维的《人间词话》将西方康德、叔本华美学思想与中国传统诗话熔铸一炉，是中国近代文论史上一部划时代的宗师级巨著。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」（第4讲）的标准汉语规范？",
+          "prompt": "近代著名学者王国维在文艺美学批评名著《人间词话》中提出的评判文学作品高下的最高核心标准是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的核心语法法则与应用范例 (25.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (25.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (25.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (25.4.w3)"
+            "境界 / 意境 (Aesthetic Realm / Yijing: 词以境界为最上)",
+            "字数最多",
+            "用词最长",
+            "排版最花哨"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "王国维开宗明义提出「词以境界为最上」，将意境/境界置于诗歌美学批评的最高王座。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在传统诗画理论中，形容通过实写景物与留白想象相结合、达到「计白当黑」审美效果的艺术法则是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "虚实相生 (Interplay between the Void and the Solid)",
+            "完全填满没有任何空隙",
+            "乱涂乱画",
+            "只留白没有任何实景"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「虚实相生」是中国古典美学中处理具象描摹与抽象神韵关系的核心艺术法则。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的正式语境下，最准确得体的表达是哪一项？（第25.4题）",
+          "prompt": "陶渊明名句「采菊东篱下，悠然见南山」中物我两忘、浑然天成的审美境界在王国维《人间词话》中被称为：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (25.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (25.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (25.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (25.4.x3)"
+            "无我之境 (The Realm without Self: 以物观物，物我两忘)",
+            "有我之境 (以我观物，物皆著我之色彩)",
+            "无理取闹之境",
+            "喧嚣吵闹之境"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「无我之境」指诗人达到心境澄明、物我两忘、不知何者为我何者为物的至高恬淡境界。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u25-l4）所要求的高阶语言表达？",
+          "prompt": "古典文学批评中用来形容诗歌语言虽然结束、但其中蕴含的意味和余韵却无休无止深邃悠远的名句是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (25.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (25.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (25.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (25.4.y3)"
+            "言有尽而意无穷 (Words end but the meaning is boundless)",
+            "废话连篇",
+            "辞不达意",
+            "枯燥乏味"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「言有尽而意无穷」是古代文论中对优秀诗词留白与深邃意境魅力的至高赞誉。"
         }
       ]
     },
@@ -14981,25 +14991,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的掌握程度，请选出表述完全正确的标准范句（测试 25-4）：",
+          "prompt": "请选出下列中国古典文艺批评与意境理论评析中哲理性最高、文论体系最完备的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (25.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (25.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (25.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (25.4.z3)"
+            "中国古典美学以「意境」为灵魂，追求情与景的水乳交融。王国维《人间词话》分立「有我之境」与「无我之境」，深刻阐发了物我关系的两种至高形态；古典诗画更依托「虚实相生」与留白艺术，在「不着一字，尽得风流」的幽微中达成「言有尽而意无穷」的永恒境界！(意境灵魂、有我无我之境辨析、虚实相生与言有尽而意无穷，中国文论美学体系化总结)",
+            "古人写诗喜欢讲意境，就是让人猜猜什么意思，猜不出来说明写得好。(极度曲解美学理论)",
+            "虚实相生是指诗歌前半句是真的后半句是假话。(概念字面庸俗化曲解)",
+            "只要没有境界，就能写出人间词话。(逻辑彻底崩溃荒唐)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段系统总结了意境论、王国维有我/无我之境、虚实相生及言有尽而意无穷的核心美学意涵。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u25-l4）的核心关键词（例如「中国古典」）：",
+          "prompt": "请输入王国维《人间词话》中指称「以我观物，故物皆著我之色彩」的核心四字美学范畴（例如「」与无我之境相对；拼音为 yǒuwǒ zhī jìng）：",
           "acceptedAnswers": [
-            "中国古典",
-            "中国古典文学",
-            "中国古典文学与诗词鉴赏"
+            "有我之境"
           ],
-          "explanation": "正确的核心关键词为「中国古典」。"
+          "explanation": "范畴「有我之境」是王国维诗学理论中指代主观情感强烈投射于客体景物的核心概念。"
         }
       ],
       "passThreshold": 0.8
@@ -15010,85 +15018,89 @@
     "subject": "mandarin",
     "unit": 25,
     "lessonNumber": 5,
-    "title": "中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses) (第5讲)",
+    "title": "文脉千载、古典诗词意境与现代人文精神跨时空综合叙事篇章 (Comprehensive Classical Literature & Timeless Aesthetic Narrative)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：《诗经》、楚辞、唐诗（李白/杜甫/王维）、宋词（苏轼/李清照）的格律与意境。 (第5部分)。",
+    "objective": "融会贯通先秦风骚传统、盛唐格律诗仙诗圣气象、两宋词调豪放婉约及传统意境美学文论，独立撰写文辞典雅、气度高远、文脉贯通的中华古典诗学与跨时空人文精神综合语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "本课是中华古典文学与诗词美学体系的巅峰集成之作，将三千年文脉源流、格律词调与意境哲学熔铸为一炉：\n\n一、三千年中华诗学跨时空全景脉络：\n1. 源头觉醒（先秦汉魏）：《诗经》开创风雅颂与赋比兴之现实主义传统，屈原《楚辞》以香草美人与「求索」之志立浪漫主义高峰，建安风骨融慷慨悲凉与雄健气骨于一炉。\n2. 巅峰绝唱（盛唐气象）：近体律诗严守平仄声律与颔颈对仗铁律；诗仙李白以豪放飘逸之神思极写天地浩渺，诗圣杜甫以沉郁顿挫之笔墨深系天下苍生，诗佛王维以山水禅思造就「诗中有画」之空灵净土。\n3. 音律长短（两宋词风）：宋词依谱填词错落有致；苏轼、辛弃疾以豪放雄浑之笔直抒山河豪情与金戈铁马，李清照以婉约凄清之调将身世之悲融铸于叠字精微之中。\n4. 意境归真（美学升华）：王国维《人间词话》标举「境界为上」，辨析有我与无我之境，在「虚实相生」与留白之间达致「言有尽而意无穷」的永恒精神彼岸！\n\n二、全景式中华古典文学与意境美学综合范文赏析：\n- 文脉千载，弦歌不绝。自《诗经》以托物起兴直面苍生疾苦、屈子在《离骚》中托香草美人抒求索之志以降，中华古典诗学便铸就了现实关切与浪漫求索的崇高基因。迨至盛唐，近体格律诗臻于至善，平仄严整而颔联颈联工稳对仗。诗仙李白以豪放飘逸之姿吞吐宇宙，诗圣杜甫以沉郁顿挫之笔情系寒士，摩诘居士以山水禅境构筑诗画同源之空灵。转至两宋，词客依谱填词，长短错落更富天籁之美：东坡稼轩以豪放旷达之襟怀唱彻大江东去、金戈铁马；易安居士以婉约幽微之辞章道尽乱世凄凉。正如王国维《人间词话》所叹「词以境界为最上」，古典诗学在虚实相生中巧运留白，于极简字句间包蕴浩瀚乾坤，真正实现了「言有尽而意无穷」的至高审美境界。重温千载经典，不仅是声律辞藻之审美陶冶，更是与古圣先贤心灵相印、汲取中华民族永恒精神滋养的崇高文化洗礼！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的核心语法法则与应用范例 (25.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)' in simple terms to students at the academic seminar."
+          "target": "从《诗经》的托物起兴与《楚辞》的香草美人，到盛唐李杜的豪放沉郁与两宋词章的旷达婉约，五千年中华文脉奔腾不息、意境万千。(Cóng 《Shījīng》 de tuōwù-qǐxìng yǔ 《Chǔcí》 de xiāngcǎo-měirén, dào Shèngtáng Lǐ-Dù de háofàng-chényù yǔ liǎng Sòng cízhang de kuàngdá-wǎnyuē, wǔqiān nián Zhōnghuá wénmài bēnténg-bùxī, yìjìng wànqiān.)",
+          "reading": "[t͡sʰʊŋ˧˥ 《ʂɨ˥.t͡ɕiŋ˥》 tɤ tʰwɔ˥.u˥˩-t͡ɕʰi˨˩.ɕiŋ˥˩ y˨˩˦ 《t͡ʂʰu˨˩.t͡sʰɨ˧˥》 tɤ ɕjaŋ˥.t͡sʰaʊ̯˨˩˦-meɪ̯˨˩.ʐən˧˥, taʊ̯˥˩ ʂəŋ˥˩.tʰɑŋ˧˥ li˨˩-tu˥˩ tɤ xaʊ̯˥˩.fɑŋ˥˩-ʈ͡ʂʰən˧˥.y˥˩ y˨˩˦ ljaŋ˨˩˦ sʊŋ˥˩ t͡sʰɨ˧˥.ʈ͡ʂɑŋ˥ tɤ kʰwɑŋ˥˩.ta˧˥-wan˨˩.yɛ˥, wu˨˩.t͡ɕʰjɛn˥ njɛn˧˥ ʈ͡ʂʊŋ˥.xwa˧˥ wən˧˥.maɪ̯˥˩ pən˥.tʰəŋ˧˥-pu˥.ɕi˥, i˥˩.t͡ɕiŋ˥˩ wan˥˩.t͡ɕʰjɛn˥] (Cóng 《Shī-jīng》 de tuō-wù-qǐ-xìng yǔ 《Chǔ-cí》 de xiāng-cǎo-měi-rén, dào Shèng-táng Lǐ-Dù de háo-fàng-chén-yù yǔ liǎng Sòng cí-zhāng de kuàng-dá-wǎn-yuē, wǔ-qiān nián Zhōng-huá wén-mài bēn-téng-bù-xī, yì-jìng wàn-qiān.)",
+          "translation": "From the affective nature imagery of the 'Book of Songs' and the fragrant herbs and fair ladies of 'Chu Ci,' to the unconstrained and melancholic styles of High Tang's Li and Du and the expansive yet graceful verses of the Song dynasties, the five-thousand-year Chinese cultural lineage surges endlessly with myriad artistic conceptions."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (25.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "盛唐律诗以严格的平仄声律与工稳对仗构建起严整结构，而诗人更以情景交融与虚实相生赋予字里行间以充沛的气韵神采。(Shèngtáng lǜshī yǐ yángé de píngzè shēnglǜ yǔ gōngwěn duìzhàng gòujiàn qǐ yánzhěng jiégòu, ér shīrén gèng yǐ qíngjǐng-jiāoróng yǔ xū-shí xiāngshēng fùyǔ zìlǐ-hángjiān yǐ chōngpèi de qìyùn shéncǎi.)",
+          "reading": "[ʂəŋ˥˩.tʰɑŋ˧˥ ly˥˩.ʂɨ˥ i˨˩˦ jan˧˥.kɤ˧˥ tɤ pʰiŋ˧˥.t͡sɤ˥˩ ʂəŋ˥.ly˥˩ y˨˩˦ kʊŋ˥.wən˨˩˦ tweɪ̯˥˩.ʈ͡ʂɑŋ˥˩ koʊ̯˥˩.t͡ɕjɛn˥˩ t͡ɕʰi˨˩˦ jan˧˥.ʈ͡ʂəŋ˨˩˦ t͡ɕjɛ˧˥.koʊ̯˥˩, aɚ˧˥ ʂɨ˥.ʐən˧˥ kɤŋ˥˩ i˨˩˦ t͡ɕʰiŋ˧˥.t͡ɕiŋ˨˩˦-t͡ɕjaʊ̯˥.ʐʊŋ˧˥ y˨˩˦ ɕy˥-ʂɨ˧˥ ɕjaŋ˥.ʂəŋ˥ fu˥˩.y˨˩˦ t͡sɨ˥˩.li˨˩˦-xɑŋ˧˥.t͡ɕjɛn˥ i˨˩˦ ʈ͡ʂʰʊŋ˥.pʰeɪ̯˥˩ tɤ t͡ɕʰi˥˩.jyn˥˩ ʂən˧˥.t͡sʰaɪ̯˨˩˦] (Shèng-táng lǜ-shī yǐ yán-gé de píng-zè shēng-lǜ yǔ gōng-wěn duì-zhàng gòu-jiàn qǐ yán-zhěng jié-gòu, ér shī-rén gèng yǐ qíng-jǐng-jiāo-róng yǔ xū-shí xiāng-shēng fù-yǔ zì-lǐ-háng-jiān yǐ chōng-pèi de qì-yùn shén-cǎi.)",
+          "translation": "High Tang regulated verses constructed rigorous structures through strict tonal meters and well-crafted parallelisms, while poets endowed their lines with abundant rhythmic vitality and spirit through the harmonious blending of emotion with scenery and the interplay between void and solid."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (25.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "无论苏轼豪放派词作中吞吐山河的旷达宇宙观，抑或李清照婉约词中精雕细琢的凄婉心绪，皆体现出言有尽而意无穷的至高审美境界。(Wúlùn Sū Shì háofàngpài cízuò zhōng tūntǔ shānhé de kuàngdá yǔzhòuguān, yìhuò Lǐ Qīngzhào wǎnyuēcí zhōng jīngdiāo-xìzhuó de qīwǎn xīnxù, jiē tǐxiàn chū yán yǒu jìn ér yì wúqióng de zhìgāo shěnměi jìngjiè.)",
+          "reading": "[wu˧˥.lwən˥˩ su˥ ʂɨ˥˩ xaʊ̯˥˩.fɑŋ˥˩.pʰaɪ̯˥˩ t͡sʰɨ˧˥.t͡swoʊ̯˥˩ ʈ͡ʂʊŋ˥ tʰwən˥.tʰu˨˩˦ ʂan˥.xɤ˧˥ tɤ kʰwɑŋ˥˩.ta˧˥ y˨˩.ʈ͡ʂoʊ̯˥.kwan˥, i˥˩.xwo˥˩ li˨˩.t͡ɕʰiŋ.ʈ͡ʂaʊ̯˥˩ wan˨˩.yɛ˥.t͡sʰɨ˧˥ ʈ͡ʂʊŋ˥ t͡ɕiŋ˥.tjaʊ̯˥-ɕi˥˩.ʈ͡ʂwɔ˧˥ tɤ t͡ɕʰi˥.wan˨˩˦ ɕin˥.ɕy˥˩, t͡ɕjɛ˥ tʰi˨˩.ɕjɛn˥˩ ʈ͡ʂʰu˥ jan˧˥ joʊ̯˨˩˦ t͡ɕin˥˩ aɚ˧˥ i˥˩ wu˧˥.t͡ɕʰjʊŋ˧˥ tɤ ʈ͡ʂɨ˥˩.kaʊ̯˥ ʂən˨˩.meɪ̯˨˩˦ t͡ɕiŋ˥˩.t͡ɕjɛ˥˩] (Wú-lùn Sū Shì háo-fàng-pài cí-zuò zhōng tūn-tǔ shān-hé de kuàng-dá yǔ-zhòu-guān, yì-huò Lǐ Qīng-zhào wǎn-yuē-cí zhōng jīng-diāo-xì-zhuó de qī-wǎn xīn-xù, jiē tǐ-xiàn chū yán yǒu jìn ér yì wú-qióng de zhì-gāo shěn-měi jìng-jiè.)",
+          "translation": "Whether Su Shi's expansive cosmic view that encompasses rivers and mountains in his bold Ci works, or Li Qingzhao's delicately carved melancholic sentiments in her graceful lyrics, both reflect the supreme aesthetic realm where words end but meaning is infinite."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (25.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "读古典诗词不仅是赏析声律字句的艺术锤炼，更是跨越时空与古圣先贤进行心灵对话、汲取丰沛人文力量的崇高精神洗礼！(Dú gǔdiǎn shīcí bùjǐn shì shǎngxī shēnglǜ zìjù de yìshù chuíliàn, gèng shì kuàyuè shíkōng yǔ gǔshèng-xiānxián jìnxíng xīnlíng duìhuà, jíqǔ fēngpèi rénwén lìliàng de chónggāo jīngshén xǐlǐ!)",
+          "reading": "[tu˧˥ ku˨˩.tjɛn˨˩˦ ʂɨ˥.t͡sʰɨ˧˥ pu˥.t͡ɕin˨˩˦ ʂɨ˥˩ ʂɑŋ˨˩.ɕi˥ ʂəŋ˥.ly˥˩ t͡sɨ˥˩.t͡ɕy˥˩ tɤ i˥˩.ʂu˥˩ t͡ʂʰweɪ̯˧˥.ljɛn˥˩, kɤŋ˥˩ ʂɨ˥˩ kʰwa˥˩.yɛ˥˩ ʂɨ˧˥.kʰʊŋ˥ y˨˩˦ ku˨˩.ʂəŋ˥-ɕjɛn˥.ɕjɛn˧˥ t͡ɕin˥˩.ɕiŋ˧˥ ɕin˥.liŋ˧˥ tweɪ̯˥˩.xwa˥˩, t͡ɕi˧˥.t͡ɕʰy˨˩˦ fəŋ˥.pʰeɪ̯˥˩ ʐən˧˥.wən˧˥ li˥˩.ljaŋ˥˩ tɤ ʈ͡ʂʰʊŋ˧˥.kaʊ̯˥ t͡ɕiŋ˥.ʂən˧˥ ɕi˨˩.li˨˩˦] (Dú gǔ-diǎn shī-cí bù-jǐn shì shǎng-xī shēng-lǜ zì-jù de yì-shù chuí-liàn, gèng shì kuà-yuè shí-kōng yǔ gǔ-shèng-xiān-xián jìn-xíng xīn-líng duì-huà, jí-qǔ fēng-pèi rén-wén lì-liàng de chóng-gāo jīng-shén xǐ-lǐ!)",
+          "translation": "Reading classical poetry is not only an artistic tempering of appreciating meter and diction, but also a sublime spiritual baptism of conducting a soul-to-soul dialogue across time and space with ancient sages and drawing abundant humanistic power!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "风骚李杜继宋词，虚实相生入画诗；文脉千载涵意境，言尽意远照古思！"
+      ],
+      "culturalNotes": [
+        "中华古典文学跨越三千年，由风骚兴起，经汉魏唐宋之辉煌，熔铸成了中华民族永恒的精神家园与审美风骨，为现代人文精神提供了源源不竭的智慧沃土。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」（第5讲）的标准汉语规范？",
+          "prompt": "在中华古典文学三千年发展全景脉络中，将「先秦风骚（赋比兴/求索） -> 盛唐气象（律诗对仗/李杜王维） -> 两宋词韵（豪放婉约） -> 王国维境界论（虚实相生/言有尽而意无穷）」串联起来的核心红线是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的核心语法法则与应用范例 (25.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (25.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (25.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (25.5.w3)"
+            "中华诗歌源流演进与古典意境美学体系 (Three millennia poetic lineage & Yijing aesthetic system)",
+            "普通古代历史事件罗列",
+            "古代算术演算法则",
+            "纯粹由语法病句拼凑的杂文"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "语篇完美勾勒了三千年中国古典诗词文脉演进的宏伟历程与意境美学的崇高建构。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在古典诗学中，指称「诗歌的文字形式已经结束，但作品所激发的美感与哲理回味却在读者心中绵延无尽」的最高审美评价是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "言有尽而意无穷 / 韵外之致 (Words end but the meaning is infinite)",
+            "废话连篇不知所云",
+            "平淡寡味",
+            "语言粗糙没有内涵"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「言有尽而意无穷」是千百年来中国文论对古典诗词艺术最高境界的一致赞誉。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的正式语境下，最准确得体的表达是哪一项？（第25.5题）",
+          "prompt": "请选出下列中华古典文学与文脉传承评析中辞采最斐然、立意最高远的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (25.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (25.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (25.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (25.5.x3)"
+            "从先秦风骚的现实关切与浪漫求索，到盛唐李杜的豪放沉郁与两宋词客的金戈铁马、凄婉清绝，古典诗学在虚实相生中将言有尽而意无穷的东方意境推向了巅峰。读千载诗词，便是与古圣先贤进行跨越时空的心灵对话！(风骚源头、盛唐气象、宋词双璧、虚实相生与意境巅峰，文采飞扬立意高远)",
+            "中国古诗词很多，以前的人很会写，我们现在多读读挺有好处的。(语言极其苍白口语化)",
+            "赋比兴被言有尽而意无穷在金戈铁马。(词汇堆砌句式破碎)",
+            "读古诗词只是为了背诵考试没有别的用处。(立意极度狭隘庸俗)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项在古典文学流变、诗学美学范畴与人文精神升华上达到了当代高级文史学者的最高造诣。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u25-l5）所要求的高阶语言表达？",
+          "prompt": "在文学史上被誉为中国古典浪漫主义开山鼻祖、抒发「路漫漫其修远兮，吾将上下而求索」的伟大爱国诗人是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (25.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (25.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (25.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (25.5.y3)"
+            "屈原 (Qu Yuan: 楚辞《离骚》之父)",
+            "司马迁",
+            "韩愈",
+            "白居易"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "屈原是楚辞的代表作家，中国浪漫主义诗歌的开山鼻祖与伟大爱国诗人。"
         }
       ]
     },
@@ -15096,25 +15108,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的掌握程度，请选出表述完全正确的标准范句（测试 25-5）：",
+          "prompt": "请选出下列中华古典诗词与意境美学综合语篇中气度最恢宏、文脉最贯通、美学价值最高的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (25.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (25.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (25.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (25.5.z3)"
+            "三千年文脉弦歌不辍。《诗经》以赋比兴铸就现实主义基石，屈原《楚辞》以香草美人树立浪漫求索丰碑；盛唐律诗平仄工稳，李白豪放飘逸，杜甫沉郁顿挫，王维诗中有画；两宋词客依谱填词，东坡稼轩唱彻豪放山河，易安居士道尽婉约凄情。王国维称境界为最上，古典诗学以虚实相生达致言有尽而意无穷之化境，成为中华民族永恒的精神家园！(全篇文史融通，诗律与意境浑然一体，气象万千，堪称古典文学论著之绝唱)",
+            "古代诗歌很好听，大家写了诗经离骚唐诗宋词，王国维说境界最重要。(语言粗陋直白毫无文采)",
+            "诗经被李白杜甫在词牌里写虚实相生。(时空错乱概念混淆)",
+            "只要学会平仄，就能随便当诗仙诗圣。(逻辑狂妄违背艺术规律)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇将先秦风骚、唐诗格律、宋词流派与王国维境界美学熔铸一体，文辞极其典雅，思想深刻，达到了中国古典文学鉴赏与理论批评的巅峰。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u25-l5）的核心关键词（例如「中国古典」）：",
+          "prompt": "请输入王国维《人间词话》中用于概括诗词作品情景交融、虚实相生所达到的至高艺术层次的核心两字概念（例如词以「」为最上，拼音为 jìngjiè）：",
           "acceptedAnswers": [
-            "中国古典",
-            "中国古典文学",
-            "中国古典文学与诗词鉴赏"
+            "境界",
+            "意境"
           ],
-          "explanation": "正确的核心关键词为「中国古典」。"
+          "explanation": "概念「境界」（或「意境」）是王国维《人间词话》的核心灵魂，也是中国古代文艺理论批评的至高审美标准。"
         }
       ],
       "passThreshold": 0.8
