@@ -7455,53 +7455,62 @@
     "subject": "hindi",
     "unit": 18,
     "lessonNumber": 1,
-    "title": "शर्तिया और हेतुहेतुमद् वाक्य (Conditionals) (Part 1)",
+    "title": "वास्तविक व भविष्योन्मुख शर्त: अगर/यदि + सामान्य भविष्यत्/वर्तमान (Open & Future Conditionals)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.1) with authentic linguistic precision.",
+    "objective": "वास्तविक और भविष्योन्मुख शर्तों (Real & Open Future Conditionals) के निर्माण — 'अगर/यदि + [वर्तमान/भविष्यत् काल] + तो + [भविष्यत्/आदेश काल]' — में पूर्ण व्याकरणिक दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में वास्तविक और भविष्योन्मुख शर्तों (Open / Real Conditionals) का निर्माण दो मुख्य रूपों में होता है:\n\n1. **भविष्यत् काल शर्त (Future Conditional: If X happens, Y will happen)**:\n   - सूत्र: **अगर / यदि + [भविष्यत् क्रिया] + तो + [भविष्यत् क्रिया]**\n   - *अगर तुम परिश्रम करोगे, तो अवश्य सफल होगे*;\n   - *यदि कल वर्षा होगी, तो हम घर पर ही रहेंगे*।\n\n2. **वर्तमान काल शर्त (Present Condition with Future/Imperative Result)**:\n   - सूत्र: **अगर / यदि + [सामान्य वर्तमान] + तो + [भविष्यत् / आज्ञा]**\n   - *अगर तुम्हें कोई समस्या है, तो मुझे बताओ*;\n   - *यदि वह आता है, तो हम तुरंत चलेंगे*।\n\n3. **योजक युग्म नियम (Correlative Rule)**:\n   - शर्त उपवाक्य 'अगर' अथवा 'यदि' से शुरू होता है और परिणाम उपवाक्य सदैव **'तो'** से आरंभ होता है ('तब' का प्रयोग अमानक है)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 18.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 18."
+          "target": "यदि आप इस आवश्यक आधिकारिक दस्तावेज पर अपने हस्ताक्षर कर देंगे, तो आपका नया बैंक खाता आज ही तुरंत खोल दिया जाएगा।",
+          "reading": "yadi aap is aavashyak aadhikaarik dastaavez par apne hastaakshar kar denge, to aapka naya bank khaata aaj hi turant khol diya jaayega. [jəd̪ɪ aːp ɪs aːʋəʃjək aːd̪ʱɪkaːrɪk d̪əst̪aːʋeːz pər əpneː ɦəst̪aːkʃər kər d̪eːŋɡeː t̪oː aːpkaː nəjaː bɛːŋk kʰaːt̪aː aːdʒ ɦiː t̪ʊrən̪t̪ kʰoːl d̪ɪjaː dʒaːjeːɡaː] (yud-DEE ahp ees ah-vush-YAHK ah-dhee-KAH-reek duhs-tah-VAYZ puhr uhp-NAY huhs-TAHK-shuhr kuhr DAYN-gay, toh AHP-kah nuh-YAH bynk KHAH-tah ahj hee TOO-ruhnt khohl DEE-yah jah-AY-gah)",
+          "translation": "If you put your signature on this essential official document, your new bank account will be opened immediately today itself."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 18-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "अगर कल सुबह मौसम बिल्कुल साफ और सुहावना रहा, तो हम सभी सहपाठी मिलकर शहर के ऐतिहासिक लाल किले और संग्रहालय का विस्तृत भ्रमण करेंगे।",
+          "reading": "agar kal subah mausam bilkul saaf aur suhaavna raha, to hum sabhi sahpaathi milkar shahar ke aitihasik Laal Qile aur sangraahaalay ka vistrit bhraman karenge. [əɡər kəl sʊbəɦ mɔːsəm bɪlkʊl saːf ɔːr sʊɦaːʋnaː rəɦaː t̪oː ɦəm səbʱiː səɦpaːʈʰiː mɪlkər ʃəɦər keː ɛːt̪ɪhaːsɪk laːl qɪleː ɔːr sənɡraːɦaːləj kaː ʋɪst̪rɪt̪ bʱrəməɳ kərẽːɡeː] (uh-GUHR kuhl SOO-buh mow-SUHM beel-KOOL sahf owr soo-HAHV-nah ruh-HAH, toh huhm SUH-bhee suh-PAH-thee MEEL-kuhr SHUH-huhr kay ay-tee-HAH-seek lahl KEE-lay owr suhn-grah-HAH-luy kah vees-TREE-th bhruh-MUHN KUH-rayn-gay)",
+          "translation": "If tomorrow morning the weather remains completely clear and pleasant, all of us classmates together will make an extensive tour of the city's historic Red Fort and museum."
+        },
+        {
+          "target": "यदि आपको इस अत्यंत जटिल वैज्ञानिक सिद्धांत को समझने में कोई भी संशय या कठिनाई हो, तो आप बिना किसी संकोच के तुरंत प्रश्न पूछ सकते हैं।",
+          "reading": "yadi aapko is atyant jatil vaigyaanik siddhaant ko samajhne mein koi bhi sanshay ya kathinaayi ho, to aap bina kisi sankoch ke turant prashn poochh sakte hain. [jəd̪ɪ aːpkoː ɪs ət̪jən̪t̪ dʒəʈɪl ʋɛːɡjaːnɪk sɪd̪ːʱaːn̪t̪ koː səmədʒʱneː mẽː koːiː bʱiː sənʃəj jaː kəʈʰɪnaːiː hoː t̪oː aːp bɪnaː kɪsiː sənkoːtʃ keː t̪ʊrən̪t̪ prəʃn puːtʃʰ səkteː hɛ̃ː] (yud-DEE AHP-koh ees uht-YUHNT JUH-teel vyg-YAH-neek seedh-DHAHNT koh suh-MUHJ-nay mayn KOH-ee bhee SUHN-shuy yah kuh-thee-NAH-ee hoh, toh ahp BEE-nah kee-SEE suhn-KOHCH kay TOO-ruhnt pruhshn POOCHH SUHK-tay hy-n)",
+          "translation": "If you have any doubt or difficulty in understanding this extremely complex scientific principle, you can immediately ask questions without any hesitation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "शर्त = अगर / यदि... परिणाम = तो (अगर पढ़ोगे तो पास होगे)!"
+      ],
+      "culturalNotes": [
+        "हिंदी में भविष्य की प्रतिज्ञाओं में 'ईश्वर ने चाहा तो...' (God willing) या 'यदि सब कुशल रहा तो...' जोड़ना विनम्रता और लोक-आस्था की परंपरा है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"बुखार\":",
+          "prompt": "भविष्योन्मुख शर्त (Future Conditional: If you call me, I will come) का मानक वाक्य कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 18.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सिरदर्द» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («आँखें» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («हाथ» का अनुचित स्थान)"
+            "अगर तुम मुझे बुलाओगे, तो मैं अवश्य आऊँगा (Agar tum mujhe bulaaoge, to main avashya aaoonga - If you call me, I will surely come)",
+            "अगर तुम मुझे बुलाओगे तब मैं आऊँगा ('तब' का अमानक प्रयोग)",
+            "यदि तुम बुलाए तो मैं आया (भूतकाल असंगति)",
+            "बुलाओगे अगर तो मैं आता था (अव्यवस्थित पदक्रम)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "शर्त में «अगर... तो» का भविष्यत् कालीन समन्वय व्याकरणिक दृष्टि से सर्वथा मानक है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"बुखार\":",
+          "prompt": "शर्तपरक वाक्य «यदि आप कठिन परिश्रम करेंगे, ___ सफलता आपके कदम चूमेगी» में सही परिणाम योजक भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 18.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («आँखें» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («हाथ» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सिरदर्द» का अशुद्ध रूप)"
+            "तो (To - Then [mandatory conditional correlative to yadi])",
+            "तब (Temporal mismatch for condition)",
+            "इसलिए (Causal mismatch)",
+            "ताकि (Purposive mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'यदि' के साथ परिणाम उपवाक्य को जोड़ने वाला शुद्ध नित्यसंबंधी अव्यय «तो» है।"
         }
       ]
     },
@@ -7509,17 +7518,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"बुखार\": Which sentence is completely correct?",
+          "prompt": "वास्तविक भविष्योन्मुख शर्त (Real Future Conditional) का पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 18.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («हाथ» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सिरदर्द» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («आँखें» से संबंधित)"
+            "यदि समय रहते उचित उपचार मिल जाएगा, तो रोगी शीघ्र ही पूर्ण स्वस्थ हो जाएगा। (If proper treatment is received in time, the patient will recover fully very soon.)",
+            "यदि उचित उपचार मिला तब रोगी स्वस्थ होता था।",
+            "अगर उपचार मिलेगा इसलिए स्वस्थ होगा।",
+            "उपचार मिलता है ताकि स्वस्थ हो जाएगा।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«यदि... मिल जाएगा, तो... स्वस्थ हो जाएगा» भविष्योन्मुख शर्त का शत-प्रतिशत शुद्ध और मानक रूप है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u18-l2": {
@@ -7527,53 +7537,62 @@
     "subject": "hindi",
     "unit": 18,
     "lessonNumber": 2,
-    "title": "शर्तिया और हेतुहेतुमद् वाक्य (Conditionals) (Part 2)",
+    "title": "संभाव्य शर्त: अगर + संभाव्य काल (Hypothetical & Potential Conditionals: agar + Subjunctive)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.2) with authentic linguistic precision.",
+    "objective": "संभाव्य और काल्पनिक शर्तों (Potential / Hypothetical Conditionals) के निर्माण — 'अगर/यदि + [संभावनार्थ धातु (जाए/आए/मिले)] + तो + [भविष्यत्/चाहिए]' — में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "जब शर्त निश्चित न होकर केवल एक संभावना (Potential / Hypothesis) हो, तब शर्त उपवाक्य में **संभावनार्थ काल (Subjunctive Mood)** का प्रयोग किया जाता है:\n\n1. संभावनार्थ शर्त का सूत्र:\n   - **अगर / यदि + [संभाव्य क्रिया (आए / मिले / हो)] + तो + [भविष्यत् / चाहिए / आज्ञा]**\n   - *अगर वह आए, तो उसे यह पत्र दे देना* (If he should come, give him this letter);\n   - *यदि वर्षा हो, तो फसल अच्छी होगी* (Were it to rain, harvest will be good);\n   - *अगर कोई कठिनाई आए, तो तुरंत संपर्क करें* (Should any difficulty arise, contact immediately)।\n\n2. भविष्यत् शर्त बनाम संभाव्य शर्त का अंतर:\n   - *अगर वह आएगा (निश्चित संभावना)* vs *अगर वह आए (अनिश्चित / विनम्र संभावना)*।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 18.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 18."
+          "target": "यदि कोई भी अपरिचित व्यक्ति आपसे आपके बैंक खाते का गोपनीय पासवर्ड या ओटीपी माँगे, तो उसे कदापि कोई भी व्यक्तिगत जानकारी न दें।",
+          "reading": "yadi koi bhi aparichit vyakti aapse aapke bank khaate ka gopaneey password ya OTP maange, to use kadaapi koi bhi vyaktigat jaankaari na dein. [jəd̪ɪ koːiː bʱiː əpərɪtʃɪt̪ ʋjəkt̪ɪ aːpseː aːpkeː bɛːŋk kʰaːt̪eː kaː ɡoːpniːj paːsʋərɖ jaː oːʈiːpiː maː̃ɡeː t̪oː ʊseː kəd̪aːpɪ koːiː bʱiː ʋjəkt̪ɪɡət̪ dʒaːnkaːriː nə d̪ẽː] (yud-DEE KOH-ee bhee uh-puh-ree-CHEET VYUHNK-tee AHP-say AHP-kay bynk KHAH-tay kah gohp-NEE-yuh PASS-wurd yah oh-tee-PEE MAHN-gay, toh oo-SAY kuh-DAH-pee KOH-ee bhee vyuhk-tee-GUHT jahn-KAH-ree nuh DAYN)",
+          "translation": "If any unknown person should ask you for your bank account's confidential password or OTP, never give him any personal information under any circumstances."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 18-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "अगर आगामी अंतरराष्ट्रीय व्यापार मेले में हमें नया स्टॉल लगाने की आधिकारिक अनुमति मिल जाए, तो हमारे हस्तशिल्प व्यवसाय को बहुत बड़ा आर्थिक लाभ होगा।",
+          "reading": "agar aagaami antarraashtreey vyaapaar mele mein humein naya stall lagaane ki aadhikaarik anumati mil jaaye, to hamaare hastashilp vyavsaay ko bahut bada aarthik laabh hoga. [əɡər aːɡaːmiː ən̪t̪ərraːʂʈriːj ʋjaːpaːr meːleː mẽː ɦəmẽː nəjaː sʈɔːl ləɡaːneː kiː aːd̪ʱɪkaːrɪk ənʊmət̪ɪ mɪl dʒaːjeː t̪oː ɦəmaːreː ɦəst̪əʃɪlp ʋjəʋsaːj koː bəɦʊt̪ bəɽaː aːrt̪ʰɪk laːbʱ hoːɡaː] (uh-GUHR ah-GAH-mee uhn-tuhr-rahsh-TREE-yuh vyah-PAHR MAY-lay mayn huh-MAYN nuh-YAH stall luh-gah-NAY kee ah-dhee-KAH-reek uh-noo-MUH-tee meel JAH-yay, toh huh-MAH-ray huhs-tuh-SHEELP vyuhv-SAHY koh buh-hoot BUH-dah AHR-theek LAHBH hoh-GAH)",
+          "translation": "If we should receive official permission to set up a new stall in the upcoming international trade fair, our handicraft business will gain immense financial profit."
+        },
+        {
+          "target": "यदि इस दुर्गम पर्वतीय मार्ग पर यात्रा के दौरान अचानक मूसलाधार वर्षा होने लगे, तो सभी वाहन चालक किसी सुरक्षित स्थान पर तुरंत शरण लें।",
+          "reading": "yadi is durgam parvateey maarg par yaatra ke dauraan achanak mooslaadhaar varsha hone lage, to sabhi vaahan chaalak kisi surakshit sthaan par turant sharan lein. [jəd̪ɪ ɪs d̪ʊrɡəm pərʋət̪iːj maːrɡ pər jaːt̪raː keː dɔːraːn ətʃaːnək muːslaːd̪ʱaːr ʋərʂaː hoːneː ləɡeː t̪oː səbʱiː ʋaːɦən tʃaːlək kɪsiː sʊrəkʃɪt̪ st̪ʰaːn pər t̪ʊrən̪t̪ ʃərəɳ lẽː] (yud-DEE ees door-GUHM puhr-vuh-TEE-yuh MAHRG puhr YAH-trah kay dow-RAHN uh-CHAH-nuhk moos-lah-DHAHR vuhr-SHAH HOH-nay LUH-gay, toh SUH-bhee VAH-huhn CHAH-luhk kee-SEE soo-ruhk-SHEET sthahn puhr TOO-ruhnt SHUH-ruhn LAYN)",
+          "translation": "If torrential rain should suddenly begin during travel on this difficult mountainous route, all vehicle drivers should immediately take shelter at a safe location."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "संभाव्य शर्त = अगर + धातु-ए/एं + तो (अगर वह आए तो कहना)!"
+      ],
+      "culturalNotes": [
+        "औपचारिक चेतावनियों और परामर्शों में कठोर आज्ञा से बचने के लिए 'यदि कोई समस्या हो' जैसी संभाव्य शर्तों का प्रयोग सर्वाधिक शिष्ट माना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"सिरदर्द\":",
+          "prompt": "संभाव्य शर्त (Hypothetical: If he should ask, tell him the truth) का शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 18.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («आँखें» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («हाथ» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दिल» का अनुचित स्थान)"
+            "यदि वह पूछे, तो उसे सच बता देना (Yadi vah poochhe, to use sach bata dena - If he should ask, tell him the truth [subjunctive condition + imperative])",
+            "यदि वह पूछेगा तब सच बता देना ('तब' दोष)",
+            "अगर वह पूछता इसलिए सच बताया (काल असंगति)",
+            "वह पूछे यदि ताकि सच बोलो (अव्यवस्थित पदक्रम)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "संभाव्य क्रिया «पूछे» के साथ परिणाम उपवाक्य «तो उसे सच बता देना» व्याकरणिक रूप से आदर्श है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"सिरदर्द\":",
+          "prompt": "वाक्य «अगर अवसर ___ तो हमें अपनी प्रतिभा अवश्य दिखानी चाहिए» में सही संभाव्य क्रिया भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 18.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («हाथ» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दिल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («आँखें» का अशुद्ध रूप)"
+            "मिले (Mile - Should opportunity be received [subjunctive])",
+            "मिलेगा (Definite future error for polite hypothesis)",
+            "मिला था (Past error)",
+            "मिलता रहा (Continuous error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'चाहिए' के साथ संभाव्य शर्त के लिए संभावनार्थ रूप «मिले» शुद्ध है।"
         }
       ]
     },
@@ -7581,17 +7600,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"सिरदर्द\": Which sentence is completely correct?",
+          "prompt": "संभाव्य शर्त (Subjunctive Conditional) का सर्वथा मानक वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 18.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दिल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («आँखें» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («हाथ» से संबंधित)"
+            "यदि कोई संकट उत्पन्न हो, तो घबराने के बजाय धैर्यपूर्वक उपाय खोजना चाहिए। (If any crisis should arise, one should patiently seek solutions rather than panicking.)",
+            "यदि संकट उत्पन्न होगा इसलिए घबराएँ।",
+            "अगर संकट हुआ था तो उपाय खोजते।",
+            "संकट उत्पन्न हो ताकि घबराना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«यदि... उत्पन्न हो, तो... खोजना चाहिए» में संभाव्य शर्त और उपदेशात्मक परिणाम का अन्वय सर्वथा शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u18-l3": {
@@ -7599,53 +7619,62 @@
     "subject": "hindi",
     "unit": 18,
     "lessonNumber": 3,
-    "title": "शर्तिया और हेतुहेतुमद् वाक्य (Conditionals) (Part 3)",
+    "title": "हेतुहेतुमद् भूतकाल: अवास्तविक भूतकालिक शर्त (Past Counterfactuals: Imperfective Participle)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.3) with authentic linguistic precision.",
+    "objective": "अवास्तविक भूतकालिक शर्त (Past Counterfactual / Irrealis) — 'अगर/यदि + [अपूर्ण कृदंत (करता/करती/करते)] + तो + [अपूर्ण कृदंत (होता/होती/होते)]' — की संरचना में पूर्ण निपुणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में भूतकाल की ऐसी शर्त जो पूरी नहीं हो सकी और जिसका परिणाम भी घटित नहीं हुआ (Past Counterfactual / Unfulfilled Condition), उसे **हेतुहेतुमद् भूतकाल** कहते हैं:\n\n1. हेतुहेतुमद् भूतकाल का सार्वभौमिक सूत्र:\n   - **अगर / यदि + [कर्ता + अपूर्ण कृदंत (-ता/-ती/-ते)] + तो + [अपूर्ण कृदंत (-ता/-ती/-ते)]**\n   - (नियम: दोनों उपवाक्यों में क्रिया केवल **अपूर्ण कृदंत** रहती है; 'था/थी/थे' या 'है' का प्रयोग नहीं होता!)\n   - *अगर तुम समय पर आते, तो गाड़ी न छूटती* (If you had come on time, the train wouldn't have been missed);\n   - *यदि वह पढ़ता, तो परीक्षा में अवश्य उत्तीर्ण होता* (Had he studied, he would have passed);\n   - *अगर बारिश होती, तो फसल अच्छी होती* (Had it rained, the crop would have been good)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 18.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 18."
+          "target": "यदि अनुभवी मुख्य शल्य-चिकित्सक ठीक समय पर अस्पताल पहुँच जाते, तो उस गंभीर रूप से घायल दुर्घटना पीड़ित की अमूल्य जान बच जाती।",
+          "reading": "yadi anubhavi mukhya shalya-chikitsak theek samay par aspataal pahunch jaate, to us gambheer roop se ghaayal durghatna peedit ki amoolya jaan bach jaati. [jəd̪ɪ ənʊbʱəʋiː mʊkʰjə ʃəljə tʃɪkɪt̪sək t̪ʰiːk səməj pər əspət̪aːl pəɦʊntʃ dʒaːt̪eː t̪oː ʊs ɡəmbiːr ruːp seː ɡʱaːjəl d̪ʊrɡʱəʈnaː piːɽɪt̪ kiː əmuːljə dʒaːn bətʃ dʒaːt̪iː] (yud-DEE uh-noobh-HUH-vee MOOKH-yuh SHUHL-yuh chee-KEET-suhk theek SUH-muy puhr uhs-puh-TAHL puh-HOONCH JAH-tay, toh oos guhm-BHEER roop say GHAH-yuhl door-ghuht-NAH PEE-deet kee uh-MOOL-yuh jahn buhtch JAH-tee)",
+          "translation": "If the experienced chief surgeon had reached the hospital right on time, the invaluable life of that critically injured accident victim would have been saved."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 18-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "अगर तुमने पिछले महीने समय रहते अपनी आगामी परीक्षा की योजनाबद्ध और गंभीर तैयारी की होती, तो आज तुम्हें इस प्रकार निराश और व्यथित न होना पड़ता।",
+          "reading": "agar tumne pichhle maheene samay rahte apni aagaami pareeksha ki yojanabaddh aur gambheer taiyaari ki hoti, to aaj tumhein is prakaar niraash aur vyathit na hona padta. [əɡər t̪ʊmneː pɪtʃʰleː məɦiːneː səməj rəɦt̪eː əpniː aːɡaːmiː pəriːkʃaː kiː joːdʒnəbəd̪ːʱ ɔːr ɡəmbiːr t̪ɛːjaːriː kiː hoːt̪iː t̪oː aːdʒ t̪ʊmɦẽː ɪs prəkaːr nɪraːʃ ɔːr ʋjət̪ʰɪt̪ nə hoːnaː pəɽt̪aː] (uh-GUHR TOOM-nay PEECHH-lay muh-HEE-nay SUH-muy RUH-tay uhp-NEE ah-GAH-mee puh-REEK-shah kee yohj-nuh-BUHDH owr guhm-BHEER ty-YAH-ree kee HOH-tee, toh ahj toom-HAYN ees pruh-KAHR nee-RAHSH owr vyuh-THEET nuh HOH-nah PUHD-tah)",
+          "translation": "If you had done planned and serious preparation for your upcoming exam in time last month, you would not have had to be so disappointed and distressed today."
+        },
+        {
+          "target": "यदि समय पर अग्निशमन दल के वाहन घटनास्थल पर पहुँच जाते, तो इस ऐतिहासिक बहुमंजिला इमारत को भीषण अग्निकांड से पूरी तरह बचाया जा सकता।",
+          "reading": "yadi samay par agnishaman dal ke vaahan ghatnasthal par pahunch jaate, to is aitihasik bahumanjila imaarat ko bheeshan agnikaand se poori tarah bachaaya ja sakta. [jəd̪ɪ səməj pər əɡnɪʃəmən d̪əl keː ʋaːɦən ɡʱəʈnaːst̪ʰəl pər pəɦʊntʃ dʒaːt̪eː t̪oː ɪs ɛːt̪ɪhaːsɪk bəɦʊməndʒɪlaː ɪmaːrət̪ koː bʱiːʂəɳ əɡnɪkaːɳɖ seː puːriː t̪ərəɦ bətʃaːjaː dʒaː səktaː] (yud-DEE SUH-muy puhr uhg-nee-SHUH-muhn duhl kay VAH-huhn ghuht-nah-STHUHL puhr puh-HOONCH JAH-tay, toh ees ay-tee-HAH-seek buh-hoo-muhn-JEE-lah ee-MAH-ruht koh bhee-SHUHN uhg-nee-KAHN-duh say POO-ree TUH-ruh buh-CHAH-yah jah SUHK-tah)",
+          "translation": "If the vehicles of the fire brigade had reached the incident site on time, this historic multi-storey building could have been completely saved from the terrible inferno."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "हेतुहेतुमद् भूतकाल = अगर + -ता/ती/ते... तो + -ता/ती/ते (अगर पढ़ते तो पास होते, 'था' कभी नहीं आता)!"
+      ],
+      "culturalNotes": [
+        "हिंदी साहित्य और महाकाव्यों में नियति और पश्चाताप के प्रसंगों में हेतुहेतुमद् भूतकाल का प्रयोग अत्यधिक कारुणिक और प्रभावशाली प्रभाव उत्पन्न करता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"आँखें\":",
+          "prompt": "अवास्तविक भूतकालिक शर्त (Past Counterfactual: Had he run fast, he would have won) का शुद्ध रूप क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 18.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («हाथ» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दिल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («परिवार» का अनुचित स्थान)"
+            "यदि वह तेज़ दौड़ता, तो प्रतियोगिता जीत जाता (Yadi vah tez daudta, to pratiyogita jeet jaata - Had he run fast, he would have won the competition)",
+            "यदि वह तेज़ दौड़ता था तो जीत गया था (अशुद्ध 'था' का प्रयोग)",
+            "अगर वह तेज़ दौड़ेगा तो जीत जाता (काल संकर दोष)",
+            "वह तेज़ दौड़ता ताकि जीत जाता था (उद्देश्य दोष)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "हेतुहेतुमद् भूतकाल में दोनों ओर केवल अपूर्ण कृदंत «दौड़ता... जीत जाता» का प्रयोग शुद्ध है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"आँखें\":",
+          "prompt": "वाक्य «अगर तुम समय पर स्टेशन पहुँचते, तो ट्रेन न ___» में सही क्रिया रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 18.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दिल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («परिवार» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («हाथ» का अशुद्ध रूप)"
+            "छूटती (Chhoot-ti - Would not have been missed [fem. agreement with train])",
+            "छूटेगी (Future mismatch for past counterfactual)",
+            "छूट गई थी (Past indicative mismatch)",
+            "छूटती है (Habitual error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "हेतुहेतुमद् भूतकाल में 'ट्रेन' स्त्रीलिंग एकवचन के साथ अपूर्ण कृदंत «छूटती» शुद्ध है।"
         }
       ]
     },
@@ -7653,17 +7682,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"आँखें\": Which sentence is completely correct?",
+          "prompt": "हेतुहेतुमद् भूतकाल (Past Counterfactual) का शत-प्रतिशत मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 18.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («परिवार» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («हाथ» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दिल» से संबंधित)"
+            "यदि किसान समय पर खाद और पानी देते, तो इस वर्ष खेतों में रिकॉर्ड फसल पैदा होती। (Had the farmers given fertilizer and water on time, a record crop would have been produced in the fields this year.)",
+            "यदि किसान खाद देते थे तो फसल पैदा होती थी।",
+            "अगर किसान खाद देंगे तो फसल पैदा होती।",
+            "किसान खाद देते ताकि फसल पैदा हुई थी।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«यदि... देते, तो... पैदा होती» हेतुहेतुमद् भूतकाल का व्याकरणिक नियमों के अनुसार पूर्णतः त्रुटिहीन रूप है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u18-l4": {
@@ -7671,53 +7701,62 @@
     "subject": "hindi",
     "unit": 18,
     "lessonNumber": 4,
-    "title": "शर्तिया और हेतुहेतुमद् वाक्य (Conditionals) (Part 4)",
+    "title": "इच्छा, काश और असंभव कामनाएं: 'काश ऐसा होता!' (Wishes, Regrets & Optatives: kaash)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.4) with authentic linguistic precision.",
+    "objective": "असंभव कामनाओं, पश्चाताप और तीव्र इच्छाओं को व्यक्त करने वाले अव्यय 'काश' तथा मिश्रित शर्तपरक संरचनाओं (Mixed Conditionals) के सटीक प्रयोग में निपुण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "असंभव इच्छाओं और अपूर्ण कामनाओं (Unfulfilled Wishes & Optatives) को व्यक्त करने के नियम:\n\n1. **'काश' (Kaash / Would that / If only) की संरचना**:\n   - सूत्र: **काश + [कर्ता] + [अपूर्ण कृदंत क्रिया (-ता/-ती/-ते)] !**\n   - *काश मैं एक पक्षी होता!* (Would that I were a bird! [वर्तमान असंभव कल्पना]);\n   - *काश उसने मेरी बात सुनी होती!* (If only he had listened to me! [भूतकालिक पश्चाताप]);\n   - *काश हम उस समय वहाँ उपस्थित होते!* (Wish we were present there at that time!)।\n\n2. **मिश्रित शर्तपरक वाक्य (Mixed Conditionals: Past Condition → Present Result)**:\n   - सूत्र: **अगर + [भूतकालिक अपूर्ण कृदंत] + तो + [वर्तमान काल प्रभाव]**\n   - *अगर तुमने उस समय सही निर्णय लिया होता, तो आज हम यहाँ न भटक रहे होते* (Had you made the right decision then, we wouldn't be wandering here today)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 18.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 18."
+          "target": "काश उस भीषण राष्ट्रीय संकट की घड़ी में हम सभी देशवासी आपसी मतभेद भुलाकर एकजुट खड़े होते, तो आज राष्ट्र को इस विपत्ति का सामना न करना पड़ता।",
+          "reading": "kaash us bheeshan raashtreey sankat ki ghadi mein hum sabhi deshvaasi aapsi matbhed bhulaakar ekjut khade hote, to aaj rashtr ko is vipatti ka saamna na karna padta. [kaːʃ ʊs bʱiːʂəɳ raːʂʈriːj sənkəʈ kiː ɡʱəɽiː mẽː ɦəm səbʱiː d̪eːʃʋaːsiː aːpsiː mət̪bʱeːd̪ bʱʊlaːkər eːkdʒʊʈ kʰəɽeː hoːt̪eː t̪oː aːdʒ raːʂʈr koː ɪs ʋɪpət̪ːɪ kaː saːmnaː nə kərnaː pəɽt̪aː] (KAHSH oos bhee-SHUHN rahsh-TREE-yuh suhn-KUHT kee ghuh-DEE mayn huhm SUH-bhee daysh-VAH-see AHP-see muht-BHAYD bhoo-LAH-kuhr ayk-JOOT KHUH-day HOH-tay, toh ahj RAHSH-truh koh ees vee-PUHT-tee kah SAHM-nah nuh KUHR-nah PUHD-tah)",
+          "translation": "Would that in that hour of severe national crisis all of us countrymen had stood united forgetting mutual differences, the nation would not have had to face this catastrophe today."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 18-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "काश बचपन में मुझे भी भारतीय शास्त्रीय संगीत और साहित्य की विधिवत शिक्षा प्राप्त करने का स्वर्णिम सुअवसर मिला होता, तो आज मेरा जीवन कुछ और ही होता।",
+          "reading": "kaash bachpan mein mujhe bhi bhaarateey shaastreey sangeet aur saahitya ki vidhivat shiksha praapt karne ka svarnim su-avsar mila hota, to aaj mera jeevan kuchh aur hi hota. [kaːʃ bətʃpən mẽː mʊdʒʱeː bʱiː bʱaːrt̪iːj ʃaːst̪riːj sənɡiːt̪ ɔːr saːɦɪt̪jə kiː ʋɪd̪ʱɪʋət̪ ʃɪkʃaː praːpt̪ kərneː kaː sʋərɳɪm sʊəʋsər mɪlaː hoːt̪aː t̪oː aːdʒ meːraː dʒiːʋən kʊtʃʰ ɔːr ɦiː hoːt̪aː] (KAHSH buhtch-PUHN mayn MOOJ-hay bhee bhahr-TEE-yuh shah-STREE-yuh suhn-GEET owr sah-HEET-yuh kee vee-dhee-VUHT sheek-SHAH PRAHPT KUHR-nay kah svuhr-NEEM soo-uhv-SUHR MEE-lah HOH-tah, toh ahj MAY-rah JEE-vuhn koochh owr hee HOH-tah)",
+          "translation": "If only in childhood I too had received the golden opportunity to get formal education in Indian classical music and literature, today my life would have been something entirely different."
+        },
+        {
+          "target": "अगर युवावस्था में तुमने अपने पूज्य गुरुजनों और माता-पिता के अमूल्य उपदेशों का निष्ठापूर्वक पालन किया होता, तो आज तुम समाज में एक अत्यंत प्रतिष्ठित पद पर आसीन होते।",
+          "reading": "agar yuvaavastha mein tumne apne poojya gurujanon aur maata-pita ke amoolya updeshon ka nishthaapoorvak paalan kiya hota, to aaj tum samaaj mein ek atyant pratishthit pad par aaseen hote. [əɡər jʊʋaːʋəst̪ʰaː mẽː t̪ʊmneː əpneː puːdʒjə ɡʊrʊdʒnõː ɔːr maːt̪aː pɪt̪aː keː əmuːljə ʊpd̪eːʃõː kaː nɪʂʈʰaːpuːrʋək paːlən kɪjaː hoːt̪aː t̪oː aːdʒ t̪ʊm səmaːdʒ mẽː eːk ət̪jən̪t̪ prət̪ɪʂʈʰɪt̪ pəd̪ pər aːsiːn hoːt̪eː] (uh-GUHR yoo-vah-VUHS-thah mayn TOOM-nay uhp-NAY POOJ-yuh goo-roo-JUH-nohn owr MAH-tah pee-TAH kay uh-MOOL-yuh oop-DAY-shohn kah neesh-thah-POOR-vuhk PAH-luhn kee-YAH HOH-tah, toh ahj toom suh-MAHJ mayn ayk uht-YUHNT pruh-teesh-THEET puhd puhr ah-SEEN HOH-tay)",
+          "translation": "If in youth you had faithfully followed the invaluable teachings of your revered teachers and parents, today you would be seated on an extremely prestigious post in society."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "काश + मैं होता! काश + उसने किया होता! तीव्र इच्छा व पश्चाताप!"
+      ],
+      "culturalNotes": [
+        "हिंदी की प्रसिद्ध कविता 'काश मैं चिड़िया बन जाती' और छायावादी साहित्यों में 'काश' का प्रयोग मानवीय आकांक्षाओं की गहराई का प्रतीक रहा है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"हाथ\":",
+          "prompt": "असंभव इच्छा (Wish: Would that I were rich!) को व्यक्त करने वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 18.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दिल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («परिवार» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पिता» का अनुचित स्थान)"
+            "काश मैं धनी होता! (Kaash main dhani hota! - Would that I were wealthy! [optative with kaash + imperfective])",
+            "काश मैं धनी हूँ! (वर्तमान सत्य दोष)",
+            "काश मैं धनी होऊंगा! (भविष्यत् काल दोष)",
+            "काश मैं धनी हो गया था! (अशुद्ध भूतकाल)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "'काश' के साथ असंभव कामना व्यक्त करने हेतु अपूर्ण कृदंत «होता» शुद्ध है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"हाथ\":",
+          "prompt": "मिश्रित शर्त «अगर तुमने मेहनत की होती, तो आज तुम पछता ___» में सही रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 18.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («परिवार» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पिता» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दिल» का अशुद्ध रूप)"
+            "न रहे होते (Na rahe hote - Would not be regretting [mixed conditional present result])",
+            "न रहे होंगे (Future error)",
+            "न रहे (Simple prohibitive error)",
+            "न रहे थे (Past error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "भूतकालिक शर्त का वर्तमान में जारी प्रभाव दर्शाने हेतु «न रहे होते» शुद्ध है।"
         }
       ]
     },
@@ -7725,17 +7764,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"हाथ\": Which sentence is completely correct?",
+          "prompt": "'काश' और मिश्रित शर्तपरक वाक्य का पूर्णतः शुद्ध उदाहरण चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 18.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पिता» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दिल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («परिवार» से संबंधित)"
+            "काश हमने समय रहते पर्यावरण संरक्षण पर ध्यान दिया होता, तो आज हमें इस गंभीर जलवायु संकट का सामना न करना पड़ता। (If only we had paid attention to environment conservation in time, today we wouldn't have had to face this severe climate crisis.)",
+            "काश हम ध्यान देते थे इसलिए संकट न होता।",
+            "काश हम ध्यान देंगे ताकि संकट नहीं हो।",
+            "हम ध्यान दिए होते काश तो संकट था।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«काश... ध्यान दिया होता, तो आज... न करना पड़ता» में पश्चाताप और वर्तमान परिणाम का संश्लेषण सर्वथा निर्दोष है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u18-l5": {
@@ -7743,53 +7783,62 @@
     "subject": "hindi",
     "unit": 18,
     "lessonNumber": 5,
-    "title": "शर्तिया और हेतुहेतुमद् वाक्य (Conditionals) (Part 5)",
+    "title": "शर्तपरक संरचनाओं का समग्र समेकन व संवाद विश्लेषण (Comprehensive Synthesis of Conditional Systems)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.5) with authentic linguistic precision.",
+    "objective": "हिंदी के सभी चारों शर्त वर्गों (सार्वभौमिक सत्य, भविष्योन्मुख खुली शर्त, संभाव्य शर्त, हेतुहेतुमद् अवास्तविक शर्त) का उच्च स्तरीय गद्य और जटिल संवादों में समेकन करने में पूर्ण अधिकार प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी शर्तपरक वाक्य व्यवस्था (Conditional System) का संपूर्ण चतुष्कोणीय ढाँचा:\n\n1. **चारों प्रमुख शर्त वर्ग**:\n   - **प्रकार 0 (सार्वभौमिक सत्य / Habitual)**: *अगर पानी १००°C पर उबलता है, तो भाप बनता है।*\n   - **प्रकार 1 (भविष्योन्मुख वास्तविक / Real Future)**: *अगर तुम आओगे, तो मैं चलूँगा।*\n   - **प्रकार 2 (संभाव्य / Potential Subjunctive)**: *अगर वह आए, तो उसे समझा देना।*\n   - **प्रकार 3 (हेतुहेतुमद् अवास्तविक / Counterfactual Past)**: *अगर तुम आते, तो काम बन जाता।*\n\n2. **जटिल तार्किक संरचनाएं (Complex Dialectics)**:\n   - संवादों में शर्तों की शृंखला:\n     *यदि हम आज संकल्प लें, तो कल सफल होंगे; किंतु यदि हम चूके, तो पश्चाताप के सिवा कुछ न मिलेगा।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 18.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 18."
+          "target": "यदि राष्ट्र का प्रत्येक नागरिक अपने संवैधानिक कर्तव्यों का पूरी ईमानदारी और निष्ठा से निर्वहन करे, तो हमारा प्यारा देश निसंदेह विश्व के सबसे समृद्ध और शक्तिशाली देशों में अग्रणी बन जाएगा।",
+          "reading": "yadi rashtr ka pratyek naagrik apne samvaidhaanik kartavyon ka poori eemaandaari aur nishtha se nirvahan kare, to hamaara pyaara desh nisandeh vishv ke sabse samriddh aur shaktishaali deshon mein agrani ban jaayega. [jəd̪ɪ raːʂʈr kaː prət̪jeːk naːɡrɪk əpneː səmʋɛːd̪ʱaːnɪk kərt̪əʋjõː kaː puːriː iːmaːnd̪aːriː ɔːr nɪʂʈʰaː seː nɪrʋəɦən kəreː t̪oː ɦəmaːraː pjaːraː d̪eːʃ nɪsən̪d̪eːɦ ʋɪʃʋ keː səbseː səmərɪd̪ːʱ ɔːr ʃəkt̪ɪʃaːliː d̪eːʃõː mẽː əɡrəɳiː bən dʒaːjeːɡaː] (yud-DEE RAHSH-truh kah pruht-YAYK NAHG-reek uhp-NAY suhm-vy-DHAH-neek kuhr-tuhv-YOHN kah POO-ree ee-mahn-DAH-ree owr NEESH-thah say neer-vuh-HUHN KUH-ray, toh huh-MAH-rah PYAH-rah daysh nee-suhn-DAYH VEESH-vuh kay SUHB-say suhm-REEDH-dh owr shuhk-tee-SHAH-lee daysh-OHN mayn uhg-ruh-NEE buhn jah-AY-gah)",
+          "translation": "If every citizen of the nation should discharge his constitutional duties with complete honesty and dedication, our beloved country will undoubtedly become foremost among the richest and most powerful nations of the world."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 18-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "यदि उस समय सरकार द्वारा त्वरित, साहसिक और प्रभावी आर्थिक सुधार लागू न किए जाते, तो आज देश में गंभीर मुद्रास्फीति और बेरोज़गारी की समस्या अत्यंत विकराल रूप धारण कर लेती।",
+          "reading": "yadi us samay sarkaar dvaara tvarit, saahasik aur prabhaavi aarthik sudhaar laagu na kiye jaate, to aaj desh mein gambheer mudraasfeeti aur berozgaari ki samasya atyant vikraal roop dhaaran kar leti. [jəd̪ɪ ʊs səməj sərkaːr d̪ʋaːraː t̪ʋərɪt̪ saːɦsiːk ɔːr prəbʱaːʋiː aːrt̪ʰɪk sʊd̪ʱaːr laːɡuː nə kɪjeː dʒaːt̪eː t̪oː aːdʒ d̪eːʃ mẽː ɡəmbiːr mʊd̪raːsfiːt̪ɪ ɔːr beːroːzɡaːriː kiː səməsjaː ət̪jən̪t̪ ʋɪkraːl ruːp d̪ʱaːrəɳ kər leːt̪iː] (yud-DEE oos SUH-muy suhr-KAHR dvah-RAH tvuh-REET, sah-huh-SEEK owr pruh-bhah-VEE AHR-theek soo-DHAHR LAH-goo nuh kee-YAY JAH-tay, toh ahj daysh mayn guhm-BHEER mood-rahs-FEE-tee owr bay-rohz-GAH-ree kee suh-MUHS-yah uht-YUHNT veek-RAHL roop dhah-RUHN kuhr LAY-tee)",
+          "translation": "If prompt, bold, and effective economic reforms had not been implemented by the government at that time, today the problem of severe inflation and unemployment in the country would have assumed an extremely dreadful form."
+        },
+        {
+          "target": "काश हम सभी समय के प्रत्येक बहुमूल्य क्षण का सदुपयोग करना सीख लें, क्योंकि यदि आज हम समय को व्यर्थ गँवाएँगे, तो कल हमें पश्चाताप के अतिरिक्त कुछ भी प्राप्त नहीं होगा।",
+          "reading": "kaash hum sabhi samay ke pratyek bahumoolya kshan ka sadupyog karna seekh lein, kyonki yadi aaj hum samay ko vyarth ganvaayenge, to kal humein pashchaataap ke atirikt kuchh bhi praapt nahin hoga. [kaːʃ ɦəm səbʱiː səməj keː prət̪jeːk bəɦʊmuːljə kʃəɳ kaː səd̪ʊpjoːɡ kərnaː siːkʰ lẽː kjõːkɪ jəd̪ɪ aːdʒ ɦəm səməj koː ʋjərt̪ʰ ɡə̃ʋaːẽːɡeː t̪oː kəl ɦəmẽː pəʃtʃaːt̪aːp keː ət̪ɪrɪkt̪ kʊtʃʰ bʱiː praːpt̪ nəɦĩː hoːɡaː] (KAHSH huhm SUH-bhee SUH-muy kay pruht-YAYK buh-hoo-MOOL-yuh kshuhn kah suhd-oop-YOHG KUHR-nah seekh LAYN, KYOHN-kee yud-DEE ahj huhm SUH-muy koh VYURTH guhn-vah-AYN-gay, toh kuhl huh-MAYN puhsh-chah-TAHP kay uh-tee-REEKT koochh bhee PRAHPT nuh-HEEN hoh-GAH)",
+          "translation": "Would that all of us learn to make good use of every precious moment of time, because if we waste time today, tomorrow we will obtain nothing other than remorse."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Type 0 (सत्य), Type 1 (भविष्य अगर...तो), Type 2 (संभाव्य अगर आए तो), Type 3 (हेतुहेतुमद् अगर आते तो)! शर्त प्रणाली का संपूर्ण शिखर!"
+      ],
+      "culturalNotes": [
+        "भारतीय नीतिशास्त्र (चाणक्य नीति, भर्तृहरि नीतिशतक) के अनुवादों में शर्तपरक वाक्यों का उपयोग जीवन-मूल्यों और नीतिगत निर्णयों के परिणामों को स्पष्ट करने के लिए सदियों से होता आया है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"दिल\":",
+          "prompt": "शर्तपरक संरचनाओं के सभी नियमों का पालन करने वाला सुगठित वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 18.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («परिवार» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पिता» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («माता» का अनुचित स्थान)"
+            "यदि हम आज संयम और अनुशासन का पालन करेंगे, तो कल हमारा भविष्य सुरक्षित और समृद्ध होगा (If we observe restraint and discipline today, tomorrow our future will be secure and prosperous)",
+            "यदि हम आज अनुशासन पालन करते तब कल भविष्य होगा (असंगत काल)",
+            "अगर अनुशासन पालन करेंगे इसलिए भविष्य समृद्ध था (तार्किक दोष)",
+            "अनुशासन पालन करें ताकि अगर भविष्य होगा (अव्यवस्थित संयोजन)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«यदि... करेंगे, तो... होगा» भविष्योन्मुख शर्त का परिपूर्ण और सुगठित वाक्य है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"दिल\":",
+          "prompt": "संवाद «यदि आप अनुमति दें, ___ हम अभी प्रस्थान करें» में सही नित्यसंबंधी भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 18.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पिता» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («माता» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («परिवार» का अशुद्ध रूप)"
+            "तो (To - Then [conditional apodosis marker])",
+            "तब (Temporal error)",
+            "ताकि (Purposive error)",
+            "क्योंकि (Causal error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "संभाव्य शर्त 'यदि आप अनुमति दें' के साथ परिणाम हेतु «तो» ही मानक है।"
         }
       ]
     },
@@ -7797,17 +7846,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"दिल\": Which sentence is completely correct?",
+          "prompt": "शर्तपरक वाक्यों (Conditionals) के चारों प्रकारों का संपूर्ण तार्किक समन्वय वाला वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 18.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («माता» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («परिवार» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पिता» से संबंधित)"
+            "यदि समाज का प्रत्येक वर्ग एकजुट होकर प्रयास करे, तो कोई भी लक्ष्य असंभव नहीं है; किंतु अगर हमने आलस्य किया, तो हमें भारी मूल्य चुकाना पड़ेगा। (If every section of society strives together, no goal is impossible; but if we act lazy, we will have to pay a heavy price.)",
+            "यदि समाज प्रयास करता है तब कोई लक्ष्य असंभव था।",
+            "अगर समाज प्रयास करेगा ताकि मूल्य चुकाया था।",
+            "समाज प्रयास करे इसलिए अगर लक्ष्य असंभव होगा।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«यदि... करे, तो... असंभव नहीं है» (संभाव्य) तथा «अगर... किया, तो... चुकाना पड़ेगा» (वास्तविक परिणाम) का संश्लेषण व्याकरणिक और तार्किक दृष्टि से अप्रतिम है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u19-l1": {
