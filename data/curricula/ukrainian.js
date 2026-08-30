@@ -7045,53 +7045,62 @@
     "subject": "ukrainian",
     "unit": 17,
     "lessonNumber": 1,
-    "title": "Умовний спосіб дієслів із часткою би/б (Subjunctive) (Part 1)",
+    "title": "Умовний спосіб дієслів: творення та евфонія часток б/би (Subjunctive Mood & Euphony)",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 17.1) with authentic linguistic precision.",
+    "objective": "Опанувати творення форм умовного способу дієслів (минулий час + частка б/би), правила евфонічного чергування б/би після голосних і приголосних та позицію частки в реченні.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Умовний спосіб (Subjunctive / Conditional mood) виражає дію не як реальний факт, а як бажану, можливу за певних умов або гіпотетичну:\n\n1. Граматична модель творення:\nУмовний спосіб утворюється поєднанням форми минулого часу дієслова (-в, -ла, -ло, -ли) з модальною часткою «б» або «би»:\n   - Чоловічий рід: читав би, зробив би, знав би, допоміг би;\n   - Жіночий рід: читала б, зробила б, знала б, допомогла б;\n   - Середній рід: читало б, зробило б, знало б, допомогло б;\n   - Множина: читали б, зробили б, знали б, допомогли б.\n\n2. Закон евфонії (милозвучності) для часток «б» та «би»:\n   - Частка «Б» вживається після слів, що закінчуються на ГОЛОСНИЙ звук: я хотіла б, ми пішли б, ви допомогли б, вона порадила б, я б зробив.\n   - Частка «БИ» вживається після слів, що закінчуються на ПРИГОЛОСНИЙ звук: він знав би, я сказав би, він міг би, літак злетів би, він би зробив.\n\n3. Позиція частки в реченні:\nЧастка «б / би» не має фіксованого місця і може стояти як після дієслова, так і перед ним (тяжіючи до логічно наголошеного слова або займенника): «Я обов'язково допоміг би вам» або «Я б вам обов'язково допоміг».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Я з великим задоволенням відвідала б цю міжнародну наукову конференцію в Києві.",
+          "reading": "[jɑ z wɛˈlɪkɪm zɐdɔˈwɔlɛnʲːɐm wʲidˈwʲidɐlɐ b t͡sʲu mʲiʒnɐˈrɔdnu nɐuˈkɔwu kɔnfɛˈrɛnt͡sʲiju w ˈkɪjɛwʲi] (yah z veh-LY-kym zah-doh-VOH-len-nyah-m veed-VEE-dah-lah b tsee-OO meezh-nah-ROHD-noo nah-oo-KOH-voo kohn-feh-REN-tsee-yoo v KY-yeh-vee)",
+          "translation": "I would attend this international scientific conference in Kyiv with great pleasure."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 17-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Він обов'язково підтримав би цей перспективний інноваційний стартап.",
+          "reading": "[wʲin ɔbɔˈwjɑzkɔwɔ pʲidˈtrɪmɐw bɪ t͡sɛj pɛrspɛkˈtɪwnɪj innɔwɐt͡sʲijˈnɪj stɐrˈtɑp] (veen oh-bohv-YAHZ-koh-woh peed-TRY-mahv by tsey pehr-spehk-TYV-nyy een-noh-vah-tseey-NYY stahr-TAHP)",
+          "translation": "He would definitely support this promising innovative startup."
+        },
+        {
+          "target": "Ми охоче взяли б участь у спільних європейських академічних дослідженнях.",
+          "reading": "[mɪ ɔˈxɔtʃɛ ˈwzʲɑlɪ b ˈutʃɑsʲtʲ u ˈspʲilʲnɪx jɛwrɔˈpɛjsʲkɪx ɐkɐdɛˈmʲitʃnɪx dɔsʲˈlʲidʒɛnʲːɐx] (my oh-KHOH-cheh VZYAHL-y b OO-chahst' oo SPEEL'-nykh yehv-roh-PEY-s'kykh ah-kah-deh-MEECH-nykh dohs-LEED-zhen-nyahkh)",
+          "translation": "We would gladly take part in joint European academic research."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Після голосного — коротке «б» (вона б, пішли б); після приголосного — повне «би» (він би, сказав би)!"
+      ],
+      "culturalNotes": [
+        "Суворе дотримання законів евфонії щодо часток б/би є обов'язковою рисою української літературної та сценічної мови."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Лікар\":",
+          "prompt": "Оберіть правильну евфонічну форму частки для речення «Вона обов'язково прийшла ... на зустріч»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.1.",
-            "Неправильне відмінкове узгодження зі словом «Аптека»",
-            "Порушення законів евфонії та словотворення для «Ліки»",
-            "Стилістично некоректна синтаксична конструкція з «Здоров'я»"
+            "Б (Particle б is used after vowel ending in прийшла)",
+            "Би",
+            "Бис",
+            "Бись"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Слово «прийшла» закінчується на голосний звук [а], тому за правилами евфонії вживається частка «б»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Лікар\":",
+          "prompt": "Яка частка умовного способу має стояти після дієслова «допоміг» (він допоміг ...)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.1.",
-            "Порушення законів евфонії та словотворення для «Ліки»",
-            "Стилістично некоректна синтаксична конструкція з «Здоров'я»",
-            "Неправильне відмінкове узгодження зі словом «Аптека»"
+            "Би (Particle би is used after consonant ending in допоміг)",
+            "Б",
+            "Бо",
+            "Бить"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Дієслово «допоміг» закінчується на приголосний [г], тому використовується частка «би»."
         }
       ]
     },
@@ -7099,17 +7108,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Лікар\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому частки умовного способу вжито з бездоганним дотриманням законів милозвучності:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.1.",
-            "Стилістично некоректна синтаксична конструкція з «Здоров'я»",
-            "Неправильне відмінкове узгодження зі словом «Аптека»",
-            "Порушення законів евфонії та словотворення для «Ліки»"
+            "Ми з радістю поїхали б до Львова, якби ви нас запросили.",
+            "Ми з радістю поїхали би до Львова, якби ви нас запросили.",
+            "Він би прийшла б вчасно на лекцію.",
+            "Я сказав б вам усю правду."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Після голосного в слові «поїхали» стоїть частка «б», що є абсолютно правильним."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u17-l2": {
@@ -7117,53 +7127,62 @@
     "subject": "ukrainian",
     "unit": 17,
     "lessonNumber": 2,
-    "title": "Умовний спосіб дієслів із часткою би/б (Subjunctive) (Part 2)",
+    "title": "Реальна та нереальна умова: синтаксис «якби / коли б» (Hypothetical Conditionals)",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 17.2) with authentic linguistic precision.",
+    "objective": "Опанувати розрізнення реальної умови з дійсним способом (якщо + теперішній/майбутній час) та нереальної гіпотетичної умови з умовним способом (якби / коли б + минулий час).",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українському синтаксисі складнопідрядні речення умови поділяються на два принципові типи:\n\n1. Реальна (можлива) умова (Real Condition):\nВиражає дію, здійснення якої цілком імовірне за певних обставин у теперішньому або майбутньому. В обох частинах вживається дійсний спосіб зі сполучником «якщо / коли»:\n   - «Якщо завтра буде гарна погода, ми вирушимо в гори» (If the weather is good tomorrow, we will set out into the mountains).\n   - «Якщо ви уважно слухатимете лекцію, ви зрозумієте весь матеріал».\n\n2. Нереальна (гіпотетична або контрфактична) умова (Unreal / Counterfactual Condition):\nВиражає бажану, припущену, але нездійснену або неможливу дію. В обох частинах речення вживається виключно УМОВНИЙ спосіб зі сполучниками «якби / коли б / аби»:\n   - «Якби в мене був вільний час, я б неодмінно прочитав цю книгу» (If I had free time, I would certainly read this book).\n   - «Коли б ми знали про це раніше, ми ухвалили б зовсім інше рішення».\n\n3. Орфографічне застереження:\nСполучник умови «якби» пишеться РАЗОМ (якби = коли б). Займенник із часткою «як би» пишеться ОКРЕМО: «Як би важко не було, ми переможемо» (No matter how hard it might be).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Якби ми мали додаткове фінансування, ми вже цього року відкрили б сучасний науковий центр.",
+          "reading": "[jɐkˈbɪ mɪ ˈmɑlɪ dɔdɐtˈkɔwɛ fʲinɐnsuˈwɑnʲːɑ, mɪ wʒɛ ˈt͡sʲɔɦɔ ˈrɔku wʲidˈkrɪlɪ b sut͡ʃɐsˈnɪj nɐuˈkɔwɪj t͡sɛntr] (yahk-BY my MAH-ly doh-daht-KOH-weh fee-nahn-soo-VAHN-nyah, my vzheh TS'OH-hoh ROH-koo veed-KRY-ly b soo-chahs-NYY nah-oo-KOH-vyy tsehntr)",
+          "translation": "If we had additional funding, we would open a modern scientific center this very year."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 17-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Коли б ти знав, як щиро цінують твою безкорисливу допомогу колеги!",
+          "reading": "[kɔˈlɪ b tɪ znɑw, jɐk ˈʃtʃɪrɔ t͡sʲiˈnujutʲ twɔˈju bɛzkɔˈrɪslɪwu dɔpɔˈmɔɦu kɔˈlɛɦɪ] (koh-LY b ty znahv, yahk SHCHY-roh tsee-NOO-yoot' tvoh-YOO bez-koh-RYS-ly-voo doh-poh-MOH-hoo koh-LEH-hy)",
+          "translation": "If only you knew how sincerely your colleagues value your selfless help!"
+        },
+        {
+          "target": "Якщо завтра прибуде міжнародна делегація, ректор особисто проведе екскурсію.",
+          "reading": "[jɐkˈʃtʃɔ ˈzɑwtrɐ prɪˈbudɛ mʲiʒnɐˈrɔdnɐ dɛlɛˈɦɑt͡sʲijɑ, ˈrɛktɔr ɔsɔˈbɪstɔ prɔwɛˈdɛ ɛksˈkursʲiju] (yahk-SHCHOH ZAHV-trah pry-BOO-deh meezh-nah-ROHD-nah deh-leh-HAH-tsee-yah, REHK-tohr oh-soh-BYS-toh proh-veh-DEH eks-KOOR-see-yoo)",
+          "translation": "If the international delegation arrives tomorrow, the rector will personally lead the excursion."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Якщо» — це реальний план на завтра; «якби» — це мрія з дієсловом минулого часу та часткою «б»!"
+      ],
+      "culturalNotes": [
+        "Поетичний зворот «Коли б я знав...» часто слугує заспівом в українських ліричних піснях та романсах на слова класичних поетів."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Аптека\":",
+          "prompt": "Оберіть сполучник для побудови нереального гіпотетичного підрядного речення умови: «... я мав крила, я б облетів усю землю»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.2.",
-            "Неправильне відмінкове узгодження зі словом «Ліки»",
-            "Порушення законів евфонії та словотворення для «Здоров'я»",
-            "Стилістично некоректна синтаксична конструкція з «Лікарня»"
+            "Якби (Subjunctive unreal conditional conjunction written as one word)",
+            "Якщо",
+            "Ніби",
+            "Мов"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Для вираження нереальної умови з дієсловом в умовному способі («я б облетів») вживається сполучник «якби»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Аптека\":",
+          "prompt": "Як пишеться слово «якби» у значенні сполучника умови (якби ми знали)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.2.",
-            "Порушення законів евфонії та словотворення для «Здоров'я»",
-            "Стилістично некоректна синтаксична конструкція з «Лікарня»",
-            "Неправильне відмінкове узгодження зі словом «Ліки»"
+            "Разом (якби = коли б)",
+            "Окремо (як би)",
+            "Через дефіс (як-би)",
+            "З апострофом (як'би)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Сполучник умови «якби» пишеться разом."
         }
       ]
     },
@@ -7171,17 +7190,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Аптека\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому правильно поєднано часові та способовi форми нереальної умови:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.2.",
-            "Стилістично некоректна синтаксична конструкція з «Лікарня»",
-            "Неправильне відмінкове узгодження зі словом «Ліки»",
-            "Порушення законів евфонії та словотворення для «Здоров'я»"
+            "Якби ми вчасно підготувалися, ми обов'язково перемогли б у турнірі.",
+            "Якби ми вчасно підготуємося, ми переможемо в турнірі.",
+            "Якщо ми підготувалися б, ми перемогли б.",
+            "Якби ми підготувалися, ми перемагаємо в турнірі."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "В обох частинах речення нереальної умови має бути умовний спосіб: «якби підготувалися, перемогли б»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u17-l3": {
@@ -7189,53 +7209,62 @@
     "subject": "ukrainian",
     "unit": 17,
     "lessonNumber": 3,
-    "title": "Умовний спосіб дієслів із часткою би/б (Subjunctive) (Part 3)",
+    "title": "Цільові та з'ясувальні підрядні зі сполучником «щоб / аби» (Subjunctive in Purpose & Complements)",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 17.3) with authentic linguistic precision.",
+    "objective": "Опанувати вживання умовного способу в підрядних мети зі сполучниками щоб/аби та в з'ясувальних реченнях після дієслів волевиявлення (хотіти, прагнути, вимагати, радити).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Умовний спосіб широко застосовується в підрядних частинах складнопідрядних речень мети та з'ясування:\n\n1. Підрядні речення мети (Purpose Clauses):\nВідповідають на питання «з якою метою? для чого?» і приєднуються сполучниками «щоб / аби / для того щоб» + дієслово минулого часу:\n   - «Ми наполегливо вчимося, щоб стати висококласними фахівцями» (один суб'єкт -> інфінітив);\n   - «Викладач пояснив правило ще раз, щоб усі студенти зрозуміли складну тему» (різні суб'єкти -> минулий час).\n\n2. З'ясувальні речення після дієслів волевиявлення та бажання (Complements of Desiderative/Imperative Verbs):\nПісля дієслів «хотіти, бажати, прагнути, вимагати, просити, наполягати, радити, наказувати» підрядна частина приєднується сполучником «щоб» із дієсловом минулого часу:\n   - «Я щиро хочу, щоб ми перемогли» (I sincerely want us to win);\n   - «Керівник наполягає, щоб звіт подали сьогодні» (The supervisor insists that the report be submitted today);\n   - «Лікар порадив, щоб пацієнт більше відпочивав».\n\n3. Орфографія: «щоб» (сполучник мети) пишеться РАЗОМ. Займенник із часткою «що б» пишеться ОКРЕМО: «Що б ви не запитали, я відповім чесно».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Науковці об'єднали свої зусилля, щоб якнайшвидше завершити важливий експеримент.",
+          "reading": "[nɐuˈkɔwt͡sʲi ɔbʲjɛdˈnɑlɪ swɔˈji zuˈsɪlʲːɑ, ʃtʃɔb jɐknɐjˈʃwɪdʃɛ zɐwɛrˈʃɪtɪ wɑʒˈlɪwɪj ɛkspɛrɪˈmɛnt] (nah-oo-KOV-tsee ohb-yehd-NAH-ly swoh-YEE zoo-SYL-lyah, shchohb yahk-nahy-SHVYD-sheh zah-vehr-SHY-ty vahzh-LY-vyy eks-peh-ry-MENT)",
+          "translation": "Scientists united their efforts in order to finish the important experiment as quickly as possible."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 17-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Ми дуже хочемо, щоб кожен українець почувався безпечно й захищено у своїй державі.",
+          "reading": "[mɪ ˈduʒɛ ˈxɔtʃɛmɔ, ʃtʃɔb ˈkɔʒɛn ukrɐˈjinɛt͡sʲ pɔtʃuˈwɑwsʲɑ bɛzˈpɛtʃnɔ j zɐˈxɪʃtʃɛnɔ u swɔˈjij dɛrˈʒɑwʲi] (my DOO-zheh KHOH-cheh-moh, shchohb KOH-zhen oo-krah-YEE-nehts' poh-choo-VAHV-syah bez-PECH-noh y zah-KHYSHTS-ehy-noh oo swoh-YEEY dehr-ZHAH-vee)",
+          "translation": "We strongly wish that every Ukrainian would feel safe and protected in their own state."
+        },
+        {
+          "target": "Керівник наукової групи вимагає, щоб усі учасники суворо дотримувалися техніки безпеки.",
+          "reading": "[kɛrʲiwˈnɪk nɐuˈkɔwɔji ˈhrupɪ wɪmɐˈɦɑjɛ, ʃtʃɔb uˈsʲi uˈtʃɑsnɪkɪ suˈwɔrɔ dɔtrɪˈmuwɐlɪsʲɑ ˈtɛxnʲikɪ bɛzˈpɛkɪ] (keh-reev-NYK nah-oo-KOH-woh-yee HROO-py vy-mah-HAH-yeh, shchohb oo-SEE oo-CHAHS-ny-ky soo-VOH-roh doh-try-MOO-vah-lys'-yah TEHKH-ny-ky bez-PEH-ky)",
+          "translation": "The leader of the research group demands that all participants strictly adhere to safety procedures."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Мета або бажання — завжди «щоб» разом і дієслово минулого часу: «хочу, щоб ви знали»!"
+      ],
+      "culturalNotes": [
+        "Стилістичний варіант «аби» замість «щоб» додає мовленню вишуканого колориту української інтелектуальної прози."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Ліки\":",
+          "prompt": "Оберіть правильний сполучник мети в реченні «Ми приїхали до Києва, ... відвідати Софійський собор»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.3.",
-            "Неправильне відмінкове узгодження зі словом «Здоров'я»",
-            "Порушення законів евфонії та словотворення для «Лікарня»",
-            "Стилістично некоректна синтаксична конструкція з «Температура»"
+            "Щоб (Purpose conjunction written as one word)",
+            "Що б",
+            "Як би",
+            "Ніби"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Сполучник мети «щоб» пишеться разом: «щоб відвідати»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Ліки\":",
+          "prompt": "Яку форму має дієслово в підрядній частині після фрази волевиявлення «Я вимагаю, щоб ти ...»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.3.",
-            "Порушення законів евфонії та словотворення для «Лікарня»",
-            "Стилістично некоректна синтаксична конструкція з «Температура»",
-            "Неправильне відмінкове узгодження зі словом «Здоров'я»"
+            "Форму минулого часу (щоб ти прийшов / щоб ти зробив)",
+            "Форму майбутнього часу",
+            "Форму наказового способу",
+            "Дієприслівник"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "У з'ясувальних реченнях після сполучника «щоб» дієслово стоїть у формі минулого часу: «щоб ти прийшов»."
         }
       ]
     },
@@ -7243,17 +7272,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Ліки\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому допущено орфографічну помилку в написанні сполучника «щоб»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.3.",
-            "Стилістично некоректна синтаксична конструкція з «Температура»",
-            "Неправильне відмінкове узгодження зі словом «Здоров'я»",
-            "Порушення законів евфонії та словотворення для «Лікарня»"
+            "Ми зібралися разом, що б обговорити результати нашої наукової роботи.",
+            "Ми зібралися разом, щоб обговорити результати нашої наукової роботи.",
+            "Що б ви порадили почитати з сучасної української літератури?",
+            "Я прагну, щоб в Україні запанував міцний і справедливий мир."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "У першому варіанті «що б» є сполучником мети («для того щоб»), тому має писатися разом: «щоб»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u17-l4": {
@@ -7261,53 +7291,62 @@
     "subject": "ukrainian",
     "unit": 17,
     "lessonNumber": 4,
-    "title": "Умовний спосіб дієслів із часткою би/б (Subjunctive) (Part 4)",
+    "title": "Модальні значення умовного способу: ввічливість, порада, побажання (Polite Subjunctive)",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 17.4) with authentic linguistic precision.",
+    "objective": "Опанувати використання умовного способу для пом'якшення мовленнєвих актів: формулювання ввічливих прохань (чи не могли б ви), ненав'язливих порад (я радив би), побажань та оцінних суджень.",
     "presentation": {
-      "explanation": "",
+      "explanation": "У прагматиці українського мовлення умовний спосіб є ключовим інструментом мовного етикету та ввічливості:\n\n1. Ввічливе прохання та звернення (Polite Request):\nЗамість прямого наказу використовується питальна конструкція з умовним способом:\n   - «Чи не могли б ви повторити останню тезу?» (Could you please repeat the last point?);\n   - «Я просив би вас звернути увагу на цей пункт»;\n   - «Чи не допомогли б ви мені розібратися з цим питанням?».\n\n2. Ненав'язлива порада та пропозиція (Gentle Advice & Suggestion):\nПом'якшує категоричність висловлювання експерта або співрозмовника:\n   - «Я радив би вам переглянути розрахунки ще раз»;\n   - «Варто було б уточнити ці статистичні дані»;\n   - «Ми могли б зустрітися завтра о десятій годині».\n\n3. Побажання та емоційне припущення (Desiderative & Hypothetical Wish):\n   - «Хотілося б вірити, що все складеться якнайкраще»;\n   - «О, якби ж то скоріше закінчилася ця війна!»;\n   - «Краще було б усе спланувати заздалегідь».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Чи не могли б ви надіслати фінальний текст презентації до кінця робочого дня?",
+          "reading": "[tʃɪ nɛ mɔɦˈlɪ b wɪ nɐdʲisˈlɑtɪ fʲinɐlʲnɪj tɛkst prɛzɛnˈtɑt͡sʲiji dɔ kʲinʲˈt͡sʲɑ rɔˈbɔtʃɔɦɔ dnʲɑ] (chy neh moh-LY b vy nah-dees-LAH-ty fee-NAHL'-nyy tekst preh-zen-TAH-tsee-yee doh keen-TSYAH roh-BOH-choh-hoh dnyah)",
+          "translation": "Could you please send the final text of the presentation by the end of the workday?"
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 17-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Я щиро радив би вам проконсультуватися з провідними юридичними експертами.",
+          "reading": "[jɑ ˈʃtʃɪrɔ ˈrɑdɪw bɪ wɑm prɔkɔnsulʲtuˈwɑtɪsʲɑ z prɔwʲidˈnɪmɪ jurɪˈdɪtʃnɪmɪ ɛksˈpɛrtɐmɪ] (yah SHCHY-roh RAH-dyv by vahm proh-kohn-sool'-too-VAH-tys'-yah z proh-veed-NY-my yoo-ry-DYCH-ny-my eks-PEHR-tah-my)",
+          "translation": "I would sincerely advise you to consult with leading legal experts."
+        },
+        {
+          "target": "Хотілося б щиро подякувати всім колегам за плідну та злагоджену командну працю.",
+          "reading": "[xɔˈtʲilɔsʲɑ b ˈʃtʃɪrɔ pɔˈdʲɑkuwɐtɪ wsʲim kɔˈlɛɦɐm zɑ ˈplʲidnu tɑ zlɑˈɦɔdʒɛnu kɔˈmɑndnu ˈprɑt͡sʲu] (khoh-TEE-lohs'-yah b SHCHY-roh poh-DYAH-koo-vah-ty vseem koh-LEH-hahm zah PLEED-noo tah zlah-HOH-dzheh-noo koh-MAHND-noo PRAH-tsyoo)",
+          "translation": "I would like to sincerely thank all colleagues for their fruitful and harmonious teamwork."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Хочеш бути ввічливим — додай частку «б/би»: «чи не могли б ви», «я радив би», «хотілося б»!"
+      ],
+      "culturalNotes": [
+        "Формули ввічливості з часткою «б/би» є стандартом українського дипломатичного та академічного етикету."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Здоров'я\":",
+          "prompt": "Оберіть найбільш етикетну та ввічливу форму прохання до колеги:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.4.",
-            "Неправильне відмінкове узгодження зі словом «Лікарня»",
-            "Порушення законів евфонії та словотворення для «Температура»",
-            "Стилістично некоректна синтаксична конструкція з «Голова»"
+            "Чи не могли б ви допомогти мені з цим звітом? (Polite request with subjunctive particle б)",
+            "Допоможіть мені негайно зі звітом!",
+            "Ти повинен допомогти мені зі звітом.",
+            "Зроби мені звіт зараз же."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Конструкція «Чи не могли б ви...» є еталоном ввічливого ділового прохання."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Здоров'я\":",
+          "prompt": "Яке модальне значення має вислів «Я радив би вам звернути увагу на деталі»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.4.",
-            "Порушення законів евфонії та словотворення для «Температура»",
-            "Стилістично некоректна синтаксична конструкція з «Голова»",
-            "Неправильне відмінкове узгодження зі словом «Лікарня»"
+            "Пом'якшена ненав'язлива порада (Gentle polite advice)",
+            "Суворий військовий наказ",
+            "Реальний факт минулого часу",
+            "Фізична дія переміщення"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Умовний спосіб у виразі «я радив би» виражає тактовну ненав'язливу пораду."
         }
       ]
     },
@@ -7315,17 +7354,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Здоров'я\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому модальну форму ввічливої вдячності виражено бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.4.",
-            "Стилістично некоректна синтаксична конструкція з «Голова»",
-            "Неправильне відмінкове узгодження зі словом «Лікарня»",
-            "Порушення законів евфонії та словотворення для «Температура»"
+            "Хотілося б щиро подякувати всім організаторам за чудово проведену конференцію.",
+            "Хотілося би щиро подякувати всім.",
+            "Хотілось б подякувати всім.",
+            "Я хотів би подякувати вам негайно."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Після голосного [а] в слові «хотілося» за правилами евфонії стоїть частка «б»: «хотілося б подякувати»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u17-l5": {
@@ -7333,53 +7373,62 @@
     "subject": "ukrainian",
     "unit": 17,
     "lessonNumber": 5,
-    "title": "Умовний спосіб дієслів із часткою би/б (Subjunctive) (Part 5)",
+    "title": "Правопис сполучників «якби», «щоб», «аби» vs «як би», «що б» (Orthography & Nuances)",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 17.5) with authentic linguistic precision.",
+    "objective": "Опанувати чітке розрізнення та правопис складних сполучників (якби, щоб, аби, немовби, начебто) та однозвучних займенників/прислівників із частками (як би, що б, а би).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Розрізнення написання сполучників разом та співзвучних самостійних слів із частками окремо є одним із найважливіших орфографічних правил української мови:\n\n1. «Якби» (разом) vs «Як би» (окремо):\n   - «Якби» — сполучник умови, який можна замінити на «коли б / якщо б»:\n     * «Якби я знав, я б сказав» (= Коли б я знав).\n   - «Як би» — прислівник «як» + частка «би», де частку можна переставити або вилучити, а до слова «як» поставити питання:\n     * «Як би краще виконати цю роботу?» (частку можна вилучити: «Як краще виконати?»);\n     * «Як би важко не було, ми не здамося».\n\n2. «Щоб» (разом) vs «Що б» (окремо):\n   - «Щоб» — сполучник мети, який можна замінити на «аби / для того щоб»:\n     * «Ми прийшли, щоб допомогти» (= аби допомогти).\n   - «Що б» — займенник «що» (виступає членом речення) + частка «б»:\n     * «Що б ви нам порадили?» («що» є додатком, частку можна переставити: «Що ви б нам порадили?»);\n     * «Що б не трапилося, зберігайте спокій».\n\n3. Сполучники «аби», «немовби», «начебто»:\n   - Завжди пишуться РАЗОМ: аби тільки, немовби спочиває, начебто почув.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Якби ми не розпочали реформи вчасно, ми б не досягли таких вагомих результатів.",
+          "reading": "[jɐkˈbɪ mɪ nɛ rɔzpɔˈtʃɑlɪ rɛˈfɔrmɪ ˈwtʃɑsnɔ, mɪ b nɛ dɔsʲˈtʲɑɦlɪ ˈtɑkʲix wɐˈɦɔmɪx rɛzulʲˈtɑtʲiw] (yahk-BY my neh roz-poh-CHAH-ly reh-FOHR-my VCHAH-snoh, my b neh dohs-TYAHH-ly TAH-keekh vah-HOH-mykh reh-zool'-TAH-teew)",
+          "translation": "If we had not started the reforms on time, we would not have achieved such significant results."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 17-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Що б не трапилося в майбутньому, ми збережемо нашу національну єдність і гідність.",
+          "reading": "[ʃtʃɔ b nɛ trɐˈpɪlɔsʲɑ w mɐjˈbutnʲɔmu, mɪ zbɛrɛˈʒɛmɔ ˈnɑʃu nɐt͡sʲiɔˈnɑlʲnu ˈjɛdnʲisʲtʲ i ˈɦʲidnʲisʲtʲ] (shchoh b neh trah-PY-lohs'-yah v mahy-BOOT-nyoh-moo, my zbeh-reh-ZHEH-moh NAH-shoo nah-tsee-oh-NAHL'-noo YED-neest' ee HEED-neest')",
+          "translation": "Whatever happens in the future, we will preserve our national unity and dignity."
+        },
+        {
+          "target": "Треба працювати злагоджено, аби наша спільна справа увінчалася цілковитим успіхом.",
+          "reading": "[ˈtrɛbɐ prɐt͡sʲuˈwɑtɪ ˈzlɑɦɔdʒɛnɔ, ˈɑbɪ ˈnɑʃɐ ˈspʲilʲnɐ ˈsprɑwɐ uwʲinˈtʃɑlɐsʲɑ t͡sʲilkɔˈwɪtɪm ˈusʲpʲixɔm] (TREH-bah praht-syoo-VAH-ty ZLAH-hoh-dzheh-noh, AH-by NAH-shah SPEEL'-nah SPRAH-wah oo-veen-CHAH-lahs'-yah tsee-lkoh-VY-tym OOS-pee-khohm)",
+          "translation": "We need to work harmoniously so that our common cause is crowned with total success."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Можна вилучити частку без втрати змісту («Що ви порадили б?») — пиши ОКРЕМО «що б»! Замінюється на «аби/коли б» — пиши РАЗОМ «щоб/якби»!"
+      ],
+      "culturalNotes": [
+        "Правильний правопис «якби / як би» та «щоб / що б» є обов'язковим критерієм оцінювання на Національному мультипредметному тесті (НМТ) з української мови."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Лікарня\":",
+          "prompt": "Оберіть правильний варіант написання у реченні «... не було важко, ми обов'язково подолаємо всі перешкоди»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.5.",
-            "Неправильне відмінкове узгодження зі словом «Температура»",
-            "Порушення законів евфонії та словотворення для «Голова»",
-            "Стилістично некоректна синтаксична конструкція з «Серце»"
+            "Як би (Pronoun/adverb + particle: no matter how hard it might be)",
+            "Якби",
+            "Як-би",
+            "Якиби"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "У значенні «якою б мірою не було важко» пишеться окремо: «Як би не було важко» (частку «би» можна переставити: «Як не було б важко»)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Лікарня\":",
+          "prompt": "У якому реченні виділене слово «щоб / що б» пишеться ОКРЕМО?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.5.",
-            "Порушення законів евфонії та словотворення для «Голова»",
-            "Стилістично некоректна синтаксична конструкція з «Серце»",
-            "Неправильне відмінкове узгодження зі словом «Температура»"
+            "Що б ви хотіли змінити в цьому проєкті? (Pronoun що + particle б)",
+            "Ми вчимося, щоб знати більше.",
+            "Треба поспішати, щоб не запізнитися.",
+            "Він зробив усе, щоб допомогти другові."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "У питанні «Що б ви хотіли змінити?» слово «що» є займенником (додатком), тому пишеться окремо з часткою «б»."
         }
       ]
     },
@@ -7387,17 +7436,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Лікарня\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому ВСІ сполучники та частки написано орфографічно правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 17.5.",
-            "Стилістично некоректна синтаксична конструкція з «Серце»",
-            "Неправильне відмінкове узгодження зі словом «Температура»",
-            "Порушення законів евфонії та словотворення для «Голова»"
+            "Якби ми знали про труднощі заздалегідь, ми б усе одно діяли так, щоб перемогти.",
+            "Як би ми знали про труднощі заздалегідь, ми б усе одно діяли так, що б перемогти.",
+            "Якби ми знали, ми б діяли так, що б перемогти.",
+            "Як би ми знали, ми би діяли так, щоб перемогти."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Сполучник умови «Якби» та сполучник мети «щоб» у цьому контексті пишуться разом."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u18-l1": {
