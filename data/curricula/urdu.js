@@ -895,53 +895,62 @@
     "subject": "urdu",
     "unit": 2,
     "lessonNumber": 1,
-    "title": "اسم، جنس اور جمع کے اصول (Nouns, Gender & Plurals) (Part 1)",
+    "title": "اسم کی اقسام اور تذکیر و تانیث کی بنیادی تقسیم (Nouns & Grammatical Gender)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 2.1) with authentic precision.",
+    "objective": "اردو اسماء کی بنیادی تقسیم (اسم خاص و عام)، جنسِ حقیقی و غیر حقیقی، اور مذکر و مؤنث کی بنیادی علامات کو سمجھنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں اسم اور تذکیر و تانیث (Gender) کے بنیادی قواعد:\n\n1. **جنسِ حقیقی اور جنسِ غیر حقیقی**:\n   - **جنسِ حقیقی** — جاندار اشیاء کی قدرتی جنس (جیسے: مرد / عورت، بیٹا / بیٹی، شیر / شیرنی)؛\n   - **جنسِ غیر حقیقی** — بے جان اشیاء کی نحوی جنس جو کلامِ اہل زبان کے مطابق مقرر ہوتی ہے (جیسے: قلم مذکر ہے، کتاب مؤنث ہے)۔\n\n2. **مذکر اسماء کی عمومی علامات**:\n   - جن اسماء کے آخر میں الف (ا) یا ہائے مختفی (ہ) آئے، وہ عموماً مذکر ہوتے ہیں (جیسے: لڑکا، کمرہ، دروازہ، پردہ، راستہ)۔\n\n3. **مؤنث اسماء کی عمومی علامات**:\n   - جن اسماء کے آخر میں چھوٹی یے (ی) آئے، وہ عموماً مؤنث ہوتے ہیں (جیسے: لڑکی، گاڑی، کاپی، کھڑکی، روٹی)۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "یہ بڑا کمرہ اور لمبا راستہ دونوں مذکر اسماء ہیں جن کے آخر میں الف یا ہ آتا ہے۔",
+          "reading": "Yeh bada kamrah aur lamba raasta donon muzakkar asmaa hain jin ke aakhir mein alif ya he aata hai. [jɛh bəɽaː kəmraː ɔːr ləmbaː raːst̪aː d̪oːnõː mʊzəkːər əsmaː hɛ̃ː dʒɪn keː aːxɪr mẽː əlɪf jaː ɦeː aːt̪aː hɛː] (YEH buh-DAH kuhm-RAH owr luhm-BAH rah-STAH DOH-nohn moo-ZUK-kuhr uhs-MAH hyhn jeen kay ah-KHEER mayn uh-LEEF yah HAY ah-TAH hy)",
+          "translation": "This large room and long path are both masculine nouns ending in alif or he."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 2-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "میری چھوٹی گاڑی اور نئی کتاب دونوں مؤنث اسماء ہیں اور ان کے ساتھ مؤنث صفت آتی ہے۔",
+          "reading": "Meri chhoti gaadi aur nayi kitaab donon muannas asmaa hain aur in ke saath muannas sifat aati hai. [meːriː tʃʰoːʈiː ɡaːɽiː ɔːr nəiː kɪt̪aːb d̪oːnõː mʊʔənːəs əsmaː hɛ̃ː ɔːr ɪn keː saːt̪ʰ mʊʔənːəs sɪfət̪ aːt̪iː hɛː] (MAY-ree choh-TEE gah-DEE owr nuh-YEE kee-TAHB DOH-nohn moo-UHN-nuhs uhs-MAH hyhn owr ees kay sahth moo-UHN-nuhs see-FUHT ah-TEE hy)",
+          "translation": "My small car and new book are both feminine nouns and take feminine adjectives with them."
+        },
+        {
+          "target": "اردو میں ہر بے جان شے کی تذکیر و تانیث اہلِ زبان کے روزمرہ اور فصحاء کے استعمال پر منحصر ہے۔",
+          "reading": "Urdu mein har be-jaan shai ki tazkeer-o-taanees ahl-e-zabaan ke rozmarrah aur fusahaa ke istemaal par munhasir hai. [ʊrd̪uː mẽː hər beː-dʒaːn ʃɛː kiː t̪əzkiːr-oː-t̪aːniːs əɦl-eː-zəbaːn keː roːzmərːəh ɔːr fʊsəhaː keː ɪst̪eːmaːl pər mʊnɦəsɪr hɛː] (OOR-doo mayn HUHR bay-JAHN SHY kee tuhz-KEER-oh-tah-NEES uhhl-ay-zuh-BAHN kay rohz-muhr-RUH owr foo-suh-HAH kay ees-tay-MAHL puhr moon-huh-SEER hy)",
+          "translation": "In Urdu, the grammatical gender of every inanimate object depends upon the daily usage and idioms of native speakers."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "اسم جنس: الف/ہ مذکر (لڑکا، کمرہ)، ی مؤنث (لڑکی، گاڑی)، تذکیر و تانیث مطابقت!"
+      ],
+      "culturalNotes": [
+        "اردو میں بے جان اشیاء کی تذکیر و تانیث کا تعین شعراء اور اہلِ لکھنؤ و دہلی کے کلام سے کیا جاتا ہے، جہاں زبان کی لطافت اور صوتی توازن کو اولین ترجیح حاصل ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"خوش آمدید\":",
+          "prompt": "عمومی قواعد کے تحت الف (ا) یا ہائے مختفی (ہ) پر ختم ہونے والے اردو اسماء عام طور پر کیا ہوتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («مبارک» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ناشتہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دوپہر کا کھانا» کی خرابی)"
+            "مذکر اسماء (Masculine Nouns - Typically ending in alif or he, e.g., kamra, rasta)",
+            "مؤنث اسماء (Feminine nouns)",
+            "غیر جنس اسماء (Neutral nouns)",
+            "فعل کے اوزان (Verb measures)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "الف یا ہ پر ختم ہونے والے اسماء عموماً «مذکر» ہوتے ہیں (جیسے: کمرہ، پردہ، راستہ)۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"خوش آمدید\":",
+          "prompt": "مندرجہ ذیل میں سے خالص مؤنث اسم کی درست مثال کون سی ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ناشتہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دوپہر کا کھانا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («مبارک» کا غیر درست استعمال)"
+            "گاڑی / کتاب (Vehicle / Book - Authentic feminine inanimate nouns in Urdu)",
+            "کمرہ / دروازہ (مذکر اسماء)",
+            "پنکھا / پردہ (مذکر اسماء)",
+            "راستہ / میدان (مذکر اسماء)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«گاڑی» اور «کتاب» دونوں اردو میں مؤنث بولے جاتے ہیں۔"
         }
       ]
     },
@@ -949,17 +958,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"خوش آمدید\": Which sentence is completely correct?",
+          "prompt": "اسم کی جنس اور تذکیر و تانیث (Noun Gender) کا مکمل اور درست جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دوپہر کا کھانا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («مبارک» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ناشتہ» سے متعلق)"
+            "یہ کشادہ کمرہ اور روشن چراغ مذکر ہیں جبکہ وہ خوبصورت کھڑکی اور لمبی سڑک مؤنث ہیں۔ (This spacious room and bright lamp are masculine, while that beautiful window and long road are feminine.)",
+            "اردو میں تمام جاندار اور بے جان اشیاء صرف مؤنث ہوتی ہیں۔",
+            "کمرہ مؤنث ہے اس لیے 'بڑی کمرہ' کہنا چاہیے۔",
+            "تذکیر و تانیث کا مطلب الٹا لکھنا ہوتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«یہ کشادہ کمرہ اور روشن چراغ مذکر ہیں جبکہ وہ خوبصورت کھڑکی اور لمبی سڑک مؤنث ہیں۔» جنس کا درست جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u2-l2": {
@@ -967,53 +977,62 @@
     "subject": "urdu",
     "unit": 2,
     "lessonNumber": 2,
-    "title": "اسم، جنس اور جمع کے اصول (Nouns, Gender & Plurals) (Part 2)",
+    "title": "تذکیر و تانیث کے قواعد اور استثناء (Gender Rules, Markers & Exceptions)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 2.2) with authentic precision.",
+    "objective": "پانی، دہی، گھی، موتی جیسے استثنائی مذکر اور ہوا، دوا، دعا جیسی استثنائی مؤنث کے درست لسانی استعمال میں مہارت پانا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو تذکیر و تانیث کے اہم استثناء (Exceptions) اور صفت-فعل کا ربط:\n\n1. **چھوٹی یے (ی) والے استثنائی مذکر اسماء**:\n   - اکثر 'ی' والے الفاظ مؤنث ہوتے ہیں، مگر درج ذیل الفاظ ہمیشہ **مذکر** بولے جاتے ہیں:\n     - پانی، گھی، دہی، موتی، ہاتھی، قاضی، جی، درزی (جیسے: «پانی ٹھنڈا ہے»، «دہی کھٹا ہے»)۔\n\n2. **الف پر ختم ہونے والے استثنائی مؤنث اسماء**:\n   - اکثر الف والے الفاظ مذکر ہوتے ہیں، مگر درج ذیل الفاظ ہمیشہ **مؤنث** بولے جاتے ہیں:\n     - ہوا، دعا، دوا، قضا، التجا، فضا، سزا، شفا (جیسے: «ٹھنڈی ہوا چلی»، «میری دعا قبول ہوئی»)۔\n\n3. **فعل اور صفت پر اثر**:\n   - مذکر اسم کے ساتھ: «تازہ دہی خریدا گیا»؛ مؤنث اسم کے ساتھ: «کڑوی دوا پی لی گئی۔»*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "پانی، دہی اور گھی آخر میں 'ی' رکھنے کے باوجود اردو قواعد میں مذکر بولے جاتے ہیں۔",
+          "reading": "Paani, dahi aur ghee aakhir mein 'ye' rakhne ke baawujood Urdu qawaaid mein muzakkar bole jaate hain. [paːniː d̪əɦiː ɔːr ɡʱiː aːxɪr mẽː jeː rəkʰneː keː baːʋʊdʒuːd̪ ʊrd̪uː qəʋaːʔɪd̪ mẽː mʊzəkːər boːleː dʒaːt̪eː hɛ̃ː] (PAH-nee, DUH-hee owr GHEE ah-KHEER mayn YAY ruhkh-NAY kay bah-voo-JOOD OOR-doo quh-wah-EED mayn moo-ZUK-kuhr boh-LAY jah-TAY hyhn)",
+          "translation": "Water, yogurt, and clarified butter are treated as masculine in Urdu grammar despite ending in the letter 'ye.'"
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 2-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "سردیوں میں صبح کے وقت ٹھنڈی اور خوشگوار ہوا چلتی ہے جو طبیعت کو تازگی بخشتی ہے۔",
+          "reading": "Sardiyon mein subah ke waqt thandi aur khushgawaar hawa chalti hai jo tabeeyat ko taazgi bakhshti hai. [sərd̪ɪjõː mẽː sʊbəh keː ʋəqt̪ t̪ʰəɳɖiː ɔːr xʊʃɡəʋaːr ɦəʋaː tʃəlt̪iː hɛː dʒoː t̪əbiːʔət̪ koː t̪aːzɡiː bəxʃt̪iː hɛː] (suhr-dee-YOHN mayn SOO-buh kay VUHKT thuhn-DEE owr khoosh-guh-VAHR huh-VAH chuhl-TEE hy joh tuh-bee-YUHT koh tahz-GEE buhkhsh-TEE hy)",
+          "translation": "In winter mornings, a cold and pleasant breeze blows, bestowing freshness upon the disposition."
+        },
+        {
+          "target": "مریض کے لیے ڈاکٹر نے مفید دوا تجویز کی اور اس کی جلد صحتیابی کی مخلصانہ دعا کی۔",
+          "reading": "Mareez ke liye doctor ne mufeed dawa tajweez kee aur us ki jald sehtyaabi ki mukhlisaana dua kee. [məriːz keː lɪjeː ɖɔːkʈər neː mʊfiːd̪ d̪əʋaː t̪ədʒʋiːz kiː ɔːr ʊs kiː dʒəld̪ sɪhət̪jaːbiː kiː mʊxlɪsaːnəh d̪ʊʔaː kiː] (muh-REEZ kay lee-AY doctor nay moo-FEED duh-VAH tuhj-VEEZ KEE owr oos kee JUHLD seh-tuh-yah-BEE kee mookh-lee-sah-NUH doo-AH KEE)",
+          "translation": "The doctor prescribed beneficial medicine for the patient and made a sincere prayer for his speedy recovery."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "استثناء: پانی، دہی، گھی، موتی (مذکر ہیں!)، ہوا، دوا، دعا، سزا (مؤنث ہیں!)"
+      ],
+      "culturalNotes": [
+        "اردو امتحانات اور ادبی مباحثوں میں 'دہی کھٹی ہے' بولنا فاش غلطی مانا جاتا ہے؛ فصیح اہل زبان ہمیشہ 'دہی کھٹا ہے' اور 'پانی ٹھنڈا ہے' بولتے ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"مبارک\":",
+          "prompt": "اردو زبان میں لفظ «پانی» اور «دہی» کی درست تذکیر و تانیث کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («ناشتہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دوپہر کا کھانا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («رات کا کھانا» کی خرابی)"
+            "مذکر اسماء (Masculine - 'Paani' and 'Dahi' are standard masculine exceptions ending in 'ye')",
+            "مؤنث اسماء (Feminine nouns)",
+            "دونوں مستعمل ہیں (Both equally used)",
+            "کوئی جنس نہیں (No gender)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«پانی» اور «دہی» اردو کے مسلمہ استثنائی «مذکر» اسماء ہیں (جیسے: پانی ٹھنڈا ہے، دہی کھٹا ہے)۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"مبارک\":",
+          "prompt": "لفظ «ہوا» اور «دوا» کے ساتھ صفت کا درست استعمال کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دوپہر کا کھانا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («رات کا کھانا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ناشتہ» کا غیر درست استعمال)"
+            "ٹھنڈی ہوا / کڑوی دوا (Cold breeze / Bitter medicine - Correct feminine adjective agreement)",
+            "ٹھنڈا ہوا / کڑوا دوا (مذکر صفت کی غلطی)",
+            "ٹھنڈے ہوا / کڑوے دوا (جمع کی غلطی)",
+            "ٹھنڈوں ہوا / کڑووں دوا (غیر معیاری)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«ہوا» اور «دوا» مؤنث ہیں، لہٰذا ان کے ساتھ «ٹھنڈی ہوا» اور «کڑوی دوا» درست ہے۔"
         }
       ]
     },
@@ -1021,17 +1040,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"مبارک\": Which sentence is completely correct?",
+          "prompt": "تذکیر و تانیث کے استثناء (Gender Exceptions & Concord) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («رات کا کھانا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ناشتہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دوپہر کا کھانا» سے متعلق)"
+            "گلاس میں ٹھنڈا پانی بھرا ہے اور مریض نے ڈاکٹر کی دی ہوئی مفید دوا پی لی ہے۔ (The glass is filled with cold water [masculine], and the patient drank the beneficial medicine [feminine] given by the doctor.)",
+            "پانی بہت میٹھی ہے اور ہوا بہت تیز چلتا ہے۔",
+            "دہی کھٹی ہو گئی ہے اس لیے پھینک دو۔",
+            "دوا اچھا تھا لیکن گھی خراب تھی۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«گلاس میں ٹھنڈا پانی بھرا ہے اور مریض نے... مفید دوا پی لی ہے۔» پانی (مذکر) اور دوا (مؤنث) کا بالکل درست استعمال ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u2-l3": {
@@ -1039,53 +1059,62 @@
     "subject": "urdu",
     "unit": 2,
     "lessonNumber": 3,
-    "title": "اسم، جنس اور جمع کے اصول (Nouns, Gender & Plurals) (Part 3)",
+    "title": "واحد سے جمع بنانے کے بنیادی اردو اصول (Regular Urdu Pluralization)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 2.3) with authentic precision.",
+    "objective": "مذکر اسماء (لڑکا سے لڑکے)، مؤنث یے والے (لڑکی سے لڑکیاں) اور صامت والے (کتاب سے کتابیں) کی جمع بنانے کے اصولوں میں مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں واحد سے جمع (Singular to Plural) بنانے کے بنیادی باقاعدہ اصول:\n\n1. **مذکر اسماء کی جمع (الف / ہ -> ے)**:\n   - جن مذکر اسماء کے آخر میں الف (ا) یا ہائے مختفی (ہ) ہو، ان کی جمع الف/ہ کو بڑی ے میں بدل کر بنتی ہے (جیسے: لڑکا -> لڑکے، کمرہ -> کمرے، پردہ -> پردے، دروازہ -> دروازے)؛\n   - بغیر الف/ہ والے مذکر اسماء کی فاعلی حالت میں جمع نہیں بدلتی (جیسے: ایک درخت -> دس درخت، ایک شہر -> کئی شہر)۔\n\n2. **مؤنث اسماء جن کے آخر میں 'ی' ہو (ی -> یاں)**:\n   - چھوٹی یے پر ختم ہونے والے مؤنث اسماء کی جمع آخر میں الف اور نون غنہ لگا کر بنتی ہے (جیسے: لڑکی -> لڑکیاں، کھڑکی -> کھڑکیاں، گاڑی -> گاڑیاں، کاپی -> کاپیاں)۔\n\n3. **مؤنث اسماء جن کے آخر میں صامت (Consonant) ہو (-> یں)**:\n   - حرفِ صحیح (صامت) پر ختم ہونے والے مؤنث اسماء کے آخر میں 'یں' (یے نون غنہ) بڑھایا جاتا ہے (جیسے: کتاب -> کتابیں، رات -> راتیں، آنکھ -> آنکھیں، میز -> میزیں)۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "باغ میں اونچے درختوں کے سائے تلے ننھے لڑکے اور بچیاں کھیل رہے ہیں۔",
+          "reading": "Baagh mein oonche darakhton ke saaye talay nannhe ladke aur bachchiyaan khel rahe hain. [baːɣ mẽː uːntʃeː d̪ərəxt̪õː keː saːjeː t̪əleː nənːɦeː ləɽkeː ɔːr bətʃːɪjaː̃ kʰeːl rəɦeː hɛ̃ː] (BAHGH mayn OON-chay duh-ruhkh-TOHN kay SAH-yay tuh-LAY nuhn-NHAY LUHD-kay owr buhch-chee-YAHN khayl ruh-HAY hyhn)",
+          "translation": "In the garden beneath the shade of tall trees, little boys and girls are playing."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 2-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "لائبریری کی الماریوں میں پرانی اور نایاب کتابیں انتہائی سلیقے سے سجی ہوئی ہیں۔",
+          "reading": "Library ki almaariyon mein puraani aur naayaab kitaabein intihaai saleeqay se saji hui hain. [laːɪbreːriː kiː əlmaːrɪjõː mẽː pʊraːniː ɔːr naːjaːb kɪt̪aːbẽː ɪnt̪ɪhaːiː səliːqeː seː sədʒiː ɦʊiː hɛ̃ː] (library kee uhl-mah-ree-YOHN mayn poo-RAH-nee owr nah-YAHB kee-tah-BAYN een-tee-HAH-ee suh-LEE-kay say suh-JEE hoo-EE hyhn)",
+          "translation": "In the library cupboards, old and rare books are arranged with great neatness."
+        },
+        {
+          "target": "کمرے کے تمام دروازے اور کھڑکیاں کھول دیجیے تاکہ تازہ ہوا اور دھوپ اندر آ سکے۔",
+          "reading": "Kamre ke tamaam darwaaze aur khidkiyaan khol deejiye taake taazah hawa aur dhoop andar aa sakay. [kəmreː keː t̪əmaːm d̪ərʋaːzeː ɔːr xɪɽkɪjaː̃ kʰoːl d̪iːdʒɪjeː t̪aːkɪ t̪aːzəh ɦəʋaː ɔːr d̪ʱuːp ənd̪ər aː səkeː] (kuhm-RAY kay tuh-MAHM duhr-VAH-zay owr kheed-kee-YAHN khohl DEE-jee-yay tah-KAY tah-ZUH huh-VAH owr DHOOP uhn-DUHR ah SUH-kay)",
+          "translation": "Open all the doors and windows of the room so that fresh air and sunshine can come inside."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جمع کے اصول: لڑکا -> لڑکے (الف سے ے)، لڑکی -> لڑکیاں (ی سے یاں)، کتاب -> کتابیں (صامت سے یں)!"
+      ],
+      "culturalNotes": [
+        "اردو میں جمع کے ساتھ فعل کی ہم آہنگی لازمی ہے؛ مذکر جمع کے ساتھ 'ہیں/تھے' اور مؤنث جمع کے ساتھ 'تھیں/رہیں' بولا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"ناشتہ\":",
+          "prompt": "اردو لفظ «کتاب» (مؤنث اسم) کی درست جمع کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («دوپہر کا کھانا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («رات کا کھانا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پانی» کی خرابی)"
+            "کتابیں (Kitaabein - Correct plural of consonant-ending feminine noun)",
+            "کتابوں (حالت مغیرہ)",
+            "کتابات (غیر فصیح)",
+            "کتابیاں (غلط لاحقہ)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "صامت پر ختم ہونے والے مؤنث اسم کی جمع «یں» لگا کر بنتی ہے: کتاب -> «کتابیں»۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"ناشتہ\":",
+          "prompt": "اردو لفظ «کھڑکی» (مؤنث اسم) کی درست جمع کیا ہوگی؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («رات کا کھانا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پانی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دوپہر کا کھانا» کا غیر درست استعمال)"
+            "کھڑکیاں (Khidkiyaan - Plural of feminine noun ending in 'ye')",
+            "کھڑکے (مذکر لاحقہ)",
+            "کھڑکیں (صامت لاحقہ)",
+            "کھڑکیوں (مغیرہ جمع)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "چھوٹی یے پر ختم ہونے والے مؤنث اسم کی جمع «یاں» کے ساتھ «کھڑکیاں» ہوتی ہے۔"
         }
       ]
     },
@@ -1093,17 +1122,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"ناشتہ\": Which sentence is completely correct?",
+          "prompt": "واحد اور جمع کے درست امتزاج (Pluralization Syntax) کا مکمل معیاری جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پانی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دوپہر کا کھانا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («رات کا کھانا» سے متعلق)"
+            "سکول کے تمام کمرے صاف ہیں، اور میزوں پر نئی کاپیاں اور کتابیں رکھی ہوئی ہیں۔ (All rooms [kamray] of the school are clean, and new notebooks [kaapiyaan] and books [kitaabein] are placed on the desks.)",
+            "ایک لڑکا کھیل رہے ہیں اور بہت سی لڑکیاں بھاگتا ہے۔",
+            "کتاب کی جمع کتابا ہوتی ہے اور دروازہ کی جمع دروازیاں ہے۔",
+            "تمام کمرہ کو تالا لگا دیجیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«سکول کے تمام کمرے صاف ہیں، اور میزوں پر نئی کاپیاں اور کتابیں رکھی ہوئی ہیں۔» تمام جمع اشکال کا درست جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u2-l4": {
@@ -1111,53 +1141,62 @@
     "subject": "urdu",
     "unit": 2,
     "lessonNumber": 4,
-    "title": "اسم، جنس اور جمع کے اصول (Nouns, Gender & Plurals) (Part 4)",
+    "title": "عربی و فارسی طرز کی باقاعدہ و بے قاعدہ جمع (Arabic & Persian Plural Formations in Urdu)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 2.4) with authentic precision.",
+    "objective": "عربی لاحقہ -ات (معلومات)، فارسی لاحقہ -ان (صاحبان) اور عربی جمع مکسر (کتب، مساجد، ممالک) کی پہچان اور فصیح استعمال میں مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو میں مستعمل عربی اور فارسی اوزان کی جمع کے اصول:\n\n1. **عربی لاحقہ '-ات' (-aat)**:\n   - بہت سے عربی و فارسی الاصل اسماء کے آخر میں '-ات' لگا کر جمع بنائی جاتی ہے (جیسے: کاغذ -> کاغذات، مکان -> مکانات، جذبہ -> جذبات، تفصیل -> تفصیلات، معلومات، احکامات)۔\n\n2. **فارسی لاحقہ '-ان' (-aan)**:\n   - جاندار اور معزز اسماء کے ساتھ فارسی لاحقہ '-ان' مستعمل ہے (جیسے: صاحب -> صاحبان، دوست -> دوستاں، استاد -> استادان)۔\n\n3. **عربی جمع مکسر (Broken Plurals)**:\n   - وہ جمع جس میں واحد لفظ کے اندرونی حروف کی ترتیب اور اعراب بدل جاتے ہیں:\n     - مسجد -> **مساجد**؛ ملک -> **ممالک**؛ کتاب -> **کتب**؛ دور -> **ادوار**؛ شخص -> **اشخاص**؛ سبب -> **اسباب**۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "وزارتِ خارجہ نے تمام ممالک کے سفیروں کے نام اہم سرکاری پیغامات اور بیانات جاری کیے۔",
+          "reading": "Wazaarat-e-khaarija ne tamaam mamaalik ke safeeron ke naam aham sarkaari paighaamaat aur bayaanaat jaari kiye. [ʋəzaːrət̪-eː-xaːrɪdʒaː neː t̪əmaːm məmaːlɪk keː səfiːrõː keː naːm əɦəm sərkaːriː pɛːɣaːmaːt̪ ɔːr bəjaːnaːt̪ dʒaːriː kɪjeː] (vuh-zah-RUHT-ay-khah-ree-JAH nay tuh-MAHM muh-MAH-leek kay suh-fee-ROHN kay NAHM UH-huhm suhr-kah-REE py-ghah-MAHT owr buh-yah-NAHT jah-REE kee-YAY)",
+          "translation": "The Ministry of Foreign Affairs issued important official messages and statements addressed to ambassadors of all nations."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 2-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "قدیم کتب خانوں میں نادر مسودات اور اہم تاریخی دستاویزات محفوظ رکھی گئی ہیں۔",
+          "reading": "Qadeem kutub-khaanon mein naadir musawwadaat aur aham taareekhi dastaawezaat mehfooz rakhi gayi hain. [qəd̪iːm kʊt̪ʊb-xaːnõː mẽː naːd̪ɪr mʊsəʋːəd̪aːt̪ ɔːr əɦəm t̪aːriːxiː d̪əst̪aːʋeːzaːt̪ mɛɦfuːz rəkʰiː ɡəiː hɛ̃ː] (quh-DEEM koo-toob-khah-NOHN mayn NAH-deer moo-suhv-vuh-DAHT owr UH-huhm tah-REE-khee duhs-tah-vay-ZAHT muhh-FOOZ ruh-KHEE guh-YEE hyhn)",
+          "translation": "In ancient libraries, rare manuscripts and significant historical documents are safely preserved."
+        },
+        {
+          "target": "تمام حاضرین اور معزز صاحبانِ محفل نے شاعر کے پرتاثیر کلام پر دل کھول کر داد دی۔",
+          "reading": "Tamaam haazireen aur mohtaram saahibaan-e-mehfil ne shaa'ir ke pur-taaseer kalaam par dil khol kar daad dee. [t̪əmaːm ɦaːzɪriːn ɔːr moːɦt̪ərəm saːhɪbaːn-eː-mɛɦfɪl neː ʃaːʔɪr keː pʊr-t̪aːsiːr kəlaːm pər d̪ɪl kʰoːl kər d̪aːd̪ d̪iː] (tuh-MAHM hah-zee-REEN owr moh-tuh-RUHM sah-hee-BAHN-ay-muhh-FEEL nay shah-EER kay poor-tah-SEER kuh-LAHM puhr DEEL khohl kuhr DAHD DEE)",
+          "translation": "All attendees and respected members of the gathering generously applauded the poet's deeply moving verses."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "عربی و فارسی جمع: -ات (کاغذات/معلومات)، -ان (صاحبان)، جمع مکسر (ملک سے ممالک، کتاب سے کتب)!"
+      ],
+      "culturalNotes": [
+        "اردو کی علمی اور ادبی زبان میں عربی جمع مکسر اور لاحقہ -ات کا استعمال تحریر کو بے پناہ وقار، فصاحت اور کلاسیکی متانت بخشتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"دوپہر کا کھانا\":",
+          "prompt": "عربی قاعدے کے تحت لفظ «ملک» (Country) کی باوقار جمع مکسر کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («رات کا کھانا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پانی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دودھ» کی خرابی)"
+            "ممالک (Mamaalik - Arabic broken plural of 'mulk')",
+            "ملکوں (اردو عام جمع)",
+            "ملکات (غلط لاحقہ)",
+            "ملکان (فارسی لاحقہ)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "لفظ ملک کی عربی جمع مکسر «ممالک» ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"دوپہر کا کھانا\":",
+          "prompt": "عربی لاحقہ «-ات» (-aat) کے ذریعے بننے والی جمع کی درست مثال پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پانی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دودھ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («رات کا کھانا» کا غیر درست استعمال)"
+            "معلومات / دستاویزات (Information / Documents - Authentic plural forms with Arabic suffix -aat)",
+            "لڑکیات / کرسیات (غلط ساخت)",
+            "شہرات / گاؤںات (غیر مانوس)",
+            "درختات / پودات (غلط ساخت)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«معلومات» اور «دستاویزات» لاحقہ -ات کے ساتھ فصیح جمع کی مثالیں ہیں۔"
         }
       ]
     },
@@ -1165,17 +1204,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"دوپہر کا کھانا\": Which sentence is completely correct?",
+          "prompt": "عربی و فارسی جمع کے اوزان (Arabic & Persian Plural Usage) کا مکمل فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دودھ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («رات کا کھانا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پانی» سے متعلق)"
+            "اس علمی سیمینار میں مختلف ممالک سے آئے ہوئے مندوبین نے اپنے تحقیقی مقالات اور اہم نظریات پیش کیے۔ (In this academic seminar, delegates arriving from various countries [mamaalik] presented their research papers [maqaalaat] and key theories [nazriyaat].)",
+            "ممالک کی جمع ممالکات ہوتی ہے اور یہ دونوں غلط ہیں۔",
+            "کاغذات کو صرف آگ میں جلانے کے لیے جمع کہا جاتا ہے۔",
+            "صاحبان کا مطلب اکیلا فقیر آدمی ہوتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اس علمی سیمینار میں مختلف ممالک سے آئے ہوئے مندوبین نے اپنے تحقیقی مقالات اور اہم نظریات پیش کیے۔» عربی جمع کا فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u2-l5": {
@@ -1183,53 +1223,62 @@
     "subject": "urdu",
     "unit": 2,
     "lessonNumber": 5,
-    "title": "اسم، جنس اور جمع کے اصول (Nouns, Gender & Plurals) (Part 5)",
+    "title": "اسم، جنس، صفت اور جمع کا ہم آہنگ ترکیب و استعمال (Noun-Gender-Adjective-Plural Grand Agreement)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 2.5) with authentic precision.",
+    "objective": "صفت و موصوف (اچھا لڑکا / اچھے لڑکے / اچھی لڑکیاں)، فعل کی فاعل سے مطابقت اور تعظیمی جمع کے تمام اصولوں کا مکمل فصیح انطباق کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اسم، جنس، صفت اور جمع کی باہمی مطابقت (Concord & Agreement) کے جامع اصول:\n\n1. **صفت اور موصوف کی مطابقت**:\n   - مذکر واحد — «اچھا لڑکا»، «بڑا کمرہ»؛\n   - مذکر جمع — «اچھے لڑکے»، «بڑے کمرے»؛\n   - مؤنث واحد — «اچھی لڑکی»، «بڑی کھڑکی»؛\n   - مؤنث جمع — «اچھی لڑکیاں»، «بڑی کھڑکیاں» (صفت کی مؤنث شکل جمع میں بھی 'ی' پر ہی رہتی ہے)۔\n\n2. **فعل کی فاعل سے مطابقت**:\n   - فاعل مذکر واحد -> فعل مذکر واحد («طالب علم پڑھتا ہے»)؛\n   - فاعل مذکر جمع -> فعل مذکر جمع («طلبہ پڑھتے ہیں»)؛\n   - فاعل مؤنث واحد -> فعل مؤنث واحد («طالبہ پڑھتی ہے»)؛\n   - فاعل مؤنث جمع -> فعل مؤنث جمع («طالبات پڑھتی ہیں»)۔\n\n3. **تعظیمی جمع (Honorific Plural)**:\n   - *کسی ایک محترم بزرگ، والد یا استاد کے لیے واحد ہونے کے باوجود احتراماً جمع کا صیغہ استعمال ہوتا ہے (جیسے: «والد صاحب تشریف لائے ہیں»)*۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ہونہار طلبہ اور محنتی طالبات نے سالانہ امتحانات میں شاندار کامیابی حاصل کی۔",
+          "reading": "Honhaar talaba aur mehnati taalibaat ne saalaana imtehaanaat mein shaandaar kaamyaabi haasil kee. [ɦoːnɦaːr t̪ələbaː ɔːr mɛɦnət̪iː t̪aːlɪbaːt̪ neː saːlaːnəh ɪmt̪ɪhaːnaːt̪ mẽː ʃaːndaːr kaːmjaːbiː haːsɪl kiː] (hohn-HAHR tuh-luh-BAH owr muhh-nuh-TEE tah-lee-BAHT nay sah-lah-NUH eem-tuh-hah-NAHT mayn shahn-DAHR kahm-yah-BEE hah-SEEL KEE)",
+          "translation": "Talented male students and hardworking female students achieved splendid success in the annual examinations."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 2-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "محترم والد صاحب دفتر سے گھر تشریف لائے اور انہوں نے بچوں کے لیے میٹھے پھل خریدے۔",
+          "reading": "Mohtaram waalid sahab daftar se ghar tashreef laaye aur unhon ne bachchon ke liye meethe phal khareeday. [moːɦt̪ərəm ʋaːlɪd̪ saːhəb d̪əft̪ər seː ɡʱər t̪əʃriːf laːjeː ɔːr ʊnɦõː neː bətʃːõː keː lɪjeː miːtʰeː pʰəl xəriːd̪eː] (moh-tuh-RUHM vah-LEED sah-huhb duhf-TUHR say GHUHR tuhsh-REEF lah-YAY owr oon-HOHN nay buhch-CHOHN kay lee-AY mee-THAY FUHL khuh-REE-day)",
+          "translation": "Respected father arrived home from the office, and he bought sweet fruits for the children."
+        },
+        {
+          "target": "خوبصورت اور سرسبز باغات میں رنگ برنگے پھول کھلے ہیں اور ٹھنڈی ہوائیں چل رہی ہیں۔",
+          "reading": "Khoobsurat aur sarsabz baaghaat mein rang-bi-range phool khilay hain aur thandi hawaaein chal rahi hain. [xuːbsuːrət̪ ɔːr sərsəbz baːɣaːt̪ mẽː rəŋɡ-bɪ-rəŋɡeː pʰuːl kʰɪleː hɛ̃ː ɔːr t̪ʰəɳɖiː ɦəʋaːẽː tʃəl rəɦiː hɛ̃ː] (khoob-SOO-ruht owr suhr-SUHBZ bah-ghah-AHT mayn ruhng-bee-ruhn-GAY PHOOL khee-LAY hyhn owr thuhn-DEE huh-vah-AYN chuhl ruh-HEE hyhn)",
+          "translation": "In the beautiful and lush green gardens, colorful flowers have blossomed and cool breezes are blowing."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مطابقت کلیہ: اچھا لڑکا -> اچھے لڑکے، اچھی لڑکی -> اچھی لڑکیاں، تعظیمی جمع (والد صاحب آئے)!"
+      ],
+      "culturalNotes": [
+        "اردو زبان میں تہذیب کا تقاضا ہے کہ والدین، اساتذہ اور بزرگوں کے لیے ہمیشہ جمع کا صیغہ (جیسے: 'آپ فرماتے ہیں'، 'وہ تشریف لائے') استعمال کیا جائے، جسے تعظیمی صیغہ کہا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"رات کا کھانا\":",
+          "prompt": "مؤنث جمع اسم «لڑکیاں» کے ساتھ صفت «اچھا» کی درست شکل کیا ہوگی؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («پانی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دودھ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («چائے» کی خرابی)"
+            "اچھی لڑکیاں (Good girls - Feminine adjective form remains 'achhi' for both singular and plural)",
+            "اچھیاں لڑکیاں (غلط تانیث جمع)",
+            "اچھے لڑکیاں (مذکر جمع کی غلطی)",
+            "اچھوں لڑکیاں (مغیرہ غلطی)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "اردو میں مؤنث کی صفت واحد اور جمع دونوں کے ساتھ «اچھی» ہی رہتی ہے (جیسے: اچھی لڑکی، اچھی لڑکیاں)۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"رات کا کھانا\":",
+          "prompt": "کسی محترم بزرگ یا استاد کے لیے واحد ہوتے ہوئے بھی کون سا صیغہ بولنا شائستہ اور لازمی ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دودھ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («چائے» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («پانی» کا غیر درست استعمال)"
+            "تعظیمی جمع کا صیغہ (Honorific Plural - Using plural verb and pronoun 'aap/unhon' for singular elders)",
+            "واحد حقارت کا صیغہ (تو/وہ)",
+            "صرف اشارے کا صیغہ (یہ/وہ)",
+            "مجہول صیغہ (بے نام)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "بزرگوں کے احترام کے لیے واحد کے بجائے «تعظیمی جمع» (Honorific Plural) استعمال کی جاتی ہے۔"
         }
       ]
     },
@@ -1237,17 +1286,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"رات کا کھانا\": Which sentence is completely correct?",
+          "prompt": "اسم، جنس، صفت اور جمع کی کامل مطابقت (Grand Concord & Agreement) کا جامع جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («چائے» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («پانی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دودھ» سے متعلق)"
+            "ہمارے محترم اساتذہ کرام تشریف لائے ہیں اور انہوں نے ہونہار طلبہ اور محنتی طالبات کو شاندار انعامات عطا کیے۔ (Our respected teachers arrived [honorific plural], and they awarded splendid prizes to talented male students and hardworking female students.)",
+            "استاد آیا اور اس نے بولا کہ سب چپ بیٹھ جا۔",
+            "اچھیاں لڑکے اور اچھے لڑکیاں سب مل کر شور مچاتی ہے۔",
+            "تمام باغات میں پرانی کتاب کھل گئی ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہمارے محترم اساتذہ کرام تشریف لائے ہیں اور انہوں نے ہونہار طلبہ اور محنتی طالبات کو شاندار انعامات عطا کیے۔» مطابقت اور تعظیم کا مکمل اور فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u3-l1": {
