@@ -4995,53 +4995,62 @@
     "subject": "urdu",
     "unit": 12,
     "lessonNumber": 1,
-    "title": "امدادی افعال اور مرکب افعال (Compound Verbs with Vectors) (Part 1)",
+    "title": "امدادی فعل 'لینا' بمقابلہ 'دینا' (Self-benefactive لینا vs Other-benefactive دینا)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 12.1) with authentic precision.",
+    "objective": "مرکب افعال میں امدادی فعل 'لینا' (اپنے فائدے/اندرونی سمت) اور 'دینا' (دوسروں کے فائدے/بیرونی سمت) کے جوہری فرق اور استعمال پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں امدادی و مرکب افعال (Compound Verbs with Vectors: 'Lena' vs 'Dena'):\n\n1. **مرکب فعل کی ساخت**:\n   - **مادہ فعل (Verb Stem) + امدادی فعل (Conjugated Vector Verb)**؛\n\n2. **'لینا' (Self-benefactive / Inward Action)**:\n   - جب کام کا فائدہ یا اثر فاعل کی اپنی ذات کی طرف لوٹے:\n     - «میں نے کتاب **پڑھ لی**» (اپنے علم کے لیے)؛\n     - «اس نے کھانا **کھا لیا**»؛\n     - «طلبہ نے سبق **سمجھ لیا**»۔\n\n3. **'دینا' (Other-benefactive / Outward Action)**:\n   - جب کام کا رخ باہر کی طرف یا کسی دوسرے کے فائدے کے لیے ہو:\n     - «میں نے اسے حقیقت **بتا دی**»؛\n     - «ہم نے خط **بھیج دیا**»؛\n     - «اس نے کتاب لائبریری کو **واپس کر دی**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "طالب علم نے اپنے تمام اسباق وقت سے پہلے ہی اچھی طرح یاد کر لیے۔",
+          "reading": "Taalib-e-ilm ne apne tamaam asbaaq waqt se pehle hi achhi tarah yaad kar liye. [t̪aːlɪb-eː-ɪlm neː əpneː t̪əmaːm əsbaːq ʋəqt̪ seː pɛɦleː hiː ətʃʰiː t̪ərəh jaːd̪ kər lɪjeː] (tah-lee-bay-EELM nay uhp-NAY tuh-MAHM uhs-BAHQ VUHKT say PYH-lay HEE UHTCH-hee tuh-RUH YAHD kuhr lee-YAY)",
+          "translation": "The student memorized all his lessons [self-benefactive: yaad kar liye] thoroughly well before time."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 12-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ہم نے تمام تفصیلی اور ضروری دستاویزات یونیورسٹی انتظامیہ کے سپرد کر دیں۔",
+          "reading": "Hum ne tamaam tafseeli aur zaroori dastaaweezat university intezaamiya ke supurd kar deen. [həm neː t̪əmaːm t̪əfsiːliː ɔːr zəruːriː d̪əst̪aːʋeːzaːt̪ juːnɪʋərsɪʈiː ɪnt̪ɪzaːmɪjaː keː sʊpʊrd̪ kər d̪ĩː] (HOOM nay tuh-MAHM tuhf-see-LEE owr zuh-ROO-ree duhs-tah-way-ZAHT university een-tuh-zah-mee-YAH kay soo-POORD kuhr DEEN)",
+          "translation": "We handed over [outward completion: supurd kar deen] all detailed and necessary documents to the university administration."
+        },
+        {
+          "target": "محقق نے پرانے مسودے کی تصحیح مکمل کر لی اور کتاب ناشر کو بھیج دی۔",
+          "reading": "Muhaqqiq ne puraane musawwaday ki tas-heeh mukammal kar lee aur kitaab naashir ko bhej dee. [mʊhəqːɪq neː pʊraːneː mʊsəʋːəd̪eː kiː t̪əs-hiːh mʊkəmːəl kər liː ɔːr kɪt̪aːb naːʃɪr koː bʱeːdʒ d̪iː] (moo-huhq-QEEQ nay poo-RAH-nay moo-suhv-vuh-DAY kee tuhs-HEEH moo-kuhm-MUHL kuhr LEE owr kee-TAHB nah-SHEER koh BHAYJ DEE)",
+          "translation": "The researcher completed the correction of the old draft [self: kar lee] and sent the book [outward: bhej dee] to the publisher."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "لینا بمقابلہ دینا: اپنے لیے (پڑھ لیا، کھا لیا)، دوسرے کے لیے (بتا دیا، بھیج دیا)!"
+      ],
+      "culturalNotes": [
+        "اردو میں امدادی افعال کا درست برتاؤ اہلِ زبان کی فصاحت اور روزمرہ محاورے کی بنیاد سمجھا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"چھٹی\":",
+          "prompt": "کسی دوسرے شخص کو رقم دینے کے عمل میں کون سا مرکب فعل درست ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («اجلاس» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («منصوبہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («معاہدہ» کی خرابی)"
+            "لوٹا دیا (Lautaa diya - Outward completion with dena for returning money to another)",
+            "لوٹا لیا (اپنے پاس واپس لینا)",
+            "لوٹتا تھا (ماضی استمراری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "دوسرے کو واپس کرنے کے لیے امدادی فعل 'دینا' («لوٹا دیا») آئے گا۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"چھٹی\":",
+          "prompt": "اپنے ذاتی فائدے کے لیے کتاب کا مطالعہ مکمل کرنے کا فصیح صیغہ کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («منصوبہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («معاہدہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («اجلاس» کا غیر درست استعمال)"
+            "پڑھ لی (Parh lee - Self-benefactive completion with lena agreeing with feminine kitaab)",
+            "پڑھ دی (دوسرے کے لیے)",
+            "پڑھی تھی (ماضی بعید)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "اپنی ذات کے مطالعے کے لیے «پڑھ لی» مستعمل ہے۔"
         }
       ]
     },
@@ -5049,17 +5058,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"چھٹی\": Which sentence is completely correct?",
+          "prompt": "امدادی افعال (لینا بمقابلہ دینا) کا فصیح اور مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («معاہدہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («اجلاس» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («منصوبہ» سے متعلق)"
+            "میں نے اپنے تمام ضروری امتحانی سوالات حل کر لیے اور حل شدہ پرچہ نگرانِ امتحان کو تھما دیا۔ (I solved all my exam questions [hal kar liye] and handed the solved paper to the invigilator [thama diya].)",
+            "میں نے سوالات حل کر دیا اور پرچہ اپنے پاس رکھ لیا۔",
+            "لینا اور دینا صرف مارکیٹ میں بولا جاتا ہے۔",
+            "امدادی فعل کو جملے کے شروع میں اسم کے بدلے لکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«میں نے اپنے تمام ضروری امتحانی سوالات حل کر لیے اور حل شدہ پرچہ نگرانِ امتحان کو تھما دیا۔» لینا اور دینا کے دونوں رخنوں کا بہترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u12-l2": {
@@ -5067,53 +5077,62 @@
     "subject": "urdu",
     "unit": 12,
     "lessonNumber": 2,
-    "title": "امدادی افعال اور مرکب افعال (Compound Verbs with Vectors) (Part 2)",
+    "title": "امدادی فعل 'جانا' اور 'ڈالنا' (Completion/State جانا vs Forceful completion ڈالنا)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 12.2) with authentic precision.",
+    "objective": "امدادی فعل 'جانا' (حالت کی قدرتی تبدیلی و تکمیل) اور 'ڈالنا' (طاقت، تیزی اور پرتشدد تکمیل) کے فرق اور نحوی ساخت پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں امدادی افعال «جانا» اور «ڈالنا» (Vectors 'Jaana' vs 'Daalna'):\n\n1. **'جانا' (تکمیل اور حالت کی فطری تبدیلی / Natural State Change)**:\n   - جب کوئی کام مکمل ہو جائے یا حالت خود بخود بدل جائے:\n     - «بچہ گہری نیند **سو گیا**»؛\n     - «مسئلہ **حل ہو گیا**»؛\n     - «دودھ برتن سے **گر گیا**»۔\n\n2. **'ڈالنا' (طاقت، غصہ، تیزی یا پرتشدد تکمیل / Forceful Completion)**:\n   - جب کام ارادتاً بڑی شدت، تیزی یا سختی سے کیا جائے:\n     - «اس نے سارے خطوط **پھاڑ ڈالے**»؛\n     - «شکاری نے درندے کو **مار ڈالا**»؛\n     - «اس نے سارا راز ایک ہی لمحے میں **کہہ ڈالا**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "طویل اور تھکا دینے والے سفر کے بعد تمام مسافر گہری نیند سو گئے۔",
+          "reading": "Taweel aur thaka dainay waalay safar ke baad tamaam musaafir gehri neend so gaye. [t̪əʋiːl ɔːr t̪ʰəkaː d̪eːneː ʋaːleː səfər keː baːd̪ t̪əmaːm mʊsaːfɪr ɡɛɦriː niːnd̪ soː ɡəjeː] (tuh-VEEL owr thuh-KAH day-NAY wah-LAY suh-FUHR kay BAHD tuh-MAHM moo-sah-FEER GYH-ree NEEND soh guh-YAY)",
+          "translation": "After a long and exhausting journey, all travelers fell fast asleep [natural state change: so gaye]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 12-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "غصے کے عالم میں اس نے تمام اہم اور خفیہ قانونی کاغذات پھاڑ ڈالے۔",
+          "reading": "Gussay ke aalam mein us ne tamaam aham aur khufya qaanooni kaaghazaat phaar daalay. [ɡʊsːeː keː aːləm mẽː ʊs neː t̪əmaːm əɦəm ɔːr xʊfjaː qaːnuːniː kaːɣzaːt̪ pʰaːɽ ɖaːleː] (GOOS-say kay AH-luhm mayn OOS nay tuh-MAHM UH-huhm owr KHOOF-yah qah-noo-NEE kah-ghuh-ZAHT phahr DAH-lay)",
+          "translation": "In a fit of rage, he tore up [violent/forceful completion: phaar daalay] all important and confidential legal papers."
+        },
+        {
+          "target": "برسوں سے الجھا ہوا یہ پیچیدہ اور نازک سرحدی تنازعہ بالآخر پرامن مذاکرات کے ذریعے حل ہو گیا۔",
+          "reading": "Barson se uljha hua yeh paicheeda aur naazuk sarhadi tanaazo' bil-aakhir pur-amn muzaakraat ke zariye hal ho gaya. [bərsõː seː ʊldʒʱaː hʊaː jɛɦ peːtʃiːd̪aː ɔːr naːzʊk sərhəd̪iː t̪ənaːzʊʔ bɪl-aːxɪr pʊr-əmn mʊzaːkəraːt̪ keː zəriːjeː həl hoː ɡəjaː] (buhr-SOHN say ool-JHAH hoo-AH YEH py-chee-DAH owr nah-ZOOK suhr-huh-DEE tuh-nah-ZOH beel-AH-kheer poor-UHMN moo-zahk-RAHT kay zuh-ree-YAY HUHL hoh guh-YAH)",
+          "translation": "This complex and delicate border dispute entangled for years was finally resolved [state change: hal ho gaya] through peaceful negotiations."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جانا بمقابلہ ڈالنا: حالت بدلنا (سو گیا، حل ہو گیا)، طاقت و شدت (پھاڑ ڈالا، مار ڈالا)!"
+      ],
+      "culturalNotes": [
+        "اردو داستانوں اور ڈراموں میں 'ڈالنا' کا امدادی استعمال کرداروں کے شدید غیظ و غضب یا بے باکی کو ظاہر کرنے کے لیے چنا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"اجلاس\":",
+          "prompt": "غصے میں خط کو ٹکڑے ٹکڑے کرنے کے لیے کون سا مرکب فعل بلیغ ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («منصوبہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («معاہدہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کاروبار» کی خرابی)"
+            "پھاڑ ڈالا (Phaar daala - Forceful destructive completion with daalna)",
+            "پھاڑ گیا (غیر فصیح)",
+            "پھاڑ دیا (معمولی انداز)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "شدت اور غصے میں ٹکڑے کرنے کے لیے «پھاڑ ڈالا» سب سے زیادہ اثر انگیز ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"اجلاس\":",
+          "prompt": "تھکن سے نیند آ جانے کی قدرتی تبدیلی کے لیے کون سا فعل درست ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («معاہدہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کاروبار» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («منصوبہ» کا غیر درست استعمال)"
+            "سو گیا (So gaya - Natural transition into sleep with jaana)",
+            "سو ڈالا (نامناسب اور غلط)",
+            "سو لیا (محدود نیند)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "نیند کی حالت میں چلے جانے کے لیے «سو گیا» درست ہے۔"
         }
       ]
     },
@@ -5121,17 +5140,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"اجلاس\": Which sentence is completely correct?",
+          "prompt": "امدادی فعل 'جانا' اور 'ڈالنا' کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کاروبار» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («منصوبہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («معاہدہ» سے متعلق)"
+            "عدالت کا باضابطہ فیصلہ سنتے ہی تمام ہنگامہ ختم ہو گیا اور مشتعل ہجوم نے اپنے تمام پرانے شکوے مٹا ڈالے۔ (As soon as the court verdict was heard, all uproar ceased [khatam ho gaya] and the crowd wiped away [mita daalay] all old grievances.)",
+            "ہنگامہ ختم ڈال دیا اور لوگ رویا۔",
+            "ڈالنا صرف چائے میں چینی ڈالنے کے لیے آتا ہے۔",
+            "جانا کو ہمیشہ جملے کے پہلے لفظ کے طور پر لکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«عدالت کا باضابطہ فیصلہ سنتے ہی تمام ہنگامہ ختم ہو گیا اور مشتعل ہجوم نے اپنے تمام پرانے شکوے مٹا ڈالے۔» دونوں امدادی افعال کا شاہکار جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u12-l3": {
@@ -5139,53 +5159,62 @@
     "subject": "urdu",
     "unit": 12,
     "lessonNumber": 3,
-    "title": "امدادی افعال اور مرکب افعال (Compound Verbs with Vectors) (Part 3)",
+    "title": "امدادی فعل 'بیٹھنا' اور 'پڑنا' (Regretful error بیٹھنا vs Sudden outburst پڑنا)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 12.3) with authentic precision.",
+    "objective": "امدادی فعل 'بیٹھنا' (بے وقوفی و حسرت کی غلطی) اور 'پڑنا' (جذبات کا اچانک پھوٹ پڑنا) کے نفسیاتی و نحوی پہلوؤں پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں امدادی افعال «بیٹھنا» اور «پڑنا» (Vectors 'Baithna' vs 'Parna'):\n\n1. **'بیٹھنا' (نادانی یا جذبات میں نا قابلِ تلافی غلطی / Regretful Blunder)**:\n   - جب فاعل بے وقوفی یا غصے میں اپنا ہی نقصان کر بیٹھے:\n     - «وہ غصے میں اپنا ہی گھر **جلا بیٹھا**»؛\n     - «نادانی میں وہ سب کے سامنے راز فاش **کر بیٹھا**»؛\n     - «وہ جوے میں اپنی ساری دولت **ہار بیٹھا**»۔\n\n2. **'پڑنا' (اچانک اور بے ساختہ جذبات کا پھوٹ پڑنا / Involuntary Outburst)**:\n   - جب کوئی جذباتی ردِ عمل خود بخود بغیر ارادے کے امڈ آئے:\n     - «لطیفہ سن کر پوری محفل کھلکھلا کر **ہنس پڑی**»؛\n     - «افسوسناک خبر سنتے ہی ماں **رو پڑی**»؛\n     - «خاموشی کے دوران وہ اچانک **بول پڑا**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "جوشِ جذبات میں آ کر وہ جلد بازی میں ایک سنگین اور نا قابلِ تلافی غلطی کر بیٹھا۔",
+          "reading": "Josh-e-jazbaat mein aa kar woh jald-baazi mein ek sangeen aur na-qaabil-e-talaafi ghalti kar baitha. [dʒoːʃ-eː-dʒəzbaːt̪ mẽː aː kər ʋoːh dʒəld̪-baːziː mẽː eːk sənɡiːn ɔːr naː-qaːbɪl-eː-təlaːfiː ɣəlt̪iː kər bɛːʈʰaː] (JOHSH-ay-jooz-BAHT mayn AH kuhr VOH juhld-BAH-zee mayn AYK suhn-GEEN owr nah-QAH-beel-ay-tuh-LAH-fee ghuhl-TEE kuhr BY-thah)",
+          "translation": "Carried away by emotion, he committed a grave and irreparable mistake in haste [regretful blunder: kar baitha]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 12-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "بچے کی معصومانہ اور دلکش باتیں سن کر تمام حاضرینِ محفل بے ساختہ ہنس پڑے۔",
+          "reading": "Bachchay ki ma'soomaana aur dilkash baatein sun kar tamaam haazireen-e-mehfil bay-saakhta hans paray. [bətʃːeː kiː məʔsuːmaːnəh ɔːr d̪ɪlkəʃ baːt̪ẽː sʊn kər t̪əmaːm haːzɪriːn-eː-mɛɦfɪl beː-saːxt̪aː hɛ̃s pəɽeː] (buhtch-CHAY kee mah-soo-MAH-nuh owr deel-KUHSH bah-TAYN SOON kuhr tuh-MAHM hah-zee-REEN-ay-MYH-feel bay-SAH-kh-tah HYNS puh-RAY)",
+          "translation": "Hearing the child's innocent and charming words, all attendees of the gathering spontaneously burst out laughing [involuntary outburst: hans paray]."
+        },
+        {
+          "target": "شہید کی لاش گھر پہنچتے ہی بوڑھے باپ کے صبر کا پیمانہ لبریز ہو گیا اور وہ دھاڑیں مار کر رو پڑا۔",
+          "reading": "Shaheed ki laash ghar pohanchtay hi boorhay baap ke sabr ka paimaana labrez ho gaya aur woh dhaarein maar kar ro para. [ʃəhiːd̪ kiː laːʃ ɡʱər pɔɦʊntʃt̪eː hiː buːɽʱeː baːp keː səbr kaː pɛːmaːnəh ləbreːz hoː ɡəjaː ɔːr ʋoːh d̪ʱaːɽẽː maːr kər roː pəɽaː] (shuh-HEED kee LAHSH GUHR poh-HOONCH-tay HEE boo-RDHAY BAHP kay SUHBR kah py-MAH-nuh luhb-RAYZ hoh guh-YAH owr VOH dhah-REYN MAHR kuhr ROH puh-RAH)",
+          "translation": "As soon as the martyr's body reached home, the old father's patience overflowed and he broke down weeping bitterly [outburst of sorrow: ro para]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "بیٹھنا بمقابلہ پڑنا: حسرت و نادانی (غلطی کر بیٹھا)، بے ساختہ جذبہ (ہنس پڑا، رو پڑا)!"
+      ],
+      "culturalNotes": [
+        "اردو غزل میں عاشق کی نادانی اور وارفتگی کے لیے 'دل گنوا بیٹھے' کا محاورہ لازوال شہرت رکھتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"منصوبہ\":",
+          "prompt": "بے وقوفی میں دولت کھو دینے کے لیے کون سا امدادی فعل مستعمل ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («معاہدہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کاروبار» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کتاب» کی خرابی)"
+            "گنوا بیٹھا (Ganwa baitha - Regretful blunder of losing wealth with baithna)",
+            "گنوا دیا (معمولی انداز)",
+            "گنوا گیا (غیر فصیح)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "حسرت اور نادانی سے کھو دینے کے لیے «گنوا بیٹھا» فصیح ترین ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"منصوبہ\":",
+          "prompt": "بے ساختہ ہنسی امڈ آنے کے لیے کون سا مرکب فعل آئے گا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کاروبار» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کتاب» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («معاہدہ» کا غیر درست استعمال)"
+            "ہنس پڑا (Hans para - Spontaneous eruption of laughter with parna)",
+            "ہنس بیٹھا (غلط معنی)",
+            "ہنس ڈالا (غیر موزوں)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "بے ساختہ ہنسی کے لیے «ہنس پڑا / ہنس پڑی» مستعمل ہے۔"
         }
       ]
     },
@@ -5193,17 +5222,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"منصوبہ\": Which sentence is completely correct?",
+          "prompt": "امدادی فعل 'بیٹھنا' اور 'پڑنا' کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کتاب» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («معاہدہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کاروبار» سے متعلق)"
+            "وہ غصے کے عالم میں اپنے مخلص ترین دوست سے تعلقات توڑ بیٹھا اور جب حقیقت کھلی تو پچھتاوے سے رو پڑا۔ (In anger he severed relations with his sincerest friend [tor baitha - blunder], and when truth emerged, he broke into tears from regret [ro para - outburst].)",
+            "اس نے تعلقات توڑ گیا اور ہنس ڈالا۔",
+            "بیٹھنا صرف کرسی پر بیٹھنے کو کہتے ہیں۔",
+            "پڑنا اور بیٹھنا ایک ساتھ بولنا خلافِ قانون ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«وہ غصے کے عالم میں اپنے مخلص ترین دوست سے تعلقات توڑ بیٹھا اور جب حقیقت کھلی تو پچھتاوے سے رو پڑا۔» دونوں امدادی افعال کا کامل اور مربوط نمونہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u12-l4": {
@@ -5211,53 +5241,62 @@
     "subject": "urdu",
     "unit": 12,
     "lessonNumber": 4,
-    "title": "امدادی افعال اور مرکب افعال (Compound Verbs with Vectors) (Part 4)",
+    "title": "امدادی فعل 'رکھنا' اور 'چھوڑنا' (Prior arrangement رکھنا vs Permanent outcome چھوڑنا)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 12.4) with authentic precision.",
+    "objective": "امدادی فعل 'رکھنا' (پیشگی انتظام و تیاری) اور 'چھوڑنا' (حتمی انجام تک پہنچانا) کے فصیح ادبی استعمال پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں امدادی افعال «رکھنا» اور «چھوڑنا» (Vectors 'Rakhna' vs 'Chhorna'):\n\n1. **'رکھنا' (پیشگی تیاری اور پیشگی انتظام / Prior Arrangement)**:\n   - جب کوئی کام آئندہ کی ضرورت کے تحت پہلے سے کر لیا گیا ہو:\n     - «ہم نے تمام انتظامات پہلے سے **کر رکھے ہیں**»؛\n     - «میں نے ٹکٹ **خرید رکھا ہے**»؛\n     - «اس نے کھانا **بنا رکھا ہے**»۔\n\n2. **'چھوڑنا' (کسی کام کو حتمی انجام تک پہنچا کر چھوڑنا / Resolute Decisive Completion)**:\n   - جب کسی کام کو ہر قیمت پر مکمل کرنے کا پختہ عزم ہو:\n     - «ہم اس عمارت کو مکمل **کر چھوڑیں گے**»؛\n     - «وہ دشمن کو شکست **دے چھوڑے گا**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ہم نے تقریب کے تمام ضروری اور ہنگامی انتظامات پہلے ہی سے مکمل کر رکھے ہیں۔",
+          "reading": "Hum ne taqreeb ke tamaam zaroori aur hangaami intezaamaat pehle hi se mukammal kar rakhay hain. [həm neː t̪əqriːb keː t̪əmaːm zəruːriː ɔːr hənɡaːmiː ɪnt̪ɪzaːmaːt̪ pɛɦleː hiː seː mʊkəmːəl kər rəkʰeː hɛ̃ː] (HOOM nay tuhq-REEB kay tuh-MAHM zuh-ROO-ree owr huhn-gah-MEE een-tuh-zah-MAHT PYH-lay HEE say moo-kuhm-MUHL kuhr ruh-KHAY HYN)",
+          "translation": "We have completed all essential and emergency arrangements for the ceremony in advance [prior preparation: mukammal kar rakhay hain]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 12-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "مجاہدین نے عزم کیا ہے کہ وہ وطن کی سرحدوں کو ہر دشمن کے شر سے پاک کر چھوڑیں گے۔",
+          "reading": "Mujaahideen ne azm kiya hai ke woh watan ki sarhaddon ko har dushman ke shar se paak kar chhorain gay. [mʊdʒaːhɪd̪iːn neː əzm kɪjaː hɛː kɪ ʋoːh ʋət̪ən kiː sərhəd̪ːõː koː hər d̪ʊʃmən keː ʃər seː paːk kər tʃʰoːɽẽː ɡeː] (moo-jah-hee-DEEN nay UHTHM kee-YAH HY kay VOH vuh-TUHN kee suhr-huhd-DOHN koh HUHR doosh-MUHN kay SHUHR say PAHK kuhr chhoh-DAYN GAY)",
+          "translation": "The patriots have resolved that they will cleanse [resolute completion: paak kar chhorain gay] the homeland's borders from every enemy's evil."
+        },
+        {
+          "target": "میں نے اپنے تمام سفری کاغذات اور پاسپورٹ محفوظ الماری میں رکھ چھوڑے ہیں۔",
+          "reading": "Main ne apne tamaam safari kaaghazaat aur passport mehfooz almaari mein rakh chhoray hain. [mɛ̃ː neː əpneː t̪əmaːm səfəriː kaːɣzaːt̪ ɔːr paːspoːrʈ mɛɦfuːz əlmaːriː mẽː rəkʰ tʃʰoːɽeː hɛ̃ː] (myhn nay uhp-NAY tuh-MAHM suh-fuh-REE kah-ghuh-ZAHT owr passport muhh-FOOZ uhl-mah-REE mayn ruhkh chhoh-DAY HYN)",
+          "translation": "I have stowed away safely [definitive safekeeping: rakh chhoray hain] all my travel documents and passport in a safe cupboard."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "رکھنا بمقابلہ چھوڑنا: پہلے سے تیاری (کر رکھا ہے)، حتمی تکمیل (کر چھوڑیں گے)!"
+      ],
+      "culturalNotes": [
+        "اردو محاورے میں 'کر چھوڑنا' عزمِ صمیم، بہادری اور کسی کام کو پایۂ تکمیل تک پہنچانے کے فولادی ارادے کو ظاہر کرتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"معاہدہ\":",
+          "prompt": "کسی اہم کام کی پیشگی تیاری ظاہر کرنے کے لیے کون سا جملہ درست ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («کاروبار» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کتاب» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («موسیقی» کی خرابی)"
+            "ہم نے بندوبست کر رکھا ہے (We have made arrangements in advance - Prior arrangement with rakhna)",
+            "ہم نے بندوبست کر چھوڑا (حتمی انجام)",
+            "ہم بندوبست کرتا ہے (حال مطلق کی خامی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "پیشگی تیاری کے لیے امدادی فعل «کر رکھا ہے» درست ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"معاہدہ\":",
+          "prompt": "فولادی عزم کے ساتھ کام مکمل کر کے دم لینے کے لیے کون سا امدادی فعل آئے گا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کتاب» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («موسیقی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کاروبار» کا غیر درست استعمال)"
+            "کر چھوڑیں گے (Kar chhorain gay - Resolute decisive completion with chhorna)",
+            "کر سوئیں گے (غیر فصیح)",
+            "کر بیٹھیں گے (غلطی کا صیغہ)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "پختہ عزم کے لیے «کر چھوڑیں گے» مستعمل ہے۔"
         }
       ]
     },
@@ -5265,17 +5304,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"معاہدہ\": Which sentence is completely correct?",
+          "prompt": "امدادی فعل 'رکھنا' اور 'چھوڑنا' کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («موسیقی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کاروبار» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کتاب» سے متعلق)"
+            "ہم نے اپنے تمام وسائل پہلے سے جمع کر رکھے ہیں اور ہم اس علمی مشن کو پایۂ تکمیل تک پہنچا کر چھوڑیں گے۔ (We have gathered all our resources in advance [jama kar rakhay hain] and we will see this scholarly mission through to completion [pohancha kar chhorain gay].)",
+            "ہم نے وسائل کو بھگا رکھا ہے اور رو چھوڑا تھا۔",
+            "چھوڑنا کا مطلب صرف چڑیا اڑانا ہوتا ہے۔",
+            "رکھنا کو ہمیشہ فاعل سے پہلے لگانا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہم نے اپنے تمام وسائل پہلے سے جمع کر رکھے ہیں اور ہم اس علمی مشن کو پایۂ تکمیل تک پہنچا کر چھوڑیں گے۔» دونوں امدادی افعال کا فصیح اور مستند مرکب جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u12-l5": {
@@ -5283,53 +5323,62 @@
     "subject": "urdu",
     "unit": 12,
     "lessonNumber": 5,
-    "title": "امدادی افعال اور مرکب افعال (Compound Verbs with Vectors) (Part 5)",
+    "title": "امدادی و مرکب افعال کا جامع سمیکن (Compound Verbs Grand Synthesis)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 12.5) with authentic precision.",
+    "objective": "لینا، دینا، جانا، ڈالنا، بیٹھنا، پڑنا، رکھنا اور چھوڑنا کو ایک کثیر الجملاتی شاہکار نثری بیانیے میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "امدادی و مرکب افعال کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **روحِ زبان اور فصاحت کا سرچشمہ**:\n   - سادہ افعال کے برعکس مرکب افعال (Compound Verbs) اردو زبان کے جذبات، تاثرات اور عمل کی حتمیت کو کمال درجے کی نفاست بخشتے ہیں:\n     - **لینا**: «معلوم **کر لیا**»؛\n     - **دینا**: «پیغام **پہنچا دیا**»؛\n     - **ڈالنا**: «رکاوٹیں **مٹا ڈالیں**»؛\n     - **رکھنا**: «منصوبہ **بنا رکھا ہے**»؛\n     - **چھوڑنا**: «منزل حاصل **کر چھوڑیں گے**»۔\n\n2. **ادبی و تحریری وقار**:\n   - یہ متوازن اور شگفتہ اسلوب اردو کی شاہکار تحریروں، ناولوں اور تاریخ کا طرۂ امتیاز ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ہم نے تمام اہم تاریخی حقائق بغور جانچ لیے، اہل علم کو حقیقت سے آگاہ کر دیا اور اس سچائی نے معاشرے سے جہالت کے تمام اندھیرے مٹا ڈالے۔",
+          "reading": "Hum ne tamaam aham taareekhi haqaa'iq baghaur jaanch liye, ahl-e-ilm ko haqeeqat se aagaah kar diya aur is sachchaai ne muaashray se jihaalat ke tamaam andheray mita daalay. [həm neː t̪əmaːm əɦəm t̪aːriːxiː hʌqaːʔɪq bəɣɔːr dʒaːntʃ lɪjeː əhl-eː-ɪlm koː hʌqiːqət̪ seː aːɡaːh kər d̪ɪjaː ɔːr ɪs sətʃːaːiː neː mʊʔaːʃreː seː dʒɪhaːlət̪ keː t̪əmaːm ənd̪ʱeːreː mɪʈaː ɖaːleː] (HOOM nay tuh-MAHM UH-huhm tah-REE-khee huh-QAH-eeq buh-GHOWR JAHNCH lee-YAY, UHL-ay-EELM koh huh-QEE-quht say ah-GAHH kuhr dee-YAH owr EES suhch-chah-EE nay moo-AHSH-ray say jee-HAH-luht kay tuh-MAHM uhn-DHAY-ray mee-TAH DAH-lay)",
+          "translation": "We examined all important historical facts carefully [jaanch liye - self], informed scholars of the reality [aagaah kar diya - outward], and this truth eradicated [mita daalay - forceful] all darkness of ignorance from society."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 12-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "جب عدالت نے اپنا حتمی فیصلہ سنا دیا تو تمام بے گناہ قیدی خوشی سے جھوم اٹھے اور انصاف کا بول بالا ہو گیا۔",
+          "reading": "Jab adaalat ne apna hatmi faisla suna diya to tamaam bay-gunaah qaidi khushi se jhoom uthay aur insaaf ka bol baala ho gaya. [dʒəb əd̪aːlət̪ neː əpnaː hət̪miː fɛːslaː sʊnaː d̪ɪjaː t̪oː t̪əmaːm beː-ɡʊnaːh qɛːd̪iː xʊʃiː seː dʒʱuːm ʊʈʰeː ɔːr ɪnsaːf kaː boːl baːlaː hoː ɡəjaː] (JUHB uh-DAH-luht nay uhp-NAH huht-MEE FYS-lah soo-NAH dee-YAH toh tuh-MAHM bay-goo-NAHH qy-DEE khoo-SHEE say JHOOM ooth-THAY owr een-SAHF kah BOHL bah-LAH hoh guh-YAH)",
+          "translation": "When the court announced its final verdict [suna diya], all innocent prisoners leaped with joy [jhoom uthay - spontaneous surge] and justice prevailed [ho gaya]."
+        },
+        {
+          "target": "ہم نے ملک کی معاشی ترقی کا ٹھوس لائحۂ عمل تیار کر رکھا ہے اور انشاء اللہ ہم اس قومی منصوبے کو پایۂ تکمیل تک پہنچا کر چھوڑیں گے۔",
+          "reading": "Hum ne mulk ki ma'aashi taraqqi ka thos laa'iha-e-amal tayyaar kar rakha hai aur Insha Allah hum is qaumi mansoobay ko paaya-e-takmeel tak pohancha kar chhorain gay. [həm neː mʊlk kiː məʔaːʃiː t̪ərəqːiː kaː t̪ʰoːs laːʔɪhəh-eː-əməl t̪əjːaːr kər rəkʰaː hɛː ɔːr ɪnʃaːʔəlːaːh həm ɪs qɔːmiː mənsuːbeː koː paːjəh-eː-t̪əkmiːl t̪ək pɔɦʊntʃaː kər tʃʰoːɽẽː ɡeː] (HOOM nay MOOLK kee muh-AH-shee tuh-ruhq-QEE kah THOHS lah-ee-huh-ay-UH-muhl ty-YAHR kuhr ruh-KHAH HY owr een-shah-ALLAH HOOM EES QOW-mee muhn-soo-BAY koh pah-yuh-ay-tuhk-MEEL tuhk poh-HOON-chah kuhr chhoh-DAYN GAY)",
+          "translation": "We have prepared in advance a solid plan of action for national economic progress [tayyaar kar rakha hai] and God willing we will see this national project through to completion [pohancha kar chhorain gay]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع مرکب افعال: جانچ لیے (لینا)، آگاہ کر دیا (دینا)، مٹا ڈالے (ڈالنا)، کر رکھا ہے (رکھنا)، پہنچا کر چھوڑیں گے (چھوڑنا)!"
+      ],
+      "culturalNotes": [
+        "اردو کے عظیم نثر نگاروں (جیسے پریم چند، سعادت حسن منٹو اور قرۃ العین حیدر) کے شاہکار افسانوں کی جان یہی متنوع اور جاندار مرکب افعال ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"کاروبار\":",
+          "prompt": "امدادی افعال کے جامع امتزاج کا فصیح ترین جملہ منتخب کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («کتاب» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («موسیقی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («فلم» کی خرابی)"
+            "ہم نے بات سمجھ لی اور سب کو بتا دی (We understood the matter [lena] and told everyone [dena] - Harmonious authentic synthesis)",
+            "ہم نے بات سمجھ دی اور بتا لی (الٹی ساختیں)",
+            "ہم نے بات جانا تھا (ماضی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«ہم نے بات سمجھ لی اور سب کو بتا دی» لینا اور دینا کے درست امتزاج کا نمونہ ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"کاروبار\":",
+          "prompt": "مرکب افعال کا اردو زبان کی فصاحت میں بنیادی کردار کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («موسیقی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («فلم» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کتاب» کا غیر درست استعمال)"
+            "افعال کو حتمیت، سمت، جذباتی حرارت اور بے مثال نفاست بخشنا (Imparting completeness, direction, emotional nuance and elegance to verbs)",
+            "صرف جملے کو بلاوجہ لمبا کرنا",
+            "صرف قواعدی الجھن پیدا کرنا",
+            "بے معنی الفاظ کا اضافہ کرنا"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ افعال کو سمت، جذباتی گہرائی اور بلاغت عطا کرتے ہیں۔"
         }
       ]
     },
@@ -5337,17 +5386,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"کاروبار\": Which sentence is completely correct?",
+          "prompt": "امدادی و مرکب افعال کے جامع سمیکن (Compound Verbs Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («فلم» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کتاب» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («موسیقی» سے متعلق)"
+            "ہم نے سچائی کو پہچان لیا، قوم کو بیدار کر دیا، تمام باطل نظریات کو مٹا ڈالا اور ہم وطن کو ترقی کی منزل تک پہنچا کر چھوڑیں گے۔ (We recognized the truth [pehchan liya], awakened the nation [bedaar kar diya], wiped out false ideologies [mita daala], and we will lead the homeland to progress [pohancha kar chhorain gay].)",
+            "ہم نے سچائی پہچان دیا اور قوم کو مٹا چھوڑا تھا۔",
+            "جامع سمیکن صرف پانی پینے کو کہتے ہیں۔",
+            "مرکب افعال صرف بازار میں بولے جاتے ہیں۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہم نے سچائی کو پہچان لیا، قوم کو بیدار کر دیا، تمام باطل نظریات کو مٹا ڈالا اور ہم وطن کو ترقی کی منزل تک پہنچا کر چھوڑیں گے۔» مرکب افعال کے تمام پہلوؤں کا شاہکار سمیکن ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u13-l1": {
