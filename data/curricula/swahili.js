@@ -895,53 +895,62 @@
     "subject": "swahili",
     "unit": 2,
     "lessonNumber": 1,
-    "title": "Ngeli za Nomino: Ngeli ya 1/2 (A-WA) (Noun Classes 1/2 A-WA) (Part 1)",
+    "title": "Muundo wa Ngeli ya 1/2 (M-WA) na Nomino za Watu (Noun Class 1/2: Singular M- / Plural WA-)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.1) with authentic precision.",
+    "objective": "Kuelewa mfumo wa Ngeli ya 1/2 (M-WA / A-WA), viambishi vya nomino (m-/mu-/mw- kwa umoja, wa- kwa wingi), na mabadiliko ya maumbo ya nomino za watu.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muundo wa Ngeli ya 1/2 (M-WA) katika Lugha ya Kiswahili (Noun Class 1/2 Structure):\n\n1. **Dhana ya Ngeli za Nomino (Noun Classes in Bantu Languages)**:\n   - Kiswahili hakina mfumo wa jinsia ya kiume/kike (Grammatical Gender) kama lugha za Ulaya.\n   - Badala yake, nomino zimegawanywa katika **ngeli** (noun classes) kulingana na viambishi vyake na upatanisho wa kisarufi.\n\n2. **Ngeli ya 1/2 (A-WA / M-WA)**:\n   - Huu ni mfumo unaojumuisha hasa **binadamu** (watu):\n     - **Umoja (Class 1)**: Kiambishi cha nomino ni **m-**, **mw-** (kabla ya irabu), au **mu-**.\n     - **Wingi (Class 2)**: Kiambishi cha nomino ni **wa-** au **w-**.\n\n3. **Mifano ya Mabadiliko ya Nomino (M- -> WA-)**:\n   - *m-tu* (person) -> *wa-tu* (people)\n   - *m-toto* (child) -> *wa-toto* (children)\n   - *m-walimu* (teacher) -> *wa-limu* (teachers)\n   - *m-wanafunzi* (student) -> *wa-nafunzi* (students)\n   - *mw-alimu* -> *wa-alimu* / *wa-limu*\n   - *mw-anachama* (member) -> *wa-nachama* (members)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 2."
+          "target": "Mwalimu anafundisha wanafunzi darasani kwa bidii na hekima.",
+          "reading": "Mwa-li-mu a-na-fu-ndi-sha wa-na-fu-nzi da-ra-sa-ni kwa bi-di-i na he-ki-ma. [mwɑˈlimu ɑnɑfunˈdiʃɑ wɑnɑˈfunzi dɑrɑˈsɑni kwɑ biˈdiː nɑ hɛˈkimɑ] (mwah-LEE-moo ah-nah-foon-DEE-shah wah-nah-FOON-zee dah-rah-SAH-nee kwah bee-DEE nah hay-KEE-mah)",
+          "translation": "The teacher [class 1 singular noun: mwalimu] teaches students [class 2 plural noun: wanafunzi] in the classroom with diligence and wisdom."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 2-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mtoto mmoja anacheza uwanjani lakini watoto wengi wanasoma vitabu.",
+          "reading": "Mto-to mmo-ja a-na-che-za u-wa-nja-ni la-ki-ni wa-to-to we-ngi wa-na-so-ma vi-ta-bu. [ˈmtɔtɔ ˈmːɔʤɑ ɑnɑˈtʃɛzɑ uwɑˈnʤɑni lɑˈkini wɑˈtɔtɔ ˈwɛŋɡi wɑnɑˈsɔmɑ viˈtɑbu] (M-TOH-toh MMOH-jah ah-nah-CHAY-zah oo-wahn-JAH-nee lah-KEE-nee wah-TOH-toh WAYN-gee wah-nah-SOH-mah vee-TAH-boo)",
+          "translation": "One child [class 1 singular: mtoto mmoja] is playing on the field, but many children [class 2 plural: watoto wengi] are reading books."
+        },
+        {
+          "target": "Wageni wakarimu wamefika nyumbani kwetu na wamepokelewa kwa furaha kubwa.",
+          "reading": "Wa-ge-ni wa-ka-ri-mu wa-me-fi-ka nyu-mba-ni kwe-tu na wa-me-po-ke-le-wa kwa fu-ra-ha ku-bwa. [wɑˈɡɛni wɑkɑˈrimu wɑmɛˈfikɑ ɲumbɑˈni ˈkwɛtu nɑ wɑmɛpɔkɛˈlɛwɑ kwɑ fuˈrɑhɑ ˈkubwɑ] (wah-GAY-nee wah-kah-REE-moo wah-may-FEE-kah nyoom-bah-NEE KWAY-too nah wah-may-poh-kay-LAY-wah kwah foo-RAH-hah KOO-bwah)",
+          "translation": "Generous guests [class 2 plural: wageni wakarimu] have arrived at our home and have been received with great joy."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kanuni ya M-WA: Mtu mmoja (M-) -> Watu wengi (WA-)!"
+      ],
+      "culturalNotes": [
+        "Katika utamaduni wa Kiafrika, mtoto halelewi na mzazi wake pekee bali hulelewa na jamii nzima ya 'watu' na 'majirani'."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Samahani\":",
+          "prompt": "Neno 'mtoto' katika umoja linapobadilishwa kuwa wingi katika Ngeli ya 1/2 huwa nini?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Karibu»",
-            "Mpangilio usio sahihi wa viambishi katika «Chakula cha asubuhi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Chakula cha mchana»"
+            "watoto (Children - Regular plural transformation of class 1 m- to class 2 wa-)",
+            "mitoto (Wingi usio sahihi wa ngeli ya M-MI)",
+            "vitoto (Kupunguza ukubwa badala ya wingi wa kawaida)",
+            "matoto (Wingi wa dharau badala ya ule sanifu)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino «mtoto» (umoja) hubadilika kuwa «watoto» (wingi) katika Ngeli ya 1/2 (M-WA)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Samahani\":",
+          "prompt": "Sentensi ipi inatumia kwa usahihi nomino za Ngeli ya 1/2 katika umoja na wingi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Chakula cha asubuhi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Chakula cha mchana»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Karibu»"
+            "Mwanafunzi anasoma kitabu na wanafunzi wengine wanaandika. (The student reads a book and other students write - Correct singular/plural pairing)",
+            "Wanafunzi moja anasoma kitabu mezani (Mchanganyiko wa wingi na nambari ya umoja)",
+            "Mtu wote wanalala usingizi usiku (Kosa la upatanisho)",
+            "Mwalimu wengi wanafika darasani asubuhi (Mchanganyiko wa umoja na kivumishi cha wingi)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Mwanafunzi anasoma kitabu na wanafunzi wengine wanaandika.» inaoanisha umoja (mwanafunzi) na wingi (wanafunzi) kwa usahihi."
         }
       ]
     },
@@ -949,17 +958,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Samahani\": Which sentence is completely correct?",
+          "prompt": "Chagua kanuni sahihi inayofafanua mabadiliko ya nomino za Ngeli ya 1/2 (M-WA):",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Chakula cha mchana»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Karibu»",
-            "Mpangilio usio sahihi wa viambishi katika «Chakula cha asubuhi»"
+            "Ngeli ya 1/2 inahusu binadamu, ambapo kiambishi cha umoja ni 'm-/mw-' na kiambishi cha wingi ni 'wa-'. (Class 1/2 denotes humans, taking prefix m-/mw- in singular and wa- in plural.)",
+            "Ngeli ya 1/2 inahusu miti na mimea yote pekee.",
+            "Katika Ngeli ya 1/2 maneno yote hubakia bila kubadilika kutoka umoja hadi wingi.",
+            "Kiambishi cha umoja ni 'ki-' na kiambishi cha wingi ni 'vi-' katika ngeli hii."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Ngeli ya 1/2 inahusu binadamu, ambapo kiambishi cha umoja ni 'm-/mw-' na kiambishi cha wingi ni 'wa-'.» ndiyo kanuni kuu ya kimsingi."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u2-l2": {
@@ -967,53 +977,62 @@
     "subject": "swahili",
     "unit": 2,
     "lessonNumber": 2,
-    "title": "Ngeli za Nomino: Ngeli ya 1/2 (A-WA) (Noun Classes 1/2 A-WA) (Part 2)",
+    "title": "Upatanisho wa Kisarufi: Viambishi Nafsi na Vivumishi vya A-WA (Subject Prefixes a-/wa- & Adjective Concord)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.2) with authentic precision.",
+    "objective": "Kutambua upatanisho wa kisarufi (Grammatical Concord) wa Ngeli ya A-WA: kiambishi nafsi cha kitenzi (a- / wa-) na upatanisho wa vivumishi (m- / wa-).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Upatanisho wa Kisarufi katika Ngeli ya A-WA (Subject Prefixes & Adjective Concord):\n\n1. **Kiambishi Awali cha Kitenzi (Subject Prefix - SP)**:\n   - **Umoja (Class 1)**: Kitenzi huchukua kiambishi **a-**:\n     - *Mtu **a**nasoma.* (The person reads.)\n     - *Mwalimu **a**nafundisha.* (The teacher teaches.)\n   - **Wingi (Class 2)**: Kitenzi huchukua kiambishi **wa-**:\n     - *Watu **wa**nasoma.* (The people read.)\n     - *Walimu **wa**nafundisha.* (The teachers teach.)\n\n2. **Upatanisho wa Vivumishi (Adjective Concord)**:\n   - Vivumishi huchukua viambishi vinavyofanana na nomino:\n     - *m-refu* (tall - umoja) -> *wa-refu* (tall - wingi)\n     - *m-zuri* (good/beautiful) -> *wa-zuri*\n     - *m-dogo* (small/young) -> *wa-dogo*\n     - *m-kubwa* (big/elder) -> *wa-kubwa*\n     - *mw-erevu* (clever) -> *wa-erevu*\n\n3. **Muundo Kamili wa Sentensi (Sentence Synthesis)**:\n   - [Nomino] + [Kivumishi] + [Kitenzi]:\n     - *Mtoto mdogo **a**nalala.* (The small child is sleeping.)\n     - *Watoto wadogo **wa**nalala.* (The small children are sleeping.)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 2."
+          "target": "Mwanafunzi mwerevu anasoma kwa makini, na wanafunzi waerevu watafaulu vizuri.",
+          "reading": "Mwa-na-fu-nzi mwe-re-vu a-na-so-ma kwa ma-ki-ni, na wa-na-fu-nzi wa-e-re-vu wa-ta-fa-u-lu vi-zu-ri. [mwɑnɑˈfunzi mwɛˈrɛvu ɑnɑˈsɔmɑ kwɑ mɑˈkini nɑ wɑnɑˈfunzi wɑɛˈrɛvu wɑtɑfɑˈulu viˈzuri] (mwah-nah-FOON-zee mway-RAY-voo ah-nah-SOH-mah kwah mah-KEE-nee, nah wah-nah-FOON-zee wah-ay-RAY-voo wah-tah-fah-OO-loo vee-ZOO-ree)",
+          "translation": "The clever student [adjective concord singular: mwerevu, SP: anasoma] reads attentively, and clever students [adjective concord plural: waerevu, SP: watafaulu] will pass well."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 2-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mzee mzuri anasaidia watoto wadogo kuvuka barabara salama.",
+          "reading": "Mze-e mzu-ri a-na-sa-i-di-a wa-to-to wa-do-go ku-vu-ka ba-ra-ba-ra sa-la-ma. [mˈzɛː ˈmzuri ɑnɑsɑiˈdiɑ wɑˈtɔtɔ wɑˈdɔɡɔ kuˈvukɑ bɑrɑˈbɑrɑ sɑˈlɑmɑ] (M-ZAY M-ZOO-ree ah-nah-sah-ee-DEE-ah wah-TOH-toh wah-DOH-goh koo-VOO-kah bah-rah-BAH-rah sah-LAH-mah)",
+          "translation": "The good elder [singular: mzee mzuri anasaidia] helps the little children [plural: watoto wadogo] cross the road safely."
+        },
+        {
+          "target": "Wafanyakazi hodari wanafanya kazi kwa umoja ili kuleta maendeleo ya jamii.",
+          "reading": "Wa-fa-nya-ka-zi ho-da-ri wa-na-fa-nya ka-zi kwa u-mo-ja i-li ku-le-ta ma-e-nde-le-o ya ja-mi-i. [wɑfɑɲɑˈkɑzi hɔˈdɑri wɑnɑˈfɑɲɑ ˈkɑzi kwɑ uˈmɔʤɑ ˈili kuˈlɛtɑ mɑɛndɛˈlɛɔ jɑ ʤɑˈmiː] (wah-fah-nyah-KAH-zee hoh-DAH-ree wah-nah-FAH-nyah KAH-zee kwah oo-MOH-jah EE-lee koo-LAY-tah mah-ayn-day-LAY-oh yah jah-MEE-ee)",
+          "translation": "Skilled workers [plural agreement: wafanyakazi wanafanya] work together in unity in order to bring community development."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Upatanisho wa A-WA: Mtu m-moja a-naimba -> Watu wa-ngi wa-naimba!"
+      ],
+      "culturalNotes": [
+        "Kuelewa upatanisho wa ngeli ndiyo siri kuu ya kuzungumza Kiswahili chenye utamu na mnato unaovutia wasikilizaji."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Karibu\":",
+          "prompt": "Kamilisha sentensi ifuatayo kwa upatanisho sahihi wa Ngeli ya 1 (Umoja): \"Mgeni mrefu _____fika jana jioni.\"",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Chakula cha asubuhi»",
-            "Mpangilio usio sahihi wa viambishi katika «Chakula cha mchana»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Chakula cha jioni»"
+            "a- (a-nafika / a-lifika - Correct Class 1 subject prefix 'a-')",
+            "wa- (Kiambishi cha wingi badala ya umoja)",
+            "ki- (Kiambishi cha Ngeli ya 7 KI-VI)",
+            "li- (Kiambishi cha Ngeli ya 5 JI-MA)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino ya umoja katika Ngeli ya A-WA (kama mgeni) huchukua kiambishi awali cha kitenzi «a-»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Karibu\":",
+          "prompt": "Sentensi ipi ina upatanisho kamili na sanifu wa vivumishi na vitenzi vya Ngeli ya 2 (Wingi)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Chakula cha mchana»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Chakula cha jioni»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Chakula cha asubuhi»"
+            "Walimu wazuri wanafundisha watoto werevu. (Good teachers teach clever children - Flawless plural concord)",
+            "Walimu mzuri anafundisha watoto werevu (Kosa la kuchanganya umoja na wingi)",
+            "Walimu wazuri inafundisha watoto mdogo (Kosa kubwa la viambishi)",
+            "Mwalimu wazuri wanafundisha watoto moja (Kosa la upatanisho wa nomino na nambari)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Walimu wazuri wanafundisha watoto werevu.» inafuata upatanisho wa wingi wa A-WA (wa-limu, wa-zuri, wa-nafundisha, wa-toto, w-erevu)."
         }
       ]
     },
@@ -1021,17 +1040,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Karibu\": Which sentence is completely correct?",
+          "prompt": "Chagua jozi ya sentensi inayoonyesha upatanisho sahihi wa umoja na wingi katika Ngeli ya A-WA:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Chakula cha jioni»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Chakula cha asubuhi»",
-            "Mpangilio usio sahihi wa viambishi katika «Chakula cha mchana»"
+            "Umoja: Mvulana mdogo anacheza. -> Wingi: Wavulana wadogo wanacheza. (Singular: Mvulana mdogo anacheza. -> Plural: Wavulana wadogo wanacheza.)",
+            "Umoja: Mvulana mdogo anacheza. -> Wingi: Mvulana wadogo anacheza.",
+            "Umoja: Mvulana wadogo wanacheza. -> Wingi: Wavulana mdogo anacheza.",
+            "Umoja: Wavulana wanacheza. -> Wingi: Mvulana inacheza."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Umoja: Mvulana mdogo anacheza. -> Wingi: Wavulana wadogo wanacheza.» inaoanisha kwa ukamilifu viambishi vyote vya kisarufi."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u2-l3": {
@@ -1039,53 +1059,62 @@
     "subject": "swahili",
     "unit": 2,
     "lessonNumber": 3,
-    "title": "Ngeli za Nomino: Ngeli ya 1/2 (A-WA) (Noun Classes 1/2 A-WA) (Part 3)",
+    "title": "Nomino Zisizoanza na M-/WA- lakini Zimo Ngeli ya A-WA (Living Beings in Class 1/2: Animals & Kinship)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.3) with authentic precision.",
+    "objective": "Kuelewa kanuni kwamba viumbe wote wenye uhai (majina ya ukoo, vyeo, wanyama, ndege na wadudu) hufuata upatanisho wa Ngeli ya A-WA hata kama maumbo ya majina hayo hayaanzi na m-/wa-.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Viumbe Wenye Uhai katika Ngeli ya A-WA (Animate Nouns: Kinship & Animals):\n\n1. **Kanuni Kuu ya Uhai (The Animacy Principle in Swahili)**:\n   - Katika Kiswahili, **kiumbe chochote chenye uhai** hufuata upatanisho wa kisarufi wa **Ngeli ya A-WA** (kitenzi huchukua *a-* umoja, *wa-* wingi) bila kujali umbo la nje la neno.\n\n2. **Majina ya Ukoo na Vyeo (Kinship & Titles without m-/wa-)**:\n   - *baba* (father) -> *Baba **a**nasema.* (Father says.) / Wingi: *kinababa **wa**nasema.*\n   - *mama* (mother) -> *Mama **a**napika.* / Wingi: *kinamama **wa**napika.*\n   - *dada* (sister), *kaka* (brother), *shangazi* (aunt), *babu* (grandfather), *rafiki* (friend), *daktari* (doctor), *rais* (president).\n   - Vivumishi na vitenzi vyao huchukua *m-/wa-* na *a-/wa-*:\n     - *Daktari **m**zuri **a**natibu wagonjwa.* (The good doctor treats patients.)\n     - *Madaktari **wa**zuri **wa**natibu wagonjwa.* (Good doctors treat patients.)\n\n3. **Wanyama, Ndege na Wadudu (Animals, Birds & Insects)**:\n   - *simba* (lion) -> *Simba **m**kali **a**nawinda.* (The fierce lion hunts.) / Wingi: *Simba **wa**kali **wa**nawinda.*\n   - *tembo* (elephant) -> *Tembo **m**kubwa **a**natembea.* / Wingi: *Tembo **wa**kubwa **wa**natembea.*\n   - *ndege* (bird), *paka* (cat), *mbwa* (dog), *ng'ombe* (cow), *samaki* (fish).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 2."
+          "target": "Mama yangu anapika chakula kitamu na dada zangu wanamsaidia jikoni.",
+          "reading": "Ma-ma ya-ngu a-na-pi-ka cha-ku-la ki-ta-mu na da-da za-ngu wa-na-msa-i-di-a ji-ko-ni. [ˈmɑmɑ ˈjɑŋɡu ɑnɑˈpikɑ tʃɑˈkulɑ kiˈtɑmu nɑ ˈdɑdɑ ˈzɑŋɡu wɑnɑmsɑiˈdiɑ ʤiˈkɔni] (MAH-mah YAHN-goo ah-nah-PEE-kah chah-KOO-lah kee-TAH-moo nah DAH-dah ZAHN-goo wah-nah-m-sah-ee-DEE-ah jee-KOH-nee)",
+          "translation": "My mother [animate kinship: mama anapika] cooks delicious food and my sisters [plural kinship: dada wanamsaidia] help her in the kitchen."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 2-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Simba mkali anawinda porini wakati ndege wadogo wanaruka angani.",
+          "reading": "Si-mba mka-li a-na-wi-nda po-ri-ni wa-ka-ti nde-ge wa-do-go wa-na-ru-ka a-nga-ni. [ˈsimbɑ mˈkɑli ɑnɑˈwindɑ pɔˈrini wɑˈkɑti ˈndɛɡɛ wɑˈdɔɡɔ wɑnɑˈrukɑ ɑŋˈɡɑni] (SEEM-bah M-KAH-lee ah-nah-WEEN-dah poh-REE-nee wah-KAH-tee N-DAY-gay wah-DOH-goh wah-nah-ROO-kah ahn-GAH-nee)",
+          "translation": "The fierce lion [animate animal concord: simba mkali anawinda] hunts in the bush while little birds [animate plural: ndege wadogo wanaruka] fly in the sky."
+        },
+        {
+          "target": "Rafiki mwema anamsaidia ndugu yake wakati wa shida na dhiki.",
+          "reading": "Ra-fi-ki mwe-ma a-na-msa-i-di-a ndu-gu ya-ke wa-ka-ti wa shi-da na dhi-ki. [rɑˈfiki ˈmwɛmɑ ɑnɑmsɑiˈdiɑ ˈnduɡu ˈjɑkɛ wɑˈkɑti wɑ ˈʃidɑ nɑ ˈðiki] (rah-FEE-kee MWAY-mah ah-nah-m-sah-ee-DEE-ah N-DOO-goo YAH-kay wah-KAH-tee wah SHEE-dah nah THEE-kee)",
+          "translation": "A good friend [animate concord: rafiki mwema anamsaidia] assists his sibling during times of hardship and adversity."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Uhai = A-WA: Iwe ni simba, tembo, mama au rafiki — wakitenda, kiambishi ni a- (umoja) na wa- (wingi)!"
+      ],
+      "culturalNotes": [
+        "Katika hekima za Waswahili, wanyama hupewa nafasi kubwa katika methali na hadithi simulizi kama mifano hai ya tabia za binadamu."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Chakula cha asubuhi\":",
+          "prompt": "Sentensi sahihi inayoelezea tendo la 'simba' kuwinda ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Chakula cha mchana»",
-            "Mpangilio usio sahihi wa viambishi katika «Chakula cha jioni»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Maji»"
+            "Simba mkali anawinda porini. (The fierce lion hunts in the wilderness - Correct animate concord 'a-')",
+            "Simba mkali linawinda porini (Kosa la kutumia kiambishi cha JI-MA)",
+            "Simba mkali kinawinda porini (Kosa la kutumia kiambishi cha KI-VI)",
+            "Simba mkali inawinda porini (Kosa la kutumia kiambishi cha N-N kwa kiumbe chenye uhai)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kwa sababu simba ni kiumbe hai, huchukua upatanisho wa A-WA: «Simba mkali anawinda»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Chakula cha asubuhi\":",
+          "prompt": "Unapozungumzia madaktari wengi hospitalini, sentensi ipi inafuata upatanisho sahihi wa kisarufi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Chakula cha jioni»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Maji»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Chakula cha mchana»"
+            "Madaktari hodari wanatibu wagonjwa wengi. (Skillful doctors treat many patients - Correct animate plural agreement)",
+            "Madaktari hodari yanatibu wagonjwa wengi (Kosa la kuchukulia daktari kama kitu kisicho hai)",
+            "Madaktari mzuri anatibu wagonjwa wengi (Kosa la kuchanganya umoja na wingi)",
+            "Daktari wote inatibu wagonjwa wengi (Kosa la upatanisho)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Madaktari ni binadamu, hivyo huchukua upatanisho wa wingi wa A-WA: «Madaktari hodari wanatibu»."
         }
       ]
     },
@@ -1093,17 +1122,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Chakula cha asubuhi\": Which sentence is completely correct?",
+          "prompt": "Chagua maelezo sahihi kuhusu kanuni ya uhai (animacy) katika ngeli za Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Maji»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Chakula cha mchana»",
-            "Mpangilio usio sahihi wa viambishi katika «Chakula cha jioni»"
+            "Majina yote ya viumbe hai (kama wanyama, ndege, na majina ya ukoo) huchukua upatanisho wa Ngeli ya A-WA bila kujali herufi zake za mwanzo. (All animate nouns take Class A-WA agreement regardless of their initial prefixes.)",
+            "Wanyama wote huchukua upatanisho wa ngeli ya vitu visivyo na uhai kila wakati.",
+            "Majina ya ukoo kama 'mama' na 'baba' hayana upatanisho wowote katika Kiswahili.",
+            "Wadudu na ndege pekee ndio wasioweza kuingia katika Ngeli ya A-WA."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Majina yote ya viumbe hai (kama wanyama, ndege, na majina ya ukoo) huchukua upatanisho wa Ngeli ya A-WA bila kujali herufi zake za mwanzo.» ndiyo kanuni kuu ya sarufi."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u2-l4": {
@@ -1111,53 +1141,62 @@
     "subject": "swahili",
     "unit": 2,
     "lessonNumber": 4,
-    "title": "Ngeli za Nomino: Ngeli ya 1/2 (A-WA) (Noun Classes 1/2 A-WA) (Part 4)",
+    "title": "Vionyeshi vya Ngeli ya A-WA (Demonstratives: Huyu, Yule, Hawa, Wale)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.4) with authentic precision.",
+    "objective": "Kutambua na kutumia vionyeshi vya Ngeli ya A-WA: ukaribu (huyu / hawa), umbali (yule / wale), na urejeshi (huyo / hao).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vionyeshi vya Ngeli ya A-WA (Demonstratives in Class 1/2):\n\n1. **Vionyeshi vya Ukaribu (Near Demonstratives - This / These)**:\n   - **Umoja**: **Huyu** (This person near the speaker):\n     - *Mtu huyu* (This person)\n     - *Mtoto huyu* (This child)\n   - **Wingi**: **Hawa** (These people near the speaker):\n     - *Watu hawa* (These people)\n     - *Watoto hawa* (These children)\n\n2. **Vionyeshi vya Umbali (Far Demonstratives - That / Those)**:\n   - **Umoja**: **Yule** (That person far from both speaker & listener):\n     - *Mwalimu yule* (That teacher over there)\n     - *Mgeni yule* (That guest over there)\n   - **Wingi**: **Wale** (Those people far away):\n     - *Walimu wale* (Those teachers over there)\n     - *Wageni wale* (Those guests over there)\n\n3. **Vionyeshi vya Urejeshi (Referential Demonstratives - That / Those mentioned before)**:\n   - **Umoja**: **Huyo** (That person previously mentioned / near listener)\n   - **Wingi**: **Hao** (Those people previously mentioned / near listener)\n\n4. **Nafasi ya Kionyeshi katika Sentensi**:\n   - Kionyeshi kinaweza kufuata nomino (*mtu huyu*) au kutangulia nomino (*huyu mtu*) kutilia mkazo.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 2."
+          "target": "Mvulana huyu ni mwanafunzi bora, na wasichana wale ni wanamichezo mahiri.",
+          "reading": "Mvu-la-na hu-yu ni mwa-na-fu-nzi bo-ra, na wa-si-cha-na wa-le ni wa-na-mi-che-zo ma-hi-ri. [mvuˈlɑnɑ ˈhuju ni mwɑnɑˈfunzi ˈbɔrɑ nɑ wɑsiˈtʃɑnɑ ˈwɑlɛ ni wɑnɑmiˈtʃɛzɔ mɑˈhiri] (mvoo-LAH-nah HOO-yoo nee mwah-nah-FOON-zee BOH-rah, nah wah-see-CHAH-nah WAH-lay nee wah-nah-mee-CHAY-zoh mah-HEE-ree)",
+          "translation": "This boy [near demonstrative singular: mvulana huyu] is an excellent student, and those girls [far demonstrative plural: wasichana wale] are skilled athletes."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 2-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Watu hawa wote wanatoka mji mmoja lakini yule daktari anatoka mbali sana.",
+          "reading": "Wa-tu ha-wa wo-te wa-na-to-ka m-ji mmo-ja la-ki-ni yu-le da-kta-ri a-na-to-ka mba-li sa-na. [ˈwɑtu ˈhɑwɑ ˈwɔtɛ wɑnɑˈtɔkɑ ˈmʤi ˈmːɔʤɑ lɑˈkini ˈjulɛ dɑkˈtɑri ɑnɑˈtɔkɑ ˈmbɑli ˈsɑnɑ] (WAH-too HAH-wah WOH-tay wah-nah-TOH-kah M-jee MMOH-jah lah-KEE-nee YOO-lay dahk-TAH-ree ah-nah-TOH-kah M-BAH-lee SAH-nah)",
+          "translation": "All these people [near demonstrative plural: watu hawa] come from one town, but that doctor over there [far demonstrative singular: yule daktari] comes from very far away."
+        },
+        {
+          "target": "Kaka huyu anapenda kusoma vitabu, na wale wazazi wanafurahia maendeleo yake.",
+          "reading": "Ka-ka hu-yu a-na-pe-nda ku-so-ma vi-ta-bu, na wa-le wa-za-zi wa-na-fu-ra-hi-a ma-e-nde-le-o ya-ke. [ˈkɑkɑ ˈhuju ɑnɑˈpɛndɑ kuˈsɔmɑ viˈtɑbu nɑ ˈwɑlɛ wɑˈzɑzi wɑnɑfurɑˈhiɑ mɑɛndɛˈlɛɔ ˈjɑkɛ] (KAH-kah HOO-yoo ah-nah-PAYN-dah koo-SOH-mah vee-TAH-boo, nah WAH-lay wah-ZAH-zee wah-nah-foo-rah-HEE-ah mah-ayn-day-LAY-oh YAH-kay)",
+          "translation": "This brother [demonstrative: kaka huyu] loves reading books, and those parents [demonstrative: wale wazazi] rejoice in his progress."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vionyeshi vya A-WA: Karibu = Huyu / Hawa, Mbali = Yule / Wale, Rejea = Huyo / Hao!"
+      ],
+      "culturalNotes": [
+        "Kutaja mtu kwa kionyeshi cha 'Yule' huambatana na kutotikisa kidole cha shahada moja kwa moja usoni pa mtu, kwani kufanya hivyo huhesabiwa kuwa ukosefu wa adabu kwenye jamii ya Waswahili."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Chakula cha mchana\":",
+          "prompt": "Unapotaka kumwonyesha mtu aliye karibu nawe katika Ngeli ya 1 (Umoja), unatumia neno gani?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Chakula cha jioni»",
-            "Mpangilio usio sahihi wa viambishi katika «Maji»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Maziwa»"
+            "Huyu (This person - Near demonstrative for Class 1 singular)",
+            "Yule (Kionyeshi cha umbali badala ya ukaribu)",
+            "Hiki (Kionyeshi cha Ngeli ya 7 KI-VI)",
+            "Hawa (Kionyeshi cha wingi badala ya umoja)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kionyeshi cha ukaribu cha umoja katika Ngeli ya A-WA ni «Huyu»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Chakula cha mchana\":",
+          "prompt": "Sentensi gani inatumia kionyeshi cha umbali wa wingi (wale) kwa usahihi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Maji»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Maziwa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Chakula cha jioni»"
+            "Wanafunzi wale wanasoma chini ya mti kule mbali. (Those students over there are studying under the tree - Accurate far plural demonstrative)",
+            "Mwanafunzi wale anasoma chini ya mti kule (Mchanganyiko wa nomino ya umoja na kionyeshi cha wingi)",
+            "Wanafunzi yule wanacheza mpira (Mchanganyiko wa nomino ya wingi na kionyeshi cha umoja)",
+            "Kitabu wale kiko mezani (Kosa la ngeli)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Wanafunzi wale wanasoma chini ya mti kule mbali.» inatumia kionyeshi cha umbali wa wingi «wale» kwa usahihi."
         }
       ]
     },
@@ -1165,17 +1204,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Chakula cha mchana\": Which sentence is completely correct?",
+          "prompt": "Chagua jedwali sahihi la vionyeshi vya Ngeli ya A-WA (Umoja na Wingi):",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Maziwa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Chakula cha jioni»",
-            "Mpangilio usio sahihi wa viambishi katika «Maji»"
+            "Ukaribu: Huyu / Hawa | Umbali: Yule / Wale | Urejelezi: Huyo / Hao (Near: Huyu/Hawa | Far: Yule/Wale | Referential: Huyo/Hao)",
+            "Ukaribu: Hiki / Hivi | Umbali: Kile / Vile | Urejelezi: Hicho / Hivyo",
+            "Ukaribu: Hili / Haya | Umbali: Lile / Yale | Urejelezi: Hilo / Hayo",
+            "Ukaribu: Huu / Hii | Umbali: Ule / Ile | Urejelezi: Huo / Hiyo"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Ukaribu: Huyu / Hawa | Umbali: Yule / Wale | Urejelezi: Huyo / Hao» ndilo jedwali sahihi la Ngeli ya A-WA."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u2-l5": {
@@ -1183,53 +1223,62 @@
     "subject": "swahili",
     "unit": 2,
     "lessonNumber": 5,
-    "title": "Ngeli za Nomino: Ngeli ya 1/2 (A-WA) (Noun Classes 1/2 A-WA) (Part 5)",
+    "title": "Muhtasari wa Ngeli ya 1/2 (A-WA) (Noun Class 1/2 Grand Synthesis)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.5) with authentic precision.",
+    "objective": "Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 1/2 (A-WA): nomino za m-/wa-, kanuni ya uhai ya wanyama na ukoo, upatanisho wa vivumishi na vitenzi, na vionyeshi vya ukaribu na umbali katika sentensi changamano.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Ngeli ya 1/2 (A-WA) (Noun Class 1/2 Grand Synthesis):\n\n1. **Muhtasari wa Ngeli ya A-WA**:\n   - **Nomino za Kawaida**: *m-tu* -> *wa-tu*, *m-toto* -> *wa-toto*, *mw-alimu* -> *wa-limu*.\n   - **Viumbe Hai Bila Viambishi vya M-**: *baba*, *mama*, *dada*, *simba*, *tembo*, *daktari* (wote huchukua upatanisho wa A-WA).\n\n2. **Mfumo wa Upatanisho wa Kisarufi (Concord Paradigm)**:\n   - **Kiambishi cha Kitenzi (SP)**: Umoja = **a-** (*mtu anasoma*) | Wingi = **wa-** (*watu wanasoma*).\n   - **Vivumishi (Adjectives)**: Umoja = **m-/mw-** (*mzuri, mwerevu*) | Wingi = **wa-** (*wazuri, waerevu*).\n   - **Vionyeshi (Demonstratives)**: Umoja = **huyu / yule / huyo** | Wingi = **hawa / wale / hao**.\n\n3. **Utunzi wa Sentensi Changamano (Sentence Construction)**:\n   - *Mwalimu huyu mwema anawafundisha watoto wale werevu.* (This good teacher teaches those clever children.)\n   - *Wageni hawa wakarimu wanazungumza na wazee wale wenye hekima.* (These generous guests speak with those wise elders.)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 2."
+          "target": "Mwalimu huyu mwema anawafundisha wanafunzi wale werevu jinsi ya kuandika insha nzuri.",
+          "reading": "Mwa-li-mu hu-yu mwe-ma a-na-wa-fu-ndi-sha wa-na-fu-nzi wa-le we-re-vu ji-nsi ya ku-a-ndi-ka i-nsha nzu-ri. [mwɑˈlimu ˈhuju ˈmwɛmɑ ɑnɑwɑfunˈdiʃɑ wɑnɑˈfunzi ˈwɑlɛ wɛˈrɛvu ˈʤinsi jɑ kuɑnˈdikɑ ˈinʃɑ ˈnzuri] (mwah-LEE-moo HOO-yoo MWAY-mah ah-nah-wah-foon-DEE-shah wah-nah-FOON-zee WAH-lay way-RAY-voo JEEN-see yah koo-ahn-DEE-kah EEN-shah N-ZOO-ree)",
+          "translation": "This good teacher [class 1 complete concord: mwalimu huyu mwema anawafundisha] teaches those clever students [class 2 complete concord: wanafunzi wale werevu] how to write good essays."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 2-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Watoto hawa watiifu wanawasikiliza wazazi wao wakarimu kwa heshima na upendo.",
+          "reading": "Wa-to-to ha-wa wa-ti-i-fu wa-na-wa-si-ki-li-za wa-za-zi wa-o wa-ka-ri-mu kwa he-shi-ma na u-pe-ndo. [wɑˈtɔtɔ ˈhɑwɑ wɑtiˈifu wɑnɑwɑsikiˈlizɑ wɑˈzɑzi ˈwɑɔ wɑkɑˈrimu kwɑ hɛˈʃimɑ nɑ uˈpɛndɔ] (wah-TOH-toh HAH-wah wah-tee-EE-foo wah-nah-wah-see-kee-LEE-zah wah-ZAH-zee WAH-oh wah-kah-REE-moo kwah hay-SHEE-mah nah oo-PAYN-doh)",
+          "translation": "These obedient children [class 2 concord: watoto hawa watiifu wanawasikiliza] listen to their generous parents with respect and love."
+        },
+        {
+          "target": "Ngeli ya A-WA inajumuisha viumbe wote wenye uhai, ambapo nomino, vivumishi, vionyeshi na vitenzi hupatana kikamilifu.",
+          "reading": "Nge-li ya A-WA i-na-ju-mu-i-sha viu-mbe wo-te we-nye u-ha-i, a-mba-po no-mi-no, vi-vu-mi-shi, vio-nye-shi na vi-te-nzi hu-pa-ta-na ki-ka-mi-li-fu. [ˈŋɡɛli jɑ ɑ-wɑ inɑʤumuˈiʃɑ viˈumbɛ ˈwɔtɛ ˈwɛnjɛ uˈhɑi ɑmˈbɑpɔ nɔˈminɔ vivuˈmiʃi viɔˈɲɛʃi nɑ viˈtɛnzi hupɑˈtɑnɑ kikɑmiˈlifu] (N-GAY-lee yah AH-WAH ee-nah-joo-moo-EE-shah vee-OOM-bay WOH-tay WAYN-yay oo-HAH-ee, ahm-BAH-poh noh-MEE-noh, vee-voo-MEE-shee, vee-ohn-YAY-shee nah vee-TAYN-zee hoo-pah-TAH-nah kee-kah-mee-LEE-foo)",
+          "translation": "Class A-WA encompasses all living entities [synthesis definition: viumbe wenye uhai], where nouns, adjectives, demonstratives, and verbs harmonize completely."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Muhtasari wa A-WA: Mtu huyu mzuri anasoma (Umoja) -> Watu hawa wazuri wanasoma (Wingi)!"
+      ],
+      "culturalNotes": [
+        "Kuelewa Ngeli ya A-WA kunamwezesha mwanafunzi kuingia katika ulimwengu mpana wa jamii za Waswahili na kufahamu mahusiano ya kijamii na kiutamaduni."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Chakula cha jioni\":",
+          "prompt": "Sentensi ipi inajumuisha upatanisho kamili wa Ngeli ya A-WA (Nomino + Kionyeshi + Kivumishi + Kitenzi)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Maji»",
-            "Mpangilio usio sahihi wa viambishi katika «Maziwa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Chai»"
+            "Wageni hawa wema wanafika nyumbani kwetu salama. (These good guests arrive at our home safely - Complete harmonious Class 2 concord)",
+            "Wageni huyu mzuri anafika nyumbani kwetu salama (Mchanganyiko potofu wa umoja na wingi)",
+            "Mgeni hawa wazuri wanafika nyumbani (Kosa la upatanisho wa nomino)",
+            "Wageni wale kizuri kinafika nyumbani (Kosa la kuchanganya ngeli tofauti)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Wageni hawa wema wanafika nyumbani kwetu salama.» inaoanisha nomino (wageni), kionyeshi (hawa), kivumishi (wema) na kitenzi (wanafika)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Chakula cha jioni\":",
+          "prompt": "Katika muhtasari wa Unit 2, ni kanuni ipi ya jumla inayotawala Ngeli ya A-WA?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Maziwa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Chai»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Maji»"
+            "Viumbe wote wenye uhai huchukua kiambishi cha kitenzi 'a-' kwa umoja na 'wa-' kwa wingi. (All living beings take verbal prefix a- in singular and wa- in plural)",
+            "Vitu vyote vya chuma huingia katika Ngeli ya A-WA pekee",
+            "Ngeli ya A-WA haina vivumishi wala vionyeshi",
+            "Maneno yote ya Ngeli ya A-WA lazima yaanze na herufi 'z'"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kanuni kuu ni kwamba viumbe wote wenye uhai huchukua «a-» kwa umoja na «wa-» kwa wingi."
         }
       ]
     },
@@ -1237,17 +1286,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Chakula cha jioni\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya muhtasari mkuu inayowakilisha umahiri wa juu wa Ngeli ya 1/2 (A-WA):",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Chai»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Maji»",
-            "Mpangilio usio sahihi wa viambishi katika «Maziwa»"
+            "Mwalimu yule hodari anawalea wanafunzi hawa wadogo kwa upendo, na wazazi wote wanafurahia malezi yake. (That skilled teacher nurtures these young students with love, and all parents rejoice in his care.)",
+            "Mwalimu wale wazuri inalea wanafunzi huyu mdogo kwa upendo.",
+            "Wanafunzi yule mzuri anasoma kitabu kimoja kila siku usiku.",
+            "Ngeli ya A-WA inakataza matumizi ya vionyeshi na vivumishi katika sentensi."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Mwalimu yule hodari anawalea wanafunzi hawa wadogo kwa upendo, na wazazi wote wanafurahia malezi yake.» inajumuisha upatanisho wote wa A-WA kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u3-l1": {
