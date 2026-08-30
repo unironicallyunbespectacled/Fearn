@@ -2783,56 +2783,65 @@
     "subject": "korean",
     "unit": 6,
     "lessonNumber": 1,
-    "title": "과거 시제(-았/었/였-)와 일상 서술 (Past Tense Narratives) (Part 1)",
+    "title": "과거 시제 선어말어미 결합 규칙 (-았-/-었-/-였-)",
     "level": "A2",
-    "objective": "Comprehensive mastery of 과거 시제 -았/었- 활용 (Past Tense -았/었-).",
+    "objective": "어간 끝 모음의 음운적 성질(양성모음 vs 음성모음 vs 하다)에 따라 과거 시제 선어말어미 '-았-', '-었-', '-였-'을 정확히 선택 결합한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 과거 시제(-았/었/였-)와 일상 서술 (Past Tense Narratives) » (제1절)의 핵심 언어 요소와 과거 시제 -았/었- 활용 (Past Tense -았/었-)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어의 과거 시제는 용언(동사/형용사) 어간과 종결어미 사이에 과거 시제 선어말어미 '-았/었/였-'을 결합하여 나타냅니다.\n\n1. 모음조화에 따른 3대 결합 공식:\n- 양성모음 어간 (끝 모음이 'ㅏ, ㅗ') + -았-:\n  - 가다 → 가 + 았어요 → 갔어요 / 갔습니다 (went)\n  - 보다 → 보 + 았어요 → 봤어요 / 봤습니다 (saw)\n  - 오다 → 오 + 았어요 → 왔어요 / 왔습니다 (came)\n  - 앉다 → 앉 + 았어요 → 앉았어요 / 앉았습니다 (sat)\n  - 살다 → 살 + 았어요 → 살았어요 / 살았습니다 (lived)\n- 음성모음 어간 (끝 모음이 'ㅓ, ㅜ, ㅡ, ㅣ') + -었-:\n  - 먹다 → 먹 + 었어요 → 먹었어요 / 먹었습니다 (ate)\n  - 읽다 → 읽 + 었어요 → 읽었어요 / 읽었습니다 (read)\n  - 배우다 → 배우 + 었어요 → 배웠어요 / 배웠습니다 (learned)\n  - 마시다 → 마시 + 었어요 → 마셨어요 / 마셨습니다 (drank)\n- '하다' 동사/형용사 + -였- (축약형: -했-):\n  - 공부하다 → 공부하였어요 → 공부했어요 / 공부했습니다 (studied)\n  - 운동하다 → 운동했어요 / 운동했습니다 (exercised)\n  - 일하다 → 일했어요 / 일했습니다 (worked)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (6.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "어제 친구와 함께 극장에서 영화를 봤어요.",
+          "reading": "Eoje chingu-wa hamkke geukjang-eseo yeonghwa-reul bwasseoyo.",
+          "translation": "Yesterday, I watched a movie at the theatre with a friend."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (6.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "아침에 따뜻한 녹차를 마셨어요.",
+          "reading": "Achim-e ttatteuthan nokcha-reul masyeosseoyo.",
+          "translation": "In the morning, I drank warm green tea."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (6.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "주말에 도서관에서 한국어를 열심히 공부했습니다.",
+          "reading": "Jumal-e doseogwan-eseo hangug-eo-reul yeolsimhi gongbuhaesseumnida.",
+          "translation": "On the weekend, I studied Korean diligently in the library."
+        },
+        {
+          "target": "손님들이 식당 의자에 편하게 앉았습니다.",
+          "reading": "Sonnimdeul-i sikdang uija-e pyeonhage anjasseumnida.",
+          "translation": "The guests sat down comfortably on the restaurant chairs."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "밝은 모음(ㅏ, ㅗ)은 '-았-', 어두운 모음(ㅓ, ㅜ, ㅡ, ㅣ)은 '-었-', '하다'는 언제나 '-했-'!"
+      ],
+      "culturalNotes": [
+        "한국어의 과거 시제 '-았/었-'은 과거에 완료된 동작뿐 아니라 과거의 행위로 인한 현재의 상태가 지속됨을 나타내기도 합니다 (예: '의자에 앉았어요' = 앉는 동작을 완료하여 지금 앉아 있는 상태임)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 과거 시제 -았/었- 활용 (Past Tense -았/었-) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "동사 '먹다(to eat - 음성모음 ㅓ)'의 올바른 해요체 과거형은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (6.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (6.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (6.1.3)."
+            "먹었어요",
+            "먹았어요",
+            "먹했어요"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'먹다'의 어간 모음 'ㅓ'는 음성모음이므로 '-었-'과 결합하여 '먹었어요'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 과거 시제(-았/었/였-)와 일상 서술 (Past Tense Narratives) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "'보다(to see - 양성모음 ㅗ)'의 올바른 격식체 하십시오체 과거형은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (6.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (6.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (6.1.3)."
+            "봤습니다",
+            "보었습니다",
+            "보했습니다"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'보다'는 양성모음이므로 '-았-'과 축약 결합하여 '봤습니다[봣씀니다]'가 됩니다."
         }
       ]
     },
@@ -2840,14 +2849,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 과거 시제 -았/었- 활용 (Past Tense -았/었-) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 6-1)?",
+          "prompt": "'어제 공원에서 1시간 동안 열심히 _____ (I exercised diligently in the park yesterday).' 빈칸에 알맞은 과거형은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (6.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (6.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (6.1.3)."
+            "운동했어요",
+            "운동았어요",
+            "운동먹었어요"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'운동하다'는 '하다' 동사이므로 과거형 '운동했어요'가 올바릅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'영화를 봤어요'(I watched a movie)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "영화를 봤어요.",
+            "영화를 봤어요"
+          ],
+          "explanation": "영화를(목적어) + 봤어요(보다의 과거형) = 영화를 봤어요."
         }
       ]
     }
@@ -2857,56 +2875,65 @@
     "subject": "korean",
     "unit": 6,
     "lessonNumber": 2,
-    "title": "과거 시제(-았/었/였-)와 일상 서술 (Past Tense Narratives) (Part 2)",
+    "title": "과거 시제의 모음 축약과 'ㅡ' 탈락 규칙 (썼어요, 컸어요, 만났어요)",
     "level": "A2",
-    "objective": "Comprehensive mastery of 과거 시제 -았/었- 활용 (Past Tense -았/었-).",
+    "objective": "과거 시제 형성 시 일어나는 동일 모음 탈락(가+았→갔), 활음화 축약(보+았→봤, 마시+었→마셨), 'ㅡ' 탈락(쓰+었→썼, 크+었→컸)의 음운 현상을 완벽히 파악한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 과거 시제(-았/었/였-)와 일상 서술 (Past Tense Narratives) » (제2절)의 핵심 언어 요소와 과거 시제 -았/었- 활용 (Past Tense -았/었-)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "모음으로 끝나는 용언 어간에 과거 시제 어미 '-았/었-'이 결합할 때는 음운 축약(Contraction)과 탈락(Deletion)이 활발하게 일어납니다.\n\n1. 동일 모음 충돌 탈락 (아/어 탈락):\n- 어간 끝 모음과 어미의 첫 모음이 같으면 하나가 탈락합니다.\n  - 가다: 가 + 았어요 → 갔어요 (가았어요 X)\n  - 만나다: 만나 + 았어요 → 만났어요 (만나았어요 X)\n  - 서다: 서 + 었어요 → 섰어요 (서었어요 X)\n\n2. 모음 활음화 축약 (Gliding):\n- 오다: 오 + 았어요 → 왔어요 [와써요]\n- 마시다: 마시 + 었어요 → 마셨어요 [마셔써요]\n- 기다리다: 기다리 + 었어요 → 기다렸어요 [기다려써요]\n- 배우다: 배우 + 었어요 → 배웠어요 [배워써요]\n\n3. 'ㅡ' 탈락 불규칙 (ㅡ-Drop in Past Tense):\n- 어간 모음 'ㅡ'는 모음 어미 '-았/었-' 앞에서 반드시 탈락합니다.\n- 앞 음절에 다른 모음이 없으면 '-었-' 결합:\n  - 쓰다 (to write / use): 쓰 - ㅡ + 었어요 → 썼어요 [써써요]\n  - 크다 (to be big / grow): 크 - ㅡ + 었어요 → 컸어요 [커써요]\n  - 끄다 (to turn off): 끄 - ㅡ + 었어요 → 껐어요 [꺼써요]\n- 앞 음절의 모음이 'ㅏ, ㅗ'이면 '-았-' 결합:\n  - 바쁘다 (to be busy): 바ㅃ(앞음절 'ㅏ') + 았어요 → 바빴어요 [바빠써요]\n  - 아프다 (to hurt / be sick): 아ㅍ(앞음절 'ㅏ') + 았어요 → 아팠어요 [아파써요]",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (6.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "어젯밤에 부모님께 감사 편지를 썼어요.",
+          "reading": "Eojetbam-e bumonim-kke gamsa pyeonji-reul sseosseoyo.",
+          "translation": "Last night, I wrote a thank-you letter to my parents (쓰다 → 썼어요)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (6.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "지난주에는 회사 일 때문에 정말 바빴어요.",
+          "reading": "Jinanju-eneun hoesa il ttaemune jeongmal bappasseoyo.",
+          "translation": "Last week, I was really busy because of company work (바쁘다 → 바빴어요)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (6.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "역 앞에서 친구를 30분 동안 기다렸어요.",
+          "reading": "Yeok ap-eseo chingu-reul samsipbun dongan gidaryeosseoyo.",
+          "translation": "I waited for my friend in front of the station for 30 minutes (기다리다 → 기다렸어요)."
+        },
+        {
+          "target": "방에 들어와서 방 불을 껐어요.",
+          "reading": "Bang-e deureowaseo bang bul-eul kkeosseoyo.",
+          "translation": "I came into the room and turned off the room light (끄다 → 껐어요)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "모음 어미 앞의 'ㅡ'는 무조건 탈락! 쓰다 → 썼어요, 끄다 → 껐어요, 바쁘다 → 바빴어요!"
+      ],
+      "culturalNotes": [
+        "한국인들은 안부를 물을 때 '요즘 많이 바빴지요?'처럼 과거형 형용사를 사용하여 상대방의 지난 노고를 따뜻하게 위로하고 공감하는 어법을 자주 구사합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 과거 시제 -았/었- 활용 (Past Tense -았/었-) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "동사 '쓰다(to write)'의 올바른 과거형 서술어는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (6.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (6.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (6.2.3)."
+            "썼어요",
+            "쓰었어요",
+            "쓰았어요"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'쓰다'의 모음 'ㅡ'가 탈락하고 '-었-'과 결합하여 '썼어요[써써요]'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 과거 시제(-았/었/였-)와 일상 서술 (Past Tense Narratives) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "형용사 '바쁘다(to be busy)'의 올바른 과거형은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (6.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (6.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (6.2.3)."
+            "바빴어요",
+            "바뻤어요",
+            "바쁘었어요"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'바쁘다'의 'ㅡ'가 탈락한 후 앞 음절 '바'의 양성모음 'ㅏ'에 호응하여 '-았-'이 붙어 '바빴어요'가 됩니다."
         }
       ]
     },
@@ -2914,14 +2941,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 과거 시제 -았/었- 활용 (Past Tense -았/었-) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 6-2)?",
+          "prompt": "'약속 장소에서 친구를 1시간 동안 _____ (I waited for my friend for an hour).' 빈칸에 알맞은 형태는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (6.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (6.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (6.2.3)."
+            "기다렸어요",
+            "기다리았어요",
+            "기다리했어요"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'기다리다'의 어간 끝 'ㅣ'와 '-었-'이 축약되어 '기다렸어요'가 됩니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'편지를 썼어요'(I wrote a letter)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "편지를 썼어요.",
+            "편지를 썼어요"
+          ],
+          "explanation": "편지를(목적어) + 썼어요(쓰다의 ㅡ탈락 과거형) = 편지를 썼어요."
         }
       ]
     }
@@ -2931,56 +2967,65 @@
     "subject": "korean",
     "unit": 6,
     "lessonNumber": 3,
-    "title": "과거 시제(-았/었/였-)와 일상 서술 (Past Tense Narratives) (Part 3)",
+    "title": "과거 시간 부사어의 통사적 호응과 시제 일치 (어제, 지난주, 작년, 아까)",
     "level": "A2",
-    "objective": "Comprehensive mastery of 과거 시제 -았/었- 활용 (Past Tense -았/었-).",
+    "objective": "'어제', '지난주', '작년', '아까', '그때' 등 과거를 지시하는 필수 시간 부사어와 과거 시제 서술어의 엄격한 통사적 호응 규칙을 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 과거 시제(-았/었/였-)와 일상 서술 (Past Tense Narratives) » (제3절)의 핵심 언어 요소와 과거 시제 -았/었- 활용 (Past Tense -았/었-)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어 문장에서 시간 부사어(Time Adverbials)는 문장 전체의 시제(Tense)를 결정하는 중요한 통사적 길잡이 역할을 합니다.\n\n1. 필수 과거 시간 부사어 목록:\n- 어제 (Yesterday): 어제 저녁에 불고기를 먹었어요.\n- 그저께 / 엊그제 (The day before yesterday / a couple days ago): 그저께 한국에 도착했어요.\n- 아까 (A little while ago / earlier today): 아까 커피를 마셨어요.\n- 지난주 (Last week): 지난주에 한국어 시험을 봤어요.\n- 지난달 (Last month): 지난달에 새 집으로 이사했어요.\n- 작년 (Last year - 발음: [장년]): 작년에 대학교를 졸업했습니다.\n- 그때 (At that time / back then): 그때는 한국어를 전혀 몰랐어요.\n\n2. 시제 일치(Tense Concord) 규칙:\n- 문장에 명시적인 과거 시간 부사가 포함되면 서술어는 반드시 과거 시제 선어말어미(-았/었-)를 취해야 합니다.\n  - (올바른 문장) 어제 친구를 만났어요. (O)\n  - (비문법적 오류) *어제 친구를 만나요. (X - 시간 부사와 현재 시제 충돌)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (6.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "어제 오후에 시내 중심가에서 친구를 만났어요.",
+          "reading": "Eoje ohu-e sinae jungsimga-eseo chingu-reul mannasseoyo.",
+          "translation": "Yesterday afternoon, I met a friend in downtown."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (6.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "아까 점심시간에 맛있는 비빔밥을 먹었어요.",
+          "reading": "Akka jeomsimsigan-e masinneun bibimbap-eul meogeosseoyo.",
+          "translation": "A little while ago at lunchtime, I ate delicious bibimbap."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (6.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "작년에 한국 문화에 대해 처음 배웠습니다.",
+          "reading": "Jangnyeon-e hanguk munhwa-e daehae cheoeum baewosseumnida.",
+          "translation": "Last year, I learned about Korean culture for the first time."
+        },
+        {
+          "target": "지난주 주말에는 집에서 푹 쉬었어요.",
+          "reading": "Jinanju jumal-eneun jib-eseo puk swieosseoyo.",
+          "translation": "Last weekend, I rested deeply at home."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "'어제, 지난주, 작년, 아까'가 보이면 서술어는 무조건 '-았/었어요'로 시제 일치!"
+      ],
+      "culturalNotes": [
+        "'작년(去年)'의 한자어 발음은 비음화 현상에 의해 [장년]으로 소리 납니다. [작년]으로 발음하지 않도록 유의해야 합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 과거 시제 -았/었- 활용 (Past Tense -았/었-) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "'어제(yesterday)'라는 시간 부사와 통사적으로 호응하는 올바른 서술어는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (6.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (6.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (6.3.3)."
+            "도서관에 갔어요",
+            "도서관에 가요",
+            "도서관에 갈 거예요"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "'어제'는 명백한 과거 시점이므로 과거형 서술어인 '갔어요'와 호응해야 합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 과거 시제(-았/었/였-)와 일상 서술 (Past Tense Narratives) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "'아까(earlier today)'와 시제 일치를 이루는 올바른 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (6.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (6.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (6.3.3)."
+            "아까 커피를 마셨어요.",
+            "아까 커피를 마셔요.",
+            "아까 커피를 마실래요."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "'아까'는 과거 시간을 가리키므로 과거형 '마셨어요'가 올바릅니다."
         }
       ]
     },
@@ -2988,14 +3033,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 과거 시제 -았/었- 활용 (Past Tense -았/었-) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 6-3)?",
+          "prompt": "다음 중 시간 부사와 서술어 시제 일치가 문법적으로 완벽한 문장은 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (6.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (6.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (6.3.3)."
+            "지난주에 한국어 시험을 봤어요.",
+            "어제 친구와 영화를 봐요.",
+            "작년에 서울에 가요."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "explanation": "'지난주에 ... 시험을 봤어요'는 과거 시간 부사와 과거 시제 서술어가 완벽히 일치합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'어제 친구를 만났어요'(Yesterday I met a friend)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "어제 친구를 만났어요.",
+            "어제 친구를 만났어요"
+          ],
+          "explanation": "어제(과거 부사) + 친구를(목적어) + 만났어요(만나다의 과거형) = 어제 친구를 만났어요."
         }
       ]
     }
@@ -3005,56 +3059,65 @@
     "subject": "korean",
     "unit": 6,
     "lessonNumber": 4,
-    "title": "과거 시제(-았/었/였-)와 일상 서술 (Past Tense Narratives) (Part 4)",
+    "title": "ㄷ 불규칙 및 ㅂ 불규칙 용언의 과거 시제 (들었어요, 도왔어요, 추웠어요)",
     "level": "A2",
-    "objective": "Comprehensive mastery of 과거 시제 -았/었- 활용 (Past Tense -았/었-).",
+    "objective": "어간 끝 받침 'ㄷ'이 모음 어미 앞에서 'ㄹ'로 바뀌는 ㄷ 불규칙(듣다→들었어요)과 'ㅂ'이 '오/우'로 바뀌는 ㅂ 불규칙(돕다→도왔어요, 춥다→추웠어요)의 과거형을 완벽히 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 과거 시제(-았/었/였-)와 일상 서술 (Past Tense Narratives) » (제4절)의 핵심 언어 요소와 과거 시제 -았/었- 활용 (Past Tense -았/었-)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어의 대표적 불규칙 활용인 'ㄷ 불규칙'과 'ㅂ 불규칙'은 모음으로 시작하는 과거 시제 어미 '-았/었-'과 만날 때 독특한 음운 변화를 일으킵니다.\n\n1. ㄷ 불규칙 과거형 (ㄷ → ㄹ 교체):\n- 어간 끝 받침 'ㄷ'이 모음 어미 앞에서 'ㄹ'로 교체됩니다.\n  - 듣다 (to listen): 듣 + 었어요 → 들었어요 [드러써요] / 들었습니다\n  - 걷다 (to walk): 걷 + 었어요 → 걸었어요 [거러써요] / 걸었습니다\n  - 묻다 (to ask): 묻 + 었어요 → 물었어요 [무러써요] / 물었습니다\n- 규칙 ㄷ 용언 주의 (변화 없음): 닫다 → 닫았어요, 받다 → 받았어요, 믿다 → 믿었어요.\n\n2. ㅂ 불규칙 과거형 (ㅂ → 오/우 교체):\n- 단음절 양성 어간 '돕다', '곱다': 받침 'ㅂ'이 '오'로 바뀌어 '-았-'과 축약 → 도왔어요 [도와써요], 고왔어요 [고와써요].\n- 대부분의 ㅂ 형용사/동사: 받침 'ㅂ'이 '우'로 바뀌어 '-었-'과 축약 → '-웠어요':\n  - 춥다 (cold) → 추 + 우 + 었어요 → 추웠어요 [추워써요]\n  - 덥다 (hot) → 더 + 우 + 었어요 → 더웠어요 [더워써요]\n  - 어렵다 (difficult) → 어려웠어요 [어려워써요]\n  - 맵다 (spicy) → 매웠어요 [매워써요]\n  - 맛있다/맛없다 (규칙): 받침 'ㅆ' 그대로 유지 → 맛있었어요 [마시써써요].",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (6.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "어제 한국 전통 음악을 많이 들었어요.",
+          "reading": "Eoje hanguk jeontong eumak-eul mani deureosseoyo.",
+          "translation": "Yesterday, I listened to a lot of Korean traditional music (듣다 → 들었어요)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (6.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "어제는 날씨가 정말 바람이 불고 추웠어요.",
+          "reading": "Eoje-neun nalssi-ga jeongmal baram-i bulgo chuwosseoyo.",
+          "translation": "Yesterday, the weather was really windy and cold (춥다 → 추웠어요)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (6.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "어려운 이웃을 성심껏 도왔습니다.",
+          "reading": "Eoryeoun iut-eul seongsimkkeot dowasseumnida.",
+          "translation": "I helped neighbors in need with all my heart (돕다 → 도왔습니다)."
+        },
+        {
+          "target": "지난 학기 한국어 시험이 조금 어려웠어요.",
+          "reading": "Jinan hakgi hangug-eo siheom-i jogeum eoryeowosseoyo.",
+          "translation": "Last semester's Korean exam was a little difficult (어렵다 → 어려웠어요)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "듣다는 '들었어요', 돕다는 '도왔어요', 춥다는 '추웠어요'! 모음 앞에서는 ㄷ이 ㄹ로, ㅂ이 오/우로 변신!"
+      ],
+      "culturalNotes": [
+        "'맛있다'는 글자 끝에 받침 'ㅆ'이 있으므로 ㅂ 불규칙이 아닌 규칙 활용을 하여 과거형이 '맛있었어요'가 됨을 꼭 기억하세요."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 과거 시제 -았/었- 활용 (Past Tense -았/었-) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "동사 '듣다(to listen)'의 올바른 과거형은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (6.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (6.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (6.4.3)."
+            "들었어요",
+            "듣었어요",
+            "듣았어요"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'듣다'의 받침 'ㄷ'은 모음 어미 앞에서 'ㄹ'로 바뀌므로 '들었어요[드러써요]'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 과거 시제(-았/었/였-)와 일상 서술 (Past Tense Narratives) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "형용사 '춥다(to be cold)'의 올바른 과거형은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (6.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (6.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (6.4.3)."
+            "추웠어요",
+            "춥었어요",
+            "추왔어요"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'춥다'의 'ㅂ'은 '우'로 바뀌어 '-었-'과 축약되므로 '추웠어요[추워써요]'가 됩니다."
         }
       ]
     },
@@ -3062,14 +3125,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 과거 시제 -았/었- 활용 (Past Tense -았/었-) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 6-4)?",
+          "prompt": "'A: 어제 시험이 어땠어요? B: 문제가 아주 _____ (The questions were very difficult).' 빈칸에 알맞은 과거형은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (6.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (6.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (6.4.3)."
+            "어려웠어요",
+            "어렵었어요",
+            "어려왔어요"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'어렵다'는 ㅂ 불규칙 형용사이므로 과거형 '어려웠어요'가 올바릅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'음악을 들었어요'(I listened to music)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "음악을 들었어요.",
+            "음악을 들었어요"
+          ],
+          "explanation": "음악을(목적어) + 들었어요(듣다의 ㄷ불규칙 과거형) = 음악을 들었어요."
         }
       ]
     }
@@ -3079,56 +3151,65 @@
     "subject": "korean",
     "unit": 6,
     "lessonNumber": 5,
-    "title": "과거 시제(-았/었/였-)와 일상 서술 (Past Tense Narratives) (Part 5)",
+    "title": "하루 일과의 시간 순차적 과거 서술과 담화 연결 (-고, 그리고)",
     "level": "A2",
-    "objective": "Comprehensive mastery of 과거 시제 -았/었- 활용 (Past Tense -았/었-).",
+    "objective": "연결 어미 '-고'와 접속 부사 '그리고', '그 다음에'를 활용하여 하루 동안 일어난 여러 사건들을 시간 순서대로 일관되게 서술하는 담화 능력을 구축한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 과거 시제(-았/었/였-)와 일상 서술 (Past Tense Narratives) » (제5절)의 핵심 언어 요소와 과거 시제 -았/었- 활용 (Past Tense -았/었-)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "하루 동안 일어난 여러 일과를 시간의 흐름에 따라 자연스럽게 엮어 말할 때는 나열 연결 어미 '-고'와 접속 부사 '그리고'를 전략적으로 사용합니다.\n\n1. 연결 어미 '-고'의 시제 생략 규칙:\n- 두 개 이상의 동작을 시간 순서대로 연결할 때 선행절(앞 절) 서술어에는 과거 시제를 쓰지 않고 기본 어간에 '-고'만 붙이며, 과거 시제(-았/었-)는 문장의 맨 마지막 종결 서술어에만 표시합니다.\n  - (자연스러운 표현) 아침에 밥을 먹고 학교에 갔어요. (O)\n  - (어색한 중복 표현) *아침에 밥을 먹었고 학교에 갔어요. (X)\n\n2. 하루 일과 과거 서술 담화 모델:\n- \"어제 아침 7시에 일어났어요. (I woke up at 7 AM yesterday.)\"\n- \"물 한 잔을 마시고 집 근처 공원에서 조깅을 했어요. (I drank a glass of water and jogged at the park near my house.)\"\n- \"오전에는 도서관에서 한국어를 열심히 공부했어요. (In the morning, I studied Korean hard at the library.)\"\n- \"점심에는 친구를 만나서 비빔밥을 맛있게 먹었어요. (For lunch, I met a friend and ate delicious bibimbap.)\"\n- \"그리고 저녁에는 집에서 음악을 들으며 편하게 쉬었습니다. (And in the evening, I rested comfortably at home listening to music.)\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (6.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "어제 아침에 일찍 일어나서 운동을 하고 샤워를 했어요.",
+          "reading": "Eoje achim-e iljjik ireonaseo undong-eul hago syawo-reul haesseoyo.",
+          "translation": "Yesterday morning, I woke up early, exercised, and took a shower."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (6.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "도서관에서 책을 읽고 친구와 함께 점심을 먹었어요.",
+          "reading": "Doseogwan-eseo chaek-eul ikgo chingu-wa hamkke jeomsim-eul meogeosseoyo.",
+          "translation": "I read a book at the library and had lunch with a friend."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (6.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "저녁에 퇴근하고 집에서 맛있는 저녁 식사를 만들었습니다.",
+          "reading": "Jeonyeog-e toegeunhago jib-eseo masinneun jeonyeok siksa-reul mandeureosseumnida.",
+          "translation": "In the evening, I finished work and made a delicious dinner at home."
+        },
+        {
+          "target": "어제는 정말 즐겁고 보람찬 하루였어요.",
+          "reading": "Eoje-neun jeongmal jeulgeopgo boramchan haruyeosseoyo.",
+          "translation": "Yesterday was truly a pleasant and fruitful day."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "동작을 순서대로 이을 때는 앞은 '-고', 과거 시제(-았/었-)는 맨 끝에 한 번만!"
+      ],
+      "culturalNotes": [
+        "한국인들은 일기나 SNS에 하루 일과를 적을 때 '오늘도 알차고 보람찬 하루를 보냈습니다'라는 표현으로 하루를 긍정적으로 마무리하는 문화적 습관이 있습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 과거 시제 -았/었- 활용 (Past Tense -았/었-) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "'아침을 먹다'와 '학교에 가다'를 연결 어미 '-고'로 자연스럽게 이은 과거형 문장은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (6.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (6.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (6.5.3)."
+            "아침을 먹고 학교에 갔어요.",
+            "아침을 먹었고 학교에 갔어요.",
+            "아침을 먹고 학교에 가요."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "앞 절은 기본 어간에 '-고'만 붙이고 과거 시제는 마지막 서술어에 '갔어요'로 한 번만 표기하는 것이 가장 자연스럽습니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 과거 시제(-았/었/였-)와 일상 서술 (Past Tense Narratives) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "'책을 읽다'와 '숙제를 하다'를 시간 순서대로 표현한 올바른 과거 서술 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (6.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (6.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (6.5.3)."
+            "책을 읽고 숙제를 했어요.",
+            "책을 읽었고 숙제를 했어요.",
+            "책을 읽고 숙제를 해요."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'읽고(비시제 연결) + 했어요(종결 과거 시제)'의 구조가 표준적입니다."
         }
       ]
     },
@@ -3136,14 +3217,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 과거 시제 -았/었- 활용 (Past Tense -았/었-) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 6-5)?",
+          "prompt": "다음 중 하루 일과를 시간 순서대로 서술한 문법적으로 가장 자연스러운 문장은 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (6.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (6.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (6.5.3)."
+            "친구를 만나고 같이 영화를 봤어요.",
+            "친구를 만났고 같이 영화를 봤어요.",
+            "친구를 만나고 같이 영화를 봐요."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'만나고 ... 봤어요'가 연결 어미 시제 생략 규칙에 부합하는 가장 자연스러운 한국어 문장입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'운동을 하고 샤워를 했어요'(I exercised and took a shower)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "운동을 하고 샤워를 했어요.",
+            "운동을 하고 샤워를 했어요"
+          ],
+          "explanation": "운동을 하고(동작 연결) + 샤워를 했어요(과거 종결) = 운동을 하고 샤워를 했어요."
         }
       ]
     }
