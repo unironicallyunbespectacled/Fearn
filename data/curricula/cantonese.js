@@ -2535,53 +2535,62 @@
     "subject": "cantonese",
     "unit": 6,
     "lessonNumber": 1,
-    "title": "飲茶文化、點餐同茶餐廳 (Dim Sum & Cha Chaan Teng) (第1課)",
+    "title": "茶樓飲茶文化與開茶禮儀：「一盅兩件」、「叩指謝茶」 (Yum Cha Culture & Tea Etiquette)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元6第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵式茶樓「飲茶」社交文化、開茶茶種選擇（普洱、香片、鐵觀音、水仙）及「叩指謝茶」地道禮儀。",
     "presentation": {
-      "explanation": "",
+      "explanation": "「飲茶」（jam2 caa4）係嶺南及香港文化中最具代表性之飲食社交傳統，蘊含深厚之歷史禮儀：\n\n一、「一盅兩件」與開茶茶種：\n入座後侍應（伙計）第一句必問「飲咩茶？」（想要什麼茶？），顧客可選擇：\n１．「普洱」（bou2 lei2）：醇厚消滯，最為大眾化。\n２．「香片」（hoeng1 pin2）：茉莉花茶，清香怡人。\n３．「鐵觀音」（tit3 gun1 jam1）：烏龍茶類，茶味濃郁甘醇。\n４．「水仙」（seoi2 sin1）：福建閩北烏龍，岩韻悠長。\n５．「菊普」（guk1 bou2）：菊花茶混合普洱茶，清熱消脂。\n\n二、飲茶三大肢體禮儀暗號：\n１．「叩指謝茶」（kau3 zi2 lai5）：他人為自己倒茶時，食指與中指微屈在枱面輕叩兩三下，表示謝意（相傳源自乾隆皇帝微服南巡之典故）。\n２．「揭壺蓋」（kit3 wu4 goi3）：茶壺水飲完需要加熱水時，將壺蓋斜放在壺口或壺柄邊，侍應見到便會主動前來加熱水，無須大聲呼喊。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 6 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 6 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 6 in communication."
+          "target": "伙計，唔該開一壺熱普洱，兩位。",
+          "reading": "fo2 gai3, m4 goi1 hoi1 jat1 wu4 jit6 bou2 lei2, loeng5 wai6. [fɔː˧˥ kɐi˧, m̩˨˩ kɔːi˥ hɔːi˥ jɐt̚˥ wuː˨˩ jiːt̚˨ pou˧˥ lei˩˧, lœːŋ˩˧ wɐi˨] (FOH-GY, M-GOY HOY YUT-WOO YEET POH-LAY, LEUNG-WY)",
+          "translation": "Waiter, please make a pot of hot Pu-erh tea, for two people."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元6-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "朋友幫你斟茶嗰陣，記得要用手指叩枱表示多謝。",
+          "reading": "pang4 jau5 bong1 nei5 zam1 caa4 go2 zan6, gei3 dak1 jiu3 jung6 sau2 zi2 kau3 toi2 biu2 si6 do1 ze6. [pʰɐŋ˨˩ jɐu˩˧ pɔːŋ˥ nei˩˧ tsɐm˥ tsʰaː˨˩ kɔː˧˥ tsɐn˨, kei˧ tɐk̚˥ jiu˧ jʊŋ˨ sɐu˧˥ tsiː˧˥ kʰɐu˧ tʰɔːi˧˥ piːu˧˥ siː˨ tɔː˥ tsɛː˨] (PUNG-YAU BONG-NEI JUM-CHAH GOH-JUN, GAY-DUK YEW YOONG SAU-JEE KAU-TOY BEW-SEE DOH-JEH)",
+          "translation": "When a friend pours tea for you, remember to tap the table with fingers to express gratitude."
+        },
+        {
+          "target": "禮拜日朝早，一家人齊齊整整去茶樓歎一盅兩件。",
+          "reading": "lai5 baai3 jat6 ziu1 zou2, jat1 gaa1 jan4 cai4 cai4 zing2 zing2 heoi3 caa4 lau4 taan3 jat1 zung1 loeng5 gin6. [lɐi˩˧ paːi˧ jɐt̚˨ tsiːu˥ tsou˧˥, jɐt̚˥ kaː˥ jɐn˨˩ tsʰɐi˨˩ tsʰɐi˨˩ tsɪŋ˧˥ tsɪŋ˧˥ hɵy˧ tsʰaː˨˩ lɐu˨˩ tʰaːn˧ jɐt̚˥ tsʊŋ˥ lœːŋ˩˧ kiːn˨] (LY-BY-YUT JEW-JOH, YUT-GAH-YUN CHY-CHY JING-JING HOY CHAH-LAU TAHN YUT-JOONG LEUNG-GEEN)",
+          "translation": "On Sunday morning, the whole family goes together to the teahouse to enjoy tea and dim sum."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【飲茶三部曲】開茶首選「普洱」「香」，他人斟茶「叩指」忙；壺空「揭蓋」水自滿，「一盅兩件」福綿長！"
+      ],
+      "culturalNotes": [
+        "粵語中的「歎」（taan3）意為極致享受，如「歎茶」（悠閒享受品茗之樂）、「歎世界」（享受生活）。「飲茶」在嶺南文化中不僅係飽腹，更係家人團聚、商務洽談與生活減壓之神聖社交時刻。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"的士\":",
+          "prompt": "【開茶用語】在茶樓入座被問及「飲咩茶」，欲點選菊花與普洱調配之混合茶，應回答：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：車站錯置）",
-            "混雜生硬詞彙之不規範語句（例項：車飛未適配）",
-            "聲調助詞搭配欠妥之表達（例項：八達通誤用）"
+            "唔該要菊普 (m4 goi1 jiu3 guk1 bou2)",
+            "唔該要凍檸茶",
+            "唔該要熱可樂",
+            "唔該要蒸餾水"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「菊普」（guk1 bou2）即菊花茶與普洱茶之經典調和。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"的士\":",
+          "prompt": "【茶樓禮儀】在茶樓如果茶壺需要加水，最地道得體之做法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：車飛未適配）",
-            "聲調助詞搭配欠妥之表達（例項：八達通誤用）",
-            "語序顛倒嘅非標準句式（例項：車站錯置）"
+            "將茶壺蓋揭開半搭在壺口邊 (kit3 caa4 wu4 goi3)",
+            "大聲敲擊茶杯呼叫伙計",
+            "自行拿著茶壺跑到廚房加水",
+            "把茶壺倒扣在枱面上"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「揭開壺蓋」係粵港茶樓通用默契信號，侍應見到即會主動前來加熱水。"
         }
       ]
     },
@@ -2589,15 +2598,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"的士\": Which sentence is completely correct?",
+          "prompt": "【社交文化】他人為你斟茶時，用手指在枱面輕叩兩下（叩指禮）之寓意係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：八達通誤用）",
-            "語序顛倒嘅非標準句式（例項：車站錯置）",
-            "混雜生硬詞彙之不規範語句（例項：車飛未適配）"
+            "表示感謝 (do1 ze6 / 謝茶)",
+            "表示茶太燙",
+            "表示茶不好喝",
+            "要求更換茶杯"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「叩指謝茶」（kau3 zi2 lai5）係嶺南飲茶文化中最高雅普及之感謝手勢。"
         }
       ],
       "passThreshold": 0.8
@@ -2608,53 +2617,62 @@
     "subject": "cantonese",
     "unit": 6,
     "lessonNumber": 2,
-    "title": "飲茶文化、點餐同茶餐廳 (Dim Sum & Cha Chaan Teng) (第2課)",
+    "title": "經典粵式點心四大天王：蝦餃、燒賣、叉燒包、蛋撻 (The Big Four Dim Sum & Ordering)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元6第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵式點心「四大天王」與高頻點心名稱及點心紙（加單、劃單）點餐語句。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵式飲茶點心以做工精細、皮薄餡靚著稱，其中譽為「四大天王」者為：\n\n一、點心「四大天王」：\n１．「蝦餃」（haa1 gaau2）：水晶皮晶瑩剔透，鮮蝦爽口彈牙。\n２．「燒賣」（siu1 maai2）：黃色薄皮裹豬肉鮮蝦與蟹籽香菇。\n３．「叉燒包」（caa1 siu1 baau1）：蠔油叉燒餡，鬆軟開口如花笑。\n４．「蛋撻」（daan6 taat1）：酥皮或牛油皮裹金黃香滑蛋漿。\n\n二、其他高頻必食點心：\n１．「腸粉」（coeng2 fan2）：鮮蝦腸（haa1 coeng2）、牛肉腸（ngau4 coeng2）、叉燒腸（caa1 siu1 coeng2）。\n２．「鳳爪」（fung6 zaau2）：豉汁蒸鳳爪（sauce braised chicken feet）。\n３．「山竹牛肉球」（saan1 zuk1 ngau4 juk6 kau4）：嫩滑牛肉球墊腐竹。\n４．「蘿蔔糕」（lo4 baak6 gou1）：煎香白蘿蔔絲臘味糕點。\n\n三、點餐動作：\n「填點心紙」（tin4 dim2 sam1 zi2）、「加單」（gaa1 daan1，加點）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 6 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 6 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 6 in communication."
+          "target": "唔該幫我哋叫一籠筍尖蝦餃同兩籠蟹籽燒賣。",
+          "reading": "m4 goi1 bong1 ngo5 dei6 giu3 jat1 lung4 seon2 zim1 haa1 gaau2 tung4 loeng5 lung4 haai5 zi2 siu1 maai2. [m̩˨˩ kɔːi˥ pɔːŋ˥ ŋɔː˩˧ tei˨ kiːu˧ jɐt̚˥ lʊŋ˨˩ sɵn˧˥ tsiːm˥ haː˥ kaːu˧˥ tʰʊŋ˨˩ lœːŋ˩˧ lʊŋ˨˩ haːi˩˧ tsiː˧˥ siːu˥ maːi˨] (M-GOY BONG NGOH-DAY GEW YUT-LOONG SOON-JEEM HAH-GOW TOONG LEUNG-LOONG HY-JEE SEW-MY)",
+          "translation": "Excuse me, please order one steamer of shrimp dumplings and two steamers of crab roe siu mai for us."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元6-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "呢度嘅鮮蝦腸粉皮薄爽滑，豉油好香甜。",
+          "reading": "ni1 dou6 ge3 sin1 haa1 coeng2 fan2 pei4 bok6 song2 waat6, si6 jau4 hou2 hoeng1 tim4. [niː˥ tou˨ kɛː˧ siːn˥ haː˥ tsʰœːŋ˧˥ fɐn˧˥ pʰei˨˩ pɔːk̚˨ sɔːŋ˧˥ waːt̚˨, siː˨ jɐu˨˩ hou˧˥ hœːŋ˥ tʰiːm˨˩] (NEE-DOH GEH SEEN-HAH CHEUNG-FUN PAY-BOK SONG-WAHT, SEE-YAU HOH HEUNG-TEEM)",
+          "translation": "The fresh shrimp rice noodle rolls here have thin and smooth wrapper; the soy sauce is very aromatic and sweet."
+        },
+        {
+          "target": "我哋食完點心之後，可唔可以再加單叫幾件蛋撻？",
+          "reading": "ngo5 dei6 sik6 jyun4 dim2 sam1 zi1 hau6, ho2 m4 ho2 ji5 zoi3 gaa1 daan1 giu3 gei2 gin6 daan6 taat1? [ŋɔː˩˧ tei˨ sɪk̚˨ jyːn˨˩ tiːm˧˥ sɐm˥ tsiː˥ hɐu˨, hɔː˧˥ m̩˨˩ hɔː˧˥ jiː˩˧ tsɔːi˧ kaː˥ taːn˥ kiːu˧ kei˧˥ kiːn˨ taːn˨ tʰaːt̚˥] (NGOH-DAY SIK-YUEN DEEM-SUM JEE-HAU, HOH-M-HOH-YEE JOY GAH-DAHN GEW GAY-GEEN DAHN-TAHT?)",
+          "translation": "After finishing the dim sum, can we add to the order and get a few egg tarts?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【點心四大王】蝦餃晶瑩鮮又爽，燒賣金黃蟹籽亮；叉燒熱氣爆包香，蛋撻甜脆心舒暢！"
+      ],
+      "culturalNotes": [
+        "點心計量常以「籠」（lung4，蒸籠）或「碟」（dip6）為單位，如「一籠蝦餃」、「一碟腸粉」。早年茶樓有點心車（點心阿姐推車叫賣），現代多改為在「點心紙」上劃選，即叫即蒸。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"車站\":",
+          "prompt": "【點心搭配】以下邊一項屬於廣東傳統點心「四大天王」之一？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：車飛錯置）",
-            "混雜生硬詞彙之不規範語句（例項：八達通未適配）",
-            "聲調助詞搭配欠妥之表達（例項：增值誤用）"
+            "蝦餃 (haa1 gaau2)",
+            "炸薯條",
+            "漢堡包",
+            "比薩餅"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「蝦餃、燒賣、叉燒包、蛋撻」合稱點心四大天王。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"車站\":",
+          "prompt": "【點餐詞彙】在茶樓用餐中途欲加點幾道點心，應向伙計講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：八達通未適配）",
-            "聲調助詞搭配欠妥之表達（例項：增值誤用）",
-            "語序顛倒嘅非標準句式（例項：車飛錯置）"
+            "伙計，唔該加單！ (fo2 gai3, m4 goi1 gaa1 daan1!)",
+            "伙計，唔該埋單！",
+            "伙計，唔該早晨！",
+            "伙計，唔該走先！"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "加點菜式稱為「加單」（gaa1 daan1），而「埋單」係結帳買單。"
         }
       ]
     },
@@ -2662,15 +2680,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"車站\": Which sentence is completely correct?",
+          "prompt": "【量詞點餐】欲點選兩份蒸籠點心燒賣，最地道之量詞搭配係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：增值誤用）",
-            "語序顛倒嘅非標準句式（例項：車飛錯置）",
-            "混雜生硬詞彙之不規範語句（例項：八達通未適配）"
+            "兩籠燒賣 (loeng5 lung4 siu1 maai2)",
+            "兩部燒賣",
+            "兩條燒賣",
+            "兩間燒賣"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "蒸籠點心使用量詞「籠」（lung4）。"
         }
       ],
       "passThreshold": 0.8
@@ -2681,53 +2699,62 @@
     "subject": "cantonese",
     "unit": 6,
     "lessonNumber": 3,
-    "title": "飲茶文化、點餐同茶餐廳 (Dim Sum & Cha Chaan Teng) (第3課)",
+    "title": "茶餐廳術語與特色餐點：菠蘿油、凍檸茶、乾炒牛河、鴛鴦 (Cha Chaan Teng Lingo & Classics)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元6第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握茶餐廳核心特色餐點（菠蘿油、乾炒牛河、西多士）與經典港式飲品（凍檸茶、絲襪奶茶、鴛鴦）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港「茶餐廳」（caa4 caan1 teng1）融合中西飲食精粹，發展出獨樹一幟之飲食符號：\n\n一、茶餐廳招牌餐點：\n１．「菠蘿油」（bo1 lo4 jau4）：熱辣菠蘿包中間夾一片厚切冰冷牛油，冰火交融。\n２．「乾炒牛河」（gon1 caau2 ngau4 ho2）：芽菜牛肉炒河粉，極講求「鑊氣」（wok6 hei3）。\n３．「西多士」（sai1 do1 si2，法蘭西多士）：沾蛋漿油炸之夾心吐司，淋上牛油糖漿。\n４．「沙爹牛肉麵」（saa1 de1 ngau4 juk6 min6）：濃郁沙爹牛肉配出前一丁即食麵。\n\n二、靈魂飲品體系：\n１．「凍檸茶」（dung3 ning4 caa4）：紅茶底加四五片鮮檸檬與碎冰，飲前用茶匙「篤檸檬」（duk1 ning4 mung1，戳壓檸檬榨汁）。\n２．「港式奶茶」（gong2 sik1 naai5 caa4）：多種斯里蘭卡紅茶拼配，經棉紗網拉茶沖撞淡奶，香濃順滑。\n３．「鴛鴦」（jin1 joeng1）：七成奶茶混合三成咖啡，兼具咖啡香氣與奶茶幼滑。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 6 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 6 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 6 in communication."
+          "target": "下午茶時間，我最鍾意食一個熱辣辣嘅菠蘿油配一杯凍檸茶。",
+          "reading": "haa6 zau3 caa4 si4 gaan3, ngo5 zeoi3 zung1 ji3 sik6 jat1 go3 jit6 laat6 laat6 ge3 bo1 lo4 jau4 pui3 jat1 bui1 dung3 ning4 caa4. [haː˨ tsʰaː˨˩ siː˨˩ kaːn˧, ŋɔː˩˧ tsɵy˧ tsʊŋ˥ jiː˧ sɪk̚˨ jɐt̚˥ kɔː˧ jiːt̚˨ laːt̚˨ laːt̚˨ kɛː˧ pɔː˥ lɔː˨˩ jɐu˨˩ pʰuːi˧ jɐt̚˥ puːi˥ tʊŋ˧ nɪŋ˨˩ tsʰaː˨˩] (HAH-TSAH-SEE-GAHN, NGOH JOY JOONG-YEE SIK YUT-GOH YEET-LAHT-LAHT GEH BOH-LOH-YAU POOY YUT-BOOY DOONG-NING-CHAH)",
+          "translation": "At afternoon tea time, my favourite is having a piping hot pineapple bun with butter paired with an iced lemon tea."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元6-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "呢碟乾炒牛河鑊氣十足，牛肉好嫩，河粉又唔油膩。",
+          "reading": "ni1 dip6 gon1 caau2 ngau4 ho2 wok6 hei3 sap6 zuk1, ngau4 juk6 hou2 nyun6, ho4 fan2 jau6 m4 jau4 nei6. [niː˥ tiːp̚˨ kɔːn˥ tsʰaːu˧˥ ŋɐu˨˩ hɔː˧˥ wɔːk˨ hei˧ sɐp̚˨ tsʊk̚˥, ŋɐu˨˩ jʊk̚˨ hou˧˥ nyːn˨, hɔː˨˩ fɐn˧˥ jɐu˨ m̩˨˩ jɐu˨˩ nei˨] (NEE-DEEP GON-CHAU NGAU-HOH WOK-HEY SUP-JOOK, NGAU-YOOK HOH-NUEN, HOH-FUN YAU M-YAU-NAY)",
+          "translation": "This plate of stir-fried beef flat noodles is full of wok hei; the beef is very tender and the noodles are not greasy."
+        },
+        {
+          "target": "唔該畀一杯熱鴛鴦，咖啡同奶茶嘅比例調得啱啱好。",
+          "reading": "m4 goi1 bei2 jat1 bui1 jit6 jin1 joeng1, gaa3 fe1 tung4 naai5 caa4 ge3 bei2 lai6 tiu4 dak1 aam1 aam1 hou2. [m̩˨˩ kɔːi˥ pei˧˥ jɐt̚˥ puːi˥ jiːt̚˨ jiːn˥ jœːŋ˥, kaː˧ fɛː˥ tʰʊŋ˨˩ naːi˩˧ tsʰaː˨˩ kɛː˧ pei˧˥ lɐi˨ tʰiːu˨˩ tɐk̚˥ aːm˥ aːm˥ hou˧˥] (M-GOY BAY YUT-BOOY YEET YEEN-YEUNG, GAH-FEH TOONG NY-CHAH GEH BAY-LY TEW-DUK AHM-AHM-HOH)",
+          "translation": "Please give me a hot Yuenyeung; the proportion of coffee and milk tea is tuned just right."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【茶餐廳名物】「菠蘿油」香夾牛油，「凍檸茶」篤汁爽透；「乾炒牛河」鑊氣足，「鴛鴦」奶啡融入口！"
+      ],
+      "culturalNotes": [
+        "「乾炒牛河」被視為考驗粵菜廚師功底之試金石：必須達到「鑊氣夠、牛肉嫩、河粉條條分明完整且盤底無多餘積油」之境界。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"車飛\":",
+          "prompt": "【特飲常識】港式特色飲品「鴛鴦」（jin1 joeng1）之主要原料配方係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：八達通錯置）",
-            "混雜生硬詞彙之不規範語句（例項：增值未適配）",
-            "聲調助詞搭配欠妥之表達（例項：買嘢誤用）"
+            "奶茶混合咖啡 (naai5 caa4 + gaa3 fe1)",
+            "綠茶混合紅茶",
+            "檸檬水混合可樂",
+            "豆漿混合牛奶"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「鴛鴦」係港式奶茶與咖啡按獨特比例調製而成之經典混搭飲品。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"車飛\":",
+          "prompt": "【烘焙名產】「菠蘿油」（bo1 lo4 jau4）與普通「菠蘿包」之最大區別係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：增值未適配）",
-            "聲調助詞搭配欠妥之表達（例項：買嘢誤用）",
-            "語序顛倒嘅非標準句式（例項：八達通錯置）"
+            "中間夾入了一片厚切冰牛油",
+            "裡面包了真正的菠蘿果肉",
+            "麵包頂部塗上了朱古力醬",
+            "麵包是用油炸熟的"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「菠蘿油」係在剛出爐之熱菠蘿包中橫切夾入厚切冰凍牛油（牛油遇熱半融）。"
         }
       ]
     },
@@ -2735,15 +2762,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"車飛\": Which sentence is completely correct?",
+          "prompt": "【品味習慣】在香港茶餐廳飲「凍檸茶」時，顧客常拿茶匙做邊個動作以萃取檸檬汁？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：買嘢誤用）",
-            "語序顛倒嘅非標準句式（例項：八達通錯置）",
-            "混雜生硬詞彙之不規範語句（例項：增值未適配）"
+            "篤檸檬 (duk1 ning4 mung1 / 戳壓檸檬)",
+            "撈走檸檬扔掉",
+            "把茶水倒進杯蓋",
+            "加大量白開水"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「篤檸檬」（用茶匙反覆戳壓檸檬片）係港人釋放檸檬香氣酸味之經典習慣。"
         }
       ],
       "passThreshold": 0.8
@@ -2754,53 +2781,62 @@
     "subject": "cantonese",
     "unit": 6,
     "lessonNumber": 4,
-    "title": "飲茶文化、點餐同茶餐廳 (Dim Sum & Cha Chaan Teng) (第4課)",
+    "title": "茶餐廳定製點餐暗號：走甜、少甜、走冰、少冰、烘底 (Customization Jargon)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元6第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握茶餐廳高度個性化之定製術語（走甜、少甜、走冰、少冰、走青、烘底、飛邊、多汁）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港茶餐廳點餐講求快、準、客製化，形成了一整套極高效率之定製暗號：\n\n一、甜度與冰量控制：\n１．「走甜」（zau2 tim4）：不加糖水/糖漿（完全無糖）。\n２．「少甜」（siu2 tim4）：少放糖漿（減半甜度）。\n３．「走冰」（zau2 bing1）：不加冰塊（去冰）。\n４．「少冰」（siu2 bing1）：減少冰塊（微冰）。\n５．「多冰」（do1 bing1）：多加碎冰。\n\n二、食材與烹飪要求：\n１．「烘底」（hung3 dai2）：三文治麵包用多士爐烘烤至金黃酥脆（通常加收 1-2 元）。\n２．「飛邊」（fei1 bin1）：將三文治麵包皮邊切除。\n３．「走青」（zau2 ceng1）：麵食粥品中不放蔥花、芫荽等青綠調料。\n４．「多飯」（do1 faan6）/「少飯」（siu2 faan6）/「多汁」（do1 zap1，多淋醬汁）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 6 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 6 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 6 in communication."
+          "target": "唔該伙計，叫一份蛋治烘底，配一杯凍奶茶少甜少冰。",
+          "reading": "m4 goi1 fo2 gai3, giu3 jat1 fan6 daan6 zi6 hung3 dai2, pui3 jat1 bui1 dung3 naai5 caa4 siu2 tim4 siu2 bing1. [m̩˨˩ kɔːi˥ fɔː˧˥ kɐi˧, kiːu˧ jɐt̚˥ fɐn˨ taːn˨ tsiː˨ hʊŋ˧ tɐi˧˥, pʰuːi˧ jɐt̚˥ puːi˥ tʊŋ˧ naːi˩˧ tsʰaː˨˩ siːu˧˥ tʰiːm˨˩ siːu˧˥ pɪŋ˥] (M-GOY FOH-GY, GEW YUT-FUN DAHN-JEE HOONG-DY, POOY YUT-BOOY DOONG-NY-CHAH SEW-TEEM SEW-BING)",
+          "translation": "Excuse me waiter, order an egg sandwich on toasted bread, paired with an iced milk tea less sweet and less ice."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元6-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "我碗雲吞麵要走青，唔要蔥同芫荽。",
+          "reading": "ngo5 wun2 wan4 tan1 min6 jiu3 zau2 ceng1, m4 jiu3 cung1 tung4 jin4 seoi1. [ŋɔː˩˧ wuːn˧˥ wɐn˨˩ tʰɐn˥ miːn˨ jiu˧ tsɐu˧˥ tsʰɛːŋ˥, m̩˨˩ jiu˧ tsʰʊŋ˥ tʰʊŋ˨˩ jiːn˨˩ sɵy˥] (NGOH-WOON WUN-TUN-MEEN YEW JAU-CHENG, M-YEW CHOONG TOONG YEEN-SOEY)",
+          "translation": "My bowl of wonton noodles needs 'zau ceng'—no scallions and no coriander."
+        },
+        {
+          "target": "叫多一碟牛腩飯，記得同廚房講要多汁少飯呀。",
+          "reading": "giu3 do1 jat1 dip6 ngau4 naam5 faan6, gei3 dak1 tung4 cyu4 fong2 gong2 jiu3 do1 zap1 siu2 faan6 aa3. [kiːu˧ tɔː˥ jɐt̚˥ tiːp̚˨ ŋɐu˨˩ naːm˩˧ faːn˨, kei˧ tɐk̚˥ tʰʊŋ˨˩ tsʰyː˨˩ fɔːŋ˧˥ kɔːŋ˧˥ jiu˧ tɔː˥ tsɐp̚˥ siːu˧˥ faːn˨ aː˧] (GEW-DOH YUT-DEEP NGAU-NAHM-FAHN, GAY-DUK TOONG CHU-FONG GONG YEW DOH-JUP SEW-FAHN AH)",
+          "translation": "Order one more beef brisket rice; remember to tell the kitchen extra sauce and less rice."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【客製暗號訣】去糖「走甜」減「少甜」，「走冰」「少冰」隨心選；三文「烘底」「飛」其邊，粉麵「走青」蔥草免！"
+      ],
+      "culturalNotes": [
+        "茶餐廳點單時，動詞「走」（zau2）表示去除或免去（如「走甜」免糖、「走冰」免冰、「走青」免蔥）。這種高度簡潔靈活之語言體系體現出香港人追求極致效率之生活美學。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"八達通\":",
+          "prompt": "【點餐術語】在茶餐廳點凍飲時，如果不想要加糖漿，應說：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：增值錯置）",
-            "混雜生硬詞彙之不規範語句（例項：買嘢未適配）",
-            "聲調助詞搭配欠妥之表達（例項：幾多錢誤用）"
+            "走甜 (zau2 tim4)",
+            "多甜 (do1 tim4)",
+            "走冰 (zau2 bing1)",
+            "烘底 (hung3 dai2)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「走甜」（zau2 tim4）即免糖、不放糖漿。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"八達通\":",
+          "prompt": "【三文治術語】點餐時講「腿蛋治烘底」，其中「烘底」之意思係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：買嘢未適配）",
-            "聲調助詞搭配欠妥之表達（例項：幾多錢誤用）",
-            "語序顛倒嘅非標準句式（例項：增值錯置）"
+            "將三文治麵包在多士爐中烤脆 (Toasted)",
+            "切除麵包皮",
+            "加多一隻煎蛋",
+            "加大量番茄醬"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「烘底」（hung3 dai2）指將吐司烘烤成多士。"
         }
       ]
     },
@@ -2808,15 +2844,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"八達通\": Which sentence is completely correct?",
+          "prompt": "【飲食禁忌】顧客點雲吞麵時強調「走青」，廚師出餐時會排除以下邊種食材？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：幾多錢誤用）",
-            "語序顛倒嘅非標準句式（例項：增值錯置）",
-            "混雜生硬詞彙之不規範語句（例項：買嘢未適配）"
+            "蔥花與芫荽 (cung1 tung4 jin4 seoi1)",
+            "雲吞與蝦肉",
+            "麵條與湯底",
+            "大地魚乾"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「青」（ceng1）指綠色調味料蔥花與芫荽，「走青」即不要蔥芫荽。"
         }
       ],
       "passThreshold": 0.8
@@ -2827,53 +2863,62 @@
     "subject": "cantonese",
     "unit": 6,
     "lessonNumber": 5,
-    "title": "飲茶文化、點餐同茶餐廳 (Dim Sum & Cha Chaan Teng) (第5課)",
+    "title": "食肆結帳與打包禮儀：「埋單」、「搭枱」、「打包 / 外賣」 (Billing & Table Sharing)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元6第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港餐飲結帳（埋單）、併桌文化（搭枱）、剩菜打包（打包）與外帶打包（外賣/行街）之全套交際用語。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在香港餐飲場景中，結帳與就餐空間共享具有獨特之語言與文化規範：\n\n一、結帳買單用語：\n１．「埋單」（maai4 daan1）：最核心之結帳買單詞彙（相傳源自昔日水上人泊船靠岸「埋岸」算清費用賬單）。\n２．「唔該埋單，分開畀定一齊畀？」（麻煩結帳，分開付還是一起付？）\n３．「收銀處 / 櫃檯」（sau1 ngan4 cyu3）：部分茶餐廳需持水牌/帳單自行到收銀台付款。\n\n二、就餐空間與外賣術語：\n１．「搭枱」（daap3 toi2）：午市繁忙客滿時，互不相識之顧客合坐同一張枱用餐。侍應會問「兩位呀？搭唔搭枱呀？」（兩位嗎？介意拼桌嗎？）。\n２．「打包」（daa2 baau1）：將堂食未食完之剩餘菜餚裝盒帶走。\n３．「外賣」（ngoi6 maai6）：直接外帶，對比「堂食」（tong4 sik6，在店內吃）。\n４．「行街」（haang4 gaai1）：飲品店或茶餐廳外帶熱/凍飲之俚語說法（如「一杯凍檸茶行街」）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 6 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 6 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 6 in communication."
+          "target": "午飯時間周圍都好多人，我哋唔介意搭枱呀。",
+          "reading": "ng5 faan6 si4 gaan3 zau1 wai4 dou1 hou2 do1 jan4, ngo5 dei6 m4 gaai3 ji3 daap3 toi2 aa3. [ŋ̍˩˧ faːn˨ siː˨˩ kaːn˧ tsɐu˥ wɐi˨˩ tou˥ hou˧˥ tɔː˥ jɐn˨˩, ŋɔː˩˧ tei˨ m̩˨˩ kaːi˧ jiː˧ taːp̚˧ tʰɔːi˧˥ aː˧] (NG-FAHN SEE-GAHN JAU-WY DOH HOH-DOH YUN, NGOH-DAY M-GY-YEE DAHP-TOY AH)",
+          "translation": "During lunchtime everywhere is crowded; we don't mind sharing a table."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元6-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "伙計，唔該埋單，另外呢碟炒飯食唔晒想打包。",
+          "reading": "fo2 gai3, m4 goi1 maai4 daan1, ling6 ngoi6 ni1 dip6 caau2 faan6 sik6 m4 saai3 soeng2 daa2 baau1. [fɔː˧˥ kɐi˧, m̩˨˩ kɔːi˥ maːi˨˩ taːn˥, lɪŋ˨ ŋɔːi˨ niː˥ tiːp̚˨ tsʰaːu˧˥ faːn˨ sɪk̚˨ m̩˨˩ saːi˧ sœːŋ˧˥ taː˧˥ paːu˥] (FOH-GY, M-GOY MY-DAHN, LING-NGOY NEE-DEEP CHAU-FAHN SIK-M-SY SEUNG DY-BAU)",
+          "translation": "Waiter, check please; also we can't finish this fried rice and would like to box it up."
+        },
+        {
+          "target": "請問喺度堂食定係拎走外賣？我要外賣行街呀。",
+          "reading": "cing2 man6 hai2 dou6 tong4 sik6 ding6 hai6 ling1 zau2 ngoi6 maai6? ngo5 jiu3 ngoi6 maai6 haang4 gaai1 aa3. [tsʰɪŋ˧˥ mɐn˨ hɐi˩˧ tou˨ tʰɔːŋ˨˩ sɪk̚˨ tɪŋ˨ hɐi˨ lɪŋ˥ tsɐu˧˥ ŋɔːi˨ maːi˨? ŋɔː˩˧ jiu˧ ŋɔːi˨ maːi˨ haːŋ˨˩ kaːi˥ aː˧] (CHING-MUN HY-DOH TONG-SIK DING-HY LING-JAU NGOY-MY? NGOH YEW NGOY-MY HAHNG-GY AH)",
+          "translation": "Excuse me, dine-in here or take away? I want takeout to go."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【食肆收尾歌】食畢高呼「埋單」清，人多客滿「搭枱」迎；剩餸裝盒稱「打包」，外帶「行街」樂同行！"
+      ],
+      "culturalNotes": [
+        "「搭枱」係香港寸土寸金環境下催生之獨特飲食默契。搭枱就座後，大家心照不宣各自專注用餐睇報紙或滑手機，互不干擾，展現高度成熟之都市公共空間素養。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"增值\":",
+          "prompt": "【結帳用語】在香港食肆用餐完畢欲結帳付款，最地道核心之粵語說法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：買嘢錯置）",
-            "混雜生硬詞彙之不規範語句（例項：幾多錢未適配）",
-            "聲調助詞搭配欠妥之表達（例項：埋單誤用）"
+            "埋單 (maai4 daan1)",
+            "買菜",
+            "加單",
+            "開茶"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「埋單」（maai4 daan1）係粵語結帳之絕對通用詞。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"增值\":",
+          "prompt": "【就餐文化】在茶餐廳繁忙時間，侍應引導兩位互不認識之顧客同坐一張四人桌，此現象稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：幾多錢未適配）",
-            "聲調助詞搭配欠妥之表達（例項：埋單誤用）",
-            "語序顛倒嘅非標準句式（例項：買嘢錯置）"
+            "搭枱 (daap3 toi2)",
+            "開枱 (hoi1 toi2)",
+            "拆枱 (caak3 toi2)",
+            "擺枱 (baai2 toi2)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「搭枱」（daap3 toi2）即與陌生人拼桌共用一張餐桌。"
         }
       ]
     },
@@ -2881,15 +2926,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"增值\": Which sentence is completely correct?",
+          "prompt": "【外賣俚語】在港式茶飲店點了一杯熱奶茶並打算邊走邊喝帶走，店員常稱之為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：埋單誤用）",
-            "語序顛倒嘅非標準句式（例項：買嘢錯置）",
-            "混雜生硬詞彙之不規範語句（例項：幾多錢未適配）"
+            "行街 (haang4 gaai1 / 外帶帶走)",
+            "堂食 (tong4 sik6)",
+            "坐低 (co5 dai1)",
+            "搭枱 (daap3 toi2)"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "飲品外帶邊行邊飲被俚俗稱為「行街」（如「熱奶茶行街」）。"
         }
       ],
       "passThreshold": 0.8
