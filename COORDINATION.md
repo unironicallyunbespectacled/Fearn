@@ -6,7 +6,7 @@ This file coordinates work between the parallel Antigravity instances working on
 
 - **Instance 1 (This Window)**:
   - **Audit Tooling**: Hardened `scripts/audit_curricula_uniqueness.js` with structural shingle-overlap detection, known-bad fixture validation, multi-field feedback auditing, and created tracked `scripts/install-hooks.sh` and `scripts/pre-commit-hook.sh`.
-  - **Korean (`data/curricula/korean.js`, `data/curricula/korean.ledger.js`)**: **WIP REBUILD** (Units 1–3 COMPLETE: 15/170 lessons authored by hand, 100% unique, audited, committed, and pushed in `09f1699`; now authoring Unit 4 `ko-u4-l1` to `ko-u4-l5`).
+  - **Korean (`data/curricula/korean.js`, `data/curricula/korean.ledger.js`)**: **WIP REBUILD** (Units 1–4 COMPLETE: 20/170 lessons authored by hand, 100% unique, audited, committed, and pushed in `a36a2e9`; now authoring Unit 5 `ko-u5-l1` to `ko-u5-l5`).
   - **Russian (`data/curricula/russian.js`, `data/curricula/russian.ledger.js`)**: **RESET TO 0/170 STUB** (Ready for unit-by-unit hand-authored rebuild).
 
 - **Instance 2 (Parallel Window)**:
