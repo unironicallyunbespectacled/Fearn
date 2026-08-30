@@ -303,12 +303,16 @@ files.forEach(f => {
     hasFailure = true;
   }
 
-  // 9. Adversarial Template & Disguise Detection Gate (Section 3a / Section 4.3)
+  // 9. Adversarial Template & Disguise Detection Gate (Structural & Multi-Field)
   const KNOWN_FAKE_EXPLANATION_OPENERS = [
     'Comprehensive presentation of', 'Thorough linguistic breakdown of', 'Mastery analysis of',
     'Key cognitive anchor for', 'Memory anchor for', 'Cultural nuance and communicative etiquette in',
     'इस पाठ में हम', 'इस पठ म हम', 'У цьому уроці розглядаються', 'اس سبق میں ہم', 'اس سبق میں اردو قواعد',
-    'Katika somo hili kuhusu', 'Katika sarufi ya Kiswahili', '本課（', '本課(', '系統深入地探討'
+    'Katika somo hili kuhusu', 'Katika sarufi ya Kiswahili', '本課（', '本課(', '系統深入地探討',
+    '본 단원에서는', '체계적으로 학습합니다', '핵심 언어 요소와',
+    'всесторонне рассматриваются', 'характеризуется развитой синтетической структурой', 'В данном уроке',
+    'represents a cornerstone of Theatre, Dramaturgy & Performing Arts',
+    'This session investigates its historical origins, aesthetic and philosophical foundations'
   ];
   const KNOWN_FAKE_MNEMONIC_OPENERS = [
     '【記憶定着の要点】文脈における助詞の接続と動詞の活用語尾に注意して構文を把握しましょう。',
@@ -320,13 +324,21 @@ files.forEach(f => {
     '【日本社会の言語文化】日本語では場面人間関係社会的文脈に応じた丁寧さや配慮の使い分けが極めて重要視されます。',
     'Cultural nuance and communicative etiquette in'
   ];
+  const KNOWN_FAKE_PRACTICE_FEEDBACK = [
+    '正解の選択肢が文法規範および語用論的基準に完全に合致します。',
+    'Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon.'
+  ];
 
   let flaggedExpCount = 0;
   let flaggedMnemCount = 0;
   let flaggedCultCount = 0;
+  let flaggedFeedbackCount = 0;
   let leakedIdCount = 0;
   const mnemFrequencies = {};
   const cultFrequencies = {};
+
+  // Structural Shingle Overlap (25-char shingles across stripped skeletons)
+  const shingleLessonMap = {};
 
   lkeys.forEach(lid => {
     const les = curr.lessons[lid];
@@ -347,10 +359,59 @@ files.forEach(f => {
       if (cultText.includes(pat)) { flaggedCultCount++; break; }
     }
 
+    // GP/IP Feedback text checks
+    if (les.guidedPractice && Array.isArray(les.guidedPractice.items)) {
+      les.guidedPractice.items.forEach(item => {
+        const expl = item && item.explanation;
+        if (expl) {
+          for (const fb of KNOWN_FAKE_PRACTICE_FEEDBACK) {
+            if (expl.includes(fb)) flaggedFeedbackCount++;
+          }
+        }
+      });
+    }
+    if (les.independentPractice && Array.isArray(les.independentPractice.items)) {
+      les.independentPractice.items.forEach(item => {
+        const expl = item && item.explanation;
+        if (expl) {
+          for (const fb of KNOWN_FAKE_PRACTICE_FEEDBACK) {
+            if (expl.includes(fb)) flaggedFeedbackCount++;
+          }
+        }
+      });
+    }
+
+    // Stripped Shingle Extraction
+    if (expText && expText.length > 30) {
+      let stripped = expText;
+      if (les.id) stripped = stripped.split(les.id).join('');
+      if (les.title) stripped = stripped.split(les.title).join('');
+      stripped = stripped.replace(/[0-9]/g, '').replace(/[«»"'`()[\]{}.,;:!?-]/g, ' ').replace(/\s+/g, ' ').trim();
+      
+      const seenShinglesInLesson = new Set();
+      for (let i = 0; i <= stripped.length - 25; i += 5) {
+        const shingle = stripped.substring(i, i + 25);
+        if (!seenShinglesInLesson.has(shingle)) {
+          seenShinglesInLesson.add(shingle);
+          shingleLessonMap[shingle] = (shingleLessonMap[shingle] || 0) + 1;
+        }
+      }
+    }
+
     if (les.checkpointTest && les.checkpointTest.items) {
       les.checkpointTest.items.forEach(item => {
         if (/_[0-9]+_[0-9]+/.test(JSON.stringify(item))) leakedIdCount++;
       });
+    }
+  });
+
+  // Calculate maximum shingle duplication across distinct lessons
+  let maxShingleDup = 0;
+  let worstShingle = '';
+  Object.keys(shingleLessonMap).forEach(sh => {
+    if (shingleLessonMap[sh] > maxShingleDup) {
+      maxShingleDup = shingleLessonMap[sh];
+      worstShingle = sh;
     }
   });
 
@@ -361,6 +422,7 @@ files.forEach(f => {
   Object.values(cultFrequencies).forEach(cnt => { if (cnt > maxCultDup) maxCultDup = cnt; });
 
   const dupLimit = Math.max(3, Math.floor((authoredCount > 0 ? authoredCount : totalInFile) * 0.3));
+  const shingleLimit = Math.max(5, Math.floor((authoredCount > 0 ? authoredCount : totalInFile) * 0.15));
 
   if (flaggedExpCount > 0) {
     console.error(`>>> [HARD FAIL] ${subjKey}: Found ${flaggedExpCount} lessons matching known fake explanation template openers!`);
@@ -374,6 +436,16 @@ files.forEach(f => {
   }
   if (flaggedCultCount > 0) {
     console.error(`>>> [HARD FAIL] ${subjKey}: Found ${flaggedCultCount} lessons matching known fake cultural note templates!`);
+    isFailed = true;
+    hasFailure = true;
+  }
+  if (flaggedFeedbackCount > 0) {
+    console.error(`>>> [HARD FAIL] ${subjKey}: Found ${flaggedFeedbackCount} templated practice feedback items!`);
+    isFailed = true;
+    hasFailure = true;
+  }
+  if (authoredCount > 0 && maxShingleDup >= shingleLimit) {
+    console.error(`>>> [HARD FAIL] ${subjKey}: Structural shingle overlap detected (${maxShingleDup}/${authoredCount} lessons share "${worstShingle.substring(0, 30)}...")!`);
     isFailed = true;
     hasFailure = true;
   }
