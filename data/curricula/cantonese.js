@@ -4585,53 +4585,62 @@
     "subject": "cantonese",
     "unit": 11,
     "lessonNumber": 1,
-    "title": "助動詞（想/要/識/可以/得） (Modal Verbs & Ability) (第1課)",
+    "title": "意願與必然助動詞：「想」、「要」、「諗住」 (Volition, Necessity, & Intention: soeng2, jiu3, lam2 zyu6)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元11第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語核心意願與必然助動詞（想、要、諗住）之語義分工、否定轉換規則（要之否定為「唔使」而非「唔要」）與正反問句結構。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語情態助動詞系統極其豐富精準，在表達說話者之主觀願望、客觀必要性與未來行動計劃時，展現出高度嚴密之語法規則與構詞分工：\n\n一、核心意願與必然助動詞語義深度辨析：\n１．「想」（soeng2）：表達主觀意願、內心希望或心理渴求（相當於英語之 want to / wish to）。例如「我想學廣東話」（我希望學習粵語）、「你想唔想飲咖啡？」（你想喝咖啡嗎？）。\n２．「要」（jiu3）：表達客觀必然性、義務約束或強烈指令需求（相當於英語之 must / need to / have to）。例如「我聽朝要早起返工」（我明天早晨必須早起上班）。\n３．「諗住」（lam2 zyu6）：由動詞「諗」（思考）與持續體助詞「住」複合而成，專門表達心理正在醞釀之打算、計劃或意圖（相當於英語之 intend to / plan to）。例如「我聽日諗住去旺角買書」（我明天打算去旺角買書）。\n\n二、情態否定之關鍵不對稱轉換法則：\n粵語助動詞之否定形式存在極具特色之語法分化，學習者務必嚴格區分：\n１．「想」之否定為「唔想」（m4 soeng2）：表示「不想、不願」。例如「我今晚好攰，唔想出街食飯」。\n２．「要」表必要性時，其否定嚴格為「唔使」（m4 sai2，不必/不需要），絕對不可說成「唔要」！「唔要」（m4 jiu3）在粵語中專指「拒絕接受某項實體物品或提議」（例如「我唔要呢個蘋果」），若表達「不需要做某動作」，語法上必須轉換為「唔使」（例如「你聽日唔使加班」）。\n３．「諗住」之否定通常採用「冇諗住」（mou5 lam2 zyu6）：表示「原本沒有打算」。\n\n三、正反問句（A-not-A）構造規則：\n- 「想唔想」：例如「你今晚想唔想一齊食飯？」\n- 「要唔要 / 使唔使」：詢問必要性常用「使唔使」（例如「聽日使唔使著西裝？」），詢問索取物品常用「要唔要」（例如「你要唔要加糖？」）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 11 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 11 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 11 in communication."
+          "target": "我今個週末諗住留喺屋企溫習，因為下個禮拜要應付日文考試。",
+          "reading": "ngo5 gam1 go3 zau1 mut6 lam2 zyu6 lau4 hai2 uk1 kei2 wan1 zaap6, jan1 wai6 haa6 go3 lai5 baai3 jiu3 jing3 fu6 jat6 man42 haau2 si3. [ŋɔː˩˧ kɐm˥ kɔː˧ tsɐu˥ muːt̚˨ lɐm˧˥ tsyː˨ lɐu˨˩ hɐi˩˧ ʊk̚˥ kʰei˧˥ wɐn˥ tsaːp̚˨, jɐn˥ wɐi˨ haː˨ kɔː˧ lɐi˩˧ paːi˧ jiu˧ jɪŋ˧ fuː˨ jɐt˨ mɐn˨˩ haːu˧˥ siː˧] (NGOH GUM-GOH JAU-MOOT LUM-JYU LAU HY OOK-KAY WUN-JAHK, YUN-WAI HAH-GOH LY-BY YEW YING-FOO YUT-MUN HAU-SEE)",
+          "translation": "I plan to stay home this weekend to study, because next week I must handle a Japanese examination."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元11-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "你如果唔舒服就早啲返去休息啦，聽日朝早嘅早會唔使出席㗎喇。",
+          "reading": "nei5 jyu4 gwo2 m4 syu1 fuk6 zau6 zou2 di1 faan1 heoi3 jau1 sik1 laa1, ting1 jat6 ziu1 zou2 ge3 zou2 wui6 m4 sai2 ceot1 zik6 gaa3 laa3. [nei˩˧ jyː˨˩ kʷɔː˧˥ m̩˨˩ syː˥ fʊk̚˨ tsɐu˨ tsou˧˥ tiː˥ faːn˥ hɵy˧ jɐu˥ sɪk̚˥ laː˥, tʰɪŋ˥ jɐt˨ tsiːu˥ tsou˧˥ kɛː˧ tsou˧˥ wuːi˨ m̩˨˩ sɐi˧˥ tsʰɵt̚˥ tsɪk̚˨ kaː˧ laː˧] (NEI YU-GWOH M-SYU-FOOK JAU JOU-DEE FAHN-HOEY YAU-SIK LAH, TING-YUT JIU-JOU GEH JOU-WOEY M-SY CHUT-JIK GAH-LAH)",
+          "translation": "If you are unwell, go back and rest early; you do not need to attend tomorrow morning's early meeting."
+        },
+        {
+          "target": "老細問你下個月想唔想調去中環總部負責新嘅科技項目？",
+          "reading": "lou5 sai3 man6 nei5 haa6 go3 jyut6 soeng2 m4 soeng2 diu6 heoi3 zung1 waan4 zung2 bou6 fu6 zaak3 san1 ge3 fo1 gei6 hong6 muk6? [lou˧˥ sɐi˧ mɐn˨ nei˩˧ haː˨ kɔː˧ jyːt̚˨ sœːŋ˧˥ m̩˨˩ sœːŋ˧˥ tiːu˨ hɵy˧ tsʊŋ˥ waːn˨˩ tsʊŋ˧˥ pou˨ fuː˨ tsaːk̚˧ sɐn˥ kɛː˧ fɔː˥ kei˨ hɔːŋ˨ mʊk̚˨?] (LOU-SY MUN NEI HAH-GOH YUET SEUNG-M-SEUNG DEW-HOEY JOONG-WAHN JOONG-BOU FOO-JAHK SUN-GEH FOH-GAY HONG-MOOK?)",
+          "translation": "The boss asked if you would like to transfer to the Central headquarters next month to lead the new tech project."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【助動詞三字訣】主觀希望講「我想」，客觀必須用「我要」；心中計劃「我諗住」，不必去做「你唔使」！"
+      ],
+      "culturalNotes": [
+        "在粵語日常交際中，否定「必須做某事」時極忌講成「唔要做」，因為「唔要」帶有強烈的主觀排斥與厭惡語氣；正確且禮貌之說法一律為「唔使做」（不必做），充分體現嶺南人情世故之溫和與客氣。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"返工\":",
+          "prompt": "【情態否定】若主管告知員工明天是公眾假期，「不需要來公司上班」，最地道之粵語表達係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：放工錯置）",
-            "混雜生硬詞彙之不規範語句（例項：開會未適配）",
-            "聲調助詞搭配欠妥之表達（例項：同事誤用）"
+            "你聽日唔使返工。 (nei5 ting1 jat6 m4 sai2 faan1 gung1.)",
+            "你聽日唔要返工。",
+            "你聽日唔想返工。",
+            "你聽日唔諗住返工。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「要」（必須）之情態否定為「唔使」（不必/不需要）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"返工\":",
+          "prompt": "【意圖表達】欲表達自己「原本打算週末去圖書館看書」，應使用之助動詞係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：開會未適配）",
-            "聲調助詞搭配欠妥之表達（例項：同事誤用）",
-            "語序顛倒嘅非標準句式（例項：放工錯置）"
+            "我週末諗住去圖書館睇書。 (ngo5 zau1 mut6 lam2 zyu6 heoi3 tou4 syu1 gun2 tai2 syu1.)",
+            "我週末搭去圖書館睇書。",
+            "我週末轉去圖書館睇書。",
+            "我週末落去圖書館睇書。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「諗住」（lam2 zyu6）表示心中的打算或計劃。"
         }
       ]
     },
@@ -4639,15 +4648,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"返工\": Which sentence is completely correct?",
+          "prompt": "【語義辨析】在粵語中，「你要唔要加糖？」與「你使唔使加糖？」之細微語意差異為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：同事誤用）",
-            "語序顛倒嘅非標準句式（例項：放工錯置）",
-            "混雜生硬詞彙之不規範語句（例項：開會未適配）"
+            "「要唔要」詢問是否想要具體物品糖，「使唔使」詢問客觀上是否需要進行加糖動作 (Want item vs. Need action)",
+            "兩者完全相反，「要唔要」表示拒絕",
+            "「使唔使」只能對長輩使用",
+            "「要唔要」只能在茶餐廳點凍飲時使用"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「要唔要」側重於主觀是否索取物品，「使唔使」側重於客觀是否有必要進行某動作。"
         }
       ],
       "passThreshold": 0.8
@@ -4658,53 +4667,62 @@
     "subject": "cantonese",
     "unit": 11,
     "lessonNumber": 2,
-    "title": "助動詞（想/要/識/可以/得） (Modal Verbs & Ability) (第2課)",
+    "title": "習得能力與生理潛能助動詞：「識」同「識得」 (Acquired Knowledge & Skills: sik1, sik1 dak1)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元11第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語助動詞「識」與「識得」在表達後天學習技能（語言、駕駛、游泳）與認識人物/文字時之語法功能與否定形式（唔識）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在粵語情態範疇中，「識」（sik1）與其複合形式「識得」（sik1 dak1）係最核心之「後天習得技能」與「認知識別」助動詞：\n\n一、「識」之雙重語法功能深度剖析：\n１．作為助動詞（後接動詞短語）：專門表示「通過後天學習、訓練或經驗累積而掌握某種特定技能」（相當於英語之 know how to do）。\n- 「識講廣東話」（掌握粵語口語表達能力）\n- 「識游水」（掌握游泳技能）\n- 「識揸車」（擁有駕駛汽車技術）\n- 「識煮飯」（懂得烹飪做菜料理）\n２．作為及物動詞（後接名詞短語）：表示「認識某人、知曉某項事實或辨識某文字標誌」（相當於英語之 know a person / recognize a character）。\n- 「我識得佢好多年喇」（我認識他很多年了）\n- 「你識唔識呢個漢字點讀？」（你認識這個漢字怎麼讀嗎？）。\n\n二、「識」與「識得」之語法微觀差異：\n１．單音節「識」口語通用性極強，可自由修飾各類動詞與名詞賓語（如「識游水」、「識法文」、「識好多朋友」）。\n２．雙音節「識得」語氣較為正式、莊重且具備肯定強調意味，常用於辨識人物、文字或抽象知識（如「我識得去嗰個地方嘅路」）。\n\n三、否定與提問句式結構：\n１．否定結構：統一採用「唔識」（m4 sik1）或「唔識得」（m4 sik1 dak1）。例如「我唔識游水」（我不會游泳）、「我唔識呢個人」（我不認識這個人）。\n２．正反問句：構建為「識唔識……？」。例如「你識唔識用呢部新型影印機呀？」。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 11 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 11 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 11 in communication."
+          "target": "我嚟咗香港三年，依家唔單止聽得明，仲識講好流利嘅廣東話添。",
+          "reading": "ngo5 lai4 zo2 hoeng1 gong2 saam1 nin4, ji1 gaa1 m4 daan1 zi2 tai2 dak1 ming4, zung6 sik1 gong2 hou2 lau4 lei6 ge3 gong2 dung1 waa2 tim1. [ŋɔː˩˧ lɐi˨˩ tsɔː˧˥ hœːŋ˥ kɔːŋ˧˥ saːm˥ niːn˨˩, jiː˥ kaː˥ m̩˨˩ taːn˥ tsiː˧˥ tʰɐi˧˥ tɐk̚˥ mɪŋ˨˩, tsʊŋ˨ sɪk̚˥ kɔːŋ˧˥ hou˧˥ lɐu˨˩ lei˨ kɛː˧ kɔːŋ˧˥ tʊŋ˥ waː˧˥ tʰiːm˥] (NGOH LY-JOR HEUNG-GONG SAHM-NEEN, YEE-GAH M-DAHN-JEE TY-DUK-MING, JOONG SIK GONG HOH LAU-LEY GEH GONG-DOONG-WAH TEEM)",
+          "translation": "I have been in Hong Kong for three years; now not only can I understand, but I also know how to speak very fluent Cantonese."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元11-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "佢雖然考到私家車車牌，但係平時好少揸車，所以唔識泊位。",
+          "reading": "keoi5 seoi1 jin4 haau2 dou2 si1 gaa1 ce1 ce1 paai4, daan6 hai6 ping4 si4 hou2 siu2 zaa1 ce1, so2 ji5 m4 sik1 paak3 wai62. [kʰɵy˩˧ sɵy˥ jiːn˨˩ haːu˧˥ tou˧˥ siː˥ kaː˥ tsʰɛː˥ tsʰɛː˥ pʰaːi˨˩, taːn˨ hɐi˨ pʰɪŋ˨˩ siː˨˩ hou˧˥ siu˧˥ tsaː˥ tsʰɛː˥, sɔː˧˥ jiː˩˧ m̩˨˩ sɪk̚˥ pʰaːk̚˧ wɐi˧˥] (KUY SOEY-YEEN HAU-DOU SEE-GAH-CHEH CHEH-PY, DAHN-HY PING-SEE HOH-SIU JAH-CHEH, SOH-YEE M-SIK PAHK-WY)",
+          "translation": "Although he passed his private car driving test, he seldom drives usually, so he doesn't know how to park in a parking space."
+        },
+        {
+          "target": "請問診所入面有冇姑娘識得講西班牙話或者普通話？",
+          "reading": "cing2 man6 can2 so2 jap6 min6 jau5 mou5 gu1 neong4 sik1 dak1 gong2 sai1 baan1 ngaa4 waa2 waak6 ze2 pou2 tung1 waa2? [tsʰɪŋ˧˥ mɐn˨ tsʰɐn˧˥ sɔː˧˥ jɐp̚˨ miːn˨ jɐu˩˧ mou˩˧ kuː˥ nœːŋ˨˩ sɪk̚˥ tɐk̚˥ kɔːŋ˧˥ sɐi˥ paːn˥ ŋaː˨˩ waː˧˥ waːk˨ tsɛː˧˥ pʰou˧˥ tʰʊŋ˥ waː˧˥?] (CHING-MUN CHUN-SOH YUP-MEEN YAU MOU GOO-NEUNG SIK-DUK GONG SY-BAHN-NGAH-WAH WAHK-JEH POU-TOONG-WAH?)",
+          "translation": "May I ask if there are any nurses in the clinic who know how to speak Spanish or Mandarin?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【技能習得歌】後天學習掌握好，講句「我識」技能高；認人識字「我識得」，不會做事「我唔識」！"
+      ],
+      "culturalNotes": [
+        "在香港多元國際化環境中，「識講幾多種語言」係職場競爭力之重要指標。港人日常讚賞他人語言能力強時，常講「佢好叻，識講四國語言」（他很厲害，懂得講四國語言）。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"放工\":",
+          "prompt": "【技能助動詞】欲表達「他通過後天學習掌握了烹飪與駕駛技術」，正確之粵語助動詞句式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：開會錯置）",
-            "混雜生硬詞彙之不規範語句（例項：同事未適配）",
-            "聲調助詞搭配欠妥之表達（例項：老闆誤用）"
+            "佢識煮飯同埋識揸車。 (keoi5 sik1 zyu2 faan6 tung4 maai4 sik1 zaa1 ce1.)",
+            "佢要煮飯同埋要揸車。",
+            "佢想煮飯同埋想揸車。",
+            "佢諗住煮飯同埋諗住揸車。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「識」（sik1）專門用於表示後天學會之各類技能。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"放工\":",
+          "prompt": "【正反問句】向新朋友禮貌詢問「你懂得游泳嗎？」，地道之粵語提問係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：同事未適配）",
-            "聲調助詞搭配欠妥之表達（例項：老闆誤用）",
-            "語序顛倒嘅非標準句式（例項：開會錯置）"
+            "你識唔識游水呀？ (nei5 sik1 m4 sik1 jau4 seoi2 aa3?)",
+            "你搭唔搭游水呀？",
+            "你轉唔轉游水呀？",
+            "你落唔落游水呀？"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "技能正反問句結構為「識唔識……？」（Do you know how to...?）。"
         }
       ]
     },
@@ -4712,15 +4730,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"放工\": Which sentence is completely correct?",
+          "prompt": "【語義範疇】下列哪一項最準確描述了助動詞「識」（sik1）之核心語言學功能？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：老闆誤用）",
-            "語序顛倒嘅非標準句式（例項：開會錯置）",
-            "混雜生硬詞彙之不規範語句（例項：同事未適配）"
+            "表示通過後天學習、培訓而具備之技能或認知 (Learned ability or cognition)",
+            "表示客觀法律或規則之強制義務",
+            "表示生理構造之本能反應",
+            "表示瞬時完成之動作體貌"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「識」在語法上專門表達後天習得之能力或認知識別。"
         }
       ],
       "passThreshold": 0.8
@@ -4731,53 +4749,62 @@
     "subject": "cantonese",
     "unit": 11,
     "lessonNumber": 3,
-    "title": "助動詞（想/要/識/可以/得） (Modal Verbs & Ability) (第3課)",
+    "title": "許可、客觀條件與能力助動詞：「可以」同「能夠」 (Permission & Possibility: ho2 ji5, nang4 gau3)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元11第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語情態助動詞「可以」與「能夠」在表達社會許可（Permission）、客觀條件允許（Possibility）與能力極限時之語法規則。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在粵語情態體系中，「可以」（ho2 ji5）與「能夠」（nang4 gau3）承載著請求許可、判定客觀客體條件與表達潛在能力之重要語法功能：\n\n一、「可以」之三大核心語用範疇：\n１．表達社會許可與授權（Permission）：表示規則、法律或長輩主管允許進行某項行為（相當於英語之 may / can）。\n- 「呢度可唔可以影相？」（這裡可以拍照嗎？）\n- 「你可以入去喇」（你可以進去了）。\n２．表達客觀環境條件允許（Possibility / Opportunity）：表示外部客觀條件成熟、具備可能性。\n- 「搭地鐵可以避開紅磡海底隧道嘅大塞車」（搭乘地鐵可以避開紅隧大堵車）。\n３．表達禮貌請求與協商（Polite Request）：置於句首以正反問句形式提出委婉請求。\n- 「可唔可以借你部電腦用五分鐘？」（可以借你的電腦用五分鐘嗎？）。\n\n二、「能夠」之正式語體色彩與語意極限：\n１．「能夠」（nang4 gau3）具備較高之書面語體與正式公文色彩，側重於表達主體具備足夠力量、資源或客觀條件克服困難達成目標（相當於英語之 be capable of / be in a position to）。\n- 「我哋希望能夠喺年底前完成所有系統升級工程」。\n\n三、否定與答問模式：\n１．請求許可之肯定回答：「可以呀 / 梗係可以啦」（當然可以）。\n２．請求許可之否定回答：「唔可以」（不可/不行/嚴禁）。例如「圖書館入面唔可以大聲講嘢」。\n３．正反問句標準句型：「可唔可以＋動詞短語……？」",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 11 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 11 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 11 in communication."
+          "target": "請問我可唔可以借用你張八達通拍卡出閘，因為我張卡啱啱唔見咗。",
+          "reading": "cing2 man6 ngo5 ho2 m4 ho2 ji5 ze3 jung6 nei5 zoeng1 baat3 daat6 tung1 paak3 kaat1 ceot1 zaap6, jan1 wai6 ngo5 zoeng1 kaat1 aam1 aam1 m4 gin3 zo2. [tsʰɪŋ˧˥ mɐn˨ ŋɔː˩˧ hɔː˧˥ m̩˨˩ hɔː˧˥ jiː˩˧ tsɛː˧ jʊŋ˨ nei˩˧ tsœːŋ˥ paːt̚˧ taːt̚˨ tʰʊŋ˥ pʰaːk̚˧ kʰaːt̚˥ tsʰɵt̚˥ tsaːp̚˨, jɐn˥ wɐi˨ ŋɔː˩˧ tsœːŋ˥ kʰaːt̚˥ aːm˥ aːm˥ m̩˨˩ kiːn˧ tsɔː˧˥] (CHING-MUN NGOH HOH-M-HOH-YEE JEH-YOONG NEI JEUNG BAHK-DAHT-TOONG PAHK-KAHT CHUT-JAHK, YUN-WAI NGOH JEUNG KAHT AHM-AHM M-GEEN-JOR)",
+          "translation": "May I please borrow your Octopus card to tap through the exit gate, because I just lost my card."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元11-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "呢度係非吸煙區，全座大廈範圍內都唔可以食煙，違者會被罰款。",
+          "reading": "ni1 dou6 hai6 fei1 kap1 jin1 keoi1, cyun4 zo6 daai6 haa6 faan4 wai4 noi6 dou1 m4 ho2 ji5 sik6 jin1, wai4 ze2 wui5 bei6 fat6 fun2. [niː˥ tou˨ hɐi˨ fei˥ kʰɐp̚˥ jiːn˥ kʰɵy˥, tsʰyːn˨˩ tsɔː˨ taːi˨ haː˨ faːn˨˩ wɐi˨˩ nɔːi˨ tou˥ m̩˨˩ hɔː˧˥ jiː˩˧ sɪk̚˨ jiːn˥, wɐi˨˩ tsɛː˧˥ wuːi˩˧ pei˨ fɐt̚˨ fun˧˥] (NEE-DOU HY FEY-KUP-YEEN KOEY, CHUEN-JOH DY-HAH FAHN-WY-NOY DOH M-HOH-YEE SIK-YEEN, WY-JEH WUI BAY FUT-FOON)",
+          "translation": "This is a non-smoking area; smoking is not permitted anywhere within the entire building, and violators will be fined."
+        },
+        {
+          "target": "我哋只要團結一致，就一定能夠克服呢次經濟危機帶嚟嘅挑戰。",
+          "reading": "ngo5 dei6 zi2 jiu3 tyun4 git3 jat1 zi3, zau6 jat1 ding6 nang4 gau3 hak1 fuk6 ni1 ci3 ging1 zai3 ngai4 gei1 daai3 lai4 ge3 tiu1 zin3. [ŋɔː˩˧ tei˨ tsiː˧˥ jiu˧ tʰyːn˨˩ kiːt̚˧ jɐt̚˥ tsiː˧, tsɐu˨ jɐt̚˥ tɪŋ˨ nɐŋ˨˩ kɐu˧ hɐk̚˥ fʊk̚˨ niː˥ tsʰiː˧ kɪŋ˥ tsɐi˧ ŋɐi˨˩ kei˥ taːi˧ lɐi˨˩ kɛː˧ tʰiːu˥ tsiːn˧] (NGOH-DAY JEE-YEW TUEN-GEET YUT-JEE, JAU YUT-DING NUNG-GAU HUK-FOOK NEE-CHEE GING-JAI NGY-GAY DY-LY GEH TEW-JEEN)",
+          "translation": "As long as we unite as one, we will definitely be able to overcome the challenges brought by this economic crisis."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【許可請求訣】請求批准「可唔可以」，客觀允許「就可以」；規則嚴禁「唔可以」，克服困難「定能夠」！"
+      ],
+      "culturalNotes": [
+        "在香港商務溝通與公共服務交涉時，「可唔可以唔該你……」（能否麻煩您……）係最得體之高情商禮貌句式，將助動詞「可以」與禮貌詞「唔該」結合，展現出極佳之教養。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"開會\":",
+          "prompt": "【禮貌請求】在會議中欲禮貌請求同事「能否把窗戶關上」，最得體之粵語句式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：同事錯置）",
-            "混雜生硬詞彙之不規範語句（例項：老闆未適配）",
-            "聲調助詞搭配欠妥之表達（例項：人工誤用）"
+            "可唔可以唔該你幫手閂埋隻窗？ (ho2 m4 ho2 ji5 m4 goi1 nei5 bong1 sau2 saan1 maai4 zek3 coeng1?)",
+            "你一定要閂埋隻窗！",
+            "你識唔識閂埋隻窗？",
+            "你諗住閂埋隻窗未？"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「可唔可以唔該你……」係表達禮貌請求之最標準句式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"開會\":",
+          "prompt": "【規則禁令】公共場所張貼告示標明「嚴禁飲食」，口語化之粵語解釋係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：老闆未適配）",
-            "聲調助詞搭配欠妥之表達（例項：人工誤用）",
-            "語序顛倒嘅非標準句式（例項：同事錯置）"
+            "呢度唔可以食嘢同飲水。 (ni1 dou6 m4 ho2 ji5 sik6 je5 tung4 jam2 seoi2.)",
+            "呢度唔識食嘢同飲水。",
+            "呢度唔諗住食嘢同飲水。",
+            "呢度唔使食嘢同飲水。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「唔可以」表示規則禁止或不被許可（Not allowed）。"
         }
       ]
     },
@@ -4785,15 +4812,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"開會\": Which sentence is completely correct?",
+          "prompt": "【語法辨析】當別人詢問「我可唔可以坐呢度呀？」，若表示「可以，請坐」，最自然之道地回應為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：人工誤用）",
-            "語序顛倒嘅非標準句式（例項：同事錯置）",
-            "混雜生硬詞彙之不規範語句（例項：老闆未適配）"
+            "可以呀，請坐啦！ (ho2 ji5 aa3, cing2 co5 laa1!)",
+            "識得呀，請坐啦！",
+            "要呀，請坐啦！",
+            "諗住呀，請坐啦！"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "回答許可請求正向確認時使用「可以呀」（ho2 ji5 aa3）。"
         }
       ],
       "passThreshold": 0.8
@@ -4804,53 +4831,62 @@
     "subject": "cantonese",
     "unit": 11,
     "lessonNumber": 4,
-    "title": "助動詞（想/要/識/可以/得） (Modal Verbs & Ability) (第4課)",
+    "title": "後置潛能助詞與情態助動詞：「得」之雙重語法功能 (The Versatile Modal 'dak1')",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元11第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語多功能情態詞「得」（dak1）之雙重語法定位：後置可能補語助詞（V+得 / V+唔+得）與獨立情態謂語（得/唔得）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在粵語語法體系中，「得」（dak1）係極具靈活性與表現力之核心情態助詞，其在句法結構中主要扮演兩大關鍵角色：\n\n一、後置可能補語助詞（Post-Verbal Potential Complement：動詞 ＋ 得）：\n「得」緊跟在動詞之後，表達該動作「具備可行性、狀態已就緒、客觀上可以進行或被允許」：\n１．「食得」（sik6 dak1）：食物已經烹飪煮熟可以開動進食（如「飯餸煮好，食得喇！」），或指某物質安全可供食用（如「呢種野菇食唔得㗎」）。\n２．「行得」（haang4 dak1）：道路暢通可以通行，或傷者腿部痊癒可以行走。\n３．「走得」（zau2 dak1）：事情處理完畢可以離開（如「開完會，大家走得喇」）。\n４．「用得」（jung6 dak1）：設備功能正常可以使用（如「部電腦整好，用得喇」）。\n\n二、可能補語之否定句型結構（V ＋ 唔 ＋ 得 / 唔 ＋ V ＋ 得）：\n表達「某動作不可行或被禁止」時：\n- 「食唔得 / 唔食得」（不能吃/不可食用）\n- 「去唔到 / 去唔得」（無法前往/去不成）\n- 「講唔得 / 唔講得」（不可洩漏/說不得）。\n\n三、獨立情態謂語與正反問答（得 / 唔得）：\n１．作為獨立謂語表示「行、可行、可以、沒問題」：\n- 問句：「聽日朝早九點交報告，得唔得？」（明天早晨九點交報告，行不行？）\n- 肯定回答：「得！」（行！沒問題！）或「得咗！」（成功搞定了！）\n- 否定回答：「唔得！」（不行！不可以！不行做不到！）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 11 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 11 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 11 in communication."
+          "target": "啲點心啱啱蒸好，好熱㗎，等陣先食得，小心燙親把口呀！",
+          "reading": "di1 dim2 sam1 aam1 aam1 zing1 hou2, hou2 jit6 gaa3, dang2 zan6 sin1 sik6 dak1, siu2 sam1 tong3 can1 baa2 hau2 aa3! [tiː˥ tiːm˧˥ sɐm˥ aːm˥ aːm˥ tsɪŋ˥ hou˧˥, hou˧˥ jiːt̚˨ kaː˧, tɐŋ˧˥ tsɐn˨ siːn˥ sɪk̚˨ tɐk̚˥, siu˧˥ sɐm˥ tʰɔːŋ˧ tsʰɐn˥ paː2 hɐu˧˥ aː˧!] (DEE DEEM-SUM AHM-AHM JING-HOH, HOH-YEET GAH, DUNG-JUN SEEN SIK-DUK, SIU-SUM TONG-CHUN BAH-HAU AH!)",
+          "translation": "The dim sum is freshly steamed and very hot; wait a moment before it's ready to eat, be careful not to scald your mouth!"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元11-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "你份企劃書改好未呀？如果老細審批通過，我哋聽日就開得工喇。",
+          "reading": "nei5 fan6 kei5 waak6 syu1 goi2 hou2 mei6 aa3? jyu4 gwo2 lou5 sai3 sam2 pai1 tung1 gwo3, ngo5 dei6 ting1 jat6 zau6 hoi1 dak1 gung1 laa3. [nei˩˧ fɐn˨ kʰei˧˥ waːk̚˨ syː˥ kɔːi˧˥ hou˧˥ mei˨ aː˧? jyː˨˩ kʷɔː˧˥ lou˧˥ sɐi˧ sɐm˧˥ pʰɐi˥ tʰʊŋ˥ kʷɔː˧, ŋɔː˩˧ tei˨ tʰɪŋ˥ jɐt˨ tsɐu˨ hɔːi˥ tɐk̚˥ kʊŋ˥ laː˧] (NEI FUN KAY-WAHK-SYU GOI-HOH MAY AH? YU-GWOH LOU-SY SUM-PY TOONG-GWO, NGOH-DAY TING-YUT JAU HOI-DUK-GONG LAH)",
+          "translation": "Has your proposal been revised yet? If the boss approves it, we can start work tomorrow."
+        },
+        {
+          "target": "今日落咁大雨，條山路好跣，真係行唔得㗎，千祈唔好去行山！",
+          "reading": "gam1 jat6 lok6 gam3 daai6 jyu5, tiu4 saan1 lou6 hou2 sin2, zan1 hai6 haang4 m4 dak1 gaa3, cin1 kei4 m4 hou2 heoi3 haang4 saan1! [kɐm˥ jɐt˨ lɔːk̚˨ kɐm˧ taːi˨ jyː˩˧, tʰiːu˨˩ saːn˥ lou˨ hou˧˥ siːn˧˥, tsɐn˥ hɐi˨ haːŋ˨˩ m̩˨˩ tɐk̚˥ kaː˧, tsʰiːn˥ kʰei˨˩ m̩˨˩ hou˧˥ hɵy˧ haːŋ˨˩ saːn˥!] (GUM-YUT LOK GUM DY-YU, TEW SAHN-LOU HOH-SEEN, JUN-HY HAHNG-M-DUK GAH, CHEEN-KAY M-HOH HOEY HAHNG-SAHN!)",
+          "translation": "It is raining so heavily today and the mountain path is slippery; it really cannot be walked on, do not go hiking under any circumstances!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【情態助詞得】動詞後面跟個「得」，準備就緒「食得喇」；單字問句「得唔得」，乾脆利落「得咗啦」！"
+      ],
+      "culturalNotes": [
+        "香港茶餐廳與酒樓中，「食得喇！」係極具人情味之宣告，代表美味佳餚烹製完畢、全桌親友可以舉筷共嚐。而在職場對話中，一句乾脆俐落之「得！」展現出香港人講求效率、言出必行的辦事風格。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"同事\":",
+          "prompt": "【可能補語】主廚把煲仔飯端上桌，告知顧客「飯已經煮熟可以開始吃了」，最地道之粵語表達係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：老闆錯置）",
-            "混雜生硬詞彙之不規範語句（例項：人工未適配）",
-            "聲調助詞搭配欠妥之表達（例項：請假誤用）"
+            "煲仔飯整好，食得喇！ (bou1 zai2 faan6 zing2 hou2, sik6 dak1 laa3!)",
+            "煲仔飯整好，食識喇！",
+            "煲仔飯整好，食要喇！",
+            "煲仔飯整好，食諗住喇！"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "動詞後加「得」（食得）表示動作已經就緒、可以進行。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"同事\":",
+          "prompt": "【協商答問】同事提議「聽日下晝兩點開會，得唔得？」，欲表示「行，沒問題」，應回答：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：人工未適配）",
-            "聲調助詞搭配欠妥之表達（例項：請假誤用）",
-            "語序顛倒嘅非標準句式（例項：老闆錯置）"
+            "得，冇問題！ (dak1, mou5 man6 tai4!)",
+            "識，冇問題！",
+            "要，冇問題！",
+            "諗住，冇問題！"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "獨立情態謂語「得」（dak1）表示同意、可行或沒問題。"
         }
       ]
     },
@@ -4858,15 +4894,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"同事\": Which sentence is completely correct?",
+          "prompt": "【句法功能】短語「部打印機整好，用得喇」中，「用得」之確切語法含義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：請假誤用）",
-            "語序顛倒嘅非標準句式（例項：老闆錯置）",
-            "混雜生硬詞彙之不規範語句（例項：人工未適配）"
+            "打印機已經修復完畢，具備正常功能可以使用 (Ready/functional to use)",
+            "打印機必須強制作業",
+            "打印機很想去工作",
+            "打印機認識很多文件"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「用得」表示設備處於可正常使用之就緒狀態。"
         }
       ],
       "passThreshold": 0.8
@@ -4877,53 +4913,62 @@
     "subject": "cantonese",
     "unit": 11,
     "lessonNumber": 5,
-    "title": "助動詞（想/要/識/可以/得） (Modal Verbs & Ability) (第5課)",
+    "title": "情態助動詞綜合對比與職場生活實戰交涉 (Comprehensive Modal Contrast & Negotiations)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元11第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "綜合融會粵語五大情態範疇（想、要、識、可以、得）與「應該、肯、准」，熟練運用於職場請假、任務協商與項目交涉。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在職場商務溝通、專案協商與日常社交中，精準混合運用各類情態助動詞係達成高效溝通之關鍵技能：\n\n一、高級情態助動詞擴展矩陣：\n１．「應該」（jing1 goi1）：表達道義責任、合理推論或建議（相當於英語之 should / ought to）。例如「我哋應該遵守合約規定」（我們應該遵守合同條款）。\n２．「肯」（hang2）：表達主觀意願之認同、甘願或答應（相當於英語之 be willing to）。例如「老細肯唔肯批准呢筆預算？」（老闆願不願意批準這筆預算？）。\n３．「准」（zeon2）：表達上級對下級之官方批准或許可（相當於英語之 allow / permit）。例如「公司唔准員工私下兼職」（公司不允許員工私自兼職）。\n\n二、五大核心助動詞職場情境實戰對比：\n１．主觀請假意願：「我想請兩日年假去旅行」（想：個人願望）。\n２．法定義務責任：「我要交齊醫生紙先至申請到病假津貼」（要：客觀制度要求）。\n３．專業技術能力：「佢識寫程式同埋識處理大數據」（識：後天掌握之專業技能）。\n４．上司授權許可：「經理話我可以提早半個鐘放工」（可以：獲得主管許可）。\n５．專案就緒狀態：「份合約改好晒，簽得喇」（得：狀態就緒隨時可行）。\n\n三、高難度職場交涉複合句型：\n- 「如果大家肯加班趕工，呢個項目星期五之前就做得切，唔使延期！」",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 11 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 11 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 11 in communication."
+          "target": "如果老細肯批准呢個方案，我哋聽日就可以正式同客戶簽約，成個項目就搞得掂喇。",
+          "reading": "jyu4 gwo2 lou5 sai3 hang2 pai1 zeon2 ni1 go3 fong1 on3, ngo5 dei6 ting1 jat6 zau6 ho2 ji5 zing3 sik1 tung4 haak3 wu6 cin1 joek3, seng4 go3 hong6 muk6 zau6 gaau2 dak1 dim6 laa3. [jyː˨˩ kʷɔː˧˥ lou˧˥ sɐi˧ hɐŋ˧˥ pʰɐi˥ tsɵn˧˥ niː˥ kɔː˧ fɔːŋ˥ ɔːn˧, ŋɔː˩˧ tei˨ tʰɪŋ˥ jɐt˨ tsɐu˨ hɔː˧˥ jiː˩˧ tsɪŋ˧ sɪk̚˥ tʰʊŋ˨˩ haːk̚˧ wuː˨ tsʰiːn˥ jœːk̚˧, sɛːŋ˨˩ kɔː˧ hɔːŋ˨ mʊk̚˨ tsɐu˨ kaːu˧˥ tɐk̚˥ tiːm˨ laː˧] (YU-GWOH LOU-SY HUNG-PY-JEUN NEE-GOH FONG-ON, NGOH-DAY TING-YUT JAU HOH-YEE JING-SIK TOONG HAHK-WOO CHEEN-YEUK, SENG-GOH HONG-MOOK JAU GAU-DUK-DEEM LAH)",
+          "translation": "If the boss is willing to approve this proposal, we can officially sign the contract with the client tomorrow, and the entire project will be accomplished."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元11-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "你應該先向人事部登記，確認符合資格之後先至可以申請進修津貼。",
+          "reading": "nei5 jing1 goi1 sin1 hoeng3 jan4 si6 bou6 dang1 gei3, kok3 jin6 fu4 hap6 zi1 gaak3 zi1 hau6 sin1 zi3 ho2 ji5 san1 cing2 zeon3 sau1 zeon1 tip3. [nei˩˧ jɪŋ˥ kɔːi˥ siːn˥ hœːŋ˧ jɐn˨˩ siː˨ pou˨ tɐŋ˥ kei˧, kʰɔːk̚˧ jiːn˨ fuː˨˩ hɐp̚˨ tsiː˥ kaːk̚˧ tsiː˥ hɐu˨ siːn˥ tsiː˧ hɔː˧˥ jiː˩˧ sɐn˥ tsʰɪŋ˧˥ tsɵn˧ sɐu˥ tsɵn˥ tʰiːp̚˧] (NEI YING-GOI SEEN HEUNG YUN-SEE-BOU DUNG-GAY, KOK-YEEN FOO-HUP JEE-GAK JEE-HAU SEEN-JEE HOH-YEE SUN-CHING JEUN-SAU JEUN-TEEP)",
+          "translation": "You should first register with HR, and only after confirming you meet the qualifications can you apply for the education subsidy."
+        },
+        {
+          "target": "我哋部門個個都識用呢套人工智能軟件，所以處理數據做得好快。",
+          "reading": "ngo5 dei6 bou6 mun4 go3 go3 dou1 sik1 jung6 ni1 tou3 jan4 gung1 zi3 nang4 jyun5 gin62, so2 ji5 cyu2 lei5 sou3 geoi3 zou6 dak1 hou2 faai3. [ŋɔː˩˧ tei˨ pou˨ muːn˨˩ kɔː˧ kɔː˧ tou˥ sɪk̚˥ jʊŋ˨ niː˥ tʰou˧ jɐn˨˩ kʊŋ˥ tsiː˧ nɐŋ˨˩ jyːn˩˧ kiːn˧˥, sɔː˧˥ jiː˩˧ tsʰyː˧˥ lei˩˧ sou˧ kɵy˧ tsou˨ tɐk̚˥ hou˧˥ faːi˧] (NGOH-DAY BOU-MOON GOH-GOH DOH SIK-YOONG NEE-TOU YUN-GONG JEE-NUNG YUEN-GEEN, SOH-YEE CHU-LY SOU-GOEY JOH-DUK HOH-FY)",
+          "translation": "Everyone in our department knows how to use this AI software suite, so we process data very rapidly."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【情態綜合融會訣】「想」表願望「要」表責，「識」顯技能「可」獲批；「得」字收尾萬事順，職場交涉最得體！"
+      ],
+      "culturalNotes": [
+        "在香港高度專業之商業文化中，精準區分「想」（願望）、「要」（義務）與「可以」（許可）能避免合約談判中之法律漏洞。例如「我想交貨」僅代表主觀意向，而「我要按時交貨」則構成法律責任，體現出商業粵語之嚴謹。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"老闆\":",
+          "prompt": "【職場交涉】欲向上級表達「員工全體具備該技術（識），只要老闆願意批準（肯），明天就能正式動工（可以/得）」，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：人工錯置）",
-            "混雜生硬詞彙之不規範語句（例項：請假未適配）",
-            "聲調助詞搭配欠妥之表達（例項：加班誤用）"
+            "我哋個個都識做，只要老細肯批，聽日就開得工！ (ngo5 dei6 go3 go3 dou1 sik1 zou6, zi2 jiu3 lou5 sai3 hang2 pai1, ting1 jat6 zau6 hoi1 dak1 gung1!)",
+            "我哋個個都唔識做，只要老細唔肯批，聽日就開唔到工！",
+            "我哋個個都搭車，只要老細轉車，聽日就落車！",
+            "我哋個個都行街，只要老細買衫，聽日就找錢！"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "該句精確融合了技能「識」、主觀同意「肯」與就緒狀態「開得工」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"老闆\":",
+          "prompt": "【情態辨析】在句子「公司唔准員工喺辦公室食煙」中，「唔准」之精確含義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：請假未適配）",
-            "聲調助詞搭配欠妥之表達（例項：加班誤用）",
-            "語序顛倒嘅非標準句式（例項：人工錯置）"
+            "不允許 / 嚴格禁止 (Not permitted / Strictly forbidden)",
+            "不想吸煙",
+            "不會吸煙",
+            "不需要吸煙"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「唔准」（m4 zeon2）表示官方或上級嚴格禁止、不予許可。"
         }
       ]
     },
@@ -4931,15 +4976,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"老闆\": Which sentence is completely correct?",
+          "prompt": "【綜合判斷】請選出語法結構、情態助動詞搭配完全正確且符合地道粵語表達之句子：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：加班誤用）",
-            "語序顛倒嘅非標準句式（例項：人工錯置）",
-            "混雜生硬詞彙之不規範語句（例項：請假未適配）"
+            "如果老細肯批准呢個計劃，我哋聽日就可以開得工喇。 (If the boss approves, we can start work tomorrow.)",
+            "如果老細要批准呢個計劃，我哋聽日就唔要返工喇。",
+            "如果老細識批准呢個計劃，我哋聽日就諗住開工喇。",
+            "如果老細准批准呢個計劃，我哋聽日就使返工喇。"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "該句語法邏輯嚴密，正確使用了意願「肯」、許可「可以」與就緒補語「開得工」。"
         }
       ],
       "passThreshold": 0.8
