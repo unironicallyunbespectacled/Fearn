@@ -4175,53 +4175,62 @@
     "subject": "urdu",
     "unit": 10,
     "lessonNumber": 1,
-    "title": "مجبوری اور لاچاری: پڑنا اور ہونا (Compulsion with پڑنا) (Part 1)",
+    "title": "بیرونی مجبوری کے لیے 'پڑنا' کی گردان (External Compulsion with پڑنا)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 10.1) with authentic precision.",
+    "objective": "حالات کی مجبوری اور ناگواری کے بیان کے لیے مفعولی فاعل (کو) + مصدر + پڑنا (پڑتا ہے / پڑی / پڑے گا) کے نحوی اوزان پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں بیرونی مجبوری کے لیے «پڑنا» (External Compulsion with 'Parna') کے قواعد:\n\n1. **مجبوری کا مفہوم**:\n   - جب فاعل اپنی مرضی کے بغیر، بیرونی دباؤ یا ناموافق حالات کی وجہ سے کوئی کام کرنے پر مجبور ہو۔\n\n2. **نحوی ساخت**:\n   - **فاعل کو + مفعول + مصدر + پڑتا ہے / پڑتی ہے / پڑتے ہیں**:\n     - مذکر مفعول: «مجھے روزانہ صبح سفر **کرنا پڑتا ہے**»؛\n     - مؤنث مفعول: «اسے دیر تک **بات سننی پڑتی ہے**»؛\n     - جمع مفعول: «ہمیں نئے کپڑے **خریدنے پڑتے ہیں**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "شدید ٹریفک جام کی وجہ سے ہمیں دفتر پہنچنے کے لیے پیدل چلنا پڑتا ہے۔",
+          "reading": "Shadeed traffic jam ki wajah se hamein daftar pohanchne ke liye paidal chalna parta hai. [ʃəd̪iːd̪ ʈrɛːfɪk dʒɛːm kiː ʋədʒəh seː həmẽː d̪əft̪ər pɔɦʊntʃneː keː lɪjeː pɛːd̪əl tʃəlnaː pəɽt̪aː hɛː] (shuh-DEED traffic jam kee vuh-JUH say huh-MAYN duhf-TUHR poh-HOONCH-nay kay lee-AY PY-duhl chuhl-NAH puhr-TAH HY)",
+          "translation": "Due to severe traffic jams, we have to walk [involuntary compulsion: chalna parta hai] to reach the office."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 10-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "خراب موسم اور شدید بارش کے باعث ہوائی جہاز کے مسافروں کو کئی گھنٹے انتظار کرنا پڑا۔",
+          "reading": "Kharaab mausam aur shadeed baarish ke baais hawaai jahaaz ke musaafiron ko kayi ghantay intezaar karna para. [xəraːb mɔːsəm ɔːr ʃəd̪iːd̪ baːrɪʃ keː baːʔɪs həʋaːʔiː dʒəhaːz keː mʊsaːfɪrõː koː kəjiː ɡʱəɳʈeː ɪnt̪ɪzaːr kərnaː pəɽaː] (khuh-RAHB mow-SUHM owr shuh-DEED BAH-reesh kay bah-EES huh-wah-EE juh-HAHZ kay moo-sah-fee-ROHN koh kuh-YEE GHUHN-tay een-tuh-ZAHR kuhr-NAH puh-RAH)",
+          "translation": "Because of bad weather and heavy rain, airline passengers had to wait [past compulsion: intezaar karna para] for several hours."
+        },
+        {
+          "target": "اگر آپ نے قوانین کی خلاف ورزی کی تو آپ کو بھاری قانونی جرمانہ ادا کرنا پڑے گا۔",
+          "reading": "Agar aap ne qawaaneen ki khilaaf-warzi ki to aap ko bhaari qaanooni jurmaana ada karna paray ga. [əɡər aːp neː qəʋaːniːn kiː xɪlaːf-ʋərziː kiː t̪oː aːp koː bʱaːriː qaːnuːniː dʒʊrmaːnəh əd̪aː kərnaː pəɽeː ɡaː] (UH-guhr AHP nay quh-wah-NEEN kee khee-lahf-vuhr-ZEE kee toh AHP koh bhah-REE qah-noo-NEE joor-MAH-nuh uh-DAH kuhr-NAH puh-RAY GAH)",
+          "translation": "If you violate the rules, you will have to pay [future compulsion: ada karna paray ga] a heavy legal penalty."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "پڑنا فارمولا: فاعل + کو + کام + کرنا پڑتا ہے (مجبوری کا اظہار)!"
+      ],
+      "culturalNotes": [
+        "اردو گفتگو میں 'کرنا پڑتا ہے' کا استعمال کسی کام میں فاعل کی دلی رضا مندی کے فقدان اور معاشرتی جبر کو ظاہر کرتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"میز\":",
+          "prompt": "مجبوری ظاہر کرنے کے لیے کون سا امدادی فعل مستعمل ہوتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («کرسی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بستر» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دیوار» کی خرابی)"
+            "پڑنا (Parna - Auxiliary verb denoting involuntary external compulsion)",
+            "چاہنا (خواہش)",
+            "سکنا (صلاحیت)",
+            "چکنا (تکمیل)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "بیرونی دباؤ اور مجبوری کے لیے امدادی فعل «پڑنا» استعمال ہوتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"میز\":",
+          "prompt": "مؤنث اسم «بات» کے ساتھ مجبوری کا درست جملہ کیا بنے گا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بستر» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دیوار» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کرسی» کا غیر درست استعمال)"
+            "مجھے ان کی بات ماننی پڑتی ہے (I have to accept their word - Feminine compulsion agreement with baat)",
+            "مجھے بات ماننا پڑتا ہے (تذکیر کی غلطی)",
+            "مجھے بات مانا تھا (ماضی مطلق)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مؤنث اسم 'بات' کے ساتھ «ماننی پڑتی ہے» درست ہے۔"
         }
       ]
     },
@@ -4229,17 +4238,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"میز\": Which sentence is completely correct?",
+          "prompt": "بیرونی مجبوری (External Compulsion with پڑنا) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دیوار» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کرسی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بستر» سے متعلق)"
+            "طوفانی بارش اور بجلی کی بندش کی وجہ سے طلبہ کو موم بتی کی روشنی میں امتحان کی تیاری کرنی پڑی۔ (Due to torrential rain and power outage, students had to prepare [tayyaari karni pari - feminine] for the exam in candlelight.)",
+            "طلبہ نے موم بتی کو امتحان کرایا تھا۔",
+            "پڑنا کا مطلب صرف بستر پر سونا ہوتا ہے۔",
+            "پڑی کو ہمیشہ فاعل کے نام کے اوپر لکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«طوفانی بارش اور بجلی کی بندش کی وجہ سے طلبہ کو موم بتی کی روشنی میں امتحان کی تیاری کرنی پڑی۔» بیرونی مجبوری کا فصیح اور درست جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u10-l2": {
@@ -4247,53 +4257,62 @@
     "subject": "urdu",
     "unit": 10,
     "lessonNumber": 2,
-    "title": "مجبوری اور لاچاری: پڑنا اور ہونا (Compulsion with پڑنا) (Part 2)",
+    "title": "ذاتی عزم و پہلے سے طے شدہ وجوب: 'ہونا' کی ساخت (Internal Duty / Planned Obligation)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 10.2) with authentic precision.",
+    "objective": "ذاتی ارادے، طے شدہ شیڈول اور اخلاقی فریضے (فاعل کو + مصدر + ہونا ہے/تھا) میں 'پڑنا' سے امتیاز کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں ارادی و منصوبی وجوب کے لیے «ہونا» (Pre-arranged Obligation with 'Hona') کی ساخت:\n\n1. **'پڑنا' اور 'ہونا' کا جوہری فرق**:\n   - **پڑنا**: ناپسندیدہ مجبوری یا بیرونی دباؤ (جیسے: «مجھے جرمانہ بھرنا **پڑا**»)؛\n   - **ہونا**: ذاتی ارادہ، طے شدہ شیڈول یا فریضہ (جیسے: «مجھے کل لاہور **جانا ہے**»)۔\n\n2. **نحوی ساخت**:\n   - **فاعل کو + مصدر + ہے / تھا / ہوگا**:\n     - «مجھے کل صبح ضروری اجلاس میں شرکت **کرنی ہے**»؛\n     - «طالب علم کو مقالہ جمع **کرانا ہے**»؛\n     - «ہمیں کل ان کا استقبال **کرنا تھا**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "مجھے کل دوپہر ایک اہم تجارتی اجلاس میں شرکت کے لیے اسلام آباد جانا ہے۔",
+          "reading": "Mujhe kal dopehar ek aham tijaarti ijlaas mein shirkat ke liye Islamabad jaana hai. [mʊdʒʰeː kəl d̪oːpɛɦər eːk əɦəm t̪ɪdʒaːrt̪iː ɪdʒlaːs mẽː ʃɪrkət̪ keː lɪjeː ɪslaːmaːbaːd̪ dʒaːnaː hɛː] (MOOJ-hay KUHL doh-PYH-huhr AYK UH-huhm tee-jahr-TEE eej-LAHS mayn sheer-KUHT kay lee-AY ees-lahm-ah-BAHD jah-NAH HY)",
+          "translation": "I have to go to Islamabad tomorrow afternoon to participate in an important business meeting [planned schedule: jaana hai]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 10-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "طالب علم کو کل صبح اپنا سالانہ تحقیقی مقالہ شعبۂ اردو میں جمع کرانا ہے۔",
+          "reading": "Taalib-e-ilm ko kal subah apna saalaana tehqeeqi maqaala sho'ba-e-Urdu mein jama karaana hai. [t̪aːlɪb-eː-ɪlm koː kəl sʊbəh əpnaː saːlaːnəh t̪əɦqiːqiː məqaːlaː ʃoːʔbaː-eː-ʊrd̪uː mẽː dʒəmaː kəraːnaː hɛː] (tah-lee-bay-EELM koh KUHL SOO-buh uhp-NAH sah-lah-NUH tuhh-qee-QEE muh-QAH-lah shoh-bah-ay-OOR-doo mayn juh-MAH kuh-rah-NAH HY)",
+          "translation": "The student has to submit their annual research paper in the Urdu Department tomorrow morning."
+        },
+        {
+          "target": "ہمیں وقت کی کمی کے باوجود تمام طے شدہ انتظامی معاملات آج ہی نمٹانے ہیں۔",
+          "reading": "Hamein waqt ki kami ke baawajood tamaam tay shuda intezaami maamlaat aaj hi nimtaane hain. [həmẽː ʋəqt̪ kiː kəmiː keː baːʋədʒuːd̪ t̪əmaːm t̪əj ʃʊd̪aː ɪnt̪ɪzaːmiː maːmlaːt̪ aːdʒ hiː nɪmʈaːneː hɛ̃ː] (huh-MAYN VUHKT kee kuh-MEE kay bah-vuh-JOOD tuh-MAHM ty-SHOO-dah een-tuh-zah-MEE mahm-LAHT AHJ HEE neem-tah-NAY HYN)",
+          "translation": "Despite the shortage of time, we have to settle all scheduled administrative matters today [plural masculine agreement: nimtaane hain]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ہونا بمقابلہ پڑنا: جانا ہے (منصوبہ و ارادہ)، جانا پڑتا ہے (مجبوری و دباؤ)!"
+      ],
+      "culturalNotes": [
+        "اردو میں کسی مہمان کو رخصت کی اجازت طلب کرتے وقت 'مجھے اب جانا ہے' کہنا انتہائی مہذب اور باوقار سمجھا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"کرسی\":",
+          "prompt": "طے شدہ شیڈول اور ارادے کے اظہار کا کون سا جملہ درست ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («بستر» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دیوار» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («چھت» کی خرابی)"
+            "مجھے کل لاہور جانا ہے (I have to go to Lahore tomorrow - Pre-arranged planned obligation with hona)",
+            "مجھے کل لاہور جانا پڑا (ماضی کی مجبوری)",
+            "میں کل لاہور گیا تھا (ماضی بعید)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "طے شدہ منصوبے کے لیے «جانا ہے» فصیح ترین تعبیر ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"کرسی\":",
+          "prompt": "جمع مفعول «معاملات» کے ساتھ فعل «ہونا» کا درست صیغہ کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دیوار» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («چھت» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بستر» کا غیر درست استعمال)"
+            "نمٹانے ہیں (Nimtaane hain - Plural masculine agreement with maamlaat)",
+            "نمٹانا ہے (واحد مذکر)",
+            "نمٹانی ہے (مؤنث واحد)",
+            "نمٹائی تھیں (ماضی)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "جمع مذکر اسم 'معاملات' کے ساتھ «نمٹانے ہیں» آئے گا۔"
         }
       ]
     },
@@ -4301,17 +4320,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"کرسی\": Which sentence is completely correct?",
+          "prompt": "ارادی و منصوبی وجوب (Planned Obligation with ہونا) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («چھت» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بستر» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دیوار» سے متعلق)"
+            "ہمیں کل صبح دس بجے وفد کے ہمراہ صدرِ مملکت سے ملاقات کرنی ہے تاکہ نئے منصوبے کی منظوری لی جا سکے۔ (We are scheduled to meet [mulaaqaat karni hai - feminine] the President of the State with the delegation tomorrow morning.)",
+            "ہم نے صدر سے ملاقات پڑتا ہے اور بھاگا۔",
+            "ہونا کا مطلب صرف دودھ پینا ہوتا ہے۔",
+            "ہے کو ہمیشہ فاعل سے پہلے لگانا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہمیں کل صبح دس بجے وفد کے ہمراہ صدرِ مملکت سے ملاقات کرنی ہے تاکہ نئے منصوبے کی منظوری لی جا سکے۔» منصوبی وجوب کا مستند جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u10-l3": {
@@ -4319,53 +4339,62 @@
     "subject": "urdu",
     "unit": 10,
     "lessonNumber": 3,
-    "title": "مجبوری اور لاچاری: پڑنا اور ہونا (Compulsion with پڑنا) (Part 3)",
+    "title": "ماضی کی مجبوری اور صیغوں کی مطابقت (Past Compulsion: پڑا / پڑی / پڑے / پڑیں)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 10.3) with authentic precision.",
+    "objective": "ماضی میں پیش آنے والی مجبوریوں میں مفعول کی تذکیر و تانیث اور تعداد (پڑا/پڑی/پڑے/پڑیں) کی مکمل مطابقت پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں ماضی کی مجبوری (Past Compulsion) اور نحوی مطابقت کے اصول:\n\n1. **مفعولی مطابقت کے قواعد**:\n   - **مذکر واحد مفعول**: «مجھے نیا مکان **کرایہ پر لینا پڑا**»؛\n   - **مؤنث واحد مفعول**: «اسے سخت سردی میں **پہریداری کرنی پڑی**»؛\n   - **مذکر جمع مفعول**: «ہمیں پرانے کاغذات **تلاش کرنے پڑے**»؛\n   - **مؤنث جمع مفعول**: «تاجر کو اپنی دکانیں **فروخت کرنی پڑیں**»۔\n\n2. **لازم افعال کے ساتھ**:\n   - جب مفعول نہ ہو تو ہمیشہ مذکر واحد «پڑا» آتا ہے (جیسے: «ہمیں پیدل **چلنا پڑا**»)۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "گاڑی خراب ہو جانے کے باعث مسافروں کو اندھیری رات میں پیدل مسافت طے کرنی پڑی۔",
+          "reading": "Gaari kharaab ho jaane ke baais musaafiron ko andheri raat mein paidal masaafat tay karni pari. [ɡaːɽiː xəraːb hoː dʒaːneː keː baːʔɪs mʊsaːfɪrõː koː ənd̪ʱeːriː raːt̪ mẽː pɛːd̪əl məsaːfət̪ t̪əj kərniː pəɽiː] (GAH-dee khuh-RAHB hoh jah-NAY kay bah-EES moo-sah-fee-ROHN koh uhn-DAY-ree RAHT mayn PY-duhl muh-SAH-fuht ty kuhr-NEE puh-REE)",
+          "translation": "Because the car broke down, passengers had to cover the distance on foot [feminine object masaafat -> tay karni pari] in the dark night."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 10-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "حالات کی مجبوری کے تحت تاجر کو اپنی تمام قیمتی دکانیں اونے پونے داموں فروخت کرنی پڑیں۔",
+          "reading": "Haalaat ki majboori ke tehet taajir ko apni tamaam qeemti dukaanain aunay-paunay daamon farokht karni pareen. [haːlaːt̪ kiː mədʒbuːriː keː t̪ɛɦət̪ t̪aːdʒɪr koː əpniː t̪əmaːm qiːmt̪iː d̪ʊkaːnẽː ɔːneː-pɔːneː d̪aːmõː fəroːxt̪ kərniː pəɽĩː] (hah-LAHT kee muhj-BOO-ree kay TY-huht TAH-jeer koh uhp-NEE tuh-MAHM QEEM-tee doo-KAH-nayn OW-nay-POW-nay dah-MOHN fuh-ROHKHT kuhr-NEE puh-REEN)",
+          "translation": "Under the compulsion of circumstances, the merchant had to sell all his valuable shops [feminine plural dukaanain -> farokht karni pareen] at throwaway prices."
+        },
+        {
+          "target": "عدالت کے طلب کرنے پر گواہ کو اپنے تمام پرانے بیانات قلمبند کرانے پڑے۔",
+          "reading": "Adaalat ke talab karne par gawaah ko apne tamaam puraane bayaanaat qalamband karaane paray. [əd̪aːlət̪ keː t̪ələb kərneː pər ɡəʋaːh koː əpneː t̪əmaːm pʊraːneː bəjaːnaːt̪ qələmbənd̪ kəraːneː pəɽeː] (uh-DAH-luht kay tuh-LUHB kuhr-NAY puhr guh-VAHH koh uhp-NAY tuh-MAHM poo-RAH-nay buh-yah-NAHT quh-luhm-BUHND kuh-rah-NAY puh-RAY)",
+          "translation": "Upon being summoned by the court, the witness had to record all his previous statements [masculine plural bayaanaat -> qalamband karaane paray]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ماضی مجبوری اوزان: چلنا پڑا (مذکر)، مسافت طے کرنی پڑی (مؤنث)، دکانیں بیچنی پڑیں (مؤنث جمع)!"
+      ],
+      "culturalNotes": [
+        "اردو کی تاریخی داستانوں میں مصائب و آلام کے بیان کے لیے 'پڑی' اور 'پڑیں' کا صیغہ کثرت سے مستعمل ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"بستر\":",
+          "prompt": "مؤنث جمع اسم «کتابیں» کے ساتھ ماضی کی مجبوری کا درست صیغہ کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («دیوار» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («چھت» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کام» کی خرابی)"
+            "خریدنی پڑیں (Khareedni pareen - Feminine plural past compulsion concord)",
+            "خریدنا پڑا (مذکر واحد)",
+            "خریدنے پڑے (مذکر جمع)",
+            "خریدنی پڑی (مؤنث واحد)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "مؤنث جمع اسم کے ساتھ نون غنہ والا صیغہ «خریدنی پڑیں» مستعمل ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"بستر\":",
+          "prompt": "مذکر واحد مفعول «مکان» کے ساتھ ماضی کی مجبوری کیا بنے گی؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («چھت» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کام» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دیوار» کا غیر درست استعمال)"
+            "خالی کرنا پڑا (Khaali karna para - Masculine singular past compulsion)",
+            "خالی کرنی پڑی (مؤنث واحد)",
+            "خالی کرنے پڑے (مذکر جمع)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مذکر واحد اسم 'مکان' کے ساتھ «خالی کرنا پڑا» درست ہے۔"
         }
       ]
     },
@@ -4373,17 +4402,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"بستر\": Which sentence is completely correct?",
+          "prompt": "ماضی کی مجبوری اور صیغوں کی مطابقت (Past Compulsion) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کام» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دیوار» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («چھت» سے متعلق)"
+            "سیلاب کے اچانک آ جانے کی وجہ سے گاؤں کے تمام باسیوں کو اپنے آبائی گھر بار چھوڑنے پڑے اور محفوظ مقامات پر پناہ لینی پڑی۔ (Due to the sudden flood, all villagers had to abandon their ancestral homes [ghar baar chhornay paray - masculine plural] and had to take shelter [panaah leni pari - feminine singular] in safe places.)",
+            "سیلاب نے گاؤں کو گھر بار چھوڑنا پڑیں تھا۔",
+            "ماضی کی مجبوری صرف سکول میں ہوتی ہے۔",
+            "پڑیں کو ہمیشہ جملے کے شروع میں لکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«سیلاب کے اچانک آ جانے کی وجہ سے گاؤں کے تمام باسیوں کو اپنے آبائی گھر بار چھوڑنے پڑے اور محفوظ مقامات پر پناہ لینی پڑی۔» ماضی کی مجبوری کا کامل جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u10-l4": {
@@ -4391,53 +4421,62 @@
     "subject": "urdu",
     "unit": 10,
     "lessonNumber": 4,
-    "title": "مجبوری اور لاچاری: پڑنا اور ہونا (Compulsion with پڑنا) (Part 4)",
+    "title": "مستقبل کی مجبوری اور مشروط جملے (Future Compulsion in Conditionals: پڑے گا / پڑے گی)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 10.4) with authentic precision.",
+    "objective": "مشروط جملوں میں مستقبل کی ناگزیر مجبوری (اگر ایسا ہوا تو کرنا پڑے گا/پڑے گی) کے بلیغ استعمال پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں مستقبل کی مجبوری (Future Compulsion in Conditionals) کے قواعد:\n\n1. **مستقبل کی ناگزیر مجبوری**:\n   - آنے والے وقت میں کسی شرط کے نتیجے میں پیدا ہونے والی مجبوری کا بیان۔\n\n2. **نحوی ساخت**:\n   - **اگر + شرط + تو + فاعل کو + مصدر + پڑے گا / پڑے گی / پڑیں گے**:\n     - مذکر مفعول: «آپ کو جرمانہ **دینا پڑے گا**»؛\n     - مؤنث مفعول: «ہمیں قیمت **چکانی پڑے گی**»؛\n     - جمع مفعول: «انہیں اخراجات **برداشت کرنے پڑیں گے**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اگر راستے میں مزید برف باری ہوئی تو سیاحوں کو ہوٹل کے اندر ہی قیام کرنا پڑے گا۔",
+          "reading": "Agar raastay mein mazeed barf-baari hui to sayyaahon ko hotel ke andar hi qiyaam karna paray ga. [əɡər raːst̪eː mẽː məziːd̪ bərwb-baːriː hʊiː t̪oː sɪjːaːhõː koː hoːʈəl keː ənd̪ər hiː qɪjaːm kərnaː pəɽeː ɡaː] (UH-guhr rahs-TAY mayn muh-ZEED buhrf-bah-REE hoo-EE toh sy-yah-HOHN koh hotel kay uhn-DUHR HEE qee-YAHM kuhr-NAH puh-RAY GAH)",
+          "translation": "If there is further snowfall on the route, tourists will have to stay [future compulsion: qiyaam karna paray ga] inside the hotel."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 10-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اگر ادویات کی قیمتوں میں غیر معمولی اضافہ ہوا تو حکومت کو فوری ہنگامی اقدامات کرنے پڑیں گے۔",
+          "reading": "Agar adwiyaat ki qeematon mein ghair-ma'mooli izaafa hua to hakoomat ko fauri hangaami iqdaamaat karne parain gay. [əɡər əd̪ʋɪjaːt̪ kiː qiːmt̪õː mẽː ɣɛːr-maːmuːliː ɪzaːfaː hʊaː t̪oː hʊkuːmət̪ koː fɔːriː hənɡaːmiː ɪqdaːmaːt̪ kərneː pəɽẽː ɡeː] (UH-guhr uhd-vee-YAHT kee qeem-TOHN mayn ghyr-mah-moo-LEE ee-ZAH-fah hoo-AH toh hoo-KOO-muht koh FOW-ree huhn-gah-MEE eeq-dah-MAHT kuhr-NAY puh-RAYN GAY)",
+          "translation": "If there is an extraordinary increase in medicine prices, the government will have to take [masculine plural: iqdaamaat karne parain gay] immediate emergency measures."
+        },
+        {
+          "target": "اگر آپ نے وقت پر فارم جمع نہ کرایا تو آپ کو دوبارہ داخلہ امتحان دینا پڑے گا۔",
+          "reading": "Agar aap ne waqt par form jama na karaaya to aap ko dobaara daakhla imtehaan dena paray ga. [əɡər aːp neː ʋəqt̪ pər fɔːrm dʒəmaː nə kəraːjaː t̪oː aːp koː d̪oːbaːraː d̪aːxləh ɪmt̪ɪhaːn d̪eːnaː pəɽeː ɡaː] (UH-guhr AHP nay VUHKT puhr form juh-MAH nuh kuh-rah-YAH toh AHP koh doh-BAH-rah dahkh-LUH eem-tuh-HAHN day-NAH puh-RAY GAH)",
+          "translation": "If you do not submit the form on time, you will have to take the admission test again."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مستقبل مجبوری: اگر دیر ہوئی تو جرمانہ دینا پڑے گا، قربانی دینی پڑے گی!"
+      ],
+      "culturalNotes": [
+        "اردو کی تنبیہی گفتگو اور قانونی معاہدوں میں 'پڑے گا / پڑے گی' مستقبل کے لازمی نتائج کو بیان کرنے کا حتمی صیغہ ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"دیوار\":",
+          "prompt": "مؤنث اسم «فیس» کے ساتھ مستقبل کی مجبوری کیا بنے گی؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («چھت» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کام» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دفتر» کی خرابی)"
+            "فیس ادا کرنی پڑے گی (Will have to pay fees - Feminine singular future compulsion)",
+            "فیس ادا کرنا پڑے گا (تذکیر کی غلطی)",
+            "فیس ادا کرنے پڑیں گے (جمع مذکر)",
+            "فیس ادا کی تھی (ماضی)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "مؤنث اسم 'فیس' کے ساتھ «ادا کرنی پڑے گی» درست ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"دیوار\":",
+          "prompt": "مشروط جملے میں مستقبل کی مجبوری کا فصیح آغاز کس لفظ سے ہوتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کام» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دفتر» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («چھت» کا غیر درست استعمال)"
+            "اگر (Agar - Conditional conjunction introducing future conditional clause)",
+            "کاش (تمنا)",
+            "کیونکہ (علت)",
+            "تاکہ (مقصد)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مشروط جملے کا آغاز لفظ 'اگر' سے ہوتا ہے۔"
         }
       ]
     },
@@ -4445,17 +4484,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"دیوار\": Which sentence is completely correct?",
+          "prompt": "مستقبل کی مجبوری اور مشروط جملوں (Future Compulsion in Conditionals) کا درست جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دفتر» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («چھت» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کام» سے متعلق)"
+            "اگر آپ نے آج محنت نہ کی تو کل آپ کو اپنی کوتاہیوں پر زندگی بھر پچھتانا پڑے گا۔ (If you do not work hard today, you will have to regret your shortcomings [pachtana paray ga] for the rest of your life.)",
+            "اگر آپ نے محنت کیا تو پچھتایا تھا اور رویا۔",
+            "پڑے گا صرف بارش میں آتا ہے۔",
+            "مستقبل کے جملے میں تو کا استعمال ممنوع ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اگر آپ نے آج محنت نہ کی تو کل آپ کو اپنی کوتاہیوں پر زندگی بھر پچھتانا پڑے گا۔» مشروط مستقبل کی مجبوری کا بہترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u10-l5": {
@@ -4463,53 +4503,62 @@
     "subject": "urdu",
     "unit": 10,
     "lessonNumber": 5,
-    "title": "مجبوری اور لاچاری: پڑنا اور ہونا (Compulsion with پڑنا) (Part 5)",
+    "title": "مجبوری و عزم (پڑنا بمقابلہ ہونا) کا جامع سمیکن (Compulsion & Obligation Grand Synthesis)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 10.5) with authentic precision.",
+    "objective": "ارادے (ہونا)، مجبوری (پڑنا)، ماضی و مستقبل کی ساختوں کو کثیر الجملاتی شاہکار ادبی بیانیے میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "مجبوری اور ارادی وجوب کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **پڑنا اور ہونا کا باوقار ملاپ**:\n   - انسانی عزم و ہمت اور حالات کی مجبوری کا فلسفیانہ امتزاج:\n     - «ہمیں اپنے خواب پورے **کرنے ہیں** (عزم/ہونا)؛ خواہ کتنی ہی قربانیاں دینی **پڑیں** (مجبوری/پڑنا)؛ اور کتنی ہی کٹھن راتیں جاگ کر کاٹنی **پڑیں گی** (مستقبل)»۔\n\n2. **ادبی و فکری جامعیت**:\n   - یہ متوازن اور شستہ زبان اردو ناولوں، آپ بیتیوں اور تاریخ کے عظیم ترین صفحات کی جان ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ہمیں زندگی میں ہر حال میں اپنے اعلیٰ مقاصد حاصل کرنے ہیں، خواہ اس راستے میں ہمیں کتنی ہی کٹھن آزمائشوں سے گزرنا پڑے اور کتنی ہی قربانیاں دینی پڑیں۔",
+          "reading": "Hamein zindagi mein har haal mein apne aala maqaasid haasil karne hain, khwaah is raastay mein hamein kitni hi kathin aazmaaishon se guzarna paray aur kitni hi qurbaaniyaan deni pareen. [həmẽː zɪnd̪əɡiː mẽː hər haːl mẽː əpneː aːlaː məqaːsɪd̪ haːsɪl kərneː hɛ̃ː xwaːh ɪs raːst̪eː mẽː həmẽː kɪt̪niː hiː kəʈʰɪn aːzmaːʔɪʃõː seː ɡʊzərnaː pəɽeː ɔːr kɪt̪niː hiː qʊrbaːnɪjaː̃ d̪eːniː pəɽĩː] (huh-MAYN zeen-duh-GEE mayn HUHR HAHL mayn uhp-NAY AH-lah muh-QAH-seed hah-SEEL kuhr-NAY HYN, KHAWAH EES rahs-TAY mayn huh-MAYN keet-NEE HEE kuh-THEEN ahz-mah-ee-SHOHN say goo-ZUHR-nah puh-RAY owr keet-NEE HEE qoor-bah-nee-YAHN day-NEE puh-REEN)",
+          "translation": "We have to achieve our lofty goals [internal duty: haasil karne hain] in life at all costs, no matter how many harsh trials we may have to undergo [guzarna paray] and how many sacrifices we had to make [qurbaaniyaan deni pareen]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 10-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "مجھے کل صبح لاہور روانہ ہونا ہے مگر ٹرین منسوخ ہونے کی وجہ سے اب بس کے ذریعے سفر کرنا پڑے گا۔",
+          "reading": "Mujhe kal subah Lahore rawaana hona hai magar train mansookh hone ki wajah se ab bus ke zariye safar karna paray ga. [mʊdʒʰeː kəl sʊbəh laːɦɔːr rəʋaːnəh hoːnaː hɛː məɡər ʈreːn mənsuːx hoːneː kiː ʋədʒəh seː əb bəs keː zəriːjeː səfər kərnaː pəɽeː ɡaː] (MOOJ-hay KUHL SOO-buh lah-HOHR ruh-vah-NUH hoh-NAH HY muh-GUHR train muhn-SOOKH hoh-NAY kee vuh-JUH say UHB bus kay zuh-ree-YAY suh-FUHR kuhr-NAH puh-RAY GAH)",
+          "translation": "I am scheduled to depart for Lahore tomorrow morning [rawaana hona hai], but due to train cancellation, I will now have to travel by bus [safar karna paray ga]."
+        },
+        {
+          "target": "قومی ترقی کے لیے ہمیں اپنے فرائض دیانت داری سے نبھانے ہیں اور کسی بھی مجبوری کے آگے گھٹنے نہیں ٹیکنے ہیں۔",
+          "reading": "Qaumi taraqqi ke liye hamein apne faraaiz diyaanat-daari se nibhaane hain aur kisi bhi majboori ke aagay ghutnay nahin tekay hain. [qɔːmiː t̪ərəqːiː keː lɪjeː həmẽː əpneː fəraːʔɪz d̪ɪjaːnət̪-d̪aːriː seː nɪbʱaːneː hɛ̃ː ɔːr kɪsiː bʱiː mədʒbuːriː keː aːɡeː ɡʱʊʈneː nəɦĩː ʈeːkneː hɛ̃ː] (QOW-mee tuh-ruhq-QEE kay lee-AY huh-MAYN uhp-NAY fuh-rah-EEZ dee-yah-nuht-dah-REE say neeb-HAH-nay HYN owr kee-SEE bhee muhj-BOO-ree kay AH-gay ghoot-NAY nuh-HEEN tayk-NAY HYN)",
+          "translation": "For national progress, we have to fulfill our obligations [faraaiz nibhaane hain] honestly and have not to kneel before any compulsion."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع سمیکن: حاصل کرنے ہیں (عزم)، گزرنا پڑے (حالات کی مجبوری)، نبھانے ہیں (قومی فریضہ)!"
+      ],
+      "culturalNotes": [
+        "اردو کی انقلابی شاعری (جیسے فیض احمد فیض اور حبیب جالب) میں مجبوری کے خلاف عزم و استقامت کا یہی انداز بنیادی محور ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"چھت\":",
+          "prompt": "عزم (ہونا) اور مجبوری (پڑنا) کے متوازن امتزاج کا فصیح جملہ منتخب کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («کام» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دفتر» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ساتھی» کی خرابی)"
+            "مجھے کام کرنا ہے چاہے مشکل اٹھانی پڑے (I have to do work [hona] no matter what difficulty I must face [parna] - Balanced synthesis)",
+            "مجھے کام پڑنا ہے چاہے مشکل ہونا ہے (بے جوڑ صیغے)",
+            "کام ختم ہوا تھا (ماضی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«مجھے کام کرنا ہے چاہے مشکل اٹھانی پڑے» عزم اور مجبوری کا فصیح امتزاج ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"چھت\":",
+          "prompt": "جامع سمیکن میں 'ہونا' اور 'پڑنا' کا تقابل کیا ظاہر کرتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دفتر» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ساتھی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کام» کا غیر درست استعمال)"
+            "ارادے اور بیرونی حالات کے درمیان انسانی کشمکش اور عزم کا اظہار (Human struggle and resolve between intent and circumstance)",
+            "صرف وقت کا ضیاع",
+            "صرف پرانی یادیں",
+            "بے معنی الفاظ"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ ارادے اور حالات کے درمیان انسانی عزم و جدوجہد کو ظاہر کرتا ہے۔"
         }
       ]
     },
@@ -4517,17 +4566,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"چھت\": Which sentence is completely correct?",
+          "prompt": "مجبوری و عزم (Compulsion & Obligation Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ساتھی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کام» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دفتر» سے متعلق)"
+            "ہمیں اپنے وطن کی حفاظت کے لیے ہر قربانی دینی ہے، خواہ اس راہ میں ہمیں اپنے خون کا آخری قطرہ تک بہانا پڑے اور سخت ترین مصائب جھیلنے پڑیں۔ (We have to make every sacrifice [qurbaani deni hai] for the defense of our homeland, even if we have to shed our last drop of blood [bahaana paray] and bear the harshest hardships [jheelne parain].)",
+            "ہمیں حفاظت کرنا پڑا ہے اور خون بہا تھا۔",
+            "جامع سمیکن صرف کھانا کھانے کو کہتے ہیں۔",
+            "پڑنا اور ہونا ایک زبان میں نہیں بولے جاتے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہمیں اپنے وطن کی حفاظت کے لیے ہر قربانی دینی ہے، خواہ اس راہ میں ہمیں اپنے خون کا آخری قطرہ تک بہانا پڑے اور سخت ترین مصائب جھیلنے پڑیں۔» مجبوری و عزم کے جامع سمیکن کا شاہکار جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u11-l1": {
