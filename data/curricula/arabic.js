@@ -14870,85 +14870,89 @@
     "subject": "arabic",
     "unit": 25,
     "lessonNumber": 1,
-    "title": "روائع الأدب العربي الكلاسيكي (Classical Arabic Literature) (الدرس 1)",
+    "title": "شعر المعلقات الجاهلية والتصوير البياني (The Pre-Islamic Mu'allaqat & Poetic Imagery)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المعلقات الجاهلية، ديوان الحماسة، بلاغة القرآن الكريم، ومقامات الحريري والهمذاني. (الجزء 1).",
+    "objective": "إتقان بنية المعلقات الجاهلية، وأغراضها الشعرية الكبرى (الوقفة الطللية، الرحلة، الوصف الحسي، والفروسية)، وتحليل الأنساق البيانية عند كبار شعراء الجاهلية (امرئ القيس، طرفة، وزهير).",
     "presentation": {
-      "explanation": "",
+      "explanation": "تمثل المعلقات السبع ذروة الفصاحة اللسانية والبيان الشعري في تاريخ اللغة العربية، وقد عُلِّقَتْ على أستار الكعبة لنفاستها وعلوِّ شأنها:\n\nأولاً: الهيكلية الفنية للقصيدة الجاهلية المعلقة:\n1.【المَطْلَعُ الطَّلَلِيُّ (The Ruins Opening / Al-Waqfah Al-Talaliyyah)】:\n   - الوقوف على الديار الدارسة واستدعاء الذاكرة والوجدان:\n   - امرؤ القيس: «**قِفَا نَبْكِ مِنْ ذِكْرَى حَبِيبٍ وَمَنْزِلِ / بِسِقْطِ اللِّوَى بَيْنَ الدَّخُولِ فَحَوْمَلِ**».\n   - طرفة بن العبد: «**لِخَوْلَةَ أَطْلَالٌ بِبُرْقَةِ ثَهْمَدِ / تَلُوحُ كَبَاقِي الوَشْمِ فِي ظَاهِرِ اليَدِ**».\n2.【وَصْفُ الرِّحْلَةِ وَالنَّاقَةِ وَالفَرَسِ (Journey & Sensory Depiction)】:\n   - تصوير الطبيعة الصحراوية بحركتها العاصفة ودقة تفاصيلها:\n   - امرؤ القيس في وصف الليل: «**وَلَيْلٍ كَمَوْجِ البَحْرِ أَرْخَى سُدُولَهُ / عَلَيَّ بِأَنْوَاعِ الهُمُومِ لِيَبْتَلِي**».\n3.【شِعْرُ الحِكْمَةِ وَالسَّلَامِ (Wisdom & Moral Precepts)】:\n   - زهير بن أبي سلمى في الدعوة للسلم وذم الحرب:\n   - «**سَئِمْتُ تَكَالِيفَ الحَيَاةِ وَمَنْ يَعِشْ / ثَمَانِينَ حَوْلًا لَا أَبَا لَكَ يَسْأَمِ**».\n   - «**وَمَنْ يَجْعَلِ المَعْرُوفَ مِنْ دُونِ عِرْضِهِ / يَفِرْهُ وَمَنْ لَا يَتَّقِ الشَّتْمَ يُشْتَمِ**».\n\nثانياً: الخصائص البلاغية واللغوية لمعلقات الجاهلية:\n- جزالة اللفظ الفصيح، قوة الجرس الموسيقي في بحور الشعر (الطويل، البسيط، الكامل)، وغزارة التشبيهات التمثيلية المبتكرة.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)» بأسلوب أكاديمي دقيق (25.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)' to students in an accurate academic style."
+          "target": "قِفَا نَبْكِ مِنْ ذِكْرَى حَبِيبٍ وَمَنْزِلِ بِسِقْطِ اللِّوَى بَيْنَ الدَّخُولِ فَحَوْمَلِ.(Qifā nabki min dhikrā ḥabībin wa-manzili bi-siqṭi al-liwā bayna ad-dakhūli fa-ḥawmali.)",
+          "reading": "[qi.faː nab.ki min ðik.raː ħa.biː.bin wa.man.zi.li bi.siq.tˤi‿l.li.waː baj.na‿d.da.xuː.li fa.ħaw.ma.li] (Qi-fā nab-ki min dhik-rā ḥa-bī-bin wa-man-zi-li bi-siq-ṭi al-li-wā bay-na ad-da-khū-li fa-ḥaw-ma-li.)",
+          "translation": "Halt, let us weep at the remembrance of a beloved and an abode, at the dune's edge between Ad-Dakhul and Hawmal."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (25.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "وَلَيْلٍ كَمَوْجِ البَحْرِ أَرْخَى سُدُولَهُ عَلَيَّ بِأَنْوَاعِ الهُمُومِ لِيَبْتَلِي.(Wa-laylin ka-mawji al-baḥri arkhā sudūlahu ʿalayya bi-anwāʿi al-humūmi li-yabtalī.)",
+          "reading": "[wa.laj.lin ka.maw.ʒi‿l.baħ.ri ʔar.xaː su.duː.la.hu ʕa.laj.ja bi.ʔan.waː.ʕi‿l.hu.muː.mi li.jab.ta.liː] (Wa-lay-lin ka-maw-ji al-baḥ-ri ar-khā su-dū-la-hu ʿa-lay-ya bi-an-wā-ʿi al-hu-mū-mi li-yab-ta-lī.)",
+          "translation": "And many a night like the ocean wave has let down its curtains upon me with diverse anxieties to test me."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (25.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "سَئِمْتُ تَكَالِيفَ الحَيَاةِ وَمَنْ يَعِشْ ثَمَانِينَ حَوْلًا لَا أَبَا لَكَ يَسْأَمِ.(Saʾimtu takālīfa al-ḥayāti wa-man yaʿish thamānīna ḥawlan lā abā laka yasʾami.)",
+          "reading": "[sa.ʔim.tu ta.kaː.liː.fa‿l.ħa.jaː.ti wa.man ja.ʕiʃ θa.maː.niː.na ħaw.lan laː ʔa.baː la.ka jas.ʔa.mi] (Sa-ʾim-tu ta-kā-lī-fa al-ḥa-yā-ti wa-man ya-ʿish tha-mā-nī-na ḥaw-lan lā a-bā la-ka yas-ʾa-mi.)",
+          "translation": "I am weary of life's heavy burdens, and whoever lives eighty years, no father to you, grows weary."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (25.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "هَلْ غَادَرَ الشُّعَرَاءُ مِنْ مُتَرَدَّمِ أَمْ هَلْ عَرَفْتَ الدَّارَ بَعْدَ تَوَهُّمِ؟(Hal ghādara ash-shuʿarāʾu min mutaraddami am hal ʿarafta ad-dāra baʿda tawahhumi?)",
+          "reading": "[hal ɣaː.da.ra‿ʃ.ʃu.ʕa.raː.ʔu min mu.ta.rad.da.mi ʔam hal ʕa.raf.ta‿d.daː.ra baʕ.da ta.wah.hu.mi?] (Hal ghā-da-ra ash-shu-ʿa-rā-ʾu min mu-ta-rad-da-mi am hal ʿa-raf-ta ad-dā-ra baʿ-da ta-wah-hu-mi?)",
+          "translation": "Have the poets left any theme to be mended, or did you recognize the abode after long uncertainty?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "سَبْعُ مُعَلَّقَاتٍ تَعْلُو فَوْقَ الزَّمَانْ، لَفْظٌ جَزِيلٌ وَسِحْرٌ فِي البَيَانْ!"
+      ],
+      "culturalNotes": [
+        "سُمِّيَت المعلقات بهذا الاسم لأنها كُتبت بماء الذهب وعُلّقت على أستار الكعبة المشرفة في مكة المكرمة، أو لعلوقها في أذهان الرواة والعلماء لأصالتها البيانية الخالدة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)» (الدرس 1)؟",
+          "prompt": "ما هو الغرض البلاغي الكلاسيكي الذي تفتتح به معظم المعلقات الجاهلية (مثل «قفا نبك» و«لخولة أطلال»)؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)» بأسلوب أكاديمي دقيق (25.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (25.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (25.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (25.1.w3)"
+            "الوَقْفَةُ الطَّلَلِيَّةُ وَالبُكَاءُ عَلَى الدِّيَارِ الدَّارِسَةِ (The Ruins Opening / Al-Waqfah Al-Talaliyyah)",
+            "المديح السياسي المعاصر",
+            "الهجاء والسخرية",
+            "وصف المعارك الحديثة"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الوقفة الطللية هي التقليد الشعري الجاهلي الراسخ للوقوف على آثار ديار الأحبة واسترجاع الذكريات."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "من هو صاحب معلقة الحكمة الشهيرة القائل: «سَئِمْتُ تَكَالِيفَ الحَيَاةِ وَمَنْ يَعِشْ ثَمَانِينَ حَوْلًا لَا أَبَا لَكَ يَسْأَمِ»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "زُهَيْرُ بْنُ أَبِي سُلْمَى (Zuhayr ibn Abi Sulma)",
+            "امرؤ القيس",
+            "عنترة بن شداد",
+            "عمرو بن كلثوم"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الشاعر الحكيم هو زهير بن أبي سلمى، وكان يُلقب بشاعر الحوليات والترفع عن الخنا."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u25-l1):",
+          "prompt": "اختر البيت الشعري الذي يجسد التشبيه التمثيلي في تصوير الليل الموحش في معلقة امرئ القيس:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (25.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (25.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (25.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (25.1.x3)"
+            "وَلَيْلٍ كَمَوْجِ البَحْرِ أَرْخَى سُدُولَهُ عَلَيَّ بِأَنْوَاعِ الهُمُومِ لِيَبْتَلِي (And many a night like ocean wave let down its curtains...)",
+            "الليل مظلم جدا والنجوم بعيدة في السماء",
+            "نحن ننام في الليل ونستيقظ في الصباح",
+            "شعر ليل بحر هموم سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "هذا البيت الخالد يمثل قمة التشبيه التمثيلي حيث شبّه ظلام الليل وهجمات همومه بتلاطم أمواج البحر وستوره."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)»؟",
+          "prompt": "ما إعراب كلمة «ثَمَانِينَ» في قول زهير: «وَمَنْ يَعِشْ ثَمَانِينَ حَوْلًا»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (25.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (25.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (25.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (25.1.y3)"
+            "ظَرْفُ زَمَانٍ (مَفْعُولٌ فِيهِ) مَنْصُوبٌ بِاليَاءِ لِأَنَّهُ مُلْحَقٌ بِجَمْعِ المُذَكَّرِ السَّالِمِ (Time adverb in accusative with yaa)",
+            "فاعل مرفوع بالواو",
+            "مبتدأ مؤخر",
+            "مضاف إليه مجرور"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«ثَمَانِينَ» نائب ظرف زمان (مفعول فيه) منصوب بالياء لأنه ملحق بجمع المذكر السالم، و«حَوْلًا» تمييز منصوب."
         }
       ]
     },
@@ -14956,24 +14960,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 25-1)؟",
+          "prompt": "اختر النص الأدبي النقدي الشامل الذي يحلل روائع المعلقات الجاهلية بدقة بلاغية وتاريخية رفيعة المستوى:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (25.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (25.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (25.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (25.1.z3)"
+            "تُمَثِّلُ المُعَلَّقَاتُ الجَاهِلِيَّةُ النَّمُوذَجَ الأَسْمَى لِلْبَيَانِ الشِّعْرِيِّ العَرَبِيِّ؛ حَيْثُ اسْتَهَلَّ امْرُؤُ القَيْسِ مُعَلَّقَتَهُ بِالوَقْفَةِ الطَّلَلِيَّةِ الشَّجِيَّةِ، وَصَوَّرَ هَوْلَ اللَّيْلِ بِتَشْبِيهٍ تَمْثِيلِيٍّ بَاهِرٍ، بَيْنَمَا رَسَّخَ زُهَيْرُ بْنُ أَبِي سُلْمَى قِيَمَ الحِكْمَةِ وَالسَّلَامِ، لِتَظَلَّ هٰذِهِ القَصَائِدُ عِمَادَ الفَصَاحَةِ وَمَعِينَهَا الأَوَّلَ. (The pre-Islamic Mu'allaqat represent the supreme model of Arabic poetic eloquence; where Imru' al-Qays initiated his ode with poignant ruins motif, depicting night's terror with dazzling representational simile, while Zuhayr entrenched values of wisdom and peace, so these odes remain the pillar of eloquence and its primary fountainhead.)",
+            "المعلقات شعر قديم قيل في الصحراء وانتهى زمانه.",
+            "تحليل نقدي معلقات امرؤ القيس زهير حكمة بيان سكون فتحة ضمة.",
+            "ضاع الشعر الجاهلي ولم يصل منه شيء الى اليوم."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين: التحليل الهيكلي («الوَقْفَةُ الطَّلَلِيَّةُ»)، التذوق البلاغي («التَّشْبِيهُ التَّمْثِيلِيُّ»)، البعد الأخلاقي عند زهير («قِيَمُ الحِكْمَةِ وَالسَّلَامِ»)، والتأصيل اللغوي الفصيح."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u25-l1) باللغة العربية (مثال: «روائع»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم القصائد السبع الطوال الخالدة في العصر الجاهلي (اكتب: «المعلقات»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "روائع",
-            "روائع"
+            "المعلقات",
+            "المعلقات السبع",
+            "معلقات",
+            "المُعَلَّقَاتُ",
+            "المُعَلَّقَات"
           ],
-          "explanation": "المصطلح الصحيح هو «روائع»."
+          "explanation": "المصطلح الأدبي هو «المعلقات» (Al-Mu'allaqat)."
         }
       ],
       "passThreshold": 0.8
@@ -14984,85 +14991,89 @@
     "subject": "arabic",
     "unit": 25,
     "lessonNumber": 2,
-    "title": "روائع الأدب العربي الكلاسيكي (Classical Arabic Literature) (الدرس 2)",
+    "title": "حماسة المتنبي وفلسفة المعري في العصر العباسي (Al-Mutanabbi's Heroism & Al-Ma'arri's Philosophy)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المعلقات الجاهلية، ديوان الحماسة، بلاغة القرآن الكريم، ومقامات الحريري والهمذاني. (الجزء 2).",
+    "objective": "إتقان خصائص الشعر العباسي، وتحليل شعر الفخر والحماسة والحكمة عند أبي الطيب المتنبي، والتأمل الفلسفي والوجودي في لزوميات أبي العلاء المعري.",
     "presentation": {
-      "explanation": "",
+      "explanation": "شهد العصر العباسي نضج التجربة الشعرية وامتزاج الحكمة الفلسفية بالجزالة اللغوية:\n\nأولاً: أبو الطيب المتنبي (نادرة الفخر وعملاق الحكمة):\n1.【شِعْرُ الفَخْرِ وَالفُرُوسِيَّةِ】:\n   - اعتزاز صارم بالذات وسلطان الكلمة والسيف:\n   - «**الخَيْلُ وَاللَّيْلُ وَالبَيْدَاءُ تَعْرِفُنِي / وَالسَّيْفُ وَالرُّمْحُ وَالقِرْطَاسُ وَالقَلَمُ**».\n   - «**أَنَا الَّذِي نَظَرَ الأَعْمَى إِلَى أَدَبِي / وَأَسْمَعَتْ كَلِمَاتِي مَنْ بِهِ صَمَمُ**».\n2.【حِكْمَةُ الحَيَاةِ وَالمَجْدِ】:\n   - الإصرار على العظمة ومجالدة الصعاب:\n   - «**عَلَى قَدْرِ أَهْلِ العَزْمِ تَأْتِي العَزَائِمُ / وَتَأْتِي عَلَى قَدْرِ الكِرَامِ المَكَارِمُ**».\n   - «**إِذَا غَامَرْتَ فِي شَرَفٍ مَرُومِ / فَلَا تَقْنَعْ بِمَا دُونَ النُّجُومِ**».\n\nثانياً: أبو العلاء المعري (رهين المحبسين وفيلسوف الشعراء):\n1.【التَّأَمُّلُ الوُجُودِيُّ وَالزُّهْدُ الفَلْسَفِيُّ】:\n   - النظر العميق في تقلبات الوجود وطبائع البشر في ديوانه «سِقْطُ الزَّنْدِ» و«اللُّزُومِيَّاتِ»:\n   - «**تَعَبٌ كُلُّهَا الحَيَاةُ فَمَا أَعْـ / ـجَبُ إِلَّا مِنْ رَاغِبٍ فِي ازْدِيَادِ**».\n   - «**فَخَفِّفِ الوَطْءَ مَا أَظُنُّ أَدِيمَ الـ / ـأَرْضِ إِلَّا مِنْ هٰذِهِ الأَجْسَادِ**».\n\nثالثاً: المقارنة النقدية:\n- المتنبي شاعر العزيمة والوثوب والحماسة، بينما المعري فيلسوف الفكر والتأمل والمراجعة الإنسانية.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)» بأسلوب أكاديمي دقيق (25.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)' to students in an accurate academic style."
+          "target": "الخَيْلُ وَاللَّيْلُ وَالبَيْدَاءُ تَعْرِفُنِي وَالسَّيْفُ وَالرُّمْحُ وَالقِرْطَاسُ وَالقَلَمُ.(Al-khaylu wa-al-laylu wa-al-baydāʾu taʿrifunī wa-as-sayfu wa-ar-rumḥu wa-al-qirṭāsu wa-al-qalam.)",
+          "reading": "[ʔal.xaj.lu wal.laj.lu wal.baj.daː.ʔu taʕ.ri.fu.niː was.saj.fu war.rum.ħu wal.qir.tˤaː.su wal.qa.lam] (Al-khay-lu wa-al-lay-lu wa-al-bay-dā-ʾu taʿ-ri-fu-nī wa-as-say-fu wa-ar-rum-ḥu wa-al-qir-ṭā-su wa-al-qa-lam.)",
+          "translation": "The steed, the night, and the desert know me, as do the sword, the spear, the parchment, and the pen."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (25.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "عَلَى قَدْرِ أَهْلِ العَزْمِ تَأْتِي العَزَائِمُ وَتَأْتِي عَلَى قَدْرِ الكِرَامِ المَكَارِمُ.(ʿAlā qadri ahli al-ʿazmi taʾtī al-ʿazāʾimu wa-taʾtī ʿalā qadri al-kirāmi al-makārim.)",
+          "reading": "[ʕa.laː qad.ri ʔah.li‿l.ʕaz.mi taʔ.tiː‿l.ʕa.zaː.ʔi.mu wa.taʔ.tiː ʕa.laː qad.ri‿l.ki.raː.mi‿l.ma.kaː.rim] (ʿA-lā qad-ri ah-li al-ʿaz-mi taʾ-tī al-ʿa-zā-ʾi-mu wa-taʾ-tī ʿa-lā qad-ri al-ki-rā-mi al-ma-kā-rim.)",
+          "translation": "In proportion to the people of resolve do great resolves come, and according to the generous do noble deeds arrive."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (25.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "فَخَفِّفِ الوَطْءَ مَا أَظُنُّ أَدِيمَ الأَرْضِ إِلَّا مِنْ هٰذِهِ الأَجْسَادِ.(Fa-khaffifi al-waṭʾa mā aẓunnu adīma al-arḍi illā min hādhihi al-ajsād.)",
+          "reading": "[fa.xaf.fi.fi‿l.watˤ.ʔa maː ʔa.zˤun.nu ʔa.diː.ma‿l.ʔar.dˤi ʔil.laː min haː.ði.hi‿l.ʔaʒ.saːd] (Fa-khaf-fi-fi al-waṭ-ʾa mā a-ẓun-nu a-dī-ma al-ar-ḍi il-lā min hā-dhi-hi al-aj-sād.)",
+          "translation": "Tread lightly, for I do not think the surface of the earth is anything other than these departed bodies."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (25.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "إِذَا غَامَرْتَ فِي شَرَفٍ مَرُومِ فَلَا تَقْنَعْ بِمَا دُونَ النُّجُومِ.(Idhā ghāmarta fī sharafin marūmi fa-lā taqnaʿ bi-mā dūna an-nujūm.)",
+          "reading": "[ʔi.ðaː ɣaː.mar.ta fiː ʃa.ra.fin ma.ruː.mi fa.laː taq.naʕ bi.maː duː.na‿n.nu.ʒuːm] (I-dhā ghā-mar-ta fī sha-ra-fin ma-rū-mi fa-lā taq-naʿ bi-mā dū-na an-nu-jūm.)",
+          "translation": "If you venture into a sought-after noble quest, never content yourself with anything less than the stars."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مُتَنَبِّئٌ يَعْلُو بِسَيْفٍ وَقَلَمْ، وَالمَعَرِّي يَزِنُ الكَوْنَ بِحِكَمْ!"
+      ],
+      "culturalNotes": [
+        "شغل المتنبي («شَاغِلُ النَّاسِ وَمَالِئُ الدُّنْيَا») والمعري («رَهِينُ المَحْبَسَيْنِ») الحركة النقدية والفلسفية لقرون، وتُرجمت أشعارهما إلى جل لغات العالم كمعالم للحكمة الإنسانية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)» (الدرس 2)؟",
+          "prompt": "ما المعنى الفلسفي لقول أبي العلاء المعري: «فَخَفِّفِ الوَطْءَ مَا أَظُنُّ أَدِيمَ الأَرْضِ إِلَّا مِنْ هٰذِهِ الأَجْسَادِ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)» بأسلوب أكاديمي دقيق (25.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (25.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (25.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (25.2.w3)"
+            "الدَّعْوَةُ إِلَى التَّوَاضُعِ وَإِدْرَاكِ فَنَاءِ الإِنْسَانِ وَاحْتِرَامِ مَنْ مَضَوْا (Call to humility, realizing mortality & respecting past)",
+            "المشي حافياً في الطريق",
+            "الشكوى من ثقل الأحذية",
+            "طلب زيادة السرعة في السفر"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "المعري يتأمل في فناء الإنسان داعياً إلى التواضع وتخفيف الخطى فوق تراب يحوي أجساد الأجداد عبر التاريخ."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "من القائل: «أَنَا الَّذِي نَظَرَ الأَعْمَى إِلَى أَدَبِي / وَأَسْمَعَتْ كَلِمَاتِي مَنْ بِهِ صَمَمُ»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "أَبُو الطَّيِّبِ المُتَنَبِّي (Abu at-Tayyib al-Mutanabbi)",
+            "أبو العلاء المعري",
+            "أبو تمام",
+            "البحتري"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "البيت لأبي الطيب المتنبي في قصيدته الشهيرة في الفخر عند سيف الدولة الحمداني."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u25-l2):",
+          "prompt": "اختر البيت الذي يعبر عن الإصرار على العظمة وبلوغ أسمى الغايات عند المتنبي:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (25.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (25.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (25.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (25.2.x3)"
+            "إِذَا غَامَرْتَ فِي شَرَفٍ مَرُومِ فَلَا تَقْنَعْ بِمَا دُونَ النُّجُومِ (If you venture in noble quest, content not below stars)",
+            "نم باكرا واستيقظ باكرا ترى صحتك جيدة",
+            "القناعة كنز لا يفنى في كل وقت",
+            "شرف مروم نجوم سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "هذا البيت هو نشيد الطموح الإنساني الأسمى في ديوان المتنبي."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)»؟",
+          "prompt": "ما نوع الاستثناء في قول المعري: «مَا أَظُنُّ أَدِيمَ الأَرْضِ إِلَّا مِنْ هٰذِهِ الأَجْسَادِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (25.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (25.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (25.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (25.2.y3)"
+            "اسْتِثْنَاءٌ مُفَرَّغٌ (نَاقِصٌ مَنْفِيٌّ) يُعْرَبُ مَا بَعْدَهُ حَسَبَ مَوْقِعِهِ (Incomplete negative / Mufarragh)",
+            "استثناء تام مثبت",
+            "استثناء تام منفي بالبدلية",
+            "مفعول مطلق"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الاستثناء مفرغ؛ «مِنْ هٰذِهِ الأَجْسَادِ» شبه جملة في محل نصب خبر ثانٍ أو متعلق بالفعل «أظن»."
         }
       ]
     },
@@ -15070,24 +15081,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 25-2)؟",
+          "prompt": "اختر النص النقدي الذي يوازن بين عبقرية المتنبي الحماسية وفلسفة المعري التأملية بفصاحة استثنائية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (25.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (25.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (25.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (25.2.z3)"
+            "يُمَثِّلُ شِعْرُ المُتَنَبِّي قِمَّةَ الشَّجَاعَةِ وَالطُّمُوحِ الإِنْسَانِيِّ حَيْثُ جَعَلَ السَّيْفَ وَالقَلَمَ صِنْوَيْنِ فِي سَبِيلِ المَجْدِ؛ بَيْنَمَا يَنْعَطِفُ المَعَرِّيُّ نَحْوَ التَّأَمُّلِ الفَلْسَفِيِّ العَمِيقِ لِيَدْعُوَ إِلَى التَّوَاضُعِ فِي الحَيَاةِ، فَالْتَقَتِ الحَمَاسَةُ العَبَّاسِيَّةُ بِالفِكْرِ الوُجُودِيِّ الخَالِدِ. (Al-Mutanabbi's poetry represents the peak of courage and human ambition where he made the sword and pen twins in the path of glory; while Al-Ma'arri veers towards deep philosophical contemplation calling for humility in life, thus Abbasid heroism met timeless existential thought.)",
+            "المتنبي والمعري كانا شاعرين في العصر العباسي والسلام.",
+            "موازنة نقدية متنبي معري فروسية حكمة وجود سكون فتحة ضمة.",
+            "كره النقاد شعر المتنبي والمعري تماما."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجسد قمة النقد الأدبي الرفيع في الربط بين فخر المتنبي وحماسته («السَّيْفَ وَالقَلَمَ صِنْوَيْنِ»)، وتأمل المعري («التَّأَمُّلُ الفَلْسَفِيُّ العَمِيقُ»)."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u25-l2) باللغة العربية (مثال: «روائع»):",
+          "prompt": "اكتب باللغة العربية الفصحى لقب الشاعر أبي الطيب أحمد بن الحسين (اكتب: «المتنبي»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "روائع",
-            "روائع"
+            "المتنبي",
+            "المتنبى",
+            "أبو الطيب المتنبي",
+            "ابو الطيب المتنبي",
+            "المُتَنَبِّي",
+            "المُتَنَبِّي"
           ],
-          "explanation": "المصطلح الصحيح هو «روائع»."
+          "explanation": "اللقب هو «المتنبي»."
         }
       ],
       "passThreshold": 0.8
@@ -15098,85 +15113,89 @@
     "subject": "arabic",
     "unit": 25,
     "lessonNumber": 3,
-    "title": "روائع الأدب العربي الكلاسيكي (Classical Arabic Literature) (الدرس 3)",
+    "title": "فن المقامات: بديع الزمان الهمذاني والحريري (The Art of Maqamat: Al-Hamadhani & Al-Hariri)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المعلقات الجاهلية، ديوان الحماسة، بلاغة القرآن الكريم، ومقامات الحريري والهمذاني. (الجزء 3).",
+    "objective": "إتقان فن المقامات الأدبية المسجوعة، وتحليل شخصيات الراوي والبطل (عيسى بن هشام، أبو الفتح الإسكندري، الحريري)، والزخرفة البديعية (السجع، الجناس، والطباق).",
     "presentation": {
-      "explanation": "",
+      "explanation": "المقامة فن قصصي ونثري عربي عريق يجمع بين الحكاية الطريفة والبراعة البلاغية واللغوية المعجزة:\n\nأولاً: أركان المقامة وشخصياتها:\n1.【الرَّاوِي (The Narrator)】:\n   - عند الهمذاني: **عِيسَى بْنُ هِشَامٍ** («حَدَّثَنَا عِيسَى بْنُ هِشَامٍ قَالَ...»).\n   - عند الحريري: **الحَارِثُ بْنُ هَمَّامٍ**.\n2.【البَطَلُ المَكَّارُ / صَاحِبُ الكُدْيَةِ (The Hero / Wit)】:\n   - عند الهمذاني: **أَبُو الفَتْحِ الإِسْكَنْدَرِيُّ** (أديب فصيح يحتال للرزق بفصاحته).\n   - عند الحريري: **أَبُو زَيْدٍ السَّرُوجِيُّ**.\n\nثانياً: البلاغة النثرية في المقامات (Rhetorical Ornaments):\n- 【السَّجْعُ المُرَصَّعُ】: توافق الفواصل في الحرف الأخير مع توازن الإيقاع:\n  * من المقامة المقراضية: «**شَهْوَةٌ تَقْتَادُ، وَهِمَّةٌ تَعْتَادُ، وَلِسَانٌ يُجِيدُ، وَبَيَانٌ يُفِيدُ**».\n  * من المقامة البغدادية: «**حَدَّثَنَا عِيسَى بْنُ هِشَامٍ قَالَ: اشْتَهَيْتُ الأَزَاذَ وَأَنَا بِبَغْدَاذَ، وَلَيْسَ مَعِي عَقْدٌ عَلَى نَقْدٍ...**».\n- 【الجِنَاسُ وَالطِّبَاقُ】: التماثل اللفظي مع اختلاف المعنى والجمع بين الأضداد لتعميق الدلالة.\n\nثالثاً: المقصد الاجتماعي والنقدي:\n- نقد آفات المجتمع والجهل والتحايل، وإظهار سحر المعجم العربي واستدعاء شوارد اللغة وغرائبها.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)» بأسلوب أكاديمي دقيق (25.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)' to students in an accurate academic style."
+          "target": "حَدَّثَنَا عِيسَى بْنُ هِشَامٍ قَالَ: اشْتَهَيْتُ الأَزَاذَ وَأَنَا بِبَغْدَاذَ، وَلَيْسَ مَعِي عَقْدٌ عَلَى نَقْدٍ.(Ḥaddathanā ʿĪsā ibnu Hishāmin qāl: ishtahaytu al-azādha wa-anā bi-Baghdādh, wa-laysa maʿī ʿaqdun ʿalā naqd.)",
+          "reading": "[ħad.da.θa.naː ʕiː.saː‿b.nu hi.ʃaː.min qaːl: ʔiʃ.ta.haj.tu‿l.ʔa.zaː.ða wa.ʔa.naː bi.baɣ.daːð, wa.laj.sa ma.ʕiː ʕaq.dun ʕa.laː naqd] (Ḥad-da-tha-nā ʿĪ-sā ib-nu Hi-shā-min qāl: ish-ta-hay-tu al-a-zā-dha wa-a-nā bi-Bagh-dādh, wa-lay-sa ma-ʿī ʿaq-dun ʿa-lā naqd.)",
+          "translation": "Isa ibn Hisham recounted to us saying: I craved the Azadh dates while in Baghdad, yet I had not a knot tied upon any coin."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (25.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَنَا المَرْءُ الَّذِي حَلَبَ الدَّهْرَ أَشْطُرَهُ، وَعَرَفَ حُلْوَهُ وَمُرَّهُ، وَجَابَ شَرْقَهُ وَغَرْبَهُ.(Anā al-marʾu al-ladhī ḥalaba ad-dahra ashṭurah, wa-ʿarafa ḥulwahu wa-murrah, wa-jāba sharqahu wa-gharbah.)",
+          "reading": "[ʔa.naː‿l.mar.ʔu‿l.la.ðiː ħa.la.ba‿d.dah.ra ʔaʃ.tˤu.rah, wa.ʕa.ra.fa ħul.wa.hu wa.mur.rah, wa.ʒaː.ba ʃar.qa.hu wa.ɣar.bah] (A-nā al-mar-ʾu al-la-dhī ḥa-la-ba ad-dah-ra ash-ṭu-rah, wa-ʿa-ra-fa ḥul-wa-hu wa-mur-rah, wa-jā-ba shar-qa-hu wa-ghar-bah.)",
+          "translation": "I am the man who has milked all the teats of time, known its sweet and bitter, and roamed its east and west."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (25.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "فَانْثَنَى يُنْشِدُ وَيُفِيدُ، وَيَسْحَرُ العُقُولَ بِمَا يُبْدِي وَيُعِيدُ مِنَ البَيَانِ البَدِيعِ.(Fa-inthanā yunshidu wa-yufīd, wa-yasḥaru al-ʿuqūla bi-mā yubdī wa-yuʿīdu min al-bayāni al-badīʿ.)",
+          "reading": "[fan.θa.naː jun.ʃi.du wa.ju.fiːd, wa.jas.ħa.ru‿l.ʕu.quː.la bi.maː jub.diː wa.ju.ʕiː.du mi.na‿l.ba.jaː.ni‿l.ba.diːʕ] (Fa-in-tha-nā yun-shi-du wa-yu-fīd, wa-yas-ḥa-ru al-ʿu-qū-la bi-mā yub-dī wa-yu-ʿī-du min al-ba-yā-ni al-ba-dīʿ.)",
+          "translation": "Then he turned reciting and enlightening, captivating minds with what he produced and reprised of exquisite eloquence."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (25.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "فَأَلْفَيْتُهُ رَجُلًا لَبِقًا جَرِيئًا، يَسْتَدِرُّ الرِّزْقَ بِفَصَاحَةِ اللِّسَانِ وَسِحْرِ المَقَالِ.(Fa-alfaytuhu rajulan labiqan jarīʾā, yastadirru ar-rizqa bi-faṣāḥati al-lisāni wa-siḥri al-maqāl.)",
+          "reading": "[fa.ʔal.faj.tu.hu ra.ʒu.lan la.bi.qan ʒa.riː.ʔaː, jas.ta.dir.ru‿r.riz.qa bi.fa.sˤaː.ħa.ti‿l.li.saː.ni wa.siħ.ri‿l.ma.qaːl] (Fa-al-fay-tu-hu ra-ju-lan la-bi-qan ja-rī-ʾā, yas-ta-dir-ru ar-riz-qa bi-fa-ṣā-ḥa-ti al-li-sā-ni wa-siḥ-ri al-ma-qāl.)",
+          "translation": "So I found him a witty, audacious man, drawing forth livelihood through eloquence of tongue and enchantment of speech."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "عِيسَى بْنُ هِشَامٍ رَاوٍ فِي المَقَامْ، وَالسَّجْعُ يَسْرِي كَالنُّورِ فِي الظَّلَامْ!"
+      ],
+      "culturalNotes": [
+        "فن المقامات ألهم الأدب العالمي؛ ومنه استمدت الرواية الشطارية الإسبانية (Picaresque novel) أسلوب البطل الذكي المتجول الذي يعيش بالحيلة والبيان."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)» (الدرس 3)؟",
+          "prompt": "ما هو الاسم الكلاسيكي للراوي الشهير في مقامات بديع الزمان الهمذاني؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)» بأسلوب أكاديمي دقيق (25.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (25.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (25.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (25.3.w3)"
+            "عِيسَى بْنُ هِشَامٍ (Isa ibn Hisham)",
+            "أبو زيد السروجي",
+            "الحارث بن همام",
+            "أبو الفتح الإسكندري"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "عيسى بن هشام هو الراوي الثابت في مقامات بديع الزمان الهمذاني، بينما أبو الفتح الإسكندري هو البطل."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي الظاهرة البلاغية المسيطرة على أسلوب المقامات الأدبية؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "السَّجْعُ المُرَصَّعُ وَالجِنَاسُ وَالتَّلَاعُبُ البَدِيعِيُّ (Rhymed balanced prose, paronomasia & rhetoric)",
+            "الشعر الحر بدون قافية",
+            "العامية المبتذلة",
+            "الترجمة الحرفية"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "السجع المتوازن والجناس والبديع هي السمات الأسلوبية الفارقة لفن المقامات."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u25-l3):",
+          "prompt": "اختر العبارة المسجوعة التي تحاكي أسلوب المقامة البغدادية في الفصاحة والترصيع اللفظي:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (25.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (25.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (25.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (25.3.x3)"
+            "«اشْتَهَيْتُ الأَزَاذَ وَأَنَا بِبَغْدَاذَ، وَلَيْسَ مَعِي عَقْدٌ عَلَى نَقْدٍ». (I craved Azadh dates while in Baghdad, without a knot on coin)",
+            "كنت جائعا في بغداد واشتريت تمرا واكلته",
+            "التمر حلو جدا في سوق الفواكه",
+            "ازاذ بغداذ سجع مقامات سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "هذه العبارة هي مطلع «المقامة البغدادية» الشهيرة التي تظهر روعة السجع والجناس بين «الأَزَاذ» و«بَغْدَاذ»."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)»؟",
+          "prompt": "ما معنى «الكُدْيَةُ» في المعجم الأدبي للمقامات؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (25.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (25.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (25.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (25.3.y3)"
+            "احْتِيَالُ الأَدِيبِ الفَصِيحِ لِطَلَبِ الرِّزْقِ وَالمَالِ بِبَلَاغَتِهِ وَحِيلَتِهِ (Begging / wits by rhetorical trickery)",
+            "بناء الجدران والقصور",
+            "حفر الآبار في البادية",
+            "التجارة بالأقمشة والحرير"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الكُدْيَة هي فن التكسب والاسترزاق بالحيلة والبيان والفصاحة الأدبية."
         }
       ]
     },
@@ -15184,24 +15203,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 25-3)؟",
+          "prompt": "اختر النص النقدي الذي يشرح البنية الفنية لمقامات بديع الزمان والحريري بأعلى مستويات الجزالة البلاغية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (25.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (25.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (25.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (25.3.z3)"
+            "تُمَثِّلُ المَقَامَةُ ذِرْوَةَ الإِبْدَاعِ النَّثْرِيِّ فِي التُّرَاثِ العَرَبِيِّ؛ حَيْثُ نَسَجَ الهَمَذَانِيُّ وَالحَرِيرِيُّ حِبْكَةً قَصَصِيَّةً تَقُومُ عَلَى ثُنَائِيَّةِ الرَّاوِي وَالبَطَلِ الكَدَّاءِ، مَكْسُوَّةً بِأَرْقَى أَنْوَاعِ السَّجْعِ المُرَصَّعِ وَالجِنَاسِ البَدِيعِ، لِتَكُونَ مَعْرِضًا لِفَرَائِدِ اللُّغَةِ وَمِرْآةً لِنَقْدِ المُجْتَمَعِ. (The Maqama represents the summit of prose creativity in Arabic heritage; where Al-Hamadhani and Al-Hariri wove a narrative plot based on the duality of narrator and witty hero, draped in finest balanced rhymed prose and exquisite paronomasia, to serve as a showcase for linguistic rarities and a mirror for social critique.)",
+            "المقامات قصص قصيرة مسجوعة كتبها مؤلفون قدماء.",
+            "مقامات بديع الزمان الحريري سجع جناس راوي بطل سكون فتحة ضمة.",
+            "اندثر فن المقامات ولم يعد يقرأه احد."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يحيط بكافة العناصر النقدية: البنية السردية (الراوي والبطل)، النسيج البلاغي (السجع والجناس)، والوظيفة المعجمية والاجتماعية."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u25-l3) باللغة العربية (مثال: «روائع»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم رائد فن المقامات ومبتكره الأول (اكتب: «بديع الزمان الهمذاني» أو «الهمذاني»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "روائع",
-            "روائع"
+            "بديع الزمان الهمذاني",
+            "بديع الزمان الهمذانى",
+            "الهمذاني",
+            "الهمذانى",
+            "بَدِيعُ الزَّمَانِ الهَمَذَانِيُّ",
+            "بَدِيع الزَّمَان الهَمَذَانِي"
           ],
-          "explanation": "المصطلح الصحيح هو «روائع»."
+          "explanation": "رائد فن المقامات هو «بديع الزمان الهمذاني»."
         }
       ],
       "passThreshold": 0.8
@@ -15212,85 +15235,89 @@
     "subject": "arabic",
     "unit": 25,
     "lessonNumber": 4,
-    "title": "روائع الأدب العربي الكلاسيكي (Classical Arabic Literature) (الدرس 4)",
+    "title": "روائع النثر الكلاسيكي: الجاحظ وابن المقفع والتوحيدي (Classical Prose: Al-Jahiz, Ibn Al-Muqaffa & Al-Tawhidi)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المعلقات الجاهلية، ديوان الحماسة، بلاغة القرآن الكريم، ومقامات الحريري والهمذاني. (الجزء 4).",
+    "objective": "إتقان خصائص النثر العربي الكلاسيكي، وأسلوب الاستطراد والبيان عند الجاحظ (البيان والتبيين والحيوان)، وأدب الحكمة والرمز عند ابن المقفع (كليلة ودمنة)، والنثر الفلسفي عند التوحيدي (الإمتاع والمؤانسة).",
     "presentation": {
-      "explanation": "",
+      "explanation": "بلغ النثر العربي في القرنين الثاني والرابع الهجريين مرتبة الإعجاز الأسلوبي والعمق الفكري عبر ثلاثة من أئمة البيان:\n\nأولاً: أبو عثمان عمرو بن بحر الجاحظ (شيخ البيان العربي):\n1.【الِاسْتِطْرَادُ الجَاحِظِيُّ (Al-Jahizian Digression)】:\n   - الانتقال السلس والممتع بين الجد والهزل، واللغة والعلم، لطرد الملل عن القارئ.\n2.【مُؤَلَّفَاتُهُ الكُبْرَى】:\n   - «**البَيَانُ وَالتَّبْيِينُ**»: إرساء قواعد البلاغة العربية ونقد الخطابة.\n   - «**كِتَابُ الحَيَوَانِ**» و«**البُخَلَاءُ**»: التحليل النفسي والاجتماعي بلسان فصيح ساخر.\n   - قال الجاحظ: «**وَالمَعَانِي مَطْرُوحَةٌ فِي الطَّرِيقِ يَعْرِفُهَا العَجَمِيُّ وَالعَرَبِيُّ، وَإِنَّمَا الشَّأْنُ فِي إِقَامَةِ الوَزْنِ وَتَخَيُّرِ اللَّفْظِ وَسُهُولَةِ المَخْرَجِ وَصِحَّةِ الطَّبْعِ وَجَوْدَةِ السَّبْكِ**».\n\nثانياً: عبد الله بن المقفع (رائد الحكمة والأدب المترجم الأصيل):\n- «**كَلِيلَةٌ وَدِمْنَةُ**»: أدب الرمز على ألسنة الحيوان لنصح الملوك وإصلاح السياسة.\n- «**الأَدَبُ الكَبِيرُ وَالأَدَبُ الصَّغِيرُ**»: دستور الأخلاق والتهذيب السلوكي والسياسي.\n\nثالثاً: أبو حيان التوحيدي (فيلسوف الأدباء وأديب الفلاسفة):\n- «**الإِمْتَاعُ وَالمُؤَانَسَةُ**»: نتاج ليالي المطارحة الفكرية في مجالس الوزارة البويهية، يجمع بين الفلسفة والنقد وعلم النفس البشري.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)» بأسلوب أكاديمي دقيق (25.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)' to students in an accurate academic style."
+          "target": "المَعَانِي مَطْرُوحَةٌ فِي الطَّرِيقِ، وَإِنَّمَا الشَّأْنُ فِي تَخَيُّرِ اللَّفْظِ وَجَوْدَةِ السَّبْكِ وَصِحَّةِ الطَّبْعِ.(Al-maʿānī maṭrūḥatun fī aṭ-ṭarīq, wa-innamā ash-shaʾnu fī takhayyuri al-lafẓi wa-jawdati as-sabki wa-ṣiḥḥati aṭ-ṭabʿ.)",
+          "reading": "[ʔal.ma.ʕaː.niː matˤ.ruː.ħa.tun fitˤ.tˤa.riːq, wa.ʔin.na.maː‿ʃ.ʃaʔ.nu fiː ta.xaj.ju.ri‿l.laf.zˤi wa.ʒaw.da.ti‿s.sab.ki wa.sˤiħ.ħa.ti‿tˤ.tˤabʕ] (Al-ma-ʿā-nī maṭ-rū-ḥa-tun fī aṭ-ṭa-rīq, wa-in-na-mā ash-shaʾ-nu fī ta-khay-yu-ri al-laf-ẓi wa-jaw-da-ti as-sab-ki wa-ṣiḥ-ḥa-ti aṭ-ṭabʿ.)",
+          "translation": "Meanings are cast along the road, but the whole affair lies in selecting the phrase, excellence of phrasing, and sound disposition."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (25.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "قَالَ دَبْشَلِيمُ المَلِكُ لِبَيْدَبَا الفَيْلَسُوفِ: اضْرِبْ لِي مَثَلَ الرَّجُلَيْنِ المُتَحَابَّيْنِ يَقْطَعُ بَيْنَهُمَا الكَذُوبُ.(Qāla Dabshalīmu al-maliku li-Baydabā al-faylasūf: iḍrib lī mathala ar-rajulayni al-mutaḥābbayni yaqṭaʿu baynahumā al-kadhūb.)",
+          "reading": "[qaː.la dab.ʃa.liː.mu‿l.ma.li.ku li.baj.da.baː‿l.faj.la.suːf: ʔidˤ.rib liː ma.θa.la‿r.ra.ʒu.laj.ni‿l.mu.ta.ħaːb.baj.ni yaq.tˤa.ʕu baj.na.hu.maː‿l.ka.ðuːb] (Qā-la Dab-sha-lī-mu al-ma-li-ku li-Bay-da-bā al-fay-la-sūf: iḍ-rib lī ma-tha-la ar-ra-ju-lay-ni al-mu-ta-ḥāb-bay-ni yaq-ṭa-ʿu bay-na-hu-mā al-ka-dhūb.)",
+          "translation": "King Dabshalim said to Bidpai the philosopher: Strike for me the parable of two loving friends severed by a liar."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (25.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "الأَدَبُ عَقْلُ غَيْرِكَ تَزِيدُهُ إِلَى عَقْلِكَ، وَعِلْمٌ تَسْتَفِيدُهُ مِمَّنْ خَبَرَ الزَّمَانَ قَبْلَكَ.(Al-adabu ʿaqlu ghayrika tazīduhu ilā ʿaqlik, wa-ʿilmun tastafīduhu mimman khabara az-zamāna qablak.)",
+          "reading": "[ʔal.ʔa.da.bu ʕaq.lu ɣaj.ri.ka ta.ziː.du.hu ʔi.laː ʕaq.lik, wa.ʕil.mun tas.ta.fiː.du.hu mim.man xa.ba.ra‿z.za.maː.na qab.lak] (Al-a-da-bu ʿaq-lu ghay-ri-ka ta-zī-du-hu i-lā ʿaq-lik, wa-ʿil-mun tas-ta-fī-du-hu mim-man kha-ba-ra az-za-mā-na qab-lak.)",
+          "translation": "Literature is another's intellect that you add to your own, and knowledge you benefit from those who experienced time before you."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (25.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "كَانَتْ لَيَالِي الإِمْتَاعِ وَالمُؤَانَسَةِ مَجْلِسًا لِتَلَاقِي الفِكْرِ الفَلْسَفِيِّ بِالبَيَانِ الأَدَبِيِّ السَّاحِرِ.(Kānat layālī al-imtāʿi wa-al-muʾānasati majlisan li-talāqī al-fikri al-falsafiyyi bi-al-bayāni al-adabiyyi as-sāḥir.)",
+          "reading": "[kaː.nat la.jaː.liː‿l.ʔim.taː.ʕi wal.mu.ʔaː.na.sa.ti maʒ.li.san li.ta.laː.qiː‿l.fik.ri‿l.fal.sa.fij.ji bil.ba.jaː.ni‿l.ʔa.da.bij.ji‿s.saː.ħir] (Kā-nat la-yā-lī al-im-tā-ʿi wa-al-mu-ʾā-na-sa-ti maj-li-san li-ta-lā-qī al-fik-ri al-fal-sa-fiy-yi bi-al-ba-yā-ni al-a-da-biy-yi as-sā-ḥir.)",
+          "translation": "The nights of 'Enjoyment and Conviviality' were a forum for the confluence of philosophical thought with magical literary eloquence."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جَاحِظٌ فِي البَيَانِ، وَابْنُ المُقَفَّعِ فِي الحِكْمَةِ، وَالتَّوْحِيدِيُّ فِي الفَلْسَفَةِ وَالمَعْرِفَةِ!"
+      ],
+      "culturalNotes": [
+        "نظرية الجاحظ النقدية في أن «المعاني مطروحة في الطريق وإنما الشأن في اللفظ وجودة السبك» أرست أحد أهم المذاهب الجمالية في تاريخ النقد الأدبي العالمي."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)» (الدرس 4)؟",
+          "prompt": "ما هي الميزة الأسلوبية الشهيرة التي عُرف بها نثر الجاحظ في مؤلفاته كـ «الحيوان» و«البيان والتبيين»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)» بأسلوب أكاديمي دقيق (25.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (25.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (25.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (25.4.w3)"
+            "الِاسْتِطْرَادُ الأَدَبِيُّ الذَّكِيُّ لِطَرْدِ المَلَلِ وَتَنْوِيعِ المَعَارِفِ (Al-Jahizian witty digression)",
+            "الاختصار الشديد في سطر واحد",
+            "الكتابة بلغة أجنبية",
+            "تكرار الكلمات دون معنى"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الاستطراد الجاحظي أسلوب رائد ينقل القارئ بلطافة بين فنون المعرفة ونوادر الأخبار."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "من هو مؤلف كتاب «كَلِيلَةٌ وَدِمْنَةُ» الذي صاغ الحكمة السياسية على ألسنة الحيوانات والطيور؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "عَبْدُ اللهِ بْنُ المُقَفَّعِ (Abdullah ibn al-Muqaffa)",
+            "أبو حيان التوحيدي",
+            "الجاحظ",
+            "ابن خلدون"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "ابن المقفع هو الذي نقل وصاغ «كليلة ودمنة» بأسلوب عربي بليغ أصبح نموذجاً للنثر الحكمي."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u25-l4):",
+          "prompt": "اختر المقولة النقدية التأسيسية التي قالها الجاحظ حول قيمة الصياغة الأدبية وجودة السبك:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (25.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (25.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (25.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (25.4.x3)"
+            "«المَعَانِي مَطْرُوحَةٌ فِي الطَّرِيقِ... وَإِنَّمَا الشَّأْنُ فِي تَخَيُّرِ اللَّفْظِ وَجَوْدَةِ السَّبْكِ». ('Meanings are cast in the road... the affair lies in wording & phrasing.')",
+            "المعاني صعبة جدا ولا يعرفها الا الشعراء الكبار",
+            "لا تهتم بالالفاظ واكتب اي شيء يخطر ببالك",
+            "جاحظ معاني الفاظ سبك سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "هذه هي القاعدة الذهبية للجاحظ التي تبين أن بلاغة الأديب تكمن في انتقاء الألفاظ وإحكام النظم."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)»؟",
+          "prompt": "ما هو الكتاب الشهير لأبي حيان التوحيدي الذي سجل فيه مداولاته الفلسفية والأدبية في ليالي الوزير ابن سعدان؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (25.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (25.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (25.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (25.4.y3)"
+            "الإِمْتَاعُ وَالمُؤَانَسَةُ (The Book of Enjoyment & Conviviality)",
+            "كتاب البخلاء",
+            "مقدمة ابن خلدون",
+            "لسان العرب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "كتاب «الإمتاع والمؤانسة» هو تحفة التوحيدي الخالدة في النثر الفلسفي والأدبي."
         }
       ]
     },
@@ -15298,24 +15325,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 25-4)؟",
+          "prompt": "اختر النص النقدي الذي يدمج إسهامات رواد النثر الكلاسيكي (الجاحظ، ابن المقفع، والتوحيدي) في صياغة العقل الأدبي العربي:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (25.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (25.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (25.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (25.4.z3)"
+            "أَرْسَى رُوَّادُ النَّثْرِ الكَلَاسِيكِيِّ أَعْمِدَةَ الثَّقَافَةِ العَرَبِيَّةِ؛ حَيْثُ جَمَعَ الجَاحِظُ بَيْنَ اسْتِطْرَادِ البَيَانِ وَدِقَّةِ النَّقْدِ، وَصَاغَ ابْنُ المُقَفَّعِ رَوَائِعَ الحِكْمَةِ وَالسِّيَاسَةِ الرَّمْزِيَّةِ فِي كَلِيلَةَ وَدِمْنَةَ، بَيْنَمَا بَلَغَ التَّوْحِيدِيُّ قِمَّةَ النَّثْرِ الفَلْسَفِيِّ فِي الإِمْتَاعِ وَالمُؤَانَسَةِ، لِيَغْدُوَ النَّثْرُ العَرَبِيُّ مَوْئِلًا لِلْفِكْرِ وَالجَمَالِ. (The pioneers of classical prose established pillars of Arabic culture; where Al-Jahiz combined rhetorical digression with critical precision, and Ibn al-Muqaffa drafted masterpieces of wisdom and symbolic politics in Kalila wa Dimna, while Al-Tawhidi reached the summit of philosophical prose in Al-Imta' wa-al-Mu'anasa, so Arabic prose became a sanctuary for thought and beauty.)",
+            "النثر العربي كان كتبا كثيرة في المكتبة فقط.",
+            "نثر كلاسيكي جاحظ ابن المقفع توحيدي بيان حكمة فلسفة سكون فتحة ضمة.",
+            "احترقت كتب النثر ولم يبق منها اثر."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بدقة وموسوعية بين: استطراد الجاحظ، رمزية ابن المقفع، وفلسفة التوحيدي، بأسلوب نقدي فصيح."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u25-l4) باللغة العربية (مثال: «روائع»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم كتاب الجاحظ الخالد في البلاغة والخطابة ونقد الكلام (اكتب: «البيان والتبيين»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "روائع",
-            "روائع"
+            "البيان والتبيين",
+            "البيان والتبيين",
+            "كتاب البيان والتبيين",
+            "البَيَانُ وَالتَّبْيِينُ",
+            "البَيَان وَالتَّبْيِين"
           ],
-          "explanation": "المصطلح الصحيح هو «روائع»."
+          "explanation": "الكتاب هو «البيان والتبيين» للجاحظ."
         }
       ],
       "passThreshold": 0.8
@@ -15326,85 +15356,89 @@
     "subject": "arabic",
     "unit": 25,
     "lessonNumber": 5,
-    "title": "روائع الأدب العربي الكلاسيكي (Classical Arabic Literature) (الدرس 5)",
+    "title": "حوار الندوة التراثية والتحليل النقدي الشامل لروائع الأدب (Classical Literary Colloquium & Critical Synthesis Dialogue)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المعلقات الجاهلية، ديوان الحماسة، بلاغة القرآن الكريم، ومقامات الحريري والهمذاني. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة الخامسة والعشرين: شعر المعلقات، حماسة المتنبي، فلسفة المعري، مقامات الهمذاني والحريري، ونثر الجاحظ والتوحيدي في حوار ندوة نقدية تراثية رفيعة المستوى.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة الخامسة والعشرين (مستوى C1 المتقدم) من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس، ندمج كل معارف الأدب العربي الكلاسيكي في ندوة نقدية ومطارحة أدبية رفيعة المستوى تدور بين الناقد الأدبي (د. أسامة) والباحثة التراثية (د. فاطمة) لاستكشاف عبقرية البيان العربي عبر العصور:\n\nمحاور النص الأدبي الشامل:\n1.【شعر الجاهلية والمعلقات】: «الوَقْفَةُ الطَّلَلِيَّةُ»، «امْرُؤُ القَيْسِ»، «زُهَيْرُ بْنُ أَبِي سُلْمَى».\n2.【شعر العصر العباسي】: «حَمَاسَةُ المُتَنَبِّي»، «سَيْفٌ وَقَلَمٌ»، «فَلْسَفَةُ المَعَرِّيِّ الوُجُودِيَّةُ».\n3.【فن المقامات البديعية】: «عِيسَى بْنُ هِشَامٍ»، «أَبُو الفَتْحِ الإِسْكَنْدَرِيُّ»، «السَّجْعُ المُرَصَّعُ».\n4.【روائع النثر الموسوعي】: «اسْتِطْرَادُ الجَاحِظِ»، «حِكْمَةُ ابْنِ المُقَفَّعِ»، «إِمْتَاعُ التَّوْحِيدِيِّ وَمُؤَانَسَتُهُ».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)» بأسلوب أكاديمي دقيق (25.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)' to students in an accurate academic style."
+          "target": "مَرْحَبًا دُكْتُورَة فَاطِمَة، كَيْفَ نُفَسِّرُ خُلُودَ المُعَلَّقَاتِ الجَاهِلِيَّةِ فِي ذَائِقَتِنَا الأَدَبِيَّةِ المُعَاصِرَةِ؟(Marḥaban duktūrah Fāṭimah, kayfa nufassiru khulūda al-muʿallaqāti al-jāhiliyyati fī dhāʾiqatinā al-adabiyyati al-muʿāṣirah?)",
+          "reading": "[mar.ħa.ban duk.tuː.rah faː.tˤi.mah, kaj.fa nu.fas.si.ru xu.luː.da‿l.mu.ʕal.la.qaː.ti‿l.ʒaː.hi.lij.ja.ti fiː ðaː.ʔi.qa.ti.naː‿l.ʔa.da.bij.ja.ti‿l.mu.ʕaː.sˤi.rah?] (Mar-ḥa-ban duk-tū-rah Fā-ṭi-mah, kay-fa nu-fas-si-ru khu-lū-da al-mu-ʿal-la-qā-ti al-jā-hi-liy-ya-ti fī dhā-ʾi-qa-ti-nā al-a-da-biy-ya-ti al-mu-ʿā-ṣi-rah?)",
+          "translation": "Welcome Dr. Fatima, how do we explain the immortality of the pre-Islamic Mu'allaqat in our contemporary literary taste?"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (25.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَهْلًا دُكْتُور أُسَامَة؛ إِنَّ جَزَالَةَ اللَّفْظِ وَصِدْقَ التَّصْوِيرِ الطَّلَلِيِّ جَعَلَا هٰذِهِ القَصَائِدَ عِمَادَ البَيَانِ العَرَبِيِّ.(Ahlan duktūr Usāmah; inna jazālata al-lafẓi wa-ṣidqa at-taṣwīri aṭ-ṭalaliyyi jaʿalā hādhihi al-qaṣāʾida ʿimāda al-bayāni al-ʿarabiyy.)",
+          "reading": "[ʔah.lan duk.tuːr ʔu.saː.mah; ʔin.na ʒa.zaː.la.ta‿l.laf.zˤi wa.sˤid.qa‿t.tasˤ.wiː.ri‿tˤ.tˤa.la.lij.ji ʒa.ʕa.laː haː.ði.hi‿l.qa.sˤaː.ʔi.da ʕi.maː.da‿l.ba.jaː.ni‿l.ʕa.ra.bijj] (Ah-lan duk-tūr U-sā-mah; in-na ja-zā-la-ta al-laf-ẓi wa-ṣid-qa at-taṣ-wī-ri aṭ-ṭa-la-liy-yi ja-ʿa-lā hā-dhi-hi al-qa-ṣā-ʾi-da ʿi-mā-da al-ba-yā-ni al-ʿa-ra-biyy.)",
+          "translation": "Hello Dr. Osama; indeed the solidity of diction and truth of ruins depiction made these odes the pillar of Arabic eloquence."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (25.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "ثُمَّ تَجَلَّتْ عَبْقَرِيَّةُ النَّثْرِ عِنْدَ الجَاحِظِ فِي اسْتِطْرَادِهِ، وَفِي مَقَامَاتِ الهَمَذَانِيِّ بِسَجْعِهَا المُرَصَّعِ البَدِيعِ.(Thumma tajallat ʿabqariyyatu an-nathri ʿinda al-Jāḥiẓi fī istiṭrādihi, wa-fī maqāmāti al-Hamadhāniyyi bi-sajʿihā al-muraṣṣaʿi al-badīʿ.)",
+          "reading": "[θum.ma ta.ʒal.lat ʕab.qa.rij.ja.tu‿n.naθ.ri ʕin.da‿l.ʒaː.ħi.zˤi fiː‿s.titˤ.raː.di.hi, wa.fiː ma.qaː.maː.ti‿l.ha.ma.ðaː.nij.ji bi.saʒ.ʕi.haː‿l.mu.rasˤ.sˤa.ʕi‿l.ba.diːʕ] (Thum-ma ta-jal-lat ʿab-qa-riy-ya-tu an-nath-ri ʿin-da al-Jā-ḥi-ẓi fī is-tiṭ-rā-di-hi, wa-fī ma-qā-mā-ti al-Ha-ma-dhā-niy-yi bi-saj-ʿi-hā al-mu-raṣ-ṣa-ʿi al-ba-dīʿ.)",
+          "translation": "Then the genius of prose manifested with Al-Jahiz in his digression, and in Al-Hamadhani's Maqamat with their balanced rhymed prose."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (25.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "وَتَوَازَنَ فَتْكُ سَيْفِ المُتَنَبِّي وَشَاعِرِيَّتُهُ الحَمَاسِيَّةُ مَعَ حِكْمَةِ المَعَرِّيِّ وَتَأَمُّلِهِ الفَلْسَفِيِّ فِي الوُجُودِ.(Wa-tawāzana fatku sayfi al-Mutanabbī wa-shāʿiriyyatuhu al-ḥamāsiyyatu maʿa ḥikmati al-Maʿarriyyi wa-taʾammulihi al-falsafiyyi fī al-wujūd.)",
+          "reading": "[wa.ta.waː.za.na fat.ku saj.fi‿l.mu.ta.nab.biː wa.ʃaː.ʕi.rij.ja.tu.hu‿l.ħa.maː.sij.ja.tu ma.ʕa ħik.ma.ti‿l.ma.ʕar.rij.ji wa.ta.ʔam.mu.li.hi‿l.fal.sa.fij.ji fiː‿l.wu.ʒuːd] (Wa-ta-wā-za-na fat-ku say-fi al-Mu-ta-nab-bī wa-shā-ʿi-riy-ya-tu-hu al-ḥa-mā-siy-ya-tu ma-ʿa ḥik-ma-ti al-Ma-ʿar-riy-yi wa-ta-ʾam-mu-li-hi al-fal-sa-fiy-yi fī al-wu-jūd.)",
+          "translation": "And the strike of Al-Mutanabbi's sword and heroic poetics balanced with Al-Ma'arri's wisdom and philosophical contemplation of existence."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فِي مَجْلِسِ النَّقْدِ تَجَلَّى التُّرَاثُ بَهِيَّا، شِعْرٌ وَنَثْرٌ يَفِيضُ سِحْرًا جَلِيَّا!"
+      ],
+      "culturalNotes": [
+        "المجالس النقدية والمطارحات الأدبية في العواصم الثقافية العربية الكبرى تُمثل جسراً حياً يربط عيون التراث الكلاسيكي برؤى الحداثة النقدية المعاصرة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)» (الدرس 5)؟",
+          "prompt": "في ندوة التحليل النقدي، كيف تتكامل تجربة المتنبي الحماسية مع تجربة المعري الفلسفية؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)» بأسلوب أكاديمي دقيق (25.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (25.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (25.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (25.5.w3)"
+            "تُمَثِّلُ الأُولَى شِعْرَ الفَخْرِ وَالوُثُوبِ وَالفُرُوسِيَّةِ، بَيْنَمَا تُمَثِّلُ الثَّانِيَةُ التَّأَمُّلَ الوُجُودِيَّ وَالحِكْمَةَ الزَّاهِدَةَ (First is heroic ambition, second is existential contemplation)",
+            "كلاهما كتبا قصص أطفال فقط",
+            "لا يوجد أي تشابه أو تكامل بينهما",
+            "كلاهما ترجم نصوصا عامية"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "المتنبي يجسد روح الإقدام والفخر الإنساني بالهمة والسيف، والمعري يمثل عقلانية التأمل في سر الوجود والمصير."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما الذي يجمع بين نثر الجاحظ وفن مقامات الهمذاني في التراث العربي؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "قُوَّةُ البَيَانِ، وَسِحْرُ اللَّفْظِ، وَتَوْظِيفُ الأَدَبِ فِي نَقْدِ الحَيَاةِ وَالمُجْتَمَعِ (Strength of eloquence, magic of diction & social critique)",
+            "الركاكة والضعف اللغوي",
+            "استخدام اللهجات غير الفصيحة",
+            "غياب أي معنى أدبي"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "كلاهما من أعلام النثر الفني الرفيع اللذين ارتقيا باللغة العربية إلى قمة الجمال التعبيري والنقد الاجتماعي."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u25-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تصف روعة البيان في المقامات الشعرية والنثرية بتكامل فصيح:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (25.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (25.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (25.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (25.5.x3)"
+            "— كَيْفَ بَدَا لَكِ سَجْعُ المَقَامَاتِ؟ — بَدَا كَالعِقْدِ المَنْظُومِ حَيْثُ تَلَاقَتْ فَرَائِدُ اللُّغَةِ مَعَ سِحْرِ الحِكَايَةِ. (— How did Maqamat rhymed prose seem to you? — It seemed like an organized necklace where linguistic gems met narrative charm.)",
+            "— كيف المقامات؟ — جيدة وقرأتها امس.",
+            "— كم ثمن ديوان المتنبي؟ — لا اعلم سعره.",
+            "— حوار مقامات سجع نظم لغة سكون."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة تشبه السجع المرصع بالعقد المنظوم حيث تجتمع فرائد المعجم وسحر السرد القصصي."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «روائع الأدب العربي الكلاسيكي (Classical Arabic Literature)»؟",
+          "prompt": "ما إعراب كلمة «بَهِيًّا» في قولنا: «تَجَلَّى التُّرَاثُ بَهِيًّا»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (25.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (25.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (25.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (25.5.y3)"
+            "حَالٌ مَنْصُوبَةٌ بِالفَتْحَةِ الظَّاهِرَةِ (Haal in accusative case)",
+            "مفعول به منصوب",
+            "تمييز منصوب",
+            "نعت مرفوع"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«بَهِيًّا» حال منصوبة بالفتحة تبين هيئة التراث عند تجليه."
         }
       ]
     },
@@ -15412,24 +15446,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 25-5)؟",
+          "prompt": "اختر النص الحواري النقدي الشامل الذي يدمج مخرجات الوحدة الخامسة والعشرين بأكملها (المعلقات، المتنبي والمعري، المقامات، ونثر الجاحظ والتوحيدي):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (25.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (25.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (25.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (25.5.z3)"
+            "د. أُسَامَة: «دُكْتُورَة فَاطِمَة، كَيْفَ نُوَفِّقُ بَيْنَ صَلَابَةِ الوَقْفَةِ الطَّلَلِيَّةِ فِي المُعَلَّقَاتِ وَحَمَاسَةِ المُتَنَبِّي مَعَ سَجْعِ المَقَامَاتِ وَاسْتِطْرَادِ الجَاحِظِ؟» — د. فَاطِمَة: «إِنَّهَا مَرَاحِلُ اكْتِمَالِ الشَّخْصِيَّةِ البَلَاغِيَّةِ العَرَبِيَّةِ؛ فَقَدْ وَهَبَتْنَا الجَاهِلِيَّةُ جَزَالَةَ اللَّفْظِ وَصِدْقَ التَّصْوِيرِ، وَأَضَافَ العَصْرُ العَبَّاسِيُّ فَلْسَفَةَ المَعَرِّيِّ وَفَرَائِدَ التَّوْحِيدِيِّ، حَتَّى غَدَا الأَدَبُ الكَلَاسِيكِيُّ صَرْحًا بَيَانِيًّا لَا يَبْلَى عَلَى مَرِّ العُصُورِ». (Dr. Osama: 'Dr. Fatima, how do we reconcile between solidity of ruins motif in Mu'allaqat and Al-Mutanabbi's heroism with Maqamat rhymed prose and Al-Jahiz's digression?' — Dr. Fatima: 'These are stages of completeness of Arabic rhetorical persona; pre-Islamic era granted us solid diction and vivid depiction, and Abbasid era added Al-Ma'arri's philosophy and Al-Tawhidi's rarities, until classical literature became an eloquent edifice that never fades.')",
+            "د. اسامة: هل قرات كل الكتب القديمة؟ — د. فاطمة: نعم قرات بعضها في المكتبة.",
+            "حوار نقدي شامل معلقات متنبي معري مقامات جاحظ توحيدي سكون فتحة ضمة.",
+            "انتهت الندوة النقدية دون اي نقاش بين الاساتذة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة النقد الأدبي والبلاغة التراثية في دمج: المعلقات والوقفة الطللية، حماسة المتنبي، فلسفة المعري، سجع المقامات، استطراد الجاحظ، وفلسفة التوحيدي."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u25-l5) باللغة العربية (مثال: «روائع»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الفن التعبيري الذي يجمع بين الشعر والنثر الكلاسيكي في تاريخ البيان العربي (اكتب: «الأدب العربي» أو «الأدب»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "روائع",
-            "روائع"
+            "الأدب العربي",
+            "الادب العربي",
+            "الأدب",
+            "الادب",
+            "الأَدَبُ العَرَبِيُّ",
+            "الأَدَب العَرَبِي"
           ],
-          "explanation": "المصطلح الصحيح هو «روائع»."
+          "explanation": "المصطلح الشامل هو «الأدب العربي» (Arabic Literature)."
         }
       ],
       "passThreshold": 0.8
