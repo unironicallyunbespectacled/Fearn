@@ -485,53 +485,62 @@
     "subject": "urdu",
     "unit": 1,
     "lessonNumber": 1,
-    "title": "نستعلیق رسم الخط، صوتیات اور بنیادی آداب (Script & Greetings) (Part 1)",
+    "title": "اسلامی و تہذیبی آداب اور خیریت دریافت کرنا (Greetings & Inquiring Wellbeing)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for نستعلیق رسم الخط اور بنیادی آداب with authentic precision.",
+    "objective": "اردو میں السلام علیکم، وعلیکم السلام، آداب اور خیریت دریافت کرنے کے شائستہ جملوں میں مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو میں سلام اور خیریت دریافت کرنے کے فصیح و تہذیبی اصول:\n\n1. **السلام علیکم اور وعلیکم السلام**:\n   - اردو معاشرے میں ملاقات کے وقت کا سب سے بنیادی اور باوقار سلام «السلام علیکم» (آپ پر سلامتی ہو) ہے؛\n   - اس کے جواب میں لازماً «وعلیکم السلام» (اور آپ پر بھی سلامتی ہو) کہا جاتا ہے۔\n\n2. **آداب عرض ہے اور مزاج پرسی**:\n   - ادبی، باوقار یا غیر مذہبی محفلوں میں «آداب» یا «آداب عرض ہے» بولا جاتا ہے؛\n   - کسی محترم بزرگ یا دوست سے خیریت پوچھنے کے لیے «آپ کا مزاج کیسا ہے؟»، «آپ کیسے ہیں؟» یا «سب خیریت ہے؟» کہا جاتا ہے۔\n\n3. **جوابی کلمات اور تشکر**:\n   - خیروعافیت بتاتے وقت «الحمد للہ، میں بالکل ٹھیک ہوں» یا «اللہ کا شکر ہے، آپ سنائیے» کہنا شائستہ روایت ہے۔*",
       "examples": [
         {
-          "target": "السلام علیکم، آپ کا مزاج کیسا ہے؟",
-          "reading": "assalam-o-alaikum, aap ka mizaj kaisa hai? [əsːəlaːmʊ ʔəlɛːkʊm, aːp kaː mɪzaːdʒ kɛːsaː hɛː] (uh-suh-LAHM-oh-ah-LY-koom)",
-          "translation": "Peace be upon you, how is your health/mood?"
+          "target": "السلام علیکم! آپ کا مزاج کیسا ہے؟",
+          "reading": "Assalamu alaikum! Aap ka mizaj kaisa hai? [əsːəlaːmʊ ʔəlɛːkʊm aːp kaː mɪzaːdʒ kɛːsaː hɛː] (uhs-suh-LAH-moo uh-LY-koom, AHP kah mee-ZAHJ KY-sah hy)",
+          "translation": "Peace be upon you! How is your health/mood?"
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 1-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "وعلیکم السلام! اللہ کا فضل ہے، میں بالکل خیریت سے ہوں۔",
+          "reading": "Walaikum assalam! Allah ka fazl hai, main bilkul khairiyat se hoon. [ʋəʔəlɛːkʊmʊsːəlaːm əlːaːʱ kaː fəzl hɛː mɛ̃ː bɪlkʊl xɛːrɪjət̪ seː ɦuː̃] (wuh-uh-LY-koom-oos-suh-LAHM, uhl-LAH kah FUHZL hy, myhn beel-KOOL khy-ree-YUHT say HOON)",
+          "translation": "And upon you be peace! By God's grace, I am completely well."
+        },
+        {
+          "target": "آداب عرض ہے، محترم استاد صاحب، کیا سب خیریت ہے؟",
+          "reading": "Aadaab arz hai, mohtaram ustaad sahab, kya sab khairiyat hai? [aːd̪aːb ərz hɛː moːɦt̪ərəm ʊst̪aːd̪ saːhəb kjaː səb xɛːrɪjət̪ hɛː] (ah-DAHB UHRZ hy, moh-tuh-RUHM oos-TAHD SAH-huhb, kyah SUHB khy-ree-YUHT hy)",
+          "translation": "Greetings of respect, respected teacher, is everything well?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "سلام و آداب: السلام علیکم (سلامتی)، وعلیکم السلام (جواب)، آداب عرض ہے (تہذیب)، الحمد للہ (شکر)!"
+      ],
+      "culturalNotes": [
+        "برصغیر کی اردو تہذیب میں چھوٹا ہمیشہ بڑے کو پہلے سلام کرتا ہے، اور ہاتھ سینے پر رکھ کر ہلکا سا جھک کر 'آداب' کہنے کی روایت دہلی اور لکھنؤ کی تہذیب کا شاہکار سمجھی جاتی ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"السلام علیکم\":",
+          "prompt": "اردو زبان میں کسی سے ملاقات کے وقت سب سے عام اور باوقار سلام کون سا ہے؟",
           "options": [
-            "السلام علیکم، آپ کا مزاج کیسا ہے؟",
-            "قواعد اور تذکیر و تانیث کی غلطی («شکریہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («برائے مہربانی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («خدا حافظ» کی خرابی)"
+            "السلام علیکم (Assalamu Alaikum - Peace be upon you, standard dignified Urdu greeting)",
+            "صبح بخیر (Good morning)",
+            "شب بخیر (Good night)",
+            "خوش آمدید (Welcome)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "ملاقات کے وقت سب سے مستند اور عام سلام «السلام علیکم» ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"السلام علیکم\":",
+          "prompt": "«السلام علیکم» کا درست اور مکمل روایتی جواب کیا ہے؟",
           "options": [
-            "السلام علیکم، آپ کا مزاج کیسا ہے؟",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («برائے مہربانی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («خدا حافظ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («شکریہ» کا غیر درست استعمال)"
+            "وعلیکم السلام (Walaikum Assalam - And upon you be peace, authentic response to greeting)",
+            "اللہ حافظ (خدا کی پناہ)",
+            "شکریہ جناب (مہربانی)",
+            "معاف کیجیے (معذرت)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«السلام علیکم» کا فصیح اور مستند جواب «وعلیکم السلام» ہے۔"
         }
       ]
     },
@@ -539,17 +548,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"السلام علیکم\": Which sentence is completely correct?",
+          "prompt": "اردو میں سلام اور مزاج پرسی (Greetings & Politeness) کا مکمل اور فصیح جملہ پہچانیے:",
           "options": [
-            "السلام علیکم، آپ کا مزاج کیسا ہے؟",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («خدا حافظ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («شکریہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («برائے مہربانی» سے متعلق)"
+            "السلام علیکم! آپ کا مزاج کیسا ہے، اور گھر میں سب خیریت سے ہیں؟ (Peace be upon you! How is your health, and is everyone well at home?)",
+            "سلام کا جواب صرف غصے میں منہ بنا کر دینا چاہیے۔",
+            "وعلیکم السلام کا مطلب ہوتا ہے کہ جلدی سے یہاں سے بھاگ جاؤ۔",
+            "آداب کا مطلب جوتے پالش کرنا ہوتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«السلام علیکم! آپ کا مزاج کیسا ہے، اور گھر میں سب خیریت سے ہیں؟» مکمل اور شائستہ جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u1-l2": {
@@ -557,53 +567,62 @@
     "subject": "urdu",
     "unit": 1,
     "lessonNumber": 2,
-    "title": "نستعلیق رسم الخط، صوتیات اور بنیادی آداب (Script & Greetings) (Part 2)",
+    "title": "تعارف، اسم اور شائستہ اندازِ تخاطب (Introductions & Polite Forms of Address)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for تعارف اور شائستہ گفتگو with authentic precision.",
+    "objective": "اردو میں شائستہ انداز میں اپنا نام بتانا، دوسرے کا اسمِ گرامی پوچھنا اور ملاقات پر مسرت کا اظہار کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو میں تعارف اور شائستہ اندازِ تخاطب کے بنیادی اصول:\n\n1. **اپنا نام بتانا**:\n   - سادہ انداز — «میرا نام [نام] ہے»؛\n   - عاجزانہ ادبی انداز — «خاکسار کو [نام] کہتے ہیں» یا «بندہ کا نام [نام] ہے»۔\n\n2. **دوسرے کا نام دریافت کرنا**:\n   - شائستہ و باوقار سوال — «آپ کا اسمِ گرامی کیا ہے؟» یا «آپ کا مبارک نام کیا ہے؟»؛\n   - عام بول چال — «آپ کا نام کیا ہے؟»۔\n\n3. **ملاقات پر مسرت کا اظہار**:\n   - «آپ سے مل کر بہت خوشی ہوئی» یا «آپ سے شرفِ ملاقات حاصل کر کے دلی مسرت ہوئی۔»*",
       "examples": [
         {
-          "target": "میرا نام احمد ہے، آپ سے مل کر دلی مسرت ہوئی۔",
-          "reading": "mera naam ahmad hai, aap se mil kar dili musarrat hui [meːraː naːm ʔəɦməd̪ hɛː] (MAY-rah NAHM)",
-          "translation": "My name is Ahmad, hearty pleasure to meet you."
+          "target": "میرا نام طارق محمود ہے، اور میں جامعہ کراچی میں اردو ادب کا طالب علم ہوں۔",
+          "reading": "Mera naam Tariq Mahmood hai, aur main Jamia Karachi mein Urdu adab ka taalib-e-ilm hoon. [meːraː naːm t̪aːrɪq məɦmuːd̪ hɛː ɔːr mɛ̃ː dʒaːmɪʔaː kəraːtʃiː mẽː ʊrd̪uː əd̪əb kaː t̪aːlɪb-eː-ɪlm ɦuː̃] (MAY-rah NAHM TAH-reek muh-MOOD hy, owr myhn JAH-mee-ah kuh-RAH-chee mayn OOR-doo uh-DUHB kah TAH-leeb-ay-EELM HOON)",
+          "translation": "My name is Tariq Mahmood, and I am a student of Urdu literature at the University of Karachi."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 1-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "معاف کیجیے گا، کیا میں آپ کا اسمِ گرامی جان سکتا ہوں؟",
+          "reading": "Maaf kijiye ga, kya main aap ka ism-e-giraami jaan sakta hoon? [maːf kiːdʒɪjeː ɡaː kjaː mɛ̃ː aːp kaː ɪsm-eː-ɡɪraːmiː dʒaːn səktaː ɦuː̃] (MAHF KEE-jee-yay GAH, kyah myhn AHP kah EESM-ay-gee-RAH-mee JAHN suhk-TAH HOON)",
+          "translation": "Excuse me, may I know your honored name?"
+        },
+        {
+          "target": "آپ سے مل کر بڑی خوشی ہوئی، تشریف رکھیے اور چائے نوش فرمائیے۔",
+          "reading": "Aap se mil kar badi khushi hui, tashreef rakhiye aur chaaye nosh farmaaiye. [aːp seː mɪl kər bəɽiː xʊʃiː ɦʊiː t̪əʃriːf rəkʰɪjeː ɔːr tʃaːjeː noːʃ fərmaːiːjeː] (AHP say MEEL kuhr buh-DEE KHOO-shee hoo-EE, tuhsh-REEF ruh-khee-YAY owr CHAH-yay NOHSH fuhr-mah-EE-yay)",
+          "translation": "It is a great pleasure to meet you, please be seated and have some tea."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "شائستہ تعارف: میرا نام (میرا تعارف)، اسمِ گرامی (آپ کا معزز نام)، تشریف رکھیے (بیٹھیے)!"
+      ],
+      "culturalNotes": [
+        "اردو میں احترام کے درجات بہت واضح ہیں؛ اپنے نام کے ساتھ کبھی 'صاحب' یا 'جناب' نہیں لگایا جاتا، جبکہ دوسرے کے لیے ہمیشہ 'اسمِ گرامی' یا 'صاحب' استعمال کیا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"شکریہ\":",
+          "prompt": "کسی معزز شخص سے اس کا نام انتہائی شائستہ اور باوقار انداز میں پوچھنے کے لیے کون سا جملہ بولا جاتا ہے؟",
           "options": [
-            "میرا نام احمد ہے، آپ سے مل کر دلی مسرت ہوئی۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («برائے مہربانی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («خدا حافظ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («معاف کیجیے» کی خرابی)"
+            "آپ کا اسمِ گرامی کیا ہے؟ (What is your honored name? - Highly respectful inquiry of identity)",
+            "تم کون ہو جلدی بولو (غیر شائستہ انداز)",
+            "اپنا شناختی کارڈ دکھاؤ (پولیس طرز)",
+            "کیا تم کوئی اجنبی ہو؟ (حیرت)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "احتراماً نام دریافت کرنے کا فصیح جملہ «آپ کا اسمِ گرامی کیا ہے؟» ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"شکریہ\":",
+          "prompt": "تعارف کے بعد ملاقات پر خوشی اور مسرت کا اظہار کرنے کے لیے کون سا جملہ بولا جاتا ہے؟",
           "options": [
-            "میرا نام احمد ہے، آپ سے مل کر دلی مسرت ہوئی۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («خدا حافظ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («معاف کیجیے» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («برائے مہربانی» کا غیر درست استعمال)"
+            "آپ سے مل کر بہت خوشی ہوئی (Pleased to meet you - Courteous expression of delight upon meeting)",
+            "آپ سے مل کر مجھے تکلیف ہوئی (ناشائستہ)",
+            "اب آپ یہاں سے چلے جائیے (غیر اخلاقی)",
+            "میرا وقت ضائع مت کیجیے (روکھا پن)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "ملاقات پر مسرت کے لیے «آپ سے مل کر بہت خوشی ہوئی» کہا جاتا ہے۔"
         }
       ]
     },
@@ -611,17 +630,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"شکریہ\": Which sentence is completely correct?",
+          "prompt": "اردو تعارف اور شائستہ گفتگو (Introductions & Etiquette) کا مکمل معیاری جملہ پہچانیے:",
           "options": [
-            "میرا نام احمد ہے، آپ سے مل کر دلی مسرت ہوئی۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («معاف کیجیے» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («برائے مہربانی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («خدا حافظ» سے متعلق)"
+            "میرا نام عدنان ہے، آپ سے شرفِ ملاقات حاصل کر کے مجھے دلی مسرت ہوئی۔ (My name is Adnan, and it gave me heartfelt pleasure to have the honor of meeting you.)",
+            "اپنے نام کے ساتھ ہمیشہ 'جناب صاحب بہادر' لکھنا چاہیے۔",
+            "تعارف کرواتے وقت دوسروں پر چیخنا لازمی ہے۔",
+            "اسم گرامی کا مطلب گھر کا پتا ہوتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«میرا نام عدنان ہے، آپ سے شرفِ ملاقات حاصل کر کے مجھے دلی مسرت ہوئی۔» تعارف کا فصیح اور مکمل جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u1-l3": {
@@ -629,53 +649,62 @@
     "subject": "urdu",
     "unit": 1,
     "lessonNumber": 3,
-    "title": "نستعلیق رسم الخط، صوتیات اور بنیادی آداب (Script & Greetings) (Part 3)",
+    "title": "شکریہ، احسان شناسی اور نوازش کے کلمات (Gratitude & Expressions of Politeness)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for شکریہ اور احسان شناسی کے آداب with authentic precision.",
+    "objective": "اردو میں شکریہ ادا کرنے، احسان ماننے اور خیر سگالی کے شائستہ کلمات کا درست استعمال سیکھنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو میں شکریہ اور اظہارِ تشکر کے فصیح و مستند اصول:\n\n1. **شکریہ اور بہت شکریہ**:\n   - کسی کی مدد، تحفے یا عنایت پر «شکریہ»، «بہت بہت شکریہ» یا «آپ کا بے حد شکریہ» کہا جاتا ہے۔\n\n2. **نوازش اور ذرہ نوازی**:\n   - جب کوئی آپ کی تعریف فرمائے یا غیر معمولی عنایت کرے تو عاجزی سے «یہ آپ کی نوازش ہے» یا «یہ تو آپ کی ذرہ نوازی ہے» کہا جاتا ہے۔\n\n3. **دعائیہ شکرگزاری (جزاک اللہ)**:\n   - دینی اور ثقافتی دائرے میں کسی کی نیکی کے بدلے میں «جزاک اللہ خیر» (اللہ آپ کو بہترین جزا دے) کا کلمہ دعائیہ تشکر کے طور پر مستعمل ہے۔*",
       "examples": [
         {
-          "target": "آپ کے اس پرخلوص تعاون کا بہت بہت شکریہ۔",
-          "reading": "aap ke is pur-khuloos taawun ka bahut bahut shukriya [aːp keː ɪs pʊr xʊluːs təʔaːwʊn kaː ʃʊkrɪjaː] (SHUK-ree-yah)",
-          "translation": "Thank you very much for this sincere cooperation."
+          "target": "آپ کی اس پُرتکلف ضیافت اور بے پناہ محبت کا بے حد شکریہ۔",
+          "reading": "Aap ki is pur-takalluf ziyaafat aur be-panaah mohabbat ka be-hadd shukriya. [aːp kiː ɪs pʊr-t̪əkəlːʊf zɪjaːfət̪ ɔːr beː-pənaːɦ moːɦəbːət̪ kaː beː-həd̪ː ʃʊkrɪjaː] (AHP kee ees poor-tuh-kuhl-LOOF zee-YAH-fuht owr bay-puh-NAHH moh-HUHB-buht kah bay-HUHDD shook-REE-yah)",
+          "translation": "Thank you immensely for this lavish hospitality and boundless affection."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 1-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "یہ تو آپ کی ذرہ نوازی ہے کہ آپ نے خاکسار کو اس لائق سمجھا۔",
+          "reading": "Yeh to aap ki zarra-nawaazi hai ke aap ne khaaksaar ko is laaiq samjha. [jɛh t̪oː aːp kiː zərːə-nəʋaːziː hɛː kɪ aːp neː xaːksaːr koː ɪs laːɪq səmədʒʱaː] (YEH toh AHP kee zuhr-ruh-nuh-VAH-zee hy kay AHP nay khahk-SAHR koh ees LAH-eeq suhm-JHAH)",
+          "translation": "It is merely your humble graciousness that you considered this humble self worthy of this."
+        },
+        {
+          "target": "میری مشکل گھڑی میں رہنمائی فرمانے پر جزاک اللہ خیر، جناب!",
+          "reading": "Meri mushkil ghadi mein rahnumaai farmaane par jazaak Allah khair, janaab! [meːriː mʊʃkɪl ɡʱəɽiː mẽː rəɦnʊmaːiː fərmaːneː pər dʒəzaːk əlːaːʱ xɛːr dʒənaːb] (MAY-ree moosh-KEEL ghuh-DEE mayn ruhh-noo-MAH-ee fuhr-mah-NAY puhr juh-ZAHK uhl-LAH khyr, juh-NAHB)",
+          "translation": "May God reward you with goodness, sir, for guiding me in my hour of difficulty!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "اظہار تشکر: شکریہ (عام شکر)، ذرہ نوازی (عاجزی)، جزاک اللہ (دعائیہ شکر)!"
+      ],
+      "culturalNotes": [
+        "لکھنوی اردو میں تعریف کے جواب میں خود فخر کرنے کے بجائے 'یہ تو آپ کا حسنِ نظر ہے' (یہ آپ کی آنکھوں کی اچھائی ہے) یا 'ذرہ نوازی ہے' بولنا کمال تہذیب سمجھا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"برائے مہربانی\":",
+          "prompt": "کسی کی مہربانی، عنایت یا تعاون پر شکر ادا کرنے کے لیے بنیادی اردو کلمہ کون سا ہے؟",
           "options": [
-            "آپ کے اس پرخلوص تعاون کا بہت بہت شکریہ۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («خدا حافظ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («معاف کیجیے» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («خوش آمدید» کی خرابی)"
+            "بہت بہت شکریہ (Thank you very much - Core authentic expression of gratitude in Urdu)",
+            "معاف کیجیے (معذرت)",
+            "خدا حافظ (الوداع)",
+            "خبردار (تنبیہ)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "شکر ادا کرنے کا بنیادی کلمہ «شکریہ» یا «بہت بہت شکریہ» ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"برائے مہربانی\":",
+          "prompt": "جب کوئی آپ کے کام کی تعریف کرے تو انکساری اور عاجزی ظاہر کرنے کے لیے کیا کہنا فصیح ہے؟",
           "options": [
-            "آپ کے اس پرخلوص تعاون کا بہت بہت شکریہ۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («معاف کیجیے» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («خوش آمدید» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («خدا حافظ» کا غیر درست استعمال)"
+            "یہ آپ کی ذرہ نوازی ہے (It is your kind graciousness - Classic humble reply to compliments)",
+            "میں واقعی دنیا کا سب سے بڑا آدمی ہوں (تکبر)",
+            "تمہیں اب سمجھ میں آیا (غرور)",
+            "چلو خاموش رہو (بدتمیزی)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "تعریف کے جواب میں انکساری سے «یہ آپ کی ذرہ نوازی ہے» کہا جاتا ہے۔"
         }
       ]
     },
@@ -683,17 +712,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"برائے مہربانی\": Which sentence is completely correct?",
+          "prompt": "اردو میں شکریہ اور احسان شناسی (Gratitude & Politeness) کا مکمل معیاری جملہ پہچانیے:",
           "options": [
-            "آپ کے اس پرخلوص تعاون کا بہت بہت شکریہ۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («خوش آمدید» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («خدا حافظ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («معاف کیجیے» سے متعلق)"
+            "آپ کے خلوص اور پرخلوص تعاون کا تہہِ دل سے بہت بہت شکریہ، اللہ آپ کو جزائے خیر عطا فرمائے۔ (Heartfelt thank you for your sincerity and genuine cooperation; may God grant you a noble reward.)",
+            "شکریہ ادا کرنے سے انسان چھوٹا ہو جاتا ہے اس لیے شکریہ کبھی مت کہو۔",
+            "جزاک اللہ کا مطلب راستہ صاف کرنا ہوتا ہے۔",
+            "ذرہ نوازی کا مطلب فرش پر جھاڑو لگانا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«آپ کے خلوص اور پرخلوص تعاون کا تہہِ دل سے بہت بہت شکریہ...» تشکر کا مکمل اور فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u1-l4": {
@@ -701,53 +731,62 @@
     "subject": "urdu",
     "unit": 1,
     "lessonNumber": 4,
-    "title": "نستعلیق رسم الخط، صوتیات اور بنیادی آداب (Script & Greetings) (Part 4)",
+    "title": "التجا، معذرت اور رخصت کے کلمات (Requests, Apologies & Farewell)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for معذرت اور باوقار انداز تخاطب with authentic precision.",
+    "objective": "التجا (برائے مہربانی)، معذرت (معاف کیجیے گا) اور الوداع (خدا حافظ، اللہ نگہبان) کے شائستہ کلمات میں مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "درخواست، معذرت اور رخصتی کے شائستہ تہذیبی اصول:\n\n1. **شائستہ درخواست (التجا)**:\n   - کسی سے کچھ مانگنے یا گزارش کرنے کے لیے جملے کے آغاز میں «برائے مہربانی» یا «براہِ کرم» استعمال کیا جاتا ہے (جیسے: براہِ کرم تشریف لائیے)۔\n\n2. **معذرت و معافی (Apology)**:\n   - توجہ مبذول کرانے یا کسی لغزش پر «معاف کیجیے گا» یا «میں معذرت خواہ ہوں» بولا جاتا ہے۔\n\n3. **الوداعی و رخصتی کلمات**:\n   - محفل سے رخصت ہوتے وقت «خدا حافظ»، «اللہ حافظ» یا «فی امان اللہ» (اللہ کی امان میں) کہا جاتا ہے۔*",
       "examples": [
         {
-          "target": "معاف کیجیے گا، کیا آپ مجھے لائبریری کا راستہ بتا سکتے ہیں؟",
-          "reading": "maaf kijiye ga, kya aap mujhe library ka raasta bata sakte hain? [maːf kiːdʒɪjeː gaː] (MAHF KEE-jee-yay GAH)",
-          "translation": "Excuse me, could you tell me the way to the library?"
+          "target": "براہِ کرم لائبریری کے اندر مکمل خاموشی اختیار فرمائیے۔",
+          "reading": "Baraah-e-karam library ke andar mukammal khaamoshi ikhtiyaar farmaaiye. [bəraːɦ-eː-kərəm laːɪbreːriː keː ənd̪ər mʊkəmːəl xaːmoːʃiː ɪxt̪ɪjaːr fərmaːiːjeː] (buh-RAH-hay-kuh-RUHM library kay uhn-DUHR moo-kuhm-MUHL khah-moh-SHEE eekh-tee-YAHR fuhr-mah-EE-yay)",
+          "translation": "Please observe complete silence inside the library."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 1-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "معاف کیجیے گا، مجھے تاخیر ہو گئی کیونکہ راستے میں ٹریفک کا شدید دباؤ تھا۔",
+          "reading": "Maaf kijiye ga, mujhe taakheer ho gayi kyonke raaste mein traffic ka shadeed dabaao tha. [maːf kiːdʒɪjeː ɡaː mʊdʒʱeː t̪aːxiːr hoː ɡəiː kjoː̃kɪ raːst̪eː mẽː ʈrɛːfɪk kaː ʃəd̪iːd̪ d̪əbaːoː t̪ʰaː] (MAHF KEE-jee-yay GAH, moo-JHAY tah-KHEER hoh guh-YEE KYOHN-kay rah-STAY mayn traffic kah shuh-DEED duh-BAH-oh thah)",
+          "translation": "Excuse me, I got delayed because there was heavy traffic on the way."
+        },
+        {
+          "target": "اب مجھے اجازت دیجیے، خدا حافظ اور فی امان اللہ!",
+          "reading": "Ab mujhe ijaazat deejiye, Khuda hafiz aur fee amaan Allah! [əb mʊdʒʱeː ɪdʒaːzət̪ d̪iːdʒɪjeː xʊd̪aː haːfɪz ɔːr fiː əmaːn əlːaːʱ] (UHB moo-JHAY ee-jah-ZUHT DEE-jee-yay, khoo-DAH HAH-feez owr FEE uh-MAHN uhl-LAH)",
+          "translation": "Now please grant me leave, goodbye and may you be under God's protection!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "درخواست و رخصت: براہِ کرم (درخواست)، معاف کیجیے (معذرت)، فی امان اللہ (الوداعی دعا)!"
+      ],
+      "culturalNotes": [
+        "اردو میں رخصت ہوتے وقت 'اب میں چلتا ہوں' کے بجائے 'اب مجھے اجازت دیجیے' یا 'اب رخصت کا وقت ہے' کہنا آدابِ محفل کا لازمی حصہ ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"خدا حافظ\":",
+          "prompt": "اردو میں کسی سے شائستہ انداز میں گزارش یا درخواست کرنے کے لیے کون سا سابقہ لفظ استعمال ہوتا ہے؟",
           "options": [
-            "معاف کیجیے گا، کیا آپ مجھے لائبریری کا راستہ بتا سکتے ہیں؟",
-            "قواعد اور تذکیر و تانیث کی غلطی («معاف کیجیے» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («خوش آمدید» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («مبارک» کی خرابی)"
+            "براہِ کرم / برائے مہربانی (Please / Kindly - Polite preface for making requests in Urdu)",
+            "خبردار ہو جاؤ (وارننگ)",
+            "جلدی کرو بھاگو (حکم)",
+            "چپ چاپ سنو (سختی)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "شائستہ درخواست کے لیے «براہِ کرم» یا «برائے مہربانی» کا استعمال کیا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"خدا حافظ\":",
+          "prompt": "ملاقات کے اختتام پر محفل سے رخصت ہوتے وقت دعائیہ الوداعی کلمہ کون سا ہے؟",
           "options": [
-            "معاف کیجیے گا، کیا آپ مجھے لائبریری کا راستہ بتا سکتے ہیں؟",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («خوش آمدید» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («مبارک» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («معاف کیجیے» کا غیر درست استعمال)"
+            "خدا حافظ / فی امان اللہ (Khuda Hafiz / Fee Amaan Allah - May God protect you, traditional Urdu farewell)",
+            "السلام علیکم (ملاقات کا سلام)",
+            "خوش آمدید (آمد پر خیر مقدم)",
+            "صبح بخیر (صبح کی دعا)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "رخصتی کے وقت «خدا حافظ» یا «فی امان اللہ» کہا جاتا ہے۔"
         }
       ]
     },
@@ -755,17 +794,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"خدا حافظ\": Which sentence is completely correct?",
+          "prompt": "درخواست اور الوداع (Requests & Farewells) کا مکمل اور شائستہ جملہ پہچانیے:",
           "options": [
-            "معاف کیجیے گا، کیا آپ مجھے لائبریری کا راستہ بتا سکتے ہیں؟",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («مبارک» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («معاف کیجیے» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («خوش آمدید» سے متعلق)"
+            "براہِ کرم میری یہ درخواست قبول فرمائیے، اب مجھے اجازت دیجیے، اللہ نگہبان۔ (Kindly accept this request of mine, now please grant me leave, God protect you.)",
+            "معاف کیجیے کا مطلب ہے کہ فورا پولیس کو بلا لو۔",
+            "رخصت ہوتے وقت دروازہ زور سے توڑ کر بھاگ جانا چاہیے۔",
+            "براہِ کرم کا استعمال صرف جھگڑے میں کیا جاتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«براہِ کرم میری یہ درخواست قبول فرمائیے، اب مجھے اجازت دیجیے، اللہ نگہبان۔» مکمل اور معیاری جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u1-l5": {
@@ -773,53 +813,62 @@
     "subject": "urdu",
     "unit": 1,
     "lessonNumber": 5,
-    "title": "نستعلیق رسم الخط، صوتیات اور بنیادی آداب (Script & Greetings) (Part 5)",
+    "title": "نستعلیق رسم الخط، اعراب اور صوتیات (Nastaliq Script, Phonetics & Diacritics)",
     "level": "A1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for رخصت اور الوداعی کلمات with authentic precision.",
+    "objective": "نستعلیق حروفِ تہجی کی اشکال، اعراب (زبر، زیر، پیش، جزم، تشدید) اور مخلوط صوتیات (ھ والے حروف) کو سمجھنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو رسم الخط (Nastaliq) اور صوتیاتی نظام کے بنیادی قواعد:\n\n1. **خطِ نستعلیق اور حروفِ تہجی**:\n   - اردو دائیں سے بائیں (Right-to-Left) لکھی جاتی ہے؛\n   - اس میں 39 بنیادی حروف ہیں، جن میں عربی، فارسی اور ہندی الاصل حروف (ٹ، ڈ، ڑ) اور 14 مخلوط/ہکاری آوازیں (بھ، پھ، تھ، ٹھ، جھ، چھ، دھ، ڈھ، رھ، ڑھ، کھ، گھ، لھ، مھ، نھ) شامل ہیں۔\n\n2. **اعراب (حرکات و سکنات)**:\n   - **زبر (َ / Fatha)** — چھوٹی 'اَ' کی آواز (جیسے: سَب، گَھر)؛\n   - **زیر (ِ / Kasra)** — چھوٹی 'اِ' کی آواز (جیسے: دِل، کِتاب)؛\n   - **پیش (ُ / Damma)** — چھوٹی 'اُ' کی آواز (جیسے: پُل، گُل)؛\n   - **جزم (ْ / Sukun)** — حرف کے ساکن ہونے کی علامت؛\n   - **تشدید (ّ / Tashdeed)** — حرف کے دو بار مشدد ادا ہونے کی علامت (جیسے: ابّا، امّی)۔\n\n3. **اضافت (Izafat)**:\n   - *دو الفاظ کے باہمی تعلق کے لیے پہلے لفظ کے نیچے زیر لگائی جاتی ہے (جیسے: طالبِ علم، شانِ اردو)*۔*",
       "examples": [
         {
-          "target": "خدا حافظ، انشاء اللہ کل صبح دفتر میں ملاقات ہوگی۔",
-          "reading": "khuda hafiz, insha Allah kal subah daftar mein mulaqat hogi [xʊd̪aː haːfɪz] (khoo-DAH HAH-fiz)",
-          "translation": "Goodbye (God protect you), God willing see you at the office tomorrow."
+          "target": "اردو خطِ نستعلیق میں دائیں سے بائیں لکھی جاتی ہے اور اس میں فارسی و عربی کے تمام خوبصورت اصول شامل ہیں۔",
+          "reading": "Urdu khatt-e-nastaliq mein daayein se baayein likhi jaati hai aur is mein Faarsi va Arabi ke tamaam khoobsurat usool shaamil hain. [ʊrd̪uː xət̪ː-eː-nəst̪əʔliːq mẽː d̪aːjẽː seː baːjẽː lɪkʰiː dʒaːt̪iː hɛː ɔːr ɪs mẽː faːrsiː ʋaː ərbɪiː keː t̪əmaːm xuːbsuːrət̪ ʊsuːl ʃaːmɪl hɛ̃ː] (OOR-doo khuhtt-ay-nuhs-tuh-LEEQ mayn DAH-yayn say BAH-yayn leek-HEE JAH-tee hy owr ees mayn FAHR-see vah uh-ruh-BEE kay tuh-MAHM khoob-SOO-ruht oo-SOOL SHAH-meel hyhn)",
+          "translation": "Urdu is written from right to left in the Nastaliq script, incorporating all the elegant principles of Persian and Arabic."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 1-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "زبر، زیر اور پیش کو اردو زبان میں 'اعراب' کہتے ہیں جو حروف کو درست تلفظ اور روانی عطا کرتے ہیں۔",
+          "reading": "Zabar, zer aur pesh ko Urdu zabaan mein 'aeraab' kahte hain jo huroof ko durust talaffuz aur rawaani ata karte hain. [zəbər zeːr ɔːr peːʃ koː ʊrd̪uː zəbaːn mẽː ɛːraːb kəɦt̪eː hɛ̃ː dʒoː ɦʊruːf koː d̪ʊrʊst̪ t̪ələfːʊz ɔːr rəʋaːniː ət̪aː kərt̪eː hɛ̃ː] (zuh-BUHR, ZAYR owr PAYSH koh OOR-doo zuh-BAHN mayn ay-RAHB kuhh-TAY hyhn joh hoo-ROOF koh doo-ROOST tuh-luhf-FOOZ owr ruh-vah-NEE uh-TAH KUHR-tay hyhn)",
+          "translation": "Zabar, zer, and pesh are called 'aeraab' (diacritics) in Urdu, which grant accurate pronunciation and flow to letters."
+        },
+        {
+          "target": "لفظ 'طالبِ علم' میں حرف 'ب' کے نیچے زیر اضافت کا کام کر رہی ہے جس کا مطلب 'علم کا طلبگار' ہے۔",
+          "reading": "Lafz 'taalib-e-ilm' mein harf 'bay' ke neeche zer izafat ka kaam kar rahi hai jis ka matlab 'ilm ka talabgaar' hai. [ləfz t̪aːlɪb-eː-ɪlm mẽː hərwf beː keː niːtʃeː zeːr ɪzaːfət̪ kaː kaːm kər rəɦiː hɛː dʒɪs kaː mət̪ləb ɪlm kaː t̪ələbɡaːr hɛː] (LUHFZ TAH-leeb-ay-EELM mayn HUHRF BAY kay NEE-chay ZAYR ee-ZAH-fuht kah KAHM kuhr ruh-HEE hy jees kah muht-LUHB EELM kah tuh-luhb-GAHR hy)",
+          "translation": "In the phrase 'taalib-e-ilm' (student), the zer beneath the letter 'b' functions as izafat, meaning 'seeker of knowledge.'"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "اعراب و نستعلیق: زبر (اَ)، زیر (اِ)، پیش (اُ)، تشدید (دوہرا)، اضافت (تعلق زیر)!"
+      ],
+      "culturalNotes": [
+        "خطِ نستعلیق کا آغاز چودہویں صدی میں ایرانی خطاط میر علی تبریزی نے کیا تھا، جس نے اردو شاعری اور ادب کو غیر معمولی بصری حسن عطا کیا۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"معاف کیجیے\":",
+          "prompt": "اردو زبان میں حرف کو دو بار سختی سے ادا کرنے کے لیے اس پر کون سی علامت لگائی جاتی ہے؟",
           "options": [
-            "خدا حافظ، انشاء اللہ کل صبح دفتر میں ملاقات ہوگی۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («خوش آمدید» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («مبارک» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ناشتہ» کی خرابی)"
+            "تشدید (ّ / Tashdeed - Diacritic mark indicating gemination or doubling of consonant)",
+            "زبر (َ / Fatha)",
+            "زیر (ِ / Kasra)",
+            "پیش (ُ / Damma)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "حرف کو دو بار ادا کرنے کی علامت کو «تشدید» (ّ) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"معاف کیجیے\":",
+          "prompt": "اردو رسم الخط کس سمت میں لکھا جاتا ہے؟",
           "options": [
-            "خدا حافظ، انشاء اللہ کل صبح دفتر میں ملاقات ہوگی۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («مبارک» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ناشتہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («خوش آمدید» کا غیر درست استعمال)"
+            "دائیں سے بائیں (Right to Left - Traditional orientation of Nastaliq Perso-Arabic script)",
+            "بائیں سے دائیں (Left to right)",
+            "اوپر سے نیچے (Top to bottom)",
+            "نیچے سے اوپر (Bottom to top)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "اردو رسم الخط خطِ نستعلیق میں «دائیں سے بائیں» لکھا جاتا ہے۔"
         }
       ]
     },
@@ -827,17 +876,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"معاف کیجیے\": Which sentence is completely correct?",
+          "prompt": "نستعلیق رسم الخط اور اعراب (Nastaliq Script & Diacritics) کا جامع مستند جملہ پہچانیے:",
           "options": [
-            "خدا حافظ، انشاء اللہ کل صبح دفتر میں ملاقات ہوگی۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ناشتہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («خوش آمدید» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («مبارک» سے متعلق)"
+            "نستعلیق رسم الخط، اعراب (زبر، زیر، پیش، تشدید) اور ہکاری صوتیات ہی اردو زبان کی فصاحت اور صوتی حسن کی بنیاد ہیں۔ (Nastaliq script, diacritics [zabar, zer, pesh, tashdeed], and aspirated phonetics are the very foundation of Urdu's eloquence and phonetic beauty.)",
+            "اردو میں اعراب لگانا سخت منع ہے اور صرف لکیریں کھینچی جاتی ہیں۔",
+            "نستعلیق رسم الخط صرف الٹے ہاتھ سے لکھا جا سکتا ہے۔",
+            "تشدید کا مطلب ہے کہ حرف کو مٹا کر پھینک دو۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«نستعلیق رسم الخط، اعراب (زبر، زیر، پیش، تشدید) اور ہکاری صوتیات ہی اردو زبان کی فصاحت... بنیاد ہیں۔» صوتیات اور رسم الخط کا مستند جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u2-l1": {
