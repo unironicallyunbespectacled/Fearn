@@ -8275,53 +8275,62 @@
     "subject": "cantonese",
     "unit": 20,
     "lessonNumber": 1,
-    "title": "存在句同空間描寫 (Existential Sentences) (第1課)",
+    "title": "粵語存在句核心結構：「處所 + 有 / 冇 + 實體」對比「實體 + 喺 + 處所」 (Existential Sentences)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元20第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語存在句「處所 + 有/冇 + 無定名詞」（引介新事物）與處所定位句「特定實體 + 喺 + 處所」（交代已知事物位置）之句法結構與語用差異。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語中描寫空間存在與空間定位由兩個涇渭分明之句法範式構成：\n\n一、存在句範式（引介無定新信息）：\n１．核心公式：【處所名詞 ＋ 「有 / 冇」 ＋ 無定名詞實體】。\n- 功能：用以向聽者引介該空間內存在或不存在某人某物（強調存在狀態本身）。\n- 肯定範例：「檯面有兩本雜誌」（桌上有兩本雜誌）、「會議室入面有好多人」（會議室裡有很多人）。\n- 否定範例：「雪櫃冇晒鮮奶」（冰箱裡完全沒有牛奶了）、「街上冇半個行人」（街上沒有半個行人）。\n\n二、處所定位句範式（交代有定已知信息）：\n１．核心公式：【特定名詞實體 ＋ 「喺」 ＋ 處所名詞 （＋ 度）】。\n- 功能：名詞通常為已知、特定對象，強調該對象具體坐落於何處。\n- 範例：「你本護照喺抽屜入面」（你的護照在抽屜裡面）、「陳經理喺辦公室度」（陳經理在辦公室裡）。\n\n三、焦點與有定性（Definiteness Effect）對比：\n１．「雪櫃有鮮奶」：回答「雪櫃有咩？」（引介未知物品）。\n２．「鮮奶喺雪櫃」：回答「鮮奶喺邊度？」（定位已知物品）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 20 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 20 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 20 in communication."
+          "target": "客廳茶几上面有一套好精緻嘅紫砂茶具同幾盒鳳凰單叢茶葉。",
+          "reading": "haak3 teng1 caa4 gai1 soeng6 min6 jau5 jat1 tou3 hou2 zing1 zi3 ge3 zi2 saa1 caa4 geoi6 tung4 gei2 hap6 fung6 wong4 daan1 cung4 caa4 jip6. [haːk̚˧ tʰɛːŋ˥ tsʰaː˨˩ kɐi˥ sœːŋ˨ miːn˨ jɐu˩˧ jɐt̚˥ tʰou˧ hou˧˥ tsɪŋ˥ tsiː˧ kɛː˧ tsiː˧˥ saː˥ tsʰaː˨˩ kɵy˨ tʰʊŋ˨˩ kei˧˥ hɐp̚˨ fʊŋ˨ kuːŋ˨˩ taːn˥ tsʰʊŋ˨˩ tsʰaː˨˩ jiːp̚˨] (HAHK-TENG CHAH-GY SEUNG-MEEN YAU YUT-TOU HOH JING-JEE GEH JEE-SAH CHAH-GOEY TOONG GAY-HUP FOONG-WONG DAHN-CHOONG CHAH-YEEP)",
+          "translation": "On the living room coffee table there is a very exquisite purple clay tea set and several boxes of Fenghuang Dancong tea leaves."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元20-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "你問緊嗰份加急報關文件，依家正正喺總經理張辦公檯上面。",
+          "reading": "nei5 man6 gan2 go2 fan6 gaa1 gap1 bou3 gwaan1 man4 gin62, ji1 gaa1 zing3 zing3 hai2 zung2 ging1 lei5 zoeng1 baan6 gung1 toi4 soeng6 min6. [nei˩˧ mɐn˨ kɐn˧˥ kɔː˧˥ fɐn˨ kaː˥ kɐp̚˥ pou˧ kʷaːn˥ mɐn˨˩ kiːn˧˥, jiː˥ kaː˥ tsɪŋ˧ tsɪŋ˧ hɐi˩˧ tsʊŋ˧˥ kɪŋ˥ lei˩˧ tsœːŋ˥ paːn˨ kʊŋ˥ tʰɔːi˨˩ sœːŋ˨ miːn˨] (NEI MUN-GUN GOH-FUN GAH-GUP BOU-GWAHN MUN-GEEN, YEE-GAH JING-JING HY JOONG-GING-LY JEUNG BAHN-GONG-TOY SEUNG-MEEN)",
+          "translation": "The urgent customs declaration document you are asking about is right now on the general manager's office desk."
+        },
+        {
+          "target": "呢條偏僻鄉村入面冇任何便利店，買嘢要行去市鎮中心先得。",
+          "reading": "ni1 tiu4 pin1 pik1 hoeng1 cyun1 jap6 min6 mou5 jam6 ho4 bin6 lei6 dim3, maai5 je5 jiu3 haang4 heoi3 si5 zan3 zung1 sam1 sin1 dak1. [niː˥ tʰiːu˨˩ pʰiːn˥ pʰɪk̚˥ hœːŋ˥ tsʰyːn˥ jɐp̚˨ miːn˨ mou˩˧ jɐm˨ hɔː˨˩ piːn˨ lei˨ tiːm˧, maːi˩˧ jɛː˩˧ jiu˧ haːŋ˨˩ hɵy˧ siː˩˧ tsɐn˧ tsʊŋ˥ sɐm˥ siːn˥ tɐk̚˥] (NEE-TEW PEEN-PIK HEUNG-CHUEN YUP-MEEN MOU YUM-HOH BEEN-LEY-DEEM, MY-YEH YEW HAHNG-HOEY SEE-JUN JOONG-SUM SEEN DUK)",
+          "translation": "There are no convenience stores in this remote rural village; to buy goods one must walk all the way to the town center."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【存在定位歌】引介新物「處所有」，交代位置「實體喺」；處所冇物用個「冇」，存在定位分得明！"
+      ],
+      "culturalNotes": [
+        "廣東人對「有」與「冇」之存在哲學極為敏感。在商業經營中，「門市有貨」代表充沛財氣，而「冇」字在逢年過節時常以吉利代稱避忌（如通勝避諱『輸』字）。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"妹妹\":",
+          "prompt": "【存在句構造】欲向客人介紹「會議室裡面有十張旋轉椅」，標準粵語存在句句式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：阿爺錯置）",
-            "混雜生硬詞彙之不規範語句（例項：阿嫲未適配）",
-            "聲調助詞搭配欠妥之表達（例項：親戚誤用）"
+            "會議室入面有十張旋轉椅。 (There are 10 swivel chairs in the meeting room.)",
+            "十張旋轉椅喺會議室入面有。",
+            "有十張旋轉椅喺會議室入面度。",
+            "會議室入面喺十張旋轉椅。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "存在句標準句序為【處所 ＋ 有 ＋ 數量名詞】（會議室入面有……）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"妹妹\":",
+          "prompt": "【處所定位】回答「我部手機去咗邊？」，指出「你的手機在沙發上面」，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：阿嫲未適配）",
-            "聲調助詞搭配欠妥之表達（例項：親戚誤用）",
-            "語序顛倒嘅非標準句式（例項：阿爺錯置）"
+            "你部手機喺梳化上面。 (Your mobile is on the sofa.)",
+            "梳化上面有你部手機。",
+            "你部手機有梳化上面。",
+            "梳化上面喺你部手機。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "交代已知特定物品之具體坐標，使用處所定位句【名詞 ＋ 喺 ＋ 處所】。"
         }
       ]
     },
@@ -8329,15 +8338,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"妹妹\": Which sentence is completely correct?",
+          "prompt": "【語法辨析】句子「雪櫃入面冇晒雞蛋」中，「冇」之主要語法功能係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：親戚誤用）",
-            "語序顛倒嘅非標準句式（例項：阿爺錯置）",
-            "混雜生硬詞彙之不規範語句（例項：阿嫲未適配）"
+            "存在句否定標記，表示某空間內不存在某實體 (Negative Existential Marker)",
+            "動態進行體標記",
+            "被動態引介詞",
+            "比較級介詞"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「冇」在存在句中作為否定核心謂語，表示處所內目標物之缺失。"
         }
       ],
       "passThreshold": 0.8
@@ -8348,53 +8357,62 @@
     "subject": "cantonese",
     "unit": 20,
     "lessonNumber": 2,
-    "title": "存在句同空間描寫 (Existential Sentences) (第2課)",
+    "title": "動詞持續態存在句：「處所 + 擺住 / 掛住 / 坐住 / 企住」 (Durative Existential Complements)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元20第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語靜態存現持續句「處所 + 動詞 + 住（持續體） + 實體」之空間狀態描摹機制與姿勢/放置動詞精確搭配。",
     "presentation": {
-      "explanation": "",
+      "explanation": "靜態存現句用以描寫某個處所持續呈現某種空間擺設、人物姿態或物體附著狀態：\n\n一、動態存現持續句核心公式：\n１．公式：【處所名詞 ＋ 動詞 ＋ 「住」（持續體） ＋ 存在實體】。\n- 語法特徵：動詞附加體助詞「住」（zyu6），表示動作完成後所留下之靜態延續與空間陳列。\n\n二、四大空間存現動詞家族：\n１．懸掛與附著類：\n- 「掛住」（kwaa3 zyu6）：牆上面掛住一幅水墨山水畫。\n- 「貼住」（tip3 zyu6）：門口貼住一張紅色揮春。\n２．擺放與陳列類：\n- 「擺住」（baai2 zyu6）：客廳擺住一張實木長餐檯。\n- 「放住」（fong3 zyu6）：書架放住幾排厚厚嘅英文工具書。\n３．人體姿態停留類：\n- 「企住」（kei5 zyu6）：大門兩邊企住兩名威嚴嘅儀仗隊員。\n- 「坐住」（co5 zyu6）：長凳上面坐住幾位傾緊偈嘅長者。\n４．生長與種植類：\n- 「種住」（zung3 zyu6）：天台花園種住好多新鮮薄荷葉同迷迭香。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 20 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 20 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 20 in communication."
+          "target": "客廳正中間嘅主牆上面，端端正正噉掛住一幅嶺南畫派名家嘅荔枝畫。",
+          "reading": "haak3 teng1 zing3 zung1 gaan1 ge3 zyu2 coeng4 soeng6 min6, dyun1 dyun1 zing3 zing3 gam2 kwaa3 zyu6 jat1 fuk1 ling5 naam4 waa2*4 paai3 ming4 gaa1 ge3 lai6 zi1 waa2*4. [haːk̚˧ tʰɛːŋ˥ tsɪŋ˧ tsʊŋ˥ kaːn˥ kɛː˧ tsyː˧˥ tsʰœːŋ˨˩ sœːŋ˨ miːn˨, tyːn˥ tyːn˥ tsɪŋ˧ tsɪŋ˧ kɐm˧˥ kʷaː˧ tsyː˨ jɐt̚˥ fʊk̚˥ lɪŋ˩˧ naːm˨˩ waː˧˥ pʰaːi˧ mɪŋ˨˩ kaː˥ kɛː˧ lɐi˨ tsiː˥ waː˧˥] (HAHK-TENG JING-JOONG-GAHN GEH JYUE-CHEUNG SEUNG-MEEN, DUEN-DUEN-JING-JING GUM KWAH-JYE YUT-FOOK LING-NAHM-WAH-PY MING-GAH GEH LY-JEE-WAH)",
+          "translation": "On the main wall right in the center of the living room, there hangs properly a lychee painting by a famous master of the Lingnan School."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元20-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "公司接待處門口企住兩個著深藍色西裝嘅保安員，負責登記訪客資料。",
+          "reading": "gung1 si1 zip3 doi6 cyu3 mun4 hau2 kei5 zyu6 loeng5 go3 zoek3 sam1 laam4 sik1 sai1 zong1 ge3 bou2 on1 jyun4, fu6 zaak3 dang1 gei3 fong2 haak3 zi1 liu6*2. [kʊŋ˥ siː˥ tsip̚˧ tɔːi˨ tsʰyː˧ muːn˨˩ hɐu˧˥ kʰei˩˧ tsyː˨ lœːŋ˩˧ kɔː˧ tsœːk̚˧ sɐm˥ laːm˨˩ sɪk̚˥ sɐi˥ tsɔːŋ˥ kɛː˧ pou˧˥ ɔːn˥ jyːn˨˩, fu˨ tsaːk̚˧ tɐŋ˥ kei˧ fɔːŋ˧˥ haːk̚˧ tsiː˥ liu˨] (GONG-SEE JIP-DOY-CHY MOON-HAU KEY-JYE LEUNG-GOH JERK SUM-LAHM-SIK SY-JONG GEH BOU-ON-YUEN, FOO-JARK DUNG-GAY FONG-HAHK JEE-LEW)",
+          "translation": "At the entrance of the company reception area stand two security guards wearing dark blue suits, responsible for registering visitor details."
+        },
+        {
+          "target": "陽台花架上面整齊噉擺住十幾盆生長得好茂盛嘅綠色多肉植物。",
+          "reading": "joeng4 toi4 faa1 gaa2*4 soeng6 min6 zing2 cai4 gam2 baai2 zyu6 sap6 gei2 pun4 sang1 zoeng2 dak1 hou2 mau6 sing6 ge3 luk6 sik1 do1 juk6 zik6 mat6. [jœːŋ˨˩ tʰɔːi˨˩ faː˥ kaː˧˥ sœːŋ˨ miːn˨ tsɪŋ˧˥ tsʰɐi˨˩ kɐm˧˥ paːi˧˥ tsyː˨ sɐp̚˨ kei˧˥ pʰuːn˨˩ sɐŋ˥ tsœːŋ˧˥ tɐk̚˥ hou˧˥ mɐu˨ sɪŋ˨ kɛː˧ lʊk̚˨ sɪk̚˥ tɔː˥ jʊk̚˨ tsɪk̚˨ mɐt̚˨] (YEUNG-TOY FAH-GAH SEUNG-MEEN JING-CHY GUM BAAI-JYE SUP-GAY-POON SUNG-JEUNG DUK HOH MAU-SING GEH LOOK-SIK DOH-YOOK JIK-MUT)",
+          "translation": "On the balcony flower rack are neatly arranged more than ten pots of lush green succulent plants."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【靜態存現訣】牆上「掛住」名家畫，門口「企住」保安員；桌上「擺住」精緻物，空間狀態描寫全！"
+      ],
+      "culturalNotes": [
+        "持續體「住」（zyu6）賦予空間描寫強烈之畫面凝固感與靜態美。在傳統嶺南大宅（如西關大屋、圍村宗祠）中，「神龕擺住祖先牌位、樑上掛住八卦鏡」係極為典型之空間文化意象。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"阿爺\":",
+          "prompt": "【空間存現句】欲描寫「會議室牆上掛著一張世界地圖」，最地道之粵語存現句係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：阿嫲錯置）",
-            "混雜生硬詞彙之不規範語句（例項：親戚未適配）",
-            "聲調助詞搭配欠妥之表達（例項：朋友誤用）"
+            "會議室牆上面掛住一張世界地圖。 (On the wall hangs a world map.)",
+            "會議室牆上面掛緊一張世界地圖。",
+            "會議室牆上面掛咗一張世界地圖晒。",
+            "一張世界地圖掛住會議室牆上面。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "靜態存現持續句公式為【處所 ＋ 動詞 ＋ 住 ＋ 實體】（牆上面掛住……）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"阿爺\":",
+          "prompt": "【姿態存現】描寫「大門兩旁站著兩位接待員」，應選用之姿態動詞短語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：親戚未適配）",
-            "聲調助詞搭配欠妥之表達（例項：朋友誤用）",
-            "語序顛倒嘅非標準句式（例項：阿嫲錯置）"
+            "企住兩位接待員 (kei5 zyu6 loeng5 wai62 / Two receptionists standing)",
+            "坐住兩位接待員",
+            "擺住兩位接待員",
+            "掛住兩位接待員"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "人物站立姿態在粵語中專用動詞「企」（企住）。"
         }
       ]
     },
@@ -8402,15 +8420,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"阿爺\": Which sentence is completely correct?",
+          "prompt": "【語態對比】「掛住」（kwaa3 zyu6）與「掛緊」（kwaa3 gan2）在空間描寫中之核心語法差別係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：朋友誤用）",
-            "語序顛倒嘅非標準句式（例項：阿嫲錯置）",
-            "混雜生硬詞彙之不規範語句（例項：親戚未適配）"
+            "「掛住」表示物體靜態懸掛之持續狀態，「掛緊」表示正在進行懸掛之動態過程",
+            "「掛住」表示動作已經失敗，「掛緊」表示動作順利完成",
+            "「掛住」只能用於人體，「掛緊」只能用於建築物",
+            "兩者在語法與語義上完全等同無差別"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「住」標註狀態之靜態延續（存現態），「緊」標註動作正處於進行過程中（進行態）。"
         }
       ],
       "passThreshold": 0.8
@@ -8421,53 +8439,62 @@
     "subject": "cantonese",
     "unit": 20,
     "lessonNumber": 3,
-    "title": "存在句同空間描寫 (Existential Sentences) (第3課)",
+    "title": "嶺南特色空間方位詞與指代標記：「……度」、「……邊」、「……面」 (Spatial Localizers & Clitics)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元20第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語專屬處所化名詞詞綴「度（代詞/人稱處所化）」、方位標記「邊（側向朝向）」與邊界名詞「面（內部/表面）」之幾何拓撲體系。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語之空間方位詞系統具備嚴密之形態標記功能，其中「度」、「邊」、「面」在拓撲語義上有清晰分工：\n\n一、「度」（dou6）：代詞與人稱處所化黏著後綴：\n１．代詞處所化：在指示代詞後加上「度」構成處所副詞：\n- 「呢度」（ni1 dou6）：這裡、此處。\n- 「嗰度」（go2 dou6）：那裡、彼處。\n- 「邊度」（bin1 dou6）：哪裡、何處（疑問）。\n２．人稱處所化：人稱代詞或名詞後加「度」，表示「在某人身邊/某人處/某人家裡」：\n- 「喺我度」（在我這裡/由我保管）。\n- 「喺陳生度」（在陳先生那裡）。\n\n二、「邊」（bin1）：側向朝向與橫向維度標記：\n１．左右側向：「左手邊」（左側）、「右手邊」（右側）。\n２．前後方位：「前邊 / переди」（前面）、「後邊」（後面）。\n３．遠近朝向：「呢邊」（這邊）、「嗰邊」（那邊）、「邊一邊」（哪一邊）。\n\n三、「面」（min6）：表面、邊界與立體包容度標記：\n１．立體包容：「入面」（裡面、內部） vs 「外面」（外面、外部）。\n２．垂直上下：「上面」（上方、頂部） vs 「下面」（下方、底部）。\n３．相對朝向：「對面」（正對面） vs 「斜對面」（斜角正對面）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 20 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 20 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 20 in communication."
+          "target": "你唔使四圍周圍搵喇，份合約正正擺喺我度，我依家攞畀你。",
+          "reading": "nei5 m4 sai2 sei3 wai4 zau1 wai4 wan2 laa3, fan6 hap6 joek3 zing3 zing3 baai2 hai2 ngo5 dou6, ngo5 ji1 gaa1 lo2 bei2 nei5. [nei˩˧ m̩˨˩ sɐi˧˥ sei˧ wɐi˨˩ tsɐu˥ wɐi˨˩ wɐn˧˥ laː˧, fɐn˨ hɐp̚˨ jœːk̚˧ tsɪŋ˧ tsɪŋ˧ paːi˧˥ hɐi˩˧ ŋɔː˩˧ tou˨, ŋɔː˩˧ jiː˥ kaː˥ lɔː˧˥ pei˨ nei˩˧] (NEI M-SY SAY-WY JAU-WY WUN LAH, FUN HUP-YERK JING-JING BAAI HY NGOH DOU, NGOH YEE-GAH LOH BAY NEI)",
+          "translation": "You don't need to look all around; the contract is right with me, and I will get it for you right now."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元20-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "地鐵站出口右手邊有一間廿四小時營業嘅便利店同埋兩部自動櫃員機。",
+          "reading": "dei6 tit3 zaam6 ceot1 hau2 jau6 sau2 bin1 jau5 jat1 gaan1 jaa6 sei3 siu2 si4 jing4 jip6 ge3 bin6 lei6 dim3 tung4 maai4 loeng5 bou6 zi6 dung6 gwai6 jyun4 gei1. [tei˨ tʰiːt̚˧ tsaːm˨ tsʰɵt̚˥ hɐu˧˥ jɐu˨ sɐu˧˥ piːn˥ jɐu˩˧ jɐt̚˥ kaːn˥ jaː˨ sei˧ siu˧˥ siː˨˩ jɪŋ˨˩ jiːp̚˨ kɛː˧ piːn˨ lei˨ tiːm˧ tʰʊŋ˨˩ maːi˨˩ lœːŋ˩˧ pou˨ tsiː˨ tʊŋ˨ kʷɐi˨ jyːn˨˩ kei˥] (DAY-TEET JAHM CHUT-HAU YAU-SAU-BEEN YAU YUT-GAHN YAH-SAY SIU-SEE YING-YIP GEH BEEN-LEY-DEEM TOONG-MY LEUNG-BOU JEE-DOONG GWY-YUEN-GAY)",
+          "translation": "On the right-hand side of the subway station exit there is a 24-hour convenience store and two ATMs."
+        },
+        {
+          "target": "大廈停車場入面好陰暗，記得開大燈行慢少少以策安全。",
+          "reading": "daai6 haa6 ting4 ce1 coeng4 jap6 min6 hou2 jam1 am3, gei3 dak1 hoi1 daai6 dang1 haang4 maan6 siu2 siu2 ji5 caak3 on1 cyun4. [taːi˨ haː˨ tʰɪŋ˨˩ tsʰɛː˥ tsʰœːŋ˨˩ jɐp̚˨ miːn˨ hou˧˥ jɐm˥ ɐm˧, kei˧ tɐk̚˥ hɔːi˥ taːi˨ tɐŋ˥ haːŋ˨˩ maːn˨ siu˧˥ siu˧˥ jiː˩˧ tsʰaːk̚˧ ɔːn˥ tsʰyːn˨˩] (DY-HAH TING-CHEH-CHEUNG YUP-MEEN HOH YUM-UM, GAY-DUK HOI DY-DUNG HAHNG MAHN SIU-SIU YEE-CHAHK ON-CHUEN)",
+          "translation": "Inside the building parking lot is very dim; remember to turn on your headlights and drive a little slower for safety."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【處所詞綴訣】人稱代詞加「度」字，喺我度同喺嗰度；左右側向用「邊」字，內外立體用「面」字！"
+      ],
+      "culturalNotes": [
+        "「喺我度」（在我這裡）係粵語人際交流中極高頻之句式，精準表示實物或責任當前在某人保管之下。這種透過「度」將人物處所化之語法特性，極具嶺南語言精巧性。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"阿嫲\":",
+          "prompt": "【人稱處所化】欲向同事表示「那份重要文件由我保管、在我這裡」，最地道粵語表達係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：親戚錯置）",
-            "混雜生硬詞彙之不規範語句（例項：朋友未適配）",
-            "聲調助詞搭配欠妥之表達（例項：今日誤用）"
+            "份文件喺我度。 (fan6 man4 gin62 hai2 ngo5 dou6 / The document is with me.)",
+            "份文件喺我邊。",
+            "份文件喺我面。",
+            "份文件喺我處。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "人稱代詞後加「度」（喺我度）表示在某人處/由某人保管。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"阿嫲\":",
+          "prompt": "【方位指向】指示方向「向右側看、在右手側」，應選用之方位短語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：朋友未適配）",
-            "聲調助詞搭配欠妥之表達（例項：今日誤用）",
-            "語序顛倒嘅非標準句式（例項：親戚錯置）"
+            "右手邊 (jau6 sau2 bin1 / Right-hand side)",
+            "右手度",
+            "右手面",
+            "右手處"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "左右側向維度專用標記「邊」（右手邊、左手邊）。"
         }
       ]
     },
@@ -8475,15 +8502,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"阿嫲\": Which sentence is completely correct?",
+          "prompt": "【拓撲辨析】指示代詞「邊度」（bin1 dou6）在粵語中之標準語法语義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：今日誤用）",
-            "語序顛倒嘅非標準句式（例項：親戚錯置）",
-            "混雜生硬詞彙之不規範語句（例項：朋友未適配）"
+            "何處、哪裡（處所疑問代詞） (Where / What place)",
+            "什麼時候（時間疑問代詞）",
+            "為什麼（原因疑問代詞）",
+            "多少錢（價格疑問代詞）"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「邊度」為粵語標準處所疑問詞，相當於「哪裡/何處」。"
         }
       ],
       "passThreshold": 0.8
@@ -8494,53 +8521,62 @@
     "subject": "cantonese",
     "unit": 20,
     "lessonNumber": 4,
-    "title": "存在句同空間描寫 (Existential Sentences) (第4課)",
+    "title": "微觀與宏觀城市空間拓撲描寫：「隔離」、「對面」、「轉角位」、「斜對面」 (Urban Spatial Topology)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元20第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港高密度立體街區拓撲方位詞（隔離/斜對面/轉角位/天橋底/後巷）在城市尋路與商圈定位中之精確語用語境。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港作為高密度立體縱深都市，孕育出一套極為精確且生動之城市微觀空間拓撲定位詞彙：\n\n一、街區相鄰與對向空間拓撲：\n１．「隔離」（gaak3 lei4）：緊密相鄰、一牆之隔、左右隔壁。\n- 「隔離鄰舍」（左右鄰居）、「隔離舖頭」（隔壁商店）、「坐喺我隔離」（坐在我旁邊）。\n２．「對面」（deoi3 min6）：隔街相望、正對面。\n- 「馬路對面」（馬路正對面）、「對面海」（維港對岸）。\n３．「斜對面」（ce4 deoi3 min6）：非正對、呈斜角對向。\n- 「地鐵站斜對面間藥房」（地鐵站斜對角的那家藥店）。\n\n二、街角與立體建築空間節點：\n１．「轉角位 / 街角」（zyun3 gok3 wai6*2）：街道轉彎處、十字路口拐角。\n- 「轉角位間便利店」（拐角處的便利店）。\n２．「天橋底」（tin1 kiu4 dai2）：行人或行車天橋下方空間（如銅鑼灣打小人文化空間）。\n３．「後巷」（hau6 hong6*2）：建築物背後之後街小巷。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 20 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 20 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 20 in communication."
+          "target": "你過咗十字路口之後，轉角位間茶餐廳隔離就係我哋公司嘅正門。",
+          "reading": "nei5 gwo3 zo2 sap6 zi6 lou6 hau2 zi1 hau6, zyun3 gok3 wai6*2 gaan1 caa4 caan1 teng1 gaak3 lei4 zau6 hai6 ngo5 dei6 gung1 si1 ge3 zing3 mun4. [nei˩˧ kʷɔː˧ tsɔː˧˥ sɐp̚˨ tsiː˨ lou˨ hɐu˧˥ tsiː˥ hɐu˨, tsyn˧ kɔːk̚˧ wɐi˧˥ kaːn˥ tsʰaː˨˩ tsʰaːn˥ tʰɛːŋ˥ kaːk̚˧ lei˨˩ tsɐu˨ hɐi˨ ŋɔː˩˧ tei˨ kʊŋ˥ siː˥ kɛː˧ tsɪŋ˧ muːn˨˩] (NEI GWOR-JOR SUP-JEE-LOU-HAU JEE-HAU, JUEN-GOK-WY GAHN CHAH-CHAAN-TENG GARK-LEY JAU HY NGOH-DAY GONG-SEE GEH JING-MOON)",
+          "translation": "After you cross the intersection, right next to the cha chaan teng at the street corner is our company's main entrance."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元20-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "匯豐銀行總行大廈斜對面，就係歷史悠久嘅終審法院大樓。",
+          "reading": "wui6 fung1 ngan4 hong4 zung2 hong4 daai6 haa6 ce4 deoi3 min6, zau6 hai6 lik6 si2 jau4 gau2 ge3 zung1 sam2 faat3 jyun4*2 daai6 lau4. [wuːi˨ fʊŋ˥ ŋɐn˨˩ hɔːŋ˨˩ tsʊŋ˧˥ hɔːŋ˨˩ taːi˨ haː˨ tsʰɛː˩˧ tɵy˧ miːn˨, tsɐu˨ hɐi˨ lɪk̚˨ siː˧˥ jɐu˨˩ kɐu˧˥ kɛː˧ tsʊŋ˥ sɐm˧˥ faːt̚˧ jyːn˧˥ taːi˨ lɐu˨˩] (WUI-FOONG NGAHN-HONG JOONG-HONG DY-HAH CHEH-DEOY-MEEN, JAU HY LIK-SEE YAU-GAU GEH JOONG-SUM FAHT-YUEN DY-LAU)",
+          "translation": "Diagonally opposite the HSBC Main Building is the historic Court of Final Appeal Building."
+        },
+        {
+          "target": "每逢驚蟄，銅鑼灣鵝頸橋天橋底都會坐滿幫街坊打小人嘅阿婆。",
+          "reading": "mui5 fung4 ging1 zat6, tung4 lo4 waan1 ngo4 geng2 kiu4 tin1 kiu4 dai2 dou1 wui5 co5 mun5 bong1 gaai1 fong1 daa2 siu2 jan4 ge3 aa3 po4*2. [muːi˩˧ fʊŋ˨˩ kɪŋ˥ tsɐk̚˨, tʰʊŋ˨˩ lɔː˨˩ waːn˥ ŋɔː˨˩ kɛːŋ˧˥ kʰiːu˨˩ tʰiːn˥ kʰiːu˨˩ tɐi˧˥ tou˥ wui˩˧ tsʰɔː˩˧ muːn˩˧ pɔːŋ˥ kaːi˥ fɔːŋ˥ taː˧˥ siu˧˥ jɐn˨˩ kɛː˧ aː˧ pʰɔː˧˥] (MOOY-FOONG GING-JUK, TOONG-LOH-WAHN NGOH-GENG-KEW TEEN-KEW-DY DOH WUI CHOH-MOON BONG GY-FONG DY-SIU-YUN GEH AH-POH)",
+          "translation": "Every Jingzhe festival, under the Canal Road flyover in Causeway Bay will be full of elderly women 'beating petty persons' for neighbors."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【城市拓撲歌】緊貼相鄰叫「隔離」，正對馬路講「對面」；拐彎抹角「轉角位」，斜角相望「斜對面」！"
+      ],
+      "culturalNotes": [
+        "「隔離」（隔壁）體現出香港高密度鄰里之緊湊感。而鵝頸橋「天橋底打小人」更被列入香港非物質文化遺產，展示出城市立體空間與民俗信仰之交融。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"親戚\":",
+          "prompt": "【相鄰關係】在香港街頭指引「隔壁那家店舖」，最地道之拓撲方位詞係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：朋友錯置）",
-            "混雜生硬詞彙之不規範語句（例項：今日未適配）",
-            "聲調助詞搭配欠妥之表達（例項：琴日誤用）"
+            "隔離舖頭 (gaak3 lei4 pou3 tau4*2 / Next-door shop)",
+            "對面舖頭",
+            "斜對面舖頭",
+            "天橋底舖頭"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「隔離」（gaak3 lei4）專門表示相鄰、隔壁。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"親戚\":",
+          "prompt": "【拐角拓撲】形容商店坐落於「街道轉角拐彎處」，標準名詞短語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：今日未適配）",
-            "聲調助詞搭配欠妥之表達（例項：琴日誤用）",
-            "語序顛倒嘅非標準句式（例項：朋友錯置）"
+            "轉角位 (zyun3 gok3 wai6*2 / Street corner / Turning corner)",
+            "天橋底",
+            "後巷位",
+            "對面海"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「轉角位」表示道路轉折拐角處之位置。"
         }
       ]
     },
@@ -8548,15 +8584,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"親戚\": Which sentence is completely correct?",
+          "prompt": "【空間幾何】建築物Ａ與建築物Ｂ位於十字路口之對角線兩側，彼此之空間拓撲關係係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：琴日誤用）",
-            "語序顛倒嘅非標準句式（例項：朋友錯置）",
-            "混雜生硬詞彙之不規範語句（例項：今日未適配）"
+            "斜對面 (ce4 deoi3 min6 / Diagonally opposite)",
+            "隔離",
+            "正對面",
+            "天橋底"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "十字路口斜對角位置在粵語中嚴格稱為「斜對面」（ce4 deoi3 min6）。"
         }
       ],
       "passThreshold": 0.8
@@ -8567,53 +8603,62 @@
     "subject": "cantonese",
     "unit": 20,
     "lessonNumber": 5,
-    "title": "存在句同空間描寫 (Existential Sentences) (第5課)",
+    "title": "複雜空間指引與路線拓撲綜合實戰：從室內導覽到街區尋路 (Route Navigation Mastery)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元20第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "綜合運用存在句、處所方位詞（度/邊/面）、拓撲地標與趨向動詞進行高階室內商場導覽與複雜街區路線指引。",
     "presentation": {
-      "explanation": "",
+      "explanation": "路線指引（Wayfinding）係空間語法、趨向補語與方位名詞之最高綜合實戰應用：\n\n一、街區立體尋路四大語法步驟：\n１．出發點與動作指令：【由/喺 ＋ 起點 ＋ 動詞 ＋ 趨向補語】（如「由地鐵站Ａ出口行出嚟」）。\n２．直線位移與路標參照：【一路直行 ＋ 經過/過咗 ＋ 地標】（如「一路直行，過咗兩個街口」）。\n３．方向轉折指令：【喺 ＋ 地標 ＋ 轉左 / 轉右】（如「喺交通燈位轉左」）。\n４．終點定位交代：【終點 ＋ 就喺你 ＋ 左手邊/右手邊】（如「圖書館就喺你右手邊」）。\n\n二、大型室內商場立體導覽公式：\n１．垂直樓層轉換：【搭扶手電梯 / 搭升降機 ＋ 上 / 落 ＋ 樓層】。\n- 例如：「搭扶手電梯上一樓」（搭手扶梯上一樓）。\n２．中庭與走廊穿梭：【行過 ＋ 中庭 / 走廊】。\n- 例如：「穿過中庭，客服中心就喺斜對面」。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 20 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 20 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 20 in communication."
+          "target": "你由中環站Ｄ出口行出嚟之後一路直行，過咗皇后大道中轉右，大館就喺你左手邊。",
+          "reading": "nei5 jau4 zung1 waan4 zaam6 D ceot1 hau2 haang4 ceot1 lai4 zi1 hau6 jat1 lou6 zik6 haang4, gwo3 zo2 wong4 hau6 daai6 dou6 zung1 zyun3 jau6, daai6 gun2 zau6 hai2 nei5 zo2 sau2 bin1. [nei˩˧ jɐu˨˩ tsʊŋ˥ waːn˨˩ tsaːm˨ tiː˥ tsʰɵt̚˥ hɐu˧˥ haːŋ˨˩ tsʰɵt̚˥ lɐi˨˩ tsiː˥ hɐu˨ jɐt̚˥ lou˨ tsɪk̚˨ haːŋ˨˩, kʷɔː˧ tsɔː˧˥ wɔːŋ˨˩ hɐu˨ taːi˨ tou˨ tsʊŋ˥ tsyn˧ jɐu˨, taːi˨ kuːn˧˥ tsɐu˨ hɐi˩˧ nei˩˧ tsɔː˧˥ sɐu˧˥ piːn˥] (NEI YAU JOONG-WAHN JAHM D CHUT-HAU HAHNG-CHUT-LY JEE-HAU YUT-LOU JIK-HAHNG, GWOR-JOR WONG-HAU DY-DOU-JOONG JUEN-YAU, DY-GOON JAU HY NEI JOH-SAU-BEEN)",
+          "translation": "After you walk out from Central Station Exit D, walk straight ahead all the way; after passing Queen's Road Central turn right, and Tai Kwun will be on your left-hand side."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元20-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "行入商場大堂搭扶手電梯上三樓，行過中間個圓形中庭，戲院就喺斜對面。",
+          "reading": "haang4 jap6 soeng1 coeng4 daai6 tong4 daap3 fu4 sau2 din6 tai1 soeng5 saam1 lau4, haang4 gwo3 zung1 gaan1 go3 jyun4 jing4 zung1 ting4, hei3 jyun4*2 zau6 hai2 ce4 deoi3 min6. [haːŋ˨˩ jɐp̚˨ sœːŋ˥ tsʰœːŋ˨˩ taːi˨ tʰɔːŋ˨˩ taːp̚˧ fuː˨˩ sɐu˧˥ tiːn˨ tʰɐi˥ sœːŋ˩˧ saːm˥ lɐu˨˩, haːŋ˨˩ kʷɔː˧ tsʊŋ˥ kaːn˥ kɔː˧ jyːn˨˩ jɪŋ˨˩ tsʊŋ˥ tʰɪŋ˨˩, hei˧ jyːn˧˥ tsɐu˨ hɐi˩˧ tsʰɛː˩˧ tɵy˧ miːn˨] (HAHNG-YUP SEUNG-CHEUNG DY-TONG DAHP FOO-SAU-DEEN-TY SEUNG SAHM-LAU, HAHNG-GWOR JOONG-GAHN GOH YUEN-YING JOONG-TING, HEY-YUEN JAU HY CHEH-DEOY-MEEN)",
+          "translation": "Walk into the shopping mall lobby, take the escalator up to the 3rd floor, walk past the round atrium in the middle, and the cinema is diagonally opposite."
+        },
+        {
+          "target": "如果您喺呢度直行到海旁轉左，沿住星光大道一路行，就可以睇到成個維港夜景。",
+          "reading": "jyu4 gwo2 nei5 hai2 ni1 dou6 zik6 haang4 dou3 hoi2 pong4 zyun3 zo2, jyun4 zyu6 sing1 gwong1 daai6 dou6 jat1 lou6 haang4, zau6 ho2 ji5 tai2 dou2 seng4 go3 wai4 gong2 je6 ging2. [jyː˨˩ kʷɔː˧˥ nei˩˧ hɐi˩˧ niː˥ tou˨ tsɪk̚˨ haːŋ˨˩ tou˧ hɔːi˧˥ pʰɔːŋ˨˩ tsyn˧ tsɔː˧˥, jyːn˨˩ tsyː˨ sɪŋ˥ kʷɔːŋ˥ taːi˨ tou˨ jɐt̚˥ lou˨ haːŋ˨˩, tsɐu˨ hɔː˧˥ jiː˩˧ tʰɐi˧˥ tou˧˥ sɛːŋ˨˩ kɔː˧ wɐi˨˩ kɔːŋ˧˥ jɛː˨ kɪŋ˧˥] (YUE-GWOR NEI HY NEE-DOU JIK-HAHNG DOU HOY-PONG JUEN-JOH, YUEN-JYE SING-GWONG-DY-DOU YUT-LOU HAHNG, JAU HOH-YEE TY-DOU SENG-GOH WY-GONG YEH-GING)",
+          "translation": "If you walk straight from here to the seafront and turn left, walking all along the Avenue of Stars, you will be able to see the entire Victoria Harbour night view."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【尋路四步曲】由起點行出嚟，一路直行過街口；轉左轉右睇地標，左右兩邊見目標！"
+      ],
+      "culturalNotes": [
+        "香港街區立體天橋網絡（如中區行人天橋系統、旺角行人天橋系統）極為發達，因此粵語指路常結合「上一層天橋」、「落地下」等立體維度，體現出三維立體尋路之都市特點。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"朋友\":",
+          "prompt": "【路線指引】指引「走出手鐵站出口後一直往前走」，地道粵語語句係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：今日錯置）",
-            "混雜生硬詞彙之不規範語句（例項：琴日未適配）",
-            "聲調助詞搭配欠妥之表達（例項：聽日誤用）"
+            "行出地鐵站出口之後一路直行。 (haang4 ceot1 ... jat1 lou6 zik6 haang4)",
+            "行入地鐵站出口之後一路轉左。",
+            "行過地鐵站出口之後一路坐低。",
+            "行落地鐵站出口之後一路停低。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「行出……之後一路直行」為標準出發直線位移引導句式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"朋友\":",
+          "prompt": "【室內樓層轉換】在大型商場引導顧客「乘搭手扶電梯上二樓」，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：琴日未適配）",
-            "聲調助詞搭配欠妥之表達（例項：聽日誤用）",
-            "語序顛倒嘅非標準句式（例項：今日錯置）"
+            "搭扶手電梯上二樓 (daap3 fu4 sau2 din6 tai1 soeng5 ji6 lau4)",
+            "搭扶手電梯落二樓",
+            "搭扶手電梯出二樓",
+            "搭扶手電梯入二樓"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "由低層前往高層，使用趨向動詞「上」（上一樓、上二樓）。"
         }
       ]
     },
@@ -8621,15 +8666,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"朋友\": Which sentence is completely correct?",
+          "prompt": "【綜合指引】句子「過咗交通燈位轉右，診所就喺你右手邊」，其中各成分之指引邏輯為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：聽日誤用）",
-            "語序顛倒嘅非標準句式（例項：今日錯置）",
-            "混雜生硬詞彙之不規範語句（例項：琴日未適配）"
+            "地標參照（交通燈位）＋ 動作轉向（轉右）＋ 終點方位定位（右手邊）",
+            "時間判斷 ＋ 速度限制 ＋ 費用計算",
+            "人物介紹 ＋ 年齡說明 ＋ 職業交代",
+            "菜單推薦 ＋ 價格說明 ＋ 口味評估"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "該句完整展示了路標參照、方向轉折與目標終點坐標之完整導覽結構。"
         }
       ],
       "passThreshold": 0.8
