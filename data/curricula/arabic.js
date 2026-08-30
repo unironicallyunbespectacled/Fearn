@@ -18520,85 +18520,89 @@
     "subject": "arabic",
     "unit": 31,
     "lessonNumber": 1,
-    "title": "البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric) (الدرس 1)",
+    "title": "علم البيان: أسرار التشبيه والمجاز والاستعارة والكناية (Ilm al-Bayan: Simile, Metaphor & Metonymy)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: علوم البلاغة الثلاثة: التشبيه والمجاز والاستعارة والكناية، وأسرار الفصاحة والإعجاز. (الجزء 1).",
+    "objective": "إتقan أسرار علم البيان العربي: أنواع التشبيه (البليغ والتمثيلي والضمني)، الاستعارة المكنية والتصريحية، الكناية وسر بلاغتها، والمجاز المرسل وعلاقاته الدقيقة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يُعد «عِلْمُ البَيَانِ» ركيزة التصوير الفني في البلاغة العربية، وهو إيراد المعنى الواحد بطرق مختلفة في وضوح الدلالة عليه:\n\nأولاً: أسرار التشبيه (Simile & Analogy):\n- **أركان التشبيه**: المُشَبَّهُ، المُشَبَّهُ بِهِ (طرفا التشبيه)، أَدَاةُ التَّشْبِيهِ، وَوَجْهُ الشَّبَهِ.\n- **التَّشْبِيهُ البَلِيغُ**: ما حُذفت منه الأداة ووجه الشبه (مثل: «العِلْمُ نُورٌ»).\n- **التَّشْبِيهُ التَّمْثِيلِيُّ**: تشبيه صورة مركبة بصورة مركبة منتزعة من متعدد (مثل: «كَأَنَّ سَوَادَ اللَّيْلِ وَالفَجْرُ ضَاحِكٌ... مَنَارٌ مَشَى فِيهِ لِسَانُ شَرَارِ»).\n- **التَّشْبِيهُ الضِّمْنِيُّ**: تشبيه لا يُصرح بأركانه بل يُلمح من سياق التركيب كبرهان وحكمة (مثل: «مَنْ يَهُنْ يَسْهُلِ الهَوَانُ عَلَيْهِ... مَا لِجُرْحٍ بِمَيِّتٍ إِيلَامُ»).\n\nثانياً: الاستعارة (Metaphor):\n- تشبيه حُذف أحد طرفيه مع وجود قرينة مانعة من إرادة المعنى الأصلي:\n  1. **الاسْتِعَارَةُ المَكْنِيَّةُ**: يُحذف المشبه به ويُرمز له بشيء من لوازمه (مثل: «عَضَّنَا الدَّهْرُ بِنَابِهِ» - استعارة مكنية حيث شُبه الدهر بوحش مفترس وحذف المشبه به ورُمز له بالناب).\n  2. **الاسْتِعَارَةُ التَّصْرِيحِيَّةُ**: يُصرح بلفظ المشبه به ويُحذف المشبه (مثل: «وَاعْتَصِمُوا بِحَبْلِ اللَّهِ» - استعارة تصريحية للدين بالحبيل المتين).\n\nثالثاً: الكناية (Metonymy):\n- لفظ أُطلق وأُريد به لازم معناه مع جواز إرادة المعنى الأصلي (مثل: «فُلَانٌ كَثِيرُ الرَّمَادِ» كناية عن صفة الكرم، و«ابْنَةُ اليَمِّ» كناية عن موصوف وهي السفينة).\n\nرابعاً: المجاز المرسل (Synecdoche / Tropes):\n- كلمة استعملت في غير معناها الأصلي لعلاقة غير المشابهة مع قرينة مانعة (علاقاته: الكلية، الجزئية، السببية، المسببية، المحلية، الحالية، اعتبار ما كان، واعتبار ما سيكون).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)» بأسلوب أكاديمي دقيق (31.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)' to students in an accurate academic style."
+          "target": "فِي قَوْلِ الشَّاعِرِ: «مَنْ يَهُنْ يَسْهُلِ الهَوَانُ عَلَيْهِ ... مَا لِجُرْحٍ بِمَيِّتٍ إِيلَامُ» تَمْثِيلٌ بَلِيغٌ لِلتَّشْبِيهِ الضِّمْنِيِّ.(Fī qawli ash-shāʿir: «Man yahun yashuli al-hawānu ʿalayhi ... mā li-jurḥin bi-mayyitin īlām» tamthīlun balīghun li-t-tashbīhi aḍ-ḍimniyy.)",
+          "reading": "[fiː qaw.li‿ʃ.ʃaː.ʕir: «man ja.hun jas.hu.li‿l.ha.waː.nu ʕa.lajh ... maː li.ʒur.ħin bi.maj.ji.tin ʔiː.laːm» tam.θiː.lun ba.liː.ɣun lit.taʃ.biː.hi‿dˤ.dˤim.nijj] (Fī qaw-li ash-shā-ʿir: «Man ya-hun yas-hu-li al-ha-wā-nu ʿa-lay-hi ... mā li-jur-ḥin bi-may-yi-tin ī-lām» tam-thī-lun ba-lī-ghun lit-tash-bī-hi aḍ-ḍim-niyy.)",
+          "translation": "In the poet's verse: 'Whoever is debased finds humiliation easy ... a wound to a dead man causes no pain' is an eloquent exemplar of implicit simile."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (31.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تُعَدُّ الاسْتِعَارَةُ المَكْنِيَّةُ أَرْقَى أَلْوَانِ التَّصْوِيرِ البَيَانِيِّ حَيْثُ يُحْذَفُ المُشَبَّهُ بِهِ وَيُرْمَزُ إِلَيْهِ بِأَحَدِ لَوَازِمِهِ.(Tuʿaddu al-istiʿāratu al-makniyyatu arqā alwāni at-taṣwīri al-bayāniyyi ḥaythu yuḥdhafu al-mushabbahu bihi wa-yurmazu ilayhi bi-aḥadi lawāzimihi.)",
+          "reading": "[tu.ʕad.du‿l.ʔis.ti.ʕaː.ra.tu‿l.mak.nij.ja.tu ʔar.qaː ʔal.waː.ni‿t.tasˤ.wiː.ri‿l.ba.jaː.nij.ji ħaj.θu juħ.ða.fu‿l.mu.ʃab.ba.hu bi.hi wa.jur.ma.zu ʔi.laj.hi bi.ʔa.ħa.di la.waː.zi.mih] (Tu-ʿad-du al-is-ti-ʿā-ra-tu al-mak-niy-ya-tu ar-qā al-wā-ni at-taṣ-wī-ri al-ba-yā-niy-yi ḥay-thu yuḥ-dha-fu al-mu-shab-ba-hu bi-hi wa-yur-ma-zu i-lay-hi bi-a-ḥa-di la-wā-zi-mih.)",
+          "translation": "The implicit metaphor is considered the highest color of rhetorical imagery where the object compared to is deleted and hinted at by one of its attributes."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (31.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تَمْتَازُ الكِنَايَةُ بِالإِتْيَانِ بِالمَعْنَى مَصْحُوبًا بِالدَّلِيلِ عَلَيْهِ فِي إِيجَازٍ وَتَجْسِيمٍ يَأْسِرُ الأَفْهَامَ.(Tamtāzu al-kināyatu bi-al-ityāni bi-al-maʿnā maṣḥūban bi-ad-dalīli ʿalayhi fī ījāzin wa-tajsīmin yaʾsiru al-afhām.)",
+          "reading": "[tam.taː.zu‿l.ki.naː.ja.tu bil.ʔit.jaː.ni bil.maʕ.naː masˤ.ħuː.ban bid.da.liː.li ʕa.laj.hi fiː ʔiː.ʒaː.zin wa.taʒ.siː.min jaʔ.si.ru‿l.ʔaf.haːm] (Tam-tā-zu al-ki-nā-ya-tu bi-al-it-yā-ni bi-al-maʿ-nā maṣ-ḥū-ban bid-da-lī-li ʿa-lay-hi fī ī-jā-zin wa-taj-sī-min yaʾ-si-ru al-af-hām.)",
+          "translation": "Metonymy is distinguished by presenting the meaning accompanied by its evidence in conciseness and embodiment that captivates minds."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (31.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يَقُومُ المَجَازُ المُرْسَلُ عَلَى عَلَاقَاتٍ مُتَعَدِّدَةٍ كَالكُلِّيَّةِ وَالجُزْئِيَّةِ وَالسَّبَبِيَّةِ دُونَ اعْتِمَادِ المُشَابَهَةِ.(Yaqūmu al-majāzu al-mursalu ʿalā ʿalāqātin mutaʿaddidatin ka-al-kulliyyati wa-al-juzʾiyyati wa-as-sababiyyati dūna iʿtimādi al-mushābahah.)",
+          "reading": "[ja.quː.mu‿l.ma.ʒaː.zu‿l.mur.sa.lu ʕa.laː ʕa.laː.qaː.tin mu.ta.ʕad.di.da.tin kal.kul.lij.ja.ti wal.ʒuz.ʔij.ja.ti was.sa.ba.bij.ja.ti duː.na‿ʕ.ti.maː.di‿l.mu.ʃaː.ba.hah] (Ya-qū-mu al-ma-jā-zu al-mur-sa-lu ʿa-lā ʿa-lā-qā-tin mu-ta-ʿad-di-da-tin kal-kul-liy-ya-ti wal-juz-ʾiy-ya-ti was-sa-ba-biy-ya-ti dū-na iʿ-ti-mā-di al-mu-shā-ba-hah.)",
+          "translation": "Synecdoche / metonymic trope relies on multiple relations such as whole, part, and cause without relying on similarity."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "بَيَانُنَا سِحْرٌ يُضِيءُ المَدَى، اسْتِعَارَةٌ وَتَشْبِيهٌ وَكِنَايَةُ هُدَى!"
+      ],
+      "culturalNotes": [
+        "يُعد كتاب «أسرار البلاغة» للإمام عبد القاهر الجرجاني المعلم التأسيسي الأعمق في تحليل سيكولوجية التصوير البياني والاستعاري في اللغات الإنسانية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)» (الدرس 1)؟",
+          "prompt": "ما نوع الصورة البيانية في قول أبي الطيب المتنبي: «وَإِذَا المَنِيَّةُ أَنْشَبَتْ أَظْفَارَهَا ... أَلْفَيْتَ كُلَّ تَمِيمَةٍ لَا تَنْفَعُ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)» بأسلوب أكاديمي دقيق (31.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (31.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (31.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (31.1.w3)"
+            "اسْتِعَارَةٌ مَكْنِيَّةٌ؛ شَبَّهَ المَنِيَّةَ بِوَحْشٍ كَاسِرٍ وَحَذَفَ المُشَبَّهَ بِهِ وَرَمَزَ لَهُ بِالأَظْفَارِ (Implicit metaphor)",
+            "تشبيه صريح بأداة الكاف",
+            "كناية عن النسبة فقط",
+            "مجاز مرسل علاقته المحلية"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "شبه المنية بحيوان مفترس مفترس وحذف المشبه به وترك صفة من لوازمه (الأظفار) على سبيل الاستعارة المكنية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو التشبيه الذي لا يُصرح فيه بالمشبه والمشبه به في هيئة صريحة بل يُلمحان من المعنى كدليل وبرهان؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "التَّشْبِيهُ الضِّمْنِيُّ (Implicit Simile)",
+            "التشبيه المقلوب",
+            "التشبيه المجمل",
+            "التشبيه المؤكد"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "التشبيه الضمني يُفهم من السياق ويكون الشطر الثاني برهاناً وحكمة تدعم دعوى الشطر الأول."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u31-l1):",
+          "prompt": "اختر سر بلاغة الكناية في علم البيان العربي المعياري:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (31.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (31.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (31.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (31.1.x3)"
+            "«الإِتْيَانُ بِالمَعْنَى مَصْحُوبًا بِالدَّلِيلِ عَلَيْهِ فِي إِيجَازٍ وَتَجْسِيمٍ». ('Delivering meaning accompanied by evidence in conciseness and vivid embodiment.')",
+            "تطويل الكلام وزيادة عدد الكلمات بلا فائدة",
+            "إلغاء المعاني الحقيقية نهائياً",
+            "بيان تشبيه استعارة كناية سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "سر بلاغة الكناية هو إيراد المعنى مع دليله الملموس في إيجاز وتجسيم بليغ."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)»؟",
+          "prompt": "ما إعراب كلمة «تَمْثِيلٌ» في جملة: «فِي هٰذَا البَيْتِ تَمْثِيلٌ بَلِيغٌ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (31.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (31.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (31.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (31.1.y3)"
+            "مُبْتَدَأٌ مُؤَخَّرٌ مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ (Delayed subject in nominative)",
+            "خبر مقدم منصوب",
+            "فاعل مرفوع بالضمة",
+            "مفعول به منصوب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«فِي هٰذَا» شبه جملة خبر مقدم، و«تَمْثِيلٌ» مبتدأ مؤخر مرفوع وعلامة رفعه الضمة."
         }
       ]
     },
@@ -18606,24 +18610,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 31-1)؟",
+          "prompt": "اختر النص البلاغي التحليلي الذي يشرح أسرار علم البيان بأعلى درجات الرصانة التعبيرية والدقة الأكاديمية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (31.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (31.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (31.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (31.1.z3)"
+            "يَتَجَلَّى عِلْمُ البَيَانِ فِي البَلَاغَةِ العَرَبِيَّةِ كَفَنِّ التَّصْوِيرِ الرُّوحِيِّ وَالعَقْلِيِّ الخَالِدِ؛ حَيْثُ يَرْتَقِي بِالمَعْنَى عَبْرَ التَّشْبِيهِ البَلِيغِ وَالتَّمْثِيلِيِّ وَالضِّمْنِيِّ، وَيَفْتَحُ آفَاقَ التَّجْسِيمِ وَالتَّشْخِيصِ فِي الاسْتِعَارَاتِ المَكْنِيَّةِ وَالتَّصْرِيحِيَّةِ، بَيْنَمَا تَمْنَحُ الكِنَايَةُ وَالمَجَازُ المُرْسَلُ الخِطَابَ قُوَّةَ الإِقْنَاعِ مَصْحُوبَةً بِالبُرْهَانِ وَالإِيجَازِ البَدِيعِ. (Ilm al-Bayan manifests in Arabic rhetoric as the immortal art of spiritual and intellectual imagery; where it elevates meaning through eloquent, analogical and implicit simile, opens horizons of embodiment and personification in implicit and explicit metaphors, while metonymy and tropes grant discourse persuasive power accompanied by proof and sublime conciseness.)",
+            "علم البيان هو تشبيه واستعارة وكناية ومجاز في اللغة العربية.",
+            "بيان استعارة تشبيه كناية مجاز بلاغة سكون فتحة ضمة تنوين.",
+            "ألغت البلاغة الحديثة علم البيان لعدم الحاجة إليه."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع أركان علم البيان الأربعة: التشبيه بأنواعه، الاستعارة بأسرارها، الكناية بدلالاتها، والمجاز المرسل بقوته الإقناعية."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u31-l1) باللغة العربية (مثال: «البلاغة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم العلم البلاغي الذي يختص بالتشبيه والاستعارة والكناية والمجاز (اكتب: «علم البيان» أو «البيان»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "البلاغة",
-            "البلاغة"
+            "علم البيان",
+            "البيان",
+            "علم بيان",
+            "بيان",
+            "عِلْمُ البَيَانِ",
+            "البَيَان"
           ],
-          "explanation": "المصطلح الصحيح هو «البلاغة»."
+          "explanation": "العلم هو «علم البيان» (Ilm al-Bayan)."
         }
       ],
       "passThreshold": 0.8
@@ -18634,85 +18642,89 @@
     "subject": "arabic",
     "unit": 31,
     "lessonNumber": 2,
-    "title": "البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric) (الدرس 2)",
+    "title": "علم المعاني: مقتضى الحال والإسناد الخبري والإنشائي (Ilm al-Ma'ani: Syntactic Pragmatics & Enunciation)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: علوم البلاغة الثلاثة: التشبيه والمجاز والاستعارة والكناية، وأسرار الفصاحة والإعجاز. (الجزء 2).",
+    "objective": "إتقان أصول علم المعاني: نظرية النظم، مطابقة الكلام لمقتضى الحال، أضرب الخبر، أساليب الإنشاء الطلبي وغير الطلبي، وخروج الأساليب البلاغية (القصر، الالتفات، الإيجاز، والإطناب).",
     "presentation": {
-      "explanation": "",
+      "explanation": "يُعرف «عِلْمُ المَعَانِي» بأنه: «علم يُعرف به أحوال اللفظ العربي التي بها يطابق مقتضى الحال ومواطن الخطاب»:\n\nأولاً: مطابقة الكلام لمقتضى الحال (Pragmatic Context):\n- لكل مقام مقال؛ فلا يُخاطب المنكر كالمتردد، ولا المتردد كخالي الذهن:\n  1. **الخَبَرُ الابْتِدَائِيُّ**: لخالي الذهن، يخلو من المؤكدات (مثل: «العِلْمُ نَافِعٌ»).\n  2. **الخَبَرُ الطَّلَبِيُّ**: للمتردد والشاك، يُستحسن فيه مؤكد واحد (مثل: «إِنَّ العِلْمَ نَافِعٌ»).\n  3. **الخَبَرُ الإِنْكَارِيُّ**: للمنكر والجاحد، يجب فيه أكثر من مؤكد (مثل: «وَاللَّهِ إِنَّ العِلْمَ لَنَافِعٌ»).\n\nثانياً: أساليب الإنشاء (Enunciation & Speech Acts):\n- **الإنشاء الطلبي**: يستدعي مطلوباً غير حاصل وقت الطلب:\n  * **الأَمْرُ**، **النَّهْيُ**، **الاسْتِفْهَامُ**، **التَّمَنِّي**، و**النِّدَاءُ** (وتخرج جميعها لأغراض بلاغية كالدعاء، التهديد، النصح، والتحسر).\n- **الإنشاء غير الطلبي**: لا يستدعي مطلوباً (مثل: التَّعَجُّبِ، القَسَمِ، المَدْحِ وَالذَّمِّ بِـ«نِعْمَ وَبِئْسَ»، وَأَفْعَالِ الرَّجَاءِ).\n\nثالثاً: لطائف التراكيب في علم المعاني:\n1. **القَصْرُ وَالحَصْرُ**: تخصيص شيء بشيء بطريق مخصوص (بـ «إنما»، النفي والاستثناء، العطف بـ«لا، بل، لكن»، وتقديم ما حقه التأخير).\n2. **الالْتِفَاتُ**: الانتقال من أسلوب ضمير إلى آخر (من التكلم إلى الغيبة أو الخطاب) لتنشيط ذهن السامع وتجديد نشاطه.\n3. **الإِيجَازُ وَالإِطْنَابُ وَالمُسَاوَاةُ**: إيجاز قصر وإيجاز حذف، وإطناب بالترادف أو ذكر الخاص بعد العام.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)» بأسلوب أكاديمي دقيق (31.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)' to students in an accurate academic style."
+          "target": "يَقْتَضِي عِلْمُ المَعَانِي مُطَابَقَةَ الكَلَامِ لِمُقْتَضَى الحَالِ بِحَيْثُ يُنَزَّلُ الخِطَابُ عَلَى قَدْرِ حَاجَةِ المُتَلَقِّي وَإِنْكَارِهِ.(Yaqtaḍī ʿilmu al-maʿānī muṭābaqata al-kalāmi li-muqtaḍā al-ḥāli bi-ḥaythu yunazzalu al-khiṭābu ʿalā qadri ḥājati al-mutalaqqī wa-inkārih.)",
+          "reading": "[jaq.ta.dˤiː ʕil.mul.ma.ʕaː.niː mu.tˤaː.ba.qa.ta‿l.ka.laː.mi li.muq.ta.dˤa‿l.ħaː.li bi.ħaj.θu ju.naz.za.lu‿l.xi.tˤaː.bu ʕa.laː qad.ri ħaː.ʒa.ti‿l.mu.ta.laq.qiː wa.ʔin.kaː.rih] (Yaq-ta-ḍī ʿil-mu al-ma-ʿā-nī mu-ṭā-ba-qa-ta al-ka-lā-mi li-muq-ta-ḍā al-ḥā-li bi-ḥay-thu yu-naz-za-lu al-khi-ṭā-bu ʿa-lā qad-ri ḥā-ja-ti al-mu-ta-laq-qī wa-in-kā-rih.)",
+          "translation": "Ilm al-Ma'ani requires speech to match situational context such that discourse is tailored according to the recipient's need and denial."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (31.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يَخْرُجُ الاسْتِفْهَامُ فِي الخِطَابِ البَلِيغِ عَنْ مَعْنَاهُ الحَقِيقِيِّ إِلَى أَغْرَاضٍ مَجَازِيَّةٍ كَالتَّقْرِيرِ وَالتَّعَجُّبِ وَالإِنْكَارِ.(Yakhruju al-istifhāmu fī al-khiṭābi al-balīghi ʿan maʿnāhu al-ḥaqīqiyyi ilā aghrāḍin majāziyyatin ka-at-taqrīri wa-at-taʿajjubi wa-al-inkār.)",
+          "reading": "[jax.ru.ʒu‿l.ʔis.tif.haː.mu fil.xi.tˤaː.bi‿l.ba.liː.ɣi ʕan maʕ.naː.hu‿l.ħa.qiː.qij.ji ʔi.laː ʔaɣ.raː.dˤin ma.ʒaː.zij.ja.tin kat.taq.riː.ri wat.ta.ʕaʒ.ʒu.bi wal.ʔin.kaːr] (Yakh-ru-ju al-is-tif-hā-mu fī al-khi-ṭā-bi al-ba-lī-ghi ʿan maʿ-nā-hu al-ḥa-qī-qiy-yi i-lā agh-rā-ḍin ma-jā-ziy-ya-tin kat-taq-rī-ri wat-ta-ʿaj-ju-bi wal-in-kār.)",
+          "translation": "Interrogation shifts in eloquent discourse from its literal meaning to figurative purposes like affirmation, wonder, and disapproval."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (31.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يُعَدُّ أُسْلُوبُ القَصْرِ بِـ«إِنَّمَا» وَالنَّفْيِ وَالاسْتِثْنَاءِ مِنْ أَقْوَى طُرُقِ التَّأْكِيدِ وَتَخْصِيصِ الأَحْكَامِ فِي البَلَاغَةِ.(Yuʿaddu uslūbu al-qaṣri bi-«innamā» wa-an-nafyi wa-al-istithnāʾi min aqwā ṭuruqi at-taʾkīdi wa-takhṣīṣi al-aḥkāmi fī al-balāghah.)",
+          "reading": "[ju.ʕad.du ʔus.luː.bu‿l.qasˤ.ri bi«ʔin.na.maː» wan.naf.ji wal.ʔis.tiθ.naː.ʔi min ʔaq.waː tˤu.ru.qi‿t.taʔ.kiː.di wa.tax.sˤiː.sˤi‿l.ʔaħ.kaː.mi fil.ba.laː.ɣah] (Yu-ʿad-du us-lū-bu al-qaṣ-ri bi-«in-na-mā» wan-naf-yi wal-is-tith-nā-ʾi min aq-wā ṭu-ru-qi at-taʾ-kī-di wa-takh-ṣī-ṣi al-aḥ-kā-mi fī al-ba-lā-ghah.)",
+          "translation": "The method of restriction using 'innamā' and negation with exception is considered among the strongest modes of emphasis and specification in rhetoric."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (31.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يُحْدِثُ الِالْتِفَاتُ بَيْنَ الضَّمَائِرِ هِزَّةً شُعُورِيَّةً تُوقِظُ ذِهْنَ السَّامِعِ وَتَدْفَعُ عَنْهُ رَتَابَةَ الإِخْبَارِ.(Yuḥdithu al-iltifātu bayna aḍ-ḍamāʾiri hizzatan shuʿūriyyatan tūqiẓu dhihna as-sāmiʿi wa-tadfaʿu ʿanhu ratābata al-ikhbār.)",
+          "reading": "[juħ.di.θu‿l.ʔil.ti.faː.tu baj.na‿dˤ.dˤa.maː.ʔi.ri hiz.za.tan ʃu.ʕuː.rij.ja.tan tuː.qi.zˤu ðih.na‿s.saː.mi.ʕi wa.tad.fa.ʕu ʕan.hu ra.taː.ba.ta‿l.ʔix.baːr] (Yuḥ-di-thu al-il-ti-fā-tu bay-na aḍ-ḍa-mā-ʾi-ri hiz-za-tan shu-ʿū-riy-ya-tan tū-qi-ẓu dhih-na as-sā-mi-ʿi wa-tad-fa-ʿu ʿan-hu ra-tā-ba-ta al-ikh-bār.)",
+          "translation": "Grammatical shift (enallage/iltifat) between pronouns produces an emotional vibration awakening the listener's mind and removing narrative monotony."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "عِلْمُ المَعَانِي لِلْمَقَامِ يُجِيبْ، خَبَرٌ وَإِنْشَاءٌ وَنَظْمٌ عَجِيبْ!"
+      ],
+      "culturalNotes": [
+        "يُعد مبدأ «لكل مقام مقال» في علم المعاني العربي الأساس الأول لعلم التداوليات اللساني الحديث (Modern Pragmatics) ونظرية أفعال الكلام (Speech Acts Theory)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)» (الدرس 2)؟",
+          "prompt": "ما نوع الخبر في قوله تعالى: ﴿إِنَّ إِلَهَكُمْ لَوَاحِدٌ﴾، وما سببه البلاغي؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)» بأسلوب أكاديمي دقيق (31.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (31.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (31.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (31.2.w3)"
+            "خَبَرٌ إِنْكَارِيٌّ؛ لاشْتِمَالِهِ عَلَى مُؤَكِّدَيْنِ (إِنَّ وَاللَّامَ المُزَحْلَقَةَ) لِمُخَاطَبَةِ المُنْكِرِينَ (Denial discourse with multiple intensifiers)",
+            "خبر ابتدائي لخالي الذهن",
+            "خبر طلبي بمؤكد واحد فقط",
+            "إنشاء غير طلبي للتعجب"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "اشتملت الجملة على مؤكدين (إنّ، واللام المزحلقة في خبرها) لأن المخاطبين منكرون للتوحيد."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما الغرض البلاغي للاستفهام في قوله تعالى: ﴿هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ﴾؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "النَّفْيُ وَالتَّقْرِيرُ (Negation & Affirmation: أي ما جزاء الإحسان إلا الإحسان)",
+            "الطلب والاستفسار عن مجهول",
+            "التحسر والندم",
+            "التهديد والوعيد"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "خرج الاستفهام عن معناه الحقيقي إلى معنى النفي التقريري أي: ليس جزاء الإحسان إلا الإحسان."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u31-l2):",
+          "prompt": "ما هو الأسلوب البلاغي المسمى «الالتفات» (Grammatical Shift / Enallage) في علم المعاني؟",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (31.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (31.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (31.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (31.2.x3)"
+            "«الانْتِقَالُ مِنْ أُسْلُوبِ ضَمِيرٍ إِلَى آخَرَ (كَالتَّكَلُّمِ إِلَى الغَيْبَةِ أَوِ الخِطَابِ) لِتَنْشِيطِ ذِهْنِ السَّامِعِ». ('Transitioning from one pronoun mode to another to awaken the listener's attentiveness.')",
+            "تكرار الكلمة نفسها عشر مرات متتالية",
+            "حذف الفاعل والمفعول به دون قرينة",
+            "معاني إنشاء خبر مقتضى حال سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الالتفات هو التحول من ضمير إلى ضمير آخر (مثل الانتقال من ضمير الغيبة إلى الخطاب) لإثارة الانتباه."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)»؟",
+          "prompt": "ما إعراب كلمة «مُطَابَقَةَ» في جملة: «يَقْتَضِي عِلْمُ المَعَانِي مُطَابَقَةَ الكَلَامِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (31.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (31.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (31.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (31.2.y3)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Direct object in accusative)",
+            "فاعل مرفوع بالضمة",
+            "مضاف إليه مجرور",
+            "حال منصوبة بالفتحة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«عِلْمُ» فاعل مرفوع، و«مُطَابَقَةَ» مفعول به منصوب وعلامة نصبه الفتحة."
         }
       ]
     },
@@ -18720,24 +18732,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 31-2)؟",
+          "prompt": "اختر النص البلاغي التداولي الذي يحلل أسرار علم المعاني ونظرية مطابقة مقتضى الحال بأعلى معايير الإتقان الفصيح:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (31.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (31.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (31.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (31.2.z3)"
+            "يُمَثِّلُ عِلْمُ المَعَانِي ذِرْوَةَ التَّدَاوُلِيَّاتِ اللِّسَانِيَّةِ فِي البَلَاغَةِ العَرَبِيَّةِ؛ حَيْثُ يُنَزِّلُ الكَلَامَ مَنْزِلَةَ مَقَامِهِ الدَّقِيقِ فَيُفَرِّقُ بَيْنَ الخَبَرِ الابْتِدَائِيِّ وَالطَّلَبِيِّ وَالإِنْكَارِيِّ، وَيَفُضُّ أَسْرَارَ الإِنْشَاءِ فِي الأَمْرِ وَالنَّهْيِ وَالاسْتِفْهَامِ، مُتَوِّجًا هٰذَا السِّحْرَ بِأَسَالِيبِ القَصْرِ وَالِالْتِفَاتِ وَالإِيجَازِ لِيَغْدُوَ النَّظْمُ مِرْآةً لِلْعَقْلِ وَمُطَابَقَةً لِمُقْتَضَى الحَالِ. (Ilm al-Ma'ani represents the summit of linguistic pragmatics in Arabic rhetoric; where it positions speech according to its exact context distinguishing between primary, inquiring and denial news, unlocks mysteries of enunciation in command, prohibition and interrogation, crowning this magic with methods of restriction, iltifat and concision so composition becomes a mirror for the mind and matching situational context.)",
+            "علم المعاني هو علم يدرس الخبر والإنشاء في اللغة العربية.",
+            "علم المعاني مقتضى الحال خبر إنشاء قصر التفات إيجاز إطناب سكون فتحة ضمة.",
+            "ليس لعلم المعاني علاقة بالسياق أو المخاطبين."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يستوفي بكفاءة: التداوليات ومقتضى الحال، أضرب الخبر الثلاثة، بلاغة الإنشاء، وأسرار القصر والالتفات والإيجاز."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u31-l2) باللغة العربية (مثال: «البلاغة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم العلم البلاغي الذي يختص بمطابقة الكلام لمقتضى الحال وأساليب الخبر والإنشاء (اكتب: «علم المعاني» أو «المعاني»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "البلاغة",
-            "البلاغة"
+            "علم المعاني",
+            "المعاني",
+            "علم معاني",
+            "معاني",
+            "عِلْمُ المَعَانِي",
+            "المَعَانِي"
           ],
-          "explanation": "المصطلح الصحيح هو «البلاغة»."
+          "explanation": "العلم هو «علم المعاني» (Ilm al-Ma'ani)."
         }
       ],
       "passThreshold": 0.8
@@ -18748,85 +18764,89 @@
     "subject": "arabic",
     "unit": 31,
     "lessonNumber": 3,
-    "title": "البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric) (الدرس 3)",
+    "title": "علم البديع: المحسنات اللفظية والمعنوية وسحر الجرس والإيقاع (Ilm al-Badi': Phonetic & Semantic Figures)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: علوم البلاغة الثلاثة: التشبيه والمجاز والاستعارة والكناية، وأسرار الفصاحة والإعجاز. (الجزء 3).",
+    "objective": "إتقان فنون علم البديع العربي: المحسنات المعنوية (الطباق، المقابلة، التورية، وحسن التعليل) والمحسنات اللفظية (الجناس، السجع، والتصريع)، والتفريق بين الزخرف العفوي والتكلف المصطنع.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يُعنى «عِلْمُ البَدِيعِ» بتحسين وجوه الكلام وتزيينه بعد رعاية المطابقة لمقتضى الحال ووضوح الدلالة البيانية، وينقسم إلى قسمين رئيسين:\n\nأولاً: المحسنات المعنوية (Semantic Embellishments):\n1. **الطِّبَاقُ**: الجمع بين لفظين متضادين في المعنى:\n   - **طباق إيجاب** (مثل: ﴿وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ﴾).\n   - **طباق سلب** (مثل: ﴿فَلَا تَخْشَوُا النَّاسَ وَاخْشَوْنِ﴾).\n2. **المُقَابَلَةُ**: الإتيان بمعنيين متوافقين أو أكثر ثم الإتيان بما يقابل ذلك على الترتيب (مثل: ﴿فَلْيَضْحَكُوا قَلِيلًا وَلْيَبْكُوا كَثِيرًا﴾).\n3. **التَّوْرِيَةُ**: لفظ له معنيان: قريب ظاهر غير مراد، وبعيد خفي هو المقصود (مثل قول الشاعر: «وَادٍ حَكَى خَنْسَاءَ فِي عَبَرَاتِهِ ... وَقَدِ اخْتَفَى فِيهِ المَشُوقُ يَهِيمُ» أو تورية حافظ وإبراهيم في الشوق وشوقي).\n4. **حُسْنُ التَّعْلِيلِ**: إنكار العلة الحقيقية الظاهرة لشيء وابتكار علة أدبية لطيفة تناسب الغرض.\n\nثانياً: المحسنات اللفظية (Phonetic Embellishments):\n1. **الجِنَاسُ**: تشابه لفظين في النطق واختلافهما في المعنى:\n   - **جناس تام**: يتفق اللفظان في أربعة أمور (نوع الحروف، عددها، ترتيبها، وضبطها) كقوله تعالى: ﴿وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِمُونَ مَا لَبِثُوا غَيْرَ سَاعَةٍ﴾.\n   - **جناس غير تام / ناقص**: يختلف اللفظان في واحد من الأمور الأربعة (مثل: «بِيضُ الصَّفَائِحِ لَا سُودُ الصَّحَائِفِ»).\n2. **السَّجْعُ**: توافق فواصل الجمل النثرية في الحرف الأخير مع اعتدال الإيقاع وسلاسة الطبع.\n3. **التَّصْرِيعُ**: اتفاق قافية الشطر الأول مع الشطر الثاني في مطلع القصيدة الشعرية.\n\nثالثاً: معيار البلاغة في البديع:\n- أن يأتي المحسن عفو الخاطر خادماً للمعنى دون تصنع ولا تكلف ممجوج يثقل الأسلوب.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)» بأسلوب أكاديمي دقيق (31.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)' to students in an accurate academic style."
+          "target": "فِي قَوْلِهِ تَعَالَى: ﴿وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِمُونَ مَا لَبِثُوا غَيْرَ سَاعَةٍ﴾ جِنَاسٌ تَامٌّ مُعْجِزٌ بَيْنَ القِيَامَةِ وَالوَقْتِ.(Fī qawlihi taʿālā: «Wa-yawma taqūmu as-sāʿatu yuqsimu al-mujrimūna mā labithū ghayra sāʿah» jināsun tāmmun muʿjizun bayna al-qiyāmati wa-al-waqt.)",
+          "reading": "[fiː qaw.li.hi ta.ʕaː.laː: «wa.jaw.ma ta.quː.mu‿s.saː.ʕa.tu juq.si.mu‿l.muʒ.ri.muː.na maː la.bi.θuː ɣaj.ra saː.ʕah» ʒi.naː.sun taːm.mun muʕ.ʒi.zun baj.na‿l.qi.jaː.ma.ti wal.waqt] (Fī qaw-li-hi ta-ʿā-lā: «Wa-yaw-ma ta-qū-mu as-sā-ʿa-tu yuq-si-mu al-muj-ri-mū-na mā la-bi-thū ghay-ra sā-ʿah» ji-nā-sun tām-mun muʿ-ji-zun bay-na al-qi-yā-ma-ti wa-al-waqt.)",
+          "translation": "In the Almighty's verse: 'And the Day the Hour appears the criminals will swear they had remained but an hour' is a miraculous complete paronomasia (jinas tamm) between Resurrection and time."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (31.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تَتَجَلَّى المُقَابَلَةُ البَلِيغَةُ فِي مُقَابَلَةِ جُمَلٍ عَدِيدَةٍ بِأَضْدَادِهَا عَلَى التَّرْتِيبِ كَقَوْلِهِ: ﴿فَلْيَضْحَكُوا قَلِيلًا وَلْيَبْكُوا كَثِيرًا﴾.(Tatajallā al-muqābalatu al-balīghatu fī muqābalati jumalin ʿadīdatin bi-aḍdādihā ʿalā at-tartībi ka-qawlih: «Fa-l-yaḍḥakū qalīlan wa-l-yabkū kathīrā».)",
+          "reading": "[ta.ta.ʒal.laː‿l.mu.qaː.ba.la.tu‿l.ba.liː.ɣa.tu fiː mu.qaː.ba.la.ti ʒu.ma.lin ʕa.diː.da.tin bi.ʔadˤ.daː.di.haː ʕa.laː‿t.tar.tiː.bi ka.qaw.lih: «fal.jadˤ.ħa.kuː qa.liː.lan wal.jab.kuː ka.θiː.raː»] (Ta-ta-jal-lā al-mu-qā-ba-la-tu al-ba-lī-gha-tu fī mu-qā-ba-la-ti ju-ma-lin ʿa-dī-da-tin bi-aḍ-dā-di-hā ʿa-lā at-tar-tī-bi ka-qaw-lih: «Fal-yaḍ-ḥa-kū qa-lī-lan wal-yab-kū ka-thī-rā».)",
+          "translation": "Eloquent antithesis (muqabalah) manifests in contrasting multiple clauses with their opposites in order like: 'So let them laugh a little and weep much'."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (31.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تُعَدُّ التَّوْرِيَةُ فَنًّا ذَكِيًّا يَعْتَمِدُ عَلَى لَفْظٍ ذِي مَعْنَيَيْنِ لِإِثَارَةِ لَطَافَةِ التَّأْوِيلِ وَالبَرَاعَةِ الأَدَبِيَّةِ.(Tuʿaddu at-tawriyatu fannan dhakiyyan yaʿtamidu ʿalā lafẓin dhī maʿnayayni li-ithārati laṭāfati at-taʾwīli wa-al-barāʿati al-adabiyyah.)",
+          "reading": "[tu.ʕad.du‿t.taw.ri.ja.tu fan.nan ða.kij.jan jaʕ.ta.mi.du ʕa.laː laf.zˤin ðiː maʕ.na.jaj.ni li.ʔi.θaː.ra.ti la.tˤaː.fa.ti‿t.taʔ.wiː.li wal.ba.raː.ʕa.ti‿l.ʔa.da.bij.jah] (Tu-ʿad-du at-taw-ri-ya-tu fan-nan dha-kiy-yan yaʿ-ta-mi-du ʿa-lā laf-ẓin dhī maʿ-na-yay-ni li-i-thā-ra-ti la-ṭā-fa-ti at-taʾ-wī-li wa-al-ba-rā-ʿa-ti al-a-da-biy-yah.)",
+          "translation": "Double entendre (tawriyah) is considered a clever art relying on a word with two meanings to evoke subtlety of interpretation and literary prowess."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (31.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يَمْنَحُ الجِنَاسُ غَيْرُ التَّامِّ وَالسَّجْعُ العَفْوِيُّ النَّثْرَ نَغَمًا مُوسِيقِيًّا عَذْبًا يَسْتَسِيغُهُ السَّمْعُ بِلَا تَكَلُّفٍ.(Yamnaḥu al-jināsu ghayru at-tāmmi wa-as-sajʿu al-ʿafwiyyu an-nathra naghaman mūsīqiyyan ʿadhban yastasīghuhu as-samʿu bi-lā takalluf.)",
+          "reading": "[jam.na.ħu‿l.ʒi.naː.su ɣaj.ru‿t.taːm.mi was.saʒ.ʕu‿l.ʕaf.wij.ju‿n.naθ.ra na.ɣa.man muː.siː.qij.jan ʕað.ban jas.ta.siː.ɣu.hu‿s.sam.ʕu bi.laː ta.kal.luf] (Yam-na-ḥu al-ji-nā-su ghay-ru at-tām-mi wa-as-saj-ʿu al-ʿaf-wiy-yu an-nath-ra na-gha-man mū-sī-qiy-yan ʿadh-ban yas-ta-sī-ghu-hu as-sam-ʿu bi-lā ta-kal-luf.)",
+          "translation": "Imperfect paronomasia and spontaneous rhymed prose grant prose a sweet musical tone easily appreciated by hearing without affectation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "بَدِيعُنَا نَغَمٌ وَذَوْقٌ وَاضِحُ، طِبَاقٌ وَجِنَاسٌ وَسَجْعٌ صَالِحُ!"
+      ],
+      "culturalNotes": [
+        "ألف الخليفة العباسي والمبدع ابن المعتز كتاب «البديع» عام 274 هـ فكان أول مصنف منهجي يؤصل لمحاسن الشعر العربي وألوان البديع الخمسة الأساسية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)» (الدرس 3)؟",
+          "prompt": "ما هو المحسن البديعي اللفظي في قول أبي تمام: «بِيضُ الصَّفَائِحِ لَا سُودُ الصَّحَائِفِ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)» بأسلوب أكاديمي دقيق (31.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (31.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (31.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (31.3.w3)"
+            "جِنَاسٌ نَاقِصٌ بَيْنَ (الصَّفَائِحِ) وَ(الصَّحَائِفِ) لاخْتِلَافِ تَرْتِيبِ الحُرُوفِ (Imperfect paronomasia / anagrammatic jinas)",
+            "جناس تام متطابق في كل شيء",
+            "سجع نثري فقط",
+            "تورية معنوية"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "بين الصفائح والصحائف جناس ناقص لاختلاف ترتيب الحروف، وهو يمنح البيت جرساً موسيقياً بديعاً."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما الفرق البلاغي الدقيق بين «الطباق» و«المقابلة» في علم البديع؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "الطِّبَاقُ يَكُونُ بَيْنَ لَفْظَيْنِ مُفْرَدَيْنِ مُتَضَادَّيْنِ، بَيْنَمَا المُقَابَلَةُ تَكُونُ بَيْنَ تَرْكِيبَيْنِ أَوْ جُمْلَتَيْنِ كُلٌّ مِنْهُمَا تُقَابِلُ الأُخْرَى عَلَى التَّرْتِيبِ (Tibaq is between two single words; Muqabalah is between two multiple clauses in order)",
+            "الطباق للمحسنات اللفظية والمقابلة للمعنوية",
+            "المقابلة خاصة بالشعر فقط والطباق بالنثر",
+            "لا يوجد أي فرق بينهما"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الطباق تضاد بين لفظين، والمقابلة تضاد ترتيبي بين جملتين أو أكثر تشتمل كل منهما على معان متعددة."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u31-l3):",
+          "prompt": "اختر المعيار البلاغي الأصيل لقبول المحسنات البديعية في الخطاب الأدبي الفصيح:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (31.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (31.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (31.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (31.3.x3)"
+            "«أَنْ تَأْتِيَ عَفْوَ الخَاطِرِ مُلَائِمَةً لِلسِّيَاقِ مُعِينَةً عَلَى إِبْرَازِ المَعْنَى دُونَ تَكَلُّفٍ مَمْجُوجٍ». ('To come spontaneously matching context and highlighting meaning without repulsive affectation.')",
+            "أن تملأ النص بالسجع والجناس حتى يتعذر فهم المعنى",
+            "استعمال الكلمات المهجورة الغريبة حصراً",
+            "بديع طباق مقابلة جناس سجع سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "قيمة البديع تكمن في عفويته وخدمته للمعنى، فإذا تحول إلى تكلف مصطنع أفسد البلاغة والذوق."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)»؟",
+          "prompt": "ما إعراب كلمة «نَغَمًا» في جملة: «يَمْنَحُ الجِنَاسُ النَّثْرَ نَغَمًا عَذْبًا»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (31.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (31.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (31.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (31.3.y3)"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Second object in accusative)",
+            "مفعول به أول منصوب",
+            "حال منصوبة بالفتحة",
+            "تمييز منصوب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الفعل «يَمْنَحُ» ينصب مفعولين ليس أصلهما المبتدأ والخبر؛ «النَّثْرَ» مفعول أول، و«نَغَمًا» مفعول به ثانٍ منصوب."
         }
       ]
     },
@@ -18834,24 +18854,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 31-3)؟",
+          "prompt": "اختر النص البلاغي التقييمي الذي يحلل عظمة علم البديع وفنونه اللفظية والمعنوية بأرقى أساليب النقد العربي الفصيح:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (31.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (31.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (31.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (31.3.z3)"
+            "يَتَوِّجُ عِلْمُ البَدِيعِ الصَّرْحَ البَلَاغِيَّ العَرَبِيَّ بِأَرْقَى أَلْوَانِ الزِّينَةِ الفَنِّيَّةِ وَالجَرْسِ المُوسِيقِيِّ؛ حَيْثُ يُعَمِّقُ الدَّلَالَةَ بِالمُحَسَّنَاتِ المَعْنَوِيَّةِ كَالطِّبَاقِ وَالمُقَابَلَةِ وَالتَّوْرِيَةِ وَحُسْنِ التَّعْلِيلِ، وَيُطْرِبُ الأَسْمَاعَ بِالمُحَسَّنَاتِ اللَّفْظِيَّةِ كَالجِنَاسِ وَالسَّجْعِ العَفْوِيِّ، فَيَغْدُو الكَلَامُ لَوْحَةً نَاطِقَةً تَمْزُجُ جَمَالَ النَّغَمِ بِعُمْقِ المَعْنَى وَصَفَاءِ الطَّبْعِ. (Ilm al-Badi' crowns the Arabic rhetorical edifice with the finest shades of artistic embellishment and musical resonance; where it deepens meaning through semantic figures like antithesis, contrast, double entendre and fanciful etiology, and enchants hearings with phonetic figures like paronomasia and spontaneous rhymed prose, making speech a vivid painting merging music's beauty with depth of meaning and purity of natural talent.)",
+            "علم البديع هو علم الزخرفة والكلام الموزون في الشعر والنثر.",
+            "بديع طباق مقابلة جناس سجع تورية تصريع سكون فتحة ضمة تنوين.",
+            "البديع مجرد حشو لا قيمة له في البلاغة العربية."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يدمج المحسنات المعنوية واللفظية ويبين وظيفتها الجمالية والدلالية في تناغم مع صفاء الطبع والذوق البلاغي."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u31-l3) باللغة العربية (مثال: «البلاغة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم العلم البلاغي الذي يختص بالمحسنات اللفظية والمعنوية (اكتب: «علم البديع» أو «البديع»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "البلاغة",
-            "البلاغة"
+            "علم البديع",
+            "البديع",
+            "علم بديع",
+            "بديع",
+            "عِلْمُ البَدِيعِ",
+            "البَدِيع"
           ],
-          "explanation": "المصطلح الصحيح هو «البلاغة»."
+          "explanation": "العلم هو «علم البديع» (Ilm al-Badi')."
         }
       ],
       "passThreshold": 0.8
@@ -18862,85 +18886,89 @@
     "subject": "arabic",
     "unit": 31,
     "lessonNumber": 4,
-    "title": "البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric) (الدرس 4)",
+    "title": "إعجاز القرآن ونظرية النظم عند عبد القاهر الجرجاني والسكاكي (The Miracle of Eloquence & Jurjani's Theory of Composition)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: علوم البلاغة الثلاثة: التشبيه والمجاز والاستعارة والكناية، وأسرار الفصاحة والإعجاز. (الجزء 4).",
+    "objective": "إتقان نظرية النظم التأسيسية عند الإمام عبد القاهر الجرجاني في «دلائل الإعجاز»، وتصنيف السكاكي في «مفتاح العلوم»، وتلخيص القزويني، وأسرار الفصاحة والإعجاز البياني القرآني.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يمثل كتاب «**دَلَائِلُ الإِعْجَازِ**» و«**أَسْرَارُ البَلَاغَةِ**» للإمام أبي بكر عبد القاهر الجرجاني (ت 471 هـ) أعظم ثورة نقدية ولغوية في تاريخ الفكر البلاغي العالمي:\n\nأولاً: نظرية النظم عند الجرجاني (Theory of 'Nazm' / Syntactic Composition):\n1.【دَحْضُ فِكْرَةِ البَلَاغَةِ فِي اللَّفْظِ المُفْرَدِ】:\n   - أثبت الجرجاني أن الألفاظ المفردة المعزولة لا فضل لبعضها على بعض، وأن الفصاحة ليست في الكلمة المجردة بل في **مَوْقِعِهَا وَتَآلُفِهَا فِي السِّيَاقِ**.\n2.【جَوْهَرُ النَّظْمِ】:\n   - النظم هو: «**تَوَخِّي مَعَانِي النَّحْوِ وَأَحْكَامِهِ وَفُرُوقِهِ فِيمَا بَيْنَ مَعَانِي الكَلِمِ**».\n   - فالبلاغة تكمن في كيفية نسج العلاقات النحوية (التقديم والتأخير، الحذف والإثبات، التعريف والتنكير، والتعليق الإسنادي) لخدمة المعنى النفسي والدلالي الدقيق.\n\nثانياً: تقنين البلاغة عند السكاكي والقزويني:\n- **يوسف السكاكي** (كتاب «**مِفْتَاحُ العُلُومِ**»): قام بتبويب البلاغة وتقسيمها الرياضي المنطقي إلى علومها الثلاثة: (المعاني، والبيان، والبديع).\n- **الخطيب القزويني** (كتاب «**تَلْخِيصُ المِفْتَاحِ**» و«**الإِيضَاحُ**»): هذب تصنيف السكاكي وصاغ المتن البلاغي التعليمي المعتمد في الأزهر والزيتونة والقرويين لقرون.\n\nثالثاً: الإعجاز البياني للقرآن الكريم:\n- يقوم إعجاز القرآن على النظم المعجز الذي يجمع بين أعلى درجات الفصاحة الصوتية، الدقة الدلالية، والإحكام النحوي الذي عجز فصحاء العرب عن معارضته ولو بسورة واحدة.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)» بأسلوب أكاديمي دقيق (31.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)' to students in an accurate academic style."
+          "target": "أَرْسَى الإِمَامُ عَبْدُ القَاهِرِ الجُرْجَانِيُّ نَظَرِيَّةَ «النَّظْمِ» مُثْبِتًا أَنَّ الفَصَاحَةَ كَامِنَةٌ فِي عَلَاقَاتِ النَّحْوِ وَالتَّأْلِيفِ لَا فِي الأَلْفَاظِ المُفْرَدَةِ.(Arsā al-imāmu ʿAbdu al-Qāhiri al-Jurjāniyyu naẓariyyata «an-naẓm» muthbitan anna al-faṣāḥata kāminatun fī ʿalāqāti an-naḥwi wa-at-taʾlīfi lā fī al-alfāẓi al-mufradah.)",
+          "reading": "[ʔar.saː‿l.ʔi.maː.mu ʕab.dul.qaː.hi.ri‿l.ʒur.ʒaː.nij.ju na.zˤa.rij.ja.ta «ʔan.nazˤm» muθ.bi.tan ʔan.na‿l.fa.sˤaː.ħa.ta kaː.mi.na.tun fiː ʕa.laː.qaː.ti‿n.naħ.wi wat.taʔ.liː.fi laː fil.ʔal.faː.zˤi‿l.muf.ra.dah] (Ar-sā al-i-mā-mu ʿAb-du al-Qā-hi-ri al-Jur-jā-niy-yu na-ẓa-riy-ya-ta «an-naẓm» muth-bi-tan an-na al-fa-ṣā-ḥa-ta kā-mi-na-tun fī ʿa-lā-qā-ti an-naḥ-wi wa-at-taʾ-lī-fi lā fī al-al-fā-ẓi al-muf-ra-dah.)",
+          "translation": "Imam Abd al-Qahir al-Jurjani established the theory of 'Nazm' proving that eloquence resides in syntactic relations and composition, not in isolated words."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (31.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يُعَرِّفُ الجُرْجَانِيُّ النَّظْمَ بِأَنَّهُ تَوَخِّي مَعَانِي النَّحْوِ وَفُرُوقِهِ بَيْنَ الكَلِمِ لِتَصْوِيرِ المَقَاصِدِ النَّفْسِيَّةِ بِدِقَّةٍ.(Yuʿarrifu al-Jurjāniyyu an-naẓma bi-annahu tawakhkhī maʿānī an-naḥwi wa-furūqihi bayna al-kalimi li-taṣwīri al-maqāṣidi an-nafsiyyati bi-diqqah.)",
+          "reading": "[ju.ʕar.ri.fu‿l.ʒur.ʒaː.nij.ju‿n.nazˤ.ma bi.ʔan.na.hu ta.wax.xiː ma.ʕaː.niː‿n.naħ.wi wa.fu.ruː.qi.hi baj.na‿l.ka.li.mi li.tasˤ.wiː.ri‿l.ma.qaː.sˤi.di‿n.naf.sij.ja.ti bi.diq.qah] (Yu-ʿar-ri-fu al-Jur-jā-niy-yu an-naẓ-ma bi-an-na-hu ta-wakh-khī ma-ʿā-nī an-naḥ-wi wa-fu-rū-qi-hi bay-na al-ka-li-mi li-taṣ-wī-ri al-ma-qā-ṣi-di an-naf-siy-ya-ti bi-diq-qah.)",
+          "translation": "Al-Jurjani defines Nazm as pursuing grammatical meanings and nuances among words to depict psychological intents with precision."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (31.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "قَنَّنَ السَّكَّاكِيُّ وَالقَزْوِينِيُّ عُلُومَ البَلَاغَةِ فِي ثَلَاثَةِ أَرْكَانٍ هِيَ المَعَانِي وَالبَيَانُ وَالبَدِيعُ.(Qannana as-Sakkākiyyu wa-al-Qazwīniyyu ʿulūma al-balāghati fī thalāthati arkānin hiya al-maʿānī wa-al-bayānu wa-al-badīʿ.)",
+          "reading": "[qan.na.na‿s.sak.kaː.kij.ju wal.qaz.wiː.nij.ju ʕu.luː.ma‿l.ba.laː.ɣa.ti fiː θa.laː.θa.ti ʔar.kaː.nin hi.ja‿l.ma.ʕaː.niː wal.ba.jaː.nu wal.ba.diːʕ] (Qan-na-na as-Sak-kā-kiy-yu wal-Qaz-wī-niy-yu ʿu-lū-ma al-ba-lā-gha-ti fī tha-lā-tha-ti ar-kā-nin hi-ya al-ma-ʿā-nī wal-ba-yā-nu wal-ba-dīʿ.)",
+          "translation": "Al-Sakkaki and al-Qazwini codified the sciences of rhetoric into three pillars: Ma'ani, Bayan, and Badi'."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (31.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يَتَجَلَّى إِعْجَازُ القُرْآنِ الكَرِيمِ فِي بَرَاعَةِ النَّظْمِ وَتَنَاسُقِ الفَوَاصِلِ وَسُمُوِّ البَيَانِ الَّذِي أَعْجَزَ البُلَغَاءَ.(Yatajallā iʿjāzu al-Qurʾāni al-karīmi fī barāʿati an-naẓmi wa-tanāsuqi al-fawāṣili wa-sumuwwi al-bayāni al-ladhī aʿjaza al-bulaghāʾ.)",
+          "reading": "[ja.ta.ʒal.laː ʔiʕ.ʒaː.zu‿l.qur.ʔaː.ni‿l.ka.riː.mi fiː ba.raː.ʕa.ti‿n.nazˤ.mi wa.ta.naː.su.qi‿l.fa.waː.sˤi.li wa.su.muw.wi‿l.ba.jaː.ni‿l.la.ðiː ʔaʕ.ʒa.za‿l.bu.la.ɣaːʔ] (Ya-ta-jal-lā iʿ-jā-zu al-Qur-ʾā-ni al-ka-rī-mi fī ba-rā-ʿa-ti an-naẓ-mi wa-ta-nā-su-qi al-fa-wā-ṣi-li wa-su-muw-wi al-ba-yā-ni al-la-dhī aʿ-ja-za al-bu-la-ghā-ʾ.)",
+          "translation": "The inimitability of the Holy Quran manifests in the brilliance of composition, harmony of verse endings, and sublimity of eloquence that incapacitated rhetoricians."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "نَظْمُ الجُرْجَانِيِّ لِفِكْرٍ يَهْدِي، مَعَانِي النَّحْوِ سِرٌّ لَا يُرْدِي!"
+      ],
+      "culturalNotes": [
+        "تُعد نظرية النظم عند عبد القاهر الجرجاني في القرن الخامس الهجري أسبق وأعمق تنظير لغوي تركيبي سبق البنيوية الحديثة لسوسير والتوليدية لتشومسكي بقرون طويلة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)» (الدرس 4)؟",
+          "prompt": "ما هو جوهر نظرية «النظم» التأسيسية عند الإمام عبد القاهر الجرجاني في «دلائل الإعجاز»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)» بأسلوب أكاديمي دقيق (31.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (31.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (31.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (31.4.w3)"
+            "تَوَخِّي مَعَانِي النَّحْوِ وَأَحْكَامِهِ وَفُرُوقِهِ فِيمَا بَيْنَ الكَلِمِ فِي السِّيَاقِ المُرَكَّبِ (Pursuing grammatical meanings, rules & nuances among words in composite context)",
+            "اختيار الكلمات الطويلة النادرة في المعاجم",
+            "وزن الأبيات على بحور الشعر الستة عشر فقط",
+            "إلغاء الإعراب والاعتماد على السجع"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "النظم عند الجرجاني ليس مجرد رصف للألفاظ، بل هو توخي معاني النحو وعلاقات التأليف الدلالية والتركيبية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "من هما العالمان البلاغيان اللذان قننا وقسما علوم البلاغة إلى (المعاني والبيان والبديع) بصورتها المنهجية المعتمدة؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "السَّكَّاكِيُّ (مِفْتَاحُ العُلُومِ) وَالخَطِيبُ القَزْوِينِيُّ (التَّلْخِيصُ) (Al-Sakkaki & Al-Khatib al-Qazwini)",
+            "ابن خلدون وابن بطوطة",
+            "الخوارزمي والبيروني",
+            "ابن سينا والفارابي"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "السكاكي في «مفتاح العلوم» والقزويني في «تلخيص المفتاح» هما اللذان قعدا التقسيم الثلاثي للبلاغة."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u31-l4):",
+          "prompt": "اختر الموقف البلاغي للجرجاني من فصاحة الألفاظ المفردة المنعزلة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (31.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (31.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (31.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (31.4.x3)"
+            "«الأَلْفَاظُ المُفْرَدَةُ لَا فَضْلَ لِبَعْضِهَا عَلَى بَعْضٍ فِي ذَاتِهَا، وَإِنَّمَا تَتَفَاوَتُ الفَصَاحَةُ بِمَوْقِعِهَا فِي النَّظْمِ وَالتَّرْكِيبِ». ('Isolated words have no inherent superiority in themselves; eloquence varies only by their placement in composition.')",
+            "الكلمات المفردة هي المصدر الوحيد للإعجاز والبلاغة",
+            "يجب حفظ المعجم دون الاهتمام بالنحو",
+            "جرجاني سكاكي قزويني نظم إعجاز سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "أثبت الجرجاني أن الكلمة المفردة لا توصف بفصاحة معجزة بذاتها، وإنما تكتسب قيمتها البلاغية من نظمها وتأليفها النحوي."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)»؟",
+          "prompt": "ما إعراب كلمة «نَظَرِيَّةَ» في جملة: «أَرْسَى الجُرْجَانِيُّ نَظَرِيَّةَ النَّظْمِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (31.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (31.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (31.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (31.4.y3)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Direct object in accusative)",
+            "فاعل مرفوع بالضمة",
+            "مضاف إليه مجرور",
+            "حال منصوبة بالفتحة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الجُرْجَانِيُّ» فاعل مرفوع، و«نَظَرِيَّةَ» مفعول به منصوب وعلامة نصبه الفتحة."
         }
       ]
     },
@@ -18948,24 +18976,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 31-4)؟",
+          "prompt": "اختر النص البلاغي الإبستمولوجي الذي يحلل عبقرية نظرية النظم عند الجرجاني وإعجاز البيان القرآني بأعلى درجات الرصانة والتحقيق:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (31.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (31.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (31.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (31.4.z3)"
+            "فَجَّرَ الإِمَامُ عَبْدُ القَاهِرِ الجُرْجَانِيُّ ثَوْرَةً لِسَانِيَّةً بَلَاغِيَّةً خَالِدَةً حِينَ صَاغَ فِي «دَلَائِلِ الإِعْجَازِ» نَظَرِيَّتَهُ الكُبْرَى فِي «النَّظْمِ»؛ حَيْثُ حَرَّرَ العَقْلَ مِنْ وَهْمِ الفَصَاحَةِ اللَّفْظِيَّةِ المُجَرَّدَةِ مُثْبِتًا أَنَّ الإِعْجَازَ كَامِنٌ فِي تَوَخِّي مَعَانِي النَّحْوِ وَشَبَكَةِ العَلَاقَاتِ التَّرْكِيبِيَّةِ، لِيُقَعِّدَ السَّكَّاكِيُّ وَالقَزْوِينِيُّ مِنْ بَعْدِهِ أَرْكَانَ البَلَاغَةِ الثَّلَاثَةَ (المَعَانِي وَالبَيَانَ وَالبَدِيعَ) كَأَعْظَمِ مَنْظُومَةٍ لِفَهْمِ إِعْجَازِ القُرْآنِ وَأَسْرَارِ البَيَانِ الإِنْسَانِيِّ. (Imam Abd al-Qahir al-Jurjani exploded an immortal linguistic rhetorical revolution when he formulated in 'Dalail al-I'jaz' his great theory of 'Nazm'; where he freed the intellect from the illusion of abstract verbal eloquence proving that inimitability resides in pursuing grammatical meanings and network of syntactic relations, so al-Sakkaki and al-Qazwini codified after him the three rhetorical pillars [Ma'ani, Bayan, and Badi'] as the greatest system for understanding Quranic inimitability and human eloquence secrets.)",
+            "كتب الجرجاني كتاب دلائل الإعجاز وكتب السكاكي مفتاح العلوم في البلاغة العربية.",
+            "جرجاني سكاكي قزويني دلائل مفتاح إعجاز نظم معاني بيان بديع سكون فتحة ضمة.",
+            "فشلت نظرية النظم في تفسير أسرار البلاغة والفصاحة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يستوعب بكفاءة بالغة: ثورة نظرية النظم، تفنيد وهم الفصاحة اللفظية المعزولة، التأصيل النحوي التركيبي، والتقنين التاريخي الثلاثي للبلاغة عند السكاكي والقزويني."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u31-l4) باللغة العربية (مثال: «البلاغة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم النظرية البلاغية واللسانية الكبرى التي صاغها الإمام عبد القاهر الجرجاني في «دلائل الإعجاز» (اكتب: «نظرية النظم» أو «النظم»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "البلاغة",
-            "البلاغة"
+            "نظرية النظم",
+            "النظم",
+            "نظريه النظم",
+            "علم النظم",
+            "نَظَرِيَّةُ النَّظْمِ",
+            "النَّظْم"
           ],
-          "explanation": "المصطلح الصحيح هو «البلاغة»."
+          "explanation": "النظرية هي «نظرية النظم» (Theory of Nazm)."
         }
       ],
       "passThreshold": 0.8
@@ -18976,85 +19008,89 @@
     "subject": "arabic",
     "unit": 31,
     "lessonNumber": 5,
-    "title": "البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric) (الدرس 5)",
+    "title": "حوار مجمع البلاغة والتحليل الأسلوبي الشامل للنصوص الفصحى (Rhetorical Academy Colloquium & Stylistic Synthesis)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: علوم البلاغة الثلاثة: التشبيه والمجاز والاستعارة والكناية، وأسرار الفصاحة والإعجاز. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة الحادية والثلاثين: علوم البيان والمعاني والبديع، ونظرية النظم عند الجرجاني، وأسرار التحليل الأسلوبي للنصوص الفصحى في حوار أكاديمي نقدي رفيع بمجمع البلاغة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة الحادية والثلاثين (مستوى C2 الأعلى كفاءة) من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس، ندمج علوم البلاغة العربية الثلاثة وتطبيقاتها الأسلوبية في حوار نخبوي رفيع يدور في مجمع البلاغة واللسانيات بين شيخ البلاغيين (أ.د. عبد الحميد) والباحثة اللسانية (د. هدى):\n\nمحاور المناظرة البلاغية الشاملة:\n1.【علم البيان والتصوير】: «التَّشْبِيهُ البَلِيغُ وَالضِّمْنِيُّ»، «الاسْتِعَارَةُ المَكْنِيَّةُ وَالتَّصْرِيحِيَّةُ»، «الكِنَايَةُ وَالمَجَازُ المُرْسَلُ».\n2.【علم المعاني والتداوليات】: «مُطَابَقَةُ مitemقْتَضَى الحَالِ»، «أَضْرُبُ الخَبَرِ»، «أَسَالِيبُ الإِنْشَاءِ الطَّلَبِيِّ»، «القَصْرُ وَالالْتِفَاتُ».\n3.【علم البديع والموسيقى】: «المُحَسَّنَاتُ المَعْنَوِيَّةُ (الطِّبَاقُ، المُقَابَلَةُ، التَّوْرِيَةُ)»، «المُحَسَّنَاتُ اللَّفْظِيَّةُ (الجِنَاسُ، السَّجْعُ)».\n4.【نظرية النظم والإعجاز】: «تَوَخِّي مَعَانِي النَّحْوِ عِنْدَ الجُرْجَانِيِّ»، و«تَقْسِيمَاتُ السَّكَّاكِيِّ وَالقَزْوِينِيِّ».\n5.【الرؤية الأسلوبية المعاصرة】: التقاء البلاغة التراثية باللسانيات التداولية والتحليل الأسلوبي المعاصر للنص الأدبي.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)» بأسلوب أكاديمي دقيق (31.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)' to students in an accurate academic style."
+          "target": "مَرْحَبًا دُكْتُورَة هُدَى، كَيْفَ نَرَى تَكَامُلَ عُلُومِ البَيَانِ وَالمَعَانِي وَالبَدِيعِ فِي تَشْكِيلِ عَبْقَرِيَّةِ اللِّسَانِ العَرَبِيِّ؟(Marḥaban duktūrah Hudā, kayfa narā takāmula ʿulūmi al-bayāni wa-al-maʿānī wa-al-badīʿi fī tashkīli ʿabqariyyati al-lisāni al-ʿarabiyy?)",
+          "reading": "[mar.ħa.ban duk.tuː.rah hu.daː, kaj.fa na.raː ta.kaː.mu.la ʕu.luː.mi‿l.ba.jaː.ni wal.ma.ʕaː.niː wal.ba.diː.ʕi fiː taʃ.kiː.li ʕab.qa.rij.ja.ti‿l.li.saː.ni‿l.ʕa.ra.bijj?] (Mar-ḥa-ban duk-tū-rah Hu-dā, kay-fa na-rā ta-kā-mu-la ʿu-lū-mi al-ba-yā-ni wal-ma-ʿā-nī wal-ba-dī-ʿi fī tash-kī-li ʿab-qa-riy-ya-ti al-li-sā-ni al-ʿa-ra-biyy?)",
+          "translation": "Welcome Dr. Huda, how do we see the integration of Bayan, Ma'ani, and Badi' sciences in shaping Arabic linguistic genius?"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (31.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَهْلًا أُسْتَاذَنَا د. عَبْد الحَمِيد؛ إِنَّ البَلَاغَةَ العَرَبِيَّةَ مَنْظُومَةٌ إِبِسْتِمُولُوجِيَّةٌ مُتَكَامِلَةٌ يَمْتَزِجُ فِيهَا صِدْقُ التَّصْوِيرِ بِحِكْمَةِ المَقَامِ وَعُذُوبَةِ النَّغَمِ.(Ahlan ustādhanā d. ʿAbda al-Ḥamīd; inna al-balāghata al-ʿarabiyyata manẓūmatun ibistimūlūjiyyatun mutakāmilatun yamtaziju fīhā ṣidqu at-taṣwīri bi-ḥikmati al-maqāmi wa-ʿudhūbati an-nagham.)",
+          "reading": "[ʔah.lan ʔus.taː.ða.naː d. ʕab.dal.ħa.miːd; ʔin.na‿l.ba.laː.ɣa.ta‿l.ʕa.ra.bij.ja.ta man.zˤuː.ma.tun ʔi.bis.ti.muː.luː.ʒij.ja.tun mu.ta.kaː.mi.la.tun jam.ta.zi.ʒu fiː.haː sˤid.qu‿t.tasˤ.wiː.ri bi.ħik.ma.ti‿l.ma.qaː.mi wa.ʕu.ðuː.ba.ti‿n.na.ɣam] (Ah-lan us-tā-dha-nā d. ʿAb-dal-Ḥa-mīd; in-na al-ba-lā-gha-ta al-ʿa-ra-biy-ya-ta man-ẓū-ma-tun i-bis-ti-mū-lū-jiy-ya-tun mu-ta-kā-mi-la-tun yam-ta-zi-ju fī-hā ṣid-qu at-taṣ-wī-ri bi-ḥik-ma-ti al-ma-qā-mi wa-ʿu-dhū-ba-ti an-na-gham.)",
+          "translation": "Welcome our professor Dr. Abd al-Hamid; Arabic rhetoric is an integrated epistemological system wherein truth of imagery merges with context wisdom and sweet melody."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (31.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "حَيْثُ يُعْطِينَا البَيَانُ سِحْرَ الصُّورَةِ، وَيَضْبِطُ المَعَانِي مَقَاصِدَ الخِطَابِ عَبْرَ نَظَرِيَّةِ النَّظْمِ، بَيْنَمَا يُتَوِّجُ البَدِيعُ الأُسْلُوبَ بِرَوْنَقِ الإِيقَاعِ الصَّافِي.(Ḥaythu yuʿṭīnā al-bayānu siḥra aṣ-ṣūrati, wa-yaḍbiṭu al-maʿānī maqāṣida al-khiṭābi ʿabra naẓariyyati an-naẓmi, baynamā yutawwiju al-badīʿu al-uslūba bi-rawnaqi al-īqāʿi aṣ-ṣāfī.)",
+          "reading": "[ħaj.θu juʕ.tˤiː.naː‿l.ba.jaː.nu siħ.ra‿sˤ.sˤuː.ra.ti, wa.jadˤ.bi.tˤu‿l.ma.ʕaː.niː ma.qaː.sˤi.da‿l.xi.tˤaː.bi ʕab.ra na.zˤa.rij.ja.ti‿n.nazˤ.mi, baj.na.maː ju.taw.wi.ʒu‿l.ba.diː.ʕu‿l.ʔus.luː.ba bi.raw.na.qi‿l.ʔiː.qaː.ʕi‿sˤ.sˤaː.fiː] (Ḥay-thu yuʿ-ṭī-nā al-ba-yā-nu siḥ-ra aṣ-ṣū-ra-ti, wa-yaḍ-bi-ṭu al-ma-ʿā-nī ma-qā-ṣi-da al-khi-ṭā-bi ʿab-ra na-ẓa-riy-ya-ti an-naẓ-mi, bay-na-mā yu-taw-wi-ju al-ba-dī-ʿu al-us-lū-ba bi-raw-na-qi al-ī-qā-ʿi aṣ-ṣā-fī.)",
+          "translation": "Where Bayan grants us image magic, Ma'ani regulates discourse intents through the theory of Nazm, while Badi' crowns style with the luster of pure rhythm."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (31.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "لِتَظَلَّ البَلَاغَةُ العَرَبِيَّةُ مَفْخَرَةَ الضَّادِ وَمَعْبَرَ الإِبْدَاعِ الأَدَبِيِّ الخَالِدِ الَّذِي يُحَاوِرُ أَعْمَاقَ الفِكْرِ الإِنْسَانِيِّ.(Li-taẓalla al-balāghatu al-ʿarabiyyatu mafkharata aḍ-ḍādi wa-maʿbara al-ibdāʿi al-adabiyyi al-khālidi al-ladhī yuḥāwiru aʿmāqa al-fikri al-insāniyy.)",
+          "reading": "[li.ta.zˤal.la‿l.ba.laː.ɣa.tu‿l.ʕa.ra.bij.ja.tu maf.xa.ra.ta‿dˤ.dˤaː.di wa.maʕ.ba.ra‿l.ʔib.daː.ʕi‿l.ʔa.da.bij.ji‿l.xaː.li.di‿l.la.ðiː ju.ħaː.wi.ru ʔaʕ.maː.qa‿l.fik.ri‿l.ʔin.saː.nijj] (Li-ta-ẓal-la al-ba-lā-gha-tu al-ʿa-ra-biy-ya-tu maf-kha-ra-ta aḍ-ḍā-di wa-maʿ-ba-ra al-ib-dā-ʿi al-a-da-biy-yi al-khā-li-di al-la-dhī yu-ḥā-wi-ru aʿ-mā-qa al-fik-ri al-in-sā-niyy.)",
+          "translation": "So Arabic rhetoric remains the pride of Dhad and the passage of eternal literary creativity conversing with the depths of human thought."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فِي مَجْمَعِ البَلَاغَةِ يَزْهُو البَيَانْ، مَعَانٍ وَبَدِيعٌ وَسِحْرُ اللِّسَانْ!"
+      ],
+      "culturalNotes": [
+        "يُعد استيعاب أسرار علوم البلاغة الثلاثة ونظرية النظم المعيار الأسمى في التراث العربي للوصول إلى مرتبة «الاجتهاد اللغوي والنقدي المطلق» وتذوق الإعجاز البياني."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)» (الدرس 5)؟",
+          "prompt": "ما هو التكامل الجوهري بين علوم البلاغة الثلاثة (البيان، المعاني، والبديع) في تقييم النصوص الأدبية العليا؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)» بأسلوب أكاديمي دقيق (31.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (31.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (31.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (31.5.w3)"
+            "المَعَانِي لِمُطَابَقَةِ مَقَاصِدِ الحَالِ وَالنَّظْمِ، البَيَانُ لِتَوْضِيحِ الدَّلَالَةِ وَالتَّصْوِيرِ، وَالبَدِيعُ لِتَحْسِينِ الكَلَامِ وَنَغَمِهِ (Ma'ani for context & nazm, Bayan for imagery & clarity, Badi' for stylistic elegance & music)",
+            "أن كل علم يعمل مستقلاً دون أي ارتباط بالآخرين",
+            "أن البديع هو العلم الوحيد المهم والباقي مهمل",
+            "إلغاء المعنى والتركيز على السجع فقط"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "البلاغة بناء متكامل: المعاني يضبط مطابقة المقام والنظم النحوي، والبيان يمنح جمال الصورة، والبديع يزين اللفظ والمعنى."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "كيف تخدم نظرية «النظم» للجرجاني التحليل الأسلوبي المعاصر للنصوص؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "بِرَبْطِ البِنْيَةِ التَّرْكِيبِيَّةِ النَّحْوِيَّةِ لِلْجُمَلِ بِالدَّلَالَاتِ النَّفْسِيَّةِ وَالسِّيَاقِيَّةِ لِلنَّصِّ (Linking syntactic grammatical structure to psychological & contextual text semantics)",
+            "بعدّ الكلمات والحروف في كل صفحة",
+            "بإلغاء دراسة النحو في الجامعات",
+            "بفصل النص عن معناه ومقاصده"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "نظرية النظم هي الأساس العلمي للتحليل الأسلوبي الحديث في ربط التراكيب النحوية بالدلالات والأبعاد النفسية."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u31-l5):",
+          "prompt": "اختر الفقرة الحوارية النقدية التي تختزل الرؤية البلاغية المعاصرة بأعلى مستويات الجزالة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (31.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (31.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (31.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (31.5.x3)"
+            "— كَيْفَ تُلَخِّصُ رُوحَ البَلَاغَةِ العَرَبِيَّةِ؟ — أَرَاهَا فِي قُدْرَةِ النَّظْمِ عَلَى مُعَانَقَةِ الفِكْرِ؛ حَيْثُ تَتَّحِدُ أَحْكَامُ النَّحْوِ بِسِحْرِ البَيَانِ لِتَصْنَعَ خِطَابًا إِبْدَاعِيًّا يُؤَثِّرُ فِي القُلُوبِ وَيُخَاطِبُ العُقُولَ. (— How do you summarize the spirit of Arabic rhetoric? — In Nazm's power embracing thought; where grammatical rules unite with Bayan's magic to forge creative discourse moving hearts and addressing minds.)",
+            "— هل قرأت كتاب البلاغة اليوم؟ — نعم قرأت صفحتين منه في الصباح.",
+            "— كم قسما لعلوم البلاغة؟ — ثلاثة أقسام مشهورة.",
+            "— حوار مجمع بلاغة تحليل أسلوبي سكون."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة تجسد فلسفة البلاغة في اتحاد النظم النحوي مع سحر البيان والتأثير الإقناعي والجمالي."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «البلاغة العربية: البيان والمعاني والبديع (Arabic Rhetoric)»؟",
+          "prompt": "ما إعراب كلمة «خِطَابًا» في قولنا: «لِتَصْنَعَ خِطَابًا إِبْدَاعِيًّا»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (31.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (31.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (31.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (31.5.y3)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Direct object in accusative)",
+            "فاعل مرفوع بالضمة",
+            "حال منصوبة بالفتحة",
+            "تمييز منصوب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«تَصْنَعَ» فعل مضارع والفاعل ضمير مستتر تقديره هي، و«خِطَابًا» مفعول به منصوب وعلامة نصبه الفتحة."
         }
       ]
     },
@@ -19062,24 +19098,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 31-5)؟",
+          "prompt": "اختر النص الحواري البلاغي الشامل الذي يدمج مخرجات الوحدة الحادية والثلاثين بأكملها (البيان، المعاني، البديع، ونظرية النظم للجرجاني):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (31.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (31.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (31.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (31.5.z3)"
+            "أ.د. عَبْد الحَمِيد: «دُكْتُورَة هُدَى، كَيْفَ نُجْمِلُ الخُلَاصَةَ المَنْهَجِيَّةَ لِعُلُومِ البَلَاغَةِ العَرَبِيَّةِ فِي تَحْلِيلِ النُّصُوصِ الفُصْحَى؟» — د. هُدَى: «إِنَّهَا مَنْظُومَةُ الإِعْجَازِ وَالفَصَاحَةِ المُتَكَامِلَةِ؛ حَيْثُ يُشَيِّدُ «عِلْمُ البَيَانِ» عَوَالِمَ التَّصْوِيرِ بِالتَّشْبِيهِ وَالاسْتِعَارَةِ وَالكِنَايَةِ، وَيَضْبِطُ «عِلْمُ المَعَانِي» مَقَاصِدَ الخِطَابِ وَمُقْتَضَى الحَالِ عَبْرَ نَظَرِيَّةِ «النَّظْمِ» الخَالِدَةِ لِلْجُرْجَانِيِّ، بَيْنَمَا يَمْنَحُ «عِلْمُ البَدِيعِ» النَّصَّ رَوْنَقَ المُحَسَّنَاتِ المَعْنَوِيَّةِ وَالجَرْسِ اللَّفْظِيِّ، لِيَغْدُوَ البَيَانُ العَرَبِيُّ عِمَادَ الإِبْدَاعِ الأَدَبِيِّ وَمِرْآةَ الإِعْجَازِ الخَالِدِ». (Prof. Dr. Abd al-Hamid: 'Dr. Huda, how do we summarize the methodological synthesis of Arabic rhetorical sciences in analyzing classical texts?' — Dr. Huda: 'It is the integrated system of inimitability and eloquence; where 'Ilm al-Bayan' erects worlds of imagery with simile, metaphor and metonymy, 'Ilm al-Ma'ani' regulates discourse intents and situational context via Jurjani's immortal 'Nazm' theory, while 'Ilm al-Badi'' grants the text the luster of semantic figures and phonetic resonance, making Arabic eloquence the pillar of literary creativity and the mirror of immortal inimitability.')",
+            "أ.د. عبد الحميد: هل أنهيت بحث البلاغة اليوم؟ — د. هدى: نعم أنهيت مراجعة الفصول الثلاثة.",
+            "حوار بلاغي شامل بيان معاني بديع جرجاني سكاكي قزويني سكون فتحة ضمة تنوين.",
+            "توقفت دراسات البلاغة في الجامعات العربية الحديثة تماما."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة التحليل البلاغي الموسوعي المتقن في الربط التكاملي بين البيان والمعاني والبديع ونظرية النظم والإعجاز البياني الخالد."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u31-l5) باللغة العربية (مثال: «البلاغة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الميدان المعرفي الأدبي الذي يضم علوم البيان والمعاني والبديع (اكتب: «البلاغة العربية» أو «البلاغة»؛ بدون تشكيل):",
           "acceptedAnswers": [
+            "البلاغة العربية",
             "البلاغة",
-            "البلاغة"
+            "بلاغة عربية",
+            "بلاغة",
+            "البَلَاغَةُ العَرَبِيَّةُ",
+            "البَلَاغَة"
           ],
-          "explanation": "المصطلح الصحيح هو «البلاغة»."
+          "explanation": "الميدان المعرفي هو «البلاغة العربية» (Arabic Rhetoric)."
         }
       ],
       "passThreshold": 0.8
