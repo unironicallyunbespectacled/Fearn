@@ -12375,53 +12375,62 @@
     "subject": "swahili",
     "unit": 30,
     "lessonNumber": 1,
-    "title": "Ushairi wa Kiswahili na Ushairi wa Ushairi (Poetic Prosody) (Part 1)",
+    "title": "Misingi ya Arudhi ya Ushairi wa Jadi: Mizani, Vina na Vituo (Traditional Prosody)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.1) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili (mizani, vina vya ndani na nje, ukwapi na utao, mshororo, ubeti, kibwagizo/kituo, na uhuru wa kishairi: inkisari na mazida).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Misingi ya Arudhi na Muundo wa Ushairi wa Jadi wa Kiswahili (Swahili Poetic Prosody):\n\nUshairi wa Kiswahili una kanuni thabiti za kiarudhi zilizojengwa kwa karne nyingi:\n\n1. **Muundo wa Mshororo na Ubeti (Stanza & Line Anatomy)**:\n   - **Mshororo / Mishororo (Poetic Line/s)**: Mstari mmoja katika ubeti wa shairi.\n   - **Ubeti / Beti (Stanza/s)**: Fungo la mishororo inayounda sehemu moja ya shairi.\n   - **Mizani (Syllable Count / Metre)**: Idadi ya silabi katika mshororo mmoja (k.m. mizani 16: silabi 8 ukwapi + silabi 8 utao).\n   - **Ukwapi (First Hemistich / Half-line)** na **Utao (Second Hemistich)**: Sehemu ya kwanza na ya pili ya mshororo.\n   - **Vina vya Ndani na vya Nje (Internal & Terminal Rhymes)**: Urari wa sauti za herufi zinazofanana katikati na mwishoni mwa mshororo.\n   - **Kibwagizo / Kituo (Refrain)**: Mshororo wa mwisho katika ubeti unaojirudia kutilia mkazo maudhui.\n\n2. **Uhuru wa Kishairi (Poetic License)**:\n   - **Inkisari (Contraction)**: Kufupisha neno ili kutosheleza mizani (k.m. *sitosema* badala ya *sitasema*, *'ngu* badala ya *wangu*).\n   - **Mazida (Elongation)**: Kurefusha neno ili kutimiza idadi ya mizani (k.m. *endapo* kuwa *endapoe*).\n   - **Tabdila (Phonetic Modification)**: Kubadili sauti ya neno kulingana na kina.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 30."
+          "target": "Katika ushairi wa jadi wa Kiswahili, mshororo wa tarbia huwa na mizani kumi na sita iliyogawanyika katika ukwapi na utao wenye vina vinavyolingana.",
+          "reading": "Ka-ti-ka usha-i-ri wa ja-di wa Ki-swa-hi-li, msho-ro-ro wa ta-rbia hu-wa na mi-za-ni ku-mi na si-ta ili-yo-ga-wa-nyi-ka ka-ti-ka ukwa-pi na uta-o we-nye vi-na vi-na-vyo-li-nga-na. [ˈkɑtikɑ uʃɑˈiri wɑ ˈʤɑdi wɑ kiswɑˈhili mʃɔˈrɔrɔ wɑ tɑˈrbiɑ ˈhuwɑ nɑ miˈzɑni ˈkumi nɑ ˈsitɑ ilijɔɡɑwɑˈɲikɑ ˈkɑtikɑ uˈkwɑpi nɑ uˈtɑɔ ˈwɛɲɛ ˈvinɑ vinɑvjɔliˈŋɡɑnɑ] (KAH-tee-kah oo-shah-EE-ree wah JAH-dee wah kee-swah-HEE-lee, m-shoh-ROH-roh wah tahr-BEE-ah HOO-wah nah mee-ZAH-nee KOO-mee nah SEE-tah ee-lee-yoh-gah-wah-NYEE-kah KAH-tee-kah oo-KWAH-pee nah oo-TAH-oh WAY-nyay VEE-nah vee-nah-vyoh-leen-GAH-nah)",
+          "translation": "In classical Swahili poetry, a quatrain line typically contains sixteen syllables partitioned into first and second hemistichs bearing concordant internal and terminal rhymes."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 30-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mshairi alitumia inkisari na mazida kama sehemu ya uhuru wa kishairi ili kutosheleza urari wa mizani na mapigo ya vina katika kila ubeti.",
+          "reading": "Msha-i-ri ali-tu-mia i-nki-sa-ri na ma-zi-da ka-ma se-he-mu ya uhu-ru wa ki-sha-i-ri i-li ku-to-she-le-za ura-ri wa mi-za-ni na ma-pi-go ya vi-na ka-ti-ka ki-la ube-ti. [mʃɑˈiri ɑlituˈmiɑ iŋkiˈsɑri nɑ mɑˈzidɑ ˈkɑmɑ sɛˈhɛmu jɑ uˈhuru wɑ kiʃɑˈiri ˈili kutɔʃɛˈlɛzɑ uˈrɑri wɑ miˈzɑni nɑ mɑˈpiɡɔ jɑ ˈvinɑ ˈkɑtikɑ ˈkilɑ uˈbɛti] (m-shah-EE-ree ah-lee-TOO-mee-ah een-kee-SAH-ree nah mah-ZEE-dah KAH-mah say-HAY-moo yah oo-HOO-roo wah kee-shah-EE-ree EE-lee koo-toh-shay-LAY-zah oo-RAH-ree wah mee-ZAH-nee nah mah-PEE-goh yah VEE-nah KAH-tee-kah KEE-lah oo-BAY-tee)",
+          "translation": "The poet deployed syllable contractions and elongations under poetic license to satisfy metric regularity and rhythmic rhyming cadences in each stanza."
+        },
+        {
+          "target": "Kibwagizo cha shairi hili kinajirudia mwishoni mwa kila ubeti ili kutilia mkazo ujumbe mkuu wa maadili na hekima kwa jamii.",
+          "reading": "Ki-bwa-gi-zo cha sha-i-ri hi-li kina-ji-ru-dia mwi-sho-ni mwa ki-la ube-ti i-li ku-ti-lia mka-zo uju-mbe mku-u wa ma-a-di-li na he-ki-ma kwa ja-mi-i. [kibwɑˈɡizɔ tʃɑ ʃɑˈiri ˈhili kinɑʤiruˈdiɑ mwiˈʃɔni mwɑ ˈkilɑ uˈbɛti ˈili kutiˈliɑ ˈmkɑzɔ uˈʤumbɛ ˈmkuː wɑ mɑɑˈdili nɑ hɛˈkimɑ kwɑ ʤɑˈmiː] (kee-bwah-GEE-zoh chah shah-EE-ree HEE-lee kee-nah-jee-roo-DEE-ah mwee-SHOH-nee mwah KEE-lah oo-BAY-tee EE-lee koo-tee-LEE-ah M-KAH-zoh oo-JOOM-bay M-KOO-oo wah mah-ah-DEE-lee nah hay-KEE-mah kwah jah-MEE-ee)",
+          "translation": "The refrain of this poem recurs at the conclusion of every stanza to accentuate the cardinal moral message and wisdom directed toward the community."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Arudhi ya Ushairi: Mizani (syllables), Vina (rhymes: ndani & nje), Ukwapi & Utao (hemistichs), Kibwagizo (refrain), Inkisari (contraction)!"
+      ],
+      "culturalNotes": [
+        "Ushairi wa Kiswahili wa arudhi una historia ya zaidi ya miaka elfu moja kwenye pwani ya Afrika Mashariki na uliandikwa kwa herufi za Kiarabu (Kiajemi) kabla ya alfabeti ya Kilatini."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mtihani\":",
+          "prompt": "Mshororo wa mwisho katika ubeti wa shairi la kijadi unaojirudia rudia kutilia mkazo wazo kuu unaitwaje kwa Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Matokeo»",
-            "Mpangilio usio sahihi wa viambishi katika «Maktaba»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Shahada»"
+            "Kibwagizo / Kituo (Refrain / Chorus line - Correct poetic prosody term)",
+            "Kichwa cha habari",
+            "Mkataba wa bima",
+            "Kanuni ya ngeli"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Kibwagizo» au «kituo» ndio mshororo unaojirudia mwishoni mwa kila ubeti wa shairi."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mtihani\":",
+          "prompt": "Uwezo wa mshairi wa kufupisha neno (inkisari) au kurefusha neno (mazida) ili kutosheleza urari wa mizani unaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Maktaba»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Shahada»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Matokeo»"
+            "Uhuru wa kishairi (Poetic license - Correct literary concept)",
+            "Uchochezi wa kisiasa",
+            "Uvunjifu wa mkataba",
+            "Utawala wa sheria"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Uhuru wa kishairi» humruhusu mshairi kurekebisha miundo ya maneno ili kukidhi arudhi."
         }
       ]
     },
@@ -12429,17 +12438,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mtihani\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya vipengele vya arudhi ya ushairi wa jadi katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Shahada»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Matokeo»",
-            "Mpangilio usio sahihi wa viambishi katika «Maktaba»"
+            "Mizani, Vina vya ndani, Vina vya nje, Ukwapi, Utao, Mshororo, Ubeti, Kibwagizo, Inkisari, Mazida.",
+            "Ushairi wa jadi hauna mizani wala vina vyovyote.",
+            "Kibwagizo hutumiwa kupima urefu wa reli ya treni pekee.",
+            "Mshororo unamaanisha duka la kuuzia vitabu vya shule."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Vipengele vya arudhi: Mizani, Vina (ndani/nje), Ukwapi, Utao, Mshororo, Ubeti, Kibwagizo, Inkisari, Mazida."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u30-l2": {
@@ -12447,53 +12457,62 @@
     "subject": "swahili",
     "unit": 30,
     "lessonNumber": 2,
-    "title": "Ushairi wa Kiswahili na Ushairi wa Ushairi (Poetic Prosody) (Part 2)",
+    "title": "Bahari za Ushairi wa Kiswahili: Tarbia, Tathlitha, Takhmisa na Ngonjera (Poetic Forms)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.2) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi (tarbia, tathlitha, takhmisa, tasdisa), ngonjera (ushairi wa majibizano ya kimjadala), na tenzi ndefu za kishujaa na kihistoria.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Bahari Kuu za Ushairi na Aina za Utunzi (Swahili Poetic Forms & Genres):\n\nKatika fasihi ya Kiswahili, mashairi huainishwa katika 'bahari' kulingana na idadi ya mishororo katika kila ubeti au muundo wa utunzi:\n\n1. **Bahari Kulingana na Idadi ya Mishororo (Stanzaic Classifications)**:\n   - **Tathlitha (Tercet)**: Shairi lenye mishororo mitatu katika kila ubeti.\n   - **Tarbia (Quatrain)**: Bahari maarufu zaidi yenye mishororo minne kwa kila ubeti.\n   - **Takhmisa (Quintet)**: Shairi lenye mishororo mitano katika kila ubeti.\n   - **Tasdisa (Sestet)**: Shairi lenye mishororo sita kwa kila ubeti.\n\n2. **Aina Maalum za Utunzi wa Kishairi (Special Poetic Genres)**:\n   - **Ngonjera**: Ushairi wa kimjadala au maigizo ambapo wahusika wawili au zaidi hujibizana kwa beti za mashairi kutetea misimamo tofauti.\n   - **Utenzi / Tenzi (Epic Narrative Poetry)**: Mashairi marefu ya kihistoria au ya kishujaa yenye mizani minane tu kwa kila mshororo na mishororo minne kwa ubeti (k.m., *Utenzi wa Fumo Liyongo, Utenzi wa Mwanakupona, Utenzi wa Vita vya Maji Maji*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 30."
+          "target": "Tarbia ndiyo bahari ya ushairi inayotumiwa zaidi na washairi wa Kiswahili, ambapo kila ubeti una mishororo minne yenye vina vya ndani na vya nje.",
+          "reading": "Ta-rbia ndi-yo ba-ha-ri ya usha-i-ri ina-yo-tu-mi-wa za-i-di na wa-sha-i-ri wa Ki-swa-hi-li, a-mba-po ki-la ube-ti una mi-sho-ro-ro mi-nne ye-nye vi-na vya nda-ni na vya nje. [tɑˈrbiɑ ˈndijɔ bɑˈhɑri jɑ uʃɑˈiri inɑjɔtuˈmiwɑ zɑˈidi nɑ wɑʃɑˈiri wɑ kiswɑˈhili ɑˈmbɑpɔ ˈkilɑ uˈbɛti ˈunɑ miʃɔˈrɔrɔ ˈminnɛ ˈjɛɲɛ ˈvinɑ vjɑ ˈndɑni nɑ vjɑ ˈɲʤɛ] (tahr-BEE-ah NDEE-yoh bah-HAH-ree yah oo-shah-EE-ree ee-nah-yoh-too-MEE-wah zah-EE-dee nah wah-shah-EE-ree wah kee-swah-HEE-lee, ahm-BAH-poh KEE-lah oo-BAY-tee OO-nah mee-shoh-ROH-roh MEEN-nay YAY-nyay VEE-nah vyah NDAH-nee nah vyah N-JAY)",
+          "translation": "The quatrain [tarbia] is the most widely practiced poetic genre among Swahili poets, featuring four lines per stanza with internal and terminal rhyme schemes."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 30-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Ngonjera ni ushairi wa majibizano ya kimjadala ambapo wahusika wawili hutumia beti za mashairi kujadili hoja nzito za kijamii na kisiasa.",
+          "reading": "Ngo-nje-ra ni usha-i-ri wa ma-ji-bi-za-no ya ki-mja-da-la a-mba-po wa-hu-si-ka wa-wi-li hu-tu-mia be-ti za ma-sha-i-ri ku-ja-di-li ho-ja nzi-to za ki-ja-mi-i na ki-sia-sa. [ŋɡɔˈnʤɛrɑ ni uʃɑˈiri wɑ mɑʤibizɑˈnɔ jɑ kimʤɑˈdɑlɑ ɑˈmbɑpɔ wɑhuˈsikɑ wɑˈwili hutuˈmiɑ ˈbɛti zɑ mɑʃɑˈiri kuʤɑˈdili ˈhɔʤɑ ˈnzitɔ zɑ kiʤɑˈmiː nɑ kisiˈɑsɑ] (ngohn-JAY-rah nee oo-shah-EE-ree wah mah-jee-bee-ZAH-noh yah keem-jah-DAH-lah ahm-BAH-poh wah-hoo-SEE-kah wah-WEE-lee hoo-TOO-mee-ah BAY-tee zah mah-shah-EE-ree koo-jah-DEE-lee HOH-jah N-ZEE-toh zah kee-jah-MEE-ee nah kee-see-AH-sah)",
+          "translation": "Ngonjera is dramatic dialogic verse wherein two interlocutors exchange poetic stanzas debating weighty social and political arguments."
+        },
+        {
+          "target": "Utenzi wa Mwanakupona ni utunzi maarufu wa kihistoria wenye mafundisho ya malezi na maisha ya ndoa ulioandikwa katika lugha ya Kiswahili cha kale.",
+          "reading": "Ute-nzi wa Mwa-na-ku-po-na ni utu-nzi ma-a-ru-fu wa ki-hi-sto-ria we-nye ma-fu-ndi-sho ya ma-le-zi na ma-i-sha ya ndo-a ulio-a-ndi-kwa ka-ti-ka lu-gha ya Ki-swa-hi-li cha ka-le. [uˈtɛnzi wɑ mwɑnɑkuˈpɔnɑ ni uˈtundzi mɑɑˈrufu wɑ kihistɔˈriɑ ˈwɛɲɛ mɑfundiˈʃɔ jɑ mɑˈlɛzi nɑ mɑˈiʃɑ jɑ ˈndɔɑ uliɔɑˈndikwɑ ˈkɑtikɑ ˈluɣɑ jɑ kiswɑˈhili tʃɑ ˈkɑlɛ] (oo-TAYN-zee wah mwah-nah-koo-POH-nah nee oo-TOON-zee mah-ah-ROO-foo wah kee-hee-stoh-REE-ah WAY-nyay mah-foon-DEE-shoh yah mah-LAY-zee nah mah-EE-shah yah N-DOH-ah oo-lee-oh-ahn-DEEK-wah KAH-tee-kah LOO-gah yah kee-swah-HEE-lee chah KAH-lay)",
+          "translation": "The Epic of Mwana Kupona is an illustrious historical narrative epic containing moral instruction on domestic life composed in classical Swahili."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Bahari za Ushairi: Tathlitha (3), Tarbia (4), Takhmisa (5), Tasdisa (6); Ngonjera (dialogue), Tenzi (epic narratives)!"
+      ],
+      "culturalNotes": [
+        "Tenzi za Kiswahili kama Utenzi wa Fumo Liyongo zinasimulia mashujaa wa kale wa pwani na zimehifadhi utamaduni, hekima na usanifu wa lugha kwa karne nyingi."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Matokeo\":",
+          "prompt": "Bahari ya ushairi ambapo kila ubeti unaundwa na mishororo minne inaitwaje kwa Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Maktaba»",
-            "Mpangilio usio sahihi wa viambishi katika «Shahada»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kalamu»"
+            "Tarbia (Quatrain - Correct 4-line poetic form)",
+            "Tathlitha (Tercet - 3 lines)",
+            "Takhmisa (Quintet - 5 lines)",
+            "Tasdisa (Sestet - 6 lines)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Tarbia» ndiyo bahari ya ushairi yenye mishororo minne katika kila ubeti."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Matokeo\":",
+          "prompt": "Mtindo wa ushairi ambapo wahusika wawili hubishana au kujibizana kwa beti za mashairi jukwaani unaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Shahada»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kalamu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Maktaba»"
+            "Ngonjera (Dramatic dialogue poetry - Correct Swahili genre)",
+            "Insha ya simulizi",
+            "Tahariri ya gazeti",
+            "Ripoti ya ukaguzi wa fedha"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Ngonjera» ni sanaa ya ushairi wa majibizano ya kimjadala kati ya pande mbili."
         }
       ]
     },
@@ -12501,17 +12520,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Matokeo\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya bahari na aina za ushairi wa Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kalamu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Maktaba»",
-            "Mpangilio usio sahihi wa viambishi katika «Shahada»"
+            "Tathlitha (mishororo 3), Tarbia (mishororo 4), Takhmisa (mishororo 5), Tasdisa (mishororo 6), Ngonjera (majibizano), na Tenzi (masimulizi ya kishujaa).",
+            "Tarbia ina mishororo kumi na saba katika kila ubeti.",
+            "Ngonjera ni aina ya ngoma inayochezwa bila maneno yoyote.",
+            "Tenzi za Kiswahili ziliandikwa kwa lugha ya Kifaransa pekee."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Bahari sahihi: Tathlitha (3), Tarbia (4), Takhmisa (5), Tasdisa (6), Ngonjera (majibizano), Tenzi (masimulizi ya kishujaa)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u30-l3": {
@@ -12519,53 +12539,62 @@
     "subject": "swahili",
     "unit": 30,
     "lessonNumber": 3,
-    "title": "Ushairi wa Kiswahili na Ushairi wa Ushairi (Poetic Prosody) (Part 3)",
+    "title": "Ushairi Huru dhidi ya Ushairi wa Jadi: Mgogoro wa Arudhi (Free Verse & Kezilahabi)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.3) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 (wanamapokeo dhidi ya wanausasa/wanamabadiliko), ushairi huru (masivina), pingu za arudhi, na mchango wa Profesa Euphrase Kezilahabi.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Mgogoro wa Ushairi wa Kiswahili: Ushairi wa Jadi dhidi ya Ushairi Huru (The Great Prosody Debate):\n\nKatika miaka ya 1970, fasihi ya Kiswahili ilishuhudia mjadala mkali wa kihistoria kati ya makundi mawili ya wasomi na washairi:\n\n1. **Wanamapokeo (The Traditionalists)**:\n   - Wakiongozwa na akina Shaaban Robert, Mathias Mnyampala, na Sheikh Amri Abeid.\n   - Waliamini kuwa ushairi wa kweli wa Kiswahili sharti ufuate **arudhi**, yaani uwe na **mizani** kamili na **vina** vinavyolingana. Waliona shairi lisilo na arudhi kama nathari iliyokatwakatwa.\n\n2. **Wanamabadiliko / Wanausasa (The Modernists)**:\n   - Wakiongozwa na Profesa Euphrase Kezilahabi (kwa diwani yake ya *Kichomi*), Ebrahim Hussein, na Alamin Mazrui.\n   - Walitetea **Ushairi Huru (Free Verse / Masivina)** wakieleza kuwa kanuni ngumu za arudhi ni 'pingu' zinazozuia msanii kueleza hisia na maudhui mapya ya jamii ya kisasa.\n\n3. **Matokeo ya Mgogoro**:\n   - Leo hii, mitindo yote miwili (jadi na huru) inakubalika na kufundishwa katika vyuo vikuu na kukuza utajiri wa fasihi ya Kiswahili.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 30."
+          "target": "Euphrase Kezilahabi alianzisha vuguvugu la ushairi huru akitetea kwamba maudhui na hisia za mshairi hazipaswi kufungwa na pingu ngumu za arudhi.",
+          "reading": "Eu-phra-se Ke-zi-la-ha-bi ali-a-nzi-sha vu-gu-vu-gu la usha-i-ri hu-ru aki-te-te-a kwa-mba ma-u-dhu-i na hi-sia za msha-i-ri ha-zi-pa-shwi ku-fu-ngwa na pi-ngu ngu-mu za aru-dhi. [ɛuˈfrɑsɛ kɛzilɑˈhɑbi ɑliɑˈnziʃɑ vuɡuˈvuɡu lɑ uʃɑˈiri ˈhuru ɑkitɛˈtɛɑ ˈkwɑmbɑ mɑuˈðui nɑ hiˈsiɑ zɑ mʃɑˈiri hɑzipɑˈʃwi kuˈfuŋɡwɑ nɑ ˈpiŋɡu ˈŋɡumu zɑ ɑˈruði] (ay-oo-FRAH-say kay-zee-lah-HAH-bee ah-lee-ahn-ZEE-shah voo-goo-VOO-goo lah oo-shah-EE-ree HOO-roo ah-kee-tay-TAY-ah KWAHM-bah mah-oo-THOO-ee nah hee-SEE-ah zah m-shah-EE-ree hah-zee-pah-SHWEE koo-FOON-gwah nah PEEN-goo N-GOO-moo zah ah-ROO-thee)",
+          "translation": "Euphrase Kezilahabi spearheaded the free verse revolution arguing that a poet's thematic depth and aesthetic emotion must not be shackled by rigid prosodic constraints."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 30-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wanamapokeo walisisitiza kuwa shairi lisilo na vina wala urari wa mizani haliwezi kuitwa shairi la Kiswahili bali ni nathari iliyokatwakatwa.",
+          "reading": "Wa-na-ma-po-ke-o wa-li-si-si-ti-za ku-wa sha-i-ri li-si-lo na vi-na wa-la ura-ri wa mi-za-ni ha-li-we-zi kui-twa sha-i-ri la Ki-swa-hi-li ba-li ni na-tha-ri ili-yo-ka-twa-ka-twa. [wɑnɑmɑpɔˈkɛɔ wɑlisisiˈtizɑ ˈkuwɑ ʃɑˈiri lisiˈlɔ nɑ ˈvinɑ ˈwɑlɑ uˈrɑri wɑ miˈzɑni hɑliˈwɛzi kuˈitwɑ ʃɑˈiri lɑ kiswɑˈhili ˈbɑli ni nɑˈθɑri ilijɔkɑtwɑˈkɑtwɑ] (wah-nah-mah-poh-KAY-oh wah-lee-see-see-TEE-zah KOO-wah shah-EE-ree lee-see-LOH nah VEE-nah WAH-lah oo-RAH-ree wah mee-ZAH-nee hah-lee-WAY-zee koo-EET-wah shah-EE-ree lah kee-swah-HEE-lee BAH-lee nee nah-THAH-ree ee-lee-yoh-kah-twah-KAH-twah)",
+          "translation": "Traditionalists insisted that any verse devoid of rhyming concord and syllabic regularity could not be designated Swahili poetry, but rather disjointed prose."
+        },
+        {
+          "target": "Mgogoro huo wa kifasihi ulirutubisha ushairi wa Kiswahili na kufungua milango ya mitindo mbalimbali ya kisasa inayotumia taswira na sitiari nzito.",
+          "reading": "Mgo-go-ro hu-o wa ki-fa-si-hi uli-ru-tu-bi-sha usha-i-ri wa Ki-swa-hi-li na ku-fu-ngu-a mi-la-ngo ya mi-ti-ndo mba-li-mba-li ya ki-sa-sa ina-yo-tu-mia ta-swi-ra na si-tia-ri nzi-to. [mɡɔˈɡɔrɔ ˈhuɔ wɑ kifɑˈsihi ulirutuˈbiʃɑ uʃɑˈiri wɑ kiswɑˈhili nɑ kufuˈŋɡuɑ miˈlɑŋɡɔ jɑ miˈtindɔ mbɑlimbɑˈli jɑ kiˈsɑsɑ inɑjɔtuˈmiɑ tɑˈswirɑ nɑ sitiˈɑri ˈnzitɔ] (m-goh-GOH-roh HOO-oh wah kee-fah-SEE-hee oo-lee-roo-too-BEE-shah oo-shah-EE-ree wah kee-swah-HEE-lee nah koo-foon-GOO-ah mee-LAHN-goh yah mee-TEEN-doh M-bah-lee-m-BAH-lee yah kee-SAH-sah ee-nah-yoh-too-MEE-ah tah-SWEE-rah nah see-tee-AH-ree N-ZEE-toh)",
+          "translation": "That momentous literary controversy enriched Swahili poetry and opened avenues for diverse contemporary styles deploying profound imagery and metaphors."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Mgogoro wa Ushairi: Wanamapokeo (Shaaban Robert - arudhi & vina) VS Wanausasa (Kezilahabi - ushairi huru & masivina)!"
+      ],
+      "culturalNotes": [
+        "Diwani ya 'Kichomi' (1974) ya Euphrase Kezilahabi inatambuliwa kama kitabu kilicholeta mapinduzi makubwa zaidi katika historia ya ushairi wa kisasa wa Kiswahili."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Maktaba\":",
+          "prompt": "Mwandishi nguli wa Kiswahili aliyeanzisha mapinduzi ya ushairi huru (masivina) kupitia diwani yake ya 'Kichomi' anaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Shahada»",
-            "Mpangilio usio sahihi wa viambishi katika «Kalamu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Benki»"
+            "Profesa Euphrase Kezilahabi (Pioneer of modern Swahili free verse)",
+            "Mfalme Suleiman",
+            "Nahodha wa jahazi",
+            "Mganga wa hospitali"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Profesa Euphrase Kezilahabi» ndiye aliyeanzisha ushairi huru wa Kiswahili."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Maktaba\":",
+          "prompt": "Kundi la wasomi na washairi lililotetea kwamba ushairi sharti uwe na vina na mizani liliitwaje katika mgogoro wa ushairi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Kalamu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Benki»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Shahada»"
+            "Wanamapokeo (The Traditionalists - Correct literary school)",
+            "Wafanyabiashara wa masoko",
+            "Mawakili wa madai",
+            "Wahandisi wa mitambo"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Wanamapokeo» ndilo jina la kundi lililotetea kufuata mapokeo ya jadi ya arudhi na vina."
         }
       ]
     },
@@ -12573,17 +12602,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Maktaba\": Which sentence is completely correct?",
+          "prompt": "Chagua maelezo yaliyo sahihi kuhusu mgogoro wa arudhi katika ushairi wa Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Benki»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Shahada»",
-            "Mpangilio usio sahihi wa viambishi katika «Kalamu»"
+            "Wanamapokeo walitetea uzingatiaji wa arudhi (mizani na vina), huku Wanausasa wakiongozwa na Kezilahabi wakitetea ushairi huru unaotegemea taswira na hisia.",
+            "Kezilahabi aliamuru vitabu vyote vya mashairi vichomwe moto.",
+            "Ushairi huru hauruhusiwi kutumia maneno ya Kiswahili.",
+            "Wanamapokeo walikubali kufuta arudhi na vina vyote tangu mwaka 1970."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Wanamapokeo walitetea arudhi na vina, huku Wanausasa wakitetea ushairi huru unaotegemea taswira na hisia bila pingu za arudhi."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u30-l4": {
@@ -12591,53 +12621,62 @@
     "subject": "swahili",
     "unit": 30,
     "lessonNumber": 4,
-    "title": "Ushairi wa Kiswahili na Ushairi wa Ushairi (Poetic Prosody) (Part 4)",
+    "title": "Washairi Nguli wa Kiswahili: Muyaka, Shaaban Robert na Mnyampala (Master Poets)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.4) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili: Muyaka bin Haji (ushairi wa kisiasa na mitaani), Shaaban Robert (falsafa ya utu na ustaarabu), na Mathias Mnyampala (ngonjera na maendeleo ya kijamii).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Washairi Nguli na Falsafa za Ushairi wa Kiswahili (Swahili Master Poets & Classical Heritage):\n\n1. **Muyaka bin Haji al-Ghassany (Mombasa, 1776–1840)**:\n   - Anajulikana kama mshairi aliyeleta ushairi kutoka msikitini na kuuingiza katika maisha ya kila siku ya mtaani, siasa, na mapenzi huko Mombasa.\n   - Alitumia bahari ya **tarbia** kutoa tahadhari za kisiasa na kuwahamasisha Wamombasa kulinda mji wao dhidi ya utawala wa Sultani wa Oman.\n\n2. **Shaaban Robert (Tanga, 1909–1962)**:\n   - 'Baba wa Fasihi ya Kiswahili'. Mshairi na mwandishi mwenye diwani mashuhuri kama vile *Pambo la Lugha*, *Kielezo cha Fasihi*, na *Almasi za Afrika*.\n   - Falsafa yake ilijikita katika **utu**, **haki**, **upendo**, **amani**, na kuitukuza lugha ya Kiswahili.\n\n3. **Mathias Mnyampala (Dodoma, 1917–1969)**:\n   - Mshairi na jaji wa kiasili aliyeasisi mtindo wa **Ngonjera za UKUTA** (Umoja wa Sanifu wa Kiswahili Tanzania) kuelimisha wananchi kuhusu maadili ya uzalendo, siasa ya Ujamaa na sheria za jamii.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 30."
+          "target": "Shaaban Robert anaheshimika kama nguzo kuu ya fasihi ya Kiswahili ambaye mashairi yake yanajaa falsafa ya utu, upendo, na heshima kwa lugha.",
+          "reading": "Sha-a-ban Ro-bert ana-he-shi-mi-ka ka-ma ngu-zo ku-u ya fa-si-hi ya Ki-swa-hi-li a-mba-ye ma-sha-i-ri ya-ke ya-na-ja-a fa-lsa-fa ya u-tu, upe-ndo, na he-shi-ma kwa lu-gha. [ʃɑɑˈbɑn rɔˈbɛrt ɑnɑhɛʃiˈmikɑ ˈkɑmɑ ˈŋɡuzɔ ˈkuː jɑ fɑˈsihi jɑ kiswɑˈhili ɑˈmbɑjɛ mɑʃɑˈiri ˈjɑkɛ jɑnɑˈʤɑː fɑˈlsɑfɑ jɑ ˈutu uˈpɛndɔ nɑ hɛˈʃimɑ kwɑ ˈluɣɑ] (shah-ah-BAHN roh-BAYRT ah-nah-hay-shee-MEE-kah KAH-mah N-GOO-zoh KOO-oo yah fah-SEE-hee yah kee-swah-HEE-lee ahm-BAH-yay mah-shah-EE-ree YAH-kay yah-nah-JAH-ah fahl-SAH-fah yah OO-too, oo-PAYN-doh, nah hay-SHEE-mah kwah LOO-gah)",
+          "translation": "Shaaban Robert is revered as the foremost pillar of Swahili literature whose poetry radiates the philosophy of human dignity, love, and linguistic reverence."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 30-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Muyaka bin Haji alikuwa mshairi wa kwanza kuondoa ushairi wa Kiswahili msikitini na kuuingiza katika masuala ya kila siku ya kijamii na kisiasa mjini Mombasa.",
+          "reading": "Mu-ya-ka bin Ha-ji ali-ku-wa msha-i-ri wa kwa-nza kuo-ndoa usha-i-ri wa Ki-swa-hi-li msi-ki-ti-ni na kuui-ngi-za ka-ti-ka ma-su-a-la ya ki-la si-ku ya ki-ja-mi-i na ki-sia-sa mji-ni Mo-mba-sa. [muˈjɑkɑ bin ˈhɑʤi ɑliˈkuwɑ mʃɑˈiri wɑ ˈkwɑnzɑ kuɔˈndɔɑ uʃɑˈiri wɑ kiswɑˈhili msikiˈtini nɑ kuiˈŋɡizɑ ˈkɑtikɑ mɑsuˈɑlɑ jɑ ˈkilɑ ˈsiku jɑ kiʤɑˈmiː nɑ kisiˈɑsɑ ˈmʤini mɔˈmbɑsɑ] (moo-YAH-kah been HAH-jee ah-lee-KOO-wah m-shah-EE-ree wah KWAHN-zah koo-ohn-DOH-ah oo-shah-EE-ree wah kee-swah-HEE-lee m-see-kee-TEE-nee nah koo-ee-NGEE-zah KAH-tee-kah mah-soo-AH-lah yah KEE-lah SEE-koo yah kee-jah-MEE-ee nah kee-see-AH-sah M-jee-nee mohm-BAH-sah)",
+          "translation": "Muyaka bin Haji was the first classical poet to bring Swahili verse out of sacred spaces into mundane sociopolitical discourse in the island city of Mombasa."
+        },
+        {
+          "target": "Mathias Mnyampala alibuni mtindo wa ngonjera kama chombo cha kuelimisha umma kuhusu uzalendo na ujenzi wa taifa changa baada ya uhuru.",
+          "reading": "Ma-thia-s Mnya-mpa-la ali-bu-ni mti-ndo wa ngo-nje-ra ka-ma cho-mbo cha kue-li-mi-sha u-mma ku-hu-su uza-le-ndo na uje-nzi wa ta-i-fa cha-nga ba-a-da ya uhu-ru. [mɑˈtiɑs mɲɑˈmpɑlɑ ɑliˈbuni ˈmtindɔ wɑ ŋɡɔˈnʤɛrɑ ˈkɑmɑ ˈtʃɔmbɔ tʃɑ kuɛliˈmiʃɑ ˈummɑ kuˈhusu uzɑˈlɛndɔ nɑ uˈʤɛnzi wɑ tɑˈifɑ ˈtʃɑŋɡɑ ˈbɑɑdɑ jɑ uˈhuru] (mah-TEE-ahs m-nyahm-PAH-lah ah-lee-BOO-nee M-TEEN-doh wah ngohn-JAY-rah KAH-mah CHOHM-boh chah koo-ay-lee-MEE-shah OOM-mah koo-HOO-soo oo-zah-LAYN-doh nah oo-JAYN-zee wah tah-EE-fah CHAHN-gah BAH-ah-dah yah oo-HOO-roo)",
+          "translation": "Mathias Mnyampala pioneered the ngonjera dialogic genre as a pedagogic medium to educate the citizenry on civic patriotism and post-independence nation-building."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Washairi Nguli: Muyaka (Mombasa, siasa & tarbia), Shaaban Robert (Tanga, utu & lugha), Mathias Mnyampala (Dodoma, ngonjera & uzalendo)!"
+      ],
+      "culturalNotes": [
+        "Shaaban Robert alitunukiwa Nishani ya Ufalme wa Uingereza (MBE) na anatambuliwa rasmi na serikali ya Tanzania kama 'Mshairi Mkuu wa Taifa'."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Shahada\":",
+          "prompt": "Mwandishi nguli wa Tanga anayetambuliwa kama baba wa fasihi ya Kiswahili na mwandishi wa 'Pambo la Lugha' na 'Kielezo cha Fasihi' anaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kalamu»",
-            "Mpangilio usio sahihi wa viambishi katika «Benki»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Akaunti»"
+            "Shaaban Robert (Father of modern Swahili literature - Correct master poet)",
+            "Nahodha wa jahazi",
+            "Mwindaji wa tembo",
+            "Msimamizi wa forodha"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Shaaban Robert» ndiye mshairi na mwandishi mkuu anayeheshimika kama nguzo kuu ya fasihi ya Kiswahili."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Shahada\":",
+          "prompt": "Mshairi wa kihistoria wa Mombasa aliyeanzisha ushairi wa kijamii na kisiasa wa bahari ya tarbia anaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Benki»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Akaunti»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kalamu»"
+            "Muyaka bin Haji al-Ghassany (Pioneer of secular Swahili political poetry)",
+            "Vasco da Gama",
+            "Ibn Battuta",
+            "Sultan Seyyid Said"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Muyaka bin Haji» ndiye mshairi nguli wa Mombasa aliyeleta ushairi wa Kiswahili katika masuala ya jamii na siasa."
         }
       ]
     },
@@ -12645,17 +12684,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Shahada\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya washairi nguli wa Kiswahili na mchango wao wa kihistoria:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Akaunti»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kalamu»",
-            "Mpangilio usio sahihi wa viambishi katika «Benki»"
+            "Muyaka bin Haji (ushairi wa kijamii Mombasa), Shaaban Robert (falsafa ya utu na pambo la lugha), na Mathias Mnyampala (ngonjera na uzalendo).",
+            "Shaaban Robert alikataa kuandika chochote kwa lugha ya Kiswahili.",
+            "Muyaka bin Haji aliishi katika karne ya ishirini na moja jijini London pekee.",
+            "Mathias Mnyampala alipiga marufuku ushairi wote wa Kiswahili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Washairi nguli: Muyaka bin Haji (Mombasa), Shaaban Robert (Utu na Lugha), Mathias Mnyampala (Ngonjera)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u30-l5": {
@@ -12663,53 +12703,62 @@
     "subject": "swahili",
     "unit": 30,
     "lessonNumber": 5,
-    "title": "Ushairi wa Kiswahili na Ushairi wa Ushairi (Poetic Prosody) (Part 5)",
+    "title": "Muhtasari wa Ushairi wa Kiswahili na Fasihi ya Ushairi (Poetic Prosody & Literary Grand Synthesis)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 30: arudhi ya kijadi (mizani, vina, ukwapi, utao, kibwagizo), bahari za ushairi (tarbia, tathlitha, ngonjera, tenzi), mgogoro wa ushairi huru (Kezilahabi dhidi ya wanamapokeo), na kazi za washairi nguli (Muyaka, Shaaban Robert, Mnyampala) kwa kiwango cha C1.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Ushairi wa Kiswahili na Sanaa ya Maneno (Swahili Poetic Prosody & Literary Master Matrix):\n\n1. **Ujumuishaji wa Taaluma Kuu za Ushairi wa Kiwango cha C1**:\n   - **Arudhi ya Jadi**: Mizani kamili, vina vya ndani na nje, migawanyiko ya ukwapi na utao, na uhuru wa kishairi (inkisari, mazida, tabdila).\n   - **Bahari & Aina za Utunzi**: Tathlitha (3), Tarbia (4), Takhmisa (5), Tasdisa (6), Ngonjera za majibizano, na Tenzi ndefu za kishujaa (Mwanakupona, Fumo Liyongo).\n   - **Mgogoro wa Arudhi**: Wanamapokeo (arudhi & mizani) dhidi ya Wanausasa/Kezilahabi (ushairi huru, masivina, taswira na hisia).\n   - **Washairi Nguli**: Muyaka bin Haji (Mombasa), Shaaban Robert (nguzo ya lugha na utu), na Mathias Mnyampala (ngonjera na uzalendo).\n\n2. **Umahiri wa Kichambuzi na Kishairi**:\n   - Mwanafunzi anayemudu kitengo hiki anao uwezo wa kutunga, kusoma, kuchambua na kuhakiki mashairi ya mitindo yote miwili (arudhi na huru) kwa ufasaha mkubwa.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 30."
+          "target": "Kuanzia urari thabiti wa arudhi na vina vya tarbia, tenzi za kale za kihistoria, ubunifu wa ushairi huru wa Kezilahabi, hadi falsafa tukufu ya Shaaban Robert, ushairi wa Kiswahili unawakilisha kilele cha sanaa ya kifasihi barani Afrika.",
+          "reading": "Ku-a-nzia ura-ri tha-bi-ti wa aru-dhi na vi-na vya ta-rbia, te-nzi za ka-le za ki-hi-sto-ria, ubu-ni-fu wa usha-i-ri hu-ru wa Ke-zi-la-ha-bi, ha-di fa-lsa-fa tu-ku-fu ya Sha-a-ban Ro-bert, usha-i-ri wa Ki-swa-hi-li una-wa-ki-li-sha ki-le-le cha sa-naa ya ki-fa-si-hi ba-ra-ni Afri-ka. [kuˈɑnziɑ uˈrɑri θɑˈbiti wɑ ɑˈruði nɑ ˈvinɑ vjɑ tɑˈrbiɑ ˈtɛnzi zɑ ˈkɑlɛ zɑ kihistɔˈriɑ ubuˈnifu wɑ uʃɑˈiri ˈhuru wɑ kɛzilɑˈhɑbi ˈhɑdi fɑˈlsɑfɑ tuˈkufu jɑ ʃɑɑˈbɑn rɔˈbɛrt uʃɑˈiri wɑ kiswɑˈhili unɑwɑkiliˈʃɑ kiˈlɛlɛ tʃɑ sɑˈnɑː jɑ kifɑˈsihi bɑˈrɑni ˈɑfrikɑ] (koo-AHN-zee-ah oo-RAH-ree thah-BEE-tee wah ah-ROO-thee nah VEE-nah vyah tahr-BEE-ah, TAYN-zee zah KAH-lay zah kee-hee-stoh-REE-ah, oo-boo-NEE-foo wah oo-shah-EE-ree HOO-roo wah kay-zee-lah-HAH-bee, HAH-dee fahl-SAH-fah too-KOO-foo yah shah-ah-BAHN roh-BAYRT, oo-shah-EE-ree wah kee-swah-HEE-lee oo-nah-wah-kee-LEE-shah kee-LAY-lay chah sah-NAH-ah yah kee-fah-SEE-hee bah-RAH-nee AHF-ree-kah)",
+          "translation": "From the immutable metric regularity and rhyming concord of quatrains, ancient historical epics, the avant-garde free verse innovations of Kezilahabi, to the sublime philosophy of Shaaban Robert, Swahili poetry embodies the pinnacle of African literary artistry."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 30-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Umahiri wa kuchanganua miundo ya kishairi na kufasiri taswira zilizofichika unamwezesha mwanafunzi kuelewa kina cha hekima na utamaduni wa Waswahili.",
+          "reading": "Uma-hi-ri wa ku-cha-nga-nua mi-u-ndo ya ki-sha-i-ri na ku-fa-si-ri ta-swi-ra zi-li-zo-fi-chi-ka una-mwe-ze-sha mwa-na-funzi kue-le-wa ki-na cha he-ki-ma na uta-ma-du-ni wa Wa-swa-hi-li. [umɑˈhiri wɑ kutʃɑŋɡɑˈnuɑ miˈundɔ jɑ kiʃɑˈiri nɑ kufɑˈsiri tɑˈswirɑ zilizɔfiˈtʃikɑ unɑmwɛzɛˈʃɑ mwɑnɑˈfundzi kuɛˈlɛwɑ ˈkinɑ tʃɑ hɛˈkimɑ nɑ utɑmɑˈduni wɑ wɑswɑˈhili] (oo-mah-HEE-ree wah koo-chahn-gah-NOO-ah mee-OON-doh yah kee-shah-EE-ree nah koo-fah-SEE-ree tah-SWEE-rah zee-lee-zoh-fee-CHEE-kah oo-nah-mway-ZAY-shah mwah-nah-FOON-zee koo-ay-LAY-wah KEE-nah chah hay-KEE-mah nah oo-tah-mah-DOO-nee wah wah-swah-HEE-lee)",
+          "translation": "Competence in structural scansion and the interpretation of latent metaphors empowers a scholar to comprehend the profound wisdom and heritage of the Swahili people."
+        },
+        {
+          "target": "Ushairi wa Kiswahili unaendelea kubadilika na kuakisi mapambano, ndoto, na maono ya jamii katika karne ya ishirini na moja bila kupoteza mizizi yake ya asili.",
+          "reading": "Usha-i-ri wa Ki-swa-hi-li una-e-nde-le-a ku-ba-di-li-ka na kua-ki-si ma-pa-mba-no, ndo-to, na ma-o-no ya ja-mi-i ka-ti-ka ka-rne ya i-shi-ri-ni na mo-ja bi-la ku-po-te-za mi-zi-zi ya-ke ya a-si-li. [uʃɑˈiri wɑ kiswɑˈhili unɑɛndɛˈlɛɑ kubɑdiˈlikɑ nɑ kuɑˈkisi mɑpɑˈmbɑnɔ ˈndɔtɔ nɑ mɑˈɔnɔ jɑ ʤɑˈmiː ˈkɑtikɑ ˈkɑrnɛ jɑ iʃiriˈni nɑ ˈmɔʤɑ ˈbilɑ kupɔˈtɛzɑ miˈzizi ˈjɑkɛ jɑ ɑˈsili] (oo-shah-EE-ree wah kee-swah-HEE-lee oo-nah-ayn-day-LAY-ah koo-bah-dee-LEE-kah nah koo-ah-KEE-see mah-pahm-BAH-noh, N-DOH-toh, nah mah-OH-noh yah jah-MEE-ee KAH-tee-kah KAHR-nay yah ee-shee-ree-NEE nah MOH-jah BEE-lah koo-poh-TAY-zah mee-ZEE-zee YAH-kay yah ah-SEE-lee)",
+          "translation": "Swahili poetic verse continually metamorphoses, reflecting the sociopolitical struggles, dreams, and visions of twenty-first century society while preserving its pristine ancestral roots."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ushairi Grand Synthesis: Arudhi & Vina; Bahari (Tarbia, Tathlitha, Ngonjera, Tenzi); Mgogoro wa Kezilahabi; Washairi Nguli (Muyaka, Shaaban Robert, Mnyampala)!"
+      ],
+      "culturalNotes": [
+        "Tamasha za ushairi na mashindano ya utunzi wa mashairi hufanyika kila mwaka kote Afrika Mashariki, zikiendeleza utamaduni tajiri wa kughani na kuimba mashairi hadharani."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kalamu\":",
+          "prompt": "Mchanganyiko upi unawakilisha nguzo kuu za sanaa na historia ya ushairi wa lugha ya Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Benki»",
-            "Mpangilio usio sahihi wa viambishi katika «Akaunti»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mkopo»"
+            "Kanuni za arudhi na vina, bahari mbalimbali za mashairi (tarbia na ngonjera), mapinduzi ya ushairi huru ya Kezilahabi, na kazi za nguli kama Shaaban Robert na Muyaka (Comprehensive Swahili poetry pillars)",
+            "Kukataa kusoma wala kutunga mashairi ya Kiswahili",
+            "Kufuta maneno yote ya kishairi na kutumia namba za hisabati pekee",
+            "Kupiga marufuku washairi wote wa pwani"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Ushairi wa Kiswahili unajumuisha arudhi, bahari mbalimbali, ushairi huru, na urithi wa nguli kama Shaaban Robert na Muyaka."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kalamu\":",
+          "prompt": "Sentensi ipi inachanganya msamiati wa arudhi, bahari na ushairi huru kwa ufasaha wa kiwango cha C1?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Akaunti»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mkopo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Benki»"
+            "Kuanzia urari wa mizani na vina katika bahari ya tarbia hadi uhuru wa kishairi katika diwani ya Kezilahabi, ushairi wa Kiswahili unaonyesha utajiri mkubwa wa kifasihi. (From syllabic and rhyming regularity in quatrains to poetic freedom in Kezilahabi's anthology, Swahili poetry demonstrates immense literary wealth - Correct C1 poetry synthesis)",
+            "Ushairi wa Kiswahili hauna uhusiano na lugha wala utamaduni wa Kiafrika.",
+            "Washairi wote wa Kiswahili wamekatazwa kutumia vina wala taswira.",
+            "Tarbia ni aina ya gari linalosafirisha mizigo bandarini."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Sentensi inatumia istilahi mahsusi za C1: «urari wa mizani na vina», «bahari ya tarbia», «uhuru wa kishairi», «diwani ya Kezilahabi», na «utajiri mkubwa wa kifasihi»."
         }
       ]
     },
@@ -12717,17 +12766,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kalamu\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 30 ya Ushairi wa Kiswahili na Fasihi ya Ushairi:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mkopo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Benki»",
-            "Mpangilio usio sahihi wa viambishi katika «Akaunti»"
+            "Kuanzia muundo makini wa arudhi, urari wa mizani na vina vya ndani na nje katika bahari za tarbia na ngonjera, tenzi ndefu za kishujaa, mapinduzi ya ushairi huru ya Profesa Kezilahabi, hadi falsafa tukufu ya utu ya Shaaban Robert na Muyaka, ushairi wa Kiswahili unadhihirisha upeo wa juu kabisa wa ubunifu wa kisanaa na kifalsafa katika lugha za Kiafrika. (Apex C1 synthesis of classical prosody, poetic forms, free verse revolution, and master literary bards.)",
+            "Ushairi wote wa Kiswahili ulitoweka kabisa katika karne ya kumi na nane.",
+            "Hakuna mshairi yeyote aliyewahi kuandika shairi la Kiswahili katika Afrika Mashariki.",
+            "Lugha ya Kiswahili haina maneno ya kuunda vina wala kupima mizani ya kishairi."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kuanzia muundo makini wa arudhi, urari wa mizani na vina vya ndani na nje katika bahari za tarbia na ngonjera, tenzi ndefu za kishujaa, mapinduzi ya ushairi huru ya Profesa Kezilahabi, hadi falsafa tukufu ya utu ya Shaaban Robert na Muyaka, ushairi wa Kiswahili unadhihirisha upeo wa juu kabisa wa ubunifu wa kisanaa na kifalsafa katika lugha za Kiafrika.» inajumuisha maarifa yote ya Unit 30 kwa ufasaha wa hali ya juu wa C1."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u31-l1": {
