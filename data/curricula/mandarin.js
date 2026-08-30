@@ -6337,85 +6337,89 @@
     "subject": "mandarin",
     "unit": 11,
     "lessonNumber": 1,
-    "title": "能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans) (第1讲)",
+    "title": "能力与习得情态：能 (néng) vs 会 (huì) 精微语义与句法对立 (Modality of Ability & Acquired Skills - neng vs hui)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：五大情态助动词在意愿、能力、许可及必然性上的精细语义分工。 (第1部分)。",
+    "objective": "深入辨析核心能愿动词「能」与「会」的语义分工：掌握「会」表示后天习得技能与将来必然性，掌握「能」表示生理本能体能、客观条件允许及能力水平达标。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在现代汉语情态助动词（能愿动词）体系中，「能 (néng)」与「会 (huì)」均可翻译为英语中的“can”，但两者的底层认知逻辑与句法分布存在严格对立：\n\n一、「会 (huì)」的核心语义范畴（后天学习与必然预测）：\n1. 习得能力（通过学习、训练而掌握某种专门技能或语言）：\n- 他[会]说流利的汉语、法语和西班牙语。(He knows how to speak...)\n- 姐姐[会]弹钢琴、开汽车、游泳。(Learned skills)\n- 否定式：不[会]（表示未曾习得该项技能）。\n2. 预测情态（表示事态在客观或逻辑上必然会发生、将要出现）：\n- 明天下大雪，气温[会]明显下降。(The temperature will drop.)\n- 放心吧，他[会]按时赶到的。(He will arrive on time.)\n\n二、「能 (néng)」的核心语义范畴（生理体能、客观条件与规章许可）：\n1. 生理本能或自身体能达到的具体能力水平：\n- 他身体很棒，一分钟[能]游五十米。(Physical capability/capacity)\n- 我现在很饱，[能]吃下两碗米饭。\n2. 客观环境、身体状态或时间条件允许（具备做某事的现实条件）：\n- 我今天下午有空，[能]去参加学术研讨会。(Free time allows it)\n- 我今天嗓子哑了，不[能]大声说话。(Physical condition forbids it)\n3. 否定式「不能」表示客观条件限制或道德规章禁止：\n- 博物馆内[不能]拍照开闪光灯！(Forbidden by regulations)\n\n三、「会」与「能」的经典交际对立辨析：\n-「我会游泳，但是今天生病了不能游。」(I know how to swim [skill - 会], but I cannot swim today due to illness [condition - 不能].)",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的核心语法法则与应用范例 (11.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)' in simple terms to students at the academic seminar."
+          "target": "虽然他从小就学会了游泳，但因为今天感冒发烧，所以不能去游泳池训练。(Suīrán tā cóngxiǎo jiù xuéhuì le yóuyǒng, dàn yīnwèi jīntiān gǎnmào fāshāo, suǒyǐ bù néng qù yóuyǒngchí xùnliàn.)",
+          "reading": "[sweɪ̯˥.ʐan˧˥ tʰa˥ t͡sʰʊŋ˨˩.ɕjaʊ̯˨˩˦ t͡ɕjoʊ̯˥˩ ɕɥɛ˧˥.xweɪ̯˥˩ lɤ joʊ̯˧˥.jʊŋ˨˩˦, tan˥˩ in˥.weɪ̯˥˩ t͡ɕin˥.tʰjɛn˥ kan˨˩˦.maʊ̯˥˩ fa˥.ʂaʊ̯˥, swɔ˨˩˦.i˨˩˦ pu˥ nɤŋ˧˥ t͡ɕʰy˥˩ joʊ̯˧˥.jʊŋ˨˩.t͡ʂʰɨ˧˥ ɕyn˥˩.ljɛn˥˩] (Suī-rán tā cóng-xiǎo jiù xué-huì le yóu-yǒng, dàn yīn-wèi jīn-tiān gǎn-mào fā-shāo, suǒ-yǐ bù néng qù yóu-yǒng-chí xùn-liàn.)",
+          "translation": "Although he learned how to swim since childhood, because he has a cold and fever today, he cannot go to the pool for training."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (11.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "玛丽会说流利的汉语和西班牙语，今天她能用中文主持这场跨文化交流晚会。(Mǎlì huì shuō liúlì de Hànyǔ hé Xībānyáyǔ, jīntiān tā néng yòng Zhōngwén zhǔchí zhè chǎng kuà-wénhuà jiāoliú wǎnhuì.)",
+          "reading": "[ma˨˩.li˥˩ xweɪ̯˥˩ ʂwɔ˥ ljoʊ̯˧˥.li˥˩ tɤ xan˥˩.y˨˩˦ xɤ˧˥ ɕi˥.pan˥.ja˧˥.y˨˩˦, t͡ɕin˥.tʰjɛn˥ tʰa˥ nɤŋ˧˥ jʊŋ˥˩ ʈ͡ʂʊŋ˥.wən˧˥ ʈ͡ʂu˨˩.ʈ͡ʂʰɨ˧˥ ʈ͡ʂɤ˥˩ ʈ͡ʂʰɑŋ˨˩˦ kʰwa˥˩.wən˧˥.xwa˥˩ t͡ɕjaʊ̯˥.ljoʊ̯˧˥ wan˨˩˦.xweɪ̯˥˩] (Mǎ-lì huì shuō liú-lì de Hàn-yǔ hé Xī-bān-yá-yǔ, jīn-tiān tā néng yòng Zhōng-wén zhǔ-chí zhè chǎng kuà-wén-huà jiāo-liú wǎn-huì.)",
+          "translation": "Mary can speak fluent Chinese and Spanish; today she can host this intercultural exchange evening gala in Chinese."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (11.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "别担心，只要大家齐心协力、坚持不懈，我们一定能够战胜眼前的困难。(Bié dānxīn, zhǐyào dàjiā qíxīn-xiélì, jiānchí-búxiè, wǒmen yídìng nénggòu zhànshèng yǎnqián de kùnnan.)",
+          "reading": "[pjɛ˧˥ tan˥.ɕin˥, ʈ͡ʂɨ˨˩.jaʊ̯˥˩ ta˥˩.t͡ɕja˥ t͡ɕʰi˧˥.ɕin˥.ɕjɛ˧˥.li˥˩, t͡ɕjɛn˥.ʈ͡ʂʰɨ˧˥.pu˧˥.ɕjɛ˥˩, wɔ˨˩.mən i˧˥.tiŋ˥˩ nɤŋ˧˥.koʊ̯˥˩ ʈ͡ʂan˥˩.ʂəŋ˥˩ jan˨˩.t͡ɕʰjɛn˧˥ tɤ kʰwən˥˩.nan] (Bié dān-xīn, zhǐ-yào dà-jiā qí-xīn-xié-lì, jiān-chí-bú-xiè, wǒ-men yí-dìng néng-gòu zhàn-shèng yǎn-qián de kùn-nan.)",
+          "translation": "Don't worry, as long as everyone unites in concerted effort and perseveres relentlessly, we will definitely be able to overcome the difficulties before us."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (11.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "明天上午有强冷空气过境，北京的气温可能会骤降六到八度，出门要多穿衣服。(Míngtiān shàngwǔ yǒu qiáng lěngkōngqì guòjìng, Běijīng de qìwēn kěnéng huì zhòujiàng liù dào bā dù, chūmén yào duō chuān yīfu.)",
+          "reading": "[miŋ˧˥.tʰjɛn˥ ʂɑŋ˥˩.u˨˩˦ joʊ̯˨˩˦ t͡ɕʰjɑŋ˧˥ lɤŋ˨˩.kʰʊŋ˥.t͡ɕʰi˥˩ kwo˥˩.t͡ɕiŋ˥˩, peɪ̯˨˩.t͡ɕiŋ˥ tɤ t͡ɕʰi˥˩.wən˥ kʰɤ˨˩.nɤŋ˧˥ xweɪ̯˥˩ ʈ͡ʂoʊ̯˥˩.t͡ɕjɑŋ˥˩ ljoʊ̯˥˩ taʊ̯˥˩ pa˥ tu˥˩, t͡ʂʰu˥.mən˧˥ jaʊ̯˥˩ twɔ˥ t͡ʂʰwan˥ i˥.fu] (Míng-tiān shàng-wǔ yǒu qiáng lěng-kōng-qì guò-jìng, Běi-jīng de qì-wēn kě-néng huì zhòu-jiàng liù dào bā dù, chū-mén yào duō chuān yī-fu.)",
+          "translation": "Strong cold air will pass tomorrow morning; Beijing's temperature might drop sharply by 6 to 8 degrees, so put on more clothes when going out."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "习得技能多用会，客观条件体能能；预测将来会发生，不能禁止守规程！"
+      ],
+      "culturalNotes": [
+        "在对外汉语与跨文化交际中，「会」与「能」的精准选择是评判高级汉语修养的标尺。例如向外国友人询问才艺应说「你会弹吉他吗？」，而邀请其演出时则问「你明晚能来表演吗？」，分工井然有序。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」（第1讲）的标准汉语规范？",
+          "prompt": "要表达「他通过专门训练掌握了开车这项技能」，正确的能愿动词是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的核心语法法则与应用范例 (11.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (11.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (11.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (11.1.w3)"
+            "他会开车。(习得技能用「会」)",
+            "他能开车在生病。",
+            "他应该开车在学会。",
+            "他想要开车在过去。"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "表达通过学习掌握的专门技艺，使用「会」（会开车）。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "句子「我今天头疼得厉害，______去参加聚会了」中，表达客观身体条件不允许，应填入：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "不能 (bù néng - objective condition does not permit)",
+            "不会",
+            "不想在过去",
+            "不要在以前"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "因身体客观原因无法前往，使用「不能」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的正式语境下，最准确得体的表达是哪一项？（第11.1题）",
+          "prompt": "在气象预报语境「明天夜里北京______下雪」，表达对未来必然性的预测，应填入：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (11.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (11.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (11.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (11.1.x3)"
+            "会 (huì - indicates future certainty/prediction)",
+            "能",
+            "可以",
+            "必须"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "预测未来可能发生的事态，使用「会」（会下雪）。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u11-l1）所要求的高阶语言表达？",
+          "prompt": "在图书馆公共场所标识牌上，表达规章制度禁止大声喧哗，规范用语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (11.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (11.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (11.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (11.1.y3)"
+            "阅览室内不能 / 请勿大声喧哗。(Prohibited by rules)",
+            "阅览室内不会大声喧哗。",
+            "阅览室内可以大声喧哗。",
+            "阅览室内想大声喧哗。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "表达制度约束与禁止使用「不能」或「请勿」。"
         }
       ]
     },
@@ -6423,25 +6427,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的掌握程度，请选出表述完全正确的标准范句（测试 11-1）：",
+          "prompt": "请选出下列句子中「会」与「能」的语义与语法运用完全精准无误的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (11.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (11.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (11.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (11.1.z3)"
+            "大卫虽然会包中国饺子，但由于今天右手受伤了，所以不能帮妈妈做晚饭。(会表示习得技艺，不能表示身体客观限制，两相对立严谨完美)",
+            "大卫虽然能包饺子，但右手受伤不会做饭。(语义彻底混淆颠倒)",
+            "大卫虽然想包饺子，但他明天会不能来。(语法错乱杂糅)",
+            "大卫可以包饺子，但他不会在今天。(表达支离破碎)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「会包饺子」（技能）与「右手受伤不能做饭」（客观限制）对比鲜明，堪称能愿动词典范句。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u11-l1）的核心关键词（例如「能愿动词」）：",
+          "prompt": "请输入表示通过后天学习掌握某种语言或技能的核心单字能愿动词（拼音为 huì）：",
           "acceptedAnswers": [
-            "能愿动词",
-            "能愿动词（想",
-            "能愿动词（想/要/能/会/可以）与计划"
+            "会"
           ],
-          "explanation": "正确的核心关键词为「能愿动词」。"
+          "explanation": "汉字「会」是现代汉语中表示掌握习得技能的核心情态助动词。"
         }
       ],
       "passThreshold": 0.8
@@ -6452,85 +6454,89 @@
     "subject": "mandarin",
     "unit": 11,
     "lessonNumber": 2,
-    "title": "能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans) (第2讲)",
+    "title": "意愿、打算与必然要求：想 (xiǎng) vs 要 (yào) 语气强弱与计划表达 (Desire, Intention & Necessity - xiang vs yao)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：五大情态助动词在意愿、能力、许可及必然性上的精细语义分工。 (第2部分)。",
+    "objective": "系统掌握「想」与「要」在意愿强弱、行动坚定度、客观必要性及否定形式（不想 vs 不要/不用）上的本质区别，熟练表达个人意愿与坚定计划。",
     "presentation": {
-      "explanation": "",
+      "explanation": "「想 (xiǎng)」与「要 (yào)」是表达愿望与打算的最常用能愿动词，两者在语气软硬、意愿强弱及否定句法上有极其精细的层级划分：\n\n一、「想 (xiǎng)」的核心语用功能（主观愿望与委婉想法）：\n1. 心理期望与设想（语气温和、委婉，尚未付诸铁定行动）：\n- 我[想]去中国旅行。(I would like to... - gentle wish)\n- 假期你[想]做点儿什么？\n2. 否定形式：不[想]（表示主观上没有意愿、不想做）：\n- 我今天很累，不[想]出门。\n\n二、「要 (yào)」的核心语用功能（坚定意志、明确计划与客观必须）：\n1. 坚决的决心与定案计划（语气果断强硬，必定付诸实践）：\n- 我下个月[要]去北京参加汉语演讲比赛。(I will/am going to - firm plan)\n- 我们[要]学好中文！(We are determined to master Chinese!)\n2. 客观应当与情理必须：\n- 生病了[要]按时吃药、多喝水。(You must take medicine.)\n3. 极重要否定铁律（极高频误区）：\n-「不要 (bú yào)」通常表示**劝阻、警告或禁止**（等于「别」）：[不要]在走廊打闹！[不要]吃生冷食物！\n- 若表达主观上「没有意向/不打算做」，否定式用「不想 (bù xiǎng)」；若表达「客观上不需要」，否定式用「不用 (bú yòng)」或「不必 (bú bì)」，绝不可滥用「不要」来表达意愿否定！\n\n三、意愿升级与行动递进逻辑：\n- 我一直[想]学书法，从明天起我[要]每天练习临帖半小时！(From subtle wish '想' to firm action '要')",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的核心语法法则与应用范例 (11.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)' in simple terms to students at the academic seminar."
+          "target": "我想在大学毕业后去中国留学，所以我现在要每天坚持练习两个小时的中文口语。(Wǒ xiǎng zài dàxué bìyè hòu qù Zhōngguó liúxué, suǒyǐ wǒ xiànzài yào měitiān jiānchí liànxí liǎng ge xiǎoshí de Zhōngwén kǒuyǔ.)",
+          "reading": "[wɔ˨˩ ɕjaŋ˨˩˦ t͡saɪ̯˥˩ ta˥˩.ɕɥɛ˧˥ pi˥˩.jɛ˥˩ xoʊ̯˥˩ t͡ɕʰy˥˩ ʈ͡ʂʊŋ˥.kwɔ˧˥ ljoʊ̯˧˥.ɕɥɛ˧˥, swɔ˨˩˦.i˨˩˦ wɔ˨˩ ɕjɛn˥˩.t͡saɪ̯˥˩ jaʊ̯˥˩ meɪ̯˨˩.tʰjɛn˥ t͡ɕjɛn˥.ʈ͡ʂʰɨ˧˥ ljɛn˥˩.ɕi˧˥ ljaŋ˨˩˦ kɤ ɕjaʊ̯˨˩.ʂɨ˧˥ tɤ ʈ͡ʂʊŋ˥.wən˧˥ kʰoʊ̯˨˩.y˨˩˦] (Wǒ xiǎng zài dà-xué bì-yè hòu qù Zhōng-guó liú-xué, suǒ-yǐ wǒ xiàn-zài yào měi-tiān jiān-chí liàn-xí liǎng ge xiǎo-shí de Zhōng-wén kǒu-yǔ.)",
+          "translation": "I would like to study abroad in China after graduating from university, so now I must insist on practicing spoken Chinese for two hours every day."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (11.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "如果你想要取得优异的学术成绩，就必须要付出比别人更多的努力和汗水。(Rúguǒ nǐ xiǎng yào qǔdé yōuyì de xuéshù chéngjì, jiù bìxū yào fùchū bǐ biérén gèng duō de nǔlì hé hànshuǐ.)",
+          "reading": "[ʐu˧˥.kwo˨˩˦ ni˨˩˦ ɕjaŋ˨˩˦ jaʊ̯˥˩ t͡ɕʰy˨˩.tɤ˧˥ joʊ̯˥.i˥˩ tɤ ɕɥɛ˧˥.ʂu˥˩ ʈ͡ʂʰɤŋ˧˥.t͡ɕi˥˩, t͡ɕjoʊ̯˥˩ pi˥˩.ɕy˥ jaʊ̯˥˩ fu˥˩.t͡ʂʰu˥ pi˨˩˦ pjɛ˧˥.ʐən kɤŋ˥˩ twɔ˥ tɤ nu˨˩.li˥˩ xɤ˧˥ xan˥˩.ʂweɪ̯˨˩˦] (Rú-guǒ nǐ xiǎng yào qǔ-dé yōu-yì de xué-shù chéng-jì, jiù bì-xū yào fù-chū bǐ bié-rén gèng duō de nǔ-lì hé hàn-shuǐ.)",
+          "translation": "If you wish to obtain outstanding academic achievements, you must expend more effort and sweat than others."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (11.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "天气预报说今天下午要下大暴雨，出门前一定要记得带上雨伞。(Tiānqì yùbào shuō jīntiān xiàwǔ yào xià dà bàoyǔ, chūmén qián yídìng yào jìde dài shang yǔsǎn.)",
+          "reading": "[tʰjɛn˥.t͡ɕʰi˥˩ jy˥˩.paʊ̯˥˩ ʂwɔ˥ t͡ɕin˥.tʰjɛn˥ ɕja˥˩.u˨˩˦ jaʊ̯˥˩ ɕja˥˩ ta˥˩ paʊ̯˥˩.y˨˩˦, t͡ʂʰu˥.mən˧˥ t͡ɕʰjɛn˧˥ i˧˥.tiŋ˥˩ jaʊ̯˥˩ t͡ɕi˥˩.tɤ taɪ̯˥ ʂɑŋ y˨˩.san˨˩˦] (Tiān-qì yù-bào shuō jīn-tiān xià-wǔ yào xià dà bào-yǔ, chū-mén qián yí-dìng yào jì-de dài shang yǔ-sǎn.)",
+          "translation": "The weather forecast says it is going to rain heavily this afternoon; be sure to remember to take an umbrella before going out."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (11.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "医生叮嘱我，生病服药期间千万不要喝浓茶和咖啡，要保持充足的休息。(Yīshēng dīngzhǔ wǒ, shēngbìng fúyào qījiān qiānwàn bú yào hē nóngchá hé kāfēi, yào bǎozhèng chōngzú de xiūxi.)",
+          "reading": "[i˥.ʂəŋ˥ tiŋ˥.ʈ͡ʂu˨˩˦ wɔ˨˩, ʂəŋ˥.piŋ˥˩ fu˧˥.jaʊ̯˥˩ t͡ɕʰi˥.t͡ɕjɛn˥ t͡ɕʰjɛn˥.wan˥˩ pu˥ jaʊ̯˥˩ xɤ˥ nʊŋ˧˥.ʈ͡ʂʰa˧˥ xɤ˧˥ kʰa˥.feɪ̯˥, jaʊ̯˥˩ paʊ̯˨˩.ʈ͡ʂɤŋ˥˩ t͡ʂʰʊŋ˥.t͡sy˧˥ tɤ ɕjoʊ̯˥.ɕi] (Yī-shēng dīng-zhǔ wǒ, shēng-bìng fú-yào qī-jiān qiān-wàn bú yào hē nóng-chá hé kā-fēi, yào bǎo-zhèng chōng-zú de xiū-xi.)",
+          "translation": "The doctor instructed me that during the illness and medication period, by no means should I drink strong tea or coffee; I must ensure sufficient rest."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "想表心愿柔婉转，要立决心行如铁；否定不想表退却，不要劝阻切莫越！"
+      ],
+      "culturalNotes": [
+        "在汉语交际礼仪中，向长辈或上级提出请求时宜用「想」（如「老师，我想请教一个问题」），体现委婉恭敬；而在表态立志、承担责任时则用「要」（如「我们一定要圆满完成任务」），体现担当与魄力。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」（第2讲）的标准汉语规范？",
+          "prompt": "向朋友委婉表达自己周末有去故宫参观的主观愿望，最得体的句子是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的核心语法法则与应用范例 (11.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (11.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (11.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (11.2.w3)"
+            "这个周末我很想去故宫博物院参观。(「想」表主观心愿与委婉提议)",
+            "这个周末我必须在故宫走。",
+            "这个周末我不要在故宫去。",
+            "这个周末我应该不要去故宫。"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「我很想去...」表达委婉主观愿望，语气亲切得体。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在告示牌上表达严禁吸烟的劝阻指令，规范句式是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "此处请不要吸烟！ / 请勿吸烟！(「不要」表劝阻禁止)",
+            "此处请不想吸烟！",
+            "此处请不用吸烟！",
+            "此处请不能想吸烟！"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「请不要吸烟」中「不要」充当劝阻警示助词。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的正式语境下，最准确得体的表达是哪一项？（第11.2题）",
+          "prompt": "要表达「今天很累，主观上没有去逛街的意愿」，正确的否定式是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (11.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (11.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (11.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (11.2.x3)"
+            "我今天太累了，不想去逛街。(「不想」表主观无意愿)",
+            "我今天太累了，不要去逛街。(语义变成命令自己禁止去)",
+            "我今天太累了，不能想逛街。",
+            "我今天太累了，应该不想逛街。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "表达个人主观上没有意向，必须使用「不想」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u11-l2）所要求的高阶语言表达？",
+          "prompt": "表达对实现既定奋斗目标的坚定决心，最适合的情态助词是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (11.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (11.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (11.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (11.2.y3)"
+            "要 / 一定要 (yào / yídìng yào - expresses firm resolve)",
+            "想一点儿",
+            "有点儿想",
+            "可以试试"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「要/一定要」展现了坚定不移的意志与明确的执行决心。"
         }
       ]
     },
@@ -6538,25 +6544,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的掌握程度，请选出表述完全正确的标准范句（测试 11-2）：",
+          "prompt": "请选出下列句子中「想」与「要」的语义层次与否定用法完全规范无误的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (11.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (11.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (11.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (11.2.z3)"
+            "我原本只是想了解一下中国茶文化，但深入研读后，我现在决心要成为一名优秀的评茶师。(从委婉兴趣「想」升华为坚定意志「要」，层次分明)",
+            "我原本不要了解中国茶文化，但现在不想成为评茶师。(否定错乱)",
+            "我原本要不想了解茶文化，但现在不要成评茶师。(语序彻底破碎)",
+            "我想要不要了解茶文化，但现在要不想做。(逻辑完全崩坏)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "首句精准刻画了心理愿望向行动抱负的飞跃，逻辑严谨。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u11-l2）的核心关键词（例如「能愿动词」）：",
+          "prompt": "请输入表达主观心理愿望、想法或打算的核心单字能愿动词（拼音为 xiǎng）：",
           "acceptedAnswers": [
-            "能愿动词",
-            "能愿动词（想",
-            "能愿动词（想/要/能/会/可以）与计划"
+            "想"
           ],
-          "explanation": "正确的核心关键词为「能愿动词」。"
+          "explanation": "汉字「想」是表达主观愿望与委婉打算的核心情态动词。"
         }
       ],
       "passThreshold": 0.8
@@ -6567,85 +6571,89 @@
     "subject": "mandarin",
     "unit": 11,
     "lessonNumber": 3,
-    "title": "能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans) (第3讲)",
+    "title": "许可、应然与道德规范：可以 (kěyǐ) / 应该 (yīnggāi) / 必须 (bìxū) 与禁止表达 (Permission, Obligation & Necessity)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：五大情态助动词在意愿、能力、许可及必然性上的精细语义分工。 (第3部分)。",
+    "objective": "系统掌握「可以」（许可与价值评估）、「应该」（情理应然与道德义务）、「必须」（强制必然与制度法规）的句法语义梯次及禁止否定表达。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在现代社会规范与法律制度语境中，情态助词的强弱梯次构建了严密的社会行为准则：\n\n一、「可以 (kěyǐ)」：许可与价值评估：\n1. 征求或给予许可（允许做某事）：\n-「请问我[可以]坐在这里吗？」——「当然[可以]，请坐。」(Permission granted)\n- 否定形式（不许可）：不[能] / 不[可以] / 不[行]（口语极常用）。\n2. 具备某种推荐价值或可行性：\n- 这本小说写得很精彩，很[可以]一读。(Worth reading)\n\n二、「应该 (yīnggāi)」：情理应然、道德义务与合理建议：\n1. 道德义务与社会责任（理所当然应当做）：\n- 作为青年学生，我们[应该]尊师重道、诚实守信。(Moral obligation)\n- 在公共汽车上，年轻人[应该]主动给老人让座。\n2. 合理推论与建议：\n- 他每天都刻苦复习，这次考试[应该]能取得好成绩。(Reasonable inference)\n- 否定形式：不[应该]（表达不合情理或批评责备）。\n\n三、「必须 (bìxū)」：制度规章、客观规律与强制必然：\n1. 刚性强制与法规约束（没有任何商量余地）：\n- 乘坐高铁[必须]实名制购票并出示身份证件。(Mandatory requirement)\n- 实验操作[必须]严格遵守安全规程。\n2. 极重要否定形式对立：\n- 表达「不需要/没有必要」：用「不用 (bú yòng)」或「不必 (bú bì)」，不可用「*不必须」！\n- 表达「绝对禁止」：用「严禁 (yánjìn) / 不准 (bù zhǔn) / 绝对不能」。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的核心语法法则与应用范例 (11.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)' in simple terms to students at the academic seminar."
+          "target": "请问我可以在这间多媒体阅览室里使用笔记本电脑吗？——当然可以，请保持安静。(Qǐngwèn wǒ kěyǐ zài zhè jiān duōméitǐ yuèlǎnshì lǐ shǐyòng bǐjìběn diànnǎo ma? —Dāngrán kěyǐ, qǐng bǎochí ānjìng.)",
+          "reading": "[t͡ɕʰiŋ˨˩˦.wən˥˩ wɔ˨˩ kʰɤ˨˩.i˨˩˦ t͡saɪ̯˥˩ ʈ͡ʂɤ˥˩ t͡ɕjɛn˥ twɔ˥.meɪ̯˧˥.tʰi˨˩˦ jɥɛ˥˩.lan˨˩.ʂɨ˥˩ li˨˩˦ ʂɨ˨˩˦.jʊŋ˥˩ pi˨˩.t͡ɕi˥˩.pən˨˩˦ tjɛn˥˩.naʊ̯˨˩˦ ma? —taŋ˥.ʐan˧˥ kʰɤ˨˩.i˨˩˦, t͡ɕʰiŋ˨˩˦ paʊ̯˨˩.ʈ͡ʂʰɨ˧˥ an˥.t͡ɕiŋ˥˩] (Qǐng-wèn wǒ kě-yǐ zài zhè jiān duō-méi-tǐ yuè-lǎn-shì lǐ shǐ-yòng bǐ-jì-běn diàn-nǎo ma? —Dāng-rán kě-yǐ, qǐng bǎo-chí ān-jìng.)",
+          "translation": "Excuse me, may I use a laptop in this multimedia reading room? —Of course you may; please keep quiet."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (11.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "每个人都应该自觉遵守公共秩序，在公共场所绝不可以大声喧哗和乱扔垃圾。(Měi ge rén dōu yīnggāi zìjué zūnshǒu gōnggòng zhìxù, zài gōnggòng chǎngsuǒ jué bù kěyǐ dàshēng xuānhuá hé luàn rēng lājī.)",
+          "reading": "[meɪ̯˨˩ kɤ ʐən˧˥ toʊ̯˥ iŋ˥.kaɪ̯ t͡sɨ˥˩.t͡ɕɥɛ˧˥ t͡swən˥.ʂoʊ̯˨˩˦ kʊŋ˥.kʊŋ˥˩ ʈ͡ʂɨ˥˩.ɕy˥˩, t͡saɪ̯˥˩ kʊŋ˥.kʊŋ˥˩ ʈ͡ʂʰɑŋ˨˩.swɔ˨˩˦ t͡ɕɥɛ˧˥ pu˥ kʰɤ˨˩.i˨˩˦ ta˥˩.ʂəŋ˥ ɕɥɛn˥.xwa˧˥ xɤ˧˥ lwan˥˩ ʐəŋ˥ la˥.t͡ɕi˥] (Měi ge rén dōu yīng-gāi zì-jué zūn-shǒu gōng-gòng zhì-xù, zài gōng-gòng chǎng-suǒ jué bù kě-yǐ dà-shēng xuān-huá hé luàn rēng lā-jī.)",
+          "translation": "Everyone should consciously abide by public order; in public places it is absolutely not permitted to shout loudly or litter trash."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (11.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "根据国家出入境管理规定，所有国际旅客在登机前都必须接受严格的安全检查。(Gēnjù guójiā chūrùjìng guǎnlǐ guīdìng, suǒyǒu guójì lǚkè zài dēngjī qián dōu bìxū jiēshòu yángé de ānquán jiǎnchá.)",
+          "reading": "[kən˥.t͡ɕy˥˩ kwɔ˧˥.t͡ɕja˥ t͡ʂʰu˥.ʐu˥˩.t͡ɕiŋ˥˩ kwan˨˩.li˨˩˦ kweɪ̯˥.tiŋ˥˩, swɔ˨˩˦.joʊ̯˨˩˦ kwo˧˥.t͡ɕi˥˩ ly˨˩.kʰɤ˥˩ t͡saɪ̯˥˩ təŋ˥.t͡ɕi˥ t͡ɕʰjɛn˧˥ toʊ̯˥ pi˥˩.ɕy˥ t͡ɕjɛ˥.ʂoʊ̯˥˩ jan˧˥.kɤ˧˥ tɤ an˥.t͡ɕʰyɛn˧˥ t͡ɕjɛn˨˩.t͡ʂʰa˧˥] (Gēn-jù guó-jiā chū-rù-jìng guǎn-lǐ guī-dìng, suǒ-yǒu guó-jì lǚ-kè zài dēng-jī qián dōu bì-xū jiē-shòu yán-gé de ān-quán jiǎn-chá.)",
+          "translation": "According to national immigration regulations, all international travelers must undergo strict security checks before boarding."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (11.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "既然大家已经达成了合作共识，我们就应该互相密切配合，必须在月底前完成报告。(Jìrán dàjiā yǐjīng dáchéng le hézuò gòngshí, wǒmen jiù yīnggāi hùxiāng mìqiè pèihé, bìxū zài yuèdǐ qián wánchéng bàogào.)",
+          "reading": "[t͡ɕi˥˩.ʐan˧˥ ta˥˩.t͡ɕja˥ i˨˩.t͡ɕiŋ˥ ta˧˥.ʈ͡ʂʰəŋ˧˥ lɤ xɤ˧˥.t͡swɔ˥˩ kʊŋ˥˩.ʂɨ˧˥, wɔ˨˩.mən t͡ɕjoʊ̯˥˩ iŋ˥.kaɪ̯ xu˥˩.ɕjaŋ˥ mi˥˩.t͡ɕʰjɛ˥˩ pʰeɪ̯˥˩.xɤ˥˩, pi˥˩.ɕy˥ t͡saɪ̯˥˩ jɥɛ˥˩.ti˨˩˦ t͡ɕʰjɛn˧˥ wan˧˥.ʈ͡ʂʰəŋ˧˥ paʊ̯˥˩.kaʊ̯˥˩] (Jì-rán dà-jiā yǐ-jīng dá-chéng le hé-zuò gòng-shí, wǒ-men jiù yīng-gāi hù-xiāng mì-qiè pèi-hé, bì-xū zài yuè-dǐ qián wán-chéng bào-gào.)",
+          "translation": "Since everyone has reached a cooperation consensus, we should closely cooperate with each other and must complete the report before the end of the month."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "可以请示求许可，应该情理合规范；必须法令严如律，不可不能把关严！"
+      ],
+      "culturalNotes": [
+        "「应该」承载了中国传统文化中重义尚礼、自律自觉的道德内省；而「必须」则反映了现代社会法制规范的刚性原则。在学术规范与法律文书中，「必须」具有绝对约束力。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」（第3讲）的标准汉语规范？",
+          "prompt": "在正式场合向主持人礼貌请求发言许可，最得体的表达是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的核心语法法则与应用范例 (11.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (11.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (11.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (11.3.w3)"
+            "请问我可以发言吗？(「可以」用于礼貌征求许可)",
+            "请问我必须发言吗？",
+            "请问我应该不要发言？",
+            "请问我想不能发言？"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「请问我可以...吗？」是征询许可最标准礼貌的交际用语。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "表达法律、制度与安全规章中的强制性不可违背要求，最准确的情态动词是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "必须 (bìxū - mandatory / compulsory)",
+            "可以",
+            "想",
+            "会一点儿"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "法律与安全规章中的强制性要求使用「必须」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的正式语境下，最准确得体的表达是哪一项？（第11.3题）",
+          "prompt": "在句子「作为社会的一员，我们______保护环境、节约用水」中，表达社会公德义务应填入：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (11.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (11.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (11.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (11.3.x3)"
+            "应该 / 应当 (yīnggāi / yīngdāng - moral/social obligation)",
+            "可以随便",
+            "不用",
+            "不想"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "履行社会公德与道德义务使用「应该/应当」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u11-l3）所要求的高阶语言表达？",
+          "prompt": "要表达「明天是周末不用早起，客观上没有早起的必要」，正确的否定形式是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (11.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (11.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (11.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (11.3.y3)"
+            "明天不用 / 不必早起。(「不用/不必」为「必须」的否定形式)",
+            "明天不必须早起。(语法错误)",
+            "明天不要早起。(变成命令禁止)",
+            "明天不会早起。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "表达「没有必要」应使用「不用」或「不必」，现代汉语中无「不必须」说法。"
         }
       ]
     },
@@ -6653,25 +6661,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的掌握程度，请选出表述完全正确的标准范句（测试 11-3）：",
+          "prompt": "请选出下列规章制度与社会规范语篇中情态助词运用完全典范严密的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (11.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (11.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (11.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (11.3.z3)"
+            "所有进入实验室的人员都必须严格穿戴防护服，实验过程中应该保持专注严谨，非经导师许可绝不可以擅自改动仪器参数。(必须表强制法令，应该表职业道德，不可以表禁令许可，层次分明无懈可击)",
+            "所有人员都可以在实验室穿防护服，实验中必须不可以专注。(逻辑彻底错乱)",
+            "进入实验室应该不用穿衣服，不可以必须改动。(荒谬不通)",
+            "实验室必须可以随便进，应该不要看仪器。(完全解体)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句精准展示了「必须（强制法令）」、「应该（道德自觉）」与「不可以（禁令）」的法度分工。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u11-l3）的核心关键词（例如「能愿动词」）：",
+          "prompt": "请输入表达法律规章制度强制必然性要求的核心双字副词/动词词语（拼音为 bìxū）：",
           "acceptedAnswers": [
-            "能愿动词",
-            "能愿动词（想",
-            "能愿动词（想/要/能/会/可以）与计划"
+            "必须"
           ],
-          "explanation": "正确的核心关键词为「能愿动词」。"
+          "explanation": "词语「必须」是现代汉语中表达法定强制必然要求的核心规范词汇。"
         }
       ],
       "passThreshold": 0.8
@@ -6682,85 +6688,89 @@
     "subject": "mandarin",
     "unit": 11,
     "lessonNumber": 4,
-    "title": "能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans) (第4讲)",
+    "title": "短期打算、未来规划与人生抱负句式（打算/计划/希望/准备/为了...而...） (Short-term Plans, Future Career & Life Aspirations)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：五大情态助动词在意愿、能力、许可及必然性上的精细语义分工。 (第4部分)。",
+    "objective": "熟练掌握未来学业规划与人生志向表达词汇（打算、计划、准备、希望、梦想、抱负），掌握目的介词框架（为了......而......）与时序逻辑连词。",
     "presentation": {
-      "explanation": "",
+      "explanation": "条理清晰、抱负坚定地阐述个人中长期规划与职业愿景，是高级学术自述与面试的核心交际板块：\n\n一、规划与愿景词汇体系：\n1.「打算 (dǎsuàn)」：主要用于日常口语中的近中期设想（下个月打算去上海）。\n2.「计划 (jìhuà)」：既可作动词也可作名词，多用于系统、正式的学业与工作方案（制定五年学习计划）。\n3.「准备 (zhǔnbèi)」：侧重于已经开始前期筹备与物质心理准备（正在准备出国材料）。\n4.「希望 (xīwàng)」与「梦想 (mèngxiǎng)」：指向美好的未来期盼与崇高人生抱负。\n\n二、目的介词与因果行动句式框架：\n1.「为了 + [明确目标/理想]，[主语] + 打算/决定/正在......」：\n- [为了]顺利通过HSK六级考试，我[打算]每天坚持精读两篇学术文章。\n2.「为了......而 + [动词/奋斗]」：\n- 我们要[为了]实现崇高的学术理想[而]不懈奋斗！\n\n三、时序逻辑多阶段规划衔接：\n-「首先 (shǒuxiān) ......，接着 / 然后 (ránhòu) 准备......，最后 (zuìhòu) 计划......」\n-「近期 (jìnqī) -> 中期 (zhōngqī) -> 远期 / 将来 (jiānglái)」",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的核心语法法则与应用范例 (11.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)' in simple terms to students at the academic seminar."
+          "target": "为了顺利通过今年年底的HSK五级考试，我打算从下周开始每天坚持背诵五十个核心生词。(Wèi le shùnlì tōngguò jīnnián niándǐ de HSK wǔjí kǎoshì, wǒ dǎsuàn cóng xià zhōu kāishǐ měitiān jiānchí bèisòng wǔshí ge héxīn shēngcí.)",
+          "reading": "[weɪ̯˥˩ lɤ ʂwən˥˩.li˥˩ tʰʊŋ˥.kwo˥˩ t͡ɕin˥.tʰjɛn˥ njɛn˧˥.ti˨˩˦ tɤ HSK u˨˩.t͡ɕi˧˥ kʰaʊ̯˨˩.ʂɨ˥˩, wɔ˨˩ ta˨˩.swan t͡sʰʊŋ˧˥ ɕja˥˩ ʈ͡ʂoʊ̯˥ kʰaɪ̯˥.ʂɨ˨˩˦ meɪ̯˨˩.tʰjɛn˥ t͡ɕjɛn˥.ʈ͡ʂʰɨ˧˥ peɪ̯˥˩.sʊŋ˥˩ u˨˩˦.ʂɨ˧˥ kɤ xɤ˧˥.ɕin˥ ʂəŋ˥.t͡sʰɨ˧˥] (Wèi le shùn-lì tōng-guò jīn-nián nián-dǐ de HSK wǔ-jí kǎo-shì, wǒ dǎ-suan cóng xià zhōu kāi-shǐ měi-tiān jiān-chí bèi-sòng wǔ-shí ge hé-xīn shēng-cí.)",
+          "translation": "In order to smoothly pass the HSK Level 5 exam at the end of this year, I plan to start memorizing fifty core new words every day from next week."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (11.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "大学毕业以后，我计划申请去清华大学攻读跨文化传播专业硕士研究生。(Dàxué bìyè yǐhòu, wǒ jìhuà shēnqǐng qù Qīnghuá Dàxué gōngdú kuà-wénhuà chuánbō zhuānyè shuòshì yánjiūshēng.)",
+          "reading": "[ta˥˩.ɕɥɛ˧˥ pi˥˩.jɛ˥˩ i˨˩.xoʊ̯˥˩, wɔ˨˩ t͡ɕi˥˩.xwa˥˩ ʂən˥.t͡ɕʰiŋ˨˩˦ t͡ɕʰy˥˩ t͡ɕʰiŋ˥.xwa˧˥ ta˥˩.ɕɥɛ˧˥ kʊŋ˥.tu˧˥ kʰwa˥˩.wən˧˥.xwa˥˩ t͡ʂʰwan˧˥.pwɔ˥ ʈ͡ʂwan˥.jɛ˥˩ ʂwɔ˥˩.ʂɨ˥˩ jan˧˥.t͡ɕjoʊ̯˥.ʂəŋ˥] (Dà-xué bì-yè yǐ-hòu, wǒ jì-huà shēn-qǐng qù Qīng-huá Dà-xué gōng-dú kuà-wén-huà chuán-bō zhuān-yè shuò-shì yán-jiū-shēng.)",
+          "translation": "After graduating from university, I plan to apply to Tsinghua University to pursue a master's degree in intercultural communication."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (11.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "我的最大梦想是成为一名优秀的汉学翻译家，希望未来能把更多的经典文学作品翻译成母语。(Wǒ de zuì dà mèngxiǎng shì chéngwéi yì míng yōuxiù de hànxué fānyìjiā, xīwàng wèilái néng bǎ gèng duō de jīngdiǎn wénxué zuòpǐn fānyì chéng mǔyǔ.)",
+          "reading": "[wɔ˨˩ tɤ t͡sweɪ̯˥˩ ta˥˩ məŋ˥˩.ɕjaŋ˨˩˦ ʂɨ˥˩ ʈ͡ʂʰəŋ˧˥.weɪ̯˧˥ i˥˩ miŋ˧˥ joʊ̯˥.ɕjoʊ̯˥˩ tɤ xan˥˩.ɕɥɛ˧˥ fan˥.i˥˩.t͡ɕja˥, ɕi˥.wɑŋ˥˩ weɪ̯˥˩.laɪ̯˧˥ nɤŋ˧˥ pa˨˩˦ kɤŋ˥˩ twɔ˥ tɤ t͡ɕiŋ˥.tjɛn˨˩˦ wən˧˥.ɕɥɛ˧˥ t͡swɔ˥˩.pʰin˨˩˦ fan˥.i˥˩ ʈ͡ʂʰəŋ˧˥ mu˨˩.y˨˩˦] (Wǒ de zuì dà mèng-xiǎng shì chéng-wéi yí míng yōu-xiù de hàn-xué fān-yì-jiā, xī-wàng wèi-lái néng bǎ gèng duō de jīng-diǎn wén-xué zuò-pǐn fān-yì chéng mǔ-yǔ.)",
+          "translation": "My greatest dream is to become an outstanding Sinologist translator, hoping in the future to translate more classic literary works into my mother tongue."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (11.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我们全家准备在今年暑假期间去云南深度旅游，亲身体验丽江古城和玉龙雪山的壮丽风光。(Wǒmen quánjiā zhǔnbèi zài jīnnián shǔjià qījiān qù Yúnnán shēndù lǚyóu, qīnshēn tǐyàn Lìjiāng gǔchéng hé Yùlóng xuěshān de zhuànglì fēngguāng.)",
+          "reading": "[wɔ˨˩.mən t͡ɕʰyɛn˧˥.t͡ɕja˥ ʈ͡ʂwən˨˩.peɪ̯˥˩ t͡saɪ̯˥˩ t͡ɕin˥.tʰjɛn˥ ʂu˨˩.t͡ɕja˥˩ t͡ɕʰi˥.t͡ɕjɛn˥ t͡ɕʰy˥˩ jyn˧˥.nan˧˥ ʂən˥.tu˥˩ ly˨˩.joʊ̯˧˥, t͡ɕʰin˥.ʂən˥ tʰi˨˩.jɛn˥˩ li˥˩.t͡ɕjɑŋ˥ ku˨˩.ʈ͡ʂʰəŋ˧˥ xɤ˧˥ jy˥˩.lʊŋ˧˥ ɕɥɛ˨˩.ʂan˥ tɤ ʈ͡ʂwaŋ˥˩.li˥˩ fɤŋ˥.kwɑŋ˥] (Wǒ-men quán-jiā zhǔn-bèi zài jīn-nián shǔ-jià qī-jiān qù Yún-nán shēn-dù lǚ-yóu, qīn-shēn tǐ-yàn Lì-jiāng gǔ-chéng hé Yù-lóng xuě-shān de zhuàng-lì fēng-guāng.)",
+          "translation": "Our whole family is preparing to travel in depth to Yunnan during this summer vacation to experience in person the magnificent scenery of Lijiang Old Town and Jade Dragon Snow Mountain."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "打算计划定目标，准备希望展宏图；为了理想多奋斗，抱负终将化坦途！"
+      ],
+      "culturalNotes": [
+        "古语云「志不立，天下无可成之事」。在中国高等学府与科研院所申请中，撰写严谨清晰的「个人研修计划（Study Plan）」是展示学术素养与人生抱负的关键载体。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」（第4讲）的标准汉语规范？",
+          "prompt": "在句子「______实现留学中国的梦想，他每天都在刻苦攻读汉语」中，引导目标的介词是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的核心语法法则与应用范例 (11.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (11.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (11.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (11.4.w3)"
+            "为了 (wèile - in order to / for the sake of)",
+            "关于",
+            "对于",
+            "在上面"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "引导明确奋斗目标使用目的介词「为了」。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "表达正式、长远且具有系统性的方案规划，最书面严谨的词汇是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "计划 / 规划 (jìhuà / guīhuà - plan/project/program)",
+            "随便想想",
+            "玩一玩",
+            "看一看"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「计划」与「规划」是表达长远正式方案的标准书面词汇。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的正式语境下，最准确得体的表达是哪一项？（第11.4题）",
+          "prompt": "下列哪一项属于学业规划与人生抱负的典范汉语陈述？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (11.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (11.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (11.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (11.4.x3)"
+            "我计划在未来三年内攻读语言学硕士学位，希望将来能从事国际汉语教育工作。(Clear temporal scope, academic degree & career aspiration)",
+            "我打算在昨天攻读完硕士明天去玩。",
+            "我为了不想学习而天天睡觉。",
+            "我希望不可以成为老师在过去。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "三年计划、学位攻读与职业理想层层递进，结构优美。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u11-l4）所要求的高阶语言表达？",
+          "prompt": "在规划叙事中，表示行动前期筹备就绪的动词词汇是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (11.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (11.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (11.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (11.4.y3)"
+            "准备 (zhǔnbèi - prepare/get ready)",
+            "退步",
+            "放弃",
+            "迟到"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「准备」表示积极筹备与行动就绪。"
         }
       ]
     },
@@ -6768,25 +6778,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的掌握程度，请选出表述完全正确的标准范句（测试 11-4）：",
+          "prompt": "请选出下列个人规划与理想阐述中逻辑最严密、语言最典范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (11.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (11.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (11.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (11.4.z3)"
+            "为了能够在中外经贸合作中发挥桥梁作用，我打算先在大学里打牢经济学与汉语言基础，然后计划申请中国政府奖学金赴华深造。(目标宏大、步骤分明、连接流畅典范)",
+            "为了能够去中国玩，我打算先睡觉然后计划不学习。(立意低俗逻辑断裂)",
+            "我打算在过去为了中国留学而准备昨天。(时间倒流病句严重)",
+            "我计划必须可以希望去经贸合作。(情态词无序堆叠)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在目标（发挥桥梁作用）、路径（打牢双重基础）及长远规划（申请奖学金深造）上达到了极高标准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u11-l4）的核心关键词（例如「能愿动词」）：",
+          "prompt": "请输入表示个人对未来美好前景的期盼与向往的核心双字动词/名词词语（拼音为 xīwàng）：",
           "acceptedAnswers": [
-            "能愿动词",
-            "能愿动词（想",
-            "能愿动词（想/要/能/会/可以）与计划"
+            "希望"
           ],
-          "explanation": "正确的核心关键词为「能愿动词」。"
+          "explanation": "词语「希望」是现代汉语中指称美好期盼与愿景的最核心词汇。"
         }
       ],
       "passThreshold": 0.8
@@ -6797,85 +6805,89 @@
     "subject": "mandarin",
     "unit": 11,
     "lessonNumber": 5,
-    "title": "能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans) (第5讲)",
+    "title": "个人成长轨迹、学业蓝图与人生愿景综合叙事篇章 (Comprehensive Personal Growth, Academic Blueprint & Vision Narrative)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：五大情态助动词在意愿、能力、许可及必然性上的精细语义分工。 (第5部分)。",
+    "objective": "融会贯通能愿动词全体系（能/会/想/要/可以/应该/必须）与个人规划词汇（打算/计划/希望/为了...而...），独立撰写思想深刻、逻辑严密的个人陈述与学术愿景综合叙事语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "将情态助词的精微语义、自律规范与远大抱负有机熔铸于同一叙事长篇中，是检验中高级汉语写作能力的核心里程碑：\n\n一、个人学术与成长愿景语篇结构范式：\n1. 技能基石与现状评估（能/会）：回顾过往积累，客观评估目前掌握的汉语技能与专业素养。\n2. 奋斗目标与内心动力（想/要）：阐明内心深处的求知渴望与坚定不移的学术志向。\n3. 自律规范与行动准则（应该/必须）：树立严谨求实的治学态度，恪守学术规范与时间规划。\n4. 具体行动步骤（打算/计划/准备）：明确分阶段的实施方案（备考HSK/申请高校/实习科研）。\n5. 终极人生抱负（希望/为了...而奋斗）：升华个人价值，将个人成长融入跨文化交流与人类社会进步。\n\n二、全景式个人学术愿景范文（我的汉语求学与学术抱负自述）：\n- 经过两年坚持不懈的系统学习，我现在不仅会熟练书写常用汉字，而且能用汉语自如地参与跨文化学术交流。为了进一步深化专业素养，我决心要成为一名推动中外文明互鉴的青年学者。我清楚地知道，攀登学术高峰必须付出艰辛的努力，我们应该时刻保持谦虚严谨的求知态度。在近阶段，我打算在今年年底前通过高级汉语水平测试；在中期，我计划申请攻读中国顶尖大学的比较文学专业研究生。我希望通过扎实的学术训练，未来能够把更多优秀的中国传统文化典籍翻译介绍给世界。为了实现这个崇高而光荣的梦想，我将始终坚持不懈、勇往直前！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的核心语法法则与应用范例 (11.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)' in simple terms to students at the academic seminar."
+          "target": "经过两年的刻苦学习，我现在不仅能听懂地道的中文广播，还能流利地用汉语进行学术研讨。(Jīngguò liǎng nián de kèkǔ xuéxí, wǒ xiànzài bùjǐn néng tīngdǒng dìdao de Zhōngwén guǎngbō, hái néng liúlì de yòng Hànyǔ jìnxíng xuéshù yántǎo.)",
+          "reading": "[t͡ɕiŋ˥.kwo˥˩ ljaŋ˨˩˦ njɛn˧˥ tɤ kʰɤ˥˩.kʰu˨˩˦ ɕɥɛ˧˥.ɕi˧˥, wɔ˨˩ ɕjɛn˥˩.t͡saɪ̯˥˩ pu˥.t͡ɕin˨˩˦ nɤŋ˧˥ tʰiŋ˥.tʊŋ˨˩˦ ti˥˩.taʊ̯ tɤ ʈ͡ʂʊŋ˥.wən˧˥ kwaŋ˨˩.pwɔ˥, xaɪ̯˧˥ nɤŋ˧˥ ljoʊ̯˧˥.li˥˩ tɤ jʊŋ˥˩ xan˥˩.y˨˩˦ t͡ɕin˥.ɕiŋ˧˥ ɕɥɛ˧˥.ʂu˥˩ jan˧˥.tʰaʊ̯˨˩˦] (Jīng-guò liǎng nián de kè-kǔ xué-xí, wǒ xiàn-zài bù-jǐn néng tīng-dǒng dì-dao de Zhōng-wén guǎng-bō, hái néng liú-lì de yòng Hàn-yǔ jìn-xíng xué-shù yán-tǎo.)",
+          "translation": "Through two years of assiduous study, I can now not only understand authentic Chinese broadcasts, but also conduct academic seminars fluently in Chinese."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (11.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "我打算在今年夏天参加汉语水平考试，为了实现这个目标，我必须每天合理规划时间、刻苦攻读。(Wǒ dǎsuàn zài jīnnián xiàtiān cānjiā Hànyǔ shuǐpíng kǎoshì, wèi le shíxiàn zhè ge mùbiāo, wǒ bìxū měitiān hélǐ guīhuà shíjiān, kèkǔ gōngdú.)",
+          "reading": "[wɔ˨˩ ta˨˩.swan t͡saɪ̯˥˩ t͡ɕin˥.tʰjɛn˥ ɕja˥˩.tʰjɛn˥ t͡sʰan˥.t͡ɕja˥ xan˥˩.y˨˩˦ ʂweɪ̯˨˩.pʰiŋ˧˥ kʰaʊ̯˨˩.ʂɨ˥˩, weɪ̯˥˩ lɤ ʂɨ˧˥.ɕjɛn˥˩ ʈ͡ʂɤ˥˩ kɤ mu˥˩.pjaʊ̯˥, wɔ˨˩ pi˥˩.ɕy˥ meɪ̯˨˩.tʰjɛn˥ xɤ˧˥.li˨˩˦ kweɪ̯˥.xwa˥˩ ʂɨ˧˥.t͡ɕjɛn˥, kʰɤ˥˩.kʰu˨˩˦ kʊŋ˥.tu˧˥] (Wǒ dǎ-suan zài jīn-nián xià-tiān cān-jiā Hàn-yǔ shuǐ-píng kǎo-shì, wèi le shí-xiàn zhè ge mù-biāo, wǒ bì-xū měi-tiān hé-lǐ guī-huà shí-jiān, kè-kǔ gōng-dú.)",
+          "translation": "I plan to participate in the HSK exam this summer; in order to achieve this goal, I must reasonably schedule my time and study hard every day."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (11.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "我们应该珍惜宝贵的青年时光，努力提升专业技能，将来才能在激烈的国际竞争中大展宏图。(Wǒmen yīnggāi zhēnxī bǎoguì de qīngnián shíguāng, nǔlì tíshēng zhuānyè jīnéng, jiānglái cái néng zài jīliè de guójì jìngzhēng zhōng dàzhǎn-hóngtú.)",
+          "reading": "[wɔ˨˩.mən iŋ˥.kaɪ̯ ʈ͡ʂən˥.ɕi˥ paʊ̯˨˩.kweɪ̯˥˩ tɤ t͡ɕʰiŋ˥.njɛn˧˥ ʂɨ˧˥.kwɑŋ˥, nu˨˩.li˥˩ tʰi˧˥.ʂəŋ˥ ʈ͡ʂwan˥.jɛ˥˩ t͡ɕi˥.nɤŋ˧˥, t͡ɕjaŋ˥.laɪ̯˧˥ t͡sʰaɪ̯˧˥ nɤŋ˧˥ t͡saɪ̯˥˩ t͡ɕi˥.ljɛ˥˩ tɤ kwo˧˥.t͡ɕi˥˩ t͡ɕiŋ˥˩.ʈ͡ʂəŋ˥ ʈ͡ʂʊŋ˥ ta˥˩.ʈ͡ʂan˨˩.xʊŋ˧˥.tʰu˧˥] (Wǒ-men yīng-gāi zhēn-xī bǎo-guì de qīng-nián shí-guāng, nǔ-lì tí-shēng zhuān-yè jī-néng, jiāng-lái cái néng zài jī-liè de guó-jì jìng-zhēng zhōng dà-zhǎn-hóng-tú.)",
+          "translation": "We should cherish our precious youth, strive to enhance our professional skills, so that we can realize our grand ambitions in fierce international competition in the future."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (11.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我的长远计划是在未来五年内创办一家国际文化交流中心，促进中外青年之间的相互理解与友谊。(Wǒ de chángyuǎn jìhuà shì zài wèilái wǔ nián nèi chuàngbàn yì jiā guójì wénhuà jiāoliú zhōngxīn, cùjìn zhōngwài qīngnián zhījiān de xiānghù lǐjiě yǔ yǒuyì.)",
+          "reading": "[wɔ˨˩ tɤ ʈ͡ʂʰɑŋ˧˥.jɥɛn˨˩˦ t͡ɕi˥˩.xwa˥˩ ʂɨ˥˩ t͡saɪ̯˥˩ weɪ̯˥˩.laɪ̯˧˥ u˨˩˦ njɛn˧˥ neɪ̯˥˩ t͡ʂʰwaŋ˥˩.pan˥˩ i˥˩ t͡ɕja˥ kwo˧˥.t͡ɕi˥˩ wən˧˥.xwa˥˩ t͡ɕjaʊ̯˥.ljoʊ̯˧˥ ʈ͡ʂʊŋ˥.ɕin˥, t͡sʰu˥˩.t͡ɕin˥˩ ʈ͡ʂʊŋ˥.waɪ̯˥˩ t͡ɕʰiŋ˥.njɛn˧˥ ʈ͡ʂɨ˥.t͡ɕjɛn˥ tɤ ɕjaŋ˥.xu˥˩ li˨˩.t͡ɕjɛ˨˩˦ y˨˩˦ joʊ̯˨˩.i˥˩] (Wǒ de cháng-yuǎn jì-huà shì zài wèi-lái wǔ nián nèi chuàng-bàn yì jiā guó-jì wén-huà jiāo-liú zhōng-xīn, cù-jìn zhōng-wài qīng-nián zhī-jiān de xiāng-hù lǐ-jiě yǔ yǒu-yì.)",
+          "translation": "My long-term plan is to establish an international cultural exchange center within the next five years to promote mutual understanding and friendship among Chinese and foreign youth."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "能会兼备基石固，想要奋发志气昂；必须应该守自律，计划愿景谱华章！"
+      ],
+      "culturalNotes": [
+        "优秀的个人愿景语篇不仅展现汉语功底，更体现出具有人类命运共同体意识的宽广胸怀。将自身专业抱负与中外友谊紧密相连，是赢得学术界与社会各界高度赞赏的典范范式。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」（第5讲）的标准汉语规范？",
+          "prompt": "在个人学术愿景自述中，将各情态动词与规划步骤进行逻辑串联的正确篇章脉络是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的核心语法法则与应用范例 (11.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (11.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (11.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (11.5.w3)"
+            "展示现有能力(能/会) -> 明确奋斗志向(要) -> 严守自律(必须/应该) -> 落实分步计划(打算/希望) (Standard coherent blueprint structure)",
+            "先说长远愿景 -> 再说不能做的事 -> 最后说不想学习",
+            "先必须制定计划 -> 再说不会汉语 -> 结束自述",
+            "只说希望梦想 -> 没有任何具体步骤与能力证明"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "由现有能力切入，确立目标、严明纪律、细化步骤并升华愿景，是严密规范的学术自述结构。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "语篇中「为了促进中外文化交流，我必须每天合理规划时间」所体现的核心逻辑是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "崇高宏伟的理想目标必须依靠高度自律的日常行动来保障落实 (Noble aspirations require disciplined daily action)",
+            "只需要空想不用付诸行动",
+            "计划与目标毫无关系",
+            "每天随便过日子即可实现理想"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "该句深刻揭示了远大目标（为了...）与高度自律（必须...）的辩证统一关系。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的正式语境下，最准确得体的表达是哪一项？（第11.5题）",
+          "prompt": "请选出下列个人愿景陈述中情态动词搭配与逻辑演进最完美通畅的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (11.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (11.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (11.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (11.5.x3)"
+            "我现在能用中文阅读专业文献，为了将来能成为一名优秀的汉学家，我必须要前往中国深入研学，我计划在明年申请相关高校的研究生项目。(情态层次严谨，语篇浑然一体)",
+            "我现在不会看书，为了不想去中国，我计划天天睡觉。(立意荒谬逻辑崩溃)",
+            "我现在能看书在过去，必须可以去留学在明年。(语法杂糅病句连篇)",
+            "我现在想不能看书，为了应该不计划申请。(语义完全瓦解)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「能阅读」（能力）、「为了...要...」（目标与决心）、「计划申请」（行动），无可挑剔。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u11-l5）所要求的高阶语言表达？",
+          "prompt": "在学术自述中表达「中外青年之间的互相了解与友谊」，最典雅得体的词汇是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (11.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (11.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (11.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (11.5.y3)"
+            "相互理解与深厚友谊 (Mutual understanding and profound friendship)",
+            "天天打架",
+            "互不理睬",
+            "互相不说话"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「相互理解与深厚友谊」是跨文化学术愿景的标准典雅表达。"
         }
       ]
     },
@@ -6883,25 +6895,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的掌握程度，请选出表述完全正确的标准范句（测试 11-5）：",
+          "prompt": "请选出下列个人学术蓝图叙事篇章中思想最深刻、语法结构最典范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (11.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (11.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (11.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (11.5.z3)"
+            "作为一名国际汉语学习者，我不仅会熟练运用日常口语，更能深入理解中文背后的文化底蕴。为了将来成为中外经贸文化交流的桥梁，我必须坚持严谨治学，我计划在未来五年内攻读硕士学位，并希望能为增进中外人民的友谊贡献自己的青春与智慧。(全篇融会贯通五大情态与规划词汇，境界高远)",
+            "作为学生我不要学中文，因为太难了，我打算回家玩。(态度消极且语义平庸)",
+            "我能会中文在昨天，必须可以希望当桥梁在未来。(严重语法语序错误)",
+            "为了不用学习，我应该计划天天睡觉去。(立意低俗完全违背规范)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在能力展示、文化理解、人生目标、治学态度、学术规划以及价值升华上均达到了现代汉语的最高境界。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u11-l5）的核心关键词（例如「能愿动词」）：",
+          "prompt": "请输入表达对宏伟事业的发展设想或远大志向的核心双字名词（例如大展「」，拼音为 hóngtú）：",
           "acceptedAnswers": [
-            "能愿动词",
-            "能愿动词（想",
-            "能愿动词（想/要/能/会/可以）与计划"
+            "宏图"
           ],
-          "explanation": "正确的核心关键词为「能愿动词」。"
+          "explanation": "词语「宏图」是现代汉语中表达宏伟壮志与远大蓝图的核心典雅词汇。"
         }
       ],
       "passThreshold": 0.8
