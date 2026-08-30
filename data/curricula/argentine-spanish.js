@@ -16324,76 +16324,81 @@
         "id": "es-ar-u32-l1",
         "unit": "es-ar-u32",
         "level": "C1",
-        "objective": "The Teatro Colón of Buenos Aires (Acoustical temple of the Americas, horseshoe hall, Pavarotti & Callas): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "El Teatro Colón de Buenos Aires: acústica monumental, historia lírica y patrimonio escénico del Cono Sur.",
         "presentation": {
-            "explanation": "The Teatro Colón of Buenos Aires (Acoustical temple of the Americas, horseshoe hall, Pavarotti & Callas) represents a cornerstone of Theatre, Stagecraft & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "El Teatro Colón de Buenos Aires, inaugurado en su emplazamiento actual en 1908 frente a la Plaza Lavalle, constituye uno de los coliseos líricos y centros de artes escénicas más prestigiosos del mundo. Diseñado sucesivamente por los arquitectos Francesco Tamburini, Vittorio Meano y Jules Dormal, combina un riguroso eclecticismo academicista italiano y francés con una sala principal en forma de herradura de proporciones áureas. Su volumen arquitectónico y el revestimiento de maderas nobles, telas y cámaras de resonancia subterráneas le confieren una acústica universalmente aclamada por figuras como Maria Callas, Luciano Pavarotti y Arturo Toscanini. El Colón opera además como un teatro de producción integral autónoma, albergando talleres subterráneos de escenografía, utilería, sastrería, zapatería y peluquería teatral, junto con la Orquesta Estable, la Orquesta Filarmónica de Buenos Aires, el Ballet Estable y el Instituto Superior de Arte.",
             "examples": [
                 {
-                    "target": "Mastery of The Teatro Colón of Buenos Aires (Acoustical temple of the Americas, horseshoe hall, Pavarotti & Callas) exemplifies the cultural and expressive pinnacle of Argentine Spanish.",
-                    "reading": "Target analysis of The Teatro Colón of Buenos Aires (Acoustical temple of the Americas, horseshoe hall, Pavarotti & Callas)...",
-                    "translation": "Mastery of The Teatro Colón of Buenos Aires (Acoustical temple of the Americas, horseshoe hall, Pavarotti & Callas) exemplifies the cultural and expressive pinnacle of Argentine Spanish."
+                    "target": "La orquesta estable y los cuerpos corales ensayaron la ópera en la sala principal aprovechando su inigualable tiempo de reverberación.",
+                    "reading": "La orquesta estable y los cuerpos corales ensayaron la ópera en la sala principal aprovechando su inigualable tiempo de reverberación.",
+                    "translation": "The resident orchestra and choral ensembles rehearsed the opera in the main hall taking advantage of its unmatched reverberation time."
+                },
+                {
+                    "target": "Los talleres de escenografía del subsuelo diseñaron los telones de boca y el vestuario de época para la temporada lírica.",
+                    "reading": "Los talleres de escenografía del subsuelo diseñaron los telones de boca y el vestuario de época para la temporada lírica.",
+                    "translation": "The basement stagecraft workshops designed the act drops and period costumes for the lyric season."
                 }
             ],
             "mnemonics": [
-                "The Teatro Colón of Buenos Aires (Acoustical temple of the Americas, horseshoe hall, Pavarotti & Callas)! Essential milestone in Theatre, Stagecraft & Performing Arts!"
+                "«Sala en herradura»: disposición clásica a la italiana que optimiza la visibilidad visual y el rebote del sonido sin ecos molestos."
             ],
             "culturalNotes": [
-                "The Teatro Colón of Buenos Aires (Acoustical temple of the Americas, horseshoe hall, Pavarotti & Callas) is celebrated worldwide as a defining achievement of Argentine Spanish heritage."
+                "La cúpula del Teatro Colón luce un célebre fresco pintado por el maestro Raúl Soldi en 1966, que homenajea a las artes líricas y teatrales."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Teatro Colón of Buenos Aires (Acoustical temple of the Americas, horseshoe hall, Pavarotti & Callas)?",
+                    "prompt": "¿Qué rasgo arquitectónico y acústico distingue a la sala principal del Teatro Colón de Buenos Aires?",
                     "options": [
-                        "Generic introductory concept (156.1)",
-                        "Irrelevant topic (156.2)",
-                        "Modern fast-food trend (156.3)",
-                        "The Teatro Colón of Buenos Aires (156.4)"
+                        "Su planta circular abierta de hormigón armado sin cortinajes.",
+                        "Su diseño en herradura con cámaras de resonancia y materiales nobles que generan una acústica perfecta.",
+                        "Una estructura cuadrada techada con vidrio que anula la reverberación sonora.",
+                        "Un diseño de anfiteatro griego al aire libre."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "The Teatro Colón of Buenos Aires is the central subject."
+                    "answerIndex": 1,
+                    "explanation": "La sala en herradura del Teatro Colón equilibra absorción y reflexión del sonido, otorgándole su fama acústica mundial."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Stagecraft & Performing Arts, what is the primary significance of The Teatro Colón of Buenos Aires?",
+                    "prompt": "¿Cuál es la función de los extensos talleres subterráneos del Teatro Colón?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Argentine Spanish civilization. (156.1)",
-                        "It has no historical significance. (156.2)",
-                        "It was imported from an unrelated continent. (156.3)",
-                        "It was invented yesterday. (156.4)"
+                        "Producir íntegramente de forma artesanal la escenografía, vestuario, utilería y calzado para todas las puestas en escena.",
+                        "Servir exclusivamente como depósito de residuos urbanos de la Ciudad de Buenos Aires.",
+                        "Albergar una estación de metro subterránea sin vínculo con el teatro.",
+                        "Funcionar como imprenta comercial ajena a la actividad artística."
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Argentine Spanish civilization."
+                    "explanation": "El Colón es una de las pocas salas del mundo con capacidad de producción artesanal integral in-house en sus propios talleres."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of The Teatro Colón of Buenos Aires in the development of Theatre, Stagecraft & Performing Arts:",
+                    "prompt": "¿Quién fue el artista plástico argentino responsable del emblemático fresco que decora la cúpula central del Teatro Colón?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "The Teatro Colón of Buenos Aires established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
+                        "Antonio Berni",
+                        "Raúl Soldi",
+                        "Xul Solar",
+                        "Benito Quinquela Martín"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Accurate analysis of The Teatro Colón of Buenos Aires (Acoustical temple of the Americas, horseshoe hall, Pavarotti & Callas)."
+                    "explanation": "Raúl Soldi pintó la cúpula del Colón en 1966, representando alegorías teatrales y musicales."
                 },
                 {
-                    "prompt": "What mastery level does completing The Teatro Colón of Buenos Aires contribute to in the FEARN curriculum?",
+                    "prompt": "En la jerga operística rioplatense, ¿a qué alude la expresión «temporada lírica oficial»?",
                     "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Beginner A1",
-                        "Pre-intermediate B1",
-                        "Elementary A2"
+                        "A la programación anual de óperas, recitales y conciertos sinfónicos mayores presentada por el teatro.",
+                        "Al receso invernal de ensayos orquestales.",
+                        "A una competencia deportiva entre músicos.",
+                        "A la venta de entradas de reventa callejera."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "La temporada lírica es el ciclo troncal de representaciones operísticas del repertorio internacional."
                 }
             ],
             "passThreshold": 0.8
@@ -16403,76 +16408,81 @@
         "id": "es-ar-u32-l2",
         "unit": "es-ar-u32",
         "level": "C1",
-        "objective": "The Golden Age of Sainete Criollo & Grotesco (Alberto Vacarezza, Armando Discépolo y Mateo 1923): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "El Sainete Criollo y el Grotesco Criollo: de Vacarezza a Armando Discépolo.",
         "presentation": {
-            "explanation": "The Golden Age of Sainete Criollo & Grotesco (Alberto Vacarezza, Armando Discépolo y Mateo 1923) represents a cornerstone of Theatre, Stagecraft & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "El teatro rioplatense de comienzos del siglo XX vio nacer dos géneros autóctonos fundamentales que reflejaron la transformación social de Buenos Aires: el sainete criollo y el grotesco criollo. El sainete criollo, popularizado por dramaturgos como Alberto Vacarezza con obras cumbres como «El conventillo de la Paloma» (1929), retrataba con tono humorístico, costumbrista y musical la convivencia en los conventillos porteños entre inmigrantes italianos, españoles, turcos y criollos, dando lugar al dialecto teatralizado del cocoliche y el lunfardo. Posteriormente, Armando Discépolo transformó esa comedia superficial en una tragedia desgarradora al fundar el grotesco criollo con «Mateo» (1923) y «Stéfano» (1928). El grotesco discepoliano traslada la acción del patio comunitario a la intimidad asfixiante de la habitación familiar, exponiendo el fracaso del sueño del inmigrante («hacer la América»), la incomunicación generacional, la alienación laboral y el derrumbe de la dignidad humana.",
             "examples": [
                 {
-                    "target": "Mastery of The Golden Age of Sainete Criollo & Grotesco (Alberto Vacarezza, Armando Discépolo y Mateo 1923) exemplifies the cultural and expressive pinnacle of Argentine Spanish.",
-                    "reading": "Target analysis of The Golden Age of Sainete Criollo & Grotesco (Alberto Vacarezza, Armando Discépolo y Mateo 1923)...",
-                    "translation": "Mastery of The Golden Age of Sainete Criollo & Grotesco (Alberto Vacarezza, Armando Discépolo y Mateo 1923) exemplifies the cultural and expressive pinnacle of Argentine Spanish."
+                    "target": "En «Mateo», el cochero inmigrante conversa con su caballo sobre la obsolescencia que le impone el automóvil en la gran ciudad.",
+                    "reading": "En «Mateo», el cochero inmigrante conversa con su caballo sobre la obsolescencia que le impone el automóvil en la gran ciudad.",
+                    "translation": "In 'Mateo', the immigrant carriage driver speaks with his horse about the obsolescence imposed on him by the automobile in the big city."
+                },
+                {
+                    "target": "El sainete criollo recreaba la mezcla de lenguas del patio del conventillo con picardía, guitarras y tango.",
+                    "reading": "El sainete criollo recreaba la mezcla de lenguas del patio del conventillo con picardía, guitarras y tango.",
+                    "translation": "The sainete criollo recreated the blend of languages in the tenement courtyard with wit, guitars, and tango."
                 }
             ],
             "mnemonics": [
-                "The Golden Age of Sainete Criollo & Grotesco (Alberto Vacarezza, Armando Discépolo y Mateo 1923)! Essential milestone in Theatre, Stagecraft & Performing Arts!"
+                "«Hacer la América»: ilusión de progreso económico y ascenso social que motivó la gran ola migratoria europea hacia el Río de la Plata."
             ],
             "culturalNotes": [
-                "The Golden Age of Sainete Criollo & Grotesco (Alberto Vacarezza, Armando Discépolo y Mateo 1923) is celebrated worldwide as a defining achievement of Argentine Spanish heritage."
+                "El cocoliche nació en los teatros rioplatenses imitando el habla híbrida de los inmigrantes italianos que intentaban expresarse en castellano."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Golden Age of Sainete Criollo & Grotesco (Alberto Vacarezza, Armando Discépolo y Mateo 1923)?",
+                    "prompt": "¿Cuál es la diferencia medular entre el sainete criollo de Vacarezza y el grotesco criollo de Armando Discépolo?",
                     "options": [
-                        "The Golden Age of Sainete Criollo & Grotesco (157.1)",
-                        "Irrelevant topic (157.2)",
-                        "Modern fast-food trend (157.3)",
-                        "Generic introductory concept (157.4)"
+                        "El sainete aborda con humor y música la convivencia del conventillo, mientras el grotesco profundiza en la tragedia interior, la angustia existencial y el fracaso económico del inmigrante.",
+                        "El sainete es teatro en verso clásico y el grotesco es danza contemporánea muda.",
+                        "El grotesco trata exclusivamente temas religiosos medievales europeos.",
+                        "No existe diferencia estilística ni temática entre ambos movimientos."
                     ],
                     "answerIndex": 0,
-                    "explanation": "The Golden Age of Sainete Criollo & Grotesco is the central subject."
+                    "explanation": "Discépolo transformó la carcajada exterior del sainete en una mueca dolorosa sobre el desencanto y la miseria humana."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Stagecraft & Performing Arts, what is the primary significance of The Golden Age of Sainete Criollo & Grotesco?",
+                    "prompt": "¿Qué simboliza el caballo Mateo en la emblemática pieza teatral homónima de 1923 de Armando Discépolo?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Argentine Spanish civilization. (157.1)",
-                        "It has no historical significance. (157.2)",
-                        "It was invented yesterday. (157.3)",
-                        "It was imported from an unrelated continent. (157.4)"
+                        "La victoria tecnológica de los vehículos motorizados en el transporte urbano.",
+                        "La lealtad, la vejez compartida y el declive inevitable del trabajador artesanal ante la modernización capitalista.",
+                        "Un animal de carreras en el hipódromo de Palermo.",
+                        "Un personaje mitológico de la antigua Roma."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Argentine Spanish civilization."
+                    "answerIndex": 1,
+                    "explanation": "Mateo representa el vínculo afectivo y la agonía laboral del cochero despojado de sustento por el avance del automóvil."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of The Golden Age of Sainete Criollo & Grotesco in the development of Theatre, Stagecraft & Performing Arts:",
+                    "prompt": "¿En qué espacio arquitectónico y social se ambientaba típicamente el sainete criollo tradicional?",
                     "options": [
-                        "The Golden Age of Sainete Criollo & Grotesco established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education."
+                        "El patio comunal del conventillo porteño",
+                        "Los salones palaciegos de la aristocracia terrateniente",
+                        "Las estancias ganaderas de la Patagonia",
+                        "Una nave industrial aeroespacial"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of The Golden Age of Sainete Criollo & Grotesco (Alberto Vacarezza, Armando Discépolo y Mateo 1923)."
+                    "explanation": "El conventillo porteño era el crisol urbano donde convergían inmigrantes de diversas nacionalidades y criollos."
                 },
                 {
-                    "prompt": "What mastery level does completing The Golden Age of Sainete Criollo & Grotesco contribute to in the FEARN curriculum?",
+                    "prompt": "¿Cómo se define el término lingüístico-teatral «cocoliche»?",
                     "options": [
-                        "Pre-intermediate B1",
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "Una variedad híbrida de contacto entre dialectos italianos y el español rioplatense, popularizada en el teatro popular.",
+                        "Un instrumento musical de cuerda típico del norte argentino.",
+                        "El vestuario de gala de los directores de ópera.",
+                        "Un tipo de danza folclórica del litoral."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "El cocoliche es la interlengua italo-criolla nacida de la inmigración masiva y canonizada en los escenarios porteños."
                 }
             ],
             "passThreshold": 0.8
@@ -16482,76 +16492,81 @@
         "id": "es-ar-u32-l3",
         "unit": "es-ar-u32",
         "level": "C2",
-        "objective": "Griselda Gambaro & The Theatre of Cruelty (El campo 1967, La malasangre 1982 under dictatorship): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Griselda Gambaro y la Dramaturgia del Poder: teatro del absurdo, crueldad y alegoría política.",
         "presentation": {
-            "explanation": "Griselda Gambaro & The Theatre of Cruelty (El campo 1967, La malasangre 1982 under dictatorship) represents a cornerstone of Theatre, Stagecraft & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Griselda Gambaro es una de las voces cimeras de la dramaturgia latinoamericana contemporánea, pionera en desarticular los mecanismos del autoritarismo, la violencia institucional y la complicidad pasiva de la sociedad. A través de una estética emparentada con el teatro del absurdo y la crueldad artaudiana pero profundamente anclada en la realidad sociopolítica argentina, Gambaro estrenó piezas fundacionales como «El desatino» (1965), «Los siameses» (1967) y «El campo» (1967). En «El campo», una estancia aparentemente bucólica se revela como un campo de concentración donde la víctima internaliza y colabora en su propio sometimiento, anticipando proféticamente los horrores del terrorismo de Estado. Durante su exilio y posterior regreso en la transición democrática, escribió «La malasangre» (1982), un drama histórico ambientado en la época rosista que funciona como una feroz metáfora sobre el patriarcado tiránico, la censura y la rebeldía del cuerpo y la palabra.",
             "examples": [
                 {
-                    "target": "Mastery of Griselda Gambaro & The Theatre of Cruelty (El campo 1967, La malasangre 1982 under dictatorship) exemplifies the cultural and expressive pinnacle of Argentine Spanish.",
-                    "reading": "Target analysis of Griselda Gambaro & The Theatre of Cruelty (El campo 1967, La malasangre 1982 under dictatorship)...",
-                    "translation": "Mastery of Griselda Gambaro & The Theatre of Cruelty (El campo 1967, La malasangre 1982 under dictatorship) exemplifies the cultural and expressive pinnacle of Argentine Spanish."
+                    "target": "En la dramaturgia de Gambaro, el opresor seduce y degrada a la víctima mediante un lenguaje formalmente cortés e institucional.",
+                    "reading": "En la dramaturgia de Gambaro, el opresor seduce y degrada a la víctima mediante un lenguaje formalmente cortés e institucional.",
+                    "translation": "In Gambaro's dramaturgy, the oppressor seduces and degrades the victim through formally courteous and institutional language."
+                },
+                {
+                    "target": "«La malasangre» utilizó la alegoría histórica para denunciar la represión dictatorial burlando la censura de la época.",
+                    "reading": "«La malasangre» utilizó la alegoría histórica para denunciar la represión dictatorial burlando la censura de la época.",
+                    "translation": "'La malasangre' used historical allegory to denounce dictatorial repression, evading the censorship of the era."
                 }
             ],
             "mnemonics": [
-                "Griselda Gambaro & The Theatre of Cruelty (El campo 1967, La malasangre 1982 under dictatorship)! Essential milestone in Theatre, Stagecraft & Performing Arts!"
+                "«Teatro de la crueldad/desasosiego»: dramaturgia que confronta al espectador con la violencia normalizada sin darle consuelo melodramático."
             ],
             "culturalNotes": [
-                "Griselda Gambaro & The Theatre of Cruelty (El campo 1967, La malasangre 1982 under dictatorship) is celebrated worldwide as a defining achievement of Argentine Spanish heritage."
+                "Griselda Gambaro sufrió la prohibición explícita de su novela «Ganarse la muerte» por decreto de la dictadura militar en 1977, forzándola al exilio."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Griselda Gambaro & The Theatre of Cruelty (El campo 1967, La malasangre 1982 under dictatorship)?",
+                    "prompt": "¿Qué recurso dramático maestro emplea Griselda Gambaro en «El campo» (1967) para examinar la dinámica de dominación?",
                     "options": [
-                        "Griselda Gambaro & The Theatre of Cruelty (158.1)",
-                        "Generic introductory concept (158.2)",
-                        "Irrelevant topic (158.3)",
-                        "Modern fast-food trend (158.4)"
+                        "La transformación de un espacio cotidiano y refinado en un centro de reclusión donde el cautivo es inducido a normalizar su propio castigo.",
+                        "Un musical infantil con desenlace feliz y canciones cómicas.",
+                        "Un documental periodístico en video sin actores en escena.",
+                        "Una recreación historicista estricta de las guerras púnicas."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Griselda Gambaro & The Theatre of Cruelty is the central subject."
+                    "explanation": "En «El campo», la violencia se camufla bajo formalismos burocráticos y cortesía perversa, exponiendo la vulnerabilidad humana ante el poder absoluto."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Stagecraft & Performing Arts, what is the primary significance of Griselda Gambaro & The Theatre of Cruelty?",
+                    "prompt": "¿Por qué «La malasangre» (1982) de Gambaro tuvo un impacto político tan resonante al estrenarse en los últimos años de la dictadura?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Argentine Spanish civilization. (158.1)",
-                        "It was imported from an unrelated continent. (158.2)",
-                        "It was invented yesterday. (158.3)",
-                        "It has no historical significance. (158.4)"
+                        "Porque el autoritarismo del padre de familia en el siglo XIX funcionaba como un espejo transparente del terrorismo de Estado y la censura contemporánea.",
+                        "Porque promovía el apoyo incondicional a la junta militar gobernante.",
+                        "Porque era una comedia sobre el turismo internacional en Europa.",
+                        "Porque no contenía ningún diálogo ni actores."
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Argentine Spanish civilization."
+                    "explanation": "La obra empleó el distanciamiento histórico para formular una lúcida crítica a la tiranía en un momento de estricta censura."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Griselda Gambaro & The Theatre of Cruelty in the development of Theatre, Stagecraft & Performing Arts:",
+                    "prompt": "¿Cuál de las siguientes obras NO pertenece a la autoría de Griselda Gambaro?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education.",
-                        "Griselda Gambaro & The Theatre of Cruelty established enduring philosophical, technical, and expressive standards across the tradition."
+                        "Bodas de sangre",
+                        "Los siameses",
+                        "El campo",
+                        "La malasangre"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Accurate analysis of Griselda Gambaro & The Theatre of Cruelty (El campo 1967, La malasangre 1982 under dictatorship)."
+                    "answerIndex": 0,
+                    "explanation": "«Bodas de sangre» es una tragedia del dramaturgo español Federico García Lorca; las otras tres son obras cumbre de Gambaro."
                 },
                 {
-                    "prompt": "What mastery level does completing Griselda Gambaro & The Theatre of Cruelty contribute to in the FEARN curriculum?",
+                    "prompt": "¿Qué concepto teórico define la relación entre verdugo y víctima en las piezas tempranas de Gambaro?",
                     "options": [
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1"
+                        "La complicidad forzada y la ambigüedad moral de los roles de poder.",
+                        "El enfrentamiento heroico de caballeros andantes.",
+                        "La indiferencia absoluta hacia la política social.",
+                        "La comedia de enredos matrimoniales burgueses."
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Gambaro investiga cómo el poder desarticula la identidad de la víctima hasta hacerla copartícipe de su propio calvario."
                 }
             ],
             "passThreshold": 0.8
@@ -16561,76 +16576,81 @@
         "id": "es-ar-u32-l4",
         "unit": "es-ar-u32",
         "level": "C2",
-        "objective": "Carlos Gorostiza, Roberto Cossa & Teatro Abierto 1981 (La nona 1977, el incendio del Picadero): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Teatro Abierto 1981: resistencia cultural, dramaturgia testimonial y memoria colectiva.",
         "presentation": {
-            "explanation": "Carlos Gorostiza, Roberto Cossa & Teatro Abierto 1981 (La nona 1977, el incendio del Picadero) represents a cornerstone of Theatre, Stagecraft & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Teatro Abierto 1981 fue el movimiento colectivo de resistencia cultural y artística más trascendente de la historia argentina frente a la última dictadura cívico-militar (1976-1983). Impulsado por dramaturgos, directores y actores como Osvaldo Dragún, Carlos Gorostiza, Roberto Cossa, Roberto Perinelli y Jorge Rivera López, el ciclo nació como una respuesta solidaria e insumisa contra las listas negras, la censura y la asfixia del quehacer teatral independiente. El 28 de julio de 1981, el ciclo debutó en el Teatro del Picadero con veintiuna obras breves presentadas en funciones triples con localidades agotadas. Pocos días después, el 6 de agosto, un comando de la dictadura incendió intencionalmente el Picadero con bombas incendiarias. Lejos de amedrentarse, la comunidad teatral y el público respondieron con una movilización multitudinaria: decenas de salas ofrecieron sus escenarios y el ciclo se trasladó al Teatro Tabarís, donde continuó ante miles de espectadores diarios, consagrando el lema de que la cultura y la memoria no pueden ser acalladas por el fuego autoritario.",
             "examples": [
                 {
-                    "target": "Mastery of Carlos Gorostiza, Roberto Cossa & Teatro Abierto 1981 (La nona 1977, el incendio del Picadero) exemplifies the cultural and expressive pinnacle of Argentine Spanish.",
-                    "reading": "Target analysis of Carlos Gorostiza, Roberto Cossa & Teatro Abierto 1981 (La nona 1977, el incendio del Picadero)...",
-                    "translation": "Mastery of Carlos Gorostiza, Roberto Cossa & Teatro Abierto 1981 (La nona 1977, el incendio del Picadero) exemplifies the cultural and expressive pinnacle of Argentine Spanish."
+                    "target": "El atentado incendiario contra el Teatro del Picadero generó un repudio social masivo y multiplicó la asistencia al ciclo en el Tabarís.",
+                    "reading": "El atentado incendiario contra el Teatro del Picadero generó un repudio social masivo y multiplicó la asistencia al ciclo en el Tabarís.",
+                    "translation": "The arson attack against the Picadero Theatre provoked massive social condemnation and multiplied attendance to the cycle at the Tabarís."
+                },
+                {
+                    "target": "Dramaturgos consagrados presentaron piezas breves que utilizaban el humor negro y la metáfora para denunciar la opresión.",
+                    "reading": "Dramaturgos consagrados presentaron piezas breves que utilizaban el humor negro y la metáfora para denunciar la opresión.",
+                    "translation": "Renowned playwrights presented short pieces using dark humor and metaphor to denounce oppression."
                 }
             ],
             "mnemonics": [
-                "Carlos Gorostiza, Roberto Cossa & Teatro Abierto 1981 (La nona 1977, el incendio del Picadero)! Essential milestone in Theatre, Stagecraft & Performing Arts!"
+                "«Teatro del Picadero»: sala histórica de Buenos Aires quemada en 1981 por el terrorismo de Estado y convertida en emblema de la resistencia cultural."
             ],
             "culturalNotes": [
-                "Carlos Gorostiza, Roberto Cossa & Teatro Abierto 1981 (La nona 1977, el incendio del Picadero) is celebrated worldwide as a defining achievement of Argentine Spanish heritage."
+                "Teatro Abierto sentó las bases para el renacimiento democrático del teatro argentino en 1983 y el surgimiento de Teatro por la Identidad."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Carlos Gorostiza, Roberto Cossa & Teatro Abierto 1981 (La nona 1977, el incendio del Picadero)?",
+                    "prompt": "¿Cuál fue el objetivo fundacional del movimiento Teatro Abierto en 1981?",
                     "options": [
-                        "Generic introductory concept (159.1)",
-                        "Irrelevant topic (159.2)",
-                        "Modern fast-food trend (159.3)",
-                        "Carlos Gorostiza, Roberto Cossa & Teatro Abierto 1981 (159.4)"
+                        "Reaccionar colectivamente contra las listas negras y la censura de la dictadura militar, demostrando la vitalidad y compromiso del teatro argentino.",
+                        "Competir comercialmente contra las producciones de cine de Hollywood.",
+                        "Recaudar fondos para construir un centro de esquí en la cordillera.",
+                        "Promover la privatización de los teatros estatales de la provincia."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Carlos Gorostiza, Roberto Cossa & Teatro Abierto 1981 is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "Teatro Abierto nació para visibilizar a dramaturgos y actores proscriptos y romper el silencio impuesto por el terrorismo de Estado."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Stagecraft & Performing Arts, what is the primary significance of Carlos Gorostiza, Roberto Cossa & Teatro Abierto 1981?",
+                    "prompt": "¿Qué hecho trascendental ocurrió el 6 de agosto de 1981 durante las funciones de Teatro Abierto?",
                     "options": [
-                        "It has no historical significance. (159.1)",
-                        "It was imported from an unrelated continent. (159.2)",
-                        "It was invented yesterday. (159.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Argentine Spanish civilization. (159.4)"
+                        "El Teatro del Picadero fue consumido por un atentado incendiario perpetrado por grupos de tareas dictatoriales.",
+                        "Se canceló el ciclo por falta total de público interesado.",
+                        "El elenco completo decidió disolver el proyecto y abandonar la profesión.",
+                        "Se firmó un acuerdo de patrocinio con una cadena de televisión extranjera."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Argentine Spanish civilization."
+                    "answerIndex": 0,
+                    "explanation": "El incendio del Picadero buscó destruir el ciclo, pero provocó una respuesta cívica que trasladó el festival al Tabarís con apoyo masivo."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Carlos Gorostiza, Roberto Cossa & Teatro Abierto 1981 in the development of Theatre, Stagecraft & Performing Arts:",
+                    "prompt": "¿Quién fue el autor de la célebre obra «La nona» (1977), uno de los referentes dramáticos del movimiento de Teatro Abierto?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "Carlos Gorostiza, Roberto Cossa & Teatro Abierto 1981 established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education."
+                        "Roberto Cossa",
+                        "Florencio Sánchez",
+                        "Enrique Santos Discépolo",
+                        "Federico García Lorca"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Accurate analysis of Carlos Gorostiza, Roberto Cossa & Teatro Abierto 1981 (La nona 1977, el incendio del Picadero)."
+                    "answerIndex": 0,
+                    "explanation": "Roberto «Tito» Cossa es el autor de «La nona», feroz alegoría sobre una anciana insaciable que devora a toda su familia."
                 },
                 {
-                    "prompt": "What mastery level does completing Carlos Gorostiza, Roberto Cossa & Teatro Abierto 1981 contribute to in the FEARN curriculum?",
+                    "prompt": "¿A qué sala teatral céntrica de la calle Corrientes se mudó Teatro Abierto tras el incendio del Picadero?",
                     "options": [
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Beginner A1"
+                        "Teatro Tabarís",
+                        "Teatro Colón",
+                        "Teatro Cervantes",
+                        "Teatro Gran Rex"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "El empresario del Tabarís ofreció su sala y el ciclo se reanudó allí con colas que daban vuelta a la manzana."
                 }
             ],
             "passThreshold": 0.8
@@ -16640,76 +16660,81 @@
         "id": "es-ar-u32-l5",
         "unit": "es-ar-u32",
         "level": "C2",
-        "objective": "Modern Immersive Stagecraft: Fuerza Bruta & De La Guarda (Diqui James, transparent mylar pools): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Puesta en Escena Inmersiva Contemporánea: Fuerza Bruta y De La Guarda.",
         "presentation": {
-            "explanation": "Modern Immersive Stagecraft: Fuerza Bruta & De La Guarda (Diqui James, transparent mylar pools) represents a cornerstone of Theatre, Stagecraft & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "A finales del siglo XX y principios del siglo XXI, la escena teatral argentina revolucionó el lenguaje escénico global mediante la creación del teatro físico e inmersivo a gran escala, encabezado por las compañías De La Guarda y su sucesora Fuerza Bruta, cofundadas por Diqui James y Gaby Kerpel. Rompiendo de manera radical la cuarta pared y la disposición tradicional de butacas y escenario frontal, estas creaciones sumergen al espectador de pie en el centro de un espacio tridimensional dinámico de 360 grados. Mediante el uso de poleas, arneses de escalada, corredores suspendidos, lluvia artificial, tambores en vivo y la célebre pileta de mylar transparente que desciende desde el techo hasta tocar las manos del público, espectáculos como «Período Villa Villa», «Wayra» y «Look Up» transformaron la dramaturgia en un ritual sensorial colectivo de euforia, catarsis física y energía visceral, presentándose en más de cincuenta países con temporadas récord en Nueva York, Londres y Tokio.",
             "examples": [
                 {
-                    "target": "Mastery of Modern Immersive Stagecraft: Fuerza Bruta & De La Guarda (Diqui James, transparent mylar pools) exemplifies the cultural and expressive pinnacle of Argentine Spanish.",
-                    "reading": "Target analysis of Modern Immersive Stagecraft: Fuerza Bruta & De La Guarda (Diqui James, transparent mylar pools)...",
-                    "translation": "Mastery of Modern Immersive Stagecraft: Fuerza Bruta & De La Guarda (Diqui James, transparent mylar pools) exemplifies the cultural and expressive pinnacle of Argentine Spanish."
+                    "target": "Los actores corrían sobre una cinta sinfín vertical atravesando muros de cartón ante la mirada atónita del público inmerso.",
+                    "reading": "Los actores corrían sobre una cinta sinfín vertical atravesando muros de cartón ante la mirada atónita del público inmerso.",
+                    "translation": "The performers ran on a vertical treadmill crashing through cardboard walls before the astonished gaze of the immersed audience."
+                },
+                {
+                    "target": "La pileta de mylar suspendida en el aire permitía interactuar visual y táctilmente con las bailarinas desde abajo.",
+                    "reading": "La pileta de mylar suspendida en el aire permitía interactuar visual y táctilmente con las bailarinas desde abajo.",
+                    "translation": "The mylar pool suspended in the air allowed visual and tactile interaction with the dancers from beneath."
                 }
             ],
             "mnemonics": [
-                "Modern Immersive Stagecraft: Fuerza Bruta & De La Guarda (Diqui James, transparent mylar pools)! Essential milestone in Theatre, Stagecraft & Performing Arts!"
+                "«Teatro inmersivo 360°»: dispositivo escénico donde no hay platea fija y el público vive la acción alrededor, arriba y a través de su propio cuerpo."
             ],
             "culturalNotes": [
-                "Modern Immersive Stagecraft: Fuerza Bruta & De La Guarda (Diqui James, transparent mylar pools) is celebrated worldwide as a defining achievement of Argentine Spanish heritage."
+                "De La Guarda y Fuerza Bruta surgieron del underground porteño posdictadura, herederos de la experimentación física de Cemento y la Organización Negra."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Modern Immersive Stagecraft: Fuerza Bruta & De La Guarda (Diqui James, transparent mylar pools)?",
+                    "prompt": "¿Qué innovación escénica cardinal introdujeron De La Guarda y Fuerza Bruta en el teatro contemporáneo internacional?",
                     "options": [
-                        "Modern Immersive Stagecraft: Fuerza Bruta & De La Guarda (160.1)",
-                        "Generic introductory concept (160.2)",
-                        "Modern fast-food trend (160.3)",
-                        "Irrelevant topic (160.4)"
+                        "La eliminación del escenario convencional para colocar al público de pie dentro de una experiencia sensorial inmersiva total con acrobacia aérea y piletas suspendidas.",
+                        "El retorno al verso alejandrino clásico sin ningún tipo de movimiento corporal.",
+                        "La proyección exclusiva de diapositivas en blanco y negro sin intérpretes vivos.",
+                        "La lectura estática de textos filosóficos en un atril universitario."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Modern Immersive Stagecraft: Fuerza Bruta & De La Guarda is the central subject."
+                    "explanation": "Fuerza Bruta desmanteló la platea tradicional convirtiendo el espacio en un acontecimiento físico inmersivo y visceral."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Stagecraft & Performing Arts, what is the primary significance of Modern Immersive Stagecraft: Fuerza Bruta & De La Guarda?",
+                    "prompt": "¿De qué matriz artística del underground porteño de los años ochenta provienen los creadores de De La Guarda y Fuerza Bruta?",
                     "options": [
-                        "It has no historical significance. (160.1)",
-                        "It was imported from an unrelated continent. (160.2)",
-                        "It was invented yesterday. (160.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Argentine Spanish civilization. (160.4)"
+                        "De La Organización Negra y el ambiente de experimentación transgresora posterior a la dictadura militar.",
+                        "De la compañía real de ópera cortesana de Viena.",
+                        "De los grupos de pantomima clásica del siglo XVIII.",
+                        "De los concursos de declamación académica escolar."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Argentine Spanish civilization."
+                    "answerIndex": 0,
+                    "explanation": "La Organización Negra y Cemento fueron el caldo de cultivo contracultural que forjó la estética de choque físico de Diqui James."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Modern Immersive Stagecraft: Fuerza Bruta & De La Guarda in the development of Theatre, Stagecraft & Performing Arts:",
+                    "prompt": "¿Qué material translúcido y flexible se utiliza en la célebre pileta aérea que desciende sobre el público en los shows de Fuerza Bruta?",
                     "options": [
-                        "It was completely forgotten within a week.",
-                        "Modern Immersive Stagecraft: Fuerza Bruta & De La Guarda established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of Modern Immersive Stagecraft: Fuerza Bruta & De La Guarda (Diqui James, transparent mylar pools)."
-                },
-                {
-                    "prompt": "What mastery level does completing Modern Immersive Stagecraft: Fuerza Bruta & De La Guarda contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Beginner A1"
+                        "Mylar / membrana de polímero transparente de alta resistencia",
+                        "Vidrio templado blindado no deformable",
+                        "Madera de roble macizo",
+                        "Planchas de aluminio opaco"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "La membrana de mylar permite que el agua y las bailarinas se amolden al contacto directo con las manos de los espectadores."
+                },
+                {
+                    "prompt": "¿Quién es el compositor y director musical clave detrás de las bandas sonoras rítmicas de De La Guarda y Fuerza Bruta?",
+                    "options": [
+                        "Gaby Kerpel (King Coya)",
+                        "Astor Piazzolla",
+                        "Gustavo Santaolalla",
+                        "Lalo Schifrin"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Gaby Kerpel compuso la icónica música percusiva y electrónica que impulsa la energía de los espectáculos."
                 }
             ],
             "passThreshold": 0.8
@@ -17031,80 +17056,421 @@
             "passThreshold": 0.8
         }
     },
-    "es-ar-u33-l5": {
-        "id": "es-ar-u33-l5",
+    "es-ar-u33-l1": {
+        "id": "es-ar-u33-l1",
         "unit": "es-ar-u33",
-        "level": "C2",
-        "objective": "Contemporary Urbanism: Puerto Madero & César Pelli (Torre YPF, Petronas Towers, Costanera Sur): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "level": "C1",
+        "objective": "Las Estancias Jesuíticas de Córdoba: arquitectura sacra colonial, sistemas hidráulicos y patrimonio UNESCO.",
         "presentation": {
-            "explanation": "Contemporary Urbanism: Puerto Madero & César Pelli (Torre YPF, Petronas Towers, Costanera Sur) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "El conjunto arquitectónico e histórico integrado por la Manzana Jesuítica de la ciudad de Córdoba y las estancias rurales de Alta Gracia, Santa Catalina, Jesús María, Caroya y La Candelaria fue declarado Patrimonio de la Humanidad por la UNESCO en el año 2000. Establecidas por la Compañía de Jesús entre 1616 y 1767, estas estancias conformaron un extraordinario sistema productivo, agropecuario y textil autosuficiente destinado a financiar el Colegio Máximo y la Universidad de Córdoba (fundada en 1613, una de las más antiguas de América). La arquitectura de las estancias sintetiza el barroco colonial hispanoamericano con soluciones constructivas adaptadas al entorno serrano: muros de mampostería de piedra y cal, bóvedas de crucería, carpinterías de algarrobo labradas, claustros de doble arquería y complejos tajamares y acequias de ingeniería hidráulica que aseguraban el riego y la fuerza motriz para molinos harineros y batanes.",
             "examples": [
                 {
-                    "target": "Mastery of Contemporary Urbanism: Puerto Madero & César Pelli (Torre YPF, Petronas Towers, Costanera Sur) exemplifies the cultural and expressive pinnacle of Argentine Spanish.",
-                    "reading": "Target analysis of Contemporary Urbanism: Puerto Madero & César Pelli (Torre YPF, Petronas Towers, Costanera Sur)...",
-                    "translation": "Mastery of Contemporary Urbanism: Puerto Madero & César Pelli (Torre YPF, Petronas Towers, Costanera Sur) exemplifies the cultural and expressive pinnacle of Argentine Spanish."
+                    "target": "El tajamar de Alta Gracia constituyó un embalse artificial pionero que abastecía de agua a los molinos y talleres de la estancia.",
+                    "reading": "El tajamar de Alta Gracia constituyó un embalse artificial pionero que abastecía de agua a los molinos y talleres de la estancia.",
+                    "translation": "The Alta Gracia weir constituted a pioneering artificial reservoir that supplied water to the estate's mills and workshops."
+                },
+                {
+                    "target": "La iglesia de Santa Catalina deslumbra por su fachada barroca de líneas onduladas y sus dos torres campanario en medio de las sierras.",
+                    "reading": "La iglesia de Santa Catalina deslumbra por su fachada barroca de líneas onduladas y sus dos torres campanario en medio de las sierras.",
+                    "translation": "The church of Santa Catalina dazzles with its undulating baroque facade and twin bell towers amidst the mountain ranges."
                 }
             ],
             "mnemonics": [
-                "Contemporary Urbanism: Puerto Madero & César Pelli (Torre YPF, Petronas Towers, Costanera Sur)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "«Tajamar»: dique o represa de mampostería construida por los jesuitas para almacenar agua en las cuencas serranas cordobesas."
             ],
             "culturalNotes": [
-                "Contemporary Urbanism: Puerto Madero & César Pelli (Torre YPF, Petronas Towers, Costanera Sur) is celebrated worldwide as a defining achievement of Argentine Spanish heritage."
+                "En la Estancia de Jesús María se elaboraba el vino «Lagrimilla», primer vino americano servido en la corte de los Reyes de España."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Contemporary Urbanism: Puerto Madero & César Pelli (Torre YPF, Petronas Towers, Costanera Sur)?",
+                    "prompt": "¿Cuál era la finalidad económica principal del sistema de estancias jesuíticas en Córdoba durante el período colonial?",
                     "options": [
-                        "Contemporary Urbanism: Puerto Madero & César Pelli (165.1)",
-                        "Generic introductory concept (165.2)",
-                        "Modern fast-food trend (165.3)",
-                        "Irrelevant topic (165.4)"
+                        "Financiar el funcionamiento académico y el mantenimiento del Colegio Máximo y la Universidad de Córdoba.",
+                        "Construir fortalezas militares de defensa contra invasiones ultramarinas.",
+                        "Monopolizar el comercio de oro y plata con el Virreinato del Perú exclusivamente.",
+                        "Crear complejos hoteleros para diplomáticos europeos."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Contemporary Urbanism: Puerto Madero & César Pelli is the central subject."
+                    "explanation": "Las estancias rurales generaban los excedentes agroganaderos indispensables para sostener las instituciones educativas jesuitas cordobesas."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Contemporary Urbanism: Puerto Madero & César Pelli?",
+                    "prompt": "¿Qué elemento de ingeniería hidráulica colonial destaca en la Estancia de Alta Gracia?",
                     "options": [
-                        "It has no historical significance. (165.1)",
-                        "It was imported from an unrelated continent. (165.2)",
-                        "It was invented yesterday. (165.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Argentine Spanish civilization. (165.4)"
+                        "El tajamar, un embalse artificial de piedra que alimentaba molinos y huertas mediante canales y acequias.",
+                        "Una planta desalinizadora de agua de mar.",
+                        "Un acueducto submarino de hierro fundido.",
+                        "Una presa hidroeléctrica de turbinas modernas."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Argentine Spanish civilization."
+                    "answerIndex": 0,
+                    "explanation": "El tajamar de Alta Gracia es una de las obras de ingeniería hidráulica jesuítica mejor conservadas del continente."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Contemporary Urbanism: Puerto Madero & César Pelli in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "¿En qué año fueron declaradas Patrimonio Cultural de la Humanidad por la UNESCO la Manzana Jesuítica y las Estancias de Córdoba?",
                     "options": [
-                        "Contemporary Urbanism: Puerto Madero & César Pelli established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign."
+                        "Año 2000",
+                        "Año 1810",
+                        "Año 1945",
+                        "Año 1982"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Contemporary Urbanism: Puerto Madero & César Pelli (Torre YPF, Petronas Towers, Costanera Sur)."
+                    "explanation": "La UNESCO otorgó la distinción de Patrimonio Mundial al conjunto cordobés en el año 2000."
                 },
                 {
-                    "prompt": "What mastery level does completing Contemporary Urbanism: Puerto Madero & César Pelli contribute to in the FEARN curriculum?",
+                    "prompt": "¿Qué orden religiosa fundó y administró estas estancias hasta su expulsión en 1767?",
                     "options": [
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "La Compañía de Jesús (Jesuitas)",
+                        "La Orden Franciscana",
+                        "Los Monjes Benedictinos",
+                        "La Orden de los Templarios"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Los sacerdotes jesuitas organizaron y administraron el circuito productivo hasta la expulsión decretada por la corona española."
+                }
+            ],
+            "passThreshold": 0.8
+        }
+    },
+    "es-ar-u33-l2": {
+        "id": "es-ar-u33-l2",
+        "unit": "es-ar-u33",
+        "level": "C1",
+        "objective": "El Eclecticismo Porteño y la Arquitectura Académica Francesa: la París de Sudamérica.",
+        "presentation": {
+            "explanation": "Durante el período de la Generación del 80 y las primeras décadas del siglo XX, Buenos Aires experimentó una radical transformación urbanística y monumental que le valió el sobrenombre de «la París de Sudamérica». Bajo el impulso del intendente Torcuato de Alvear y la élite agroexportadora, se abrieron amplias avenidas diagonales y bulevares arbolados como la Avenida de Mayo (inaugurada en 1894). Arquitectos de formación europea como Carlos Thays en el paisajismo, Alejandro Christophersen, Jules Dormal y Norbert Maillart imprimieron una impronta académica Beaux-Arts, neoclasicista y ecléctica en edificios públicos y residencias palaciegas. Obras paradigmáticas como el Palacio de Aguas Corrientes (revestido con más de 300.000 piezas cerámicas esmaltadas británicas), el Palacio San Martín (antigua residencia Anchorena), el Palacio del Congreso de la Nación y el Palacio de Justicia materializaron la opulencia y las aspiraciones cosmopolitas del proyecto de modernización nacional.",
+            "examples": [
+                {
+                    "target": "La Avenida de Mayo combinó fachadas de estilo academicista francés y art nouveau con la primera línea de metro subterráneo del hemisferio sur.",
+                    "reading": "La Avenida de Mayo combinó fachadas de estilo academicista francés y art nouveau con la primera línea de metro subterráneo del hemisferio sur.",
+                    "translation": "Avenida de Mayo combined French academic and Art Nouveau facades with the southern hemisphere's first underground subway line."
+                },
+                {
+                    "target": "El Palacio San Martín exhibe la suntuosidad del academicismo Beaux-Arts en sus patios de honor y salones dorados.",
+                    "reading": "El Palacio San Martín exhibe la suntuosidad del academicismo Beaux-Arts en sus patios de honor y salones dorados.",
+                    "translation": "San Martín Palace exhibits the sumptuousness of Beaux-Arts academicism in its courtyards of honor and gilded salons."
+                }
+            ],
+            "mnemonics": [
+                "«Beaux-Arts porteño»: estilo arquitectónico monumental de inspiración francesa caracterizado por simetría, mansardas de pizarra y profusa ornamentación escultórica."
+            ],
+            "culturalNotes": [
+                "El paisajista francés Carlos Thays diseñó los parques más emblemáticos de Buenos Aires, incluyendo el Jardín Botánico, el Parque 3 de Febrero y Plaza San Martín."
+            ]
+        },
+        "guidedPractice": {
+            "items": [
+                {
+                    "prompt": "¿Qué hito urbanístico inaugurado en 1894 unió la Plaza de Mayo con la Plaza del Congreso en Buenos Aires?",
+                    "options": [
+                        "La Avenida de Mayo, concebida como bulevar de inspiración parisina con cúpulas monumentales y trazado axial.",
+                        "La autopista Panamericana elevada.",
+                        "El Paseo del Bajo.",
+                        "La peatonal Florida en su tramo este."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "La Avenida de Mayo fue el primer bulevar monumental porteño que articuló los poderes ejecutivo y legislativo."
+                }
+            ]
+        },
+        "independentPractice": {
+            "items": [
+                {
+                    "prompt": "¿Por qué el Palacio de Aguas Corrientes en el barrio de Balvanera es único en la historia de la arquitectura mundial?",
+                    "options": [
+                        "Porque es un palacio monumental de terracota esmaltada que oculta en su interior gigantescos tanques de agua potable de hierro fundido.",
+                        "Porque funcionó como la residencia de verano de los presidentes argentinos.",
+                        "Porque está construido enteramente con madera de quebracho colorado sin clavos.",
+                        "Porque es una réplica exacta de la Torre Eiffel en miniatura."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "El edificio es una deslumbrante envoltura decorativa Beaux-Arts diseñada para monumentalizar un depósito técnico de agua de 72 millones de litros."
+                }
+            ]
+        },
+        "checkpointTest": {
+            "items": [
+                {
+                    "prompt": "¿Quién fue el paisajista franco-argentino responsable del diseño del Parque 3 de Febrero, el Jardín Botánico y la forestación urbana con jacarandás y tipas en Buenos Aires?",
+                    "options": [
+                        "Carlos Thays",
+                        "Le Corbusier",
+                        "Clorindo Testa",
+                        "Francisco Salamone"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Carlos Thays fue el Director de Paseos de Buenos Aires que dotó a la ciudad de su patrimonio botánico y paisajístico distintivo."
+                },
+                {
+                    "prompt": "¿Qué elemento arquitectónico de cubierta es característico de los edificios de inspiración francesa en la arquitectura porteña?",
+                    "options": [
+                        "La mansarda de pizarra con buhardillas o claraboyas",
+                        "El techo plano de paja y adobe",
+                        "La cúpula de ladrillo visto sin revocar",
+                        "La teja colonial de arcilla curva exclusivamente"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Las mansardas afrancesadas de zinc y pizarra son la seña visual clásica de la arquitectura residencial y pública porteña del período."
+                }
+            ],
+            "passThreshold": 0.8
+        }
+    },
+    "es-ar-u33-l3": {
+        "id": "es-ar-u33-l3",
+        "unit": "es-ar-u33",
+        "level": "C1",
+        "objective": "Art Nouveau y Art Déco en Argentina: Palacio Barolo, Edificio Kavanagh y Francisco Salamone.",
+        "presentation": {
+            "explanation": "Las primeras décadas del siglo XX presenciaron en la Argentina la coexistencia de vanguardias ornamentales y estructurales sin parangón en el continente: el florecimiento del Art Nouveau y el posterior dominio del Art Déco y el Racionalismo temprano. El arquitecto italiano Virginio Colombo y su colega Mario Palanti plasmaron un Art Nouveau de vigoroso eclecticismo lombardo, cuya cúspide es el Palacio Barolo (1923) en Buenos Aires (y su gemelo el Palacio Salvo en Montevideo), concebido con una rigurosa cosmovisión esotérica y arquitectónica basada en los tres reinos de la «Divina Comedia» de Dante Alighieri (Infierno, Purgatorio y Paraíso en el faro superior). En los años treinta, el Art Déco y el racionalismo triunfaron con el Edificio Kavanagh (1936), diseñado por Sánchez, Lagos y de la Torre: una esbelta torre escalonada de hormigón armado de 120 metros que fue en su momento el rascacielos más alto de Sudamérica. Paralelamente, en el interior de la provincia de Buenos Aires, el ingeniero Francisco Salamone erigió entre 1936 y 1940 más de sesenta obras monumentales futuristas y monumentales (palacios municipales, mataderos y portales de cementerio) que combinaron Art Déco, monumentalismo fascista y expresionismo en hormigón armado.",
+            "examples": [
+                {
+                    "target": "El faro del Palacio Barolo proyectaba su haz de luz nocturno guiando simbólicamente las almas en el Paraíso dantesco.",
+                    "reading": "El faro del Palacio Barolo proyectaba su haz de luz nocturno guiando simbólicamente las almas en el Paraíso dantesco.",
+                    "translation": "The lighthouse of the Barolo Palace projected its nocturnal beam of light symbolically guiding souls in Dante's Paradise."
+                },
+                {
+                    "target": "Los portales de cementerio de Francisco Salamone en Azul y Saldungaray se alzan como cruces monumentales de hormigón en la llanura pampeana.",
+                    "reading": "Los portales de cementerio de Francisco Salamone en Azul y Saldungaray se alzan como cruces monumentales de hormigón en la llanura pampeana.",
+                    "translation": "Francisco Salamone's cemetery gates in Azul and Saldungaray rise as monumental concrete crosses in the Pampas plain."
+                }
+            ],
+            "mnemonics": [
+                "«Palacio Barolo = Dante en hormigón»: planta baja y subsuelos son el Infierno, los pisos intermedios el Purgatorio y la cúpula con faro el Paraíso."
+            ],
+            "culturalNotes": [
+                "El Edificio Kavanagh frente a la Plaza San Martín fue declarado Patrimonio Histórico Mundial de la Arquitectura Moderna por la UNESCO en 1999."
+            ]
+        },
+        "guidedPractice": {
+            "items": [
+                {
+                    "prompt": "¿En qué obra literaria clásica se inspiró el arquitecto Mario Palanti para concebir la estructura y proporciones del Palacio Barolo en Buenos Aires?",
+                    "options": [
+                        "La «Divina Comedia» de Dante Alighieri",
+                        "El «Martín Fierro» de José Hernández",
+                        "El «Quijote de la Mancha» de Miguel de Cervantes",
+                        "La «Ilíada» de Homero"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "El Barolo fue diseñado como un homenaje arquitectónico a Dante: sus 100 metros de altura corresponden a los 100 cantos de la Divina Comedia."
+                }
+            ]
+        },
+        "independentPractice": {
+            "items": [
+                {
+                    "prompt": "¿Qué características singulares definen la obra arquitectónica de Francisco Salamone en la provincia de Buenos Aires?",
+                    "options": [
+                        "Estructuras monumentales de hormigón armado con torres angulosas, portales expresionistas y geometría Art Déco en pueblos pampeanos.",
+                        "Cabañas rústicas de madera alpina en zonas boscosas de montaña.",
+                        "Palacetes rococó decorados con estucos dorados y jardines barrocos.",
+                        "Viviendas sociales prefabricadas de plástico."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Salamone construyó más de 60 edificios públicos de estética monumentalista y Art Déco futurista en el interior bonaerense."
+                }
+            ]
+        },
+        "checkpointTest": {
+            "items": [
+                {
+                    "prompt": "¿Qué récord arquitectónico ostentó el Edificio Kavanagh en Retiro tras su inauguración en 1936?",
+                    "options": [
+                        "Fue el edificio de hormigón armado y rascacielos residencial más alto de Sudamérica en su momento.",
+                        "Fue el primer edificio con piscina olímpica subterránea del mundo.",
+                        "Fue la primera catedral gótica construida en acero inoxidable.",
+                        "Fue la casa más pequeña de la Ciudad de Buenos Aires."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Con 120 metros y 31 pisos, el Kavanagh fue la torre de hormigón armado más elevada de América del Sur."
+                },
+                {
+                    "prompt": "¿Qué tipología de edificios públicos diseñó prioritariamente Salamone en los municipios bonaerenses?",
+                    "options": [
+                        "Palacios municipales, mataderos modelo y portales monumentales de cementerios.",
+                        "Estaciones de esquí y refugios de montaña.",
+                        "Bancos privados de inversión internacional.",
+                        "Estadios de fútbol para la liga profesional."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "El plan de obras públicas de Salamone abarcó municipalidades con torres de reloj, mataderos y accesos a cementerios."
+                }
+            ],
+            "passThreshold": 0.8
+        }
+    },
+    "es-ar-u33-l4": {
+        "id": "es-ar-u33-l4",
+        "unit": "es-ar-u33",
+        "level": "C2",
+        "objective": "El Movimiento Moderno y la Escuela Brutalista Argentina: Clorindo Testa y Amancio Williams.",
+        "presentation": {
+            "explanation": "La arquitectura moderna argentina alcanzó reconocimiento internacional a mediados del siglo XX a través de figuras vanguardistas que fusionaron los postulados del racionalismo corbusierano con una audacia estructural y plástica propia. Amancio Williams concibió la paradigmática «Casa sobre el Arroyo» (1943-1945) en Mar del Plata, una obra maestra del Movimiento Moderno consistente en un prisma de hormigón a la vista suspendido sobre un puente curvo que salva el curso natural de agua sin alterar la topografía. Por su parte, el arquitecto y artista plástico Clorindo Testa lideró la corriente brutalista con obras emblemáticas como el Banco de Londres y América del Sur (hoy Banco Hipotecario, 1959-1966), donde una piel exterior de pantallas esculturales de hormigón perforado envuelve un espacio interior diáfano con bandejas colgantes suspendidas de la cubierta, y la Biblioteca Nacional Mariano Moreno (1961-1992), cuya silueta zoomorfa de hormigón a la vista se eleva sobre pilotes liberando la plaza pública circundante y alojando los depósitos bibliográficos en el subsuelo para resguardo climático.",
+            "examples": [
+                {
+                    "target": "La estructura del Banco de Londres resolvió la transición entre la escala urbana histórica de la City porteña y un espacio interior de audaz plasticidad.",
+                    "reading": "La estructura del Banco de Londres resolvió la transición entre la escala urbana histórica de la City porteña y un espacio interior de audaz plasticidad.",
+                    "translation": "The structure of the Bank of London resolved the transition between the historical urban scale of the Buenos Aires financial district and an interior space of daring plasticity."
+                },
+                {
+                    "target": "Amancio Williams integró la arquitectura y la naturaleza uniendo los dos márgenes del arroyo mediante un arco de hormigón estructural.",
+                    "reading": "Amancio Williams integró la arquitectura y la naturaleza uniendo los dos márgenes del arroyo mediante un arco de hormigón estructural.",
+                    "translation": "Amancio Williams integrated architecture and nature by joining the two banks of the stream through a structural concrete arch."
+                }
+            ],
+            "mnemonics": [
+                "«Brutalismo (béton brut)»: uso expresivo y escultural del hormigón a la vista dejando expuestas las marcas del encofrado de madera."
+            ],
+            "culturalNotes": [
+                "La Casa sobre el Arroyo de Amancio Williams (conocida también como Casa del Puente) fue restaurada integralmente y declarada Museo Histórico Nacional."
+            ]
+        },
+        "guidedPractice": {
+            "items": [
+                {
+                    "prompt": "¿Qué solución arquitectónica genial caracteriza a la Biblioteca Nacional de Buenos Aires diseñada por Clorindo Testa, Francisco Bullrich y Alicia Cazzaniga?",
+                    "options": [
+                        "Elevar la sala de lectura en un volumen escultórico sobre cuatro grandes columnas de hormigón, liberando el parque inferior y enterrando los libros en el subsuelo.",
+                        "Construir un rascacielos vidriado hermético sin contacto con la vegetación del parque.",
+                        "Replicar el Partenón griego en mármol blanco de Carrara.",
+                        "Utilizar exclusivamente contenedores marítimos de acero reciclado."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Testa elevó la sala de lectura hacia la vista panorámica del río y protegió los libros en depósitos subterráneos con temperatura constante."
+                }
+            ]
+        },
+        "independentPractice": {
+            "items": [
+                {
+                    "prompt": "¿Cuál es la premisa conceptual y estructural de la «Casa sobre el Arroyo» de Amancio Williams en Mar del Plata?",
+                    "options": [
+                        "Un puente curvo de hormigón que sostiene una caja habitable suspendida en el aire, permitiendo que el arroyo fluya ininterrumpidamente por debajo.",
+                        "Una vivienda subterránea excavada completamente en roca volcánica.",
+                        "Una casa rodante flotante que navega por el Río de la Plata.",
+                        "Un palacio colonial español con tres patios interiores y techos de tejas."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "La Casa del Puente es una síntesis perfecta entre geometría pura, ingeniería estructural y respeto por la naturaleza circundante."
+                }
+            ]
+        },
+        "checkpointTest": {
+            "items": [
+                {
+                    "prompt": "¿Qué arquitecto y artista plástico argentino es el autor de las obras maestras del brutalismo Banco de Londres y la Biblioteca Nacional?",
+                    "options": [
+                        "Clorindo Testa",
+                        "Alejandro Bustillo",
+                        "César Pelli",
+                        "Mario Roberto Álvarez"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Clorindo Testa es la figura cimera del brutalismo en América Latina, combinando arquitectura de hormigón y artes plásticas."
+                },
+                {
+                    "prompt": "¿A qué se refiere el término arquitectónico «hormigón visto»?",
+                    "options": [
+                        "Al hormigón armado dejado sin revoque ni pintura, exhibiendo la textura y huellas del encofrado como acabado final estético.",
+                        "A un vidrio transparente de alta resistencia para ventanales.",
+                        "A una alfombra sintética para aislar el sonido en salas de grabación.",
+                        "Al ladrillo hueco pintado de color rojo brillante."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "El hormigón a la vista es el material icónico del movimiento brutalista por su honestidad constructiva y potencia táctil."
+                }
+            ],
+            "passThreshold": 0.8
+        }
+    },
+    "es-ar-u33-l5": {
+        "id": "es-ar-u33-l5",
+        "unit": "es-ar-u33",
+        "level": "C2",
+        "objective": "Urbanismo Contemporáneo y Rascacielos: César Pelli y la Transformación de Puerto Madero.",
+        "presentation": {
+            "explanation": "La última década del siglo XX y los primeros años del siglo XXI marcaron la mayor intervención de reciclaje urbano y modernización paisajística en la historia argentina: la reconversión integral de Puerto Madero. El antiguo puerto de dársenas diseñado por Eduardo Madero a fines del siglo XIX, abandonado durante décadas tras quedar obsoleto por el puerto de Puerto Nuevo, fue transformado mediante una corporación mixta en un distrito financiero, gastronómico y residencial de alta gama. El proyecto preservó el patrimonio industrial rehabilitando los docks de ladrillo inglés a la vista e incorporó un parque lineal costero, la icónica pasarela peatonal del Puente de la Mujer diseñada por Santiago Calatrava (que rinde tributo formal a una pareja bailando tango), y un corredor de rascacielos contemporáneos. En este escenario descolló la figura del arquitecto tucumano César Pelli (autor de las Torres Petronas de Kuala Lumpur), quien diseñó hitos corporativos como la Torre YPF (2008), célebre por su jardín de jacarandás plantado a más de 120 metros de altura en un jardín de invierno suspendido, y la Torre BankBoston, integrando tecnología bioclimática, muros cortina de cristal y diálogo con el Río de la Plata.",
+            "examples": [
+                {
+                    "target": "La Torre YPF de César Pelli incorpora un jardín botánico suspendido en los pisos superiores que contrasta con el muro cortina de vidrio.",
+                    "reading": "La Torre YPF de César Pelli incorpora un jardín botánico suspendido en los pisos superiores que contrasta con el muro cortina de vidrio.",
+                    "translation": "César Pelli's YPF Tower incorporates a suspended botanical garden on the upper floors contrasting with the glass curtain wall."
+                },
+                {
+                    "target": "La reconversión de los docks de Puerto Madero articuló la preservación de los depósitos de ladrillo con el nuevo frente costero.",
+                    "reading": "La reconversión de los docks de Puerto Madero articuló la preservación de los depósitos de ladrillo con el nuevo frente costero.",
+                    "translation": "The reconversion of Puerto Madero's docks articulated the preservation of brick warehouses with the new waterfront."
+                }
+            ],
+            "mnemonics": [
+                "«Reciclaje urbano / Waterfront»: recuperación de antiguas zonas portuarias o industriales obsoletas para integrarlas a la vida cívica contemporánea."
+            ],
+            "culturalNotes": [
+                "Todas las calles de Puerto Madero llevan nombres de mujeres ilustres de la historia argentina y latinoamericana, rindiendo homenaje a científicas, escritoras y luchadoras sociales."
+            ]
+        },
+        "guidedPractice": {
+            "items": [
+                {
+                    "prompt": "¿Qué estrategia urbanística y patrimonial fue clave en el éxito de la reconversión de Puerto Madero a partir de la década de 1990?",
+                    "options": [
+                        "La rehabilitación de los históricos docks de ladrillo rojo y la apertura de bulevares, parques públicos y torres contemporáneas frente a los diques.",
+                        "La demolición total de todos los edificios históricos para construir un aeropuerto internacional.",
+                        "El cierre de los diques con hormigón para construir un estacionamiento de camiones.",
+                        "La instalación de una refinería de petróleo en pleno centro porteño."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Puerto Madero combinó la preservación patrimonial de los depósitos de ladrillo con rascacielos de vanguardia y espacios públicos peatonales."
+                }
+            ]
+        },
+        "independentPractice": {
+            "items": [
+                {
+                    "prompt": "¿Qué rasgo singular de diseño incluyó el célebre arquitecto argentino César Pelli en la Torre YPF de Puerto Madero?",
+                    "options": [
+                        "Un jardín de invierno con jacarandás y árboles naturales plantados en los pisos superiores dentro de la estructura vidriada del rascacielos.",
+                        "Un helipuerto de madera sin barandas de seguridad.",
+                        "Una fachada recubierta íntegramente con mosaicos de oro macizo.",
+                        "Un parque de diversiones mecánico en el techo del edificio."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "La Torre YPF de Pelli cuenta con un espectacular jardín suspendido con árboles vivos en los pisos 26 a 31."
+                }
+            ]
+        },
+        "checkpointTest": {
+            "items": [
+                {
+                    "prompt": "¿Quién fue el arquitecto tucumano de fama mundial que diseñó la Torre YPF, la Torre BankBoston y las Torres Petronas de Malasia?",
+                    "options": [
+                        "César Pelli",
+                        "Frank Gehry",
+                        "Zaha Hadid",
+                        "Norman Foster"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "César Pelli, nacido en Tucumán, fue uno de los más grandes maestros mundiales del diseño de rascacielos contemporáneos."
+                },
+                {
+                    "prompt": "¿A qué figuras rinden homenaje los nombres de todas las calles y plazas del barrio de Puerto Madero en Buenos Aires?",
+                    "options": [
+                        "A mujeres destacadas de la historia, las ciencias, las artes y la política argentina y continental.",
+                        "A presidentes de facto y generales del siglo XIX.",
+                        "A ríos y lagos de la Patagonia exclusivamente.",
+                        "A marcas de automóviles y barcos comerciales."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Puerto Madero es el único barrio porteño cuyas calles rinden tributo exclusivamente a mujeres notables."
                 }
             ],
             "passThreshold": 0.8
@@ -17117,407 +17483,420 @@
         "lessonNumber": 1,
         "title": "Diplomatic Credentials & Bilateral Summits",
         "level": "C2",
-        "objective": "Diplomatic Credentials & Bilateral Summits (Protocolo de Estado y Cumbres Bilaterales).",
+        "objective": "Protocolo de Estado, presentación de cartas credenciales y redacción de notas diplomáticas solemnes en la Cancillería argentina.",
         "presentation": {
-            "explanation": "En el nivel C2 de la diplomacia rioplatense y del Cono Sur, se estudian los mecanismos formales de presentación de cartas credenciales ante la Cancillería en el Palacio San Martín, el otorgamiento del plácet de estilo y la redacción de notas reversales con giros estilísticos de estricta cortesía protocolar.",
+            "explanation": "El ejercicio de la diplomacia de Estado en la República Argentina y el Cono Sur exige el dominio exhaustivo de las fórmulas de estilo consagradas por la Convención de Viena sobre Relaciones Diplomáticas (1961) y la tradición protocolar hispanoamericana. La ceremonia de acreditación de un embajador extraordinario y plenipotenciario ante el Presidente de la Nación se inicia con la entrega de las copias de estilo ante el Ministro de Relaciones Exteriores, Comercio Internacional y Culto en el ceremonial Palacio San Martín, seguida de la audiencia solemne de presentación de cartas credenciales en el Salón Blanco de la Casa Rosada. En la correspondencia oficial de Cancillería, se emplean rigurosas construcciones formularas en tercera persona («El Ministerio de Relaciones Exteriores saluda muy atentamente a la Honorable Embajada y tiene el honor de...», «Aprovecha la oportunidad para reiterar las seguridades de su más distinguida consideración») y notas reversales para formalizar acuerdos ejecutivos bilaterales sin necesidad de ratificación parlamentaria compleja.",
             "examples": [
                 {
-                    "target": "El embajador presentó sus cartas credenciales ante el ministro de Relaciones Exteriores en el Palacio San Martín.",
-                    "reading": "El embajador presentó sus cartas credenciales ante el ministro de Relaciones Exteriores en el Palacio San Martín.",
-                    "translation": "The ambassador presented his credentials to the Minister of Foreign Affairs at the San Martín Palace."
+                    "target": "El embajador extraordinario y plenipotenciario presentó sus cartas credenciales y transmitió los saludos cordiales de su jefe de Estado.",
+                    "reading": "El embajador extraordinario y plenipotenciario presentó sus cartas credenciales y transmitió los saludos cordiales de su jefe de Estado.",
+                    "translation": "The ambassador extraordinary and plenipotentiary presented his credentials and conveyed the cordial greetings of his head of state."
                 },
                 {
-                    "target": "Ambas representaciones acordaron coordinar sus posiciones en el marco del bloque regional.",
-                    "reading": "Ambas representaciones acordaron coordinar sus posiciones en el marco del bloque regional.",
-                    "translation": "Both representations agreed to coordinate their stances within the regional bloc framework."
+                    "target": "Mediante nota reversal, ambas cancillerías formalizaron el acuerdo de cooperación técnica y exención de visados diplomáticos.",
+                    "reading": "Mediante nota reversal, ambas cancillerías formalizaron el acuerdo de cooperación técnica y exención de visados diplomáticos.",
+                    "translation": "By exchange of notes, both foreign ministries formalized the technical cooperation and diplomatic visa waiver agreement."
                 }
             ],
             "mnemonics": [
-                "\"Palacio San Martín\" es la sede ceremonial y protocolar histórica de la diplomacia argentina en Buenos Aires."
+                "«Plácet de estilo»: solicitud previa y confidencial mediante la cual un Estado consulta si el embajador propuesto es persona grata para el gobierno receptor."
             ],
             "culturalNotes": [
-                "El cuerpo diplomático argentino combina la tradición formal hispanoamericana con la negociación pragmática en foros del MERCOSUR y la OEA."
+                "El Palacio San Martín, ubicado frente a la Plaza San Martín en el barrio de Retiro, es la sede protocolar histórica de la Cancillería argentina donde se reciben a los dignatarios extranjeros."
             ]
         },
         "guidedPractice": {
-            "exercises": [
-                {
-                    "type": "synthesis",
-                    "prompt": "Conduct a diplomatic analysis in ARGENTINE-SPANISH concerning: Diplomatic Credentials & Bilateral Summits (Protocolo de Estado y Cumbres Bilaterales).",
-                    "targetPhrase": "El embajador presentó sus cartas credenciales ante el ministro de Relaciones Exteriores en el Palacio San Martín.",
-                    "expectedKeywords": [
-                        "El",
-                        "embajador"
-                    ]
-                }
-            ],
             "items": [
                 {
-                    "type": "synthesis",
-                    "prompt": "Conduct a diplomatic analysis in ARGENTINE-SPANISH concerning: Diplomatic Credentials & Bilateral Summits (Protocolo de Estado y Cumbres Bilaterales).",
-                    "targetPhrase": "El embajador presentó sus cartas credenciales ante el ministro de Relaciones Exteriores en el Palacio San Martín.",
-                    "expectedKeywords": [
-                        "El",
-                        "embajador"
-                    ]
-                }
-            ]
-        },
-        "checkpointTest": {
-            "items": [
-                {
-                    "prompt": "¿Cuál es la sede ceremonial de la Cancillería argentina donde se celebran las recepciones diplomáticas solemnes?",
+                    "prompt": "¿Qué documento oficial solemne otorga formalmente la representación legal y diplomática a un embajador ante un jefe de Estado extranjero?",
                     "options": [
-                        "Casa Rosada norte",
-                        "Obelisco central",
-                        "Teatro Colón",
-                        "Palacio San Martín"
+                        "Las cartas credenciales (lettres de créance) firmadas por su propio jefe de Estado y dirigidas al mandatario receptor.",
+                        "Un pasaporte de turista con sello migratorio regular.",
+                        "Una declaración jurada de impuestos comerciales.",
+                        "Una tarjeta de presentación informal de papel."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "El Palacio San Martín es la sede protocolar de la Cancillería argentina."
+                    "answerIndex": 0,
+                    "explanation": "Las cartas credenciales acreditan el rango y los plenos poderes diplomáticos del embajador."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "type": "synthesis",
-                    "prompt": "Conduct a diplomatic analysis in ARGENTINE-SPANISH concerning: Diplomatic Credentials & Bilateral Summits (Protocolo de Estado y Cumbres Bilaterales).",
-                    "targetPhrase": "El embajador presentó sus cartas credenciales ante el ministro de Relaciones Exteriores en el Palacio San Martín.",
-                    "expectedKeywords": [
-                        "El",
-                        "embajador"
-                    ]
+                    "prompt": "¿Cuál es la fórmula clásica de clausura y cortesía protocolar obligatoria en las notas diplomáticas formales de Cancillería?",
+                    "options": [
+                        "«...hace propicia la oportunidad para reiterar a Vuestra Excelencia las seguridades de su más distinguida consideración.»",
+                        "«...esperamos vernos pronto en la próxima fiesta.»",
+                        "«...quedamos a la espera de su llamada telefónica informal.»",
+                        "«...sin más que agregar nos despedimos atentamente.»"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Es la fórmula solemne de cortesía diplomática consagrada internacionalmente en el ámbito de las relaciones exteriores."
                 }
             ]
+        },
+        "checkpointTest": {
+            "items": [
+                {
+                    "prompt": "¿Qué mecanismo simplificado del derecho internacional permite concluir un acuerdo bilateral mediante intercambio formal de correspondencia idéntica entre Cancillerías?",
+                    "options": [
+                        "Notas reversales (canje de notas)",
+                        "Llamada telefónica no protocolar",
+                        "Publicación en redes sociales",
+                        "Firma de un recibo bancario"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "El canje de notas o notas reversales constituye un tratado internacional simplificado y jurídicamente vinculante entre dos Estados."
+                },
+                {
+                    "prompt": "¿Dónde tiene lugar la ceremonia formal de presentación de cartas credenciales ante el Presidente de la Nación Argentina?",
+                    "options": [
+                        "En el Salón Blanco de la Casa de Gobierno (Casa Rosada)",
+                        "En la tribuna del Hipódromo de San Isidro",
+                        "En el andén de la Estación de Retiro",
+                        "En el Salón de Pasos Perdidos del Congreso"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "El Salón Blanco de la Casa Rosada es el recinto de Estado donde el Presidente recibe solemnemente a los embajadores acreditados."
+                }
+            ],
+            "passThreshold": 0.8
         }
     },
     "es-ar-u34-l2": {
         "id": "es-ar-u34-l2",
-        "subject": "argentine-spanish",
-        "unit": 34,
-        "lessonNumber": 2,
-        "title": "Regional Integration Treaties & MERCOSUR Protocols",
+        "unit": "es-ar-u34",
         "level": "C2",
-        "objective": "Regional Integration Treaties & MERCOSUR Protocols (Tratados de Integración Regional y MERCOSUR).",
+        "objective": "Tratados de Integración Regional y MERCOSUR: derecho comunitario, tribunales de arbitraje y cláusulas democráticas.",
         "presentation": {
-            "explanation": "Dominio del derecho de la integración: el Tratado de Asunción, el Protocolo de Ouro Preto, la adopción del Arancel Externo Común (AEC), el mecanismo de solución de controversias del Tribunal Permanente de Revisión y las cláusulas democráticas.",
+            "explanation": "El proceso de integración regional en el Cono Sur se fundamenta en un complejo entramado jurídico-institucional inaugurado por el Tratado de Asunción (1991), que constituyó el Mercado Común del Sur (MERCOSUR) entre Argentina, Brasil, Paraguay y Uruguay. La consolidación institucional fue alcanzada con el Protocolo de Ouro Preto (1994), que dotó al bloque de personería jurídica de derecho internacional y estructuró sus órganos decisorios: el Consejo del Mercado Común (CMC), el Grupo Mercado Común (GMC) y la Comisión de Comercio (CCM). En materia de resolución de conflictos comerciales e interpretativos, el Protocolo de Olivos (2002) instituyó el Tribunal Permanente de Revisión (TPR) con sede en Asunción, cuyos laudos arbitrales revisten carácter definitivo, obligatorio e inapelable para los Estados partes. Asimismo, el Protocolo de Ushuaia sobre Compromiso Democrático (1998) consagra la cláusula democrática, según la cual la plena vigencia de las instituciones democráticas es condición sine qua non para la pertenencia y permanencia en el bloque regional.",
             "examples": [
                 {
-                    "target": "El laudo del Tribunal Permanente de Revisión del MERCOSUR resultó jurídicamente vinculante para las partes.",
-                    "reading": "El laudo del Tribunal Permanente de Revisión del MERCOSUR resultó jurídicamente vinculante para las partes.",
-                    "translation": "The arbitral award of the MERCOSUR Permanent Review Tribunal was legally binding on the parties."
+                    "target": "El Tribunal Permanente de Revisión emitió un laudo definitivo dirimiendo la controversia arancelaria entre los Estados partes.",
+                    "reading": "El Tribunal Permanente de Revisión emitió un laudo definitivo dirimiendo la controversia arancelaria entre los Estados partes.",
+                    "translation": "The Permanent Review Tribunal issued a final award settling the tariff dispute between the State Parties."
                 },
                 {
-                    "target": "Se ratificó la aplicación estricta de la cláusula de compromiso democrático.",
-                    "reading": "Se ratificó la aplicación estricta de la cláusula de compromiso democrático.",
-                    "translation": "The strict enforcement of the democratic commitment clause was ratified."
+                    "target": "La aplicación de la cláusula del Protocolo de Ushuaia garantizó la preservación del orden constitucional en la región.",
+                    "reading": "La aplicación de la cláusula del Protocolo de Ushuaia garantizó la preservación del orden constitucional en la región.",
+                    "translation": "The application of the Ushuaia Protocol clause guaranteed the preservation of constitutional order in the region."
                 }
             ],
             "mnemonics": [
-                "\"Laudo\" es la sentencia o fallo dictado por un tribunal arbitral internacional."
+                "«Laudo arbitral»: decisión jurídica emitida por un tribunal internacional que posee fuerza vinculante y cosa juzgada para las partes litigantes."
             ],
             "culturalNotes": [
-                "El MERCOSUR cuenta con sede parlamentaria en Montevideo y tribunal de arbitraje en Asunción."
+                "El Parlamento del MERCOSUR (PARLASUR), con sede en Montevideo, funciona como órgano deliberativo y de control político regional representativo de los pueblos miembros."
             ]
         },
         "guidedPractice": {
-            "exercises": [
-                {
-                    "type": "synthesis",
-                    "prompt": "Conduct a diplomatic analysis in ARGENTINE-SPANISH concerning: Regional Integration Treaties & MERCOSUR Protocols (Tratados de Integración Regional y MERCOSUR).",
-                    "targetPhrase": "El laudo del Tribunal Permanente de Revisión del MERCOSUR resultó jurídicamente vinculante para las partes.",
-                    "expectedKeywords": [
-                        "El",
-                        "laudo"
-                    ]
-                }
-            ],
             "items": [
                 {
-                    "type": "synthesis",
-                    "prompt": "Conduct a diplomatic analysis in ARGENTINE-SPANISH concerning: Regional Integration Treaties & MERCOSUR Protocols (Tratados de Integración Regional y MERCOSUR).",
-                    "targetPhrase": "El laudo del Tribunal Permanente de Revisión del MERCOSUR resultó jurídicamente vinculante para las partes.",
-                    "expectedKeywords": [
-                        "El",
-                        "laudo"
-                    ]
-                }
-            ]
-        },
-        "checkpointTest": {
-            "items": [
-                {
-                    "prompt": "¿Cómo se denomina la decisión judicial emitida por un tribunal arbitral internacional?",
+                    "prompt": "¿Qué protocolo internacional confirió al MERCOSUR estructura institucional definitiva y personería jurídica de derecho internacional en 1994?",
                     "options": [
-                        "Memorándum interno",
-                        "Minuta preliminar",
-                        "Laudo arbitral",
-                        "Recibo de caja"
+                        "El Protocolo de Ouro Preto",
+                        "El Tratado de Versalles",
+                        "El Acuerdo de Bretton Woods",
+                        "El Protocolo de Kioto"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Un laudo arbitral es la decisión formal y vinculante emitida por un tribunal de arbitraje."
+                    "answerIndex": 0,
+                    "explanation": "El Protocolo de Ouro Preto estableció la estructura orgánica y dotó al MERCOSUR de personería jurídica internacional."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "type": "synthesis",
-                    "prompt": "Conduct a diplomatic analysis in ARGENTINE-SPANISH concerning: Regional Integration Treaties & MERCOSUR Protocols (Tratados de Integración Regional y MERCOSUR).",
-                    "targetPhrase": "El laudo del Tribunal Permanente de Revisión del MERCOSUR resultó jurídicamente vinculante para las partes.",
-                    "expectedKeywords": [
-                        "El",
-                        "laudo"
-                    ]
+                    "prompt": "¿Cuál es la función primordial del Tribunal Permanente de Revisión (TPR) del MERCOSUR con sede en Asunción?",
+                    "options": [
+                        "Garantizar la correcta interpretación y aplicación de las normas del MERCOSUR y emitir laudos vinculantes e inapelables en controversias.",
+                        "Determinar los precios del petróleo en el mercado sudamericano.",
+                        "Organizar los Juegos Panamericanos de verano.",
+                        "Emitir visas turísticas individuales para ciudadanos extranjeros."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "El TPR actúa como instancia jurisdiccional definitiva de resolución de conflictos comerciales e institucionales en el bloque."
                 }
             ]
+        },
+        "checkpointTest": {
+            "items": [
+                {
+                    "prompt": "¿Qué principio supremo consagra el Protocolo de Ushuaia de 1998 en el marco del MERCOSUR?",
+                    "options": [
+                        "La cláusula de compromiso democrático como condición ineludible para la integración regional.",
+                        "La obligatoriedad de adoptar una moneda común en un plazo de doce meses.",
+                        "La prohibición absoluta del comercio marítimo internacional.",
+                        "La unificación de las fuerzas armadas en un solo ejército continental."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "El Protocolo de Ushuaia establece que cualquier ruptura del orden democrático acarrea la suspensión del Estado infractor en el bloque."
+                },
+                {
+                    "prompt": "¿Cómo se denominan las resoluciones de fondo emanadas del Consejo del Mercado Común (CMC)?",
+                    "options": [
+                        "Decisiones del CMC",
+                        "Bandos militares",
+                        "Memorandos comerciales",
+                        "Leyes federales internas"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "El Consejo del Mercado Común aprueba «Decisiones», el Grupo Mercado Común dicta «Resoluciones» y la Comisión de Comercio adopta «Directivas»."
+                }
+            ],
+            "passThreshold": 0.8
         }
     },
     "es-ar-u34-l3": {
         "id": "es-ar-u34-l3",
-        "subject": "argentine-spanish",
-        "unit": 34,
-        "lessonNumber": 3,
-        "title": "Antarctic Treaty & South Atlantic Maritime Law",
+        "unit": "es-ar-u34",
         "level": "C2",
-        "objective": "Antarctic Treaty & South Atlantic Maritime Law (Tratado Antártico y Derecho del Mar Austral).",
+        "objective": "Tratado Antártico, Derecho del Mar y Plataforma Continental Austral (CONVEMAR y CLPC).",
         "presentation": {
-            "explanation": "Análisis del Tratado Antártico de 1959, la desmilitarización y cooperación científica en la Antártida, la delimitación de la plataforma continental ante la Comisión de Límites de la Plataforma Continental (CLPC) de la ONU y la conservación de recursos ictícolas.",
+            "explanation": "La política exterior argentina en el Atlántico Sur y la Antártida se sustenta en el estricto cumplimiento del derecho internacional público y el régimen jurídico de los espacios marítimos y polares. El Tratado Antártico, suscrito en Washington en 1959 y vigente desde 1961, consagró la desmilitarización absoluta del continente blanco al sur del paralelo 60° Sur, prohibiendo ensayos nucleares y el vertido de residuos radiactivos, al tiempo que consagró la libertad de investigación científica internacional y congeló todas las reclamaciones de soberanía territorial (Artículo IV). En el ámbito marítimo, conforme a la Convención de las Naciones Unidas sobre el Derecho del Mar (CONVEMAR de 1982), la República Argentina presentó en 2009 ante la Comisión de Límites de la Plataforma Continental (CLPC) de la ONU el trabajo científico de delimitación del margen continental más allá de las 200 millas náuticas, logrando en 2016 y 2017 la aprobación por consenso de la extensión de su plataforma continental submarina hasta el límite exterior de la plataforma continental.",
             "examples": [
                 {
-                    "target": "El Tratado Antártico consagra la congelación de reclamaciones de soberanía territorial en pos de la ciencia.",
-                    "reading": "El Tratado Antártico consagra la congelación de reclamaciones de soberanía territorial en pos de la ciencia.",
-                    "translation": "The Antarctic Treaty enshrines the freezing of territorial sovereignty claims in pursuit of science."
+                    "target": "El Tratado Antártico reserva el continente blanco exclusivamente para fines pacíficos y científicos cooperativos.",
+                    "reading": "El Tratado Antártico reserva el continente blanco exclusivamente para fines pacíficos y científicos cooperativos.",
+                    "translation": "The Antarctic Treaty reserves the white continent exclusively for peaceful and cooperative scientific purposes."
                 },
                 {
-                    "target": "La comisión de límites avaló la extensión de la plataforma continental más allá de las doscientas millas marinas.",
-                    "reading": "La comisión de límites avaló la extensión de la plataforma continental más allá de las doscientas millas marinas.",
-                    "translation": "The limits commission endorsed the extension of the continental shelf beyond two hundred nautical miles."
+                    "target": "La Comisión de Límites de la ONU aprobó el trazado científico de la plataforma continental argentina extendida.",
+                    "reading": "La Comisión de Límites de la ONU aprobó el trazado científico de la plataforma continental argentina extendida.",
+                    "translation": "The UN Limits Commission approved the scientific demarcation of Argentina's extended continental shelf."
                 }
             ],
             "mnemonics": [
-                "\"Plataforma continental\" comprende el lecho y subsuelo submarinos prolongados naturalmente desde el continente."
+                "«Artículo IV del Tratado Antártico»: cláusula de salvaguardia que 'congela' las reclamaciones territoriales sin que los Estados firmantes renuncien a sus derechos históricos."
             ],
             "culturalNotes": [
-                "Argentina mantiene presencia ininterrumpida en la Antártida desde la inauguración de la Base Orcadas en 1904."
+                "La República Argentina cuenta con la presencia humana ininterrumpida más antigua en la Antártida, iniciada con la inauguración del observatorio meteorológico en la Base Orcadas el 22 de febrero de 1904."
             ]
         },
         "guidedPractice": {
-            "exercises": [
-                {
-                    "type": "synthesis",
-                    "prompt": "Conduct a diplomatic analysis in ARGENTINE-SPANISH concerning: Antarctic Treaty & South Atlantic Maritime Law (Tratado Antártico y Derecho del Mar Austral).",
-                    "targetPhrase": "El Tratado Antártico consagra la congelación de reclamaciones de soberanía territorial en pos de la ciencia.",
-                    "expectedKeywords": [
-                        "El",
-                        "Tratado"
-                    ]
-                }
-            ],
             "items": [
                 {
-                    "type": "synthesis",
-                    "prompt": "Conduct a diplomatic analysis in ARGENTINE-SPANISH concerning: Antarctic Treaty & South Atlantic Maritime Law (Tratado Antártico y Derecho del Mar Austral).",
-                    "targetPhrase": "El Tratado Antártico consagra la congelación de reclamaciones de soberanía territorial en pos de la ciencia.",
-                    "expectedKeywords": [
-                        "El",
-                        "Tratado"
-                    ]
-                }
-            ]
-        },
-        "checkpointTest": {
-            "items": [
-                {
-                    "prompt": "¿Cuál es el principio rector del Tratado Antártico en materia militar y científica?",
+                    "prompt": "¿Qué prohibición expresa rige en la Antártida conforme al Tratado Antártico de 1959?",
                     "options": [
-                        "Explotación minera indiscriminada.",
-                        "Desmilitarización total y uso exclusivo para fines pacíficos y científicos.",
-                        "Prohibición de expediciones científicas internacionales.",
-                        "Establecimiento de bases militares estratégicas permanentes."
+                        "Toda medida de carácter militar, maniobras bélicas, ensayos armamentísticos, explosiones nucleares y eliminación de desechos radiactivos.",
+                        "La navegación de veleros científicos de investigación ambiental.",
+                        "El avistamiento de pingüinos y fauna autóctona por biólogos marinos.",
+                        "La instalación de observatorios meteorológicos civiles."
                     ],
-                    "answerIndex": 1,
-                    "explanation": "El Tratado Antártico prohíbe actividades militares y garantiza la libertad de investigación científica pacífica."
+                    "answerIndex": 0,
+                    "explanation": "El Tratado Antártico destina el territorio exclusivamente a actividades pacíficas y cooperación científica internacional."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "type": "synthesis",
-                    "prompt": "Conduct a diplomatic analysis in ARGENTINE-SPANISH concerning: Antarctic Treaty & South Atlantic Maritime Law (Tratado Antártico y Derecho del Mar Austral).",
-                    "targetPhrase": "El Tratado Antártico consagra la congelación de reclamaciones de soberanía territorial en pos de la ciencia.",
-                    "expectedKeywords": [
-                        "El",
-                        "Tratado"
-                    ]
+                    "prompt": "¿Qué órgano de la ONU evaluó y convalidó las recomendaciones sobre el límite exterior de la plataforma continental argentina?",
+                    "options": [
+                        "La Comisión de Límites de la Plataforma Continental (CLPC)",
+                        "El Consejo de Seguridad en sesión de emergencia",
+                        "La Corte Penal Internacional de La Haya",
+                        "El Fondo Monetario Internacional"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "La CLPC es el órgano técnico científico de la ONU encargado de validar los límites de la plataforma más allá de las 200 millas."
                 }
             ]
+        },
+        "checkpointTest": {
+            "items": [
+                {
+                    "prompt": "¿Qué base científica antártica argentina posee el récord de ocupación humana ininterrumpida desde 1904?",
+                    "options": [
+                        "Base Orcadas",
+                        "Base Marambio",
+                        "Base Esperanza",
+                        "Base San Martín"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "La Base Orcadas funciona ininterrumpidamente desde febrero de 1904, testimonio fundacional de la presencia antártica argentina."
+                },
+                {
+                    "prompt": "¿Cuál es la convención multilateral matriz que regula el derecho de los espacios oceánicos y la zona económica exclusiva?",
+                    "options": [
+                        "CONVEMAR (Convención de las Naciones Unidas sobre el Derecho del Mar de 1982)",
+                        "Convención de Ginebra sobre Prisioneros de Guerra",
+                        "Pacto de San José de Costa Rica",
+                        "Tratado de Tlatelolco"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "La CONVEMAR es la constitución global de los mares que establece las zonas marítimas, plataformas y fondos oceánicos."
+                }
+            ],
+            "passThreshold": 0.8
         }
     },
     "es-ar-u34-l4": {
         "id": "es-ar-u34-l4",
-        "subject": "argentine-spanish",
-        "unit": 34,
-        "lessonNumber": 4,
-        "title": "Sovereignty Disputes, UN Decolonization Committee & Peaceful Settlement",
+        "unit": "es-ar-u34",
         "level": "C2",
-        "objective": "Sovereignty Disputes, UN Decolonization Committee & Peaceful Settlement (Controversias de Soberanía y Descolonización).",
+        "objective": "Controversias de Soberanía, Comité de Descolonización (C-24) y Solución Pacífica de Controversias.",
         "presentation": {
-            "explanation": "Estudio de las resoluciones de la Asamblea General de la ONU (v.g. Resolución 2065), el mandato del Comité de Descolonización (C-24) y la diplomacia multilateral orientada a negociaciones pacíficas de disputas territoriales y marítimas.",
+            "explanation": "La diplomacia multilateral de la República Argentina respecto de la Cuestión de las Islas Malvinas, Georgias del Sur, Sandwich del Sur y los espacios marítimos circundantes se encuadra rigurosamente en el mandato de la Carta de las Naciones Unidas y las resoluciones de la Asamblea General. La histórica Resolución 2065 (XX) de 1965 reconoció la existencia de una disputa de soberanía territorial entre la Argentina y el Reino Unido, encuadrando el caso en el proceso de descolonización bajo el principio de integridad territorial y llamando a ambas partes a proseguir sin demora negociaciones pacíficas bilaterales. Este mandato ha sido ratificado ininterrumpidamente por sucesivas resoluciones de la Asamblea General y por el Comité Especial de Descolonización (C-24). En el plano constitucional interno, la Disposición Transitoria Primera de la Constitución de la Nación Argentina (sancionada en la reforma de 1994) ratifica la legítima e imprescriptible soberanía argentina sobre dichos archipiélagos y consagra que su recuperación por vías pacíficas y diplomáticas, respetando el modo de vida de sus habitantes y los principios del derecho internacional, constituye un objetivo permanente e irrenunciable del pueblo argentino.",
             "examples": [
                 {
-                    "target": "La resolución de la Asamblea General insta a ambas partes a reanudar negociaciones bilaterales sin demoras.",
-                    "reading": "La resolución de la Asamblea General insta a ambas partes a reanudar negociaciones bilaterales sin demoras.",
-                    "translation": "The General Assembly resolution urges both parties to resume bilateral negotiations without delay."
+                    "target": "La Resolución 2065 de la Asamblea General instó a reanudar negociaciones bilaterales para resolver la controversia de soberanía.",
+                    "reading": "La Resolución 2065 de la Asamblea General instó a reanudar negociaciones bilaterales para resolver la controversia de soberanía.",
+                    "translation": "General Assembly Resolution 2065 urged resuming bilateral negotiations to resolve the sovereignty dispute."
                 },
                 {
-                    "target": "La delegación reafirmó los derechos imprescriptibles de soberanía territorial conforme al derecho internacional.",
-                    "reading": "La delegación reafirmó los derechos imprescriptibles de soberanía territorial conforme al derecho internacional.",
-                    "translation": "The delegation reaffirmed the imprescriptible rights of territorial sovereignty in accordance with international law."
+                    "target": "La Constitución Nacional consagra la recuperación pacífica de las islas como una política de Estado imprescriptible.",
+                    "reading": "La Constitución Nacional consagra la recuperación pacífica de las islas como una política de Estado imprescriptible.",
+                    "translation": "The National Constitution enshrines the peaceful recovery of the islands as an imprescriptible State policy."
                 }
             ],
             "mnemonics": [
-                "\"Imprescriptible\" significa que un derecho no se extingue ni se pierde por el mero transcurso del tiempo."
+                "«Resolución 2065 (XX) de la ONU (1965)»: hito diplomático fundacional que reconoció internacionalmente la disputa de soberanía colonial en Malvinas."
             ],
             "culturalNotes": [
-                "El reclamo de soberanía sobre las Islas Malvinas está consagrado formalmente en la Constitución Nacional Argentina de 1994."
+                "El Comité Especial de Descolonización (C-24) de la ONU sesiona anualmente en Nueva York examinando las situaciones coloniales pendientes en el mundo."
             ]
         },
         "guidedPractice": {
-            "exercises": [
-                {
-                    "type": "synthesis",
-                    "prompt": "Conduct a diplomatic analysis in ARGENTINE-SPANISH concerning: Sovereignty Disputes, UN Decolonization Committee & Peaceful Settlement (Controversias de Soberanía y Descolonización).",
-                    "targetPhrase": "La resolución de la Asamblea General insta a ambas partes a reanudar negociaciones bilaterales sin demoras.",
-                    "expectedKeywords": [
-                        "La",
-                        "resolución"
-                    ]
-                }
-            ],
             "items": [
                 {
-                    "type": "synthesis",
-                    "prompt": "Conduct a diplomatic analysis in ARGENTINE-SPANISH concerning: Sovereignty Disputes, UN Decolonization Committee & Peaceful Settlement (Controversias de Soberanía y Descolonización).",
-                    "targetPhrase": "La resolución de la Asamblea General insta a ambas partes a reanudar negociaciones bilaterales sin demoras.",
-                    "expectedKeywords": [
-                        "La",
-                        "resolución"
-                    ]
-                }
-            ]
-        },
-        "checkpointTest": {
-            "items": [
-                {
-                    "prompt": "¿Qué significa el término legal \"imprescriptible\"?",
+                    "prompt": "¿Qué estipula la histórica Resolución 2065 (XX) aprobada por la Asamblea General de la ONU en 1965?",
                     "options": [
-                        "Que un derecho no caduca ni pierde validez por el paso del tiempo.",
-                        "Que no puede ser redactado por escrito.",
-                        "Que solo aplica a diplomáticos jubilados.",
-                        "Que debe cancelarse en menos de veinticuatro horas."
+                        "Reconoce formalmente la disputa de soberanía sobre las Islas Malvinas e insta a la Argentina y al Reino Unido a entablar negociaciones pacíficas bilaterales.",
+                        "Declara la anexión unilateral obligatoria de las islas a un tercer país.",
+                        "Clausura definitivamente el debate diplomático en los foros internacionales.",
+                        "Ordena el establecimiento de una base militar multinacional en el archipiélago."
                     ],
                     "answerIndex": 0,
-                    "explanation": "\"Imprescriptible\" designa derechos que nunca prescriben o vencen temporalmente."
+                    "explanation": "La Resolución 2065 es la base jurídica internacional que enmarca el caso como una disputa colonial bilateral pendiente de descolonización."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "type": "synthesis",
-                    "prompt": "Conduct a diplomatic analysis in ARGENTINE-SPANISH concerning: Sovereignty Disputes, UN Decolonization Committee & Peaceful Settlement (Controversias de Soberanía y Descolonización).",
-                    "targetPhrase": "La resolución de la Asamblea General insta a ambas partes a reanudar negociaciones bilaterales sin demoras.",
-                    "expectedKeywords": [
-                        "La",
-                        "resolución"
-                    ]
+                    "prompt": "¿Qué establece la Disposición Transitoria Primera de la Constitución Nacional Argentina de 1994?",
+                    "options": [
+                        "Que la recuperación pacífica de la soberanía sobre las islas conforme al derecho internacional es un objetivo permanente e irrenunciable de la Nación.",
+                        "Que la República Argentina renuncia a toda reclamación sobre territorios insulares del Atlántico Sur.",
+                        "Que la política exterior será delegada exclusivamente en organismos privados.",
+                        "Que se prohíbe la diplomacia multilateral en organismos de la ONU."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "La cláusula constitucional fija la soberanía argentina como política de Estado irrenunciable por vías de negociación pacífica."
                 }
             ]
+        },
+        "checkpointTest": {
+            "items": [
+                {
+                    "prompt": "¿Cómo se denomina formalmente el comité de las Naciones Unidas encargado de examinar los territorios no autónomos sujetos a descolonización?",
+                    "options": [
+                        "Comité Especial de Descolonización (Comité de los 24 o C-24)",
+                        "Consejo de Administración Fiduciaria de Ginebra",
+                        "Tribunal Penal Militar Internacional",
+                        "Comisión de Asuntos Financieros y Comerciales"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "El Comité de los 24 (C-24) es el órgano de la Asamblea General que supervisa el cumplimiento de la Declaración sobre Descolonización (Res. 1514)."
+                },
+                {
+                    "prompt": "¿Qué principio del derecho internacional aplica la diplomacia argentina en controversias territoriales derivadas de la ocupación colonial?",
+                    "options": [
+                        "El principio de integridad territorial del Estado y la solución pacífica mediante negociación bilateral",
+                        "El principio de la fuerza de conquista armada inmediata",
+                        "La imposición de sanciones comerciales unilaterales sin mediación",
+                        "El arbitraje forzoso sin consentimiento soberano"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Argentina defiende el principio de integridad territorial quebrantado por la ocupación colonial ilegítima."
+                }
+            ],
+            "passThreshold": 0.8
         }
     },
     "es-ar-u34-l5": {
         "id": "es-ar-u34-l5",
-        "subject": "argentine-spanish",
-        "unit": 34,
-        "lessonNumber": 5,
-        "title": "C2 Master Capstone: South American Summit Communiqué & Multilateral Negotiation Defense",
+        "unit": "es-ar-u34",
         "level": "C2",
-        "objective": "C2 Master Capstone: South American Summit Communiqué & Multilateral Negotiation Defense (Declaración de Cumbre Presidencial).",
+        "objective": "Proyecto Capstone C2: Redacción, Negociación y Defensa de una Declaración Conjunta Presidencial Multilateral.",
         "presentation": {
-            "explanation": "Proyecto de maestría: redacción, debate y defensa de una Declaración Conjunta Presidencial que concilie intereses económicos, cláusulas medioambientales y mecanismos de resolución pacífica de controversias sin comprometer la soberanía nacional.",
+            "explanation": "Como culminación del nivel C2 Sovereign Omni-Mastery en lengua española rioplatense, el estudiante asume el rol de Canciller y Plenipotenciario en una Cumbre Extraordinaria de Jefes de Estado y de Gobierno de América del Sur. En este ejercicio supremo de síntesis discursiva, jurídica y política, se elabora, debate y defiende el texto de una Declaración Conjunta Presidencial y Acta de Consenso Multilateral. El documento debe articular con impecable precisión estilística y rigor terminológico: cláusulas preambulares de legitimación multilateral («Reafirmando los lazos históricos de hermandad sudamericana y la vocación irrevocable de paz...»), compromisos operativos vinculantes en materia de integración energética, infraestructura bioceánica y protección de acuíferos estratégicos, mecanismos conjuntos de monitoreo ambiental y cláusulas de solución pacífica de diferendos con observancia estricta del principio de no intervención y autodeterminación soberana. El texto culmina con la fórmula solemne de clausura y suscripción protocolar: «En fe de lo cual, los Presidentes de las Repúblicas signatarias suscriben la presente Declaración en dos ejemplares originales, a un solo tenor y a un mismo efecto».",
             "examples": [
                 {
-                    "target": "Los mandatarios suscribieron la declaración conjunta reafirmando la vocación de paz e integración sudamericana.",
-                    "reading": "Los mandatarios suscribieron la declaración conjunta reafirmando la vocación de paz e integración sudamericana.",
-                    "translation": "The heads of state signed the joint declaration reaffirming their dedication to South American peace and integration."
+                    "target": "Los jefes de Estado suscribieron la declaración conjunta reafirmando la integración bioceánica y la gobernanza ambiental soberana.",
+                    "reading": "Los jefes de Estado suscribieron la declaración conjunta reafirmando la integración bioceánica y la gobernanza ambiental soberana.",
+                    "translation": "The heads of state signed the joint declaration reaffirming bioceanic integration and sovereign environmental governance."
                 },
                 {
-                    "target": "Se acordó establecer una secretaría técnica permanente para supervisar el cumplimiento de los acuerdos.",
-                    "reading": "Se acordó establecer una secretaría técnica permanente para supervisar el cumplimiento de los acuerdos.",
-                    "translation": "It was agreed to establish a permanent technical secretariat to supervise treaty compliance."
+                    "target": "En fe de lo cual, los mandatarios firman la presente acta de consenso comprometiendo a sus respectivos gobiernos a su fiel cumplimiento.",
+                    "reading": "En fe de lo cual, los mandatarios firman la presente acta de consenso comprometiendo a sus respectivos gobiernos a su fiel cumplimiento.",
+                    "translation": "In witness whereof, the leaders sign this act of consensus binding their respective governments to its faithful fulfillment."
                 }
             ],
             "mnemonics": [
-                "\"Suscribir\" viene de \"sub\" (debajo) + \"scribere\" (escribir), es decir, firmar formalmente al pie de un documento."
+                "«En fe de lo cual... (In witness whereof...)»: cláusula fedataria y solemne que precede las firmas de los dignatarios plenipotenciarios en la conclusión de un tratado o declaración de Estado."
             ],
             "culturalNotes": [
-                "Las declaraciones conjuntas de cumbres sudamericanas requieren consenso unánime de todos los presidentes participantes."
+                "Las cumbres de mandatarios suramericanos exigen la redacción por consenso de documentos que reflejen equilibrios políticos sensibles y compromisos de integración regional."
             ]
         },
         "guidedPractice": {
-            "exercises": [
-                {
-                    "type": "synthesis",
-                    "prompt": "Conduct a diplomatic analysis in ARGENTINE-SPANISH concerning: C2 Master Capstone: South American Summit Communiqué & Multilateral Negotiation Defense (Declaración de Cumbre Presidencial).",
-                    "targetPhrase": "Los mandatarios suscribieron la declaración conjunta reafirmando la vocación de paz e integración sudamericana.",
-                    "expectedKeywords": [
-                        "Los",
-                        "mandatarios"
-                    ]
-                }
-            ],
             "items": [
                 {
-                    "type": "synthesis",
-                    "prompt": "Conduct a diplomatic analysis in ARGENTINE-SPANISH concerning: C2 Master Capstone: South American Summit Communiqué & Multilateral Negotiation Defense (Declaración de Cumbre Presidencial).",
-                    "targetPhrase": "Los mandatarios suscribieron la declaración conjunta reafirmando la vocación de paz e integración sudamericana.",
-                    "expectedKeywords": [
-                        "Los",
-                        "mandatarios"
-                    ]
-                }
-            ]
-        },
-        "checkpointTest": {
-            "items": [
-                {
-                    "prompt": "¿Cuál es la fórmula formal para asentar la firma de los jefes de Estado en un tratado internacional?",
+                    "prompt": "¿Cuál es la fórmula solemne que encabeza tradicionalmente la parte dispositiva de una Declaración Conjunta de Jefes de Estado?",
                     "options": [
-                        "\"Si les parece bien dejen un comentario abajo...\"",
-                        "\"Listo, firmamos esto y nos vamos a almorzar...\"",
-                        "\"Documento no revisado por las autoridades...\"",
-                        "\"En fe de lo cual, los plenipotenciarios suscriben el presente tratado...\""
+                        "«Los Presidentes y Jefes de Delegación reunidos en la Cumbre Presidencial DECIDEN y DECLARAN conjuntamente:...»",
+                        "«Se avisa a quien corresponda que a partir de mañana:...»",
+                        "«Las empresas privadas del continente sugieren amablemente:...»",
+                        "«En respuesta a comentarios informales de prensa:...»"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "\"En fe de lo cual...\" es la fórmula solemne de clausura en tratados de derecho internacional."
+                    "answerIndex": 0,
+                    "explanation": "Las declaraciones de cumbres presidenciales estructuran sus acuerdos mediante verbos formales solemnes de decisión y compromiso soberano."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "type": "synthesis",
-                    "prompt": "Conduct a diplomatic analysis in ARGENTINE-SPANISH concerning: C2 Master Capstone: South American Summit Communiqué & Multilateral Negotiation Defense (Declaración de Cumbre Presidencial).",
-                    "targetPhrase": "Los mandatarios suscribieron la declaración conjunta reafirmando la vocación de paz e integración sudamericana.",
-                    "expectedKeywords": [
-                        "Los",
-                        "mandatarios"
-                    ]
+                    "prompt": "¿Qué función cumple la cláusula de estilo «a un solo tenor y a un mismo efecto» en la suscripción de tratados bilaterales o multilaterales?",
+                    "options": [
+                        "Garantizar que todos los ejemplares originales del tratado poseen idéntico valor legal, validez probatoria y fuerza vinculante.",
+                        "Exigir que el texto sea leído en voz alta por todos los ciudadanos.",
+                        "Indicar que el tratado caducará en veinticuatro horas si no se publica en diarios.",
+                        "Establecer que solo la copia guardada en el banco tiene validez jurídica."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«A un solo tenor y a un mismo efecto» es la garantía jurídica de plena autenticidad recíproca entre los originales suscritos."
                 }
             ]
+        },
+        "checkpointTest": {
+            "items": [
+                {
+                    "prompt": "En el derecho diplomático e internacional, ¿qué acredita formalmente a un negociador para adoptar y firmar un tratado en nombre de su Estado con plena validez?",
+                    "options": [
+                        "Plenos Poderes (Plena Potentia) emitidos por el jefe de Estado o Ministro de Relaciones Exteriores",
+                        "Un carnet de conducir internacional vigente",
+                        "Una carta de recomendación universitaria",
+                        "Un título honorario emitido por un club social"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Los Plenos Poderes son el instrumento solemne que legitima al plenipotenciario para obligar jurídicamente a su Estado."
+                },
+                {
+                    "prompt": "¿Qué estatus magistral corona la finalización íntegra de los 170 cursos de la currícula de Español Rioplatense en FEARN?",
+                    "options": [
+                        "Nivel C2 Sovereign Omni-Mastery con dominio estilístico, cultural, jurídico y comunicativo integral",
+                        "Certificado de asistencia básica A1",
+                        "Constancia de lectura elemental B1",
+                        "Membresía turística temporal"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "La culminación de la Unidad 34 corona el nivel C2 Sovereign Omni-Mastery de dominio absoluto del idioma."
+                }
+            ],
+            "passThreshold": 0.8
         }
     }
 };
