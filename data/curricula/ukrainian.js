@@ -7865,53 +7865,62 @@
     "subject": "ukrainian",
     "unit": 19,
     "lessonNumber": 1,
-    "title": "Дієприкметники та дієприслівники (Participles & Gerunds) (Part 1)",
+    "title": "Пасивні дієприкметники минулого часу (-ний/-тий) та правопис однієї «н»",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 19.1) with authentic linguistic precision.",
+    "objective": "Опанувати творення пасивних дієприкметників минулого часу за допомогою суфіксів -н-, -ен-, -єн-, -т- та засвоїти фундаментальне правило написання однієї букви «н» в українських дієприкметниках.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Пасивні дієприкметники минулого часу позначають ознаку предмета за дією, яку над ним здійснив інший суб'єкт:\n\n1. Способи творення пасивних дієприкметників:\n   - Суфікс «-Н-» (від основ на -а-/-я-): прочитати -> прочитаний, написати -> написаний, збудувати -> збудований.\n   - Суфікс «-ЕН- / -ЄН-» (від основ на приголосний або на -и-/-і- з чергуванням): зробити -> зроблений, вивчити -> вивчений, загоїти -> загоєний, зберегти -> збережений.\n   - Суфікс «-Т-» (від односкладових основ або основ на -ер-, -у-, -и-): розбити -> розбитий, здобути -> здобутий, зшити -> зшитий, терти -> тертий, закрити -> закритий.\n\n2. ФУНДАМЕНТАЛЬНЕ ПРАВИЛО ПРАВОПИСУ (Одна буква «н»):\nВ українських пасивних дієприкметниках суфікс «-н-» ЗАВЖДИ пишеться з ОДНІЄЮ буквою «н»:\n   - Написаний, прочитаний, зроблений, створений, вихований, організований (на відміну від російської мови, де пишеться «нн»).\n\n3. Розрізнення дієприкметників та прикметників із подвоєнням «-нн-»:\n   - Дієприкметник (ознака за дією, одна «н»): здійснений план, нездоланий ворог (якого не здолали), незлічений натовп.\n   - Прикметник (висока якість / неможливість дії, подвоєння «-нн-» і наголошений суфікс): нездола́нний (непереможний), незліче́нний (незліченна кількість), неоціне́нний, незрівня́нний.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Наукова стаття, написана молодим київським дослідником, отримала високу оцінку експертів.",
+          "reading": "[nɐuˈkɔwɐ stɐtʲˈtʲɑ, nɐˈpɪsɐnɐ mɔlɔˈdɪm ˈkɪjiwsʲkɪm dɔsʲˈlʲidnɪkɔm, ɔtrɪˈmɑlɐ wɪˈsɔku ɔˈt͡sʲinku ɛksˈpɛrtʲiw] (nah-oo-KOH-vah staht-TYAH, nah-PY-sah-nah moh-loh-DYM KY-yeew-s'kym dohs-LEED-ny-kohm, oh-try-MAH-lah vy-SOH-koo oh-TSEEN-koo eks-PEHR-teew)",
+          "translation": "The scientific article written by the young Kyiv researcher received a high evaluation from experts."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 19-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Вчасно відкритий інноваційний центр відкриває безмежні перспективи для української молоді.",
+          "reading": "[ˈwtʃɑsnɔ wʲidˈkrɪtɪj innɔwɐt͡sʲijˈnɪj t͡sɛntr wʲidkrɪˈwɑjɛ bɛzˈmɛʒnʲi pɛrspɛkˈtɪwɪ dlʲɑ ukrɐˈjinʲsʲkɔji ˈmɔlɔdʲi] (VCHAH-snoh veed-KRY-tyy een-noh-vah-tseey-NYY tsehntr veed-kry-VAH-yeh bez-MEHZH-nee pehr-spehk-TY-vy dlyah oo-krah-YEEN-s'koh-yee MOH-loh-dee)",
+          "translation": "The timely opened innovation center opens boundless prospects for Ukrainian youth."
+        },
+        {
+          "target": "Усі заплановані реформи були успішно реалізовані урядовою командою.",
+          "reading": "[uˈsʲi zɐplɐˈnɔwɐnʲi rɛˈfɔrmɪ buˈlɪ usʲˈpʲiʃnɔ rɛɐlʲizɔˈwɑnʲi urʲɑˈdɔwɔju kɔˈmɑndɔju] (oo-SEE zah-plah-NOH-vah-nee reh-FOHR-my boo-LY oos-PEESH-noh reh-ah-lee-zoh-VAH-nee oo-ryah-DOH-woh-yoo koh-MAHN-doh-yoo)",
+          "translation": "All planned reforms were successfully implemented by the governmental team."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "В українському дієприкметнику — завжди одна «н»: «написаний», «зроблений», «прочитаний»! Подвоєння «нн» — тільки в особливих прикметниках з наголосом на «-енний/-анний»!"
+      ],
+      "culturalNotes": [
+        "Написання однієї літери «н» у суфіксах дієприкметників є фундаментальною відмінністю української графічної системи від інших слов'янських мов."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Родина\":",
+          "prompt": "Оберіть правильний варіант орфографічного запису пасивного дієприкметника «створе(н/нн)ий»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.1.",
-            "Неправильне відмінкове узгодження зі словом «Батько»",
-            "Порушення законів евфонії та словотворення для «Мати»",
-            "Стилістично некоректна синтаксична конструкція з «Брат»"
+            "Створений (Always single letter н in Ukrainian passive participles)",
+            "Створенний",
+            "Створенийй",
+            "Створний"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "В українських дієприкметниках суфікс пишеться тільки з однією буквою «н»: «створений»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Родина\":",
+          "prompt": "Яке слово є пасивним дієприкметником із суфіксом -т-?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.1.",
-            "Порушення законів евфонії та словотворення для «Мати»",
-            "Стилістично некоректна синтаксична конструкція з «Брат»",
-            "Неправильне відмінкове узгодження зі словом «Батько»"
+            "Здобутий (Passive participle with suffix -т-)",
+            "Здобуток",
+            "Здобувати",
+            "Здобувши"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Здобутий» — це пасивний дієприкметник минулого часу із суфіксом «-т-»."
         }
       ]
     },
@@ -7919,17 +7928,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Родина\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому пасивний дієприкметник написано орфографічно правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.1.",
-            "Стилістично некоректна синтаксична конструкція з «Брат»",
-            "Неправильне відмінкове узгодження зі словом «Батько»",
-            "Порушення законів евфонії та словотворення для «Мати»"
+            "Проєкт, розроблений нашими інженерами, здобув головний приз на конкурсі.",
+            "Проєкт, розробленний нашими інженерами, здобув головний приз.",
+            "Проєкт, зробленийй інженерами, здобув приз.",
+            "Проєкт, розроблетий інженерами, здобув приз."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Слово «розроблений» пишеться з однією буквою «н»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u19-l2": {
@@ -7937,53 +7947,62 @@
     "subject": "ukrainian",
     "unit": 19,
     "lessonNumber": 2,
-    "title": "Дієприкметники та дієприслівники (Participles & Gerunds) (Part 2)",
+    "title": "Активні дієприкметники: нормативні форми на -лий та заміни суржикових кальок",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 19.2) with authentic linguistic precision.",
+    "objective": "Опанувати творення нормативних активних дієприкметників на -лий (дозрілий, зів'ялий, пожовклий) та засвоїти культуру усунення невластивих активних дієприкметників на -учий/-ячий.",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській літературній мові система активних дієприкметників має чіткі межі та стилістичні закономірності:\n\n1. Нормативні активні дієприкметники минулого часу на «-ЛИЙ»:\nУтворюються від неперехідних дієслів доконаного виду, що позначають перехід суб'єкта в новий якісний стан (є повністю питомими та нормативними):\n   - Дозріти -> дозрілий (дозрілі яблука);\n   - Зів'янути -> зів'ялий (зів'яле листя);\n   - Пожовкнути -> пожовклий;\n   - Посивіти -> посивілий;\n   - Заснути -> заснулий;\n   - Ожилий, розквітлий, зголоднілий, потьмянілий.\n\n2. СТИЛІСТИЧНЕ ОБМЕЖЕННЯ (Форми на «-учий / -ючий / -ачий / -ячий»):\nАктивні дієприкметники теперішнього часу на «-учий/-ячий» є неприродними для українського синтаксису при керуванні залежними словами. Їх слід замінювати нормативними мовними засобами:\n   - Калька: *працюючий персонал* -> Норма: «персонал, що працює» / «працівники»;\n   - Калька: *головуючий на зборах* -> Норма: «голова зборів»;\n   - Калька: *відпочиваючі на пляжі* -> Норма: «відпочивальники»;\n   - Калька: *палаючий вогонь* -> Норма: «палкий вогонь» / «вогонь, що палає»;\n   - Калька: *оточуюче середовище* -> Норма: «довкілля» / «навколишнє середовище»;\n   - Калька: *пануюча думка* -> Норма: «панівна думка».\n\n3. Коли «-учий/-ячий» зберігаються:\nТільки тоді, коли вони перейшли в чисті прикметники або іменники зі значенням постійної властивості: «дрімучий ліс», «лежачий камінь», «летюча миша», «квітучий сад».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "В осінньому парку повільно кружляло золотисте пожовкле листя кленів.",
+          "reading": "[w ɔˈsʲinʲːɔmu ˈpɑrku pɔˈwʲilʲnɔ kruʒˈlʲɑlɔ zɔlɔˈtɪstɛ pɔˈʒɔwklɛ ˈlɪsʲtʲɑ ˈklɛnʲiw] (v oh-SEEN-nyoh-moo PAHR-koo poh-VEEL'-noh kroozh-LYAH-loh zoh-loh-TYS-teh poh-ZHOHV-kleh LYS-tyah KLEH-neew)",
+          "translation": "Golden yellowed maple leaves slowly swirled in the autumn park."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 19-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Голова засідання надав слово провідному експертові з питань екології довкілля.",
+          "reading": "[ɦɔlɔˈwɑ zɐˈsʲidɐnʲːɑ nɐˈdɑw ˈslɔwɔ prɔwʲidˈnɔmu ɛksˈpɛrtɔwʲi z pɪˈtɑnʲ ɛkɔˈlɔɦʲiji dɔwˈkʲilʲːɑ] (hoh-loh-VAH zah-SEE-dahn-nyah nah-DAHV SLOH-woh proh-veed-NOH-moo eks-PEHR-toh-vee z py-TAHN' eh-koh-LOH-hee-yee dov-KEEL-lyah)",
+          "translation": "The chairman of the meeting gave the floor to a leading expert on environmental protection of the surrounding nature."
+        },
+        {
+          "target": "Студенти, які успішно склали всі іспити, отримають підвищену академічну стипендію.",
+          "reading": "[stuˈdɛntɪ, jɑˈkʲi usʲˈpʲiʃnɔ ˈsklɑlɪ wˈsʲi ˈispɪtɪ, ɔtrɪˈmɑjutʲ pʲidˈwɪʃtʃɛnu ɐkɐdɛˈmʲitʃnu stɪˈpɛndʲiju] (stoo-DEN-ty, yah-KEE oos-PEESH-noh SKLAH-ly VSEE EES-py-ty, oh-try-MAH-yoot' peed-VYSH-cheh-noo ah-kah-deh-MEECH-noo sty-PEN-dee-yoo)",
+          "translation": "Students who successfully passed all exams will receive an increased academic scholarship."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Забудь кальковане «працюючі люди» — кажи красиво: «люди, що працюють» або «працівники»! А від переходу стану кажи «-лий»: «пожовклий», «дозрілий»!"
+      ],
+      "culturalNotes": [
+        "Очищення української мови від неорганічних дієприкметників на -учий/-ячий було однією з головних засад мовознавчої школи Олекси Синявського та Юрія Шевельова."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Батько\":",
+          "prompt": "Як нормативно відредагувати канцеляризм «всі бажаючі взяти участь»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.2.",
-            "Неправильне відмінкове узгодження зі словом «Мати»",
-            "Порушення законів евфонії та словотворення для «Брат»",
-            "Стилістично некоректна синтаксична конструкція з «Сестра»"
+            "Усі охочі / усі, хто бажає взяти участь (Authentic replacement of active participle in -ючий)",
+            "Всі бажающі",
+            "Всі хотячі",
+            "Всі бажаючі особи"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативною заміною суржикового «бажаючі» є слово «охочі» або підрядне речення «усі, хто бажає»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Батько\":",
+          "prompt": "Який активний дієприкметник на -лий є повністю нормативним в українській мові?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.2.",
-            "Порушення законів евфонії та словотворення для «Брат»",
-            "Стилістично некоректна синтаксична конструкція з «Сестра»",
-            "Неправильне відмінкове узгодження зі словом «Мати»"
+            "Дозрілий (Normative active past participle from intransitive verb дозріти)",
+            "Дозріваючий",
+            "Зріючий",
+            "Дозрівавший"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Форма на -лий («дозрілий») від неперехідного дієслова доконаного виду є абсолютно нормативною."
         }
       ]
     },
@@ -7991,17 +8010,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Батько\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому НЕМАЄ штучних калькованих дієприкметників на -учий/-ячий:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.2.",
-            "Стилістично некоректна синтаксична конструкція з «Сестра»",
-            "Неправильне відмінкове узгодження зі словом «Мати»",
-            "Порушення законів евфонії та словотворення для «Брат»"
+            "Науковці провели ґрунтовний аналіз стану навколишнього довкілля.",
+            "Науковці провели аналіз оточуючого середовища.",
+            "Всі відпочиваючі на березі насолоджувалися сонцем.",
+            "Головуючий на конференції відкрив пленарне засідання."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "У першому реченні використано питоме слово «довкілля» замість кальки «оточуюче середовище»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u19-l3": {
@@ -8009,53 +8029,62 @@
     "subject": "ukrainian",
     "unit": 19,
     "lessonNumber": 3,
-    "title": "Дієприкметники та дієприслівники (Participles & Gerunds) (Part 3)",
+    "title": "Дієприслівники теперішнього (-учи/-ючи) та минулого часу (-ши/-вши)",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 19.3) with authentic linguistic precision.",
+    "objective": "Опанувати творення дієприслівників теперішнього часу (недоконаний вид: -учи/-ючи, -ачи/-ячи) та минулого часу (доконаний вид: -ши/-вши) та їх семантичну роль додаткової дії.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Дієприслівник (Adverbial Participle / Gerund) — незмінювана дієслівна форма, що виражає додаткову дію, яка супроводжує головну дію, названу присудком:\n\n1. Дієприслівники теперішнього часу (недоконаний вид):\nПозначають додаткову дію, що відбувається одночасно з головною. Утворюються від основи теперішнього часу за допомогою суфіксів:\n   - «-УЧИ / -ЮЧИ» (I дієвідміна): читати (чита-ють) -> читаючи; писати (пиш-уть) -> пишучи; знати -> знаючи; іти -> ідучи.\n   - «-АЧИ / -ЯЧИ» (II дієвідміна): сидіти (сид-ять) -> сидячи; бачити (бач-ать) -> бачачи; стояти -> стоячи; летіти -> летячи.\n\n2. Дієприслівники минулого часу (переважно доконаний вид):\nПозначають додаткову дію, яка передувала головній дії. Утворюються від основи інфінітива за допомогою суфіксів:\n   - «-ВШИ» (після основ на голосний): прочитати -> прочитавши; зробити -> зробивши; написати -> написавши; закінчити -> закінчивши.\n   - «-ШИ» (після основ на приголосний): принести (приніс) -> принісши; зберегти -> зберігши; спікти -> спікши; допомогти -> допомігши.\n\n3. Дієприслівники зі зворотним постфіксом:\nПостфікс «-сь / -ся» зберігається наприкінці: вмиваючись, зустрівшись, посміхаючись, повернувшись.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Уважно аналізуючи первинні архівні джерела, історик відкрив невідомі факти про козацьку добу.",
+          "reading": "[uˈwɑʒnɔ ɐnɐlʲiˈzujut͡ʃɪ pɛrˈwɪnʲnʲi ɐrˈxiwnʲi dʒɛrɛˈlɑ, isˈtɔrɪk wʲidˈkrɪw nɛwʲiˈdɔmʲi ˈfɑktɪ prɔ kɔˈzɑt͡sʲku ˈdɔbu] (oo-VAHZH-noh ah-nah-lee-ZOO-yoo-chy pehr-VYN-nee ahr-KHEEV-nee dzheh-reh-LAH, ees-TOH-ryk veed-KRYV neh-vee-DOH-mee FAHK-ty proh koh-ZAHT-s'koo DOH-boo)",
+          "translation": "Carefully analyzing primary archival sources, the historian discovered unknown facts about the Cossack era."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 19-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Завершивши попередні досліди, наукова група підготувала детальний звіт для міжнародної публікації.",
+          "reading": "[zɐwɛrˈʃɪwʃɪ pɔpɛˈrɛdnʲi ˈdɔsʲlʲidɪ, nɐuˈkɔwɐ ˈhrupɐ pʲidɦɔtuˈwɑlɐ dɛˈtɑlʲnɪj zwʲit dlʲɑ mʲiʒnɐˈrɔdnɔji publʲiˈkɑt͡sʲiji] (zah-vehr-SHYV-shy poh-peh-RED-nee DOHS-ly-dy, nah-oo-KOH-vah HROO-pah peed-hoh-too-VAH-lah deh-TAHL'-nyy zveet dlyah meezh-nah-ROHD-noh-yee poob-lee-KAH-tsee-yee)",
+          "translation": "Having finished preliminary experiments, the research group prepared a detailed report for international publication."
+        },
+        {
+          "target": "Щиро посміхаючись друзям, мандрівник розповів про свої захопливі подорожі Карпатами.",
+          "reading": "[ˈʃtʃɪrɔ pɔsmʲiˈxɑjutʃɪsʲ ˈdruzʲɐm, mɐnˈdrʲiwnɪk rɔzpɔˈwʲiw prɔ swɔˈji zɐxɔpˈlɪwʲi pɔdɔˈrɔʒʲi kɐrˈpɑtɐmɪ] (SHCHY-roh pohs-mee-KHAH-yoo-chys' DROOZ-yahm, mahn-DREEV-nyk roz-poh-VEEV proh swoh-YEE zah-khohp-LY-vee poh-doh-ROH-zhee kahr-PAH-tah-my)",
+          "translation": "Smiling sincerely at friends, the traveler talked about his fascinating travels through the Carpathians."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Теперішній час — що роблячи? «читаючи», «пишучи»; минулий час — що зробивши? «зробивши», «принісши»!"
+      ],
+      "culturalNotes": [
+        "Дієприслівникові форми надають українській художній та науковій мові динамізму, лаконічності та високого стилістичного ритму."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Мати\":",
+          "prompt": "Оберіть правильний дієприслівник минулого часу від дієслова «принести» (основа на приголосний):",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.3.",
-            "Неправильне відмінкове узгодження зі словом «Брат»",
-            "Порушення законів евфонії та словотворення для «Сестра»",
-            "Стилістично некоректна синтаксична конструкція з «Дідусь»"
+            "Принісши (Suffix -ши after consonant stem)",
+            "Принісвши",
+            "Принесячи",
+            "Принесучи"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Після основ на приголосний додається суфікс «-ши»: «принісши»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Мати\":",
+          "prompt": "Який суфікс використовується для творення дієприслівника теперішнього часу від дієслова I дієвідміни «співати» (співають)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.3.",
-            "Порушення законів евфонії та словотворення для «Сестра»",
-            "Стилістично некоректна синтаксична конструкція з «Дідусь»",
-            "Неправильне відмінкове узгодження зі словом «Брат»"
+            "-ючи (співаючи - from 1st conjugation verb)",
+            "-ячи",
+            "-вши",
+            "-тий"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Від дієслова I дієвідміни утворюється дієприслівник із суфіксом «-ючи»: «співаючи»."
         }
       ]
     },
@@ -8063,17 +8092,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Мати\": Which sentence is completely correct?",
+          "prompt": "Оберіть рядок, у якому ВСІ слова є дієприслівниками:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.3.",
-            "Стилістично некоректна синтаксична конструкція з «Дідусь»",
-            "Неправильне відмінкове узгодження зі словом «Брат»",
-            "Порушення законів евфонії та словотворення для «Сестра»"
+            "Зробивши, працюючи, принісши, усміхаючись.",
+            "Зроблений, працюючий, принесений, усміхнений.",
+            "Зробити, праця, приніс, усмішка.",
+            "Зробивши, зроблений, праця, працювати."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Всі слова першого рядка відповідають на питання «що роблячи? що зробивши?» і мають характерні суфікси -вши, -ючи, -ши, -ючись."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u19-l4": {
@@ -8081,53 +8111,62 @@
     "subject": "ukrainian",
     "unit": 19,
     "lessonNumber": 4,
-    "title": "Дієприкметники та дієприслівники (Participles & Gerunds) (Part 4)",
+    "title": "Дієприслівниковий зворот: єдність суб'єкта дії та синтаксична гігієна",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 19.4) with authentic linguistic precision.",
+    "objective": "Опанувати непорушний закон українського синтаксису про єдність суб'єкта дії в реченнях із дієприслівниковим зворотом та усунення граматичних помилок типу Dangling Participle.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Синтаксичні правила вживання дієприслівникового звороту в українській мові мають суворі нормативні обмеження:\n\n1. НЕПОРУШНИЙ ЗАКОН СПІЛЬНОГО СУБ'ЄКТА:\nДія, виражена дієприслівником (додаткова дія), і дія, виражена присудком (основна дія), МУСЯТЬ обов'язково виконуватися ОДНІЄЮ Й ТІЄЮ Ж особою чи предметом (граматичним підметом):\n   - Правильно: «Повертаючись додому, я зустрів свого шкільного вчителя» (Я повертався і я зустрів).\n\n2. СИНТАКСИЧНІ ПОМИЛКИ (Dangling Participle):\n   - Помилка 1 (Дію дієприслівника виконує не підмет):\n     * Неправильно: «Під'їжджаючи до Києва, у мене злетів капелюх» (Виходить, що капелюх сам під'їжджав до Києва!).\n     * Нормативна заміна: «Під'їжджаючи до Києва, я загубив свій капелюх» АБО «Коли я під'їжджав до Києва, з мене злетів капелюх».\n   - Помилка 2 (Вживання у безособових реченнях із суб'єктом у непрямому відмінку):\n     * Неправильно: «Читаючи роман, мені стало сумно».\n     * Нормативна заміна: «Читаючи роман, я відчув сум» АБО «Коли я читав роман, мені стало сумно».\n\n3. Коли дієприслівниковий зворот дозволений у безособовому реченні:\nТільки тоді, коли головний присудок виражений інфінітивом зі значенням загальної настанови чи правила:\n   - «Переходячи вулицю, слід уважно дивитися по сторонах» (нормативно!).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Ретельно перевіривши всі розрахунки, головний інженер особисто підписав технічний проєкт.",
+          "reading": "[ˈrɛtɛlʲnɔ pɛrɛˈwʲirɪwʃɪ wˈsʲi rɔzrɐˈxunkɪ, ɦɔlɔwˈnɪj inʒɛˈnɛr ɔsɔˈbɪstɔ pʲidpɪˈsɑw tɛxˈnʲitʃnɪj prɔˈjɛkt] (REH-tel'-noh peh-reh-VEER-yv-shy VSEE roz-rah-KHOON-ky, hoh-lohv-NYY een-zheh-NEHR oh-soh-BYS-toh peed-py-SAHV tekh-NEECH-nyy proh-YEHKT)",
+          "translation": "Having thoroughly checked all calculations, the chief engineer personally signed the technical project."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 19-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Подорожуючи мальовничим Поділлям, ми дізналися багато захопливих легенд про стародавні фортеці.",
+          "reading": "[pɔdɔrɔˈʒujutʃɪ mɐˈlʲɔwnɪtʃɪm pɔˈdʲilʲːɐm, mɪ dʲizˈnɑlɪsʲɑ bɐˈɦɑtɔ zɐxɔpˈlɪwɪx lɛˈɦɛnd prɔ stɐrɔˈdɑwnʲi fɔrˈtɛt͡sʲi] (poh-doh-roh-ZHOO-yoo-chy mah-LYOHV-ny-chym poh-DEEL-lyahm, my deez-NAH-lys'-yah bah-HAH-toh zah-khohp-LY-vykh leh-HEND proh stah-roh-DAHV-nee fohr-TET-see)",
+          "translation": "Traveling through picturesque Podillia, we learned many fascinating legends about ancient fortresses."
+        },
+        {
+          "target": "Коли я слухав цю зворушливу українську пісню, на мої очі навернулися сльози.",
+          "reading": "[kɔˈlɪ jɑ ˈsluxɐw t͡sʲu zwɔˈruʃlɪwu ukrɐˈjinʲsʲku ˈpʲisʲnʲu, nɑ mɔˈji ˈɔtʃʲi nɐwɛrˈnulɪsʲɑ ˈsʲlʲɔzɪ] (koh-LY yah SLOO-khahv TSYOO zwoh-ROOSH-ly-voo oo-krah-YEEN-s'koo PEES-nyoo, nah moh-YEE OH-chee nah-vehr-NOO-lys'-yah SLYOH-zy)",
+          "translation": "When I was listening to this moving Ukrainian song, tears came to my eyes."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Підмет речення повинен робити ОБИДВІ дії: і головну (присудок), і додаткову (дієприслівник)!"
+      ],
+      "culturalNotes": [
+        "Завдання на виявлення помилок у вживанні дієприслівникових зворотів є незмінною складовою тестування з української мови на НМТ / ЗНО."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Брат\":",
+          "prompt": "Оберіть граматично правильне продовження речення «Повертаючись увечері додому, ...»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.4.",
-            "Неправильне відмінкове узгодження зі словом «Сестра»",
-            "Порушення законів евфонії та словотворення для «Дідусь»",
-            "Стилістично некоректна синтаксична конструкція з «Бабуся»"
+            "Ми зустріли давніх шкільних друзів. (Correct shared subject: ми поверталися і ми зустріли)",
+            "У мене розрядився мобільний телефон.",
+            "Пішов сильний дощ.",
+            "Нам стало дуже весело."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Суб'єкт «ми» одночасно виконує і дію дієприслівника («повертаючись»), і присудка («зустріли»)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Брат\":",
+          "prompt": "Чому речення «Переглядаючи старі фотографії, мені згадалося дитинство» є помилковим?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.4.",
-            "Порушення законів евфонії та словотворення для «Дідусь»",
-            "Стилістично некоректна синтаксична конструкція з «Бабуся»",
-            "Неправильне відмінкове узгодження зі словом «Сестра»"
+            "У безособовому реченні дію дієприслівника не виконує підмет (Dangling participle syntax error)",
+            "Немає коми після звороту",
+            "Слово фотографії написано неправильно",
+            "Використано недоконаний вид"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "У цьому реченні граматичним підметом є «дитинство», але дитинство не могло переглядати фотографії (діяч позначений давальним відмінком «мені»)."
         }
       ]
     },
@@ -8135,17 +8174,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Брат\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому дієприслівниковий зворот побудовано з абсолютною граматичною правильністю:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.4.",
-            "Стилістично некоректна синтаксична конструкція з «Бабуся»",
-            "Неправильне відмінкове узгодження зі словом «Сестра»",
-            "Порушення законів евфонії та словотворення для «Дідусь»"
+            "Працюючи над дисертацією, аспірант опрацював понад сто наукових джерел.",
+            "Працюючи над дисертацією, аспірантові знадобилося багато часу.",
+            "Піднявшись на вершину Говерли, перед нами відкрився дивовижний краєвид.",
+            "Виступаючи на сцені, актору здалося все казковим."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "У першому варіанті підмет «аспірант» виконує обидві дії: «працював» і «опрацював»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u19-l5": {
@@ -8153,53 +8193,62 @@
     "subject": "ukrainian",
     "unit": 19,
     "lessonNumber": 5,
-    "title": "Дієприкметники та дієприслівники (Participles & Gerunds) (Part 5)",
+    "title": "Пунктуація та стилістика відокремлених дієприкметникових і дієприслівникових зворотів",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 19.5) with authentic linguistic precision.",
+    "objective": "Опанувати пунктуаційні правила виділення дієприкметникових і дієприслівникових зворотів та стилістичну майстерність їх використання у текстах.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Відокремлення дієприкметникових та дієприслівникових зворотів на письмі регулюється чіткими синтаксичними правилами:\n\n1. Пунктуація дієприкметникових зворотів (Participle clauses):\n   - Виділяється комами, якщо стоїть ПІСЛЯ означуваного іменника:\n     * «Книжка, прочитана за один вечір, справила на мене сильне враження».\n   - НЕ виділяється комами, якщо стоїть ПЕРЕД означуваним іменником і не має додаткових відтінків значення:\n     * «Прочитана за один вечір книжка справила на мене сильне враження».\n   - ОБОВ'ЯЗКОВО виділяється комами ПЕРЕД іменником, якщо має додаткове обставинне значення (причини чи поступки):\n     * «Виснажені тривалим переходом, туристи швидко заснули» (= тому що були виснажені).\n   - ЗАВЖДИ виділяється комами, якщо стосується особового займенника (я, ти, він, вона, воно, ми, ви, вони):\n     * «Осяяний сонцем, він стояв на вершині гори».\n\n2. Пунктуація дієприслівникових зворотів (Adverbial participle clauses):\n   - Дієприслівниковий зворот ЗАВЖДИ виділяється комами, незалежно від його місця на початку, всередині чи в кінці речення:\n     * «Зробивши уроки, хлопець пішов на прогулянку»;\n     * «Хлопець, зробивши уроки, пішов на прогулянку»;\n     * «Хлопець пішов на прогулянку, зробивши уроки».\n   - Одиничний дієприслівник НЕ виділяється комами лише тоді, коли стоїть безпосередньо після присудка і набуває значення способу дії (відповідає на питання «як?»):\n     * «Він сидів замислившись» (сидів мовчки, нерухомо).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Хліб, випечений у традиційній печі на дровах, мав неповторний духмяний аромат.",
+          "reading": "[xlʲib, ˈwɪpɛtʃɛnɪj u trɐdɪt͡sʲijˈnʲij ˈpɛtʃʲi nɑ drɔˈwɑx, mɑw nɛpɔwtɔrˈnɪj duxˈmjɑnɪj ɐrɔˈmɑt] (khleeb, VY-peh-cheh-nyy oo trah-dy-tseey-NEEY PEH-chee nah droh-VAHKH, mahv neh-pohv-tohr-NYY dookh-MYAH-nyy ah-roh-MAHT)",
+          "translation": "The bread baked in a traditional wood-fired oven had an incomparable fragrant aroma."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 19-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Здобувши блискучу перемогу у фіналі, українські гімнастки зі сльозами на очах піднялися на п'єдестал.",
+          "reading": "[zdɔˈbuwʃɪ blɪsˈkutʃu pɛrɛˈmɔɦu u fʲiˈnɑlʲi, ukrɐˈjinʲsʲkʲi ɦʲimˈnɑstkɪ zʲi ˈsʲlʲɔzɐmɪ nɑ ɔˈtʃɑx pʲidnʲɑˈlɪsʲɑ nɑ pjɛdɛsˈtɑl] (zdoh-BOOV-shy blys-KOO-choo peh-reh-MOH-hoo oo fee-NAH-lee, oo-krah-YEEN-s'kee heem-NAHST-ky zee SLYOH-zah-my nah oh-CHAHKH peed-nyah-LYS'-yah nah pyeh-des-TAHL)",
+          "translation": "Having won a brilliant victory in the final, the Ukrainian gymnasts mounted the podium with tears in their eyes."
+        },
+        {
+          "target": "Сповнений рішучості та оптимізму, він впевнено попрямував назустріч новим викликам.",
+          "reading": "[ˈspɔwnɛnɪj rʲiʃuˈtʃɔsʲtʲi tɑ ɔptɪˈmʲizmu, wʲin ˈwpɛwnɛnɔ pɔprʲɑmuˈwɑw nɐˈzustrʲitʃ nɔˈwɪm ˈwɪklɪkɐm] (SPOHV-neh-nyy ree-shoo-CHOHS-tee tah ohp-ty-MEEZ-moo, veen VPEHV-neh-noh poh-pryah-moo-VAHV nah-ZOO-streech noh-VYM VY-kly-kahm)",
+          "translation": "Filled with determination and optimism, he headed confidently toward new challenges."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Дієприкметник після іменника — комою виділяй; дієприслівниковий зворот — комою завжди обгортай!"
+      ],
+      "culturalNotes": [
+        "Майстерне використання відокремлених зворотів є ознакою високої культури мови в українській публіцистиці та художньому перекладі."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Сестра\":",
+          "prompt": "У якому випадку дієприкметниковий зворот НЕ відокремлюється комами?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.5.",
-            "Неправильне відмінкове узгодження зі словом «Дідусь»",
-            "Порушення законів евфонії та словотворення для «Бабуся»",
-            "Стилістично некоректна синтаксична конструкція з «Син»"
+            "Коли стоїть перед означуваним іменником і не має обставинного відтінку (Написана вченим книга вийшла друком)",
+            "Коли стоїть після означуваного іменника",
+            "Коли стосується особового займенника (він, вона)",
+            "Коли має додатковий відтінок причини"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Дієприкметниковий зворот, розташований перед означуваним іменником, комами не відокремлюється."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Сестра\":",
+          "prompt": "Як правильно розставити розділові знаки в реченні «Побачивши друзів я щиро зрадів»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.5.",
-            "Порушення законів евфонії та словотворення для «Бабуся»",
-            "Стилістично некоректна синтаксична конструкція з «Син»",
-            "Неправильне відмінкове узгодження зі словом «Дідусь»"
+            "Побачивши друзів, я щиро зрадів. (Adverbial participle clause must be set off by comma)",
+            "Побачивши, друзів я щиро зрадів.",
+            "Побачивши друзів я, щиро зрадів.",
+            "Побачивши друзів я щиро, зрадів."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Дієприслівниковий зворот «Побачивши друзів» відокремлюється комою."
         }
       ]
     },
@@ -8207,17 +8256,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Сестра\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому ВСІ розділові знаки при відокремлених зворотах розставлено бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 19.5.",
-            "Стилістично некоректна синтаксична конструкція з «Син»",
-            "Неправильне відмінкове узгодження зі словом «Дідусь»",
-            "Порушення законів евфонії та словотворення для «Бабуся»"
+            "Картина, створена відомим українським художником, вразила глядачів своєю колористикою.",
+            "Картина створена відомим українським художником, вразила глядачів.",
+            "Створена художником картина, вразила глядачів.",
+            "Картина створена художником вразила глядачів."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Дієприкметниковий зворот «створена відомим українським художником» стоїть після іменника «картина» і правильно виділений комами з обох боків."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u20-l1": {
