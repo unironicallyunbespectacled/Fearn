@@ -4175,53 +4175,62 @@
     "subject": "swahili",
     "unit": 10,
     "lessonNumber": 1,
-    "title": "Ngeli ya 3/4 (M-MI) na Vivumishi (Noun Classes 3/4 M-MI) (Part 1)",
+    "title": "Ngeli ya 3/4 (M-MI): Nomino za Miti, Viungo, na Vitu Asilia (Noun Class 3/4 Vocabulary & Prefixes)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.1) with authentic precision.",
+    "objective": "Kutambua na kutumia nomino za Ngeli ya 3/4 (M-MI) katika umoja (m-/mw-) na wingi (mi-) zinazojumuisha miti, mimea, viungo vya mwili, na vitu vya asili.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Ngeli ya 3/4 (M-MI): Muundo wa Nomino na Msamiati:\n\n1. **Dhana ya Ngeli ya 3/4 (M-MI Noun Class)**:\n   - Ngeli hii inajumuisha nomino nyingi za miti, mimea, viungo vya mwili, majira, na maumbile ya asili yasiyo ya kibinadamu.\n   - **Kanuni ya Viambishi vya Nomino**:\n     - **Umoja (Class 3)**: Huanza na **m-** kabla ya konsonanti au **mw-** kabla ya irabu.\n     - **Wingi (Class 4)**: Huanza na **mi-** (au **my-** kabla ya baadhi ya irabu).\n\n2. **Orodha ya Msamiati Muhimu wa M-MI**:\n   - **Miti na Mimea**:\n     - *mti* (tree) -> *miti* (trees)\n     - *mwembe* (mango tree) -> *miembe* (mango trees)\n     - *mnazi* (coconut tree) -> *minazi* (coconut trees)\n     - *mchungwa* (orange tree) -> *michungwa* (orange trees)\n     - *mchele* (uncooked rice grain)\n   - **Viungo vya Mwili**:\n     - *mkono* (arm / hand) -> *mikono* (arms / hands)\n     - *mguu* (leg / foot) -> *miguu* (legs / feet)\n     - *mdomo* (mouth / lip) -> *midomo* (mouths / lips)\n     - *moyo* (heart) -> *mioyo* (hearts)\n     - *mgongo* (back) -> *migongo* (backs)\n   - **Vitu vya Asili na Mazingira**:\n     - *mto* (river) -> *mito* (rivers)\n     - *mlima* (mountain) -> *milima* (mountains)\n     - *mji* (city / town) -> *miji* (cities / towns)\n     - *mwezi* (month / moon) -> *miezi* (months / moons)\n     - *mwaka* (year) -> *miaka* (years)\n     - *moto* (fire) -> *mioto* (fires)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 10."
+          "target": "Mti huu mrefu unazaa matunda mazuri na miti hii yote inaleta kivuli.",
+          "reading": "M-ti hu-u mre-fu u-na-za-a ma-tu-nda ma-zu-ri na mi-ti hi-i yo-te i-na-le-ta ki-vu-li. [ˈmti ˈhuː mˈrɛfu unɑˈzɑː mɑˈtundɑ mɑˈzuri nɑ ˈmiti ˈhiː ˈjɔtɛ inɑˈlɛtɑ kiˈvuli] (M-tee HOO-oo m-RAY-foo oo-nah-ZAH-ah mah-TOON-dah mah-ZOO-ree nah MEE-tee HEE-ee YOH-tay ee-nah-LAY-tah kee-VOO-lee)",
+          "translation": "This tall tree [class 3: mti huu] bears good fruit and all these trees [class 4: miti hii] bring shade."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 10-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mto mkubwa unapita karibu na mji wetu na mito yote inamwaga maji baharini.",
+          "reading": "M-to mku-bwa u-na-pi-ta ka-ri-bu na m-ji we-tu na mi-to yo-te i-na-mwa-ga ma-ji ba-ha-ri-ni. [ˈmtɔ mˈkubwɑ unɑˈpitɑ kɑˈribu nɑ ˈmʤi ˈwɛtu nɑ ˈmitɔ ˈjɔtɛ inɑmˈwɑɡɑ ˈmɑʤi bɑhɑˈrini] (M-toh M-KOO-bwah oo-nah-PEE-tah kah-REE-boo nah M-jee WAY-too nah MEE-toh YOH-tay ee-nah-MWAH-gah MAH-jee bah-hah-REE-nee)",
+          "translation": "A big river [class 3: mto mkubwa] passes near our town and all rivers [class 4: mito yote] pour water into the ocean."
+        },
+        {
+          "target": "Mwaka mpya umeanza kwa furaha na miezi yote itakuwa na amani tele.",
+          "reading": "Mwa-ka mpy-a u-me-a-nza kwa fu-ra-ha na mi-e-zi yo-te i-ta-ku-wa na a-ma-ni te-le. [ˈmwɑkɑ ˈmpjɑ umɛˈɑnzɑ kwɑ fuˈrɑhɑ nɑ miˈɛzi ˈjɔtɛ itɑˈkuwɑ nɑ ɑˈmɑni ˈtɛlɛ] (MWAH-kah M-PYAH oo-may-AHN-zah kwah foo-RAH-hah nah mee-AY-zee YOH-tay ee-tah-KOO-wah nah ah-MAH-nee TAY-lay)",
+          "translation": "The new year [class 3: mwaka mpya] has started with joy and all months [class 4: miezi yote] will have plentiful peace."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ngeli ya M-MI: Umoja huanza na M-/MW- (mti, mto, mwaka), Wingi huanza na MI- (miti, mito, miaka)!"
+      ],
+      "culturalNotes": [
+        "Mti wa Mnazi unaitwa 'mti wa uzima' katika pwani ya Waswahili kwa sababu kila sehemu yake (nazi, makuti, mbao, madumu) hutumika katika maisha ya kila siku."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Meza\":",
+          "prompt": "Wingi sahihi wa nomino \"Mwembe\" (mango tree) katika Ngeli ya M-MI ni upi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kiti»",
-            "Mpangilio usio sahihi wa viambishi katika «Kitanda»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ukuta»"
+            "miembe (Mango trees - Correct Class 4 plural prefix 'mi-')",
+            "maembe (Huu ni wingi wa tunda 'embe' katika ngeli ya JI-MA badala ya mti)",
+            "viembe (Kosa la kutumia kiambishi cha KI-VI)",
+            "wembe (Hili ni neno tofauti kabisa lenye maana ya razor)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino ya mti «Mwembe» katika Ngeli ya M-MI hubadilika kuwa «miembe» katika wingi. Tofautisha na tunda lenyewe: «embe» -> «maembe» (JI-MA)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Meza\":",
+          "prompt": "Nomino ipi kati ya zifuatazo ni kiungo cha mwili kinachopatikana katika Ngeli ya 3/4 (M-MI)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Kitanda»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ukuta»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kiti»"
+            "mkono (Arm/hand - Class 3 noun with plural 'mikono')",
+            "jicho (Kiungo cha Ngeli ya 5/6 JI-MA)",
+            "kichwa (Kiungo cha Ngeli ya 7/8 KI-VI)",
+            "sikio (Kiungo cha Ngeli ya 5/6 JI-MA)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Mkono» (wingi: «mikono») ni nomino ya Ngeli ya 3/4 (M-MI)."
         }
       ]
     },
@@ -4229,17 +4238,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Meza\": Which sentence is completely correct?",
+          "prompt": "Chagua jozi ya umoja na wingi ya nomino zote zilizo sahihi katika Ngeli ya M-MI:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ukuta»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kiti»",
-            "Mpangilio usio sahihi wa viambishi katika «Kitanda»"
+            "Mti -> miti, Mlima -> milima, Mto -> mito, Mwaka -> miaka, Mguu -> miguu.",
+            "Mtu -> watu, Mtoto -> watoto, Mwalimu -> walimu.",
+            "Kitabu -> vitabu, Kiti -> viti, Chumba -> vyumba.",
+            "Gari -> magari, Jina -> majina, Neno -> maneno."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Mti/miti, mlima/milima, mto/mito, mwaka/miaka, na mguu/miguu ni nomino halisi za Ngeli ya 3/4 (M-MI)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u10-l2": {
@@ -4247,53 +4257,62 @@
     "subject": "swahili",
     "unit": 10,
     "lessonNumber": 2,
-    "title": "Ngeli ya 3/4 (M-MI) na Vivumishi (Noun Classes 3/4 M-MI) (Part 2)",
+    "title": "Upatanisho wa Ngeli ya 3/4 (M-MI) katika Vitenzi na Viashiria (Verbal Concord & Demonstratives in M-MI)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.2) with authentic precision.",
+    "objective": "Kutambua na kutumia viambishi vya upatanisho wa kitenzi (u- kwa umoja, i- kwa wingi) na viashiria vyote vitatu (huu/hii, huo/hiyo, ule/ile) katika Ngeli ya M-MI.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Upatanisho wa Ngeli ya 3/4 katika Vitenzi na Viashiria:\n\n1. **Upatanisho wa Kitenzi (Verbal Concord)**:\n   - **Umoja (Class 3)**: Kiambishi cha mtendaji ni **u-**, kiambishi cha mtendwa ni **-u-**:\n     - *Mti **u**lianguka* (The tree fell)\n     - *Mto **u**natiririka* (The river is flowing)\n     - *Mimi nina**u**kata mti* (I am cutting the tree)\n   - **Wingi (Class 4)**: Kiambishi cha mtendaji ni **i-**, kiambishi cha mtendwa ni **-i-**:\n     - *Miti **i**lianguka* (The trees fell)\n     - *Mito **i**natiririka* (The rivers are flowing)\n     - *Mimi nina**i**kata miti* (I am cutting the trees)\n\n2. **Viashiria / Vionyeshi katika Ngeli ya M-MI (Demonstratives)**:\n   - **Karibu (Near: This / These)**:\n     - Umoja: **huu** (*mti huu* = this tree)\n     - Wingi: **hii** (*miti hii* = these trees)\n   - **Mbali Kidogo / Rejelewa (Reference: That / Those)**:\n     - Umoja: **huo** (*mti huo* = that tree mentioned)\n     - Wingi: **hiyo** (*miti hiyo* = those trees mentioned)\n   - **Mbali Zaidi (Far: That / Those over there)**:\n     - Umoja: **ule** (*mti ule* = that tree yonder)\n     - Wingi: **ile** (*miti ile* = those trees yonder)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 10."
+          "target": "Mti huu ulianguka jana usiku lakini miti ile mingine bado imesimama imara.",
+          "reading": "M-ti hu-u u-li-a-ngu-ka ja-na u-si-ku la-ki-ni mi-ti i-le mi-ngi-ne ba-do i-me-si-ma-ma i-ma-ra. [ˈmti ˈhuː uliɑˈŋɡukɑ ˈʤɑnɑ uˈsiku lɑˈkini ˈmiti ˈilɛ ˈmiŋɡinɛ ˈbɑdɔ imɛsiˈmɑmɑ iˈmɑrɑ] (M-tee HOO-oo oo-lee-ahn-GOO-kah JAH-nah oo-SEE-koo lah-KEE-nee MEE-tee EE-lay MEEN-gee-nay BAH-doh ee-may-see-MAH-mah ee-MAH-rah)",
+          "translation": "This tree [huu] fell [u-li-anguka] last night, but those other trees [ile] still stand firmly [i-me-simama]."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 10-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mji huo ulikua haraka sana na sasa miji hii yote imeunganishwa kwa barabara.",
+          "reading": "M-ji hu-o u-li-ku-a ha-ra-ka sa-na na sa-sa mi-ji hi-i yo-te i-me-u-nga-ni-shwa kwa ba-ra-ba-ra. [ˈmʤi ˈhuɔ uliˈkuɑ hɑˈrɑkɑ ˈsɑnɑ nɑ ˈsɑsɑ ˈmiʤi ˈhiː ˈjɔtɛ imɛuŋɡɑˈniʃwɑ kwɑ bɑrɑˈbɑrɑ] (M-jee HOO-oh oo-lee-KOO-ah hah-RAH-kah SAH-nah nah SAH-sah MEE-jee HEE-ee YOH-tay ee-may-oon-gah-NEE-shwah kwah bah-rah-BAH-rah)",
+          "translation": "That town [huo] grew [u-li-kua] very fast and now all these cities [hii] are connected [i-me-unganishwa] by roads."
+        },
+        {
+          "target": "Mlima ule mrefu una theluji kileleni na milima hiyo inapendwa na watalii.",
+          "reading": "M-li-ma u-le mre-fu u-na the-lu-ji ki-le-le-ni na mi-li-ma hi-yo i-na-pe-ndwa na wa-ta-li-i. [mˈlimɑ ˈulɛ mˈrɛfu ˈunɑ θɛˈluʤi kilɛˈlɛni nɑ miˈlimɑ ˈhijɔ inɑˈpɛndwɑ nɑ wɑtɑˈliː] (m-LEE-mah OO-lay m-RAY-foo oo-nah thay-LOO-jee kee-lay-lay-NEE nah mee-LEE-mah HEE-yoh ee-nah-PAYN-dwah nah wah-tah-LEE-ee)",
+          "translation": "That tall mountain yonder [ule] has snow on top and those mountains [hiyo] are loved [i-na-pendwa] by tourists."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vitenzi na Viashiria vya M-MI: Umoja = U- / huu / huo / ule; Wingi = I- / hii / hiyo / ile!"
+      ],
+      "culturalNotes": [
+        "Mlima Kilimanjaro (mlima mrefu zaidi barani Afrika) unaheshimika sana kama kielelezo cha utukufu wa kijiografia katika ukanda wa Afrika Mashariki."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kiti\":",
+          "prompt": "Sentensi ipi inatumia kiashiria sahihi cha \"karibu\" na kiambishi cha kitenzi cha wingi katika Ngeli ya M-MI?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kitanda»",
-            "Mpangilio usio sahihi wa viambishi katika «Ukuta»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Paa»"
+            "Miti hii inazaa matunda mengi kila mwaka. (These trees bear plenty of fruit every year - Correct Class 4 demonstrative 'hii' and subject prefix 'i-')",
+            "Miti huu inazaa matunda mengi (Kosa la kutumia kiashiria cha umoja 'huu')",
+            "Miti hii unazaa matunda mengi (Kosa la kutumia kiambishi cha kitenzi cha umoja 'u-')",
+            "Miti yale yanazaa matunda mengi (Kosa la kutumia upatanisho wa JI-MA)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Katika wingi wa Ngeli ya M-MI, kiashiria cha karibu ni «hii» na kiambishi cha kitenzi ni «i-»: «Miti hii inazaa»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kiti\":",
+          "prompt": "Unapotaka kusema \"Mto ule mrefu ulikauka wakati wa kiangazi\", kiambishi kipi cha kitenzi kimetumika katika \"ulikauka\"?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Ukuta»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Paa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kitanda»"
+            "u- (Kiambishi cha mtendaji cha Ngeli ya 3 M-MI umoja: u-li-kauka)",
+            "i- (Kiambishi cha wingi)",
+            "ki- (Kiambishi cha KI-VI)",
+            "li- (Kiambishi cha JI-MA)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kiambishi cha mtendaji cha umoja katika Ngeli ya M-MI ni «u-», hivyo kitenzi huwa «ulikauka»."
         }
       ]
     },
@@ -4301,17 +4320,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kiti\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha sahihi ya viashiria vitatu katika Ngeli ya M-MI kwa umoja na wingi:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Paa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kitanda»",
-            "Mpangilio usio sahihi wa viambishi katika «Ukuta»"
+            "Umoja: huu (this), huo (that), ule (that yonder); Wingi: hii (these), hiyo (those), ile (those yonder).",
+            "Umoja: huyu, huyo, yule; Wingi: hawa, hao, wale.",
+            "Umoja: hiki, hicho, kile; Wingi: hivi, hivyo, vile.",
+            "Umoja: hili, hilo, lile; Wingi: haya, hayo, yale."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Viashiria vya Ngeli ya M-MI ni «huu, huo, ule» (umoja) na «hii, hiyo, ile» (wingi)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u10-l3": {
@@ -4319,53 +4339,62 @@
     "subject": "swahili",
     "unit": 10,
     "lessonNumber": 3,
-    "title": "Ngeli ya 3/4 (M-MI) na Vivumishi (Noun Classes 3/4 M-MI) (Part 3)",
+    "title": "Upatanisho wa Vivumishi vya Sifa katika Ngeli ya 3/4 (Adjective Concord in M-MI)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.3) with authentic precision.",
+    "objective": "Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi m-/mw- katika umoja na mi- katika wingi kulingana na sheria za kifonolojia za Ngeli ya M-MI.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vivumishi vya Sifa katika Ngeli ya 3/4 (Adjective Concord for M-MI):\n\n1. **Upatanisho wa Vivumishi Vyenye Asili ya Kibantu**:\n   - Vivumishi vya sifa huchukua viambishi vinavyofanana sana na viambishi vya nomino:\n   - **Umoja (Class 3)**:\n     - Kabla ya Konsonanti: **m-** (*mti **mzuri***, *mti **mrefu***, *mji **mkubwa***, *mto **mpana***, *mwezi **mgumu***)\n     - Kabla ya Irabu: **mw-** (*mti **mweusi***, *mti **mweupe***, *mji **mwembamba***, *mwaka **mwingine***)\n   - **Wingi (Class 4)**:\n     - Kabla ya Konsonanti: **mi-** (*miti **mizuri***, *miti **mirefu***, *miji **mikubwa***, *mito **mipana***)\n     - Kabla ya Irabu: **mi-** / **my-** (*miti **myeusi*** / *mieupe*, *miji **miembamba***, *miaka **mingi***)\n\n2. **Vivumishi Visivyobadilika (Invariable Adjectives - Asili ya Kiarabu n.k.)**:\n   - Vivumishi hivi havipokei kiambishi chochote katika umoja au wingi:\n     - *mti **bora*** / *miti **bora*** (superb)\n     - *mji **safi*** / *miji **safi*** (clean)\n     - *mradi **ghali*** / *miradi **ghali*** (expensive)\n     - *mshahara **halali*** / *mishahara **halali*** (legitimate)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 10."
+          "target": "Mto mpana na safi unatiririka kando ya msitu mnene wenye miti mikubwa.",
+          "reading": "M-to mpa-na na sa-fi u-na-ti-ri-ri-ka ka-ndo ya msi-tu mne-ne we-nye mi-ti mi-kbu-wa. [ˈmtɔ mˈpɑnɑ nɑ ˈsɑfi unɑtiririˈkɑ ˈkɑndɔ jɑ ˈmsitu mˈnɛnɛ ˈwɛɲɛ ˈmiti miˈkubwɑ] (M-toh m-PAH-nah nah SAH-fee oo-nah-tee-ree-REE-kah KAHN-doh yah m-SEE-too m-NAY-nay WAY-nyay MEE-tee mee-KOO-bwah)",
+          "translation": "A wide [m-pana] and clean [safi] river flows beside a dense forest [msitu mnene] with large trees [miti mikubwa]."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 10-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mji mkuu una majengo marefu na mitaa mizuri yenye taa za kisasa.",
+          "reading": "M-ji mku-u u-na ma-je-ngo ma-re-fu na mi-ta-a mi-zu-ri ye-nye ta-a za ki-sa-sa. [ˈmʤi mˈkuː ˈunɑ mɑˈʤɛŋɡɔ mɑˈrɛfu nɑ miˈtɑː miˈzuri ˈjɛɲɛ ˈtɑː zɑ kisɑˈsɑ] (M-jee m-KOO-oo oo-nah mah-JAYN-goh mah-RAY-foo nah mee-TAH-ah mee-ZOO-ree YAY-nyay TAH-ah zah kee-sah-SAH)",
+          "translation": "The capital city [mji mkuu] has tall buildings and fine streets [mitaa mizuri] with modern lights."
+        },
+        {
+          "target": "Mwalimu alieleza mtihani mgumu na wanafunzi walisoma kwa miaka mingi.",
+          "reading": "Mwa-li-mu a-li-e-le-za mti-ha-ni mgu-mu na wa-na-fu-nzi wa-li-so-ma kwa mi-a-ka mi-ngi. [mwɑˈlimu ɑliɛˈlɛzɑ mtiˈhɑni mˈɡumu nɑ wɑnɑˈfunzi wɑliˈsɔmɑ kwɑ miˈɑkɑ ˈmiŋɡi] (mwah-LEE-moo ah-lee-ay-LAY-zah m-tee-HAH-nee m-GOO-moo nah wah-nah-FOON-zee wah-lee-SOH-mah kwah mee-AH-kah MEEN-gee)",
+          "translation": "The teacher explained a difficult exam [mtihani mgumu] and students studied for many years [miaka mingi]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vivumishi vya M-MI: Umoja = M- / MW- (mti mzuri, mti mweusi); Wingi = MI- (miti mizuri, miaka mingi)!"
+      ],
+      "culturalNotes": [
+        "Misitu ya mikoko (mangrove forests) kando ya fukwe za Bahari ya Hindi inalinda mazingira ya pwani na kutoa makazi kwa viumbe vingi vya baharini."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kitanda\":",
+          "prompt": "Sentensi ipi ina upatanisho sahihi wa kivumishi cha sifa kinachoanza na irabu katika umoja wa Ngeli ya M-MI?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ukuta»",
-            "Mpangilio usio sahihi wa viambishi katika «Paa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kazi»"
+            "Mti mweusi ulianguka kando ya barabara. (The black tree fell beside the road - Correct Class 3 adjective prefix 'mw-' before vowel '-eusi')",
+            "Mti meusi ulianguka kando ya barabara (Kosa la kukosa 'w')",
+            "Mti mweusi zilianguka barabarani (Mvurugiko wa kiambishi cha kitenzi)",
+            "Mti nyeusi ulianguka barabarani (Kosa la kutumia kiambishi cha N-N)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kivumishi kinachoanza na irabu «-eusi» kinapopatana na nomino ya umoja wa M-MI (mti) huchukua «mw-» kupata «mweusi»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kitanda\":",
+          "prompt": "Unapovumisha nomino ya wingi \"Miji\" kwa kutumia neno \"-kubwa\", kirai sahihi ni kipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Paa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kazi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ukuta»"
+            "miji mikubwa (Big cities - Correct Class 4 plural adjective 'mi-kubwa')",
+            "miji makubwa (Kosa la kutumia kiambishi cha JI-MA)",
+            "miji vikubwa (Kosa la kutumia kiambishi cha KI-VI)",
+            "miji mkubwa (Kosa la kutumia umoja)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino «Miji» (wingi katika Ngeli ya M-MI) huchukua kivumishi chenye kiambishi «mi-»: «miji mikubwa»."
         }
       ]
     },
@@ -4373,17 +4402,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kitanda\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi wa vivumishi vya sifa katika Ngeli ya M-MI:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kazi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ukuta»",
-            "Mpangilio usio sahihi wa viambishi katika «Paa»"
+            "Mto mpana una maji mengi na mito mirefu inapita katika misitu minene yenye miti mizuri. (Wide river [m-], long rivers [mi-], dense forests [mi-], and fine trees [mi-].)",
+            "Mto vipana una maji mengi na mito marefu inapita.",
+            "Misitu manene ina miti zizuri kando ya mto.",
+            "Vivumishi vya sifa haviruhusiwi kutumika na nomino za M-MI."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Mto mpana una maji mengi na mito mirefu inapita katika misitu minene yenye miti mizuri.» inafuata kanuni sahihi zote za vivumishi katika ngeli ya M-MI."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u10-l4": {
@@ -4391,53 +4421,62 @@
     "subject": "swahili",
     "unit": 10,
     "lessonNumber": 4,
-    "title": "Ngeli ya 3/4 (M-MI) na Vivumishi (Noun Classes 3/4 M-MI) (Part 4)",
+    "title": "Vivumishi vya Idadi, Vionyeshi, na Vimilikishi katika Ngeli ya M-MI (Numbers & Multi-Adjective Strings in M-MI)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.4) with authentic precision.",
+    "objective": "Kutumia vivumishi vya idadi (mmoja, miwili, mitatu, minne, mitano, minane) na kupanga misururu ya vivumishi vingi (sifa, idadi, kimilikishi, kionyeshi) katika Ngeli ya M-MI.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vivumishi vya Idadi na Mfuatano wa Vivumishi katika Ngeli ya M-MI:\n\n1. **Vivumishi vya Idadi (Numerals in M-MI)**:\n   - Idadi zinazochukua viambishi vya ngeli (1, 2, 3, 4, 5, 8):\n     - 1: *mti **mmoja*** (one tree)\n     - 2: *miti **miwili*** (two trees)\n     - 3: *miti **mitatu*** (three trees)\n     - 4: *miti **minne*** (four trees)\n     - 5: *miti **mitano*** (five trees)\n     - 8: *miti **minane*** (eight trees)\n   - Idadi zisizobadilika (6, 7, 9, 10, nk.):\n     - *miti sita* (6), *miti saba* (7), *miti tisa* (9), *miti kumi* (10), *miti ishirini* (20)\n\n2. **Mfuatano wa Vivumishi Vingi (Multi-Adjective Order)**:\n   - Katika sentensi yenye vivumishi vingi vinavyoielezea nomino moja ya M-MI, mpangilio wa kawaida ni:\n     `Nomino + Kivumishi cha Sifa + Kivumishi cha Idadi + Kimilikishi + Kionyeshi`\n     - *mti mkubwa wangu huu* (this big tree of mine)\n     - *miti mirefu mitatu yetu hii* (these three tall trees of ours)\n     - *mji mzuri wenu ule* (that beautiful town of yours yonder)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 10."
+          "target": "Miti mikubwa mitatu ilianguka barabarani baada ya upepo mkali kuvuma.",
+          "reading": "Mi-ti mi-kbu-wa mi-ta-tu i-li-a-ngu-ka ba-ra-ba-ra-ni ba-a-da ya u-pe-po mka-li ku-vu-ma. [ˈmiti miˈkubwɑ miˈtɑtu iliɑˈŋɡukɑ bɑrɑbɑˈrɑni bɑˈɑdɑ jɑ uˈpɛpɔ mˈkɑli kuˈvumɑ] (MEE-tee mee-KOO-bwah mee-TAH-too ee-lee-ahn-GOO-kah bah-rah-bah-RAH-nee bah-AH-dah yah oo-PAY-poh m-KAH-lee koo-VOO-mah)",
+          "translation": "Three large trees [miti mikubwa mitatu] fell on the road after a fierce wind blew."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 10-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mji wetu mdogo una mitaa minne mikubwa na miradi kumi ya maendeleo.",
+          "reading": "M-ji we-tu mdo-go u-na mi-ta-a mi-nne mi-kbu-wa na mi-ra-di ku-mi ya ma-e-nde-le-o. [ˈmʤi ˈwɛtu mˈdɔɡɔ ˈunɑ miˈtɑː ˈminːɛ miˈkubwɑ nɑ miˈrɑdi ˈkumi jɑ mɑɛndɛˈlɛɔ] (M-jee WAY-too m-DOH-goh oo-nah mee-TAH-ah MEEN-nay mee-KOO-bwah nah mee-RAH-dee KOO-mee yah mah-ayn-day-LAY-oh)",
+          "translation": "Our small town [mji wetu mdogo] has four large streets [mitaa minne mikubwa] and ten development projects [miradi kumi]."
+        },
+        {
+          "target": "Mti mmoja tu unatosha kutoa matunda mengi kwa familia yetu nzima.",
+          "reading": "M-ti mmo-ja tu u-na-to-sha ku-to-a ma-tu-nda me-ngi kwa fa-mi-li-a ye-tu nzi-ma. [ˈmti ˈmmɔʤɑ tu unɑˈtɔʃɑ kuˈtɔɑ mɑˈtundɑ ˈmɛŋɡi kwɑ fɑmiˈliɑ ˈjɛtu ˈnzimɑ] (M-tee M-MOH-jah too oo-nah-TOH-shah koo-TOH-ah mah-TOON-dah MAYN-gee kwah fah-mee-LEE-ah YAY-too N-ZEE-mah)",
+          "translation": "Just one tree [mti mmoja] is enough to provide plenty of fruit for our entire family."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Idadi za M-MI: mti mmoja, miti miwili, mitatu, minne, mitano, minane; Mpangilio: Nomino + Sifa + Idadi + Kimilikishi + Kionyeshi!"
+      ],
+      "culturalNotes": [
+        "Katika masoko ya Afrika Mashariki, kuhesabu bidhaa kama miti ya ujenzi, magogo, na miwa hufanyika kwa nambari sanifu za Kiswahili."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Ukuta\":",
+          "prompt": "Sentensi ipi inatumia nambari mbili (2) kwa upatanisho sahihi wa Ngeli ya M-MI?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Paa»",
-            "Mpangilio usio sahihi wa viambishi katika «Kazi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ofisi»"
+            "Miti miwili iliangushwa na mvua kubwa. (Two trees were felled by heavy rain - Correct Class 4 numeral 'miwili')",
+            "Miti wawili iliangushwa na mvua (Kosa la kutumia kiambishi cha watu A-WA)",
+            "Miti viwili iliangushwa na mvua (Kosa la kutumia KI-VI)",
+            "Miti mawili iliangushwa na mvua (Kosa la kutumia JI-MA)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nambari mbili (2) inapopatana na nomino ya wingi wa Ngeli ya M-MI (miti) huwa «miwili»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Ukuta\":",
+          "prompt": "Chagua mpangilio fasaha zaidi wa maneno katika Kiswahili sanifu kwa nomino \"Miti\":",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Kazi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ofisi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Paa»"
+            "Miti mirefu mitatu yangu hii (These three tall trees of mine - Correct order: Noun + Adjective + Number + Possessive + Demonstrative)",
+            "Hii yangu mitatu mirefu miti (Mvurugiko wa mpangilio wa Kiswahili)",
+            "Mitatu miti mirefu hii yangu (Mpangilio usiofuata kanuni)",
+            "Miti yangu hii mitatu mirefu (Mpangilio usio wa kawaida wa kimsingi)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Mpangilio sanifu wa maneno ni: Nomino (miti) + Sifa (mirefu) + Idadi (mitatu) + Kimilikishi (yangu) + Kionyeshi (hii)."
         }
       ]
     },
@@ -4445,17 +4484,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Ukuta\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayochanganya idadi na vivumishi katika Ngeli ya M-MI kwa ufasaha kabisa:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ofisi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Paa»",
-            "Mpangilio usio sahihi wa viambishi katika «Kazi»"
+            "Mti mmoja mkubwa na miti minne midogo ilipandwa bustanini na wanakijiji wote. (One big tree [mti mmoja mkubwa] and four small trees [miti minne midogo] were planted in the garden.)",
+            "Mti mmoja mkubwa na miti manne midogo yalipandwa bustanini.",
+            "Miti wawili wakubwa walipandwa kando ya mto mmoja.",
+            "Vivumishi vya idadi havipatani na nomino katika Kiswahili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Mti mmoja mkubwa na miti minne midogo ilipandwa bustanini na wanakijiji wote.» inatumia upatanisho sahihi wa umoja (mmoja mkubwa) na wingi (minne midogo)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u10-l5": {
@@ -4463,53 +4503,62 @@
     "subject": "swahili",
     "unit": 10,
     "lessonNumber": 5,
-    "title": "Ngeli ya 3/4 (M-MI) na Vivumishi (Noun Classes 3/4 M-MI) (Part 5)",
+    "title": "Muhtasari wa Ngeli ya 3/4 (M-MI) na Vivumishi (Grand Synthesis of M-MI Class)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 10: msamiati wa M-MI, viambishi vya nomino (m-/mi-), upatanisho wa vitenzi (u-/i-), virejeshi vya watendwa (-u-/-i-), viashiria (huu/hii, huo/hiyo, ule/ile), vimilikishi (wangu/yangu), na vivumishi vya sifa na idadi.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Ngeli ya 3/4 (M-MI Grand Synthesis):\n\n1. **Muundo Kamili wa Ngeli ya 3/4 (Master M-MI Matrix)**:\n   - **Nomino**: *mti / miti*, *mto / mito*, *mji / miji*, *mwezi / miezi*, *mwaka / miaka*.\n   - **Kiambishi Kitenzi (SP)**: *u-* (umoja: *mti umeanguka*) / *i-* (wingi: *miti imeanguka*).\n   - **Kirejeshi Mtendwa (OP)**: *-u-* (umoja: *ninaukata*) / *-i-* (wingi: *ninaikata*).\n   - **Viashiria**: *huu / hii* (karibu), *huo / hiyo* (hapo), *ule / ile* (mbali).\n   - **Vimilikishi**: *wangu/wetu* (umoja) / *yangu/yetu* (wingi).\n   - **Vivumishi vya Sifa**: *m-/mw-* (umoja: *mti mzuri / mweusi*) / *mi-* (wingi: *miti mizuri / myeusi*).\n   - **Vivumishi vya Idadi**: *mmoja* (1) / *miwili* (2), *mitatu* (3), *minne* (4), *mitano* (5), *minane* (8).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 10."
+          "target": "Mti huu mrefu ulipandwa mwaka uliopita, na sasa miti hii mitano mizuri inastawi vizuri.",
+          "reading": "M-ti hu-u mre-fu u-li-pa-ndwa mwa-ka u-li-o-pi-ta, na sa-sa mi-ti hi-i mi-ta-no mi-zu-ri i-na-sta-wi vi-zu-ri. [ˈmti ˈhuː mˈrɛfu ulipɑmˈbwɑ ˈmwɑkɑ uliɔˈpitɑ nɑ ˈsɑsɑ ˈmiti ˈhiː miˈtɑnɔ miˈzuri inɑsˈtɑwi viˈzuri] (M-tee HOO-oo m-RAY-foo oo-lee-PAHM-bwah MWAH-kah oo-lee-oh-PEE-tah, nah SAH-sah MEE-tee HEE-ee mee-TAH-noh mee-ZOO-ree ee-nah-STAH-wee vee-ZOO-ree)",
+          "translation": "This tall tree [mti huu mrefu] was planted last year [mwaka uliopita], and now these five fine trees [miti hii mitano mizuri] are thriving [inastawi] well."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 10-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mito yote mikubwa ya nchi yetu inatiririsha maji safi kuelekea maziwa makuu na bahari.",
+          "reading": "Mi-to yo-te mi-kbu-wa ya nchi ye-tu i-na-ti-ri-ri-sha ma-ji sa-fi ku-e-le-ke-a ma-zi-wa ma-ku-u na ba-ha-ri. [ˈmitɔ ˈjɔtɛ miˈkubwɑ jɑ ˈntʃi ˈjɛtu inɑtiririˈʃɑ ˈmɑʤi ˈsɑfi kuɛlɛˈkɛɑ mɑˈziwɑ mɑˈkuː nɑ bɑhɑˈrini] (MEE-toh YOH-tay mee-KOO-bwah yah N-chee YAY-too ee-nah-tee-ree-REE-shah MAH-jee SAH-fee koo-ay-lay-KAY-ah mah-ZEE-wah mah-KOO-oo nah bah-hah-REE)",
+          "translation": "All large rivers [mito yote mikubwa] of our country flow [inatiririsha] clean water towards the great lakes and sea."
+        },
+        {
+          "target": "Kujua ngeli ya M-MI kunaimarisha msingi thabiti wa lugha ya Kiswahili kwa mwanafunzi yeyote yule.",
+          "reading": "Ku-ju-a nge-li ya M-MI ku-na-i-ma-ri-sha msi-ngi tha-bi-ti wa lu-gha ya Ki-swa-hi-li kwa mwa-na-fu-nzi ye-yo-te yu-le. [kuˈʤuɑ ˈŋɡɛli jɑ mˈmi kunɑimɑˈriʃɑ ˈmsiŋɡi θɑˈbiti wɑ ˈluɣɑ jɑ kiswɑˈhili kwɑ mwɑnɑˈfunzi ˈjɛjɔtɛ ˈjulɛ] (koo-JOO-ah N-GAY-lee yah M-MEE koo-nah-ee-mah-REE-shah m-SEEN-gee thah-BEE-tee wah LOO-ghah yah kee-swah-HEE-lee kwah mwah-nah-FOON-zee yay-YOH-tay YOO-lay)",
+          "translation": "Knowing the M-MI noun class [M-MI grand synthesis: ngeli ya M-MI] strengthens a firm foundation of the Swahili language for any student."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Muhtasari wa M-MI: Nomino (m-/mi-), Kitenzi (u-/i-), OP (-u-/-i-), Viashiria (huu/hii, huo/hiyo, ule/ile), Vimilikishi (wangu/yangu)!"
+      ],
+      "culturalNotes": [
+        "Miji ya kihistoria kama Mombasa, Zanzibar, Bagamoyo, na Kilwa inaakisi ustawi mkubwa wa usanifu wa majengo na mitaa ya kale ya Waswahili."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Paa\":",
+          "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa ngeli ya 3/4 (M-MI) ikijumuisha nomino, vivumishi vya sifa, idadi, na kitenzi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kazi»",
-            "Mpangilio usio sahihi wa viambishi katika «Ofisi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mfanyakazi»"
+            "Miti mirefu mitatu ya msituni ilianguka wakati wa dhoruba kali. (Three tall trees of the forest fell during the fierce storm - Harmonious M-MI class synthesis)",
+            "Miti marefu matatu ya msituni yalianguka wakati wa dhoruba (Kosa la kutumia upatanisho wa JI-MA)",
+            "Miti virefu vitatu vya msituni vilianguka wakati wa dhoruba (Kosa la kutumia upatanisho wa KI-VI)",
+            "Mti mirefu mitatu ulianguka jana (Mvurugiko wa umoja na wingi)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Miti mirefu mitatu ya msituni ilianguka wakati wa dhoruba kali.» inatekeleza upatanisho sahihi wa nomino (miti), sifa (mirefu), idadi (mitatu), uhusiano (ya), na kitenzi (ilianguka)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Paa\":",
+          "prompt": "Katika muhtasari wa Unit 10, ni upatanisho gani sahihi wa kiashiria na kitenzi kwa nomino \"Mto\" (umoja)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Ofisi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mfanyakazi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kazi»"
+            "Mto huu unamwaga maji mengi ziwani. (This river pours plenty of water into the lake - Correct Class 3 demonstrative 'huu' and verbal prefix 'u-')",
+            "Mto hii inamwaga maji ziwani (Kosa la kutumia upatanisho wa wingi)",
+            "Mto hili linamwaga maji ziwani (Kosa la kutumia JI-MA)",
+            "Mto hiki kinamwaga maji ziwani (Kosa la kutumia KI-VI)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino ya umoja «Mto» huchukua kiashiria «huu» na kiambishi cha kitenzi «u-»: «Mto huu unamwaga»."
         }
       ]
     },
@@ -4517,17 +4566,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Paa\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 10 ya Ngeli ya 3/4 (M-MI) na Vivumishi katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mfanyakazi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kazi»",
-            "Mpangilio usio sahihi wa viambishi katika «Ofisi»"
+            "Mti huu mrefu ulipandwa mwaka uliopita, mto wetu unatiririka vizuri, na miti hii mitano mizuri inazaa matunda mengi kila msimu. (This tall tree was planted last year, our river flows well, and these five fine trees bear plenty of fruit every season.)",
+            "Mti hii mirefu ilipandwa mwaka uliopita na mto wetu inatiririka vizuri.",
+            "Miti hii mitano mizuri yanazaa matunda mengi wakati mto hili linatiririka.",
+            "Ngeli ya M-MI haitofautishi kati ya umoja na wingi katika vivumishi."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Mti huu mrefu ulipandwa mwaka uliopita, mto wetu unatiririka vizuri, na miti hii mitano mizuri inazaa matunda mengi kila msimu.» inajumuisha upatanisho wa M-MI katika nyanja zote kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u11-l1": {
