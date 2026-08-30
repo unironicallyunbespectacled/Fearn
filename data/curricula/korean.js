@@ -7383,56 +7383,65 @@
     "subject": "korean",
     "unit": 16,
     "lessonNumber": 1,
-    "title": "관형사형 전성어미(-(으)ㄴ, -는, -(으)ㄹ) (Noun Modifiers) (Part 1)",
+    "title": "동사의 현재 시제 관형사형 어미 (-는)",
     "level": "B1",
-    "objective": "Comprehensive mastery of 관형사형 전성어미 (Noun-Modifying Clauses).",
+    "objective": "동사 어간 뒤에 '-는'을 결합하여 뒤에 오는 명사를 실시간 동작이나 현재 습관으로 수식하는 관형절 문법을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 관형사형 전성어미(-(으)ㄴ, -는, -(으)ㄹ) (Noun Modifiers) » (제1절)의 핵심 언어 요소와 관형사형 전성어미 (Noun-Modifying Clauses)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어에서 동사가 명사를 앞에서 꾸밀 때(Noun Modifying Clause), 현재 진행 중인 동작이나 현재의 일반적 습관/상태를 나타내기 위해 관형사형 전성어미 '-는'을 사용합니다.\n\n1. 형태 결합 규칙 (동사 현재형 전용):\n- 받침 유무에 관계없이 모든 동사 어간 뒤에 '-는' 결합:\n  - 가다 → 가는 (가는 사람)\n  - 먹다 → 먹는 (먹는 음식)\n  - 읽다 → 읽는 (읽는 책) [발음: 잉는]\n  - 듣다 → 듣는 (듣는 음악) (ㄷ 불규칙 유지)\n- 'ㄹ' 받침 동사 특수 규칙: 'ㄹ' 탈락 후 '-는' 결합!\n  - 살다 → 사는 (서울에 사는 친구)\n  - 만들다 → 만드는 (빵을 만드는 요리사)\n  - 알다 → 아는 (잘 아는 사람)\n- 있다 / 없다 계열: 항상 '-는' 결합!\n  - 맛있다 → 맛있는, 재미있다 → 재미있는, 돈이 없다 → 돈이 없는",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (16.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "저기 벤치에 앉아서 커피를 마시는 사람이 제 대학교 룸메이트입니다.",
+          "reading": "Jeogi benchi-e anj-aseo keopi-reul masineun saram-i je daehakgyo rummeiteu-imnida.",
+          "translation": "The person drinking coffee while sitting on that bench is my college roommate (Verb + '-는' modifier)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (16.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "제가 요즘 매일 출퇴근길 지하철에서 즐겨 읽는 소설책이에요.",
+          "reading": "Je-ga yojeum maeil chultoegeungil jihacheol-eseo jeulgyeo ilneun soseolchaeg-ieyo.",
+          "translation": "This is the novel that I enjoy reading every day on the subway commuting to work."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (16.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "부산에 사는 친한 고등학교 동창이 주말에 서울로 놀러 왔습니다.",
+          "reading": "Busan-e saneun chinhan godeunghakgyo dongchang-i jumal-e Seoul-ro nolleo watseumnida.",
+          "translation": "A close high school alumnus living in Busan came to Seoul to hang out on the weekend ('살다' → '사는')."
+        },
+        {
+          "target": "한국 요리 중에서 제가 가장 좋아하는 메뉴는 매콤한 떡볶이입니다.",
+          "reading": "Hanguk yori jung-eseo je-ga gajang joahaneun menyu-neun maekomhan tteokbokki-imnida.",
+          "translation": "Among Korean dishes, the menu that I like the most is spicy tteokbokki."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "동사 현재 수식은 무조건 '-는'! 'ㄹ' 받침은 탈락하여 '살다→사는, 만들다→만드는'!"
+      ],
+      "culturalNotes": [
+        "한국어의 관형절 수식은 영어의 관계대명사(who, which, that)와 달리 항상 수식받는 명사 '앞'에 위치하며, 어순이 [주어 + 목적어 + 동사-는 + 명사] 형태로 압축됩니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 관형사형 전성어미 (Noun-Modifying Clauses) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "'살다(live)'가 명사 '사람(person)'을 현재형으로 수식할 때 올바른 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (16.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (16.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (16.1.3)."
+            "사는 사람",
+            "살는 사람",
+            "사는는 사람"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'살다'의 어간 끝 받침 'ㄹ'이 탈락하고 '-는'이 붙어 '사는 사람'이 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 관형사형 전성어미(-(으)ㄴ, -는, -(으)ㄹ) (Noun Modifiers) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "'지금 듣다(listening now)'를 사용하여 '음악(music)'을 바르게 수식한 구는 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (16.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (16.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (16.1.3)."
+            "지금 듣는 음악",
+            "지금 들은 음악",
+            "지금 들을 음악"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "현재 듣고 있는 음악이므로 동사 어간 '듣-' 뒤에 '-는'이 결합한 '지금 듣는 음악'이 정확합니다."
         }
       ]
     },
@@ -7440,14 +7449,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 관형사형 전성어미 (Noun-Modifying Clauses) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 16-1)?",
+          "prompt": "'빵을 _____ 요리사 (A chef who makes bread).' 빈칸에 알맞은 형태는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (16.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (16.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (16.1.3)."
+            "만드는",
+            "만들는",
+            "만든"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'만들다'의 'ㄹ'이 탈락하고 현재 관형형 어미 '-는'이 붙어 '만드는'이 됩니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'내가 좋아하는 노래예요'(This is a song that I like)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "내가 좋아하는 노래예요.",
+            "내가 좋아하는 노래예요"
+          ],
+          "explanation": "내가 + 좋아하는(좋아하다 + 는) + 노래예요 = 내가 좋아하는 노래예요."
         }
       ]
     }
@@ -7457,56 +7475,65 @@
     "subject": "korean",
     "unit": 16,
     "lessonNumber": 2,
-    "title": "관형사형 전성어미(-(으)ㄴ, -는, -(으)ㄹ) (Noun Modifiers) (Part 2)",
+    "title": "동사의 과거 관형형 ('-(으)ㄴ') vs 형용사의 현재 관형형 ('-(으)ㄴ')",
     "level": "B1",
-    "objective": "Comprehensive mastery of 관형사형 전성어미 (Noun-Modifying Clauses).",
+    "objective": "동일한 형태 '-(으)ㄴ'이 동사에 붙을 때는 '과거 완료', 형용사에 붙을 때는 '현재 상태'를 나타내는 품사별 시제 분화 규칙을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 관형사형 전성어미(-(으)ㄴ, -는, -(으)ㄹ) (Noun Modifiers) » (제2절)의 핵심 언어 요소와 관형사형 전성어미 (Noun-Modifying Clauses)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어 관형사형 어미 중 가장 혼동하기 쉬우면서도 중요한 문법이 바로 '-(으)ㄴ'의 품사별 시제 차이입니다.\n\n1. 동사 + -(으)ㄴ = [과거 / 완료된 동작] (Past Action):\n- 모음 종결 동사 어간 + -ㄴ: 가다 → 간 (어제 간 식당), 보다 → 본 (지난주에 본 영화)\n- 자음 종결 동사 어간 + -은: 먹다 → 먹은 (아침에 먹은 빵), 읽다 → 읽은 (어제 읽은 책)\n- 'ㄹ' 탈락: 만들다 → 만든 (내가 만든 요리), 살다 → 산 (작년에 산 집)\n\n2. 형용사 + -(으)ㄴ = [현재 상태] (Present State Attribute):\n- 모음 종결 형용사 + -ㄴ: 예쁘다 → 예쁜 (예쁜 꽃), 크다 → 큰 (큰 가방), 바쁘다 → 바쁜 (바쁜 사람)\n- 자음 종결 형용사 + -은: 작다 → 작은 (작은 방), 많다 → 많은 (많은 돈), 좋다 → 좋은 (좋은 날씨)\n- ㅂ 불규칙: 춥다 → 추운 (추운 겨울), 덥다 → 더운 (더운 여름), 아름답다 → 아름다운\n\n3. 결정적 대비 (Crucial Contrast):\n- 어제 만난 친구 (동사 만나다 + -ㄴ = 과거에 만난 친구)\n- 친절한 친구 (형용사 친절하다 + -ㄴ = 현재 친절한 상태인 친구)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (16.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "어제 백화점에서 산 코트가 정말 따뜻하고 마음에 들어요.",
+          "reading": "Eoje baekhwajeom-eseo san koteu-ga jeongmal ttatteuthago maeum-e deureoyo.",
+          "translation": "The coat that I bought at the department store yesterday is really warm and to my liking ('사다' verb past '산' + '따뜻하다' adj present '따뜻한')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (16.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "지난 주말에 친구들과 함께 본 한국 영화가 무척 감동적이었습니다.",
+          "reading": "Jinan jumal-e chin-gudeul-gwa hamkke bon hanguk yeonghwa-ga mucheok gamdongjeogieotseumnida.",
+          "translation": "The Korean movie that I watched together with friends last weekend was very touching ('보다' past '본')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (16.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "성격이 아주 밝고 친절한 새 직원이 우리 팀에 입사했습니다.",
+          "reading": "Seonggyeog-i aju balkgo chinjeolhan sae jigwon-i uri tim-e ipsahaetseumnida.",
+          "translation": "A new employee who has a very bright and kind personality joined our team ('친절하다' adj present '친절한')."
+        },
+        {
+          "target": "아침에 마신 따뜻한 녹차 한 잔 덕분에 기분이 상쾌해졌습니다.",
+          "reading": "Achim-e masin ttatteuthan nokcha han jan deokbun-e gibun-i sangkwaehaejyeotseumnida.",
+          "translation": "Thanks to a cup of warm green tea that I drank in the morning, my mood became refreshed ('마시다' past '마신' + '따뜻하다' present '따뜻한')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "동사에 '-(으)ㄴ'은 '이미 끝난 과거'! 형용사에 '-(으)ㄴ'은 '지금 예쁜 현재'!"
+      ],
+      "culturalNotes": [
+        "한국어 학습자들이 가장 많이 범하는 오류가 형용사에 '-는'을 붙이는 것(*좋는 날씨 X, *예쁘는 꽃 X)입니다. 형용사의 현재 수식은 반드시 '-(으)ㄴ(좋은 날씨, 예쁜 꽃)'이어야 합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 관형사형 전성어미 (Noun-Modifying Clauses) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "형용사 '좋다(good)'가 명사 '날씨(weather)'를 현재형으로 수식하는 올바른 형태는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (16.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (16.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (16.2.3)."
+            "좋은 날씨",
+            "좋는 날씨",
+            "좋은는 날씨"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "형용사의 현재 관형형은 '-(으)ㄴ'이므로 '좋은 날씨'가 정확합니다 (*'좋는'은 비문)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 관형사형 전성어미(-(으)ㄴ, -는, -(으)ㄹ) (Noun Modifiers) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "'어제 읽다(read yesterday)'를 사용하여 '책(book)'을 과거 관형형으로 바르게 수식한 것은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (16.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (16.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (16.2.3)."
+            "어제 읽은 책",
+            "어제 읽는 책",
+            "어제 읽을 책"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "동사의 과거 관형형은 '-(으)ㄴ'이므로 자음 받침 뒤에 '-은'이 붙은 '어제 읽은 책'이 맞습니다."
         }
       ]
     },
@@ -7514,14 +7541,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 관형사형 전성어미 (Noun-Modifying Clauses) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 16-2)?",
+          "prompt": "'어제 _____ 사람과 오늘 _____ 사람은 다른 사람입니다.' 빈칸에 들어갈 알맞은 형태 순서는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (16.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (16.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (16.2.3)."
+            "만난 / 만나는",
+            "만나는 / 만난",
+            "만날 / 만난"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "explanation": "어제 만난(과거 동사 '-(으)ㄴ') + 오늘 만나는(현재 동사 '-는')의 대조가 완벽합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'어제 만난 친구예요'(This is a friend I met yesterday)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "어제 만난 친구예요.",
+            "어제 만난 친구예요"
+          ],
+          "explanation": "어제 + 만난(만나다 + ㄴ) + 친구예요 = 어제 만난 친구예요."
         }
       ]
     }
@@ -7531,56 +7567,65 @@
     "subject": "korean",
     "unit": 16,
     "lessonNumber": 3,
-    "title": "관형사형 전성어미(-(으)ㄴ, -는, -(으)ㄹ) (Noun Modifiers) (Part 3)",
+    "title": "동사/형용사의 미래·예정·추측 관형형 어미 ('-(으)ㄹ')",
     "level": "B1",
-    "objective": "Comprehensive mastery of 관형사형 전성어미 (Noun-Modifying Clauses).",
+    "objective": "앞으로 일어날 미래의 행동이나 예정, 혹은 추측되는 상태를 수식하는 관형사형 어미 '-(으)ㄹ'의 형태 결합과 의존명사 구문 결합력을 익힌다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 관형사형 전성어미(-(으)ㄴ, -는, -(으)ㄹ) (Noun Modifiers) » (제3절)의 핵심 언어 요소와 관형사형 전성어미 (Noun-Modifying Clauses)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "'-(으)ㄹ'은 동사나 형용사 뒤에 결합하여 앞으로 일어날 사건(Future Event), 예정된 계획(Plan), 또는 화자의 추측(Conjecture)을 나타내는 미래 관형사형 전성어미입니다.\n\n1. 형태 결합 규칙:\n- 모음 종결 어간 or 'ㄹ' 받침 어간 + -ㄹ:\n  - 가다 → 갈 (내일 갈 장소)\n  - 보다 → 볼 (주말에 볼 영화)\n  - 만들다 → 만들 (앞으로 만들 계획)\n  - 살다 → 살 (이사 갈 살 집)\n- 'ㄹ' 제외 자음 종결 어간 + -을:\n  - 먹다 → 먹을 (점심에 먹을 음식)\n  - 읽다 → 읽을 (내일 읽을 책)\n  - 입다 → 입을 (결혼식에 입을 옷)\n- ㅂ 불규칙: 돕다 → 도울, 춥다 → 추울\n\n2. 주요 의존명사 결합 구문 (Essential Bound Noun Structures):\n- '-(으)ㄹ 것' (미래/예정 사실): \"내일 회의에서 발표할 것입니다.\"\n- '-(으)ㄹ 때' (시간): \"한국에 여행 갈 때 연락하세요.\"\n- '-(으)ㄹ 수 있다/없다' (가능성/능력): \"한국어로 대화할 수 있습니다.\"\n- '-(으)ㄹ 줄 알다/모르다' (방법/지식): \"수영할 줄 알아요.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (16.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "이번 여름휴가 때 가족들과 함께 여행을 갈 장소를 정했습니다.",
+          "reading": "Ibeon yeoreumhyuga ttae gajokdeul-gwa hamkke yeohaeng-eul gal jangso-reul jeonghaetseumnida.",
+          "translation": "I decided on the place to go on a trip together with my family during this summer vacation (Future modifier '갈')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (16.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "내일 저녁 회식 때 마실 음료와 먹을 고기를 미리 주문했습니다.",
+          "reading": "Naeil jeonyeok hoesik ttae masil eumryo-wa meog-eul gogi-reul miri jumunhaetseumnida.",
+          "translation": "I ordered in advance the drinks to drink and meat to eat for tomorrow evening's company dinner."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (16.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "다음 주 월요일에 부장님께 제출할 프로젝트 기획서 초안입니다.",
+          "reading": "Daeum ju woryoil-e bujangnim-kke jechulhal peurojekteu gihoekseo choan-imnida.",
+          "translation": "This is the draft of the project proposal to submit to the department manager next Monday."
+        },
+        {
+          "target": "주말에 비가 올 가능성이 높으니 실내 활동 계획을 세웁시다.",
+          "reading": "Jumal-e bi-ga ol ganeungseong-i nopeuni silnae hwaldong gyehoek-eul seoupsida.",
+          "translation": "Since the possibility that it will rain on the weekend is high, let's make indoor activity plans (Conjectural '올')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "내일 할 일, 앞으로 먹을 밥엔 무조건 '-(으)ㄹ'! 미래의 계획을 활짝 펼치자!"
+      ],
+      "culturalNotes": [
+        "한국어에서 '-(으)ㄹ'은 '-(으)ㄹ 때(when)', '-(으)ㄹ 수 있다(can)', '-(으)ㄹ 것 같다(it seems)' 등 수많은 고급 문법 구문의 핵심 모체가 됩니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 관형사형 전성어미 (Noun-Modifying Clauses) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "'내일 먹다(eat tomorrow)'를 사용하여 '음식(food)'을 미래 관형형으로 바르게 수식한 형태는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (16.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (16.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (16.3.3)."
+            "내일 먹을 음식",
+            "내일 먹는 음식",
+            "내일 먹은 음식"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "미래 시제 관형형 어미는 '-(으)ㄹ'이므로 '먹을 음식'이 정확합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 관형사형 전성어미(-(으)ㄴ, -는, -(으)ㄹ) (Noun Modifiers) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "'주말에 가다(go on the weekend)'를 '곳(place)'과 결합한 올바른 미래 관형절은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (16.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (16.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (16.3.3)."
+            "주말에 갈 곳",
+            "주말에 가는 곳",
+            "주말에 간 곳"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "모음 종결 어간 '가-'에 '-ㄹ'이 붙어 '갈 곳'이 됩니다."
         }
       ]
     },
@@ -7588,14 +7633,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 관형사형 전성어미 (Noun-Modifying Clauses) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 16-3)?",
+          "prompt": "'내일 시험에서 _____ 문제들을 미리 복습했습니다.' 빈칸에 알맞은 미래형은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (16.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (16.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (16.3.3)."
+            "나올",
+            "나오는",
+            "나온"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "내일 시험에 출제될 미래의 문제이므로 '나올'이 정확합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'내일 먹을 음식이에요'(This is food to eat tomorrow)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "내일 먹을 음식이에요.",
+            "내일 먹을 음식이에요"
+          ],
+          "explanation": "내일 + 먹을(먹다 + 을) + 음식이에요 = 내일 먹을 음식이에요."
         }
       ]
     }
@@ -7605,56 +7659,65 @@
     "subject": "korean",
     "unit": 16,
     "lessonNumber": 4,
-    "title": "관형사형 전성어미(-(으)ㄴ, -는, -(으)ㄹ) (Noun Modifiers) (Part 4)",
+    "title": "과거 회상 및 지속 관형형 어미 ('-던' vs '-았던/었던')",
     "level": "B1",
-    "objective": "Comprehensive mastery of 관형사형 전성어미 (Noun-Modifying Clauses).",
+    "objective": "과거의 미완료 반복/지속을 회상하는 '-던'과 현재와 단절된 과거의 완료된 상태를 회상하는 '-았던/었던'의 심층적인 시제·상적 차이를 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 관형사형 전성어미(-(으)ㄴ, -는, -(으)ㄹ) (Noun Modifiers) » (제4절)의 핵심 언어 요소와 관형사형 전성어미 (Noun-Modifying Clauses)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어에서 과거의 경험이나 회상을 담아 명사를 수식할 때 회상 관형사형 어미 '-던'과 '-았던/었던'을 사용합니다.\n\n1. '-던' (Past Habitual / Incomplete Action - 회상 미완료 및 지속):\n- 과거에 반복적으로 하던 습관이나 지속되던 상태, 혹은 완료되지 않고 중단된 일에 결합.\n- \"내가 자주 가던 카페\" (과거에 습관적으로 자주 다녔던 카페)\n- \"내가 읽던 책\" (다 읽지 못하고 중간에 읽다가 둔 책)\n- \"어릴 때 살던 동네\" (어린 시절 지속해서 살았던 동네)\n\n2. '-았던/었던' (Past Perfect / Disconnected from Present - 과거 완료 및 단절):\n- 과거에 완전히 완료되었거나, 현재와는 상태가 완전히 달라져 단절되었음을 회상.\n- \"어제 내가 입었던 옷\" (과거에 입었으나 지금은 벗어서 입고 있지 않은 옷)\n- \"작년에 갔던 제주도\" (작년에 다녀왔으며 지금은 제주도에 있지 않음)\n- \"예전에는 통통했던 친구\" (과거엔 통통했으나 지금은 날씬해져 상태가 달라짐)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (16.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "여기가 바로 학창 시절에 방과 후마다 친구들과 자주 가던 떡볶이집입니다.",
+          "reading": "Yeogi-ga baro hakchang sijeol-e bang-gwa hu-mada chin-gudeul-gwa jaju gadeon tteokbokkijip-imnida.",
+          "translation": "This is the very tteokbokki restaurant that I used to go to frequently with friends after school in my school days ('-던' habitual recall)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (16.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "테이블 위에 제가 아침에 마시던 커피 잔이 그대로 놓여 있습니다.",
+          "reading": "Teibeul wi-e je-ga achim-e masideon keopi jan-i geudaero noyeo itseumnida.",
+          "translation": "The coffee cup that I was drinking from this morning is sitting on the table just as it was ('-던' incomplete action)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (16.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "어릴 때 입었던 멜빵바지를 오랜만에 옷장에서 발견했습니다.",
+          "reading": "Eoril ttae ibeotdeon melppangbaji-reul oraenman-e otjang-eseo balgyeonhaetseumnida.",
+          "translation": "I discovered the overalls in the wardrobe after a long time that I used to wear when I was young ('-았던/었던' past completed/disconnected)."
+        },
+        {
+          "target": "작년에 유럽 여행을 함께 갔던 동행자를 서울에서 우연히 만났어요.",
+          "reading": "Jangnyeon-e yureop yeohaeng-eul hamkke gatdeon donghaengja-reul Seoul-eseo uyeonhi mannasseoyo.",
+          "translation": "I coincidentally met the travel companion in Seoul with whom I had gone on a European trip last year ('-았던/었던')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "자주 하던 미완료 습관은 '-던'! 지금은 끝난 아득한 옛날 일은 '-았던/었던'!"
+      ],
+      "culturalNotes": [
+        "'-던'과 '-았던/었던'은 화자의 감상과 추억(Nostalgia)이 서려 있는 문학적이고 감성적인 어조를 형성하여 한국 가요 가사나 문학 작품에 매우 자주 등장합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 관형사형 전성어미 (Noun-Modifying Clauses) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "과거에 자주 다니던 습관적인 단골 카페를 표현하는 가장 알맞은 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (16.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (16.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (16.4.3)."
+            "자주 가던 카페",
+            "자주 갈 카페",
+            "자주 가는 카페"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "과거의 반복적 습관을 회상할 때는 '-던(가던)'이 가장 자연스럽습니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 관형사형 전성어미(-(으)ㄴ, -는, -(으)ㄹ) (Noun Modifiers) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "마시다 만 커피(아직 다 마시지 않은 커피)를 뜻하는 가장 정확한 관형 수식은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (16.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (16.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (16.4.3)."
+            "마시던 커피",
+            "마신 커피",
+            "마실 커피"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "동작이 완료되지 않고 중간에 중단된 상태를 회상할 때는 '-던(마시던 커피)'을 씁니다."
         }
       ]
     },
@@ -7662,14 +7725,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 관형사형 전성어미 (Noun-Modifying Clauses) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 16-4)?",
+          "prompt": "'어릴 때 살던 동네'와 '어릴 때 살았던 동네'의 뉘앙스 차이를 가장 올바르게 설명한 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (16.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (16.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (16.4.3)."
+            "'살던'은 과거의 지속적 거주를 회상하고, '살았던'은 지금은 그곳에 살지 않는 단절된 완료를 강조한다.",
+            "'살던'은 미래의 계획이고, '살았던'은 현재의 상태이다.",
+            "'살던'은 다른 사람의 이야기이고, '살았던'은 나의 이야기이다."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'-던'은 과거의 지속/미완료를, '-았던/었던'은 현재와의 상태 단절 및 완료를 나타냅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'내가 자주 가던 카페예요'(This is a cafe I used to go to often)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "내가 자주 가던 카페예요.",
+            "내가 자주 가던 카페예요"
+          ],
+          "explanation": "내가 + 자주 + 가던(가다 + 던) + 카페예요 = 내가 자주 가던 카페예요."
         }
       ]
     }
@@ -7679,56 +7751,65 @@
     "subject": "korean",
     "unit": 16,
     "lessonNumber": 5,
-    "title": "관형사형 전성어미(-(으)ㄴ, -는, -(으)ㄹ) (Noun Modifiers) (Part 5)",
+    "title": "인물 소개, 취향 탐색 및 사물 묘사 실전 복합 수식 담화",
     "level": "B1",
-    "objective": "Comprehensive mastery of 관형사형 전성어미 (Noun-Modifying Clauses).",
+    "objective": "동사/형용사의 현재(-는, -(으)ㄴ), 과거(-(으)ㄴ, -던, -았던/었던), 미래(-(으)ㄹ) 관형절을 복합 활용하여 정밀하고 유창한 묘사 담화를 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 관형사형 전성어미(-(으)ㄴ, -는, -(으)ㄹ) (Noun Modifiers) » (제5절)의 핵심 언어 요소와 관형사형 전성어미 (Noun-Modifying Clauses)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "실제 대화에서는 한 문장 안에 다양한 시제의 관형절이 중첩되어 인물, 취미, 물건, 추억을 입체적으로 묘사합니다.\n\n1. 실전 인물 묘사 및 취향 탐색 담화 모델:\n- A: 민수 씨, 저기 파란색 셔츠를 입고 안경을 쓴 분이 누구예요?\n- B: 아, 저분이 바로 지난달에 새로 우리 부서로 오신 박 팀장님이세요.\n- A: 인상이 참 따뜻하고 다정해 보이시네요. 어떤 업무를 담당하시는 분인가요?\n- B: 해외 마케팅을 총괄하시는 분인데, 일도 정말 꼼꼼하게 잘하시고 직원들을 늘 배려해 주시는 훌륭한 분이에요.\n- A: 그렇군요! 오늘 점심에 팀장님과 같이 식사할 기회가 있을까요?\n- B: 네, 팀장님께서 평소에 자주 가시는 단골 한식당이 있는데 오늘 거기로 같이 갈 예정이에요. 함께 가요!",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (16.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "A: 저기 긴 머리에 코트를 입은 사람이 누구예요? B: 제가 가르치는 학생이에요.",
+          "reading": "A: Jeogi gin meori-e koteu-reul ibeun saram-i nugu-yeyo? B: Je-ga gareuchineun haksaeng-ieyo.",
+          "translation": "A: Who is that person with long hair wearing a coat? B: That is a student I teach (Adj '긴' + past wearing '입은' + present '가르치는')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (16.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "작년에 샀던 노트북이 고장 나서 내일 새로 살 컴퓨터를 알아보고 있습니다.",
+          "reading": "Jangnyeon-e satdeon noteubuk-i gojang naseo naeil saero sal keompyuteo-reul arabogo itseumnida.",
+          "translation": "The laptop I bought last year broke down, so I am looking into a computer to buy anew tomorrow ('샀던' past recall + '살' future modifier)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (16.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "제가 어릴 때부터 꿈꾸던 이상적인 직업을 드디어 갖게 되었습니다.",
+          "reading": "Je-ga eoril ttae-buteo kkumkkudeon isangjeogin jigeop-eul deudieo gatge doeeotseumnida.",
+          "translation": "I finally came to have the ideal profession that I had been dreaming of since I was young ('꿈꾸던' + '이상적인')."
+        },
+        {
+          "target": "오늘 저녁에 먹을 맛있는 요리를 정성껏 준비하고 있는 중입니다.",
+          "reading": "Oneul jeonyeok-e meog-eul masitneun yori-reul jeongseongkkeot junbihago itneun jung-imnida.",
+          "translation": "I am in the middle of preparing with care the delicious food to eat for dinner tonight ('먹을' future + '맛있는' adj + '준비하고 있는' present progressive)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "어제 산(과거) 옷, 지금 입는(현재) 옷, 내일 입을(미래) 옷, 자주 입던(회상) 옷! 완벽한 시제 마스터!"
+      ],
+      "culturalNotes": [
+        "한국어에서는 인물을 묘사할 때 [입다, 쓰다, 신다, 끼다] 등의 착용 동사에 과거 관형형 '-(으)ㄴ'을 사용하여 '현재 착용한 상태'를 묘사하는 것이 매우 독특하고 중요한 문법적 특징입니다(예: 안경을 쓴 사람, 모자를 쓴 사람)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 관형사형 전성어미 (Noun-Modifying Clauses) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "'안경을 착용하고 있는 사람'을 관형절로 가장 올바르게 표현한 형태는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (16.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (16.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (16.5.3)."
+            "안경을 쓴 사람",
+            "안경을 쓰는 사람",
+            "안경을 쓸 사람"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "착용 완료 상태의 인물을 묘사할 때는 과거 관형형인 '안경을 쓴 사람'이 가장 자연스럽습니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 관형사형 전성어미(-(으)ㄴ, -는, -(으)ㄹ) (Noun Modifiers) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "다음 복합 수식 문장 중 시제와 수식 관계가 모두 올바른 것은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (16.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (16.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (16.5.3)."
+            "어제 본 영화는 내가 내일 친구에게 추천할 감동적인 명작이다.",
+            "어제 볼 영화는 내가 내일 친구에게 추천한 감동적인 명작이다.",
+            "어제 보는 영화는 내가 내일 친구에게 추천했던 감동적인 명작이다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "과거('본') + 미래('추천할') + 현재 형용사('감동적인')가 완벽한 시제 일치를 이룹니다."
         }
       ]
     },
@@ -7736,14 +7817,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 관형사형 전성어미 (Noun-Modifying Clauses) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 16-5)?",
+          "prompt": "다음 중 관형절 수식 구조가 문법적으로 완벽한 문장은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (16.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (16.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (16.5.3)."
+            "저기 모자를 쓴 친절한 분이 내가 가장 존경하는 교수님이십니다.",
+            "저기 모자를 쓰을 친절는 분이 내가 가장 존경한 교수님이십니다.",
+            "저기 모자를 쓰는 친절한 분이 내가 가장 존경할 교수님이십니다."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "explanation": "'모자를 쓴(상태)' + '친절한(형용사)' + '존경하는(현재 동사)'의 수식 관계가 완벽합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'내가 가장 좋아하는 책이에요'(This is the book I like the most)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "내가 가장 좋아하는 책이에요.",
+            "내가 가장 좋아하는 책이에요"
+          ],
+          "explanation": "내가 + 가장 + 좋아하는(좋아하다 + 는) + 책이에요 = 내가 가장 좋아하는 책이에요."
         }
       ]
     }
