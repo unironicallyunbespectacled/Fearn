@@ -4581,85 +4581,89 @@
     "subject": "mandarin",
     "unit": 8,
     "lessonNumber": 1,
-    "title": "方向、位置与城市交通 (Directions & Urban Transit) (第1讲)",
+    "title": "空间方位词系统与处所名词构成（上/下/前/后/左/右/里/外/东/南/西/北与「边/面/头」） (Spatial Locatives & Suffixes - bian/mian/tou)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：空间方位词（上/下/前/后/左/右/东/南/西/北）、问路指路及城市公共交通工具。 (第1部分)。",
+    "objective": "系统掌握现代汉语单音节空间方位词（上下前后左右里外东南西北）及其与后缀「边/面/头」构词规则，掌握普通名词处所化机制，熟练运用空间位置描写句式。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在现代汉语中，空间方位的表达由一套高度严密、逻辑清晰的「方位词（Locative Words）」体系所支撑：\n\n一、核心单音节方位词与构词后缀衍生系统：\n1. 单音节基元方位词：上、下、前、后、左、右、里、外、东、南、西、北、中、间、旁、对。\n2. 后缀复合构成规律（「边 (biān)」、「面 (miàn)」、「头 (tóu)」）：\n-「边」与「面」：上边/上面、下边/下面、前边/前面、后边/后面、左边/左面、右边/右面、里边/里面、外边/外面、东边/东面、南边/南面、西边/西面、北边/北面。\n-「头」：主要用于口语中表达上下前后里外（上头、下头、前头、后头、里头、外头）。\n- 特殊方位词：旁边（不能说*旁面）、中间（不能说*中边）、对面（不能说*对头）。\n\n二、名词的「处所化」机制（极重要句法规则）：\n1. 普通实体名词本身不具备处所性质，不能直接作处所状语或「在」的宾语，必须后接方位词构成「处所短语」：\n- 桌子（实体名词） -> 桌子上 / 桌子下边（处所短语）\n- 房间（实体名词） -> 房间里 / 房间外头（处所短语）\n- 学校（实体名词） -> 学校对面 / 学校东面（处所短语）\n\n2. 专有名词与地名禁忌铁律：\n- 国名、省名、城市等固定地理专有名词自身即具备处所属性，其后**绝对严禁随意加「里」或「在」**：\n- 规范正确：在中国、在上海、在北京。\n- 严重病句：*在中国里*、*在上海里*、*在北京市里头*。\n\n三、典型存在与位置描写句型：\n-「处所词/方位短语 + 有/是 + 人/物」：桌子上有一台笔记本电脑。\n-「人/物 + 在 + 处所词/方位短语」：汉语大词典在书架的最上层。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「方向、位置与城市交通 (Directions & Urban Transit)」的核心语法法则与应用范例 (8.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '方向、位置与城市交通 (Directions & Urban Transit)' in simple terms to students at the academic seminar."
+          "target": "汉语大词典在书架的最上边，你可以搬一把椅子拿下来。(Hànyǔ dà cídiǎn zài shūjià de zuì shàngbian, nǐ kěyǐ bān yì bǎ yǐzi ná xiàlái.)",
+          "reading": "[xan˥˩.y˨˩˦ ta˥˩ t͡sʰɨ˧˥.tjɛn˨˩˦ t͡saɪ̯˥˩ ʂu˥.t͡ɕja˥˩ tɤ t͡sweɪ̯˥˩ ʂɑŋ˥˩.pjɛn, ni˨˩˦ kʰɤ˨˩.i˨˩˦ pan˥ i˥ pa˨˩˦ i˨˩.t͡sɨ na˧˥ ɕja˥˩.laɪ̯] (Hàn-yǔ dà cí-diǎn zài shū-jià de zuì shàng-bian, nǐ kě-yǐ bān yì bǎ yǐ-zi ná xià-lái.)",
+          "translation": "The unabridged Chinese dictionary is on the top shelf of the bookcase; you can move a chair to take it down."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (8.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "学校图书馆的东面是一座现代化实验大楼，西面是绿树成荫的操场。(Xuéxiào túshūguǎn de dōngmiàn shì yí zuò xiàndàihuà shíyàn dàlóu, xīmiàn shì lǜshù-chéngyīn de cāochǎng.)",
+          "reading": "[ɕɥɛ˧˥.ɕjaʊ̯˥˩ tʰu˧˥.ʂu˥.kwan˨˩˦ tɤ tʊŋ˥.mjɛn˥˩ ʂɨ˥˩ i˧˥ t͡swɔ˥˩ ɕjɛn˥˩.taɪ̯˥˩.xwa˥˩ ʂɨ˧˥.jɛn˥˩ ta˥˩.loʊ̯˧˥, ɕi˥.mjɛn˥˩ ʂɨ˥˩ ly˥˩.ʂu˥˩.ʈ͡ʂʰɤŋ˧˥.in˥ tɤ t͡sʰaʊ̯˥.ʈ͡ʂʰɑŋ˨˩˦] (Xué-xiào tú-shū-guǎn de dōng-miàn shì yí zuò xiàn-dài-huà shí-yàn dà-lóu, xī-miàn shì lǜ-shù-chéng-yīn de cāo-chǎng.)",
+          "translation": "To the east of the school library is a modernized laboratory building, and to the west is a shaded athletic field."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (8.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "咖啡厅在银行的对面，中间隔着一条宽阔的城市主干道。(Kāfēitīng zài yínháng de duìmiàn, zhōngjiān gé zhe yì tiáo kuānkuò de chéngshì zhǔgàndào.)",
+          "reading": "[kʰa˥.feɪ̯˥.tʰiŋ˥ t͡saɪ̯˥˩ in˧˥.xɑŋ˧˥ tɤ tweɪ̯˥˩.mjɛn˥˩, ʈ͡ʂʊŋ˥.t͡ɕjɛn˥ kɤ˧˥ ʈ͡ʂɤ i˥ tʰjaʊ̯˧˥ kʰwan˥.kʰwɔ˥˩ tɤ ʈ͡ʂʰɤŋ˧˥.ʂɨ˥˩ ʈ͡ʂu˨˩.kan˥˩.taʊ̯˥˩] (Kā-fēi-tīng zài yín-háng de duì-miàn, zhōng-jiān gé zhe yì tiáo kuān-kuò de chéng-shì zhǔ-gàn-dào.)",
+          "translation": "The cafe is opposite the bank, with a wide urban arterial road in between."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (8.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我的黑色双肩包放在桌子下头，里面有两本新教材和一支钢笔。(Wǒ de hēisè shuāngjiānbāo fàng zài zhuōzi xiàtou, lǐmiàn yǒu liǎng běn xīn jiàocái hé yì zhī gāngbǐ.)",
+          "reading": "[wɔ˨˩ tɤ xeɪ̯˥.sɤ˥˩ ʂwaŋ˥.t͡ɕjɛn˥.paʊ̯˥ fɑŋ˥˩ t͡saɪ̯˥˩ t͡swɔ˥.t͡sɨ ɕja˥˩.tʰoʊ̯, li˨˩˦.mjɛn joʊ̯˨˩˦ ljaŋ˨˩˦ pən˨˩˦ ɕin˥ t͡ɕjaʊ̯˥˩.t͡sʰaɪ̯˧˥ xɤ˧˥ i˥ ʈ͡ʂɨ˥ kɑŋ˥.pi˨˩˦] (Wǒ de hēi-sè shuāng-jiān-bāo fàng zài zhuō-zi xià-tou, lǐ-miàn yǒu liǎng běn xīn jiào-cái hé yì zhī gāng-bǐ.)",
+          "translation": "My black backpack is placed under the table; inside there are two new textbooks and a fountain pen."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "方位单字加上边面头，桌上屋里处所留；地名国名不加里，东方西方照水流！"
+      ],
+      "culturalNotes": [
+        "中国传统建筑与城市空间规划深度融入了以「四正方位（东、南、西、北）」为核心的空间哲学。例如古都北京坐北朝南的中轴线格局。北方人在日常指路时，极习惯使用「往东走」、「在路北」等绝对地理坐标，展现了独特的地理方位认知习惯。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「方向、位置与城市交通 (Directions & Urban Transit)」（第1讲）的标准汉语规范？",
+          "prompt": "要表达「书架的最上面放着词典」，正确的方位短语是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「方向、位置与城市交通 (Directions & Urban Transit)」的核心语法法则与应用范例 (8.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (8.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (8.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (8.1.w3)"
+            "书架的最上边 / 最上面 (shūjià de zuì shàngbian/shàngmiàn)",
+            "书架的最上头面",
+            "书架的最上边里",
+            "书架的最面头"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「上」可接后缀「边」或「面」构成标准方位词「上边/上面」。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "下列关于地理专有名词与方位词的搭配中，完全符合汉语语法规范的是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "他在北京工作。(专有名词不随意加「里」)",
+            "他在北京里工作。(病句：地名误加「里」)",
+            "他在中国里面生活。(病句：国名误加「里面」)",
+            "他在上海城市里头居住。(表达累赘不规范)"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "城市名、国名自身具有处所属性，无需也不应加「里」或「里面」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「方向、位置与城市交通 (Directions & Urban Transit)」的正式语境下，最准确得体的表达是哪一项？（第8.1题）",
+          "prompt": "在句子「学校的______是一座新建的体育馆，环境非常好」中，表示两建筑相对位置的词语是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (8.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (8.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (8.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (8.1.x3)"
+            "对面 (duìmiàn - opposite)",
+            "对边",
+            "对头",
+            "对上"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "表示空间相对位置时，固定搭配为「对面」，不能说「对边」或「对头」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u8-l1）所要求的高阶语言表达？",
+          "prompt": "下列哪一项属于由于方位词误用而导致的病句？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (8.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (8.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (8.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (8.1.y3)"
+            "我昨天在中国里买了很多中国传统茶叶。(病句：国名后误加「里」)",
+            "我昨天在中国买了很多中国传统茶叶。",
+            "茶叶放在茶几上面的盒子里。",
+            "茶几旁边有一把红木椅子。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「在中国里」属于初学者极易出现的语法偏误，国名后不可加「里」。"
         }
       ]
     },
@@ -4667,25 +4671,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「方向、位置与城市交通 (Directions & Urban Transit)」的掌握程度，请选出表述完全正确的标准范句（测试 8-1）：",
+          "prompt": "请选出下列句子中空间方位词运用完全规范精准的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (8.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (8.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (8.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (8.1.z3)"
+            "新华书店在学校东门的正对面，书店的左边是一家安静的咖啡馆。(方位词搭配与空间指引完全严密规范)",
+            "新华书店在学校东门的正对边，书店的左头是一家咖啡馆。(对边/左头误用)",
+            "新华书店在北京市里东门，书店的旁面有一家咖啡馆。(市里/旁面误用)",
+            "新华书店东边在学校对面，左边里是咖啡馆。(语序错乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「正对面」、「左边」方位词规范得体，空间结构交代条理井然。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u8-l1）的核心关键词（例如「方向、位」）：",
+          "prompt": "请输入与方位词「前、后、左、右、东、南、西、北」组合构成双音节方位词的单字汉字后缀（拼音为 biān）：",
           "acceptedAnswers": [
-            "方向、位",
-            "方向、位置与",
-            "方向、位置与城市交通"
+            "边"
           ],
-          "explanation": "正确的核心关键词为「方向、位」。"
+          "explanation": "汉字「边」是构成汉语空间方位词系统最核心的词缀之一。"
         }
       ],
       "passThreshold": 0.8
@@ -4696,85 +4698,89 @@
     "subject": "mandarin",
     "unit": 8,
     "lessonNumber": 2,
-    "title": "方向、位置与城市交通 (Directions & Urban Transit) (第2讲)",
+    "title": "空间介词「在/从/往/向/离」与相对距离句式（A离B很远/近、从A到B、往/向+方向+动词） (Locative Prepositions & Distance Expressions)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：空间方位词（上/下/前/后/左/右/东/南/西/北）、问路指路及城市公共交通工具。 (第2部分)。",
+    "objective": "熟练掌握空间介词「在、从、往、向、离」的语法功能与句法位置，掌握「A离B很远/近」相对距离表达与「往/向+方向+动词」位移指向结构。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在现代汉语中，空间位置的标定、起止路径的延伸以及位移运动的朝向，通过一组功能明确的空间介词来实现：\n\n一、相对空间与时间距离介词「离 (lí)」：\n1. 核心句式模型：\n-「地点A + 离 + 地点B + 很远 / 很近 / 不太远 / 有多远？/ 有五公里」\n- 我们大学离市中心很近，交通十分便利。\n- 请问这里离火车站有多远？\n2.「离」亦可引申表达时间跨度：\n- 离期末考试还有整整两个星期。\n\n二、起止路径介词框架「从 (cóng)......到 (dào)......」：\n- 标定动作位移的起点与终点：\n- 从北京乘坐高铁到上海只需要四个半小时。\n- 从我家到公司每天步行大概需要二十分钟。\n\n三、位移方向指向介词「往 (wǎng)」与「向 (xiàng)」：\n1. 核心句式模型：「往 / 向 + 方位词/处所 + 谓语动词」：\n- 往东走 (Walk towards the east) / 向前看 (Look forward)\n- 往右拐 (Turn right) / 向左转 (Turn left)\n2.「往」与「向」的细微语体辨析：\n-「往」更多用于口语中具体的物理位移（往上爬、往前开）。\n-「向」既可用于物理位移，也可用于抽象对象或敬称（向老师请教、向英雄学习）。\n\n四、介词短语的句法位置铁律：\n- 汉语介词短语（状语）**必须置于谓语动词之前**（S + [介宾短语] + V + O），绝不能置于句末：\n- 正确：我们[从北京]出发。\n- 严重病句：*我们出发从北京*。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「方向、位置与城市交通 (Directions & Urban Transit)」的核心语法法则与应用范例 (8.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '方向、位置与城市交通 (Directions & Urban Transit)' in simple terms to students at the academic seminar."
+          "target": "我们学校离市中心的大型购物商场不太远，坐地铁只需十五分钟。(Wǒmen xuéxiào lí shìzhōngxīn de dàxíng gòuwù shāngchǎng bú tài yuǎn, zuò dìtiě zhǐ xū shíwǔ fēnzhōng.)",
+          "reading": "[wɔ˨˩.mən ɕɥɛ˧˥.ɕjaʊ̯˥˩ li˧˥ ʂɨ˥˩.ʈ͡ʂʊŋ˥.ɕin˥ tɤ ta˥˩.ɕiŋ˧˥ koʊ̯˥˩.u˥˩ ʂɑŋ˥.ʈ͡ʂʰɑŋ˨˩˦ pu˧˥ tʰaɪ̯˥˩ jɥɛn˨˩˦, t͡swɔ˥˩ ti˥˩.tʰjɛ˨˩˦ ʈ͡ʂɨ˨˩˦ ɕy˥ ʂɨ˧˥.u˨˩˦ fən˥.ʈ͡ʂʊŋ˥] (Wǒ-men xué-xiào lí shì-zhōng-xīn de dà-xíng gòu-wù shāng-chǎng bú tài yuǎn, zuò dì-tiě zhǐ xū shí-wǔ fēn-zhōng.)",
+          "translation": "Our school is not very far from the large shopping mall in the city center; it takes only 15 minutes by subway."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (8.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "从北京乘坐复兴号高铁到上海，全程一千三百多公里只需要四个多小时。(Cóng Běijīng chéngzuò Fùxīnghào gāotiě dào Shànghǎi, quánchéng yìqiān sānbǎi duō gōnglǐ zhǐ xūyào sì gè duō xiǎoshí.)",
+          "reading": "[t͡sʰʊŋ˧˥ peɪ̯˨˩.t͡ɕiŋ˥ ʈ͡ʂʰɤŋ˧˥.t͡swɔ˥˩ fu˥˩.ɕiŋ˥.xaʊ̯˥˩ kaʊ̯˥.tʰjɛ˨˩˦ taʊ̯˥˩ ʂɑŋ˥˩.xaɪ̯˨˩˦, t͡ɕʰyɛn˧˥.ʈ͡ʂʰɤŋ˧˥ i˥.t͡ɕʰjɛn˥ san˥.paɪ̯˨˩˦ twɔ˥ kʊŋ˥.li˨˩˦ ʈ͡ʂɨ˨˩˦ ɕy˥.jaʊ̯˥˩ sɨ˥˩ kɤ twɔ˥ ɕjaʊ̯˨˩.ʂɨ˨˩˦] (Cóng Běi-jīng chéng-zuò Fù-xīng-hào gāo-tiě dào Shàng-hǎi, quán-chéng yì-qiān sān-bǎi duō gōng-lǐ zhǐ xū-yào sì gè duō xiǎo-shí.)",
+          "translation": "Taking the Fuxing high-speed train from Beijing to Shanghai, the entire journey of over 1,300 kilometers takes only four-odd hours."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (8.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "走到前面的十字路口，请向右拐，然后一直往前走两百米。(Zǒu dào qiánmiàn de shízìlùkǒu, qǐng xiàng yòu guǎi, ránhòu yìzhí wǎng qián zǒu liǎng bǎi mǐ.)",
+          "reading": "[t͡soʊ̯˨˩.taʊ̯˥˩ t͡ɕʰjɛn˧˥.mjɛn˥˩ tɤ ʂɨ˧˥.t͡sɨ˥˩.lu˥˩.kʰoʊ̯˨˩˦, t͡ɕʰiŋ˨˩˦ ɕjɑŋ˥˩ joʊ̯˥˩ kwaɪ̯˨˩˦, ʐan˧˥.xoʊ̯˥˩ i˥.ʈ͡ʂɨ˧˥ wɑŋ˨˩˦ t͡ɕʰjɛn˧˥ t͡soʊ̯˨˩ ljaŋ˨˩˦ paɪ̯˨˩˦ mi˨˩˦] (Zǒu dào qián-miàn de shí-zì-lù-kǒu, qǐng xiàng yòu guǎi, rán-hòu yì-zhí wǎng qián zǒu liǎng bǎi mǐ.)",
+          "translation": "When you walk to the intersection ahead, please turn right, and then walk straight forward for two hundred meters."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (8.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "——请问从这里到中国国家大剧院有多远？——大概有三公里左右。(—Qǐngwèn cóng zhèlǐ dào Zhōngguó Guójiā Dàjùyuàn yǒu duō yuǎn? —Dàgài yǒu sān gōnglǐ zuǒyòu.)",
+          "reading": "[—t͡ɕʰiŋ˨˩˦.wən˥˩ t͡sʰʊŋ˧˥ ʈ͡ʂɤ˥˩.li˨˩˦ taʊ̯˥˩ ʈ͡ʂʊŋ˥.kwɔ˧˥ kwɔ˧˥.t͡ɕja˥ ta˥˩.t͡ɕy˥˩.ɥɛn˥˩ joʊ̯˨˩˦ twɔ˥ jɥɛn˨˩˦? —ta˥˩.kaɪ̯˥˩ joʊ̯˨˩˦ san˥ kʊŋ˥.li˨˩˦ t͡swɔ˨˩˦.joʊ̯˥˩] (—Qǐng-wèn cóng zhè-lǐ dào Zhōng-guó Guó-jiā Dà-jù-yuàn yǒu duō yuǎn? —Dà-gài yǒu sān gōng-lǐ zuǒ-yòu.)",
+          "translation": "—Excuse me, how far is it from here to the National Centre for the Performing Arts? —It is roughly about three kilometers."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "A离B远近明，从起向终路径清；往东向右动词前，介宾状语步步赢！"
+      ],
+      "culturalNotes": [
+        "在汉语空间哲学中，表达方位移动时遵循「起点在先，位移居中，归宿在后」的自然时间线性顺序。因此「从A到B」与「往/向+方向+动词」始终保持动词前置介词短语的严整格式。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「方向、位置与城市交通 (Directions & Urban Transit)」（第2讲）的标准汉语规范？",
+          "prompt": "要表达「图书馆离学生宿舍不远」，正确的句子结构是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「方向、位置与城市交通 (Directions & Urban Transit)」的核心语法法则与应用范例 (8.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (8.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (8.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (8.2.w3)"
+            "图书馆离学生宿舍不远。(A + 离 + B + 形容词)",
+            "图书馆从学生宿舍不远。",
+            "图书馆向学生宿舍不远。",
+            "图书馆在学生宿舍不远。"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "表达两地相对空间距离时，必须使用介词「离」（A离B远/近）。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在句子「请您走到红绿灯路口______右拐」中，表示位移方向的介词是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "向 / 往 (xiàng / wǎng yòu guǎi)",
+            "离",
+            "从",
+            "在"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "表示朝向某一方向转弯位移，使用「向」或「往」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「方向、位置与城市交通 (Directions & Urban Transit)」的正式语境下，最准确得体的表达是哪一项？（第8.2题）",
+          "prompt": "下列哪一个句子由于介词短语位置后置而构成了病句？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (8.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (8.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (8.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (8.2.x3)"
+            "我们明天坐高速列车出发从北京。(病句：介词短语置于动词后)",
+            "我们明天坐高速列车从北京出发。",
+            "从北京到天津只需要半个小时。",
+            "北京离天津非常近。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "汉语介词短语必须放在谓语动词之前作状语，不可置于动词后。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u8-l2）所要求的高阶语言表达？",
+          "prompt": "询问两地之间的具体距离，最地道的疑问格式是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (8.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (8.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (8.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (8.2.y3)"
+            "从这里到市中心有多远？ / 这里离市中心有多远？",
+            "从这里在市中心有多远？",
+            "这里向市中心有多远？",
+            "这里往市中心有多远？"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "询问距离标准句式为「A离B有多远？」或「从A到B有多远？」。"
         }
       ]
     },
@@ -4782,25 +4788,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「方向、位置与城市交通 (Directions & Urban Transit)」的掌握程度，请选出表述完全正确的标准范句（测试 8-2）：",
+          "prompt": "请选出下列句子中空间介词「离、从、到、向、往」运用完全规范得体的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (8.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (8.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (8.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (8.2.z3)"
+            "我们学校离地铁站只有五百米，从校门口一直往前走，在十字路口向左拐就到了。(介词搭配与语序完全严密精确)",
+            "我们学校从地铁站只有五百米，离校门口往前走一直。(介词混乱)",
+            "我们学校向地铁站很近，往校门口出发到地铁站从。(虚词颠倒)",
+            "我们学校在地铁站五百米离，从走往左拐。(结构瓦解)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「离地铁站」、「从校门口」、「往前走」、「向左拐」层层递进，语法完全标准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u8-l2）的核心关键词（例如「方向、位」）：",
+          "prompt": "请输入表示标定两地之间相对距离的核心单字介词汉字（拼音为 lí）：",
           "acceptedAnswers": [
-            "方向、位",
-            "方向、位置与",
-            "方向、位置与城市交通"
+            "离"
           ],
-          "explanation": "正确的核心关键词为「方向、位」。"
+          "explanation": "汉字「离」在现代汉语中充当标定空间与时间相对跨度的核心介词。"
         }
       ],
       "passThreshold": 0.8
@@ -4811,85 +4815,89 @@
     "subject": "mandarin",
     "unit": 8,
     "lessonNumber": 3,
-    "title": "方向、位置与城市交通 (Directions & Urban Transit) (第3讲)",
+    "title": "城市公共交通工具与出行方式（坐/乘/骑/开/换乘、地铁、公交、出租车与高铁） (Urban Transit & Commuting Verbs)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：空间方位词（上/下/前/后/左/右/东/南/西/北）、问路指路及城市公共交通工具。 (第3部分)。",
+    "objective": "系统掌握现代城市公共交通工具词汇（地铁、公交车、出租车、网约车、高铁、共享单车）及对应谓语动词搭配（坐/乘/骑/开/换乘），掌握连动式出行句型。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在现代中国城市生活中，公共交通出行词汇与连动句式是日常交际的高频核心：\n\n一、核心城市交通工具词汇体系：\n1. 轨道与陆地公共交通：地铁 (dìtiě)、公共汽车 / 公交车 (gōngjiāochē)、轻轨 (qīngguǐ)、有轨电车 (yǒuguǐ diànchē)。\n2. 城际高速客运：高速铁路 / 高铁 (gāotiě)、动车 (dòngchē)、普速列车 / 火车 (huǒchē)。\n3. 乘用车与点对点交通：出租车 (chūzūchē)、网约车 (wǎngyuēchē)、私家车 (sījiāchē)。\n4. 慢行与绿色交通：自行车 (zìxíngchē)、共享单车 (gòngxiǎng dānchē)、电动车 (diàndòngchē)。\n5. 航空与水运：飞机 (fēijī)、轮渡 (lúndù)、轮船 (lúnchuán)。\n\n二、出行方式动词搭配精准铁律：\n1.「坐 (zuò) / 乘 (chéng)」：适用于乘坐有专人驾驶的客运工具（坐地铁、坐公交车、坐出租车、坐高铁、乘飞机）。\n2.「骑 (qí)」：适用于跨骑类两轮交通工具（骑自行车、骑共享单车、骑摩托车）。\n3.「开 (kāi)」：适用于亲自驾驶机动车（开车、开私家车、开出租车）。\n4.「走路 / 步行 (zǒulù / bùxíng)」：适用于徒步出行。\n\n三、连动句式表达出行手段与目的：\n-「主语 + [交通方式动词短语] + 去/到 + [目的地] + (做某事)」：\n- 我每天早晨[坐地铁五号线]去[公司上班]。\n- 他[骑共享单车]到[图书馆借书]。\n\n四、地铁换乘与站台常用交际表达：\n- 换乘 / 转乘：在一号线人民广场站换乘二号线。\n- 进站 / 出站：刷卡进站、扫码出站、A出入口。\n- 始发与终到：首班车 (First train)、末班车 (Last train)。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「方向、位置与城市交通 (Directions & Urban Transit)」的核心语法法则与应用范例 (8.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '方向、位置与城市交通 (Directions & Urban Transit)' in simple terms to students at the academic seminar."
+          "target": "我每天早晨骑共享单车去地铁站，然后坐八号线去公司上班。(Wǒ měitiān zǎochén qí gòngxiǎng dānchē qù dìtiězhàn, ránhòu zuò bā hào xiàn qù gōngsī shàngbān.)",
+          "reading": "[wɔ˨˩ meɪ̯˨˩.tʰjɛn˥ t͡saʊ̯˨˩˦.ʈ͡ʂʰən t͡ɕʰi˧˥ kʊŋ˥˩.ɕjɑŋ˨˩˦ tan˥.ʈ͡ʂʰɤ t͡ɕʰy˥˩ ti˥˩.tʰjɛ˨˩.ʈ͡ʂan˥˩, ʐan˧˥.xoʊ̯˥˩ t͡swɔ˥˩ pa˥ xaʊ̯˥˩ ɕjɛn˥˩ t͡ɕʰy˥˩ kʊŋ˥.sɨ˥ ʂɑŋ˥˩.pan˥] (Wǒ měi-tiān zǎo-chén qí gòng-xiǎng dān-chē qù dì-tiě-zhàn, rán-hòu zuò bā hào xiàn qù gōng-sī shàng-bān.)",
+          "translation": "Every morning I ride a shared bike to the subway station and then take Line 8 to go to work at the company."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (8.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "如果赶时间去首都国际机场，最好在市区东直门乘坐机场快轨列车。(Rúguǒ gǎn shíjiān qù Shǒudū Guójì Jīchǎng, zuì hǎo zài shìqū Dōngzhímén chéngzuò jīchǎng kuàiguǐ lièchē.)",
+          "reading": "[ʐu˧˥.kwɔ˨˩˦ kan˨˩˦ ʂɨ˧˥.t͡ɕjɛn˥ t͡ɕʰy˥˩ ʂoʊ̯˨˩.tu˥ kwɔ˧˥.t͡ɕi˥˩ t͡ɕi˥.ʈ͡ʂʰɑŋ˨˩˦, t͡sweɪ̯˥˩ xaʊ̯˨˩˦ t͡saɪ̯˥˩ ʂɨ˥˩.t͡ɕʰy˥ tʊŋ˥.ʈ͡ʂɨ˧˥.mən˧˥ ʈ͡ʂʰɤŋ˧˥.t͡swɔ˥˩ t͡ɕi˥.ʈ͡ʂʰɑŋ˨˩ kuai˥˩.kweɪ̯˨˩˦ ljɛ˥˩.ʈ͡ʂʰɤ˥] (Rú-guǒ gǎn shí-jiān qù Shǒu-dū Guó-jì Jī-chǎng, zuì hǎo zài shì-qū Dōng-zhí-mén chéng-zuò jī-chǎng kuài-guǐ liè-chē.)",
+          "translation": "If you are pressed for time to go to Capital International Airport, it is best to take the airport express train at Dongzhimen in the downtown area."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (8.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "你需要先坐地铁一号线，在人民广场站换乘二号线，坐三站后在南京东路站下车。(Nǐ xūyào xiān zuò dìtiě yī hào xiàn, zài Rénmín Guǎngchǎng zhàn huànchéng èr hào xiàn, zuò sān zhàn hòu zài Nánjīng Dōnglù zhàn xiàchē.)",
+          "reading": "[ni˨˩˦ ɕy˥.jaʊ̯˥˩ ɕjɛn˥ t͡swɔ˥˩ ti˥˩.tʰjɛ˨˩˦ i˥ xaʊ̯˥˩ ɕjɛn˥˩, t͡saɪ̯˥˩ ʐən˧˥.min˧˥ kwaŋ˨˩.ʈ͡ʂʰɑŋ˨˩˦ ʈ͡ʂan˥˩ xwan˥˩.ʈ͡ʂʰɤŋ˧˥ aɚ˥˩ xaʊ̯˥˩ ɕjɛn˥˩, t͡swɔ˥˩ san˥ ʈ͡ʂan˥˩ xoʊ̯˥˩ t͡saɪ̯˥˩ nan˧˥.t͡ɕiŋ˥ tʊŋ˥.lu˥˩ ʈ͡ʂan˥˩ ɕja˥˩.ʈ͡ʂʰɤ˥] (Nǐ xū-yào xiān zuò dì-tiě yī hào xiàn, zài Rén-mín Guǎng-chǎng zhàn huàn-chéng èr hào xiàn, zuò sān zhàn hòu zài Nán-jīng Dōng-lù zhàn xià-chē.)",
+          "translation": "You need to take Subway Line 1 first, transfer to Line 2 at People's Square Station, and get off at East Nanjing Road Station after three stops."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (8.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "现在的中国大城市出行非常便捷，手机扫码就可以骑共享单车或乘坐公交地铁。(Xiànzài de Zhōngguó dà chéngshì chūxíng fēicháng biànjié, shǒujī sǎomǎ jiù kěyǐ qí gòngxiǎng dānchē huò chéngzuò gōngjiāo dìtiě.)",
+          "reading": "[ɕjɛn˥˩.t͡saɪ̯˥˩ tɤ ʈ͡ʂʊŋ˥.kwɔ˧˥ ta˥˩ ʈ͡ʂʰɤŋ˧˥.ʂɨ˥˩ t͡ʂʰu˥.ɕiŋ˧˥ feɪ̯˥.ʈ͡ʂʰɑŋ˧˥ pjɛn˥˩.t͡ɕjɛ˧˥, ʂoʊ̯˨˩.t͡ɕi˥ saʊ̯˨˩.ma˨˩˦ t͡ɕjoʊ̯˥˩ kʰɤ˨˩.i˨˩˦ t͡ɕʰi˧˥ kʊŋ˥˩.ɕjɑŋ˨˩˦ tan˥.ʈ͡ʂʰɤ xwo˥˩ ʈ͡ʂʰɤŋ˧˥.t͡swɔ˥˩ kʊŋ˥.t͡ɕjaʊ̯˥ ti˥˩.tʰjɛ˨˩˦] (Xiàn-zài de Zhōng-guó dà chéng-shì chū-xíng fēi-cháng biàn-jié, shǒu-jī sǎo-mǎ jiù kě-yǐ qí gòng-xiǎng dān-chē huò chéng-zuò gōng-jiāo dì-tiě.)",
+          "translation": "Travel in modern Chinese major cities is extremely convenient; you can ride shared bikes or take public buses and subways simply by scanning a QR code with a mobile phone."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "坐车乘机骑单车，开动私车转地铁；换乘站点按线走，扫码出行快如铁！"
+      ],
+      "culturalNotes": [
+        "中国建成了全球规模最大的高速铁路网和城市轨道交通网络。在各大主要城市，「手机扫码一码通乘」与遍布街巷的「共享单车」构成了极具中国特色的智慧绿色出行方式。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「方向、位置与城市交通 (Directions & Urban Transit)」（第3讲）的标准汉语规范？",
+          "prompt": "与交通工具「自行车 / 共享单车」搭配的正确动词是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「方向、位置与城市交通 (Directions & Urban Transit)」的核心语法法则与应用范例 (8.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (8.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (8.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (8.3.w3)"
+            "骑 (qí zìxíngchē / qí gòngxiǎng dānchē)",
+            "坐",
+            "开",
+            "乘"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "跨骑两轮车辆必须使用动词「骑」（骑自行车、骑摩托车）。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在地铁线路中，表达「从一号线转到二号线」的专业规范动词是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "换乘 / 转乘 (huànchéng / zhuǎnchéng)",
+            "改坐",
+            "变车",
+            "替乘"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "在轨道交通中，转换线路的标准术语为「换乘」或「转乘」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「方向、位置与城市交通 (Directions & Urban Transit)」的正式语境下，最准确得体的表达是哪一项？（第8.3题）",
+          "prompt": "要表达「开着私家车去郊区旅游」，正确的动宾搭配是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (8.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (8.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (8.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (8.3.x3)"
+            "开车 / 开私家车 (kāi chē / kāi sījiāchē)",
+            "骑私家车",
+            "坐开私家车",
+            "步私家车"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "亲自驾驶汽车必须使用动词「开」（开车）。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u8-l3）所要求的高阶语言表达？",
+          "prompt": "连动句表达出行手段：下列哪一项在句式逻辑与动词搭配上完全正确？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (8.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (8.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (8.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (8.3.y3)"
+            "王老师每天骑自行车到大学图书馆查阅文献资料。(手段在先，目的在后)",
+            "王老师每天到大学图书馆查阅文献骑自行车资料。(语序混乱)",
+            "王老师每天坐自行车到大学图书馆查阅资料。(动词误用)",
+            "王老师每天开自行车去查阅资料。(动词误用)"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "连动句遵循「S + [方式方式动词短语] + 去/到 + [目的地点] + [动作]」的标准逻辑。"
         }
       ]
     },
@@ -4897,25 +4905,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「方向、位置与城市交通 (Directions & Urban Transit)」的掌握程度，请选出表述完全正确的标准范句（测试 8-3）：",
+          "prompt": "请选出下列出行与交通叙述中动词搭配与句法完全规范得体的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (8.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (8.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (8.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (8.3.z3)"
+            "我打算明天早晨乘高铁去北京出差，到了北京南站后再坐四号线地铁去酒店。(乘高铁、坐地铁搭配精准自然)",
+            "我打算明天早晨骑高铁去北京出差，到了北京南站后开四号线地铁。(动词严重错用)",
+            "我打算明天早晨走高铁去北京，坐四号线地铁在骑去酒店。(句式杂糅错乱)",
+            "我打算明天早晨开高铁出差北京，到了后乘自行车。(动宾搭配荒谬)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「乘高铁」、「坐地铁」搭配规范，行程时序条理分明。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u8-l3）的核心关键词（例如「方向、位」）：",
+          "prompt": "请输入表示城市地下铁道交通工具的核心双字词语汉字（拼音为 dìtiě）：",
           "acceptedAnswers": [
-            "方向、位",
-            "方向、位置与",
-            "方向、位置与城市交通"
+            "地铁"
           ],
-          "explanation": "正确的核心关键词为「方向、位」。"
+          "explanation": "词语「地铁」是现代汉语中指称地下铁道系统的最常用词汇。"
         }
       ],
       "passThreshold": 0.8
@@ -4926,85 +4932,89 @@
     "subject": "mandarin",
     "unit": 8,
     "lessonNumber": 4,
-    "title": "方向、位置与城市交通 (Directions & Urban Transit) (第4讲)",
+    "title": "问路与指路经典会话句式（请问去...怎么走、一直往前走、过马路、红绿灯） (Asking & Giving Directions Discourse)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：空间方位词（上/下/前/后/左/右/东/南/西/北）、问路指路及城市公共交通工具。 (第4部分)。",
+    "objective": "熟练掌握汉语街头问路礼貌开场白（请问/劳驾/师傅）、指路方位指令（一直往前走、向左拐/向右转、过马路、红绿灯路口）及地标确认句型。",
     "presentation": {
-      "explanation": "",
+      "explanation": "掌握地道自然的问路与指路交际句式，是顺利融入汉语真实语境的重要能力：\n\n一、礼貌问路核心句式与尊称开场白：\n1. 尊称与礼貌开场：\n-「请问，去......怎么走？」(Qǐngwèn, qù... zěnme zǒu?)\n-「劳驾，请问这附近有......吗？」(Láojià, qǐngwèn zhè fùjìn yǒu... ma?)\n-「师傅 / 同学 / 您好，打扰一下，请问去......往哪边走？」\n\n二、精准指路核心动词与位移指令词汇：\n1. 直行指令：\n-「一直往前走 (yìzhí wǎng qián zǒu)」(Walk straight ahead)\n-「沿着这条街一直走 (yán zhe zhè tiáo jiē yìzhí zǒu)」\n-「走到底 / 走到头 (zǒu dào dǐ / zǒu dào tóu)」(Walk to the end of the road)\n\n2. 转向指令：\n-「向左拐 / 往左转 (xiàng zuǒ guǎi / wǎng zuǒ zhuǎn)」\n-「向右拐 / 往右转 (xiàng yòu guǎi / wǎng yòu zhuǎn)」\n-「掉头 (diàotóu)」(Make a U-turn)\n\n3. 道路交叉与过街指令：\n-「在第一个十字路口 (zài dì yī gè shízìlùkǒu)」\n-「在红绿灯路口 (zài hónglǜdēng lùkǒu)」\n-「过马路 (guò mǎlù) / 走过街天桥 (zǒu guòjiē tiānqiáo) / 走地下通道 (zǒu dìxià tōngdào)」\n\n三、目标确认与方位终点句式：\n-「......就在你的右手边 / 左手边。」\n-「你看，前边那栋高楼就是。」\n-「大概走五分钟就能看到。」",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「方向、位置与城市交通 (Directions & Urban Transit)」的核心语法法则与应用范例 (8.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '方向、位置与城市交通 (Directions & Urban Transit)' in simple terms to students at the academic seminar."
+          "target": "劳驾，请问去中国国家博物馆怎么走？(Láojià, qǐngwèn qù Zhōngguó Guójiā Bówùguǎn zěnme zǒu?)",
+          "reading": "[laʊ˨˩.t͡ɕja˥˩, t͡ɕʰiŋ˨˩˦.wən˥˩ t͡ɕʰy˥˩ ʈ͡ʂʊŋ˥.kwɔ˧˥ kwɔ˧˥.t͡ɕja˥ pwo˧˥.u˥˩.kwan˨˩˦ t͡sən˨˩.mɤ t͡soʊ̯˨˩˦?] (Láo-jià, qǐng-wèn qù Zhōng-guó Guó-jiā Bó-wù-guǎn zěn-me zǒu?)",
+          "translation": "Excuse me, could you tell me how to get to the National Museum of China?"
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (8.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "你从这里一直往前走，穿过前方的地下通道，过马路后向右拐就是了。(Nǐ cóng zhèlǐ yìzhí wǎng qián zǒu, chuānguò qiánfāng de dìxià tōngdào, guò mǎlù hòu xiàng yòu guǎi jiù shì le.)",
+          "reading": "[ni˨˩˦ t͡sʰʊŋ˧˥ ʈ͡ʂɤ˥˩.li˨˩˦ i˥.ʈ͡ʂɨ˧˥ wɑŋ˨˩˦ t͡ɕʰjɛn˧˥ t͡soʊ̯˨˩, t͡ʂʰwan˥.kwɔ˥˩ t͡ɕʰjɛn˧˥.fɑŋ˥ tɤ ti˥˩.ɕja˥˩ tʰʊŋ˥.taʊ̯˥˩, kwo˥˩ ma˨˩.lu˥˩ xoʊ̯˥˩ ɕjɑŋ˥˩ joʊ̯˥˩ kwaɪ̯˨˩˦ t͡ɕjoʊ̯˥˩ ʂɨ˥˩ lɤ] (Nǐ cóng zhè-lǐ yì-zhí wǎng qián zǒu, chuān-guò qián-fāng de dì-xià tōng-dào, guò mǎ-lù hòu xiàng yòu guǎi jiù shì le.)",
+          "translation": "Go straight forward from here, pass through the underground pedestrian passage ahead, cross the street and turn right, and there it is."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (8.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "走到第二个红绿灯路口往左转，你会看到一家大型新华书店，中国银行就在书店隔壁。(Zǒu dào dì èr gè hónglǜdēng lùkǒu wǎng zuǒ zhuǎn, nǐ huì kàndào yì jiā dàxíng Xīnhuá Shūdiàn, Zhōngguó Yínháng jiù zài shūdiàn gébì.)",
+          "reading": "[t͡soʊ̯˨˩.taʊ̯˥˩ ti˥˩ aɚ˥˩ kɤ xʊŋ˧˥.ly˥˩.tɤŋ˥ lu˥˩.kʰoʊ̯˨˩˦ wɑŋ˨˩˦ t͡swɔ˨˩˦ ʈ͡ʂwan˨˩˦, ni˨˩˦ xweɪ̯˥˩ kʰan˥˩.taʊ̯˥˩ i˥ t͡ɕja˥ ta˥˩.ɕiŋ˧˥ ɕin˥.xwa˧˥ ʂu˥.tjɛn˥˩, ʈ͡ʂʊŋ˥.kwɔ˧˥ in˧˥.xɑŋ˧˥ t͡ɕjoʊ̯˥˩ t͡saɪ̯˥˩ ʂu˥.tjɛn˥˩ kɤ˧˥.pi˥˩] (Zǒu dào dì èr gè hóng-lǜ-dēng lù-kǒu wǎng zuǒ zhuǎn, nǐ huì kàn-dào yì jiā dà-xíng Xīn-huá Shū-diàn, Zhōng-guó Yín-háng jiù zài shū-diàn gé-bì.)",
+          "translation": "Walk to the second traffic light intersection and turn left; you will see a large Xinhua Bookstore, and Bank of China is right next door to the bookstore."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (8.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "——请问这里离最近的地铁站还有多远？——不远，顺着这条林荫大道走五分钟，地铁口就在你的右手边。(—Qǐngwèn zhèlǐ lí zuì jìn de dìtiězhàn hái yǒu duō yuǎn? —Bù yuǎn, shùn zhe zhè tiáo línyīn dàdào zǒu wǔ fēnzhōng, dìtiěkǒu jiù zài nǐ de yòushǒubiān.)",
+          "reading": "[—t͡ɕʰiŋ˨˩˦.wən˥˩ ʈ͡ʂɤ˥˩.li˨˩˦ li˧˥ t͡sweɪ̯˥˩ t͡ɕin˥˩ tɤ ti˥˩.tʰjɛ˨˩.ʈ͡ʂan˥˩ xaɪ̯˧˥ joʊ̯˨˩˦ twɔ˥ jɥɛn˨˩˦? —pu˥ jɥɛn˨˩˦, ʂwən˥˩ ʈ͡ʂɤ ʈ͡ʂɤ˥˩ tʰjaʊ̯˧˥ lin˧˥.in˥ ta˥˩.taʊ̯˥˩ t͡soʊ̯˨˩ u˨˩˦ fən˥.ʈ͡ʂʊŋ˥, ti˥˩.tʰjɛ˨˩.kʰoʊ̯˨˩˦ t͡ɕjoʊ̯˥˩ t͡saɪ̯˥˩ ni˨˩˦ tɤ joʊ̯˥˩.ʂoʊ̯˨˩.pjɛn] (—Qǐng-wèn zhè-lǐ lí zuì jìn de dì-tiě-zhàn hái yǒu duō yuǎn? —Bù yuǎn, shùn zhe zhè tiáo lín-yīn dà-dào zǒu wǔ fēn-zhōng, dì-tiě-kǒu jiù zài nǐ de yòu-shǒu-biān.)",
+          "translation": "—Excuse me, how far is it from here to the nearest subway station? —Not far, walk along this tree-lined avenue for five minutes, and the subway entrance is right on your right-hand side."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "礼貌问路用请问，一直向前莫停步；红绿灯处拐向转，左右两手辨去路！"
+      ],
+      "culturalNotes": [
+        "在向陌生人问路时，使用敬语礼貌词「劳驾 (láojià)」（北京及北方地区尤为常用）或「师傅 (shīfu) / 您好 (nínhǎo)」能迅速建立友好互信的交际氛围，体现了中华传统礼仪文化的涵养。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「方向、位置与城市交通 (Directions & Urban Transit)」（第4讲）的标准汉语规范？",
+          "prompt": "向路人询问去北京大学东门的正确走法，最礼貌得体的开场白是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「方向、位置与城市交通 (Directions & Urban Transit)」的核心语法法则与应用范例 (8.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (8.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (8.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (8.4.w3)"
+            "请问，去北京大学东门怎么走？(Qǐngwèn, qù... zěnme zǒu?)",
+            "喂，北京大学东门在哪里去？",
+            "北京大学东门你告诉我走法。",
+            "走去北京大学东门怎么你？"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「请问，去......怎么走？」是现代汉语最标准的礼貌问路句式。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "指令「一直往前走」所表达的动作方向是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "沿着当前朝向直行 (Walk straight ahead)",
+            "向后退步",
+            "向左转弯",
+            "原地等待"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「一直往前走」是直行指令的最核心表达。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「方向、位置与城市交通 (Directions & Urban Transit)」的正式语境下，最准确得体的表达是哪一项？（第8.4题）",
+          "prompt": "在句子「走到十字路口，请向右______」中，表示改变行进方向的动词是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (8.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (8.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (8.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (8.4.x3)"
+            "拐 / 转 (guǎi / zhuǎn - turn)",
+            "走",
+            "行",
+            "退"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "表示向左或向右转弯，使用动词「拐」或「转」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u8-l4）所要求的高阶语言表达？",
+          "prompt": "指引对方目的地位于道路一侧，最常用的地道表达是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (8.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (8.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (8.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (8.4.y3)"
+            "就在你的右手边 / 左手边。(Right on your right/left-hand side)",
+            "就在你的手脚上。",
+            "就在你的头顶上面。",
+            "就在你的手心里。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「在你的右手边/左手边」是指引目标位置的固定地道表达。"
         }
       ]
     },
@@ -5012,25 +5022,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「方向、位置与城市交通 (Directions & Urban Transit)」的掌握程度，请选出表述完全正确的标准范句（测试 8-4）：",
+          "prompt": "请选出下列问路与指路对话中用词最地道、语法逻辑完全严密的一组：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (8.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (8.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (8.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (8.4.z3)"
+            "甲：劳驾，请问去天安门广场怎么走？ 乙：从这里一直往前走，过两个红绿灯路口向右拐，广场就在你的正前方。(礼貌得体，指引条理清晰)",
+            "甲：天安门广场怎么去走？ 乙：一直往后走右拐在天安门。(语序错乱)",
+            "甲：喂，天安门在哪里？ 乙：你去走红绿灯在左边天安门。(粗鲁且语法破碎)",
+            "甲：请问天安门广场去怎么？ 乙：你拐右一直走到头没有。(结构残缺)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "提问使用「劳驾，请问...」，回答包含「直行、过路口、转弯、目标方位」，堪称问路指路典范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u8-l4）的核心关键词（例如「方向、位」）：",
+          "prompt": "请输入交通路口指示通行与停止的信号灯装置双字名词（拼音为 hónglǜdēng）：",
           "acceptedAnswers": [
-            "方向、位",
-            "方向、位置与",
-            "方向、位置与城市交通"
+            "红绿灯"
           ],
-          "explanation": "正确的核心关键词为「方向、位」。"
+          "explanation": "词语「红绿灯」在日常指路与交通指引中作为极其关键的地标参照物。"
         }
       ],
       "passThreshold": 0.8
@@ -5041,85 +5049,89 @@
     "subject": "mandarin",
     "unit": 8,
     "lessonNumber": 5,
-    "title": "方向、位置与城市交通 (Directions & Urban Transit) (第5讲)",
+    "title": "城市空间导航与路线规划综合叙事篇章 (Comprehensive Wayfinding & Transit Narrative)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：空间方位词（上/下/前/后/左/右/东/南/西/北）、问路指路及城市公共交通工具。 (第5部分)。",
+    "objective": "融会贯通空间方位词、位移介词（离/从/往/向）、交通方式搭配（坐/乘/骑/换乘）与指路指令，能够独立撰写逻辑严密、层次清晰的城市出行与路线导航综合语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "将空间方位词、位移介词、交通方式与指路指令融为一体，是实现全景式城市导航与日常游记叙事表达的高阶综合能力：\n\n一、路线规划与导航语篇连贯衔接框架：\n1. 空间与时序递进连接词：\n-「首先 (shǒuxiān) ......，然后 (ránhòu) ......，接着 (jiēzhe) ......，最后 (zuìhòu) ......」\n-「从起点出发 -> 沿途经过 -> 换乘交通 -> 到达目的地」\n2. 动作与环境交互标记：\n-「顺着 / 沿着 (shùn zhe / yán zhe)」+ 街道/林荫大道\n-「穿过 (chuānguò)」+ 桥梁/地下通道/公园\n-「走出 (zǒu chū)」+ 地铁出口/站台\n\n二、城市一日游综合导航范文（北京古都文化动线）：\n- 今天是周末，我和留学生朋友们规划了一次精彩的北京城市一日游。早晨八点，我们从大学南门出发，骑共享单车到五道口地铁站。我们乘坐地铁十三号线，在知春路站换乘十号线，坐了五站后在海淀黄庄站换乘四号线，在圆明园站下车。走出地铁B口，向东一直走两百米就是圆明园南门。下午两点，我们从圆明园乘坐四号线前往西四，顺着古色古香的胡同漫步，沿途经过了几家传统老字号茶馆，最后登上了景山公园的万春亭，俯瞰故宫博物院壮丽的金色琉璃瓦建筑群。整个行程换乘顺畅，交通极其便利！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「方向、位置与城市交通 (Directions & Urban Transit)」的核心语法法则与应用范例 (8.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '方向、位置与城市交通 (Directions & Urban Transit)' in simple terms to students at the academic seminar."
+          "target": "今天的北京一日游路线规划非常顺畅：早晨从大学南门出发，骑车到五道口地铁站，乘坐十三号线换乘四号线到达颐和园。(Jīntiān de Běijīng yírìyóu lùxiàn guīhuà fēicháng shùnchàng: zǎochén cóng dàxué nánmén chūfā, qí chē dào Wǔdàokǒu dìtiězhàn, chéngzuò shísān hào xiàn huànchéng sì hào xiàn dàodá Yíhéyuán.)",
+          "reading": "[t͡ɕin˥.tʰjɛn˥ tɤ peɪ̯˨˩.t͡ɕiŋ˥ i˥.ʐɨ˥˩.joʊ̯˧˥ lu˥˩.ɕjɛn˥˩ kweɪ̯˥.xwa˥˩ feɪ̯˥.ʈ͡ʂʰɑŋ˧˥ ʂwən˥˩.ʈ͡ʂʰɑŋ˥˩: t͡saʊ̯˨˩˦.ʈ͡ʂʰən t͡sʰʊŋ˧˥ ta˥˩.ɕɥɛ˧˥ nan˧˥.mən˧˥ t͡ʂʰu˥.fa˥, t͡ɕʰi˧˥ ʈ͡ʂʰɤ˥ taʊ̯˥˩ u˨˩˦.taʊ̯˥˩.kʰoʊ̯˨˩˦ ti˥˩.tʰjɛ˨˩.ʈ͡ʂan˥˩, ʈ͡ʂʰɤŋ˧˥.t͡swɔ˥˩ ʂɨ˧˥.san˥ xaʊ̯˥˩ ɕjɛn˥˩ xwan˥˩.ʈ͡ʂʰɤŋ˧˥ sɨ˥˩ xaʊ̯˥˩ ɕjɛn˥˩ taʊ̯˥˩.ta˧˥ i˧˥.xɤ˧˥.jɥɛn˧˥] (Jīn-tiān de Běi-jīng yí-rì-yóu lù-xiàn guī-huà fēi-cháng shùn-chàng: zǎo-chén cóng dà-xué nán-mén chū-fā, qí chē dào Wǔ-dào-kǒu dì-tiě-zhàn, chéng-zuò shí-sān hào xiàn huàn-chéng sì hào xiàn dào-dá Yí-hé-yuán.)",
+          "translation": "Today's Beijing one-day trip route planning was very smooth: starting from the university's south gate in the morning, riding bikes to Wudaokou Subway Station, taking Line 13 and transferring to Line 4 to reach the Summer Palace."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (8.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "走出地铁站A出口后，沿着宽敞的人民南路一直向南走两百米，过街天桥的右侧就是美术馆的正门。(Zǒu chū dìtiězhàn A chūkǒu hòu, yán zhe kuānchǎng de Rénmín Nánlù yìzhí xiàng nán zǒu liǎng bǎi mǐ, guòjiē tiānqiáo de yòucè jiù shì měishùguǎn de zhèngmén.)",
+          "reading": "[t͡soʊ̯˨˩ t͡ʂʰu˥ ti˥˩.tʰjɛ˨˩.ʈ͡ʂan˥˩ A t͡ʂʰu˥.kʰoʊ̯˨˩˦ xoʊ̯˥˩, jɛn˧˥ ʈ͡ʂɤ kʰwan˥.ʈ͡ʂʰɑŋ˨˩˦ tɤ ʐən˧˥.min˧˥ nan˧˥.lu˥˩ i˥.ʈ͡ʂɨ˧˥ ɕjɑŋ˥˩ nan˧˥ t͡soʊ̯˨˩ ljaŋ˨˩˦ paɪ̯˨˩˦ mi˨˩˦, kwo˥˩.t͡ɕjɛ˥ tʰjɛn˥.t͡ɕʰjaʊ̯˧˥ tɤ joʊ̯˥˩.t͡sʰɤ˥˩ t͡ɕjoʊ̯˥˩ ʂɨ˥˩ meɪ̯˨˩˦.ʂu˥˩.kwan˨˩˦ tɤ ʈ͡ʂɤŋ˥˩.mən˧˥] (Zǒu chū dì-tiě-zhàn A chū-kǒu hòu, yán zhe kuān-chǎng de Rén-mín Nán-lù yì-zhí xiàng nán zǒu liǎng bǎi mǐ, guò-jiē tiān-qiáo de yòu-cè jiù shì měi-shù-guǎn de zhèng-mén.)",
+          "translation": "After walking out of Exit A of the subway station, walk straight south along spacious Renmin South Road for two hundred meters, and the right side of the pedestrian overpass is the front gate of the art museum."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (8.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "如果你想避开早晚交通高峰期的拥堵，建议首选乘坐准时快捷的地下铁道系统。(Rúguǒ nǐ xiǎng bìkāi zǎowǎn jiāotōng gāofēngqī de yōngdǔ, jiànyì shǒuxuǎn chéngzuò zhǔnshí kuàijié de dìxià tiědào xìtǒng.)",
+          "reading": "[ʐu˧˥.kwɔ˨˩˦ ni˨˩˦ ɕjɑŋ˨˩˦ pi˥˩.kʰaɪ̯˥ t͡saʊ̯˨˩.wan˨˩˦ t͡ɕjaʊ̯˥.tʰʊŋ˥ kaʊ̯˥.fɤŋ˥.t͡ɕʰi˥ tɤ jʊŋ˥.tu˨˩˦, t͡ɕjɛn˥˩.i˥˩ ʂoʊ̯˨˩.ɕɥan˨˩˦ ʈ͡ʂʰɤŋ˧˥.t͡swɔ˥˩ ʈ͡ʂwən˨˩.ʂɨ˧˥ kʰwaɪ̯˥˩.t͡ɕjɛ˧˥ tɤ ti˥˩.ɕja˥˩ tʰjɛ˨˩.taʊ̯˥˩ ɕi˥˩.tʰʊŋ˨˩˦] (Rú-guǒ nǐ xiǎng bì-kāi zǎo-wǎn jiāo-tōng gāo-fēng-qī de yōng-dǔ, jiàn-yì shǒu-xuǎn chéng-zuò zhǔn-shí kuài-jié de dì-xià tiě-dào xì-tǒng.)",
+          "translation": "If you want to avoid traffic congestion during the morning and evening rush hours, it is recommended to prefer taking the punctual and speedy underground railway system."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (8.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我们顺着古色古香的老街漫步，沿途经过了几家传统茶馆和手工艺品店，最后在鼓楼前拍照留念。(Wǒmen shùn zhe gǔsè-gǔxiāng de lǎojiē mànbù, yántú jīngguò le jǐ jiā chuántǒng cháguǎn hé shǒugōngyìpǐndiàn, zuìhòu zài Gǔlóu qián pāizhào liúniàn.)",
+          "reading": "[wɔ˨˩.mən ʂwən˥˩ ʈ͡ʂɤ ku˨˩.sɤ˥˩.ku˨˩.ɕjɑŋ˥ tɤ laʊ˨˩.t͡ɕjɛ˥ man˥˩.pu˥˩, jɛn˧˥.tʰu˧˥ t͡ɕiŋ˥.kwɔ˥˩ lɤ t͡ɕi˨˩˦ t͡ɕja˥ t͡ʂʰwan˧˥.tʰʊŋ˧˥ ʈ͡ʂʰa˧˥.kwan˨˩˦ xɤ˧˥ ʂoʊ̯˨˩.kʊŋ˥.i˥˩.pʰin˨˩.tjɛn˥˩, t͡sweɪ̯˥˩.xoʊ̯˥˩ t͡saɪ̯˥˩ ku˨˩˦.loʊ̯˧˥ t͡ɕʰjɛn˧˥ pʰaɪ̯˥.ʈ͡ʂaʊ̯˥˩ ljoʊ̯˧˥.njɛn˥˩] (Wǒ-men shùn zhe gǔ-sè-gǔ-xiāng de lǎo-jiē màn-bù, yán-tú jīng-guò le jǐ jiā chuán-tǒng chá-guǎn hé shǒu-gōng-yì-pǐn-diàn, zuì-hòu zài Gǔ-lóu qián pāi-zhào liú-niàn.)",
+          "translation": "We strolled along the antique old street, passed several traditional teahouses and handicraft shops along the way, and finally took photos in front of the Drum Tower to mark the occasion."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "篇章导航顺线走，出站转弯过天桥；介宾连动成一体，城市畅行乐逍遥！"
+      ],
+      "culturalNotes": [
+        "现代中国城市兼具古老历史风貌与高度现代化的基础设施。掌握城市空间导航叙事，不仅能让学习者在现实生活中自如穿梭于大街小巷，更能深化对中国城市空间组织形态与现代生活方式的理解。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「方向、位置与城市交通 (Directions & Urban Transit)」（第5讲）的标准汉语规范？",
+          "prompt": "在叙述出行路线时，表示「沿着街道前行并穿过通道」的最佳动词组合是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「方向、位置与城市交通 (Directions & Urban Transit)」的核心语法法则与应用范例 (8.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (8.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (8.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (8.5.w3)"
+            "沿着街道走 -> 穿过地下通道 (yán zhe jiēdào zǒu -> chuānguò dìxià tōngdào)",
+            "离着街道走 -> 从过地下通道",
+            "在着街道走 -> 往过地下通道",
+            "向着街道走 -> 到过地下通道"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「沿着/顺着街道」表达顺应道路走向，「穿过通道」表达横穿空间。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在语篇「首先坐公交车，接着换乘地铁，最后步行到达」中，三个关联词的主要功能是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "组织时序与动作先后顺序 (Structuring temporal and spatial progression)",
+            "表达因果推论",
+            "表达转折关系",
+            "表达假设条件"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「首先...接着...最后...」是构建行程时序与动作衔接的核心语篇标记。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「方向、位置与城市交通 (Directions & Urban Transit)」的正式语境下，最准确得体的表达是哪一项？（第8.5题）",
+          "prompt": "请选出下列出行路线叙述中方位、介词与交通动词完全严密精确的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (8.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (8.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (8.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (8.5.x3)"
+            "我们从酒店出发，骑共享单车到地铁站，乘坐二号线换乘一号线，在天安门东站下车后向北走两百米到达故宫。(时序、介词、动词全流程严密规范)",
+            "我们离酒店出发，开共享单车到地铁站，坐二号线坐一号线在天安门东站向北。(动词与介词严重偏误)",
+            "我们从酒店出发骑车，换乘到天安门东站下车在向北走两百米后坐地铁。(逻辑颠倒)",
+            "我们向酒店出发，坐共享单车在地铁站骑一号线。(搭配荒谬)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "该句完整涵盖起点（从酒店出发）、交通接驳（骑单车/乘地铁/换乘）、下车指引（向北走），逻辑天衣无缝。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u8-l5）所要求的高阶语言表达？",
+          "prompt": "在句子「走出地铁口，过街天桥的右侧就是博物馆」中，「右侧」的语法性质与位置功能是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (8.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (8.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (8.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (8.5.y3)"
+            "方位词短语，标定目标建筑的具体空间方位 (Locative phrase indicating spatial position)",
+            "时间副词",
+            "语气助词",
+            "连词"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「右侧」作为方位词短语，明确标定博物馆位于天桥右侧。"
         }
       ]
     },
@@ -5127,25 +5139,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「方向、位置与城市交通 (Directions & Urban Transit)」的掌握程度，请选出表述完全正确的标准范句（测试 8-5）：",
+          "prompt": "请选出下列城市导航与出行语篇中语言最典范、结构最严谨的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (8.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (8.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (8.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (8.5.z3)"
+            "为了避开早高峰拥堵，我们早晨从宿舍出发，步行五分钟到地铁站，乘坐八号线直达奥林匹克公园。出站后顺着宽阔的景观大道向北走，宏伟的国家体育场就在我们的右手边。(空间、时序、交通工具与方位指引完全融会贯通)",
+            "为了避开早高峰，我们从宿舍出发走五分钟在地铁站，开八号线到奥林匹克公园出站向北在国家体育场右手。(语序错乱词汇误用)",
+            "我们宿舍离出发，坐步行到地铁，乘八号线转奥林匹克公园，走出向北体育场右边。(语法严重崩坏)",
+            "我们从宿舍离出发，骑八号线地铁在奥林匹克公园下，向北走右手边在体育场。(动宾与介词混乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在出行目的、起点、交通方式（步行/乘八号线）、出站指引（顺着大道向北走）以及地标定位（右手边）上均达到了现代汉语的典范标准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u8-l5）的核心关键词（例如「方向、位」）：",
+          "prompt": "请输入表示顺应道路或河流走向前行的单字介词汉字（拼音为 yán 或 shùn，例如「沿」着）：",
           "acceptedAnswers": [
-            "方向、位",
-            "方向、位置与",
-            "方向、位置与城市交通"
+            "沿",
+            "顺"
           ],
-          "explanation": "正确的核心关键词为「方向、位」。"
+          "explanation": "汉字「沿」或「顺」常与「着」连用构成空间介词短语，表示顺应路线前行。"
         }
       ],
       "passThreshold": 0.8
