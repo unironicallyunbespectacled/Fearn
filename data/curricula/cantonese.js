@@ -10735,53 +10735,62 @@
     "subject": "cantonese",
     "unit": 26,
     "lessonNumber": 1,
-    "title": "嶺南儒學與心學思想 (Lingnan Confucian Philosophy) (第1課)",
+    "title": "陳白沙與江門心學：「靜中養出端倪」、「自得之學」 (Chan Baak-saa & Baisha School of Mind)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元26第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握明代嶺南大儒陳獻章（陳白沙）江門心學之核心命題（靜中養出端倪、自得、自然隨順）及其在哲學文言粵語中之闡釋體系。",
     "presentation": {
-      "explanation": "",
+      "explanation": "陳獻章（陳白沙，1428–1500，廣東新會人）係明代心學之開山宗師，創立「江門學派（白沙學派）」，開創了明代由理學轉向心學之歷史先河：\n\n一、陳白沙江門心學三大核心哲學範疇：\n１．「靜坐中養出端倪」（zing6 zo6 zung1 joeng5 ceot1 dyun1 ngai4）：\n- 白沙主張打破宋代程朱理學繁瑣章句註疏之束縛，提倡透過「靜坐」澄心息慮，在心體虛靜中自然體悟善念與天地生機之萌動。\n\n２．「自得之學」（zi6 dak1 zi1 hok6）：\n- 強調為學貴在自得，反對盲從書本或權威教條。「學貴自得，求之於心而安」—— 知識與道德必須由本心內省體認而得。\n\n３．「自然隨順與茅龍筆意」（zi6 jin4 ceoi4 seon6）：\n- 哲學上主張融於自然，藝術上以圭峰山茅草製成獨創之「茅龍筆」，書法蒼勁飛動，展現出心學自由超脫之精神境界。\n\n二、嶺南哲學特質：求真務實、反對教條、注重個體心靈覺醒。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 26 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 26 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 26 in communication."
+          "target": "陳白沙先生提倡「學貴自得」，主張學者唔好盲從前人註疏，應當喺虛靜之中自省本心。",
+          "reading": "can4 baak6 saa1 sin1 saang1 tai4 coeng3 \"hok6 gwai3 zi6 dak1\", zyu2 zoeng1 hok6 ze2 m4 hou2 maang4 cung4 cin4 jan4 zyu3 so1, jing3 dong1 hai2 heoi1 zing6 zi1 zung1 zi6 sing2 bun2 sam1. [tsʰɐn˨˩ paːk̚˨ saː˥ siːn˥ saːŋ˥ tʰɐi˨˩ tsʰœːŋ˧ \"hɔːk̚˨ kʷɐi˧ tsiː˨ tɐk̚˥\", tsyː˧˥ tsœːŋ˧ hɔːk̚˨ tsɛː˧˥ m̩˨˩ hou˧˥ maːŋ˨˩ tsʰʊŋ˨˩ tsʰiːn˨˩ jɐn˨˩ tsyː˧ sɔː˥, jɪŋ˥ tɔːŋ˥ hɐi˩˧ hɵy˥ tsɪŋ˨ tsiː˥ tsʊŋ˥ tsiː˨ sɪŋ˧˥ puːn˧˥ sɐm˥] (CHUN BAHK-SAH SEEN-SAHNG TY-CHEUNG \"HOK-GWY JEE-DUK\", JUE-JEUNG HOK-JEH M-HOH MAHNG-CHOONG CHEEN-YUN JUE-SOH, YING-DONG HY HOEY-JING JEE JOONG JEE-SING BOON-SUM)",
+          "translation": "Master Chan Baak-saa advocated 'learning values personal self-realization', proposing that scholars should not blindly follow predecessor annotations, but should reflect upon their true minds in tranquility."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元26-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "白沙心學以「靜中養出端倪」為工夫起點，啟發咗後嚟陽明心學對良知本體之深刻探索。",
+          "reading": "baak6 saa1 sam1 hok6 ji5 \"zing6 zung1 joeng5 ceot1 dyun1 ngai4\" wai4 gung1 fu1 hei2 dim2, kai2 faat3 zo2 hau6 loi4 joeng4 ming4 sam1 hok6 deoi3 loeng4 zi1 bun2 tai2 zi1 sam1 hak1 taam3 sok3. [paːk̚˨ saː˥ sɐm˥ hɔːk̚˨ jiː˩˧ \"tsɪŋ˨ tsʊŋ˥ jœːŋ˩˧ tsʰɵt̚˥ tyːn˥ ŋɐi˨˩\" wɐi˨˩ kʊŋ˥ fuː˥ hei˧˥ tiːm˧˥, kʰɐi˧˥ faːt̚˧ tsɔː˧˥ hɐu˨ lɔːi˨˩ jœːŋ˨˩ mɪŋ˨˩ sɐm˥ hɔːk̚˨ tɵy˧ lœːŋ˨˩ tsiː˥ puːn˧˥ tʰɐi˧˥ tsiː˥ sɐm˥ hɐk̚˥ tʰaːm˧ sɔːk̚˧] (BAHK-SAH SUM-HOK YEE \"JING-JOONG YEUNG-CHUT DUEN-NGAI\" WAI GONG-FOO HAY-DEEM, KY-FAHT-JOR HAU-LY YEUNG-MING SUM-HOK DEOY LEUNG-JEE BOON-TY JEE SUM-HUK TAHM-SOK)",
+          "translation": "Baisha School of Mind took 'nurturing the nascent sprouts of goodness in stillness' as its starting practice, inspiring the later Yangming School's profound exploration of the innate moral mind."
+        },
+        {
+          "target": "先生以圭峰茅草製成茅龍筆，筆鋒雄健奔放，正正係其自然心性在藝術創作上之生動體現。",
+          "reading": "sin1 saang1 ji5 gwai1 fung1 maau4 cou2 zai3 sing4 maau4 lung4 bat1, bat1 fung1 hung4 gin6 ban1 fong3, zing3 zing3 hai6 kei4 zi6 jin4 sam1 sing3 zoi6 ngai6 seot6 cong3 zok3 soeng6 zi1 sang1 dung6 tai2 jin6. [siːn˥ saːŋ˥ jiː˩˧ kʷɐi˥ fʊŋ˥ maːu˨˩ tsʰou˧˥ tsɐi˧ sɪŋ˨˩ maːu˨˩ lʊŋ˨˩ pɐt̚˥, pɐt̚˥ fʊŋ˥ hʊŋ˨˩ kiːn˨ pɐn˥ fɔːŋ˧, tsɪŋ˧ tsɪŋ˧ hɐi˨ kʰei˨˩ tsiː˨ jiːn˨˩ sɐm˥ sɪŋ˧ tsɔːi˨ ŋɐi˨ sɵt̚˨ tsʰɔːŋ˧ tsɔːk̚˧ sœːŋ˨ tsiː˥ sɐŋ˥ tʊŋ˨ tʰɐi˧˥ jiːn˨] (SEEN-SAHNG YEE GWY-FOONG MAU-CHOU JY-SING MAU-LONG-BUT, BUT-FONG HOONG-GEEN BUN-FONG, JING-JING HY KEY JEE-YEEN SUM-SING JOY NGY-SUT CHONG-JOK SEUNG JEE SUNG-DOONG TY-YEEN)",
+          "translation": "The master fashioned the Maolong reed brush from Guifeng cogongrass; its strokes were bold and unrestrained, precisely a vivid manifestation of his natural mind-nature in artistic creation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【白沙心學訣】新會白沙江門立，端倪自得「靜中養」；茅龍筆下寫自然，心學先聲嶺南唱！"
+      ],
+      "culturalNotes": [
+        "陳白沙係明代唯一從祀孔廟的嶺南大儒，被尊為『嶺南一人』。其創立的江門學派標誌著嶺南學術從被動接受中原文化轉變為引領全國哲學思潮之里程碑。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"好壞\":",
+          "prompt": "【心學開山】明代江門學派宗師陳白沙提倡之核心求知與心性修養原則係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：快慢錯置）",
-            "混雜生硬詞彙之不規範語句（例項：早遲未適配）",
-            "聲調助詞搭配欠妥之表達（例項：輕重誤用）"
+            "學貴自得 / 靜中養出端倪 (Learning values self-realization / nurture sprouts in stillness)",
+            "死記硬背註疏",
+            "盲目遵從教條",
+            "放棄所有思考"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "陳白沙江門心學以「學貴自得」與「靜中養出端倪」為核心宗旨。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"好壞\":",
+          "prompt": "【嶺南名筆】陳獻章（陳白沙）就地取材、以廣東新會圭峰山茅草發明之獨特書法名筆係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：早遲未適配）",
-            "聲調助詞搭配欠妥之表達（例項：輕重誤用）",
-            "語序顛倒嘅非標準句式（例項：快慢錯置）"
+            "茅龍筆 (Maolong reed brush)",
+            "狼毫筆",
+            "羊毫筆",
+            "紫毫筆"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "陳白沙以圭峰山茅草創製「茅龍筆」，書法獨具古拙蒼勁之美。"
         }
       ]
     },
@@ -10789,15 +10798,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"好壞\": Which sentence is completely correct?",
+          "prompt": "【哲學史地位】陳白沙（陳獻章）在中國思想史上的崇高地位在於：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：輕重誤用）",
-            "語序顛倒嘅非標準句式（例項：快慢錯置）",
-            "混雜生硬詞彙之不規範語句（例項：早遲未適配）"
+            "開創明代江門心學，打破程朱理學教條束縛，為後續陽明心學之崛起奠定先聲 (Pioneering Ming School of Mind and laying foundations for Yangming philosophy)",
+            "主張全盤否定儒家道德體系",
+            "只專注於海外貿易而無學術建樹",
+            "禁止弟子進行任何哲學思考"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "陳白沙被尊為明代心學之先驅，打破了宋儒註疏之錮蔽，開啟了主體自得心學之新紀元。"
         }
       ],
       "passThreshold": 0.8
@@ -10808,53 +10817,62 @@
     "subject": "cantonese",
     "unit": 26,
     "lessonNumber": 2,
-    "title": "嶺南儒學與心學思想 (Lingnan Confucian Philosophy) (第2課)",
+    "title": "湛若水（甘泉先生）與隨處體認天理：「心包萬物」、「格物致知」 (Zaam Joek-seoi & Ganquan Philosophy)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元26第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握明代嶺南哲學巨擘湛若水（湛甘泉）「隨處體認天理」之哲學體系，理解甘泉學派與陽明學派之學術異同及高階思辨表達。",
     "presentation": {
-      "explanation": "",
+      "explanation": "湛若水（湛甘泉，1466–1560，廣東增城人），白沙弟子，官至南京禮、吏、兵三部尚書。與王陽明齊名並稱『王湛之學』：\n\n一、湛甘泉「甘泉學派」三大核心命題：\n１．「隨處體認天理」（ceoi4 cyu3 tai2 jin6 tin1 lei5）：\n- 甘泉哲學之最高綱領。主張天理無所不在，學者應在日常行住坐臥、為政處事之一切境遇中，「隨處」以本心體認貫通天理。\n\n２．「心包萬物」（sam1 baau1 maan6 mat6）：\n- 認為心與萬物非內外二分，『心體無邊無界，萬物皆在心體之中』，反對將格物窮理視為向外逐物。\n\n３．王湛之學比較（Ganquan vs. Yangming）：\n- 陽明主「致良知」（側重於本心良知之自我擴充與發見）。\n- 甘泉主「隨處體認天理」（側重於心與境遇交融共照，體用兼備）。\n\n二、興辦書院與廣育英才：\n- 甘泉一生在羅浮山、西樵山、南嶽等地興建書院近四十所，將嶺南儒學心學傳播至大江南北。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 26 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 26 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 26 in communication."
+          "target": "湛甘泉先生主張「隨處體認天理」，強調無論讀書、為官定係日常生活，無一處唔係修心體道之所在。",
+          "reading": "zaam3 gam1 cyun4 sin1 saang1 zyu2 zoeng1 \"ceoi4 cyu3 tai2 jin6 tin1 lei5\", koeng4 diu6 mou4 leon6 duk6 syu1, wai4 gun1 ding6 hai6 jat6 seung4 sang1 wut6, mou4 jat1 cyu3 m4 hai6 sau1 sam1 tai2 dou6 zi1 so2 zoi6. [tsaːm˧ kɐm˥ tsʰyːn˨˩ siːn˥ saːŋ˥ tsyː˧˥ tsœːŋ˧ \"tsʰɵy˨˩ tsʰyː˧ tʰɐi˧˥ jiːn˨ tʰiːn˥ lei˩˧\", kʰœːŋ˨˩ tiːu˨ mouou˨˩ lɵn˨ tʊk̚˨ syː˥, wɐi˨˩ kuːn˥ tɪŋ˨ hɐi˨ jɐt˨ sœːŋ˨˩ sɐŋ˥ wuːt̚˨, mouou˨˩ jɐt̚˥ tsʰyː˧ m̩˨˩ hɐi˨ sɐu˥ sɐm˥ tʰɐi˧˥ tou˨ tsiː˥ sɔː˧˥ tsɔːi˨] (JAHM GUM-CHUEN SEEN-SAHNG JUE-JEUNG \"CHOEY-CHUE TY-YEEN TEEN-LEY\", KEUNG-DEW MOU-LEUN DUK-SYU, WAI-GOON DING HY YUT-SEUNG SUNG-WOOT, MOU-YUT-CHUE M-HY SAU-SUM TY-DOU JEE SOH-JOY)",
+          "translation": "Master Zaam Ganquan advocated 'realizing heavenly principle everywhere', emphasizing that whether studying, serving as an official, or in daily life, there is no place that is not a site for cultivating the mind and realizing the Dao."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元26-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "明代哲學界「王湛並稱」，王陽明主「致良知」，而湛若水則以「體認天理」相發明，共同推動心學達到鼎盛。",
+          "reading": "ming4 doi6 zit3 hok6 gaai1 \"wong4 zaam3 bing6 cing1\", wong4 joeng4 ming4 zyu2 \"zi3 loeng4 zi1\", ji4 zaam3 joek6 seoi2 zak1 ji5 \"tai2 jin6 tin1 lei5\" soeng1 faat3 ming4, gung6 tung4 teoi1 dung6 sam1 hok6 daat6 dou3 ding2 sing6. [mɪŋ˨˩ tɔːi˨ tsit̚˧ hɔːk̚˨ kaːi˥ \"wɔːŋ˨˩ tsaːm˧ pɪŋ˨ tsʰɪŋ˥\", wɔːŋ˨˩ jœːŋ˨˩ mɪŋ˨˩ tsyː˧˥ \"tsiː˧ lœːŋ˨˩ tsiː˥\", jiː˨˩ tsaːm˧ jœːk̚˨ sɵy˧˥ tsɐk̚˥ jiː˩˧ \"tʰɐi˧˥ jiːn˨ tʰiːn˥ lei˩˧\" sœːŋ˥ faːt̚˧ mɪŋ˨˩, kʊŋ˨ tʰʊŋ˨ tʰɵy˥ tʊŋ˨ sɐm˥ hɔːk̚˨ taːt̚˨ tou˧ tɪŋ˧˥ sɪŋ˨] (MING-DOY JEET-HOK-GY \"WONG-JAHM BING-CHING\", WONG YEUNG-MING JUE \"JEE LEUNG-JEE\", YEE JAHM YERK-SOEY JUK YEE \"TY-YEEN TEEN-LEY\" SEUNG FAHT-MING, GONG-TOONG TOEY-DOONG SUM-HOK DAHT-DOU DING-SING)",
+          "translation": "In Ming dynasty philosophy, 'Wang and Zhan were celebrated together'; Wang Yangming championed 'extending innate moral knowledge', while Zhan Ruoshui articulated 'realizing heavenly principle', jointly propelling the School of Mind to its zenith."
+        },
+        {
+          "target": "甘泉先生喺西樵山同羅浮山大興書院講學，培育出大量嶺南精英學者，深遠影響咗嶺南士風。",
+          "reading": "gam1 cyun4 sin1 saang1 hai2 sai1 ciu4 saan1 tung4 lo4 fau4 saan1 daai6 hing1 syu1 jyun6*2 gong2 hok6, pui4 juk6 ceot1 daai6 loeng6 ling5 naam4 zing1 jing1 hok6 ze2, sam1 jyun5 jing2 hoeng2 zo2 ling5 naam4 si6 fung1. [kɐm˥ tsʰyːn˨˩ siːn˥ saːŋ˥ hɐi˩˧ sɐi˥ tsʰiːu˨˩ saːn˥ tʰʊŋ˨˩ lɔː˨˩ fɐu˨˩ saːn˥ taːi˨ hɪŋ˥ syː˥ jyːn˧˥ kɔːŋ˧˥ hɔːk̚˨, pʰuːi˨˩ jʊk̚˨ tsʰɵt̚˥ taːi˨ lœːŋ˨ lɪŋ˩˧ naːm˨˩ tsɪŋ˥ jɪŋ˥ hɔːk̚˨ tsɛː˧˥, sɐm˥ jyːn˩˧ jɪŋ˧˥ hœːŋ˧˥ tsɔː˧˥ lɪŋ˩˧ naːm˨˩ siː˨ fʊŋ˥] (GUM-CHUEN SEEN-SAHNG HY SY-CHIU-SAHN TOONG LOH-FAU-SAHN DY-HING SYU-YUEN GONG-HOK, PUI-YUK-CHUT DY-LEUNG LING-NAHM JING-YING HOK-JEH, SUM-YUEN YING-HEUNG-JOR LING-NAHM SEE-FONG)",
+          "translation": "Master Ganquan established academies and lectured extensively at Xiqiao Mountain and Luofu Mountain, cultivating numerous elite Lingnan scholars and deeply influencing the scholarly spirit of Lingnan."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【甘泉哲學歌】增城甘泉湛若水，隨處體認天理明；心包萬物無內外，王湛並稱天下驚！"
+      ],
+      "culturalNotes": [
+        "湛甘泉活到九十五歲高齡，一生興辦三十餘所書院，弟子遍佈天下。他與王陽明保持了數十年的深厚學術友誼，互相切磋，成就了明代思想史上一段千古佳話。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"快慢\":",
+          "prompt": "【哲學核心】明代思想家湛若水（湛甘泉）所創立之甘泉學派，其最高哲學命題係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：早遲錯置）",
-            "混雜生硬詞彙之不規範語句（例項：輕重未適配）",
-            "聲調助詞搭配欠妥之表達（例項：乾濕誤用）"
+            "隨處體認天理 (Realizing Heavenly Principle in all places)",
+            "存天理滅人欲",
+            "唯物辯證法",
+            "因果報應說"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "湛甘泉哲學之核心綱領為「隨處體認天理」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"快慢\":",
+          "prompt": "【並稱巨擘】在明代心學發展史上，與王陽明齊名並稱「王湛之學」的嶺南大儒係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：輕重未適配）",
-            "聲調助詞搭配欠妥之表達（例項：乾濕誤用）",
-            "語序顛倒嘅非標準句式（例項：早遲錯置）"
+            "湛若水（湛甘泉） (Zaam Joek-seoi / Zaam Ganquan)",
+            "屈大均",
+            "梁啟超",
+            "康有為"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "湛若水（湛甘泉）與王陽明齊名，被明代學術界並稱為「王湛之學」。"
         }
       ]
     },
@@ -10862,15 +10880,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"快慢\": Which sentence is completely correct?",
+          "prompt": "【心物關係】湛甘泉「心包萬物」命題所闡發之核心宇宙心性觀為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：乾濕誤用）",
-            "語序顛倒嘅非標準句式（例項：早遲錯置）",
-            "混雜生硬詞彙之不規範語句（例項：輕重未適配）"
+            "心體無邊無界，萬物皆涵容於心體之中，主體與世界渾然一體 (Mind encapsulates all myriad things without internal/external divide)",
+            "物質完全獨立於意識之外且彼此隔絕",
+            "只有看得見的具體物件才算存在",
+            "心靈與外界毫無關聯"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「心包萬物」強調心體博大無外，萬事萬物皆在心體之中涵融貫通。"
         }
       ],
       "passThreshold": 0.8
@@ -10881,53 +10899,62 @@
     "subject": "cantonese",
     "unit": 26,
     "lessonNumber": 3,
-    "title": "嶺南儒學與心學思想 (Lingnan Confucian Philosophy) (第3課)",
+    "title": "康有為、梁啟超與萬木草堂維新思想：「變法圖強」、「新民說」 (Kang-Liang Enlightenment)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元26第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握近代嶺南維新啟蒙思潮（萬木草堂、變法圖強、新民說、大同書）及其在近代思想界之變革話語體系與政論修辭。",
     "presentation": {
-      "explanation": "",
+      "explanation": "近代廣東處於中西文明碰撞交融之最前沿，孕育出深刻改變中國歷史進程之維新啟蒙思想：\n\n一、康有為與萬木草堂（Wanmu Caotang）：\n１．創立萬木草堂：\n- 康有為在廣州長興里創辦萬木草堂，開創「中西並包、古今融通」之新學風，培養出梁啟超、麥孟華等維新中堅。\n２．哲學與變法理論：\n- 《新學偽經考》、《孔子改制考》：借孔子託古改制之名，打破封建正統思想錮蔽，為維新變法提供理論合法性。\n- 《大同書》：勾勒出人類消滅階級、國家、家庭隔閡，邁向世界大同之烏托邦宏偉構想。\n\n二、梁啟超與「新民說」（New Citizenry）：\n１．新民理論：\n- 梁啟超提出「欲維新吾國，當先維新吾民」，主張改造國民劣根性，培育具備獨立人格、權利義務意識與公德之現代「新民」。\n２．「新文體（報章體）」：\n- 融會文言典雅、口語生動與西洋邏輯，筆鋒常帶感情，極具鼓動性與啟蒙力量。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 26 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 26 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 26 in communication."
+          "target": "萬木草堂打破咗傳統科舉八股嘅束縛，提倡中西合璧與經世致用，成為近代維新思想之搖籃。",
+          "reading": "maan6 muk6 cou2 tong4 daa2 po3 zo2 cyun4 tung4 fo1 geoi2 baat3 gu2 ge3 cuk1 bok3, tai4 coeng3 zung1 sai1 hap6 bik1 jyu5 ging1 sai3 zi3 jung6, sing4 wai4 gan6 doi6 wai4 san1 si1 soeng2 zi1 jiu4 laam4. [maːn˨ mʊk̚˨ tsʰou˧˥ tʰɔːŋ˨˩ taː˧˥ pʰɔː˧ tsɔː˧˥ tsʰyːn˨˩ tʰʊŋ˨˩ fɔː˥ kɵy˧˥ paːt̚˧ kuː˧˥ kɛː˧ tsʰʊk̚˥ pɔːk̚˧, tʰɐi˨˩ tsʰœːŋ˧ tsʊŋ˥ sɐi˥ hɐp̚˨ pɪk̚˥ jyː˩˧ kɪŋ˥ sɐi˧ tsiː˧ jʊŋ˨, sɪŋ˨˩ wɐi˨˩ kɐn˨ tɔːi˨ wɐi˨˩ sɐn˥ siː˥ sœːŋ˧˥ tsiː˥ jiːu˨˩ laːm˨˩] (MAHN-MOK CHOU-TONG DAH-POH-JOR CHUEN-TOONG FOH-GOEY BAHT-GOO GEH CHUK-BOK, TY-CHEUNG JOONG-SY HUP-BIK YUE GING-SY-JEE-YOONG, SING-WAI GUN-DOY WAI-SUN SEE-SEUNG JEE YIU-LAHM)",
+          "translation": "Wanmu Caotang shattered the shackles of traditional civil service eight-legged essays, promoting the fusion of Chinese and Western learning and statecraft, becoming the cradle of modern reformist thought."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元26-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "梁啟超先生喺《新民說》中疾呼：欲要國家富強獨立，首要之務在於重塑國民品格，培育現代公民意識。",
+          "reading": "loeng4 kai2 ciu1 sin1 saang1 hai2 \"san1 man4 syut3\" zung1 zat6 fu1: juk6 jiu3 gwok3 gaa1 fu3 koeng4 duk6 laap6, sau2 jiu3 zi1 mou6 zoi6 jyu1 cung4 sou3 gwok3 man4 ban2 gaak3, pui4 juk6 jin6 doi6 gung1 man4 ji3 sik1. [lœːŋ˨˩ kʰɐi˧˥ tsʰiːu˥ siːn˥ saːŋ˥ hɐi˩˧ \"sɐn˥ mɐn˨˩ syːt̚˧\" tsʊŋ˥ tsɐt̚˨ fuː˥: jʊk̚˨ jiu˧ kʷɔːk̚˧ kaː˥ fuː˧ kʰœːŋ˨˩ tʊk̚˨ laːp̚˨, sɐu˧˥ jiu˧ tsiː˥ mou˨ tsɔːi˨ jyː˥ tsʰʊŋ˨˩ sou˧ kʷɔːk̚˧ mɐn˨˩ pʰɐn˧˥ kaːk̚˧, pʰuːi˨˩ jʊk̚˨ jiːn˨ tɔːi˨ kʊŋ˥ mɐn˨˩ jiː˧ sɪk̚˥] (LEUNG KY-CHIU SEEN-SAHNG HY \"SUN-MUN-SUET\" JOONG JUT-FOO: YUK-YEW GWOK-GAH FOO-KEUNG DUK-LAHP, SAU-YEW JEE MOU JOY-YUE CHOONG-SOU GWOK-MUN BUN-GAAK, PUI-YUK YEEN-DOY GONG-MUN YEE-SIK)",
+          "translation": "Mr. Liang Qichao vigorously appealed in 'On the New Citizenry': To make the nation prosperous, strong, and independent, the foremost priority lies in reshaping the national character and cultivating modern civic consciousness."
+        },
+        {
+          "target": "康梁二人以犀利之筆鋒宣傳變法圖強，其澎湃之政論文章深深震撼咗當時封閉沉睡之思想界。",
+          "reading": "hong1 loeng4 ji6 jan4 ji5 sai1 lei6 zi1 bat1 fung1 syun1 cyun4 bin3 faat3 tou4 koeng4, kei4 pang4 baai3 zi1 zing3 leon6 man4 zoeng1 sam1 sam1 zan3 ham6 zo2 dong1 si4 fung1 bai3 cam4 seoi6 zi1 si1 soeng2 gaai1. [hɔːŋ˥ lœːŋ˨˩ ji˨ jɐn˨˩ jiː˩˧ sɐi˥ lei˨ tsiː˥ pɐt̚˥ fʊŋ˥ syːn˥ tsʰyːn˨˩ piːn˧ faːt̚˧ tʰou˨˩ kʰœːŋ˨˩, kʰei˨˩ pʰɐŋ˨˩ paːi˧ tsiː˥ tsɪŋ˧ lɵn˨ mɐn˨˩ tsœːŋ˥ sɐm˥ sɐm˥ tsɐn˧ hɐm˨ tsɔː˧˥ tɔːŋ˥ siː˨˩ fʊŋ˥ pɐi˧ tsʰɐm˨˩ sɵy˨ tsiː˥ siː˥ sœːŋ˧˥ kaːi˥] (HOHNG-LEUNG YEE-YUN YEE SY-LEY JEE BUT-FONG SUEN-CHUEN BEEN-FAHT TOU-KEUNG, KEY PUNG-BY JEE JING-LEUN MUN-JEUNG SUM-SUM JUN-HUM-JOR DONG-SEE FONG-BY CHUM-SOEY JEE SEE-SEUNG-GY)",
+          "translation": "Kang and Liang used their incisive pens to promote reform and national rejuvenation, and their surging political essays deeply jolted the closed and slumbering intellectual world of the time."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【維新思想歌】南海康南海有為，草堂萬木育奇才；新民說動天下志，變法圖強風暴來！"
+      ],
+      "culturalNotes": [
+        "萬木草堂舊址位於廣州中山四路邱氏書室。康有為在此講學打破傳統四書五經模式，兼授萬國史記、算術、地理與格致之學，被視為中國近代高等教育改革的先驅實驗。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"早遲\":",
+          "prompt": "【啟蒙名作】近代思想家梁啟超所著、主張「欲維新吾國，當先維新吾民」之核心啟蒙著作係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：輕重錯置）",
-            "混雜生硬詞彙之不規範語句（例項：乾濕未適配）",
-            "聲調助詞搭配欠妥之表達（例項：明白誤用）"
+            "《新民說》 (On the New Citizenry)",
+            "《廣東新語》",
+            "《花箋記》",
+            "《大同書》"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "《新民說》為梁啟超系統闡述現代國民品格與公民意識重塑之經典名篇。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"早遲\":",
+          "prompt": "【維新搖籃】康有為在廣州創辦、培養了梁啟超等維新變法核心骨幹之著名學堂係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：乾濕未適配）",
-            "聲調助詞搭配欠妥之表達（例項：明白誤用）",
-            "語序顛倒嘅非標準句式（例項：輕重錯置）"
+            "萬木草堂 (Wanmu Caotang Academy)",
+            "白鹿洞書院",
+            "嶽麓書院",
+            "應天書院"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "萬木草堂為康有為於廣州設立、推動近代維新變法思想之著名講學聖地。"
         }
       ]
     },
@@ -10935,15 +10962,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"早遲\": Which sentence is completely correct?",
+          "prompt": "【思想烏托邦】康有為晚年所著、描繪消除國家階級界限與實現人類世界大同理想之著作係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：明白誤用）",
-            "語序顛倒嘅非標準句式（例項：輕重錯置）",
-            "混雜生硬詞彙之不規範語句（例項：乾濕未適配）"
+            "《大同書》 (The Book of Great Unity)",
+            "《新學偽經考》",
+            "《孔子改制考》",
+            "《變法通議》"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "《大同書》勾勒出康有為對未來世界大同社會之宏偉哲學構想。"
         }
       ],
       "passThreshold": 0.8
@@ -10954,53 +10981,62 @@
     "subject": "cantonese",
     "unit": 26,
     "lessonNumber": 4,
-    "title": "嶺南儒學與心學思想 (Lingnan Confucian Philosophy) (第4課)",
+    "title": "容閎、留美幼童與嶺南近代西學東漸：「開眼看世界之先驅」 (Yung Wing & Early Modernization)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元26第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握嶺南作為中國近代西學東漸門戶之歷史地位，理解容閎（留美幼童之父）與近代啟蒙先鋒之現代化話術與跨文化思辨表達。",
     "presentation": {
-      "explanation": "",
+      "explanation": "嶺南依託毗鄰港澳與海洋貿易之天然優勢，成為近代中國『西學東漸』最重要之窗口與橋樑：\n\n一、容閎（Yung Wing，1828–1912，廣東香山人）：\n１．中國近代留學之父：\n- 1854年畢業於美國耶魯大學，成為中國首位留美大學畢業生。\n２．倡導「留美幼童」計劃（Chinese Educational Mission）：\n- 歷經艱辛促成清政府派遣四批共120名幼童赴美留學（包括詹天佑、唐紹儀、梁敦彥等），為中國近代鐵路、礦業、海軍與外交培養了第一代現代化奠基人才。\n\n二、嶺南海洋文明與現代化特質：\n１．「開眼看世界」（Broad Global Horizon）：嶺南人最先接觸現代西方科學、法律、醫學與工程技術。\n２．求真務實、敢為人先：形成了兼具愛國情懷與世界視野之嶺南近代知識分子群體。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 26 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 26 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 26 in communication."
+          "target": "容閎先生作為中國留美第一人，以畢生心血推動幼童赴美留學，為國家現代化播下咗寶貴種子。",
+          "reading": "jung4 wang4 sin1 saang1 zok3 wai4 zung1 gwok3 lau4 mei5 dai6 jat1 jan4, ji5 bat1 sang1 sam1 hyut3 teoi1 dung6 jau3 tung4 fu6 mei5 lau4 hok6, wai6 gwok3 gaa1 jin6 doi6 faa3 bo3 haa6 zo2 zan1 gwai3 zung2 zi2. [jʊŋ˨˩ wɐŋ˨˩ siːn˥ saːŋ˥ tsɔːk̚˧ wɐi˨˩ tsʊŋ˥ kʷɔːk̚˧ lɐu˨˩ mei˩˧ tɐi˨ jɐt̚˥ jɐn˨˩, jiː˩˧ pɐt̚˥ sɐŋ˥ sɐm˥ hyːt̚˧ tʰɵy˥ tʊŋ˨ jɐu˧ tʰʊŋ˨˩ fu˨ mei˩˧ lɐu˨˩ hɔːk̚˨, wɐi˨ kʷɔːk̚˧ kaː˥ jiːn˨ tɔːi˨ faː˧ pɔː˧ haː˨ tsɔː˧˥ tsɐn˥ kʷɐi˧ tsʊŋ˧˥ tsiː˧˥] (YOONG-WUNG SEEN-SAHNG JOK-WAI JOONG-GWOK LAU-MAY DY-YUT-YUN, YEE BUT-SUNG SUM-HUET TOEY-DOONG YAU-TOONG FOO-MAY LAU-HOK, WAI GWOK-GAH YEEN-DOY-FAH POH-HAH-JOR JUN-GWY JOONG-JEE)",
+          "translation": "Mr. Yung Wing, as the first Chinese person to study in America, dedicated his life's blood to promoting young boys studying in the United States, sowing precious seeds for the nation's modernization."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元26-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "香山與珠三角地區作為西學東漸嘅前沿陣地，孕育出大批具備世界眼光與改革勇氣之開明先鋒。",
+          "reading": "hoeng1 saan1 jyu5 zyu1 saam1 gok3 dei6 keoi1 zok3 wai4 sai1 hok6 dung1 zim1 ge3 cin4 jin4 zan6 dei6, juk6 juk6 ceot1 daai6 pai1 geoi6 jau5 sai3 gaai3 ngaan5 gwong1 jyu5 goi2 gaak3 jung5 hei3 zi1 hoi1 ming4 sin1 fung1. [hœːŋ˥ saːn˥ jyː˩˧ tsyː˥ saːm˥ kɔːk̚˧ tei˨ kʰɵy˥ tsɔːk̚˧ wɐi˨˩ sɐi˥ hɔːk̚˨ tʊŋ˥ tsiːm˥ kɛː˧ tsʰiːn˨˩ jiːn˨˩ tsɐn˨ tei˨, jʊk̚˨ jʊk̚˨ tsʰɵt̚˥ taːi˨ pʰaːi˥ kɵy˨ jɐu˩˧ sɐi˧ kaːi˧ ŋaːn˩˧ kʷɔːŋ˥ jyː˩˧ kɔːi˧˥ kaːk̚˧ jʊŋ˩˧ hei˧ tsiː˥ hɔːi˥ mɪŋ˨˩ siːn˥ fʊŋ˥] (HEUNG-SAHN YUE JUE-SAHM-GOK DAY-KOEY JOK-WAI SY-HOK DONG-JEEM GEH CHEEN-YEEN JUN-DAY, YUK-YUK-CHUT DY-PY GOEY-YAU SY-GY NGAHN-GWONG YUE GOY-GAAK YOONG-HEY JEE HOI-MING SEEN-FONG)",
+          "translation": "Xiangshan and the Pearl River Delta region, as the frontier outpost of the spread of Western learning eastward, nurtured a large cohort of enlightened pioneers endowed with global perspectives and reformist courage."
+        },
+        {
+          "target": "留美幼童計劃培養出鐵路工程之父詹天佑等傑出人才，彰顯出嶺南人敢為人先之歷史擔當。",
+          "reading": "lau4 mei5 jau3 tung4 kwai1 waak6 pui4 joeng5 ceot1 tit3 lou6 gung1 cing4 zi1 fu6 zim1 tin1 jau6 dang2 git6 ceot1 jan4 coi4, zoeng1 hin2 ceot1 ling5 naam4 jan4 gam2 wai4 jan4 sin1 zi1 lik6 si1 daam1 dong1. [lɐu˨˩ mei˩˧ jɐu˧ tʰʊŋ˨˩ kʰwɐi˥ waːk̚˨ pʰuːi˨˩ jœːŋ˩˧ tsʰɵt̚˥ tʰiːt̚˧ lou˨ kʊŋ˥ tsʰɪŋ˨˩ tsiː˥ fuː˨ tsiːm˥ tʰiːn˥ jɐu˨ tɐŋ˧˥ kiːt̚˨ tsʰɵt̚˥ jɐn˨˩ tsʰɔːi˨˩, tsœːŋ˥ hiːn˧˥ tsʰɵt̚˥ lɪŋ˩˧ naːm˨˩ jɐn˨˩ kɐm˧˥ wɐi˨˩ jɐn˨˩ siːn˥ tsiː˥ lɪk̚˨ siː˥ taːm˥ tɔːŋ˥] (LAU-MAY YAU-TOONG KWAI-WAAK PUI-YEUNG-CHUT TEET-LOU GONG-CHING JEE FOO JEEM-TEEN-YAU DUNG GEET-CHUT YUN-CHOY, JEUNG-HEEN-CHUT LING-NAHM-YUN GUM-WAI-YUN-SEEN JEE LIK-SEE DAHM-DONG)",
+          "translation": "The Chinese Educational Mission cultivated outstanding talents like Jeme Tien Yow, the Father of Chinese Railroads, demonstrating the historical courage of Lingnan people to dare to lead the world."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【容閎先驅頌】耶魯歸來香山容，留美幼童拓鴻蒙；鐵路詹公留青史，西學東漸嶺南風！"
+      ],
+      "culturalNotes": [
+        "廣東香山（今中山市與珠海市一帶）孕育了容閎、唐紹儀、孫中山等眾多改寫中國近代史的風雲人物。香山買辦文化與華僑傳統，使其成為中國近代放眼看世界之首善之區。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"輕重\":",
+          "prompt": "【留學之父】1854年畢業於美國耶魯大學、被尊為「中國留學生之父」並推動留美幼童計劃之嶺南先驅係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：乾濕錯置）",
-            "混雜生硬詞彙之不規範語句（例項：明白未適配）",
-            "聲調助詞搭配欠妥之表達（例項：知道誤用）"
+            "容閎 (Yung Wing)",
+            "詹天佑",
+            "林則徐",
+            "魏源"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "容閎為首位留美中國大學畢業生，一生致力於推動中國教育現代化。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"輕重\":",
+          "prompt": "【近代工程】由留美幼童出身之傑出工程師、主持修建京張鐵路並被譽為「中國鐵路之父」之名家係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：明白未適配）",
-            "聲調助詞搭配欠妥之表達（例項：知道誤用）",
-            "語序顛倒嘅非標準句式（例項：乾濕錯置）"
+            "詹天佑 (Jeme Tien Yow)",
+            "容閎",
+            "唐紹儀",
+            "梁敦彥"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "詹天佑為第一批留美幼童優秀代表，主持修建了著名的京張鐵路。"
         }
       ]
     },
@@ -11008,15 +11044,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"輕重\": Which sentence is completely correct?",
+          "prompt": "【地理樞紐】嶺南地區在中國近代「西學東漸」進程中扮演核心角色之根本優勢在於：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：知道誤用）",
-            "語序顛倒嘅非標準句式（例項：乾濕錯置）",
-            "混雜生硬詞彙之不規範語句（例項：明白未適配）"
+            "毗鄰港澳與海外通商口岸之海洋地理優勢，孕育出勇於革新、開眼看世界的重商與留學傳統 (Maritime gateway advantage adjacent to HK/Macau with reformist traditions)",
+            "地理位置封閉偏僻遠離所有海外航線",
+            "嚴格禁止任何外國人與外來技術進入",
+            "完全缺乏商業與航海歷史"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "嶺南得天獨厚之海洋口岸優勢使其成為近代西方思想與科學技術傳入中國之首要樞紐。"
         }
       ],
       "passThreshold": 0.8
@@ -11027,53 +11063,62 @@
     "subject": "cantonese",
     "unit": 26,
     "lessonNumber": 5,
-    "title": "嶺南儒學與心學思想 (Lingnan Confucian Philosophy) (第5課)",
+    "title": "近代嶺南政論文與現代粵語思想論辯之修辭架構：「立論」、「駁論」、「辨證」 (Political Discourse & Rhetorical Architecture)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元26第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握近代嶺南政論名篇（梁啟超報章體、孫中山民權演說）之修辭架構、立論駁論邏輯銜接標記及其在當代高階粵語學術思辨中之運用。",
     "presentation": {
-      "explanation": "",
+      "explanation": "近代嶺南政論文開創了中文現代政論與思想論辯之新紀元，其嚴密的邏輯架構與修辭體系至今仍係高階學術思辨之範式：\n\n一、近代政論與思辨論文三大核心論述板塊：\n１．立論與前提奠定（Proposition & Premises）：\n- 「何以見得？究其根源……」（ho4 ji5 gin3 dak1? gau3 kei4 gan1 jyun4...）：提問設疑，追根溯源引出核心論點。\n- 「由此觀之，事態之本質在於……」（jau4 ci2 gun1 zi1...）：從現象提煉本質。\n\n２．駁論與謬誤破斥（Refutation & Counter-Arguments）：\n- 「彼等論調看似言之成理，實則避重就輕，倒果為因」（bei2 dang2 leon6 diu6...）：揭示對方邏輯謬誤。\n- 「若以此邏輯推演，勢必導向自相矛盾之困局」（joek6 ji5 ci2 lo4 cap1 teoi1 jin2...）：以歸謬法瓦解對手立場。\n\n３．辨證綜合與長遠建言（Synthesis & Conclusion）：\n- 「既不可盲目冒進，亦不可因循守舊，唯有動態平衡各方利益」（gei3 bat1 ho2...）：辯證折中。\n- 「總結全文，縱觀全局，唯有深化體制改革，方為長治久安之根本」（zung2 git3 cyun4 man4...）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 26 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 26 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 26 in communication."
+          "target": "何以見得？究其根源，傳統保守勢力之所以阻撓變法，實質上係為咗維護其既得利益，而非顧及國家前途。",
+          "reading": "ho4 ji5 gin3 dak1? gau3 kei4 gan1 jyun4, cyun4 tung4 bou2 sau2 sai3 lik6 zi1 so2 ji5 zo2 naau4 bin3 faat3, sat6 zat1 soeng6 hai6 wai6 zo2 wai4 wu6 kei4 gei3 dak1 lei6 jik1, ji4 fei1 gu3 kap6 gwok3 gaa1 cin4 tou4. [hɔː˨˩ jiː˩˧ kiːn˧ tɐk̚˥? kɐu˧ kʰei˨˩ kɐn˥ jyːn˨˩, tsʰyːn˨˩ tʰʊŋ˨˩ pou˧˥ sɐu˧˥ sɐi˧ lɪk̚˨ tsiː˥ sɔː˧˥ jiː˩˧ tsɔː˧˥ naːu˨˩ piːn˧ faːt̚˧, sɐt̚˨ tsɐt̚˥ sœːŋ˨ hɐi˨ wɐi˨ tsɔː˧˥ wɐi˨˩ wuː˨ kʰei˨˩ kei˧ tɐk̚˥ lei˨ jɪk̚˥, jiː˨˩ fei˥ kuː˧ kʰɐp̚˨ kʷɔːk̚˧ kaː˥ tsʰiːn˨˩ tʰou˨˩] (HOH-YEE GEEN-DUK? GAU-KEY GUN-YUEN, CHUEN-TOONG BOU-SAU SY-LIK JEE SOH-YEE JOR-NAU BEEN-FAHT, SUT-JUT SEUNG HY WAI-JOR WAI-WOO KEY GAY-DUK LEY-YIK, YEE-FAY GOO-KUP GWOK-GAH CHEEN-TOU)",
+          "translation": "How is this evident? Probing its root cause, the reason traditional conservative forces obstruct reform is essentially to safeguard their vested interests rather than considering the nation's future."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元26-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "彼等反對方案看似言之成理，實則混淆視聽、倒果為因，完全禁唔起嚴密之邏輯推敲與數據驗證。",
+          "reading": "bei2 dang2 faan2 deoi3 fong1 on3 faan2 ji5 ho2 seng1, sat6 zak1 wan6 ngaau4 si6 ting1, dou2 gwo2 wai4 jan1, cyun4 min6 gam1 m4 hei2 jim4 mat6 zi1 lo4 cap1 teoi1 kaau1 jyu5 sou3 geui3 jim6 zing3. [pei˧˥ tɐŋ˧˥ faːn˧˥ tɵy˧ fɔːŋ˥ ɔːn˧ faːn˧˥ jiː˩˧ hɔː˧˥ sɪŋ˥, sɐt̚˨ tsɐk̚˥ wɐn˨ ŋaːu˨˩ siː˨ tʰɪŋ˥, tou˧˥ kʷɔː˧˥ wɐi˨˩ jɐn˥, tsʰyːn˨˩ miːn˨ kɐm˥ m̩˨˩ hei˧˥ jiːm˨˩ mɐt̚˨ tsiː˥ lɔː˨˩ tsʰɐp̚˥ tʰɵy˥ haːu˥ jyː˩˧ sou˧ kɵy˧ jiːm˨ tsɪŋ˧] (BAY-DUNG FAHN-DEOY FONG-ON FAHN-YEE HOH-SENG, SUT-JUK WUN-NGAU SEE-TING, DOU-GWOR WAI-YUN, CHUEN-MEEN GUM-M-HAY YEEM-MUT JEE LOH-CHUP TOEY-HAU YUE SOU-GOEY YEEM-JING)",
+          "translation": "Their counter-arguments appear plausible on the surface, but in fact confuse the public and invert cause and effect, completely failing to withstand rigorous logical scrutiny and empirical data verification."
+        },
+        {
+          "target": "縱觀全局，我哋既要堅定傳承嶺南文化之實踐精神，又要以開放包容之胸襟積極吸收現代世界一切優秀文明成果。",
+          "reading": "zung3 gun1 cyun4 guk6, ngo5 dei6 gei3 jiu3 gin1 ding6 cyun4 sing4 ling5 naam4 man4 faa3 zi1 sat6 zin2 zing1 san1, jau6 jiu3 ji5 hoi1 fong3 baau1 jung4 zi1 hung1 kam1 zik1 gik1 kap1 sau1 jin6 doi6 sai3 gaai3 jat1 cai3 jau1 sau3 man4 ming4 sing4 gwo2. [tsʊŋ˧ kuːn˥ tsʰyːn˨˩ kʊk̚˨, ŋɔː˩˧ tei˨ kei˧ jiu˧ kiːn˥ tɪŋ˨ tsʰyːn˨˩ sɪŋ˨˩ lɪŋ˩˧ naːm˨˩ mɐn˨˩ faː˧ tsiː˥ sɐt̚˨ tsiːn˧˥ tsɪŋ˥ sɐn˥, jɐu˨ jiu˧ jiː˩˧ hɔːi˥ fɔːŋ˧ paːu˥ jʊŋ˨˩ tsiː˥ hʊŋ˥ kʰɐm˥ tsɪk̚˥ kɪk̚˥ kʰɐp̚˨ sɐu˥ jiːn˨ tɔːi˨ sɐi˧ kaːi˧ jɐt̚˥ tsʰɐi˨˩ jɐu˥ sɐu˧ mɐn˨˩ mɪŋ˨˩ sɪŋ˨˩ kʷɔː˧˥] (JOONG-GOON CHUEN-GUK, NGOH-DAY GAY-YEW GEEN-DING CHUEN-SING LING-NAHM MUN-FAH JEE SUT-JEEN JING-SUN, YAU-YEW YEE HOI-FONG BAHU-YOONG JEE HOONG-KUM JIK-GIK KUP-SAU YEEN-DOY SY-GY YUT-CHY YAU-SAU MUN-MING SING-GWOR)",
+          "translation": "Looking at the overall situation, we must both firmly inherit the practical spirit of Lingnan culture and actively absorb all outstanding achievements of modern world civilization with an open and inclusive mindset."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【政論思辨訣】設疑立論「何以見」，批駁謬誤「倒果因」；辯證折中兼包蓄，縱觀全局格局新！"
+      ],
+      "culturalNotes": [
+        "梁啟超在《新民叢報》上發表的政論文章被譽為『筆鋒常帶情感，讀者為之動容』。現代香港與大灣區高階政論社評、法庭辯論與學術演講，深刻繼承了這種文言雅健與邏輯力量相結合的語言傳統。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"乾濕\":",
+          "prompt": "【立論設問】在學術政論文中，引導讀者探尋事件根本原因之標準設疑過渡句係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：明白錯置）",
-            "混雜生硬詞彙之不規範語句（例項：知道未適配）",
-            "聲調助詞搭配欠妥之表達（例項：識得誤用）"
+            "何以見得？究其根源…… (How is this evident? Probing its root cause...)",
+            "你問我我問邊個",
+            "大家隨便估下啦",
+            "算罷啦唔好問"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「何以見得？究其根源……」為經典政論文剖析因果機制之高階設問句式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"乾濕\":",
+          "prompt": "【駁論謬誤】指出對手論證顛倒因果關係之專業邏輯術語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：知道未適配）",
-            "聲調助詞搭配欠妥之表達（例項：識得誤用）",
-            "語序顛倒嘅非標準句式（例項：明白錯置）"
+            "倒果為因 (Inverting cause and effect)",
+            "阿茂整餅",
+            "斷章取義",
+            "食死貓"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「倒果為因」為駁論文中精確指出邏輯因果顛倒之標準術語。"
         }
       ]
     },
@@ -11081,15 +11126,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"乾濕\": Which sentence is completely correct?",
+          "prompt": "【政論修辭架構】一篇高水平思想政論文的核心論述架構應包含：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：識得誤用）",
-            "語序顛倒嘅非標準句式（例項：明白錯置）",
-            "混雜生硬詞彙之不規範語句（例項：知道未適配）"
+            "立論鮮明、論據充分，運用嚴謹邏輯反駁對立觀點，並在宏觀層面提出辯證建設性方案 (Clear proposition, rigorous refutation, and dialectical constructive synthesis)",
+            "單純情緒化謾罵而無任何事實論據",
+            "全盤抄襲他人觀點並拼湊網絡段子",
+            "前後自相矛盾且邏輯混亂"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "優秀政論文依託立論、駁論與辯證綜合三位一體之嚴謹修辭架構。"
         }
       ],
       "passThreshold": 0.8
