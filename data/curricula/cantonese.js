@@ -8685,53 +8685,62 @@
     "subject": "cantonese",
     "unit": 21,
     "lessonNumber": 1,
-    "title": "句尾語氣助詞大系 (Sentence-Final Particles Master Class) (第1課)",
+    "title": "申明、提醒與既成事態助詞：「喇 / 啦」、「囉」、「呀嘛」 (Evidential & State Particles)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元21第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語核心句尾語氣助詞「喇（新事態實現）」、「囉（顯而易見/理所當然）」與「呀嘛（提醒共有認知/反問確認）」之語氣特徵與聲調語用。",
     "presentation": {
-      "explanation": "",
+      "explanation": "句尾語氣助詞（Sentence-Final Particles, SFPs）係粵語語法之靈魂，賦予句子極為精微之認識情態、信息來源與人際互動色彩：\n\n一、「喇 / 啦」（laa3，高平變調/中平調）：新事態成立與既成事實標記：\n１．表示某種新情況已經發生或即將實現（相當於普通話『了』）：\n- 「我食飽喇」（我吃飽了，狀態轉變）。\n- 「時間到喇」（時間到了，階段終結）。\n- 「落雨喇」（下雨了，新氣象出現）。\n\n二、「囉」（lo1，高平調）：顯而易見、理所當然與因果推論：\n１．表示結論顯而易見，毋庸置疑，或事態順理成章：\n- 「唔返工咪冇人工囉」（不上班自然就沒有薪水了）。\n- 「係噉㗎囉」（事實本來就是這樣嘛）。\n- 「咁你問佢咪得囉」（那你直接問他不就行了嗎）。\n\n三、「呀嘛」（aa3 maa3，雙音節複合助詞）：共有知識提醒與反詰確認：\n１．提醒對方注意彼此皆已知曉之事實，或尋求對方之理所當然認同：\n- 「你知㗎嘛」（你是知道這件事的呀，何必多問）。\n- 「佢係我老細呀嘛」（他是我老闆呀，我怎能拒絕）。\n- 「今日星期日呀嘛」（今天可是星期日呀）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 21 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 21 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 21 in communication."
+          "target": "經過成個月嘅加班籌備，我哋個新產品發佈會終於順利搞掂喇！",
+          "reading": "ging1 gwo3 seng4 go3 jyut6 ge3 gaa1 baan1 cau4 bei6, ngo5 dei6 go3 san1 caan2 faat3 bou3 wui6*2 zung1 jyu1 seon6 lei6 gaau2 dim6 laa3! [kɪŋ˥ kʷɔː˧ sɛːŋ˨˩ kɔː˧ jyːt̚˨ kɛː˧ kaː˥ paːn˥ tsʰɐu˨˩ pei˨, ŋɔː˩˧ tei˨ kɔː˧ sɐn˥ tsʰaːn˧˥ faːt̚˧ pou˧ wuːi˨ tsʊŋ˥ jyː˥ sɵn˨ lei˨ kaːu˧˥ tiːm˨ laː˧!] (GING-GWOR SENG-GOH YUET GEH GAH-BAHN CHAU-BAY, NGOH-DAY GOH SUN-CHAAN FAHT-BOU-WUI JOONG-YUE SEUN-LEY GAU-DEEM LAH!)",
+          "translation": "After a whole month of overtime preparation, our new product launch conference is finally smoothly settled!"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元21-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "你平時唔好好溫書複習，到考試嗰陣成績唔理想，好正常囉。",
+          "reading": "nei5 ping4 si4 m4 hou2 hou2 wan1 syu1 fuk1 zaap6, dou3 haau2 si3 go2 zan6 sing4 zik1 m4 lei5 soeng2, hou2 zing3 soeng4 lo1. [nei˩˧ pʰɪŋ˨˩ siː˨˩ m̩˨˩ hou˧˥ hou˧˥ wɐn˥ syː˥ fʊk̚˥ tsaːp̚˨, tou˧ haːu˧˥ siː˧ kɔː˧˥ tsɐn˨ sɪŋ˨˩ tsɪk̚˥ m̩˨˩ lei˩˧ sœːŋ˧˥, hou˧˥ tsɪŋ˧ sœːŋ˨˩ lɔː˥] (NEI PING-SEE M-HOH-HOH WUN-SYU FOOK-JAHK, DOU HAU-SEE GOH-JUN SING-JIK M-LY-SEUNG, HOH JING-SEUNG LOH)",
+          "translation": "If you don't study and review diligently during normal times, having poor exam results when tests come is only natural."
+        },
+        {
+          "target": "你唔好逼佢食辣椒啦，佢由細到大都食唔得辣㗎嘛！",
+          "reading": "nei5 m4 hou2 bik1 keoi5 sik6 laat6 ziu1 laa1, keoi5 jau4 sai3 dou3 daai6 dou1 sik6 m4 dak1 laat6 gaa3 maa3! [nei˩˧ m̩˨˩ hou˧˥ pɪk̚˥ kʰɵy˩˧ sɪk̚˨ laːt̚˨ tsiːu˥ laː˥, kʰɵy˩˧ jɐu˨˩ sɐi˧ tou˧ taːi˨ tou˥ sɪk̚˨ m̩˨˩ tɐk̚˥ laːt̚˨ kaː˧ maː˧] (NEI M-HOH BIK KUY SIK LAHT-JEW LAH, KUY YAU-SY-DOU-DY DOH SIK-M-DUK LAHT GAH-MAH!)",
+          "translation": "Don't force him to eat hot chili peppers; he has never been able to eat spicy food since childhood, as you well know!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【事態三助詞】事態轉變用「喇」字，理所當然講個「囉」；共有常識「呀嘛」提，語氣生動最地道！"
+      ],
+      "culturalNotes": [
+        "粵語語氣助詞多達三十多個，承載了母語者細膩的情感與社交分寸。「囉」（lo1）常帶有輕微之調侃或無奈接受，而「呀嘛」（aa3 maa3）則在委婉提醒對方的同時維持了說話雙方的共同心理紐帶。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"今日\":",
+          "prompt": "【理所當然】欲表達「如果你努力工作，自然就能賺到錢，這是理所當然的」，結尾語氣詞應為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：琴日錯置）",
-            "混雜生硬詞彙之不規範語句（例項：聽日未適配）",
-            "聲調助詞搭配欠妥之表達（例項：今晚誤用）"
+            "自然就賺到錢囉！ (lo1 / Naturally / Obviously)",
+            "自然就賺到錢咩？",
+            "自然就賺到錢啫？",
+            "自然就賺到錢喎？"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「囉」（lo1）表示理所當然、顯而易見之因果必然性。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"今日\":",
+          "prompt": "【常識提醒】提醒朋友「今天是公眾假期，銀行不開門是大家都知道的事實」，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：聽日未適配）",
-            "聲調助詞搭配欠妥之表達（例項：今晚誤用）",
-            "語序顛倒嘅非標準句式（例項：琴日錯置）"
+            "今日係假期，銀行唔開門㗎嘛。 (aa3 maa3 / As you well know)",
+            "今日係假期，銀行唔開門囉。",
+            "今日係假期，銀行唔開門咩。",
+            "今日係假期，銀行唔開門喎。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「㗎嘛 / 呀嘛」用以提醒對方共有之常識或背景信息。"
         }
       ]
     },
@@ -8739,15 +8748,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"今日\": Which sentence is completely correct?",
+          "prompt": "【語氣功能】短語「時間到喇」（si4 gaan3 dou3 laa3）中，「喇」之核心語法功能係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：今晚誤用）",
-            "語序顛倒嘅非標準句式（例項：琴日錯置）",
-            "混雜生硬詞彙之不規範語句（例項：聽日未適配）"
+            "標註新事態之成立與實現 (Realization of New State)",
+            "表示強烈質疑反問",
+            "表示主觀輕視與忽略",
+            "表示引用他人傳聞"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「喇」（laa3）作為句尾助詞，核心功能為標註事態轉變或階段性完成。"
         }
       ],
       "passThreshold": 0.8
@@ -8758,53 +8767,62 @@
     "subject": "cantonese",
     "unit": 21,
     "lessonNumber": 2,
-    "title": "句尾語氣助詞大系 (Sentence-Final Particles Master Class) (第2課)",
+    "title": "疑問、確證與探詢反問助詞：「咩」、「喎」、「可」 (Inquisitive & Hearsay Particles)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元21第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語反詰驚異助詞「咩（質疑反問）」、傳聞引述助詞「喎（聽說傳聞/驚奇發現）」與求證附加助詞「可（尋求確認）」之語用場景。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語在信息來源（言據性 Evidentiality）與反詰求證上有極為精準之專屬助詞：\n\n一、「咩」（me1，高平調）：反詰質疑與出乎意料：\n１．表示說話者對某事感到意外、震驚或表示強烈懷疑反問：\n- 「真係咩？」（真的是這樣嗎？！）。\n- 「佢冇話你知咩？」（他沒有告訴你嗎？！我以為他早說了）。\n- 「你唔去咩？」（難道你竟然不去嗎？）。\n\n二、「喎 / 啝」（wo3/wo5，中平調/高平調）：傳聞引述與新奇發現：\n１．傳聞引述（言據標記，wo3）：表示信息轉述自他人，自己不作絕對擔保：\n- 「天文台話聽日會掛八號風球喎」（天文台說明天會掛八號風球呢）。\n２．新奇驚異發現（wo5）：表示說話者剛剛意外目睹新情況：\n- 「原來你都喺度喎！」（原來你也在這裡呀！）。\n\n三、「可」（ho2，高平調/陰平調）：徵詢認同與求證附加問：\n１．相當於英文 Tag Question（'..., right?'），置於句尾尋求對方確證：\n- 「你今晚得閒嘅，可？」（你今晚有空吧，對不對？）。\n- 「呢個字讀『粵』，可？」（這個字唸『粵』，對吧？）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 21 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 21 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 21 in communication."
+          "target": "佢咁大個人，連最基本嘅乘數表都唔識，唔係真係咁誇張咩？",
+          "reading": "keoi5 gam3 daai6 go3 jan4, lin4 zeoi3 gei1 bun2 ge3 sing4 sou3 biu2 dou1 m4 sik1, m4 hai6 zan1 hai6 gam3 kwaa1 zoeng1 me1? [kʰɵy˩˧ kɐm˧ taːi˨ kɔː˧ jɐn˨˩, liːn˨˩ tsɵy˧ kei˥ puːn˧˥ kɛː˧ sɪŋ˨˩ sou˧ piːu˧˥ tou˥ m̩˨˩ sɪk̚˥, m̩˨˩ hɐi˨ tsɐn˥ hɐi˨ kɐm˧ kʰwaː˥ tsœːŋ˥ mɛː˥?] (KUY GUM DY-GOH-YUN, LEEN JEOY GAY-BOON GEH SING-SOU-BEW DOH M-SIK, M-HY JUN-HY GUM KWAH-JEUNG MEH?)",
+          "translation": "He is such an adult and doesn't even know the basic multiplication table; isn't that really too exaggerated?!"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元21-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "聽新聞報導講，政府下個月開始會派發新一輪嘅電子消費券喎。",
+          "reading": "teng1 san1 man4 bou3 dou6 gong2, zing3 fu2 haa6 go3 jyut6 hoi1 ci2 wui5 paai3 faat3 san1 jat1 leon4 ge3 din6 zi2 siu1 fai3 gyun3 wo3. [tʰɛːŋ˥ sɐn˥ mɐn˨˩ pou˧ tou˨ kɔːŋ˧˥, tsɪŋ˧ fuː˧˥ haː˨ kɔː˧ jyːt̚˨ hɔːi˥ tsʰiː˧˥ wui˩˧ pʰaːi˧ faːt̚˧ sɐn˥ jɐt̚˥ lɵn˨˩ kɛː˧ tiːn˨ tsiː˧˥ siːu˥ fɐi˧ kyːn˧ wɔː˧] (TENG SUN-MUN BOU-DOU GONG, JING-FOO HAH-GOH-YUET HOI-CHEE WUI PY-FAHT SUN-YUT-LEON GEH DEEN-JEE SIU-FY-GUEN WOH)",
+          "translation": "Listening to the news reports, the government will begin distributing a new round of electronic consumption vouchers next month."
+        },
+        {
+          "target": "我哋下個禮拜一齊去大嶼山行山睇日落，你都會一齊去嘅，可？",
+          "reading": "ngo5 dei6 haa6 go3 lai5 baai3 jat1 cai4 heoi3 daai6 jyu4 saan1 haang4 saan1 tai2 jat6 lok6, nei5 dou1 wui5 jat1 cai4 heoi3 ge3, ho2? [ŋɔː˩˧ tei˨ haː˨ kɔː˧ lɐi˩˧ paːi˧ jɐt̚˥ tsʰɐi˨˩ hɵy˧ taːi˨ jyː˨˩ saːn˥ haːŋ˨˩ saːn˥ tʰɐi˧˥ jɐt˨ lɔːk̚˨, nei˩˧ tou˥ wui˩˧ jɐt̚˥ tsʰɐi˨˩ hɵy˧ kɛː˧, hɔː˧˥?] (NGOH-DAY HAH-GOH LY-BY YUT-CHY HOEY DY-YUE-SAHN HAHNG-SAHN TY YUT-LOK, NEI DOH WUI YUT-CHY HOEY GEH, HOH?)",
+          "translation": "We are going hiking on Lantau Island to watch the sunset together next week; you will come along too, right?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【質疑傳聞訣】反詰驚訝用個「咩」，轉述傳聞講句「喎」；向人求證加「可」字，探詢反問最清楚！"
+      ],
+      "culturalNotes": [
+        "「咩」（me1）帶有強烈的情感張力，若對長輩或上司使用過多可能顯得不敬或具挑戰性。「喎」（wo3）作為言據標記，在香港職場中轉達指令時常能有效釐清責任邊界（如『老細話聽日要交喎』）。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"琴日\":",
+          "prompt": "【驚訝反問】聽到令人難以置信的消息時，反問「真的是這樣嗎？！難道真的會這樣？」，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：聽日錯置）",
-            "混雜生硬詞彙之不規範語句（例項：今晚未適配）",
-            "聲調助詞搭配欠妥之表達（例項：上晝誤用）"
+            "真係噉咩？！ (me1 / Rhetorical surprise)",
+            "真係噉囉？！",
+            "真係噉啫？！",
+            "真係噉可？！"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「咩」（me1）表示出乎意料之強烈反問與懷疑。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"琴日\":",
+          "prompt": "【轉述傳聞】向朋友轉達「我聽經理說下星期要全體加班」，客觀轉述助詞應為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：今晚未適配）",
-            "聲調助詞搭配欠妥之表達（例項：上晝誤用）",
-            "語序顛倒嘅非標準句式（例項：聽日錯置）"
+            "經理話下個禮拜要加班喎。 (wo3 / Hearsay reporting)",
+            "經理話下個禮拜要加班咩。",
+            "經理話下個禮拜要加班啫。",
+            "經理話下個禮拜要加班可。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「喎」（wo3）用於轉述第三方言論或傳聞消息。"
         }
       ]
     },
@@ -8812,15 +8830,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"琴日\": Which sentence is completely correct?",
+          "prompt": "【求證附加問】句子「份報告聽日交嘅，可？」（ho2）中，「可」之功能相當於英語中之：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：上晝誤用）",
-            "語序顛倒嘅非標準句式（例項：聽日錯置）",
-            "混雜生硬詞彙之不規範語句（例項：今晚未適配）"
+            "附加疑問句標記（Tag Question，如 '..., right?'） (Seeking confirmation)",
+            "動態完成標記（如 'already'）",
+            "條件連詞（如 'if'）",
+            "否定副詞（如 'never'）"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「可」（ho2）置於句尾，功能為向對方尋求肯定與確認（..., right?）。"
         }
       ],
       "passThreshold": 0.8
@@ -8831,53 +8849,62 @@
     "subject": "cantonese",
     "unit": 21,
     "lessonNumber": 3,
-    "title": "句尾語氣助詞大系 (Sentence-Final Particles Master Class) (第3課)",
+    "title": "主觀限止、輕描淡寫與強調本質助詞：「啫」、「㗎」 (Limitative & Inherent Particles)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元21第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語主觀縮小限定助詞「啫（只不過/僅僅）」與本質屬性申述助詞「㗎（本質固有/向來如此）」之深層語言學功能。",
     "presentation": {
-      "explanation": "",
+      "explanation": "「啫」與「㗎」在粵語語氣體系中分別承擔「主觀縮小限止」與「本質屬性確認」之核心功能：\n\n一、「啫」（ze1，高平調）：主觀限止、輕描淡寫與縮小範圍：\n１．表示事物數量少、程度輕、微不足道或意在安撫對方（相當於『只不過是……罷了』）：\n- 「玩下啫」（只是開開玩笑罷了，別介意）。\n- 「幾十蚊啫」（只不過幾十塊錢而已，不貴）。\n- 「我問下啫」（我只是隨口問問罷了）。\n- 「小事嚟啫」（只是一件小事而已）。\n\n二、「㗎」（gaa3，中平調/高平調）：本質屬性、固有特徵與恆常規律：\n１．源自「嘅（ge3）＋ 呀（aa3）」之合音，表示事物的本質特徵、恆常規律或固有事實：\n- 「佢係我阿哥嚟㗎」（他本來就是我的親哥哥，固有身份）。\n- 「呢間餐廳星期一唔開㗎」（這家餐廳向來週一都不營業，恆常規律）。\n- 「火係好熱㗎」（火本質上就是燙的，客觀規律）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 21 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 21 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 21 in communication."
+          "target": "大家同事一場，頭先開會講多兩句都係為工作啫，你千萬唔好擺喺心上。",
+          "reading": "daai6 gaa1 tung4 si6 jat1 coeng4, tau4 sin1 hoi1 wui6*2 gong2 do1 loeng5 geui3 dou1 hai6 wai6 gung1 zok3 ze1, nei5 cin1 maan6 m4 hou2 baai2 hai2 sam1 soeng6. [taːi˨ kaː˥ tʰʊŋ˨˩ siː˨ jɐt̚˥ tsʰœːŋ˨˩, tʰɐu˨˩ siːn˥ hɔːi˥ wuːi˨ kɔːŋ˧˥ tɔː˥ lœːŋ˩˧ kɵy˧ tou˥ hɐi˨ wɐi˨ kʊŋ˥ tsɔːk̚˧ tsɛː˥, nei˩˧ tsʰiːn˥ maːn˨ m̩˨˩ hou˧˥ paːi˧˥ hɐi˩˧ sɐm˥ sœːŋ˨] (DY-GAH TOONG-SEE YUT-CHEUNG, TAU-SEEN HOI-WUI GONG DOH LEUNG-GOEY DOH HY WAI GONG-JOK JEH, NEI CHEEN-MAHN M-HOH BAAI HY SUM-SEUNG)",
+          "translation": "We are all colleagues; saying a few more words in the meeting just now was only for the work, please don't take it to heart at all."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元21-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "呢度係全港最繁華嘅商業核心區，寫字樓租金一向都好貴㗎！",
+          "reading": "ni1 dou6 hai6 cyun4 gong2 zeoi3 faan4 waa4 ge3 soeng1 jip6 hat6 sam1 keoi1, se2 zi6 lau4 zou1 gam1 jat1 hoeng3 dou1 hou2 gwai3 gaa3! [niː˥ tou˨ hɐi˨ tsʰyːn˨˩ kɔːŋ˧˥ tsɵy˧ faːn˨˩ waː˨˩ kɛː˧ sœːŋ˥ jiːp̚˨ hɐt̚˨ sɐm˥ kʰɵy˥, sɛː˧˥ tsiː˨ lɐu˨˩ tsou˥ kɐm˥ jɐt̚˥ hœːŋ˧ tou˥ hou˧˥ kʷɐi˧ kaː˧!] (NEE-DOU HY CHUEN-GONG JEOY FAHN-WAH GEH SEUNG-YIP HUK-SUM-KUY, SEH-JEE-LAU JOU-GUM YUT-HEUNG DOH HOH-GWY GAH!)",
+          "translation": "This is the most prosperous commercial core district in Hong Kong; office rents have always inherently been very expensive!"
+        },
+        {
+          "target": "我都係買咗兩杯奶茶同兩件蛋撻啫，使唔使咁大驚小怪呀？",
+          "reading": "ngo5 dou1 hai6 maai5 zo2 loeng5 bui1 naai5 caa4 tung4 loeng5 gin6 daan6*2 taat1 ze1, sai2 m4 sai2 gam3 daai6 ging1 siu2 gwaai3 aa3? [ŋɔː˩˧ tou˥ hɐi˨ maːi˩˧ tsɔː˧˥ lœːŋ˩˧ puːi˥ naːi˩˧ tsʰaː˨˩ tʰʊŋ˨˩ lœːŋ˩˧ kiːn˨ taːn˧˥ tʰaːt̚˧ tsɛː˥, sɐi˧˥ m̩˨˩ sɐi˧˥ kɐm˧ taːi˨ kɪŋ˥ siu˧˥ kʷaːi˧ aː˧?] (NGOH DOH HY MY-JOR LEUNG-BOOY NY-CHAH TOONG LEUNG-GEEN DAHN-TAHT JEH, SY-M-SY GUM DY-GING-SIU-GWY AH?)",
+          "translation": "I only just bought two cups of milk tea and two egg tarts; is there any need to make such a big fuss?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【輕描本質訣】輕描淡寫加個「啫」，本質固有講個「㗎」；只係小事何須燥，語氣分明境界高！"
+      ],
+      "culturalNotes": [
+        "「啫」（ze1）在化解人際矛盾與緩和緊張氣氛時扮演關鍵角色。當對方道歉時，一句「小事嚟啫，唔緊要啦」能瞬間拉近彼此距離，展現出嶺南文化之豁達與包容。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"聽日\":",
+          "prompt": "【輕描淡寫】安慰朋友「這只是一件微不足道的小事，別放在心上」，地道結尾語氣詞係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：今晚錯置）",
-            "混雜生硬詞彙之不規範語句（例項：上晝未適配）",
-            "聲調助詞搭配欠妥之表達（例項：下晝誤用）"
+            "小事嚟啫。 (ze1 / Merely / Just a small matter)",
+            "小事嚟㗎。",
+            "小事嚟咩。",
+            "小事嚟囉。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「啫」（ze1）用於輕描淡寫、主觀縮小嚴重性。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"聽日\":",
+          "prompt": "【本質特徵】向外地朋友解釋「香港夏天向來都非常炎熱多雨（固有規律）」，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：上晝未適配）",
-            "聲調助詞搭配欠妥之表達（例項：下晝誤用）",
-            "語序顛倒嘅非標準句式（例項：今晚錯置）"
+            "香港夏天好熱㗎。 (gaa3 / Inherent permanent fact)",
+            "香港夏天好熱啫。",
+            "香港夏天好熱咩。",
+            "香港夏天好熱可。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「㗎」（gaa3）表示本質固有事實與規律。"
         }
       ]
     },
@@ -8885,15 +8912,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"聽日\": Which sentence is completely correct?",
+          "prompt": "【對比辨析】句子Ａ「我問下啫」與句子Ｂ「我問下㗎」之語法語氣核心差別係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：下晝誤用）",
-            "語序顛倒嘅非標準句式（例項：今晚錯置）",
-            "混雜生硬詞彙之不規範語句（例項：上晝未適配）"
+            "句子Ａ強調『只是隨口問問、別介意』，句子Ｂ強調『問問題是我的固有習慣或職責』",
+            "句子Ａ表示憤怒，句子Ｂ表示高興",
+            "句子Ａ是疑問句，句子Ｂ是祈使句",
+            "兩者毫無語義差別"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「啫」表縮小輕描淡寫，「㗎」表固有特徵或慣常做法。"
         }
       ],
       "passThreshold": 0.8
@@ -8904,53 +8931,62 @@
     "subject": "cantonese",
     "unit": 21,
     "lessonNumber": 4,
-    "title": "句尾語氣助詞大系 (Sentence-Final Particles Master Class) (第4課)",
+    "title": "規勸、催促與商榷請求助詞：「啦」、「喇喎」、「罷啦」 (Directives & Warnings)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元21第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語祈使祈請助詞「啦（緩和請求/催促）」、警示轉折助詞「喇喎（即將逾期警示）」與無奈放棄助詞「罷啦（算了罷了）」之語用規範。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在人際互動與指令傳達中，粵語運用專屬助詞來調節祈使語氣之強弱、發出警示或表達無奈妥協：\n\n一、「啦」（laa1，陰平高平調）：溫和祈請、催促與建議：\n１．弱化命令之生硬感，使請求更具親和力或迫切催促：\n- 「快啲行啦」（快點走吧，催促）。\n- 「幫幫手啦」（幫幫忙吧，懇求）。\n- 「食多件點心啦」（多吃一件點心吧，熱情招待）。\n\n二、「喇喎」（laa3 wo3，複合警示助詞）：事態迫近與即將轉折警示：\n１．提醒對方當前情況已接近臨界點，若不採取行動將產生不良後果：\n- 「就嚟遲到喇喎」（快要遲到了哦，小心警示）。\n- 「就快落大雨喇喎」（快要下大雨了哦）。\n- 「再唔買就賣晒喇喎」（再不買就全部售罄了哦）。\n\n三、「罷啦」（baa6 laa1，複合放棄助詞）：無奈放棄、妥協與任由發展：\n１．表示事情無法挽回，決定放棄努力或不再追究（相當於『算了罷了』）：\n- 「算罷啦」（算了吧，不再計較）。\n- 「由得佢罷啦」（隨他去吧，別管了）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 21 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 21 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 21 in communication."
+          "target": "依家已經八點四十五分，再唔出門口就真係會遲到喇喎！",
+          "reading": "ji1 gaa1 ji5 ging1 baat3 dim2 sei3 sap6 ng5 fan1, zoi3 m4 ceot1 mun4 hau2 zau6 zan1 hai6 wui5 ci4 dou3 laa3 wo3! [jiː˥ kaː˥ jiː˩˧ kɪŋ˥ paːt̚˧ tiːm˧˥ sei˧ sɐp̚˨ ŋ̩˩˧ fɐn˥, tsɔːi˧ m̩˨˩ tsʰɵt̚˥ muːn˨˩ hɐu˧˥ tsɐu˨ tsɐn˥ hɐi˨ wui˩˧ tsʰiː˨˩ tou˧ laː˧ wɔː˧!] (YEE-GAH YEE-GING BAHT-DEEM SAY-SUP-NG-FUN, JOY M-CHUT MOON-HAU JAU JUN-HY WUI CHEE-DOU LAH-WOH!)",
+          "translation": "It is already 8:45 right now; if we still don't head out the door, we will really be late, watch out!"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元21-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "既然大家意見分歧咁大，又傾唔埋欄，不如暫時算罷啦。",
+          "reading": "gei3 jin4 daai6 gaa1 ji3 gin3 fan1 kei4 gam3 daai6, jau6 king1 m4 maai4 laan4, bat1 jyu4 zaam6 si4 syun3 baa6 laa1. [kei˧ jiːn˨˩ taːi˨ kaː˥ jiː˧ kiːn˧ fɐn˥ kʰei˨˩ kɐm˧ taːi˨, jɐu˨ kʰɪŋ˥ m̩˨˩ maːi˨˩ laːn˨˩, pɐt̚˥ jyː˨˩ tsaːm˨ siː˨˩ syːn˧ paː˨ laː˥] (GAY-YEEN DY-GAH YEE-GEEN FUN-KEY GUM DY, YAU KING-M-MY-LAHN, BUT-YUE JAHM-SEE SUEN-BAH-LAH)",
+          "translation": "Since everyone's difference in opinions is so great and we can't reach an agreement, why not just forget it for now."
+        },
+        {
+          "target": "呢度啲蝦餃好新鮮好彈牙，你趁熱食多粒啦！",
+          "reading": "ni1 dou6 di1 haa1 gaau2 hou2 san1 sin1 hou2 daan6 ngaa4, nei5 can3 jit6 sik6 do1 nap1 laa1! [niː˥ tou˨ tiː˥ haː˥ kaːu˧˥ hou˧˥ sɐn˥ siːn˥ hou˧˥ taːn˨ ŋaː˨˩, nei˩˧ tsʰɐn˧ jiːt̚˨ sɪk̚˨ tɔː˥ nɐp̚˥ laː˥!] (NEE-DOU DEE HAH-GAU HOH SUN-SEEN HOH DAHN-NGAH, NEI CHUN-YEET SIK DOH LUP LAH!)",
+          "translation": "The shrimp dumplings here are very fresh and bouncy; please eat another one while they are hot!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【指令規勸歌】溫和請求加個「啦」，緊迫警示「喇喎」提；無奈放棄講「罷啦」，人際溝通最和宜！"
+      ],
+      "culturalNotes": [
+        "「算罷啦」（算了吧）反映了嶺南人「退一步海闊天空」之處世智慧。在商業談判陷入僵局或日常爭執時，適時使用「算罷啦」有助於避免衝突升級。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"今晚\":",
+          "prompt": "【緊迫警示】提醒朋友「末班地鐵快要開走了，再不跑就趕不上了」，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：上晝錯置）",
-            "混雜生硬詞彙之不規範語句（例項：下晝未適配）",
-            "聲調助詞搭配欠妥之表達（例項：朝早誤用）"
+            "尾班車就嚟開走喇喎！ (laa3 wo3 / Imminent warning)",
+            "尾班車就嚟開走罷啦！",
+            "尾班車就嚟開走啫！",
+            "尾班車就嚟開走可！"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「喇喎」（laa3 wo3）用於發出事態迫近之警告。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"今晚\":",
+          "prompt": "【放棄妥協】面對無法挽回之失敗局面，表達「算了，別再糾結了」，最地道粵語表達係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：下晝未適配）",
-            "聲調助詞搭配欠妥之表達（例項：朝早誤用）",
-            "語序顛倒嘅非標準句式（例項：上晝錯置）"
+            "算罷啦。 (syun3 baa6 laa1 / Forget it / Let it be)",
+            "算喇喎。",
+            "算咩啦。",
+            "算㗎喎。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「算罷啦」（syun3 baa6 laa1）表示無奈放棄、不再計較。"
         }
       ]
     },
@@ -8958,15 +8994,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"今晚\": Which sentence is completely correct?",
+          "prompt": "【語氣對比】祈請助詞「啦」（laa1）與事態助詞「喇」（laa3）之核心語音與語義差異係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：朝早誤用）",
-            "語序顛倒嘅非標準句式（例項：上晝錯置）",
-            "混雜生硬詞彙之不規範語句（例項：下晝未適配）"
+            "「啦」（laa1，高平調）表請求建議，「喇」（laa3，中平調）表事態完成轉變",
+            "「啦」表否定，「喇」表肯定",
+            "「啦」只能用於書面語，「喇」只能用於口語",
+            "兩者聲調與用法完全相同"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "第一聲「啦」（laa1）為祈使祈請助詞，第三聲「喇」（laa3）為既成事態助詞。"
         }
       ],
       "passThreshold": 0.8
@@ -8977,53 +9013,62 @@
     "subject": "cantonese",
     "unit": 21,
     "lessonNumber": 5,
-    "title": "句尾語氣助詞大系 (Sentence-Final Particles Master Class) (第5課)",
+    "title": "複合語氣助詞疊用與多重層疊語意：「㗎喇」、「嘅啫」、「啫嘛」、「㗎喎」 (Compound Particle Stacking)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元21第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語複合語氣助詞多重疊用機制（㗎喇、嘅啫、啫嘛、㗎喎）之語義合成公式與頂級母語者語感精準實戰。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語語氣助詞最精妙之處在於可將兩個或三個助詞依序疊加，合成出極為立體多維之語氣效果：\n\n一、四大金牌複合助詞矩陣：\n１．「㗎喇」（gaa3 laa3 = 㗎 + 喇）：【本質事實 ＋ 既成事態成立】。\n- 表示某種原本就具備之屬性，現在已經正式生效或徹底辦妥。\n- 範例：「搞掂㗎喇」（已經完全辦妥搞定了）、「知㗎喇」（早就已經知道了）。\n\n２．「嘅啫」（ge3 ze1 = 嘅 + 啫）：【解釋說明 ＋ 主觀縮小限止】。\n- 用於向對方解釋原因，同時申明這只是微不足道之事，不必大驚小怪。\n- 範例：「我問下嘅啫」（我只是隨口問問解釋一下罷了）。\n\n３．「啫嘛」（ze1 maa3 = 啫 + 嘛）：【縮小限止 ＋ 共有常識/何足掛齒】。\n- 強調程度非常輕微，且這件事顯而易見不值得大驚小怪。\n- 範例：「五分鐘啫嘛」（只不過五分鐘而已嘛，何必著急）。\n- 範例：「十蚊啫嘛」（才十塊錢而已嘛）。\n\n４．「㗎喎」（gaa3 wo3 = 㗎 + 喎）：【固有事實 ＋ 提醒/新奇傳聞】。\n- 提示對方某個不容忽視之固有事實或新奇特徵。\n- 範例：「佢好勁㗎喎」（他其實非常厲害的哦，你可別小看他）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 21 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 21 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 21 in communication."
+          "target": "你放心啦，所有報關文件我今朝一早就已經全部交齊畀海關搞掂㗎喇！",
+          "reading": "nei5 fong3 sam1 laa1, so2 jau5 bou3 gwaan1 man4 gin62 ngo5 gam1 ziu1 jat1 zou2 zau6 ji5 ging1 cyun4 bou6 gaau1 cai4 bei2 hoi2 gwaan1 gaau2 dim6 gaa3 laa3! [nei˩˧ fɔːŋ˧ sɐm˥ laː˥, sɔː˧˥ jɐu˩˧ pou˧ kʷaːn˥ mɐn˨˩ kiːn˧˥ ŋɔː˩˧ kɐm˥ tsiːu˥ jɐt̚˥ tsou˧˥ tsɐu˨ jiː˩˧ kɪŋ˥ tsʰyːn˨˩ pou˨ kaːu˥ tsʰɐi˨˩ pei˨ hɔːi˧˥ kʷaːn˥ kaːu˧˥ tiːm˨ kaː˧ laː˧!] (NEI FONG-SUM LAH, SOH-YAU BOU-GWAHN MUN-GEEN NGOH GUM-JIU YUT-JOU JAU YEE-GING CHUEN-BOU GAU-CHY BAY HOY-GWAHN GAU-DEEM GAH-LAH!)",
+          "translation": "Don't worry; all customs declaration documents were already fully submitted to customs and settled early this morning!"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元21-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "遲到幾分鐘啫嘛，唔使發咁大脾氣㗎，大家放鬆啲啦。",
+          "reading": "ci4 dou3 gei2 fan1 zung1 ze1 maa3, m4 sai2 faat3 gam3 daai6 pei4 hei3 gaa3, daai6 gaa1 fong3 sung1 di1 laa1. [tsʰiː˨˩ tou˧ kei˧˥ fɐn˥ tsʊŋ˥ tsɛː˥ maː˧, m̩˨˩ sɐi˧˥ faːt̚˧ kɐm˧ taːi˨ pʰei˨˩ hei˧ kaː˧, taːi˨ kaː˥ fɔːŋ˧ sʊŋ˥ tiː˥ laː˥] (CHEE-DOU GAY-FUN-JOONG JEH-MAH, M-SY FAHT GUM DY-PAY-HEY GAH, DY-GAH FONG-SOONG-DEE LAH)",
+          "translation": "It's only being late for a few minutes, what's the big deal? There's no need to lose your temper so much; everyone relax a bit."
+        },
+        {
+          "target": "你唔好睇佢平時唔多講嘢，佢以前係全港羽毛球冠軍嚟㗎喎！",
+          "reading": "nei5 m4 hou2 tai2 keoi5 ping4 si4 m4 do1 gong2 je5, keoi5 ji5 cin4 hai6 cyun4 gong2 jyu5 mou4 kau4 gun3 gwan1 lai4 gaa3 wo3! [nei˩˧ m̩˨˩ hou˧˥ tʰɐi˧˥ kʰɵy˩˧ pʰɪŋ˨˩ siː˨˩ m̩˨˩ tɔː˥ kɔːŋ˧˥ jɛː˩˧, kʰɵy˩˧ jiː˩˧ tsʰiːn˨˩ hɐi˨ tsʰyːn˨˩ kɔːŋ˧˥ jyː˩˧ mouou˨˩ kʰɐu˨˩ kuːn˧ kʷɐn˥ lɐi˨˩ kaː˧ wɔː˧!] (NEI M-HOH TY KUY PING-SEE M-DOH GONG-YEH, KUY YEE-CHEEN HY CHUEN-GONG YUE-MOU-KAU GOON-GWUN LY GAH-WOH!)",
+          "translation": "Don't just look at him not talking much usually; he was actually the all-Hong Kong badminton champion in the past, you know!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【疊用助詞訣】辦妥生效「㗎喇」講，隨口解釋「嘅啫」談；微不足道「啫嘛」勸，深藏不露「㗎喎」讚！"
+      ],
+      "culturalNotes": [
+        "複合助詞疊用（如『㗎喇』、『嘅啫』、『啫嘛』）展現了粵語語法高度精準之情緒調控力。掌握助詞疊用，係學習者由中級邁向高級母語者語感之終極分水嶺。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"上晝\":",
+          "prompt": "【語氣疊用】向老闆匯報任務時確認「全部工作都已經徹底辦妥無誤了」，最地道複合助詞短語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：下晝錯置）",
-            "混雜生硬詞彙之不規範語句（例項：朝早未適配）",
-            "聲調助詞搭配欠妥之表達（例項：半夜誤用）"
+            "全部搞掂㗎喇！ (gaa3 laa3 / Completely settled already)",
+            "全部搞掂嘅啫！",
+            "全部搞掂啫嘛！",
+            "全部搞掂㗎喎！"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「㗎喇」（gaa3 laa3）表示任務已經徹底辦妥並正式生效。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"上晝\":",
+          "prompt": "【複合微不足道】向著急的朋友勸解「只不過是等十分鐘而已嘛，何必這麼心急」，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：朝早未適配）",
-            "聲調助詞搭配欠妥之表達（例項：半夜誤用）",
-            "語序顛倒嘅非標準句式（例項：下晝錯置）"
+            "等十分鐘啫嘛。 (ze1 maa3 / Just 10 mins, what's the big deal?)",
+            "等十分鐘㗎喇。",
+            "等十分鐘㗎喎。",
+            "等十分鐘嘅可。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「啫嘛」（ze1 maa3）結合了縮小微不足道與共有認知之勸解語氣。"
         }
       ]
     },
@@ -9031,15 +9076,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"上晝\": Which sentence is completely correct?",
+          "prompt": "【多重語氣分析】句子「佢好勁㗎喎」（gaa3 wo3）中，複合助詞之語意合成效果係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：半夜誤用）",
-            "語序顛倒嘅非標準句式（例項：下晝錯置）",
-            "混雜生硬詞彙之不規範語句（例項：朝早未適配）"
+            "強調對方客觀上具備卓越能力（㗎），同時向聽者發出提示或表達驚嘆（喎）",
+            "表示完全否定對方的能力",
+            "表示向對方發出嚴厲批評",
+            "表示疑問求證對方是否具備能力"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「㗎」確立本質屬性事實，「喎」承擔提醒聽者注意或傳遞新奇信息之功能。"
         }
       ],
       "passThreshold": 0.8
