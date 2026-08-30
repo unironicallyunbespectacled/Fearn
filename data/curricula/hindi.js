@@ -6225,53 +6225,62 @@
     "subject": "hindi",
     "unit": 15,
     "lessonNumber": 1,
-    "title": "संबंधवाचक-नित्यसंबंधी वाक्य: जो...वह (Correlatives) (Part 1)",
+    "title": "संज्ञा और सर्वनाम का संबंधवाचक युग्म: जो...वह (Relative-Correlative Pronouns: jo...vah)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.1) with authentic linguistic precision.",
+    "objective": "संबंधवाचक सर्वनाम 'जो' (Relative) और नित्यसंबंधी सर्वनाम 'वह / सो' (Correlative) के प्रत्यक्ष व तिर्यक् (Oblique/Ergative/Dative) युग्मों (जिसने...उसने, जिसे...उसे, जिसका...उसका) में पूर्ण दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में संबंधवाचक वाक्य (Relative Clauses) युग्मों (Pairs) पर आधारित होते हैं, जिनमें संबंधवाचक उपवाक्य पहले और नित्यसंबंधी मुख्य उपवाक्य बाद में आता है:\n\n1. प्रत्यक्ष रूप (Direct Pair):\n   - **जो...वह / वही** (The one who / which...that / the same one):\n     - *जो परिश्रम करता है, वह सफल होता है*;\n     - *जो पुस्तक मेज़ पर रखी है, वह मेरी है*।\n\n2. तिर्यक् व कारक रूप (Oblique & Case-marked Pairs):\n   - **जिसने...उसने** (Ergative 'ने'): *जिसने मेहनत की, उसने फल पाया*;\n   - **जिसे / जिसको...उसे / उसको** (Dative 'को'): *जिसे भूख लगी है, उसे खाना दो*;\n   - **जिसका / जिसके / जिसकी...उसका / उसके / उसकी** (Genitive 'का'): *जिसकी लाठी, उसकी भैंस* (लोकप्रिय लोकोक्ति);\n   - **जिसमें...उसमें** (Locative 'में'): *जिसमें साहस है, वही आगे बढ़ता है*।\n\n3. बहुवचन रूप:\n   - **जो...वे** / **जिन्होंने...उन्होंने** / **जिनको...उनको**।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 15.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 15."
+          "target": "जिस लगनशील छात्र ने सालभर नियमित और अत्यंत कठिन परिश्रम किया, उसी ने वार्षिक बोर्ड परीक्षा में सर्वोच्च स्थान प्राप्त किया।",
+          "reading": "jis lagansheel chhaatr ne saalbhar niyamit aur atyant kathin parishram kiya, usi ne vaarshik board pareeksha mein sarvochch sthaan praapt kiya. [dʒɪs ləɡənʃiːl tʃʰaːt̪r neː saːlbʱər nɪjəmɪt̪ ɔːr ət̪jən̪t̪ kəʈʰɪn pərɪʃrəm kɪjaː ʊsiː neː ʋaːrʂɪk boːrɖ pəriːkʃaː mẽː sərʋoːtʃː st̪ʰaːn praːpt̪ kɪjaː] (jees luh-guhn-SHEEL CHHAH-truh nay SAHL-bhuhr nee-yuh-MEET owr uht-YUHNT KUH-theen puh-REESH-ruhm kee-YAH, OO-see nay VAHR-sheek bohrd puh-REEK-shah mayn suhr-VOHTCH sthahn PRAHPT kee-YAH)",
+          "translation": "The dedicated student who worked regularly and extremely hard throughout the year, that very one secured the top position in the annual board examination."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 15-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "जिस विद्वान चिकित्सक ने उस असाध्य रोग का सफल उपचार किया, उसे संपूर्ण समाज में सर्वोच्च सम्मान और नागरिक पुरस्कार प्रदान किया गया।",
+          "reading": "jis vidvaan chikitsak ne us asaadhya rog ka safal upchaar kiya, use sampoorna samaaj mein sarvochch sammaan aur naagrik puraskaar pradaan kiya gaya. [dʒɪs ʋɪd̪ʋaːn tʃɪkɪt̪sək neː ʊs əsaːd̪ʱjə roːɡ kaː səfəl ʊptʃaːr kɪjaː ʊseː səmbuːrɳə səmaːdʒ mẽː sərʋoːtʃː səmːaːn ɔːr naːɡrɪk pʊrəskaːr prəd̪aːn kɪjaː ɡəjaː] (jees veed-VAHN chee-KEET-suhk nay oos uh-SAHDH-yuh rohg kah SUH-fuhl oop-CHAHR kee-YAH, oo-SAY suhm-POOR-nuh suh-MAHJ mayn suhr-VOHTCH suhm-MAHN owr NAHG-reek poor-uhs-KAHR pruh-DAHN kee-YAH GUH-yah)",
+          "translation": "The learned doctor who successfully treated that incurable disease, to him was granted the highest honor and civic award in the entire society."
+        },
+        {
+          "target": "जो व्यक्ति कठिन संकट के समय अपने मित्रों की निःस्वार्थ सहायता करता है, वही वास्तव में सच्चा और विश्वसनीय मित्र कहलाता है।",
+          "reading": "jo vyakti kathin sankat ke samay apne mitron ki nihsvaarth sahaayata karta hai, vahi vaastav mein sachcha aur vishvasaneey mitr kahlaata hai. [dʒoː ʋjəkt̪ɪ kəʈʰɪn səŋkəʈ keː səməj əpneː mɪt̪rõː kiː nɪɦsʋaːrt̪ʰ səɦaːjət̪aː kərt̪aː hɛː ʋəɦiː ʋaːst̪əʋ mẽː sətʃːaː ɔːr ʋɪʃʋəsniːj mɪt̪r kəɦlaːt̪aː hɛː] (joh VYUHNK-tee KUH-theen SUHN-kuht kay SUH-muy uhp-NAY MEET-rohn kee neeh-SVAHRTH suh-hah-YUH-tah KUHR-tah hy, vuh-HEE VAHS-tuhv mayn SUHTCH-chah owr veesh-vuh-suh-NEE-yuh MEET-ruh kuh-h-LAH-tah hy)",
+          "translation": "The person who selflessly helps his friends during times of severe crisis, he alone is truly called a true and reliable friend."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Relative Clause = जो (य-वर्ग) पहले; Main Clause = वह/उसने (त/व-वर्ग) बाद में!"
+      ],
+      "culturalNotes": [
+        "भारतीय नीतिशास्त्र और सूक्तियों (सुभाषितानि) में 'जो...सो/वह' संरचना का प्रयोग जीवन मूल्यों, मित्रता और धर्म के शाश्वत सिद्धांतों को व्यक्त करने के लिए सदियों से होता आया है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"मौसम\":",
+          "prompt": "वाक्य «जिसने चोरी की, ___ दंड मिलना चाहिए» में सही नित्यसंबंधी सर्वनाम क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 15.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सूरज» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बारिश» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («हवा» का अनुचित स्थान)"
+            "उसे (Use - To him [dative correlative matching jisne])",
+            "उसने (Ergative mismatch for passive dative obligation)",
+            "वह (Direct pronoun mismatch)",
+            "उसका (Genitive mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«दंड मिलना चाहिए» के लिए संप्रदान कारक (Dative) के रूप में «उसे» शुद्ध है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"मौसम\":",
+          "prompt": "प्रसिद्ध लोकोक्ति «___ लाठी, उसकी भैंस» में सही संबंधवाचक शब्द भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 15.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बारिश» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («हवा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सूरज» का अशुद्ध रूप)"
+            "जिसकी (Jiski - Whose [feminine genitive matching lathi])",
+            "जिसका (Masculine error for lathi)",
+            "जो (Direct pronoun error)",
+            "जिसने (Ergative error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'लाठी' स्त्रीलिंग संज्ञा होने के कारण संबंध कारक रूप «जिसकी» सही है।"
         }
       ]
     },
@@ -6279,17 +6288,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"मौसम\": Which sentence is completely correct?",
+          "prompt": "संबंधवाचक और नित्यसंबंधी सर्वनाम के शुद्ध समन्वय वाला वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 15.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («हवा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सूरज» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बारिश» से संबंधित)"
+            "जिन्होंने कठिन परिस्थितियों में देश की रक्षा की, उन वीर सैनिकों को राष्ट्र नमन करता है। (Those brave soldiers who defended the country in harsh conditions, the nation bows to them.)",
+            "जिन्होंने देश की रक्षा की वे सैनिकों को नमन करता है।",
+            "जो देश की रक्षा की उसने नमन करता है।",
+            "जिसने रक्षा किया उनको नमन है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«जिन्होंने... रक्षा की» (बहुवचन संबंधवाचक) और «उन वीर सैनिकों को...» (बहुवचन नित्यसंबंधी कर्म) का अन्वय पूर्णतः शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u15-l2": {
@@ -6297,53 +6307,62 @@
     "subject": "hindi",
     "unit": 15,
     "lessonNumber": 2,
-    "title": "संबंधवाचक-नित्यसंबंधी वाक्य: जो...वह (Correlatives) (Part 2)",
+    "title": "स्थान और दिशा के संबंधवाचक युग्म: जहाँ...वहाँ एवं जिधर...उधर (Locative & Directional Correlatives)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.2) with authentic linguistic precision.",
+    "objective": "स्थानवाचक (जहाँ...वहाँ / जहाँ कहीं भी...वहाँ) और दिशावाचक (जिधर...उधर) संबंधवाचक युग्मों के शुद्ध वाक्य-विन्यास में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "स्थान और दिशा को सूचित करने वाले संबंधवाचक-नित्यसंबंधी युग्म:\n\n1. **स्थानवाचक युग्म (Locative: जहाँ...वहाँ — 'Where...there')**:\n   - *जहाँ स्वच्छता होती है, वहाँ स्वास्थ्य रहता है* (Where there is cleanliness, there health abides);\n   - *जहाँ कहीं भी (Wherever)*: *जहाँ कहीं भी तुम जाओगे, वहाँ तुम्हें अपनापन मिलेगा*;\n   - *जहाँ तक (As far as)*: *जहाँ तक मुझे ज्ञात है, वह आज नहीं आएगा*।\n\n2. **दिशावाचक युग्म (Directional: जिधर...उधर — 'In whichever direction...in that direction')**:\n   - *जिधर देखो, उधर हरियाली ही हरियाली है* (Whichever way you look, there is only greenery);\n   - *जिधर हवा चलती है, उधर ही पत्ते उड़ते हैं*।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 15.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 15."
+          "target": "जहाँ चारों ओर शांत वातावरण और प्राकृतिक हरियाली होती है, वहाँ मानव का मन स्वतः ही प्रफुल्लित, तनावमुक्त और एकाग्र हो जाता है।",
+          "reading": "jahaan chaaron aur shaant vaataavaran aur praakritik hariyaali hoti hai, vahaan maanav ka man svatah hi praphullit, tanaavmukt aur ekaagr ho jaata hai. [dʒəɦaː̃ tʃaːrõː ɔːr ʃaːn̪t̪ ʋaːt̪aːʋərəɳ ɔːr praːkrɪt̪ɪk ɦərɪjaːliː hoːt̪iː hɛː ʋəɦaː̃ maːnəʋ kaː mən sʋət̪əɦ ɦiː prəpʰʊlːɪt̪ t̪ənaːʋmʊkt̪ ɔːr eːkaːɡr hoː dʒaːt̪aː hɛː] (juh-HAHN CHAH-rohn owr SHAHNT vah-tah-vuh-RUHN owr prah-KREE-teek huh-ree-YAH-lee hoh-TEE hy, vuh-HAHN MAH-nuhv kah muhn SVAH-tuhk hee pruh-PHOOL-leet, tuh-nahv-MOOKT owr ay-KAHG-ruh hoh JAH-tah hy)",
+          "translation": "Where there is a peaceful environment and natural greenery all around, there the human mind automatically becomes cheerful, stress-free, and concentrated."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 15-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "जिधर उस प्रतापी और वीर राजा की विशाल सेना आगे बढ़ती थी, उधर ही शत्रु भयभीत होकर अपने हथियार छोड़कर पीछे हट जाते थे।",
+          "reading": "jidhar us prataapi aur veer raaja ki vishaal sena aage badhti thi, udhar hi shatru bhaybheet hokar apne hathiyaar chhodkar peechhe hat jaate the. [dʒɪd̪ʱər ʊs prət̪aːpiː ɔːr ʋiːr raːdʒaː kiː ʋɪʃaːl seːnaː aːɡeː bəɽʱt̪iː t̪ʰiː ʊd̪ʱər ɦiː ʃət̪ru bʱəjbʱiːt̪ hoːkər əpneː ɦət̪ʰɪjaːr tʃʰoːɽkər piːtʃʰeː ɦəʈ dʒaːt̪eː t̪ʰeː] (jee-DHUHR oos pruh-tah-PEE owr VEER RAH-jah kee vee-SHAHL SAY-nah AH-gay BUH-dh-tee thee, oo-DHUHR hee SHUH-troo bhuy-BHEET hoh-kuhr uhp-NAY huhth-YAH-ruh CHHOHD-kuhr PEE-chhay huht JAH-tay thay)",
+          "translation": "In whichever direction the vast army of that glorious and brave king advanced, in that very direction the terrified enemies retreated leaving behind their weapons."
+        },
+        {
+          "target": "जहाँ कहीं भी महान विद्वानों, वैज्ञानिकों और कलाकारों का यथोचित सत्कार होता है, वहाँ ज्ञान, विज्ञान और कला का अभूतपूर्व विकास होता है।",
+          "reading": "jahaan kaheen bhi mahaan vidvaanon, vaigyaanikon aur kalaakaaron ka yathochit satkaar hota hai, vahaan gyaan, vigyaan aur kala ka abhootpoorva vikaas hota hai. [dʒəɦaː̃ kəɦĩː bʱiː məɦaːn ʋɪd̪ʋaːnõː ʋɛːɡjaːnɪkõː ɔːr kəlaːkaːrõː kaː jət̪ʰoːtʃɪt̪ sət̪kaːr hoːt̪aː hɛː ʋəɦaː̃ ɡjaːn ʋɪɡjaːn ɔːr kəlaː kaː əbʱuːt̪puːrʋə ʋɪkaːs hoːt̪aː hɛː] (juh-HAHN kuh-HEEN bhee muh-HAHN veed-VAH-nohn, vyg-YAH-nee-kohn owr kuh-lah-KAH-rohn kah yuh-thoh-CHEET suht-KAHR hoh-TAH hy, vuh-HAHN GYAHN, veeg-YAHN owr KUH-lah kah uh-bhoot-POOR-vuh vee-KAHS hoh-TAH hy)",
+          "translation": "Wherever great scholars, scientists, and artists receive due honor, there unprecedented development of knowledge, science, and art takes place."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "स्थान = जहाँ...वहाँ (Where...there); दिशा = जिधर...उधर (Whither...thither)!"
+      ],
+      "culturalNotes": [
+        "'यत्र नार्यस्तु पूज्यन्ते रमन्ते तत्र देवताः' (जहाँ नारियों की पूजा होती है, वहाँ देवता निवास करते हैं) जैसी सूक्तियाँ भारतीय चिंतन में 'जहाँ...वहाँ' संरचना की शास्त्रीय नींव हैं।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"सूरज\":",
+          "prompt": "स्थानवाचक वाक्य «___ फूल खिलते हैं, वहाँ भौंरे मँडराते हैं» में सही संबंधवाचक शब्द क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 15.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बारिश» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («हवा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बादल» का अनुचित स्थान)"
+            "जहाँ (Jahaan - Where [locative relative])",
+            "जिधर (Directional error)",
+            "जैसा (Manner error)",
+            "जब (Time error)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "स्थान का बोध कराने के लिए नित्यसंबंधी 'वहाँ' के साथ संबंधवाचक «जहाँ» आता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"सूरज\":",
+          "prompt": "दिशावाचक वाक्य «जिधर रास्ता जाता है, ___ चलो» में सही नित्यसंबंधी शब्द भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 15.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («हवा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बादल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बारिश» का अशुद्ध रूप)"
+            "उधर (Udhar - In that direction [directional correlative])",
+            "वहाँ (Static locative error)",
+            "तब (Time error)",
+            "वैसा (Manner error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'जिधर' (in which direction) के साथ नित्यसंबंधी दिशावाचक «उधर» आता है।"
         }
       ]
     },
@@ -6351,17 +6370,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"सूरज\": Which sentence is completely correct?",
+          "prompt": "स्थान और दिशा के संबंधवाचक युग्मों का शुद्ध प्रयोग वाला वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 15.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बादल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बारिश» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («हवा» से संबंधित)"
+            "जहाँ सत्य और अहिंसा का वास होता है, वहाँ शांति स्वतः स्थापित होती है। (Where truth and non-violence reside, there peace is established automatically.)",
+            "जहाँ सत्य होता है उधर शांति होती है।",
+            "जिधर स्वच्छता है वहाँ रोग नहीं होता।",
+            "जहाँ तक चलो त्यों ही शांति मिलेगी।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«जहाँ...वहाँ» का स्थानवाचक युग्म पूर्णतः संगत और त्रुटिहीन है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u15-l3": {
@@ -6369,53 +6389,62 @@
     "subject": "hindi",
     "unit": 15,
     "lessonNumber": 3,
-    "title": "संबंधवाचक-नित्यसंबंधी वाक्य: जो...वह (Correlatives) (Part 3)",
+    "title": "रीति और परिमाण के संबंधवाचक युग्म: जैसा...वैसा एवं जितना...उतना (Manner & Quantity Correlatives)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.3) with authentic linguistic precision.",
+    "objective": "रीतिवाचक (जैसा...वैसा — As...so) और परिमाणवाचक (जितना...उतना — As much...that much) युग्मों में लिंग-वचन के अनुसार विशेषणीय रूपांतरण (Adjectival Inflection) के नियमों को आत्मसात करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "रीति (Manner) और परिमाण (Quantity) के संबंधवाचक युग्म विशेषण के समान लिंग और वचन के अनुसार बदलते हैं:\n\n1. **रीतिवाचक युग्म (Manner: जैसा...वैसा — 'As...so / Such as...that sort')**:\n   - पुं. एकवचन: **जैसा...वैसा** (*जैसा करोगे, वैसा भरोगे*);\n   - स्त्री. एकवचन/बहुवचन: **जैसी...वैसी** (*जैसी संगति, वैसी मति* / *जैसी करनी, वैसी भरनी*);\n   - पुं. बहुवचन: **जैसे...वैसे** (*जैसे कर्म, वैसे फल*)।\n\n2. **परिमाणवाचक युग्म (Quantity: जितना...उतना — 'As much...that much / The more...the more')**:\n   - पुं. एकवचन: **जितना...उतना** (*जितना गुड़ डालोगे, उतना मीठा होगा*);\n   - स्त्री. एकवचन/बहुवचन: **जितनी...उतनी** (*जितनी मेहनत, उतनी सफलता* / *जितनी चादर, उतने पैर*);\n   - पुं. बहुवचन: **जितने...उतने** (*जितने लोग, उतने विचार*)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 15.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 15."
+          "target": "आप अपने जीवन में जैसा सकारात्मक, निष्कपट और उदार दृष्टिकोण रखेंगे, आपके साथ समाज का व्यवहार भी वैसा ही सौहार्दपूर्ण और आदरणीय होगा।",
+          "reading": "aap apne jeevan mein jaisa sakaaraatmak, nishkapat aur udaar drishtikon rakhenge, aapke saath samaaj ka vyavahaar bhi vaisa hi sauhaardapoorna aur aadaraNeey hoga. [aːp əpneː dʒiːʋən mẽː dʒɛːsaː səkaːraːt̪mək nɪʂkəpəʈ ɔːr ʊd̪aːr drɪʂʈɪkoːɳ rəkʰẽːɡeː aːpkeː saːt̪ʰ səmaːdʒ kaː ʋjəʋəɦaːr bʱiː ʋɛːsaː ɦiː sɔːɦaːrd̪əpuːrɳə ɔːr aːd̪ərɳiːj hoːɡaː] (ahp uhp-NAY JEE-vuhn mayn JY-sah suh-kah-RAHT-muhk, neesh-KUH-puht owr oo-DAHR DREESH-tee-kohn ruh-KHAYN-gay, ahp-KAY sahth suh-MAHJ kah vyuh-vuh-HAHR bhee VY-sah hee sow-hahr-duh-POOR-nuh owr ah-duh-ruh-NEE-yuh hoh-GAH)",
+          "translation": "Such positive, sincere, and generous outlook as you maintain in your life, the conduct of society with you will also be equally harmonious and respectful."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 15-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "आप प्रतिदिन जितना अधिक एकाग्रचित्त होकर नई भाषा का अभ्यास करेंगे, उतना ही आपकी अभिव्यक्ति में स्वाभाविक प्रवाह और आत्मविश्वास बढ़ेगा।",
+          "reading": "aap pratidin jitna adhik ekaagrachitt hokar nayi bhaasha ka abhyaas karenge, utna hi aapki abhivyakti mein svaabhaavik pravaah aur aatmavishvaas badhega. [aːp prət̪ɪd̪ɪn dʒɪt̪naː əd̪ʱɪk eːkaːɡrətʃɪt̪ː hoːkər nəjiː bʱaːʂaː kaː əbʱjaːs kərẽːɡeː ʊt̪naː ɦiː aːpkiː əbʱɪʋjəkt̪ɪ mẽː sʋaːbʱaːʋɪk prəʋaːɦ ɔːr aːt̪məʋɪʃʋaːs bəɽʱeːɡaː] (ahp pruh-tee-DEEN JEET-nah uh-DHEEK ay-KAHG-ruh-cheet hoh-kuhr nuh-YEE BHAH-shah kah uhbh-YAH-suh kuhr-AYN-gay, OOT-nah hee ahp-KEE uh-bheev-YUHNK-tee mayn svah-bhah-VEEK pruh-VAH owr aht-muh-veesh-VAHS buh-DHAY-gah)",
+          "translation": "The more concentratedly you practice the new language each day, that much more will natural fluency and self-confidence grow in your expression."
+        },
+        {
+          "target": "जैसी उत्कृष्ट संगति और उत्तम संस्कार व्यक्ति को बाल्यावस्था में मिलते हैं, वैसा ही उसका भावी चरित्र, आचरण और संपूर्ण व्यक्तित्व निर्मित होता है।",
+          "reading": "jaisi utkrisht sangati aur uttam sanskaar vyakti ko baalyavastha mein milte hain, vaisa hi uska bhaavi charitr, aacharan aur sampoorna vyaktitva nirmit hota hai. [dʒɛːsiː ʊt̪krɪʂʈ sənɡət̪ɪ ɔːr ʊt̪ːəm sən̪skaːr ʋjəkt̪ɪ koː baːljəʋəst̪ʰaː mẽː mɪlt̪eː hɛ̃ː ʋɛːsaː ɦiː ʊskaː bʱaːʋiː tʃərɪt̪r aːtʃərəɳ ɔːr səmbuːrɳə ʋjəkt̪ɪt̪ʋə nɪrmɪt̪ hoːt̪aː hɛː] (JY-see oot-KREESH-th suhn-GUH-tee owr oot-TUHM suhn-SKAHR VYUHNK-tee koh bahl-yuh-VUHS-thah mayn MEEL-tay hy-n, VY-sah hee OOS-kah BHAH-vee chuh-REE-truh, ah-chuh-RUHN owr suhm-POOR-nuh vyuhk-TEET-vuh neer-MEET hoh-TAH hy)",
+          "translation": "Such excellent company and noble values as a person receives in childhood, such is his future character, conduct, and entire personality formed."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "रीति = जैसा...वैसा (दृष्टिकोण); परिमाण = जितना...उतना (अभ्यास); दोनों संज्ञा के लिंग से बदलते हैं!"
+      ],
+      "culturalNotes": [
+        "भारतीय लोकोक्तियों में 'जैसा अन्न, वैसा मन' (You are what you eat) और 'जैसी दृष्टि, वैसी सृष्टि' (As your perception is, so is your world) का दार्शनिक महत्व है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"बारिश\":",
+          "prompt": "स्त्रीलिंग संज्ञा 'करनी' (actions) के अनुसार सही संबंधवाचक-नित्यसंबंधी युग्म क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 15.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («हवा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बादल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («गर्मी» का अनुचित स्थान)"
+            "जैसी करनी, वैसी भरनी (Jaisi karni, vaisi bharni - As the deed, so the consequence [fem. sing. agreement])",
+            "जैसा करनी, वैसा भरनी (पुंलिंग दोष)",
+            "जैसे करनी, वैसे भरनी (बहुवचन दोष)",
+            "जितना करनी, उतना भरनी (परिमाण दोष)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "'करनी' और 'भरनी' दोनों स्त्रीलिंग होने से «जैसी...वैसी» का रूप शुद्ध है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"बारिश\":",
+          "prompt": "परिमाणवाचक वाक्य «___ अधिक गुड़ डालोगे, उतना ही मीठा होगा» में सही शब्द भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 15.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बादल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («गर्मी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («हवा» का अशुद्ध रूप)"
+            "जितना (Jitna - As much as [masc. sing. matching gud])",
+            "जितनी (Fem. mismatch)",
+            "जैसा (Manner mismatch)",
+            "जब (Time mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'गुड़' पुंलिंग एकवचन परिमाणवाचक संज्ञा के साथ «जितना» शुद्ध है।"
         }
       ]
     },
@@ -6423,17 +6452,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"बारिश\": Which sentence is completely correct?",
+          "prompt": "रीति और परिमाण के सही लिंग-वचन समन्वय वाला वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 15.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («गर्मी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («हवा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बादल» से संबंधित)"
+            "जितनी अधिक पुस्तकें तुम पढ़ोगे, उतना ही अधिक तुम्हारा ज्ञान समृद्ध होगा। (The more books you read, that much more your knowledge will be enriched.)",
+            "जितना पुस्तकें तुम पढ़ोगे वैसा ज्ञान होगा।",
+            "जैसे पुस्तकें पढ़ोगे उतनी ज्ञान होगा।",
+            "जितने पुस्तक पढ़ोगे उतना ही ज्ञान होगा।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«जितनी अधिक पुस्तकें...» (स्त्रीलिंग बहुवचन कर्म) और «उतना ही अधिक तुम्हारा ज्ञान...» (पुंलिंग एकवचन भाव) का समन्वय शत-प्रतिशत त्रुटिहीन है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u15-l4": {
@@ -6441,53 +6471,62 @@
     "subject": "hindi",
     "unit": 15,
     "lessonNumber": 4,
-    "title": "संबंधवाचक-नित्यसंबंधी वाक्य: जो...वह (Correlatives) (Part 4)",
+    "title": "समय के संबंधवाचक युग्म: जब...तब एवं ज्यों ही...त्यों ही (Temporal Correlatives: jab...tab, jyon hi...tyon hi)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.4) with authentic linguistic precision.",
+    "objective": "समयवाचक संबंधवाचक युग्मों (जब...तब — When...then) और तत्कालिक समकालिक युग्मों (ज्यों ही...त्यों ही — No sooner...than / As soon as) के व्यावहारिक प्रयोग में निपुण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "समय को व्यक्त करने वाले संबंधवाचक-नित्यसंबंधी युग्म:\n\n1. **सामान्य समयवाचक (जब...तब — 'When...then')**:\n   - *जब वर्षा होती है, तब मोर नाचते हैं* (When it rains, then peacocks dance);\n   - *जब कभी भी (Whenever)*: *जब कभी तुम आओगे, तब हम मिलेंगे*;\n   - *जब तक...तब तक (As long as / Until)*: *जब तक साँस, तब तक आस*।\n\n2. **तत्कालिक समकालिक युग्म (ज्यों ही...त्यों ही — 'As soon as / No sooner...than')**:\n   - शून्य समय-अंतराल में दो घटनाओं के एक साथ होने का बोध कराता है:\n     - *ज्यों ही घंटी बजी, त्यों ही बच्चे बाहर भागे*;\n     - *ज्यों ही सूर्योदय हुआ, त्यों ही अंधकार मिट गया*।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 15.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 15."
+          "target": "जब वसंत ऋतु में प्रकृति नवीन और सुगंधित पुष्पों से खिल उठती है, तब शांत वनों में रंग-बिरंगे पक्षियों का मधुर कलरव गूँजने लगता है।",
+          "reading": "jab vasant ritu mein prakriti naveen aur sugandhit pushpon se khil uthti hai, tab shaant vanon mein rang-birange pakshiyon ka madhur kalrav goonjne lagta hai. [dʒəb ʋəsən̪t̪ rɪt̪ʊ mẽː praːkrɪt̪ɪ nəʋiːn ɔːr sʊɡən̪d̪ʱɪt̪ pʊʂpõː seː kʰɪl ʊʈʰt̪iː hɛː t̪əb ʃaːn̪t̪ ʋənõː mẽː rəŋɡbɪrənɡeː pəkʃɪjõː kaː məd̪ʱʊr kəlrəʋ ɡuːndʒneː ləɡt̪aː hɛː] (juhb vuh-SUHNT REE-too mayn prah-KREE-tee nuh-VEEN owr soo-guhn-DHEET POOSH-pohn say kheel OOTH-tee hy, tuhb SHAHNT VUH-nohn mayn ruhng-bee-RUHN-gay puhk-shee-YOHN kah muh-DHOOR kuhl-RUHV GOONJ-nay LUHG-tah hy)",
+          "translation": "When in spring season nature blossoms with fresh and fragrant flowers, then in the peaceful forests the sweet chirping of colorful birds begins to echo."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 15-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "ज्यों ही मुख्य अतिथि ने विशाल सभागार में प्रवेश किया, त्यों ही सभी उपस्थित गणमान्य व्यक्तियों ने खड़े होकर तालियों से उनका भव्य स्वागत किया।",
+          "reading": "jyon hi mukhya atithi ne vishaal sabhaagaar mein pravesh kiya, tyon hi sabhi upasthit ganmaanya vyaktiyon ne khade hokar taaliyon se unka bhavya svaagat kiya. [dʒjõː ɦiː mʊkʰjə ət̪ɪt̪ʰɪ neː ʋɪʃaːl səbʱaːɡaːr mẽː prəʋeːʃ kɪjaː t̪jõː ɦiː səbʱiː ʊpəst̪ʰɪt̪ ɡəɳmaːnjə ʋjəkt̪ɪjõː neː kʰəɽeː hoːkər t̪aːlɪjõː seː ʊnkaː bʱəʋjə sʋaːɡət̪ kɪjaː] (jyohn hee MOOKH-yuh uh-TEE-thee nay vee-SHAHL suh-bhah-GAHR mayn pruh-VAYSH kee-YAH, tyohn hee SUH-bhee oo-puhs-THEET guhn-MAHN-yuh vyuhk-tee-YOHN nay KHUH-day hoh-kuhr tah-lee-YOHN say OON-kah BHUHV-yuh svah-GAHT kee-YAH)",
+          "translation": "As soon as the chief guest entered the huge auditorium, immediately all present dignitaries stood up and welcomed him grandly with applause."
+        },
+        {
+          "target": "जब कभी भी मातृभूमि पर कोई गंभीर बाह्य संकट उपस्थित होता है, तब देश के सभी नागरिक अपने आपसी मतभेद भुलाकर पूरी तरह एकजुट हो जाते हैं।",
+          "reading": "jab kabhi bhi maatribhoomi par koi gambheer baahya sankat upasthit hota hai, tab desh ke sabhi naagrik apne aapsi matbhed bhulaakar poori tarah ekjut ho jaate hain. [dʒəb kəbʱiː bʱiː maːt̪rɪbʱuːmiː pər koːiː ɡəmbiːr baːɦjə səŋkəʈ ʊpəst̪ʰɪt̪ hoːt̪aː hɛː t̪əb d̪eːʃ keː səbʱiː naːɡrɪk əpneː aːpsiː mət̪bʱeːd̪ bʱʊlaːkər puːriː t̪ərəɦ eːkdʒʊt̪ hoː dʒaːt̪eː hɛ̃ː] (juhb kuh-BHEE bhee mah-tree-BHOO-mee puhr koh-EE guhm-BHEER BAHH-yuh SUHN-kuht oo-puhs-THEET hoh-TAH hy, tuhb daysh kay SUH-bhee NAHG-reek uhp-NAY ahp-SEE muht-BHAYD bhoo-lah-KUHR POO-ree TUH-ruh ayk-JOOT hoh JAH-tay hy-n)",
+          "translation": "Whenever any serious external crisis confronts the motherland, then all citizens of the country forget their mutual differences and become completely united."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "सामान्य समय = जब...तब (When...then); तत्कालिक = ज्यों ही...त्यों ही (As soon as)!"
+      ],
+      "culturalNotes": [
+        "'जब तक सूरज चाँद रहेगा' जैसे कालिक संकल्प भारतीय राष्ट्रगीतों और जनसंवेदना में अमरता और निष्ठा के प्रतीक हैं।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"हवा\":",
+          "prompt": "तत्कालिक समय (As soon as the bell rang...) के लिए सही संबंधवाचक युग्म कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 15.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बादल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («गर्मी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सर्दी» का अनुचित स्थान)"
+            "ज्यों ही घंटी बजी, त्यों ही छात्र आए (Jyon hi ghanti baji, tyon hi chhaatr aaye - As soon as bell rang, students arrived)",
+            "जब घंटी बजी वैसा छात्र आए (असंगत युग्म)",
+            "जहाँ घंटी बजी वहाँ छात्र आए (स्थान दोष)",
+            "जितनी घंटी बजी उतना छात्र आए (परिमाण दोष)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "तत्कालिकता के लिए «ज्यों ही...त्यों ही» का समकालिक युग्म आदर्श है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"हवा\":",
+          "prompt": "समयवाचक वाक्य «जब सूर्य उदय होता है, ___ कमल खिलते हैं» में सही नित्यसंबंधी शब्द भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 15.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («गर्मी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सर्दी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बादल» का अशुद्ध रूप)"
+            "तब (Tab - Then [temporal correlative])",
+            "वहाँ (Place error)",
+            "उधर (Direction error)",
+            "वैसा (Manner error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'जब' (when) के साथ कालवाचक नित्यसंबंधी «तब» आता है।"
         }
       ]
     },
@@ -6495,17 +6534,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"हवा\": Which sentence is completely correct?",
+          "prompt": "कालिक संबंधवाचक युग्म (जब...तब) का शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 15.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सर्दी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बादल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («गर्मी» से संबंधित)"
+            "जब तक व्यक्ति स्वयं प्रयास नहीं करता, तब तक उसे सफलता नहीं मिल सकती। (As long as a person does not make effort himself, until then he cannot get success.)",
+            "जब तक व्यक्ति प्रयास करता है जहाँ तक सफलता मिलती है।",
+            "ज्यों ही प्रयास करता है वैसा फल मिलता है।",
+            "जब व्यक्ति प्रयास किया था त्यों ही सफल हुआ था।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«जब तक...तब तक» (सीमा/अवधि बोधक) का प्रयोग व्याकरणिक दृष्टि से सर्वथा शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u15-l5": {
@@ -6513,53 +6553,62 @@
     "subject": "hindi",
     "unit": 15,
     "lessonNumber": 5,
-    "title": "संबंधवाचक-नित्यसंबंधी वाक्य: जो...वह (Correlatives) (Part 5)",
+    "title": "संबंधवाचक-नित्यसंबंधी संरचनाओं का समग्र समेकन व वाक्य रूपांतरण (Synthesis of Correlative Paradigms)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.5) with authentic linguistic precision.",
+    "objective": "हिंदी के सभी संबंधवाचक युग्मों (संज्ञा, स्थान, दिशा, रीति, परिमाण, समय) का संश्लिष्ट अनुच्छेदों में समन्वय और सरल वाक्यों से मिश्र वाक्यों में रूपांतरण की दक्षता सिद्ध करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "संबंधवाचक-नित्यसंबंधी संरचनाओं का समग्र वर्गीकरण तालिका:\n\n1. **समग्र संबंधवाचक आव्यूह (Correlative Matrix)**:\n   - **संज्ञा/सर्वनाम**: *जो...वह* (जिसने...उसने, जिसे...उसे, जिसका...उसका);\n   - **स्थान**: *जहाँ...वहाँ* (जहाँ कहीं भी...वहाँ);\n   - **दिशा**: *जिधर...उधर*;\n   - **रीति**: *जैसा...वैसा* (जैसी...वैसी, जैसे...वैसे);\n   - **परिमाण**: *जितना...उतना* (जितनी...उतनी, जितने...उतने);\n   - **समय**: *जब...तब* / *ज्यों ही...त्यों ही* / *जब तक...तब तक*।\n\n2. **वाक्य रूपांतरण नियम (Sentence Transformation)**:\n   - सरल वाक्य: *परिश्रमी व्यक्ति सफल होता है।*\n   - मिश्र वाक्य (जो...वह): *जो व्यक्ति परिश्रमी होता है, वह सफल होता है।*\n   - सरल वाक्य: *सूर्योदय होने पर पक्षी चहचहाने लगे।*\n   - मिश्र वाक्य (जब...तब): *जब सूर्योदय हुआ, तब पक्षी चहचहाने लगे।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 15.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 15."
+          "target": "जो राष्ट्र ज्ञान और विज्ञान के क्षेत्र में अग्रणी होता है और जहाँ के नागरिक पूर्णतः अनुशासित होते हैं, वही विश्व में सर्वोपरि सम्मान और गौरव पाता है।",
+          "reading": "jo raashtr gyaan aur vigyaan ke kshetr mein agrani hota hai aur jahaan ke naagrik poornatah anushaasit hote hain, vahi vishva mein sarvopari sammaan aur gaurav paata hai. [dʒoː raːʂʈr ɡjaːn ɔːr ʋɪɡjaːn keː kʃeːt̪r mẽː əɡrəɳiː hoːt̪aː hɛː ɔːr dʒəɦaː̃ keː naːɡrɪk puːrɳət̪əɦ ənʊʃaːsɪt̪ hoːt̪eː hɛ̃ː ʋəɦiː ʋɪʃʋə mẽː sərʋoːpəriː səmːaːn ɔːr ɡɔːrəʋ paːt̪aː hɛː] (joh RAHSH-truh GYAHN owr veeg-YAHN kay KSHAY-truh mayn uhg-ruh-NEE hoh-TAH hy owr juh-HAHN kay NAHG-reek POOR-nuh-tuhk uh-noo-shah-SEET hoh-TAY hy-n, vuh-HEE VEESH-vuh mayn suhr-voh-PUH-ree suhm-MAHN owr GOW-ruhv PAH-tah hy)",
+          "translation": "The nation which is foremost in the field of knowledge and science and where citizens are completely disciplined, that very nation attains supreme honor and glory in the world."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 15-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "जैसा महान और त्यागमयी आदर्श हमारे पूर्वजों ने स्थापित किया था, वैसा ही निष्ठावान और कर्तव्यपरायण आचरण करना हमारा राष्ट्रीय और नैतिक कर्तव्य है।",
+          "reading": "jaisa mahaan aur tyaagamayi aadarsh hamaare poorvajon ne sthaapit kiya tha, vaisa hi nishthaavaan aur kartavyaparaayan aacharan karna hamaara raashtreey aur naitik kartavya hai. [dʒɛːsaː məɦaːn ɔːr t̪jaːɡməjiː aːd̪ərʃ ɦəmaːreː puːrʋədʒõː neː st̪ʰaːpɪt̪ kɪjaː t̪ʰaː ʋɛːsaː ɦiː nɪʂʈʰaːʋaːn ɔːr kərt̪əʋjəpəraːjəɳ aːtʃərəɳ kərnaː ɦəmaːraː raːʂʈriːj ɔːr nɛːt̪ɪk kərt̪əʋjə hɛː] (JY-sah muh-HAHN owr tyah-guh-muh-YEE ah-DUHRSH huh-MAH-ray poor-vuh-JOHN nay sthah-PEET kee-YAH thah, VY-sah hee neesh-thah-VAHN owr kuhr-tuhv-yuh-puh-RAH-yuhn ah-chuh-RUHN KUHR-nah huh-MAH-rah rahsh-TREE-yuh owr NY-teek kuhr-TUHV-yuh hy)",
+          "translation": "Such noble and selfless ideal as our ancestors had established, to practice such faithful and dutiful conduct is our national and moral obligation."
+        },
+        {
+          "target": "जितना अधिक हम अपनी समृद्ध मातृभाषा और सांस्कृतिक विरासत का हृदय से आदर करेंगे, उतना ही हमारा बौद्धिक और आत्मिक विकास सुदृढ़ होगा।",
+          "reading": "jitna adhik hum apni samriddh maatr-bhaasha aur saanskritik viraasat ka hriday se aadar karenge, utna hi hamaara bauddhikk aur aatmik vikaas sudridh hoga. [dʒɪt̪naː əd̪ʱɪk ɦəm əpniː səmbrɪd̪ːʱ maːt̪rbʱaːʂaː ɔːr saːnskrɪt̪ɪk ʋɪraːsət̪ kaː hrɪd̪əj seː aːd̪ər kərẽːɡeː ʊt̪naː ɦiː ɦəmaːraː bɔːd̪ːʱɪk ɔːr aːt̪mɪk ʋɪkaːs sʊdrɪɽʱ hoːɡaː] (JEET-nah uh-DHEEK huhm uhp-NEE suhm-REEDH-dh MAH-tree-BHAH-shah owr sahn-skree-TEEK vee-RAH-suht kah HREE-duhy say AH-duhr kuhr-AYN-gay, OOT-nah hee huh-MAH-rah bowdh-DHEEK owr AHT-meek vee-KAHS soo-DREEDH hoh-GAH)",
+          "translation": "The more we respect our rich mother tongue and cultural heritage from the heart, that much more solid will our intellectual and spiritual development become."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "संज्ञा (जो...वह), स्थान (जहाँ...वहाँ), रीति (जैसा...वैसा), परिमाण (जितना...उतना), समय (जब...तब)! संबंधवाचक षट्कोण!"
+      ],
+      "culturalNotes": [
+        "भारतीय संविधान और उच्च न्यायालयों के हिंदी प्रारूपों में विधिक सटीकता (Legal Precision) के लिए संबंधवाचक-नित्यसंबंधी वाक्यों का ही प्रमुखता से प्रयोग किया जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"बादल\":",
+          "prompt": "सरल वाक्य «सच्चे देशभक्त राष्ट्र के लिए बलिदान देते हैं» का मानक मिश्र वाक्य रूपांतरण क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 15.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («गर्मी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सर्दी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («वसंत» का अनुचित स्थान)"
+            "जो सच्चे देशभक्त होते हैं, वे राष्ट्र के लिए बलिदान देते हैं (Jo sachche deshbhakt hote hain, ve rashtr ke liye balidaan dete hain - Complex correlative transformation)",
+            "सच्चे देशभक्त जहाँ होते हैं वहाँ बलिदान देते हैं (स्थान दोष)",
+            "सच्चे देशभक्त जितना होते हैं उतना बलिदान देते हैं (परिमाण दोष)",
+            "सच्चे देशभक्त जब बलिदान देते हैं तब देशभक्त होते हैं (कालिक विपर्यय)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "सरल विशेषण 'सच्चे देशभक्त' को संबंधवाचक उपवाक्य «जो सच्चे देशभक्त होते हैं, वे...» में बदलना मानक रूपांतरण है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"बादल\":",
+          "prompt": "मिश्र वाक्य «जैसा बीज बोओगे, वैसा फल पाओगे» में रेखांकित युग्म किस कोटि का है?",
           "options": [
-            "हम इस पाठ में इकाई 15.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सर्दी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («वसंत» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («गर्मी» का अशुद्ध रूप)"
+            "रीतिवाचक संबंध-नित्यसंबंधी (Manner correlative: jaisa...vaisa)",
+            "स्थानवाचक (Locative mismatch)",
+            "कालवाचक (Temporal mismatch)",
+            "परिमाणवाचक (Quantity mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«जैसा...वैसा» कार्य के प्रकार या रीति (Manner) का बोध कराने वाला संबंधवाचक युग्म है।"
         }
       ]
     },
@@ -6567,17 +6616,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"बादल\": Which sentence is completely correct?",
+          "prompt": "संबंधवाचक और नित्यसंबंधी उपवाक्यों का समग्र रूप से शुद्ध व सुगठित वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 15.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («वसंत» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («गर्मी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सर्दी» से संबंधित)"
+            "जो व्यक्ति जितना अधिक शांत और धैर्यवान रहता है, वह जीवन की हर कठिन चुनौती को उतनी ही सुगमता से पार कर लेता है। (The person who remains that much more calm and patient, he overcomes every tough challenge of life with equal ease.)",
+            "जो व्यक्ति जहाँ शांत रहता है वह जब चुनौती पार करता है।",
+            "जैसा व्यक्ति शांत रहता है उतना ही चुनौती पार करता है।",
+            "जिसने शांत रहा उसने सुगमता से पार किया था।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«जो व्यक्ति जितना अधिक शांत... वह... उतनी ही सुगमता से...» में सर्वनाम (जो...वह) और परिमाण (जितना...उतनी) दोनों का संश्लेषण व्याकरणिक रूप से परिपूर्ण है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u16-l1": {

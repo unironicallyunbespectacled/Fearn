@@ -74,14 +74,14 @@
     "hi-u14-l2",
     "hi-u14-l3",
     "hi-u14-l4",
-    "hi-u14-l5"
-  ],
-  "stubOnly": [
+    "hi-u14-l5",
     "hi-u15-l1",
     "hi-u15-l2",
     "hi-u15-l3",
     "hi-u15-l4",
-    "hi-u15-l5",
+    "hi-u15-l5"
+  ],
+  "stubOnly": [
     "hi-u16-l1",
     "hi-u16-l2",
     "hi-u16-l3",
@@ -178,8 +178,8 @@
     "hi-u34-l4",
     "hi-u34-l5"
   ],
-  "lastCompletedLessonId": "hi-u14-l5",
-  "nextToAuthor": "hi-u15-l1"
+  "lastCompletedLessonId": "hi-u15-l5",
+  "nextToAuthor": "hi-u16-l1"
 };
   global.FEARN_LEDGERS = global.FEARN_LEDGERS || {};
   global.FEARN_LEDGERS['hindi'] = LEDGER;
