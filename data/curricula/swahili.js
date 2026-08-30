@@ -6635,53 +6635,62 @@
     "subject": "swahili",
     "unit": 16,
     "lessonNumber": 1,
-    "title": "Virejeshi vya O-Rejeshi (-ye-, -o-, -cho-) (Relative Markers) (Part 1)",
+    "title": "Dhana ya O-Rejeshi, Mzizi wa Amba-, na Ngeli ya 1/2 A-WA (-ye- / -o-)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.1) with authentic precision.",
+    "objective": "Kutambua na kutumia dhana ya O-Rejeshi (Relative Markers - who/which/that), mzizi tegemezi wa 'Amba-' (ambaye/ambao), na uwekaji wa kirejeshi ndani ya vitenzi vyenye viambishi vya nyakati (a-na-ye-soma / wa-na-o-soma).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Dhana ya O-Rejeshi katika Kiswahili (The Swahili Relative Pronoun System):\n\nO-Rejeshi ni mfumo wa kisarufi unaorejelea nomino katika kishazi tegemezi (Relative Clause: *who, whom, which, that*). Kuna njia kuu mbili za kutumia O-Rejeshi:\n\n1. **Mzizi wa 'Amba-' (Independent Relative Root)**:\n   - Mzizi wa *amba-* hupokea kirejeshi cha ngeli mwishoni kama neno linalojitegemea:\n     - Ngeli ya 1/2 (A-WA): **ambaye** (who - umoja) / **ambao** (who - wingi)\n     - *Mwalimu **ambaye** anafundisha vizuri anapendwa na wanafunzi.*\n     - *Wageni **ambao** wamewasili wanapumzika hotelini.*\n\n2. **Kirejeshi cha Ndani ya Kitenzi (Infixed Relative Marker)**:\n   - Kirejeshi huwekwa moja kwa moja ndani ya kitenzi baada ya kiambishi cha wakati (Muundo: **SP + Kiambishi cha Wakati + Kirejeshi + Mzizi wa Kitenzi**):\n     - **Wakati Uliopo (-na-)**: *a-na-**ye**-soma* (who is reading) / *wa-na-**o**-soma* (who are reading)\n     - **Wakati Uliopita (-li-)**: *a-li-**ye**-soma* (who read) / *wa-li-**o**-soma* (who read)\n     - **Wakati Ujao (-taka- badala ya -ta-)**: *a-taka-**ye**-soma* (who will read) / *wa-taka-**o**-soma* (who will read)\n     - **Wakati Uliopo Hali Isiyo na Wakati (General Present)**: *a-som-**aye*** (he who reads) / *wa-som-**ao*** (they who read).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 16."
+          "target": "Mwalimu ambaye anafundisha darasani anawajali wanafunzi wote kwa upendo.",
+          "reading": "Mwa-li-mu a-mba-ye a-na-fu-ndi-sha da-ra-sa-ni a-na-wa-ja-li wa-na-fu-nzi wo-te kwa u-pe-ndo. [mwɑˈlimu ɑˈmbɑjɛ ɑnɑfundiˈʃɑ dɑrɑˈsɑni ɑnɑwɑˈʤɑli wɑnɑˈfunzi ˈwɔtɛ kwɑ uˈpɛndɔ] (mwah-LEE-moo ahm-BAH-yay ah-nah-foon-DEE-shah dah-rah-SAH-nee ah-nah-wah-JAH-lee wah-nah-FOON-zee WOH-tay kwah oo-PAYN-doh)",
+          "translation": "The teacher who [ambaye] teaches in class cares for all students with love."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 16-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wageni waliofika jana jioni wamefurahia mapokezi mazuri na chakula kitamu cha pwani.",
+          "reading": "Wa-ge-ni wa-li-o-fi-ka ja-na ji-o-ni wa-me-fu-ra-hi-a ma-po-ke-zi ma-zu-ri na cha-ku-la ki-ta-mu cha pwa-ni. [wɑˈɡɛni wɑliɔˈfikɑ ˈʤɑnɑ ʤiˈɔni wɑmɛfurɑˈhiɑ mɑpɔˈkɛzi mɑˈzuri nɑ tʃɑˈkulɑ kiˈtɑmu tʃɑ ˈpwɑni] (wah-GAY-nee wah-lee-oh-FEE-kah JAH-nah jee-OH-nee wah-may-foo-rah-HEE-ah mah-poh-KAY-zee mah-ZOO-ree nah chah-KOO-lah kee-TAH-moo chah PWAH-nee)",
+          "translation": "The guests who arrived [waliofika: wa-li-o-fika] yesterday evening enjoyed the fine reception and delicious coastal food."
+        },
+        {
+          "target": "Mwanariadha atakayeshinda mbio ndefu atapokea zawadi ya heshima na medali ya dhahabu.",
+          "reading": "Mwa-na-ri-a-dha a-ta-ka-ye-shi-nda mbi-o nde-fu a-ta-po-ke-a za-wa-di ya he-shi-ma na me-da-li ya dha-ha-bu. [mwɑnɑriˈɑðɑ ɑtɑkɑjɛˈʃindɑ ˈmbiɔ ˈndɛfu ɑtɑpɔˈkɛɑ zɑˈwɑdi jɑ hɛˈʃimɑ nɑ mɛˈdɑli jɑ ðɑˈhɑbu] (mwah-nah-ree-AH-thah ah-tah-kah-yay-SHEEN-dah M-BEE-oh N-DAY-foo ah-tah-poh-KAY-ah zah-WAH-dee yah hay-SHEE-mah nah may-DAH-lee yah thah-HAH-boo)",
+          "translation": "The athlete who will win [atakayeshinda: a-taka-ye-shinda] the marathon will receive an honor award and gold medal."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "O-Rejeshi katika A-WA: Mtu ambaye / anaye- / aliye- / atakaye-; Watu ambao / wanao- / walio- / watakao-!"
+      ],
+      "culturalNotes": [
+        "Methali za Kiswahili hutumia sana O-Rejeshi: 'Mpanda ngazi hushuka' au 'Asiyesikia la mkuu huvunjika guu' kutoa mawaidha ya hekima."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Joto\":",
+          "prompt": "Sentensi ipi inatumia O-Rejeshi sahihi ya wakati ujao kwa nomino ya umoja wa Ngeli ya 1 (A-WA)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Baridi»",
-            "Mpangilio usio sahihi wa viambishi katika «Masika»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kipupwe»"
+            "Mwanafunzi atakayesoma kwa bidii atafaulu mtihani. (The student who will study hard will pass the exam - Correct future relative marker '-taka-ye-')",
+            "Mwanafunzi atayesoma kwa bidii (Kosa la kutotumia shina la wakati ujao '-taka-')",
+            "Mwanafunzi anayesoma kwa bidii atafaulu (Huu ni wakati uliopo badala ya ujao)",
+            "Mwanafunzi aliyesoma kwa bidii atafaulu (Huu ni wakati uliopita)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Katika wakati ujao, O-Rejeshi hubadilisha kiambishi cha wakati «-ta-» kuwa «-taka-» kisha kufuatiwa na «-ye-»: «atakayesoma»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Joto\":",
+          "prompt": "Unapounganisha kishazi tegemezi cha wingi (A-WA) kwa kutumia neno \"Amba-\", neno sahihi ni lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Masika»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kipupwe»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Baridi»"
+            "ambao (Who [plural] - Correct relative root for Class 2 WA)",
+            "ambaye (Who [singular] - Class 1)",
+            "ambacho (Which - Class 7 KI)",
+            "ambalo (Which - Class 5 JI)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino za wingi za watu (Ngeli ya 2 WA) huchukua kirejeshi «-o-» kwenye mzizi «amba-» kupata «ambao»."
         }
       ]
     },
@@ -6689,17 +6698,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Joto\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoonyesha matumizi sahihi ya O-Rejeshi katika nyakati tatu tofauti (uliopo, uliopita, na ujao) katika Ngeli ya A-WA:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kipupwe»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Baridi»",
-            "Mpangilio usio sahihi wa viambishi katika «Masika»"
+            "Mtu anayefanya kazi, watu waliofika jana, na kiongozi atakayechaguliwa kesho wote watahudhuria mkutano. (Present [-naye-], Past [-lio-], and Future [-takaye-].)",
+            "Mtu aliyefanya kazi jana atayechaguliwa kesho.",
+            "Watu ambao walifika jana watayechaguliwa.",
+            "Kiswahili hakiruhusu kuweka O-rejeshi ndani ya vitenzi vya wakati ujao."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Mtu anayefanya kazi, watu waliofika jana, na kiongozi atakayechaguliwa kesho wote watahudhuria mkutano.» inatekeleza mifumo yote mitatu ya nyakati kwa usahihi."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u16-l2": {
@@ -6707,53 +6717,62 @@
     "subject": "swahili",
     "unit": 16,
     "lessonNumber": 2,
-    "title": "Virejeshi vya O-Rejeshi (-ye-, -o-, -cho-) (Relative Markers) (Part 2)",
+    "title": "O-Rejeshi katika Ngeli Zisizo na Uhai: M-MI (-o-/-yo-), JI-MA (-lo-/-yo-), na KI-VI (-cho-/-vyo-)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.2) with authentic precision.",
+    "objective": "Kutambua na kutumia virejeshi vya O-Rejeshi katika Ngeli za vitu visivyo na uhai: Ngeli ya 3/4 M-MI (-o-/-yo-), Ngeli ya 5/6 JI-MA (-lo-/-yo-), na Ngeli ya 7/8 KI-VI (-cho-/-vyo-).",
     "presentation": {
-      "explanation": "",
+      "explanation": "O-Rejeshi katika Ngeli za 3/4, 5/6, na 7/8 (Inanimate Relative Markers):\n\n1. **Ngeli ya 3/4 (M-MI: Virejeshi -o- / -yo-)**:\n   - Umoja: **-o-** (*ambao* / *mti u-na-**o**-kua* = the tree which is growing / *mti u-li-**o**-anguka*)\n   - Wingi: **-yo-** (*ambayo* / *miti i-na-**yo**-kua* = trees which are growing / *miti i-li-**yo**-anguka*)\n\n2. **Ngeli ya 5/6 (JI-MA: Virejeshi -lo- / -yo-)**:\n   - Umoja: **-lo-** (*ambalo* / *gari li-na-**lo**-endeshwa* = the car which is being driven / *neno li-li-**lo**-semwa*)\n   - Wingi: **-yo-** (*ambayo* / *magari ya-na-**yo**-endeshwa* = cars which are being driven / *maneno ya-li-**yo**-semwa*)\n\n3. **Ngeli ya 7/8 (KI-VI: Virejeshi -cho- / -vyo-)**:\n   - Umoja: **-cho-** (*ambacho* / *kitabu ki-na-**cho**-somwa* = the book which is being read / *chumba ki-li-**cho**-funguliwa*)\n   - Wingi: **-vyo-** (*ambavyo* / *vitabu vi-na-**vyo**-somwa* = books which are being read / *vyumba vi-li-**vyo**-funguliwa*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 16."
+          "target": "Mti uliopandwa bustanini unazaa matunda mazuri, na miti iliyokauka imekatwa.",
+          "reading": "Mti u-li-o-pa-ndwa bu-sta-ni-ni u-na-za-a ma-tu-nda ma-zu-ri, na mi-ti i-li-yo-ka-u-ka i-me-ka-twa. [ˈmti uliɔˈpɑndwɑ busˈtɑnini unɑˈzɑɑ mɑˈtundɑ mɑˈzuri nɑ ˈmiti ilijɔkɑˈukɑ imɛˈkɑtwɑ] (M-TEE oo-lee-oh-PAHN-dwah boo-stah-NEE-nee oo-nah-ZAH-ah mah-TOON-dah mah-ZOO-ree, nah MEE-tee ee-lee-yoh-kah-OO-kah ee-may-KAH-twah)",
+          "translation": "The tree which was planted [uliopandwa: u-li-o-] in the garden bears good fruit, and the trees which withered [iliyokauka: i-li-yo-] were cut down."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 16-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Gari linalotumiwa na mkurugenzi ni jipya, na magari yaliyoharibika yanatengenezwa karakana.",
+          "reading": "Ga-ri li-na-lo-tu-mi-wa na mku-ru-ge-nzi ni ji-pya, na ma-ga-ri ya-li-yo-ha-ri-bi-ka ya-na-te-nge-ne-zwa ka-ra-ka-na. [ˈɡɑri linɑlɔtuˈmiwɑ nɑ mkurʊˈɡɛnzi ni ˈʤipjɑ nɑ mɑˈɡɑri jɑlijɔhɑriˈbikɑ jɑnɑtɛŋɡɛˈnɛzwɑ kɑrɑˈkɑnɑ] (GAH-ree lee-nah-loh-too-MEE-wah nah m-koo-roo-GAYN-zee nee JEE-pyah, nah mah-GAH-ree yah-lee-yoh-hah-ree-BEE-kah yah-nah-tayn-gay-NAY-zwah kah-rah-KAH-nah)",
+          "translation": "The car which is used [linalotumiwa: li-na-lo-] by the director is new, and the cars which broke down [yaliyoharibika: ya-li-yo-] are being repaired at the workshop."
+        },
+        {
+          "target": "Kitabu nilichokinunua jana kina maarifa mengi, na vitabu tulivyovisoma vilitusaidia sana.",
+          "reading": "Ki-ta-bu ni-li-cho-ki-nu-nua ja-na ki-na ma-a-ri-fa me-ngi, na vi-ta-bu tu-li-vyo-vi-so-ma vi-li-tu-sa-i-dia sa-na. [kiˈtɑbu nilitʃɔkinuˈnuɑ ˈʤɑnɑ ˈkinɑ mɑɑˈrifɑ ˈmɛŋɡi nɑ viˈtɑbu tulivjɔviˈsɔmɑ vilitusɑˈidiɑ ˈsɑnɑ] (kee-TAH-boo nee-lee-choh-kee-NOO-noo-ah JAH-nah KEE-nah mah-ah-REE-fah MAYN-gee, nah vee-TAH-boo too-lee-vyoh-vee-SOH-mah vee-lee-too-sah-EE-dee-ah SAH-nah)",
+          "translation": "The book which I bought [nilichokinunua: ni-li-cho-ki-] yesterday has much knowledge, and the books which we read [tulivyovisoma: tu-li-vyo-vi-] helped us greatly."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "O-Rejeshi ya Vitu: M-MI (-o-/-yo-); JI-MA (-lo-/-yo-); KI-VI (-cho-/-vyo-) -> kitabu nilichonunua / vitabu nilivyosoma!"
+      ],
+      "culturalNotes": [
+        "Katika ushairi wa Kiswahili, mishororo hutumia O-Rejeshi kusuka vina na mizani: 'Kitu kilicho kitamu ndicho chenye madhara kikitumiwa vibaya.'"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Baridi\":",
+          "prompt": "Sentensi ipi inatumia O-Rejeshi sahihi ya Ngeli ya KI-VI (7/8) kwa nomino \"Kitabu\" katika wakati uliopita?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Masika»",
-            "Mpangilio usio sahihi wa viambishi katika «Kipupwe»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kiwango cha joto»"
+            "Kitabu kilichoandikwa na mwandishi maarufu kimeshinda tuzo. (The book which was written by a famous author won an award - Correct Class 7 relative 'ki-li-cho-')",
+            "Kitabu kililoandikwa na mwandishi (Kosa la kutumia kirejeshi cha JI-MA '-lo-')",
+            "Kitabu kilioandikwa na mwandishi (Kosa la kutumia kirejeshi cha M-MI '-o-')",
+            "Kitabu kilizoandikwa na mwandishi (Kosa la kutumia kirejeshi cha N-N '-zo-')"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino ya umoja ya KI-VI «Kitabu» huchukua kirejeshi «-cho-» katika kitenzi: «kilichoandikwa»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Baridi\":",
+          "prompt": "Unapounganisha nomino ya wingi ya JI-MA \"Magari\" (cars) na kitenzi \"-safiri\" (travel) katika wakati uliopo kwa kutumia O-Rejeshi, neno sahihi huwa lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Kipupwe»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kiwango cha joto»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Masika»"
+            "yanayosafiri (Which are traveling - Correct Class 6 MA relative 'ya-na-yo-')",
+            "yanazosafiri (Kosa la kutumia kirejeshi cha N-N '-zo-')",
+            "yanavosafiri (Kosa la kutumia kirejeshi cha KI-VI '-vyo-')",
+            "yanalosafiri (Kosa la kutumia umoja '-lo-')"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Wingi wa JI-MA «Magari» huchukua kirejeshi «-yo-» katika kitenzi cha wakati uliopo: «yanayosafiri»."
         }
       ]
     },
@@ -6761,17 +6780,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Baridi\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha inayoonyesha virejeshi sahihi vya O-Rejeshi kwa umoja na wingi katika ngeli za M-MI, JI-MA, na KI-VI:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kiwango cha joto»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Masika»",
-            "Mpangilio usio sahihi wa viambishi katika «Kipupwe»"
+            "M-MI (-o- / -yo-); JI-MA (-lo- / -yo-); KI-VI (-cho- / -vyo-).",
+            "M-MI (-cho- / -vyo-); JI-MA (-yo- / -zo-); KI-VI (-lo- / -yo-).",
+            "M-MI (-ye- / -o-); JI-MA (-cho- / -vyo-); KI-VI (-lo- / -yo-).",
+            "Ngeli zote za vitu visivyo na uhai hutumia kirejeshi kimoja tu cha '-cho-'."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Virejeshi vya kulinganisha ni M-MI (-o-/-yo-), JI-MA (-lo-/-yo-), na KI-VI (-cho-/-vyo-)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u16-l3": {
@@ -6779,53 +6799,62 @@
     "subject": "swahili",
     "unit": 16,
     "lessonNumber": 3,
-    "title": "Virejeshi vya O-Rejeshi (-ye-, -o-, -cho-) (Relative Markers) (Part 3)",
+    "title": "O-Rejeshi katika Ngeli ya 9/10 (N-N: -yo-/-zo-) na Ngeli ya 11/14 (U: -o-/-zo-)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.3) with authentic precision.",
+    "objective": "Kutambua na kutumia virejeshi vya O-Rejeshi katika Ngeli ya 9/10 N-N (-yo-/-zo-) na Ngeli ya 11/14 U (-o-/-zo-) pamoja na kirejeshi cha watendwa na kanuni ya wanyama.",
     "presentation": {
-      "explanation": "",
+      "explanation": "O-Rejeshi katika Ngeli za N-N na U (Classes 9/10 and 11/14 Relatives):\n\n1. **Ngeli ya 9/10 (N-N: Virejeshi -yo- / -zo-)**:\n   - Umoja: **-yo-** (*ambayo* / *nyumba i-na-**yo**-jengwa* = the house which is being built / *barua i-li-**yo**-tumwa*)\n   - Wingi: **-zo-** (*ambazo* / *nyumba zi-na-**zo**-jengwa* = the houses which are being built / *barua zi-li-**zo**-tumwa*)\n   - Pamoja na Kirejeshi Mtendwa (OP): *Barua a-li-**yo**-**i**-andika* (The letter which he wrote it) / *Barua a-li-**zo**-**zi**-andika* (The letters which he wrote them).\n\n2. **Ngeli ya 11/14 (U: Virejeshi -o- / -zo-)**:\n   - Umoja: **-o-** (*ambao* / *ukuta u-na-**o**-jengwa* = the wall which is being built / *upendo u-na-**o**-dumu* = love which endures / *ufunguo u-li-**o**-potea*)\n   - Wingi (U-ZI): **-zo-** (*ambazo* / *kuta zi-na-**zo**-jengwa* = walls which are being built / *funguo zi-li-**zo**-potea*)\n\n3. **Kanuni ya Uhai kwa Wanyama (Animate Concord)**:\n   - Nomino za wanyama hata zikiwa katika umbo la N-N au U, **huchukua O-rejeshi ya A-WA (-ye- / -o-)**:\n     - *Simba a-na-**ye**-goma* (The lion who roars - Class 1 -ye-)\n     - *Simba wa-na-**o**-goma* (The lions who roar - Class 2 -o-).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 16."
+          "target": "Nyumba iliyojengwa bondeni ni imara, na nyumba zilizoezekwa kwa bati zinang'aa juani.",
+          "reading": "Nyu-mba i-li-yo-je-ngwa bo-nde-ni ni i-ma-ra, na nyu-mba zi-li-zo-e-ze-kwa kwa ba-ti zi-na-ng'a-a ju-a-ni. [ˈɲumbɑ ilijɔˈʤɛŋɡwɑ bɔndɛˈni ni iˈmɑrɑ nɑ ˈɲumbɑ zilizɔɛˈzɛkwɑ kwɑ ˈbɑti zinɑˈŋɑɑ ʤuˈɑni] (NYOOM-bah ee-lee-yoh-JAYN-gwah bohn-day-NEE nee ee-MAH-rah, nah NYOOM-bah zee-lee-zoh-ay-ZAY-kwah kwah BAH-tee zee-nah-NGAH-ah joo-ah-NEE)",
+          "translation": "The house which was built [iliyojengwa: i-li-yo-] in the valley is strong, and the houses which were roofed [zilizoezekwa: zi-li-zo-] with iron sheets shine in the sun."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 16-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Ufunguo uliopotea umepatikana, na funguo zilizotengenezwa jana ziko salama mezani.",
+          "reading": "U-fu-nguo u-li-o-po-te-a u-me-pa-ti-ka-na, na fu-nguo zi-li-zo-te-nge-ne-zwa ja-na zi-ko sa-la-ma me-za-ni. [ufuˈŋɡuɔ uliɔpɔˈtɛɑ umɛpɑtiˈkɑnɑ nɑ ˈfuŋɡuɔ zilizɔtɛŋɡɛˈnɛzwɑ ˈʤɑnɑ ˈzikɔ sɑˈlɑmɑ mɛzɑˈni] (oo-foon-GOO-oh oo-lee-oh-poh-TAY-ah oo-may-pah-tee-KAH-nah, nah FOON-goo-oh zee-lee-zoh-tayn-gay-NAY-zwah JAH-nah ZEE-koh sah-LAH-mah may-zah-NEE)",
+          "translation": "The key which was lost [uliopotea: u-li-o-] has been found, and the keys which were made [zilizotengenezwa: zi-li-zo-] yesterday are safe on the table."
+        },
+        {
+          "target": "Simba anayelala chini ya kivuli anawinda swala wanaokimbia mbugani.",
+          "reading": "Si-mba a-na-ye-la-la chi-ni ya ki-vu-li a-na-wi-nda swa-la wa-na-o-ki-mbi-a mbu-ga-ni. [ˈsimbɑ ɑnɑjɛˈlɑlɑ ˈtʃini jɑ kiˈvuli ɑnɑˈwindɑ ˈswɑlɑ wɑnɑɔkiˈmbiɑ mbuˈɡɑni] (SEEM-bah ah-nah-yay-LAH-lah CHEE-nee yah kee-VOO-lee ah-nah-WEEN-dah SWAH-lah wah-nah-oh-keem-BEE-ah m-boo-GAH-nee)",
+          "translation": "The lion who is sleeping [anayelala: animate -ye-] under the shade hunts antelopes who are running [wanaokimbia: animate -o-] in the savanna."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "O-Rejeshi: N-N = -yo- (umoja) / -zo- (wingi); U = -o- (umoja) / -zo- (wingi); Wanyama = A-WA (-ye- / -o-) kila mara!"
+      ],
+      "culturalNotes": [
+        "Hadithi za mapokeo ya Waswahili huanza na 'Hapo zamani za kale palikuwa na mnyama aliyekuwa...' zikitekeleza kanuni ya O-rejeshi ya uhai."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Masika\":",
+          "prompt": "Sentensi ipi inatumia O-Rejeshi sahihi ya wingi wa Ngeli ya 9/10 (N-N) kwa nomino \"Nguo\"?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kipupwe»",
-            "Mpangilio usio sahihi wa viambishi katika «Kiwango cha joto»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Daktari»"
+            "Nguo zilizotengenezwa kwa pamba safi zinapendeza. (The clothes which were made from pure cotton look appealing - Correct Class 10 relative 'zi-li-zo-')",
+            "Nguo ziliyotengenezwa kwa pamba (Kosa la kutumia umoja '-yo-')",
+            "Nguo vilivyotengenezwa kwa pamba (Kosa la kutumia KI-VI)",
+            "Nguo yaliyotengenezwa kwa pamba (Kosa la kutumia JI-MA)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Wingi wa Ngeli ya N-N «Nguo» huchukua kirejeshi «-zo-»: «zilizotengenezwa»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Masika\":",
+          "prompt": "Unapozungumzia wanyama kama \"Ndovu\" (elephants) wanaoogelea mtoni, O-Rejeshi sahihi ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Kiwango cha joto»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Daktari»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kipupwe»"
+            "wanaoogelea (Who are swimming - Correct animate A-WA plural relative 'wa-na-o-')",
+            "zinazoogelea (Kosa la kutumia upatanisho usio na uhai kwa wanyama)",
+            "yanayoogelea (Kosa la kutumia JI-MA)",
+            "vinavyoogelea (Kosa la kutumia KI-VI)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Wanyama wote hufuata O-Rejeshi ya viumbe hai (Ngeli ya 1/2 A-WA): «Ndovu wanaoogelea»."
         }
       ]
     },
@@ -6833,17 +6862,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Masika\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayochanganya O-Rejeshi ya N-N, U, na kanuni ya uhai kwa usahihi kamili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Daktari»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kipupwe»",
-            "Mpangilio usio sahihi wa viambishi katika «Kiwango cha joto»"
+            "Barua iliyotufikia ilieleza kuhusu ukuta uliobomoka, wakati mbwa waliopotea wamerudi nyumbani. (Letter which [iliyotufikia], wall which [uliobomoka], dogs who [waliopotea].)",
+            "Barua ilizotufikia ilieleza kuhusu ukuta ulizobomoka na mbwa zilizopotea.",
+            "Barua kilichotufikia kilihusu ukuta lililobomoka.",
+            "Wanyama katika Kiswahili hufuata O-Rejeshi ya N-N badala ya A-WA."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Barua iliyotufikia ilieleza kuhusu ukuta uliobomoka, wakati mbwa waliopotea wamerudi nyumbani.» inatekeleza mifumo yote mitatu kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u16-l4": {
@@ -6851,53 +6881,62 @@
     "subject": "swahili",
     "unit": 16,
     "lessonNumber": 4,
-    "title": "Virejeshi vya O-Rejeshi (-ye-, -o-, -cho-) (Relative Markers) (Part 4)",
+    "title": "O-Rejeshi katika Ngeli za Mahali (PA: -po-, KU: -ko-, MU: -mo-) na O-Rejeshi Tamati (End-Relative)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.4) with authentic precision.",
+    "objective": "Kutambua na kutumia O-Rejeshi katika ngeli za mahali (-po- mahali mahususi/wakati, -ko- mwelekeo, -mo- ndani) na mfumo wa O-Rejeshi Tamati (General Present Relative Suffix: asomaye / wasomao / uangukao).",
     "presentation": {
-      "explanation": "",
+      "explanation": "O-Rejeshi ya Mahali na O-Rejeshi Tamati (Locative & End-Relatives):\n\n1. **O-Rejeshi katika Ngeli za Mahali (PA-KU-MU)**:\n   - **Ngeli ya 16 (PA: -po-)**: Mahali mahususi au Wakati (*where / when*):\n     - *Mahali a-na-**po**-kaa* (The place where he lives)\n     - *A-li-**po**-fika nyumbani* (When he arrived at home - temporal relative)\n     - *ambapo* (where / whereas)\n   - **Ngeli ya 17 (KU: -ko-)**: Eneo pana au Mwelekeo (*whither / where generally*):\n     - *Kijiji a-na-**ko**-enda* (The village where he is going)\n     - *ambako* (where / to which place)\n   - **Ngeli ya 18 (MU: -mo-)**: Ndani ya kitu (*wherein / inside where*):\n     - *Chumba a-na-**mo**-lala* (The room in which he sleeps)\n     - *Sanduku a-li-**mo**-weka fedha* (The box inside which he put money)\n     - *ambamo* (wherein / inside which)\n\n2. **O-Rejeshi Tamati (General Present End-Relative)**:\n   - Katika wakati usio na kiambishi cha wakati (General Present / Habitual Truth), kirejeshi huwekwa mwishoni kabisa mwa kitenzi (Muundo: **SP + Shina la Kitenzi + Kirejeshi**):\n     - *mtu a-som-**aye*** (a person who reads / whoever reads)\n     - *watu wa-som-**ao*** (people who read)\n     - *mti u-anguk-a-**o*** (a tree that falls)\n     - *kitu ki-fa-**cho*** (a thing that dies / anything that dies)\n     - *chumba a-lal-**amo*** (the room in which he sleeps).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 16."
+          "target": "Mahali anapofanyia kazi ni pazuri, na chumba anamolala kina madirisha makubwa.",
+          "reading": "Ma-ha-li a-na-po-fa-nyi-a ka-zi ni pa-zu-ri, na chu-mba a-na-mo-la-la ki-na ma-di-ri-sha ma-kbu-wa. [mɑˈhɑli ɑnɑpɔfɑˈnjiɑ ˈkɑzi ni pɑˈzuri nɑ ˈtʃumbɑ ɑnɑmɔˈlɑlɑ ˈkinɑ mɑdiriˈʃɑ mɑˈkubwɑ] (mah-HAH-lee ah-nah-poh-fahn-YEE-ah KAH-zee nee pah-ZOO-ree, nah CHOO-m-bah ah-nah-moh-LAH-lah KEE-nah mah-dee-REE-shah mah-KOO-bwah)",
+          "translation": "The place where he works [anapofanyia: -po-] is pleasant, and the room wherein he sleeps [anamolala: -mo-] has big windows."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 16-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Alipofika mjini alitembelea kijiji anakoishi babu yake.",
+          "reading": "A-li-po-fi-ka mji-ni a-li-te-mbe-le-a ki-ji-ji a-na-ko-i-shi ba-bu ya-ke. [ɑlipɔˈfikɑ mʤiˈni ɑlitɛmbɛˈlɛɑ kiˈʤiʤi ɑnɑkɔˈiʃi ˈbɑbu ˈjɑkɛ] (ah-lee-poh-FEE-kah m-jee-NEE ah-lee-tay-m-bay-LAY-ah kee-JEE-jee ah-nah-koh-EE-shee BAH-boo YAH-kay)",
+          "translation": "When he arrived [alipofika: temporal -po-] in town, he visited the village where his grandfather lives [anakoishi: directional -ko-]."
+        },
+        {
+          "target": "Mti uangukao msituni hutoa kishindo kikuu, na asomaye vitabu hupata hekima.",
+          "reading": "Mti u-a-ngu-ka-o msi-tu-ni hu-to-a ki-shi-ndo ki-ku-u, na a-so-ma-ye vi-ta-bu hu-pa-ta he-ki-ma. [ˈmti uɑŋɡuˈkɑɔ msiˈtuni hutɔˈɑ kiˈʃindɔ kiˈkuː nɑ ɑsɔˈmɑjɛ viˈtɑbu hupɑˈtɑ hɛˈkimɑ] (M-TEE oo-ahn-goo-KAH-oh m-see-too-NEE hoo-TOH-ah kee-SHEEN-doh kee-KOO-oo, nah ah-soh-MAH-yay vee-TAH-boo hoo-PAH-tah hay-KEE-mah)",
+          "translation": "A tree which falls [uangukao: end-relative] in the forest makes a loud noise, and he who reads [asomaye: end-relative] books gains wisdom."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Mahali O-Rejeshi: -po- (mahali/wakati), -ko- (mwelekeo/popote), -mo- (ndani); O-Rejeshi Tamati: asomaye / wasomao / mti uangukao!"
+      ],
+      "culturalNotes": [
+        "Methali 'Asiyekuwepo na lake halipo' inajumuisha O-Rejeshi ya hali (-po-) kueleza umuhimu wa uwepo wa mtu katika maamuzi ya kijamii."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kipupwe\":",
+          "prompt": "Sentensi ipi inatumia O-Rejeshi ya mahali ndani (-mo-) kwa usahihi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kiwango cha joto»",
-            "Mpangilio usio sahihi wa viambishi katika «Daktari»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Dawa»"
+            "Chumba anamolala mgeni kina kitanda kizuri na hewa safi. (The room wherein the guest sleeps has a fine bed and clean air - Correct interior locative relative '-mo-')",
+            "Chumba anapolala mgeni (Hii inaashiria eneo mahususi badala ya ndani)",
+            "Chumba anakolala mgeni (Hii inaashiria mwelekeo)",
+            "Chumba anacholala mgeni (Kosa la kutumia upatanisho wa kitu badala ya mahali)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Ndani ya chumba (Ngeli ya 18) huchukua kirejeshi cha ndani «-mo-»: «anamolala»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kipupwe\":",
+          "prompt": "Kitenzi \"asomaye\" (he who reads) ni mfano wa muundo gani wa O-Rejeshi katika Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Daktari»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Dawa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kiwango cha joto»"
+            "O-Rejeshi Tamati (End-Relative / General Present Relative Suffix)",
+            "O-Rejeshi ya Wakati Uliopita",
+            "O-Rejeshi ya Wakati Ujao",
+            "Mzizi wa Amba-"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Asomaye» ni O-Rejeshi Tamati (End-Relative) ambapo kirejeshi «-ye» kimewekwa mwishoni mwa shina la kitenzi."
         }
       ]
     },
@@ -6905,17 +6944,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kipupwe\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoonyesha matumizi sahihi ya O-Rejeshi ya mahali (-po-, -ko-, -mo-) na O-Rejeshi tamati:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Dawa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kiwango cha joto»",
-            "Mpangilio usio sahihi wa viambishi katika «Daktari»"
+            "Alipofika kijijini anakoishi mjomba wake, aliingia chumbani anamolala, kwani mgeni afikaye hupokelewa kwa ukarimu. (When he arrived [-po-], where he lives [-ko-], wherein he sleeps [-mo-], and guest who arrives [afikaye].)",
+            "Alikofika kijijini anamolala mjomba aliingia chumbani anapofanya kazi.",
+            "Alipofika anayofika kijijini anakolala.",
+            "O-rejeshi ya mahali haiwezi kutumika kueleza wakati."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Alipofika kijijini anakoishi mjomba wake, aliingia chumbani anamolala, kwani mgeni afikaye hupokelewa kwa ukarimu.» inatekeleza nyanja zote za O-rejeshi ya mahali na tamati kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u16-l5": {
@@ -6923,53 +6963,62 @@
     "subject": "swahili",
     "unit": 16,
     "lessonNumber": 5,
-    "title": "Virejeshi vya O-Rejeshi (-ye-, -o-, -cho-) (Relative Markers) (Part 5)",
+    "title": "Muhtasari wa Virejeshi vya O-Rejeshi na Ukanushaji kwa -si- (Grand Synthesis of Relative Markers)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 16: O-Rejeshi katika ngeli zote (A-WA, M-MI, JI-MA, KI-VI, N-N, U, PA-KU-MU), mzizi wa Amba-, O-Rejeshi tamati, na ukanushaji wa vishazi tegemezi kwa kiambishi '-si-'.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa O-Rejeshi na Ukanushaji kwa -si- (Grand Synthesis of Relative System):\n\n1. **Ukanushaji wa O-Rejeshi (Negative Relatives with -si-)**:\n   - Tofauti na vitenzi vikuu vinavyotumia *si-, hu-, ha-*, **vitenzi vyenye O-rejeshi hukanushwa kwa kiambishi cha ndani cha -si-** (Muundo: **SP + -si- + Kirejeshi + Mzizi wa Kitenzi**):\n     - *a-na-ye-soma* -> *a-**si-ye**-soma* (he who does not read / who did not read / who will not read)\n     - *wa-na-o-jua* -> *wa-**si-o**-jua* (those who do not know)\n     - *ki-na-cho-faa* -> *ki-**si-cho**-faa* (that which is not useful)\n     - *zi-na-zo-onekana* -> *zi-**si-zo**-onekana* (those which are not visible)\n     - *pa-na-po-faa* -> *pa-**si-po**-faa* (where it is not appropriate / inappropriate place)\n   - Ukanushaji wa Amba-: *ambaye hasomi, ambao hawasomi, ambacho hakifai*.\n\n2. **Jedwali Kuu la O-Rejeshi katika Ngeli Zote (Master Relative Concord Matrix)**:\n   - **A-WA (1/2)**: *-ye- / -o-* (*ambaye / ambao*)\n   - **M-MI (3/4)**: *-o- / -yo-* (*ambao / ambayo*)\n   - **JI-MA (5/6)**: *-lo- / -yo-* (*ambalo / ambayo*)\n   - **KI-VI (7/8)**: *-cho- / -vyo-* (*ambacho / ambavyo*)\n   - **N-N (9/10)**: *-yo- / -zo-* (*ambayo / ambazo*)\n   - **U (11/14)**: *-o- / -zo-* (*ambao / ambazo*)\n   - **PA-KU-MU (16/17/18)**: *-po- / -ko- / -mo-* (*ambapo / ambako / ambamo*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 16."
+          "target": "Wanafunzi wanaosoma kwa bidii watafaulu, lakini wasiohudhuria masomo watapata ugumu mkubwa.",
+          "reading": "Wa-na-fu-nzi wa-na-o-so-ma kwa bi-di-i wa-ta-fa-u-lu, la-ki-ni wa-si-o-hu-dhu-ria ma-so-mo wa-ta-pa-ta u-gu-mu mku-bwa. [wɑnɑˈfunzi wɑnɑɔˈsɔmɑ kwɑ biˈdiː wɑtɑfɑˈulu lɑˈkini wɑsiɔhudʱuˈriɑ mɑˈsɔmɔ wɑtɑˈpɑtɑ uˈɡumu mˈkubwɑ] (wah-nah-FOON-zee wah-nah-oh-SOH-mah kwah bee-DEE-ee wah-tah-fah-OO-loo, lah-KEE-nee wah-see-oh-hoo-thoo-REE-ah mah-SOH-moh wah-tah-PAH-tah oo-GOO-moo m-KOO-bwah)",
+          "translation": "Students who study [wanaosoma] hard will pass, but those who do not attend [wasiohudhuria: wa-si-o-] classes will encounter great difficulty."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 16-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kitabu nilichokinunua kinavutia sana, lakini kile kisichofaa kimerudishwa dukani leo.",
+          "reading": "Ki-ta-bu ni-li-cho-ki-nu-nua ki-na-vu-tia sa-na, la-ki-ni ki-le ki-si-cho-fa-a ki-me-ru-di-shwa du-ka-ni le-o. [kiˈtɑbu nilitʃɔkinuˈnuɑ kinɑvuˈtiɑ ˈsɑnɑ lɑˈkini ˈkilɛ kisitʃɔˈfɑɑ kimɛrudiˈʃwɑ dukɑˈni ˈlɛɔ] (kee-TAH-boo nee-lee-choh-kee-NOO-noo-ah kee-nah-voo-TEE-ah SAH-nah, lah-KEE-nee KEE-lay kee-see-choh-FAH-ah kee-may-roo-DEE-shwah doo-kah-NEE LAY-oh)",
+          "translation": "The book which I bought [nilichokinunua] is very interesting, but the one which is not suitable [kisichofaa: ki-si-cho-] was returned to the shop today."
+        },
+        {
+          "target": "Umahiri wa virejeshi vya O-Rejeshi na mizizi ya Amba- ni kilele cha sintaksia changamano ya Kiswahili kinachomwezesha msemaji kuunda sentensi zilizosheheni vishazi tegemezi kwa ufasaha mkubwa.",
+          "reading": "U-ma-hi-ri wa vi-re-je-shi vya O-Re-je-shi na mi-zi-zi ya A-mba- ni ki-le-le cha si-nta-ksi-a cha-nga-ma-no ya Ki-swa-hi-li ki-na-cho-mwe-ze-sha mse-ma-ji ku-u-nda se-nte-nsi zi-li-zo-she-he-ni vi-sha-zi te-ge-me-zi kwa u-fa-sa-ha mku-bwa. [umɑˈhiri wɑ virɛˈʤɛʃi vjɑ ɔrɛˈʤɛʃi nɑ miˈzizi jɑ ɑˈmbɑ ni kiˈlɛlɛ tʃɑ sintɑkˈsiɑ tʃɑŋɡɑˈmɑnɔ jɑ kiswɑˈhili kinɑtʃɔmwɛˈzɛʃɑ msɛˈmɑʤi kuˈundɑ sɛnˈtɛnsi zilizɔʃɛˈhɛni viˈʃɑzi tɛɡɛˈmɛzi kwɑ ufɑˈsɑhɑ mˈkubwɑ] (oo-mah-HEE-ree wah vee-ray-JAY-shee vyah OH-ray-JAY-shee nah mee-ZEE-zee yah ahm-BAH- nee kee-LAY-lay chah seen-tahk-SEE-ah chahn-gah-MAH-noh yah kee-swah-HEE-lee kee-nah-choh-mway-ZAY-shah m-say-MAH-jee koo-OON-dah sayn-TAYN-see zee-lee-zoh-shay-HAY-nee vee-SHAH-zee tay-gay-MAY-zee kwah oo-fah-SAH-hah m-KOO-bwah)",
+          "translation": "Mastery of O-relative infixes and Amba- roots [relatives grand synthesis: virejeshi vya O-rejeshi] is the summit of complex Swahili syntax, empowering the speaker to construct sentences rich with relative clauses with supreme fluency."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ukanushaji wa O-Rejeshi: Tumia -si- (asiyefanya, wasiojua, kisichofaa, pasipofaa); Amba- hutumia ha- (ambaye hafanyi, ambacho hakifai)!"
+      ],
+      "culturalNotes": [
+        "Fasihi simulizi ya Kiswahili inasifika kwa matumizi ya vishazi vingi vya O-rejeshi kuelezea sifa za mashujaa kama Fumo Liyongo kwa kina na mapambo ya lugha."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kiwango cha joto\":",
+          "prompt": "Sentensi ipi inakanusha kishazi cha O-Rejeshi kwa usahihi kwa kutumia kiambishi cha ndani cha \"-si-\"?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Daktari»",
-            "Mpangilio usio sahihi wa viambishi katika «Dawa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Hospitali»"
+            "Watu wasiojua kusoma wanapaswa kusaidiwa kwa upendo. (People who do not know how to read should be helped with love - Correct negative relative '-si-o-')",
+            "Watu hawajuao kusoma wanapaswa kusaidiwa (Kosa la kutumia 'ha-' ndani ya kirejeshi)",
+            "Watu wasiojua kusoma hawapaswi (Sentensi hii ina muundo mzuri lakini chaguo la kwanza ndilo lengwa)",
+            "Watu wasiojua hawana vitabu (Muktadha tofauti)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi chenye O-rejeshi hukanushwa kwa «-si-»: «wasiojua» (those who do not know)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kiwango cha joto\":",
+          "prompt": "Katika muhtasari wa Unit 16, kanuni ipi ya ukanushaji inatofautisha O-Rejeshi ya kitenzi kikuu na ile ya neno \"Amba-\"?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Dawa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Hospitali»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Daktari»"
+            "Kitenzi cha O-Rejeshi hukanushwa kwa '-si-' (asiyesoma), lakini mzizi wa 'Amba-' hufuatiwa na kitenzi kilichokanushwa kwa kawaida (ambaye hasomi).",
+            "Vyote viwili hukanushwa kwa njia moja tu bila tofauti.",
+            "Mzizi wa Amba- hauwezi kukanushwa kamwe katika Kiswahili.",
+            "O-rejeshi hukanushwa kwa kutumia neno 'hapana' pekee."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kitenzi cha ndani hutumia «-si-» (asiyesoma), wakati «amba-» huchukua kitenzi cha kawaida cha kukanusha (ambaye hasomi)."
         }
       ]
     },
@@ -6977,17 +7026,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kiwango cha joto\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 16 ya Virejeshi vya O-Rejeshi na Ukanushaji katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Hospitali»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Daktari»",
-            "Mpangilio usio sahihi wa viambishi katika «Dawa»"
+            "Mwalimu anayefundisha vizuri anasifiwa, kitabu tulichokisoma kilikuwa na manufaa, na watu wasiofanya kazi hawapati mafanikio wanayoyatarajia. (Affirmative present relative [anayefundisha], past relative with OP [tulichokisoma], negative relative [-sio-], and relative with OP [wanayoyatarajia].)",
+            "Mwalimu hawafundishi vizuri na kitabu kililosomwa hakifai.",
+            "Watu hawajui kusoma na nyumba zilizobomoka ziko mbali.",
+            "Kiswahili hakina mfumo wa virejeshi ndani ya vitenzi."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Mwalimu anayefundisha vizuri anasifiwa, kitabu tulichokisoma kilikuwa na manufaa, na watu wasiofanya kazi hawapati mafanikio wanayoyatarajia.» inajumuisha nyanja zote za O-rejeshi na ukanushaji wake kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u17-l1": {
