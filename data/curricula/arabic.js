@@ -8218,85 +8218,89 @@
     "subject": "arabic",
     "unit": 14,
     "lessonNumber": 1,
-    "title": "السفر والسياحة وأفعال الحركة (Travel & Motion Verbs) (الدرس 1)",
+    "title": "معجم التضاريس والمعالم الجغرافية (Geographical Features Lexicon)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أفعال الانتقال والسفر، وصف المعالم التاريخية، واستخدام الظروف الزمانية والمكانية. (الجزء 1).",
+    "objective": "إتقان المفردات الفصيحة للتضاريس الطبيعية والبيئات الجغرافية (جبل، نهر، بحر، محيط، صحراء، غابة، جزيرة، وادٍ، شلال، ساحل) وجموعها وصفاتها.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تتنوع تضاريس الطبيعة في المعجم العربي بأوصاف دقيقة وجموع تكسير غنية:\n\nأولاً: معجم المعالم الجغرافية والتضاريس (Geographical Features):\n1.【جَبَلٌ / جِبَالٌ (Mountain / Mountains)】 | 【قِمَّةٌ / قِمَمٌ (Peak / Peaks)】.\n2.【نَهْرٌ / أَنْهَارٌ (River / Rivers)】 | 【شَلَّالٌ / شَلَّالَاتٌ (Waterfall / Waterfalls)】.\n3.【بَحْرٌ / بِحَارٌ (Sea / Seas)】 | 【مُحِيطٌ / مُحِيطَاتٌ (Ocean / Oceans)】.\n4.【صَحْرَاءُ / صَحَارٍ (Desert / Deserts)】 (اسم ممدود ممنوع من الصرف).\n5.【غَابَةٌ / غَابَاتٌ (Forest / Forests)】 | 【جَزِيرَةٌ / جُزُرٌ (Island / Islands)】.\n6.【وَادٍ / وِدْيَانٌ (Valley / Valleys)】 (اسم منقوص: وادٍ نكرة، الوَادِي معرفة).\n7.【سَاحِلٌ / سَوَاحِلُ (Coast / Coasts)】 | 【شَاطِئٌ / شَوَاطِئُ (Beach / Beaches)】.\n\nثانياً: صفات المعالم الطبيعية والتضاريس:\n- «شَاهِقٌ / شَامِخٌ (Towering / Lofty)»: «جِبَالٌ شَاهِقَةٌ».\n- «عَذْبٌ (Fresh / Potable water)»: «مِيَاهٌ عَذْبَةٌ» | «مَالِحٌ (Salty)»: «مِيَاهٌ مَالِحَةٌ».\n- «شَاسِعٌ / وَاسِعٌ (Vast / Immense)»: «صَحْرَاءُ شَاسِعَةٌ».\n- «خَلَّابٌ / سَاحِرٌ (Breathtaking / Enchanting)»: «مَنَاظِرُ طَبِيعِيَّةٌ خَلَّابَةٌ».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)» بأسلوب أكاديمي دقيق (14.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)' to students in an accurate academic style."
+          "target": "يَمْتَدُّ نَهْرُ النِّيلِ العَظِيمُ كَشِرْيَانِ حَيَاةٍ خَالِدٍ يَجْرِي بِمِيَاهِهِ العَذْبَةِ عَبْرَ الأَرَاضِي المِصْرِيَّةِ وَالسُّودَانِيَّةِ.(Yamtaddu nahru an-Nīli al-ʿaẓīmu ka-shiryāni ḥayātin khālidin yajrī bi-miyāhihi al-ʿadhbati ʿabra al-arāḍī al-miṣriyyati wa-as-sūdāniyyah.)",
+          "reading": "[jam.tad.du nah.ru‿n.niː.li‿l.ʕa.zˤiː.mu ka.ʃir.jaː.ni ħa.jaː.tin xaː.li.din jaʒ.riː bi.mi.jaː.hi.hi‿l.ʕað.ba.ti ʕab.ra‿l.ʔa.raː.dˤiː‿l.misˤ.rij.ja.ti was.suː.daː.nij.jah] (Yam-tad-du nah-ru an-Nī-li al-ʿa-ẓī-mu ka-shir-yā-ni ḥa-yā-tin khā-li-din yaj-rī bi-mi-yā-hi-hi al-ʿadh-ba-ti ʿab-ra al-a-rā-ḍī al-miṣ-riy-ya-ti wa-as-sū-dā-niy-yah.)",
+          "translation": "The great Nile River extends as an eternal artery of life flowing with its sweet water across Egyptian and Sudanese lands."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (14.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تَرْتَفِعُ قِمَمُ جِبَالِ الأَطْلَسِ الشَّاهِقَةِ فِي المَغْرِبِ العَرَبِيِّ لِتُعَانِقَ السَّحَابَ بِرَوْعَتِهَا.(Tartafiʿu qimamu jibāli al-Aṭlasi ash-shāhiqati fī al-maghribi al-ʿarabiyyi li-tuʿāniqa as-saḥāba bi-rawʿatihā.)",
+          "reading": "[tar.ta.fi.ʕu qi.ma.mu ʒi.baː.li‿l.ʔatˤ.la.si‿ʃ.ʃaː.hi.qa.ti fiː‿l.maɣ.ri.bi‿l.ʕa.ra.bij.ji li.tu.ʕaː.ni.qa‿s.sa.ħaː.ba bi.raw.ʕa.ti.haː] (Tar-ta-fi-ʿu qi-ma-mu ji-bā-li al-Aṭ-la-si ash-shā-hi-qa-ti fī al-magh-ri-bi al-ʿa-ra-biy-yi li-tu-ʿā-ni-qa as-sa-ḥā-ba bi-raw-ʿa-ti-hā.)",
+          "translation": "The towering peaks of the Atlas Mountains in the Arab Maghreb rise to embrace the clouds with their magnificence."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (14.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تَحْتَضِنُ صَحْرَاءُ الرُّبْعِ الخَالِي كُثْبَانًا رَمْلِيَّةً ذَهَبِيَّةً تَأْسِرُ قُلُوبَ الزَّائِرِينَ وَالمُسْتَكْشِفِينَ.(Taḥtaḍinu ṣaḥrāʾu ar-Rubʿi al-Khālī kuthbānan ramliyyatan dhahabiyyatan taʾsiru qulūba az-zāʾirīna wa-al-mustakshifīn.)",
+          "reading": "[taħ.ta.dˤi.nu sˤaħ.raː.ʔu‿r.rub.ʕi‿l.xaː.liː kuθ.baː.nan ram.lij.ja.tan ða.ha.bij.ja.tan taʔ.si.ru qu.luː.ba‿z.zaː.ʔi.riː.na wal.mus.tak.ʃi.fiːn] (Taḥ-ta-ḍi-nu ṣaḥ-rā-ʾu ar-Rub-ʿi al-Khā-lī kuth-bā-nan ram-liy-ya-tan dha-ha-biy-ya-tan taʾ-si-ru qu-lū-ba az-zā-ʾi-rī-na wa-al-mus-tak-shi-fīn.)",
+          "translation": "The Empty Quarter desert embraces golden sand dunes that captivate the hearts of visitors and explorers."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (14.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تُحِيطُ مِيَاهُ البَحْرِ الأَحْمَرِ الفَيْرُوزِيَّةُ بِالجُزُرِ وَالشِّعَابِ المَرْجَانِيَّةِ النَّادِرَةِ.(Tuḥīṭu miyāhu al-baḥri al-aḥmari al-fayrūziyyatu bi-al-juzuri wa-ash-shiʿābi al-marjāniyyati an-nādirah.)",
+          "reading": "[tu.ħiː.tˤu mi.jaː.hu‿l.baħ.ri‿l.ʔaħ.ma.ri‿l.faj.ruː.zij.ja.tu bil.ʒu.zu.ri waʃ.ʃi.ʕaː.bi‿l.mar.ʒaː.nij.ja.ti‿n.naː.di.rah] (Tu-ḥī-ṭu mi-yā-hu al-baḥ-ri al-aḥ-ma-ri al-fay-rū-ziy-ya-tu bi-al-ju-zu-ri wa-ash-shi-ʿā-bi al-mar-jā-niy-ya-ti an-nā-di-rah.)",
+          "translation": "The turquoise waters of the Red Sea surround rare islands and coral reefs."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جَبَلٌ وَنَهْرٌ وَصَحْرَاءٌ وَبِحَارْ، سِحْرُ الطَّبِيعَةِ يَجْلُو الأَبْصَارْ!"
+      ],
+      "culturalNotes": [
+        "يتميز الوطن العربي بتنوع جغرافي فريد؛ ففيه أطول أنهار العالم (نهر النيل) وسلاسل جبال الأطلس الخضراء وأعظم المسطحات الرملية في الربع الخالي."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)» (الدرس 1)؟",
+          "prompt": "ما هو جمع التكسير الصحيح لكلمة «جَبَل» في اللغة العربية؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)» بأسلوب أكاديمي دقيق (14.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (14.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (14.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (14.1.w3)"
+            "جِبَالٌ (Jibāl)",
+            "جبلات",
+            "جبلون",
+            "أجبلة"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "جمع جَبَل هو «جِبَالٌ» على وزن فِعَال."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي الصفة العربية الفصيحة المستخدمة لوصف المياه العذبة الصالحة للشرب؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "عَذْبٌ / عَذْبَةٌ (Fresh / Sweet water)",
+            "مالحة",
+            "حامضة",
+            "حارة فقط"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "يقال: «مَاءٌ عَذْبٌ» و«مِيَاهٌ عَذْبَةٌ» لمياه الأنهار والينابيع الصالحة للشرب."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u14-l1):",
+          "prompt": "اختر الجملة التي تصف الجبال الشاهقة والوديان بدقة صرفية ونحوية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (14.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (14.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (14.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (14.1.x3)"
+            "تَتَدَفَّقُ الشَّلَّالَاتُ مِنَ القِمَمِ الشَّاهِقَةِ لِتَسِيلَ فِي الوِدْيَانِ الخَضْرَاءِ. (Waterfalls flow from towering peaks to stream into green valleys.)",
+            "تتدفق الشلالات من السماء الى الطائرة",
+            "الجبال تأكل الوديان في البحر",
+            "تضاريس شلال قمم وديان سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تصف جريان الشلالات من القمم الشاهقة إلى الوديان بأسلوب عربي فصيح وجميل."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)»؟",
+          "prompt": "ما هي المساحة من اليابسة المحاطة بالمياه من جميع الجهات؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (14.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (14.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (14.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (14.1.y3)"
+            "الجَزِيرَةُ (The Island)",
+            "الجبل",
+            "الصحراء",
+            "الغابة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الجَزِيرَةُ» هي الأرض اليابسة التي تحيط بها المياه من كافة الجهات."
         }
       ]
     },
@@ -8304,24 +8308,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 14-1)؟",
+          "prompt": "اختر النص الجغرافي الذي يصف تنوع تضاريس العالم العربي بأسلوب بياني رفيع ومضبوط:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (14.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (14.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (14.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (14.1.z3)"
+            "تَتَزَيَّنُ الأَرْضُ العَرَبِيَّةُ بِتَنَوُّعِ تَمَاسُكِهَا الجُغْرَافِيِّ؛ حَيْثُ تَمْتَدُّ الأَنْهَارُ العَذْبَةُ جَنْبًا إِلَى جَنْبٍ مَعَ الجِبَالِ الشَّاهِقَةِ، وَتَتَلَأْلَأُ السَّوَاحِلُ البَحْرِيَّةُ المُطِلَّةُ عَلَى الجُزُرِ الخَلَّابَةِ. (Arab lands are adorned with the diversity of their geographical cohesion; where fresh rivers extend alongside towering mountains, and marine coasts overlooking breathtaking islands sparkle.)",
+            "تتزين الارض بالماضي فقط بلا تضاريس وبلا معالم جغرافية.",
+            "جبال انهار بحار صحراء جزر وديان سواحل سكون فتحة ضمة.",
+            "اختفت كافة المعالم الطبيعية واصبحت الارض بلا جبال ولا انهار."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين المعالم الجغرافية «الأَنْهَار، الجِبَال، السَّوَاحِل، الجُزُر» وأوصافها الفصيحة بتناغم تعبيري باهر."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u14-l1) باللغة العربية (مثال: «السفر»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم المجرى المائي الطبيعي العذب مثل النيل ودجلة والفرات (اكتب: «نهر» أو «النهر»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "السفر",
-            "السفر"
+            "نهر",
+            "النهر",
+            "نَهْرٌ",
+            "نَهْر",
+            "النَّهْرُ"
           ],
-          "explanation": "المصطلح الصحيح هو «السفر»."
+          "explanation": "المعلم هو «نهر» أو «النهر»."
         }
       ],
       "passThreshold": 0.8
@@ -8332,85 +8339,89 @@
     "subject": "arabic",
     "unit": 14,
     "lessonNumber": 2,
-    "title": "السفر والسياحة وأفعال الحركة (Travel & Motion Verbs) (الدرس 2)",
+    "title": "فصول السنة والظواهر المناخية وحالة الطقس (Seasons, Climate & Weather Phenomena)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أفعال الانتقال والسفر، وصف المعالم التاريخية، واستخدام الظروف الزمانية والمكانية. (الجزء 2).",
+    "objective": "إتقان أسماء الفصول الأربعة (الربيع، الصيف، الخريف، الشتاء) والمفردات والصفات المناخية (حار، بارد، معتدل، ممطر، غائم، عاصف، مشمس، رطب).",
     "presentation": {
-      "explanation": "",
+      "explanation": "يتميز المناخ في اللغة العربية بمعجم وصفي بديع لحالات الطقس والفصول:\n\nأولاً: فصول السنة الأربعة (The Four Seasons):\n1.【فَصْلُ الرَّبِيعِ (Spring)】: فصل تفتح الأزهار والاعتدال.\n2.【فَصْلُ الصَّيْفِ (Summer)】: فصل الدفء والحرارة ونضج الثمار.\n3.【فَصْلُ الخَرِيفِ (Autumn / Fall)】: فصل تساقط الأوراق وتقلب الأجواء.\n4.【فَصْلُ الشِّتَاءِ (Winter)】: فصل الأمطار والبرد والثلوج.\n\nثانياً: صفات الطقس والمناخ (Weather Adjectives):\n- 【حَارٌّ (Hot)】 | 【بَارِدٌ (Cold)】 | 【مُعْتَدِلٌ (Mild / Moderate)】.\n- 【مُشْمِسٌ (Sunny)】 | 【غَائِمٌ / مُغَيَّمٌ (Cloudy)】 | 【مُمْطِرٌ (Rainy)】.\n- 【عَاصِفٌ (Windy / Stormy)】 | 【رَطْبٌ (Humid)】 | 【جَافٌّ (Dry)】.\n\nثالثاً: الظواهر الجوية (Atmospheric Phenomena):\n- «الأَمْطَارُ (Rain)» | «الثُّلُوجُ (Snow)» | «الضَّبَابُ (Fog)» | «الرِّيَاحُ (Winds)».\n- «دَرَجَةُ الحَرَارَةِ (Temperature)» | «النَّشْرَةُ الجَوِّيَّةُ (Weather forecast)».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)» بأسلوب أكاديمي دقيق (14.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)' to students in an accurate academic style."
+          "target": "يَكُونُ الطَّقْسُ فِي فَصْلِ الرَّبِيعِ مُعْتَدِلًا وَبَدِيعًا؛ حَيْثُ تَتَفَتَّحُ الأَزْهَارُ وَتَكْتَسِي الأَرْضُ خُضْرَةً.(Yakūnu aṭ-ṭaqsu fī faṣli ar-rabīʿi muʿtadilan wa-badīʿan; ḥaythu tatafattaḥu al-azhāru wa-taktasī al-arḍu khuḍrah.)",
+          "reading": "[ja.kuː.nu‿tˤ.tˤaq.su fiː fasˤ.li‿r.ra.biː.ʕi muʕ.ta.di.lan wa.ba.diː.ʕan; ħaj.θu ta.ta.fat.ta.ħu‿l.ʔaz.haː.ru wa.tak.ta.siː‿l.ʔar.dˤu xudˤ.rah] (Ya-kū-nu aṭ-ṭaq-su fī faṣ-li ar-ra-bī-ʿi muʿ-ta-di-lan wa-ba-dī-ʿan; ḥay-thu ta-ta-fat-ta-ḥu al-az-hā-ru wa-tak-ta-sī al-ar-ḍu khuḍ-rah.)",
+          "translation": "The weather in the spring season is moderate and marvelous; where flowers blossom and the earth is clothed in greenery."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (14.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تَنْخَفِضُ دَرَجَاتُ الحَرَارَةِ فِي فَصْلِ الشِّتَاءِ، وَتَتَسَاقَطُ الأَمْطَارُ الغَزِيرَةُ وَالثُّلُوجُ عَلَى القِمَمِ الجَبَلِيَّةِ.(Tankhafiḍu darajātu al-ḥarārati fī faṣli ash-shitāʾ, wa-tatasāqaṭu al-amṭāru al-ghazīratu wa-ath-thulūju ʿalā al-qimami al-jabaliyyah.)",
+          "reading": "[tan.xa.fi.dˤu da.ra.ʒaː.tu‿l.ħa.raː.ra.ti fiː fasˤ.li‿ʃ.ʃi.taːʔ, wa.ta.ta.saː.qa.tˤu‿l.ʔam.tˤaː.ru‿l.ɣa.ziː.ra.tu waθ.θu.luː.ʒu ʕa.laː‿l.qi.ma.mi‿l.ʒa.ba.lij.jah] (Tan-kha-fi-ḍu da-ra-jā-tu al-ḥa-rā-ra-ti fī faṣ-li ash-shi-tā-ʾ, wa-ta-ta-sā-qa-ṭu al-am-ṭā-ru al-gha-zī-ra-tu wa-ath-thu-lū-ju ʿa-lā al-qi-ma-mi al-ja-ba-liy-yah.)",
+          "translation": "Temperatures drop in the winter season, and heavy rain and snow fall on mountain peaks."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (14.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تَشْهَدُ المَنَاطِقُ السَّاحِلِيَّةُ جَوًّا رَطْبًا وَمُشْمِسًا فِي الصَّيْفِ مَعَ نَسِيمِ البَحْرِ العَلِيلِ.(Tashhadu al-manāṭiqu as-sāḥiliyyatu jawwan raṭban wa-mushmisan fī aṣ-ṣayfi maʿa nasīmi al-baḥri al-ʿalīl.)",
+          "reading": "[taʃ.ha.du‿l.ma.naː.tˤi.qu‿s.saː.ħi.lij.ja.tu ʒaw.wan ratˤ.ban wa.muʃ.mi.san fiː‿sˤ.sˤaj.fi ma.ʕa na.siː.mi‿l.baħ.ri‿l.ʕa.liːl] (Tash-ha-du al-ma-nā-ṭi-qu as-sā-ḥi-liy-ya-tu jaw-wan raṭ-ban wa-mush-mi-san fī aṣ-ṣay-fi ma-ʿa na-sī-mi al-baḥ-ri al-ʿa-līl.)",
+          "translation": "Coastal areas witness humid and sunny weather in summer along with the pleasant sea breeze."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (14.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "النَّشْرَةُ الجَوِّيَّةُ تُحَذِّرُ مِنَ الرِّيَاحِ العَاصِفَةِ وَتَشَكُّلِ الضَّبَابِ الكَثِيفِ فِي الصَّبَاحِ البَاكِرِ.(An-nashratu al-jawwiyyatu tuḥadh-dhiru min ar-riyāḥi al-ʿāṣifati wa-tashakkuli aḍ-ḍabābi al-kathīfi fī aṣ-ṣabāḥi al-bākir.)",
+          "reading": "[an.naʃ.ra.tu‿l.ʒaw.wij.ja.tu tu.ħað.ði.ru mi.na‿r.ri.jaː.ħi‿l.ʕaː.sˤi.fa.ti wa.ta.ʃak.ku.li‿dˤ.dˤa.baː.bi‿l.ka.θiː.fi fiː‿sˤ.sˤa.baː.ħi‿l.baː.kir] (An-nash-ra-tu al-jaw-wiy-ya-tu tu-ḥadh-dhi-ru mi-na ar-ri-yā-ḥi al-ʿā-ṣi-fa-ti wa-ta-shak-ku-li aḍ-ḍa-bā-bi al-ka-thī-fi fī aṣ-ṣa-bā-ḥi al-bā-kir.)",
+          "translation": "The weather forecast warns against stormy winds and formation of dense fog in the early morning."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "رَبِيعٌ وَصَيْفٌ وَخَرِيفٌ وَشِتَاءْ، طَقْسٌ حَارٌّ أَوْ بَارِدٌ فِيهِ السَّنَاءْ!"
+      ],
+      "culturalNotes": [
+        "المطر في التراث العربي يسمى «الغيث» دلالة على الإغاثة والرحمة والخير العميم الذي يحيي الأرض بعد موتها ويملأ الوديان بالخصب والنماء."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)» (الدرس 2)؟",
+          "prompt": "ما هو فصل السنة الذي تسقط فيه أوراق الأشجار ويكون تمهيدًا لدخول الشتاء؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)» بأسلوب أكاديمي دقيق (14.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (14.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (14.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (14.2.w3)"
+            "فَصْلُ الخَرِيفِ (Autumn / Fall)",
+            "فصل الصيف",
+            "فصل الربيع",
+            "منتصف الشتاء"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«فَصْلُ الخَرِيفِ» هو الفصل الذي تتساقط فيه أوراق الشجر وتهب فيه الرياح المتقلبة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي الصفة المناخية التي تعني امتلاء الهواء ببخار الماء وقطرات الرطوبة العالية؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "رَطْبٌ / رَطْبَةٌ (Humid)",
+            "جاف",
+            "مثلج",
+            "صافٍ"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«رَطْبٌ» تدل على ارتفاع نسبة الرطوبة في الجو."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u14-l2):",
+          "prompt": "اختر الجملة التي تصف اعتدال الطقس في فصل الربيع بفصاحة لغوية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (14.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (14.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (14.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (14.2.x3)"
+            "تَتَمَتَّعُ المَدِينَةُ بِطَقْسٍ مُعْتَدِلٍ وَمُشْمِسٍ فِي فَصْلِ الرَّبِيعِ الزَّاهِي. (The city enjoys moderate and sunny weather in the radiant spring season.)",
+            "تتمتع المدينة بطقس حار جدا يتجمد في الصيف",
+            "الربيع يأكل الشتاء في الغرفة",
+            "طقس ربيع معتدل مشمس سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تصف طقس الربيع «مُعْتَدِلٍ وَمُشْمِسٍ» بعبارة بليغة ومضبوطة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)»؟",
+          "prompt": "ماذا يسمى حجب الرؤية الأفقية صباحًا بسبب تجمع قطيرات الماء المعلقة في الهواء؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (14.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (14.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (14.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (14.2.y3)"
+            "الضَّبَابُ (Fog / Mist)",
+            "البرق",
+            "الرعد",
+            "المطر الغزير"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الضَّبَابُ» هو الظاهرة الجوية التي تقلل مدى الرؤية الأفقية على الطرق."
         }
       ]
     },
@@ -8418,24 +8429,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 14-2)؟",
+          "prompt": "اختر النص الذي يعرض النشرة الجوية وتغيرات الفصول والمناخ بأسلوب فصيح ومتقن:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (14.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (14.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (14.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (14.2.z3)"
+            "تُشِيرُ النَّشْرَةُ الجَوِّيَّةُ إِلَى أَنَّ الطَّقْسَ غَدًا سَيَكُونُ غَائِمًا وَمُمْطِرًا فِي المَنَاطِقِ الشَّمَالِيَّةِ، بَيْنَمَا يَسُودُ جَوٌّ مُعْتَدِلٌ وَمُشْمِسٌ فِي السَّوَاحِلِ، مَعَ نَسِيمٍ بَحْرِيٍّ يُنْعِشُ الأَجْوَاءَ. (The weather forecast indicates that the weather tomorrow will be cloudy and rainy in northern regions, while moderate and sunny weather prevails along coasts, with a sea breeze refreshing the atmosphere.)",
+            "تشير النشرة الجوية بالماضي فقط بلا احوال طقس وبلا فصول.",
+            "نشرة جوية غائم ممطر مشمس معتدل سكون فتحة ضمة كسرة.",
+            "توقفت النشرة الجوية ولم يعد هناك طقس في البلاد."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يقدم وصفًا مناخيًا وإخباريًا متكاملاً يوظف «غَائِمًا، مُمْطِرًا، مُعْتَدِلٌ، مُشْمِسٌ، نَسِيمٍ بَحْرِيٍّ» بفصاحة تامة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u14-l2) باللغة العربية (مثال: «السفر»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم فصل البرد والأمطار والثلوج (اكتب: «الشتاء» أو «شتاء»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "السفر",
-            "السفر"
+            "الشتاء",
+            "شتاء",
+            "الشِّتَاءُ",
+            "الشِّتَاء",
+            "شِتَاءٌ",
+            "شِتَاء"
           ],
-          "explanation": "المصطلح الصحيح هو «السفر»."
+          "explanation": "الفصل هو «الشتاء» أو «شتاء»."
         }
       ],
       "passThreshold": 0.8
@@ -8446,85 +8461,89 @@
     "subject": "arabic",
     "unit": 14,
     "lessonNumber": 3,
-    "title": "السفر والسياحة وأفعال الحركة (Travel & Motion Verbs) (الدرس 3)",
+    "title": "الأسماء الموصولة وصلة الموصول (Relative Pronouns: Al-Ladhī, Al-Latī & Plurals)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أفعال الانتقال والسفر، وصف المعالم التاريخية، واستخدام الظروف الزمانية والمكانية. (الجزء 3).",
+    "objective": "إتقان الأسماء الموصولة (الَّذِي للمفرد المذكر، الَّتِي للمفرد المؤنث ولجمع غير العاقل، الَّذِينَ لجمع المذكر العاقل، اللَّاتِي لجمع المؤنث) وفهم صلة الموصول والعائد.",
     "presentation": {
-      "explanation": "",
+      "explanation": "الأسماء الموصولة أسماء معرفة تربط بين الجمل وتفتقر إلى جملة توضيحية بعدها تسمى «جُمْلَةَ صِلَةِ المَوْصُولِ»:\n\nأولاً: تفصيل الأسماء الموصولة واستخداماتها:\n1.【الَّذِي (Al-ladhī)】: للمفرد المذكر (العاقل وغير العاقل):\n   - «هٰذَا هُوَ النَّهْرُ الَّذِي يَجْرِي بِالعَذُوبَةِ» (غير عاقل).\n   - «جَاءَ البَاحِثُ الَّذِي دَرَسَ المَنَاخَ» (عاقل).\n2.【الَّتِي (Al-latī)】: للمفرد المؤنث + **لِجَمْعِ غَيْرِ العَاقِلِ** (قاعدة هامة جداً):\n   - «هٰذِهِ هِيَ المَدِينَةُ الَّتِي أُحِبُّهَا» (مفرد مؤنث).\n   - «تِلْكَ هِيَ الجِبَالُ الَّتِي كَسَاهَا الثَّلْجُ» (الجبال: جمع غير عاقل -> تعامل معاملة المفرد المؤنث).\n   - «هٰذِهِ هِيَ الأَنْهَارُ الَّتِي تَرْوِي الوَطَنَ».\n3.【الَّذِينَ (Al-ladhīna)】: لجمع المذكر العاقل فقط:\n   - «شَكَرْنَا العُلَمَاءَ الَّذِينَ يَحْمُونَ الطَّبِيعَةَ».\n4.【اللَّاتِي / اللَّوَاتِي (Al-lātī / Al-lawātī)】: لجمع المؤنث العاقل:\n   - «كَرَّمْنَا البَاحِثَاتِ اللَّاتِي أَبْدَعْنَ فِي عِلْمِ المَنَاخِ».\n\nثانياً: جُمْلَةُ صِلَةِ المَوْصُولِ وَالعَائِدُ:\n- الجملة بعد الاسم الموصول لا محل لها من الإعراب، وتحتوي وجوبًا على ضمير يعود على الاسم الموصول (العائد): «الجِبَالُ الَّتِي كَسَا**هَا** الثَّلْجُ» (الهاء: ضمير عائد).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)» بأسلوب أكاديمي دقيق (14.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)' to students in an accurate academic style."
+          "target": "هٰذَا هُوَ النَّهْرُ العَظِيمُ الَّذِي يَرْوِي الأَرَاضِيَ الزِّرَاعِيَّةَ، وَتِلْكَ هِيَ الجِبَالُ الَّتِي كَسَاهَا الثَّلْجُ.(Hādhā huwa an-nahru al-ʿaẓīmu al-ladhī yarwī al-arāḍiya az-zirāʿiyyata, wa-tilka hiya al-jibālu al-latī kasāhā ath-thalj.)",
+          "reading": "[haː.ðaː hu.wa‿n.nah.ru‿l.ʕa.zˤiː.mu‿l.la.ðiː jar.wiː‿l.ʔa.raː.dˤi.ja‿z.zi.raː.ʕij.ja.ta, wa.til.ka hi.ja‿l.ʒi.baː.lu‿l.la.tiː ka.saː.haː‿θ.θalʒ] (Hā-dhā hu-wa an-nah-ru al-ʿa-ẓī-mu al-la-dhī yar-wī al-a-rā-ḍi-ya az-zi-rā-ʿiy-ya-ta, wa-til-ka hi-ya al-ji-bā-lu al-la-tī ka-sā-hā ath-thalj.)",
+          "translation": "This is the great river which irrigates agricultural lands, and those are the mountains which snow has covered."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (14.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يُسْتَخْدَمُ الِاسْمُ المَوْصُولُ «الَّتِي» مَعَ المُفْرَدِ المُؤَنَّثِ وَمَعَ جَمْعِ غَيْرِ العَاقِلِ دَائِمًا.(Yustakhdamu al-ismu al-mawṣūlu 'al-latī' maʿa al-mufradi al-muʾannathi wa-maʿa jamʿi ghayri al-ʿāqili dāʾiman.)",
+          "reading": "[jus.tax.da.mu‿l.ʔis.mu‿l.maw.sˤuː.lu «al.la.tiː» ma.ʕa‿l.muf.ra.di‿l.mu.ʔan.na.θi wa.ma.ʕa ʒam.ʕi ɣaj.ri‿l.ʕaː.qi.li daː.ʔi.man] (Yus-takh-da-mu al-is-mu al-maw-ṣū-lu 'al-la-tī' ma-ʿa al-muf-ra-di al-mu-ʾan-na-thi wa-ma-ʿa jam-ʿi ghay-ri al-ʿā-qi-li dā-ʾi-man.)",
+          "translation": "The relative pronoun 'al-latī' is always used with feminine singular and with non-human plural."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (14.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "نُقَدِّرُ البَاحِثِينَ الَّذِينَ يُقَدِّمُونَ أَبْحَاثًا نَافِعَةً لِحِمَايَةِ البِيئَةِ وَالمَنَاخِ.(Nuqaddiru al-bāḥithīna al-ladhīna yuqaddimūna abḥāthan nāfiʿatan li-ḥimāyati al-bīʾati wa-al-manākh.)",
+          "reading": "[nu.qad.di.ru‿l.baː.ħi.θiː.na‿l.la.ðiː.na ju.qad.di.muː.na ʔab.ħaː.θan naː.fi.ʕa.tan li.ħi.maː.ja.ti‿l.biː.ʔa.ti wal.ma.naːx] (Nu-qad-di-ru al-bā-ḥi-thī-na al-la-dhī-na yu-qad-di-mū-na ab-ḥā-than nā-fi-ʿa-tan li-ḥi-mā-ya-ti al-bī-ʾa-ti wa-al-ma-nākh.)",
+          "translation": "We appreciate researchers who present beneficial research to protect the environment and climate."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (14.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "صِلَةُ المَوْصُولِ جُمْلَةٌ تُوَضِّحُ مَعْنَى الِاسْمِ المَوْصُولِ، وَتَحْتَوِي عَلَى ضَمِيرٍ عَائِدٍ عَلَيْهِ.(Ṣilatu al-mawṣūli jumlatun tuwaḍḍiḥu maʿnā al-ismi al-mawṣūli, wa-taḥtawī ʿalā ḍamīrin ʿāʾidin ʿalayh.)",
+          "reading": "[sˤi.la.tu‿l.maw.sˤuː.li ʒum.la.tun tu.wadˤ.dˤi.ħu maʕ.naː‿l.ʔis.mi‿l.maw.sˤuː.li, wa.taħ.ta.wiː ʕa.laː dˤa.miː.rin ʕaː.ʔi.din ʕa.lajh] (Ṣi-la-tu al-maw-ṣū-li jum-la-tun tu-waḍ-ḍi-ḥu maʿ-nā al-is-mi al-maw-ṣū-li, wa-taḥ-ta-wī ʿa-lā ḍa-mī-rin ʿā-ʾi-din ʿa-layh.)",
+          "translation": "The relative clause is a sentence clarifying the meaning of the relative pronoun, and contains a pronoun referring back to it."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "الَّذِي لِلذَّكَرِ، وَالَّتِي لِلأُنْثَى وَجَمْعِ الحَجَرِ، وَالَّذِينَ لِقَوْمٍ تَرَكُوا الأَثَرْ!"
+      ],
+      "culturalNotes": [
+        "الأسماء الموصولة في لغة القرآن الكريم تمثل قمة التماسك النصي والربط البلاغي بين الأوصاف والمعاني والقصص التاريخية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)» (الدرس 3)؟",
+          "prompt": "ما هو الاسم الموصول المناسب لجمع التكسير لغير العاقل مثل كلمة «الأَشْجَارُ» أو «الجِبَالُ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)» بأسلوب أكاديمي دقيق (14.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (14.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (14.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (14.3.w3)"
+            "الَّتِي (Al-latī - Feminine singular agreement for non-human plurals)",
+            "الذين",
+            "الذي",
+            "اللائي"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "جمع غير العاقل يعامل معاملة المفرد المؤنث فيأخذ الاسم الموصول «الَّتِي» (مثل: الأشجار التي، الجبال التي)."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الاسم الموصول المخصص لجمع المذكر العاقل؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "الَّذِينَ (Al-ladhīna)",
+            "التي",
+            "الذي",
+            "اللتان"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«الَّذِينَ» هو الاسم الموصول المخصص لجماعة الذكور العقلاء (مثل: العلماء الذين، الطلاب الذين)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u14-l3):",
+          "prompt": "اختر الجملة التي تستخدم الأسماء الموصولة مطابقة تامة للموصوف:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (14.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (14.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (14.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (14.3.x3)"
+            "شَاهَدْنَا الغَابَاتِ الَّتِي تَكْثُرُ فِيهَا الأَشْجَارُ، وَالمُرْشِدِينَ الَّذِينَ رَافَقُونَا. (We saw the forests in which trees abound, and the guides who accompanied us.)",
+            "شاهدنا الغابات الذين تكثر فيها خطأ",
+            "المرشدين التي رافقونا بالتأنيث لجمع المذكر",
+            "اسم موصول غابات اشجار سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«الغَابَاتِ الَّتِي» (غير عاقل مؤنث) و«المُرْشِدِينَ الَّذِينَ» (عاقل مذكر جمع) مطابقة صحيحة تمامًا."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)»؟",
+          "prompt": "ما وظيفة «جملة صلة الموصول» في التركيب النحوي العربي؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (14.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (14.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (14.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (14.3.y3)"
+            "تَوْضِيحُ وَتَعْيِينُ المَعْنَى المَقْصُودِ مِنَ الِاسْمِ المَوْصُولِ وَتَحْتَوِي عَلَى عَائِدٍ (Clarifying the intended meaning of the relative pronoun)",
+            "حذف الفاعل من الجملة",
+            "تحويل الجملة إلى سؤال",
+            "جزم الفعل الماضي"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "صلة الموصول تأتي بعد الاسم الموصول لتكشف غموضه وتحدد دلالته المقصودة برابط الضمير العائد."
         }
       ]
     },
@@ -8532,24 +8551,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 14-3)؟",
+          "prompt": "اختر الفقرة التي توظف الأسماء الموصولة المتنوعة (الذي، التي، الذين) في سياق بيئي وعلمي متكامل:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (14.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (14.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (14.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (14.3.z3)"
+            "يَتَعَاوَنُ العُلَمَاءُ الَّذِينَ يَخْتَصُّونَ فِي عِلْمِ المَنَاخِ لِدِرَاسَةِ التَّغَيُّرَاتِ الَّتِي تُهَدِّدُ البِيئَةَ، وَحِمَايَةِ النِّظَامِ الطَّبِيعِيِّ الَّذِي يُوَفِّرُ لَنَا الحَيَاةَ وَالأَمَانَ. (The scientists who specialize in climatology cooperate to study the changes which threaten the environment, and to protect the natural system which provides us life and security.)",
+            "يتعاون العلماء بالماضي فقط بلا اسماء موصولة وبلا صلة.",
+            "الذين التي الذي صلة موصول عائد سكون فتحة ضمة كسرة.",
+            "توقف العلماء عن دراسة البيئة والمناخ تماما."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة توظف «العُلَمَاء الَّذِينَ» (جمع مذكر عاقل)، «التَّغَيُّرَات الَّتِي» (جمع غير عاقل)، «النِّظَام الَّذِي» (مفرد مذكر) بأعلى درجات الفصاحة والإتقان النحوي."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u14-l3) باللغة العربية (مثال: «السفر»):",
+          "prompt": "اكتب باللغة العربية الفصحى الاسم الموصول المخصص للمفرد المؤنث ولجمع غير العاقل (اكتب: «التي»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "السفر",
-            "السفر"
+            "التي",
+            "الَّتِي",
+            "التى"
           ],
-          "explanation": "المصطلح الصحيح هو «السفر»."
+          "explanation": "الاسم الموصول هو «التي»."
         }
       ],
       "passThreshold": 0.8
@@ -8560,85 +8580,89 @@
     "subject": "arabic",
     "unit": 14,
     "lessonNumber": 4,
-    "title": "السفر والسياحة وأفعال الحركة (Travel & Motion Verbs) (الدرس 4)",
+    "title": "روائع الطبيعة في البيئة والمعالم العربية (Landscapes of the Arab World)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أفعال الانتقال والسفر، وصف المعالم التاريخية، واستخدام الظروف الزمانية والمكانية. (الجزء 4).",
+    "objective": "إتقان وصف المعالم الطبيعية الشهيرة في الوطن العربي (جبال طويق، مغارة جعيتا، واحة سيوة، وادي رم) وتوظيف الأسماء الموصولة في الوصف الجغرافي.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يزخر العالم العربي بروائع طبيعية تأسر الألباب وتجسد تنوع البيئات من المحيط إلى الخليج:\n\nأولاً: معالم طبيعية عربية خالدة:\n1.【جِبَالُ طُوَيْقٍ (Tuwaiq Mountains - السعودية)】: جبال شامخة في قلب نجد تمتد كطوق صخري مهيب («همة السعوديين كجبل طويق»).\n2.【مَغَارَةُ جَعِيتَا (Jeita Grotto - لبنان)】: جوهرة طبيعية كلسية تحت الأرض تضم صواعد وهوابط صخرية ساحرة وبحيرة جوفية نقية.\n3.【وَاحَةُ سِيوَةَ (Siwa Oasis - مصر)】: واحة نخيل تاريخية عريقة في الصحراء الغربية تشتهر بالعيون العذبة والبحيرات الملحية الاستشفائية.\n4.【وَادِي رَمٍّ (Wadi Rum - الأردن)】: وادي القمر ذو الجبال الرملية والصخرية الشاهقة والرمال الحمراء البديعة.\n\nثانياً: التراكيب الوصفية بالأسماء الموصولة:\n- «هٰذِهِ هِيَ المَعَالِمُ **الَّتِي** تَشْهَدُ عَلَى رَوْعَةِ الطَّبِيعَةِ».\n- «يَقْصِدُ السُّيَّاحُ الوَادِيَ **الَّذِي** يَسْحَرُ العُيُونَ بِجَمَالِهِ».\n- «نُكَبِّرُ الرَّحَّالَةَ **الَّذِينَ** اسْتَكْشَفُوا أَعْمَاقَ الصَّحْرَاءِ».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)» بأسلوب أكاديمي دقيق (14.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)' to students in an accurate academic style."
+          "target": "تَشْتَهِرُ مَغَارَةُ جَعِيتَا الَّتِي تَقَعُ فِي لُبْنَانَ بِتَشَكُّلَاتِهَا الصَّخْرِيَّةِ السَّاحِرَةِ وَمِيَاهِهَا الجَوْفِيَّةِ النَّقِيَّةِ.(Tashtahiru maghāratu Jaʿītā al-latī taqaʿu fī Lubnāna bi-tashakkulātihā aṣ-ṣakhriyyati as-sāḥirati wa-miyāhihā al-jawfiyyati an-naqiyyah.)",
+          "reading": "[taʃ.ta.hi.ru ma.ɣaː.ra.tu ʒa.ʕiː.taː‿l.la.tiː ta.qa.ʕu fiː lub.naː.na bi.ta.ʃak.ku.laː.ti.haː‿sˤ.sˤax.rij.ja.ti‿s.saː.ħi.ra.ti wa.mi.jaː.hi.haː‿l.ʒaw.fij.ja.ti‿n.na.qij.jah] (Tash-ta-hi-ru ma-ghā-ra-tu Ja-ʿī-tā al-la-tī ta-qa-ʿu fī Lub-nā-na bi-ta-shak-ku-lā-ti-hā aṣ-ṣakh-riy-ya-ti as-sā-ḥi-ra-ti wa-mi-yā-hi-hā al-jaw-fiy-ya-ti an-na-qiy-yah.)",
+          "translation": "Jeita Grotto, which is located in Lebanon, is famous for its magical rock formations and its pure underground water."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (14.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تُعَدُّ جِبَالُ طُوَيْقٍ العِمْلَاقَةُ الَّتِي تَمْتَدُّ فِي نَجْدٍ رَمْزًا لِلصُّمُودِ وَالشُّمُوخِ وَالهِمَّةِ العَالِيَةِ.(Tuʿaddu jibālu Ṭuwayqin al-ʿimlāqatu al-latī tamtaddu fī Najdin ramzan li-ṣ-ṣumūdi wa-ash-shumūkhi wa-al-himmati al-ʿāliyah.)",
+          "reading": "[tu.ʕad.du ʒi.baː.lu tˤu.waj.qin‿l.ʕim.laː.qa.tu‿l.la.tiː tam.tad.du fiː naʒ.din ram.zan lisˤ.sˤu.muː.di waʃ.ʃu.muː.xi wal.him.ma.ti‿l.ʕaː.li.jah] (Tu-ʿad-du ji-bā-lu Ṭu-way-qin al-ʿim-lā-qa-tu al-la-tī tam-tad-du fī Naj-din ram-zan li-ṣ-ṣu-mū-di wa-ash-shu-mū-khi wa-al-him-ma-ti al-ʿā-li-yah.)",
+          "translation": "The gigantic Tuwaiq Mountains, which extend in Najd, are considered a symbol of resilience, loftiness, and high resolve."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (14.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تَضُمُّ وَاحَةُ سِيوَةَ الَّتِي تَسْتَقِرُّ فِي الصَّحْرَاءِ الغَرْبِيَّةِ عُيُونَ مِيَاهٍ عَذْبَةٍ تُحِيطُ بِهَا أَشْجَارُ النَّخِيلِ البَاسِقَاتِ.(Taḍummu wāḥatu Sīwata al-latī tastaqirru fī aṣ-ṣaḥrāʾi al-gharbiyyati ʿuyūna miyāhin ʿadhbatin tuḥīṭu bi-hā ashjāru an-nakhīli al-bāsiqāt.)",
+          "reading": "[ta.dˤum.mu waː.ħa.tu siː.wa.ta‿l.la.tiː tas.ta.qir.ru fiː‿sˤ.sˤaħ.raː.ʔi‿l.ɣar.bij.ja.ti ʕu.juː.na mi.jaː.hin ʕað.ba.tin tu.ħiː.tˤu bi.haː ʔaʃ.ʒaː.ru‿n.na.xiː.li‿l.baː.si.qaːt] (Ta-ḍum-mu wā-ḥa-tu Sī-wa-ta al-la-tī tas-ta-qir-ru fī aṣ-ṣaḥ-rā-ʾi al-ghar-biy-ya-ti ʿu-yū-na mi-yā-hin ʿadh-ba-tin tu-ḥī-ṭu bi-hā ash-jā-ru an-na-khī-li al-bā-si-qāt.)",
+          "translation": "Siwa Oasis, which rests in the Western Desert, includes fresh water springs surrounded by towering palm trees."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (14.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "إِنَّ التَّنَوُّعَ الجُغْرَافِيَّ الَّذِي يَمْتَدُّ مِنَ المُحِيطِ الأَطْلَسِيِّ إِلَى الخَلِيجِ العَرَبِيِّ يُشَكِّلُ لَوْحَةً طَبِيعِيَّةً فَرِيدَةً.(Inna at-tanawwuʿa al-jughrāfiyya al-ladhī yamtaddu min al-muḥīṭi al-aṭlasiyyi ilā al-khalīji al-ʿarabiyyi yushakkilu lawḥatan ṭabīʿiyyatan farīdah.)",
+          "reading": "[ʔin.na‿t.ta.naw.wu.ʕa‿l.ʒuɣ.raː.fij.ja‿l.la.ðiː jam.tad.du mi.na‿l.mu.ħiː.tˤi‿l.ʔatˤ.la.sij.ji ʔi.laː‿l.xa.liː.ʒi‿l.ʕa.ra.bij.ji ju.ʃak.ki.lu law.ħa.tan tˤa.biː.ʕij.ja.tan fa.riː.dah] (In-na at-ta-naw-wu-ʿa al-jugh-rā-fiy-ya al-la-dhī yam-tad-du mi-na al-mu-ḥī-ṭi al-aṭ-la-siy-yi i-lā al-kha-lī-ji al-ʿa-ra-biy-yi yu-shak-ki-lu law-ḥa-tan ṭa-bī-ʿiy-ya-tan fa-rī-dah.)",
+          "translation": "Indeed, the geographical diversity that extends from the Atlantic Ocean to the Arabian Gulf forms a unique natural masterpiece."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مِنْ طُوَيْقٍ لِجَعِيتَا لِسِيوَةَ فِي الصَّحْرَاءْ، مَعَالِمٌ تَزْدَانُ بِالحُسْنِ وَالبَهَاءْ!"
+      ],
+      "culturalNotes": [
+        "الواحات الصحراوية كواحة سيوة وواحة الأحساء شكلت مراكز استقرار حضاري وزراعي وثقافي عريق في قلب الصحاري القاحلة منذ آلاف السنين."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)» (الدرس 4)؟",
+          "prompt": "ما هي السلسلة الجبلية السعودية الشامخة في قلب نجد التي ترمز لعلو الهمة والصمود؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)» بأسلوب أكاديمي دقيق (14.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (14.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (14.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (14.4.w3)"
+            "جِبَالُ طُوَيْقٍ (Tuwaiq Mountains)",
+            "جبال الألب",
+            "جبال الهيمالايا",
+            "جبال الأنديز"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«جِبَالُ طُوَيْقٍ» هي السلسلة الجبلية الشامخة في منطقة الرياض ونجد."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "أين تقع «مَغَارَةُ جَعِيتَا» الطبيعية الكلسية الشهيرة؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "فِي لُبْنَانَ (In Lebanon)",
+            "في المغرب",
+            "في العراق",
+            "في السودان"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«مَغَارَةُ جَعِيتَا» تقع في وادي نهر الكلب في لبنان."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u14-l4):",
+          "prompt": "اختر الجملة التي تصف واحة سيوة وعيون مياهها الطبيعية بأسلوب فصيح وموصول:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (14.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (14.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (14.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (14.4.x3)"
+            "تَسْتَقْبِلُ سِيوَةُ الزَّائِرِينَ الَّذِينَ يَقْصِدُونَ عُيُونَهَا الكِبْرِيتِيَّةَ الَّتِي تُفِيدُ فِي العِلَاجِ وَالِاسْتِجْمَامِ. (Siwa welcomes visitors who head for its sulfur springs which benefit in healing and recreation.)",
+            "سيوا تقع في المحيط الاطلسي بالخطأ الجغرافي",
+            "واحة سيوة تاكل الجبل في المساء",
+            "واحة عيون علاج استجمام سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة توظف «الزَّائِرِينَ الَّذِينَ» و«عُيُونَهَا الَّتِي» بتناسق جغرافي ونحوي متكامل."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)»؟",
+          "prompt": "ما هي الواحة التي تتميز بآلاف أشجار النخيل والعيون العذبة في قلب الصحراء؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (14.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (14.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (14.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (14.4.y3)"
+            "الوَاحَةُ (The Oasis)",
+            "الشلال المالح",
+            "القمة الجليدية",
+            "المحيط المتجمد"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الوَاحَةُ» هي البقعة الخضراء الخصبة ذات المياه العذبة في قلب الصحراء."
         }
       ]
     },
@@ -8646,24 +8670,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 14-4)؟",
+          "prompt": "اختر النص الذي يبرز معالم الطبيعة العربية وتاريخها بالأسماء الموصولة البليغة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (14.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (14.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (14.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (14.4.z3)"
+            "تَزْخَرُ البِلَادُ العَرَبِيَّةُ بِالمَعَالِمِ الطَّبِيعِيَّةِ الَّتِي تَأْسِرُ الأَلْبَابَ؛ فَمِنْ جِبَالِ طُوَيْقٍ الَّتِي تُعَانِقُ المَجْدَ، إِلَى مَغَارَةِ جَعِيتَا الَّتِي نَحَتَهَا المَاءُ عَبْرَ العُصُورِ، لَوْحَةٌ تَمْتَدُّ لِتُلْهِمَ الرَّحَّالَةَ الَّذِينَ يَعْشَقُونَ سِحْرَ الكَوْنِ. (Arab lands abound with natural landmarks which captivate minds; from Tuwaiq Mountains which embrace glory, to Jeita Grotto which water carved across ages, a masterpiece extending to inspire travelers who love the universe's charm.)",
+            "تزخر البلاد العربية بالافعال الماضية فقط بلا معالم ولا رحالة.",
+            "طويق جعيتا سيوة معالم رحالة سكون فتحة ضمة كسرة.",
+            "اندثرت جميع المعالم الطبيعية ولم يعد يزورها احد."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين وصف المعالم الطبيعية واستخدام الأسماء الموصولة «المَعَالِم الَّتِي»، «جِبَال طُوَيْق الَّتِي»، «مَغَارَة جَعِيتَا الَّتِي»، «الرَّحَّالَة الَّذِينَ» بجزالة وفصاحة باهرة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u14-l4) باللغة العربية (مثال: «السفر»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم البقعة الخضراء ذات المياه والنخيل في وسط الصحراء (اكتب: «واحة» أو «الواحة»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "السفر",
-            "السفر"
+            "واحة",
+            "الواحة",
+            "وَاحَةٌ",
+            "وَاحَة",
+            "الوَاحَةُ"
           ],
-          "explanation": "المصطلح الصحيح هو «السفر»."
+          "explanation": "المعلم هو «واحة» أو «الواحة»."
         }
       ],
       "passThreshold": 0.8
@@ -8674,85 +8701,89 @@
     "subject": "arabic",
     "unit": 14,
     "lessonNumber": 5,
-    "title": "السفر والسياحة وأفعال الحركة (Travel & Motion Verbs) (الدرس 5)",
+    "title": "حوار الاستكشاف الجغرافي والبيئي العربي (Arab Geographical Exploration Dialogue)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أفعال الانتقال والسفر، وصف المعالم التاريخية، واستخدام الظروف الزمانية والمكانية. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة الرابعة عشرة: التضاريس والمعالم الجغرافية، الفصول والطقس، الأسماء الموصولة (الذي، التي، الذين)، ووصف المعالم العربية في حوار وثائقي متكامل.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة الرابعة عشرة من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس ندمج جميع المكتسبات اللغوية والجغرافية في حوار وثائقي استكشافي رفيع يدور بين أستاذ الجغرافيا (الدكتور كمال) والباحثة البيئية (الأستاذة ريم) خلال التحضير لإنتاج فيلم وثائقي عن التنوع الطبيعي والمناخي في الوطن العربي:\n\nمحاور النص الحواري الشامل:\n1.【معجم التضاريس والبيئات الجغرافية】: نَهْرُ النِّيلِ، جِبَالُ الأَطْلَسِ، صَحْرَاءُ الرُّبْعِ الخَالِي، سَوَاحِلُ البَحْرِ الأَبْيَضِ المُتَوَسِّطِ.\n2.【حالات الطقس والفصول والمناخ】: الطَّقْسُ المُعْتَدِلُ، الأَمْطَارُ الغَزِيرَةُ، فَصْلُ الشِّتَاءِ، فَصْلُ الرَّبِيعِ، نَسِيمُ البَحْرِ.\n3.【التطبيق الدقيق للأسماء الموصولة】: «نَهْرُ النِّيلِ الَّذِي يَمْنَحُ الحَيَاةَ»، «قِمَمُ الأَطْلَسِ الَّتِي يَكْسُوهَا الجَلِيدُ»، «الجُغْرَافِيُّونَ الَّذِينَ يُوَثِّقُونَ الطَّبِيعَةَ».\n4.【الاعتزاز بالتنوع البيئي والجغرافي العربي】: حماية الموارد الطبيعية وتوثيق روائع البيئة.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)» بأسلوب أكاديمي دقيق (14.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)' to students in an accurate academic style."
+          "target": "مَرْحَبًا دُكْتُور كَمَال، مَا هِيَ المَعَالِمُ الجُغْرَافِيَّةُ الَّتِي سَتَشْمَلُهَا جَوْلَتُنَا الِاسْتِكْشَافِيَّةُ؟(Marḥaban duktūr Kamāl, mā hiya al-maʿālimu al-jughrāfiyyatu al-latī satashmaluhā jawlatunā al-istikshāfiyyah?)",
+          "reading": "[mar.ħa.ban duk.tuːr ka.maːl, maː hi.ja‿l.ma.ʕaː.li.mu‿l.ʒuɣ.raː.fij.ja.tu‿l.la.tiː sa.taʃ.ma.lu.haː ʒaw.la.tu.naː‿l.ʔis.tik.ʃaː.fij.jah?] (Mar-ḥa-ban duk-tūr Ka-māl, mā hi-ya al-ma-ʿā-li-mu al-jugh-rā-fiy-ya-tu al-la-tī sa-tash-ma-lu-hā jaw-la-tu-nā al-is-tik-shā-fiy-yah?)",
+          "translation": "Hello Dr. Kamal, what are the geographical landmarks which our exploratory tour will include?"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (14.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "سَنَبْدَأُ مِنْ نَهْرِ النِّيلِ الَّذِي يَمْنَحُ الحَيَاةَ لِلأَرْضِ، ثُمَّ نَصْعَدُ إِلَى قِمَمِ الأَطْلَسِ الَّتِي يَكْسُوهَا الجَلِيدُ شِتَاءً.(Sanabdaʾu min nahri an-Nīli al-ladhī yamnaḥu al-ḥayāta li-l-arḍ, thumma naṣʿadu ilā qimami al-Aṭlasi al-latī yaksūhā al-jalīdu shitāʾan.)",
+          "reading": "[sa.nab.da.ʔu min nah.ri‿n.niː.li‿l.la.ðiː jam.na.ħu‿l.ħa.jaː.ta lil.ʔardˤ, θum.ma nasˤ.ʕa.du ʔi.laː qi.ma.mi‿l.ʔatˤ.la.si‿l.la.tiː jak.suː.haː‿l.ʒa.liː.du ʃi.taː.ʔan] (Sa-nab-da-ʾu min nah-ri an-Nī-li al-la-dhī yam-na-ḥu al-ḥa-yā-ta li-l-arḍ, thum-ma naṣ-ʿa-du i-lā qi-ma-mi al-Aṭ-la-si al-la-tī yak-sū-hā al-ja-lī-du shi-tā-ʾan.)",
+          "translation": "We will start from the Nile River which grants life to the land, then we climb to the Atlas peaks which ice covers in winter."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (14.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "الطَّقْسُ فِي هٰذِهِ المَنَاطِقِ الجَبَلِيَّةِ يَكُونُ بَارِدًا وَمُمْطِرًا، بَيْنَمَا تَتَمَيَّزُ الصَّحْرَاءُ بِجَوٍّ دَافِئٍ وَمُشْمِسٍ.(Aṭ-ṭaqsu fī hādhihi al-manāṭiqi al-jabaliyyati yakūnu bāridan wa-mumṭiran, baynamā tatamayyazu aṣ-ṣaḥrāʾu bi-jawwin dāfiʾin wa-mushmis.)",
+          "reading": "[atˤ.tˤaq.su fiː haː.ði.hi‿l.ma.naː.tˤi.qi‿l.ʒa.ba.lij.ja.ti ja.kuː.nu baː.ri.dan wa.mum.tˤi.ran, baj.na.maː ta.ta.maj.ja.zu‿sˤ.sˤaħ.raː.ʔu bi.ʒaw.win daː.fi.ʔin wa.muʃ.mis] (Aṭ-ṭaq-su fī hā-dhi-hi al-ma-nā-ṭi-qi al-ja-ba-liy-ya-ti ya-kū-nu bā-ri-dan wa-mum-ṭi-ran, bay-na-mā ta-ta-may-ya-zu aṣ-ṣaḥ-rā-ʾu bi-jaw-win dā-fi-ʾin wa-mush-mis.)",
+          "translation": "The weather in these mountainous regions is cold and rainy, while the desert is characterized by warm and sunny weather."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (14.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "نُحَيِّي الجُغْرَافِيِّينَ الَّذِينَ يَجُوبُونَ هٰذِهِ البِقَاعَ لِتَوْثِيقِ هٰذَا التَّنَوُّعِ الطَّبِيعِيِّ البَدِيعِ.(Nuḥayyī al-jughrāfiyyīna al-ladhīna yajūbūna hādhihi al-biqāʿa li-tawthīqi hādhā at-tanawwuʿi aṭ-ṭabīʿiyyi al-badīʿ.)",
+          "reading": "[nu.ħaj.jiː‿l.ʒuɣ.raː.fij.jiː.na‿l.la.ðiː.na ja.ʒuː.buː.na haː.ði.hi‿l.bi.qaː.ʕa li.taw.θiː.qi haː.ðaː‿t.ta.naw.wu.ʕi‿tˤ.tˤa.biː.ʕij.ji‿l.ba.diːʕ] (Nu-ḥay-yī al-jugh-rā-fiy-yī-na al-la-dhī-na ya-jū-bū-na hā-dhi-hi al-bi-qā-ʿa li-taw-thī-qi hā-dhā at-ta-naw-wu-ʿi aṭ-ṭa-bī-ʿiy-yi al-ba-dīʿ.)",
+          "translation": "We salute geographers who traverse these lands to document this marvelous natural diversity."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فِي رِحْلَةِ النِّيلِ وَالجِبَالِ تَجَلَّتِ الأَسْمَاءْ: مَوْصُولَةٌ تَصِفُ المَنَاخَ وَالطَّقْسَ وَالأَرْجَاءْ!"
+      ],
+      "culturalNotes": [
+        "علماء الجغرافيا والخرائط العرب كالإدريسي وياقوت الحموي وضعوا أدق المؤلفات والخرائط التي وثقت تضاريس العالم ومناخ أقاليمه بدقة علمية ملهمة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)» (الدرس 5)؟",
+          "prompt": "في الحوار الشامل، ما هو المعلم المائي الطبيعي الذي ستبدأ منه الجولة الاستكشافية؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)» بأسلوب أكاديمي دقيق (14.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (14.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (14.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (14.5.w3)"
+            "نَهْرُ النِّيلِ (The Nile River)",
+            "البحر الميت فقط",
+            "المحيط الهادئ",
+            "مسبح النادي"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "أوضح الدكتور كمال: «سَنَبْدَأُ مِنْ نَهْرِ النِّيلِ الَّذِي يَمْنَحُ الحَيَاةَ لِلأَرْضِ»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي حالة الطقس في المناطق الجبلية العالية خلال فصل الشتاء كما ورد في الحوار؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "بَارِدٌ وَمُمْطِرٌ مَعَ تَسَاقُطِ الجَلِيدِ (Cold and rainy with ice covering)",
+            "حار وجاف جدا",
+            "مشمس بلا اي غيوم",
+            "رطب وخالٍ من الرياح"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "ذكر الحوار أن الطقس في قمم الجبال يكون باردًا وممطرًا وتكسوه الثلوج والجليد شتاءً."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u14-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تصف حب الاستكشاف الجغرافي بالأسماء الموصولة السليمة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (14.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (14.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (14.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (14.5.x3)"
+            "— مَا رَأْيُكِ فِي الجِبَالِ الَّتِي زُرْنَاهَا؟ — إِنَّهَا مَعَالِمُ سَاحِرَةٌ أَبْهَرَتِ المُسْتَكْشِفِينَ الَّذِينَ صَعِدُوا قِمَمَهَا الشَّاهِقَةَ. (— What is your opinion of the mountains which we visited? — They are magical landmarks which amazed the explorers who climbed their towering peaks.)",
+            "— ما رايك في الجبال الذين زرناها؟ بالخطأ في الاسم الموصول لغير العاقل",
+            "— كم حساب التذكرة في السفارة؟",
+            "— جبال مستكشفين صعود سكون فتحة."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة توظف «الجِبَالِ الَّتِي» و«المُسْتَكْشِفِينَ الَّذِينَ» بسبك حواري فصيح وسليم تمامًا."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «السفر والسياحة وأفعال الحركة (Travel & Motion Verbs)»؟",
+          "prompt": "ما هو الهدف الأساسي من الجولة الاستكشافية كما أوضح الباحثان في ختام الحوار؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (14.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (14.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (14.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (14.5.y3)"
+            "تَوْثِيقُ التَّنَوُّعِ الطَّبِيعِيِّ وَالجُغْرَافِيِّ البَدِيعِ (Documenting the marvelous natural and geographical diversity)",
+            "إتلاف البيئة الطبيعية",
+            "البحث عن الأسواق والمجمعات التجارية فقط",
+            "إلغاء الرحلات الوثائقية"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الهدف هو توثيق التنوع الطبيعي والمناخي والجغرافي البديع في البيئات العربية."
         }
       ]
     },
@@ -8760,24 +8791,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 14-5)؟",
+          "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة الرابعة عشرة بأكملها (التضاريس، الفصول والطقس، الأسماء الموصولة، والمعالم العربية):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (14.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (14.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (14.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (14.5.z3)"
+            "انْطَلَقَ الدُّكْتُورُ كَمَال وَالبَاحِثَةُ رِيم فِي جَوْلَةٍ اسْتِكْشَافِيَّةٍ شَمِلَتْ نَهْرَ النِّيلِ الَّذِي يَجْرِي بِالعَذُوبَةِ، وَقِمَمَ الأَطْلَسِ الَّتِي يَكْسُوهَا الثَّلْجُ فِي الشِّتَاءِ، وَصَحْرَاءَ الرُّبْعِ الخَالِي الَّتِي تَتَمَيَّزُ بِطَقْسِهَا الدَّافِئِ المُشْمِسِ، مُعَبِّرَيْنِ عَنْ تَقْدِيرِهِمَا لِلْعُلَمَاءِ الَّذِينَ سَطَّرُوا عِلْمَ الجُغْرَافِيَا وَحَمَوْا سِحْرَ الطَّبِيعَةِ. (Dr. Kamal and the researcher Reem embarked on an exploratory tour including the Nile River which flows with sweetness, the Atlas peaks which snow covers in winter, and the Empty Quarter desert which is characterized by its warm sunny weather, expressing their appreciation for the scientists who wrote the science of geography and protected nature's charm.)",
+            "انطلق الدكتور كمال بالافعال الماضية فقط بلا تضاريس وبلا طقس واسماء موصولة.",
+            "جولة استكشافية نيل اطلس ربع خالي شتاء طقس الذين التي سكون فتحة.",
+            "الغيت الجولة الاستكشافية وعاد الباحثان دون تصوير اي فيلم وثائقي."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج التضاريس الجغرافية، وأحوال الطقس وفصول السنة، والأسماء الموصولة (الذي، التي، الذين)، في سياق سردي بديع وأصيل."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u14-l5) باللغة العربية (مثال: «السفر»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم العلم الذي يدرس التضاريس والمناخ وتوزيع البيئات على سطح الأرض (اكتب: «جغرافيا» أو «الجغرافيا»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "السفر",
-            "السفر"
+            "جغرافيا",
+            "الجغرافيا",
+            "جُغْرَافِيَا",
+            "الجُغْرَافِيَا"
           ],
-          "explanation": "المصطلح الصحيح هو «السفر»."
+          "explanation": "العلم هو «جغرافيا» أو «الجغرافيا»."
         }
       ],
       "passThreshold": 0.8
