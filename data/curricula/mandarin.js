@@ -13377,85 +13377,89 @@
     "subject": "mandarin",
     "unit": 23,
     "lessonNumber": 1,
-    "title": "新闻传媒与当代社会热点 (Media & Contemporary Affairs) (第1讲)",
+    "title": "新华社电头、倒金字塔新闻导语与消息通报句法范式 (Xinhua News Wire Headers, Inverted Pyramid Leads & Reporting Syntax)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：新闻通稿、社论导读、社会经济统计术语及公共政策深度讨论。 (第1部分)。",
+    "objective": "系统掌握现代汉语新闻通稿、权威电头（新华社电/本报讯）、倒金字塔导语五要素句法构型及权威引述动词（指出、强调、通报、透露、获悉）的准确语用规范。",
     "presentation": {
-      "explanation": "",
+      "explanation": "新闻通稿与主流媒体消息是现代汉语客观、权威与高效传播的最高范本，具有严谨的结构范式：\n\n一、新闻权威电头与来源标定：\n1. 标准电头格式：【发稿机构 + 所在地 + （日期） + 电/讯】：\n- 范例：【新华社北京10月25日电】（权威国家通讯社通稿电头）。\n- 范例：【本报讯（记者李明）】（报刊特派记者采写电头）。\n2. 权威信息来源引介句式：\n- 记者从【机构名称】获悉...... / 据【权威人士】透露...... / 据官方数据通报......\n\n二、倒金字塔新闻导语（The Lead）核心句法：\n1. 导语核心法则：在新闻消息的第一句话或第一自然段，开门见山交代核心五要素（何时、何地、何人/机构、何事、何种重大成果或影响）。\n2. 经典高频新闻导语复合句式：\n- 句法框架：【时间状语 + 记者从...获悉，由...自主研制的...在...成功...，标志着我国...实现重大突破/迈上新台阶】。\n\n三、新闻引述与立场转述高频动词谱系：\n1.【客观转述与权威表态】：指出（提出核心论点）、强调（突出重中之重）、表示（表明态度立场）、透露（公布内部或最新细节）、通报（正式公布处理或进展情况）、敦促（正式要求抓紧落实）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的核心语法法则与应用范例 (23.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '新闻传媒与当代社会热点 (Media & Contemporary Affairs)' in simple terms to students at the academic seminar."
+          "target": "新华社北京电：记者从国家航天局获悉，我国新一代重型运载火箭发动机整机热试车圆满成功。(Xīnhuá Shè Běijīng diàn: Jìzhě cóng Guójiā Hángtiānjú huòxī, wǒguó xīn yídài zhòngxíng yùnzǎi huǒjiàn fādòngjī zhěngjī rè shìchē yuánmǎn chénggōng.)",
+          "reading": "[ɕin˥.xwa˧˥ ʂɤ˥˩ peɪ̯˨˩.t͡ɕiŋ˥ tjɛn˥˩: t͡ɕi˥˩.ʈ͡ʂɤ˨˩˦ t͡sʰʊŋ˧˥ kwo˧˥.t͡ɕja˥ xɑŋ˧˥.tʰjɛn˥.t͡ɕy˧˥ xwo˥˩.ɕi˥, wɔ˨˩.kwɔ˧˥ ɕin˥ i˥.taɪ̯˥˩ ʈ͡ʂʊŋ˥˩.ɕiŋ˧˥ jyn˥˩.t͡saɪ̯˨˩˦ xwo˨˩.t͡ɕjɛn˥ fɑŋ˥˩.tʊŋ˥.t͡ɕi˥ ʈ͡ʂəŋ˨˩.t͡ɕi˥ ʐɤ˥˩ ʂɨ˥˩.t͡ʂʰɤ˥ jɥan˧˥.man˨˩˦ ʈ͡ʂʰəŋ˧˥.kʊŋ˥] (Xīn-huá Shè Běi-jīng diàn: Jì-zhě cóng Guó-jiā Háng-tiān-jú huò-xī, wǒ-guó xīn yí-dài zhòng-xíng yùn-zǎi huǒ-jiàn fā-dòng-jī zhěng-jī rè shì-chē yuán-mǎn chéng-gōng.)",
+          "translation": "Xinhua News Agency Beijing Wire: The reporter learned from the China National Space Administration that the overall hot test run of our country's new-generation heavy-lift carrier rocket engine was a complete success."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (23.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "截至目前，全国高新技术企业有效发明专利拥有量突破两百万件，标志着国家创新综合实力迈上新台阶。(Jiézhì mùqián, quánguó gāoxīnjìshù qǐyè yǒuxiào fāmíng zhuānlì yōngyǒuliàng tūpò liǎng bǎi wàn jiàn, biāozhì zhe guójiā chuàngxīn zōnghé shílì mài shang xīn táijiē.)",
+          "reading": "[t͡ɕjɛ˧˥.ʈ͡ʂɨ˥˩ mu˥˩.t͡ɕʰjɛn˧˥, t͡ɕʰyɛn˧˥.kwɔ˧˥ kaʊ̯˥.ɕin˥.t͡ɕi˥˩.ʂu˥˩ t͡ɕʰi˨˩.jɛ˥˩ joʊ̯˨˩˦.ɕjaʊ̯˥˩ fa˥.miŋ˧˥ ʈ͡ʂwaŋ˥.li˥˩ jʊŋ˥.joʊ̯˨˩.ljaŋ˥˩ tʰu˥.pʰwɔ˥˩ ljaŋ˨˩˦ paɪ̯˨˩˦ wan˥˩ t͡ɕjɛn˥˩, pjjaʊ̯˥.ʈ͡ʂɨ˥˩ ʈ͡ʂɤ kwo˧˥.t͡ɕja˥ t͡ʂʰwaŋ˥˩.ɕin˥ t͡sʊŋ˥.xɤ˧˥ ʂɨ˧˥.li˥˩ maɪ̯˥˩ ʂɑŋ ɕin˥ tʰaɪ̯˧˥.t͡ɕjɛ˥] (Jié-zhì mù-qián, quán-guó gāo-xīn-jì-shù qǐ-yè yǒu-xiào fā-míng zhuān-lì yōng-yǒu-liàng tū-pò liǎng bǎi wàn jiàn, biāo-zhì zhe guó-jiā chuàng-xīn zōng-hé shí-lì mài shang xīn tái-jiē.)",
+          "translation": "As of now, the number of valid invention patents owned by high-tech enterprises nationwide has surpassed two million, marking that the country's comprehensive innovation strength has stepped onto a new level."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (23.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "科技部负责人在今日举行的新闻发布会上强调，将进一步优化科研经费管理机制，赋予科学家更大自主权。(Kējìbù fùzérén zài jīnrì jǔxíng de xīnwén fābùhuì shang qiángdiào, jiāng jìnyíbù yōuhuà kēyán jīngfèi guǎnlǐ jīzhì, fùyǔ kēxuéjiā gèng dà zìzhǔquán.)",
+          "reading": "[kʰɤ˥.t͡ɕi˥˩.pu˥˩ fu˥˩.t͡sɤ˧˥.ʐən˧˥ t͡saɪ̯˥˩ t͡ɕin˥.ʐɨ˥˩ t͡ɕy˨˩˦.ɕiŋ˧˥ tɤ ɕin˥.wən˧˥ fa˥.pu˥˩.xweɪ̯˥˩ ʂɑŋ t͡ɕʰjaŋ˧˥.tjaʊ̯˥˩, t͡ɕjɑŋ˥ t͡ɕin˥˩.i˥.pu˥˩ joʊ̯˥.xwa˥˩ kʰɤ˥.jan˧˥ t͡ɕiŋ˥.feɪ̯˥˩ kwaŋ˨˩.li˨˩˦ t͡ɕi˥.ʈ͡ʂɨ˥˩, fu˥˩.y˨˩˦ kʰɤ˥.ɕɥɛ˧˥.t͡ɕja˥ kɤŋ˥˩ ta˥˩ t͡sɨ˥˩.ʈ͡ʂu˨˩˦.t͡ɕʰyɛn˧˥] (Kē-jì-bù fù-zé-rén zài jīn-rì jǔ-xíng de xīn-wén fā-bù-huì shang qiáng-diào, jiāng jìn-yí-bù yōu-huà kē-yán jīng-fèi guǎn-lǐ jī-zhì, fù-yǔ kē-xué-jiā gèng dà zì-zhǔ-quán.)",
+          "translation": "The responsible official of the Ministry of Science and Technology emphasized at the press conference held today that they will further optimize the scientific research funding management mechanism and endow scientists with greater autonomy."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (23.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "新闻通稿倒金字塔结构以精炼导语开门见山交代核心事实，并依托标准电头标定真实权威的信息来源。(Xīnwén tōnggǎo dào-jīnzìtǎ jiégòu yǐ jīngliàn dǎoyǔ kāimén-jiànshān jiāodài héxīn shìshí, bìng yītuō biāozhǔn diàntóu biāodìng zhēnshí quánwēi de xìnxī láiyuán.)",
+          "reading": "[ɕin˥.wən˧˥ tʰʊŋ˥.kaʊ̯˨˩˦ taʊ̯˥˩.t͡ɕin˥.t͡sɨ˥˩.tʰa˨˩˦ t͡ɕjɛ˧˥.koʊ̯˥˩ i˨˩˦ t͡ɕiŋ˥.ljɛn˥˩ taʊ̯˨˩.y˨˩˦ kʰaɪ̯˥.mən˧˥.t͡ɕjɛn˥˩.ʂan˥ t͡ɕjaʊ̯˥.taɪ̯˥˩ xɤ˧˥.ɕin˥ ʂɨ˥˩.ʂɨ˧˥, piŋ˥˩ i˥.tʰwɔ˥ pjaʊ̯˥.ʈ͡ʂwən˨˩˦ tjɛn˥˩.tʰoʊ̯˧˥ pjaʊ̯˥.tiŋ˥˩ ʈ͡ʂən˥.ʂɨ˧˥ t͡ɕʰyɛn˧˥.weɪ̯˥ tɤ ɕin˥.ɕi˥ laɪ̯˧˥.jɥan˧˥] (Xīn-wén tōng-gǎo dào-jīn-zì-tǎ jié-gòu yǐ jīng-liàn dǎo-yǔ kāi-mén-jiàn-shān jiāo-dài hé-xīn shì-shí, bìng yī-tuō biāo-zhǔn diàn-tóu biāo-dìng zhēn-shí quán-wēi de xìn-xī lái-yuán.)",
+          "translation": "The inverted pyramid structure of news press releases uses a concise lead to straightforwardly communicate core facts, and relies on standard wire headers to mark truthful and authoritative information sources."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "电头导语居篇首，五要素全消息陡；指出强调通报准，倒金字塔事实厚！"
+      ],
+      "culturalNotes": [
+        "新闻电头（如「新华社北京X月X日电」）是中国现代传媒法治化与规范化的产物，标志着新闻消息由国家级通讯社权威发布，具有法律公信力与历史档案价值。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」（第1讲）的标准汉语规范？",
+          "prompt": "在新华社权威新闻通稿开头，标注「新华社北京X月X日电」的专业新闻学名称是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的核心语法法则与应用范例 (23.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (23.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (23.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (23.1.w3)"
+            "新闻电头 / 发稿电头 (News wire header: 标定发布机构、地点与日期)",
+            "文章结尾",
+            "读者评论",
+            "广告说明"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「电头」是新闻通讯社发布的标准消息开头，用于明确消息来源与发稿时空。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "倒金字塔结构新闻导语的核心写作要求是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "在篇首第一句话或第一段开门见山交代核心五要素与最重大成果 (State core 5Ws and key achievements upfront)",
+            "把最重要的事情藏在最后一段",
+            "只写天气不写事件",
+            "通篇全是抒情散文没有任何事实"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "倒金字塔结构要求将最重要的核心事实置于导语首段，随后按重要程度递减展开。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的正式语境下，最准确得体的表达是哪一项？（第23.1题）",
+          "prompt": "在新闻转述中，表达发言人对某项关键原则「特别予以着重突出口头表明」时，最准确的引述动词是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (23.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (23.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (23.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (23.1.x3)"
+            "强调 (Emphasize / stress: 强调)",
+            "闲聊",
+            "嘀咕",
+            "随口说"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「强调」是新闻报道中表达对核心政策与原则给予最高度关注的标准引述词。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u23-l1）所要求的高阶语言表达？",
+          "prompt": "请选出下列新闻通稿导语中结构最规范、语体最权威、信息最精炼的一项：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (23.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (23.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (23.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (23.1.y3)"
+            "新华社北京电：记者从国家重大科技攻关领导小组获悉，我国自主研制的超导量子计算机原型机今日成功完成算力升级，标志着我国量子计算跻身世界前列。(标准电头、权威引介、核心成果、标志意义一气呵成)",
+            "今天北京天气挺好，我们听说计算机搞出来了，还挺厉害的。(口语化严重失真)",
+            "标志着世界前列被计算机在领导小组。(语序严重颠倒错乱)",
+            "计算机很厉害在新闻发布会闲聊。(语言粗鄙完全不合新闻体例)"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "首选选项在电头、导语五要素与重大战略意义表述上完全符合新华社通稿的最高规范。"
         }
       ]
     },
@@ -13463,25 +13467,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的掌握程度，请选出表述完全正确的标准范句（测试 23-1）：",
+          "prompt": "请选出下列新闻通稿在倒金字塔导语、引述动词与标志性结句上完全符合权威媒体规范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (23.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (23.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (23.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (23.1.z3)"
+            "新华社北京电：记者从工业和信息化部获悉，截至上月底，我国累计建成开通5G基站逾三百万个，网络规模稳居全球首位。工信部负责人在新闻发布会上强调，将持续深化数字基础设施建设，标志着我国信息通信产业高质量发展迈出坚实步伐。(电头严谨、数据确凿、引述得当、结句宏大，权威新闻通稿典范)",
+            "工信部昨天聊天说建了很多基站，大家觉得挺快，标志着很好。(口语随意极度粗糙)",
+            "5G基站被工信部宣布在昨天开通很多在发布会。(被字句滥用语序破损)",
+            "记者从基站获悉工信部在聊天。(逻辑错乱荒诞)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在新闻电头、权威来源引介、精确数据展示及重大标志性意义的概括上堪称权威新闻典范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u23-l1）的核心关键词（例如「新闻传媒」）：",
+          "prompt": "请输入新闻消息中用于引出重大事件象征着新阶段到来的核心两字动词（例如「」我国科技迈上新台阶，拼音为 biāozhì）：",
           "acceptedAnswers": [
-            "新闻传媒",
-            "新闻传媒与当",
-            "新闻传媒与当代社会热点"
+            "标志",
+            "标志着"
           ],
-          "explanation": "正确的核心关键词为「新闻传媒」。"
+          "explanation": "动词「标志（着）」是现代汉语新闻报道中用于概括重大突破历史意义的最高频规范动词。"
         }
       ],
       "passThreshold": 0.8
@@ -13492,85 +13495,89 @@
     "subject": "mandarin",
     "unit": 23,
     "lessonNumber": 2,
-    "title": "新闻传媒与当代社会热点 (Media & Contemporary Affairs) (第2讲)",
+    "title": "宏观经济、产业升级与统计量化指标语法体系 (Macroeconomics, Industrial Upgrading & Statistical Indicators)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：新闻通稿、社论导读、社会经济统计术语及公共政策深度讨论。 (第2部分)。",
+    "objective": "系统掌握现代汉语宏观经济报告、产业转型分析中的核心统计术语（同比增长、环比增长、增幅收窄/扩大、创历史新高）与前沿经济概念（新质生产力、专精特新、产业链供应链韧性）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "经济分析与统计量化报告是现代汉语中用于科学研判宏观大势、产业结构变迁的核心专业语体：\n\n一、统计量化增减对比核心句法范式：\n1.【同比 (Year-on-Year) 与 环比 (Month-on-Month / Quarter-on-Quarter) 辨析】：\n-「同比增长 (tóngbǐ zēngzhǎng) X%」：与上年同一时期相比增长（例：一季度高技术制造业增加值**同比增长**8.5%）。\n-「环比增长 (huánbǐ zēngzhǎng) X%」：与紧邻的上一统计周期（上一月或上一季）相比增长（例：消费品零售总额**环比增长**0.4%）。\n2.【幅度变动与极值描写】：\n- 增幅收窄 / 增幅扩大（例：CPI涨幅比上月**收窄**0.2个百分点）。\n- 创历史新高 / 创历史同期最好水平 / 稳中有进 / 稳中向好。\n\n二、新时代宏观经济与产业升级核心术语：\n1.【新质生产力 (xīnzhì shēngchǎnlì)】：以科技创新为主导、具有高科技、高效能、高质量特征的先进生产力质态。\n2.【专精特新 (zhuānjīng-tèxīn)】：专业化、精细化、特色化、新颖化（多指科技型中小企业）。\n3.【产业链供应链韧性 (chǎnyèliàn gōngyìngliàn rènxìng)】：抵御外部冲击、保持自主循环的稳定抗风险能力。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的核心语法法则与应用范例 (23.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '新闻传媒与当代社会热点 (Media & Contemporary Affairs)' in simple terms to students at the academic seminar."
+          "target": "数据显示，今年上半年我国战略性新兴产业增加值同比增长百分之八点五，高技术制造业投资持续保持高速增长。(Shùjù xiǎnshì, jīnnián shàngbànnián wǒguó zhànlüèxìng xīnxīng chǎnyè zēngjiāzhí tóngbǐ zēngzhǎng bǎifēnzhī bā diǎn wǔ, gāojìshù zhìzàoyè tóuzī chíxù bǎochí gāosù zēngzhǎng.)",
+          "reading": "[ʂu˥˩.t͡ɕy˥˩ ɕjɛn˨˩.ʂɨ˥˩, t͡ɕin˥.njɛn˧˥ ʂɑŋ˥˩.pan˥˩.njɛn˧˥ wɔ˨˩.kwɔ˧˥ ʈ͡ʂan˥˩.lyɛ˥˩.ɕiŋ˥˩ ɕin˥.ɕiŋ˥ chǎnyè zēngjiāzhí tóngbǐ zēngzhǎng bǎifēnzhī bā diǎn wǔ, gāojìshù zhìzàoyè tóuzī chíxù bǎochí gāosù zēngzhǎng] (Shù-jù xiǎn-shì, jīn-nián shàng-bàn-nián wǒ-guó zhàn-lüè-xìng xīn-xīng chǎn-yè zēng-jiā-zhí tóng-bǐ zēng-zhǎng bǎi-fēn-zhī bā diǎn wǔ, gāo-jì-shù zhì-zào-yè tóu-zī chí-xù bǎo-chí gāo-sù zēng-zhǎng.)",
+          "translation": "Data shows that in the first half of this year, the value-added of our country's strategic emerging industries increased by 8.5% year-on-year, and investment in high-tech manufacturing continued to maintain rapid growth."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (23.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "随着现代化产业体系的纵深推进，高端装备制造与新能源汽车出口量双双创下历史同期最高纪录。(Suízhe xiàndàihuà chǎnyè tǐxì de zòngshēn tuījìn, gāoduān zhuāngbèi zhìzào yǔ xīnnéngyuán qìchē chūkǒuliàng shuāngshuāng chuàngxià lìshǐ tóngqī zuìgāo jìlù.)",
+          "reading": "[sweɪ̯˧˥.ʈ͡ʂɤ ɕjɛn˥˩.taɪ̯˥˩.xwa˥˩ t͡ʂʰan˨˩.jɛ˥˩ tʰi˨˩.ɕi˥˩ tɤ t͡sʊŋ˥˩.ʂən˥ tʰweɪ̯˥.t͡ɕin˥˩, kaʊ̯˥.twan˥ ʈ͡ʂwaŋ˥.peɪ̯˥˩ ʈ͡ʂɨ˥˩.t͡saʊ̯˥˩ y˨˩˦ ɕin˥.nɤŋ˧˥.jɥan˧˥ t͡ɕʰi˥˩.t͡ʂʰɤ˥ ʈ͡ʂʰu˥.kʰoʊ̯˨˩.ljaŋ˥˩ ʂwɑŋ˥.ʂwɑŋ˥ t͡ʂʰwaŋ˥˩.ɕja˥˩ li˥˩.ʂɨ˨˩˦ tʰʊŋ˧˥.t͡ɕʰi˥ t͡sweɪ̯˥˩.kaʊ̯˥ t͡ɕi˥˩.lu˥˩] (Suí-zhe xiàn-dài-huà chǎn-yè tǐ-xì de zòng-shēn tuī-jìn, gāo-duān zhuāng-bèi zhì-zào yǔ xīn-néng-yuán qì-chē chū-kǒu-liàng shuāng-shuāng chuàng-xià lì-shǐ tóng-qī zuì-gāo jì-lù.)",
+          "translation": "With the in-depth advancement of the modern industrial system, the export volumes of high-end equipment manufacturing and new-energy vehicles both set the highest record for the same period in history."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (23.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "专家深入分析指出，加快培育壮大新质生产力，是筑牢实体经济根基、提升产业链供应链韧性的关键举措。(Zhuānjiā shēnrù fēnxī zhǐchū, jiākuài péiyù zhuàngdà xīnzhì shēngchǎnlì, shì zhùláo shítǐ jīngjì gēnjī, tíshēng chǎnyèliàn gōngyìngliàn rènxìng de guānjiàn jǔcuò.)",
+          "reading": "[ʈ͡ʂwan˥.t͡ɕja˥ ʂən˥.ʐu˥˩ fən˥.ɕi˥ ʈ͡ʂɨ˨˩.t͡ʂʰu˥, t͡ɕja˥.kʰwaɪ̯˥˩ pʰeɪ̯˧˥.y˥˩ ʈ͡ʂwaŋ˥˩.ta˥˩ ɕin˥.ʈ͡ʂɨ˥˩ ʂəŋ˥.t͡ʂʰan˨˩.li˥˩, ʂɨ˥˩ ʈ͡ʂu˥˩.laʊ̯˧˥ ʂɨ˧˥.tʰi˨˩˦ t͡ɕiŋ˥.t͡ɕi˥˩ kən˥.t͡ɕi˥, tʰi˧˥.ʂəŋ˥ t͡ʂʰan˨˩.jɛ˥˩.ljɛn˥˩ kʊŋ˥.iŋ˥˩.ljɛn˥˩ ʐən˥˩.ɕiŋ˥˩ tɤ kwan˥.t͡ɕjɛn˥ t͡ɕy˨˩.t͡sʰwɔ˥˩] (Zhuān-jiā shēn-rù fēn-xī zhǐ-chū, jiā-kuài péi-yù zhuàng-dà xīn-zhì shēng-chǎn-lì, shì zhù-láo shí-tǐ jīng-jì gēn-jī, tí-shēng chǎn-yè-liàn gōng-yìng-liàn rèn-xìng de guān-jiàn jǔ-cuò.)",
+          "translation": "Experts pointed out in an in-depth analysis that accelerating the cultivation and expansion of new quality productive forces is a key measure to solidify the foundation of the real economy and enhance the resilience of industrial and supply chains."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (23.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "「同比」与「环比」是宏观经济统计分析中刻画发展趋势与增长周期的核心对比指标。( 'Tóngbǐ' yǔ 'huánbǐ' shì hóngguān jīngjì tǒngjì fēnxī zhōng kèhuà fāzhǎn qūshì yǔ zēngzhǎng zhōuqī de héxīn duìbǐ zhǐbiāo.)",
+          "reading": "[ 'tʰʊŋ˧˥.pi˨˩˦' y˨˩˦ 'xwan˧˥.pi˨˩˦' ʂɨ˥˩ xʊŋ˧˥.kwan˥ t͡ɕiŋ˥.t͡ɕi˥˩ tʰʊŋ˨˩.t͡ɕi˥˩ fən˥.ɕi˥ ʈ͡ʂʊŋ˥ kʰɤ˥˩.xwa˥˩ fa˥.ʈ͡ʂan˨˩˦ t͡ɕʰy˥.ʂɨ˥˩ y˨˩˦ t͡səŋ˥.ʈ͡ʂɑŋ˨˩˦ ʈ͡ʂoʊ̯˥.t͡ɕʰi˥ tɤ xɤ˧˥.ɕin˥ tweɪ̯˥˩.pi˨˩˦ ʈ͡ʂɨ˨˩.pjaʊ̯˥] ( 'Tóng-bǐ' yǔ 'huán-bǐ' shì hóng-guān jīng-jì tǒng-jì fēn-xī zhōng kè-huà fā-zhǎn qū-shì yǔ zēng-zhǎng zhōu-qī de hé-xīn duì-bǐ zhǐ-biāo.)",
+          "translation": "'Year-on-year' and 'month-on-month' are core comparative indicators depicting development trends and growth cycles in macroeconomic statistical analysis."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "同比上年同期比，环比相连周期析；增幅收窄创新高，新质生产力筑基！"
+      ],
+      "culturalNotes": [
+        "「新质生产力」是当代中国经济学理论的重大创新，强调脱离传统要素驱动模式，依靠高科技原创性突破构建现代产业新高地。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」（第2讲）的标准汉语规范？",
+          "prompt": "在经济统计报告中，将「今年3月份的数据与去年3月份的数据」进行对比，所使用的专业统计术语是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的核心语法法则与应用范例 (23.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (23.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (23.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (23.2.w3)"
+            "同比 (Year-on-year: 与上年同期相比)",
+            "环比 (与上一连续周期相比)",
+            "自比",
+            "反比"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「同比」专门指与上年同一历史时期的数据进行对比。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "将「今年3月份的数据与今年2月份的数据」进行紧邻周期的环扣对比，所使用的专业术语是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "环比 (Period-on-period / Month-on-month: 与紧邻上一周期相比)",
+            "同比",
+            "正比",
+            "虚比"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「环比」是指与紧接在前的相邻统计周期进行对比。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的正式语境下，最准确得体的表达是哪一项？（第23.2题）",
+          "prompt": "在宏观经济描述中，表达某种经济指标达到了有记录以来的最高峰值，最地道规范的表达是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (23.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (23.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (23.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (23.2.x3)"
+            "创历史新高 / 创历史同期最好水平 (Hit a record high / set a new historical record)",
+            "高得不得了",
+            "非常厉害地高",
+            "高到了天上"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「创历史新高」是经济统计分析中表达达到最高峰值的标准规范术语。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u23-l2）所要求的高阶语言表达？",
+          "prompt": "专业术语「专精特新」中包含的四大核心特征是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (23.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (23.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (23.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (23.2.y3)"
+            "专业化、精细化、特色化、新颖化 (Specialized, Refined, Distinctive, Innovative)",
+            "专利多、精力好、特殊大、新闻多",
+            "专门做、精神好、特别贵、新建的",
+            "专车开、精品买、特效看、新生儿"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「专精特新」是中国扶持科技创新型中小企业的核心标准术语（专业化、精细化、特色化、新颖化）。"
         }
       ]
     },
@@ -13578,25 +13585,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的掌握程度，请选出表述完全正确的标准范句（测试 23-2）：",
+          "prompt": "请选出下列宏观经济统计与产业升级分析语段中术语运用最精准、逻辑链条最严密的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (23.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (23.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (23.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (23.2.z3)"
+            "国家统计局最新公布的数据显示，今年前三季度高技术制造业增加值同比增长百分之九点一，战略性新兴产业投资增幅持续扩大。各地通过加快培育壮大新质生产力，有力推动了专精特新中小企业集聚发展，进一步增强了产业链供应链的自主可控与安全韧性！(同比、增幅扩大、新质生产力、专精特新、产业链韧性，经济分析语体臻于专业化极致)",
+            "数据显示高技术挺好，环比去年增加了，大家觉得新质生产力很不错。(混淆环比与去年，语言粗浅)",
+            "新质生产力被专精特新增加在增幅收窄。(术语堆砌逻辑错乱)",
+            "同比增长了专精特新在制造业。(语法严重搭配不当)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段在统计指标对比、产业升级动能及新质生产力战略术语的运用上达到了专业国家级经济分析师的标准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u23-l2）的核心关键词（例如「新闻传媒」）：",
+          "prompt": "请输入当代中国经济学中指称以创新为主导的先进生产力质态的核心五字专业术语（例如培育壮大「」，拼音为 xīnzhì shēngchǎnlì）：",
           "acceptedAnswers": [
-            "新闻传媒",
-            "新闻传媒与当",
-            "新闻传媒与当代社会热点"
+            "新质生产力"
           ],
-          "explanation": "正确的核心关键词为「新闻传媒」。"
+          "explanation": "词语「新质生产力」是当代中国经济高质量发展与科技赋能产业的核心纲领性术语。"
         }
       ],
       "passThreshold": 0.8
@@ -13607,85 +13612,89 @@
     "subject": "mandarin",
     "unit": 23,
     "lessonNumber": 3,
-    "title": "新闻传媒与当代社会热点 (Media & Contemporary Affairs) (第3讲)",
+    "title": "人工智能伦理、数字经济与前沿科技治理法治体系 (AI Ethics, Digital Economy & Frontier Tech Governance)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：新闻通稿、社论导读、社会经济统计术语及公共政策深度讨论。 (第3部分)。",
+    "objective": "系统掌握现代汉语人工智能伦理治理、数字经济合规与前沿算法法律规制的核心术语与论说句式（生成式人工智能、算法偏见、科技向善、划定底线红线、包容审慎监管）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "人工智能与数字经济治理是当代中文政论与法治学术的前沿高地，兼具高度的技术专业性与伦理哲理性：\n\n一、人工智能与前沿数字技术核心术语：\n1.【生成式人工智能 (shēngchéngxìng réngōng-zhìnéng)】：Generative AI（如大语言模型、文生图算法等）。\n2.【深度伪造 (shēndù wěizào)】：Deepfake（通过算法恶意篡改音视频人脸等）。\n3.【算法偏见 (suànfǎ piānjiàn)】与【数据投毒】：算法训练数据中的系统性偏差或恶意污染。\n\n二、科技伦理治理与法律规制核心范式：\n1.【科技向善 (kējì xiàngshàn)】：坚持科技创新造福人类、合乎伦理道德良知的崇高价值观。\n2.【划定底线与红线】：明确科技探索不可逾越的法律安全红线（严禁侵犯隐私、严禁危害国家安全与公共利益）。\n3.【包容审慎监管 (bāoróng shěnshèn jiānguǎn)】：在鼓励新技术初期探索创新与防范系统性风险之间寻求动态平衡的科学监管模式。\n\n三、治理政策核心论述动词：\n- 出台（法规）、规范（秩序）、厘清（权责）、规制（算法）、筑牢（安全防线）、防范（化解风险）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的核心语法法则与应用范例 (23.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '新闻传媒与当代社会热点 (Media & Contemporary Affairs)' in simple terms to students at the academic seminar."
+          "target": "国家多部门联合出台生成式人工智能服务管理暂行办法，明确划定了科技伦理底线与数据安全红线。(Guójiā duō bùmén liánhé chūtái shēngchéngxìng réngōng-zhìnéng fúwù guǎnlǐ zànxíng bànfǎ, míngquè huàdìng le kējì lúnlǐ dǐxiàn yǔ shùjù ānquán hóngxiàn.)",
+          "reading": "[kwo˧˥.t͡ɕja˥ twɔ˥ pu˥˩.mən˧˥ ljɛn˧˥.xɤ˧˥ ʈ͡ʂʰu˥.tʰaɪ̯˧˥ ʂəŋ˥.ʈ͡ʂʰəŋ˧˥.ɕiŋ˥˩ ʐən˧˥.kʊŋ˥.ʈ͡ʂɨ˥˩.nɤŋ˧˥ fu˧˥.u˥˩ kwaŋ˨˩.li˨˩˦ t͡san˥˩.ɕiŋ˧˥ pan˥˩.fa˨˩˦, miŋ˧˥.t͡ɕʰyɛ˥˩ xwa˥˩.tiŋ˥˩ lɤ kʰɤ˥.t͡ɕi˥˩ lwən˧˥.li˨˩˦ ti˨˩.ɕjɛn˥˩ y˨˩˦ ʂu˥˩.t͡ɕy˥˩ an˥.t͡ɕʰyɛn˧˥ xʊŋ˧˥.ɕjɛn˥˩] (Guó-jiā duō bù-mén lián-hé chū-tái shēng-chéng-xìng rén-gōng-zhì-néng fú-wù guǎn-lǐ zàn-xíng bàn-fǎ, míng-què huà-dìng le kē-jì lún-lǐ dǐ-xiàn yǔ shù-jù ān-quán hóng-xiàn.)",
+          "translation": "Multiple national departments jointly introduced the Interim Measures for the Management of Generative Artificial Intelligence Services, clearly defining the baseline of technology ethics and the red line of data security."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (23.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "在数字化浪潮迅猛发展的今天，我们既要鼓励算法技术前沿探索，又要切实防范潜在的深度伪造与隐私泄露风险。(Zài shùzìhuà làngcháo xùnměng fāzhǎn de jīntiān, wǒmen jì yào gǔlì suànfǎ jìshù qiányán tànsuǒ, yòu yào qièshí fángfàn qiánzài de shēndù wěizào yǔ yǐnsī xièlòu fēngxiǎn.)",
+          "reading": "[t͡saɪ̯˥˩ ʂu˥˩.t͡sɨ˥˩.xwa˥˩ lɑŋ˥˩.t͡ʂʰaʊ̯˧˥ ɕyn˥˩.məŋ˨˩˦ fa˥.ʈ͡ʂan˨˩˦ tɤ t͡ɕin˥.tʰjɛn˥, wɔ˨˩.mən t͡ɕi˥˩ jaʊ̯˥˩ ku˨˩.li˨˩˦ swan˥˩.fa˨˩˦ t͡ɕi˥˩.ʂu˥˩ t͡ɕʰjɛn˧˥.jan˧˥ tʰan˥.swɔ˨˩˦, joʊ̯˥˩ jaʊ̯˥˩ t͡ɕʰjɛ˥˩.ʂɨ˧˥ fɑŋ˧˥.fan˥˩ t͡ɕʰjɛn˧˥.t͡saɪ̯˥˩ tɤ ʂən˥.tu˥˩ weɪ̯˨˩.t͡saʊ̯˥˩ y˨˩˦ in˨˩.sɨ˥ ɕjɛ˥˩.loʊ̯˥˩ fəŋ˥.ɕjɛn˨˩˦] (Zài shù-zì-huà làng-cháo xùn-měng fā-zhǎn de jīn-tiān, wǒ-men jì yào gǔ-lì suàn-fǎ jì-shù qián-yán tàn-suǒ, yòu yào qiè-shí fáng-fàn qián-zài de shēn-dù wěi-zào yǔ yǐn-sī xiè-lòu fēng-xiǎn.)",
+          "translation": "Today, as the digital wave develops rapidly, we must both encourage frontier exploration of algorithmic technology and practically guard against potential risks of deepfakes and privacy leakage."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (23.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "健全完善前沿科技治理法治体系，旨在实现科技创新与安全监管的动态平衡，确保人工智能科技向善发展。(Jiànquán wánshàn qiányán kējì zhìlǐ fǎzhì tǐxì, zhǐzài shíxiàn kējì chuàngxīn yǔ ānquán jiānguǎn de dòngtài pínghéng, quèbǎo réngōng-zhìnéng kējì xiàngshàn fāzhǎn.)",
+          "reading": "[t͡ɕjɛn˥˩.t͡ɕʰyɛn˧˥ wan˧˥.ʂan˥˩ t͡ɕʰjɛn˧˥.jan˧˥ kʰɤ˥.t͡ɕi˥˩ ʈ͡ʂɨ˥˩.li˨˩˦ fa˨˩.ʈ͡ʂɨ˥˩ tʰi˨˩.ɕi˥˩, ʈ͡ʂɨ˨˩˦.t͡saɪ̯˥˩ ʂɨ˧˥.ɕjɛn˥˩ kʰɤ˥.t͡ɕi˥˩ t͡ʂʰwaŋ˥˩.ɕin˥ y˨˩˦ an˥.t͡ɕʰyɛn˧˥ t͡ɕjaŋ˥.kwan˨˩˦ tɤ tʊŋ˥˩.tʰaɪ̯˥˩ pʰiŋ˧˥.xɤ˧˥, t͡ɕʰɥɛ˥.paʊ̯˨˩˦ ʐən˧˥.kʊŋ˥.ʈ͡ʂɨ˥˩.nɤŋ˧˥ kʰɤ˥.t͡ɕi˥˩ ɕjaŋ˥˩.ʂan˥˩ fa˥.ʈ͡ʂan˨˩˦] (Jiàn-quán wán-shàn qián-yán kē-jì zhì-lǐ fǎ-zhì tǐ-xì, zhǐ-zài shí-xiàn kē-jì chuàng-xīn yǔ ān-quán jiān-guǎn de dòng-tài píng-héng, què-bǎo rén-gōng-zhì-néng kē-jì xiàng-shàn fā-zhǎn.)",
+          "translation": "Soundly perfecting the frontier science and technology governance rule-of-law system aims to achieve a dynamic balance between technological innovation and security supervision, ensuring that artificial intelligence develops toward technology for good."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (23.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "法律规范与行业自律的协同推进，有助于全面厘清各方权利责任边界，构筑健康清朗的数字生态环境。(Fǎlǜ guīfàn yǔ hángyè zìlǜ de xiétóng tuījìn, yǒuzhùyú quánmiàn líqīng gèfāng quánlì zérèn biānjiè, gòuzhù jiànkāng qīnglǎng de shùzì shēngtài huánjìng.)",
+          "reading": "[fa˨˩.ly˥˩ kweɪ̯˥.fan˥˩ y˨˩˦ xɑŋ˧˥.jɛ˥˩ t͡sɨ˥˩.ly˥˩ tɤ ɕjɛ˧˥.tʰʊŋ˧˥ tʰweɪ̯˥.t͡ɕin˥˩, joʊ̯˨˩˦.ʈ͡ʂu˥˩.y˧˥ t͡ɕʰyɛn˧˥.mjɛn˥˩ li˧˥.t͡ɕʰiŋ˥ kɤ˥˩.fɑŋ˥ t͡ɕʰyɛn˧˥.li˥˩ t͡sɤ˧˥.ʐən˥˩ pjɛn˥.t͡ɕjɛ˥˩, koʊ̯˥˩.ʈ͡ʂu˥˩ t͡ɕjɛn˥˩.kʰɑŋ˥ t͡ɕʰiŋ˥.lɑŋ˨˩˦ tɤ ʂu˥˩.t͡sɨ˥˩ ʂəŋ˥.tʰaɪ̯˥˩ xwan˧˥.t͡ɕiŋ˥˩] (Fǎ-lǜ guī-fàn yǔ háng-yè zì-lǜ de xié-tóng tuī-jìn, yǒu-zhù-yú quán-miàn lí-qīng gè-fāng quán-lì zé-rèn biān-jiè, gòu-zhù jiàn-kāng qīng-lǎng de shù-zì shēng-tài huán-jìng.)",
+          "translation": "The collaborative advancement of legal norms and industry self-discipline helps to comprehensively clarify the boundaries of rights and responsibilities of all parties, building a healthy and bright digital ecological environment."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "算法伦理划红线，生成智能管防范；科技向善求平衡，法治自律生态健！"
+      ],
+      "culturalNotes": [
+        "中国在前沿科技法治领域积极探索「包容审慎」与「敏捷治理」路径，既保护自主研发的创新活力，又构筑全方位防范技术伦理风险的制度防火墙。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」（第3讲）的标准汉语规范？",
+          "prompt": "在人工智能法治与伦理讨论中，表达科技探索必须符合人类道德良知、服务人类福祉的核心理念是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的核心语法法则与应用范例 (23.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (23.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (23.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (23.3.w3)"
+            "科技向善 (Technology for good: 科技创新必须造福人类合乎伦理)",
+            "科技为恶",
+            "只讲盈利不顾后果",
+            "完全不受任何伦理约束"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「科技向善」是全球人工智能与科技治理领域公认的崇高伦理价值坐标。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在监管前沿新兴数字技术时，既不一棒子打死扼杀创新、又时刻严密防范系统性风险的监管原则是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "包容审慎监管 (Inclusive and prudent supervision: 鼓励探索与防范风险平衡)",
+            "全面禁止一切研发",
+            "彻底放任不管",
+            "闭门造车"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「包容审慎监管」是中国在数字经济与前沿科技治理中形成的科学监管战略。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的正式语境下，最准确得体的表达是哪一项？（第23.3题）",
+          "prompt": "在法律法规中，表达彻底把各方的权利与责任边界彻底查清楚、梳理分明的专业动词是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (23.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (23.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (23.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (23.3.x3)"
+            "厘清 (Clarify / disentangle: 厘清权责边界)",
+            "糊涂",
+            "混淆",
+            "搅浑"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「厘清（权责边界）」是法治与公文中表达梳理分明、界限清晰的标准用词。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u23-l3）所要求的高阶语言表达？",
+          "prompt": "在涉及大语言模型与文生图技术时，对应的中文专业前沿概念是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (23.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (23.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (23.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (23.3.y3)"
+            "生成式人工智能 (Generative AI: 如大语言模型、多模态生成等)",
+            "计算器工具",
+            "打字机系统",
+            "收音机设备"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「生成式人工智能」是 Generative Artificial Intelligence 的标准官方学术与法律译名。"
         }
       ]
     },
@@ -13693,25 +13702,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的掌握程度，请选出表述完全正确的标准范句（测试 23-3）：",
+          "prompt": "请选出下列人工智能治理与科技伦理论说语段中专业术语最规范、法治逻辑最严密的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (23.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (23.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (23.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (23.3.z3)"
+            "推动数字经济高质量发展，必须健全生成式人工智能全链条治理体系。监管部门既要秉持包容审慎理念以激发算法创新活力，又要坚决划定科技伦理底线与数据安全红线，全面厘清各方权责，确保人工智能始终沿着科技向善的法治轨道健康前行！(生成式智能、包容审慎、伦理红线、厘清权责、科技向善，科技法治论说典范)",
+            "我们要搞人工智能，但是有人造假骗人，所以要管管他们，大家不要做坏事。(语言极度浅陋幼稚)",
+            "包容审慎被红线厘清在生成式智能。(术语严重错乱不通)",
+            "科技向善禁止一切算法探索。(逻辑极端错误违背常理)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段在人工智能前沿科技治理、法治合规与伦理价值维度的论证逻辑达到了国家智库研究报告的水准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u23-l3）的核心关键词（例如「新闻传媒」）：",
+          "prompt": "请输入表达坚持科技创新造福人类、合乎道德良知的核心四字伦理理念（例如坚持「」发展，拼音为 kējì-xiàngshàn）：",
           "acceptedAnswers": [
-            "新闻传媒",
-            "新闻传媒与当",
-            "新闻传媒与当代社会热点"
+            "科技向善"
           ],
-          "explanation": "正确的核心关键词为「新闻传媒」。"
+          "explanation": "词语「科技向善」是当代科技治理与伦理建构中的核心理念与价值指南。"
         }
       ],
       "passThreshold": 0.8
@@ -13722,85 +13729,89 @@
     "subject": "mandarin",
     "unit": 23,
     "lessonNumber": 4,
-    "title": "新闻传媒与当代社会热点 (Media & Contemporary Affairs) (第4讲)",
+    "title": "民生福祉、乡村振兴与生态文明绿色转型叙事 (Livelihood Well-Being, Rural Revitalization & Ecological Green Transition)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：新闻通稿、社论导读、社会经济统计术语及公共政策深度讨论。 (第4部分)。",
+    "objective": "系统掌握现代汉语生态文明建设、乡村振兴战略及民生保障维度的核心高阶表达（绿水青山就是金山银山、精准施策、和美乡村、织密兜牢保障网、人与自然和谐共生）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "生态文明、乡村振兴与民生福祉构成了中国式现代化国家治理最温润、最壮丽的底色：\n\n一、生态文明与绿色低碳发展核心论述：\n1.【绿水青山就是金山银山 (lǜshuǐ-qīngshān jiù shì jīnshān-yínshān)】：阐明生态环境保护与经济社会发展内在统一的至高生态哲学理念。\n2.【人与自然和谐共生 (rén yǔ zìrán héxié gòngshēng)】：摈弃西方「征服自然」的粗放老路，追求万物共生共荣的可持续现代化模式。\n3.【碳达峰与碳中和（双碳战略）】：绿色低碳转型、构建清洁低碳安全高效能源体系。\n\n二、乡村振兴与宜居宜业和美乡村：\n1.【精准施策 (jīngzhǔn shīcè)】：针对不同地域、不同发展阶段采取量身定制、极其精准有效的政策举措。\n2.【宜居宜业和美乡村】：不仅生活宜居、产业宜业，更具有淳朴文明的乡风和谐生态。\n3.【共享发展红利】：让现代化建设成果更多更公平惠及全体人民。\n\n三、民生福祉与社会保障核心句法：\n1.【织密兜牢民生保障网】：以医疗、教育、养老等全覆盖体系托底民生底线。\n2.【交出暖心民生答卷】：以实实在在的获得感、幸福感、安全感回应人民期盼。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的核心语法法则与应用范例 (23.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '新闻传媒与当代社会热点 (Media & Contemporary Affairs)' in simple terms to students at the academic seminar."
+          "target": "坚定不移践行「绿水青山就是金山银山」的发展理念，走出了一条生态保护与经济发展协同共进的绿色转型之路。(Jiāndìng-bùyí jiànxíng 'lǜshuǐ-qīngshān jiù shì jīnshān-yínshān' de fāzhǎn lǐniàn, zǒuchū le yì tiáo shēngtài bǎohù yǔ jīngjì fāzhǎn xiétóng gòngjìn de lǜsè zhuǎnxíng zhī lù.)",
+          "reading": "[t͡ɕjɛn˥.tiŋ˥˩.pu˥.i˧˥ t͡ɕjɛn˥˩.ɕiŋ˧˥ 'ly˥˩.ʂweɪ̯˨˩.t͡ɕʰiŋ˥.ʂan˥ t͡ɕjoʊ̯˥˩ ʂɨ˥˩ t͡ɕin˥.ʂan˥.in˧˥.ʂan˥' tɤ fa˥.ʈ͡ʂan˨˩˦ li˨˩.njɛn˥˩, t͡soʊ̯˨˩˦.t͡ʂʰu˥ lɤ i˥ tʰjaʊ̯˧˥ ʂəŋ˥.tʰaɪ̯˥˩ paʊ̯˨˩.xu˥˩ y˨˩˦ t͡ɕiŋ˥.t͡ɕi˥˩ fa˥.ʈ͡ʂan˨˩˦ ɕjɛ˧˥.tʰʊŋ˧˥ kʊŋ˥˩.t͡ɕin˥˩ tɤ ly˥˩.sɤ˥˩ ʈ͡ʂwan˨˩.ɕiŋ˧˥ ʈ͡ʂɨ˥ lu˥˩] (Jiān-dìng-bù-yí jiàn-xíng 'lǜ-shuǐ-qīng-shān jiù shì jīn-shān-yín-shān' de fā-zhǎn lǐ-niàn, zǒu-chū le yì tiáo shēng-tài bǎo-hù yǔ jīng-jì fā-zhǎn xié-tóng gòng-jìn de lǜ-sè zhuǎn-xíng zhī lù.)",
+          "translation": "Unswervingly practicing the development concept that 'lucid waters and lush mountains are invaluable assets,' we have blazed a green transformation path of synergistic progress between ecological protection and economic development."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (23.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "乡村振兴战略紧紧围绕产业兴旺与生态宜居展开精准施策，让广大农民群众切实共享现代农业发展的丰硕红利。(Xiāngcūn zhènxīng zhànlüè jǐnjǐn wéirào chǎnyè xīngwàng yǔ shēngtài yíjū zhǎnkāi jīngzhǔn shīcè, ràng guǎngdà nóngmín qúnzhòng qièshí gòngxiǎng xiàndài nóngyè fāzhǎn de fēngshuò hónglì.)",
+          "reading": "[ɕjaŋ˥.t͡sʰwən˥ ʈ͡ʂən˥˩.ɕiŋ˥ ʈ͡ʂan˥˩.lyɛ˥˩ t͡ɕin˨˩.t͡ɕin˨˩˦ weɪ̯˧˥.ʐaʊ̯˥˩ t͡ʂʰan˨˩.jɛ˥˩ ɕiŋ˥.wɑŋ˥˩ y˨˩˦ ʂəŋ˥.tʰaɪ̯˥˩ i˧˥.t͡ɕy˥ ʈ͡ʂan˨˩.kʰaɪ̯˥ t͡ɕiŋ˥.ʈ͡ʂwən˨˩˦ ʂɨ˥.t͡sʰɤ˥˩, ʐɑŋ˥˩ kwaŋ˨˩˦.ta˥˩ nʊŋ˧˥.min˧˥ t͡ɕʰyn˧˥.ʈ͡ʂʊŋ˥˩ t͡ɕʰjɛ˥˩.ʂɨ˧˥ kʊŋ˥˩.ɕjaŋ˨˩˦ ɕjɛn˥˩.taɪ̯˥˩ nʊŋ˧˥.jɛ˥˩ fa˥.ʈ͡ʂan˨˩˦ tɤ fəŋ˥.ʂwɔ˥˩ xʊŋ˧˥.li˥˩] (Xiāng-cūn zhèn-xīng zhàn-lüè jǐn-jǐn wéi-rào chǎn-yè xīng-wàng yǔ shēng-tài yí-jū zhǎn-kāi jīng-zhǔn shī-cè, ràng guǎng-dà nóng-mín qún-zhòng qiè-shí gòng-xiǎng xiàn-dài nóng-yè fā-zhǎn de fēng-shuò hóng-lì.)",
+          "translation": "The rural revitalization strategy closely centers on thriving industries and pleasant ecological living to implement targeted policies, allowing the vast peasant masses to practically share the bountiful dividends of modern agricultural development."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (23.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "国家持续织密兜牢民生保障网，在教育、医疗、养老等公共服务领域交出了一份暖人心扉的民生答卷。(Guójiā chíxù zhīmì dōuláo mínshēng bǎozhàngwǎng, zài jiàoyù, yīliáo, yǎnglǎo děng gōnggòng fúwù lǐngyù jiāochū le yí fèn nuǎnrén-xīnfēi de mínshēng dájuàn.)",
+          "reading": "[kwo˧˥.t͡ɕja˥ ʈ͡ʂʰɨ˧˥.ɕy˥˩ ʈ͡ʂɨ˥.mi˥˩ toʊ̯˥.laʊ̯˧˥ min˧˥.ʂəŋ˥ paʊ̯˨˩.ʈ͡ʂɑŋ˥˩.wɑŋ˨˩˦, t͡saɪ̯˥˩ t͡ɕjaʊ̯˥˩.y˥˩, i˥.ljaʊ̯˧˥, jaŋ˨˩.laʊ̯˨˩˦ təŋ˨˩˦ kʊŋ˥.kʊŋ˥˩ fu˧˥.u˥˩ liŋ˨˩.y˥˩ t͡ɕjaʊ̯˥.t͡ʂʰu˥ lɤ i˥ fən˥˩ nwan˨˩.ʐən˧˥.ɕin˥.feɪ̯˥ tɤ min˧˥.ʂəŋ˥ ta˧˥.t͡ɕɥɛn˥˩] (Guó-jiā chí-xù zhī-mì dōu-láo mín-shēng bǎo-zhàng-wǎng, zài jiào-yù, yī-liáo, yǎng-lǎo děng gōng-gòng fú-wù lǐng-yù jiāo-chū le yí fèn nuǎn-rén-xīn-fēi de mín-shēng dá-juàn.)",
+          "translation": "The state continuously wove tightly and held firm the social security net for people's livelihood, delivering a heart-warming livelihood examination paper in public service fields such as education, medical care, and eldercare."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (23.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "坚持以人民为中心的发展思想，要求把实现人民对美好生活的向往作为现代化强国建设的根本出发点和落脚点。(Jiānchí yǐ rénmín wéi zhōngxīn de fāzhǎn sīxiǎng, yāoqiú bǎ shíxiàn rénmín duì měihǎo shēnghuó de xiàngwǎng zuòwéi xiàndàihuà qiángguó jiànshè de gēnběn chūfādiǎn hé luòjiǎodiǎn.)",
+          "reading": "[t͡ɕjɛn˥.ʈ͡ʂʰɨ˧˥ i˨˩˦ ʐən˧˥.min˧˥ weɪ̯˧˥ ʈ͡ʂʊŋ˥.ɕin˥ tɤ fa˥.ʈ͡ʂan˨˩˦ sɨ˥.ɕjaŋ˨˩˦, jaʊ̯˥.t͡ɕʰjoʊ̯˥ pa˨˩˦ ʂɨ˧˥.ɕjɛn˥˩ ʐən˧˥.min˧˥ tweɪ̯˥˩ meɪ̯˨˩.xaʊ̯˨˩˦ ʂəŋ˥.xwo˧˥ tɤ ɕjaŋ˥˩.wɑŋ˨˩˦ t͡swoʊ̯˥˩.weɪ̯˧˥ ɕjɛn˥˩.taɪ̯˥˩.xwa˥˩ t͡ɕʰjaŋ˧˥.kwɔ˧˥ t͡ɕjɛn˥˩.ʂɤ˥˩ tɤ kən˥.pən˨˩ t͡ʂʰu˥.fa˥.tjɛn˨˩˦ xɤ˧˥ lwɔ˥˩.t͡ɕjaʊ̯˨˩.tjɛn˨˩˦] (Jiān-chí yǐ rén-mín wéi zhōng-xīn de fā-zhǎn sī-xiǎng, yāo-qiú bǎ shí-xiàn rén-mín duì měi-hǎo shēng-huó de xiàng-wǎng zuò-wéi xiàn-dài-huà qiáng-guó jiàn-shè de gēn-běn chū-fā-diǎn hé luò-jiǎo-diǎn.)",
+          "translation": "Adhering to the people-centered development philosophy requires taking the realization of the people's yearning for a better life as the fundamental starting point and ultimate goal of building a modern powerful country."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "绿水青山金银山，精准施策乡村欢；织密兜牢民生网，以民为本福泽远！"
+      ],
+      "culturalNotes": [
+        "「绿水青山就是金山银山」深刻继承并升华了中国古代「天人合一」、「道法自然」的生态智慧，体现了中国式现代化不以牺牲生态为代价的崇高文明追求。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」（第4讲）的标准汉语规范？",
+          "prompt": "在生态文明建设与绿色转型中，表达「保护生态环境就是保护生产力、改善生态环境就是发展生产力」的核心经典理念是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的核心语法法则与应用范例 (23.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (23.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (23.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (23.4.w3)"
+            "绿水青山就是金山银山 (Lucid waters and lush mountains are invaluable assets)",
+            "先污染后治理",
+            "只要金钱不要自然",
+            "乱砍滥伐大肆开采"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「绿水青山就是金山银山」是当代中国生态文明建设最核心、影响最深远的科学论断。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在乡村振兴与扶贫开发中，指称「针对不同地区不同情况采取量身定制、极其准确有效措施」的专业词汇是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "精准施策 (Targeted policy implementation: 因地制宜量身定制政策)",
+            "大水漫灌",
+            "一刀切",
+            "不管不问"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「精准施策」是国家治理与乡村振兴中告别粗放治理、追求高精准效能的核心方法论。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的正式语境下，最准确得体的表达是哪一项？（第23.4题）",
+          "prompt": "在民生保障制度建设中，形容「全方位构建严密、兜底、无遗漏社会保障安全防线」的经典生动表述是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (23.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (23.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (23.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (23.4.x3)"
+            "织密兜牢民生保障网 (Weave tightly and hold firm the social security net)",
+            "把网打破",
+            "随意丢弃",
+            "缩减保障"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「织密兜牢民生保障网」是公共政策与民生建设中形容构建多层次保障体系的标准权威修辞。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u23-l4）所要求的高阶语言表达？",
+          "prompt": "中国式现代化与西方以资本为中心现代化最根本的本质区别在于：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (23.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (23.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (23.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (23.4.y3)"
+            "坚持以人民为中心，追求人与自然和谐共生 (People-centered & harmony between humanity and nature)",
+            "追求少数资本寡头垄断",
+            "通过对外掠夺实现富裕",
+            "破坏自然环境换取短暂财富"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "坚持以人民为中心的发展思想是中国式现代化的根本政治立场与核心价值底色。"
         }
       ]
     },
@@ -13808,25 +13819,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的掌握程度，请选出表述完全正确的标准范句（测试 23-4）：",
+          "prompt": "请选出下列民生福祉、乡村振兴与生态文明综合语篇中理念最高远、词章最精粹的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (23.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (23.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (23.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (23.4.z3)"
+            "牢固树立并践行绿水青山就是金山银山的崇高理念，坚定不移走人与自然和谐共生的可持续发展之路。在推进乡村全面振兴中坚持精准施策，持续织密兜牢民生保障网，真正让现代化建设成果更多更公平惠及全体人民！(两山理念、人与自然和谐共生、精准施策、织密兜牢保障网，政治哲学与民生情怀完美融合)",
+            "我们要保护树木，让农民有钱花，给大家建好房子。(语言极其浅陋口语化)",
+            "绿水青山被兜牢在乡村施策。(句式严重破损杂糅错乱)",
+            "只要精准施策，就能破坏环境发财。(逻辑完全背道而驰荒谬)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在生态文明理念、精准乡村振兴战略及以人民为中心的根本立场上达到了国家级政论社论的最高标准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u23-l4）的核心关键词（例如「新闻传媒」）：",
+          "prompt": "请输入当代中国追求现代化建设过程中人与生态环境良性互动的核心八字经典表述（例如实现「」的现代化，前四字为 rén yǔ zìrán 后四字为 héxié gòngshēng）：",
           "acceptedAnswers": [
-            "新闻传媒",
-            "新闻传媒与当",
-            "新闻传媒与当代社会热点"
+            "人与自然和谐共生"
           ],
-          "explanation": "正确的核心关键词为「新闻传媒」。"
+          "explanation": "表述「人与自然和谐共生」是中国式现代化区别于西方传统工业化道路的本质特征之一。"
         }
       ],
       "passThreshold": 0.8
@@ -13837,85 +13846,89 @@
     "subject": "mandarin",
     "unit": 23,
     "lessonNumber": 5,
-    "title": "新闻传媒与当代社会热点 (Media & Contemporary Affairs) (第5讲)",
+    "title": "大国治理、中国式现代化与全球发展公共政策综合叙事篇章 (Comprehensive Public Policy Narrative: National Governance & Chinese Modernization)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：新闻通稿、社论导读、社会经济统计术语及公共政策深度讨论。 (第5部分)。",
+    "objective": "融会贯通权威新闻通报、宏观经济统计量化分析、前沿算法科技治理、乡村振兴与生态文明民生叙事，独立撰写视野宏阔、辞章典雅、思想深邃的大国公共政策与中国式现代化综合语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "本课是当代汉语公共政策与国家治理语体的巅峰集成之作，将传媒通报、经济量化、科技法治与民生生态四大模块无缝熔铸于宏大叙事中：\n\n一、大国治理与中国式现代化全景叙事脉络：\n1. 权威发布与宏观大势（新华社电头与经济统计）：新华社北京电：最新统计显示，我国高新技术制造与战略新兴产业增加值同比增长显著，新质生产力加速培育壮大，经济运行稳中向好、稳步提质。\n2. 前沿科技创新与向善治理（科技法治与算法伦理）：在抢占人工智能与数字经济制高点的同时，国家健全完善法治规制，坚决守牢科技伦理底线，确保前沿算法沿着科技向善的轨道造福社会。\n3. 民生温度与绿色底色（生态文明与民生保障）：坚定践行「绿水青山就是金山银山」理念，在乡村振兴中精准施策，持续织密兜牢民生保障网，走出人与自然和谐共生的高质量发展之路。\n4. 时代升华与大国担当（崇高使命与历史蓝图）：中国式现代化坚持以高质量发展为首要任务，以人民福祉为根本归宿，以深谋远虑的战略定力推动复兴巨轮破浪前行、行稳致远！\n\n二、全景式大国公共政策与现代治理综合范文赏析：\n- 新华社北京电：记者从国家发展和改革委员会获悉，最新宏观经济数据显示，今年前三季度我国战略性新兴产业增加值同比增长百分之八点八，专精特新企业研发投入持续攀升，新质生产力正加速成为驱动经济高质量发展的强劲引擎。面对全球新一轮科技革命与产业变革，国家多部门协同发力，在支持人工智能与数字经济前沿创新的同时，坚持包容审慎监管，明确划定科技伦理底线与数据安全红线，全面构筑起科技向善的法治护栏。与此同频共振的是，生态文明建设与民生保障交出了一份沉甸甸的暖心答卷：各地坚定践行「绿水青山就是金山银山」理念，深入推进和美乡村建设与精准施策，持续织密兜牢多层次社会保障网。大国治理，政简民丰；时代画卷，波澜壮阔。立足新发展阶段，中国式现代化正以人民为中心、以创新为灵魂、以绿色为底色，以自立自强的战略定力推动中华民族伟大复兴的巨轮乘风破浪、行稳致远！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的核心语法法则与应用范例 (23.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '新闻传媒与当代社会热点 (Media & Contemporary Affairs)' in simple terms to students at the academic seminar."
+          "target": "新华社北京电：最新统计公报显示，我国战略性新兴产业增加值同比增长显著，新质生产力加速培育壮大。(Xīnhuá Shè Běijīng diàn: Zuìxīn tǒngjì gōngbào xiǎnshì, wǒguó zhànlüèxìng xīnxīng chǎnyè zēngjiāzhí tóngbǐ zēngzhǎng xiǎnzhù, xīnzhì shēngchǎnlì jiāsù péiyù zhuàngdà.)",
+          "reading": "[ɕin˥.xwa˧˥ ʂɤ˥˩ peɪ̯˨˩.t͡ɕiŋ˥ tjɛn˥˩: t͡sweɪ̯˥˩.ɕin˥ tʰʊŋ˨˩.t͡ɕi˥˩ kʊŋ˥.paʊ̯˥˩ ɕjɛn˨˩.ʂɨ˥˩, wɔ˨˩.kwɔ˧˥ ʈ͡ʂan˥˩.lyɛ˥˩.ɕiŋ˥˩ ɕin˥.ɕiŋ˥ chǎnyè zēngjiāzhí tóngbǐ zēngzhǎng xiǎnzhù, xīnzhì shēngchǎnlì jiāsù péiyù zhuàngdà] (Xīn-huá Shè Běi-jīng diàn: Zuì-xīn tǒng-jì gōng-bào xiǎn-shì, wǒ-guó zhàn-lüè-xìng xīn-xīng chǎn-yè zēng-jiā-zhí tóng-bǐ zēng-zhǎng xiǎn-zhù, xīn-zhì shēng-chǎn-lì jiā-sù péi-yù zhuàng-dà.)",
+          "translation": "Xinhua News Agency Beijing Wire: The latest statistical bulletin shows that the value-added of our country's strategic emerging industries increased significantly year-on-year, and new quality productive forces are accelerating in cultivation and growth."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (23.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "统筹推进高质量发展与前沿科技治理，不仅划定了人工智能伦理安全红线，更为数字经济腾飞提供了坚实法治保障。(Tǒngchóu tuījìn gāozhìliàng fāzhǎn yǔ qiányán kējì zhìlǐ, bùjǐn huàdìng le réngōng-zhìnéng lúnlǐ ānquán hóngxiàn, gèng wèi shùzì jīngjì téngfēi tígōng le jiānshí fǎzhì bǎozhàng.)",
+          "reading": "[tʰʊŋ˨˩.ʈ͡ʂʰoʊ̯˧˥ tʰweɪ̯˥.t͡ɕin˥˩ kaʊ̯˥.ʈ͡ʂɨ˥˩.ljaŋ˥˩ fa˥.ʈ͡ʂan˨˩˦ y˨˩˦ t͡ɕʰjɛn˧˥.jan˧˥ kʰɤ˥.t͡ɕi˥˩ ʈ͡ʂɨ˥˩.li˨˩˦, pu˥.t͡ɕin˨˩˦ xwa˥˩.tiŋ˥˩ lɤ ʐən˧˥.kʊŋ˥.ʈ͡ʂɨ˥˩.nɤŋ˧˥ lwən˧˥.li˨˩˦ an˥.t͡ɕʰyɛn˧˥ xʊŋ˧˥.ɕjɛn˥˩, kɤŋ˥˩ weɪ̯˥˩ ʂu˥˩.t͡sɨ˥˩ t͡ɕiŋ˥.t͡ɕi˥˩ tʰəŋ˧˥.feɪ̯˥ tʰi˧˥.kʊŋ˥ lɤ t͡ɕjɛn˥.ʂɨ˧˥ fa˨˩.ʈ͡ʂɨ˥˩ paʊ̯˨˩.ʈ͡ʂɑŋ˥˩] (Tǒng-chóu tuī-jìn gāo-zhì-liàng fā-zhǎn yǔ qián-yán kē-jì zhì-lǐ, bù-jǐn huà-dìng le rén-gōng-zhì-néng lún-lǐ ān-quán hóng-xiàn, gèng wèi shù-zì jīng-jì téng-fēi tí-gōng le jiān-shí fǎ-zhì bǎo-zhàng.)",
+          "translation": "Coordinating high-quality development with frontier technological governance not only drew the red line for artificial intelligence ethical security, but also provided solid rule-of-law protection for the takeoff of the digital economy."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (23.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "坚定践行以人民为中心的发展思想，在乡村振兴与生态文明建设中走出了一条人与自然和谐共生的现代化新路。(Jiāndìng jiànxíng yǐ rénmín wéi zhōngxīn de fāzhǎn sīxiǎng, zài xiāngcūn zhènxīng yǔ shēngtài wénmíng jiànshè zhōng zǒuchū le yì tiáo rén yǔ zìrán héxié gòngshēng de xiàndàihuà xīnlù.)",
+          "reading": "[t͡ɕjɛn˥.tiŋ˥˩ t͡ɕjɛn˥˩.ɕiŋ˧˥ i˨˩˦ ʐən˧˥.min˧˥ weɪ̯˧˥ ʈ͡ʂʊŋ˥.ɕin˥ tɤ fa˥.ʈ͡ʂan˨˩˦ sɨ˥.ɕjaŋ˨˩˦, t͡saɪ̯˥˩ ɕjaŋ˥.t͡sʰwən˥ ʈ͡ʂən˥˩.ɕiŋ˥ y˨˩˦ ʂəŋ˥.tʰaɪ̯˥˩ wən˧˥.miŋ˧˥ t͡ɕjɛn˥˩.ʂɤ˥˩ ʈ͡ʂʊŋ˥ t͡soʊ̯˨˩˦.t͡ʂʰu˥ lɤ i˥ tʰjaʊ̯˧˥ ʐən˧˥ y˨˩˦ t͡sɨ˥˩.ʐan˧˥ xɤ˧˥.ɕjɛ˧˥ kʊŋ˥˩.ʂəŋ˥ tɤ ɕjɛn˥˩.taɪ̯˥˩.xwa˥˩ ɕin˥.lu˥˩] (Jiān-dìng jiàn-xíng yǐ rén-mín wéi zhōng-xīn de fā-zhǎn sī-xiǎng, zài xiāng-cūn zhèn-xīng yǔ shēng-tài wén-míng jiàn-shè zhōng zǒu-chū le yì tiáo rén yǔ zì-rán hé-xié gòng-shēng de xiàn-dài-huà xīn-lù.)",
+          "translation": "Firmly practicing the people-centered development philosophy, we have walked a new path of modernization where humans and nature coexist in harmony within rural revitalization and ecological civilization construction."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (23.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "大国治理坚持把高质量发展作为首要任务，以深谋远虑的战略定力推动中国式现代化巨轮破浪前行、行稳致远！(Dàguó zhìlǐ jiānchí bǎ gāozhìliàng fāzhǎn zuòwéi shǒuyào rènwù, yǐ shēnmóu-yuǎnlǜ de zhànlüè dìnglì tuīdòng Zhōngguóshì xiàndàihuà jùlún pòlàng-qiánxíng, xíngwěn-zhìyuǎn!)",
+          "reading": "[ta˥˩.kwɔ˧˥ ʈ͡ʂɨ˥˩.li˨˩˦ t͡ɕjɛn˥.ʈ͡ʂʰɨ˧˥ pa˨˩˦ kaʊ̯˥.ʈ͡ʂɨ˥˩.ljaŋ˥˩ fa˥.ʈ͡ʂan˨˩˦ t͡swoʊ̯˥˩.weɪ̯˧˥ ʂoʊ̯˨˩.jaʊ̯˥˩ ʐən˥˩.u˥˩, i˨˩˦ ʂən˥.moʊ̯˧˥.jɥɛn˨˩.ly˥˩ tɤ ʈ͡ʂan˥˩.lyɛ˥˩ tiŋ˥˩.li˥˩ tʰweɪ̯˥.tʊŋ˥˩ ʈ͡ʂʊŋ˥.kwɔ˧˥.ʂɨ˥˩ ɕjɛn˥˩.taɪ̯˥˩.xwa˥˩ t͡ɕy˥˩.lwən˧˥ pʰwɔ˥˩.lɑŋ˥˩.t͡ɕʰjɛn˧˥.ɕiŋ˧˥, ɕiŋ˧˥.wən˨˩˦.ʈ͡ʂɨ˥˩.jɥɛn˨˩˦] (Dà-guó zhì-lǐ jiān-chí bǎ gāo-zhì-liàng fā-zhǎn zuò-wéi shǒu-yào rèn-wù, yǐ shēn-móu-yuǎn-lǜ de zhàn-lüè dìng-lì tuī-dòng Zhōng-guó-shì xiàn-dài-huà jù-lún pò-làng-qián-xíng, xíng-wěn-zhì-yuǎn!)",
+          "translation": "Great nation governance insists on taking high-quality development as the primary task, propelling the giant ship of Chinese modernization to cleave waves and forge ahead with far-sighted strategic resolve, maintaining steady and sustainable progress!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "新华通报传喜讯，新质生产力攀云；向善治理筑底线，中国现代谱新程！"
+      ],
+      "culturalNotes": [
+        "中国式现代化综合叙事篇章融通宏观经济指标、前沿科技法治与生态民生，展现了国家治理体系和治理能力现代化的崇高境界与大国气魄。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」（第5讲）的标准汉语规范？",
+          "prompt": "在国家治理宏大政论语篇中，串联「新华电头/统计数据（宏观动能） -> 算法伦理/科技向善（前沿治理） -> 两山理念/民生答卷（生态底色） -> 中国式现代化行稳致远（时代升华）」的篇章主线是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的核心语法法则与应用范例 (23.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (23.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (23.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (23.5.w3)"
+            "权威消息通报 -> 经济动能剖析 -> 科技法治平衡 -> 生态民生升华 (Comprehensive national governance progression)",
+            "普通体育比赛报道",
+            "商场打折促销活动",
+            "全篇全是病句拼凑"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "语篇严格遵循现代国家治理与公共政策分析从权威通报、经济动能到科技法治与生态民生升华的最高范式。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "成语「行稳致远」在国家战略叙事中的深层含义是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "步伐走得稳健扎实，才能到达遥远的宏伟目标 (Take steady steps to go far and achieve distant goals)",
+            "走路太快摔倒",
+            "站在原地不走",
+            "只看眼前一步路"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「行稳致远」是国家战略与经济社会发展中强调保持战略定力、走稳每一步以实现长远目标的经典成语。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的正式语境下，最准确得体的表达是哪一项？（第23.5题）",
+          "prompt": "请选出下列大国治理与公共政策叙事中术语运用最严整、气度最恢宏的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (23.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (23.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (23.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (23.5.x3)"
+            "新华社北京电：我国战略性新兴产业增加值同比增长势头强劲，新质生产力加速释放。在统筹前沿科技治理划定伦理红线的同时，生态文明与民生保障交出暖心答卷，中国式现代化巨轮正行稳致远！(电头、同比增长、新质生产力、伦理红线、行稳致远，大国政论浑然一体)",
+            "北京发来消息，经济挺好，科技搞得很厉害，大家都很开心。(语言极度贫乏幼稚)",
+            "新质生产力被行稳致远在生态文明。(句式严重破损杂糅)",
+            "划定伦理红线为了让大家不要做实验。(逻辑完全颠倒荒谬)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项在现代高级公共政策语汇的配合上达到了新华社与人民日报头版社论的最高标准。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u23-l5）所要求的高阶语言表达？",
+          "prompt": "在宏观战略叙事中表达发展战略谋划极其深远周密的核心成语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (23.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (23.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (23.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (23.5.y3)"
+            "深谋远虑 / 高瞻远瞩 (Plan with deep foresight / stand high and see far)",
+            "盲目跟风",
+            "朝令夕改",
+            "敷衍塞责"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「深谋远虑」指在战略决策中具有极其深刻长远的战略眼光与谋划定力。"
         }
       ]
     },
@@ -13923,25 +13936,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的掌握程度，请选出表述完全正确的标准范句（测试 23-5）：",
+          "prompt": "请选出下列中国式现代化与大国治理综合政论语篇中词章最典雅、逻辑最严密、气魄最宏大的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (23.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (23.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (23.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (23.5.z3)"
+            "新华社北京电：最新统计显示，我国战略性新兴产业增加值同比增长强劲，新质生产力加速培育壮大。在统筹前沿科技治理、划定算法伦理红线的同时，我们坚定践行绿水青山就是金山银山理念，持续织密兜牢民生保障网。立足新时代，大国治理以深谋远虑的战略定力，推动中国式现代化巨轮破浪前行、行稳致远！(全篇公共政策语体融会贯通，辞采典雅，气势如虹，思想深邃)",
+            "北京新闻说很多高科技造出来了，环境也变好了，大家都有钱了，国家发展很好。(语言极度粗糙平白)",
+            "新华社电被新质生产力同比增长在巨轮。(句式严重错乱崩溃)",
+            "只要织密兜牢，就能在实验室睡觉行稳致远。(成语与语境严重背离)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇将权威新闻通报、宏观经济量化、前沿算法科技治理、生态民生与大国现代化巨轮意象熔铸为一体，达到了当代汉语公共政策论著的最高水准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u23-l5）的核心关键词（例如「新闻传媒」）：",
+          "prompt": "请输入表达步伐走得稳健扎实方能实现长远宏伟目标的核心四字成语（例如推动现代化「」，前两字为 xíngwěn 后两字为 zhìyuǎn）：",
           "acceptedAnswers": [
-            "新闻传媒",
-            "新闻传媒与当",
-            "新闻传媒与当代社会热点"
+            "行稳致远"
           ],
-          "explanation": "正确的核心关键词为「新闻传媒」。"
+          "explanation": "成语「行稳致远」是现代汉语高规格政论与国家治理中指称保持战略定力、稳步实现长远目标的经典成语。"
         }
       ],
       "passThreshold": 0.8
