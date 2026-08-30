@@ -14015,53 +14015,62 @@
     "subject": "ukrainian",
     "unit": 34,
     "lessonNumber": 1,
-    "title": "Державні саміти та міжнародне право (C2 Capstone Statecraft) (Part 1)",
+    "title": "Конституціоналізм, верховенство права та конституційна юрисдикція",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 34.1) with authentic linguistic precision.",
+    "objective": "Опанувати доктрину конституціоналізму та конституційної юстиції (верховенство права, пропорційність, пряма дія Конституції, Конституція Пилипа Орлика 1710 р., Конституційний Суд України).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Український конституціоналізм має багатовікову традицію обмеження державної влади правом та захисту природних прав людини:\n\n1. Історичний родовід конституціоналізму:\n   - *«Конституція Пилипа Орлика 1710 року («Пакти й Конституції прав і вольностей Війська Запорозького»)»* — одна з перших конституцій Європи, що закріпила поділ влади на законодавчу, виконавчу та судову;\n   - *«Конституція УНР 29 квітня 1918 року»* — проголошення парламентської республіки;\n   - *«Конституція України 28 червня 1996 року»* — Основний Закон суверенної держави.\n\n2. Фундаментальні конституційні засади:\n   - *«Принцип верховенства права (Rule of Law)»* (ст. 8 Конституції) — правовий захист від свавілля влади;\n   - *«Пряма дія норм Конституції України»* — звернення до суду безпосередньо на підставі конституційних норм;\n   - *«Принцип пропорційності (трискладовий тест: легітимна мета, придатність, необхідність)»*.\n\n3. Конституційна юрисдикція:\n   - *«Конституційний Суд України (КСУ)»* — єдиний орган конституційної юрисдикції;\n   - *«Конституційне подання, конституційне звернення та інститут конституційної скарги громадянина»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Конституція Пилипа Орлика 1710 року заклала засадничі принципи поділу влади та республіканського устрою задовго до класичних європейських просвітників.",
+          "reading": "[kɔnstɪˈtut͡sʲijɑ pɪˈlɪpɐ ˈɔrlɪkɐ tɪˈsʲɑtʃɑ sʲimˈsɔt dɛˈsʲɑtɔɦɔ ˈrɔku zɐkˈlɑlɐ zɐˈsɑdnɪtʃʲi prɪnˈt͡sɪpɪ pɔˈdʲilu ˈwlɑdɪ tɑ rɛspublʲiˈkɑnsʲkɔɦɔ usˈtrɔju zɐˈdɔwɦɔ dɔ klɐˈsɪtʃnɪx jɛwrɔˈpɛjsʲkɪx prɔswʲitˈnɪkʲiw] (kohn-sty-TOO-tsee-yah py-LY-pah OHR-ly-kah TY-syah-chah seem-SOHT deh-SYAH-toh-hoh ROH-koo zahk-LAH-lah zah-SAHD-ny-chee pryn-TSY-py poh-DEE-loo VLAH-dy tah reh-spoob-lee-KAHN-s'koh-hoh oos-TROH-yoo zah-DOHV-hoh doh klah-SYCH-nykh yehv-roh-PEHY-s'kykh prohs-veet-NY-keew)",
+          "translation": "The Constitution of Pylyp Orlyk of 1710 laid down the fundamental principles of the separation of powers and the republican system long before classical European Enlightenment thinkers."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 34-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Інститут індивідуальної конституційної скарги гарантує кожному громадянинові право на судовий контроль за конституційністю закону, застосованого в його справі.",
+          "reading": "[instɪˈtut indɪwʲiduˈɑlʲnɔji kɔnstɪtut͡sʲijˈnɔji ˈskɑrɦɪ ɦɐrɐnˈtujɛ ˈkɔʒnɔmu ɦrɔmɐdʲɐˈnɪnɔwʲi ˈprɑwɔ nɑ suˈdɔwɪj kɔntˈrɔlʲ zɑ kɔnstɪtut͡sʲijˈnʲisʲtʲu zɐˈkɔnu, zɐstɔˈsɔwɑnɔɦɔ w jɔˈɦɔ ˈsprɑwʲi] (een-sty-TOOT een-dy-vee-doo-AHL'-noh-yee kohn-sty-too-tseey-NOH-yee SKAHR-hy hah-rahn-TOO-yeh KOHZH-noh-moo hroh-mah-dyah-NY-noh-wee PRAH-woh nah soo-DOH-wyy kohnt-ROHL' zah kohn-sty-too-tseey-NEEST' zah-KOH-noo, zahs-toh-SOH-wah-noh-hoh v yoh-HOH SPRAH-wee)",
+          "translation": "The institution of the individual constitutional complaint guarantees every citizen the right to judicial review of the constitutionality of a law applied in their case."
+        },
+        {
+          "target": "Принцип верховенства права та пряма дія норм Основного Закону становлять непохитний фундамент демократичної правової держави.",
+          "reading": "[ˈprɪnt͡sɪp wɛrxɔˈwɛnstxɐ ˈprɑwɐ tɑ prʲɑˈmɑ ˈdʲijɑ nɔrm ɔsˈnɔwnɔɦɔ zɐˈkɔnu stɐˈnɔwlʲɑtʲ nɛpɔˈxɪtnɪj funˈdɑmɛnt dɛmɔkrɐˈtɪtʃnɔji prɐwɔˈwɔji dɛrˈʒɑwɪ] (PRYN-tsyp wehr-khoh-WEHN-stvah PRAH-wah tah pryah-MAH DEE-yah nohrm ohs-NOHV-noh-hoh zah-KOH-noo stah-NOHV-lyaht' neh-poh-KHYT-nyy foon-DAH-mehnt deh-moh-krah-TYCH-noh-yee prah-woh-VOH-yee dehr-ZHAH-wy)",
+          "translation": "The principle of the rule of law and the direct effect of constitutional norms constitute the unshakeable foundation of a democratic state governed by the rule of law."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Перша конституція — Орлик 1710; Основа — «верховенство права» (ст. 8); Пряма дія закону; Орган захисту — Конституційний Суд!"
+      ],
+      "culturalNotes": [
+        "Оригінал латиномовного примірника Конституції Пилипа Орлика 1710 року зберігається в Державному архіві Швеції у Стокгольмі."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Свідок\":",
+          "prompt": "У якому році була укладена Конституція гетьмана Пилипа Орлика («Пакти й Конституції прав і вольностей Війська Запорозького»)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.1.",
-            "Неправильне відмінкове узгодження зі словом «Вирок»",
-            "Порушення законів евфонії та словотворення для «Конституція»",
-            "Стилістично некоректна синтаксична конструкція з «Держава»"
+            "1710 рік (1710 - Constitution of Pylyp Orlyk, early European constitutional landmark)",
+            "1996 рік",
+            "1648 рік",
+            "1918 рік"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Конституція Пилипа Орлика була укладена у Бендерах 5 (16) квітня 1710 року."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Свідок\":",
+          "prompt": "Яка норма закріплює, що звернення до суду для захисту конституційних прав і свобод людини гарантується безпосередньо на підставі Конституції?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.1.",
-            "Порушення законів евфонії та словотворення для «Конституція»",
-            "Стилістично некоректна синтаксична конструкція з «Держава»",
-            "Неправильне відмінкове узгодження зі словом «Вирок»"
+            "Пряма дія норм Конституції (Direct effect of constitutional provisions)",
+            "Презумпція невинуватості",
+            "Принцип зворотньої дії",
+            "Дискреційні повноваження"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Можливість застосування норм Конституції безпосередньо судами закріплена принципом прямої дії норм Конституції."
         }
       ]
     },
@@ -14069,17 +14078,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Свідок\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому доктрину верховенства права та конституціоналізму виражено з абсолютною юридичною довершеністю:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.1.",
-            "Стилістично некоректна синтаксична конструкція з «Держава»",
-            "Неправильне відмінкове узгодження зі словом «Вирок»",
-            "Порушення законів евфонії та словотворення для «Конституція»"
+            "Утвердження верховенства права, пряма дія норм Конституції України та дієвість інституту конституційної скарги унеможливлюють свавілля влади й захищають невіддільні права людини.",
+            "Конституція є необов'язковою порадою яку кожен чиновник може ігнорувати.",
+            "Конституційний Суд призначений для виконання вказівок міністерств без перевірки законів.",
+            "Пилип Орлик написав конституцію щоб скасувати будь-які вибори в козацькій державі."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Утвердження верховенства права, пряма дія норм Конституції України...» — вершина конституційно-правового дискурсу C2."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u34-l2": {
@@ -14087,53 +14097,62 @@
     "subject": "ukrainian",
     "unit": 34,
     "lessonNumber": 2,
-    "title": "Державні саміти та міжнародне право (C2 Capstone Statecraft) (Part 2)",
+    "title": "Державний суверенітет, воєнна доктрина та Ставка Верховного Головнокомандувача",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 34.2) with authentic linguistic precision.",
+    "objective": "Опанувати вищий рівень військово-стратегічного та безпекового дискурсу держави (Ставка Верховного Головнокомандувача, сектор безпеки й оборони, CIMIC, тотальний опір).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Управління обороною суверенної держави в умовах екзистенційної війни базується на чіткій субординації та стратегічній взаємодії військового й політичного керівництва:\n\n1. Вищі органи управління обороною:\n   - *«Ставка Верховного Головнокомандувача»* — надзвичайний орган вищого військового керівництва під головуванням Президента України;\n   - *«Рада національної безпеки і оборони України (РНБО)»*;\n   - *«Генеральний штаб Збройних Сил України (Генштаб ЗСУ)»*;\n   - *«Головнокомандувач Збройних Сил України»*.\n\n2. Воєнно-стратегічний концептуальний апарат:\n   - *«Всеохопна оборона та національний спротив»* (Закон України «Про основи національного спротиву»);\n   - *«Правовий режим воєнного стану»* (комендантська година, евакуація, мобілізація людських та економічних ресурсів);\n   - *«Цивільно-військове співробітництво (Civil-Military Cooperation — CIMIC)»*;\n   - *«Військово-промисловий комплекс (ВПК), роботизовані платформи та асиметричні засоби ураження»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "На регулярних засіданнях Ставки Верховного Головнокомандувача ухвалюються стратегічні рішення щодо планування наступальних операцій та забезпечення фронту далекобійною високоточною зброєю.",
+          "reading": "[nɑ rɛɦulʲɑrnɪx zɑsʲiˈdɑnnʲɐx ˈstɑwkɪ wɛrxɔwˈnɔɦɔ ɦɔlɔwnɔkɔmɐnˈduwɐtʃɑ uxwɐˈlʲɑjutʲsʲɑ strɐtɛˈɦʲitʃnʲi rʲiˈʃɛnʲːɑ ʃtʃɔˈdɔ plɐnuˈwɑnʲːɑ nɐstupˈnɪx ɔpɛˈrɑt͡sʲij tɑ zɐbɛzˈpɛtʃɛnʲːɑ ˈfrɔntu dɐlɛkɔˈbʲijnɔju wɪsɔkɔˈtɔtʃnɔju ˈzbrɔjɛju] (nah reh-hoo-LYAHR-nykh zah-see-DAHN-nyahkh STAHV-ky wehr-khov-NOH-hoh hoh-lohv-noh-koh-mahn-DOO-wah-chah ookh-vah-LYAH-yoot'-syah strah-teh-HEECH-nee ree-SHEN-nyah shchoh-DOH plah-noo-VAHN-nyah nahs-TOOP-nykh oh-peh-RAH-tseey tah zah-bez-PEH-chen-nyah FROHN-too dah-leh-koh-BEEY-noh-yoo vy-soh-koh-TOHCH-noh-yoo ZBROH-yeh-yoo)",
+          "translation": "At regular meetings of the Staff of the Supreme Commander-in-Chief, strategic decisions are made regarding the planning of offensive operations and supplying the front with long-range high-precision weapons."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 34-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Концепція всеохопної оборони передбачає синергію професійних регулярних військ та масового руху національного спротиву.",
+          "reading": "[kɔnt͡sɛpˈt͡sʲijɑ wsɛɔˈxɔpnɔji ɔbɔˈrɔnɪ pɛrɛdbɐˈtʃɑjɛ sɪnɛrˈɦʲiju prɔfɛˈsʲijnɪx rɛɦuˈlʲɑrnɪx wʲijʲsk tɑ ˈmɑsɔwɔɦɔ ˈruxu nɐt͡sʲiɔˈnɑlʲnɔɦɔ ˈsprɔtɪwu] (kohn-tseh-PTSEE-yah vseh-oh-KHOHP-noh-yee oh-boh-ROH-ny peh-rehd-bah-CHAH-yeh sy-nehr-HEE-yoo proh-feh-SEEY-nykh reh-hoo-LYAHR-nykh veeysk tah MAH-soh-woh-hoh ROO-khoo nah-tsee-oh-NAHL'-noh-hoh SPROH-ty-woo)",
+          "translation": "The concept of comprehensive defense provides for the synergy of professional regular troops and the mass national resistance movement."
+        },
+        {
+          "target": "Підрозділи цивільно-військового співробітництва (CIMIC) забезпечують безперебійну координацію з місцевими громадами та гуманітарними місіями в зоні бойових дій.",
+          "reading": "[pʲidrɔzʲˈdʲilɪ t͡sɪˈwʲilʲnɔ wʲijʲsʲˈkɔwɔɦɔ spʲiwrɔˈbʲitnɪt͡stxɐ ˈsʲimʲik zɐbɛzˈpɛtʃujutʲ bɛzpɛrɛˈbʲijnu kɔɔrdɪˈnɑt͡sʲiju z mʲist͡sɛˈwɪmɪ ɦrɔˈmɑdɐmɪ tɑ ɦumɐnʲiˈtɑrnɪmɪ ˈmʲisʲijɐmɪ w ˈzɔnʲi bɔjɔˈwɪx dʲij] (peed-rohz-DEE-ly tsy-VEEL'-noh veey-s'KOH-woh-hoh speew-roh-BEET-nyt-stvah SEE-meek zah-bez-PEH-choo-yoot' bez-peh-reh-BEEY-noo koh-ohr-dy-NAH-tsee-yoo z mees-tseh-WY-my hroh-MAH-dah-my tah hoo-mah-nee-TAHR-ny-my MEE-see-yah-my v ZOH-nee boh-yoh-WYKH deey)",
+          "translation": "Civil-military cooperation (CIMIC) units ensure seamless coordination with local communities and humanitarian missions in the combat zone."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Найвищий орган війни — «Ставка Верховного Головнокомандувача»; модель — «всеохопна оборона»; зв'язок із цивільними — CIMIC!"
+      ],
+      "culturalNotes": [
+        "Збройні Сили України стали найдосвідченішою та наймодернішою армією Європейського континенту, інтегрувавши стандарти НАТО безпосередньо на полі бою."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Вирок\":",
+          "prompt": "Як називається надзвичайний орган вищого військового керівництва України, що здійснює стратегічне керівництво Збройними Силами під час воєнного стану?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.2.",
-            "Неправильне відмінкове узгодження зі словом «Конституція»",
-            "Порушення законів евфонії та словотворення для «Держава»",
-            "Стилістично некоректна синтаксична конструкція з «Свобода»"
+            "Ставка Верховного Головнокомандувача (Staff of the Supreme Commander-in-Chief)",
+            "Військова колегія",
+            "Оборонна рада округу",
+            "Генеральний інспекторат"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Вищим надзвичайним органом стратегічного керівництва обороною є «Ставка Верховного Головнокомандувача»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Вирок\":",
+          "prompt": "Як у військовій термінології НАТО та ЗСУ скорочено позначається система цивільно-військового співробітництва?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.2.",
-            "Порушення законів евфонії та словотворення для «Держава»",
-            "Стилістично некоректна синтаксична конструкція з «Свобода»",
-            "Неправильне відмінкове узгодження зі словом «Конституція»"
+            "CIMIC (Civil-Military Cooperation - цивільно-військове співробітництво)",
+            "HUMINT",
+            "SIGINT",
+            "STRATCOM"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Цивільно-військове співробітництво позначається абревіатурою CIMIC (Civil-Military Cooperation)."
         }
       ]
     },
@@ -14141,17 +14160,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Вирок\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому стратегічне управління державною обороною охарактеризовано з бездоганною точністю:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.2.",
-            "Стилістично некоректна синтаксична конструкція з «Свобода»",
-            "Неправильне відмінкове узгодження зі словом «Конституція»",
-            "Порушення законів евфонії та словотворення для «Держава»"
+            "Завдяки оперативним рішенням Ставки Верховного Головнокомандувача, стійкості ЗСУ та взаємодії підрозділів CIMIC із громадами було відбито наступ агресора та збережено територіальну цілісність держави.",
+            "Рішення про оборону країни ухвалюються випадковим голосуванням у соціальних мережах.",
+            "Військовий стан означає скасування армії та закриття всіх державних кордонів.",
+            "Ставка Верховного Головнокомандувача займається виключно організацією святкових парадів."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Завдяки оперативним рішенням Ставки Верховного Головнокомандувача, стійкості ЗСУ та взаємодії підрозділів CIMIC...» — бездоганний військово-державний стиль C2."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u34-l3": {
@@ -14159,53 +14179,62 @@
     "subject": "ukrainian",
     "unit": 34,
     "lessonNumber": 3,
-    "title": "Державні саміти та міжнародне право (C2 Capstone Statecraft) (Part 3)",
+    "title": "Державні саміти, міжнародні коаліції та глобальна суб'єктність України",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 34.3) with authentic linguistic precision.",
+    "objective": "Опанувати дипломатичний дискурс самітів найвищого рівня та глобального лідерства (Кримська платформа, Люблінський трикутник, формат Рамштайн, геополітична суб'єктність).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Україна виступає активним творцем міжнародних альянсів та геополітичним лідером Центрально-Східної Європи:\n\n1. Міжнародні консультаційні та оборонні формати:\n   - *«Міжнародна Кримська платформа (Crimea Platform)»* — глобальний консультативно-координаційний формат деокупації Криму;\n   - *«Контактна група з питань оборони України (формат Рамштайн)»* — коаліція понад 50 держав світу з військової допомоги;\n   - *«Люблінський трикутник (Україна, Польща, Литва)»* — регіональний альянс безпекової та політичної інтеграції;\n   - *«Асоційоване тріо (Україна, Молдова, Грузія)»*.\n\n2. Геополітична суб'єктність та Балто-Чорноморська безпекова вісь:\n   - *«Геополітична суб'єктність (Geopolitical Agency / Subjecthood)»* — здатність нації самостійно формувати світовий порядок денний;\n   - *«Балто-Чорноморсько-Адріатична вісь безпеки (Міжмор'я / Intermarium)»*;\n   - *«Економічний та енергетичний коридор солідарності»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Щорічний саміт Міжнародної Кримської платформи об'єднав лідерів десятків держав та міжнародних організацій навколо спільної мети відновлення міжнародного правопорядку в Чорноморському регіоні.",
+          "reading": "[ʃtʃɔˈrʲitʃnɪj ˈsɑmʲit mʲiʒnɐˈrɔdnɔji ˈkrɪmsʲkɔji plɐtˈfɔrmɪ ɔbjɛdˈnɑw ˈlʲidɛrʲiw dɛˈsʲɑtkʲiw dɛrˈʒɑw tɑ mʲiʒnɐˈrɔdnɪx ɔrɦɐnʲizɑˈt͡sʲij nɐwˈkɔlɔ ˈspʲilʲnɔji ˈmɛtɪ wʲidnɔwˈlɛnʲːɑ mʲiʒnɐˈrɔdnɔɦɔ prɐwɔpɔˈrʲɑdku w tʃɔrnɔˈmɔrsʲkɔmu rɛɦʲiˈɔnʲi] (shchoh-REECH-nyy SAH-meet meezh-nah-ROHD-noh-yee KRYM-s'koh-yee plaht-FOHR-my ohb-yehd-NAHV LEE-deh-reew deh-SYAHT-keew dehr-ZHAHV tah meezh-nah-ROHD-nykh ohr-hah-nee-zah-TSEEY nav-KOH-loh SPEEL'-noh-yee MEH-ty veed-nohv-LEN-nyah meezh-nah-ROHD-noh-hoh prah-woh-poh-RYAHD-koo v chor-noh-MOHR-s'koh-moo reh-hee-OH-nee)",
+          "translation": "The annual summit of the International Crimea Platform united leaders of dozens of states and international organizations around the common goal of restoring international rule of law in the Black Sea region."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 34-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Формат Рамштайн продемонстрував безпрецедентну консолідацію вільного світу для надання масштабної оборонної підтримки українському народові.",
+          "reading": "[fɔrˈmɑt rɐmʃˈtɑjn prɔdɛmɔnstˈruwɑw bɛzprɛt͡sɛˈdɛntnu kɔnsɔlʲiˈdɑt͡sʲiju ˈwʲilʲnɔɦɔ ˈswʲitu dlʲɑ nɐˈdɑnʲːɑ mɐsʃˈtɑbnɔji ɔbɔˈrɔnnɔji pʲidˈtrɪmkɪ ukrɐˈjinsʲkɔmu nɐˈrɔdɔwʲi] (fohr-MAHT rahm-SHTAHYN proh-deh-mohns-troo-VAHV bez-preh-tseh-DEHNT-noo kohn-soh-lee-DAH-tsee-yoo VEEL'-noh-hoh SWEE-too dlyah nah-DAHN-nyah mahs-shTAHB-noh-yee oh-boh-ROHN-noh-yee peed-TRYM-ky oo-krah-YEEN-s'koh-moo nah-ROH-doh-wee)",
+          "translation": "The Ramstein format demonstrated an unprecedented consolidation of the free world to provide large-scale defense support to the Ukrainian people."
+        },
+        {
+          "target": "Україна утвердила свою беззастережну геополітичну суб'єктність як східний форпост та невіддільний наріжний камінь європейської цивілізації.",
+          "reading": "[ukrɐˈjinɐ utwɛrˈdɪlɐ ˈswɔju bɛzzɐsʲtɛˈrɛʒnu ɦɛɔpɔlʲiˈtɪtʃnu subˈjɛktnʲisʲtʲ jɐk ˈsʲxʲidnɪj fɔrˈpɔst tɑ nɛwʲidʲˈdʲilʲnɪj nɐˈrʲiʒnɪj ˈkɑmʲinʲ jɛwrɔˈpɛjsʲkɔji t͡sɪwʲilʲiˈzɑt͡sʲiji] (oo-krah-YEE-nah oot-wehr-DY-lah swoh-YOO bez-zahs-teh-REHZH-noo heh-oh-poh-lee-TYCH-noo soob-YEHKT-neest' yahk SKHEED-nyy fohr-POHST tah neh-veed-DEEL'-nyy nah-REEZH-nyy KAH-meen' yehv-roh-PEHY-s'koh-yee tsy-vee-lee-ZAH-tsee-yee)",
+          "translation": "Ukraine has affirmed its undeniable geopolitical agency as the eastern outpost and indivisible cornerstone of European civilization."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Деокупація Криму — «Кримська платформа»; збройна коаліція 50+ держав — «формат Рамштайн»; суб'єктність нації — «геополітична суб'єктність»!"
+      ],
+      "culturalNotes": [
+        "Заснування Люблінського трикутника у 2020 році відродило багатовікову спадщину спільної історії України, Литви та Польщі доби Речі Посполитої."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Конституція\":",
+          "prompt": "Як називається ініційований Україною міжнародний координаційний механізм для повернення тимчасово окупованого Криму під контроль України?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.3.",
-            "Неправильне відмінкове узгодження зі словом «Держава»",
-            "Порушення законів евфонії та словотворення для «Свобода»",
-            "Стилістично некоректна синтаксична конструкція з «Привіт»"
+            "Кримська платформа (Crimea Platform - international diplomatic initiative for de-occupation)",
+            "Женевські конвенції",
+            "Варшавський договір",
+            "Будапештський клуб"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Міжнародний формат деокупації Кримського півострова має назву «Кримська платформа»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Конституція\":",
+          "prompt": "Який тристоронній регіональний альянс утворили Україна, Польща та Литва у 2020 році в місті Люблін?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.3.",
-            "Порушення законів евфонії та словотворення для «Свобода»",
-            "Стилістично некоректна синтаксична конструкція з «Привіт»",
-            "Неправильне відмінкове узгодження зі словом «Держава»"
+            "Люблінський трикутник (Lublin Triangle - alliance of Ukraine, Poland, and Lithuania)",
+            "Веймарський трикутник",
+            "Балтійська асамблея",
+            "Вишеградська четвірка"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Альянс України, Польщі та Литви називається «Люблінським трикутником»."
         }
       ]
     },
@@ -14213,17 +14242,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Конституція\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому геополітичне лідерство та дипломатичні формати України викладено найповніше:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.3.",
-            "Стилістично некоректна синтаксична конструкція з «Привіт»",
-            "Неправильне відмінкове узгодження зі словом «Держава»",
-            "Порушення законів евфонії та словотворення для «Свобода»"
+            "Успішна діяльність Кримської платформи, взаємодія в межах Люблінського трикутника та засідання у форматі Рамштайн утвердили Україну як потужного глобального гравця нової безпекової архітектури Європи.",
+            "Люблінський трикутник заборонив Україні торгувати з сусідніми державами.",
+            "Формат Рамштайн збирався один раз і не ухвалив жодних рішень про допомогу.",
+            "Кримська платформа була створена для заборони міжнародних самітів."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Успішна діяльність Кримської платформи, взаємодія в межах Люблінського трикутника...» — бездоганний зразок геополітичного аналізу C2."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u34-l4": {
@@ -14231,53 +14261,62 @@
     "subject": "ukrainian",
     "unit": 34,
     "lessonNumber": 4,
-    "title": "Державні саміти та міжнародне право (C2 Capstone Statecraft) (Part 4)",
+    "title": "Національна ідентичність, культурна спадщина ЮНЕСКО та мовна стійкість",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 34.4) with authentic linguistic precision.",
+    "objective": "Опанувати культурологічний та соціолінгвістичний дискурс збереження ідентичності (нематеріальна спадщина ЮНЕСКО, декомунізація, деколонізація топоніміки, мовна стійкість).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Мовна стійкість (Linguistic Resilience) та культурний суверенітет є непохитними стовпами національної безпеки й самобутності українського народу:\n\n1. Нематеріальна культурна спадщина людства ЮНЕСКО від України:\n   - *«Петриківський розпис»* (декоративно-орнаментальне народне малярство);\n   - *«Козацькі пісні Дніпропетровщини»*;\n   - *«Косівська мальована кераміка»*;\n   - *«Орьнек — кримськотатарський національний орнамент»*;\n   - *«Культура приготування українського борщу»* (внесена до списку спадщини, яка потребує термінової охорони).\n\n2. Деколонізація топонімічного простору та національна пам'ять:\n   - *«Закон України «Про засудження та заборону пропаганди російської імперської політики в Україні і деколонізацію топонімії»»*;\n   - *«Повернення історичних назв, вшанування українських діячів науки, культури та визвольних змагань»*;\n   - *«Створення Національного пантеону Героїв України»*.\n\n3. Статус української мови як державної:\n   - Закон «Про забезпечення функціонування української мови як державної» (2019);\n   - *«Інститут Уповноваженого із захисту державної мови»*;\n   - Незворотний перехід суспільства на єдину державну мову в усіх сферах публічного життя.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Внесення українського борщу до Списку нематеріальної культурної спадщини ЮНЕСКО стало актом всесвітнього визнання самобутності української гастрономічної культури.",
+          "reading": "[wnɛˈsɛnʲːɑ ukrɐˈjinsʲkɔɦɔ ˈbɔrʃtʃɑ dɔ ˈspɪsku nɛmɐtɛrʲiˈɑlʲnɔji kulʲˈturnɔji ˈspɑdtʃɪnɪ juˈnɛskɔ ˈstɑlɔ ˈɑktɔm wsɛsʲˈwʲitnʲɔɦɔ wɪzˈnɑnʲːɑ sɐmɔˈbutnɔsʲtʲi ukrɐˈjinsʲkɔji ɦɐstrɔnɔˈmʲitʃnɔji kulʲˈturɪ] (vneh-SEN-nyah oo-krah-YEEN-s'koh-hoh BOHR-shchah doh SPYS-koo neh-mah-teh-ree-AHL'-noh-yee kool'-TOOR-noh-yee SPAHD-shchy-ny yoo-NEHS-koh STAH-loh AHK-tohm vseh-SVEET-nyoh-hoh vyz-NAHN-nyah sah-moh-BOOT-nohs-tee oo-krah-YEEN-s'koh-yee hahs-troh-noh-MEECH-noh-yee kool'-TOO-ry)",
+          "translation": "The inscription of Ukrainian borscht on the UNESCO Intangible Cultural Heritage List became an act of worldwide recognition of the uniqueness of Ukrainian gastronomic culture."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 34-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Деколонізація топоніміки повертає українським містам їхні питомі історичні назви та витісняє імперські маркери з публічного простору.",
+          "reading": "[dɛkɔlɔnʲiˈzɑt͡sʲijɑ tɔpɔˈnʲimʲikɪ pɔwɛrˈtɑjɛ ukrɐˈjinsʲkɪm mʲisˈtɑm ˈjixnʲi pɪˈtɔmʲi isˈtɔrɪtʃnʲi ˈnɑzwɪ tɑ wɪtʲisʲˈnʲɑjɛ imˈpɛrsʲkʲi mɐrˈkɛrɪ z ˈpublʲitʃnɔɦɔ ˈprɔstɔru] (deh-koh-loh-nee-ZAH-tsee-yah toh-poh-NEE-mee-ky poh-wehr-TAH-yeh oo-krah-YEEN-s'kym mees-TAHM YEEKH-nee py-TOH-mee ees-TOH-rych-nee NAHZ-wy tah vy-tees-NYAH-yeh eem-PEHR-s'kee mahr-KEH-ry z POOB-leech-noh-hoh PROHS-toh-roo)",
+          "translation": "Decolonization of toponymy restores native historical names to Ukrainian cities and displaces imperial markers from public space."
+        },
+        {
+          "target": "Мовна стійкість суспільства є запорукою національної єдності та незламним духовним щитом української державності.",
+          "reading": "[ˈmɔwnɐ sʲtʲijˈkʲisʲtʲ susˈpʲilʲstxɐ jɛ zɐpɔˈrukɔju nɐt͡sʲiɔˈnɑlʲnɔji ˈjɛdnɔsʲtʲi tɑ nɛzˈlɑmnɪm duˈxɔwnɪm ʃtʃɪˈtɔm ukrɐˈjinsʲkɔji dɛrˈʒɑwnɔsʲtʲi] (MOHV-nah steey-KEEST' soos-PEEL'-stvah yeh zah-poh-ROO-koh-yoo nah-tsee-oh-NAHL'-noh-yee YEHD-nohs-tee tah nez-LAHM-nym doo-KHOHV-nym shchy-TOHM oo-krah-YEEN-s'koh-yee dehr-ZHAHV-nohs-tee)",
+          "translation": "Linguistic resilience of society is the guarantee of national unity and the indomitable spiritual shield of Ukrainian statehood."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Спадщина ЮНЕСКО: Борщ, Петриківка, Орьнек, Косівська кераміка; очищення назв — «деколонізація топоніміки»; щит нації — «мовна стійкість»!"
+      ],
+      "culturalNotes": [
+        "Кримськотатарський рослинний орнамент «Орьнек», внесений до списку ЮНЕСКО у 2021 році, символізує корінний зв'язок кримськотатарського народу зі своєю батьківщиною — Кримом."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Держава\":",
+          "prompt": "Яка традиційна українська страва була внесена до Списку нематеріальної культурної спадщини ЮНЕСКО у 2022 році?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.4.",
-            "Неправильне відмінкове узгодження зі словом «Свобода»",
-            "Порушення законів евфонії та словотворення для «Привіт»",
-            "Стилістично некоректна синтаксична конструкція з «Добрий день»"
+            "Культура приготування українського борщу (Culture of Ukrainian borscht cooking - UNESCO heritage)",
+            "Вареники з вишнями",
+            "Полтавські галушки",
+            "Київська перепічка"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "До спадщини ЮНЕСКО у 2022 році було внесено культуру приготування українського борщу."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Держава\":",
+          "prompt": "Як називається державний процес очищення публічного простору та географічних назв від маркерів російської колоніальної спадщини?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.4.",
-            "Порушення законів евфонії та словотворення для «Привіт»",
-            "Стилістично некоректна синтаксична конструкція з «Добрий день»",
-            "Неправильне відмінкове узгодження зі словом «Свобода»"
+            "Деколонізація топоніміки (Decolonization of toponymy - removal of imperial markers)",
+            "Індустріалізація",
+            "Урбанізація",
+            "Глобалізація"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Очищення назв вулиць і міст від імперських назв зветься «деколонізацією топоніміки»."
         }
       ]
     },
@@ -14285,17 +14324,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Держава\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому взаємозв'язок мови, культури та національної безпеки описано з максимальною переконливістю:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.4.",
-            "Стилістично некоректна синтаксична конструкція з «Добрий день»",
-            "Неправильне відмінкове узгодження зі словом «Свобода»",
-            "Порушення законів евфонії та словотворення для «Привіт»"
+            "Збереження унікальної спадщини ЮНЕСКО, деколонізація публічного простору та зміцнення мовної стійкості творять монолітний соціокультурний простір сучасної української нації.",
+            "Борщ це просто звичайна їжа яка не має жодного відношення до світової спадщини.",
+            "Деколонізація забороняє вивчати будь-яку історію в школах та університетах.",
+            "Мовна стійкість не впливає на національну безпеку держави під час війни."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Збереження унікальної спадщини ЮНЕСКО, деколонізація публічного простору та зміцнення мовної стійкості...» — неперевершений рівень філологічного синтезу C2."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u34-l5": {
@@ -14303,53 +14343,62 @@
     "subject": "ukrainian",
     "unit": 34,
     "lessonNumber": 5,
-    "title": "Державні саміти та міжнародне право (C2 Capstone Statecraft) (Part 5)",
+    "title": "Філологічний синтез, стилістична поліфонія та абсолютна мовна довершеність",
     "level": "C2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 34.5) with authentic linguistic precision.",
+    "objective": "Досягти абсолютного синтезу української мови рівня C2 (стилістична поліфонія, афористика Сковороди, Шевченка та Стуса, бездоганне володіння всіма функціональними стилями).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Рівень C2 (Mastery) в українській мові — це вільне володіння всіма функціональними стилями, здатність до стилістичного перемикання та глибоке осмислення скарбниці національної афористики:\n\n1. Функціонально-стилістична система української мови:\n   - *«Офіційно-діловий стиль»* (дипломатичні конвенції, закони, протоколи);\n   - *«Науковий стиль»* (дисертаційні монографії, категоріальний апарат, наукометрія);\n   - *«Публіцистичний стиль»* (експресивні маніфести, колонка Op-Ed, полеміка);\n   - *«Художній стиль»* (символізм, верлібр, розгорнута метафора, естетична поліфонія);\n   - *«Розмовний стиль»* (колоритні фразеологізми, автентичні прислів'я, жива говірка).\n\n2. Золотий фонд української філософської афористики:\n   - Григорій Сковорода: *«Світ ловив мене, та не спіймав»*; *«Не все те отрута, що неприємне на смак»*;\n   - Тарас Шевченко: *«Борітеся — поборете! Вам Бог помагає! За вас правда, за вас слава і воля святая!»*;\n   - Леся Українка: *«Contra spem spero! (Без надії сподіваюсь!)»*; *«Хто визволиться сам, той буде вільний»*;\n   - Василь Стус: *«Як добре те, що смерті не боюсь я і не питаю, чи тяжкий мій хрест»*.\n\n3. Абсолютна мовна майстерність:\n   - Повна відповідність нормам сучасного Українського правопису 2019 року;\n   - Багатство синонімічних рядів, відсутність кальок, бездоганна милозвучність (евфонія) та багатство інтонації.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "«Борітеся — поборете! Вам Бог помагає! За вас правда, за вас слава і воля святая!» — безсмертні слова Кобзаря, що стали моральним орієнтиром кожної епохи української звитяги.",
+          "reading": "[bɔˈrʲitɛsʲɑ pɔˈbɔrɛtɛ wɑm bɔx pɔmɐˈɦɑjɛ zɑ wɑs ˈprɑwdɐ zɑ wɑs ˈslɑwɐ i ˈwɔlʲɑ swʲɑˈtɑjɑ bɛzˈsmɛrtnʲi slɔˈwɑ kɔbˈzɑrʲɑ ʃtʃɔ ˈstɑlɪ mɔˈrɑlʲnɪm ɔrʲiɛnˈtɪrɔm ˈkɔʒnɔji ɛˈpɔxɪ ukrɐˈjinsʲkɔji zwɪˈtʲɑɦɪ] (boh-REE-teh-syah poh-BOH-reh-teh! vahm BOHKH poh-mah-HAH-yeh! zah vahs PRAHV-dah, zah vahs SLAH-wah ee WOH-lyah svyah-TAH-yah! bez-SMEHRT-nee sloh-WAH kohb-ZAH-ryah shchoh STAH-ly moh-RAHL'-nym oh-ree-ehn-TEE-rohm KOHZH-noh-yee eh-POH-khy oo-krah-YEEN-s'koh-yee zwy-TYAH-hy)",
+          "translation": "'Fight — and you will overcome! God helps you! For you is truth, for you is glory and holy freedom!' — the immortal words of the Kobzar that became the moral compass of every era of Ukrainian valor."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 34-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Абсолютна стилістична майстерність передбачає гармонійний перехід від суворої академічної аргументації до палкої публіцистики та естетично довершеного художнього слова.",
+          "reading": "[ɐbsɔˈlʲutnɐ stɪlʲisˈtɪtʃnɐ mɐjsˈtɛrnʲisʲtʲ pɛrɛdbɐˈtʃɑjɛ ɦɐrmɔˈnʲijnɪj pɛrɛˈxʲid wʲid suˈwɔrɔji ɐkɐdɛˈmʲitʃnɔji ɐrɦumɛnˈtɑt͡sʲiji dɔ pɐlˈkɔji publʲit͡sɪsˈtɪkɪ tɑ ɛstɛˈtɪtʃnɔ dɔwɛrˈʃɛnɔɦɔ xuˈdɔʒnʲɔɦɔ ˈslɔwɐ] (ahb-soh-LYOOT-nah sty-lees-TYCH-nah mahys-TEHR-neest' peh-rehd-bah-CHAH-yeh hahr-moh-NEEY-nyy peh-reh-KHEED veed soo-WOH-roh-yee ah-kah-deh-MEECH-noh-yee ahr-hoo-mehn-TAH-tsee-yee doh pahl-KOH-yee poob-lee-tsy-STY-ky tah ehs-teh-TYCH-noh doh-wehr-SHEH-noh-hoh khoo-DOHZH-nyoh-hoh SLOH-wah)",
+          "translation": "Absolute stylistic mastery involves a harmonious transition from rigorous academic argumentation to passionate publicism and aesthetically accomplished literary expression."
+        },
+        {
+          "target": "Українська мова — непереможна, багатоголоса, витончена та вічна основа буття нашого незламного народу.",
+          "reading": "[ukrɐˈjinsʲkɐ ˈmɔwɐ nɛpɛrɛˈmɔʒnɐ bɐɦɐtɔɦɔˈlɔsɐ wɪtɔnˈtʃɛnɐ tɑ ˈwʲitʃnɐ ɔsˈnɔwɐ butʲˈtʲɑ ˈnɑʃɔɦɔ nɛzˈlɑmnɔɦɔ nɐˈrɔdu] (oo-krah-YEEN-s'kah MOH-wah neh-peh-reh-MOHZH-nah, bah-hah-toh-hoh-LOH-sah, vy-tohn-CHEH-nah tah WEETCH-nah ohs-NOH-wah boot-TYAH NAH-shoh-hoh nez-LAHM-noh-hoh nah-ROH-doo)",
+          "translation": "The Ukrainian language is an invincible, polyphonic, refined, and eternal foundation of the existence of our indomitable people."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Сковорода: «Світ ловив, та не спіймав»; Шевченко: «Борітеся — поборете!»; Леся Українка: «Contra spem spero!»; Стус: «Як добре те, що смерті не боюсь я!»; Вінець курсу: C2 Mastery!"
+      ],
+      "culturalNotes": [
+        "Вітаємо із завершенням повного 170-урочного академічного курсу української мови від початкового рівня A1 до віртуозного рівня вільного володіння C2!"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Свобода\":",
+          "prompt": "Хто з українських класиків є автором афоризму «Contra spem spero! (Без надії сподіваюсь!)»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.5.",
-            "Неправильне відмінкове узгодження зі словом «Привіт»",
-            "Порушення законів евфонії та словотворення для «Добрий день»",
-            "Стилістично некоректна синтаксична конструкція з «Дякую»"
+            "Леся Українка (Lesya Ukrainka - titan of Ukrainian modernist literature)",
+            "Тарас Шевченко",
+            "Григорій Сковорода",
+            "Іван Франко"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Авторкою знаменитого неоромантичного маніфесту «Contra spem spero!» є Леся Українка."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Свобода\":",
+          "prompt": "Яке крилате гасло Тараса Шевченка з поеми «Кавказ» стало вічним заповітом національно-визвольної боротьби України?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.5.",
-            "Порушення законів евфонії та словотворення для «Добрий день»",
-            "Стилістично некоректна синтаксична конструкція з «Дякую»",
-            "Неправильне відмінкове узгодження зі словом «Привіт»"
+            "«Борітеся — поборете! Вам Бог помагає!» (Fight — and you will overcome! God helps you!)",
+            "«І чужому научайтесь, й свого не цурайтесь»",
+            "«Учітесь, читайте, і чужому научайтесь»",
+            "«Свою Україну любіть»"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Гаслом боротьби за свободу є безсмертний заклик Тараса Шевченка: «Борітеся — поборете! Вам Бог помагає!»."
         }
       ]
     },
@@ -14357,17 +14406,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Свобода\": Which sentence is completely correct?",
+          "prompt": "Оберіть підсумковий висновок, що найбільш повно відображає історичну велич, багатство та незламність української мови на рівні C2:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 34.5.",
-            "Стилістично некоректна синтаксична конструкція з «Дякую»",
-            "Неправильне відмінкове узгодження зі словом «Привіт»",
-            "Порушення законів евфонії та словотворення для «Добрий день»"
+            "Українська мова постає як виняткова самобутня система з тисячолітньою спадщиною, невичерпним лексичним багатством, високою стилістичною поліфонією та нездоланною силою національного духу.",
+            "Українська мова є простою діалектною формою без писемної традиції та літератури.",
+            "Рівень C2 не вимагає знання класичної літератури, філософії чи граматики.",
+            "Вивчення мови завершується на рівні простих розмовних фраз про їжу та погоду."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Українська мова постає як виняткова самобутня система з тисячолітньою спадщиною...» — тріумфальний філологічний підсумок курсу C2 Mastery."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   }
 };
