@@ -5543,56 +5543,65 @@
     "subject": "korean",
     "unit": 12,
     "lessonNumber": 1,
-    "title": "주체 높임법(-(으)시-)과 특수 어휘 (Subject Honorifics) (Part 1)",
+    "title": "주체 높임 선어말어미 (-(으)시-)의 형태 체계",
     "level": "B1",
-    "objective": "Comprehensive mastery of 주체 높임 선어말어미 -(으)시- (Subject Honorifics).",
+    "objective": "문장의 주어(행동의 주체)가 화자보다 존중해야 할 대상일 때 서술어에 삽입하는 선어말어미 '-(으)시-'의 형태 결합 규칙과 시제별 활용을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 주체 높임법(-(으)시-)과 특수 어휘 (Subject Honorifics) » (제1절)의 핵심 언어 요소와 주체 높임 선어말어미 -(으)시- (Subject Honorifics)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "주체 높임법은 문장의 주어인 인물이 화자(말하는 이)보다 나이가 많거나 사회적 지위가 높을 때, 그 주어를 높여 대우하는 한국어 문법의 핵심 체계입니다. 용언의 어간과 어말어미 사이에 선어말어미 '-(으)시-'를 삽입합니다.\n\n1. 형태 결합 규칙:\n- 모음 종결 어간 + -시-:\n  - 가다 → 가시다 (현재: 가세요 / 가십니다, 과거: 가셨어요 / 가셨습니다)\n  - 보다 → 보시다 (현재: 보세요 / 보십니다, 과거: 보셨어요 / 보셨습니다)\n  - 하다 → 하시다 (현재: 하세요 / 하십니다, 과거: 하셨어요 / 하셨습니다)\n- 자음 종결 어간 (받침 있음) + -으시-:\n  - 읽다 → 읽으시다 (현재: 읽으세요 / 읽으십니다, 과거: 읽으셨어요 / 읽으셨습니다)\n  - 앉다 → 앉으시다 (현재: 앉으세요 / 앉으십니다, 과거: 앉으셨어요 / 앉으셨습니다)\n  - 닫다 → 닫으시다 (현재: 닫으세요 / 닫으십니다, 과거: 닫으셨어요 / 닫으셨습니다)\n- 'ㄹ' 받침 종결 어간 + -시- ('ㄹ' 탈락 규칙):\n  - 살다 → 사시다 (사세요 / 사십니다)\n  - 만들다 → 만드시다 (만드세요 / 만드십니다)\n  - 알다 → 아시다 (아세요 / 아십니다)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (12.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "선생님께서 도서관에서 한국 역사 책을 읽으십니다.",
+          "reading": "Seonsaengnim-kkeseo doseogwan-eseo hanguk yeoksa chaeg-eul ilgeusimnida.",
+          "translation": "The teacher is reading a Korean history book in the library ('읽다' + '-으시-')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (12.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "아버지께서는 주말마다 산에서 신선한 공기를 마시며 등산하세요.",
+          "reading": "Abeoji-kkeseoneun jumalmada san-eseo sinseonhan gonggi-reul masimyeo deungsanhaseyo.",
+          "translation": "Father hikes in the mountains every weekend, breathing fresh air ('등산하다' + '-시-')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (12.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "어머니께서 가족들을 위해 정성껏 맛있는 저녁 식사를 만드셨어요.",
+          "reading": "Eomeoni-kkeseo gajokdeul-eul wihae jeongseongkkeot masinneun jeonyeok siksa-reul mandeusyeosseoyo.",
+          "translation": "Mother made a delicious dinner with all her heart for the family ('만들다' → ㄹ-drop '만드셨어요')."
+        },
+        {
+          "target": "할아버지께서는 서울 종로구의 조용한 한옥에 오래 사십니다.",
+          "reading": "Harabeoji-kkeseoneun Seoul Jongno-gu-ui joyonghan han-og-e orae sasimnida.",
+          "translation": "Grandfather has been living in a quiet Hanok in Jongno-gu, Seoul for a long time ('살다' → '사십니다')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "받침 없으면 '-시-', 받침 있으면 '-으시-', ㄹ 받침은 떨어져 나가 '사시다, 만드시다'!"
+      ],
+      "culturalNotes": [
+        "한국어에서 자신보다 윗사람인 부모님, 조부모님, 선생님, 직장 상사에 대해 말할 때는 반드시 주체 높임 선어말어미 '-(으)시-'를 사용하는 것이 필수적인 기본 예절입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 주체 높임 선어말어미 -(으)시- (Subject Honorifics) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "동사 '가다(to go)'의 주체 높임 현재 해요체 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (12.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (12.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (12.1.3)."
+            "가세요",
+            "가으세요",
+            "가셔요"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'가다'의 어간에 '-시-'와 '-어요'가 결합하면 표준적으로 축약되어 '가세요'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 주체 높임법(-(으)시-)과 특수 어휘 (Subject Honorifics) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "동사 '만들다(to make - ㄹ 받침)'의 주체 높임 과거 해요체 형태는 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (12.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (12.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (12.1.3)."
+            "만드셨어요",
+            "만들으셨어요",
+            "만들셨어요"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'만들다'는 'ㄹ' 받침이 탈락하면서 '-시-'가 결합하므로 '만드셨어요'가 올바릅니다."
         }
       ]
     },
@@ -5600,14 +5609,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 주체 높임 선어말어미 -(으)시- (Subject Honorifics) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 12-1)?",
+          "prompt": "'선생님께서 신문을 _____ (The teacher reads the newspaper).' 빈칸에 알맞은 '읽다'의 주체 높임 격식체(하십시오체)는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (12.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (12.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (12.1.3)."
+            "읽으십니다",
+            "읽십니다",
+            "읽으세요"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'읽다'는 자음 받침이 있으므로 '-으십니다'가 결합하여 '읽으십니다'가 됩니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'선생님께서 책을 읽으세요'(The teacher reads a book)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "선생님께서 책을 읽으세요.",
+            "선생님께서 책을 읽으세요"
+          ],
+          "explanation": "선생님께서(높임 주어) + 책을(목적어) + 읽으세요(읽다 + 으시 + 어요) = 선생님께서 책을 읽으세요."
         }
       ]
     }
@@ -5617,56 +5635,65 @@
     "subject": "korean",
     "unit": 12,
     "lessonNumber": 2,
-    "title": "주체 높임법(-(으)시-)과 특수 어휘 (Subject Honorifics) (Part 2)",
+    "title": "주체 높임 주격 조사 '께서'와 주제 보조사 '께서는'",
     "level": "B1",
-    "objective": "Comprehensive mastery of 주체 높임 선어말어미 -(으)시- (Subject Honorifics).",
+    "objective": "주어 명사 뒤에 결합하여 주어를 극존칭으로 대우하는 주격 조사 '께서'와 대조/주제 보조사 '께서는'의 통사적 일치(Syntactic Agreement)를 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 주체 높임법(-(으)시-)과 특수 어휘 (Subject Honorifics) » (제2절)의 핵심 언어 요소와 주체 높임 선어말어미 -(으)시- (Subject Honorifics)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "문장의 주어가 높임의 대상일 때는 서술어의 '-(으)시-'뿐만 아니라 주격 조사 역시 평칭 '이/가' 대신 존칭 주격 조사 '께서'를 사용해야 완벽한 주체 높임 통사 구조가 완성됩니다.\n\n1. 통사적 대응 구조:\n- 평칭 주격 조사 '이/가' → 존칭 주격 조사 '께서':\n  - 친구가 집에 갑니다. → 선생님께서 댁에 가십니다.\n  - 동생이 노래를 부릅니다. → 어머니께서 노래를 부르십니다.\n- 평칭 주제 보조사 '은/는' → 존칭 주제 보조사 '께서는':\n  - 형은 운동을 좋아해요. → 아버지께서는 운동을 좋아하세요.\n  - 민수는 친절해요. → 교수님께서는 매우 친절하십니다.\n\n2. 주어 명사의 호칭/직함 접미사 '-님':\n- 선생 → 선생님께서, 교수 → 교수님께서, 사장 → 사장님께서, 부모 → 부모님께서",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (12.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "교수님께서 학생들에게 유익한 전공 강의를 열정적으로 해 주셨습니다.",
+          "reading": "Gyosunim-kkeseo haksaengdeul-ege yuikhan jeongong gang-ui-reul yeoljeongjeog-euro hae jusyeotseumnida.",
+          "translation": "The professor passionately gave a beneficial lecture in the major to the students ('교수님께서')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (12.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "할머니께서는 따뜻한 봄날에 공원에서 산책하시는 것을 좋아하세요.",
+          "reading": "Harabeoji-kkeseoneun ttatteut-han bomnal-e gongwon-eseo sanchaekhasineun geos-eul joahaseyo.",
+          "translation": "Grandmother likes taking a walk in the park on warm spring days ('할머니께서는')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (12.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "사장님께서 오늘 회의에서 올해 사업 목표를 명확히 발표하셨습니다.",
+          "reading": "Sajangnim-kkeseo oneul hoewi-eseo olhae saeop mokpyo-reul myeonghwakhi balpyohasyeotseumnida.",
+          "translation": "The president clearly announced this year's business goals at today's meeting."
+        },
+        {
+          "target": "어머니께서는 항상 가족들의 건강과 행복을 위해 기도하십니다.",
+          "reading": "Eomeoni-kkeseoneun hangsang gajokdeul-ui geon-gang-gwa haengbok-eul wihae gidohasimnida.",
+          "translation": "Mother always prays for the health and happiness of the family."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "높은 분 뒤엔 '이/가' 대신 '께서', '은/는' 대신 '께서는'! 조사부터 깍듯이 모시자!"
+      ],
+      "culturalNotes": [
+        "한국어 문법에서는 주어 조사('께서')와 서술어 어미('-(으)시-')가 호응을 이루어야 합니다. '선생님이 가셨어요'처럼 구어에서 조사를 축약하기도 하지만, 격식 있는 자리에서는 '선생님께서 가셨습니다'가 올바른 표준 문장입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 주체 높임 선어말어미 -(으)시- (Subject Honorifics) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "'할아버지(Grandfather)' 뒤에 올 가장 알맞은 존칭 주격 조사는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (12.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (12.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (12.2.3)."
+            "께서",
+            "가",
+            "에게"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "주체 높임 대상 뒤에는 존칭 주격 조사 '께서'가 결합합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 주체 높임법(-(으)시-)과 특수 어휘 (Subject Honorifics) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "주어 조사와 서술어 높임이 완벽히 일치한 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (12.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (12.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (12.2.3)."
+            "아버지께서 아침 일찍 산책을 하십니다.",
+            "아버지가 아침 일찍 산책을 합니다.",
+            "아버지에게 아침 일찍 산책을 하십니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'아버지께서(존칭 주어) + 하십니다(주체 높임 서술어)'의 호응이 완벽합니다."
         }
       ]
     },
@@ -5674,14 +5701,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 주체 높임 선어말어미 -(으)시- (Subject Honorifics) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 12-2)?",
+          "prompt": "'교수님_____ 연구실에서 책을 읽으십니다.' 빈칸에 들어갈 가장 알맞은 존칭 조사는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (12.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (12.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (12.2.3)."
+            "께서",
+            "께",
+            "을"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "행동의 주체인 교수님을 높이는 주격 조사는 '께서'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'어머니께서 요리하세요'(Mother cooks)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "어머니께서 요리하세요.",
+            "어머니께서 요리하세요"
+          ],
+          "explanation": "어머니께서 + 요리하세요 = 어머니께서 요리하세요."
         }
       ]
     }
@@ -5691,56 +5727,65 @@
     "subject": "korean",
     "unit": 12,
     "lessonNumber": 3,
-    "title": "주체 높임법(-(으)시-)과 특수 어휘 (Subject Honorifics) (Part 3)",
+    "title": "주체 높임 특수 어휘 (계시다, 드시다, 주무시다, 편찮으시다)",
     "level": "B1",
-    "objective": "Comprehensive mastery of 주체 높임 선어말어미 -(으)시- (Subject Honorifics).",
+    "objective": "'-(으)시-'를 붙이지 않고 어휘 자체가 교체되는 보충법적(Suppletive) 주체 높임 특수 동사 및 형용사의 목록을 완벽히 암기하고 구별한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 주체 높임법(-(으)시-)과 특수 어휘 (Subject Honorifics) » (제3절)의 핵심 언어 요소와 주체 높임 선어말어미 -(으)시- (Subject Honorifics)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어의 일부 기초 동사와 형용사는 일반 어간에 '-(으)시-'를 붙이지 않고, 아예 형태가 완전히 다른 '특수 높임 어휘(Suppletive Honorific Words)'를 사용합니다.\n\n1. 필수 주체 높임 특수 어휘 목록:\n- 있다 (존재: exist/stay) → 계시다 (할머니께서 방에 계십니다)\n- 먹다 / 마시다 (eat/drink) → 드시다 / 잡수시다 (선생님께서 식사를 드십니다)\n- 자다 (sleep) → 주무시다 (아버지께서 안방에서 주무십니다)\n- 아프다 (be sick) → 편찮으시다 (할아버지께서 허리가 편찮으십니다)\n- 죽다 (die) → 돌아가시다 (작년에 할아버지께서 돌아가셨습니다)\n- 말하다 (speak/say) → 말씀하시다 (교수님께서 말씀하십니다)\n\n2. '계시다' vs '있으시다' (직접 높임 vs 간접 높임의 결정적 대비):\n- 사람 자체의 존재 (직접 높임): \"선생님께서 교무실에 계십니다.\"\n- 사람의 소유물/시간/증상 (간접 높임): \"선생님, 질문이 있으십니까?\", \"사장님, 지금 시간 있으세요?\" (*시간 계세요 X)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (12.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "선생님께서는 지금 연구실에 계시니 방문해 보십시오.",
+          "reading": "Seonsaengnim-kkeseoneun jigeum yeongusil-e gyesini bangmunhae bosipsio.",
+          "translation": "The professor is in the research lab right now, so please visit ('있다' → 특수 동사 '계시다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (12.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "할머니, 따뜻한 둥굴레차 한잔 드시면서 이야기 나누세요.",
+          "reading": "Harabeoji, ttatteut-han dunggullecha hanjan deusimyeonseo iyagi nanuseyo.",
+          "translation": "Grandmother, please have a warm cup of Solomon's seal tea and converse ('마시다' → '드시다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (12.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "아버지께서 피곤하셔서 일찍 안방에 들어가 주무십니다.",
+          "reading": "Abeoji-kkeseo pigonhasyeoseo iljjik anbang-e deureoga jumusimnida.",
+          "translation": "Father is tired, so he went into the master bedroom early and is sleeping ('자다' → '주무시다')."
+        },
+        {
+          "target": "외할아버지께서 며칠 전부터 감기 기운으로 몸이 편찮으십니다.",
+          "reading": "Oeharabeoji-kkeseo myeochil jeonbuteo gamgi giun-euro mom-i pyeonchaneusimnida.",
+          "translation": "Maternal grandfather has been feeling sick with cold symptoms for a few days ('아프다' → '편찮으시다')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "있다는 '계시다', 먹다는 '드시다', 자다는 '주무시다', 아프다는 '편찮으시다'! 4대 특수 높임!"
+      ],
+      "culturalNotes": [
+        "한국의 가정에서 아침에 웃어른께 인사드릴 때 '안녕히 주무셨어요?'라고 인사하고, 식사 자리에서는 '맛있게 드세요'라고 권하는 것이 가장 기초적인 가족 예절입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 주체 높임 선어말어미 -(으)시- (Subject Honorifics) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "'자다(to sleep)'의 주체 높임 특수 동사는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (12.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (12.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (12.3.3)."
+            "주무시다",
+            "자시다",
+            "자으시다"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "'자다'의 주체 높임 특수 동사는 '주무시다'입니다 (*자시다 X)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 주체 높임법(-(으)시-)과 특수 어휘 (Subject Honorifics) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "'할머니께서 집에 계신다(Grandmother is at home)'를 바르게 표현한 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (12.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (12.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (12.3.3)."
+            "할머니께서 집에 계십니다.",
+            "할머니께서 집에 있으십니다.",
+            "할머니께서 집에 사십니다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "인물 자체의 존재를 직접 높일 때는 특수 동사 '계시다'를 씁니다."
         }
       ]
     },
@@ -5748,14 +5793,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 주체 높임 선어말어미 -(으)시- (Subject Honorifics) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 12-3)?",
+          "prompt": "'어머니께서 저녁 식사를 맛있게 _____.' 빈칸에 알맞은 '먹다'의 특수 높임형은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (12.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (12.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (12.3.3)."
+            "드셨어요 (잡수셨어요)",
+            "먹으셨어요",
+            "주무셨어요"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "explanation": "'먹다'의 주체 높임형은 '드시다/잡수시다'이므로 과거형 '드셨어요/잡수셨어요'가 올바릅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'할머니께서 안방에 계세요'(Grandmother is in the master bedroom)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "할머니께서 안방에 계세요.",
+            "할머니께서 안방에 계세요"
+          ],
+          "explanation": "할머니께서 + 안방에 + 계세요(계시다 + 어요) = 할머니께서 안방에 계세요."
         }
       ]
     }
@@ -5765,56 +5819,65 @@
     "subject": "korean",
     "unit": 12,
     "lessonNumber": 4,
-    "title": "주체 높임법(-(으)시-)과 특수 어휘 (Subject Honorifics) (Part 4)",
+    "title": "주체 높임 명사 어휘 (진지, 댁, 성함, 연세) 및 간접 높임 원리",
     "level": "B1",
-    "objective": "Comprehensive mastery of 주체 높임 선어말어미 -(으)시- (Subject Honorifics).",
+    "objective": "높임 대상과 관련된 사물/개념을 가리키는 특수 명사 어휘와 신체/소유물을 높이는 간접 높임(Indirect Honorifics)의 규칙을 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 주체 높임법(-(으)시-)과 특수 어휘 (Subject Honorifics) » (제4절)의 핵심 언어 요소와 주체 높임 선어말어미 -(으)시- (Subject Honorifics)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "주체 높임법은 서술어뿐만 아니라 주어와 관련된 명사(Nouns) 역시 전용 높임 어휘로 교체하며, 대상의 소유물이나 신체 부위를 높이는 '간접 높임' 원리를 따릅니다.\n\n1. 필수 높임 명사 대응 목록:\n- 밥 (meal/rice) → 진지 (진지 잡수셨습니까?)\n- 집 (house) → 댁 (교수님 댁에 찾아뵈었습니다)\n- 이름 (name) → 성함 (성함이 어떻게 되십니까?)\n- 나이 (age) → 연세 (할아버지께서는 연세가 많으십니다)\n- 말 (words/speech) → 말씀 (선생님 말씀이 옳습니다)\n- 생일 (birthday) → 생신 (아버지 생신 축하드립니다)\n\n2. 간접 높임(Indirect Honorifics)의 원칙과 과도 존대 방지:\n- 원칙: 높임 대상의 신체 부위, 소유물, 생각, 가족 등을 간접적으로 높일 때는 특수 동사(계시다) 대신 '-(으)시-'만을 서술어에 결합합니다.\n  - \"할머니께서는 눈이 밝으십니다 (O).\"\n  - \"선생님, 감기 기운이 있으세요 (O) / *감기 기운이 계세요 (X).\"\n- 사물 과도 존대 오류 주의: 사람이 아닌 사물 자체를 높여서는 안 됩니다.\n  - \"커피 나오셨습니다 (X - 커피는 사람이 아님) → 커피 나왔습니다 (O)\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (12.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "어르신, 실례지만 성함과 연세가 어떻게 되시는지요?",
+          "reading": "Eoreusin, sillyejiman seongham-gwa yeonse-ga eotteoke doesineunjiyo?",
+          "translation": "Elder, excuse me, but may I ask what your name and age are ('이름' → '성함', '나이' → '연세')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (12.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "할머니께서는 아직 귀가 밝으셔서 작은 소리도 잘 들으십니다.",
+          "reading": "Harabeoji-kkeseoneun ajik gwi-ga balgeusyeoseo jageun sori-do jal deureusimnida.",
+          "translation": "Grandmother still has sharp hearing, so she hears small sounds well (Indirect Honorific: '밝으십니다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (12.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "내일은 아버지의 칠순 생신이셔서 온 가족이 모입니다.",
+          "reading": "Naeil-eun abeoji-ui chilsun saengsin-isyeoseo on gajok-i moimnida.",
+          "translation": "Tomorrow is Father's 70th birthday, so the whole family gathers ('생일' → '생신')."
+        },
+        {
+          "target": "교수님 댁에 초대받아 따뜻하고 정갈한 진지를 대접받았습니다.",
+          "reading": "Gyosunim daek-e chodaebada ttatteuthago jeonggalhan jinji-reul daejeopbadatseumnida.",
+          "translation": "I was invited to the professor's house and was treated to a warm and neat meal ('집' → '댁', '밥' → '진지')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "이름은 '성함', 나이는 '연세', 집은 '댁', 밥은 '진지', 생일은 '생신'! 명사도 품격 있게!"
+      ],
+      "culturalNotes": [
+        "한국의 서비스직(카페, 백화점 등)에서 '주문하신 상품이 품절이십니다'처럼 사물을 과도하게 존대하는 것은 문법적으로 잘못된 언어 습관(사물 과도 존대)으로 꼽힙니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 주체 높임 선어말어미 -(으)시- (Subject Honorifics) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "웃어른의 '이름(Name)'을 정중하게 여쭈어볼 때 쓰는 높임 명사는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (12.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (12.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (12.4.3)."
+            "성함",
+            "연세",
+            "진지"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'이름'의 높임 명사는 '성함'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 주체 높임법(-(으)시-)과 특수 어휘 (Subject Honorifics) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "웃어른의 신체나 소유물을 높이는 간접 높임 문장으로 가장 올바른 것은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (12.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (12.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (12.4.3)."
+            "교수님께서는 키가 크십니다.",
+            "교수님께서는 키가 크계십니다.",
+            "교수님께서는 키가 큽니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "주체의 신체(키)를 간접 높임할 때는 특수 어휘가 아닌 '크시다(크다 + 시)'를 씁니다."
         }
       ]
     },
@@ -5822,14 +5885,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 주체 높임 선어말어미 -(으)시- (Subject Honorifics) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 12-4)?",
+          "prompt": "'선생님, 지금 잠시 _____ (Teacher, do you have a moment)?' 빈칸에 알맞은 표현은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (12.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (12.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (12.4.3)."
+            "시간 있으세요?",
+            "시간 계세요?",
+            "시간 있어요?"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "소유물이나 시간은 간접 높임이므로 '계시다'가 아닌 '있으시다(있으세요)'를 써야 합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'성함이 어떻게 되세요?'(What is your name?)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "성함이 어떻게 되세요?",
+            "성함이 어떻게 되세요"
+          ],
+          "explanation": "성함이(이름의 높임) + 어떻게(의문 부사) + 되세요(되다 + 시 + 어요) = 성함이 어떻게 되세요?"
         }
       ]
     }
@@ -5839,56 +5911,65 @@
     "subject": "korean",
     "unit": 12,
     "lessonNumber": 5,
-    "title": "주체 높임법(-(으)시-)과 특수 어휘 (Subject Honorifics) (Part 5)",
+    "title": "웃어른 안부 묻기 및 공경의 실전 경어 담화 구성",
     "level": "B1",
-    "objective": "Comprehensive mastery of 주체 높임 선어말어미 -(으)시- (Subject Honorifics).",
+    "objective": "부모님, 교수님, 은사님께 안부를 묻고 건강과 일상을 공경하는 완벽한 주체 높임 담화를 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 주체 높임법(-(으)시-)과 특수 어휘 (Subject Honorifics) » (제5절)의 핵심 언어 요소와 주체 높임 선어말어미 -(으)시- (Subject Honorifics)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "부모님, 교수님, 직장 상사, 어르신과의 대화에서는 주체 높임 선어말어미('-(으)시-'), 특수 어휘('계시다, 드시다, 주무시다'), 높임 명사('성함, 연세, 진지, 댁')를 조화롭게 융합하여 격식 있고 품격 있는 담화를 완성합니다.\n\n1. 실전 안부 문답 대화 모델:\n- A: 교수님, 그동안 평안하셨습니까? 연구실로 찾아뵙게 되어 정말 기쁩니다.\n- B: 어서 와요, 민수 군! 한 학기 동안 잘 지냈나요?\n- A: 네, 교수님께서 늘 따뜻하게 지도해 주신 덕분에 보람차게 보냈습니다. 요즘 건강은 어떠신지요?\n- B: 덕분에 아주 건강하게 잘 지내고 있어요. 부모님께서도 모두 평안하시지요?\n- A: 네, 부모님께서도 매일 운동하시며 건강하게 지내고 계십니다.\n- B: 참 다행이네요. 부모님께도 제 안부 전해 드려요.\n- A: 네, 꼭 전해 드리겠습니다. 좋은 말씀 감사드립니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (12.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "A: 교수님, 그동안 안녕하셨습니까? B: 네, 민수 군도 잘 지냈지요?",
+          "reading": "A: Gyosunim, geudong-an annyeonghasyeotseumnikka? B: Ne, Minsu gun-do jal jinaetjiyo?",
+          "translation": "A: Professor, have you been well all this time? B: Yes, have you been doing well too, Minsu?"
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (12.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "할머니, 오늘 진지 맛있게 잡수셨어요? 밤에는 따뜻하게 주무세요.",
+          "reading": "Harabeoji, oneul jinji masitge jabsusyeosseoyo? Bam-eneun ttatteuthage jumuseyo.",
+          "translation": "Grandmother, did you have a delicious meal today? Please sleep warmly at night."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (12.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "아버지께서 퇴근 후 거실에서 조용히 클래식 음악을 들으십니다.",
+          "reading": "Abeoji-kkeseo toegeun hu geosil-eseo joyonghi keullaesik eum-ag-eul deureusimnida.",
+          "translation": "Father is quietly listening to classical music in the living room after work."
+        },
+        {
+          "target": "선생님께서 해주신 조언 덕분에 큰 용기를 얻을 수 있었습니다.",
+          "reading": "Seonsaengnim-kkeseo haejusin joeon deokbun-e keun yonggi-reul eodeul su isseotseumnida.",
+          "translation": "Thanks to the advice the teacher gave me, I was able to gain great courage."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "서술어엔 '-(으)시-', 명사엔 '진지/댁/성함', 특수 동사엔 '드시다/계시다'로 한국어 예절의 꽃을 피우자!"
+      ],
+      "culturalNotes": [
+        "한국에서는 오랜만에 윗사람을 만났을 때 '식사하셨습니까?' 또는 '그동안 편안하셨습니까?'라고 묻는 것이 상대방의 안녕과 건강을 배려하는 가장 보편적인 환영 인사입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 주체 높임 선어말어미 -(으)시- (Subject Honorifics) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "오랜만에 뵌 은사님께 정중하게 안부를 묻는 가장 적절한 인사말은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (12.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (12.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (12.5.3)."
+            "교수님, 그동안 안녕하셨습니까?",
+            "교수님, 그동안 밥 먹었어?",
+            "교수님, 그동안 잘 있었니?"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "은사님께는 존칭 주체 높임 의문형인 '그동안 안녕하셨습니까?'가 가장 완벽합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 주체 높임법(-(으)시-)과 특수 어휘 (Subject Honorifics) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "할머니께 식사 여부를 공손히 여쭈어보는 문장으로 가장 올바른 것은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (12.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (12.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (12.5.3)."
+            "할머니, 진지 잡수셨어요?",
+            "할머니, 밥 먹었어요?",
+            "할머니, 식사하셨니?"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'진지(높임 명사)'와 '잡수셨어요(특수 동사 잡수시다의 과거형)'가 호응하는 첫 번째 문장이 가장 공손합니다."
         }
       ]
     },
@@ -5896,14 +5977,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 주체 높임 선어말어미 -(으)시- (Subject Honorifics) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 12-5)?",
+          "prompt": "웃어른과의 안부 대화 중 높임법 체계가 가장 완벽하게 적용된 문장은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (12.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (12.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (12.5.3)."
+            "선생님께서 건강하시고 댁내 두루 평안하시기를 바랍니다.",
+            "선생님이 건강하고 집이 다 편안하기를 바란다.",
+            "선생님께서 건강하셔서 집에 계셨으면 좋겠다."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'선생님께서', '건강하시고', '댁내', '평안하시기를' 등 모든 요소가 존경의 격식을 갖추었습니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'교수님께서 도서관에 계십니다'(The professor is in the library)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "교수님께서 도서관에 계십니다.",
+            "교수님께서 도서관에 계십니다"
+          ],
+          "explanation": "교수님께서(높임 주어) + 도서관에(장소) + 계십니다(특수 높임 서술어) = 교수님께서 도서관에 계십니다."
         }
       ]
     }
