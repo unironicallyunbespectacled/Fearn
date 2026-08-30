@@ -2945,53 +2945,62 @@
     "subject": "ukrainian",
     "unit": 7,
     "lessonNumber": 1,
-    "title": "Орудний відмінок: знаряддя та супровід (Instrumental Case) (Part 1)",
+    "title": "Орудний відмінок без прийменника: знаряддя дії та засоби пересування (Instrumental of Means & Transport)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 7.1) with authentic linguistic precision.",
+    "objective": "Опанувати безприйменниковий орудний відмінок (ким? чим?) на позначення знаряддя праці, інструмента дії та засобу транспорту.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Орудний відмінок (Instrumental Case / ким? чим?) позначає засіб, знаряддя або інструмент, за допомогою якого виконується дія:\n\n1. Знаряддя праці та інструменти (без прийменника):\n- «Писати (чим?) кульковою ручкою / простим олівцем»\n- «Різати свіжий хліб гострим ножем»\n- «Їсти гарячий суп столовою ложкою, а другу страву — виделкою»\n- «Малювати мальовничий краєвид олійними фарбами»\n\n2. Засоби пересування та транспорту:\n- «Подорожувати Україною швидкісним поїздом»\n- «Летіти до Європи сучасним літаком»\n- «Їхати на роботу міським автобусом або метрополітеном»\n\n3. Синтаксична роль:\n- У реченні безприйменниковий орудний виступає непрямим додатком зі значенням знаряддя або обставиною способу дії (наприклад: «співати тихим голосом», «йти швидким кроком»).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Студенти старанно пишуть конспекти лекцій синьою ручкою у великих зошитах.",
+          "reading": "[stuˈdɛntɪ stɐˈrɑnːɔ ˈpɪʃutʲ kɔnˈspɛktɪ ˈlɛktsʲij ˈsɪnʲɔju ˈrutʃkɔju u wɛˈlɪkɪx ˈzɔʃɪtɐx] (stoo-DEN-ty stah-RAHN-noh PY-shoot' kohn-SPEK-ty LEK-tseey SY-n'oh-yoo ROOCH-koh-yoo oo veh-LY-kykh ZOH-shy-tahkh)",
+          "translation": "Students diligently write lecture notes with a blue pen in large notebooks."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 7-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Ми щоліта подорожуємо старовинними містами України зручним потягом.",
+          "reading": "[mɪ ʃtʃɔˈlʲitɐ pɔdɔrɔˈʒujɛmɔ stɐrɔˈwɪnːɪmɪ mʲisˈtɑmɪ ukrɐˈjinɪ zrutʃˈnɪm ˈpɔtʲɑɦɔm] (my shchoh-LEE-tah poh-doh-roh-ZHOO-yeh-moh stah-roh-VYN-ny-my mees-TAH-my oo-krah-YEE-ny zrooch-NYM POH-tyah-hohm)",
+          "translation": "Every summer we travel around the ancient cities of Ukraine by convenient train."
+        },
+        {
+          "target": "Художник майстерно малює краєвид Карпат пензлем і яскравими фарбами.",
+          "reading": "[xuˈdɔʒnɪk mɐjsʲˈtɛrnɔ mɐˈlʲujɛ krɐjɛˈwɪd kɐrˈpɑt ˈpɛnzlɛm i jɐsˈkrɑwɪmɪ ˈfɑrbɐmɪ] (khoo-DOZH-nyk my-STER-noh mah-LYOO-yeh krah-yeh-VYD kahr-PAHT PENZ-lem ee yahs-KRAH-vy-my FAHR-bah-my)",
+          "translation": "The artist skillfully paints a Carpathian landscape with a brush and bright paints."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Ким?» і «Чим?» орудуй сміло — ручкою, ножем та пензлем роби діло!"
+      ],
+      "culturalNotes": [
+        "Конструкція «їхати поїздом / автобусом» (в орудному відмінку без прийменника) є найбільш питомою та стилістично бездоганною нормою української мови, на відміну від калькованих прийменникових виразів."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Магазин\":",
+          "prompt": "Оберіть речення, в якому засіб пересування правильно вжито у формі орудного відмінка без прийменника:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.1.",
-            "Неправильне відмінкове узгодження зі словом «Гроші»",
-            "Порушення законів евфонії та словотворення для «Ціна»",
-            "Стилістично некоректна синтаксична конструкція з «Знижка»"
+            "Ми щоранку добираємося до університету міським автобусом. (Instrumental of transport)",
+            "Ми щоранку добираємося до університету міському автобусу.",
+            "Ми щоранку добираємося до університету міським автобусі.",
+            "Ми щоранку добираємося до університету на міським автобусом."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "В українській мові засіб пересування вживається в орудному відмінку без прийменника: «автобусом»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Магазин\":",
+          "prompt": "Поставте слово «ручка» у форму орудного відмінка в реченні «Я пишу важливий лист ...»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.1.",
-            "Порушення законів евфонії та словотворення для «Ціна»",
-            "Стилістично некоректна синтаксична конструкція з «Знижка»",
-            "Неправильне відмінкове узгодження зі словом «Гроші»"
+            "Ручкою (Feminine Instrumental ending in -oju)",
+            "Ручку",
+            "Ручці",
+            "Ручки"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Іменник жіночого роду твердої групи «ручка» в орудному відмінку набуває закінчення «-ою»: «ручкою»."
         }
       ]
     },
@@ -2999,17 +3008,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Магазин\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, де всі знаряддя дії граматично правильно оформлені в орудному відмінку:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.1.",
-            "Стилістично некоректна синтаксична конструкція з «Знижка»",
-            "Неправильне відмінкове узгодження зі словом «Гроші»",
-            "Порушення законів евфонії та словотворення для «Ціна»"
+            "Учень креслить креслення олівцем і лінійкою, а пише ручкою.",
+            "Учень креслить креслення олівця і лінійку, а пише ручку.",
+            "Учень креслить креслення олівцю і лінійці, а пише ручці.",
+            "Учень креслить креслення олівцем і лінійком, а пише ручкем."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Олівцем» (чол. рід, -ем), «лінійкою» (жін. рід, -ою), «ручкою» (жін. рід, -ою) — бездоганні форми орудного відмінка."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u7-l2": {
@@ -3017,53 +3027,62 @@
     "subject": "ukrainian",
     "unit": 7,
     "lessonNumber": 2,
-    "title": "Орудний відмінок: знаряддя та супровід (Instrumental Case) (Part 2)",
+    "title": "Орудний відмінок із прийменником «з / зі / із»: супровід, спільна дія та закони евфонії (Accompaniment with Z/ZI)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 7.2) with authentic linguistic precision.",
+    "objective": "Опанувати вживання орудного відмінка з прийменником з/зі/із на позначення супроводу (з ким? з чим?), сумісної дії, гастрономічних сполук та закони чергування з/зі/із.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Орудний відмінок із прийменником «з» (зі, із) виражає спільність, взаємодію або наявність додаткового компонента:\n\n1. Супровід та спільна дія (з ким?):\n- «Спілкуватися з викладачем / з рідним братом / з найкращою подругою»\n- «Йти в кіно з новими друзями»\n- «Працювати разом з колегами над проєктом»\n\n2. Гастрономічні сполуки та наявність складових (з чим?):\n- «Пити запашну каву з молоком / гарячий чай з лимоном та медом»\n- «Їсти свіжі українські вареники зі сметаною та вишнями»\n- «Бутерброд із сиром та ковбасою»\n\n3. Закони евфонії для прийменників «з / зі / із»:\n- «З»: перед голосними та більшістю приголосних («з батьком», «з мамою», «з олівцем»).\n- «Зі»: перед сполуками приголосних, що починаються на [з, с, ш, щ] та займенником «мною» («зі мною», «зі школи», «зі столу», «зі смаком»).\n- «Із»: між приголосними на межі слів для уникнення збігу приголосних («лист із Харкова», «бутерброд із сиром»).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Сьогодні ввечері ми з друзями п'ємо запашний чай із м'ятою та свіжим медом.",
+          "reading": "[sʲɔˈɦɔdnʲi ˈwːɛtʃɛrʲi mɪ z ˈdruzʲɑmɪ pjɛmɔ zɐpɐʃˈnɪj tʃɑj iz ˈmjɑtɔju tɑ ˈsʲwʲiʒɪm ˈmɛdɔm] (syoh-HOHD-nee VVEH-cheh-ree my z DROOZ-yah-my p'yeh-moh zah-pahsh-NYI CHAHY eez MYAH-toh-yoo tah SVEE-zhym MEH-dohm)",
+          "translation": "Tonight my friends and I drink aromatic tea with mint and fresh honey."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 7-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Професор детально обговорює результати нового дослідження зі студентами.",
+          "reading": "[prɔˈfɛsɔr dɛˈtɑlʲnɔ ɔbɦɔwɔˈrʲujɛ rɛzulʲˈtɑtɪ nɔˈwɔɦɔ dɔsʲˈlʲidʒɛnʲːɑ zʲi stuˈdɛntɐmɪ] (proh-FEH-sohr deh-TAHL'-noh ohb-hoh-vohr-YOO-yeh reh-zool'-TAH-ty noh-VOH-hoh doh-SLEED-zhen-nyah zee stoo-DEN-tah-my)",
+          "translation": "The professor discusses the results of the new research in detail with the students."
+        },
+        {
+          "target": "Марія з великим задоволенням гуляє мальовничим парком зі своєю сестрою.",
+          "reading": "[mɐˈrʲijɑ z wɛˈlɪkɪm zɐdɔˈwɔlɛnʲːɐm ɦuˈlʲɑjɛ mɐlʲɔwˈnɪtʃɪm ˈpɑrkɔm zʲi swɔˈjɛju sɛsˈtrɔju] (mah-REE-yah z veh-LY-kym zah-doh-VOH-len-nyahm hoo-LYAH-yeh mah-lyov-NY-chym PAHR-kohm zee svoh-YEH-yoo ses-TROH-yoo)",
+          "translation": "Maria walks through the picturesque park with her sister with great pleasure."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "З другом і подругою, з чаєм і сметаною; Зі мною та зі школи — з прийменником ми єдині!"
+      ],
+      "culturalNotes": [
+        "Українська формула «Ми з тобою / ми з братом» означає «Я і ти / я і брат» і є питомою синтаксичною ідіомою для вираження тісного союзу та партнерства."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Гроші\":",
+          "prompt": "Оберіть правильний евфонічний варіант прийменника з орудним відмінком у виразі «... мною розмовляли»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.2.",
-            "Неправильне відмінкове узгодження зі словом «Ціна»",
-            "Порушення законів евфонії та словотворення для «Знижка»",
-            "Стилістично некоректна синтаксична конструкція з «Каса»"
+            "Зі мною (Euphonic zi before mn-)",
+            "З мною",
+            "Із мною",
+            "С мною"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Перед займенником «мною» за законами української евфонії вживається форма «зі»: «зі мною»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Гроші\":",
+          "prompt": "Поставте слово «молоко» у форму орудного відмінка в гастрономічній сполуці «Кава з ...»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.2.",
-            "Порушення законів евфонії та словотворення для «Знижка»",
-            "Стилістично некоректна синтаксична конструкція з «Каса»",
-            "Неправильне відмінкове узгодження зі словом «Ціна»"
+            "Молоком (Neuter Instrumental ending in -om)",
+            "Молока",
+            "Молоці",
+            "Молоку"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Іменник середнього роду «молоко» в орудному відмінку має закінчення «-ом»: «кава з молоком»."
         }
       ]
     },
@@ -3071,17 +3090,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Гроші\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому дотримано правил евфонії та граматики орудного відмінка з прийменниками:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.2.",
-            "Стилістично некоректна синтаксична конструкція з «Каса»",
-            "Неправильне відмінкове узгодження зі словом «Ціна»",
-            "Порушення законів евфонії та словотворення для «Знижка»"
+            "Оксана смакує гарячі вареники зі сметаною та п'є чай із запашним лимоном.",
+            "Оксана смакує гарячі вареники з сметаною та п'є чай з запашним лимоном.",
+            "Оксана смакує гарячі вареники зі сметани та п'є чай із запашного лимона.",
+            "Оксана смакує гарячі вареники с сметаною та п'є чай с запашним лимоном."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Зі сметаною» (перед с-), «із запашним лимоном» (між приголосними в орудному відмінку) — бездоганні форми."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u7-l3": {
@@ -3089,53 +3109,62 @@
     "subject": "ukrainian",
     "unit": 7,
     "lessonNumber": 3,
-    "title": "Орудний відмінок: знаряддя та супровід (Instrumental Case) (Part 3)",
+    "title": "Орудний відмінок у ролі іменної частини присудка: професії, посади, покликання та зміни стану (Predicate Instrumental)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 7.3) with authentic linguistic precision.",
+    "objective": "Опанувати вживання орудного відмінка в ролі предиката після зв'язкових дієслів (бути, стати, працювати, називатися, вважатися) на позначення професій та соціального статусу.",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській літературній мові орудний відмінок є головним засобом оформлення іменної частини складеного присудка при дієсловах стану та діяльності:\n\n1. Дієслово «бути» у минулому та майбутньому часі:\n- «Він був досвідченим інженером / талановитим лікарем»\n- «Вона буде успішною вченою / відомою перекладачкою»\n- (У теперішньому часі з нульовою зв'язкою вживається називний: «Він — інженер»).\n\n2. Дієслова зміни стану («стати», «зробитися»):\n- «Мій брат хоче стати дипломатом»\n- «Вона стала директоркою великої наукової бібліотеки»\n- «Київ став справжнім центром європейської інтеграції»\n\n3. Дієслова професійної діяльності та оцінки («працювати», «служити», «вважатися»):\n- «Оксана працює вчителькою української мови»\n- «Він вважається найкращим фахівцем у сфері комп'ютерних технологій»\n- «Це місто називається Києвом».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Після закінчення університету Тарас працює провідним інженером у міжнародній компанії.",
+          "reading": "[ˈpʲisʲlʲɑ zɐkʲinˈtʃɛnʲːɑ unʲiwɛrsɪˈtɛtu tɐˈrɑs prɐt͡sʲuˈjɛ prɔwʲidˈnɪm inʒɛˈnɛrɔm u mʲiʒnɐˈrɔdnʲij kɔmˈpɑnʲijɪ] (PEES-lyah zah-keen-CHEN-nyah oo-nee-ver-sy-TEH-too tah-RAHS praht-SYOO-yeh proh-veed-NYM een-zheh-NEH-rohm oo meezh-nah-ROHD-neey kohm-PAH-nee-yee)",
+          "translation": "After graduating from university, Taras works as a leading engineer in an international company."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 7-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Моя старша сестра мріє стати професійною перекладачкою художньої літератури.",
+          "reading": "[mɔˈjɑ ˈstɑrʃɐ sɛsˈtrɑ ˈmrʲijɛ ˈstɑtɪ prɔfɛˈsʲijnɔju pɛrɛklɐˈdɑtʃkɔju xuˈdɔʒnʲɔjɪ lʲitɛrɐˈturɪ] (moh-YAH STAHR-shah ses-TRAH MREE-yeh STAH-ty proh-feh-SEEY-noh-yoo peh-reh-klah-DAHCH-koh-yoo khoo-DOZH-n'oh-yee lee-teh-rah-TOO-ry)",
+          "translation": "My older sister dreams of becoming a professional translator of literary works."
+        },
+        {
+          "target": "Він був видатним науковцем і завжди залишався щирою та доброю людиною.",
+          "reading": "[wʲin buw wɪdɐtˈnɪm nɐuˈkɔwtsɛm i zɐwˈʒdɪ zɐlɪˈʃɑwsʲɑ ˈʃtʃirɔju tɑ ˈdɔbrɔju lʲuˈdɪnɔju] (VEEN boov vy-daht-NYM nah-oo-KOV-tsem ee zahv-ZHDY zah-ly-SHAHV-syah SHCHEE-roh-yoo tah DOH-broh-yoo lyoo-DY-noh-yoo)",
+          "translation": "He was a prominent scholar and always remained a sincere and kind person."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Бути лікарем, стати вченим, працювати директором — орудний предикат веде професію завжди!"
+      ],
+      "culturalNotes": [
+        "Вживання орудного відмінка з дієсловом «працювати» («працювати вчителем», а не «працювати як вчитель») є непорушним синтаксичним правилом нормативної української мови."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Ціна\":",
+          "prompt": "Оберіть речення, в якому посада та професія правильно оформлена предикативним орудним відмінком:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.3.",
-            "Неправильне відмінкове узгодження зі словом «Знижка»",
-            "Порушення законів евфонії та словотворення для «Каса»",
-            "Стилістично некоректна синтаксична конструкція з «Рахунок»"
+            "Моя мама вже багато років працює головною лікаркою в міській лікарні. (Predicate Instrumental with працювати)",
+            "Моя мама вже багато років працює головна лікарка в міській лікарні.",
+            "Моя мама вже багато років працює як головна лікарка в міській лікарні.",
+            "Моя мама вже багато років працює головній лікарці в міській лікарні."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Дієслово «працювати» вимагає форми орудного відмінка без прийменника: «працює головною лікаркою»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Ціна\":",
+          "prompt": "Поставте вираз «відомий вчений» у форму орудного відмінка після дієслова «хоче стати ...»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.3.",
-            "Порушення законів евфонії та словотворення для «Каса»",
-            "Стилістично некоректна синтаксична конструкція з «Рахунок»",
-            "Неправильне відмінкове узгодження зі словом «Знижка»"
+            "Відомим вченим (To become a prominent scholar - Instrumental)",
+            "Відомий вчений",
+            "Відомого вченого",
+            "Відомому вченому"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Після дієслова «стати» іменна частина присудка вживається в орудному відмінку: «стати відомим вченим»."
         }
       ]
     },
@@ -3143,17 +3172,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Ціна\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення з граматично правильно побудованим складеним присудком у минулому часі:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.3.",
-            "Стилістично некоректна синтаксична конструкція з «Рахунок»",
-            "Неправильне відмінкове узгодження зі словом «Знижка»",
-            "Порушення законів евфонії та словотворення для «Каса»"
+            "Його дід був хоробрим козаком і мудрим отаманом.",
+            "Його дід був хоробрий козак і мудрий отаман.",
+            "Його дід був хороброго козака і мудрого отамана.",
+            "Його дід був хороброму козаку і мудрому отаману."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "При дієслові «бути» у минулому часі предикат стоїть в орудному відмінку: «був хоробрим козаком і мудрим отаманом»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u7-l4": {
@@ -3161,53 +3191,62 @@
     "subject": "ukrainian",
     "unit": 7,
     "lessonNumber": 4,
-    "title": "Орудний відмінок: знаряддя та супровід (Instrumental Case) (Part 4)",
+    "title": "Морфологічні парадигми орудного відмінка: закінчення -ом/-ем/-єм, -ою/-ею/-єю та подвоєння у III відміні (Instrumental Morphology)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 7.4) with authentic linguistic precision.",
+    "objective": "Опанувати повну систему закінчень орудного відмінка однини іменників I, II, III відмін (зокрема явище подовження/апострофа в III відміні: ніччю, сіллю, любов'ю).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Творення форм орудного відмінка однини в українській мові регулюється розподілом за групами основ та відмінами:\n\n1. Іменники II відміни (чоловічий та середній рід):\n- Тверда група -> закінчення «-ом»:\n  • «Брат -> братом», «стіл -> столом», «місто -> містом», «село -> селом».\n- М'яка група -> закінчення «-ем»:\n  • «Вчитель -> вчителем», «лікар -> лікарем», «море -> морем», «поле -> полем».\n- Основи на [й] -> закінчення «-єм»:\n  • «Гай -> гаєм», «край -> краєм», «життя -> життям», «завдання -> завданням».\n\n2. Іменники I відміни (жіночий та чоловічий рід на -а/-я):\n- Тверда група -> закінчення «-ою»:\n  • «Вода -> водою», «книга -> книгою», «мама -> мамою», «староста -> старостою».\n- М'яка та мішана групи -> закінчення «-ею»:\n  • «Земля -> землею», «пісня -> піснею», «душа -> душею», «круча -> кручею».\n- Основи на [й] -> закінчення «-єю»:\n  • «Мрія -> мрією», «надія -> надією», «стаття -> статтею».\n\n3. Іменники III відміни (жіночий рід на приголосний):\n- Якщо основа між двома голосними закінчується на один м'який приголосний -> ПОДВОЄННЯ (подовження):\n  • «Ніч -> ніччю», «сіль -> сіллю», «мідь -> міддю», «тінь -> тінню».\n- Якщо основа закінчується на збіг приголосних або губний [б, п, в, м, ф], «р» -> без подвоєння (з апострофом):\n  • «Радість -> радістю», «молодість -> молодістю», «любов -> любов'ю», «матір -> матір'ю».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Студенти з щирою радістю та безмежною гордістю вітають переможця олімпіади.",
+          "reading": "[stuˈdɛntɪ z ˈʃtʃirɔju ˈrɑdʲisʲtʲu tɑ bɛzˈmɛʒnɔju ˈɦɔrdʲisʲtʲu wʲiˈtɑjutʲ pɛrɛˈmɔʒtsʲɑ ɔlʲimˈpʲiɑdɪ] (stoo-DEN-ty z SHCHEE-roh-yoo RAH-deest'-yoo tah bez-MEZH-noh-yoo HOR-deest'-yoo vee-TAH-yoot' peh-reh-MOHZH-tsyah oh-leem-PEE-ah-dy)",
+          "translation": "Students congratulate the olympiad winner with sincere joy and boundless pride."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 7-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Тихою темною ніччю над древнім містом яскраво сяють мільйони зірок.",
+          "reading": "[ˈtɪxɔju ˈtɛmnɔju ˈnʲitʃːu nɑd ˈdrɛwnʲim ˈmʲistɔm jɐsˈkrɑwɔ ˈsʲɑjutʲ mʲilʲˈjɔnɪ zʲiˈrɔk] (TY-khoh-yoo TEM-noh-yoo NEECH-chyoo nahd DREV-neem MEES-tohm yahs-KRAH-voh SYAH-yoot' meel'-YOH-ny zee-ROHK)",
+          "translation": "On a quiet dark night, millions of stars shine brightly over the ancient city."
+        },
+        {
+          "target": "Він захищає рідну землю зі щирою синівською любов'ю в серці.",
+          "reading": "[wʲin zɐxɪˈʃtʃɑjɛ ˈrʲidnu ˈzɛmlʲu zʲi ˈʃtʃirɔju sɪˈnʲiwsʲkɔju lʲuˈbɔwju w ˈsɛrt͡sʲi] (VEEN zah-khy-SHCHAH-yeh REED-noo ZEM-lyoo zee SHCHEE-roh-yoo sy-NEEV-s'koh-yoo lyoo-BOV-yoo v SER-tsee)",
+          "translation": "He defends his native land with sincere filial love in his heart."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Твердий — -ом та -ою враз; М'який — -ем та -ею в добрий час; Ніччю, сіллю — з подвоєнням лунає, любов'ю — апостроф не забуває!"
+      ],
+      "culturalNotes": [
+        "Подовження приголосних в орудному відмінку III відміни («ніччю», «тінню», «пам'яттю») є однією з найвиразніших фонетичних перлин української мови."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Знижка\":",
+          "prompt": "Утворіть правильну форму орудного відмінка від іменника III відміни «ніч»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.4.",
-            "Неправильне відмінкове узгодження зі словом «Каса»",
-            "Порушення законів евфонії та словотворення для «Рахунок»",
-            "Стилістично некоректна синтаксична конструкція з «Гривня»"
+            "Ніччю (III declension doubling: ніч -> ніччю)",
+            "Ніччу",
+            "Ніччюю",
+            "Ноччю"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Іменник III відміни «ніч» в орудному відмінку однини має подовження шиплячого приголосного: «ніччю»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Знижка\":",
+          "prompt": "Як правильно пишеться форма орудного відмінка від слова «любов»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.4.",
-            "Порушення законів евфонії та словотворення для «Рахунок»",
-            "Стилістично некоректна синтаксична конструкція з «Гривня»",
-            "Неправильне відмінкове узгодження зі словом «Каса»"
+            "Любов'ю (Apostrophe after labial v before iu)",
+            "Любоввю",
+            "Любовю",
+            "Любовою"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Після губного [в] перед [ю] за правилами української орфографії пишеться апостроф: «любов'ю»."
         }
       ]
     },
@@ -3215,17 +3254,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Знижка\": Which sentence is completely correct?",
+          "prompt": "Оберіть рядок, у якому ВСІ іменники III відміни в орудному відмінку мають подвоєння (подовження) приголосного:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.4.",
-            "Стилістично некоректна синтаксична конструкція з «Гривня»",
-            "Неправильне відмінкове узгодження зі словом «Каса»",
-            "Порушення законів евфонії та словотворення для «Рахунок»"
+            "Ніччю, сіллю, тінню, міддю, подорожжю",
+            "Радістю, любов'ю, матір'ю, кров'ю, молодістю",
+            "Братом, столом, селом, містом, вікном",
+            "Землею, піснею, водою, книгою, мрією"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Ніччю», «сіллю», «тінню», «міддю», «подорожжю» мають одиночний м'який приголосний між голосними, що зазнає регулярного подовження."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u7-l5": {
@@ -3233,53 +3273,62 @@
     "subject": "ukrainian",
     "unit": 7,
     "lessonNumber": 5,
-    "title": "Орудний відмінок: знаряддя та супровід (Instrumental Case) (Part 5)",
+    "title": "Орудний відмінок із просторовими прийменниками статичного розташування: «під», «над», «перед», «за», «між» (Spatial Instrumental)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 7.5) with authentic linguistic precision.",
+    "objective": "Опанувати прийменникове керування орудного відмінка з просторовими прийменниками розташування (під, над, перед, за, між) на позначення місця (Де?).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Орудний відмінок відповідає на питання «Де?» (Location / Place) у поєднанні з просторовими прийменниками:\n\n1. Прийменники просторової орієнтації:\n- «Під» (Under / Below): «Під високим зеленим деревом», «під старим мостом».\n- «Над» (Above / Over): «Над могутнім Дніпром», «над золотими куполами Києва», «прапор майорить над будівлею».\n- «Перед» (In front of / Before): «Перед головним корпусом університету», «перед входом у театр».\n- «За» (Behind / Beyond): «За високим будинком», «за широкою річкою», «за містом на природі».\n- «Між» (Between / Among): «Між цими двома старовинними будинками», «між щирими друзями».\n\n2. Диференціація «Де? (Орудний)» vs «Куди? (Знахідний)»:\n- Орудний (статика, де?): «Птах літає над полем / сонце стоїть за хмарою».\n- Знахідний (динаміка, куди?): «Сонце сідає за хмару / птах злетів над поле».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Перед величним університетом цвітуть яскраві квіти, а над куполом майорить державний прапор.",
+          "reading": "[ˈpɛrɛd wɛˈlɪtʃnɪm unʲiwɛrsɪˈtɛtɔm t͡sʲwʲiˈtutʲ jɐsˈkrɑwʲi ˈkwʲitɪ, ɑ nɑd ˈkupolɔm mɐjɔˈrɪtʲ dɛrˈʒɑwnɪj ˈprɑpɔr] (PEH-red veh-LYCH-nym oo-nee-ver-sy-TEH-tohm tsvee-TOOT' yahs-KRAH-vee KVEE-ty, ah nahd KOO-poh-lohm mah-yoh-RYT' der-ZHAHV-nyi PRAH-por)",
+          "translation": "In front of the majestic university bright flowers blossom, and above the dome the national flag flies."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 7-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "За широкою річкою розкинувся густий ліс із віковими дубами.",
+          "reading": "[zɑ ʃɪˈrɔkɔju ˈrʲitʃkɔju rɔzˈkɪnuwsʲɑ husˈtɪj lʲis iz wʲikɔˈwɪmɪ duˈbɑmɪ] (zah shy-ROH-koh-yoo REECH-koh-yoo roz-KY-noov-syah hoos-TYI LEES eez vee-koh-VY-my doo-BAH-my)",
+          "translation": "Beyond the wide river stretches a dense forest with ancient oaks."
+        },
+        {
+          "target": "Між нашими двома університетами існує тісна та плідна наукова співпраця.",
+          "reading": "[mʲiʒ ˈnɑʃɪmɪ dwɔˈmɑ unʲiwɛrsɪˈtɛtɐmɪ isˈnujɛ tʲisˈnɑ tɑ ˈplʲidnɐ nɐuˈkɔwɐ sʲwʲipˈprɑt͡sʲɑ] (meezh NAH-shy-my dvoh-MAH oo-nee-ver-sy-TEH-tah-my ees-NOO-yeh tees-NAH tah PLEED-nah nah-oo-KOH-vah sveep-PRAH-tsyah)",
+          "translation": "Between our two universities there exists close and fruitful scientific cooperation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Під, над, перед, за і між — де ти є, усім розкажи; В орудному відмінку простір опиши!"
+      ],
+      "culturalNotes": [
+        "Образи «сонце над Дніпром», «зорі над степом», «хата під лісом» є класичними архетипами українського поетичного простору."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Каса\":",
+          "prompt": "Оберіть речення, де прийменник «перед» правильно керує орудним відмінком на позначення місця:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.5.",
-            "Неправильне відмінкове узгодження зі словом «Рахунок»",
-            "Порушення законів евфонії та словотворення для «Гривня»",
-            "Стилістично некоректна синтаксична конструкція з «Картка»"
+            "Ми зустрілися перед центральним входом до театру. (Location: перед + Instrumental)",
+            "Ми зустрілися перед центральний вхід до театру.",
+            "Ми зустрілися перед центрального входу до театру.",
+            "Ми зустрілися перед центральному входові до театру."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Прийменник «перед» у значенні просторового розташування (Де?) керує орудним відмінком: «перед входом»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Каса\":",
+          "prompt": "Поставте слово «річка» у форму орудного відмінка після прийменника «за» у значенні «Де знаходиться село?»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.5.",
-            "Порушення законів евфонії та словотворення для «Гривня»",
-            "Стилістично некоректна синтаксична конструкція з «Картка»",
-            "Неправильне відмінкове узгодження зі словом «Рахунок»"
+            "За річкою (Beyond the river - Location in Instrumental)",
+            "За річку",
+            "За річки",
+            "За річці"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "На питання «Де?» прийменник «за» вимагає орудного відмінка: «за річкою»."
         }
       ]
     },
@@ -3287,17 +3336,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Каса\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому всі просторові прийменники правильно вжиті з орудним відмінком:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 7.5.",
-            "Стилістично некоректна синтаксична конструкція з «Картка»",
-            "Неправильне відмінкове узгодження зі словом «Рахунок»",
-            "Порушення законів евфонії та словотворення для «Гривня»"
+            "Під розлогим дубом і над тихою водою приємно відпочивати після довгої подорожі.",
+            "Під розлогий дуб і над тиху воду приємно відпочивати після довгої подорожі.",
+            "Під розлогому дубу і над тихій воді приємно відпочивати після довгої подорожі.",
+            "Під розлогого дуба і над тихої води приємно відпочивати після довгої подорожі."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Під розлогим дубом» та «над тихою водою» відповідають на питання «Де?» і стоять в орудному відмінку."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u8-l1": {
