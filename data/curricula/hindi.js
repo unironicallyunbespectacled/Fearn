@@ -10735,53 +10735,62 @@
     "subject": "hindi",
     "unit": 26,
     "lessonNumber": 1,
-    "title": "संवैधानिक शासन और विधिक शब्दावली (Constitutional Law) (Part 1)",
+    "title": "संवैधानिक प्रस्तावना, मूल अधिकार और कर्तव्य (Constitutional Preamble, Fundamental Rights & Duties)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.1) with authentic linguistic precision.",
+    "objective": "भारतीय संविधान की प्रस्तावना (Preamble), भाग 3 के मौलिक अधिकारों (Fundamental Rights) तथा भाग 4-क के मूल कर्तव्यों (Fundamental Duties) की उच्च स्तरीय विधिक व प्रशासनिक शब्दावली में निपुणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारतीय संवैधानिक शासन, मूल अधिकार और नागरिक कर्तव्यों के मानक विधिक नियम:\n\n1. **संविधान की उद्देशिका (प्रस्तावना)**:\n   - **संप्रभुता, समाजवाद, पंथनिरपेक्षता और लोकतंत्र** — राज्य की प्रकृति को परिभाषित करने वाले मूल संवैधानिक मूल्य;\n   - **न्याय, स्वतंत्रता, समता और बंधुता** — प्रत्येक नागरिक हेतु सुनिश्चित किए गए चार मुख्य उद्देश्य।\n\n2. **मौलिक अधिकार (संविधान का भाग 3)**:\n   - **समानता का अधिकार (अनुच्छेद 14-18)** — विधि के समक्ष समता और भेदभाव का निषेध;\n   - **स्वतंत्रता का अधिकार (अनुच्छेद 19-22)** — विचार, अभिव्यक्ति, संगठन निर्माण और गरिमापूर्ण जीवन का अधिकार;\n   - **शोषण के विरुद्ध अधिकार (अनुच्छेद 23-24)** — मानव तस्करी और बाल श्रम पर पूर्ण प्रतिबंध;\n   - **धार्मिक स्वतंत्रता एवं अल्पसंख्यकों के अधिकार (अनुच्छेद 25-30)** — अंतःकरण की स्वतंत्रता और सांस्कृतिक संरक्षण।\n\n3. **मूल कर्तव्य (अनुच्छेद 51-क)**:\n   - *राष्ट्रध्वज व राष्ट्रगान का सम्मान, संप्रभुता की रक्षा, वैज्ञानिक दृष्टिकोण का विकास तथा पर्यावरण संरक्षण करना प्रत्येक नागरिक का पवित्र दायित्व है।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 26.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 26."
+          "target": "भारतीय संविधान की उद्देशिका देश के सभी नागरिकों को सामाजिक, आर्थिक और राजनीतिक न्याय तथा अवसर की समानता सुनिश्चित करने का पावन संकल्प लेती है।",
+          "reading": "Bhaarteey samvidhaan ki uddeshika desh ke sabhi naagrikon ko saamaajik, aarthik aur raajneetik nyaay tatha avasar ki samaanta sunishchit karne ka paavan sankalp leti hai. [bʱaːrt̪iːj səmʋɪd̪ʱaːn kiː ʊdːeːʃɪkaː d̪eːʃ keː səbʱiː naːɡrɪkõː koː saːmaːdʒɪk aːrt̪ʰɪk ɔːr raːdʒniːt̪ɪk njaːj t̪ət̪ʰaː əʋsər kiː səmaːnt̪aː sʊnɪʃtʃɪt̪ kərneː kaː paːʋən səŋkəlp leːt̪iː hɛː] (bhahr-TEE-yuh suhm-vee-DHAHN kee ood-day-shee-KAH daysh kay SUH-bhee nahg-ree-KOHN koh sah-MAH-jeek, ahr-THEEK owr rahj-nee-TEEK NYAH-yuh tuh-THAH uhv-SUHR kee suh-mahn-TAH soo-neesh-CHEET KUHR-nay kah PAH-vuhn suhn-KUHLP LAY-tee hy)",
+          "translation": "The Preamble of the Indian Constitution solemnly resolves to secure to all its citizens social, economic, and political justice, as well as equality of opportunity."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 26-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "अनुच्छेद 19 और 21 के अंतर्गत प्रत्येक नागरिक को विचार व अभिव्यक्ति की स्वतंत्रता तथा गरिमापूर्ण जीवन जीने का मौलिक अधिकार विधिक रूप से प्रदत्त है।",
+          "reading": "anuchchhed 19 aur 21 ke antargat pratyek naagrik ko vichaar va abhivyakti ki swatantrata tatha garimaapoorna jeevan jeene ka maulik adhikaar vidhik roop se pradatt hai. [ənʊtʃʰːeːd̪ ʊnːiːs ɔːr ɪkːiːs keː ən̪t̪ərɡət̪ prətjeːk naːɡrɪk koː ʋɪtʃaːr ʋə əbʱɪʋjəkt̪ɪ kiː sʋət̪ən̪t̪rət̪aː t̪ət̪ʰaː ɡərɪmaːpuːrɳ dʒiːʋən dʒiːneː kaː mɔːlɪk əd̪ʱɪkaːr ʋɪd̪ʱɪk ruːp seː prəd̪ət̪ː hɛː] (uh-nooch-CHHAYD oohn-NEES owr eek-KEES kay uhn-tuhr-GUHT pruht-YAYK nahg-REEK koh vee-CHAHR vuh uh-bhee-vyuhk-TEE kee svuh-tuhn-truh-TAH tuh-THAH guh-ree-mah-POOR-nuh JEE-vuhn JEE-nay kah MOW-leek uh-dhee-KAHR vee-DHEEK roop say pruh-DUHT hy)",
+          "translation": "Under Articles 19 and 21, every citizen is legally guaranteed the fundamental right to freedom of thought and expression, as well as the right to live a dignified life."
+        },
+        {
+          "target": "राष्ट्र की एकता, अखंडता और संप्रभुता की रक्षा करना तथा सार्वजनिक संपत्ति को क्षति न पहुँचाना प्रत्येक भारतीय नागरिक का मूलभूत संवैधानिक कर्तव्य है।",
+          "reading": "raashtr ki ekta, akhandata aur samprabhuta ki raksha karna tatha saarvajanik sampatti ko kshati na pahunchaana pratyek bhaarteey naagrik ka moolbhoot samvaidhaanik kartavya hai. [raːʂʈr kiː eːkt̪aː əkʰəɳɖt̪aː ɔːr səmprəbʱʊt̪aː kiː rəkʃaː kərnaː t̪ət̪ʰaː saːrʋədʒənɪk səmpət̪ːɪ koː kʃət̪ɪ nə pəɦʊntʃaːnaː prətjeːk bʱaːrt̪iːj naːɡrɪk kaː muːlbʱuːt̪ səmʋɛːd̪ʱaːnɪk kərt̪əʋjə hɛː] (RAHSH-truh kee AYK-tah, uh-khuhn-duh-TAH owr suhm-pruh-bhoo-TAH kee RUK-shah KUHR-nah tuh-THAH sahr-vuh-juh-NEEK suhm-PUHT-tee koh KSHUH-tee nuh puh-hoon-CHAH-nah pruht-YAYK bhahr-TEE-yuh nahg-REEK kah mool-BHOOT suhm-vy-dhah-NEEK kuhr-TUHV-yuh hy)",
+          "translation": "To uphold and protect the unity, integrity, and sovereignty of the nation, and to abjure damage to public property, is the fundamental constitutional duty of every Indian citizen."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "संविधान: उद्देशिका (preamble), मूल अधिकार (fundamental rights), मूल कर्तव्य (fundamental duties), समता (equality)!"
+      ],
+      "culturalNotes": [
+        "26 नवंबर 1949 को संविधान सभा द्वारा भारत का संविधान अंगीकृत किया गया था, जिसे प्रतिवर्ष पूरे देश में 'राष्ट्रीय संविधान दिवस' (National Law Day) के रूप में मनाया जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"धीमा\":",
+          "prompt": "भारतीय संविधान के भाग 3 में नागरिकों को प्रदान किए गए अपरिहार्य अधिकारों को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 26.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नया» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पुराना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अच्छा» का अनुचित स्थान)"
+            "मौलिक अधिकार / मूल अधिकार (Maulik adhikaar / Mool adhikaar - Fundamental Rights [constitutional civil liberties])",
+            "निजी समझौते (व्यक्तिगत अनुबंध)",
+            "व्यापारिक छूट (दुकान छूट)",
+            "सैलानी विशेषाधिकार (पर्यटक नियम)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "संविधान द्वारा गारंटीकृत नागरिक अधिकारों को «मौलिक अधिकार» (Fundamental Rights) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"धीमा\":",
+          "prompt": "संविधान के अनुच्छेद 51-क में नागरिकों के लिए क्या निर्धारित किया गया है?",
           "options": [
-            "हम इस पाठ में इकाई 26.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पुराना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अच्छा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नया» का अशुद्ध रूप)"
+            "मूल कर्तव्य (Mool kartavya - Fundamental Duties [civic and patriotic responsibilities])",
+            "व्यापारिक कर (टैक्स दरें)",
+            "वेतन मान (सैलरी सूची)",
+            "रेलवे किराया (यात्रा शुल्क)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "अनुच्छेद 51-क में भारतीय नागरिकों के 11 «मूल कर्तव्य» (Fundamental Duties) संकलित हैं।"
         }
       ]
     },
@@ -10789,17 +10798,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"धीमा\": Which sentence is completely correct?",
+          "prompt": "संवैधानिक प्रस्तावना और नागरिक अधिकारों (Constitutional Law & Civil Rights) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 26.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अच्छा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नया» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पुराना» से संबंधित)"
+            "मौलिक अधिकारों की सुरक्षा और संवैधानिक कर्तव्यों का निष्ठापूर्वक पालन ही एक सशक्त, समतामूलक और लोकतांत्रिक गणराज्य का सुदृढ़ आधार है। (The protection of fundamental rights and the faithful discharge of constitutional duties is the solid foundation of a strong, egalitarian, and democratic republic.)",
+            "संविधान की प्रस्तावना को फाड़कर नदी में बहा देना चाहिए।",
+            "मौलिक अधिकार केवल राजाओं के लिए होते हैं।",
+            "कर्तव्यों का पालन करने से देश कमजोर होता है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«मौलिक अधिकारों की सुरक्षा और संवैधानिक कर्तव्यों का निष्ठापूर्वक पालन... सुदृढ़ आधार है» संवैधानिक शासन का आदर्श और परिपूर्ण वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u26-l2": {
@@ -10807,53 +10817,62 @@
     "subject": "hindi",
     "unit": 26,
     "lessonNumber": 2,
-    "title": "संवैधानिक शासन और विधिक शब्दावली (Constitutional Law) (Part 2)",
+    "title": "न्यायपालिका, सर्वोच्च न्यायालय और न्यायिक समीक्षा (Judiciary, Supreme Court & Judicial Review)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.2) with authentic linguistic precision.",
+    "objective": "स्वतंत्र न्यायपालिका (Independent Judiciary), सर्वोच्च न्यायालय की शक्तियों, न्यायिक समीक्षा (Judicial Review) तथा मूल ढाँचा सिद्धांत (Basic Structure Doctrine) की न्यायशास्त्रीय शब्दावली में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारतीय न्यायपालिका, न्यायिक शक्तियाँ और संवैधानिक संतुलन के मानक पारिभाषिक नियम:\n\n1. **एकीकृत एवं स्वतंत्र न्यायपालिका संरचना**:\n   - **भारत का सर्वोच्च न्यायालय (उच्चतम न्यायालय)** — देश की शीर्ष अपीलीय अदालत और संविधान का अंतिम संरक्षक;\n   - **उच्च न्यायालय एवं अधीनस्थ न्यायालय** — राज्य व ज़िला स्तर पर न्याय प्रशासन की संस्थाएं;\n   - **अभिलेख न्यायालय** — सर्वोच्च न्यायालय के निर्णय पूरे देश में बाध्यकारी विधिक दृष्टांत (नज़ीर) होते हैं।\n\n2. **न्यायिक समीक्षा की शक्ति (अनुच्छेद 13, 32 व 226)**:\n   - **न्यायिक समीक्षा** — संसद अथवा कार्यपालिका द्वारा बनाए गए किसी भी कानून की संवैधानिकता की जांच करने का न्यायालय का अधिकार;\n   - **शून्य एवं अप्रभावी घोषित करना** — संविधान के विरुद्ध पाए जाने पर कानून को असंवैधानिक घोषित करना।\n\n3. **मूल ढाँचा सिद्धांत (बेसिक स्ट्रक्चर डॉक्ट्रिन)**:\n   - *केशवानंद भारती वाद (1973) के अनुसार संसद संविधान के मूल आधारों (जैसे लोकतंत्र, पंथनिरपेक्षता, न्यायपालिका की स्वतंत्रता) को नष्ट नहीं कर सकती।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 26.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 26."
+          "target": "भारत के सर्वोच्च न्यायालय को संविधान का अंतिम संरक्षक और व्याख्याकार माना जाता है, जिसके पास असंवैधानिक विधियों को निरस्त करने की न्यायिक समीक्षा शक्ति है।",
+          "reading": "Bhaarat ke Sarvochch Nyaayaalay ko samvidhaan ka antim sanrakshak aur vyaakhyaakaar maana jaata hai, jiske paas asamvaidhaanik vidhiyon ko nirast karne ki nyaayik sameeksha shakti hai. [bʱaːrət̪ keː sərʋoːtʃː njaːjaːləj koː səmʋɪd̪ʱaːn kaː ən̪t̪ɪm sənkrəkʃək ɔːr ʋjaːkʰjaːkaːr maːnaː dʒaːt̪aː hɛː dʒɪskeː paːs əsəmʋɛːd̪ʱaːnɪk ʋɪd̪ʱɪjõː koː nɪrəst̪ kərneː kiː njaːjɪk səmbiːkʃaː ʃəkt̪ɪ hɛː] (BHAH-ruht kay suhr-VOHTCH nyah-YAH-luy koh suhm-vee-DHAHN kah uhn-TEEM suhn-RUK-shuhk owr vyahkh-yah-KAHR MAH-nah JAH-tah hy, jees-KAY pahs uh-suhm-vy-dhah-NEEK vee-dhee-YOHN koh nee-RUHST KUHR-nay kee NYAH-yeek suh-meek-SHAH SHUHK-tee hy)",
+          "translation": "The Supreme Court of India is regarded as the ultimate custodian and interpreter of the Constitution, possessing the power of judicial review to strike down unconstitutional laws."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 26-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "ऐतिहासिक केशवानंद भारती वाद में सर्वोच्च न्यायालय ने यह युगांतरकारी व्यवस्था दी कि संसद संविधान के मूल ढाँचे में संशोधन करने का अधिकार नहीं रखती।",
+          "reading": "aitihasik Kesavananda Bharati vaad mein Sarvochch Nyaayaalay ne yah yugaantarakaari vyavastha dee ki sansad samvidhaan ke mool dhaanche mein sanshodhan karne ka adhikaar nahin rakhti. [ɛːt̪ɪhaːsɪk keːʃəʋaːnən̪d̪ bʱaːrt̪iː ʋaːd̪ mẽː sərʋoːtʃː njaːjaːləj neː jəɦ jʊɡaːn̪t̪ərkaːriː ʋjəʋəst̪ʰaː d̪iː kɪ sənsəd̪ səmʋɪd̪ʱaːn keː muːl d̪ʱaːntʃeː mẽː sənʃoːd̪ʱən kərneː kaː əd̪ʱɪkaːr nəɦĩː rəkʰt̪iː] (ay-tee-HAH-seek kay-shuh-vah-NUHND bhahr-TEE vahd mayn suhr-VOHTCH nyah-YAH-luy nay yuh yoo-gahn-tuhr-KAH-ree vyuh-vuhs-THAH DEE kee SUHN-suhd suhm-vee-DHAHN kay MOOL DHAHN-chay mayn suhn-SHOH-dhuhn KUHR-nay kah uh-dhee-KAHR nuh-HEEN RUKH-tee)",
+          "translation": "In the landmark Kesavananda Bharati case, the Supreme Court laid down the epochal ruling that Parliament does not possess the power to amend the basic structure of the Constitution."
+        },
+        {
+          "target": "संवैधानिक पीठ ने मौलिक अधिकारों के संरक्षण हेतु स्वतंत्र न्यायपालिका और कार्यपालिका के मध्य शक्ति पृथक्करण के सिद्धांत को अक्षुण्ण बनाए रखने पर बल दिया।",
+          "reading": "samvaidhaanik peeth ne maulik adhikaaron ke sanrakshan hetu swatantr nyaayapaalika aur kaaryapaalika ke madhya shakti prithakkaran ke siddhaant ko akshunn banaaye rakhne par bal diya. [səmʋɛːd̪ʱaːnɪk piːʈʰ neː mɔːlɪk əd̪ʱɪkaːrõː keː sənkrəkʃəɳ ɦeːt̪ʊ sʋət̪ən̪t̪r njaːjpaːlɪkaː ɔːr kaːrjəpaːlɪkaː keː məd̪ʱjə ʃəkt̪ɪ prɪt̪ʰəkːərəɳ keː sɪd̪ːʱaːn̪t̪ koː əkʃʊɳːə bənaːjeː rəkʰneː pər bəl d̪ɪjaː] (suhm-vy-dhah-NEEK PEETH nay MOW-leek uh-dhee-kah-ROHN kay suhn-RUK-shuhn HAY-too svuh-TUHN-truh nyah-yuh-PAH-lee-kah owr kahr-yuh-PAH-lee-kah kay MUHDH-yuh SHUHK-tee pree-thuhk-kuh-RUHN kay seed-DHAHNT koh uhk-SHOON-nuh buh-nah-YAY RUKH-nay puhr buhl DEE-yah)",
+          "translation": "The Constitutional Bench emphasized upholding the doctrine of separation of powers between an independent judiciary and the executive for the preservation of fundamental rights."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "न्यायपालिका: सर्वोच्च न्यायालय (Supreme Court), न्यायिक समीक्षा (judicial review), मूल ढाँचा सिद्धांत (basic structure)!"
+      ],
+      "culturalNotes": [
+        "सर्वोच्च न्यायालय का आदर्श वाक्य 'यतो धर्मस्ततो जयः' (जहाँ धर्म/न्याय है, वहीं विजय है) भारतीय विधिक न्यायशास्त्र का शाश्वत प्रेरणा स्रोत है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"नया\":",
+          "prompt": "संसद द्वारा पारित किसी कानून की संवैधानिकता की जांच करने के न्यायालय के अधिकार को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 26.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पुराना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अच्छा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सुंदर» का अनुचित स्थान)"
+            "न्यायिक समीक्षा (Nyaayik sameeksha - Judicial Review [constitutional power of courts])",
+            "व्यापारिक समीक्षा (बाज़ार विश्लेषण)",
+            "वित्तीय लेखांकन (बजट ऑडिट)",
+            "पुलिस जांच (अपराध अनुसंधान)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "विधायिका के कानूनों को संविधान की कसौटी पर परखने की शक्ति को «न्यायिक समीक्षा» (Judicial Review) कहते हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"नया\":",
+          "prompt": "संसद द्वारा संविधान के मूलभूत सिद्धांतों में बदलाव न कर सकने वाले विधिक सिद्धांत को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 26.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अच्छा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सुंदर» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पुराना» का अशुद्ध रूप)"
+            "मूल ढाँचा सिद्धांत (Mool dhaancha siddhaant - Basic Structure Doctrine [Kesavananda Bharati precedent])",
+            "असीमित शक्ति नियम (तानाशाही सिद्धांत)",
+            "आकस्मिक परिवर्तन नियम (अस्थिरता)",
+            "स्थानीय निकाय कानून (नगरपालिका नियम)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "संविधान के आधारभूत तत्वों की रक्षा करने वाले नियम को «मूल ढाँचा सिद्धांत» (Basic Structure Doctrine) कहा जाता है।"
         }
       ]
     },
@@ -10861,17 +10880,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"नया\": Which sentence is completely correct?",
+          "prompt": "स्वतंत्र न्यायपालिका और न्यायिक समीक्षा (Judiciary & Constitutional Adjudication) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 26.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सुंदर» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पुराना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अच्छा» से संबंधित)"
+            "एक स्वतंत्र और निष्पक्ष न्यायपालिका ही संविधान के मूल ढाँचे की रक्षा कर नागरिकों के मौलिक अधिकारों की वास्तविक संरक्षक बन सकती है। (Only an independent and impartial judiciary can safeguard the basic structure of the Constitution and serve as the true protector of citizens' fundamental rights.)",
+            "न्यायालयों को बंद कर दो ताकि कोई कानून न बचे।",
+            "न्यायिक समीक्षा केवल सिनेमा देखने के लिए होती है।",
+            "सर्वोच्च न्यायालय के आदेशों को नदी में फेंक देना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«एक स्वतंत्र और निष्पक्ष न्यायपालिका ही संविधान के मूल ढाँचे की रक्षा कर... वास्तविक संरक्षक बन सकती है» न्यायशास्त्र का सर्वोच्च प्रामाणिक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u26-l3": {
@@ -10879,53 +10899,62 @@
     "subject": "hindi",
     "unit": 26,
     "lessonNumber": 3,
-    "title": "संवैधानिक शासन और विधिक शब्दावली (Constitutional Law) (Part 3)",
+    "title": "संवैधानिक उपचार, रिट याचिकाएं और जनहित याचिका (Constitutional Remedies, Writs & Public Interest Litigation)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.3) with authentic linguistic precision.",
+    "objective": "संवैधानिक उपचारों के अधिकार (अनुच्छेद 32), पाँचों रिट याचिकाओं (Habeas Corpus, Mandamus आदि) तथा जनहित याचिका (PIL) के विधिक प्रारूपण व शब्दावली में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "संवैधानिक उपचारों, रिट याचिकाओं और जनहित याचिकाओं के विधिक मानक नियम:\n\n1. **संवैधानिक उपचारों का अधिकार (अनुच्छेद 32 व 226)**:\n   - मौलिक अधिकारों के उल्लंघन पर सीधे सर्वोच्च न्यायालय (अनुच्छेद 32) अथवा उच्च न्यायालय (अनुच्छेद 226) में याचिका दायर करने का अधिकार;\n   - डॉ. आंबेडकर द्वारा इसे **'संविधान की आत्मा'** कहा गया।\n\n2. **पाँच प्रकार की संवैधानिक रिट याचिकाएं**:\n   - **बंदी प्रत्यक्षीकरण** — अवैध रूप से बंदी बनाए गए व्यक्ति को सशरीर न्यायालय में प्रस्तुत करने का आदेश;\n   - **परमादेश** — किसी सार्वजनिक प्राधिकारी को उसका विधिक कर्तव्य पूरा करने का न्यायिक आदेश;\n   - **प्रतिषेध** — निचली अदालत को अपने न्यायाधिकार क्षेत्र से बाहर जाने से रोकने का आदेश;\n   - **उत्प्रेषण** — निचली अदालत के निर्णय की समीक्षा कर त्रुटिपूर्ण आदेश को रद्द करना;\n   - **अधिकार पृच्छा** — किसी व्यक्ति द्वारा सार्वजनिक पद पर अनाधिकृत दावे की वैधता की जांच करना।\n\n3. **जनहित याचिका (पीआईएल)**:\n   - जनहित, पर्यावरण और वंचित वर्गों के अधिकारों की रक्षा हेतु कोई भी नागरिक या संस्था अदालत में याचिका दाखिल कर सकती है।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 26.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 26."
+          "target": "डॉ. भीमराव आंबेडकर ने अनुच्छेद 32 को भारतीय संविधान का हृदय और आत्मा कहा था, क्योंकि यह नागरिकों के मौलिक अधिकारों की अचूक विधिक ढाल है।",
+          "reading": "Dr. Bhimrao Ambedkar ne Anuchchhed 32 ko bhaarteey samvidhaan ka hriday aur aatma kaha tha, kyonki yah naagrikon ke maulik adhikaaron ki achook vidhik dhaal hai. [ɖɔːkʈər bʱiːmraːʋ əmbeːɖkər neː ənʊtʃʰːeːd̪ bət̪ːiːs koː bʱaːrt̪iːj səmʋɪd̪ʱaːn kaː ɦrɪd̪əj ɔːr aːt̪maː kəɦaː t̪ʰaː kjõːkɪ jəɦ naːɡrɪkõː keː mɔːlɪk əd̪ʱɪkaːrõː kiː ətʃʰuːk ʋɪd̪ʱɪk d̪ʱaːl hɛː] (Doctor Bheem-rahv Uhm-bayd-kuhr nay uh-nooch-CHHAYD buht-TEES koh bhahr-TEE-yuh suhm-vee-DHAHN kah HREE-duhy owr AHT-mah KUH-hah thah, KYOHN-kee yuh nahg-ree-KOHN kay MOW-leek uh-dhee-kah-ROHN kee uh-CHOOK vee-DHEEK DHAHL hy)",
+          "translation": "Dr. Bhimrao Ambedkar described Article 32 as the very heart and soul of the Indian Constitution, as it serves as the unerring legal shield for citizens' fundamental rights."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 26-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "अवैध रूप से हिरासत में लिए गए नागरिक को न्यायालय के समक्ष सदेह प्रस्तुत कराने हेतु पीड़ित परिवार ने बंदी प्रत्यक्षीकरण रिट याचिका दायर की।",
+          "reading": "avaidh roop se hiraasat mein liye gaye naagrik ko nyaayaalay ke samaksh sadeha prastut karaane hetu peedit parivaar ne bandee pratyaksheekaran writ yaachika daayar ki. [əʋɛːd̪ʱ ruːp seː ɦɪraːsət̪ mẽː lɪjeː ɡəjeː naːɡrɪk koː njaːjaːləj keː səməkʃ səd̪eːɦ prəst̪ʊt̪ kəraːneː ɦeːt̪ʊ piːɽɪt̪ pərɪʋaːr neː bən̪d̪iː prətjəkʃiːkərəɳ rɪʈ jaːtʃɪkaː d̪aːjər kiː] (uh-VYDH roop say hee-rah-SUHT mayn LEE-yay GUH-yay nahg-REEK koh nyah-YAH-luy kay suh-MUKSH suh-DAY-huh pruhs-TOOT kuh-rah-NAY HAY-too PEE-deet puh-ree-VAHR nay buhn-DEE pruht-yuhk-shee-kuh-RUHN writ yah-chee-KAH dah-YUHR kee)",
+          "translation": "To produce the unlawfully detained citizen in person before the court, the aggrieved family filed a Habeas Corpus writ petition."
+        },
+        {
+          "target": "पर्यावरण प्रदूषण और बाल श्रम के विरुद्ध जनहित याचिका स्वीकार करते हुए उच्च न्यायालय ने संबंधित राज्य अधिकारियों को त्वरित कार्रवाई का कड़ा निर्देश दिया।",
+          "reading": "paryaavaran pradooshan aur baal shram ke viruddh janahit yaachika sveekaar karte hue Uchch Nyaayaalay ne sambandhit raajya adhikaariyon ko tvarit kaarravaai ka kada nirdesh diya. [pərjaːʋərəɳ prəd̪uːʂəɳ ɔːr baːl ʃrəm keː ʋɪrʊd̪ːʱ dʒənɦɪt̪ jaːtʃɪkaː sʋiːkaːr kərt̪eː hʊeː ʊtʃː njaːjaːləj neː səmbən̪d̪ʱɪt̪ raːdʒjə əd̪ʱɪkaːrɪjõː koː t̪ʋərɪt̪ kaːrːəʋaːiː kaː kəɽaː nɪrdeːʃ d̪ɪjaː] (puhr-yah-vuh-RUHN pruh-doo-SHUHN owr bahl shruhm kay vee-ROODH juhn-HEET yah-chee-KAH svee-KAHR KUHR-tay HOO-ay OOTCH nyah-YAH-luy nay suhm-buhn-DHEET RAHJ-yuh uh-dhee-kah-ree-YOHN koh TVUH-reet kahr-ruh-vah-EE kah KUH-dah neer-DAYSH DEE-yah)",
+          "translation": "Admitting a Public Interest Litigation (PIL) against environmental pollution and child labor, the High Court issued strict directives to the concerned state officials for swift action."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "संवैधानिक उपचार: अनुच्छेद 32 (संविधान की आत्मा), बंदी प्रत्यक्षीकरण (habeas corpus), जनहित याचिका (PIL)!"
+      ],
+      "culturalNotes": [
+        "भारत में न्यायमूर्ति पी.एन. भगवती और न्यायमूर्ति वी.आर. कृष्ण अय्यर को जनहित याचिका (PIL) का जनक माना जाता है, जिन्होंने न्यायालय के दरवाजे आम गरीब जनता के लिए खोल दिए।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"पुराना\":",
+          "prompt": "अवैध रूप से कैद किए गए व्यक्ति को न्यायालय के सामने तुरंत प्रस्तुत कराने वाली संवैधानिक रिट कौन-सी है?",
           "options": [
-            "हम इस पाठ में इकाई 26.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अच्छा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सुंदर» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («समझना» का अनुचित स्थान)"
+            "बंदी प्रत्यक्षीकरण (Bandee pratyaksheekaran - Habeas Corpus [writ against unlawful detention])",
+            "चालान रसीद (यातायात दंड)",
+            "भूमि पट्टा (ज़मीन दस्तावेज़)",
+            "परीक्षा प्रवेश पत्र (प्रवेश पत्र)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "अवैध रूप से बंदी व्यक्ति को सदेह अदालत में प्रस्तुत कराने की रिट को «बंदी प्रत्यक्षीकरण» (Habeas Corpus) कहते हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"पुराना\":",
+          "prompt": "सार्वजनिक हित और मानवाधिकारों की रक्षा हेतु अदालत में दायर की जाने वाली याचिका (PIL) को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 26.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सुंदर» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («समझना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अच्छा» का अशुद्ध रूप)"
+            "जनहित याचिका (Janahit yaachika - Public Interest Litigation / PIL [legal advocacy for public good])",
+            "निजी दीवानी मुकदमा (व्यक्तिगत संपत्ति वाद)",
+            "व्यापारिक बिल (खरीद रसीद)",
+            "पारिवारिक वसीयत (उत्तराधिकार पत्र)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "व्यापक जनहित के मुद्दों पर अदालत का ध्यान आकर्षित करने वाली याचिका को «जनहित याचिका» (PIL) कहा जाता है।"
         }
       ]
     },
@@ -10933,17 +10962,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"पुराना\": Which sentence is completely correct?",
+          "prompt": "संवैधानिक उपचार और जनहित याचिका (Constitutional Remedies & Writs) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 26.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («समझना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अच्छा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सुंदर» से संबंधित)"
+            "संवैधानिक उपचारों का अधिकार और जनहित याचिकाएं भारतीय न्यायिक व्यवस्था में आम नागरिकों के अधिकारों की रक्षा का सबसे प्रभावी माध्यम हैं। (The right to constitutional remedies and public interest litigations are the most effective medium for protecting the rights of common citizens in the Indian judicial system.)",
+            "जनहित याचिका दायर करने वाले को जेल में डाल देना चाहिए।",
+            "बंदी प्रत्यक्षीकरण का अर्थ है सबको बंदी बना लो।",
+            "मौलिक अधिकार छीनने के लिए अनुच्छेद 32 बनाया गया था।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«संवैधानिक उपचारों का अधिकार और जनहित याचिकाएं... सबसे प्रभावी माध्यम हैं» विधिक उपचार प्रणाली का प्रामाणिक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u26-l4": {
@@ -10951,53 +10981,62 @@
     "subject": "hindi",
     "unit": 26,
     "lessonNumber": 4,
-    "title": "संवैधानिक शासन और विधिक शब्दावली (Constitutional Law) (Part 4)",
+    "title": "संसदीय लोकतंत्र, विधि निर्माण और केंद्र-राज्य संबंध (Parliamentary Democracy, Lawmaking & Federal Relations)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.4) with authentic linguistic precision.",
+    "objective": "संसदीय शासन प्रणाली (Parliamentary System), विधायी प्रक्रिया (विधेयक से अधिनियम), त्रिस्तरीय संघीय सूचियों तथा स्वायत्त संवैधानिक निकायों की औपचारिक शब्दावली में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "संसदीय व्यवस्था, विधि निर्माण और भारतीय संघवाद के मानक विधिक नियम:\n\n1. **संसदीय लोकतंत्र की त्रिस्तरीय संरचना**:\n   - **संसद के अंग** — राष्ट्रपति, लोक सभा (जनता का सदन) तथा राज्य सभा (राज्यों की परिषद);\n   - **मंत्रिपरिषद का सामूहिक उत्तरदायित्व** — प्रधानमंत्री व मंत्रिपरिषद का प्रत्यक्ष रूप से लोक सभा के प्रति उत्तरदायी होना।\n\n2. **विधि निर्माण की मानक प्रक्रिया**:\n   - **विधेयक के चरण** — प्रथम वाचन (प्रस्तुतीकरण), द्वितीय वाचन (विस्तृत खंडवार चर्चा/प्रवर समिति) तथा तृतीय वाचन (मतदान);\n   - **राष्ट्रपति की सहमति** — दोनों सदनों द्वारा पारित होने के उपरांत राष्ट्रपति के हस्ताक्षर से विधेयक का **'अधिनियम'** बनना।\n\n3. **केंद्र-राज्य विधायी संबंध (सातवीं अनुसूची)**:\n   - **संघ सूची** — राष्ट्रीय महत्व के 100 विषय (रक्षा, विदेश मामले, परमाणु ऊर्जा, रेलवे);\n   - **राज्य सूची** — प्रांतीय महत्व के विषय (पुलिस, लोक स्वास्थ्य, कृषि, स्थानीय शासन);\n   - **समवर्ती सूची** — दोनों के अधिकार क्षेत्र वाले विषय (शिक्षा, वन, विवाह, श्रम संघ)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 26.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 26."
+          "target": "संसद के दोनों सदनों द्वारा विधिवत पारित होने और महामहिम राष्ट्रपति की औपचारिक स्वीकृति मिलने के उपरांत ही कोई विधेयक कानून का रूप धारण करता है।",
+          "reading": "sansad ke donon sadanon dvaara vidhivat paarit hone aur mahaamahim Raashtrapati ki aupchaarik sveekriti milne ke upraant hi koi vidheyak kaanoon ka roop dhaaran karta hai. [sənsəd̪ keː d̪oːnõː səd̪nõː d̪ʋaːraː ʋɪd̪ʱɪʋət̪ paːrɪt̪ hoːneː ɔːr məɦaːməɦɪm raːʂʈrpət̪ɪ kiː ɔːptʃaːrɪk sʋiːkrɪt̪ɪ mɪlneː keː ʊpraːn̪t̪ ɦiː koːiː ʋɪd̪ʱeːjək kaːnuːn kaː ruːp d̪ʱaːrəɳ kərt̪aː hɛː] (SUHN-suhd kay DOH-nohn suh-duh-NOHN dvah-RAH vee-dhee-VUHT pah-REET HOH-nay owr muh-hah-muh-HEEM rahsh-truh-PUH-tee kee owp-chah-REEK svee-KREE-tee MEEL-nay kay oop-RAHNT hee KOH-ee vee-DHAY-yuhk kah-NOON kah roop dhah-RUHN KUHR-tah hy)",
+          "translation": "Only after being duly passed by both Houses of Parliament and receiving the formal assent of the Honorable President does a bill assume the force of law."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 26-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "भारतीय संघवाद में केंद्र और राज्यों के मध्य विधायी शक्तियों का सुस्पष्ट विभाजन संघ सूची, राज्य सूची और समवर्ती सूची के माध्यम से सुनिश्चित किया गया है।",
+          "reading": "Bhaarteey sanghavaad mein kendr aur raajyon ke madhya vidhaayi shaktiyon ka suspasht vibhaajan Sangh Soochi, Raajya Soochi aur Samavartee Soochi ke maadhyam se sunishchit kiya gaya hai. [bʱaːrt̪iːj səŋɡʱʋaːd̪ mẽː keːn̪d̪r ɔːr raːdʒjõː keː məd̪ʱjə ʋɪd̪ʱaːjiː ʃəkt̪ɪjõː kaː sʊspəʂʈ ʋɪbʱaːdʒən səŋɡʱ suːtʃiː raːdʒjə suːtʃiː ɔːr səmʋərt̪iː suːtʃiː keː maːd̪ʱjəm seː sʊnɪʃtʃɪt̪ kɪjaː ɡəjaː hɛː] (bhahr-TEE-yuh suhng-ghuh-VAHD mayn KAYN-druh owr rahj-YOHN kay MUHDH-yuh vee-dhah-YEE shuhk-tee-YOHN kah soos-PUSHT vee-bhah-JUHN suhngh SOO-chee, RAHJ-yuh SOO-chee owr suh-muh-vuhr-TEE SOO-chee kay MAHDH-yuhm say soo-neesh-CHEET kee-YAH GUH-yah hy)",
+          "translation": "In Indian federalism, the clear demarcation of legislative powers between the Union and the States is secured through the Union List, State List, and Concurrent List."
+        },
+        {
+          "target": "भारत का निर्वाचन आयोग एक निष्पक्ष और स्वायत्त संवैधानिक निकाय है, जो देश में पारदर्शी लोकतांत्रिक चुनाव संपन्न कराने हेतु पूर्णतः उत्तरदायी है।",
+          "reading": "Bhaarat ka Nirvaachan Aayog ek nishpaksh aur svaayatt samvaidhaanik nikaay hai, jo desh mein paaradarshee loktaantrik chunaav sampann karaane hetu poornatah uttardaayee hai. [bʱaːrət̪ kaː nɪrʋaːtʃən aːjoːɡ eːk nɪʂpəkʃ ɔːr sʋaːjət̪ː səmʋɛːd̪ʱaːnɪk nɪkaːj hɛː dʒoː d̪eːʃ mẽː paːrd̪ərʃiː loːkt̪aːn̪t̪rɪk tʃʊnaːʋ səmpənːə kəraːneː ɦeːt̪ʊ puːrɳət̪əɦ ʊt̪ːərdaːjiː hɛː] (BHAH-ruht kah neer-vah-CHUHN ah-YOHG ayk neesh-PUHKSH owr svah-YUHT suhm-vy-dhah-NEEK nee-KAH-yuh hy, joh daysh mayn pah-ruh-duhr-SHEE lohk-tahn-TREEK choo-NAHV suhm-PUHN-nuh kuh-rah-NAY HAY-too poor-nuh-TUHK oot-tuhr-dah-YEE hy)",
+          "translation": "The Election Commission of India is an impartial and autonomous constitutional body entirely responsible for conducting transparent democratic elections in the country."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "संसदीय शासन: विधेयक से अधिनियम (Bill to Act), सातवीं अनुसूची (संघ/राज्य/समवर्ती सूची), निर्वाचन आयोग!"
+      ],
+      "culturalNotes": [
+        "भारतीय लोकतंत्र विश्व का सबसे बड़ा सहभागी लोकतंत्र है, जहाँ 90 करोड़ से अधिक मतदाता इलेक्ट्रॉनिक वोटिंग मशीनों (EVM) द्वारा अपनी सरकार चुनते हैं।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"अच्छा\":",
+          "prompt": "संसद में प्रस्तुत कानूनी प्रस्ताव जब राष्ट्रपति की सहमति प्राप्त कर लेता है, तो उसे क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 26.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सुंदर» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («समझना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («जानना» का अनुचित स्थान)"
+            "अधिनियम / कानून (Adhiniyam / Kaanoon - Act of Parliament / Statutory Law [enacted legislation])",
+            "समाचार विज्ञापन (अखबार विज्ञापन)",
+            "दुकान का अनुबंध (व्यापार पर्ची)",
+            "रेलवे समय सारणी (टाइम टेबल)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "संसद से पारित और राष्ट्रपति द्वारा हस्ताक्षरित विधेयक को «अधिनियम» (Act) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"अच्छा\":",
+          "prompt": "भारतीय संविधान में केंद्र और राज्य दोनों द्वारा कानून बनाने वाली सूची को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 26.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («समझना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («जानना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सुंदर» का अशुद्ध रूप)"
+            "समवर्ती सूची (Samavartee Soochi - Concurrent List [joint legislative jurisdiction])",
+            "गुप्त सूची (गोपनीय सूची)",
+            "रद्द सूची (अमान्य सूची)",
+            "अंतर्राष्ट्रीय सूची (वैश्विक सूची)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "जिस सूची पर केंद्र और राज्य दोनों कानून बना सकते हैं, उसे «समवर्ती सूची» (Concurrent List) कहते हैं।"
         }
       ]
     },
@@ -11005,17 +11044,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"अच्छा\": Which sentence is completely correct?",
+          "prompt": "संसदीय लोकतंत्र और संघीय व्यवस्था (Parliamentary Democracy & Federalism) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 26.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («जानना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सुंदर» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («समझना» से संबंधित)"
+            "संसदीय मर्यादाओं का पालन और केंद्र-राज्य शक्तियों का संतुलित समन्वय भारतीय संघीय गणराज्य की लोकतांत्रिक स्थिरता का मूल स्तंभ है। (Adherence to parliamentary decorum and the balanced coordination of Union-State powers is the foundational pillar of the democratic stability of the Indian Federal Republic.)",
+            "संसद में केवल कुश्ती प्रतियोगिता होनी चाहिए।",
+            "संविधान की सातवीं अनुसूची को फाड़कर फेंक देना चाहिए।",
+            "चुनाव आयोग को बंद कर देना चाहिए ताकि मतदान रुक जाए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«संसदीय मर्यादाओं का पालन और केंद्र-राज्य शक्तियों का संतुलित समन्वय... मूल स्तंभ है» संसदीय शासन का आदर्श वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u26-l5": {
@@ -11023,53 +11063,62 @@
     "subject": "hindi",
     "unit": 26,
     "lessonNumber": 5,
-    "title": "संवैधानिक शासन और विधिक शब्दावली (Constitutional Law) (Part 5)",
+    "title": "संवैधानिक नैतिकता व विधि के शासन का समग्र समेकन (Rule of Law, Constitutional Morality & Jurisprudence Synthesis)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.5) with authentic linguistic precision.",
+    "objective": "विधि का शासन (Rule of Law), संवैधानिक नैतिकता (Constitutional Morality), सामाजिक न्याय तथा न्यायशास्त्रीय सिद्धांतों के समग्र विमर्श में पूर्ण निपुणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "विधि का शासन, संवैधानिक नैतिकता और न्यायशास्त्र का समग्र दार्शनिक संश्लेषण:\n\n1. **विधि का शासन (रूल ऑफ लॉ)**:\n   - **विधि की सर्वोच्चता** — कोई भी व्यक्ति, संस्था या सरकार कानून से ऊपर नहीं है;\n   - **विधि के समक्ष समानता** — सभी नागरिकों के साथ समान विधिक प्रक्रिया और निष्पक्ष व्यवहार;\n   - **मनमानेपन का पूर्ण अभाव** — शासकीय शक्तियों का प्रयोग केवल कानून द्वारा निर्धारित सीमाओं में होना।\n\n2. **संवैधानिक नैतिकता (कांस्टीट्यूशनल मॉरेलिटी)**:\n   - डॉ. आंबेडकर द्वारा प्रतिपादित सिद्धांत कि संविधान का केवल शाब्दिक पालन पर्याप्त नहीं, बल्कि उसकी लोकतांत्रिक और समावेशी भावना का निष्ठापूर्वक सम्मान होना चाहिए;\n   - बहुमत के शासन में भी अल्पसंख्यकों और असहमति रखने वाले नागरिकों के अधिकारों का आदर।\n\n3. **सामाजिक न्याय और कल्याणकारी राज्य (अनुच्छेद 38)**:\n   - समाज के सबसे पिछड़े, शोषित और वंचित वर्गों का आर्थिक व सामाजिक उत्थान सुनिश्चित करना;\n   - न्याय को न्यायालय के कक्षों से निकालकर आम आदमी की चौखट तक पहुँचाना।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 26.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 26."
+          "target": "विधि का शासन और संवैधानिक नैतिकता किसी भी जीवंत लोकतंत्र की वह आधारशिला हैं जो सत्ता की निरंकुशता को रोककर नागरिक स्वतंत्रता की रक्षा करती हैं।",
+          "reading": "vidhi ka shaasan aur samvaidhaanik naitikata kisi bhi jeevant loktantr ki vah aadhaarshila hain jo satta ki nirankushata ko rokkar naagrik swatantrata ki raksha karti hain. [ʋɪd̪ʱɪ kaː ʃaːsən ɔːr səmʋɛːd̪ʱaːnɪk nɛːt̪ɪkt̪aː kɪsiː bʱiː dʒiːʋən̪t̪ loːkt̪ən̪t̪r kiː ʋəɦ aːd̪ʱaːrʃɪlaː hɛ̃ː dʒoː sət̪ːaː kiː nɪrəŋkʊʃt̪aː koː roːkkər naːɡrɪk sʋət̪ən̪t̪rət̪aː kiː rəkʃaː kərt̪iː hɛ̃ː] (vee-DHEE kah shah-SUHN owr suhm-vy-dhah-NEEK ny-teek-TAH kee-SEE bhee jee-VUHNT lohk-TUHN-truh kee vuh ah-dhahr-shee-LAH hyhn joh SUHT-tah kee neer-uhng-koosh-TAH koh ROHK-kuhr nahg-REEK svuh-tuhn-truh-TAH kee RUK-shah KUHR-tee hyhn)",
+          "translation": "The Rule of Law and Constitutional Morality are the very foundation stone of any vibrant democracy that checks governmental absolutism and protects civil liberties."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 26-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "संवैधानिक दर्शन का सर्वोच्च ध्येय समाज के अंतिम और वंचित व्यक्ति तक न्याय, समता और मानवीय गरिमा पहुँचाकर वास्तविक सामाजिक न्याय की स्थापना करना है।",
+          "reading": "samvaidhaanik darshan ka sarvochch dhyey samaaj ke antim aur vanchit vyakti tak nyaay, samata aur maanveey garima pahunchaakar vaastavik saamaajik nyaay ki sthaapna karna hai. [səmʋɛːd̪ʱaːnɪk d̪ərʃən kaː sərʋoːtʃː d̪ʱjeːj səmaːdʒ keː ən̪t̪ɪm ɔːr ʋəntʃɪt̪ ʋjəkt̪ɪ t̪ək njaːj səmtaː ɔːr maːnʋiːj ɡərɪmaː pəɦʊntʃaːkər ʋaːst̪əʋɪk saːmaːdʒɪk njaːj kiː st̪ʰaːpnaː kərnaː hɛː] (suhm-vy-dhah-NEEK duhr-SHUHN kah suhr-VOHTCH DHYAY-yuh suh-MAHJ kay uhn-TEEM owr vuhn-CHEET VYUHNK-tee tuhk NYAH-yuh, suh-muh-TAH owr mahn-VEE-yuh guh-ree-MAH puh-hoon-CHAH-kuhr vahs-tuh-VEEK sah-MAH-jeek NYAH-yuh kee sthahp-NAH KUHR-nah hy)",
+          "translation": "The highest objective of constitutional philosophy is to establish true social justice by delivering justice, equality, and human dignity to the very last and marginalized individual of society."
+        },
+        {
+          "target": "संविधान दिवस के राष्ट्रीय समारोह में प्रख्यात विधिवेत्ताओं ने भारतीय संविधान की लोचशीलता और अमर लोकतांत्रिक आदर्शों के प्रति अटूट निष्ठा व्यक्त की।",
+          "reading": "Samvidhaan Divas ke raashtreey samaaroh mein prakhyaat vidhivettaaon ne bhaarteey samvidhaan ki lochsheelata aur amar loktaantrik aadarshon ke prati atoot nishtha vyakt ki. [səmʋɪd̪ʱaːn d̪ɪʋəs keː raːʂʈriːj səmaːroːɦ mẽː prəkʰjaːt̪ ʋɪd̪ʱɪʋeːt̪ːaːõː neː bʱaːrt̪iːj səmʋɪd̪ʱaːn kiː loːtʃʃiːlt̪aː ɔːr əmər loːkt̪aːn̪t̪rɪk aːd̪ərʃõː keː prət̪ɪ əʈuːt̪ nɪʂʈʰaː ʋjəkt̪ kiː] (suhm-vee-DHAHN dee-VUHS kay rahsh-TREE-yuh suh-mah-ROH-huh mayn pruh-khyaht vee-dhee-vayt-tah-OHN nay bhahr-TEE-yuh suhm-vee-DHAHN kee lohch-sheel-TAH owr uh-MUHR lohk-tahn-TREEK ah-duhr-SHOHN kay pruh-TEE uh-TOOT neesh-THAH VYUHKT kee)",
+          "translation": "At the national celebration of Constitution Day, eminent jurists expressed unyielding fidelity toward the resilience and immortal democratic ideals of the Indian Constitution."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "विधिक समेकन: विधि का शासन (rule of law), संवैधानिक नैतिकता (constitutional morality), सामाजिक न्याय!"
+      ],
+      "culturalNotes": [
+        "डॉ. बी.आर. आंबेडकर ने संविधान सभा में अपने अंतिम भाषण में चेतावनी दी थी कि 'यदि हम अपने लोकतंत्र को केवल राजनीतिक रूप में बनाए रखेंगे और उसे सामाजिक रूप नहीं देंगे, तो हमारी स्वतंत्रता संकट में पड़ जाएगी'।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"सुंदर\":",
+          "prompt": "किसी भी व्यक्ति या सरकार से ऊपर केवल कानून की सर्वोच्चता होने के सिद्धांत को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 26.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («समझना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («जानना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सोचना» का अनुचित स्थान)"
+            "विधि का शासन / कानून का राज (Vidhi ka shaasan - Rule of Law [supremacy of law over arbitrary power])",
+            "जंगल राज (अराजकता)",
+            "तानाशाही शासन (निरंकुश शासन)",
+            "मनमाना आदेश (अवैध आदेश)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "कानून के समक्ष सबकी समानता और कानून की सर्वोच्चता को «विधि का शासन» (Rule of Law) कहते हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"सुंदर\":",
+          "prompt": "संविधान के मूल्यों, सहिष्णुता और समावेशी लोकतांत्रिक भावना के प्रति निष्ठा को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 26.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («जानना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सोचना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («समझना» का अशुद्ध रूप)"
+            "संवैधानिक नैतिकता (Samvaidhaanik naitikata - Constitutional Morality [ethical adherence to constitutional ethos])",
+            "व्यापारिक लाभ (मुनाफा)",
+            "दलीय स्वार्थ (राजनीतिक लाभ)",
+            "व्यक्तिगत क्रोध (निजी विकार)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "संविधान की आत्मा और लोकतांत्रिक मर्यादाओं के प्रति सम्मान को «संवैधानिक नैतिकता» (Constitutional Morality) कहा जाता है।"
         }
       ]
     },
@@ -11077,17 +11126,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"सुंदर\": Which sentence is completely correct?",
+          "prompt": "विधि का शासन और संवैधानिक नैतिकता (Jurisprudence & Constitutional Morality) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 26.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सोचना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («समझना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («जानना» से संबंधित)"
+            "संवैधानिक नैतिकता, विधि का शासन और सामाजिक न्याय का समन्वय ही भारतीय गणराज्य की संप्रभुता और लोकतांत्रिक जीवंतता का शाश्वत संवाहक है। (The synthesis of constitutional morality, the rule of law, and social justice is the eternal bearer of the sovereignty and democratic vitality of the Indian Republic.)",
+            "संविधान को ताक पर रखकर केवल लाठी का राज चलना चाहिए।",
+            "संवैधानिक नैतिकता से समाज में लड़ाई होती है।",
+            "विधि के शासन को समाप्त कर देना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«संवैधानिक नैतिकता, विधि का शासन और सामाजिक न्याय का समन्वय... शाश्वत संवाहक है» विधिक न्यायशास्त्र का सर्वोच्च परिष्कृत वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u27-l1": {
