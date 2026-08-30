@@ -10147,56 +10147,65 @@
     "subject": "korean",
     "unit": 22,
     "lessonNumber": 1,
-    "title": "심화 연결어미(-더라도, -(으)ㄹ수록, -는 한편) (Advanced Connectives) (Part 1)",
+    "title": "가정적 양보 연결어미 ('-더라도')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 심화 연결어미 활용 (Advanced Connectives).",
+    "objective": "앞 절의 사실이나 가상의 조건을 인정하면서도 뒤 절의 결심, 당위, 사태에 영향이 없음을 나타내는 양보 어미 '-더라도'를 완벽히 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 심화 연결어미(-더라도, -(으)ㄹ수록, -는 한편) (Advanced Connectives) » (제1절)의 핵심 언어 요소와 심화 연결어미 활용 (Advanced Connectives)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "'-더라도'는 '설령 앞 절과 같은 상황이 벌어질지라도'라는 가정적 양보(Concessive Conditional)를 나타냅니다.\n\n1. 결합 규칙:\n- 동사/형용사 어간 + **-더라도** (받침 유무 상관없이 직결)\n  - 바쁘다 → **바쁘더라도** (\"아무리 바쁘더라도 밥은 꼭 챙겨 먹어라.\")\n  - 힘들다 → **힘들더라도** (\"지금 조금 힘들더라도 조금만 참자.\")\n  - 실패하다 → **실패하더라도** (\"설령 이번에 실패하더라도 좌절하지 마라.\")\n  - 과거형: 비가 **왔더라도** / 모임에 **갔더라도**\n- 명사 + **(이)더라도** (학생이더라도, 비상시더라도)\n\n2. '-아/어도' vs '-더라도' 비교 분석:\n- **-아/어도**: 일반적 사실과 가상의 양보에 두루 쓰임 (\"비가 와도 갑니다.\")\n- **-더라도**: 가상의 극단적 전제나 화자의 강력한 의지/당부와 함께 쓰여 어감이 훨씬 강하고 문어체적 품격이 높음 (\"비가 억수같이 쏟아지더라도 기필코 약속을 지키겠습니다.\")",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (22.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "아무리 바쁜 업무 일정에 쫓기더라도 규칙적인 식사와 충분한 수면은 반드시 챙겨야 합니다.",
+          "reading": "Amuri bappeun eommu iljeong-e jjotgideorado gyuchikjeogin siksa-wa chungbunhan sumyeon-eun bandeusi chaeng-gyeoya hamnida.",
+          "translation": "No matter how much you are chased by a busy work schedule ('쫓기더라도'), regular meals and sufficient sleep must be maintained."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (22.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "설령 이번 공모전에서 기대만큼 좋은 성과를 거두지 못하더라도 귀중한 도전의 경험으로 남을 것입니다.",
+          "reading": "Seollyeong ibeon gongmojeon-eseo gidaemankeum joeun seonggwa-reul geoduji mothaderado gwijunghan dojeon-ui gyeongheom-euro nameul geosimnida.",
+          "translation": "Even if we fail to achieve good results as expected in this open contest ('못하더라도'), it will remain as a valuable experience of challenge."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (22.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "몸은 비록 멀리 떨어져 있더라도 우리의 따뜻한 우정과 신뢰는 언제까지나 변치 않을 것입니다.",
+          "reading": "Mom-eun birok meolli tteoreojyeo itdeorado uri-ui ttatteuthan ujeong-gwa sinroe-neun eonjekkajina byeonchi anheul geosimnida.",
+          "translation": "Even though our bodies are physically far apart ('있더라도'), our warm friendship and trust will never change."
+        },
+        {
+          "target": "초기 투자 비용이 다소 많이 들더라도 친환경 고효율 설비를 도입하는 것이 장기적으로 훨씬 유리합니다.",
+          "reading": "Chogi tuja biyong-i daso manhi deuldeorado chin-hwangyeong gohyoyul seolbi-reul doiphaneun geos-i janggijeog-euro hwolssin yurihamnida.",
+          "translation": "Even if initial investment cost is somewhat high ('들더라도'), introducing eco-friendly high-efficiency equipment is far more advantageous in the long run."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "설령 그러할지라도 포기 못 해! 강한 의지의 양보 어미 '-더라도'!"
+      ],
+      "culturalNotes": [
+        "한국인들은 타인을 격려하고 위로할 때 \"힘들더라도 힘내세요\", \"실패하더라도 괜찮아요\"처럼 '-더라도'를 사용하여 상황의 어려움을 공감하면서도 용기를 북돋아 줍니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 심화 연결어미 활용 (Advanced Connectives) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "아무리 힘들어도 끝까지 포기하지 말라고 당부하는 가장 자연스러운 문장은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (22.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (22.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (22.1.3)."
+            "과정이 힘들더라도 끝까지 포기하지 마세요.",
+            "과정이 힘들수록 끝까지 포기하지 마세요.",
+            "과정이 힘든 한편 끝까지 포기하지 마세요."
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "가정적 양보와 권유/당부를 연결하므로 '힘들더라도'가 가장 적합합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 심화 연결어미(-더라도, -(으)ㄹ수록, -는 한편) (Advanced Connectives) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "'설령 비가 내릴지라도 행사를 강행하겠다'를 '-더라도'로 격조 높게 표현한 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (22.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (22.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (22.1.3)."
+            "내일 비가 내리더라도 야외 행사는 예정대로 진행하겠습니다.",
+            "내일 비가 내릴수록 야외 행사는 예정대로 진행하겠습니다.",
+            "내일 비가 내리기는커녕 야외 행사는 예정대로 진행하겠습니다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "양보 어미 '내리더라도' + 단호한 진행 의지의 결합이 완벽합니다."
         }
       ]
     },
@@ -10204,14 +10213,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 심화 연결어미 활용 (Advanced Connectives) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 22-1)?",
+          "prompt": "다음 중 '-더라도'의 문법적 특성으로 알맞은 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (22.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (22.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (22.1.3)."
+            "가상이나 현실의 조건을 양보하면서 뒤 절의 단호한 의지나 권유를 나타낸다.",
+            "앞 절의 동작이 원인이 되어 뒤 절의 결과가 발생함을 나타낸다.",
+            "앞 절의 사실과 정반대되는 과거를 후회할 때만 쓴다."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'-더라도'는 가정적 양보와 화자의 흔들림 없는 결심을 나타냅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'아무리 바쁘더라도 밥은 꼭 챙겨 드세요'(No matter how busy you are, make sure to eat)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "아무리 바쁘더라도 밥은 꼭 챙겨 드세요.",
+            "아무리 바쁘더라도 밥은 꼭 챙겨 드세요"
+          ],
+          "explanation": "아무리 + 바쁘더라도(바쁘다 + 더라도) + 밥은 꼭 챙겨 드세요 = 아무리 바쁘더라도 밥은 꼭 챙겨 드세요."
         }
       ]
     }
@@ -10221,56 +10239,65 @@
     "subject": "korean",
     "unit": 22,
     "lessonNumber": 2,
-    "title": "심화 연결어미(-더라도, -(으)ㄹ수록, -는 한편) (Advanced Connectives) (Part 2)",
+    "title": "비례 및 점진적 심화 연결어미 ('-(으)ㄹ수록')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 심화 연결어미 활용 (Advanced Connectives).",
+    "objective": "어떤 상태나 동작의 정도가 심화됨에 비례하여 다른 현상도 심화됨을 나타내는 '-(으)ㄹ수록' 및 속담 관용구를 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 심화 연결어미(-더라도, -(으)ㄹ수록, -는 한편) (Advanced Connectives) » (제2절)의 핵심 언어 요소와 심화 연결어미 활용 (Advanced Connectives)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "'-(으)ㄹ수록'은 'The more... the more...'에 해당하는 비례적 점진 심화(Proportional Intensification) 어미입니다.\n\n1. 결합 규칙:\n- 모음 or 받침 ㄹ 종결 → **-ㄹ수록** (가다 → **갈수록**, 살다 → **살수록**, 보다 → **볼수록**)\n- ㄹ 제외 자음 받침 종결 → **-을수록** (먹다 → **먹을수록**, 읽다 → **읽을수록**, 높다 → **높을수록**)\n\n2. 주요 관용 표현과 활용 패턴:\n- 반복 강조형 (A-면 A-ㄹ수록): \"알면 알수록 더 신기해요.\" / \"연습을 많이 하면 할수록 실력이 늘어요.\"\n- 독립 관용구: **갈수록 태산** (Things get harder and harder) / **볼수록 매력 있다 (볼매)** (The more you see, the more charming)\n- 형용사 비례: \"산은 높을수록 공기가 희박해집니다.\" / \"물건은 품질이 좋을수록 값이 비싸기 마련입니다.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (22.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "한국어는 문법과 어휘를 깊이 배우면 배울수록 그 풍부한 표현력에 감탄하게 됩니다.",
+          "reading": "Hanguk-eo-neun munbeop-gwa eohwi-reul gipi baeumyeon baeulssurok geu pungbuhan pyohyeonryeok-e gamtanhage doemnida.",
+          "translation": "The more deeply you learn Korean grammar and vocabulary ('배우면 배울수록'), the more you come to admire its rich expressive power."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (22.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "현대 사회는 정보 기술이 눈부시게 고도화될수록 개인정보 보안의 중요성이 더욱 커집니다.",
+          "reading": "Hyeondae sahoe-neun jeongbo gisul-i nunbusige godohwadoelssurok gaeinjeongbo boan-ui jung-yoseong-i deouk keojimnida.",
+          "translation": "In modern society, the more dazzlingly information technology becomes advanced ('고도화될수록'), the greater the importance of personal data security becomes."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (22.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "처음에는 어려웠던 문제였지만 차근차근 집중해서 풀수록 점차 자신감이 생겼습니다.",
+          "reading": "Cheoeum-eneun eoryeowotdeon munjeyeotjiman chageunchageun jipjunghaeseo pulssurok jeomcha jasingam-i saeng-gyeotseumnida.",
+          "translation": "Although it was a difficult problem at first, the more I focused and solved it step by step ('풀수록'), the more confidence gradually emerged."
+        },
+        {
+          "target": "사람은 나이를 먹을수록 자신의 언행에 대해 더욱 무거운 책임감을 지녀야 합니다.",
+          "reading": "Saram-eun nai-reul meogeulssurok jasin-ui eonhaeng-e daehae deouk mugeoun chaek-imgam-eul jinyeoya hamnida.",
+          "translation": "The older a person grows ('나이를 먹을수록'), the heavier sense of responsibility one must bear for one's words and actions."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "배울수록 신기하고, 갈수록 매력 있는 비례 공식 '-(으)ㄹ수록'!"
+      ],
+      "culturalNotes": [
+        "한국의 신조어 중 '볼매'는 '볼수록 매력 있다'(The more you see them, the more attractive they are)의 줄임말로, 은근한 진국인 사람을 칭찬할 때 일상에서 애용됩니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 심화 연결어미 활용 (Advanced Connectives) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "'익다(ripen)'에 '-(으)ㄹ수록'을 결합한 유명한 한국 속담(\"벼는 익을수록 고개를 숙인다\")의 형태는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (22.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (22.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (22.2.3)."
+            "익을수록",
+            "익수록",
+            "익을수록에"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'익다'는 받침 'ㄱ'이 있으므로 '-을수록'이 결합하여 '익을수록'이 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 심화 연결어미(-더라도, -(으)ㄹ수록, -는 한편) (Advanced Connectives) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "'시간이 지날수록 상황이 점점 더 나아지고 있다'를 바르게 표현한 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (22.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (22.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (22.2.3)."
+            "시간이 갈수록 환자의 건강 상태가 뚜렷하게 호전되고 있습니다.",
+            "시간이 가더라도 환자의 건강 상태가 뚜렷하게 호전되고 있습니다.",
+            "시간이 가는 한 환자의 건강 상태가 뚜렷하게 호전되고 있습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "시간의 경과에 비례하는 긍정적 호전을 나타내므로 '갈수록'이 정확합니다."
         }
       ]
     },
@@ -10278,14 +10305,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 심화 연결어미 활용 (Advanced Connectives) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 22-2)?",
+          "prompt": "다음 빈칸에 들어갈 가장 자연스러운 연결어미는?\n\"한국 음식은 자주 _____ 그 깊은 감칠맛에 중독됩니다.\"",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (22.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (22.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (22.2.3)."
+            "먹을수록",
+            "먹더라도",
+            "먹는 한편"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "explanation": "빈도 증가에 비례하여 맛을 알게 되는 문맥이므로 '먹을수록'이 알맞습니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'연습을 많이 할수록 실력이 늘어요'(The more you practice, the more your skills improve)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "연습을 많이 할수록 실력이 늘어요.",
+            "연습을 많이 할수록 실력이 늘어요"
+          ],
+          "explanation": "연습을 많이 + 할수록(하다 + ㄹ수록) + 실력이 늘어요 = 연습을 많이 할수록 실력이 늘어요."
         }
       ]
     }
@@ -10295,56 +10331,65 @@
     "subject": "korean",
     "unit": 22,
     "lessonNumber": 3,
-    "title": "심화 연결어미(-더라도, -(으)ㄹ수록, -는 한편) (Advanced Connectives) (Part 3)",
+    "title": "양면성과 동시 병행 연결어미 ('-는 한편')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 심화 연결어미 활용 (Advanced Connectives).",
+    "objective": "어떤 행동이나 사실이 진행되는 동시에 다른 측면의 대조적 사실이 병행됨을 나타내는 고급 문어체 연결어미 '-는 한편'을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 심화 연결어미(-더라도, -(으)ㄹ수록, -는 한편) (Advanced Connectives) » (제3절)의 핵심 언어 요소와 심화 연결어미 활용 (Advanced Connectives)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "'-는 한편'은 한 사건이나 정책이 추진되는 동안 **동시에 다른 동작이 진행됨(Simultaneous Parallelism)**을 나타내거나, 하나의 대상이 지닌 **서로 다른 두 가지 양면적 속성(Dual Aspects / Meanwhile)**을 서술할 때 사용하는 고급 연결어미입니다.\n\n1. 결합 규칙:\n- 동사 현재 시제 → **-는 한편** (추진하는 한편, 육성하는 한편)\n- 동사 과거 시제 → **-(으)ㄴ 한편** (합의한 한편)\n- 형용사 / 서술격조사 → **-(으)ㄴ 한편** (아름다운 한편, 문제인 한편)\n\n2. 주요 화용적 기능:\n- 정책/사회 현상의 병행 추진: \"정부는 신재생 에너지를 집중 육성하는 한편, 기존 원전의 안전 점검을 강화했습니다.\"\n- 긍정과 부정의 양면성 공존: \"대도시 생활은 문화적 혜택이 풍부한 한편, 치솟는 주거비 부담이 큰 편입니다.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (22.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "정부는 첨단 신산업 분야의 R&D 투자를 대폭 확대하는 한편, 청년 스타트업 창업 지원을 적극 강화했습니다.",
+          "reading": "Jeongbu-neun cheomdan sinsan-eop bun-ya-ui R&D tuja-reul daepok hwakdaehaneun hanpyeon, cheongnyeon seutateueop changeop jiwon-eul jeokgeuk ganghwahaetseumnida.",
+          "translation": "The government drastically expanded R&D investment in cutting-edge new industries on one hand, while actively strengthening support for youth startups ('확대하는 한편')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (22.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "인공지능 기술의 발전은 인간의 일상을 획기적으로 편리하게 만드는 한편, 일자리 감소에 대한 불안감을 낳고 있습니다.",
+          "reading": "In-gongjineung gisul-ui baljeon-eun in-gan-ui ilsang-eul hoekgijeog-euro pyeonrihage mandeuneun hanpyeon, iljari gamso-e daehan burangam-eul nahgo itseumnida.",
+          "translation": "The advancement of AI technology makes human daily life epoch-makingly convenient on one hand, while giving rise to anxiety over job reduction on the other."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (22.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "주인공은 가족을 부양하기 위해 밤낮없이 일하는 한편, 못다 이룬 배움의 꿈을 위해 야간 대학에 다녔습니다.",
+          "reading": "Juin-gong-eun gajok-eul buyanghagi wihae bamnat-eop-si ilhaneun hanpyeon, motda irun baeum-ui kkum-eul wihae yagan daehak-e danyeotseumnida.",
+          "translation": "The protagonist worked day and night to support the family on one hand, while attending night university for unfulfilled dreams of learning."
+        },
+        {
+          "target": "이 관광지는 천혜의 빼어난 자연경관을 자랑하는 한편, 유서 깊은 전통 역사 유적지로서의 가치도 대단히 높습니다.",
+          "reading": "I gwangwangji-neun cheonhye-ui bpaeeonan jayeongyeong-gwan-eul jaranghaneun hanpyeon, yuseo gipeun jeontong yeoksa yujeokji-roseo-ui gachi-do daedanhi nopsumnida.",
+          "translation": "This tourist destination boasts blessed exquisite natural scenery on one hand, while its value as a historic traditional heritage site is also immensely high."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "두 가지 일이 동시에, 양면이 공존할 땐 문어체의 꽃 '-는 한편(Meanwhile/On the other hand)'!"
+      ],
+      "culturalNotes": [
+        "한국의 언론 사설, 학술 논문, 방송 뉴스 리포트에서는 정책의 종합성이나 현상의 복합적 양면성을 객관적으로 설명할 때 '-는 한편'을 가장 대표적인 논리 연결어로 활용합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 심화 연결어미 활용 (Advanced Connectives) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "수출을 촉진함과 동시에 내수 시장도 살리는 정부 정책의 병행을 가장 잘 나타낸 표현은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (22.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (22.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (22.3.3)."
+            "수출을 적극 장려하는 한편, 내수 진작을 위한 정책을 병행했다.",
+            "수출을 적극 장려하더라도, 내수 진작을 위한 정책을 병행했다.",
+            "수출을 적극 장려할수록, 내수 진작을 위한 정책을 병행했다."
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "두 가지 정책적 조치의 동시 추진을 나타내므로 '-는 한편(장려하는 한편)'이 완벽합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 심화 연결어미(-더라도, -(으)ㄹ수록, -는 한편) (Advanced Connectives) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "현대 문명의 편리함과 환경 파괴라는 양면성을 서술한 가장 논리적인 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (22.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (22.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (22.3.3)."
+            "산업화는 물질적 풍요를 가져다준 한편, 심각한 환경 오염 문제를 야기했습니다.",
+            "산업화는 물질적 풍요를 가져다주더라도, 심각한 환경 오염 문제를 야기했습니다.",
+            "산업화는 물질적 풍요를 가져다주기는커녕, 심각한 환경 오염 문제를 야기했습니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "과거 사실의 양면적 공존을 객관적으로 진술하므로 '가져다준 한편'이 정확합니다."
         }
       ]
     },
@@ -10352,14 +10397,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 심화 연결어미 활용 (Advanced Connectives) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 22-3)?",
+          "prompt": "다음 중 '-는 한편'이 쓰이기에 가장 적합한 문맥은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (22.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (22.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (22.3.3)."
+            "두 가지 대조적이거나 상호 보완적인 현상이 동시에 병행될 때",
+            "과거의 잘못을 후회하고 탄식할 때",
+            "명령이나 청유를 상대방에게 직접 지시할 때"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'-는 한편'은 두 가지 현상의 동시 진행 및 양면성 병렬에 특화된 어미입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'수출을 늘리는 한편 내수를 활성화했어요'(We increased exports while revitalizing domestic demand)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "수출을 늘리는 한편 내수를 활성화했어요.",
+            "수출을 늘리는 한편 내수를 활성화했어요"
+          ],
+          "explanation": "수출을 늘리는 한편(늘리다 + 는 한편) + 내수를 활성화했어요 = 수출을 늘리는 한편 내수를 활성화했어요."
         }
       ]
     }
@@ -10369,56 +10423,65 @@
     "subject": "korean",
     "unit": 22,
     "lessonNumber": 4,
-    "title": "심화 연결어미(-더라도, -(으)ㄹ수록, -는 한편) (Advanced Connectives) (Part 4)",
+    "title": "극단적 부정 대비 ('-기는커녕')과 대체/보상 ('-(으)ㄴ/는 대신에')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 심화 연결어미 활용 (Advanced Connectives).",
+    "objective": "최소한의 기대조차 충족되지 않는 극단적 부정 대비 '-기는커녕/-은/는커녕'과 다른 대상으로의 대체 및 보상을 나타내는 '-(으)ㄴ/는 대신에'를 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 심화 연결어미(-더라도, -(으)ㄹ수록, -는 한편) (Advanced Connectives) » (제4절)의 핵심 언어 요소와 심화 연결어미 활용 (Advanced Connectives)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "1. '-기는커녕' / '-은/는커녕' (Far from / Let alone):\n- 앞 절의 내용은커녕 그보다 훨씬 덜하거나 반대되는 부정적 상황이 발생했음을 강조하는 극단적 대비 표현입니다.\n- 결합: 동사/형용사 → **-기는커녕** (쉬기는커녕, 칭찬받기는커녕) / 명사 → **-은/는커녕** (밥은커녕, 물은커녕)\n  - \"칭찬을 받기는커녕 오히려 호된 꾸중만 들었습니다.\"\n  - \"돈을 벌기는커녕 원금마저 모두 날렸어요.\"\n  - \"밥은커녕 물 한 모금도 마시지 못했습니다.\"\n\n2. '-(으)ㄴ/는 대신에' (Instead of / In compensation for):\n- 앞 절의 행위를 하지 않고 다른 행동으로 대체(Alternative)하거나, 앞 절의 단점에 대한 반대급부로 보상(Compensation)을 받을 때 쓰입니다.\n  - 대체: \"극장에 가는 대신에 집에서 편하게 OTT 영화를 보았습니다.\"\n  - 보상/상쇄: \"이 스마트폰은 가격이 다소 비싼 대신에 성능과 카메라 화질이 압도적입니다.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (22.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "휴일에 집에서 푹 쉬기는커녕 밀린 업무를 처리하느라 하루 종일 컴퓨터 앞에 앉아 있었습니다.",
+          "reading": "Hyuil-e jip-eseo puk swigineunkeonyeong millin eommu-reul cheorihaneura haru jong-il keompyuteo ap-e anja isseotseumnida.",
+          "translation": "Far from resting comfortably at home on the holiday ('쉬기는커녕'), I was sitting in front of the computer all day processing backlogged work."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (22.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "이번 달에는 외식을 자주 하는 대신에 마트에서 신선한 식재료를 사다가 집밥을 해 먹기로 결심했습니다.",
+          "reading": "Ibeon dal-eneun oesik-eul jaju haneun daesin-e mateu-eseo sinseonhan sikjaeryo-reul sadata jipbap-eul hae meogkkiro gyeolsimhaetseumnida.",
+          "translation": "Instead of eating out frequently this month ('하는 대신에'), I resolved to buy fresh ingredients at the market and cook homemade meals."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (22.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "도움을 받기는커녕 도리어 그 사람의 무책임한 태도 때문에 모든 손해를 우리가 떠안게 되었습니다.",
+          "reading": "Doum-eul batgineunkeonyeong dorieo geu saram-ui muchaek-imhan taedo ttaemun-e modeun sonhae-reul uri-ga tteo-ange doeeotseumnida.",
+          "translation": "Far from receiving help ('받기는커녕'), rather because of that person's irresponsible attitude, we ended up shouldering all damages."
+        },
+        {
+          "target": "이 오피스텔은 면적이 다소 좁은 대신에 지하철역과 바로 연결되어 출퇴근 교통이 대단히 편리합니다.",
+          "reading": "I opiseutel-eun myeonjeok-i daso jobeun daesin-e jihacheol-yeok-gwa baro yeon-gyeoldoeeo chultoegeun gyotong-i daedanhi pyeonrihamnida.",
+          "translation": "While this studio apartment is somewhat narrow on one hand, in compensation ('좁은 대신에'), it is directly connected to the subway station, making commuting transportation extremely convenient."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "기대는커녕 반대일 땐 '-기는커녕', 다른 걸로 대체·보상할 땐 '-(으)ㄴ/는 대신에'!"
+      ],
+      "culturalNotes": [
+        "한국어에서 '감사는커녕', '축하는커녕'처럼 명사 뒤에 바로 붙는 '-은/는커녕'은 은혜를 원수로 갚거나 상식적인 예의조차 지키지 않는 부당한 상황을 비판할 때 매우 강력한 어조로 쓰입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 심화 연결어미 활용 (Advanced Connectives) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "명사 '밥(rice/meal)' 뒤에 붙어 '식사는 고사하고 물도 못 마셨다'를 나타내는 올바른 조사는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (22.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (22.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (22.4.3)."
+            "밥은커녕",
+            "밥기는커녕",
+            "밥은 대신에"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "명사 뒤에는 바로 '-은/는커녕'이 붙으므로 '밥은커녕'이 정확합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 심화 연결어미(-더라도, -(으)ㄹ수록, -는 한편) (Advanced Connectives) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "'집값이 비싼 대신에 주변 학군과 편의시설이 훌륭하다'의 보상/상쇄 관계를 바르게 나타낸 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (22.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (22.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (22.4.3)."
+            "이 동네는 집값이 비싼 대신에 생활 인프라와 교육 환경이 대단히 뛰어납니다.",
+            "이 동네는 집값이 비싸기는커녕 생활 인프라와 교육 환경이 대단히 뛰어납니다.",
+            "이 동네는 집값이 비싸더라도 생활 인프라와 교육 환경이 대단히 뛰어납니다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "높은 가격이라는 단점을 뛰어난 환경이라는 장점으로 상쇄·보상하므로 '비싼 대신에'가 가장 적절합니다."
         }
       ]
     },
@@ -10426,14 +10489,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 심화 연결어미 활용 (Advanced Connectives) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 22-4)?",
+          "prompt": "다음 빈칸에 들어갈 가장 자연스러운 표현은?\n\"열심히 도왔는데 고맙다는 인사를 _____ 오히려 원망만 들었어요.\"",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (22.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (22.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (22.4.3)."
+            "받기는커녕",
+            "받는 대신에",
+            "받는 한편"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "최소한의 감사는커녕 오히려 원망을 들은 극단적 부정 대비이므로 '받기는커녕'이 정답입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'칭찬은커녕 꾸중만 들었어요'(Far from being praised, I only got scolded)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "칭찬은커녕 꾸중만 들었어요.",
+            "칭찬은커녕 꾸중만 들었어요"
+          ],
+          "explanation": "칭찬은커녕 + 꾸중만 + 들었어요 = 칭찬은커녕 꾸중만 들었어요."
         }
       ]
     }
@@ -10443,56 +10515,65 @@
     "subject": "korean",
     "unit": 22,
     "lessonNumber": 5,
-    "title": "심화 연결어미(-더라도, -(으)ㄹ수록, -는 한편) (Advanced Connectives) (Part 5)",
+    "title": "시사 칼럼, 학술 비평 및 사회 현상 분석 실전 심화 연결어미 담화",
     "level": "B2",
-    "objective": "Comprehensive mastery of 심화 연결어미 활용 (Advanced Connectives).",
+    "objective": "'-더라도', '-(으)ㄹ수록', '-는 한편', '-기는커녕', '-(으)ㄴ/는 대신에'를 총동원하여 고차원 시사 논평, 학술 비평 실전 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 심화 연결어미(-더라도, -(으)ㄹ수록, -는 한편) (Advanced Connectives) » (제5절)의 핵심 언어 요소와 심화 연결어미 활용 (Advanced Connectives)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "고급 한국어 논설문, 시사 칼럼, 토론 방송에서는 복합적인 사회 현상을 다각도로 조명하기 위해 심화 연결어미군을 정교하게 교차 배치합니다.\n\n1. 시사 대담 프로그램 전문가 패널 토론 실전 담화 모델:\n- 사회자: 교수님, 최근 급증하는 1인 가구 증가 현상과 배달 경제의 급성장을 어떻게 진단하십니까?\n- 패널: 네, 1인 가구 증가는 개인의 독립성과 편의성을 높이는 한편, 사회적 고립과 일회용품 쓰레기 급증이라는 심각한 부작용을 낳고 있습니다.\n- 사회자: 맞습니다. 규제를 강화하자는 목소리도 높은데요.\n- 패널: 하지만 영세 소상공인들에게 무조건적인 친환경 용기 규제를 강제하다가는 생계 자체를 위협할 수 있습니다. 당장 완벽한 무공해 포장재를 쓰기는커녕 기존 단가 맞추기도 벅찬 상황이거든요.\n- 사회자: 그렇다면 어떤 정책적 대안이 필요할까요?\n- 패널: 초기 비용이 다소 들더라도 정부가 다회용기 인프라 구축을 전폭 지원하는 대신에, 소비자에게는 용기 반납 인센티브를 제공하는 비례적 보상 체계를 구축해야 합니다. 참여율이 높아질수록 환경 정화 비용은 획기적으로 줄어들 것입니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (22.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "새로운 정책은 청년 취업률을 단기적으로 끌어올리는 한편, 비정규직 비율 증가라는 구조적 한계를 동시에 드러냈습니다.",
+          "reading": "Saeroun jeongchaek-eun cheongnyeon chwieopryul-eul dangijeog-euro kkeureoollineun hanpyeon, bijeong-gyujik biyeol jeung-ga-raneun gujojeok hangye-reul dongsi-e deureonaetseumnida.",
+          "translation": "The new policy boosted the youth employment rate in the short term on one hand, while simultaneously revealing structural limits of increased non-regular workers ('끌어올리는 한편')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (22.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "원자재 가격이 폭등하자 기업들은 이윤을 남기기는커녕 적자를 면하기 위해 공장 가동률을 대폭 축소하고 있습니다.",
+          "reading": "Wonjajae gagyeok-i pokdeunghaja gieopdeul-eun iyun-eul namgigineunkeonyeong jeokja-reul myeonhagi wihae gongjang gadongryul-eul daepok chuksohago itseumnida.",
+          "translation": "As raw material prices surged, enterprises, far from making profits ('남기기는커녕'), are drastically reducing factory operating rates to avoid deficits."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (22.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "대중교통 요금을 인상하는 대신에, 심야 취약 시간대 배차 간격을 촘촘히 좁혀 승객들의 실질적 이동 편의를 극대화했습니다.",
+          "reading": "Daejung-gyotong yogeum-eul insanghaneun daesin-e, sim-ya chwiyak sigandae baecha gan-gyeok-eul chomchomhi jobhyeo seunggaekdeul-ui siljiljeok idong pyeon-ui-reul geukdaehwahaetseumnida.",
+          "translation": "In compensation for raising public transport fares ('인상하는 대신에'), we closely narrowed dispatch intervals during late-night vulnerable hours to maximize passengers' practical transit convenience."
+        },
+        {
+          "target": "기후 변화 위기에 대한 국제적 공조와 실천적 대응은 늦어지면 늦어질수록 감당해야 할 재난 복구 비용이 기하급수적으로 증가합니다.",
+          "reading": "Gihu byeonhwa wigi-e daehan gukjejeok gongjo-wa silcheonjeok daeeung-eun neojeojimyeon neojeojilssurok gamdanghaeya hal jaenan bokgu biyong-i gihageubsujeog-euro jeung-gahamnida.",
+          "translation": "As for international cooperation and practical response to the climate change crisis, the more delayed it gets ('늦어질수록'), the disaster recovery cost that must be borne increases exponentially."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "한쪽에선 추진하는 한편, 반대는커녕 꿈도 못 꾸고, 늦어질수록 비용만 늘어나는 심화 연결 담화!"
+      ],
+      "culturalNotes": [
+        "한국의 대입 논술이나 공기업 NCS 논술 시험에서는 단문 나열을 지양하고, '-는 한편', '-(으)ㄴ 대신에', '-(으)ㄹ수록'을 유기적으로 엮어 논증하는 능력을 최상위 평가 척도로 삼습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 심화 연결어미 활용 (Advanced Connectives) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "시사 평론 중 두 가지 정책의 명암을 균형 있게 짚은 가장 훌륭한 문장은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (22.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (22.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (22.5.3)."
+            "도시 재생 사업은 구도심 상권을 부활시킨 한편, 젠트리피케이션으로 원주민이 밀려나는 그늘을 낳았다.",
+            "도시 재생 사업은 구도심 상권을 부활시키더라도, 젠트리피케이션으로 원주민이 밀려나는 그늘을 낳았다.",
+            "도시 재생 사업은 구도심 상권을 부활시키기는커녕, 젠트리피케이션으로 원주민이 밀려나는 그늘을 낳았다."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "성과와 부작용의 양면적 공존을 객관적으로 분석하므로 '-는 한편(부활시킨 한편)'이 가장 탁월합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 심화 연결어미(-더라도, -(으)ㄹ수록, -는 한편) (Advanced Connectives) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "경제 칼럼 중 비례적 심화와 대안 제시가 가장 매끄럽게 연결된 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (22.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (22.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (22.5.3)."
+            "금리가 인상될수록 가계 부채 부담이 가중되는 대신에 저축 유인은 증대됩니다.",
+            "금리가 인상되더라도 가계 부채 부담이 가중되기는커녕 저축 유인은 증대됩니다.",
+            "금리가 인상되는 한 가계 부채 부담이 가중되었더라면 저축 유인은 증대됩니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "비례 심화('인상될수록') + 보상/상쇄('가중되는 대신에')의 결합이 논리적으로 완벽합니다."
         }
       ]
     },
@@ -10500,14 +10581,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 심화 연결어미 활용 (Advanced Connectives) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 22-5)?",
+          "prompt": "다음 중 문맥에 부합하는 고급 연결어미가 가장 바르게 사용된 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (22.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (22.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (22.5.3)."
+            "시간이 흐를수록 문제의 심각성이 더욱 또렷해졌습니다.",
+            "시간이 흐르는 한편 문제의 심각성이 더욱 또렷해지기는커녕.",
+            "시간이 흐르더라도 문제의 심각성이 더욱 또렷해지는 대신에."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "explanation": "시간 경과에 비례하여 심각성이 가중되므로 '흐를수록'이 가장 완벽합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'갈수록 태산이라는 말이 실감 나요'(I really feel the saying that things get harder and harder)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "갈수록 태산이라는 말이 실감 나요.",
+            "갈수록 태산이라는 말이 실감 나요"
+          ],
+          "explanation": "갈수록 태산이라는 말이 + 실감 나요 = 갈수록 태산이라는 말이 실감 나요."
         }
       ]
     }
