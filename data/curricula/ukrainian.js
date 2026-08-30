@@ -11965,53 +11965,62 @@
     "subject": "ukrainian",
     "unit": 29,
     "lessonNumber": 1,
-    "title": "Парламентаризм та конституційне право (Governance) (Part 1)",
+    "title": "Парламентаризм, законодавчий процес та регламент Верховної Ради",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 29.1) with authentic linguistic precision.",
+    "objective": "Опанувати парламентську термінологію (законодавча ініціатива, читання законопроєктів, регламентні процедури, вето Президента) та синтаксис законодавчих актів.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Верховна Рада України є єдиним органом законодавчої влади в Україні, що діє на засадах багатопартійності, представництва народу та колегіальності:\n\n1. Суб'єкти права законодавчої ініціативи (ст. 93 Конституції України):\n   - *«Президент України, народні депутати України, Кабінет Міністрів України»*.\n\n2. Стадії проходження законопроєкту у парламенті:\n   - *«Реєстрація проєкту закону та розгляд у профільному комітеті»*;\n   - *«Перше читання»* (обговорення концепції та прийняття за основу);\n   - *«Друге читання»* (постатейний розгляд поправок та пропозицій);\n   - *«Третє читання»* (ухвалення закону в цілому);\n   - *«Підписання Головою Верховної Ради та направлення на підпис Президентові»*;\n   - *«Президентське вето із поверненням на повторний розгляд»* (для подолання вето потрібно не менше 300 голосів — конституційна більшість);\n   - *«Офіційне оприлюднення у газеті «Голос України» та набрання чинності»*.\n\n3. Парламентські процедурні кліше:\n   - *«Ухвалити за основу / прийняти в цілому»*;\n   - *«Поіменне електронне голосування»*;\n   - *«Порядок денний пленарного засідання»*;\n   - *«Парламентський контроль та запити народних депутатів»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Верховна Рада України конституційною більшістю ухвалила євроінтеграційний законопроєкт у другому читанні та в цілому.",
+          "reading": "[wɛrˈxɔwnɐ ˈrɑdɐ ukrɐˈjinɪ kɔnstɪtuˈt͡sʲijnɔju bʲilʲˈʃʲisʲtʲu uxwɐˈlɪlɐ jɛwrɔintɛɦrɐt͡sʲijˈnɪj zɐkɔnɔprɔˈjɛkt u ˈdruɦɔmu tʃɪˈtɑnnʲi tɑ w ˈt͡sʲilɔmu] (wehr-KHOHV-nah RAH-dah oo-krah-YEE-ny kohn-sty-too-TSEEY-noh-yoo beel'-SHEES-tyoo ookh-vah-LY-lah yehv-roh-een-teh-hrah-tseey-NYY zah-koh-noh-proh-YEHKT oo DROO-hoh-moo chy-TAHN-nee tah v TSEE-loh-moo)",
+          "translation": "The Verkhovna Rada of Ukraine passed the European integration draft law by a constitutional majority in the second reading and as a whole."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 29-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Профільний парламентський комітет рекомендував включити законопроєкт до порядку денного сесії та скоротити строки подання поправок.",
+          "reading": "[prɔˈfʲilʲnɪj pɐrlɐˈmɛntsʲkɪj kɔmʲiˈtɛt rɛkɔmɛnduˈwɑw wklʲuˈtʃɪtɪ zɐkɔnɔprɔˈjɛkt dɔ pɔˈrʲɑdku ˈdɛnnɔɦɔ ˈsɛsʲiji tɑ skrɔˈtɪtɪ ˈstrɔkɪ pɔˈdɑnʲːɑ pɔpˈrɑwɔk] (proh-FEEL'-nyy pahr-lah-MEHNTS'-kyy koh-mee-TEHT reh-koh-mehn-doo-VAHV vklyoo-CHY-ty zah-koh-noh-proh-YEHKT doh poh-RYAHD-koo DEHN-noh-hoh SEH-see-yee tah skroh-TY-ty STROH-ky poh-DAHN-nyah pohp-RAH-wohk)",
+          "translation": "The specialized parliamentary committee recommended including the bill on the session agenda and shortening the deadline for submitting amendments."
+        },
+        {
+          "target": "Право законодавчої ініціативи належить виключно Президентові, народним депутатам та Кабінету Міністрів України.",
+          "reading": "[ˈprɑwɔ zɐkɔnɔdɑwtʃɔji inʲit͡sʲiɐˈtɪwɪ nɐlɛˈʒɪtʲ wɪkˈlʲutʃnɔ prɛzɪˈdɛntɔwʲi, nɐˈrɔdnɪm dɛpuˈtɑtɐm tɑ kɐbʲiˈnɛtu mʲiˈnʲistrʲiw ukrɐˈjinɪ] (PRAH-woh zah-koh-noh-dahv-CHOH-yee ee-nee-tsee-ah-TY-wy nah-leh-ZHYT' vy-KLYOOCH-noh preh-zy-DEHN-toh-wee, nah-ROHD-nym deh-poo-TAH-tahm tah kah-bee-NEH-too mee-NEEST-reew oo-krah-YEE-ny)",
+          "translation": "The right of legislative initiative belongs exclusively to the President, People's Deputies, and the Cabinet of Ministers of Ukraine."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Читання: 1-ше — за основу, 2-ге — поправки, 3-тє / в цілому — закон; вето долають 300 голосами!"
+      ],
+      "culturalNotes": [
+        "Традиція українського парламентаризму веде початок від козацьких генеральних рад Запорозької Січі та Української Центральної Ради 1917–1918 років."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Школа\":",
+          "prompt": "Як називається стадія парламентського розгляду, на якій законопроєкт остаточно ухвалюється як закон?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.1.",
-            "Неправильне відмінкове узгодження зі словом «Університет»",
-            "Порушення законів евфонії та словотворення для «Вчитель»",
-            "Стилістично некоректна синтаксична конструкція з «Студент»"
+            "Прийняття в цілому / третє читання (Final passage as a whole - standard legislative stage)",
+            "Прийняття за основу",
+            "Комітетське слухання",
+            "Реєстрація проєкту"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Остаточне ухвалення закону відбувається шляхом голосування «в цілому» (після проходження читань)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Школа\":",
+          "prompt": "Скільки голосів народних депутатів (конституційна більшість) необхідно для подолання вето Президента України?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.1.",
-            "Порушення законів евфонії та словотворення для «Вчитель»",
-            "Стилістично некоректна синтаксична конструкція з «Студент»",
-            "Неправильне відмінкове узгодження зі словом «Університет»"
+            "Не менше 300 голосів (At least 300 votes - two-thirds constitutional majority)",
+            "226 голосів",
+            "150 голосів",
+            "350 голосів"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Для подолання президентського вето згідно зі статтею 94 Конституції України необхідно щонайменше 300 голосів (дві третини від конституційного складу)."
         }
       ]
     },
@@ -12019,17 +12028,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Школа\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому норми законодавчого процесу описано бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.1.",
-            "Стилістично некоректна синтаксична конструкція з «Студент»",
-            "Неправильне відмінкове узгодження зі словом «Університет»",
-            "Порушення законів евфонії та словотворення для «Вчитель»"
+            "Після врахування поправок профільний комітет рекомендував парламенту ухвалити законопроєкт у другому читанні та в цілому.",
+            "Комітет рішив прийняти закон за основу і зразу відправити Президенту.",
+            "Депутати проголосували бумагу по поправкам без регламентних правил.",
+            "Парламент прийняв законопроєкт по першому читанню як готовий закон."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Врахування поправок... ухвалити законопроєкт у другому читанні та в цілому» — еталонна парламентська мова."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u29-l2": {
@@ -12037,53 +12047,62 @@
     "subject": "ukrainian",
     "unit": 29,
     "lessonNumber": 2,
-    "title": "Парламентаризм та конституційне право (Governance) (Part 2)",
+    "title": "Виконавча влада, урядові акти та реформа державної служби",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 29.2) with authentic linguistic precision.",
+    "objective": "Опанувати термінологію системи органів виконавчої влади (КМУ, міністерства, ЦОВВ), нормотворчості (постанови, розпорядження), державної служби та антикорупційного моніторингу.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Виконавча влада в Україні організована за принципом функціональної підпорядкованості та колегіальності на чолі з Кабінетом Міністрів України:\n\n1. Система органів виконавчої влади:\n   - *«Кабінет Міністрів України (КМУ)»* — вищий орган у системі органів виконавчої влади;\n   - *«Міністерства та центральні органи виконавчої влади (ЦОВВ: служби, агентства, інспекції)»*;\n   - *«Місцеві державні адміністрації (обласні та районні — ОДА/РДА, під час війни — ОВА/РВА)»*.\n\n2. Акти уряду та правові форми рішень:\n   - *«Постанова КМУ»* — нормативно-правовий акт вищої юридичної сили уряду (має загальний характер);\n   - *«Розпорядження КМУ»* — акт індивідуального або оперативного характеру;\n   - *«Накази міністерств»* (підлягають державній реєстрації в Міністерстві юстиції України).\n\n3. Державна служба та доброчесність:\n   - *«Категорії посад державної служби («А» — вищий корпус, «Б» — керівники підрозділів, «В» — спеціалісти)»*;\n   - *«Відкритий конкурсний відбір, присяга державного службовця»*;\n   - *«Електронне декларування доходів та моніторинг способу життя (НАЗК)»*;\n   - *«Антикорупційна інфраструктура: НАБУ, САП, ВАКС»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Кабінет Міністрів України ухвалив постанову про запровадження цифрових сервісів для оптимізації роботи державної служби.",
+          "reading": "[kɐbʲiˈnɛt mʲiˈnʲistrʲiw ukrɐˈjinɪ uxwɐˈlɪw pɔstɐˈnɔwu prɔ zɐprɔwɐˈdʒɛnʲːɑ t͡sɪfrɔˈwɪx sɛrˈwʲisʲiw dlʲɑ ɔptɪmʲizɑˈt͡sʲiji rɔˈbɔtɪ dɛrˈʒɑwnɔji ˈsluʒbɪ] (kah-bee-NEHT mee-NEEST-reew oo-krah-YEE-ny ookh-vah-LYV pohs-tah-NOH-woo proh zah-proh-vahd-ZHEN-nyah tsyf-roh-WYKH sehr-VEE-seew dlyah ohp-ty-mee-ZAH-tsee-yee roh-BOH-ty dehr-ZHAHV-noh-yee SLOOZH-by)",
+          "translation": "The Cabinet of Ministers of Ukraine adopted a resolution on the implementation of digital services to optimize the work of the civil service."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 29-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Національне агентство з питань запобігання корупції проводить повну перевірку електронних декларацій високопосадовців.",
+          "reading": "[nɐt͡sʲiɔˈnɑlʲnɛ ɐˈɦɛntstxɔ z pɪˈtɑnʲ zɐpɔbʲiˈɦɑnʲːɑ kɔˈrupt͡sʲiji prɔˈwɔdɪtʲ ˈpɔwnu pɛrɛˈwʲirku ɛlɛktˈrɔnnɪx dɛklɐˈrɑt͡sʲij wɪsɔkɔpɔsɐˈdɔwt͡sʲiw] (nah-tsee-oh-NAHL'-neh ah-HEHNT-stvah z py-TAHN' zah-poh-bee-HAHN-nyah koh-ROOP-tsee-yee proh-VOH-deet' POHV-noo peh-reh-VEER-koo eh-lehk-TROHN-nykh deh-klah-RAH-tseey vy-soh-koh-poh-sah-DOHV-tseew)",
+          "translation": "The National Agency on Corruption Prevention conducts a comprehensive audit of electronic asset declarations of senior officials."
+        },
+        {
+          "target": "Конкурсний відбір на посади категорії «А» здійснюється Комісією з питань вищого корпусу державної служби за принципами меритократії.",
+          "reading": "[kɔnˈkursnɪj wʲidˈbʲir nɑ pɔˈsɑdɪ kɐtɛˈɦɔrʲiji ɑ zdʲijsʲˈnʲujɛtʲsʲɑ kɔˈmʲisʲijɛju z pɪˈtɑnʲ ˈwɪʃtʃɔɦɔ ˈkɔrpusu dɛrˈʒɑwnɔji ˈsluʒbɪ zɑ ˈprɪnt͡sɪpɐmɪ mɛrɪtɔkˈrɑtʲiji] (kohn-KOORS-nyy veed-BEER nah poh-SAH-dy kah-teh-HOH-ree-yee AH zdeey-SNYOO-yeht'-syah koh-MEE-see-yeh-yoo z py-TAHN' VYSH-choh-hoh KOHR-poo-soo dehr-ZHAHV-noh-yee SLOOZH-by zah PRYN-tsy-pah-my meh-ry-tohk-RAH-tee-yee)",
+          "translation": "Competitive selection for Category 'A' positions is conducted by the Senior Civil Service Commission based on meritocracy principles."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Уряд видає «постанови» (нормативні) та «розпорядження» (оперативні); держслужба — категорії «А», «Б», «В»; декларації перевіряє НАЗК!"
+      ],
+      "culturalNotes": [
+        "Реформа державної служби в Україні базується на стандартах SIGMA/OECD з орієнтацією на цифровізацію та людиноцентричність публічних послуг."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Університет\":",
+          "prompt": "Який нормативно-правовий акт загального характеру ухвалює Кабінет Міністрів України?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.2.",
-            "Неправильне відмінкове узгодження зі словом «Вчитель»",
-            "Порушення законів евфонії та словотворення для «Студент»",
-            "Стилістично некоректна синтаксична конструкція з «Урок»"
+            "Постанова (Resolution - standard regulatory act of the Cabinet of Ministers)",
+            "Указ",
+            "Закон",
+            "Декрет"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативні акти Кабінету Міністрів України ухвалюються у формі «постанов» (розпорядження мають індивідуальний характер)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Університет\":",
+          "prompt": "До якої категорії посад державної служби в Україні належать державні секретарі міністерств та керівники ЦОВВ?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.2.",
-            "Порушення законів евфонії та словотворення для «Студент»",
-            "Стилістично некоректна синтаксична конструкція з «Урок»",
-            "Неправильне відмінкове узгодження зі словом «Вчитель»"
+            "Категорія «А» (вищий корпус державної служби) (Category A - senior civil service)",
+            "Категорія «Б»",
+            "Категорія «В»",
+            "Категорія «Г»"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Вищі керівні посади державної служби в Україні належать до категорії «А»."
         }
       ]
     },
@@ -12091,17 +12110,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Університет\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому норми державного управління та антикорупційного контролю описано грамотно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.2.",
-            "Стилістично некоректна синтаксична конструкція з «Урок»",
-            "Неправильне відмінкове узгодження зі словом «Вчитель»",
-            "Порушення законів евфонії та словотворення для «Студент»"
+            "Уряд затвердив розпорядження про призначення державного секретаря за результатами відкритого конкурсу та успішного проходження спецперевірки.",
+            "КМУ видав указ про прийом на роботу начальника міністерства без екзаменів.",
+            "Кабінет Міністрів постановив розпорядитися призначенням чиновника по знайомству.",
+            "Міністр підписав закон про зміну держслужбовців у своєму апараті."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Затвердив розпорядження про призначення... за результатами відкритого конкурсу та успішного проходження спецперевірки» — ідеальна службова мова."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u29-l3": {
@@ -12109,53 +12129,62 @@
     "subject": "ukrainian",
     "unit": 29,
     "lessonNumber": 3,
-    "title": "Парламентаризм та конституційне право (Governance) (Part 3)",
+    "title": "Децентралізація, місцеве самоврядування та територіальні громади",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 29.3) with authentic linguistic precision.",
+    "objective": "Опанувати термінологію реформи децентралізації (територіальні громади, старостинські округи, фіскальна автономія, міжбюджетні трансферти) та місцевого самоврядування.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Реформа децентралізації влади в Україні передала фінансові ресурси та повноваження на базовий рівень — до спроможних територіальних громад:\n\n1. Адміністративно-територіальний устрій та органи:\n   - *«Територіальна громада (міська, селищна, сільська)»* — первинний суб'єкт місцевого самоврядування;\n   - *«Сільський, селищний, міський голова»*;\n   - *«Місцева рада (депутатський корпус) та її виконавчий комітет (виконком)»*;\n   - *«Староста та старостинський округ»* — представник інтересів жителів сіл у громаді;\n   - *«Обласні та районні ради»* — представляють спільні інтереси територіальних громад.\n\n2. Фінансова децентралізація та муніципальне майно:\n   - *«Власні доходи місцевих бюджетів (частка ПДФО, єдиний податок, плата за землю)»*;\n   - *«Міжбюджетні трансферти (базова / реверсна дотація, освітня та медична субвенції)»*;\n   - *«Комунальна власність та управління муніципальними підприємствами»*;\n   - *«Просторово-планувальна документація та генеральний план забудови»*.\n\n3. Європейський принцип субсидіарності:\n   - Усі публічні послуги надаються на максимально наближеному до громадянина рівні (ЦНАП — Центр надання адміністративних послуг).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Реформа децентралізації забезпечила фінансову самодостатність територіальних громад завдяки закріпленню частини загальнодержавних податків за місцевими бюджетами.",
+          "reading": "[rɛˈfɔrmɐ dɛt͡sɛntrɐlʲizɑˈt͡sʲiji zɐbɛzˈpɛtʃɪlɐ fʲinɐnˈsɔwu sɐmɔdɔsˈtɑtnʲisʲtʲ tɛrɪtɔrʲiˈɑlʲnɪx ɦrɔˈmɑd zɐwˈdʲɑkɪ zɐkrʲipˈlɛnʲːu ˈt͡ʃɑstkɪ zɐɦɑlʲnɔdɛrˈʒɑwnɪx pɔˈdɑtkʲiw zɑ mʲisʲt͡sɛˈwɪmɪ bʲudˈʒɛtɐmɪ] (reh-FOHR-mah deh-tsehn-trah-lee-ZAH-tsee-yee zah-bez-PEH-chy-lah fee-nahn-SOH-woo sah-moh-dohs-TAHT-neest' teh-ry-toh-ree-AHL'-nykh hroh-MAHD zahv-DYAH-ky zah-kreep-LEN-nyoo CHAHS-tky zah-hahl'-noh-dehr-ZHAHV-nykh poh-DAHT-keew zah mees-tseh-WY-my byood-ZHEH-tah-my)",
+          "translation": "The decentralization reform ensured the financial self-sufficiency of territorial hromadas by allocating a share of national taxes to local budgets."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 29-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Центри надання адміністративних послуг (ЦНАП) стали взірцем прозорого та безбар'єрного обслуговування мешканців громади.",
+          "reading": "[ˈt͡sɛntrɪ nɐˈdɑnʲːɑ ɐdmʲinʲistrɐˈtɪwnɪx pɔsˈluɦ t͡sɛ n ɑ pɛ ˈstɑlɪ ˈwzʲirtsɛm prɔˈzɔrɔɦɔ tɑ bɛzbɐrˈjɛrnɔɦɔ ɔbsluˈɦɔwuwɑnʲːɑ ˈmɛʃkɐnt͡sʲiw ɦrɔˈmɑdɪ] (TSEHN-try nah-DAHN-nyah ahd-mee-nees-trah-TYV-nykh pohs-LOOH tseh ehn ah peh STAH-ly VZEER-tsehm proh-ZOH-roh-hoh tah bez-bahr-YEHR-noh-hoh ohb-sloo-HOH-woo-vahn-nyah MEHSH-kahn-tseew hroh-MAH-dy)",
+          "translation": "Administrative Service Centers (TsNAP) have become a model of transparent and barrier-free service for community residents."
+        },
+        {
+          "target": "Староста старостинського округу здійснює щоденний прийом громадян та представляє інтереси жителів у виконавчому комітеті ради.",
+          "reading": "[stɐˈrɔstɐ stɐrɔsˈtɪnsʲkɔɦɔ ˈɔkruɦu zdʲijsʲˈnʲujɛ ʃtʃɔˈdɛnnɪj prɪˈjɔm ɦrɔmɐˈdʲɑn tɑ prɛdstɐwˈlʲɑjɛ intɛˈrɛsɪ ʒɪˈtɛlʲiw u wɪkɔˈnɑwtʃɔmu kɔmʲiˈtɛtʲi ˈrɑdɪ] (stah-ROHS-tah stah-rohs-TYN-s'koh-hoh OHK-roo-hoo zdeey-SNYOO-yeh shchoh-DEHN-nyy pry-YOHM hroh-mah-DYAHN tah prehd-stahv-LYAH-yeh een-teh-REH-sy zhy-TEH-leew oo vy-koh-NAHV-choh-moo koh-mee-TEH-tyee RAH-dy)",
+          "translation": "The starosta of the starosta district conducts daily public receptions and represents the interests of residents in the executive committee of the council."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Громада — «територіальна громада»; центр послуг — «ЦНАП»; представник села — «староста»; принцип наближення послуг — «субсидіарність»!"
+      ],
+      "culturalNotes": [
+        "Децентралізація визнана міжнародними партнерами однією з найуспішніших реформ України, що довела надзвичайну стійкість громад під час війни."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Вчитель\":",
+          "prompt": "Як називається первинний базовий суб'єкт місцевого самоврядування в Україні після реформи децентралізації?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.3.",
-            "Неправильне відмінкове узгодження зі словом «Студент»",
-            "Порушення законів евфонії та словотворення для «Урок»",
-            "Стилістично некоректна синтаксична конструкція з «Іспит»"
+            "Територіальна громада (Territorial hromada - basic local self-government unit)",
+            "Сільрада",
+            "Районна управа",
+            "Муніципальний округ"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Базовою одиницею місцевого самоврядування в Україні є «територіальна громада»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Вчитель\":",
+          "prompt": "Як розшифровується абревіатура ЦНАП?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.3.",
-            "Порушення законів евфонії та словотворення для «Урок»",
-            "Стилістично некоректна синтаксична конструкція з «Іспит»",
-            "Неправильне відмінкове узгодження зі словом «Студент»"
+            "Центр надання адміністративних послуг (Administrative Service Center)",
+            "Центральний наглядовий адміністративний пункт",
+            "Цифровий національний архів послуг",
+            "Центр народної адвокації прав"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Нормативна назва — «Центр надання адміністративних послуг» (ЦНАП)."
         }
       ]
     },
@@ -12163,17 +12192,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Вчитель\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому терміни місцевого самоврядування вжито абсолютно грамотно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.3.",
-            "Стилістично некоректна синтаксична конструкція з «Іспит»",
-            "Неправильне відмінкове узгодження зі словом «Студент»",
-            "Порушення законів евфонії та словотворення для «Урок»"
+            "Міська рада затвердила бюджет територіальної громади на наступний рік, виділивши субвенцію на термомодернізацію закладів освіти.",
+            "Сільрада прийняла план по грошам з розсилкою субвенцій по селам.",
+            "Громада скинулася в спільний котел для ремонту муніципалітету.",
+            "Районний совет розподілив трансферти по міським урядам."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Міська рада затвердила бюджет територіальної громади... виділивши субвенцію...» — точна фінансово-муніципальна термінологія."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u29-l4": {
@@ -12181,53 +12211,62 @@
     "subject": "ukrainian",
     "unit": 29,
     "lessonNumber": 4,
-    "title": "Парламентаризм та конституційне право (Governance) (Part 4)",
+    "title": "Виборче право, виборчі системи та інструменти електронної демократії",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 29.4) with authentic linguistic precision.",
+    "objective": "Опанувати виборчу термінологію (Виборчий кодекс, відкриті списки, ЦВК, виборчий ценз) та сучасні механізми прямого народовладдя й електронної демократії (е-петиції, «Дія»).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Виборче право та електронне народовладдя забезпечують безпосередню реалізацію суверенітету українського народу:\n\n1. Принципи виборчого права в Україні:\n   - *«Загальне, рівне, пряме виборче право при таємному голосуванні»*;\n   - *«Активне виборче право»* (право голосувати з 18 років);\n   - *«Пасивне виборче право»* (право бути обраним: Президент — від 35 років, народний депутат — від 21 року, мер/депутат ради — від 18 років);\n   - *«Виборчий ценз (віковий, осілості, громадянства)»*.\n\n2. Виборча система за Виборчим кодексом України:\n   - *«Пропорційна виборча система з відкритими регіональними списками кандидатів»*;\n   - *«Виборчий бар'єр (прохідний бар'єр 5% для партій)»*;\n   - *«Центральна виборча комісія (ЦВК) — постійно діючий державний орган»*;\n   - *«Окружні та дільничні виборчі комісії (ОВК/ДВК)»*;\n   - *«Протокол підрахунку голосів виборців на виборчій дільниці»*.\n\n3. Інструменти електронної демократії (E-Democracy):\n   - *«Електронні петиції до Президента, Верховної Ради та органів місцевого самоврядування»*;\n   - *«Громадський бюджет (бюджет участі)»* — пряме голосування жителів за проєкти розвитку;\n   - *«Опитування в застосунку «Дія»»* як інструмент консультацій з громадськістю.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Виборчий кодекс України закріпив пропорційну систему з відкритими списками, що дозволяє виборцям впливати на персоніфікований рейтинг кандидатів від партії.",
+          "reading": "[wɪbɔrtʃɪj ˈkɔdɛks ukrɐˈjinɪ zɐkrʲiˈpʲiw prɔpɔrˈt͡sʲijnu sɪsˈtɛmu z wʲidkˈrɪtɪmɪ ˈspɪskɐmɪ, ʃtʃɔ dɔzˈwɔlʲɑjɛ wɪbɔrˈt͡sʲɑm wplɪˈwɑtɪ nɑ pɛrsɔnʲifʲikɔˈwɑnɪj ˈrɛjtɪnɦ kɐndɪˈdɑtʲiw wʲid ˈpɑrtʲiji] (vy-bohr-CHYY KOH-dehks oo-krah-YEE-ny zah-kree-PEEV proh-pohr-TSEEY-noo sys-TEH-moo z veed-KRY-ty-my SPYS-kah-my, shchoh dohz-VOH-lyah-yeh vy-bohr-TSYAHM vply-VAH-ty nah pehr-soh-nee-fee-koh-VAH-nyy REHY-tynh kahn-dy-DAH-teew veed PAHR-tee-yee)",
+          "translation": "The Electoral Code of Ukraine established a proportional system with open lists, allowing voters to influence the personalized ranking of party candidates."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 29-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Електронна петиція набрала необхідні двадцять п'ять тисяч голосів громадян і передана на обов'язковий розгляд Президентові.",
+          "reading": "[ɛlɛktˈrɔnnɐ pɛˈtɪt͡sʲijɑ nɐbˈrɑlɐ nɛɔbˈxʲidnʲi ˈdwɑd͡zʲɑtʲ pʲɑtʲ ˈtɪsʲɑtʃ ɦɔlɔˈsʲiw ɦrɔmɐˈdʲɑn i pɛrɛˈdɑnɐ nɑ ɔbɔwˈjɑzkɔwɪj ˈrɔzɦlʲɑd prɛzɪˈdɛntɔwʲi] (eh-lehk-TROHN-nah peh-TY-tsee-yah nahb-RAH-lah neh-ohb-KHEED-nee DWAH-dzyaht' pyat' TY-syach hoh-loh-SEEW hroh-mah-DYAHN ee peh-reh-DAH-nah nah oh-bov-YAHZ-koh-vyy ROZH-lyahd preh-zy-DEHN-toh-wee)",
+          "translation": "The electronic petition gathered the required twenty-five thousand citizen votes and was submitted for mandatory consideration to the President."
+        },
+        {
+          "target": "Офіційні результати виборів встановлюються Центральною виборчою комісією на підставі оригіналів протоколів окружних комісій.",
+          "reading": "[ɔfʲit͡sʲijˈnʲi rɛzulʲˈtɑtɪ ˈwɪbɔrʲiw wstɐnɔwˈlʲɑjutʲsʲɑ t͡sɛntˈrɑlʲnɔju wɪbɔrˈtʃɔju kɔˈmʲisʲijɛju nɑ pʲidˈstɑwʲi ɔrɪɦʲiˈnɑlʲiw prɔtɔˈkɔlʲiw ɔkruʒˈnɪx kɔˈmʲisʲij] (oh-fee-tseey-NEE reh-zool'-TAH-ty VY-boh-reew vstah-nohv-LYAH-yoot'-syah tsehn-TRAHL'-noh-yoo vy-bohr-CHOH-yoo koh-MEE-see-yeh-yoo nah peed-STAH-wee oh-ry-hee-NAH-leew proh-toh-KOH-leew oh-kroozh-NYKH koh-MEE-seey)",
+          "translation": "Official election results are established by the Central Election Commission on the basis of original protocols of district commissions."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Списки — «відкриті регіональні списки»; орган — «ЦВК»; інструмент е-демократії — «електронні петиції (25 000 підписів)»!"
+      ],
+      "culturalNotes": [
+        "Україна є світовим лідером цифрового народовладдя, де державний застосунок «Дія» використовується десятками мільйонів громадян для голосування в опитуваннях."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Студент\":",
+          "prompt": "Скільки підписів громадян має зібрати електронна петиція до Президента України для обов'язкового розгляду?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.4.",
-            "Неправильне відмінкове узгодження зі словом «Урок»",
-            "Порушення законів евфонії та словотворення для «Іспит»",
-            "Стилістично некоректна синтаксична конструкція з «Оцінка»"
+            "Не менше 25 000 підписів (At least 25,000 signatures within 3 months)",
+            "10 000 підписів",
+            "50 000 підписів",
+            "100 000 підписів"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Згідно із Законом України «Про звернення громадян» поріг для петиції Президентові становить не менше 25 000 підписів."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Студент\":",
+          "prompt": "Як називається право громадянина особисто обирати представників до органів влади на виборах?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.4.",
-            "Порушення законів евфонії та словотворення для «Іспит»",
-            "Стилістично некоректна синтаксична конструкція з «Оцінка»",
-            "Неправильне відмінкове узгодження зі словом «Урок»"
+            "Активне виборче право (Active suffrage / right to vote)",
+            "Пасивне виборче право",
+            "Делеговане право",
+            "Електоральний імунітет"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Право голосувати називається «активним виборчим правом» (право бути обраним — «пасивним»)."
         }
       ]
     },
@@ -12235,17 +12274,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Студент\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому виборчі процедури та е-демократію описано бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.4.",
-            "Стилістично некоректна синтаксична конструкція з «Оцінка»",
-            "Неправильне відмінкове узгодження зі словом «Урок»",
-            "Порушення законів евфонії та словотворення для «Іспит»"
+            "Впровадження відкритих виборчих списків та електронних петицій розширює можливості громадянського контролю над політичними процесами.",
+            "Вибори по закритим спискам і петиції на бумазі найкраще підходять для народу.",
+            "ЦВК підрахувала голоси без протоколів за допомогою приватних сайтів.",
+            "Активне право голосу дозволяє балотуватися в мери з десяти років."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Впровадження відкритих виборчих списків та електронних петицій...» — бездоганна політологічна та правова термінологія."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u29-l5": {
@@ -12253,53 +12293,62 @@
     "subject": "ukrainian",
     "unit": 29,
     "lessonNumber": 5,
-    "title": "Парламентаризм та конституційне право (Governance) (Part 5)",
+    "title": "Публічна дипломатія, вступ до ЄС та євроатлантична інтеграція",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 29.5) with authentic linguistic precision.",
+    "objective": "Опанувати термінологію вступу України до ЄС (переговорні кластери, Acquis communautaire, скринінг), інтеграції в НАТО (стандарти STANAG) та публічної дипломатії.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Європейська та євроатлантична інтеграція закріплені у преамбулі та статтях 85, 102, 116 Конституції України як стратегічний цивілізаційний курс держави:\n\n1. Процедура вступу до Європейського Союзу (EU Accession Process):\n   - *«Переговорні рамки та офіційне відкриття переговорів про вступ»*;\n   - *«Скринінг національного законодавства на відповідність праву ЄС (Acquis communautaire)»*;\n   - *«Шість переговорних кластерів (Fundamentals, Internal Market, Green Agenda тощо)»*;\n   - *«Кластер «Основи (Fundamentals)»* — верховенство права, судова реформа, антикорупція (відкривається першим і закривається останнім);\n   - *«Договір про приєднання до ЄС та ратифікація всіма державами-членами»*.\n\n2. Євроатлантична інтеграція та стандарти НАТО:\n   - *«Взаємосумісність сил оборони зі збройними силами Альянсу»*;\n   - *«Впровадження стандартів НАТО (угоди зі стандартизації STANAG)»*;\n   - *«Цивільний демократичний контроль над сектором безпеки і оборони»*.\n\n3. Публічна та цифрова дипломатія:\n   - *«Просування національних інтересів, культурна дипломатія (Український інститут)»*;\n   - *«Стратегічні комунікації та протидія дезінформаційним наративам»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Офіційне відкриття передвступних переговорів з Європейським Союзом знаменує початок гармонізації українського законодавства з правом ЄС.",
+          "reading": "[ɔfʲit͡sʲijˈnɛ wʲidkˈrɪtʲːɑ pɛrɛdwstupˈnɪx pɛrɛɦɔˈwɔrʲiw z jɛwrɔˈpɛjsʲkɪm sɔˈjuzɔm znɐmɛnuˈjɛ pɔˈtʃɑtɔk ɦɐrmɔnʲizɑˈt͡sʲiji ukrɐˈjinsʲkɔɦɔ zɐkɔnɔˈdɑwstxɐ z ˈprɑwɔm jɛ ɛs] (oh-fee-tseey-NEH veed-KRYT-tyah peh-rehd-wstoop-NYKH peh-reh-hoh-VOH-reew z yehv-roh-PEHY-s'kym soh-YOO-zohm znah-meh-NOO-yeh poh-CHAH-tohk hahr-moh-nee-ZAH-tsee-yee oo-krah-YEEN-s'koh-hoh zah-koh-noh-DAHV-stvah z PRAH-wohm yeh ehs)",
+          "translation": "The official opening of accession negotiations with the European Union marks the beginning of the harmonization of Ukrainian legislation with EU law."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 29-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Успішне проходження офіційного скринінгу за кластером «Основи» є головною передумовою динамічного поступу до членства в Євросоюзі.",
+          "reading": "[usʲˈpʲiʃnɛ prɔxɔdˈʒɛnʲːɑ ɔfʲit͡sʲijˈnɔɦɔ skˈrɪnʲinɦu zɑ ˈklɑstɛrɔm ˈɔsnɔwɪ jɛ ˈɦɔlɔwnɔju pɛrɛduˈmɔwɔju dɪnɐˈmʲitʃnɔɦɔ ˈpɔstupu dɔ ˈt͡ʃlɛnstxɐ w jɛwrɔsɔˈjuzʲi] (oos-PEESH-neh proh-khohd-ZHEN-nyah oh-fee-tseey-NOH-hoh SKREE-neen-hoo zah KLAH-steh-rohm OHS-noh-wy yeh HOH-lohv-noh-yoo peh-rehd-oo-MOH-woh-yoo dy-nah-MEECH-noh-hoh POHS-too-poo doh CHLEHN-stvah v yehv-roh-soh-YOO-zee)",
+          "translation": "Successful completion of the official screening on the 'Fundamentals' cluster is the main prerequisite for dynamic progress towards EU membership."
+        },
+        {
+          "target": "Впровадження військових стандартів STANAG забезпечує повну операційну сумісність Збройних Сил України з арміями держав-членів НАТО.",
+          "reading": "[wprɔwɐdˈʒɛnʲːɑ wʲijʲsʲkɔˈwɪx stɐnˈdɑrtʲiw stɐˈnɑɦ zɐbɛzˈpɛtʃujɛ ˈpɔwnu ɔpɛrɐt͡sʲijˈnu suˈmʲisnʲisʲtʲ ˈzbrɔjnɪx sɪl ukrɐˈjinɪ z ˈɑrmʲijɐmɪ dɛrˈʒɑw ˈt͡ʃlɛnʲiw ˈnɑtɔ] (vproh-vahd-ZHEN-nyah veey-s'koh-WYKH stahn-DAHR-teew stah-NAHH zah-bez-PEH-choo-yeh POHV-noo oh-peh-rah-tseey-NOO soo-MEES-neest' ZBROHY-nykh SYL oo-krah-YEE-ny z AHR-mee-yah-my dehr-ZHAHV CHLEH-neew NAH-toh)",
+          "translation": "The implementation of STANAG military standards ensures full operational interoperability of the Armed Forces of Ukraine with the armies of NATO member states."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ЄС: «Acquis communautaire» (право ЄС), «скринінг законодавства», кластер «Основи»; НАТО: «взаємосумісність» та стандарти «STANAG»!"
+      ],
+      "culturalNotes": [
+        "Курс на повноправне набуття членства України в Європейському Союзі та Організації Північноатлантичного договору незворотно закріплений у Конституції України."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Урок\":",
+          "prompt": "Як у праві Європейського Союзу називається сукупність усього законодавства та судової практики ЄС, яку країна-кандидат зобов'язана імплементувати?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.5.",
-            "Неправильне відмінкове узгодження зі словом «Іспит»",
-            "Порушення законів евфонії та словотворення для «Оцінка»",
-            "Стилістично некоректна синтаксична конструкція з «Диплом»"
+            "Acquis communautaire / право ЄС (Total body of EU law)",
+            "Кодекс Європи",
+            "Брюссельський регламент",
+            "Єдиний європейський кодекс"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Сукупність усього зводу права ЄС офіційно називається «Acquis communautaire» (або право ЄС)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Урок\":",
+          "prompt": "Як називаються стандарти НАТО для забезпечення оперативної та технічної взаємосумісності між арміями союзників?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.5.",
-            "Порушення законів евфонії та словотворення для «Оцінка»",
-            "Стилістично некоректна синтаксична конструкція з «Диплом»",
-            "Неправильне відмінкове узгодження зі словом «Іспит»"
+            "STANAG (Standardization Agreements of NATO)",
+            "ISO 9001",
+            "MIL-SPEC",
+            "DEF-STAN"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Угоди НАТО зі стандартизації мають назву «STANAG» (Standardization Agreement)."
         }
       ]
     },
@@ -12307,17 +12356,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Урок\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому процеси європейської та євроатлантичної інтеграції описано з абсолютною науковою точністю:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 29.5.",
-            "Стилістично некоректна синтаксична конструкція з «Диплом»",
-            "Неправильне відмінкове узгодження зі словом «Іспит»",
-            "Порушення законів евфонії та словотворення для «Оцінка»"
+            "Адаптація національного законодавства до Acquis communautaire та впровадження стандартів STANAG наближають повноправне членство України в ЄС і НАТО.",
+            "Україна вступила в ЄС за один день без скринінгу і переговорів.",
+            "Стандарти НАТО вимагають перекладу всіх законів на англійську мову без реформ.",
+            "Кластери євроінтеграції закриваються автоматично після підписання заяви."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Адаптація національного законодавства до Acquis communautaire та впровадження стандартів STANAG...» — досконалий міжнародно-правовий рівень C1."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u30-l1": {
