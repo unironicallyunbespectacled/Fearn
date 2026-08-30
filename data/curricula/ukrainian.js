@@ -4585,53 +4585,62 @@
     "subject": "ukrainian",
     "unit": 11,
     "lessonNumber": 1,
-    "title": "Майбутній час: проста і складена форми (Future Tense) (Part 1)",
+    "title": "Проста форма майбутнього часу доконаного виду (Simple Future of Perfective Verbs)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 11.1) with authentic linguistic precision.",
+    "objective": "Опанувати творення та вживання простої форми майбутнього часу дієслів доконаного виду (напишу, зробиш, прочитає) для вираження результативної дії в майбутньому.",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові категорія майбутнього часу тісно пов'язана з видом дієслова. Дієслова доконаного виду (perfective aspect), які відповідають на питання «що зробити?», мають лише одну форму майбутнього часу — просту (синтетичну). Вона утворюється додаванням особових закінчень теперішнього часу до основи дієслова доконаного виду:\n\n1. Закінчення I дієвідміни (-у/-ю, -еш/-єш, -е/-є, -емо/-ємо, -ете/-єте, -уть/-ють):\n   - Написати (основа напиш-): напишу, напишеш, напише, напишемо, напишете, напишуть.\n   - Прочитати (основа прочита-): прочитаю, прочитаєш, прочитає, прочитаємо, прочитаєте, прочитають.\n\n2. Закінчення II дієвідміни (-у/-ю, -иш/-їш, -ить/-їть, -имо/-їмо, -ите/-їте, -ать/-ять):\n   - Зробити (основа зроб-): зроблю, зробиш, зробить, зробимо, зробите, зроблять (з чергуванням б/бл у 1-й особі однини та 3-й множини).\n   - Побачити: побачу, побачиш, побачить, побачимо, побачите, побачать.\n\nСемантика простого майбутнього часу: виражає цілісну, обмежену в часі дію, яка обов'язково досягне результату в майбутньому, або одноразовий акт.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Завтра я неодмінно напишу докладного листа нашому партнерові.",
+          "reading": "[ˈzɑwtrɐ jɑ nɛɔdʲˈmʲinːɔ nɐpɪˈʃu dɔkˈlɑdnɔɦɔ lɪsˈtɑ ˈnɑʃɔmu pɐrtˈnʲɛrɔwʲi] (ZAHV-trah yah neh-ohd-MEEN-noh nah-py-SHOO dohk-LAHD-noh-hoh lys-TAH NAH-shoh-moo pahrt-NEH-roh-vee)",
+          "translation": "Tomorrow I will definitely write a detailed letter to our partner."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 11-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Ми швидко перевіримо всі звіти й надішлемо результати до вечора.",
+          "reading": "[mɪ ˈʃwɪdkɔ pɛrɛˈwʲirɪmɔ wʲsʲi ˈzwʲitɪ j nɐdʲiʃˈlɛmɔ rɛzulʲˈtɑtɪ dɔ ˈwɛtʃɛrɐ] (my SHVYD-koh peh-reh-VEE-ry-moh vsee ZVEE-ty ee nah-deesh-LEH-moh reh-zool'-TAH-ty doh VEH-cheh-rah)",
+          "translation": "We will quickly check all the reports and send the results by evening."
+        },
+        {
+          "target": "Коли ти повернешся з відрядження, ми разом розв'яжемо це завдання.",
+          "reading": "[kɔˈlɪ tɪ pɔwɛrˈnɛʃsʲɑ z wʲidˈrʲɑdʒɛnʲːɑ, mɪ ˈrɑzɔm rɔzˈwjazɛmɔ t͡sɛ zɐwˈdɑnʲːɑ] (koh-LY ty poh-vehr-NESH-syah z veed-RYAHD-zhen-nyah, my RAH-zohm roz-V'YAH-zheh-moh tseh zahv-DAHN-nyah)",
+          "translation": "When you return from the business trip, we will solve this task together."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Доконаний вид — дія готова й завершена: «зроблю», «напишу», «відкрию» без жодних додаткових допоміжних слів!"
+      ],
+      "culturalNotes": [
+        "В українській мовній традиції вживання форми простого майбутнього часу (наприклад, «допоможу», «зроблю») сприймається як тверда, надійна особиста обіцянка виконання справи."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Робота\":",
+          "prompt": "Оберіть правильну форму 1-ї особи однини майбутнього часу від дієслова доконаного виду «зробити»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.1.",
-            "Неправильне відмінкове узгодження зі словом «Офіс»",
-            "Порушення законів евфонії та словотворення для «Колега»",
-            "Стилістично некоректна синтаксична конструкція з «Директор»"
+            "Зроблю (First person singular with labial mutation b -> bl)",
+            "Зробю",
+            "Буду зробити",
+            "Зробитимуть"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Дієслово «зробити» має чергування губного звука: [б] -> [бл], утворюючи форму «я зроблю»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Робота\":",
+          "prompt": "Яке речення містить просту форму майбутнього часу доконаного виду?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.1.",
-            "Порушення законів евфонії та словотворення для «Колега»",
-            "Стилістично некоректна синтаксична конструкція з «Директор»",
-            "Неправильне відмінкове узгодження зі словом «Офіс»"
+            "Студенти успішно складуть підсумковий іспит наступного тижня.",
+            "Студенти будуть складати іспит цілий день.",
+            "Студенти складатимуть тести щосуботи.",
+            "Студенти складали іспит учора."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Дієслово «складуть» є простою формою майбутнього часу доконаного виду від «скласти»."
         }
       ]
     },
@@ -4639,17 +4648,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Робота\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому правильно вжито просту форму майбутнього часу дієслова II дієвідміни «побачити»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.1.",
-            "Стилістично некоректна синтаксична конструкція з «Директор»",
-            "Неправильне відмінкове узгодження зі словом «Офіс»",
-            "Порушення законів евфонії та словотворення для «Колега»"
+            "Ми обов'язково побачимо новий випуск наукового журналу.",
+            "Ми обов'язково побачемо новий випуск наукового журналу.",
+            "Ми обов'язково будемо побачити новий випуск.",
+            "Ми обов'язково побачитимемо новий випуск журналу."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Дієслово «побачити» належить до II дієвідміни, тому форма 1-ї особи множини має закінчення -имо: «побачимо»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u11-l2": {
@@ -4657,53 +4667,62 @@
     "subject": "ukrainian",
     "unit": 11,
     "lessonNumber": 2,
-    "title": "Майбутній час: проста і складена форми (Future Tense) (Part 2)",
+    "title": "Складна (синтетична) форма майбутнього часу (Synthetic Imperfective Future)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 11.2) with authentic linguistic precision.",
+    "objective": "Опанувати творення та стилістичне вживання унікальної української складної синтетичної форми недоконаного виду із суфіксами -му, -меш, -ме, -мемо, -мете, -муть.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Українська мова має унікальну рису серед слов'янських мов — синтетичну (складну) форму майбутнього часу для дієслів недоконаного виду (imperfective aspect). Вона утворюється шляхом злиття інфінітива з давніми формами дієслова «яти/няти» (мати):\n\nІнфінітив + особові суфікси-закінчення:\n- Я: читати + му = читатиму (I will read/be reading)\n- Ти: читати + меш = читатимеш (you will read)\n- Він/вона/воно: читати + ме = читатиме (he/she/it will read)\n- Ми: читати + мемо (або -мем) = читатимемо (we will read)\n- Ви: читати + мете = читатимете (you [pl./polite] will read)\n- Вони: читати + муть = читатимуть (they will read)\n\nФонетичні та структурні правила:\n1. Форма утворюється від повного інфінітива: писатиму, працюватимеш, малюватиме, житимемо, дивитиметесь.\n2. Наголос у складній формі падає на суфікс інфінітива або особовий суфікс залежно від дієслова (чита́тиму, писа́тимеш, робити́мемо).\n3. У зворотних дієсловах частка -ся/-сь приєднується після особового закінчення: вчитимусь / вчитимуся, сміятимешся, сподіватиметься, пишатимемося.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Я пам'ятатиму цю теплу зустріч у Києві все своє життя.",
+          "reading": "[jɑ pɐmjɐˈtɑtɪmu t͡sʲu ˈtɛplu ˈzustrʲitʃ u ˈkɪjɛwʲi wsɛ swɔˈjɛ ʒɪtʲˈtʲɑ] (yah pahm-yah-TAH-ty-moo tsyoo TEP-loo ZOOST-veech oo KY-yeh-vee vseh svoh-YEH zhyt-TYAH)",
+          "translation": "I will remember this warm meeting in Kyiv all my life."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 11-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Ми працюватимемо над цим науковим дослідженням протягом року.",
+          "reading": "[mɪ prɐt͡sʲuˈwɑtɪmɛmɔ nɑd t͡sɪm nɐuˈkɔwɪm dɔsʲˈlʲidʒɛnʲːɐm prɔˈtʲɑɦɔm ˈrɔku] (my praht-syoo-VAH-ty-meh-moh nahd tsym nah-oo-KOH-wym dohs-LEED-zhen-nyahm proh-TYAH-hohm ROH-koo)",
+          "translation": "We will work on this scientific research throughout the year."
+        },
+        {
+          "target": "Вони щовечора гулятимуть старовинними вуличками Львова.",
+          "reading": "[wɔˈnʲi ʃtʃɔˈwɛtʃɔrɐ ɦuˈlʲɑtɪmutʲ stɐrɔˈwɪnːɪmɪ ˈwulɪtʃkɐmɪ lʲˈwɔwɐ] (woh-NEE shchoh-VEH-choh-rah hoo-LYAH-ty-moot' stah-roh-VYN-ny-my VOO-lych-kah-my L'VOH-vah)",
+          "translation": "They will walk every evening along the ancient streets of Lviv."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Інфінітив + «-му, -меш, -ме, -мемо, -мете, -муть» = суто українська синтетична краса: «писатиму», «любитиму», «житимемо»!"
+      ],
+      "culturalNotes": [
+        "Синтетична форма на -тиму є перлиною української літературної та поетичної мови (Шевченко, Леся Українка, Франко) і надзвичайно поширена в сучасній публіцистиці та щоденному спілкуванні."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Офіс\":",
+          "prompt": "Утворіть форму 2-ї особи множини синтетичного майбутнього часу від дієслова «працювати»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.2.",
-            "Неправильне відмінкове узгодження зі словом «Колега»",
-            "Порушення законів евфонії та словотворення для «Директор»",
-            "Стилістично некоректна синтаксична конструкція з «Зарплата»"
+            "Працюватимете (Infinitive працювати + 2nd person plural ending -мете)",
+            "Працюватимуть",
+            "Працюватимемо",
+            "Працюватимеш"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "2-га особа множини (ви) утворюється додаванням суфікса-закінчення -мете: «працюватимете»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Офіс\":",
+          "prompt": "Як правильно утворити зворотну форму 3-ї особи однини від «сподіватися» у синтетичному майбутньому часі?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.2.",
-            "Порушення законів евфонії та словотворення для «Директор»",
-            "Стилістично некоректна синтаксична конструкція з «Зарплата»",
-            "Неправильне відмінкове узгодження зі словом «Колега»"
+            "Сподіватиметься (Infinitive сподівати + -ме + -ться)",
+            "Сподіватимеся",
+            "Сподіватисьме",
+            "Буде сподіватисься"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Частка -ся ставиться в кінці слова після особового закінчення -ме: «сподіватиметься»."
         }
       ]
     },
@@ -4711,17 +4730,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Офіс\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому допущено помилку в утворенні складної форми майбутнього часу:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.2.",
-            "Стилістично некоректна синтаксична конструкція з «Зарплата»",
-            "Неправильне відмінкове узгодження зі словом «Колега»",
-            "Порушення законів евфонії та словотворення для «Директор»"
+            "Вони роблятимуть цю важливу справу разом.",
+            "Вони робитимуть цю важливу справу разом.",
+            "Ми захищатимемо нашу спільну позицію.",
+            "Ти малюватимеш нову картину цілий вечір."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Форма «роблятимуть» є грубою помилкою. Синтетична форма утворюється від повного інфінітива «робити» + -муть: «робитимуть»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u11-l3": {
@@ -4729,53 +4749,62 @@
     "subject": "ukrainian",
     "unit": 11,
     "lessonNumber": 3,
-    "title": "Майбутній час: проста і складена форми (Future Tense) (Part 3)",
+    "title": "Складена (аналітична) форма майбутнього часу (Analytical Future Tense)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 11.3) with authentic linguistic precision.",
+    "objective": "Опанувати творення та синтаксичні особливості складеної аналітичної форми майбутнього часу (буду, будеш + інфінітив) та її стилістичну взаємозамінність із синтетичною формою.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Складена (аналітична) форма майбутнього часу в українській мові властива лише дієсловам недоконаного виду (imperfective aspect). Вона складається з двох слів:\n\nОсобова форма допоміжного дієслова «бути» у майбутньому часі + незмінний інфінітив основного дієслова:\n\n1. Парадигма відмінювання:\n   - Я буду читати / слухати / працювати\n   - Ти будеш читати / слухати / працювати\n   - Він / вона / воно буде читати / слухати / працювати\n   - Ми будемо (будем) читати / слухати / працювати\n   - Ви будете читати / слухати / працювати\n   - Вони будуть читати / слухати / працювати\n\n2. Стилістична паралельність:\nВ українській мові аналітична форма («буду писати») та синтетична форма («писатиму») є абсолютно граматично рівноправними синонімами:\n   - «Я буду працювати» = «Я працюватиму»\n   - «Ми будемо обговорювати» = «Ми обговорюватимемо»\n\n3. Стилістичні рекомендації:\n- Чергування обох форм допомагає уникнути тавтології та монотонності у висловлюванні.\n- Якщо в реченні вже є складна конструкція або модальне слово, часто віддають перевагу аналітичній або синтетичній формі заради милозвучності (евфонії).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Ми будемо уважно слухати кожну доповідь на міжнародній конференції.",
+          "reading": "[mɪ ˈbudɛmɔ uˈwɑʒnɔ ˈsluxɐtɪ ˈkɔʒnu dɔpɔˈwʲidʲ nɑ mʲiʒnɐˈrɔdnʲij kɔnfɛˈrɛnt͡sʲiji] (my BOO-deh-moh oo-VAHZH-noh SLOO-khah-ty KOHZH-noo doh-poh-VEED' nah meezh-nah-ROHD-neey kohn-feh-REN-tsee-yee)",
+          "translation": "We will listen attentively to every report at the international conference."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 11-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Чи будеш ти брати участь у відкритих змаганнях з плавання?",
+          "reading": "[tʃɪ ˈbudɛʃ tɪ ˈbrɑtɪ ˈutʃɐsʲtʲ u wʲidˈkrɪtɪx zmɐˈɦɑnʲːɐx z ˈplɑwɐnʲːɑ] (chy BOO-desh ty BRAH-ty OO-chahst' oo veed-KRY-tykh zmah-HAHN-nyakh z PLAH-vahn-nyah)",
+          "translation": "Will you take part in the open swimming competitions?"
+        },
+        {
+          "target": "Влітку вони будуть подорожувати мальовничими Карпатами.",
+          "reading": "[ˈwlʲitku wɔˈnʲi ˈbudutʲ pɔdɔrɔʒuˈwɑtɪ mɐlʲɔwˈnɪtʃɪmɪ kɐrˈpɑtɐmɪ] (VLEET-koo woh-NEE BOO-doot' poh-doh-roh-zhoo-VAH-ty mahl'-ohv-NY-chy-my kahr-PAH-tah-my)",
+          "translation": "In summer they will travel through the picturesque Carpathians."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Буду», «будеш», «буде» + інфінітив — аналітична паралель до «-тиму», обидві форми правильні й рідні!"
+      ],
+      "culturalNotes": [
+        "У повсякденній українській розмовній практиці мовці вільно чергують: «Що будеш робити?» та «Що робитимеш?», обидва варіанти звучать абсолютно природно."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Колега\":",
+          "prompt": "Оберіть синонімічний еквівалент до синтетичної форми «ми читатимемо»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.3.",
-            "Неправильне відмінкове узгодження зі словом «Директор»",
-            "Порушення законів евфонії та словотворення для «Зарплата»",
-            "Стилістично некоректна синтаксична конструкція з «Відпустка»"
+            "Ми будемо читати (Analytical imperfective future with 1st person plural будемо)",
+            "Ми прочитаємо",
+            "Ми будемо прочитати",
+            "Ми читали"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Форма «читатимемо» (недоконаний вид) повністю тотожна за значенням складеній формі «будемо читати»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Колега\":",
+          "prompt": "Чому конструкція «я буду написати» є грубою граматичною помилкою?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.3.",
-            "Порушення законів евфонії та словотворення для «Зарплата»",
-            "Стилістично некоректна синтаксична конструкція з «Відпустка»",
-            "Неправильне відмінкове узгодження зі словом «Директор»"
+            "Тому що форма «буду» поєднується виключно з інфінітивом недоконаного виду (писати, а не написати).",
+            "Тому що з дієсловом «буду» не можна вживати 1-шу особу.",
+            "Тому що дієслово «бути» не має майбутнього часу.",
+            "Тому що інфінітив завжди повинен стояти перед «буду»."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Складена форма майбутнього часу твориться ТІЛЬКИ від дієслів недоконаного виду. З дієсловами доконаного виду вживається проста форма («напишу»)."
         }
       ]
     },
@@ -4783,17 +4812,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Колега\": Which sentence is completely correct?",
+          "prompt": "Оберіть граматично бездоганне речення зі складеною формою майбутнього часу:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.3.",
-            "Стилістично некоректна синтаксична конструкція з «Відпустка»",
-            "Неправильне відмінкове узгодження зі словом «Директор»",
-            "Порушення законів евфонії та словотворення для «Зарплата»"
+            "Завтра вранці ми будемо зустрічати гостей на вокзалі.",
+            "Завтра вранці ми будемо зустріти гостей на вокзалі.",
+            "Завтра вранці ми будемо зустріли гостей на вокзалі.",
+            "Завтра вранці ми будемо зустрінуть гостей на вокзалі."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Правильна конструкція вимагає форми допоміжного дієслова «будемо» та інфінітива недоконаного виду «зустрічати»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u11-l4": {
@@ -4801,53 +4831,62 @@
     "subject": "ukrainian",
     "unit": 11,
     "lessonNumber": 4,
-    "title": "Майбутній час: проста і складена форми (Future Tense) (Part 4)",
+    "title": "Видові протиставлення у майбутньому часі (Aspect Opposition in Future)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 11.4) with authentic linguistic precision.",
+    "objective": "Опанувати семантичні та комунікативні відмінності між доконаним (результат, разова дія) і недоконаним (процес, тривалість, повторюваність) видами у майбутньому часі.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Вибір форми майбутнього часу в українській мові залежить від того, який комунікативний аспект повідомлення є головним:\n\n1. Недоконаний вид (писатиму / буду писати):\n   - Процес або діяльність у розвитку: «О сьомій вечора я вечерятиму» (I will be having dinner at 7 PM).\n   - Тривалість або повторюваність дії: «Я щодня вчитиму нові слова» (I will learn/study new words every day).\n   - Фокус на самій дії як факті без акценту на її фіналі: «Він увесь день читатиме книжку».\n\n2. Доконаний вид (напишу / прочитаю / зроблю):\n   - Одноразова дія з досягненням кінцевого результату: «Я прочитаю цю книжку до п'ятниці» (I will finish reading this book by Friday).\n   - Послідовність дій у майбутньому: «Я прийду додому, приготую вечерю і зателефоную тобі».\n   - Раптовий початок або завершення дії: «Раптом піде дощ», «Ми швидко збудуємо дім».\n\n3. Заперечення у майбутньому часі:\n   - «Не буду робити» / «Не робитиму» — відмова від процесу, небажання виконувати дію взагалі.\n   - «Не зроблю» — неможливість досягти конкретного результату.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Я вивчатиму іспанську мову щодня і за рік вивчу всі базові правила.",
+          "reading": "[jɑ wɪwtʃɐˈtɪmu isˈpɑnsʲku ˈmɔwu ʃtʃɔdʲˈnʲɑ i zɑ rʲik ˈwɪwtʃu wsʲi bɐˈzɔwʲi ˈprɑwɪlɐ] (yah vyv-chah-TY-moo ees-PAHN-s'koo MOH-voo shchohd-NYAH ee zah reek VYV-choo vsee bah-ZOH-vee PRAH-vy-lah)",
+          "translation": "I will study Spanish every day and in a year I will master all the basic rules."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 11-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Будівельники будуватимуть міст пів року і збудують його до осені.",
+          "reading": "[budʲiˈwɛlʲnɪkɪ buduˈwɑtɪmutʲ mʲist pʲiw ˈrɔku i zbuˈdujutʲ jɔˈɦɔ dɔ ˈɔsɛnʲi] (boo-dee-VEL'-ny-ky boo-doo-VAH-ty-moot' meest peev ROH-koo ee zboo-DOO-yoot' yoh-HOH doh OH-seh-nee)",
+          "translation": "The builders will be building the bridge for half a year and will finish building it by autumn."
+        },
+        {
+          "target": "Ми довго обговорюватимемо проєкт і нарешті приймемо зважене рішення.",
+          "reading": "[mɪ ˈdɔwɦɔ ɔbɦɔwɔrʲuˈwɑtɪmɛmɔ prɔˈjɛkt i nɐˈrɛʃtʲi prɪjˈmɛmɔ ˈzwɑʒɛnɛ ˈrʲiʃɛnʲːɑ] (my DOHV-hoh ohb-hoh-voh-ryoo-VAH-ty-meh-moh proh-YEKT ee nah-RESH-tee preey-MEH-moh ZVAH-zheh-neh REE-shen-nyah)",
+          "translation": "We will discuss the project for a long time and finally make a balanced decision."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Процес і тривалість — недоконаний («будуватиму»), фінал і результат — доконаний («збудую»)!"
+      ],
+      "culturalNotes": [
+        "У діловому листуванні та контрактах чітке розрізнення виду критично важливе: «надаватимемо послуги» (тривалий процес) проти «надамо звіт» (фіксований кінцевий результат)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Директор\":",
+          "prompt": "Яку форму слід обрати для вираження дії, що відбуватиметься регулярно щоранку: «Щоранку я ... пробіжку»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.4.",
-            "Неправильне відмінкове узгодження зі словом «Зарплата»",
-            "Порушення законів евфонії та словотворення для «Відпустка»",
-            "Стилістично некоректна синтаксична конструкція з «Зустріч»"
+            "Робитиму (Imperfective synthetic future for repeated/habitual action)",
+            "Зроблю",
+            "Був зробив",
+            "Зробив би"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Регулярні, повторювані дії вимагають дієслова недоконаного виду: «робитиму» або «буду робити»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Директор\":",
+          "prompt": "Оберіть речення, де дієслово виражає гарантований результат у конкретний момент часу:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.4.",
-            "Порушення законів евфонії та словотворення для «Відпустка»",
-            "Стилістично некоректна синтаксична конструкція з «Зустріч»",
-            "Неправильне відмінкове узгодження зі словом «Зарплата»"
+            "До п'ятої години вечора ми повністю вирішимо цю проблему.",
+            "О п'ятій годині вечора ми будемо вирішувати цю проблему.",
+            "Цілий вечір ми вирішуватимемо складні питання.",
+            "Ми постійно вирішуємо виробничі проблеми."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Форма доконаного виду «вирішимо» вказує на досягнення результату до зазначеного дедлайну."
         }
       ]
     },
@@ -4855,17 +4894,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Директор\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому доконаний та недоконаний види вжито згідно з логікою процесу й результату:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.4.",
-            "Стилістично некоректна синтаксична конструкція з «Зустріч»",
-            "Неправильне відмінкове узгодження зі словом «Зарплата»",
-            "Порушення законів евфонії та словотворення для «Відпустка»"
+            "Я довго писатиму статтю і обов'язково напишу її до кінця тижня.",
+            "Я довго напишу статтю і обов'язково писатиму її до кінця тижня.",
+            "Я щодня напишу статтю і завтра напишу її знову.",
+            "Я буду написати статтю і напишу її швидко."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Слово «довго» вимагає форми недоконаного виду процесу («писатиму»), а «до кінця тижня» вимагає результату доконаного виду («напишу»)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u11-l5": {
@@ -4873,53 +4913,62 @@
     "subject": "ukrainian",
     "unit": 11,
     "lessonNumber": 5,
-    "title": "Майбутній час: проста і складена форми (Future Tense) (Part 5)",
+    "title": "Синтаксис майбутнього часу в підрядних реченнях (Future in Condition & Time Clauses)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 11.5) with authentic linguistic precision.",
+    "objective": "Опанувати правила вживання майбутнього часу в складнопідрядних реченнях умови й часу зі сполучниками якщо, коли, як тільки, після того як.",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові синтаксичні правила вживання часів у підрядних обставинних реченнях умови та часу відрізняються від багатьох германських та романських мов:\n\n1. Правило вживання майбутнього часу:\nЯкщо дія підрядного речення стосується майбутнього, в українській мові ОБОВ'ЯЗКОВО вживається дієслово у формі майбутнього часу (а не теперішнього, як в англійському «if it rains»):\n   - «Якщо завтра піде дощ, ми залишимося вдома» (If it rains tomorrow, we will stay at home).\n   - «Коли ти закінчиш роботу, ми підемо на прогулянку» (When you finish work, we will go for a walk).\n   - «Як тільки прибуде потяг, я тобі зателефоную» (As soon as the train arrives, I will call you).\n\n2. Сполучники умови й часу:\n   - Умова: якщо (if), якби (if counterfactual), коли (if/when), раз (if once).\n   - Час: коли (when), як тільки / щойно (as soon as), після того як (after), перед тим як / доки (until/before).\n\n3. Узгодження часових форм:\nУ складнопідрядних реченнях обидві частини (головна і підрядна) зазвичай мають майбутній час:\n   - «Після того як ми підпишемо договір, компанія розпочне фінансування».\n   - «Доки ви не погодите кошторис, ми не зможемо розпочати будівельні роботи».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Якщо завтра погода буде сприятливою, ми вирушимо в туристичний похід.",
+          "reading": "[jɑkˈʃtʃɔ ˈzɑwtrɐ pɔˈɦɔdɐ ˈbudɛ sprɪjˈlɪwɔju, mɪ wɪˈruʃɪmɔ w turɪsˈtɪtʃnɪj pɔˈxʲid] (yahk-SHCHOH ZAHV-trah poh-HOH-dah BOO-deh spryy-LY-voh-yoo, my vy-ROO-shy-moh v too-rys-TYCH-neey poh-KHEED)",
+          "translation": "If the weather is favorable tomorrow, we will set off on a hiking trip."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 11-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Як тільки доповідач завершить виступ, слухачі зможуть поставити запитання.",
+          "reading": "[jɑk ˈtʲilʲkɪ dɔpɔwʲiˈdɑtʃ zɐwɛrˈʃɪtʲ ˈwɪstup, sluxɐˈtʃi ˈzmɔʒutʲ pɔsˈtɑwɪtɪ zɐpɪˈtɑnʲːɑ] (yahk TEEL'-ky doh-poh-vee-DAHCH zah-vehr-SHYT' VYS-toop, sloo-khah-CHEE ZMOH-zhoot' pohs-TAH-vy-ty zah-py-TAHN-nyah)",
+          "translation": "As soon as the speaker finishes the presentation, the listeners will be able to ask questions."
+        },
+        {
+          "target": "Коли ти приїдеш до Києва, ми обов'язково зустрінемося біля Золотих воріт.",
+          "reading": "[kɔˈlɪ tɪ prɪˈjijidɛʃ dɔ ˈkɪjɛwɐ, mɪ ɔbɔˈwjɑzkɔwɔ zusʲˈtrʲinɛmɔsʲɑ ˈbʲilʲɑ zɔlɔˈtɪx wɔˈrʲit] (koh-LY ty pry-YEE-desh doh KY-yeh-vah, my oh-boh-V'YAHZ-koh-voh zoos-TREE-neh-mohs'-yah BEE-lyah zoh-loh-TYKH voh-REET)",
+          "translation": "When you arrive in Kyiv, we will definitely meet near the Golden Gate."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "В українській мові майбутнє чесне: «якщо піде дощ» і «коли прийдеш» — завжди у майбутньому часі!"
+      ],
+      "culturalNotes": [
+        "Золоті ворота в Києві — видатна пам'ятка фортифікаційної архітектури Київської Русі (XI ст.), популярне й символічне місце зустрічей у серці столиці."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Зарплата\":",
+          "prompt": "Оберіть речення з правильним граматичним часом у підрядній частині умови для майбутньої дії:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.5.",
-            "Неправильне відмінкове узгодження зі словом «Відпустка»",
-            "Порушення законів евфонії та словотворення для «Зустріч»",
-            "Стилістично некоректна синтаксична конструкція з «Проєкт»"
+            "Якщо завтра піде сильний сніг, ми відкладемо поїздку за місто. (Subordinate clause accurately uses future tense піде)",
+            "Якщо завтра йде сильний сніг, ми відкладемо поїздку за місто.",
+            "Якщо завтра йшов сильний сніг, ми відкладемо поїздку за місто.",
+            "Якщо завтра буде йтиму сильний сніг, ми відкладемо поїздку за місто."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "В українській мові підрядна частина умови для майбутньої дії вимагає форми майбутнього часу: «якщо піде сніг»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Зарплата\":",
+          "prompt": "Який сполучник найкраще підходить для позначення негайної дії в майбутньому: «... літак приземлиться, ми зателефонуємо батькам»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.5.",
-            "Порушення законів евфонії та словотворення для «Зустріч»",
-            "Стилістично некоректна синтаксична конструкція з «Проєкт»",
-            "Неправильне відмінкове узгодження зі словом «Відпустка»"
+            "Як тільки (As soon as - indicates immediate sequential action in future)",
+            "Доки",
+            "Перед тим як",
+            "Хоча"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Сполучник «як тільки» виражає безпосереднє настання наступної дії відразу після завершення попередньої."
         }
       ]
     },
@@ -4927,17 +4976,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Зарплата\": Which sentence is completely correct?",
+          "prompt": "Оберіть складнопідрядне речення часу з правильно вжитими часовими формами в обох частинах:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 11.5.",
-            "Стилістично некоректна синтаксична конструкція з «Проєкт»",
-            "Неправильне відмінкове узгодження зі словом «Відпустка»",
-            "Порушення законів евфонії та словотворення для «Зустріч»"
+            "Коли ми підпишемо меморандум, сторони розпочнуть спільну роботу над проєктом.",
+            "Коли ми підписуємо меморандум, сторони розпочнуть спільну роботу над проєктом.",
+            "Коли ми підписали меморандум, сторони будуть розпочати спільну роботу над проєктом.",
+            "Коли ми підписатимемо меморандум, сторони розпочали спільну роботу."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Обидві частини виражають майбутню послідовну дію, тому в обох частинах вжито форми майбутнього часу доконаного виду: «підпишемо» і «розпочнуть»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u12-l1": {
