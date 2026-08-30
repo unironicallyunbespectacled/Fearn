@@ -6225,53 +6225,62 @@
     "subject": "swahili",
     "unit": 15,
     "lessonNumber": 1,
-    "title": "Ngeli za Mahali: PA, KU, MU (Locative Classes 16/17/18) (Part 1)",
+    "title": "Ngeli za Mahali (PA-KU-MU): Dhana za Mahali Mahususi (PA), Eneo/Mwelekeo (KU), na Ndani (MU)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.1) with authentic precision.",
+    "objective": "Kutambua na kutofautisha maana za ngeli tatu za mahali: Ngeli ya 16 (PA- kwa mahali mahususi/panapogusika), Ngeli ya 17 (KU- kwa eneo pana/mwelekeo/popote), na Ngeli ya 18 (MU- kwa mahali ndani).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Ngeli za Mahali katika Kiswahili (Locative Classes 16, 17, 18):\n\nKatika lugha ya Kiswahili, dhana ya mahali (Locative) imegawanyika katika ngeli tatu za kipekee kulingana na aina ya eneo:\n\n1. **Ngeli ya 16 (PA- / Mahali Mahususi - Specific Location)**:\n   - Hutumika kuashiria eneo dogo, mahususi, lililo wazi, au linalogusika moja kwa moja:\n     - Neno la msingi: *mahali / pahali* (place / spot).\n     - Viambishi: **pa-** (*Hapa ni pazuri* = Here is beautiful / *Mahali hapa panapendeza*).\n\n2. **Ngeli ya 17 (KU- / Eneo Pana au Mwelekeo - Indefinite / General Area / Direction)**:\n   - Hutumika kuashiria eneo pana lisilo na mipaka kamili, upande au mwelekeo, au popote kwa jumla:\n     - Viambishi: **ku-** (*Huku kuna amani* = Around here there is peace / *Kule mlimani kuna baridi* = Over there on the mountain it is cold).\n\n3. **Ngeli ya 18 (MU- / Mahali Ndani - Interior / Inside Location)**:\n   - Hutumika kuashiria ndani ya chumba, sanduku, jengo, au mazingira yaliyofungwa:\n     - Viambishi: **mu- / m-** (*Humu chumbani mna hewa safi* = In here inside the room there is fresh air / *Mle sandukuni mna nguo* = Inside that box there are clothes).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 15."
+          "target": "Mahali hapa ni pazuri na panavutia watalii wengi kutoka nchi za mbali.",
+          "reading": "Ma-ha-li ha-pa ni pa-zu-ri na pa-na-vu-tia wa-ta-li-i we-ngi ku-to-ka nchi za mba-li. [mɑˈhɑli ˈhɑpɑ ni pɑˈzuri nɑ pɑnɑvuˈtiɑ wɑtɑˈliː ˈwɛŋɡi kutɔˈkɑ ˈntʃi zɑ ˈmbɑli] (mah-HAH-lee HAH-pah nee pah-ZOO-ree nah pah-nah-voo-TEE-ah wah-tah-LEE-ee WAYN-gee koo-TOH-kah N-CHEE zah M-BAH-lee)",
+          "translation": "This specific place [class 16: mahali hapa] is beautiful [pazuri] and attracts [panavutia] many tourists from distant countries."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 15-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kule mlimani kuna hewa baridi na mashamba ya chai yanastawi vizuri.",
+          "reading": "Ku-le mli-ma-ni ku-na he-wa ba-ri-di na ma-sha-mba ya cha-i ya-na-sta-wi vi-zu-ri. [ˈkulɛ mlimɑˈni ˈkunɑ ˈhɛwɑ bɑˈridi nɑ mɑˈʃɑmbɑ jɑ ˈtʃɑi jɑnɑstɑˈwi viˈzuri] (KOO-lay m-lee-mah-NEE KOO-nah HAY-wah bah-REE-dee nah mah-SHAHM-bah yah CHAH-ee yah-nah-stah-WEE vee-ZOO-ree)",
+          "translation": "Over there on the mountain [class 17: kule mlimani] has cold air [kuna] and tea farms flourish."
+        },
+        {
+          "target": "Humu chumbani mna utulivu mkubwa na wanafunzi wanajisomea vitabu.",
+          "reading": "Hu-mu chu-mba-ni mna u-tu-li-vu mku-bwa na wa-na-fu-nzi wa-na-ji-so-me-a vi-ta-bu. [ˈhumu tʃumbɑˈni ˈmnɑ utuˈlivu mˈkubwɑ nɑ wɑnɑˈfunzi wɑnɑʤisɔˈmɛɑ viˈtɑbu] (HOO-moo choom-bah-NEE M-NAH oo-too-LEE-voo m-KOO-bwah nah wah-nah-FOON-zee wah-nah-jee-soh-MAY-ah vee-TAH-boo)",
+          "translation": "In here inside the room [class 18: humu chumbani] there is great serenity [mna utulivu] and students are studying books."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "PA-KU-MU: PA = Mahali mahususi/hapa (pazuri); KU = Eneo pana/kule (kuna); MU = Mahali ndani/humu (mna)!"
+      ],
+      "culturalNotes": [
+        "Neno 'Kwetu' (kutoka ngeli ya 17 KU-) lina maana pana ya 'nyumbani kwetu / nchi yetu / asili yetu', likiashiria mshikamano wa kijamii na kijiografia."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Hali ya hewa\":",
+          "prompt": "Sentensi ipi inatumia Ngeli ya 16 (PA-) kwa ufasaha kueleza mahali mahususi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Jua»",
-            "Mpangilio usio sahihi wa viambishi katika «Mvua»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Upepo»"
+            "Mahali hapa panafaa kwa ajili ya mkutano wetu. (This specific place is suitable for our meeting - Correct Class 16 specific locative prefix 'pa-')",
+            "Mahali huku kunafaa kwa mkutano (Huu ni mwelekeo wa Ngeli ya 17 KU-)",
+            "Mahali humu mnafaa kwa mkutano (Huu ni ndani wa Ngeli ya 18 MU-)",
+            "Mahali hili linafaa kwa mkutano (Kosa la kutumia upatanisho wa JI-MA)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino «Mahali» inapotajwa mahususi huchukua kiashiria «hapa» na kitenzi «panafaa» katika Ngeli ya 16 (PA-)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Hali ya hewa\":",
+          "prompt": "Unapotaka kueleza hali ya hewa ya eneo pana la mbali (over there on the mountain), kiambishi gani cha mahali kinatumika?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Mvua»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Upepo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Jua»"
+            "kule (Over there / general direction - Class 17 locative demonstrative)",
+            "pale (Hii inaonyesha eneo dogo mahususi)",
+            "mle (Hii inaonyesha ndani ya kitu)",
+            "yale (Huu ni upatanisho wa JI-MA)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Kule» ni kiashiria cha Ngeli ya 17 (KU-) kinachoeleza mwelekeo au eneo pana lililo mbali."
         }
       ]
     },
@@ -6279,17 +6288,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Hali ya hewa\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayofafanua tofauti sahihi kati ya ngeli tatu za mahali (PA, KU, MU) katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Upepo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Jua»",
-            "Mpangilio usio sahihi wa viambishi katika «Mvua»"
+            "Hapa (PA) ni mahali mahususi, huku/kule (KU) ni eneo pana au mwelekeo, na humu/mle (MU) ni mahali ndani ya kitu. (Specific [PA], General/Directional [KU], Interior [MU].)",
+            "PA ni wingi wa KU, na MU ni wingi wa PA.",
+            "Kiswahili hakina ngeli za mahali bali kinatumia vihusishi pekee.",
+            "PA, KU, na MU hutumika kwa kubadilishana bila tofauti yoyote ya kimaana."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Ngeli ya 16 (PA) ni mahali mahususi, Ngeli ya 17 (KU) ni eneo pana/mwelekeo, na Ngeli ya 18 (MU) ni mahali ndani."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u15-l2": {
@@ -6297,53 +6307,62 @@
     "subject": "swahili",
     "unit": 15,
     "lessonNumber": 2,
-    "title": "Ngeli za Mahali: PA, KU, MU (Locative Classes 16/17/18) (Part 2)",
+    "title": "Kiambishi cha Mahali cha Mwisho (-ni Enclitic) na Mabadiliko ya Upatanisho (Locative Enclitic -ni)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.2) with authentic precision.",
+    "objective": "Kuelewa jinsi kiambishi tamati cha mahali (-ni) kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali (inayoingia katika PA, KU, au MU) na kubadilisha upatanisho wa kisarufi wa sentensi nzima.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kiambishi cha Mahali cha Mwisho (-ni Locative Enclitic):\n\n1. **Uundaji wa Nomino za Mahali kwa -ni**:\n   - Nomino ya kawaida ikiongezwa kiambishi **-ni** mwishoni, hubadilika kuwa nomino ya mahali (Locative Noun):\n     - *nyumba* (house) -> **nyumbani** (at/in the house)\n     - *shule* (school) -> **shuleni** (at/in the school)\n     - *chumba* (room) -> **chumbani** (in the room)\n     - *meza* (table) -> **mezani** (on the table)\n     - *mji* (town) -> **mjini** (in town / to town)\n     - *bahari* (sea) -> **baharini** (in/at the sea)\n     - *msitu* (forest) -> **msituni** (in the forest)\n     - *uwanja* (field/stadium) -> **uwanjani** (at the stadium)\n   - **Kumbuka**: Majina ya watu (*kwa Ali*) na majina ya miji/nchi (*Nairobi, Dar es Salaam, Tanzania*) **hayachukui -ni**!\n\n2. **Mabadiliko ya Upatanisho wa Kisarufi (Grammatical Shift)**:\n   - Nomino ikishapokea **-ni**, inapoteza ngeli yake ya awali na kuanza kupatana na ngeli za mahali (PA, KU, au MU):\n     - *Nyumba **i**mejengwa* (Ngeli ya 9: The house is built)\n     - *Nyumba**ni** **pa**na wageni* (Ngeli ya 16: At the house there are guests)\n     - *Nyumba**ni** **ku**na amani* (Ngeli ya 17: At home there is peace)\n     - *Nyumba**ni** **m**na watu* (Ngeli ya 18: Inside the house there are people).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 15."
+          "target": "Shuleni kuna wanafunzi wengi wanaosoma kwa bidii kila siku.",
+          "reading": "Shu-le-ni ku-na wa-na-fu-nzi we-ngi wa-na-o-so-ma kwa bi-di-i ki-la si-ku. [ʃulɛˈni ˈkunɑ wɑnɑˈfunzi ˈwɛŋɡi wɑnɑɔˈsɔmɑ kwɑ biˈdiː ˈkilɑ ˈsiku] (shoo-lay-NEE KOO-nah wah-nah-FOON-zee WAYN-gee wah-nah-oh-SOH-mah kwah bee-DEE-ee KEE-lah SEE-koo)",
+          "translation": "At school [locative KU-: shuleni kuna] there are many students studying hard every day."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 15-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mezani pana vitabu vitatu na kalamu mbili zilizopangwa vizuri.",
+          "reading": "Me-za-ni pa-na vi-ta-bu vi-ta-tu na ka-la-mu mbi-li zi-li-zo-pa-ngwa vi-zu-ri. [mɛzɑˈni ˈpɑnɑ viˈtɑbu viˈtɑtu nɑ kɑˈlɑmu ˈmbili zilizɔpɑmˈbwɑ viˈzuri] (may-zah-NEE PAH-nah vee-TAH-boo vee-TAH-too nah kah-LAH-moo M-BEE-lee zee-lee-zoh-PAHM-bwah vee-ZOO-ree)",
+          "translation": "On the table [specific locative PA-: mezani pana] there are three books and two pens neatly arranged."
+        },
+        {
+          "target": "Chumbani mle mna giza kidogo lakini taa inawashwa sasa hivi.",
+          "reading": "Chu-mba-ni mle mna gi-za ki-do-go la-ki-ni ta-a i-na-wa-shwa sa-sa hi-vi. [tʃumbɑˈni ˈmlɛ ˈmnɑ ˈɡizɑ kiˈdɔɡɔ lɑˈkini ˈtɑː inɑˈwɑʃwɑ ˈsɑsɑ ˈhivi] (choom-bah-NEE M-LAY M-NAH GEE-zah kee-DOH-goh lah-KEE-nee TAH-ah ee-nah-WAH-shwah SAH-sah HEE-vee)",
+          "translation": "Inside that room [interior locative MU-: chumbani mle mna] it is slightly dark, but the lamp is being switched on now."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Nomino + -ni = Nomino ya Mahali (shule -> shuleni); Upatanisho unabadilika kutoka ngeli ya asili hadi PA/KU/MU!"
+      ],
+      "culturalNotes": [
+        "Waswahili husema 'Mgeni njoo, mwenyeji apone' na kualika wageni 'karibuni nyumbani kwetu' kuonyesha ukarimu wa dhati wa eneo lao."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Jua\":",
+          "prompt": "Sentensi ipi inaonyesha upatanisho sahihi baada ya nomino \"Meza\" kuongezwa kiambishi cha mahali \"-ni\" (mezani) kwa eneo mahususi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mvua»",
-            "Mpangilio usio sahihi wa viambishi katika «Upepo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mawingu»"
+            "Mezani pana chakula kitamu cha wageni. (On the table there is delicious food for guests - Correct locative concord 'mezani pana')",
+            "Mezani ina chakula kitamu (Kosa la kubaki na upatanisho wa Ngeli ya 9 N-N)",
+            "Mezani lina chakula kitamu (Kosa la kutumia upatanisho wa JI-MA)",
+            "Mezani kina chakula kitamu (Kosa la kutumia upatanisho wa KI-VI)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino «Meza» ikiongezwa «-ni» kuwa «mezani» inakuwa nomino ya mahali na huchukua upatanisho wa mahali: «Mezani pana chakula»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Jua\":",
+          "prompt": "Nomino ipi kati ya zifuatazo HAIWEZI kuongezwa kiambishi cha mahali \"-ni\" katika Kiswahili sanifu?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Upepo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mawingu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mvua»"
+            "Tanzania (Country / proper geographical name does not take '-ni')",
+            "shule (Inachukua -ni -> shuleni)",
+            "chumba (Inachukua -ni -> chumbani)",
+            "msitu (Inachukua -ni -> msituni)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Majina ya nchi na miji halisi (kama Tanzania, Mombasa, Nairobi) hayachukui kiambishi cha mahali «-ni»."
         }
       ]
     },
@@ -6351,17 +6370,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Jua\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoeleza kanuni sahihi ya kiambishi \"-ni\" cha mahali katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mawingu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mvua»",
-            "Mpangilio usio sahihi wa viambishi katika «Upepo»"
+            "Kiambishi «-ni» hubadilisha nomino za vitu kuwa nomino za mahali (nyumba -> nyumbani) na kulazimisha upatanisho wa PA, KU, au MU badala ya ngeli ya asili.",
+            "Kiambishi «-ni» kinatumika tu kuonyesha wingi wa vitenzi.",
+            "Majina yote ya nchi lazima yaongezwe «-ni» mwishoni.",
+            "Kiambishi «-ni» hakibadilishi upatanisho wa kisarufi wa nomino."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«-ni» hubadilisha nomino kuwa ya mahali na kulazimisha upatanisho wa PA, KU, au MU."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u15-l3": {
@@ -6369,53 +6389,62 @@
     "subject": "swahili",
     "unit": 15,
     "lessonNumber": 3,
-    "title": "Ngeli za Mahali: PA, KU, MU (Locative Classes 16/17/18) (Part 3)",
+    "title": "Upatanisho wa Vitenzi, Viashiria, na Vivumishi katika PA-KU-MU (Concord in Locative Classes)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.3) with authentic precision.",
+    "objective": "Kutambua na kutumia upatanisho kamili wa vitenzi, viashiria (hapa/huku/humu, nk.), na vivumishi vya sifa katika Ngeli za PA, KU, na MU.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Upatanisho wa Kisarufi katika PA, KU, na MU (Locative Concord System):\n\n1. **Upatanisho wa Ngeli ya 16 (PA - Mahali Mahususi)**:\n   - Kitenzi: **pa-** (*panapendeza, palikuwa, panastawi*)\n   - Viashiria: **hapa** (here), **hapo** (there near), **pale** (yonder)\n   - Vivumishi vya sifa: **pa-** (*mahali pazuri, pafupi, pakubwa*)\n   - Vimilikishi: **pangu, pako, pake, petu, penu, pao** (*mahali petu*)\n   - Kitenzi 'Kuwa na': **pana** (there is) / **hapana** (there is not)\n\n2. **Upatanisho wa Ngeli ya 17 (KU - Eneo Pana / Mwelekeo)**:\n   - Kitenzi: **ku-** (*kunanyesha, kulikuwa, kunatulia*)\n   - Viashiria: **huku** (around here), **huko** (around there), **kule** (over there)\n   - Vivumishi vya sifa: **ku-** (*mahali kuzuri, kukubwa*)\n   - Vimilikishi: **kwangu, kwako, kwake, kwetu, kwenu, kwao** (*kwetu*)\n   - Kitenzi 'Kuwa na': **kuna** (there is generally) / **hakuna** (there is not / no problem)\n\n3. **Upatanisho wa Ngeli ya 18 (MU - Mahali Ndani)**:\n   - Kitenzi: **mu- / m-** (*mnang'aa, mlikuwa, mnatulia*)\n   - Viashiria: **humu** (in here), **humo** (in there), **mle** (in yonder)\n   - Vivumishi vya sifa: **m- / mu-** (*chumbani mzuri*)\n   - Vimilikishi: **mwangu, mwako, mwake, mwetu, mwenu, mwao** (*nyumbani mwetu*)\n   - Kitenzi 'Kuwa na': **mna** (there is inside) / **hamna** (there is not inside).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 15."
+          "target": "Hapa petu pana amani na bustani nzuri ya maua inastawi vizuri.",
+          "reading": "Ha-pa pe-tu pa-na a-ma-ni na bu-sta-ni nzu-ri ya ma-u-a i-na-sta-wi vi-zu-ri. [ˈhɑpɑ ˈpɛtu ˈpɑnɑ ɑˈmɑni nɑ busˈtɑni ˈnzuri jɑ mɑˈuɑ inɑstɑˈwi viˈzuri] (HAH-pah PAY-too PAH-nah ah-MAH-nee nah boo-STAH-nee N-ZOO-ree yah mah-OO-ah ee-nah-stah-WEE vee-ZOO-ree)",
+          "translation": "Here at our specific spot [class 16: hapa petu] there is peace [pana] and a fine flower garden flourishes."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 15-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Huko mjini kuna magari mengi na maduka yote yamefunguliwa.",
+          "reading": "Hu-ko mji-ni ku-na ma-ga-ri me-ngi na ma-du-ka yo-te ya-me-fu-ngu-li-wa. [ˈhukɔ mʤiˈni ˈkunɑ mɑˈɡɑri ˈmɛŋɡi nɑ mɑˈdukɑ ˈjɔtɛ jɑmɛfuŋɡuˈliwɑ] (HOO-koh m-jee-NEE KOO-nah mah-GAH-ree MAYN-gee nah mah-DOO-kah YOH-tay yah-may-foon-goo-LEE-wah)",
+          "translation": "Over there in town [class 17: huko mjini] there are many cars [kuna] and all shops are open."
+        },
+        {
+          "target": "Humu nyumbani mwetu mna furaha tele na wageni wote wanakaribishwa.",
+          "reading": "Hu-mu nyu-mba-ni mwe-tu mna fu-ra-ha te-le na wa-ge-ni wo-te wa-na-ka-ri-bi-shwa. [ˈhumu ɲumbɑˈni ˈmwɛtu ˈmnɑ fuˈrɑhɑ ˈtɛlɛ nɑ wɑˈɡɛni ˈwɔtɛ wɑnɑkɑriˈbiʃwɑ] (HOO-moo nyoom-bah-NEE MWAY-too M-NAH foo-RAH-hah TAY-lay nah wah-GAY-nee WOH-tay wah-nah-kah-ree-BEE-shwah)",
+          "translation": "In here inside our home [class 18: humu nyumbani mwetu] there is abundant joy [mna] and all guests are welcomed."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Viashiria na Vimilikishi vya Mahali: PA = hapa/hapo/pale/petu; KU = huku/huko/kule/kwetu; MU = humu/humo/mle/mwetu!"
+      ],
+      "culturalNotes": [
+        "Jibu maarufu la Kiswahili 'Hakuna matata' (No worries/troubles) linatumia kitenzi cha kukanusha cha Ngeli ya 17 KU- ('Ha-ku-na')."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mvua\":",
+          "prompt": "Sentensi ipi inaonyesha upatanisho sahihi wa kiashiria na kitenzi cha 'kuwa na' kwa mahali ndani (Ngeli ya 18 MU-)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Upepo»",
-            "Mpangilio usio sahihi wa viambishi katika «Mawingu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Joto»"
+            "Humu sandukuni mna nguo safi za watoto. (Inside this box there are clean clothes for children - Correct Class 18 locative demonstrative 'humu' and verb 'mna')",
+            "Humu sandukuni pana nguo safi (Kosa la kutumia upatanisho wa PA-)",
+            "Humu sandukuni kuna nguo safi (Kosa la kutumia upatanisho wa KU-)",
+            "Huku sandukuni mna nguo safi (Mchanganyiko usio sahihi wa KU na MU)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kwa mahali ndani (Ngeli ya 18), kiashiria ni «humu» na kitenzi cha uwepo ni «mna»: «Humu sandukuni mna nguo»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mvua\":",
+          "prompt": "Unapozungumzia kijiji chenu kwa mtazamo wa eneo la asili (our homeland / place), kirai sahihi cha kimilikishi ni kipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Mawingu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Joto»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Upepo»"
+            "kwetu (Our place/homeland - Correct Class 17 locative possessive)",
+            "petu (Mahali petu mahususi)",
+            "mwetu (Ndani ya nyumba yetu)",
+            "yetu (Ngeli ya N-N)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Kwetu» (kutoka Ngeli ya 17 KU-) hutumika kwa asili ya kijiji, nchi, au eneo la nyumbani kwa jumla."
         }
       ]
     },
@@ -6423,17 +6452,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mvua\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi wa viashiria na vitenzi katika ngeli zote tatu za mahali (PA, KU, MU):",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Joto»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Upepo»",
-            "Mpangilio usio sahihi wa viambishi katika «Mawingu»"
+            "Hapa pana amani, huku kuna mashamba mazuri, na humu chumbani mna utulivu mkubwa. (Specific [hapa pana], General [huku kuna], Inside [humu mna].)",
+            "Hapa kuna amani, huku mna mashamba mazuri, na humu pana utulivu mkubwa.",
+            "Hapa lina amani, huku zina mashamba mazuri, na humu kina utulivu.",
+            "Ngeli za mahali hazitumii viashiria vya karibu."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Hapa pana amani, huku kuna mashamba mazuri, na humu chumbani mna utulivu mkubwa.» inatekeleza upatanisho mahususi wa PA, KU, na MU kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u15-l4": {
@@ -6441,53 +6471,62 @@
     "subject": "swahili",
     "unit": 15,
     "lessonNumber": 4,
-    "title": "Ngeli za Mahali: PA, KU, MU (Locative Classes 16/17/18) (Part 4)",
+    "title": "Vihusishi vya Mahali na Miundo ya Kielezi (Prepositions of Place & Spatial Expressions)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.4) with authentic precision.",
+    "objective": "Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga: juu ya, chini ya, ndani ya, nje ya, mbele ya, nyuma ya, kando ya, katikati ya, karibu na, na mbali na.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vihusishi vya Mahali katika Kiswahili (Spatial Prepositions):\n\n1. **Muundo wa Vihusishi vya Mahali (Prepositional Phrases)**:\n   - Vihusishi vingi vya mahali huundwa kwa neno la mwelekeo likifuatiwa na kiunganishi cha **ya** (au **na**):\n     - **juu ya** (on top of / above / over) -> *juu ya meza* (on top of the table)\n     - **chini ya** (under / beneath / below) -> *chini ya mti* (under the tree)\n     - **ndani ya** (inside of / within) -> *ndani ya nyumba* (inside the house)\n     - **nje ya** (outside of) -> *nje ya darasa* (outside the classroom)\n     - **mbele ya** (in front of / ahead of) -> *mbele ya jengo* (in front of the building)\n     - **nyuma ya** (behind / at the back of) -> *nyuma ya lango* (behind the gate)\n     - **kando ya** (beside / next to / along) -> *kando ya barabara* (beside the road)\n     - **katikati ya** (in the middle of / between) -> *katikati ya jiji* (in the middle of the city)\n\n2. **Vihusishi Vinavyotumia 'na'**:\n   - **karibu na** (near / close to) -> *karibu na kituo cha basi* (near the bus stop)\n   - **mbali na** (far from) -> *mbali na kelele za mjini* (far from city noise).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 15."
+          "target": "Paka amelala chini ya meza wakati kitabu kikiwa juu ya kiti.",
+          "reading": "Pa-ka a-me-la-la chi-ni ya me-za wa-ka-ti ki-ta-bu ki-ki-wa ju-u ya ki-ti. [ˈpɑkɑ ɑmɛˈlɑlɑ ˈtʃini jɑ ˈmɛzɑ wɑˈkɑti kiˈtɑbu kikiˈwɑ ˈʤuː jɑ ˈkiti] (PAH-kah ah-may-LAH-lah CHEE-nee yah MAY-zah wah-KAH-tee kee-TAH-boo kee-kee-WAH JOO-oo yah KEE-tee)",
+          "translation": "The cat is sleeping under the table [chini ya meza] while the book is on the chair [juu ya kiti]."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 15-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Gari jipya limeegeshwa mbele ya nyumba na watoto wanacheza nje ya uwanja.",
+          "reading": "Ga-ri ji-pya li-me-e-ge-shwa mbe-le ya nyu-mba na wa-to-to wa-na-che-za nje ya u-wa-nja. [ˈɡɑri ˈʤipjɑ limɛɛɡɛˈʃwɑ ˈmbɛlɛ jɑ ˈɲumbɑ nɑ wɑˈtɔtɔ wɑnɑˈtʃɛzɑ ˈnʤɛ jɑ uˈwɑnʤɑ] (GAH-ree JEE-pyah lee-may-ay-gay-SHWAH m-BAY-lay yah NYOOM-bah nah wah-TOH-toh wah-nah-CHAY-zah N-JAY yah oo-WAHN-jah)",
+          "translation": "The new car is parked in front of the house [mbele ya nyumba] and children are playing outside the yard [nje ya uwanja]."
+        },
+        {
+          "target": "Kijiji chetu kiko kando ya ziwa kubwa na mbali na msongamano wa magari.",
+          "reading": "Ki-ji-ji che-tu ki-ko ka-ndo ya zi-wa mku-bwa na mba-li na mso-nga-ma-no wa ma-ga-ri. [kiˈʤiʤi ˈtʃɛtu ˈkikɔ ˈkɑndɔ jɑ ˈziwɑ mˈkubwɑ nɑ ˈmbɑli nɑ msoŋɡɑˈmɑnɔ wɑ mɑˈɡɑri] (kee-JEE-jee CHAY-too KEE-koh KAHN-doh yah ZEE-wah m-KOO-bwah nah M-BAH-lee nah m-sohn-gah-MAH-noh wah mah-GAH-ree)",
+          "translation": "Our village is beside the big lake [kando ya ziwa] and far from vehicle traffic [mbali na msongamano]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vihusishi vya Mahali: juu ya (on), chini ya (under), ndani ya (inside), nje ya (outside), mbele ya (in front), nyuma ya (behind), kando ya (beside), karibu na (near), mbali na (far)!"
+      ],
+      "culturalNotes": [
+        "Katika miji ya kale ya Waswahili, nyumba zilijengwa 'karibu na' misikiti na masoko, lakini 'kando ya' fukwe za bahari kwa ajili ya upepo mwanana."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Upepo\":",
+          "prompt": "Kihusishi kipi kinamaanisha \"under / beneath\" katika Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mawingu»",
-            "Mpangilio usio sahihi wa viambishi katika «Joto»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Baridi»"
+            "chini ya (Under / beneath - Correct preposition of place)",
+            "juu ya (On top of / above)",
+            "mbele ya (In front of)",
+            "kando ya (Beside / next to)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Chini ya» linamaanisha chini ya kitu au chini ya kivuli."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Upepo\":",
+          "prompt": "Sentensi ipi inatumia kihusishi sahihi cha \"karibu na\" (near / close to)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Joto»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Baridi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mawingu»"
+            "Hoteli yetu iko karibu na ufukwe wa bahari. (Our hotel is located near the sea beach - Correct preposition 'karibu na')",
+            "Hoteli yetu iko karibu ya ufukwe (Kosa la kutumia 'ya' badala ya 'na')",
+            "Hoteli yetu iko mbali ya ufukwe (Kosa la kutumia 'ya')",
+            "Hoteli yetu iko ndani na ufukwe (Mchanganyiko usio sahihi)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kihusishi «karibu» kila mara huunganishwa na «na»: «karibu na kituo / ufukwe»."
         }
       ]
     },
@@ -6495,17 +6534,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Upepo\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayochanganya vihusishi vya mahali vya anga kwa usahihi kamili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Baridi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mawingu»",
-            "Mpangilio usio sahihi wa viambishi katika «Joto»"
+            "Gari liliegeshwa mbele ya nyumba, watoto walikaa chini ya mti, na duka liko karibu na soko kuu. (In front of the house [mbele ya], under the tree [chini ya], and near the main market [karibu na].)",
+            "Gari liliegeshwa mbele na nyumba na watoto walikaa chini za mti.",
+            "Gari liliegeshwa juu kwa nyumba na duka liko karibu ya soko.",
+            "Vihusishi vya mahali havihitaji maneno ya kuunganisha katika Kiswahili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Gari liliegeshwa mbele ya nyumba, watoto walikaa chini ya mti, na duka liko karibu na soko kuu.» inatekeleza miundo sahihi ya vihusishi vyote."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u15-l5": {
@@ -6513,53 +6553,62 @@
     "subject": "swahili",
     "unit": 15,
     "lessonNumber": 5,
-    "title": "Ngeli za Mahali: PA, KU, MU (Locative Classes 16/17/18) (Part 5)",
+    "title": "Muhtasari wa Ngeli za Mahali (PA-KU-MU) na Vihusishi (Grand Synthesis of Locatives)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 15: ngeli tatu za mahali (16 PA, 17 KU, 18 MU), matumizi ya kiambishi -ni cha mahali, upatanisho wa vitenzi na viashiria vya mahali, na vihusishi vyote vya anga.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Ngeli za Mahali (Grand Synthesis of Locative System):\n\n1. **Muundo Kamili wa Ngeli za Mahali (Master Locative Matrix)**:\n   - **Ngeli ya 16 (PA - Mahali Mahususi)**: *hapa / hapo / pale*, *pangu / petu*, *panapendeza*, *pana / hapana*.\n   - **Ngeli ya 17 (KU - Eneo Pana / Mwelekeo)**: *huku / huko / kule*, *kwangu / kwetu*, *kunanyesha*, *kuna / hakuna*.\n   - **Ngeli ya 18 (MU - Mahali Ndani)**: *humu / humo / mle*, *mwangu / mwetu*, *mnang'aa*, *mna / hamna*.\n   - **Kiambishi cha Mahali (-ni)**: *shule -> shuleni, nyumba -> nyumbani, chumba -> chumbani, meza -> mezani* (inabadilisha upatanisho kuwa PA, KU, au MU).\n   - **Vihusishi vya Mahali**: *juu ya, chini ya, ndani ya, nje ya, mbele ya, nyuma ya, kando ya, katikati ya, karibu na, mbali na*.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 15."
+          "target": "Hapa petu pazuri pana utulivu mkubwa, huko mjini kuna biashara nyingi, na humu chumbani mna hewa safi.",
+          "reading": "Ha-pa pe-tu pa-zu-ri pa-na u-tu-li-vu mku-bwa, hu-ko mji-ni ku-na bi-a-sha-ra nye-ngi, na hu-mu chu-mba-ni mna he-wa sa-fi. [ˈhɑpɑ ˈpɛtu pɑˈzuri ˈpɑnɑ utuˈlivu mˈkubwɑ ˈhukɔ mʤiˈni ˈkunɑ biɑˈʃɑrɑ ˈɲɛŋɡi nɑ ˈhumu tʃumbɑˈni ˈmnɑ ˈhɛwɑ ˈsɑfi] (HAH-pah PAY-too pah-ZOO-ree PAH-nah oo-too-LEE-voo m-KOO-bwah, HOO-koh m-jee-NEE KOO-nah bee-ah-SHAH-rah NYAYN-gee, nah HOO-moo choom-bah-NEE M-NAH HAY-wah SAH-fee)",
+          "translation": "Here at our fine spot [PA-] has great calm, over there in town [KU-] has much commerce, and in here inside the room [MU-] has fresh air."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 15-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kitabu kiliwekwa juu ya meza kando ya dirisha, na nje ya nyumba watoto wanacheza.",
+          "reading": "Ki-ta-bu ki-li-we-kwa ju-u ya me-za ka-ndo ya di-ri-sha, na nje ya nyu-mba wa-to-to wa-na-che-za. [kiˈtɑbu kiliˈwɛkwɑ ˈʤuː jɑ ˈmɛzɑ ˈkɑndɔ jɑ diˈriʃɑ nɑ ˈnʤɛ jɑ ˈɲumbɑ wɑˈtɔtɔ wɑnɑˈtʃɛzɑ] (kee-TAH-boo kee-lee-WAY-kwah JOO-oo yah MAY-zah KAHN-doh yah dee-REE-shah, nah N-JAY yah NYOOM-bah wah-TOH-toh wah-nah-CHAY-zah)",
+          "translation": "The book was placed on the table [juu ya meza] beside the window [kando ya dirisha], and outside the house [nje ya nyumba] children are playing."
+        },
+        {
+          "target": "Umahiri wa Ngeli za Mahali za PA-KU-MU na vihusishi vya anga unamwezesha mwanafunzi kuwasilisha maelekezo ya kijiografia na kimaeneo kwa ustadi usio na kifani.",
+          "reading": "U-ma-hi-ri wa Nge-li za Ma-ha-li za PA-KU-MU na vi-hu-si-shi vya a-nga u-na-mwe-ze-sha mwa-na-fu-nzi ku-wa-si-li-sha ma-e-le-ke-zo ya ki-ji-o-gra-fia na ki-ma-e-ne-o kwa u-sta-di u-si-o na ki-fa-ni. [umɑˈhiri wɑ ˈŋɡɛli zɑ mɑˈhɑli zɑ pɑkuˈmu nɑ vihusiˈʃi vjɑ ˈɑŋɡɑ unɑmwɛˈzɛʃɑ mwɑnɑˈfunzi kuwɑsiliˈʃɑ mɑɛlɛˈkɛzɔ jɑ kiʤiɔɡrɑˈfiɑ nɑ kimɑɛnɛˈɔ kwɑ usˈtɑdi usiˈɔ nɑ kiˈfɑni] (oo-mah-HEE-ree wah N-GAY-lee zah mah-HAH-lee zah PAH-KOO-MOO nah vee-hoo-SEE-shee vyah AHN-gah oo-nah-mway-ZAY-shah mwah-nah-FOON-zee koo-wah-see-LEE-shah mah-ay-lay-KAY-zoh yah kee-jee-oh-grah-FEE-ah nah kee-mah-ay-nay-OH kwah oo-STAH-dee oo-see-OH nah kee-FAH-nee)",
+          "translation": "Mastery of the PA-KU-MU locative classes [locatives grand synthesis: ngeli za mahali] and spatial prepositions equips the learner to convey geographic and positional directions with unmatched skill."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Muhtasari wa Mahali: PA = mahususi (hapa pana), KU = eneo pana (huku kuna), MU = ndani (humu mna); Vihusishi: juu ya, chini ya, kando ya, karibu na!"
+      ],
+      "culturalNotes": [
+        "Dhana ya 'Kupatana kwa mahali' inaonyesha umakini wa lugha ya Kiswahili katika kubainisha mipaka ya anga na uhusiano wa binadamu na mazingira yake."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mawingu\":",
+          "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa ngeli za mahali ikijumuisha kiashiria, nomino yenye '-ni', na kitenzi kwa eneo pana?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Joto»",
-            "Mpangilio usio sahihi wa viambishi katika «Baridi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Masika»"
+            "Huko shambani kuna mimea mizuri inayostawi vizuri. (Over there on the farm there are fine crops flourishing - Harmonious locative KU- synthesis)",
+            "Huko shambani pana mimea mizuri (Mvurugiko wa KU na PA)",
+            "Huko shambani mna mimea mizuri (Mvurugiko wa KU na MU)",
+            "Huko shamba lina mimea (Kosa la kutotumia kiambishi cha mahali)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Huko shambani kuna mimea mizuri inayostawi vizuri.» inatekeleza upatanisho sahihi wa eneo pana (huko shambani kuna)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mawingu\":",
+          "prompt": "Katika muhtasari wa Unit 15, ni sentensi gani inayoonyesha uhusiano sahihi wa kijiografia kwa kutumia vihusishi vya mahali?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Baridi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Masika»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Joto»"
+            "Shule yetu iko kando ya barabara kuu na karibu na kituo cha afya. (Our school is beside the highway and near the health center - Correct prepositional syntax)",
+            "Shule yetu iko kando na barabara kuu (Kosa la kutumia 'na' kwa kando)",
+            "Shule yetu iko karibu ya kituo cha afya (Kosa la kutumia 'ya' kwa karibu)",
+            "Shule yetu iko ndani kwa barabara kuu (Muundo usio sahihi)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«kando ya barabara kuu» na «karibu na kituo cha afya» inafuata sheria sanifu za vihusishi."
         }
       ]
     },
@@ -6567,17 +6616,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mawingu\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 15 ya Ngeli za Mahali (PA-KU-MU) na Vihusishi katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Masika»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Joto»",
-            "Mpangilio usio sahihi wa viambishi katika «Baridi»"
+            "Hapa petu pazuri pana amani, huko mjini kuna maduka mengi kando ya barabara, na humu chumbani mna utulivu mkubwa. (Specific [PA], General [KU], and Inside [MU] with spatial preposition [kando ya].)",
+            "Hapa petu pazuri kuna amani na huko mjini mna maduka mengi.",
+            "Shuleni yetu ina amani na mezani lina vitabu.",
+            "Kiswahili hakitofautishi kati ya mahali ndani na mahali pa nje."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Hapa petu pazuri pana amani, huko mjini kuna maduka mengi kando ya barabara, na humu chumbani mna utulivu mkubwa.» inajumuisha nyanja zote za ngeli za mahali na vihusishi kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u16-l1": {
