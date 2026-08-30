@@ -7865,53 +7865,62 @@
     "subject": "urdu",
     "unit": 19,
     "lessonNumber": 1,
-    "title": "بلاواسطہ اور بالواسطہ کلام (Reported Speech with کہ) (Part 1)",
+    "title": "بلاواسطہ کلام اور رابطہ 'کہ' (Direct Speech with 'Keh')",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 19.1) with authentic precision.",
+    "objective": "بلاواسطہ کلام (Direct Speech: فاعل + فعلِ قول + کہ + اصل الفاظ) کی نحوی ساخت، واوین اور متکلم کی اصل ضمائر کے استعمال پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں بلاواسطہ کلام (Direct Speech with 'Keh'):\n\n1. **بلاواسطہ کلام کا قاعدہ (Direct Quote Template)**:\n   - متکلم کے اصل اور ہو بہو الفاظ نقل کرتے وقت فاعل اور فعلِ قول کے بعد **'کہ'** لایا جاتا ہے اور اصل بات واوین (Quotes) میں لکھی جاتی ہے:\n     - «استاد نے فرمایا **کہ** ”میں کل نیا سبق پڑھاؤں گا“»؛\n     - «اس نے مجھ سے کہا **کہ** ”تم کہاں جا رہے ہو؟“»۔\n\n2. **ضمائر اور زمانے کی برقراری**:\n   - بلاواسطہ کلام میں متکلم کی اصل ضمیریں (میں، ہم، تم) اور اصل زمانہ (حال، مستقبل، ماضی) بالکل تبدیل نہیں ہوتے۔\n\n3. **ادبی شکوہ**:\n   - اردو ادب اور تاریخ میں عظیم شخصیات کے فرمودات کو اسی فصیح انداز میں نقل کیا جاتا ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "رہنما نے جلسۂ عام سے پرجوش خطاب کرتے ہوئے فرمایا کہ ”ہم اپنی قوم کے شاندار اور باوقار مستقبل کے لیے کسی بھی قربانی سے دریغ نہیں کریں گے۔“",
+          "reading": "Rehnuma ne jalsa-e-aam se pur-josh khitaab kartay huay farmaaya keh \"Hum apni qawm ke shaandaar aur baa-waqaar mustaqbil ke liye kisi bhi qurbaani se dareegh nahin karein gay.\" [rɛɦnʊmaː neː dʒəlsaː-eː-aːm seː pʊr-dʒoːʃ xɪt̪aːb kərteː hʊʔeː fərmaːjaː kɛh həm əpniː qɔːm keː ʃaːndaːr ɔːr baː-ʋəqaːr mʊst̪əqbɪl keː lɪjeː kɪsiː bʱiː qʊrbaːniː seː d̪əreːɣ nəhĩː kərẽː ɡeː] (ryh-noo-MAH nay juhl-SAH-ay-AHM say poor-JOHSH khee-TAHB kuhr-TAY hoo-AY fuhr-MAH-yah KYH HOOM uhp-NEE QOWM kay shahn-DAHR owr bah-vuh-QAH-eer moos-tuhq-BEEL kay lee-AY kee-SEE BHEE qoor-bah-NEE say duh-RAYGH nuh-HEEN kuh-REYN gay)",
+          "translation": "The leader said while addressing the public gathering passionately [direct quote]: \"We will not hesitate from any sacrifice for the splendid and dignified future of our nation.\""
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 19-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "عدالت کے جج نے واضح الفاظ میں فیصلہ سناتے ہوئے کہا کہ ”قانون کی نظر میں تمام شہری بلا امتیاز رنگ و نسل بالکل برابر ہیں۔“",
+          "reading": "Adaalat ke judge ne waazeh alfaaz mein faisla sunaatay huay kaha keh \"Qanoon ki nazar mein tamaam shehri bila imtiyaaz-e-rang-o-nasal bilkul baraabar hain.\" [əd̪aːlət̪ keː dʒədʒ neː ʋaːzɪh əlfaːz mẽː fɛːslaː sʊnaːt̪eː hʊʔeː kəhaː kɛh qaːnuːn kiː nəzər mẽː t̪əmaːm ʃɛɦriː bɪlaː ɪmt̪ɪjaːz-eː-rəŋɡ-oː-nəsl bɪlkʊl bəraːbər hɛ̃ː] (uh-dah-LUHT kay judge nay VAH-zeh uhl-FAHZ mayn FYS-lah soo-nah-TAY hoo-AY kuh-HAH KYH QAH-noon kee nuh-ZUHR mayn tuh-MAHM shyh-REE bee-LAH eem-tee-YAH-zay-ruhn-goh-NUH-suhl beel-KOOL buh-rah-BUHR HYN)",
+          "translation": "The judge of the court said while pronouncing the verdict in clear words: \"In the eyes of the law all citizens are completely equal without distinction of color or race.\""
+        },
+        {
+          "target": "والدِ محترم نے اپنے بیٹے کو نصیحت کرتے ہوئے فرمایا کہ ”سچائی کا راستہ ہمیشہ اپناؤ خواہ تمہیں اس راہ میں کتنی ہی مشکلات کا سامنا کرنا پڑے۔“",
+          "reading": "Waalid-e-muhtaram ne apne betay ko naseehat kartay huay farmaaya keh \"Sachchaai ka raasta hamesha apnaao khwaah tumhein is raah mein kitni hi mushkilaat ka saamna karna paray.\" [ʋaːlɪd̪-eː-mʊɦt̪ərəm neː əpneː beːʈeː koː nəsiːhət̪ kərteː hʊʔeː fərmaːjaː kɛh sətʃːaːʔiː kaː raːst̪aː həm-eːʃaː əpnaːʔoː xʋaːh t̪ʊmhẽː ɪs raːh mẽː kɪt̪niː hiː mʊʃkɪlaːt̪ kaː saːmnaː kərnaː pəɽeː] (vah-lee-DAY-mooh-tuh-RUHM nay uhp-NAY bay-TAY koh nuh-SEE-huht kuhr-TAY hoo-AY fuhr-MAH-yah KYH suhch-chah-EE kah RAHS-tah huh-MAY-shah uhp-NAH-oh KHVAH toom-HEYN EES RAHH mayn KEET-nee HEE moosh-kee-LAHT kah SAHM-nah kuhr-NAH puh-RAY)",
+          "translation": "The respected father advised his son saying: \"Always adopt the path of truth, no matter how many difficulties you have to face in this way.\""
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "بلاواسطہ فارمولا: فاعل (قائد نے) + کہا/فرمایا + کہ + ”اصل کلام“!"
+      ],
+      "culturalNotes": [
+        "اردو تہذیب میں بزرگوں، اساتذہ اور اکابرین کے اقوال کو 'فرمایا کہ' کے ساتھ باادب انداز میں نقل کرنا لازمی احترام کا تقاضا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"خاندان\":",
+          "prompt": "کسی شخصیت کے اصل الفاظ کو ہو بہو نقل کرنے کا درست رابطہ کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («والد» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («والدہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بھائی» کی خرابی)"
+            "کہ ”اصل الفاظ“ (Keh \"Original words\" - Correct standard direct speech connector in Urdu)",
+            "کیونکہ ”اصل الفاظ“ (علت)",
+            "اگرچہ ”اصل الفاظ“ (تسلیم)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "اردو میں قول کو نقل کرنے کے لیے حرفِ ربط «کہ» مستعمل ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"خاندان\":",
+          "prompt": "بلاواسطہ کلام (Direct Speech) میں متکلم کی ضمیر (جیسے 'میں') کا کیا ہوتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («والدہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بھائی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («والد» کا غیر درست استعمال)"
+            "وہ اپنی اصل حالت 'میں' میں ہی برقرار رہتی ہے (Preserved as 1st person original in direct speech)",
+            "وہ ہمیشہ 'وہ' میں بدل جاتی ہے (یہ بالواسطہ میں ہوتا ہے)",
+            "وہ مٹ جاتی ہے",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "بلاواسطہ کلام میں متکلم کی اصل ضمیر جوں کی توں رہتی ہے۔"
         }
       ]
     },
@@ -7919,17 +7928,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"خاندان\": Which sentence is completely correct?",
+          "prompt": "بلاواسطہ کلام (Direct Speech with 'Keh') کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بھائی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («والد» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («والدہ» سے متعلق)"
+            "استادِ محترم نے کلاس سے خطاب کرتے ہوئے فرمایا کہ ”علم ایک ایسی دولت ہے جسے کوئی چور چرا نہیں سکتا اور یہ بانٹنے سے بڑھتی ہے۔“ (The respected teacher said while addressing the class: \"Knowledge is a wealth that no thief can steal and it increases by sharing.\")",
+            "استاد نے فرمایا تھا کہ گاڑی روتی تھی۔",
+            "کہ کا استعمال کلام میں غیر ضروری ہے۔",
+            "بلاواسطہ کلام صرف انگریزی کا خاصہ ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«استادِ محترم نے کلاس سے خطاب کرتے ہوئے فرمایا کہ ”علم ایک ایسی دولت ہے جسے کوئی چور چرا نہیں سکتا اور یہ بانٹنے سے بڑھتی ہے۔“» بلاواسطہ کلام کا فصیح شاہکار ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u19-l2": {
@@ -7937,53 +7947,62 @@
     "subject": "urdu",
     "unit": 19,
     "lessonNumber": 2,
-    "title": "بلاواسطہ اور بالواسطہ کلام (Reported Speech with کہ) (Part 2)",
+    "title": "بالواسطہ کلام: ضمائر اور زمانی مطابقت (Indirect Speech)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 19.2) with authentic precision.",
+    "objective": "بالواسطہ کلام (Indirect Speech) میں ضمائر کی تبدیلی (میں -> وہ، ہمارا -> ان کا) اور نحوی روانی پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں بالواسطہ کلام (Indirect Speech & Pronoun Shifts):\n\n1. **ضمائر کی تبدیلی (Pronoun Shifts)**:\n   - جب کسی کی کہی ہوئی بات کو اپنے الفاظ میں بیان کیا جائے تو متکلم کی ضمیریں غائب کی ضمیروں میں بدل جاتی ہیں:\n     - بلاواسطہ: «اس نے کہا کہ میں آؤں گا»；\n     - بالواسطہ: «اس نے کہا کہ **وہ آئے گا**»۔\n     - بلاواسطہ: «انہوں نے بتایا کہ یہ ہمارا گھر ہے»；\n     - بالواسطہ: «انہوں نے بتایا کہ یہ **ان کا گھر ہے**»۔\n\n2. **زمانی مطابقت (Tense Flexibility)**:\n   - اردو میں انگریزی کی طرح لازمی بیک شفٹ (Backshift) نہیں ہوتا؛ اصل بات کی سچائی یا ارادے کو موجودہ صورت میں بھی رکھا جا سکتا ہے:\n     - «اس نے کہا کہ وہ کل اسلام آباد **جائے گا**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "وزیرِ تعلیم نے پریس کانفرنس میں اعلان کیا کہ حکومت جلد ہی دور دراز علاقوں میں اعلیٰ تعلیمی یونیورسٹیاں قائم کرے گی۔",
+          "reading": "Wazeer-e-ta'leem ne press conference mein e'laan kiya keh hukoomat jald hi door-daraaz ilaaqon mein aala ta'leemi universities qaa'im karay gi. [ʋəziːr-eː-t̪əʔliːm neː prɛs kaːnfrəns mẽː ɛʔlaːn kɪjaː kɛh hʊkuːmət̪ dʒəld̪ hiː d̪uːr-d̪əraːz ɪlaːqõː mẽː aːlaː t̪əʔliːmiː juːnɪʋərsɪʈiːjãː qaːʔɪm kəreː ɡiː] (vuh-ZEE-ray-tuh-LEEM nay press conference mayn eh-LAHN kee-YAH KYH hoo-KOO-muht JUHLD HEE door-duh-RAHZ ee-lah-QOHN mayn AH-lah tuh-lee-MEE universities QAH-eem kuh-RAY gee)",
+          "translation": "The education minister announced in the press conference that the government would soon establish higher education universities in remote areas [indirect speech: qaa'im karay gi]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 19-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "سائنسدان نے اپنی تحقیقی رپورٹ میں تصدیق کی کہ ماحولیاتی آلودگی زمین کے درجہ حرارت میں خطرناک حد تک اضافہ کر رہی ہے۔",
+          "reading": "Scientist ne apni tehqeeqi report mein tasdeeq ki keh maahawliyaati aaloodgi zameen ke darja-e-haraarat mein khatarnaak hadd tak izaafa kar rahi hai. [saːɪntɪsʈ neː əpniː t̪əɦqiːqiː rɪpoːrʈ mẽː t̪əsdiːq kiː kɛh maːɦɔːlɪjaːt̪iː aːluːd̪ɡiː zəmiːn keː d̪ərdʒaː-eː-həraːrət̪ mẽː xət̪ərnaːq həd̪ː t̪ək ɪzaːfaː kər rəhiː hɛː] (scientist nay uhp-NEE tuhh-qee-QEE report mayn tuhs-DEEQ kee KYH mah-how-lee-yah-TEE ah-lood-GEE zuh-MEEN kay duhr-JAH-ay-huh-rah-RUHT mayn khuh-tuhr-NAHQ HUHDD tuhk ee-ZAH-fah kuhr ruh-HEE HY)",
+          "translation": "The scientist confirmed in his research report that environmental pollution is increasing the earth's temperature to a dangerous extent [indirect factual speech]."
+        },
+        {
+          "target": "ڈاکٹر نے مریض کو تسلی دیتے ہوئے یقین دہانی کروائی کہ باقاعدہ علاج اور پرہیز سے اس کی صحت بہت جلد مکمل بحال ہو جائے گی۔",
+          "reading": "Doctor ne mareez ko tasalli detay huay yaqeen-dehaani karwaayi keh baa-qaa'eda ilaaj aur parhez se us ki sehat bohat jald mukammal bahaal ho jaaye gi. [ɖoːkʈər neː məriːz koː t̪əsəlːiː d̪eːt̪eː hʊʔeː jəqiːn-d̪ɪhaːniː kərʋaːjiː kɛh baː-qaːʔɪd̪aː ɪlaːdʒ ɔːr pərheːz seː ʊs kiː sɪɦːət̪ bəhət̪ dʒəld̪ mʊkəmːəl bəhaːl hoː dʒaːjeː ɡiː] (doctor nay muh-REEZ koh tuh-suhl-LEE day-TAY hoo-AY yuh-qeen-dee-hah-NEE kuhr-VAH-yee KYH bah-QAH-ee-duh ee-LAHJ owr puhr-HAYZ say OOS kee seh-HUHT BOH-huht JUHLD moo-kuhm-MUHL buh-HAHL hoh jah-YAY gee)",
+          "translation": "The doctor comforted the patient assuring that with regular treatment and abstinence his health would be fully restored very soon [indirect: us ki sehat]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "بالواسطہ فارمولا: میں -> وہ، میرا -> اس کا، ہمارا -> ان کا = ضمیر کی بالواسطہ تبدیلی!"
+      ],
+      "culturalNotes": [
+        "اردو صحافت اور خبروں کے بلیٹن میں سیاست دانوں اور حکام کے بیانات کو بالواسطہ کلام کے انہی اصولوں پر مرتب کیا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"والد\":",
+          "prompt": "«اس نے کہا: میں کل آؤں گا» کا درست بالواسطہ (Indirect) جملہ کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («والدہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بھائی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بہن» کی خرابی)"
+            "اس نے کہا کہ وہ کل آئے گا (Us ne kaha keh woh kal aaye ga - Correct indirect shift from mein to woh)",
+            "اس نے کہا کہ میں کل آتا تھا (غلط ضمیر اور زمانہ)",
+            "اس نے کہا کہ ہم روئیں گے (بے جوڑ)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "بالواسطہ کلام میں متکلم کی ضمیر 'میں' بدل کر 'وہ' ہو جاتی ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"والد\":",
+          "prompt": "اردو میں بالواسطہ کلام کی سب سے نمایاں خصوصیت کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بھائی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بہن» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («والدہ» کا غیر درست استعمال)"
+            "مفہوم کو متکلم کے بجائے تیسرے شخص (وہ/اس) کی زبان میں روانی سے بیان کرنا (Conveying essence through 3rd person perspective with fluent cohesion)",
+            "صرف جملے کے الفاظ الٹ دینا",
+            "ہمیشہ ماضی بعید کا لانا لازمی ہونا",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ تیسرے شخص کی ضمیروں کے ساتھ مفہوم کی باوقار ترسیل کرتا ہے۔"
         }
       ]
     },
@@ -7991,17 +8010,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"والد\": Which sentence is completely correct?",
+          "prompt": "بالواسطہ کلام (Indirect Speech) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بہن» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («والدہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بھائی» سے متعلق)"
+            "سیاسی رہنما نے اپنے کارکنوں کو یقین دلایا کہ وہ ملک کی ترقی اور عوامی خوشحالی کے لیے ہر ممکن جدوجہد جاری رکھیں گے۔ (The political leader assured his workers that they would continue every possible struggle [jaari rakhein gay] for national progress.)",
+            "سیاسی رہنما نے بولا تھا میں روتا تھا۔",
+            "بالواسطہ کلام میں واوین کا لگانا لازمی ہے۔",
+            "اردو میں بالواسطہ بیان کا کوئی وجود نہیں۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«سیاسی رہنما نے اپنے کارکنوں کو یقین دلایا کہ وہ ملک کی ترقی اور عوامی خوشحالی کے لیے ہر ممکن جدوجہد جاری رکھیں گے۔» بالواسطہ کلام کا کامل و فصیح نمونہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u19-l3": {
@@ -8009,53 +8029,62 @@
     "subject": "urdu",
     "unit": 19,
     "lessonNumber": 3,
-    "title": "بلاواسطہ اور بالواسطہ کلام (Reported Speech with کہ) (Part 3)",
+    "title": "استفساری و حکمی جملوں کی بالواسطہ ترسیل (Reported Questions & Commands)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 19.3) with authentic precision.",
+    "objective": "استفساری جملوں (پوچھا کہ کیا/کیوں/کب) اور احکام و ہدایات (حکم دیا کہ کرے/جائے) کی بالواسطہ رپورٹنگ پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں سوالات اور احکامات کی بالواسطہ ترسیل (Reported Questions & Commands):\n\n1. **استفساری جملے (Reported Questions)**:\n   - جب کسی سوال کو بالواسطہ بیان کیا جائے:\n     - «اس نے پوچھا **کہ کیا** میں ٹھیک ہوں؟»；\n     - «معلم نے دریافت کیا **کہ وہ کل کیوں غیر حاضر تھا**»۔\n\n2. **حکمیہ اور استدعائیہ جملے (Reported Commands & Requests)**:\n   - حکم، ہدایت یا التجا کے بعد فعلِ مضارع / التزامی آتا ہے:\n     - «افسر نے حکم دیا **کہ فائل فوراً پیش کی جائے**»؛\n     - «ہم نے ان سے درخواست کی **کہ وہ تشریف رکھیں**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "عدالتی وکیل نے گواہ سے جرح کرتے ہوئے پوچھا کہ کیا اس نے وقوعے کے وقت ملزم کو جائے حادثہ پر خود اپنی آنکھوں سے دیکھا تھا۔",
+          "reading": "Adaalati wakeel ne gawaah se jarah kartay huay poochha keh kya us ne waqoo'ay ke waqt mulzim ko jaay-e-haadsa par khud apni aankhon se dekha tha. [əd̪aːlət̪iː ʋəkiːl neː ɡəʋaːh seː dʒərəh kərteː hʊʔeː puːtʃʰaː kɛh kjaː ʊs neː ʋəquːʔeː keː ʋəqt̪ mʊlzɪm koː dʒaːjeː-haːd̪saː pər xʊd̪ əpniː aːŋkʰõː seː d̪eːkʰaː t̪ʰaː] (uh-dah-luh-TEE vuh-KEEL nay guh-VAHH say juh-RUHH kuhr-TAY hoo-AY POO-chhah KYH KYAH OOS nay vuh-qoo-AY kay VUHKT mool-ZEEM koh jah-YAY-hahd-SAH puhr KHOOD uhp-NEE ahn-KHOHN say DAYKH-ah THAH)",
+          "translation": "The courtroom lawyer asked the witness during cross-examination whether he had seen the accused at the crime scene with his own eyes [reported question: poochha keh kya]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 19-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "کمانڈر نے فوجیوں کو سخت تاکید کرتے ہوئے حکم دیا کہ وہ ہر لمحہ الرٹ رہیں اور سرحد کی کڑی نگرانی کریں۔",
+          "reading": "Commander ne faujiyon ko sakht taakeed kartay huay hukm diya keh woh har lamha alert rahein aur sarhad ki karri nigraani karein. [kəmaːnɖər neː fɔːdʒɪjõː koː səxt̪ t̪aːkiːd̪ kərteː hʊʔeː hʊkm d̪ɪjaː kɛh ʋoːh hər ləmhaː ələrʈ rəhẽː ɔːr sərhəd̪ kiː kəɽiː nɪɡraːniː kərẽː] (commander nay fow-jee-YOHN koh SUHKHT tah-KEED kuhr-TAY hoo-AY HOOKM dee-YAH KYH VOH HUHR luhm-HAH alert ruh-HEYN owr suhr-HUHD kee kuh-REE neeg-rah-NEE kuh-REYN)",
+          "translation": "The commander ordered the soldiers with strict emphasis that they stay alert every moment and maintain strict vigilance of the border [reported command: hukm diya keh rahein]."
+        },
+        {
+          "target": "میزبان نے تمام معزز مہمانوں سے پرخلوص التجا کی کہ وہ کھانے کے میز پر تشریف لائیں اور ضیافت نوش فرمائیں۔",
+          "reading": "Mezbaan ne tamaam mo'azzaz mehmaanon se pur-khuloos iltija ki keh woh khaane ke mez par tashreef laayein aur ziyaafat naush farmaayein. [meːzbaːn neː t̪əmaːm mʊʔəzːəz mɛɦmaːnõː seː pʊr-xʊluːs ɪlt̪ɪdʒaː kiː kɛh ʋoːh kʰaːneː keː meːz pər t̪əʃriːf laːʔẽː ɔːr zɪjaːfət̪ nɔːʃ fərmaːʔẽː] (mayz-BAHN nay tuh-MAHM moo-uhz-ZUHZ myh-mah-NOHN say poor-khoo-LOOS eel-tee-JAH kee KYH VOH khah-NAY kay MAYZ puhr tuhsh-REEF lah-AYN owr zee-yah-FUHT NOWSH fuhr-mah-AYN)",
+          "translation": "The host made a sincere request to all distinguished guests that they grace the dining table and partake of the feast [reported request: iltija ki keh laayein]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "استفسار و حکم فارمولا: پوچھا + کہ کیا/کیوں + حکم دیا / درخواست کی + کہ (کریں/جائے)!"
+      ],
+      "culturalNotes": [
+        "اردو کی شائستہ گفتگو میں حکم کے بجائے 'درخواست کی کہ' یا 'تکلیف فرمائیں' جیسے باوقار صیغے استعمال کیے جاتے ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"والدہ\":",
+          "prompt": "کسی سوال کی بالواسطہ ترسیل کے لیے درست ترکیب کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («بھائی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بہن» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دادا» کی خرابی)"
+            "اس نے دریافت کیا کہ کیا وہ آئے گا (Us ne daryaaft kiya keh kya woh aaye ga - Correct reported question with keh kya)",
+            "اس نے حکم دیا کہ وہ آیا تھا (غلط فعلِ قول)",
+            "اس نے بتایا کہ کیوں وہ رویا (بے ربط)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "سوال کی بالواسطہ رپورٹنگ کے لیے «دریافت کیا کہ کیا...» فصیح ترین اسلوب ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"والدہ\":",
+          "prompt": "کسی سرکاری ہدایت یا حکم کو بالواسطہ بیان کرنے کا درست انداز کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بہن» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دادا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بھائی» کا غیر درست استعمال)"
+            "حکم دیا کہ تمام ملازمین وقت پر حاضر ہوں (Hukm diya keh tamaam mulaazmeen waqt par haazir hon - Correct reported imperative with subjunctive)",
+            "حکم دیا کہ تمام ملازمین وقت پر آتے تھے (بے جوڑ زمانہ)",
+            "کہا کہ ملازمین روئے تھے (بے معنی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "حکم کے بعد جملہ مضارع/التزامی (حاضر ہوں) میں آتا ہے۔"
         }
       ]
     },
@@ -8063,17 +8092,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"والدہ\": Which sentence is completely correct?",
+          "prompt": "استفساری و حکمی جملوں کی بالواسطہ ترسیل کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دادا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بھائی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بہن» سے متعلق)"
+            "پرنسپل نے اساتذہ کو ہدایت جاری کی کہ وہ امتحانات کی شفافیت کو ہر قیمت پر برقرار رکھیں اور نتائج بروقت تیار کریں۔ (The principal issued instructions to teachers that they maintain transparency of exams [bar-qaraar rakhein] and prepare results in time.)",
+            "پرنسپل نے بولا تھا کھانا کھایا تھا۔",
+            "حکمیہ جملوں میں کہ کا آنا گرامر کے خلاف ہے۔",
+            "استفساری جملے بالواسطہ نہیں بنائے جا سکتے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«پرنسپل نے اساتذہ کو ہدایت جاری کی کہ وہ امتحانات کی شفافیت کو ہر قیمت پر برقرار رکھیں اور نتائج بروقت تیار کریں۔» حکمیہ و ہدایتی بالواسطہ کلام کی شاندار مثال ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u19-l4": {
@@ -8081,53 +8111,62 @@
     "subject": "urdu",
     "unit": 19,
     "lessonNumber": 4,
-    "title": "بلاواسطہ اور بالواسطہ کلام (Reported Speech with کہ) (Part 4)",
+    "title": "ادبی و صحافتی بالواسطہ اسلوب: 'مؤقف اختیار کیا' (Journalistic Discourse)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 19.4) with authentic precision.",
+    "objective": "صحافتی، تجزیاتی اور سفارتی رپورٹنگ افعال (مؤقف اختیار کیا، اظہارِ خیال کیا، واضح کیا، ذرائع کے مطابق) پر مکمل عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں صحافتی و ادبی بالواسطہ کلام (Journalistic & Formal Reported Discourse):\n\n1. **رسمی رپورٹنگ افعال (Formal Reporting Verbs)**:\n   - عام 'کہا' کے بجائے صحافتی و سفارتی زبان میں بلند پایہ ترکیبات استعمال ہوتی ہیں:\n     - «ترجمان نے **مؤقف اختیار کیا کہ**...»；\n     - «ماہرین نے **اظہارِ خیال کیا کہ**...»；\n     - «سربراہ نے **اس عزم کا اعادہ کیا کہ**...»；\n     - «وزیر نے **دو ٹوک الفاظ میں واضح کیا کہ**...»۔\n\n2. **ذرائع کا حوالہ (Attribution to Sources)**:\n   - «باوثوق ذرائع کے مطابق معلوم ہوا ہے کہ...»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "وزارتِ خارجہ کے ترجمان نے ہفتہ وار بریفنگ میں دو ٹوک مؤقف اختیار کیا کہ ہم اپنے ہمسایہ ممالک کے ساتھ پرامن اور باوقار تعلقات کے خواہاں ہیں۔",
+          "reading": "Wazaarat-e-khaarja ke tarjumaan ne hafta-waar briefing mein do-took mawqif ikhtiyaar kiya keh hum apne hamsaya mamaalik ke saath pur-amn aur baa-waqaar ta'alluqaat ke khwaahaan hain. [ʋəzaːrət̪-eː-xaːrdʒaː keː t̪ərdʒʊmaːn neː hɛft̪aː-ʋaːr briːfɪŋɡ mẽː d̪oː-ʈoːk mɔːqɪf ɪxt̪ɪjaːr kɪjaː kɛh həm əpneː həmsaːjaː məmaːlɪk keː saːt̪ʰ pʊr-əmn ɔːr baː-ʋəqaːr t̪əʔəlːʊqaːt̪ keː xʋaːhaːn hɛ̃ː] (vuh-zah-ruh-tay-khahr-JAH kay tuhr-joo-MAHN nay huhf-tah-VAHR briefing mayn DOH-took mow-QEEF eekh-tee-YAHR kee-YAH KYH HOOM uhp-NAY huhm-sah-YAH muh-mah-LEEK kay SAHTH poor-UHMN owr bah-vuh-QAH-eer tuh-uhl-loo-QAHT kay khvah-HAHN HYN)",
+          "translation": "The Foreign Office spokesperson adopted an unequivocal stance in the weekly briefing that we desire peaceful and dignified relations with neighboring countries [formal stance: mawqif ikhtiyaar kiya keh]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 19-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اقتصادی ماہرین نے اپنے تجزیاتی مقالے میں یہ خدشہ ظاہر کیا کہ اگر ٹیکس اصلاحات نہ کی گئیں تو مالیاتی خسارہ مزید بڑھ جائے گا۔",
+          "reading": "Iqtisaadi maahireen ne apne tajziyaati maqaalay mein yeh khadsha zaahir kiya keh agar tax islaahaat na ki gayeen to maaliyaati khasaara mazeed barh jaaye ga. [ɪqt̪ɪsaːd̪iː maːhɪriːn neː əpneː t̪ədʒzɪjaːt̪iː məqaːleː mẽː jɛh xəd̪ʃaː zaːhɪr kɪjaː kɛh əɡər ʈɛks ɪslaːhaːt̪ nə kiː ɡəʔĩː t̪oː maːlɪjaːt̪iː xəsaːraː məziːd̪ bəɽʱ dʒaːjeː ɡaː] (eeq-tee-sah-DEE mah-hee-REYN nay uhp-NAY tuhj-zee-yah-TEE muh-qah-LAY mayn YEH khuhd-SHAH zah-HEER kee-YAH KYH UH-guhr tax ees-lah-HAHT nuh kee guh-YEEN TOH mah-lee-yah-TEE khuh-sah-RAH muh-ZEED buhrh jah-YAY gah)",
+          "translation": "Economic experts expressed this apprehension in their analytical paper that if tax reforms are not undertaken, financial deficit will increase further [analytical: khadsha zaahir kiya keh]."
+        },
+        {
+          "target": "سیاسی رہنماؤں نے مشترکہ اعلامیے میں اس عزم کا اعادہ کیا کہ قومی یکجہتی کے تحفظ کے لیے تمام سیاسی جماعتیں ایک صفحے پر ہیں۔",
+          "reading": "Siyaasi rehnumaon ne mushtarka e'laamiya mein is azm ka i'aada kiya keh qaumi yakjehti ke tahaffuz ke liye tamaam siyaasi jama'atein ek safhay par hain. [sɪjaːsiː rɛɦnʊmaːʔõː neː mʊʃt̪ərkaː ɛʔlaːmɪjeː mẽː ɪs əzm kaː ɪʔaːd̪aː kɪjaː kɛh qɔːmiː jəkdʒɛɦtiː keː t̪əhəfːʊz keː lɪjeː t̪əmaːm sɪjaːsiː dʒəmaːʔət̪ẽː eːk səfheː pər hɛ̃ː] (see-yah-SEE ryh-noo-mah-OHN nay moosh-tuhr-KAH eh-lah-mee-YAY mayn EES UHLZM kah ee-AH-dah kee-YAH KYH QOW-mee yuhk-jyh-TEE kay tuh-huhf-FOOZ kay lee-AY tuh-MAHM see-yah-SEE juh-mah-uh-TEYN AYK suhf-HAY puhr HYN)",
+          "translation": "Political leaders reiterated the resolve in the joint declaration that all political parties are on one page for the protection of national solidarity [diplomatic: azm ka i'aada kiya keh]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "صحافتی رپورٹنگ: مؤقف اختیار کیا + خدشہ ظاہر کیا + عزم کا اعادہ کیا + واضح کیا کہ!"
+      ],
+      "culturalNotes": [
+        "اردو کے معیاری قومی اخبارات (جیسے روزنامہ جنگ، نوائے وقت اور ڈان اردو) میں اداریے اور تجزیے انہی شاندار اسالیب پر لکھے جاتے ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"بھائی\":",
+          "prompt": "سفارتی یا دفتری بیان میں کسی موقف کو بیان کرنے کا فصیح ترین انداز کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («بہن» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دادا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دادی» کی خرابی)"
+            "ترجمان نے دو ٹوک مؤقف اختیار کیا کہ... (The spokesperson adopted an unequivocal stance that - Standard diplomatic Urdu)",
+            "ترجمان نے بولا تھا کہ... (غیر رسمی)",
+            "ترجمان چپ تھا اور رویا (بے جوڑ)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "سفارتی اور صحافتی اردو میں «مؤقف اختیار کیا کہ...» فصیح ترین تعبیر ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"بھائی\":",
+          "prompt": "کسی پرانے عزم کو دوبارہ دہرانے کے لیے صحافتی اصطلاح کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دادا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دادی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بہن» کا غیر درست استعمال)"
+            "عزم کا اعادہ کیا (Azm ka i'aada kiya - Reiterated the resolve)",
+            "عزم کو دوبارہ بولا (غیر معیاری)",
+            "عزم کا نام لیا (سادہ)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "عزم کو دوبارہ پختہ کرنے کے لیے «عزم کا اعادہ کیا» لکھا جاتا ہے۔"
         }
       ]
     },
@@ -8135,17 +8174,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"بھائی\": Which sentence is completely correct?",
+          "prompt": "ادبی و صحافتی بالواسطہ اسلوب (Journalistic Discourse) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دادی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بہن» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دادا» سے متعلق)"
+            "ماہرینِ ماحولیات نے عالمی کانفرنس میں دو ٹوک مؤقف اختیار کیا کہ کاربن کے اخراج میں فوری کمی لائے بغیر کرۂ ارض کو موسمیاتی تباہی سے نہیں بچایا جا سکتا۔ (Environmental experts adopted a firm stance that without immediate reduction in carbon emissions, the earth cannot be saved from disaster.)",
+            "ماہرین نے گاڑی دیکھا تھا رویا تھا۔",
+            "صحافتی جملوں میں مؤقف کا لفظ آنا گرامر کی غلطی ہے۔",
+            "رپورٹنگ کے تمام الفاظ انگریزی سے ترجمہ ہوتے ہیں۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ماہرینِ ماحولیات نے عالمی کانفرنس میں دو ٹوک مؤقف اختیار کیا کہ کاربن کے اخراج میں فوری کمی لائے بغیر کرۂ ارض کو موسمیاتی تباہی سے نہیں بچایا جا سکتا۔» صحافتی بالواسطہ کلام کا شاندار شاہکار ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u19-l5": {
@@ -8153,53 +8193,62 @@
     "subject": "urdu",
     "unit": 19,
     "lessonNumber": 5,
-    "title": "بلاواسطہ اور بالواسطہ کلام (Reported Speech with کہ) (Part 5)",
+    "title": "بلاواسطہ اور بالواسطہ کلام کا جامع سمیکن (Reported Speech Grand Synthesis)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 19.5) with authentic precision.",
+    "objective": "بلاواسطہ اقوال، بالواسطہ تجزیات، صحافتی رپورٹنگ اور احکامات کے تمام نحوی اسالیب کو ایک عظیم الشان تاریخی بیانیے میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "بلاواسطہ اور بالواسطہ کلام کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **ادبی و تاریخی کمال**:\n   - جب بلاواسطہ قول («فرمایا کہ ”...“»)، بالواسطہ تجزیہ («واضح کیا کہ وہ...»)، حکمیہ ہدایت («حکم دیا کہ تیار رہیں»)، اور صحافتی شکوہ («مؤقف اختیار کیا کہ...») ایک ہی مربوط نثری پیرا گراف میں سمو دیے جائیں تو عبارت کو زبان و بیان کی معراج حاصل ہوتی ہے۔\n\n2. **تہذیبی و فکری جامعیت**:\n   - یہ متوازن اور شائستہ اسلوب اردو کے عظیم سوانح نگاروں، مؤرخین اور خطباء کی لازوال کتب کا طرۂ امتیاز ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "بانیِ قوم نے تاریخی خطبے میں فرمایا کہ ”اتحاد، ایمان اور تنظیم ہی ہماری کامیابی کی ضمانت ہیں“، ترجمان نے ان کے اس فرمان کی تشریح کرتے ہوئے واضح کیا کہ قوم اسی صورت میں سرخرو ہو سکتی ہے جب وہ ان زریں اصولوں پر دل و جان سے عمل کرے اور قائدین نے نوجوانوں کو تلقین کی کہ وہ تعمیرِ وطن میں اپنا بھرپور کردار ادا کریں۔",
+          "reading": "Baani-e-qawm ne taareekhi khutbay mein farmaaya keh \"Ittehaad, Imaan aur Tanzeem hi hamaari kaamyaabi ki zamaanat hain\", tarjumaan ne un ke is farmaan ki tashreeh kartay huay waazeh kiya keh qawm usi soorat mein surkhoo ho sakti hai jab woh in zarreen usoolon par dil-o-jaan se amal karay aur qaa'ideen ne naujawaanon ko talqeen ki keh woh ta'meer-e-watan mein apna bharpoor kirdaar ada karein. [baːniː-eː-qɔːm neː t̪aːriːxiː xʊt̪beː mẽː fərmaːjaː kɛh ɪt̪ːɪhaːd̪ iːmaːn ɔːr t̪ənziːm hiː həm-aːriː kaːmjaːbiː kiː zəmaːnət̪ hɛ̃ː t̪ərdʒʊmaːn neː ʊn keː ɪs fərmaːn kiː t̪əʃriːh kərteː hʊʔeː ʋaːzɪh kɪjaː kɛh qɔːm ʊsiː suːrət̪ mẽː sʊrxruː hoː səkt̪iː hɛː dʒəb ʋoːh ɪn zərːiːn ʊsuːlõː pər d̪ɪl-oː-dʒaːn seː əməl kəreː ɔːr qaːʔɪdiːn neː nɔːdʒəʋaːnõː koː t̪əlqiːn kiː kɛh ʋoːh t̪əʔmiːr-eː-ʋət̪ən mẽː əpnaː bʱərpuːr kɪrdaːr əd̪aː kərẽː] (BAH-nee-ay-QOWM nay tah-REE-khee khoot-BAY mayn fuhr-MAH-yah KYH eet-tuh-HAHD, ee-MAHN owr tuhn-ZEEM HEE huh-mah-REE kahm-yah-BEE kee zuh-mah-NUHT HYN, tuhr-joo-MAHN nay OON kay EES fuhr-MAHN kee tuhsh-REEH kuhr-TAY hoo-AY VAH-zeh kee-YAH KYH QOWM oo-SEE SOO-ruht mayn soorkh-ROO hoh suhk-TEE HY JUHB VOH EEN zuhr-REYN oo-SOO-lohn puhr DEEL-oh-JAHN say UH-muhl kuh-RAY owr qah-ee-DEEN nay now-juh-vah-NOHN koh tuhl-QEEN kee KYH VOH tuh-MEE-ray-vuh-TUHN mayn uhp-NAH buhr-POOR keer-DAHR uh-DAH kuh-REYN)",
+          "translation": "The founder of the nation said in his historic address [direct quote]: \"Unity, Faith, and Discipline are the guarantee of our success\", the spokesperson clarifying this statement explained that the nation can only succeed when it acts on these golden principles sincerely [indirect analysis], and leaders urged the youth that they play their full role in nation-building [reported exhortation]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 19-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "عدالتِ عالیہ نے دو ٹوک فیصلہ سناتے ہوئے کہا کہ انصاف کے تقاضے ہر حال میں پورے ہونے چاہییں اور انتظامیہ کو ہدایت کی کہ وہ مظلوم شہریوں کے حقوق کا تحفظ یقینی بنائے۔",
+          "reading": "Adaalat-e-aaliya ne do-took faisla sunaatay huay kaha keh insaaf ke taqaazay har haal mein pooray honay chaahiyein aur intizaamiya ko hidaayat ki keh woh mazloom shehriyon ke huqooq ka tahaffuz yaqeeni banaaye. [əd̪aːlət̪-eː-aːlɪjaː neː d̪oː-ʈoːk fɛːslaː sʊnaːt̪eː hʊʔeː kəhaː kɛh ɪnsaːf keː t̪əqaːzeː hər haːl mẽː puːreː hoːneː tʃaːhɪjẽː ɔːr ɪnt̪ɪzaːmɪjaː koː hɪd̪aːjət̪ kiː kɛh ʋoːh məzluːm ʃɛɦrɪjõː keː hʊquːq kaː t̪əhəfːʊz jəqiːniː bənaːjeː] (uh-dah-luh-tay-AH-lee-yah nay DOH-took FYS-lah soo-nah-TAY hoo-AY kuh-HAH KYH een-SAHF kay tuh-qah-ZAY HUHR HAHL mayn POO-ray hoh-NAY chah-hee-AYN owr een-tee-zah-mee-YAH koh hee-dah-YUHT kee KYH VOH muhz-LOOM shyh-ree-YOHN kay hoo-QOOQ kah tuh-huhf-FOOZ yuh-qee-NEE buh-NAH-yay)",
+          "translation": "The High Court stated while pronouncing an unequivocal verdict that demands of justice must be fulfilled in all circumstances and instructed the administration that it ensure the protection of oppressed citizens' rights [reported judicial directive]."
+        },
+        {
+          "target": "تاریخ دان نے اس عہد کا نقشہ کھینچتے ہوئے لکھا کہ بادشاہ نے دربار میں اعلان کیا کہ رعایا کی خوشحالی ہی سلطنت کی بقا ہے اور وزراء کو حکم دیا کہ وہ انصاف کا پرچم بلند رکھیں۔",
+          "reading": "Taareekh-daan ne is ahad ka naqsha kheenchti huay likha keh baadshaah ne darbaar mein e'laan kiya keh ri'aaya ki khushhaali hi saltanat ki baqa hai aur wuzara ko hukm diya keh woh insaaf ka parcham buland rakhein. [t̪aːriːx-d̪aːn neː ɪs əɦd̪ kaː nəqʃaː kʰiːntʃt̪iː hʊʔeː lɪkʰaː kɛh baːd̪ʃaːh neː d̪ərbaːr mẽː ɛʔlaːn kɪjaː kɛh rɪʔaːjaː kiː xʊʃhaːliː hiː səlt̪ənət̪ kiː bəqaː hɛː ɔːr ʋʊzəraː koː hʊkm d̪ɪjaː kɛh ʋoːh ɪnsaːf kaː pərtʃəm bʊlənd̪ rəkʰẽː] (tah-REEKH-dahn nay EES UHH-duh kah nuhq-SHAH kheench-TEE hoo-AY leekh-AH KYH bahd-SHAH nay duhr-BAHR mayn eh-LAHN kee-YAH KYH ree-AH-yah kee khoosh-hah-LEE HEE suhl-tuh-NUHT kee buh-QAH HY owr voo-zuh-RAH koh HOOKM dee-YAH KYH VOH een-SAHF kah puhr-CHUHM boo-LUHND ruh-KHEYN)",
+          "translation": "The historian wrote while drawing a map of that era that the king announced in court that prosperity of subjects is the survival of kingdom and ordered ministers that they keep the flag of justice high."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع بیانیہ سمیکن: فرمایا کہ ”اصل قول“ (بلاواسطہ) + واضح کیا کہ (بالواسطہ) + ہدایت کی کہ (حکمیہ) = فصاحت کا کمال!"
+      ],
+      "culturalNotes": [
+        "اردو کی تاریخی دستاویزات اور سوانحی ادب (جیسے حیاتِ جاوید، یادگارِ غالب اور سیرت النبی) میں بلاواسطہ اور بالواسطہ کلام کا یہ حسین سمیکن اردو نثر کا سب سے بلند معیار مانا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"بہن\":",
+          "prompt": "بلاواسطہ اور بالواسطہ کلام کے جامع امتزاج کا فصیح جملہ منتخب کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («دادا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دادی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بیٹا» کی خرابی)"
+            "قائد نے فرمایا کہ ”سچ بولو“، ترجمان نے واضح کیا کہ قوم عمل کرے اور ہدایت کی کہ متحد رہیں (Masterful synthesis of direct quote, indirect statement, and reported instruction)",
+            "قائد نے بولا تھا کھانا کھایا تھا رویا تھا اور سو گیا (بے ربط ماضی)",
+            "وہ کہتا رہتا کرتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«قائد نے فرمایا کہ ”سچ بولو“، ترجمان نے واضح کیا کہ قوم عمل کرے اور ہدایت کی کہ متحد رہیں» بلاواسطہ، بالواسطہ اور حکمیہ کلام کا کامل سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"بہن\":",
+          "prompt": "بلاواسطہ اور بالواسطہ کلام کا جامع سمیکن تاریخی بیانیے کو کیا خوبی بخشتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دادی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بیٹا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دادا» کا غیر درست استعمال)"
+            "اصل تاریخی اقوال کی حرمت کو برقرار رکھتے ہوئے ان کی عصری تشریح اور انتظامی احکامات کو ایک باوقار تسلسل میں پیش کرنا (Preserving original quotes while integrating contemporary analysis and directives seamlessly)",
+            "صرف صفحات بھرنا",
+            "صرف لغت کو دہرانا",
+            "بے معنی تکرار پیدا کرنا"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ اصل اقوال کی حرمت کے ساتھ تجزیاتی و انتظامی تسلسل قائم کرتا ہے۔"
         }
       ]
     },
@@ -8207,17 +8256,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"بہن\": Which sentence is completely correct?",
+          "prompt": "بلاواسطہ اور بالواسطہ کلام کے جامع سمیکن (Reported Speech Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بیٹا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دادا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دادی» سے متعلق)"
+            "دانشور نے تقریر میں فرمایا کہ ”علم روشنی ہے“، ماہرین نے اس کی تصدیق کرتے ہوئے واضح کیا کہ جدید دور میں وہی قومیں زندہ رہیں گی جو تحقیق پر توجہ دیں اور حکومت سے مطالبہ کیا کہ تعلیمی بجٹ میں اضافہ کیا جائے۔ (The scholar said: \"Knowledge is light\" [direct], experts confirming explained that in modern era nations focusing on research will survive [indirect], and demanded that budget be increased [reported directive].)",
+            "دانشور نے کہا تھا اور گاڑی روتی تھی۔",
+            "جامع سمیکن صرف عدالت کے فیصلے میں جائز ہے۔",
+            "بلاواسطہ اور بالواسطہ جملے ایک پیرا گراف میں اکٹھے نہیں آ سکتے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«دانشور نے تقریر میں فرمایا کہ ”علم روشنی ہے“، ماہرین نے اس کی تصدیق کرتے ہوئے واضح کیا کہ جدید دور میں وہی قومیں زندہ رہیں گی جو تحقیق پر توجہ دیں اور حکومت سے مطالبہ کیا کہ تعلیمی بجٹ میں اضافہ کیا جائے۔» کلام کے تمام اسالیب کا شاہکار سمیکن ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u20-l1": {
