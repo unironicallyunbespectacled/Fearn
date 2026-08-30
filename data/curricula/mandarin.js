@@ -9272,85 +9272,89 @@
     "subject": "mandarin",
     "unit": 16,
     "lessonNumber": 1,
-    "title": "把字句的深层结构与处置义 (The BA Disposal Construction) (第1讲)",
+    "title": "「把」字句基本句型、处置义核心与宾语「有定性/特定性」制约 (Disposal Semantics & Definite Object Constraint)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：把字句的句法语义条件：谓语动词的处置性、宾语的有定性及补语的强制要求。 (第1部分)。",
+    "objective": "系统掌握现代汉语「把」字句基本句型结构、深层处置义（使客体产生位置/状态/归属变化），深刻领会宾语必须具备「有定性/已知特指」的核心语法制约。",
     "presentation": {
-      "explanation": "",
+      "explanation": "「把」字句（又称处置句）是现代汉语中最具特色且使用频率极高的一种主动句式：\n\n一、「把」字句基本句型框架与深层处置义：\n- 句法框架：主语（动作发出者） + 把 + 介词宾语（处置对象） + 及物动词 + 其他成分（补语/助词/宾语）。\n- 深层处置义核心：主语对「把」字后面的客体实施某种动作，使其产生某种结果、位置移动、形态转化、状态改变或归属转移。\n- 范例说明：我把衣服洗干净了（状态改变）、他把书放在桌子上（位置移动）、我们把作业交了（归属转移）。\n\n二、「把」字句核心语法制约一：【宾语必须具备「有定性（Definiteness）」】！\n- 句法机理：「把」字后面的宾语必须是说话双方在语境中心中有数、已知、确指的具体事物，绝对不能是泛指无定名词！\n1. 病句：我把一本书看完了。改正：我把那本书看完了（加指示代词特指）/ 我看完了一本书（使用普通 SVO 句式）。\n2. 规范：他把老师布置的作业做好了（定语特指）、请把门关上（语境特定唯一对象）。\n\n三、「把」字句核心语法制约二：【谓语动词绝不能光秃秃单独出现】！\n- 动词后面必须带有补充成分（如动态助词「了/着」、重叠动词、结果补语、趋向补语、介词短语补语等），以说明处置的结果或状态。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「把字句的深层结构与处置义 (The BA Disposal Construction)」的核心语法法则与应用范例 (16.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '把字句的深层结构与处置义 (The BA Disposal Construction)' in simple terms to students at the academic seminar."
+          "target": "请各位研究人员在离开实验室之前，务必把所有精密仪器和总电源开关关好。(Qǐng gèwèi yánjiū rényuán zài líkāi shíyànshì zhīqián, wùbì bǎ suǒyǒu jīngmì yíqì hé zǒng diànyuán kāiguān guānhǎo.)",
+          "reading": "[t͡ɕʰiŋ˨˩˦ kɤ˥˩.weɪ̯˥˩ jan˧˥.t͡ɕjoʊ̯ kɤ˥˩.weɪ̯ ʐən˧˥.jɥɛn˧˥ t͡saɪ̯˥˩ li˧˥.kʰaɪ̯ ʂɨ˧˥.jɛn˥˩.ʂɨ˥˩ ʈ͡ʂɨ˥.t͡ɕjɛn˥, u˥˩.pi˥˩ pa˨˩˦ swɔ˨˩.joʊ̯˨˩˦ t͡ɕiŋ˥.mi˥˩ i˧˥.t͡ɕʰi˥˩ xɤ˧˥ t͡sʊŋ˨˩˦ tjɛn˥˩.jɥɛn˧˥ kʰaɪ̯˥.kwan˥ kwan˥.xaʊ̯˨˩˦] (Qǐng gè-wèi yán-jiū rén-yuán zài lí-kāi shí-yàn-shì zhī-qián, wù-bì bǎ suǒ-yǒu jīng-mì yí-qì hé zǒng diàn-yuán kāi-guān guān-hǎo.)",
+          "translation": "Researchers, before leaving the laboratory, please be sure to turn off all precision instruments and the main power switch properly."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (16.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "助教老师已经把本学期期末考试的复习大纲和模拟试卷全部上传到教学系统里了。(Zhùjiào lǎoshī yǐjīng bǎ běn xuéqī qīmò kǎoshì de fùxí dàgāng hé mónǐ shìjuàn quánbù shàngchuán dào jiàoxué xìtǒng lǐ le.)",
+          "reading": "[ʈ͡ʂu˥˩.t͡ɕjaʊ̯˥˩ laʊ̯˨˩.ʂɨ˥ i˨˩˦.t͡ɕiŋ˥ pa˨˩˦ pən˨˩˦ ɕɥɛ˧˥.t͡ɕʰi˥ t͡ɕʰi˥.mwɔ˥˩ kʰaʊ̯˨˩.ʂɨ˥˩ tɤ fu˥˩.ɕi˧˥ ta˥˩.kɑŋ˥ xɤ˧˥ mwɔ˧˥.ni˨˩˦ ʂɨ˥˩.t͡ɕɥɛn˥˩ t͡ɕʰyɛn˧˥.pu˥˩ ʂɑŋ˥˩.t͡ʂʰwan˧˥ taʊ̯˥˩ t͡ɕjaʊ̯˥˩.ɕɥɛ˧˥ ɕi˥˩.tʰʊŋ˨˩˦ li˨˩˦ lɤ] (Zhù-jiào lǎo-shī yǐ-jīng bǎ běn xué-qī qī-mò kǎo-shì de fù-xí dà-gāng hé mó-nǐ shì-juàn quán-bù shàng-chuán dào jiào-xué xì-tǒng lǐ le.)",
+          "translation": "The teaching assistant has already uploaded the review outline and mock exam papers for this semester's final exam to the teaching system."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (16.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "同学们齐心协力，只用了一个小时就把整间多功能阶梯教室打扫得干干净净。(Tóngxuémen qíxīn-xiélì, zhǐ yòng le yí ge xiǎoshí jiù bǎ zhěng jiān duōgōngnéng jiētī jiàoshì dǎsǎo de gāngānjìngjìng.)",
+          "reading": "[tʰʊŋ˧˥.ɕɥɛ˧˥.mən t͡ɕʰi˧˥.ɕin˥.ɕjɛ˧˥.li˥˩, ʈ͡ʂɨ˨˩˦ jʊŋ˥˩ lɤ i˥ kɤ ɕjaʊ̯˨˩.ʂɨ˧˥ t͡ɕjoʊ̯˥˩ pa˨˩˦ ʈ͡ʂɤŋ˨˩˦ t͡ɕjɛn˥ twɔ˥.kʊŋ˥.nɤŋ˧˥ t͡ɕjɛ˥.tʰi˥ t͡ɕjaʊ̯˥˩.ʂɨ˥˩ ta˨˩˦.saʊ̯˨˩˦ tɤ kan˥.kan˥.t͡ɕiŋ˥˩.t͡ɕiŋ˥˩] (Tóng-xué-men qí-xīn-xié-lì, zhǐ yòng le yí ge xiǎo-shí jiù bǎ zhěng jiān duō-gōng-néng jiē-tī jiào-shì dǎ-sǎo de gān-gān-jìng-jìng.)",
+          "translation": "Working with concerted effort, the students took only an hour to sweep the entire multifunctional lecture hall spotlessly clean."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (16.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "图书馆管理员认真地把归还上架的珍贵古籍文献逐一整理分类并登记入库。(Túshūguǎn guǎnlǐyuán rènzhēn de bǎ guīhuán shàngjià de zhēnguì gǔjí wénxiàn zhúyī zhěnglǐ fēnlèi bìng dēngjì rùkù.)",
+          "reading": "[tʰu˧˥.ʂu˥.kwan˨˩˦ kwan˨˩.li˨˩.jɥɛn˧˥ ʐən˥˩.ʈ͡ʂən tɤ pa˨˩˦ kweɪ̯˥.xwan˧˥ ʂɑŋ˥˩.t͡ɕja˥˩ tɤ ʈ͡ʂəŋ˥.kweɪ̯˥˩ ku˨˩.t͡ɕi˧˥ wən˧˥.ɕjɛn˥˩ ʈ͡ʂu˧˥.i˥ ʈ͡ʂɤŋ˨˩.li˨˩˦ fən˥.leɪ̯˥˩ piŋ˥˩ tɤŋ˥.t͡ɕi˥˩ ʐu˥˩.kʰu˥˩] (Tú-shū-guǎn guǎn-lǐ-yuán rèn-zhēn de bǎ guī-huán shàng-jià de zhēn-guì gǔ-jí wén-xiàn zhú-yī zhěng-lǐ fēn-lèi bìng dēng-jì rù-kù.)",
+          "translation": "The librarian earnestly organized and classified the returned precious ancient books and literature one by one and registered them into the archive."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "把字处置表改变，宾语特定心有数；动词后头必带尾，了着补语才合格！"
+      ],
+      "culturalNotes": [
+        "「把」字句深刻反映了汉民族重事实结果与主观能动处置的思维方式。在学术科研、实验室管理与日常事务中，「把」字句能够极为干脆利落地交代处置结果。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「把字句的深层结构与处置义 (The BA Disposal Construction)」（第1讲）的标准汉语规范？",
+          "prompt": "在「把」字句中，「把」字后面的宾语成分必须满足的语法语义条件是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「把字句的深层结构与处置义 (The BA Disposal Construction)」的核心语法法则与应用范例 (16.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (16.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (16.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (16.1.w3)"
+            "必须是说话双方已知、有定特指的具体对象 (Definite/Specific object known to context)",
+            "必须是任意无定的一般泛指名词（如一本书、一个人）",
+            "必须是形容词或副词",
+            "必须是不及物动词"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「把」字句宾语必须具备有定性，不能是泛指无定名词。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "下列哪一个句子犯了「把字句动词单独光秃秃出现、缺少补语或其他成分」的语法错误？",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "*他把作业做。(Incorrect: Bare verb without complement/aspect particle)",
+            "他把作业做完了。",
+            "他把作业做好了。",
+            "他把作业交给了老师。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「把」字句谓语动词绝不能单独光秃秃出现，必须带结果补语或助词。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「把字句的深层结构与处置义 (The BA Disposal Construction)」的正式语境下，最准确得体的表达是哪一项？（第16.1题）",
+          "prompt": "要表达「请将那扇窗户关紧」，完全符合「把」字句语法规范的句子是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (16.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (16.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (16.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (16.1.x3)"
+            "请把那扇窗户关好 / 关上。(Proper BA sentence with definite object & complement)",
+            "请把一扇窗户关。",
+            "请关把那扇窗户好。",
+            "请把窗户非常关。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「把那扇窗户关好」宾语特指，动词后带结果补语「好」，完全合规。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u16-l1）所要求的高阶语言表达？",
+          "prompt": "下列哪一项「把」字句的表达完全符合现代汉语语法规则？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (16.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (16.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (16.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (16.1.y3)"
+            "实验室助理把新采购的试剂整齐地摆放在药品柜里。(Correct disposal BA sentence)",
+            "实验室助理把试剂摆放。(缺少补语)",
+            "实验室助理摆放把试剂在药品柜。(语序错乱)",
+            "实验室助理把一种试剂摆放药品柜。(宾语无定且语序残缺)"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "首选选项宾语有定，动词后有介词短语补语「在药品柜里」，语法极为严整。"
         }
       ]
     },
@@ -9358,25 +9362,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「把字句的深层结构与处置义 (The BA Disposal Construction)」的掌握程度，请选出表述完全正确的标准范句（测试 16-1）：",
+          "prompt": "请选出下列「把」字句中宾语有定、动词搭配得当且补语结构最严密的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (16.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (16.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (16.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (16.1.z3)"
+            "工程师在发布新版本前，把测试报告中指出的所有安全漏洞全部修复好了。(宾语特指，处置动词与结果补语搭配完美)",
+            "工程师把漏洞修复。(动词残缺无补语)",
+            "工程师把一个漏洞修复在电脑。(无定宾语且补语混乱)",
+            "工程师修复把所有漏洞好。(语序颠倒严重)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句在宾语特指性、处置动词及后置结果补语「好」的配合上堪称现代汉语把字句的典范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u16-l1）的核心关键词（例如「把字句的」）：",
+          "prompt": "请输入现代汉语中用于引出处置对象的核心单字介词标记（拼音为 bǎ）：",
           "acceptedAnswers": [
-            "把字句的",
-            "把字句的深层",
-            "把字句的深层结构与处置义"
+            "把"
           ],
-          "explanation": "正确的核心关键词为「把字句的」。"
+          "explanation": "字词「把」是处置式句型最核心的句法标志介词。"
         }
       ],
       "passThreshold": 0.8
@@ -9387,85 +9389,89 @@
     "subject": "mandarin",
     "unit": 16,
     "lessonNumber": 2,
-    "title": "把字句的深层结构与处置义 (The BA Disposal Construction) (第2讲)",
+    "title": "「把」字句及物动词限制与不可进入「把」字句的动词类型 (Verbal Restrictions in BA-Sentences)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：把字句的句法语义条件：谓语动词的处置性、宾语的有定性及补语的强制要求。 (第2部分)。",
+    "objective": "深刻掌握「把」字句动词的强处置性与支配性要求，精准识记与严格排除四类不可进入把字句的动词（心理/感觉感知/存在判断/趋向不及物动词）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "并不是所有及物动词都能进入「把」字句。能够进入「把」字句的谓语动词必须具备「强处置性」与「使动支配性」：\n\n一、能够进入「把」字句的及物动词核心特征：\n- 动作必须能对客体施加积极影响，引起客体的位置移动、形态破坏、所有权转移或状态变化：\n- 典型动词：放、交、借、送、寄、打、洗、修、改、切、煮、卖、扔、推、换、搬、整理、翻译等。\n\n二、四类【绝对不能进入「把」字句】的动词大类：\n1. 心理情感动词：想、爱、喜欢、怕、希望、讨厌、同意、担心等。\n- 病句：*我把中国文化喜欢。改正：我喜欢中国文化。\n2. 感觉感知与思维动词：看见、听见、知道、认识、觉得、认为、同意等。\n- 病句：*他把那个声音听见了。改正：他听见了那个声音。\n3. 存在、判断与联系动词：是、有、在、像、等于、属于等。\n- 病句：*他把张老师是爸爸。改正：张老师是他的爸爸。\n4. 趋向非支配不及物动词：来、去、上、下、进、出、回、过等单独作谓语时。\n- 病句：*我把他来。改正：我请他来 / 我让他来（兼语句）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「把字句的深层结构与处置义 (The BA Disposal Construction)」的核心语法法则与应用范例 (16.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '把字句的深层结构与处置义 (The BA Disposal Construction)' in simple terms to students at the academic seminar."
+          "target": "班长在晨会结束后，立即把各组同学提交的社会实践调查报告送到了辅导员办公室。(Bānzhǎng zài chénhuì jiéshù hòu, lìjí bǎ gè zǔ tóngxué tíjiāo de shèhuì shíjiàn diàochá bàogào sòng dào le fǔdǎoyuán bàngōngshì.)",
+          "reading": "[pan˥.ʈ͡ʂɑŋ˨˩˦ t͡saɪ̯˥˩ ʈ͡ʂʰən˧˥.xweɪ̯˥˩ t͡ɕjɛ˧˥.ʂu˥˩ xoʊ̯˥˩, li˥˩.t͡ɕi˧˥ pa˨˩˦ kɤ˥˩ t͡su˨˩˦ tʰʊŋ˧˥.ɕɥɛ˧˥ tʰi˧˥.t͡ɕjaʊ̯ tɤ ʂɤ˥˩.xweɪ̯˥˩ ʂɨ˧˥.t͡ɕjɛn˥˩ tjaʊ̯˥.t͡ʂʰa˧˥ paʊ̯˥˩.kaʊ̯˥˩ sʊŋ˥˩ taʊ̯˥˩ lɤ fu˨˩˦.taʊ̯˨˩.jɥɛn˧˥ pan˥.kʊŋ˥.ʂɨ˥˩] (Bān-zhǎng zài chén-huì jié-shù hòu, lì-jí bǎ gè zǔ tóng-xué tí-jiāo de shè-huì shí-jiàn diào-chá bào-gào sòng dào le fǔ-dǎo-yuán bàn-gōng-shì.)",
+          "translation": "After the morning meeting concluded, the class monitor immediately sent the social practice survey reports submitted by each group to the counselor's office."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (16.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "厨师手法娴熟地把新鲜蔬菜和豆腐切成细丝，准备烹制正宗的四川家常名菜。(Chúshī shǒufǎ xiánshú de bǎ xīnxiān shūcài hé dòufu qiē chéng xìsī, zhǔnbèi pēngzhì zhèngzhōng de Sìchuān jiācháng míngcài.)",
+          "reading": "[ʈ͡ʂʰu˧˥.ʂɨ˥ ʂoʊ̯˨˩.fa˨˩˦ ɕjɛn˧˥.ʂu˧˥ tɤ pa˨˩˦ ɕin˥.ɕjɛn˥ ʂu˥.t͡sʰaɪ̯˥˩ xɤ˧˥ toʊ̯˥˩.fu t͡ɕʰjɛ˥ ʈ͡ʂʰəŋ˧˥ ɕi˥˩.sɨ˥, ʈ͡ʂwən˨˩.peɪ̯˥˩ pʰəŋ˥.ʈ͡ʂɨ˥˩ ʈ͡ʂɤŋ˥˩.ʈ͡ʂʊŋ˥ tɤ sɨ˥˩.t͡ʂʰwan˥ t͡ɕja˥.ʈ͡ʂʰɑŋ˧˥ miŋ˧˥.t͡sʰaɪ̯˥˩] (Chú-shī shǒu-fǎ xián-shú de bǎ xīn-xiān shū-cài hé dòu-fu qiē chéng xì-sī, zhǔn-bèi pēng-zhì zhèng-zhōng de Sì-chuān jiā-cháng míng-cài.)",
+          "translation": "The chef skillfully cut the fresh vegetables and tofu into thin shreds, preparing to cook authentic Sichuan homestyle dishes."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (16.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "工程师经过反复调试，终于把系统软件中隐藏的核心漏洞彻底修复并更新完毕。(Gōngchéngshī jīngguò fǎnfù tiáoshì, zhōngyú bǎ xìtǒng ruǎnjiàn zhōng yǐncáng de héxīn lòudòng chèdǐ xiūfù bìng gēngxīn wánbì.)",
+          "reading": "[kʊŋ˥.ʈ͡ʂʰəŋ˧˥.ʂɨ˥ t͡ɕiŋ˥.kwo˥˩ fan˨˩.fu˥˩ tʰjaʊ̯˧˥.ʂɨ˥˩, ʈ͡ʂʊŋ˥.y˧˥ pa˨˩˦ ɕi˥˩.tʰʊŋ˨˩˦ ʐwan˨˩.t͡ɕjɛn˥˩ ʈ͡ʂʊŋ˥ in˨˩˦.t͡sʰɑŋ˧˥ tɤ xɤ˧˥.ɕin˥ loʊ̯˥˩.tʊŋ˥˩ t͡ʂʰɤ˥˩.ti˨˩˦ ɕjoʊ̯˥.fu˥˩ piŋ˥˩ kəŋ˥.ɕin˥ wan˧˥.pi˥˩] (Gōng-chéng-shī jīng-guò fǎn-fù tiáo-shì, zhōng-yú bǎ xì-tǒng ruǎn-jiàn zhōng yǐn-cáng de hé-xīn lòu-dòng chè-dǐ xiū-fù bìng gēng-xīn wán-bì.)",
+          "translation": "After repeated debugging, the engineer finally completely repaired and updated the core vulnerabilities hidden in the system software."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (16.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "请不要把废弃电池和塑料瓶随意丢弃，而应将其准确投放到分类垃圾桶中。(Qǐng búyào bǎ fèiqì diànchí hé sùliàopíng suíyì diūqì, ér yīng jiāng qí zhǔnquè tóufàng dào fēnlèi lājītǒng zhōng.)",
+          "reading": "[t͡ɕʰiŋ˨˩˦ pu˥.jaʊ̯˥˩ pa˨˩˦ feɪ̯˥˩.t͡ɕʰi˥˩ tjɛn˥˩.t͡sʰɨ˧˥ xɤ˧˥ su˥˩.ljaʊ̯˥˩.pʰiŋ˧˥ sweɪ̯˧˥.i˥˩ tjoʊ̯˥.t͡ɕʰi˥˩, aɚ˧˥ iŋ˥ t͡ɕjaŋ˥ t͡ɕʰi˧˥ ʈ͡ʂwən˨˩.t͡ɕʰɥɛ˥˩ tʰoʊ̯˧˥.fɑŋ˥˩ taʊ̯˥˩ fən˥.leɪ̯˥˩ la˥.t͡ɕi˥.tʰʊŋ˨˩˦ ʈ͡ʂʊŋ˥] (Qǐng bú-yào bǎ fèi-qì diàn-chí hé sù-liào-píng suí-yì diū-qì, ér yīng jiāng qí zhǔn-què tóu-fàng dào fēn-lèi lā-jī-tǒng zhōng.)",
+          "translation": "Please do not discard discarded batteries and plastic bottles at will, but instead cast them accurately into classified trash bins."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "心理感觉与知觉，是非存在莫用把；处置动作力道足，切洗修送把字跨！"
+      ],
+      "culturalNotes": [
+        "区分处置性动词与非处置性动词是掌握汉语句法精髓的试金石。正确运用「送、切、修、投放」等具有强支配力的动词，能让语言表达充满动感与力量。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「把字句的深层结构与处置义 (The BA Disposal Construction)」（第2讲）的标准汉语规范？",
+          "prompt": "下列哪一组动词属于心理情感或感觉认知动词，绝对【不能】进入「把」字句作主要谓语？",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「把字句的深层结构与处置义 (The BA Disposal Construction)」的核心语法法则与应用范例 (16.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (16.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (16.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (16.2.w3)"
+            "喜欢 / 爱 / 知道 / 认识 / 觉得 (Psychological/Cognitive verbs - strictly forbidden in BA)",
+            "切 / 洗 / 修 / 整理",
+            "放 / 借 / 送 / 递",
+            "搬 / 扔 / 关 / 开"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "心理情感和感觉认知动词（喜欢、爱、知道等）缺乏外在处置力，严禁进入「把」字句。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "下列哪一个句子犯了「将心理情感动词错误用于把字句」的语法病句？",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "*玛丽把中国书法很喜欢。(Psychological verb '喜欢' incorrectly used in BA sentence)",
+            "玛丽把书法作业写完了。",
+            "玛丽把毛笔放在桌子上。",
+            "玛丽把字帖借给了同学。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「喜欢」是心理动词，不能进入「把」字句，应改为「玛丽很喜欢中国书法」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「把字句的深层结构与处置义 (The BA Disposal Construction)」的正式语境下，最准确得体的表达是哪一项？（第16.2题）",
+          "prompt": "动词「翻译」具有很强的使动转化处置性，下列哪一项把字句搭配最为规范？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (16.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (16.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (16.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (16.2.x3)"
+            "学者把这部古代经典著作翻译成了现代汉语。(Proper complement: 动词 + 成 + 结果)",
+            "学者把这部著作翻译喜欢。",
+            "学者翻译把这部著作现代汉语。",
+            "学者把现代汉语翻译这部著作。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「把......翻译成......」是表达形态转换的标准处置句式。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u16-l2）所要求的高阶语言表达？",
+          "prompt": "判断正误：判断动词「是」和存在动词「有」可以随意进入把字句（例如：*我把他是朋友）。",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (16.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (16.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (16.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (16.2.y3)"
+            "错误：判断与存在动词（是/有/在）绝不能进入把字句 (False: '是/有' cannot enter BA)",
+            "正确：任何动词都能进入把字句",
+            "只有在书面语中可以这样用",
+            "古代汉语可以现代汉语不可以"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「是、有、在」等联系与存在动词绝对不可进入把字句。"
         }
       ]
     },
@@ -9473,25 +9479,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「把字句的深层结构与处置义 (The BA Disposal Construction)」的掌握程度，请选出表述完全正确的标准范句（测试 16-2）：",
+          "prompt": "请选出下列句子中动词处置性最强、语法结构完全合规的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (16.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (16.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (16.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (16.2.z3)"
+            "软件工程师加班加点，终于把数据库中的异常冗余记录全部清除干净了。(清除干净：强处置动词加结果补语)",
+            "软件工程师把数据库知道得很清楚。(知道为认知动词不可用把)",
+            "软件工程师把那个软件很爱。(爱为情感动词不可用把)",
+            "软件工程师把那个程序是一个系统。(是为判断动词不可用把)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "首选选项使用动作处置动词「清除」配合结果补语「干净」，其余三项均误用了认知、情感与判断动词。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u16-l2）的核心关键词（例如「把字句的」）：",
+          "prompt": "请输入表达将某事物转变为另一形态的核心单字介词补语（例如把文章翻译「」中文，拼音为 chéng）：",
           "acceptedAnswers": [
-            "把字句的",
-            "把字句的深层",
-            "把字句的深层结构与处置义"
+            "成"
           ],
-          "explanation": "正确的核心关键词为「把字句的」。"
+          "explanation": "字词「成」作为结果补语表示转化与变成。"
         }
       ],
       "passThreshold": 0.8
@@ -9502,85 +9506,89 @@
     "subject": "mandarin",
     "unit": 16,
     "lessonNumber": 3,
-    "title": "把字句的深层结构与处置义 (The BA Disposal Construction) (第3讲)",
+    "title": "「把」字句补语类型全系配套（结果/趋向/数量/介词短语补语） (Complements Required in BA-Sentences)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：把字句的句法语义条件：谓语动词的处置性、宾语的有定性及补语的强制要求。 (第3部分)。",
+    "objective": "全面掌握「把」字句动词后必须附带的四大补语系统（结果/趋向/动量时量/介词短语「在/到/给/成/入」），熟练组构高阶复合动补处置结构。",
     "presentation": {
-      "explanation": "",
+      "explanation": "「把」字句要求动词后必须具有说明动作结果、趋向或终结状态的补充成分，主要包含四大类补语系统：\n\n一、结果补语系统（说明处置导致的状态改变）：\n- 句型：主语 + 把 + 宾语 + 动词 + 结果补语（好 / 完 / 错 / 碎 / 破 / 掉 / 脏等）。\n- 范例：请把文件收好、大卫把玻璃杯打碎了、他把钥匙丢掉了。\n\n二、趋向补语系统（说明空间位移与方向走向）：\n- 句型：主语 + 把 + 宾语 + 动词 + 趋向补语（出来 / 进去 / 上来 / 下去 / 拿过来 / 寄过去）。\n- 范例：请把护照拿出来、大家把桌子搬进去、他把资料传上来了。\n\n三、介词短语补语系统（说明空间落点、归属转移或形态转化）：\n1. 动词 + 在 / 到（空间位移终点）：把车停在车库里、把快递送到家门口。\n2. 动词 + 给（所有权与归属转移）：把调查报告交给领导、把礼物送给朋友。\n3. 动词 + 成 / 入（形态转化与进入）：把长篇小说改编成电影、把数据录入电脑。\n\n四、数量补语系统（说明动作频率动量或持续时量）：\n- 句型：主语 + 把 + 宾语 + 动词 + 动态助词「了」 + 数量补语（两遍 / 一下 / 半天）。\n- 范例：教授把这篇论文修改了三遍、他把事情考虑了半天。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「把字句的深层结构与处置义 (The BA Disposal Construction)」的核心语法法则与应用范例 (16.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '把字句的深层结构与处置义 (The BA Disposal Construction)' in simple terms to students at the academic seminar."
+          "target": "请大家把护照和登机牌从背包里拿出来，提前准备好以便安检人员快速核验。(Qǐng dàjiā bǎ hùzhào hé dēngjīpái cóng bèibāo lǐ ná chūlai, tíqián zhǔnbèi hǎo yǐbiàn ānjiǎn rényuán kuàisù héyàn.)",
+          "reading": "[t͡ɕʰiŋ˨˩˦ ta˥˩.t͡ɕja˥ pa˨˩˦ xu˥˩.ʈ͡ʂaʊ̯˥˩ xɤ˧˥ təŋ˥.t͡ɕi˥.pʰaɪ̯˧˥ t͡sʰʊŋ˧˥ peɪ̯˥˩.paʊ̯˥ li˨˩˦ na˧˥ t͡ʂʰu˥.laɪ̯, tʰi˧˥.t͡ɕʰjɛn˧˥ ʈ͡ʂwən˨˩.peɪ̯˥˩ xaʊ̯˨˩˦ i˨˩˦.pjɛn˥˩ an˥.t͡ɕjan˨˩˦ ʐən˧˥.jɥɛn˧˥ kʰwaɪ̯˥˩.su˥˩ xɤ˧˥.jɛn˥˩] (Qǐng dà-jiā bǎ hù-zhào hé dēng-jī-pái cóng bèi-bāo lǐ ná chū-lai, tí-qián zhǔn-bèi hǎo yǐ-biàn ān-jiǎn rén-yuán kuài-sù hé-yàn.)",
+          "translation": "Everyone, please take your passports and boarding passes out of your backpacks and prepare them in advance so that the security personnel can quickly verify them."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (16.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "留学生把这篇长篇学术论文从头到尾仔细通读了三遍，并把生词全部标注在笔记本上。(Liúxuéshēng bǎ zhè piān chángpiān xuéshù lùnwén cóng tóu dào wěi zǐxì tōngdú le sān biàn, bìng bǎ shēngcí quánbù biāozhù zài bǐjìběn shang.)",
+          "reading": "[ljoʊ̯˧˥.ɕɥɛ˧˥.ʂəŋ pa˨˩˦ ʈ͡ʂɤ˥˩ pʰjɛn˥ ʈ͡ʂʰɑŋ˧˥.pʰjɛn˥ ɕɥɛ˧˥.ʂu˥˩ lwən˥˩.wən˧˥ t͡sʰʊŋ˧˥ tʰoʊ̯˧˥ taʊ̯˥˩ weɪ̯˨˩˦ t͡sɨ˨˩.ɕi˥˩ tʰʊŋ˥.tu˧˥ lɤ san˥ pjɛn˥˩, piŋ˥˩ pa˨˩˦ ʂəŋ˥.t͡sʰɨ˧˥ t͡ɕʰyɛn˧˥.pu˥˩ pjaʊ̯˥.ʈ͡ʂu˥˩ t͡saɪ̯˥˩ pi˨˩.t͡ɕi˥˩.pən˨˩˦ ʂɑŋ] (Liú-xué-shēng bǎ zhè piān cháng-piān xué-shù lùn-wén cóng tóu dào wěi zǐ-xì tōng-dú le sān biàn, bìng bǎ shēng-cí quán-bù biāo-zhù zài bǐ-jì-běn shang.)",
+          "translation": "The international student thoroughly read this lengthy academic paper from beginning to end three times and marked all new words in his notebook."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (16.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "财务部负责人按时把本月的所有财务报表交给了总经理审阅签字。(Cáiwùbù fùzérén ànshí bǎ běnyuè de suǒyǒu cáiwù bàobiǎo jiāo gěi le zǒngjīnglǐ shěnyuè qiānzì.)",
+          "reading": "[t͡sʰaɪ̯˧˥.u˥˩.pu˥˩ fu˥˩.t͡sɤ˧˥.ʐən˧˥ an˥˩.ʂɨ˧˥ pa˨˩˦ pən˨˩.jɥɛ˥˩ tɤ swɔ˨˩.joʊ̯˨˩˦ t͡sʰaɪ̯˧˥.u˥˩ paʊ̯˥˩.pjaʊ̯˨˩˦ t͡ɕjaʊ̯˥ keɪ̯˨˩˦ lɤ t͡sʊŋ˨˩.t͡ɕiŋ˥.li˨˩˦ ʂən˨˩.jɥɛ˥˩ t͡ɕʰjɛn˥.t͡sɨ˥˩] (Cái-wù-bù fù-zé-rén àn-shí bǎ běn-yuè de suǒ-yǒu cái-wù bào-biǎo jiāo gěi le zǒng-jīng-lǐ shěn-yuè qiān-zì.)",
+          "translation": "The person in charge of the finance department handed all financial statements of this month over to the general manager on time for review and signature."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (16.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "翻译家耗费数年心血，把这部宏篇巨著成功翻译成了优美地道的现代汉语。(Fānyìjiā hàofèi shù nián xīnxuè, bǎ zhè bù hóngpiān jùzhù chénggōng fānyì chéng le yōuměi dìdao de xiàndài Hànyǔ.)",
+          "reading": "[fa˥.i˥˩.t͡ɕja˥ xaʊ̯˥˩.feɪ̯˥˩ ʂu˥˩ njɛn˧˥ ɕin˥.ɕɥɛ˥, pa˨˩˦ ʈ͡ʂɤ˥˩ pu˥˩ xʊŋ˧˥.pʰjɛn˥ t͡ɕy˥˩.ʈ͡ʂu˥˩ ʈ͡ʂʰəŋ˧˥.kʊŋ˥ fa˥.i˥˩ ʈ͡ʂʰəŋ˧˥ lɤ joʊ̯˥.meɪ̯˨˩˦ ti˥˩.taʊ̯ tɤ ɕjɛn˥˩.taɪ̯˥˩ xan˥˩.y˨˩] (Fān-yì-jiā hào-fèi shù nián xīn-xuè, bǎ zhè bù hóng-piān jù-zhù chéng-gōng fān-yì chéng le yōu-měi dì-dao de xiàn-dài Hàn-yǔ.)",
+          "translation": "Spending years of painstaking effort, the translator successfully translated this monumental epic into beautiful and authentic modern Chinese."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "结果趋向到给成，动词身后补语从；放在桌上换成钞，送去交好大功成！"
+      ],
+      "culturalNotes": [
+        "介词短语补语（在/到/给/成）是现代商务、科研与日常管理中指令下达的核心载体。「把A交给B」、「把A放在B」体现了极其明晰的责任流转与空间逻辑。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「把字句的深层结构与处置义 (The BA Disposal Construction)」（第3讲）的标准汉语规范？",
+          "prompt": "要表达「将书本归放到书架上」，最精准的介词短语补语搭配是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「把字句的深层结构与处置义 (The BA Disposal Construction)」的核心语法法则与应用范例 (16.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (16.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (16.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (16.3.w3)"
+            "把书放在书架上 (Complement of location: 动词 + 在 + 处所)",
+            "把书放成书架上",
+            "把书放给书架上",
+            "把书放到书架上做"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "表达空间落点与位置时，动词后搭配介词短语补语「在/到 + 处所」。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在句子「请把护照拿出来」中，「出来」充当的句子成分是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "趋向补语 (Directional complement indicating movement outward)",
+            "主语",
+            "状语",
+            "谓语中心动词"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「出来」表示动作位移由内向外的方向，是趋向补语。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「把字句的深层结构与处置义 (The BA Disposal Construction)」的正式语境下，最准确得体的表达是哪一项？（第16.3题）",
+          "prompt": "表达将某项任务或材料转移交给某人时，正确的「把」字句式是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (16.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (16.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (16.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (16.3.x3)"
+            "把报告交给辅导员 (Transfer complement: 动词 + 给 + 接收人)",
+            "把报告给交辅导员",
+            "给辅导员把报告交",
+            "把报告交成辅导员"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「动词 + 给 + 人」表达归属与所有权的转移交付。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u16-l3）所要求的高阶语言表达？",
+          "prompt": "下列哪一项把字句的数量补语使用完全正确？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (16.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (16.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (16.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (16.3.y3)"
+            "老师把重点语法规则强调了三遍。(Emphasized three times)",
+            "老师三遍把重点语法强调了。",
+            "老师把重点语法三遍强调了。",
+            "老师把三遍重点语法强调了。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "动量补语「三遍」必须置于动词及动态助词「了」之后。"
         }
       ]
     },
@@ -9588,25 +9596,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「把字句的深层结构与处置义 (The BA Disposal Construction)」的掌握程度，请选出表述完全正确的标准范句（测试 16-3）：",
+          "prompt": "请选出下列「把」字句中补语类别最丰富、句子结构最严密完整的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (16.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (16.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (16.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (16.3.z3)"
+            "研究员把实验采集到的海量原始数据录入到分析软件中，并把统计结果整理成了五份专题研究报告。(录入到.../整理成...两大介词补语配合极其严密)",
+            "研究员把数据录入，把报告整理。(缺少补语病句)",
+            "研究员录入把数据到软件成报告。(语序严重颠倒)",
+            "研究员把软件录入数据整理。(表意严重混乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句准确运用了「录入到」与「整理成」两大典型介词短语补语，展现了极高学术汉语素养。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u16-l3）的核心关键词（例如「把字句的」）：",
+          "prompt": "请输入表达归属所有权转移的核心单字介词补语（例如把作业交「」老师，拼音为 gěi）：",
           "acceptedAnswers": [
-            "把字句的",
-            "把字句的深层",
-            "把字句的深层结构与处置义"
+            "给"
           ],
-          "explanation": "正确的核心关键词为「把字句的」。"
+          "explanation": "字词「给」作为介词补语表示对象接收与归属交付。"
         }
       ],
       "passThreshold": 0.8
@@ -9617,85 +9623,89 @@
     "subject": "mandarin",
     "unit": 16,
     "lessonNumber": 4,
-    "title": "把字句的深层结构与处置义 (The BA Disposal Construction) (第4讲)",
+    "title": "「把」字句否定副词、能愿动词与时间副词位置规则 (Negation, Modals & Adverbials in BA-Sentences)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：把字句的句法语义条件：谓语动词的处置性、宾语的有定性及补语的强制要求。 (第4部分)。",
+    "objective": "彻底掌握「把」字句修饰语铁律：否定词（没/不/别）、能愿动词（想/要/能/可以/应该/必须）及时间副词必须一律置于「把」字之前的语序规则。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在现代汉语「把」字句中，各类修饰性状语的位置具有极其严格的句法铁律：\n\n一、否定副词的绝对位置：【必须置于「把」字之前】！\n- 核心否定词：没（没有）、不、别、千万别、决不等。\n- 句法框架：主语 + [否定副词] + 把 + 宾语 + 动词 + 补语。\n1. 病句：*我把作业没做完。 改正：我**没把**作业做完。\n2. 病句：*你把门别关上。 改正：你**别把**门关上。\n3. 病句：*他把秘密不告诉我。 改正：他**不把**秘密告诉我。\n\n二、能愿动词（情态动词）的绝对位置：【必须置于「把」字之前】！\n- 核心能愿动词：想、要、愿意、能、能够、可以、应该、应当、必须、得 (děi) 等。\n- 句法框架：主语 + [能愿动词] + 把 + 宾语 + 动词 + 补语。\n1. 病句：*我把药必须吃了。 改正：我**必须把**药吃了。\n2. 病句：*他把电脑想修好。 改正：他**想把**电脑修好。\n\n三、时间副词与状语的位置：【通常置于「把」字之前】！\n- 常见时间副词：已经、立刻、马上、常常、总、刚刚等。\n- 范例：工程师**已经把**系统升级完毕了、他**马上把**文件发给你。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「把字句的深层结构与处置义 (The BA Disposal Construction)」的核心语法法则与应用范例 (16.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '把字句的深层结构与处置义 (The BA Disposal Construction)' in simple terms to students at the academic seminar."
+          "target": "实验操作必须严格遵守安全规范，大家千万不要把易燃易爆化学品存放在高温靠近火源的地方。(Shíyàn cāozuò bìxū yángé zūnshǒu ānquán guīfàn, dàjiā qiānwàn búyào bǎ yìrán-yìbào huàxuépǐn cúnfàng zài gāowēn kàojìn huǒyuán de dìfang.)",
+          "reading": "[ʂɨ˧˥.jɛn˥˩ t͡sʰaʊ̯˥.t͡swoʊ̯˥˩ pi˥˩.ɕy˥ jan˧˥.kɤ˧˥ t͡swən˥.ʂoʊ̯˨˩˦ an˥.t͡ɕʰyɛn˧˥ kweɪ̯˥.fan˥˩, ta˥˩.t͡ɕja˥ t͡ɕʰjɛn˥.wan˥˩ pu˥.jaʊ̯˥˩ pa˨˩˦ i˥˩.ʐan˧˥.i˥˩.paʊ̯˥˩ xwa˥˩.ɕɥɛ˧˥.pʰin˨˩˦ t͡sʰwən˧˥.fɑŋ˥˩ t͡saɪ̯˥˩ kaʊ̯˥.wən˥ kʰaʊ̯˥˩.t͡ɕin˥˩ xwo˨˩.jɥɛn˧˥ tɤ ti˥˩.fɑŋ] (Shí-yàn cāo-zuò bì-xū yán-gé zūn-shǒu ān-quán guī-fàn, dà-jiā qiān-wàn bú-yào bǎ yì-rán-yì-bào huà-xué-pǐn cún-fàng zài gāo-wēn kào-jìn huǒ-yuán de dì-fang.)",
+          "translation": "Experimental operations must strictly abide by safety norms; everyone must never store flammable and explosive chemicals in high-temperature places close to fire sources."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (16.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "昨天晚上因为网络突发故障，他还没来得及把最终定稿的毕业论文发送给导师。(Zuótiān wǎnshang yīnwèi wǎngluò tūfā gùzhàng, tā hái méi láidejí bǎ zuìzhōng dìnggǎo de bìyè lùnwén fāsòng gěi dǎoshī.)",
+          "reading": "[t͡swɔ˧˥.tʰjɛn˥ wan˨˩.ʂɑŋ in˥.weɪ̯˥˩ wɑŋ˨˩˦.lu˥˩ tʰu˥.fa˥ ku˥˩.ʈ͡ʂɑŋ˥˩, tʰa˥ xaɪ̯˧˥ meɪ̯˧˥ laɪ̯˧˥.tɤ.t͡ɕi˧˥ pa˨˩˦ t͡sweɪ̯˥˩.ʈ͡ʂʊŋ˥ tiŋ˥˩.kaʊ̯˨˩˦ tɤ pi˥˩.jɛ˥˩ lwən˥˩.wən˧˥ fa˥.sʊŋ˥˩ keɪ̯˨˩˦ taʊ̯˨˩.ʂɨ˥] (Zuó-tiān wǎn-shang yīn-wèi wǎng-lù tū-fā gù-zhàng, tā hái méi lái-de-jí bǎ zuì-zhōng dìng-gǎo de bì-yè lùn-wén fā-sòng gěi dǎo-shī.)",
+          "translation": "Last night, due to a sudden network glitch, he hadn't yet had time to send the finalized graduation thesis to his supervisor."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (16.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "每一位科研人员都应该把追求学术真理与维护学术道德放在首要位置。(Měi yí wèi kēyán rényuán dōu yīnggāi bǎ zhuīqiú xuéshù zhēnlǐ yǔ wéihù xuéshù dàodé fàng zài shǒuyào wèizhi.)",
+          "reading": "[meɪ̯˨˩˦ i˥ weɪ̯˥˩ kʰɤ˥.jan˧˥ ʐən˧˥.jɥɛn˧˥ toʊ̯˥ iŋ˥.kaɪ̯˥ pa˨˩˦ ʈ͡ʂweɪ̯˥.t͡ɕʰjoʊ̯˧˥ ɕɥɛ˧˥.ʂu˥˩ ʈ͡ʂən˥.li˨˩˦ y˨˩˦ weɪ̯˧˥.xu˥˩ ɕɥɛ˧˥.ʂu˥˩ taʊ̯˥˩.tɤ˧˥ fɑŋ˥˩ t͡saɪ̯˥˩ ʂoʊ̯˨˩.jaʊ̯˥˩ weɪ̯˥˩.ʈ͡ʂɨ] (Měi yí wèi kē-yán rén-yuán dōu yīng-gāi bǎ zhuī-qiú xué-shù zhēn-lǐ yǔ wéi-hù xué-shù dào-dé fàng zài shǒu-yào wèi-zhi.)",
+          "translation": "Every researcher should place the pursuit of academic truth and the maintenance of academic ethics in the primary position."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (16.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "出门旅游前我们必须把行程计划做周全，千万不能把贵重证件和贵重物品遗忘在旅馆里。(Chūmén lǚyóu qián wǒmen bìxū bǎ xíngchéng jìhuà zuò zhōuquán, qiānwàn bù néng bǎ guìzhòng zhèngjiàn hé guìzhòng wùpǐn yíwàng zài lǚguǎn lǐ.)",
+          "reading": "[t͡ʂʰu˥.mən˧˥ ly˨˩.joʊ̯˧˥ t͡ɕʰjɛn˧˥ wɔ˨˩.mən pi˥˩.ɕy˥ pa˨˩˦ ɕiŋ˧˥.ʈ͡ʂʰəŋ˧˥ t͡ɕi˥˩.xwa˥˩ t͡swoʊ̯˥˩ ʈ͡ʂoʊ̯˥.t͡ɕʰyɛn˧˥, t͡ɕʰjɛn˥.wan˥˩ pu˥ nɤŋ˧˥ pa˨˩˦ kweɪ̯˥˩.ʈ͡ʂʊŋ˥˩ ʈ͡ʂəŋ˥˩.t͡ɕjɛn˥˩ xɤ˧˥ kweɪ̯˥˩.ʈ͡ʂʊŋ˥˩ u˥˩.pʰin˨˩˦ i˧˥.wɑŋ˥˩ t͡saɪ̯˥˩ ly˨˩.kwan˨˩˦ li˨˩˦] (Chū-mén lǚ-yóu qián wǒ-men bì-xū bǎ xíng-chéng jì-huà zuò zhōu-quán, qiān-wàn bù néng bǎ guì-zhòng zhèng-jiàn hé guì-zhòng wù-pǐn yí-wàng zài lǚ-guǎn lǐ.)",
+          "translation": "Before going traveling, we must make our travel plans comprehensive, and must never leave valuable documents and items behind in the hotel."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "没别不要想能应，要把把字挡在停；状语置于把字前，语序严谨句法精！"
+      ],
+      "culturalNotes": [
+        "「否定词/能愿动词在把前」是现代汉语语序逻辑的核心支柱。在起草法律合同、科研规程与公文规范时，严格保持该语序能确保指令严谨无歧义。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「把字句的深层结构与处置义 (The BA Disposal Construction)」（第4讲）的标准汉语规范？",
+          "prompt": "在「把」字句中，否定副词（没/不/别）和能愿动词（想/能/应该/必须）的正确放置位置是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「把字句的深层结构与处置义 (The BA Disposal Construction)」的核心语法法则与应用范例 (16.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (16.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (16.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (16.4.w3)"
+            "必须放在介词「把」字的前面 (Must be placed BEFORE '把')",
+            "必须放在主要谓语动词的后面",
+            "必须放在句末",
+            "必须放在宾语和动词之间"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "否定词和能愿动词必须统一置于「把」字之前。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "要表达「请不要把垃圾扔在地上」，语序完全正确的一项是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "请不要把垃圾扔在地上。(Negation '不要' precedes '把')",
+            "请把垃圾不要扔在地上。",
+            "请把不要垃圾扔在地上。",
+            "请把垃圾扔不要在地上。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "否定词「不要」必须置于「把」字前：不要把垃圾扔在地上。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「把字句的深层结构与处置义 (The BA Disposal Construction)」的正式语境下，最准确得体的表达是哪一项？（第16.4题）",
+          "prompt": "表达「我还没来得及把作业交上去」，下列哪一项语序是完全错误的？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (16.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (16.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (16.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (16.4.x3)"
+            "*我把作业还没来得及交上去。(Incorrect: Adverbial clause misplaced after '把')",
+            "我还没来得及把作业交上去。",
+            "作业我还没来得及交上去。",
+            "我还没把作业交上去。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "状语「还没来得及」错误放在了「把」字之后，属于典型语病。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u16-l4）所要求的高阶语言表达？",
+          "prompt": "在句子「我们必须把科研计划按时落实到位」中，能愿动词「必须」修饰的是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (16.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (16.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (16.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (16.4.y3)"
+            "整个「把科研计划按时落实到位」处置谓词结构 (Modifying the entire disposal predicate)",
+            "仅仅修饰主语「我们」",
+            "仅仅修饰宾语「科研计划」",
+            "修饰数量词"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "能愿动词放在「把」前修饰整个后接的处置谓语短语。"
         }
       ]
     },
@@ -9703,25 +9713,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「把字句的深层结构与处置义 (The BA Disposal Construction)」的掌握程度，请选出表述完全正确的标准范句（测试 16-4）：",
+          "prompt": "请选出下列把字句中否定副词与能愿动词位置最严谨规范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (16.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (16.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (16.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (16.4.z3)"
+            "青年学者在科研攻关中千万不能把暂时的失败当成放弃的借口，而应该把每一次挫折都化为奋进的动力。(否定词「千万不能」与能愿动词「应该」均精准置于「把」字前)",
+            "青年学者把失败千万不能当成借口。(否定词误置于把后)",
+            "青年学者把挫折应该化为动力。(能愿动词误置于把后)",
+            "青年学者把暂时的失败当成借口千万不能。(语序严重崩溃)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句中「千万不能把......」与「应该把......」完美遵守了否定词和能愿动词置于「把」前的铁律规则。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u16-l4）的核心关键词（例如「把字句的」）：",
+          "prompt": "请输入表达过去未完成处置动作的核心否定副词（例如我「」把作业写完，拼音为 méi）：",
           "acceptedAnswers": [
-            "把字句的",
-            "把字句的深层",
-            "把字句的深层结构与处置义"
+            "没",
+            "没有"
           ],
-          "explanation": "正确的核心关键词为「把字句的」。"
+          "explanation": "词语「没」或「没有」是表达否定过去或未完成处置的核心否定副词。"
         }
       ],
       "passThreshold": 0.8
@@ -9732,85 +9741,89 @@
     "subject": "mandarin",
     "unit": 16,
     "lessonNumber": 5,
-    "title": "把字句的深层结构与处置义 (The BA Disposal Construction) (第5讲)",
+    "title": "学术科研、办公协作与生活整理「把」字句综合叙事篇章 (Comprehensive Academic, Office & Life Management BA Narrative)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：把字句的句法语义条件：谓语动词的处置性、宾语的有定性及补语的强制要求。 (第5部分)。",
+    "objective": "融会贯通「把」字句肯定/否定句式、处置及物动词、各类复杂补语及状语语序，独立撰写行文流畅、逻辑周密的科研与办公综合叙事语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "将「把」字句的宾语有定性、处置动词限制、复杂补语系统（在/到/给/成/好/完）及否定与能愿动词前置规则熔于一炉，是汉语高阶书面语叙事的核心标志：\n\n一、学术科研与办公项目协作叙事脉络：\n1. 实验准备与设备核查：把所有精密检测仪器逐一校准好，把待测样本分类存放在恒温恒湿箱内。\n2. 数据处理与报告形成：把海量原始实验数据整理成直观清晰的可视化图表，把关键结论写入技术文档。\n3. 安全防护与流程规范：千万不能把核心代码随意泄露，必须把项目源代码完整备份到云端服务器中。\n4. 成果交付与团队协作：把最终成果报告按时提交给项目评审专家组，把工作任务圆满落实到位！\n\n二、全景式科研协作与办公管理纪实范文赏析：\n- 清晨一进入重点实验室，科研团队就迅速行动起来。张博士首先把所有精密仪器仔细检查校准了一遍，并把新送达的化学试剂妥善存放在防爆药品柜中。在数据分析阶段，大家齐心协力，不仅把成千上万条杂乱的测试数据整理成了条理分明的统计图表，还把隐藏的核心算法漏洞彻底修复完毕。为了确保数据资产的安全，技术主管特别强调：大家千万不能把未加密的研发文档保存在个人公共电脑上，必须把所有核心代码及时同步备份到受保护的专用服务器中。下班前，助理研究员认真地把最终定稿的项目可行性报告打印装订好，并按时交给了专家评审组。正是这种把严谨求实贯彻到每一个细节中的治学精神，把科技创新的宏伟蓝图一步步转化为了令人瞩目的现实硕果！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「把字句的深层结构与处置义 (The BA Disposal Construction)」的核心语法法则与应用范例 (16.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '把字句的深层结构与处置义 (The BA Disposal Construction)' in simple terms to students at the academic seminar."
+          "target": "早上刚到实验室，张博士就迅速把所有实验设备检查了一遍，并把测试样本放进恒温箱中。(Zǎoshang gāng dào shíyànshì, Zhāng bóshì jiù xùnsù bǎ suǒyǒu shíyàn shèbèi jiǎnchá le yí biàn, bìng bǎ cèshì yàngběn fàng jìn héngwēnxīang zhōng.)",
+          "reading": "[t͡saʊ̯˨˩˦.ʂɑŋ kɑŋ˥ taʊ̯˥˩ ʂɨ˧˥.jɛn˥˩.ʂɨ˥˩, ʈ͡ʂɑŋ˥ pwo˧˥.ʂɨ˥˩ t͡ɕjoʊ̯˥˩ ɕyn˥˩.su˥˩ pa˨˩˦ swɔ˨˩.joʊ̯˨˩˦ ʂɨ˧˥.jɛn˥˩ ʂɤ˥˩.peɪ̯˥˩ t͡ɕjɛn˨˩.ʈ͡ʂʰa˧˥ lɤ i˥ pjɛn˥˩, piŋ˥˩ pa˨˩˦ t͡sʰɤ˥˩.ʂɨ˥˩ jɑŋ˥˩.pən˨˩˦ fɑŋ˥˩ t͡ɕin˥˩ xəŋ˧˥.wən˥.ɕjaŋ˥ ʈ͡ʂʊŋ˥] (Zǎo-shang gāng dào shí-yàn-shì, Zhāng bó-shì jiù xùn-sù bǎ suǒ-yǒu shí-yàn shè-bèi jiǎn-chá le yí biàn, bìng bǎ cè-shì yàng-běn fàng jìn héng-wēn-xiāng zhōng.)",
+          "translation": "Just after arriving at the lab in the morning, Dr. Zhang quickly checked all experimental equipment once and placed the test samples into the constant-temperature box."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (16.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "课题组成员齐心协力，不仅把复杂的海量科研数据整理成了直观清晰的统计图表，还把核心学术成果成功发表在了国际权威期刊上。(Kètízǔ chéngyuán qíxīn-xiélì, bùjǐn bǎ fùzá de hǎiliàng kēyán shùjù zhěnglǐ chéng le zhíguān qīngxī de tǒngjì túbiǎo, hái bǎ héxīn xuéshù chéngguǒ chénggōng fābiǎo zài le guójì quánwēi qīkān shang.)",
+          "reading": "[kʰɤ˥˩.tʰi˧˥.t͡su˨˩˦ ʈ͡ʂʰəŋ˧˥.jɥɛn˧˥ t͡ɕʰi˧˥.ɕin˥.ɕjɛ˧˥.li˥˩, pu˥.t͡ɕin˨˩˦ pa˨˩˦ fu˥˩.t͡sa˧˥ tɤ xaɪ̯˨˩.ljaŋ˥˩ kʰɤ˥.jan˧˥ ʂu˥˩.t͡ɕy˥˩ ʈ͡ʂɤŋ˨˩.li˨˩˦ ʈ͡ʂʰəŋ˧˥ lɤ ʈ͡ʂɨ˧˥.kwan˥ t͡ɕʰiŋ˥.ɕi˥ tɤ tʰʊŋ˨˩.t͡ɕi˥˩ tʰu˧˥.pjaʊ̯˨˩˦, xaɪ̯˧˥ pa˨˩˦ xɤ˧˥.ɕin˥ ɕɥɛ˧˥.ʂu˥˩ ʈ͡ʂʰəŋ˧˥.kwo˨˩˦ ʈ͡ʂʰəŋ˧˥.kʊŋ˥ fa˥.pjaʊ̯˨˩˦ t͡saɪ̯˥˩ lɤ kwo˧˥.t͡ɕi˥˩ t͡ɕʰyɛn˧˥.weɪ̯˥ t͡ɕʰi˥.kʰan˥ ʂɑŋ] (Kè-tí-zǔ chéng-yuán qí-xīn-xié-lì, bù-jǐn bǎ fù-zá de hǎi-liàng kē-yán shù-jù zhěng-lǐ chéng le zhí-guān qīng-xī de tǒng-jì tú-biǎo, hái bǎ hé-xīn xué-shù chéng-guǒ chéng-gōng fā-biǎo zài le guó-jì quán-wēi qī-kān shang.)",
+          "translation": "Working with concerted effort, the research group members not only organized the complex, massive scientific data into intuitive and clear statistical charts, but also successfully published the core academic results in authoritative international journals."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (16.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "离职交接前，工程师认真把所有项目源代码备份到加密服务器里，并把交接文档完整移交给了新同事。(Lízhí jiāojiē qián, gōngchéngshī rènzhēn bǎ suǒyǒu xiàngmù yuándàimǎ bèifèn dào jiāmì fúwùqì lǐ, bìng bǎ jiāojiē wéndàng wánzhěng yíjiāo gěi le xīn tóngshì.)",
+          "reading": "[li˧˥.ʈ͡ʂɨ˧˥ t͡ɕjaʊ̯˥.t͡ɕjɛ˥ t͡ɕʰjɛn˧˥, kʊŋ˥.ʈ͡ʂʰəŋ˧˥.ʂɨ˥ ʐən˥˩.ʈ͡ʂən pa˨˩˦ swɔ˨˩.joʊ̯˨˩˦ ɕjaŋ˥˩.mu˥˩ jɥɛn˧˥.taɪ̯˥˩.ma˨˩˦ peɪ̯˥˩.fən˥˩ taʊ̯˥˩ t͡ɕja˥.mi˥˩ fu˧˥.u˥˩.t͡ɕʰi˥˩ li˨˩˦, piŋ˥˩ pa˨˩˦ t͡ɕjaʊ̯˥.t͡ɕjɛ˥ wən˧˥.tɑŋ˥˩ wan˧˥.ʈ͡ʂɤŋ˨˩˦ i˧˥.t͡ɕjaʊ̯˥ keɪ̯˨˩˦ lɤ ɕin˥ tʰʊŋ˧˥.ʂɨ˥˩] (Lí-zhí jiāo-jiē qián, gōng-chéng-shī rèn-zhēn bǎ suǒ-yǒu xiàng-mù yuán-dài-mǎ bèi-fèn dào jiā-mì fú-wù-qì lǐ, bìng bǎ jiāo-jiē wén-dàng wán-zhěng yí-jiāo gěi le xīn tóng-shì.)",
+          "translation": "Before the handover upon resignation, the engineer earnestly backed up all project source codes to an encrypted server and completely transferred the handover documents to the new colleague."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (16.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "追求卓越的科研团队总是把严谨求实放在第一位，把每一项细节都做到极致，从而把科技创新的美好蓝图转化为了现实。(Zhuīqiú zhuóyuè de kēyán tuánduì zǒngshì bǎ yánjǐn qiúshí fàng zài dì-yī wèi, bǎ měi yí xiàng xìjié dōu zuò dào jízhì, cóng'ér bǎ kējì chuàngxīn de měihǎo lántú zhuǎnhuà wéi le xiànshí.)",
+          "reading": "[ʈ͡ʂweɪ̯˥.t͡ɕʰjoʊ̯˧˥ ʈ͡ʂwɔ˧˥.jɥɛ˥˩ tɤ kʰɤ˥.jan˧˥ tʰwan˧˥.tweɪ̯˥˩ t͡sʊŋ˨˩˦.ʂɨ˥˩ pa˨˩˦ jan˧˥.t͡ɕin˨˩˦ t͡ɕʰjoʊ̯˧˥.ʂɨ˧˥ fɑŋ˥˩ t͡saɪ̯˥˩ ti˥˩.i˥ weɪ̯˥˩, pa˨˩˦ meɪ̯˨˩˦ i˥ ɕjaŋ˥˩ ɕi˥˩.t͡ɕjɛ˧˥ toʊ̯˥ t͡swoʊ̯˥˩ taʊ̯˥˩ t͡ɕi˧˥.ʈ͡ʂɨ˥˩, t͡sʰʊŋ˧˥.aɚ˧˥ pa˨˩˦ kʰɤ˥.t͡ɕi˥˩ t͡ʂʰwaŋ˥˩.ɕin˥ tɤ meɪ̯˨˩.xaʊ̯˨˩˦ lan˧˥.tʰu˧˥ ʈ͡ʂwan˨˩˦.xwa˥˩ weɪ̯˧˥ lɤ ɕjɛn˥˩.ʂɨ˧˥] (Zhuī-qiú zhuó-yuè de kē-yán tuán-duì zǒng-shì bǎ yán-jǐn qiú-shí fàng zài dì-yī wèi, bǎ měi yí xiàng xì-jié dōu zuò dào jí-zhì, cóng-ér bǎ kē-jì chuàng-xīn de měi-hǎo lán-tú zhuǎn-huà wéi le xiàn-shí.)",
+          "translation": "A research team striving for excellence always puts rigor and pragmatism in first place, achieves perfection in every single detail, and thereby transforms the magnificent blueprint of technological innovation into reality."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "检查备份整理妥，放到交成极致过；严谨求实把字贯，科研办公结硕果！"
+      ],
+      "culturalNotes": [
+        "「把」字句在现代科研实验规程、工程交接与企业协作中起到了结构骨架的作用。它精准地串联起「责任到人、步骤清晰、结果明确」的严密工作作风。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「把字句的深层结构与处置义 (The BA Disposal Construction)」（第5讲）的标准汉语规范？",
+          "prompt": "在科研办公综合叙事语篇中，串联「设备校准 -> 数据整理成图表 -> 核心代码备份 -> 报告交付评审」的句式主干是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「把字句的深层结构与处置义 (The BA Disposal Construction)」的核心语法法则与应用范例 (16.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (16.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (16.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (16.5.w3)"
+            "把设备检查一遍 -> 把数据整理成图表 -> 把代码备份到服务器 -> 把报告交给专家组 (Coherent chain of BA disposal actions)",
+            "设备在检查 -> 数据在整理 -> 代码在写 -> 报告在看",
+            "不用把字句只用被字句",
+            "全篇没有任何动作结果"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "叙事篇章严格运用多重「把」字处置动补链条，高效清晰推进科研流程。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "语篇中「把每一项细节都做到极致」中的「做到极致」表达的意思是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "达到最高水平、最完美的境界 (Achieving absolute perfection/highest standard)",
+            "马马虎虎应付了事",
+            "做到一半就放弃",
+            "完全彻底失败"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「做到极致」是形容精益求精、追求卓越的经典词汇。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「把字句的深层结构与处置义 (The BA Disposal Construction)」的正式语境下，最准确得体的表达是哪一项？（第16.5题）",
+          "prompt": "请选出下列科研协作叙事中「把」字句运用最地道、语序最严谨的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (16.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (16.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (16.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (16.5.x3)"
+            "团队把所有参数校对完毕后，立即把最终成果录入到了系统数据库中。(两处把字句宾语有定、动补严整)",
+            "团队把参数校对，把成果系统录入。(缺少补语)",
+            "团队已经把成果录入系统没。(否定词位置错乱)",
+            "团队把系统成果录入。(语义模糊混乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项在动补搭配、时间状语与宾语特指性上均达到了汉语规范的最高要求。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u16-l5）所要求的高阶语言表达？",
+          "prompt": "在办公叙事中表达把工作责任或物资完整移交出去，最标准的搭配是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (16.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (16.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (16.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (16.5.y3)"
+            "把文档移交给了新同事 (Handed documents over to the new colleague)",
+            "把新同事移交给文档",
+            "移交把文档新同事",
+            "把文档给新同事移交做"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「把 + 客体 + 移交给 + 接收人」是标准规范的办公交接句型。"
         }
       ]
     },
@@ -9818,25 +9831,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「把字句的深层结构与处置义 (The BA Disposal Construction)」的掌握程度，请选出表述完全正确的标准范句（测试 16-5）：",
+          "prompt": "请选出下列科研与办公协作叙事语篇中句式最丰富、动补配合最严谨、思想境界最高远的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (16.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (16.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (16.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (16.5.z3)"
+            "在科研攻关的全流程中，我们始终把严谨求实放在首位。不仅把海量实验数据整理成了条理清晰的学术报告，更把每项技术难关逐一攻克，最终把科技创新的宏伟蓝图转化为了报效国家的现实成果！(全篇把字句贯通始终，动补结构严丝合缝，立意极其崇高昂扬)",
+            "科研工作就是做实验，把东西放放，把电脑开开。(语言粗鄙平淡)",
+            "我们把失败很多，没有把成功做出来。(语法严重病态)",
+            "把数据整理，把报告交给。(残缺断裂)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在「把」字句多样性、动补搭配精微度以及思想格局上均展现了极高的现代汉语修养。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u16-l5）的核心关键词（例如「把字句的」）：",
+          "prompt": "请输入表达达到最高水平、无可超越境界的核心两字形容词/名词（例如做到「」，拼音为 jízhì）：",
           "acceptedAnswers": [
-            "把字句的",
-            "把字句的深层",
-            "把字句的深层结构与处置义"
+            "极致"
           ],
-          "explanation": "正确的核心关键词为「把字句的」。"
+          "explanation": "词语「极致」是现代汉语中指称最高造诣与顶峰境界的经典词汇。"
         }
       ],
       "passThreshold": 0.8
