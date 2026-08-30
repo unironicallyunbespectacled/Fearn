@@ -3422,85 +3422,89 @@
     "subject": "arabic",
     "unit": 6,
     "lessonNumber": 1,
-    "title": "المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives) (الدرس 1)",
+    "title": "معالم المدينة والأماكن العامة (City Landmarks & Public Facilities)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المأكولات العربية التقليدية، طلب الطعام في المطعم، ومطابقة النعت للمنعوت في الإعراب والتعريف. (الجزء 1).",
+    "objective": "إتقان معجم الأماكن والمعالم الحضرية (شارع، ميدان، فندق، محطة، مستشفى، صيدلية، متحف، سوق، بنك)، واستخدام أسماء الإشارة المكانية (هنا، هناك) والسؤال عن المواقع.",
     "presentation": {
-      "explanation": "",
+      "explanation": "المدينة الحديثة تضم شبكة من المعالم الحيوية والمرافق العامة التي يحتاجها كل مقيم وزائر:\n\nأولاً: معجم المعالم والأماكن العامة (City Landmarks & Places):\n1.【الشوارع والساحات】:\n- مَدِينَةٌ (City) | شَارِعٌ (Street) | مَيْدَانٌ / سَاحَةٌ (Square/Plaza) | حَيٌّ سَكَنِيٌّ (Neighborhood) | وَسَطُ المَدِينَةِ (City center / Downtown).\n2.【المرافق الخدمية والصحية】:\n- مُسْتَشْفَى (Hospital) | صَيْدَلِيَّةٌ (Pharmacy) | مَصْرِفٌ / بَنْكٌ (Bank) | مَرْكَزُ شُرْطَةٍ (Police station) | مَكْتَبُ بَرِيدٍ (Post office).\n3.【المعالم الثقافية والدينية】:\n- مَسْجِدٌ / جَامِعٌ (Mosque) | مَتْحَفٌ وَطَنِيٌّ (National museum) | مَكْتَبَةٌ عَامَّةٌ (Public library) | جَامِعَةٌ (University).\n4.【السياحة والتسوق】:\n- فُنْدُقٌ (Hotel) | سُوقٌ مَرْكَزِيٌّ (Central market) | حَدِيقَةٌ عَامَّةٌ (Public park) | مَطْعَمٌ (Restaurant).\n\nثانياً: أسماء الإشارة الدالة على المكان (Spatial Demonstratives):\n- «هُنَا» (Here - للمكان القريب): «أَنَا أَقِفُ هُنَا أَمَامَ المَتْحَفِ».\n- «هُنَاكَ» (There - للمكان البعيد): «هُنَاكَ مَحَطَّةُ قِطَارٍ كَبِيرَةٌ».\n- «هُنَالِكَ» (Way over there - للبعد الأشد).\n\nثالثاً: صيغ الاستفهام عن الموقع الجغرافي:\n- «أَيْنَ يَقَعُ الفُنْدُقُ؟» (Where is the hotel located?).\n- «هَلْ هُنَاكَ صَيْدَلِيَّةٌ قَرِيبَةٌ مِنْ هُنَا؟» (Is there a pharmacy nearby?).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)» بأسلوب أكاديمي دقيق (6.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)' to students in an accurate academic style."
+          "target": "تَقَعُ صَيْدَلِيَّةُ الشِّفَاءِ فِي الشَّارِعِ الرَّئِيسِيِّ قُرْبَ المُسْتَشْفَى العَامِّ.(Taqaʿu ṣaydaliyyatu ash-shifāʾi fī ash-shāriʿi ar-raʾīsiyyi qurba al-mustashfā al-ʿāmm.)",
+          "reading": "[ta.qa.ʕu sˤaj.da.lij.ja.tu‿ʃ.ʃi.faː.ʔi fiː‿ʃ.ʃaː.ri.ʕi‿r.ra.ʔiː.sij.ji qur.ba‿l.mus.taʃ.faː‿l.ʕaːmm] (Ta-qa-ʿu ṣay-da-liy-ya-tu ash-shi-fā-ʾi fī ash-shā-ri-ʿi ar-ra-ʾī-siy-yi qur-ba al-mus-tash-fā al-ʿāmm.)",
+          "translation": "Al-Shifa Pharmacy is located on the main street near the general hospital."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (6.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "هُنَا فِي وَسَطِ المَدِينَةِ مَتْحَفٌ تَارِيخِيٌّ كَبِيرٌ، وَهُنَاكَ فُنْدُقٌ فَخْمٌ لِلزُّوَّارِ.(Hunā fī wasaṭi al-madīnati matḥafun tārīkhiyyun kabīr, wa-hunāka funduqun fakhmun li-z-zuwwār.)",
+          "reading": "[hu.naː fiː wa.sa.tˤi‿l.ma.diː.na.ti mat.ħa.fun taː.riː.xij.jun ka.biːr, wa.hu.naː.ka fun.du.qun fax.mun liz.zuw.waːr] (Hu-nā fī wa-sa-ṭi al-ma-dī-na-ti mat-ḥa-fun tā-rī-khiy-yun ka-bīr, wa-hu-nā-ka fun-du-qun fakh-mun li-z-zuw-wār.)",
+          "translation": "Here in downtown is a large historical museum, and over there is a luxurious hotel for visitors."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (6.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "مَحَطَّةُ القِطَارِ المَرْكَزِيَّةُ تَبْعُدُ عَشْرَ دَقَائِقَ عَنِ المَيْدَانِ العَامِّ.(Maḥaṭṭatu al-qiṭāri al-markaziyyatu tabʿudu ʿashra daqāʾiqa ʿani al-maydāni al-ʿāmm.)",
+          "reading": "[ma.ħatˤ.tˤa.tu‿l.qi.tˤaː.ri‿l.mar.ka.zij.ja.tu tab.ʕu.du ʕaʃ.ra da.qaː.ʔi.qa ʕa.ni‿l.maj.daː.ni‿l.ʕaːmm] (Ma-ḥaṭ-ṭa-tu al-qi-ṭā-ri al-mar-ka-ziy-ya-tu tab-ʿu-du ʿash-ra da-qā-ʾi-qa ʿa-ni al-may-dā-ni al-ʿāmm.)",
+          "translation": "The central train station is ten minutes away from the public square."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (6.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تَضُمُّ العَاصِمَةُ مَعَالِمَ حَضَارِيَّةً مُهِمَّةً كَالمَسْجِدِ الجَامِعِ وَالسُّوقِ القَدِيمِ.(Taḍummu al-ʿāṣimatu maʿālima ḥaḍāriyyatan muhimmatan ka-l-masjidi al-jāmiʿi wa-as-sūqi al-qadīm.)",
+          "reading": "[ta.dˤum.mu‿l.ʕaː.sˤi.ma.tu ma.ʕaː.li.ma ħa.dˤaː.rij.ja.tan mu.him.ma.tan kal.mas.ʒi.di‿l.ʒaː.mi.ʕi was.suː.qi‿l.qa.diːm] (Ta-ḍum-mu al-ʿā-ṣi-ma-tu ma-ʿā-li-ma ḥa-ḍā-riy-ya-tan mu-him-ma-tan ka-l-mas-ji-di al-jā-mi-ʿi wa-as-sū-qi al-qa-dīm.)",
+          "translation": "The capital encompasses important cultural landmarks such as the grand mosque and the old souk."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "هُنَا مَتْحَفٌ وَهُنَاكَ مَسْجِدٌ وَسُوقْ، مَعَالِمُ المَدِينَةِ تَزْدَانُ بِالعُمْرَانِ فِي شُرُوقْ!"
+      ],
+      "culturalNotes": [
+        "الأسواق التراثية في المدن العربية (مثل خان الخليلي في القاهرة وسوق الحميدية في دمشق وسوق واقف في الدوحة) تُعد مراكز تجارية وثقافية حية تنبض بالتاريخ."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)» (الدرس 1)؟",
+          "prompt": "ما هو اسم الإشارة المكاني المستخدم للدلالة على المكان البعيد في اللغة العربية؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)» بأسلوب أكاديمي دقيق (6.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (6.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (6.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (6.1.w3)"
+            "هُنَاكَ (There)",
+            "هُنَا (للقريب)",
+            "هٰذَا (اسم إشارة لمذكر)",
+            "هٰذِهِ"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«هُنَاكَ» اسم إشارة مبني يدل على المكان البعيد، بينما «هُنَا» للقريب."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الاسم الفصيح للمكان المخصص لبيع الأدوية والمستلزمات الطبية؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "الصَّيْدَلِيَّةُ (Pharmacy)",
+            "المستشفى (للعلاج والتطبيب)",
+            "المتحف",
+            "الفندق"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«الصَّيْدَلِيَّة» هي المكان المخصص لصرف الأدوية."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u6-l1):",
+          "prompt": "اختر الجملة التي تسأل عن موقع المستشفى العام في المدينة بأعلى درجات الفصاحة والأدب:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (6.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (6.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (6.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (6.1.x3)"
+            "مِنْ فَضْلِكَ، أَيْنَ يَقَعُ المُسْتَشْفَى العَامُّ فِي هٰذِهِ المَدِينَةِ؟ (Excuse me, where is the general hospital located in this city?)",
+            "أين المستشفى بسرعة أريد طبيبا",
+            "هل يوجد مدينة هنا بدون مستشفى؟",
+            "المستشفى العام هو قطار كبير"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "السؤال يبدأ بالطلب المهذب «مِنْ فَضْلِكَ» ثم أداة الاستفهام المكانية الفصيحة «أَيْنَ يَقَعُ...»."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)»؟",
+          "prompt": "ما هو المعلم الحضاري المخصص لحفظ الآثار والتحف التاريخية وعرضها للجمهور؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (6.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (6.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (6.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (6.1.y3)"
+            "المَتْحَفُ (Museum)",
+            "المصرف / البنك",
+            "محطة الحافلات",
+            "الصيدلية"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«المَتْحَف» هو المؤسسة الثقافية المخصصة لعرض التحف والآثار التاريخية."
         }
       ]
     },
@@ -3508,24 +3512,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 6-1)؟",
+          "prompt": "اختر الفقرة التي تقدم وصفًا جغرافيًا شاملاً لوسط المدينة ومعالمها ومرافقها الحيوية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (6.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (6.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (6.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (6.1.z3)"
+            "يَتَمَيَّزُ وَسَطُ المَدِينَةِ بِنَشَاطٍ حَيَوِيٍّ؛ فَقُرْبَ المَيْدَانِ الكَبِيرِ يَقَعُ المَسْجِدُ الجَامِعُ، وَهُنَاكَ مَتْحَفٌ وَطَنِيٌّ عَرِيقٌ، وَبِجِوَارِهِ فُنْدُقٌ مُمْتَازٌ لِاسْتِقْبَالِ السُّيَّاحِ. (Downtown is characterized by vibrant activity; near the grand square lies the congregational mosque, there is an ancient national museum, and beside it an excellent hotel to receive tourists.)",
+            "وسط المدينة ليس فيه شوارع ولا مساجد ولا فنادق.",
+            "ميدان فندق بنك صيدلية سكون فتحة ضمة سيارة.",
+            "المعالم الحضرية هي كلمات شمسية فقط بدون مبان."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة تجمع بين المعالم الحضرية (الميدان، المسجد، المتحف، الفندق) والظروف المكانية في صياغة فصيحة متناسقة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u6-l1) باللغة العربية (مثال: «المطبخ»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم المكان المخصص لاستقبال المسافرين وإقامتهم الفندقية (مثال: «الفندق»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المطبخ",
-            "المطبخ"
+            "الفندق",
+            "الفُنْدُقُ",
+            "فندق"
           ],
-          "explanation": "المصطلح الصحيح هو «المطبخ»."
+          "explanation": "المكان المخصص لإقامة المسافرين هو «الفندق»."
         }
       ],
       "passThreshold": 0.8
@@ -3536,85 +3541,89 @@
     "subject": "arabic",
     "unit": 6,
     "lessonNumber": 2,
-    "title": "المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives) (الدرس 2)",
+    "title": "حروف الجر المكانية وظروف المكان (Prepositions of Place & Spatial Adverbs)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المأكولات العربية التقليدية، طلب الطعام في المطعم، ومطابقة النعت للمنعوت في الإعراب والتعريف. (الجزء 2).",
+    "objective": "إتقان استخدام حروف الجر المكانية (من، إلى، في، على، عن) وظروف المكان (أمام، خلف، بين، بجانب، فوق، تحت، يمين، يسار)، وإعراب الاسم المجرور والمضاف إليه.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تحديد المواقع الدقيقة للأشياء والأماكن في العربية يعتمد على حروف الجر وظروف المكان:\n\nأولاً: حروف الجر المكانية (Prepositions of Place):\n- مِنْ (From - ابتداء الغاية): «خَرَجْتُ مِنَ الفُنْدُقِ».\n- إِلَى (To/Towards - انتهاء الغاية): «ذَهَبْتُ إِلَى المَتْحَفِ».\n- فِي (In/Inside - الظرفية المكانية): «المُعَلِّمُ فِي الجَامِعَةِ».\n- عَلَى (On/Upon - الاستعلاء): «الكِتَابُ عَلَى المَكْتَبِ».\n- عَنْ (Away from - المجاوزة والبعد): «المَدْرَسَةُ بَعِيدَةٌ عَنِ البَيْتِ».\n- حكم الاسم بعد حرف الجر: **اسم مجرور وعلامة جره الكسرة الظاهرة**.\n\nثانياً: ظروف المكان وشبه الجملة (Spatial Adverbs):\n- أَمَامَ (In front of) | خَلْفَ / وَرَاءَ (Behind).\n- يَمِينَ (To the right of) | يَسَارَ / شِمَالَ (To the left of).\n- بَيْنَ (Between - للموقع بين شيئين): «يَقَعُ البَنْكُ بَيْنَ الصَّيْدَلِيَّةِ وَالمَطْعَمِ».\n- بِجَانِبِ / بِجِوَارِ (Next to / Beside).\n- فَوْقَ (Above) | تَحْتَ (Under/Below).\n- قُرْبَ (Near) | دَاخِلَ (Inside) | خَارِجَ (Outside).\n- قاعدة إعرابية: ظرف المكان يكون منصوبًا بالفتحة، والاسم الذي بعده يعرب **مُضَافًا إِلَيْهِ مَجْرُورًا بالكسرة**:\n  - «أَمَامَ **المَسْجِدِ**» (أمامَ: ظرف مكان منصوب، المسجدِ: مضاف إليه مجرور).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)» بأسلوب أكاديمي دقيق (6.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)' to students in an accurate academic style."
+          "target": "يَقَعُ المَصْرِفُ المَالِيُّ أَمَامَ الحَدِيقَةِ العَامَّةِ وَبِجَانِبِ مَحَطَّةِ الحَافِلَاتِ.(Yaqaʿu al-maṣrifu al-māliyyu amāma al-ḥadīqati al-ʿāmmati wa-bi-jānibi maḥaṭṭati al-ḥāfilāt.)",
+          "reading": "[ja.qa.ʕu‿l.masˤ.ri.fu‿l.maː.lij.ju ʔa.maː.ma‿l.ħa.diː.qa.ti‿l.ʕaːm.ma.ti wa.bi.ʒaː.ni.bi ma.ħatˤ.tˤa.ti‿l.ħaː.fi.laːt] (Ya-qa-ʿu al-maṣ-ri-fu al-mā-liy-yu a-mā-ma al-ḥa-dī-qa-ti al-ʿām-ma-ti wa-bi-jā-ni-bi ma-ḥaṭ-ṭa-ti al-ḥā-fi-lāt.)",
+          "translation": "The financial bank is located in front of the public park and beside the bus station."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (6.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تَقِفُ السَّيَّارَةُ بَيْنَ الصَّيْدَلِيَّةِ وَالفُنْدُقِ فِي يَمِينِ الشَّارِعِ.(Taqifu as-sayyāratu bayna aṣ-ṣaydaliyyati wa-al-funduqi fī yamīni ash-shāriʿ.)",
+          "reading": "[ta.qi.fu‿s.saj.jaː.ra.tu baj.na‿sˤ.sˤaj.da.lij.ja.ti wal.fun.du.qi fiː ja.miː.ni‿ʃ.ʃaː.riʕ] (Ta-qi-fu as-say-yā-ra-tu bay-na aṣ-ṣay-da-liy-ya-ti wa-al-fun-du-qi fī ya-mī-ni ash-shā-riʿ.)",
+          "translation": "The car stops between the pharmacy and the hotel on the right of the street."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (6.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "المَجْرُورُ بِحَرْفِ الجَرِّ أَوِ الإِضَافَةِ يَكُونُ مَكْسُورَ الآخِرِ فِي الإِعْرَابِ الدَّقِيقِ.(Al-majrūru bi-ḥarfi al-jarri awi al-iḍāfati yakūnu maksūra al-ākhiri fī al-iʿrābi ad-daqīq.)",
+          "reading": "[al.maʒ.ruː.ru bi.ħar.fi‿l.ʒar.ri ʔa.wi‿l.ʔi.dˤaː.fa.ti ja.kuː.nu mak.suː.ra‿l.ʔaː.xi.ri fiː‿l.ʔiʕ.raː.bi‿d.da.qiːq] (Al-maj-rū-ru bi-ḥar-fi al-jar-ri a-wi al-i-ḍā-fa-ti ya-kū-nu mak-sū-ra al-ā-khi-ri fī al-iʿ-rā-bi ad-da-qīq.)",
+          "translation": "What is governed by a preposition or genitive construct takes a kasrah at its end in precise parsing."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (6.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يَجْلِسُ الحَارِسُ أَمَامَ البَابِ الرَّئِيسِيِّ لِلْمُسْتَشْفَى الكَبِيرِ.(Yajlisu al-ḥārisu amāma al-bābi ar-raʾīsiyyi li-l-mustashfā al-kabīr.)",
+          "reading": "[jaʒ.li.su‿l.ħaː.ri.su ʔa.maː.ma‿l.baː.bi‿r.ra.ʔiː.sij.ji lil.mus.taʃ.faː‿l.ka.biːr] (Yaj-li-su al-ḥā-ri-su a-mā-ma al-bā-bi ar-ra-ʾī-siy-yi li-l-mus-tash-fā al-ka-bīr.)",
+          "translation": "The guard sits in front of the main entrance to the big hospital."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "أَمَامَ وَخَلْفَ وَيَمِينَ وَشِمَالْ، ظُرُوفُ مَكَانٍ تَجُرُّ بَعْدَهَا الأَسْمَاءَ بِلَا جِدَالْ!"
+      ],
+      "culturalNotes": [
+        "في تخطيط المدن الإسلامية، دائمًا ما تقع الأسواق التخصصية بجوار المعالم الكبرى (كسوق الوراقين قرب الجامع الكبير وسوق العطارين قرب الأسواق المركزية)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)» (الدرس 2)؟",
+          "prompt": "ما هو الإعراب والحركة الصحيحة لكلمة «المَسْجِدِ» في التركيب الظرفي «أَمَامَ المَسْجِدِ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)» بأسلوب أكاديمي دقيق (6.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (6.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (6.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (6.2.w3)"
+            "مُضَافٌ إِلَيْهِ مَجْرُورٌ بِالكَسْرَةِ (Genitive with kasrah)",
+            "مفعول به منصوب بالفتحة",
+            "فاعل مرفوع بالضمة",
+            "نعت مرفوع"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الاسم الواقع بعد ظرف المكان يعرب مضافًا إليه مجرورًا بالكسرة: «أَمَامَ المَسْجِدِ»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "أي من الكلمات التالية يُعد ظرف مكان يدل على الموقع الفاصل بين موضعين؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "بَيْنَ (Between)",
+            "مِنْ (حرف جر)",
+            "إِلَى (حرف جر)",
+            "عَلَى (حرف جر)"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«بَيْنَ» ظرف مكان يدل على التوسط بين شيئين أو أكثر."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u6-l2):",
+          "prompt": "اختر الجملة التي تحدد موقع البنك والصيدلية والمحطة باستخدام ظروف المكان وحروف الجر بدقة تامة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (6.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (6.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (6.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (6.2.x3)"
+            "يَقَعُ البَنْكُ بَيْنَ الصَّيْدَلِيَّةِ وَالمَحَطَّةِ، أَمَامَ الحَدِيقَةِ العَامَّةِ. (The bank is located between the pharmacy and the station, in front of the public park.)",
+            "البنك يقع في بين الصيدلية على المحطة فوق الحديقة",
+            "بين الصيدلية بنك محطة بدون ظروف مكان",
+            "امام وخلف فوق تحت بنك صيدلية"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة توظف الظرفين «بينَ» و«أمامَ» متبوعين بمضاف إليه مجرور بالكسرة في سياق مكاني غاية في الوضوح."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)»؟",
+          "prompt": "ما هو الحرف الذي يفيد انتهاء الغاية المكانية (الوصول إلى الوجهة)؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (6.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (6.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (6.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (6.2.y3)"
+            "إِلَى (To / Towards)",
+            "مِنْ (ابتداء الغاية)",
+            "عَنْ (المجاوزة)",
+            "فِي"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "حرف الجر «إِلَى» يدل على انتهاء الغاية المكانية مثل: «وصلتُ إلى الفندقِ»."
         }
       ]
     },
@@ -3622,24 +3631,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 6-2)؟",
+          "prompt": "اختر الوصف الجغرافي الذي يجمع بين حروف الجر وظروف المكان وإعرابها الصحيح في تحديد موقع المعالم:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (6.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (6.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (6.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (6.2.z3)"
+            "تَقِفُ الحَافِلَةُ عِنْدَ المَوْقِفِ الرَّئِيسِيِّ؛ فَتَنْزِلُ مِنَ البَابِ، وَتَسِيرُ إِلَى المَتْحَفِ الَّذِي يَقَعُ عَلَى يَمِينِ الشَّارِعِ خَلْفَ مَبْنَى البَرِيدِ. (The bus stops at the main station; you get off from the door, and walk to the museum which is located on the right of the street behind the post building.)",
+            "الحافلة تقف على فوق تحت يمين يسار بدون حروف جر.",
+            "متحف بريد شارع سكون فتحة ضمة باب.",
+            "ليس هناك مواقف ولا حافلات في هذه المنطقة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يدمج حروف الجر «عند، من، إلى، على» وظروف المكان «يمين، خلف» مع ضبط المجرورات بالكسرة ببراعة تامة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u6-l2) باللغة العربية (مثال: «المطبخ»):",
+          "prompt": "اكتب باللغة العربية الفصحى ظرف المكان الذي هو عكس «أَمَامَ» (مثال: «خلف»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المطبخ",
-            "المطبخ"
+            "خلف",
+            "خَلْفَ",
+            "وراء",
+            "وَرَاءَ"
           ],
-          "explanation": "المصطلح الصحيح هو «المطبخ»."
+          "explanation": "عكس أمام هو «خلف» أو «وراء»."
         }
       ],
       "passThreshold": 0.8
@@ -3650,85 +3661,89 @@
     "subject": "arabic",
     "unit": 6,
     "lessonNumber": 3,
-    "title": "المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives) (الدرس 3)",
+    "title": "صيغ الأمر وتوجيه الإرشادات المكانية (Imperatives for Giving Directions)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المأكولات العربية التقليدية، طلب الطعام في المطعم، ومطابقة النعت للمنعوت في الإعراب والتعريف. (الجزء 3).",
+    "objective": "إتقان صياغة فعل الأمر الصحيح (سر، اتجه، انعطف، اعبر، خذ) وبنائه على السكون للمفرد المذكر، واستخدام عبارات التوجيه المكاني القياسية لإرشاد السائلين.",
     "presentation": {
-      "explanation": "",
+      "explanation": "إعطاء التوجيهات المكانية وإرشاد السائل في الطريق يعتمد على أفعال الأمر وتراكيب الاتجاهات:\n\nأولاً: أفعال الأمر التوجيهية (Imperative Verbs for Directions):\n1.【سِرْ (Walk / Go)】: مبني على السكون (أصله: يسير -> سرْ لحذف حرف العلة لالتقاء الساكنين):\n- «سِرْ إِلَى الأَمَامِ مُبَاشَرَةً» (Go straight ahead).\n2.【اتَّجِهْ (Head / Direct yourself)】: مبني على السكون:\n- «اتَّجِهْ نَحْوَ المَيْدَانِ» (Head towards the square).\n3.【انْعَطِفْ (Turn)】: مبني على السكون:\n- «انْعَطِفْ يَمِينًا» (Turn right) | «انْعَطِفْ يَسَارًا» (Turn left).\n4.【اعْبُرْ (Cross)】: مبني على السكون (وحُرِّك بالكسر لالتقاء الساكنين: «اعْبُرِ الشَّارِعَ»):\n- «اعْبُرِ الشَّارِعَ عِنْدَ المَمَرِّ» (Cross the street at the crossing).\n5.【خُذْ (Take)】: مبني على السكون:\n- «خُذِ الشَّارِعَ الثَّانِيَ» (Take the second street).\n\nثانياً: تراكيب التوجيه الدقيق (Precise Navigational Phrases):\n- «عَلَى يَمِينِكَ» (On your right) vs. «عَلَى يَسَارِكَ / شِمَالِكَ» (On your left).\n- «عِنْدَ إِشَارَةِ المُرُورِ» (At the traffic light).\n- «عِنْدَ المُنْعَطَفِ القَادِمِ» (At the next corner/turn).\n- «سَتَجِدُ المَبْنَى أَمَامَكَ مُبَاشَرَةً» (You will find the building directly in front of you).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)» بأسلوب أكاديمي دقيق (6.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)' to students in an accurate academic style."
+          "target": "سِرْ إِلَى الأَمَامِ مُبَاشَرَةً لِمَسَافَةِ مِئَةِ مِتْرٍ، ثُمَّ انْعَطِفْ يَمِينًا عِنْدَ الصَّيْدَلِيَّةِ.(Sir ilā al-amāmi mubāsharatan li-masāfati miʾati mitr, thumma inʿaṭif yamīnan ʿinda aṣ-ṣaydaliyyah.)",
+          "reading": "[sir ʔi.laː‿l.ʔa.maː.mi mu.baː.ʃa.ra.tan li.ma.saː.fa.ti mi.ʔa.ti mitr, θum.ma‿in.ʕa.tˤif ja.miː.nan ʕin.da‿sˤ.sˤaj.da.lij.jah] (Sir i-lā al-a-mā-mi mu-bā-sha-ra-tan li-ma-sā-fa-ti mi-ʾa-ti mitr, thum-ma in-ʿa-ṭif ya-mī-nan ʿin-da aṣ-ṣay-da-liy-yah.)",
+          "translation": "Go straight ahead for a distance of one hundred meters, then turn right at the pharmacy."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (6.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "اعْبُرِ الشَّارِعَ الرَّئِيسِيَّ بِحَذَرٍ عِنْدَ إِشَارَةِ المُرُورِ، وَسَتَرَى مَدْخَلَ المَتْحَفِ.(Iʿburi ash-shāriʿa ar-raʾīsiyya bi-ḥadharin ʿinda ishārati al-murūr, wa-sa-tarā madkhala al-matḥaf.)",
+          "reading": "[ʔiʕ.bu.ri‿ʃ.ʃaː.ri.ʕa‿r.ra.ʔiː.sij.ja bi.ħa.ða.rin ʕin.da ʔi.ʃaː.ra.ti‿l.mu.ruːr, wa.sa.ta.raː mad.xa.la‿l.mat.ħaf] (Iʿ-bu-ri ash-shā-ri-ʿa ar-ra-ʾī-siy-ya bi-ḥa-dha-rin ʿin-da i-shā-ra-ti al-mu-rūr, wa-sa-ta-rā mad-kha-la al-mat-ḥaf.)",
+          "translation": "Cross the main street carefully at the traffic light, and you will see the museum entrance."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (6.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "خُذِ المُنْعَطَفَ الأَوَّلَ عَلَى يَسَارِكَ؛ فَالْمَسْجِدُ يَقَعُ أَمَامَكَ مُبَاشَرَةً.(Khudh al-munʿaṭafa al-awwala ʿalā yasārik; fa-l-masjidu yaqaʿu amāmaka mubāsharatan.)",
+          "reading": "[xu.ði‿l.mun.ʕa.tˤa.fa‿l.ʔaw.wa.la ʕa.laː ja.saː.rik; fal.mas.ʒi.du ja.qa.ʕu ʔa.maː.ma.ka mu.baː.ʃa.ra.tan] (Khu-dhi al-mun-ʿa-ṭa-fa al-aw-wa-la ʿa-lā ya-sā-rik; fa-l-mas-ji-du ya-qa-ʿu a-mā-ma-ka mu-bā-sha-ra-tan.)",
+          "translation": "Take the first turn on your left; for the mosque is located right in front of you."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (6.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "فِعْلُ الأَمْرِ لِلْمُفْرَدِ المُذَكَّرِ يُبْنَى عَلَى السُّكُونِ عِنْدَمَا يَكُونُ صَحِيحَ الآخِرِ.(Fiʿlu al-amri li-l-mufradi al-mudhakkari yubnā ʿalā as-sukūni ʿindamā yakūnu ṣaḥīḥa al-ākhir.)",
+          "reading": "[fiʕ.lu‿l.ʔam.ri lil.muf.ra.di‿l.mu.ðak.ka.ri jub.naː ʕa.laː‿s.su.kuː.ni ʕin.da.maː ja.kuː.nu sˤa.ħiː.ħa‿l.ʔaː.xir] (Fiʿ-lu al-am-ri li-l-muf-ra-di al-mu-dhak-ka-ri yub-nā ʿa-lā as-su-kū-ni ʿin-da-mā ya-kū-nu ṣa-ḥī-ḥa al-ā-khir.)",
+          "translation": "The imperative verb for the masculine singular is built upon sukūn when it is sound-ended."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "سِرْ لِلْأَمَامِ وَانْعَطِفْ يَمِينًا أَوْ شِمَالْ، فِعْلُ الأَمْرِ بِالسُّكُونِ يَهْدِيكَ لِلْمَنَالْ!"
+      ],
+      "culturalNotes": [
+        "إرشاد عابر السبيل ودلالته على مقصده يُعد في الثقافة الإسلامية والعربية من الصدقات المعنوية ومكارم الأخلاق التي يحرص عليها الجميع."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)» (الدرس 3)؟",
+          "prompt": "ما هو فعل الأمر المناسب لتوجيه شخص بالمشي إلى الأمام دون انحراف؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)» بأسلوب أكاديمي دقيق (6.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (6.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (6.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (6.3.w3)"
+            "سِرْ إِلَى الأَمَامِ (Go straight ahead)",
+            "ارجع إلى الخلف",
+            "توقف ولا تمش",
+            "نم هنا"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«سِرْ إِلَى الأَمَامِ» هو التوجيه القياسي للمضي قدمًا إلى الأمام."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "على ماذا يُبنى فعل الأمر الصحيح الآخر للمفرد المذكر (مثل: اعبُرْ / انعطِفْ)؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "عَلَى السُّكُونِ (Sukūn)",
+            "على الفتحة",
+            "على الضمة",
+            "على الكسرة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "فعل الأمر الصحيح الآخر للمفرد المذكر يبنى على السكون."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u6-l3):",
+          "prompt": "اختر العبارة التوجيهية التي تقدم إرشادات دقيقة للوصول إلى محطة القطار:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (6.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (6.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (6.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (6.3.x3)"
+            "اعْبُرِ الجِسْرَ، ثُمَّ خُذِ الشَّارِعَ الثَّانِيَ عَلَى يَمِينِكَ؛ سَتَرَى المَحَطَّةَ أَمَامَكَ. (Cross the bridge, then take the second street on your right; you will see the station in front of you.)",
+            "المحطة في السماء فوق السحاب طائرة",
+            "لا تعبر الشارع ولا تمش ابدا انت ضائع",
+            "اعبر خذ سر انعطف بدون اسم شارع"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "العبارة توظف أفعال الأمر المتسلسلة (اعبر، خذ) وتحديد الاتجاه بدقة بالغة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)»؟",
+          "prompt": "لماذا حُرِّكت لام الفعل «اعْبُرِ» بالكسرة في عبارة «اعْبُرِ الشَّارِعَ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (6.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (6.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (6.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (6.3.y3)"
+            "لِمَنْعِ التِقَاءِ السَّاكِنَيْنِ (To avoid cluster of two sakins)",
+            "لأنها حرف جر",
+            "لأنها مضاف إليه",
+            "لأن الفعل معتل"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "في اللغة العربية لا يلتقي ساكنان، فتحرك سكون الأمر بالكسر العارض عند دخول «أل» التعريف."
         }
       ]
     },
@@ -3736,24 +3751,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 6-3)؟",
+          "prompt": "اختر النص الإرشادي المتكامل الذي يوجه سائحًا من الفندق إلى المتحف الوطني بأفعال أمر فصيحة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (6.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (6.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (6.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (6.3.z3)"
+            "اخْرُجْ مِنَ الفُنْدُقِ، وَسِرْ إِلَى الأَمَامِ حَتَّى تَصِلَ إِلَى إِشَارَةِ المُرُورِ، ثُمَّ انْعَطِفْ يَسَارًا وَاعْبُرِ الشَّارِعَ؛ سَتَجِدُ المَتْحَفَ الوَطَنِيَّ عَلَى يَمِينِكَ مُبَاشَرَةً. (Exit the hotel, and go straight until you reach the traffic light, then turn left and cross the street; you will find the national museum directly on your right.)",
+            "اخرج من الفندق ولا تمش في الشارع لان المتحف مغلق.",
+            "افعال امر سكون فتحة كسرة متحف اشارة مرور فندق.",
+            "سر يمينا ويسارا في نفس الوقت بدون توقف."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل الذروة في تطبيق أفعال الأمر التوجيهية «اخرج، سر، انعطف، اعبر» مع تحديد المعالم والاتجاهات بتسلسل منطقي سليم."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u6-l3) باللغة العربية (مثال: «المطبخ»):",
+          "prompt": "اكتب باللغة العربية الفصحى فعل الأمر الذي يعني «Turn! (to turn in a direction)» (مثال: «انعطف»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المطبخ",
-            "المطبخ"
+            "انعطف",
+            "انْعَطِفْ",
+            "اتجه",
+            "اتَّجِهْ"
           ],
-          "explanation": "المصطلح الصحيح هو «المطبخ»."
+          "explanation": "فعل الأمر للتوجيه هو «انعطف» أو «اتجه»."
         }
       ],
       "passThreshold": 0.8
@@ -3764,85 +3781,89 @@
     "subject": "arabic",
     "unit": 6,
     "lessonNumber": 4,
-    "title": "المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives) (الدرس 4)",
+    "title": "وسائل النقل والمواصلات وحركة المرور (Transportation & Traffic Vocabulary)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المأكولات العربية التقليدية، طلب الطعام في المطعم، ومطابقة النعت للمنعوت في الإعراب والتعريف. (الجزء 4).",
+    "objective": "إتقان معجم وسائل النقل العامة والخاصة (تاكسي، حافلة، قطار، مترو، طائرة، دراجة)، واستخدام حرف الجر (الباء) لوسائل المواصلات، والتعبير عن أوقات الرحلات والأجرة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "التنقل في المدينة وبين المدن يعتمد على وسائل المواصلات المتنوعة وتنظيم حركة المرور:\n\nأولاً: معجم وسائل النقل والمواصلات (Modes of Transportation):\n1.【النقل البري】:\n- سَيَّارَةُ أُجْرَةٍ / تَاكْسِي (Taxi) | حَافِلَةٌ عَامَّةٌ / بَاص (Bus) | قِطَارٌ سَرِيعٌ (High-speed train) | مِتْرُو الأَنْفَاقِ (Subway/Metro) | دَرَّاجَةٌ هَوَائِيَّةٌ (Bicycle) | سَيَّارَةٌ خَاصَّةٌ (Private car).\n2.【النقل الجوي والبحري】:\n- طَائِرَةٌ (Airplane - مَطَار) | سَفِينَةٌ / قَارِبٌ (Ship/Boat - مِينَاء).\n3.【مرافق المرور ومصطلحاته】:\n- إِشَارَةُ المُرُورِ (Traffic light) | مَمَرُّ المُشَاةِ (Pedestrian crossing) | مَوْقِفُ السَّيَّارَاتِ (Parking lot) | تَذْكِرَةُ السَّفَرِ (Travel ticket) | سَائِقٌ (Driver) | رَاكِبٌ (Passenger).\n\nثانياً: القواعد التركيبية لوسائل النقل:\n1. استخدام حرف الجر «البَاء» لبيان وسيلة الركوب:\n- «أَذْهَبُ إِلَى العَمَلِ **بِالحَافِلَةِ**» (I go to work by bus).\n- «أُسَافِرُ **بِالقِطَارِ** / **بِالطَّائِرَةِ**».\n2. التعبير عن المشي: «أَمْشِي **عَلَى الأَقْدَامِ**» (I walk on foot).\n\nثالثاً: السؤال عن الأجرة والمدة:\n- «كَمْ أُجْرَةُ التَّاكْسِي إِلَى وَسَطِ المَدِينَةِ؟» (How much is the taxi fare to downtown?).\n- «كَمْ تَسْتَغْرِقُ الرِّحْلَةُ بِالمِتْرُو؟» (How long does the trip take by metro?).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)» بأسلوب أكاديمي دقيق (6.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)' to students in an accurate academic style."
+          "target": "يُفَضِّلُ كَثِيرٌ مِنَ المُواطِنِينَ رُكُوبَ مِتْرُو الأَنْفَاقِ لِتَفَادِي زَحْمَةِ المُرُورِ فِي الصَّبَاحِ.(Yufaḍḍilu kathīrun mina al-muwāṭinīna rukūba mitrū al-anfāqi li-tafādī zaḥmati al-murūri fī aṣ-ṣabāḥ.)",
+          "reading": "[ju.fadˤ.dˤi.lu ka.θiː.run mi.na‿l.mu.waː.tˤi.niː.na ru.kuː.ba mit.ruː‿l.ʔan.faː.qi li.ta.faː.diː zaħ.ma.ti‿l.mu.ruː.ri fiː‿sˤ.sˤa.baːħ] (Yu-faḍ-ḍi-lu ka-thī-run mi-na al-mu-wā-ṭi-nī-na ru-kū-ba mit-rū al-an-fā-qi li-ta-fā-dī zaḥ-ma-ti al-mu-rū-ri fī aṣ-ṣa-bāḥ.)",
+          "translation": "Many citizens prefer riding the subway to avoid traffic congestion in the morning."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (6.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "اشْتَرَيْتُ تَذْكِرَةَ القِطَارِ السَّرِيعِ لِلسَّفَرِ إِلَى المَدِينَةِ السَّاحِلِيَّةِ.(Ishtaraytu tadhkirata al-qiṭāri as-sarīʿi li-s-safari ilā al-madīnati as-sāḥiliyyah.)",
+          "reading": "[ʔiʃ.ta.raj.tu tað.ki.ra.ta‿l.qi.tˤaː.ri‿s.sa.riː.ʕi lis.sa.fa.ri ʔi.laː‿l.ma.diː.na.ti‿s.saː.ħi.lij.jah] (Ish-ta-ray-tu tad-hki-ra-ta al-qi-ṭā-ri as-sa-rī-ʿi li-s-sa-fa-ri i-lā al-ma-dī-na-ti as-sā-ḥi-liy-yah.)",
+          "translation": "I bought a high-speed train ticket to travel to the coastal city."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (6.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "نَسْتَخْدِمُ حَرْفَ الجَرِّ «البَاءَ» مَعَ وَسَائِلِ النَّقْلِ: «أُسَافِرُ بِالطَّائِرَةِ» وَ«أَذْهَبُ بِالتَّاكْسِي».(Nastakhdimu ḥarfa al-jarri «al-bāʾ» maʿa wasāʾili an-naql: «usāfiru bi-ṭ-ṭāʾirah» wa-«adhhabu bi-t-tāksī».)",
+          "reading": "[nas.tax.di.mu ħar.fa‿l.ʒar.ri «al.baː.ʔa» ma.ʕa wa.saː.ʔi.li‿n.naql: «ʔu.saː.fi.ru bitˤ.tˤaː.ʔi.rah» wa.«ʔað.ha.bu bit.taːk.siː»] (Nas-takh-di-mu ḥar-fa al-jar-ri «al-bā-ʾa» ma-ʿa wa-sā-ʾi-li an-naql: «u-sā-fi-ru bi-ṭ-ṭā-ʾi-rah» wa-«adh-ha-bu bi-t-tāk-sī».)",
+          "translation": "We use the preposition 'ba' with transportation modes: 'I travel by plane' and 'I go by taxi'."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (6.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "انْتَظِرْ عِنْدَ مَمَرِّ المُشَاةِ حَتَّى تُصْبِحَ إِشَارَةُ المُرُورِ خَضْرَاءَ لِلْعُبُورِ الآمِنِ.(Intaẓir ʿinda mamarri al-mushāti ḥattā tuṣbiḥa ishāratu al-murūri khaḍrāʾa li-l-ʿubūri al-āmin.)",
+          "reading": "[ʔin.ta.zˤir ʕin.da ma.mar.ri‿l.mu.ʃaː.ti ħat.taː tusˤ.bi.ħa ʔi.ʃaː.ra.tu‿l.mu.ruː.ri xadˤ.raː.ʔa lil.ʕu.buː.ri‿l.ʔaː.min] (In-ta-ẓir ʿin-da ma-mar-ri al-mu-shā-ti ḥat-tā tuṣ-bi-ḥa i-shā-ra-tu al-mu-rū-ri khaḍ-rā-ʾa li-l-ʿu-bū-ri al-ā-min.)",
+          "translation": "Wait at the pedestrian crossing until the traffic light turns green for safe crossing."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "قِطَارٌ وَحَافِلَةٌ وَتَاكْسِي لِلتَّنَقُّلِ السَّرِيعْ، بِالبَاءِ نَرْكَبُهَا لِنَجُوبَ الكَوْنَ البَدِيعْ!"
+      ],
+      "culturalNotes": [
+        "شبكات المترو والقطارات السريعة في العواصم العربية الكبرى (مثل قطار الحرمين الشريفين ومترو الرياض ودبي والدوحة) تعكس التطور الحضاري والتكنولوجي المعاصر."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)» (الدرس 4)؟",
+          "prompt": "ما هو حرف الجر المناسب لبيان وسيلة المواصلات المستخدمة مثل: «أنا أذهب إلى الجامعة ... الحافلة»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)» بأسلوب أكاديمي دقيق (6.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (6.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (6.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (6.4.w3)"
+            "بِـ (Bi- / By)",
+            "فِي",
+            "مِنْ",
+            "عَلَى"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "نستخدم حرف الجر «الباء» مع وسائل المواصلات: «بِالحَافِلَةِ»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو التعبير الفصيح لقول «I walk on foot» دون ركوب وسيلة نقل؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "أَمْشِي عَلَى الأَقْدَامِ (I walk on foot)",
+            "أركب الطائرة في الشارع",
+            "أسافر بالقطار السريع",
+            "أجلس في البيت"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الصيغة الفصيحة للمشي هي «أَمْشِي عَلَى الأَقْدَامِ»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u6-l4):",
+          "prompt": "اختر الجملة التي تسأل عن أجرة سيارة الأجرة والوقت المستغرق إلى المطار بأسلوب فصيح:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (6.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (6.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (6.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (6.4.x3)"
+            "كَمْ أُجْرَةُ التَّاكْسِي إِلَى المَطَارِ، وَكَمْ دَقِيقَةً تَسْتَغْرِقُ الرِّحْلَةُ؟ (How much is the taxi fare to the airport, and how many minutes does the trip take?)",
+            "تاكسي مطار نقود سريعة بدون عداد",
+            "المطار ليس فيه طائرات ولا سيارات",
+            "كم سعر شراء سيارة التاكسي كلها؟"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "العبارة تجمع بين السؤال عن الأجرة المالية «كَمْ أُجْرَةُ...» والمدة الزمنية «كَمْ تَسْتَغْرِقُ...» بأسلوب راقٍ."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)»؟",
+          "prompt": "ما هو المكان المحدد والمخطط على الطريق ليعبر منه المشاة بأمان؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (6.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (6.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (6.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (6.4.y3)"
+            "مَمَرُّ المُشَاةِ (Pedestrian crossing)",
+            "مدرج الطائرات",
+            "سكة القطار السريع",
+            "موقف السيارات"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "المكان المخصص لعبور المشاة يسمى «مَمَرَّ المُشَاةِ»."
         }
       ]
     },
@@ -3850,24 +3871,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 6-4)؟",
+          "prompt": "اختر الفقرة التي تقدم وصفًا دقيقًا لرحلة يومية باستخدام وسائل النقل المتنوعة والالتزام بقواعد المرور:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (6.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (6.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (6.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (6.4.z3)"
+            "أَسْتَيْقِظُ صَبَاحًا وَأَرْكَبُ مِتْرُو الأَنْفَاقِ إِلَى مَحَطَّةِ المَيْدَانِ، ثُمَّ أَمْشِي عَلَى الرَّصِيفِ وَأَعْبُرُ عِنْدَ مَمَرِّ المُشَاةِ عِنْدَمَا تُضِيءُ الإِشَارَةُ بِالأَخْضَرِ، فَأَصِلُ إِلَى عَمَلِي فِي المَوْعِدِ المُحَدَّدِ. (I wake up in the morning and ride the subway to the square station, then walk on the sidewalk and cross at the pedestrian crossing when the light turns green, arriving at work on time.)",
+            "استيقظ صباحا واركب طائرة في الشارع الضيق بدون اشارة مرور.",
+            "مترو حافلة تاكسي سكون فتحة قطار سيارة طريق.",
+            "لا توجد مواصلات في المدينة والجميع نائمون."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة تمتاز بالثراء المعجمي والتسلسل الواقعي الدقيق لاستخدام المترو والمشي والرصيف وممر المشاة والإشارات المرورية."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u6-l4) باللغة العربية (مثال: «المطبخ»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم وسيلة النقل الحديدية السريعة التي تسير تحت الأرض في المدن الكبرى (مثال: «المترو»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المطبخ",
-            "المطبخ"
+            "المترو",
+            "مترو الأنفاق",
+            "مترو الانفاق",
+            "المتْرو"
           ],
-          "explanation": "المصطلح الصحيح هو «المطبخ»."
+          "explanation": "وسيلة النقل تحت الأرض هي «المترو» أو «مترو الأنفاق»."
         }
       ],
       "passThreshold": 0.8
@@ -3878,85 +3901,89 @@
     "subject": "arabic",
     "unit": 6,
     "lessonNumber": 5,
-    "title": "المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives) (الدرس 5)",
+    "title": "حوار السائح وسؤال المارة عن الطريق في المدينة (Comprehensive City Navigation & Directions Dialogue)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المأكولات العربية التقليدية، طلب الطعام في المطعم، ومطابقة النعت للمنعوت في الإعراب والتعريف. (الجزء 5).",
+    "objective": "الدمج الشامل لمهارات الوحدة السادسة: معالم المدينة، حروف الجر وظروف المكان، أفعال الأمر للتوجيه، ومصطلحات المواصلات في حوار واقعي متكامل بين سائح ومواطن.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة السادسة من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس ندمج جميع المهارات المكانية والملاحية في حوار تطبيقي شيق يدور بين سائح أجنبي يزور العاصمة (جون) ومواطن محلي كريم (عمر) يسأله عن كيفية الوصول إلى المتحف الوطني وسوق المدينة التراثي:\n\nعناصر النص الحواري الشامل:\n1.【الاستئذان والتحية المهذبة】: «مِنْ فَضْلِكَ يَا أَخِي»، «عَفْوًا، كَيْفَ أَصِلُ إِلَى...؟».\n2.【الوصف المكاني المتقن】: توظيف ظروف المكان (أمام، خلف، بين، بجانب، يمين، يسار).\n3.【أفعال الأمر التوجيهية】: «سِرْ إِلَى الأَمَامِ»، «انْعَطِفْ يَمِينًا»، «اعْبُرِ الشَّارِعَ»، «خُذِ الحَافِلَةَ».\n4.【خيارات المواصلات والوقت】: المقارنة بين المشي على الأقدام وركوب مترو الأنفاق أو الحافلة.\n5.【عبارات الشكر والترحيب العربي】: «شُكْرًا جَزِيلًا عَلَى لُطْفِكَ»، «أَهْلًا وَسَهْلًا بِكَ فِي مَدِينَتِنَا، رِحْلَةً سَعِيدَةً مُوَفَّقَةً».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)» بأسلوب أكاديمي دقيق (6.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)' to students in an accurate academic style."
+          "target": "عَفْوًا يَا أَخِي، كَيْفَ أَصِلُ إِلَى المَتْحَفِ الوَطَنِيِّ مِنْ هُنَا؟ — سِرْ إِلَى الأَمَامِ ثُمَّ انْعَطِفْ يَسَارًا.(ʿAfwan yā akhī, kayfa aṣilu ilā al-matḥafi al-waṭaniyyi min hunā? — Sir ilā al-amāmi thumma inʿaṭif yasāran.)",
+          "reading": "[ʕaf.wan jaː ʔa.xiː, kaj.fa ʔa.sˤi.lu ʔi.laː‿l.mat.ħa.fi‿l.wa.tˤa.nij.ji min hu.naː? — sir ʔi.laː‿l.ʔa.maː.mi θum.ma‿in.ʕa.tˤif ja.saː.ran] (ʿAf-wan yā a-khī, kay-fa a-ṣi-lu i-lā al-mat-ḥa-fi al-wa-ṭa-niy-yi min hu-nā? — Sir i-lā al-a-mā-mi thum-ma in-ʿa-ṭif ya-sā-ran.)",
+          "translation": "Excuse me brother, how do I get to the national museum from here? — Go straight ahead then turn left."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (6.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "هَلِ المَتْحَفُ بَعِيدٌ عَنْ هٰذِهِ المَحَطَّةِ؟ — لَا، هُوَ قَرِيبٌ جِدًّا، يَقَعُ بَيْنَ المَسْجِدِ الكَبِيرِ وَالفُنْدُقِ.(Hal al-matḥafu baʿīdun ʿan hādhihi al-maḥaṭṭah? — Lā, huwa qarībun jiddan, yaqaʿu bayna al-masjidi al-kabīri wa-al-funduq.)",
+          "reading": "[hal al.mat.ħa.fu ba.ʕiː.dun ʕan haː.ði.hi‿l.ma.ħatˤ.tˤah? — laː, hu.wa qa.riː.bun ʒid.dan, ja.qa.ʕu baj.na‿l.mas.ʒi.di‿l.ka.biː.ri wal.fun.duq] (Hal al-mat-ḥa-fu ba-ʿī-dun ʿan hā-dhi-hi al-ma-ḥaṭ-ṭah? — Lā, hu-wa qa-rī-bun jid-dan, ya-qa-ʿu bay-na al-mas-ji-di al-ka-bī-ri wa-al-fun-duq.)",
+          "translation": "Is the museum far from this station? — No, it is very close; it is located between the grand mosque and the hotel."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (6.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يُمْكِنُكَ أَيْضًا رُكُوبُ الحَافِلَةِ رَقْمَ خَمْسَةٍ، وَسَتَصِلُ خِلَالَ خَمْسِ دَقَائِقَ فَقَطْ.(Yumkinuka ayḍan rukūbu al-ḥāfilati raqma khamsah, wa-sa-taṣilu khilāla khamsi daqāʾiqa faqaṭ.)",
+          "reading": "[jum.ki.nu.ka ʔaj.dˤan ru.kuː.bu‿l.ħaː.fi.la.ti raq.ma xam.sah, wa.sa.ta.sˤi.lu xi.laː.la xam.si da.qaː.ʔi.qa fa.qatˤ] (Yum-ki-nu-ka ay-ḍan ru-kū-bu al-ḥā-fi-la-ti raq-ma kham-sah, wa-sa-ta-ṣi-lu khi-lā-la kham-si da-qā-ʾi-qa fa-qaṭ.)",
+          "translation": "You can also ride bus number five, and you will arrive within five minutes only."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (6.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "شُكْرًا جَزِيلًا لَكَ عَلَى حُسْنِ المُسَاعَدَةِ! — العَفْوُ، أَهْلًا وَسَهْلًا بِكَ فِي مَدِينَتِنَا الجَمِيلَةِ، رِحْلَةً مُوَفَّقَةً!(Shukran jazīlan laka ʿalā ḥusni al-musāʿadah! — Al-ʿafwu, ahlan wa-sahlan bika fī madīnatinā al-jamīlah, riḥlatan muwaffaqatan!)",
+          "reading": "[ʃuk.ran ʒa.ziː.lan la.ka ʕa.laː ħus.ni‿l.mu.saː.ʕa.dah! — al.ʕaf.wu, ʔah.lan wa.sah.lan bi.ka fiː ma.diː.na.ti.naː‿l.ʒa.miː.lah, riħ.la.tan mu.waf.fa.qa.tan!] (Shuk-ran ja-zī-lan la-ka ʿa-lā ḥus-ni al-mu-sā-ʿa-dah! — Al-ʿaf-wu, ah-lan wa-sah-lan bi-ka fī ma-dī-na-ti-nā al-ja-mī-lah, riḥ-la-tan mu-waf-fa-qa-tan!)",
+          "translation": "Thank you very much for your kind assistance! — You are welcome, welcome to our beautiful city, have a successful journey!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "تَهْدِي الحَيَارَى بِأَلْطَفِ الكَلِمَاتْ: سِرْ وَانْعَطِفْ وَاعْبُرِ الطُّرُقَاتْ، فَاللُّغَةُ نُورٌ فِي كُلِّ المَحَطَّاتْ!"
+      ],
+      "culturalNotes": [
+        "الترحيب بالغريب وتقديم الإرشاد له بابتسامات الترحاب «نورت بلدنا» يمثل صورة حية لأصالة الضيافة العربية المتوارثة عبر الأجيال."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)» (الدرس 5)؟",
+          "prompt": "كيف تسأل أحد المارة بأدب جم عن كيفية الوصول إلى السوق القديم؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)» بأسلوب أكاديمي دقيق (6.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (6.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (6.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (6.5.w3)"
+            "عَفْوًا يَا أَخِي، كَيْفَ أَصِلُ إِلَى السُّوقِ القَدِيمِ مِنْ هُنَا؟ (Excuse me brother, how do I get to the old souk?)",
+            "أين السوق أريد أن أشتري حالا",
+            "هل تبيع لي هذا الشارع؟",
+            "لماذا المدينة مزدحمة اليوم؟"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "السؤال يبدأ بالاعتذار اللبق «عَفْوًا» ثم أسلوب الاستفهام الدقيق «كَيْفَ أَصِلُ إِلَى...»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو التوجيه المكاني الدال على الانعطاف إلى الجهة اليسرى عند مفترق الطرق؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "انْعَطِفْ يَسَارًا / شِمَالًا (Turn left)",
+            "انعطف يمينا",
+            "سر إلى الخلف",
+            "توقف في مكانك"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«انْعَطِفْ يَسَارًا» أو «شِمَالاً» يعني التوجه إلى الجهة اليسرى."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u6-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تصف تقديم إرشادات كاملة للوصول إلى محطة القطار بالمترو أو مشيًا:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (6.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (6.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (6.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (6.5.x3)"
+            "— هَلْ يُمْكِنُنِي المَشْيُ إِلَى المَحَطَّةِ؟ — نَعَمْ، سِرْ لِمُدَّةِ عَشْرِ دَقَائِقَ، أَوْ خُذِ المِتْرُو لِمَحَطَّةٍ وَاحِدَةٍ فَقَطْ. (Can I walk to the station? — Yes, walk for ten minutes, or take the metro for just one stop.)",
+            "— هل المحطة قريبة؟ — لا يمكنك الذهاب ابدا نحن نائمون.",
+            "— اين القطار؟ — القطار يطير فوق المباني العالية.",
+            "— تاكسي باص قطار سكون فتحة ضمة."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة تقدم بديلين عمليين (المشي أو المترو) مع تحديد الوقت والمسافة بأسلوب عربي فصيح."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المطبخ العربي والمطعم والنعت (Arab Cuisine & Adjectives)»؟",
+          "prompt": "ما هي العبارة الودية التي تقال للمسافر تمنيًا لرحلة طيبة وموفقة؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (6.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (6.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (6.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (6.5.y3)"
+            "رِحْلَةً سَعِيدَةً مُوَفَّقَةً / فِي أَمَانِ اللهِ (Have a happy journey / Safe travels)",
+            "مع السلامة بدون كلام",
+            "لماذا تسافر الآن؟",
+            "الطريق مغلق تماما"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«رِحْلَةً سَعِيدَةً مُوَفَّقَةً» و«فِي أَمَانِ اللهِ» من أجمل عبارات التوديع وتمني السلامة."
         }
       ]
     },
@@ -3964,24 +3991,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 6-5)؟",
+          "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة السادسة بأكملها (المعالم، حروف الجر، ظروف المكان، أفعال الأمر، والمواصلات):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (6.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (6.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (6.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (6.5.z3)"
+            "وَقَفَ السَّائِحُ فِي المَيْدَانِ العَامِّ وَسَأَلَ: «عَفْوًا، كَيْفَ أَصِلُ إِلَى المَتْحَفِ الوَطَنِيِّ؟» فَأَجَابَهُ الشَّابُّ بِلَبَاقَةٍ: «اخْرُجْ مِنْ هُنَا وَسِرْ إِلَى الأَمَامِ، ثُمَّ اعْبُرِ الشَّارِعَ عِنْدَ إِشَارَةِ المُرُورِ وَانْعَطِفْ يَمِينًا؛ سَتَجِدُ المَتْحَفَ بَيْنَ المَسْجِدِ الجَامِعِ وَالفُنْدُقِ الكَبِيرِ، وَيُمْكِنُكَ أَيْضًا رُكُوبُ الحَافِلَةِ»، فَشَكَرَهُ السَّائِحُ مُمْتَنًّا لِحُسْنِ خُلُقِهِ. (The tourist stood in the public square and asked: 'Excuse me, how do I get to the national museum?' The young man replied politely: 'Exit from here and go straight, then cross the street at the traffic light and turn right; you will find the museum between the grand mosque and the big hotel, and you can also ride the bus,' so the tourist thanked him, grateful for his good manners.)",
+            "وقف السائح في الميدان بدون سؤال ولا جواب ولا معالم.",
+            "افعال امر ظروف مكان مواصلات سكون فتحة ضمة مدينة.",
+            "لا يوجد متحف ولا فندق ولا حافلات في العاصمة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج كافة الكفايات اللغوية والمكانية والملاحية للوحدة السادسة بنسق تركيبي وإعرابي متين."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u6-l5) باللغة العربية (مثال: «المطبخ»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الوسيلة التي تضيء بالألوان الثلاثة (أحمر، أصفر، أخضر) لتنظيم سير السيارات في التقاطعات (اكتب: «إشارة المرور»):",
           "acceptedAnswers": [
-            "المطبخ",
-            "المطبخ"
+            "إشارة المرور",
+            "اشارة المرور",
+            "إِشَارَةُ المُرُورِ",
+            "اشاره المرور"
           ],
-          "explanation": "المصطلح الصحيح هو «المطبخ»."
+          "explanation": "الوسيلة المنظمة للمرور هي «إشارة المرور»."
         }
       ],
       "passThreshold": 0.8
