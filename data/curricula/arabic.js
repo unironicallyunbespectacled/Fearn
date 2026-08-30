@@ -7613,85 +7613,89 @@
     "subject": "arabic",
     "unit": 13,
     "lessonNumber": 1,
-    "title": "المهن والعمل وسوق التوظيف (Professions & Employment) (الدرس 1)",
+    "title": "معجم المهن والوظائف والتأنيث الوظيفي (Professions Lexicon & Feminine Job Titles)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المهن والوظائف، كتابة السيرة الذاتية، المقابلات الشخصية، والمصطلحات الإدارية الأساسية. (الجزء 1).",
+    "objective": "إتقان المفردات الفصيحة للمهن والوظائف وقاعدة صياغة المؤنث الوظيفي بالتاء المربوطة والاسم المنقوص (طبيب/طبيبة، مهندس/مهندسة، محامٍ/محامية، مبرمج/مبرمجة).",
     "presentation": {
-      "explanation": "",
+      "explanation": "تمثل المهن والوظائف ركنًا أساسيًا في المعجم اليومي والتواصلي للغة العربية الفصحى:\n\nأولاً: معجم المهن والوظائف الأساسية (Professions):\n1.【طَبِيبٌ / طَبِيبَةٌ (Doctor / Physician)】 | 【مُهَنْدِسٌ / مُهَنْدِسَةٌ (Engineer)】.\n2.【مُعَلِّمٌ / مُعَلِّمَةٌ (Teacher)】 | 【أُسْتَاذٌ / أُسْتَاذَةٌ (Professor)】.\n3.【مُحَامٍ / مُحَامِيَةٌ (Lawyer / Attorney)】:\n   - لاحظ الاسم المنقوص: «مُحَامٍ» (مذكر نكرة مرفوع/مجرور)، «المُحَامِي» (معرفة)، «مُحَامِيًا» (منصوب).\n   - عند التأنيث تعود الياء وجوبًا: «مُحَامِيَةٌ».\n4.【صَحَفِيٌّ / صَحَفِيَّةٌ (Journalist)】 | 【مُحَاسِبٌ / مُحَاسِبَةٌ (Accountant)】.\n5.【مُتَرْجِمٌ / مُتَرْجِمَةٌ (Translator)】 | 【مُبَرْمِجٌ / مُبَرْمِجَةٌ (Programmer / Developer)】.\n6.【طَيَّارٌ / طَيَّارَةٌ (Pilot)】 | 【ضَابِطٌ / ضَابِطَةٌ (Officer)】.\n\nثانياً: قاعدة التأنيث الوظيفي:\n- تصاغ صيغة المؤنث لمعظم المهن بإلحاق التاء المربوطة (ـة / ة) بآخر الاسم المذكر:\n  - «طَبِيبٌ» -> «طَبِيبَةٌ» | «مُهَنْدِسٌ» -> «مُهَنْدِسَةٌ».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المهن والعمل وسوق التوظيف (Professions & Employment)» بأسلوب أكاديمي دقيق (13.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المهن والعمل وسوق التوظيف (Professions & Employment)' to students in an accurate academic style."
+          "target": "تَعْمَلُ فَاطِمَةُ طَبِيبَةً جَرَّاحَةً فِي المُسْتَشْفَى التَّعْلِيمِيِّ، وَأَخُوهَا مُهَنْدِسُ بَرْمَجِيَّاتٍ.(Taʿmalu Fāṭimatu ṭabībatan jarrāḥatan fī al-mustashfā at-taʿlīmiyy, wa-akhūhā muhandisu barmajiyyāt.)",
+          "reading": "[taʕ.ma.lu faː.tˤi.ma.tu tˤa.biː.ba.tan ʒar.raː.ħa.tan fiː‿l.mus.taʃ.faː‿t.taʕ.liː.mijj, wa.ʔa.xuː.haː mu.han.di.su bar.ma.ʒij.jaːt] (Taʿ-ma-lu Fā-ṭi-ma-tu ṭa-bī-ba-tan jar-rā-ḥa-tan fī al-mus-tash-fā at-taʿ-lī-miyy, wa-a-khū-hā mu-han-di-su bar-ma-jiy-yāt.)",
+          "translation": "Fatima works as a surgeon doctor in the educational hospital, and her brother is a software engineer."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (13.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يُرَافِعُ المُحَامِي عَنِ المَظْلُومِينَ أَمَامَ القَضَاءِ لِتَحْقِيقِ العَدَالَةِ وَسِيَادَةِ القَانُونِ.(Yurāfiʿu al-muḥāmī ʿani al-maẓlūmīna amāma al-qaḍāʾi li-taḥqīqi al-ʿadālati wa-siyādati al-qānūn.)",
+          "reading": "[ju.raː.fi.ʕu‿l.mu.ħaː.miː ʕa.ni‿l.mazˤ.luː.miː.na ʔa.maː.ma‿l.qa.dˤaː.ʔi li.taħ.qiː.qi‿l.ʕa.daː.la.ti wa.si.jaː.da.ti‿l.qaː.nuːn] (Yu-rā-fi-ʿu al-mu-ḥā-mī ʿa-ni al-maẓ-lū-mī-na a-mā-ma al-qa-ḍā-ʾi li-taḥ-qī-qi al-ʿa-dā-la-ti wa-si-yā-da-ti al-qā-nūn.)",
+          "translation": "The lawyer defends the oppressed before the judiciary to achieve justice and the rule of law."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (13.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يُصَاغُ المُؤَنَّثُ مِنْ أَغْلَبِ المِهَنِ بِإِضَافَةِ التَّاءِ المَرْبُوطَةِ إِلَى آخِرِ اللَّقَبِ المِهْنِيِّ.(Yuṣāghu al-muʾannathu min aghlabi al-mihani bi-iḍāfati at-tāʾi al-marbūṭati ilā ākhiri al-laqabi al-mihniyy.)",
+          "reading": "[ju.sˤaː.ɣu‿l.mu.ʔan.na.θu min ʔaɣ.la.bi‿l.mi.ha.ni bi.ʔi.dˤaː.fa.ti‿t.taː.ʔi‿l.mar.buː.tˤa.ti ʔi.laː ʔaː.xi.ri‿l.la.qa.bi‿l.mih.nijj] (Yu-ṣā-ghu al-mu-ʾan-na-thu min agh-la-bi al-mi-ha-ni bi-i-ḍā-fa-ti at-tā-ʾi al-mar-bū-ṭa-ti i-lā ā-khi-ri al-la-qa-bi al-mih-niyy.)",
+          "translation": "The feminine is formed from most professions by adding the tied ta (taa marbutah) to the end of the professional title."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (13.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يَقُودُ الطَّيَّارُ الطَّائِرَةَ بِكُلِّ مَهَارَةٍ وَأَمَانٍ بَيْنَ العَوَاصِمِ وَالمُدُنِ العَالَمِيَّةِ.(Yaqūdu aṭ-ṭayyāru aṭ-ṭāʾirata bi-kulli mahāratin wa-amānin bayna al-ʿawāṣimi wa-al-muduni al-ʿālamiyyah.)",
+          "reading": "[ja.quː.du‿tˤ.tˤaj.jaː.ru‿tˤ.tˤaː.ʔi.ra.ta bi.kul.li ma.haː.ra.tin wa.ʔa.maː.nin baj.na‿l.ʕa.waː.sˤi.mi wal.mu.du.ni‿l.ʕaː.la.mij.jah] (Ya-qū-du aṭ-ṭay-yā-ru aṭ-ṭā-ʾi-ra-ta bi-kul-li ma-hā-ra-tin wa-a-mā-nin bay-na al-ʿa-wā-ṣi-mi wa-al-mu-du-ni al-ʿā-la-miy-yah.)",
+          "translation": "The pilot flies the airplane with complete skill and safety between capitals and global cities."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "طَبِيبٌ وَمُهَنْدِسٌ وَمُحَامٍ فِي العَمَلْ، وَالتَّاءُ لِلتَّأْنِيثِ تَاجٌ يُكْتَمَلْ!"
+      ],
+      "culturalNotes": [
+        "مهنة الطب في التراث العربي كانت مقرونة بالحكمة والأخلاق العالية، ولُقِّب الطبيب بـ «الحكيم» لعلمه الواسع بطبائع الإنسان وعلاج الأبدان."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المهن والعمل وسوق التوظيف (Professions & Employment)» (الدرس 1)؟",
+          "prompt": "ما هي صيغة المؤنث الصحيحة للمهنة «مُحَامٍ» عند التعيين للمؤنث النكرة؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المهن والعمل وسوق التوظيف (Professions & Employment)» بأسلوب أكاديمي دقيق (13.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (13.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (13.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (13.1.w3)"
+            "مُحَامِيَةٌ (Muḥāmiyah - restoring the yaa with taa marbutah)",
+            "محامة",
+            "محاماة",
+            "محيم"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "عند تأنيث الاسم المنقوص «مُحَامٍ» تعود ياؤه وتلحق به التاء المربوطة: «مُحَامِيَةٌ»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي المهنة المسؤولة عن كتابة البرامج والأنظمة الرقمية في الحاسوب؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "مُبَرْمِجٌ / مُبَرْمِجَةٌ (Software Developer / Programmer)",
+            "طيار",
+            "نجار",
+            "طبيب أسنان"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«المُبَرْمِجُ» هو المتخصص في البرمجة وتطوير الأنظمة الرقمية."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u13-l1):",
+          "prompt": "اختر الجملة التي تعبر عن مهنة الترجمة بتركيب لغوي فصيح ومؤنث:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (13.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (13.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (13.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (13.1.x3)"
+            "تَعْمَلُ زَيْنَبُ مُتَرْجِمَةً فَوْرِيَّةً فِي المُنَظَّمَاتِ الدَّوْلِيَّةِ. (Zaynab works as a simultaneous translator in international organizations.)",
+            "تعمل زينب مترجم بالتذكير الخاطئ مع الفاعل المؤنث",
+            "زينب تترجم طائرة في المطار",
+            "مهنة مترجمة فورية سكون فتحة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«مُتَرْجِمَةً فَوْرِيَّةً» حال/خبر منصوب مطابق للفاعل المؤنث «زَيْنَبُ» بدقة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المهن والعمل وسوق التوظيف (Professions & Employment)»؟",
+          "prompt": "ما هو اللقب المهني للمتخصص في إدارة وتدقيق الحسابات المالية؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (13.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (13.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (13.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (13.1.y3)"
+            "مُحَاسِبٌ (Accountant)",
+            "مهندس معماري",
+            "صحفي",
+            "طبيب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«المُحَاسِبُ» هو المختص بالشؤون المالية وتدقيق الحسابات."
         }
       ]
     },
@@ -7699,24 +7703,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 13-1)؟",
+          "prompt": "اختر النص الذي يصف تكامل المهن والوظائف المتنوعة في بناء المجتمع بأسلوب فصيح ودقيق:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (13.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (13.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (13.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (13.1.z3)"
+            "يَتَعَاوَنُ أَبْنَاءُ الوَطَنِ فِي مُخْتَلَفِ المِهَنِ؛ فَالمُهَنْدِسَةُ تُشَيِّدُ البِنَاءَ، وَالطَّبِيبُ يُدَاوِي المَرْضَى، وَالمُعَلِّمُ يُرَبِّي الأَجْيَالَ، وَالمُحَامِي يُدَافِعُ عَنِ الحَقِّ. (Sons and daughters of the homeland cooperate in diverse professions; the female engineer constructs buildings, the doctor cures patients, the teacher educates generations, and the lawyer defends the truth.)",
+            "يتعاون ابناء الوطن بالافعال الماضية فقط بلا مهن ولا القاب.",
+            "مهن وظائف مهندسة طبيب معلم محامي سكون فتحة ضمة.",
+            "توقفت جميع المهن والوظائف في المدينة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين ألقاب المهن المتنوعة «المُهَنْدِسَة، الطَّبِيب، المُعَلِّم، المُحَامِي» وبيان رسالة كل مهنة ببلاغة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u13-l1) باللغة العربية (مثال: «المهن»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم المهنة التي تعني «من يقود الطائرة» (اكتب: «طيار» أو «الطيار»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المهن",
-            "المهن"
+            "طيار",
+            "الطيار",
+            "طَيَّارٌ",
+            "طَيَّار",
+            "الطَّيَّارُ"
           ],
-          "explanation": "المصطلح الصحيح هو «المهن»."
+          "explanation": "المهنة هي «طيار» أو «الطيار»."
         }
       ],
       "passThreshold": 0.8
@@ -7727,85 +7734,89 @@
     "subject": "arabic",
     "unit": 13,
     "lessonNumber": 2,
-    "title": "المهن والعمل وسوق التوظيف (Professions & Employment) (الدرس 2)",
+    "title": "صياغة اسم الفاعل ودلالته الوظيفية (Active Participle: Ism al-Fāʿil)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المهن والوظائف، كتابة السيرة الذاتية، المقابلات الشخصية، والمصطلحات الإدارية الأساسية. (الجزء 2).",
+    "objective": "إتقان قواعد اشتقاق اسم الفاعل من الفعل الثلاثي المجرد على وزن (فَاعِل) ومن غير الثلاثي بميم مضمومة وكسر ما قبل الآخر، وفهم دلالته على الألقاب المهنية.",
     "presentation": {
-      "explanation": "",
+      "explanation": "اسم الفاعل اسم مشتق يدل على من قام بالفعل أو اتصف به، وتُشتق منه معظم الألقاب الوظيفية في العربية:\n\nأولاً: صياغة اسم الفاعل من الفعل الثلاثي المجرد (Form I):\n- يُصاغ على وزن **فَاعِلٌ**:\n  - كَتَبَ -> **كَاتِبٌ** (Writer) | حَكَمَ -> **حَاكِمٌ** (Judge / Ruler).\n  - عَمِلَ -> **عَامِلٌ** (Worker) | صَنَعَ -> **صَانِعٌ** (Craftsman / Maker).\n  - عَلِمَ -> **عَالِمٌ** (Scientist / Scholar) | قَرَأَ -> **قَارِئٌ** (Reader).\n  - تَجَرَ -> **تَاجِرٌ** (Merchant / Trader) | بَحَثَ -> **بَاحِثٌ** (Researcher).\n\nثانياً: صياغة اسم الفاعل من غير الثلاثي (Augmented Forms):\n- نأتي بالمضارع + إبدال حرف المضارعة **مِيمًا مَضْمُومَةً (مُـ)** + **كَسْرِ مَا قَبْلَ الآخِرِ**:\n  - دَرَّسَ -> يُدَرِّسُ -> **مُدَرِّسٌ** (Teacher - Form II).\n  - أَدَارَ -> يُدِيرُ -> **مُدِيرٌ** (Director / Manager - Form IV).\n  - حَاسَبَ -> يُحَاسِبُ -> **مُحَاسِبٌ** (Accountant - Form III).\n  - بَرْمَجَ -> يُبَرْمِجُ -> **مُبَرْمِجٌ** (Programmer - Quadriliteral).\n  - ابْتَكَرَ -> يَبْتَكِرُ -> **مُبْتَكِرٌ** (Innovator - Form VIII).\n  - اسْتَشَارَ -> يَسْتَشِيرُ -> **مُسْتَشِارٌ** (Consultant / Advisor - Form X).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المهن والعمل وسوق التوظيف (Professions & Employment)» بأسلوب أكاديمي دقيق (13.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المهن والعمل وسوق التوظيف (Professions & Employment)' to students in an accurate academic style."
+          "target": "يُشْتَقُّ اسْمُ الفَاعِلِ مِنَ الثُّلَاثِيِّ عَلَى وَزْنِ «فَاعِلٍ» مِثْلَ: كَاتِبٍ، وَصَانِعٍ، وَتَاجِرٍ.(Yushtaqqu ismu al-fāʿili min ath-thulāthiyyi ʿalā wazni 'fāʿil' mithla: kātib, wa-ṣāniʿ, wa-tājir.)",
+          "reading": "[juʃ.taq.qu‿is.mu‿l.faː.ʕi.li mi.na‿θ.θu.laː.θij.ji ʕa.laː waz.ni «faː.ʕil» miθ.la: kaː.ti.bin, wa.sˤaː.ni.ʕin, wa.taː.ʒir] (Yush-taq-qu is-mu al-fā-ʿi-li mi-na ath-thu-lā-thiy-yi ʿa-lā waz-ni 'fā-ʿil' mith-la: kā-ti-bin, wa-ṣā-ni-ʿin, wa-tā-ji-rin.)",
+          "translation": "The active participle is derived from the triliteral on the pattern 'fāʿil' like: writer, maker, and merchant."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (13.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يُصَاغُ اسْمُ الفَاعِلِ مِنْ غَيْرِ الثُّلَاثِيِّ بِمِيمٍ مَضْمُومَةٍ وَكَسْرِ مَا قَبْلَ الآخِرِ مِثْلَ: «مُدِيرٍ» وَ«مُعَلِّمٍ».(Yuṣāghu ismu al-fāʿili min ghayri ath-thulāthiyyi bi-mīmin maḍmūmatin wa-kasri mā qabla al-ākhiri mithla: 'mudīr' wa-'muʿallim'.)",
+          "reading": "[ju.sˤaː.ɣu‿is.mu‿l.faː.ʕi.li min ɣaj.ri‿θ.θu.laː.θij.ji bi.miː.min madˤ.muː.ma.tin wa.kas.ri maː qab.la‿l.ʔaː.xi.ri miθ.la: «mu.diːr» wa«mu.ʕal.lim»] (Yu-ṣā-ghu is-mu al-fā-ʿi-li min ghay-ri ath-thu-lā-thiy-yi bi-mī-min maḍ-mū-ma-tin wa-kas-ri mā qab-la al-ā-khi-ri mith-la: 'mu-dīr' wa-'mu-ʿal-lim'.)",
+          "translation": "The active participle is formed from non-triliterals with a dammah-prefixed meem and kasrah before the last letter like: 'director' and 'teacher'."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (13.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يَعْمَلُ زَيْدٌ مُدِيرًا تَنْفِيذِيًّا يُشْرِفُ عَلَى أَعْمَالِ الشَّرِكَةِ وَتَطْوِيرِ مَشَارِيعِهَا.(Yaʿmalu Zaydun mudīran tanfīdhiyyan yushrifu ʿalā aʿmāli ash-sharikati wa-taṭwīri mashārīʿihā.)",
+          "reading": "[jaʕ.ma.lu zaj.dun mu.diː.ran tan.fiː.ðij.jan juʃ.ri.fu ʕa.laː ʔaʕ.maː.li‿ʃ.ʃa.ri.ka.ti wa.tatˤ.wiː.ri ma.ʃaː.riː.ʕi.haː] (Yaʿ-ma-lu Zay-dun mu-dī-ran tan-fī-dhiy-yan yush-ri-fu ʿa-lā aʿ-mā-li ash-sha-ri-ka-ti wa-taṭ-wī-ri ma-shā-rī-ʿi-hā.)",
+          "translation": "Zayd works as an executive director supervising the company's operations and development of its projects."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (13.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "العَالِمُ وَالبَاحِثُ يَقُودَانِ الِابْتِكَارَ العِلْمِيَّ لِخِدْمَةِ المُجْتَمَعِ وَبِنَاءِ المُسْتَقْبَلِ.(Al-ʿālimu wa-al-bāḥithu yaqūdāni al-ibtikāra al-ʿilmiyya li-khidmati al-mujtamaʿi wa-bināʾi al-mustaqbal.)",
+          "reading": "[al.ʕaː.li.mu wal.baː.ħi.θu ja.quː.daː.ni‿l.ʔib.ti.kaː.ra‿l.ʕil.mij.ja li.xid.ma.ti‿l.muʒ.ta.ma.ʕi wa.bi.naː.ʔi‿l.mus.taq.bal] (Al-ʿā-li-mu wa-al-bā-ḥi-thu ya-qū-dā-ni al-ib-ti-kā-ra al-ʿil-miy-ya li-khid-ma-ti al-muj-ta-ma-ʿi wa-bi-nā-ʾi al-mus-taq-bal.)",
+          "translation": "The scientist and researcher lead scientific innovation to serve society and build the future."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فَاعِلٌ مِنَ الثُّلَاثِيِّ جَاءَ سَرِيعًا، وَمِيمٌ مَضْمُومَةٌ مَعَ كَسْرٍ تَصُوغُ المَزِيدَ بَدِيعًا!"
+      ],
+      "culturalNotes": [
+        "جمالية الصرف العربي تكمن في قدرة الأوزان القياسية لاسم الفاعل على توليد أسماء المهن الحديثة والتقنية بدقة معجمية بالغة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المهن والعمل وسوق التوظيف (Professions & Employment)» (الدرس 2)؟",
+          "prompt": "ما هو وزن اسم الفاعل المشتق من الفعل الثلاثي «كَتَبَ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المهن والعمل وسوق التوظيف (Professions & Employment)» بأسلوب أكاديمي دقيق (13.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (13.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (13.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (13.2.w3)"
+            "فَاعِلٌ: كَاتِبٌ (Fāʿil -> Kātib)",
+            "مكتوب",
+            "مكتب",
+            "كتابة"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "اسم الفاعل من كتب الثلاثي هو «كَاتِبٌ» على وزن فَاعِل."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "كيف يُصاغ اسم الفاعل من الفعل غير الثلاثي «أَدَارَ»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "مُدِيرٌ (Mudīr - with dammah on meem and kasrah before the end)",
+            "دار",
+            "مدار",
+            "دوّار"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "يصاغ من غير الثلاثي بإبدال ياء المضارع ميمًا مضمومة وكسر ما قبل الآخر: أدار -> يدير -> مُدِيرٌ."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u13-l2):",
+          "prompt": "اختر الجملة التي تشتمل على اسم فاعل من فعل مزيد بميم مضمومة وكسر ما قبل الآخر:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (13.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (13.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (13.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (13.2.x3)"
+            "يَعْمَلُ أَحْمَدُ مُسْتَشَارًا قَانُونِيًّا فِي الدَّائِرَةِ الحُكُومِيَّةِ. (Ahmad works as a legal consultant in the government department.)",
+            "يعمل احمد كاتب في السوق",
+            "احمد تاجر كتب",
+            "اسم فاعل مزيد سكون فتحة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«مُسْتَشَارًا» (أو مُسْتَشِير/مُسْتَشَار) اسم مشتق من الفعل السداسي استشار."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المهن والعمل وسوق التوظيف (Professions & Employment)»؟",
+          "prompt": "ما هو اسم الفاعل من الفعل الثلاثي «صَنَعَ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (13.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (13.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (13.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (13.2.y3)"
+            "صَانِعٌ (Ṣāniʿ - Maker / Craftsman)",
+            "مصنوع",
+            "مصنع",
+            "صناعة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "اسم الفاعل من صَنَعَ هو «صَانِعٌ» على وزن فَاعِل."
         }
       ]
     },
@@ -7813,24 +7824,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 13-2)؟",
+          "prompt": "اختر الفقرة التي توظف أسماء فاعلين متعددة الأوزان (ثلاثية ومزيدة) في سياق مهني وأكاديمي متكامل:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (13.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (13.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (13.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (13.2.z3)"
+            "اجْتَمَعَ فِي المُؤْتَمَرِ العَالِمُ وَالبَاحِثُ مَعَ المُدِيرِ التَّنْفِيذِيِّ وَالمُهَنْدِسِ المُبْتَكِرِ؛ لِمُنَاقَشَةِ حُلُولِ الطَّاقَةِ النَّظِيفَةِ. (The scientist and the researcher met at the conference with the executive director and the innovative engineer; to discuss clean energy solutions.)",
+            "اجتمع في المؤتمر بالافعال الماضية فقط بلا اسماء فاعلين.",
+            "اسماء فاعلين عالم باحث مدير مبتكر سكون فتحة ضمة.",
+            "غادر الجميع المؤتمر دون عقد اي اجتماع مهني."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة تجمع بين أسماء فاعلين ثلاثية «العَالِم، البَاحِث» ومزيدة «المُدِير، المُهَنْدِس، المُبْتَكِر» بتناسق بلاغي بديع."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u13-l2) باللغة العربية (مثال: «المهن»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الفاعل من الفعل الثلاثي «عَلِمَ» (اكتب: «عالم» أو «العالم»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المهن",
-            "المهن"
+            "عالم",
+            "العالم",
+            "عَالِمٌ",
+            "عَالِم",
+            "العَالِمُ"
           ],
-          "explanation": "المصطلح الصحيح هو «المهن»."
+          "explanation": "اسم الفاعل هو «عالم» أو «العالم»."
         }
       ],
       "passThreshold": 0.8
@@ -7841,85 +7855,89 @@
     "subject": "arabic",
     "unit": 13,
     "lessonNumber": 3,
-    "title": "المهن والعمل وسوق التوظيف (Professions & Employment) (الدرس 3)",
+    "title": "أماكن العمل والمنشآت والمؤسسات (Workplaces, Facilities & Institutions)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المهن والوظائف، كتابة السيرة الذاتية، المقابلات الشخصية، والمصطلحات الإدارية الأساسية. (الجزء 3).",
+    "objective": "إتقان أسماء أماكن العمل والمنشآت الاقتصادية والحكومية (مكتب، مصنع، شركة، مصرف، مستشفى، محكمة، جامعة، وزارة) وحروف الجر المقترنة بها (في / لدى).",
     "presentation": {
-      "explanation": "",
+      "explanation": "ترتبط كل مهنة بمنشأة ومكان عمل محدد في اللغة العربية:\n\nأولاً: معجم أماكن العمل والمنشآت (Workplaces):\n1.【مَكْتَبٌ / مَكَاتِبُ (Office)】 | 【مَصْنَعٌ / مَصَانِعُ (Factory / Plant)】 (على وزن مَفْعَل اسم مكان).\n2.【شَرِكَةٌ / شَرِكَاتٌ (Company / Corporation)】 | 【مَصْرِفٌ / بَنْكٌ (Bank)】.\n3.【مُسْتَشْفَى / مُسْتَشْفَيَاتٌ (Hospital)】 | 【عِيَادَةٌ (Clinic)】.\n4.【مَحْكَمَةٌ / مَحَاكِمُ (Court / Judiciary)】.\n5.【جَامِعَةٌ / جَامِعَاتٌ (University)】 | 【مَدْرَسَةٌ (School)】.\n6.【وِزَارَةٌ / وِزَارَاتٌ (Ministry)】 | 【سِفَارَةٌ (Embassy)】 | 【مَطَارٌ (Airport)】.\n\nثانياً: حروف الجر والتراكيب الوظيفية:\n- «يَعْمَلُ فِي ... (Works in)»: «يَعْمَلُ فِي شَرِكَةِ هَنْدَسَةٍ» / «يَعْمَلُ فِي المَحْكَمَةِ».\n- «يَعْمَلُ لَدَى ... (Works for / at - المؤسسة/الشخص)»: «تَعْمَلُ لَدَى المَصْرِفِ المَرْكَزِيِّ».\n- «مَقَرُّ العَمَلِ (Workplace headquarters)» | «بُرْجُ الشَّرِكَاتِ (Business tower)».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المهن والعمل وسوق التوظيف (Professions & Employment)» بأسلوب أكاديمي دقيق (13.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المهن والعمل وسوق التوظيف (Professions & Employment)' to students in an accurate academic style."
+          "target": "تُقَدِّمُ المُسْتَشْفَيَاتُ وَالعِيَادَاتُ الطِّبِّيَّةُ الرِّعَايَةَ الصِّحِّيَّةَ الشَّامِلَةَ لِلْمَرْضَى.(Tuqaddimu al-mustashfayātu wa-al-ʿiyādātu aṭ-ṭibbiyyatu ar-riʿāyata aṣ-ṣiḥḥiyyata ash-shāmilata li-l-marḍā.)",
+          "reading": "[tu.qad.di.mu‿l.mus.taʃ.fa.jaː.tu wal.ʕi.jaː.daː.tu‿tˤ.tˤib.bij.ja.tu‿r.ri.ʕaː.ja.ta‿sˤ.sˤiħ.ħij.ja.ta‿ʃ.ʃaː.mi.la.ta lil.mar.dˤaː] (Tu-qad-di-mu al-mus-tash-fa-yā-tu wa-al-ʿi-yā-dā-tu aṭ-ṭib-biy-ya-tu ar-ri-ʿā-ya-ta aṣ-ṣiḥ-ḥiy-ya-ta ash-shā-mi-la-ta li-l-mar-ḍā.)",
+          "translation": "Hospitals and medical clinics provide comprehensive healthcare to patients."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (13.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يُدِيرُ رَئِيسُ المَجْلِسِ الشَّرِكَةَ مِنْ مَكْتَبِهِ الرَّئِيسِيِّ فِي بُرْجِ الأَعْمَالِ.(Yudīru raʾīsu al-majlisi ash-sharikata min maktabihi ar-raʾīsiyyi fī burji al-aʿmāl.)",
+          "reading": "[ju.diː.ru ra.ʔiː.su‿l.maʒ.li.si‿ʃ.ʃa.ri.ka.ta min mak.ta.bi.hi‿r.ra.ʔiː.sij.ji fiː bur.ʒi‿l.ʔaʕ.maːl] (Yu-dī-ru ra-ʾī-su al-maj-li-si ash-sha-ri-ka-ta min mak-ta-bi-hi ar-ra-ʾī-siy-yi fī bur-ji al-aʿ-māl.)",
+          "translation": "The board chairman manages the company from his head office in the business tower."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (13.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يَجْتَمِعُ القُضَاةُ وَالمُحَامُونَ فِي قَاعَةِ المَحْكَمَةِ لِلنَّظَرِ فِي القَضَايَا بِعَدْلٍ وَإِنْصَافٍ.(Yajtamiʿu al-quḍātu wa-al-muḥāmūna fī qāʿati al-maḥkamati li-n-naẓari fī al-qaḍāyā bi-ʿadlin wa-inṣāf.)",
+          "reading": "[jaʒ.ta.mi.ʕu‿l.qu.dˤaː.tu wal.mu.ħaː.muː.na fiː qaː.ʕa.ti‿l.maħ.ka.ma.ti lin.na.zˤa.ri fiː‿l.qa.dˤaː.jaː bi.ʕad.lin wa.ʔin.sˤaːf] (Yaj-ta-mi-ʿu al-qu-ḍā-tu wa-al-mu-ḥā-mū-na fī qā-ʿa-ti al-maḥ-ka-ma-ti li-n-na-ẓa-ri fī al-qa-ḍā-yā bi-ʿad-lin wa-in-ṣāf.)",
+          "translation": "Judges and lawyers gather in the courtroom to examine cases with justice and equity."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (13.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يُنْتِجُ المَصْنَعُ الحَدِيثُ أَجْهِزَةً إِلِكْتُرُونِيَّةً مُتَطَوِّرَةً تُصَدَّرُ إِلَى مُخْتَلَفِ دُوَلِ العَالَمِ.(Yuntiju al-maṣnaʿu al-ḥadīthu ajhizatan iliktrūniyyatan mutaṭawwiratan tuṣaddaru ilā mukhtalafi duwali al-ʿālam.)",
+          "reading": "[jun.ti.ʒu‿l.masˤ.na.ʕu‿l.ħa.diː.θu ʔaʒ.hi.za.tan ʔi.lik.truː.nij.ja.tan mu.ta.tˤaw.wi.ra.tan tu.sˤad.da.ru ʔi.laː mux.ta.la.fi du.wa.li‿l.ʕaː.lam] (Yun-ti-ju al-maṣ-na-ʿu al-ḥa-dī-thu aj-hi-za-tan i-lik-trū-niy-ya-tan mu-ta-ṭaw-wi-ra-tan tu-ṣad-da-ru i-lā mukh-ta-la-fi du-wa-li al-ʿā-lam.)",
+          "translation": "The modern factory produces advanced electronic devices exported to various countries of the world."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مَكْتَبٌ وَمَصْنَعٌ وَشَرِكَةٌ وَمَحْكَمَةٌ فِيهَا الأَمَانْ، أَمَاكِنُ العَمَلِ تَبْنِي صُرُوحَ الأَوْطَانْ!"
+      ],
+      "culturalNotes": [
+        "المدن العربية الكبرى تحتضن كبرى المناطق المالية والمجمعات الذكية، مثل مجمع الملك عبد الله المالي بالرياض ومركز دبي المالي العالمي."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المهن والعمل وسوق التوظيف (Professions & Employment)» (الدرس 3)؟",
+          "prompt": "ما هو اسم المكان الذي يمارس فيه القضاة والمحامون أعمال التقاضي وإصدار الأحكام؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المهن والعمل وسوق التوظيف (Professions & Employment)» بأسلوب أكاديمي دقيق (13.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (13.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (13.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (13.3.w3)"
+            "المَحْكَمَةُ (The Court / Courthouse)",
+            "المستشفى",
+            "المصنع",
+            "المطار"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«المَحْكَمَةُ» هي مقر القضاء والتقاضي."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو وزن اسم المكان لكلمة «مَصْنَع» المشتقة من «صَنَعَ»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "مَفْعَلٌ (Mafʿal)",
+            "مفعول",
+            "فاعل",
+            "فعالة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«مَصْنَعٌ» على وزن اسم المكان «مَفْعَلٌ» للدلالة على مكان الصنع والإنتاج."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u13-l3):",
+          "prompt": "اختر الجملة التي تصف العمل لدى مؤسسة مصرفية بدقة في استخدام حرف الجر:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (13.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (13.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (13.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (13.3.x3)"
+            "تَعْمَلُ سَارَةُ مُحَاسِبَةً مَالِيَّةً لَدَى المَصْرِفِ المَرْكَزِيِّ. (Sarah works as a financial accountant for the central bank.)",
+            "تعمل سارة في السماء بالخطأ المكاني",
+            "سارة مصرف يكتب المحكمة",
+            "محاسبة مصرف مركزي سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "استخدام «لَدَى المَصْرِفِ المَرْكَزِيِّ» يعبر بفصاحة عن العمل لصالح المؤسسة المالية."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المهن والعمل وسوق التوظيف (Professions & Employment)»؟",
+          "prompt": "ما هي المنشأة المسؤولة عن تقديم التعليم العالي ومنح الدرجات الأكاديمية؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (13.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (13.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (13.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (13.3.y3)"
+            "الجَامِعَةُ (The University)",
+            "المصنع",
+            "المحكمة",
+            "المستودع"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الجَامِعَةُ» هي صرح التعليم العالي والبحث العلمي."
         }
       ]
     },
@@ -7927,24 +7945,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 13-3)؟",
+          "prompt": "اختر النص الذي يصف التوزيع المهني على أماكن العمل المتنوعة بأسلوب لغوي رصين:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (13.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (13.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (13.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (13.3.z3)"
+            "تَتَوَزَّعُ الكَفَاءَاتُ الوَطَنِيَّةُ فِي مُؤَسَّسَاتِ الدَّوْلَةِ؛ فَيَعْمَلُ الأَطِبَّاءُ فِي المُسْتَشْفَيَاتِ، وَالمُهَنْدِسُونَ فِي المَصَانِعِ وَالشَّرِكَاتِ، وَالأَسَاتِذَةُ فِي الجَامِعَاتِ، وَالمُحَامُونَ فِي المَحَاكِمِ. (National competencies are distributed across state institutions; doctors work in hospitals, engineers in factories and companies, professors in universities, and lawyers in courts.)",
+            "تتوزع الكفاءات بالماضي فقط بلا اماكن عمل وبلا مؤسسات.",
+            "مستشفيات مصانع شركات جامعات محاكم سكون فتحة ضمة.",
+            "خلت جميع المؤسسات من الموظفين والعاملين."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يقرن كل فئة مهنية بمنشأتها ومقر عملها المناسب بأسلوب عربي فصيح وناصع."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u13-l3) باللغة العربية (مثال: «المهن»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم مكان العمل الذي يعني «مكان صناعة المنتجات والآلات» على وزن مَفْعَل (اكتب: «مصنع» أو «المصنع»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المهن",
-            "المهن"
+            "مصنع",
+            "المصنع",
+            "مَصْنَعٌ",
+            "مَصْنَع",
+            "المَصْنَعُ"
           ],
-          "explanation": "المصطلح الصحيح هو «المهن»."
+          "explanation": "المكان هو «مصنع» أو «المصنع»."
         }
       ],
       "passThreshold": 0.8
@@ -7955,85 +7976,89 @@
     "subject": "arabic",
     "unit": 13,
     "lessonNumber": 4,
-    "title": "المهن والعمل وسوق التوظيف (Professions & Employment) (الدرس 4)",
+    "title": "السيرة الذاتية ومقابلات التوظيف والمؤهلات (CV, Job Interviews & Qualifications)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المهن والوظائف، كتابة السيرة الذاتية، المقابلات الشخصية، والمصطلحات الإدارية الأساسية. (الجزء 4).",
+    "objective": "إتقان مصطلحات التوظيف والتقديم على الوظائف (السيرة الذاتية، الخبرة المهنية، المؤهلات العلمية، المقابلة الشخصية، الراتب، شروط القبول).",
     "presentation": {
-      "explanation": "",
+      "explanation": "يتطلب سوق العمل العربي المعاصر إتقان المصطلحات الرسمية للتوظيف وإجراء المقابلات:\n\nأولاً: معجم التوظيف والسيرة الذاتية (Employment & CV Vocabulary):\n1.【السِّيرَةُ الذَّاتِيَّةُ (CV / Resume)】: الوثيقة التعريفية بمسار الباحث عن عمل.\n2.【الخِبْرَةُ المِهْنِيَّةُ / العَمَلِيَّةُ (Professional / Work Experience)】.\n3.【المُؤَهِّلَاتُ العِلْمِيَّةُ (Academic Qualifications / Degrees)】.\n4.【مُقَابَلَةُ التَّوْظِيفِ / المُقَابَلَةُ الشَّخْصِيَّةُ (Job Interview)】.\n5.【وَظِيفَةٌ شَاغِرَةٌ (Job Vacancy)】 | 【شُرُوطُ القَبُولِ (Hiring Criteria)】.\n6.【خِطَابُ التَّزْكِيَةِ / التَّوْصِيَةِ (Recommendation Letter)】.\n7.【الرَّاتِبُ الشَّهْرِيُّ (Monthly Salary)】 | 【المَزَايَا وَالبَدَلَاتُ (Benefits & Allowances)】.\n\nثانياً: عبارات مهنية شائعة في طلبات العمل:\n- «يَسُرُّنِي التَّقَدُّمُ لِهٰذِهِ الوَظِيفَةِ الشَّاغِرَةِ» (I am pleased to apply for this vacancy).\n- «لَدَيَّ خِبْرَةٌ تَمْتَدُّ لِعِدَّةِ سَنَوَاتٍ فِي مَجَالِ...» (I have experience extending for several years in...).\n- «أَتَمَتَّعُ بِمَهَارَاتِ العَمَلِ الجَمَاعِيِّ وَحَلِّ المُشْكِلَاتِ» (I enjoy teamwork and problem-solving skills).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المهن والعمل وسوق التوظيف (Professions & Employment)» بأسلوب أكاديمي دقيق (13.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المهن والعمل وسوق التوظيف (Professions & Employment)' to students in an accurate academic style."
+          "target": "أَرْسَلَ المُتَقَدِّمُ سِيرَتَهُ الذَّاتِيَّةَ مَعَ شَهَادَاتِ الخِبْرَةِ المِهْنِيَّةِ إِلَى قِسْمِ المَوَارِدِ البَشَرِيَّةِ.(Arsala al-mutaqaddimu sīratahu adh-dhātiyyata maʿa shahādāti al-khibrati al-mihniyyati ilā qismi al-mawāridi al-bashariyyah.)",
+          "reading": "[ʔar.sa.la‿l.mu.ta.qad.di.mu siː.ra.ta.hu‿ð.ðaː.tij.ja.ta ma.ʕa ʃa.haː.daː.ti‿l.xib.ra.ti‿l.mih.nij.ja.ti ʔi.laː qis.mi‿l.ma.waː.ri.di‿l.ba.ʃa.rij.jah] (Ar-sa-la al-mu-ta-qad-di-mu sī-ra-ta-hu adh-dhā-tiy-ya-ta ma-ʿa sha-hā-dā-ti al-khib-ra-ti al-mih-niy-ya-ti i-lā qis-mi al-ma-wā-ri-di al-ba-sha-riy-yah.)",
+          "translation": "The applicant sent his resume along with professional experience certificates to the human resources department."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (13.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "حَضَرَ المُهَنْدِسُ مُقَابَلَةَ التَّوْظِيفِ الشَّخْصِيَّةَ فِي مَقَرِّ الشَّرِكَةِ وَأَجَابَ عَنِ الأَسْئِلَةِ بِثِقَةٍ وَفَصَاحَةٍ.(Ḥaḍara al-muhandisu muqābalata at-tawẓīfi ash-shakhṣiyyata fī maqarr ash-sharikati wa-ajāba ʿani al-asʾilati bi-thiqatin wa-faṣāḥah.)",
+          "reading": "[ħa.dˤa.ra‿l.mu.han.di.su mu.qaː.ba.la.ta‿t.taw.zˤiː.fi‿ʃ.ʃax.sˤij.ja.ta fiː ma.qar.ri‿ʃ.ʃa.ri.ka.ti wa.ʔa.ʒaː.ba ʕa.ni‿l.ʔas.ʔi.la.ti bi.θi.qa.tin wa.fa.sˤaː.ħah] (Ḥa-ḍa-ra al-mu-han-di-su mu-qā-ba-la-ta at-taw-ẓī-fi ash-shakh-ṣiy-ya-ta fī ma-qar-ri ash-sha-ri-ka-ti wa-a-jā-ba ʿa-ni al-as-ʾi-la-ti bi-thi-qa-tin wa-fa-ṣā-ḥah.)",
+          "translation": "The engineer attended the personal job interview at the company's headquarters and answered questions with confidence and eloquence."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (13.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تَشْتَرِطُ الشَّرِكَةُ الحُصُولَ عَلَى دَرَجَةِ البَكَالُورْيُوسِ وَإِتْقَانَ اللُّغَتَيْنِ العَرَبِيَّةِ وَالإِنْجِلِيزِيَّةِ لِشَغْلِ الوَظِيفَةِ.(Tashtariṭu ash-sharikatu al-ḥuṣūla ʿalā darajati al-bakālūryūsi wa-itqāna al-lughatayni al-ʿarabiyyati wa-al-injlīziyyati li-shaghli al-waẓīfah.)",
+          "reading": "[taʃ.ta.ri.tˤu‿ʃ.ʃa.ri.ka.tu‿l.ħu.sˤuː.la ʕa.laː da.ra.ʒa.ti‿l.ba.kaː.luːr.juː.si wa.ʔit.qaː.na‿l.lu.ɣa.taj.ni‿l.ʕa.ra.bij.ja.ti wal.ʔinʒ.liː.zij.ja.ti li.ʃaɣ.li‿l.wa.zˤiː.fah] (Tash-ta-ri-ṭu ash-sha-ri-ka-tu al-ḥu-ṣū-la ʿa-lā da-ra-ja-ti al-ba-kā-lūr-yū-si wa-it-qā-na al-lu-gha-tay-ni al-ʿa-ra-biy-ya-ti wa-al-inj-lī-ziy-ya-ti li-shagh-li al-wa-ẓī-fah.)",
+          "translation": "The company stipulates obtaining a bachelor's degree and mastering both Arabic and English languages to fill the position."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (13.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "السِّيرَةُ الذَّاتِيَّةُ المُنَظَّمَةُ تُبْرِزُ مُؤَهِّلَاتِ البَاحِثِ عَنِ العَمَلِ وَتَفْتَحُ لَهُ آفَاقَ النَّجَاحِ المِهْنِيِّ.(As-sīratu adh-dhātiyyatu al-munaẓẓamatu tubrizu muʾahhilāti al-bāḥithi ʿani al-ʿamali wa-taftaḥu lahu āfāqa an-najāḥi al-mihniyy.)",
+          "reading": "[as.siː.ra.tu‿ð.ðaː.tij.ja.tu‿l.mu.nazˤ.zˤa.ma.tu tub.ri.zu mu.ʔah.hi.laː.ti‿l.baː.ħi.θi ʕa.ni‿l.ʕa.ma.li wa.taf.ta.ħu la.hu ʔaː.faː.qa‿n.na.ʒaː.ħi‿l.mih.nijj] (As-sī-ra-tu adh-dhā-tiy-ya-tu al-mu-naẓ-ẓa-ma-tu tub-ri-zu mu-ʾah-hi-lā-ti al-bā-ḥi-thi ʿa-ni al-ʿa-ma-li wa-taf-ta-ḥu la-hu ā-fā-qa an-na-jā-ḥi al-mih-niyy.)",
+          "translation": "An organized curriculum vitae highlights the job seeker's qualifications and opens horizons of professional success for him."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "سِيرَةٌ ذَاتِيَّةٌ بِالمُؤَهِّلَاتِ تَزْدَهِي، وَفِي مُقَابَلَةِ العَمَلِ بِالثِّقَةِ نَنْتَهِي!"
+      ],
+      "culturalNotes": [
+        "كتابة السيرة الذاتية باللغة العربية الفصحى إلى جانب اللغات الأجنبية ميزة تنافسية كبرى مطلوبة في القطاعات الدبلوماسية والإعلامية والحكومية في العالم العربي."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المهن والعمل وسوق التوظيف (Professions & Employment)» (الدرس 4)؟",
+          "prompt": "ما هو المصطلح العربي الفصيح المقابل لـ (Curriculum Vitae / Resume)؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المهن والعمل وسوق التوظيف (Professions & Employment)» بأسلوب أكاديمي دقيق (13.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (13.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (13.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (13.4.w3)"
+            "السِّيرَةُ الذَّاتِيَّةُ (As-Sīrah adh-Dhātiyyah)",
+            "البطاقة الشخصية فقط",
+            "فاتورة الحساب",
+            "تذكرة السفر"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«السِّيرَةُ الذَّاتِيَّةُ» هي المصطلح الدقيق لوثيقة المؤهلات والخبرات الشخصية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو اللقاء الرسمي الذي يجريه مسؤولو الشركة مع المتقدم للوظيفة لتقييم كفاءته؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "مُقَابَلَةُ التَّوْظِيفِ / المُقَابَلَةُ الشَّخْصِيَّةُ (Job Interview)",
+            "الحفل الموسيقي",
+            "المؤتمر الصحفي العام",
+            "الرحلة الترفيهية"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«مُقَابَلَةُ التَّوْظِيفِ» هي المقابلة المخصصة لتقييم المتقدمين للوظائف."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u13-l4):",
+          "prompt": "اختر الجملة التي تعبر عن امتلاك الخبرة المهنية وسنوات العمل بدقة لغوية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (13.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (13.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (13.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (13.4.x3)"
+            "لَدَيَّ خِبْرَةٌ مِهْنِيَّةٌ تَمْتَدُّ لِخَمْسِ سَنَوَاتٍ فِي مَجَالِ الإِدَارَةِ المَالِيَّةِ. (I have professional experience extending for five years in the field of financial management.)",
+            "لدي خبرة تأكل خمس سنوات بالخطأ المعنوي",
+            "خبرتي ضاعت في المطار",
+            "خبرة خمس سنوات ادارة سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تصوغ امتلاك الخبرة «لَدَيَّ خِبْرَةٌ مِهْنِيَّةٌ تَمْتَدُّ لِخَمْسِ سَنَوَاتٍ» بصياغة احترافية ممتازة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المهن والعمل وسوق التوظيف (Professions & Employment)»؟",
+          "prompt": "ماذا يسمى الأجر المالي الشهري الذي يتقاضاه الموظف نظير عمله في المؤسسة؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (13.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (13.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (13.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (13.4.y3)"
+            "الرَّاتِبُ الشَّهْرِيُّ (The Monthly Salary)",
+            "الضرائب",
+            "الغرامة",
+            "الإيجار"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الرَّاتِبُ الشَّهْرِيُّ» هو الاستحقاق المالي الدوري للموظف."
         }
       ]
     },
@@ -8041,24 +8066,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 13-4)؟",
+          "prompt": "اختر الفقرة التي تصف خطوات التقديم على الوظيفة من إرسال السيرة الذاتية حتى التعيين بأسلوب مهني متكامل:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (13.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (13.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (13.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (13.4.z3)"
+            "يُقَدِّمُ البَاحِثُ عَنِ العَمَلِ سِيرَتَهُ الذَّاتِيَّةَ لِلْوَظِيفَةِ الشَّاغِرَةِ، ثُمَّ يَجْتَازُ مُقَابَلَةَ التَّوْظِيفِ بِجَدَارَةٍ، لِيُوَقِّعَ عَقْدَ العَمَلِ وَيَبْدَأَ مَسِيرَتَهُ المِهْنِيَّةَ بِرَاتِبٍ مُجْزٍ وَمَزَايَا مُمْتَازَةٍ. (The job seeker submits his CV for the vacant position, then passes the job interview with merit, to sign the employment contract and begin his career with a rewarding salary and excellent benefits.)",
+            "يقدم الباحث بالماضي فقط بلا سيرة ذاتية وبلا مقابلة ولا تعيين.",
+            "سيرة ذاتية مقابلة شاغرة عقد راتب مزايا سكون فتحة ضمة.",
+            "تم رفض جميع المتقدمين واغلاق باب التوظيف نهائيا."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة توظف مصطلحات «السِّيرَة الذَّاتِيَّة، الوَظِيفَة الشَّاغِرَة، مُقَابَلَة التَّوْظِيف، عَقْد العَمَل، الرَّاتِب، المَزَايَا» بتسلسل منطقي واحترافي رفيع."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u13-l4) باللغة العربية (مثال: «المهن»):",
+          "prompt": "اكتب باللغة العربية الفصحى الكلمة التي تعني «المعرفة والمهارات المكتسبة من ممارسة العمل عبر الزمن» (اكتب: «خبرة» أو «الخبرة»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المهن",
-            "المهن"
+            "خبرة",
+            "الخبرة",
+            "خِبْرَةٌ",
+            "خِبْرَة",
+            "الخِبْرَةُ"
           ],
-          "explanation": "المصطلح الصحيح هو «المهن»."
+          "explanation": "المصطلح هو «خبرة» أو «الخبرة»."
         }
       ],
       "passThreshold": 0.8
@@ -8069,85 +8097,89 @@
     "subject": "arabic",
     "unit": 13,
     "lessonNumber": 5,
-    "title": "المهن والعمل وسوق التوظيف (Professions & Employment) (الدرس 5)",
+    "title": "حوار المقابلة الوظيفية والتعيين المهني (Job Interview & Professional Employment Dialogue)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: المهن والوظائف، كتابة السيرة الذاتية، المقابلات الشخصية، والمصطلحات الإدارية الأساسية. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة الثالثة عشرة: ألقاب المهن، صيغ اسم الفاعل، أماكن العمل والمؤسسات، مصطلحات السيرة الذاتية والمقابلات في حوار احترافي متكامل.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة الثالثة عشرة من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس ندمج جميع الكفايات المهنية واللغوية في حوار توظيفي راقٍ ومكتمل الأركان يدور في المقر الرئيسي لشركة التقنيات المتقدمة بين مدير التوظيف (الأستاذ حازم) والمهندسة المتقدمة للوظيفة (المهندسة ندى):\n\nمحاور النص الحواري الشامل:\n1.【استخدام ألقاب المهن وأسماء الفاعلين】: مُدِيرُ التَّوْظِيفِ، مُهَنْدِسَةُ بَرْمَجِيَّاتٍ، مُطَوِّرٌ، مُبْتَكِرٌ.\n2.【ذكر أماكن العمل والمؤسسات】: الشَّرِكَةُ، مَقَرُّ الإِدَارَةِ، مَكْتَبُ التَّطْوِيرِ، الجَامِعَةُ.\n3.【مناقشة السيرة الذاتية والمؤهلات والخبرة】: الشَّهَادَةُ الجَامِعِيَّةُ، خِبْرَةُ أَرْبَعِ سَنَوَاتٍ، مَهَارَاتُ البَرْمَجَةِ.\n4.【إعلان القبول وتوقيع عقد العمل】: الرَّاتِبُ الشَّهْرِيُّ، بَدَلَاتُ التَّأْمِينِ، بَدْءُ المَسِيرَةِ المِهْنِيَّةِ.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المهن والعمل وسوق التوظيف (Professions & Employment)» بأسلوب أكاديمي دقيق (13.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المهن والعمل وسوق التوظيف (Professions & Employment)' to students in an accurate academic style."
+          "target": "أَهْلًا بِكِ يَا أُسْتَاذَة نَدَى فِي مُقَابَلَةِ التَّوْظِيفِ، هَلْ يُمْكِنُكِ تَقْدِيمُ نُبْذَةٍ عَنْ سِيرَتِكِ الذَّاتِيَّةِ؟(Ahlan biki yā ustādhah Nadā fī muqābalati at-tawẓīf, hal yumkinuki taqdīmu nubdhatin ʿan sīratiki adh-dhātiyyah?)",
+          "reading": "[ʔah.lan bi.ki jaː ʔus.taː.ðah na.daː fiː mu.qaː.ba.la.ti‿t.taw.zˤiːf, hal jum.ki.nu.ki taq.diː.mu nub.ða.tin ʕan siː.ra.ti.ki‿ð.ðaː.tij.jah?] (Ah-lan bi-ki yā us-tā-dhah Na-dā fī mu-qā-ba-la-ti at-taw-ẓīf, hal yum-ki-nu-ki taq-dī-mu nub-dha-tin ʿan sī-ra-ti-ki adh-dhā-tiy-yah?)",
+          "translation": "Welcome Ms. Nada to the job interview, could you provide a brief overview of your resume?"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (13.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "لَدَيَّ بَكَالُورْيُوس فِي هَنْدَسَةِ البَرْمَجِيَّاتِ، وَخِبْرَةٌ مِهْنِيَّةٌ تَمْتَدُّ لِأَرْبَعِ سَنَوَاتٍ فِي تَطْوِيرِ التَّطْبِيقَاتِ.(Ladayya bakālūryūs fī handasati al-barmajiyyāt, wa-khibratun mihniyyatun tamtaddu li-arbaʿi sanawātin fī taṭwīri at-taṭbīqāt.)",
+          "reading": "[la.daj.ja ba.kaː.luːr.juːs fiː han.da.sa.ti‿l.bar.ma.ʒij.jaːt, wa.xib.ra.tun mih.nij.ja.tun tam.tad.du li.ʔar.ba.ʕi sa.na.waː.tin fiː tatˤ.wiː.ri‿t.tatˤ.biː.qaːt] (La-day-ya ba-kā-lūr-yūs fī han-da-sa-ti al-bar-ma-jiy-yāt, wa-khib-ra-tun mih-niy-ya-tun tam-tad-du li-ar-ba-ʿi sa-na-wā-tin fī taṭ-wī-ri at-taṭ-bī-qāt.)",
+          "translation": "I have a bachelor's in software engineering, and professional experience spanning four years in application development."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (13.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "نَحْنُ نَبْحَثُ عَنْ مُهَنْدِسَةٍ مُبْدِعَةٍ تَعْمَلُ بِرُوحِ الفَرِيقِ فِي مَشَارِيعِ الذَّكَاءِ الِاصْطِنَاعِيِّ لَدَى شَرِكَتِنَا.(Naḥnu nabḥathu ʿan muhandisatin mubdiʿatin taʿmalu bi-rūḥi al-farīqi fī mashārīʿi adh-dhakāʾi al-iṣṭināʿiyyi ladā sharikatinā.)",
+          "reading": "[naħ.nu nab.ħa.θu ʕan mu.han.di.sa.tin mub.di.ʕa.tin taʕ.ma.lu bi.ruː.ħi‿l.fa.riː.qi fiː ma.ʃaː.riː.ʕi‿ð.ða.kaː.ʔi‿l.ʔisˤ.tˤi.naː.ʕij.ji la.daː ʃa.ri.ka.ti.naː] (Naḥ-nu nab-ḥa-thu ʿan mu-han-di-sa-tin mub-di-ʿa-tin taʿ-ma-lu bi-rū-ḥi al-fa-rī-qi fī ma-shā-rī-ʿi adh-dha-kā-ʾi al-iṣ-ṭi-nā-ʿiy-yi la-dā sha-ri-ka-ti-nā.)",
+          "translation": "We are looking for a creative engineer who works with team spirit in artificial intelligence projects at our company."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (13.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "نُبَارِكُ لَكِ قَبُولَكِ المِهْنِيَّ فِي الشَّرِكَةِ، وَسَنُوَقِّعُ عَقْدَ العَمَلِ غَدًا بِإِذْنِ اللهِ.(Nubāriku laki qabūlaki al-mihniyya fī ash-sharikah, wa-sanuwaqqiʿu ʿaqda al-ʿamali ghadan bi-idhni Allāh.)",
+          "reading": "[nu.baː.ri.ku la.ki qa.buː.la.ki‿l.mih.nij.ja fiː‿ʃ.ʃa.ri.kah, wa.sa.nu.waq.qi.ʕu ʕaq.da‿l.ʕa.ma.li ɣa.dan bi.ʔið.ni‿l.laːh] (Nu-bā-ri-ku la-ki qa-bū-la-ki al-mih-niy-ya fī ash-sha-ri-kah, wa-sa-nu-waq-qi-ʿu ʿaq-da al-ʿa-ma-li gha-dan bi-idh-ni Allāh.)",
+          "translation": "We congratulate you on your professional acceptance into the company, and we will sign the employment contract tomorrow, God willing."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فِي مُقَابَلَةِ التَّوْظِيفِ أَبْدَعَتْ نَدَى بِالفَصَاحَةِ وَالخِبْرَةِ وَالنَّدَى!"
+      ],
+      "culturalNotes": [
+        "التهنئة بالقبول الوظيفي («مُبَارَكٌ لَكَ العَمَلُ الجَدِيدُ، جَعَلَهُ اللهُ بَابَ خَيْرٍ وَتَوْفِيقٍ») من أجمل تقاليد التضامن والتهاني في المجتمع العربي."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المهن والعمل وسوق التوظيف (Professions & Employment)» (الدرس 5)؟",
+          "prompt": "في الحوار الشامل، ما هو التخصص الأكاديمي الذي تحمله المهندسة ندى؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المهن والعمل وسوق التوظيف (Professions & Employment)» بأسلوب أكاديمي دقيق (13.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (13.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (13.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (13.5.w3)"
+            "هَنْدَسَةُ البَرْمَجِيَّاتِ (Software Engineering)",
+            "طب الأسنان",
+            "القانون الجنائي",
+            "الطيران المدني"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "أوضحت ندى: «لَدَيَّ بَكَالُورْيُوس فِي هَنْدَسَةِ البَرْمَجِيَّاتِ»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "كم سنة تبلغ الخبرة المهنية التي تمتلكها المهندسة ندى في تطوير التطبيقات؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "أَرْبَعُ سَنَوَاتٍ (Four years)",
+            "سنة واحدة فقط",
+            "عشرون سنة",
+            "لا تملك أي خبرة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "ذكرت ندى أن لديها خبرة مهنية تمتد لأربع سنوات."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u13-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تصف الاتفاق على توقيع العقد بأسلوب مهني واحترافي:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (13.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (13.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (13.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (13.5.x3)"
+            "— نُبَارِكُ لَكِ القَبُولَ فِي الوَظِيفَةِ. — شُكْرًا جَزِيلًا لَكُمْ، يُسْعِدُنِي تَوْقِيعُ العَقْدِ وَبَدْءُ العَمَلِ غَدًا. (— We congratulate you on being accepted for the job. — Thank you very much, I am pleased to sign the contract and start work tomorrow.)",
+            "— اين محطة القطار؟ — المحطة كانت امس في الفندق.",
+            "— كم سعر الطماطم؟ — الطماطم بعشرة دراهم.",
+            "— توقيع عقد وظيفة سكون فتحة."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة تمثل حوار التهنئة بالقبول والاتفاق على توقيع عقد العمل بفصاحة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المهن والعمل وسوق التوظيف (Professions & Employment)»؟",
+          "prompt": "ما هي الميزة المطلوبة في المهندسة كما ذكر مدير التوظيف؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (13.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (13.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (13.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (13.5.y3)"
+            "العَمَلُ بِرُوحِ الفَرِيقِ وَالإِبْدَاعِ فِي مَشَارِيعِ الذَّكَاءِ الِاصْطِنَاعِيِّ (Working with team spirit and creativity in AI projects)",
+            "العمل المنفرد فقط دون تواصل",
+            "التأخر عن مواعيد العمل",
+            "عدم استخدام الحاسوب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "أوضح المدير أن الشركة تبحث عن مهندسة مبدعة تعمل بروح الفريق في مشاريع الذكاء الاصطناعي."
         }
       ]
     },
@@ -8155,24 +8187,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 13-5)؟",
+          "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة الثالثة عشرة بأكملها (المهن، اسم الفاعل، أماكن العمل، السيرة الذاتية، المقابلة، والتعيين):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (13.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (13.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (13.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (13.5.z3)"
+            "اسْتَقْبَلَ مُدِيرُ التَّوْظِيفِ الأُسْتَاذُ حَازِمٌ المُهَنْدِسَةَ نَدَى فِي مَقَرِّ الشَّرِكَةِ، وَبَعْدَ مُرَاجَعَةِ سِيرَتِهَا الذَّاتِيَّةِ وَمُؤَهِّلَاتِهَا فِي هَنْدَسَةِ البَرْمَجِيَّاتِ وَخِبْرَتِهَا المُمْتَدَّةِ لِأَرْبَعِ سَنَوَاتٍ، قَالَ لَهَا: «أَنْتِ مُهَنْدِسَةٌ مُبْتَكِرَةٌ تَعْمَلِينَ بِرُوحِ الفَرِيقِ، وَيَسُرُّنَا تَوْقِيعُ عَقْدِ التَّعْيِينِ مَعَكِ لِبَدْءِ مَسِيرَتِكِ المِهْنِيَّةِ». (The hiring manager Mr. Hazim received the engineer Nada at the company headquarters, and after reviewing her CV, her qualifications in software engineering, and her four-year experience, he said to her: 'You are an innovative engineer working with team spirit, and we are pleased to sign the employment contract with you to begin your professional journey.')",
+            "استقبل مدير التوظيف بالافعال الماضية فقط بلا سيرة ذاتية وبلا مهن وعقود.",
+            "توظيف مهندسة برمجيات شركة سيرة ذاتية عقد راتب سكون فتحة ضمة.",
+            "فشلت المقابلة وتم الغاء الوظيفة ولم يوقع احد اي عقد."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج ألقاب المهن، وصيغ اسم الفاعل، ومصطلحات السيرة الذاتية والمقابلة والتعيين في سياق سردي بديع وأصيل."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u13-l5) باللغة العربية (مثال: «المهن»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الوثيقة القانونية المكتوبة التي يتم توقيعها بين الموظف والشركة لتحديد شروط العمل (اكتب: «عقد» أو «العقد»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المهن",
-            "المهن"
+            "عقد",
+            "العقد",
+            "عَقْدٌ",
+            "عَقْد",
+            "العَقْدُ"
           ],
-          "explanation": "المصطلح الصحيح هو «المهن»."
+          "explanation": "الوثيقة هي «عقد» أو «العقد»."
         }
       ],
       "passThreshold": 0.8
