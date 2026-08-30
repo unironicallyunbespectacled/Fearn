@@ -9915,53 +9915,62 @@
     "subject": "urdu",
     "unit": 24,
     "lessonNumber": 1,
-    "title": "بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت (Banking & Finance) (Part 1)",
+    "title": "بینک اکاؤنٹ، کھاتے کی اقسام اور چیک بک (Bank Accounts & Transactions)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 24.1) with authentic precision.",
+    "objective": "بینک اکاؤنٹ کے بنیادی تصورات (بچت کھاتہ، کرنٹ اکاؤنٹ، رقم جمع کرانا، نکلووانا، چیک بک، دستخط کی تصدیق) کے فصیح بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں بینکنگ اور کھاتہ داری کے بنیادی اصول (Banking & Bank Accounts):\n\n1. **کھاتوں کی اقسام (Types of Accounts)**:\n   - «**بچت کھاتہ / سیونگز اکاؤنٹ** (Savings Account)»؛\n   - «**کرنٹ اکاؤنٹ / جاری کھاتہ** (Current Account)»؛\n   - «**میعادی کھاتہ / فکسڈ ڈپازٹ** (Fixed Deposit Account)»۔\n\n2. **بینکنگ لین دین کی اصطلاحات**:\n   - «کھاتے میں رقم **جمع کروانا (Deposit)** اور **نکلووانا (Withdrawal)**»；\n   - «چیک بک پر کھاتہ دار کے **دستخط کی تصدیق**»；\n   - «بینک برانچ کا **بینک مینیجر اور کیشیئر**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "کھاتہ دار نے بینک کی متعلقہ برانچ میں جا کر اپنے بچت کھاتے میں پچاس ہزار روپے کی رقم باضابطہ جمع کروائی۔",
+          "reading": "Khaata-daar ne bank ki muta'alliqa branch mein ja kar apnay bachat khaatay mein pachaas hazaar rupay ki raqam baa-zaabita jama karwaai. [xaːt̪aː-d̪aːr neː bæːŋk kiː mʊt̪əʔəlːɪqaː braːntʃ mẽː dʒaː kər əpneː bətʃət̪ xaːt̪eː mẽː pətʃaːs həzaːr rʊpəjeː kiː rəqəm baː-zaːbɪt̪aː dʒəməʔ kərʋaːʔiː] (khah-tah-DAHR nay BANK kee moo-tuh-uhl-lee-QAH branch mayn JAH kuhr uhp-NAY buh-chuht khah-TAY mayn puh-CHAHS huh-ZAHR roo-puh-YAY kee RUH-quhm bah-zah-bee-TAH JUH-muh kuhr-wah-EE)",
+          "translation": "The account holder went to the relevant branch of the bank and deposited [banking term: jama karwaai] the amount of fifty thousand rupees into his savings account."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 24-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "چیک کیش کرانے کے لیے ضروری ہے کہ اس پر کھاتہ دار کے دستخط بینک ریکارڈ کے عین مطابق ہوں۔",
+          "reading": "Cheque cash karaanay ke liye zaroori hai keh us par khaata-daar ke dastakhat bank record ke ain mutaabiq hon. [tʃɛk kæʃ kəraːneː keː lɪjeː zəruːriː hɛː kɛh ʊs pər xaːt̪aː-d̪aːr keː d̪əst̪əxət̪ bæːŋk rɛkɔːrɖ keː ʔɛːn mʊt̪aːbɪq hõː] (CHEQUE cash kuh-rah-NAY kay lee-AY zuh-roo-REE HY KYH OOS puhr khah-tah-DAHR kay duhs-tuh-KHUHT bank record kay AYN moo-tah-BEEQ HOHN)",
+          "translation": "To encash a cheque, it is essential that the account holder's signature on it matches the bank record precisely."
+        },
+        {
+          "target": "بینک مینیجر نے نئے گاہک کو کرنٹ اور سیونگز اکاؤنٹ کے نفع و نقصان اور سالانہ چارجز کی تفصیلات واضح کیں۔",
+          "reading": "Bank manager ne naye gaahak ko current aur savings account ke nafa'-o-nuqsaan aur saalaana charges ki tafseelaat waazeh keen. [bæːŋk mænɪdʒər neː nəjeː ɡaːhək koː kərənʈ ɔːr seːʋɪŋɡz əkaːʊnʈ keː nəfəʔ-oː-nʊqsaːn ɔːr saːlaːnaː tʃaːrdʒɪz kiː t̪əfsiːlaːt̪ ʋaːzɪh kĩː] (bank manager nay nuh-YAY gah-HUHK koh current owr savings account kay nuh-fah-oh-nook-SAHN owr sah-LAH-nah charges kee tuhf-see-LAHT VAH-zeh KEEN)",
+          "translation": "The bank manager explained the profit/loss details and annual charges of current and savings accounts to the new customer."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "بینک کھاتہ داری: بچت کھاتہ و کرنٹ اکاؤنٹ + رقم جمع کروانا / نکلوانا + چیک بک پر دستخط کی تصدیق!"
+      ],
+      "culturalNotes": [
+        "پاکستان کے معاشی نظام میں اسٹیٹ بینک آف پاکستان تمام شیڈول بینکوں کے قواعد و ضوابط اور مالیاتی شفافیت کی نگرانی کرتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"سیاہ\":",
+          "prompt": "بینک سے رقم نکلوانے کے لیے استعمال ہونے والی باضابطہ مالیاتی دستاویز کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («بھورا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («گلابی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («جامنی» کی خرابی)"
+            "چیک / چیک بک (Cheque / Cheque book - Official payment order slip)",
+            "دعوت نامہ",
+            "رسالہ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "بینک سے رقم نکلوانے یا ادائیگی کے لیے «چیک» استعمال کیا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"سیاہ\":",
+          "prompt": "وہ کھاتہ جس میں عام طور پر کاروباری لین دین کے لیے روزانہ لامحدود ادائیگیاں کی جاتی ہیں کیا کہلاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («گلابی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («جامنی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بھورا» کا غیر درست استعمال)"
+            "کرنٹ اکاؤنٹ / جاری کھاتہ (Current Account - Non-interest commercial operating account)",
+            "صرف فکسڈ ڈپازٹ",
+            "پنشن فنڈ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "روزمرہ کاروباری لین دین کے لیے «کرنٹ اکاؤنٹ» کھولا جاتا ہے۔"
         }
       ]
     },
@@ -9969,17 +9978,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"سیاہ\": Which sentence is completely correct?",
+          "prompt": "بینک اکاؤنٹ اور چیک بک کے لین دین (Bank Accounts) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («جامنی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بھورا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («گلابی» سے متعلق)"
+            "کھاتہ دار نے بینک شاخ میں جا کر اپنے تصدیق شدہ چیک کے ذریعے اکاؤنٹ سے رقم نکلوائی اور کیشیئر سے وصولی کی رسید حاصل کی۔ (The account holder went to the bank branch, withdrew money from the account via verified cheque, and obtained a receipt from the cashier.)",
+            "چیک نے رقم پی تھی اور گاڑی روئی تھی۔",
+            "بینک اکاؤنٹ صرف خواب میں کھولا جاتا ہے۔",
+            "چیک بک کو دریا میں پھینکنا لازمی ہوتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«کھاتہ دار نے بینک شاخ میں جا کر اپنے تصدیق شدہ چیک کے ذریعے اکاؤنٹ سے رقم نکلوائی اور کیشیئر سے وصولی کی رسید حاصل کی۔» بینکنگ کا کامل فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u24-l2": {
@@ -9987,53 +9997,62 @@
     "subject": "urdu",
     "unit": 24,
     "lessonNumber": 2,
-    "title": "بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت (Banking & Finance) (Part 2)",
+    "title": "ترسیلاتِ زر، زرِ مبادلہ اور شرحِ تبادلہ (Remittances & Foreign Exchange)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 24.2) with authentic precision.",
+    "objective": "ترسیلاتِ زر (بیرونِ ملک سے رقوم کی ترسیل)، زرِ مبادلہ کے ذخائر، شرحِ تبادلہ، اور قانونی بینکنگ چینلز کے بیانیے پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں ترسیلاتِ زر اور زرِ مبادلہ کا بیان (Foreign Exchange & Remittances):\n\n1. **ترسیلاتِ زر (Worker Remittances)**:\n   - بیرونِ ملک مقیم تارکینِ وطن کی طرف سے اپنے وطن بھیجی جانے والی رقوم:\n     - «**قانونی بینکنگ چینلز کے ذریعے ترسیلاتِ زر**»؛\n     - «غیر قانونی **حوالہ ہنڈی** کا سدِ باب»۔\n\n2. **زرِ مبادلہ اور شرحِ تبادلہ (Foreign Exchange & Rates)**:\n   - «**زرِ مبادلہ کے قومی ذخائر** (Foreign Exchange Reserves)»；\n   - «کرنسی کی **شرحِ تبادلہ** (Currency Exchange Rate)»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "بیرونِ ملک مقیم پاکستانیوں کی طرف سے بھیجی جانے والی ترسیلاتِ زر ملکی زرِ مبادلہ کے ذخائر کو مستحکم رکھنے میں ریڑھ کی ہڈی کی حیثیت رکھتی ہیں۔",
+          "reading": "Bairoon-e-mulk muqeem Pakistanion ki taraf se bheeji jaanay waali tarseelaat-e-zar mulki zar-e-mubaadila ke zakhaa'ir ko mustahkam rakhnay mein reedh ki haddi ki haisiyat rakhti hain. [bɛːruːn-eː-mʊlk mʊqiːm paːkɪst̪aːnɪjõː kiː t̪ərəf seː bʱeːdʒiː dʒaːneː ʋaːliː t̪ərsiːlaːt̪-eː-zər mʊlkiː zər-eː-mʊbaːd̪ɪlaː keː zəxaːʔɪr koː mʊst̪əhkəm rəkʰneː mẽː riːɽʱ kiː həd̪ːiː kiː hɛːsiːjət̪ rəkʰt̪iː hɛ̃ː] (by-ROON-ay-MOOLK moo-QEEM pah-kees-tah-nee-YOHN kee tuh-RUHF say bhay-JEE jah-NAY vah-LEE tuhr-see-LAHT-ay-ZUHR mool-KEE zuhr-ay-moo-BAH-dee-lah kay zuh-KHAH-eer koh moos-TUH-kuhm ruhkh-NAY mayn REEDH kee huhd-DEE kee hy-see-YUHT ruhkh-TEE HYN)",
+          "translation": "Foreign remittances [economic term: tarseelaat-e-zar] sent by overseas Pakistanis serve as the backbone in keeping the country's foreign exchange reserves stable."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 24-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اسٹیٹ بینک نے غیر قانونی حوالہ ہنڈی کی روک تھام اور قانونی بینکنگ چینلز کے فروغ کے لیے خصوصی ترغیبی پیکیج کا اعلان کیا۔",
+          "reading": "State Bank ne ghair-qaanooni hawaala hundi ki rok-thaam aur qaanooni banking channels ke farogh ke liye khusoosi targheebi package ka i'laan kiya. [sʈeːʈ bæːŋk neː ɣɛːr-qaːnuːniː hʊʋaːlaː hʊɳɖiː kiː roːk-t̪ʰaːm ɔːr qaːnuːniː bæːŋkɪŋɡ tʃænlz keː fəroːɣ keː lɪjeː xʊsuːsiː t̪ərɣiːbiː pækɪdʒ kaː ɪʔlaːn kɪjaː] (state bank nay ghyr-qah-noo-NEE huh-VAH-lah hoon-DEE kee ROHK-thahm owr qah-noo-NEE banking channels kay fuh-ROHGH kay lee-AY khoo-soo-SEE tuhr-ghee-BEE package kah eeh-LAHN kee-YAH)",
+          "translation": "The State Bank announced a special incentive package to prevent illegal Hawala/Hundi and promote legal banking channels."
+        },
+        {
+          "target": "بین الاقوامی مارکیٹ میں ڈالر کے مقابلے میں روپے کی شرحِ تبادلہ مستحکم ہونے سے بیرونی قرضوں کا بوجھ نسبتاً کم ہوا ہے۔",
+          "reading": "Bain-ul-aqwaami market mein dollar ke muqaablay mein rupay ki sharah-e-tabaadila mustahkam honay se bairooni qarzon ka bojh nisbatan kam hua hai. [bɛːn-ʊl-əqʋaːmiː maːrkɪʈ mẽː ɖɔːlər keː mʊqaːbleː mẽː rʊpəjeː kiː ʃərəh-eː-t̪əbaːd̪ɪlaː mʊst̪əhkəm hoːneː seː bɛːruːniː qərzõː kaː boːdʒʱ nɪsbət̪ən kəm hʊaː hɛː] (byn-ool-uhq-VAH-mee market mayn DOLLAR kay moo-qahb-LAY mayn roo-puh-YAY kee SHUH-ruh-ay-tuh-bah-DEE-lah moos-TUH-kuhm hoh-NAY say by-roo-NEE quhr-ZOHN kah BOHJH nees-buh-TUHN KUHM hoo-AH HY)",
+          "translation": "Due to the stability of the rupee's exchange rate against the dollar in the international market, the burden of external debt has relatively eased."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ترسیلات و مبادلہ: ترسیلاتِ زر (بیرون ملک رقوم) + زرِ مبادلہ کے ذخائر + شرحِ تبادلہ + قانونی بینکنگ!"
+      ],
+      "culturalNotes": [
+        "سمندر پار مقیم لاکھوں پاکستانی محنت کشوں کی ترسیلاتِ زر نہ صرف ان کے خاندانوں کی کفالت کرتی ہیں بلکہ پاکستان کی ملکی معیشت کی بقا کا ضامن ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"بھورا\":",
+          "prompt": "بیرونِ ملک سے اپنے ملک بھیجی جانے والی رقوم کو معاشی اصطلاح میں کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («گلابی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («جامنی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («نارنجی» کی خرابی)"
+            "ترسیلاتِ زر (Tarseelaat-e-zar - Foreign worker remittances)",
+            "عطیات (غیر اصطلاحی)",
+            "انعامات",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "غیر ملکی رقوم کی قانونی منتقلی کو «ترسیلاتِ زر» (Remittances) کہا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"بھورا\":",
+          "prompt": "ایک ملک کی کرنسی کی دوسرے ملک کی کرنسی کے مقابلے میں قیمت کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («جامنی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («نارنجی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («گلابی» کا غیر درست استعمال)"
+            "شرحِ تبادلہ (Sharah-e-tabaadila - Currency exchange rate)",
+            "شرحِ سود",
+            "ٹیکس کی شرح",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "کرنسیوں کے باہمی تبادلے کی قیمت کو «شرحِ تبادلہ» (Exchange Rate) کہتے ہیں۔"
         }
       ]
     },
@@ -10041,17 +10060,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"بھورا\": Which sentence is completely correct?",
+          "prompt": "ترسیلاتِ زر اور زرِ مبادلہ (Remittances & Forex) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («نارنجی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («گلابی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («جامنی» سے متعلق)"
+            "تارکینِ وطن کی جانب سے قانونی بینکنگ چینلز کے ذریعے بھیجی گئی ترسیلاتِ زر نے قومی زرِ مبادلہ کے ذخائر اور روپے کی شرحِ تبادلہ کو غیر معمولی استحکام بخشا۔ (Remittances sent by expatriates via legal banking channels imparted extraordinary stability to national forex reserves and rupee exchange rate.)",
+            "زر مبادلہ نے بازار میں چائے پی تھی اور رویا تھا۔",
+            "ترسیلات زر صرف کبوتر کے ذریعے بھیجی جاتی ہیں۔",
+            "شرح تبادلہ معلوم کرنا قانوناً منع ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«تارکینِ وطن کی جانب سے قانونی بینکنگ چینلز کے ذریعے بھیجی گئی ترسیلاتِ زر نے قومی زرِ مبادلہ کے ذخائر اور روپے کی شرحِ تبادلہ کو غیر معمولی استحکام بخشا۔» ترسیلاتِ زر کا کامل جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u24-l3": {
@@ -10059,53 +10079,62 @@
     "subject": "urdu",
     "unit": 24,
     "lessonNumber": 3,
-    "title": "بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت (Banking & Finance) (Part 3)",
+    "title": "ڈیجیٹل بینکنگ، موبائل والٹ اور آن لائن ادائیگیاں (Digital Banking & Fintech)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 24.3) with authentic precision.",
+    "objective": "ڈیجیٹل بینکنگ (موبائل والٹ، آن لائن منتقلی، راست آئی ڈی، سائبر سیکیورٹی، او ٹی پی، خفیہ پن) کے جدید تکنیکی اسلوب پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں ڈیجیٹل بینکنگ اور فین ٹیک (Digital Banking & Fintech):\n\n1. **ڈیجیٹل والٹ اور موبائل ادائیگیاں**:\n   - «**موبائل ایپ / ڈیجیٹل والٹ**»؛\n   - «فوری فنڈز منتقلی بذریعہ **راست (Raast Instant Payment System)**»؛\n   - «**کیش لیس لین دین** (Cashless Transactions)»۔\n\n2. **سائبر سیکیورٹی اور احتیاطی تدابیر**:\n   - «**او ٹی پی (One-Time Password)** اور **خفیہ پن کوڈ**»؛\n   - «بینک کبھی بھی فون پر پاس ورڈ یا او ٹی پی طلب نہیں کرتا»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "جدید موبائل بینکنگ ایپ اور راست آئی ڈی کی بدولت اب کسی بھی وقت پلک جھپکتے ہی ایک کھاتے سے دوسرے کھاتے میں رقم منتقل کی جا سکتی ہے۔",
+          "reading": "Jadeed mobile banking app aur Raast ID ki badawlat ab kisi bhi waqt palak jhapaktay hi aik khaatay se doosray khaatay mein raqam muntaqil ki ja sakti hai. [dʒəd̪iːd̪ moːbaːʔɪl bæːŋkɪŋɡ æp ɔːr raːst̪ aːʔiː-ɖiː kiː bəd̪ɔːlət̪ əb kɪsiː bʱiː ʋəqt̪ pələk dʒʱəpəkt̪eː hiː eːk xaːt̪eː seː d̪uːsreː xaːt̪eː mẽː rəqəm mʊnt̪əqɪl kiː dʒaː səkt̪iː hɛː] (juh-DEED mobile banking app owr RAAST ID kee buh-DOW-luht UHB kee-SEE bhee VUHKT puh-LUHK jhuh-puhk-TAY HEE AYK khah-TAY say doos-RAY khah-TAY mayn RUH-quhm moon-tuh-QEEL kee jah suhk-TEE HY)",
+          "translation": "Thanks to modern mobile banking apps and Raast ID, money can now be transferred [fintech term: raqam muntaqil ki ja sakti hai] from one account to another in the blink of an eye."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 24-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "سائبر سیکیورٹی کے رہنما اصولوں کے مطابق صارفین کو ہدایت کی جاتی ہے کہ وہ اپنا او ٹی پی اور خفیہ پاس ورڈ کسی نامعلوم کالر کو نہ بتائیں۔",
+          "reading": "Cyber security ke rehnuma usoolon ke mutaabiq saarifeen ko hidaayat ki jaati hai keh woh apna OTP aur khufiya password kisi naa-ma'loom caller ko na bataayein. [saːʔɪbər sɪkjʊːrɪʈiː keː rɛh-nʊmaː ʊsuːlõː keː mʊt̪aːbɪq saːrɪfiːn koː hɪd̪aːjət̪ kiː dʒaːt̪iː hɛː kɛh ʋoːh əpnaː oː-ʈiː-piː ɔːr xʊfɪjaː paːsʋərɖ kɪsiː naː-mət̪luːm kɔːlər koː nə bət̪aːʔẽː] (cyber security kay ryh-noo-MAH oo-soo-LOHN kay moo-tah-BEEQ sah-ree-FEEN koh hee-dah-YUHT kee jah-TEE HY KYH VOH uhp-NAH OTP owr khoo-fee-YAH password kee-SEE nah-mah-LOOM caller koh nuh buh-tah-AYN)",
+          "translation": "According to cyber security guidelines, consumers are instructed not to disclose their OTP and secret password to any unknown caller [security awareness]."
+        },
+        {
+          "target": "ڈیجیٹل والٹس نے چھوٹے دکانداروں اور گھریلو کاروبار کے لیے کیش لیس لین دین کو بے پناہ آسان بنا دیا ہے۔",
+          "reading": "Digital wallets ne chhotay dukaandaaron aur gharelu kaarobaar ke liye cashless len-dain ko bay-panaah aasaan bana diya hai. [ɖɪdʒɪʈəl ʋɔːlɪʈs neː tʃʰoːʈeː d̪ʊkaːndaːrõː ɔːr ɡʱəreːluː kaːroːbaːr keː lɪjeː kɛʃ-lɪs leːn-d̪ɛːn koː beː-pənaːh aːsaːn bənaː d̪ɪjaː hɛː] (digital wallets nay chhoh-TAY doo-kahn-dah-ROHN owr ghuh-ray-LOO kah-roh-BAHR kay lee-AY cashless LAYN-dayn koh bay-puh-NAHH ah-SAHN buh-nah DEE-yah HY)",
+          "translation": "Digital wallets have made cashless transactions tremendously easy for small shopkeepers and home-based businesses."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ڈیجیٹل بینکاری: موبائل ایپ و راست آئی ڈی + فوری فنڈز منتقلی + او ٹی پی کا تحفظ + کیش لیس معیشت!"
+      ],
+      "culturalNotes": [
+        "پاکستان میں اسٹیٹ بینک کے 'راست' نظام اور ایزی پیسہ و جاز کیش جیسے پلیٹ فارمز نے کروڑوں غیر بینکاری افراد کو مالیاتی دھارے میں شامل کیا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"گلابی\":",
+          "prompt": "بینک کی طرف سے سیکیورٹی تصدیق کے لیے بھیجے جانے والے عارضی کوڈ کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («جامنی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («نارنجی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بڑا» کی خرابی)"
+            "او ٹی پی / ون ٹائم پاس ورڈ (OTP / One-Time Password - Temporary verification code)",
+            "مستقل اشتہار",
+            "بینک کا نام",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "عارضی تصدیقی کوڈ کو «او ٹی پی» (OTP) کہا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"گلابی\":",
+          "prompt": "پاکستان میں مرکزی بینک کا فوری اور مفت ڈیجیٹل ادائیگیوں کا نظام کس نام سے معروف ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («نارنجی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بڑا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («جامنی» کا غیر درست استعمال)"
+            "راست (Raast - Pakistan's instant digital payment system)",
+            "ڈاک خانہ",
+            "ریلوے",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "فوری ڈیجیٹل ادائیگیوں کے قومی نظام کو «راست» (Raast) کہا جاتا ہے۔"
         }
       ]
     },
@@ -10113,17 +10142,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"گلابی\": Which sentence is completely correct?",
+          "prompt": "ڈیجیٹل بینکنگ اور موبائل والٹ (Digital Banking & Fintech) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بڑا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («جامنی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («نارنجی» سے متعلق)"
+            "صارف نے موبائل بینکنگ ایپ پر راست آئی ڈی درج کر کے فوری فنڈز ٹرانسفر مکمل کیا اور او ٹی پی کی تصدیق کے بعد فوری ڈیجیٹل رسید حاصل کی۔ (The user entered Raast ID on mobile banking app, completed instant funds transfer, and obtained instant digital receipt after OTP verification.)",
+            "موبائل ایپ نے پیسے کھائے تھے اور روئی تھی۔",
+            "او ٹی پی کوڈ سب کو بتا دینا لازمی ہوتا ہے۔",
+            "ڈیجیٹل والٹ صرف کاغذ پر پرنٹ کر کے کام کرتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«صارف نے موبائل بینکنگ ایپ پر راست آئی ڈی درج کر کے فوری فنڈز ٹرانسفر مکمل کیا اور او ٹی پی کی تصدیق کے بعد فوری ڈیجیٹل رسید حاصل کی۔» ڈیجیٹل بینکنگ کا فصیح ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u24-l4": {
@@ -10131,53 +10161,62 @@
     "subject": "urdu",
     "unit": 24,
     "lessonNumber": 4,
-    "title": "بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت (Banking & Finance) (Part 4)",
+    "title": "اسلامی بینکنگ، مضاربہ، مشارکہ اور تکافل (Islamic Banking & Takaful)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 24.4) with authentic precision.",
+    "objective": "اسلامی بینکاری کے بنیادی تصورات (سود سے پاک بینکاری، مضاربہ، مشارکہ، مرابحہ، تکافل / اسلامی انشورنس، شریعہ بورڈ) کے بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں اسلامی بینکاری اور تکافل کے اصول (Islamic Banking & Finance):\n\n1. **اسلامی بینکاری کے بنیادی معاہدات**:\n   - «**سود (ربا) سے پاک بینکاری** (Interest-free Banking)»；\n   - «**مضاربہ (Mudarabah)**»: ایک فریق کا سرمایہ اور دوسرے کی محنت و مہارت؛\n   - «**مشارکہ (Musharakah)**»: فریقین کے مابین نفع و نقصان کی مشترکہ شراکت داری؛\n   - «**مرابحہ (Murabaha)**»: معلوم لاگت اور نفع پر اشیاء کی خرید و فروخت۔\n\n2. **تکافل (Takaful - Islamic Insurance)**:\n   - روایتی بیمہ کے متبادل کے طور پر باہمی تعاون اور ایثار پر مبنی تحفظ۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اسلامی بینکنگ میں نفع و نقصان کی منصفانہ تقسیم کے اصول پر مبنی مشارکہ اور مضاربہ کے معاہدات طے پاتے ہیں۔",
+          "reading": "Islamic banking mein nafa'-o-nuqsaan ki munsifaana taqseem ke usool par mabni mushaaraka aur muzaaraba ke mu'aahidaat tay paatay hain. [ɪslaːmiː bæːŋkɪŋɡ mẽː nəfəʔ-oː-nʊqsaːn kiː mʊnsɪfaːnaː t̪əqsiːm keː ʊsuːl pər məbniː mʊʃaːrəkaː ɔːr mʊzˤaːrəbaː keː mʊʔaːhɪd̪aːt̪ t̪ɛj paːt̪eː hɛ̃ː] (ees-LAH-mee banking mayn nuh-fah-oh-nook-SAHN kee moon-see-FAH-nah tuhq-SEEM kay oo-SOOL puhr muhb-NEE moo-shah-ruh-KAH owr moo-zah-ruh-BAH kay moo-ah-hee-DAHT TAY pah-TAY HYN)",
+          "translation": "In Islamic banking, agreements of Musharakah (partnership) and Mudarabah (profit-sharing investment) are settled based on the principle of equitable profit-and-loss sharing [Islamic contracts]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 24-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "شریعہ بورڈ کے ماہرین تمام مالیاتی مصنوعات کا شرعی اصولوں کی روشنی میں جائزہ لے کر حلال بینکاری کی تصدیق کرتے ہیں۔",
+          "reading": "Shariah board ke maahireen tamaam maaliyaati masnoo'aat ka shar'ee usoolon ki roshni mein jaa'iza lay kar halaal baankaari ki tasdeeq kartay hain. [ʃəriːʔət̪ boːrɖ keː maːhɪriːn t̪əmaːm maːlɪjaːt̪iː məsnuːʔaːt̪ kaː ʃərʔiː ʊsuːlõː kiː roːʃniː mẽː dʒaːʔɪzaː leː kər həlaːl bæːŋkkaːriː kiː t̪əsdiːq kərt̪eː hɛ̃ː] (shuh-REE-uht board kay mah-hee-REEN tuh-MAHM mah-lee-yah-TEE muhs-noo-AHT kah shuhr-EE oo-soo-LOHN kee rosh-NEE mayn jah-ee-ZAH LAY kuhr huh-LAHL bank-kah-REE kee tuhs-DEEQ kuhr-TAY HYN)",
+          "translation": "Experts of the Shariah board review all financial products in light of Islamic jurisprudence and certify halal banking."
+        },
+        {
+          "target": "تکافل کا نظام باہمی تعاون اور اخوت کے جذبے کے تحت ناگہانی نقصانات کے ازالے کے لیے اسلامی متبادل فراہم کرتا ہے۔",
+          "reading": "Takaful ka nizaam baahami ta'aawun aur ukhuwwat ke jazbay ke tehat naagahaani nuqsaanaat ke ezaalay ke liye Islaami mutabaadil faraaham karta hai. [t̪əkaːfʊl kaː nɪzaːm baːhəmiː t̪əʔaːʋʊn ɔːr ʊxʊʋːət̪ keː dʒəzbeː keː t̪əɦət̪ naːɡəhaːniː nʊqsaːnaːt̪ keː ɪzaːleː keː lɪjeː ɪslaːmiː mʊt̪əbaːd̪ɪl fəraːhəm kərt̪aː hɛː] (tuh-KAH-fool kah nee-ZAHM bah-huh-MEE tuh-AH-woon owr oo-khoov-WUHT kay juz-BAY kay tuh-HUHT nah-guh-hah-NEE nook-sah-NAHT kay ee-zah-LAY kay lee-AY ees-LAH-mee moo-tuh-bah-DEEL fuh-rah-HUHM kuhr-TAH HY)",
+          "translation": "The Takaful system provides an Islamic alternative for indemnifying unforeseen losses under the spirit of mutual cooperation and brotherhood."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "اسلامی بینکاری: سود (ربا) سے پاک + مضاربہ (محنت و سرمایہ) + مشارکہ (شراکت) + تکافل (باہمی بیمہ)!"
+      ],
+      "culturalNotes": [
+        "پاکستان دنیا بھر میں اسلامی بینکاری اور شریعہ فنانس کے فروغ کا ایک اہم عالمی مرکز تسلیم کیا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"جامنی\":",
+          "prompt": "اسلامی بینکاری میں ایک فریق کے سرمائے اور دوسرے کی محنت پر مبنی شراکت کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («نارنجی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بڑا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («چھوٹا» کی خرابی)"
+            "مضاربہ (Mudarabah - Partnership where one provides capital and the other manages/works)",
+            "قرضِ حسنہ",
+            "سود",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "سرمائے اور محنت کی باہمی شراکت کو «مضاربہ» (Mudarabah) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"جامنی\":",
+          "prompt": "روایتی انشورنس کے متبادل اسلامی باہمی تحفظ کے نظام کو کیا کہا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بڑا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («چھوٹا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («نارنجی» کا غیر درست استعمال)"
+            "تکافل (Takaful - Shariah-compliant mutual insurance system)",
+            "لاٹری",
+            "بینک ڈرافٹ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "شریعت کے مطابق باہمی بیمہ کاری کو «تکافل» (Takaful) کہتے ہیں۔"
         }
       ]
     },
@@ -10185,17 +10224,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"جامنی\": Which sentence is completely correct?",
+          "prompt": "اسلامی بینکاری اور تکافل (Islamic Banking & Takaful) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («چھوٹا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («نارنجی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بڑا» سے متعلق)"
+            "اسلامی بینکاری شریعہ بورڈ کی زیرِ نگرانی ربا سے پاک مضاربہ و مشارکہ کے منصفانہ اصولوں اور تکافل کے نظام کے ذریعے حلال مالیاتی خدمات فراہم کرتی ہے۔ (Islamic banking under Shariah board supervision provides halal financial services via usury-free Mudarabah, Musharakah, and Takaful systems.)",
+            "مضاربہ نے حلوہ کھایا تھا اور رویا تھا۔",
+            "اسلامی بینکنگ میں سود لینا لازمی ہوتا ہے۔",
+            "تکافل صرف پانی کے جہاز کا نام ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اسلامی بینکاری شریعہ بورڈ کی زیرِ نگرانی ربا سے پاک مضاربہ و مشارکہ کے منصفانہ اصولوں اور تکافل کے نظام کے ذریعے حلال مالیاتی خدمات فراہم کرتی ہے۔» اسلامی فنانس کا کامل ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u24-l5": {
@@ -10203,53 +10243,62 @@
     "subject": "urdu",
     "unit": 24,
     "lessonNumber": 5,
-    "title": "بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت (Banking & Finance) (Part 5)",
+    "title": "بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت کا جامع سمیکن (Banking & Finance Grand Synthesis)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 24.5) with authentic precision.",
+    "objective": "روایتی کھاتوں، ترسیلاتِ زر، ڈیجیٹل فین ٹیک اور اسلامی بینکاری کو ایک مربوط اور باوقار معاشی بیانیے میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **قومی و بین الاقوامی مالیاتی نظام کا جامع خاکہ**:\n   - **کھاتہ داری و چیک بک**: «بچت کھاتہ، کرنٹ اکاؤنٹ اور چیک کی تصدیق کا روایتی نظم»؛\n   - **ترسیلاتِ زر و فاریکس**: «بیرونِ ملک پاکستانیوں کی قانونی ترسیلات اور زرِ مبادلہ کے ذخائر»؛\n   - **ڈیجیٹل معیشت و فین ٹیک**: «راست آئی ڈی، موبائل والٹ اور کیش لیس لین دین کا انقلاب»؛\n   - **اسلامی فنانس و تکافل**: «مضاربہ، مشارکہ اور سود سے پاک شریعہ بینکاری»۔\n\n2. **معاشی استحکام اور فصاحت**:\n   - یہ زبان اردو کے معاشی جرائد، فنانشل رپورٹس اور مالیاتی کالموں کا فصیح ترین ترجمان ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "جدید بینکنگ نظام نے روایتی کھاتوں اور چیک بک کے استعمال سے لے کر موبائل والٹس، قانونی ترسیلاتِ زر اور سود سے پاک اسلامی بینکاری تک معیشت کے ہر شعبے کو محفوظ اور مربوط بنا دیا ہے۔",
+          "reading": "Jadeed banking nizaam ne rawaayati khaaton aur cheque book ke istemaal se lay kar mobile wallets, qaanooni tarseelaat-e-zar aur sood se paak Islaami baankaari tak ma'eeshat ke har shu'bay ko mehfooz aur marboot bana diya hai. [dʒəd̪iːd̪ bæːŋkɪŋɡ nɪzaːm neː rəʋaːjət̪iː xaːt̪õː ɔːr tʃɛk bʊk keː ɪst̪ɪmaːl seː leː kər moːbaːʔɪl ʋɔːlɪʈs qaːnuːniː t̪ərsiːlaːt̪-eː-zər ɔːr suːd̪ seː paːk ɪslaːmiː bæːŋkkaːriː t̪ək məʔiːʃət̪ keː hər ʃʊʔbeː koː mɛhfuːz ɔːr mərbuːt̪ bənaː d̪ɪjaː hɛː] (juh-DEED banking nee-ZAHM nay ruh-vah-yuh-TEE khah-TOHN owr CHEQUE book kay ees-tee-MAHL say LAY kuhr mobile wallets, qah-noo-NEE tuhr-see-LAHT-ay-ZUHR owr SOOD say PAHK ees-LAH-mee bank-kah-REE tuhk muh-EE-shuht kay HUHR shooh-BAY koh myh-FOOZ owr muhr-BOOT buh-nah DEE-yah HY)",
+          "translation": "The modern banking system has made every sector of the economy secure and integrated [financial grand synthesis], ranging from traditional accounts and cheque books to mobile wallets, legal remittances, and interest-free Islamic banking."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 24-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ڈیجیٹل معیشت کے فروغ اور راست سسٹم کی تنصیب سے دستاویزی معیشت کو تقویت ملی ہے اور ترسیلاتِ زر کے شفاف لین دین میں انقلابی پیش رفت ہوئی ہے۔",
+          "reading": "Digital ma'eeshat ke farogh aur Raast system ki tanseeb se dastaawezi ma'eeshat ko taqwiyat mili hai aur tarseelaat-e-zar ke shaffaaf len-dain mein inqilaabi peish-raft hui hai. [ɖɪdʒɪʈəl məʔiːʃət̪ keː fəroːɣ ɔːr raːst̪ sɪsʈəm kiː t̪ənsiːb seː d̪əst̪aːʋeːziː məʔiːʃət̪ koː t̪əqʋɪjət̪ mɪliː hɛː ɔːr t̪ərsiːlaːt̪-eː-zər keː ʃəfːaːf leːn-d̪ɛːn mẽː ɪnqɪlaːbiː peːʃ-rəft̪ hʊiː hɛː] (digital muh-EE-shuht kay fuh-ROHGH owr RAAST system kee tuhn-SEEB say duhs-tah-vay-ZEE muh-EE-shuht koh tuhq-vee-YUHT mee-LEE HY owr tuhr-see-LAHT-ay-ZUHR kay shuhf-FAHF LAYN-dayn mayn een-qee-LAH-bee paysh-RUHFT hoo-EE HY)",
+          "translation": "With the promotion of digital economy and installation of the Raast system, the documented economy has been strengthened and revolutionary progress has occurred in transparent remittance transactions."
+        },
+        {
+          "target": "مالیاتی خواندگی کے قومی پروگرام کا مقصد ہر شہری کو بینکنگ خدمات، سائبر سیکیورٹی اور ڈیجیٹل سرمایہ کاری کے محفوظ طریقوں سے روشناس کرانا ہے۔",
+          "reading": "Maaliyaati khwaandagi ke qawmi programme ka maqsad har shehri ko banking khidmaat, cyber security aur digital sarmaaya-kaari ke mehfooz tareeqon se roshnaas karaana hai. [maːlɪjaːt̪iː xʷaːnd̪əɡiː keː qɔːmiː proːɡraːm kaː məqsəd̪ hər ʃɛɦriː koː bæːŋkɪŋɡ xɪd̪maːt̪ saːʔɪbər sɪkjʊːrɪʈiː ɔːr ɖɪdʒɪʈəl sərmaːjə-kaːriː keː mɛhfuːz t̪əriːqõː seː roːʃnaːs kəraːnaː hɛː] (mah-lee-yah-TEE khwahn-duh-GEE kay QOW-mee program kah MUHQ-suhd HUHR shyh-REE koh banking kheed-MAHT, cyber security owr digital suhr-mah-yuh-kah-REE kay myh-FOOZ tuh-ree-QOHN say rosh-NAHS kuh-rah-NAH HY)",
+          "translation": "The national financial literacy program aims to introduce every citizen to banking services, cyber security, and secure methods of digital investment."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع مالیاتی سمیکن: کھاتہ داری (چیک بک) + ترسیلات زر (فاریکس) + ڈیجیٹل والٹ (راست) + اسلامی بینکاری (مضاربہ و تکافل)!"
+      ],
+      "culturalNotes": [
+        "جدید معیشت میں مالیاتی ٹیکنالوجی (فین ٹیک) اور اسلامی شریعہ اصولوں کے حسین امتزاج نے پاکستان کو جنوبی ایشیا میں ایک مثالی ماڈل بنایا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"نارنجی\":",
+          "prompt": "بینکنگ، ترسیلاتِ زر اور ڈیجیٹل معیشت کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («بڑا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («چھوٹا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («لمبا» کی خرابی)"
+            "کھاتہ داری، قانونی ترسیلاتِ زر، راست فنڈز منتقلی اور اسلامی بینکاری کا مربوط مطالعہ (Masterful synthesis of account operations, legal remittances, Raast fintech, and Islamic banking)",
+            "ہم نے بینک کے سامنے چائے پی تھی اور رویا تھا (بے ربط الفاظ)",
+            "وہ صرف نقد نوٹ گنتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«کھاتہ داری، قانونی ترسیلاتِ زر، راست فنڈز منتقلی اور اسلامی بینکاری کا مربوط مطالعہ» تمام مالیاتی اسالیب کا کامل سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"نارنجی\":",
+          "prompt": "ڈیجیٹل معیشت اور اسلامی بینکاری کا جامع سمیکن قومی معیشت کو کیا فائدہ پہنچاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («چھوٹا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («لمبا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بڑا» کا غیر درست استعمال)"
+            "شفاف اور فوری لین دین، زرِ مبادلہ کا استحکام، اور سود سے پاک منصفانہ مالیاتی نظام کا قیام (Transparent instant transactions, forex stability, and equitable interest-free financial system)",
+            "صرف کاغذی رسیدوں کا انبار لگانا (بے فائدہ مشق)",
+            "صرف اے ٹی ایم کارڈ کی تصویریں بنانا (محدود دائرہ)",
+            "غیر قانونی ہنڈی کو فروغ دینا (تباہ کن)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ شفاف لین دین، زرِ مبادلہ کے استحکام اور سود سے پاک نظام کا قیام یقینی بناتا ہے۔"
         }
       ]
     },
@@ -10257,17 +10306,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"نارنجی\": Which sentence is completely correct?",
+          "prompt": "بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت کے جامع سمیکن (Banking & Finance Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («لمبا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بڑا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («چھوٹا» سے متعلق)"
+            "جدید بینکنگ نے روایتی چیک بک سے لے کر راست ڈیجیٹل والٹس، قانونی ترسیلاتِ زر اور سود سے پاک اسلامی مشارکہ و مضاربہ کے ذریعے معیشت کو محفوظ اور مستحکم بنیادوں پر استوار کیا۔ (Modern banking from cheque books to Raast digital wallets, remittances, and Islamic Musharakah/Mudarabah structured the economy on secure foundations.)",
+            "بینک نے والٹ کو پانی میں دھویا تھا اور گاڑی روئی تھی۔",
+            "جامع سمیکن صرف بینک کے تالے کو کہتے ہیں۔",
+            "بینکنگ میں ڈیجیٹل ٹیکنالوجی کا استعمال غیر قانونی ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«جدید بینکنگ نے روایتی چیک بک سے لے کر راست ڈیجیٹل والٹس، قانونی ترسیلاتِ زر اور سود سے پاک اسلامی مشارکہ و مضاربہ کے ذریعے معیشت کو محفوظ اور مستحکم بنیادوں پر استوار کیا۔» بینکاری کا کامل ترین شاہکار ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u25-l1": {
