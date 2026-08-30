@@ -13195,53 +13195,62 @@
     "subject": "hindi",
     "unit": 32,
     "lessonNumber": 1,
-    "title": "राजनयिक शिष्टाचार और अंतर्राष्ट्रीय संधियां (Diplomacy) (Part 1)",
+    "title": "राजनयिक उन्मुक्ति, वियना अभिसमय और दूतावास प्रोटोकॉल (Diplomatic Immunity & Vienna Convention)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.1) with authentic linguistic precision.",
+    "objective": "वियना अभिसमय (Vienna Convention 1961), राजनयिक उन्मुक्ति (Diplomatic Immunity), प्रत्यय-पत्र (Credentials) तथा दूतावास प्रोटोकॉल की उच्चस्तरीय पारिभाषिक शब्दावली में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "राजनयिक शिष्टाचार, वियना अभिसमय और दूतावास संचालन के मानक कूटनीतिक नियम:\n\n1. **1961 का वियना राजनयिक संबंध अभिसमय**:\n   - **राजनयिक मिशन की अक्षुण्णता** — दूतावास परिसर मेजबान देश के क्षेत्राधिकार से बाहर होता है, जहाँ बिना अनुमति पुलिस प्रवेश नहीं कर सकती;\n   - **राजनयिक उन्मुक्ति (Diplomatic Immunity)** — राजनयिकों को मेजबान देश में दीवानी और आपराधिक मुकदमों से पूर्ण संरक्षण प्राप्त होता है।\n\n2. **राजदूत, उच्चायुक्त एवं प्रत्यय-पत्र (Credentials)**:\n   - **असाधारण व पूर्णाधिकारी राजदूत (Ambassador)** — गैर-राष्ट्रमंडल देशों में राष्ट्र का सर्वोच्च कूटनीतिक प्रतिनिधि;\n   - **उच्चायुक्त (High Commissioner)** — राष्ट्रमंडल (Commonwealth) के सदस्य देशों के मध्य परस्पर राजदूत;\n   - **प्रत्यय-पत्र प्रस्तुत करना** — राष्ट्राध्यक्ष (राष्ट्रपति) को अपने देश के प्रमुख का अधिकृत परिचय-पत्र सौंपना।\n\n3. **राजनयिक मर्यादा एवं प्रतिबंध**:\n   - *राजनयिक डाक थैला (Diplomatic Pouch) की गोपनीयता तथा मर्यादा उल्लंघन पर राजनयिक को 'अवांछित व्यक्ति' (Persona Non Grata) घोषित कर निष्कासित करना।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 32.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 32."
+          "target": "1961 के वियना अभिसमय के तहत नियुक्त राजदूतों और राजनयिक मिशनों को मेजबान देश में कानूनी क्षेत्राधिकार से पूर्ण राजनयिक उन्मुक्ति प्राप्त होती है।",
+          "reading": "1961 ke Vienna abhisamay ke tahat niyukt raajdooton aur raajneetik missionon ko mezbaan desh mein kanooni kshetraadhikaar se poorna raajneetik unmukti praapt hoti hai. [ʊnːiːs sɔː ɪksəʈʰ keː ʋɪjeːnaː əbʱɪsəməj keː t̪əɦət̪ nɪjʊkt̪ raːdʒd̪uːt̪õː ɔːr raːdʒniːt̪ɪk mɪʃənõː koː meːzbaːn d̪eːʃ mẽː kaːnuːniː kʃeːt̪raːd̪ʱɪkaːr seː puːrɳ raːdʒniːt̪ɪk ʊnmʊkt̪ɪ praːpt̪ hoːt̪iː hɛː] (oonees sow eek-SUHTH kay Vienna uh-bhee-SUH-muy kay TUH-huht neey-YOOKT rahj-DOO-tohn owr rahj-nee-TEEK missionon koh mayz-BAHN DAYSH mayn kah-noo-NEE kshay-trah-dhee-KAHR say POOR-nuh rahj-nee-TEEK oon-MOOK-tee PRAHPT HOH-tee hy)",
+          "translation": "Ambassadors and diplomatic missions appointed under the 1961 Vienna Convention enjoy full diplomatic immunity from the legal jurisdiction of the host nation."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 32-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "नवनियुक्त राजदूत ने राष्ट्रपति भवन में आयोजित गरिमामय समारोह में भारत के राष्ट्रपति को अपना औपचारिक प्रत्यय-पत्र प्रस्तुत किया।",
+          "reading": "Nav-niyukt raajdoot ne Rashtrapati Bhavan mein aayojit garimaamay samaaroh mein Bhaarat ke Rashtrapati ko apna aupchaarik pratyay-patr prastut kiya. [nəʋ-nɪjʊkt̪ raːdʒd̪uːt̪ neː raːʂʈrpət̪ɪ bʱəʋən mẽː aːjoːdʒɪt̪ ɡərɪmaːmədʒ səmaːroːɦ mẽː bʱaːrət̪ keː raːʂʈrpət̪ɪ koː əpnaː ɔːptʃaːrɪk prətjeː-pət̪r prəst̪ʊt̪ kɪjaː] (NUHV-neey-yookt rahj-DOOT nay Rahsh-truh-puh-TEE Bhuh-VUHN mayn ah-yoh-JEET guh-ree-mah-MUHY suh-mah-ROH mayn BHAH-ruht kay Rahsh-truh-puh-TEE koh uhp-NAH owp-chah-REEK pruht-YUY-puhtr pruhs-TOOT kee-YAH)",
+          "translation": "The newly appointed ambassador presented his formal Letter of Credence to the President of India in a dignified ceremony at Rashtrapati Bhavan."
+        },
+        {
+          "target": "राजनयिक शिष्टाचार के गंभीर उल्लंघन पर मेजबान सरकार किसी विदेशी कूटनीतिज्ञ को 'अवांछित व्यक्ति' घोषित कर देश छोड़ने का आदेश दे सकती है।",
+          "reading": "Raajneetik shishtaachaar ke gambheer ullanghan par mezbaan sarkaar kisi videshi kootneetijnya ko 'Persona Non Grata' ghoshit kar desh chhodne ka aadesh de sakti hai. [raːdʒniːt̪ɪk ʃɪʂʈaːtʃaːr keː ɡəmbʱiːr ʊlːəŋɡʱən pər meːzbaːn sərkaːr kɪsiː ʋɪd̪eːʃiː kuːt̪niːt̪ɪdʒɲ koː pərsoːnaː nɔːn ɡraːʈaː ɡʱoːʂɪt̪ kər d̪eːʃ tʃʰoːɽneː kaː aːd̪eːʃ d̪eː səkt̪iː hɛː] (rahj-nee-TEEK sheesh-tah-CHAHR kay guhm-BHEER ool-luhng-GHUHN puhr mayz-BAHN suhr-KAHR kee-SEE vee-day-SHEE koot-nee-TEEJ-nyuh koh Persona Non Grata GHOH-sheet kuhr DAYSH chhohd-NAY kah ah-DAYSH DAY suhk-TEE hy)",
+          "translation": "Upon a serious breach of diplomatic etiquette, the host government can declare a foreign diplomat 'Persona Non Grata' and order them to leave the country."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "राजनयिक प्रोटोकॉल: वियना कन्वेंशन (1961), राजनयिक उन्मुक्ति, प्रत्यय-पत्र (Credentials), पर्सोना नॉन ग्राटा!"
+      ],
+      "culturalNotes": [
+        "राष्ट्रमंडल देशों (जैसे भारत, ब्रिटेन, ऑस्ट्रेलिया, कनाडा) के मध्य दूतावासों को 'उच्चायोग' (High Commission) तथा राजदूतों को 'उच्चायुक्त' (High Commissioner) कहा जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"व्यापार\":",
+          "prompt": "राजनयिकों को मेजबान देश में कानूनी मुकदमों और गिरफ्तारी से सुरक्षा प्रदान करने वाले अंतरराष्ट्रीय सिद्धांत को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 32.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दस्तावेज़» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («हस्ताक्षर» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नियम» का अनुचित स्थान)"
+            "राजनयिक उन्मुक्ति (Diplomatic Immunity - Protection granted to diplomats under Vienna Convention)",
+            "स्थानीय नागरिकता (नागरिक अधिकार)",
+            "जमानत याचिका (अदालत अर्जी)",
+            "ड्राइविंग लाइसेंस (गाड़ी चलाने की अनुमति)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "कूटनीतिज्ञों को मेजबान देश के मुकदमों से मिलने वाले विधिक संरक्षण को «राजनयिक उन्मुक्ति» (Diplomatic Immunity) कहते हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"व्यापार\":",
+          "prompt": "नवनियुक्त राजदूत द्वारा मेजबान राष्ट्र के राष्ट्रपति को सौंपा जाने वाला आधिकारिक नियुक्ति-पत्र क्या कहलाता है?",
           "options": [
-            "हम इस पाठ में इकाई 32.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («हस्ताक्षर» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नियम» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दस्तावेज़» का अशुद्ध रूप)"
+            "प्रत्यय-पत्र (Letter of Credence / Credentials - Formal ambassadorial letter of appointment)",
+            "पासपोर्ट (यात्रा दस्तावेज)",
+            "राशन कार्ड (अनाज वितरण पत्र)",
+            "विवाह प्रमाण पत्र (वैवाहिक दस्तावेज)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "राजदूत की नियुक्ति और आधिकारिक अधिकार के पत्र को «प्रत्यय-पत्र» (Credentials) कहा जाता है।"
         }
       ]
     },
@@ -13249,17 +13258,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"व्यापार\": Which sentence is completely correct?",
+          "prompt": "राजनयिक शिष्टाचार और वियना अभिसमय (Diplomatic Protocols & Immunity) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 32.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नियम» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दस्तावेज़» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («हस्ताक्षर» से संबंधित)"
+            "वियना अभिसमय के नियमों, राजनयिक उन्मुक्ति और दूतावास परिसर की संप्रभु मर्यादा का निष्ठापूर्वक पालन ही संप्रभु राष्ट्रों के पारस्परिक विश्वास का आधार है। (Faithful observance of the rules of the Vienna Convention, diplomatic immunity, and the sovereign sanctity of embassy premises is the foundation of mutual trust among sovereign nations.)",
+            "विदेशी दूतावासों पर हमला करके उनके राजनयिकों को बंदी बना लेना चाहिए।",
+            "प्रत्यय-पत्र का अर्थ केवल एक सादा खाली कागज होता है।",
+            "राजनयिक उन्मुक्ति का मतलब है कि राजनयिक को कहीं भी जाने की मनाही है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«वियना अभिसमय के नियमों, राजनयिक उन्मुक्ति और दूतावास परिसर की संप्रभु मर्यादा का निष्ठापूर्वक पालन... पारस्परिक विश्वास का आधार है» राजनयिक शिष्टाचार का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u32-l2": {
@@ -13267,53 +13277,62 @@
     "subject": "hindi",
     "unit": 32,
     "lessonNumber": 2,
-    "title": "राजनयिक शिष्टाचार और अंतर्राष्ट्रीय संधियां (Diplomacy) (Part 2)",
+    "title": "द्विपक्षीय संधियां, प्रत्यर्पण समझौते और द्वैध कराधान निवारण (Bilateral Treaties & Extradition)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.2) with authentic linguistic precision.",
+    "objective": "द्विपक्षीय संधियां (Bilateral Treaties), प्रत्यर्पण समझौते (Extradition), द्वैध कराधान निवारण (DTAA) तथा अनुसमर्थन (Ratification) की पारिभाषिक शब्दावली में प्रवीण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "द्विपक्षीय संधियों, प्रत्यर्पण और वित्तीय कर समझौतों के मानक विधिक नियम:\n\n1. **द्विपक्षीय संधि बनाम समझौता ज्ञापन (MoU)**:\n   - **संधि (Treaty)** — संप्रभु राष्ट्रों के बीच कानूनी रूप से बाध्यकारी अंतरराष्ट्रीय दस्तावेज, जिसे संसद/राष्ट्रपति द्वारा अनुसमर्थित (Ratified) किया जाता है;\n   - **समझौता ज्ञापन (MoU)** — पारस्परिक सहयोग का गैर-बाध्यकारी सहमति-पत्र।\n\n2. **प्रत्यर्पण संधि (Extradition Treaty)**:\n   - **भगोड़े अपराधियों की वापसी** — विदेशी क्षेत्राधिकार में छिपे अपराधियों और आतंकवादियों को न्याय प्रक्रिया हेतु स्वदेश वापस लाने का विधिक ढांचा;\n   - **पारस्परिक कानूनी सहायता संधि (MLAT)** — आपराधिक जांच में दोनों देशों की पुलिस और न्यायालयों द्वारा साक्ष्य साझा करना।\n\n3. **द्वैध कराधान निवारण समझौता (DTAA)**:\n   - *अंतरराष्ट्रीय कंपनियों और अनिवासी नागरिकों की एक ही आय पर दोनों देशों में दोहरा टैक्स लगने से बचाने हेतु विधिक समझौता।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 32.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 32."
+          "target": "दोनों संप्रभु देशों ने सीमा पार वित्तीय अपराधों और आतंकवादियों पर कानूनी कार्रवाई हेतु ऐतिहासिक प्रत्यर्पण संधि पर हस्ताक्षर किए।",
+          "reading": "Donon samprabhu deshon ne seema-paar vitteey apraadhon aur aatankvaadiyon par kanooni kaarravaayi hetu itihaasik pratyarpan sandhi par hastaakshar kiye. [d̪oːnõː səmprəbʱʊ d̪eːʃõː neː siːmaː-paːr ʋɪt̪ːiːj əpraːd̪ʱõː ɔːr aːt̪əŋkʋaːd̪ijõː pər kaːnuːniː kaːrːəʋaːjiː ɦeːt̪ʊ ɪt̪ɪɦaːsɪk prət̪jərpəɳ sən̪d̪ʱɪ pər ɦəst̪aːkʃər kɪjeː] (DOH-nohn suhm-pruh-BHOO day-SHOHN nay see-mah-PAHR veet-TEE-yuh uhp-rah-DHOHN owr ah-tuhngk-vah-dee-YOHN puhr kah-noo-NEE kahr-ruh-vah-YEE HAY-too ee-tee-HAH-seek pruht-yuhr-PUHN suhn-DHEE puhr huhs-tahk-SHUHR kee-YAY)",
+          "translation": "Both sovereign nations signed a historic extradition treaty to take legal action against cross-border financial crimes and terrorists."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 32-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "द्वैध कराधान निवारण समझौते (डीटीएए) के नवीनीकरण से विदेशी निवेशकों को दोहरे कर से मुक्ति मिली और द्विपक्षीय व्यापार में पारदर्शिता आई।",
+          "reading": "Dvaidh karaadhaan nivaaran samjhoute (DTAA) ke naveeneekaran se videshi niveshakon ko dohre kar se mukti mili aur dvi-paksheey vyaapaar mein paaradarshita aayi. [d̪ʋɛːd̪ʱ kəraːd̪ʱaːn nɪʋaːrəɳ səmədʒʱɔːt̪eː ɖiːʈiːeːeː keː nəʋiːniːkərəɳ seː ʋɪd̪eːʃiː nɪʋeːʃkõː koː d̪oːɦreː kər seː mʊkt̪ɪ mɪliː ɔːr d̪ʋɪ-pəkʃiːj ʋjaːpaːr mẽː paːrd̪ərʃɪt̪aː aːjiː] (DVYDH kuh-rah-DHAHN nee-vah-RUHN suhm-jhow-TAY DTAA kay nuh-vee-nee-kuh-RUHN say vee-day-SHEE nee-vaysh-KOHN koh doh-huh-RAY KUHR say MOOK-tee mee-LEE owr dvee-puhk-SHEE-yuh vyah-PAHR mayn pahr-duhr-shee-TAH ah-YEE)",
+          "translation": "The renewal of the Double Taxation Avoidance Agreement (DTAA) relieved foreign investors from double taxation and brought transparency to bilateral trade."
+        },
+        {
+          "target": "संसदीय अनुमोदन और राष्ट्रपति के अनुसमर्थन के उपरांत ही अंतरराष्ट्रीय संधि दोनों संप्रभु राष्ट्रों पर कानूनी रूप से बाध्यकारी होती है।",
+          "reading": "Samsadeey anumodan aur Rashtrapati ke anusamarthan ke upraant hi antarraashtreey sandhi donon samprabhu raashtron par kanooni roop se baadhyakaari hoti hai. [sənsəd̪iːj ənʊmoːd̪ən ɔːr raːʂʈrpət̪ɪ keː ənʊsəmərt̪ʰən keː ʊpraːn̪t̪ ɦiː ən̪t̪rːaːʂʈriːj sən̪d̪ʱɪ d̪oːnõː səmprəbʱʊ raːʂʈrõː pər kaːnuːniː ruːp seː baːd̪ʱjəkaːriː hoːt̪iː hɛː] (suhn-suh-DEE-yuh uh-noo-moh-DUHN owr Rahsh-truh-puh-TEE kay uh-noo-suh-muhr-THUHN kay oop-RAHNT HEE uhn-tuhr-rahsh-TREE-yuh suhn-DHEE DOH-nohn suhm-pruh-BHOO rahsh-TROHN puhr kah-noo-NEE ROOP say bahdh-yuh-KAH-ree HOH-tee hy)",
+          "translation": "Only subsequent to parliamentary approval and presidential ratification does an international treaty become legally binding upon both sovereign nations."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "अंतरराष्ट्रीय संधियां: द्विपक्षीय संधि, प्रत्यर्पण (Extradition), द्वैध कराधान (DTAA), अनुसमर्थन (Ratification)!"
+      ],
+      "culturalNotes": [
+        "भारतीय संविधान के अनुच्छेद 253 के अंतर्गत भारतीय संसद को किसी भी अंतरराष्ट्रीय संधि, समझौते या अभिसमय को लागू करने हेतु संपूर्ण भारत के लिए कानून बनाने की अनन्य शक्ति प्राप्त है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"दस्तावेज़\":",
+          "prompt": "दूसरे देश में भागे हुए अपराधी को मुकदमे हेतु स्वदेश वापस लाने के द्विपक्षीय कानूनी समझौते को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 32.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («हस्ताक्षर» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नियम» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कानून» का अनुचित स्थान)"
+            "प्रत्यर्पण संधि (Extradition Treaty - Bilateral legal agreement for handing over fugitive offenders)",
+            "पर्यटन समझौता (घूमने-फिरने की संधि)",
+            "सांस्कृतिक आदान-प्रदान (नृत्य-संगीत समझौता)",
+            "खेल प्रतियोगिता समझौता (मैच आयोजन)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "विदेशी भूमि से अपराधियों को कानूनी तौर पर वापस बुलाने की संधि को «प्रत्यर्पण संधि» (Extradition Treaty) कहते हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"दस्तावेज़\":",
+          "prompt": "किसी अंतरराष्ट्रीय संधि को देश में पूर्णतः वैध और बाध्यकारी बनाने हेतु संसद अथवा राष्ट्राध्यक्ष की आधिकारिक स्वीकृति को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 32.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नियम» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कानून» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («हस्ताक्षर» का अशुद्ध रूप)"
+            "अनुसमर्थन / पुष्टि (Ratification - Official legal confirmation of an international treaty by head of state/legislature)",
+            "अस्वीकृति पत्र (खारिज करना)",
+            "त्याग पत्र (इस्तीफा)",
+            "विज्ञापन पत्र (प्रचार सामग्री)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "संधि को लागू करने की औपचारिक संवैधानिक पुष्टि को «अनुसमर्थन» (Ratification) कहा जाता है।"
         }
       ]
     },
@@ -13321,17 +13340,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"दस्तावेज़\": Which sentence is completely correct?",
+          "prompt": "द्विपक्षीय संधियों और प्रत्यर्पण (Treaties & Extradition) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 32.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कानून» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («हस्ताक्षर» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नियम» से संबंधित)"
+            "द्विपक्षीय संधियों का समयबद्ध अनुसमर्थन, सुदृढ़ प्रत्यर्पण समझौते और द्वैध कराधान निवारण तंत्र अंतरराष्ट्रीय कानून के अंतर्गत आर्थिक व सुरक्षा सहयोग को सशक्त बनाते हैं। (Timely ratification of bilateral treaties, robust extradition pacts, and DTAA mechanisms strengthen economic and security cooperation under international law.)",
+            "संधियों पर हस्ताक्षर करके तुरंत उन्हें फाड़कर फेंक देना चाहिए।",
+            "प्रत्यर्पण का अर्थ है कि अपराधी को विदेश में मुफ्त होटल में ठहराना।",
+            "टैक्स चोरी करने वाले अपराधियों को इनाम देना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«द्विपक्षीय संधियों का समयबद्ध अनुसमर्थन, सुदृढ़ प्रत्यर्पण समझौते और द्वैध कराधान निवारण तंत्र... सशक्त बनाते हैं» अंतरराष्ट्रीय कानून का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u32-l3": {
@@ -13339,53 +13359,62 @@
     "subject": "hindi",
     "unit": 32,
     "lessonNumber": 3,
-    "title": "राजनयिक शिष्टाचार और अंतर्राष्ट्रीय संधियां (Diplomacy) (Part 3)",
+    "title": "अंतर्राष्ट्रीय न्यायालय, हेग न्यायाधिकरण और समुद्री कानून अभिसमय (ICJ, UNCLOS & Arbitration)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.3) with authentic linguistic precision.",
+    "objective": "अंतरराष्ट्रीय न्यायालय (ICJ), संयुक्त राष्ट्र समुद्री कानून अभिसमय (UNCLOS), अनन्य आर्थिक क्षेत्र (EEZ) तथा मध्यस्थता की उच्च पारिभाषिक शब्दावली में प्रवीण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "अंतरराष्ट्रीय न्यायशास्त्र, समुद्री सीमांकन और हेग पंचाट के मानक नियम:\n\n1. **अंतरराष्ट्रीय न्यायालय (ICJ - हेग, नीदरलैंड)**:\n   - **संयुक्त राष्ट्र का प्रधान न्यायिक अंग** — संप्रभु राष्ट्रों के विधिक विवादों का निपटारा और अंतरराष्ट्रीय कानूनी सलाह;\n   - **स्थायी मध्यस्थता न्यायालय (PCA)** — व्यापारिक व सीमा विवादों का स्वतंत्र मध्यस्थता पंचाट।\n\n2. **संयुक्त राष्ट्र समुद्री कानून अभिसमय (UNCLOS)**:\n   - **प्रादेशिक जलसीमा (Territorial Waters)** — तट से 12 समुद्री मील (Nautical Miles) तक पूर्ण संप्रभु नियंत्रण;\n   - **संलग्न क्षेत्र (Contiguous Zone)** — 12 से 24 समुद्री मील तक सीमा शुल्क व प्रदूषण नियंत्रण;\n   - **अनन्य आर्थिक क्षेत्र (EEZ)** — तट से 200 नॉटिकल मील तक मत्स्य पालन, खनिज और ऊर्जा दोहन का अनन्य संप्रभु अधिकार।\n\n3. **खुले समुद्र की स्वतंत्रता (High Seas)**:\n   - *200 समुद्री मील के परे अंतरराष्ट्रीय जलक्षेत्र में सभी देशों हेतु नौवहन, वैज्ञानिक अनुसंधान और ओवरफ्लाइट की निर्बाध स्वतंत्रता।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 32.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 32."
+          "target": "संयुक्त राष्ट्र समुद्री कानून अभिसमय (अनक्लॉस) प्रत्येक तटीय राष्ट्र की 12 समुद्री मील की प्रादेशिक जलसीमा और 200 नॉटिकल मील के अनन्य आर्थिक क्षेत्र को मान्यता देता है।",
+          "reading": "Sanyukt Raashtr samudree kanoon abhisamay (UNCLOS) pratyek tateey raashtr ki 12 samudree meel ki praadesheek jalseema aur 200 nautical meel ke ananya aarthik kshetr ko maanyata deta hai. [sənjoːkt̪ raːʂʈr səmʊd̪riː kaːnuːn əbʱɪsəməj prətjeːk t̪əʈiːj raːʂʈr kiː baːrəɦ səmʊd̪riː miːl kiː praːd̪eːʃiːk dʒəlsiːmaː ɔːr d̪oː sɔː nɔːʈɪkəl miːl keː ənənjə aːrt̪ʰɪk kʃeːt̪r koː maːnjət̪aː d̪eːt̪aː hɛː] (suhn-YOOKT rahsh-truh suh-mood-REE kah-noon uh-bhee-SUH-muy UNCLOS pruht-YAYK tuh-TEE-yuh rahsh-truh kee 12 suh-mood-REE MEEL kee prah-day-SHEEK juhl-see-MAH owr 200 nautical MEEL kay uh-NUHN-yuh ahr-THEEK kshay-truh koh mahn-yuh-TAH DAY-tah hy)",
+          "translation": "The United Nations Convention on the Law of the Sea (UNCLOS) recognizes each coastal state's 12 nautical mile territorial sea and 200 nautical mile Exclusive Economic Zone."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 32-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "हेग स्थित अंतरराष्ट्रीय न्यायालय ने संप्रभु सीमाओं और मानवाधिकारों से जुड़े जटिल विवाद में अंतरराष्ट्रीय कानून के अनुरूप निष्पक्ष निर्णय सुनाया।",
+          "reading": "Hague sthit antarraashtreey nyaayaalay ne samprabhu seemaaon aur maanavaadhikaaron se jude jatil vivaad mein antarraashtreey kanoon ke anuroop nishpaksh nirnay sunaaya. [ɦeːɡ st̪ʰɪt̪ ən̪t̪rːaːʂʈriːj njaːjaːləj neː səmprəbʱʊ siːmaːõː ɔːr maːnʋaːd̪ʱɪkaːrõː seː dʒʊɽeː dʒəʈɪl ʋɪʋaːd̪ mẽː ən̪t̪rːaːʂʈriːj kaːnuːn keː ənʊruːp nɪʃpəkʃ nɪrɳəj sʊnaːjaː] (Hague STHEET uhn-tuhr-rahsh-TREE-yuh nyah-yah-LUHY nay suhm-pruh-BHOO see-mah-OHN owr mah-nuh-vah-dhee-kah-ROHN say JOO-day juh-TEEL vee-VAHD mayn uhn-tuhr-rahsh-TREE-yuh kah-noon kay uh-noo-ROOP neesh-PUHKSH neer-NUY soo-nah-YAH)",
+          "translation": "The International Court of Justice in The Hague delivered an impartial ruling in accordance with international law in a complex dispute involving sovereign borders and human rights."
+        },
+        {
+          "target": "तटीय राष्ट्रों के मध्य समुद्री सीमांकन और प्राकृतिक संसाधनों के दोहन संबंधी विवादों को शांतिपूर्ण मध्यस्थता और द्विपक्षीय संवाद से सुलझाया जाता है।",
+          "reading": "Tateey raashtron ke madhya samudree seemaankan aur praakritik sansaadhanon ke dohan sambandhi vivaadon ko shaantipoorna madhyasthata aur dvi-paksheey samvaad se suljhaaya jaata hai. [t̪əʈiːj raːʂʈrõː keː məd̪ʱjə səmʊd̪riː siːmaːŋkən ɔːr praːkrt̪ɪk sənsaːd̪ʱnõː keː d̪oːɦən səmbən̪d̪ʱiː ʋɪʋaːd̪õː koː ʃaːn̪t̪ɪpuːrɳ məd̪ʱjəst̪ʰt̪aː ɔːr d̪ʋɪ-pəkʃiːj səmʋaːd̪ seː sʊldʒʱaːjaː dʒaːt̪aː hɛː] (tuh-TEE-yuh rahsh-TROHN kay MUHDH-yuh suh-mood-REE see-mahn-KUHN owr prah-KREE-teek suhn-sah-dhuh-NOHN kay doh-HUHN suhm-buhn-DHEE vee-vah-DOHN koh shahn-tee-POOR-nuh muhdh-yuhs-thuh-TAH owr dvee-puhk-SHEE-yuh suhm-VAHD say sool-jhah-YAH JAH-tah hy)",
+          "translation": "Disputes concerning maritime delimitation and natural resource exploitation between coastal states are resolved through peaceful arbitration and bilateral dialogue."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "समुद्री कानून: अनक्लॉस (UNCLOS), प्रादेशिक जल (12 मील), अनन्य आर्थिक क्षेत्र (EEZ - 200 मील), अंतरराष्ट्रीय न्यायालय (ICJ)!"
+      ],
+      "culturalNotes": [
+        "भारत ने अंतरराष्ट्रीय पंचाट (PCA) के 2014 के फैसले का सम्मान करते हुए बांग्लादेश के साथ बंगाल की खाड़ी के समुद्री सीमा विवाद का शांतिपूर्ण और ऐतिहासिक समाधान किया था।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"हस्ताक्षर\":",
+          "prompt": "तट से 200 समुद्री मील (Nautical Miles) तक के क्षेत्र को क्या कहते हैं, जहाँ तटीय देश को संसाधनों के दोहन का विशेष अधिकार होता है?",
           "options": [
-            "हम इस पाठ में इकाई 32.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नियम» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कानून» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अदालत» का अनुचित स्थान)"
+            "अनन्य आर्थिक क्षेत्र / ईईजेड (EEZ - Exclusive Economic Zone under UNCLOS)",
+            "शहरी नगर निगम क्षेत्र (नगरपालिका)",
+            "राष्ट्रीय राजमार्ग (सड़क क्षेत्र)",
+            "जंगल सफारी क्षेत्र (वन्यजीव अभयारण्य)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "200 नॉटिकल मील तक के विशेष समुद्री आर्थिक क्षेत्र को «अनन्य आर्थिक क्षेत्र» (EEZ) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"हस्ताक्षर\":",
+          "prompt": "संयुक्त राष्ट्र का प्रमुख न्यायिक अंग कौन सा है, जो हेग (नीदरलैंड) में स्थित है और संप्रभु राष्ट्रों के विधिक विवादों का फैसला करता है?",
           "options": [
-            "हम इस पाठ में इकाई 32.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कानून» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अदालत» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नियम» का अशुद्ध रूप)"
+            "अंतरराष्ट्रीय न्यायालय (ICJ - International Court of Justice at The Hague)",
+            "जिला सत्र न्यायालय (स्थानीय अदालत)",
+            "उपभोक्ता फोरम (ग्राहक शिकायत मंच)",
+            "ग्राम पंचायत (ग्रामीण सभा)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "हेग स्थित संयुक्त राष्ट्र की सर्वोच्च अदालत को «अंतरराष्ट्रीय न्यायालय» (ICJ) कहा जाता है।"
         }
       ]
     },
@@ -13393,17 +13422,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"हस्ताक्षर\": Which sentence is completely correct?",
+          "prompt": "अंतरराष्ट्रीय न्यायालय और समुद्री कानून (ICJ & Maritime Law) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 32.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अदालत» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नियम» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कानून» से संबंधित)"
+            "संयुक्त राष्ट्र समुद्री कानून अभिसमय (अनक्लॉस) और अंतरराष्ट्रीय न्यायालय के विधिक निर्णयों का निष्ठावान सम्मान ही वैश्विक सागरों में शांति, सुरक्षा और नौवहन स्वतंत्रता का आधार है। (Faithful respect for UNCLOS and the legal rulings of the International Court of Justice is the basis of peace, security, and freedom of navigation across global oceans.)",
+            "समुद्र में समुद्री डाकुओं को बढ़ावा देना चाहिए।",
+            "अंतरराष्ट्रीय न्यायालय के आदेशों को रद्दी की टोकरी में फेंक देना चाहिए।",
+            "अनक्लॉस का मतलब समुद्र में प्लास्टिक फेंकने की अनुमति है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«संयुक्त राष्ट्र समुद्री कानून अभिसमय (अनक्लॉस) और अंतरराष्ट्रीय न्यायालय के विधिक निर्णयों का निष्ठावान सम्मान... स्वतंत्रता का आधार है» समुद्री न्यायशास्त्र का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u32-l4": {
@@ -13411,53 +13441,62 @@
     "subject": "hindi",
     "unit": 32,
     "lessonNumber": 4,
-    "title": "राजनयिक शिष्टाचार और अंतर्राष्ट्रीय संधियां (Diplomacy) (Part 4)",
+    "title": "जलवायु कूटनीति, पेरिस समझौता और कार्बन क्रेडिट (Climate Diplomacy, Paris Agreement & ISA)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.4) with authentic linguistic precision.",
+    "objective": "पेरिस जलवायु समझौता (Paris Agreement 2015), कॉप सम्मेलन (COP), कार्बन क्रेडिट (Carbon Credits) तथा अंतरराष्ट्रीय सौर गठबंधन (ISA) की पारिभाषिक शब्दावली में पूर्ण दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "जलवायु कूटनीति, पेरिस समझौता और वैश्विक पर्यावरण संधियों के मानक नियम:\n\n1. **पेरिस जलवायु समझौता 2015 (COP21)**:\n   - **तापमान सीमा लक्ष्य** — वैश्विक औसत तापमान वृद्धि को पूर्व-औद्योगिक स्तर से 2°C से काफी नीचे तथा 1.5°C तक सीमित रखने का संकल्प;\n   - **राष्ट्रीय स्तर पर निर्धारित योगदान (NDC)** — प्रत्येक देश द्वारा स्वैच्छिक उत्सर्जन कटौती लक्ष्य प्रस्तुत करना।\n\n2. **जलवायु न्याय एवं वित्तपोषण (Climate Finance)**:\n   - **समान लेकिन विभेदित जिम्मेदारियां (CBDR-RC)** — विकसित देशों द्वारा ऐतिहासिक प्रदूषण की जिम्मेदारी लेते हुए विकासशील देशों को प्रतिवर्ष 100 अरब डॉलर का जलवायु कोष और तकनीक प्रदान करना;\n   - **हानि और क्षति कोष (Loss and Damage Fund)** — जलवायु आपदाओं से प्रभावित संवेदनशील देशों को मुआवजा।\n\n3. **अंतरराष्ट्रीय सौर गठबंधन (ISA) व कार्बन बाजार**:\n   - *भारत व फ्रांस द्वारा गुरुग्राम में स्थापित सौर गठबंधन तथा शून्य कार्बन (नेट ज़ीरो) हेतु कार्बन क्रेडिट ट्रेडिंग तंत्र।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 32.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 32."
+          "target": "भारत ने पेरिस समझौते के लक्ष्यों के प्रति अपनी दृढ़ प्रतिबद्धता व्यक्त करते हुए 2070 तक शुद्ध शून्य (नेट ज़ीरो) कार्बन उत्सर्जन का राष्ट्रीय संकल्प घोषित किया।",
+          "reading": "Bhaarat ne Paris samjhoute ke lakshyon ke prati apni dridh pratibaddhata vyakt karte hue 2070 tak shuddh shoonya (net zero) carbon utsarjan ka raashtreey sankalp ghoshit kiya. [bʱaːrət̪ neː pɛːrɪs səmədʒʱɔːt̪eː keː ləkʃjõː keː prət̪ɪ əpniː drɪɖʱ prət̪ɪbəd̪ːʱt̪aː ʋjəkt̪ kərt̪eː ɦʊeː d̪oː ɦədʒaːr sət̪ːər t̪ək ʃʊd̪ːʱ ʃuːnjə nɛʈ ziːroː kaːrbən ʊtsərdʒən kaː raːʂʈriːj səŋkəlp ɡʱoːʂɪt̪ kɪjaː] (BHAH-ruht nay Paris suhm-jhow-TAY kay LUKSH-yohn kay PRUH-tee uhp-NEE DREEDH pruh-tee-BUHD-dhuh-tah vyuhkt KUHR-tay hoo-AY 2070 tuhk SHOODH SHOON-yuh net zero carbon oot-suhr-JUHN kah rahsh-TREE-yuh suhn-KUHLP GHOH-sheet kee-YAH)",
+          "translation": "Expressing its steadfast commitment to the goals of the Paris Agreement, India declared a national pledge for net zero carbon emissions by 2070."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 32-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "भारत और फ्रांस की संयुक्त पहल पर स्थापित 'अंतरराष्ट्रीय सौर गठबंधन' विकासशील देशों में सौर ऊर्जा के विस्तार हेतु जलवायु कूटनीति का वैश्विक मॉडल बन चुका है।",
+          "reading": "Bhaarat aur France ki sanyukt pahal par sthaapit 'Antarraashtreey Saur Gathbandhan' vikaassheel deshon mein saur oorja ke vistaar hetu jalavaayu kootneeti ka vaishvik model ban chuka hai. [bʱaːrət̪ ɔːr fraːns kiː sənjoːkt̪ pəɦəl pər st̪ʰaːpɪt̪ ən̪t̪rːaːʂʈriːj sɔːr ɡət̪ʰbən̪d̪ʱən ʋɪkaːsʃiːl d̪eːʃõː mẽː sɔːr uːrdʒaː keː ʋɪst̪aːr ɦeːt̪ʊ dʒəlʋaːjʊ kuːt̪niːt̪ɪ kaː ʋɛːʃʋɪk moːɖəl bən tʃʊkaː hɛː] (BHAH-ruht owr France kee suhn-YOOKT PUH-huhl puhr sthah-PEET uhn-tuhr-rahsh-TREE-yuh SOWR guhth-buhn-DHAHN vee-kahs-SHEEL day-SHOHN mayn SOWR OOR-jah kay vees-TAHR HAY-too juh-luh-VAH-yoo koot-nee-TEE kah vy-SHVEEK model buhn choo-KAH hy)",
+          "translation": "Established upon the joint initiative of India and France, the 'International Solar Alliance' has become a global model of climate diplomacy for solar expansion in developing nations."
+        },
+        {
+          "target": "कॉप शिखर सम्मेलनों में विकसित देशों द्वारा जलवायु वित्तपोषण और प्रौद्योगिकी हस्तांतरण के वादों को पूरा करने की मांग प्रमुखता से उठाई जाती है।",
+          "reading": "COP shikhar sammelanon mein vikasit deshon dvaara jalavaayu vittposhan aur praudyogiki hastaantaran ke vaadon ko poora karne ki maang pramukhata se uthaayi jaati hai. [kɔːp ʃɪkʰər səmːeːlnõː mẽː ʋɪksɪt̪ d̪eːʃõː d̪ʋaːraː dʒəlʋaːjʊ ʋɪt̪ːpoːʂəɳ ɔːr prɔːd̪joːɡɪkiː ɦəst̪aːn̪t̪rəɳ keː ʋaːd̪õː koː puːraː kərneː kiː maːŋɡ prəmʊkʰt̪aː seː ʊtʰaːjiː dʒaːt̪iː hɛː] (COP shee-KHUHR suhm-may-luh-NOHN mayn vee-kuh-SEET day-SHOHN dvaah-RAH juh-luh-VAH-yoo veet-poh-SHUHN owr prow-dyoh-gee-KEE huhs-tahn-tuh-RUHN kay vah-DOHN koh POO-rah KUHR-nay kee MAHNG pruh-mookh-TAH say oo-thah-YEE JAH-tee hy)",
+          "translation": "At COP climate summits, the demand for developed nations to fulfill their pledges on climate financing and technology transfer is raised prominently."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "जलवायु कूटनीति: पेरिस समझौता 2015 (1.5°C लक्ष्य), अंतरराष्ट्रीय सौर गठबंधन (ISA), नेट ज़ीरो (Net Zero)!"
+      ],
+      "culturalNotes": [
+        "अंतरराष्ट्रीय सौर गठबंधन (ISA) का वैश्विक मुख्यालय गुरुग्राम (हरियाणा, भारत) में स्थित है। यह पहला ऐसा प्रमुख अंतरराष्ट्रीय अंतर-सरकारी संगठन है जिसका मुख्यालय भारत में है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"नियम\":",
+          "prompt": "वैश्विक तापमान वृद्धि को 1.5 डिग्री सेल्सियस तक सीमित रखने हेतु 2015 में हुआ ऐतिहासिक अंतरराष्ट्रीय जलवायु समझौता कौन सा है?",
           "options": [
-            "हम इस पाठ में इकाई 32.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कानून» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अदालत» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («न्यायाधीश» का अनुचित स्थान)"
+            "पेरिस जलवायु समझौता / कॉप-21 (Paris Climate Agreement - Historic 2015 global climate treaty under UNFCCC)",
+            "वर्साय की संधि (प्रथम विश्व युद्ध समाप्ति)",
+            "शिमला समझौता (युद्धविराम)",
+            "ताशकंद समझौता (शांति संधि)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "2015 के ऐतिहासिक अंतरराष्ट्रीय जलवायु परिवर्तन समझौते को «पेरिस समझौता» (Paris Agreement) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"नियम\":",
+          "prompt": "भारत और फ्रांस की संयुक्त पहल से स्थापित अंतरराष्ट्रीय संगठन जिसका मुख्यालय गुरुग्राम (भारत) में है, उसका क्या नाम है?",
           "options": [
-            "हम इस पाठ में इकाई 32.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अदालत» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («न्यायाधीश» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कानून» का अशुद्ध रूप)"
+            "अंतरराष्ट्रीय सौर गठबंधन / आईएसए (International Solar Alliance - Global platform promoting solar energy)",
+            "अंतरराष्ट्रीय क्रिकेट परिषद (आईसीसी)",
+            "विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ)",
+            "अंतरराष्ट्रीय श्रम संगठन (आईएलओ)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "भारत में मुख्यालय वाले सौर ऊर्जा संवर्धन के वैश्विक संगठन को «अंतरराष्ट्रीय सौर गठबंधन» (ISA) कहते हैं।"
         }
       ]
     },
@@ -13465,17 +13504,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"नियम\": Which sentence is completely correct?",
+          "prompt": "जलवायु कूटनीति और पेरिस समझौता (Climate Diplomacy & Paris Accord) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 32.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («न्यायाधीश» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कानून» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अदालत» से संबंधित)"
+            "पेरिस समझौते के लक्ष्यों की पूर्ति, जलवायु न्याय की वकालत और अंतरराष्ट्रीय सौर गठबंधन का नेतृत्व भारत को हरित ऊर्जा संक्रमण का वैश्विक अग्रदूत बनाता है। (Fulfillment of Paris Agreement targets, advocacy for climate justice, and leadership of the International Solar Alliance make India a global vanguard of green energy transition.)",
+            "पर्यावरण प्रदूषण को बढ़ाकर जंगलों को जला देना चाहिए।",
+            "पेरिस समझौते का उद्देश्य केवल बर्फ को गर्म करके पिघलाना है।",
+            "सौर ऊर्जा के बजाय केवल धुआं फैलाने वाले कारखाने लगाने चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«पेरिस समझौते के लक्ष्यों की पूर्ति, जलवायु न्याय की वकालत... वैश्विक अग्रदूत बनाता है» जलवायु कूटनीति का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u32-l5": {
@@ -13483,53 +13523,62 @@
     "subject": "hindi",
     "unit": 32,
     "lessonNumber": 5,
-    "title": "राजनयिक शिष्टाचार और अंतर्राष्ट्रीय संधियां (Diplomacy) (Part 5)",
+    "title": "संधि वार्ता, शांति समझौते व राजनयिक महा-समेकन (Treaty Negotiations & Statecraft Synthesis)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.5) with authentic linguistic precision.",
+    "objective": "शांति समझौते (Peace Accords), युद्धविराम (Ceasefire), संयुक्त घोषणापत्र (Joint Communiqué) तथा राज्यशिल्प (Statecraft) के समग्र विमर्श में पूर्ण दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "संधि वार्ता, शांति समझौते और संप्रभु राज्यशिल्प का समग्र संश्लेषण:\n\n1. **शिखर वार्ता एवं बहुपक्षीय संधि प्रक्रिया**:\n   - **द्विपक्षीय शिखर सम्मेलन** — राष्ट्राध्यक्षों की आमने-सामने की रणनीतिक बैठक;\n   - **संयुक्त घोषणापत्र / विज्ञप्ति (Joint Communiqué)** — शिखर वार्ता में बनी सहमति और भविष्य की कार्ययोजना का आधिकारिक दस्तावेज।\n\n2. **शांति समझौते एवं युद्धविराम (Peace Accords & Ceasefire)**:\n   - **मध्यस्थता एवं कूटनीतिक सुलह** — तटस्थ तीसरे पक्ष की मध्यस्थता द्वारा युद्धविराम, कैदी अदला-बदली और मानवीय गलियारा (Humanitarian Corridor) स्थापित करना;\n   - **ऐतिहासिक भारतीय शांति कूटनीति** — कोरिया युद्ध, कांगो, साइप्रस में संयुक्त राष्ट्र शांति सेना (UN Peacekeeping) में भारत का अमूल्य योगदान।\n\n3. **संप्रभु राज्यशिल्प (Statecraft) का सार**:\n   - *राष्ट्रीय हितों की अडिग रक्षा, अंतरराष्ट्रीय संधियों का विधि-सम्मत पालन और वैश्विक शांति हेतु 'विश्वबंधु' का नैतिक दायित्व।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 32.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 32."
+          "target": "द्विपक्षीय शिखर वार्ता के समापन पर दोनों राष्ट्राध्यक्षों ने साझा रणनीतिक दृष्टिकोण और व्यापक आर्थिक साझेदारी को रेखांकित करते हुए संयुक्त घोषणापत्र जारी किया।",
+          "reading": "Dvi-paksheey shikhar vaarta ke samaapan par donon raashtraadhyakshon ne saajha rananeetik drishtikon aur vyaapak aarthik saajhedaari ko rekhaankit karte hue sanyukt ghoshanaapatr jaari kiya. [d̪ʋɪ-pəkʃiːj ʃɪkʰər ʋaːrt̪aː keː səmaːpən pər d̪oːnõː raːʂʈraːd̪ʱjəkʃõː neː saːdʒʱaː rəɳniːt̪ɪk drɪʂʈɪkoːɳ ɔːr ʋjaːpək aːrt̪ʰɪk saːdʒʱeːd̪aːriː koː reːkʰaːŋkɪt̪ kərt̪eː ɦʊeː sənjoːkt̪ ɡʱoːʂɳaːpət̪r dʒaːriː kɪjaː] (dvee-puhk-SHEE-yuh shee-KHUHR vahr-TAH kay suh-mah-PUHN puhr DOH-nohn rahsh-trah-dhuhk-SHOHN nay sah-JHAH ruhn-nee-TEEK dreesh-tee-KOHN owr vyah-PUHK ahr-THEEK sah-jhay-DAH-ree koh ray-khahn-KEET KUHR-tay hoo-AY suhn-YOOKT ghoh-shuh-nah-PUHTR jah-REE kee-YAH)",
+          "translation": "At the conclusion of the bilateral summit talks, both heads of state issued a joint declaration outlining a shared strategic vision and comprehensive economic partnership."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 32-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "अनुभवी राजनयिकों और विशेष दूतों ने जटिल शांति वार्ताओं में कूटनीतिक चातुर्य का प्रदर्शन करते हुए युद्धविराम और मानवीय गलियारा समझौते को मूर्त रूप दिया।",
+          "reading": "Anubhavi raajneetikgon aur vishesh dooton ne jatil shaanti vaartaaon mein kootneetik chaatury ka pradarshan karte hue yuddh-viraam aur maanveey galiyaara samjhoute ko moort roop diya. [ənʊbʱəʋiː raːdʒniːt̪ɪkɡõː ɔːr ʋɪʃeːʂ d̪uːt̪õː neː dʒəʈɪl ʃaːn̪t̪ɪ ʋaːrt̪aːõː mẽː kuːt̪niːt̪ɪk tʃaːt̪ʊrjə kaː prəd̪ərʃən kərt̪eː ɦʊeː jʊd̪ːʱ-ʋɪraːm ɔːr maːnʋiːj ɡəliːjaːraː səmədʒʱɔːt̪eː koː muːrt̪ ruːp d̪ɪjaː] (uh-noo-bhuh-VEE rahj-nee-teek-GOHN owr vee-SHAYSH DOO-tohn nay juh-TEEL shahn-TEE vahr-tah-OHN mayn koot-nee-TEEK chah-TOOR-yuh kah pruh-duhr-SHUHN KUHR-tay hoo-AY YOODH-vee-RAHM owr mahn-VEE-yuh guh-lee-YAH-rah suhm-jhow-TAY koh MOORT ROOP dee-YAH)",
+          "translation": "Seasoned diplomats and special envoys demonstrated diplomatic finesse in complex peace talks, actualizing a ceasefire and humanitarian corridor agreement."
+        },
+        {
+          "target": "राजनयिक शिष्टाचार, अंतरराष्ट्रीय संधियों का सम्मान और न्यायपूर्ण विश्व व्यवस्था का निर्माण ही संप्रभु राज्यशिल्प की सर्वोत्कृष्ट परिणति है।",
+          "reading": "Raajneetik shishtaachaar, antarraashtreey sandhiyon ka sammaan aur nyaayapoorna vishwa vyavastha ka nirmaan hi samprabhu raajyashilp ki sarvotkrisht parinati hai. [raːdʒniːt̪ɪk ʃɪʂʈaːtʃaːr ən̪t̪rːaːʂʈriːj sən̪d̪ʱɪjõː kaː səmːaːn ɔːr njaːjpuːrɳ ʋɪʃʋə ʋjəʋəst̪ʰaː kaː nɪrmaːɳ ɦiː səmprəbʱʊ raːdʒjəʃɪlp kiː sərʋoːtʃː prəɳət̪ɪ hɛː] (rahj-nee-TEEK sheesh-tah-CHAHR, uhn-tuhr-rahsh-TREE-yuh suhn-dhee-YOHN kah suhm-MAHN owr nyah-yuh-POOR-nuh VEESH-vuh vyuh-vuhs-THAH kah neer-MAHN HEE suhm-pruh-BHOO rahj-yuh-SHEELP kee suhr-voht-KREESHT puh-ree-nuh-TEE hy)",
+          "translation": "Diplomatic etiquette, respect for international treaties, and the construction of a just world order are the supreme culmination of sovereign statecraft."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "राज्यशिल्प समेकन: शिखर वार्ता, संयुक्त घोषणापत्र (Joint Communiqué), युद्धविराम, शांति स्थापना!"
+      ],
+      "culturalNotes": [
+        "भारत संयुक्त राष्ट्र शांति सेना (UN Peacekeeping Missions) में सर्वाधिक सैनिक भेजने वाले शीर्ष देशों में शामिल है, जिसने वैश्विक स्तर पर शांति और सुरक्षा की स्थापना में अद्वितीय बलिदान दिया है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"कानून\":",
+          "prompt": "दो या दो से अधिक देशों के राष्ट्राध्यक्षों की उच्चस्तरीय रणनीतिक बैठक के समापन पर जारी आधिकारिक दस्तावेज को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 32.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अदालत» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («न्यायाधीश» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («वकील» का अनुचित स्थान)"
+            "संयुक्त घोषणापत्र / संयुक्त विज्ञप्ति (Joint Communiqué / Joint Declaration of summit conclusions)",
+            "दैनिक समाचार पत्र (अखबार)",
+            "साप्ताहिक पत्रिका (मैगजीन)",
+            "विज्ञापन पर्चा (हैंडबिल)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "शिखर सम्मेलन के आधिकारिक निष्कर्षों के दस्तावेज को «संयुक्त घोषणापत्र» (Joint Communiqué) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"कानून\":",
+          "prompt": "युद्ध अथवा सशस्त्र संघर्ष को रोकने हेतु दोनों पक्षों के मध्य होने वाले अस्थायी अथवा स्थायी सैन्य समझौते को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 32.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («न्यायाधीश» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («वकील» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अदालत» का अशुद्ध रूप)"
+            "युद्धविराम / संघर्ष-विराम (Ceasefire / Truce - Formal cessation of armed hostilities between warring factions)",
+            "युद्ध की घोषणा (लड़ाई का ऐलान)",
+            "हथियारों की बिक्री (शस्त्र व्यापार)",
+            "सैन्य परेड (परेड प्रदर्शन)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "लड़ाई और सैन्य हमलों को औपचारिक रूप से रोकने के समझौते को «युद्धविराम» (Ceasefire) कहते हैं।"
         }
       ]
     },
@@ -13537,17 +13586,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"कानून\": Which sentence is completely correct?",
+          "prompt": "राजनयिक शिष्टाचार और राज्यशिल्प (Diplomatic Protocols & Statecraft) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 32.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («वकील» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अदालत» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («न्यायाधीश» से संबंधित)"
+            "अंतरराष्ट्रीय संधियों का निष्ठावान सम्मान, शांति समझौतों का दृढ़ क्रियान्वयन और कूटनीतिक मर्यादा ही संप्रभु राज्यशिल्प का सर्वोच्च शिखर हैं। (Faithful adherence to international treaties, steadfast execution of peace accords, and diplomatic dignity are the pinnacle of sovereign statecraft.)",
+            "राज्यशिल्प का अर्थ केवल पड़ोसी देशों के साथ गाली-गलौज करना है।",
+            "युद्धविराम का अर्थ है कि दोनों सेनाएं मिलकर ताश खेलें।",
+            "संयुक्त घोषणापत्र को कूड़ेदान में फेंक देना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«अंतरराष्ट्रीय संधियों का निष्ठावान सम्मान, शांति समझौतों का दृढ़ क्रियान्वयन और कूटनीतिक मर्यादा... सर्वोच्च शिखर हैं» राज्यशिल्प का सर्वोत्कृष्ट प्रामाणिक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u33-l1": {
