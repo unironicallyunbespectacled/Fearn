@@ -8685,53 +8685,62 @@
     "subject": "hindi",
     "unit": 21,
     "lessonNumber": 1,
-    "title": "स्वास्थ्य, चिकित्सा और नैदानिक संवाद (Medical Hindi) (Part 1)",
+    "title": "शारीरिक लक्षण, वेदना और रोग निदान (Symptoms, Pain Description & Dative Subject)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.1) with authentic linguistic precision.",
+    "objective": "चिकित्सकीय संदर्भ में शारीरिक लक्षणों, वेदना के प्रकारों और अनुभवकर्ता 'को' संरचनाओं (Dative Experiencer: मुझे सिरदर्द है, रोगी को बुख़ार है) के सटीक व स्वाभाविक प्रयोग में निपुण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "चिकित्सा और स्वास्थ्य संबंधी संवाद में शारीरिक लक्षणों एवं रोगों की अभिव्यक्ति के प्रमुख व्याकरणिक नियम:\n\n1. **अनुभवकर्ता 'को' संरचनाएं (Dative Experiencer Constructions)**:\n   - जब किसी व्यक्ति को शारीरिक कष्ट, रोग या अनुभूति होती है, तब कर्ता के साथ **'को'** परसर्ग लगता है:\n     - *मुझे तेज़ सिरदर्द हो रहा है।*\n     - *रोगी को तीव्र ज्वर (बुख़ार) और कंपकंपी है।*\n     - *उसे चक्कर आ रहे हैं और मितली (जी मिचलाना) हो रही है।*\n     - *बच्चे को साँस लेने में तकलीफ़ हो रही है।*\n\n2. **प्रमुख शारीरिक लक्षण एवं रोग शब्दावली**:\n   - **सिरदर्द / शिरोवेदना** (Headache);\n   - **ज्वर / बुख़ार** (Fever);\n   - **चक्कर / भ्रम** (Dizziness / Vertigo);\n   - **मितली / उल्टी** (Nausea / Vomiting);\n   - **खाँसी और जुकाम** (Cough and Cold);\n   - **रक्तचाप** (Blood Pressure);\n   - **थकान और दुर्बलता** (Fatigue and Weakness)।\n\n3. **वेदना की तीव्रता दर्शाने वाले विशेषण**:\n   - हल्का (mild), मध्यम (moderate), तीव्र / असहनीय (acute / unbearable), लगातार (continuous), रुक-रुक कर (intermittent)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 21.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 21."
+          "target": "मरीज़ को पिछले तीन दिनों से अत्यधिक तेज़ बुख़ार, बदन दर्द और तीव्र सिरदर्द की गंभीर शिकायत हो रही है।",
+          "reading": "mareez ko pichhle teen dinon se atyadhik tezz bukhaar, badan dard aur teevr sirdard ki gambheer shikaayat ho rahi hai. [mriːz koː pɪtʃʰleː t̪iːn d̪ɪnõː seː ət̪jəd̪ʱɪk t̪eːz bʊkʰaːr bəd̪ən d̪ərd̪ ɔːr t̪iːʋrə sɪrd̪ərd̪ kiː ɡəmbiːr ʃɪkaːjət̪ hoː rəɦiː hɛː] (muh-REEZ koh PEECHH-lay teen dee-NOHN say uht-yuh-DHEEK tayz bookh-AHR, BUH-duhn durd owr TEEV-ruh seer-DUHRD kee guhm-BHEER shee-kah-YUHT hoh RUH-hee hy)",
+          "translation": "The patient has been suffering from a serious complaint of extremely high fever, body ache, and acute headache for the past three days."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 21-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "मुझे अचानक चक्कर आने लगे और सीने में भारीपन के साथ-साथ साँस लेने में असहनीय कठिनाई महसूस होने लगी।",
+          "reading": "mujhe achaanak chakkar aane lage aur seene mein bhaaripan ke saath-saath saans lene mein asahneey kathinaai mahsoos hone lagi. [mʊdʒʱeː ətʃaːnək tʃəkːər aːneː ləɡeː ɔːr siːneː mẽː bʱaːriːpən keː saːt̪ʰ saːt̪ʰ saː̃s leːneː mẽː əsəɦniːj kəʈʰɪnaːiː məɦsuːs hoːneː ləɡiː] (moojh-AY uh-CHAH-nuhk CHUHK-kuhr AH-nay LUH-gay owr SEE-nay mayn bhah-ree-PUHN kay sahth-sahth SAHNS LAY-nay mayn uh-suh-huh-NEE-yuh kuh-thee-nah-EE muh-SOOS HOH-nay LUH-gee)",
+          "translation": "I suddenly started feeling dizzy and began experiencing heaviness in the chest along with unbearable difficulty in breathing."
+        },
+        {
+          "target": "वरिष्ठ चिकित्सक ने रोगी की नाड़ी की गति और रक्तचाप की सूक्ष्म जाँच करने के उपरांत समुचित औषधि परामर्श दिया।",
+          "reading": "varishth chikitsak ne rogi ki naadi ki gati aur raktchaap ki sookshm jaanch karne ke upraant samuchit aushadhi paraamarsh diya. [ʋərɪʂʈʰ tʃɪkɪt̪sək neː roːɡiː kiː naːɽiː kiː ɡət̪ɪ ɔːr rəkt̪tʃaːp kiː suːkʃmə dʒaːntʃ kərneː keː ʊpraːn̪t̪ səmʊtʃɪt̪ ɔːʂəd̪ʱiː pəraːmərʃ d̪ɪjaː] (vuh-REESH-th chee-keet-SUHK nay roh-GEE kee NAH-dee kee GUH-tee owr ruhkt-CHAHP kee SOOKSH-muh JAHNCH KUHR-nay kay oop-RAHNT suh-moo-CHEET ow-shuh-DHEE puh-rah-MUHRSH DEE-yah)",
+          "translation": "The senior physician provided appropriate medicinal advice after meticulously examining the patient's pulse rate and blood pressure."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "रोग व कष्ट में अनुभवकर्ता 'को': 'मुझे बुख़ार है' (I have fever), 'उसे दर्द है' (He has pain)!"
+      ],
+      "culturalNotes": [
+        "भारतीय चिकित्सा प्रणाली (आयुर्वेद व आधुनिक चिकित्सा) में नाड़ी परीक्षण और रोगी के व्यक्तिगत लक्षणों के सूक्ष्म विश्लेषण को निदान की पहली सीढ़ी माना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"आज\":",
+          "prompt": "शारीरिक वेदना (Physical Pain) दर्शाने वाला मानक 'को' परसर्ग युक्त वाक्य कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 21.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («परसों» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सुबह» का अनुचित स्थान)"
+            "रोगी को सुबह से तीव्र पेट दर्द हो रहा है (Rogi ko subah se teevr pet dard ho raha hai - The patient has been having severe stomach ache since morning [dative experiencer structure])",
+            "रोगी ने पेट दर्द किया (अशुद्ध कर्ता कारक दोष)",
+            "रोगी से पेट दर्द हुआ (असंगत करण कारक)",
+            "रोगी का पेट दर्द गया था (अशुद्ध संबंध कारक)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "रोग या शारीरिक कष्ट की अनुभूति व्यक्त करने के लिए कर्ता के साथ «को» (रोगी को) परसर्ग लगता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"आज\":",
+          "prompt": "वाक्य «मुझे अचानक ___ आने लगे और आँखों के आगे अंधेरा छा गया» में सही लक्षण भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 21.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («परसों» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सुबह» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कल» का अशुद्ध रूप)"
+            "चक्कर (Chakkar - Dizziness / Vertigo [symptom])",
+            "कागज़ (Object error)",
+            "रुपये (Currency mismatch)",
+            "कपड़े (Clothing mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "अचानक सिर घूमने और संतुलन बिगड़ने के चिकित्सीय लक्षण को «चक्कर» कहा जाता है।"
         }
       ]
     },
@@ -8739,17 +8748,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"आज\": Which sentence is completely correct?",
+          "prompt": "चिकित्सीय रोग निदान एवं शारीरिक लक्षण का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 21.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सुबह» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («परसों» से संबंधित)"
+            "मरीज़ को सीने में तीव्र जलन और साँस फूलने की निरंतर शिकायत होने पर चिकित्सकों ने तुरंत ईसीजी कराने का परामर्श दिया। (Upon the patient having continuous complaint of acute heartburn and shortness of breath, doctors immediately advised getting an ECG done.)",
+            "मरीज़ ने सीने में जलन खाया था कल।",
+            "ईसीजी हुआ ताकि मरीज़ बाज़ार में जाए।",
+            "साँस फूलने पर मरीज़ क्रिकेट खेल रहा था।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«मरीज़ को... निरंतर शिकायत होने पर चिकित्सकों ने तुरंत ईसीजी कराने का परामर्श दिया» चिकित्सीय भाषा और व्याकरण का त्रुटिहीन उदाहरण है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u21-l2": {
@@ -8757,53 +8767,62 @@
     "subject": "hindi",
     "unit": 21,
     "lessonNumber": 2,
-    "title": "स्वास्थ्य, चिकित्सा और नैदानिक संवाद (Medical Hindi) (Part 2)",
+    "title": "नैदानिक परीक्षण और रिपोर्ट व्याख्या (Clinical Diagnostic Tests & Medical Reports)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.2) with authentic linguistic precision.",
+    "objective": "नैदानिक प्रयोगशाला परीक्षणों (Laboratory Tests), पैथोलॉजी रिपोर्टों की व्याख्या और चिकित्सीय मानदण्डों से संबंधित परिष्कृत शब्दावली में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "चिकित्सीय जांचों और पैथोलॉजी रिपोर्टों की व्याख्या से संबंधित मानक हिंदी शब्दावली व नियम:\n\n1. **प्रमुख नैदानिक परीक्षण (Diagnostic Tests)**:\n   - **रक्त परीक्षण / रुधिर जांच** (Blood Test);\n   - **मूत्र परीक्षण** (Urine Analysis);\n   - **एक्स-रे / विकिरण चित्रण** (Radiography / X-ray);\n   - **सोनोग्राफी / अल्ट्रासाउंड** (Ultrasound Imaging);\n   - **सीटी स्कैन और एमआरआई** (Computed Tomography & MRI Scan);\n   - **ईसीजी (हृदय विद्युत आलेख)** (Electrocardiogram - ECG)।\n\n2. **रिपोर्ट व्याख्या की पारिभाषिक शब्दावली**:\n   - **सामान्य सीमा / मानक स्तर** (Normal Range);\n   - **संक्रमण की पुष्टि** (Confirmation of Infection);\n   - **रक्त शर्करा स्तर** (Blood Sugar Level — खाली पेट व भोजनोपरांत);\n   - **हीमोग्लोबिन की कमी / रक्ताल्पता** (Low Hemoglobin / Anemia);\n   - **सकारात्मक / नकारात्मक परिणाम** (Positive / Negative Result)।\n\n3. **वाक्य रचना**:\n   - रिपोर्ट के आधार पर निष्कर्ष व्यक्त करते समय संबंधवाचक एवं कर्मवाच्य संरचनाओं का प्रयोग किया जाता है।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 21.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 21."
+          "target": "नैदानिक रक्त परीक्षण की विस्तृत रिपोर्ट के अनुसार मरीज़ के रक्त में श्वेत रक्त कोशिकाओं की संख्या सामान्य सीमा से काफी अधिक है, जो शरीर में किसी गंभीर संक्रमण का स्पष्ट संकेत देती है।",
+          "reading": "naidaanik rakt pareekshan ki vistrit report ke anusaar mareez ke rakt mein shvet rakt koshikaaon ki sankhya saamaanya seema se kaafi adhik hai, jo shareer mein kisi gambheer sankraman ka spasht sanket deti hai. [nɛːd̪aːnɪk rəkt̪ pəriːkʃəɳ kiː ʋɪst̪rɪt̪ rɪpoːrʈ keː ənuːsaːr mriːz keː rəkt̪ mẽː ʃʋeːt̪ rəkt̪ koːʃɪkaːõː kiː səŋkʰjaː saːmaːnjə siːmaː seː kaːfiː əd̪ʱɪk hɛː dʒoː ʃəriːr mẽː kɪsiː ɡəmbiːr səŋkrəməɳ kaː spəʂʈ səŋkeːt̪ d̪eːt̪iː hɛː] (ny-DAH-neek ruhkt puh-REEK-shuhn kee vees-TREET report kay uh-noo-SAHR muh-REEZ kay ruhkt mayn shvayt ruhkt koh-shee-KAH-ohn kee SUHNGK-hyah sah-MAHN-yuh SEE-mah say KAH-fee uh-DHEEK hy, joh shuh-REER mayn kee-SEE guhm-BHEER suhng-kruh-MUHN kah spuhsht suhng-KAYT DAY-tee hy)",
+          "translation": "According to the detailed report of the clinical blood test, the count of white blood cells in the patient's blood is well above the normal range, which gives a clear indication of a serious infection in the body."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 21-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "रेडियोलॉजिस्ट ने छाती के सीटी-स्कैन और डिजिटल एक्स-रे की रिपोर्ट देखकर फेफड़ों में हल्के निमोनिया के संक्रमण की पुष्टि की और तत्काल एंटीबायोटिक उपचार शुरू करने की संस्तुति की।",
+          "reading": "radiologist ne chhaati ke CT-scan aur digital X-ray ki report dekhkar phephadon mein halke pneumonia ke sankraman ki pushti ki aur tatkaal antibiotic upchaar shuroo karne ki sanstuti ki. [reːɖɪjoːlɔːdʒɪst̪ neː tʃʰaːt̪iː keː siːʈiː skɛːn ɔːr ɖɪdʒɪʈəl ɛksreː kiː rɪpoːrʈ d̪eːkʰkər pʰeːpʰɽõː mẽː ɦəlkeː nɪmoːnɪjaː keː səŋkrəməɳ kiː pʊʂʈɪ kiː ɔːr t̪ət̪kaːl ɛnʈiːbaːjoːʈɪk ʊptʃaːr ʃʊruː kərneː kiː sənst̪ʊt̪ɪ kiː] (radiologist nay CHHAH-tee kay CT-scan owr digital X-ray kee report DAYKH-kuhr fay-phuh-DOHN mayn HUHL-kay pneumonia kay suhng-kruh-MUHN kee POOSH-tee kee owr tuht-KAHL antibiotic oop-CHAHR shoo-ROO KUHR-nay kee suhns-TOO-tee kee)",
+          "translation": "The radiologist confirmed mild pneumonia infection in the lungs upon reviewing the chest CT-scan and digital X-ray report and recommended starting antibiotic treatment immediately."
+        },
+        {
+          "target": "मधुमेह विशेषज्ञ ने रोगी को अपनी खाली पेट और भोजनोपरांत शर्करा के स्तर की नियमित निगरानी करने और रिपोर्ट साझा करने का परामर्श दिया।",
+          "reading": "madhumeh visheshagya ne rogi ko apni khaali pet aur bhojanoparaant sharkara ke star ki niyamit nigrani karne aur report saajha karne ka paraamarsh diya. [məd̪ʱʊmeːɦ ʋɪʃeːʂəɡjə neː roːɡiː koː əpniː kʰaːliː peːʈ ɔːr bʱoːdʒnoːpəraːnt̪ ʃərkəraː keː st̪ər kiː nɪjəmɪt̪ nɪɡraːniː kərneː ɔːr rɪpoːrʈ saːdʒʱaː kərneː kaː pəraːmərʃ d̪ɪjaː] (muh-dhoo-MAYH vee-shaysh-UHG-yuh nay roh-GEE koh uhp-NEE KHAH-lee payt owr bhohj-noh-puh-RAHNT shuhr-kuh-RAH kay sthuhr kee nee-yuh-MEET neeg-RAH-nee KUHR-nay owr report SAHJ-hah KUHR-nay kah puh-rah-MUHRSH DEE-yah)",
+          "translation": "The diabetologist advised the patient to regularly monitor his fasting and post-prandial sugar levels and share the reports."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "परीक्षण = रक्त परीक्षण (blood test), एक्स-रे (X-ray), सामान्य सीमा (normal range), संक्रमण (infection)!"
+      ],
+      "culturalNotes": [
+        "भारत में डिजिटल स्वास्थ्य मिशन (ABHA) के अंतर्गत अब सभी नैदानिक रिपोर्टों को इलेक्ट्रॉनिक स्वास्थ्य रिकॉर्ड (EHR) में सुरक्षित रखने की प्रणाली व्यापक रूप से अपनाई जा रही है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"कल\":",
+          "prompt": "चिकित्सीय रिपोर्ट में 'Normal Range' के लिए मानक हिंदी पारिभाषिक पद कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 21.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («परसों» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सुबह» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दोपहर» का अनुचित स्थान)"
+            "सामान्य सीमा / मानक स्तर (Saamaanya seema / Maanak star - Normal Range [clinical reference range])",
+            "खतरनाक खाई (असंगत भौगोलिक शब्द)",
+            "अनंत आकाश (काल्पनिक रूपक)",
+            "बाज़ार का भाव (आर्थिक शब्दावली)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "पैथोलॉजी रिपोर्ट में संदर्भ मानदण्ड को «सामान्य सीमा» (Normal Range) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"कल\":",
+          "prompt": "वाक्य «रक्त जांच में हीमोग्लोबिन का स्तर कम आने से चिकित्सक ने ___ का निदान किया» में सही रोग भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 21.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सुबह» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दोपहर» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («परसों» का अशुद्ध रूप)"
+            "रक्ताल्पता / एनीमिया (Raktaalpata / Anemia - Low hemoglobin / Anemia [clinical diagnosis])",
+            "अस्थिभंग (Bone fracture error)",
+            "मोतियाबिंद (Cataract eye error)",
+            "दंतक्षय (Dental cavity error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "रक्त में हीमोग्लोबिन की कमी से होने वाले रोग को हिंदी में «रक्ताल्पता» (Anemia) कहा जाता है।"
         }
       ]
     },
@@ -8811,17 +8830,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"कल\": Which sentence is completely correct?",
+          "prompt": "नैदानिक परीक्षण और रिपोर्ट व्याख्या का पूर्णतः प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 21.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दोपहर» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («परसों» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सुबह» से संबंधित)"
+            "एमआरआई रिपोर्ट में रीढ़ की हड्डी में हल्का खिंचाव पाए जाने पर फिजियोथेरेपिस्ट ने नियमित व्यायाम और विश्राम का परामर्श दिया। (Upon mild sprain being found in the spine in the MRI report, the physiotherapist advised regular exercise and rest.)",
+            "एमआरआई रिपोर्ट में रीढ़ की हड्डी नाच रही थी।",
+            "फिजियोथेरेपिस्ट कल शाम को बाज़ार में मिठाई खरीद रहा था।",
+            "हड्डी में खिंचाव था ताकि सब लोग हँसें।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«एमआरआई रिपोर्ट में... हल्का खिंचाव पाए जाने पर फिजियोथेरेपिस्ट ने नियमित व्यायाम और विश्राम का परामर्श दिया» चिकित्सा जगत का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u21-l3": {
@@ -8829,53 +8849,62 @@
     "subject": "hindi",
     "unit": 21,
     "lessonNumber": 3,
-    "title": "स्वास्थ्य, चिकित्सा और नैदानिक संवाद (Medical Hindi) (Part 3)",
+    "title": "औषधि सेवन निर्देश और सावधानियाँ (Dosage Instructions, Precautions & Medical Regimen)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.3) with authentic linguistic precision.",
+    "objective": "दवाइयों के सेवन की समयावधि, मात्रा (Dosage), भोजन-संबंधी परहेज़ (Dietary Restrictions) तथा विधि-निषेधात्मक निर्देशों के सटीक संप्रेषण में दक्ष होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "औषधि सेवन की विधि, खुराक और सावधानियों से संबंधित मानक चिकित्सीय निर्देश:\n\n1. **सेवन की आवृत्ति एवं समय (Frequency & Timing)**:\n   - **दिन में दो बार / तीन बार** (Twice / Thrice daily);\n   - **खाली पेट / निराहार** (On an empty stomach / Fasting);\n   - **भोजनोपरांत / भोजन के पश्चात** (Post-prandial / After meals);\n   - **गुनगुने जल के साथ** (With lukewarm water);\n   - **सोने से पूर्व / शयनकाल में** (At bedtime / Before sleep)।\n\n2. **सावधानियाँ और परहेज़ (Precautions & Dietary Restrictions)**:\n   - **परहेज़ रखना** (To observe dietary restriction / Avoid);\n   - *ठंडी, तली-भुनी और अत्यधिक खट्टी वस्तुओं से पूर्ण परहेज़ रखें;*\n   - *एंटीबायोटिक का पूरा कोर्स अनिवार्यतः पूर्ण करना चाहिए;*\n   - *चिकित्सकीय परामर्श के बिना दवा की खुराक में कोई परिवर्तन न करें।*\n\n3. **निर्देशात्मक संरचनाएं**:\n   - विधि-निर्देशों में **'चाहिए'** तथा आदरसूचक आज्ञार्थक क्रियाओं (लीजिए, रखिए, बचिए) का प्रयोग किया जाता है।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 21.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 21."
+          "target": "यह एंटीबायोटिक गोली प्रतिदिन सुबह और शाम भोजनोपरांत गुनगुने पानी के साथ पूरे सात दिनों तक अनिवार्य रूप से लेनी चाहिए।",
+          "reading": "yah antibiotic goli pratidin subah aur shaam bhojanoparaant gungune paani ke saath poore saat dinon tak anivaarya roop se leni chaahiye. [jəɦ ɛnʈiːbaːjoːʈɪk ɡoːliː prət̪ɪd̪ɪn sʊbəɦ ɔːr ʃaːm bʱoːdʒnoːpəraːnt̪ ɡʊnɡʊneː paːniː keː saːt̪ʰ puːreː saːt̪ d̪ɪnõː t̪ək ənɪʋaːrjə ruːp seː leːniː tʃaːɦɪjeː] (yuh antibiotic GOH-lee pruh-tee-DEEN SOO-buh owr shahm bhohj-noh-puh-RAHNT goon-goo-NAY PAH-nee kay sahth POO-ray saht dee-NOHN tuhk uh-nee-VAHR-yuh roop say LAY-nee CHAH-hee-yay)",
+          "translation": "This antibiotic tablet should mandatorily be taken with lukewarm water twice daily, morning and evening after meals, for a full seven days."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 21-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "त्वचा रोग विशेषज्ञ ने रोगी को कड़ा निर्देश दिया कि वह धूप में निकलने से पूर्व यह औषधीय लेप लगाए और धूल-मिट्टी व रासायनिक साबुनों से पूर्ण परहेज़ रखे।",
+          "reading": "tvacha rog visheshagya ne rogi ko kada nirdesh diya ki vah dhoop mein nikalne se poorva yah aushadheey lep lagaaye aur dhool-mitti va raasaayanik saabunon se poorna parhez rakhe. [t̪ʋətʃaː roːɡ ʋɪʃeːʂəɡjə neː roːɡiː koː kəɽaː nɪrdeːʃ d̪ɪjaː kɪ ʋəɦ d̪ʱuːp mẽː nɪkəlneː seː puːrʋə jəɦ ɔːʂəd̪ʱiːj leːp ləɡaːjeː ɔːr d̪ʱuːl mɪʈːiː ʋə raːsaːjnɪk saːbʊnõː seː puːrɳ pərɦeːz rəkʰeː] (tvuh-CHAH rohg vee-shaysh-UHG-yuh nay roh-GEE koh KUH-dah neer-DAYSH DEE-yah kee vuh dhoop mayn nee-kuhl-NAY say POOR-vuh yuh ow-shuh-DHEE-yuh layp luh-GAH-yay owr dhool-meet-TEE vuh rah-sah-yuh-NEEK sah-boo-NOHN say POOR-nuh puhr-HAYZ RUKH-ay)",
+          "translation": "The dermatologist strictly directed the patient to apply this medicinal ointment before stepping out in the sun and observe total avoidance of dust and chemical soaps."
+        },
+        {
+          "target": "उच्च रक्तचाप की इस गोली को प्रतिदिन प्रातःकाल निश्चित समय पर खाली पेट लेना चाहिए और इसका सेवन कभी अचानक बंद नहीं करना चाहिए।",
+          "reading": "uchch raktchaap ki is goli ko pratidin praatahkaal nishchit samay par khaali pet lena chaahiye aur iska sevan kabhi achaanak band nahin karna chaahiye. [ʊtʃː rəkt̪tʃaːp kiː ɪs ɡoːliː koː prət̪ɪd̪ɪn praːt̪əɦkaːl nɪʃtʃɪt̪ səməj pər kʰaːliː peːʈ leːnaː tʃaːɦɪjeː ɔːr ɪskaː seːʋən kəbʱiː ətʃaːnək bən̪d̪ nəɦĩː kərnaː tʃaːɦɪjeː] (ootch ruhkt-CHAHP kee ees GOH-lee koh pruh-tee-DEEN prah-tuhk-KAHL neesh-CHEET SUH-muy puhr KHAH-lee payt LAY-nah CHAH-hee-yay owr ees-KAH SAY-vuhn KUH-bhee uh-CHAH-nuhk buhnd nuh-HEEN KUHR-nah CHAH-hee-yay)",
+          "translation": "This high blood pressure tablet should be taken on an empty stomach daily in the morning at a fixed time and its intake should never be stopped abruptly."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "दवा निर्देश: भोजनोपरांत (after food), निराहार (empty stomach), परहेज़ रखना (to avoid)!"
+      ],
+      "culturalNotes": [
+        "भारतीय पारिवारिक जीवन में आयुर्वेदिक काढ़े और औषधियों के साथ भोजन में 'परहेज़' (पथ्य-अपथ्य) को रोगमुक्ति का अनिवार्य अंग माना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"परसों\":",
+          "prompt": "दवा के सेवन में 'भोजन के बाद' के लिए मानक तत्सम शब्द कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 21.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सुबह» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दोपहर» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («शाम» का अनुचित स्थान)"
+            "भोजनोपरांत (Bhojanoparaant - After meals / Post-prandial [standard medical term])",
+            "भोजन से पहले (विपरीतार्थक शब्द)",
+            "बिना भोजन के (निराहार)",
+            "भोजन पकाते समय (अनुपयुक्त पाककला संदर्भ)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "दवा पर्चे पर खाने के बाद दवा लेने हेतु मानक शब्द «भोजनोपरांत» लिखा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"परसों\":",
+          "prompt": "चिकित्सीय निर्देश «एंटीबायोटिक का पूरा कोर्स अनिवार्यतः ___ करना चाहिए» में सही क्रिया भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 21.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दोपहर» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («शाम» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सुबह» का अशुद्ध रूप)"
+            "पूरा (Poora - Complete [completing the full course of medicine])",
+            "आधा (Harmful incomplete error)",
+            "नष्ट (Destructive error)",
+            "फेंक (Wasteful error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "संक्रमण की पुनरावृत्ति रोकने हेतु दवा का चक्र «पूरा» करना अनिवार्य होता है।"
         }
       ]
     },
@@ -8883,17 +8912,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"परसों\": Which sentence is completely correct?",
+          "prompt": "औषधि सेवन निर्देश और सावधानियों (Medical Dosage & Regimen) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 21.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («शाम» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सुबह» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दोपहर» से संबंधित)"
+            "चिकित्सक के निर्देशानुसार सिरप की दो चम्मच मात्रा दिन में तीन बार गुनगुने पानी के साथ नियमित रूप से लेनी चाहिए। (As directed by the doctor, a two-spoon dose of syrup should regularly be taken thrice daily with lukewarm water.)",
+            "सिरप की बोतल को कल शाम बाज़ार में फेंक देना चाहिए।",
+            "दवा मत लो ताकि बुख़ार बहुत बढ़ जाए।",
+            "गुनगुने पानी में दवा बहाकर हम सब सो गए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«चिकित्सक के निर्देशानुसार... दो चम्मच मात्रा दिन में तीन बार गुनगुने पानी के साथ नियमित रूप से लेनी चाहिए» आदर्श चिकित्सकीय भाषा है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u21-l4": {
@@ -8901,53 +8931,62 @@
     "subject": "hindi",
     "unit": 21,
     "lessonNumber": 4,
-    "title": "स्वास्थ्य, चिकित्सा और नैदानिक संवाद (Medical Hindi) (Part 4)",
+    "title": "अस्पताल प्रक्रियाएं, आपातकालीन व शल्य चिकित्सा (Hospital Procedures, Emergency & Surgery)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.4) with authentic linguistic precision.",
+    "objective": "अस्पताल के विभिन्न विभागों, आपातकालीन चिकित्सा (Emergency Care), शल्य चिकित्सा (Surgery) तथा विधिक सहमति-प्रपत्रों की औपचारिक हिंदी शब्दावली में पूर्ण अधिकार प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "अस्पताल प्रबंधन, आपातकालीन सेवाओं और शल्य चिकित्सा से संबंधित मानक प्रशासनिक व चिकित्सीय शब्दावली:\n\n1. **अस्पताल के प्रमुख विभाग (Hospital Units)**:\n   - **आपातकालीन विभाग / ट्रॉमा सेंटर** (Emergency Department / Trauma Center);\n   - **सघन चिकित्सा कक्ष (आईसीयू)** (Intensive Care Unit - ICU);\n   - **शल्यक्रिया कक्ष (ओटी)** (Operation Theatre - OT);\n   - **बहिरंग रोगी विभाग (ओपीडी)** (Out-Patient Department - OPD);\n   - **अंतःरोगी विभाग (आईपीडी)** (In-Patient Department - IPD)।\n\n2. **शल्य चिकित्सा एवं विधिक प्रक्रियाएं**:\n   - **शल्यक्रिया / शल्योपचार** (Surgical Operation);\n   - **संज्ञाहरण / निश्चेतना** (Anesthesia);\n   - **सहमति प्रपत्र** (Informed Consent Form);\n   - **रोगी को भर्ती करना / छुट्टी देना** (Hospital Admission / Discharge);\n   - **जीवन रक्षक प्रणाली** (Life Support System)।\n\n3. **प्रक्रियात्मक वाक्य-संरचना**:\n   - आपातकालीन और शल्य प्रक्रियाओं में दायित्व और औपचारिकता व्यक्त करने हेतु प्रेरणार्थक तथा कर्मवाच्य क्रियाओं का प्रयोग होता है।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 21.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 21."
+          "target": "दुर्घटना में गंभीर रूप से घायल व्यक्ति को आपातकालीन राहत दल द्वारा तत्काल अस्पताल के सघन चिकित्सा कक्ष (आईसीयू) में भर्ती कराया गया।",
+          "reading": "durghatna mein gambheer roop se ghaayal vyakti ko aapaatkaaleen raahat dal dvaara tatkaal aspataal ke saghan chikitsa kaksh (ICU) mein bharti karaaya gaya. [d̪ʊrɡʱəʈnaː mẽː ɡəmbiːr ruːp seː ɡʱaːjəl ʋjəkt̪ɪ koː aːpaːt̪kaːliːn raːɦət̪ d̪əl d̪ʋaːraː t̪ət̪kaːl əspət̪aːl keː səɡʱən tʃɪkɪt̪saː kəkʃ (aːiːsiːjuː) mẽː bʱərt̪iː kəraːjaː ɡəjaː] (door-ghuht-NAH mayn guhm-BHEER roop say GHAH-yuhl VYUHNK-tee koh ah-paht-kah-LEEN RAH-huht duhl dvah-RAH tuht-KAHL uhs-puh-TAHL kay SUH-ghuhn chee-KEET-sah KUKSH (ICU) mayn bhuhr-TEE kuh-RAH-yah GUH-yah)",
+          "translation": "The person severely injured in the accident was immediately admitted to the hospital's Intensive Care Unit (ICU) by the emergency relief team."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 21-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "मुख्य शल्य चिकित्सक ने जटिल ऑपरेशन प्रारंभ करने से पूर्व रोगी के परिजनों से विधिक सहमति प्रपत्र पर विधिवत हस्ताक्षर करवाए।",
+          "reading": "mukhya shalya chikitsak ne jatil operation praarambh karne se poorva rogi ke parijanon se vidhik sahamati prapatr par vidhivat hastaakshar karvaaye. [mʊkʰjə ʃəljə tʃɪkɪt̪sək neː dʒəʈɪl oːpəreːʃən praːrəmbʱ kərneː seː puːrʋə roːɡiː keː pərɪdʒnõː seː ʋɪd̪ʱɪk səɦmət̪ɪ prəpət̪r pər ʋɪd̪ʱɪʋət̪ ɦəst̪aːkʃər kərʋaːjeː] (MOOKH-yuh SHUHL-yuh chee-keet-SUHK nay JUH-teel operation prah-RUHMBH KUHR-nay say POOR-vuh roh-GEE kay puh-ree-juh-NOHN say vee-DHEEK suh-huh-muh-TEE pruh-PUHT-ruh puhr vee-dhee-VUHT huhs-TAHK-shuhr kuhr-VAH-yay)",
+          "translation": "The chief surgeon had the patient's family members duly sign the legal informed consent form prior to commencing the complex surgery."
+        },
+        {
+          "target": "शल्यक्रिया के सफल समापन के उपरांत मरीज़ को चौबीस घंटे तक चिकित्सकों की विशेष निगरानी में रिकवरी वार्ड में रखा गया।",
+          "reading": "shalyakriya ke safal samaapan ke upraant mareez ko chaubees ghante tak chikitsakon ki vishesh nigrani mein recovery ward mein rakha gaya. [ʃəljəkrɪjaː keː səfəl səmaːpən keː ʊpraːn̪t̪ mriːz koː tʃɔːbiːs ɡʱəɳʈeː t̪ək tʃɪkɪt̪səkõː kiː ʋɪʃeːʂ nɪɡraːniː mẽː rɪkəʋəriː ʋaːrɖ mẽː rəkʰaː ɡəjaː] (shuhl-yuh-KREE-yah kay SUH-fuhl suh-MAH-puhn kay oop-RAHNT muh-REEZ koh chow-BEES GHUHN-tay tuhk chee-keet-suh-KOHN kee vee-SHAYSH neeg-RAH-nee mayn recovery ward mayn RUKH-ah GUH-yah)",
+          "translation": "Following the successful conclusion of the surgery, the patient was kept in the recovery ward under special observation of physicians for twenty-four hours."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "अस्पताल इकाइयाँ: सघन चिकित्सा कक्ष (ICU), शल्यक्रिया (surgery), सहमति प्रपत्र (consent form)!"
+      ],
+      "culturalNotes": [
+        "भारत के सभी प्रमुख चिकित्सा संस्थानों (एम्स आदि) में रोगी के अधिकारों और प्रक्रियात्मक पारदर्शिता हेतु हिंदी व क्षेत्रीय भाषाओं में सहमति प्रपत्र उपलब्ध कराए जाते हैं।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"सुबह\":",
+          "prompt": "अस्पताल में 'Intensive Care Unit (ICU)' के लिए शुद्ध मानक हिंदी पारिभाषिक नाम क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 21.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दोपहर» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («शाम» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («रात» का अनुचित स्थान)"
+            "सघन चिकित्सा कक्ष (Saghan chikitsa kaksh - Intensive Care Unit / ICU [official medical term])",
+            "हँसी-मज़ाक कक्ष (हास्यास्पद अनुपयुक्त शब्द)",
+            "भोजन विश्राम कक्ष (कैंटीन संदर्भ)",
+            "खिलौना भंडार कक्ष (असंगत बाल संदर्भ)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "अति गंभीर रोगियों के लिए विशेष निगरानी वाले कक्ष को «सघन चिकित्सा कक्ष» (ICU) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"सुबह\":",
+          "prompt": "ऑपरेशन से पूर्व रोगी के परिजनों से भरवाए जाने वाले विधिक प्रपत्र (Consent Form) को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 21.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («शाम» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («रात» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दोपहर» का अशुद्ध रूप)"
+            "सहमति प्रपत्र (Sahamati prapatr - Consent Form [legal medical consent form])",
+            "रेलवे टिकट (यात्रा टिकट)",
+            "शादी का कार्ड (विवाह निमंत्रण)",
+            "बिजली का बिल (उपयोगिता बिल)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "शल्यक्रिया या गंभीर उपचार की कानूनी स्वीकृति के दस्तावेज़ को «सहमति प्रपत्र» (Consent Form) कहते हैं।"
         }
       ]
     },
@@ -8955,17 +8994,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"सुबह\": Which sentence is completely correct?",
+          "prompt": "अस्पताल और शल्य चिकित्सा प्रक्रियाओं का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 21.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («रात» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दोपहर» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («शाम» से संबंधित)"
+            "शल्यक्रिया के सफल निष्पादनोपरांत निश्चेतना विशेषज्ञ ने मरीज़ के होश में आने की पुष्टि की और उसे वार्ड में स्थानांतरित किया गया। (Following the successful execution of surgery, the anesthesiologist confirmed the patient regaining consciousness and he was shifted to the ward.)",
+            "शल्यक्रिया में सब लोग ताली बजा रहे थे।",
+            "निश्चेतना विशेषज्ञ कल मैच खेल रहा था।",
+            "मरीज़ होश में आया ताकि अस्पताल बंद हो।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«शल्यक्रिया के सफल निष्पादनोपरांत निश्चेतना विशेषज्ञ ने... स्थानांतरित किया गया» परिष्कृत अस्पताल शब्दावली का आदर्श वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u21-l5": {
@@ -8973,53 +9013,62 @@
     "subject": "hindi",
     "unit": 21,
     "lessonNumber": 5,
-    "title": "स्वास्थ्य, चिकित्सा और नैदानिक संवाद (Medical Hindi) (Part 5)",
+    "title": "स्वास्थ्य व नैदानिक संवाद का समग्र समेकन (Comprehensive Doctor-Patient Consultation Synthesis)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.5) with authentic linguistic precision.",
+    "objective": "चिकित्सक-रोगी के मध्य होने वाले उच्च स्तरीय नैदानिक विमर्श, रोग इतिहास (Case History), समग्र उपचार योजना तथा निवारक स्वास्थ्य संवाद में पूर्ण निपुणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "चिकित्सकीय परामर्श (Clinical Consultation) और समग्र स्वास्थ्य संवाद का संपूर्ण संश्लेषण:\n\n1. **केस हिस्ट्री और नैदानिक विमर्श (Case History & Consultation Discourse)**:\n   - *रोगी के पूर्व चिकित्सीय इतिहास और पारिवारिक आनुवंशिक पृष्ठभूमि का विश्लेषण;*\n   - *विस्तृत जांच रिपोर्टों के आधार पर सटीक रोग निदान और उपचार योजना;*\n   - *औषधि सेवन, आहार नियंत्रण और जीवनशैली में सकारात्मक परिवर्तन का समन्वय।*\n\n2. **निवारक स्वास्थ्य और जन-जागरूकता (Preventive Health & Wellness)**:\n   - *संतुलित आहार, नियमित योगाभ्यास और तनाव प्रबंधन का महत्व;*\n   - *नियमित स्वास्थ्य परीक्षण (Annual Health Check-up) द्वारा समय रहते रोगों की रोकथाम;*\n   - *सामुदायिक स्वास्थ्य शिविरों में स्वास्थ्य चेतना का प्रसार।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 21.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 21."
+          "target": "वरिष्ठ हृदय रोग विशेषज्ञ ने विस्तृत नैदानिक परीक्षणों और ईसीजी रिपोर्टों का गहन विश्लेषण करने के उपरांत रोगी को जीवनशैली में तत्काल सुधार और नियमित व्यायाम का परामर्श दिया।",
+          "reading": "varishth hriday rog visheshagya ne vistrit naidaanik pareekshanon aur ECG reporton ka gahan vishleshan karne ke upraant rogi ko jeevanshaili mein tatkaal sudhaar aur niyamit vyaayaam ka paraamarsh diya. [ʋərɪʂʈʰ hrɪd̪əj roːɡ ʋɪʃeːʂəɡjə neː ʋɪst̪rɪt̪ nɛːd̪aːnɪk pəriːkʃəɳõː ɔːr iːsiːdʒiː rɪpoːrʈõː kaː ɡəɦən ʋɪʃleːʂəɳ kərneː keː ʊpraːn̪t̪ roːɡiː koː dʒiːʋənʃɛːliː mẽː t̪ət̪kaːl sʊd̪ʱaːr ɔːr nɪjəmɪt̪ ʋjaːjaːm kaː pəraːmərʃ d̪ɪjaː] (vuh-REESH-th hree-DUHY rohg vee-shaysh-UHG-yuh nay vees-TREET ny-DAH-neek puh-reek-shuh-NOHN owr ECG report-OHN kah GUH-huhn veesh-LAY-shuhn KUHR-nay kay oop-RAHNT roh-GEE koh jee-vuhn-SHY-lee mayn tuht-KAHL soo-DHAHR owr nee-yuh-MEET vyah-YAHM kah puh-rah-MUHRSH DEE-yah)",
+          "translation": "The senior cardiologist, after deeply analyzing the detailed clinical tests and ECG reports, advised the patient to immediately improve his lifestyle and do regular exercise."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 21-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "रोगी और विशेषज्ञ चिकित्सक के मध्य हुए विस्तृत विचार-विमर्श के पश्चात उपचार की संपूर्ण रूपरेखा और औषधियों की सटीक समय-सारणी सर्वसम्मति से निर्धारित की गई।",
+          "reading": "rogi aur visheshagya chikitsak ke madhya hue vistrit vichaar-vimarsh ke pashchaat upchaar ki sampoorna rooprekha aur aushadhiyon ki sateek samay-saaranee sarvasammati se nirdhaarit ki gayi. [roːɡiː ɔːr ʋɪʃeːʂəɡjə tʃɪkɪt̪sək keː məd̪ʱjə hʊeː ʋɪst̪rɪt̪ ʋɪtʃaːr ʋɪmərʃ keː pəʃtʃaːt̪ ʊptʃaːr kiː səmbuːrɳ ruːpreːkʰaː ɔːr ɔːʂəd̪ʱɪjõː kiː sətiːk səməjsaːrɳiː sərʋsəmːət̪ɪ seː nɪrd̪ʱaːrɪt̪ kiː ɡəjiː] (roh-GEE owr vee-shaysh-UHG-yuh chee-keet-SUHK kay MUDH-yuh HOO-ay vees-TREET vee-chahr-vee-MUHRSH kay puhsh-CHAHT oop-CHAHR kee suhm-POOR-nuh roop-RAY-khah owr ow-shuh-dhee-YOHN kee suh-TEEK suh-muy-sah-ruh-NEE suhrv-suhm-MUH-tee say neer-dhah-REET kee GUH-yee)",
+          "translation": "Following detailed deliberations between the patient and the specialist physician, the complete outline of treatment and the exact schedule of medicines were determined with consensus."
+        },
+        {
+          "target": "मुख्य चिकित्सा अधीक्षक ने संपूर्ण स्वास्थ्य परामर्श शिविर का सफल समापन करते हुए सभी उपस्थित नागरिकों को नियमित स्वास्थ्य परीक्षण कराने हेतु प्रेरित किया।",
+          "reading": "mukhya chikitsa adheekshak ne sampoorna swaasthya paraamarsh shivir ka safal samaapan karte hue sabhi upasthit naagrikon ko niyamit swaasthya pareekshan karaane hetu prerit kiya. [mʊkʰjə tʃɪkɪt̪saː əd̪ʱiːkʃək neː səmbuːrɳ sʋaːst̪ʰjə pəraːmərʃ ʃɪʋɪr kaː səfəl səmaːpən kərt̪eː hʊeː səbʱiː ʊpəst̪ʰɪt̪ naːɡrɪkõː koː nɪjəmɪt̪ sʋaːst̪ʰjə pəriːkʃəɳ kəraːneː ɦeːt̪ʊ preːrɪt̪ kɪjaː] (MOOKH-yuh chee-KEET-sah uh-dheek-SHUHK nay suhm-POOR-nuh SVAHS-thyuh puh-rah-MUHRSH shee-VEER kah SUH-fuhl suh-MAH-puhn KUHR-tay HOO-ay SUH-bhee oo-puhs-THEET nahg-ree-KOHN koh nee-yuh-MEET SVAHS-thyuh puh-REEK-shuhn kuh-rah-NAY HAY-too PRAY-reet kee-YAH)",
+          "translation": "The Chief Medical Superintendent, successfully concluding the comprehensive health consultation camp, inspired all citizens present to undergo regular health check-ups."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "चिकित्सा समेकन: रोग इतिहास (case history), उपचार योजना (treatment plan), निवारक स्वास्थ्य (preventive health)!"
+      ],
+      "culturalNotes": [
+        "भारतीय समाज में 'पहला सुख निरोगी काया' (Health is the foremost happiness) की सनातन उक्ति स्वास्थ्य संरक्षण और संतुलित जीवन के महत्व को रेखांकित करती है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"दोपहर\":",
+          "prompt": "रोग के पूर्व इतिहास (Medical Case History) के लिए मानक हिंदी शब्द कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 21.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («शाम» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («रात» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सप्ताह» का अनुचित स्थान)"
+            "रोग इतिहास / पूर्व चिकित्सीय वृत्त (Rog itihaas / Poorva chikitseey vritt - Medical Case History [clinical term])",
+            "भूतकाल की कहानी (काल्पनिक गल्प)",
+            "पुराना उपन्यास (साहित्यिक पुस्तक)",
+            "बीता हुआ नाटक (रंगमंच अभिनय)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "रोगी के पूर्व रोगों और पारिवारिक स्वास्थ्य विवरण को «रोग इतिहास» (Case History) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"दोपहर\":",
+          "prompt": "रोगों से बचाव और स्वास्थ्य संरक्षण हेतु प्रयुक्त शुद्ध पद चुनिए: «हमें ___ स्वास्थ्य पर विशेष ध्यान देना चाहिए»",
           "options": [
-            "हम इस पाठ में इकाई 21.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («रात» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सप्ताह» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («शाम» का अशुद्ध रूप)"
+            "निवारक (Nivaarak - Preventive [preventive healthcare])",
+            "विनाशकारी (Harmful mismatch)",
+            "उदास (Emotional mismatch)",
+            "खतरनाक (Hazardous mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "रोगों को होने से पहले रोकने की चिकित्सा पद्धति को «निवारक» (Preventive) स्वास्थ्य कहा जाता है।"
         }
       ]
     },
@@ -9027,17 +9076,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"दोपहर\": Which sentence is completely correct?",
+          "prompt": "चिकित्सा और स्वास्थ्य परामर्श (Medical Consultation Synthesis) का समग्र शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 21.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सप्ताह» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («शाम» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («रात» से संबंधित)"
+            "चिकित्सक ने रोगी के पूर्व स्वास्थ्य इतिहास और प्रयोगशाला रिपोर्टों के आधार पर दीर्घकालिक उपचार योजना का निर्धारण किया। (The physician determined a long-term treatment plan on the basis of the patient's past health history and laboratory reports.)",
+            "चिकित्सक कल दोपहर बाज़ार में पतंग उड़ा रहा था।",
+            "प्रयोगशाला रिपोर्ट को किसी ने नदी में बहा दिया था।",
+            "उपचार योजना बंद कर दो ताकि सब बीमार रहें।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«चिकित्सक ने रोगी के पूर्व स्वास्थ्य इतिहास... उपचार योजना का निर्धारण किया» नैदानिक हिंदी का परिपूर्ण वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u22-l1": {
