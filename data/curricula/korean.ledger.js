@@ -4,13 +4,14 @@
   var LEDGER = {
   "subject": "korean",
   "fullRoadmapLength": 170,
-  "authoredInFull": [],
-  "stubOnly": [
+  "authoredInFull": [
     "ko-u1-l1",
     "ko-u1-l2",
     "ko-u1-l3",
     "ko-u1-l4",
-    "ko-u1-l5",
+    "ko-u1-l5"
+  ],
+  "stubOnly": [
     "ko-u2-l1",
     "ko-u2-l2",
     "ko-u2-l3",
@@ -177,8 +178,8 @@
     "ko-u34-l4",
     "ko-u34-l5"
   ],
-  "lastCompletedLessonId": null,
-  "nextToAuthor": "ko-u1-l1"
+  "lastCompletedLessonId": "ko-u1-l5",
+  "nextToAuthor": "ko-u2-l1"
 };
   global.FEARN_LEDGERS = global.FEARN_LEDGERS || {};
   global.FEARN_LEDGERS['korean'] = LEDGER;
