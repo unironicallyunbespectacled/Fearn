@@ -8685,53 +8685,62 @@
     "subject": "ukrainian",
     "unit": 21,
     "lessonNumber": 1,
-    "title": "Допустові речення: хоча, дарма що, незважаючи на (Concessives) (Part 1)",
+    "title": "Складнопідрядні допустові речення: хоча, хоч, дарма що",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 21.1) with authentic linguistic precision.",
+    "objective": "Опанувати семантику та синтаксис складнопідрядних допустових речень з питомими сполучниками хоч, хоча та дарма що, їх пунктуацію та взаємозв'язок із сурядними сполучниками але, проте, однак.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Складнопідрядні допустові речення виражають обставину або умову, всупереч якій відбувається дія головної частини, і відповідають на питання «незважаючи на що? всупереч чому?»:\n\n1. Основні допустові сполучники:\n   - «ХОЧ / ХОЧА» — універсальні допустові сполучники, вживані в усіх стилях:\n     * «Хоча надворі лютував лютий мороз, у хаті панував затишок і тепло».\n   - «ДАРМА ЩО» — надзвичайно колоритний, питомий український допустовий сполучник, синонімічний до «хоч і, незважаючи на те що»:\n     * «Дарма що сонце вже сховалося за обрій, вечірнє небо ще палахкотіло багрянцем».\n     * «Дарма що дорога була складною, мандрівники не втрачали бадьорості духу».\n\n2. Співвідносні сполучники в головній частині (Корелятивні пари):\nКоли допустова підрядна частина стоїть ПЕРЕД головною, головна частина нерідко починається протиставними сполучниками «але, проте, однак, зате, все ж»:\n   - «Хоч праця була важкою, АЛЕ результат перевершив усі наші сподівання».\n\n3. Пунктуація: Підрядна допустова частина завжди виділяється комою або комами (на початку, всередині чи в кінці речення).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Дарма що осінній вітер був пронизливим і холодним, прогулянка старовинними вуличками Львова принесла нам море задоволення.",
+          "reading": "[dɐrˈmɑ ʃtʃɔ ɔˈsʲinʲːij ˈwʲitɛr buw prɔnɪzˈlɪwɪm i xɔˈlɔdnɪm, prɔˈɦulʲkɐ stɐrɔˈwɪnnɪmɪ ˈwulɪtʃkɐmɪ ˈlʲwɔwɐ prɪnɛsˈlɑ nɑm ˈmɔrɛ zɐdɔˈwɔlʲɛnʲːɑ] (dahr-MAH shchoh oh-SEEN-neey VEET-ehr boov proh-nyz-LY-wym ee khoh-LOHD-nym, proh-HOOL'-kah stah-roh-VYN-ny-my VOO-lych-kah-my L'VOH-vah pry-nehs-LAH nahm MOH-reh zah-doh-VOH-len-nyah)",
+          "translation": "Even though the autumn wind was piercing and cold, the walk through the ancient streets of Lviv brought us plenty of pleasure."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 21-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Хоча завдання здавалося неймовірно складним, інженери зуміли знайти елегантне технічне рішення.",
+          "reading": "[xɔˈtʃɑ zɐwˈdɑnʲːɑ zdɐˈwɑlɔsʲɑ nɛjmɔˈwʲirnɔ ˈsklɑdnɪm, inʒɛˈnɛrɪ zuˈmʲilɪ znɑjˈtɪ ɛlɛˈɦɑntnɛ tɛxˈnʲitʃnɛ rʲiˈʃɛnʲːɑ] (khoh-CHAH zahv-DAHN-nyah zdah-VAH-lohs'-yah ney-moh-VEER-noh SKLAHD-nym, een-zheh-NEH-ry zoo-MEE-ly znahy-TY eh-leh-HAHNT-neh tekh-NEECH-neh ree-SHEN-nyah)",
+          "translation": "Although the task seemed incredibly difficult, the engineers managed to find an elegant technical solution."
+        },
+        {
+          "target": "Українські воїни вистояли в запеклому бою, дарма що сили противника значно переважали.",
+          "reading": "[ukrɐˈjinʲsʲkʲi ˈwɔjinɪ wɪsˈtɔjɐlɪ w zɐˈpɛklɔmu bɔˈju, dɐrˈmɑ ʃtʃɔ ˈsɪlɪ prɔˈtɪwnɪkɐ ˈznɑtʃnɔ pɛrɛwɐˈʒɑlɪ] (oo-krah-YEEN-s'kee VOH-yee-ny vys-TOH-yah-ly v zah-PEHK-loh-moo boh-YOO, dahr-MAH shchoh SY-ly proh-TYV-ny-kah ZNAHCH-noh peh-reh-vah-ZHAH-ly)",
+          "translation": "The Ukrainian warriors held out in fierce battle, even though the enemy's forces were considerably superior."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Дарма що» — питома українська окраса допустового зв'язку! Означає «хоч і», «незважаючи на те що»!"
+      ],
+      "culturalNotes": [
+        "Сполучник «дарма що» є яскравою рисою живої української народної мови, збереженої у класичній прозі Михайла Коцюбинського та Григора Тютюнника."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Сьогодні\":",
+          "prompt": "Оберіть питомий український допустовий сполучник, синонімічний до «хоча»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.1.",
-            "Неправильне відмінкове узгодження зі словом «Вчора»",
-            "Порушення законів евфонії та словотворення для «Завтра»",
-            "Стилістично некоректна синтаксична конструкція з «Ранок»"
+            "Дарма що (Authentic Ukrainian concessive conjunction synonymous with although)",
+            "Через те що",
+            "Для того щоб",
+            "Так що"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Сполучник «дарма що» є питомим українським допустовим сполучником зі значенням «незважаючи на те що / хоча»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Сьогодні\":",
+          "prompt": "Яке смислове питання ставиться до підрядної допустової частини («Хоча йшов дощ, ми вирушили в дорогу»)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.1.",
-            "Порушення законів евфонії та словотворення для «Завтра»",
-            "Стилістично некоректна синтаксична конструкція з «Ранок»",
-            "Неправильне відмінкове узгодження зі словом «Вчора»"
+            "Незважаючи на що? Всупереч чому? (In spite of what?)",
+            "З якою метою?",
+            "Через що?",
+            "У який спосіб?"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "До підрядних допустових частин ставляться питання «всупереч чому? незважаючи на що?»."
         }
       ]
     },
@@ -8739,17 +8748,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Сьогодні\": Which sentence is completely correct?",
+          "prompt": "Оберіть складнопідрядне допустове речення:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.1.",
-            "Стилістично некоректна синтаксична конструкція з «Ранок»",
-            "Неправильне відмінкове узгодження зі словом «Вчора»",
-            "Порушення законів евфонії та словотворення для «Завтра»"
+            "Дарма що літа пливуть невпинно, серце поета залишається вічно молодим.",
+            "Коли літа пливуть невпинно, людина набуває життєвого досвіду.",
+            "Літа пливуть так швидко, що ми не помічаємо плину часу.",
+            "Якщо літа пливуть, треба цінувати кожну мить."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Перше речення містить підрядну допустову частину зі сполучником «дарма що»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u21-l2": {
@@ -8757,53 +8767,62 @@
     "subject": "ukrainian",
     "unit": 21,
     "lessonNumber": 2,
-    "title": "Допустові речення: хоча, дарма що, незважаючи на (Concessives) (Part 2)",
+    "title": "Офіційно-ділові допустові сполучники: незважаючи на те що, попри те що",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 21.2) with authentic linguistic precision.",
+    "objective": "Опанувати офіційно-ділові та наукові допустові сполучники (незважаючи на те що, попри те що, всупереч тому що), розрізнення прийменникових конструкцій та підрядних частин і правила їх пунктуації.",
     "presentation": {
-      "explanation": "",
+      "explanation": "В офіційно-діловому, публіцистичному та науковому стилях допустовий зв'язок виражається за допомогою складених сполучників та прийменникових оборотів:\n\n1. Складені допустові сполучники (приєднують підрядні речення з граматичною основою):\n   - «НЕЗВАЖАЮЧИ НА ТЕ ЩО» — офіційний допустовий сполучник (пишеться окремо в 4 слова; «незважаючи» разом із «не»!):\n     * «Незважаючи на те що бюджет був обмеженим, програму виконали в повному обсязі».\n   - «ПОПРИ ТЕ ЩО» — сучасний книжний та публіцистичний сполучник:\n     * «Попри те що переговори були напруженими, сторони підписали взаємовигідну угоду».\n   - «ВСУПЕРЕЧ ТОМУ ЩО» — підкреслює пряму протидію чи конфлікт обставин:\n     * «Всупереч тому що прогнози були песимістичними, врожай виявився рекордним».\n\n2. Розрізнення: Сполучник vs Прийменниковий оборот:\n   - Сполучник + підрядне речення (є підмет і присудок): «Попри те, що йшов сніг, ми вийшли на прогулянку».\n   - Прийменник + іменник (без дієслова): «Попри сніг, ми вирушили в дорогу» / «Незважаючи на мороз, матч відбувся» (відокремлюється комами як обставина допусту).\n\n3. Правопис слова «незважаючи»:\nПрийменник та сполучник «незважаючи на» пишеться разом («незважаючи»). Якщо ж це дієприслівник від дієслова «зважати» (дивитися) з прямим запереченням — пишеться окремо: «Він ішов уперед, не зважаючи на знаки перехожих» (= не звертаючи уваги).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Незважаючи на те що геополітична ситуація залишається складною, Україна впевнено прямує до членства в Європейському Союзі.",
+          "reading": "[nɛzwɐˈʒɑjutʃɪ nɑ tɛ ʃtʃɔ ɦɛɔpɔˈlʲitɪtʃnɐ sɪtuˈɑt͡sʲijɑ zɐlɪˈʃɑjɛtʲsʲɑ ˈsklɑdnɔju, ukrɐˈjinɐ ˈwpɛwnɛnɔ prʲɑˈmujɛ dɔ ˈtʃlɛnstxɐ w jɛwrɔpɛjˈsʲkɔmu sɔˈjuzʲi] (nez-vah-ZHAH-yoo-chy nah teh shchoh heh-oh-poh-LEE-ty-chnah sy-too-AH-tsee-yah zah-ly-SHAH-yeht'-syah SKLAHD-noh-yoo, oo-krah-YEE-nah VPEHV-neh-noh pryah-MOO-yeh doh CHLEN-stvah v yev-roh-PEY-s'koh-moo soh-YOO-zee)",
+          "translation": "Despite the fact that the geopolitical situation remains complex, Ukraine is moving forward confidently toward European Union membership."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 21-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Попри те що науковий експеримент тривав кілька місяців, учені зуміли повністю перевірити робочу гіпотезу.",
+          "reading": "[ˈpɔprɪ tɛ ʃtʃɔ nɐuˈkɔwɪj ɛkspɛrɪˈmɛnt trɪˈwɑw ˈkʲilʲkɐ ˈmʲisʲɑt͡sʲiw, uˈtʃɛnʲi zuˈmʲilɪ ˈpɔwnʲisʲtʲu pɛrɛˈwʲirɪtɪ rɔˈbɔtʃu ɦʲiˈpɔtɛzu] (POH-pry teh shchoh nah-oo-KOH-vyy eks-peh-ry-MEHNT try-VAHV KEEL'-kah MEE-syah-tseew, oo-CHEH-nee zoo-MEE-ly POHV-nees-tyoo peh-reh-VEER-y-ty roh-BOH-choo hee-POH-teh-zoo)",
+          "translation": "Despite the fact that the scientific experiment lasted several months, the scientists managed to completely verify the working hypothesis."
+        },
+        {
+          "target": "Всупереч усім несприятливим прогнозам погоди, святковий концерт просто неба зібрав тисячі глядачів.",
+          "reading": "[wsuˈpɛrɛtʃ uˈsʲim nɛsprɪˈjɑtlɪwɪm prɔɦˈnɔzɐm pɔˈɦɔdɪ, swʲɑtˈkɔwɪj kɔnˈt͡sɛrt ˈprɔstɔ ˈnɛbɐ zʲiˈbrɑw ˈtɪsʲɑtʃʲi ɦlʲɑdɐˈtʃʲiw] (vsoo-PEH-rehch oo-SEEM neh-spry-YAHT-ly-wym prohh-NOH-zahm poh-HOH-dy, svyaht-KOH-vyy kohn-TSEHRT PROHS-toh NEH-bah zee-BRAHV TY-syah-chee hlyah-dah-CHEEW)",
+          "translation": "In spite of all unfavorable weather forecasts, the open-air festive concert gathered thousands of spectators."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Допустовий сполучник «незважаючи на те що» — «незважаючи» пишеться РАЗОМ; окремо — тільки дієприслівник: «не зважаючи на крики»!"
+      ],
+      "culturalNotes": [
+        "Конструкції з «попри те що» та «незважаючи на те що» становлять основу сучасної української дипломатичної та правничої термінології."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Вчора\":",
+          "prompt": "Як правильно написати допустовий сполучник «(не)зважаючи на те що»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.2.",
-            "Неправильне відмінкове узгодження зі словом «Завтра»",
-            "Порушення законів евфонії та словотворення для «Ранок»",
-            "Стилістично некоректна синтаксична конструкція з «День»"
+            "Незважаючи на те що (Together as a single concessive prepositional unit)",
+            "Не зважаючи на те що",
+            "Незважаючинатещо",
+            "Не зважаючі на те що"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Слово «незважаючи» у ролі прийменника чи компонента сполучника пишеться разом з часткою «не»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Вчора\":",
+          "prompt": "Чим відрізняється конструкція «Попри труднощі» від «Попри те, що виникли труднощі»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.2.",
-            "Порушення законів евфонії та словотворення для «Ранок»",
-            "Стилістично некоректна синтаксична конструкція з «День»",
-            "Неправильне відмінкове узгодження зі словом «Завтра»"
+            "Перша — прийменниковий зворот з іменником, друга — підрядне речення з основою (Prepositional phrase vs subordinate clause)",
+            "Не мають жодної різниці",
+            "Перша виражає причину, друга мету",
+            "Обидві є простими реченнями"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Попри труднощі» — це відокремлена обставина, виражена прийменником з іменником, а «Попри те, що...» — повноцінне складнопідрядне речення з підметом і присудком."
         }
       ]
     },
@@ -8811,17 +8830,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Вчора\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому допустову конструкцію оформлено бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.2.",
-            "Стилістично некоректна синтаксична конструкція з «День»",
-            "Неправильне відмінкове узгодження зі словом «Завтра»",
-            "Порушення законів евфонії та словотворення для «Ранок»"
+            "Попри те що графік був надзвичайно щільним, делегація провела всі заплановані зустрічі.",
+            "Не зважаючи на те що графік був щільним делегація провела зустрічі.",
+            "По при те що графік був щільним, зустрічі відбулися.",
+            "Незважаючи що графік був щільним зустрічі відбулися."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "У першому варіанті сполучник «попри те що» та розділові знаки вжито абсолютно правильно."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u21-l3": {
@@ -8829,53 +8849,62 @@
     "subject": "ukrainian",
     "unit": 21,
     "lessonNumber": 3,
-    "title": "Допустові речення: хоча, дарма що, незважаючи на (Concessives) (Part 3)",
+    "title": "Узагальнено-допустові речення: хто б не, що б не, як не, скільки б не",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 21.3) with authentic linguistic precision.",
+    "objective": "Опанувати синтаксис та правопис узагальнено-допустових підрядних речень із займенниково-сполучними словами та частками не / б (хто б не, що б не, як не, скільки б не, де б не).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Узагальнено-допустові речення виражають безумовність здійснення дії за будь-яких можливих обставин:\n\n1. Структура узагальнено-допустових конструкцій:\nУтворюються поєднанням відносних або питальних слів (*хто, що, який, чий, котрий, де, куди, звідки, як, скільки*) з часткою «НЕ» (часто в поєднанні з часткою «Б / БИ»):\n   - «ХТО Б НЕ» — хто б не звернувся по допомогу, двері завжди відчинені;\n   - «ЩО Б НЕ» — що б не трапилося в житті, зберігайте гідність і спокій;\n   - «ДЕ Б НЕ» — де б не був українець у світі, серцем він лине до рідної землі;\n   - «СКІЛЬКИ Б НЕ» — скільки б не минуло століть, спадщина Тараса Шевченка житиме вічно;\n   - «ЯК НЕ» — як не намагалися вороги зламати нашу волю, народ вистояв.\n\n2. ОРФОГРАФІЧНИЙ ПРИНЦИП РОЗРІЗНЕННЯ «що б не» vs «щоб не»:\n   - Узагальнено-допустова конструкція: «ЩО Б НЕ» пишеться ОКРЕМО у три слова (займенник «що» + модальна частка «б» + заперечна частка «не»): «Що б не казали недоброзичливці, правда переможе».\n   - Сполучник мети із запереченням: «ЩОБ НЕ» пишеться у два слова («щоб» разом): «Ми поспішали, щоб не запізнитися на поїзд».\n\n3. Вживання частки «НЕ»:\nЗверніть увагу: в українській літературній мові у таких конструкціях вживається частка «НЕ» (не «ні»): *«Хто б не прийшов...»*, *«Де б не шукали...»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Де б не перебував свідомий українець, він завжди плекає рідну мову та національні традиції.",
+          "reading": "[dɛ b nɛ pɛrɛbuˈwɑw swʲiˈdɔmɪj ukrɐˈjinɛt͡sʲ, wʲin zɐwˈʒdɪ plɛˈkɑjɛ ˈrʲidnu ˈmɔwu tɑ nɐt͡sʲiɔˈnɑlʲnʲi trɐˈdɪt͡sʲiji] (deh b neh peh-reh-boo-VAHV swee-DOH-myy oo-krah-YEE-nehts', veen zahv-ZHDY pleh-KAH-yeh REED-noo MOH-voo tah nah-tsee-oh-NAHL'-nee trah-DY-tsee-yee)",
+          "translation": "Wherever a conscious Ukrainian may be, he always cherishes the native language and national traditions."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 21-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Що б не говорили скептики, українська наука має колосальний інтелектуальний потенціал.",
+          "reading": "[ʃtʃɔ b nɛ ɦɔwɔˈrɪlɪ ˈskɛptɪkɪ, ukrɐˈjinʲsʲkɐ nɐˈukɐ ˈmɑjɛ kɔlɔˈsɑlʲnɪj intɛlɛktuˈɑlʲnɪj pɔtɛnt͡sʲiˈɑl] (shchoh b neh hoh-woh-RY-ly SKEHP-ty-ky, oo-krah-YEEN-s'kah nah-OO-kah MAH-yeh koh-loh-SAHL'-nyy een-teh-lehk-too-AHL'-nyy poh-ten-tsee-AHL)",
+          "translation": "Whatever skeptics might say, Ukrainian science possesses colossal intellectual potential."
+        },
+        {
+          "target": "Скільки б перешкод не виникало на нашому шляху, ми непохитно рухатимемося до поставленої мети.",
+          "reading": "[ˈsʲkʲilʲkɪ b pɛrɛʃˈkɔd nɛ wɪnɪˈkɑlɔ nɑ ˈnɑʃɔmu ʃlʲɑˈxu, mɪ nɛpɔˈxɪtnɔ ruˈxɑtɪmɛmɔsʲɑ dɔ pɔsˈtɑwlɛnɔji mɛˈtɪ] (SKEEL'-ky b peh-rehsh-KOHD neh vy-ny-KAH-loh nah NAH-shoh-moo shlyah-KHOO, my neh-poh-KHYT-noh roo-KHAH-ty-meh-mohs'-yah doh pohs-TAHV-leh-noh-yee meh-TY)",
+          "translation": "However many obstacles may arise on our path, we will move forward unshakably toward our set goal."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Що б не сталося» — пиши у 3 слова (що + б + не)! А «щоб не запізнитися» — пиши у 2 слова (щоб + не)!"
+      ],
+      "culturalNotes": [
+        "Формули типу «Де б не був...», «Хто б не питав...» є класичними засобами утвердження незламності духу в українських патріотичних творах."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Завтра\":",
+          "prompt": "Оберіть правильний правопис займенниково-допустової фрази «(що/б/не) сталося, ми збережемо єдність»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.3.",
-            "Неправильне відмінкове узгодження зі словом «Ранок»",
-            "Порушення законів евфонії та словотворення для «День»",
-            "Стилістично некоректна синтаксична конструкція з «Вечір»"
+            "Що б не (Three separate words: relative pronoun що + particle б + negative particle не)",
+            "Щоб не",
+            "Щобне",
+            "Що б ні"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "В узагальнено-допустових реченнях пишеться окремо у три слова: «Що б не»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Завтра\":",
+          "prompt": "Яка частка (не чи ні) нормативно вживається в українських узагальнено-допустових реченнях («Хто б ... прийшов, двері відчинені»)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.3.",
-            "Порушення законів евфонії та словотворення для «День»",
-            "Стилістично некоректна синтаксична конструкція з «Вечір»",
-            "Неправильне відмінкове узгодження зі словом «Ранок»"
+            "Частка «не» (хто б не прийшов - standard Ukrainian norm)",
+            "Частка «ні» (хто б ні прийшов)",
+            "Частка «ані»",
+            "Частка «чи»"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "В українській літературній мові у таких конструкціях вживається частка «не»: «хто б не прийшов»."
         }
       ]
     },
@@ -8883,17 +8912,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Завтра\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому узагальнено-допустову конструкцію записано абсолютно правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.3.",
-            "Стилістично некоректна синтаксична конструкція з «Вечір»",
-            "Неправильне відмінкове узгодження зі словом «Ранок»",
-            "Порушення законів евфонії та словотворення для «День»"
+            "Як би важко не було під час сходження на вершину, альпіністи не зупинялися ні на хвилину.",
+            "Якби важко не було альпіністи не зупинялися.",
+            "Як би важко ні було, альпіністи не зупинялися.",
+            "Якби важко ні було альпіністи не зупинялися."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Як би важко не було» пишеться окремо з часткою «не» та відокремлюється комою."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u21-l4": {
@@ -8901,53 +8931,62 @@
     "subject": "ukrainian",
     "unit": 21,
     "lessonNumber": 4,
-    "title": "Допустові речення: хоча, дарма що, незважаючи на (Concessives) (Part 4)",
+    "title": "Аналітично-допустові речення з частками хай, нехай",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 21.4) with authentic linguistic precision.",
+    "objective": "Опанувати допустові конструкції з модальними частками хай / нехай, їх синтаксичну функцію, зв'язок із сурядними протиставними сполучниками та високий стилістичний регістр.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Аналітично-допустові речення з частками «хай / нехай» виражають готовність суб'єкта змиритися з перешкодами або допустити будь-який перебіг подій заради головної мети:\n\n1. Структура конструкцій з «хай / нехай»:\nПідрядна частина починається модальною часткою «хай / нехай» + дієслово дійсного або умовного способу. Головна частина приєднується протиставними сполучниками «але, та (= але), проте, однак, все ж»:\n   - «Хай лютує мороз і вітер [допустова частина], АЛЕ наше вогнище не згасне ніколи [головна частина]»;\n   - «Нехай шлях буде довгим і тернистим, МИ обов'язково дійдемо до заповітної мети».\n\n2. Стилістичний реєстр:\nКонструкції з «хай / нехай» належать до піднесеного публіцистичного, ораторського та поетичного стилів. Вони надають висловленню експресивної динаміки та урочистості:\n   - «Хай що кажуть вороги, сонце правди зійде над нашою рідною землею».\n\n3. Пунктуація:\nМіж допустовою частиною з «хай / нехай» та головною частиною ОБОВ'ЯЗКОВО ставиться кома (зокрема перед протиставними сполучниками але, проте, однак).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Хай буде важкою наша праця, проте її плоди принесуть користь багатьом прийдешнім поколінням.",
+          "reading": "[xɑj ˈbudɛ wɑʒˈkɔju ˈnɑʃɐ ˈprɑt͡sʲɑ, prɔˈtɛ jiji plɔˈdɪ prɪnɛˈsutʲ kɔˈrɪsʲtʲ bɐˈɦɑtʲɔm prɪjˈdɛʃnʲim pɔkɔˈlʲinʲːɑm] (khahy BOO-deh vahzh-KOH-yoo NAH-shah PRAH-tsyah, proh-TEH yee-YEE phloh-DY pry-neh-SOOT' koh-RYST' bah-HAHT-yohm pryy-DESH-neem poh-koh-LEEN-nyahm)",
+          "translation": "Let our labor be hard, yet its fruits will bring benefit to many future generations."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 21-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Нехай за вікном вирує несамовита заметіль, у нашій затишній оселі завжди горить теплий родинний вогник.",
+          "reading": "[nɛˈxɑj zɑ wʲikˈnɔm wɪˈrujɛ nɛsɐmɔˈwɪtɐ zɐmɛˈtʲilʲ, u ˈnɑʃʲij ˈzɑtɪʃnʲij ɔˈsɛlʲi zɐwˈʒdɪ ɦɔˈrɪtʲ ˈtɛplɪj rɔˈdɪnnɪj ˈwɔɦnɪk] (neh-KHAHY zah veek-NOHM vy-ROO-yeh neh-sah-moh-VY-tah zah-meh-TEEL', oo NAH-sheey ZAH-tysh-neey oh-SEH-lee zahv-ZHDY hoh-RYT' TEP-lyy roh-DYN-nyy VOHH-nyk)",
+          "translation": "Even though a frantic blizzard rages outside the window, a warm family light always burns in our cozy home."
+        },
+        {
+          "target": "Хай вороги плетуть підступні інтриги, український народ надійно захищає свою свободу та незалежність.",
+          "reading": "[xɑj wɔrɔˈɦɪ plɛˈtutʲ pʲidˈstupnʲi inˈtrɪɦɪ, ukrɐˈjinʲsʲkɪj nɐˈrɔd nɐˈdʲijnɔ zɐxɪˈʃtʃɑjɛ swɔˈju swɔˈbɔdu tɑ nɛzɐˈlɛʒnʲisʲtʲ] (khahy woh-roh-HY pleh-TOOT' peed-STOOP-nee een-TRY-hy, oo-krah-YEEN-s'kyy nah-ROHD nah-DEEY-noh zah-khysh-CHAH-yeh swoh-YOO swoh-BOH-doo tah neh-zah-LEHZH-neest')",
+          "translation": "Though enemies spin insidious intrigues, the Ukrainian people reliably protect their freedom and independence."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Хай... але...», «Нехай... проте...» — це пафос мужності та допустової сили в українській мові!"
+      ],
+      "culturalNotes": [
+        "Конструкції з «хай / нехай» звучать у культових творах Івана Франка («Нехай впаде ще один із нас...») та Лесі Українки («Хай лютує злий мороз...»)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Ранок\":",
+          "prompt": "Оберіть правильний протиставний сполучник для завершення допустового періоду «Хай шлях наш буде важким, ... ми дійдемо до вершини»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.4.",
-            "Неправильне відмінкове узгодження зі словом «День»",
-            "Порушення законів евфонії та словотворення для «Вечір»",
-            "Стилістично некоректна синтаксична конструкція з «Ніч»"
+            "Але / проте (Adversative conjunction completing concessive period with хай)",
+            "Бо",
+            "Щоб",
+            "Немов"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Конструкція з «хай» у підрядній частині гармонійно поєднується з протиставними сполучниками «але / проте / однак» у головній частині."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Ранок\":",
+          "prompt": "До якого стилю мовлення насамперед належать речення типу «Хай лютує буря, ми не схилимо прапорів»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.4.",
-            "Порушення законів евфонії та словотворення для «Вечір»",
-            "Стилістично некоректна синтаксична конструкція з «Ніч»",
-            "Неправильне відмінкове узгодження зі словом «День»"
+            "Публіцистичний, ораторський та поетичний стиль (Elevated rhetorical, journalistic, and poetic style)",
+            "Розмовно-побутовий",
+            "Офіційно-діловий протокол",
+            "Виробничо-технічний"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Допустові речення з частками «хай / нехай» виражають високий пафос, притаманний поезії та публіцистиці."
         }
       ]
     },
@@ -8955,17 +8994,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Ранок\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому допустову конструкцію з часткою «нехай» пунктуаційно оформлено правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.4.",
-            "Стилістично некоректна синтаксична конструкція з «Ніч»",
-            "Неправильне відмінкове узгодження зі словом «День»",
-            "Порушення законів евфонії та словотворення для «Вечір»"
+            "Нехай ніч буде темною й холодною, проте ранкове сонце обов'язково осяє весь світ.",
+            "Нехай ніч буде темною проте сонце осяє світ.",
+            "Нехай ніч темна бо сонце осяє світ.",
+            "Нехай ніч буде темною так що сонце осяє світ."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Між підрядною частиною з «нехай» та головною частиною зі сполучником «проте» поставлено кому."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u21-l5": {
@@ -8973,53 +9013,62 @@
     "subject": "ukrainian",
     "unit": 21,
     "lessonNumber": 5,
-    "title": "Допустові речення: хоча, дарма що, незважаючи на (Concessives) (Part 5)",
+    "title": "Пунктуаційна та синтаксична майстерність допустових конструкцій",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 21.5) with authentic linguistic precision.",
+    "objective": "Опанувати досконалу пунктуацію всіх типів допустових речень, взаємодію підрядності та сурядності, вживання вставних допустових слів (щоправда, правда) та запобігання синтаксичним збоям.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Пунктуаційна та синтаксична культура вживання допустових конструкцій вимагає знання кількох важливих тонкощів:\n\n1. Пунктуація при подвійних (корелятивних) сполучниках:\n   - У парах «Хоч..., але / проте / однак...», «Дарма що..., все ж...» кома ставиться ТІЛЬКИ ОДИН РАЗ — між підрядною та головною частинами (перед але/проте):\n     * «Хоч мороз щипав щоки, [кома] проте діти весело каталися на санчатах».\n\n2. Розрізнення підрядного речення та вставних допустових слів:\n   - «ЩОПРАВДА / ПРАВДА» (вставні слова зі значенням допусту/поступки) — завжди виділяються комами, але НЕ мають підрядної структури:\n     * «Ми виконали план, щоправда, з невеликим запізненням».\n   - «ХОЧА Б» (частка з обмежувально-видільним значенням) — комами НЕ виділяється:\n     * «Дайте мені хоча б один день на роздуми».\n\n3. Стилістична гігієна (Усунення тавтології):\nУникайте одночасного нагромадження кількох однакових допустових елементів (*Незважаючи на те що хоча йшов дощ...* -> ГРУБА ПОМИЛКА!). Обирайте один точний сполучник: «Хоча йшов дощ...» або «Незважаючи на те що йшов дощ...».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Хоч шлях до високої мети був сповнений небезпек і труднощів, однак команда впевнено досягла своєї вершини.",
+          "reading": "[xɔtʃ ʃlʲɑx dɔ wɪˈsɔkɔji mɛˈtɪ buw ˈspɔwnɛnɪj nɛbɛzˈpɛk i ˈtrudnɔʃtʃʲiw, ɔdˈnɑk kɔˈmɑndɐ ˈwpɛwnɛnɔ dɔsʲˈtʲɑɦlɐ swɔˈjɛji wɛrˈʃɪnɪ] (khohch shlyahkh doh vy-SOH-koh-yee meh-TY boov SPOHV-neh-nyy neh-bez-PEHK ee TROOD-nohsh-cheew, ohd-NAHK koh-MAHN-dah VPEHV-neh-noh dohs-TYAHH-lah swoh-YEH-yee vehr-SHY-ny)",
+          "translation": "Although the path to the high goal was filled with dangers and difficulties, nevertheless the team confidently reached its summit."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 21-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Проєкт завершили вчасно, щоправда, команді довелося працювати понаднормово впродовж останніх вихідних.",
+          "reading": "[prɔˈjɛkt zɐwɛrˈʃɪlɪ ˈwtʃɑsnɔ, ʃtʃɔˈprɑwdɐ, kɔˈmɑndʲi dɔwɛˈlɔsʲɑ prɐt͡sʲuˈwɑtɪ pɔnɐdnɔrˈmɔwɔ wprɔˈdɔwʒ ɔsˈtɑnʲnʲix wɪxʲidˈnɪx] (proh-YEHKT zah-vehr-SHY-ly VCHAH-snoh, shchoh-PRAHV-dah, koh-MAHN-dee doh-veh-LOHS'-yah praht-syoo-VAH-ty poh-nahd-nohr-MOH-woh vproh-DOVZH ohs-TAHN'-neekh vy-kheed-NEEKH)",
+          "translation": "The project was completed on time, though indeed, the team had to work overtime throughout the last weekend."
+        },
+        {
+          "target": "Дарма що обставини склалися несприятливо, ми все ж зуміли знайти вірний шлях до перемоги.",
+          "reading": "[dɐrˈmɑ ʃtʃɔ ɔbstɐˈwɪnɪ ˈsklɑlɪsʲɑ nɛsprɪˈjɑtlɪwɔ, mɪ wsɛ ʒ zuˈmʲilɪ znɑjˈtɪ ˈwʲirnɪj ʃlʲɑx dɔ pɛrɛˈmɔɦɪ] (dahr-MAH shchoh ohb-stah-VY-ny SKLAH-lys'-yah neh-spry-YAHT-ly-woh, my vse zh zoo-MEE-ly znahy-TY VEER-nyy shlyahkh doh peh-reh-MOH-hy)",
+          "translation": "Even though circumstances turned out unfavorably, we nonetheless managed to find the right path to victory."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Хоч..., але...» — одна кома між частинами! «Щоправда» — вставне слово в комах! Не дублюй «незважаючи на те що хоч»!"
+      ],
+      "culturalNotes": [
+        "Баланс допустових сполучників та вставних слів забезпечує гнучкість, стриману інтелігентність та точність формулювань у сучасній українській есеїстиці."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"День\":",
+          "prompt": "Як правильно розставити коми при вставному слові «щоправда» в реченні «Ми приїхали вчасно щоправда поїзд запізнився»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.5.",
-            "Неправильне відмінкове узгодження зі словом «Вечір»",
-            "Порушення законів евфонії та словотворення для «Ніч»",
-            "Стилістично некоректна синтаксична конструкція з «Тиждень»"
+            "Ми приїхали вчасно, щоправда, поїзд запізнився. (Parenthetical concessive word щоправда set off by commas)",
+            "Ми приїхали, вчасно щоправда поїзд запізнився.",
+            "Ми приїхали вчасно щоправда, поїзд запізнився.",
+            "Ми приїхали вчасно щоправда поїзд, запізнився."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Вставне слово «щоправда» виділяється комами з обох боків."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"День\":",
+          "prompt": "Яка стилістична помилка допущена в реченні «Незважаючи на те що хоч і був мороз, ми вийшли на вулицю»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.5.",
-            "Порушення законів евфонії та словотворення для «Ніч»",
-            "Стилістично некоректна синтаксична конструкція з «Тиждень»",
-            "Неправильне відмінкове узгодження зі словом «Вечір»"
+            "Плеоназм / надлишкове дублювання допустових сполучників (Pleonasm / double concessive conjunctions)",
+            "Неправильний відмінок іменника",
+            "Помилка в роді дієслова",
+            "Порушення правопису прислівника"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Вживання «незважаючи на те що» одночасно з «хоч» є надлишковим дублюванням (тавтологією)."
         }
       ]
     },
@@ -9027,17 +9076,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"День\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому корелятивну допустову конструкцію оформлено без жодної синтаксичної чи пунктуаційної помилки:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 21.5.",
-            "Стилістично некоректна синтаксична конструкція з «Тиждень»",
-            "Неправильне відмінкове узгодження зі словом «Вечір»",
-            "Порушення законів евфонії та словотворення для «Ніч»"
+            "Хоч завдання вимагало надзвичайних зусиль, проте всі учасники успішно впоралися з викликом.",
+            "Хоч, завдання вимагало зусиль проте учасники впоралися.",
+            "Незважаючи на те що хоч завдання вимагало зусиль проте впоралися.",
+            "Хоч завдання вимагало зусиль, але проте всі впоралися."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "У першому реченні немає зайвих сполучників, а кому поставлено між підрядною та головною частиною перед «проте»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u22-l1": {
