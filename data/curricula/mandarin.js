@@ -18658,85 +18658,89 @@
     "subject": "mandarin",
     "unit": 32,
     "lessonNumber": 1,
-    "title": "高阶辩论与公共演讲 (High Debating & Public Address) (第1讲)",
+    "title": "辩论立论构架与逻辑破辩：三段论、图尔敏论证模型与归谬法 (Debate Structuring & Logic: Toulmin Model & Reductio Ad Absurdum)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：逻辑实证论证、修辞格论辩战术、跨文化公共政策演讲与危机公关阐述。 (第1部分)。",
+    "objective": "系统掌握华语辩论立论模型（亚里士多德三段论/图尔敏论证六要素）、定义战场争夺、反驳与破辩战术（归谬法/以子之矛攻子之盾/釜底抽薪）及高阶思辨语体。",
     "presentation": {
-      "explanation": "",
+      "explanation": "高阶辩论是严密逻辑、敏锐洞察与语言博弈的至高艺术：\n\n一、立论框架构建两大黄金模型：\n1.【亚里士多德三段论（Syllogism）】：\n- 大前提（普遍公理/价值共识）+ 小前提（具体案件事实）= 必然结论。\n- 警惕「虚假前提」与「推不出」（Non sequitur）谬误。\n2.【图尔敏论证模型（Toulmin Model）六大支柱】：\n- 主张（Claim）：我方核心结论。\n- 根据（Grounds/Data）：支持主张的客观事实、统计数据与实证案例。\n- 保证（Warrant）：连接根据与主张之间的逻辑纽带。\n- 支援（Backing）：支撑保证有效性的深层法理、伦理或科学定律。\n- 模态限定（Qualifier）：对主张成立范围与确定程度的审慎限定（避免绝对化）。\n- 异常反驳（Rebuttal）：预先对可能出现的特例进行抗辩与切割。\n\n二、高阶破辩与反驳核心战术：\n1.【定义争夺（Defining the Battlefield）】：定义即战场，精准界定核心概念内涵与外延。\n2.【归谬法（Reductio Ad Absurdum）】：顺承对方逻辑前提进行极端推演，直至导出荒谬绝伦或灾难性的结论，使对方立论不攻自破。\n3.【釜底抽薪】：精准指出对方论证赖以成立的大前提存在根本性虚假或漏洞，瞬间瓦解其整套逻辑大厦。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「高阶辩论与公共演讲 (High Debating & Public Address)」的核心语法法则与应用范例 (32.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '高阶辩论与公共演讲 (High Debating & Public Address)' in simple terms to students at the academic seminar."
+          "target": "辩手运用图尔敏论证模型，从核心主张、实证数据、正当理由到反驳限定层层推进，构建起无懈可击的立论逻辑防线。(Biànshǒu yùnyòng Tú'ěrmǐn lùnzhèng móxíng, cóng héxīn zhǔzhāng, shízhèng shùjù, zhèngdàng lǐyóu dào fǎnbó xiàndìng céngcéng tuījìn, gòujiàn qǐ wúxiè-kějī de lìlùn luójí fángxiàn.)",
+          "reading": "[pjɛn˥˩.ʂoʊ̯˨˩˦ yn˥˩.jʊŋ˥˩ tʰu˧˥.ar˧˥.min˨˩˦ lwən˥˩.ʈ͡ʂəŋ˥˩ mwo˧˥.ɕiŋ˧˥, t͡sʰʊŋ˧˥ xɤ˧˥.ɕin˥ ʈ͡ʂu˨˩.ʈ͡ʂɑŋ˥, ʂɨ˧˥.ʈ͡ʂəŋ˥˩ ʂu˥˩.t͡ɕy˥˩, ʈ͡ʂəŋ˥˩.tɑŋ˥˩ li˨˩.joʊ̯˧˥ taʊ̯˥˩ fan˨˩.pwo˧˥ ɕjɛn˥˩.tiŋ˥˩ t͡sʰəŋ˧˥.t͡sʰəŋ˧˥ tʰweɪ̯˥.t͡ɕin˥˩, koʊ̯˥˩.t͡ɕjɛn˥˩ t͡ɕʰi˨˩˦ wu˧˥.ɕjɛ˥˩-kʰɤ˨˩.t͡ɕi˥ tɤ li˥˩.lwən˥˩ lwɔ˧˥.t͡ɕi˧˥ fɑŋ˧˥.ɕjɛn˥˩] (Biàn-shǒu yùn-yòng Tú-'ěr-mǐn lùn-zhèng mó-xíng, cóng hé-xīn zhǔ-zhāng, shí-zhèng shù-jù, zhèng-dàng lǐ-yóu dào fǎn-bó xiàn-dìng céng-céng tuī-jìn, gòu-jiàn qǐ wú-xiè-kě-jī de lì-lùn luó-jí fáng-xiàn.)",
+          "translation": "Employing the Toulmin argument model, the debater advanced step by step from core claim, empirical data, and warrants to rebuttals and qualifiers, constructing an impregnable logical defense for their case."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (32.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "针对对方辩友的概念偷换与绝对化推论，我方采用归谬法顺势推演，瞬间将其逻辑推向荒谬绝伦的死胡同。(Zhènduì duìfāng biànyǒu de gàiniàn tōuhuàn yǔ juéduìhuà tuīlùn, wǒfāng cǎiyòng guīmiùfǎ shùnshì tuīyǎn, shùnjiān jiāng qí luójí tuīxiàng huāngmiù-juélún de sǐhútóng.)",
+          "reading": "[ʈ͡ʂən˥˩.tweɪ̯˥˩ tweɪ̯˥˩.fɑŋ˥ pjɛn˥˩.joʊ̯˨˩˦ tɤ kaɪ̯˥˩.njɛn˥˩ tʰoʊ̯˥.xwan˥˩ y˨˩˦ t͡ɕyɛ˧˥.tweɪ̯˥˩.xwa˥˩ tʰweɪ̯˥.lwən˥˩, wwo˨˩˦.fɑŋ˥ t͡sʰaɪ̯˨˩.jʊŋ˥˩ kweɪ̯˥.mjoʊ̯˥˩.fa˨˩˦ ʂwn˥˩.ʂɨ˥˩ tʰweɪ̯˥.jan˨˩˦, ʂwn˥˩.t͡ɕjɛn˥ t͡ɕjɑŋ˥ t͡ɕʰi˧˥ lwɔ˧˥.t͡ɕi˧˥ tʰweɪ̯˥.ɕjaŋ˥ xwaŋ˥.mjoʊ̯˥˩-t͡ɕyɛ˧˥.lwn˧˥ tɤ sɨ˨˩.xu˧˥.tʰʊŋ˧˥] (Zhèn-duì duì-fāng biàn-yǒu de gài-niàn tōu-huàn yǔ jué-duì-huà tuī-lùn, wǒ-fāng cǎi-yòng guī-miù-fǎ shùn-shì tuī-yǎn, shùn-jiān jiāng qí luó-jí tuī-xiàng huāng-miù-jué-lún de sǐ-hú-tòng.)",
+          "translation": "Addressing the opponent's concept switching and absolutist deductions, our side employed reductio ad absurdum to follow their momentum, instantly pushing their logic into an utterly absurd dead end."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (32.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "辩论交锋的精髓在于釜底抽薪，唯有精准击碎对方赖以立论的大前提，方能从根本上瓦解其论证体系。(Biànlùn jiāofēng de jīngsuǐ zàiyú fǔdǐ-chōuxīn, wéiyǒu jīngzhǔn jīsuì duìfāng làiyǐ lìlùn de dà qiántí, fāng néng cóng gēnběn shang wǎjiě qí lùnzhèng tǐxì.)",
+          "reading": "[pjɛn˥˩.lwən˥˩ t͡ɕjaʊ̯˥.fəŋ˥ tɤ t͡ɕiŋ˥.sweɪ̯˨˩˦ t͡saɪ̯˥˩.y˨˩˦ fu˨˩.ti˨˩˦-t͡ʂʰoʊ̯˥.ɕin˥, weɪ̯˧˥.joʊ̯˨˩˦ t͡ɕiŋ˥.ʈ͡ʂwn˨˩˦ t͡ɕi˥.sweɪ̯˥˩ tweɪ̯˥˩.fɑŋ˥ laɪ̯˥˩.i˨˩˦ li˥˩.lwən˥˩ tɤ ta˥˩ t͡ɕʰjɛn˧˥.tʰi˧˥, fɑŋ˥ nəŋ˧˥ t͡sʰʊŋ˧˥ kən˥.pən˨˩ ʂɑŋ wa˨˩.t͡ɕjɛ˨˩˦ t͡ɕʰi˧˥ lwən˥˩.ʈ͡ʂəŋ˥˩ tǐ.ɕi˥˩] (Biàn-lùn jiāo-fēng de jīng-suǐ zài-yú fǔ-dǐ-chōu-xīn, wéi-yǒu jīng-zhǔn jī-suì duì-fāng lài-yǐ lì-lùn de dà qián-tí, fāng néng cóng gēn-běn shang wǎ-jiě qí lùn-zhèng tǐ-xì.)",
+          "translation": "The essence of debate clashes lies in taking away the firewood from under the cauldron; only by accurately shattering the major premise upon which the opponent relies can their argumentative system be fundamentally dismantled."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (32.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "双方围绕概念核心内涵展开唇枪舌剑的交锋，通过价值位阶的深刻权衡，将辩题升华至哲学思辨的高度。(Shuāngfāng wéirào gàiniàn héxīn nèihán zhǎnkāi chúnqiāng-shéjiàn de jiāofēng, tōngguò jiàzhí wèijiē de shēnkè quánhéng, jiāng biàntí shēnghuá zhì zhéxué sībiàn de gāodù.)",
+          "reading": "[ʂwaŋ˥.fɑŋ˥ weɪ̯˧˥.ʐaʊ̯˥˩ kaɪ̯˥˩.njɛn˥˩ xɤ˧˥.ɕin˥ neɪ̯˥˩.xan˧˥ ʈ͡ʂan˨˩.kʰaɪ̯˥ ʈ͡ʂʰwn˧˥.t͡ɕʰjaŋ˥-ʂɤ˧˥.t͡ɕjɛn˥˩ tɤ t͡ɕjaʊ̯˥.fəŋ˥, tʰʊŋ˥.kwɔ˥˩ t͡ɕja˥˩.ʈ͡ʂɨ˧˥ weɪ̯˥˩.t͡ɕjɛ˥ tɤ ʂən˥.kʰɤ˥ t͡ɕʰyɛn˧˥.xəŋ˧˥, t͡ɕjɑŋ˥ pjɛn˥˩.tʰi˧˥ ʂəŋ˥.xwa˧˥ ʈ͡ʂɨ˥˩ ʈ͡ʂɤ˧˥.ɕɥɛ˧˥ sɨ˥.pjɛn˥˩ tɤ kaʊ̯˥.tu˥˩] (Shuāng-fāng wéi-rào gài-niàn hé-xīn nèi-hán zhǎn-kāi chún-qiāng-shé-jiàn de jiāo-fēng, tōng-guò jià-zhí wèi-jiē de shēn-kè quán-héng, jiāng biàn-tí shēng-huá zhì zhé-xué sī-biàn de gāo-dù.)",
+          "translation": "Both sides engaged in a fierce battle of words around the core connotation of concepts, elevating the debate topic to the height of philosophical speculation through profound weighing of value hierarchies."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "图尔敏型立论全，三段严密假说连；归谬顺推荒唐显，釜底抽薪破敌前！"
+      ],
+      "culturalNotes": [
+        "中国辩论传统源远流长，先秦名家惠施、公孙龙「白马非马」与墨家《墨经》「辩者，将以明是非之分，审治乱之纪」奠定了东方逻辑与论辩学的深厚根基。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「高阶辩论与公共演讲 (High Debating & Public Address)」（第1讲）的标准汉语规范？",
+          "prompt": "在辩论逻辑中，顺着对方提出的错误观点继续推演、最终导出极其荒谬结论以驳倒对方的论证方法是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「高阶辩论与公共演讲 (High Debating & Public Address)」的核心语法法则与应用范例 (32.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (32.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (32.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (32.1.w3)"
+            "归谬法 / 反证法 (Reductio ad absurdum)",
+            "直接人身攻击",
+            "大声打断对方讲话",
+            "承认对方完全正确"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "归谬法（Reductio Ad Absurdum）是辩论中以子之矛攻子之盾的最具杀伤力的高级逻辑反驳技巧。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "由主张、根据、保证、支援、限定与反驳六要素构成的现代经典论证分析模型被称为：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "图尔敏论证模型 (Toulmin Model of Argumentation)",
+            "金字塔销售模型",
+            "占星八卦模型",
+            "迷宫推理模型"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "图尔敏模型（Toulmin Model）是现代辩论与学术论辩中最严密、最实用的逻辑立论分析工具。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「高阶辩论与公共演讲 (High Debating & Public Address)」的正式语境下，最准确得体的表达是哪一项？（第32.1题）",
+          "prompt": "在辩论破辩中，不纠缠于枝节细节，而是直接击碎对方立论赖以成立的最核心大前提的策略被称为：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (32.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (32.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (32.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (32.1.x3)"
+            "釜底抽薪 (Taking away the firewood under the cauldron / Striking the root premise)",
+            "扬汤止沸",
+            "无中生有",
+            "掩耳盗铃"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「釜底抽薪」直击对方逻辑核心大前提，实现一招制敌、根本瓦解对方体系。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u32-l1）所要求的高阶语言表达？",
+          "prompt": "辩论赛中，双方对于辩题中关键名词的理解和界定存在分歧、决定后续讨论范围的争夺被称为：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (32.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (32.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (32.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (32.1.y3)"
+            "定义争夺 / 定义战场 (Defining the battlefield)",
+            "抽签运气",
+            "裁判打分",
+            "开场白寒暄"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「定义即战场」，对核心概念的合理界定往往直接决定了辩论攻防的有利地势。"
         }
       ]
     },
@@ -18744,25 +18748,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「高阶辩论与公共演讲 (High Debating & Public Address)」的掌握程度，请选出表述完全正确的标准范句（测试 32-1）：",
+          "prompt": "请选出下列关于辩论立论架构与破辩战术论述最专业、逻辑最严整的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (32.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (32.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (32.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (32.1.z3)"
+            "高阶辩论是逻辑思维与语言艺术的巅峰对决：立论依托图尔敏六要素模型，以确凿数据与稳固保证支撑核心主张，并以审慎限定防范绝对化漏洞；攻辩交锋以定义争夺为战场，善用归谬法顺推对方荒谬结论，更以「釜底抽薪」直击敌方大前提。在多维价值位阶的理性权衡中，展现出崇高的思辨魅力！(图尔敏模型、限定、定义争夺、归谬法与釜底抽薪全景透彻阐述)",
+            "辩论就是吵架，谁说话声音大、语速快谁就能赢。(缺乏思辨素养的严重错误偏见)",
+            "图尔敏模型被归谬法在釜底抽薪定义争夺价值位阶。(概念生硬杂乱堆叠)",
+            "辩论不需要任何逻辑推理，只要多背诵名人名言就可以。(完全背离辩论逻辑本质)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段将图尔敏模型、归谬法、釜底抽薪与价值位阶权衡融会贯通，立论精严，术语规范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u32-l1）的核心关键词（例如「高阶辩论」）：",
+          "prompt": "请输入辩论中顺应对方逻辑前提进行极限推导、导出荒谬结论以推翻对方的核心三字论证方法（例如「；拼音为 guīmiùfǎ）：",
           "acceptedAnswers": [
-            "高阶辩论",
-            "高阶辩论与公",
-            "高阶辩论与公共演讲"
+            "归谬法"
           ],
-          "explanation": "正确的核心关键词为「高阶辩论」。"
+          "explanation": "术语「归谬法」是辩论破辩与逻辑反驳中最经典的有力战术。"
         }
       ],
       "passThreshold": 0.8
@@ -18773,85 +18775,89 @@
     "subject": "mandarin",
     "unit": 32,
     "lessonNumber": 2,
-    "title": "高阶辩论与公共演讲 (High Debating & Public Address) (第2讲)",
+    "title": "高阶修辞格与论辩语言杀伤力：排比递进、层递设问、借喻通感与反讽 (High Rhetorical Figures: Climax, Hypophora, Metaphor & Irony)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：逻辑实证论证、修辞格论辩战术、跨文化公共政策演讲与危机公关阐述。 (第2部分)。",
+    "objective": "系统掌握公共演讲与辩论高阶修辞武器（排比、层递Climax、设问Hypophora、反诘、借喻、通感Synesthesia、反讽Irony），提升论辩语言感染力与气势张力。",
     "presentation": {
-      "explanation": "",
+      "explanation": "修辞是思想的华服，更是论辩与演说中克敌制胜、震撼心灵的语言重武器：\n\n一、结构性气势修辞武器：\n1.【排比（Parallelism）】：三个或三个以上结构相同或相似、语气一致的分句连用，如排山倒海，气势如虹。\n2.【层递（Climax）】：按照时间推移、空间拓展、逻辑深化或情绪递进（由小到大、由浅入深、由轻到重），步步为营，推向情感与理性巅峰。\n3.【顶真（Anadiplosis）】：前句结尾词语作为后句开头，环环相扣，逻辑紧密无间。\n\n二、思辨性启发修辞武器：\n1.【设问（Hypophora）】：自问自答，制造悬念，引导听众跟随演讲者的思维脉络深入本质。\n2.【反诘（Rhetorical Question）】：无疑而问，以问代答，反问句中蕴含极其坚定的肯定或否定，语气强烈，无可辩驳。\n3.【反讽（Irony）】：正话反说或反话正说，在表层称赞中蕴含深刻的讽刺与批判，如手术刀般精准刺破谬论伪装。\n\n三、意象性通感修辞武器：\n-【借喻与通感（Synesthesia）】：将视觉、听觉、触觉跨界打通（如「冷酷的沉默」、「甜蜜的光芒」），将抽象逻辑具象化为直击灵魂的诗意体验。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「高阶辩论与公共演讲 (High Debating & Public Address)」的核心语法法则与应用范例 (32.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '高阶辩论与公共演讲 (High Debating & Public Address)' in simple terms to students at the academic seminar."
+          "target": "演讲者连用四组排比与层递句式，如狂风暴雨般层层叩问时代良知，排山倒海的气势瞬间震撼全场听众！(Yǎnjiǎngzhě liányòng sì zǔ páibǐ yǔ céngdì jùshì, rú kuángfēng-bàoyǔ bān céngcéng kòuwèn shídài liángzhī, páishān-dǎohǎi de qìshì shùnjiān zhènhàn quánchǎng tīngzhòng!)",
+          "reading": "[jan˨˩˦.t͡ɕjaŋ˨˩˦.ʈ͡ʂɤ˨˩˦ ljɛn˧˥.jʊŋ˥˩ sɨ˥˩ t͡su˨˩˦ pʰaɪ̯˧˥.pi˨˩˦ y˨˩˦ t͡sʰəŋ˧˥.ti˥˩ t͡ɕy˥˩.ʂɨ˥˩, ʐu˧˥ kʰwaŋ˧˥.fəŋ˥-paʊ̯˥˩.y˨˩˦ pan˥ t͡sʰəŋ˧˥.t͡sʰəŋ˧˥ kʰoʊ̯˥˩.wən˥˩ ʂɨ˧˥.taɪ̯˥˩ ljaŋ˧˥.ʈ͡ʂɨ˥, pʰaɪ̯˧˥.ʂan˥-taʊ̯˨˩.xaɪ̯˨˩˦ tɤ t͡ɕʰi˥˩.ʂɨ˥˩ ʂwn˥˩.t͡ɕjɛn˥ ʈ͡ʂən˥˩.xan˥˩ t͡ɕʰyɛn˧˥.ʈ͡ʂʰɑŋ˨˩˦ tʰiŋ˥.ʈ͡ʂʊŋ˥˩] (Yǎn-jiǎng-zhě lián-yòng sì zǔ pái-bǐ yǔ céng-dì jù-shì, rú kuáng-fēng-bào-yǔ bān céng-céng kòu-wèn shí-dài liáng-zhī, pái-shān-dǎo-hǎi de qì-shì shùn-jiān zhèn-hàn quán-chǎng tīng-zhòng!)",
+          "translation": "The speaker employed four consecutive sets of parallelisms and climactic progressions, questioning the conscience of the era wave upon wave like a tempest, whose overwhelming momentum instantly electrified the audience!"
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (32.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "辩手巧妙运用设问与反诘修辞，先破后立，在自问自答中层层剥开问题的本质，展现出精妙绝伦的修辞力量。(Biànshǒu qiǎomiào yùnyòng shèwèn yǔ fǎnjié xiūcí, xiān pò hòu lì, zài zìwèn-zìdá zhōng céngcéng bōkāi wèntí de běnzhì, zhǎnxiàn chū jīngmiào-juélún de xiūcí lìliàng.)",
+          "reading": "[pjɛn˥˩.ʂoʊ̯˨˩˦ t͡ɕʰjaʊ̯˨˩˦.mjaʊ̯˥˩ yn˥˩.jʊŋ˥˩ ʂɤ˥˩.wən˥˩ y˨˩˦ fan˨˩.t͡ɕjɛ˧˥ ɕjoʊ̯˥.t͡sʰɨ˧˥, ɕjɛn˥ pʰwɔ˥˩ xoʊ̯˥˩ li˥˩, t͡saɪ̯˥˩ t͡sɨ˥˩.wən˥˩-t͡sɨ˥˩.ta˧˥ ʈ͡ʂʊŋ˥ t͡sʰəŋ˧˥.t͡sʰəŋ˧˥ pwo˥.kʰaɪ̯˥ wən˥˩.tʰi˧˥ tɤ pən˨˩.ʈ͡ʂɨ˥˩, ʈ͡ʂan˨˩.ɕjɛn˥˩ t͡ʂʰu˥ t͡ɕiŋ˥.mjaʊ̯˥˩-t͡ɕyɛ˧˥.lwn˧˥ tɤ ɕjoʊ̯˥.t͡sʰɨ˧˥ li˥˩.ljaŋ˥˩] (Biàn-shǒu qiǎo-miào yùn-yòng shè-wèn yǔ fǎn-jié xiū-cí, xiān pò hòu lì, zài zì-wèn-zì-dá zhōng céng-céng bō-kāi wèn-tí de běn-zhì, zhǎn-xiàn chū jīng-miào-jué-lún de xiū-cí lì-liàng.)",
+          "translation": "The debater ingeniously utilized hypophora and rhetorical questions, breaking down before building up, peeling open the essence of the question layer by layer in self-questioning and answering, demonstrating exquisite rhetorical power."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (32.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "借喻与通感手法的化境运用，将抽象晦涩的哲学法理转化为生动可感的视听意象，令论辩兼具理性锋芒与诗性光芒。(Jièyù yǔ tōnggǎn shǒufǎ de huàjìng yùnyòng, jiāng chōuxiàng huìsè de zhéxué fǎlǐ zhuǎnhuà wéi shēngdòng kěgǎn de shìtīng yìxiàng, lìng lùnbiàn jiānjù lǐxìng fēngmáng yǔ shīxìng guāngmáng.)",
+          "reading": "[t͡ɕjɛ˥˩.y˥˩ y˨˩˦ tʰʊŋ˥.kan˨˩˦ ʂoʊ̯˨˩.fa˨˩˦ tɤ xwa˥˩.t͡ɕiŋ˥˩ yn˥˩.jʊŋ˥˩, t͡ɕjɑŋ˥ t͡ʂʰoʊ̯˥.ɕjaŋ˥˩ xweɪ̯˥˩.sɤ˥˩ tɤ ʈ͡ʂɤ˧˥.ɕɥɛ˧˥ fǎ.li˨˩˦ ʈ͡ʂwan˨˩.xwa˥˩ weɪ̯˧˥ ʂəŋ˥.tʊŋ˥˩ kʰɤ˨˩.kan˨˩˦ tɤ ʂɨ˥˩.tʰiŋ˥ i˥˩.ɕjaŋ˥˩, liŋ˥˩ lwən˥˩.pjɛn˥˩ t͡ɕjɛn˥.t͡ɕy˥˩ li˨˩.ɕiŋ˥˩ fəŋ˥.mɑŋ˧˥ y˨˩˦ ʂɨ˥.ɕiŋ˥˩ kwaŋ˥.mɑŋ˧˥] (Jiè-yù yǔ tōng-gǎn shǒu-fǎ de huà-jìng yùn-yòng, jiāng chōu-xiàng huì-sè de zhé-xué fǎ-lǐ zhuǎn-huà wéi shēng-dòng kě-gǎn de shì-tīng yì-xiàng, lìng lùn-biàn jiān-jù lǐ-xìng fēng-máng yǔ shī-xìng guāng-máng.)",
+          "translation": "The consummate application of metaphor and synesthesia transformed abstract, obscure philosophical jurisprudence into vivid, perceptible audiovisual imagery, endowing the debate with both rational sharpness and poetic luminescence."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (32.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "恰到好处的反讽修辞如同手术刀般锋利，举重若轻地剥去对手虚伪的伪装，让逻辑漏洞昭然若揭。(Qiàdào-hǎochù de fǎnfěng xiūcí rútóng shǒushùdāo bān fēnglì, jǔzhòng-ruòqīng de bōqù duìshǒu xūwěi de wěizhuāng, ràng luójí lòudòng zhāorán-ruòjiē.)",
+          "reading": "[t͡ɕʰja˥˩.taʊ̯˥˩-xaʊ̯˨˩.t͡ʂʰu˥˩ tɤ fan˨˩.fəŋ˨˩˦ ɕjoʊ̯˥.t͡sʰɨ˧˥ ʐu˧˥.tʰʊŋ˧˥ ʂoʊ̯˨˩.ʂu˥˩.taʊ̯˥ pan˥ fəŋ˥.li˥˩, t͡ɕy˨˩˦.ʈ͡ʂʊŋ˥˩-ʐwɔ˥˩.t͡ɕʰiŋ˥ tɤ pwo˥.t͡ɕʰy˥˩ tweɪ̯˥˩.ʂoʊ̯˨˩˦ ɕy˥.weɪ̯˨˩˦ tɤ weɪ̯˨˩.ʈ͡ʂwaŋ˥, ʐɑŋ˥˩ lwɔ˧˥.t͡ɕi˧˥ loʊ̯˥˩.tʊŋ˥˩ ʈ͡ʂaʊ̯˥.ʐan˧˥-ʐwɔ˥˩.t͡ɕjɛ˥] (Qià-dào-hǎo-chù de fǎn-fěng xiū-cí rú-tóng shǒu-shù-dāo bān fēng-lì, jǔ-zhòng-ruò-qīng de bō-qù duì-shǒu xū-wěi de wěi-zhuāng, ràng luó-jí lòu-dòng zhāo-rán-ruò-jiē.)",
+          "translation": "Appropriately calibrated irony was as sharp as a scalpel, effortlessly stripping away the opponent's hypocritical disguise and laying bare the logical flaws for all to see."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "排比层递气如虹，设问反诘破雾蒙；借喻通感诗理跃，反讽如刀立见功！"
+      ],
+      "culturalNotes": [
+        "刘勰在《文心雕龙》中指出「言以文远，辞达而已」，强调文采与逻辑的完美融合是语言表达的最高境界。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「高阶辩论与公共演讲 (High Debating & Public Address)」（第2讲）的标准汉语规范？",
+          "prompt": "在公共演说中，将事物按照程度由浅入深、由小到大、层层推向最高峰的修辞手法是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「高阶辩论与公共演讲 (High Debating & Public Address)」的核心语法法则与应用范例 (32.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (32.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (32.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (32.2.w3)"
+            "层递 (Climax / Incremental progression)",
+            "原地重复",
+            "乱序罗列",
+            "消极退缩"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「层递」（Climax）修辞能够使论点逻辑逐层深化，形成不可阻挡的情感与理性冲击力。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在辩论交锋中，演讲者先故意提出一个深刻问题，紧接着自己给出有力解答的修辞格是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "设问 (Hypophora)",
+            "反问",
+            "疑问",
+            "糊涂问"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「设问」（Hypophora）自问自答，能够有效抓住听众注意力并引导其顺应自己的逻辑推论。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「高阶辩论与公共演讲 (High Debating & Public Address)」的正式语境下，最准确得体的表达是哪一项？（第32.2题）",
+          "prompt": "打破感官界限、将视觉色彩与听觉触觉感受相互沟通的通感修辞在论辩中的核心审美作用是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (32.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (32.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (32.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (32.2.x3)"
+            "将抽象理性法理转化为生动可感的视听意象 (Transform abstract jurisprudence into vivid sensory imagery)",
+            "故意制造语法混乱",
+            "让人听不懂",
+            "减少演讲篇幅"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "通感（Synesthesia）打破感觉界限，赋予理性论辩以深邃的诗意感染力与画面感。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u32-l2）所要求的高阶语言表达？",
+          "prompt": "在论辩中采用正话反说、以表面夸奖实则辛辣揭露对手荒谬的修辞手法是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (32.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (32.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (32.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (32.2.y3)"
+            "反讽 (Irony)",
+            "拍马屁",
+            "真诚赞美",
+            "沉默不语"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "反讽（Irony）以幽默与辛辣并存的方式刺破谎言，展现高超的语言机智与杀伤力。"
         }
       ]
     },
@@ -18859,25 +18865,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「高阶辩论与公共演讲 (High Debating & Public Address)」的掌握程度，请选出表述完全正确的标准范句（测试 32-2）：",
+          "prompt": "请选出下列关于高阶修辞在论辩与演说中综合运用评述最深刻、最精准的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (32.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (32.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (32.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (32.2.z3)"
+            "高阶修辞是论辩思辨与演说魅力的倍增器：排比与层递如排山倒海激荡起磅礴气势；设问与反诘在自问自答与无疑而问中层层剖析本质；通感与借喻打通感官边界，将晦涩法理化作诗性意象；反讽则如手术刀般举重若轻撕碎谬误伪装。修辞与逻辑交相辉映，铸就无坚不摧的语言力量！(排比层递、设问反诘、通感借喻与反讽全景精粹总结，修辞学法理兼备)",
+            "修辞就是堆砌华丽辞藻的空话套话，对辩论逻辑没有任何实质帮助。(严重贬低修辞价值的片面观点)",
+            "排比层递被设问反诘在通感反讽借喻语言杀伤力。(生硬拼凑词汇乱码)",
+            "只要修辞好，哪怕逻辑全错也可以在辩论中无往不胜。(严重偏离逻辑基石的极端错误言论)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段系统融汇了排比、层递、设问、通感与反讽修辞在公共演说与辩论中的综合运用，见解独到精辟。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u32-l2）的核心关键词（例如「高阶辩论」）：",
+          "prompt": "请输入修辞学中指自问自答、旨在引起听众注意并展开深入论证的核心二字修辞格（例如「修辞」；拼音为 shèwèn）：",
           "acceptedAnswers": [
-            "高阶辩论",
-            "高阶辩论与公",
-            "高阶辩论与公共演讲"
+            "设问"
           ],
-          "explanation": "正确的核心关键词为「高阶辩论」。"
+          "explanation": "术语「设问」是公共演说与论文写作中极高频使用的启发性修辞手段。"
         }
       ],
       "passThreshold": 0.8
@@ -18888,85 +18892,89 @@
     "subject": "mandarin",
     "unit": 32,
     "lessonNumber": 3,
-    "title": "高阶辩论与公共演讲 (High Debating & Public Address) (第3讲)",
+    "title": "公共政策演说与跨文化国际公关：愿景阐述、利益攸关方沟通与危机应对 (Public Policy Address & Cross-Cultural Crisis PR)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：逻辑实证论证、修辞格论辩战术、跨文化公共政策演讲与危机公关阐述。 (第3部分)。",
+    "objective": "系统掌握公共政策演说架构（门罗动机序列Monroe's Motivated Sequence）、多元利益攸关方平衡、跨文化国际公关叙事（寻找最大公约数）及突发危机公关5S原则语体。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在高度复杂的现代全球化社会，公共政策演说与跨文化公关是凝聚共识、化解危机与展现大国担当的关键能力：\n\n一、公共政策演说经典架构（门罗动机序列 Monroe's Motivated Sequence）：\n1.【引起注意（Attention）】：以震撼数据或生动案例破题。\n2.【建立需求（Need）】：直击社会痛点与改革紧迫性。\n3.【满足方案（Satisfaction）】：提出科学可行、法理周延的政策方案。\n4.【描绘愿景（Visualization）】：全景展望政策落地后的美好图景与长远福祉。\n5.【号召行动（Action）】：向全体公民或受众发出具体明确的行动号召。\n\n二、跨文化传播与寻找「最大公约数」：\n- 跨越意识形态偏见与文化隔阂，采用「人类共同价值」（和平、发展、公平、正义、民主、自由）叙事框架；以同理心倾听利益攸关方诉求，以共情故事打动全球受众。\n\n三、突发事件危机公关 5S 黄金法则：\n1.【承担责任（Shoulder the responsibility）】：第一时间主动担责，绝不推诿。\n2.【真诚沟通（Sincerity）】：信息公开透明，直面公众质疑。\n3.【速度第一（Speed）】：黄金四小时迅速发声，抢占舆论第一定义权。\n4.【系统运行（System）】：全流程统筹联动，落实整改闭环。\n5.【权威证实（Standard）】：借助第三方权威机构与法治程序进行公正裁决。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「高阶辩论与公共演讲 (High Debating & Public Address)」的核心语法法则与应用范例 (32.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '高阶辩论与公共演讲 (High Debating & Public Address)' in simple terms to students at the academic seminar."
+          "target": "领导人在国际峰会上发表主旨演说，以高瞻远瞩的全球视野与务实包容的合作倡议，描绘了人类命运与共的宏伟蓝图。(Lǐngdǎorén zài guójì fēnghuì shang fābiǎo zhǔzhǐ yǎnshuō, yǐ gāozhān-yuǎnzhǔ de quánqiú shìyǎo yǔ wùshí bāoróng de hézuò chàngyì, miáohuì le rénlèi mìngyùn yǔgòng de hóngwěi lántú.)",
+          "reading": "[liŋ˨˩.taʊ̯˨˩.ʐən˧˥ t͡saɪ̯˥˩ kwo˧˥.t͡ɕi˥˩ fəŋ˥.xweɪ̯˥˩ ʂɑŋ fa˥.pjaʊ̯˨˩˦ ʈ͡ʂu˨˩.ʈ͡ʂɨ˨˩˦ jan˨˩˦.ʂwɔ˥, i˨˩˦ kaʊ̯˥.ʈ͡ʂan˥-yɥɛn˨˩.ʈ͡ʂu˨˩˦ tɤ t͡ɕʰyɛn˧˥.t͡ɕʰjoʊ̯˧˥ ʂɨ˥˩.jaʊ̯˨˩˦ y˨˩˦ u˥˩.ʂɨ˧˥ paʊ̯˥.ʐʊŋ˧˥ tɤ xɤ˧˥.t͡swɔ˥˩ t͡ʂʰɑŋ˥˩.i˥˩, mjaʊ̯˧˥.xweɪ̯˥˩ lɤ ʐən˧˥.leɪ̯˥˩ miŋ˥˩.yn˥˩ y˨˩˦.kʊŋ˥˩ tɤ xʊŋ˧˥.weɪ̯˨˩˦ lan˧˥.tʰu˧˥] (Lǐng-dǎo-rén zài guó-jì fēng-huì shang fā-biǎo zhǔ-zhǐ yǎn-shuō, yǐ gāo-zhān-yuǎn-zhǔ de quán-qiú shì-yǎo yǔ wù-shí bāo-róng de hé-zuò chàng-yì, miáo-huì le rén-lèi mìng-yùn yǔ-gòng de hóng-wěi lán-tú.)",
+          "translation": "The leader delivered a keynote address at the international summit, depicting a magnificent blueprint for a shared future of humanity with far-sighted global vision and pragmatic, inclusive cooperation initiatives."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (32.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "面对突发公共危机事件，发言人第一时间坦诚回应社会关切，以透明事实与切实担责平息了公众疑虑。(Miànduì tūfā gōnggòng wēijī shìjiàn, fāyánrén dì-yī shíjiān tǎnchéng huìyìng shèhuì guānqiè, yǐ tòumíng shìshí yǔ qièshí dānzé píngxī le gōngzhòng yílǜ.)",
+          "reading": "[mjɛn˥˩.tweɪ̯˥˩ tʰu˥.fa˥ kʊŋ˥.kʊŋ˥˩ weɪ̯˥.t͡ɕi˥ ʂɨ˥˩.t͡ɕjɛn˥˩, fa˥.jan˧˥.ʐən˧˥ ti˥˩-i˥ ʂɨ˧˥.t͡ɕjɛn˥ tʰan˨˩.ʈ͡ʂʰəŋ˧˥ xweɪ̯˥˩.iŋ˥˩ ʂɤ˥˩.xweɪ̯˥˩ kwan˥.t͡ɕʰjɛ˥˩, i˨˩˦ tʰoʊ̯˥˩.miŋ˧˥ ʂɨ˥˩.ʂɨ˧˥ y˨˩˦ t͡ɕʰjɛ˥˩.ʂɨ˧˥ tan˥.t͡sɤ˧˥ pʰiŋ˧˥.ɕi˥ lɤ kʊŋ˥.ʈ͡ʂʊŋ˥˩ i˧˥.ly˥˩] (Miàn-duì tū-fā gōng-gòng wēi-jī shì-jiàn, fā-yán-rén dì-yī shí-jiān tǎn-chéng huí-yìng shè-huì guān-qiè, yǐ tòu-míng shì-shí yǔ qiè-shí dān-zé píng-xī le gōng-zhòng yí-lǜ.)",
+          "translation": "Confronting an unexpected public crisis, the spokesperson responded frankly to societal concerns at the earliest moment, calming public anxieties with transparent facts and concrete assumption of responsibility."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (32.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "政策阐述精准对接各利益攸关方的核心诉求，在充分协商与理性博弈中寻求全社会的最大公约数。(Zhèngcè chǎnshù jīngzhǔn duìjiē gè lìyì yōuguānfāng de héxīn sùqiú, zài chōngfèn xiéshāng yǔ lǐxìng bóyì zhōng xúnqiú quán shèhuì de zuìdà gōngyuēshù.)",
+          "reading": "[ʈ͡ʂəŋ˥˩.t͡sʰɤ˥˩ ʈ͡ʂʰan˨˩.ʂu˥˩ t͡ɕiŋ˥.ʈ͡ʂwn˨˩˦ tweɪ̯˥˩.t͡ɕjɛ˥ kɤ˥˩ li˥˩.i˥˩ joʊ̯˥.kwan˥.fɑŋ˥ tɤ xɤ˧˥.ɕin˥ su˥˩.t͡ɕʰjoʊ̯˧˥, t͡saɪ̯˥˩ ʈ͡ʂʰʊŋ˥.fən˥˩ ɕjɛ˧˥.ʂɑŋ˥ y˨˩˦ li˨˩.ɕiŋ˥˩ pwo˧˥.i˥˩ ʈ͡ʂʊŋ˥ ɕyn˧˥.t͡ɕʰjoʊ̯˧˥ t͡ɕʰyɛn˧˥ ʂɤ˥˩.xweɪ̯˥˩ tɤ tweɪ̯˥˩.ta˥˩ kʊŋ˥.yɛ˥.ʂu˥˩] (Zhèng-cè chǎn-shù jīng-zhǔn duì-jiē gè lì-yì yōu-guān-fāng de hé-xīn sù-qiú, zài chōng-fèn xié-shāng yǔ lǐ-xìng bó-yì zhōng xún-qiú quán shè-huì de zuì-dà gōng-yuē-shù.)",
+          "translation": "The policy articulation accurately aligned with the core demands of all stakeholders, seeking the greatest common denominator of the whole society amidst thorough consultation and rational deliberation."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (32.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "跨文化公共演说成功打破了文化隔阂与认知壁垒，以动人心弦的人类共同情感赢得了国际社会的广泛赞誉。(Kuà-wénhuà gōnggòng yǎnshuō chénggōng dǎpò le wénhuà géhé yǔ rènzhī bìlěi, yǐ dòngrén-xīnxuán de rénlèi gòngtóng qínggǎn yíngdé le guójì shèhuì de guǎnfàn zànyù.)",
+          "reading": "[kʰwa˥˩-wən˧˥.xwa˥˩ kʊŋ˥.kʊŋ˥˩ jan˨˩˦.ʂwɔ˥ ʈ͡ʂʰəŋ˧˥.kʊŋ˥ ta˨˩.pʰwɔ˥˩ lɤ wən˧˥.xwa˥˩ kɤ˧˥.xɤ˧˥ y˨˩˦ ʐən˥˩.ʈ͡ʂɨ˥ pi˥˩.leɪ̯˨˩˦, i˨˩˦ tʊŋ˥˩.ʐən˧˥-ɕin˥.ɕɥɛn˧˥ tɤ ʐən˧˥.leɪ̯˥˩ kʊŋ˥˩.tʰʊŋ˧˥ t͡ɕʰiŋ˧˥.kan˨˩˦ iŋ˧˥.tɤ˧˥ lɤ kwo˧˥.t͡ɕi˥˩ ʂɤ˥˩.xweɪ̯˥˩ tɤ kwan˨˩.fan˥˩ t͡san˥˩.y˥˩] (Kuà-wén-huà gōng-gòng yǎn-shuō chéng-gōng dǎ-pò le wén-huà gé-hé yǔ rèn-zhī bì-lěi, yǐ dòng-rén-xīn-xuán de rén-lèi gòng-tóng qíng-gǎn yíng-dé le guó-jì shè-huì de guǎng-fàn zàn-yù.)",
+          "translation": "The cross-cultural public speech successfully shattered cultural barriers and cognitive walls, winning wide acclaim from the international community with deeply touching universal human emotions."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "政策演说引共情，动机序列愿景明；公关危急真诚速，跨越文化大同迎！"
+      ],
+      "culturalNotes": [
+        "从倡导和平共处五项原则到推动构建人类命运共同体，中国跨文化公共演说始终展现和平发展、合作共赢的大国气度。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「高阶辩论与公共演讲 (High Debating & Public Address)」（第3讲）的标准汉语规范？",
+          "prompt": "在经典公共演说结构中，包含「注意-需求-满足-愿景-行动」五步动机序列的模型是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「高阶辩论与公共演讲 (High Debating & Public Address)」的核心语法法则与应用范例 (32.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (32.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (32.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (32.3.w3)"
+            "门罗动机序列 (Monroe's Motivated Sequence)",
+            "自由发散胡扯模型",
+            "照本宣科念稿模型",
+            "单纯喊口号模型"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "门罗动机序列是全球公共政策说服演讲中最经典、最具感染力的五步演说结构。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在突发公共事件危机公关处理中，要求在最短时间内主动发布透明事实、消除谣言的第一原则是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "速度第一原则 / 黄金时间原则 (Speed First Principle / Golden Time)",
+            "拖延隐瞒原则",
+            "彻底装聋作哑",
+            "指责受害者原则"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "危机公关中「速度第一」至关重要，及时主动公布真相是掌握舆论主动权、平息恐慌的核心关键。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「高阶辩论与公共演讲 (High Debating & Public Address)」的正式语境下，最准确得体的表达是哪一项？（第32.3题）",
+          "prompt": "在涉及多方利益博弈的公共政策制定中，通过协商沟通求同存异所达成的全社会广泛共识被称为：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (32.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (32.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (32.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (32.3.x3)"
+            "最大公约数 (The greatest common denominator)",
+            "零和博弈",
+            "一言堂",
+            "自相残杀"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「寻求全社会意愿和要求的最大公约数」是现代公共政策民主协商的核心价值导向。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u32-l3）所要求的高阶语言表达？",
+          "prompt": "在开展跨文化公共交流与国际传播时，最能跨越意识形态阻碍、引起全人类普遍共鸣的叙事基石是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (32.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (32.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (32.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (32.3.y3)"
+            "全人类共同价值与共情故事 (Universal human values & empathetic narratives)",
+            "唯我独尊居高临下说教",
+            "强制推销本国模式",
+            "贬低其他国家文化"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "基于全人类共同价值的共情叙事是跨越文化藩篱、赢得国际理解与尊重的核心桥梁。"
         }
       ]
     },
@@ -18974,25 +18982,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「高阶辩论与公共演讲 (High Debating & Public Address)」的掌握程度，请选出表述完全正确的标准范句（测试 32-3）：",
+          "prompt": "请选出下列关于公共政策演说、跨文化公关与危机应对述评最深刻、最全面的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (32.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (32.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (32.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (32.3.z3)"
+            "现代公共演说与跨文化公关展现出卓越的沟通智慧：门罗动机序列以「需求-满足-愿景」唤醒全社会共鸣；政策沟通在利益博弈中精诚协商，画出全社会「最大公约数」；跨文化演说超越偏见壁垒，以人类共同价值传递和平包容愿景；突发危机公关严格恪守担责与速度第一原则，以透明求信任。博大真诚的公共话语铸就了现代社会的信任纽带！(门罗序列、最大公约数、跨文化共同价值、危机公关5S原则全景精深概括)",
+            "公共演说就是领导讲套话，危机公关就是花钱删帖子封锁消息。(严重违背现代公关与传播伦理)",
+            "门罗动机序列被最大公约数在危机公关跨文化共同价值。(词汇生硬拼凑乱码)",
+            "只要有了强硬的权力，就不需要做任何公共演说和公众沟通。(严重违背现代民主法治国家治理准则)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段将政策演说门罗序列、利益平衡最大公约数、跨文化共情传播与危机公关原则融会贯通，评析精深透辟。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u32-l3）的核心关键词（例如「高阶辩论」）：",
+          "prompt": "请输入数学概念借用于社会政策协商、指在多元利益诉求中凝聚全社会最大共识的核心五字术语（例如「寻求全社会」；拼音为 zuìdà gōngyuēshù）：",
           "acceptedAnswers": [
-            "高阶辩论",
-            "高阶辩论与公",
-            "高阶辩论与公共演讲"
+            "最大公约数"
           ],
-          "explanation": "正确的核心关键词为「高阶辩论」。"
+          "explanation": "术语「最大公约数」是现代公共政策协商与凝聚社会共识的最核心词汇。"
         }
       ],
       "passThreshold": 0.8
@@ -19003,85 +19009,89 @@
     "subject": "mandarin",
     "unit": 32,
     "lessonNumber": 4,
-    "title": "高阶辩论与公共演讲 (High Debating & Public Address) (第4讲)",
+    "title": "经典辩题哲学解构与价值升华：义利之辩、知行难易与自由秩序 (Philosophical Deconstruction of Classic Debates)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：逻辑实证论证、修辞格论辩战术、跨文化公共政策演讲与危机公关阐述。 (第4部分)。",
+    "objective": "系统掌握华语辩论史上经典哲学辩题（义利之辩/知行难易/自由与秩序/人性本善恶——1993新加坡狮城决战）、价值升华结辩艺术及哲学思辨语体。",
     "presentation": {
-      "explanation": "",
+      "explanation": "华语辩论的最高殿堂，是对人类永恒哲学命题的深刻解构与价值升华：\n\n一、华语辩论史上四大经典哲学辩题群谱：\n1.【义利之辩（道义与功利）】：\n- 传统儒家「君子喻于义，小人喻于利」vs 现代制度「义利并举」与道德功利主义。\n2.【知行难易（认识与实践）】：\n- 孙中山「知难行易」vs 王阳明「知行合一」vs 传统「知易行难」：认识客观规律之艰辛与躬行实践之砥砺。\n3.【自由与秩序（人类文明双翼）】：\n- 自由是秩序的目的，秩序是自由的保障；波普尔开放社会之反思；失去秩序的绝对自由必将沦为霍布斯式弱肉强食的自然丛林。\n4.【人性善恶（1993狮城决战巅峰传奇）】：\n- 1993年首届国际大专辩论会决赛（复旦大学 vs 台湾大学，辩题「人性本善/人性本恶」）：\n- 蒋昌建经典结辩：「黑夜给了我黑色的眼睛，我却用它寻找光明！」将人性恶转化为对后天文化教化、道德良知与文明秩序的崇高呼唤。\n\n二、高阶价值升华结辩艺术：\n- 结辩不纠缠于细微琐碎的技术性交锋，而是跳脱胜负功利，将辩题升华至观照人类生存困境、抚慰时代心灵与呼唤崇高良知的哲学高度！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「高阶辩论与公共演讲 (High Debating & Public Address)」的核心语法法则与应用范例 (32.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '高阶辩论与公共演讲 (High Debating & Public Address)' in simple terms to students at the academic seminar."
+          "target": "在1993年国际大专辩论会狮城决战中，复旦大学辩论队在结辩中以「黑夜给了我黑色的眼睛，我却用它寻找光明」的绝美警句，震撼了全球华语世界。(Zài 1993 nián guójì dàzhuān biànlùnhuì Shīchéng juézhàn zhōng, Fùdàn Dàxué biànlùnduì zài jiébiàn zhōng yǐ \"hēiyè gěile wǒ hēisè de yǎnjīng, wǒ què yòng tā xúnzhǎo guāngmíng\" de juéměi jǐngjù, zhènhàn le quánqiú Huáyǔ shìjiè.)",
+          "reading": "[t͡saɪ̯˥˩ 1993 njɛn˧˥ kwo˧˥.t͡ɕi˥˩ ta˥˩.ʈ͡ʂwan˥ pjɛn˥˩.lwən˥˩.xweɪ̯˥˩ ʂɨ˥.ʈ͡ʂʰəŋ˧˥ t͡ɕyɛ˧˥.ʈ͡ʂan˥˩ ʈ͡ʂʊŋ˥, fu˥˩.tan˥˩ ta˥˩.ɕɥɛ˧˥ pjɛn˥˩.lwən˥˩.tweɪ̯˥˩ t͡saɪ̯˥˩ t͡ɕjɛ˧˥.pjɛn˥˩ ʈ͡ʂʊŋ˥ i˨˩˦ \"xeɪ̯˥.jɛ˥˩ keɪ̯˨˩˦.lɤ wwo˨˩˦ xeɪ̯˥.sɤ˥˩ tɤ jan˨˩.t͡ɕiŋ, wwo˨˩˦ t͡ɕʰyɛ˥˩ jʊŋ˥˩ tʰa˥ ɕyn˧˥.ʈ͡ʂaʊ̯˨˩˦ kwaŋ˥.miŋ˧˥\" tɤ t͡ɕyɛ˧˥.meɪ̯˨˩˦ t͡ɕiŋ˨˩.t͡ɕy˥˩, ʈ͡ʂən˥˩.xan˥˩ lɤ t͡ɕʰyɛn˧˥.t͡ɕʰjoʊ̯˧˥ xwa˧˥.y˨˩˦ ʂɨ˥˩.t͡ɕjɛ˥˩] (Zài 1993 nián guó-jì dà-zhuān biàn-lùn-huì Shī-chéng jué-zhàn zhōng, Fù-dàn Dà-xué biàn-lùn-duì zài jié-biàn zhōng yǐ \"hēi-yè gěi-le wǒ hēi-sè de yǎn-jing, wǒ què yòng tā xún-zhǎo guāng-míng\" de jué-měi jǐng-jù, zhèn-hàn le quán-qiú Huá-yǔ shì-jiè.)",
+          "translation": "In the 1993 Singapore Lion City Final of the International Varsity Debate, the Fudan University debate team stunned the global Chinese-speaking world with the exquisite aphorism: 'Night gave me dark eyes, yet I use them to seek the light' in their final summary."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (32.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "探讨「义利之辩」，辩手超越了狭隘的二元对立，将重义轻利的道德自觉与正当利益的制度保护有机统一，立论格局豁然开朗。(Tàntǎo \"yì-lì zhī biàn\", biànshǒu chāoyuè le xiá'ài de èryuán duìlì, jiāng zhòngyì-qīnglì de dàodé zìjué yǔ zhèngdàng lìyì de zhìdù bǎohù yǒujī tǒngyī, lìlùn géjú huòrán-kāilǎng.)",
+          "reading": "[tʰan˥˩.tʰaʊ̯˨˩˦ \"i˥˩-li˥˩ ʈ͡ʂɨ˥ pjɛn˥˩\", pjɛn˥˩.ʂoʊ̯˨˩˦ t͡ʂʰaʊ̯˥.yɛ˥˩ lɤ ɕja˧˥.aɪ̯˥˩ tɤ ar˥˩.yɥɛn˧˥ tweɪ̯˥˩.li˥˩, t͡ɕjɑŋ˥ ʈ͡ʂʊŋ˥˩.i˥˩-t͡ɕʰiŋ˥.li˥˩ tɤ taʊ̯˥˩.tɤ˧˥ t͡sɨ˥˩.t͡ɕyɛ˧˥ y˨˩˦ ʈ͡ʂəŋ˥˩.tɑŋ˥˩ li˥˩.i˥˩ tɤ ʈ͡ʂɨ˥˩.tu˥˩ paʊ̯˨˩.xu˥˩ joʊ̯˨˩˦.t͡ɕi˥ tʰʊŋ˨˩.i˥, li˥˩.lwən˥˩ kɤ˧˥.t͡ɕy˧˥ xwo˥˩.ʐan˧˥-kʰaɪ̯˥.lɑŋ˨˩˦] (Tàn-tǎo \"yì-lì zhī biàn\", biàn-shǒu chāo-yuè le xiá-'ài de èr-yuán duì-lì, jiāng zhòng-yì-qīng-lì de dào-dé zì-jué yǔ zhèng-dàng lì-yì de zhì-dù bǎo-hù yǒu-jī tǒng-yī, lì-lùn gé-jú huò-rán-kāi-lǎng.)",
+          "translation": "Exploring the 'debate between righteousness and interest', the debater transcended narrow dualistic antagonism, organically unifying moral self-awareness with institutional protection of legitimate interests, opening up a grand landscape for their case."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (32.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "自由与秩序乃文明演进之一体两面：没有秩序的自由必沦为弱肉强食的霍布斯丛林，没有自由的秩序终将窒息人类社会的创造活力。(Zìyóu yǔ zhìxù nǎi wénmíng yǎnjìn zhī yītǐ liǎngmiàn: méiyǒu zhìxù de zìyóu bì lúnwéi ruòròu-qiángshí de Huòbùsī cōnglín, méiyǒu zìyóu de zhìxù zhōng jiāng zhìxī rénlèi shèhuì de chuàngzào huólì.)",
+          "reading": "[t͡sɨ˥˩.joʊ̯˧˥ y˨˩˦ ʈ͡ʂɨ˥˩.ɕy˥˩ naɪ̯˨˩˦ wən˧˥.miŋ˧˥ jan˨˩.t͡ɕin˥˩ ʈ͡ʂɨ˥ i˥.tʰi˨˩˦ ljaŋ˨˩˦.mjɛn˥˩: meɪ̯˧˥.joʊ̯˨˩˦ ʈ͡ʂɨ˥˩.ɕy˥˩ tɤ t͡sɨ˥˩.joʊ̯˧˥ pi˥˩ lwn˧˥.weɪ̯˧˥ ʐwɔ˥˩.ʐoʊ̯˥˩-t͡ɕʰjaŋ˧˥.ʂɨ˧˥ tɤ xwo˥˩.pu˥˩.sɨ˥ t͡sʰʊŋ˥.lin˧˥, meɪ̯˧˥.joʊ̯˨˩˦ t͡sɨ˥˩.joʊ̯˧˥ tɤ ʈ͡ʂɨ˥˩.ɕy˥˩ ʈ͡ʂʊŋ˥ t͡ɕjɑŋ˥ ʈ͡ʂɨ˥˩.ɕi˥ ʐən˧˥.leɪ̯˥˩ ʂɤ˥˩.xweɪ̯˥˩ tɤ t͡ʂʰwaŋ˥˩.t͡saʊ̯˥˩ xwo˧˥.li˥˩] (Zì-yóu yǔ zhì-xù nǎi wén-míng yǎn-jìn zhī yī-tǐ liǎng-miàn: méi-yǒu zhì-xù de zì-yóu bì lún-wéi ruò-ròu-qiáng-shí de Huò-bù-sī cōng-lín, méi-yǒu zì-yóu de zhì-xù zhōng jiāng zhì-xī rén-lèi shè-huì de chuàng-zào huó-lì.)",
+          "translation": "Freedom and order are two sides of the same coin in the evolution of civilization: freedom without order will inevitably degenerate into a Hobbesian jungle of the law of the jungle, while order without freedom will ultimately suffocate the creative vitality of human society."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (32.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "高超的辩论结辩绝非逞口舌之快，而是以深沉的人文关怀与哲学洞见，为困顿中的人类心灵点亮一盏温暖的理性明灯。(Gāochāo de biànlùn jiébiàn jué fēi chěng kǒushé zhī kuài, érqiě yǐ shēnchén de rénwén guānhuái yǔ zhéxué dòngjiàn, wèi kùndùn zhōng de rénlèi xīnlíng diǎnliàng yī zhǎn wēnnuǎn de lǐxìng míngdēng.)",
+          "reading": "[kaʊ̯˥.t͡ʂʰaʊ̯˥ tɤ pjɛn˥˩.lwən˥˩ t͡ɕjɛ˧˥.pjɛn˥˩ t͡ɕyɛ˧˥ feɪ̯˥ ʈ͡ʂʰəŋ˨˩˦ kʰoʊ̯˨˩˦.ʂɤ˧˥ ʈ͡ʂɨ˥ kʰwaɪ̯˥˩, ɑr˧˥.t͡ɕʰjɛ˨˩˦ i˨˩˦ ʂən˥.ʈ͡ʂʰən˧˥ tɤ ʐən˧˥.wən˧˥ kwan˥.xwaɪ̯˧˥ y˨˩˦ ʈ͡ʂɤ˧˥.ɕɥɛ˧˥ tʊŋ˥˩.t͡ɕjɛn˥˩, weɪ̯˥˩ kʰwn˥˩.twən˥˩ ʈ͡ʂʊŋ˥ tɤ ʐən˧˥.leɪ̯˥˩ ɕin˥.liŋ˧˥ tjan˨˩˦.ljaŋ˥˩ i˥ ʈ͡ʂan˨˩˦ wən˥.nwǎn tɤ li˨˩.ɕiŋ˥˩ miŋ˧˥.təŋ˥] (Gāo-chāo de biàn-lùn jié-biàn jué fēi chěng kǒu-shé zhī kuài, ér-qiě yǐ shēn-chén de rén-wén guān-huái yǔ zhé-xué dòng-jiàn, wèi kùn-dùn zhōng de rén-lèi xīn-líng diǎn-liàng yī zhǎn wēn-nuǎn de lǐ-xìng míng-dēng.)",
+          "translation": "A superb debate final summary is by no means an indulgence in verbal quickness, but rather uses profound humanitarian care and philosophical insight to illuminate a warm beacon of rationality for human souls in perplexity."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "狮城决战光明照，义利知行哲思高；自由秩序双翼展，结辩慈悲智慧耀！"
+      ],
+      "culturalNotes": [
+        "1993年国际大专辩论赛复旦大学四位辩手（姜丰、季翔、严嘉、蒋昌建，顾问王沪宁、俞吾金）的经典辩词，被誉为当代华语辩论史不可逾越的巅峰神话。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「高阶辩论与公共演讲 (High Debating & Public Address)」（第4讲）的标准汉语规范？",
+          "prompt": "在1993年新加坡首届国际大专辩论会决赛中，复旦大学四辩蒋昌建借用顾城诗歌震撼全场的传世结辩名句是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「高阶辩论与公共演讲 (High Debating & Public Address)」的核心语法法则与应用范例 (32.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (32.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (32.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (32.4.w3)"
+            "黑夜给了我黑色的眼睛，我却用它寻找光明 (Night gave me dark eyes, yet I use them to seek the light)",
+            "我们赢了对方输了",
+            "辩论结束了大家回去睡觉吧",
+            "只要能拿冠军怎么说都行"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "蒋昌建以这句极富诗意与哲学情怀的结辩，成为华语辩论史上流传最广、地位最高的经典警句。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在辩论价值升华中，论述自由与秩序的关系时，最科学辩证的法哲学观点是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "自由与秩序是一体两面：自由是秩序的目的，秩序是自由的保障 (Freedom and order: freedom is the end, order is the guarantee)",
+            "只要自由完全不需要任何秩序",
+            "只要秩序完全可以消灭所有个人自由",
+            "两者势如水火绝对无法并存"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "自由与秩序相辅相成，缺乏秩序的自由是混乱，缺乏自由的秩序是专制，二者不可偏废。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「高阶辩论与公共演讲 (High Debating & Public Address)」的正式语境下，最准确得体的表达是哪一项？（第32.4题）",
+          "prompt": "中国哲学史中王阳明心学针对知与行关系提出的融认识与实践于一体的核心哲学命题是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (32.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (32.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (32.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (32.4.x3)"
+            "知行合一 (Unity of knowledge and action)",
+            "知易行难",
+            "言行不一",
+            "知难行易"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "王阳明提出「知行合一」，认为真知即所以为行，不行不足谓之知。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u32-l4）所要求的高阶语言表达？",
+          "prompt": "一场高水平辩论赛的结辩（四辩总结陈词）最核心的艺术追求与精神境界是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (32.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (32.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (32.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (32.4.y3)"
+            "跳脱技术纠缠，升华至哲学思辨与人文关怀的高度 (Transcend technical clashes to philosophical speculation & human care)",
+            "重新复述一辩的稿子",
+            "嘲笑对方辩友普通话不标准",
+            "单纯向裁判拍马屁"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "高超的结辩旨在升华论题格局，展现思想深度与博大人文情怀，给听众以心灵启迪。"
         }
       ]
     },
@@ -19089,25 +19099,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「高阶辩论与公共演讲 (High Debating & Public Address)」的掌握程度，请选出表述完全正确的标准范句（测试 32-4）：",
+          "prompt": "请选出下列关于经典哲学辩题解构与价值升华评述最高妙、最深刻的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (32.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (32.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (32.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (32.4.z3)"
+            "华语辩论的最高境界在于对人类永恒命题的哲学反思与价值升华：在义利之辩中实现道德自律与制度激励的统一；在自由与秩序中阐明文明双翼的辩证共生；在知行合一中心悟认识与实践的熔铸。正如狮城舌战以「寻找光明」抚慰时代心灵，高超的辩论绝非逞口舌之利，而是以理性明灯照亮人类前行的道路！(义利、自由秩序、知行合一、狮城决战光明隐喻与结辩升华全景精辟论述)",
+            "辩论就是为了赢奖金拿证书，讨论什么哲学价值都是浪费时间。(功利庸俗的错误心态)",
+            "黑夜给了我黑色的眼睛被自由秩序在知行合一义利之辩结辩升华。(生硬拼接无逻辑)",
+            "哲学辩题就是无聊文人的文字游戏，对现实社会毫无指导意义。(完全否定哲学反思力量)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段系统融汇了义利之辩、自由秩序、知行合一与狮城经典结辩，思想深邃，文质兼美。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u32-l4）的核心关键词（例如「高阶辩论」）：",
+          "prompt": "请输入明代心学大师王阳明提出的、辩论知行关系中主张认识与实践内在统一的核心四字哲学成语（拼音为 zhī-xíng-hé-yī）：",
           "acceptedAnswers": [
-            "高阶辩论",
-            "高阶辩论与公",
-            "高阶辩论与公共演讲"
+            "知行合一"
           ],
-          "explanation": "正确的核心关键词为「高阶辩论」。"
+          "explanation": "哲学成语「知行合一」是王阳明心学的核心命题，也是华语辩论中极高频引用的经典哲学命题。"
         }
       ],
       "passThreshold": 0.8
@@ -19118,85 +19126,89 @@
     "subject": "mandarin",
     "unit": 32,
     "lessonNumber": 5,
-    "title": "高阶辩论与公共演讲 (High Debating & Public Address) (第5讲)",
+    "title": "唇枪舌剑、思想交锋与高阶辩论公共演说综合叙事篇章 (Comprehensive High Debating & Public Address: Mind Clash & Master Discourse)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：逻辑实证论证、修辞格论辩战术、跨文化公共政策演讲与危机公关阐述。 (第5部分)。",
+    "objective": "全面融通逻辑实证框架（图尔敏模型/三段论/归谬法）、高阶修辞武器（排比层递/设问反诘/借喻反讽）、公共演说与跨文化沟通、经典哲学辩题（义利/自由秩序/人性）及黄金结辩艺术，撰写逻辑如钢、修辞如虹、思想如海的巅峰辩论演说综合篇章。",
     "presentation": {
-      "explanation": "",
+      "explanation": "本课是高阶辩论、逻辑修辞与公共演说的巅峰集大成篇章，展现了现代中国青年与公共知识分子在思想碰撞中的雄辩才华与理性情怀：\n\n一、公共论辩与思想交锋四大支柱图谱：\n1. 逻辑铁律（立论与破辩）：图尔敏模型层层设防，三段论推演严密，以归谬法顺水推舟，以釜底抽薪直击大前提。\n2. 修辞武库（语言感染力）：排比层递气壮山河，设问反诘步步深扣，借喻通感诗意飞扬，反讽如刀剥去伪装。\n3. 公关演说（政策与危机）：门罗动机序列唤醒共鸣，寻求社会「最大公约数」，以5S原则真诚应对公共危机，跨文化叙事跨越隔阂。\n4. 哲学升华（经典思辨）：解构义利知行与自由秩序，承继狮城决战「寻找光明」的崇高风骨，以博大的人文关怀观照人类共同命运。\n\n二、全景式思辨交锋与高阶公共演说综合范文赏析：\n- 唇枪舌剑，辨天下是非；激浊扬清，立时代新风。辩论是思想的淬火与理性的交响，演说是心灵的共鸣与时代的号角。回眸当代公共论辩与演说美学之波澜壮阔：我们以图尔敏逻辑模型为骨骼，严密推演核心主张，以归谬法与釜底抽薪破除绝对化迷障；我们以高阶修辞为利器，排比层递如银河飞瀑，设问反诘若春雷乍响，将精深法理化作诗性通感；我们以门罗动机序列架构政策演说，在利益博弈中求取全社会的最大公约数，以真诚透明的5S准则化解危机；我们更以深沉的哲学洞察升华辩题格局，在义利知行中求索真理，在自由秩序中探寻善治，在「黑夜给了我黑色的眼睛，我却用它寻找光明」的绝美长啸中呼唤人类良知。秉持严谨理性的求真精神与达济天下的博大胸襟，当代中国演说家与青年学子正以昂扬自信的语言力量，在世界思想交锋的壮阔舞台上奏响震撼人心的理性华章！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「高阶辩论与公共演讲 (High Debating & Public Address)」的核心语法法则与应用范例 (32.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '高阶辩论与公共演讲 (High Debating & Public Address)' in simple terms to students at the academic seminar."
+          "target": "辩论是思想的淬火与理性的交响，演说是心灵的共鸣与时代的号角，二者共同构成了人类公共话语最璀璨的皇冠。(Biànlùn shì sīxiǎng de cuìhuǒ yǔ lǐxìng de jiāoxiǎng, yǎnshuō shì xīnlíng de gòngmíng yǔ shídài de hàojiǎo, èrzhě gòngtóng gòuchéng le rénlèi gōnggòng huàyǔ zuì cuǐcàn de huángguān.)",
+          "reading": "[pjɛn˥˩.lwən˥˩ ʂɨ˥˩ sɨ˥.ɕjaŋ˨˩˦ tɤ t͡sʰweɪ̯˥˩.xwo˨˩˦ y˨˩˦ li˨˩.ɕiŋ˥˩ tɤ t͡ɕjaʊ̯˥.ɕjaŋ˨˩˦, jan˨˩˦.ʂwɔ˥ ʂɨ˥˩ ɕin˥.liŋ˧˥ tɤ koʊŋ˥˩.miŋ˧˥ y˨˩˦ ʂɨ˧˥.taɪ̯˥˩ tɤ xaʊ̯˥˩.t͡ɕjaʊ̯˨˩˦, ar˥˩.ʈ͡ʂɤ˨˩˦ koʊŋ˥˩.tʰʊŋ˧˥ koʊ̯˥˩.ʈ͡ʂʰəŋ˧˥ lɤ ʐən˧˥.leɪ̯˥˩ kʊŋ˥.kʊŋ˥˩ xwa˥˩.y˨˩˦ tweɪ̯˥˩ t͡sʰweɪ̯˨˩˦.t͡sʰan˥ tɤ xwaŋ˧˥.kwan˥] (Biàn-lùn shì sī-xiǎng de cuì-huǒ yǔ lǐ-xìng de jiāo-xiǎng, yǎn-shuō shì xīn-líng de gòng-míng yǔ shí-dài de hào-jiǎo, èr-zhě gòng-tóng gòu-chéng le rén-lèi gōng-gòng huà-yǔ zuì cuǐ-càn de huáng-guān.)",
+          "translation": "Debate is the quenching of thought and the symphony of rationality, while speech is the resonance of souls and the clarion of the era; together they constitute the most radiant crown of human public discourse."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (32.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "运筹帷幄之中，辩手以图尔敏逻辑层层设防，以归谬反诘斩断谬论，以排比层递激荡万钧气势，展现出无与伦比的思辨锋芒。(Yùnchóu-wéiwò zhīzhōng, biànshǒu yǐ Tú'ěrmǐn luójí céngcéng shèfáng, yǐ guīmiù fǎnjié zhǎnduàn miùlùn, yǐ páibǐ céngdì jīdàng wànjūn qìshì, zhǎnxiàn chū wúyǔ-lúnbǐ de sībiàn fēngmáng.)",
+          "reading": "[yn˥˩.ʈ͡ʂʰoʊ̯˧˥-weɪ̯˧˥.wɔ˥˩ ʈ͡ʂɨ˥.ʈ͡ʂʊŋ˥, pjɛn˥˩.ʂoʊ̯˨˩˦ i˨˩˦ tʰu˧˥.ar˧˥.min˨˩˦ lwɔ˧˥.t͡ɕi˧˥ t͡sʰəŋ˧˥.t͡sʰəŋ˧˥ ʂɤ˥˩.fɑŋ˧˥, i˨˩˦ kweɪ̯˥.mjoʊ̯˥˩ fan˨˩.t͡ɕjɛ˧˥ ʈ͡ʂan˨˩.twan˥˩ mjoʊ̯˥˩.lwən˥˩, i˨˩˦ pʰaɪ̯˧˥.pi˨˩˦ t͡sʰəŋ˧˥.ti˥˩ t͡ɕi˥.tɑŋ˥˩ wan˥˩.t͡ɕyn˥ t͡ɕʰi˥˩.ʂɨ˥˩, ʈ͡ʂan˨˩.ɕjɛn˥˩ t͡ʂʰu˥ wu˧˥.y˨˩˦-lwn˧˥.pi˨˩˦ tɤ sɨ˥.pjɛn˥˩ fəŋ˥.mɑŋ˧˥] (Yùn-chóu-wéi-wò zhī-zhōng, biàn-shǒu yǐ Tú-'ěr-mǐn luó-jí céng-céng shè-fáng, yǐ guī-miù fǎn-jié zhǎn-duàn miù-lùn, yǐ pái-bǐ céng-dì jī-dàng wàn-jūn qì-shì, zhǎn-xiàn chū wú-yǔ-lún-bǐ de sī-biàn fēng-máng.)",
+          "translation": "Within strategic deliberations, debaters set up defenses layer by layer with Toulmin logic, severed fallacies with reductio ad absurdum and rhetorical questions, and stirred up immense momentum with parallelism and climax, displaying incomparable critical sharpness."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (32.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "从狮城舌战的黑夜光明之叹，到当代全球治理的天下为公之求，公共演说以深邃的哲学洞察观照全人类的生存困境与共同未来。(Cóng Shīchéng shézhàn de hēiyè guāngmíng zhī tàn, dào dāngdài quánqiú zhìlǐ de tiānxià-wéigōng zhī qiú, gōnggòng yǎnshuō yǐ shēnsuì de zhéxué dòngchá guānzhào quán rénlèi de shēngcún kùnjìng yǔ gòngtóng wèilái.)",
+          "reading": "[t͡sʰʊŋ˧˥ ʂɨ˥.ʈ͡ʂʰəŋ˧˥ ʂɤ˧˥.ʈ͡ʂan˥˩ tɤ xeɪ̯˥.jɛ˥˩ kwaŋ˥.miŋ˧˥ ʈ͡ʂɨ˥ tʰan˥˩, taʊ̯˥˩ tɑŋ˥.taɪ̯˥˩ t͡ɕʰyɛn˧˥.t͡ɕʰjoʊ̯˧˥ ʈ͡ʂɨ˥˩.li˨˩˦ tɤ tʰjɛn˥.ɕja˥˩-weɪ̯˧˥.kʊŋ˥ ʈ͡ʂɨ˥ t͡ɕʰjoʊ̯˧˥, kʊŋ˥.kʊŋ˥˩ jan˨˩˦.ʂwɔ˥ i˨˩˦ ʂən˥.sweɪ̯˥˩ tɤ ʈ͡ʂɤ˧˥.ɕɥɛ˧˥ tʊŋ˥˩.t͡ʂʰa˥ kwan˥.ʈ͡ʂaʊ̯˥˩ t͡ɕʰyɛn˧˥ ʐən˧˥.leɪ̯˥˩ tɤ ʂəŋ˥.t͡sʰwn˧˥ kʰwn˥˩.t͡ɕiŋ˥˩ y˨˩˦ koʊŋ˥˩.tʰʊŋ˧˥ weɪ̯˥˩.laɪ̯˧˥] (Cóng Shī-chéng shé-zhàn de hēi-yè guāng-míng zhī tàn, dào dāng-dài quán-qiú zhì-lǐ de tiān-xià-wéi-gōng zhī qiú, gōng-gòng yǎn-shuō yǐ shēn-suì de zhé-xué dòng-chá guān-zhào quán rén-lèi de shēng-cún kùn-jìng yǔ gòng-tóng wèi-lái.)",
+          "translation": "From the Lion City debate's sigh of dark night and light to contemporary global governance's quest for public-spiritedness under heaven, public speech reflects upon the existential dilemmas and shared future of all humanity with profound philosophical insight."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (32.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "秉持求真务实的科学理性与达济天下的博大情怀，当代卓越演说家正以铿锵有力的中国声音，在世界舞台上激荡起经久不息的文明回响！(Bǐngchí qiúzhēn-wùshí de kēxué lǐxìng yǔ dájì-tiānxià de bódà qínghuái, dāngdài zhuóyuè yǎnshuōjiā zhèngzài yǐ kēngqiāng-yǒulì de Zhōngguó shēngyīn, zài shìjiè wǔtái shang jīdàng qǐ jīngjiǔ-bùxī de wénmíng huíxiǎng!)",
+          "reading": "[piŋ˨˩.ʈ͡ʂʰɨ˧˥ t͡ɕʰjoʊ̯˧˥.ʈ͡ʂən˥-u˥˩.ʂɨ˧˥ tɤ kʰɤ˥.ɕɥɛ˧˥ li˨˩.ɕiŋ˥˩ y˨˩˦ ta˧˥.t͡ɕi˥˩-tʰjɛn˥.ɕja˥˩ tɤ pwo˧˥.ta˥˩ t͡ɕʰiŋ˧˥.xwaɪ̯˧˥, tɑŋ˥.taɪ̯˥˩ ʈ͡ʂwɔ˧˥.yɛ˥˩ jan˨˩˦.ʂwɔ˥.t͡ɕja˥ ʈ͡ʂəŋ˥˩.t͡saɪ̯˥˩ i˨˩˦ kʰəŋ˥.t͡ɕʰjaŋ˥-joʊ̯˨˩.li˥˩ tɤ ʈ͡ʂʊŋ˥.kwo˧˥ ʂəŋ˥.in˥, t͡saɪ̯˥˩ ʂɨ˥˩.t͡ɕjɛ˥˩ wu˨˩.tʰaɪ̯˧˥ ʂɑŋ t͡ɕi˥.tɑŋ˥˩ t͡ɕʰi˨˩˦ t͡ɕiŋ˥.t͡ɕjoʊ̯˨˩˦-pu˥.ɕi˥ tɤ wən˧˥.miŋ˧˥ xweɪ̯˧˥.ɕjaŋ˨˩˦] (Bǐng-chí qiú-zhēn-wù-shí de kē-xué lǐ-xìng yǔ dá-jì-tiān-xià de bó-dà qíng-huái, dāng-dài zhuó-yuè yǎn-shuō-jiā zhèng-zài yǐ kēng-qiāng-yǒu-lì de Zhōng-guó shēng-yīn, zài shì-jiè wǔ-tái shang jī-dàng qǐ jīng-jiǔ-bù-xī de wén-míng huí-xiǎng!)",
+          "translation": "Upholding pragmatic scientific rationality and broad humanitarian sentiment for the common good, contemporary outstanding orators are stirring up enduring civilizational echoes on the world stage with resoundingly powerful Chinese voices!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "思辨交锋论短长，修辞磅礴理智彰；狮城风采传天下，辩论演说万古扬！"
+      ],
+      "culturalNotes": [
+        "言之有物，言之有理，言之有文。将逻辑严谨性、修辞感染力与家国天下情怀熔铸一体，是中华公共言说与辩论哲学的至高追求。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「高阶辩论与公共演讲 (High Debating & Public Address)」（第5讲）的标准汉语规范？",
+          "prompt": "在综合评述高阶辩论与公共演说的核心价值时，最精辟到位的一项是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「高阶辩论与公共演讲 (High Debating & Public Address)」的核心语法法则与应用范例 (32.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (32.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (32.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (32.5.w3)"
+            "逻辑为骨建立严密立论，修辞为翼激荡情感气势，哲学为魂升华人类关怀 (Logic as skeleton, rhetoric as wings, philosophy as soul)",
+            "辩论演说就是为了吵赢别人拿到名利",
+            "只要台下鼓掌热闹，说什么假话空话都行",
+            "辩论演说就是靠背死稿子糊弄观众"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「逻辑为骨、修辞为翼、哲学为魂」高度概括了高阶辩论与公共演说三位一体的至高境界。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在面向多元文化受众开展公共演说时，能够跨越隔阂、取得最大国际认同的关键法宝是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "以同理心倾听，诉诸全人类共同情感与共同价值 (Listen with empathy, appeal to common human values)",
+            "只宣扬自己国家的优越性",
+            "强迫别人接受自己的所有观点",
+            "拒绝回答任何国际媒体的提问"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "同理心共情与全人类共同价值是开展跨文化沟通与全球演说的核心桥梁。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「高阶辩论与公共演讲 (High Debating & Public Address)」的正式语境下，最准确得体的表达是哪一项？（第32.5题）",
+          "prompt": "请选出下列高阶辩论与公共演说综合论述中立论最高远、概括最精辟的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (32.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (32.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (32.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (32.5.x3)"
+            "思辨交锋淬炼真理之光：图尔敏模型与归谬破辩筑牢逻辑大厦，排比反诘与通感反讽激荡修辞浪潮，门罗序列与最大公约数凝聚社会共识，狮城决战光明隐喻升华哲学境界。卓越的公共言说以理性与慈悲照亮人类前行之路！(逻辑模型、修辞格、公关沟通、哲学结辩全景精深贯通)",
+            "演说只要动作夸张、表情丰富就能成为演讲大师。(流于表面形式的肤浅偏见)",
+            "唇枪舌剑被图尔敏模型在排比层递最大公约数狮城决战。(词语无序堆叠乱码)",
+            "只要口才好，黑的可以说成白的，不需要任何事实依据。(背离求真务实本质的诡辩论调)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项全景融通了逻辑立论、修辞艺术、政策沟通与哲学升华四大支柱，立论高远，文质兼美。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u32-l5）所要求的高阶语言表达？",
+          "prompt": "形容演说辩论声音响亮宏大、言辞掷地有声、极具感染力与震撼力的经典成语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (32.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (32.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (32.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (32.5.y3)"
+            "铿锵有力 / 掷地有声 (Resoundingly powerful / Words of thunder)",
+            "有气无力",
+            "吞吞吐吐",
+            "不知所云"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "成语「铿锵有力」形容声音清脆响亮、节奏鲜明且极具语言说服力。"
         }
       ]
     },
@@ -19204,25 +19216,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「高阶辩论与公共演讲 (High Debating & Public Address)」的掌握程度，请选出表述完全正确的标准范句（测试 32-5）：",
+          "prompt": "请选出下列关于高阶辩论、逻辑修辞与公共演说综合语篇中格局最宏大、法理与文采最登峰造极的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (32.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (32.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (32.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (32.5.z3)"
+            "唇枪舌剑，辨天下是非；激浊扬清，立时代新风。高阶辩论与公共演说展现出人类理性的璀璨光辉：以图尔敏模型为骨骼严密立论，以归谬法与釜底抽薪破除谬论；以排比层递激荡万钧气势，以通感借喻赋予逻辑以诗性意象；以门罗序列与最大公约数凝聚社会共识，以5S准则化解危机；更以「寻找光明」的深沉情怀解构义利知行与自由秩序。严谨理性的求真精神与达济天下的博大胸襟交相辉映，必将在世界思想舞台上激荡起经久不息的文明回响！(全篇结构严谨宏大，逻辑、修辞、政策演说与哲学结辩融通一体，气吞山河，文采斐然，思辨语篇之最高典范)",
+            "辩论演说就是为了逗观众笑，讲几个段子就能拿到满分。(庸俗化娱乐心态)",
+            "辩论演说被图尔敏在归谬法排比层递狮城决战寻找光明。(无语法逻辑的生硬拼凑)",
+            "只要嗓门大就能在国际辩论赛和国际讲坛上赢得所有人的支持。(极其幼稚无知的错误观点)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇系统贯通图尔敏模型、归谬法、修辞武器、门罗序列、最大公约数与哲学升华结辩，文采飞扬，哲思深邃，是高阶汉语辩论与演说论述的巅峰范本。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u32-l5）的核心关键词（例如「高阶辩论」）：",
+          "prompt": "请输入形容演说与论辩言辞响亮、节奏鲜明、极具震撼力与坚定信念的核心四字成语（例如「的声音」；拼音为 kēngqiāng-yǒulì）：",
           "acceptedAnswers": [
-            "高阶辩论",
-            "高阶辩论与公",
-            "高阶辩论与公共演讲"
+            "铿锵有力"
           ],
-          "explanation": "正确的核心关键词为「高阶辩论」。"
+          "explanation": "成语「铿锵有力」形容声音坚实清脆、言辞坚定有力，是评价卓越演讲演说家的经典赞词。"
         }
       ],
       "passThreshold": 0.8
