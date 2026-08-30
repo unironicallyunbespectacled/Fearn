@@ -10607,56 +10607,65 @@
     "subject": "korean",
     "unit": 23,
     "lessonNumber": 1,
-    "title": "비즈니스 한국어와 직장 내 의전 (Business Korean) (Part 1)",
+    "title": "비즈니스 이메일 격식과 서한 프로토콜 (Email Etiquette)",
     "level": "B2",
-    "objective": "Comprehensive mastery of 비즈니스 회화와 이메일 (Business & Corporate Korean).",
+    "objective": "한국 비즈니스 이메일의 수신자 지정, 정중한 서두 인사, 본론 전환구('다름이 아니오라'), 첨부 파일 안내('송부') 및 결미 서명 격식을 완벽히 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 비즈니스 한국어와 직장 내 의전 (Business Korean) » (제1절)의 핵심 언어 요소와 비즈니스 회화와 이메일 (Business & Corporate Korean)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국의 비즈니스 전자우편(Email)은 엄격한 상호 예의와 정중한 격식체를 준수합니다.\n\n1. 이메일 구조별 정형 표현 체계:\n- **수신자 지정**: `[회사명/부서명] [이름] [직급]님께` (예: 한국전자 마케팅팀 김민수 팀장님께)\n- **서두 인사**: \n  - \"안녕하십니까. [회사/부서명]의 [이름] [직급]입니다.\"\n  - \"늘 노고가 많으십니다.\" / \"귀사의 무궁한 발전을 기원합니다.\"\n- **본론 전환구**: \n  - \"**다름이 아니오라**, 다음 주 예정된 3분기 제휴 회의 일정 조율 건으로 연락드렸습니다.\"\n  - \"**-에 다름 아니라**, 지난주 요청하신 견적서 송부의 건입니다.\"\n- **자료 첨부 및 확인 요청**: \n  - \"요청하신 최종 제안서 파일을 **첨부하여 송부해 드립니다**.\"\n  - \"검토 후 회신해 주시면 대단히 감사하겠습니다.\"\n- **결미 서명**: \n  - \"감사합니다. [이름] **드림 / 올림 / 배상(拜上)**\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (23.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "안녕하십니까, ABC상사 전략기획팀 박지훈 팀장님. 평소 귀사의 아낌없는 협조에 깊은 감사를 드립니다.",
+          "reading": "Annyeonghasimnikka, ABCsangsa jeollyakgihoektim Bak Ji-hun timjangnim. Pyeongso gwisa-ui akkim-eomneun hyeopjo-e gipeun gamsa-reul deurimnida.",
+          "translation": "Hello, Team Leader Ji-hoon Park of ABC Corp Strategic Planning Team. We express deep gratitude for your esteemed company's generous cooperation ('귀사의')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (23.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "다름이 아니오라, 지난 실무 미팅에서 논의된 수정 견적서 및 세부 납품 일정표를 첨부하여 송부해 드립니다.",
+          "reading": "Dareum-i aniora, jinan silmu miting-eseo nonuidoen sujeong gyeonjeokseo mit sebu nap-pum iljeongpyo-reul cheombuhayeo songbuhae deurimnida.",
+          "translation": "To get straight to the matter ('다름이 아니오라'), I am attaching and transmitting the revised quotation and detailed delivery schedule discussed in the last working meeting."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (23.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "첨부 파일을 면밀히 검토해 주시고, 수정이나 보완 사항이 있으시면 편하신 시간에 회신 부탁드립니다.",
+          "reading": "Cheombu pail-eul myeonmilhi geomtohae jusigo, sujeong-ina bowan sahang-i isseusimyeon pyeonhasin sigan-e hoesin butakdeurimnida.",
+          "translation": "Please review the attached file closely, and if there are any revisions or supplementary points, please reply at your convenience."
+        },
+        {
+          "target": "갑작스러운 일정 변경 요청으로 업무에 불편을 드려 대단히 송구하며, 너른 양해를 부탁드립니다.",
+          "reading": "Gapjakseureoun iljeong byeon-gyeong yocheong-euro eommu-e bulpyeon-eul deuryeo daedanhi songguhamyeo, neoreun yanghae-reul butakdeurimnida.",
+          "translation": "We are extremely apologetic for causing inconvenience to your work due to an abrupt schedule change request, and ask for your generous understanding."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "인사는 '노고가 많으십니다', 용건은 '다름이 아니오라', 자료는 '송부해 드립니다', 끝은 '드림/배상'!"
+      ],
+      "culturalNotes": [
+        "한국 비즈니스에서 거래처 상대를 부를 때는 '귀사(貴社, your esteemed company)', 자사를 낮출 때는 '당사(當社, our company)' 또는 '저희 회사'라고 칭합니다. 결미의 '배상(拜上)'은 절하며 올린다는 뜻의 최고 격식 서명입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 비즈니스 회화와 이메일 (Business & Corporate Korean) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "비즈니스 이메일에서 본론을 정중하게 시작할 때 사용하는 가장 관용적인 전환 표현은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (23.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (23.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (23.1.3)."
+            "다름이 아니오라",
+            "딴 게 아니라",
+            "별일은 아니고"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'다름이 아니오라'는 격식 있는 서한과 이메일에서 용건으로 들어갈 때 쓰는 최고 수준의 정형 표현입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 비즈니스 한국어와 직장 내 의전 (Business Korean) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "거래처 담당자에게 자료를 첨부하여 정중하게 발송함을 알리는 가장 격식 있는 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (23.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (23.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (23.1.3)."
+            "요청하신 3분기 사업 실적 보고서를 첨부하여 송부해 드립니다.",
+            "요청하신 3분기 사업 실적 보고서를 첨부해서 던져 드립니다.",
+            "요청하신 3분기 사업 실적 보고서를 첨부하더라도 보냅니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "비즈니스 문서 발송에는 '송부(送付)하여 드립니다'라는 정중한 한자어 표현이 표준입니다."
         }
       ]
     },
@@ -10664,14 +10673,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 비즈니스 회화와 이메일 (Business & Corporate Korean) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 23-1)?",
+          "prompt": "다음 중 비즈니스 이메일 서명 결미어로 가장 알맞은 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (23.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (23.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (23.1.3)."
+            "홍길동 배상 (拜上)",
+            "홍길동 형아",
+            "홍길동 씀"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "explanation": "'[이름] 배상' 또는 '[이름] 드림/올림'이 비즈니스 이메일의 정중한 결미 서명입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'검토 후 회신 부탁드립니다'(Please reply after review)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "검토 후 회신 부탁드립니다.",
+            "검토 후 회신 부탁드립니다"
+          ],
+          "explanation": "검토 후 + 회신 부탁드립니다 = 검토 후 회신 부탁드립니다."
         }
       ]
     }
@@ -10681,56 +10699,65 @@
     "subject": "korean",
     "unit": 23,
     "lessonNumber": 2,
-    "title": "비즈니스 한국어와 직장 내 의전 (Business Korean) (Part 2)",
+    "title": "직장 내 직급 호칭 체계와 현대 실무 화법",
     "level": "B2",
-    "objective": "Comprehensive mastery of 비즈니스 회화와 이메일 (Business & Corporate Korean).",
+    "objective": "사원에서 대표이사까지 이어지는 한국 기업의 직급 체계와 직장 내 상하 및 동료 간의 정밀한 호칭과 화법 규칙을 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 비즈니스 한국어와 직장 내 의전 (Business Korean) » (제2절)의 핵심 언어 요소와 비즈니스 회화와 이메일 (Business & Corporate Korean)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국의 기업 문화에서는 직급과 직책에 기반한 호칭(Hierarchical Titles)이 조직 질서와 상호 존중의 근간을 이룹니다.\n\n1. 대표적인 기업 직급 체계 (승진 순):\n- **사원(Staff)** → **대리(Assistant Manager)** → **과장(Manager)** → **차장(Senior Manager)** → **부장(General Manager / Director)** → **임원(Executive: 이사, 상무, 전무, 부사장, 사장/대표이사)**\n\n2. 직장 내 호칭 원칙:\n- **상급자 부를 때**: `[성/이름] + [직급] + 님` (예: \"김 과장님\", \"이 부장님\", \"대표이사님\")\n- **동급자/후배 부를 때**: \n  - 직급이 있을 때: `[이름] + [직급]님` (예: \"민수 대리님\", \"지훈 씨\")\n  - 완전 동기/사원끼리: `[이름] 씨` 또는 상호 존댓말 유지\n- **사내 제3자 지칭 (현대 직장 어법)**: \n  - 전통적 엄격한 압존법과 달리, 현대 직장에서는 상사 앞이라도 다른 상급자를 낮추지 않고 \"김 과장님께서 지금 회의 중이십니다\"처럼 주체 높임을 사용하는 것이 국립국어원 표준 언어 예절로 정착되었습니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (23.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "부장님, 김 과장님께서 요청하신 2분기 예산 결산안 작성을 모두 완료하여 상신드렸습니다.",
+          "reading": "Bujangnim, Kim gwajangnim-kkeseo yocheonghasin ibun-gi yesan gyeolsanan jakseong-eul modu wanryohayeo sangsindeuryeotseumnida.",
+          "translation": "Director, I have completed and submitted for approval the Q2 budget settlement draft requested by Manager Kim ('상신드렸습니다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (23.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "이 대리님, 오늘 오후 3시에 대회의실에서 신입 사원 직무 교육 오리엔테이션이 예정되어 있습니다.",
+          "reading": "I daerinim, oneul ohu sesi-e daehoeuisil-eseo sin-ip sawon jikmu gyoyuk orientteisyeon-i yejeongdoeeo itseumnida.",
+          "translation": "Assistant Manager Lee, the job training orientation for new employees is scheduled in the main conference room at 3 PM today."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (23.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "대표이사님께 이번 신규 프로젝트의 중간 추진 경과를 내일 오전 주간 회의 때 직접 보고드리겠습니다.",
+          "reading": "Daepyoisanim-kke ibeon sin-gyu peurojekteu-ui junggan chujin gyeong-gwa-reul naeil ojeon jugan hoeui ttae jikjeop bogodeurigesseumnida.",
+          "translation": "I will report the interim implementation progress of this new project directly to the CEO at tomorrow morning's weekly meeting ('보고드리겠습니다')."
+        },
+        {
+          "target": "박 차장님께서는 현재 해외 지사 출장 중이시므로 급한 용건은 저에게 메모로 남겨 주십시오.",
+          "reading": "Bak chajangnim-kkeseoneun hyeonjae haeoe jisa chuljang jung-isimuro geubhan yonggeon-eun jeo-ege memo-ro nam-gyeo jusipsio.",
+          "translation": "Since Senior Manager Park is currently on a business trip to the overseas branch ('출장 중이시므로'), please leave urgent business with me as a memo."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "사원-대리-과장-차장-부장-임원! 윗사람 부를 땐 무조건 '직급+님'!"
+      ],
+      "culturalNotes": [
+        "최근 IT 스타트업과 대기업을 중심으로 '님' 문화(예: '민수 님')나 영어 닉네임을 도입하여 수평적 소통을 장려하는 추세이지만, 전통적인 직급 호칭 체계는 여전히 한국 비즈니스의 표준 골격입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 비즈니스 회화와 이메일 (Business & Corporate Korean) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "직속 상사인 '김 부장'에게 보고서를 결재 올릴 때 가장 격식 있는 표현은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (23.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (23.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (23.2.3)."
+            "부장님, 이번 주 기획안을 결재 상신하였습니다.",
+            "부장아, 이번 주 기획안 결재해라.",
+            "김 씨, 이번 주 기획안을 결재해 줬다."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "상사에 대한 존칭 '부장님'과 결재를 올림을 뜻하는 격식어 '상신(上申)하였습니다'가 완벽합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 비즈니스 한국어와 직장 내 의전 (Business Korean) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "현대 한국 직장에서 부장님에게 다른 상사인 '이 과장'의 부재를 정중히 알리는 올바른 표준 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (23.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (23.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (23.2.3)."
+            "부장님, 이 과장님께서 지금 외근 중이십니다.",
+            "부장님, 이 과장 놈이 지금 놀러 갔습니다.",
+            "부장님, 이 과장이 외근 중이다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "현대 비즈니스 실무에서는 제3자인 상급자(이 과장님)에 대해서도 '께서 -시-' 높임을 유지하는 것이 표준 예절입니다."
         }
       ]
     },
@@ -10738,14 +10765,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 비즈니스 회화와 이메일 (Business & Corporate Korean) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 23-2)?",
+          "prompt": "한국 기업의 일반적인 승진 직급 순서가 올바르게 나열된 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (23.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (23.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (23.2.3)."
+            "사원 → 대리 → 과장 → 차장 → 부장",
+            "부장 → 차장 → 과장 → 대리 → 사원",
+            "사원 → 부장 → 대리 → 차장 → 과장"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "일반적 기업 직급은 사원-대리-과장-차장-부장 순으로 올라갑니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'부장님께 결재를 올렸습니다'(I submitted the document for approval to the general manager)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "부장님께 결재를 올렸습니다.",
+            "부장님께 결재를 올렸습니다"
+          ],
+          "explanation": "부장님께 + 결재를 + 올렸습니다 = 부장님께 결재를 올렸습니다."
         }
       ]
     }
@@ -10755,56 +10791,65 @@
     "subject": "korean",
     "unit": 23,
     "lessonNumber": 3,
-    "title": "비즈니스 한국어와 직장 내 의전 (Business Korean) (Part 3)",
+    "title": "업무 협조 요청과 완곡한 거절 및 수정 제안 기법",
     "level": "B2",
-    "objective": "Comprehensive mastery of 비즈니스 회화와 이메일 (Business & Corporate Korean).",
+    "objective": "타 부서 및 거래처에 정중히 업무 협조를 요청하고, 곤란한 제안을 완곡하게 거절하거나 수정 대안을 제시하는 고급 비즈니스 화법을 습득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 비즈니스 한국어와 직장 내 의전 (Business Korean) » (제3절)의 핵심 언어 요소와 비즈니스 회화와 이메일 (Business & Corporate Korean)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "직장 내 협업과 외부 파트너십에서는 직설적 요구/거절을 피하고 정중한 완곡 어법(Euphemism & Softening Strategies)을 사용해야 신뢰와 원만한 관계를 유지할 수 있습니다.\n\n1. 정중한 업무 협조 요청 패턴:\n- **-아/어 주시면 감사하겠습니다**: \"금일 퇴근 전까지 취합표를 전달해 주시면 감사하겠습니다.\"\n- **-아/어 주실 수 있으신지요**: \"혹시 내일 오전 중으로 회의실 예약이 가능하신지요?\"\n- **협조를 부탁드립니다**: \"프로젝트의 성공적인 론칭을 위해 유관 부서의 적극적인 협조를 부탁드립니다.\"\n\n2. 완곡한 거절 및 수정 제안 (Cushion Words):\n- **쿠션어**: \"죄송합니다만...\" / \"안타깝게도...\" / \"너른 양해를 부탁드립니다.\"\n- **완곡한 거절**: \"현재 내부 리소스가 부족하여 이번 분기 내 착수는 **다소 어려울 것으로 사료됩니다**.\"\n- **수정 대안 제시**: \"제안해 주신 원안대로 진행하기보다는 일정이나 단가를 다음과 같이 **조정해 보는 것은 어떠실지요?**\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (23.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "번거로우시겠지만 요청드린 관련 통계 데이터를 이번 주 목요일까지 회신해 주시면 대단히 감사하겠습니다.",
+          "reading": "Beongeorousigettjiman yocheongdeurin gwanryeon tonggye deiteo-reul ibeon ju mogyoil-kkaji hoesinhae jusimyeon daedanhi gamsahagessseumnida.",
+          "translation": "Although it may be troublesome ('번거로우시겠지만'), we would be immensely grateful if you could reply with the requested relevant statistics data by this Thursday."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (23.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "보내 주신 제안서는 매우 혁신적이나, 현재 당사의 예산 상황상 원안 그대로 수용하기는 다소 어려운 점 양해 바랍니다.",
+          "reading": "Bonae jusin jeanseo-neun maeu hyeoksinjeog-ina, hyeonjae dangsa-ui yesan sanghwangsang won-an geudaero suyonghagi-neun daso eoryeoun jeom yanghae baramnida.",
+          "translation": "The proposal you sent is very innovative, but we ask for your understanding that accommodating it as originally drafted is somewhat difficult given our current budget situation."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (23.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "일정을 무리하게 앞당기기보다는 안전성 테스트 기간을 1주일 연장하는 방향으로 재검토해 주실 수 있는지요?",
+          "reading": "Iljeong-eul murihage apdang-gigibodaneun anjeonseong teseuteu gigan-eul ilju-il yeonjanghaneun banghyang-euro jaegeomtohae jusil su inneunjiyo?",
+          "translation": "Rather than pulling the schedule forward excessively, could you please re-examine the direction of extending the safety test period by one week?"
+        },
+        {
+          "target": "타 부서와의 원활한 협업을 위해 사전에 관련 부서장님들의 사전 합의를 먼저 구해 주시기를 당부드립니다.",
+          "reading": "Ta buseo-wa-ui wonhwalhan hyeop-eop-eul wihae sajeon-e gwanryeon buseojangnimdeul-ui sajeon hab-ui-reul meonjeo guhae jusigi-reul dangbudeurimnida.",
+          "translation": "For smooth collaboration with other departments, we request that you obtain the advance agreement of relevant department heads first."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "요청할 땐 '-해 주시면 감사하겠습니다', 거절할 땐 '다소 어려울 것으로 사료됩니다'!"
+      ],
+      "culturalNotes": [
+        "한국 비즈니스에서 '다소 어렵습니다', '검토해 보겠습니다'는 거의 90% 이상 정중한 거절(No)의 완곡한 표현입니다. 직설적으로 \"안 됩니다\"라고 말하는 것은 결례로 여겨집니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 비즈니스 회화와 이메일 (Business & Corporate Korean) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "상대방에게 부담을 줄이며 정중히 자료를 요청할 때 앞에 붙이는 가장 적절한 쿠션어는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (23.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (23.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (23.3.3)."
+            "번거로우시겠지만",
+            "귀찮더라도 억지로",
+            "당장 급하니까"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "'번거로우시겠지만(Although it is an inconvenience)'은 업무 협조를 구할 때 배려를 담는 최고의 쿠션어입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 비즈니스 한국어와 직장 내 의전 (Business Korean) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "거래처의 무리한 납기 단축 요청을 정중하고 완곡하게 거절하는 가장 훌륭한 비즈니스 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (23.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (23.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (23.3.3)."
+            "품질 보증을 위해 현재 일정보다 납기를 단축하는 것은 다소 무리가 있을 것으로 사료됩니다.",
+            "절대 안 됩니다. 말도 안 되는 소리 하지 마세요.",
+            "납기를 줄여 주기는커녕 공장을 멈추겠습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'다소 무리가 있을 것으로 사료됩니다(It is thought to be somewhat unreasonable)'는 격조 높은 비즈니스 거절 어법입니다."
         }
       ]
     },
@@ -10812,14 +10857,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 비즈니스 회화와 이메일 (Business & Corporate Korean) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 23-3)?",
+          "prompt": "한국 비즈니스 대화에서 '내부적으로 신중히 검토해 보겠습니다'가 지닌 실제 화용적 의미는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (23.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (23.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (23.3.3)."
+            "즉각적인 수락이 어려워 완곡하고 정중하게 거절하거나 보류함을 뜻한다.",
+            "100% 무조건 내일 당장 계약하겠다는 뜻이다.",
+            "상대방에게 화를 내며 계약을 파기하겠다는 뜻이다."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "비즈니스 화법에서 '검토해 보겠다'는 체면을 살려주며 완곡히 보류/거절하는 대표적 표현입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'재검토를 부탁드립니다'(We ask for your re-examination)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "재검토를 부탁드립니다.",
+            "재검토를 부탁드립니다"
+          ],
+          "explanation": "재검토를 + 부탁드립니다 = 재검토를 부탁드립니다."
         }
       ]
     }
@@ -10829,56 +10883,65 @@
     "subject": "korean",
     "unit": 23,
     "lessonNumber": 4,
-    "title": "비즈니스 한국어와 직장 내 의전 (Business Korean) (Part 4)",
+    "title": "비즈니스 전화 응대, 미팅 일정 조율 및 명함 교환 예절",
     "level": "B2",
-    "objective": "Comprehensive mastery of 비즈니스 회화와 이메일 (Business & Corporate Korean).",
+    "objective": "회사 전화 수발신 표준 프로토콜, 부재중 메모 전달, 대면 비즈니스 미팅에서의 양손 명함 교환 예절을 체화한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 비즈니스 한국어와 직장 내 의전 (Business Korean) » (제4절)의 핵심 언어 요소와 비즈니스 회화와 이메일 (Business & Corporate Korean)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "전화 통화와 명함 교환은 기업의 첫인상을 결정짓는 대단히 중요한 비즈니스 의전(Protocol)입니다.\n\n1. 전화 수신 및 발신 프로토콜:\n- **전화 받을 때**: \"감사합니다. [회사명] [부서명] [이름] [직급]입니다. 무엇을 도와드릴까요?\"\n- **상대방 확인할 때**: \"실례지만 어디 누구시라고 전해 드릴까요?\"\n- **담당자 부재 시**: \"김 과장님께서 지금 자리를 비우셨는데, 메모를 남겨 드릴까요? 아니면 들어오시는 대로 전화 드리도록 전해 드릴까요?\"\n- **전화 걸 때**: \"안녕하십니까. [회사]의 [이름]입니다. 통화 잠시 괜찮으신가요?\"\n\n2. 명함 교환(Business Card Etiquette) 예절:\n- 명함을 건넬 때: 반드시 **양손**으로 명함의 글자가 상대방을 향하도록 잡고, 소속과 이름을 또박또박 밝힙니다 (\"반갑습니다. 한국무역 해외영업팀 이지은 대리입니다.\")\n- 명함을 받을 때: 양손으로 공손히 받으며 \"감사합니다. 이 과장님, 반갑습니다.\"라고 화답합니다.\n- 미팅 중 명함 배치: 받은 명함을 바로 주머니에 넣지 않고 테이블 위의 상대방 착석 순서에 맞추어 정갈하게 올려놓습니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (23.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "감사합니다. 미래솔루션 경영지원팀 최유진 대리입니다. 무엇을 도와드릴까요?",
+          "reading": "Gamsahamnida. Miraesollusyeon gyeong-yeongjiwontim Choe Yu-jin daerimnida. Mueos-eul dowadeurilkkayo?",
+          "translation": "Thank you. This is Assistant Manager Yujin Choi of Mirae Solution Management Support Team. How may I help you?"
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (23.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "박 부장님께서는 지금 외부 미팅 중이신데, 복귀하시는 대로 바로 전화 드리도록 전달할까요?",
+          "reading": "Bak bujangnim-kkeseoneun jigeum oebu miting jung-isinde, bokgwihasineun daero baro jeonhwa deuridorok jeondalhalkkayo?",
+          "translation": "Director Park is currently in an outside meeting; shall I convey that he should call you right as soon as he returns?"
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (23.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "처음 뵙겠습니다. 대한통상 글로벌마케팅본부에서 신흥 시장 개척을 담당하고 있는 정우성 팀장입니다.",
+          "reading": "Cheoeum boepgetseumnida. Daehantongsang geullobeolmaketingbonbu-eseo sinheung sijang gaecheog-eul damdanghago inneun Jeong U-seong timjangnim-ida.",
+          "translation": "Pleasure to meet you for the first time ('처음 뵙겠습니다'). I am Team Leader Woo-sung Jung in charge of pioneering emerging markets at Daehan Commerce Global Marketing HQ."
+        },
+        {
+          "target": "다음 주 화요일 오후 2시에 귀사 본사 회의실로 직접 찾아뵙고 세부 협력 방안을 논의드리고자 합니다.",
+          "reading": "Daeum ju hwayoil ohu dusi-e gwisa bonsa hoeuisil-ro jikjeop chajaboepgo sebu hyeomnyeok bang-an-eul nonuideurigoja hamnida.",
+          "translation": "I would like to visit your headquarters conference room directly at 2 PM next Tuesday to discuss detailed cooperation plans ('찾아뵙고')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "전화는 소속 밝히며 상냥하게, 명함은 양손으로 글자 보이게 건네기!"
+      ],
+      "culturalNotes": [
+        "한국에서는 상대방이 건넨 명함에 메모를 하거나 구기거나 바로 지갑에 집어넣는 행위를 대단히 무례하게 여깁니다. 미팅이 끝날 때까지 명함 지갑 위에 올려놓는 것이 표준 의전입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 비즈니스 회화와 이메일 (Business & Corporate Korean) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "회사 전화를 받았을 때 가장 표준적인 첫인사는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (23.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (23.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (23.4.3)."
+            "감사합니다. 디자인팀 박민수 대리입니다. 무엇을 도와드릴까요?",
+            "여보세요? 누구세요? 왜 전화했나요?",
+            "전화 주셔서 감사한데 바쁘니까 나중에 하세요."
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "회사명/부서/이름/직급을 밝히고 지원 의사를 묻는 것이 표준적인 비즈니스 전화 수신 예절입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 비즈니스 한국어와 직장 내 의전 (Business Korean) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "담당자가 자리를 비웠을 때 고객에게 정중하게 대안을 안내하는 올바른 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (23.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (23.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (23.4.3)."
+            "담당자께서 잠시 자리를 비우셨는데, 메모를 남겨 드릴까요?",
+            "담당자 없으니까 그냥 이따가 다시 거세요.",
+            "담당자가 자리를 비우더라도 내가 알 바 아닙니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "부재 사유 안내와 메모 수합 제안을 정중히 묻는 '메모를 남겨 드릴까요?'가 표준입니다."
         }
       ]
     },
@@ -10886,14 +10949,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 비즈니스 회화와 이메일 (Business & Corporate Korean) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 23-4)?",
+          "prompt": "한국 비즈니스 미팅에서 명함을 교환할 때 올바른 태도는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (23.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (23.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (23.4.3)."
+            "양손으로 잡고 상대방이 이름을 읽을 수 있는 방향으로 건넨다.",
+            "한 손으로 던지듯이 건네고 즉시 뒷주머니에 쑤셔 넣는다.",
+            "받은 명함 위에 볼펜으로 낙서를 한다."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "explanation": "명함은 반드시 양손으로 정중히 건네고 받는 것이 기본 비즈니스 매너입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'메모를 남겨 드릴까요'(Shall I take a memo for you)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "메모를 남겨 드릴까요?",
+            "메모를 남겨 드릴까요"
+          ],
+          "explanation": "메모를 + 남겨 드릴까요? = 메모를 남겨 드릴까요?"
         }
       ]
     }
@@ -10903,56 +10975,65 @@
     "subject": "korean",
     "unit": 23,
     "lessonNumber": 5,
-    "title": "비즈니스 한국어와 직장 내 의전 (Business Korean) (Part 5)",
+    "title": "전략 제휴 협약 체결 및 임원 결재 브리핑 실전 비즈니스 종합 담화",
     "level": "B2",
-    "objective": "Comprehensive mastery of 비즈니스 회화와 이메일 (Business & Corporate Korean).",
+    "objective": "비즈니스 이메일 서한, 직급별 보고 화법, 완곡한 협상 어휘, 명함 및 전화 응대를 총망라하여 기업 간 제휴 및 이사회 브리핑 실전 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 비즈니스 한국어와 직장 내 의전 (Business Korean) » (제5절)의 핵심 언어 요소와 비즈니스 회화와 이메일 (Business & Corporate Korean)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "B2 최고급 비즈니스 한국어는 기업 간 전략적 제휴(Strategic Partnership), 이사회 임원 결재 보고(Executive Briefing), 바이어 협상 테이블에서 유감없이 발휘됩니다.\n\n1. 전략 제휴 협약식 및 바이어 미팅 실전 담화 모델:\n- 최 과장: 안녕하십니까, 글로벌인베스트의 마이클 리 부사장님. 먼 길 오시느라 노고가 많으셨습니다. 저는 사업개발팀 최민석 과장이라고 합니다. (양손으로 명함을 건네며)\n- 리 부사장: 반갑습니다, 최 과장님. 지난번 보내 주신 이메일 제안서와 시장 분석 보고서를 아주 인상 깊게 검토했습니다.\n- 최 과장: 좋게 평가해 주셔서 대단히 감사드립니다. 다름이 아니오라, 본 회의에 앞서 김진우 대표이사님께서 직접 리 부사장님을 접견하시어 환영 인사를 나누고자 하십니다.\n- (접견실 이동 후 대표이사 보고)\n- 대표이사: 리 부사장님, 귀사와의 기술 협력은 당사로서도 미래 핵심 동력을 확보하는 매우 중차대한 기회입니다. 초도 계약 물량과 납품 단가에 대해 양사가 윈윈할 수 있는 합의점을 도출해 주시면 감사하겠습니다.\n- 리 부사장: 당사 역시 전폭적인 지원을 아끼지 않을 것입니다. 세부 계약 조항은 실무진에서 검토 후 최종 서명하도록 하겠습니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (23.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "양사의 상호 이익과 지속 가능한 성장을 위해 전략적 업무 제휴 협약서(MOU)를 공식 체결하게 되어 대단히 영광입니다.",
+          "reading": "Yangsa-ui sangho iik-gwa jisok ganeunghan seongjang-eul wihae jeollyakjeok eommu jehyu hyeopyakseo-reul gongsik chegyeolhage doeeo daedanhi yeonggwang-imnida.",
+          "translation": "It is an immense honor to officially sign this Strategic Memorandum of Understanding (MOU) for the mutual benefit and sustainable growth of both companies ('양사의')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (23.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "대표이사님, 이번 글로벌 신제품 론칭에 따른 마케팅 집행 예산 승인 건을 결재 상신하오니 재가하여 주시기 바랍니다.",
+          "reading": "Daepyoisanim, ibeon geullobeol sinjeepum ronching-e ttareun maketing jiphaeng yesan seung-in geon-eul gyeoljae sangsinhani jaegahayeo jusigi baramnida.",
+          "translation": "CEO, I submit for approval the marketing execution budget approval item following this global new product launch, so please grant authorization ('재가하여 주시기 바랍니다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (23.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "금일 체결된 협약에 따라 다음 달 초순부터 양사 공동 태스크포스(TF) 팀을 신속히 가동할 예정입니다.",
+          "reading": "Geum-il chegyeoldoen hyeopyak-e ttara daeum dal chosun-buteo yangsa gongdong taeseukeuposeu tim-eul sinsokhi gadonghal yejeong-imnida.",
+          "translation": "Pursuant to the agreement signed today, we plan to promptly activate a joint task force (TF) team between both companies starting early next month."
+        },
+        {
+          "target": "바쁘신 와중에도 귀한 시간을 내어 당사를 방문해 주신 바이어 대표단 여러분께 진심으로 감사의 말씀을 전합니다.",
+          "reading": "Bappeusin wajung-edo gwihan sigan-eul naeeo dangsa-reul bangmunhae jusin baieo daepyodan yeoreobun-kke jinsim-euro gamsa-ui malsseum-eul jeonhamnida.",
+          "translation": "We convey words of heartfelt gratitude to all delegates of the buyer delegation who took precious time despite busy schedules to visit our company ('당사를')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "귀사와 당사의 윈윈 협력, 결재는 정중히 상신하고, 협약은 영광스럽게 체결한다!"
+      ],
+      "culturalNotes": [
+        "한국 비즈니스에서 최고 경영진의 결재를 받는 것을 '재가(裁可)를 받다', 기안을 올리는 것을 '상신(上申)하다'라고 하며, 이러한 한자 기반 전문 행정 용어를 정확히 사용하는 것이 전문성의 지표입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 비즈니스 회화와 이메일 (Business & Corporate Korean) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "MOU 체결식에서 양사를 대표하여 사회자가 환영사를 시작할 때 가장 품격 있는 문장은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (23.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (23.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (23.5.3)."
+            "양사의 공동 발전을 위한 전략적 업무 협약 체결식에 참석해 주신 내외 귀빈 여러분을 진심으로 환영합니다.",
+            "우리 둘이 대충 계약이나 맺으려고 모였으니 박수나 치세요.",
+            "협약을 체결하더라도 나중에 마음에 안 들면 취소할 것입니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'양사의 공동 발전'과 '내외 귀빈 여러분 환영'을 담은 격식 있는 축하 문장이 완벽합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 비즈니스 한국어와 직장 내 의전 (Business Korean) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "임원에게 기안서 결재 승인을 정중하게 요청하는 최고급 비즈니스 서면 보고 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (23.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (23.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (23.5.3)."
+            "신규 해외 지사 설립 계획안을 결재 상신하오니 검토 후 재가하여 주시기 바랍니다.",
+            "신규 해외 지사 설립 계획안을 올릴 테니 얼른 도장이나 찍으세요.",
+            "신규 해외 지사 설립 계획안을 올리기는커녕 파기하겠습니다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "'결재 상신하오니(I submit for approval)' + '재가하여 주시기 바랍니다(please grant authorization)'의 정중한 조합이 완벽합니다."
         }
       ]
     },
@@ -10960,14 +11041,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 비즈니스 회화와 이메일 (Business & Corporate Korean) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 23-5)?",
+          "prompt": "다음 중 비즈니스 한자 어휘의 상대적 짝이 올바르게 맺어진 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (23.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (23.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (23.5.3)."
+            "귀사(상대 회사 존칭) - 당사(자사 겸칭)",
+            "귀사(자사 겸칭) - 당사(상대 회사 존칭)",
+            "배상(부하 직원 명령) - 재가(친구끼리 잡담)"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "귀사(貴社)는 상대 회사 높임말, 당사(當社)는 자신의 회사를 가리키는 겸칭입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'귀사의 무궁한 발전을 기원합니다'(We pray for the eternal development of your company)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "귀사의 무궁한 발전을 기원합니다.",
+            "귀사의 무궁한 발전을 기원합니다"
+          ],
+          "explanation": "귀사의 + 무궁한 발전을 + 기원합니다 = 귀사의 무궁한 발전을 기원합니다."
         }
       ]
     }
