@@ -6635,53 +6635,62 @@
     "subject": "hindi",
     "unit": 16,
     "lessonNumber": 1,
-    "title": "कर्मवाच्य संरचनाएं: जाना-सहायक (Passive Voice) (Part 1)",
+    "title": "कर्मवाच्य का आधारभूत निर्माण: सामान्य भूतकालिक कृदंत + 'जाना' (Basic Passive Formation: Past Participle + jaana)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.1) with authentic linguistic precision.",
+    "objective": "सकर्मक क्रियाओं से कर्मवाच्य (Passive Voice) बनाने का नियम — [मुख्य क्रिया का सामान्य भूतकाल] + [सहायक क्रिया 'जाना' का काल-रूप] — तथा कर्म के लिंग-वचन के अनुसार क्रिया समन्वय (Object Agreement) में पूर्ण दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में कर्मवाच्य (Passive Voice) का निर्माण तब किया जाता है जब वाक्य में कर्ता के बजाय **कर्म (Object)** मुख्य केंद्रबिंदु हो:\n\n1. निर्माण का सार्वभौमिक सूत्र:\n   - **[सकर्मक मुख्य क्रिया का सामान्य भूतकालिक रूप] + [सहायक धातु 'जाना' का काल-रूप]**\n   - लिखना → **लिखा जाना** (to be written);\n     - वर्तमान काल: *पत्र लिखा जाता है* (Letter is written [masc. sing.]);\n     - वर्तमान काल: *चिट्ठियाँ लिखी जाती हैं* (Letters are written [fem. plur.]);\n     - भूतकाल: *निबंध लिखा गया* (Essay was written);\n     - भविष्य काल: *पुस्तकें लिखी जाएँगी* (Books will be written [fem. plur.]);\n   - बनाना → **बनाया जाना** (*मकान बनाए जाते हैं*);\n   - पढ़ना → **पढ़ा जाना** (*अख़बार पढ़ा गया*);\n   - देखना → **देखा जाना** (*फ़िल्में देखी गईं*)।\n\n2. कर्म-प्रधान अन्वय (Grammatical Agreement with Object):\n   - कर्मवाच्य में क्रिया का लिंग और वचन पूर्णतः **कर्म** के लिंग और वचन के अनुसार बदलता है (कर्ता के अनुसार नहीं)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 16.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 16."
+          "target": "इस आधुनिक कारखाने में प्रतिदिन हज़ारों उच्च गुणवत्ता वाले इलेक्ट्रॉनिक उपकरण और मोबाइल फोन बनाए जाते हैं।",
+          "reading": "is aadhunik kaarkhaane mein pratidin hazaaron uchch gunvatta vaale electronic upkaran aur mobile phone banaaye jaate hain. [ɪs aːd̪ʱʊnɪk kaːrkʰaːneː mẽː prət̪ɪd̪ɪn ɦəzaːrõː ʊtʃː ɡʊɳʋət̪ːaː ʋaːleː eːlɛktroːnɪk ʊpkərəɳ ɔːr moːbaːiːl foːn bənaːjeː dʒaːt̪eː hɛ̃ː] (ees ah-dhoo-NEEK kahr-KHAH-nay mayn pruh-tee-DEEN huh-ZAH-rohn ootch goon-VUHT-tah VAH-lay ay-lehk-TRAH-neek oop-KUH-ruhn owr MOH-byle fohn buh-NAH-yay JAH-tay hy-n)",
+          "translation": "In this modern factory, thousands of high quality electronic instruments and mobile phones are manufactured every day."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 16-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "कल देर रात सभी प्रमुख राष्ट्रीय समाचार चैनलों और दैनिक समाचार पत्रों द्वारा यह अत्यंत महत्वपूर्ण आधिकारिक समाचार प्रसारित किया गया।",
+          "reading": "kal der raat sabhi pramukh raashtreey samaachaar channelon aur dainik samaachaar patron dvaara yah atyant mahatvapoorna aadhikaarik samaachaar prasaarit kiya gaya. [kəl d̪eːr raːt̪ səbʱiː prəmʊkʰ raːʂʈriːj səmaːtʃaːr tʃɛːnəlõː ɔːr d̪ɛːnɪk səmaːtʃaːr pət̪rõː d̪ʋaːraː jəɦ ət̪jən̪t̪ məɦət̪ʋəpuːrɳə aːd̪ʱɪkaːrɪk səmaːtʃaːr prəsaːrɪt̪ kɪjaː ɡəjaː] (kuhl dayr raht SUH-bhee pruh-MOOKH rahsh-TREE-yuh suh-mah-CHAHR CHAY-nuh-lohn owr DY-neek suh-mah-CHAHR PUH-trohn dvah-RAH yuh uht-YUHNT muh-huht-vuh-POOR-nuh ah-dhee-KAH-reek suh-mah-CHAHR pruh-sah-REET kee-YAH GUH-yah)",
+          "translation": "Late last night, this extremely important official news was broadcast by all major national news channels and daily newspapers."
+        },
+        {
+          "target": "विश्वविद्यालय के भव्य दीक्षांत समारोह में सभी मेधावी और उत्कृष्ट छात्र-छात्राओं को स्वर्ण पदक और मानद उपाधियाँ प्रदान की गईं।",
+          "reading": "vishvavidyaalay ke bhavya deekshaant samaaroh mein sabhi medhaavi aur utkrisht chhaatr-chhaatraaon ko svarn padak aur maaniad upaadhiyaan pradaan ki gayin. [ʋɪʃʋəʋɪd̪jaːləj keː bʱəʋjə d̪iːkʃaːn̪t̪ səmaːroːɦ mẽː səbʱiː meːd̪ʱaːʋiː ɔːr ʊt̪krɪʂʈ tʃʰaːt̪r tʃʰaːt̪raːõː koː sʋərɳ pəd̪ək ɔːr maːnəd̪ ʊpaːd̪ʱɪjaː̃ prəd̪aːn kiː ɡəĩː] (veesh-vuh-veed-YAH-luy kay BHUHV-yuh deek-SHAHNT suh-mah-ROH mayn SUH-bhee may-DHAH-vee owr oot-KREESH-th CHHAH-truh-CHHAH-trah-ohn koh svuhrn PUH-duhk owr MAH-nuhd oo-pah-DHEE-yahn pruh-DAHN kee GUH-yeen)",
+          "translation": "In the grand convocation ceremony of the university, gold medals and honorary degrees were conferred upon all meritorious and outstanding students."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "कर्मवाच्य = Past Participle + जाना! (पुस्तक पढ़ी गई, पत्र लिखा गया)!"
+      ],
+      "culturalNotes": [
+        "हिंदी के समाचार पत्रों, दूरदर्शन के समाचार बुलेटिनों और प्रशासनिक विज्ञप्तियों में निष्पक्षता और वस्तुनिष्ठता (Objectivity) बनाए रखने के लिए कर्मवाच्य का सर्वाधिक उपयोग होता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"गर्मी\":",
+          "prompt": "सकर्मक वाक्य «अध्यापक ने कॉपियाँ जाँचीं» का मानक कर्मवाच्य रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 16.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सर्दी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («वसंत» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पतझड़» का अनुचित स्थान)"
+            "अध्यापक द्वारा कॉपियाँ जाँची गईं (Adhyaapak dvaara copy-aan jaanchi gayin - Notebooks were checked by the teacher [fem. plur. agreement])",
+            "अध्यापक द्वारा कॉपियाँ जाँचा गया (पुंलिंग एकवचन दोष)",
+            "अध्यापक से कॉपियाँ जाँचना था (असमर्थता भ्रम)",
+            "कॉपियाँ अध्यापक को जाँची गईं (कारक दोष)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "'कॉपियाँ' स्त्रीलिंग बहुवचन होने के कारण क्रिया का कर्मवाच्य रूप «जाँची गईं» शुद्ध है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"गर्मी\":",
+          "prompt": "वाक्य «भारत में कई सुंदर त्यौहार ___» में कर्मवाच्य का सही वर्तमान काल रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 16.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («वसंत» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पतझड़» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सर्दी» का अशुद्ध रूप)"
+            "मनाए जाते हैं (Manaaye jaate hain - Are celebrated [masc. plur. agreement with tyauhaar])",
+            "मनाया जाता है (एकवचन त्रुटि)",
+            "मनाते हैं लोग (कर्तृवाच्य रूप)",
+            "मनाया गया था (भूतकाल भ्रम)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'त्यौहार' पुंलिंग बहुवचन कर्म होने से वर्तमान काल कर्मवाच्य «मनाए जाते हैं» शुद्ध है।"
         }
       ]
     },
@@ -6689,17 +6698,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"गर्मी\": Which sentence is completely correct?",
+          "prompt": "कर्मवाच्य (Passive Voice) का लिंग-वचन समन्वय वाला पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 16.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पतझड़» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सर्दी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («वसंत» से संबंधित)"
+            "पुस्तकालय में विद्यार्थियों द्वारा अनेक दुर्लभ पुस्तकें पढ़ी जाती हैं। (In the library many rare books are read by students.)",
+            "पुस्तकालय में विद्यार्थियों द्वारा अनेक पुस्तकें पढ़ा जाता है।",
+            "पुस्तकालय में पुस्तकें पढ़ी जाता हैं।",
+            "पुस्तकालय में पुस्तकें पढ़े जाते हैं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«पुस्तकें» स्त्रीलिंग बहुवचन कर्म के साथ कर्मवाच्य क्रिया «पढ़ी जाती हैं» का अन्वय शत-प्रतिशत शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u16-l2": {
@@ -6707,53 +6717,62 @@
     "subject": "hindi",
     "unit": 16,
     "lessonNumber": 2,
-    "title": "कर्मवाच्य संरचनाएं: जाना-सहायक (Passive Voice) (Part 2)",
+    "title": "कर्मवाच्य में कर्ता-परसर्ग: 'के द्वारा' और 'से' (Agent Markers in Passive: ke dvaara & se)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.2) with authentic linguistic precision.",
+    "objective": "कर्मवाच्य में कर्ता के साथ प्रयुक्त होने वाले परसर्गों — औपचारिक/संस्थागत संदर्भ में 'के द्वारा / द्वारा' तथा व्यक्तिगत संदर्भ में 'से' — के विशिष्ट प्रयोग नियमों में निपुण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "कर्मवाच्य वाक्यों में जब कर्ता (Logical Subject / Agent) को वाक्य में व्यक्त किया जाता है, तब उसके साथ दो प्रमुख परसर्ग लगते हैं:\n\n1. **'के द्वारा' अथवा 'द्वारा' (By / Through — Formal / Institutional)**:\n   - सरकारी, विधिक, संस्थागत, वैज्ञानिक या औपचारिक संदर्भों में कर्ता के साथ **'द्वारा / के द्वारा'** अथवा **'की ओर से'** लगाया जाता है:\n     - *सरकार द्वारा नई योजना शुरू की गई* (New scheme was launched by the government);\n     - *न्यायालय के द्वारा फैसला सुनाया गया* (Verdict was delivered by the court);\n     - *पुलिस द्वारा अपराधी पकड़ा गया* (Criminal was caught by the police)।\n\n2. **'से' (By / Instrumental — Personal / Human Agent)**:\n   - सामान्य मानवीय कर्ता के साथ 'से' का प्रयोग भी प्रचलित है:\n     - *मुझसे यह काम पूरा किया गया*;\n     - *बच्चों से सुंदर चित्र बनाए गए*।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 16.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 16."
+          "target": "केंद्रीय पर्यावरण मंत्रालय के द्वारा देश के सभी प्रमुख वन्यजीव अभयारण्यों और राष्ट्रीय उद्यानों में नए सुरक्षा नियम कड़ाई से लागू किए गए हैं।",
+          "reading": "kendreey paryaavaran mantraalay ke dvaara desh ke sabhi pramukh vanyajeev abhayaaranyon aur raashtreey udyaanon mein naye suraksha niyam kadaai se laagu kiye gaye hain. [keːn̪d̪riːj pərjaːʋərəɳ mən̪t̪raːləj keː d̪ʋaːraː d̪eːʃ keː səbʱiː prəmʊkʰ ʋənjədʒiːʋ əbʱəjaːrəɳjõː ɔːr raːʂʈriːj ʊdjaːnõː mẽː nəjeː sʊrəkʃaː nɪjəm kəɽaːiː seː laːɡuː kɪjeː ɡəjeː hɛ̃ː] (kayn-DREE-yuh puhr-yah-vuh-RUHN muhn-trah-LUY kay dvah-RAH daysh kay SUH-bhee pruh-MOOKH vuhn-yuh-JEEV uh-bhuy-AH-ruhn-yohn owr rahsh-TREE-yuh ood-YAH-nohn mayn nuh-YAY soo-ruhk-SHAH NEE-yuhm kuh-DAH-ee say LAH-goo kee-YAY GUH-yay hy-n)",
+          "translation": "New safety regulations have been strictly enforced across all major wildlife sanctuaries and national parks of the country by the Union Ministry of Environment."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 16-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "अनुभवी वैज्ञानिकों के दल द्वारा इस सुदूर और दुर्गम पर्वतीय क्षेत्र में एक अत्यंत दुर्लभ और औषधीय वनस्पति प्रजाति की खोज की गई।",
+          "reading": "anubhavi vaigyaanikon ke dal dvaara is sudoor aur durgam parvateey kshetr mein ek atyant durlabh aur aushadheey vanaspati prajaati ki khoj ki gayi. [ənʊbʱəʋiː ʋɛːɡjaːnɪkõː keː d̪əl d̪ʋaːraː ɪs sʊd̪uːr ɔːr d̪ʊrɡəm pərʋət̪iːj kʃeːt̪r mẽː eːk ət̪jən̪t̪ d̪ʊrləbʱ ɔːr ɔːʂəd̪ʱiːj ʋənəspət̪ɪ prədʒaːt̪ɪ kiː kʰoːdʒ kiː ɡəiː] (uh-noobh-HUH-vee vyg-YAH-nee-kohn kay duhl dvah-RAH ees soo-DOOR owr door-GUHM puhr-vuh-TEE-yuh KSHAY-truh mayn ayk uht-YUHNT door-LUHBH owr ow-shuh-DHEE-yuh vuh-nuhs-PUH-tee pruh-JAH-tee kee khohj kee GUH-yee)",
+          "translation": "An extremely rare and medicinal botanical species was discovered in this remote and inaccessible mountainous region by the team of experienced scientists."
+        },
+        {
+          "target": "जिला प्रशासन की ओर से बाढ़ प्रभावित सभी ग्रामीण क्षेत्रों में तुरंत आवश्यक राहत सामग्री, स्वच्छ पेयजल और औषधियाँ वितरित की गईं।",
+          "reading": "jila prashaasan ki or se baadh prabhaavit sabhi graameen kshetron mein turant aavashyak raahat saamagree, swachh peyajal aur aushadhiyaan vitarit ki gayin. [dʒɪlaː prəʃaːsən kiː oːr seː baːɽʱ prəbʱaːʋɪt̪ səbʱiː ɡraːmiːɳ kʃeːt̪rõː mẽː t̪ʊrən̪t̪ aːʋəʃjək raːɦət̪ saːməɡriː sʋətʃːʰ peːjədʒəl ɔːr ɔːʂəd̪ʱɪjaː̃ ʋɪt̪rɪt̪ kiː ɡəĩː] (jee-LAH pruh-SHAH-suhn kee ohr say bahdh pruh-bhah-VEET SUH-bhee grah-MEEN KSHAY-trohn mayn TOO-ruhnt ah-vush-YAHK RAH-huht sah-muhg-REE, SVAHTCHH pay-yuh-JUHL owr ow-shuh-DHEE-yahn vee-tuh-REET kee GUH-yeen)",
+          "translation": "Essential relief material, clean drinking water, and medicines were immediately distributed in all flood-affected rural areas on behalf of the district administration."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "संस्था/प्रशासन = 'द्वारा / के द्वारा'; निजी कर्ता = 'से' (सरकार द्वारा लागू किया गया)!"
+      ],
+      "culturalNotes": [
+        "सरकारी आदेशों में 'राज्यपाल/राष्ट्रपति के आदेश द्वारा' (By order of Governor/President) संवैधानिक वैधता और प्राधिकार का प्रतीक होता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"सर्दी\":",
+          "prompt": "औपचारिक वाक्य «सर्वोच्च न्यायालय ___ ऐतिहासिक निर्णय सुनाया गया» में उचित कर्ता-परसर्ग क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 16.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («वसंत» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पतझड़» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («तापमान» का अनुचित स्थान)"
+            "द्वारा (Dvaara - By the Supreme Court [formal agent marker])",
+            "को (Dative error for agent)",
+            "पर (Locative error)",
+            "में (In error)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "औपचारिक और न्यायिक कर्ता के साथ कर्मवाच्य में «द्वारा» या 'के द्वारा' का प्रयोग मानक है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"सर्दी\":",
+          "prompt": "वाक्य «प्रसिद्ध चित्रकार ___ यह सुंदर कलाकृति बनाई गई» में सही परसर्ग भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 16.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पतझड़» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («तापमान» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («वसंत» का अशुद्ध रूप)"
+            "के द्वारा (Ke dvaara - By the famous painter)",
+            "का (Genitive mismatch)",
+            "में (Locative error)",
+            "तक (Limit error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "कर्मवाच्य में कर्ता 'चित्रकार' के साथ «के द्वारा» सही है।"
         }
       ]
     },
@@ -6761,17 +6780,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"सर्दी\": Which sentence is completely correct?",
+          "prompt": "'के द्वारा' परसर्ग के साथ कर्मवाच्य का शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 16.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («तापमान» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («वसंत» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पतझड़» से संबंधित)"
+            "प्रधानमंत्री द्वारा नए अंतरराष्ट्रीय हवाई अड्डे का विधिवत उद्घाटन किया गया। (The new international airport was formally inaugurated by the Prime Minister.)",
+            "प्रधानमंत्री को हवाई अड्डे का उद्घाटन किया गया।",
+            "प्रधानमंत्री में हवाई अड्डा का उद्घाटन हुआ था।",
+            "प्रधानमंत्री से हवाई अड्डा खोला गया था।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«प्रधानमंत्री द्वारा... उद्घाटन किया गया» कर्मवाच्य का सर्वथा शुद्ध और मानक आधिकारिक रूप है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u16-l3": {
@@ -6779,53 +6799,62 @@
     "subject": "hindi",
     "unit": 16,
     "lessonNumber": 3,
-    "title": "कर्मवाच्य संरचनाएं: जाना-सहायक (Passive Voice) (Part 3)",
+    "title": "असमर्थता और विवशता का कर्मवाच्य: 'मुझसे नहीं खाया जाता' (Incapacity Passive: Negative Inability with से)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.3) with authentic linguistic precision.",
+    "objective": "नकारात्मक कर्मवाच्य और भाववाच्य में कर्ता + 'से' + 'नहीं' + [जाना] संरचना द्वारा शारीरिक, मानसिक या परिस्थितिजन्य असमर्थता (Incapacity / Inability) को सटीक रूप से व्यक्त करने में प्रवीण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में जब कर्मवाच्य या भाववाच्य का प्रयोग **नकारात्मक (नहीं)** के साथ किया जाता है, तब वह सामान्य निषेध नहीं बल्कि **शारीरिक या मानसिक असमर्थता (Inability / Incapacity)** प्रकट करता है:\n\n1. असमर्थता कर्मवाच्य का सूत्र:\n   - **[कर्ता + से] + [कर्म] + नहीं + [मुख्य क्रिया कृदंत + जाना का रूप]**\n   - *मुझसे यह भारी संदूक नहीं उठाया जाता* (I am physically unable to lift this heavy box);\n   - *रोगी से कड़वी दवा नहीं खाई जाती* (The patient cannot bring himself to take bitter medicine);\n   - *मुझसे उसकी गरीबी देखी नहीं गई* (I could not bear to witness his poverty [past inability])।\n\n2. अकर्मक क्रियाओं में भाववाच्य असमर्थता (Impersonal Incapacity with Intransitive Verbs):\n   - अकर्मक क्रियाओं में कर्म नहीं होता, अतः क्रिया सदैव **पुंलिंग एकवचन** रहती है:\n     - *दादी जी से अब चला नहीं जाता* (Grandmother is unable to walk now);\n     - *मुझसे इतनी रात तक बैठा नहीं जाएगा* (I won't be able to sit awake till so late)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 16.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 16."
+          "target": "लंबी और गंभीर बीमारी के बाद अत्यधिक शारीरिक दुर्बलता के कारण वृद्ध दादा जी से अब बिना सहारे अधिक देर तक चला भी नहीं जाता।",
+          "reading": "lambi aur gambheer beemaari ke baad atyadhik shaareerik durbalta ke kaaran vriddh daada ji se ab bina sahaare adhik der tak chala bhi nahin jaata. [ləmbiː ɔːr ɡəmbiːr biːmaːriː keː baːd̪ ət̪jəd̪ʱɪk ʃaːriːrɪk d̪ʊrbəlt̪aː keː kaːrəɳ ʋrɪd̪ːʱ d̪aːd̪aː dʒiː seː əb bɪnaː səɦaːreː əd̪ʱɪk d̪eːr t̪ək tʃəlaː bʱiː nəɦĩː dʒaːt̪aː] (LUHM-bee owr guhm-BHEER bee-MAH-ree kay bahd uht-yuh-DHEEK shah-ree-REEK door-buhl-TAH kay KAH-ruhn VREEDH-dh DAH-dah jee say uhb BEE-nah suh-HAH-ray uh-DHEEK dayr tuhk CHUH-lah bhee nuh-HEEN JAH-tah)",
+          "translation": "Due to extreme physical weakness after a long and serious illness, the elderly grandfather is now unable to even walk for long without support."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 16-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "भीषण गर्मी में दिनभर कठिन शारीरिक परिश्रम करने के बाद अत्यधिक थके हुए मज़दूर से शाम को और अधिक भारी काम नहीं किया गया।",
+          "reading": "bheeshan garmi mein dinbhar kathin shaareerik parishram karne ke baad atyadhik thake huye mazdoor se shaam ko aur adhik bhaari kaam nahin kiya gaya. [bʱiːʂəɳ ɡərmiː mẽː d̪ɪnbʱər kəʈʰɪn ʃaːriːrɪk pərɪʃrəm kərneː keː baːd̪ ət̪jəd̪ʱɪk t̪ʰəkeː hʊjeː məzduːr seː ʃaːm koː ɔːr əd̪ʱɪk bʱaːriː kaːm nəɦĩː kɪjaː ɡəjaː] (bhee-SHUHN GUHR-mee mayn DEEN-bhuhr KUH-theen shah-ree-REEK puh-REESH-ruhm KUHR-nay kay bahd uht-yuh-DHEEK thuh-KAY HOO-yay muhz-DOOR say shahm koh owr uh-DHEEK BHAH-ree kahm nuh-HEEN kee-YAH GUH-yah)",
+          "translation": "After doing hard manual labor all day in the intense heat, the extremely exhausted laborer was unable to do any more heavy work in the evening."
+        },
+        {
+          "target": "उस निर्दोष और असहाय अनाथ बालक की दारुण व्यथा और विवशता देखकर वहाँ उपस्थित किसी भी सहृदय व्यक्ति से उसकी उपेक्षा नहीं की गई।",
+          "reading": "us nirdosh aur asahaay anaath baalak ki daarun vyatha aur vivashata dekhkar vahaan upasthit kisi bhi sahriday vyakti se uski upeksha nahin ki gayi. [ʊs nɪrdoːʂ ɔːr əsəɦaːj ənaːt̪ʰ baːlək kiː d̪aːrʊɳ ʋjət̪ʰaː ɔːr ʋɪʋəʃt̪aː d̪eːkʰkər ʋəɦaː̃ ʊpəst̪ʰɪt̪ kɪsiː bʱiː səɦrɪd̪əj ʋjəkt̪ɪ seː ʊskiː ʊpeːkʃaː nəɦĩː kiː ɡəiː] (oos neer-DOHSH owr uh-suh-HAHY uh-NAHTH BAH-luhk kee DAH-roon vyuh-THAH owr vee-vush-TAH DAYKH-kuhr vuh-HAHN oo-puhs-THEET kee-SEE bhee suh-HREE-duhy VYUHNK-tee say OOS-kee oo-PAYK-shah nuh-HEEN kee GUH-yee)",
+          "translation": "Seeing the poignant misery and helplessness of that innocent and helpless orphan boy, no kind-hearted person present there could bear to ignore him."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "असमर्थता = कर्ता + 'से' + नहीं + verb + जाना (मुझसे नहीं खाया जाता, रोगी से नहीं चला जाता)!"
+      ],
+      "culturalNotes": [
+        "हिंदी में किसी प्रस्ताव को सीधे 'मैं नहीं करूँगा' कहने के स्थान पर 'मुझसे यह नहीं हो पाएगा' कहना अत्यधिक विनम्र, शिष्ट और निर्दोष माना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"वसंत\":",
+          "prompt": "शारीरिक असमर्थता (Inability: I cannot walk anymore) को व्यक्त करने वाला शुद्ध भाववाच्य वाक्य कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 16.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पतझड़» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («तापमान» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («डॉक्टर» का अनुचित स्थान)"
+            "मुझसे अब और नहीं चला जाता (Mujhse ab aur nahin chala jaata - I am unable to walk any further [impersonal incapacity])",
+            "मैं अब और नहीं चलूँगा (दृढ़ संकल्प/इनकार)",
+            "मुझको चलना नहीं चाहिए (कर्तव्य का निषेध)",
+            "मेरे से चलना बंद हुआ (अमानक हिंदी)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "शारीरिक असमर्थता दर्शाने के लिए कर्ता 'मुझसे' + 'नहीं चला जाता' का भाववाच्य रूप सर्वथा मानक है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"वसंत\":",
+          "prompt": "वाक्य «इतनी तेज़ धूप में उससे बाहर ___» में सही असमर्थता सूचक रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 16.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («तापमान» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («डॉक्टर» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पतझड़» का अशुद्ध रूप)"
+            "नहीं निकला जाता (Nahin nikla jaata - Is unable to go out in such sun)",
+            "नहीं निकलता है (Present habitual fact error)",
+            "नहीं निकलेगा (Future refusal error)",
+            "नहीं निकलना था (Past obligation error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "धूप के कारण विवशता/असमर्थता दर्शाने हेतु «नहीं निकला जाता» शुद्ध है।"
         }
       ]
     },
@@ -6833,17 +6862,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"वसंत\": Which sentence is completely correct?",
+          "prompt": "असमर्थता और विवशता (Incapacity Passive) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 16.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («डॉक्टर» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पतझड़» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («तापमान» से संबंधित)"
+            "गले में तीव्र संक्रमण के कारण रोगी से कुछ भी ठोस भोजन नहीं खाया जा रहा है। (Due to severe throat infection the patient is unable to eat any solid food.)",
+            "रोगी ठोस भोजन नहीं खाता है गले के कारण।",
+            "रोगी को भोजन नहीं खाया जाता है।",
+            "रोगी में भोजन नहीं खाना हुआ।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«रोगी से... भोजन नहीं खाया जा रहा है» में शारीरिक असमर्थता का कर्मवाच्य प्रयोग व्याकरण की दृष्टि से आदर्श है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u16-l4": {
@@ -6851,53 +6881,62 @@
     "subject": "hindi",
     "unit": 16,
     "lessonNumber": 4,
-    "title": "कर्मवाच्य संरचनाएं: जाना-सहायक (Passive Voice) (Part 4)",
+    "title": "अज्ञात कर्ता और औपचारिक/शासकीय सूचनाएं: कर्तृहीन कर्मवाच्य (Agentless Administrative Passive)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.4) with authentic linguistic precision.",
+    "objective": "जहाँ कर्ता अज्ञात हो, अप्रासंगिक हो या शासकीय/विधिक औपचारिकता में कर्ता का लोप अनिवार्य हो, वहाँ कर्तृहीन कर्मवाच्य (Agentless Passive) के प्रयोग में पूर्ण दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में जब कार्य महत्वपूर्ण हो और कर्ता अज्ञात, सामान्य या अप्रासंगिक हो, तब **कर्तृहीन कर्मवाच्य (Agentless Passive)** का प्रयोग किया जाता है:\n\n1. **शासकीय एवं आधिकारिक सूचनाएं (Official Notices & Decrees)**:\n   - *एतद्द्वारा सूचित किया जाता है कि...* (It is hereby informed that...);\n   - *सार्वजनिक स्थलों पर धूम्रपान वर्जित किया जाता है* (Smoking is prohibited in public places);\n   - *दोषी को पाँच वर्ष का कारावास दिया गया* (The culprit was given five years imprisonment)।\n\n2. **व्यावसायिक व सामान्य निर्देश (Business & General Notices)**:\n   - *यहाँ शुद्ध शाकाहारी भोजन परोसा जाता है* (Pure vegetarian food is served here);\n   - *यहाँ हिंदी और संस्कृत पढ़ाई जाती है* (Hindi and Sanskrit are taught here);\n   - *दुकान रविवार को बंद रखी जाती है* (Shop is kept closed on Sunday)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 16.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 16."
+          "target": "सर्वसाधारण को एतद्द्वारा सूचित किया जाता है कि आगामी राष्ट्रीय पर्व के पावन उपलक्ष्य में शहर के सभी शासकीय कार्यालय पूर्णतः बंद रखे जाएँगे।",
+          "reading": "sarvasaadhaaran ko etaddvaara soochit kiya jaata hai ki aagaami raashtreey parv ke paavan uplakshya mein shahar ke sabhi shaaskeey kaaryaalay poornatah band rakhe jaayenge. [sərʋəsaːd̪ʱaːrəɳ koː eːt̪əd̪d̪ʋaːraː suːtʃɪt̪ kɪjaː dʒaːt̪aː hɛː kɪ aːɡaːmiː raːʂʈriːj pərʋ keː paːʋən ʊpləkʃjə mẽː ʃəɦər keː səbʱiː ʃaːskiːj kaːrjaːləj puːrɳət̪əɦ bən̪d̪ rəkʰeː dʒaːẽːɡeː] (suhr-vuh-sah-DHAH-ruhn koh ay-tuhd-dvah-RAH SOO-cheet kee-YAH JAH-tah hy kee ah-GAH-mee rahsh-TREE-yuh PUHRV kay PAH-vuhn oop-LUHKSH-yuh mayn SHUH-huhr kay SUH-bhee shah-SKEE-yuh kahr-YAH-luy POOR-nuh-tuhk buhnd RUH-khay jah-AYN-gay)",
+          "translation": "The general public is hereby informed that on the auspicious occasion of the upcoming national festival, all government offices of the city will be kept completely closed."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 16-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "इस प्रतिष्ठित धर्मार्थ अस्पताल में सभी प्रकार के असाध्य और जटिल रोगों का अत्याधुनिक चिकित्सा उपकरणों द्वारा पूर्णतः निःशुल्क उपचार किया जाता है।",
+          "reading": "is pratishthit dharmaarth aspataal mein sabhi prakaar ke asaadhya aur jatil rogon ka atyaadhunik chikitsa upkaranon dvaara poornatah nihshulk upchaar kiya jaata hai. [ɪs prət̪ɪʂʈʰɪt̪ d̪ʱərmaːrt̪ʰ əspət̪aːl mẽː səbʱiː prəkaːr keː əsaːd̪ʱjə ɔːr dʒəʈɪl roːɡõː kaː ət̪jaːd̪ʱʊnɪk tʃɪkɪt̪saː ʊpkərəɳõː d̪ʋaːraː puːrɳət̪əɦ nɪɦʃʊlk ʊptʃaːr kɪjaː dʒaːt̪aː hɛː] (ees pruh-teesh-THEET dhuhr-MAHRTH uhs-puh-TAHL mayn SUH-bhee pruh-KAHR kay uh-SAHDH-yuh owr JUH-teel ROH-gohn kah uht-yah-dhoo-NEEK chee-KEET-sah oop-KUH-ruh-nohn dvah-RAH POOR-nuh-tuhk neeh-SHOOLK oop-CHAHR kee-YAH JAH-tah hy)",
+          "translation": "In this prestigious charitable hospital, completely free treatment is provided for all types of incurable and complex ailments using state-of-the-art medical instruments."
+        },
+        {
+          "target": "शहर के सभी ऐतिहासिक स्मारकों के संरक्षित परिसर में किसी भी प्रकार का कचरा फैलाना विधि द्वारा दंडनीय अपराध घोषित किया गया है।",
+          "reading": "shahar ke sabhi aitihasik smaarakon ke sanrakshit parisar mein kisi bhi prakaar ka kachra phailaana vidhi dvaara dandaneey apraadh ghoshit kiya gaya hai. [ʃəɦər keː səbʱiː ɛːt̪ɪhaːsɪk smaːrkõː keː sən̪rəkʃɪt̪ pərɪsər mẽː kɪsiː bʱiː prəkaːr kaː kətʃraː pʰɛːlaːnaː ʋɪd̪ʱɪ d̪ʋaːraː ddaɳɖniːj əpraːd̪ʱ ɡʱoːʂɪt̪ kɪjaː ɡəjaː hɛː] (SHUH-huhr kay SUH-bhee ay-tee-HAH-seek SMAH-ruh-kohn kay suhn-ruhk-SHEET puh-REE-suhr mayn kee-SEE bhee pruh-KAHR kah KUHTCH-rah fuy-LAH-nah VEE-dhee dvah-RAH duhn-duh-NEE-yuh uhp-RAHDH GHOH-sheet kee-YAH GUH-yah hy)",
+          "translation": "Littering any kind of trash in the protected premises of all historic monuments of the city has been declared a punishable offense by law."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "शासकीय सूचना = सूचित किया जाता है! नियम = घोषित किया गया है! कर्ता-रहित कर्मवाच्य!"
+      ],
+      "culturalNotes": [
+        "भारतीय रेल, डाकघरों और प्रशासनिक भवनों के सूचना-पट्टों (Notice Boards) पर कर्तृहीन कर्मवाच्य की भाषा सार्वभौमिक प्रामाणिक मानक है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"पतझड़\":",
+          "prompt": "सार्वजनिक सूचना (Public Notice: English is taught here) का शुद्ध कर्तृहीन कर्मवाच्य वाक्य कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 16.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («तापमान» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («डॉक्टर» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दवा» का अनुचित स्थान)"
+            "यहाँ अंग्रेज़ी सिखाई जाती है (Yahaan angrezi sikhaayi jaati hai - English is taught here [agentless passive])",
+            "यहाँ अंग्रेज़ी सीखता है कोई (अनिश्चित कर्ता त्रुटि)",
+            "यहाँ अंग्रेज़ी को सिखाते हैं (अशुद्ध कारक)",
+            "यहाँ अंग्रेज़ी सिखाया जाता है (लिंग असंगति)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "'अंग्रेज़ी' स्त्रीलिंग होने से कर्तृहीन कर्मवाच्य रूप «सिखाई जाती है» सर्वथा शुद्ध है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"पतझड़\":",
+          "prompt": "आधिकारिक विज्ञप्ति «एतद्द्वारा सभी नागरिकों को सूचित ___» में सही क्रिया रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 16.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («डॉक्टर» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दवा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («तापमान» का अशुद्ध रूप)"
+            "किया जाता है (Kiya jaata hai - Is hereby informed)",
+            "करता हूँ (Personal mismatch)",
+            "करते हैं लोग (Informal mismatch)",
+            "किया जाए शायद (Subjunctive doubt error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "आधिकारिक सूचनाओं में मानक कर्मवाच्य सूत्र «सूचित किया जाता है» प्रयुक्त होता है।"
         }
       ]
     },
@@ -6905,17 +6944,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"पतझड़\": Which sentence is completely correct?",
+          "prompt": "कर्तृहीन शासकीय कर्मवाच्य का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 16.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दवा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («तापमान» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («डॉक्टर» से संबंधित)"
+            "नियमों का उल्लंघन करने वाले वाहनों का चालान काटा जाएगा। (Vehicles violating rules will be challaned/fined.)",
+            "नियमों का उल्लंघन करने वाले वाहनों का चालान काटेंगे कोई।",
+            "नियम उल्लंघन वाहनों को चालान काट दिया।",
+            "चालान वाहनों में काटा जाता होगा।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«वाहनों का चालान काटा जाएगा» भविष्यत् काल का आदर्श कर्तृहीन कर्मवाच्य वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u16-l5": {
@@ -6923,53 +6963,62 @@
     "subject": "hindi",
     "unit": 16,
     "lessonNumber": 5,
-    "title": "कर्मवाच्य संरचनाएं: जाना-सहायक (Passive Voice) (Part 5)",
+    "title": "कर्तृवाच्य, कर्मवाच्य एवं भाववाच्य का समेकन व वाच्य-रूपांतरण (Voice Synthesis: Active, Passive & Impersonal)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.5) with authentic linguistic precision.",
+    "objective": "हिंदी के तीनों वाच्यों — कर्तृवाच्य (Active), कर्मवाच्य (Passive) और भाववाच्य (Impersonal) — के परस्पर रूपांतरण और संश्लिष्ट अनुच्छेदों में उनके सटीक प्रयोग की क्षमता सिद्ध करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी वाच्य व्यवस्था (Voice System) का संपूर्ण त्रिविध ढाँचा:\n\n1. **कर्तृवाच्य (Active Voice — Focus on Subject)**:\n   - कर्ता प्रधान होता है; क्रिया कर्ता के अनुसार बदलती है:\n     - *अमित पुस्तक पढ़ता है*;\n     - *श्रमिकों ने सड़क बनाई*।\n\n2. **कर्मवाच्य (Passive Voice — Focus on Object)**:\n   - केवल सकर्मक क्रियाओं का बनता है; क्रिया कर्म के अनुसार बदलती है:\n     - *अमित द्वारा पुस्तक पढ़ी जाती है*;\n     - *श्रमिकों द्वारा सड़क बनाई गई*।\n\n3. **भाववाच्य (Impersonal Voice — Focus on Action / Inability)**:\n   - केवल अकर्मक क्रियाओं का बनता है; क्रिया सदैव **पुंलिंग एकवचन** अन्य पुरुष में रहती है:\n     - *अमित से पढ़ा नहीं जाता*;\n     - *चलो, अब सोया जाए* (प्रस्ताव/इच्छा)।\n\n4. **वाच्य रूपांतरण तालिका**:\n   - कर्तृवाच्य: *बच्चे पतंग उड़ाते हैं।*\n   - कर्मवाच्य: *बच्चों द्वारा पतंग उड़ाई जाती है।*\n   - कर्तृवाच्य: *मरीज़ चल नहीं सकता।*\n   - भाववाच्य: *मरीज़ से चला नहीं जाता।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 16.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 16."
+          "target": "नगर निगम प्रशासन द्वारा शहर की सभी प्रमुख क्षतिग्रस्त सड़कों की मरम्मत का कार्य पूर्ण कर लिया गया है और शीघ्र ही यातायात सुचारु रूप से चालू कर दिया जाएगा।",
+          "reading": "nagar nigam prashaasan dvaara shahar ki sabhi pramukh kshatigrast sadakon ki marammat ka kaary poorn kar liya gaya hai aur sheeghr hi yaataayaat suchaaru roop se chaaloo kar diya jaayega. [nəɡər nɪɡəm prəʃaːsən d̪ʋaːraː ʃəɦər kiː səbʱiː prəmʊkʰ kʃət̪ɪɡrəst̪ səɽkõː kiː mərəmːət̪ kaː kaːrjə puːrɳ kər lɪjaː ɡəjaː hɛː ɔːr ʃiːɡʱr ɦiː jaːt̪aːjaːt̪ sʊtʃaːrʊ ruːp seː tʃaːluː kər d̪ɪjaː dʒaːjeːɡaː] (NUH-guhr NEE-guhm pruh-SHAH-suhn dvah-RAH SHUH-huhr kee SUH-bhee pruh-MOOKH kshuh-tee-GRUHST suh-duh-KOHN kee muh-ruhm-MUHT kah KAHR-yuh POOR-nuh kuhr LEE-yah GUH-yah hy owr SHEEGH-ruh hee yah-tah-YAHT soo-CHAH-roo roop say CHAH-loo kuhr DEE-yah jah-AY-gah)",
+          "translation": "The repair work of all major damaged roads of the city has been completed by the municipal administration and traffic will soon be restored smoothly."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 16-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "जब गंभीर रूप से बीमार वृद्ध रोगी से स्वयं अपने पैरों पर खड़ा भी नहीं हुआ गया, तब डॉक्टर के निर्देश पर परिचारकों द्वारा उसे व्हीलचेयर पर बैठाकर वार्ड में पहुँचाया गया।",
+          "reading": "jab gambheer roop se beemaar vriddh rogi se svayam apne pairon par khada bhi nahin hua gaya, tab doctor ke nirdesh par parichaarakon dvaara use wheelchair par baithaakar ward mein pahunchaaya gaya. [dʒəb ɡəmbiːr ruːp seː biːmaːr ʋrɪd̪ːʱ roːɡiː seː sʋəjəm əpneː pɛːrõː pər kʰəɽaː bʱiː nəɦĩː hʊaː ɡəjaː t̪əb ɖɔːkʈər keː nɪrd̪eːʃ pər pərɪtʃaːrkõː d̪ʋaːraː ʊseː ʋʱiːltʃeːjər pər bɛːʈʰaːkər ʋaːrɖ mẽː pəɦʊntʃaːjaː ɡəjaː] (juhb guhm-BHEER roop say bee-MAHR VREEDH-dh ROH-gee say SVAH-yuhm uhp-NAY py-ROHN puhr KHUH-dah bhee nuh-HEEN HOO-ah GUH-yah, tuhb DAHK-tuhr kay neer-DAYSH puhr puh-ree-CHAH-ruh-kohn dvah-RAH oo-SAY wheel-CHAY-uhr puhr by-THAH-kuhr wahrd mayn puh-hoon-CHAH-yah GUH-yah)",
+          "translation": "When the seriously ill elderly patient was unable to even stand on his own feet, then upon the doctor's instruction he was seated on a wheelchair by the attendants and brought to the ward."
+        },
+        {
+          "target": "आइए, अब बहुत रात हो चुकी है और हम सब अत्यधिक थक चुके हैं, इसलिए अब कुछ समय के लिए शांतिपूर्वक विश्राम किया जाए।",
+          "reading": "aaiye, ab bahut raat ho chuki hai aur hum sab atyadhik thak chuke hain, isliye ab kuchh samay ke liye shaantipoorvak vishraam kiya jaaye. [aːɪjeː əb bəɦʊt̪ raːt̪ hoː tʃʊkiː hɛː ɔːr ɦəm səb ət̪jəd̪ʱɪk t̪ʰək tʃʊkeː hɛ̃ː ɪslɪjeː əb kʊtʃʰ səməj keː lɪjeː ʃaːn̪t̪ɪpuːrʋək ʋɪʃraːm kɪjaː dʒaːjeː] (ah-EE-yay, uhb buh-hoot RAHT hoh CHOO-kee hy owr huhm suhb uht-yuh-DHEEK thuhk CHOO-kay hy-n, ees-LEE-ay uhb koochh SUH-muy kay lee-ay shahn-tee-POOR-vuhk veesh-RAHM kee-YAH JAH-yay)",
+          "translation": "Come, now it is very late at night and all of us are extremely tired, therefore let us now rest peacefully for some time."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "कर्तृवाच्य (राम पढ़ता है) → कर्मवाच्य (राम द्वारा पढ़ी जाती है) → भाववाच्य (राम से पढ़ा नहीं जाता / चला जाए)!"
+      ],
+      "culturalNotes": [
+        "सामूहिक निर्णयों में आज्ञा देने के स्थान पर 'चलो, अब भोजन किया जाए' जैसे भाववाच्य वाक्य भारतीय शिष्टाचार में समरसता और सौम्यता के परिचायक हैं।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"तापमान\":",
+          "prompt": "कर्तृवाच्य वाक्य «माली पौधों को पानी देता है» का शुद्ध कर्मवाच्य रूपांतरण क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 16.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («डॉक्टर» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दवा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अस्पताल» का अनुचित स्थान)"
+            "माली द्वारा पौधों को पानी दिया जाता है (Maali dvaara paudhon ko paani diya jaata hai - Plants are watered by the gardener)",
+            "माली से पौधों को पानी देना था (असमर्थता भ्रम)",
+            "माली पानी देता हुआ पौधों को गया (कृदंत भ्रम)",
+            "पौधों ने माली से पानी पाया (कर्तृवाच्य रूपांतरण)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«माली द्वारा... पानी दिया जाता है» कर्मवाच्य का सटीक रूपांतरण है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"तापमान\":",
+          "prompt": "सामूहिक इच्छा/प्रस्ताव (Let us rest now) व्यक्त करने वाला भाववाच्य वाक्य कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 16.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दवा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अस्पताल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («डॉक्टर» का अशुद्ध रूप)"
+            "अब विश्राम किया जाए (Ab vishraam kiya jaaye - Let rest be taken now [impersonal subjunctive])",
+            "हम विश्राम करेंगे (निश्चयात्मक भविष्य)",
+            "हमको विश्राम करना है (अनिवार्यता)",
+            "विश्राम कर दिया था हमने (सामान्य भूत)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "शिष्ट प्रस्ताव और इच्छा हेतु भाववाच्य रूप «अब विश्राम किया जाए» प्रयुक्त होता है।"
         }
       ]
     },
@@ -6977,17 +7026,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"तापमान\": Which sentence is completely correct?",
+          "prompt": "तीनों वाच्यों (कर्तृवाच्य, कर्मवाच्य, भाववाच्य) के नियमों का संपूर्ण पालन करने वाला शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 16.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अस्पताल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («डॉक्टर» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दवा» से संबंधित)"
+            "जब घायल सिपाही से और आगे नहीं चला गया, तब साथी सैनिकों द्वारा उसे सुरक्षित शिविर में पहुँचाया गया। (When the injured soldier was unable to walk any further, he was transported to the safe camp by fellow soldiers.)",
+            "जब घायल सिपाही को नहीं चला गया सैनिकों ने शिविर पहुँचाया गया।",
+            "घायल सिपाही से नहीं चला सैनिकों द्वारा शिविर में पहुँचाया।",
+            "सिपाही नहीं चला गया साथी सैनिकों में पहुँचाया था।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«सिपाही से... नहीं चला गया» (असमर्थता भाववाच्य) और «सैनिकों द्वारा... पहुँचाया गया» (सकर्मक कर्मवाच्य) दोनों का संश्लेषण व्याकरणिक दृष्टि से उत्कृष्ट है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u17-l1": {
