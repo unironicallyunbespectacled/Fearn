@@ -4,12 +4,13 @@ This file coordinates work between the parallel Antigravity instances working on
 
 ## Instance Responsibilities
 
-- **Instance 1 (Swahili & Amharic Specialist - This Window)**:
-  - **Swahili (`data/curricula/swahili.js`, `data/curricula/swahili.ledger.js`)**: **100% COMPLETE** (170/170 lessons authored by hand, 100% unique, audited, committed, and pushed).
-  - **Amharic (`data/curricula/amharic.js`, `data/curricula/amharic.ledger.js`)**: **ACTIVE FOCUS** (Units 1–12 COMPLETE: 60/170 lessons authored, audited, committed, and pushed; now authoring Unit 13 `am-u13-l1` to `am-u13-l5`).
+- **Instance 1 (This Window)**:
+  - **Audit Tooling**: Hardened `scripts/audit_curricula_uniqueness.js` with structural shingle-overlap detection, known-bad fixture validation, multi-field feedback auditing, and created tracked `scripts/install-hooks.sh` and `scripts/pre-commit-hook.sh`.
+  - **Korean (`data/curricula/korean.js`, `data/curricula/korean.ledger.js`)**: **WIP REBUILD** (Unit 1 COMPLETE: 5/170 lessons authored by hand, 100% unique, audited, committed, and pushed in `d392b64`; now authoring Unit 2 `ko-u2-l1` to `ko-u2-l5`).
+  - **Russian (`data/curricula/russian.js`, `data/curricula/russian.ledger.js`)**: **RESET TO 0/170 STUB** (Ready for unit-by-unit hand-authored rebuild).
 
-- **Instance 2 (Arabic Specialist - Parallel Window)**:
-  - **Arabic (`data/curricula/arabic.js`, `data/curricula/arabic.ledger.js`)**: **100% COMPLETE** (170/170 lessons authored by hand across all 34 units, 67% native density, 100% unique, audited, committed, and pushed).
+- **Instance 2 (Parallel Window)**:
+  - Coordinate on outstanding items (Arabic, Theatre Unit 32, Japanese/French practice feedback).
 
 ## Protocol
 1. Each instance commits strictly to its own curriculum file and ledger to avoid merge conflicts.
