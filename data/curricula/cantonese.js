@@ -4995,53 +4995,62 @@
     "subject": "cantonese",
     "unit": 12,
     "lessonNumber": 1,
-    "title": "興趣、運動同娛樂 (Hobbies & Recreation) (第1課)",
+    "title": "球類與團隊運動動詞搭配：「踢波」、「打波」、「游水」、「跑步」 (Sports & Ball Games Collocations)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元12第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語各類體育運動專屬動詞搭配體系（足踢足球用「踢波」、手打球類用「打波」、水上「游水」、陸上「跑步/做Gym」）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語在描述體育運動與各類球類競技項目時，嚴格依據肢體動作部位與力學施力方式進行極其精準之動詞搭配與構詞分工：\n\n一、球類運動專屬動詞精準分工體系：\n１．「踢波」（tek3 bo1）：專指足球運動。因足球主要依託雙腳踢擊，故動詞嚴格搭配「踢」，絕對不可講成「打足球」！例如「星期六約咗班波友去球場踢波」（週六約了一群球友去球場踢足球比賽）。\n２．「打波」（daa2 bo1）：泛指一切主要依託雙手揮擊或球拍拍擊進行之球類運動項目：\n- 「打籃球」（daa2 laam4 kau4）：雙手運球投籃。\n- 「打羽毛球」（daa2 jyu5 mou4 kau4）：手持球拍擊打羽毛球。\n- 「打乒乓波」（daa2 ping1 pong1 bo1）：打乒乓球（廣東口語通稱乒乓波）。\n- 「打網球」（daa2 mong5 kau4）：手持網球拍揮擊網球。\n- 「打排球」（daa2 paai4 kau4）：雙手墊球扣殺排球。\n\n二、田徑、水上與健身運動動詞搭配：\n１．「游水」（jau4 seoi2）：游泳鍛鍊。例如「夏天去沙灘或者公眾泳池游水消暑解熱」。\n２．「跑步 / 跑公眾步」（paau2 bou6）：跑步慢跑。例如「每日朝早圍繞維多利亞公園跑五公里鍛鍊心肺功能」。\n３．「做瑜伽」（zou6 jyu4 gaa1）：伸展肢體練習瑜伽體位法。\n４．「做Gym / 做尖」（zou6 gym）：前往健身房進行重量訓練或器械鍛鍊（在香港口語中廣泛將英文健身房口語化為「做尖」）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 12 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 12 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 12 in communication."
+          "target": "我每個禮拜三晚都會同同事去室內體育館打羽毛球，出返身汗個人精神好多。",
+          "reading": "ngo5 mui5 go3 lai5 baai3 saam1 maan5 dou1 wui5 tung4 tung4 si6 heoi3 sat1 noi6 tai2 juk6 gun2 daa2 jyu5 mou4 kau4, ceot1 faan1 san1 hon6 go3 jan4 zing1 san4 hou2 do1. [ŋɔː˩˧ muːi˩˧ kɔː˧ lɐi˩˧ paːi˧ saːm˥ maːn˩˧ tou˥ wuːi˩˧ tʰʊŋ˨˩ tʰʊŋ˨˩ siː˨ hɵy˧ sɐt̚˥ nɔːi˨ tʰɐi˧˥ jʊk̚˨ kuːn˧˥ taː˧˥ jyː˩˧ mou˨˩ kʰɐu˨˩, tsʰɵt̚˥ faːn˥ sɐn˥ hɔːn˨ kɔː˧ jɐn˨˩ tsɪŋ˥ sɐn˨˩ hou˧˥ tɔː˥] (NGOH MOOI-GOH LY-BY-SAHM-MAHN DOH WUI TOONG TOONG-SEE HOEY SUT-NOY TY-YOOK-GOON DY YU-MOU-KAU, CHUT-FAHN SUN-HON GOH-YUN JING-SUN HOH-DOH)",
+          "translation": "Every Wednesday night I go to the indoor stadium with my colleagues to play badminton; sweating it out makes me feel much more refreshed."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元12-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "細佬好中意踢波，佢由中學開始就係學校足球隊嘅主力前鋒。",
+          "reading": "sai3 lou2 hou2 zung1 ji3 tek3 bo1, keoi5 jau4 zung1 hok6 hoi1 ci2 zau6 hai6 hok6 haau6 zuk1 kau4 deoi6 ge3 zyu2 lik6 cin4 fung1. [sɐi˧ lou˧˥ hou˧˥ tsʊŋ˥ jiː˧ tʰɛːk̚˧ pɔː˥, kʰɵy˩˧ jɐu˨˩ tsʊŋ˥ hɔːk̚˨ hɔːi˥ tsʰiː˧˥ tsɐu˨ hɐi˨ hɔːk̚˨ haːu˨ tsʊk̚˥ kʰɐu˨˩ tɵy˨ kɛː˧ tsyː˧˥ lɪk̚˨ tsʰiːn˨˩ fʊŋ˥] (SY-LOU HOH-JOONG-YEE TEK-BOH, KUY YAU JOONG-HOK HOI-CHEE JAU HY HOK-HAU JOOK-KAU-DEOY GEH JYU-LIK CHEEN-FOONG)",
+          "translation": "My younger brother loves playing soccer; since secondary school he has been the starting striker of the school football team."
+        },
+        {
+          "target": "放工之後去健身室做兩個鐘頭Gym，操練下肌肉同核心力量。",
+          "reading": "fong3 gung1 zi1 hau6 heoi3 gin6 san1 sat1 zou6 loeng5 go3 zung1 tau4 gym, cou1 lin6 haa5 gei1 juk6 tung4 hat6 sam1 lik6 loeng6. [fɔːŋ˧ kʊŋ˥ tsiː˥ hɐu˨ hɵy˧ kiːn˨ sɐn˥ sɐt̚˥ tsou˨ lœːŋ˩˧ kɔː˧ tsʊŋ˥ tʰɐu˨˩ gym, tsʰou˥ liːn˨ haː˩˧ kei˥ jʊk̚˨ tʰʊŋ˨˩ hɐt̚˨ sɐm˥ lɪk̚˨ lœːŋ˨] (FONG-GONG JEE-HAU HOEY GEEN-SUN-SUT JOH LEUNG-GOH-JOONG-TAU GYM, CHOU-LEEN HAH GAY-YOOK TOONG HUK-SUM LIK-LEUNG)",
+          "translation": "After work I go to the gym to work out for two hours, training my muscles and core strength."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【運動動詞歌】足球用腳叫「踢波」，手拍手打全「打波」；水裡遨遊「去游水」，健身鍛鍊「做尖」多！"
+      ],
+      "culturalNotes": [
+        "香港市民極具運動健康意識，每逢週末康文署（LCSD）轄下之公眾足球場、羽毛球館與泳池均一位難求。而「波友」（球友）與「做尖」（做Gym）更係香港年輕一代社交生活中不可或缺之高頻文化名詞。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"人工\":",
+          "prompt": "【動詞搭配】在粵語中描述「踢足球」與「打籃球」，正確之專屬動詞短語分別係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：請假錯置）",
-            "混雜生硬詞彙之不規範語句（例項：加班未適配）",
-            "聲調助詞搭配欠妥之表達（例項：辭職誤用）"
+            "踢波、打籃球 (tek3 bo1, daa2 laam4 kau4)",
+            "打波、踢籃球",
+            "游波、做籃球",
+            "行波、搭籃球"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "足球運動量詞動詞用「踢」（踢波），手打球類用「打」（打籃球）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"人工\":",
+          "prompt": "【俚語識別】香港市民日常俗稱「去健身房進行器械重訓與體能健身」為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：加班未適配）",
-            "聲調助詞搭配欠妥之表達（例項：辭職誤用）",
-            "語序顛倒嘅非標準句式（例項：請假錯置）"
+            "做Gym / 做尖 (zou6 gym)",
+            "行街 (haang4 gaai1)",
+            "睇戲 (tai2 hei3)",
+            "唱K (coeng3 kei1)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「做Gym / 做尖」（zou6 gym）指前往健身房健身鍛鍊。"
         }
       ]
     },
@@ -5049,15 +5058,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"人工\": Which sentence is completely correct?",
+          "prompt": "【語法正誤】請選出動詞搭配完全符合粵語規範之運動表達句子：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：辭職誤用）",
-            "語序顛倒嘅非標準句式（例項：請假錯置）",
-            "混雜生硬詞彙之不規範語句（例項：加班未適配）"
+            "我同班波友每個星期六都去跑馬地踢波。 (My friends and I play soccer in Happy Valley every Saturday.)",
+            "我同班波友每個星期六都去跑馬地打足球。",
+            "我同班波友每個星期六都去跑馬地游足球。",
+            "我同班波友每個星期六都去跑馬地做足球。"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "足球運動在粵語中嚴格搭配動詞「踢」（踢波）。"
         }
       ],
       "passThreshold": 0.8
@@ -5068,53 +5077,62 @@
     "subject": "cantonese",
     "unit": 12,
     "lessonNumber": 2,
-    "title": "興趣、運動同娛樂 (Hobbies & Recreation) (第2課)",
+    "title": "戶外消閒與嶺南特色活動：「行山」、「露營」、「踩單車」、「釣魚」 (Outdoor Recreation)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元12第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港著名戶外休閒運動詞彙（行山、露營、踩單車、釣魚、滑浪）與香港知名郊野徑地理名稱（麥理浩徑、龍脊、大東山）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港擁有逾四成之廣袤郊野公園土地面積，山巒起伏碧海相連，孕育出極其興旺且全民熱愛之戶外休閒遠足文化體系：\n\n一、核心戶外消閒活動名詞與專屬動詞搭配：\n１．「行山」（haang4 saan1）：登山健行、徒步遠足。香港全民盛行登山遠足，著名經典路徑包括橫跨新界的「麥理浩徑」、貫穿南北的「衛奕信徑」、港島名勝「龍脊芒草徑」、大嶼山「大東山日落徑」以及象徵香港精神的「獅子山峰」。例如「秋高氣爽涼風習習，最好約埋三五知己去行山登上山頂俯瞰全港美景」。\n２．「踩單車」（caai2 daan1 ce1）：騎自行車腳踏車。粵語動詞專用「踩」，生動描繪雙腳踩踏踏板前進。全港著名單車徑有「沙田經大埔至大美督」以及貫通新界之「超級單車徑」。\n３．「露營」（lou6 jing4）：在郊野山嶺或海灘平地搭建帳篷野營宿營。著名露營勝地如「塔門草原」、「西貢大浪西灣海灘」與「大嶼山昂坪高原」。\n４．「釣魚」（diu3 jyu42）：在海邊碼頭防波堤垂釣或乘船出海深海垂釣。\n５．「出海滑浪 / 划獨木舟」（ceot1 hoi2 waat6 long6 / waa4 duk6 muk6 zau1）：迎風衝浪與水上皮划艇運動。\n\n二、戶外登山活動必備配備與安全防護名詞：\n- 「行山杖」（haang4 saan1 zoeng2）：支撐身體防滑減壓之登山手杖。\n- 「行山鞋」（haang4 saan1 haai4）：抓地防滑之專業登山健行鞋履。\n- 「防曬油」（fong4 saai3 jau4）：阻擋紫外線曬傷之防曬霜乳液。\n- 「蚊怕水」（man1 paa3 seoi2）：驅趕蚊蟲防叮咬之噴霧噴劑（字面意義為令蚊蟲懼怕之水劑）。\n- 「帳篷 / 營幕」（zoeng3 pung4 / jing4 mok6）：野外宿營搭建之帳篷遮蔽所。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 12 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 12 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 12 in communication."
+          "target": "秋天涼涼哋最啱去行山，我哋今個星期日打算去挑戰西貢麥理浩徑第二段。",
+          "reading": "cau1 tin1 loeng4 loeng4 dei2 zeoi3 aam1 heoi3 haang4 saan1, ngo5 dei6 gam1 go3 sing1 kei4 jat6 daa2 syun3 heoi3 tiu1 zin3 sai1 gung3 mak6 lei5 hou4 ging3 dai6 ji6 dyun6. [tsʰɐu˥ tʰiːn˥ lœːŋ˨˩ lœːŋ˨˩ tei˧˥ tsɵy˧ aːm˥ hɵy˧ haːŋ˨˩ saːn˥, ŋɔː˩˧ tei˨ kɐm˥ kɔː˧ sɪŋ˥ kʰei˨˩ jɐt˨ taː˧˥ syːn˧ hɵy˧ tʰiːu˥ tsiːn˧ sɐi˥ kʊŋ˥ mɐk̚˨ lei˩˧ hou˨˩ kɪŋ˧ tɐi˨ jiː˨ tyːn˨] (CHAU-TEEN LEUNG-LEUNG-DY JEOY-AHM HOEY HAHNG-SAHN, NGOH-DAY GUM-GOH SING-KAY-YUT DY-SUEN HOEY TEW-JEEN SY-GOONG MUK-LY-HOH-GING DY-YEE-DUEN)",
+          "translation": "Cool autumn weather is best for hiking; this Sunday we plan to take on Section 2 of the MacLehose Trail in Sai Kung."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元12-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "由沙田踩單車去大美督沿途風景好靚，仲可以欣賞成個吐露港海景添。",
+          "reading": "jau4 saa1 tin4 caai2 daan1 ce1 heoi3 daai6 mei5 duk1 jyun4 tou4 fung1 ging2 hou2 leng3, zung6 ho2 ji5 jan1 soeng2 seng4 go3 tou3 lou6 gong2 hoi2 ging2 tim1. [jɐu˨˩ saː˥ tʰiːn˨˩ tsʰaːi˧˥ taːn˥ tsʰɛː˥ hɵy˧ taːi˨ mei˩˧ tʊk̚˥ jyːn˨˩ tʰou4 fʊŋ˥ kɪŋ˧˥ hou˧˥ lɛːŋ˧, tsʊŋ˨ hɔː˧˥ jiː˩˧ jɐn˥ sœːŋ˧˥ sɛːŋ˨˩ kɔː˧ tʰou˧ lou˨ kɔːŋ˧˥ hɔːi˧˥ kɪŋ˧˥ tʰiːm˥] (YAU SAH-TEEN CHY-DAHN-CHEH HOEY DY-MAY-DOOK YUEN-TOU FOONG-GING HOH-LENG, JOONG HOH-YEE YUN-SEUNG SENG-GOH TOU-LOU-GONG HOY-GING TEEM)",
+          "translation": "Cycling from Shatin to Tai Mei Tuk offers beautiful scenery along the way, and you can also admire the entire Tolo Harbour sea view."
+        },
+        {
+          "target": "去露營記得帶齊營幕、電筒同蚊怕水，夜晚郊外好多蚊蟲㗎。",
+          "reading": "heoi3 lou6 jing4 gei3 dak1 daai3 cai4 jing4 mok6, din6 tung2 tung4 man1 paa3 seoi2, je6 maan5 gaau1 ngoi6 hou2 do1 man1 cung4 gaa3. [hɵy˧ lou˨ jɪŋ˨˩ kei˧ tɐk̚˥ taːi˧ tsʰɐi˨˩ jɪŋ˨˩ mɔːk̚˨, tiːn˨ tʰʊŋ˧˥ tʰʊŋ˨˩ mɐn˥ pʰaː˧ sɵy˧˥, jɛː˨ maːn˩˧ kaːu˥ ŋɔːi˨ hou˧˥ tɔː˥ mɐn˥ tsʰʊŋ˨˩ kaː˧] (HOEY LOU-YING GAY-DUK DY-CHY YING-MOK, DEEN-TOONG TOONG MUN-PAH-SOEY, YEH-MAHN GAU-NGOY HOH-DOH MUN-CHOONG GAH)",
+          "translation": "Remember to bring your tent, flashlight, and mosquito repellent when camping; there are many insects outdoors at night."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【戶外郊遊歌】登山遠足「去行山」，踩踏單車「踩單車」；沙灘野外「去露營」，防蚊必帶「蚊怕水」！"
+      ],
+      "culturalNotes": [
+        "香港之「行山」文化極具特色，市區與壯麗郊野公園僅相隔半小時車程。港人行山注重「山野無痕」（Leave No Trace），並常在登頂後在標高柱（俗稱「標高柱/標柱」）拍照打卡。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"請假\":",
+          "prompt": "【戶外名詞】在粵語中描述「騎自行車」與「防蚊液/驅蚊水」，地道詞彙分別係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：加班錯置）",
-            "混雜生硬詞彙之不規範語句（例項：辭職未適配）",
-            "聲調助詞搭配欠妥之表達（例項：面試誤用）"
+            "踩單車、蚊怕水 (caai2 daan1 ce1, man1 paa3 seoi2)",
+            "坐單車、防蚊汁",
+            "行單車、蚊見愁",
+            "搭單車、驅蟲油"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "自行車在粵語中稱為「單車」（動詞用「踩」），驅蚊水俗稱「蚊怕水」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"請假\":",
+          "prompt": "【香港地理】香港著名之遠足徑「龍脊」或「麥理浩徑」，其主要戶外運動類型係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：辭職未適配）",
-            "聲調助詞搭配欠妥之表達（例項：面試誤用）",
-            "語序顛倒嘅非標準句式（例項：加班錯置）"
+            "行山 (haang4 saan1 / Hiking)",
+            "唱K (coeng3 kei1)",
+            "打麻雀 (daa2 maa4 zoek3)",
+            "睇戲 (tai2 hei3)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「行山」（haang4 saan1）指登山徒步健行。"
         }
       ]
     },
@@ -5122,15 +5140,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"請假\": Which sentence is completely correct?",
+          "prompt": "【文化理解】粵語詞彙「蚊怕水」（man1 paa3 seoi2）之字面構詞理據與實際用途為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：面試誤用）",
-            "語序顛倒嘅非標準句式（例項：加班錯置）",
-            "混雜生硬詞彙之不規範語句（例項：辭職未適配）"
+            "塗抹於皮膚上令蚊蟲懼怕不敢靠近之驅蚊液 (Mosquito repellent)",
+            "用來淹死蚊子之污水",
+            "蚊子產卵喜愛之糖水",
+            "洗滌登山衣物之清潔劑"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「蚊怕水」直譯為「讓蚊子害怕的水」，即驅蚊噴霧/防蚊水。"
         }
       ],
       "passThreshold": 0.8
@@ -5141,53 +5159,62 @@
     "subject": "cantonese",
     "unit": 12,
     "lessonNumber": 3,
-    "title": "興趣、運動同娛樂 (Hobbies & Recreation) (第3課)",
+    "title": "都市娛樂與室內消遣：「睇戲」、「唱K」、「打麻雀」、「打機」 (Urban Entertainment & Nightlife)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元12第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港都市室內娛樂核心詞彙（睇戲、戲院/戲飛、唱K、打麻雀/食糊、打機/煲劇）與社交聚會地道對話。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港作為享譽國際之繁華不夜城，都市室內娛樂休閒與親朋聚會消遣活動極其豐富多元，積澱出獨具韻味之粵語專屬文化術語：\n\n一、核心都市消遣項目深度解析：\n１．「睇戲」（tai2 hei3）：觀看電影大片。在粵語中看電影一律稱為「睇戲」：\n- 「戲院」（hei3 jyun2）：放映電影之電影院。\n- 「戲飛」（hei3 fei1）：入場觀影之電影門票。\n- 「早場 / 夜場 / 午夜場」（zou2 coeng4 / je6 coeng4 / ng5 je6 coeng4）：上午特惠場次、晚間熱門場次或深夜跨日子夜場次。\n- 「爆谷」（baau3 guk1）：電影院必備香脆爆米花小食。\n２．「唱K / 去卡拉OK」（coeng3 kei1）：前往量販式卡拉OK廂房聚會引吭高歌。通宵包房唱歌特稱為「唱K唱到天光」或「通宵唱K歡聚」。\n３．「打麻雀 / 打麻將 / 游乾水」（daa2 maa4 zoek3 / jau4 gon1 seoi2）：打麻將牌局娛樂。麻將在香港又被幽默俗稱為「游乾水」（指雙手在乾燥桌面上來回洗牌搓牌如同在水中游泳）：\n- 「食糊 / 糊咗」（sik6 wu42 / wu42 zo2）：麻將牌局中成功和牌獲勝贏得籌碼彩頭。\n- 「碰 / 槓 / 摸牌 / 自摸」（pung3 / gong3 / mo2 paai2 / zi6 mo1）：麻將經典行牌術語與自己抓牌和牌。\n- 「打四圈 / 打八圈」（daa2 sei3 hyun1 / baat3 hyun1）：麻將完整對局輪數計量單位。\n４．「打機」（daa2 gei1）：操作家用遊戲主機、掌上遊戲機或手機暢玩各類電子遊戲。\n５．「煲劇」（bou1 kek6）：長時間連續追看多集電視連續劇集（如同以文火慢工細火熬「煲」老火靚湯一般傾注漫長時間與專注力）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 12 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 12 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 12 in communication."
+          "target": "今晚有部荷里活大片首映，我已經喺網上訂咗兩張戲飛，放工一齊去睇戲啦。",
+          "reading": "gam1 maan5 jau5 bou6 ho4 lei5 wut6 daai6 pin3*2 sau2 jing2, ngo5 ji5 ging1 hai2 mong5 soeng6 deng6 zo2 loeng5 zoeng1 hei3 fei1, fong3 gung1 jat1 cai4 heoi3 tai2 hei3 laa1. [kɐm˥ maːn˩˧ jɐu˩˧ pou˨ hɔː˨˩ lei˩˧ wuːt̚˨ taːi˨ pʰiːn˧˥ sɐu˧˥ jɪŋ˧˥, ŋɔː˩˧ jiː˩˧ kɪŋ˥ hɐi˩˧ mɔːŋ˩˧ sœːŋ˨ tɪŋ˨ tsɔː˧˥ lœːŋ˩˧ tsœːŋ˥ hei˧ fei˥, fɔːŋ˧ kʊŋ˥ jɐt̚˥ tsʰɐi˨˩ hɵy˧ tʰɐi˧˥ hei˧ laː˥] (GUM-MAHN YAU BOU HOH-LY-WOOT DY-PEEN SAU-YING, NGOH YEE-GING HY MONG-SEUNG DENG-JOR LEUNG-JEUNG HEY-FAY, FONG-GONG YUT-CHY HOEY TY-HEY LAH)",
+          "translation": "There is a Hollywood blockbuster premiere tonight; I have already booked two movie tickets online, let's go watch the movie together after work."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元12-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "過年嗰陣成家人圍埋打麻雀，阿婆自摸十三么，開心到不得了！",
+          "reading": "gwo3 nin4 go2 zan6 seng4 gaa1 jan4 wai4 maai4 daa2 maa4 zoek3, aa3 po4 zi6 mo1 sap6 saam1 jiu1, hoi1 sam1 dou3 bat1 dak1 liu5! [kʷɔː˧ niːn˨˩ kɔː˧˥ tsɐn˨ sɛːŋ˨˩ kaː jɐn˨˩ wɐi˨˩ maːi˨˩ taː˧˥ maː˨˩ tsœːk̚˧, aː˧ pʰɔː˨˩ tsiː˨ mɔː˥ sɐp̚˨ saːm˥ jiːu˥, hɔːi˥ sɐm˥ tou˧ pɐt̚˥ tɐk̚˥ liːu˩˧!]",
+          "translation": "During Lunar New Year the whole family gathered to play Mahjong; Grandma won by self-draw with Thirteen Orphans, she was thrilled beyond words!"
+        },
+        {
+          "target": "放假最爽就係匿喺屋企邊食外賣邊煲劇，一連睇咗八集韓劇。",
+          "reading": "fong3 gaa3 zeoi3 song2 zau6 hai6 nei1 hai2 uk1 kei2 bin1 sik6 ngoi6 maai6 bin1 bou1 kek6, jat1 lin4 tai2 zo2 baat3 zaap6 hon4 kek6. [fɔːŋ˧ kaː˧ tsɵy˧ sɔːŋ˧˥ tsɐu˨ hɐi˨ nei˥ hɐi˩˧ ʊk̚˥ kʰei˧˥ piːn˥ sɪk̚˨ ŋɔːi˨ maːi˨ piːn˥ pou˥ kʰɛːk̚˨, jɐt̚˥ liːn˨˩ tʰɐi˧˥ tsɔː˧˥ paːt̚˧ tsaːp̚˨ hɔːn˨˩ kʰɛːk̚˨] (FONG-GAH JEOY-SONG JAU HY NEY HY OOK-KAY BEEN-SIK NGOY-MY BEEN-BOU-KEK, YUT-LEEN TY-JOR BAHT-JAHK HOHN-KEK)",
+          "translation": "The best thing on holidays is hiding at home eating takeout while binge-watching dramas; I watched eight episodes of Korean drama in a row."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【市井娛樂歌】看場電影叫「睇戲」，朋友歡聚去「唱K」；洗牌築城「游乾水」，追看長劇「煲劇」迷！"
+      ],
+      "culturalNotes": [
+        "「打麻雀」（打麻將）與「食糊」（胡牌和牌）係嶺南文化之精髓，甚至衍生出海量粵語商業俚語：若談成一單大生意，香港人常稱「呢單生意真係食大糊」（這單生意真是贏了大牌發了大財）。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"加班\":",
+          "prompt": "【影視詞彙】在粵語中描述「看電影」、「電影院」與「電影票」，正確之名詞組合係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：辭職錯置）",
-            "混雜生硬詞彙之不規範語句（例項：面試未適配）",
-            "聲調助詞搭配欠妥之表達（例項：睇戲誤用）"
+            "睇戲、戲院、戲飛 (tai2 hei3, hei3 jyun2, hei3 fei1)",
+            "看電、電影室、電影券",
+            "望劇、劇院、劇票",
+            "瞧影、影城、影紙"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "看電影在粵語中稱為「睇戲」，電影院為「戲院」，電影票為「戲飛」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"加班\":",
+          "prompt": "【俚語識別】粵語生動口語「煲劇」（bou1 kek6）之確切含義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：面試未適配）",
-            "聲調助詞搭配欠妥之表達（例項：睇戲誤用）",
-            "語序顛倒嘅非標準句式（例項：辭職錯置）"
+            "連續長時間追看電視劇集 (Binge-watching TV dramas)",
+            "一邊煮煲仔飯一邊演戲",
+            "在廚房用砂鍋熬煮中藥",
+            "批評某部戲劇拍得太差"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「煲劇」（bou1 kek6）專指連續狂看追劇（如同文火慢燉）。"
         }
       ]
     },
@@ -5195,15 +5222,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"加班\": Which sentence is completely correct?",
+          "prompt": "【麻雀術語】在香港打麻雀牌局中，當某位玩家成功和牌獲勝，口語中宣告之標準說法為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：睇戲誤用）",
-            "語序顛倒嘅非標準句式（例項：辭職錯置）",
-            "混雜生硬詞彙之不規範語句（例項：面試未適配）"
+            "我食糊喇！ (ngo5 sik6 wu42 laa3! / I won / Mahjong!)",
+            "我買單喇！",
+            "我搭枱喇！",
+            "我行街喇！"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "麻將胡牌在粵語中稱為「食糊」（sik6 wu42）。"
         }
       ],
       "passThreshold": 0.8
@@ -5214,53 +5241,62 @@
     "subject": "cantonese",
     "unit": 12,
     "lessonNumber": 4,
-    "title": "興趣、運動同娛樂 (Hobbies & Recreation) (第4課)",
+    "title": "文化藝術與靜態嗜好：「睇書」、「聽歌」、「彈琴」、「畫畫」、「影相」 (Cultural Arts & Hobbies)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元12第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語文藝雅好名詞（睇書/閱讀、聽歌/音樂會、彈琴/彈結他、畫畫/寫書法、影相/打卡）與專屬動詞搭配。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在文藝雅好、音樂演奏、書畫創作與靜態美學休閒範疇，粵語擁有一整套典雅深厚且富於視覺感染力之動名詞搭配系統：\n\n一、文藝雅好專屬動詞搭配體系：\n１．「睇書 / 閱讀」（tai2 syu1 / jyut6 duk6）：閱讀書籍典籍。粵語日常口語一律統一稱作「睇書」（看書閱讀）。\n２．「聽歌 / 聽音樂會」（teng1 go1 / teng1 jam1 ngok6 wui62）：聆聽流行歌曲旋律或前往音樂廳欣賞古典交響樂演奏會。\n３．樂器演奏專屬動詞精準分化法則：\n- 鍵盤樂器與指彈撥弦樂器專用「彈」（taan4）：例如「彈琴 / 彈鋼琴」（taan4 kam4）、「彈結他」（taan4 git3 taa1，彈奏六弦吉他）、「彈古箏」（taan4 gu2 zang1，撥弄傳統古箏琴弦）。\n- 氣流吹奏管樂器專用「吹」（ceoi1）：例如「吹長笛」（ceoi1 coeng4 dek6，吹奏橫笛）、「吹色士風」（ceoi1 sik1 si6 fung1，吹奏薩克斯風爵士樂）。\n- 弓弦拉動摩擦樂器專用「拉」（laai1）：例如「拉小提琴」（laai1 siu2 tai4 kam4）、「拉二胡」（laai1 ji6 wu42）。\n４．「畫畫 / 寫書法」（waak6 waa2 / se2 syu1 faat3）：揮毫繪畫水彩油畫與研墨書寫毛筆書法藝術作品。\n５．「影相 / 攝影」（jing2 soeng2 / sip3 jing2）：拍照攝影留下珍貴影像。粵語動詞嚴格必用「影」（留影映照之本義），絕對不可講成「拍相片」！例如「去尖沙咀海旁影相打卡」（前往尖沙咀海濱長廊拍攝美麗海景並在社交網絡打卡留念）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 12 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 12 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 12 in communication."
+          "target": "佢由細到大都好有音樂天份，五歲開始學彈鋼琴，依家仲識拉小提琴添。",
+          "reading": "keoi5 jau4 sai3 dou3 daai6 dou1 hou2 jau5 jam1 ngok6 tin1 fan6, ng5 seoi3 hoi1 ci2 hok6 taan4 gong3 kam4, ji1 gaa1 zung6 sik1 laai1 siu2 tai4 kam4 tim1. [kʰɵy˩˧ jɐu˨˩ sɐi˧ tou˧ taːi˨ tou˥ hou˧˥ jɐu˩˧ jɐm˥ ŋɔːk̚˨ tʰiːn˥ fɐn˨, ŋ̩˩˧ sɵy˧ hɔːi˥ tsʰiː˧˥ hɔːk̚˨ tʰaːn˨˩ kɔːŋ˧ kʰɐm˨˩, jiː˥ kaː˥ tsʊŋ˨ sɪk̚˥ laːi˥ siu˧˥ tʰɐi˨˩ kʰɐm˨˩ tʰiːm˥] (KUY YAU SY DOU DY DOH HOH YAU YUM-NGOK TEEN-FUN, NG-SOEY HOI-CHEE HOK TAAN GONG-KUM, YEE-GAH JOONG SIK LY SIU-TY-KUM TEEM)",
+          "translation": "She has had musical talent since childhood; she started learning piano at age five, and now she also knows how to play the violin."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元12-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "假日時我最中意坐喺窗邊一邊飲手沖咖啡一邊靜靜哋睇書。",
+          "reading": "gaa3 jat6 si4 ngo5 zeoi3 zung1 ji3 co5 hai2 coeng1 bin1 jat1 bin1 jam2 sau2 cung1 gaa3 fe1 jat1 bin1 zing6 zing6 dei2 tai2 syu1. [kaː˧ jɐt˨ siː˨˩ ŋɔː˩˧ tsʰɔː˩˧ hɐi˩˧ tsʰœːŋ˥ piːn˥ jɐt̚˥ piːn˥ jɐm˧˥ sɐu˧˥ tsʰʊŋ˥ kaː˧ fɛː˥ jɐt̚˥ piːn˥ tsɪŋ˨ tsɪŋ˨ tei˧˥ tʰɐi˧˥ syː˥] (GAH-YUT SEE NGOH JEOY-JOONG-YEE CHOH HY CHEUNG-BEEN YUT-BEEN YUM SAU-CHOONG GAH-FEH YUT-BEEN JING-JING-DY TY-SYU)",
+          "translation": "On holidays I enjoy sitting by the window most, drinking pour-over coffee while quietly reading a book."
+        },
+        {
+          "target": "維多利亞港嘅日落景色好靚，吸引咗好多攝影發燒友喺度影相。",
+          "reading": "wai4 do1 lei6 aa3 gong2 ge3 jat6 lok6 ging2 sik1 hou2 leng3, kap1 jan5 zo2 hou2 do1 sip3 jing2 faat3 siu1 jau5 hai2 dou6 jing2 soeng2. [wɐi˨˩ tɔː˥ lei˨ aː˧ kɔːŋ˧˥ kɛː˧ jɐt˨ lɔːk̚˨ kɪŋ˧˥ sɪk̚˥ hou˧˥ lɛːŋ˧, kʰɐp̚˥ jɐn˩˧ tsɔː˧˥ hou˧˥ tɔː˥ sɪp̚˧ jɪŋ˧˥ faːt̚˧ siːu˥ jɐu˩˧ hɐi˩˧ tou˨ jɪŋ˧˥ sœːŋ˧˥] (WY-DOH-LEY-AH GONG GEH YUT-LOK GING-SIK HOH-LENG, KUP-YUN-JOR HOH-DOH SIP-YING FAHT-SEW-YAU HY-DOU YING-SEUNG)",
+          "translation": "The sunset over Victoria Harbour is magnificent, attracting numerous photography enthusiasts to take pictures here."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【文藝雅好訣】黑白鍵盤「彈鋼琴」，四弦拉弓「小提琴」；捕捉光影「影張相」，靜心沉醉「多睇書」！"
+      ],
+      "culturalNotes": [
+        "在粵語中，拍照一律用「影相」（留影映相之意）。狂熱愛好者俗稱為「發燒友」（如「音響發燒友」、「攝影發燒友」），此詞彙源於上世紀五六十年代香港音響愛好者之俚稱，現已成為現代漢語通用之經典詞彙。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"辭職\":",
+          "prompt": "【樂器動詞】在粵語中描述演奏「鋼琴」與演奏「小提琴」，正確之專屬動詞分別係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：面試錯置）",
-            "混雜生硬詞彙之不規範語句（例項：睇戲未適配）",
-            "聲調助詞搭配欠妥之表達（例項：游水誤用）"
+            "彈鋼琴、拉小提琴 (taan4 gong3 kam4, laai1 siu2 tai4 kam4)",
+            "拉鋼琴、彈小提琴",
+            "吹鋼琴、打小提琴",
+            "踢鋼琴、做小提琴"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "鍵盤樂器用「彈」（彈鋼琴），弦樂拉弓用「拉」（拉小提琴）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"辭職\":",
+          "prompt": "【動詞搭配】欲表達「拿相機在海濱長廊拍照留念」，地道之粵語表達係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：睇戲未適配）",
-            "聲調助詞搭配欠妥之表達（例項：游水誤用）",
-            "語序顛倒嘅非標準句式（例項：面試錯置）"
+            "喺海濱長廊影相 (hai2 hoi2 ban1 coeng4 long4 jing2 soeng2)",
+            "喺海濱長廊拍相",
+            "喺海濱長廊打相",
+            "喺海濱長廊做相"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "拍照在粵語中嚴格使用動詞「影」（影相）。"
         }
       ]
     },
@@ -5268,15 +5304,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"辭職\": Which sentence is completely correct?",
+          "prompt": "【俚語溯源】粵語中形容對攝影、音響或特定技藝極度痴迷之行家發燒愛好者，稱之為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：游水誤用）",
-            "語序顛倒嘅非標準句式（例項：面試錯置）",
-            "混雜生硬詞彙之不規範語句（例項：睇戲未適配）"
+            "發燒友 (faat3 siu1 jau5 / Enthusiasts)",
+            "波友 (bo1 jau5)",
+            "搭枱友 (daap3 toi2 jau5)",
+            "司機友 (si1 gei1 jau5)"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "痴迷某項愛好的資深愛好者在粵語中稱為「發燒友」（faat3 siu1 jau5）。"
         }
       ],
       "passThreshold": 0.8
@@ -5287,53 +5323,62 @@
     "subject": "cantonese",
     "unit": 12,
     "lessonNumber": 5,
-    "title": "興趣、運動同娛樂 (Hobbies & Recreation) (第5課)",
+    "title": "喜好程度、頻率副詞與邀約會話：「好中意」、「最沉迷」、「得閒約埋」 (Preferences & Invitations)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元12第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語喜好程度副詞（好中意、最沉迷、麻麻哋、好反感）、頻率副詞（成日、時不時、好少）與社交邀約句型（得閒約埋）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在日常社交生活與朋友聚會交流中，精準表達個人喜好傾嚮程度、描述各類休閒活動之進行頻率並向朋友發出熱情得體之聚會邀約，擁有一套極其豐富之地道句法體系：\n\n一、喜好情感傾向精確程度梯度解析：\n１．「極度喜愛熱衷」：\n- 「好中意」（hou2 zung1 ji3）：內心非常喜歡愛好。\n- 「最沉迷」（zeoi3 cam4 mai4）：最為痴迷深陷其中熱衷投入。\n- 「超鍾意 / 勁中意」（tsiu1 zung1 ji3 / ging6 zung1 ji3）：極致超級喜歡（青年流行口語強烈讚賞用語）。\n２．「中立平淡一般」：\n- 「麻麻哋 / 麻麻哋中意」（maa4 maa2 dei2）：一般般、平平無奇、算不上十分熱愛喜好。\n３．「反感排斥厭惡」：\n- 「好反感 / 好憎」（hou2 faan2 gam2 / hou2 zang1）：非常討厭反感、內心極度抗拒排斥。\n\n二、時間頻率副詞梯度分佈體系：\n１．「成日」（seng4 jat6）：總是、整天、老是、頻繁不絕地進行某事。\n２．「經常 / 時不時」（ging1 soeng4 / si4 bat1 si4）：常常、經常進行，或三不五時、隔三差五偶爾為之。\n３．「好少」（hou2 siu2）：極少、難得一見、很少進行某項活動。\n４．「從來未試過」（cung4 loi4 mei6 si3 gwo3）：自始至終從未親身嘗試過。\n\n三、社交聚會熱情邀約地道標準句型：\n- 「得閒約埋一齊去＋活動名詞」（dak1 haan4 joek3 maai4 jat1 cai4 heoi3...）：有空的時候相約聚在一起前往某地……\n- 「你呢個禮拜六得唔得閒呀？」（請問你這個星期六是否有空閒時間呢？）\n- 「不如我哋今晚收工之後一齊去唱K囉？」（不如我們今晚下班後一起去唱歌聚會吧？）",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 12 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 12 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 12 in communication."
+          "target": "我細佬成日沉迷打機，時不時玩到半夜三更，搞到第二朝早起唔到身返學。",
+          "reading": "ngo5 sai3 lou2 seng4 jat6 cam4 mai4 daa2 gei1, si4 bat1 si4 waan2 dou3 bun3 je6 saam1 gaang1, gaau2 dou3 dai6 ji6 ziu1 zou2 hei2 m4 dou2 san1 faan1 hok6. [ŋɔː˩˧ sɐi˧ lou˧˥ sɛːŋ˨˩ jɐt˨ tsʰɐm˨˩ mɐi˨˩ taː˧˥ kei˥, siː˨˩ pɐt̚˥ siː˨˩ waːn˧˥ tou˧ puːn˧ jɛː˨ saːm˥ kaːŋ˥, kaːu˧˥ tou˧ tɐi˨ jiː˨ tsiːu˥ tsou˧˥ hei˧˥ m̩˨˩ tou˧˥ sɐn˥ faːn˥ hɔːk̚˨] (NGOH SY-LOU SENG-YUT CHUM-MY DY-GAY, SEE-BUT-SEE WAAN DOU BOON-YEH-SAHM-GAHNG, GAU-DOU DY-YEE JIU-JOU HAY-M-DOU-SUN FAHN-HOK)",
+          "translation": "My younger brother is always obsessed with playing video games, occasionally playing until the middle of the night, causing him to be unable to wake up for school the next morning."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元12-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "我對打麻雀興趣麻麻哋，反而比較中意靜靜哋睇書同埋聽古典音樂。",
+          "reading": "ngo5 deoi3 daa2 maa4 zoek3 hing3 ceoi3 maa4 maa2 dei2, faan2 ji4 bei2 gaau3 zung1 ji3 zing6 zing6 dei2 tai2 syu1 tung4 maai4 teng1 gu2 din2 jam1 ngok6. [ŋɔː˩˧ tɵy˧ taː˧˥ maː˨˩ tsœːk̚˧ hɪŋ˧ tsʰɵy˧ maː˨˩ maː˧˥ tei˧˥, faːn˩˧ jiː˨˩ pei˧˥ kaːu˧ tsʊŋ˥ jiː˧ tsɪŋ˨ tsɪŋ˨ tei˧˥ tʰɐi˧˥ syː˥ tʰʊŋ˨˩ maːi˨˩ tʰɛːŋ˥ kuː˧˥ tiːn˧˥ jɐm˥ ŋɔːk̚˨] (NGOH DEOY DY-MAH-JEUK HING-CHOEY MAH-MAH-DY, FAHN-YEE BAY-GAU JOONG-YEE JING-JING-DY TY-SYU TOONG-MY TENG GOO-DEEN YUM-NGOK)",
+          "translation": "My interest in playing Mahjong is just so-so; instead, I prefer quietly reading books and listening to classical music."
+        },
+        {
+          "target": "好耐冇見喇！今個週末大家得唔得閒？得閒約埋一齊去西貢食海鮮啦！",
+          "reading": "hou2 noi6 mou5 gin3 laa3! gam1 go3 zau1 mut6 daai6 gaa1 dak1 m4 dak1 haan4? dak1 haan4 joek3 maai4 jat1 cai4 heoi3 sai1 gung3 sik6 hoi2 sin1 laa1! [hou˧˥ nɔːi˨ mou˩˧ kiːn˧ laː˧! kɐm˥ kɔː˧ tsɐu˥ muːt̚˨ taːi˨ kaː˥ tɐk̚˥ m̩˨˩ tɐk̚˥ haːn˨˩? tɐk̚˥ haːn˨˩ jœːk̚˧ maːi˨˩ jɐt̚˥ tsʰɐi˨˩ hɵy˧ sɐi˥ kʊŋ˥ sɪk̚˨ hɔːi˧˥ siːn˥ laː˥!] (HOH-NOY MOU-GEEN LAH! GUM-GOH JAU-MOOT DY-GAH DUK-M-DUK-HAHN? DUK-HAHN YEUK-MY YUT-CHY HOEY SY-GOONG SIK HOY-SEEN LAH!)",
+          "translation": "Long time no see! Is everyone free this weekend? If free, let's gather together to go eat seafood in Sai Kung!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【聚會邀約訣】極度喜歡「好中意」，感覺一般「麻麻哋」；經常總是「成日做」，有空聚會「約埋去」！"
+      ],
+      "culturalNotes": [
+        "「得閒約埋一齊飲茶啦！」（有空一起約去喝茶飲點心吧！）係嶺南文化中最熱情親切之社交告別語與邀約常規，展現出廣東人重視朋友情誼與美食相聚的樂天生活哲學。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"面試\":",
+          "prompt": "【喜好表達】欲表達自己對某項活動「感覺一般、算不上特別喜歡」，最地道之粵語詞彙係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：睇戲錯置）",
-            "混雜生硬詞彙之不規範語句（例項：游水未適配）",
-            "聲調助詞搭配欠妥之表達（例項：行山誤用）"
+            "麻麻哋 (maa4 maa2 dei2 / So-so)",
+            "好中意 (hou2 zung1 ji3)",
+            "最沉迷 (zeoi3 cam4 mai4)",
+            "超鍾意 (tsiu1 zung1 ji3)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「麻麻哋」（maa4 maa2 dei2）在粵語中表示普通、一般般。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"面試\":",
+          "prompt": "【社交邀約】欲向朋友提出「有空時聚在一起去郊外行山」，最熱情得體之粵語句式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：游水未適配）",
-            "聲調助詞搭配欠妥之表達（例項：行山誤用）",
-            "語序顛倒嘅非標準句式（例項：睇戲錯置）"
+            "得閒約埋一齊去行山啦！ (dak1 haan4 joek3 maai4 jat1 cai4 heoi3 haang4 saan1 laa1!)",
+            "你一定要自己去行山！",
+            "我唔識同你去行山！",
+            "大家唔好去行山！"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「得閒約埋一齊去……」係粵語最標準親切之社交聚會邀約語。"
         }
       ]
     },
@@ -5341,15 +5386,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"面試\": Which sentence is completely correct?",
+          "prompt": "【頻率副詞】在粵語中，副詞「成日」（seng4 jat6）之確切含義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：行山誤用）",
-            "語序顛倒嘅非標準句式（例項：睇戲錯置）",
-            "混雜生硬詞彙之不規範語句（例項：游水未適配）"
+            "總是、整天、頻繁老是 (Always / All the time)",
+            "僅限於昨天一天",
+            "從來沒有發生過",
+            "每年只發生一次"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「成日」（seng4 jat6）在粵語中作為頻率副詞表示總是、老是、整天。"
         }
       ],
       "passThreshold": 0.8
