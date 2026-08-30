@@ -3355,53 +3355,62 @@
     "subject": "urdu",
     "unit": 8,
     "lessonNumber": 1,
-    "title": "فعل مستقبل اور شائستہ احکامات (Future Tense & Polite) (Part 1)",
+    "title": "فعل مستقبل کی گردان اور ساخت (Future Tense Morphology: گا / گی / گے / گیں)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 8.1) with authentic precision.",
+    "objective": "فعل مستقبل کے لاحقوں (گا/گی/گے/گیں) اور تمام ضمیروں کے ساتھ درست گردان و اعراب پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں فعل مستقبل (Future Tense) کی ساخت:\n\n1. **مستقبل کا مفہوم**:\n   - آنے والے زمانے میں کسی کام کے واقع ہونے کا بیان۔\n\n2. **فعل کی بنیادی ساخت (مضارع صیغہ + لاحقۂ مستقبل)**:\n   - **میں**: «میں کل خط لکھوں **گا**» (مذکر) / «میں خط لکھوں **گی**» (مؤنث)؛\n   - **ہم**: «ہم محنت کریں **گے**» / «ہم محنت کریں **گیں**»؛\n   - **تو**: «تو جائے **گا**» / «تو جائے **گی**»؛\n   - **تم**: «تم آؤ **گے**» / «تم آؤ **گی**»؛\n   - **وہ / یہ (واحد)**: «وہ سبق یاد کرے **گا**» / «وہ یاد کرے **گی**»؛\n   - **آپ / وہ (جمع و تعظیمی)**: «آپ تشریف لائیں **گے**»، «وہ آئیں **گے**»؛\n   - **مؤنث جمع**: «لڑکیاں گیت گائیں **گیں**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ہم اگلے ہفتے ایک اہم قومی علمی کانفرنس میں شرکت کے لیے اسلام آباد جائیں گے۔",
+          "reading": "Hum aglay hafte ek aham qaumi ilmi conference mein shirkat ke liye Islamabad jaayen gay. [həm əɡleː hʌfteː eːk əɦəm qɔːmiː ɪlmiː kaːnfrəns mẽː ʃɪrkət̪ keː lɪjeː ɪslaːmaːbaːd̪ dʒaːẽː ɡeː] (HOOM uhg-LAY HUHF-tay AYK UH-huhm QOW-mee EEL-mee conference mayn sheer-KUHT kay lee-AY ees-lahm-ah-BAHD jah-AYN GAY)",
+          "translation": "We will go to Islamabad next week to participate in an important national academic conference."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 8-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "طالبہ محنت اور لگن سے پڑھائی کرے گی اور سالانہ امتحان میں اول پوزیشن حاصل کرے گی۔",
+          "reading": "Taaliba mehnat aur lagan se parhaai karay gee aur saalaana imtehaan mein awwal position haasil karay gee. [t̪aːlɪbaː mɛɦnət̪ ɔːr ləɡən seː pəɽʱaːiː kəreː ɡiː ɔːr saːlaːnəh ɪmt̪ɪhaːn mẽː əʋːəl poːzɪʃən haːsɪl kəreː ɡiː] (tah-lee-BAH muhh-NUHT owr luh-GUHN say puhrh-ah-EE kuh-RAY GEE owr sah-lah-NUH eem-tuh-HAHN mayn UHV-vuhl position hah-SEEL kuh-RAY GEE)",
+          "translation": "The female student will study with diligence and dedication and will secure the first position in the annual exam."
+        },
+        {
+          "target": "میں کل صبح سویرے نئے تحقیقی منصوبے کے تفصیلی خدوخال آپ کی خدمت میں پیش کروں گا۔",
+          "reading": "Main kal subah sawere naye tehqeeqi mansoobay ke tafseeli khadd-o-khaal aap ki khidmat mein pesh karoon ga. [mɛ̃ː kəl sʊbəh səʋeːreː nəjeː t̪əɦqiːqiː mənsuːbeː keː t̪əfsiːliː xəd̪ː-oː-xaːl aːp kiː xɪd̪mət̪ mẽː peːʃ kəruː̃ ɡaː] (myhn KUHL SOO-buh suh-VAY-ray nuh-YAY tuhh-qee-QEE muhn-soo-BAY kay tuhf-see-LEE KHUHDD-oh-KHAHL AHP kee kheed-MUHT mayn PAYSH kuh-ROON GAH)",
+          "translation": "I will present the detailed outline of the new research project to you early tomorrow morning."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مستقبل فارمولا: میں کروں گا، ہم کریں گے، وہ کرے گی، آپ فرمائیں گے!"
+      ],
+      "culturalNotes": [
+        "اردو میں مستقبل کا عزم ظاہر کرتے وقت 'انشاء اللہ' (اگر اللہ نے چاہا) کا سابقہ لگانا اسلامی و مشرقی تہذیب کا مستقل حصہ ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"بل\":",
+          "prompt": "مذکر تعظیمی فاعل «آپ» کے ساتھ فعل «آنا» کا مستقبل صیغہ کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («بازار» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («خریداری» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کارڈ» کی خرابی)"
+            "آئیں گے (Aayen gay - Respectful masculine plural future verb form)",
+            "آئے گا (مذکر واحد بے تکلف)",
+            "آؤں گا (متکلم)",
+            "آئے تھے (ماضی بعید)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "تعظیمی تخاطب 'آپ' کے ساتھ مستقبل میں «آئیں گے» مستعمل ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"بل\":",
+          "prompt": "مؤنث واحد فاعل «وہ» کے ساتھ فعل «لکھنا» کی درست مستقبل شکل کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («خریداری» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کارڈ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بازار» کا غیر درست استعمال)"
+            "لکھے گی (Likhay gee - Feminine singular future verb form)",
+            "لکھے گا (مذکر واحد)",
+            "لکھیں گے (مذکر جمع)",
+            "لکھتی تھی (ماضی استمراری)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مؤنث واحد کے ساتھ فعل مستقبل «لکھے گی» بنے گا۔"
         }
       ]
     },
@@ -3409,17 +3418,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"بل\": Which sentence is completely correct?",
+          "prompt": "فعل مستقبل کی گردان (Future Tense Morphology) کا درست جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کارڈ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بازار» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («خریداری» سے متعلق)"
+            "ہم کل صبح اپنی پوری ٹیم کے ساتھ نئے پراجیکٹ کا باقاعدہ افتتاح کریں گے۔ (We will formally inaugurate [aaghaaz/iftetaah karein gay] the new project tomorrow morning with our entire team.)",
+            "ہم افتتاح کرے گا اور سب بھاگ جائے گی۔",
+            "مستقبل صرف گزری ہوئی کہانیوں کے لیے مخصوص ہے۔",
+            "کریں گے کو جملے کے درمیان میں اسم کے اوپر لکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہم کل صبح اپنی پوری ٹیم کے ساتھ نئے پراجیکٹ کا باقاعدہ افتتاح کریں گے۔» فعل مستقبل کا فصیح اور مستند جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u8-l2": {
@@ -3427,53 +3437,62 @@
     "subject": "urdu",
     "unit": 8,
     "lessonNumber": 2,
-    "title": "فعل مستقبل اور شائستہ احکامات (Future Tense & Polite) (Part 2)",
+    "title": "شائستہ احکامات اور التجا کے درجات (Polite Imperatives: کیجیے، فرمائیے)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 8.2) with authentic precision.",
+    "objective": "امر و التجا کے مختلف درجات (تو کر، تم کرو، آپ کیجیے، فرمائیے، تشریف رکھیے) میں تمیز اور شائستہ انداز میں مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں احکامات اور التجا کے مدارج (Levels of Imperatives):\n\n1. **درجاتِ تخاطب کے مطابق امر کی تقسیم**:\n   - **تو (بے تکلف / غیر رسمی)**: «کر»، «سن»، «پڑھ» (صرف انتہائی بے تکلفی یا دعا میں)؛\n   - **تم (دوستانہ / چھوٹوں کے لیے)**: «کرو»، «سنو»، «پڑھو»، «جاؤ»؛\n   - **آپ (شائستہ و باوقار — معیار)**: «**کیجیے**»، «**سنیے**»، «**پڑھیے**»، «**جائیے**»، «**دیجیے**»، «**لیجیے**»؛\n   - **انتہائی تعظیمی (بزرگوں اور معززین کے لیے)**: «**فرمائیے**»، «**تشریف رکھیے**»، «**ملاحظہ فرمائیے**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "برائے مہربانی تشریف رکھیے اور چائے نوش فرمائیے تاکہ ہم علمی گفتگو کا آغاز کر سکیں۔",
+          "reading": "Baraah-e-mehrbaani tashreef rakhiye aur chaaye nosh farmaaiye taake hum ilmi guftagoo ka aaghaaz kar sakein. [bəraːjeː mɛːɦrbaːniː t̪əʃriːf rəkʰiːjeː ɔːr tʃaːjeː noːʃ fərmaːiːjeː t̪aːkɪ həm ɪlmiː ɡʊft̪əɡuː kaː aːɣaːz kər səkẽː] (buh-rah-yay MAY-huhr-bah-nee tuhsh-REEF ruh-KHEE-yay owr CHAH-yay NOHSH fuhr-mah-EE-yay tah-KAY HOOM EEL-mee goof-tuh-GOO kah ah-GHAHZ kuhr suh-KAYN)",
+          "translation": "Please take a seat and take tea so that we may begin our scholarly conversation."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 8-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "آپ اس اہم اور نازک معاملے پر اطمینان اور تحمل سے ٹھنڈے دل کے ساتھ غور فرمائیے۔",
+          "reading": "Aap is aham aur naazuk maamlay par itmeenaan aur tahammul se thanday dil ke saath ghaur farmaaiye. [aːp ɪs əɦəm ɔːr naːzʊk maːmleː pər ɪt̪miːnaːn ɔːr t̪əhəmːʊl seː t̪ʰəɳɖeː d̪ɪl keː saːt̪ʰ ɣɔːr fərmaːiːjeː] (AHP EES UH-huhm owr nah-ZOOK mahm-LAY puhr eet-mee-NAHN owr tuh-huhm-MOOL say thuhn-DAY DEEL kay sahth GHOWR fuhr-mah-EE-yay)",
+          "translation": "Please consider this important and delicate matter with patience, composure, and a cool heart."
+        },
+        {
+          "target": "براہِ کرم لائبریری کے تمام اصول و ضوابط کی مکمل پاسداری کیجیے اور خاموشی اختیار کیجیے۔",
+          "reading": "Baraah-e-karam library ke tamaam usool-o-zawaabit ki mukammal paasdaari keejiye aur khaamoshi ikhtiyaar keejiye. [bəraːɦ-eː-kərəm laːɪbreːriː keː t̪əmaːm ʊsuːl-oː-zəʋaːbɪt̪ kiː mʊkəmːəl paːsd̪aːriː kiːdʒɪjeː ɔːr xaːmoːʃiː ɪxt̪ɪjaːr kiːdʒɪjeː] (buh-rah-hay-KUH-ruhm library kay tuh-MAHM oo-SOOL-oh-zuh-wah-BEET kee moo-kuhm-MUHL pahs-dah-REE kee-JEE-yay owr khah-moh-SHEE eekh-tee-YAHR kee-JEE-yay)",
+          "translation": "Please observe all rules and regulations of the library completely and maintain silence."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "شائستہ احکامات: تشریف رکھیے (ادب)، غور فرمائیے (تعظیم)، کیجیے/سنیے (معیاری شائستگی)!"
+      ],
+      "culturalNotes": [
+        "اردو تہذیب میں کسی کو 'بیٹھو' یا 'کرو' کہنا غیر مہذب سمجھا جاتا ہے؛ ہمیشہ 'تشریف رکھیے' اور 'کیجیے' ہی برتا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"بازار\":",
+          "prompt": "کسی محترم مہمان کو بیٹھنے کی التجا کے لیے شائستہ ترین جملہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («خریداری» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کارڈ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («نقد» کی خرابی)"
+            "تشریف رکھیے (Tashreef rakhiye - Most refined high-honorific request to take a seat)",
+            "بیٹھ جا (بے ادبی)",
+            "بیٹھو (دوستانہ امر)",
+            "بیٹھے گا (مستقبل)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "مہمانِ گرامی کے احترام کے لیے «تشریف رکھیے» سب سے فصیح جملہ ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"بازار\":",
+          "prompt": "فعل «کرنا» کا شائستہ اور باوقار امر کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کارڈ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («نقد» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («خریداری» کا غیر درست استعمال)"
+            "کیجیے (Keejiye - Standard polite imperative for aap)",
+            "کر (تو کے لیے)",
+            "کرو (تم کے لیے)",
+            "کرتا تھا (ماضی)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "آپ کے ساتھ فعل 'کرنا' کا شائستہ امر «کیجیے» ہے۔"
         }
       ]
     },
@@ -3481,17 +3500,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"بازار\": Which sentence is completely correct?",
+          "prompt": "شائستہ احکامات اور التجا (Polite Imperatives) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («نقد» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («خریداری» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کارڈ» سے متعلق)"
+            "براہِ کرم اس اہم تعلیمی دستاویز کا بغور مطالعہ فرمائیے اور اپنی قیمتی تجاویز تحریر کیجیے۔ (Please study this important educational document carefully [mutaala'a farmaaiye] and write your valuable recommendations [tajaweez tehreer keejiye].)",
+            "دستاویز پڑھ اور جلدی لکھ۔",
+            "شائستہ احکامات صرف غصے میں بولے جاتے ہیں۔",
+            "فرمائیے کا مطلب کھانا چھیننا ہوتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«براہِ کرم اس اہم تعلیمی دستاویز کا بغور مطالعہ فرمائیے اور اپنی قیمتی تجاویز تحریر کیجیے۔» شائستہ التجا اور امر کا مکمل جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u8-l3": {
@@ -3499,53 +3519,62 @@
     "subject": "urdu",
     "unit": 8,
     "lessonNumber": 3,
-    "title": "فعل مستقبل اور شائستہ احکامات (Future Tense & Polite) (Part 3)",
+    "title": "مستقبل کے شائستہ احکامات (Future Polite Imperatives: کیجیے گا / آئیے گا)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 8.3) with authentic precision.",
+    "objective": "آنے والے وقت میں کسی کام کی شائستہ درخواست (مادہ فعل + یے گا: آئیے گا، دیجیے گا، لکھیے گا) کے نحوی اوزان پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں مستقبل کے شائستہ احکامات (Future Polite Imperatives):\n\n1. **مستقبل کے شائستہ امر کا مفہوم**:\n   - گفتگو کے فوری لمحے کے بجائے آئندہ وقت یا بعد میں کسی کام کی یاد دہانی اور التجا کے لیے مستعمل ہے۔\n\n2. **ساخت (لاحقہ «یے گا»)**:\n   - مادہ فعل + **یے گا**:\n     - «کل شام وقت پر تشریف **لائیے گا**»؛\n     - «جب خط ملے تو جواب **لکھیے گا**»؛\n     - «پہنچ کر اطلاع **دیجیے گا**»۔\n\n3. **لہجے کی نزاکت**:\n   - 'کیجیے گا' میں قطعی حکم کے بجائے انتہائی دوستانہ محبت اور باوقار التجا کا رنگ غالب ہوتا ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "جب آپ کل شام کو لاہور پہنچیں، تو برائے مہربانی مجھے اپنی خیریت کی فوری اطلاع دیجیے گا۔",
+          "reading": "Jab aap kal shaam ko Lahore pohanchein, to baraah-e-mehrbaani mujhe apni khairiyat ki fauri ittila deejiye ga. [dʒəb aːp kəl ʃaːm koː laːɦɔːr pɔɦʊntʃẽː t̪oː bəraːjeː mɛːɦrbaːniː mʊdʒʰeː əpniː xɛːrɪjət̪ kiː fɔːriː ɪt̪ːɪlaːʔ d̪iːdʒɪjeː ɡaː] (JUHB AHP KUHL SHAHM koh lah-HOHR poh-hoon-CHAYN, toh buh-rah-yay MAY-huhr-bah-nee MOOJ-hay uhp-NEE khy-ree-YUHT kee FOW-ree eet-tee-LAH dee-JEE-yay GAH)",
+          "translation": "When you reach Lahore tomorrow evening, please give me immediate news of your well-being."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 8-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "سفر پر روانہ ہونے سے پہلے اپنے تمام ضروری سفری دستاویزات اور ٹکٹ ضرور چیک کر لیجیے گا۔",
+          "reading": "Safar par rawaana hone se pehle apne tamaam zaroori safari dastaaweezat aur ticket zaroor check kar leejiye ga. [səfər pər rəʋaːnəh hoːneː seː pɛɦleː əpneː t̪əmaːm zəruːriː səfəriː d̪əst̪aːʋeːzaːt̪ ɔːr ʈɪkəʈ zəruːr tʃɛk kər liːdʒɪjeː ɡaː] (suh-FUHR puhr ruh-vah-NUH hoh-NAY say PYH-lay uhp-NAY tuh-MAHM zuh-ROO-ree suh-fuh-REE duhs-tah-way-ZAHT owr ticket zuh-ROOR check kuhr lee-JEE-yay GAH)",
+          "translation": "Please make sure to check all your essential travel documents and tickets before departing on the journey."
+        },
+        {
+          "target": "ہمارے بزرگوں کی ان قیمتی اور سنہری نصیحتوں کو ہمیشہ اپنی زندگی کا رہنما اصول بنائے رکھیے گا۔",
+          "reading": "Hamaare buzurgon ki in qeemti aur sunehri naseehaton ko hamesha apni zindagi ka rehnuma usool banaaye rakhiye ga. [həm-aːreː bʊzʊrɡõː kiː ɪn qiːmt̪iː ɔːr sʊnɛɦriː nəsiːhət̪õː koː həm-eːʃaː əpniː zɪnd̪əɡiː kaː rɛɦnʊmaː ʊsuːl bənaːjeː rəkʰiːjeː ɡaː] (huh-mah-RAY boo-zoor-GOHN kee EEN QEEM-tee owr soo-NYH-ree nuh-see-huh-TOHN koh huh-MAY-shah uhp-NEE zeen-duh-GEE kah ryh-noo-MAH oo-SOOL buh-nah-YAY ruh-KHEE-yay GAH)",
+          "translation": "Always keep these valuable and golden counsels of our elders as the guiding principles of your life."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مستقبل امر فارمولا: لائیے گا، دیجیے گا، کیجیے گا، یاد رکھیے گا!"
+      ],
+      "culturalNotes": [
+        "اردو خطوط اور رخصت کے لمحات میں 'ہمیں اپنی دعاؤں میں یاد رکھیے گا' کہنا الفت اور احترام کا لازوال فقرہ ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"خریداری\":",
+          "prompt": "آئندہ وقت میں تشریف لانے کی شائستہ التجا کے لیے کون سا لفظ آئے گا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («کارڈ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («نقد» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («گھر» کی خرابی)"
+            "تشریف لائیے گا (Tashreef laaiye ga - Future polite imperative requesting attendance later)",
+            "آ (غیر رسمی)",
+            "آئے تھے (ماضی)",
+            "آ رہا ہے (حال)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "مستقبل میں آنے کی شائستہ التجا کے لیے «تشریف لائیے گا» بولا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"خریداری\":",
+          "prompt": "مستقبل کے شائستہ امر «دیجیے گا» کا درست نحوی استعمال کس جملے میں ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («نقد» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («گھر» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کارڈ» کا غیر درست استعمال)"
+            "پہنچ کر اطلاع دیجیے گا (Please give information after reaching - Correct future polite imperative)",
+            "کل اطلاع دی تھی (ماضی)",
+            "اطلاع دیتا ہے (حال)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«پہنچ کر اطلاع دیجیے گا» مستقبل کے شائستہ امر کا بہترین نمونہ ہے۔"
         }
       ]
     },
@@ -3553,17 +3582,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"خریداری\": Which sentence is completely correct?",
+          "prompt": "مستقبل کے شائستہ احکامات (Future Polite Imperatives) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («گھر» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کارڈ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («نقد» سے متعلق)"
+            "جب آپ اگلے ماہ تقریب میں تشریف لائیں تو اپنے ہمراہ اپنے قیمتی تحقیقی مقالے کا مسودہ ضرور لائیے گا۔ (When you attend the ceremony next month, please do bring along the draft of your valuable research paper [zaroor laaiye ga].)",
+            "کل مسودہ مت لایا تھا اور روئی۔",
+            "لائیے گا صرف گانے میں استعمال ہوتا ہے۔",
+            "مستقبل کے امر میں ہمیشہ نفی کرنا لازمی ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«جب آپ اگلے ماہ تقریب میں تشریف لائیں تو اپنے ہمراہ اپنے قیمتی تحقیقی مقالے کا مسودہ ضرور لائیے گا۔» مستقبل کے شائستہ امر کا شاہکار جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u8-l4": {
@@ -3571,53 +3601,62 @@
     "subject": "urdu",
     "unit": 8,
     "lessonNumber": 4,
-    "title": "فعل مستقبل اور شائستہ احکامات (Future Tense & Polite) (Part 4)",
+    "title": "منفی احکامات: 'مت' اور 'نہ' کا شائستہ استعمال (Negative Commands: نہ کیجیے / مت جائیے)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 8.4) with authentic precision.",
+    "objective": "احکامات کی نفی میں 'نہ' اور 'مت' کے شائستہ اور فصیح استعمال پر عبور حاصل کرنا اور 'نہیں' کے غیر فصیح استعمال سے بچنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں منفی احکامات اور نہی (Prohibition & Negative Imperatives) کے اصول:\n\n1. **حروفِ نہی («نہ» اور «مت»)**:\n   - احکامات اور التجا کی نفی کے لیے صرف «**نہ**» یا «**مت**» استعمال ہوتا ہے؛\n   - امر کے ساتھ 'نہیں' لگانا فاش نحوی غلطی ہے (جیسے 'نہیں کرو' کے بجائے 'مت کرو' یا 'نہ کیجیے')۔\n\n2. **شائستگی کا فرق**:\n   - **نہ + کیجیے (انتہائی شائستہ و مہذب)**: «پریشان **نہ ہوئیے**»، «وقت ضائع **نہ کیجیے**»؛\n   - **مت + کرو (روک ٹوک و حکم)**: «شور **مت مچاؤ**»، «جھوٹ **مت بولو**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "کسی بھی ناخوشگوار صورتحال میں اپنا صبر اور حوصلہ ہرگز نہ چھوڑیے اور غصے سے پرہیز کیجیے۔",
+          "reading": "Kisi bhi na-khushgawaar soorathal mein apna sabr aur hausla hargiz na chhoriye aur gussay se parhez keejiye. [kɪsiː bʱiː naː-xʊʃɡəʋaːr suːrət̪-eː-haːl mẽː əpnaː səbr ɔːr hɔːsləh hərɡɪz nə tʃʰoːɽiːjeː ɔːr ɡʊsːeː seː pərheːz kiːdʒɪjeː] (kee-SEE bhee nah-khoosh-guh-VAHR soo-ruht-ay-HAHL mayn uhp-NAH SUHBR owr HOWS-lah HUHR-geez nuh chhoh-dEE-yay owr GOOS-say say puhr-HAYZ kee-JEE-yay)",
+          "translation": "In any unpleasant situation, do not lose your patience and fortitude at all, and refrain from anger."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 8-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "امتحانی ہال کے اندر موبائل فون اور غیر متعلقہ کاغذات ساتھ لانے کی غلطی ہرگز مت کیجیے۔",
+          "reading": "Imtehaani hall ke andar mobile phone aur ghair-muta'alliqa kaaghazaat saath laane ki ghalti hargiz mat keejiye. [ɪmt̪ɪhaːniː haːl keː ənd̪ər moːbaːɪl foːn ɔːr ɣɛːr-mʊt̪əʔəlːɪqaː kaːɣzaːt̪ saːt̪ʰ laːneː kiː ɣəlt̪iː hərɡɪz mət̪ kiːdʒɪjeː] (eem-tuh-hah-NEE hahl kay uhn-DUHR mobile phone owr ghyr-moo-tuh-uhl-lee-QAH kah-ghuh-ZAHT sahth lah-NAY kee ghuhl-TEE HUHR-geez muht kee-JEE-yay)",
+          "translation": "Do not make the mistake of bringing mobile phones and irrelevant papers inside the examination hall."
+        },
+        {
+          "target": "کسی بھی بے بنیاد افواہ پر بغیر تحقیق اور تصدیق کے یقین نہ کیجیے اور امن و امان قائم رکھیے۔",
+          "reading": "Kisi bhi bay-bunyaad afwah par baghair tehqeeq aur tasdeeq ke yaqeen na keejiye aur amn-o-amaan qaaim rakhiye. [kɪsiː bʱiː beː-bʊnjaːd̪ əfʋaːh pər bəɣɛːr t̪əɦqiːq ɔːr t̪əsdiːq keː jəqiːn nə kiːdʒɪjeː ɔːr əmn-oː-əmaːn qaːʔɪm rəkʰiːjeː] (kee-SEE bhee bay-boon-YAHD uhf-VAHH puhr buh-GHYR tuhh-QEEQ owr tuhs-DEEQ kay yuh-QEEN nuh kee-JEE-yay owr UHM-noh-uh-MAHN QAH-eem ruh-KHEE-yay)",
+          "translation": "Do not believe any baseless rumor without investigation and verification, and maintain peace and order."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "منفی امر: نہ کیجیے (شائستہ التجا)، مت کیجیے (روک ٹوک)، نہیں کیجیے کہنا غلط ہے!"
+      ],
+      "culturalNotes": [
+        "اردو کے مہذب گھرانوں میں بچوں کو تنبیہ کرتے وقت بھی 'ایسا نہ کیجیے' جیسے نرم اور اثر انگیز الفاظ برتے جاتے ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"کارڈ\":",
+          "prompt": "شائستہ انداز میں وقت ضائع نہ کرنے کی التجا کے لیے کون سا جملہ سب سے فصیح ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («نقد» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («گھر» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کمرہ» کی خرابی)"
+            "وقت ضائع نہ کیجیے (Please do not waste time - Most elegant polite negative imperative)",
+            "وقت ضائع نہیں کیجیے (نحوی غلطی)",
+            "وقت ضائع نہ کیا تھا (ماضی)",
+            "وقت ضائع کرو (مثبت امر)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "شائستہ منفی امر کے لیے «نہ کیجیے» بالکل درست ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"کارڈ\":",
+          "prompt": "احکامات کی نفی میں کون سا لفظ لگانا غیر فصیح مانا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («گھر» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کمرہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («نقد» کا غیر درست استعمال)"
+            "نہیں (Nahin - Negation particle inappropriate for imperative prohibition)",
+            "نہ (درست حرفِ نہی)",
+            "مت (درست حرفِ نہی)",
+            "ہرگز نہ (تاکیدی نہی)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "امر کی نفی میں 'نہیں' کے بجائے صرف 'نہ' یا 'مت' آنا چاہیے۔"
         }
       ]
     },
@@ -3625,17 +3664,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"کارڈ\": Which sentence is completely correct?",
+          "prompt": "منفی احکامات اور شائستہ نہی (Negative Commands) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کمرہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («نقد» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («گھر» سے متعلق)"
+            "مشکلات سے گھبرا کر کبھی مایوس نہ ہوئیے بلکہ مستقل مزاجی کے ساتھ اپنی منزل کی جانب پیش قدمی جاری رکھیے۔ (Never become despondent [mayoos na hooiye] in fear of hardships, but keep advancing toward your destination with perseverance.)",
+            "مشکلات سے نہیں گھبرائیے اور بھاگ جائیے۔",
+            "منفی احکامات صرف جنگ کے میدان میں دیے جاتے ہیں۔",
+            "مت کا مطلب ہمیشہ تالی بجانا ہوتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«مشکلات سے گھبرا کر کبھی مایوس نہ ہوئیے بلکہ مستقل مزاجی کے ساتھ اپنی منزل کی جانب پیش قدمی جاری رکھیے۔» شائستہ منفی امر کا بہترین اور بلیغ جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u8-l5": {
@@ -3643,53 +3683,62 @@
     "subject": "urdu",
     "unit": 8,
     "lessonNumber": 5,
-    "title": "فعل مستقبل اور شائستہ احکامات (Future Tense & Polite) (Part 5)",
+    "title": "فعل مستقبل اور شائستہ احکامات کا جامع سمیکن (Future & Polite Imperatives Grand Synthesis)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 8.5) with authentic precision.",
+    "objective": "مستقبل کے پُرعزم بیانیے اور شائستہ احکامات (مثبت، منفی، مستقبل امر) کو کثیر الجملاتی قائدانہ اسلوب میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "فعل مستقبل اور شائستہ احکامات کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **قائدانہ اور باوقار اسلوب**:\n   - مستقبل کے قومی و انفرادی منصوبوں کے ساتھ ساتھ شائستہ احکامات اور التجا کا امتزاج:\n     - «ہم ملکی ترقی کے لیے کام **کریں گے** (مستقبل)؛ آپ خلوص سے ساتھ **دیجیے** (شائستہ امر)؛ اور مایوس **نہ ہوئیے گا** (مستقبل نہی)»۔\n\n2. **تہذیبی و ادبی حسن**:\n   - یہ متوازن زبان تحریر و تقریر کو فصاحت، متانت اور پرکشش وقار بخشتی ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ہم سب مل کر وطنِ عزیز کو ترقی کی نئی بلندیوں تک پہنچائیں گے؛ آپ خلوصِ دل سے محنت کیجیے اور باہمی اتحاد کو برقرار رکھیے گا۔",
+          "reading": "Hum sab mil kar watan-e-azeez ko taraqqi ki nayi bulandiyon tak pohanchaayen gay; aap khuloos-e-dil se mehnat keejiye aur baahami ittehaad ko barqaraar rakhiye ga. [həm səb mɪl kər ʋət̪ən-eː-əziːz koː t̪ərəqːiː kiː nəjiː bʊlənd̪ɪjõː t̪ək pɔɦʊntʃaːẽː ɡeː aːp xʊluːs-eː-d̪ɪl seː mɛɦnət̪ kiːdʒɪjeː ɔːr baːɦəmiː ɪt̪ːɪhaːd̪ koː bərqəraːr rəkʰiːjeː ɡaː] (HOOM SUHB MEEL kuhr vuh-TUHN-ay-uh-ZEEZ koh tuh-ruhq-QEE kee nuh-YEE boo-luhn-dee-YOHN tuhk poh-hoon-chah-AYN GAY, AHP khoo-LOOS-ay-DEEL say muhh-NUHT kee-JEE-yay owr bah-huh-MEE eet-tee-HAHD koh buhr-quh-RAHR ruh-KHEE-yay GAH)",
+          "translation": "Together we will take our beloved homeland to new heights of progress; please work with sincerity of heart and maintain mutual unity."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 8-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "انشاء اللہ ہم کل ایک نئے تعلیمی منصوبے کا آغاز کریں گے، آپ برائے مہربانی وقت پر تشریف لائیے گا اور اپنی قیمتی آراء پیش فرمائیے گا۔",
+          "reading": "Insha Allah hum kal ek naye ta'leemi mansoobay ka aaghaaz karein gay, aap baraah-e-mehrbaani waqt par tashreef laaiye ga aur apni qeemti aaraa pesh farmaaiye ga. [ɪnʃaːʔəlːaːh həm kəl eːk nəjeː t̪əʔliːmiː mənsuːbeː kaː aːɣaːz kərẽː ɡeː aːp bəraːjeː mɛːɦrbaːniː ʋəqt̪ pər t̪əʃriːf laːiːjeː ɡaː ɔːr əpniː qiːmt̪iː aːraːʔ peːʃ fərmaːiːjeː ɡaː] (een-shah-ALLAH HOOM KUHL AYK nuh-YAY tuh-LEE-mee muhn-soo-BAY kah ah-GHAHZ kuh-RAYN GAY, AHP buh-rah-yay MAY-huhr-bah-nee VUHKT puhr tuhsh-REEF lah-EE-yay GAH owr uhp-NEE QEEM-tee ah-RAH PAYSH fuhr-mah-EE-yay GAH)",
+          "translation": "God willing, we will begin a new educational project tomorrow; please arrive on time and present your valuable opinions."
+        },
+        {
+          "target": "ہم اپنے آبا و اجداد کی روشن روایات کی پاسداری کریں گے اور آپ بھی نوجوان نسل کی اخلاقی تربیت پر خصوصی توجہ دیجیے گا۔",
+          "reading": "Hum apne aaba-o-ajdaad ki raushan riwaayaat ki paasdaari karein gay aur aap bhi naujawaan nasal ki akhlaaqi tarbiyat par khusoosi tawajjuh deejiye ga. [həm əpneː aːbaː-oː-ədʒd̪aːd̪ kiː rɔːʃən rɪʋaːjaːt̪ kiː paːsd̪aːriː kərẽː ɡeː ɔːr aːp bʱiː nɔːdʒəʋaːn nəsl kiː əxlaːqiː t̪ərbiːjət̪ pər xʊsuːsiː t̪əʋədʒːʊh d̪iːdʒɪjeː ɡaː] (HOOM uhp-NAY ah-bah-oh-uhj-DAHD kee row-SHUHN ree-wah-YAHT kee pahs-dah-REE kuh-RAYN GAY owr AHP bhee now-juh-VAHN NUH-suhl kee ukh-lah-QEE tuhr-bee-YUHT puhr khoo-SOO-see tuh-vuhj-JOOH dee-JEE-yay GAH)",
+          "translation": "We will uphold the luminous traditions of our ancestors, and you too please pay special attention to the moral training of the young generation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع مستقبل و امر: پہنچائیں گے (مستقبل)، محنت کیجیے (امر)، برقرار رکھیے گا (مستقبل امر)!"
+      ],
+      "culturalNotes": [
+        "اردو کی سیاسی، سماجی اور قومی خطابت میں یہ متوازن اسلوب عوام کے دلوں میں اعتماد، جوش اور احترام کا سحر انگیز جذبہ بیدار کرتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"نقد\":",
+          "prompt": "مستقبل کے عزم اور شائستہ التجا کے امتزاج کا فصیح ترین جملہ منتخب کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («گھر» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کمرہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («باورچی خانہ» کی خرابی)"
+            "ہم محنت کریں گے، آپ رہنمائی فرمائیے (We will work hard, please guide us - Harmonious combination of future pledge and polite imperative)",
+            "ہم محنت کرے گا اور تم سکھاؤ (غیر فصیح)",
+            "ہم نے محنت کی تھی (ماضی بعید)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«ہم محنت کریں گے، آپ رہنمائی فرمائیے» مستقبل کے عزم اور التجا کا پروقار جملہ ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"نقد\":",
+          "prompt": "شائستہ مستقبل امر «کیجیے گا» اور مستقبل فعل کا باہمی تعلق کیا ظاہر کرتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کمرہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («باورچی خانہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («گھر» کا غیر درست استعمال)"
+            "آئندہ کے مربوط لائحۂ عمل اور باہمی تعاون کا باوقار اظہار (Coordinated future plan and mutual cooperation)",
+            "صرف غصہ اور جھگڑا",
+            "صرف پرانی یادیں",
+            "بے معنی الفاظ"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ آئندہ کے لائحۂ عمل اور باہمی احترام و تعاون کو ظاہر کرتا ہے۔"
         }
       ]
     },
@@ -3697,17 +3746,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"نقد\": Which sentence is completely correct?",
+          "prompt": "فعل مستقبل اور شائستہ احکامات کے جامع سمیکن (Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («باورچی خانہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («گھر» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کمرہ» سے متعلق)"
+            "ہم سب مل کر علم و حکمت کے چراغ روشن کریں گے؛ آپ اس تعلیمی مشن میں ہمارا ساتھ دیجیے اور کبھی مایوس نہ ہوئیے گا۔ (Together we will light the lamps of knowledge and wisdom [roshan karein gay]; please support us [saath deejiye] in this mission and never become despondent [mayoos na hooiye ga].)",
+            "ہم چراغ جلائے گا اور سب بھاگ جائے گی۔",
+            "جامع سمیکن صرف اندھیرے میں بیٹھنے کو کہتے ہیں۔",
+            "مستقبل اور امر ایک ساتھ آنا ممنوع ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہم سب مل کر علم و حکمت کے چراغ روشن کریں گے؛ آپ اس تعلیمی مشن میں ہمارا ساتھ دیجیے اور کبھی مایوس نہ ہوئیے گا۔» مستقبل اور شائستہ احکامات کا کامل سمیکن ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u9-l1": {

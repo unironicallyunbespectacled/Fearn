@@ -39,14 +39,14 @@
     "ur-u7-l2",
     "ur-u7-l3",
     "ur-u7-l4",
-    "ur-u7-l5"
-  ],
-  "stubOnly": [
+    "ur-u7-l5",
     "ur-u8-l1",
     "ur-u8-l2",
     "ur-u8-l3",
     "ur-u8-l4",
-    "ur-u8-l5",
+    "ur-u8-l5"
+  ],
+  "stubOnly": [
     "ur-u9-l1",
     "ur-u9-l2",
     "ur-u9-l3",
@@ -178,8 +178,8 @@
     "ur-u34-l4",
     "ur-u34-l5"
   ],
-  "lastCompletedLessonId": "ur-u7-l5",
-  "nextToAuthor": "ur-u8-l1"
+  "lastCompletedLessonId": "ur-u8-l5",
+  "nextToAuthor": "ur-u9-l1"
 };
   global.FEARN_LEDGERS = global.FEARN_LEDGERS || {};
   global.FEARN_LEDGERS['urdu'] = LEDGER;
