@@ -1,4 +1,4 @@
-// cantonese curriculum — fully authored CEFR A1-C2 roadmap (34 units, 170 lessons)
+// cantonese curriculum
 (function (global) {
   'use strict';
   var UNITS = [
@@ -489,7 +489,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵拼聲母辨析與初見打招呼 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵拼聲母辨析與初見打招呼】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵拼聲母辨析與初見打招呼」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "早晨，陳先生！",
@@ -502,12 +502,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-1-1】：把握「粵拼聲母辨析與初」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-1-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -552,15 +548,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «早晨»):",
-          "acceptedAnswers": [
-            "早晨",
-            "早晨"
-          ],
-          "explanation": "The target keyword was: 【早晨】"
         }
       ],
       "passThreshold": 0.8
@@ -575,7 +562,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 初次結識與姓名詢問介紹 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【初次結識與姓名詢問介紹】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「初次結識與姓名詢問介紹」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "你好，我叫陳大文，好高興識到你。",
@@ -588,12 +575,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-1-2】：把握「初次結識與姓名詢」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-1-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -638,15 +621,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «你好»):",
-          "acceptedAnswers": [
-            "你好",
-            "你好"
-          ],
-          "explanation": "The target keyword was: 【你好】"
         }
       ],
       "passThreshold": 0.8
@@ -661,7 +635,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 勞煩助人與唔該多謝分別 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【勞煩助人與唔該多謝分別】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「勞煩助人與唔該多謝分別」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "唔該晒你幫我手搬呢張枱。",
@@ -674,12 +648,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-1-3】：把握「勞煩助人與唔該多」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-1-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -724,15 +694,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «唔該»):",
-          "acceptedAnswers": [
-            "唔該",
-            "唔該"
-          ],
-          "explanation": "The target keyword was: 【唔該】"
         }
       ],
       "passThreshold": 0.8
@@ -747,7 +708,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 禮貌道歉與唔好意思借過 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【禮貌道歉與唔好意思借過】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「禮貌道歉與唔好意思借過」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "唔好意思，請問地鐵站喺邊度？",
@@ -760,12 +721,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-1-4】：把握「禮貌道歉與唔好意」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-1-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -810,15 +767,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «多謝»):",
-          "acceptedAnswers": [
-            "多謝",
-            "多謝"
-          ],
-          "explanation": "The target keyword was: 【多謝】"
         }
       ],
       "passThreshold": 0.8
@@ -833,7 +781,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 道別叮囑與日常客套拜拜 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【道別叮囑與日常客套拜拜】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「道別叮囑與日常客套拜拜」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "拜拜，聽日下晝公司會議見。",
@@ -846,12 +794,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-1-5】：把握「道別叮囑與日常客」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-1-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -896,15 +840,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «再見»):",
-          "acceptedAnswers": [
-            "再見",
-            "再見"
-          ],
-          "explanation": "The target keyword was: 【再見】"
         }
       ],
       "passThreshold": 0.8
@@ -919,7 +854,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 數字一至十與入聲韻尾 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【數字一至十與入聲韻尾】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「數字一至十與入聲韻尾」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "呢間舖頭買咗七隻茶杯。",
@@ -932,12 +867,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-2-1】：把握「數字一至十與入聲」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-2-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -982,15 +913,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «唔好意思»):",
-          "acceptedAnswers": [
-            "唔好意思",
-            "唔好意思"
-          ],
-          "explanation": "The target keyword was: 【唔好意思】"
         }
       ],
       "passThreshold": 0.8
@@ -1005,7 +927,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 量詞搭配：個、隻、條、間 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【量詞搭配：個、隻、條、間】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「量詞搭配：個、隻、條、間」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我想買兩條新鮮石斑魚。",
@@ -1018,12 +940,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-2-2】：把握「量詞搭配：個、隻」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-2-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1068,15 +986,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «對唔住»):",
-          "acceptedAnswers": [
-            "對唔住",
-            "對唔住"
-          ],
-          "explanation": "The target keyword was: 【對唔住】"
         }
       ],
       "passThreshold": 0.8
@@ -1091,7 +1000,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 茶餐廳點餐與特色飲品 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【茶餐廳點餐與特色飲品】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「茶餐廳點餐與特色飲品」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "唔該畀杯凍檸茶少甜同菠蘿油。",
@@ -1104,12 +1013,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-2-3】：把握「茶餐廳點餐與特色」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-2-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1154,15 +1059,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «食飯»):",
-          "acceptedAnswers": [
-            "食飯",
-            "食飯"
-          ],
-          "explanation": "The target keyword was: 【食飯】"
         }
       ],
       "passThreshold": 0.8
@@ -1177,7 +1073,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 問價與埋單結賬 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【問價與埋單結賬】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「問價與埋單結賬」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "老闆，呢餐飯一共幾多錢？",
@@ -1190,12 +1086,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-2-4】：把握「問價與埋單結賬」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-2-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1240,15 +1132,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «飲茶»):",
-          "acceptedAnswers": [
-            "飲茶",
-            "飲茶"
-          ],
-          "explanation": "The target keyword was: 【飲茶】"
         }
       ],
       "passThreshold": 0.8
@@ -1263,7 +1146,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 時間與日期表達 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【時間與日期表達】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「時間與日期表達」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋約咗聽日下晝三點三個字見。",
@@ -1276,12 +1159,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-2-5】：把握「時間與日期表達」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-2-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1326,15 +1205,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «點心»):",
-          "acceptedAnswers": [
-            "點心",
-            "點心"
-          ],
-          "explanation": "The target keyword was: 【點心】"
         }
       ],
       "passThreshold": 0.8
@@ -1349,7 +1219,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元3第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元3第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元3第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
@@ -1362,12 +1232,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-3-1】：把握「粵語單元3第1課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-3-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1412,15 +1278,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «蝦餃»):",
-          "acceptedAnswers": [
-            "蝦餃",
-            "蝦餃"
-          ],
-          "explanation": "The target keyword was: 【蝦餃】"
         }
       ],
       "passThreshold": 0.8
@@ -1435,7 +1292,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元3第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元3第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元3第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
@@ -1448,12 +1305,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-3-2】：把握「粵語單元3第2課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-3-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1498,15 +1351,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «燒賣»):",
-          "acceptedAnswers": [
-            "燒賣",
-            "燒賣"
-          ],
-          "explanation": "The target keyword was: 【燒賣】"
         }
       ],
       "passThreshold": 0.8
@@ -1521,7 +1365,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元3第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元3第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元3第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
@@ -1534,12 +1378,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-3-3】：把握「粵語單元3第3課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-3-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1584,15 +1424,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «叉燒包»):",
-          "acceptedAnswers": [
-            "叉燒包",
-            "叉燒包"
-          ],
-          "explanation": "The target keyword was: 【叉燒包】"
         }
       ],
       "passThreshold": 0.8
@@ -1607,7 +1438,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元3第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元3第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元3第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
@@ -1620,12 +1451,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-3-4】：把握「粵語單元3第4課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-3-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1670,15 +1497,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «腸粉»):",
-          "acceptedAnswers": [
-            "腸粉",
-            "腸粉"
-          ],
-          "explanation": "The target keyword was: 【腸粉】"
         }
       ],
       "passThreshold": 0.8
@@ -1693,7 +1511,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元3第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元3第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元3第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
@@ -1706,12 +1524,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-3-5】：把握「粵語單元3第5課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-3-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1756,15 +1570,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «春卷»):",
-          "acceptedAnswers": [
-            "春卷",
-            "春卷"
-          ],
-          "explanation": "The target keyword was: 【春卷】"
         }
       ],
       "passThreshold": 0.8
@@ -1779,7 +1584,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元4第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元4第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元4第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
@@ -1792,12 +1597,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-4-1】：把握「粵語單元4第1課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-4-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1842,15 +1643,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «蛋撻»):",
-          "acceptedAnswers": [
-            "蛋撻",
-            "蛋撻"
-          ],
-          "explanation": "The target keyword was: 【蛋撻】"
         }
       ],
       "passThreshold": 0.8
@@ -1865,7 +1657,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元4第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元4第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元4第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
@@ -1878,12 +1670,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-4-2】：把握「粵語單元4第2課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-4-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1928,15 +1716,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «菠蘿油»):",
-          "acceptedAnswers": [
-            "菠蘿油",
-            "菠蘿油"
-          ],
-          "explanation": "The target keyword was: 【菠蘿油】"
         }
       ],
       "passThreshold": 0.8
@@ -1951,7 +1730,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元4第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元4第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元4第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
@@ -1964,12 +1743,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-4-3】：把握「粵語單元4第3課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-4-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2014,15 +1789,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «凍檸茶»):",
-          "acceptedAnswers": [
-            "凍檸茶",
-            "凍檸茶"
-          ],
-          "explanation": "The target keyword was: 【凍檸茶】"
         }
       ],
       "passThreshold": 0.8
@@ -2037,7 +1803,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元4第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元4第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元4第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
@@ -2050,12 +1816,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-4-4】：把握「粵語單元4第4課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-4-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2100,15 +1862,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «奶茶»):",
-          "acceptedAnswers": [
-            "奶茶",
-            "奶茶"
-          ],
-          "explanation": "The target keyword was: 【奶茶】"
         }
       ],
       "passThreshold": 0.8
@@ -2123,7 +1876,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元4第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元4第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元4第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
@@ -2136,12 +1889,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-4-5】：把握「粵語單元4第5課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-4-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2186,15 +1935,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «鴛鴦»):",
-          "acceptedAnswers": [
-            "鴛鴦",
-            "鴛鴦"
-          ],
-          "explanation": "The target keyword was: 【鴛鴦】"
         }
       ],
       "passThreshold": 0.8
@@ -2209,7 +1949,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元5第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元5第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元5第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
@@ -2222,12 +1962,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-5-1】：把握「粵語單元5第1課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-5-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2272,15 +2008,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «地鐵»):",
-          "acceptedAnswers": [
-            "地鐵",
-            "地鐵"
-          ],
-          "explanation": "The target keyword was: 【地鐵】"
         }
       ],
       "passThreshold": 0.8
@@ -2295,7 +2022,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元5第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元5第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元5第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
@@ -2308,12 +2035,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-5-2】：把握「粵語單元5第2課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-5-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2358,15 +2081,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «巴士»):",
-          "acceptedAnswers": [
-            "巴士",
-            "巴士"
-          ],
-          "explanation": "The target keyword was: 【巴士】"
         }
       ],
       "passThreshold": 0.8
@@ -2381,7 +2095,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元5第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元5第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元5第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
@@ -2394,12 +2108,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-5-3】：把握「粵語單元5第3課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-5-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2444,15 +2154,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «小巴»):",
-          "acceptedAnswers": [
-            "小巴",
-            "小巴"
-          ],
-          "explanation": "The target keyword was: 【小巴】"
         }
       ],
       "passThreshold": 0.8
@@ -2467,7 +2168,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元5第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元5第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元5第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
@@ -2480,12 +2181,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-5-4】：把握「粵語單元5第4課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-5-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2530,15 +2227,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «電車»):",
-          "acceptedAnswers": [
-            "電車",
-            "電車"
-          ],
-          "explanation": "The target keyword was: 【電車】"
         }
       ],
       "passThreshold": 0.8
@@ -2553,7 +2241,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元5第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元5第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元5第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
@@ -2566,12 +2254,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-5-5】：把握「粵語單元5第5課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-5-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2616,15 +2300,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «渡輪»):",
-          "acceptedAnswers": [
-            "渡輪",
-            "渡輪"
-          ],
-          "explanation": "The target keyword was: 【渡輪】"
         }
       ],
       "passThreshold": 0.8
@@ -2639,7 +2314,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元6第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元6第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元6第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
@@ -2652,12 +2327,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-6-1】：把握「粵語單元6第1課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-6-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2702,15 +2373,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «的士»):",
-          "acceptedAnswers": [
-            "的士",
-            "的士"
-          ],
-          "explanation": "The target keyword was: 【的士】"
         }
       ],
       "passThreshold": 0.8
@@ -2725,7 +2387,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元6第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元6第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元6第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
@@ -2738,12 +2400,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-6-2】：把握「粵語單元6第2課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-6-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2788,15 +2446,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «車站»):",
-          "acceptedAnswers": [
-            "車站",
-            "車站"
-          ],
-          "explanation": "The target keyword was: 【車站】"
         }
       ],
       "passThreshold": 0.8
@@ -2811,7 +2460,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元6第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元6第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元6第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
@@ -2824,12 +2473,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-6-3】：把握「粵語單元6第3課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-6-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2874,15 +2519,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «車飛»):",
-          "acceptedAnswers": [
-            "車飛",
-            "車飛"
-          ],
-          "explanation": "The target keyword was: 【車飛】"
         }
       ],
       "passThreshold": 0.8
@@ -2897,7 +2533,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元6第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元6第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元6第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
@@ -2910,12 +2546,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-6-4】：把握「粵語單元6第4課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-6-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2960,15 +2592,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «八達通»):",
-          "acceptedAnswers": [
-            "八達通",
-            "八達通"
-          ],
-          "explanation": "The target keyword was: 【八達通】"
         }
       ],
       "passThreshold": 0.8
@@ -2983,7 +2606,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元6第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元6第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元6第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第6課嘅語法要點。",
@@ -2996,12 +2619,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-6-5】：把握「粵語單元6第5課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-6-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3046,15 +2665,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «增值»):",
-          "acceptedAnswers": [
-            "增值",
-            "增值"
-          ],
-          "explanation": "The target keyword was: 【增值】"
         }
       ],
       "passThreshold": 0.8
@@ -3069,7 +2679,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元7第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元7第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元7第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
@@ -3082,12 +2692,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-7-1】：把握「粵語單元7第1課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-7-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3132,15 +2738,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «買嘢»):",
-          "acceptedAnswers": [
-            "買嘢",
-            "買嘢"
-          ],
-          "explanation": "The target keyword was: 【買嘢】"
         }
       ],
       "passThreshold": 0.8
@@ -3155,7 +2752,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元7第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元7第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元7第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
@@ -3168,12 +2765,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-7-2】：把握「粵語單元7第2課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-7-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3218,15 +2811,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «幾多錢»):",
-          "acceptedAnswers": [
-            "幾多錢",
-            "幾多錢"
-          ],
-          "explanation": "The target keyword was: 【幾多錢】"
         }
       ],
       "passThreshold": 0.8
@@ -3241,7 +2825,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元7第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元7第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元7第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
@@ -3254,12 +2838,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-7-3】：把握「粵語單元7第3課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-7-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3304,15 +2884,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «埋單»):",
-          "acceptedAnswers": [
-            "埋單",
-            "埋單"
-          ],
-          "explanation": "The target keyword was: 【埋單】"
         }
       ],
       "passThreshold": 0.8
@@ -3327,7 +2898,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元7第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元7第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元7第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
@@ -3340,12 +2911,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-7-4】：把握「粵語單元7第4課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-7-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3390,15 +2957,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «找錢»):",
-          "acceptedAnswers": [
-            "找錢",
-            "找錢"
-          ],
-          "explanation": "The target keyword was: 【找錢】"
         }
       ],
       "passThreshold": 0.8
@@ -3413,7 +2971,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元7第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元7第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元7第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
@@ -3426,12 +2984,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-7-5】：把握「粵語單元7第5課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-7-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3476,15 +3030,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «減價»):",
-          "acceptedAnswers": [
-            "減價",
-            "減價"
-          ],
-          "explanation": "The target keyword was: 【減價】"
         }
       ],
       "passThreshold": 0.8
@@ -3499,7 +3044,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元8第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元8第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元8第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
@@ -3512,12 +3057,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-8-1】：把握「粵語單元8第1課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-8-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3562,15 +3103,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «平啲»):",
-          "acceptedAnswers": [
-            "平啲",
-            "平啲"
-          ],
-          "explanation": "The target keyword was: 【平啲】"
         }
       ],
       "passThreshold": 0.8
@@ -3585,7 +3117,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元8第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元8第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元8第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
@@ -3598,12 +3130,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-8-2】：把握「粵語單元8第2課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-8-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3648,15 +3176,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «貴咗»):",
-          "acceptedAnswers": [
-            "貴咗",
-            "貴咗"
-          ],
-          "explanation": "The target keyword was: 【貴咗】"
         }
       ],
       "passThreshold": 0.8
@@ -3671,7 +3190,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元8第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元8第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元8第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
@@ -3684,12 +3203,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-8-3】：把握「粵語單元8第3課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-8-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3734,15 +3249,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «收據»):",
-          "acceptedAnswers": [
-            "收據",
-            "收據"
-          ],
-          "explanation": "The target keyword was: 【收據】"
         }
       ],
       "passThreshold": 0.8
@@ -3757,7 +3263,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元8第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元8第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元8第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
@@ -3770,12 +3276,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-8-4】：把握「粵語單元8第4課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-8-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3820,15 +3322,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «信用卡»):",
-          "acceptedAnswers": [
-            "信用卡",
-            "信用卡"
-          ],
-          "explanation": "The target keyword was: 【信用卡】"
         }
       ],
       "passThreshold": 0.8
@@ -3843,7 +3336,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元8第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元8第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元8第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
@@ -3856,12 +3349,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-8-5】：把握「粵語單元8第5課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-8-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3906,15 +3395,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «現金»):",
-          "acceptedAnswers": [
-            "現金",
-            "現金"
-          ],
-          "explanation": "The target keyword was: 【現金】"
         }
       ],
       "passThreshold": 0.8
@@ -3929,7 +3409,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元9第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元9第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元9第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
@@ -3942,12 +3422,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-9-1】：把握「粵語單元9第1課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-9-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3992,15 +3468,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «屋企»):",
-          "acceptedAnswers": [
-            "屋企",
-            "屋企"
-          ],
-          "explanation": "The target keyword was: 【屋企】"
         }
       ],
       "passThreshold": 0.8
@@ -4015,7 +3482,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元9第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元9第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元9第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
@@ -4028,12 +3495,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-9-2】：把握「粵語單元9第2課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-9-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4078,15 +3541,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «客廳»):",
-          "acceptedAnswers": [
-            "客廳",
-            "客廳"
-          ],
-          "explanation": "The target keyword was: 【客廳】"
         }
       ],
       "passThreshold": 0.8
@@ -4101,7 +3555,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元9第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元9第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元9第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
@@ -4114,12 +3568,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-9-3】：把握「粵語單元9第3課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-9-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4164,15 +3614,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «廚房»):",
-          "acceptedAnswers": [
-            "廚房",
-            "廚房"
-          ],
-          "explanation": "The target keyword was: 【廚房】"
         }
       ],
       "passThreshold": 0.8
@@ -4187,7 +3628,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元9第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元9第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元9第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
@@ -4200,12 +3641,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-9-4】：把握「粵語單元9第4課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-9-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4250,15 +3687,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «睡房»):",
-          "acceptedAnswers": [
-            "睡房",
-            "睡房"
-          ],
-          "explanation": "The target keyword was: 【睡房】"
         }
       ],
       "passThreshold": 0.8
@@ -4273,7 +3701,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元9第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元9第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元9第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第9課嘅語法要點。",
@@ -4286,12 +3714,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-9-5】：把握「粵語單元9第5課」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-9-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4336,15 +3760,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «洗手間»):",
-          "acceptedAnswers": [
-            "洗手間",
-            "洗手間"
-          ],
-          "explanation": "The target keyword was: 【洗手間】"
         }
       ],
       "passThreshold": 0.8
@@ -4359,7 +3774,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元10第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元10第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元10第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
@@ -4372,12 +3787,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-10-1】：把握「粵語單元10第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-10-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4422,15 +3833,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «雪櫃»):",
-          "acceptedAnswers": [
-            "雪櫃",
-            "雪櫃"
-          ],
-          "explanation": "The target keyword was: 【雪櫃】"
         }
       ],
       "passThreshold": 0.8
@@ -4445,7 +3847,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元10第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元10第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元10第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
@@ -4458,12 +3860,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-10-2】：把握「粵語單元10第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-10-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4508,15 +3906,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «冷氣機»):",
-          "acceptedAnswers": [
-            "冷氣機",
-            "冷氣機"
-          ],
-          "explanation": "The target keyword was: 【冷氣機】"
         }
       ],
       "passThreshold": 0.8
@@ -4531,7 +3920,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元10第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元10第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元10第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
@@ -4544,12 +3933,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-10-3】：把握「粵語單元10第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-10-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4594,15 +3979,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «電視機»):",
-          "acceptedAnswers": [
-            "電視機",
-            "電視機"
-          ],
-          "explanation": "The target keyword was: 【電視機】"
         }
       ],
       "passThreshold": 0.8
@@ -4617,7 +3993,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元10第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元10第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元10第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
@@ -4630,12 +4006,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-10-4】：把握「粵語單元10第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-10-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4680,15 +4052,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «洗衣機»):",
-          "acceptedAnswers": [
-            "洗衣機",
-            "洗衣機"
-          ],
-          "explanation": "The target keyword was: 【洗衣機】"
         }
       ],
       "passThreshold": 0.8
@@ -4703,7 +4066,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元10第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元10第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元10第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第10課嘅語法要點。",
@@ -4716,12 +4079,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-10-5】：把握「粵語單元10第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-10-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4766,15 +4125,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «梳化»):",
-          "acceptedAnswers": [
-            "梳化",
-            "梳化"
-          ],
-          "explanation": "The target keyword was: 【梳化】"
         }
       ],
       "passThreshold": 0.8
@@ -4789,7 +4139,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元11第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元11第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元11第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
@@ -4802,12 +4152,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-11-1】：把握「粵語單元11第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-11-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4852,15 +4198,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «返工»):",
-          "acceptedAnswers": [
-            "返工",
-            "返工"
-          ],
-          "explanation": "The target keyword was: 【返工】"
         }
       ],
       "passThreshold": 0.8
@@ -4875,7 +4212,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元11第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元11第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元11第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
@@ -4888,12 +4225,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-11-2】：把握「粵語單元11第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-11-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4938,15 +4271,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «放工»):",
-          "acceptedAnswers": [
-            "放工",
-            "放工"
-          ],
-          "explanation": "The target keyword was: 【放工】"
         }
       ],
       "passThreshold": 0.8
@@ -4961,7 +4285,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元11第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元11第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元11第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
@@ -4974,12 +4298,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-11-3】：把握「粵語單元11第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-11-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5024,15 +4344,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «開會»):",
-          "acceptedAnswers": [
-            "開會",
-            "開會"
-          ],
-          "explanation": "The target keyword was: 【開會】"
         }
       ],
       "passThreshold": 0.8
@@ -5047,7 +4358,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元11第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元11第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元11第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
@@ -5060,12 +4371,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-11-4】：把握「粵語單元11第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-11-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5110,15 +4417,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «同事»):",
-          "acceptedAnswers": [
-            "同事",
-            "同事"
-          ],
-          "explanation": "The target keyword was: 【同事】"
         }
       ],
       "passThreshold": 0.8
@@ -5133,7 +4431,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元11第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元11第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元11第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第11課嘅語法要點。",
@@ -5146,12 +4444,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-11-5】：把握「粵語單元11第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-11-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5196,15 +4490,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «老闆»):",
-          "acceptedAnswers": [
-            "老闆",
-            "老闆"
-          ],
-          "explanation": "The target keyword was: 【老闆】"
         }
       ],
       "passThreshold": 0.8
@@ -5219,7 +4504,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元12第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元12第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元12第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
@@ -5232,12 +4517,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-12-1】：把握「粵語單元12第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-12-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5282,15 +4563,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «人工»):",
-          "acceptedAnswers": [
-            "人工",
-            "人工"
-          ],
-          "explanation": "The target keyword was: 【人工】"
         }
       ],
       "passThreshold": 0.8
@@ -5305,7 +4577,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元12第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元12第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元12第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
@@ -5318,12 +4590,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-12-2】：把握「粵語單元12第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-12-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5368,15 +4636,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «請假»):",
-          "acceptedAnswers": [
-            "請假",
-            "請假"
-          ],
-          "explanation": "The target keyword was: 【請假】"
         }
       ],
       "passThreshold": 0.8
@@ -5391,7 +4650,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元12第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元12第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元12第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
@@ -5404,12 +4663,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-12-3】：把握「粵語單元12第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-12-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5454,15 +4709,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «加班»):",
-          "acceptedAnswers": [
-            "加班",
-            "加班"
-          ],
-          "explanation": "The target keyword was: 【加班】"
         }
       ],
       "passThreshold": 0.8
@@ -5477,7 +4723,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元12第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元12第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元12第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
@@ -5490,12 +4736,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-12-4】：把握「粵語單元12第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-12-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5540,15 +4782,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «辭職»):",
-          "acceptedAnswers": [
-            "辭職",
-            "辭職"
-          ],
-          "explanation": "The target keyword was: 【辭職】"
         }
       ],
       "passThreshold": 0.8
@@ -5563,7 +4796,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元12第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元12第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元12第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第12課嘅語法要點。",
@@ -5576,12 +4809,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-12-5】：把握「粵語單元12第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-12-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5626,15 +4855,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «面試»):",
-          "acceptedAnswers": [
-            "面試",
-            "面試"
-          ],
-          "explanation": "The target keyword was: 【面試】"
         }
       ],
       "passThreshold": 0.8
@@ -5649,7 +4869,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元13第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元13第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元13第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
@@ -5662,12 +4882,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-13-1】：把握「粵語單元13第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-13-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5712,15 +4928,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «睇戲»):",
-          "acceptedAnswers": [
-            "睇戲",
-            "睇戲"
-          ],
-          "explanation": "The target keyword was: 【睇戲】"
         }
       ],
       "passThreshold": 0.8
@@ -5735,7 +4942,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元13第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元13第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元13第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
@@ -5748,12 +4955,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-13-2】：把握「粵語單元13第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-13-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5798,15 +5001,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «游水»):",
-          "acceptedAnswers": [
-            "游水",
-            "游水"
-          ],
-          "explanation": "The target keyword was: 【游水】"
         }
       ],
       "passThreshold": 0.8
@@ -5821,7 +5015,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元13第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元13第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元13第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
@@ -5834,12 +5028,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-13-3】：把握「粵語單元13第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-13-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5884,15 +5074,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «行山»):",
-          "acceptedAnswers": [
-            "行山",
-            "行山"
-          ],
-          "explanation": "The target keyword was: 【行山】"
         }
       ],
       "passThreshold": 0.8
@@ -5907,7 +5088,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元13第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元13第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元13第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
@@ -5920,12 +5101,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-13-4】：把握「粵語單元13第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-13-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5970,15 +5147,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «跑步»):",
-          "acceptedAnswers": [
-            "跑步",
-            "跑步"
-          ],
-          "explanation": "The target keyword was: 【跑步】"
         }
       ],
       "passThreshold": 0.8
@@ -5993,7 +5161,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元13第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元13第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元13第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第13課嘅語法要點。",
@@ -6006,12 +5174,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-13-5】：把握「粵語單元13第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-13-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6056,15 +5220,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «打波»):",
-          "acceptedAnswers": [
-            "打波",
-            "打波"
-          ],
-          "explanation": "The target keyword was: 【打波】"
         }
       ],
       "passThreshold": 0.8
@@ -6079,7 +5234,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元14第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元14第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元14第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
@@ -6092,12 +5247,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-14-1】：把握「粵語單元14第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-14-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6142,15 +5293,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «聽歌»):",
-          "acceptedAnswers": [
-            "聽歌",
-            "聽歌"
-          ],
-          "explanation": "The target keyword was: 【聽歌】"
         }
       ],
       "passThreshold": 0.8
@@ -6165,7 +5307,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元14第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元14第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元14第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
@@ -6178,12 +5320,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-14-2】：把握「粵語單元14第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-14-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6228,15 +5366,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «影相»):",
-          "acceptedAnswers": [
-            "影相",
-            "影相"
-          ],
-          "explanation": "The target keyword was: 【影相】"
         }
       ],
       "passThreshold": 0.8
@@ -6251,7 +5380,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元14第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元14第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元14第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
@@ -6264,12 +5393,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-14-3】：把握「粵語單元14第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-14-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6314,15 +5439,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «睇書»):",
-          "acceptedAnswers": [
-            "睇書",
-            "睇書"
-          ],
-          "explanation": "The target keyword was: 【睇書】"
         }
       ],
       "passThreshold": 0.8
@@ -6337,7 +5453,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元14第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元14第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元14第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
@@ -6350,12 +5466,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-14-4】：把握「粵語單元14第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-14-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6400,15 +5512,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «旅行»):",
-          "acceptedAnswers": [
-            "旅行",
-            "旅行"
-          ],
-          "explanation": "The target keyword was: 【旅行】"
         }
       ],
       "passThreshold": 0.8
@@ -6423,7 +5526,7 @@
     "level": "A2",
     "objective": "Master Cantonese linguistics for 粵語單元14第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元14第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元14第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
@@ -6436,12 +5539,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-14-5】：把握「粵語單元14第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-14-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6486,15 +5585,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «買衫»):",
-          "acceptedAnswers": [
-            "買衫",
-            "買衫"
-          ],
-          "explanation": "The target keyword was: 【買衫】"
         }
       ],
       "passThreshold": 0.8
@@ -6509,7 +5599,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元15第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元15第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元15第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
@@ -6522,12 +5612,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-15-1】：把握「粵語單元15第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-15-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6572,15 +5658,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «天氣»):",
-          "acceptedAnswers": [
-            "天氣",
-            "天氣"
-          ],
-          "explanation": "The target keyword was: 【天氣】"
         }
       ],
       "passThreshold": 0.8
@@ -6595,7 +5672,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元15第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元15第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元15第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
@@ -6608,12 +5685,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-15-2】：把握「粵語單元15第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-15-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6658,15 +5731,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «落雨»):",
-          "acceptedAnswers": [
-            "落雨",
-            "落雨"
-          ],
-          "explanation": "The target keyword was: 【落雨】"
         }
       ],
       "passThreshold": 0.8
@@ -6681,7 +5745,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元15第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元15第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元15第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
@@ -6694,12 +5758,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-15-3】：把握「粵語單元15第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-15-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6744,15 +5804,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «出太陽»):",
-          "acceptedAnswers": [
-            "出太陽",
-            "出太陽"
-          ],
-          "explanation": "The target keyword was: 【出太陽】"
         }
       ],
       "passThreshold": 0.8
@@ -6767,7 +5818,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元15第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元15第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元15第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
@@ -6780,12 +5831,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-15-4】：把握「粵語單元15第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-15-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6830,15 +5877,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «刮風»):",
-          "acceptedAnswers": [
-            "刮風",
-            "刮風"
-          ],
-          "explanation": "The target keyword was: 【刮風】"
         }
       ],
       "passThreshold": 0.8
@@ -6853,7 +5891,7 @@
     "level": "A1",
     "objective": "Master Cantonese linguistics for 粵語單元15第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元15第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元15第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第15課嘅語法要點。",
@@ -6866,12 +5904,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-15-5】：把握「粵語單元15第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-15-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6916,15 +5950,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «打風»):",
-          "acceptedAnswers": [
-            "打風",
-            "打風"
-          ],
-          "explanation": "The target keyword was: 【打風】"
         }
       ],
       "passThreshold": 0.8
@@ -6939,7 +5964,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元16第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元16第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元16第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
@@ -6952,12 +5977,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-16-1】：把握「粵語單元16第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-16-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7002,15 +6023,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «好熱»):",
-          "acceptedAnswers": [
-            "好熱",
-            "好熱"
-          ],
-          "explanation": "The target keyword was: 【好熱】"
         }
       ],
       "passThreshold": 0.8
@@ -7025,7 +6037,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元16第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元16第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元16第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
@@ -7038,12 +6050,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-16-2】：把握「粵語單元16第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-16-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7088,15 +6096,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «好凍»):",
-          "acceptedAnswers": [
-            "好凍",
-            "好凍"
-          ],
-          "explanation": "The target keyword was: 【好凍】"
         }
       ],
       "passThreshold": 0.8
@@ -7111,7 +6110,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元16第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元16第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元16第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
@@ -7124,12 +6123,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-16-3】：把握「粵語單元16第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-16-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7174,15 +6169,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «潮濕»):",
-          "acceptedAnswers": [
-            "潮濕",
-            "潮濕"
-          ],
-          "explanation": "The target keyword was: 【潮濕】"
         }
       ],
       "passThreshold": 0.8
@@ -7197,7 +6183,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元16第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元16第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元16第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
@@ -7210,12 +6196,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-16-4】：把握「粵語單元16第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-16-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7260,15 +6242,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «乾燥»):",
-          "acceptedAnswers": [
-            "乾燥",
-            "乾燥"
-          ],
-          "explanation": "The target keyword was: 【乾燥】"
         }
       ],
       "passThreshold": 0.8
@@ -7283,7 +6256,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元16第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元16第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元16第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
@@ -7296,12 +6269,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-16-5】：把握「粵語單元16第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-16-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7346,15 +6315,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «溫度»):",
-          "acceptedAnswers": [
-            "溫度",
-            "溫度"
-          ],
-          "explanation": "The target keyword was: 【溫度】"
         }
       ],
       "passThreshold": 0.8
@@ -7369,7 +6329,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元17第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元17第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元17第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
@@ -7382,12 +6342,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-17-1】：把握「粵語單元17第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-17-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7432,15 +6388,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «醫生»):",
-          "acceptedAnswers": [
-            "醫生",
-            "醫生"
-          ],
-          "explanation": "The target keyword was: 【醫生】"
         }
       ],
       "passThreshold": 0.8
@@ -7455,7 +6402,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元17第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元17第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元17第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
@@ -7468,12 +6415,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-17-2】：把握「粵語單元17第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-17-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7518,15 +6461,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «睇醫生»):",
-          "acceptedAnswers": [
-            "睇醫生",
-            "睇醫生"
-          ],
-          "explanation": "The target keyword was: 【睇醫生】"
         }
       ],
       "passThreshold": 0.8
@@ -7541,7 +6475,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元17第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元17第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元17第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
@@ -7554,12 +6488,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-17-3】：把握「粵語單元17第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-17-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7604,15 +6534,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «食藥»):",
-          "acceptedAnswers": [
-            "食藥",
-            "食藥"
-          ],
-          "explanation": "The target keyword was: 【食藥】"
         }
       ],
       "passThreshold": 0.8
@@ -7627,7 +6548,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元17第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元17第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元17第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
@@ -7640,12 +6561,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-17-4】：把握「粵語單元17第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-17-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7690,15 +6607,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «發燒»):",
-          "acceptedAnswers": [
-            "發燒",
-            "發燒"
-          ],
-          "explanation": "The target keyword was: 【發燒】"
         }
       ],
       "passThreshold": 0.8
@@ -7713,7 +6621,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元17第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元17第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元17第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第17課嘅語法要點。",
@@ -7726,12 +6634,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-17-5】：把握「粵語單元17第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-17-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7776,15 +6680,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «頭痛»):",
-          "acceptedAnswers": [
-            "頭痛",
-            "頭痛"
-          ],
-          "explanation": "The target keyword was: 【頭痛】"
         }
       ],
       "passThreshold": 0.8
@@ -7799,7 +6694,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元18第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元18第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元18第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
@@ -7812,12 +6707,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-18-1】：把握「粵語單元18第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-18-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7862,15 +6753,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «感冒»):",
-          "acceptedAnswers": [
-            "感冒",
-            "感冒"
-          ],
-          "explanation": "The target keyword was: 【感冒】"
         }
       ],
       "passThreshold": 0.8
@@ -7885,7 +6767,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元18第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元18第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元18第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
@@ -7898,12 +6780,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-18-2】：把握「粵語單元18第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-18-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7948,15 +6826,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «咳嗽»):",
-          "acceptedAnswers": [
-            "咳嗽",
-            "咳嗽"
-          ],
-          "explanation": "The target keyword was: 【咳嗽】"
         }
       ],
       "passThreshold": 0.8
@@ -7971,7 +6840,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元18第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元18第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元18第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
@@ -7984,12 +6853,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-18-3】：把握「粵語單元18第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-18-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8034,15 +6899,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «喉嚨痛»):",
-          "acceptedAnswers": [
-            "喉嚨痛",
-            "喉嚨痛"
-          ],
-          "explanation": "The target keyword was: 【喉嚨痛】"
         }
       ],
       "passThreshold": 0.8
@@ -8057,7 +6913,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元18第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元18第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元18第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
@@ -8070,12 +6926,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-18-4】：把握「粵語單元18第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-18-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8120,15 +6972,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «醫院»):",
-          "acceptedAnswers": [
-            "醫院",
-            "醫院"
-          ],
-          "explanation": "The target keyword was: 【醫院】"
         }
       ],
       "passThreshold": 0.8
@@ -8143,7 +6986,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元18第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元18第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元18第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
@@ -8156,12 +6999,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-18-5】：把握「粵語單元18第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-18-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8206,15 +7045,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «診所»):",
-          "acceptedAnswers": [
-            "診所",
-            "診所"
-          ],
-          "explanation": "The target keyword was: 【診所】"
         }
       ],
       "passThreshold": 0.8
@@ -8229,7 +7059,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元19第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元19第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元19第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
@@ -8242,12 +7072,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-19-1】：把握「粵語單元19第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-19-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8292,15 +7118,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «爸爸»):",
-          "acceptedAnswers": [
-            "爸爸",
-            "爸爸"
-          ],
-          "explanation": "The target keyword was: 【爸爸】"
         }
       ],
       "passThreshold": 0.8
@@ -8315,7 +7132,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元19第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元19第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元19第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
@@ -8328,12 +7145,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-19-2】：把握「粵語單元19第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-19-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8378,15 +7191,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «媽媽»):",
-          "acceptedAnswers": [
-            "媽媽",
-            "媽媽"
-          ],
-          "explanation": "The target keyword was: 【媽媽】"
         }
       ],
       "passThreshold": 0.8
@@ -8401,7 +7205,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元19第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元19第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元19第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
@@ -8414,12 +7218,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-19-3】：把握「粵語單元19第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-19-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8464,15 +7264,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «阿哥»):",
-          "acceptedAnswers": [
-            "阿哥",
-            "阿哥"
-          ],
-          "explanation": "The target keyword was: 【阿哥】"
         }
       ],
       "passThreshold": 0.8
@@ -8487,7 +7278,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元19第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元19第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元19第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
@@ -8500,12 +7291,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-19-4】：把握「粵語單元19第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-19-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8550,15 +7337,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «細佬»):",
-          "acceptedAnswers": [
-            "細佬",
-            "細佬"
-          ],
-          "explanation": "The target keyword was: 【細佬】"
         }
       ],
       "passThreshold": 0.8
@@ -8573,7 +7351,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元19第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元19第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元19第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
@@ -8586,12 +7364,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-19-5】：把握「粵語單元19第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-19-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8636,15 +7410,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «家姐»):",
-          "acceptedAnswers": [
-            "家姐",
-            "家姐"
-          ],
-          "explanation": "The target keyword was: 【家姐】"
         }
       ],
       "passThreshold": 0.8
@@ -8659,7 +7424,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元20第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元20第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元20第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
@@ -8672,12 +7437,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-20-1】：把握「粵語單元20第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-20-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8722,15 +7483,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «妹妹»):",
-          "acceptedAnswers": [
-            "妹妹",
-            "妹妹"
-          ],
-          "explanation": "The target keyword was: 【妹妹】"
         }
       ],
       "passThreshold": 0.8
@@ -8745,7 +7497,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元20第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元20第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元20第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
@@ -8758,12 +7510,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-20-2】：把握「粵語單元20第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-20-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8808,15 +7556,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «阿爺»):",
-          "acceptedAnswers": [
-            "阿爺",
-            "阿爺"
-          ],
-          "explanation": "The target keyword was: 【阿爺】"
         }
       ],
       "passThreshold": 0.8
@@ -8831,7 +7570,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元20第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元20第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元20第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
@@ -8844,12 +7583,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-20-3】：把握「粵語單元20第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-20-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8894,15 +7629,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «阿嫲»):",
-          "acceptedAnswers": [
-            "阿嫲",
-            "阿嫲"
-          ],
-          "explanation": "The target keyword was: 【阿嫲】"
         }
       ],
       "passThreshold": 0.8
@@ -8917,7 +7643,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元20第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元20第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元20第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
@@ -8930,12 +7656,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-20-4】：把握「粵語單元20第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-20-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8980,15 +7702,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «親戚»):",
-          "acceptedAnswers": [
-            "親戚",
-            "親戚"
-          ],
-          "explanation": "The target keyword was: 【親戚】"
         }
       ],
       "passThreshold": 0.8
@@ -9003,7 +7716,7 @@
     "level": "B1",
     "objective": "Master Cantonese linguistics for 粵語單元20第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元20第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元20第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第20課嘅語法要點。",
@@ -9016,12 +7729,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-20-5】：把握「粵語單元20第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-20-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9066,15 +7775,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «朋友»):",
-          "acceptedAnswers": [
-            "朋友",
-            "朋友"
-          ],
-          "explanation": "The target keyword was: 【朋友】"
         }
       ],
       "passThreshold": 0.8
@@ -9089,7 +7789,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元21第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元21第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元21第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
@@ -9102,12 +7802,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-21-1】：把握「粵語單元21第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-21-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9152,15 +7848,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «今日»):",
-          "acceptedAnswers": [
-            "今日",
-            "今日"
-          ],
-          "explanation": "The target keyword was: 【今日】"
         }
       ],
       "passThreshold": 0.8
@@ -9175,7 +7862,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元21第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元21第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元21第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
@@ -9188,12 +7875,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-21-2】：把握「粵語單元21第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-21-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9238,15 +7921,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «琴日»):",
-          "acceptedAnswers": [
-            "琴日",
-            "琴日"
-          ],
-          "explanation": "The target keyword was: 【琴日】"
         }
       ],
       "passThreshold": 0.8
@@ -9261,7 +7935,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元21第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元21第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元21第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
@@ -9274,12 +7948,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-21-3】：把握「粵語單元21第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-21-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9324,15 +7994,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «聽日»):",
-          "acceptedAnswers": [
-            "聽日",
-            "聽日"
-          ],
-          "explanation": "The target keyword was: 【聽日】"
         }
       ],
       "passThreshold": 0.8
@@ -9347,7 +8008,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元21第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元21第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元21第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
@@ -9360,12 +8021,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-21-4】：把握「粵語單元21第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-21-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9410,15 +8067,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «今晚»):",
-          "acceptedAnswers": [
-            "今晚",
-            "今晚"
-          ],
-          "explanation": "The target keyword was: 【今晚】"
         }
       ],
       "passThreshold": 0.8
@@ -9433,7 +8081,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元21第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元21第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元21第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第21課嘅語法要點。",
@@ -9446,12 +8094,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-21-5】：把握「粵語單元21第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-21-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9496,15 +8140,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «上晝»):",
-          "acceptedAnswers": [
-            "上晝",
-            "上晝"
-          ],
-          "explanation": "The target keyword was: 【上晝】"
         }
       ],
       "passThreshold": 0.8
@@ -9519,7 +8154,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元22第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元22第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元22第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
@@ -9532,12 +8167,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-22-1】：把握「粵語單元22第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-22-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9582,15 +8213,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «下晝»):",
-          "acceptedAnswers": [
-            "下晝",
-            "下晝"
-          ],
-          "explanation": "The target keyword was: 【下晝】"
         }
       ],
       "passThreshold": 0.8
@@ -9605,7 +8227,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元22第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元22第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元22第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
@@ -9618,12 +8240,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-22-2】：把握「粵語單元22第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-22-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9668,15 +8286,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «朝早»):",
-          "acceptedAnswers": [
-            "朝早",
-            "朝早"
-          ],
-          "explanation": "The target keyword was: 【朝早】"
         }
       ],
       "passThreshold": 0.8
@@ -9691,7 +8300,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元22第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元22第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元22第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
@@ -9704,12 +8313,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-22-3】：把握「粵語單元22第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-22-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9754,15 +8359,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «半夜»):",
-          "acceptedAnswers": [
-            "半夜",
-            "半夜"
-          ],
-          "explanation": "The target keyword was: 【半夜】"
         }
       ],
       "passThreshold": 0.8
@@ -9777,7 +8373,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元22第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元22第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元22第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
@@ -9790,12 +8386,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-22-4】：把握「粵語單元22第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-22-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9840,15 +8432,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «星期一»):",
-          "acceptedAnswers": [
-            "星期一",
-            "星期一"
-          ],
-          "explanation": "The target keyword was: 【星期一】"
         }
       ],
       "passThreshold": 0.8
@@ -9863,7 +8446,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元22第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元22第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元22第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
@@ -9876,12 +8459,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-22-5】：把握「粵語單元22第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-22-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9926,15 +8505,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «週末»):",
-          "acceptedAnswers": [
-            "週末",
-            "週末"
-          ],
-          "explanation": "The target keyword was: 【週末】"
         }
       ],
       "passThreshold": 0.8
@@ -9949,7 +8519,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元23第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元23第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元23第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
@@ -9962,12 +8532,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-23-1】：把握「粵語單元23第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-23-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10012,15 +8578,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «紅色»):",
-          "acceptedAnswers": [
-            "紅色",
-            "紅色"
-          ],
-          "explanation": "The target keyword was: 【紅色】"
         }
       ],
       "passThreshold": 0.8
@@ -10035,7 +8592,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元23第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元23第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元23第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
@@ -10048,12 +8605,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-23-2】：把握「粵語單元23第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-23-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10098,15 +8651,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «藍色»):",
-          "acceptedAnswers": [
-            "藍色",
-            "藍色"
-          ],
-          "explanation": "The target keyword was: 【藍色】"
         }
       ],
       "passThreshold": 0.8
@@ -10121,7 +8665,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元23第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元23第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元23第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
@@ -10134,12 +8678,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-23-3】：把握「粵語單元23第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-23-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10184,15 +8724,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «黃色»):",
-          "acceptedAnswers": [
-            "黃色",
-            "黃色"
-          ],
-          "explanation": "The target keyword was: 【黃色】"
         }
       ],
       "passThreshold": 0.8
@@ -10207,7 +8738,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元23第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元23第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元23第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
@@ -10220,12 +8751,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-23-4】：把握「粵語單元23第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-23-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10270,15 +8797,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «綠色»):",
-          "acceptedAnswers": [
-            "綠色",
-            "綠色"
-          ],
-          "explanation": "The target keyword was: 【綠色】"
         }
       ],
       "passThreshold": 0.8
@@ -10293,7 +8811,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元23第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元23第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元23第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第23課嘅語法要點。",
@@ -10306,12 +8824,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-23-5】：把握「粵語單元23第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-23-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10356,15 +8870,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «白色»):",
-          "acceptedAnswers": [
-            "白色",
-            "白色"
-          ],
-          "explanation": "The target keyword was: 【白色】"
         }
       ],
       "passThreshold": 0.8
@@ -10379,7 +8884,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元24第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元24第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元24第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
@@ -10392,12 +8897,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-24-1】：把握「粵語單元24第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-24-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10442,15 +8943,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «黑色»):",
-          "acceptedAnswers": [
-            "黑色",
-            "黑色"
-          ],
-          "explanation": "The target keyword was: 【黑色】"
         }
       ],
       "passThreshold": 0.8
@@ -10465,7 +8957,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元24第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元24第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元24第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
@@ -10478,12 +8970,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-24-2】：把握「粵語單元24第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-24-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10528,15 +9016,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «橙色»):",
-          "acceptedAnswers": [
-            "橙色",
-            "橙色"
-          ],
-          "explanation": "The target keyword was: 【橙色】"
         }
       ],
       "passThreshold": 0.8
@@ -10551,7 +9030,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元24第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元24第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元24第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
@@ -10564,12 +9043,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-24-3】：把握「粵語單元24第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-24-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10614,15 +9089,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «紫色»):",
-          "acceptedAnswers": [
-            "紫色",
-            "紫色"
-          ],
-          "explanation": "The target keyword was: 【紫色】"
         }
       ],
       "passThreshold": 0.8
@@ -10637,7 +9103,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元24第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元24第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元24第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
@@ -10650,12 +9116,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-24-4】：把握「粵語單元24第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-24-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10700,15 +9162,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «粉紅色»):",
-          "acceptedAnswers": [
-            "粉紅色",
-            "粉紅色"
-          ],
-          "explanation": "The target keyword was: 【粉紅色】"
         }
       ],
       "passThreshold": 0.8
@@ -10723,7 +9176,7 @@
     "level": "B2",
     "objective": "Master Cantonese linguistics for 粵語單元24第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元24第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元24第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
@@ -10736,12 +9189,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-24-5】：把握「粵語單元24第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-24-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10786,15 +9235,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «灰色»):",
-          "acceptedAnswers": [
-            "灰色",
-            "灰色"
-          ],
-          "explanation": "The target keyword was: 【灰色】"
         }
       ],
       "passThreshold": 0.8
@@ -10809,7 +9249,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元25第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元25第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元25第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
@@ -10822,12 +9262,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-25-1】：把握「粵語單元25第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-25-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10872,15 +9308,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «大細»):",
-          "acceptedAnswers": [
-            "大細",
-            "大細"
-          ],
-          "explanation": "The target keyword was: 【大細】"
         }
       ],
       "passThreshold": 0.8
@@ -10895,7 +9322,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元25第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元25第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元25第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
@@ -10908,12 +9335,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-25-2】：把握「粵語單元25第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-25-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10958,15 +9381,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «長短»):",
-          "acceptedAnswers": [
-            "長短",
-            "長短"
-          ],
-          "explanation": "The target keyword was: 【長短】"
         }
       ],
       "passThreshold": 0.8
@@ -10981,7 +9395,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元25第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元25第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元25第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
@@ -10994,12 +9408,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-25-3】：把握「粵語單元25第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-25-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11044,15 +9454,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «高矮»):",
-          "acceptedAnswers": [
-            "高矮",
-            "高矮"
-          ],
-          "explanation": "The target keyword was: 【高矮】"
         }
       ],
       "passThreshold": 0.8
@@ -11067,7 +9468,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元25第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元25第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元25第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
@@ -11080,12 +9481,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-25-4】：把握「粵語單元25第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-25-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11130,15 +9527,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «肥瘦»):",
-          "acceptedAnswers": [
-            "肥瘦",
-            "肥瘦"
-          ],
-          "explanation": "The target keyword was: 【肥瘦】"
         }
       ],
       "passThreshold": 0.8
@@ -11153,7 +9541,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元25第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元25第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元25第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第25課嘅語法要點。",
@@ -11166,12 +9554,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-25-5】：把握「粵語單元25第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-25-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11216,15 +9600,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «新舊»):",
-          "acceptedAnswers": [
-            "新舊",
-            "新舊"
-          ],
-          "explanation": "The target keyword was: 【新舊】"
         }
       ],
       "passThreshold": 0.8
@@ -11239,7 +9614,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元26第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元26第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元26第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
@@ -11252,12 +9627,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-26-1】：把握「粵語單元26第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-26-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11302,15 +9673,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «好壞»):",
-          "acceptedAnswers": [
-            "好壞",
-            "好壞"
-          ],
-          "explanation": "The target keyword was: 【好壞】"
         }
       ],
       "passThreshold": 0.8
@@ -11325,7 +9687,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元26第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元26第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元26第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
@@ -11338,12 +9700,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-26-2】：把握「粵語單元26第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-26-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11388,15 +9746,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «快慢»):",
-          "acceptedAnswers": [
-            "快慢",
-            "快慢"
-          ],
-          "explanation": "The target keyword was: 【快慢】"
         }
       ],
       "passThreshold": 0.8
@@ -11411,7 +9760,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元26第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元26第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元26第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
@@ -11424,12 +9773,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-26-3】：把握「粵語單元26第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-26-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11474,15 +9819,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «早遲»):",
-          "acceptedAnswers": [
-            "早遲",
-            "早遲"
-          ],
-          "explanation": "The target keyword was: 【早遲】"
         }
       ],
       "passThreshold": 0.8
@@ -11497,7 +9833,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元26第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元26第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元26第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
@@ -11510,12 +9846,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-26-4】：把握「粵語單元26第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-26-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11560,15 +9892,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «輕重»):",
-          "acceptedAnswers": [
-            "輕重",
-            "輕重"
-          ],
-          "explanation": "The target keyword was: 【輕重】"
         }
       ],
       "passThreshold": 0.8
@@ -11583,7 +9906,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元26第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元26第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元26第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第26課嘅語法要點。",
@@ -11596,12 +9919,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-26-5】：把握「粵語單元26第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-26-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11646,15 +9965,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «乾濕»):",
-          "acceptedAnswers": [
-            "乾濕",
-            "乾濕"
-          ],
-          "explanation": "The target keyword was: 【乾濕】"
         }
       ],
       "passThreshold": 0.8
@@ -11669,7 +9979,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元27第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元27第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元27第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
@@ -11682,12 +9992,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-27-1】：把握「粵語單元27第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-27-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11732,15 +10038,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «明白»):",
-          "acceptedAnswers": [
-            "明白",
-            "明白"
-          ],
-          "explanation": "The target keyword was: 【明白】"
         }
       ],
       "passThreshold": 0.8
@@ -11755,7 +10052,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元27第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元27第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元27第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
@@ -11768,12 +10065,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-27-2】：把握「粵語單元27第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-27-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11818,15 +10111,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «知道»):",
-          "acceptedAnswers": [
-            "知道",
-            "知道"
-          ],
-          "explanation": "The target keyword was: 【知道】"
         }
       ],
       "passThreshold": 0.8
@@ -11841,7 +10125,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元27第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元27第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元27第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
@@ -11854,12 +10138,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-27-3】：把握「粵語單元27第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-27-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11904,15 +10184,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «識得»):",
-          "acceptedAnswers": [
-            "識得",
-            "識得"
-          ],
-          "explanation": "The target keyword was: 【識得】"
         }
       ],
       "passThreshold": 0.8
@@ -11927,7 +10198,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元27第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元27第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元27第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
@@ -11940,12 +10211,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-27-4】：把握「粵語單元27第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-27-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11990,15 +10257,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «記得»):",
-          "acceptedAnswers": [
-            "記得",
-            "記得"
-          ],
-          "explanation": "The target keyword was: 【記得】"
         }
       ],
       "passThreshold": 0.8
@@ -12013,7 +10271,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元27第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元27第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元27第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第27課嘅語法要點。",
@@ -12026,12 +10284,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-27-5】：把握「粵語單元27第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-27-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12076,15 +10330,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «唔記得»):",
-          "acceptedAnswers": [
-            "唔記得",
-            "唔記得"
-          ],
-          "explanation": "The target keyword was: 【唔記得】"
         }
       ],
       "passThreshold": 0.8
@@ -12099,7 +10344,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元28第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元28第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元28第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
@@ -12112,12 +10357,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-28-1】：把握「粵語單元28第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-28-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12162,15 +10403,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «同意»):",
-          "acceptedAnswers": [
-            "同意",
-            "同意"
-          ],
-          "explanation": "The target keyword was: 【同意】"
         }
       ],
       "passThreshold": 0.8
@@ -12185,7 +10417,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元28第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元28第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元28第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
@@ -12198,12 +10430,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-28-2】：把握「粵語單元28第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-28-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12248,15 +10476,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «反對»):",
-          "acceptedAnswers": [
-            "反對",
-            "反對"
-          ],
-          "explanation": "The target keyword was: 【反對】"
         }
       ],
       "passThreshold": 0.8
@@ -12271,7 +10490,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元28第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元28第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元28第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
@@ -12284,12 +10503,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-28-3】：把握「粵語單元28第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-28-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12334,15 +10549,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «考慮»):",
-          "acceptedAnswers": [
-            "考慮",
-            "考慮"
-          ],
-          "explanation": "The target keyword was: 【考慮】"
         }
       ],
       "passThreshold": 0.8
@@ -12357,7 +10563,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元28第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元28第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元28第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
@@ -12370,12 +10576,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-28-4】：把握「粵語單元28第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-28-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12420,15 +10622,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «決定»):",
-          "acceptedAnswers": [
-            "決定",
-            "決定"
-          ],
-          "explanation": "The target keyword was: 【決定】"
         }
       ],
       "passThreshold": 0.8
@@ -12443,7 +10636,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元28第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元28第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元28第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
@@ -12456,12 +10649,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-28-5】：把握「粵語單元28第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-28-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12506,15 +10695,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «相信»):",
-          "acceptedAnswers": [
-            "相信",
-            "相信"
-          ],
-          "explanation": "The target keyword was: 【相信】"
         }
       ],
       "passThreshold": 0.8
@@ -12529,7 +10709,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元29第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元29第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元29第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
@@ -12542,12 +10722,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-29-1】：把握「粵語單元29第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-29-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12592,15 +10768,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «學校»):",
-          "acceptedAnswers": [
-            "學校",
-            "學校"
-          ],
-          "explanation": "The target keyword was: 【學校】"
         }
       ],
       "passThreshold": 0.8
@@ -12615,7 +10782,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元29第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元29第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元29第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
@@ -12628,12 +10795,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-29-2】：把握「粵語單元29第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-29-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12678,15 +10841,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «老師»):",
-          "acceptedAnswers": [
-            "老師",
-            "老師"
-          ],
-          "explanation": "The target keyword was: 【老師】"
         }
       ],
       "passThreshold": 0.8
@@ -12701,7 +10855,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元29第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元29第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元29第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
@@ -12714,12 +10868,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-29-3】：把握「粵語單元29第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-29-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12764,15 +10914,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «學生»):",
-          "acceptedAnswers": [
-            "學生",
-            "學生"
-          ],
-          "explanation": "The target keyword was: 【學生】"
         }
       ],
       "passThreshold": 0.8
@@ -12787,7 +10928,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元29第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元29第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元29第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
@@ -12800,12 +10941,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-29-4】：把握「粵語單元29第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-29-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12850,15 +10987,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «功課»):",
-          "acceptedAnswers": [
-            "功課",
-            "功課"
-          ],
-          "explanation": "The target keyword was: 【功課】"
         }
       ],
       "passThreshold": 0.8
@@ -12873,7 +11001,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元29第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元29第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元29第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
@@ -12886,12 +11014,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-29-5】：把握「粵語單元29第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-29-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12936,15 +11060,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «考試»):",
-          "acceptedAnswers": [
-            "考試",
-            "考試"
-          ],
-          "explanation": "The target keyword was: 【考試】"
         }
       ],
       "passThreshold": 0.8
@@ -12959,7 +11074,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元30第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元30第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元30第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
@@ -12972,12 +11087,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-30-1】：把握「粵語單元30第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-30-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13022,15 +11133,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «成績»):",
-          "acceptedAnswers": [
-            "成績",
-            "成績"
-          ],
-          "explanation": "The target keyword was: 【成績】"
         }
       ],
       "passThreshold": 0.8
@@ -13045,7 +11147,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元30第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元30第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元30第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
@@ -13058,12 +11160,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-30-2】：把握「粵語單元30第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-30-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13108,15 +11206,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «畢業»):",
-          "acceptedAnswers": [
-            "畢業",
-            "畢業"
-          ],
-          "explanation": "The target keyword was: 【畢業】"
         }
       ],
       "passThreshold": 0.8
@@ -13131,7 +11220,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元30第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元30第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元30第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
@@ -13144,12 +11233,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-30-3】：把握「粵語單元30第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-30-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13194,15 +11279,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «圖書館»):",
-          "acceptedAnswers": [
-            "圖書館",
-            "圖書館"
-          ],
-          "explanation": "The target keyword was: 【圖書館】"
         }
       ],
       "passThreshold": 0.8
@@ -13217,7 +11293,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元30第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元30第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元30第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
@@ -13230,12 +11306,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-30-4】：把握「粵語單元30第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-30-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13280,15 +11352,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «課室»):",
-          "acceptedAnswers": [
-            "課室",
-            "課室"
-          ],
-          "explanation": "The target keyword was: 【課室】"
         }
       ],
       "passThreshold": 0.8
@@ -13303,7 +11366,7 @@
     "level": "C1",
     "objective": "Master Cantonese linguistics for 粵語單元30第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元30第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元30第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第30課嘅語法要點。",
@@ -13316,12 +11379,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-30-5】：把握「粵語單元30第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-30-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13366,15 +11425,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «字典»):",
-          "acceptedAnswers": [
-            "字典",
-            "字典"
-          ],
-          "explanation": "The target keyword was: 【字典】"
         }
       ],
       "passThreshold": 0.8
@@ -13389,7 +11439,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元31第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元31第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元31第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
@@ -13402,12 +11452,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-31-1】：把握「粵語單元31第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-31-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13452,15 +11498,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «銀行»):",
-          "acceptedAnswers": [
-            "銀行",
-            "銀行"
-          ],
-          "explanation": "The target keyword was: 【銀行】"
         }
       ],
       "passThreshold": 0.8
@@ -13475,7 +11512,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元31第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元31第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元31第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
@@ -13488,12 +11525,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-31-2】：把握「粵語單元31第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-31-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13538,15 +11571,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «提款»):",
-          "acceptedAnswers": [
-            "提款",
-            "提款"
-          ],
-          "explanation": "The target keyword was: 【提款】"
         }
       ],
       "passThreshold": 0.8
@@ -13561,7 +11585,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元31第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元31第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元31第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
@@ -13574,12 +11598,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-31-3】：把握「粵語單元31第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-31-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13624,15 +11644,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «匯款»):",
-          "acceptedAnswers": [
-            "匯款",
-            "匯款"
-          ],
-          "explanation": "The target keyword was: 【匯款】"
         }
       ],
       "passThreshold": 0.8
@@ -13647,7 +11658,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元31第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元31第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元31第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
@@ -13660,12 +11671,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-31-4】：把握「粵語單元31第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-31-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13710,15 +11717,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «利息»):",
-          "acceptedAnswers": [
-            "利息",
-            "利息"
-          ],
-          "explanation": "The target keyword was: 【利息】"
         }
       ],
       "passThreshold": 0.8
@@ -13733,7 +11731,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元31第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元31第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元31第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第31課嘅語法要點。",
@@ -13746,12 +11744,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-31-5】：把握「粵語單元31第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-31-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13796,15 +11790,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «投資»):",
-          "acceptedAnswers": [
-            "投資",
-            "投資"
-          ],
-          "explanation": "The target keyword was: 【投資】"
         }
       ],
       "passThreshold": 0.8
@@ -13819,7 +11804,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元32第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元32第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元32第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
@@ -13832,12 +11817,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-32-1】：把握「粵語單元32第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-32-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13882,15 +11863,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «股票»):",
-          "acceptedAnswers": [
-            "股票",
-            "股票"
-          ],
-          "explanation": "The target keyword was: 【股票】"
         }
       ],
       "passThreshold": 0.8
@@ -13905,7 +11877,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元32第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元32第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元32第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
@@ -13918,12 +11890,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-32-2】：把握「粵語單元32第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-32-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13968,15 +11936,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «保險»):",
-          "acceptedAnswers": [
-            "保險",
-            "保險"
-          ],
-          "explanation": "The target keyword was: 【保險】"
         }
       ],
       "passThreshold": 0.8
@@ -13991,7 +11950,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元32第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元32第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元32第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
@@ -14004,12 +11963,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-32-3】：把握「粵語單元32第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-32-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14054,15 +12009,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «合約»):",
-          "acceptedAnswers": [
-            "合約",
-            "合約"
-          ],
-          "explanation": "The target keyword was: 【合約】"
         }
       ],
       "passThreshold": 0.8
@@ -14077,7 +12023,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元32第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元32第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元32第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
@@ -14090,12 +12036,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-32-4】：把握「粵語單元32第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-32-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14140,15 +12082,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «簽名»):",
-          "acceptedAnswers": [
-            "簽名",
-            "簽名"
-          ],
-          "explanation": "The target keyword was: 【簽名】"
         }
       ],
       "passThreshold": 0.8
@@ -14163,7 +12096,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元32第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元32第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元32第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
@@ -14176,12 +12109,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-32-5】：把握「粵語單元32第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-32-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14226,15 +12155,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «文件»):",
-          "acceptedAnswers": [
-            "文件",
-            "文件"
-          ],
-          "explanation": "The target keyword was: 【文件】"
         }
       ],
       "passThreshold": 0.8
@@ -14249,7 +12169,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元33第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元33第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元33第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
@@ -14262,12 +12182,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-33-1】：把握「粵語單元33第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-33-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14312,15 +12228,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «法律»):",
-          "acceptedAnswers": [
-            "法律",
-            "法律"
-          ],
-          "explanation": "The target keyword was: 【法律】"
         }
       ],
       "passThreshold": 0.8
@@ -14335,7 +12242,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元33第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元33第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元33第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
@@ -14348,12 +12255,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-33-2】：把握「粵語單元33第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-33-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14398,15 +12301,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «法官»):",
-          "acceptedAnswers": [
-            "法官",
-            "法官"
-          ],
-          "explanation": "The target keyword was: 【法官】"
         }
       ],
       "passThreshold": 0.8
@@ -14421,7 +12315,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元33第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元33第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元33第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
@@ -14434,12 +12328,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-33-3】：把握「粵語單元33第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-33-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14484,15 +12374,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «律師»):",
-          "acceptedAnswers": [
-            "律師",
-            "律師"
-          ],
-          "explanation": "The target keyword was: 【律師】"
         }
       ],
       "passThreshold": 0.8
@@ -14507,7 +12388,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元33第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元33第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元33第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
@@ -14520,12 +12401,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-33-4】：把握「粵語單元33第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-33-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14570,15 +12447,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «法庭»):",
-          "acceptedAnswers": [
-            "法庭",
-            "法庭"
-          ],
-          "explanation": "The target keyword was: 【法庭】"
         }
       ],
       "passThreshold": 0.8
@@ -14593,7 +12461,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元33第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元33第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元33第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
@@ -14606,12 +12474,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-33-5】：把握「粵語單元33第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-33-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14656,15 +12520,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «審判»):",
-          "acceptedAnswers": [
-            "審判",
-            "審判"
-          ],
-          "explanation": "The target keyword was: 【審判】"
         }
       ],
       "passThreshold": 0.8
@@ -14679,7 +12534,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元34第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元34第1課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元34第1課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
@@ -14692,12 +12547,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-34-1】：把握「粵語單元34第1」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-34-1】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14742,15 +12593,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «起訴»):",
-          "acceptedAnswers": [
-            "起訴",
-            "起訴"
-          ],
-          "explanation": "The target keyword was: 【起訴】"
         }
       ],
       "passThreshold": 0.8
@@ -14765,7 +12607,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元34第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元34第2課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元34第2課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
@@ -14778,12 +12620,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-34-2】：把握「粵語單元34第2」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-34-2】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14828,15 +12666,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «辯護»):",
-          "acceptedAnswers": [
-            "辯護",
-            "辯護"
-          ],
-          "explanation": "The target keyword was: 【辯護】"
         }
       ],
       "passThreshold": 0.8
@@ -14851,7 +12680,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元34第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元34第3課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元34第3課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
@@ -14864,12 +12693,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-34-3】：把握「粵語單元34第3」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-34-3】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14914,15 +12739,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «證人»):",
-          "acceptedAnswers": [
-            "證人",
-            "證人"
-          ],
-          "explanation": "The target keyword was: 【證人】"
         }
       ],
       "passThreshold": 0.8
@@ -14937,7 +12753,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元34第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元34第4課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元34第4課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
@@ -14950,12 +12766,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-34-4】：把握「粵語單元34第4」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-34-4】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15000,15 +12812,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «證據»):",
-          "acceptedAnswers": [
-            "證據",
-            "證據"
-          ],
-          "explanation": "The target keyword was: 【證據】"
         }
       ],
       "passThreshold": 0.8
@@ -15023,7 +12826,7 @@
     "level": "C2",
     "objective": "Master Cantonese linguistics for 粵語單元34第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
     "presentation": {
-      "explanation": "【粵語單元34第5課深度語言學結構】\n粵語（廣東話）具有深厚之中古漢語音韻淵源與獨特之句法系統。本課聚焦於「粵語單元34第5課深度語言學結構」之實質語法機制與交際應用。\n\n1. 句式構造規範：\n嚴格遵循廣州話固有語序。在運用動態助詞、介詞短語及體貌標記時，注重名詞量詞搭配與動詞補語邏輯。\n\n2. 聲調與語流音變：\n準確掌握九聲六調之音高走勢，特別是陰平（55）、陰上（35）與陽去（22）之調值對比，避免調值混淆。\n\n3. 嶺南語用禮儀：\n結合廣府及香港現代社會語境，恰當運用句末語氣詞，精準表達說話者之客氣、委婉或確認語氣。",
+      "explanation": "",
       "examples": [
         {
           "target": "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
@@ -15036,12 +12839,8 @@
           "translation": "Please pay attention to the pitch contours and word collocations of this example."
         }
       ],
-      "mnemonics": [
-        "【記憶訣竅 HK-34-5】：把握「粵語單元34第5」之關鍵調值與核心句式，反覆朗讀建立語感。"
-      ],
-      "culturalNotes": [
-        "【文化背景 HK-34-5】：在粵語社群中，此類表達廣見於茶樓文化、商業交際及日常鄰里往來，具濃厚人情味。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15086,24 +12885,18 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «公義»):",
-          "acceptedAnswers": [
-            "公義",
-            "公義"
-          ],
-          "explanation": "The target keyword was: 【公義】"
         }
       ],
       "passThreshold": 0.8
     }
   }
 };
-  var ROADMAP = [];
-  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
+  var CURRICULUM = {
+    subject: 'cantonese',
+    units: UNITS,
+    lessons: LESSONS
+  };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['cantonese'] = SUBJECT;
-  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
+  global.FEARN_CURRICULA['cantonese'] = CURRICULUM;
+  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
 })(typeof window !== 'undefined' ? window : global);

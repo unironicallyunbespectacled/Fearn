@@ -1,4 +1,4 @@
-// typing curriculum — fully authored
+// typing curriculum
 (function (global) {
   'use strict';
   var UNITS = [
@@ -151,12 +151,8 @@
           "focus": "Right-hand isolation — same drill mirrored, including the pinky stretch to semicolon, the row's trickiest key."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U1-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Place fingers correctly on the."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U1-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -224,12 +220,8 @@
           "focus": "A whole seven-letter real word using only A, L, F — proof that basecamp alone can already type something meaningful."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U1-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Type short home-row-only words."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U1-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -291,12 +283,8 @@
           "focus": "Doubled letters (dd) test whether you can strike the same key twice in a row without hesitating, a common speed bottleneck."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U1-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Build home-row muscle memory t."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U1-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -360,12 +348,8 @@
           "focus": "A slightly longer chain to practice the return reflex across multiple consecutive space-bar reaches without losing the habit partway through."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U1-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Return to home row automatical."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U1-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -422,12 +406,8 @@
           "focus": "Introduces the semicolon reach (right pinky) inside a full home-row-only sentence."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U1-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Pass a home-row-only speed and."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U1-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -502,12 +482,8 @@
           "focus": "Introduces w in a real short phrase, testing the return reflex across a space-bar reach too."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U2-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Reach from home row to the top."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U2-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -575,12 +551,8 @@
           "focus": "w, r, i, t, e — another word proving the left and right index reaches combine naturally with the rest of the top row."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U2-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Reach from home row to the top."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U2-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -655,12 +627,8 @@
           "focus": "A full phrase using every top-row letter taught so far (q w e r t y u i o p) woven through home-row words."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U2-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Reach from home row to O P and."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U2-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -729,12 +697,8 @@
           "focus": "A second full sentence leaning on the right-hand reaches (j, q, u, y, p) alongside familiar home-row words."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U2-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Type full sentences using only."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U2-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -798,12 +762,8 @@
           "focus": "A shorter, faster-paced passage for a timed speed rep."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U2-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Pass a home-and-top-row speed ."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U2-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -878,12 +838,8 @@
           "focus": "A full home-row-completion sentence: every word uses only letters taught through this lesson (home row, top row, and now g/h) — no bottom-row letters yet."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U3-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Reach from home row to the row."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U3-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -958,12 +914,8 @@
           "focus": "A full sentence using Z, X, C alongside every letter taught so far — no V B N M yet, those arrive next lesson."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U3-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Reach from home row to bottom ."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U3-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1038,12 +990,8 @@
           "focus": "The classic pangram — the first sentence in this curriculum that can use every letter of the alphabet, now that V B N M are open."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U3-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Reach from home row to bottom ."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U3-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1114,12 +1062,8 @@
           "focus": "A second full-alphabet-style sentence combining vocabulary from every unit so far."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U3-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Type full-alphabet sentences u."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U3-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1183,12 +1127,8 @@
           "focus": "A varied passage mixing punctuation, G/H, bottom-row letters, and earlier vocabulary in one pass."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U3-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Pass a full-alphabet speed and."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U3-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1265,12 +1205,8 @@
         "Mixed word and number combinations: 'feed 45 deer / 12 fast cats / 34 red cars / 15 safe doors'",
         "Snap-back technique: Strike 4 with left index -> immediately return index to the F bump."
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U4-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Master touch typing on the lef."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U4-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1419,12 +1355,8 @@
         "Ten-digit full sequence: '12345 67890 / 2026 / 1984 / 500-250 = 250'",
         "Hyphen drill: 'well-known / twenty-five / user-friendly'"
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U4-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Master touch typing on the rig."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U4-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1573,12 +1505,8 @@
         "Real-world strings: '$50.00 / 100% / #1 / user@test.com / Wow!'",
         "Two-handed coordination: Right pinky holds Shift -> Left index strikes 4 ($) -> release both simultaneously."
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U4-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Type shifted left-hand symbols."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U4-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1727,12 +1655,8 @@
         "Math & Code strings: '(x + y) * (a - b) / total_count = 100 & valid'",
         "Parentheses rhythm: Open paren (ring 9) -> type content -> close paren (pinky 0)."
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U4-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Type shifted right-hand symbol."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U4-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1883,12 +1807,8 @@
         "Code drill: 'function calculate_tax(price, rate = 0.15) { return price * (1 + rate); }'",
         "Alphanumeric sprint: 'Room #402: 3 beds, 2 baths, $1,850/mo (Call: 555-0198).'"
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U4-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Integrate numbers (0–9), punct."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U4-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2038,12 +1958,8 @@
           "translation": "Conditional block with nested parentheses and braces."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U5-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Master touch-typing all forms ."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U5-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2171,12 +2087,8 @@
           "translation": "Modulo, inequality, strict equality, and bitwise XOR."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U5-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Achieve rapid touch-typing acc."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U5-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2304,12 +2216,8 @@
           "translation": "Web URL with colon, forward slashes, question mark, and equals."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U5-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Master quotes (' \"), colons/se."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U5-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2437,12 +2345,8 @@
           "translation": "CSS flexbox property declarations with hyphens and colons."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U5-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Type structured JSON data bloc."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U5-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2570,12 +2474,8 @@
           "translation": "State object initialization with multiple primitives and arrays."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U5-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Demonstrate comprehensive Unit."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U5-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2698,12 +2598,8 @@
           "translation": "Drill passage: Flow continuity and syllable chunking."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U6-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Execute 60-second continuous f."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U6-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2826,12 +2722,8 @@
           "translation": "Aerobic pacing drill: Long clause transitions."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U6-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Build sustained 2-minute aerob."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U6-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2954,12 +2846,8 @@
           "translation": "Gear shift drill: High-frequency connective prose surrounding analytical vocabulary."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U6-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Master the dynamic transition ."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U6-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3082,12 +2970,8 @@
           "translation": "Psychological composure drill."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U6-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Master instant error recovery ."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U6-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3210,12 +3094,8 @@
           "translation": "Master excerpt: Rhythmic continuity and feather touch."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U6-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Demonstrate comprehensive Adva."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U6-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3338,12 +3218,8 @@
           "translation": "High-velocity word rolls."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U7-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Execute 15-second high-velocit."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U7-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3466,12 +3342,8 @@
           "translation": "High-speed quadri-gram."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U7-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Execute 30-second high-velocit."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U7-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3594,12 +3466,8 @@
           "translation": "Target certification pace."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U7-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Break and sustain the 100 WPM ."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U7-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3722,12 +3590,8 @@
           "translation": "High-speed code syntax."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U7-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Fuse numbers, symbols, bracket."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U7-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3850,12 +3714,8 @@
           "translation": "Universal input agility."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U7-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Demonstrate Master Century Spe."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U7-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3978,12 +3838,8 @@
           "translation": "Cadence stabilization."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U8-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Achieve metronomic isochronous."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U8-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4106,12 +3962,8 @@
           "translation": "Immediate stroke correction."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U8-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Master high-speed error recove."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U8-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4234,12 +4086,8 @@
           "translation": "Ergonomic endurance mechanics."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U8-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Build sustained endurance acro."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U8-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4362,12 +4210,8 @@
           "translation": "Clutch performance under stress."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U8-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Master competitive online typi."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U8-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4490,12 +4334,8 @@
           "translation": "Master verification suite."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U8-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Demonstrate complete Master Gr."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U8-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4623,12 +4463,8 @@
           "translation": "Bigram synthesis words"
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U9-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Execute the top 10 most freque."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U9-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4756,12 +4592,8 @@
           "translation": "Trigram -ING practice"
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U9-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Automate high-frequency Englis."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U9-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4889,12 +4721,8 @@
           "translation": "Top 41-60 sight words drill"
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U9-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Build reflexive neuromuscular ."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U9-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5022,12 +4850,8 @@
           "translation": "Rhythmic sight-word sentence"
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U9-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Synthesize high-frequency word."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U9-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5155,12 +4979,8 @@
           "translation": "Lookahead Buffer Demonstration"
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor TYPING-U9-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Pass a high-frequency prose ch."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery TYPING-U9-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5265,9 +5085,12 @@
     }
   }
 };
-  var ROADMAP = [];
-  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
+  var CURRICULUM = {
+    subject: 'typing',
+    units: UNITS,
+    lessons: LESSONS
+  };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['typing'] = SUBJECT;
-  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
+  global.FEARN_CURRICULA['typing'] = CURRICULUM;
+  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
 })(typeof window !== 'undefined' ? window : global);

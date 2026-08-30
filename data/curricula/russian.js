@@ -1,4 +1,4 @@
-// russian curriculum — fully authored CEFR A1-C2 roadmap (34 units, 170 lessons)
+// russian curriculum
 (function (global) {
   'use strict';
   var UNITS = [
@@ -478,12 +478,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U1-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U1-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -597,12 +593,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U1-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U1-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -716,12 +708,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U1-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U1-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -835,12 +823,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U1-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U1-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -954,12 +938,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U1-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U1-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1073,12 +1053,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U2-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U2-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1192,12 +1168,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U2-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U2-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1311,12 +1283,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U2-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U2-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1430,12 +1398,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U2-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U2-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1549,12 +1513,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U2-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U2-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1668,12 +1628,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U3-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U3-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1787,12 +1743,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U3-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U3-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1906,12 +1858,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U3-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U3-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2025,12 +1973,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U3-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U3-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2144,12 +2088,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U3-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U3-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2263,12 +2203,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U4-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U4-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2382,12 +2318,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U4-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U4-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2501,12 +2433,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U4-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U4-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2620,12 +2548,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U4-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U4-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2739,12 +2663,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U4-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U4-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2858,12 +2778,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U5-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U5-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2977,12 +2893,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U5-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U5-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3096,12 +3008,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U5-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U5-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3215,12 +3123,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U5-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U5-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3334,12 +3238,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U5-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U5-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3453,12 +3353,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U6-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U6-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3572,12 +3468,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U6-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U6-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3691,12 +3583,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U6-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U6-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3810,12 +3698,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U6-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U6-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3929,12 +3813,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U6-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U6-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4048,12 +3928,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U7-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U7-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4167,12 +4043,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U7-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U7-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4286,12 +4158,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U7-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U7-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4405,12 +4273,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U7-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U7-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4524,12 +4388,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U7-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U7-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4643,12 +4503,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U8-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U8-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4762,12 +4618,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U8-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U8-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4881,12 +4733,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U8-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U8-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5000,12 +4848,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U8-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U8-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5119,12 +4963,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U8-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U8-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5238,12 +5078,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U9-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U9-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5357,12 +5193,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U9-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U9-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5476,12 +5308,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U9-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U9-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5595,12 +5423,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U9-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U9-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5714,12 +5538,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U9-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U9-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5833,12 +5653,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U10-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U10-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5952,12 +5768,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U10-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U10-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6071,12 +5883,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U10-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U10-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6190,12 +5998,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U10-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U10-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6309,12 +6113,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U10-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U10-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6428,12 +6228,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U11-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U11-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6547,12 +6343,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U11-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U11-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6666,12 +6458,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U11-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U11-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6785,12 +6573,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U11-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U11-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6904,12 +6688,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U11-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U11-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7023,12 +6803,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U12-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U12-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7142,12 +6918,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U12-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U12-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7261,12 +7033,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U12-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U12-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7380,12 +7148,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U12-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U12-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7499,12 +7263,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U12-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U12-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7618,12 +7378,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U13-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U13-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7737,12 +7493,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U13-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U13-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7856,12 +7608,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U13-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U13-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7975,12 +7723,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U13-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U13-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8094,12 +7838,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U13-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U13-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8213,12 +7953,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U14-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U14-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8332,12 +8068,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U14-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U14-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8451,12 +8183,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U14-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U14-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8570,12 +8298,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U14-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U14-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8689,12 +8413,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U14-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U14-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8808,12 +8528,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U15-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U15-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8927,12 +8643,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U15-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U15-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9046,12 +8758,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U15-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U15-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9165,12 +8873,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U15-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U15-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9284,12 +8988,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U15-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U15-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9403,12 +9103,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U16-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U16-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9522,12 +9218,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U16-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U16-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9641,12 +9333,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U16-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U16-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9760,12 +9448,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U16-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U16-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9879,12 +9563,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U16-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U16-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9998,12 +9678,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U17-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U17-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10117,12 +9793,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U17-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U17-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10236,12 +9908,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U17-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U17-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10355,12 +10023,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U17-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U17-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10474,12 +10138,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U17-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U17-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10593,12 +10253,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U18-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U18-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10712,12 +10368,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U18-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U18-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10831,12 +10483,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U18-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U18-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10950,12 +10598,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U18-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U18-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11069,12 +10713,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U18-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U18-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11188,12 +10828,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U19-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U19-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11307,12 +10943,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U19-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U19-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11426,12 +11058,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U19-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U19-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11545,12 +11173,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U19-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U19-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11664,12 +11288,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U19-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U19-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11783,12 +11403,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U20-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U20-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11902,12 +11518,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U20-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U20-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12021,12 +11633,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U20-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U20-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12140,12 +11748,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U20-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U20-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12259,12 +11863,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U20-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U20-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12378,12 +11978,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U21-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U21-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12497,12 +12093,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U21-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U21-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12616,12 +12208,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U21-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U21-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12735,12 +12323,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U21-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U21-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12854,12 +12438,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U21-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U21-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12973,12 +12553,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U22-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U22-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13092,12 +12668,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U22-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U22-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13211,12 +12783,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U22-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U22-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13330,12 +12898,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U22-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U22-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13449,12 +13013,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U22-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U22-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13568,12 +13128,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U23-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U23-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13687,12 +13243,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U23-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U23-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13806,12 +13358,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U23-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U23-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13925,12 +13473,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U23-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U23-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14044,12 +13588,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U23-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U23-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14163,12 +13703,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U24-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U24-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14282,12 +13818,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U24-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U24-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14401,12 +13933,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U24-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U24-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14520,12 +14048,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U24-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U24-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14639,12 +14163,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U24-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U24-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14758,12 +14278,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U25-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U25-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14877,12 +14393,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U25-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U25-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14996,12 +14508,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U25-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U25-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15115,12 +14623,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U25-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U25-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15234,12 +14738,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U25-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U25-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15353,12 +14853,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U26-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U26-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15472,12 +14968,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U26-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U26-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15591,12 +15083,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U26-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U26-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15710,12 +15198,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U26-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U26-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15829,12 +15313,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U26-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U26-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15948,12 +15428,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U27-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U27-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16067,12 +15543,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U27-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U27-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16186,12 +15658,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U27-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U27-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16305,12 +15773,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U27-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U27-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16424,12 +15888,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U27-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U27-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16543,12 +16003,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U28-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U28-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16662,12 +16118,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U28-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U28-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16781,12 +16233,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U28-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U28-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16900,12 +16348,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U28-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U28-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17019,12 +16463,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U28-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U28-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17138,12 +16578,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U29-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U29-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17257,12 +16693,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U29-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U29-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17376,12 +16808,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U29-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U29-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17495,12 +16923,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U29-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U29-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17614,12 +17038,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U29-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U29-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17733,12 +17153,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U30-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U30-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17852,12 +17268,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U30-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U30-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17971,12 +17383,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U30-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U30-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18090,12 +17498,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U30-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U30-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18209,12 +17613,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U30-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U30-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18328,12 +17728,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U31-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U31-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18447,12 +17843,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U31-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U31-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18566,12 +17958,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U31-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U31-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18685,12 +18073,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U31-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U31-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18804,12 +18188,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U31-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U31-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18923,12 +18303,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U32-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U32-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19042,12 +18418,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U32-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U32-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19161,12 +18533,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U32-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U32-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19280,12 +18648,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U32-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U32-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19399,12 +18763,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U32-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U32-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19518,12 +18878,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U33-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U33-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19637,12 +18993,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U33-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U33-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19756,12 +19108,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U33-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U33-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19875,12 +19223,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U33-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U33-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19994,12 +19338,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U33-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U33-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -20113,12 +19453,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U34-L1】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U34-L1】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -20232,12 +19568,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U34-L2】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U34-L2】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -20351,12 +19683,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U34-L3】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U34-L3】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -20470,12 +19798,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U34-L4】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U34-L4】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -20589,12 +19913,8 @@
           "translation": "Successful mastery of the material is confirmed by the flawless completion of comprehensive assessment testing."
         }
       ],
-      "mnemonics": [
-        "【Мнемоническая опора RU-U34-L5】：Запомните падежное окончание и согласование для темы «Углубленное теоретическое»."
-      ],
-      "culturalNotes": [
-        "【Культурный контекст RU-U34-L5】：В русском этикете различие между «Вы» и «ты», а также употребление имени и отчества подчеркивают степень уважения и дистанции."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -20677,9 +19997,12 @@
     }
   }
 };
-  var ROADMAP = [];
-  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
+  var CURRICULUM = {
+    subject: 'russian',
+    units: UNITS,
+    lessons: LESSONS
+  };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['russian'] = SUBJECT;
-  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
+  global.FEARN_CURRICULA['russian'] = CURRICULUM;
+  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
 })(typeof window !== 'undefined' ? window : global);

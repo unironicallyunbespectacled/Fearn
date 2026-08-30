@@ -1,4 +1,4 @@
-// swahili curriculum — fully authored CEFR A1-C2 roadmap (34 units, 170 lessons)
+// swahili curriculum
 (function (global) {
   'use strict';
   var UNITS = [
@@ -489,7 +489,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Salamu na Heshima za Kwanza with authentic precision.",
     "presentation": {
-      "explanation": "【Salamu na Heshima za Kwanza】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Salamu na Heshima za Kwanza», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Habari za asubuhi, bwana mwalimu!",
@@ -502,12 +502,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-1-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Salamu na »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-1-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -552,15 +548,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Hujambo»):",
-          "acceptedAnswers": [
-            "Hujambo",
-            "Hujambo"
-          ],
-          "explanation": "The target keyword was: 【Hujambo】"
         }
       ]
     }
@@ -574,7 +561,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Kujitambulisha na Majina with authentic precision.",
     "presentation": {
-      "explanation": "【Kujitambulisha na Majina】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Kujitambulisha na Majina», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Jina langu ni Juma, ninafurahi kukufahamu.",
@@ -587,12 +574,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-1-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Kujitambul»."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-1-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -637,15 +620,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Habari»):",
-          "acceptedAnswers": [
-            "Habari",
-            "Habari"
-          ],
-          "explanation": "The target keyword was: 【Habari】"
         }
       ]
     }
@@ -659,7 +633,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Shukrani na Adabu za Kijamii with authentic precision.",
     "presentation": {
-      "explanation": "【Shukrani na Adabu za Kijamii】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Shukrani na Adabu za Kijamii», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Asante sana kwa msaada wako na ukarimu.",
@@ -672,12 +646,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-1-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Shukrani n»."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-1-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -722,15 +692,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Asante»):",
-          "acceptedAnswers": [
-            "Asante",
-            "Asante"
-          ],
-          "explanation": "The target keyword was: 【Asante】"
         }
       ]
     }
@@ -744,7 +705,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Kuomba Radhi na Heshima with authentic precision.",
     "presentation": {
-      "explanation": "【Kuomba Radhi na Heshima】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Kuomba Radhi na Heshima», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Samahani, naomba unielekeze njia ya kwenda sokoni.",
@@ -757,12 +718,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-1-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Kuomba Rad»."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-1-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -807,15 +764,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Tafadhali»):",
-          "acceptedAnswers": [
-            "Tafadhali",
-            "Tafadhali"
-          ],
-          "explanation": "The target keyword was: 【Tafadhali】"
         }
       ]
     }
@@ -829,7 +777,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Kuagana na Matakwa Mema with authentic precision.",
     "presentation": {
-      "explanation": "【Kuagana na Matakwa Mema】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Kuagana na Matakwa Mema», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Kwaheri ya kuonana, nakutakia siku njema!",
@@ -842,12 +790,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-1-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Kuagana na»."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-1-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -892,15 +836,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kwaheri»):",
-          "acceptedAnswers": [
-            "Kwaheri",
-            "Kwaheri"
-          ],
-          "explanation": "The target keyword was: 【Kwaheri】"
         }
       ]
     }
@@ -914,7 +849,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.1.",
@@ -927,12 +862,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-2-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-2-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -977,15 +908,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Samahani»):",
-          "acceptedAnswers": [
-            "Samahani",
-            "Samahani"
-          ],
-          "explanation": "The target keyword was: 【Samahani】"
         }
       ]
     }
@@ -999,7 +921,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.2.",
@@ -1012,12 +934,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-2-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-2-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1062,15 +980,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Karibu»):",
-          "acceptedAnswers": [
-            "Karibu",
-            "Karibu"
-          ],
-          "explanation": "The target keyword was: 【Karibu】"
         }
       ]
     }
@@ -1084,7 +993,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.3.",
@@ -1097,12 +1006,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-2-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-2-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1147,15 +1052,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Chakula cha asubuhi»):",
-          "acceptedAnswers": [
-            "Chakula cha asubuhi",
-            "Chakula cha asubuhi"
-          ],
-          "explanation": "The target keyword was: 【Chakula cha asubuhi】"
         }
       ]
     }
@@ -1169,7 +1065,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.4.",
@@ -1182,12 +1078,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-2-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-2-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1232,15 +1124,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Chakula cha mchana»):",
-          "acceptedAnswers": [
-            "Chakula cha mchana",
-            "Chakula cha mchana"
-          ],
-          "explanation": "The target keyword was: 【Chakula cha mchana】"
         }
       ]
     }
@@ -1254,7 +1137,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 2.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 2.5.",
@@ -1267,12 +1150,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-2-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-2-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1317,15 +1196,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Chakula cha jioni»):",
-          "acceptedAnswers": [
-            "Chakula cha jioni",
-            "Chakula cha jioni"
-          ],
-          "explanation": "The target keyword was: 【Chakula cha jioni】"
         }
       ]
     }
@@ -1339,7 +1209,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.1.",
@@ -1352,12 +1222,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-3-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-3-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1402,15 +1268,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Maji»):",
-          "acceptedAnswers": [
-            "Maji",
-            "Maji"
-          ],
-          "explanation": "The target keyword was: 【Maji】"
         }
       ]
     }
@@ -1424,7 +1281,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.2.",
@@ -1437,12 +1294,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-3-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-3-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1487,15 +1340,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Maziwa»):",
-          "acceptedAnswers": [
-            "Maziwa",
-            "Maziwa"
-          ],
-          "explanation": "The target keyword was: 【Maziwa】"
         }
       ]
     }
@@ -1509,7 +1353,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.3.",
@@ -1522,12 +1366,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-3-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-3-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1572,15 +1412,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Chai»):",
-          "acceptedAnswers": [
-            "Chai",
-            "Chai"
-          ],
-          "explanation": "The target keyword was: 【Chai】"
         }
       ]
     }
@@ -1594,7 +1425,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.4.",
@@ -1607,12 +1438,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-3-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-3-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1657,15 +1484,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mkate»):",
-          "acceptedAnswers": [
-            "Mkate",
-            "Mkate"
-          ],
-          "explanation": "The target keyword was: 【Mkate】"
         }
       ]
     }
@@ -1679,7 +1497,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 3.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 3.5.",
@@ -1692,12 +1510,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-3-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-3-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1742,15 +1556,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Wali»):",
-          "acceptedAnswers": [
-            "Wali",
-            "Wali"
-          ],
-          "explanation": "The target keyword was: 【Wali】"
         }
       ]
     }
@@ -1764,7 +1569,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.1.",
@@ -1777,12 +1582,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-4-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-4-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1827,15 +1628,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Maharagwe»):",
-          "acceptedAnswers": [
-            "Maharagwe",
-            "Maharagwe"
-          ],
-          "explanation": "The target keyword was: 【Maharagwe】"
         }
       ]
     }
@@ -1849,7 +1641,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.2.",
@@ -1862,12 +1654,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-4-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-4-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1912,15 +1700,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mboga»):",
-          "acceptedAnswers": [
-            "Mboga",
-            "Mboga"
-          ],
-          "explanation": "The target keyword was: 【Mboga】"
         }
       ]
     }
@@ -1934,7 +1713,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.3.",
@@ -1947,12 +1726,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-4-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-4-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1997,15 +1772,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Matunda»):",
-          "acceptedAnswers": [
-            "Matunda",
-            "Matunda"
-          ],
-          "explanation": "The target keyword was: 【Matunda】"
         }
       ]
     }
@@ -2019,7 +1785,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.4.",
@@ -2032,12 +1798,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-4-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-4-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2082,15 +1844,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Nyama»):",
-          "acceptedAnswers": [
-            "Nyama",
-            "Nyama"
-          ],
-          "explanation": "The target keyword was: 【Nyama】"
         }
       ]
     }
@@ -2104,7 +1857,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 4.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 4.5.",
@@ -2117,12 +1870,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-4-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-4-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2167,15 +1916,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Samaki»):",
-          "acceptedAnswers": [
-            "Samaki",
-            "Samaki"
-          ],
-          "explanation": "The target keyword was: 【Samaki】"
         }
       ]
     }
@@ -2189,7 +1929,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.1.",
@@ -2202,12 +1942,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-5-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-5-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2252,15 +1988,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Gari»):",
-          "acceptedAnswers": [
-            "Gari",
-            "Gari"
-          ],
-          "explanation": "The target keyword was: 【Gari】"
         }
       ]
     }
@@ -2274,7 +2001,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.2.",
@@ -2287,12 +2014,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-5-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-5-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2337,15 +2060,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Basi»):",
-          "acceptedAnswers": [
-            "Basi",
-            "Basi"
-          ],
-          "explanation": "The target keyword was: 【Basi】"
         }
       ]
     }
@@ -2359,7 +2073,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.3.",
@@ -2372,12 +2086,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-5-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-5-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2422,15 +2132,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Treni»):",
-          "acceptedAnswers": [
-            "Treni",
-            "Treni"
-          ],
-          "explanation": "The target keyword was: 【Treni】"
         }
       ]
     }
@@ -2444,7 +2145,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.4.",
@@ -2457,12 +2158,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-5-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-5-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2507,15 +2204,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Ndege»):",
-          "acceptedAnswers": [
-            "Ndege",
-            "Ndege"
-          ],
-          "explanation": "The target keyword was: 【Ndege】"
         }
       ]
     }
@@ -2529,7 +2217,7 @@
     "level": "A1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.5.",
@@ -2542,12 +2230,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-5-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-5-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2592,15 +2276,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Pikipiki»):",
-          "acceptedAnswers": [
-            "Pikipiki",
-            "Pikipiki"
-          ],
-          "explanation": "The target keyword was: 【Pikipiki】"
         }
       ]
     }
@@ -2614,7 +2289,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.1.",
@@ -2627,12 +2302,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-6-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-6-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2677,15 +2348,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Tiketi»):",
-          "acceptedAnswers": [
-            "Tiketi",
-            "Tiketi"
-          ],
-          "explanation": "The target keyword was: 【Tiketi】"
         }
       ]
     }
@@ -2699,7 +2361,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.2.",
@@ -2712,12 +2374,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-6-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-6-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2762,15 +2420,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kituo»):",
-          "acceptedAnswers": [
-            "Kituo",
-            "Kituo"
-          ],
-          "explanation": "The target keyword was: 【Kituo】"
         }
       ]
     }
@@ -2784,7 +2433,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.3.",
@@ -2797,12 +2446,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-6-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-6-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2847,15 +2492,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Uwanja wa ndege»):",
-          "acceptedAnswers": [
-            "Uwanja wa ndege",
-            "Uwanja wa ndege"
-          ],
-          "explanation": "The target keyword was: 【Uwanja wa ndege】"
         }
       ]
     }
@@ -2869,7 +2505,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.4.",
@@ -2882,12 +2518,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-6-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-6-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2932,15 +2564,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Barabara»):",
-          "acceptedAnswers": [
-            "Barabara",
-            "Barabara"
-          ],
-          "explanation": "The target keyword was: 【Barabara】"
         }
       ]
     }
@@ -2954,7 +2577,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.5.",
@@ -2967,12 +2590,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-6-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-6-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3017,15 +2636,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mji»):",
-          "acceptedAnswers": [
-            "Mji",
-            "Mji"
-          ],
-          "explanation": "The target keyword was: 【Mji】"
         }
       ]
     }
@@ -3039,7 +2649,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.1.",
@@ -3052,12 +2662,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-7-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-7-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3102,15 +2708,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Duka»):",
-          "acceptedAnswers": [
-            "Duka",
-            "Duka"
-          ],
-          "explanation": "The target keyword was: 【Duka】"
         }
       ]
     }
@@ -3124,7 +2721,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.2.",
@@ -3137,12 +2734,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-7-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-7-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3187,15 +2780,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Pesa»):",
-          "acceptedAnswers": [
-            "Pesa",
-            "Pesa"
-          ],
-          "explanation": "The target keyword was: 【Pesa】"
         }
       ]
     }
@@ -3209,7 +2793,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.3.",
@@ -3222,12 +2806,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-7-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-7-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3272,15 +2852,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Bei»):",
-          "acceptedAnswers": [
-            "Bei",
-            "Bei"
-          ],
-          "explanation": "The target keyword was: 【Bei】"
         }
       ]
     }
@@ -3294,7 +2865,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.4.",
@@ -3307,12 +2878,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-7-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-7-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3357,15 +2924,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Punguzo»):",
-          "acceptedAnswers": [
-            "Punguzo",
-            "Punguzo"
-          ],
-          "explanation": "The target keyword was: 【Punguzo】"
         }
       ]
     }
@@ -3379,7 +2937,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.5.",
@@ -3392,12 +2950,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-7-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-7-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3442,15 +2996,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Risiti»):",
-          "acceptedAnswers": [
-            "Risiti",
-            "Risiti"
-          ],
-          "explanation": "The target keyword was: 【Risiti】"
         }
       ]
     }
@@ -3464,7 +3009,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.1.",
@@ -3477,12 +3022,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-8-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-8-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3527,15 +3068,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Bili»):",
-          "acceptedAnswers": [
-            "Bili",
-            "Bili"
-          ],
-          "explanation": "The target keyword was: 【Bili】"
         }
       ]
     }
@@ -3549,7 +3081,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.2.",
@@ -3562,12 +3094,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-8-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-8-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3612,15 +3140,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Soko»):",
-          "acceptedAnswers": [
-            "Soko",
-            "Soko"
-          ],
-          "explanation": "The target keyword was: 【Soko】"
         }
       ]
     }
@@ -3634,7 +3153,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.3.",
@@ -3647,12 +3166,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-8-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-8-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3697,15 +3212,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Ununuzi»):",
-          "acceptedAnswers": [
-            "Ununuzi",
-            "Ununuzi"
-          ],
-          "explanation": "The target keyword was: 【Ununuzi】"
         }
       ]
     }
@@ -3719,7 +3225,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.4.",
@@ -3732,12 +3238,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-8-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-8-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3782,15 +3284,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kadi»):",
-          "acceptedAnswers": [
-            "Kadi",
-            "Kadi"
-          ],
-          "explanation": "The target keyword was: 【Kadi】"
         }
       ]
     }
@@ -3804,7 +3297,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 8.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 8.5.",
@@ -3817,12 +3310,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-8-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-8-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3867,15 +3356,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Pesa taslimu»):",
-          "acceptedAnswers": [
-            "Pesa taslimu",
-            "Pesa taslimu"
-          ],
-          "explanation": "The target keyword was: 【Pesa taslimu】"
         }
       ]
     }
@@ -3889,7 +3369,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.1.",
@@ -3902,12 +3382,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-9-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-9-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3952,15 +3428,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Nyumba»):",
-          "acceptedAnswers": [
-            "Nyumba",
-            "Nyumba"
-          ],
-          "explanation": "The target keyword was: 【Nyumba】"
         }
       ]
     }
@@ -3974,7 +3441,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.2.",
@@ -3987,12 +3454,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-9-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-9-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4037,15 +3500,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Chumba»):",
-          "acceptedAnswers": [
-            "Chumba",
-            "Chumba"
-          ],
-          "explanation": "The target keyword was: 【Chumba】"
         }
       ]
     }
@@ -4059,7 +3513,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.3.",
@@ -4072,12 +3526,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-9-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-9-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4122,15 +3572,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Jiko»):",
-          "acceptedAnswers": [
-            "Jiko",
-            "Jiko"
-          ],
-          "explanation": "The target keyword was: 【Jiko】"
         }
       ]
     }
@@ -4144,7 +3585,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.4.",
@@ -4157,12 +3598,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-9-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-9-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4207,15 +3644,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Dirisha»):",
-          "acceptedAnswers": [
-            "Dirisha",
-            "Dirisha"
-          ],
-          "explanation": "The target keyword was: 【Dirisha】"
         }
       ]
     }
@@ -4229,7 +3657,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.5.",
@@ -4242,12 +3670,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-9-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-9-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4292,15 +3716,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mlango»):",
-          "acceptedAnswers": [
-            "Mlango",
-            "Mlango"
-          ],
-          "explanation": "The target keyword was: 【Mlango】"
         }
       ]
     }
@@ -4314,7 +3729,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.1.",
@@ -4327,12 +3742,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-10-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-10-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4377,15 +3788,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Meza»):",
-          "acceptedAnswers": [
-            "Meza",
-            "Meza"
-          ],
-          "explanation": "The target keyword was: 【Meza】"
         }
       ]
     }
@@ -4399,7 +3801,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.2.",
@@ -4412,12 +3814,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-10-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-10-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4462,15 +3860,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kiti»):",
-          "acceptedAnswers": [
-            "Kiti",
-            "Kiti"
-          ],
-          "explanation": "The target keyword was: 【Kiti】"
         }
       ]
     }
@@ -4484,7 +3873,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.3.",
@@ -4497,12 +3886,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-10-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-10-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4547,15 +3932,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kitanda»):",
-          "acceptedAnswers": [
-            "Kitanda",
-            "Kitanda"
-          ],
-          "explanation": "The target keyword was: 【Kitanda】"
         }
       ]
     }
@@ -4569,7 +3945,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.4.",
@@ -4582,12 +3958,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-10-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-10-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4632,15 +4004,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Ukuta»):",
-          "acceptedAnswers": [
-            "Ukuta",
-            "Ukuta"
-          ],
-          "explanation": "The target keyword was: 【Ukuta】"
         }
       ]
     }
@@ -4654,7 +4017,7 @@
     "level": "A2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 10.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 10.5.",
@@ -4667,12 +4030,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-10-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-10-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4717,15 +4076,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Paa»):",
-          "acceptedAnswers": [
-            "Paa",
-            "Paa"
-          ],
-          "explanation": "The target keyword was: 【Paa】"
         }
       ]
     }
@@ -4739,7 +4089,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.1.",
@@ -4752,12 +4102,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-11-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-11-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4802,15 +4148,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kazi»):",
-          "acceptedAnswers": [
-            "Kazi",
-            "Kazi"
-          ],
-          "explanation": "The target keyword was: 【Kazi】"
         }
       ]
     }
@@ -4824,7 +4161,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.2.",
@@ -4837,12 +4174,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-11-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-11-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4887,15 +4220,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Ofisi»):",
-          "acceptedAnswers": [
-            "Ofisi",
-            "Ofisi"
-          ],
-          "explanation": "The target keyword was: 【Ofisi】"
         }
       ]
     }
@@ -4909,7 +4233,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.3.",
@@ -4922,12 +4246,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-11-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-11-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4972,15 +4292,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mfanyakazi»):",
-          "acceptedAnswers": [
-            "Mfanyakazi",
-            "Mfanyakazi"
-          ],
-          "explanation": "The target keyword was: 【Mfanyakazi】"
         }
       ]
     }
@@ -4994,7 +4305,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.4.",
@@ -5007,12 +4318,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-11-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-11-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5057,15 +4364,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Bosi»):",
-          "acceptedAnswers": [
-            "Bosi",
-            "Bosi"
-          ],
-          "explanation": "The target keyword was: 【Bosi】"
         }
       ]
     }
@@ -5079,7 +4377,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.5.",
@@ -5092,12 +4390,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-11-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-11-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5142,15 +4436,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mshahara»):",
-          "acceptedAnswers": [
-            "Mshahara",
-            "Mshahara"
-          ],
-          "explanation": "The target keyword was: 【Mshahara】"
         }
       ]
     }
@@ -5164,7 +4449,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.1.",
@@ -5177,12 +4462,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-12-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-12-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5227,15 +4508,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Likizo»):",
-          "acceptedAnswers": [
-            "Likizo",
-            "Likizo"
-          ],
-          "explanation": "The target keyword was: 【Likizo】"
         }
       ]
     }
@@ -5249,7 +4521,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.2.",
@@ -5262,12 +4534,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-12-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-12-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5312,15 +4580,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mkutano»):",
-          "acceptedAnswers": [
-            "Mkutano",
-            "Mkutano"
-          ],
-          "explanation": "The target keyword was: 【Mkutano】"
         }
       ]
     }
@@ -5334,7 +4593,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.3.",
@@ -5347,12 +4606,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-12-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-12-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5397,15 +4652,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mradi»):",
-          "acceptedAnswers": [
-            "Mradi",
-            "Mradi"
-          ],
-          "explanation": "The target keyword was: 【Mradi】"
         }
       ]
     }
@@ -5419,7 +4665,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.4.",
@@ -5432,12 +4678,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-12-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-12-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5482,15 +4724,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mkataba»):",
-          "acceptedAnswers": [
-            "Mkataba",
-            "Mkataba"
-          ],
-          "explanation": "The target keyword was: 【Mkataba】"
         }
       ]
     }
@@ -5504,7 +4737,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 12.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 12.5.",
@@ -5517,12 +4750,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-12-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-12-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5567,15 +4796,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Biashara»):",
-          "acceptedAnswers": [
-            "Biashara",
-            "Biashara"
-          ],
-          "explanation": "The target keyword was: 【Biashara】"
         }
       ]
     }
@@ -5589,7 +4809,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.1.",
@@ -5602,12 +4822,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-13-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-13-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5652,15 +4868,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kitabu»):",
-          "acceptedAnswers": [
-            "Kitabu",
-            "Kitabu"
-          ],
-          "explanation": "The target keyword was: 【Kitabu】"
         }
       ]
     }
@@ -5674,7 +4881,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.2.",
@@ -5687,12 +4894,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-13-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-13-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5737,15 +4940,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Muziki»):",
-          "acceptedAnswers": [
-            "Muziki",
-            "Muziki"
-          ],
-          "explanation": "The target keyword was: 【Muziki】"
         }
       ]
     }
@@ -5759,7 +4953,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.3.",
@@ -5772,12 +4966,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-13-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-13-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5822,15 +5012,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Filamu»):",
-          "acceptedAnswers": [
-            "Filamu",
-            "Filamu"
-          ],
-          "explanation": "The target keyword was: 【Filamu】"
         }
       ]
     }
@@ -5844,7 +5025,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.4.",
@@ -5857,12 +5038,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-13-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-13-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5907,15 +5084,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Michezo»):",
-          "acceptedAnswers": [
-            "Michezo",
-            "Michezo"
-          ],
-          "explanation": "The target keyword was: 【Michezo】"
         }
       ]
     }
@@ -5929,7 +5097,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 13.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 13.5.",
@@ -5942,12 +5110,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-13-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-13-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5992,15 +5156,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mpira wa miguu»):",
-          "acceptedAnswers": [
-            "Mpira wa miguu",
-            "Mpira wa miguu"
-          ],
-          "explanation": "The target keyword was: 【Mpira wa miguu】"
         }
       ]
     }
@@ -6014,7 +5169,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.1.",
@@ -6027,12 +5182,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-14-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-14-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6077,15 +5228,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Safari»):",
-          "acceptedAnswers": [
-            "Safari",
-            "Safari"
-          ],
-          "explanation": "The target keyword was: 【Safari】"
         }
       ]
     }
@@ -6099,7 +5241,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.2.",
@@ -6112,12 +5254,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-14-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-14-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6162,15 +5300,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Sanaa»):",
-          "acceptedAnswers": [
-            "Sanaa",
-            "Sanaa"
-          ],
-          "explanation": "The target keyword was: 【Sanaa】"
         }
       ]
     }
@@ -6184,7 +5313,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.3.",
@@ -6197,12 +5326,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-14-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-14-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6247,15 +5372,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mashairi»):",
-          "acceptedAnswers": [
-            "Mashairi",
-            "Mashairi"
-          ],
-          "explanation": "The target keyword was: 【Mashairi】"
         }
       ]
     }
@@ -6269,7 +5385,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.4.",
@@ -6282,12 +5398,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-14-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-14-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6332,15 +5444,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Ngoma»):",
-          "acceptedAnswers": [
-            "Ngoma",
-            "Ngoma"
-          ],
-          "explanation": "The target keyword was: 【Ngoma】"
         }
       ]
     }
@@ -6354,7 +5457,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 14.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 14.5.",
@@ -6367,12 +5470,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-14-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-14-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6417,15 +5516,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Utamaduni»):",
-          "acceptedAnswers": [
-            "Utamaduni",
-            "Utamaduni"
-          ],
-          "explanation": "The target keyword was: 【Utamaduni】"
         }
       ]
     }
@@ -6439,7 +5529,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.1.",
@@ -6452,12 +5542,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-15-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-15-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6502,15 +5588,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Hali ya hewa»):",
-          "acceptedAnswers": [
-            "Hali ya hewa",
-            "Hali ya hewa"
-          ],
-          "explanation": "The target keyword was: 【Hali ya hewa】"
         }
       ]
     }
@@ -6524,7 +5601,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.2.",
@@ -6537,12 +5614,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-15-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-15-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6587,15 +5660,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Jua»):",
-          "acceptedAnswers": [
-            "Jua",
-            "Jua"
-          ],
-          "explanation": "The target keyword was: 【Jua】"
         }
       ]
     }
@@ -6609,7 +5673,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.3.",
@@ -6622,12 +5686,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-15-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-15-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6672,15 +5732,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mvua»):",
-          "acceptedAnswers": [
-            "Mvua",
-            "Mvua"
-          ],
-          "explanation": "The target keyword was: 【Mvua】"
         }
       ]
     }
@@ -6694,7 +5745,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.4.",
@@ -6707,12 +5758,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-15-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-15-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6757,15 +5804,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Upepo»):",
-          "acceptedAnswers": [
-            "Upepo",
-            "Upepo"
-          ],
-          "explanation": "The target keyword was: 【Upepo】"
         }
       ]
     }
@@ -6779,7 +5817,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 15.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 15.5.",
@@ -6792,12 +5830,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-15-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-15-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6842,15 +5876,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mawingu»):",
-          "acceptedAnswers": [
-            "Mawingu",
-            "Mawingu"
-          ],
-          "explanation": "The target keyword was: 【Mawingu】"
         }
       ]
     }
@@ -6864,7 +5889,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.1.",
@@ -6877,12 +5902,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-16-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-16-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6927,15 +5948,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Joto»):",
-          "acceptedAnswers": [
-            "Joto",
-            "Joto"
-          ],
-          "explanation": "The target keyword was: 【Joto】"
         }
       ]
     }
@@ -6949,7 +5961,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.2.",
@@ -6962,12 +5974,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-16-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-16-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7012,15 +6020,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Baridi»):",
-          "acceptedAnswers": [
-            "Baridi",
-            "Baridi"
-          ],
-          "explanation": "The target keyword was: 【Baridi】"
         }
       ]
     }
@@ -7034,7 +6033,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.3.",
@@ -7047,12 +6046,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-16-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-16-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7097,15 +6092,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Masika»):",
-          "acceptedAnswers": [
-            "Masika",
-            "Masika"
-          ],
-          "explanation": "The target keyword was: 【Masika】"
         }
       ]
     }
@@ -7119,7 +6105,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.4.",
@@ -7132,12 +6118,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-16-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-16-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7182,15 +6164,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kipupwe»):",
-          "acceptedAnswers": [
-            "Kipupwe",
-            "Kipupwe"
-          ],
-          "explanation": "The target keyword was: 【Kipupwe】"
         }
       ]
     }
@@ -7204,7 +6177,7 @@
     "level": "B1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 16.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 16.5.",
@@ -7217,12 +6190,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-16-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-16-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7267,15 +6236,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kiwango cha joto»):",
-          "acceptedAnswers": [
-            "Kiwango cha joto",
-            "Kiwango cha joto"
-          ],
-          "explanation": "The target keyword was: 【Kiwango cha joto】"
         }
       ]
     }
@@ -7289,7 +6249,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.1.",
@@ -7302,12 +6262,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-17-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-17-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7352,15 +6308,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Daktari»):",
-          "acceptedAnswers": [
-            "Daktari",
-            "Daktari"
-          ],
-          "explanation": "The target keyword was: 【Daktari】"
         }
       ]
     }
@@ -7374,7 +6321,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.2.",
@@ -7387,12 +6334,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-17-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-17-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7437,15 +6380,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Dawa»):",
-          "acceptedAnswers": [
-            "Dawa",
-            "Dawa"
-          ],
-          "explanation": "The target keyword was: 【Dawa】"
         }
       ]
     }
@@ -7459,7 +6393,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.3.",
@@ -7472,12 +6406,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-17-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-17-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7522,15 +6452,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Hospitali»):",
-          "acceptedAnswers": [
-            "Hospitali",
-            "Hospitali"
-          ],
-          "explanation": "The target keyword was: 【Hospitali】"
         }
       ]
     }
@@ -7544,7 +6465,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.4.",
@@ -7557,12 +6478,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-17-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-17-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7607,15 +6524,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Afya»):",
-          "acceptedAnswers": [
-            "Afya",
-            "Afya"
-          ],
-          "explanation": "The target keyword was: 【Afya】"
         }
       ]
     }
@@ -7629,7 +6537,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.5.",
@@ -7642,12 +6550,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-17-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-17-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7692,15 +6596,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Matibabu»):",
-          "acceptedAnswers": [
-            "Matibabu",
-            "Matibabu"
-          ],
-          "explanation": "The target keyword was: 【Matibabu】"
         }
       ]
     }
@@ -7714,7 +6609,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.1.",
@@ -7727,12 +6622,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-18-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-18-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7777,15 +6668,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Homa»):",
-          "acceptedAnswers": [
-            "Homa",
-            "Homa"
-          ],
-          "explanation": "The target keyword was: 【Homa】"
         }
       ]
     }
@@ -7799,7 +6681,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.2.",
@@ -7812,12 +6694,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-18-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-18-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7862,15 +6740,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Maumivu ya kichwa»):",
-          "acceptedAnswers": [
-            "Maumivu ya kichwa",
-            "Maumivu ya kichwa"
-          ],
-          "explanation": "The target keyword was: 【Maumivu ya kichwa】"
         }
       ]
     }
@@ -7884,7 +6753,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.3.",
@@ -7897,12 +6766,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-18-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-18-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7947,15 +6812,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Macho»):",
-          "acceptedAnswers": [
-            "Macho",
-            "Macho"
-          ],
-          "explanation": "The target keyword was: 【Macho】"
         }
       ]
     }
@@ -7969,7 +6825,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.4.",
@@ -7982,12 +6838,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-18-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-18-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8032,15 +6884,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mikono»):",
-          "acceptedAnswers": [
-            "Mikono",
-            "Mikono"
-          ],
-          "explanation": "The target keyword was: 【Mikono】"
         }
       ]
     }
@@ -8054,7 +6897,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.5.",
@@ -8067,12 +6910,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-18-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-18-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8117,15 +6956,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Moyo»):",
-          "acceptedAnswers": [
-            "Moyo",
-            "Moyo"
-          ],
-          "explanation": "The target keyword was: 【Moyo】"
         }
       ]
     }
@@ -8139,7 +6969,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.1.",
@@ -8152,12 +6982,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-19-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-19-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8202,15 +7028,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Familia»):",
-          "acceptedAnswers": [
-            "Familia",
-            "Familia"
-          ],
-          "explanation": "The target keyword was: 【Familia】"
         }
       ]
     }
@@ -8224,7 +7041,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.2.",
@@ -8237,12 +7054,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-19-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-19-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8287,15 +7100,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Baba»):",
-          "acceptedAnswers": [
-            "Baba",
-            "Baba"
-          ],
-          "explanation": "The target keyword was: 【Baba】"
         }
       ]
     }
@@ -8309,7 +7113,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.3.",
@@ -8322,12 +7126,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-19-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-19-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8372,15 +7172,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mama»):",
-          "acceptedAnswers": [
-            "Mama",
-            "Mama"
-          ],
-          "explanation": "The target keyword was: 【Mama】"
         }
       ]
     }
@@ -8394,7 +7185,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.4.",
@@ -8407,12 +7198,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-19-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-19-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8457,15 +7244,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kaka»):",
-          "acceptedAnswers": [
-            "Kaka",
-            "Kaka"
-          ],
-          "explanation": "The target keyword was: 【Kaka】"
         }
       ]
     }
@@ -8479,7 +7257,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.5.",
@@ -8492,12 +7270,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-19-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-19-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8542,15 +7316,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Dada»):",
-          "acceptedAnswers": [
-            "Dada",
-            "Dada"
-          ],
-          "explanation": "The target keyword was: 【Dada】"
         }
       ]
     }
@@ -8564,7 +7329,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.1.",
@@ -8577,12 +7342,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-20-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-20-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8627,15 +7388,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Babu»):",
-          "acceptedAnswers": [
-            "Babu",
-            "Babu"
-          ],
-          "explanation": "The target keyword was: 【Babu】"
         }
       ]
     }
@@ -8649,7 +7401,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.2.",
@@ -8662,12 +7414,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-20-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-20-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8712,15 +7460,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Bibi»):",
-          "acceptedAnswers": [
-            "Bibi",
-            "Bibi"
-          ],
-          "explanation": "The target keyword was: 【Bibi】"
         }
       ]
     }
@@ -8734,7 +7473,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.3.",
@@ -8747,12 +7486,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-20-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-20-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8797,15 +7532,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mtoto»):",
-          "acceptedAnswers": [
-            "Mtoto",
-            "Mtoto"
-          ],
-          "explanation": "The target keyword was: 【Mtoto】"
         }
       ]
     }
@@ -8819,7 +7545,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.4.",
@@ -8832,12 +7558,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-20-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-20-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8882,15 +7604,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Binti»):",
-          "acceptedAnswers": [
-            "Binti",
-            "Binti"
-          ],
-          "explanation": "The target keyword was: 【Binti】"
         }
       ]
     }
@@ -8904,7 +7617,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 20.5.",
@@ -8917,12 +7630,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-20-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-20-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8967,15 +7676,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Rafiki»):",
-          "acceptedAnswers": [
-            "Rafiki",
-            "Rafiki"
-          ],
-          "explanation": "The target keyword was: 【Rafiki】"
         }
       ]
     }
@@ -8989,7 +7689,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.1.",
@@ -9002,12 +7702,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-21-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-21-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9052,15 +7748,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Leo»):",
-          "acceptedAnswers": [
-            "Leo",
-            "Leo"
-          ],
-          "explanation": "The target keyword was: 【Leo】"
         }
       ]
     }
@@ -9074,7 +7761,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.2.",
@@ -9087,12 +7774,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-21-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-21-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9137,15 +7820,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Jana»):",
-          "acceptedAnswers": [
-            "Jana",
-            "Jana"
-          ],
-          "explanation": "The target keyword was: 【Jana】"
         }
       ]
     }
@@ -9159,7 +7833,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.3.",
@@ -9172,12 +7846,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-21-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-21-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9222,15 +7892,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kesho»):",
-          "acceptedAnswers": [
-            "Kesho",
-            "Kesho"
-          ],
-          "explanation": "The target keyword was: 【Kesho】"
         }
       ]
     }
@@ -9244,7 +7905,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.4.",
@@ -9257,12 +7918,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-21-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-21-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9307,15 +7964,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Asubuhi»):",
-          "acceptedAnswers": [
-            "Asubuhi",
-            "Asubuhi"
-          ],
-          "explanation": "The target keyword was: 【Asubuhi】"
         }
       ]
     }
@@ -9329,7 +7977,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.5.",
@@ -9342,12 +7990,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-21-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-21-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9392,15 +8036,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mchana»):",
-          "acceptedAnswers": [
-            "Mchana",
-            "Mchana"
-          ],
-          "explanation": "The target keyword was: 【Mchana】"
         }
       ]
     }
@@ -9414,7 +8049,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.1.",
@@ -9427,12 +8062,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-22-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-22-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9477,15 +8108,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Jioni»):",
-          "acceptedAnswers": [
-            "Jioni",
-            "Jioni"
-          ],
-          "explanation": "The target keyword was: 【Jioni】"
         }
       ]
     }
@@ -9499,7 +8121,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.2.",
@@ -9512,12 +8134,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-22-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-22-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9562,15 +8180,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Usiku»):",
-          "acceptedAnswers": [
-            "Usiku",
-            "Usiku"
-          ],
-          "explanation": "The target keyword was: 【Usiku】"
         }
       ]
     }
@@ -9584,7 +8193,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.3.",
@@ -9597,12 +8206,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-22-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-22-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9647,15 +8252,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Wiki»):",
-          "acceptedAnswers": [
-            "Wiki",
-            "Wiki"
-          ],
-          "explanation": "The target keyword was: 【Wiki】"
         }
       ]
     }
@@ -9669,7 +8265,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.4.",
@@ -9682,12 +8278,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-22-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-22-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9732,15 +8324,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mwezi»):",
-          "acceptedAnswers": [
-            "Mwezi",
-            "Mwezi"
-          ],
-          "explanation": "The target keyword was: 【Mwezi】"
         }
       ]
     }
@@ -9754,7 +8337,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 22.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 22.5.",
@@ -9767,12 +8350,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-22-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-22-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9817,15 +8396,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mwaka»):",
-          "acceptedAnswers": [
-            "Mwaka",
-            "Mwaka"
-          ],
-          "explanation": "The target keyword was: 【Mwaka】"
         }
       ]
     }
@@ -9839,7 +8409,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.1.",
@@ -9852,12 +8422,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-23-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-23-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9902,15 +8468,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Nyekundu»):",
-          "acceptedAnswers": [
-            "Nyekundu",
-            "Nyekundu"
-          ],
-          "explanation": "The target keyword was: 【Nyekundu】"
         }
       ]
     }
@@ -9924,7 +8481,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.2.",
@@ -9937,12 +8494,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-23-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-23-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9987,15 +8540,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Buluu»):",
-          "acceptedAnswers": [
-            "Buluu",
-            "Buluu"
-          ],
-          "explanation": "The target keyword was: 【Buluu】"
         }
       ]
     }
@@ -10009,7 +8553,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.3.",
@@ -10022,12 +8566,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-23-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-23-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10072,15 +8612,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Manjano»):",
-          "acceptedAnswers": [
-            "Manjano",
-            "Manjano"
-          ],
-          "explanation": "The target keyword was: 【Manjano】"
         }
       ]
     }
@@ -10094,7 +8625,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.4.",
@@ -10107,12 +8638,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-23-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-23-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10157,15 +8684,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kijani»):",
-          "acceptedAnswers": [
-            "Kijani",
-            "Kijani"
-          ],
-          "explanation": "The target keyword was: 【Kijani】"
         }
       ]
     }
@@ -10179,7 +8697,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 23.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 23.5.",
@@ -10192,12 +8710,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-23-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-23-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10242,15 +8756,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Nyeupe»):",
-          "acceptedAnswers": [
-            "Nyeupe",
-            "Nyeupe"
-          ],
-          "explanation": "The target keyword was: 【Nyeupe】"
         }
       ]
     }
@@ -10264,7 +8769,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.1.",
@@ -10277,12 +8782,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-24-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-24-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10327,15 +8828,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Nyeusi»):",
-          "acceptedAnswers": [
-            "Nyeusi",
-            "Nyeusi"
-          ],
-          "explanation": "The target keyword was: 【Nyeusi】"
         }
       ]
     }
@@ -10349,7 +8841,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.2.",
@@ -10362,12 +8854,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-24-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-24-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10412,15 +8900,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kijivu»):",
-          "acceptedAnswers": [
-            "Kijivu",
-            "Kijivu"
-          ],
-          "explanation": "The target keyword was: 【Kijivu】"
         }
       ]
     }
@@ -10434,7 +8913,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.3.",
@@ -10447,12 +8926,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-24-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-24-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10497,15 +8972,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Hudhurungi»):",
-          "acceptedAnswers": [
-            "Hudhurungi",
-            "Hudhurungi"
-          ],
-          "explanation": "The target keyword was: 【Hudhurungi】"
         }
       ]
     }
@@ -10519,7 +8985,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.4.",
@@ -10532,12 +8998,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-24-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-24-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10582,15 +9044,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Waridi»):",
-          "acceptedAnswers": [
-            "Waridi",
-            "Waridi"
-          ],
-          "explanation": "The target keyword was: 【Waridi】"
         }
       ]
     }
@@ -10604,7 +9057,7 @@
     "level": "B2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.5.",
@@ -10617,12 +9070,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-24-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-24-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10667,15 +9116,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Urujuani»):",
-          "acceptedAnswers": [
-            "Urujuani",
-            "Urujuani"
-          ],
-          "explanation": "The target keyword was: 【Urujuani】"
         }
       ]
     }
@@ -10689,7 +9129,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.1.",
@@ -10702,12 +9142,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-25-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-25-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10752,15 +9188,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kubwa»):",
-          "acceptedAnswers": [
-            "Kubwa",
-            "Kubwa"
-          ],
-          "explanation": "The target keyword was: 【Kubwa】"
         }
       ]
     }
@@ -10774,7 +9201,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.2.",
@@ -10787,12 +9214,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-25-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-25-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10837,15 +9260,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Ndogo»):",
-          "acceptedAnswers": [
-            "Ndogo",
-            "Ndogo"
-          ],
-          "explanation": "The target keyword was: 【Ndogo】"
         }
       ]
     }
@@ -10859,7 +9273,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.3.",
@@ -10872,12 +9286,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-25-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-25-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10922,15 +9332,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Ndefu»):",
-          "acceptedAnswers": [
-            "Ndefu",
-            "Ndefu"
-          ],
-          "explanation": "The target keyword was: 【Ndefu】"
         }
       ]
     }
@@ -10944,7 +9345,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.4.",
@@ -10957,12 +9358,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-25-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-25-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11007,15 +9404,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Fupi»):",
-          "acceptedAnswers": [
-            "Fupi",
-            "Fupi"
-          ],
-          "explanation": "The target keyword was: 【Fupi】"
         }
       ]
     }
@@ -11029,7 +9417,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.5.",
@@ -11042,12 +9430,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-25-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-25-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11092,15 +9476,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Haraka»):",
-          "acceptedAnswers": [
-            "Haraka",
-            "Haraka"
-          ],
-          "explanation": "The target keyword was: 【Haraka】"
         }
       ]
     }
@@ -11114,7 +9489,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.1.",
@@ -11127,12 +9502,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-26-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-26-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11177,15 +9548,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Polepole»):",
-          "acceptedAnswers": [
-            "Polepole",
-            "Polepole"
-          ],
-          "explanation": "The target keyword was: 【Polepole】"
         }
       ]
     }
@@ -11199,7 +9561,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.2.",
@@ -11212,12 +9574,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-26-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-26-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11262,15 +9620,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mpya»):",
-          "acceptedAnswers": [
-            "Mpya",
-            "Mpya"
-          ],
-          "explanation": "The target keyword was: 【Mpya】"
         }
       ]
     }
@@ -11284,7 +9633,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.3.",
@@ -11297,12 +9646,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-26-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-26-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11347,15 +9692,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Nzee»):",
-          "acceptedAnswers": [
-            "Nzee",
-            "Nzee"
-          ],
-          "explanation": "The target keyword was: 【Nzee】"
         }
       ]
     }
@@ -11369,7 +9705,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.4.",
@@ -11382,12 +9718,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-26-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-26-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11432,15 +9764,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Nzuri»):",
-          "acceptedAnswers": [
-            "Nzuri",
-            "Nzuri"
-          ],
-          "explanation": "The target keyword was: 【Nzuri】"
         }
       ]
     }
@@ -11454,7 +9777,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.5.",
@@ -11467,12 +9790,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-26-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-26-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11517,15 +9836,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Bora»):",
-          "acceptedAnswers": [
-            "Bora",
-            "Bora"
-          ],
-          "explanation": "The target keyword was: 【Bora】"
         }
       ]
     }
@@ -11539,7 +9849,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.1.",
@@ -11552,12 +9862,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-27-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-27-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11602,15 +9908,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kuelewa»):",
-          "acceptedAnswers": [
-            "Kuelewa",
-            "Kuelewa"
-          ],
-          "explanation": "The target keyword was: 【Kuelewa】"
         }
       ]
     }
@@ -11624,7 +9921,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.2.",
@@ -11637,12 +9934,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-27-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-27-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11687,15 +9980,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kujua»):",
-          "acceptedAnswers": [
-            "Kujua",
-            "Kujua"
-          ],
-          "explanation": "The target keyword was: 【Kujua】"
         }
       ]
     }
@@ -11709,7 +9993,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.3.",
@@ -11722,12 +10006,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-27-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-27-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11772,15 +10052,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kufikiri»):",
-          "acceptedAnswers": [
-            "Kufikiri",
-            "Kufikiri"
-          ],
-          "explanation": "The target keyword was: 【Kufikiri】"
         }
       ]
     }
@@ -11794,7 +10065,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.4.",
@@ -11807,12 +10078,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-27-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-27-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11857,15 +10124,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kukumbuka»):",
-          "acceptedAnswers": [
-            "Kukumbuka",
-            "Kukumbuka"
-          ],
-          "explanation": "The target keyword was: 【Kukumbuka】"
         }
       ]
     }
@@ -11879,7 +10137,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 27.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 27.5.",
@@ -11892,12 +10150,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-27-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-27-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11942,15 +10196,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kusema»):",
-          "acceptedAnswers": [
-            "Kusema",
-            "Kusema"
-          ],
-          "explanation": "The target keyword was: 【Kusema】"
         }
       ]
     }
@@ -11964,7 +10209,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.1.",
@@ -11977,12 +10222,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-28-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-28-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12027,15 +10268,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kusoma»):",
-          "acceptedAnswers": [
-            "Kusoma",
-            "Kusoma"
-          ],
-          "explanation": "The target keyword was: 【Kusoma】"
         }
       ]
     }
@@ -12049,7 +10281,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.2.",
@@ -12062,12 +10294,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-28-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-28-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12112,15 +10340,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kuandika»):",
-          "acceptedAnswers": [
-            "Kuandika",
-            "Kuandika"
-          ],
-          "explanation": "The target keyword was: 【Kuandika】"
         }
       ]
     }
@@ -12134,7 +10353,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.3.",
@@ -12147,12 +10366,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-28-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-28-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12197,15 +10412,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kusikiliza»):",
-          "acceptedAnswers": [
-            "Kusikiliza",
-            "Kusikiliza"
-          ],
-          "explanation": "The target keyword was: 【Kusikiliza】"
         }
       ]
     }
@@ -12219,7 +10425,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.4.",
@@ -12232,12 +10438,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-28-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-28-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12282,15 +10484,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kuona»):",
-          "acceptedAnswers": [
-            "Kuona",
-            "Kuona"
-          ],
-          "explanation": "The target keyword was: 【Kuona】"
         }
       ]
     }
@@ -12304,7 +10497,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 28.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 28.5.",
@@ -12317,12 +10510,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-28-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-28-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12367,15 +10556,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kutaka»):",
-          "acceptedAnswers": [
-            "Kutaka",
-            "Kutaka"
-          ],
-          "explanation": "The target keyword was: 【Kutaka】"
         }
       ]
     }
@@ -12389,7 +10569,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.1.",
@@ -12402,12 +10582,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-29-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-29-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12452,15 +10628,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Shule»):",
-          "acceptedAnswers": [
-            "Shule",
-            "Shule"
-          ],
-          "explanation": "The target keyword was: 【Shule】"
         }
       ]
     }
@@ -12474,7 +10641,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.2.",
@@ -12487,12 +10654,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-29-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-29-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12537,15 +10700,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Chuo kikuu»):",
-          "acceptedAnswers": [
-            "Chuo kikuu",
-            "Chuo kikuu"
-          ],
-          "explanation": "The target keyword was: 【Chuo kikuu】"
         }
       ]
     }
@@ -12559,7 +10713,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.3.",
@@ -12572,12 +10726,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-29-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-29-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12622,15 +10772,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mwalimu»):",
-          "acceptedAnswers": [
-            "Mwalimu",
-            "Mwalimu"
-          ],
-          "explanation": "The target keyword was: 【Mwalimu】"
         }
       ]
     }
@@ -12644,7 +10785,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.4.",
@@ -12657,12 +10798,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-29-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-29-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12707,15 +10844,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mwanafunzi»):",
-          "acceptedAnswers": [
-            "Mwanafunzi",
-            "Mwanafunzi"
-          ],
-          "explanation": "The target keyword was: 【Mwanafunzi】"
         }
       ]
     }
@@ -12729,7 +10857,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 29.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 29.5.",
@@ -12742,12 +10870,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-29-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-29-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12792,15 +10916,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Somo»):",
-          "acceptedAnswers": [
-            "Somo",
-            "Somo"
-          ],
-          "explanation": "The target keyword was: 【Somo】"
         }
       ]
     }
@@ -12814,7 +10929,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.1.",
@@ -12827,12 +10942,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-30-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-30-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12877,15 +10988,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mtihani»):",
-          "acceptedAnswers": [
-            "Mtihani",
-            "Mtihani"
-          ],
-          "explanation": "The target keyword was: 【Mtihani】"
         }
       ]
     }
@@ -12899,7 +11001,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.2.",
@@ -12912,12 +11014,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-30-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-30-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12962,15 +11060,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Matokeo»):",
-          "acceptedAnswers": [
-            "Matokeo",
-            "Matokeo"
-          ],
-          "explanation": "The target keyword was: 【Matokeo】"
         }
       ]
     }
@@ -12984,7 +11073,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.3.",
@@ -12997,12 +11086,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-30-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-30-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13047,15 +11132,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Maktaba»):",
-          "acceptedAnswers": [
-            "Maktaba",
-            "Maktaba"
-          ],
-          "explanation": "The target keyword was: 【Maktaba】"
         }
       ]
     }
@@ -13069,7 +11145,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.4.",
@@ -13082,12 +11158,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-30-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-30-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13132,15 +11204,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Shahada»):",
-          "acceptedAnswers": [
-            "Shahada",
-            "Shahada"
-          ],
-          "explanation": "The target keyword was: 【Shahada】"
         }
       ]
     }
@@ -13154,7 +11217,7 @@
     "level": "C1",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 30.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 30.5.",
@@ -13167,12 +11230,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-30-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-30-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13217,15 +11276,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kalamu»):",
-          "acceptedAnswers": [
-            "Kalamu",
-            "Kalamu"
-          ],
-          "explanation": "The target keyword was: 【Kalamu】"
         }
       ]
     }
@@ -13239,7 +11289,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.1.",
@@ -13252,12 +11302,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-31-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-31-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13302,15 +11348,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Benki»):",
-          "acceptedAnswers": [
-            "Benki",
-            "Benki"
-          ],
-          "explanation": "The target keyword was: 【Benki】"
         }
       ]
     }
@@ -13324,7 +11361,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.2.",
@@ -13337,12 +11374,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-31-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-31-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13387,15 +11420,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Akaunti»):",
-          "acceptedAnswers": [
-            "Akaunti",
-            "Akaunti"
-          ],
-          "explanation": "The target keyword was: 【Akaunti】"
         }
       ]
     }
@@ -13409,7 +11433,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.3.",
@@ -13422,12 +11446,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-31-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-31-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13472,15 +11492,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mkopo»):",
-          "acceptedAnswers": [
-            "Mkopo",
-            "Mkopo"
-          ],
-          "explanation": "The target keyword was: 【Mkopo】"
         }
       ]
     }
@@ -13494,7 +11505,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.4.",
@@ -13507,12 +11518,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-31-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-31-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13557,15 +11564,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Riba»):",
-          "acceptedAnswers": [
-            "Riba",
-            "Riba"
-          ],
-          "explanation": "The target keyword was: 【Riba】"
         }
       ]
     }
@@ -13579,7 +11577,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.5.",
@@ -13592,12 +11590,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-31-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-31-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13642,15 +11636,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kodi»):",
-          "acceptedAnswers": [
-            "Kodi",
-            "Kodi"
-          ],
-          "explanation": "The target keyword was: 【Kodi】"
         }
       ]
     }
@@ -13664,7 +11649,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.1.",
@@ -13677,12 +11662,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-32-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-32-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13727,15 +11708,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Uwekezaji»):",
-          "acceptedAnswers": [
-            "Uwekezaji",
-            "Uwekezaji"
-          ],
-          "explanation": "The target keyword was: 【Uwekezaji】"
         }
       ]
     }
@@ -13749,7 +11721,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.2.",
@@ -13762,12 +11734,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-32-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-32-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13812,15 +11780,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Nyaraka»):",
-          "acceptedAnswers": [
-            "Nyaraka",
-            "Nyaraka"
-          ],
-          "explanation": "The target keyword was: 【Nyaraka】"
         }
       ]
     }
@@ -13834,7 +11793,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.3.",
@@ -13847,12 +11806,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-32-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-32-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13897,15 +11852,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Sahihi»):",
-          "acceptedAnswers": [
-            "Sahihi",
-            "Sahihi"
-          ],
-          "explanation": "The target keyword was: 【Sahihi】"
         }
       ]
     }
@@ -13919,7 +11865,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.4.",
@@ -13932,12 +11878,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-32-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-32-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13982,15 +11924,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Kanuni»):",
-          "acceptedAnswers": [
-            "Kanuni",
-            "Kanuni"
-          ],
-          "explanation": "The target keyword was: 【Kanuni】"
         }
       ]
     }
@@ -14004,7 +11937,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 32.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 32.5.",
@@ -14017,12 +11950,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-32-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-32-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14067,15 +11996,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Sheria»):",
-          "acceptedAnswers": [
-            "Sheria",
-            "Sheria"
-          ],
-          "explanation": "The target keyword was: 【Sheria】"
         }
       ]
     }
@@ -14089,7 +12009,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.1.",
@@ -14102,12 +12022,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-33-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-33-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14152,15 +12068,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Mahakama»):",
-          "acceptedAnswers": [
-            "Mahakama",
-            "Mahakama"
-          ],
-          "explanation": "The target keyword was: 【Mahakama】"
         }
       ]
     }
@@ -14174,7 +12081,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.2.",
@@ -14187,12 +12094,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-33-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-33-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14237,15 +12140,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Jaji»):",
-          "acceptedAnswers": [
-            "Jaji",
-            "Jaji"
-          ],
-          "explanation": "The target keyword was: 【Jaji】"
         }
       ]
     }
@@ -14259,7 +12153,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.3.",
@@ -14272,12 +12166,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-33-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-33-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14322,15 +12212,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Wakili»):",
-          "acceptedAnswers": [
-            "Wakili",
-            "Wakili"
-          ],
-          "explanation": "The target keyword was: 【Wakili】"
         }
       ]
     }
@@ -14344,7 +12225,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.4.",
@@ -14357,12 +12238,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-33-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-33-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14407,15 +12284,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Haki»):",
-          "acceptedAnswers": [
-            "Haki",
-            "Haki"
-          ],
-          "explanation": "The target keyword was: 【Haki】"
         }
       ]
     }
@@ -14429,7 +12297,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.5.",
@@ -14442,12 +12310,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-33-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-33-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14492,15 +12356,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Usawa»):",
-          "acceptedAnswers": [
-            "Usawa",
-            "Usawa"
-          ],
-          "explanation": "The target keyword was: 【Usawa】"
         }
       ]
     }
@@ -14514,7 +12369,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.1) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.1)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.1)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.1.",
@@ -14527,12 +12382,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-34-1】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-34-1】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14577,15 +12428,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Shahidi»):",
-          "acceptedAnswers": [
-            "Shahidi",
-            "Shahidi"
-          ],
-          "explanation": "The target keyword was: 【Shahidi】"
         }
       ]
     }
@@ -14599,7 +12441,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.2) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.2)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.2)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.2.",
@@ -14612,12 +12454,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-34-2】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-34-2】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14662,15 +12500,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Uamuzi»):",
-          "acceptedAnswers": [
-            "Uamuzi",
-            "Uamuzi"
-          ],
-          "explanation": "The target keyword was: 【Uamuzi】"
         }
       ]
     }
@@ -14684,7 +12513,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.3) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.3)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.3)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.3.",
@@ -14697,12 +12526,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-34-3】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-34-3】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14747,15 +12572,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Katiba»):",
-          "acceptedAnswers": [
-            "Katiba",
-            "Katiba"
-          ],
-          "explanation": "The target keyword was: 【Katiba】"
         }
       ]
     }
@@ -14769,7 +12585,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.4) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.4)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.4)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.4.",
@@ -14782,12 +12598,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-34-4】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-34-4】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14832,15 +12644,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Serikali»):",
-          "acceptedAnswers": [
-            "Serikali",
-            "Serikali"
-          ],
-          "explanation": "The target keyword was: 【Serikali】"
         }
       ]
     }
@@ -14854,7 +12657,7 @@
     "level": "C2",
     "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.5) with authentic precision.",
     "presentation": {
-      "explanation": "【Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.5)】\nLugha ya Kiswahili inafuata mfumo mahususi wa ngeli za nomino (Noun Classes 1-18) na upatanisho wa kisarufi kati ya kitenzi, kivumishi na kielezi.\n\n1. Ufafanuzi wa Miundo:\nKatika mada hii ya «Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.5)», tunazingatia viambishi awali vya nafsi (Subject Prefixes: ni-, u-, a-, tu-, m-, wa-) na viambishi vya nyakati (-na-, -li-, -ta-, -me-).\n\n2. Matamshi na Lafudhi Sanifu:\nTamka kila silabi kwa uwazi na weka mkazo (stress) kwenye silabi ya pili kutoka mwisho (penultimate stress).\n\n3. Muktadha wa Kiutamaduni:\nUtamaduni wa Waswahili unathamini sana heshima, salamu kwa wakubwa ('Shikamoo' / 'Marahaba') na ukarimu wa dhati ('Karibu mgeni').",
+      "explanation": "",
       "examples": [
         {
           "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.5.",
@@ -14867,12 +12670,8 @@
           "translation": "Observe how prefixes agree harmoniously in this sentence."
         }
       ],
-      "mnemonics": [
-        "【Kumbukumbu SWA-34-5】：Zingatia ngeli husika na mkazo wa silabi ya pili kutoka mwisho kwa mada ya «Sarufi ya »."
-      ],
-      "culturalNotes": [
-        "【Utamaduni SWA-34-5】：Katika ukanda wa Afrika Mashariki, methali na adabu za maamkizi ni nguzo kuu ya uhusiano bora katika jamii."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14917,23 +12716,17 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «Uhuru»):",
-          "acceptedAnswers": [
-            "Uhuru",
-            "Uhuru"
-          ],
-          "explanation": "The target keyword was: 【Uhuru】"
         }
       ]
     }
   }
 };
-  var ROADMAP = [];
-  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
+  var CURRICULUM = {
+    subject: 'swahili',
+    units: UNITS,
+    lessons: LESSONS
+  };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['swahili'] = SUBJECT;
-  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
+  global.FEARN_CURRICULA['swahili'] = CURRICULUM;
+  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
 })(typeof window !== 'undefined' ? window : global);

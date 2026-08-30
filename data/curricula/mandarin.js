@@ -1,4 +1,4 @@
-// mandarin curriculum — fully authored CEFR A1-C2 roadmap (34 units, 170 lessons)
+// mandarin curriculum
 (function (global) {
   'use strict';
   var UNITS = [
@@ -489,7 +489,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：普通话声母、韵母、四声声调、轻声与变调规则，日常问候与礼貌用语。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u1-l1）系统深入地阐释「汉语拼音、声调与基础问候 (Pinyin & Greetings)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的核心语法法则与应用范例 (1.1.1)。",
@@ -512,12 +512,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U1-L1】：牢記「全面掌握与熟练运用本课核心内容：普通话声母、韵母、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U1-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -608,7 +604,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：普通话声母、韵母、四声声调、轻声与变调规则，日常问候与礼貌用语。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u1-l2）系统深入地阐释「汉语拼音、声调与基础问候 (Pinyin & Greetings)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的核心语法法则与应用范例 (1.2.1)。",
@@ -631,12 +627,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U1-L2】：牢記「全面掌握与熟练运用本课核心内容：普通话声母、韵母、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U1-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -727,7 +719,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：普通话声母、韵母、四声声调、轻声与变调规则，日常问候与礼貌用语。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u1-l3）系统深入地阐释「汉语拼音、声调与基础问候 (Pinyin & Greetings)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的核心语法法则与应用范例 (1.3.1)。",
@@ -750,12 +742,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U1-L3】：牢記「全面掌握与熟练运用本课核心内容：普通话声母、韵母、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U1-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -846,7 +834,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：普通话声母、韵母、四声声调、轻声与变调规则，日常问候与礼貌用语。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u1-l4）系统深入地阐释「汉语拼音、声调与基础问候 (Pinyin & Greetings)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的核心语法法则与应用范例 (1.4.1)。",
@@ -869,12 +857,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U1-L4】：牢記「全面掌握与熟练运用本课核心内容：普通话声母、韵母、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U1-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -965,7 +949,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：普通话声母、韵母、四声声调、轻声与变调规则，日常问候与礼貌用语。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u1-l5）系统深入地阐释「汉语拼音、声调与基础问候 (Pinyin & Greetings)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的核心语法法则与应用范例 (1.5.1)。",
@@ -988,12 +972,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U1-L5】：牢記「全面掌握与熟练运用本课核心内容：普通话声母、韵母、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U1-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1084,7 +1064,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：汉语人称代词（我/你/他/她/我们）、是字句判断结构、名词谓语句及否定副词「不」。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u2-l1）系统深入地阐释「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的核心语法法则与应用范例 (2.1.1)。",
@@ -1107,12 +1087,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U2-L1】：牢記「全面掌握与熟练运用本课核心内容：汉语人称代词（我/」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U2-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1203,7 +1179,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：汉语人称代词（我/你/他/她/我们）、是字句判断结构、名词谓语句及否定副词「不」。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u2-l2）系统深入地阐释「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的核心语法法则与应用范例 (2.2.1)。",
@@ -1226,12 +1202,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U2-L2】：牢記「全面掌握与熟练运用本课核心内容：汉语人称代词（我/」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U2-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1322,7 +1294,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：汉语人称代词（我/你/他/她/我们）、是字句判断结构、名词谓语句及否定副词「不」。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u2-l3）系统深入地阐释「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的核心语法法则与应用范例 (2.3.1)。",
@@ -1345,12 +1317,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U2-L3】：牢記「全面掌握与熟练运用本课核心内容：汉语人称代词（我/」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U2-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1441,7 +1409,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：汉语人称代词（我/你/他/她/我们）、是字句判断结构、名词谓语句及否定副词「不」。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u2-l4）系统深入地阐释「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的核心语法法则与应用范例 (2.4.1)。",
@@ -1464,12 +1432,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U2-L4】：牢記「全面掌握与熟练运用本课核心内容：汉语人称代词（我/」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U2-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1560,7 +1524,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：汉语人称代词（我/你/他/她/我们）、是字句判断结构、名词谓语句及否定副词「不」。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u2-l5）系统深入地阐释「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」的核心语法法则与应用范例 (2.5.1)。",
@@ -1583,12 +1547,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U2-L5】：牢記「全面掌握与熟练运用本课核心内容：汉语人称代词（我/」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U2-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1679,7 +1639,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：基数词（一至一百）、时刻表达（几点几分）、年/月/日及星期表达法。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u3-l1）系统深入地阐释「数字、时间与日期表达 (Numbers, Time & Date)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「数字、时间与日期表达 (Numbers, Time & Date)」的核心语法法则与应用范例 (3.1.1)。",
@@ -1702,12 +1662,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U3-L1】：牢記「全面掌握与熟练运用本课核心内容：基数词（一至一百）」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U3-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1798,7 +1754,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：基数词（一至一百）、时刻表达（几点几分）、年/月/日及星期表达法。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u3-l2）系统深入地阐释「数字、时间与日期表达 (Numbers, Time & Date)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「数字、时间与日期表达 (Numbers, Time & Date)」的核心语法法则与应用范例 (3.2.1)。",
@@ -1821,12 +1777,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U3-L2】：牢記「全面掌握与熟练运用本课核心内容：基数词（一至一百）」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U3-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1917,7 +1869,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：基数词（一至一百）、时刻表达（几点几分）、年/月/日及星期表达法。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u3-l3）系统深入地阐释「数字、时间与日期表达 (Numbers, Time & Date)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「数字、时间与日期表达 (Numbers, Time & Date)」的核心语法法则与应用范例 (3.3.1)。",
@@ -1940,12 +1892,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U3-L3】：牢記「全面掌握与熟练运用本课核心内容：基数词（一至一百）」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U3-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2036,7 +1984,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：基数词（一至一百）、时刻表达（几点几分）、年/月/日及星期表达法。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u3-l4）系统深入地阐释「数字、时间与日期表达 (Numbers, Time & Date)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「数字、时间与日期表达 (Numbers, Time & Date)」的核心语法法则与应用范例 (3.4.1)。",
@@ -2059,12 +2007,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U3-L4】：牢記「全面掌握与熟练运用本课核心内容：基数词（一至一百）」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U3-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2155,7 +2099,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：基数词（一至一百）、时刻表达（几点几分）、年/月/日及星期表达法。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u3-l5）系统深入地阐释「数字、时间与日期表达 (Numbers, Time & Date)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「数字、时间与日期表达 (Numbers, Time & Date)」的核心语法法则与应用范例 (3.5.1)。",
@@ -2178,12 +2122,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U3-L5】：牢記「全面掌握与熟练运用本课核心内容：基数词（一至一百）」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U3-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2274,7 +2214,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：现代汉语核心名量词（个/本/张/条/支/位）、数量短语修饰名词及助词「的」。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u4-l1）系统深入地阐释「量词系统与名词修饰 (Classifiers & Noun Modification)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「量词系统与名词修饰 (Classifiers & Noun Modification)」的核心语法法则与应用范例 (4.1.1)。",
@@ -2297,12 +2237,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U4-L1】：牢記「全面掌握与熟练运用本课核心内容：现代汉语核心名量词」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U4-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2393,7 +2329,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：现代汉语核心名量词（个/本/张/条/支/位）、数量短语修饰名词及助词「的」。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u4-l2）系统深入地阐释「量词系统与名词修饰 (Classifiers & Noun Modification)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「量词系统与名词修饰 (Classifiers & Noun Modification)」的核心语法法则与应用范例 (4.2.1)。",
@@ -2416,12 +2352,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U4-L2】：牢記「全面掌握与熟练运用本课核心内容：现代汉语核心名量词」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U4-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2512,7 +2444,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：现代汉语核心名量词（个/本/张/条/支/位）、数量短语修饰名词及助词「的」。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u4-l3）系统深入地阐释「量词系统与名词修饰 (Classifiers & Noun Modification)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「量词系统与名词修饰 (Classifiers & Noun Modification)」的核心语法法则与应用范例 (4.3.1)。",
@@ -2535,12 +2467,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U4-L3】：牢記「全面掌握与熟练运用本课核心内容：现代汉语核心名量词」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U4-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2631,7 +2559,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：现代汉语核心名量词（个/本/张/条/支/位）、数量短语修饰名词及助词「的」。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u4-l4）系统深入地阐释「量词系统与名词修饰 (Classifiers & Noun Modification)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「量词系统与名词修饰 (Classifiers & Noun Modification)」的核心语法法则与应用范例 (4.4.1)。",
@@ -2654,12 +2582,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U4-L4】：牢記「全面掌握与熟练运用本课核心内容：现代汉语核心名量词」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U4-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2750,7 +2674,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：现代汉语核心名量词（个/本/张/条/支/位）、数量短语修饰名词及助词「的」。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u4-l5）系统深入地阐释「量词系统与名词修饰 (Classifiers & Noun Modification)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「量词系统与名词修饰 (Classifiers & Noun Modification)」的核心语法法则与应用范例 (4.5.1)。",
@@ -2773,12 +2697,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U4-L5】：牢記「全面掌握与熟练运用本课核心内容：现代汉语核心名量词」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U4-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2869,7 +2789,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：日常动作动词、介词「在」表示处所与进行体、动词重叠式（看一看/说说）。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u5-l1）系统深入地阐释「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的核心语法法则与应用范例 (5.1.1)。",
@@ -2892,12 +2812,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U5-L1】：牢記「全面掌握与熟练运用本课核心内容：日常动作动词、介词」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U5-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2988,7 +2904,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：日常动作动词、介词「在」表示处所与进行体、动词重叠式（看一看/说说）。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u5-l2）系统深入地阐释「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的核心语法法则与应用范例 (5.2.1)。",
@@ -3011,12 +2927,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U5-L2】：牢記「全面掌握与熟练运用本课核心内容：日常动作动词、介词」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U5-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3107,7 +3019,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：日常动作动词、介词「在」表示处所与进行体、动词重叠式（看一看/说说）。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u5-l3）系统深入地阐释「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的核心语法法则与应用范例 (5.3.1)。",
@@ -3130,12 +3042,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U5-L3】：牢記「全面掌握与熟练运用本课核心内容：日常动作动词、介词」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U5-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3226,7 +3134,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：日常动作动词、介词「在」表示处所与进行体、动词重叠式（看一看/说说）。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u5-l4）系统深入地阐释「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的核心语法法则与应用范例 (5.4.1)。",
@@ -3249,12 +3157,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U5-L4】：牢記「全面掌握与熟练运用本课核心内容：日常动作动词、介词」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U5-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3345,7 +3249,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：日常动作动词、介词「在」表示处所与进行体、动词重叠式（看一看/说说）。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u5-l5）系统深入地阐释「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「日常生活、动词重叠与在字句 (Daily Routine & 在-Progressive)」的核心语法法则与应用范例 (5.5.1)。",
@@ -3368,12 +3272,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U5-L5】：牢記「全面掌握与熟练运用本课核心内容：日常动作动词、介词」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U5-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3464,7 +3364,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：八大菜系、传统风味词汇（酸/甜/苦/辣/咸/鲜）、餐馆点餐与结账会话。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u6-l1）系统深入地阐释「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的核心语法法则与应用范例 (6.1.1)。",
@@ -3487,12 +3387,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U6-L1】：牢記「全面掌握与熟练运用本课核心内容：八大菜系、传统风味」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U6-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3583,7 +3479,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：八大菜系、传统风味词汇（酸/甜/苦/辣/咸/鲜）、餐馆点餐与结账会话。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u6-l2）系统深入地阐释「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的核心语法法则与应用范例 (6.2.1)。",
@@ -3606,12 +3502,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U6-L2】：牢記「全面掌握与熟练运用本课核心内容：八大菜系、传统风味」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U6-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3702,7 +3594,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：八大菜系、传统风味词汇（酸/甜/苦/辣/咸/鲜）、餐馆点餐与结账会话。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u6-l3）系统深入地阐释「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的核心语法法则与应用范例 (6.3.1)。",
@@ -3725,12 +3617,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U6-L3】：牢記「全面掌握与熟练运用本课核心内容：八大菜系、传统风味」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U6-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3821,7 +3709,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：八大菜系、传统风味词汇（酸/甜/苦/辣/咸/鲜）、餐馆点餐与结账会话。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u6-l4）系统深入地阐释「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的核心语法法则与应用范例 (6.4.1)。",
@@ -3844,12 +3732,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U6-L4】：牢記「全面掌握与熟练运用本课核心内容：八大菜系、传统风味」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U6-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3940,7 +3824,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：八大菜系、传统风味词汇（酸/甜/苦/辣/咸/鲜）、餐馆点餐与结账会话。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u6-l5）系统深入地阐释「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的核心语法法则与应用范例 (6.5.1)。",
@@ -3963,12 +3847,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U6-L5】：牢記「全面掌握与熟练运用本课核心内容：八大菜系、传统风味」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U6-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4059,7 +3939,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：动态助词「了」（动作完成与实现）与「过」（经历体）的句法语义区别。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u7-l1）系统深入地阐释「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的核心语法法则与应用范例 (7.1.1)。",
@@ -4082,12 +3962,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U7-L1】：牢記「全面掌握与熟练运用本课核心内容：动态助词「了」（动」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U7-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4178,7 +4054,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：动态助词「了」（动作完成与实现）与「过」（经历体）的句法语义区别。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u7-l2）系统深入地阐释「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的核心语法法则与应用范例 (7.2.1)。",
@@ -4201,12 +4077,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U7-L2】：牢記「全面掌握与熟练运用本课核心内容：动态助词「了」（动」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U7-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4297,7 +4169,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：动态助词「了」（动作完成与实现）与「过」（经历体）的句法语义区别。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u7-l3）系统深入地阐释「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的核心语法法则与应用范例 (7.3.1)。",
@@ -4320,12 +4192,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U7-L3】：牢記「全面掌握与熟练运用本课核心内容：动态助词「了」（动」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U7-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4416,7 +4284,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：动态助词「了」（动作完成与实现）与「过」（经历体）的句法语义区别。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u7-l4）系统深入地阐释「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的核心语法法则与应用范例 (7.4.1)。",
@@ -4439,12 +4307,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U7-L4】：牢記「全面掌握与熟练运用本课核心内容：动态助词「了」（动」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U7-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4535,7 +4399,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：动态助词「了」（动作完成与实现）与「过」（经历体）的句法语义区别。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u7-l5）系统深入地阐释「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「动态助词「了」「过」与过去经验 (Aspect Particles LE & GUO)」的核心语法法则与应用范例 (7.5.1)。",
@@ -4558,12 +4422,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U7-L5】：牢記「全面掌握与熟练运用本课核心内容：动态助词「了」（动」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U7-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4654,7 +4514,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：空间方位词（上/下/前/后/左/右/东/南/西/北）、问路指路及城市公共交通工具。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u8-l1）系统深入地阐释「方向、位置与城市交通 (Directions & Urban Transit)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「方向、位置与城市交通 (Directions & Urban Transit)」的核心语法法则与应用范例 (8.1.1)。",
@@ -4677,12 +4537,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U8-L1】：牢記「全面掌握与熟练运用本课核心内容：空间方位词（上/下」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U8-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4773,7 +4629,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：空间方位词（上/下/前/后/左/右/东/南/西/北）、问路指路及城市公共交通工具。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u8-l2）系统深入地阐释「方向、位置与城市交通 (Directions & Urban Transit)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「方向、位置与城市交通 (Directions & Urban Transit)」的核心语法法则与应用范例 (8.2.1)。",
@@ -4796,12 +4652,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U8-L2】：牢記「全面掌握与熟练运用本课核心内容：空间方位词（上/下」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U8-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4892,7 +4744,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：空间方位词（上/下/前/后/左/右/东/南/西/北）、问路指路及城市公共交通工具。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u8-l3）系统深入地阐释「方向、位置与城市交通 (Directions & Urban Transit)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「方向、位置与城市交通 (Directions & Urban Transit)」的核心语法法则与应用范例 (8.3.1)。",
@@ -4915,12 +4767,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U8-L3】：牢記「全面掌握与熟练运用本课核心内容：空间方位词（上/下」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U8-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5011,7 +4859,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：空间方位词（上/下/前/后/左/右/东/南/西/北）、问路指路及城市公共交通工具。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u8-l4）系统深入地阐释「方向、位置与城市交通 (Directions & Urban Transit)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「方向、位置与城市交通 (Directions & Urban Transit)」的核心语法法则与应用范例 (8.4.1)。",
@@ -5034,12 +4882,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U8-L4】：牢記「全面掌握与熟练运用本课核心内容：空间方位词（上/下」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U8-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5130,7 +4974,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：空间方位词（上/下/前/后/左/右/东/南/西/北）、问路指路及城市公共交通工具。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u8-l5）系统深入地阐释「方向、位置与城市交通 (Directions & Urban Transit)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「方向、位置与城市交通 (Directions & Urban Transit)」的核心语法法则与应用范例 (8.5.1)。",
@@ -5153,12 +4997,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U8-L5】：牢記「全面掌握与熟练运用本课核心内容：空间方位词（上/下」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U8-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5249,7 +5089,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：人民币货币单位（元/角/分/块/毛）、讨价还价、衣物尺码及商场购物实用表达。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u9-l1）系统深入地阐释「购物、价格与货币表达 (Shopping & Currency)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「购物、价格与货币表达 (Shopping & Currency)」的核心语法法则与应用范例 (9.1.1)。",
@@ -5272,12 +5112,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U9-L1】：牢記「全面掌握与熟练运用本课核心内容：人民币货币单位（元」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U9-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5368,7 +5204,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：人民币货币单位（元/角/分/块/毛）、讨价还价、衣物尺码及商场购物实用表达。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u9-l2）系统深入地阐释「购物、价格与货币表达 (Shopping & Currency)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「购物、价格与货币表达 (Shopping & Currency)」的核心语法法则与应用范例 (9.2.1)。",
@@ -5391,12 +5227,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U9-L2】：牢記「全面掌握与熟练运用本课核心内容：人民币货币单位（元」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U9-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5487,7 +5319,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：人民币货币单位（元/角/分/块/毛）、讨价还价、衣物尺码及商场购物实用表达。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u9-l3）系统深入地阐释「购物、价格与货币表达 (Shopping & Currency)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「购物、价格与货币表达 (Shopping & Currency)」的核心语法法则与应用范例 (9.3.1)。",
@@ -5510,12 +5342,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U9-L3】：牢記「全面掌握与熟练运用本课核心内容：人民币货币单位（元」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U9-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5606,7 +5434,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：人民币货币单位（元/角/分/块/毛）、讨价还价、衣物尺码及商场购物实用表达。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u9-l4）系统深入地阐释「购物、价格与货币表达 (Shopping & Currency)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「购物、价格与货币表达 (Shopping & Currency)」的核心语法法则与应用范例 (9.4.1)。",
@@ -5629,12 +5457,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U9-L4】：牢記「全面掌握与熟练运用本课核心内容：人民币货币单位（元」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U9-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5725,7 +5549,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：人民币货币单位（元/角/分/块/毛）、讨价还价、衣物尺码及商场购物实用表达。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u9-l5）系统深入地阐释「购物、价格与货币表达 (Shopping & Currency)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「购物、价格与货币表达 (Shopping & Currency)」的核心语法法则与应用范例 (9.5.1)。",
@@ -5748,12 +5572,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U9-L5】：牢記「全面掌握与熟练运用本课核心内容：人民币货币单位（元」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U9-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5844,7 +5664,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：人体解剖部位名称、病痛主诉（头疼/发烧/咳嗽）、医患问诊及服药指导。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u10-l1）系统深入地阐释「健康、身体部位与看病问诊 (Health & Medical Consultation)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「健康、身体部位与看病问诊 (Health & Medical Consultation)」的核心语法法则与应用范例 (10.1.1)。",
@@ -5867,12 +5687,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U10-L1】：牢記「全面掌握与熟练运用本课核心内容：人体解剖部位名称、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U10-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5963,7 +5779,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：人体解剖部位名称、病痛主诉（头疼/发烧/咳嗽）、医患问诊及服药指导。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u10-l2）系统深入地阐释「健康、身体部位与看病问诊 (Health & Medical Consultation)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「健康、身体部位与看病问诊 (Health & Medical Consultation)」的核心语法法则与应用范例 (10.2.1)。",
@@ -5986,12 +5802,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U10-L2】：牢記「全面掌握与熟练运用本课核心内容：人体解剖部位名称、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U10-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6082,7 +5894,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：人体解剖部位名称、病痛主诉（头疼/发烧/咳嗽）、医患问诊及服药指导。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u10-l3）系统深入地阐释「健康、身体部位与看病问诊 (Health & Medical Consultation)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「健康、身体部位与看病问诊 (Health & Medical Consultation)」的核心语法法则与应用范例 (10.3.1)。",
@@ -6105,12 +5917,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U10-L3】：牢記「全面掌握与熟练运用本课核心内容：人体解剖部位名称、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U10-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6201,7 +6009,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：人体解剖部位名称、病痛主诉（头疼/发烧/咳嗽）、医患问诊及服药指导。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u10-l4）系统深入地阐释「健康、身体部位与看病问诊 (Health & Medical Consultation)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「健康、身体部位与看病问诊 (Health & Medical Consultation)」的核心语法法则与应用范例 (10.4.1)。",
@@ -6224,12 +6032,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U10-L4】：牢記「全面掌握与熟练运用本课核心内容：人体解剖部位名称、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U10-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6320,7 +6124,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：人体解剖部位名称、病痛主诉（头疼/发烧/咳嗽）、医患问诊及服药指导。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u10-l5）系统深入地阐释「健康、身体部位与看病问诊 (Health & Medical Consultation)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「健康、身体部位与看病问诊 (Health & Medical Consultation)」的核心语法法则与应用范例 (10.5.1)。",
@@ -6343,12 +6147,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U10-L5】：牢記「全面掌握与熟练运用本课核心内容：人体解剖部位名称、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U10-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6439,7 +6239,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：五大情态助动词在意愿、能力、许可及必然性上的精细语义分工。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u11-l1）系统深入地阐释「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的核心语法法则与应用范例 (11.1.1)。",
@@ -6462,12 +6262,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U11-L1】：牢記「全面掌握与熟练运用本课核心内容：五大情态助动词在意」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U11-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6558,7 +6354,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：五大情态助动词在意愿、能力、许可及必然性上的精细语义分工。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u11-l2）系统深入地阐释「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的核心语法法则与应用范例 (11.2.1)。",
@@ -6581,12 +6377,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U11-L2】：牢記「全面掌握与熟练运用本课核心内容：五大情态助动词在意」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U11-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6677,7 +6469,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：五大情态助动词在意愿、能力、许可及必然性上的精细语义分工。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u11-l3）系统深入地阐释「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的核心语法法则与应用范例 (11.3.1)。",
@@ -6700,12 +6492,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U11-L3】：牢記「全面掌握与熟练运用本课核心内容：五大情态助动词在意」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U11-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6796,7 +6584,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：五大情态助动词在意愿、能力、许可及必然性上的精细语义分工。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u11-l4）系统深入地阐释「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的核心语法法则与应用范例 (11.4.1)。",
@@ -6819,12 +6607,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U11-L4】：牢記「全面掌握与熟练运用本课核心内容：五大情态助动词在意」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U11-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6915,7 +6699,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：五大情态助动词在意愿、能力、许可及必然性上的精细语义分工。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u11-l5）系统深入地阐释「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「能愿动词（想/要/能/会/可以）与计划 (Modal Verbs & Plans)」的核心语法法则与应用范例 (11.5.1)。",
@@ -6938,12 +6722,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U11-L5】：牢記「全面掌握与熟练运用本课核心内容：五大情态助动词在意」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U11-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7034,7 +6814,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：文娱体育词汇、离合动词（游泳/跑步/唱歌/跳舞/睡觉）的语法扩展与插入规则。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u12-l1）系统深入地阐释「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的核心语法法则与应用范例 (12.1.1)。",
@@ -7057,12 +6837,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U12-L1】：牢記「全面掌握与熟练运用本课核心内容：文娱体育词汇、离合」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U12-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7153,7 +6929,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：文娱体育词汇、离合动词（游泳/跑步/唱歌/跳舞/睡觉）的语法扩展与插入规则。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u12-l2）系统深入地阐释「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的核心语法法则与应用范例 (12.2.1)。",
@@ -7176,12 +6952,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U12-L2】：牢記「全面掌握与熟练运用本课核心内容：文娱体育词汇、离合」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U12-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7272,7 +7044,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：文娱体育词汇、离合动词（游泳/跑步/唱歌/跳舞/睡觉）的语法扩展与插入规则。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u12-l3）系统深入地阐释「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的核心语法法则与应用范例 (12.3.1)。",
@@ -7295,12 +7067,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U12-L3】：牢記「全面掌握与熟练运用本课核心内容：文娱体育词汇、离合」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U12-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7391,7 +7159,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：文娱体育词汇、离合动词（游泳/跑步/唱歌/跳舞/睡觉）的语法扩展与插入规则。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u12-l4）系统深入地阐释「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的核心语法法则与应用范例 (12.4.1)。",
@@ -7414,12 +7182,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U12-L4】：牢記「全面掌握与熟练运用本课核心内容：文娱体育词汇、离合」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U12-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7510,7 +7274,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：文娱体育词汇、离合动词（游泳/跑步/唱歌/跳舞/睡觉）的语法扩展与插入规则。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u12-l5）系统深入地阐释「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「兴趣爱好、体育与离合词 (Hobbies & Separable Verbs)」的核心语法法则与应用范例 (12.5.1)。",
@@ -7533,12 +7297,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U12-L5】：牢記「全面掌握与熟练运用本课核心内容：文娱体育词汇、离合」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U12-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7629,7 +7389,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：职场职务称谓、大学专业设置、面试沟通及商务电子邮件基础格式。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u13-l1）系统深入地阐释「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的核心语法法则与应用范例 (13.1.1)。",
@@ -7652,12 +7412,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U13-L1】：牢記「全面掌握与熟练运用本课核心内容：职场职务称谓、大学」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U13-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7748,7 +7504,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：职场职务称谓、大学专业设置、面试沟通及商务电子邮件基础格式。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u13-l2）系统深入地阐释「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的核心语法法则与应用范例 (13.2.1)。",
@@ -7771,12 +7527,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U13-L2】：牢記「全面掌握与熟练运用本课核心内容：职场职务称谓、大学」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U13-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7867,7 +7619,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：职场职务称谓、大学专业设置、面试沟通及商务电子邮件基础格式。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u13-l3）系统深入地阐释「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的核心语法法则与应用范例 (13.3.1)。",
@@ -7890,12 +7642,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U13-L3】：牢記「全面掌握与熟练运用本课核心内容：职场职务称谓、大学」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U13-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7986,7 +7734,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：职场职务称谓、大学专业设置、面试沟通及商务电子邮件基础格式。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u13-l4）系统深入地阐释「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的核心语法法则与应用范例 (13.4.1)。",
@@ -8009,12 +7757,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U13-L4】：牢記「全面掌握与熟练运用本课核心内容：职场职务称谓、大学」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U13-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8105,7 +7849,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：职场职务称谓、大学专业设置、面试沟通及商务电子邮件基础格式。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u13-l5）系统深入地阐释「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的核心语法法则与应用范例 (13.5.1)。",
@@ -8128,12 +7872,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U13-L5】：牢記「全面掌握与熟练运用本课核心内容：职场职务称谓、大学」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U13-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8224,7 +7964,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：汉语四大比较句型（A比B更...、A没有B...、A不如B...、A跟B一样...）的句法制约。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u14-l1）系统深入地阐释「比较句（比/没有/不如/一样） (Comparative Structures)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「比较句（比/没有/不如/一样） (Comparative Structures)」的核心语法法则与应用范例 (14.1.1)。",
@@ -8247,12 +7987,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U14-L1】：牢記「全面掌握与熟练运用本课核心内容：汉语四大比较句型（」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U14-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8343,7 +8079,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：汉语四大比较句型（A比B更...、A没有B...、A不如B...、A跟B一样...）的句法制约。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u14-l2）系统深入地阐释「比较句（比/没有/不如/一样） (Comparative Structures)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「比较句（比/没有/不如/一样） (Comparative Structures)」的核心语法法则与应用范例 (14.2.1)。",
@@ -8366,12 +8102,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U14-L2】：牢記「全面掌握与熟练运用本课核心内容：汉语四大比较句型（」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U14-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8462,7 +8194,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：汉语四大比较句型（A比B更...、A没有B...、A不如B...、A跟B一样...）的句法制约。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u14-l3）系统深入地阐释「比较句（比/没有/不如/一样） (Comparative Structures)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「比较句（比/没有/不如/一样） (Comparative Structures)」的核心语法法则与应用范例 (14.3.1)。",
@@ -8485,12 +8217,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U14-L3】：牢記「全面掌握与熟练运用本课核心内容：汉语四大比较句型（」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U14-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8581,7 +8309,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：汉语四大比较句型（A比B更...、A没有B...、A不如B...、A跟B一样...）的句法制约。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u14-l4）系统深入地阐释「比较句（比/没有/不如/一样） (Comparative Structures)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「比较句（比/没有/不如/一样） (Comparative Structures)」的核心语法法则与应用范例 (14.4.1)。",
@@ -8604,12 +8332,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U14-L4】：牢記「全面掌握与熟练运用本课核心内容：汉语四大比较句型（」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U14-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8700,7 +8424,7 @@
     "level": "A2",
     "objective": "全面掌握与熟练运用本课核心内容：汉语四大比较句型（A比B更...、A没有B...、A不如B...、A跟B一样...）的句法制约。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u14-l5）系统深入地阐释「比较句（比/没有/不如/一样） (Comparative Structures)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「比较句（比/没有/不如/一样） (Comparative Structures)」的核心语法法则与应用范例 (14.5.1)。",
@@ -8723,12 +8447,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U14-L5】：牢記「全面掌握与熟练运用本课核心内容：汉语四大比较句型（」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U14-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8819,7 +8539,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：中国主要省区地貌、世界文化遗产（故宫/长城/兵马俑）及旅游出行用语。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u15-l1）系统深入地阐释「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的核心语法法则与应用范例 (15.1.1)。",
@@ -8842,12 +8562,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U15-L1】：牢記「全面掌握与熟练运用本课核心内容：中国主要省区地貌、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U15-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8938,7 +8654,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：中国主要省区地貌、世界文化遗产（故宫/长城/兵马俑）及旅游出行用语。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u15-l2）系统深入地阐释「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的核心语法法则与应用范例 (15.2.1)。",
@@ -8961,12 +8677,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U15-L2】：牢記「全面掌握与熟练运用本课核心内容：中国主要省区地貌、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U15-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9057,7 +8769,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：中国主要省区地貌、世界文化遗产（故宫/长城/兵马俑）及旅游出行用语。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u15-l3）系统深入地阐释「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的核心语法法则与应用范例 (15.3.1)。",
@@ -9080,12 +8792,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U15-L3】：牢記「全面掌握与熟练运用本课核心内容：中国主要省区地貌、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U15-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9176,7 +8884,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：中国主要省区地貌、世界文化遗产（故宫/长城/兵马俑）及旅游出行用语。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u15-l4）系统深入地阐释「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的核心语法法则与应用范例 (15.4.1)。",
@@ -9199,12 +8907,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U15-L4】：牢記「全面掌握与熟练运用本课核心内容：中国主要省区地貌、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U15-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9295,7 +8999,7 @@
     "level": "A1",
     "objective": "全面掌握与熟练运用本课核心内容：中国主要省区地貌、世界文化遗产（故宫/长城/兵马俑）及旅游出行用语。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u15-l5）系统深入地阐释「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国地理、旅游与名胜古迹 (Geography & Cultural Heritage)」的核心语法法则与应用范例 (15.5.1)。",
@@ -9318,12 +9022,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U15-L5】：牢記「全面掌握与熟练运用本课核心内容：中国主要省区地貌、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U15-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9414,7 +9114,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：把字句的句法语义条件：谓语动词的处置性、宾语的有定性及补语的强制要求。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u16-l1）系统深入地阐释「把字句的深层结构与处置义 (The BA Disposal Construction)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「把字句的深层结构与处置义 (The BA Disposal Construction)」的核心语法法则与应用范例 (16.1.1)。",
@@ -9437,12 +9137,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U16-L1】：牢記「全面掌握与熟练运用本课核心内容：把字句的句法语义条」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U16-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9533,7 +9229,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：把字句的句法语义条件：谓语动词的处置性、宾语的有定性及补语的强制要求。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u16-l2）系统深入地阐释「把字句的深层结构与处置义 (The BA Disposal Construction)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「把字句的深层结构与处置义 (The BA Disposal Construction)」的核心语法法则与应用范例 (16.2.1)。",
@@ -9556,12 +9252,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U16-L2】：牢記「全面掌握与熟练运用本课核心内容：把字句的句法语义条」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U16-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9652,7 +9344,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：把字句的句法语义条件：谓语动词的处置性、宾语的有定性及补语的强制要求。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u16-l3）系统深入地阐释「把字句的深层结构与处置义 (The BA Disposal Construction)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「把字句的深层结构与处置义 (The BA Disposal Construction)」的核心语法法则与应用范例 (16.3.1)。",
@@ -9675,12 +9367,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U16-L3】：牢記「全面掌握与熟练运用本课核心内容：把字句的句法语义条」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U16-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9771,7 +9459,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：把字句的句法语义条件：谓语动词的处置性、宾语的有定性及补语的强制要求。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u16-l4）系统深入地阐释「把字句的深层结构与处置义 (The BA Disposal Construction)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「把字句的深层结构与处置义 (The BA Disposal Construction)」的核心语法法则与应用范例 (16.4.1)。",
@@ -9794,12 +9482,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U16-L4】：牢記「全面掌握与熟练运用本课核心内容：把字句的句法语义条」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U16-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9890,7 +9574,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：把字句的句法语义条件：谓语动词的处置性、宾语的有定性及补语的强制要求。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u16-l5）系统深入地阐释「把字句的深层结构与处置义 (The BA Disposal Construction)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「把字句的深层结构与处置义 (The BA Disposal Construction)」的核心语法法则与应用范例 (16.5.1)。",
@@ -9913,12 +9597,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U16-L5】：牢記「全面掌握与熟练运用本课核心内容：把字句的句法语义条」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U16-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10009,7 +9689,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：介词「被/叫/让」构成的被动句、受事主语句及被动句的负面与中性语用色彩。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u17-l1）系统深入地阐释「被字句与受事主语句 (The BEI Passive Voice)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「被字句与受事主语句 (The BEI Passive Voice)」的核心语法法则与应用范例 (17.1.1)。",
@@ -10032,12 +9712,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U17-L1】：牢記「全面掌握与熟练运用本课核心内容：介词「被/叫/让」」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U17-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10128,7 +9804,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：介词「被/叫/让」构成的被动句、受事主语句及被动句的负面与中性语用色彩。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u17-l2）系统深入地阐释「被字句与受事主语句 (The BEI Passive Voice)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「被字句与受事主语句 (The BEI Passive Voice)」的核心语法法则与应用范例 (17.2.1)。",
@@ -10151,12 +9827,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U17-L2】：牢記「全面掌握与熟练运用本课核心内容：介词「被/叫/让」」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U17-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10247,7 +9919,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：介词「被/叫/让」构成的被动句、受事主语句及被动句的负面与中性语用色彩。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u17-l3）系统深入地阐释「被字句与受事主语句 (The BEI Passive Voice)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「被字句与受事主语句 (The BEI Passive Voice)」的核心语法法则与应用范例 (17.3.1)。",
@@ -10270,12 +9942,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U17-L3】：牢記「全面掌握与熟练运用本课核心内容：介词「被/叫/让」」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U17-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10366,7 +10034,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：介词「被/叫/让」构成的被动句、受事主语句及被动句的负面与中性语用色彩。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u17-l4）系统深入地阐释「被字句与受事主语句 (The BEI Passive Voice)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「被字句与受事主语句 (The BEI Passive Voice)」的核心语法法则与应用范例 (17.4.1)。",
@@ -10389,12 +10057,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U17-L4】：牢記「全面掌握与熟练运用本课核心内容：介词「被/叫/让」」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U17-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10485,7 +10149,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：介词「被/叫/让」构成的被动句、受事主语句及被动句的负面与中性语用色彩。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u17-l5）系统深入地阐释「被字句与受事主语句 (The BEI Passive Voice)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「被字句与受事主语句 (The BEI Passive Voice)」的核心语法法则与应用范例 (17.5.1)。",
@@ -10508,12 +10172,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U17-L5】：牢記「全面掌握与熟练运用本课核心内容：介词「被/叫/让」」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U17-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10604,7 +10264,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：复合趋向补语（出来/进去/起来/下去）的引申用法与结果补语（见/到/完/好/懂）。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u18-l1）系统深入地阐释「结果补语与趋向补语 (Resultative & Directional Complements)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「结果补语与趋向补语 (Resultative & Directional Complements)」的核心语法法则与应用范例 (18.1.1)。",
@@ -10627,12 +10287,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U18-L1】：牢記「全面掌握与熟练运用本课核心内容：复合趋向补语（出来」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U18-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10723,7 +10379,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：复合趋向补语（出来/进去/起来/下去）的引申用法与结果补语（见/到/完/好/懂）。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u18-l2）系统深入地阐释「结果补语与趋向补语 (Resultative & Directional Complements)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「结果补语与趋向补语 (Resultative & Directional Complements)」的核心语法法则与应用范例 (18.2.1)。",
@@ -10746,12 +10402,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U18-L2】：牢記「全面掌握与熟练运用本课核心内容：复合趋向补语（出来」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U18-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10842,7 +10494,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：复合趋向补语（出来/进去/起来/下去）的引申用法与结果补语（见/到/完/好/懂）。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u18-l3）系统深入地阐释「结果补语与趋向补语 (Resultative & Directional Complements)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「结果补语与趋向补语 (Resultative & Directional Complements)」的核心语法法则与应用范例 (18.3.1)。",
@@ -10865,12 +10517,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U18-L3】：牢記「全面掌握与熟练运用本课核心内容：复合趋向补语（出来」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U18-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10961,7 +10609,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：复合趋向补语（出来/进去/起来/下去）的引申用法与结果补语（见/到/完/好/懂）。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u18-l4）系统深入地阐释「结果补语与趋向补语 (Resultative & Directional Complements)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「结果补语与趋向补语 (Resultative & Directional Complements)」的核心语法法则与应用范例 (18.4.1)。",
@@ -10984,12 +10632,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U18-L4】：牢記「全面掌握与熟练运用本课核心内容：复合趋向补语（出来」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U18-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11080,7 +10724,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：复合趋向补语（出来/进去/起来/下去）的引申用法与结果补语（见/到/完/好/懂）。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u18-l5）系统深入地阐释「结果补语与趋向补语 (Resultative & Directional Complements)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「结果补语与趋向补语 (Resultative & Directional Complements)」的核心语法法则与应用范例 (18.5.1)。",
@@ -11103,12 +10747,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U18-L5】：牢記「全面掌握与熟练运用本课核心内容：复合趋向补语（出来」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U18-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11199,7 +10839,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：可能补语的肯定与否定式（看得懂/听不清楚）、状态补语及程度补语的用法。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u19-l1）系统深入地阐释「可能补语（得/不）与程度表达 (Potential Complements)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「可能补语（得/不）与程度表达 (Potential Complements)」的核心语法法则与应用范例 (19.1.1)。",
@@ -11222,12 +10862,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U19-L1】：牢記「全面掌握与熟练运用本课核心内容：可能补语的肯定与否」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U19-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11318,7 +10954,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：可能补语的肯定与否定式（看得懂/听不清楚）、状态补语及程度补语的用法。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u19-l2）系统深入地阐释「可能补语（得/不）与程度表达 (Potential Complements)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「可能补语（得/不）与程度表达 (Potential Complements)」的核心语法法则与应用范例 (19.2.1)。",
@@ -11341,12 +10977,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U19-L2】：牢記「全面掌握与熟练运用本课核心内容：可能补语的肯定与否」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U19-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11437,7 +11069,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：可能补语的肯定与否定式（看得懂/听不清楚）、状态补语及程度补语的用法。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u19-l3）系统深入地阐释「可能补语（得/不）与程度表达 (Potential Complements)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「可能补语（得/不）与程度表达 (Potential Complements)」的核心语法法则与应用范例 (19.3.1)。",
@@ -11460,12 +11092,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U19-L3】：牢記「全面掌握与熟练运用本课核心内容：可能补语的肯定与否」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U19-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11556,7 +11184,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：可能补语的肯定与否定式（看得懂/听不清楚）、状态补语及程度补语的用法。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u19-l4）系统深入地阐释「可能补语（得/不）与程度表达 (Potential Complements)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「可能补语（得/不）与程度表达 (Potential Complements)」的核心语法法则与应用范例 (19.4.1)。",
@@ -11579,12 +11207,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U19-L4】：牢記「全面掌握与熟练运用本课核心内容：可能补语的肯定与否」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U19-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11675,7 +11299,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：可能补语的肯定与否定式（看得懂/听不清楚）、状态补语及程度补语的用法。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u19-l5）系统深入地阐释「可能补语（得/不）与程度表达 (Potential Complements)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「可能补语（得/不）与程度表达 (Potential Complements)」的核心语法法则与应用范例 (19.5.1)。",
@@ -11698,12 +11322,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U19-L5】：牢記「全面掌握与熟练运用本课核心内容：可能补语的肯定与否」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U19-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11794,7 +11414,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：处所词作主语的存现句（存在句/出现句/消失句）及动词后附助词「着/了」。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u20-l1）系统深入地阐释「存现句与空间状态描写 (Existential Sentences)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「存现句与空间状态描写 (Existential Sentences)」的核心语法法则与应用范例 (20.1.1)。",
@@ -11817,12 +11437,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U20-L1】：牢記「全面掌握与熟练运用本课核心内容：处所词作主语的存现」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U20-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11913,7 +11529,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：处所词作主语的存现句（存在句/出现句/消失句）及动词后附助词「着/了」。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u20-l2）系统深入地阐释「存现句与空间状态描写 (Existential Sentences)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「存现句与空间状态描写 (Existential Sentences)」的核心语法法则与应用范例 (20.2.1)。",
@@ -11936,12 +11552,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U20-L2】：牢記「全面掌握与熟练运用本课核心内容：处所词作主语的存现」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U20-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12032,7 +11644,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：处所词作主语的存现句（存在句/出现句/消失句）及动词后附助词「着/了」。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u20-l3）系统深入地阐释「存现句与空间状态描写 (Existential Sentences)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「存现句与空间状态描写 (Existential Sentences)」的核心语法法则与应用范例 (20.3.1)。",
@@ -12055,12 +11667,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U20-L3】：牢記「全面掌握与熟练运用本课核心内容：处所词作主语的存现」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U20-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12151,7 +11759,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：处所词作主语的存现句（存在句/出现句/消失句）及动词后附助词「着/了」。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u20-l4）系统深入地阐释「存现句与空间状态描写 (Existential Sentences)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「存现句与空间状态描写 (Existential Sentences)」的核心语法法则与应用范例 (20.4.1)。",
@@ -12174,12 +11782,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U20-L4】：牢記「全面掌握与熟练运用本课核心内容：处所词作主语的存现」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U20-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12270,7 +11874,7 @@
     "level": "B1",
     "objective": "全面掌握与熟练运用本课核心内容：处所词作主语的存现句（存在句/出现句/消失句）及动词后附助词「着/了」。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u20-l5）系统深入地阐释「存现句与空间状态描写 (Existential Sentences)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「存现句与空间状态描写 (Existential Sentences)」的核心语法法则与应用范例 (20.5.1)。",
@@ -12293,12 +11897,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U20-L5】：牢記「全面掌握与熟练运用本课核心内容：处所词作主语的存现」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U20-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12389,7 +11989,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：递进、转折、因果、假设、条件及让步复句的高级关联词搭配（不仅...而且...、虽然...但是...）。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u21-l1）系统深入地阐释「关联词与复杂复句结构 (Complex Sentences & Connectives)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「关联词与复杂复句结构 (Complex Sentences & Connectives)」的核心语法法则与应用范例 (21.1.1)。",
@@ -12412,12 +12012,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U21-L1】：牢記「全面掌握与熟练运用本课核心内容：递进、转折、因果、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U21-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12508,7 +12104,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：递进、转折、因果、假设、条件及让步复句的高级关联词搭配（不仅...而且...、虽然...但是...）。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u21-l2）系统深入地阐释「关联词与复杂复句结构 (Complex Sentences & Connectives)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「关联词与复杂复句结构 (Complex Sentences & Connectives)」的核心语法法则与应用范例 (21.2.1)。",
@@ -12531,12 +12127,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U21-L2】：牢記「全面掌握与熟练运用本课核心内容：递进、转折、因果、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U21-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12627,7 +12219,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：递进、转折、因果、假设、条件及让步复句的高级关联词搭配（不仅...而且...、虽然...但是...）。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u21-l3）系统深入地阐释「关联词与复杂复句结构 (Complex Sentences & Connectives)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「关联词与复杂复句结构 (Complex Sentences & Connectives)」的核心语法法则与应用范例 (21.3.1)。",
@@ -12650,12 +12242,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U21-L3】：牢記「全面掌握与熟练运用本课核心内容：递进、转折、因果、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U21-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12746,7 +12334,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：递进、转折、因果、假设、条件及让步复句的高级关联词搭配（不仅...而且...、虽然...但是...）。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u21-l4）系统深入地阐释「关联词与复杂复句结构 (Complex Sentences & Connectives)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「关联词与复杂复句结构 (Complex Sentences & Connectives)」的核心语法法则与应用范例 (21.4.1)。",
@@ -12769,12 +12357,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U21-L4】：牢記「全面掌握与熟练运用本课核心内容：递进、转折、因果、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U21-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12865,7 +12449,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：递进、转折、因果、假设、条件及让步复句的高级关联词搭配（不仅...而且...、虽然...但是...）。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u21-l5）系统深入地阐释「关联词与复杂复句结构 (Complex Sentences & Connectives)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「关联词与复杂复句结构 (Complex Sentences & Connectives)」的核心语法法则与应用范例 (21.5.1)。",
@@ -12888,12 +12472,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U21-L5】：牢記「全面掌握与熟练运用本课核心内容：递进、转折、因果、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U21-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12984,7 +12564,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：四字熟语（成语）、典故引申、书面双音节词汇转换与文雅辞令修辞。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u22-l1）系统深入地阐释「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的核心语法法则与应用范例 (22.1.1)。",
@@ -13007,12 +12587,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U22-L1】：牢記「全面掌握与熟练运用本课核心内容：四字熟语（成语）、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U22-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13103,7 +12679,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：四字熟语（成语）、典故引申、书面双音节词汇转换与文雅辞令修辞。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u22-l2）系统深入地阐释「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的核心语法法则与应用范例 (22.2.1)。",
@@ -13126,12 +12702,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U22-L2】：牢記「全面掌握与熟练运用本课核心内容：四字熟语（成语）、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U22-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13222,7 +12794,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：四字熟语（成语）、典故引申、书面双音节词汇转换与文雅辞令修辞。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u22-l3）系统深入地阐释「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的核心语法法则与应用范例 (22.3.1)。",
@@ -13245,12 +12817,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U22-L3】：牢記「全面掌握与熟练运用本课核心内容：四字熟语（成语）、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U22-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13341,7 +12909,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：四字熟语（成语）、典故引申、书面双音节词汇转换与文雅辞令修辞。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u22-l4）系统深入地阐释「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的核心语法法则与应用范例 (22.4.1)。",
@@ -13364,12 +12932,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U22-L4】：牢記「全面掌握与熟练运用本课核心内容：四字熟语（成语）、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U22-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13460,7 +13024,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：四字熟语（成语）、典故引申、书面双音节词汇转换与文雅辞令修辞。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u22-l5）系统深入地阐释「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「书面语体、成语与修辞 (Formal Register & Idiomatic Chengyu)」的核心语法法则与应用范例 (22.5.1)。",
@@ -13483,12 +13047,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U22-L5】：牢記「全面掌握与熟练运用本课核心内容：四字熟语（成语）、」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U22-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13579,7 +13139,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：新闻通稿、社论导读、社会经济统计术语及公共政策深度讨论。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u23-l1）系统深入地阐释「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的核心语法法则与应用范例 (23.1.1)。",
@@ -13602,12 +13162,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U23-L1】：牢記「全面掌握与熟练运用本课核心内容：新闻通稿、社论导读」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U23-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13698,7 +13254,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：新闻通稿、社论导读、社会经济统计术语及公共政策深度讨论。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u23-l2）系统深入地阐释「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的核心语法法则与应用范例 (23.2.1)。",
@@ -13721,12 +13277,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U23-L2】：牢記「全面掌握与熟练运用本课核心内容：新闻通稿、社论导读」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U23-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13817,7 +13369,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：新闻通稿、社论导读、社会经济统计术语及公共政策深度讨论。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u23-l3）系统深入地阐释「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的核心语法法则与应用范例 (23.3.1)。",
@@ -13840,12 +13392,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U23-L3】：牢記「全面掌握与熟练运用本课核心内容：新闻通稿、社论导读」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U23-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13936,7 +13484,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：新闻通稿、社论导读、社会经济统计术语及公共政策深度讨论。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u23-l4）系统深入地阐释「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的核心语法法则与应用范例 (23.4.1)。",
@@ -13959,12 +13507,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U23-L4】：牢記「全面掌握与熟练运用本课核心内容：新闻通稿、社论导读」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U23-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14055,7 +13599,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：新闻通稿、社论导读、社会经济统计术语及公共政策深度讨论。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u23-l5）系统深入地阐释「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「新闻传媒与当代社会热点 (Media & Contemporary Affairs)」的核心语法法则与应用范例 (23.5.1)。",
@@ -14078,12 +13622,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U23-L5】：牢記「全面掌握与熟练运用本课核心内容：新闻通稿、社论导读」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U23-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14174,7 +13714,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：商务合同、招投标书、公函、行政呈批件及正式商务谈判策略。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u24-l1）系统深入地阐释「商务汉语与公文写作 (Business Chinese & Official Correspondence)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的核心语法法则与应用范例 (24.1.1)。",
@@ -14197,12 +13737,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U24-L1】：牢記「全面掌握与熟练运用本课核心内容：商务合同、招投标书」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U24-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14293,7 +13829,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：商务合同、招投标书、公函、行政呈批件及正式商务谈判策略。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u24-l2）系统深入地阐释「商务汉语与公文写作 (Business Chinese & Official Correspondence)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的核心语法法则与应用范例 (24.2.1)。",
@@ -14316,12 +13852,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U24-L2】：牢記「全面掌握与熟练运用本课核心内容：商务合同、招投标书」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U24-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14412,7 +13944,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：商务合同、招投标书、公函、行政呈批件及正式商务谈判策略。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u24-l3）系统深入地阐释「商务汉语与公文写作 (Business Chinese & Official Correspondence)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的核心语法法则与应用范例 (24.3.1)。",
@@ -14435,12 +13967,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U24-L3】：牢記「全面掌握与熟练运用本课核心内容：商务合同、招投标书」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U24-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14531,7 +14059,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：商务合同、招投标书、公函、行政呈批件及正式商务谈判策略。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u24-l4）系统深入地阐释「商务汉语与公文写作 (Business Chinese & Official Correspondence)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的核心语法法则与应用范例 (24.4.1)。",
@@ -14554,12 +14082,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U24-L4】：牢記「全面掌握与熟练运用本课核心内容：商务合同、招投标书」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U24-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14650,7 +14174,7 @@
     "level": "B2",
     "objective": "全面掌握与熟练运用本课核心内容：商务合同、招投标书、公函、行政呈批件及正式商务谈判策略。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u24-l5）系统深入地阐释「商务汉语与公文写作 (Business Chinese & Official Correspondence)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的核心语法法则与应用范例 (24.5.1)。",
@@ -14673,12 +14197,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U24-L5】：牢記「全面掌握与熟练运用本课核心内容：商务合同、招投标书」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U24-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14769,7 +14289,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：《诗经》、楚辞、唐诗（李白/杜甫/王维）、宋词（苏轼/李清照）的格律与意境。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u25-l1）系统深入地阐释「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的核心语法法则与应用范例 (25.1.1)。",
@@ -14792,12 +14312,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U25-L1】：牢記「全面掌握与熟练运用本课核心内容：《诗经》、楚辞、唐」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U25-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14888,7 +14404,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：《诗经》、楚辞、唐诗（李白/杜甫/王维）、宋词（苏轼/李清照）的格律与意境。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u25-l2）系统深入地阐释「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的核心语法法则与应用范例 (25.2.1)。",
@@ -14911,12 +14427,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U25-L2】：牢記「全面掌握与熟练运用本课核心内容：《诗经》、楚辞、唐」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U25-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15007,7 +14519,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：《诗经》、楚辞、唐诗（李白/杜甫/王维）、宋词（苏轼/李清照）的格律与意境。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u25-l3）系统深入地阐释「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的核心语法法则与应用范例 (25.3.1)。",
@@ -15030,12 +14542,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U25-L3】：牢記「全面掌握与熟练运用本课核心内容：《诗经》、楚辞、唐」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U25-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15126,7 +14634,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：《诗经》、楚辞、唐诗（李白/杜甫/王维）、宋词（苏轼/李清照）的格律与意境。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u25-l4）系统深入地阐释「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的核心语法法则与应用范例 (25.4.1)。",
@@ -15149,12 +14657,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U25-L4】：牢記「全面掌握与熟练运用本课核心内容：《诗经》、楚辞、唐」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U25-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15245,7 +14749,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：《诗经》、楚辞、唐诗（李白/杜甫/王维）、宋词（苏轼/李清照）的格律与意境。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u25-l5）系统深入地阐释「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国古典文学与诗词鉴赏 (Classical Poetry & Tang/Song Verses)」的核心语法法则与应用范例 (25.5.1)。",
@@ -15268,12 +14772,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U25-L5】：牢記「全面掌握与熟练运用本课核心内容：《诗经》、楚辞、唐」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U25-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15364,7 +14864,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：孔孟儒家（仁义礼智）、老庄道家（无为而治/齐物论）、法家及墨家思想精髓。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u26-l1）系统深入地阐释「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的核心语法法则与应用范例 (26.1.1)。",
@@ -15387,12 +14887,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U26-L1】：牢記「全面掌握与熟练运用本课核心内容：孔孟儒家（仁义礼智」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U26-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15483,7 +14979,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：孔孟儒家（仁义礼智）、老庄道家（无为而治/齐物论）、法家及墨家思想精髓。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u26-l2）系统深入地阐释「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的核心语法法则与应用范例 (26.2.1)。",
@@ -15506,12 +15002,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U26-L2】：牢記「全面掌握与熟练运用本课核心内容：孔孟儒家（仁义礼智」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U26-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15602,7 +15094,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：孔孟儒家（仁义礼智）、老庄道家（无为而治/齐物论）、法家及墨家思想精髓。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u26-l3）系统深入地阐释「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的核心语法法则与应用范例 (26.3.1)。",
@@ -15625,12 +15117,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U26-L3】：牢記「全面掌握与熟练运用本课核心内容：孔孟儒家（仁义礼智」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U26-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15721,7 +15209,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：孔孟儒家（仁义礼智）、老庄道家（无为而治/齐物论）、法家及墨家思想精髓。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u26-l4）系统深入地阐释「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的核心语法法则与应用范例 (26.4.1)。",
@@ -15744,12 +15232,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U26-L4】：牢記「全面掌握与熟练运用本课核心内容：孔孟儒家（仁义礼智」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U26-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15840,7 +15324,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：孔孟儒家（仁义礼智）、老庄道家（无为而治/齐物论）、法家及墨家思想精髓。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u26-l5）系统深入地阐释「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「先秦诸子百家与儒道哲学 (Confucian & Daoist Philosophy)」的核心语法法则与应用范例 (26.5.1)。",
@@ -15863,12 +15347,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U26-L5】：牢記「全面掌握与熟练运用本课核心内容：孔孟儒家（仁义礼智」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U26-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15959,7 +15439,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：京剧程式化表演（生旦净丑）、文人写意水墨画留白艺术、汉字书法五体演变。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u27-l1）系统深入地阐释「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的核心语法法则与应用范例 (27.1.1)。",
@@ -15982,12 +15462,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U27-L1】：牢記「全面掌握与熟练运用本课核心内容：京剧程式化表演（生」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U27-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16078,7 +15554,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：京剧程式化表演（生旦净丑）、文人写意水墨画留白艺术、汉字书法五体演变。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u27-l2）系统深入地阐释「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的核心语法法则与应用范例 (27.2.1)。",
@@ -16101,12 +15577,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U27-L2】：牢記「全面掌握与熟练运用本课核心内容：京剧程式化表演（生」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U27-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16197,7 +15669,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：京剧程式化表演（生旦净丑）、文人写意水墨画留白艺术、汉字书法五体演变。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u27-l3）系统深入地阐释「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的核心语法法则与应用范例 (27.3.1)。",
@@ -16220,12 +15692,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U27-L3】：牢記「全面掌握与熟练运用本课核心内容：京剧程式化表演（生」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U27-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16316,7 +15784,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：京剧程式化表演（生旦净丑）、文人写意水墨画留白艺术、汉字书法五体演变。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u27-l4）系统深入地阐释「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的核心语法法则与应用范例 (27.4.1)。",
@@ -16339,12 +15807,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U27-L4】：牢記「全面掌握与熟练运用本课核心内容：京剧程式化表演（生」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U27-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16435,7 +15899,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：京剧程式化表演（生旦净丑）、文人写意水墨画留白艺术、汉字书法五体演变。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u27-l5）系统深入地阐释「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的核心语法法则与应用范例 (27.5.1)。",
@@ -16458,12 +15922,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U27-L5】：牢記「全面掌握与熟练运用本课核心内容：京剧程式化表演（生」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U27-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16554,7 +16014,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：五四新文化运动、现实主义与现代派文学、乡土中国与市民社会的现代性反思。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u28-l1）系统深入地阐释「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的核心语法法则与应用范例 (28.1.1)。",
@@ -16577,12 +16037,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U28-L1】：牢記「全面掌握与熟练运用本课核心内容：五四新文化运动、现」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U28-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16673,7 +16129,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：五四新文化运动、现实主义与现代派文学、乡土中国与市民社会的现代性反思。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u28-l2）系统深入地阐释「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的核心语法法则与应用范例 (28.2.1)。",
@@ -16696,12 +16152,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U28-L2】：牢記「全面掌握与熟练运用本课核心内容：五四新文化运动、现」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U28-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16792,7 +16244,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：五四新文化运动、现实主义与现代派文学、乡土中国与市民社会的现代性反思。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u28-l3）系统深入地阐释「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的核心语法法则与应用范例 (28.3.1)。",
@@ -16815,12 +16267,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U28-L3】：牢記「全面掌握与熟练运用本课核心内容：五四新文化运动、现」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U28-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16911,7 +16359,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：五四新文化运动、现实主义与现代派文学、乡土中国与市民社会的现代性反思。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u28-l4）系统深入地阐释「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的核心语法法则与应用范例 (28.4.1)。",
@@ -16934,12 +16382,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U28-L4】：牢記「全面掌握与熟练运用本课核心内容：五四新文化运动、现」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U28-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17030,7 +16474,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：五四新文化运动、现实主义与现代派文学、乡土中国与市民社会的现代性反思。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u28-l5）系统深入地阐释「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「现代文学巨匠：鲁迅、老舍、张爱玲 (Modern Literature Titans)」的核心语法法则与应用范例 (28.5.1)。",
@@ -17053,12 +16497,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U28-L5】：牢記「全面掌握与熟练运用本课核心内容：五四新文化运动、现」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U28-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17149,7 +16589,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：前沿科研成果、学术论文摘要与引言撰写、理论模型构建与实证论证。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u29-l1）系统深入地阐释「科技创新与学术话语 (Science, Tech & Academic Discourse)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「科技创新与学术话语 (Science, Tech & Academic Discourse)」的核心语法法则与应用范例 (29.1.1)。",
@@ -17172,12 +16612,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U29-L1】：牢記「全面掌握与熟练运用本课核心内容：前沿科研成果、学术」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U29-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17268,7 +16704,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：前沿科研成果、学术论文摘要与引言撰写、理论模型构建与实证论证。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u29-l2）系统深入地阐释「科技创新与学术话语 (Science, Tech & Academic Discourse)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「科技创新与学术话语 (Science, Tech & Academic Discourse)」的核心语法法则与应用范例 (29.2.1)。",
@@ -17291,12 +16727,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U29-L2】：牢記「全面掌握与熟练运用本课核心内容：前沿科研成果、学术」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U29-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17387,7 +16819,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：前沿科研成果、学术论文摘要与引言撰写、理论模型构建与实证论证。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u29-l3）系统深入地阐释「科技创新与学术话语 (Science, Tech & Academic Discourse)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「科技创新与学术话语 (Science, Tech & Academic Discourse)」的核心语法法则与应用范例 (29.3.1)。",
@@ -17410,12 +16842,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U29-L3】：牢記「全面掌握与熟练运用本课核心内容：前沿科研成果、学术」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U29-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17506,7 +16934,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：前沿科研成果、学术论文摘要与引言撰写、理论模型构建与实证论证。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u29-l4）系统深入地阐释「科技创新与学术话语 (Science, Tech & Academic Discourse)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「科技创新与学术话语 (Science, Tech & Academic Discourse)」的核心语法法则与应用范例 (29.4.1)。",
@@ -17529,12 +16957,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U29-L4】：牢記「全面掌握与熟练运用本课核心内容：前沿科研成果、学术」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U29-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17625,7 +17049,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：前沿科研成果、学术论文摘要与引言撰写、理论模型构建与实证论证。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u29-l5）系统深入地阐释「科技创新与学术话语 (Science, Tech & Academic Discourse)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「科技创新与学术话语 (Science, Tech & Academic Discourse)」的核心语法法则与应用范例 (29.5.1)。",
@@ -17648,12 +17072,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U29-L5】：牢記「全面掌握与熟练运用本课核心内容：前沿科研成果、学术」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U29-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17744,7 +17164,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：第五代/第六代导演电影美学、现实主义题材剧作分析与视听语言叙事批评。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u30-l1）系统深入地阐释「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的核心语法法则与应用范例 (30.1.1)。",
@@ -17767,12 +17187,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U30-L1】：牢記「全面掌握与熟练运用本课核心内容：第五代/第六代导演」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U30-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17863,7 +17279,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：第五代/第六代导演电影美学、现实主义题材剧作分析与视听语言叙事批评。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u30-l2）系统深入地阐释「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的核心语法法则与应用范例 (30.2.1)。",
@@ -17886,12 +17302,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U30-L2】：牢記「全面掌握与熟练运用本课核心内容：第五代/第六代导演」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U30-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17982,7 +17394,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：第五代/第六代导演电影美学、现实主义题材剧作分析与视听语言叙事批评。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u30-l3）系统深入地阐释「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的核心语法法则与应用范例 (30.3.1)。",
@@ -18005,12 +17417,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U30-L3】：牢記「全面掌握与熟练运用本课核心内容：第五代/第六代导演」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U30-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18101,7 +17509,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：第五代/第六代导演电影美学、现实主义题材剧作分析与视听语言叙事批评。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u30-l4）系统深入地阐释「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的核心语法法则与应用范例 (30.4.1)。",
@@ -18124,12 +17532,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U30-L4】：牢記「全面掌握与熟练运用本课核心内容：第五代/第六代导演」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U30-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18220,7 +17624,7 @@
     "level": "C1",
     "objective": "全面掌握与熟练运用本课核心内容：第五代/第六代导演电影美学、现实主义题材剧作分析与视听语言叙事批评。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u30-l5）系统深入地阐释「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的核心语法法则与应用范例 (30.5.1)。",
@@ -18243,12 +17647,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U30-L5】：牢記「全面掌握与熟练运用本课核心内容：第五代/第六代导演」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U30-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18339,7 +17739,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：宪法原则、民商法典编纂、诉讼裁判法理及法治现代化专业术语。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u31-l1）系统深入地阐释「宪法法律与司法制度 (Constitutional & Legal System)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「宪法法律与司法制度 (Constitutional & Legal System)」的核心语法法则与应用范例 (31.1.1)。",
@@ -18362,12 +17762,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U31-L1】：牢記「全面掌握与熟练运用本课核心内容：宪法原则、民商法典」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U31-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18458,7 +17854,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：宪法原则、民商法典编纂、诉讼裁判法理及法治现代化专业术语。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u31-l2）系统深入地阐释「宪法法律与司法制度 (Constitutional & Legal System)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「宪法法律与司法制度 (Constitutional & Legal System)」的核心语法法则与应用范例 (31.2.1)。",
@@ -18481,12 +17877,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U31-L2】：牢記「全面掌握与熟练运用本课核心内容：宪法原则、民商法典」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U31-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18577,7 +17969,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：宪法原则、民商法典编纂、诉讼裁判法理及法治现代化专业术语。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u31-l3）系统深入地阐释「宪法法律与司法制度 (Constitutional & Legal System)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「宪法法律与司法制度 (Constitutional & Legal System)」的核心语法法则与应用范例 (31.3.1)。",
@@ -18600,12 +17992,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U31-L3】：牢記「全面掌握与熟练运用本课核心内容：宪法原则、民商法典」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U31-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18696,7 +18084,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：宪法原则、民商法典编纂、诉讼裁判法理及法治现代化专业术语。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u31-l4）系统深入地阐释「宪法法律与司法制度 (Constitutional & Legal System)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「宪法法律与司法制度 (Constitutional & Legal System)」的核心语法法则与应用范例 (31.4.1)。",
@@ -18719,12 +18107,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U31-L4】：牢記「全面掌握与熟练运用本课核心内容：宪法原则、民商法典」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U31-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18815,7 +18199,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：宪法原则、民商法典编纂、诉讼裁判法理及法治现代化专业术语。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u31-l5）系统深入地阐释「宪法法律与司法制度 (Constitutional & Legal System)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「宪法法律与司法制度 (Constitutional & Legal System)」的核心语法法则与应用范例 (31.5.1)。",
@@ -18838,12 +18222,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U31-L5】：牢記「全面掌握与熟练运用本课核心内容：宪法原则、民商法典」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U31-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18934,7 +18314,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：逻辑实证论证、修辞格论辩战术、跨文化公共政策演讲与危机公关阐述。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u32-l1）系统深入地阐释「高阶辩论与公共演讲 (High Debating & Public Address)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「高阶辩论与公共演讲 (High Debating & Public Address)」的核心语法法则与应用范例 (32.1.1)。",
@@ -18957,12 +18337,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U32-L1】：牢記「全面掌握与熟练运用本课核心内容：逻辑实证论证、修辞」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U32-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19053,7 +18429,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：逻辑实证论证、修辞格论辩战术、跨文化公共政策演讲与危机公关阐述。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u32-l2）系统深入地阐释「高阶辩论与公共演讲 (High Debating & Public Address)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「高阶辩论与公共演讲 (High Debating & Public Address)」的核心语法法则与应用范例 (32.2.1)。",
@@ -19076,12 +18452,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U32-L2】：牢記「全面掌握与熟练运用本课核心内容：逻辑实证论证、修辞」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U32-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19172,7 +18544,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：逻辑实证论证、修辞格论辩战术、跨文化公共政策演讲与危机公关阐述。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u32-l3）系统深入地阐释「高阶辩论与公共演讲 (High Debating & Public Address)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「高阶辩论与公共演讲 (High Debating & Public Address)」的核心语法法则与应用范例 (32.3.1)。",
@@ -19195,12 +18567,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U32-L3】：牢記「全面掌握与熟练运用本课核心内容：逻辑实证论证、修辞」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U32-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19291,7 +18659,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：逻辑实证论证、修辞格论辩战术、跨文化公共政策演讲与危机公关阐述。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u32-l4）系统深入地阐释「高阶辩论与公共演讲 (High Debating & Public Address)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「高阶辩论与公共演讲 (High Debating & Public Address)」的核心语法法则与应用范例 (32.4.1)。",
@@ -19314,12 +18682,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U32-L4】：牢記「全面掌握与熟练运用本课核心内容：逻辑实证论证、修辞」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U32-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19410,7 +18774,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：逻辑实证论证、修辞格论辩战术、跨文化公共政策演讲与危机公关阐述。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u32-l5）系统深入地阐释「高阶辩论与公共演讲 (High Debating & Public Address)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「高阶辩论与公共演讲 (High Debating & Public Address)」的核心语法法则与应用范例 (32.5.1)。",
@@ -19433,12 +18797,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U32-L5】：牢記「全面掌握与熟练运用本课核心内容：逻辑实证论证、修辞」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U32-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19529,7 +18889,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：紫禁城轴线布局、江南园林借景造园艺术、抬梁穿斗木构架力学哲学。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u33-l1）系统深入地阐释「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的核心语法法则与应用范例 (33.1.1)。",
@@ -19552,12 +18912,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U33-L1】：牢記「全面掌握与熟练运用本课核心内容：紫禁城轴线布局、江」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U33-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19648,7 +19004,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：紫禁城轴线布局、江南园林借景造园艺术、抬梁穿斗木构架力学哲学。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u33-l2）系统深入地阐释「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的核心语法法则与应用范例 (33.2.1)。",
@@ -19671,12 +19027,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U33-L2】：牢記「全面掌握与熟练运用本课核心内容：紫禁城轴线布局、江」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U33-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19767,7 +19119,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：紫禁城轴线布局、江南园林借景造园艺术、抬梁穿斗木构架力学哲学。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u33-l3）系统深入地阐释「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的核心语法法则与应用范例 (33.3.1)。",
@@ -19790,12 +19142,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U33-L3】：牢記「全面掌握与熟练运用本课核心内容：紫禁城轴线布局、江」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U33-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19886,7 +19234,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：紫禁城轴线布局、江南园林借景造园艺术、抬梁穿斗木构架力学哲学。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u33-l4）系统深入地阐释「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的核心语法法则与应用范例 (33.4.1)。",
@@ -19909,12 +19257,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U33-L4】：牢記「全面掌握与熟练运用本课核心内容：紫禁城轴线布局、江」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U33-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -20005,7 +19349,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：紫禁城轴线布局、江南园林借景造园艺术、抬梁穿斗木构架力学哲学。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u33-l5）系统深入地阐释「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的核心语法法则与应用范例 (33.5.1)。",
@@ -20028,12 +19372,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U33-L5】：牢記「全面掌握与熟练运用本课核心内容：紫禁城轴线布局、江」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U33-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -20124,7 +19464,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：1969年维也纳条约法公约、联合国安理会多边决议起草、峰会联合公报外交辩护。 (第1部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u34-l1）系统深入地阐释「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」（第1讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的核心语法法则与应用范例 (34.1.1)。",
@@ -20147,12 +19487,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U34-L1】：牢記「全面掌握与熟练运用本课核心内容：1969年维也纳条」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U34-L1】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -20243,7 +19579,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：1969年维也纳条约法公约、联合国安理会多边决议起草、峰会联合公报外交辩护。 (第2部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u34-l2）系统深入地阐释「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」（第2讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的核心语法法则与应用范例 (34.2.1)。",
@@ -20266,12 +19602,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U34-L2】：牢記「全面掌握与熟练运用本课核心内容：1969年维也纳条」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U34-L2】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -20362,7 +19694,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：1969年维也纳条约法公约、联合国安理会多边决议起草、峰会联合公报外交辩护。 (第3部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u34-l3）系统深入地阐释「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」（第3讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的核心语法法则与应用范例 (34.3.1)。",
@@ -20385,12 +19717,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U34-L3】：牢記「全面掌握与熟练运用本课核心内容：1969年维也纳条」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U34-L3】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -20481,7 +19809,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：1969年维也纳条约法公约、联合国安理会多边决议起草、峰会联合公报外交辩护。 (第4部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u34-l4）系统深入地阐释「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」（第4讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的核心语法法则与应用范例 (34.4.1)。",
@@ -20504,12 +19832,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U34-L4】：牢記「全面掌握与熟练运用本课核心内容：1969年维也纳条」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U34-L4】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -20600,7 +19924,7 @@
     "level": "C2",
     "objective": "全面掌握与熟练运用本课核心内容：1969年维也纳条约法公约、联合国安理会多边决议起草、峰会联合公报外交辩护。 (第5部分)。",
     "presentation": {
-      "explanation": "本讲（zh-u34-l5）系统深入地阐释「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」（第5讲）的核心语法规律、词汇搭配及语用功能。\n\n【语法理论与结构解析】\n现代标准汉语（普通话）具有典型的孤立语特征，缺乏形态变化，语法关系主要依靠严格的语序和丰富的虚词系统来实现。在本课的教学重点中，学习者须精准把握实词的句法功能、虚词的语义制约以及词语在上下文中的语用得体性。\n\n【标准书面语与口语语境应用】\n1. 句法规范：严格遵循汉语规范语序，准确运用各类补语、连词与动态助词。\n2. 词汇搭配：注重双音节化词语的语义选择，避免词不达意或句式杂糅。\n3. 语用得体：根据交际场合（正式学术/日常交流/外事外交）灵活切换语体风格与礼貌用语。",
+      "explanation": "",
       "examples": [
         {
           "target": "教授在学术研讨会上向学生们深入浅出地讲解了「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的核心语法法则与应用范例 (34.5.1)。",
@@ -20623,12 +19947,8 @@
           "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
         }
       ],
-      "mnemonics": [
-        "【記憶口訣 ZH-U34-L5】：牢記「全面掌握与熟练运用本课核心内容：1969年维也纳条」的聲調搭配與核心虛詞位置，掌握標準漢語韻律。"
-      ],
-      "culturalNotes": [
-        "【文化背景 ZH-U34-L5】：在當代漢語交流中，注意根據正式商務、學術或日常場合調整禮貌用語與稱謂。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -20711,9 +20031,12 @@
     }
   }
 };
-  var ROADMAP = [];
-  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
+  var CURRICULUM = {
+    subject: 'mandarin',
+    units: UNITS,
+    lessons: LESSONS
+  };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['mandarin'] = SUBJECT;
-  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
+  global.FEARN_CURRICULA['mandarin'] = CURRICULUM;
+  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
 })(typeof window !== 'undefined' ? window : global);

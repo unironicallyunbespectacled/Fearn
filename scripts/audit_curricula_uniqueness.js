@@ -36,10 +36,39 @@ const FORBIDDEN_EXAMPLE_FILLER = /\b(Unit\s+[0-9]|Lesson\s+[0-9]|illustrates?\s+
 files.forEach(f => {
   const subjKey = f.replace('.js', '');
   const curr = require(path.join(currDir, f));
-  const lkeys = Object.keys(curr.lessons || {});
-  const total = lkeys.length;
-  if (total === 0) return;
-  totalLessons += total;
+  const allLessonKeys = Object.keys(curr.lessons || {});
+  const totalInFile = allLessonKeys.length;
+  if (totalInFile === 0) return;
+
+  const ledgerPath = path.join(currDir, `${subjKey}.ledger.js`);
+  let ledger = null;
+  if (fs.existsSync(ledgerPath)) {
+    try {
+      ledger = require(ledgerPath);
+    } catch (e) {
+      console.error(`>>> [HARD FAIL] ${subjKey}: Failed to parse ledger at ${ledgerPath}!`);
+    }
+  }
+
+  let lkeys = allLessonKeys;
+  let isStubTrack = false;
+  let authoredCount = totalInFile;
+
+  if (ledger && Array.isArray(ledger.authoredInFull)) {
+    authoredCount = ledger.authoredInFull.length;
+    const stubCount = (ledger.stubOnly || []).length;
+    if (authoredCount + stubCount !== ledger.fullRoadmapLength) {
+      console.error(`>>> [HARD FAIL] ${subjKey}: Ledger total (${authoredCount} + ${stubCount}) does not match fullRoadmapLength (${ledger.fullRoadmapLength})!`);
+    }
+    if (authoredCount === 0) {
+      isStubTrack = true;
+      lkeys = [];
+    } else {
+      lkeys = ledger.authoredInFull;
+    }
+  }
+
+  totalLessons += totalInFile;
 
   let totalChars = 0;
   let nativeChars = 0;
@@ -63,6 +92,10 @@ files.forEach(f => {
 
   lkeys.forEach(lid => {
     const l = curr.lessons[lid];
+    if (!l) {
+      console.error(`>>> [HARD FAIL] ${subjKey}: Lesson ${lid} in authoredInFull not found in lessons map!`);
+      return;
+    }
     const exp = (l.presentation && l.presentation.explanation) || '';
     totalChars += exp.length;
     if (exp) explanations.add(exp);
@@ -144,7 +177,9 @@ files.forEach(f => {
   // Calculate script density %
   let scriptDensity = 100;
   let densityLabel = 'N/A';
-  if (SCRIPT_RANGES[subjKey]) {
+  if (isStubTrack) {
+    densityLabel = 'Stub (0)';
+  } else if (SCRIPT_RANGES[subjKey]) {
     scriptDensity = totalChars > 0 ? Math.round((nativeChars / totalChars) * 100) : 0;
     densityLabel = `${scriptDensity}% Nat`;
   } else if (totalWords > 0) {
@@ -177,14 +212,14 @@ files.forEach(f => {
     romanian: 78
   };
 
-  if (CALIBRATED_NON_LATIN_FLOORS[subjKey] !== undefined) {
+  if (!isStubTrack && CALIBRATED_NON_LATIN_FLOORS[subjKey] !== undefined) {
     const floor = CALIBRATED_NON_LATIN_FLOORS[subjKey];
     if (scriptDensity < floor) {
       console.error(`>>> [HARD FAIL] ${subjKey}: Native script density is only ${scriptDensity}% (Min threshold: ${floor}%)`);
       isFailed = true;
       hasFailure = true;
     }
-  } else if (CALIBRATED_LATIN_FLOORS[subjKey] !== undefined) {
+  } else if (!isStubTrack && CALIBRATED_LATIN_FLOORS[subjKey] !== undefined) {
     const floor = CALIBRATED_LATIN_FLOORS[subjKey];
     const tgtRatio = 100 - (totalWords > 0 ? Math.round((englishFuncWords / totalWords) * 100) : 0);
     if (tgtRatio < floor) {
@@ -195,22 +230,25 @@ files.forEach(f => {
   }
 
   // 2. Explanations Uniqueness Gate
-  const minExplUniq = Math.floor(total * 0.95);
-  if (explanations.size < minExplUniq) {
-    console.error(`>>> [HARD FAIL] ${subjKey}: Distinct explanations ${explanations.size}/${total} below required ${minExplUniq}/${total}!`);
-    isFailed = true;
-    hasFailure = true;
+  const evaluatedCount = lkeys.length;
+  if (!isStubTrack && evaluatedCount > 0) {
+    const minExplUniq = Math.floor(evaluatedCount * 0.95);
+    if (explanations.size < minExplUniq) {
+      console.error(`>>> [HARD FAIL] ${subjKey}: Distinct explanations ${explanations.size}/${evaluatedCount} below required ${minExplUniq}/${evaluatedCount}!`);
+      isFailed = true;
+      hasFailure = true;
+    }
   }
 
   // 3. Examples Content & Uniqueness Gate
-  if (fillerExampleHits > 0) {
+  if (!isStubTrack && fillerExampleHits > 0) {
     console.error(`>>> [HARD FAIL] ${subjKey}: Found ${fillerExampleHits} self-referential filler strings in presentation.examples!`);
     isFailed = true;
     hasFailure = true;
   }
 
   // 4. Guided Practice Distractors Gate
-  if (countGP > 0) {
+  if (!isStubTrack && countGP > 0) {
     const minGPDist = Math.floor(countGP * 0.95);
     if (gpDistractors.size < minGPDist) {
       console.error(`>>> [HARD FAIL] ${subjKey}: Distinct GP distractors ${gpDistractors.size}/${countGP} below required ${minGPDist}!`);
@@ -220,7 +258,7 @@ files.forEach(f => {
   }
 
   // 5. Independent Practice Distractor 1 & 2 Gate
-  if (countIP > 0) {
+  if (!isStubTrack && countIP > 0) {
     const minIPDist = Math.floor(countIP * 0.95);
     if (ipDist1.size < minIPDist) {
       console.error(`>>> [HARD FAIL] ${subjKey}: Distinct IP Distractor #1 ${ipDist1.size}/${countIP} below required ${minIPDist}!`);
@@ -235,21 +273,21 @@ files.forEach(f => {
   }
 
   // 6. Checkpoint MC Prompts Gate (Required >= 95% for ALL subjects)
-  if (countMC > 0) {
+  if (!isStubTrack && countMC > 0) {
     const minMC = Math.floor(countMC * 0.95);
     if (mcPrompts.size < minMC) {
       console.error(`>>> [HARD FAIL] ${subjKey}: Distinct Checkpoint MC prompts ${mcPrompts.size}/${countMC} below required ${minMC}!`);
       isFailed = true;
       hasFailure = true;
     }
-  } else {
+  } else if (!isStubTrack) {
     console.error(`>>> [HARD FAIL] ${subjKey}: Found 0 multiple-choice questions in curriculum!`);
     isFailed = true;
     hasFailure = true;
   }
 
   // 7. Checkpoint Typed-Recall Prompts Gate (for subjects with typed recall)
-  if (countTyped > 0) {
+  if (!isStubTrack && countTyped > 0) {
     const minTyped = Math.floor(countTyped * 0.95);
     if (typedPrompts.size < minTyped) {
       console.error(`>>> [HARD FAIL] ${subjKey}: Distinct Typed-Recall prompts ${typedPrompts.size}/${countTyped} below required ${minTyped}!`);
@@ -322,7 +360,7 @@ files.forEach(f => {
   Object.values(mnemFrequencies).forEach(cnt => { if (cnt > maxMnemDup) maxMnemDup = cnt; });
   Object.values(cultFrequencies).forEach(cnt => { if (cnt > maxCultDup) maxCultDup = cnt; });
 
-  const dupLimit = Math.max(3, Math.floor(total * 0.3));
+  const dupLimit = Math.max(3, Math.floor((authoredCount > 0 ? authoredCount : totalInFile) * 0.3));
 
   if (flaggedExpCount > 0) {
     console.error(`>>> [HARD FAIL] ${subjKey}: Found ${flaggedExpCount} lessons matching known fake explanation template openers!`);
@@ -339,13 +377,13 @@ files.forEach(f => {
     isFailed = true;
     hasFailure = true;
   }
-  if (maxMnemDup >= dupLimit) {
-    console.error(`>>> [HARD FAIL] ${subjKey}: Mnemonic duplicate frequency ${maxMnemDup}/${total} exceeds 30% threshold (${dupLimit})!`);
+  if (authoredCount > 0 && maxMnemDup >= dupLimit) {
+    console.error(`>>> [HARD FAIL] ${subjKey}: Mnemonic duplicate frequency ${maxMnemDup}/${authoredCount} exceeds 30% threshold (${dupLimit})!`);
     isFailed = true;
     hasFailure = true;
   }
-  if (maxCultDup >= dupLimit) {
-    console.error(`>>> [HARD FAIL] ${subjKey}: Cultural note duplicate frequency ${maxCultDup}/${total} exceeds 30% threshold (${dupLimit})!`);
+  if (authoredCount > 0 && maxCultDup >= dupLimit) {
+    console.error(`>>> [HARD FAIL] ${subjKey}: Cultural note duplicate frequency ${maxCultDup}/${authoredCount} exceeds 30% threshold (${dupLimit})!`);
     isFailed = true;
     hasFailure = true;
   }
@@ -363,7 +401,9 @@ files.forEach(f => {
   const mcCol = `${mcPrompts.size}/${countMC}`;
   const typedCol = countTyped > 0 ? `${typedPrompts.size}/${countTyped}` : '-';
 
-  console.log(`${nameCol} |  ${String(total).padStart(4)} | ${densityLabel.padStart(7)} | ${String(explanations.size + '/' + total).padStart(9)} | ${String(exampleTargets.size).padStart(8)} | ${String(gpCol).padStart(7)} | ${String(ip1Col).padStart(10)} | ${String(ip2Col).padStart(10)} | ${mcCol.padStart(9)} | ${String(typedCol).padStart(5)} | ${status}`);
+  const explCol = isStubTrack ? `0/${totalInFile} (Stub)` : `${explanations.size}/${authoredCount}`;
+  const totalCol = isStubTrack ? `0/${totalInFile}` : `${authoredCount}`;
+  console.log(`${nameCol} |  ${totalCol.padStart(7)} | ${densityLabel.padStart(9)} | ${explCol.padStart(15)} | ${String(exampleTargets.size).padStart(8)} | ${String(gpCol).padStart(7)} | ${String(ip1Col).padStart(10)} | ${String(ip2Col).padStart(10)} | ${mcCol.padStart(9)} | ${String(typedCol).padStart(5)} | ${status}`);
 });
 
 console.log('================================================================================================================================');

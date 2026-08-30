@@ -4,7 +4,8 @@
   var LEDGER = {
   "subject": "mandarin",
   "fullRoadmapLength": 170,
-  "authoredInFull": [
+  "authoredInFull": [],
+  "stubOnly": [
     "zh-u1-l1",
     "zh-u1-l2",
     "zh-u1-l3",
@@ -176,9 +177,8 @@
     "zh-u34-l4",
     "zh-u34-l5"
   ],
-  "stubOnly": [],
-  "lastCompletedLessonId": "zh-u34-l5",
-  "nextToAuthor": null
+  "lastCompletedLessonId": null,
+  "nextToAuthor": "zh-u1-l1"
 };
   global.FEARN_LEDGERS = global.FEARN_LEDGERS || {};
   global.FEARN_LEDGERS['mandarin'] = LEDGER;

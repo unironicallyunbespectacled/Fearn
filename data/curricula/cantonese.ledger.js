@@ -4,7 +4,8 @@
   var LEDGER = {
     subject: 'cantonese',
     fullRoadmapLength: 170,
-    authoredInFull: [
+    authoredInFull: [],
+    stubOnly: [
   "hk-u1-l1",
   "hk-u1-l2",
   "hk-u1-l3",
@@ -176,9 +177,8 @@
   "hk-u34-l4",
   "hk-u34-l5"
 ],
-    stubOnly: [],
-    lastCompletedLessonId: 'hk-u34-l5',
-    nextToAuthor: null
+    lastCompletedLessonId: null,
+    nextToAuthor: "hk-u1-l1"
   };
   global.FEARN_LEDGERS = global.FEARN_LEDGERS || {};
   global.FEARN_LEDGERS['cantonese'] = LEDGER;

@@ -1,4 +1,4 @@
-// japanese curriculum — fully authored CEFR A1-C2 roadmap (34 units, 170 lessons)
+// japanese curriculum
 (function (global) {
   'use strict';
   var UNITS = [
@@ -478,12 +478,8 @@
           "translation": "Thank you very much for your valuable guidance today. I will see you tomorrow."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U1-L1】：朝・昼・夜の挨拶表現（おはようございます・こんにち の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U1-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -597,12 +593,8 @@
           "translation": "I am not an engineer. I am an architectural designer."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U1-L2】：助詞「は」による主題提示と断定の助動詞「です」、否 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U1-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -716,12 +708,8 @@
           "translation": "This is a catalog of traditional Japanese ceramic works."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U1-L3】：国名・言語名・職業の語彙体系と、名詞同士を連結して の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U1-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -834,12 +822,8 @@
           "translation": "I am extremely sorry for being late for the appointed time."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U1-L4】：多機能語「すみません」の三つの用法（呼びかけ・謝罪 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U1-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -953,12 +937,8 @@
           "translation": "Allow me now to distribute today's meeting documents. Please have a look."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U1-L5】：挨拶・名詞述語・所属・感謝表現の総合統合と、日本に の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U1-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1072,12 +1052,8 @@
           "translation": "Let us count numbers from 100 to 300 in Japanese."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U2-L1】：漢数字（一〜百）の読み方と音便変化（四、七、九の異 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U2-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1190,12 +1166,8 @@
           "translation": "The meeting start time has been changed to 10:10 AM."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U2-L2】：時刻表現（〜時・〜分・半・午前/午後）と不規則発音 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U2-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1308,12 +1280,8 @@
           "translation": "The business trip to Japan is from July 20th to August 10th."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U2-L3】：七つの曜日と十二ヶ月の月名、一日から三十一日までの の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U2-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1426,12 +1394,8 @@
           "translation": "I will pay with a 10,000 yen bill, so please give me the change."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U2-L4】：通貨単位「円」と大数単位「万」「億」を用いた価格の の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U2-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1544,12 +1508,8 @@
           "translation": "Tomorrow night, I have an appointment to meet a friend in Ginza."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U2-L5】：特定時を表す格助詞「に」と期間の起点・終点を表す「 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U2-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1662,12 +1622,8 @@
           "translation": "Tomorrow afternoon, there is an important academic symposium at the International Conference Center."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U3-L1】：有情物の存在を表す「います」と無情物の存在を表す「 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U3-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1780,12 +1736,8 @@
           "translation": "How is your family, Mr. Sato? — Yes, thanks to you, everyone is doing well."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U3-L2】：自分の身内の家族（内）と他人の家族（外・敬称）を峻 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U3-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1898,12 +1850,8 @@
           "translation": "What is inside the box? — There are old photographs and letters."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U3-L3】：空間位置名詞（上・下・前・後ろ・右・左・中・隣・間 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U3-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2016,12 +1964,8 @@
           "translation": "Where is Mr. Tanaka now? — He is on the second floor of the library."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U3-L4】：存在文における主格助詞「が」（新情報の提示）と場所 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U3-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2134,12 +2078,8 @@
           "translation": "I bought shoes and a bag at the department store. I wanted a watch as well."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U3-L5】：完全列挙の「と」、代表例列挙の「や（〜など）」、同 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U3-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2252,12 +2192,8 @@
           "translation": "All international students will come to the Kyoto Traditional Crafts Center tomorrow."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U4-L1】：五段動詞（一類）、一段動詞（二類）、不規則動詞（三 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U4-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2370,12 +2306,8 @@
           "translation": "At university, I major in and study international relations and Asian economy."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U4-L2】：他動詞の直接目的語を明示する格助詞「を」の文法機能 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U4-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2488,12 +2420,8 @@
           "translation": "Please answer this question in Japanese."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U4-L3】：動作が行われる活動場所を示す助詞「で」と、道具・手 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U4-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2606,12 +2534,8 @@
           "translation": "The international students came to Japan to study Japanese."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U4-L4】：移動動詞（行きます・来ます・帰ります）と移動の方向 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U4-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2724,12 +2648,8 @@
           "translation": "Fatigue has accumulated a bit. Shall we take a break for about ten minutes?"
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U4-L5】：相手を丁寧に誘う「〜ませんか」と、提案や手助けの申 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U4-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2842,12 +2762,8 @@
           "translation": "I consult the dictionary and look up the reading and meaning of new kanji."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U5-L1】：動詞のて形（一類の促音便・イ音便・撥音便、二類、三 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U5-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2960,12 +2876,8 @@
           "translation": "Please begin operating the machine after reading the instruction manual thoroughly."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U5-L2】：て形による時間的順序に沿った複数動作の接続と完了後 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U5-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3078,12 +2990,8 @@
           "translation": "Teacher Tanaka is wearing a black suit and glasses."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U5-L3】：動作の進行中（be -ing）と、動作完了後の結果 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U5-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3196,12 +3104,8 @@
           "translation": "Could you please send today's documents by email?"
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U5-L4】：「動詞て形 ＋ ください」を用いた標準的な丁寧依頼 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U5-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3314,12 +3218,8 @@
           "translation": "You must not touch the exhibited works in the art museum."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U5-L5】：行為の許可を求める「〜てもいいですか」と規範的禁止 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U5-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3432,12 +3332,8 @@
           "translation": "It was extremely delicious. Thank you for the wonderful meal."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U6-L1】：日本の飲食店における注文（〜をお願いします）、味覚 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U6-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3550,12 +3446,8 @@
           "translation": "It was extremely delicious. Thank you for the wonderful meal."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U6-L2】：日本の飲食店における注文（〜をお願いします）、味覚 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U6-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3668,12 +3560,8 @@
           "translation": "It was extremely delicious. Thank you for the wonderful meal."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U6-L3】：日本の飲食店における注文（〜をお願いします）、味覚 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U6-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3786,12 +3674,8 @@
           "translation": "It was extremely delicious. Thank you for the wonderful meal."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U6-L4】：日本の飲食店における注文（〜をお願いします）、味覚 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U6-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3904,12 +3788,8 @@
           "translation": "It was extremely delicious. Thank you for the wonderful meal."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U6-L5】：日本の飲食店における注文（〜をお願いします）、味覚 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U6-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4022,12 +3902,8 @@
           "translation": "Since it was raining last Saturday, I did not go out anywhere."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U7-L1】：動詞の過去形（〜ました）、形容詞の過去形（〜かった の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U7-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4140,12 +4016,8 @@
           "translation": "Since it was raining last Saturday, I did not go out anywhere."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U7-L2】：動詞の過去形（〜ました）、形容詞の過去形（〜かった の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U7-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4258,12 +4130,8 @@
           "translation": "Since it was raining last Saturday, I did not go out anywhere."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U7-L3】：動詞の過去形（〜ました）、形容詞の過去形（〜かった の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U7-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4376,12 +4244,8 @@
           "translation": "Since it was raining last Saturday, I did not go out anywhere."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U7-L4】：動詞の過去形（〜ました）、形容詞の過去形（〜かった の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U7-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4494,12 +4358,8 @@
           "translation": "Since it was raining last Saturday, I did not go out anywhere."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U7-L5】：動詞の過去形（〜ました）、形容詞の過去形（〜かった の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U7-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4612,12 +4472,8 @@
           "translation": "Excuse me, could you please show me that fountain pen inside the showcase?"
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U8-L1】：こそあど体系（これ/それ/あれ/どれ）、二者比較（ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U8-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4730,12 +4586,8 @@
           "translation": "Excuse me, could you please show me that fountain pen inside the showcase?"
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U8-L2】：こそあど体系（これ/それ/あれ/どれ）、二者比較（ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U8-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4848,12 +4700,8 @@
           "translation": "Excuse me, could you please show me that fountain pen inside the showcase?"
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U8-L3】：こそあど体系（これ/それ/あれ/どれ）、二者比較（ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U8-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4966,12 +4814,8 @@
           "translation": "Excuse me, could you please show me that fountain pen inside the showcase?"
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U8-L4】：こそあど体系（これ/それ/あれ/どれ）、二者比較（ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U8-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5084,12 +4928,8 @@
           "translation": "Excuse me, could you please show me that fountain pen inside the showcase?"
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U8-L5】：こそあど体系（これ/それ/あれ/どれ）、二者比較（ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U8-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5202,12 +5042,8 @@
           "translation": "Cross the pedestrian crossing at the next traffic light, and the destination is next to the convenience store on the corner."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U9-L1】：方向指示動詞（曲がる・渡る・直進する）、交通機関利 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U9-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5320,12 +5156,8 @@
           "translation": "Cross the pedestrian crossing at the next traffic light, and the destination is next to the convenience store on the corner."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U9-L2】：方向指示動詞（曲がる・渡る・直進する）、交通機関利 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U9-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5438,12 +5270,8 @@
           "translation": "Cross the pedestrian crossing at the next traffic light, and the destination is next to the convenience store on the corner."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U9-L3】：方向指示動詞（曲がる・渡る・直進する）、交通機関利 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U9-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5556,12 +5384,8 @@
           "translation": "Cross the pedestrian crossing at the next traffic light, and the destination is next to the convenience store on the corner."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U9-L4】：方向指示動詞（曲がる・渡る・直進する）、交通機関利 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U9-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5674,12 +5498,8 @@
           "translation": "Cross the pedestrian crossing at the next traffic light, and the destination is next to the convenience store on the corner."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U9-L5】：方向指示動詞（曲がる・渡る・直進する）、交通機関利 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U9-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5792,12 +5612,8 @@
           "translation": "When you open the room's window, you can see pleasant breezes and a beautiful green garden."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U10-L1】：和室と洋室の構造、家具家電の配置、日本の住宅マナー の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U10-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5910,12 +5726,8 @@
           "translation": "When you open the room's window, you can see pleasant breezes and a beautiful green garden."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U10-L2】：和室と洋室の構造、家具家電の配置、日本の住宅マナー の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U10-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6028,12 +5840,8 @@
           "translation": "When you open the room's window, you can see pleasant breezes and a beautiful green garden."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U10-L3】：和室と洋室の構造、家具家電の配置、日本の住宅マナー の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U10-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6146,12 +5954,8 @@
           "translation": "When you open the room's window, you can see pleasant breezes and a beautiful green garden."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U10-L4】：和室と洋室の構造、家具家電の配置、日本の住宅マナー の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U10-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6264,12 +6068,8 @@
           "translation": "When you open the room's window, you can see pleasant breezes and a beautiful green garden."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U10-L5】：和室と洋室の構造、家具家電の配置、日本の住宅マナー の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U10-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6382,12 +6182,8 @@
           "translation": "Do you have your health insurance card? After filling out this medical questionnaire, please wait in the waiting room."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U11-L1】：身体部位の語彙、病気・症状の説明（〜が痛い・熱があ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U11-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6500,12 +6296,8 @@
           "translation": "Do you have your health insurance card? After filling out this medical questionnaire, please wait in the waiting room."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U11-L2】：身体部位の語彙、病気・症状の説明（〜が痛い・熱があ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U11-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6618,12 +6410,8 @@
           "translation": "Do you have your health insurance card? After filling out this medical questionnaire, please wait in the waiting room."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U11-L3】：身体部位の語彙、病気・症状の説明（〜が痛い・熱があ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U11-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6736,12 +6524,8 @@
           "translation": "Do you have your health insurance card? After filling out this medical questionnaire, please wait in the waiting room."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U11-L4】：身体部位の語彙、病気・症状の説明（〜が痛い・熱があ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U11-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6854,12 +6638,8 @@
           "translation": "Do you have your health insurance card? After filling out this medical questionnaire, please wait in the waiting room."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U11-L5】：身体部位の語彙、病気・症状の説明（〜が痛い・熱があ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U11-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6972,12 +6752,8 @@
           "translation": "I am making plans to travel around Hokkaido during this year's summer vacation."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U12-L1】：動詞の意向形（行こう・食べよう）、意志表現「〜つも の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U12-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7090,12 +6866,8 @@
           "translation": "I am making plans to travel around Hokkaido during this year's summer vacation."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U12-L2】：動詞の意向形（行こう・食べよう）、意志表現「〜つも の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U12-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7208,12 +6980,8 @@
           "translation": "I am making plans to travel around Hokkaido during this year's summer vacation."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U12-L3】：動詞の意向形（行こう・食べよう）、意志表現「〜つも の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U12-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7326,12 +7094,8 @@
           "translation": "I am making plans to travel around Hokkaido during this year's summer vacation."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U12-L4】：動詞の意向形（行こう・食べよう）、意志表現「〜つも の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U12-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7444,12 +7208,8 @@
           "translation": "I am making plans to travel around Hokkaido during this year's summer vacation."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U12-L5】：動詞の意向形（行こう・食べよう）、意志表現「〜つも の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U12-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7562,12 +7322,8 @@
           "translation": "I express my deepest gratitude for your prompt and courteous response."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U13-L1】：ビジネス敬語、役職名（社長・部長・課長・先輩）、業 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U13-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7680,12 +7436,8 @@
           "translation": "I express my deepest gratitude for your prompt and courteous response."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U13-L2】：ビジネス敬語、役職名（社長・部長・課長・先輩）、業 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U13-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7798,12 +7550,8 @@
           "translation": "I express my deepest gratitude for your prompt and courteous response."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U13-L3】：ビジネス敬語、役職名（社長・部長・課長・先輩）、業 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U13-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7916,12 +7664,8 @@
           "translation": "I express my deepest gratitude for your prompt and courteous response."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U13-L4】：ビジネス敬語、役職名（社長・部長・課長・先輩）、業 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U13-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8034,12 +7778,8 @@
           "translation": "I express my deepest gratitude for your prompt and courteous response."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U13-L5】：ビジネス敬語、役職名（社長・部長・課長・先輩）、業 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U13-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8152,12 +7892,8 @@
           "translation": "Why were you absent from work yesterday? — It is because I suddenly developed a high fever."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U14-L1】：普通形接続による意見「〜と思います」、引用「〜と言 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U14-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8270,12 +8006,8 @@
           "translation": "Why were you absent from work yesterday? — It is because I suddenly developed a high fever."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U14-L2】：普通形接続による意見「〜と思います」、引用「〜と言 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U14-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8388,12 +8120,8 @@
           "translation": "Why were you absent from work yesterday? — It is because I suddenly developed a high fever."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U14-L3】：普通形接続による意見「〜と思います」、引用「〜と言 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U14-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8506,12 +8234,8 @@
           "translation": "Why were you absent from work yesterday? — It is because I suddenly developed a high fever."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U14-L4】：普通形接続による意見「〜と思います」、引用「〜と言 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U14-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8624,12 +8348,8 @@
           "translation": "Why were you absent from work yesterday? — It is because I suddenly developed a high fever."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U14-L5】：普通形接続による意見「〜と思います」、引用「〜と言 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U14-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8742,12 +8462,8 @@
           "translation": "As a souvenir from the trip, I purchased Hokkaido's famous confectionery and butter sandwiches."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U15-L1】：日本列島の地域区分（北海道から沖縄まで）、温泉（お の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U15-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8860,12 +8576,8 @@
           "translation": "As a souvenir from the trip, I purchased Hokkaido's famous confectionery and butter sandwiches."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U15-L2】：日本列島の地域区分（北海道から沖縄まで）、温泉（お の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U15-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8978,12 +8690,8 @@
           "translation": "As a souvenir from the trip, I purchased Hokkaido's famous confectionery and butter sandwiches."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U15-L3】：日本列島の地域区分（北海道から沖縄まで）、温泉（お の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U15-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9096,12 +8804,8 @@
           "translation": "As a souvenir from the trip, I purchased Hokkaido's famous confectionery and butter sandwiches."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U15-L4】：日本列島の地域区分（北海道から沖縄まで）、温泉（お の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U15-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9214,12 +8918,8 @@
           "translation": "As a souvenir from the trip, I purchased Hokkaido's famous confectionery and butter sandwiches."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U15-L5】：日本列島の地域区分（北海道から沖縄まで）、温泉（お の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U15-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9332,12 +9032,8 @@
           "translation": "Once you arrive at Narita Airport, please send a message immediately."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U16-L1】：仮定条件・確定条件の四大体系（〜たら、〜なら、〜ば の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U16-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9450,12 +9146,8 @@
           "translation": "Once you arrive at Narita Airport, please send a message immediately."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U16-L2】：仮定条件・確定条件の四大体系（〜たら、〜なら、〜ば の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U16-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9568,12 +9260,8 @@
           "translation": "Once you arrive at Narita Airport, please send a message immediately."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U16-L3】：仮定条件・確定条件の四大体系（〜たら、〜なら、〜ば の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U16-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9686,12 +9374,8 @@
           "translation": "Once you arrive at Narita Airport, please send a message immediately."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U16-L4】：仮定条件・確定条件の四大体系（〜たら、〜なら、〜ば の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U16-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9804,12 +9488,8 @@
           "translation": "Once you arrive at Narita Airport, please send a message immediately."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U16-L5】：仮定条件・確定条件の四大体系（〜たら、〜なら、〜ば の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U16-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9922,12 +9602,8 @@
           "translation": "The international treaty on environmental protection was concluded unanimously."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U17-L1】：直接受身、迷惑の受身（間接受身）、報道における客観 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U17-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10040,12 +9716,8 @@
           "translation": "The international treaty on environmental protection was concluded unanimously."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U17-L2】：直接受身、迷惑の受身（間接受身）、報道における客観 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U17-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10158,12 +9830,8 @@
           "translation": "The international treaty on environmental protection was concluded unanimously."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U17-L3】：直接受身、迷惑の受身（間接受身）、報道における客観 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U17-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10276,12 +9944,8 @@
           "translation": "The international treaty on environmental protection was concluded unanimously."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U17-L4】：直接受身、迷惑の受身（間接受身）、報道における客観 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U17-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10394,12 +10058,8 @@
           "translation": "The international treaty on environmental protection was concluded unanimously."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U17-L5】：直接受身、迷惑の受身（間接受身）、報道における客観 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U17-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10512,12 +10172,8 @@
           "translation": "I received the favor of my academic advisor correcting my thesis draft in detail."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U18-L1】：使役動詞（強制・許可・誘発）、恩恵の授受動詞（〜て の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U18-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10630,12 +10286,8 @@
           "translation": "I received the favor of my academic advisor correcting my thesis draft in detail."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U18-L2】：使役動詞（強制・許可・誘発）、恩恵の授受動詞（〜て の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U18-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10748,12 +10400,8 @@
           "translation": "I received the favor of my academic advisor correcting my thesis draft in detail."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U18-L3】：使役動詞（強制・許可・誘発）、恩恵の授受動詞（〜て の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U18-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10866,12 +10514,8 @@
           "translation": "I received the favor of my academic advisor correcting my thesis draft in detail."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U18-L4】：使役動詞（強制・許可・誘発）、恩恵の授受動詞（〜て の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U18-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10984,12 +10628,8 @@
           "translation": "I received the favor of my academic advisor correcting my thesis draft in detail."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U18-L5】：使役動詞（強制・許可・誘発）、恩恵の授受動詞（〜て の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U18-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11102,12 +10742,8 @@
           "translation": "As a result of verifying data from multifaceted perspectives, we cannot help but conclude that the current policy was effective."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U19-L1】：使役受身（不本意な強制・不可避の義務・内省）、ディ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U19-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11220,12 +10856,8 @@
           "translation": "As a result of verifying data from multifaceted perspectives, we cannot help but conclude that the current policy was effective."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U19-L2】：使役受身（不本意な強制・不可避の義務・内省）、ディ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U19-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11338,12 +10970,8 @@
           "translation": "As a result of verifying data from multifaceted perspectives, we cannot help but conclude that the current policy was effective."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U19-L3】：使役受身（不本意な強制・不可避の義務・内省）、ディ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U19-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11456,12 +11084,8 @@
           "translation": "As a result of verifying data from multifaceted perspectives, we cannot help but conclude that the current policy was effective."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U19-L4】：使役受身（不本意な強制・不可避の義務・内省）、ディ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U19-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11574,12 +11198,8 @@
           "translation": "As a result of verifying data from multifaceted perspectives, we cannot help but conclude that the current policy was effective."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U19-L5】：使役受身（不本意な強制・不可避の義務・内省）、ディ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U19-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11692,12 +11312,8 @@
           "translation": "Professor Tanaka delivered the keynote speech at today's international symposium (respectful)."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U20-L1】：相手を高める尊敬語（いらっしゃる・おっしゃる等）、 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U20-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11810,12 +11426,8 @@
           "translation": "Professor Tanaka delivered the keynote speech at today's international symposium (respectful)."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U20-L2】：相手を高める尊敬語（いらっしゃる・おっしゃる等）、 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U20-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11928,12 +11540,8 @@
           "translation": "Professor Tanaka delivered the keynote speech at today's international symposium (respectful)."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U20-L3】：相手を高める尊敬語（いらっしゃる・おっしゃる等）、 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U20-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12046,12 +11654,8 @@
           "translation": "Professor Tanaka delivered the keynote speech at today's international symposium (respectful)."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U20-L4】：相手を高める尊敬語（いらっしゃる・おっしゃる等）、 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U20-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12164,12 +11768,8 @@
           "translation": "Professor Tanaka delivered the keynote speech at today's international symposium (respectful)."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U20-L5】：相手を高める尊敬語（いらっしゃる・おっしゃる等）、 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U20-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12282,12 +11882,8 @@
           "translation": "With the spread of AI-assisted image diagnosis systems and remote online consultations, the correction of medical disparities in depopulated regions is expected."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U21-L1】：国民皆保険制度、超高齢社会、iPS細胞再生医療、医 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U21-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12400,12 +11996,8 @@
           "translation": "With the spread of AI-assisted image diagnosis systems and remote online consultations, the correction of medical disparities in depopulated regions is expected."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U21-L2】：国民皆保険制度、超高齢社会、iPS細胞再生医療、医 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U21-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12518,12 +12110,8 @@
           "translation": "With the spread of AI-assisted image diagnosis systems and remote online consultations, the correction of medical disparities in depopulated regions is expected."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U21-L3】：国民皆保険制度、超高齢社会、iPS細胞再生医療、医 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U21-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12636,12 +12224,8 @@
           "translation": "With the spread of AI-assisted image diagnosis systems and remote online consultations, the correction of medical disparities in depopulated regions is expected."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U21-L4】：国民皆保険制度、超高齢社会、iPS細胞再生医療、医 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U21-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12754,12 +12338,8 @@
           "translation": "With the spread of AI-assisted image diagnosis systems and remote online consultations, the correction of medical disparities in depopulated regions is expected."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U21-L5】：国民皆保険制度、超高齢社会、iPS細胞再生医療、医 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U21-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12872,12 +12452,8 @@
           "translation": "The aesthetic of wabi-sabi rejects flawless symmetry and discovers infinite spiritual richness within imperfection and negative space."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U22-L1】：西田幾多郎の「純粋経験」「場所の論理」、道元禅師『 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U22-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12990,12 +12566,8 @@
           "translation": "The aesthetic of wabi-sabi rejects flawless symmetry and discovers infinite spiritual richness within imperfection and negative space."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U22-L2】：西田幾多郎の「純粋経験」「場所の論理」、道元禅師『 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U22-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13108,12 +12680,8 @@
           "translation": "The aesthetic of wabi-sabi rejects flawless symmetry and discovers infinite spiritual richness within imperfection and negative space."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U22-L3】：西田幾多郎の「純粋経験」「場所の論理」、道元禅師『 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U22-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13226,12 +12794,8 @@
           "translation": "The aesthetic of wabi-sabi rejects flawless symmetry and discovers infinite spiritual richness within imperfection and negative space."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U22-L4】：西田幾多郎の「純粋経験」「場所の論理」、道元禅師『 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U22-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13344,12 +12908,8 @@
           "translation": "The aesthetic of wabi-sabi rejects flawless symmetry and discovers infinite spiritual richness within imperfection and negative space."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U22-L5】：西田幾多郎の「純粋経験」「場所の論理」、道元禅師『 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U22-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13462,12 +13022,8 @@
           "translation": "Japanese ukiyo-e led the tide of Japonisme in late 19th-century Europe through its flat two-dimensionality and vivid contour lines that subverted conventional notions of perspective."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U23-L1】：桂離宮の数寄屋造り、葛飾北斎・歌川広重の浮世絵版画 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U23-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13580,12 +13136,8 @@
           "translation": "Japanese ukiyo-e led the tide of Japonisme in late 19th-century Europe through its flat two-dimensionality and vivid contour lines that subverted conventional notions of perspective."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U23-L2】：桂離宮の数寄屋造り、葛飾北斎・歌川広重の浮世絵版画 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U23-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13698,12 +13250,8 @@
           "translation": "Japanese ukiyo-e led the tide of Japonisme in late 19th-century Europe through its flat two-dimensionality and vivid contour lines that subverted conventional notions of perspective."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U23-L3】：桂離宮の数寄屋造り、葛飾北斎・歌川広重の浮世絵版画 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U23-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13816,12 +13364,8 @@
           "translation": "Japanese ukiyo-e led the tide of Japonisme in late 19th-century Europe through its flat two-dimensionality and vivid contour lines that subverted conventional notions of perspective."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U23-L4】：桂離宮の数寄屋造り、葛飾北斎・歌川広重の浮世絵版画 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U23-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13934,12 +13478,8 @@
           "translation": "Japanese ukiyo-e led the tide of Japonisme in late 19th-century Europe through its flat two-dimensionality and vivid contour lines that subverted conventional notions of perspective."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U23-L5】：桂離宮の数寄屋造り、葛飾北斎・歌川広重の浮世絵版画 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U23-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14052,12 +13592,8 @@
           "translation": "The concept of 'Ma' in traditional Japanese music does not mean mere blank silence, but rather the dense tension and lingering aesthetic resonance itself filling the space between sounds."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U24-L1】：世界最古の宮廷音楽「雅楽」の楽器体系（笙・篳篥・龍 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U24-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14170,12 +13706,8 @@
           "translation": "The concept of 'Ma' in traditional Japanese music does not mean mere blank silence, but rather the dense tension and lingering aesthetic resonance itself filling the space between sounds."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U24-L2】：世界最古の宮廷音楽「雅楽」の楽器体系（笙・篳篥・龍 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U24-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14288,12 +13820,8 @@
           "translation": "The concept of 'Ma' in traditional Japanese music does not mean mere blank silence, but rather the dense tension and lingering aesthetic resonance itself filling the space between sounds."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U24-L3】：世界最古の宮廷音楽「雅楽」の楽器体系（笙・篳篥・龍 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U24-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14406,12 +13934,8 @@
           "translation": "The concept of 'Ma' in traditional Japanese music does not mean mere blank silence, but rather the dense tension and lingering aesthetic resonance itself filling the space between sounds."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U24-L4】：世界最古の宮廷音楽「雅楽」の楽器体系（笙・篳篥・龍 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U24-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14524,12 +14048,8 @@
           "translation": "The concept of 'Ma' in traditional Japanese music does not mean mere blank silence, but rather the dense tension and lingering aesthetic resonance itself filling the space between sounds."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U24-L5】：世界最古の宮廷音楽「雅楽」の楽器体系（笙・篳篥・龍 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U24-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14642,12 +14162,8 @@
           "translation": "The masterpiece works of Japanese cinema's golden age, as a miraculous crystallization of Eastern spiritual traditions and modern cinematic technology, continue to impart ceaseless inspiration to filmmakers across the modern world."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U25-L1】：黒澤明（多角的真実とダイナミズム）、小津安二郎（ロ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U25-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14760,12 +14276,8 @@
           "translation": "The masterpiece works of Japanese cinema's golden age, as a miraculous crystallization of Eastern spiritual traditions and modern cinematic technology, continue to impart ceaseless inspiration to filmmakers across the modern world."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U25-L2】：黒澤明（多角的真実とダイナミズム）、小津安二郎（ロ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U25-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14878,12 +14390,8 @@
           "translation": "The masterpiece works of Japanese cinema's golden age, as a miraculous crystallization of Eastern spiritual traditions and modern cinematic technology, continue to impart ceaseless inspiration to filmmakers across the modern world."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U25-L3】：黒澤明（多角的真実とダイナミズム）、小津安二郎（ロ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U25-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14996,12 +14504,8 @@
           "translation": "The masterpiece works of Japanese cinema's golden age, as a miraculous crystallization of Eastern spiritual traditions and modern cinematic technology, continue to impart ceaseless inspiration to filmmakers across the modern world."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U25-L4】：黒澤明（多角的真実とダイナミズム）、小津安二郎（ロ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U25-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15114,12 +14618,8 @@
           "translation": "The masterpiece works of Japanese cinema's golden age, as a miraculous crystallization of Eastern spiritual traditions and modern cinematic technology, continue to impart ceaseless inspiration to filmmakers across the modern world."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U25-L5】：黒澤明（多角的真実とダイナミズム）、小津安二郎（ロ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U25-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15232,12 +14732,8 @@
           "translation": "Traditional Japanese stage arts, through the transmission of forms (Kata) polished to the ultimate limit, convey universal spiritual beauty transcending time and space to the modern day."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U26-L1】：世阿弥の能楽美学『風姿花伝』、歌舞伎の様式美（隈取 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U26-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15350,12 +14846,8 @@
           "translation": "Traditional Japanese stage arts, through the transmission of forms (Kata) polished to the ultimate limit, convey universal spiritual beauty transcending time and space to the modern day."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U26-L2】：世阿弥の能楽美学『風姿花伝』、歌舞伎の様式美（隈取 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U26-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15468,12 +14960,8 @@
           "translation": "Traditional Japanese stage arts, through the transmission of forms (Kata) polished to the ultimate limit, convey universal spiritual beauty transcending time and space to the modern day."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U26-L3】：世阿弥の能楽美学『風姿花伝』、歌舞伎の様式美（隈取 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U26-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15586,12 +15074,8 @@
           "translation": "Traditional Japanese stage arts, through the transmission of forms (Kata) polished to the ultimate limit, convey universal spiritual beauty transcending time and space to the modern day."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U26-L4】：世阿弥の能楽美学『風姿花伝』、歌舞伎の様式美（隈取 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U26-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15704,12 +15188,8 @@
           "translation": "Traditional Japanese stage arts, through the transmission of forms (Kata) polished to the ultimate limit, convey universal spiritual beauty transcending time and space to the modern day."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U26-L5】：世阿弥の能楽美学『風姿花伝』、歌舞伎の様式美（隈取 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U26-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15822,12 +15302,8 @@
           "translation": "Toshio Hosokawa's contemporary operas perceive the process of generation and extinction between silence and sound as Noh's spiritual space, establishing an extremely high evaluation in the European opera world."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U27-L1】：山田耕筰の日本語アクセント歌唱理論、團伊玖磨のオペ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U27-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15940,12 +15416,8 @@
           "translation": "Toshio Hosokawa's contemporary operas perceive the process of generation and extinction between silence and sound as Noh's spiritual space, establishing an extremely high evaluation in the European opera world."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U27-L2】：山田耕筰の日本語アクセント歌唱理論、團伊玖磨のオペ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U27-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16058,12 +15530,8 @@
           "translation": "Toshio Hosokawa's contemporary operas perceive the process of generation and extinction between silence and sound as Noh's spiritual space, establishing an extremely high evaluation in the European opera world."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U27-L3】：山田耕筰の日本語アクセント歌唱理論、團伊玖磨のオペ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U27-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16176,12 +15644,8 @@
           "translation": "Toshio Hosokawa's contemporary operas perceive the process of generation and extinction between silence and sound as Noh's spiritual space, establishing an extremely high evaluation in the European opera world."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U27-L4】：山田耕筰の日本語アクセント歌唱理論、團伊玖磨のオペ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U27-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16294,12 +15758,8 @@
           "translation": "Toshio Hosokawa's contemporary operas perceive the process of generation and extinction between silence and sound as Noh's spiritual space, establishing an extremely high evaluation in the European opera world."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U27-L5】：山田耕筰の日本語アクセント歌唱理論、團伊玖磨のオペ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U27-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16412,12 +15872,8 @@
           "translation": "Behind the reality that Japanese architects have won numerous global Pritzker Prizes exists the miraculous integration of spatial flexibility from traditional wooden framing techniques and cutting-edge structural engineering."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U28-L1】：丹下健三（代々木体育館）、安藤忠雄（打放しコンクリ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U28-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16530,12 +15986,8 @@
           "translation": "Behind the reality that Japanese architects have won numerous global Pritzker Prizes exists the miraculous integration of spatial flexibility from traditional wooden framing techniques and cutting-edge structural engineering."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U28-L2】：丹下健三（代々木体育館）、安藤忠雄（打放しコンクリ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U28-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16648,12 +16100,8 @@
           "translation": "Behind the reality that Japanese architects have won numerous global Pritzker Prizes exists the miraculous integration of spatial flexibility from traditional wooden framing techniques and cutting-edge structural engineering."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U28-L3】：丹下健三（代々木体育館）、安藤忠雄（打放しコンクリ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U28-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16766,12 +16214,8 @@
           "translation": "Behind the reality that Japanese architects have won numerous global Pritzker Prizes exists the miraculous integration of spatial flexibility from traditional wooden framing techniques and cutting-edge structural engineering."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U28-L4】：丹下健三（代々木体育館）、安藤忠雄（打放しコンクリ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U28-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -16884,12 +16328,8 @@
           "translation": "Behind the reality that Japanese architects have won numerous global Pritzker Prizes exists the miraculous integration of spatial flexibility from traditional wooden framing techniques and cutting-edge structural engineering."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U28-L5】：丹下健三（代々木体育館）、安藤忠雄（打放しコンクリ の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U28-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17002,12 +16442,8 @@
           "translation": "The Eastern philosophy of Nothingness is perceived not as nihilistic void or lack, but as an overflowing space of rich potentiality that infinitely generates and nurtures all creation."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U29-L1】：西田幾多郎の「場所の論理」、道元禅師『正法眼蔵・現 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U29-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17120,12 +16556,8 @@
           "translation": "The Eastern philosophy of Nothingness is perceived not as nihilistic void or lack, but as an overflowing space of rich potentiality that infinitely generates and nurtures all creation."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U29-L2】：西田幾多郎の「場所の論理」、道元禅師『正法眼蔵・現 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U29-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17238,12 +16670,8 @@
           "translation": "The Eastern philosophy of Nothingness is perceived not as nihilistic void or lack, but as an overflowing space of rich potentiality that infinitely generates and nurtures all creation."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U29-L3】：西田幾多郎の「場所の論理」、道元禅師『正法眼蔵・現 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U29-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17356,12 +16784,8 @@
           "translation": "The Eastern philosophy of Nothingness is perceived not as nihilistic void or lack, but as an overflowing space of rich potentiality that infinitely generates and nurtures all creation."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U29-L4】：西田幾多郎の「場所の論理」、道元禅師『正法眼蔵・現 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U29-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17474,12 +16898,8 @@
           "translation": "The Eastern philosophy of Nothingness is perceived not as nihilistic void or lack, but as an overflowing space of rich potentiality that infinitely generates and nurtures all creation."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U29-L5】：西田幾多郎の「場所の論理」、道元禅師『正法眼蔵・現 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U29-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17592,12 +17012,8 @@
           "translation": "Modern Japanese filmmakers, in both animation and live-action cinema, continue to broadcast human existential dignity and ecological ethics to the world."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U30-L1】：宮崎駿（手描きアニメーションの生命感と生態系倫理） の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U30-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17710,12 +17126,8 @@
           "translation": "Modern Japanese filmmakers, in both animation and live-action cinema, continue to broadcast human existential dignity and ecological ethics to the world."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U30-L2】：宮崎駿（手描きアニメーションの生命感と生態系倫理） の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U30-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17828,12 +17240,8 @@
           "translation": "Modern Japanese filmmakers, in both animation and live-action cinema, continue to broadcast human existential dignity and ecological ethics to the world."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U30-L3】：宮崎駿（手描きアニメーションの生命感と生態系倫理） の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U30-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -17946,12 +17354,8 @@
           "translation": "Modern Japanese filmmakers, in both animation and live-action cinema, continue to broadcast human existential dignity and ecological ethics to the world."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U30-L4】：宮崎駿（手描きアニメーションの生命感と生態系倫理） の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U30-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18064,12 +17468,8 @@
           "translation": "Modern Japanese filmmakers, in both animation and live-action cinema, continue to broadcast human existential dignity and ecological ethics to the world."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U30-L5】：宮崎駿（手描きアニメーションの生命感と生態系倫理） の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U30-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18182,12 +17582,8 @@
           "translation": "The maxim expounded by Kitaoji Rosanjin that 'Tableware is the kimono of cuisine' demonstrates that in Japanese food culture, visual harmony is inextricably bound to the gustatory experience."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U31-L1】：ユネスコ無形文化遺産の和食四大原則、懐石料理の一汁 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U31-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18300,12 +17696,8 @@
           "translation": "The maxim expounded by Kitaoji Rosanjin that 'Tableware is the kimono of cuisine' demonstrates that in Japanese food culture, visual harmony is inextricably bound to the gustatory experience."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U31-L2】：ユネスコ無形文化遺産の和食四大原則、懐石料理の一汁 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U31-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18418,12 +17810,8 @@
           "translation": "The maxim expounded by Kitaoji Rosanjin that 'Tableware is the kimono of cuisine' demonstrates that in Japanese food culture, visual harmony is inextricably bound to the gustatory experience."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U31-L3】：ユネスコ無形文化遺産の和食四大原則、懐石料理の一汁 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U31-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18536,12 +17924,8 @@
           "translation": "The maxim expounded by Kitaoji Rosanjin that 'Tableware is the kimono of cuisine' demonstrates that in Japanese food culture, visual harmony is inextricably bound to the gustatory experience."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U31-L4】：ユネスコ無形文化遺産の和食四大原則、懐石料理の一汁 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U31-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18654,12 +18038,8 @@
           "translation": "The maxim expounded by Kitaoji Rosanjin that 'Tableware is the kimono of cuisine' demonstrates that in Japanese food culture, visual harmony is inextricably bound to the gustatory experience."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U31-L5】：ユネスコ無形文化遺産の和食四大原則、懐石料理の一汁 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U31-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18772,12 +18152,8 @@
           "translation": "Japanese performing arts, from the serene yugen of Noh to the lighthearted laughter of Kyogen and the avant-garde physicality of Butoh, continue to explore the limits of spirit and flesh."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U32-L1】：世阿弥の『風姿花伝』、狂言の喜劇性、土方巽・大野一 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U32-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -18890,12 +18266,8 @@
           "translation": "Japanese performing arts, from the serene yugen of Noh to the lighthearted laughter of Kyogen and the avant-garde physicality of Butoh, continue to explore the limits of spirit and flesh."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U32-L2】：世阿弥の『風姿花伝』、狂言の喜劇性、土方巽・大野一 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U32-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19008,12 +18380,8 @@
           "translation": "Japanese performing arts, from the serene yugen of Noh to the lighthearted laughter of Kyogen and the avant-garde physicality of Butoh, continue to explore the limits of spirit and flesh."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U32-L3】：世阿弥の『風姿花伝』、狂言の喜劇性、土方巽・大野一 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U32-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19126,12 +18494,8 @@
           "translation": "Japanese performing arts, from the serene yugen of Noh to the lighthearted laughter of Kyogen and the avant-garde physicality of Butoh, continue to explore the limits of spirit and flesh."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U32-L4】：世阿弥の『風姿花伝』、狂言の喜劇性、土方巽・大野一 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U32-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19244,12 +18608,8 @@
           "translation": "Japanese performing arts, from the serene yugen of Noh to the lighthearted laughter of Kyogen and the avant-garde physicality of Butoh, continue to explore the limits of spirit and flesh."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U32-L5】：世阿弥の『風姿花伝』、狂言の喜劇性、土方巽・大野一 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U32-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19362,12 +18722,8 @@
           "translation": "The joinery techniques of tsugite and shikuchi without hardware or nails in traditional Japanese wooden architecture demonstrate the apex of organic structural mechanics accommodating the breathing and shrinkage of wood."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U33-L1】：伊勢神宮の二十年毎の式年遷宮、法隆寺の世界最古木造 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U33-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19480,12 +18836,8 @@
           "translation": "The joinery techniques of tsugite and shikuchi without hardware or nails in traditional Japanese wooden architecture demonstrate the apex of organic structural mechanics accommodating the breathing and shrinkage of wood."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U33-L2】：伊勢神宮の二十年毎の式年遷宮、法隆寺の世界最古木造 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U33-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19598,12 +18950,8 @@
           "translation": "The joinery techniques of tsugite and shikuchi without hardware or nails in traditional Japanese wooden architecture demonstrate the apex of organic structural mechanics accommodating the breathing and shrinkage of wood."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U33-L3】：伊勢神宮の二十年毎の式年遷宮、法隆寺の世界最古木造 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U33-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19716,12 +19064,8 @@
           "translation": "The joinery techniques of tsugite and shikuchi without hardware or nails in traditional Japanese wooden architecture demonstrate the apex of organic structural mechanics accommodating the breathing and shrinkage of wood."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U33-L4】：伊勢神宮の二十年毎の式年遷宮、法隆寺の世界最古木造 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U33-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19834,12 +19178,8 @@
           "translation": "The joinery techniques of tsugite and shikuchi without hardware or nails in traditional Japanese wooden architecture demonstrate the apex of organic structural mechanics accommodating the breathing and shrinkage of wood."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U33-L5】：伊勢神宮の二十年毎の式年遷宮、法隆寺の世界最古木造 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U33-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -19952,12 +19292,8 @@
           "translation": "The States Parties pledge to execute the obligations of this multilateral treaty in good faith in accordance with the fundamental norm of customary international law 'Pacta sunt servanda'."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U34-L1】：1969年ウィーン条約法条約（VCLT）、国連憲章 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U34-L1】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -20070,12 +19406,8 @@
           "translation": "The States Parties pledge to execute the obligations of this multilateral treaty in good faith in accordance with the fundamental norm of customary international law 'Pacta sunt servanda'."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U34-L2】：1969年ウィーン条約法条約（VCLT）、国連憲章 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U34-L2】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -20188,12 +19520,8 @@
           "translation": "The States Parties pledge to execute the obligations of this multilateral treaty in good faith in accordance with the fundamental norm of customary international law 'Pacta sunt servanda'."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U34-L3】：1969年ウィーン条約法条約（VCLT）、国連憲章 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U34-L3】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -20306,12 +19634,8 @@
           "translation": "The States Parties pledge to execute the obligations of this multilateral treaty in good faith in accordance with the fundamental norm of customary international law 'Pacta sunt servanda'."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U34-L4】：1969年ウィーン条約法条約（VCLT）、国連憲章 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U34-L4】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -20424,12 +19748,8 @@
           "translation": "The States Parties pledge to execute the obligations of this multilateral treaty in good faith in accordance with the fundamental norm of customary international law 'Pacta sunt servanda'."
         }
       ],
-      "mnemonics": [
-        "【記憶定着 JA-U34-L5】：1969年ウィーン条約法条約（VCLT）、国連憲章 の助詞接続と活用語尾（ます形・て形）の音韻変化を声に出して反復しましょう。"
-      ],
-      "culturalNotes": [
-        "【日本社会の言語文化 JA-U34-L5】：日常会話や職場において、相手との社会的距離や文脈（ウチとソト）に応じた適切な敬語・配慮表現が重んじられます。"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -20511,9 +19831,12 @@
     }
   }
 };
-  var ROADMAP = [];
-  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
+  var CURRICULUM = {
+    subject: 'japanese',
+    units: UNITS,
+    lessons: LESSONS
+  };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['japanese'] = SUBJECT;
-  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
+  global.FEARN_CURRICULA['japanese'] = CURRICULUM;
+  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
 })(typeof window !== 'undefined' ? window : global);

@@ -1,4 +1,4 @@
-// mentalmath curriculum — fully authored
+// mentalmath curriculum
 (function (global) {
   'use strict';
   var UNITS = [
@@ -141,12 +141,8 @@
           "description": "Tens first: 60 + 20 = 80. Ones: 8 + 7 = 15. Combine: 80 + 15 = 95."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U1-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Add two two-digit numbers ment."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U1-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -212,12 +208,8 @@
           "description": "Round 19 up to 20 (+1). 73 - 20 = 53. Add back 1: 53 + 1 = 54."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U1-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Subtract two two-digit numbers."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U1-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -283,12 +275,8 @@
           "description": "Pairs to ten: (9+1), (6+4), (5+5) — three 10s = 30."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U1-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Add a column of three or more ."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U1-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -354,12 +342,8 @@
           "description": "Hundreds: 400+300=700. Tens: 70+40=110. Ones: 8+5=13. Total: 700+110+13=823."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U1-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Add and subtract three-digit n."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U1-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -425,12 +409,8 @@
           "description": "Column grouping: (7+3), (8+2), (9+1) = three 10s = 30."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U1-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Pass a mixed addition/subtract."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U1-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -502,12 +482,8 @@
           "description": "A famous coincidence worth memorizing outright: the digits 5-6-7-8 run in order — 56 = 7x8."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U2-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Recall all single-digit multip."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U2-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -580,12 +556,8 @@
           "description": "64 is the square anchor 8x8, so dividing either factor back out returns the other 8."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U2-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Recall single-digit division f."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U2-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -658,12 +630,8 @@
           "description": "Split: 50x4=200, 8x4=32. Combine: 200+32=232."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U2-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Multiply a two-digit number by."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U2-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -736,12 +704,8 @@
           "description": "Chunk: 180/6=30. Remainder: 36/6=6. Combine: 30+6=36."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U2-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Divide a two- or three-digit n."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U2-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -819,12 +783,8 @@
           "description": "Chunking: 100/5=20, 35/5=7, combine=27."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U2-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Pass a mixed multiplication/di."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U2-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -891,12 +851,8 @@
           "description": "4 and 7 sum to 11. Write the 1, carry the 1 into the first digit (4+1=5): 5-1-7 = 517."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U3-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Multiply any two-digit number ."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U3-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -962,12 +918,8 @@
           "description": "Half of 86 is 43. Shift: 430."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U3-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Multiply any number by 5 using."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U3-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1033,12 +985,8 @@
           "description": "128 x 10 = 1280. Subtract 128 once: 1280 - 128 = 1152."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U3-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Multiply any number by 9 using."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U3-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1109,12 +1057,8 @@
           "description": "Halve three times: 144 -> 72 -> 36 -> 18."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U3-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Multiply by 4, 8, or 16 using ."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U3-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1192,12 +1136,8 @@
           "description": "Double three times: 17 -> 34 -> 68 -> 136."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U3-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Pass a mixed multiplication-sh."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U3-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1263,12 +1203,8 @@
         "85² = (8 x 9) append 25 = 7,225.",
         "105² = (10 x 11) append 25 = 11,025."
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U4-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Instantly square any two-digit."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U4-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1418,12 +1354,8 @@
         "38² = (40 x 36) + 2² = 1,440 + 4 = 1,444.",
         "78² = (80 x 76) + 2² = 6,080 + 4 = 6,084."
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U4-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Square any two-digit number ra."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U4-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1573,12 +1505,8 @@
         "8% of 25 = 25% of 8 = 1/4 of 8 = 2.",
         "35% of 80 = 3 x 10% (24) + 5% (4) = 28."
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U4-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Calculate any practical percen."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U4-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1728,12 +1656,8 @@
         "5/9 = 0.5555...",
         "2/7 = 0.285714..."
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U4-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Recall foundational fraction-t."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U4-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1885,12 +1809,8 @@
         "Problem: 16% of 50 -> Category: Reversibility -> 50% of 16 = 8.",
         "Problem: 5/11 -> Category: Elevenths -> 5 x 9 = 45 -> 0.454545..."
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U4-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Integrate 5-ending squaring, d."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U4-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2041,12 +1961,8 @@
           "translation": "x = 9"
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U5-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Solve single-variable linear e."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U5-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2175,12 +2091,8 @@
           "translation": "6396"
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U5-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Apply the Difference of Square."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U5-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2309,12 +2221,8 @@
           "translation": "8 years"
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U5-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Calculate accurate percentage ."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U5-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2443,12 +2351,8 @@
           "translation": "~1,000 (Exact: 1,009.8)"
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U5-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Execute rapid Fermi estimation."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U5-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2577,12 +2481,8 @@
           "translation": "$13.80"
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U5-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Demonstrate comprehensive Unit."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U5-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2705,12 +2605,8 @@
           "translation": "Chain: 820-345=475 -> 475+176=651 -> 651-290=361."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U6-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Execute multi-step mixed addit."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U6-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2833,12 +2729,8 @@
           "translation": "75 × 12 = (75 × 4) × 3 = 300 × 3 = 900; 900 - 250 = 650."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U6-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Fuse multi-digit multiplicatio."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U6-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2961,12 +2853,8 @@
           "translation": "16% of 25 = 25% of 16 = 4; 45% of 200 = 90; 4 + 90 = 94."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U6-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Calculate complex compound per."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U6-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3089,12 +2977,8 @@
           "translation": "Double last digit and subtract rule."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U6-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Apply instant divisibility rul."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U6-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3217,12 +3101,8 @@
           "translation": "Difference of squares: (64+36)(64-36) = 100 × 28 = 2800."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U6-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Demonstrate comprehensive Mast."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U6-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3345,12 +3225,8 @@
           "translation": "Step 1: 2×5=10 (0, carry 1); Step 2: (6×5)+(2×3)+1 = 30+6+1 = 37 (7, carry 3); Step 3: (6×3)+3 = 21 -> 2,170."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U7-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Execute general 2-digit by 2-d."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U7-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3473,12 +3349,8 @@
           "translation": "Instant cube root extraction."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U7-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Extract exact cube roots of an."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U7-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3601,12 +3473,8 @@
           "translation": "July 4, 1776 was a Thursday."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U7-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Apply John Conway's Doomsday A."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U7-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3729,12 +3597,8 @@
           "translation": "Classic physics rule of thumb."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U7-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Solve complex Fermi Problems a."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U7-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3857,12 +3721,8 @@
           "translation": "Master verification suite."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U7-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Demonstrate complete Master Sa."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U7-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3990,12 +3850,8 @@
           "translation": "52 x 31 = 1612"
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U8-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Multiply two two-digit numbers."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U8-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4123,12 +3979,8 @@
           "translation": "98 x 92 = 9,016"
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U8-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Multiply two-digit and three-d."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U8-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4256,12 +4108,8 @@
           "translation": "95² = 9,025"
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U8-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Apply algebraic identities to ."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U8-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4389,12 +4237,8 @@
           "translation": "34 x 103 = 3,502"
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U8-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Multiply two-digit and multi-d."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U8-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4527,12 +4371,8 @@
           "translation": "92 x 95 = 8,740"
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MENTALMATH-U8-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Select and execute the fastest."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MENTALMATH-U8-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4637,9 +4477,12 @@
     }
   }
 };
-  var ROADMAP = [];
-  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
+  var CURRICULUM = {
+    subject: 'mentalmath',
+    units: UNITS,
+    lessons: LESSONS
+  };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['mentalmath'] = SUBJECT;
-  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
+  global.FEARN_CURRICULA['mentalmath'] = CURRICULUM;
+  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
 })(typeof window !== 'undefined' ? window : global);

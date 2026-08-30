@@ -1,4 +1,4 @@
-// morse curriculum — fully authored
+// morse curriculum
 (function (global) {
   'use strict';
   var UNITS = [
@@ -174,12 +174,8 @@
           "description": "Same two characters, reversed order, to break simple memorized-sequence guessing."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U1-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Recognize and send the letters."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U1-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -244,12 +240,8 @@
           "description": "Same character set, scrambled order, to prevent sequence memorization."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U1-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Recognize and send the letters."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U1-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -314,12 +306,8 @@
           "description": "Full six-character review drill, wide-spaced."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U1-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Recognize and send the letters."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U1-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -384,12 +372,8 @@
           "description": "First real two-word drill using only the eight foundation characters."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U1-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Recognize and send the letters."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U1-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -444,12 +428,8 @@
           "description": "All eight foundation letters presented individually as a final speed check."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U1-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Copy full words built from the."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U1-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -514,12 +494,8 @@
           "description": "A full three-letter word using only H, U, and the foundation group."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U2-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Recognize and send H and U, mi."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U2-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -584,12 +560,8 @@
           "description": "A five-letter word — the longest yet — mixing new and foundation characters."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U2-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Recognize and send R and W, mi."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U2-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -654,12 +626,8 @@
           "description": "A short two-part drill line reinforcing D and K in different word positions."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U2-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Recognize and send D and K, mi."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U2-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -724,12 +692,8 @@
           "description": "A second full word, reviewing G, O, L, and D together."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U2-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Recognize and send G and L, mi."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U2-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -789,12 +753,8 @@
           "description": "The full two-word phrase, exactly as it would be sent: a real, readable message built entirely from this unit's sixteen characters."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U2-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Copy full words built from the."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U2-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -859,12 +819,8 @@
           "description": "A five-letter word mixing B and C with three letters from earlier units — the longest word yet."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U3-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Recognize and send B and C, mi."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U3-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -942,12 +898,8 @@
           "description": "A short word putting J right next to last lesson's B."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U3-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Recognize and send F and J, mi."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U3-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1025,12 +977,8 @@
           "description": "A full word using the new letter P alongside three earlier letters."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U3-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Recognize and send P and Q, mi."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U3-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1107,12 +1055,8 @@
           "description": "A full word combining a Lesson 2 letter (J) with the newest letter (Z) — real, playable, and now fully within reach."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U3-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Recognize and send V, X, Y, an."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U3-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1197,12 +1141,8 @@
           "description": "The complete pangram — every letter of the alphabet, sent as one continuous message. This is the \"STORM WARNING\" moment for the full 26-letter alphabet."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U3-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Copy full sentences using the ."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U3-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1274,12 +1214,8 @@
           "description": "S (three dits) then H (four dits) — the single most common miscount in the entire alphabet."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U4-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Drill full-alphabet random cha."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U4-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1352,12 +1288,8 @@
           "description": "Six letters ending in the rare X — read each letter's shape rather than guessing the word from the first few."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U4-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Copy common short English word."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U4-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1417,12 +1349,8 @@
           "description": "The final ten letters, in the order this course introduced them — the hardest chunk to send cleanly, because it mixes the rarest characters together."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U4-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Send (key or tap) the full alp."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U4-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1486,12 +1414,8 @@
           "description": "Dit-dit-dit-dah — one extra dit before the dah, easily miscounted against U."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U4-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Identify and correct your pers."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U4-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1551,12 +1475,8 @@
           "description": "The complete five-word message — the closing \"STORM WARNING\" moment for the full beginner alphabet."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U4-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Pass a full-alphabet mixed cop."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U4-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1628,12 +1548,8 @@
           "description": "Digits 2, 3, and 4 side by side, showing the dits-to-dahs balance shifting one beat at a time."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U5-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Recognize and send digits 1-5,."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U5-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1705,12 +1621,8 @@
           "description": "1 and 9 side by side — read the second one as the first one reversed."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U5-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Recognize and send digits 6-9 ."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U5-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1783,12 +1695,8 @@
           "description": "A practice callsign format (not a real station) — showing how a digit sits naturally in the middle of a mixed group."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U5-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Copy mixed alphanumeric groups."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U5-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1848,12 +1756,8 @@
           "description": "A real historic date, now fully in reach: the day the United States declared independence."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U5-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Copy real-world numeric string."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U5-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1913,12 +1817,8 @@
           "description": "The complete opening call: \"CQ, this is W1AW\" — a real, authentic way an amateur radio contact begins."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U5-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Pass a mixed alphanumeric chec."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U5-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "checkpointTest": {
       "items": [
@@ -1985,12 +1885,8 @@
           "translation": "Standard general call at 9 WPM spacing."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U6-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Compress Farnsworth inter-char."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U6-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2119,12 +2015,8 @@
           "translation": "Standard contest exchange report."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U6-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Advance Farnsworth spacing com."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U6-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2253,12 +2145,8 @@
           "translation": "Standard amateur radio conversational phrase."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U6-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Advance Farnsworth spacing com."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U6-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2387,12 +2275,8 @@
           "translation": "Best regards and hope to see you again (sign-off)."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U6-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Advance Farnsworth spacing com."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U6-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2521,12 +2405,8 @@
           "translation": "Final sign-off prosign."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U6-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Demonstrate comprehensive Unit."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U6-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2649,12 +2529,8 @@
           "translation": "3-word sentence copied as rhythm blocks."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U7-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Process high-frequency English."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U7-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2777,12 +2653,8 @@
           "translation": "German station (Berlin area 7)."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U7-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Decode international amateur r."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U7-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2905,12 +2777,8 @@
           "translation": "Received and confirmed despite interference."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U7-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Master core international Q-Co."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U7-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3033,12 +2901,8 @@
           "translation": "Best regards and double-dit farewell."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U7-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Decode and format a complete s."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U7-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3161,12 +3025,8 @@
           "translation": "Extracted operational intelligence."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U7-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Demonstrate comprehensive Adva."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U7-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3289,12 +3149,8 @@
           "translation": "High-speed lexical flow."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U8-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Process high-speed Morse code ."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U8-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3417,12 +3273,8 @@
           "translation": "Directed invitation to transmit."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U8-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Master the complete set of ext."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U8-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3545,12 +3397,8 @@
           "translation": "Decoded directly as: 'See you on the air.'"
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U8-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Execute transcription-free 20+."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U8-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3673,12 +3521,8 @@
           "translation": "Fading signals here and weather is rain."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U8-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Master advanced operational Q-."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U8-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3801,12 +3645,8 @@
           "translation": "Decoded bulletin data."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U8-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Demonstrate Master 20 WPM high."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U8-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3929,12 +3769,8 @@
           "translation": "Permission to depart frequency."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U9-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Master formal Directed Net ope."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U9-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4057,12 +3893,8 @@
           "translation": "Real-time bidirectional duplex telegraphy."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U9-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Master QSK (Full Break-In) ope."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U9-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4185,12 +4017,8 @@
           "translation": "Neural bandpass focus."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U9-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Filter extreme QRM (man-made a."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U9-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4313,12 +4141,8 @@
           "translation": "Fill request: Repeat word after CITY."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U9-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Master real-time error detecti."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U9-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4441,12 +4265,8 @@
           "translation": "Emergency net verification."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U9-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Demonstrate complete Master Gr."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U9-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4579,12 +4399,8 @@
           "translation": "Slash (/) = -..-."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U10-L1】: Focus on visualizing the fundamental pattern and structural dependencies for Decode and encode core punctua."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U10-L1】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4712,12 +4528,8 @@
           "translation": "Colon (:) = ---..."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U10-L2】: Focus on visualizing the fundamental pattern and structural dependencies for Decode and apply the ubiquitou."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U10-L2】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4845,12 +4657,8 @@
           "translation": "AR Prosign = .-.-."
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U10-L3】: Focus on visualizing the fundamental pattern and structural dependencies for Distinguish and execute turn-t."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U10-L3】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4978,12 +4786,8 @@
           "translation": "Error Signal = 8 dits"
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U10-L4】: Focus on visualizing the fundamental pattern and structural dependencies for Decode and execute operational."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U10-L4】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5111,12 +4915,8 @@
           "translation": "Signal Report Exchange"
         }
       ],
-      "mnemonics": [
-        "【Cognitive Anchor MORSE-U10-L5】: Focus on visualizing the fundamental pattern and structural dependencies for Pass an integrated Morse code ."
-      ],
-      "culturalNotes": [
-        "【Context & Mastery MORSE-U10-L5】: Elite practitioners refine this micro-skill through deliberate repetition and real-time stress testing."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5221,9 +5021,12 @@
     }
   }
 };
-  var ROADMAP = [];
-  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
+  var CURRICULUM = {
+    subject: 'morse',
+    units: UNITS,
+    lessons: LESSONS
+  };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['morse'] = SUBJECT;
-  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
+  global.FEARN_CURRICULA['morse'] = CURRICULUM;
+  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
 })(typeof window !== 'undefined' ? window : global);

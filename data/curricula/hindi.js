@@ -1,4 +1,4 @@
-// hindi curriculum — fully authored CEFR A1-C2 roadmap (34 units, 170 lessons)
+// hindi curriculum
 (function (global) {
   'use strict';
   var UNITS = [
@@ -489,7 +489,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for देवनागरी लिपि और प्रारंभिक शिष्टाचार with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【देवनागरी लिपि और प्रारंभिक शिष्टाचार】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «देवनागरी लिपि और प्रारंभिक शिष्टाचार» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "नमस्ते, आप कैसे हैं?",
@@ -502,12 +502,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-1-1】：‘देवनागरी ल’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-1-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -552,15 +548,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «नमस्ते»):",
-          "acceptedAnswers": [
-            "नमस्ते",
-            "नमस्ते"
-          ],
-          "explanation": "The target keyword was: 【नमस्ते】"
         }
       ]
     }
@@ -574,7 +561,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for व्यक्तिगत परिचय और नाम पूछना with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【व्यक्तिगत परिचय और नाम पूछना】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «व्यक्तिगत परिचय और नाम पूछना» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "मेरा नाम राहुल है, आपसे मिलकर बहुत खुशी हुई।",
@@ -587,12 +574,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-1-2】：‘व्यक्तिगत ’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-1-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -637,15 +620,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «धन्यवाद»):",
-          "acceptedAnswers": [
-            "धन्यवाद",
-            "धन्यवाद"
-          ],
-          "explanation": "The target keyword was: 【धन्यवाद】"
         }
       ]
     }
@@ -659,7 +633,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for आभार प्रदर्शन और धन्यवाद with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【आभार प्रदर्शन और धन्यवाद】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «आभार प्रदर्शन और धन्यवाद» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "आपकी इस मदद के लिए बहुत-बहुत धन्यवाद।",
@@ -672,12 +646,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-1-3】：‘आभार प्रदर’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-1-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -722,15 +692,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «कृपया»):",
-          "acceptedAnswers": [
-            "कृपया",
-            "कृपया"
-          ],
-          "explanation": "The target keyword was: 【कृपया】"
         }
       ]
     }
@@ -744,7 +705,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for क्षमा याचना और औपचारिक निवेदन with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【क्षमा याचना और औपचारिक निवेदन】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «क्षमा याचना और औपचारिक निवेदन» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "माफ़ कीजिए, क्या आप मुझे रास्ता बता सकते हैं?",
@@ -757,12 +718,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-1-4】：‘क्षमा याचन’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-1-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -807,15 +764,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «अलविदा»):",
-          "acceptedAnswers": [
-            "अलविदा",
-            "अलविदा"
-          ],
-          "explanation": "The target keyword was: 【अलविदा】"
         }
       ]
     }
@@ -829,7 +777,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for विदाई और पुनः मिलने की आशा with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【विदाई और पुनः मिलने की आशा】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «विदाई और पुनः मिलने की आशा» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "अलविदा, कल सुबह कार्यालय में मिलते हैं।",
@@ -842,12 +790,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-1-5】：‘विदाई और प’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-1-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -892,15 +836,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «माफ़ कीजिए»):",
-          "acceptedAnswers": [
-            "माफ़ कीजिए",
-            "माफ़ कीजिए"
-          ],
-          "explanation": "The target keyword was: 【माफ़ कीजिए】"
         }
       ]
     }
@@ -914,7 +849,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 2.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -927,12 +862,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-2-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-2-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -977,15 +908,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «शुभकामनाएँ»):",
-          "acceptedAnswers": [
-            "शुभकामनाएँ",
-            "शुभकामनाएँ"
-          ],
-          "explanation": "The target keyword was: 【शुभकामनाएँ】"
         }
       ]
     }
@@ -999,7 +921,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 2.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -1012,12 +934,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-2-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-2-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1062,15 +980,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «स्वागत»):",
-          "acceptedAnswers": [
-            "स्वागत",
-            "स्वागत"
-          ],
-          "explanation": "The target keyword was: 【स्वागत】"
         }
       ]
     }
@@ -1084,7 +993,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 2.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -1097,12 +1006,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-2-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-2-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1147,15 +1052,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «नाश्ता»):",
-          "acceptedAnswers": [
-            "नाश्ता",
-            "नाश्ता"
-          ],
-          "explanation": "The target keyword was: 【नाश्ता】"
         }
       ]
     }
@@ -1169,7 +1065,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 2.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -1182,12 +1078,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-2-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-2-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1232,15 +1124,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «दोपहर का खाना»):",
-          "acceptedAnswers": [
-            "दोपहर का खाना",
-            "दोपहर का खाना"
-          ],
-          "explanation": "The target keyword was: 【दोपहर का खाना】"
         }
       ]
     }
@@ -1254,7 +1137,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 2.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -1267,12 +1150,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-2-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-2-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1317,15 +1196,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «रात का खाना»):",
-          "acceptedAnswers": [
-            "रात का खाना",
-            "रात का खाना"
-          ],
-          "explanation": "The target keyword was: 【रात का खाना】"
         }
       ]
     }
@@ -1339,7 +1209,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 3.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -1352,12 +1222,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-3-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-3-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1402,15 +1268,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «पानी»):",
-          "acceptedAnswers": [
-            "पानी",
-            "पानी"
-          ],
-          "explanation": "The target keyword was: 【पानी】"
         }
       ]
     }
@@ -1424,7 +1281,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 3.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -1437,12 +1294,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-3-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-3-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1487,15 +1340,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «दूध»):",
-          "acceptedAnswers": [
-            "दूध",
-            "दूध"
-          ],
-          "explanation": "The target keyword was: 【दूध】"
         }
       ]
     }
@@ -1509,7 +1353,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 3.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -1522,12 +1366,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-3-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-3-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1572,15 +1412,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «चाय»):",
-          "acceptedAnswers": [
-            "चाय",
-            "चाय"
-          ],
-          "explanation": "The target keyword was: 【चाय】"
         }
       ]
     }
@@ -1594,7 +1425,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 3.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -1607,12 +1438,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-3-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-3-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1657,15 +1484,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «रोटी»):",
-          "acceptedAnswers": [
-            "रोटी",
-            "रोटी"
-          ],
-          "explanation": "The target keyword was: 【रोटी】"
         }
       ]
     }
@@ -1679,7 +1497,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 3.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -1692,12 +1510,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-3-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-3-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1742,15 +1556,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «चावल»):",
-          "acceptedAnswers": [
-            "चावल",
-            "चावल"
-          ],
-          "explanation": "The target keyword was: 【चावल】"
         }
       ]
     }
@@ -1764,7 +1569,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 4.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -1777,12 +1582,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-4-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-4-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1827,15 +1628,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «दाल»):",
-          "acceptedAnswers": [
-            "दाल",
-            "दाल"
-          ],
-          "explanation": "The target keyword was: 【दाल】"
         }
       ]
     }
@@ -1849,7 +1641,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 4.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -1862,12 +1654,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-4-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-4-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1912,15 +1700,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «सब्ज़ी»):",
-          "acceptedAnswers": [
-            "सब्ज़ी",
-            "सब्ज़ी"
-          ],
-          "explanation": "The target keyword was: 【सब्ज़ी】"
         }
       ]
     }
@@ -1934,7 +1713,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 4.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -1947,12 +1726,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-4-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-4-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1997,15 +1772,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «फल»):",
-          "acceptedAnswers": [
-            "फल",
-            "फल"
-          ],
-          "explanation": "The target keyword was: 【फल】"
         }
       ]
     }
@@ -2019,7 +1785,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 4.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -2032,12 +1798,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-4-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-4-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2082,15 +1844,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «मिठाई»):",
-          "acceptedAnswers": [
-            "मिठाई",
-            "मिठाई"
-          ],
-          "explanation": "The target keyword was: 【मिठाई】"
         }
       ]
     }
@@ -2104,7 +1857,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 4.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 4.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -2117,12 +1870,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-4-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-4-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2167,15 +1916,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «मसाला»):",
-          "acceptedAnswers": [
-            "मसाला",
-            "मसाला"
-          ],
-          "explanation": "The target keyword was: 【मसाला】"
         }
       ]
     }
@@ -2189,7 +1929,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 5.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -2202,12 +1942,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-5-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-5-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2252,15 +1988,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «गाड़ी»):",
-          "acceptedAnswers": [
-            "गाड़ी",
-            "गाड़ी"
-          ],
-          "explanation": "The target keyword was: 【गाड़ी】"
         }
       ]
     }
@@ -2274,7 +2001,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 5.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -2287,12 +2014,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-5-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-5-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2337,15 +2060,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «बस»):",
-          "acceptedAnswers": [
-            "बस",
-            "बस"
-          ],
-          "explanation": "The target keyword was: 【बस】"
         }
       ]
     }
@@ -2359,7 +2073,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 5.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -2372,12 +2086,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-5-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-5-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2422,15 +2132,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «ट्रेन»):",
-          "acceptedAnswers": [
-            "ट्रेन",
-            "ट्रेन"
-          ],
-          "explanation": "The target keyword was: 【ट्रेन】"
         }
       ]
     }
@@ -2444,7 +2145,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 5.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -2457,12 +2158,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-5-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-5-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2507,15 +2204,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «हवाई जहाज़»):",
-          "acceptedAnswers": [
-            "हवाई जहाज़",
-            "हवाई जहाज़"
-          ],
-          "explanation": "The target keyword was: 【हवाई जहाज़】"
         }
       ]
     }
@@ -2529,7 +2217,7 @@
     "level": "A1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 5.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -2542,12 +2230,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-5-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-5-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2592,15 +2276,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «मेट्रो»):",
-          "acceptedAnswers": [
-            "मेट्रो",
-            "मेट्रो"
-          ],
-          "explanation": "The target keyword was: 【मेट्रो】"
         }
       ]
     }
@@ -2614,7 +2289,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 6.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -2627,12 +2302,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-6-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-6-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2677,15 +2348,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «टिकट»):",
-          "acceptedAnswers": [
-            "टिकट",
-            "टिकट"
-          ],
-          "explanation": "The target keyword was: 【टिकट】"
         }
       ]
     }
@@ -2699,7 +2361,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 6.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -2712,12 +2374,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-6-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-6-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2762,15 +2420,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «स्टेशन»):",
-          "acceptedAnswers": [
-            "स्टेशन",
-            "स्टेशन"
-          ],
-          "explanation": "The target keyword was: 【स्टेशन】"
         }
       ]
     }
@@ -2784,7 +2433,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 6.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -2797,12 +2446,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-6-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-6-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2847,15 +2492,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «हवाई अड्डा»):",
-          "acceptedAnswers": [
-            "हवाई अड्डा",
-            "हवाई अड्डा"
-          ],
-          "explanation": "The target keyword was: 【हवाई अड्डा】"
         }
       ]
     }
@@ -2869,7 +2505,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 6.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -2882,12 +2518,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-6-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-6-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2932,15 +2564,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «सड़क»):",
-          "acceptedAnswers": [
-            "सड़क",
-            "सड़क"
-          ],
-          "explanation": "The target keyword was: 【सड़क】"
         }
       ]
     }
@@ -2954,7 +2577,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 6.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 6.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -2967,12 +2590,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-6-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-6-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3017,15 +2636,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «शहर»):",
-          "acceptedAnswers": [
-            "शहर",
-            "शहर"
-          ],
-          "explanation": "The target keyword was: 【शहर】"
         }
       ]
     }
@@ -3039,7 +2649,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 7.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -3052,12 +2662,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-7-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-7-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3102,15 +2708,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «दुकान»):",
-          "acceptedAnswers": [
-            "दुकान",
-            "दुकान"
-          ],
-          "explanation": "The target keyword was: 【दुकान】"
         }
       ]
     }
@@ -3124,7 +2721,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 7.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -3137,12 +2734,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-7-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-7-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3187,15 +2780,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «रुपया»):",
-          "acceptedAnswers": [
-            "रुपया",
-            "रुपया"
-          ],
-          "explanation": "The target keyword was: 【रुपया】"
         }
       ]
     }
@@ -3209,7 +2793,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 7.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -3222,12 +2806,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-7-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-7-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3272,15 +2852,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «पैसा»):",
-          "acceptedAnswers": [
-            "पैसा",
-            "पैसा"
-          ],
-          "explanation": "The target keyword was: 【पैसा】"
         }
       ]
     }
@@ -3294,7 +2865,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 7.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -3307,12 +2878,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-7-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-7-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3357,15 +2924,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «दाम»):",
-          "acceptedAnswers": [
-            "दाम",
-            "दाम"
-          ],
-          "explanation": "The target keyword was: 【दाम】"
         }
       ]
     }
@@ -3379,7 +2937,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 7.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -3392,12 +2950,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-7-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-7-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3442,15 +2996,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «छूट»):",
-          "acceptedAnswers": [
-            "छूट",
-            "छूट"
-          ],
-          "explanation": "The target keyword was: 【छूट】"
         }
       ]
     }
@@ -3464,7 +3009,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 8.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -3477,12 +3022,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-8-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-8-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3527,15 +3068,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «बिल»):",
-          "acceptedAnswers": [
-            "बिल",
-            "बिल"
-          ],
-          "explanation": "The target keyword was: 【बिल】"
         }
       ]
     }
@@ -3549,7 +3081,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 8.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -3562,12 +3094,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-8-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-8-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3612,15 +3140,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «बाज़ार»):",
-          "acceptedAnswers": [
-            "बाज़ार",
-            "बाज़ार"
-          ],
-          "explanation": "The target keyword was: 【बाज़ार】"
         }
       ]
     }
@@ -3634,7 +3153,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 8.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -3647,12 +3166,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-8-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-8-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3697,15 +3212,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «खरीदारी»):",
-          "acceptedAnswers": [
-            "खरीदारी",
-            "खरीदारी"
-          ],
-          "explanation": "The target keyword was: 【खरीदारी】"
         }
       ]
     }
@@ -3719,7 +3225,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 8.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -3732,12 +3238,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-8-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-8-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3782,15 +3284,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «क्रेडिट कार्ड»):",
-          "acceptedAnswers": [
-            "क्रेडिट कार्ड",
-            "क्रेडिट कार्ड"
-          ],
-          "explanation": "The target keyword was: 【क्रेडिट कार्ड】"
         }
       ]
     }
@@ -3804,7 +3297,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 8.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -3817,12 +3310,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-8-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-8-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3867,15 +3356,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «नकद»):",
-          "acceptedAnswers": [
-            "नकद",
-            "नकद"
-          ],
-          "explanation": "The target keyword was: 【नकद】"
         }
       ]
     }
@@ -3889,7 +3369,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 9.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -3902,12 +3382,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-9-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-9-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3952,15 +3428,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «घर»):",
-          "acceptedAnswers": [
-            "घर",
-            "घर"
-          ],
-          "explanation": "The target keyword was: 【घर】"
         }
       ]
     }
@@ -3974,7 +3441,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 9.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -3987,12 +3454,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-9-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-9-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4037,15 +3500,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «कमरा»):",
-          "acceptedAnswers": [
-            "कमरा",
-            "कमरा"
-          ],
-          "explanation": "The target keyword was: 【कमरा】"
         }
       ]
     }
@@ -4059,7 +3513,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 9.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -4072,12 +3526,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-9-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-9-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4122,15 +3572,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «रसोई»):",
-          "acceptedAnswers": [
-            "रसोई",
-            "रसोई"
-          ],
-          "explanation": "The target keyword was: 【रसोई】"
         }
       ]
     }
@@ -4144,7 +3585,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 9.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -4157,12 +3598,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-9-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-9-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4207,15 +3644,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «खिड़की»):",
-          "acceptedAnswers": [
-            "खिड़की",
-            "खिड़की"
-          ],
-          "explanation": "The target keyword was: 【खिड़की】"
         }
       ]
     }
@@ -4229,7 +3657,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 9.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 9.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -4242,12 +3670,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-9-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-9-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4292,15 +3716,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «दरवाज़ा»):",
-          "acceptedAnswers": [
-            "दरवाज़ा",
-            "दरवाज़ा"
-          ],
-          "explanation": "The target keyword was: 【दरवाज़ा】"
         }
       ]
     }
@@ -4314,7 +3729,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 10.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -4327,12 +3742,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-10-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-10-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4377,15 +3788,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «मेज़»):",
-          "acceptedAnswers": [
-            "मेज़",
-            "मेज़"
-          ],
-          "explanation": "The target keyword was: 【मेज़】"
         }
       ]
     }
@@ -4399,7 +3801,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 10.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -4412,12 +3814,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-10-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-10-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4462,15 +3860,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «कुर्सी»):",
-          "acceptedAnswers": [
-            "कुर्सी",
-            "कुर्सी"
-          ],
-          "explanation": "The target keyword was: 【कुर्सी】"
         }
       ]
     }
@@ -4484,7 +3873,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 10.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -4497,12 +3886,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-10-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-10-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4547,15 +3932,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «बिस्तर»):",
-          "acceptedAnswers": [
-            "बिस्तर",
-            "बिस्तर"
-          ],
-          "explanation": "The target keyword was: 【बिस्तर】"
         }
       ]
     }
@@ -4569,7 +3945,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 10.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -4582,12 +3958,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-10-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-10-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4632,15 +4004,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «दीवार»):",
-          "acceptedAnswers": [
-            "दीवार",
-            "दीवार"
-          ],
-          "explanation": "The target keyword was: 【दीवार】"
         }
       ]
     }
@@ -4654,7 +4017,7 @@
     "level": "A2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 10.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -4667,12 +4030,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-10-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-10-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4717,15 +4076,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «छत»):",
-          "acceptedAnswers": [
-            "छत",
-            "छत"
-          ],
-          "explanation": "The target keyword was: 【छत】"
         }
       ]
     }
@@ -4739,7 +4089,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 11.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -4752,12 +4102,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-11-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-11-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4802,15 +4148,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «काम»):",
-          "acceptedAnswers": [
-            "काम",
-            "काम"
-          ],
-          "explanation": "The target keyword was: 【काम】"
         }
       ]
     }
@@ -4824,7 +4161,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 11.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -4837,12 +4174,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-11-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-11-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4887,15 +4220,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «दफ़्तर»):",
-          "acceptedAnswers": [
-            "दफ़्तर",
-            "दफ़्तर"
-          ],
-          "explanation": "The target keyword was: 【दफ़्तर】"
         }
       ]
     }
@@ -4909,7 +4233,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 11.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -4922,12 +4246,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-11-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-11-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4972,15 +4292,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «सहकर्मी»):",
-          "acceptedAnswers": [
-            "सहकर्मी",
-            "सहकर्मी"
-          ],
-          "explanation": "The target keyword was: 【सहकर्मी】"
         }
       ]
     }
@@ -4994,7 +4305,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 11.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -5007,12 +4318,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-11-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-11-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5057,15 +4364,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «अधिकारी»):",
-          "acceptedAnswers": [
-            "अधिकारी",
-            "अधिकारी"
-          ],
-          "explanation": "The target keyword was: 【अधिकारी】"
         }
       ]
     }
@@ -5079,7 +4377,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 11.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 11.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -5092,12 +4390,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-11-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-11-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5142,15 +4436,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «वेतन»):",
-          "acceptedAnswers": [
-            "वेतन",
-            "वेतन"
-          ],
-          "explanation": "The target keyword was: 【वेतन】"
         }
       ]
     }
@@ -5164,7 +4449,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 12.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -5177,12 +4462,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-12-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-12-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5227,15 +4508,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «छुट्टी»):",
-          "acceptedAnswers": [
-            "छुट्टी",
-            "छुट्टी"
-          ],
-          "explanation": "The target keyword was: 【छुट्टी】"
         }
       ]
     }
@@ -5249,7 +4521,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 12.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -5262,12 +4534,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-12-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-12-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5312,15 +4580,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «बैठक»):",
-          "acceptedAnswers": [
-            "बैठक",
-            "बैठक"
-          ],
-          "explanation": "The target keyword was: 【बैठक】"
         }
       ]
     }
@@ -5334,7 +4593,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 12.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -5347,12 +4606,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-12-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-12-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5397,15 +4652,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «योजना»):",
-          "acceptedAnswers": [
-            "योजना",
-            "योजना"
-          ],
-          "explanation": "The target keyword was: 【योजना】"
         }
       ]
     }
@@ -5419,7 +4665,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 12.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -5432,12 +4678,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-12-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-12-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5482,15 +4724,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «अनुबंध»):",
-          "acceptedAnswers": [
-            "अनुबंध",
-            "अनुबंध"
-          ],
-          "explanation": "The target keyword was: 【अनुबंध】"
         }
       ]
     }
@@ -5504,7 +4737,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 12.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -5517,12 +4750,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-12-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-12-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5567,15 +4796,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «व्यवसाय»):",
-          "acceptedAnswers": [
-            "व्यवसाय",
-            "व्यवसाय"
-          ],
-          "explanation": "The target keyword was: 【व्यवसाय】"
         }
       ]
     }
@@ -5589,7 +4809,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 13.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -5602,12 +4822,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-13-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-13-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5652,15 +4868,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «किताब»):",
-          "acceptedAnswers": [
-            "किताब",
-            "किताब"
-          ],
-          "explanation": "The target keyword was: 【किताब】"
         }
       ]
     }
@@ -5674,7 +4881,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 13.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -5687,12 +4894,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-13-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-13-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5737,15 +4940,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «संगीत»):",
-          "acceptedAnswers": [
-            "संगीत",
-            "संगीत"
-          ],
-          "explanation": "The target keyword was: 【संगीत】"
         }
       ]
     }
@@ -5759,7 +4953,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 13.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -5772,12 +4966,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-13-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-13-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5822,15 +5012,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «फ़िल्म»):",
-          "acceptedAnswers": [
-            "फ़िल्म",
-            "फ़िल्म"
-          ],
-          "explanation": "The target keyword was: 【फ़िल्म】"
         }
       ]
     }
@@ -5844,7 +5025,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 13.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -5857,12 +5038,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-13-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-13-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5907,15 +5084,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «खेल»):",
-          "acceptedAnswers": [
-            "खेल",
-            "खेल"
-          ],
-          "explanation": "The target keyword was: 【खेल】"
         }
       ]
     }
@@ -5929,7 +5097,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 13.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -5942,12 +5110,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-13-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-13-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5992,15 +5156,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «क्रिकेट»):",
-          "acceptedAnswers": [
-            "क्रिकेट",
-            "क्रिकेट"
-          ],
-          "explanation": "The target keyword was: 【क्रिकेट】"
         }
       ]
     }
@@ -6014,7 +5169,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 14.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -6027,12 +5182,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-14-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-14-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6077,15 +5228,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «यात्रा»):",
-          "acceptedAnswers": [
-            "यात्रा",
-            "यात्रा"
-          ],
-          "explanation": "The target keyword was: 【यात्रा】"
         }
       ]
     }
@@ -6099,7 +5241,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 14.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -6112,12 +5254,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-14-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-14-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6162,15 +5300,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «सिनेमा»):",
-          "acceptedAnswers": [
-            "सिनेमा",
-            "सिनेमा"
-          ],
-          "explanation": "The target keyword was: 【सिनेमा】"
         }
       ]
     }
@@ -6184,7 +5313,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 14.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -6197,12 +5326,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-14-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-14-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6247,15 +5372,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «नृत्य»):",
-          "acceptedAnswers": [
-            "नृत्य",
-            "नृत्य"
-          ],
-          "explanation": "The target keyword was: 【नृत्य】"
         }
       ]
     }
@@ -6269,7 +5385,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 14.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -6282,12 +5398,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-14-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-14-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6332,15 +5444,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «कला»):",
-          "acceptedAnswers": [
-            "कला",
-            "कला"
-          ],
-          "explanation": "The target keyword was: 【कला】"
         }
       ]
     }
@@ -6354,7 +5457,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 14.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -6367,12 +5470,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-14-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-14-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6417,15 +5516,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «कविता»):",
-          "acceptedAnswers": [
-            "कविता",
-            "कविता"
-          ],
-          "explanation": "The target keyword was: 【कविता】"
         }
       ]
     }
@@ -6439,7 +5529,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 15.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -6452,12 +5542,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-15-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-15-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6502,15 +5588,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «मौसम»):",
-          "acceptedAnswers": [
-            "मौसम",
-            "मौसम"
-          ],
-          "explanation": "The target keyword was: 【मौसम】"
         }
       ]
     }
@@ -6524,7 +5601,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 15.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -6537,12 +5614,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-15-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-15-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6587,15 +5660,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «सूरज»):",
-          "acceptedAnswers": [
-            "सूरज",
-            "सूरज"
-          ],
-          "explanation": "The target keyword was: 【सूरज】"
         }
       ]
     }
@@ -6609,7 +5673,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 15.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -6622,12 +5686,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-15-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-15-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6672,15 +5732,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «बारिश»):",
-          "acceptedAnswers": [
-            "बारिश",
-            "बारिश"
-          ],
-          "explanation": "The target keyword was: 【बारिश】"
         }
       ]
     }
@@ -6694,7 +5745,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 15.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -6707,12 +5758,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-15-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-15-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6757,15 +5804,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «हवा»):",
-          "acceptedAnswers": [
-            "हवा",
-            "हवा"
-          ],
-          "explanation": "The target keyword was: 【हवा】"
         }
       ]
     }
@@ -6779,7 +5817,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 15.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 15.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -6792,12 +5830,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-15-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-15-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6842,15 +5876,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «बादल»):",
-          "acceptedAnswers": [
-            "बादल",
-            "बादल"
-          ],
-          "explanation": "The target keyword was: 【बादल】"
         }
       ]
     }
@@ -6864,7 +5889,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 16.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -6877,12 +5902,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-16-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-16-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6927,15 +5948,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «गर्मी»):",
-          "acceptedAnswers": [
-            "गर्मी",
-            "गर्मी"
-          ],
-          "explanation": "The target keyword was: 【गर्मी】"
         }
       ]
     }
@@ -6949,7 +5961,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 16.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -6962,12 +5974,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-16-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-16-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7012,15 +6020,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «सर्दी»):",
-          "acceptedAnswers": [
-            "सर्दी",
-            "सर्दी"
-          ],
-          "explanation": "The target keyword was: 【सर्दी】"
         }
       ]
     }
@@ -7034,7 +6033,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 16.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -7047,12 +6046,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-16-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-16-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7097,15 +6092,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «वसंत»):",
-          "acceptedAnswers": [
-            "वसंत",
-            "वसंत"
-          ],
-          "explanation": "The target keyword was: 【वसंत】"
         }
       ]
     }
@@ -7119,7 +6105,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 16.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -7132,12 +6118,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-16-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-16-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7182,15 +6164,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «पतझड़»):",
-          "acceptedAnswers": [
-            "पतझड़",
-            "पतझड़"
-          ],
-          "explanation": "The target keyword was: 【पतझड़】"
         }
       ]
     }
@@ -7204,7 +6177,7 @@
     "level": "B1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 16.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 16.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -7217,12 +6190,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-16-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-16-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7267,15 +6236,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «तापमान»):",
-          "acceptedAnswers": [
-            "तापमान",
-            "तापमान"
-          ],
-          "explanation": "The target keyword was: 【तापमान】"
         }
       ]
     }
@@ -7289,7 +6249,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 17.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -7302,12 +6262,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-17-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-17-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7352,15 +6308,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «डॉक्टर»):",
-          "acceptedAnswers": [
-            "डॉक्टर",
-            "डॉक्टर"
-          ],
-          "explanation": "The target keyword was: 【डॉक्टर】"
         }
       ]
     }
@@ -7374,7 +6321,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 17.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -7387,12 +6334,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-17-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-17-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7437,15 +6380,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «दवा»):",
-          "acceptedAnswers": [
-            "दवा",
-            "दवा"
-          ],
-          "explanation": "The target keyword was: 【दवा】"
         }
       ]
     }
@@ -7459,7 +6393,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 17.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -7472,12 +6406,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-17-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-17-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7522,15 +6452,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «अस्पताल»):",
-          "acceptedAnswers": [
-            "अस्पताल",
-            "अस्पताल"
-          ],
-          "explanation": "The target keyword was: 【अस्पताल】"
         }
       ]
     }
@@ -7544,7 +6465,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 17.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -7557,12 +6478,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-17-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-17-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7607,15 +6524,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «स्वास्थ्य»):",
-          "acceptedAnswers": [
-            "स्वास्थ्य",
-            "स्वास्थ्य"
-          ],
-          "explanation": "The target keyword was: 【स्वास्थ्य】"
         }
       ]
     }
@@ -7629,7 +6537,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 17.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -7642,12 +6550,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-17-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-17-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7692,15 +6596,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «इलाज»):",
-          "acceptedAnswers": [
-            "इलाज",
-            "इलाज"
-          ],
-          "explanation": "The target keyword was: 【इलाज】"
         }
       ]
     }
@@ -7714,7 +6609,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 18.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -7727,12 +6622,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-18-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-18-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7777,15 +6668,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «बुखार»):",
-          "acceptedAnswers": [
-            "बुखार",
-            "बुखार"
-          ],
-          "explanation": "The target keyword was: 【बुखार】"
         }
       ]
     }
@@ -7799,7 +6681,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 18.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -7812,12 +6694,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-18-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-18-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7862,15 +6740,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «सिरदर्द»):",
-          "acceptedAnswers": [
-            "सिरदर्द",
-            "सिरदर्द"
-          ],
-          "explanation": "The target keyword was: 【सिरदर्द】"
         }
       ]
     }
@@ -7884,7 +6753,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 18.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -7897,12 +6766,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-18-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-18-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7947,15 +6812,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «आँखें»):",
-          "acceptedAnswers": [
-            "आँखें",
-            "आँखें"
-          ],
-          "explanation": "The target keyword was: 【आँखें】"
         }
       ]
     }
@@ -7969,7 +6825,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 18.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -7982,12 +6838,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-18-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-18-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8032,15 +6884,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «हाथ»):",
-          "acceptedAnswers": [
-            "हाथ",
-            "हाथ"
-          ],
-          "explanation": "The target keyword was: 【हाथ】"
         }
       ]
     }
@@ -8054,7 +6897,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 18.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 18.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -8067,12 +6910,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-18-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-18-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8117,15 +6956,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «दिल»):",
-          "acceptedAnswers": [
-            "दिल",
-            "दिल"
-          ],
-          "explanation": "The target keyword was: 【दिल】"
         }
       ]
     }
@@ -8139,7 +6969,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 19.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -8152,12 +6982,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-19-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-19-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8202,15 +7028,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «परिवार»):",
-          "acceptedAnswers": [
-            "परिवार",
-            "परिवार"
-          ],
-          "explanation": "The target keyword was: 【परिवार】"
         }
       ]
     }
@@ -8224,7 +7041,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 19.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -8237,12 +7054,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-19-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-19-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8287,15 +7100,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «पिता»):",
-          "acceptedAnswers": [
-            "पिता",
-            "पिता"
-          ],
-          "explanation": "The target keyword was: 【पिता】"
         }
       ]
     }
@@ -8309,7 +7113,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 19.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -8322,12 +7126,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-19-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-19-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8372,15 +7172,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «माता»):",
-          "acceptedAnswers": [
-            "माता",
-            "माता"
-          ],
-          "explanation": "The target keyword was: 【माता】"
         }
       ]
     }
@@ -8394,7 +7185,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 19.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -8407,12 +7198,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-19-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-19-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8457,15 +7244,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «भाई»):",
-          "acceptedAnswers": [
-            "भाई",
-            "भाई"
-          ],
-          "explanation": "The target keyword was: 【भाई】"
         }
       ]
     }
@@ -8479,7 +7257,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 19.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 19.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -8492,12 +7270,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-19-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-19-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8542,15 +7316,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «बहन»):",
-          "acceptedAnswers": [
-            "बहन",
-            "बहन"
-          ],
-          "explanation": "The target keyword was: 【बहन】"
         }
       ]
     }
@@ -8564,7 +7329,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 20.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -8577,12 +7342,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-20-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-20-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8627,15 +7388,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «दादा»):",
-          "acceptedAnswers": [
-            "दादा",
-            "दादा"
-          ],
-          "explanation": "The target keyword was: 【दादा】"
         }
       ]
     }
@@ -8649,7 +7401,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 20.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -8662,12 +7414,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-20-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-20-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8712,15 +7460,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «दादी»):",
-          "acceptedAnswers": [
-            "दादी",
-            "दादी"
-          ],
-          "explanation": "The target keyword was: 【दादी】"
         }
       ]
     }
@@ -8734,7 +7473,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 20.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -8747,12 +7486,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-20-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-20-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8797,15 +7532,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «बेटा»):",
-          "acceptedAnswers": [
-            "बेटा",
-            "बेटा"
-          ],
-          "explanation": "The target keyword was: 【बेटा】"
         }
       ]
     }
@@ -8819,7 +7545,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 20.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -8832,12 +7558,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-20-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-20-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8882,15 +7604,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «बेटी»):",
-          "acceptedAnswers": [
-            "बेटी",
-            "बेटी"
-          ],
-          "explanation": "The target keyword was: 【बेटी】"
         }
       ]
     }
@@ -8904,7 +7617,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 20.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 20.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -8917,12 +7630,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-20-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-20-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8967,15 +7676,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «मित्र»):",
-          "acceptedAnswers": [
-            "मित्र",
-            "मित्र"
-          ],
-          "explanation": "The target keyword was: 【मित्र】"
         }
       ]
     }
@@ -8989,7 +7689,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 21.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -9002,12 +7702,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-21-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-21-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9052,15 +7748,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «आज»):",
-          "acceptedAnswers": [
-            "आज",
-            "आज"
-          ],
-          "explanation": "The target keyword was: 【आज】"
         }
       ]
     }
@@ -9074,7 +7761,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 21.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -9087,12 +7774,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-21-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-21-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9137,15 +7820,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «कल»):",
-          "acceptedAnswers": [
-            "कल",
-            "कल"
-          ],
-          "explanation": "The target keyword was: 【कल】"
         }
       ]
     }
@@ -9159,7 +7833,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 21.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -9172,12 +7846,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-21-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-21-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9222,15 +7892,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «परसों»):",
-          "acceptedAnswers": [
-            "परसों",
-            "परसों"
-          ],
-          "explanation": "The target keyword was: 【परसों】"
         }
       ]
     }
@@ -9244,7 +7905,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 21.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -9257,12 +7918,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-21-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-21-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9307,15 +7964,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «सुबह»):",
-          "acceptedAnswers": [
-            "सुबह",
-            "सुबह"
-          ],
-          "explanation": "The target keyword was: 【सुबह】"
         }
       ]
     }
@@ -9329,7 +7977,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 21.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 21.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -9342,12 +7990,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-21-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-21-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9392,15 +8036,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «दोपहर»):",
-          "acceptedAnswers": [
-            "दोपहर",
-            "दोपहर"
-          ],
-          "explanation": "The target keyword was: 【दोपहर】"
         }
       ]
     }
@@ -9414,7 +8049,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 22.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -9427,12 +8062,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-22-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-22-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9477,15 +8108,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «शाम»):",
-          "acceptedAnswers": [
-            "शाम",
-            "शाम"
-          ],
-          "explanation": "The target keyword was: 【शाम】"
         }
       ]
     }
@@ -9499,7 +8121,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 22.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -9512,12 +8134,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-22-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-22-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9562,15 +8180,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «रात»):",
-          "acceptedAnswers": [
-            "रात",
-            "रात"
-          ],
-          "explanation": "The target keyword was: 【रात】"
         }
       ]
     }
@@ -9584,7 +8193,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 22.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -9597,12 +8206,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-22-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-22-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9647,15 +8252,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «सप्ताह»):",
-          "acceptedAnswers": [
-            "सप्ताह",
-            "सप्ताह"
-          ],
-          "explanation": "The target keyword was: 【सप्ताह】"
         }
       ]
     }
@@ -9669,7 +8265,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 22.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -9682,12 +8278,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-22-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-22-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9732,15 +8324,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «महीना»):",
-          "acceptedAnswers": [
-            "महीना",
-            "महीना"
-          ],
-          "explanation": "The target keyword was: 【महीना】"
         }
       ]
     }
@@ -9754,7 +8337,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 22.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -9767,12 +8350,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-22-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-22-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9817,15 +8396,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «साल»):",
-          "acceptedAnswers": [
-            "साल",
-            "साल"
-          ],
-          "explanation": "The target keyword was: 【साल】"
         }
       ]
     }
@@ -9839,7 +8409,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 23.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -9852,12 +8422,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-23-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-23-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9902,15 +8468,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «लाल»):",
-          "acceptedAnswers": [
-            "लाल",
-            "लाल"
-          ],
-          "explanation": "The target keyword was: 【लाल】"
         }
       ]
     }
@@ -9924,7 +8481,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 23.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -9937,12 +8494,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-23-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-23-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9987,15 +8540,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «नीला»):",
-          "acceptedAnswers": [
-            "नीला",
-            "नीला"
-          ],
-          "explanation": "The target keyword was: 【नीला】"
         }
       ]
     }
@@ -10009,7 +8553,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 23.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -10022,12 +8566,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-23-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-23-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10072,15 +8612,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «पीला»):",
-          "acceptedAnswers": [
-            "पीला",
-            "पीला"
-          ],
-          "explanation": "The target keyword was: 【पीला】"
         }
       ]
     }
@@ -10094,7 +8625,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 23.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -10107,12 +8638,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-23-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-23-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10157,15 +8684,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «हरा»):",
-          "acceptedAnswers": [
-            "हरा",
-            "हरा"
-          ],
-          "explanation": "The target keyword was: 【हरा】"
         }
       ]
     }
@@ -10179,7 +8697,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 23.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -10192,12 +8710,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-23-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-23-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10242,15 +8756,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «सफ़ेद»):",
-          "acceptedAnswers": [
-            "सफ़ेद",
-            "सफ़ेद"
-          ],
-          "explanation": "The target keyword was: 【सफ़ेद】"
         }
       ]
     }
@@ -10264,7 +8769,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 24.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -10277,12 +8782,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-24-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-24-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10327,15 +8828,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «काला»):",
-          "acceptedAnswers": [
-            "काला",
-            "काला"
-          ],
-          "explanation": "The target keyword was: 【काला】"
         }
       ]
     }
@@ -10349,7 +8841,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 24.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -10362,12 +8854,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-24-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-24-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10412,15 +8900,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «भूरा»):",
-          "acceptedAnswers": [
-            "भूरा",
-            "भूरा"
-          ],
-          "explanation": "The target keyword was: 【भूरा】"
         }
       ]
     }
@@ -10434,7 +8913,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 24.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -10447,12 +8926,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-24-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-24-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10497,15 +8972,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «गुलाबी»):",
-          "acceptedAnswers": [
-            "गुलाबी",
-            "गुलाबी"
-          ],
-          "explanation": "The target keyword was: 【गुलाबी】"
         }
       ]
     }
@@ -10519,7 +8985,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 24.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -10532,12 +8998,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-24-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-24-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10582,15 +9044,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «बैंगनी»):",
-          "acceptedAnswers": [
-            "बैंगनी",
-            "बैंगनी"
-          ],
-          "explanation": "The target keyword was: 【बैंगनी】"
         }
       ]
     }
@@ -10604,7 +9057,7 @@
     "level": "B2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 24.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -10617,12 +9070,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-24-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-24-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10667,15 +9116,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «नारंगी»):",
-          "acceptedAnswers": [
-            "नारंगी",
-            "नारंगी"
-          ],
-          "explanation": "The target keyword was: 【नारंगी】"
         }
       ]
     }
@@ -10689,7 +9129,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 25.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -10702,12 +9142,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-25-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-25-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10752,15 +9188,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «बड़ा»):",
-          "acceptedAnswers": [
-            "बड़ा",
-            "बड़ा"
-          ],
-          "explanation": "The target keyword was: 【बड़ा】"
         }
       ]
     }
@@ -10774,7 +9201,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 25.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -10787,12 +9214,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-25-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-25-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10837,15 +9260,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «छोटा»):",
-          "acceptedAnswers": [
-            "छोटा",
-            "छोटा"
-          ],
-          "explanation": "The target keyword was: 【छोटा】"
         }
       ]
     }
@@ -10859,7 +9273,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 25.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -10872,12 +9286,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-25-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-25-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10922,15 +9332,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «लंबा»):",
-          "acceptedAnswers": [
-            "लंबा",
-            "लंबा"
-          ],
-          "explanation": "The target keyword was: 【लंबा】"
         }
       ]
     }
@@ -10944,7 +9345,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 25.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -10957,12 +9358,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-25-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-25-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11007,15 +9404,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «नाटा»):",
-          "acceptedAnswers": [
-            "नाटा",
-            "नाटा"
-          ],
-          "explanation": "The target keyword was: 【नाटा】"
         }
       ]
     }
@@ -11029,7 +9417,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 25.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -11042,12 +9430,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-25-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-25-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11092,15 +9476,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «तेज़»):",
-          "acceptedAnswers": [
-            "तेज़",
-            "तेज़"
-          ],
-          "explanation": "The target keyword was: 【तेज़】"
         }
       ]
     }
@@ -11114,7 +9489,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 26.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -11127,12 +9502,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-26-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-26-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11177,15 +9548,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «धीमा»):",
-          "acceptedAnswers": [
-            "धीमा",
-            "धीमा"
-          ],
-          "explanation": "The target keyword was: 【धीमा】"
         }
       ]
     }
@@ -11199,7 +9561,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 26.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -11212,12 +9574,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-26-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-26-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11262,15 +9620,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «नया»):",
-          "acceptedAnswers": [
-            "नया",
-            "नया"
-          ],
-          "explanation": "The target keyword was: 【नया】"
         }
       ]
     }
@@ -11284,7 +9633,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 26.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -11297,12 +9646,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-26-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-26-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11347,15 +9692,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «पुराना»):",
-          "acceptedAnswers": [
-            "पुराना",
-            "पुराना"
-          ],
-          "explanation": "The target keyword was: 【पुराना】"
         }
       ]
     }
@@ -11369,7 +9705,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 26.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -11382,12 +9718,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-26-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-26-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11432,15 +9764,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «अच्छा»):",
-          "acceptedAnswers": [
-            "अच्छा",
-            "अच्छा"
-          ],
-          "explanation": "The target keyword was: 【अच्छा】"
         }
       ]
     }
@@ -11454,7 +9777,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 26.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 26.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -11467,12 +9790,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-26-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-26-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11517,15 +9836,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «सुंदर»):",
-          "acceptedAnswers": [
-            "सुंदर",
-            "सुंदर"
-          ],
-          "explanation": "The target keyword was: 【सुंदर】"
         }
       ]
     }
@@ -11539,7 +9849,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 27.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -11552,12 +9862,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-27-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-27-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11602,15 +9908,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «समझना»):",
-          "acceptedAnswers": [
-            "समझना",
-            "समझना"
-          ],
-          "explanation": "The target keyword was: 【समझना】"
         }
       ]
     }
@@ -11624,7 +9921,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 27.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -11637,12 +9934,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-27-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-27-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11687,15 +9980,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «जानना»):",
-          "acceptedAnswers": [
-            "जानना",
-            "जानना"
-          ],
-          "explanation": "The target keyword was: 【जानना】"
         }
       ]
     }
@@ -11709,7 +9993,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 27.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -11722,12 +10006,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-27-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-27-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11772,15 +10052,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «सोचना»):",
-          "acceptedAnswers": [
-            "सोचना",
-            "सोचना"
-          ],
-          "explanation": "The target keyword was: 【सोचना】"
         }
       ]
     }
@@ -11794,7 +10065,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 27.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -11807,12 +10078,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-27-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-27-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11857,15 +10124,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «याद रखना»):",
-          "acceptedAnswers": [
-            "याद रखना",
-            "याद रखना"
-          ],
-          "explanation": "The target keyword was: 【याद रखना】"
         }
       ]
     }
@@ -11879,7 +10137,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 27.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 27.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -11892,12 +10150,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-27-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-27-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11942,15 +10196,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «बोलना»):",
-          "acceptedAnswers": [
-            "बोलना",
-            "बोलना"
-          ],
-          "explanation": "The target keyword was: 【बोलना】"
         }
       ]
     }
@@ -11964,7 +10209,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 28.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -11977,12 +10222,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-28-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-28-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12027,15 +10268,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «पढ़ना»):",
-          "acceptedAnswers": [
-            "पढ़ना",
-            "पढ़ना"
-          ],
-          "explanation": "The target keyword was: 【पढ़ना】"
         }
       ]
     }
@@ -12049,7 +10281,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 28.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -12062,12 +10294,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-28-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-28-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12112,15 +10340,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «लिखना»):",
-          "acceptedAnswers": [
-            "लिखना",
-            "लिखना"
-          ],
-          "explanation": "The target keyword was: 【लिखना】"
         }
       ]
     }
@@ -12134,7 +10353,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 28.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -12147,12 +10366,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-28-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-28-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12197,15 +10412,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «सुनना»):",
-          "acceptedAnswers": [
-            "सुनना",
-            "सुनना"
-          ],
-          "explanation": "The target keyword was: 【सुनना】"
         }
       ]
     }
@@ -12219,7 +10425,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 28.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -12232,12 +10438,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-28-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-28-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12282,15 +10484,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «देखना»):",
-          "acceptedAnswers": [
-            "देखना",
-            "देखना"
-          ],
-          "explanation": "The target keyword was: 【देखना】"
         }
       ]
     }
@@ -12304,7 +10497,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 28.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -12317,12 +10510,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-28-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-28-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12367,15 +10556,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «चाहना»):",
-          "acceptedAnswers": [
-            "चाहना",
-            "चाहना"
-          ],
-          "explanation": "The target keyword was: 【चाहना】"
         }
       ]
     }
@@ -12389,7 +10569,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 29.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -12402,12 +10582,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-29-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-29-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12452,15 +10628,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «स्कूल»):",
-          "acceptedAnswers": [
-            "स्कूल",
-            "स्कूल"
-          ],
-          "explanation": "The target keyword was: 【स्कूल】"
         }
       ]
     }
@@ -12474,7 +10641,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 29.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -12487,12 +10654,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-29-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-29-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12537,15 +10700,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «कॉलेज»):",
-          "acceptedAnswers": [
-            "कॉलेज",
-            "कॉलेज"
-          ],
-          "explanation": "The target keyword was: 【कॉलेज】"
         }
       ]
     }
@@ -12559,7 +10713,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 29.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -12572,12 +10726,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-29-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-29-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12622,15 +10772,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «अध्यापक»):",
-          "acceptedAnswers": [
-            "अध्यापक",
-            "अध्यापक"
-          ],
-          "explanation": "The target keyword was: 【अध्यापक】"
         }
       ]
     }
@@ -12644,7 +10785,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 29.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -12657,12 +10798,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-29-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-29-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12707,15 +10844,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «छात्र»):",
-          "acceptedAnswers": [
-            "छात्र",
-            "छात्र"
-          ],
-          "explanation": "The target keyword was: 【छात्र】"
         }
       ]
     }
@@ -12729,7 +10857,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 29.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 29.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -12742,12 +10870,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-29-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-29-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12792,15 +10916,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «कक्षा»):",
-          "acceptedAnswers": [
-            "कक्षा",
-            "कक्षा"
-          ],
-          "explanation": "The target keyword was: 【कक्षा】"
         }
       ]
     }
@@ -12814,7 +10929,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 30.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -12827,12 +10942,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-30-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-30-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12877,15 +10988,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «परीक्षा»):",
-          "acceptedAnswers": [
-            "परीक्षा",
-            "परीक्षा"
-          ],
-          "explanation": "The target keyword was: 【परीक्षा】"
         }
       ]
     }
@@ -12899,7 +11001,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 30.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -12912,12 +11014,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-30-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-30-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12962,15 +11060,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «परिणाम»):",
-          "acceptedAnswers": [
-            "परिणाम",
-            "परिणाम"
-          ],
-          "explanation": "The target keyword was: 【परिणाम】"
         }
       ]
     }
@@ -12984,7 +11073,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 30.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -12997,12 +11086,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-30-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-30-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13047,15 +11132,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «पुस्तकालय»):",
-          "acceptedAnswers": [
-            "पुस्तकालय",
-            "पुस्तकालय"
-          ],
-          "explanation": "The target keyword was: 【पुस्तकालय】"
         }
       ]
     }
@@ -13069,7 +11145,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 30.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -13082,12 +11158,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-30-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-30-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13132,15 +11204,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «डिग्री»):",
-          "acceptedAnswers": [
-            "डिग्री",
-            "डिग्री"
-          ],
-          "explanation": "The target keyword was: 【डिग्री】"
         }
       ]
     }
@@ -13154,7 +11217,7 @@
     "level": "C1",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 30.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -13167,12 +11230,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-30-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-30-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13217,15 +11276,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «कलम»):",
-          "acceptedAnswers": [
-            "कलम",
-            "कलम"
-          ],
-          "explanation": "The target keyword was: 【कलम】"
         }
       ]
     }
@@ -13239,7 +11289,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 31.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -13252,12 +11302,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-31-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-31-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13302,15 +11348,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «बैंक»):",
-          "acceptedAnswers": [
-            "बैंक",
-            "बैंक"
-          ],
-          "explanation": "The target keyword was: 【बैंक】"
         }
       ]
     }
@@ -13324,7 +11361,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 31.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -13337,12 +11374,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-31-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-31-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13387,15 +11420,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «खाता»):",
-          "acceptedAnswers": [
-            "खाता",
-            "खाता"
-          ],
-          "explanation": "The target keyword was: 【खाता】"
         }
       ]
     }
@@ -13409,7 +11433,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 31.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -13422,12 +11446,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-31-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-31-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13472,15 +11492,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «ऋण»):",
-          "acceptedAnswers": [
-            "ऋण",
-            "ऋण"
-          ],
-          "explanation": "The target keyword was: 【ऋण】"
         }
       ]
     }
@@ -13494,7 +11505,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 31.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -13507,12 +11518,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-31-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-31-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13557,15 +11564,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «ब्याज»):",
-          "acceptedAnswers": [
-            "ब्याज",
-            "ब्याज"
-          ],
-          "explanation": "The target keyword was: 【ब्याज】"
         }
       ]
     }
@@ -13579,7 +11577,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 31.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -13592,12 +11590,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-31-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-31-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13642,15 +11636,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «कर»):",
-          "acceptedAnswers": [
-            "कर",
-            "कर"
-          ],
-          "explanation": "The target keyword was: 【कर】"
         }
       ]
     }
@@ -13664,7 +11649,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 32.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -13677,12 +11662,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-32-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-32-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13727,15 +11708,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «व्यापार»):",
-          "acceptedAnswers": [
-            "व्यापार",
-            "व्यापार"
-          ],
-          "explanation": "The target keyword was: 【व्यापार】"
         }
       ]
     }
@@ -13749,7 +11721,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 32.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -13762,12 +11734,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-32-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-32-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13812,15 +11780,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «दस्तावेज़»):",
-          "acceptedAnswers": [
-            "दस्तावेज़",
-            "दस्तावेज़"
-          ],
-          "explanation": "The target keyword was: 【दस्तावेज़】"
         }
       ]
     }
@@ -13834,7 +11793,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 32.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -13847,12 +11806,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-32-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-32-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13897,15 +11852,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «हस्ताक्षर»):",
-          "acceptedAnswers": [
-            "हस्ताक्षर",
-            "हस्ताक्षर"
-          ],
-          "explanation": "The target keyword was: 【हस्ताक्षर】"
         }
       ]
     }
@@ -13919,7 +11865,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 32.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -13932,12 +11878,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-32-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-32-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13982,15 +11924,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «नियम»):",
-          "acceptedAnswers": [
-            "नियम",
-            "नियम"
-          ],
-          "explanation": "The target keyword was: 【नियम】"
         }
       ]
     }
@@ -14004,7 +11937,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 32.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 32.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -14017,12 +11950,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-32-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-32-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14067,15 +11996,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «कानून»):",
-          "acceptedAnswers": [
-            "कानून",
-            "कानून"
-          ],
-          "explanation": "The target keyword was: 【कानून】"
         }
       ]
     }
@@ -14089,7 +12009,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 33.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -14102,12 +12022,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-33-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-33-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14152,15 +12068,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «अदालत»):",
-          "acceptedAnswers": [
-            "अदालत",
-            "अदालत"
-          ],
-          "explanation": "The target keyword was: 【अदालत】"
         }
       ]
     }
@@ -14174,7 +12081,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 33.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -14187,12 +12094,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-33-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-33-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14237,15 +12140,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «न्यायाधीश»):",
-          "acceptedAnswers": [
-            "न्यायाधीश",
-            "न्यायाधीश"
-          ],
-          "explanation": "The target keyword was: 【न्यायाधीश】"
         }
       ]
     }
@@ -14259,7 +12153,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 33.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -14272,12 +12166,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-33-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-33-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14322,15 +12212,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «वकील»):",
-          "acceptedAnswers": [
-            "वकील",
-            "वकील"
-          ],
-          "explanation": "The target keyword was: 【वकील】"
         }
       ]
     }
@@ -14344,7 +12225,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 33.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -14357,12 +12238,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-33-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-33-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14407,15 +12284,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «अधिकार»):",
-          "acceptedAnswers": [
-            "अधिकार",
-            "अधिकार"
-          ],
-          "explanation": "The target keyword was: 【अधिकार】"
         }
       ]
     }
@@ -14429,7 +12297,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 33.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 33.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -14442,12 +12310,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-33-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-33-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14492,15 +12356,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «न्याय»):",
-          "acceptedAnswers": [
-            "न्याय",
-            "न्याय"
-          ],
-          "explanation": "The target keyword was: 【न्याय】"
         }
       ]
     }
@@ -14514,7 +12369,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.1) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.1)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.1)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 34.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -14527,12 +12382,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-34-1】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-34-1】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14577,15 +12428,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «गवाह»):",
-          "acceptedAnswers": [
-            "गवाह",
-            "गवाह"
-          ],
-          "explanation": "The target keyword was: 【गवाह】"
         }
       ]
     }
@@ -14599,7 +12441,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.2) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.2)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.2)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 34.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -14612,12 +12454,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-34-2】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-34-2】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14662,15 +12500,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «फ़ैसला»):",
-          "acceptedAnswers": [
-            "फ़ैसला",
-            "फ़ैसला"
-          ],
-          "explanation": "The target keyword was: 【फ़ैसला】"
         }
       ]
     }
@@ -14684,7 +12513,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.3) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.3)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.3)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 34.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -14697,12 +12526,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-34-3】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-34-3】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14747,15 +12572,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «संविधान»):",
-          "acceptedAnswers": [
-            "संविधान",
-            "संविधान"
-          ],
-          "explanation": "The target keyword was: 【संविधान】"
         }
       ]
     }
@@ -14769,7 +12585,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.4) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.4)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.4)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 34.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -14782,12 +12598,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-34-4】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-34-4】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14832,15 +12644,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «सरकार»):",
-          "acceptedAnswers": [
-            "सरकार",
-            "सरकार"
-          ],
-          "explanation": "The target keyword was: 【सरकार】"
         }
       ]
     }
@@ -14854,7 +12657,7 @@
     "level": "C2",
     "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.5) with authentic linguistic precision.",
     "presentation": {
-      "explanation": "【हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.5)】\nहिंदी भाषा (देवनागरी लिपि) में कर्ता-कर्म-क्रिया (SOV) वाक्य क्रम, परसर्ग (postpositions) और लिंग-वचन समन्वय का विशेष महत्व है।\n\n1. संरचनात्मक विश्लेषण:\nइस पाठ में «हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.5)» के अंतर्गत संज्ञा, सर्वनाम और क्रिया के पारस्परिक तालमेल का गहन अध्ययन किया गया है।\n\n2. उच्चारण और ध्वन्यात्मक नियम:\nमहाप्राण ध्वनियों (ख, घ, छ, झ, थ, ध, फ, भ) और मूर्धन्य अक्षरों (ट, ठ, ड, ढ, ण) के स्पष्ट उच्चारण पर ध्यान दें।\n\n3. शिष्टाचार और सामाजिक संदर्भ:\nहिंदी संस्कृति में सम्मानजनक संबोधन (आप, जी) का प्रयोग सामाजिक सद्भाव और आत्मीयता का प्रतीक है।",
+      "explanation": "",
       "examples": [
         {
           "target": "हम इस पाठ में इकाई 34.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
@@ -14867,12 +12670,8 @@
           "translation": "Please pay attention to the correct coordination of verb and postposition."
         }
       ],
-      "mnemonics": [
-        "【स्मरण सूत्र HIN-34-5】：‘हिंदी व्या’ के मुख्य परसर्ग और क्रिया के लिंग-वचन रूप को याद रखें।"
-      ],
-      "culturalNotes": [
-        "【सांस्कृतिक अंतर्दृष्टि HIN-34-5】：भारतीय समाज में ‘अतिथि देवो भव’ की भावना और विनम्र भाषा शैली संवाद को अत्यधिक गरिमापूर्ण बनाती है।"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14917,23 +12716,17 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «स्वतंत्रता»):",
-          "acceptedAnswers": [
-            "स्वतंत्रता",
-            "स्वतंत्रता"
-          ],
-          "explanation": "The target keyword was: 【स्वतंत्रता】"
         }
       ]
     }
   }
 };
-  var ROADMAP = [];
-  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
+  var CURRICULUM = {
+    subject: 'hindi',
+    units: UNITS,
+    lessons: LESSONS
+  };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['hindi'] = SUBJECT;
-  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
+  global.FEARN_CURRICULA['hindi'] = CURRICULUM;
+  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
 })(typeof window !== 'undefined' ? window : global);

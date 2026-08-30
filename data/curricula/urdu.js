@@ -1,4 +1,4 @@
-// urdu curriculum — fully authored CEFR A1-C2 roadmap (34 units, 170 lessons)
+// urdu curriculum
 (function (global) {
   'use strict';
   var UNITS = [
@@ -489,7 +489,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for نستعلیق رسم الخط اور بنیادی آداب with authentic precision.",
     "presentation": {
-      "explanation": "【نستعلیق رسم الخط اور بنیادی آداب】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «نستعلیق رسم الخط اور بنیادی آداب» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "السلام علیکم، آپ کا مزاج کیسا ہے؟",
@@ -502,12 +502,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-1-1】：‘نستعلیق رس’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-1-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -552,15 +548,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «السلام علیکم»):",
-          "acceptedAnswers": [
-            "السلام علیکم",
-            "السلام علیکم"
-          ],
-          "explanation": "The target keyword was: 【السلام علیکم】"
         }
       ]
     }
@@ -574,7 +561,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for تعارف اور شائستہ گفتگو with authentic precision.",
     "presentation": {
-      "explanation": "【تعارف اور شائستہ گفتگو】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «تعارف اور شائستہ گفتگو» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "میرا نام احمد ہے، آپ سے مل کر دلی مسرت ہوئی۔",
@@ -587,12 +574,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-1-2】：‘تعارف اور ’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-1-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -637,15 +620,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «شکریہ»):",
-          "acceptedAnswers": [
-            "شکریہ",
-            "شکریہ"
-          ],
-          "explanation": "The target keyword was: 【شکریہ】"
         }
       ]
     }
@@ -659,7 +633,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for شکریہ اور احسان شناسی کے آداب with authentic precision.",
     "presentation": {
-      "explanation": "【شکریہ اور احسان شناسی کے آداب】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «شکریہ اور احسان شناسی کے آداب» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "آپ کے اس پرخلوص تعاون کا بہت بہت شکریہ۔",
@@ -672,12 +646,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-1-3】：‘شکریہ اور ’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-1-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -722,15 +692,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «برائے مہربانی»):",
-          "acceptedAnswers": [
-            "برائے مہربانی",
-            "برائے مہربانی"
-          ],
-          "explanation": "The target keyword was: 【برائے مہربانی】"
         }
       ]
     }
@@ -744,7 +705,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for معذرت اور باوقار انداز تخاطب with authentic precision.",
     "presentation": {
-      "explanation": "【معذرت اور باوقار انداز تخاطب】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «معذرت اور باوقار انداز تخاطب» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "معاف کیجیے گا، کیا آپ مجھے لائبریری کا راستہ بتا سکتے ہیں؟",
@@ -757,12 +718,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-1-4】：‘معذرت اور ’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-1-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -807,15 +764,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «خدا حافظ»):",
-          "acceptedAnswers": [
-            "خدا حافظ",
-            "خدا حافظ"
-          ],
-          "explanation": "The target keyword was: 【خدا حافظ】"
         }
       ]
     }
@@ -829,7 +777,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for رخصت اور الوداعی کلمات with authentic precision.",
     "presentation": {
-      "explanation": "【رخصت اور الوداعی کلمات】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «رخصت اور الوداعی کلمات» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "خدا حافظ، انشاء اللہ کل صبح دفتر میں ملاقات ہوگی۔",
@@ -842,12 +790,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-1-5】：‘رخصت اور ا’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-1-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -892,15 +836,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «معاف کیجیے»):",
-          "acceptedAnswers": [
-            "معاف کیجیے",
-            "معاف کیجیے"
-          ],
-          "explanation": "The target keyword was: 【معاف کیجیے】"
         }
       ]
     }
@@ -914,7 +849,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 2.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 2.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 2.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -927,12 +862,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-2-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-2-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -977,15 +908,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «خوش آمدید»):",
-          "acceptedAnswers": [
-            "خوش آمدید",
-            "خوش آمدید"
-          ],
-          "explanation": "The target keyword was: 【خوش آمدید】"
         }
       ]
     }
@@ -999,7 +921,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 2.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 2.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 2.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -1012,12 +934,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-2-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-2-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1062,15 +980,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «مبارک»):",
-          "acceptedAnswers": [
-            "مبارک",
-            "مبارک"
-          ],
-          "explanation": "The target keyword was: 【مبارک】"
         }
       ]
     }
@@ -1084,7 +993,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 2.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 2.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 2.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -1097,12 +1006,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-2-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-2-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1147,15 +1052,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «ناشتہ»):",
-          "acceptedAnswers": [
-            "ناشتہ",
-            "ناشتہ"
-          ],
-          "explanation": "The target keyword was: 【ناشتہ】"
         }
       ]
     }
@@ -1169,7 +1065,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 2.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 2.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 2.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -1182,12 +1078,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-2-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-2-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1232,15 +1124,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «دوپہر کا کھانا»):",
-          "acceptedAnswers": [
-            "دوپہر کا کھانا",
-            "دوپہر کا کھانا"
-          ],
-          "explanation": "The target keyword was: 【دوپہر کا کھانا】"
         }
       ]
     }
@@ -1254,7 +1137,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 2.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 2.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 2.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -1267,12 +1150,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-2-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-2-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1317,15 +1196,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «رات کا کھانا»):",
-          "acceptedAnswers": [
-            "رات کا کھانا",
-            "رات کا کھانا"
-          ],
-          "explanation": "The target keyword was: 【رات کا کھانا】"
         }
       ]
     }
@@ -1339,7 +1209,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 3.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 3.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 3.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -1352,12 +1222,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-3-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-3-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1402,15 +1268,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «پانی»):",
-          "acceptedAnswers": [
-            "پانی",
-            "پانی"
-          ],
-          "explanation": "The target keyword was: 【پانی】"
         }
       ]
     }
@@ -1424,7 +1281,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 3.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 3.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 3.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -1437,12 +1294,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-3-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-3-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1487,15 +1340,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «دودھ»):",
-          "acceptedAnswers": [
-            "دودھ",
-            "دودھ"
-          ],
-          "explanation": "The target keyword was: 【دودھ】"
         }
       ]
     }
@@ -1509,7 +1353,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 3.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 3.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 3.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -1522,12 +1366,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-3-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-3-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1572,15 +1412,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «چائے»):",
-          "acceptedAnswers": [
-            "چائے",
-            "چائے"
-          ],
-          "explanation": "The target keyword was: 【چائے】"
         }
       ]
     }
@@ -1594,7 +1425,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 3.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 3.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 3.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -1607,12 +1438,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-3-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-3-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1657,15 +1484,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «روٹی»):",
-          "acceptedAnswers": [
-            "روٹی",
-            "روٹی"
-          ],
-          "explanation": "The target keyword was: 【روٹی】"
         }
       ]
     }
@@ -1679,7 +1497,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 3.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 3.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 3.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -1692,12 +1510,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-3-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-3-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1742,15 +1556,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «چاول»):",
-          "acceptedAnswers": [
-            "چاول",
-            "چاول"
-          ],
-          "explanation": "The target keyword was: 【چاول】"
         }
       ]
     }
@@ -1764,7 +1569,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 4.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 4.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 4.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -1777,12 +1582,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-4-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-4-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1827,15 +1628,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «سالن»):",
-          "acceptedAnswers": [
-            "سالن",
-            "سالن"
-          ],
-          "explanation": "The target keyword was: 【سالن】"
         }
       ]
     }
@@ -1849,7 +1641,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 4.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 4.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 4.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -1862,12 +1654,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-4-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-4-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1912,15 +1700,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «سبزی»):",
-          "acceptedAnswers": [
-            "سبزی",
-            "سبزی"
-          ],
-          "explanation": "The target keyword was: 【سبزی】"
         }
       ]
     }
@@ -1934,7 +1713,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 4.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 4.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 4.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -1947,12 +1726,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-4-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-4-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1997,15 +1772,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «پھل»):",
-          "acceptedAnswers": [
-            "پھل",
-            "پھل"
-          ],
-          "explanation": "The target keyword was: 【پھل】"
         }
       ]
     }
@@ -2019,7 +1785,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 4.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 4.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 4.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -2032,12 +1798,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-4-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-4-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2082,15 +1844,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «مٹھائی»):",
-          "acceptedAnswers": [
-            "مٹھائی",
-            "مٹھائی"
-          ],
-          "explanation": "The target keyword was: 【مٹھائی】"
         }
       ]
     }
@@ -2104,7 +1857,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 4.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 4.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 4.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -2117,12 +1870,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-4-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-4-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2167,15 +1916,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «بریانی»):",
-          "acceptedAnswers": [
-            "بریانی",
-            "بریانی"
-          ],
-          "explanation": "The target keyword was: 【بریانی】"
         }
       ]
     }
@@ -2189,7 +1929,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 5.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 5.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 5.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -2202,12 +1942,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-5-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-5-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2252,15 +1988,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «گاڑی»):",
-          "acceptedAnswers": [
-            "گاڑی",
-            "گاڑی"
-          ],
-          "explanation": "The target keyword was: 【گاڑی】"
         }
       ]
     }
@@ -2274,7 +2001,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 5.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 5.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 5.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -2287,12 +2014,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-5-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-5-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2337,15 +2060,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «بس»):",
-          "acceptedAnswers": [
-            "بس",
-            "بس"
-          ],
-          "explanation": "The target keyword was: 【بس】"
         }
       ]
     }
@@ -2359,7 +2073,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 5.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 5.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 5.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -2372,12 +2086,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-5-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-5-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2422,15 +2132,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «ریل گاڑی»):",
-          "acceptedAnswers": [
-            "ریل گاڑی",
-            "ریل گاڑی"
-          ],
-          "explanation": "The target keyword was: 【ریل گاڑی】"
         }
       ]
     }
@@ -2444,7 +2145,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 5.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 5.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 5.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -2457,12 +2158,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-5-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-5-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2507,15 +2204,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «طیارہ»):",
-          "acceptedAnswers": [
-            "طیارہ",
-            "طیارہ"
-          ],
-          "explanation": "The target keyword was: 【طیارہ】"
         }
       ]
     }
@@ -2529,7 +2217,7 @@
     "level": "A1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 5.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 5.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 5.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -2542,12 +2230,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-5-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-5-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2592,15 +2276,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «میٹرو»):",
-          "acceptedAnswers": [
-            "میٹرو",
-            "میٹرو"
-          ],
-          "explanation": "The target keyword was: 【میٹرو】"
         }
       ]
     }
@@ -2614,7 +2289,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 6.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 6.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 6.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -2627,12 +2302,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-6-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-6-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2677,15 +2348,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «ٹکٹ»):",
-          "acceptedAnswers": [
-            "ٹکٹ",
-            "ٹکٹ"
-          ],
-          "explanation": "The target keyword was: 【ٹکٹ】"
         }
       ]
     }
@@ -2699,7 +2361,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 6.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 6.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 6.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -2712,12 +2374,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-6-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-6-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2762,15 +2420,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «اسٹیشن»):",
-          "acceptedAnswers": [
-            "اسٹیشن",
-            "اسٹیشن"
-          ],
-          "explanation": "The target keyword was: 【اسٹیشن】"
         }
       ]
     }
@@ -2784,7 +2433,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 6.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 6.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 6.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -2797,12 +2446,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-6-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-6-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2847,15 +2492,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «ہوائی اڈہ»):",
-          "acceptedAnswers": [
-            "ہوائی اڈہ",
-            "ہوائی اڈہ"
-          ],
-          "explanation": "The target keyword was: 【ہوائی اڈہ】"
         }
       ]
     }
@@ -2869,7 +2505,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 6.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 6.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 6.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -2882,12 +2518,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-6-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-6-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2932,15 +2564,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «سڑک»):",
-          "acceptedAnswers": [
-            "سڑک",
-            "سڑک"
-          ],
-          "explanation": "The target keyword was: 【سڑک】"
         }
       ]
     }
@@ -2954,7 +2577,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 6.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 6.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 6.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -2967,12 +2590,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-6-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-6-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3017,15 +2636,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «شہر»):",
-          "acceptedAnswers": [
-            "شہر",
-            "شہر"
-          ],
-          "explanation": "The target keyword was: 【شہر】"
         }
       ]
     }
@@ -3039,7 +2649,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 7.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 7.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 7.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -3052,12 +2662,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-7-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-7-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3102,15 +2708,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «دکان»):",
-          "acceptedAnswers": [
-            "دکان",
-            "دکان"
-          ],
-          "explanation": "The target keyword was: 【دکان】"
         }
       ]
     }
@@ -3124,7 +2721,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 7.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 7.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 7.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -3137,12 +2734,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-7-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-7-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3187,15 +2780,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «روپیہ»):",
-          "acceptedAnswers": [
-            "روپیہ",
-            "روپیہ"
-          ],
-          "explanation": "The target keyword was: 【روپیہ】"
         }
       ]
     }
@@ -3209,7 +2793,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 7.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 7.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 7.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -3222,12 +2806,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-7-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-7-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3272,15 +2852,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «پیسہ»):",
-          "acceptedAnswers": [
-            "پیسہ",
-            "پیسہ"
-          ],
-          "explanation": "The target keyword was: 【پیسہ】"
         }
       ]
     }
@@ -3294,7 +2865,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 7.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 7.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 7.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -3307,12 +2878,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-7-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-7-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3357,15 +2924,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «قیمت»):",
-          "acceptedAnswers": [
-            "قیمت",
-            "قیمت"
-          ],
-          "explanation": "The target keyword was: 【قیمت】"
         }
       ]
     }
@@ -3379,7 +2937,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 7.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 7.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 7.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -3392,12 +2950,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-7-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-7-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3442,15 +2996,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «رعایت»):",
-          "acceptedAnswers": [
-            "رعایت",
-            "رعایت"
-          ],
-          "explanation": "The target keyword was: 【رعایت】"
         }
       ]
     }
@@ -3464,7 +3009,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 8.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 8.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 8.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -3477,12 +3022,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-8-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-8-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3527,15 +3068,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «بل»):",
-          "acceptedAnswers": [
-            "بل",
-            "بل"
-          ],
-          "explanation": "The target keyword was: 【بل】"
         }
       ]
     }
@@ -3549,7 +3081,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 8.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 8.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 8.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -3562,12 +3094,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-8-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-8-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3612,15 +3140,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «بازار»):",
-          "acceptedAnswers": [
-            "بازار",
-            "بازار"
-          ],
-          "explanation": "The target keyword was: 【بازار】"
         }
       ]
     }
@@ -3634,7 +3153,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 8.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 8.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 8.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -3647,12 +3166,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-8-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-8-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3697,15 +3212,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «خریداری»):",
-          "acceptedAnswers": [
-            "خریداری",
-            "خریداری"
-          ],
-          "explanation": "The target keyword was: 【خریداری】"
         }
       ]
     }
@@ -3719,7 +3225,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 8.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 8.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 8.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -3732,12 +3238,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-8-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-8-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3782,15 +3284,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «کارڈ»):",
-          "acceptedAnswers": [
-            "کارڈ",
-            "کارڈ"
-          ],
-          "explanation": "The target keyword was: 【کارڈ】"
         }
       ]
     }
@@ -3804,7 +3297,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 8.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 8.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 8.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -3817,12 +3310,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-8-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-8-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3867,15 +3356,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «نقد»):",
-          "acceptedAnswers": [
-            "نقد",
-            "نقد"
-          ],
-          "explanation": "The target keyword was: 【نقد】"
         }
       ]
     }
@@ -3889,7 +3369,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 9.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 9.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 9.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -3902,12 +3382,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-9-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-9-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3952,15 +3428,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «گھر»):",
-          "acceptedAnswers": [
-            "گھر",
-            "گھر"
-          ],
-          "explanation": "The target keyword was: 【گھر】"
         }
       ]
     }
@@ -3974,7 +3441,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 9.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 9.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 9.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -3987,12 +3454,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-9-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-9-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4037,15 +3500,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «کمرہ»):",
-          "acceptedAnswers": [
-            "کمرہ",
-            "کمرہ"
-          ],
-          "explanation": "The target keyword was: 【کمرہ】"
         }
       ]
     }
@@ -4059,7 +3513,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 9.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 9.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 9.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -4072,12 +3526,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-9-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-9-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4122,15 +3572,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «باورچی خانہ»):",
-          "acceptedAnswers": [
-            "باورچی خانہ",
-            "باورچی خانہ"
-          ],
-          "explanation": "The target keyword was: 【باورچی خانہ】"
         }
       ]
     }
@@ -4144,7 +3585,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 9.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 9.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 9.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -4157,12 +3598,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-9-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-9-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4207,15 +3644,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «کھڑکی»):",
-          "acceptedAnswers": [
-            "کھڑکی",
-            "کھڑکی"
-          ],
-          "explanation": "The target keyword was: 【کھڑکی】"
         }
       ]
     }
@@ -4229,7 +3657,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 9.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 9.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 9.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -4242,12 +3670,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-9-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-9-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4292,15 +3716,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «دروازہ»):",
-          "acceptedAnswers": [
-            "دروازہ",
-            "دروازہ"
-          ],
-          "explanation": "The target keyword was: 【دروازہ】"
         }
       ]
     }
@@ -4314,7 +3729,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 10.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 10.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 10.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -4327,12 +3742,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-10-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-10-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4377,15 +3788,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «میز»):",
-          "acceptedAnswers": [
-            "میز",
-            "میز"
-          ],
-          "explanation": "The target keyword was: 【میز】"
         }
       ]
     }
@@ -4399,7 +3801,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 10.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 10.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 10.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -4412,12 +3814,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-10-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-10-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4462,15 +3860,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «کرسی»):",
-          "acceptedAnswers": [
-            "کرسی",
-            "کرسی"
-          ],
-          "explanation": "The target keyword was: 【کرسی】"
         }
       ]
     }
@@ -4484,7 +3873,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 10.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 10.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 10.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -4497,12 +3886,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-10-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-10-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4547,15 +3932,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «بستر»):",
-          "acceptedAnswers": [
-            "بستر",
-            "بستر"
-          ],
-          "explanation": "The target keyword was: 【بستر】"
         }
       ]
     }
@@ -4569,7 +3945,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 10.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 10.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 10.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -4582,12 +3958,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-10-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-10-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4632,15 +4004,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «دیوار»):",
-          "acceptedAnswers": [
-            "دیوار",
-            "دیوار"
-          ],
-          "explanation": "The target keyword was: 【دیوار】"
         }
       ]
     }
@@ -4654,7 +4017,7 @@
     "level": "A2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 10.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 10.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 10.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -4667,12 +4030,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-10-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-10-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4717,15 +4076,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «چھت»):",
-          "acceptedAnswers": [
-            "چھت",
-            "چھت"
-          ],
-          "explanation": "The target keyword was: 【چھت】"
         }
       ]
     }
@@ -4739,7 +4089,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 11.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 11.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 11.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -4752,12 +4102,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-11-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-11-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4802,15 +4148,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «کام»):",
-          "acceptedAnswers": [
-            "کام",
-            "کام"
-          ],
-          "explanation": "The target keyword was: 【کام】"
         }
       ]
     }
@@ -4824,7 +4161,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 11.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 11.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 11.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -4837,12 +4174,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-11-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-11-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4887,15 +4220,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «دفتر»):",
-          "acceptedAnswers": [
-            "دفتر",
-            "دفتر"
-          ],
-          "explanation": "The target keyword was: 【دفتر】"
         }
       ]
     }
@@ -4909,7 +4233,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 11.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 11.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 11.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -4922,12 +4246,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-11-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-11-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4972,15 +4292,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «ساتھی»):",
-          "acceptedAnswers": [
-            "ساتھی",
-            "ساتھی"
-          ],
-          "explanation": "The target keyword was: 【ساتھی】"
         }
       ]
     }
@@ -4994,7 +4305,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 11.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 11.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 11.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -5007,12 +4318,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-11-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-11-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5057,15 +4364,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «افسر»):",
-          "acceptedAnswers": [
-            "افسر",
-            "افسر"
-          ],
-          "explanation": "The target keyword was: 【افسر】"
         }
       ]
     }
@@ -5079,7 +4377,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 11.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 11.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 11.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -5092,12 +4390,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-11-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-11-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5142,15 +4436,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «تنخواہ»):",
-          "acceptedAnswers": [
-            "تنخواہ",
-            "تنخواہ"
-          ],
-          "explanation": "The target keyword was: 【تنخواہ】"
         }
       ]
     }
@@ -5164,7 +4449,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 12.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 12.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 12.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -5177,12 +4462,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-12-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-12-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5227,15 +4508,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «چھٹی»):",
-          "acceptedAnswers": [
-            "چھٹی",
-            "چھٹی"
-          ],
-          "explanation": "The target keyword was: 【چھٹی】"
         }
       ]
     }
@@ -5249,7 +4521,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 12.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 12.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 12.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -5262,12 +4534,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-12-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-12-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5312,15 +4580,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «اجلاس»):",
-          "acceptedAnswers": [
-            "اجلاس",
-            "اجلاس"
-          ],
-          "explanation": "The target keyword was: 【اجلاس】"
         }
       ]
     }
@@ -5334,7 +4593,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 12.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 12.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 12.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -5347,12 +4606,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-12-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-12-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5397,15 +4652,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «منصوبہ»):",
-          "acceptedAnswers": [
-            "منصوبہ",
-            "منصوبہ"
-          ],
-          "explanation": "The target keyword was: 【منصوبہ】"
         }
       ]
     }
@@ -5419,7 +4665,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 12.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 12.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 12.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -5432,12 +4678,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-12-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-12-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5482,15 +4724,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «معاہدہ»):",
-          "acceptedAnswers": [
-            "معاہدہ",
-            "معاہدہ"
-          ],
-          "explanation": "The target keyword was: 【معاہدہ】"
         }
       ]
     }
@@ -5504,7 +4737,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 12.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 12.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 12.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -5517,12 +4750,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-12-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-12-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5567,15 +4796,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «کاروبار»):",
-          "acceptedAnswers": [
-            "کاروبار",
-            "کاروبار"
-          ],
-          "explanation": "The target keyword was: 【کاروبار】"
         }
       ]
     }
@@ -5589,7 +4809,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 13.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 13.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 13.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -5602,12 +4822,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-13-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-13-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5652,15 +4868,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «کتاب»):",
-          "acceptedAnswers": [
-            "کتاب",
-            "کتاب"
-          ],
-          "explanation": "The target keyword was: 【کتاب】"
         }
       ]
     }
@@ -5674,7 +4881,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 13.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 13.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 13.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -5687,12 +4894,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-13-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-13-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5737,15 +4940,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «موسیقی»):",
-          "acceptedAnswers": [
-            "موسیقی",
-            "موسیقی"
-          ],
-          "explanation": "The target keyword was: 【موسیقی】"
         }
       ]
     }
@@ -5759,7 +4953,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 13.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 13.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 13.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -5772,12 +4966,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-13-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-13-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5822,15 +5012,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «فلم»):",
-          "acceptedAnswers": [
-            "فلم",
-            "فلم"
-          ],
-          "explanation": "The target keyword was: 【فلم】"
         }
       ]
     }
@@ -5844,7 +5025,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 13.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 13.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 13.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -5857,12 +5038,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-13-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-13-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5907,15 +5084,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «کھیل»):",
-          "acceptedAnswers": [
-            "کھیل",
-            "کھیل"
-          ],
-          "explanation": "The target keyword was: 【کھیل】"
         }
       ]
     }
@@ -5929,7 +5097,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 13.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 13.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 13.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -5942,12 +5110,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-13-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-13-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5992,15 +5156,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «کرکٹ»):",
-          "acceptedAnswers": [
-            "کرکٹ",
-            "کرکٹ"
-          ],
-          "explanation": "The target keyword was: 【کرکٹ】"
         }
       ]
     }
@@ -6014,7 +5169,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 14.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 14.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 14.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -6027,12 +5182,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-14-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-14-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6077,15 +5228,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «سفر»):",
-          "acceptedAnswers": [
-            "سفر",
-            "سفر"
-          ],
-          "explanation": "The target keyword was: 【سفر】"
         }
       ]
     }
@@ -6099,7 +5241,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 14.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 14.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 14.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -6112,12 +5254,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-14-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-14-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6162,15 +5300,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «شاعری»):",
-          "acceptedAnswers": [
-            "شاعری",
-            "شاعری"
-          ],
-          "explanation": "The target keyword was: 【شاعری】"
         }
       ]
     }
@@ -6184,7 +5313,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 14.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 14.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 14.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -6197,12 +5326,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-14-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-14-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6247,15 +5372,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «مشاعرہ»):",
-          "acceptedAnswers": [
-            "مشاعرہ",
-            "مشاعرہ"
-          ],
-          "explanation": "The target keyword was: 【مشاعرہ】"
         }
       ]
     }
@@ -6269,7 +5385,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 14.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 14.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 14.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -6282,12 +5398,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-14-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-14-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6332,15 +5444,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «ادب»):",
-          "acceptedAnswers": [
-            "ادب",
-            "ادب"
-          ],
-          "explanation": "The target keyword was: 【ادب】"
         }
       ]
     }
@@ -6354,7 +5457,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 14.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 14.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 14.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -6367,12 +5470,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-14-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-14-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6417,15 +5516,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «غزل»):",
-          "acceptedAnswers": [
-            "غزل",
-            "غزل"
-          ],
-          "explanation": "The target keyword was: 【غزل】"
         }
       ]
     }
@@ -6439,7 +5529,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 15.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 15.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 15.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -6452,12 +5542,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-15-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-15-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6502,15 +5588,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «موسم»):",
-          "acceptedAnswers": [
-            "موسم",
-            "موسم"
-          ],
-          "explanation": "The target keyword was: 【موسم】"
         }
       ]
     }
@@ -6524,7 +5601,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 15.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 15.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 15.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -6537,12 +5614,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-15-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-15-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6587,15 +5660,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «سورج»):",
-          "acceptedAnswers": [
-            "سورج",
-            "سورج"
-          ],
-          "explanation": "The target keyword was: 【سورج】"
         }
       ]
     }
@@ -6609,7 +5673,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 15.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 15.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 15.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -6622,12 +5686,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-15-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-15-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6672,15 +5732,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «بارش»):",
-          "acceptedAnswers": [
-            "بارش",
-            "بارش"
-          ],
-          "explanation": "The target keyword was: 【بارش】"
         }
       ]
     }
@@ -6694,7 +5745,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 15.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 15.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 15.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -6707,12 +5758,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-15-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-15-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6757,15 +5804,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «ہوا»):",
-          "acceptedAnswers": [
-            "ہوا",
-            "ہوا"
-          ],
-          "explanation": "The target keyword was: 【ہوا】"
         }
       ]
     }
@@ -6779,7 +5817,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 15.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 15.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 15.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -6792,12 +5830,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-15-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-15-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6842,15 +5876,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «بادل»):",
-          "acceptedAnswers": [
-            "بادل",
-            "بادل"
-          ],
-          "explanation": "The target keyword was: 【بادل】"
         }
       ]
     }
@@ -6864,7 +5889,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 16.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 16.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 16.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -6877,12 +5902,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-16-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-16-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6927,15 +5948,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «گرمی»):",
-          "acceptedAnswers": [
-            "گرمی",
-            "گرمی"
-          ],
-          "explanation": "The target keyword was: 【گرمی】"
         }
       ]
     }
@@ -6949,7 +5961,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 16.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 16.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 16.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -6962,12 +5974,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-16-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-16-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7012,15 +6020,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «سردی»):",
-          "acceptedAnswers": [
-            "سردی",
-            "سردی"
-          ],
-          "explanation": "The target keyword was: 【سردی】"
         }
       ]
     }
@@ -7034,7 +6033,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 16.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 16.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 16.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -7047,12 +6046,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-16-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-16-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7097,15 +6092,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «بہار»):",
-          "acceptedAnswers": [
-            "بہار",
-            "بہار"
-          ],
-          "explanation": "The target keyword was: 【بہار】"
         }
       ]
     }
@@ -7119,7 +6105,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 16.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 16.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 16.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -7132,12 +6118,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-16-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-16-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7182,15 +6164,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «خزاں»):",
-          "acceptedAnswers": [
-            "خزاں",
-            "خزاں"
-          ],
-          "explanation": "The target keyword was: 【خزاں】"
         }
       ]
     }
@@ -7204,7 +6177,7 @@
     "level": "B1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 16.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 16.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 16.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -7217,12 +6190,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-16-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-16-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7267,15 +6236,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «درجہ حرارت»):",
-          "acceptedAnswers": [
-            "درجہ حرارت",
-            "درجہ حرارت"
-          ],
-          "explanation": "The target keyword was: 【درجہ حرارت】"
         }
       ]
     }
@@ -7289,7 +6249,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 17.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 17.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 17.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -7302,12 +6262,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-17-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-17-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7352,15 +6308,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «ڈاکٹر»):",
-          "acceptedAnswers": [
-            "ڈاکٹر",
-            "ڈاکٹر"
-          ],
-          "explanation": "The target keyword was: 【ڈاکٹر】"
         }
       ]
     }
@@ -7374,7 +6321,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 17.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 17.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 17.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -7387,12 +6334,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-17-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-17-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7437,15 +6380,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «دوا»):",
-          "acceptedAnswers": [
-            "دوا",
-            "دوا"
-          ],
-          "explanation": "The target keyword was: 【دوا】"
         }
       ]
     }
@@ -7459,7 +6393,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 17.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 17.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 17.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -7472,12 +6406,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-17-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-17-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7522,15 +6452,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «ہسپتال»):",
-          "acceptedAnswers": [
-            "ہسپتال",
-            "ہسپتال"
-          ],
-          "explanation": "The target keyword was: 【ہسپتال】"
         }
       ]
     }
@@ -7544,7 +6465,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 17.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 17.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 17.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -7557,12 +6478,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-17-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-17-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7607,15 +6524,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «صحت»):",
-          "acceptedAnswers": [
-            "صحت",
-            "صحت"
-          ],
-          "explanation": "The target keyword was: 【صحت】"
         }
       ]
     }
@@ -7629,7 +6537,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 17.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 17.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 17.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -7642,12 +6550,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-17-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-17-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7692,15 +6596,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «علاج»):",
-          "acceptedAnswers": [
-            "علاج",
-            "علاج"
-          ],
-          "explanation": "The target keyword was: 【علاج】"
         }
       ]
     }
@@ -7714,7 +6609,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 18.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 18.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 18.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -7727,12 +6622,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-18-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-18-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7777,15 +6668,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «بخار»):",
-          "acceptedAnswers": [
-            "بخار",
-            "بخار"
-          ],
-          "explanation": "The target keyword was: 【بخار】"
         }
       ]
     }
@@ -7799,7 +6681,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 18.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 18.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 18.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -7812,12 +6694,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-18-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-18-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7862,15 +6740,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «سر درد»):",
-          "acceptedAnswers": [
-            "سر درد",
-            "سر درد"
-          ],
-          "explanation": "The target keyword was: 【سر درد】"
         }
       ]
     }
@@ -7884,7 +6753,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 18.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 18.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 18.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -7897,12 +6766,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-18-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-18-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7947,15 +6812,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «آنکھیں»):",
-          "acceptedAnswers": [
-            "آنکھیں",
-            "آنکھیں"
-          ],
-          "explanation": "The target keyword was: 【آنکھیں】"
         }
       ]
     }
@@ -7969,7 +6825,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 18.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 18.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 18.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -7982,12 +6838,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-18-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-18-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8032,15 +6884,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «ہاتھ»):",
-          "acceptedAnswers": [
-            "ہاتھ",
-            "ہاتھ"
-          ],
-          "explanation": "The target keyword was: 【ہاتھ】"
         }
       ]
     }
@@ -8054,7 +6897,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 18.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 18.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 18.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -8067,12 +6910,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-18-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-18-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8117,15 +6956,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «دل»):",
-          "acceptedAnswers": [
-            "دل",
-            "دل"
-          ],
-          "explanation": "The target keyword was: 【دل】"
         }
       ]
     }
@@ -8139,7 +6969,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 19.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 19.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 19.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -8152,12 +6982,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-19-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-19-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8202,15 +7028,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «خاندان»):",
-          "acceptedAnswers": [
-            "خاندان",
-            "خاندان"
-          ],
-          "explanation": "The target keyword was: 【خاندان】"
         }
       ]
     }
@@ -8224,7 +7041,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 19.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 19.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 19.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -8237,12 +7054,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-19-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-19-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8287,15 +7100,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «والد»):",
-          "acceptedAnswers": [
-            "والد",
-            "والد"
-          ],
-          "explanation": "The target keyword was: 【والد】"
         }
       ]
     }
@@ -8309,7 +7113,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 19.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 19.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 19.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -8322,12 +7126,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-19-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-19-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8372,15 +7172,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «والدہ»):",
-          "acceptedAnswers": [
-            "والدہ",
-            "والدہ"
-          ],
-          "explanation": "The target keyword was: 【والدہ】"
         }
       ]
     }
@@ -8394,7 +7185,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 19.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 19.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 19.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -8407,12 +7198,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-19-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-19-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8457,15 +7244,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «بھائی»):",
-          "acceptedAnswers": [
-            "بھائی",
-            "بھائی"
-          ],
-          "explanation": "The target keyword was: 【بھائی】"
         }
       ]
     }
@@ -8479,7 +7257,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 19.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 19.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 19.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -8492,12 +7270,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-19-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-19-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8542,15 +7316,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «بہن»):",
-          "acceptedAnswers": [
-            "بہن",
-            "بہن"
-          ],
-          "explanation": "The target keyword was: 【بہن】"
         }
       ]
     }
@@ -8564,7 +7329,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 20.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 20.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 20.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -8577,12 +7342,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-20-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-20-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8627,15 +7388,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «دادا»):",
-          "acceptedAnswers": [
-            "دادا",
-            "دادا"
-          ],
-          "explanation": "The target keyword was: 【دادا】"
         }
       ]
     }
@@ -8649,7 +7401,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 20.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 20.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 20.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -8662,12 +7414,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-20-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-20-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8712,15 +7460,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «دادی»):",
-          "acceptedAnswers": [
-            "دادی",
-            "دادی"
-          ],
-          "explanation": "The target keyword was: 【دادی】"
         }
       ]
     }
@@ -8734,7 +7473,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 20.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 20.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 20.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -8747,12 +7486,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-20-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-20-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8797,15 +7532,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «بیٹا»):",
-          "acceptedAnswers": [
-            "بیٹا",
-            "بیٹا"
-          ],
-          "explanation": "The target keyword was: 【بیٹا】"
         }
       ]
     }
@@ -8819,7 +7545,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 20.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 20.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 20.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -8832,12 +7558,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-20-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-20-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8882,15 +7604,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «بیٹی»):",
-          "acceptedAnswers": [
-            "بیٹی",
-            "بیٹی"
-          ],
-          "explanation": "The target keyword was: 【بیٹی】"
         }
       ]
     }
@@ -8904,7 +7617,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 20.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 20.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 20.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -8917,12 +7630,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-20-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-20-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8967,15 +7676,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «دوست»):",
-          "acceptedAnswers": [
-            "دوست",
-            "دوست"
-          ],
-          "explanation": "The target keyword was: 【دوست】"
         }
       ]
     }
@@ -8989,7 +7689,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 21.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 21.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 21.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -9002,12 +7702,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-21-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-21-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9052,15 +7748,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «آج»):",
-          "acceptedAnswers": [
-            "آج",
-            "آج"
-          ],
-          "explanation": "The target keyword was: 【آج】"
         }
       ]
     }
@@ -9074,7 +7761,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 21.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 21.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 21.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -9087,12 +7774,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-21-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-21-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9137,15 +7820,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «کل»):",
-          "acceptedAnswers": [
-            "کل",
-            "کل"
-          ],
-          "explanation": "The target keyword was: 【کل】"
         }
       ]
     }
@@ -9159,7 +7833,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 21.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 21.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 21.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -9172,12 +7846,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-21-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-21-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9222,15 +7892,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «پرسوں»):",
-          "acceptedAnswers": [
-            "پرسوں",
-            "پرسوں"
-          ],
-          "explanation": "The target keyword was: 【پرسوں】"
         }
       ]
     }
@@ -9244,7 +7905,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 21.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 21.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 21.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -9257,12 +7918,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-21-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-21-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9307,15 +7964,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «صبح»):",
-          "acceptedAnswers": [
-            "صبح",
-            "صبح"
-          ],
-          "explanation": "The target keyword was: 【صبح】"
         }
       ]
     }
@@ -9329,7 +7977,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 21.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 21.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 21.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -9342,12 +7990,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-21-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-21-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9392,15 +8036,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «دوپہر»):",
-          "acceptedAnswers": [
-            "دوپہر",
-            "دوپہر"
-          ],
-          "explanation": "The target keyword was: 【دوپہر】"
         }
       ]
     }
@@ -9414,7 +8049,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 22.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 22.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 22.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -9427,12 +8062,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-22-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-22-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9477,15 +8108,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «شام»):",
-          "acceptedAnswers": [
-            "شام",
-            "شام"
-          ],
-          "explanation": "The target keyword was: 【شام】"
         }
       ]
     }
@@ -9499,7 +8121,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 22.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 22.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 22.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -9512,12 +8134,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-22-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-22-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9562,15 +8180,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «رات»):",
-          "acceptedAnswers": [
-            "رات",
-            "رات"
-          ],
-          "explanation": "The target keyword was: 【رات】"
         }
       ]
     }
@@ -9584,7 +8193,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 22.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 22.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 22.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -9597,12 +8206,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-22-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-22-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9647,15 +8252,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «ہفتہ»):",
-          "acceptedAnswers": [
-            "ہفتہ",
-            "ہفتہ"
-          ],
-          "explanation": "The target keyword was: 【ہفتہ】"
         }
       ]
     }
@@ -9669,7 +8265,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 22.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 22.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 22.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -9682,12 +8278,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-22-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-22-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9732,15 +8324,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «مہینہ»):",
-          "acceptedAnswers": [
-            "مہینہ",
-            "مہینہ"
-          ],
-          "explanation": "The target keyword was: 【مہینہ】"
         }
       ]
     }
@@ -9754,7 +8337,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 22.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 22.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 22.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -9767,12 +8350,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-22-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-22-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9817,15 +8396,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «سال»):",
-          "acceptedAnswers": [
-            "سال",
-            "سال"
-          ],
-          "explanation": "The target keyword was: 【سال】"
         }
       ]
     }
@@ -9839,7 +8409,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 23.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 23.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 23.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -9852,12 +8422,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-23-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-23-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9902,15 +8468,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «سرخ»):",
-          "acceptedAnswers": [
-            "سرخ",
-            "سرخ"
-          ],
-          "explanation": "The target keyword was: 【سرخ】"
         }
       ]
     }
@@ -9924,7 +8481,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 23.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 23.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 23.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -9937,12 +8494,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-23-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-23-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9987,15 +8540,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «نیلا»):",
-          "acceptedAnswers": [
-            "نیلا",
-            "نیلا"
-          ],
-          "explanation": "The target keyword was: 【نیلا】"
         }
       ]
     }
@@ -10009,7 +8553,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 23.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 23.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 23.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -10022,12 +8566,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-23-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-23-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10072,15 +8612,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «پیلا»):",
-          "acceptedAnswers": [
-            "پیلا",
-            "پیلا"
-          ],
-          "explanation": "The target keyword was: 【پیلا】"
         }
       ]
     }
@@ -10094,7 +8625,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 23.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 23.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 23.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -10107,12 +8638,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-23-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-23-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10157,15 +8684,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «سبز»):",
-          "acceptedAnswers": [
-            "سبز",
-            "سبز"
-          ],
-          "explanation": "The target keyword was: 【سبز】"
         }
       ]
     }
@@ -10179,7 +8697,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 23.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 23.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 23.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -10192,12 +8710,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-23-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-23-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10242,15 +8756,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «سفید»):",
-          "acceptedAnswers": [
-            "سفید",
-            "سفید"
-          ],
-          "explanation": "The target keyword was: 【سفید】"
         }
       ]
     }
@@ -10264,7 +8769,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 24.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 24.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 24.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -10277,12 +8782,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-24-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-24-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10327,15 +8828,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «سیاہ»):",
-          "acceptedAnswers": [
-            "سیاہ",
-            "سیاہ"
-          ],
-          "explanation": "The target keyword was: 【سیاہ】"
         }
       ]
     }
@@ -10349,7 +8841,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 24.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 24.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 24.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -10362,12 +8854,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-24-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-24-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10412,15 +8900,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «بھورا»):",
-          "acceptedAnswers": [
-            "بھورا",
-            "بھورا"
-          ],
-          "explanation": "The target keyword was: 【بھورا】"
         }
       ]
     }
@@ -10434,7 +8913,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 24.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 24.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 24.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -10447,12 +8926,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-24-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-24-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10497,15 +8972,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «گلابی»):",
-          "acceptedAnswers": [
-            "گلابی",
-            "گلابی"
-          ],
-          "explanation": "The target keyword was: 【گلابی】"
         }
       ]
     }
@@ -10519,7 +8985,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 24.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 24.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 24.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -10532,12 +8998,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-24-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-24-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10582,15 +9044,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «جامنی»):",
-          "acceptedAnswers": [
-            "جامنی",
-            "جامنی"
-          ],
-          "explanation": "The target keyword was: 【جامنی】"
         }
       ]
     }
@@ -10604,7 +9057,7 @@
     "level": "B2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 24.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 24.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 24.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -10617,12 +9070,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-24-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-24-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10667,15 +9116,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «نارنجی»):",
-          "acceptedAnswers": [
-            "نارنجی",
-            "نارنجی"
-          ],
-          "explanation": "The target keyword was: 【نارنجی】"
         }
       ]
     }
@@ -10689,7 +9129,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 25.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 25.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 25.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -10702,12 +9142,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-25-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-25-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10752,15 +9188,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «بڑا»):",
-          "acceptedAnswers": [
-            "بڑا",
-            "بڑا"
-          ],
-          "explanation": "The target keyword was: 【بڑا】"
         }
       ]
     }
@@ -10774,7 +9201,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 25.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 25.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 25.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -10787,12 +9214,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-25-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-25-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10837,15 +9260,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «چھوٹا»):",
-          "acceptedAnswers": [
-            "چھوٹا",
-            "چھوٹا"
-          ],
-          "explanation": "The target keyword was: 【چھوٹا】"
         }
       ]
     }
@@ -10859,7 +9273,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 25.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 25.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 25.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -10872,12 +9286,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-25-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-25-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10922,15 +9332,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «لمبا»):",
-          "acceptedAnswers": [
-            "لمبا",
-            "لمبا"
-          ],
-          "explanation": "The target keyword was: 【لمبا】"
         }
       ]
     }
@@ -10944,7 +9345,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 25.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 25.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 25.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -10957,12 +9358,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-25-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-25-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11007,15 +9404,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «پستہ»):",
-          "acceptedAnswers": [
-            "پستہ",
-            "پستہ"
-          ],
-          "explanation": "The target keyword was: 【پستہ】"
         }
       ]
     }
@@ -11029,7 +9417,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 25.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 25.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 25.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -11042,12 +9430,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-25-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-25-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11092,15 +9476,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «تیز»):",
-          "acceptedAnswers": [
-            "تیز",
-            "تیز"
-          ],
-          "explanation": "The target keyword was: 【تیز】"
         }
       ]
     }
@@ -11114,7 +9489,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 26.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 26.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 26.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -11127,12 +9502,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-26-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-26-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11177,15 +9548,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «آہستہ»):",
-          "acceptedAnswers": [
-            "آہستہ",
-            "آہستہ"
-          ],
-          "explanation": "The target keyword was: 【آہستہ】"
         }
       ]
     }
@@ -11199,7 +9561,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 26.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 26.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 26.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -11212,12 +9574,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-26-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-26-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11262,15 +9620,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «نیا»):",
-          "acceptedAnswers": [
-            "نیا",
-            "نیا"
-          ],
-          "explanation": "The target keyword was: 【نیا】"
         }
       ]
     }
@@ -11284,7 +9633,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 26.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 26.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 26.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -11297,12 +9646,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-26-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-26-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11347,15 +9692,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «پرانا»):",
-          "acceptedAnswers": [
-            "پرانا",
-            "پرانا"
-          ],
-          "explanation": "The target keyword was: 【پرانا】"
         }
       ]
     }
@@ -11369,7 +9705,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 26.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 26.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 26.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -11382,12 +9718,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-26-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-26-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11432,15 +9764,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «اچھا»):",
-          "acceptedAnswers": [
-            "اچھا",
-            "اچھا"
-          ],
-          "explanation": "The target keyword was: 【اچھا】"
         }
       ]
     }
@@ -11454,7 +9777,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 26.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 26.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 26.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -11467,12 +9790,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-26-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-26-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11517,15 +9836,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «خوبصورت»):",
-          "acceptedAnswers": [
-            "خوبصورت",
-            "خوبصورت"
-          ],
-          "explanation": "The target keyword was: 【خوبصورت】"
         }
       ]
     }
@@ -11539,7 +9849,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 27.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 27.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 27.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -11552,12 +9862,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-27-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-27-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11602,15 +9908,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «سمجھنا»):",
-          "acceptedAnswers": [
-            "سمجھنا",
-            "سمجھنا"
-          ],
-          "explanation": "The target keyword was: 【سمجھنا】"
         }
       ]
     }
@@ -11624,7 +9921,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 27.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 27.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 27.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -11637,12 +9934,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-27-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-27-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11687,15 +9980,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «جاننا»):",
-          "acceptedAnswers": [
-            "جاننا",
-            "جاننا"
-          ],
-          "explanation": "The target keyword was: 【جاننا】"
         }
       ]
     }
@@ -11709,7 +9993,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 27.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 27.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 27.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -11722,12 +10006,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-27-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-27-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11772,15 +10052,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «سوچنا»):",
-          "acceptedAnswers": [
-            "سوچنا",
-            "سوچنا"
-          ],
-          "explanation": "The target keyword was: 【سوچنا】"
         }
       ]
     }
@@ -11794,7 +10065,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 27.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 27.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 27.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -11807,12 +10078,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-27-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-27-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11857,15 +10124,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «یاد رکھنا»):",
-          "acceptedAnswers": [
-            "یاد رکھنا",
-            "یاد رکھنا"
-          ],
-          "explanation": "The target keyword was: 【یاد رکھنا】"
         }
       ]
     }
@@ -11879,7 +10137,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 27.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 27.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 27.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -11892,12 +10150,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-27-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-27-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11942,15 +10196,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «بولنا»):",
-          "acceptedAnswers": [
-            "بولنا",
-            "بولنا"
-          ],
-          "explanation": "The target keyword was: 【بولنا】"
         }
       ]
     }
@@ -11964,7 +10209,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 28.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 28.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 28.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -11977,12 +10222,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-28-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-28-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12027,15 +10268,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «پڑھنا»):",
-          "acceptedAnswers": [
-            "پڑھنا",
-            "پڑھنا"
-          ],
-          "explanation": "The target keyword was: 【پڑھنا】"
         }
       ]
     }
@@ -12049,7 +10281,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 28.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 28.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 28.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -12062,12 +10294,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-28-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-28-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12112,15 +10340,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «لکھنا»):",
-          "acceptedAnswers": [
-            "لکھنا",
-            "لکھنا"
-          ],
-          "explanation": "The target keyword was: 【لکھنا】"
         }
       ]
     }
@@ -12134,7 +10353,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 28.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 28.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 28.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -12147,12 +10366,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-28-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-28-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12197,15 +10412,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «سننا»):",
-          "acceptedAnswers": [
-            "سننا",
-            "سننا"
-          ],
-          "explanation": "The target keyword was: 【سننا】"
         }
       ]
     }
@@ -12219,7 +10425,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 28.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 28.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 28.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -12232,12 +10438,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-28-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-28-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12282,15 +10484,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «دیکھنا»):",
-          "acceptedAnswers": [
-            "دیکھنا",
-            "دیکھنا"
-          ],
-          "explanation": "The target keyword was: 【دیکھنا】"
         }
       ]
     }
@@ -12304,7 +10497,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 28.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 28.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 28.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -12317,12 +10510,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-28-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-28-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12367,15 +10556,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «چاہنا»):",
-          "acceptedAnswers": [
-            "چاہنا",
-            "چاہنا"
-          ],
-          "explanation": "The target keyword was: 【چاہنا】"
         }
       ]
     }
@@ -12389,7 +10569,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 29.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 29.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 29.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -12402,12 +10582,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-29-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-29-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12452,15 +10628,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «اسکول»):",
-          "acceptedAnswers": [
-            "اسکول",
-            "اسکول"
-          ],
-          "explanation": "The target keyword was: 【اسکول】"
         }
       ]
     }
@@ -12474,7 +10641,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 29.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 29.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 29.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -12487,12 +10654,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-29-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-29-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12537,15 +10700,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «کالج»):",
-          "acceptedAnswers": [
-            "کالج",
-            "کالج"
-          ],
-          "explanation": "The target keyword was: 【کالج】"
         }
       ]
     }
@@ -12559,7 +10713,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 29.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 29.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 29.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -12572,12 +10726,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-29-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-29-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12622,15 +10772,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «استاد»):",
-          "acceptedAnswers": [
-            "استاد",
-            "استاد"
-          ],
-          "explanation": "The target keyword was: 【استاد】"
         }
       ]
     }
@@ -12644,7 +10785,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 29.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 29.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 29.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -12657,12 +10798,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-29-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-29-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12707,15 +10844,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «طالب علم»):",
-          "acceptedAnswers": [
-            "طالب علم",
-            "طالب علم"
-          ],
-          "explanation": "The target keyword was: 【طالب علم】"
         }
       ]
     }
@@ -12729,7 +10857,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 29.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 29.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 29.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -12742,12 +10870,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-29-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-29-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12792,15 +10916,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «سبق»):",
-          "acceptedAnswers": [
-            "سبق",
-            "سبق"
-          ],
-          "explanation": "The target keyword was: 【سبق】"
         }
       ]
     }
@@ -12814,7 +10929,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 30.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 30.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 30.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -12827,12 +10942,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-30-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-30-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12877,15 +10988,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «امتحان»):",
-          "acceptedAnswers": [
-            "امتحان",
-            "امتحان"
-          ],
-          "explanation": "The target keyword was: 【امتحان】"
         }
       ]
     }
@@ -12899,7 +11001,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 30.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 30.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 30.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -12912,12 +11014,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-30-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-30-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12962,15 +11060,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «نتیجہ»):",
-          "acceptedAnswers": [
-            "نتیجہ",
-            "نتیجہ"
-          ],
-          "explanation": "The target keyword was: 【نتیجہ】"
         }
       ]
     }
@@ -12984,7 +11073,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 30.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 30.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 30.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -12997,12 +11086,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-30-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-30-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13047,15 +11132,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «لائبریری»):",
-          "acceptedAnswers": [
-            "لائبریری",
-            "لائبریری"
-          ],
-          "explanation": "The target keyword was: 【لائبریری】"
         }
       ]
     }
@@ -13069,7 +11145,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 30.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 30.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 30.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -13082,12 +11158,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-30-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-30-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13132,15 +11204,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «ڈگری»):",
-          "acceptedAnswers": [
-            "ڈگری",
-            "ڈگری"
-          ],
-          "explanation": "The target keyword was: 【ڈگری】"
         }
       ]
     }
@@ -13154,7 +11217,7 @@
     "level": "C1",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 30.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 30.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 30.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -13167,12 +11230,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-30-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-30-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13217,15 +11276,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «قلم»):",
-          "acceptedAnswers": [
-            "قلم",
-            "قلم"
-          ],
-          "explanation": "The target keyword was: 【قلم】"
         }
       ]
     }
@@ -13239,7 +11289,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 31.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 31.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 31.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -13252,12 +11302,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-31-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-31-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13302,15 +11348,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «بینک»):",
-          "acceptedAnswers": [
-            "بینک",
-            "بینک"
-          ],
-          "explanation": "The target keyword was: 【بینک】"
         }
       ]
     }
@@ -13324,7 +11361,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 31.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 31.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 31.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -13337,12 +11374,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-31-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-31-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13387,15 +11420,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «کھاتہ»):",
-          "acceptedAnswers": [
-            "کھاتہ",
-            "کھاتہ"
-          ],
-          "explanation": "The target keyword was: 【کھاتہ】"
         }
       ]
     }
@@ -13409,7 +11433,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 31.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 31.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 31.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -13422,12 +11446,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-31-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-31-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13472,15 +11492,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «قرض»):",
-          "acceptedAnswers": [
-            "قرض",
-            "قرض"
-          ],
-          "explanation": "The target keyword was: 【قرض】"
         }
       ]
     }
@@ -13494,7 +11505,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 31.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 31.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 31.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -13507,12 +11518,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-31-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-31-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13557,15 +11564,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «سود»):",
-          "acceptedAnswers": [
-            "سود",
-            "سود"
-          ],
-          "explanation": "The target keyword was: 【سود】"
         }
       ]
     }
@@ -13579,7 +11577,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 31.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 31.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 31.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -13592,12 +11590,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-31-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-31-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13642,15 +11636,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «ٹیکس»):",
-          "acceptedAnswers": [
-            "ٹیکس",
-            "ٹیکس"
-          ],
-          "explanation": "The target keyword was: 【ٹیکس】"
         }
       ]
     }
@@ -13664,7 +11649,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 32.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 32.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 32.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -13677,12 +11662,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-32-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-32-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13727,15 +11708,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «تجارت»):",
-          "acceptedAnswers": [
-            "تجارت",
-            "تجارت"
-          ],
-          "explanation": "The target keyword was: 【تجارت】"
         }
       ]
     }
@@ -13749,7 +11721,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 32.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 32.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 32.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -13762,12 +11734,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-32-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-32-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13812,15 +11780,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «دستاویز»):",
-          "acceptedAnswers": [
-            "دستاویز",
-            "دستاویز"
-          ],
-          "explanation": "The target keyword was: 【دستاویز】"
         }
       ]
     }
@@ -13834,7 +11793,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 32.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 32.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 32.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -13847,12 +11806,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-32-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-32-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13897,15 +11852,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «دستخط»):",
-          "acceptedAnswers": [
-            "دستخط",
-            "دستخط"
-          ],
-          "explanation": "The target keyword was: 【دستخط】"
         }
       ]
     }
@@ -13919,7 +11865,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 32.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 32.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 32.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -13932,12 +11878,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-32-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-32-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13982,15 +11924,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «اصول»):",
-          "acceptedAnswers": [
-            "اصول",
-            "اصول"
-          ],
-          "explanation": "The target keyword was: 【اصول】"
         }
       ]
     }
@@ -14004,7 +11937,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 32.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 32.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 32.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -14017,12 +11950,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-32-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-32-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14067,15 +11996,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «قانون»):",
-          "acceptedAnswers": [
-            "قانون",
-            "قانون"
-          ],
-          "explanation": "The target keyword was: 【قانون】"
         }
       ]
     }
@@ -14089,7 +12009,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 33.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 33.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 33.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -14102,12 +12022,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-33-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-33-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14152,15 +12068,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «عدالت»):",
-          "acceptedAnswers": [
-            "عدالت",
-            "عدالت"
-          ],
-          "explanation": "The target keyword was: 【عدالت】"
         }
       ]
     }
@@ -14174,7 +12081,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 33.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 33.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 33.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -14187,12 +12094,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-33-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-33-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14237,15 +12140,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «جج»):",
-          "acceptedAnswers": [
-            "جج",
-            "جج"
-          ],
-          "explanation": "The target keyword was: 【جج】"
         }
       ]
     }
@@ -14259,7 +12153,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 33.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 33.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 33.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -14272,12 +12166,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-33-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-33-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14322,15 +12212,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «وکیل»):",
-          "acceptedAnswers": [
-            "وکیل",
-            "وکیل"
-          ],
-          "explanation": "The target keyword was: 【وکیل】"
         }
       ]
     }
@@ -14344,7 +12225,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 33.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 33.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 33.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -14357,12 +12238,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-33-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-33-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14407,15 +12284,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «حقوق»):",
-          "acceptedAnswers": [
-            "حقوق",
-            "حقوق"
-          ],
-          "explanation": "The target keyword was: 【حقوق】"
         }
       ]
     }
@@ -14429,7 +12297,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 33.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 33.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 33.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -14442,12 +12310,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-33-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-33-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14492,15 +12356,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «انصاف»):",
-          "acceptedAnswers": [
-            "انصاف",
-            "انصاف"
-          ],
-          "explanation": "The target keyword was: 【انصاف】"
         }
       ]
     }
@@ -14514,7 +12369,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 34.1) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 34.1)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 34.1)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -14527,12 +12382,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-34-1】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-34-1】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14577,15 +12428,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «گواہ»):",
-          "acceptedAnswers": [
-            "گواہ",
-            "گواہ"
-          ],
-          "explanation": "The target keyword was: 【گواہ】"
         }
       ]
     }
@@ -14599,7 +12441,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 34.2) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 34.2)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 34.2)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -14612,12 +12454,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-34-2】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-34-2】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14662,15 +12500,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «فیصلہ»):",
-          "acceptedAnswers": [
-            "فیصلہ",
-            "فیصلہ"
-          ],
-          "explanation": "The target keyword was: 【فیصلہ】"
         }
       ]
     }
@@ -14684,7 +12513,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 34.3) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 34.3)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 34.3)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -14697,12 +12526,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-34-3】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-34-3】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14747,15 +12572,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «آئین»):",
-          "acceptedAnswers": [
-            "آئین",
-            "آئین"
-          ],
-          "explanation": "The target keyword was: 【آئین】"
         }
       ]
     }
@@ -14769,7 +12585,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 34.4) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 34.4)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 34.4)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -14782,12 +12598,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-34-4】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-34-4】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14832,15 +12644,6 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «حکومت»):",
-          "acceptedAnswers": [
-            "حکومت",
-            "حکومت"
-          ],
-          "explanation": "The target keyword was: 【حکومت】"
         }
       ]
     }
@@ -14854,7 +12657,7 @@
     "level": "C2",
     "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 34.5) with authentic precision.",
     "presentation": {
-      "explanation": "【اردو قواعد و فصاحت و بلاغت (سبق 34.5)】\nاردو زبان اپنے شائستہ اسلوب، خوبصورت نستعلیق رسم الخط، اضافت کے نظام اور احترام کے مراتب (آپ، جناب، حضور) کے باعث ممتاز حیثیت رکھتی ہے۔\n\n1. نحوی اور ساختیاتی وضاحت:\nاس سبق میں «اردو قواعد و فصاحت و بلاغت (سبق 34.5)» کے تحت جملے کی ترتیب (فاعل-مفعول-فعل)، علاماتِ مفعول اور فاعلی لاحقہ 'نے' کے اصولوں کو واضح کیا گیا ہے۔\n\n2. صوتیات اور تلفظ کی باریکیاں:\nحروفِ حلقی (ق، خ، غ، ح) اور مرکب ہکاری آوازوں (بھ، پھ، تھ، دھ) کے درست مخرج کی مشق کیجیے۔\n\n3. ادبی و تہذیبی قرینہ:\nمجلس اور مکالمے میں تکلف، احترام اور انکساری کا مظاہرہ اردو گفتگو کا خاص وصف ہے۔",
+      "explanation": "",
       "examples": [
         {
           "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
@@ -14867,12 +12670,8 @@
           "translation": "Please observe the word arrangement and izafat in this sentence."
         }
       ],
-      "mnemonics": [
-        "【یاد رکھنے کا نکتہ URD-34-5】：‘اردو قواعد’ کے بنیادی اصول اور شائستہ افعال کو ذہن نشین کیجیے۔"
-      ],
-      "culturalNotes": [
-        "【تہذیبی روایت URD-34-5】：اردو معاشرت میں آدابِ محفل اور گفتگو میں شائستگی کو شخصیت کا بہترین جوہر مانا جاتا ہے۔"
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14917,23 +12716,17 @@
           ],
           "answerIndex": 0,
           "explanation": "The sentence accurately implements all grammatical constraints."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target keyword practiced in this lesson (target: «آزادی»):",
-          "acceptedAnswers": [
-            "آزادی",
-            "آزادی"
-          ],
-          "explanation": "The target keyword was: 【آزادی】"
         }
       ]
     }
   }
 };
-  var ROADMAP = [];
-  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
+  var CURRICULUM = {
+    subject: 'urdu',
+    units: UNITS,
+    lessons: LESSONS
+  };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['urdu'] = SUBJECT;
-  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
+  global.FEARN_CURRICULA['urdu'] = CURRICULUM;
+  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
 })(typeof window !== 'undefined' ? window : global);

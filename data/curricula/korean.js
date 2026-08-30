@@ -1,4 +1,4 @@
-// korean curriculum — fully authored CEFR A1-C2 roadmap (34 units, 170 lessons)
+// korean curriculum
 (function (global) {
   'use strict';
   var UNITS = [
@@ -507,12 +507,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U1-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U1-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -554,14 +550,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («안녕하세요»):",
-          "acceptedAnswers": [
-            "안녕하세요"
-          ],
-          "explanation": "The target keyword was: 【안녕하세요】"
         }
       ]
     }
@@ -593,12 +581,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U1-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U1-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -640,14 +624,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («감사합니다»):",
-          "acceptedAnswers": [
-            "감사합니다"
-          ],
-          "explanation": "The target keyword was: 【감사합니다】"
         }
       ]
     }
@@ -679,12 +655,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U1-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U1-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -726,14 +698,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («안녕히»):",
-          "acceptedAnswers": [
-            "안녕히"
-          ],
-          "explanation": "The target keyword was: 【안녕히】"
         }
       ]
     }
@@ -765,12 +729,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U1-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U1-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -812,14 +772,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («반갑습니다»):",
-          "acceptedAnswers": [
-            "반갑습니다"
-          ],
-          "explanation": "The target keyword was: 【반갑습니다】"
         }
       ]
     }
@@ -851,12 +803,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U1-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U1-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -898,14 +846,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («죄송합니다»):",
-          "acceptedAnswers": [
-            "죄송합니다"
-          ],
-          "explanation": "The target keyword was: 【죄송합니다】"
         }
       ]
     }
@@ -937,12 +877,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U2-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U2-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -984,14 +920,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («저는»):",
-          "acceptedAnswers": [
-            "저는"
-          ],
-          "explanation": "The target keyword was: 【저는】"
         }
       ]
     }
@@ -1023,12 +951,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U2-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U2-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1070,14 +994,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («학생은»):",
-          "acceptedAnswers": [
-            "학생은"
-          ],
-          "explanation": "The target keyword was: 【학생은】"
         }
       ]
     }
@@ -1109,12 +1025,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U2-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U2-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1156,14 +1068,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («선생님이»):",
-          "acceptedAnswers": [
-            "선생님이"
-          ],
-          "explanation": "The target keyword was: 【선생님이】"
         }
       ]
     }
@@ -1195,12 +1099,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U2-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U2-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1242,14 +1142,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («친구가»):",
-          "acceptedAnswers": [
-            "친구가"
-          ],
-          "explanation": "The target keyword was: 【친구가】"
         }
       ]
     }
@@ -1281,12 +1173,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U2-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U2-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1328,14 +1216,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («도서관은»):",
-          "acceptedAnswers": [
-            "도서관은"
-          ],
-          "explanation": "The target keyword was: 【도서관은】"
         }
       ]
     }
@@ -1367,12 +1247,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U3-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U3-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1414,14 +1290,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («책을»):",
-          "acceptedAnswers": [
-            "책을"
-          ],
-          "explanation": "The target keyword was: 【책을】"
         }
       ]
     }
@@ -1453,12 +1321,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U3-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U3-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1500,14 +1364,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («사과를»):",
-          "acceptedAnswers": [
-            "사과를"
-          ],
-          "explanation": "The target keyword was: 【사과를】"
         }
       ]
     }
@@ -1539,12 +1395,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U3-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U3-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1586,14 +1438,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («한국어를»):",
-          "acceptedAnswers": [
-            "한국어를"
-          ],
-          "explanation": "The target keyword was: 【한국어를】"
         }
       ]
     }
@@ -1625,12 +1469,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U3-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U3-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1672,14 +1512,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («음악을»):",
-          "acceptedAnswers": [
-            "음악을"
-          ],
-          "explanation": "The target keyword was: 【음악을】"
         }
       ]
     }
@@ -1711,12 +1543,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U3-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U3-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1758,14 +1586,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («영화를»):",
-          "acceptedAnswers": [
-            "영화를"
-          ],
-          "explanation": "The target keyword was: 【영화를】"
         }
       ]
     }
@@ -1797,12 +1617,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U4-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U4-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1844,14 +1660,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («가요»):",
-          "acceptedAnswers": [
-            "가요"
-          ],
-          "explanation": "The target keyword was: 【가요】"
         }
       ]
     }
@@ -1883,12 +1691,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U4-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U4-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -1930,14 +1734,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («먹어요»):",
-          "acceptedAnswers": [
-            "먹어요"
-          ],
-          "explanation": "The target keyword was: 【먹어요】"
         }
       ]
     }
@@ -1969,12 +1765,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U4-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U4-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2016,14 +1808,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («봐요»):",
-          "acceptedAnswers": [
-            "봐요"
-          ],
-          "explanation": "The target keyword was: 【봐요】"
         }
       ]
     }
@@ -2055,12 +1839,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U4-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U4-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2102,14 +1882,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («공부해요»):",
-          "acceptedAnswers": [
-            "공부해요"
-          ],
-          "explanation": "The target keyword was: 【공부해요】"
         }
       ]
     }
@@ -2141,12 +1913,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U4-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U4-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2188,14 +1956,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («쉬어요»):",
-          "acceptedAnswers": [
-            "쉬어요"
-          ],
-          "explanation": "The target keyword was: 【쉬어요】"
         }
       ]
     }
@@ -2227,12 +1987,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U5-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U5-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2274,14 +2030,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («갑니다»):",
-          "acceptedAnswers": [
-            "갑니다"
-          ],
-          "explanation": "The target keyword was: 【갑니다】"
         }
       ]
     }
@@ -2313,12 +2061,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U5-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U5-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2360,14 +2104,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («먹습니다»):",
-          "acceptedAnswers": [
-            "먹습니다"
-          ],
-          "explanation": "The target keyword was: 【먹습니다】"
         }
       ]
     }
@@ -2399,12 +2135,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U5-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U5-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2446,14 +2178,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («합니다»):",
-          "acceptedAnswers": [
-            "합니다"
-          ],
-          "explanation": "The target keyword was: 【합니다】"
         }
       ]
     }
@@ -2485,12 +2209,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U5-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U5-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2532,14 +2252,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («만납니다»):",
-          "acceptedAnswers": [
-            "만납니다"
-          ],
-          "explanation": "The target keyword was: 【만납니다】"
         }
       ]
     }
@@ -2571,12 +2283,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U5-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U5-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2618,14 +2326,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR A1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («읽습니다»):",
-          "acceptedAnswers": [
-            "읽습니다"
-          ],
-          "explanation": "The target keyword was: 【읽습니다】"
         }
       ]
     }
@@ -2657,12 +2357,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U6-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U6-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2704,14 +2400,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («갔어요»):",
-          "acceptedAnswers": [
-            "갔어요"
-          ],
-          "explanation": "The target keyword was: 【갔어요】"
         }
       ]
     }
@@ -2743,12 +2431,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U6-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U6-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2790,14 +2474,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («왔어요»):",
-          "acceptedAnswers": [
-            "왔어요"
-          ],
-          "explanation": "The target keyword was: 【왔어요】"
         }
       ]
     }
@@ -2829,12 +2505,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U6-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U6-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2876,14 +2548,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («보았어요»):",
-          "acceptedAnswers": [
-            "보았어요"
-          ],
-          "explanation": "The target keyword was: 【보았어요】"
         }
       ]
     }
@@ -2915,12 +2579,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U6-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U6-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -2962,14 +2622,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («들었어요»):",
-          "acceptedAnswers": [
-            "들었어요"
-          ],
-          "explanation": "The target keyword was: 【들었어요】"
         }
       ]
     }
@@ -3001,12 +2653,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U6-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U6-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3048,14 +2696,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («만났어요»):",
-          "acceptedAnswers": [
-            "만났어요"
-          ],
-          "explanation": "The target keyword was: 【만났어요】"
         }
       ]
     }
@@ -3087,12 +2727,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U7-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U7-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3134,14 +2770,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («갈_거예요»):",
-          "acceptedAnswers": [
-            "갈_거예요"
-          ],
-          "explanation": "The target keyword was: 【갈_거예요】"
         }
       ]
     }
@@ -3173,12 +2801,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U7-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U7-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3220,14 +2844,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («하겠어요»):",
-          "acceptedAnswers": [
-            "하겠어요"
-          ],
-          "explanation": "The target keyword was: 【하겠어요】"
         }
       ]
     }
@@ -3259,12 +2875,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U7-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U7-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3306,14 +2918,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («먹을_거예요»):",
-          "acceptedAnswers": [
-            "먹을_거예요"
-          ],
-          "explanation": "The target keyword was: 【먹을_거예요】"
         }
       ]
     }
@@ -3345,12 +2949,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U7-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U7-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3392,14 +2992,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («만날_거예요»):",
-          "acceptedAnswers": [
-            "만날_거예요"
-          ],
-          "explanation": "The target keyword was: 【만날_거예요】"
         }
       ]
     }
@@ -3431,12 +3023,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U7-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U7-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3478,14 +3066,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («배울_거예요»):",
-          "acceptedAnswers": [
-            "배울_거예요"
-          ],
-          "explanation": "The target keyword was: 【배울_거예요】"
         }
       ]
     }
@@ -3517,12 +3097,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U8-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U8-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3564,14 +3140,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («공부하고_있다»):",
-          "acceptedAnswers": [
-            "공부하고_있다"
-          ],
-          "explanation": "The target keyword was: 【공부하고_있다】"
         }
       ]
     }
@@ -3603,12 +3171,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U8-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U8-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3650,14 +3214,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («비가_오고_있다»):",
-          "acceptedAnswers": [
-            "비가_오고_있다"
-          ],
-          "explanation": "The target keyword was: 【비가_오고_있다】"
         }
       ]
     }
@@ -3689,12 +3245,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U8-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U8-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3736,14 +3288,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («기다리고_있다»):",
-          "acceptedAnswers": [
-            "기다리고_있다"
-          ],
-          "explanation": "The target keyword was: 【기다리고_있다】"
         }
       ]
     }
@@ -3775,12 +3319,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U8-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U8-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3822,14 +3362,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («앉아_있다»):",
-          "acceptedAnswers": [
-            "앉아_있다"
-          ],
-          "explanation": "The target keyword was: 【앉아_있다】"
         }
       ]
     }
@@ -3861,12 +3393,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U8-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U8-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3908,14 +3436,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («열려_있다»):",
-          "acceptedAnswers": [
-            "열려_있다"
-          ],
-          "explanation": "The target keyword was: 【열려_있다】"
         }
       ]
     }
@@ -3947,12 +3467,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U9-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U9-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -3994,14 +3510,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («집에»):",
-          "acceptedAnswers": [
-            "집에"
-          ],
-          "explanation": "The target keyword was: 【집에】"
         }
       ]
     }
@@ -4033,12 +3541,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U9-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U9-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4080,14 +3584,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («학교에서»):",
-          "acceptedAnswers": [
-            "학교에서"
-          ],
-          "explanation": "The target keyword was: 【학교에서】"
         }
       ]
     }
@@ -4119,12 +3615,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U9-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U9-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4166,14 +3658,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («서울로»):",
-          "acceptedAnswers": [
-            "서울로"
-          ],
-          "explanation": "The target keyword was: 【서울로】"
         }
       ]
     }
@@ -4205,12 +3689,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U9-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U9-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4252,14 +3732,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («식당에»):",
-          "acceptedAnswers": [
-            "식당에"
-          ],
-          "explanation": "The target keyword was: 【식당에】"
         }
       ]
     }
@@ -4291,12 +3763,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U9-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U9-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4338,14 +3806,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («공원에서»):",
-          "acceptedAnswers": [
-            "공원에서"
-          ],
-          "explanation": "The target keyword was: 【공원에서】"
         }
       ]
     }
@@ -4377,12 +3837,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U10-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U10-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4424,14 +3880,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («수_있다»):",
-          "acceptedAnswers": [
-            "수_있다"
-          ],
-          "explanation": "The target keyword was: 【수_있다】"
         }
       ]
     }
@@ -4463,12 +3911,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U10-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U10-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4510,14 +3954,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («수_없다»):",
-          "acceptedAnswers": [
-            "수_없다"
-          ],
-          "explanation": "The target keyword was: 【수_없다】"
         }
       ]
     }
@@ -4549,12 +3985,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U10-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U10-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4596,14 +4028,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («읽을_수_있다»):",
-          "acceptedAnswers": [
-            "읽을_수_있다"
-          ],
-          "explanation": "The target keyword was: 【읽을_수_있다】"
         }
       ]
     }
@@ -4635,12 +4059,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U10-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U10-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4682,14 +4102,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («말할_수_있다»):",
-          "acceptedAnswers": [
-            "말할_수_있다"
-          ],
-          "explanation": "The target keyword was: 【말할_수_있다】"
         }
       ]
     }
@@ -4721,12 +4133,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U10-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U10-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4768,14 +4176,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR A2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («갈_수_없다»):",
-          "acceptedAnswers": [
-            "갈_수_없다"
-          ],
-          "explanation": "The target keyword was: 【갈_수_없다】"
         }
       ]
     }
@@ -4807,12 +4207,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U11-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U11-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4854,14 +4250,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («하고»):",
-          "acceptedAnswers": [
-            "하고"
-          ],
-          "explanation": "The target keyword was: 【하고】"
         }
       ]
     }
@@ -4893,12 +4281,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U11-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U11-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -4940,14 +4324,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («이랑»):",
-          "acceptedAnswers": [
-            "이랑"
-          ],
-          "explanation": "The target keyword was: 【이랑】"
         }
       ]
     }
@@ -4979,12 +4355,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U11-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U11-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5026,14 +4398,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («와과»):",
-          "acceptedAnswers": [
-            "와과"
-          ],
-          "explanation": "The target keyword was: 【와과】"
         }
       ]
     }
@@ -5065,12 +4429,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U11-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U11-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5112,14 +4472,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («같이»):",
-          "acceptedAnswers": [
-            "같이"
-          ],
-          "explanation": "The target keyword was: 【같이】"
         }
       ]
     }
@@ -5151,12 +4503,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U11-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U11-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5198,14 +4546,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («함께»):",
-          "acceptedAnswers": [
-            "함께"
-          ],
-          "explanation": "The target keyword was: 【함께】"
         }
       ]
     }
@@ -5237,12 +4577,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U12-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U12-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5284,14 +4620,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («커서»):",
-          "acceptedAnswers": [
-            "커서"
-          ],
-          "explanation": "The target keyword was: 【커서】"
         }
       ]
     }
@@ -5323,12 +4651,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U12-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U12-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5370,14 +4694,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («작아서»):",
-          "acceptedAnswers": [
-            "작아서"
-          ],
-          "explanation": "The target keyword was: 【작아서】"
         }
       ]
     }
@@ -5409,12 +4725,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U12-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U12-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5456,14 +4768,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («비싸서»):",
-          "acceptedAnswers": [
-            "비싸서"
-          ],
-          "explanation": "The target keyword was: 【비싸서】"
         }
       ]
     }
@@ -5495,12 +4799,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U12-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U12-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5542,14 +4842,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («좋아서»):",
-          "acceptedAnswers": [
-            "좋아서"
-          ],
-          "explanation": "The target keyword was: 【좋아서】"
         }
       ]
     }
@@ -5581,12 +4873,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U12-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U12-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5628,14 +4916,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («더워서»):",
-          "acceptedAnswers": [
-            "더워서"
-          ],
-          "explanation": "The target keyword was: 【더워서】"
         }
       ]
     }
@@ -5667,12 +4947,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U13-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U13-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5714,14 +4990,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («크지만»):",
-          "acceptedAnswers": [
-            "크지만"
-          ],
-          "explanation": "The target keyword was: 【크지만】"
         }
       ]
     }
@@ -5753,12 +5021,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U13-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U13-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5800,14 +5064,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («바쁘지만»):",
-          "acceptedAnswers": [
-            "바쁘지만"
-          ],
-          "explanation": "The target keyword was: 【바쁘지만】"
         }
       ]
     }
@@ -5839,12 +5095,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U13-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U13-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5886,14 +5138,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («어렵지만»):",
-          "acceptedAnswers": [
-            "어렵지만"
-          ],
-          "explanation": "The target keyword was: 【어렵지만】"
         }
       ]
     }
@@ -5925,12 +5169,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U13-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U13-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -5972,14 +5212,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («좋지만»):",
-          "acceptedAnswers": [
-            "좋지만"
-          ],
-          "explanation": "The target keyword was: 【좋지만】"
         }
       ]
     }
@@ -6011,12 +5243,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U13-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U13-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6058,14 +5286,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («멀지만»):",
-          "acceptedAnswers": [
-            "멀지만"
-          ],
-          "explanation": "The target keyword was: 【멀지만】"
         }
       ]
     }
@@ -6097,12 +5317,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U14-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U14-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6144,14 +5360,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («가고_싶다»):",
-          "acceptedAnswers": [
-            "가고_싶다"
-          ],
-          "explanation": "The target keyword was: 【가고_싶다】"
         }
       ]
     }
@@ -6183,12 +5391,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U14-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U14-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6230,14 +5434,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («먹고_싶다»):",
-          "acceptedAnswers": [
-            "먹고_싶다"
-          ],
-          "explanation": "The target keyword was: 【먹고_싶다】"
         }
       ]
     }
@@ -6269,12 +5465,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U14-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U14-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6316,14 +5508,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («보고_싶다»):",
-          "acceptedAnswers": [
-            "보고_싶다"
-          ],
-          "explanation": "The target keyword was: 【보고_싶다】"
         }
       ]
     }
@@ -6355,12 +5539,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U14-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U14-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6402,14 +5582,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («만나고_싶다»):",
-          "acceptedAnswers": [
-            "만나고_싶다"
-          ],
-          "explanation": "The target keyword was: 【만나고_싶다】"
         }
       ]
     }
@@ -6441,12 +5613,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U14-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U14-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6488,14 +5656,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («배우고_싶다»):",
-          "acceptedAnswers": [
-            "배우고_싶다"
-          ],
-          "explanation": "The target keyword was: 【배우고_싶다】"
         }
       ]
     }
@@ -6527,12 +5687,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U15-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U15-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6574,14 +5730,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («가세요»):",
-          "acceptedAnswers": [
-            "가세요"
-          ],
-          "explanation": "The target keyword was: 【가세요】"
         }
       ]
     }
@@ -6613,12 +5761,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U15-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U15-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6660,14 +5804,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («드세요»):",
-          "acceptedAnswers": [
-            "드세요"
-          ],
-          "explanation": "The target keyword was: 【드세요】"
         }
       ]
     }
@@ -6699,12 +5835,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U15-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U15-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6746,14 +5878,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («읽으세요»):",
-          "acceptedAnswers": [
-            "읽으세요"
-          ],
-          "explanation": "The target keyword was: 【읽으세요】"
         }
       ]
     }
@@ -6785,12 +5909,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U15-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U15-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6832,14 +5952,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («앉으세요»):",
-          "acceptedAnswers": [
-            "앉으세요"
-          ],
-          "explanation": "The target keyword was: 【앉으세요】"
         }
       ]
     }
@@ -6871,12 +5983,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U15-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U15-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -6918,14 +6026,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («기다리세요»):",
-          "acceptedAnswers": [
-            "기다리세요"
-          ],
-          "explanation": "The target keyword was: 【기다리세요】"
         }
       ]
     }
@@ -6957,12 +6057,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U16-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U16-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7004,14 +6100,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («가지_마세요»):",
-          "acceptedAnswers": [
-            "가지_마세요"
-          ],
-          "explanation": "The target keyword was: 【가지_마세요】"
         }
       ]
     }
@@ -7043,12 +6131,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U16-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U16-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7090,14 +6174,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («먹지_마세요»):",
-          "acceptedAnswers": [
-            "먹지_마세요"
-          ],
-          "explanation": "The target keyword was: 【먹지_마세요】"
         }
       ]
     }
@@ -7129,12 +6205,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U16-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U16-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7176,14 +6248,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («떠들지_마세요»):",
-          "acceptedAnswers": [
-            "떠들지_마세요"
-          ],
-          "explanation": "The target keyword was: 【떠들지_마세요】"
         }
       ]
     }
@@ -7215,12 +6279,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U16-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U16-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7262,14 +6322,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («걱정하지_마세요»):",
-          "acceptedAnswers": [
-            "걱정하지_마세요"
-          ],
-          "explanation": "The target keyword was: 【걱정하지_마세요】"
         }
       ]
     }
@@ -7301,12 +6353,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U16-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U16-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7348,14 +6396,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («늦지_마세요»):",
-          "acceptedAnswers": [
-            "늦지_마세요"
-          ],
-          "explanation": "The target keyword was: 【늦지_마세요】"
         }
       ]
     }
@@ -7387,12 +6427,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U17-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U17-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7434,14 +6470,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («가야_한다»):",
-          "acceptedAnswers": [
-            "가야_한다"
-          ],
-          "explanation": "The target keyword was: 【가야_한다】"
         }
       ]
     }
@@ -7473,12 +6501,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U17-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U17-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7520,14 +6544,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («먹어야_한다»):",
-          "acceptedAnswers": [
-            "먹어야_한다"
-          ],
-          "explanation": "The target keyword was: 【먹어야_한다】"
         }
       ]
     }
@@ -7559,12 +6575,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U17-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U17-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7606,14 +6618,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («공부해야_한다»):",
-          "acceptedAnswers": [
-            "공부해야_한다"
-          ],
-          "explanation": "The target keyword was: 【공부해야_한다】"
         }
       ]
     }
@@ -7645,12 +6649,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U17-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U17-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7692,14 +6692,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («일해야_한다»):",
-          "acceptedAnswers": [
-            "일해야_한다"
-          ],
-          "explanation": "The target keyword was: 【일해야_한다】"
         }
       ]
     }
@@ -7731,12 +6723,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U17-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U17-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7778,14 +6766,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («지켜야_한다»):",
-          "acceptedAnswers": [
-            "지켜야_한다"
-          ],
-          "explanation": "The target keyword was: 【지켜야_한다】"
         }
       ]
     }
@@ -7817,12 +6797,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U18-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U18-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7864,14 +6840,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («가면»):",
-          "acceptedAnswers": [
-            "가면"
-          ],
-          "explanation": "The target keyword was: 【가면】"
         }
       ]
     }
@@ -7903,12 +6871,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U18-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U18-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -7950,14 +6914,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («오면»):",
-          "acceptedAnswers": [
-            "오면"
-          ],
-          "explanation": "The target keyword was: 【오면】"
         }
       ]
     }
@@ -7989,12 +6945,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U18-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U18-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8036,14 +6988,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («만나면»):",
-          "acceptedAnswers": [
-            "만나면"
-          ],
-          "explanation": "The target keyword was: 【만나면】"
         }
       ]
     }
@@ -8075,12 +7019,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U18-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U18-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8122,14 +7062,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («비가_오면»):",
-          "acceptedAnswers": [
-            "비가_오면"
-          ],
-          "explanation": "The target keyword was: 【비가_오면】"
         }
       ]
     }
@@ -8161,12 +7093,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U18-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U18-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8208,14 +7136,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («시간이_있으면»):",
-          "acceptedAnswers": [
-            "시간이_있으면"
-          ],
-          "explanation": "The target keyword was: 【시간이_있으면】"
         }
       ]
     }
@@ -8247,12 +7167,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U19-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U19-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8294,14 +7210,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («가는_사람»):",
-          "acceptedAnswers": [
-            "가는_사람"
-          ],
-          "explanation": "The target keyword was: 【가는_사람】"
         }
       ]
     }
@@ -8333,12 +7241,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U19-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U19-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8380,14 +7284,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («먹는_음식»):",
-          "acceptedAnswers": [
-            "먹는_음식"
-          ],
-          "explanation": "The target keyword was: 【먹는_음식】"
         }
       ]
     }
@@ -8419,12 +7315,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U19-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U19-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8466,14 +7358,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («보는_영화»):",
-          "acceptedAnswers": [
-            "보는_영화"
-          ],
-          "explanation": "The target keyword was: 【보는_영화】"
         }
       ]
     }
@@ -8505,12 +7389,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U19-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U19-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8552,14 +7432,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («만나는_친구»):",
-          "acceptedAnswers": [
-            "만나는_친구"
-          ],
-          "explanation": "The target keyword was: 【만나는_친구】"
         }
       ]
     }
@@ -8591,12 +7463,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U19-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U19-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8638,14 +7506,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («읽는_책»):",
-          "acceptedAnswers": [
-            "읽는_책"
-          ],
-          "explanation": "The target keyword was: 【읽는_책】"
         }
       ]
     }
@@ -8677,12 +7537,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U20-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U20-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8724,14 +7580,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («회사»):",
-          "acceptedAnswers": [
-            "회사"
-          ],
-          "explanation": "The target keyword was: 【회사】"
         }
       ]
     }
@@ -8763,12 +7611,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U20-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U20-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8810,14 +7654,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («회의»):",
-          "acceptedAnswers": [
-            "회의"
-          ],
-          "explanation": "The target keyword was: 【회의】"
         }
       ]
     }
@@ -8849,12 +7685,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U20-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U20-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8896,14 +7728,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («업무»):",
-          "acceptedAnswers": [
-            "업무"
-          ],
-          "explanation": "The target keyword was: 【업무】"
         }
       ]
     }
@@ -8935,12 +7759,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U20-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U20-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -8982,14 +7802,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («보고서»):",
-          "acceptedAnswers": [
-            "보고서"
-          ],
-          "explanation": "The target keyword was: 【보고서】"
         }
       ]
     }
@@ -9021,12 +7833,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U20-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U20-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9068,14 +7876,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («이메일»):",
-          "acceptedAnswers": [
-            "이메일"
-          ],
-          "explanation": "The target keyword was: 【이메일】"
         }
       ]
     }
@@ -9107,12 +7907,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U21-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U21-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9154,14 +7950,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («병원»):",
-          "acceptedAnswers": [
-            "병원"
-          ],
-          "explanation": "The target keyword was: 【병원】"
         }
       ]
     }
@@ -9193,12 +7981,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U21-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U21-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9240,14 +8024,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («의사»):",
-          "acceptedAnswers": [
-            "의사"
-          ],
-          "explanation": "The target keyword was: 【의사】"
         }
       ]
     }
@@ -9279,12 +8055,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U21-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U21-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9326,14 +8098,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («약국»):",
-          "acceptedAnswers": [
-            "약국"
-          ],
-          "explanation": "The target keyword was: 【약국】"
         }
       ]
     }
@@ -9365,12 +8129,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U21-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U21-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9412,14 +8172,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («증상»):",
-          "acceptedAnswers": [
-            "증상"
-          ],
-          "explanation": "The target keyword was: 【증상】"
         }
       ]
     }
@@ -9451,12 +8203,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U21-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U21-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9498,14 +8246,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («치료»):",
-          "acceptedAnswers": [
-            "치료"
-          ],
-          "explanation": "The target keyword was: 【치료】"
         }
       ]
     }
@@ -9537,12 +8277,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U22-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U22-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9584,14 +8320,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («한식»):",
-          "acceptedAnswers": [
-            "한식"
-          ],
-          "explanation": "The target keyword was: 【한식】"
         }
       ]
     }
@@ -9623,12 +8351,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U22-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U22-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9670,14 +8394,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («김치»):",
-          "acceptedAnswers": [
-            "김치"
-          ],
-          "explanation": "The target keyword was: 【김치】"
         }
       ]
     }
@@ -9709,12 +8425,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U22-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U22-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9756,14 +8468,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («비빔밥»):",
-          "acceptedAnswers": [
-            "비빔밥"
-          ],
-          "explanation": "The target keyword was: 【비빔밥】"
         }
       ]
     }
@@ -9795,12 +8499,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U22-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U22-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9842,14 +8542,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («불고기»):",
-          "acceptedAnswers": [
-            "불고기"
-          ],
-          "explanation": "The target keyword was: 【불고기】"
         }
       ]
     }
@@ -9881,12 +8573,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U22-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U22-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -9928,14 +8616,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («식문화»):",
-          "acceptedAnswers": [
-            "식문화"
-          ],
-          "explanation": "The target keyword was: 【식문화】"
         }
       ]
     }
@@ -9967,12 +8647,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U23-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U23-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10014,14 +8690,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («영화»):",
-          "acceptedAnswers": [
-            "영화"
-          ],
-          "explanation": "The target keyword was: 【영화】"
         }
       ]
     }
@@ -10053,12 +8721,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U23-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U23-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10100,14 +8764,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («드라마»):",
-          "acceptedAnswers": [
-            "드라마"
-          ],
-          "explanation": "The target keyword was: 【드라마】"
         }
       ]
     }
@@ -10139,12 +8795,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U23-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U23-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10186,14 +8838,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («배우»):",
-          "acceptedAnswers": [
-            "배우"
-          ],
-          "explanation": "The target keyword was: 【배우】"
         }
       ]
     }
@@ -10225,12 +8869,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U23-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U23-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10272,14 +8912,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («음악»):",
-          "acceptedAnswers": [
-            "음악"
-          ],
-          "explanation": "The target keyword was: 【음악】"
         }
       ]
     }
@@ -10311,12 +8943,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U23-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U23-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10358,14 +8986,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («예술»):",
-          "acceptedAnswers": [
-            "예술"
-          ],
-          "explanation": "The target keyword was: 【예술】"
         }
       ]
     }
@@ -10397,12 +9017,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U24-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U24-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10444,14 +9060,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («은행»):",
-          "acceptedAnswers": [
-            "은행"
-          ],
-          "explanation": "The target keyword was: 【은행】"
         }
       ]
     }
@@ -10483,12 +9091,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U24-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U24-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10530,14 +9134,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («계좌»):",
-          "acceptedAnswers": [
-            "계좌"
-          ],
-          "explanation": "The target keyword was: 【계좌】"
         }
       ]
     }
@@ -10569,12 +9165,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U24-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U24-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10616,14 +9208,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («송금»):",
-          "acceptedAnswers": [
-            "송금"
-          ],
-          "explanation": "The target keyword was: 【송금】"
         }
       ]
     }
@@ -10655,12 +9239,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U24-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U24-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10702,14 +9282,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («환전»):",
-          "acceptedAnswers": [
-            "환전"
-          ],
-          "explanation": "The target keyword was: 【환전】"
         }
       ]
     }
@@ -10741,12 +9313,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U24-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U24-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10788,14 +9356,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR B2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («신용카드»):",
-          "acceptedAnswers": [
-            "신용카드"
-          ],
-          "explanation": "The target keyword was: 【신용카드】"
         }
       ]
     }
@@ -10827,12 +9387,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U25-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U25-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10874,14 +9430,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («환경»):",
-          "acceptedAnswers": [
-            "환경"
-          ],
-          "explanation": "The target keyword was: 【환경】"
         }
       ]
     }
@@ -10913,12 +9461,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U25-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U25-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -10960,14 +9504,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («자연»):",
-          "acceptedAnswers": [
-            "자연"
-          ],
-          "explanation": "The target keyword was: 【자연】"
         }
       ]
     }
@@ -10999,12 +9535,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U25-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U25-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11046,14 +9578,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («기후»):",
-          "acceptedAnswers": [
-            "기후"
-          ],
-          "explanation": "The target keyword was: 【기후】"
         }
       ]
     }
@@ -11085,12 +9609,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U25-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U25-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11132,14 +9652,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («재활용»):",
-          "acceptedAnswers": [
-            "재활용"
-          ],
-          "explanation": "The target keyword was: 【재활용】"
         }
       ]
     }
@@ -11171,12 +9683,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U25-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U25-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11218,14 +9726,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («보호»):",
-          "acceptedAnswers": [
-            "보호"
-          ],
-          "explanation": "The target keyword was: 【보호】"
         }
       ]
     }
@@ -11257,12 +9757,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U26-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U26-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11304,14 +9800,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («법률»):",
-          "acceptedAnswers": [
-            "법률"
-          ],
-          "explanation": "The target keyword was: 【법률】"
         }
       ]
     }
@@ -11343,12 +9831,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U26-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U26-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11390,14 +9874,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («헌법»):",
-          "acceptedAnswers": [
-            "헌법"
-          ],
-          "explanation": "The target keyword was: 【헌법】"
         }
       ]
     }
@@ -11429,12 +9905,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U26-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U26-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11476,14 +9948,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («재판»):",
-          "acceptedAnswers": [
-            "재판"
-          ],
-          "explanation": "The target keyword was: 【재판】"
         }
       ]
     }
@@ -11515,12 +9979,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U26-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U26-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11562,14 +10022,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («판사»):",
-          "acceptedAnswers": [
-            "판사"
-          ],
-          "explanation": "The target keyword was: 【판사】"
         }
       ]
     }
@@ -11601,12 +10053,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U26-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U26-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11648,14 +10096,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («권리»):",
-          "acceptedAnswers": [
-            "권리"
-          ],
-          "explanation": "The target keyword was: 【권리】"
         }
       ]
     }
@@ -11687,12 +10127,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U27-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U27-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11734,14 +10170,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («문학»):",
-          "acceptedAnswers": [
-            "문학"
-          ],
-          "explanation": "The target keyword was: 【문학】"
         }
       ]
     }
@@ -11773,12 +10201,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U27-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U27-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11820,14 +10244,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («시인»):",
-          "acceptedAnswers": [
-            "시인"
-          ],
-          "explanation": "The target keyword was: 【시인】"
         }
       ]
     }
@@ -11859,12 +10275,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U27-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U27-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11906,14 +10318,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («소설»):",
-          "acceptedAnswers": [
-            "소설"
-          ],
-          "explanation": "The target keyword was: 【소설】"
         }
       ]
     }
@@ -11945,12 +10349,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U27-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U27-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -11992,14 +10392,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («작품»):",
-          "acceptedAnswers": [
-            "작품"
-          ],
-          "explanation": "The target keyword was: 【작품】"
         }
       ]
     }
@@ -12031,12 +10423,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U27-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U27-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12078,14 +10466,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («정서»):",
-          "acceptedAnswers": [
-            "정서"
-          ],
-          "explanation": "The target keyword was: 【정서】"
         }
       ]
     }
@@ -12117,12 +10497,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U28-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U28-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12164,14 +10540,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («언론»):",
-          "acceptedAnswers": [
-            "언론"
-          ],
-          "explanation": "The target keyword was: 【언론】"
         }
       ]
     }
@@ -12203,12 +10571,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U28-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U28-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12250,14 +10614,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («기사»):",
-          "acceptedAnswers": [
-            "기사"
-          ],
-          "explanation": "The target keyword was: 【기사】"
         }
       ]
     }
@@ -12289,12 +10645,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U28-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U28-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12336,14 +10688,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («기자»):",
-          "acceptedAnswers": [
-            "기자"
-          ],
-          "explanation": "The target keyword was: 【기자】"
         }
       ]
     }
@@ -12375,12 +10719,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U28-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U28-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12422,14 +10762,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («보도»):",
-          "acceptedAnswers": [
-            "보도"
-          ],
-          "explanation": "The target keyword was: 【보도】"
         }
       ]
     }
@@ -12461,12 +10793,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U28-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U28-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12508,14 +10836,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («사설»):",
-          "acceptedAnswers": [
-            "사설"
-          ],
-          "explanation": "The target keyword was: 【사설】"
         }
       ]
     }
@@ -12547,12 +10867,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U29-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U29-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12594,14 +10910,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («철학»):",
-          "acceptedAnswers": [
-            "철학"
-          ],
-          "explanation": "The target keyword was: 【철학】"
         }
       ]
     }
@@ -12633,12 +10941,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U29-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U29-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12680,14 +10984,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («윤리»):",
-          "acceptedAnswers": [
-            "윤리"
-          ],
-          "explanation": "The target keyword was: 【윤리】"
         }
       ]
     }
@@ -12719,12 +11015,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U29-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U29-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12766,14 +11058,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («사상»):",
-          "acceptedAnswers": [
-            "사상"
-          ],
-          "explanation": "The target keyword was: 【사상】"
         }
       ]
     }
@@ -12805,12 +11089,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U29-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U29-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12852,14 +11132,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («가치관»):",
-          "acceptedAnswers": [
-            "가치관"
-          ],
-          "explanation": "The target keyword was: 【가치관】"
         }
       ]
     }
@@ -12891,12 +11163,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U29-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U29-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -12938,14 +11206,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («도덕»):",
-          "acceptedAnswers": [
-            "도덕"
-          ],
-          "explanation": "The target keyword was: 【도덕】"
         }
       ]
     }
@@ -12977,12 +11237,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U30-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U30-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13024,14 +11280,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («과학»):",
-          "acceptedAnswers": [
-            "과학"
-          ],
-          "explanation": "The target keyword was: 【과학】"
         }
       ]
     }
@@ -13063,12 +11311,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U30-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U30-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13110,14 +11354,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («기술»):",
-          "acceptedAnswers": [
-            "기술"
-          ],
-          "explanation": "The target keyword was: 【기술】"
         }
       ]
     }
@@ -13149,12 +11385,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U30-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U30-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13196,14 +11428,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («연구»):",
-          "acceptedAnswers": [
-            "연구"
-          ],
-          "explanation": "The target keyword was: 【연구】"
         }
       ]
     }
@@ -13235,12 +11459,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U30-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U30-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13282,14 +11502,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («실험»):",
-          "acceptedAnswers": [
-            "실험"
-          ],
-          "explanation": "The target keyword was: 【실험】"
         }
       ]
     }
@@ -13321,12 +11533,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U30-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U30-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13368,14 +11576,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR C1 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («혁신»):",
-          "acceptedAnswers": [
-            "혁신"
-          ],
-          "explanation": "The target keyword was: 【혁신】"
         }
       ]
     }
@@ -13407,12 +11607,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U31-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U31-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13454,14 +11650,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («외교»):",
-          "acceptedAnswers": [
-            "외교"
-          ],
-          "explanation": "The target keyword was: 【외교】"
         }
       ]
     }
@@ -13493,12 +11681,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U31-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U31-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13540,14 +11724,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («안보»):",
-          "acceptedAnswers": [
-            "안보"
-          ],
-          "explanation": "The target keyword was: 【안보】"
         }
       ]
     }
@@ -13579,12 +11755,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U31-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U31-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13626,14 +11798,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («국제관계»):",
-          "acceptedAnswers": [
-            "국제관계"
-          ],
-          "explanation": "The target keyword was: 【국제관계】"
         }
       ]
     }
@@ -13665,12 +11829,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U31-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U31-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13712,14 +11872,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («협력»):",
-          "acceptedAnswers": [
-            "협력"
-          ],
-          "explanation": "The target keyword was: 【협력】"
         }
       ]
     }
@@ -13751,12 +11903,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U31-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U31-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13798,14 +11946,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («조약»):",
-          "acceptedAnswers": [
-            "조약"
-          ],
-          "explanation": "The target keyword was: 【조약】"
         }
       ]
     }
@@ -13837,12 +11977,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U32-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U32-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13884,14 +12020,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («대사관»):",
-          "acceptedAnswers": [
-            "대사관"
-          ],
-          "explanation": "The target keyword was: 【대사관】"
         }
       ]
     }
@@ -13923,12 +12051,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U32-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U32-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -13970,14 +12094,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («외교관»):",
-          "acceptedAnswers": [
-            "외교관"
-          ],
-          "explanation": "The target keyword was: 【외교관】"
         }
       ]
     }
@@ -14009,12 +12125,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U32-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U32-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14056,14 +12168,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («회담»):",
-          "acceptedAnswers": [
-            "회담"
-          ],
-          "explanation": "The target keyword was: 【회담】"
         }
       ]
     }
@@ -14095,12 +12199,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U32-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U32-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14142,14 +12242,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («합의»):",
-          "acceptedAnswers": [
-            "합의"
-          ],
-          "explanation": "The target keyword was: 【합의】"
         }
       ]
     }
@@ -14181,12 +12273,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U32-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U32-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14228,14 +12316,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («협정»):",
-          "acceptedAnswers": [
-            "협정"
-          ],
-          "explanation": "The target keyword was: 【협정】"
         }
       ]
     }
@@ -14267,12 +12347,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U33-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U33-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14314,14 +12390,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («속담»):",
-          "acceptedAnswers": [
-            "속담"
-          ],
-          "explanation": "The target keyword was: 【속담】"
         }
       ]
     }
@@ -14353,12 +12421,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U33-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U33-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14400,14 +12464,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («관용구»):",
-          "acceptedAnswers": [
-            "관용구"
-          ],
-          "explanation": "The target keyword was: 【관용구】"
         }
       ]
     }
@@ -14439,12 +12495,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U33-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U33-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14486,14 +12538,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («사자성어»):",
-          "acceptedAnswers": [
-            "사자성어"
-          ],
-          "explanation": "The target keyword was: 【사자성어】"
         }
       ]
     }
@@ -14525,12 +12569,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U33-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U33-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14572,14 +12612,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («비유»):",
-          "acceptedAnswers": [
-            "비유"
-          ],
-          "explanation": "The target keyword was: 【비유】"
         }
       ]
     }
@@ -14611,12 +12643,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U33-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U33-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14658,14 +12686,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («함의»):",
-          "acceptedAnswers": [
-            "함의"
-          ],
-          "explanation": "The target keyword was: 【함의】"
         }
       ]
     }
@@ -14697,12 +12717,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U34-L1】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U34-L1】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14744,14 +12760,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («정상회담»):",
-          "acceptedAnswers": [
-            "정상회담"
-          ],
-          "explanation": "The target keyword was: 【정상회담】"
         }
       ]
     }
@@ -14783,12 +12791,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U34-L2】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U34-L2】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14830,14 +12834,6 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («공동선언»):",
-          "acceptedAnswers": [
-            "공동선언"
-          ],
-          "explanation": "The target keyword was: 【공동선언】"
         }
       ]
     }
@@ -14869,12 +12865,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U34-L3】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U34-L3】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -14916,14 +12908,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («정책»):",
-          "acceptedAnswers": [
-            "정책"
-          ],
-          "explanation": "The target keyword was: 【정책】"
         }
       ]
     }
@@ -14955,12 +12939,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U34-L4】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U34-L4】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15002,14 +12982,6 @@
           ],
           "answerIndex": 2,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («국가»):",
-          "acceptedAnswers": [
-            "국가"
-          ],
-          "explanation": "The target keyword was: 【국가】"
         }
       ]
     }
@@ -15041,12 +13013,8 @@
           "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
         }
       ],
-      "mnemonics": [
-        "【암기 팁 KO-U34-L5】：‘Comprehensive mastery of ’의 핵심 조사와 동사 어미 활용（-아/어요, -ㅂ니다）을 소리 내어 연습하세요."
-      ],
-      "culturalNotes": [
-        "【문화적 뉘앙스 KO-U34-L5】：한국어의 높임말 체계는 화자와 청자의 나이 및 사회적 관계를 존중하는 유교적 예절 문화를 반영합니다."
-      ]
+      "mnemonics": [],
+      "culturalNotes": []
     },
     "guidedPractice": {
       "items": [
@@ -15088,22 +13056,17 @@
           ],
           "answerIndex": 0,
           "explanation": "Affirms CEFR C2 target-language standard."
-        },
-        {
-          "type": "typed-recall",
-          "prompt": "Type the target-language keyword practiced in this lesson («미래»):",
-          "acceptedAnswers": [
-            "미래"
-          ],
-          "explanation": "The target keyword was: 【미래】"
         }
       ]
     }
   }
 };
-  var ROADMAP = [];
-  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
+  var CURRICULUM = {
+    subject: 'korean',
+    units: UNITS,
+    lessons: LESSONS
+  };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['korean'] = SUBJECT;
-  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
+  global.FEARN_CURRICULA['korean'] = CURRICULUM;
+  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
 })(typeof window !== 'undefined' ? window : global);
