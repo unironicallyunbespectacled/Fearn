@@ -9505,53 +9505,62 @@
     "subject": "urdu",
     "unit": 23,
     "lessonNumber": 1,
-    "title": "اردو غزل، شاعری اور ادبی تنقید (Ghazal & Poetics) (Part 1)",
+    "title": "غزل کے ارکان: مطلع، مقطع، قافیہ، ردیف اور تخلص (Ghazal Form & Elements)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 23.1) with authentic precision.",
+    "objective": "غزل کے بنیادی ارکان (مطلع، مقطع، ہم قافیہ و ہم ردیف، تخلص، مصرع، بحر و وزن) کی شناخت اور اطلاق پر فصیح عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو غزل کے بنیادی ارکان اور اصطلاحات (Elements of Urdu Ghazal):\n\n1. **مطلع (Matla)**:\n   - غزل کا پہلا شعر جس کے دونوں مصرعے **ہم قافیہ اور ہم ردیف** ہوں:\n     - «مطلعِ ثانی / حسنِ مطلع»: اگر مطلع کے فوراً بعد دوسرا شعر بھی ہم قافیہ و ردیف ہو۔\n\n2. **مقطع اور تخلص (Maqta & Takhallus)**:\n   - «**مقطع**»: غزل کا آخری شعر جس میں شاعر اپنا شعری نام (**تخلص**) لاتا ہے؛\n   - «**تخلص**»: شاعر کا وہ قلمی نام جو وہ اپنے کلام میں استعمال کرتا ہے (جیسے غالبؔ، میرؔ، اقبالؔ)۔\n\n3. **قافیہ اور ردیف (Rhyme & Refrain)**:\n   - «**قافیہ**»: ردیف سے پہلے آنے والے ہم وزن اور ہم آواز الفاظ (جیسے روانہ، فسانہ، ترانہ)؛\n   - «**ردیف**»: شعر کے آخر میں من و عن دہرائے جانے والے کلمات (جیسے 'ہو گیا ہے')۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "غزل کا پہلا شعر جس کے دونوں مصرعے ہم قافیہ اور ہم ردیف ہوں، 'مطلع' کہلاتا ہے جیسے میر اور غالب کی غزلیات کا آغاز۔",
+          "reading": "Ghazal ka pehla sher jis ke donon misray ham-qaafiya aur ham-radeef hon, 'matla' kehlaata hai jaise Mir aur Ghalib ki ghazliyaat ka aaghaaz. [ɣəzəl kaː pɛɦlaː ʃeːr dʒɪs keː d̪oːnõː mɪsreː həm-qaːfɪjaː ɔːr həm-rəd̪iːf hõː mət̪ləʔ kɛhlaːt̪aː hɛː dʒɛːseː miːr ɔːr ɣaːlɪb kiː ɣəzlɪjaːt̪ kaː aːɣaːz] (ghuh-ZUHL kah pyh-LAH shayr jees kay doh-NOHN mees-RAY hum-qah-fee-YAH owr hum-ruh-DEEF hohn, MUHT-luh kyh-LAH-tah HY jy-SAY MEER owr GHAH-leeb kee ghuhz-lee-YAHT kah ah-GHAHZ)",
+          "translation": "The first couplet of a ghazal whose both hemistichs share rhyme and refrain is called the opening couplet [poetic term: matla], like the beginning of Mir's and Ghalib's ghazals."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 23-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "شاعر غزل کے آخری شعر یعنی 'مقطع' میں اپنا قلمی نام یا 'تخلص' فصاحت کے ساتھ برتتا ہے۔",
+          "reading": "Shaa'ir ghazal ke aakhri sher yaani 'maqta' mein apna qalmi naam ya 'takhallus' fasaahat ke saath bart-ta hai. [ʃaːʔɪr ɣəzəl keː aːxriː ʃeːr jaːniː məqt̪əʔ mẽː əpnaː qəlmiː naːm jaː t̪əxəlːʊs fəsaːhət̪ keː saːt̪ʰ bərt̪-t̪aː hɛː] (SHAH-eer ghuh-ZUHL kay AHKH-ree shayr yah-NEE MUHQ-tuh mayn uhp-NAH quhl-MEE NAHM yah tuh-khuhl-LOOS fuh-sah-HUHT kay SAHTH buhrt-TAH HY)",
+          "translation": "The poet eloquently employs his pen-name or takhallus in the closing couplet [poetic term: maqta] of the ghazal."
+        },
+        {
+          "target": "ردیف سے پہلے آنے والے ہم وزن اور ہم آواز الفاظ کو 'قافیہ' کہا جاتا ہے جو غزل کی موسیقی کو جلا بخشتے ہیں۔",
+          "reading": "Radeef se pehlay aanay waalay ham-wazn aur ham-aawaaz alfaaz ko 'qaafiya' kaha jaata hai jo ghazal ki moseeqi ko jila bakhshtay hain. [rəd̪iːf seː pɛɦleː aːneː ʋaːleː həm-ʋəzn ɔːr həm-aːʋaːz əlfaːz koː qaːfɪjaː kəhaː dʒaːt̪aː hɛː dʒoː ɣəzəl kiː moːsiːqiː koː dʒɪlaː bəxʃt̪eː hɛ̃ː] (ruh-DEEF say pyh-LAY ah-NAY vah-LAY hum-WUHZN owr hum-ah-VAHZ uhl-FAHZ koh QAH-fee-yah kuh-HAH jah-TAH HY JOH ghuh-ZUHL kee moh-see-QEE koh jee-LAH buhkhsh-TAY HYN)",
+          "translation": "Words of identical meter and sound that appear before the refrain are called rhyme [poetic term: qaafiya], giving brilliance to the musicality of the ghazal."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ارکانِ غزل: مطلع (آغازِ غزل) + مقطع و تخلص (اختتامِ غزل) + قافیہ (ہم آواز لفظ) + ردیف (دہرایا جانے والا کلمہ)!"
+      ],
+      "culturalNotes": [
+        "غزل اردو شاعری کی سب سے مقبول، نازک اور معتبر صنف ہے جس کا ہر شعر اپنے اندر ایک مکمل، خود مختار کائنات سموئے ہوئے ہوتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"سرخ\":",
+          "prompt": "غزل کے آخری شعر کو جس میں شاعر کا تخلص موجود ہو کیا کہا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («نیلا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پیلا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سبز» کی خرابی)"
+            "مقطع (Maqta - Closing couplet containing the poet's pen-name)",
+            "مطلع (پہلا شعر)",
+            "قافیہ (صرف آواز)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "تخلص پر مشتمل غزل کے آخری شعر کو «مقطع» کہا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"سرخ\":",
+          "prompt": "شعر کے آخر میں بار بار دہرائے جانے والے ہو بہو کلمے کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پیلا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سبز» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («نیلا» کا غیر درست استعمال)"
+            "ردیف (Radeef - Exact repeated refrain following the rhyme words)",
+            "مصرع",
+            "بحر",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "ہو بہو دہرائے جانے والے کلمے کو «ردیف» (Refrain) کہتے ہیں۔"
         }
       ]
     },
@@ -9559,17 +9568,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"سرخ\": Which sentence is completely correct?",
+          "prompt": "غزل کے ارکان (Ghazal Elements) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سبز» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («نیلا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پیلا» سے متعلق)"
+            "شاعر نے مطلع میں ہم قافیہ و ہم ردیف مصرعوں سے غزل کا پرکشش آغاز کیا اور مقطع میں اپنا تخلص لا کر کلام کو کمالِ فصاحت پر پہنچا دیا۔ (The poet made a captivating start in the opening couplet with rhyming and refrain lines and brought his pen-name in the closing couplet reaching heights of eloquence.)",
+            "مطلع نے کھانا کھایا تھا اور رویا تھا۔",
+            "تخلص صرف سبزیوں کے ناموں کے لیے استعمال ہوتا ہے۔",
+            "غزل میں ردیف کا ہونا سختی سے منع ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«شاعر نے مطلع میں ہم قافیہ و ہم ردیف مصرعوں سے غزل کا پرکشش آغاز کیا اور مقطع میں اپنا تخلص لا کر کلام کو کمالِ فصاحت پر پہنچا دیا۔» غزل کے ارکان کا درست ترین نمونہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u23-l2": {
@@ -9577,53 +9587,62 @@
     "subject": "urdu",
     "unit": 23,
     "lessonNumber": 2,
-    "title": "اردو غزل، شاعری اور ادبی تنقید (Ghazal & Poetics) (Part 2)",
+    "title": "علمِ بیان و بدیع: تشبیہ، استعارہ، کنایہ اور تلمیح (Figures of Speech)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 23.2) with authentic precision.",
+    "objective": "علمِ بیان و صنائع بدائع (تشبیہ، استعارہ، کنایہ، تلمیح، صنعتِ تضاد) کی شعری تفہیم اور تنقیدی شناخت پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو شاعری میں علمِ بیان اور صنائع و بدائع (Figures of Speech & Tropes):\n\n1. **تشبیہ (Simile)**:\n   - کسی ایک شے کو کسی مشترک صفت کی بنا پر دوسری شے جیسا قرار دینا:\n     - «نازکی اس کے لب کی کیا کہیے، **پنکھڑی اک گلاب کی سی ہے**»۔\n\n2. **استعارہ (Metaphor)**:\n   - حرفِ تشبیہ کے بغیر ایک شے کو بعینہٖ دوسری شے مان لینا:\n     - «کس **شیر کی آمد ہے** کہ رن کانپ رہا ہے» (شیر سے مراد بہادر ہستی)۔\n\n3. **تلمیح (Allusion)**:\n   - شعر میں کسی تاریخی، قرآنی یا اساطیری واقعے کی طرف اشارہ:\n     - «بے خطر کود پڑا **آتشِ نمرود** میں عشق»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "میر تقی میر نے محبوب کے ہونٹوں کی نزاکت کو گلاب کی پنکھڑی سے تشبیہ دے کر علمِ بیان کا لافانی شاہکار تخلیق کیا۔",
+          "reading": "Mir Taqi Mir ne mehboob ke honton ki nazaakat ko gulaab ki pankhri se tashbeeh day kar ilm-e-bayaan ka laa-faani shaahkaar takhleeq kiya. [miːr t̪əqiː miːr neː mɛhbuːb keː hõːʈõː kiː nəzaːkət̪ koː ɡʊlaːb kiː pəŋkʰɽiː seː t̪əʃbiːh d̪eː kər ɪlm-eː-bəjaːn kaː laː-faːniː ʃaːhkaːr t̪əxliːq kɪjaː] (MEER tuh-QEE MEER nay myh-BOOB kay HOHN-tohn kee nuh-ZAH-kuht koh goo-LAHB kee puhnk-HREE say TUSH-beeh DAY kuhr EELM-ay-buh-YAHN kah lah-fah-NEE SHAH-kahr tuhkh-LEEQ kee-YAH)",
+          "translation": "Mir Taqi Mir created an immortal masterpiece of poetics by likening [rhetorical trope: tashbeeh day kar] the delicacy of beloved's lips to a rose petal."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 23-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "جب شاعر حرفِ تشبیہ کے بغیر کسی صفت کو دوسری شے کا عین قرار دے تو یہ 'استعارہ' کہلاتا ہے جیسے بہادر کو براہِ راست شیر کہنا۔",
+          "reading": "Jab shaa'ir harf-e-tashbeeh ke baghair kisi sifat ko doosri shay ka ain qaraar day to yeh 'isti'aara' kehlaata hai jaise bahaadur ko baraah-e-raast sher kehna. [dʒəb ʃaːʔɪr hərf-eː-t̪əʃbiːh keː bəɣɛːr kɪsiː sɪfət̪ koː d̪uːsriː ʃɛː kaː ʔɛːn qəraːr d̪eː t̪oː jɛh ɪst̪ɪʔaːraː kɛhlaːt̪aː hɛː dʒɛːseː bəhaːd̪ʊr koː bəraːh-eː-raːst̪ ʃeːr kəhnaː] (JAHB SHAH-eer huhrf-ay-tush-BEEH kay buh-GHYR kee-SEE see-FUHT koh doos-REE SHAY kah AYN quh-RAHR DAY toh YEH ees-tee-AH-rah kyh-LAH-tah HY jy-SAY buh-HAH-door koh buh-RAH-hay-RAHST SHAYR kuh-NAH)",
+          "translation": "When a poet declares an attribute to be identically the other object without a comparative particle, it is called a metaphor [poetic trope: isti'aara], such as calling a brave person directly a lion."
+        },
+        {
+          "target": "اقبال کے اشعار میں نمرود، فرعون اور کوہِ طور کا ذکر 'تلمیح' کی عمدہ ترین مثالیں ہیں جو شعر کو تاریخی وسعت بخشتی ہیں۔",
+          "reading": "Iqbal ke ash'aar mein Namrood, Fir'awn aur Koh-e-Toor ka zikr 'talmeeh' ki umda tareen misaalein hain jo sher ko taareekhi wus'at bakhshti hain. [ɪqbaːl keː əʃʔaːr mẽː nəmruːd̪ fɪrʔɔːn ɔːr koːh-eː-t̪uːr kaː zɪkr t̪əlmiːh kiː ʊmd̪aː t̪əriːn mɪsaːlẽː hɛ̃ː dʒoː ʃeːr koː t̪aːriːxiː ʋʊsʔət̪ bəxʃt̪iː hɛ̃ː] (eeq-BAHL kay uhsh-AHR mayn nuhm-ROOD, feer-OWN owr KOH-hay-TOOR kah ZEEKR TUHL-meeh kee oom-DAH tuh-REEN mee-sah-LAYN HYN JOH SHAYR koh tah-REE-khee voos-UHT buhkhsh-TEE HYN)",
+          "translation": "The mention of Nimrod, Pharaoh, and Mount Sinai in Iqbal's poetry are finest examples of allusion [rhetorical trope: talmeeh], granting historical breadth to the verse."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "علمِ بیان: تشبیہ (جیسا ماننا) + استعارہ (عین قرار دینا) + تلمیح (تاریخی واقعے کی طرف اشارہ)!"
+      ],
+      "culturalNotes": [
+        "صنائع بدائع اور علم بیان کو اردو شعری روایت میں محض بیرونی سجاوٹ نہیں بلکہ شعر کے معنوی حسن اور ابلاغ کی روح مانا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"نیلا\":",
+          "prompt": "شعر میں کسی مشہور تاریخی یا قرآنی واقعے کی طرف اشارہ کرنے کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («پیلا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سبز» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سفید» کی خرابی)"
+            "تلمیح (Talmeeh - Allusion to historical, Quranic, or legendary events)",
+            "قافیہ",
+            "مطلع",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "تاریخی یا مذہبی واقعے کے حوالے کو ادبی اصطلاح میں «تلمیح» کہا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"نیلا\":",
+          "prompt": "حرفِ تشبیہ کے بغیر کسی شے کو براہِ راست دوسری شے قرار دینے کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سبز» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سفید» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («پیلا» کا غیر درست استعمال)"
+            "استعارہ (Isti'aara - Metaphor / direct transference of identity)",
+            "کنایہ (صرف اشارہ)",
+            "ردیف",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "براہ راست دوسری شے قرار دینے کو «استعارہ» (Metaphor) کہتے ہیں۔"
         }
       ]
     },
@@ -9631,17 +9650,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"نیلا\": Which sentence is completely correct?",
+          "prompt": "علمِ بیان اور صنائع بدائع (Figures of Speech) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سفید» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («پیلا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سبز» سے متعلق)"
+            "شاعر نے محبوب کے رخسار کو چاند سے تشبیہ دی، بہادر مجاہد کے لیے شیر کا استعارہ برتا اور وادیِ سینا کی تلمیح سے کلام کو روحانی وسعت بخشی۔ (The poet likened the cheek to the moon, used metaphor of lion for the brave warrior, and imparted spiritual breadth with allusion to Sinai Valley.)",
+            "استعارہ نے چائے پی تھی اور رویا تھا۔",
+            "تلمیح صرف ریاضی کے سوالات میں استعمال ہوتی ہے۔",
+            "شاعری میں تشبیہ کا استعمال مکمل ممنوع ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«شاعر نے محبوب کے رخسار کو چاند سے تشبیہ دی، بہادر مجاہد کے لیے شیر کا استعارہ برتا اور وادیِ سینا کی تلمیح سے کلام کو روحانی وسعت بخشی۔» علمِ بیان کا فصیح ترین شاہکار ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u23-l3": {
@@ -9649,53 +9669,62 @@
     "subject": "urdu",
     "unit": 23,
     "lessonNumber": 3,
-    "title": "اردو غزل، شاعری اور ادبی تنقید (Ghazal & Poetics) (Part 3)",
+    "title": "اساتذۂ سخن: میر، غالب، مومن اور اقبال (Masters of Urdu Poetry)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 23.3) with authentic precision.",
+    "objective": "کلاسیکی و جدید شعری اساتذہ (میر کا سوز و گداز، غالب کی فلسفیانہ جدت، مومن کی نازک خیالی، اقبال کا فلسفۂ خودی) کے اسالیب پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو شاعری کے عظیم اساتذہ اور ان کے مخصوص اسالیب (Masters of Classical Poetry):\n\n1. **میر تقی میر (خدائے سخن)**:\n   - سوز و گداز، دلی کی بربادی کا درد، اور **سہلِ ممتنع** (ایسی آسان زبان جسے کہنا بے حد مشکل ہو)۔\n\n2. **مرزا اسد اللہ خاں غالب**:\n   - **فلسفیانہ فکر، جدتِ طرازی، معنی آفرینی** اور شوخیِ تحریر۔\n\n3. **مومن خان مومن**:\n   - **تغزل، نازک خیالی** اور معاملہ بندی۔\n\n4. **علامہ محمد اقبال (شاعرِ مشرق)**:\n   - **فلسفۂ خودی، انقلابی پیامبری** اور آفاقی شعور۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "میر تقی میر کو سوز و گداز اور غمِ دوراں کو سہلِ ممتنع میں ڈھالنے کی بدولت اردو کا 'خدائے سخن' تسلیم کیا جاتا ہے۔",
+          "reading": "Mir Taqi Mir ko soz-o-gudaaz aur gham-e-dowraan ko sahl-e-mumtana' mein dhaanlnay ki badawlat Urdu ka 'Khuda-e-Sukhan' tasleem kiya jaata hai. [miːr t̪əqiː miːr koː soːz-oː-ɡʊd̪aːz ɔːr ɣəm-eː-d̪ɔːraː̃ koː sɛːhəl-eː-mʊmt̪ənəʔ mẽː ɖʱaːlneː kiː bəd̪ɔːlət̪ ʊrd̪uː kaː xʊd̪aː-jeː-sʊxən t̪əsliːm kɪjaː dʒaːt̪aː hɛː] (MEER tuh-QEE MEER koh SOHZ-oh-goo-DAHZ owr GHUHM-ay-dow-RAHN koh SY-huhl-ay-moom-TUH-nuh mayn dhal-NAY kee buh-DOW-luht OOR-doo kah khoo-DAH-yay-soo-KHUHN tuhs-LEEM kee-YAH jah-TAH HY)",
+          "translation": "Mir Taqi Mir is acknowledged as the 'God of Poetics' of Urdu due to molding pathos and worldly sorrow into deceptively effortless simplicity [poetic concept: sahl-e-mumtana']."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 23-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "مرزا اسد اللہ خاں غالب نے اردو شاعری کو روایتی عشقیہ مضامین کے حصار سے نکال کر فلسفیانہ اور وجودی افکار سے مالا مال کیا۔",
+          "reading": "Mirza Asadullah Khan Ghalib ne Urdu shaa'iri ko rawaayati ishqiya mazaameen ke hisaar se nikaal kar falsafiyaana aur wujoodi afkaar se maala-maal kiya. [mɪrzaː əsəd̪ʊlːaːh xaːn ɣaːlɪb neː ʊrd̪uː ʃaːʔɪriː koː rəʋaːjət̪iː ɪʃqɪjaː məzaːmiːn keː hɪsaːr seː nɪkaːl kər fəlsəfɪjaːnaː ɔːr ʋʊdʒuːd̪iː əfkaːr seː maːlaː-maːl kɪjaː] (meer-ZAH uh-suhd-ool-LAH KHAHN GHAH-leeb nay OOR-doo shah-ee-REE koh ruh-vah-yuh-TEE eesh-QEE-yah muh-zah-MEEN kay hee-SAHR say nee-KAHL kuhr fuhl-suh-fee-YAH-nah owr voo-joo-DEE uhf-KAHR say mah-lah-MAHL kee-YAH)",
+          "translation": "Mirza Asadullah Khan Ghalib enriched Urdu poetry with philosophical and existential thoughts [philosophical poetics], breaking the confines of traditional romance."
+        },
+        {
+          "target": "حکیم الامت علامہ اقبال نے غزل اور نظم کے ذریعے خودی، حریت اور انسانی خودداری کا آفاقی پیغام مشرق و مغرب تک پہنچایا۔",
+          "reading": "Hakeem-ul-Ummat Allama Iqbal ne ghazal aur nazm ke zariye khudi, hurriyat aur insaani khuddari ka aafaaqi paighaam mashriq-o-maghrib tak pohanchaaya. [həkiːm-ʊl-ʊmːət̪ əlːaːmaː ɪqbaːl neː ɣəzəl ɔːr nəzm keː zərɪjeː xʊd̪iː hʊrːɪjət̪ ɔːr ɪnsaːniː xʊd̪-d̪aːriː kaː aːfaːqiː pɛːɣaːm məʃrɪq-oː-məɣrɪb t̪ək pəhʊ̃tʃaːjaː] (huh-KEEM-ool-oom-MUHT uhl-LAH-mah eeq-BAHL nay ghuh-ZUHL owr NUZM kay zuh-ree-YAY khoo-DEE, hoor-ree-YUHT owr een-sah-NEE khoo-dah-REE kah ah-fah-QEE py-GHAHM mush-REEQ-oh-mugh-REEB tuhk poh-huhn-CHAH-yah)",
+          "translation": "Allama Iqbal conveyed the universal message of selfhood, freedom, and human self-respect across East and West through ghazal and poem."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "اساتذۂ سخن: میر کا سوز و گداز + غالب کی معنی آفرینی + مومن کی نازک خیالی + اقبال کی خودی!"
+      ],
+      "culturalNotes": [
+        "میر، غالب اور اقبال کو اردو شعری روایت کے تین ایسے روشن مینار مانا جاتا ہے جنہوں نے زبان کو عالمی فکری و فنی بلندیوں سے ہمکنار کیا۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"پیلا\":",
+          "prompt": "اردو شاعری میں 'فلسفۂ خودی' کس عظیم شاعر کی پہچان ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («سبز» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سفید» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سیاہ» کی خرابی)"
+            "علامہ محمد اقبال (Allama Muhammad Iqbal - Philosopher-poet of Khudi / Selfhood)",
+            "داغ دہلوی",
+            "ذوق",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "فلسفۂ خودی اور انقلابی فکر «علامہ محمد اقبال» کا امتیازی نشان ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"پیلا\":",
+          "prompt": "سوز و گداز اور سہلِ ممتنع کی بدولت کس شاعر کو 'خدائے سخن' کہا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سفید» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سیاہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سبز» کا غیر درست استعمال)"
+            "میر تقی میر (Mir Taqi Mir - Khuda-e-Sukhan / Master of Pathos and Simple Elegance)",
+            "آتش لکھنوی",
+            "ناسخ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "سہل ممتنع اور غم کے لافانی اظہار کی بدولت «میر تقی میر» کو خدائے سخن کہا جاتا ہے۔"
         }
       ]
     },
@@ -9703,17 +9732,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"پیلا\": Which sentence is completely correct?",
+          "prompt": "اساتذۂ سخن اور ان کے اسالیب (Masters of Poetry) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سیاہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سبز» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سفید» سے متعلق)"
+            "اردو کلاسیکی شاعری میں میر کا سوز و درد، غالب کی فلسفیانہ جدت پسندی اور اقبال کا پیامِ خودی ہماری فکری و ادبی تہذیب کا سب سے تابناک سرمایہ ہیں۔ (In Urdu classical poetry, Mir's pathos, Ghalib's philosophical innovation, and Iqbal's message of selfhood are the most radiant treasures of our intellectual civilization.)",
+            "غالب نے شاعری چھوڑ کر گاڑی چلائی تھی اور رویا تھا۔",
+            "میر تقی میر صرف انگریزی میں لکھتے تھے۔",
+            "شاعری کا تعلق فکری تہذیب سے کبھی نہیں رہا۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اردو کلاسیکی شاعری میں میر کا سوز و درد، غالب کی فلسفیانہ جدت پسندی اور اقبال کا پیامِ خودی ہماری فکری و ادبی تہذیب کا سب سے تابناک سرمایہ ہیں۔» اساتذۂ سخن کے اسلوب کا کامل جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u23-l4": {
@@ -9721,53 +9751,62 @@
     "subject": "urdu",
     "unit": 23,
     "lessonNumber": 4,
-    "title": "اردو غزل، شاعری اور ادبی تنقید (Ghazal & Poetics) (Part 4)",
+    "title": "ادبی تنقید، دبستانِ دہلی و لکھنؤ اور جدید اصناف (Literary Criticism & Modern Forms)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 23.4) with authentic precision.",
+    "objective": "دبستانِ دہلی و لکھنؤ کا تقابل، ترقی پسند تحریک اور جدید شعری اصناف (آزاد نظم، نظمِ معریٰ، نثری نظم) کے تنقیدی بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو میں ادبی تنقید اور جدید شعری اصناف (Literary Criticism & Poetics):\n\n1. **دبستانِ دہلی بمقابلہ دبستانِ لکھنؤ**:\n   - «**دبستانِ دہلی**»: باطنی واردات، تصوف، سوز و ملال اور سادگی؛\n   - «**دبستانِ لکھنؤ**»: خارجی حسن، رعایتِ لفظی، مرصع سازی اور تکلف۔\n\n2. **ترقی پسند تحریک (Progressive Writers' Movement)**:\n   - شاعری کو محض زلف و رخسار کے بجائے محنت کشوں کے حقوق اور سماجی انقلاب کا ترجمان بنانا۔\n\n3. **جدید شعری اصناف**:\n   - «**نظمِ معریٰ (Blank Verse)**»: بحر کے وزن کے ساتھ مگر بغیر قافیہ و ردیف؛\n   - «**آزاد نظم (Free Verse)**»: اراکینِ بحر کی کمی بیشی کے ساتھ جدید اسلوب؛\n   - «**نثری نظم (Prose Poem)**»: بحر و وزن سے آزاد نثری آہنگ۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "دبستانِ دہلی کا امتیاز قلبی واردات اور سوز و گداز ہے جبکہ دبستانِ لکھنؤ میں زبان کی چاشنی، رعایتِ لفظی اور خارجی حسن پر زور دیا گیا۔",
+          "reading": "Dabistaan-e-Delhi ka imtiyaaz qalbi waaridaat aur soz-o-gudaaz hai jabkeh Dabistaan-e-Lucknow mein zabaan ki chaashni, ri'aayat-e-lafzi aur khaariji husn par zor diya gaya. [d̪əbɪst̪aːn-eː-d̪ɪlːiː kaː ɪmt̪ɪjaːz qəlbiː ʋaːrɪd̪aːt̪ ɔːr soːz-oː-ɡʊd̪aːz hɛː dʒəbkɛh d̪əbɪst̪aːn-eː-ləkʰnɔː mẽː zəbaːn kiː tʃaːʃniː rɪʔaːjət̪-eː-ləfziː ɔːr xaːrɪdʒiː hʊsn pər zoːr d̪ɪjaː ɡəjaː] (duh-bees-TAHN-ay-DEEL-lee kah eem-tee-YAHZ quhl-BEE vah-ree-DAHT owr SOHZ-oh-goo-DAHZ HY juhb-KYH duh-bees-TAHN-ay-LUHKH-now mayn zuh-BAHN kee chahsh-NEE, ree-ah-yuh-tay-LUHF-zee owr khah-ree-JEE HOOSN puhr ZOHR dee-YAH guh-YAH)",
+          "translation": "The hallmark of the Delhi School is internal experiences and pathos, whereas the Lucknow School emphasized verbal ornament, linguistic elegance, and external beauty [comparative literary criticism]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 23-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ترقی پسند تحریک نے شاعری کو محض محبوب کے حسن کی تعریف کے بجائے مزدور، کسان اور سماجی ناانصافی کی آواز بنایا۔",
+          "reading": "Taraqqi Pasand Tehreek ne shaa'iri ko mehz mehboob ke husn ki ta'reef ke bajaaye mazdoor, kisaan aur samaaji naa-insaafi ki aawaaz banaaya. [t̪ərəqːiː pəsənd̪ t̪ɛhriːq neː ʃaːʔɪriː koː mɛhz mɛhbuːb keː hʊsn kiː t̪əʔriːf keː bədʒaːjeː məzduːr kɪsaːn ɔːr səmaːdʒiː naː-ɪnsaːfiː kiː aːʋaːz bənaːjaː] (tuh-ruhq-QEE puh-SUHND tyh-REEQ nay shah-ee-REE koh MYHZ myh-BOOB kay HOOSN kee tah-REEF kay buh-JAH-yay muhz-DOOR, kee-SAHN owr suh-mah-JEE nah-een-sah-FEE kee ah-VAHZ buh-nah-YAH)",
+          "translation": "The Progressive Writers' Movement turned poetry into the voice of laborers, peasants, and social injustice rather than mere romantic praise of the beloved [literary movement]."
+        },
+        {
+          "target": "ن۔ م۔ راشد اور میراجی نے اردو میں آزاد نظم اور نظمِ معریٰ کے ذریعے جدید شعری حسیت کو نئی جہات سے روشناس کرایا۔",
+          "reading": "N. M. Rashid aur Meera Ji ne Urdu mein aazaad nazm aur nazm-e-mu'arra ke zariye jadeed sha'iri hissiyaat ko naee jihaat se roshnaas karaaya. [ɛn ɛm raːʃɪd̪ ɔːr miːraː dʒiː neː ʊrd̪uː mẽː aːzaːd̪ nəzm ɔːr nəzm-eː-mʊʔərːaː keː zərɪjeː dʒəd̪iːd̪ ʃaːʔɪriː hɪsːɪjaːt̪ koː nəʔiː dʒɪhaːt̪ seː roːʃnaːs kəraːjaː] (N M RAH-sheed owr MEE-rah JEE nay OOR-doo mayn ah-ZAHD NUZM owr NUZM-ay-moo-uhr-RAH kay zuh-ree-YAY juh-DEED shah-ee-REE hees-see-YAHT koh nuh-EE jee-HAHT say rosh-NAHS kuh-rah-YAH)",
+          "translation": "N. M. Rashid and Meeraji introduced modern poetic sensibilities to new dimensions through free verse and blank verse in Urdu."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ادبی تنقید و اصناف: دبستانِ دہلی (دروں بینی) + دبستانِ لکھنؤ (خارجیت) + ترقی پسند تحریک (سماجی حقیقت پسندی) + آزاد نظم!"
+      ],
+      "culturalNotes": [
+        "1936 کی ترقی پسند تحریک نے اردو ادب کو جاگیردارانہ رومانویت سے نکال کر عوام اور پسے ہوئے طبقات کا سب سے بڑا سفیر بنا دیا۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"سبز\":",
+          "prompt": "بحر کے اراکین کی کمی و بیشی والی جدید شعری صنف کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («سفید» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سیاہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بھورا» کی خرابی)"
+            "آزاد نظم (Aazaad Nazm - Free Verse with variable metrical foot lengths)",
+            "مطلع",
+            "قصیدہ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "مصرعوں میں ارکان کی آزادی والی صنف کو «آزاد نظم» (Free Verse) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"سبز\":",
+          "prompt": "ادبی تنقید میں رعایتِ لفظی اور خارجی سجاوٹ کس دبستان کا خاصہ مانی جاتی ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سیاہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بھورا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سفید» کا غیر درست استعمال)"
+            "دبستانِ لکھنؤ (Dabistaan-e-Lucknow - Lucknow School of external polish and wordplay)",
+            "دبستانِ دہلی",
+            "دبستانِ لاہور",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "رعایتِ لفظی اور تکلف و تصنع «دبستانِ لکھنؤ» کی نمایاں خصوصیت ہے۔"
         }
       ]
     },
@@ -9775,17 +9814,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"سبز\": Which sentence is completely correct?",
+          "prompt": "ادبی تنقید اور جدید شعری تحریکات (Literary Criticism & Modern Poetics) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بھورا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سفید» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سیاہ» سے متعلق)"
+            "ترقی پسند تحریک اور جدید آزاد نظم کے بانیوں نے اردو ادب کو روایتی عشقیہ دائرے سے نکال کر حقیقت پسندی اور فکری وسعتوں کے نئے افق عطا کیے۔ (Pioneers of Progressive Movement and modern free verse granted Urdu literature new horizons of realism and intellectual breadth beyond romance.)",
+            "ترقی پسند تحریک نے شاعری کو تالا لگا دیا تھا رویا تھا۔",
+            "آزاد نظم صرف گانے گانے کو کہتے ہیں۔",
+            "تنقید کا مقصد کتابیں جلانا ہوتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ترقی پسند تحریک اور جدید آزاد نظم کے بانیوں نے اردو ادب کو روایتی عشقیہ دائرے سے نکال کر حقیقت پسندی اور فکری وسعتوں کے نئے افق عطا کیے۔» تنقیدی شعور کا کامل ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u23-l5": {
@@ -9793,53 +9833,62 @@
     "subject": "urdu",
     "unit": 23,
     "lessonNumber": 5,
-    "title": "اردو غزل، شاعری اور ادبی تنقید (Ghazal & Poetics) (Part 5)",
+    "title": "اردو غزل، شاعری اور تنقید کا جامع سمیکن (Ghazal & Poetics Grand Synthesis)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 23.5) with authentic precision.",
+    "objective": "ارکانِ غزل، صنائع بدائع، کلاسیکی اساتذہ کے اسالیب، اور جدید تنقیدی تحریکات کو ایک اعلیٰ فکری و ادبی بیانیے میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو شاعری اور ادبی تنقید کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **شعری و جمالیاتی کائنات کا جامع خاکہ**:\n   - **ارکانِ غزل**: «مطلع کی نغمگی، مقطع میں تخلص اور قافیہ و ردیف کا حسین تال میل»؛\n   - **علمِ بیان و بدیع**: «تشبیہ، استعارہ اور تلمیحات کی معنوی گہرائی»؛\n   - **اساتذۂ سخن**: «میر کا دلی غم، غالب کا فلسفیانہ کمال، اور اقبال کا پیامِ حریت»؛\n   - **جدید اصناف و تنقید**: «ترقی پسند تحریک کا سماجی شعور اور آزاد نظم کے نئے امکانات»۔\n\n2. **عالمی ادبی وقار**:\n   - یہ زبان اردو کے علمی مقالات، تنقیدی کتب اور مشاعروں کی جادو بیانی کا نقطۂ عروج ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اردو غزل مطلع سے مقطع تک قافیہ و ردیف کی موسیقیت، تشبیہ و استعارہ کی جمالیات اور میر و غالب کے فکری سوز و ساز کے حسین امتزاج کا نام ہے۔",
+          "reading": "Urdu ghazal matla se maqta tak qaafiya aur radeef ki moseeqiyat, tashbeeh aur isti'aara ki jamaaliyaat aur Mir-o-Ghalib ke fikri soz-o-saaz ke haseen imtizaaj ka naam hai. [ʊrd̪uː ɣəzəl mət̪ləʔ seː məqt̪əʔ t̪ək qaːfɪjaː ɔːr rəd̪iːf kiː moːsiːqɪjət̪ t̪əʃbiːh ɔːr ɪst̪ɪʔaːraː kiː dʒəmaːlɪjaːt̪ ɔːr miːr-oː-ɣaːlɪb keː fɪkriː soːz-oː-saːz keː həsiːn ɪmt̪ɪzaːdʒ kaː naːm hɛː] (OOR-doo ghuh-ZUHL MUHT-luh say MUHQ-tuh tuhk QAH-fee-yah owr ruh-DEEF kee moh-see-QEE-yuht, tush-BEEH owr ees-tee-AH-rah kee juh-mah-lee-YAHT owr MEER-oh-GHAH-leeb kay FEEK-ree SOHZ-oh-SAHZ kay huh-SEEN eem-tee-ZAHJ kah NAHM HY)",
+          "translation": "Urdu ghazal from opening couplet to closing couplet is the name of a sublime synthesis of rhythm of rhyme and refrain, aesthetics of simile and metaphor, and intellectual passion of Mir and Ghalib [grand synthesis]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 23-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "تنقیدی نگاہ سے دیکھا جائے تو کلاسیکی روایات کے دبستانوں سے لے کر جدید آزاد نظم تک اردو سخن نے انسانی جذبات کو بے مثل رفعتیں عطا کی ہیں۔",
+          "reading": "Tanqeedi nigaah se dekha jaaye to classical rawaayaat ke dabistaanon se lay kar jadeed aazaad nazm tak Urdu sukhan ne insaani jazbaat ko bay-misl rif'atein ata ki hain. [t̪ənqiːd̪iː nɪɡaːh seː d̪eːkʰaː dʒaːjeː t̪oː klæsɪkəl rəʋaːjaːt̪ keː d̪əbɪst̪aːnõː seː leː kər dʒəd̪iːd̪ aːzaːd̪ nəzm t̪ək ʊrd̪uː sʊxən neː ɪnsaːniː dʒəzbaːt̪ koː beː-mɪsl rɪfʔət̪ẽː ət̪aː kiː hɛ̃ː] (tuhn-qee-DEE nee-GAHH say DAYK-hah jah-YAY toh classical ruh-wah-YAHT kay duh-bees-tah-NOHN say LAY kuhr juh-DEED ah-ZAHD NUZM tuhk OOR-doo SOO-khuhn nay een-sah-NEE juz-BAHT koh bay-MEESL reef-uh-TAYN uh-TAH kee HYN)",
+          "translation": "Viewed critically, from classical literary schools to modern free verse, Urdu poetry has bestowed incomparable heights upon human emotions."
+        },
+        {
+          "target": "مشاعرے کی روایتی بزم اور شعری محفلوں میں جب فصیح اشعار ترنم سے پڑھے جاتے ہیں تو زبان و ادب کا جادو سامعین پر سحر طاری کر دیتا ہے۔",
+          "reading": "Mushaairay ki rawaayati bazm aur sha'iri mehfilon mein jab faseeh ash'aar tarannum se parhay jaatay hain to zabaan-o-adab ka jaadoo saama'een par sehar taari kar deta hai. [mʊʃaːʔɪreː kiː rəʋaːjət̪iː bəzm ɔːr ʃaːʔɪriː mɛhflõː mẽː dʒəb fəsiːh əʃʔaːr t̪ərənːʊm seː pəɽʱeː dʒaːt̪eː hɛ̃ː t̪oː zəbaːn-oː-əd̪əb kaː dʒaːd̪uː saːmɪʔiːn pər sɪɦr t̪aːriː kər d̪eːt̪aː hɛː] (moo-shah-ee-RAY kee ruh-vah-yuh-TEE BUHZM owr shah-ee-REE myh-fee-LOHN mayn JAHB fuh-SEEH uhsh-AHR tuh-ruhn-NOOM say puhr-HAY jah-TAY HYN toh zuh-BAHN-oh-UH-duhb kah JAH-doo sah-mee-EEN puhr SY-huhr tah-REE kuhr DAY-tah HY)",
+          "translation": "In the traditional gathering of the mushaira and poetic assemblies, when eloquent verses are recited in melodic cadence, the enchantment of language casts a spell upon listeners."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع شعری سمیکن: مطلع و مقطع (ارکان) + تشبیہ و استعارہ (بیان) + میر و غالب و اقبال (فکر) + تنقید و آزاد نظم (جدت)!"
+      ],
+      "culturalNotes": [
+        "برصغیر میں مشاعرہ محض تفریح کا ذریعہ نہیں بلکہ یہ زبان کی شائستگی، تنقیدی شعور، اور فنی کمال کی جانچ کا سب سے بڑا عوامی دربار ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"سفید\":",
+          "prompt": "اردو غزل، علمِ بیان اور ادبی تنقید کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («سیاہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بھورا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («گلابی» کی خرابی)"
+            "مطلع و مقطع، تشبیہ و استعارہ، اساتذۂ سخن کا اسلوب اور جدید تنقیدی تحریکات کا مربوط مطالعہ (Masterful synthesis of ghazal structure, poetic tropes, masters' styles, and modern critical movements)",
+            "شاعر نے کاغذ پھاڑ دیا تھا اور رویا تھا (بے ربط الفاظ)",
+            "وہ صرف شعر گنتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«مطلع و مقطع، تشبیہ و استعارہ، اساتذۂ سخن کا اسلوب اور جدید تنقیدی تحریکات کا مربوط مطالعہ» شاعری کا مکمل سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"سفید\":",
+          "prompt": "اردو شاعری اور ادبی تنقید کا جامع سمیکن قاری کو کیا شعور بخشتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بھورا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («گلابی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سیاہ» کا غیر درست استعمال)"
+            "کلاسیکی فصاحت، صنائع بدائع کی معنوی وسعت اور جدید فکری تحریکات کی جمالیاتی فہم (Comprehending classical eloquence, depth of figures of speech, and aesthetics of modern movements)",
+            "صرف تخلص کی فہرست یاد کرنا (بے فائدہ مشق)",
+            "صرف شاعری کی کتابیں الماری میں رکھنا (محدود دائرہ)",
+            "بے تکی شاعری کی تائید کرنا (غیر تنقیدی)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ فصاحت، صنائع بدائع کی معنوی وسعت اور جدید فکری تحریکات کی جمالیاتی فہم فراہم کرتا ہے۔"
         }
       ]
     },
@@ -9847,17 +9896,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"سفید\": Which sentence is completely correct?",
+          "prompt": "اردو غزل، شاعری اور ادبی تنقید کے جامع سمیکن (Ghazal & Poetics Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («گلابی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سیاہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بھورا» سے متعلق)"
+            "اردو شاعری مطلع سے مقطع تک قافیہ و ردیف کی ہم آہنگی، تشبیہ و استعارہ کی جمالیات، میر و غالب کے فکری سوز و ساز اور جدید آزاد نظم کے تنقیدی شعور کا عظیم ترین شاہکار ہے۔ (Urdu poetry is the greatest masterpiece of rhyme and refrain harmony from opening to closing, aesthetics of tropes, passion of Mir and Ghalib, and critical consciousness of modern verse.)",
+            "شاعر نے مقطع میں مچھلی پکائی تھی اور گاڑی روئی تھی۔",
+            "جامع سمیکن صرف کتاب کا سرورق ہوتا ہے۔",
+            "غزل میں قافیہ استعمال کرنا جرم ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اردو شاعری مطلع سے مقطع تک قافیہ و ردیف کی ہم آہنگی، تشبیہ و استعارہ کی جمالیات، میر و غالب کے فکری سوز و ساز اور جدید آزاد نظم کے تنقیدی شعور کا عظیم ترین شاہکار ہے۔» غزل و شاعری کا کامل ترین شاہکار ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u24-l1": {
