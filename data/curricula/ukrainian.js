@@ -10735,53 +10735,62 @@
     "subject": "ukrainian",
     "unit": 26,
     "lessonNumber": 1,
-    "title": "Банківська справа, інвестиції та макроекономіка (Finance) (Part 1)",
+    "title": "Банківська система, монетарна політика та регулювання НБУ",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 26.1) with authentic linguistic precision.",
+    "objective": "Опанувати термінологію банківської діяльності, інструменти монетарної політики Національного банку України (облікова ставка, рефінансування) та безготівкових розрахунків.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Банківська система України має дворівневу структуру: Національний банк України (центральний банк) та комерційні банки різних форм власності:\n\n1. Інструменти монетарної політики НБУ:\n   - *«Облікова ставка (Key Policy Rate)»* — відсоткова ставка, за якою НБУ надає кредити комерційним банкам (інструмент стримування інфляції);\n   - *«Таргування інфляції»* — політика забезпечення стабільності цін;\n   - *«Нормативи обов'язкового резервування»*;\n   - *«Валютні інтервенції на міжбанківському ринку»* (купівля/продаж іноземної валюти для згладжування курсових коливань);\n   - *«Міжнародні золотовалютні резерви (ЗВР)»*.\n\n2. Банківські операції та рахунки:\n   - *«Поточний (розрахунковий) рахунок»* / *«Депозитний (вкладний) рахунок»*;\n   - *«Безготівковий розрахунок»* (НЕ *безналічний розрахунок*);\n   - *«Касове обслуговування»*;\n   - *«Кредитна лінія, овердрафт, відсоткова маржа»*.\n\n3. Нормативна фінансова лексика:\n   - Вживайте *«відсоткова ставка»* (або *процентна ставка*);\n   - Вживайте *«знецінення / зміцнення національної валюти»*;\n   - Вживайте *«платіжна спроможність / ліквідність банку»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Національний банк України ухвалив рішення знизити облікову ставку з метою відновлення кредитування реального сектора економіки.",
+          "reading": "[nɐt͡sʲiɔˈnɑlʲnɪj bɑnk ukrɐˈjinɪ uxwɐˈlɪw ˈrʲiʃɛnʲːɑ znɪˈzɪtɪ ɔbˈlʲikɔwu ˈstɑwku z ˈmɛtɔju wʲidnɔwˈlɛnʲːɑ krɛdɪtuˈwɑnʲːɑ rɛˈɑlʲnɔɦɔ ˈsɛktɔrɐ ɛkɔˈnɔmʲikɪ] (nah-tsee-oh-NAHL'-nyy BAHN-k oo-krah-YEE-ny ookh-vah-LYV REE-shen-nyah zny-ZY-ty ohb-LEE-koh-woo STAHV-koo z MEH-toh-yoo veed-nohv-LEN-nyah kreh-dy-too-VAHN-nyah reh-AHL'-noh-hoh SEHK-toh-rah eh-koh-NOH-mee-ky)",
+          "translation": "The National Bank of Ukraine made the decision to lower the key policy rate in order to revive lending to the real sector of the economy."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 26-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Завдяки регулярній підтримці міжнародних партнерів золотовалютні резерви України сягнули історичного максимуму.",
+          "reading": "[zɐwˈdʲɑkɪ rɛɦuˈlʲɑrnʲij pʲidˈtrɪmt͡sʲi mʲiʒnɐˈrɔdnɪx pɐrtˈnɛrʲiw zɔlɔtɔwɐˈlʲutnʲi rɛˈzɛrwɪ ukrɐˈjinɪ sʲɑɦˈnulɪ istɔˈrɪtʃnɔɦɔ ˈmɑksɪmumu] (zahv-DYAH-ky reh-hoo-LYAHR-neey peed-TRYM-tsee meezh-nah-ROHD-nykh pahrt-NEH-reew zoh-loh-toh-vah-LYOOT-nee reh-ZEHR-wy oo-krah-YEE-ny syah-HNOO-ly ees-toh-RYCH-noh-hoh MAHK-sy-moo-moo)",
+          "translation": "Thanks to regular support from international partners, Ukraine's foreign exchange reserves have reached an all-time high."
+        },
+        {
+          "target": "Перехід на безготівкові розрахунки та сучасні системи цифрового банкінгу значно підвищив прозорість фінансових операцій.",
+          "reading": "[pɛrɛˈxʲid nɑ bɛzɦɔtʲiwˈkɔwʲi rɔzrɐˈxunkɪ tɑ sut͡ʃɑsˈnʲi sɪsˈtɛmɪ t͡sɪfrɔˈwɔɦɔ ˈbɑnkʲinɦu ˈznɑtʃnɔ pʲidˈwɪʃɪw prɔˈzɔrʲisʲtʲ fʲinɐnˈsɔwɪx ɔpɛˈrɑt͡sʲij] (peh-reh-KHEED nah bez-hoh-teew-KOH-vee roz-rah-KHOON-ky tah soo-chahs-NEE sys-TEH-my tsyf-roh-VOH-hoh BAHN-keen-hoo ZNAHCH-noh peed-VY-shyv proh-ZOH-reest' fee-nahn-SOH-wykh oh-peh-RAH-tseey)",
+          "translation": "The transition to cashless payments and modern digital banking systems significantly increased the transparency of financial transactions."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ставка — «облікова» (не ключова у нормативних актах НБУ!); розрахунки — «безготівкові» (не безналічні!); гроші — «знецінюються або зміцнюються»!"
+      ],
+      "culturalNotes": [
+        "Гривня є спадкоємицею грошової одиниці Русі та Української Народної Республіки, а монетарна стабільність захищена статтею 99 Конституції України."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Повільний\":",
+          "prompt": "Як правильно українською фінансовою мовою називається форма розрахунків платіжними картками та переказами?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.1.",
-            "Неправильне відмінкове узгодження зі словом «Новий»",
-            "Порушення законів евфонії та словотворення для «Старий»",
-            "Стилістично некоректна синтаксична конструкція з «Гарний»"
+            "Безготівковий розрахунок (Cashless settlement - correct standard financial term)",
+            "Безналічний розрахунок",
+            "Безгрошовий платіж",
+            "Неготівковий оборот"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативний фінансово-банківський термін в українській мові — «безготівковий розрахунок»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Повільний\":",
+          "prompt": "Яка базова відсоткова ставка Національного банку України є основним орієнтиром ціни грошей?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.1.",
-            "Порушення законів евфонії та словотворення для «Старий»",
-            "Стилістично некоректна синтаксична конструкція з «Гарний»",
-            "Неправильне відмінкове узгодження зі словом «Новий»"
+            "Облікова ставка (Key policy / discount rate of the NBU)",
+            "Кредитна ставка",
+            "Депозитний процент",
+            "Міжбанківський коефіцієнт"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Базовим монетарним інструментом НБУ є «облікова ставка»."
         }
       ]
     },
@@ -10789,17 +10798,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Повільний\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому банківську термінологію використано без жодної помилки:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.1.",
-            "Стилістично некоректна синтаксична конструкція з «Гарний»",
-            "Неправильне відмінкове узгодження зі словом «Новий»",
-            "Порушення законів евфонії та словотворення для «Старий»"
+            "Комерційний банк розширив обсяги кредитування бізнесу за зниженою відсотковою ставкою та запровадив нові безготівкові сервіси.",
+            "Банк збільшив видачу кредитів під низький безналічний процент для підприємств.",
+            "НБУ поміняв облікову ставку і ввів нові правила по безналу.",
+            "Банківська установа надає кредити під проценти по безготівці."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«За зниженою відсотковою ставкою... безготівкові сервіси» — повна термінологічна відповідність стандартам НБУ."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u26-l2": {
@@ -10807,53 +10817,62 @@
     "subject": "ukrainian",
     "unit": 26,
     "lessonNumber": 2,
-    "title": "Банківська справа, інвестиції та макроекономіка (Finance) (Part 2)",
+    "title": "Інвестиційна діяльність, цінні папери та фондовий ринок",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 26.2) with authentic linguistic precision.",
+    "objective": "Опанувати термінологію ринків капіталу (ОВДП, акції, дивіденди, капіталізація), методи залучення прямих іноземних інвестицій та хеджування фінансових ризиків.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Інвестиційна діяльність та ринки капіталу функціонують на основі обігу фінансових інструментів та оцінки прибутковості активів:\n\n1. Основні види цінних паперів:\n   - *«Акція (проста, привілейована)»* — частковий цінний папір, що дає право на участь в управлінні акціонерним товариством та отримання *дивідендів*;\n   - *«Облігації внутрішньої державної позики (ОВДП)»* / *«Військові облігації»* — боргові цінні папери, випущені Міністерством фінансів України;\n   - *«Корпоративні облігації, векселі, деривативи (ф'ючерси, опціони)»*.\n\n2. Ключові фінансові показники ринку:\n   - *«Ринкова капіталізація підприємства»*;\n   - *«Прибутковість інвестицій (ROI, Return on Investment)»*;\n   - *«Дохідність до погашення (Yield to Maturity)»*;\n   - *«Волатильність біржових котирувань»*.\n\n3. Інвестиційні стратегії та термінологічні вислови:\n   - *«Залучати прямі іноземні інвестиції (ПІІ)»* (НЕ *приваблювати інвестиції*);\n   - *«Диверсифікувати інвестиційний портфель»* (розподіл активів для зниження ризиків);\n   - *«Хеджування фінансових ризиків»* (страхування від курсових або цінових коливань);\n   - *«Венчурний капітал та стартап-екосистеми»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Військові облігації внутрішньої державної позики стали надійним інструментом підтримки державного бюджету та залучення внутрішніх інвестицій.",
+          "reading": "[wʲijʲsʲˈkɔwʲi ɔblʲiˈɦɑt͡sʲiji wnutˈrʲiʃnʲɔji dɛrˈʒɑwnɔji ˈpɔzɪkɪ ˈstɑlɪ nɐˈdʲijnɪm instruˈmɛntɔm pʲidˈtrɪmkɪ dɛrˈʒɑwnɔɦɔ bʲudˈʒɛtu tɑ zɐlʲuˈtʃɛnʲːɑ wnutˈrʲiʃnʲix inwɛsˈtɪt͡sʲij] (veey-s'KOH-vee oh-blee-HAH-tsee-yee vnoot-REESH-nyoh-yee dehr-ZHAHV-noh-yee POH-zy-ky STAH-ly nah-DEEY-nym een-stroo-MEHN-tohm peed-TRYM-ky dehr-ZHAHV-noh-hoh byood-ZHEH-too tah zah-lyoo-CHEN-nyah vnoot-REESH-neekh een-vehs-TY-tseey)",
+          "translation": "Military domestic government bonds have become a reliable instrument for supporting the state budget and attracting domestic investments."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 26-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Інституційні інвестори прагнуть диверсифікувати свої активи, комбінуючи акції технологічних гігантів та надійні суверенні облігації.",
+          "reading": "[instɪtut͡sʲijˈnʲi inwɛsˈtɔrɪ ˈprɑɦnutʲ dɪwɛrsɪfʲikuˈwɑtɪ swɔˈji ɐkˈtɪwɪ, kɔmbʲiˈnujutʃɪ ˈɑkt͡sʲiji tɛxnɔlɔˈɦʲitʃnɪx ɦʲiˈɦɑntʲiw tɑ nɐˈdʲijnʲi suwɛˈrɛnnʲi ɔblʲiˈɦɑt͡sʲiji] (een-sty-too-tseey-NEE een-vehs-TOH-ry PRAH-hnoot' dy-vehr-sy-fee-koo-VAH-ty swoh-YEE ahk-TY-wy, kohm-bee-NOO-yoo-chy AHK-tsee-yee tekh-noh-loh-HEE-chnykh hee-HAHN-teew tah nah-DEEY-nee soo-weh-REHN-nee oh-blee-HAH-tsee-yee)",
+          "translation": "Institutional investors seek to diversify their assets by combining shares of tech giants with reliable sovereign bonds."
+        },
+        {
+          "target": "Хеджування валютних ризиків дозволяє експортерам зафіксувати ціну контракту та убезпечити бізнес від неочікуваних курсових коливань.",
+          "reading": "[xɛdʒuˈwɑnʲːɑ wɐˈlʲutnɪx ˈrɪzɪkʲiw dɔzˈwɔlʲɑjɛ ɛkspɔrˈtɛrɐm zɐfʲiksɔˈwɑtɪ ˈt͡sʲinu kɔntˈrɑktu tɑ ubɛzˈpɛtʃɪtɪ ˈbʲiznɛs wʲid nɛɔtʃʲiˈkɔwɐnɪx kurˈsɔwɪx kɔlɪˈwɑnʲ] (kheh-dzhoo-VAHN-nyah vah-LYOOT-nykh RY-zy-keew dohz-VOH-lyah-yeh eks-pohr-TEH-rahm zah-feek-soh-VAH-ty TSEEN-oo kohn-TRAHK-too tah oo-bez-PEH-chy-ty BEEZ-nehs veed neh-oh-chee-KOH-wah-nykh koor-SOH-wykh koh-ly-VAHN')",
+          "translation": "Hedging currency risks allows exporters to lock in contract prices and protect business from unexpected exchange rate fluctuations."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ОВДП — облігації внутрішньої державної позики! Акції приносять «дивіденди»; інвестиції «залучають»; ризики «диверсифікують та деджують»!"
+      ],
+      "culturalNotes": [
+        "Під час повномасштабного вторгнення цифрові військові облігації через застосунок «Дія» стали масовим національним інвестиційним феноменом."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Новий\":",
+          "prompt": "Як називається частина чистого прибутку компанії, що виплачується акціонерам пропорційно до їхніх часток?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.2.",
-            "Неправильне відмінкове узгодження зі словом «Старий»",
-            "Порушення законів евфонії та словотворення для «Гарний»",
-            "Стилістично некоректна синтаксична конструкція з «Добрий»"
+            "Дивіденди (Dividends - share of profit paid to stockholders)",
+            "Роялті",
+            "Кешбек",
+            "Преміальні"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативний фінансовий термін для виплат акціонерам — «дивіденди»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Новий\":",
+          "prompt": "Яке дієслово є нормативним для процесу отримання коштів від міжнародних інвесторів?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.2.",
-            "Порушення законів евфонії та словотворення для «Гарний»",
-            "Стилістично некоректна синтаксична конструкція з «Добрий»",
-            "Неправильне відмінкове узгодження зі словом «Старий»"
+            "Залучати інвестиції (To attract / raise investments - correct economic collocation)",
+            "Приваблювати інвестиції",
+            "Затягувати інвестиції",
+            "Заводити капітали"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Нормативне словосполучення в економічному стилі — «залучати інвестиції»."
         }
       ]
     },
@@ -10861,17 +10880,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Новий\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому інвестиційні та фінансові процеси описано грамотно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.2.",
-            "Стилістично некоректна синтаксична конструкція з «Добрий»",
-            "Неправильне відмінкове узгодження зі словом «Старий»",
-            "Порушення законів евфонії та словотворення для «Гарний»"
+            "Підприємство залучило прямі іноземні інвестиції шляхом розміщення додаткового випуску простих іменних акцій на фондовому ринку.",
+            "Підприємство привабило іноземні капітали через продаж акцій на біржовому базарі.",
+            "Компанія завела інвестиції випуском цінних бумаг на біржі.",
+            "Залучення інвестицій пройшло через роздачу акцій по інвесторам."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Залучило прямі іноземні інвестиції... випуску простих іменних акцій на фондовому ринку» — бездоганна фінансова термінологія."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u26-l3": {
@@ -10879,53 +10899,62 @@
     "subject": "ukrainian",
     "unit": 26,
     "lessonNumber": 3,
-    "title": "Банківська справа, інвестиції та макроекономіка (Finance) (Part 3)",
+    "title": "Податкова система, фіскальне адміністрування та мито",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 26.3) with authentic linguistic precision.",
+    "objective": "Опанувати податкову та митну термінологію України (ПДВ, ПДФО, ЄСВ, акциз, митні платежі), процедури декларування доходів та адміністрування податків.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Податкова система України регулюється Податковим та Митним кодексами і забезпечує наповнення державного та місцевих бюджетів:\n\n1. Основні види податків та зборів:\n   - *«Податок на додану вартість (ПДВ)»* (непрямий податок, що входить у ціну товару);\n   - *«Податок на доходи фізичних осіб (ПДФО)»*;\n   - *«Податок на прибуток підприємств»*;\n   - *«Єдиний соціальний внесок (ЄСВ)»* — консолідований страховий внесок;\n   - *«Військовий збір, акцизний податок (акциз), екологічний податок, податок на нерухоме майно»*;\n   - *«Мито (ввізне, вивізне, сезонне) та митні збори»*.\n\n2. Процедури податкового контролю:\n   - *«Подання податкової декларації»*;\n   - *«База оподаткування / ставка оподаткування»*;\n   - *«Податковий кредит та бюджетне відшкодування ПДВ»*;\n   - *«Камеральна, документальна (планова / позапланова) податкова перевірка»*;\n   - *«Податкове повідомлення-рішення (ППР)»*.\n\n3. Нормативна лексика фіскального стилю:\n   - Вживайте *«платник податків»* (НЕ *налогоплатєльщик*);\n   - Вживайте *«сплата податків»* (НЕ *уплата податків*);\n   - Вживайте *«податкові пільги»*;\n   - Вживайте *«Державна податкова служба (ДПС)»* та *«Державна митна служба»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Своєчасна сплата податків та зборів є конституційним обов'язком кожного свідомого громадянина та запорукою фінансової стійкості держави.",
+          "reading": "[swɔjɛˈt͡ʃɑsnɐ ˈsplɑtɐ pɔˈdɑtkʲiw tɑ ˈzbɔrʲiw jɛ kɔnstɪtuˈt͡sʲijnɪm ɔbɔwˈjɑzkɔm ˈkɔʒnɔɦɔ swʲiˈdɔmɔɦɔ ɦrɔmɐˈdʲɑnɪnɐ tɑ zɐpɔˈrukɔju fʲinɐnˈsɔwɔji sʲtʲijˈkɔsʲtʲi dɛrˈʒɑwɪ] (swoh-yeh-CHAHS-nah SPLAH-tah poh-DAHT-keew tah ZBOH-reew yeh kohn-sty-too-TSEEY-nym oh-bov-YAHZ-kohm KOHZH-noh-hoh swee-DOH-moh-hoh hroh-mah-DYAH-ny-nah tah zah-poh-ROO-koh-yoo fee-nahn-SOH-woh-yee steey-KOHS-tee dehr-ZHAH-wy)",
+          "translation": "Timely payment of taxes and fees is a constitutional duty of every conscious citizen and the guarantee of the state's financial resilience."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 26-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Експортери сільськогосподарської продукції мають право на автоматичне бюджетне відшкодування податку на додану вартість.",
+          "reading": "[ɛkspɔrˈtɛrɪ sʲilʲsʲkɔɦɔspɔˈdɑrsʲkɔji prɔˈdukt͡sʲiji ˈmɑjutʲ ˈprɑwɔ nɑ ɐwtɔmɐˈtɪtʃnɛ bʲudˈʒɛtnɛ wʲidʃkɔduˈwɑnʲːɑ pɔˈdɑtku nɑ dɔˈdɑnu ˈwɑrtʲisʲtʲ] (eks-pohr-TEH-ry seel's'koh-hohs-poh-DAHR-s'koh-yee proh-DOOK-tsee-yee MAH-yoot' PRAH-woh nah ahv-toh-mah-TYCH-neh byood-ZHEHT-neh veed-shkoh-doo-VAHN-nyah poh-DAHT-koo nah doh-DAH-noo VAHR-teest')",
+          "translation": "Exporters of agricultural products have the right to automatic budgetary refund of value-added tax."
+        },
+        {
+          "target": "Державна податкова служба провела камеральну перевірку поданої звітності та не виявила порушень податкового законодавства.",
+          "reading": "[dɛrˈʒɑwnɐ pɔdɐtˈkɔwɐ ˈsluʒbɐ prɔwɛˈlɑ kɐmɛˈrɑlʲnu pɛrɛˈwʲirku ˈpɔdɑnɔji ˈzwʲitnɔsʲtʲi tɑ nɛ wɪˈjɑwɪlɐ pɔruˈʃɛnʲ pɔdɐtˈkɔwɔɦɔ zɐkɔnɔˈdɑwstxɐ] (dehr-ZHAHV-nah poh-daht-KOH-wah SLOOZH-bah proh-weh-LAH kah-meh-RAHL'-noo peh-reh-VEER-koo POH-dah-noh-yee ZVEET-nohs-tee tah neh vy-YAH-wy-lah poh-roo-SHEN' poh-daht-KOH-woh-hoh zah-koh-noh-DAHV-stvah)",
+          "translation": "The State Tax Service conducted a desk audit of the submitted reporting and found no violations of tax legislation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Не «уплата», а «сплата податків»! Не «налоги», а «податки і збори»! Податки: ПДВ, ПДФО, ЄСВ, акциз, мито!"
+      ],
+      "culturalNotes": [
+        "Впровадження цифрового кабінету платника податків та програмних РРО суттєво спростило податкове адміністрування для малого та середнього бізнесу в Україні."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Старий\":",
+          "prompt": "Як правильно українською мовою називається особа або компанія, що сплачує податки?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.3.",
-            "Неправильне відмінкове узгодження зі словом «Гарний»",
-            "Порушення законів евфонії та словотворення для «Добрий»",
-            "Стилістично некоректна синтаксична конструкція з «Розуміти»"
+            "Платник податків (Taxpayer - standard Ukrainian legal term)",
+            "Налогоплатєльщик",
+            "Податкодавець",
+            "Податковий платник"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативний правничий та податковий термін — «платник податків»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Старий\":",
+          "prompt": "Яка назва обов'язкового платежу, що стягується митними органами при ввезенні або вивезенні товарів?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.3.",
-            "Порушення законів евфонії та словотворення для «Добрий»",
-            "Стилістично некоректна синтаксична конструкція з «Розуміти»",
-            "Неправильне відмінкове узгодження зі словом «Гарний»"
+            "Мито (Customs duty - standard term)",
+            "Пошліна",
+            "Митна плата",
+            "Кордонний збір"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Нормативний термін в українському митному праві — «мито»."
         }
       ]
     },
@@ -10933,17 +10962,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Старий\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому фіскальні процедури описано бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.3.",
-            "Стилістично некоректна синтаксична конструкція з «Розуміти»",
-            "Неправильне відмінкове узгодження зі словом «Гарний»",
-            "Порушення законів евфонії та словотворення для «Добрий»"
+            "Платник податків подав річну податкову декларацію про доходи та в повному обсязі здійснив сплату єдиного соціального внеску.",
+            "Налогоплатєльщик здав декларацію і зробив уплату єдиного соціального збору.",
+            "Платник податку перерахував пошліну та здав звіт по налогам.",
+            "Податкодавець здійснив уплату ПДВ і ЄСВ без затримки."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Платник податків... податкову декларацію... сплату єдиного соціального внеску» — бездоганна фіскальна термінологія."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u26-l4": {
@@ -10951,53 +10981,62 @@
     "subject": "ukrainian",
     "unit": 26,
     "lessonNumber": 4,
-    "title": "Банківська справа, інвестиції та макроекономіка (Finance) (Part 4)",
+    "title": "Корпоративні фінанси, аудит, бухгалтерський баланс та реструктуризація",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 26.4) with authentic linguistic precision.",
+    "objective": "Опанувати бухгалтерську та аудиторську термінологію (активи, пасиви, дебіторська/кредиторська заборгованість, ліквідність), аналіз фінансової звітності та процедури санації.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Корпоративні фінанси та бухгалтерський облік спираються на міжнародні стандарти фінансової звітності (МСФЗ):\n\n1. Структура бухгалтерського балансу підприємства:\n   - *«Активи (оборотні та необоротні активи)»* — ресурси, що контролюються підприємством;\n   - *«Пасиви (власний капітал та зобов'язання)»*;\n   - *«Дебіторська заборгованість»* (борги контрагентів перед компанією);\n   - *«Кредиторська заборгованість»* (борги компанії перед постачальниками або банками);\n   - *«Нерозподілений прибуток, статутний капітал, амортизація»*.\n\n2. Показники звіту про фінансові результати:\n   - *«Чистий дохід (виручка) від реалізації продукції»*;\n   - *«Собівартість реалізованої продукції»*;\n   - *«Валовий прибуток / Операційний прибуток (EBITDA)»*;\n   - *«Чистий прибуток (збиток)»*.\n\n3. Аудит, неплатоспроможність та реструктуризація:\n   - *«Незалежний аудиторський висновок (безумовно позитивний, модифікований)»*;\n   - *«Реструктуризація боргових зобов'язань»*;\n   - *«Санація (фінансове оздоровлення боржника)»*;\n   - *«Неплатоспроможність, процедура банкрутства та ліквідаційний баланс»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "За результатами щорічного аудиту міжнародна аудиторська компанія надала безумовно позитивний висновок щодо фінансової звітності холдингу.",
+          "reading": "[zɑ rɛzulʲˈtɑtɐmɪ ʃtʃɔˈrʲitʃnɔɦɔ ɐuˈdɪtu mʲiʒnɐˈrɔdnɐ ɐudɪˈtɔrsʲkɐ kɔmˈpɑnʲijɑ nɐˈdɑlɐ bɛzuˈmɔwnɔ pɔzɪˈtɪwnɪj ˈwɪsnɔwɔk ʃtʃɔˈdɔ fʲinɐnˈsɔwɔji ˈzwʲitnɔsʲtʲi ˈxɔldɪnɦu] (zah reh-zool'-TAH-tah-my shchoh-REECH-noh-hoh ah-oo-DY-too meezh-nah-ROHD-nah ah-oo-dy-TOHR-s'kah kohm-PAH-nee-yah nah-DAH-lah bez-oo-MOHV-noh poh-zy-TYV-nyy VYS-noh-wohk shchoh-DOH fee-nahn-SOH-woh-yee ZVEET-nohs-tee KHOHL-dyn-hoo)",
+          "translation": "Based on the results of the annual audit, the international auditing firm issued an unqualified (clean) opinion on the holding's financial statements."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 26-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Оптимізація структури активів та скорочення дебіторської заборгованості дозволили підприємству відновити платоспроможність.",
+          "reading": "[ɔptɪmʲizɑˈt͡sʲijɑ struktˈurɪ ɐkˈtɪwʲiw tɑ skrɔˈtʃɛnʲːɑ dɛbʲiˈtɔrsʲkɔji zɐbɔrˈɦɔwɑnɔsʲtʲi dɔzˈwɔlɪlɪ pʲidˈprɪjɛmstwu wʲidnɔˈwɪtɪ plɐtɔsprɔˈmɔʒnʲisʲtʲ] (ohp-ty-mee-ZAH-tsee-yah strook-TOO-ry ahk-TY-weew tah skroh-CHEN-nyah deh-bee-TOHR-s'koh-yee zah-bohr-HOH-wah-nohs-tee dohz-VOH-ly-ly peed-PRY-yehm-stvoo veed-noh-VY-ty plah-toh-sproh-MOHZH-neest')",
+          "translation": "Optimization of the asset structure and reduction of accounts receivable allowed the enterprise to restore its solvency."
+        },
+        {
+          "target": "Кредитори погодили план досудової санації боржника, який передбачає реструктуризацію тіла кредиту та відстрочення виплати відсотків.",
+          "reading": "[krɛdɪˈtɔrɪ pɔɦɔˈdɪlɪ plɑn dɔsuˈdɔwɔji sɐˈnɑt͡sʲiji bɔrʒnɪˈkɑ, jɑˈkɪj pɛrɛdbɐˈtʃɑjɛ rɛstrukturɪˈzɑt͡sʲiju ˈtʲilɐ ˈkrɛdɪtu tɑ wʲidstrɔˈtʃɛnʲːɑ ˈwɪplɐtɪ wʲidˈsɔtkʲiw] (kreh-dy-TOH-ry poh-hoh-DY-ly plahn doh-soo-DOH-woh-yee sah-NAH-tsee-yee bohrzh-ny-KAH, yah-KYY peh-rehd-bah-CHAH-yeh reh-strook-too-ry-ZAH-tsee-yoo TEE-lah KREH-dy-too tah veed-stroh-CHEN-nyah VY-plah-ty veed-SOHT-keew)",
+          "translation": "The creditors approved the pre-trial rehabilitation plan for the debtor, providing for the restructuring of the loan principal and deferral of interest payments."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Баланс: «активи = власний капітал + зобов'язання»; борги: нам винні — «дебіторська», ми винні — «кредиторська заборгованість»!"
+      ],
+      "culturalNotes": [
+        "Український бізнес масово інтегрує системи автоматизованого аудиту та прозору звітність за стандартами ESG (довкілля, соціальна сфера, врядування)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Гарний\":",
+          "prompt": "Як називається заборгованість інших підприємств або покупців перед нашою компанією?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.4.",
-            "Неправильне відмінкове узгодження зі словом «Добрий»",
-            "Порушення законів евфонії та словотворення для «Розуміти»",
-            "Стилістично некоректна синтаксична конструкція з «Знати»"
+            "Дебіторська заборгованість (Accounts receivable - debts owed to the company)",
+            "Кредиторська заборгованість",
+            "Пасивна заборгованість",
+            "Статутна заборгованість"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Борги інших суб'єктів перед підприємством є «дебіторською заборгованістю» (наші борги — кредиторською)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Гарний\":",
+          "prompt": "Як називається система фінансово-економічних заходів для запобігання банкрутству підприємства?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.4.",
-            "Порушення законів евфонії та словотворення для «Розуміти»",
-            "Стилістично некоректна синтаксична конструкція з «Знати»",
-            "Неправильне відмінкове узгодження зі словом «Добрий»"
+            "Санація (Corporate rehabilitation / turnaround)",
+            "Ліквідація",
+            "Емісія",
+            "Інкасація"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Фінансове оздоровлення підприємства-боржника називається «санацією»."
         }
       ]
     },
@@ -11005,17 +11044,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Гарний\": Which sentence is completely correct?",
+          "prompt": "Оберіть фрагмент фінансового звіту з абсолютно коректною економічною термінологією:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.4.",
-            "Стилістично некоректна синтаксична конструкція з «Знати»",
-            "Неправильне відмінкове узгодження зі словом «Добрий»",
-            "Порушення законів евфонії та словотворення для «Розуміти»"
+            "Завдяки зниженню собівартості продукції компанія збільшила операційний прибуток та скоротила кредиторську заборгованість.",
+            "Через зниження собістоімості фірма підняла прибуток і закрила долги по кредиторам.",
+            "Підприємство підняло виручку і розрахувалося по пасивам.",
+            "Компанія зменшила расход на продукцію і вийшла в плюс по балансу."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Собівартість продукції... операційний прибуток... кредиторська заборгованість» — бездоганні норми фінансового аналізу."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u26-l5": {
@@ -11023,53 +11063,62 @@
     "subject": "ukrainian",
     "unit": 26,
     "lessonNumber": 5,
-    "title": "Банківська справа, інвестиції та макроекономіка (Finance) (Part 5)",
+    "title": "Макроекономічний аналіз, ВВП, інфляція та міжнародна торгівля",
     "level": "C1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 26.5) with authentic linguistic precision.",
+    "objective": "Опанувати макроекономічні індикатори (ВВП, рівень інфляції, платіжний баланс), термінологію зовнішньоекономічної діяльності (ЗЕД, ЗВТ) та інтеграції у світову економіку.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Макроекономіка досліджує функціонування економіки як єдиного цілого на національному та глобальному рівнях:\n\n1. Основні макроекономічні агрегати та індекси:\n   - *«Валовий внутрішній продукт (ВВП / GDP)»* — номінальний та реальний ВВП;\n   - *«Валовий національний дохід (ВНД)»*;\n   - *«Паритет купівельної спроможності (ПКС)»*;\n   - *«Індекс споживчих цін (ІСЦ / CPI)»* — показник рівня інфляції;\n   - *«Рівень безробіття (за методологією МОП)»*;\n   - *«Платіжний баланс та сальдо торговельного балансу (профіцит / дефіцит)»*.\n\n2. Зовнішньоекономічна діяльність (ЗЕД) та торговельна політика:\n   - *«Експорт та імпорт товарів і послуг»*;\n   - *«Глибока та всеохоплююча зона вільної торгівлі (DCFTA / ЗВТ) з Європейським Союзом»*;\n   - *«Торговельні бар'єри, квоти, митно-тарифне регулювання»*;\n   - *«Диверсифікація експортних ринків збуту»*.\n\n3. Співпраця з міжнародними фінансовими організаціями (МФО):\n   - *«Міжнародний валютний фонд (МВФ)»*, *«Світовий банк»*, *«Європейський банк реконструкції та розвитку (ЄБРР)»*;\n   - *«Програма розширеного фінансування (EFF)»*, *«Макрофінансова допомога»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Реальне зростання валового внутрішнього продукту України перевищило прогнозні показники завдяки розширенню морського експортного коридору.",
+          "reading": "[rɛˈɑlʲnɛ zrɔsˈtɑnʲːɑ wɐlɔˈwɔɦɔ wnutˈrʲiʃnʲɔɦɔ prɔˈduktu ukrɐˈjinɪ pɛrɛwɪˈʃɪlɔ prɔɦˈnɔznʲi pɔkɑzˈnɪkɪ zɐwˈdʲɑkɪ rɔzˈʃɪrɛnʲːu mɔrʲsʲˈkɔɦɔ ɛkspɔrtˈnɔɦɔ kɔrɪˈdɔru] (reh-AHL'-neh zrohs-TAHN-nyah vah-loh-VOH-hoh vnoot-REESH-nyoh-hoh proh-DOOK-too oo-krah-YEE-ny peh-reh-vy-SHY-loh prohh-NOHZ-nee poh-kahz-NY-ky zahv-DYAH-ky roz-SHY-ren-nyoo mohr-s'KOH-hoh eks-pohrt-NOH-hoh koh-ry-DOH-roo)",
+          "translation": "The real growth of Ukraine's gross domestic product exceeded forecasts thanks to the expansion of the maritime export corridor."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 26-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Успішна реалізація структурних маяків програми МВФ сприяє збереженню макрофінансової стабільності та довіри іноземних кредиторів.",
+          "reading": "[usʲˈpʲiʃnɐ rɛɐlʲizɑˈt͡sʲijɑ struktˈurnɪx mɐjɑˈkʲiw prɔɦˈrɑmɪ ɛm wɛ ˈɛf sprɪˈjɑjɛ zbɛrɛˈʒɛnʲːu mɐkrɔfʲinɐnˈsɔwɔji stɐˈbʲilʲnɔsʲtʲi tɑ dɔˈwʲirɪ inɔˈzɛmnɪx krɛdɪˈtɔrʲiw] (oos-PEESH-nah reh-ah-lee-ZAH-tsee-yah strook-TOOR-nykh mah-yah-KEEW proh-HRAH-my ehm veh ehf spry-YAH-yeh zbeh-reh-ZHEN-nyoo mah-kroh-fee-nahn-SOH-woh-yee stah-BEEL'-nohs-tee tah doh-VEE-ry ee-noh-ZEHM-nykh kreh-dy-TOH-reew)",
+          "translation": "Successful implementation of structural benchmarks of the IMF program contributes to maintaining macro-financial stability and the confidence of foreign creditors."
+        },
+        {
+          "target": "Позитивне сальдо торгівлі послугами частково компенсує дефіцит торговельного балансу товарів в умовах воєнного стану.",
+          "reading": "[pɔzɪˈtɪwnɛ ˈsɑlʲdɔ tɔrˈɦʲiwlʲi pɔsˈluɦɐmɪ t͡ʃɑstˈkɔwɔ kɔmpɛnˈsujɛ dɛfʲiˈt͡sɪt tɔrɦɔˈwɛlʲnɔɦɔ bɐˈlɑnsu tɔwɐˈrʲiw w uˈmɔwɐx wɔˈjɛnnɔɦɔ ˈstɑnu] (poh-zy-TYV-neh SAHL'-doh tohr-HEEV-lee pohs-LOO-hah-my chahst-KOH-woh kohm-pehn-SOO-yeh deh-fee-TSYT tohr-hoh-VEHL'-noh-hoh bah-LAHN-soo toh-wah-REEW v oo-MOH-wahkh woh-YEHN-noh-hoh STAH-noo)",
+          "translation": "The positive balance of trade in services partially compensates for the deficit of the trade balance in goods under martial law."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ВВП — «валовий внутрішній продукт»; баланс: перевищення експорту — «профіцит», імпорту — «дефіцит»; ціни міряє «індекс споживчих цін»!"
+      ],
+      "culturalNotes": [
+        "Інтеграція України до єдиного європейського ринку відкриває безмитний доступ українських виробників до ринку з понад 450 мільйонами споживачів."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Добрий\":",
+          "prompt": "Як розшифровується абревіатура ВВП в українській макроекономічній термінології?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.5.",
-            "Неправильне відмінкове узгодження зі словом «Розуміти»",
-            "Порушення законів евфонії та словотворення для «Знати»",
-            "Стилістично некоректна синтаксична конструкція з «Думати»"
+            "Валовий внутрішній продукт (Gross Domestic Product - GDP in Ukrainian)",
+            "Внутрішній валовий прибуток",
+            "Виробничий валовий потенціал",
+            "Всеукраїнський валютний показник"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативна розшифровка ВВП — «валовий внутрішній продукт»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Добрий\":",
+          "prompt": "Як називається стан торговельного балансу, коли експорт перевищує імпорт?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.5.",
-            "Порушення законів евфонії та словотворення для «Знати»",
-            "Стилістично некоректна синтаксична конструкція з «Думати»",
-            "Неправильне відмінкове узгодження зі словом «Розуміти»"
+            "Профіцит / позитивне сальдо (Trade surplus / positive balance)",
+            "Дефіцит",
+            "Інфляція",
+            "Дисбаланс"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Перевищення доходів від експорту над витратами на імпорт називається «профіцитом» або «позитивним сальдо»."
         }
       ]
     },
@@ -11077,17 +11126,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Добрий\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення макроекономічного аналізу, в якому ВСІ терміни та показники вжито бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 26.5.",
-            "Стилістично некоректна синтаксична конструкція з «Думати»",
-            "Неправильне відмінкове узгодження зі словом «Розуміти»",
-            "Порушення законів евфонії та словотворення для «Знати»"
+            "Уповільнення споживчої інфляції та зростання реального ВВП свідчать про поступове відновлення макроекономічної рівноваги.",
+            "Падіння інфляції і підняття ВВП показують що економіка прийшла в порядок.",
+            "Ріст валового продукту і зменшення індексів цін стабілізували гроші.",
+            "Макроекономіка показала плюсовий ВВП і нормальні проценти інфляції."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Уповільнення споживчої інфляції та зростання реального ВВП... макроекономічної рівноваги» — високий академічний та аналітичний стандарт."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u27-l1": {
