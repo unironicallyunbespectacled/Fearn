@@ -1305,53 +1305,62 @@
     "subject": "ukrainian",
     "unit": 3,
     "lessonNumber": 1,
-    "title": "Називний та Кличний відмінки (Nominative & Vocative Cases) (Part 1)",
+    "title": "Називний відмінок: синтаксична роль підмета та конструкції з нульовою зв'язкою (Nominative Case & Zero Copula)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 3.1) with authentic linguistic precision.",
+    "objective": "Опанувати функції називного відмінка (питання хто? що?), побудову простого непоширеного й поширеного речення, конструкції з тире при нульовій дієслівній зв'язці.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Називний відмінок (Nominative Case / хто? що?) — це єдиний прямий і початковий відмінок в українській мові, що слугує базою для словникових форм іменників:\n\n1. Основні синтаксичні функції називного відмінка:\n- Граматичний підмет (Subject) — виконавець дії або носій стану в реченні (наприклад: «Сонце світить», «Студент читає»).\n- Іменна частина складеного присудка при нульовій зв'язці теперішнього часу (коли дієслово «бути / є» опускається).\n\n2. Пунктуаційне правило вживання тире:\n- Якщо і підмет, і присудок виражені іменниками у називному відмінку, між ними ставиться тире (наприклад: «Київ — столиця України», «Тарас Шевченко — великий український поет»).\n\n3. Питальні речення зі словами «Хто?» та «Що?»:\n- «Хто це?» — «Це наша нова викладачка.»\n- «Що це?» — «Це старовинний львівський університет.»",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Київ — велична давня столиця незалежної української держави.",
+          "reading": "[ˈkɪjiw — wɛˈlɪtʃnɐ ˈdɑwnʲɑ stɔˈlɪtsʲɑ nɛzɐˈlɛʒnɔjɪ ukrɐˈjinʲsʲkɔjɪ dɛrˈʒɑwɪ] (KY-yeev — veh-LYCH-nah DAHV-nyah stoh-LY-tsyah neh-zah-LEZH-noh-yee oo-krah-YEEN-s'koh-yee der-ZHAH-vy)",
+          "translation": "Kyiv is the majestic ancient capital of the independent Ukrainian state."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 3-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Талановитий молодий студент старанно вивчає сучасні інформаційні технології.",
+          "reading": "[tɐlɐnɔˈwɪtɪj mɔlɔˈdɪj stuˈdɛnt stɐˈrɑnːɔ wɪwˈtʃɑjɛ sutʃɐsʲˈnʲi infɔrmɐt͡sʲijʲˈnʲi tɛxnɔˈlɔɦijɪ] (tah-lah-noh-VY-tyi moh-loh-DYI stoo-DENT stah-RAHN-noh vyv-CHAH-yeh soo-chahs-NEE een-for-mah-TSEE-ynee tekh-noh-LOH-hee-yee)",
+          "translation": "The talented young student diligently studies modern information technologies."
+        },
+        {
+          "target": "Українська мова — одна з найбагатших та наймилозвучніших мов світу.",
+          "reading": "[ukrɐˈjinʲsʲkɐ ˈmɔwɐ — ɔdˈnɑ z nɐjbɐˈɦɑtʃɪx tɑ nɐjmɪlɔzˈwutʃnʲiʃɪx mɔw ˈsʲwʲitu] (oo-krah-YEEN-s'kah MOH-vah — ohd-NAH z nay-bah-HAH-tshykh tah nay-my-loh-ZVOOCH-nee-shykh mov SVEE-too)",
+          "translation": "The Ukrainian language is one of the richest and most melodious languages in the world."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Хто?» та «Що?» — називний стоїть сповна, підметом у реченні керує він щодня!"
+      ],
+      "culturalNotes": [
+        "Конструкція «Іменник — іменник» із тире є золотим стандартом класичних українських дефініцій, афоризмів та поетичних рядків."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Хліб\":",
+          "prompt": "Оберіть речення, в якому між підметом і присудком правильно вжито тире при нульовій дієслівній зв'язці:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.1.",
-            "Неправильне відмінкове узгодження зі словом «Вода»",
-            "Порушення законів евфонії та словотворення для «Молоко»",
-            "Стилістично некоректна синтаксична конструкція з «Кава»"
+            "Дніпро — найдовша та наймогутніша річка України. (Noun — Noun in Nominative)",
+            "Дніпро тому річка України.",
+            "Дніпро хіба що річка України.",
+            "Дніпро нехай річка України."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Оскільки підмет «Дніпро» та присудок «річка» виражені іменниками у називному відмінку, між ними ставиться тире."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Хліб\":",
+          "prompt": "На які граматичні питання відповідає іменник у формі називного відмінка?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.1.",
-            "Порушення законів евфонії та словотворення для «Молоко»",
-            "Стилістично некоректна синтаксична конструкція з «Кава»",
-            "Неправильне відмінкове узгодження зі словом «Вода»"
+            "Хто? Що? (Who? What? - Nominative)",
+            "Кого? Чого?",
+            "Кому? Чому?",
+            "Ким? Чим?"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Називний відмінок є прямим відмінком і відповідає на питання «Хто?» (для істот) та «Що?» (для неістот)."
         }
       ]
     },
@@ -1359,17 +1368,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Хліб\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, де іменник виступає граматичним підметом у називному відмінку:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.1.",
-            "Стилістично некоректна синтаксична конструкція з «Кава»",
-            "Неправильне відмінкове узгодження зі словом «Вода»",
-            "Порушення законів евфонії та словотворення для «Молоко»"
+            "Весняний теплий дощ рясно поливає квітучий сад.",
+            "Весняним теплим дощем полило квітучий сад.",
+            "Від весняного теплого дощу розквітнув сад.",
+            "У весняному теплому дощі купається сад."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "У реченні «Весняний теплий дощ рясно поливає квітучий сад» слово «дощ» є граматичним підметом у називному відмінку."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u3-l2": {
@@ -1377,53 +1387,62 @@
     "subject": "ukrainian",
     "unit": 3,
     "lessonNumber": 2,
-    "title": "Називний та Кличний відмінки (Nominative & Vocative Cases) (Part 2)",
+    "title": "Кличний відмінок іменників чоловічого роду: закінчення -е, -у, -ю (Vocative Case: Masculine Nouns)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 3.2) with authentic linguistic precision.",
+    "objective": "Опанувати творення кличного відмінка іменників чоловічого роду (тверда основа на -е з чергуванням, основа на г/к/х та суфікси -ик/-ок на -у, м'яка основа на -ю).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Українська мова має унікальний сьомий відмінок — Кличний (Vocative Case), який обов'язково використовується при прямому звертанні до людини або персоніфікованого предмета:\n\n1. Закінчення «-е» (іменники чоловічого роду твердої групи):\n- При цьому кінцеві приголосні основи часто зазнають історичного чергування:\n  • [г] -> [ж]: «друг -> друже!», «ворог -> вороже!»\n  • [к] -> [ч]: «чоловік -> чоловіче!», «козак -> козаче!»\n  • [х] -> [ш]: «пастух -> пастуше!»\n- Звичайні тверді приголосні: «брат -> брате!», «Іван -> Іване!», «Петро -> Петре!», «Богдан -> Богдане!».\n\n2. Закінчення «-у»:\n- Іменники на задньоязикові [г, к, х] без чергування: «Олег -> Олегу! / Олеже!», «дід -> діду!».\n- Іменники зі зменшувально-пестливими суфіксами «-ик», «-ок», «-к»: «хлопчик -> хлопчику!», «синок -> синку!», «батько -> батьку!».\n\n3. Закінчення «-ю» (м'яка група):\n- «Учитель -> учителю!», «дідусь -> дідусю!», «Сергій -> Сергію!», «Андрій -> Андрію!», «водій -> водію!».\n\n4. Пунктуаційне правило:\n- Звертання у кличному відмінку завжди виділяється комами або знаком оклику на письмі!",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Дорогий брате, щиро вітаю тебе з днем народження та бажаю щастя!",
+          "reading": "[dɔrɔˈɦɪj ˈbrɑtɛ, ˈʃtʃirɔ wʲiˈtɑju tɛˈbɛ z dnɛm nɐˈrɔdʒɛnʲːɑ tɑ bɐˈʒɑju ˈʃtʃɑsʲtʲɑ] (doh-roh-HYI BRAH-teh, SHCHEE-roh vee-TAH-yoo teh-BEH z dnem nah-ROD-zhen-nyah tah bah-ZHAH-yoo SHCHAHS-tyah!)",
+          "translation": "Dear brother, I sincerely congratulate you on your birthday and wish you happiness!"
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 3-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Мій вірний друже, дякую тобі за щиру підтримку та мудру пораду.",
+          "reading": "[mʲij ˈwʲirnɪj ˈdruʒɛ, ˈdʲɑkuju tɔˈbʲi zɑ ˈʃtʃiru pidˈtrɪmku tɑ ˈmudru pɔˈrɑdu] (MEEY VEER-nyi DROO-zheh, DYAH-koo-yoo toh-BEE zah SHCHEE-roo peed-TRYM-koo tah MOO-droo poh-RAH-doo)",
+          "translation": "My faithful friend, thank you for your sincere support and wise advice."
+        },
+        {
+          "target": "Шановний учителю, дозвольте поставити вам запитання щодо уроку.",
+          "reading": "[ʃɐˈnɔwnɪj uˈtʃɪtɛlʲu, dɔzˈwɔlʲtɛ pɔsˈtɑwɪtɪ wɑm zɐpɪˈtɑnʲːɑ ʃtʃɔˈdɔ uˈrɔku] (shah-NOV-nyi oo-CHY-teh-lyoo, doz-VOL'-teh pohs-TAH-vy-ty vahm zah-py-TAHN-nyah shchoh-DOH oo-ROH-koo)",
+          "translation": "Esteemed teacher, allow me to ask you a question regarding the lesson."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Друг» на «друже» перетвори, «брат» на «брате» поклич з гори; М'який «учитель» стане «учителю» в розмові щомиті!"
+      ],
+      "culturalNotes": [
+        "Вживання називного відмінка замість кличного при звертанні (наприклад, «Іван, іди сюди») є грубим порушенням літературної норми української мови. Правильно казати виключно: «Іване, ходи сюди!»."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Вода\":",
+          "prompt": "Оберіть правильну форму кличного відмінка для звертання до друга на ім'я Богдан:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.2.",
-            "Неправильне відмінкове узгодження зі словом «Молоко»",
-            "Порушення законів евфонії та словотворення для «Кава»",
-            "Стилістично некоректна синтаксична конструкція з «Чай»"
+            "Богдане! (Vocative case - Hard stem ending in -e)",
+            "Богдан!",
+            "Богдану!",
+            "Богдана!"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Іменники чоловічого роду твердої групи з основою на приголосний [н] у кличному відмінку мають закінчення «-е»: «Богдане!»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Вода\":",
+          "prompt": "Яке історичне чергування звуків відбувається при творенні кличного відмінка від слова «чоловік»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.2.",
-            "Порушення законів евфонії та словотворення для «Кава»",
-            "Стилістично некоректна синтаксична конструкція з «Чай»",
-            "Неправильне відмінкове узгодження зі словом «Молоко»"
+            "[к] чергується з [ч]: Чоловіче! (Consonant mutation k -> ch)",
+            "[к] чергується з [ц]: Чоловіце!",
+            "[к] чергується з [с]: Чоловісе!",
+            "Звуки не чергуються: Чоловіке!"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "При творенні кличного відмінка звук [к] перед голосним [е] за першою перехідною палаталізацією чергується з [ч]: «чоловік -> чоловіче!»."
         }
       ]
     },
@@ -1431,17 +1450,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Вода\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому форма звертання утворена граматично бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.2.",
-            "Стилістично некоректна синтаксична конструкція з «Чай»",
-            "Неправильне відмінкове узгодження зі словом «Молоко»",
-            "Порушення законів евфонії та словотворення для «Кава»"
+            "Андрію, допоможи мені розв'язати це складне завдання!",
+            "Андрій, допоможи мені розв'язати це складне завдання!",
+            "Андріє, допоможи мені розв'язати це складне завдання!",
+            "Андрія, допоможи мені розв'язати це складне завдання!"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Ім'я «Андрій» належить до м'якої групи чоловічого роду, тому у кличному відмінку має закінчення «-ю»: «Андрію!»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u3-l3": {
@@ -1449,53 +1469,62 @@
     "subject": "ukrainian",
     "unit": 3,
     "lessonNumber": 3,
-    "title": "Називний та Кличний відмінки (Nominative & Vocative Cases) (Part 3)",
+    "title": "Кличний відмінок іменників жіночого та середнього роду: закінчення -о, -е, -є, -ю (Vocative Case: Feminine & Neuter)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 3.3) with authentic linguistic precision.",
+    "objective": "Опанувати творення кличного відмінка жіночого роду (тверда основа на -о, м'яка на -е/-є, пестливі форми на -ю, III відміна на -е) та особливості середнього роду.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Іменники жіночого роду утворюють форми кличного відмінка за такими нормативними правилами:\n\n1. Тверда група (іменники на «-а») -> закінчення «-о»:\n- «Мама -> мамо!», «сестра -> сестро!», «Оксана -> Оксано!», «Олена -> Олено!», «країна -> країно!».\n\n2. М'яка та мішана групи (іменники на «-я», «-а» після шиплячих) -> закінчення «-е» / «-є»:\n- Після м'яких приголосних: «земля -> земле!», «пісня -> пісне!», «душа -> душе!», «круча -> круче!».\n- Після голосних та апострофа: «Марія -> Маріє!», «Софія -> Софіє!», «Юлія -> Юліє!», «надія -> надіє!».\n\n3. Зменшувально-пестливі форми на «-я» -> закінчення «-ю»:\n- «Матуся -> матусю!», «бабуся -> бабусю!», «доня -> доню!», «Галя -> Галю!», «Олюся -> Олюсю!».\n\n4. Іменники III відміни (на приголосний) -> закінчення «-е»:\n- «Радість -> радосте!», «ніч -> ноче!», «любов -> любове!».\n\n5. Середній рід:\n- Збігається з формою називного відмінка: «сонце!», «серце!», «поле!».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Рідна мамо, дякую тобі за твою безмежну турботу, любов та тепло!",
+          "reading": "[ˈrʲidnɐ ˈmɑmɔ, ˈdʲɑkuju tɔˈbʲi zɑ twɔˈju bɛzˈmɛʒnu turˈbɔtu, lʲuˈbɔw tɑ tɛpˈlɔ] (REED-nah MAH-moh, DYAH-koo-yoo toh-BEE zah tvoh-YOO bez-MEZH-noo toor-BOH-too, lyoo-BOV tah tep-LOH!)",
+          "translation": "Dear mother, thank you for your boundless care, love, and warmth!"
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 3-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Оксано, чи підеш ти сьогодні ввечері на концерт класичної музики?",
+          "reading": "[ɔkˈsɑnɔ, tʃɪ pʲiˈdɛʃ tɪ sʲɔˈɦɔdnʲi ˈwːɛtʃɛrʲi nɑ kɔnˈtsɛrt klɐˈsɪtʃnɔjɪ ˈmuzɪkɪ] (ohk-SAH-noh, chy pee-DESH ty syoh-HOHD-nee VVEH-cheh-ree nah kohn-TSERT klah-SYCH-noh-yee MOO-zy-ky?)",
+          "translation": "Oksana, will you go to the classical music concert tonight?"
+        },
+        {
+          "target": "Дорога матусю, вітаємо тебе зі святом весни!",
+          "reading": "[dɔrɔˈɦɑ mɐˈtusʲu, wʲiˈtɑjɛmɔ tɛˈbɛ zʲi ˈsʲwʲɑtɔm wɛsˈnɪ] (doh-roh-HAH mah-TOO-syoo, vee-TAH-yeh-moh teh-BEH z'yee SVYAH-tohm ves-NY!)",
+          "translation": "Dear mommy, we congratulate you on the spring holiday!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Мама стане «мамо», Оксана — «Оксано»; А пестлива доня «доню» скаже радо!"
+      ],
+      "culturalNotes": [
+        "Звертання «Мамо!» та «Матусю!» у кличному відмінку є найсвятішими й найемоційнішими мовними формулами в українському родинному спілкуванні."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Молоко\":",
+          "prompt": "Оберіть правильну форму кличного відмінка для звертання до жінки на ім'я Марія:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.3.",
-            "Неправильне відмінкове узгодження зі словом «Кава»",
-            "Порушення законів евфонії та словотворення для «Чай»",
-            "Стилістично некоректна синтаксична конструкція з «Яблуко»"
+            "Маріє! (Vocative of feminine soft nouns on -ia)",
+            "Марія!",
+            "Марію!",
+            "Марійо!"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Імена на «-ія» у кличному відмінку набувають закінчення «-є»: «Маріє!», «Софіє!»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Молоко\":",
+          "prompt": "Яке закінчення матиме пестливе слово «бабуся» у кличному відмінку?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.3.",
-            "Порушення законів евфонії та словотворення для «Чай»",
-            "Стилістично некоректна синтаксична конструкція з «Яблуко»",
-            "Неправильне відмінкове узгодження зі словом «Кава»"
+            "Бабусю! (Diminutive feminine in -ia takes -iu)",
+            "Бабусе!",
+            "Бабусо!",
+            "Бабуся!"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Пестливі іменники жіночого роду на «-ся», «-ля», «-ня» у кличному відмінку набувають закінчення «-ю»: «бабусю!», «матусю!», «доню!»."
         }
       ]
     },
@@ -1503,17 +1532,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Молоко\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому кличний відмінок жіночого роду вжито з граматичною помилкою:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.3.",
-            "Стилістично некоректна синтаксична конструкція з «Яблуко»",
-            "Неправильне відмінкове узгодження зі словом «Кава»",
-            "Порушення законів евфонії та словотворення для «Чай»"
+            "Олена, передай мені, будь ласка, підручник з мови.",
+            "Олено, передай мені, будь ласка, підручник з мови.",
+            "Сестро, ходімо разом до бібліотеки.",
+            "Мамо, я вже повернувся додому."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Форма «Олена» стоїть у називному відмінку. Правильною формою кличного відмінка є «Олено!»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u3-l4": {
@@ -1521,53 +1551,62 @@
     "subject": "ukrainian",
     "unit": 3,
     "lessonNumber": 4,
-    "title": "Називний та Кличний відмінки (Nominative & Vocative Cases) (Part 4)",
+    "title": "Офіційні та шляхетні звертання: узгодження титулів «пане / пані» з посадами та іменами (Formal Vocative Address)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 3.4) with authentic linguistic precision.",
+    "objective": "Опанувати правила подвійного кличного відмінка при поєднанні слів пане/пані з іменами, посадами та званнями (пане професоре, пані посол/послице, пане міністре).",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українському офіційному, дипломатичному та академічному мовленнєвому етикеті діє суворе правило подвійного кличного відмінка:\n\n1. Правило подвійного кличного відмінка (Double Vocative):\n- Якщо звертання складається з двох іменників (титул/пан + ім'я або посада), ОБИДВА слова ставляться у форму кличного відмінка:\n  • «Пан + Петро» -> «Пане Петре!»\n  • «Пані + Оксана» -> «Пані Оксано!»\n  • «Пан + професор» -> «Пане професоре!»\n  • «Пан + міністр» -> «Пане міністре!»\n  • «Пан + директор» -> «Пане директоре!»\n  • «Пан + капітан» -> «Пане капітане!»\n\n2. Звертання до жінок з невідмінюваними посадами:\n- Титул «пані» залишається у кличному відмінку, а невідмінювані форми професій або прізвищ зберігають свою форму:\n  • «Пані професор!» / «Пані професорко!»\n  • «Пані Коваленко!»\n\n3. Сполучення з прикметниками:\n- Прикметник узгоджується у кличному/називному відмінку: «Високоповажний пане міністре!», «Вельмишановна пані голово!»",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Пане професоре, щиро дякуємо вам за надзвичайно цікаву та змістовну лекцію!",
+          "reading": "[ˈpɑnɛ prɔˈfɛsɔrɛ, ˈʃtʃirɔ ˈdʲɑkujɛmɔ wɑm zɑ nɐdzwɪˈtʃɑjnɔ t͡sʲiˈkɑwu tɑ zʲmʲisˈtɔwnu ˈlɛktsʲiju] (PAH-neh proh-FEH-soh-reh, SHCHEE-roh DYAH-koo-yeh-moh vahm zah nahd-zvy-CHAY-noh tsee-KAH-voo tah zmees-TOHV-noo LEK-tsee-yoo!)",
+          "translation": "Professor, thank you sincerely for an extraordinarily interesting and meaningful lecture!"
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 3-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Пані Оксано, дозвольте передати вам офіційні документи конференції.",
+          "reading": "[ˈpɑnʲi ɔkˈsɑnɔ, dɔzˈwɔlʲtɛ pɛrɛˈdɑtɪ wɑm ɔfʲit͡sʲijʲˈnʲi dɔkuˈmɛntɪ kɔnfɛˈrɛntsʲijɪ] (PAH-nee ohk-SAH-noh, doz-VOL'-teh peh-reh-DAH-ty vahm oh-fee-TSEE-ynee doh-koo-MEN-ty kohn-feh-REN-tsee-yee)",
+          "translation": "Madam Oksana, allow me to hand you the official conference documents."
+        },
+        {
+          "target": "Шановний пане голово, прошу надати слово для виступу делегації.",
+          "reading": "[ʃɐˈnɔwnɪj ˈpɑnɛ ɦɔlɔˈwɔ, ˈprɔʃu nɐˈdɑtɪ ˈslɔwɔ dlʲɑ ˈwɪstupu dɛlɛˈɦɑtsʲijɪ] (shah-NOV-nyi PAH-neh hoh-loh-VOH, PROH-shoo nah-DAH-ty SLOH-voh dlyah VY-stoo-poo deh-leh-HAH-tsee-yee)",
+          "translation": "Esteemed Mr. Chairman, I request the floor for the delegation's address."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Пане» з «професоре» удвох ставай, український етикет шануй і пам'ятай!"
+      ],
+      "culturalNotes": [
+        "Формули «Пане Президенте!», «Пане Прем'єр-міністре!», «Пане Послу!» є офіційним протокольним дипломатичним звертанням найвищого державного рівня в Україні."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Кава\":",
+          "prompt": "Оберіть нормативно правильну форму офіційного звертання до ректора університету:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.4.",
-            "Неправильне відмінкове узгодження зі словом «Чай»",
-            "Порушення законів евфонії та словотворення для «Яблуко»",
-            "Стилістично некоректна синтаксична конструкція з «Борщ»"
+            "Пане ректоре! (Both words in Vocative case)",
+            "Пан ректор!",
+            "Пане ректор!",
+            "Пан ректоре!"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "За правилом подвійного кличного відмінка обидва іменники набувають форми кличного: «Пане ректоре!»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Кава\":",
+          "prompt": "Як правильно звернутися до міністра закордонних справ на офіційній зустрічі?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.4.",
-            "Порушення законів евфонії та словотворення для «Яблуко»",
-            "Стилістично некоректна синтаксична конструкція з «Борщ»",
-            "Неправильне відмінкове узгодження зі словом «Чай»"
+            "Пане міністре! (Double vocative address)",
+            "Пан міністр!",
+            "Пане міністр!",
+            "Пану міністру!"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "І слово «пан», і посада «міністр» ставляться у кличний відмінок: «Пане міністре!»."
         }
       ]
     },
@@ -1575,17 +1614,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Кава\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому дотримано правил подвійного кличного відмінка при звертанні до пана Андрія:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.4.",
-            "Стилістично некоректна синтаксична конструкція з «Борщ»",
-            "Неправильне відмінкове узгодження зі словом «Чай»",
-            "Порушення законів евфонії та словотворення для «Яблуко»"
+            "Пане Андрію, раді вітати вас на нашій міжнародній зустрічі!",
+            "Пан Андрій, раді вітати вас на нашій міжнародній зустрічі!",
+            "Пане Андрій, раді вітати вас на нашій міжнародній зустрічі!",
+            "Пан Андрію, раді вітати вас на нашій міжнародній зустрічі!"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Обидва компоненти повинні стояти у кличному відмінку: «Пане Андрію!»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u3-l5": {
@@ -1593,53 +1633,62 @@
     "subject": "ukrainian",
     "unit": 3,
     "lessonNumber": 5,
-    "title": "Називний та Кличний відмінки (Nominative & Vocative Cases) (Part 5)",
+    "title": "Поетичні, патріотичні та фольклорні форми кличного відмінка: «Україно», «козаче», «земле моя» (Poetic Vocatives)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 3.5) with authentic linguistic precision.",
+    "objective": "Опанувати виражальні можливості кличного відмінка в художньому стилі, поезії, козацьких думах, патріотичних гаслах та персоніфікаціях (Україно, Дніпре, козаче, земле).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Кличний відмінок є потужним стилістичним і поетичним засобом української літератури та фольклору, через який виражається сильне почуття, персоніфікація та патріотизм:\n\n1. Патріотичні та географічні персоніфікації:\n- «Україна -> Україно!» («О Україно! О люба ненько!»)\n- «Дніпро -> Дніпре!» («Реве та стогне Дніпр широкий» / «Ой Дніпре, мій брате!»)\n- «Київ -> Києве!» («Києве мій, цвітуть каштани»)\n- «Батьківщина -> Батьківщино!»\n\n2. Фольклорні та історичні звертання:\n- «Козак -> козаче!» («Гей, козаче, козаченьку!»)\n- «Сокіл -> соколе!»\n- «Орел -> орле!»\n- «Кінь -> коню!»\n\n3. Поетичні персоніфікації природи та почуттів:\n- «Земля -> земле моя рідна!»\n- «Вітер -> вітре буйний!»\n- «Сонце -> сонце ясне!»\n- «Доля -> доле моя!»",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Україно, земле моя рідна, цвіти та процвітай у мирі й славі!",
+          "reading": "[ukrɐˈjinɔ, ˈzɛmlɛ mɔˈjɑ ˈrʲidnɐ, t͡sʲwʲiˈtɪ tɑ prɔt͡sʲwʲiˈtɑj u ˈmɪrʲi j ˈslɑwʲi] (oo-krah-YEE-noh, ZEM-leh moh-YAH REED-nah, tsvee-TY tah proh-tsvee-TIE oo MEE-ree y SLAH-vee!)",
+          "translation": "Ukraine, my native land, blossom and prosper in peace and glory!"
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 3-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Гей, козаче, сідлай коня та вирушай на захист рідного краю!",
+          "reading": "[ɦɛj, kɔˈzɑtʃɛ, sʲidˈlɑj kɔˈnʲɑ tɑ wɪruˈʃɑj nɑ ˈzɑxɪst ˈrʲidnɔɦɔ ˈkrɑju] (hey, koh-ZAH-cheh, seed-LIE koh-NYAH tah vy-roo-SHY nah ZAH-hyst REED-noh-hoh KRAH-yoo!)",
+          "translation": "Hey, Cossack, saddle your horse and set out to defend your native land!"
+        },
+        {
+          "target": "Дніпре широкий, неси свої могутні води крізь віки до Чорного моря!",
+          "reading": "[ˈdnʲiprɛ ʃɪˈrɔkɪj, nɛˈsɪ swɔˈji mɔˈɦutʲnʲi ˈwɔdɪ krʲizʲ wʲiˈkɪ dɔ ˈtʃɔrnɔɦɔ ˈmɔrʲɑ] (DNEE-preh shy-ROH-kyi, neh-SY svoh-YEE moh-HOOT-nee VOH-dy kreez' vee-KY doh CHOR-noh-hoh MOHR-yah!)",
+          "translation": "Mighty Dnipro, carry your powerful waters through the centuries to the Black Sea!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Україно!» гордо лине понад світом; «Козаче!» кличе пісня сонцесяйним цвітом!"
+      ],
+      "culturalNotes": [
+        "Тарас Шевченко у своїх творах геніально застосовував кличний відмінок для одухотворення України: «Ой діброво — темний гаю!», «Україно, Україно! Серце моє, ненько!»."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Чай\":",
+          "prompt": "Оберіть поетичну форму кличного відмінка для назви нашої держави України:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.5.",
-            "Неправильне відмінкове узгодження зі словом «Яблуко»",
-            "Порушення законів евфонії та словотворення для «Борщ»",
-            "Стилістично некоректна синтаксична конструкція з «Вареники»"
+            "Україно! (Poetic vocative of Ukraine)",
+            "Україна!",
+            "Україну!",
+            "Україні!"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Іменник твердої групи «Україна» у кличному відмінку має закінчення «-о»: «Україно!»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Чай\":",
+          "prompt": "Яка форма кличного відмінка від слова «козак» уживається у козацьких піснях та думах?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.5.",
-            "Порушення законів евфонії та словотворення для «Борщ»",
-            "Стилістично некоректна синтаксична конструкція з «Вареники»",
-            "Неправильне відмінкове узгодження зі словом «Яблуко»"
+            "Козаче! (Cossack vocative with k -> ch mutation)",
+            "Козаку!",
+            "Козак!",
+            "Козаке!"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Слово «козак» зазнає історичного чергування [к] на [ч] перед закінченням «-е»: «козаче!»."
         }
       ]
     },
@@ -1647,17 +1696,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Чай\": Which sentence is completely correct?",
+          "prompt": "Оберіть поетичний рядок, в якому всі звертання граматично правильно вжиті у кличному відмінку:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 3.5.",
-            "Стилістично некоректна синтаксична конструкція з «Вареники»",
-            "Неправильне відмінкове узгодження зі словом «Яблуко»",
-            "Порушення законів евфонії та словотворення для «Борщ»"
+            "Земле рідна, сонце ясне, благословіть нашу дорогу!",
+            "Земля рідна, сонце ясне, благословіть нашу дорогу!",
+            "Землю рідна, сонцю ясне, благословіть нашу дорогу!",
+            "Землі рідна, сонця ясне, благословіть нашу дорогу!"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Земле» (кличний відмінок від «земля») та «сонце» (кличний відмінок середнього роду) утворені бездоганно."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u4-l1": {
