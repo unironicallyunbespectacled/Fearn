@@ -485,53 +485,62 @@
     "subject": "ukrainian",
     "unit": 1,
     "lessonNumber": 1,
-    "title": "Українська абетка, фонетика та вітання (Alphabet & Greetings) (Part 1)",
+    "title": "Українська абетка, унікальні літери (І, Ї, Є, Ґ) та базові вітання (Alphabet & Greetings)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Українська кирилиця та привітання with authentic linguistic precision.",
+    "objective": "Опанувати 33 літери української абетки, вимову унікальних фонем (і, ї, є, ґ проти г) та базові мовленнєві формули вітання (Доброго ранку, Добрий день, Привіт).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Українська абетка побудована на основі кирилиці та налічує 33 літери. Вона має особливі літери, які вирізняють її з-поміж інших слов'янських мов:\n\n1. Унікальні голосні та йотовані:\n- «І і» [i] — чистий передній голосний (наприклад, «ліс», «стіл»).\n- «Ї ї» [ji] — завжди позначає два звуки [й + і] (наприклад, «Київ», «їжа»).\n- «Є є» [jɛ] — позначає [й + е] на початку слова або після голосного, та м'якість попереднього приголосного (наприклад, «Європа», «моє»).\n- «И и» [ɪ] — відкритий ненапружений голосний середньо-переднього ряду (наприклад, «син», «вода»).\n\n2. Приголосні «Г г» та «Ґ ґ»:\n- «Г г» [ɦ] — гортанний щілинний дзвінкий звук (наприклад, «голова», «гарний»).\n- «Ґ ґ» [ɡ] — задньоязиковий проривний дзвінкий звук (наприклад, «ґанок», «ґрунт»).\n\n3. Базові вітання:\n- «Доброго ранку!» — традиційно вживається у формі родового відмінка.\n- «Добрий день!» / «Добрий вечір!» — вживаються у формі називного відмінка.\n- «Привіт!» — неформальне вітання серед друзів та молоді.",
       "examples": [
         {
-          "target": "Доброго ранку, шановний пане професоре!",
-          "reading": "[ˈdɔbrɔɦɔ ˈrɑŋku, ʃɐˈnɔwnɪj ˈpɑnɛ prɔˈfɛsɔrɛ] (DOH-broh-hoh RAHN-koo)",
-          "translation": "Good morning, esteemed professor!"
+          "target": "Доброго ранку! Вітаю вас у нашому рідному місті Києві.",
+          "reading": "[ˈdɔbrɔɦɔ ˈrɑŋku! wʲiˈtɑju wɑs u ˈnɑʃɔmu ˈrʲidnɔmu ˈmʲisʲtʲi ˈkɪjɛwʲi] (DOH-broh-hoh RAHN-koo! Vee-TAH-yoo vahs oo NAH-shoh-moo REED-noh-moo MEES-tee KIH-yeh-vee)",
+          "translation": "Good morning! Welcome to our native city of Kyiv."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 1-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Добрий день, шановні колеги та дорогі друзі!",
+          "reading": "[ˈdɔbrɪj dɛnʲ, ʃɐˈnɔwnʲi kɔˈlɛɦɪ tɑ dɔrɔˈɦi ˈdruzʲi] (DOH-bryi dehn, shah-NOV-nee koh-LEH-hy tah doh-roh-HEE DROO-zee)",
+          "translation": "Good day, esteemed colleagues and dear friends!"
+        },
+        {
+          "target": "Привіт, Андрію! Як твої справи та як настрій?",
+          "reading": "[prɪˈwʲit, ɐnˈdrʲiju! jɑk twɔˈji ˈsprɑwɪ tɑ jɑk ˈnɑstrʲij] (Pry-VEET, Ahn-DREE-yoo! Yahk tvoh-YEE SPRAH-vy tah yahk NAHS-tree-ee)",
+          "translation": "Hi, Andriy! How are things and how is your mood?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Ї» завжди подвійна [йі], як дві крапочки над буквою; «І» тонка й дзвінка, як стеблинка колоска!"
+      ],
+      "culturalNotes": [
+        "В українській мові традиційні формули вітання мають чітке відмінкове розмежування: вранці заведено бажати «Доброго ранку!» (родовий відмінок побажання), а вдень та ввечері — констатувати «Добрий день!» та «Добрий вечір!» (називний відмінок)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Привіт\":",
+          "prompt": "Оберіть граматично правильну нормативну форму ранкового привітання в українській мові:",
           "options": [
-            "Доброго ранку, шановний пане професоре!",
-            "Неправильне відмінкове узгодження зі словом «Добрий день»",
-            "Порушення законів евфонії та словотворення для «Дякую»",
-            "Стилістично некоректна синтаксична конструкція з «Будь ласка»"
+            "Доброго ранку! (Good morning / Rohdovy vidminok)",
+            "Добрий ранок!",
+            "Доброї доби!",
+            "Привітного дня!"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативною традиційною формою ранкового вітання в українській мові є саме родовий відмінок «Доброго ранку!»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Привіт\":",
+          "prompt": "Яка українська літера завжди позначає сполучення двох звуків [й + і] на письмі?",
           "options": [
-            "Доброго ранку, шановний пане професоре!",
-            "Порушення законів евфонії та словотворення для «Дякую»",
-            "Стилістично некоректна синтаксична конструкція з «Будь ласка»",
-            "Неправильне відмінкове узгодження зі словом «Добрий день»"
+            "Літера «Ї ї» (Letter Yi)",
+            "Літера «І і»",
+            "Літера «И и»",
+            "Літера «Е е»"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Літера «Ї» в українській мові завжди передає два звуки: м'який приголосний [й] та голосний [і]."
         }
       ]
     },
@@ -539,17 +548,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Привіт\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому правильно використано літеру «Ґ» (проривний дзвінкий звук [g]):",
           "options": [
-            "Доброго ранку, шановний пане професоре!",
-            "Стилістично некоректна синтаксична конструкція з «Будь ласка»",
-            "Неправильне відмінкове узгодження зі словом «Добрий день»",
-            "Порушення законів евфонії та словотворення для «Дякую»"
+            "На ґанку будинку сидить гарний птах.",
+            "На ганку будинку сидить ґарний птах.",
+            "На ханку будинку сидить карний птах.",
+            "На занку будинку сидить варний птах."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Слово «ґанок» пишеться з літерою «ґ» (проривний [ɡ]), а прикметник «гарний» — з літерою «г» (гортанний [ɦ])."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u1-l2": {
@@ -557,53 +567,62 @@
     "subject": "ukrainian",
     "unit": 1,
     "lessonNumber": 2,
-    "title": "Українська абетка, фонетика та вітання (Alphabet & Greetings) (Part 2)",
+    "title": "Ввічливі форми знайомства, особові займенники та представлення (Introductions & Pronouns)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Знайомство та ввічливі форми with authentic linguistic precision.",
+    "objective": "Опанувати особові займенники (я, ти, він, вона, ми, ви, вони), структури знайомства (Мене звати..., Як вас звати?) та форми чемного звертання (пане, пані).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Ввічливе знайомство та коректне звертання є основою українського мовленнєвого етикету:\n\n1. Особові займенники (Personal Pronouns):\n- Я (I), Ти (you - неформальне однини)\n- Він (he), Вона (she), Воно (it)\n- Ми (we), Ви (you - множина або ввічлива форма до однієї особи)\n- Вони (they)\n\n2. Моделі знайомства:\n- «Мене звати [Ім'я]» — конструкція зі знахідним відмінком (дослівно: кличуть мене).\n- «Як вас звати?» (офіційно) / «Як тебе звати?» (дружньо).\n- «Моє ім'я — [Ім'я]», «Моє прізвище — [Прізвище]».\n\n3. Етикетні відповіді:\n- «Дуже приємно!» / «Приємно познайомитися!» (Pleased to meet you).\n- «Взаємно!» (Likewise).\n\n4. Форми ввічливого звертання у кличному відмінку:\n- «Пане Олександре!» (до чоловіка), «Пані Оксано!» (до жінки).",
       "examples": [
         {
-          "target": "Мене звати Олена, дуже приємно з вами познайомитися.",
-          "reading": "[mɛˈnɛ ˈzwɑtɪ ɔˈlɛnɐ, ˈduʒɛ prɪˈjɛmnɔ z ˈwɑmɪ pɔznɐˈjɔmɪtɪsʲɐ] (meh-NEH ZVAH-ty)",
-          "translation": "My name is Olena, very pleased to meet you."
+          "target": "Доброго дня! Мене звати Богдан, а як вас звати?",
+          "reading": "[ˈdɔbrɔɦɔ dnʲɑ! mɛˈnɛ ˈzwɑtɪ bɔɦˈdɑn, ɑ jɑk wɑs ˈzwɑtɪ] (DOH-broh-hoh DNYAH! Meh-NEH ZVAH-ty Boh-DAHN, ah yahk vahs ZVAH-ty?)",
+          "translation": "Good day! My name is Bohdan, and what is your name?"
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 1-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Дуже приємно познайомитися з вами, пане професоре.",
+          "reading": "[ˈduʒɛ prɪˈjɛmnɔ pɔznɐˈjɔmɪtɪsʲɑ z ˈwɑmɪ, ˈpɑnɛ prɔˈfɛsɔrɛ] (DOO-zheh pry-YEM-noh poz-nah-YOH-my-ty-syah z VAH-my, PAH-neh proh-FEH-soh-reh)",
+          "translation": "Very pleased to meet you, Professor."
+        },
+        {
+          "target": "Вона — студентка університету, а він — викладач української мови.",
+          "reading": "[wɔˈnɑ — stuˈdɛntkɐ unʲiwɛrsɪˈtɛtu, ɑ wʲin — wɪklɐˈdɑtʃ ukrɐˈjinʲsʲkɔjɪ ˈmɔwɪ] (Voh-NAH — stoo-DENT-kah oo-nee-ver-sy-TEH-too, ah VEEN — vy-klah-DAHCH oo-krah-YIN-s'koh-yee MOH-vy)",
+          "translation": "She is a university student, and he is a lecturer of the Ukrainian language."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Мене звати» — так звучить моє ім'я; «Пане» й «Пані» у пошані вимовляю я!"
+      ],
+      "culturalNotes": [
+        "В українській традиції звертання «пан» (пане) та «пані» є питомими, шляхетними та загальноприйнятими формами вираження поваги як в офіційному спілкуванні, так і в повсякденному побуті."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Добрий день\":",
+          "prompt": "Як ввічливо запитати ім'я у незнайомої дорослої людини або викладача українською мовою?",
           "options": [
-            "Мене звати Олена, дуже приємно з вами познайомитися.",
-            "Неправильне відмінкове узгодження зі словом «Дякую»",
-            "Порушення законів евфонії та словотворення для «Будь ласка»",
-            "Стилістично некоректна синтаксична конструкція з «До побачення»"
+            "Як вас звати? (What is your name? - Formal)",
+            "Хто ти такий?",
+            "Скажи ім'я негайно!",
+            "Як тебе кличуть, гей?"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Як вас звати?» — це нормативна та чемна формула запитання про ім'я співрозмовника."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Добрий день\":",
+          "prompt": "Оберіть правильну форму звертання до пана Михайла у кличному відмінку:",
           "options": [
-            "Мене звати Олена, дуже приємно з вами познайомитися.",
-            "Порушення законів евфонії та словотворення для «Будь ласка»",
-            "Стилістично некоректна синтаксична конструкція з «До побачення»",
-            "Неправильне відмінкове узгодження зі словом «Дякую»"
+            "Пане Михайле! (Vocative address)",
+            "Пан Михайло!",
+            "Пана Михайла!",
+            "Пану Михайлу!"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "При безпосередньому звертанні в українській мові обов'язково вживається кличний відмінок: «Пане Михайле!»."
         }
       ]
     },
@@ -611,17 +630,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Добрий день\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення з правильною граматичною структурою представлення свого імені:",
           "options": [
-            "Мене звати Олена, дуже приємно з вами познайомитися.",
-            "Стилістично некоректна синтаксична конструкція з «До побачення»",
-            "Неправильне відмінкове узгодження зі словом «Дякую»",
-            "Порушення законів евфонії та словотворення для «Будь ласка»"
+            "Мене звати Катерина, я з міста Львова.",
+            "Мій звати Катерина, я з міста Львова.",
+            "Мною звати Катерина, я з міста Львова.",
+            "Мені звати Катерина, я з міста Львова."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Правильна стала формула представлення вимагає займенника у знахідному відмінку: «Мене звати...»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u1-l3": {
@@ -629,53 +649,62 @@
     "subject": "ukrainian",
     "unit": 1,
     "lessonNumber": 3,
-    "title": "Українська абетка, фонетика та вітання (Alphabet & Greetings) (Part 3)",
+    "title": "Етикет подяки, вибачення та ввічливих прохань: «Дякую», «Будь ласка», «Перепрошую» (Politeness Etiquette)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Подяка та вибачення в етикеті with authentic linguistic precision.",
+    "objective": "Опанувати мовні кліше висловлення вдячності (Дякую, Щиро дякую), відповіді на подяку (Будь ласка, Прошу), вибачення (Вибачте, Перепрошую) та реагування на вибачення.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Культура ввічливості в українській мові має багатий арсенал виразних формул етикету:\n\n1. Висловлення подяки (Expressing Gratitude):\n- «Дякую!» — універсальне та найуживаніше слово подяки.\n- «Щиро дякую!» / «Дуже дякую!» — підсилена, сердечна подяка.\n- «Красно дякую!» — вишуканий традиційний вираз подяки.\n- «Дякую за допомогу / за пораду / за увагу» (із прийменником «за» + знахідний відмінок).\n\n2. Відповідь на подяку (Responding to Gratitude):\n- «Будь ласка!» (You're welcome / Please).\n- «Прошу!» / «Нема за що!» (Not at all / Don't mention it).\n\n3. Вибачення та привернення уваги (Apologizing & Excusing):\n- «Вибачте!» / «Пробачте!» — офіційне прохання про вибачення.\n- «Перепрошую!» — вишукане звертання для привернення уваги або легкого вибачення.\n- Відповідь на вибачення: «Нічого страшного!» / «Все гаразд!» (That's all right).",
       "examples": [
         {
-          "target": "Щиро дякую вам за допомогу та підтримку.",
-          "reading": "[ˈʃtʃɪrɔ ˈdʲɑkuju wɑm zɑ dɔpɔˈmɔɦu tɑ piˈdtrɪmku] (SHCHY-roh DYAH-koo-yoo)",
-          "translation": "Thank you sincerely for your help and support."
+          "target": "Щиро дякую вам за чудову екскурсію та теплий прийом!",
+          "reading": "[ˈʃtʃirɔ ˈdʲɑkuju wɑm zɑ tʃuˈdɔwu ɛksˈkursʲiju tɑ ˈtɛplɪj prɪˈjɔm] (SHCHEE-roh DYAH-koo-yoo vahm zah choo-DOH-voo eks-KOOR-see-yoo tah TEP-lyi pry-YOM!)",
+          "translation": "Thank you sincerely for the wonderful excursion and warm reception!"
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 1-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Перепрошую, чи не підкажете ви, де знаходиться центральна бібліотека?",
+          "reading": "[pɛrɛˈprɔʃuju, tʃɪ nɛ pidˈkɑʒɛtɛ wɪ, dɛ znɐˈxɔdɪtsʲɑ tsɛnˈtrɑlʲnɐ bʲiblʲiɔˈtɛkɐ] (peh-reh-PROH-shoo-yoo, chy neh peed-KAH-zheh-teh vy, deh znah-HOH-dyt-syah tsen-TRAHL-nah beeb-lee-oh-TEH-kah?)",
+          "translation": "Excuse me, could you please tell me where the central library is located?"
+        },
+        {
+          "target": "Вибачте за спізнення! — Нічого страшного, проходьте, будь ласка.",
+          "reading": "[ˈwɪbɐtʃtɛ zɑ ˈspʲiznɛnʲːɑ! — ˈnʲitʃɔɦɔ ˈstrɑʃnɔɦɔ, prɔˈxɔdʲtɛ, budʲ ˈlɑskɐ] (VY-bahch-teh zah SPEEZ-nen-nyah! — NEE-choh-hoh STRAHSH-noh-hoh, proh-HOD-teh, bood' LAH-skah)",
+          "translation": "Excuse me for being late! — No problem at all, please come in."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Дякую» кажи щодня — буде вдячна вся рідня; «Будь ласка» й «Перепрошую» роблять душу хорошою!"
+      ],
+      "culturalNotes": [
+        "Слово «Перепрошую» є надзвичайно популярним у західних та центральних регіонах України як витончений спосіб ввічливо звернутися до незнайомця на вулиці або в транспорті."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Дякую\":",
+          "prompt": "Як коректно та ввічливо відповісти людині, яка щиро подякувала вам за послугу?",
           "options": [
-            "Щиро дякую вам за допомогу та підтримку.",
-            "Неправильне відмінкове узгодження зі словом «Будь ласка»",
-            "Порушення законів евфонії та словотворення для «До побачення»",
-            "Стилістично некоректна синтаксична конструкція з «Вибачте»"
+            "Будь ласка! / Прошу! (You're welcome / Please)",
+            "Та відстань від мене!",
+            "Мені все одно!",
+            "Замовкни нарешті!"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативними та ввічливими відповідями на подяку в українській мові є слова «Будь ласка!» або «Прошу!»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Дякую\":",
+          "prompt": "Яке слово найкраще підходить для ввічливого привернення уваги перехожого на вулиці?",
           "options": [
-            "Щиро дякую вам за допомогу та підтримку.",
-            "Порушення законів евфонії та словотворення для «До побачення»",
-            "Стилістично некоректна синтаксична конструкція з «Вибачте»",
-            "Неправильне відмінкове узгодження зі словом «Будь ласка»"
+            "Перепрошую! (Excuse me / Pardon me)",
+            "Гей, ти!",
+            "Стій там!",
+            "Агов, слухай!"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Слово «Перепрошую!» — це еталонне та шляхетне українське мовленнєве кліше для ввічливого звертання."
         }
       ]
     },
@@ -683,17 +712,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Дякую\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому граматично правильно побудовано фразу подяки з прийменником:",
           "options": [
-            "Щиро дякую вам за допомогу та підтримку.",
-            "Стилістично некоректна синтаксична конструкція з «Вибачте»",
-            "Неправильне відмінкове узгодження зі словом «Будь ласка»",
-            "Порушення законів евфонії та словотворення для «До побачення»"
+            "Щиро дякую вам за корисну пораду.",
+            "Щиро дякую вас на корисну пораду.",
+            "Щиро дякую вами про корисну пораду.",
+            "Щиро дякую від вас за корисній пораді."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Дієслово «дякувати» вимагає давального відмінка адресата («вам») та прийменника «за» зі знахідним відмінком причини («за пораду»)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u1-l4": {
@@ -701,53 +731,62 @@
     "subject": "ukrainian",
     "unit": 1,
     "lessonNumber": 4,
-    "title": "Українська абетка, фонетика та вітання (Alphabet & Greetings) (Part 4)",
+    "title": "Прощання та побажання: «До побачення», «На все добре», «До зустрічі», «Гарного дня» (Farewells & Wishes)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Прощання та побажання успіху with authentic linguistic precision.",
+    "objective": "Опанувати формули прощання (До побачення, Бувай, На добраніч), структури побажань у родовому відмінку (Гарного дня, На все добре, Щасливої дороги).",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові прощання нерозривно пов'язане з висловленням теплих побажань співрозмовникові:\n\n1. Основні форми прощання (Formulas of Parting):\n- «До побачення!» — нейтральне, загальноприйняте офіційне прощання.\n- «До зустрічі!» / «До скорого побачення!» — коли планують незабаром побачитися.\n- «Бувай!» (до одного друга) / «Бувайте!» (до групи людей або старшої особи).\n- «На добраніч!» / «Добраніч!» — прощання перед сном або пізно ввечері.\n\n2. Формули побажань у родовому відмінку (Wishes in the Genitive Case):\nВ українській мові побажання традиційно вживаються у формі родового відмінка (бажаю чого?):\n- «Гарного дня!» / «Вдалого дня!» (Have a good day!)\n- «На все добре!» / «Всього найкращого!» (All the best!)\n- «Щасливої дороги!» (Safe travels!)\n- «Успіхів!» / «Хай щастить!» (Good luck!).",
       "examples": [
         {
-          "target": "До побачення, гарного вам дня та на все добре!",
-          "reading": "[dɔ pɔˈbɑtʃɛnʲːɐ, ˈɦɑrnɔɦɔ wɑm dnʲɑ tɑ nɑ wsɛ ˈdɔbrɛ] (doh poh-BAH-chen-nyah)",
-          "translation": "Goodbye, have a nice day and all the best!"
+          "target": "До побачення, колеги! Бажаю вам гарного вечора та приємного відпочинку.",
+          "reading": "[dɔ pɔˈbɑtʃɛnʲːɑ, kɔˈlɛɦɪ! bɐˈʒɑju wɑm ˈɦɑrnɔɦɔ ˈwɛtʃɔrɐ tɑ prɪˈjɛmnɔɦɔ wʲidpɔˈtʃɪŋku] (doh poh-BAH-chen-nyah, koh-LEH-hy! Bah-ZHAH-yoo vahm HAHR-noh-hoh VEH-choh-rah tah pry-YEM-noh-hoh veed-poh-CHYN-koo)",
+          "translation": "Goodbye, colleagues! I wish you a nice evening and pleasant rest."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 1-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Щасливої дороги та на все добре! Обов'язково телефонуй, як доїдеш.",
+          "reading": "[ʃtʃɐsˈlɪwɔjɪ dɔˈrɔɦɪ tɑ nɑ wsɛ ˈdɔbrɛ! ɔbɔwˈjɑzkɔwɔ tɛlɛfɔˈnuj, jɑk dɔˈjidɛʃ] (shchahs-LY-voh-yee doh-ROH-hy tah nah vseh DOH-breh! Oh-bov-YAHZ-koh-voh teh-leh-foh-NOOY, yahk doh-YEE-desh)",
+          "translation": "Have a safe trip and all the best! Be sure to call when you arrive."
+        },
+        {
+          "target": "Бувай, друже! До завтрашньої зустрічі на семінарі.",
+          "reading": "[buˈwɑj, ˈdruʒɛ! dɔ ˈzɑwtrɐʃnʲɔjɪ ˈzustrʲitʃi nɑ sɛmʲiˈnɑrʲi] (boo-VYE, DROO-zheh! Doh ZAHV-trahsh-n'oh-yee ZOO-stree-chee nah seh-mee-NAH-ree)",
+          "translation": "Bye, friend! See you tomorrow at the seminar."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«До побачення» — надію зберігаю; «Гарного дня» у родовому відмінку бажаю!"
+      ],
+      "culturalNotes": [
+        "Традиційне українське побажання «Хай щастить!» виражає глибоке побажання долі, успіху та благословення в усіх починаннях людини."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Будь ласка\":",
+          "prompt": "У якій граматичній формі традиційно вживаються формули побажання (дня, вечора, дороги) в українській мові?",
           "options": [
-            "До побачення, гарного вам дня та на все добре!",
-            "Неправильне відмінкове узгодження зі словом «До побачення»",
-            "Порушення законів евфонії та словотворення для «Вибачте»",
-            "Стилістично некоректна синтаксична конструкція з «Смачного»"
+            "У родовому відмінку (Genitive Case: Гарного дня, Щасливої дороги)",
+            "У місцевому відмінку",
+            "У кличному відмінку",
+            "У називному відмінку без закінчень"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Побажання в українській мові граматично походять від еліптичної конструкції «Бажаю (чого?)» і стоять у родовому відмінку: «Гарного дня!», «Щасливої дороги!»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Будь ласка\":",
+          "prompt": "Оберіть речення, яке є найбільш відповідним для дружнього неформального прощання з однолітком:",
           "options": [
-            "До побачення, гарного вам дня та на все добре!",
-            "Порушення законів евфонії та словотворення для «Вибачте»",
-            "Стилістично некоректна синтаксична конструкція з «Смачного»",
-            "Неправильне відмінкове узгодження зі словом «До побачення»"
+            "Бувай! До зустрічі ввечері! (Bye! See you tonight!)",
+            "Дозвольте відкланятися, вельмишановний пане.",
+            "Прощавайте назавжди без слів.",
+            "Я вимагаю розірвання бесіди."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Бувай! До зустрічі!» — це невимушена, природна та тепла формула дружнього прощання."
         }
       ]
     },
@@ -755,17 +794,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Будь ласка\": Which sentence is completely correct?",
+          "prompt": "Оберіть нормативно правильну форму вечірнього прощання перед відходом до сну:",
           "options": [
-            "До побачення, гарного вам дня та на все добре!",
-            "Стилістично некоректна синтаксична конструкція з «Смачного»",
-            "Неправильне відмінкове узгодження зі словом «До побачення»",
-            "Порушення законів евфонії та словотворення для «Вибачте»"
+            "На добраніч! (Good night!)",
+            "У доброму ночі!",
+            "Доброї ночі день!",
+            "Спи швидко вже!"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«На добраніч!» є усталеною та найпоширенішою формою побажання доброго нічного сну в українській мові."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u1-l5": {
@@ -773,53 +813,62 @@
     "subject": "ukrainian",
     "unit": 1,
     "lessonNumber": 5,
-    "title": "Українська абетка, фонетика та вітання (Alphabet & Greetings) (Part 5)",
+    "title": "Закони милозвучності (евфонія): чергування У/В, І/Й та сполучники «та/і/й» (Euphony Rules: U/V & I/Y)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Фонетичні норми та милозвучність (у/в, і/й) with authentic linguistic precision.",
+    "objective": "Опанувати закони милозвучності української мови (уникнення збігу приголосних та голосних), правила чергування прийменників та префіксів у/в, сполучників і/й/та.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Українська мова вирізняється особливою мелодійністю та евфонією (милозвучністю). Для уникнення важкого для вимови збігу приголосних або голосних діють обов'язкові правила чергування:\n\n1. Чергування «У» та «В» (Prepositions & Prefixes U/V):\n- «У» вживається між приголосними для уникнення збігу (наприклад: «був у лісі», «наш учитель»).\n- «У» вживається на початку речення перед приголосним (наприклад: «У Києві цвітуть каштани»).\n- «В» вживається між голосними або після голосного перед приголосним (наприклад: «живе в Одесі», «вона в кімнаті»).\n- «В» вживається перед голосними звуками (наприклад: «зайшов в аудиторію»).\n\n2. Чергування сполучників «І», «Й», «ТА» (Conjunctions I/Y/TA):\n- «І» вживається між приголосними, на початку речення перед приголосним або перед звуками [й, я, ю, є, ї] (наприклад: «день і ніч», «Іван і Петро»).\n- «Й» вживається між голосними (наприклад: «Олена й Оксана»).\n- «Та» є повноправним синонімом сполучника «і» у значенні єднання (наприклад: «батько та мати»).",
       "examples": [
         {
-          "target": "Учитель увійшов у клас, а він зайшов до кімнати.",
-          "reading": "[uˈtʃɪtɛlʲ uwijˈʃɔw u klɑs] (oo-CHY-tel)",
-          "translation": "The teacher entered the classroom, and he came into the room."
+          "target": "Вона живе в Одесі, а її брат навчається у Львові.",
+          "reading": "[wɔˈnɑ ʒɪˈwɛ w ɔˈdɛsʲi, ɑ jɪˈji brɑt nɐwˈtʃɑjɛtsʲɑ u ˈlʲwɔwʲi] (Voh-NAH zhy-VEH v Oh-DEH-see, ah yee-YEE braht nav-CHAH-yet-syah oo L'VOH-vee)",
+          "translation": "She lives in Odesa, and her brother studies in Lviv."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 1-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Учитель зайшов у світлий клас і привітав учнів.",
+          "reading": "[uˈtʃɪtɛlʲ zɐjˈʃɔw u ˈsʲwʲitlɪj klɑs i prɪwʲiˈtɑw ˈutʃnʲiw] (Oo-CHY-tel' zay-SHOV oo SVEET-lyi klahs ee pry-vee-TAHV OOCH-neev)",
+          "translation": "The teacher walked into the bright classroom and greeted the pupils."
+        },
+        {
+          "target": "Сонце світить яскраво, і птахи співають у саду.",
+          "reading": "[ˈsɔntsɛ ˈsʲwʲitɪtʲ jɐsˈkrɑwɔ, i ptɐˈxɪ spʲiˈwɑjutʲ u sɑˈdu] (SOHN-tseh SVEE-tyt' yahs-KRAH-voh, ee ptah-HY spee-VAH-yoot' oo sah-DOO)",
+          "translation": "The sun shines brightly, and birds sing in the garden."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Голосний після голосного — «В» і «Й» стають чудово; Приголосний біля приголосного — «У» та «І» звучать медово!"
+      ],
+      "culturalNotes": [
+        "Милозвучність української мови закріплена на орфографічному та фонетичному рівнях. Завдяки чергуванню голосних і приголосних українська поезія та пісенна творчість мають унікальну пісенну плавність."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"До побачення\":",
+          "prompt": "Оберіть правильний варіант заповнення пропуску відповідно до законів милозвучності: «Він працює ... великій компанії».",
           "options": [
-            "Учитель увійшов у клас, а він зайшов до кімнати.",
-            "Неправильне відмінкове узгодження зі словом «Вибачте»",
-            "Порушення законів евфонії та словотворення для «Смачного»",
-            "Стилістично некоректна синтаксична конструкція з «Сніданок»"
+            "у (між приголосними «працює» [йе] та «великій» [в])",
+            "в (створює небажаний збіг «в великій»)",
+            "ізсередини",
+            "крізь"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Перед словом, що починається на букву «в» або сполучення приголосних («великій»), вживається прийменник «у» для уникнення збігу однакових звуків."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"До побачення\":",
+          "prompt": "Оберіть варіант із правильним чергуванням сполучника між двома голосними звуками: «Оксана ... Андрій пішли до парку».",
           "options": [
-            "Учитель увійшов у клас, а він зайшов до кімнати.",
-            "Порушення законів евфонії та словотворення для «Смачного»",
-            "Стилістично некоректна синтаксична конструкція з «Сніданок»",
-            "Неправильне відмінкове узгодження зі словом «Вибачте»"
+            "й (Оксана й Андрій — між голосними [а] та [а])",
+            "і (менш милозвучно між голосними)",
+            "алеж",
+            "проте"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Між голосними звуками (після «Оксана» перед «Андрій») за законами евфонії наймилозвучнішим є сполучник «й»."
         }
       ]
     },
@@ -827,17 +876,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"До побачення\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому бездоганно дотримано всі правила чергування У/В та І/Й:",
           "options": [
-            "Учитель увійшов у клас, а він зайшов до кімнати.",
-            "Стилістично некоректна синтаксична конструкція з «Сніданок»",
-            "Неправильне відмінкове узгодження зі словом «Вибачте»",
-            "Порушення законів евфонії та словотворення для «Смачного»"
+            "У місті відкрили новий театр, і вистава розпочалася вчасно.",
+            "В місті відкрили новий театр, й вистава розпочалася увчасно.",
+            "У місті відкрили новий театр, й вистава розпочалася вчасно.",
+            "В місті відкрили новий театр, і вистава розпочалася увчасно."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "На початку речення перед приголосним вживаємо «У місті», між приголосним [р] та [в] сполучник «і», прислівник «вчасно» після голосного."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u2-l1": {
