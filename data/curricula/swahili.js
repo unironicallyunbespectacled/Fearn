@@ -7045,53 +7045,62 @@
     "subject": "swahili",
     "unit": 17,
     "lessonNumber": 1,
-    "title": "Kauli ya Kutendwa na Vinyambuliko (-wa) (Passive Stems) (Part 1)",
+    "title": "Kauli ya Kutendwa: Mashina ya Kawaida ya Konsonanti (-wa) na Kiashiria cha Mtenda 'na'",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.1) with authentic precision.",
+    "objective": "Kuelewa dhana ya Kauli ya Kutendwa (Passive Voice) na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti (+wa) na kiunganishi cha mtenda 'na' (by).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kauli ya Kutendwa katika Kiswahili (The Passive Voice - Consonant Stems):\n\nKauli ya kutendwa huonyesha kuwa kiima cha sentensi ndiye mtendwa wa kitendo (The subject receives the action instead of performing it):\n\n1. **Mashina ya Kawaida Yanayoishia na Konsonanti + a**:\n   - Kiambishi cha kutendwa ni **-w-** kinachoingizwa kabla ya irabu ya mwisho **-a** (au **-wa**):\n     - *soma* (read) -> **somwa** (be read)\n     - *andika* (write) -> **andikwa** (be written)\n     - *penda* (love) -> **pendwa** (be loved)\n     - *piga* (strike / hit) -> **pigwa** (be struck / hit)\n     - *jenga* (build) -> **jengwa** (be built)\n     - *kata* (cut) -> **katwa** (be cut)\n     - *lima* (cultivate) -> **limwa** (be cultivated)\n     - *funga* (close / lock) -> **fungwa** (be closed / locked)\n     - *pika* (cook) -> **pikwa** (be cooked)\n     - *ona* (see) -> **onwa** (be seen)\n     - *tengeneza* (make / repair) -> **tengenezwa** (be repaired / manufactured).\n\n2. **Kiashiria cha Mtenda (Agent Marker 'na')**:\n   - Mtendaji wa kitendo (Agent / Doer) katika kauli ya kutendwa huonyeshwa kwa kiunganishi **na** (*by*):\n     - *Kitabu kimesomwa **na** wanafunzi wote.* (The book was read by all students.)\n     - *Nyumba ilijengwa **na** mafundi stadi.* (The house was built by skilled masons.)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 17."
+          "target": "Barua hii iliandikwa na mkurugenzi na ikasomwa mbele ya mkutano wote.",
+          "reading": "Ba-ru-a hi-i i-li-a-ndi-kwa na mku-ru-ge-nzi na i-ka-so-mwa mbe-le ya mku-ta-no wo-te. [bɑˈruɑ ˈhiː iliɑnˈdikwɑ nɑ mkurʊˈɡɛnzi nɑ ikɑˈsɔmwɑ ˈmbɛlɛ jɑ mkuˈtɑnɔ ˈwɔtɛ] (bah-ROO-ah HEE-ee ee-lee-ahn-DEE-kwah nah m-koo-roo-GAYN-zee nah ee-kah-SOH-mwah m-BAY-lay yah m-koo-TAH-noh WOH-tay)",
+          "translation": "This letter was written [iliandikwa] by the director and was read [ikasomwa] before the whole assembly."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 17-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Shamba letu lililimwa na trekta na mbegu bora zikapandwa jana asubuhi.",
+          "reading": "Sha-mba le-tu li-li-li-mwa na tre-kta na mbe-gu bo-ra zik-a-pa-ndwa ja-na a-su-bu-hi. [ˈʃɑmbɑ ˈlɛtu lililiˈmwɑ nɑ ˈtrɛktɑ nɑ ˈmbɛɡu ˈbɔrɑ zikɑˈpɑndwɑ ˈʤɑnɑ ɑsuˈbuhi] (SHAHM-bah LAY-too lee-lee-LEE-mwah nah TRAYK-tah nah M-BAY-goo BOH-rah zee-kah-PAHN-dwah JAH-nah ah-soo-BOO-hee)",
+          "translation": "Our farm was cultivated [lililimwa] by tractor and fine seeds were planted [zikapandwa] yesterday morning."
+        },
+        {
+          "target": "Madirisha yote yamefungwa na milango imefungwa kwa usalama wa jengo lote.",
+          "reading": "Ma-di-ri-sha yo-te ya-me-fu-ngwa na mi-la-ngo i-me-fu-ngwa kwa u-sa-la-ma wa je-ngo lo-te. [mɑdiriˈʃɑ ˈjɔtɛ jɑmɛˈfuŋɡwɑ nɑ miˈlɑŋɡɔ imɛˈfuŋɡwɑ kwɑ usɑˈlɑmɑ wɑ ˈʤɛŋɡɔ ˈlɔtɛ] (mah-dee-REE-shah YOH-tay yah-may-FOON-gwah nah mee-LAHN-goh ee-may-FOON-gwah kwah oo-sah-LAH-mah wah JAYN-goh LOH-tay)",
+          "translation": "All windows have been closed [yamefungwa] and doors have been locked [imefungwa] for the security of the whole building."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kauli ya Kutendwa ya Kawaida: Mzizi + -wa (andika -> andikwa, soma -> somwa, lima -> limwa); Mtenda huletwa na 'na'!"
+      ],
+      "culturalNotes": [
+        "Katika utamaduni wa usimulizi wa Kiswahili, kauli ya kutendwa hutumika sana kuweka msisitizo kwenye tukio au matokeo badala ya anayefanya."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Daktari\":",
+          "prompt": "Kauli ya kutendwa (Passive Voice) ya kitenzi \"pika\" (cook) ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Dawa»",
-            "Mpangilio usio sahihi wa viambishi katika «Hospitali»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Afya»"
+            "pikwa (Be cooked - Correct passive formation with '-wa')",
+            "pikiwa (Hii ni kauli ya kutendea)",
+            "pikisha (Hii ni kauli ya kutendesha)",
+            "pikana (Hii ni kauli ya kutendana)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «pika» huchukua «-wa» kupata kauli ya kutendwa «pikwa» (be cooked)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Daktari\":",
+          "prompt": "Sentensi ipi inatumia kiunganishi sahihi cha mtenda (by) katika kauli ya kutendwa?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Hospitali»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Afya»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Dawa»"
+            "Chakula kilitayarishwa na mpishi hodari. (The food was prepared by a skilled cook - Correct agent marker 'na')",
+            "Chakula kilitayarishwa kwa mpishi hodari (Kosa la kutumia 'kwa' badala ya 'na')",
+            "Chakula kilitayarishwa ya mpishi hodari (Kosa la kutumia 'ya')",
+            "Chakula kilitayarishwa katika mpishi hodari (Kosa la kutumia 'katika')"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Katika Kiswahili, mtenda wa kauli ya kutendwa hutanguliwa na kiunganishi «na» (by): «kilitayarishwa na mpishi»."
         }
       ]
     },
@@ -7099,17 +7108,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Daktari\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoonyesha ubadilishaji sahihi wa kauli ya kutenda (Active) kuwa kauli ya kutendwa (Passive):",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Afya»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Dawa»",
-            "Mpangilio usio sahihi wa viambishi katika «Hospitali»"
+            "Kutenda: «Mafundi wamejenga nyumba.» -> Kutendwa: «Nyumba imejengwa na mafundi.» (Correct active-to-passive transformation.)",
+            "Kutenda: «Mafundi wamejenga nyumba.» -> Kutendwa: «Nyumba wameijenga mafundi.»",
+            "Kutenda: «Mafundi wamejenga nyumba.» -> Kutendwa: «Mafundi wamejengwa na nyumba.»",
+            "Kauli ya kutendwa haibadilishi nafasi ya nomino katika sentensi."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Nyumba imejengwa na mafundi.» inabadilisha mtendwa (nyumba) kuwa kiima na mtenda (mafundi) kufuatiwa na «na»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u17-l2": {
@@ -7117,53 +7127,62 @@
     "subject": "swahili",
     "unit": 17,
     "lessonNumber": 2,
-    "title": "Kauli ya Kutendwa na Vinyambuliko (-wa) (Passive Stems) (Part 2)",
+    "title": "Kauli ya Kutendwa kwa Mashina ya Irabu Mbili (-liwa / -lewa: Kanuni ya Upatanisho wa Irabu)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.2) with authentic precision.",
+    "objective": "Kutambua na kutumia kanuni ya upatanisho wa irabu (Vowel Harmony) katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili: a, i, u -> -liwa na e, o -> -lewa.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kanuni ya Upatanisho wa Irabu katika Kauli ya Kutendwa (-liwa vs. -lewa):\n\nMashina ya vitenzi yanapoishia na irabu mbili mfululizo (Double Vowels), kauli ya kutendwa huongeza **-liwa** au **-lewa** kulingana na irabu ya shina:\n\n1. **Irabu a, i, u huchukua -liwa**:\n   - *zaa* (give birth / bear) -> **zaliwa** (be born)\n   - *kaa* (sit / live) -> **kaliwa** (be inhabited / sat on)\n   - *tia* (put in) -> **tiliwa** (be put in)\n   - *sikia* (hear) -> **sikiliwa** (be heard / attended to)\n   - *nunua* (buy) -> **nunuliwa** (be bought)\n   - *fungua* (open) -> **funguliwa** (be opened)\n   - *chagua* (choose / elect) -> **chaguliwa** (be elected / chosen)\n   - *chua* (massage) -> **chuliwa** (be massaged).\n\n2. **Irabu e, o huchukua -lewa**:\n   - *pokea* (receive) -> **pokelewa** (be received / welcomed)\n   - *ondoa* (remove) -> **ondolewa** (be removed / dismissed)\n   - *toa* (issue / give / remove) -> **tolewa** (be issued / released)\n   - *ng'oa* (uproot) -> **ng'olewa** (be uprooted)\n   - *kosea* (err / wrong) -> **koselewa** (be wronged)\n   - *chochea* (provoke) -> **chochelewa** (be incited).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 17."
+          "target": "Mtoto alizaliwa hospitalini na akapokelewa kwa furaha tele na familia yake yote.",
+          "reading": "Mto-to a-li-za-li-wa ho-spi-ta-li-ni na a-ka-po-ke-le-wa kwa fu-ra-ha te-le na fa-mi-li-a ya-ke yo-te. [mˈtɔtɔ ɑlizɑˈliwɑ hɔspitɑˈlini nɑ ɑkɑpɔkɛˈlɛwɑ kwɑ fuˈrɑhɑ ˈtɛlɛ nɑ fɑmiˈliɑ ˈjɑkɛ ˈjɔtɛ] (m-TOH-toh ah-lee-zah-LEE-wah hoh-spee-tah-LEE-nee nah ah-kah-poh-kay-LAY-wah kwah foo-RAH-hah TAY-lay nah fah-mee-LEE-ah YAH-kay YOH-tay)",
+          "translation": "The child was born [alizaliwa: zaa -> -liwa] at the hospital and received [akapokelewa: pokea -> -lewa] with great joy by his entire family."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 17-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Gari jipya lilinunuliwa na mzigo mzito ukaondolewa uwanjani bila kuchelewa.",
+          "reading": "Ga-ri ji-pya li-li-nu-nu-li-wa na mzi-go mzi-to u-ka-o-ndo-le-wa u-wa-nja-ni bi-la ku-che-le-wa. [ˈɡɑri ˈʤipjɑ lilinunuˈliwɑ nɑ ˈmziɡɔ ˈmzitɔ ukɑɔndɔˈlɛwɑ uwɑˈnʤɑni ˈbilɑ kutʃɛˈlɛwɑ] (GAH-ree JEE-pyah lee-lee-noo-noo-LEE-wah nah m-ZEE-goh m-ZEE-toh oo-kah-ohn-doh-LAY-wah oo-WAHN-jah-nee BEE-lah koo-chay-LAY-wah)",
+          "translation": "A new car was bought [lilinunuliwa: nunua -> -liwa] and the heavy load was removed [ukaondolewa: ondoa -> -lewa] from the yard without delay."
+        },
+        {
+          "target": "Viongozi bora walichaguliwa na wananchi na ripoti mpya ikatolewa jana asubuhi.",
+          "reading": "Vi-o-ngo-zi bo-ra wa-li-cha-gu-li-wa na wa-na-nchi na ri-po-ti mpy-a i-ka-to-le-wa ja-na a-su-bu-hi. [viɔˈŋɡɔzi ˈbɔrɑ wɑlitʃɑɡuˈliwɑ nɑ wɑnɑˈntʃi nɑ riˈpɔti ˈmpjɑ ikɑtɔˈlɛwɑ ˈʤɑnɑ ɑsuˈbuhi] (vee-ohn-GOH-zee BOH-rah wah-lee-chah-goo-LEE-wah nah wah-nahn-CHEE nah ree-POH-tee M-PYAH ee-kah-toh-LAY-wah JAH-nah ah-soo-BOO-hee)",
+          "translation": "Fine leaders were elected [walichaguliwa: chagua -> -liwa] by citizens and a new report was issued [ikatolewa: toa -> -lewa] yesterday morning."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vowel Harmony ya Kutendwa: a/i/u -> -liwa (zaa -> zaliwa, nunua -> nunuliwa); e/o -> -lewa (pokea -> pokelewa, toa -> tolewa)!"
+      ],
+      "culturalNotes": [
+        "Neno 'Kuzaliwa' (kutoka shina 'zaa' -> 'zaliwa') ndio msingi wa sherehe za kila mwaka za 'Siku ya Kuzaliwa' (Birthday) kote Afrika Mashariki."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Dawa\":",
+          "prompt": "Kauli ya kutendwa ya kitenzi \"chagua\" (choose / elect) inayofuata kanuni ya irabu \"u\" ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Hospitali»",
-            "Mpangilio usio sahihi wa viambishi katika «Afya»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Matibabu»"
+            "chaguliwa (Be chosen / elected - Correct vowel harmony with '-liwa')",
+            "chagulewa (Kosa la kutumia '-lewa' badala ya '-liwa')",
+            "chaguwa (Kosa la kuacha herufi 'l')",
+            "chaguzwa (Hii ni kauli ya kutendesha)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Shina «chagua» lina irabu «u» na linaishia na irabu mbili, kwa hivyo huchukua «-liwa» kupata «chaguliwa»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Dawa\":",
+          "prompt": "Kitenzi \"ondoa\" (remove) kinapobadilishwa kuwa kauli ya kutendwa kwa kufuata irabu \"o\", neno sahihi huwa lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Afya»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Matibabu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Hospitali»"
+            "ondolewa (Be removed - Correct vowel harmony with '-lewa')",
+            "ondoliwa (Kosa la kutumia '-liwa' badala ya '-lewa')",
+            "ondowa (Umbo lisilo sahihi)",
+            "ondozwa (Kauli ya kutendesha)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Shina «ondoa» lina irabu «o», hivyo kulingana na sheria ya upatanisho wa irabu huchukua «-lewa» kupata «ondolewa»."
         }
       ]
     },
@@ -7171,17 +7190,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Dawa\": Which sentence is completely correct?",
+          "prompt": "Chagua jozi zote zilizo sahihi za vitenzi na vinyambuliko vyao vya kutendwa kwa kanuni ya -liwa / -lewa:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Matibabu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Hospitali»",
-            "Mpangilio usio sahihi wa viambishi katika «Afya»"
+            "zaa -> zaliwa, nunua -> nunuliwa, fungua -> funguliwa, pokea -> pokelewa, toa -> tolewa, ondoa -> ondolewa.",
+            "zaa -> zalewa, nunua -> nunulewa, fungua -> fungulewa.",
+            "pokea -> pokeliwa, toa -> toliwa, ondoa -> ondoliwa.",
+            "Vitenzi vyenye irabu mbili havifuati sheria yoyote ya upatanisho wa irabu."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«a, i, u» huchukua «-liwa» (zaliwa, nunuliwa, funguliwa) na «e, o» huchukua «-lewa» (pokelewa, tolewa, ondolewa)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u17-l3": {
@@ -7189,53 +7209,62 @@
     "subject": "swahili",
     "unit": 17,
     "lessonNumber": 3,
-    "title": "Kauli ya Kutendwa na Vinyambuliko (-wa) (Passive Stems) (Part 3)",
+    "title": "Kauli ya Kutendwa kwa Vitenzi vya Kigeni / Kiarabu (-iwa, -ewa, -wa: Mashina Yasiyoishia na -a)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.3) with authentic precision.",
+    "objective": "Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni (hasa Kiarabu) vinavyoishia na irabu -i, -u, au -e (-iwa / -ewa / -wa).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kauli ya Kutendwa kwa Vitenzi vya Kigeni (Loanword Passive Forms):\n\nVitenzi vingi vilivyokopwa kutoka Kiarabu havimaliziki na irabu **-a**. Vitenzi hivi hufuata kanuni maalum za unyambulishaji katika kauli ya kutendwa:\n\n1. **Vitenzi Vinavyoishia na -i (Huchukua -iwa au -wa)**:\n   - *jibu* -> *jibiwa* (kutoka *jibu*)\n   - *badili* (change) -> **badiliwa** / **badilishwa** (be changed)\n   - *rudi* (punish / revise) -> **rudiwa** (be punished / revised)\n   - *fikiri* (think) -> **fikiriwa** (be considered)\n   - *kabili* (confront) -> **kabiliwa** (be faced / confronted)\n   - *kiri* (confess) -> **kiriwa** (be admitted / acknowledged)\n   - *hesabu* (count) -> **hesabiwa** (be counted).\n\n2. **Vitenzi Vinavyoishia na -u (Huchukua -iwa)**:\n   - *jibu* (answer) -> **jibiwa** (be answered)\n   - *jaribu* (test / try) -> **jaribiwa** (be tested / tried)\n   - *hukumu* (judge / sentence) -> **hukumiwa** (be judged / sentenced)\n   - *haribu* (destroy / spoil) -> **haribiwa** (be destroyed / spoiled)\n   - *laumu* (blame) -> **laumiwa** (be blamed)\n   - *heshimu* (respect) -> **heshimiwa** (be respected).\n\n3. **Vitenzi Vinavyoishia na -e (Huchukua -ewa)**:\n   - *samehe* (forgive) -> **samehewa** (be forgiven).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 17."
+          "target": "Maswali yote magumu yalijibiwa kwa ufasaha na mtahiniwa aliyefaulu mtihani.",
+          "reading": "Ma-swa-li yo-te ma-gu-mu ya-li-ji-bi-wa kwa u-fa-sa-ha na mta-hi-ni-wa a-li-ye-fa-u-lu mti-ha-ni. [mɑswɑˈli ˈjɔtɛ mɑˈɡumu jɑliʤiˈbiwɑ kwɑ ufɑˈsɑhɑ nɑ mtɑhiˈniwɑ ɑlijɛfɑˈulu mtiˈhɑni] (mah-SWAH-lee YOH-tay mah-GOO-moo yah-lee-jee-BEE-wah kwah oo-fah-SAH-hah nah m-tah-hee-NEE-wah ah-lee-yay-fah-OO-loo m-tee-HAH-nee)",
+          "translation": "All difficult questions were answered [yalijibiwa: jibu -> jibiwa] fluently by the candidate who passed the exam."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 17-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kosa lake lilisamehewa na uamuzi wa haki ukatolewa na jaji mahakamani.",
+          "reading": "Ko-sa la-ke li-li-sa-me-he-wa na u-a-mu-zi wa ha-ki u-ka-to-le-wa na ja-ji ma-ha-ka-ma-ni. [ˈkɔsɑ ˈlɑkɛ lilisɑmɛˈhɛwɑ nɑ uɑˈmuzi wɑ ˈhɑki ukɑtɔˈlɛwɑ nɑ ˈʤɑʤi mɑhɑkɑˈmɑni] (KOH-sah LAH-kay lee-lee-sah-may-HAY-wah nah oo-ah-MOO-zee wah HAH-kee oo-kah-toh-LAY-wah nah JAH-jee mah-hah-kah-mah-NEE)",
+          "translation": "His mistake was forgiven [lilisamehewa: samehe -> samehewa] and a fair ruling was delivered by the judge in court."
+        },
+        {
+          "target": "Kiongozi anayeheshimiwa na wananchi alihutubia mkutano mkuu wa hadhara.",
+          "reading": "Ki-o-ngo-zi a-na-ye-he-shi-mi-wa na wa-na-nchi a-li-hu-tu-bi-a mku-ta-no mku-u wa ha-dha-ra. [kiɔˈŋɡɔzi ɑnɑjɛhɛʃiˈmiwɑ nɑ wɑnɑˈntʃi ɑlihutuˈbiɑ mkuˈtɑnɔ ˈmkuː wɑ ˈhɑðɑrɑ] (kee-ohn-GOH-zee ah-nah-yay-hay-shee-MEE-wah nah wah-nahn-CHEE ah-lee-hoo-too-BEE-ah m-koo-TAH-noh m-KOO-oo wah HAH-thah-rah)",
+          "translation": "The leader who is respected [anayeheshimiwa: heshimu -> heshimiwa] by citizens addressed the grand public assembly."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vitenzi vya Kigeni: -u/-i -> -iwa (jibu -> jibiwa, heshimu -> heshimiwa, fikiri -> fikiriwa); -e -> -ewa (samehe -> samehewa)!"
+      ],
+      "culturalNotes": [
+        "Mheshimiwa (kutoka kitenzi 'heshimu' -> 'heshimiwa') ni neno la heshima kuu linalotumika kuwaita wabunge na viongozi wa serikali katika mataifa ya Afrika Mashariki."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Hospitali\":",
+          "prompt": "Kauli ya kutendwa ya kitenzi cha Kiarabu \"jibu\" (answer) ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Afya»",
-            "Mpangilio usio sahihi wa viambishi katika «Matibabu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Homa»"
+            "jibiwa (Be answered - Correct loanword passive formation with '-iwa')",
+            "jibuwa (Kosa la kuacha kubadilisha irabu ya mwisho)",
+            "jibwa (Umbo lililofupishwa isivyo sanifu)",
+            "jibulewa (Kosa la kutumia '-lewa')"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «jibu» hubadilisha «-u» kuwa «-iwa» kupata «jibiwa» (be answered)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Hospitali\":",
+          "prompt": "Kitenzi \"samehe\" (forgive) kinapobadilishwa kuwa kauli ya kutendwa (be forgiven), neno sahihi huwa lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Matibabu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Homa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Afya»"
+            "samehewa (Be forgiven - Correct passive suffix '-ewa' after final 'e')",
+            "samehiwa (Kosa la kubadilisha 'e' kuwa 'i')",
+            "samehwa (Kosa la kutoingiza irabu ya kiunganishi)",
+            "samehelewa (Kosa la kuongeza silabi isiyo ya lazima)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kitenzi kinachoishia na «-e» kama «samehe» hupokea «-wa» kuwa «samehewa» (be forgiven)."
         }
       ]
     },
@@ -7243,17 +7272,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Hospitali\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha ya vitenzi vya kigeni vilivyonyambulishwa katika kauli ya kutendwa kwa usahihi:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Homa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Afya»",
-            "Mpangilio usio sahihi wa viambishi katika «Matibabu»"
+            "jibu -> jibiwa, heshimu -> heshimiwa, hukumu -> hukumiwa, jaribu -> jaribiwa, samehe -> samehewa, fikiri -> fikiriwa.",
+            "jibu -> jibuwa, heshimu -> heshimuwa, hukumu -> hukumuwa.",
+            "jibu -> jibwa, heshimu -> heshimwa, samehe -> samehwa.",
+            "Vitenzi vilivyokopwa kutoka Kiarabu havina kauli ya kutendwa."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Vitenzi vya Kiarabu vyenye -u/-i hupokea -iwa (jibiwa, heshimiwa, hukumiwa, jaribiwa, fikiriwa) na -e hupokea -ewa (samehewa)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u17-l4": {
@@ -7261,53 +7291,62 @@
     "subject": "swahili",
     "unit": 17,
     "lessonNumber": 4,
-    "title": "Kauli ya Kutendwa na Vinyambuliko (-wa) (Passive Stems) (Part 4)",
+    "title": "Kauli ya Kutendwa kwa Vitenzi vya Silabi Moja na Mashina Maalum (Monosyllabic & Irregular Passives)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.4) with authentic precision.",
+    "objective": "Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja (kula -> liwa, kunywa -> nywewa, kupa -> pewa) na mashina maalum (kuua -> uawa, kuvaa -> valiwa).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kauli ya Kutendwa kwa Vitenzi vya Silabi Moja na Miundo Maalum:\n\n1. **Vitenzi vya Silabi Moja (Monosyllabic Passives)**:\n   - Vitenzi vya silabi moja hupoteza kiambishi nafsi cha *ku-* kinapounganishwa na viambishi vya nyakati katika kauli ya kutendwa:\n     - *kula* (eat) -> **liwa** (be eaten) -> *Chakula kina**liwa*** (Food is being eaten) / *Kili**liwa*** (Was eaten)\n     - *kunywa* (drink) -> **nywewa** (be drunk) -> *Maji yana**nywewa*** (Water is being drunk) / *Yali**nywewa***\n     - *kupa* (give) -> **pewa** (be given / receive) -> *Nili**pewa** kitabu* (I was given a book) / *Ata**pewa***\n     - *kufa* (die) -> **fiwa** (be bereaved) -> *Mzee ali**fiwa** na mtoto* (The elder was bereaved of a child).\n\n2. **Mashina Maalum ya Kutendwa (Irregular Passive Stems)**:\n   - *kuua* (kill) -> **uawa** (be killed) -> *Mhalifu aliuawa* (The criminal was killed)\n   - *kuvaa* (wear) -> **valiwa** (be worn) -> *Nguo zimevaliwa* (Garments have been worn)\n   - *kujua* (know) -> **julikana** (be known) / **juliwa**\n   - *kufua* (wash clothes) -> **fuliwa** (be laundered) -> *Nguo zifuliwe*.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 17."
+          "target": "Chakula kitamu kinaliwa na wageni wakati juisi baridi ikinywewa kwa furaha.",
+          "reading": "Cha-ku-la ki-ta-mu ki-na-li-wa na wa-ge-ni wa-ka-ti jui-si ba-ri-di i-ki-nywe-wa kwa fu-ra-ha. [tʃɑˈkulɑ kiˈtɑmu kinɑˈliwɑ nɑ wɑˈɡɛni wɑˈkɑti ˈʤuisi bɑˈridi ikiˈɲwɛwɑ kwɑ fuˈrɑhɑ] (chah-KOO-lah kee-TAH-moo kee-nah-LEE-wah nah wah-GAY-nee wah-KAH-tee JOO-ee-see bah-REE-dee ee-kee-NYWAY-wah kwah foo-RAH-hah)",
+          "translation": "Delicious food is being eaten [kinaliwa: kula -> liwa] by guests while cold juice is being drunk [ikinywewa: kunywa -> nywewa] with delight."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 17-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mwanafunzi bora alipewa tuzo ya heshima na zawadi ya kompyuta mpya.",
+          "reading": "Mwa-na-fu-nzi bo-ra a-li-pe-wa tu-zo ya he-shi-ma na za-wa-di ya ko-mpyu-ta mpy-a. [mwɑnɑˈfunzi ˈbɔrɑ ɑliˈpɛwɑ ˈtuzɔ jɑ hɛˈʃimɑ nɑ zɑˈwɑdi jɑ kɔmˈpjutɑ ˈmpjɑ] (mwah-nah-FOON-zee BOH-rah ah-lee-PAY-wah TOO-zoh yah hay-SHEE-mah nah zah-WAH-dee yah kohm-PYOO-tah M-PYAH)",
+          "translation": "The best student was given [alipewa: kupa -> pewa] an honor award and a new computer prize."
+        },
+        {
+          "target": "Nguo zote safi ziliandaliwa na zikafuliwa asubuhi kabla ya kuvaliwa.",
+          "reading": "Nguo zo-te sa-fi zi-li-a-nda-li-wa na zi-ka-fu-li-wa a-su-bu-hi ka-bla ya ku-va-li-wa. [ˈŋɡuɔ ˈzɔtɛ ˈsɑfi ziliɑndɑˈliwɑ nɑ zikɑfuˈliwɑ ɑsuˈbuhi ˈkɑblɑ jɑ kuvɑˈliwɑ] (N-GOO-oh ZOH-tay SAH-fee zee-lee-ahn-dah-LEE-wah nah zee-kah-foo-LEE-wah ah-soo-BOO-hee KAH-blah yah koo-vah-LEE-wah)",
+          "translation": "All clean clothes were prepared, laundered [zikafuliwa: kufua -> fuliwa] in the morning before being worn [kuvaliwa: kuvaa -> valiwa]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vitenzi Maalum vya Kutendwa: kula -> liwa; kunywa -> nywewa; kupa -> pewa; kuua -> uawa; kuvaa -> valiwa; kufua -> fuliwa!"
+      ],
+      "culturalNotes": [
+        "Msemo 'Kupewa si kuomba' hutumika kusisitiza staha ya kupokea zawadi au heshima bila kudhalilika."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Afya\":",
+          "prompt": "Kauli ya kutendwa ya kitenzi cha silabi moja \"kunywa\" (drink) ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Matibabu»",
-            "Mpangilio usio sahihi wa viambishi katika «Homa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Maumivu ya kichwa»"
+            "nywewa (Be drunk - Correct passive form of monosyllabic 'kunywa')",
+            "kunywiwa (Kosa la kubakiza 'ku-' na kutumia '-iwa')",
+            "nywiwa (Kosa la kutumia '-iwa' badala ya '-ewa')",
+            "kunyweshwa (Hii ni kauli ya kutendesha)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «kunywa» huwa «nywewa» katika kauli ya kutendwa (mfano: *Maji yananywewa*)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Afya\":",
+          "prompt": "Sentensi ipi inatumia kauli ya kutendwa ya kitenzi \"kupa\" (give) kwa usahihi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Homa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Maumivu ya kichwa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Matibabu»"
+            "Mshindi alipewa kombe la dhahabu. (The winner was given a gold trophy - Correct passive 'pewa')",
+            "Mshindi alipiwa kombe (Kosa la kutumia upatanisho usio sahihi)",
+            "Mshindi alipawa kombe (Umbo lisilo sanifu)",
+            "Mshindi alikupiwa kombe (Kosa la kubakiza 'ku-')"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kitenzi «kupa» huwa «pewa» katika kauli ya kutendwa: «alipewa kombe» (he was given a trophy)."
         }
       ]
     },
@@ -7315,17 +7354,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Afya\": Which sentence is completely correct?",
+          "prompt": "Chagua jozi zilizo sahihi za vitenzi vya silabi moja na mashina maalum katika kauli ya kutendwa:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Maumivu ya kichwa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Matibabu»",
-            "Mpangilio usio sahihi wa viambishi katika «Homa»"
+            "kula -> liwa, kunywa -> nywewa, kupa -> pewa, kufa -> fiwa, kuua -> uawa, kuvaa -> valiwa, kufua -> fuliwa.",
+            "kula -> kulwa, kunywa -> kunywawa, kupa -> kupwa.",
+            "kula -> lewa, kunywa -> nywiwa, kupa -> piwa.",
+            "Vitenzi vya silabi moja haviwezi kubadilishwa kuwa kauli ya kutendwa."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Miundo sahihi ni kula/liwa, kunywa/nywewa, kupa/pewa, kufa/fiwa, kuua/uawa, kuvaa/valiwa, na kufua/fuliwa."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u17-l5": {
@@ -7333,53 +7373,62 @@
     "subject": "swahili",
     "unit": 17,
     "lessonNumber": 5,
-    "title": "Kauli ya Kutendwa na Vinyambuliko (-wa) (Passive Stems) (Part 5)",
+    "title": "Muhtasari wa Kauli ya Kutendwa na Vinyambuliko Vyake (Grand Synthesis of Passive Voice)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 17.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 17: mashina ya kawaida ya konsonanti (-wa), mashina ya irabu mbili (-liwa / -lewa), vitenzi vya kigeni (-iwa / -ewa / -wa), vitenzi vya silabi moja na mashina maalum, na matumizi ya kiunganishi cha mtenda 'na'.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Kauli ya Kutendwa (Grand Synthesis of Passive Verb Forms):\n\n1. **Muundo Kamili wa Kauli ya Kutendwa (Master Passive Matrix)**:\n   - **Konsonanti Kawaida**: *soma -> somwa, andika -> andikwa, jenga -> jengwa, lima -> limwa, pika -> pikwa*.\n   - **Irabu Mbili (a, i, u -> -liwa)**: *zaa -> zaliwa, nunua -> nunuliwa, fungua -> funguliwa, chagua -> chaguliwa*.\n   - **Irabu Mbili (e, o -> -lewa)**: *pokea -> pokelewa, toa -> tolewa, ondoa -> ondolewa, ng'oa -> ng'olewa*.\n   - **Vitenzi vya Kigeni (-u, -i -> -iwa)**: *jibu -> jibiwa, heshimu -> heshimiwa, hukumu -> hukumiwa, jaribu -> jaribiwa, fikiri -> fikiriwa*.\n   - **Vitenzi vya Kigeni (-e -> -ewa)**: *samehe -> samehewa*.\n   - **Silabi Moja & Maalum**: *kula -> liwa, kunywa -> nywewa, kupa -> pewa, kuua -> uawa, kuvaa -> valiwa, kufua -> fuliwa*.\n   - **Kiashiria cha Mtenda**: Hutanguliwa na kiunganishi **na** (*kazi ilifanywa **na** fundi*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 17."
+          "target": "Nyumba zote zilijengwa na mafundi, vitabu vikasomwa na wanafunzi, na chakula kitamu kikaliwa mezani.",
+          "reading": "Nyu-mba zo-te zi-li-je-ngwa na ma-fu-ndi, vi-ta-bu vi-ka-so-mwa na wa-na-fu-nzi, na cha-ku-la ki-ta-mu ki-ka-li-wa me-za-ni. [ˈɲumbɑ ˈzɔtɛ ziliˈʤɛŋɡwɑ nɑ mɑˈfundi viˈtɑbu vikɑˈsɔmwɑ nɑ wɑnɑˈfunzi nɑ tʃɑˈkulɑ kiˈtɑmu kikɑˈliwɑ mɛzɑˈni] (NYOOM-bah ZOH-tay zee-lee-JAYN-gwah nah mah-FOON-dee, vee-TAH-boo vee-kah-SOH-mwah nah wah-nah-FOON-zee, nah chah-KOO-lah kee-TAH-moo kee-kah-LEE-wah may-zah-NEE)",
+          "translation": "All houses were built [zilijengwa] by masons, books were read [vikasomwa] by students, and delicious food was eaten [kikaliwa] at the table."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 17-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Zawadi zote zilizotolewa zikapewa washindi, na barua mpya zikapokelewa ofisini.",
+          "reading": "Za-wa-di zo-te zi-li-zo-to-le-wa zi-ka-pe-wa wa-shi-ndi, na ba-ru-a mpy-a zi-ka-po-ke-le-wa o-fi-si-ni. [zɑˈwɑdi ˈzɔtɛ zilizɔtɔˈlɛwɑ zikɑˈpɛwɑ wɑˈʃindi nɑ bɑˈruɑ ˈmpjɑ zikɑpɔkɛˈlɛwɑ ɔfiˈsini] (zah-WAH-dee ZOH-tay zee-lee-zoh-toh-LAY-wah zee-kah-PAY-wah wah-SHEEN-dee, nah bah-ROO-ah M-PYAH zee-kah-poh-kay-LAY-wah oh-fee-see-NEE)",
+          "translation": "All gifts which were issued [zilizotolewa] were given [zikapewa] to the winners, and new letters were received [zikapokelewa] at the office."
+        },
+        {
+          "target": "Umahiri wa kauli ya kutendwa na upatanisho wa kisarufi unamwezesha msemaji kuunda sentensi zilizosawazishwa kimantiki bila kuhitaji kutaja mtendaji mara moja pale ambapo kitendo chenyewe ndicho lengo kuu.",
+          "reading": "U-ma-hi-ri wa ka-u-li ya ku-te-ndwa na u-pa-ta-ni-sho wa ki-sa-ru-fi u-na-mwe-ze-sha mse-ma-ji ku-u-nda se-nte-nsi zi-li-zo-sa-wa-zi-shwa ki-ma-nti-ki bi-la ku-hi-ta-ji ku-ta-ja mte-nda-ji ma-ra mo-ja pa-le a-mba-po ki-te-ndo che-nye-we ndi-cho le-ngo ku-u. [umɑˈhiri wɑ kɑˈuli jɑ kuˈtɛndwɑ nɑ upɑtɑˈniʃɔ wɑ kisɑˈrufi unɑmwɛˈzɛʃɑ msɛˈmɑʤi kuˈundɑ sɛnˈtɛnsi zilizɔsɑwɑˈziʃwɑ kimɑnˈtiki ˈbilɑ kuhitɑˈʤi kuˈtɑʤɑ mtɛnˈdɑʤi ˈmɑrɑ ˈmɔʤɑ ˈpɑlɛ ɑˈmbɑpɔ kiˈtɛndɔ tʃɛˈɲɛwɛ ˈnditʃɔ ˈlɛŋɡɔ ˈkuː] (oo-mah-HEE-ree wah kah-OO-lee yah koo-TAYN-dwah nah oo-pah-tah-NEE-shoh wah kee-sah-ROO-fee oo-nah-mway-ZAY-shah m-say-MAH-jee koo-OON-dah sayn-TAYN-see zee-lee-zoh-sah-wah-ZEE-shwah kee-mahn-TEE-kee BEE-lah koo-hee-tah-JEE koo-TAH-jah m-tayn-DAH-jee MAH-rah MOH-jah PAH-lay ahm-BAH-poh kee-TAYN-doh chayn-YAY-way N-DEE-choh LAYN-goh KOO-oo)",
+          "translation": "Mastery of the passive voice [passive grand synthesis: kauli ya kutendwa] and grammatical agreement empowers the speaker to formulate logically balanced expressions, focusing on the action itself."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Muhtasari wa Kutendwa: Konsonanti = -wa (andikwa); Irabu mbili = -liwa (nunuliwa) / -lewa (tolewa); Kigeni = -iwa (jibiwa) / -ewa (samehewa); Silabi moja = liwa, nywewa, pewa!"
+      ],
+      "culturalNotes": [
+        "Katika muktadha rasmi wa kisheria na kiserikali wa Kiswahili, maamuzi hutangazwa kwa kauli ya kutendwa: 'Imetangazwa kwamba...', 'Imeamuliwa kuwa...' kuonyesha mamlaka na uhalali."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Matibabu\":",
+          "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa kauli ya kutendwa ikichanganya shina la kawaida, shina la irabu mbili, na kiashiria cha mtenda?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Homa»",
-            "Mpangilio usio sahihi wa viambishi katika «Maumivu ya kichwa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Macho»"
+            "Chakula kilitayarishwa na mpishi na vinywaji vikanunuliwa na mkurugenzi. (Food was prepared by the cook and drinks were bought by the director - Harmonious passive synthesis)",
+            "Chakula kilitayarisha kwa mpishi na vinywaji vikanunua.",
+            "Chakula kilitayarishwa ya mpishi na vinywaji vikanunuliwa kwa mkurugenzi.",
+            "Kauli ya kutendwa haitumiki kwa chakula na vinywaji."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Chakula kilitayarishwa na mpishi na vinywaji vikanunuliwa na mkurugenzi.» inatekeleza mifumo yote miwili ya kutendwa na mtenda «na»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Matibabu\":",
+          "prompt": "Katika muhtasari wa Unit 17, kitenzi kipi kimebadilishwa kwa usahihi kutoka kauli ya kutenda kwenda kauli ya kutendwa?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Maumivu ya kichwa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Macho»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Homa»"
+            "toa -> tolewa, pokea -> pokelewa, jibu -> jibiwa, kupa -> pewa. (Correct comprehensive passive conversions.)",
+            "toa -> toliwa, pokea -> pokeliwa, jibu -> jibuwa.",
+            "toa -> towa, pokea -> pokewa, kupa -> kupwa.",
+            "Vitenzi vyote hubadilika kwa kuongeza '-wa' pekee bila sheria nyingine."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«toa -> tolewa», «pokea -> pokelewa», «jibu -> jibiwa», na «kupa -> pewa» vinafuata sheria zote za unyambulishaji."
         }
       ]
     },
@@ -7387,17 +7436,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Matibabu\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 17 ya Kauli ya Kutendwa katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 17.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Macho»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Homa»",
-            "Mpangilio usio sahihi wa viambishi katika «Maumivu ya kichwa»"
+            "Barua iliandikwa na mkuu, maswali magumu yakajibiwa kwa hekima, na zawadi zote zikapewa washindi waliostahili. (Consonant passive [iliandikwa], loanword passive [yakajibiwa], and monosyllabic passive [zikapewa] with agent [na].)",
+            "Barua iliandika na mkuu na maswali yakajibu.",
+            "Barua kiliandikwa kwa mkuu na zawadi zikapewa kwa washindi.",
+            "Kauli ya kutendwa haitumiki kwa wakati uliopita."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Barua iliandikwa na mkuu, maswali magumu yakajibiwa kwa hekima, na zawadi zote zikapewa washindi waliostahili.» inajumuisha nyanja zote za kauli ya kutendwa kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u18-l1": {
