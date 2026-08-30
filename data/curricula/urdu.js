@@ -11145,53 +11145,62 @@
     "subject": "urdu",
     "unit": 27,
     "lessonNumber": 1,
-    "title": "کلاسیکی اردو نثر اور داستان گوئی (Classical Urdu Prose) (Part 1)",
+    "title": "دستورِ پاکستان، بنیادی حقوق اور وفاقی ڈھانچہ (Constitution & Fundamental Rights)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 27.1) with authentic precision.",
+    "objective": "آئینِ پاکستان 1973ء کے بنیادی ڈھانچے، شہریوں کے بنیادی حقوق، وفاقی پارلیمانی جمہوریہ، اور صوبائی خود مختاری کے فصیح بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں آئینِ پاکستان اور بنیادی حقوق کا بیان (Constitution & Fundamental Rights):\n\n1. **آئینِ پاکستان 1973ء کا فکری و دستوری ڈھانچہ**:\n   - «**1973ء کا متفقہ آئین**»: پاکستان کا سپریم لا (Supreme Law)؛\n   - «**وفاقی پارلیمانی جمہوریہ (Federal Parliamentary Republic)**»؛\n   - «**صوبائی خود مختاری اور اٹھارویں ترمیم**»۔\n\n2. **بنیادی حقوق کی ضمانت (Fundamental Rights)**:\n   - «زندگی کا حق، آزادیِ اظہارِ رائے، اور **منصفانہ ٹرائل (Fair Trial)**»؛\n   - «قانون کے سامنے تمام شہریوں کی برابری اور **قانون کی بالادستی**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "آئینِ پاکستان 1973ء کے تحت ہر شہری کو بلا تفریقِ رنگ و نسل زندہ رہنے، آزادیِ اظہارِ رائے اور منصفانہ ٹرائل کے بنیادی حقوق کی ضمانت حاصل ہے۔",
+          "reading": "Aain-e-Pakistan 1973 ke tehat har shehri ko bila tafreeq-e-rang-o-nasal zinda rehnay, aazaadi-e-izhaar-e-raaye aur munsifaana trial ke bunyaadi huqooq ki zamaanat haasil hai. [aːʔiːn-eː-paːkɪst̪aːn ʊnːiːs sɔː t̪ɪhət̪ːər keː t̪əɦət̪ hər ʃɛɦriː koː bɪlaː t̪əfriːq-eː-rəŋɡ-oː-nəsəl zɪnd̪aː rɛɦneː aːzaːd̪iː-eː-ɪzɦaːr-eː-raːʔeː ɔːr mʊnsɪfaːnaː ʈraːʔɪl keː bʊnjaːd̪iː hʊquːq kiː zəmaːnət̪ haːsɪl hɛː] (ah-EEN-ay-pah-kees-TAHN oonees sow tee-HUHT-tuhr kay tuh-HUHT HUHR shyh-REE koh bee-LAH tuhf-REEQ-ay-ruhng-oh-nuh-SUHL zeen-DAH ryh-NAY, ah-zah-DEE-ay-eez-HAHR-ay-RAH-ay owr moon-see-FAH-nah trial kay boon-yah-DEE hoo-QOOQ kee zuh-mah-NUHT hah-SEEL HY)",
+          "translation": "Under the Constitution of Pakistan 1973 [constitutional term: Aain-e-Pakistan], every citizen is guaranteed fundamental rights to life, freedom of expression, and fair trial without discrimination of race or color."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 27-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اٹھارویں آئینی ترمیم نے صوبوں کو وسیع مالیاتی اور انتظامی خود مختاری دے کر وفاقی پارلیمانی جمہوریت کو نئی قوت بخشی۔",
+          "reading": "Athaarween aaini tarmeem ne soobon ko wasee' maaliyaati aur intezaami khud-mukhtaari day kar wifaaqi parliamentary jamhooriyat ko nayi quwwat bakhshi. [əʈʰaːrʋĩː aːʔiːniː t̪ərmiːm neː suːbõː koː ʋəsiːʔ maːlɪjaːt̪iː ɔːr ɪnt̪ɪzaːmiː xʊd̪-mʊxt̪aːriː d̪eː kər ʋɪfaːqiː paːrlɪmɛnʈriː dʒəmhuːrɪjət̪ koː nəjiː qʊʋːət̪ bəxʃiː] (uh-thahr-VEEN ah-ee-NEE tuhr-MEEM nay soo-BOHN koh wuh-SEE mah-lee-yah-TEE owr een-tee-zah-MEE khohd-mookh-tah-REE DAY kuhr vee-fah-QEE parliamentary jum-hoo-ree-YUHT koh nuh-YEE qoov-WUHT buhkh-SHEE)",
+          "translation": "The 18th Constitutional Amendment imparted new strength to the federal parliamentary democracy by devolving extensive financial and administrative autonomy to the provinces."
+        },
+        {
+          "target": "آئین ملک کا سپریم لا یعنی اعلیٰ ترین قانون ہے جس کی پاسداری ریاست کے ہر ادارے اور شہری پر یکساں لازم ہے۔",
+          "reading": "Aain mulk ka supreme law ya'ni a'la-tareen qaanoon hai jis ki paasdaari riyaasat ke har idaaray aur shehri par yaksaan laazim hai. [aːʔiːn mʊlk kaː sʊpriːm lɔː jəʔniː aːʔlaː-t̪əriːn qaːnuːn hɛː dʒɪs kiː paːsdaːriː rɪjaːsət̪ keː hər ɪd̪aːreː ɔːr ʃɛɦriː pər jəksaː̃ laːzɪm hɛː] (ah-EEN MOOLK kah supreme law yuh-NEE AHH-lah-tuh-REEN qah-NOON HY JEES kee pahs-dah-REE ree-yah-SUHT kay HUHR ee-dah-RAY owr shyh-REE puhr yuhk-SAHN lah-ZEEM HY)",
+          "translation": "The Constitution is the supreme law of the land, adherence to which is equally incumbent upon every institution of the state and every citizen."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "دستورِ پاکستان: 1973ء کا متفقہ آئین + بنیادی حقوق کی ضمانت + وفاقی پارلیمانی ڈھانچہ + صوبائی خود مختاری!"
+      ],
+      "culturalNotes": [
+        "پاکستان کا 1973ء کا آئین ملک کی تمام سیاسی اور مذہبی جماعتوں کے متفقہ اتفاقِ رائے سے منظور ہونے والی تاریخی دستاویز ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"سمجھنا\":",
+          "prompt": "کسی ملک کے اعلیٰ ترین اور بنیادی قانونی ڈھانچے کو اردو میں کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («جاننا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سوچنا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («یاد رکھنا» کی خرابی)"
+            "دستور / آئین (Constitution - Supreme foundational legal document of the state)",
+            "صرف بلدیاتی اشتہار",
+            "صرف اخبار کا اداریہ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "ملک کے سپریم لا کو «دستور» یا «آئین» (Constitution) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"سمجھنا\":",
+          "prompt": "آئین کی رو سے ہر شہری کو حاصل ناقابلِ تنسیخ حقوق (جیسے آزادیِ رائے اور مساوات) کو کیا کہا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سوچنا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («یاد رکھنا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («جاننا» کا غیر درست استعمال)"
+            "بنیادی حقوق (Fundamental Rights - Inalienable constitutionally protected liberties)",
+            "صرف تجارتی مراعات",
+            "صرف پاسپورٹ کی فیس",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "دستور میں درج ناقابلِ تنسیخ حقوق کو «بنیادی حقوق» (Fundamental Rights) کہتے ہیں۔"
         }
       ]
     },
@@ -11199,17 +11208,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"سمجھنا\": Which sentence is completely correct?",
+          "prompt": "دستورِ پاکستان اور بنیادی حقوق (Constitution & Fundamental Rights) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («یاد رکھنا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («جاننا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سوچنا» سے متعلق)"
+            "آئینِ پاکستان 1973ء وفاقی پارلیمانی جمہوریہ کی بنیاد پر استوار ہے اور ہر شہری کو منصفانہ سماعت، آزادیِ رائے اور برابری کے بنیادی حقوق کی ضمانت دیتا ہے۔ (The Constitution of Pakistan 1973 is founded on a federal parliamentary republic and guarantees fundamental rights of fair trial, free speech, and equality to every citizen.)",
+            "آئین نے صبح ناشتہ کر کے بازار میں چائے پی تھی اور رویا تھا۔",
+            "بنیادی حقوق صرف امیر لوگوں کے لیے مخصوص ہوتے ہیں۔",
+            "دستور میں تبدیلی صرف خواب دیکھ کر کی جاتی ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«آئینِ پاکستان 1973ء وفاقی پارلیمانی جمہوریہ کی بنیاد پر استوار ہے اور ہر شہری کو منصفانہ سماعت، آزادیِ رائے اور برابری کے بنیادی حقوق کی ضمانت دیتا ہے۔» آئینی و قانونی فصاحت کا کامل جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u27-l2": {
@@ -11217,53 +11227,62 @@
     "subject": "urdu",
     "unit": 27,
     "lessonNumber": 2,
-    "title": "کلاسیکی اردو نثر اور داستان گوئی (Classical Urdu Prose) (Part 2)",
+    "title": "مجلسِ شوریٰ / پارلیمان، قانون سازی اور سینیٹ (Parliament, Legislation & Senate)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 27.2) with authentic precision.",
+    "objective": "مجلسِ شوریٰ (پارلیمان)، قومی اسمبلی، ایوانِ بالا (سینیٹ)، مسودۂ قانون (بل)، اور قانون سازی کے پارلیمانی اسلوب پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں پارلیمان اور قانون سازی کا نظام (Parliament & Legislative Process):\n\n1. **دو ایوانی پارلیمان (Bicameral Parliament / مجلسِ شوریٰ)**:\n   - «**قومی اسمبلی (National Assembly)**»: ایوانِ زیریں، عوامی ووٹوں سے منتخب ارکان؛\n   - «**سینیٹ (Senate)**»: ایوانِ بالا، تمام صوبوں کی برابر نمائندگی کا ضامن۔\n\n2. **قانون سازی کا باضابطہ طریقہ کار**:\n   - «**مسودۂ قانون (Bill)** کا ایوان میں پیش کیا جانا»؛\n   - «قائمہ کمیٹیوں میں تفصیلی جائزہ اور ترامیم»؛\n   - «دونوں ایوانوں سے منظوری کے بعد **صدرِ مملکت کی توثیق** سے ایکٹ (Act) بننا»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "مجلسِ شوریٰ کے دونوں ایوانوں یعنی قومی اسمبلی اور سینیٹ سے کثرتِ رائے سے منظور ہونے کے بعد بل صدر کے دستخط سے باضابطہ قانون بن جاتا ہے۔",
+          "reading": "Majlis-e-Shoora ke donon aiwaanon ya'ni Qawmi Assembly aur Senate se kasrat-e-raaye se manzoor honay ke baad bill saddar ke dastakhat se baa-zaabita qaanoon ban jaata hai. [mədʒlɪs-eː-ʃuːraː keː d̪oːnõː ɛːʋaːnõː jəʔniː qɔːmiː əsɛmbliː ɔːr seːnɪʈ seː kəsrət̪-eː-raːʔeː seː mənzuːr hoːneː keː baːʔd̪ bɪl səd̪ər keː d̪əst̪əxət̪ seː baː-zaːbɪt̪aː qaːnuːn bən dʒaːt̪aː hɛː] (muhj-LEES-ay-shoo-RAH kay DOH-nohn ay-wah-NOHN yuh-NEE QOW-mee assembly owr senate say kuhs-RUHT-ay-RAH-ay say muhn-ZOOR hoh-NAY kay BAHD bill suhd-DUHR kay duhs-tuh-KHUHT say bah-zah-bee-TAH qah-NOON buhn jah-TAH HY)",
+          "translation": "After being passed by a majority of votes in both houses of the Parliament [legislature: Majlis-e-Shoora], namely the National Assembly and Senate, a bill becomes an official Act of law upon the President's assent."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 27-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "سینیٹ تمام چھوٹے اور بڑے صوبوں کو مساوی نمائندگی فراہم کر کے وفاق کے مابین توازن اور ہم آہنگی برقرار رکھتا ہے۔",
+          "reading": "Senate tamaam chhotay aur baray soobon ko masaawi numaayindagi faraaham kar ke wifaaq ke maabain tawaazun aur ham-aahangi bar-qaraar rakhta hai. [seːnɪʈ t̪əmaːm tʃʰoːʈeː ɔːr bəɽeː suːbõː koː mʊsaːʋiː nʊmaːjɪnd̪əɡiː fəraːhəm kər keː ʋɪfaːq keː maːbɛːn t̪əʋaːzʊn ɔːr həm-aːɦəŋɡiː bər-qəraːr rəkʰt̪aː hɛː] (senate tuh-MAHM chhoh-TAY owr buh-RAY soo-BOHN koh moo-sah-VEE noo-mah-yeen-duh-GEE fuh-rah-HUHM kuhr kay vee-FAHQ kay mah-BYN tuh-wah-ZOON owr huhm-ah-huhn-GEE buhr-quh-RAHR ruhkh-TAH HY)",
+          "translation": "The Senate provides equal representation to all small and large provinces, maintaining equilibrium and harmony within the federation."
+        },
+        {
+          "target": "قائدِ حزبِ اختلاف اور حکومتی بینچوں کے درمیان پارلیمانی بحث قانون سازی میں شفافیت اور عوامی مفاد کو یقینی بناتی ہے۔",
+          "reading": "Qaa'id-e-hizb-e-ikhtilaaf aur hakoomati benches ke darmiyaan parliamentary behas qaanoon-saazi mein shaffaafiyat aur awaami mafaad ko yaqeeni banaati hai. [qaːʔɪd̪-eː-hɪzb-eː-ɪxt̪ɪlaːf ɔːr hʊkuːmət̪iː bɛntʃɪz keː d̪ərmɪjaːn paːrlɪmɛnʈriː bɛɦs qaːnuːn-saːziː mẽː ʃəfːaːfɪjət̪ ɔːr əʋaːmiː məfaːd̪ koː jəqiːniː bənaːt̪iː hɛː] (QAH-eed-ay-HEEZB-ay-eekh-tee-LAHF owr huh-koo-muh-TEE benches kay duhr-mee-YAHN parliamentary byhs qah-noon-sah-ZEE mayn shuhf-fah-fee-YUHT owr uh-wah-MEE muh-FAHD koh yuh-qee-NEE buh-nah-TEE HY)",
+          "translation": "Parliamentary debate between the Leader of the Opposition and treasury benches ensures transparency and public interest in the law-making process."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "پارلیمانی نظام: مجلسِ شوریٰ (قومی اسمبلی + سینیٹ) + مسودۂ قانون (بل) + پارلیمانی بحث + صدارتی توثیق!"
+      ],
+      "culturalNotes": [
+        "پاکستان کی پارلیمان اسلام آباد کے ریڈ زون میں واقع ہے جہاں قومی فیصلوں اور قانون سازی کے اہم اجلاس منعقد ہوتے ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"جاننا\":",
+          "prompt": "پاکستان کی پارلیمان کے ایوانِ بالا کو کیا کہا جاتا ہے جو تمام صوبوں کو مساوی نمائندگی دیتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («سوچنا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («یاد رکھنا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بولنا» کی خرابی)"
+            "سینیٹ / ایوانِ بالا (Senate - Upper house providing equal provincial representation)",
+            "میونسپل کمیٹی",
+            "صوبائی کونسل",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "وفاقی ایوانِ بالا کو «سینیٹ» (Senate) کہا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"جاننا\":",
+          "prompt": "قانون بننے سے قبل پارلیمان میں پیش کی جانے والی باضابطہ تجویز یا مسودے کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («یاد رکھنا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بولنا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سوچنا» کا غیر درست استعمال)"
+            "مسودۂ قانون / بل (Bill / Draft legislation presented before enactment into Act)",
+            "صرف اخباری خبر",
+            "صرف حلف نامہ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "قانون کے ابتدائی مسودے کو «مسودۂ قانون» یا «بل» (Bill) کہا جاتا ہے۔"
         }
       ]
     },
@@ -11271,17 +11290,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"جاننا\": Which sentence is completely correct?",
+          "prompt": "مجلسِ شوریٰ اور قانون سازی (Parliament & Legislation) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بولنا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سوچنا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («یاد رکھنا» سے متعلق)"
+            "قومی اسمبلی اور سینیٹ میں تفصیلی پارلیمانی بحث اور ترامیم کے بعد مسودۂ قانون کو کثرتِ رائے سے منظور کر کے صدارتی توثیق کے لیے بھیجا گیا۔ (After detailed parliamentary debate and amendments in the National Assembly and Senate, the bill was passed by majority and sent for presidential assent.)",
+            "پارلیمان نے بل کو سمندر میں پھینک کر گاڑی چلائی تھی۔",
+            "سینیٹ میں صوبوں کو نمائندگی دینا قانوناً جرم ہے۔",
+            "مسودۂ قانون صرف کاغذ کا جہاز بنانے کے لیے ہوتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«قومی اسمبلی اور سینیٹ میں تفصیلی پارلیمانی بحث اور ترامیم کے بعد مسودۂ قانون کو کثرتِ رائے سے منظور کر کے صدارتی توثیق کے لیے بھیجا گیا۔» پارلیمانی بیانیے کا مستند ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u27-l3": {
@@ -11289,53 +11309,62 @@
     "subject": "urdu",
     "unit": 27,
     "lessonNumber": 3,
-    "title": "کلاسیکی اردو نثر اور داستان گوئی (Classical Urdu Prose) (Part 3)",
+    "title": "عدالتی نظام، سپریم کورٹ، ہائی کورٹس اور رٹ پٹیشن (Judiciary, Supreme Court & Writs)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 27.3) with authentic precision.",
+    "objective": "عدالتِ عظمیٰ (سپریم کورٹ)، عدالتِ عالیہ (ہائی کورٹ)، چیف جسٹس، آئینی تشریح، رٹ پٹیشن، اور سوموٹو کے قانونی اسلوب پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں اعلیٰ عدلیہ اور آئینی اختیارات (Judiciary & Constitutional Powers):\n\n1. **اعلیٰ عدلیہ کا ڈھانچہ**:\n   - «**عدالتِ عظمیٰ / سپریم کورٹ آف پاکستان**»: آئین کا حتمی محافظ اور تشریح کار؛\n   - «**عدالتِ عالیہ / ہائی کورٹ**»: صوبائی سطح پر اعلیٰ ترین عدالت؛\n   - «**چیف جسٹس اور لارجر بینچ**»۔\n\n2. **آئینی رٹ اور سوموٹو اختیارات**:\n   - «آرٹیکل 199 کے تحت **رٹ پٹیشن (Writ Petition)**»: بنیادی حقوق کی بحالی؛\n   - «**از خود نوٹس (Suo Motu / سوموٹو)**»: عوامی مفادِ عامہ کے معاملات میں براہِ راست عدالتی مداخلت۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "سپریم کورٹ آف پاکستان آئین کی محافظ ہے اور اسے کسی بھی ایسے قانون کو کالعدم قرار دینے کا اختیار حاصل ہے جو بنیادی حقوق کے منافی ہو۔",
+          "reading": "Supreme Court of Pakistan aain ki muhaafiz hai aur usay kisi bhi aisay qaanoon ko kaal-adam qaraar dainay ka ikhtiyaar haasil hai jo bunyaadi huqooq ke munaafi ho. [sʊpriːm kɔːrʈ ɔːf paːkɪst̪aːn aːʔiːn kiː mʊhaːfɪz hɛː ɔːr ʊseː kɪsiː bʱiː ɛːseː qaːnuːn koː kaːl-əd̪əm qəraːr d̪eːneː kaː ɪxt̪ɪjaːr haːsɪl hɛː dʒoː bʊnjaːd̪iː hʊquːq keː mʊnaːfiː hoː] (supreme court of Pakistan ah-EEN kee moo-HAH-feez HY owr oo-SAY kee-SEE bhee AY-say qah-NOON koh KAHL-uh-duhm quh-RAHR day-NAY kah eekh-tee-YAHR hah-SEEL HY joh boon-yah-DEE hoo-QOOQ kay moo-NAH-fee hoh)",
+          "translation": "The Supreme Court of Pakistan is the guardian of the Constitution [judicial review: aain ki muhaafiz] and possesses the power to strike down as null and void [kaal-adam] any law that is repugnant to fundamental rights."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 27-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "شہری بنیادی حقوق کی پامالی کے خلاف ہائی کورٹ میں رٹ پٹیشن دائر کر کے فوری اور مؤثر آئینی داد رسی حاصل کر سکتے ہیں۔",
+          "reading": "Shehri bunyaadi huqooq ki paamaali ke khilaaf High Court mein writ petition daa'ir kar ke fowri aur mu'assir aaini daad-rasi haasil kar saktay hain. [ʃɛɦriː bʊnjaːd̪iː hʊquːq kiː paːmaːliː keː xɪlaːf haːʔiː kɔːrʈ mẽː rɪʈ pɪʈiːʃən d̪aːʔɪr kər keː fɔːriː ɔːr mʊʔəsːɪr aːʔiːniː d̪aːd̪-rəsiː haːsɪl kər səkt̪eː hɛ̃ː] (shyh-REE boon-yah-DEE hoo-QOOQ kee pah-mah-LEE kay khee-LAHF high court mayn writ petition DAH-eer kuhr kay FOW-ree owr moo-uhs-SEER ah-ee-NEE dahd-ruh-SEE hah-SEEL kuhr suhk-TAY HYN)",
+          "translation": "Citizens can obtain immediate and effective constitutional redressal [daad-rasi] by filing a writ petition in the High Court against violations of fundamental rights."
+        },
+        {
+          "target": "چیف جسٹس کی سربراہی میں قائم لارجر بینچ نے آئینی تنازعے کی سماعت کر کے تاریخی فیصلہ سنایا۔",
+          "reading": "Chief Justice ki sar-baraahi mein qaa'im larger bench ne aaini tanaaza'ay ki samaa'at kar ke taareekhi faisla sunaya. [tʃiːf dʒəst̪ɪs kiː sər-bəraːhiː mẽː qaːʔɪm laːrdʒər bɛntʃ neː aːʔiːniː t̪ənaːzəʔeː kiː səmaːʔət̪ kər keː t̪aːriːxiː fɛːslaː sʊnaːjaː] (chief justice kee suhr-buh-RAH-hee mayn QAH-eem larger bench nay ah-ee-NEE tuh-nah-zuh-AY kee suh-MAH-uht kuhr kay tah-ree-KHEE FYS-lah soo-NAH-yah)",
+          "translation": "The larger bench established under the leadership of the Chief Justice conducted the hearing of the constitutional dispute and pronounced a historic verdict."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "اعلیٰ عدلیہ: عدالتِ عظمیٰ (سپریم کورٹ) + عدالتِ عالیہ (ہائی کورٹ) + رٹ پٹیشن + سوموٹو نوٹس!"
+      ],
+      "culturalNotes": [
+        "وکلاء تحریک اور عدلیہ کی آزادی کی جدوجہد پاکستان کی تاریخ میں قانون کی حکمرانی اور جمہوریت کا سنگِ میل سمجھی جاتی ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"سوچنا\":",
+          "prompt": "بنیادی حقوق کے نفاذ اور انتظامی اختیارات کے ناجائز استعمال کے خلاف ہائی کورٹ میں دائر کی جانے والی آئینی درخواست کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («یاد رکھنا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بولنا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پڑھنا» کی خرابی)"
+            "رٹ پٹیشن / آئینی درخواست (Writ Petition - Constitutional petition filed under Article 199)",
+            "صرف اخباری اشتہار",
+            "صرف رسید",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "ہائی کورٹ میں آئینی داد رسی کے لیے «رٹ پٹیشن» (Writ Petition) دائر کی جاتی ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"سوچنا\":",
+          "prompt": "پاکستان میں آئین کے تحفظ اور اس کی حتمی تشریح کا اختیار کس عدالت کے پاس ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بولنا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پڑھنا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («یاد رکھنا» کا غیر درست استعمال)"
+            "عدالتِ عظمیٰ / سپریم کورٹ (Supreme Court of Pakistan - Apex court and ultimate constitutional interpreter)",
+            "مجسٹریٹ عدالت",
+            "ٹریفک عدالت",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "آئین کی حتمی محافظ «عدالتِ عظمیٰ» (Supreme Court) ہے۔"
         }
       ]
     },
@@ -11343,17 +11372,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"سوچنا\": Which sentence is completely correct?",
+          "prompt": "عدالتی نظام اور آئینی رٹ (Judiciary & Supreme Court) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پڑھنا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («یاد رکھنا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بولنا» سے متعلق)"
+            "سپریم کورٹ نے رٹ پٹیشن پر سماعت کرتے ہوئے بنیادی حقوق کے خلاف بنائے گئے قانون کو کالعدم قرار دے کر عدلیہ کی آزادی اور قانون کی بالادستی قائم رکھی۔ (Hearing the writ petition, the Supreme Court struck down the law violating fundamental rights, upholding judicial independence and rule of law.)",
+            "سپریم کورٹ نے رٹ پٹیشن کو تیل میں تل کر گاڑی چلائی تھی۔",
+            "عدالت میں رٹ پٹیشن دائر کرنا قانوناً ممنوع ہے۔",
+            "ہائی کورٹ کو مقدمات سننے کا کوئی اختیار نہیں ہوتا۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«سپریم کورٹ نے رٹ پٹیشن پر سماعت کرتے ہوئے بنیادی حقوق کے خلاف بنائے گئے قانون کو کالعدم قرار دے کر عدلیہ کی آزادی اور قانون کی بالادستی قائم رکھی۔» اعلیٰ عدالتی اسلوب کا مستند نمونہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u27-l4": {
@@ -11361,53 +11391,62 @@
     "subject": "urdu",
     "unit": 27,
     "lessonNumber": 4,
-    "title": "کلاسیکی اردو نثر اور داستان گوئی (Classical Urdu Prose) (Part 4)",
+    "title": "ضابطۂ فوجداری، وکالت، شہادت اور استغاثہ (Criminal Procedure, Evidence & Prosecution)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 27.4) with authentic precision.",
+    "objective": "ضابطۂ فوجداری، استغاثہ (Prosecution)، وکیلِ صفائی (Defense Counsel)، قانونِ شہادت، جرح، اور ضمانت کے مستند عدالتی بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں فوجداری قانون اور عدالتی کارروائی (Criminal Procedure & Jurisprudence):\n\n1. **فوجداری مقدمات کا طریقہ کار**:\n   - «ابتدائی اطلاعی رپورٹ (**ایف آئی آر / FIR** )»؛\n   - «**استغاثہ (Prosecution)**»: ریاست کی جانب سے جرم کا الزام ثابت کرنا؛\n   - «**وکیلِ صفائی (Defense Counsel)**»: ملزم کا آئینی و قانونی دفاع؛\n   - «**ضمانت (Bail)**»: قبل از گرفتاری اور بعد از گرفتاری ضمانت۔\n\n2. **قانونِ شہادت اور فیصلہ سازی**:\n   - «گواہوں کے بیانات اور **جرح (Cross-examination)**»؛\n   - «شک کا فائدہ (Benefit of Doubt) اور **باعزت بریت (Acquittal)**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "فوجداری مقدمات میں قانون کا سنہری اصول ہے کہ جب تک جرم بلا شبہ ثابت نہ ہو جائے، ہر ملزم قانون کی نظر میں بے گناہ تصور کیا جاتا ہے۔",
+          "reading": "Fawjdaari muqadmaat mein qaanoon ka sunehri usool hai keh jab tak jurm bila shubha saabit na ho jaaye, har mulzim qaanoon ki nazar mein bay-gunaah tasawwur kiya jaata hai. [fɔːdʒd̪aːriː mʊqəd̪maːt̪ mẽː qaːnuːn kaː sʊnɛɦriː ʊsuːl hɛː kɛh dʒəb t̪ək dʒʊrm bɪlaː ʃʊbhaː saːbɪt̪ nə hoː dʒaːʔeː hər mʊlzɪm qaːnuːn kiː nəzər mẽː beː-ɡʊnaːh t̪əsəʋːʊr kɪjaː dʒaːt̪aː hɛː] (fowj-dah-REE moo-quhd-MAHT mayn qah-NOON kah soo-nyh-REE oo-SOOL HY KYH JUHB tuhk JOORM bee-LAH SHOOB-hah sah-BEET nuh hoh JAH-ay, HUHR mool-ZEEM qah-NOON kee nuh-ZUHR mayn bay-goo-NAHH tuh-suhv-VOOR kee-YAH jah-TAH HY)",
+          "translation": "In criminal trials, it is a golden principle of law that until the crime is proven beyond reasonable doubt, every accused is presumed innocent in the eye of the law [presumption of innocence]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 27-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "وکیلِ صفائی نے چشم دید گواہوں کے بیانات پر بھرپور جرح کر کے استغاثہ کے مقدمے میں تضادات کو عدالت کے سامنے ثابت کیا۔",
+          "reading": "Wakeel-e-safaa'i ne chashm-deed gawaahon ke bayaanaat par bharpoor jarah kar ke istighaasa ke muqaddamay mein tazaadaat ko adaalat ke saamnay saabit kiya. [ʋəkiːl-eː-səfaːʔiː neː tʃəʃm-d̪iːd̪ ɡəʋaːhõː keː bəjaːnaːt̪ pər bʱərpuːr dʒərəh kər keː ɪst̪ɪɣaːsaː keː mʊqəd̪ːəmeː mẽː t̪əzaːd̪aːt̪ koː əd̪aːlət̪ keː saːmneː saːbɪt̪ kɪjaː] (wuh-KEEL-ay-suh-fah-EE nay chuhshm-DEED guh-wah-HOHN kay buh-yah-NAHT puhr bhuhr-POOR JUH-ruh kuhr kay ees-tee-ghah-SAH kay moo-quhd-duh-MAY mayn tuh-zah-DAHT koh uh-dah-LUHT kay sahm-NAY sah-BEET kee-YAH)",
+          "translation": "The defense counsel conducted extensive cross-examination [courtroom term: jarah] on the testimonies of eyewitnesses and established contradictions in the prosecution's case before the court."
+        },
+        {
+          "target": "سیشن عدالت نے ٹھوس ثبوت اور معتبر شہادت نہ ہونے کے باعث ناکافی شواہد کی بنا پر ملزم کو باعزت بری کرنے کا حکم جاری کیا۔",
+          "reading": "Sessions adaalat ne thos saboot aur mo'tabar shahaadat na honay ke baa'is naa-kaafi shawaahid ki bina par mulzim ko baa-izzat barri karnay ka hukm jaari kiya. [sɛʃənz əd̪aːlət̪ neː t̪ʰoːs səbuːt̪ ɔːr mʊʔt̪əbər ʃəhaːd̪ət̪ nə hoːneː keː baːʔɪs naː-kaːfiː ʃəʋaːhɪd̪ kiː bɪnaː pər mʊlzɪm koː baː-ɪzːət̪ bərːiː kərneː kaː hʊkm dʒaːriː kɪjaː] (sessions uh-dah-LUHT nay THOHS suh-BOOT owr mooh-tuh-BUHR shuh-hah-DUHT nuh hoh-NAY kay BAH-ees nah-kah-FEE shuh-wah-HEED kee bee-NAH puhr mool-ZEEM koh bah-eez-ZUHT buhr-REE kuhr-NAY kah HOOKM jah-REE kee-YAH)",
+          "translation": "The Sessions Court issued the order to honorably acquit [legal term: baa-izzat barri karna] the accused on grounds of insufficient evidence in the absence of concrete proof and credible testimony."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فوجداری مقدمات: ایف آئی آر + استغاثہ بمقابلہ وکیلِ صفائی + گواہوں پر جرح + باعزت بریت!"
+      ],
+      "culturalNotes": [
+        "اردو قانونی اصطلاحات کا بڑا حصہ عربی اور فارسی کی کلاسیکی فقہ اور عدالتی روایات سے اخذ کیا گیا ہے جو عدالتی فیصلوں کو بے پناہ وقار بخشتی ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"یاد رکھنا\":",
+          "prompt": "عدالت میں گواہ کی سچائی پرکھنے کے لیے مخالف فریق کے وکیل کی سوال و جواب کی کارروائی کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («بولنا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پڑھنا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («لکھنا» کی خرابی)"
+            "جرح (Jarah - Cross-examination of witnesses in court)",
+            "صرف حلف نامہ",
+            "صرف وکالت نامہ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "گواہوں سے تفصیلی سوالات کرنے کو عدالتی زبان میں «جرح» (Cross-examination) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"یاد رکھنا\":",
+          "prompt": "عدالت کی جانب سے کسی ملزم پر جرم ثابت نہ ہونے پر اسے تمام الزامات سے آزاد قرار دینے کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پڑھنا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («لکھنا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بولنا» کا غیر درست استعمال)"
+            "باعزت بریت / بریت (Acquittal - Legal clearance and release of accused due to lack of proof)",
+            "سزا کا حکم",
+            "جرمانہ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "الزامات سے بری کیے جانے کو «بریت» (Acquittal) کہا جاتا ہے۔"
         }
       ]
     },
@@ -11415,17 +11454,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"یاد رکھنا\": Which sentence is completely correct?",
+          "prompt": "ضابطۂ فوجداری اور عدالتی کارروائی (Criminal Procedure & Law) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («لکھنا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بولنا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پڑھنا» سے متعلق)"
+            "وکیلِ صفائی نے استغاثہ کے گواہوں پر مؤثر جرح کر کے شکوک و شبہات کو اجاگر کیا جس کی بنیاد پر سیشن عدالت نے ملزم کو باعزت بری کر دیا۔ (The defense counsel conducted effective cross-examination on prosecution witnesses highlighting doubts, based on which the Sessions Court honorably acquitted the accused.)",
+            "ملزم نے وکیل کو پانی میں ڈبو کر گاڑی چلائی تھی اور رویا تھا۔",
+            "جرح صرف عدالت کے کمرے کا دروازہ بند کرنے کو کہتے ہیں۔",
+            "فوجداری مقدمے میں گواہ پیش کرنا قانوناً منع ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«وکیلِ صفائی نے استغاثہ کے گواہوں پر مؤثر جرح کر کے شکوک و شبہات کو اجاگر کیا جس کی بنیاد پر سیشن عدالت نے ملزم کو باعزت بری کر دیا۔» فوجداری عدالتی اسلوب کا مکمل ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u27-l5": {
@@ -11433,53 +11473,62 @@
     "subject": "urdu",
     "unit": 27,
     "lessonNumber": 5,
-    "title": "کلاسیکی اردو نثر اور داستان گوئی (Classical Urdu Prose) (Part 5)",
+    "title": "آئین، پارلیمان اور عدالتی نظام کا جامع سمیکن (Constitutional & Legal Grand Synthesis)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 27.5) with authentic precision.",
+    "objective": "دستورِ پاکستان، پارلیمانی قانون سازی، اعلیٰ عدلیہ، اور ضابطۂ قانون کو ایک باوقار، پختہ اور مربوط قانونی شاہکار میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "آئین، پارلیمان اور عدالتی نظام کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **ریاستی و قانونی ستونوں کا جامع احاطہ**:\n   - **دستورِ پاکستان**: «1973ء کا وفاقی آئین، بنیادی انسانی حقوق اور قانون کی بالادستی»؛\n   - **مجلسِ شوریٰ و قانون سازی**: «قومی اسمبلی، سینیٹ اور بل کی باضابطہ منظوری کا پارلیمانی نظام»؛\n   - **اعلیٰ عدلیہ**: «سپریم کورٹ کا آئینی کردار، ہائی کورٹس کی رٹ پٹیشن اور سوموٹو»؛\n   - **فوجداری انصاف**: «استغاثہ، وکیلِ صفائی کی جرح، قانونِ شہادت اور منصفانہ بریت»۔\n\n2. **جمہوری وقار اور قانونی فصاحت**:\n   - یہ زبان اردو کے قانونی فیصلوں، پارلیمانی تقاریر اور آئینی مسودات کا معراج ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ایک خود مختار جمہوری ریاست میں آئین کی بالادستی، پارلیمان کی آزادانہ قانون سازی اور عدلیہ کے غیر جانبدارانہ فیصلوں کا باہمی توازن ہی شہریوں کے حقوق اور قانون کی حکمرانی کا ضامن ہے۔",
+          "reading": "Aik khud-mukhtaar jamhoori riyaasat mein aain ki baala-dasti, parliament ki aazaadaana qaanoon-saazi aur adliya ke ghair-jaanib-daaraana faislon ka baahami tawaazun hi shehrion ke huqooq aur qaanoon ki hukmraani ka zaamin hai. [eːk xʊd̪-mʊxt̪aːr dʒəmhuːriː rɪjaːsət̪ mẽː aːʔiːn kiː baːlaː-d̪əst̪iː paːrlɪmɛnʈ kiː aːzaːd̪aːnaː qaːnuːn-saːziː ɔːr əd̪lɪjaː keː ɣɛːr-dʒaːnɪb-d̪aːraːnaː fɛːslõː kaː baːhəmiː t̪əʋaːzʊn hiː ʃɛɦrɪjõː keː hʊquːq ɔːr qaːnuːn kiː hʊkmraːniː kaː zaːmɪn hɛː] (AYK khohd-mookh-TAHR jum-hoo-REE ree-yah-SUHT mayn ah-EEN kee bah-lah-DUHS-tee, parliament kee ah-zah-DAH-nah qah-noon-sah-ZEE owr uhd-LEE-yah kay ghyr-jah-neeb-dah-RAH-nah fys-LOHN kah bah-huh-MEE tuh-wah-ZOON HEE shyh-ree-YOHN kay hoo-QOOQ owr qah-NOON kee hookm-rah-NEE kah ZAH-meen HY)",
+          "translation": "In an independent democratic state, the mutual equilibrium among supremacy of the Constitution [constitutional synthesis: aain ki baala-dasti], independent legislation by Parliament, and impartial verdicts of the Judiciary alone guarantees citizens' rights and the rule of law."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 27-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "عدالتِ عظمیٰ اور مجلسِ شوریٰ کے درمیان اختیارات کی دستوری تقسیم ریاست کے ستونوں کو مضبوط بناتی ہے اور آمریت کے ہر راستے کو مسدود کرتی ہے۔",
+          "reading": "Adaalat-e-uzma aur Majlis-e-Shoora ke darmiyaan ikhtiyaaraat ki dastoori taqseem riyaasat ke sutoonon ko mazboot banaati hai aur aamiriyat ke har raastay ko masdood karti hai. [əd̪aːlət̪-eː-ʊzmaː ɔːr mədʒlɪs-eː-ʃuːraː keː d̪ərmɪjaːn ɪxt̪ɪjaːraːt̪ kiː d̪əst̪uːriː t̪əqsiːm rɪjaːsət̪ keː sʊtuːnõː koː məzbuːt̪ bənaːt̪iː hɛː ɔːr aːmɪrɪjət̪ keː hər raːst̪eː koː məsduːd̪ kərt̪iː hɛː] (uh-dah-LUHT-ay-OOZ-mah owr muhj-LEES-ay-shoo-RAH kay duhr-mee-YAHN eekh-tee-yah-RAHT kee duhs-too-REE tuhq-SEEM ree-yah-SUHT kay soo-too-NOHN koh muhz-BOOT buh-nah-TEE HY owr ah-mee-ree-YUHT kay HUHR rahs-TAY koh muhs-DOOD kuhr-TEE HY)",
+          "translation": "The constitutional separation of powers between the Supreme Court and Parliament reinforces the pillars of the state and blocks every avenue to dictatorship."
+        },
+        {
+          "target": "قانون کی یکساں حکمرانی اور ہر شہری کے لیے بلا تاخیر سستے انصاف کی فراہمی ہی ایک مہذب اور فلاحی معاشرے کی اولین بنیاد ہے۔",
+          "reading": "Qaanoon ki yaksaan hukmraani aur har shehri ke liye bila taakheer sastay insaaf ki faraahami hi aik muhazzab aur falaahi ma'aashray ki awwaleen bunyaad hai. [qaːnuːn kiː jəksaː̃ hʊkmraːniː ɔːr hər ʃɛɦriː keː lɪjeː bɪlaː t̪aːxiːr səst̪eː ɪnsaːf kiː fəraːhəmiː hiː eːk mʊɦəzːəb ɔːr fəlaːhiː məʔaːʃreː kiː əʋːəliːn bʊnjaːd̪ hɛː] (qah-NOON kee yuhk-SAHN hookm-rah-NEE owr HUHR shyh-REE kay lee-AY bee-LAH tah-KHEER suhs-TAY een-SAHF kee fuh-rah-huh-MEE HEE AYK moo-huhz-ZUHB owr fuh-LAH-hee muh-ahsh-RAY kee uhw-wuh-LEEN boon-YAHD HY)",
+          "translation": "The uniform rule of law and the provision of swift, affordable justice to every citizen is the foremost foundation of a civilized welfare society."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع آئینی سمیکن: دستورِ پاکستان (بنیادی حقوق) + مجلسِ شوریٰ (قانون سازی) + سپریم کورٹ (آئینی رٹ) + قانون کی یکساں حکمرانی!"
+      ],
+      "culturalNotes": [
+        "اردو زبان میں آئینی و قانونی دستاویزات کا نفاذ اور عدالتی کارروائی قومی زبان کے سرکاری و قانونی کردار کو مستحکم بناتی ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"بولنا\":",
+          "prompt": "آئین، پارلیمان اور عدالتی نظام کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («پڑھنا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («لکھنا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سننا» کی خرابی)"
+            "آئین کی بالادستی، پارلیمانی قانون سازی، عدلیہ کی آزادی اور قانون کی یکساں حکمرانی کا مربوط مطالعہ (Masterful synthesis of constitutional supremacy, parliamentary legislation, judicial independence, and rule of law)",
+            "ہم نے پارلیمان کے باہر چائے پی تھی اور رویا تھا (بے ربط الفاظ)",
+            "وہ صرف قانون کی کتابیں گنتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«آئین کی بالادستی، پارلیمانی قانون سازی، عدلیہ کی آزادی اور قانون کی یکساں حکمرانی کا مربوط مطالعہ» قانونی و دستوری نظام کا کامل سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"بولنا\":",
+          "prompt": "آئینی بالادستی اور آزاد عدالتی نظام کا جامع سمیکن معاشرے میں کیا قائم کرتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («لکھنا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سننا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («پڑھنا» کا غیر درست استعمال)"
+            "بنیادی حقوق کا مکمل تحفظ، انصاف کی بلا تفریق فراہمی اور جمہوری استحکام (Complete protection of fundamental rights, impartial justice, and democratic stability)",
+            "صرف کاغذی فائلیں تیار کرنا (بے فائدہ مشق)",
+            "صرف عدالت کی عمارت دیکھنا (محدود دائرہ)",
+            "قانون توڑنے والوں کی حمایت کرنا (تباہ کن)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ بنیادی حقوق کا تحفظ، بلا تفریق انصاف اور جمہوری استحکام قائم کرتا ہے۔"
         }
       ]
     },
@@ -11487,17 +11536,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"بولنا\": Which sentence is completely correct?",
+          "prompt": "آئین، پارلیمان اور عدالتی نظام کے جامع سمیکن (Constitutional & Legal Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سننا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («پڑھنا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («لکھنا» سے متعلق)"
+            "دستورِ پاکستان کی بالادستی، پارلیمان کی آزادانہ قانون سازی اور اعلیٰ عدلیہ کے غیر جانبدارانہ فیصلوں کا ہم آہنگ توازن ہی ملک میں بنیادی حقوق اور قانون کی حکمرانی کو یقینی بناتا ہے۔ (The supremacy of the Constitution, independent parliamentary legislation, and impartial judicial verdicts ensure fundamental rights and rule of law.)",
+            "آئین نے سینیٹ کو گاڑی پر بٹھا کر رویا تھا اور چائے پی تھی۔",
+            "جامع سمیکن صرف پولیس اسٹیشن کے رجسٹر کو کہتے ہیں۔",
+            "آئین اور قانون کا انسانی زندگی سے کوئی تعلق نہیں ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«دستورِ پاکستان کی بالادستی، پارلیمان کی آزادانہ قانون سازی اور اعلیٰ عدلیہ کے غیر جانبدارانہ فیصلوں کا ہم آہنگ توازن ہی ملک میں بنیادی حقوق اور قانون کی حکمرانی کو یقینی بناتا ہے۔» قانونی و دستوری سمیکن کا شاہکار ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u28-l1": {
