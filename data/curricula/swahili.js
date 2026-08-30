@@ -7455,53 +7455,62 @@
     "subject": "swahili",
     "unit": 18,
     "lessonNumber": 1,
-    "title": "Kauli ya Kutendea (-ia/-ea) (Applicative Verbs) (Part 1)",
+    "title": "Kauli ya Kutendea: Kanuni ya Upatanisho wa Irabu kwa Mashina ya Konsonanti (-ia / -ea)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.1) with authentic precision.",
+    "objective": "Kuelewa dhana ya Kauli ya Kutendea (Applicative / Prepositional Voice) na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti: a, i, u -> -ia na e, o -> -ea.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kauli ya Kutendea katika Kiswahili (The Applicative / Prepositional Extension):\n\nKauli ya kutendea huongeza maana ya kufanya tendo **kwa ajili ya mtu** (*for / on behalf of*), **kwa kutumia kifaa** (*with / by means of*), au **kuelekea mahali** (*at / towards*):\n\n1. **Kanuni ya Upatanisho wa Irabu (Vowel Harmony for Consonant Stems)**:\n   - Ikiwa irabu ya mwisho ya shina kabla ya konsonanti ni **a, i, u**, shina hupokea **-ia**:\n     - *pika* (cook) -> **pikia** (cook for / with / at)\n     - *andika* (write) -> **andikia** (write to / for)\n     - *fanya* (do / make) -> **fanyia** (do for / at)\n     - *lima* (cultivate) -> **limia** (cultivate for / with)\n     - *vunja* (break) -> **vunjia** (break for / on)\n     - *funga* (lock / tie) -> **fungia** (lock in / tie for)\n     - *linda* (protect) -> **lindia** (protect for).\n\n   - Ikiwa irabu ya mwisho ya shina ni **e, o**, shina hupokea **-ea**:\n     - *soma* (read) -> **somea** (read to / for)\n     - *tenda* (act / treat) -> **tendea** (treat / do good or bad to)\n     - *shona* (sew) -> **shonea** (sew for)\n     - *choma* (roast / burn) -> **chomea** (roast for / at)\n     - *leta* (bring) -> **letea** (bring to / for)\n     - *osha* (wash) -> **oshea** (wash for / with).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 18."
+          "target": "Mama anampikia mwanaye chakula kitamu jikoni kila jioni.",
+          "reading": "Ma-ma a-na-mpi-ki-a mwa-na-ye cha-ku-la ki-ta-mu ji-ko-ni ki-la ji-o-ni. [ˈmɑmɑ ɑnɑmpiˈkiɑ mwɑˈnɑjɛ tʃɑˈkulɑ kiˈtɑmu ʤiˈkɔni ˈkilɑ ʤiˈɔni] (MAH-mah ah-nah-mpee-KEE-ah mwah-NAH-yay chah-KOO-lah kee-TAH-moo jee-KOH-nee KEE-lah jee-OH-nee)",
+          "translation": "Mother is cooking [anampikia: pika -> pikia] delicious food for her child in the kitchen every evening."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 18-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mwalimu anawasomea wanafunzi hadithi ya kusisimua darasani.",
+          "reading": "Mwa-li-mu a-na-wa-so-me-a wa-na-fu-nzi ha-di-thi ya ku-si-si-mu-a da-ra-sa-ni. [mwɑˈlimu ɑnɑwɑsɔˈmɛɑ wɑnɑˈfunzi hɑˈdiθi jɑ kusisiˈmuɑ dɑrɑˈsɑni] (mwah-LEE-moo ah-nah-wah-soh-MAY-ah wah-nah-FOON-zee hah-DEE-thee yah koo-see-see-MOO-ah dah-rah-SAH-nee)",
+          "translation": "The teacher is reading [anawasomea: soma -> somea] an exciting story to the students in the classroom."
+        },
+        {
+          "target": "Fundi stadi ananishonea shati zuri kwa kutumia cherehani yake mpya.",
+          "reading": "Fu-ndi sta-di a-na-ni-sho-ne-a sha-ti zu-ri kwa ku-tu-mia che-re-ha-ni ya-ke mpy-a. [ˈfundi ˈstɑdi ɑnɑniʃɔˈnɛɑ ˈʃɑti ˈzuri kwɑ kutuˈmiɑ tʃɛrɛˈhɑni ˈjɑkɛ ˈmpjɑ] (FOON-dee STAH-dee ah-nah-nee-shoh-NAY-ah SHAH-tee ZOO-ree kwah koo-too-MEE-ah chay-ray-HAH-nee YAH-kay M-PYAH)",
+          "translation": "The skilled tailor is sewing [ananishonea: shona -> shonea] a nice shirt for me using his new sewing machine."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vowel Harmony ya Kutendea: a, i, u -> -ia (pika -> pikia, lima -> limia); e, o -> -ea (soma -> somea, shona -> shonea)!"
+      ],
+      "culturalNotes": [
+        "Kauli ya kutendea hutumika sana katika jamii za Kiswahili kuonyesha ukarimu na upendo wa kutenda mambo kwa niaba ya wengine."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Homa\":",
+          "prompt": "Kauli ya kutendea ya kitenzi \"leta\" (bring) inayofuata kanuni ya irabu \"e\" ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Maumivu ya kichwa»",
-            "Mpangilio usio sahihi wa viambishi katika «Macho»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mikono»"
+            "letea (Bring to/for - Correct applicative form with '-ea')",
+            "letia (Kosa la kutumia '-ia' baada ya irabu 'e')",
+            "leteshwa (Hii ni kauli ya kutendesha/kutendwa)",
+            "letana (Hii ni kauli ya kutendana)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «leta» kina irabu «e», hivyo huchukua «-ea» kupata «letea» (bring to/for)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Homa\":",
+          "prompt": "Sentensi ipi inatumia kauli ya kutendea ya kitenzi \"andika\" kwa usahihi kwa ajili ya mtu?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Macho»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mikono»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Maumivu ya kichwa»"
+            "Ali alimwandikia rafiki yake barua ya pongezi. (Ali wrote a congratulatory letter to/for his friend - Correct applicative 'alimwandikia')",
+            "Ali alimwandika rafiki yake barua (Kosa la kutotumia kauli ya kutendea)",
+            "Ali alimwandekea rafiki yake barua (Kosa la upatanisho wa irabu)",
+            "Ali aliandikia rafiki bila upatanisho wa mtendewa"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kitenzi «andika» huwa «andikia», na kinapotumika kwa mtendewa (rafiki) huchukua kiambishi kiwakilishi cha mtendewa: «alimwandikia»."
         }
       ]
     },
@@ -7509,17 +7518,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Homa\": Which sentence is completely correct?",
+          "prompt": "Chagua jozi zote zilizo sahihi za vitenzi vya konsonanti na vinyambuliko vyao vya kutendea:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mikono»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Maumivu ya kichwa»",
-            "Mpangilio usio sahihi wa viambishi katika «Macho»"
+            "pika -> pikia, andika -> andikia, lima -> limia, soma -> somea, shona -> shonea, leta -> letea, osha -> oshea.",
+            "pika -> pikea, andika -> andikea, lima -> limea.",
+            "soma -> somia, shona -> shonia, leta -> letia.",
+            "Mashina ya konsonanti hayafuati upatanisho wa irabu katika kauli ya kutendea."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«a, i, u» huchukua «-ia» (pikia, andikia, limia) na «e, o» huchukua «-ea» (somea, shonea, letea, oshea)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u18-l2": {
@@ -7527,53 +7537,62 @@
     "subject": "swahili",
     "unit": 18,
     "lessonNumber": 2,
-    "title": "Kauli ya Kutendea (-ia/-ea) (Applicative Verbs) (Part 2)",
+    "title": "Kauli ya Kutendea kwa Mashina ya Irabu Mbili (-lia / -lea)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.2) with authentic precision.",
+    "objective": "Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi 'l' (-lia / -lea).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kauli ya Kutendea kwa Mashina ya Irabu Mbili (-lia vs. -lea):\n\nMashina ya vitenzi yanapoishia na irabu mbili kabla ya herufi ya mwisho **-a**, herufi **l** huingizwa kati ya irabu kuzuia mgongano wa sauti za irabu tatu (Epenthetic 'l'):\n\n1. **Irabu a, i, u huchukua -lia**:\n   - *nunua* (buy) -> **nunulia** (buy for / at)\n   - *zaa* (bear fruit / give birth) -> **zalia** (bear for / give birth at)\n   - *chagua* (choose) -> **chagulia** (choose for)\n   - *fungua* (open / unlock) -> **fungulia** (open for / unlock for)\n   - *vaa* (wear / dress) -> **valia** (dress up in / wear for)\n   - *fua* (wash clothes) -> **fulia** (wash clothes for / with)\n   - *sikia* (hear) -> **sikilia** (hear for / hold onto).\n\n2. **Irabu e, o huchukua -lea**:\n   - *pokea* (receive) -> **pokelea** (receive for / on behalf of)\n   - *toa* (issue / give / remove) -> **tolea** (give to / issue for / publish for)\n   - *ondoa* (remove) -> **ondolea** (remove for / forgive / excuse)\n   - *kosea* (err) -> **koselea** (wrong / err against)\n   - *zoea* (get used to) -> **zoelea** (get used to for / adapt to)\n   - *tembea* (walk) -> **tembelea** (visit / walk to).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 18."
+          "target": "Baba alimnunulia binti yake vitabu vipya vya hadithi na kamusi ya Kiswahili.",
+          "reading": "Ba-ba a-li-mnu-nu-li-a bi-nti ya-ke vi-ta-bu vi-pya vya ha-di-thi na ka-mu-si ya Ki-swa-hi-li. [ˈbɑbɑ ɑlimnunuˈliɑ ˈbinti ˈjɑkɛ viˈtɑbu ˈvipjɑ vjɑ hɑˈdiθi nɑ kɑˈmusi jɑ kiswɑˈhili] (BAH-bah ah-leem-noo-noo-LEE-ah BEEN-tee YAH-kay vee-TAH-boo VEE-pyah vyah hah-DEE-thee nah kah-MOO-see yah kee-swah-HEE-lee)",
+          "translation": "Father bought [alimnunulia: nunua -> nunulia] new storybooks and a Swahili dictionary for his daughter."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 18-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mlinzi alimfungulia mgeni mlango mkuu wa kuingilia kwenye jumba hilo.",
+          "reading": "Mli-nzi a-li-mfu-ngu-li-a mge-ni mla-ngo mku-u wa ku-i-ngi-li-a kwe-nye ju-mba hi-lo. [ˈmlinzi ɑlimfuŋɡuˈliɑ mˈɡɛni ˈmlɑŋɡɔ ˈmkuː wɑ kuiŋɡiˈliɑ ˈkwɛɲɛ ˈʤumbɑ ˈhilɔ] (m-LEEN-zee ah-leem-foon-goo-LEE-ah m-GAY-nee m-LAHN-goh m-KOO-oo wah koo-een-gee-LEE-ah KWAY-nyay JOOM-bah HEE-loh)",
+          "translation": "The guard opened [alimfungulia: fungua -> fungulia] the main entrance door for the visitor into that mansion."
+        },
+        {
+          "target": "Mwenyeji mkarimu alituondolea wasiwasi wote na akatutolea msaada mkubwa.",
+          "reading": "Mwe-nye-ji mka-ri-mu a-li-tu-o-ndo-le-a wa-si-wa-si wo-te na a-ka-tu-to-le-a msa-a-da mku-bwa. [mwɛˈɲɛʤi mkɑˈrimu ɑlituɔndɔˈlɛɑ wɑsiˈwɑsi ˈwɔtɛ nɑ ɑkɑtutɔˈlɛɑ msɑˈɑdɑ mˈkubwɑ] (mway-NYAY-jee m-kah-REE-moo ah-lee-too-ohn-doh-LAY-ah wah-see-WAH-see WOH-tay nah ah-kah-too-toh-LAY-ah m-sah-AH-dah m-KOO-bwah)",
+          "translation": "The hospitable host relieved [alituondolea: ondoa -> ondolea] all our anxieties and offered [akatutolea: toa -> tolea] us great assistance."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Irabu Mbili za Kutendea: a, i, u -> -lia (nunua -> nunulia, fungua -> fungulia); e, o -> -lea (toa -> tolea, ondoa -> ondolea, tembea -> tembelea)!"
+      ],
+      "culturalNotes": [
+        "Kitenzi 'tembelea' (kutoka 'tembea' + -lea) ni kitenzi muhimu sana katika mila za Kiswahili za kudumisha ujirani mwema na udugu kwa kutembeleana."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Maumivu ya kichwa\":",
+          "prompt": "Kauli ya kutendea ya kitenzi \"nunua\" (buy) inayotumia herufi 'l' ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Macho»",
-            "Mpangilio usio sahihi wa viambishi katika «Mikono»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Moyo»"
+            "nunulia (Buy for - Correct double vowel applicative with '-lia')",
+            "nunulea (Kosa la upatanisho wa irabu ya 'u')",
+            "nunua (Hili ni umbo la msingi)",
+            "nunulisha (Hii ni kauli ya kutendesha)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «nunua» kina irabu «u», hivyo huchukua «-lia» kupata «nunulia» (buy for)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Maumivu ya kichwa\":",
+          "prompt": "Kitenzi \"toa\" (give / issue) kinapobadilishwa kuwa kauli ya kutendea (give to / issue for), neno sahihi huwa lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Mikono»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Moyo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Macho»"
+            "tolea (Give to / issue for - Correct applicative with '-lea' after 'o')",
+            "toliwa (Hii ni kauli ya kutendwa)",
+            "toea (Kosa la kuacha herufi 'l')",
+            "tolesha (Kauli ya kutendesha)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Shina «toa» lina irabu «o», hivyo kulingana na sheria ya upatanisho wa irabu huchukua «-lea» kupata «tolea»."
         }
       ]
     },
@@ -7581,17 +7600,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Maumivu ya kichwa\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi kabisa ya vitenzi vyenye irabu mbili vilivyonyambulishwa katika kauli ya kutendea:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Moyo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Macho»",
-            "Mpangilio usio sahihi wa viambishi katika «Mikono»"
+            "nunua -> nunulia, fungua -> fungulia, zaa -> zalia, vaa -> valia, toa -> tolea, ondoa -> ondolewa/ondolea, tembea -> tembelea.",
+            "nunua -> nunulea, fungua -> fungulea, zaa -> zalea.",
+            "toa -> tolia, ondoa -> ondolia, tembea -> tembelia.",
+            "Vitenzi vyenye irabu mbili havihitaji herufi 'l' katika kauli ya kutendea."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Irabu a/i/u huchukua -lia (nunulia, fungulia, zalia, valia) na irabu e/o huchukua -lea (tolea, ondolea, tembelea)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u18-l3": {
@@ -7599,53 +7619,62 @@
     "subject": "swahili",
     "unit": 18,
     "lessonNumber": 3,
-    "title": "Kauli ya Kutendea (-ia/-ea) (Applicative Verbs) (Part 3)",
+    "title": "Kauli ya Kutendea kwa Vitenzi vya Silabi Moja na Vitenzi vya Kigeni",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.3) with authentic precision.",
+    "objective": "Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja (kula -> lia, kunywa -> nywea, kuja -> jia, kufa -> fia) na vitenzi vya kigeni vya Kiarabu (-ia / -ea).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kauli ya Kutendea kwa Vitenzi vya Silabi Moja na Vitenzi vya Kigeni:\n\n1. **Vitenzi vya Silabi Moja (Monosyllabic Applicatives)**:\n   - Vitenzi hivi hupoteza kiambishi nafsi cha *ku-* kinapounganishwa na viambishi vya nyakati au viambishi ngeli, vikichukua *-ia* au *-ea*:\n     - *kula* (eat) -> **lia** (eat with / eat at / eat for) -> *kijiko cha ku**lia*** (spoon to eat with)\n     - *kunywa* (drink) -> **nywea** (drink from / with) -> *bilauri ya ku**nywea*** (glass to drink from)\n     - *kufa* (die) -> **fia** (die for / die at) -> *alifi**a** nchi yake* (he died for his country)\n     - *kuja* (come) -> **jia** (come to / come for) -> *alini**jia** nyumbani* (he came to me at home)\n     - *kupa* (give) -> **patia** / **pia** (provide to / give for).\n\n2. **Vitenzi vya Kigeni (Kiarabu)**:\n   - Vitenzi vinavyoishia na **-i, -u** huchukua **-ia**:\n     - *jibu* (answer) -> **jibia** (answer for / on behalf of)\n     - *rudi* (return) -> **rudia** (repeat / return to)\n     - *fikiri* (think) -> **fikiria** (think about / consider)\n     - *hesabu* (count) -> **hesabia** (count for / credit to)\n     - *shukuru* (thank) -> **shukuria** (thank for).\n   - Vitenzi vinavyoishia na **-e** huchukua **-ea**:\n     - *samehe* (forgive) -> **samehea** (forgive for / let off for).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 18."
+          "target": "Kijana alimjia mwalimu ili amfikirie katika maombi yake ya kujiunga na chuo.",
+          "reading": "Ki-ja-na a-li-mji-a mwa-li-mu i-li a-mfi-ki-ri-e kwe-nye ma-o-mbi ya-ke ya ku-ji-u-nga na cho-o. [kiˈʤɑnɑ ɑlimˈʤiɑ mwɑˈlimu ˈili ɑmfikiriˈɛ ˈkwɛɲɛ mɑˈɔmbi ˈjɑkɛ jɑ kuʤiˈuŋɡɑ nɑ ˈtʃɔː] (kee-JAH-nah ah-leem-JEE-ah mwah-LEE-moo EE-lee ahm-fee-kee-ree-AY KWAY-nyay mah-OHM-bee YAH-kay yah koo-jee-OON-gah nah CHOH-oh)",
+          "translation": "The youth came to [alimjia: kuja -> jia] the teacher so he would consider [amfikirie: fikiri -> fikiria] his application to join college."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 18-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Familia ilitumia vyombo safi: vijiko vya kulia chakula na glasi za kunywea maji.",
+          "reading": "Fa-mi-li-a i-li-tu-mia vyo-mbo sa-fi: vi-ji-ko vya ku-li-a cha-ku-la na gla-si za ku-nywe-a ma-ji. [fɑmiˈliɑ ilituˈmiɑ ˈvjɔmbɔ ˈsɑfi viˈʤikɔ vjɑ kuˈliɑ tʃɑˈkulɑ nɑ ˈɡlɑsi zɑ kuˈɲwɛɑ ˈmɑʤi] (fah-mee-LEE-ah ee-lee-too-MEE-ah VYOHM-boh SAH-fee: vee-JEE-koh vyah koo-LEE-ah chah-KOO-lah nah GLAH-see zah koo-NYWAY-ah MAH-jee)",
+          "translation": "The family used clean utensils: spoons to eat [vya kulia: kula -> lia] food with and glasses to drink [za kunywea: kunywa -> nywea] water from."
+        },
+        {
+          "target": "Wananchi walimrudia kiongozi wao ili awajibie maswali magumu kuhusu maendeleo.",
+          "reading": "Wa-na-nchi wa-li-mru-di-a ki-o-ngo-zi wa-o i-li a-wa-ji-bi-e ma-swa-li ma-gu-mu ku-hu-su ma-e-nde-le-o. [wɑnɑˈntʃi wɑlimruˈdiɑ kiɔˈŋɡɔzi ˈwɑɔ ˈili ɑwɑʤiˈbiɛ mɑswɑˈli mɑˈɡumu kuˈhusu mɑɛndɛˈlɛɔ] (wah-nahn-CHEE wah-leem-roo-DEE-ah kee-ohn-GOH-zee WAH-oh EE-lee ah-wah-jee-bee-AY mah-SWAH-lee mah-GOO-moo koo-HOO-soo mah-ayn-day-LAY-oh)",
+          "translation": "Citizens went back to [walimrudia: rudi -> rudia] their leader so he would answer [awajibie: jibu -> jibia] difficult questions on their behalf regarding development."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Silabi Moja & Kigeni: kula -> lia (vya kulia); kunywa -> nywea (vya kunywea); kuja -> jia; jibu -> jibia; rudi -> rudia; samehe -> samehea!"
+      ],
+      "culturalNotes": [
+        "Usemi 'Kufia nchi' (kutoka 'kufa' + -ia) unamaanisha uzalendo uliotukuka wa kujitolea maisha kwa ajili ya taifa na wananchi wenzako."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Macho\":",
+          "prompt": "Kauli ya kutendea ya kitenzi cha silabi moja \"kunywa\" (drink) inayotumika kueleza kifaa (k.m. glasi ya...) ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mikono»",
-            "Mpangilio usio sahihi wa viambishi katika «Moyo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Familia»"
+            "nywea (Drink from/with - Correct applicative form 'glasi ya kunywea')",
+            "nywia (Kosa la upatanisho wa irabu ya 'o/u')",
+            "kunywewa (Hii ni kauli ya kutendwa)",
+            "kunywesha (Hii ni kauli ya kutendesha)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «kunywa» kina umbo la kutendea «nywea» (kama katika *kikombe cha kunywea chai*)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Macho\":",
+          "prompt": "Kitenzi cha Kiarabu \"jibu\" (answer) kinapobadilishwa kuwa kauli ya kutendea (answer for / on behalf of), neno sahihi huwa lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Moyo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Familia»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mikono»"
+            "jibia (Answer for / on behalf of - Correct loanword applicative suffix '-ia')",
+            "jibea (Kosa la kutumia '-ea' badala ya '-ia')",
+            "jibiwa (Hii ni kauli ya kutendwa)",
+            "jibulisha (Kauli ya kutendesha)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Vitenzi vya Kiarabu vinavyoishia na -u huchukua «-ia» katika kauli ya kutendea: «jibu -> jibia»."
         }
       ]
     },
@@ -7653,17 +7682,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Macho\": Which sentence is completely correct?",
+          "prompt": "Chagua jozi zilizo sahihi za vitenzi vya silabi moja na vya kigeni katika kauli ya kutendea:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Familia»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mikono»",
-            "Mpangilio usio sahihi wa viambishi katika «Moyo»"
+            "kula -> lia, kunywa -> nywea, kuja -> jia, kufa -> fia, jibu -> jibia, rudi -> rudia, fikiri -> fikiria, samehe -> samehea.",
+            "kula -> lea, kunywa -> nywia, kuja -> jea, kufa -> fea.",
+            "jibu -> jibea, rudi -> rudea, samehe -> samehia.",
+            "Vitenzi vya silabi moja haviwezi kunyambulishwa katika kauli ya kutendea."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Miundo sahihi ni kula/lia, kunywa/nywea, kuja/jia, kufa/fia, jibu/jibia, rudi/rudia, na samehe/samehea."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u18-l4": {
@@ -7671,53 +7701,62 @@
     "subject": "swahili",
     "unit": 18,
     "lessonNumber": 4,
-    "title": "Kauli ya Kutendea (-ia/-ea) (Applicative Verbs) (Part 4)",
+    "title": "Majukumu Mbalimbali ya Kauli ya Kutendea: Manufaa, Vifaa, Mahali, na Dhamira",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.4) with authentic precision.",
+    "objective": "Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili: Mtendewa/Manufaa (Benefactive), Kifaa (Instrumental), Mahali (Locative/Directional), na Sababu/Dhamira (Motive).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Majukumu 4 ya Kisintaksia ya Kauli ya Kutendea (Functional Roles of Applicative):\n\nKauli ya kutendea hubeba maana tofauti kulingana na muundo wa sentensi:\n\n1. **Kufanyia Mtu / Manufaa (Benefactive / Malefactive)**:\n   - *Nilimwandikia kaka yangu barua.* (I wrote a letter for/to my brother.)\n   - *Alinivunjia kikombe changu.* (He broke my cup on me - malefactive).\n\n2. **Kifaa cha Kutendea (Instrumental Role)**:\n   - Hutumika kueleza kifaa au chombo kinachofanya kazi hiyo:\n     - *Kisu cha ku**katia** nyama.* (A knife for cutting meat.)\n     - *Kalamu ya ku**andikia** insha.* (A pen for writing essays.)\n     - *Sabuni ya ku**oshea** vyombo.* (Soap for washing dishes.)\n\n3. **Mahali au Mwelekeo (Locative / Directional Role)**:\n   - Hutumika kueleza mahali ambapo kitendo kinafanyika au kinaelekea:\n     - *Uwanja wa ku**chezea** mpira.* (A pitch for playing football on.)\n     - *Chumba cha ku**lalia** wageni.* (A room for guests to sleep in.)\n     - *Maji yali**angukia** sakafuni.* (Water fell onto the floor.)\n\n4. **Sababu au Dhamira (Motive / Reason Role)**:\n   - Hutumika kuuliza au kueleza sababu ya kitendo:\n     - *Unani**lilia** nini?* (What are you crying to me for? / Why are you crying?)\n     - *Alini**kasirikia** bila sababu yoyote.* (He became angry with me without any reason.)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 18."
+          "target": "Mwanafunzi anatumia kalamu ya wino ya kuandikia notisi za darasa kila siku.",
+          "reading": "Mwa-na-fu-nzi a-na-tu-mia ka-la-mu ya wi-no ya ku-a-ndi-ki-a no-ti-si za da-ra-sa ki-la si-ku. [mwɑnɑˈfunzi ɑnɑtuˈmiɑ kɑˈlɑmu jɑ ˈwinɔ jɑ kuɑndiˈkiɑ ˈnɔtisi zɑ dɑˈrɑsɑ ˈkilɑ ˈsiku] (mwah-nah-FOON-zee ah-nah-too-MEE-ah kah-LAH-moo yah WEE-noh yah koo-ahn-dee-KEE-ah NOH-tee-see zah dah-RAH-sah KEE-lah SEE-koo)",
+          "translation": "The student uses an ink pen to write [ya kuandikia: instrumental role] class notes every day."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 18-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Watoto wote wanakusanyika katika uwanja mpana wa kuchezea michezo ya jioni.",
+          "reading": "Wa-to-to wo-te wa-na-ku-sa-nyi-ka kwe-nye u-wa-nja mpa-na wa ku-che-ze-a mi-che-zo ya ji-o-ni. [wɑˈtɔtɔ ˈwɔtɛ wɑnɑkusɑˈɲikɑ ˈkwɛɲɛ uwɑˈnʤɑ ˈmpɑnɑ wɑ kutʃɛˈzɛɑ miˈtʃɛzɔ jɑ ʤiˈɔni] (wah-TOH-toh WOH-tay wah-nah-koo-sah-NYEE-kah KWAY-nyay oo-WAHN-jah M-PAH-nah wah koo-chay-ZAY-ah mee-CHAY-zoh yah jee-OH-nee)",
+          "translation": "All children gather on the wide playground to play [wa kuchezea: locative role] evening games."
+        },
+        {
+          "target": "Mbona unamkasirikia ndugu yako wakati alikutendea wema mwingi maishani?",
+          "reading": "Mbo-na u-na-mka-si-ri-ki-a ndu-gu ya-ko wa-ka-ti a-li-ku-te-nde-a we-ma mwi-ngi ma-i-sha-ni? [ˈmbɔnɑ unɑmkɑsiriˈkiɑ ˈnduɡu ˈjɑkɔ wɑˈkɑti ɑlikutɛˈndɛɑ ˈwɛmɑ ˈmwiŋɡi mɑiˈʃɑni] (M-BOH-nah oo-nahm-kah-see-ree-KEE-ah N-DOO-goo YAH-koh wah-KAH-tee ah-lee-koo-tayn-DAY-ah WAY-mah M-WEEN-gee mah-ee-SHAH-nee)",
+          "translation": "Why are you angry with [unamkasirikia: motive role] your brother when he did [alikutendea: benefactive role] you much goodness in life?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kutendea ina maana 4: 1) Kumfanyia mtu (alimwandikia), 2) Kifaa (cha kuandikia), 3) Mahali (chumba cha kulalia), 4) Sababu (unanililia nini)!"
+      ],
+      "culturalNotes": [
+        "Katika misemo na mashairi ya Kiswahili, kuuliza 'Wanililia nini?' au 'Wanichekea nini?' ni njia ya kishairi ya kudadisi nia na nia ya ndani ya mtu."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mikono\":",
+          "prompt": "Katika sentensi «Kisu hiki ni cha kukatia nyama», kauli ya kutendea inatekeleza jukumu gani?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Moyo»",
-            "Mpangilio usio sahihi wa viambishi katika «Familia»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Baba»"
+            "Kifaa cha kutendea kitendo (Instrumental Role - Knife for cutting meat)",
+            "Kutendewa kwa mtu (Benefactive)",
+            "Mahali pa kulala (Locative)",
+            "Sababu ya kukasirika (Motive)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«cha kukatia nyama» inaeleza kifaa (kisu) kinachotumiwa kufanya tendo la kukata."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mikono\":",
+          "prompt": "Sentensi ipi inatumia kauli ya kutendea kueleza mahali (Locative/Directional Role)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Familia»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Baba»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Moyo»"
+            "Hiki ndicho chumba chetu cha kulalia wageni. (This is our room for sleeping in for guests - Correct locative applicative)",
+            "Nilimwandikia baba barua ndefu (Hii ni benefactive)",
+            "Unanikazia macho kwa nini? (Hii ni motive)",
+            "Kijiko cha kulia chakula kiko mezani (Hii ni instrumental)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«chumba cha kulalia» kinaonyesha mahali (chumba) ambapo tendo la kulala linafanyika."
         }
       ]
     },
@@ -7725,17 +7764,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mikono\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayochanganya jukumu la Manufaa (Benefactive) na jukumu la Kifaa (Instrumental) kwa usahihi:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Baba»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Moyo»",
-            "Mpangilio usio sahihi wa viambishi katika «Familia»"
+            "Fundi alimshonea mteja suti nzuri kwa kutumia uzi wa kushonea nguo za harusi. (Tailor sewed for the client [alimshonea: benefactive] using thread for sewing [wa kushonea: instrumental].)",
+            "Fundi alishona suti bila kutumia uzi wowote.",
+            "Mteja alishonea fundi suti shambani.",
+            "Kauli ya kutendea haiwezi kutumika zaidi ya mara moja katika sentensi moja."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«alimshonea mteja» (manufaa kwa mteja) na «uzi wa kushonea» (kifaa cha kushona) inachanganya majukumu yote mawili kwa ufasaha."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u18-l5": {
@@ -7743,53 +7783,62 @@
     "subject": "swahili",
     "unit": 18,
     "lessonNumber": 5,
-    "title": "Kauli ya Kutendea (-ia/-ea) (Applicative Verbs) (Part 5)",
+    "title": "Muhtasari wa Kauli ya Kutendea na Kauli ya Kutendewa (-ewa / -iwa)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 18.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 18: upatanisho wa irabu kwa mashina ya kawaida na ya irabu mbili, vitenzi vya silabi moja na vya kigeni, na kuunda kauli mseto ya Kutendewa (Applicative Passive: -iwa / -ewa).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Kauli ya Kutendea na Kauli ya Kutendewa (Grand Synthesis):\n\n1. **Muundo Kamili wa Kauli ya Kutendea (Applicative Master Matrix)**:\n   - **Konsonanti Kawaida**: *a, i, u -> -ia* (*pikia, andikia, limia*); *e, o -> -ea* (*somea, shonea, letea, oshea*).\n   - **Irabu Mbili**: *a, i, u -> -lia* (*nunulia, fungulia, zalia, valia*); *e, o -> -lea* (*tolea, ondolea, tembelea*).\n   - **Silabi Moja**: *kula -> lia, kunywa -> nywea, kuja -> jia, kufa -> fia*.\n   - **Kigeni**: *-u, -i -> -ia* (*jibia, rudia, fikiria*); *-e -> -ea* (*samehea*).\n\n2. **Kauli Mseto ya Kutendewa (Applicative Passive Voice: -iwa / -ewa)**:\n   - Wakati kitenzi cha kutendea kinapounganishwa na kauli ya kutendwa, kinakuwa **Kauli ya Kutendewa** (Kutendewa kitendo kwa niaba yako):\n     - *pika* -> *pikia* -> **pikiwa** (*Mtoto alipikiwa chakula.* = The child had food cooked for him.)\n     - *andika* -> *andikia* -> **andikiwa** (*Ali aliandikiwa barua.* = Ali was written a letter.)\n     - *soma* -> *somea* -> **somewa** (*Wanafunzi walisomewa taarifa.* = Students had the announcement read to them.)\n     - *leta* -> *letea* -> **letewa** (*Mgeni aliletewa zawadi.* = The guest was brought gifts.)\n     - *tengeneza* -> *tengenezea* -> **tengenezewa** (*Gari lilitengenezewa gereji.*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 18."
+          "target": "Mtoto mgonjwa alipikiwa supu moto na akasomewa hadithi ya kuburudisha na mama yake.",
+          "reading": "Mto-to mgo-njwa a-li-pi-ki-wa su-pu mo-to na a-ka-so-me-wa ha-di-thi ya ku-bu-ru-di-sha na ma-ma ya-ke. [mˈtɔtɔ mˈɡɔnʤwɑ ɑlipiˈkiwɑ ˈsupu ˈmɔtɔ nɑ ɑkɑsɔˈmɛwɑ hɑˈdiθi jɑ kuburuˈdiʃɑ nɑ ˈmɑmɑ ˈjɑkɛ] (m-TOH-toh m-GOHN-jwah ah-lee-pee-KEE-wah SOO-poo MOH-toh nah ah-kah-soh-MAY-wah hah-DEE-thee yah koo-boo-roo-DEE-shah nah MAH-mah YAH-kay)",
+          "translation": "The sick child was cooked [alipikiwa: pika -> pikia -> pikiwa] hot soup for and had an entertaining story read to him [akasomewa: soma -> somea -> somewa] by his mother."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 18-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mzee wa kijiji aliletewa habari njema na akatengenezewa kiti chake cha kupumzikia.",
+          "reading": "Mze-e wa ki-ji-ji a-li-le-te-wa ha-ba-ri nje-ma na a-ka-te-nge-ne-ze-wa ki-ti cha-ke cha ku-pu-mzi-ki-a. [mˈzɛː wɑ kiˈʤiʤi ɑlilɛˈtɛwɑ hɑˈbɑri ˈnʤɛmɑ nɑ ɑkɑtɛŋɡɛnɛˈzɛwɑ ˈkiti ˈtʃɑkɛ tʃɑ kupumziˈkiɑ] (m-ZAY-ay wah kee-JEE-jee ah-lee-lay-TAY-wah hah-BAH-ree N-JAY-mah nah ah-kah-tayn-gay-nay-ZAY-wah KEE-tee CHAH-kay chah koo-poom-zee-KEE-ah)",
+          "translation": "The village elder was brought [aliletewa: leta -> letea -> letewa] good news and had his resting chair [cha kupumzikia: locative] repaired for him [akatengenezewa]."
+        },
+        {
+          "target": "Umahiri wa kauli ya kutendea na vinyambuliko vyake vya kutendewa ni kielelezo kikuu cha unyumbufu wa kisintaksia wa lugha ya Kiswahili katika kubainisha manufaa, vifaa, mahali na dhamira ya mtenda.",
+          "reading": "U-ma-hi-ri wa ka-u-li ya ku-te-nde-a na vi-nya-mbu-li-ko vya-ke vya ku-te-nde-wa ni ki-e-le-le-zo ki-ku-u cha u-nyu-mbu-fu wa ki-si-nta-ksi-a wa lu-gha ya Ki-swa-hi-li ka-ti-ka ku-ba-i-ni-sha ma-nu-fa-a, vi-fa-a, ma-ha-li na dha-mi-ra ya mte-nda. [umɑˈhiri wɑ kɑˈuli jɑ kutɛˈndɛɑ nɑ viɲɑmbuˈlikɔ ˈvjɑkɛ vjɑ kutɛˈndɛwɑ ni kiɛlɛˈlɛzɔ kiˈkuː tʃɑ uɲumbuˈfu wɑ kisintɑkˈsiɑ wɑ ˈluɡɑ jɑ kiswɑˈhili ˈkɑtikɑ kubɑiˈniʃɑ mɑnuˈfɑɑ viˈfɑɑ mɑˈhɑli nɑ ðɑˈmirɑ jɑ ˈmtɛndɑ] (oo-mah-HEE-ree wah kah-OO-lee yah koo-tayn-DAY-ah nah vee-nyahm-boo-LEE-koh VYAH-kay vyah koo-tayn-DAY-wah nee kee-ay-lay-LAY-zoh kee-KOO-oo chah oo-nyoom-BOO-foo wah kee-seen-tahk-SEE-ah wah LOO-gah yah kee-swah-HEE-lee KAH-tee-kah koo-bah-ee-NEE-shah mah-noo-FAH-ah, vee-FAH-ah, mah-HAH-lee nah thah-MEE-rah yah m-TAYN-dah)",
+          "translation": "Mastery of the applicative verb form [applicative grand synthesis: kauli ya kutendea] and its passive derivations (kutendewa) showcases the syntactic versatility of the Swahili language in specifying beneficiaries, instruments, places, and motives."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kutendea + Kutendwa = Kutendewa! pika -> pikia -> pikiwa (alipikiwa chakula); soma -> somea -> somewa (alisomewa barua); leta -> letea -> letewa (aliletewa zawadi)!"
+      ],
+      "culturalNotes": [
+        "Katika fasihi na utamaduni wa usuluhishi, sentensi zenye kauli ya kutendewa hutumika kuweka heshima na kueleza masaibu au fadhila alizotendewa mtu bila lawama ya moja kwa moja."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Moyo\":",
+          "prompt": "Kauli ya kutendewa (Applicative Passive) ya kitenzi \"soma\" (kuwa mtu amesomewa kitu) ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Familia»",
-            "Mpangilio usio sahihi wa viambishi katika «Baba»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mama»"
+            "somewa (Be read to/for - Correct applicative passive formation)",
+            "somwa (Hii ni kauli ya kutendwa ya kawaida pekee)",
+            "someka (Hii ni kauli ya kutendeka)",
+            "somesha (Hii ni kauli ya kutendesha)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «soma» kinapitia hatua mbili: soma -> somea (kutendea) -> somewa (kutendewa: be read to/for)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Moyo\":",
+          "prompt": "Katika muhtasari wa Unit 18, sentensi ipi inatumia kauli mseto ya kutendewa (Applicative Passive) kwa usahihi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Baba»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mama»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Familia»"
+            "Mgonjwa aliletewa dawa na akapikiwa chakula chepesi. (The patient was brought medicine for and was cooked light food for - Correct applicative passive usage)",
+            "Mgonjwa alileta dawa na akapika chakula chepesi (Hizi ni kauli za kutenda)",
+            "Mgonjwa aliletwa na dawa na akapikwa chakula (Matumizi yasiyo sahihi ya kutendwa ya kawaida)",
+            "Mgonjwa alilitea dawa na kupikia chakula"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«aliletewa dawa» na «akapikiwa chakula» inatekeleza kauli ya kutendewa (mtu akifanyiwa kitu kwa niaba yake katika hali ya kutendwa)."
         }
       ]
     },
@@ -7797,17 +7846,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Moyo\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 18 ya Kauli ya Kutendea na Kutendewa katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 18.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mama»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Familia»",
-            "Mpangilio usio sahihi wa viambishi katika «Baba»"
+            "Mwalimu aliwanunulia wanafunzi kalamu za kuandikia, akawasomea hadithi nzuri, na wao wakafurahi kutendewa wema huo wote. (Applicative benefactive [aliwanunulia], instrumental [za kuandikia], directional [akawasomea], and applicative passive [kutendewa].)",
+            "Mwalimu alinunua kalamu na akasoma hadithi bila kutumia viambishi vya kutendea.",
+            "Wanafunzi walimnunua mwalimu kalamu za kuandika.",
+            "Kauli ya kutendea haihusiani na uundaji wa nomino au vifaa."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Mwalimu aliwanunulia wanafunzi kalamu za kuandikia, akawasomea hadithi nzuri, na wao wakafurahi kutendewa wema huo wote.» inajumuisha nyanja zote za kauli ya kutendea na kutendewa kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u19-l1": {
