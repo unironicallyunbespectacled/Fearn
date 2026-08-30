@@ -8307,56 +8307,65 @@
     "subject": "korean",
     "unit": 18,
     "lessonNumber": 1,
-    "title": "간접화법(-다고 하다, -냐고 하다, -자고 하다) (Indirect Speech) (Part 1)",
+    "title": "평서문 간접화법 ('-다고 하다')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 간접화법 표현 체계 (Indirect Reported Speech).",
+    "objective": "다른 사람의 진술이나 평서문 발언을 전달할 때 품사와 시제에 맞추어 '-다고 하다'를 정확하게 활용한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 간접화법(-다고 하다, -냐고 하다, -자고 하다) (Indirect Speech) » (제1절)의 핵심 언어 요소와 간접화법 표현 체계 (Indirect Reported Speech)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "간접화법(Indirect Reported Speech)은 다른 사람이 말한 내용을 자신의 말로 바꾸어 제3자에게 전달하는 문법입니다. 평서문을 인용할 때는 어간과 품사, 시제에 따라 다음과 같이 결합합니다.\n\n1. 현재 시제 결합 규칙:\n- 동사 (Verb): 받침 없음 → **-ㄴ다고 하다**, 받침 있음 → **-는다고 하다**\n  - 가다 → 간다고 하다 (\"민수 씨가 집에 간다고 해요.\")\n  - 먹다 → 먹는다고 하다 (\"친구가 지금 밥을 먹는다고 해요.\")\n  - 살다 → 산다고 하다 ('ㄹ' 탈락 규칙)\n- 형용사 (Adjective): 받침 유무 불문 어간 + **-다고 하다**\n  - 바쁘다 → 바쁘다고 하다 (\"팀장님이 요즘 바쁘다고 하셨어요.\")\n  - 좋다 → 좋다고 하다 (\"날씨가 정말 좋다고 해요.\")\n- 명사 + 이다 (Copula): 받침 없음 → **-라고 하다**, 받침 있음 → **-이라고 하다**\n  - 학생 → 학생이라고 하다, 의사 → 의사라고 하다\n\n2. 과거 및 미래 시제 결합 규칙:\n- 과거: 동사/형용사/명사 모두 **-았/었다고 하다** (갔다고 하다, 먹었다고 하다, 예뻤다고 하다, 학생이었다고 하다)\n- 미래: 동사/형용사 **-(으)ㄹ 거라고 하다** or **-겠다고 하다** (갈 거라고 하다, 먹을 거라고 하다, 참석하겠다고 하다)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (18.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "일기예보에서 오늘 오후부터 전국에 강한 비가 내린다고 합니다.",
+          "reading": "Ilgiyebo-eseo oneul ohu-buteo jeonguk-e ganghan bi-ga naerindago hamnida.",
+          "translation": "The weather forecast says that heavy rain will fall nationwide starting this afternoon (Verb present '-ㄴ다고 하다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (18.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "선생님께서 이번 학기 중간시험 난이도가 상당히 높다고 말씀하셨습니다.",
+          "reading": "Seonsaengnim-kkeseo ibeon hakgi junggansiheom nanido-ga sangdanghi nopdago malsseumhasyeotseumnida.",
+          "translation": "The teacher said that the difficulty level of this semester's midterm exam is considerably high (Adj '-다고 하다' with honorific '말씀하시다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (18.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "저기 새로 오신 분이 이번 프로젝트를 총괄할 수석 디자이너라고 들었습니다.",
+          "reading": "Jeogi saero osin bun-i ibeon peurojekteu-reul chong-gwalhal suseok dijaineo-rago deureotseumnida.",
+          "translation": "I heard that the newly arrived person over there is the head designer who will oversee this project (Noun '-라고 듣다')."
+        },
+        {
+          "target": "민우 씨가 지난 주말에 제주도로 혼자 가족 여행을 다녀왔다고 했어요.",
+          "reading": "Minu ssi-ga jinan jumal-e Jeju-do-ro honja gajok yeohaeng-eul danyeowatdago haesseoyo.",
+          "translation": "Minwoo said that he went on a family trip alone to Jeju Island last weekend (Past '-았다고 하다')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "동사는 '-ㄴ/는다고', 형용사는 그대로 '-다고', 명사는 '-(이)라고'! 시제별 완벽 인용!"
+      ],
+      "culturalNotes": [
+        "한국어에서 윗사람의 말씀을 전달할 때는 인용 동사 '하다' 대신 높임말인 '말씀하시다(선생님께서 오신다고 말씀하셨습니다)'를 사용하여 화자의 공손함을 유지합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 간접화법 표현 체계 (Indirect Reported Speech) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "'바쁘다(busy)'를 인용하여 '친구가 바쁘다고 한다'를 만들 때 올바른 형태는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (18.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (18.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (18.1.3)."
+            "친구가 바쁘다고 해요.",
+            "친구가 바쁜다고 해요.",
+            "친구가 바쁘라고 해요."
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'바쁘다'는 형용사이므로 어간 뒤에 바로 '-다고 하다'가 붙어 '바쁘다고 해요'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 간접화법(-다고 하다, -냐고 하다, -자고 하다) (Indirect Speech) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "'내일 서울에 가다'라는 민수의 말을 간접화법으로 정확히 옮긴 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (18.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (18.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (18.1.3)."
+            "민수 씨가 내일 서울에 간다고 했어요.",
+            "민수 씨가 내일 서울에 가다고 했어요.",
+            "민수 씨가 내일 서울에 가라고 했어요."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "동사 '가다'의 현재 인용은 받침이 없으므로 '-ㄴ다고(간다고)'가 결합합니다."
         }
       ]
     },
@@ -8364,14 +8373,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 간접화법 표현 체계 (Indirect Reported Speech) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 18-1)?",
+          "prompt": "다음 중 간접화법 형태 결합이 어법에 완벽하게 맞는 문장은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (18.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (18.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (18.1.3)."
+            "영수가 지금 도서관에서 책을 읽는다고 말했습니다.",
+            "영수가 지금 도서관에서 책을 읽다고 말했습니다.",
+            "영수가 지금 도서관에서 책을 읽은다고 말했습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "동사 '읽다'는 받침이 있는 동사이므로 현재형 간접화법은 '-는다고(읽는다고)'가 맞습니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'친구가 한국에 온다고 했어요'(A friend said that they are coming to Korea)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "친구가 한국에 온다고 했어요.",
+            "친구가 한국에 온다고 했어요"
+          ],
+          "explanation": "친구가 + 한국에 + 온다고(오다 + ㄴ다고) + 했어요 = 친구가 한국에 온다고 했어요."
         }
       ]
     }
@@ -8381,56 +8399,65 @@
     "subject": "korean",
     "unit": 18,
     "lessonNumber": 2,
-    "title": "간접화법(-다고 하다, -냐고 하다, -자고 하다) (Indirect Speech) (Part 2)",
+    "title": "의문문 간접화법 ('-(으)냐고 하다') 및 제안문 간접화법 ('-자고 하다')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 간접화법 표현 체계 (Indirect Reported Speech).",
+    "objective": "질문 전달('-(으)냐고/냐고 묻다/하다')과 청유·제안 전달('-자고 하다/제안하다')의 형태 규칙과 인용 동사 결합을 익힌다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 간접화법(-다고 하다, -냐고 하다, -자고 하다) (Indirect Speech) » (제2절)의 핵심 언어 요소와 간접화법 표현 체계 (Indirect Reported Speech)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "질문(의문문)을 전달할 때는 '-(으)냐고 하다/묻다'를, 권유나 제안(청유문)을 전달할 때는 '-자고 하다'를 사용합니다.\n\n1. 의문문 간접화법 ('-(으)냐고 하다 / 묻다' - Indirect Question):\n- 동사 (Verb): 어간 + **-(으)냐고 하다 / 묻다** (구어에서는 주로 '-냐고 하다')\n  - 가다 → 가냐고 묻다, 먹다 → 먹냐고/먹으냐고 묻다\n- 형용사 (Adjective): 받침 없음 → **-냐고 하다**, 받침 있음 → **-(으)냐고 하다**\n  - 크다 → 크냐고 하다, 작다 → 작으냐고/작냐고 묻다\n- 명사 + 이다: **-(이)냐고 묻다** (의사냐고 묻다, 학생이냐고 묻다)\n- 과거 시제: **-았/었냐고 묻다** (\"어제 왜 안 왔냐고 물어봤어요.\")\n\n2. 제안문/청유문 간접화법 ('-자고 하다' - Indirect Proposal/Suggestion):\n- 동사 어간 + **-자고 하다** (받침 유무 상관없이 무조건 '-자고 하다')\n  - 가다 → 가자고 하다 (\"주말에 미술관에 같이 가자고 했어요.\")\n  - 먹다 → 먹자고 하다 (\"점심에 비빔밥을 먹자고 제안했어요.\")\n  - 쉬다 → 쉬자고 하다 (\"잠깐 커피 마시며 쉬자고 했어요.\")",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (18.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "수진 씨가 이번 주 금요일 저녁에 시간이 있냐고 물어보았습니다.",
+          "reading": "Sujin ssi-ga ibeon ju geumyoil jeonyeok-e sigan-i innyago mureoboatseumnida.",
+          "translation": "Sujin asked if I have time this Friday evening (Question indirect '-냐고 물어보다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (18.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "팀장님께서 오늘 점심에 다 같이 시원한 냉면을 먹으러 가자고 하셨습니다.",
+          "reading": "Timjangnim-kkeseo oneul jeomsim-e da gachi siwonhan naengmyeon-eul meog-eureo gajago hasyeotseumnida.",
+          "translation": "The team manager suggested that we all go to eat refreshing naengmyeon together for lunch ('-자고 하다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (18.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "어머니께서 어제 저녁에 시험공부를 몇 시까지 했냐고 다정하게 물으셨어요.",
+          "reading": "Eomeoni-kkeseo eoje jeonyeok-e siheom-gongbu-reul myeot si-kkaji haennyago dajeonghage mureusyeosseoyo.",
+          "translation": "Mother warmly asked until what time I had studied for the exam last night (Past question '-았/었냐고 묻다')."
+        },
+        {
+          "target": "친구가 이번 주말에 교외로 드라이브를 가자고 약속을 청했습니다.",
+          "reading": "Chin-gu-ga ibeon jumal-e gyooe-ro deuraibeu-reul gajago yaksok-eul cheonghaetseumnida.",
+          "translation": "A friend asked for a rendezvous proposing that we go for a drive to the suburbs this weekend ('가자고')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "질문 인용은 물어보니까 '-냐고 묻다'! 함께하자는 제안은 사이좋게 '-자고 하다'!"
+      ],
+      "culturalNotes": [
+        "한국어 회화에서 질문을 인용할 때는 '하다'보다 '물어보다', '질문하다', '여쭤보다(높임)'와 결합하는 것이 화맥상 훨씬 자연스럽습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 간접화법 표현 체계 (Indirect Reported Speech) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "\"같이 점심 먹어요!\"라는 제안을 간접화법으로 바르게 전달한 문장은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (18.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (18.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (18.2.3)."
+            "친구가 같이 점심을 먹자고 했어요.",
+            "친구가 같이 점심을 먹는다고 했어요.",
+            "친구가 같이 점심을 먹으라고 했어요."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "함께하자는 청유문 인용은 '-자고 하다(먹자고 했어요)'를 씁니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 간접화법(-다고 하다, -냐고 하다, -자고 하다) (Indirect Speech) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "\"어디에 살아요?\"라는 질문을 제3자에게 전달할 때 올바른 간접화법은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (18.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (18.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (18.2.3)."
+            "어디에 사냐고 물어봤어요.",
+            "어디에 살자고 물어봤어요.",
+            "어디에 사라고 물어봤어요."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "질문 인용은 '-(으)냐고 묻다'이며, '살다'의 'ㄹ'이 탈락하여 '사냐고 물어봤어요'가 됩니다."
         }
       ]
     },
@@ -8438,14 +8465,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 간접화법 표현 체계 (Indirect Reported Speech) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 18-2)?",
+          "prompt": "다음 중 의문문 간접화법과 제안문 간접화법의 결합이 모두 완벽한 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (18.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (18.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (18.2.3)."
+            "지우가 오늘 영화를 보냐고 물어보며 주말에 같이 보자고 했어요.",
+            "지우가 오늘 영화를 보라고 물어보며 주말에 같이 보다고 했어요.",
+            "지우가 오늘 영화를 보다고 물어보며 주말에 같이 보냐고 했어요."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "의문 인용 '보냐고 물어보다' + 제안 인용 '보자고 하다'의 배합이 완벽합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'친구가 같이 밥 먹자고 했어요'(A friend asked to eat together)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "친구가 같이 밥 먹자고 했어요.",
+            "친구가 같이 밥 먹자고 했어요"
+          ],
+          "explanation": "친구가 + 같이 + 밥 + 먹자고(먹다 + 자고) + 했어요 = 친구가 같이 밥 먹자고 했어요."
         }
       ]
     }
@@ -8455,56 +8491,65 @@
     "subject": "korean",
     "unit": 18,
     "lessonNumber": 3,
-    "title": "간접화법(-다고 하다, -냐고 하다, -자고 하다) (Indirect Speech) (Part 3)",
+    "title": "명령문/요청문 간접화법 ('-(으)라고 하다' vs '-아/어 달라고/주라고 하다')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 간접화법 표현 체계 (Indirect Reported Speech).",
+    "objective": "명령 전달('-(으)라고 하다')과 수혜자 관계에 따른 요청 인용('-아/어 달라고 하다' vs '-아/어 주라고 하다')의 고난도 문법 규칙을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 간접화법(-다고 하다, -냐고 하다, -자고 하다) (Indirect Speech) » (제3절)의 핵심 언어 요소와 간접화법 표현 체계 (Indirect Reported Speech)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "명령문이나 부탁·요청문을 간접화법으로 전달할 때는 명령 어미 '-(으)라고 하다'와, 수혜자가 누구냐에 따라 분화되는 '달라고/주라고' 규칙을 엄격히 구별해야 합니다.\n\n1. 일반 명령문 간접화법 ('-(으)라고 하다' - Indirect Imperative):\n- 동사 받침 없음 or 'ㄹ' 받침 → **-라고 하다** (가라고 하다, 만들라고 하다)\n- 동사 'ㄹ' 제외 받침 있음 → **-으라고 하다** (앉으라고 하다, 읽으라고 하다, 먹으라고 하다)\n- 부정 명령문: **-지 말라고 하다** (\"늦지 말라고 하셨어요.\")\n\n2. 결정적 요청 화법: '-아/어 달라고 하다' vs '-아/어 주라고 하다' (Crucial Distinction):\n- 화자 본인을 위한 요청일 때 → **-아/어 달라고 하다** (Request for Speaker):\n  - 민수: \"(나에게) 물 좀 주세요.\" → 민수가 (자기에게) 물을 좀 **달라고** 했어요.\n- 제3자를 위한 요청일 때 → **-아/어 주라고 하다** (Request for Third Party):\n  - 선생님: \"영수에게 책을 전해 주세요.\" → 선생님께서 영수에게 책을 **전해 주라고** 하셨어요.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (18.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "의사 선생님께서 하루에 물을 2리터 이상 충분히 마시라고 권고하셨습니다.",
+          "reading": "Uisa seonsaengnim-kkeseo haru-e mul-eul 2-riteo isang chungbunhi masirago gwon-gohasyeotseumnida.",
+          "translation": "The doctor recommended that I drink more than 2 liters of water a day sufficiently (Imperative indirect '-라고')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (18.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "선생님께서 수업 시간에 옆 사람과 잡담하지 말라고 주의를 주셨습니다.",
+          "reading": "Seonsaengnim-kkeseo sueop sigan-e yeop saram-gwa japdamhaji mallago juui-reul jusyeotseumnida.",
+          "translation": "The teacher gave a warning not to chat with the person next to us during class time ('-지 말라고 하다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (18.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "손님이 직원에게 차가운 생수 한 병을 가져다 달라고 정중히 부탁했습니다.",
+          "reading": "Sonnim-i jigwon-ege chagaun saengsu han byeong-eul gajyeoda dallago jeongjunghi butakhaetseumnida.",
+          "translation": "The customer politely requested the staff to bring a bottle of cold water for themselves ('-아/어 달라고 하다' request for speaker)."
+        },
+        {
+          "target": "부장님께서 인턴사원에게 도움이 필요하면 선배들이 적극적으로 도와주라고 당부하셨습니다.",
+          "reading": "Bujangnim-kkeseo inteonsawon-ege doum-i piryohamyeon seonbaedeul-i jeokgeukjeog-euro dowajurago dangbuhasyeotseumnida.",
+          "translation": "The department manager requested that seniors actively help the intern employee if help is needed ('-아/어 주라고 하다' request for 3rd party)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "명령은 '-(으)라고', 나를 위한 부탁은 '달라고', 남을 위한 부탁은 '주라고'!"
+      ],
+      "culturalNotes": [
+        "'-아/어 달라고 하다'와 '-아/어 주라고 하다'의 구분은 한국어 모국어 화자들의 직관에 깊이 뿌리박힌 핵심 문법으로, 한국어능력시험(TOPIK II) 단골 최고 배점 문항입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 간접화법 표현 체계 (Indirect Reported Speech) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "민수가 지우에게 \"나에게 펜을 빌려줘\"라고 한 말을 전달할 때 올바른 형태는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (18.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (18.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (18.3.3)."
+            "민수가 지우에게 펜을 빌려 달라고 했어요.",
+            "민수가 지우에게 펜을 빌려 주라고 했어요.",
+            "민수가 지우에게 펜을 빌리자고 했어요."
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "말하는 사람 자신(민수)에게 해 달라는 요청이므로 '-아/어 달라고 하다'가 정확합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 간접화법(-다고 하다, -냐고 하다, -자고 하다) (Indirect Speech) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "어머니께서 나에게 \"동생에게 사탕을 나누어 줘라\"라고 하신 말을 간접화법으로 바르게 표현한 것은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (18.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (18.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (18.3.3)."
+            "어머니께서 동생에게 사탕을 나누어 주라고 하셨어요.",
+            "어머니께서 동생에게 사탕을 나누어 달라고 하셨어요.",
+            "어머니께서 동생에게 사탕을 나누자고 하셨어요."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "제3자(동생)를 위해 행동하라는 명령이므로 '-아/어 주라고 하다'가 맞습니다."
         }
       ]
     },
@@ -8512,14 +8557,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 간접화법 표현 체계 (Indirect Reported Speech) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 18-3)?",
+          "prompt": "부정 명령(\"회의에 늦지 마세요\")을 간접화법으로 옮긴 가장 올바른 형태는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (18.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (18.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (18.3.3)."
+            "회의에 늦지 말라고 하셨어요.",
+            "회의에 늦지 마라고 하셨어요.",
+            "회의에 늦지 않는다고 하셨어요."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "explanation": "부정 명령 간접화법의 표준형은 '-지 말라고 하다'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'선생님이 일찍 오라고 하셨어요'(The teacher told me to come early)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "선생님이 일찍 오라고 하셨어요.",
+            "선생님이 일찍 오라고 하셨어요"
+          ],
+          "explanation": "선생님이 + 일찍 + 오라고(오다 + 라고) + 하셨어요 = 선생님이 일찍 오라고 하셨어요."
         }
       ]
     }
@@ -8529,56 +8583,65 @@
     "subject": "korean",
     "unit": 18,
     "lessonNumber": 4,
-    "title": "간접화법(-다고 하다, -냐고 하다, -자고 하다) (Indirect Speech) (Part 4)",
+    "title": "일상 회화 속 간접화법 축약형 ('-대요', '-재요', '-래요', '-냬요')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 간접화법 표현 체계 (Indirect Reported Speech).",
+    "objective": "실제 한국어 일상 구어체에서 매우 빈번하게 사용되는 4대 간접화법 축약 종결형을 능수능란하게 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 간접화법(-다고 하다, -냐고 하다, -자고 하다) (Indirect Speech) » (제4절)의 핵심 언어 요소와 간접화법 표현 체계 (Indirect Reported Speech)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국 사람들은 일상 대화에서 긴 간접화법 어미를 신속하고 자연스럽게 축약하여 사용합니다. 이 축약형은 일상 회화의 필수 표현입니다.\n\n1. 4대 구어 축약 공식 (Colloquial Contraction Rules):\n- 평서문 축약: **-는대요 / -ㄴ대요 / -대요 / -(이)래요**\n  - -는다고 해요 → **-는대요** (먹는대요, 읽는대요)\n  - -ㄴ다고 해요 → **-ㄴ대요** (간대요, 온대요)\n  - 형용사 -다고 해요 → **-대요** (예쁘대요, 바쁘대요)\n  - 명사 -(이)라고 해요 → **-(이)래요** (선생님이래요, 의사래요)\n- 제안문 축약: -자고 해요 → **-재요**\n  - 가자고 해요 → **가재요**, 먹자고 해요 → **먹재요**\n- 명령문 축약: -(으)라고 해요 → **-(으)래요**\n  - 오라고 해요 → **오래요**, 기다리라고 해요 → **기다리래요**\n- 의문문 축약: -(으)냐고 해요 → **-(으)냬요**\n  - 가냐고 해요 → **가냬요**, 어디 있냐고 해요 → **어디 있냬요**",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (18.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "A: 지우 씨 오늘 왜 안 왔어요? B: 감기에 심하게 걸려서 병원에 갔대요.",
+          "reading": "A: Ji-u ssi oneul wae an wasseoyo? B: Gamgi-e simhage geollyeoseo byeong-won-e gatdaeyo.",
+          "translation": "A: Why didn't Jiu come today? B: She said she went to the hospital because she caught a bad cold (Past flat contraction '-았대요')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (18.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "민수 씨가 퇴근 후에 다 같이 시원한 맥주 한잔하재요.",
+          "reading": "Minsu ssi-ga toegeun hu-e da gachi siwonhan maekju hanjan-hajaeyo.",
+          "translation": "Minsu suggests that we all have a cold beer together after work (Proposal contraction '-재요')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (18.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "부장님께서 서류 검토 다 끝났으니까 지금 회의실로 들어오래요.",
+          "reading": "Bujangnim-kkeseo seoryu geomto da kkeutnasseunikka jigeum hoeuisil-ro deureo-oraeyo.",
+          "translation": "The director says to come into the conference room right now as the document review is finished (Imperative contraction '-래요')."
+        },
+        {
+          "target": "친구들이 저한테 이번 주말에 약속이 있냬요.",
+          "reading": "Chin-gudeul-i jeo-hante ibeon jumal-e yaksok-i innyaeyo.",
+          "translation": "Friends are asking me if I have plans this weekend (Question contraction '-냬요')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "전달할 땐 '-대요', 함께할 땐 '-재요', 시킬 땐 '-래요', 물어볼 땐 '-냬요'! 4대 구어 마스터!"
+      ],
+      "culturalNotes": [
+        "한국 드라마나 예능, 일상 사적인 대화에서 90% 이상은 축약형('-대요, -재요, -래요, -냬요')으로 소통하므로, 이를 귀로 듣고 입으로 바로 뱉는 훈련이 청취 및 유창성 확립의 관건입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 간접화법 표현 체계 (Indirect Reported Speech) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "\"민수가 지금 밥을 먹는다고 해요\"를 자연스러운 일상 구어 축약형으로 바꾼 것은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (18.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (18.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (18.4.3)."
+            "민수가 지금 밥을 먹는대요.",
+            "민수가 지금 밥을 먹재요.",
+            "민수가 지금 밥을 먹으래요."
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'-는다고 해요'의 축약형은 '-는대요(먹는대요)'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 간접화법(-다고 하다, -냐고 하다, -자고 하다) (Indirect Speech) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "\"영수가 같이 영화를 보자고 해요\"를 올바른 구어 축약형으로 나타낸 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (18.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (18.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (18.4.3)."
+            "영수가 같이 영화를 보재요.",
+            "영수가 같이 영화를 보래요.",
+            "영수가 같이 영화를 보냬요."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "제안의 축약형은 '-재요(보재요)'입니다."
         }
       ]
     },
@@ -8586,14 +8649,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 간접화법 표현 체계 (Indirect Reported Speech) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 18-4)?",
+          "prompt": "다음 축약형 연결 중 짝지음이 잘못된 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (18.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (18.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (18.4.3)."
+            "가라고 해요 → 가대요",
+            "가자고 해요 → 가재요",
+            "가냐고 해요 → 가냬요"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'가라고 해요(명령)'의 축약형은 '가래요'이며, '가대요'는 '간다고 해요'의 잘못된 축약입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'오늘 날씨가 정말 덥대요'(They say the weather is really hot today)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "오늘 날씨가 정말 덥대요.",
+            "오늘 날씨가 정말 덥대요"
+          ],
+          "explanation": "오늘 + 날씨가 + 정말 + 덥대요(덥다고 해요) = 오늘 날씨가 정말 덥대요."
         }
       ]
     }
@@ -8603,56 +8675,65 @@
     "subject": "korean",
     "unit": 18,
     "lessonNumber": 5,
-    "title": "간접화법(-다고 하다, -냐고 하다, -자고 하다) (Indirect Speech) (Part 5)",
+    "title": "소문 전달, 전언 메모 및 회의 전달 보고 실전 간접화법 담화",
     "level": "B2",
-    "objective": "Comprehensive mastery of 간접화법 표현 체계 (Indirect Reported Speech).",
+    "objective": "평서·의문·명령·제안의 정식 및 축약 간접화법을 총동원하여 직장 전언 메모, 뉴스 소식 교환 실전 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 간접화법(-다고 하다, -냐고 하다, -자고 하다) (Indirect Speech) » (제5절)의 핵심 언어 요소와 간접화법 표현 체계 (Indirect Reported Speech)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "직장이나 일상생활에서는 전화 메시지 전달, 상사 지시 사항 전파, 친구들 사이의 소식 교환 상황에서 간접화법이 핵심 의사소통 도구로 기능합니다.\n\n1. 사무실 전화 전언 및 메시지 전달 실전 담화 모델:\n- A: 나래 씨, 방금 거래처 김 과장님한테서 전화 왔었어요.\n- B: 아, 그래요? 무슨 용건이라고 하셨나요?\n- A: 내일 오전 회의 시작 시간이 10시에서 11시로 한 시간 연기되었다고 전해 달래요.\n- B: 알겠습니다. 혹시 다른 전달 사항은 없었나요?\n- A: 회의 전까지 수정된 견적서 초안을 이메일로 미리 보내 줄 수 있냐고 물어보셨어요.\n- B: 네, 지금 바로 수정해서 보내겠다고 회신해 둘게요. 메모 남겨 주셔서 감사해요!\n- A: 별말씀을요. 그리고 과장님께서 도착하시면 꼭 전화 한 통 달라고 하셨어요.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (18.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "A: 뉴스에서 오늘 밤에 첫눈이 내린대요. B: 와, 정말요? 주말에 설경 보러 산에 가재요.",
+          "reading": "A: Nyuseu-eseo oneul bam-e cheotnun-i naerindaeyo. B: Wa, jeongmalyo? Jumal-e seolgyeong boreo san-e gajaeyo.",
+          "translation": "A: The news says that the first snow will fall tonight ('내린대요'). B: Wow, really? Let's go to the mountains to see the snowy landscape on the weekend ('가재요')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (18.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "[전언 메모] 14:30 박 부장님 전화: 오늘 4시 기획 회의 준비 철저히 하라고 하심.",
+          "reading": "[Jeoneon memo] 14:30 Park bujangnim jeonhwa: Oneul 4-si gihoek hoeui junbi cheoljeohi harago hasim.",
+          "translation": "[Relay Memo] 14:30 Call from Director Park: Told us to prepare thoroughly for today's 4 PM planning meeting ('하라고 하심')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (18.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "민우 씨가 어제 산 새 차가 승차감도 좋고 연비도 아주 뛰어나다고 자랑했어요.",
+          "reading": "Minu ssi-ga eoje san sae cha-ga seungchagam-do jotgo yeonbi-do aju ttwieonadago jaranghaesseoyo.",
+          "translation": "Minwoo bragged that the new car he bought yesterday has great ride comfort and excellent fuel efficiency ('뛰어나다고 자랑하다')."
+        },
+        {
+          "target": "친구가 다음 주 생일 파티에 올 수 있냐고 물어보길래 꼭 참석하겠다고 대답했습니다.",
+          "reading": "Chin-gu-ga daeum ju saeng-il pati-e ol su innyago mureobogillae kkok chamseokhagetdago daedaphaetseumnida.",
+          "translation": "Since my friend asked if I could come to their birthday party next week ('있냐고'), I answered that I would definitely attend ('참석하겠다고')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "전화 메모는 '연기되었다고 전해 달래요', 질문엔 '있냐고 물어보셨어요'! 전언의 달인!"
+      ],
+      "culturalNotes": [
+        "한국의 직장에서는 전화 메모를 작성할 때 '김 부장님께서 확인 후 전화 달라고 하심'처럼 간접화법 어미 뒤에 존칭 명사화 형태인 '하심'을 붙여 격식과 예의를 동시에 표합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 간접화법 표현 체계 (Indirect Reported Speech) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "상사의 지시 사항(\"보고서를 3시까지 제출하세요\")을 동료에게 전달하는 가장 자연스러운 구어 표현은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (18.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (18.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (18.5.3)."
+            "팀장님께서 보고서를 3시까지 제출하래요.",
+            "팀장님께서 보고서를 3시까지 제출하재요.",
+            "팀장님께서 보고서를 3시까지 제출한대요."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "명령/지시 축약형은 '-래요(제출하래요)'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 간접화법(-다고 하다, -냐고 하다, -자고 하다) (Indirect Speech) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "전화 전언 메모 중 간접화법과 높임법이 가장 완벽하게 조화된 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (18.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (18.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (18.5.3)."
+            "거래처 대표님께서 회의 자료를 미리 검토해 보시라고 전해 달라고 하셨습니다.",
+            "거래처 대표님께서 회의 자료를 미리 검토해 보라고 전해 달라고 하였습니다.",
+            "거래처 대표님께서 회의 자료를 미리 검토해 보자고 전해 주라고 하셨습니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "존칭 명령('보시라고') + 부탁 전달('전해 달라고 하셨습니다')의 조합이 가장 품격 있습니다."
         }
       ]
     },
@@ -8660,14 +8741,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 간접화법 표현 체계 (Indirect Reported Speech) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 18-5)?",
+          "prompt": "다음 대화의 빈칸에 들어갈 알맞은 전달 표현은?\n\"A: 민수 씨가 왜 안 와요?\nB: 지금 길이 너무 _____ 조금만 기다려 달래요.\"",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (18.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (18.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (18.5.3)."
+            "막힌다고",
+            "막히자고",
+            "막히라고"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "길이 막힌다는 평서문 사실 전달이므로 '막힌다고'가 정확합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'주말에 같이 영화 보러 가재요'(They suggest going to see a movie together on the weekend)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "주말에 같이 영화 보러 가재요.",
+            "주말에 같이 영화 보러 가재요"
+          ],
+          "explanation": "주말에 + 같이 + 영화 보러 + 가재요(가자고 해요) = 주말에 같이 영화 보러 가재요."
         }
       ]
     }
