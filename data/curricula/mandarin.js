@@ -19830,85 +19830,89 @@
     "subject": "mandarin",
     "unit": 34,
     "lessonNumber": 1,
-    "title": "多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT) (第1讲)",
+    "title": "多边外交、条约法与全球治理：1969年维也纳条约法公约、联合国决议起草与多边斡旋 (C2 Capstone Multilateral Diplomacy: VCLT, UN Resolutions & Mediation)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：1969年维也纳条约法公约、联合国安理会多边决议起草、峰会联合公报外交辩护。 (第1部分)。",
+    "objective": "系统掌握多边外交高阶博弈语体、1969年《维也纳条约法公约》（条约必须遵守/情势变迁/强行法）、联合国安理会决议起草磋商（序言与执行条款）及多边穿梭斡旋公法语体。",
     "presentation": {
-      "explanation": "",
+      "explanation": "多边外交与国际条约法是维护国际法治秩序与全球和平安全的核心基石：\n\n一、1969年《维也纳条约法公约》（VCLT）核心法理：\n1.【条约必须遵守原则（Pacta sunt servanda）】：\n- 凡有效条约对各当事国均有约束力，必须善意履行，不得援引国内法规定作为不履行条约的理由。\n2.【条约解释与强行法（Jus cogens）】：\n- 依据条约用语在上下文中的通常含义并结合目的与宗旨善意解释；任何条约同国际强行法规范（如禁止侵略、种族灭绝）相抵触者一律绝对无效。\n3.【情势变迁原则（Clausula rebus sic stantibus）】：缔约时基础情势发生不可预见的根本性改变，方得有限主张终止或退出条约。\n\n二、联合国决议草案起草与多边斡旋机制：\n1.【决议架构】：\n- 序言性段落（Preambular Paragraphs，回顾以往决议、申明原则）与执行性段落（Operative Paragraphs，敦促、决定采取具体行动）。\n2.【多边斡旋与穿梭外交】：特使在冲突各方间穿梭沟通，以中立客观之善意提供斡旋（Good offices）与调解（Mediation），寻求利益平衡与停火共识。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的核心语法法则与应用范例 (34.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)' in simple terms to students at the academic seminar."
+          "target": "各国代表团恪守《维也纳条约法公约》确立的「条约必须遵守」铁律，严正指出任何单边毁约退群行径均属对国际法治的公然践踏。(Gèguó dàibiǎotuán kèshǒu 《Wéiyěnà Tiáoyuēfǎ Gōngyuē》 quèlì de \"tiáoyuē bìxū zūnshǒu\" tiělǜ, yánzhèng zhǐchū rènhé dānbiān huǐyuē tuìqún xíngjìng jūn shǔ duì guójì fǎzhì de gōngrán jiàntà.)",
+          "reading": "[kɤ˥˩.kwo˧˥ taɪ̯˥˩.pjaʊ̯˨˩.tʰwan˧˥ kʰɤ˥˩.ʂoʊ̯˨˩˦ 《weɪ̯˧˥.jɛ˨˩˦.na˥˩ tʰjaʊ̯˧˥.yɛ˥.fa˨˩˦ kʊŋ˥.yɛ˥》 t͡ɕʰyɛ˥.li˥˩ tɤ \"tʰjaʊ̯˧˥.yɛ˥ pi˥˩.ɕy˥ t͡swn˥.ʂoʊ̯˨˩˦\" tʰjɛ˨˩.ly˥˩, jan˧˥.ʈ͡ʂəŋ˥˩ ʈ͡ʂɨ˨˩.t͡ʂʰu˥ ʐən˥˩.xɤ˧˥ tan˥.pjɛn˥ xweɪ̯˨˩.yɛ˥ tʰweɪ̯˥˩.t͡ɕʰyn˧˥ ɕiŋ˧˥.t͡ɕiŋ˥˩ t͡ɕyn˥ ʂu˨˩˦ tweɪ̯˥˩ kwo˧˥.t͡ɕi˥˩ fǎ.ʈ͡ʂɨ˥˩ tɤ kʊŋ˥.ʐan˧˥ t͡ɕjɛn˥˩.tʰa˥˩] (Gè-guó dài-biǎo-tuán kè-shǒu 《Wéi-yě-nà Tiáo-yuē-fǎ Gōng-yuē》 què-lì de \"tiáo-yuē bì-xū zūn-shǒu\" tiě-lǜ, yán-zhèng zhǐ-chū rèn-hé dān-biān huǐ-yuē tuì-qún xíng-jìng jūn shǔ duì guó-jì fǎ-zhì de gōng-rán jiàn-tà.)",
+          "translation": "National delegations strictly adhered to the iron law of 'agreements must be kept' established by the Vienna Convention on the Law of Treaties, sternly pointing out that any acts of unilateral treaty tearing and withdrawal constitute a flagrant trampling of international rule of law."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (34.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "在联合国安理会闭门磋商中，特使秉持多边主义精神展开穿梭斡旋，推动各方在决议草案执行性条款上达成关键妥协。(Zài Liánhéguó Ānlǐhuì bìmén cuōshāng zhōng, tèshǐ bǐngchí duōbiān zhǔyì jīngshén zhǎnkāi chuānsuō wòxuán, tuījìn gèfāng zài juéyì cǎo'àn zhíxíngxìng tiáokuǎn shang dáchéng guānjiàn tuǒxié.)",
+          "reading": "[t͡saɪ̯˥˩ ljɛn˧˥.xɤ˧˥.kwo˧˥ an˥.li˨˩.xweɪ̯˥˩ pi˥˩.mən˧˥ t͡sʰwɔ˥.ʂɑŋ˥ ʈ͡ʂʊŋ˥, tʰɤ˥˩.ʂɨ˨˩˦ piŋ˨˩.ʈ͡ʂʰɨ˧˥ twɔ˥.pjɛn˥ ʈ͡ʂu˨˩.i˥˩ t͡ɕiŋ˥.ʂən˧˥ ʈ͡ʂan˨˩.kʰaɪ̯˥ t͡ʂʰwan˥.swɔ˥ wo˥˩.ɕyɛn˧˥, tʰweɪ̯˥.t͡ɕin˥˩ kɤ˥˩.fɑŋ˥ t͡saɪ̯˥˩ t͡ɕyɛ˧˥.i˥˩ t͡sʰaʊ̯˨˩.an˥˩ ʈ͡ʂɨ˧˥.ɕiŋ˧˥.ɕiŋ˥˩ tʰjaʊ̯˧˥.kʰwan˨˩˦ ʂɑŋ ta˧˥.ʈ͡ʂʰəŋ˧˥ kwan˥.t͡ɕjɛn˥ tʰwɔ˨˩.ɕjɛ˧˥] (Zài Lián-hé-guó Ān-lǐ-huì bì-mén cuō-shāng zhōng, tè-shǐ bǐng-chí duō-biān zhǔ-yì jīng-shén zhǎn-kāi chuān-suō wò-xuán, tuī-jìn gè-fāng zài jué-yì cǎo-'àn zhí-xíng-xìng tiáo-kuǎn shang dá-chéng guān-jiàn tuǒ-xié.)",
+          "translation": "During closed-door consultations at the UN Security Council, the special envoy conducted shuttle mediation upholding the spirit of multilateralism, advancing all parties to reach key compromises on operative paragraphs of the draft resolution."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (34.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "坚持在主权平等与不干涉内政原则基石上推动多边安全治理，以对话化解分歧，以协商消除争端。(Jiānchí zài zhǔquán píngděng yǔ bù gānshè nèizhèng yuánzé jīshí shang tuījìn duōbiān ānquán zhìlǐ, yǐ duìhuà huàjiě fēnqí, yǐ xiéshāng xiāochú zhēngduān.)",
+          "reading": "[t͡ɕjɛn˥.ʈ͡ʂʰɨ˧˥ t͡saɪ̯˥˩ ʈ͡ʂu˨˩.t͡ɕʰyɛn˧˥ pʰiŋ˧˥.tɤŋ˨˩˦ y˨˩˦ pu˥ kan˥.ʂɤ˥˩ neɪ̯˥˩.ʈ͡ʂəŋ˥˩ yɥɛn˧˥.t͡sɤ˧˥ t͡ɕi˥.ʂɨ˧˥ ʂɑŋ tʰweɪ̯˥.t͡ɕin˥˩ twɔ˥.pjɛn˥ an˥.t͡ɕʰyɛn˧˥ ʈ͡ʂɨ˥˩.li˨˩˦, i˨˩˦ tweɪ̯˥˩.xwa˥˩ xwa˥˩.t͡ɕjɛ˨˩˦ fən˥.t͡ɕʰi˧˥, i˨˩˦ ɕjɛ˧˥.ʂɑŋ˥ ɕjaʊ̯˥.t͡ʂʰu˧˥ ʈ͡ʂəŋ˥.twan˥] (Jiān-chí zài zhǔ-quán píng-děng yǔ bù gān-shè nèi-zhèng yuán-zé jī-shí shang tuī-jìn duō-biān ān-quán zhì-lǐ, yǐ duì-huà huà-jiě fēn-qí, yǐ xié-shāng xiāo-chú zhēng-duān.)",
+          "translation": "Persisting in promoting multilateral security governance on the bedrock of sovereign equality and non-interference in internal affairs, resolving differences through dialogue and eliminating disputes through consultation."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (34.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "联合公报的字斟句酌凝聚了多边外交官的卓越智慧，通过对敏感条款的模态限定，最大程度锁定了各方战略互信。(Liánhé gōngbào de zìzhēn-jùzhuó níngjù le duōbiān wàijiāoguān de zhuóyuè zhìhuì, tōngguò duì mǐngǎn tiáokuǎn de mótài xiàndìng, zuìdà chéngdù suǒdìng le gèfāng zhànlüè hùxìn.)",
+          "reading": "[ljɛn˧˥.xɤ˧˥ kʊŋ˥.paʊ̯˥˩ tɤ t͡sɨ˥˩.ʈ͡ʂən˥-t͡ɕy˥˩.ʈ͡ʂwɔ˧˥ niŋ˧˥.t͡ɕy˥˩ lɤ twɔ˥.pjɛn˥ waɪ̯˥˩.t͡ɕjaʊ̯˥.kwan˥ tɤ ʈ͡ʂwɔ˧˥.yɛ˥˩ ʈ͡ʂɨ˥˩.xweɪ̯˥˩, tʰʊŋ˥.kwɔ˥˩ tweɪ̯˥˩ min˨˩.kan˨˩˦ tʰjaʊ̯˧˥.kʰwan˨˩˦ tɤ mwo˧˥.tʰaɪ̯˥˩ ɕjɛn˥˩.tiŋ˥˩, tweɪ̯˥˩.ta˥˩ ʈ͡ʂʰəŋ˧˥.tu˥˩ swo˨˩.tiŋ˥˩ lɤ kɤ˥˩.fɑŋ˥ ʈ͡ʂan˥˩.lyɛ˥˩ xu˥˩.ɕin˥˩] (Lián-hé gōng-bào de zì-zhēn-jù-zhuó níng-jù le duō-biān wài-jiāo-guān de zhuó-yuè zhì-huì, tōng-guò duì mǐn-gǎn tiáo-kuǎn de mó-tài xiàn-dìng, zuì-dà chéng-dù suǒ-dìng le gè-fāng zhàn-lüè hù-xìn.)",
+          "translation": "The meticulous wording of the joint communique crystallized the outstanding wisdom of multilateral diplomats, locking in strategic mutual trust among all parties to the maximum extent through modal qualification of sensitive clauses."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "维也纳法条约遵，强行法立霸权分；安理穿梭斡旋巧，多边公报锁互信！"
+      ],
+      "culturalNotes": [
+        "作为联合国安理会常任理事国，中国始终做世界和平的建设者、全球发展的贡献者、国际秩序的维护者，坚定践行真正的多边主义。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」（第1讲）的标准汉语规范？",
+          "prompt": "1969年《维也纳条约法公约》中规定当事国对生效条约必须善意履行、不得擅自违约的最核心国际法原则是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的核心语法法则与应用范例 (34.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (34.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (34.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (34.1.w3)"
+            "条约必须遵守原则 (Pacta sunt servanda)",
+            "条约随意撕毁原则",
+            "强者通吃原则",
+            "单边制裁优先原则"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「条约必须遵守」（Pacta sunt servanda）是国际条约法与国际秩序的最核心基石。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在联合国安理会多边决议草案中，负责明确规定具体行动要求、制裁措施或维和授权的核心条款类型是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "执行性条款 / 执行性段落 (Operative Paragraphs / OPs)",
+            "序言性段落",
+            "问候语条款",
+            "新闻通稿"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "执行性条款（Operative Paragraphs）是决议中具有实质行动效力的核心部分。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的正式语境下，最准确得体的表达是哪一项？（第34.1题）",
+          "prompt": "在国际公法中，指全体国际社会公认具有绝对法律效力、不得以任何条约或保留予以克减的最高级法律规范是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (34.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (34.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (34.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (34.1.x3)"
+            "国际强行法 / 绝对法 (Jus cogens)",
+            "普通商业合同",
+            "地方民间惯例",
+            "行业协会倡议"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "强行法（Jus cogens）是国际公法中不可克减的绝对效力规范，违背强行法的条约一律无效。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u34-l1）所要求的高阶语言表达？",
+          "prompt": "外交特使在发生重大争端或武装冲突的各方之间来回穿梭沟通、传达立场以促成和平谈判的外交方式被称为：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (34.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (34.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (34.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (34.1.y3)"
+            "穿梭外交 / 多边斡旋 (Shuttle Diplomacy / Mediation)",
+            "闭门造车",
+            "隔岸观火",
+            "火上浇油"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「穿梭外交」是国际多边危机调解与和平斡旋中最经典、最富成效的高级外交手段。"
         }
       ]
     },
@@ -19916,25 +19920,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的掌握程度，请选出表述完全正确的标准范句（测试 34-1）：",
+          "prompt": "请选出下列关于多边外交、国际条约法与全球治理述评最精严、最符合国际公法规范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (34.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (34.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (34.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (34.1.z3)"
+            "多边外交与国际条约法是维系现代全球治理大厦的法治栋梁：恪守《维也纳条约法公约》「条约必须遵守」铁律与强行法效力，坚决反对单边退约与长臂管辖；在联合国安理会框架下，以审慎严谨的序言与执行性条款起草决议，借助穿梭斡旋化解地缘危机；坚持真正的多边主义与主权平等原则，在协商一致中构筑牢固的战略互信！(维也纳公约、条约必须遵守、强行法、安理会决议起草与穿梭斡旋全景精深论述)",
+            "国际法就是一纸空文，大国想撕毁条约就撕毁，不需要遵守任何规则。(严重违背国际法治常识的强权偏见)",
+            "多边外交被条约必须遵守在联合国安理会穿梭斡旋执行性条款强行法。(词语无序堆叠)",
+            "只要有了强大的军事力量，就可以完全架空联合国和国际公约。(公然践踏联合国宪章宗旨的错误言论)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段系统融贯了《维也纳条约法公约》核心原则、强行法效力、联合国决议起草与多边穿梭斡旋，国际公法语体极具专业深度。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u34-l1）的核心关键词（例如「多边外交」）：",
+          "prompt": "请输入拉丁文法谚翻译而来、作为1969年《维也纳条约法公约》核心基石的六字原则（例如「、善意履行」；拼音为 tiáoyuē bìxū zūnshǒu）：",
           "acceptedAnswers": [
-            "多边外交",
-            "多边外交、条",
-            "多边外交、条约法与全球治理"
+            "条约必须遵守",
+            "条约必须遵守原则"
           ],
-          "explanation": "正确的核心关键词为「多边外交」。"
+          "explanation": "原则「条约必须遵守」（Pacta sunt servanda）是国际条约法最核心的黄金铁律。"
         }
       ],
       "passThreshold": 0.8
@@ -19945,85 +19948,89 @@
     "subject": "mandarin",
     "unit": 34,
     "lessonNumber": 2,
-    "title": "多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT) (第2讲)",
+    "title": "国际经贸争端解决与跨国商事仲裁：WTO上诉机构、ICSID投资争端与纽约公约 (C2 Capstone WTO Disputes & International Commercial Arbitration)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：1969年维也纳条约法公约、联合国安理会多边决议起草、峰会联合公报外交辩护。 (第2部分)。",
+    "objective": "系统掌握国际经贸与投资仲裁语体、世界贸易组织争端解决机制（DSU/专家组/上诉机构/反倾销反规避）、ICSID跨国投资仲裁（征收补偿/FET）及1958年《纽约公约》裁决承认执行公法语体。",
     "presentation": {
-      "explanation": "",
+      "explanation": "国际经济法与商事仲裁是规范全球经贸投资往来、定分止争的核心法律武器：\n\n一、世界贸易组织（WTO）争端解决机制（DSU）：\n1.【争端解决程序】：\n- 必经的双边磋商 -> 设立专家组（Panel Report）审理事实 -> 上诉机构（Appellate Body）进行法律审理 -> 争端解决机构（DSB）通过报告 -> 监督执行与交叉报复授权。\n2.【非歧视与贸易救济核心规则】：\n- 最惠国待遇（MFN）、国民待遇（NT）、关税约束；反倾销（Anti-dumping）、反补贴（Countervailing）与保障措施（Safeguards）。\n\n二、跨国投资争端与 ICSID 仲裁：\n1.【双边投资协定（BIT）保护】：\n- 公平公正待遇（Fair and Equitable Treatment, FET）、最惠国待遇、充分安全与保护。\n2.【征收与补偿标准】：\n- 禁止非法征收（直接征收/间接规制征收）；合法征收必须符合公共利益、非歧视、依照正当法律程序并给予「迅速、充分、有效」的合理补偿。\n\n三、1958年《纽约公约》与商事仲裁裁决执行：\n- 全称《承认及执行外国仲裁裁决公约》，在170余个缔约国间建立起仲裁裁决相互承认与强制执行的全球网络；严格限制「公共政策例外」（Public Policy Exception）抗辩，保障仲裁裁决终局性。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的核心语法法则与应用范例 (34.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)' in simple terms to students at the academic seminar."
+          "target": "针对个别成员国滥用单边关税措施的行为，我方依法向WTO争端解决机制提起诉讼，坚定捍卫多边贸易体制的权威性与有效性。(Zhènduì gèbié chéngyuánguó lànyòng dānbiān guānshuì cuòshī de xíngwéi, wǒfāng yīfǎ xiàng WTO zhēngduān jiějué jīzhì tíqǐ sùsòng, jiāndìng hànwèi duōbiān màoyì tǐzhì de quánwēixìng yǔ yǒuxiàoxìng.)",
+          "reading": "[ʈ͡ʂən˥˩.tweɪ̯˥˩ kɤ˥˩.pjɛ˧˥ ʈ͡ʂʰəŋ˧˥.yɥɛn˧˥.kwo˧˥ lan˥˩.jʊŋ˥˩ tan˥.pjɛn˥ kwan˥.ʂweɪ̯˥˩ t͡sʰwɔ˥˩.ʂɨ˥ tɤ ɕiŋ˧˥.weɪ̯˧˥, wwo˨˩˦.fɑŋ˥ i˥.fa˨˩˦ ɕjaŋ˥˩ WTO ʈ͡ʂəŋ˥.twan˥ t͡ɕjɛ˨˩.t͡ɕyɛ˧˥ t͡ɕi˥.ʈ͡ʂɨ˥ tʰi˨˩.t͡ɕʰi˨˩˦ su˥˩.sʊŋ˥˩, t͡ɕjɛn˥.tiŋ˥˩ xan˥˩.weɪ̯˥˩ twɔ˥.pjɛn˥ maʊ̯˥˩.i˥˩ tǐ.ʈ͡ʂɨ˥ tɤ t͡ɕʰyɛn˧˥.weɪ̯˥.ɕiŋ˥˩ y˨˩˦ joʊ̯˨˩˦.ɕjaʊ̯˥˩.ɕiŋ˥˩] (Zhèn-duì gè-bié chéng-yuán-guó làn-yòng dān-biān guān-shuì cuò-shī de xíng-wéi, wǒ-fāng yī-fǎ xiàng WTO zhēng-duān jiě-jué jī-zhì tí-qǐ sù-sòng, jiān-dìng hàn-wèi duō-biān mào-yì tǐ-zhì de quán-wēi-xìng yǔ yǒu-xiào-xìng.)",
+          "translation": "Addressing individual member states' abuse of unilateral tariff measures, our side filed a complaint with the WTO dispute settlement mechanism according to law, firmly defending the authority and effectiveness of the multilateral trading system."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (34.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "仲裁庭依据1958年《纽约公约》审理跨国商事纠纷，其作出的终局裁决在百余个缔约国范围内具有强制执行力。(Zhòngcáitíng yījù 1958 nián 《Niǔyuē Gōngyuē》 shěnlǐ kuàguó shāngshì jiūfēn, qí zuòchū de zhōngjú cáijué zài bǎiyú gè dìyuēguó fànwéi nèi jùyǒu qiángzhì zhíxínglì.)",
+          "reading": "[ʈ͡ʂʊŋ˥˩.t͡sʰaɪ̯˧˥.tʰiŋ˧˥ i˥.t͡ɕy˥˩ 1958 njɛn˧˥ 《njoʊ̯˨˩.yɛ˥ kʊŋ˥.yɛ˥》 ʂən˨˩.li˨˩˦ kʰwa˥˩.kwo˧˥ ʂɑŋ˥.ʂɨ˥˩ t͡ɕjoʊ̯˥.fən˥, t͡ɕʰi˧˥ t͡swɔ˥˩.t͡ʂʰu˥ tɤ ʈ͡ʂʊŋ˥.t͡ɕy˧˥ t͡sʰaɪ̯˧˥.t͡ɕyɛ˧˥ t͡saɪ̯˥˩ paɪ̯˨˩.y˧˥ kɤ˥˩ ti˥˩.yɛ˥.kwo˧˥ fan˥˩.weɪ̯˧˥ neɪ̯˥˩ t͡ɕy˥˩.joʊ̯˨˩˦ t͡ɕʰjaŋ˧˥.ʈ͡ʂɨ˥˩ ʈ͡ʂɨ˧˥.ɕiŋ˧˥.li˨˩˦] (Zhòng-cái-tíng yī-jù 1958 nián 《Niǔ-yuē Gōng-yuē》 shěn-lǐ kuà-guó shāng-shì jiū-fēn, qí zuò-chū de zhōng-jú cái-jué zài bǎi-yú gè dì-yuē-guó fàn-wéi nèi jù-yǒu qiáng-zhì zhí-xíng-lì.)",
+          "translation": "The arbitral tribunal heard the cross-border commercial dispute in accordance with the 1958 New York Convention, whose final award possesses binding enforcement power across more than a hundred contracting states."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (34.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "在双边投资协定项下的特许权争端中，首席仲裁员严格厘清直接征收与间接征收的法律边界，公正裁定合理补偿数额。(Zài shuāngbiān tóuzī xiédìng xiàngxià de tèxǔquán zhēngduān zhōng, shǒuxí zhòngcáiyuán yángé lǐqīng zhíjiē zhēngshōu yǔ jiànjiē zhēngshōu de fǎlǜ biānjiè, gōngzhèng cáidìng hélǐ bǔcháng shù'é.)",
+          "reading": "[t͡saɪ̯˥˩ ʂwaŋ˥.pjɛn˥ tʰoʊ̯˧˥.t͡sɨ˥ ɕjɛ˧˥.tiŋ˥˩ ɕjaŋ˥˩.ɕja˥˩ tɤ tʰɤ˥˩.ɕy˨˩.t͡ɕʰyɛn˧˥ ʈ͡ʂəŋ˥.twan˥ ʈ͡ʂʊŋ˥, ʂoʊ̯˨˩.ɕi˧˥ ʈ͡ʂʊŋ˥˩.t͡sʰaɪ̯˧˥.yɥɛn˧˥ jan˧˥.kɤ˧˥ li˧˥.t͡ɕʰiŋ˥ ʈ͡ʂɨ˧˥.t͡ɕjɛ˥ ʈ͡ʂəŋ˥.ʂoʊ̯˥ y˨˩˦ t͡ɕjɛn˥˩.t͡ɕjɛ˥ ʈ͡ʂəŋ˥.ʂoʊ̯˥ tɤ fǎ.ly˥˩ pjɛn˥.t͡ɕjɛ˥˩, kʊŋ˥.ʈ͡ʂəŋ˥˩ t͡sʰaɪ̯˧˥.tiŋ˥˩ xɤ˧˥.li˨˩˦ pu˨˩.t͡ʂʰɑŋ˧˥ ʂu˥˩.ɤ˧˥] (Zài shuāng-biān tóu-zī xié-dìng xiàng-xià de tè-xǔ-quán zhēng-duān zhōng, shǒu-xí zhòng-cái-yuán yán-gé lǐ-qīng zhí-jiē zhēng-shōu yǔ jiàn-jiē zhēng-shōu de fǎ-lǜ biān-jiè, gōng-zhèng cái-dìng hé-lǐ bǔ-cháng shù-'é.)",
+          "translation": "In the concession dispute under the bilateral investment treaty, the presiding arbitrator strictly clarified the legal boundaries between direct and indirect expropriation, impartially determining the reasonable compensation amount."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (34.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "排除贸易救济措施中的政治化操弄，恪守非歧视原则与透明度规则，是维系全球产业链供应链稳定畅通的基石。(Páichú màoyì jiùjì cuòshī zhōng de zhèngzhìhuà cāonòng, kèshǒu fēi-qíshì yuánzé yǔ tòumíngdù guīzé, shì wéixì quánqiú chǎnyèliàn gōngyìngliàn wěndìng chàngtōng de jīshí.)",
+          "reading": "[pʰaɪ̯˧˥.t͡ʂʰu˥ maʊ̯˥˩.i˥˩ t͡ɕjoʊ̯˥˩.t͡ɕi˥˩ t͡sʰwɔ˥˩.ʂɨ˥ ʈ͡ʂʊŋ˥ tɤ ʈ͡ʂəŋ˥˩.ʈ͡ʂɨ˥˩.xwa˥˩ t͡sʰaʊ̯˥.nʊŋ˥˩, kʰɤ˥˩.ʂoʊ̯˨˩˦ feɪ̯˥-t͡ɕʰi˧˥.ʂɨ˥˩ yɥɛn˧˥.t͡sɤ˧˥ y˨˩˦ tʰoʊ̯˥˩.miŋ˧˥.tu˥˩ kweɪ̯˥.t͡sɤ˧˥, ʂɨ˥˩ weɪ̯˧˥.ɕi˥˩ t͡ɕʰyɛn˧˥.t͡ɕʰjoʊ̯˧˥ t͡ʂʰan˨˩.jɛ˥˩.ljɛn˥˩ kʊŋ˥.iŋ˥˩.ljɛn˥˩ wən˨˩.tiŋ˥˩ t͡ʂʰɑŋ˥˩.tʰʊŋ˥ tɤ t͡ɕi˥.ʂɨ˧˥] (Pái-chú mào-yì jiù-jì cuò-shī zhōng de zhèng-zhì-huà cāo-nòng, kè-shǒu fēi-qí-shì yuán-zé yǔ tòu-míng-dù guī-zé, shì wéi-xì quán-qiú chǎn-yè-liàn gōng-yìng-liàn wěn-dìng chàng-tōng de jī-shí.)",
+          "translation": "Eliminating politicized manipulation in trade remedy measures and abiding by non-discrimination principles and transparency rules are bedrocks for maintaining the stability and smooth flow of global industrial and supply chains."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "WTO上诉争端明，非歧国民待遇迎；纽约公约裁决执，投资仲裁法网清！"
+      ],
+      "culturalNotes": [
+        "中国最高人民法院设立国际商事法庭（CICC），首创国际商事纠纷多元化解决机制（诉讼、仲裁、调解一站式对接），展现了积极参与全球经济治理的法治担当。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」（第2讲）的标准汉语规范？",
+          "prompt": "在世界贸易组织（WTO）核心法律框架中，要求对来自任何成员方的进口产品给予不低于其他任何国家同类产品待遇的原则是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的核心语法法则与应用范例 (34.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (34.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (34.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (34.2.w3)"
+            "最惠国待遇原则 (Most-Favored-Nation Treatment, MFN)",
+            "单边关税报复原则",
+            "闭关锁国原则",
+            "差别歧视待遇原则"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "最惠国待遇（MFN）与国民待遇（NT）构成了WTO多边非歧视贸易体制的两大基石。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在国际跨国商事仲裁领域，使终局仲裁裁决能够在全球170多个缔约国获得承认与强制执行的最关键国际公约是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "1958年《纽约公约》 (1958 New York Convention)",
+            "《凡尔赛和约》",
+            "《巴黎协定》",
+            "《国际海关公约》"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "1958年《承认及执行外国仲裁裁决公约》（《纽约公约》）是国际商事仲裁全球执行力的基石。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的正式语境下，最准确得体的表达是哪一项？（第34.2题）",
+          "prompt": "在双边投资协定（BIT）与跨国投资仲裁中，要求东道国给予外国投资者的待遇不得低于国际法最低标准的保护条款是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (34.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (34.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (34.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (34.2.x3)"
+            "公平公正待遇 (Fair and Equitable Treatment, FET)",
+            "随意没收条款",
+            "免除全部赋税条款",
+            "强制国有化条款"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "公平公正待遇（FET）是跨国投资保护仲裁中被援引最为频繁、争议最大的核心保护标准。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u34-l2）所要求的高阶语言表达？",
+          "prompt": "WTO争端解决机制中，负责对专家组报告进行法律审查、被誉为多边贸易体制「最高法院」的常设机构是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (34.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (34.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (34.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (34.2.y3)"
+            "上诉机构 (Appellate Body)",
+            "秘书处后勤部",
+            "国际刑警组织",
+            "国际海事组织"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "WTO上诉机构（Appellate Body）负责审理法律问题与专家组适用规则，是世贸争端皇冠上的明珠。"
         }
       ]
     },
@@ -20031,25 +20038,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的掌握程度，请选出表述完全正确的标准范句（测试 34-2）：",
+          "prompt": "请选出下列关于WTO经贸争端解决与跨国商事仲裁体系评述最透彻、公法语义最规范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (34.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (34.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (34.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (34.2.z3)"
+            "国际经贸法治是维护全球产业链稳定与自由贸易的核心保障：WTO争端解决机制恪守最惠国与国民待遇非歧视准则，以上诉机构保障多边裁决权威；跨国投资仲裁严格界定征收补偿与公平公正待遇（FET）边界，平衡东道国主权与投资者合法权益；1958年《纽约公约》搭建起跨国商事裁决全球承认执行的法治天网。法治化营商环境构筑起全球经济繁荣的坚实基石！(WTO争端解决、非歧视原则、投资仲裁征收与FET、纽约公约全球执行全景精深总结)",
+            "跨国做生意只要有钱有势就行，WTO和仲裁机构根本管不着。(彻底违背国际经济法常识)",
+            "WTO争端解决被最惠国待遇在上诉机构纽约公约执行投资仲裁。(概念杂乱堆砌乱码)",
+            "任何国家都可以随时无偿没收外国投资者的所有资产，国际法完全允许。(公然违背国际投资法与征收补偿标准)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段系统总结了世贸非歧视原则、争端解决机制、跨国投资征收与FET保护、以及《纽约公约》的全球执行力，立论严正，专业性极强。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u34-l2）的核心关键词（例如「多边外交」）：",
+          "prompt": "请输入使外国商事仲裁裁决在全球170余个缔约国获得承认与强制执行的1958年核心国际公约简称（例如「公约」；拼音为 Niǔyuē Gōngyuē）：",
           "acceptedAnswers": [
-            "多边外交",
-            "多边外交、条",
-            "多边外交、条约法与全球治理"
+            "纽约公约",
+            "《纽约公约》"
           ],
-          "explanation": "正确的核心关键词为「多边外交」。"
+          "explanation": "《纽约公约》（New York Convention）是国际商事仲裁裁决跨境承认与执行的最高法律依据。"
         }
       ],
       "passThreshold": 0.8
@@ -20060,85 +20066,89 @@
     "subject": "mandarin",
     "unit": 34,
     "lessonNumber": 3,
-    "title": "多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT) (第3讲)",
+    "title": "跨文明互鉴与人类命运共同体哲学：文明多样性、和而不同与全人类共同价值 (C2 Capstone Dialogue among Civilizations & Shared Future)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：1969年维也纳条约法公约、联合国安理会多边决议起草、峰会联合公报外交辩护。 (第3部分)。",
+    "objective": "系统掌握跨文明对话哲学、东方「和而不同/美美与共」包容理念、人类命运共同体思想体系（五位一体世界图景）、全球三大倡议（发展/安全/文明倡议）及高端外交哲学语体。",
     "presentation": {
-      "explanation": "",
+      "explanation": "面对世界百年未有之大变局，跨文明交流互鉴与人类命运共同体思想为人类走向光明未来提供了东方智慧与终极方案：\n\n一、文明多样性与跨文明互鉴观：\n1.【文明平等与多样性】：\n- 一花独放不是春，百花齐放春满园。文明没有高下、优劣之分，只有特色、地域之别。\n- 坚决摒弃「文明冲突论」（Clash of Civilizations）与「文明优越论」，倡导文明交流超越文明隔阂、文明互鉴超越文明冲突、文明包容超越文明优越。\n2.【东方哲学精髓——美美与共】：\n- 费孝通十六字箴言：「各美其美，美人之美，美美与共，天下大同。」\n- 孔子「君子和而不同，小人同而不和」：在保持自身文明独特性的同时包容欣赏他者文明。\n\n二、人类命运共同体与全球三大倡议：\n1.【五位一体世界蓝图】：\n- 建设持久和平、普遍安全、共同繁荣、开放包容、清洁美丽的世界。\n2.【全人类共同价值】：\n- 和平、发展、公平、正义、民主、自由（超越西方中心主义狭隘定义）。\n3.【全球三大倡议新支柱】：\n- 全球发展倡议（GDI）、全球安全倡议（GSI）、全球文明倡议（GCI）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的核心语法法则与应用范例 (34.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)' in simple terms to students at the academic seminar."
+          "target": "文明因多样而交流，因交流而互鉴，因互鉴而发展；我们坚决反对任何形式的「文明冲突论」与文明优越论！(Wénmíng yīn duōyàng ér jiāoliú, yīn jiāoliú ér hùjiàn, yīn hùjiàn ér fāzhǎn; wǒmen jiānjué fǎnduì rènhé xíngshì de \"wénmíng chōngtūlùn\" yǔ wénmíng yōuyuèlùn!)",
+          "reading": "[wən˧˥.miŋ˧˥ in˥ twɔ˥.jɑŋ˥˩ ɑr˧˥ t͡ɕjaʊ̯˥.ljoʊ̯˧˥, in˥ t͡ɕjaʊ̯˥.ljoʊ̯˧˥ ɑr˧˥ xu˥˩.t͡ɕjɛn˥˩, in˥ xu˥˩.t͡ɕjɛn˥˩ ɑr˧˥ fa˥.ʈ͡ʂan˨˩˦; wwo˨˩˦.mən t͡ɕjɛn˥.t͡ɕyɛ˧˥ fan˨˩.tweɪ̯˥˩ ʐən˥˩.xɤ˧˥ ɕiŋ˧˥.ʂɨ˥˩ tɤ \"wən˧˥.miŋ˧˥ ʈ͡ʂʰʊŋ˥.tʰu˥.lwən˥˩\" y˨˩˦ wən˧˥.miŋ˧˥ joʊ̯˥.yɛ˥˩.lwən˥˩] (Wén-míng yīn duō-yàng ér jiāo-liú, yīn jiāo-liú ér hù-jiàn, yīn hù-jiàn ér fā-zhǎn; wǒ-men jiān-jué fǎn-duì rèn-hé xíng-shì de \"wén-míng chōng-tū-lùn\" yǔ wén-míng yōu-yuè-lùn!)",
+          "translation": "Civilizations exchange because of diversity, learn from each other through exchange, and develop through mutual learning; we resolutely oppose any form of the 'clash of civilizations' and theory of civilizational superiority!"
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (34.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "秉持「和而不同，美美与共」的东方哲学博大胸襟，推动不同文明在交流对话中取长补短、共同进步。(Bǐngchí \"hé ér bù tóng, měi měi yǔ gòng\" de Dōngfāng zhéxué bódà xiōngjīn, tuījìn bùtóng wénmíng zài jiāoliú duìhuà zhōng qǔcháng-bǔduǎn, gòngtóng jìnbù.)",
+          "reading": "[piŋ˨˩.ʈ͡ʂʰɨ˧˥ \"xɤ˧˥ ɑr˧˥ pu˥ tʰʊŋ˧˥, meɪ̯˨˩˦ meɪ̯˨˩˦ y˨˩˦ kʊŋ˥˩\" tɤ tʊŋ˥.fɑŋ˥ ʈ͡ʂɤ˧˥.ɕɥɛ˧˥ pwo˧˥.ta˥˩ ɕjʊŋ˥.t͡ɕin˥, tʰweɪ̯˥.t͡ɕin˥˩ pu˥.tʰʊŋ˧˥ wən˧˥.miŋ˧˥ t͡saɪ̯˥˩ t͡ɕjaʊ̯˥.ljoʊ̯˧˥ tweɪ̯˥˩.xwa˥˩ ʈ͡ʂʊŋ˥ t͡ɕʰy˨˩.ʈ͡ʂʰɑŋ˧˥-pu˨˩.twan˨˩˦, koʊŋ˥˩.tʰʊŋ˧˥ t͡ɕin˥˩.pu˥˩] (Bǐng-chí \"hé ér bù tóng, měi měi yǔ gòng\" de Dōng-fāng zhé-xué bó-dà xiōng-jīn, tuī-jìn bù-tóng wén-míng zài jiāo-liú duì-huà zhōng qǔ-cháng-bǔ-duǎn, gòng-tóng jìn-bù.)",
+          "translation": "Upholding the broad-minded Eastern philosophy of 'harmony without uniformity, appreciating all diverse beauties', we promote diverse civilizations to learn from each other's strengths and advance together through dialogue."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (34.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "携手构建人类命运共同体，统筹推进全球发展倡议、全球安全倡议与全球文明倡议，开创人类更加美好的明天！(Xiéshǒu gòujiàn rénlèi mìngyùn gòngtóngtǐ, tǒngchóu tuījìn Quánqiú Fāzhǎn Chàngyì, Quánqiú Ānquán Chàngyì yǔ Quánqiú Wénmíng Chàngyì, kāichuàng rénlèi gèngjiā měihǎo de míngtiān!)",
+          "reading": "[ɕjɛ˧˥.ʂoʊ̯˨˩˦ koʊ̯˥˩.t͡ɕjɛn˥˩ ʐən˧˥.leɪ̯˥˩ miŋ˥˩.yn˥˩ koʊŋ˥˩.tʰʊŋ˧˥.tʰi˨˩˦, tʰʊŋ˨˩.t͡ʂʰoʊ̯˧˥ tʰweɪ̯˥.t͡ɕin˥˩ t͡ɕʰyɛn˧˥.t͡ɕʰjoʊ̯˧˥ fa˥.ʈ͡ʂan˨˩˦ t͡ʂʰɑŋ˥˩.i˥˩, t͡ɕʰyɛn˧˥.t͡ɕʰjoʊ̯˧˥ an˥.t͡ɕʰyɛn˧˥ t͡ʂʰɑŋ˥˩.i˥˩ y˨˩˦ t͡ɕʰyɛn˧˥.t͡ɕʰjoʊ̯˧˥ wən˧˥.miŋ˧˥ t͡ʂʰɑŋ˥˩.i˥˩, kʰaɪ̯˥.t͡ʂʰwaŋ˥˩ ʐən˧˥.leɪ̯˥˩ kəŋ˥˩.t͡ɕja˥ meɪ̯˨˩˦.xaʊ̯˨˩˦ tɤ miŋ˧˥.tʰjɛn˥] (Xié-shǒu gòu-jiàn rén-lèi mìng-yùn gòng-tóng-tǐ, tǒng-chóu tuī-jìn Quán-qiú Fā-zhǎn Chàng-yì, Quán-qiú Ān-quán Chàng-yì yǔ Quán-qiú Wén-míng Chàng-yì, kāi-chuàng rén-lèi gèng-jiā měi-hǎo de míng-tiān!)",
+          "translation": "Joining hands to build a community with a shared future for humanity, comprehensively promoting the Global Development Initiative, Global Security Initiative, and Global Civilization Initiative to open up a brighter tomorrow for mankind!"
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (34.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "全人类共同价值跨越了意识形态鸿沟，为应对全球气候变化、公共卫生等人类面临的共同挑战凝聚起最广泛的合作力量。(Quán rénlèi gòngtóng jiàzhí kuàyuè le yìshí-xíngtài hónggōu, wèi yìngduì quánqiú qìhòu biànhuà, gōnggòng wèishēng děng rénlèi miànlín de gòngtóng tiǎozhàn níngjù qǐ zuì guǎnfàn de hézuò lìliàng.)",
+          "reading": "[t͡ɕʰyɛn˧˥ ʐən˧˥.leɪ̯˥˩ koʊŋ˥˩.tʰʊŋ˧˥ t͡ɕja˥˩.ʈ͡ʂɨ˧˥ kʰwa˥˩.yɛ˥˩ lɤ i˥˩.ʂɨ˧˥-ɕiŋ˧˥.tʰaɪ̯˥˩ xʊŋ˧˥.koʊ̯˥, weɪ̯˥˩ iŋ˥˩.tweɪ̯˥˩ t͡ɕʰyɛn˧˥.t͡ɕʰjoʊ̯˧˥ t͡ɕʰi˥˩.xoʊ̯˥˩ pjɛn˥˩.xwa˥˩, kʊŋ˥.kʊŋ˥˩ weɪ̯˥˩.ʂəŋ˥ təŋ˨˩˦ ʐən˧˥.leɪ̯˥˩ mjɛn˥˩.lin˧˥ tɤ koʊŋ˥˩.tʰʊŋ˧˥ tʰjaʊ̯˨˩.ʈ͡ʂan˥˩ niŋ˧˥.t͡ɕy˥˩ t͡ɕʰi˨˩˦ tweɪ̯˥˩ kwan˨˩.fan˥˩ tɤ xɤ˧˥.t͡swɔ˥˩ li˥˩.ljaŋ˥˩] (Quán rén-lèi gòng-tóng jià-zhí kuà-yuè le yì-shí-xíng-tài hóng-gōu, wèi yìng-duì quán-qiú qì-hòu biàn-huà, gōng-gòng wèi-shēng děng rén-lèi miàn-lín de gòng-tóng tiǎo-zhàn níng-jù qǐ zuì guǎng-fàn de hé-zuò lì-liàng.)",
+          "translation": "The common values of all humanity bridged ideological chasms, rallying the broadest cooperative strength to tackle shared challenges confronting humankind such as global climate change and public health."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "文明互鉴破冲突，和而不同天下服；共同命运三大议，美美与共大同图！"
+      ],
+      "culturalNotes": [
+        "费孝通先生提出的「各美其美，美人之美，美美与共，天下大同」，深刻揭示了人类文明交流互鉴的终极真谛。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」（第3讲）的标准汉语规范？",
+          "prompt": "中国著名社会学家费孝通先生提出的关于不同文明包容互鉴、迈向天下大同的经典十六字名言是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的核心语法法则与应用范例 (34.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (34.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (34.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (34.3.w3)"
+            "各美其美，美人之美，美美与共，天下大同 (Appreciate own beauty, respect others' beauty, harmonizing beauties for universal harmony)",
+            "唯我独尊，唯我最高，消灭异己，独步天下",
+            "盲目跟风，崇洋媚外，全盘西化，丧失自我",
+            "闭门造车，拒绝交流，老死不相往来"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「各美其美，美人之美，美美与共，天下大同」是中国文明对话与文化包容理论的最高典范。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "人类命运共同体思想中提出的凝聚全人类共识的六大核心「全人类共同价值」是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "和平、发展、公平、正义、民主、自由 (Peace, development, fairness, justice, democracy, freedom)",
+            "霸权、强权、制裁、封锁、对抗、冷战",
+            "金钱、利益、特权、垄断、竞争、零和",
+            "武力、威胁、干涉、操纵、偏见、排他"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "和平、发展、公平、正义、民主、自由是全人类共同价值，超越了狭隘的西方中心论。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的正式语境下，最准确得体的表达是哪一项？（第34.3题）",
+          "prompt": "孔子在《论语》中提出的关于君子追求内在和谐却不盲目苟同的著名为人处世与文明交往原则是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (34.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (34.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (34.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (34.3.x3)"
+            "君子和而不同 (The gentleman seeks harmony without uniformity)",
+            "君子同流合污",
+            "小人孤芳自赏",
+            "唯唯诺诺随大流"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「君子和而不同」强调在多样性中寻求和谐，在保持独立个性的同时包容差异。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u34-l3）所要求的高阶语言表达？",
+          "prompt": "当代中国面向全球治理提出的「全球三大倡议」指的是全球发展倡议、全球安全倡议以及：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (34.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (34.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (34.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (34.3.y3)"
+            "全球文明倡议 (Global Civilization Initiative / GCI)",
+            "全球贸易保护倡议",
+            "全球单边制裁倡议",
+            "全球关税壁垒倡议"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "全球文明倡议（GCI）倡导尊重世界文明多样性，坚持文明平等、互鉴、对话、包容。"
         }
       ]
     },
@@ -20146,25 +20156,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的掌握程度，请选出表述完全正确的标准范句（测试 34-3）：",
+          "prompt": "请选出下列关于跨文明互鉴与人类命运共同体思想体系论述格局最宏大、哲思最深邃的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (34.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (34.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (34.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (34.3.z3)"
+            "文明因多样而精彩，因互鉴而辉煌：摒弃文明冲突与优越论，恪守「和而不同」与「美美与共」的东方包容胸襟；以和平、发展、公平、正义、民主、自由的全人类共同价值凝聚全球共识；统筹推进全球发展倡议、全球安全倡议与全球文明倡议，携手建设持久和平、普遍安全、共同繁荣、开放包容、清洁美丽的人类命运共同体！(文明多样性、美美与共、全人类共同价值、三大倡议与命运共同体五位一体全景精湛总结)",
+            "世界上只有一种文明是高级的，其他文明都必须被彻底同化改造。(极其危险狭隘的极端种族偏见)",
+            "人类命运共同体被文明互鉴在和而不同美美与共全人类共同价值三大倡议。(词句无序拼凑乱码)",
+            "各国之间只有残酷你死我活的零和博弈，任何国际合作和人类共同价值都是骗人的。(极端丛林法则悲观论调)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段全景融通了跨文明多样性、和而不同美学、全人类共同价值、全球三大倡议与人类命运共同体宏伟蓝图，格局高瞻远瞩，思想磅礴深邃。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u34-l3）的核心关键词（例如「多边外交」）：",
+          "prompt": "请输入著名社会学家费孝通概括跨文明包容互鉴至高境界的十六字箴言中的核心后八字（例如「各美其美，美人之美，；拼音为 měi měi yǔ gòng, tiānxià dàtóng）：",
           "acceptedAnswers": [
-            "多边外交",
-            "多边外交、条",
-            "多边外交、条约法与全球治理"
+            "美美与共天下大同",
+            "美美与共，天下大同"
           ],
-          "explanation": "正确的核心关键词为「多边外交」。"
+          "explanation": "名句「美美与共，天下大同」高度概括了中华文明包容万方、追求全人类共同美好未来的崇高理想。"
         }
       ],
       "passThreshold": 0.8
@@ -20175,85 +20184,89 @@
     "subject": "mandarin",
     "unit": 34,
     "lessonNumber": 4,
-    "title": "多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT) (第4讲)",
+    "title": "同声传译与高阶外交公文修辞：双语思维瞬时转换、意译增补与典雅金句外交 (C2 Capstone Simultaneous Interpreting & High Diplomatic Rhetoric)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：1969年维也纳条约法公约、联合国安理会多边决议起草、峰会联合公报外交辩护。 (第4部分)。",
+    "objective": "系统掌握国际同声传译（SI）高阶实战法则（顺句驱动/意群断句/认知负荷分配/意译增补）、先秦诗词古文汉英瞬时互译转换、外交公文严正典雅语体与国家首席翻译官修辞风范。",
     "presentation": {
-      "explanation": "",
+      "explanation": "同声传译与高端外交公文是跨语言跨文化交流皇冠上的璀璨明珠：\n\n一、同声传译（Simultaneous Interpreting, SI）四大黄金法则：\n1.【顺句驱动原则（Linear Order Processing）】：\n- 摆脱汉英句式倒装束缚，按照原语意群先后顺序切分（Chunking），以主谓宾动态短句顺流直译，实现毫秒级超低延迟（EVS: Ear-Voice Span 2-3秒）。\n2.【认知负荷管理（Cognitive Load Management）】：\n- 听辨理解、短时记忆、转译产出与自我监控四线程精准平衡，运用预测机制（Anticipation）预判句末动词与逻辑走向。\n3.【意译增补与修辞重构（Paraphrasing & Explicitation）】：\n- 针对中国特有政经术语与成语典故，采用「直译内涵+增补背景」策略（如将「咬定青山不放松」译为保持战略定力与坚韧执着）。\n\n二、高阶外交公文与金句翻译修辞规范：\n1.【极严谨的政治分寸感】：\n- 严格区分「严重关切」「坚决反对」「严正交涉」「强烈谴责」等外交措辞梯度。\n2.【典雅诗性金句的跨文化再创造】：\n- 如「海内存知己，天涯若比邻」「遇山开路，遇水架桥」「沉舟侧畔千帆过，病树前头万木春」，以精炼有力的现代译语传递深邃千古文心。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的核心语法法则与应用范例 (34.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)' in simple terms to students at the academic seminar."
+          "target": "同声传译员在多边首脑峰会上展现出高超的顺句驱动与意群切分技巧，瞬时化解认知负荷，实现了毫秒级精准信实传译。(Tóngshēng chuányìyuán zài duōbiān shǒunǎo fēnghuì shang zhǎnxiàn chū gāochāo de shùnjù-qūdòng yǔ yìqún qiēfēn jìqiǎo, shùnjiān huàjiě rènzhī fùhè, shíxiàn le háomiǎojí jīngzhǔn xìnshí chuányì.)",
+          "reading": "[tʰʊŋ˧˥.ʂəŋ˥ t͡ʂʰwan˧˥.i˥˩.yɥɛn˧˥ t͡saɪ̯˥˩ twɔ˥.pjɛn˥ ʂoʊ̯˨˩.naʊ̯˨˩˦ fəŋ˥.xweɪ̯˥˩ ʂɑŋ ʈ͡ʂan˨˩.ɕjɛn˥˩ t͡ʂʰu˥ kaʊ̯˥.t͡ʂʰaʊ̯˥ tɤ ʂwn˥˩.t͡ɕy˥˩-t͡ɕʰy˥.tʊŋ˥˩ y˨˩˦ i˥˩.t͡ɕʰyn˧˥ t͡ɕʰjɛ˥.fən˥ t͡ɕi˥.t͡ɕʰjaʊ̯˨˩˦, ʂwn˥˩.t͡ɕjɛn˥ xwa˥˩.t͡ɕjɛ˨˩˦ ʐən˥˩.ʈ͡ʂɨ˥ fu˥˩.xɤ˥˩, ʂɨ˧˥.ɕjɛn˥˩ lɤ xaʊ̯˧˥.mjaʊ̯˨˩.t͡ɕi˧˥ t͡ɕiŋ˥.ʈ͡ʂwn˨˩˦ ɕin˥˩.ʂɨ˧˥ t͡ʂʰwan˧˥.i˥˩] (Tóng-shēng chuán-yì-yuán zài duō-biān shǒu-nǎo fēng-huì shang zhǎn-xiàn chū gāo-chāo de shùn-jù-qū-dòng yǔ yì-qún qiē-fēn jì-qiǎo, shùn-jiān huà-jiě rèn-zhī fù-hè, shí-xiàn le háo-miǎo-jí jīng-zhǔn xìn-shí chuán-yì.)",
+          "translation": "The simultaneous interpreter demonstrated superb linear order processing and chunking skills at the multilateral summit, instantly relieving cognitive load and achieving millisecond-level accurate and faithful interpretation."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (34.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "面对发言人即兴引用的先秦古典诗词名句，高级译员举重若轻地完成跨文化意义重构，令外方代表拍案叫绝。(Miànduì fāyánrén jíxìng yǐnyòng de xiān-Qín gǔdiǎn shīcí míngjù, gāojí yìyuán jǔzhòng-ruòqīng de wánchéng kuà-wénhuà yìyì chónggòu, lìng wàifāng dàibiǎo pāi'àn-jiàojué.)",
+          "reading": "[mjɛn˥˩.tweɪ̯˥˩ fa˥.jan˧˥.ʐən˧˥ t͡ɕi˧˥.ɕiŋ˥˩ in˨˩.jʊŋ˥˩ tɤ ɕjɛn˥-t͡ɕʰin˧˥ ku˨˩.tjɛn˨˩˦ ʂɨ˥.t͡sʰɨ˧˥ miŋ˧˥.t͡ɕy˥˩, kaʊ̯˥.t͡ɕi˧˥ i˥˩.yɥɛn˧˥ t͡ɕy˨˩˦.ʈ͡ʂʊŋ˥˩-ʐwɔ˥˩.t͡ɕʰiŋ˥ tɤ wan˧˥.ʈ͡ʂʰəŋ˧˥ kʰwa˥˩-wən˧˥.xwa˥˩ i˥˩.i˥˩ ʈ͡ʂʰʊŋ˧˥.koʊ̯˥˩, liŋ˥˩ waɪ̯˥˩.fɑŋ˥ taɪ̯˥˩.pjaʊ̯˨˩˦ pʰaɪ̯˥.an˥˩-t͡ɕjaʊ̯˥˩.t͡ɕyɛ˧˥] (Miàn-duì fā-yán-rén jí-xìng yǐn-yòng de xiān-Qín gǔ-diǎn shī-cí míng-jù, gāo-jí yì-yuán jǔ-zhòng-ruò-qīng de wán-chéng kuà-wén-huà yì-yì chóng-gòu, lìng wài-fāng dài-biǎo pāi-'àn-jiào-jué.)",
+          "translation": "Confronting the spokesperson's impromptu quotation of pre-Qin classical poetry, the senior interpreter effortlessly accomplished cross-cultural reconstruction of meaning, earning profound admiration from foreign delegates."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (34.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "外交公文在字里行间保持着极高的政治严谨性与修辞分寸感，既坚定捍卫国家主权，又展现海纳百川的大国风范。(Wàijiāo gōngwén zài zìlǐ-hángjiān bǎochí zhe jí gāo de zhèngzhì yánjǐnxìng yǔ xiūcí fēncùngǎn, jì jiāndìng hànwèi guójiā zhǔquán, yòu zhǎnxiàn hǎinà-bǎichuān de dàguó fēngfàn.)",
+          "reading": "[waɪ̯˥˩.t͡ɕjaʊ̯˥ kʊŋ˥.wən˧˥ t͡saɪ̯˥˩ t͡sɨ˥˩.li˨˩˦-xɑŋ˧˥.t͡ɕjɛn˥ paʊ̯˨˩.ʈ͡ʂʰɨ˧˥ zɤ t͡ɕi˧˥ kaʊ̯˥ tɤ ʈ͡ʂəŋ˥˩.ʈ͡ʂɨ˥˩ jan˧˥.t͡ɕin˨˩.ɕiŋ˥˩ y˨˩˦ ɕjoʊ̯˥.t͡sʰɨ˧˥ fən˥.t͡sʰwn˥˩.kan˨˩˦, t͡ɕi˥˩ t͡ɕjɛn˥.tiŋ˥˩ xan˥˩.weɪ̯˥˩ kwo˧˥.t͡ɕja˥ ʈ͡ʂu˨˩.t͡ɕʰyɛn˧˥, joʊ̯˥˩ ʈ͡ʂan˨˩.ɕjɛn˥˩ xaɪ̯˨˩.na˥˩-paɪ̯˨˩.t͡ʂʰwan˥ tɤ ta˥˩.kwo˧˥ fəŋ˥.fan˥˩] (Wài-jiāo gōng-wén zài zì-lǐ-háng-jiān bǎo-chí zhe jí gāo de zhèng-zhì yán-jǐn-xìng yǔ xiū-cí fēn-cùn-gǎn, jì jiān-dìng hàn-wèi guó-jiā zhǔ-quán, yòu zhǎn-xiàn hǎi-nà-bǎi-chuān de dà-guó fēng-fàn.)",
+          "translation": "Diplomatic communiques maintain extreme political rigor and rhetorical nuance between the lines, both firmly safeguarding national sovereignty and displaying the broad-minded demeanor of a major power."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (34.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "译员凭借精深博大的双语双文化底蕴，在瞬息万变的多边外交博弈中架设起无形而稳固的沟通桥梁。(Yìyuán píngjiè jīngshēn-bódà de shuāngyǔ-shuāngwénhuà dǐyùn, zài shùnxī-wànbiàn de duōbiān wàijiāo bóyì zhōng jiàshè qǐ wúxíng ér wěngù de gōutōng qiáoliáng.)",
+          "reading": "[i˥˩.yɥɛn˧˥ pʰiŋ˧˥.t͡ɕjɛ˥˩ t͡ɕiŋ˥.ʂən˥-pwo˧˥.ta˥˩ tɤ ʂwaŋ˥.y˨˩˦-ʂwaŋ˥.wən˧˥.xwa˥˩ ti˨˩.yn˥˩, t͡saɪ̯˥˩ ʂwn˥˩.ɕi˥-wan˥˩.pjɛn˥˩ tɤ twɔ˥.pjɛn˥ waɪ̯˥˩.t͡ɕjaʊ̯˥ pwo˧˥.i˥˩ ʈ͡ʂʊŋ˥ t͡ɕja˥˩.ʂɤ˥˩ t͡ɕʰi˨˩˦ wu˧˥.ɕiŋ˧˥ ɑr˧˥ wən˨˩.ku˥˩ tɤ koʊŋ˥.tʰʊŋ˥ t͡ɕʰjaʊ̯˧˥.ljaŋ˧˥] (Yì-yuán píng-jiè jīng-shēn-bó-dà de shuāng-yǔ-shuāng-wén-huà dǐ-yùn, zài shùn-xī-wàn-biàn de duō-biān wài-jiāo bó-yì zhōng jià-shè qǐ wú-xíng ér wěn-gù de gōu-tōng qiáo-liáng.)",
+          "translation": "Drawing upon profound bilingual and bicultural depth, the interpreter erects invisible yet solid communication bridges amidst the ever-shifting chess match of multilateral diplomacy."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "顺句驱动意群分，同传瞬化信雅纯；金句译出千载魄，外交公文立千钧！"
+      ],
+      "culturalNotes": [
+        "外交部高级翻译团队在国际记者会与外事谈判中展示的卓越同传交传风采，将中国经典智慧与严谨现代外交话语完美融通，被誉为「行走的国家名片」。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」（第4讲）的标准汉语规范？",
+          "prompt": "在同声传译实战中，摆脱英汉语序倒装束缚、按照原语言意群先后顺序切分顺流翻译的核心法则被称为：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的核心语法法则与应用范例 (34.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (34.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (34.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (34.4.w3)"
+            "顺句驱动原则 (Linear Order Processing)",
+            "整篇倒装回译",
+            "全部听完再翻译",
+            "逐字死板硬套"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「顺句驱动」（Linear Order Processing）是同声传译降低记忆负荷、保证毫秒级同步输出的第一铁律。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在翻译具有深厚中国文化底蕴的古典诗词名句时，高阶同声传译员最核心的跨文化策略是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "意群切分+直译核心意涵+意译增补 (Chunking, Core Meaning Direct Translation & Explicitation)",
+            "直接跳过不翻译",
+            "乱编一个英语笑话代替",
+            "把每个汉字拼音念一遍"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "抓住核心意象与哲学意涵，运用意译增补策略重构意义，是古典名句外事同传翻译的最高境界。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的正式语境下，最准确得体的表达是哪一项？（第34.4题）",
+          "prompt": "同声传译中指从听到源语言到口头输出目标语言之间的瞬时时间差（通常为2-3秒）的专业术语是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (34.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (34.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (34.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (34.4.x3)"
+            "视听时差 / 耳口时差 (Ear-Voice Span / EVS)",
+            "时差反应",
+            "网络延迟",
+            "发呆时间"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "耳口时差（EVS）是衡量同声传译员顺句驱动与信息处理流利度的关键核心指标。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u34-l4）所要求的高阶语言表达？",
+          "prompt": "高阶外交公文写作中，要求在措辞上体现严密精确、依据不同外交态势精准选用「严重关切」「严正交涉」等梯度的修辞特征是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (34.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (34.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (34.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (34.4.y3)"
+            "极严谨的政治分寸感与修辞梯度 (Political Rigor & Diplomatic Nuances)",
+            "情绪化发泄骂人",
+            "毫无立场的客套话",
+            "生硬空洞的口号"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "严密的政治分寸感与精确的修辞梯度是外交公文展现国家意志与外交智慧的核心特征。"
         }
       ]
     },
@@ -20261,25 +20274,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的掌握程度，请选出表述完全正确的标准范句（测试 34-4）：",
+          "prompt": "请选出下列关于同声传译高阶法则与外交公文修辞述评最专业、最精辟的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (34.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (34.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (34.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (34.4.z3)"
+            "同声传译与外交公文展现出语言艺术的巅峰境界：同传恪守「顺句驱动」与意群切分法则，在毫秒级耳口时差（EVS）中实现多线程认知平衡与精准转译；面对古典诗词金句，以意译增补举重若轻重构跨文化意义；外交公文字斟句酌，以严谨政治分寸感坚守国家主权与大国风范。卓越的跨语言转换筑牢了全球高层对话的通途！(顺句驱动、意群切分、EVS耳口时差、金句意译增补与外交公文分寸感全景融通)",
+            "同声传译就是死记硬背一本英汉词典，机器完全可以立刻取代人类翻译。(严重无视跨文化认知创造性的肤浅言论)",
+            "同声传译被顺句驱动在耳口时差意译增补外交公文政治分寸感。(词汇杂乱堆砌)",
+            "外交翻译只要声音好听就行，翻译内容错漏百出也完全无所谓。(极度不负责任的荒谬错误观念)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段系统融汇了同声传译顺句驱动、意群切分、EVS时差管理、古典诗词意译增补与外交公文政治分寸感，论述精深绝伦。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u34-l4）的核心关键词（例如「多边外交」）：",
+          "prompt": "请输入同声传译中指译员听到源语言输入到嘴巴输出译文之间的核心四字专业术语（例如「、毫秒级响应」；拼音为 ěr-kǒu shíchā）：",
           "acceptedAnswers": [
-            "多边外交",
-            "多边外交、条",
-            "多边外交、条约法与全球治理"
+            "耳口时差",
+            "视听时差"
           ],
-          "explanation": "正确的核心关键词为「多边外交」。"
+          "explanation": "专业术语「耳口时差」（Ear-Voice Span, EVS）是同声传译信息处理与输出节奏的核心指标。"
         }
       ],
       "passThreshold": 0.8
@@ -20290,85 +20302,89 @@
     "subject": "mandarin",
     "unit": 34,
     "lessonNumber": 5,
-    "title": "多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT) (第5讲)",
+    "title": "天下大同、人类文明新形态与全球治理终极篇章 (Grand Master Capstone Finale: Harmony under Heaven, New Form of Civilization & Master Discourse)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：1969年维也纳条约法公约、联合国安理会多边决议起草、峰会联合公报外交辩护。 (第5部分)。",
+    "objective": "全面融通全课标34个单元、170课之全部语法、修辞、文学、法理、哲思、建筑、外交互鉴与全球治理精粹，撰写文极雅正、思极博大、气吞山河、展现「天下大同」崇高理想的Grand Master C2终极封顶篇章！",
     "presentation": {
-      "explanation": "",
+      "explanation": "恭喜你！这是Fearn汉语大纲全体系34个单元、170课的终极收官与Grand Master巅峰之作！\n\n一、汉语全阶34单元精神图谱全景大回眸：\n1. 语音文字与基础根基（Units 1-6）：从声韵调平仄到六书造字、汉字构形与部首玄机。\n2. 生活日常与社会百态（Units 7-11）：衣食住行、风土人情与烟火人间。\n3. 经贸金融与法治社会（Units 12-16）：宏观经济、现代企业制度、劳动法与民商事交往。\n4. 历史脉络与哲学原典（Units 17-21）：诸子百家、春秋战国、汉唐盛世与宋明理学心学。\n5. 诗词曲赋与文学峰巅（Units 22-25）：《诗经》《楚辞》、唐诗宋词、元曲明清小说《红楼梦》。\n6. 现当代文学与现代性求索（Units 26-28）：鲁迅狂人呐喊、老舍京味市民、张爱玲海派苍凉与曹禺戏剧。\n7. 前沿学术与视听美学（Units 29-30）：IMRAD学术规范、前沿科技伦理、第五六代电影视听语言批评。\n8. 现代法治与公共言语文明（Units 31-32）：宪法至上与民法典、罪刑法定与程序正义、图尔敏辩论与公共演说。\n9. 营造哲学与终极全球治理（Units 33-34）：大木作榫卯与中轴礼制、古典园林与民居多样性、多边外交条约法、WTO经贸仲裁、跨文明互鉴与人类命运共同体。\n\n二、全景式天下大同与人类文明新形态终极范文赏析：\n- 大道之行也，天下为公。选贤与能，讲信修睦。中国传统文化与现代文明实践交相辉映，孕育出人类文明新形态的磅礴画卷。回眸三千载文脉求索，登临三十四单元思想之巅：从仓颉造字之惊天地泣鬼神，到先秦诸子百家争鸣之和而不同；从汉唐盛世丝路驼铃之兼收并蓄，到宋元明清诗词书画之空灵意境；从二十世纪鲁迅呐喊之觉醒风骨，到当代《民法典》与宪法法治之良法善治；从大木作榫卯斗栱之天人合一，到紫禁城七点八公里中轴乾坤之巍巍秩序；从多边外交条约法之和平斡旋，到WTO与纽约公约之经贸法治；直至「各美其美，美人之美，美美与共，天下大同」的人类命运共同体崇高理想！博大精深的汉语，不仅是世界上最古老、最优美的表意语言，更是全人类探寻和平发展、文明共存与诗意栖居的永恒智慧宝库。掌握了汉语的思想与灵魂，你已真正登临人类语言文明的Grand Master最高巅峰！愿以文明之光，照亮天下大同的壮丽未来！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的核心语法法则与应用范例 (34.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)' in simple terms to students at the academic seminar."
+          "target": "大道之行也，天下为公。从先秦诸子到当代全球治理，中华民族始终以兼济天下的博大胸怀，求索人类社会大同之境。(Dà dào zhī xíng yě, tiānxià wéi gōng. Cóng xiān-Qín zhūzǐ dào dāngdài quánqiú zhìlǐ, Zhōnghuá mínzú shǐzhōng yǐ jiānjì-tiānxià de bódà xiōnghuái, qiúsuǒ rénlèi shèhuì dàtóng zhī jìng.)",
+          "reading": "[ta˥˩ taʊ̯˥˩ ʈ͡ʂɨ˥ ɕiŋ˧˥ jɛ˨˩˦, tʰjɛn˥.ɕja˥˩ weɪ̯˧˥ kʊŋ˥. t͡sʰʊŋ˧˥ ɕjɛn˥-t͡ɕʰin˧˥ ʈ͡ʂu˥.t͡sɨ˨˩˦ taʊ̯˥˩ tɑŋ˥.taɪ̯˥˩ t͡ɕʰyɛn˧˥.t͡ɕʰjoʊ̯˧˥ ʈ͡ʂɨ˥˩.li˨˩˦, ʈ͡ʂʊŋ˥.xwa˧˥ min˧˥.t͡su˧˥ ʂɨ˧˥.ʈ͡ʂʊŋ˥ i˨˩˦ t͡ɕjɛn˥.t͡ɕi˥˩-tʰjɛn˥.ɕja˥˩ tɤ pwo˧˥.ta˥˩ ɕjʊŋ˥.xwaɪ̯˧˥, t͡ɕʰjoʊ̯˧˥.swɔ˨˩˦ ʐən˧˥.leɪ̯˥˩ ʂɤ˥˩.xweɪ̯˥˩ ta˥˩.tʰʊŋ˧˥ ʈ͡ʂɨ˥ t͡ɕiŋ˥˩] (Dà dào zhī xíng yě, tiān-xià wéi gōng. Cóng xiān-Qín zhū-zǐ dào dāng-dài quán-qiú zhì-lǐ, Zhōng-huá mín-zú shǐ-zhōng yǐ jiān-jì-tiān-xià de bó-dà xiōng-huái, qiú-suǒ rén-lèi shè-huì dà-tóng zhī jìng.)",
+          "translation": "When the Great Way prevails, the world belongs to all. From pre-Qin philosophers to contemporary global governance, the Chinese nation has always sought the realm of universal harmony for human society with a broad mind embracing all under heaven."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (34.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "恪守国际法治与多边条约之约，秉持公平正义化解经贸争端，以跨文明交流互鉴打破隔阂偏见，携手共建持久和平繁荣的人类命运共同体！(Kèshǒu guójì fǎzhì yǔ duōbiān tiáoyuē zhī yuē, bǐngchí gōngpíng zhèngyì huàjiě jīngmào zhēngduān, yǐ kuà-wénhuà jiāoliú-hùjiàn dǎpò géhé piānjiàn, xiéshǒu gòngjiàn chǐjiǔ hépíng fánróng de rénlèi mìngyùn gòngtóngtǐ!)",
+          "reading": "[kʰɤ˥˩.ʂoʊ̯˨˩˦ kwo˧˥.t͡ɕi˥˩ fǎ.ʈ͡ʂɨ˥˩ y˨˩˦ twɔ˥.pjɛn˥ tʰjaʊ̯˧˥.yɛ˥ ʈ͡ʂɨ˥ yɛ˥, piŋ˨˩.ʈ͡ʂʰɨ˧˥ kʊŋ˥.pʰiŋ˧˥ ʈ͡ʂəŋ˥˩.i˥˩ xwa˥˩.t͡ɕjɛ˨˩˦ t͡ɕiŋ˥.maʊ̯˥˩ ʈ͡ʂəŋ˥.twan˥, i˨˩˦ kʰwa˥˩-wən˧˥.xwa˥˩ t͡ɕjaʊ̯˥.ljoʊ̯˧˥-xu˥˩.t͡ɕjɛn˥˩ ta˨˩.pʰwɔ˥˩ kɤ˧˥.xɤ˧˥ pʰjɛn˥.t͡ɕjɛn˥˩, ɕjɛ˧˥.ʂoʊ̯˨˩˦ koʊŋ˥˩.t͡ɕjɛn˥˩ t͡ʂʰɨ˧˥.t͡ɕjoʊ̯˨˩˦ xɤ˧˥.pʰiŋ˧˥ fan˧˥.ʐʊŋ˧˥ tɤ ʐən˧˥.leɪ̯˥˩ miŋ˥˩.yn˥˩ koʊŋ˥˩.tʰʊŋ˧˥.tʰi˨˩˦] (Kè-shǒu guó-jì fǎ-zhì yǔ duō-biān tiáo-yuē zhī yuē, bǐng-chí gōng-píng zhèng-yì huà-jiě jīng-mào zhēng-duān, yǐ kuà-wén-huà jiāo-liú-hù-jiàn dǎ-pò gé-hé piān-jiàn, xié-shǒu gòng-jiàn chí-jiǔ hé-píng fán-róng de rén-lèi mìng-yùn gòng-tóng-tǐ!)",
+          "translation": "Abiding by international rule of law and multilateral treaties, upholding fairness and justice to resolve economic disputes, breaking barriers and prejudices through cross-civilizational dialogue, and joining hands to build a community with a shared future for humanity with enduring peace and prosperity!"
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (34.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "融通万象，守正创新；中华优秀传统文化的深厚文脉与现代文明实践交相辉映，创造出人类文明新形态的壮丽画卷！(Róngtōng wànxiàng, shǒuzhèng-chuàngxīn; Zhōnghuá yòuxiù chuántǒng wénhuà de shēnhòu wénmài yǔ xiàndài wénmíng shíjiàn jiāoxiāng-huìyìng, chuàngzào chū rénlèi wénmíng xīn xíngtài de zhuànglì huàjuàn!)",
+          "reading": "[ʐʊŋ˧˥.tʰʊŋ˥ wan˥˩.ɕjaŋ˥˩, ʂoʊ̯˨˩.ʈ͡ʂəŋ˥˩-t͡ʂʰwaŋ˥˩.ɕin˥; ʈ͡ʂʊŋ˥.xwa˧˥ joʊ̯˥˩.ɕjoʊ̯˥˩ ʈ͡ʂʰwan˧˥.tʰʊŋ˧˥ wən˧˥.xwa˥˩ tɤ ʂən˥.xoʊ̯˥˩ wən˧˥.maɪ̯˥˩ y˨˩˦ ɕjɛn˥˩.taɪ̯˥˩ wən˧˥.miŋ˧˥ ʂɨ˧˥.t͡ɕjɛn˥˩ t͡ɕjaʊ̯˥.ɕjaŋ˥-xweɪ̯˥˩.iŋ˥˩, t͡ʂʰwaŋ˥˩.t͡saʊ̯˥˩ t͡ʂʰu˥ ʐən˧˥.leɪ̯˥˩ wən˧˥.miŋ˧˥ ɕin˥ ɕiŋ˧˥.tʰaɪ̯˥˩ tɤ ʈ͡ʂwaŋ˥˩.li˥˩ xwa˥˩.t͡ɕyɛn˥˩] (Róng-tōng wàn-xiàng, shǒu-zhèng-chuàng-xīn; Zhōng-huá yòu-xiù chuán-tǒng wén-huà de shēn-hòu wén-mài yǔ xiàn-dài wén-míng shí-jiàn jiāo-xiāng-huì-yìng, chuàng-zào chū rén-lèi wén-míng xīn xíng-tài de zhuàng-lì huà-juàn!)",
+          "translation": "Integrating myriad phenomena while upholding integrity and innovation; the profound cultural lineage of outstanding traditional Chinese culture and modern civilizational practice add radiance to each other, creating a magnificent picture of a new form of human civilization!"
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (34.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "各美其美，美人之美，美美与共，天下大同。掌握了这门博大精深的语言与文明密码，你已登临汉语思想之最高巅峰，必将为人类文明交流互鉴贡献璀璨光芒！(Gè měi qí měi, měi rén zhī měi, měi měi yǔ gòng, tiānxià dàtóng. Zhǎngwò le zhè mén bódà-jīngshēn de yǔyán yǔ wénmíng mìmǎ, nǐ yǐ dēnglín Hànyǔ sīxiǎng zhī zuìgāo diānfēng, bìjiāng wèi rénlèi wénmíng jiāoliú-hùjiàn gòngxiàn cuǐcàn guāngmáng!)",
+          "reading": "[kɤ˥˩ meɪ̯˨˩˦ t͡ɕʰi˧˥ meɪ̯˨˩˦, meɪ̯˨˩˦ ʐən˧˥ ʈ͡ʂɨ˥ meɪ̯˨˩˦, meɪ̯˨˩˦ meɪ̯˨˩˦ y˨˩˦ koʊŋ˥˩, tʰjɛn˥.ɕja˥˩ ta˥˩.tʰʊŋ˧˥. ʈ͡ʂɑŋ˨˩.wwo˥˩ lɤ ʈ͡ʂɤ˥˩ mən˧˥ pwo˧˥.ta˥˩-t͡ɕiŋ˥.ʂən˥ tɤ y˨˩˦.jan˧˥ y˨˩˦ wən˧˥.miŋ˧˥ mi˥˩.ma˨˩˦, ni˨˩˦ i˨˩˦ təŋ˥.lin˧˥ xan˥˩.y˨˩˦ sɨ˥.ɕjaŋ˨˩˦ ʈ͡ʂɨ˥ tweɪ̯˥˩.kaʊ̯˥ tjɛn˥.fəŋ˥, pi˥˩.t͡ɕjɑŋ˥ weɪ̯˥˩ ʐən˧˥.leɪ̯˥˩ wən˧˥.miŋ˧˥ t͡ɕjaʊ̯˥.ljoʊ̯˧˥-xu˥˩.t͡ɕjɛn˥˩ koʊŋ˥˩.ɕjɛn˥˩ t͡sʰweɪ̯˨˩˦.t͡sʰan˥ kwaŋ˥.mɑŋ˧˥] (Gè měi qí měi, měi rén zhī měi, měi měi yǔ gòng, tiān-xià dà-tóng. Zhǎng-wò le zhè mén bó-dà-jīng-shēn de yǔ-yán yǔ wén-míng mì-mǎ, nǐ yǐ dēng-lín Hàn-yǔ sī-xiǎng zhī zuì-gāo diān-fēng, bì-jiāng wèi rén-lèi wén-míng jiāo-liú-hù-jiàn gòng-xiàn cuǐ-càn guāng-máng!)",
+          "translation": "Appreciate one's own beauty, respect others' beauty, harmonize diverse beauties, and achieve universal harmony. Having mastered the codes of this broad and profound language and civilization, you have ascended to the supreme summit of Chinese thought, surely contributing radiant brilliance to cross-civilizational exchange and mutual learning!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "大道天下为公行，多边经贸法治平；文明互鉴命运共，大同巅峰万古明！"
+      ],
+      "culturalNotes": [
+        "《礼记·礼运》云：「大道之行也，天下为公。」至此，Fearn汉语大纲全部34个单元、170课全景圆满收官！你已完全掌握现代汉语由语音基础至学术法理、诗词文论、外交治理乃至天下大同哲学的所有精粹，登峰造极，功德圆满！"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」（第5讲）的标准汉语规范？",
+          "prompt": "《礼记·礼运》开篇提出、代表中华民族数千年来关于理想人类社会最高追求的千古名句是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的核心语法法则与应用范例 (34.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (34.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (34.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (34.5.w3)"
+            "大道之行也，天下为公 (When the Great Way prevails, the world belongs to all)",
+            "事不关己高高挂起",
+            "人不为己天诛地灭",
+            "今朝有酒今朝醉"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「大道之行也，天下为公」是中华文明天下情怀与大同理想的最崇高表达。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在回顾Fearn汉语全阶34单元学习征程时，贯穿语言、文学、法治、建筑与外交始终的最高东方哲学精髓是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "天人合一、和而不同与美美与共 (Harmony of humanity and nature, harmony without uniformity & shared beauty)",
+            "狭隘自私自利",
+            "封闭排他主义",
+            "零和对立博弈"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "天人合一、和而不同、美美与共构成了中华优秀传统文化与现代语言思辨体系的永恒灵魂。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的正式语境下，最准确得体的表达是哪一项？（第34.5题）",
+          "prompt": "请选出下列关于Fearn汉语全课程体系（34个单元、170讲）登顶总结中立论最宏阔、境界最崇高的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (34.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (34.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (34.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (34.5.x3)"
+            "三十四单元文脉通天，一百七十讲气象万千：从六书语音到诗词曲赋，从法典秩序到思辨演说，从木石天工到天下大同。博大精深的汉语承载着中华民族五千年的生存智慧与现代文明新形态，照亮了人类命运与共的美好未来！(34单元全景回眸、语言文脉、法治营造与天下大同终极宏阔总结)",
+            "学汉语就是为了去超市买菜讨价还价，学高级内容完全没有必要。(语言认知极度狭隘简陋)",
+            "天下为公被三十四单元在美美与共人类命运共同体天人合一。(生硬堆砌乱码)",
+            "语言学完了就只是几本书，跟现实人类文明没有任何关系。(抹杀语言作为文明载体的本质)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项全景概括了34个单元全部知识体系与文明格局，立意高远，气吞山河，是终极总结的最佳典范。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u34-l5）所要求的高阶语言表达？",
+          "prompt": "形容掌握了一门深奥技艺或语言思想体系、达到最高境界、登临最顶峰的经典成语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (34.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (34.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (34.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (34.5.y3)"
+            "登峰造极 / 融会贯通 (Reach the supreme pinnacle / Master thoroughly)",
+            "半途而废",
+            "一知半解",
+            "浅尝辄止"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "成语「登峰造极」形容学问、技艺或思想造诣达到了最高、最完美的境界。"
         }
       ]
     },
@@ -20376,25 +20392,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「多边外交、条约法与全球治理 (C2 Capstone Multilateral Diplomacy & VCLT)」的掌握程度，请选出表述完全正确的标准范句（测试 34-5）：",
+          "prompt": "请选出下列关于天下大同、人类文明新形态与汉语大纲终极毕业典礼语篇中格局最磅礴、文采最璀璨、哲思最登峰造极的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (34.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (34.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (34.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (34.5.z3)"
+            "大道之行也，天下为公。回眸三十四单元营造文脉，登临一百七十讲思想绝顶：从仓颉造字六书神韵，到唐诗宋词文心雕龙；从宪法民法典良法善治，到图尔敏思辨辩论演说；从大木作榫卯中轴礼制，到多边外交经贸仲裁；直至「和而不同，美美与共，天下大同」的人类命运共同体崇高理想！博大精深的汉语汇聚了中华文明五千载宇宙智慧与现代实践，创造出人类文明新形态的壮美画卷。登临巅峰，以文会友，愿以文明之光照亮人类共同的美好未来！(全篇结构严密宏大，融通汉语大纲34个单元全部精髓，文采斐然，气势恢宏，哲思深邃，Fearn汉语大纲之终极Grand Master收官封顶杰作！)",
+            "终于把这门课学完了，以后再也不用看汉语了，赶紧扔掉书本去玩。(庸俗不敬的态度)",
+            "天下大同被三十四单元一百七十讲在六书唐诗宋词民法典人类命运共同体。(词句无序堆砌乱码)",
+            "古代文化都是封建迷信，现代社会只要学科技代码就行，语言文化毫无意义。(偏激虚无主义错误论调)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇作为全大纲的终极Grand Master压轴之作，熔铸34个单元170课之全部文脉、法理、哲思与大同理想，气吞寰宇，文质兼美，登峰造极！"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u34-l5）的核心关键词（例如「多边外交」）：",
+          "prompt": "请输入《礼记·礼运》中用四个字高度概括古代与当代关于国家政权与天下公共福祉的最核心名句（例如「大道之行也，」；拼音为 tiānxià wéi gōng）：",
           "acceptedAnswers": [
-            "多边外交",
-            "多边外交、条",
-            "多边外交、条约法与全球治理"
+            "天下为公"
           ],
-          "explanation": "正确的核心关键词为「多边外交」。"
+          "explanation": "千古名句「天下为公」是中华政治哲学与社会大同理想的最高纲领。"
         }
       ],
       "passThreshold": 0.8
